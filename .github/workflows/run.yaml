@@ -1,0 +1,148 @@
+name: Build R Packages
+
+on:
+  workflow_dispatch:
+    inputs:
+      reset:
+        description: 'Reset the build process'
+        required: false
+        type: boolean
+        default: false
+  schedule:
+    - cron: '*/5 * * * *'
+  push:
+    paths:
+      - 'runs/*/logs/dispatched-packages.txt'
+      - 'runs/*/logs/successful-packages.txt'
+
+concurrency:
+  group: build-r-packages-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
+          persist-credentials: true
+
+      - name: Update to latest
+        run: |
+          BRANCH=${GITHUB_REF#refs/heads/}
+          git pull origin ${BRANCH}
+          git reset --hard origin/${BRANCH}
+
+      - name: save kubeconfig
+        shell: bash
+        run: mkdir -p ~/.kube && echo "${{ secrets.KUBECONFIG }}" > ~/.kube/config
+      
+      - name: Install Kubectl
+        run: |
+          curl -LO "https://storage.googleapis.com/kubernetes-release/release/v1.24.4/bin/linux/amd64/kubectl" && \
+          chmod +x ./kubectl && \
+          mv ./kubectl /usr/local/bin/kubectl && \
+          kubectl version
+
+      - name: Check run state
+        id: check_state
+        run: |
+          git pull origin/main --rebase || true
+          if [[ -f "runid" ]]; then
+            RUN_ID=$(cat runid)
+            # Handle reset logic based on event type
+            if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+              echo "reset=${{ inputs.reset }}" >> $GITHUB_OUTPUT
+            else
+              # For both schedule and push events, check timestamp
+              TIMESTAMP=$(echo $RUN_ID | cut -d- -f1-3)
+              ONE_WEEK_AGO=$(date -d "7 days ago" +%Y-%m-%d)
+              if [[ "${TIMESTAMP}" < "${ONE_WEEK_AGO}" ]]; then
+                echo "reset=true" >> $GITHUB_OUTPUT
+              else
+                echo "reset=false" >> $GITHUB_OUTPUT
+              fi
+            fi
+          else
+            echo "reset=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Manage build lifecycle
+        id: build
+        run: |
+          set -euxo pipefail
+
+          if [[ "${{ steps.check_state.outputs.reset }}" == "true" ]]; then
+            RUN_ID=$(TZ=EST date '+%Y-%m-%d-%H-%M-%S')
+            echo "${RUN_ID}" > runid
+            mkdir -p "runs/${RUN_ID}"
+            CONTAINER=$(cat CONTAINER_BASE_IMAGE.bioc)
+            cp CONTAINER_BASE_IMAGE.bioc "runs/${RUN_ID}/CONTAINER_BASE_IMAGE.bioc"
+            
+            # Generate dependency files in Docker container
+            docker run -d --rm --name bioc-gen-${RUN_ID} \
+              ${CONTAINER} sleep infinity
+
+            # Copy script into container
+            docker cp .github/scripts/deps_json.R bioc-gen-${RUN_ID}:/deps_json.R
+
+            # Run script
+            docker exec bioc-gen-${RUN_ID} Rscript /deps_json.R \
+              --biocdeps=/tmp/biocdeps.json \
+              --uniquedeps=/tmp/uniquedeps.json
+
+            # Copy files from container
+            docker cp bioc-gen-${RUN_ID}:/tmp/biocdeps.json "runs/${RUN_ID}/"
+            docker cp bioc-gen-${RUN_ID}:/tmp/uniquedeps.json "runs/${RUN_ID}/"
+            docker stop bioc-gen-${RUN_ID}
+
+            # Setup Kubernetes resources
+            bash ./.github/scripts/setup_k8s.sh "nfs" "500Gi" "${RUN_ID}"
+          else
+            RUN_ID=$(cat runid)
+            CONTAINER=$(cat "runs/${RUN_ID}/CONTAINER_BASE_IMAGE.bioc")
+            
+            # Handle completed jobs
+            bash ./.github/scripts/handle_k8s_jobs.sh \
+              "${RUN_ID}" \
+              "runs/${RUN_ID}/logs/successful-packages.txt" \
+              "runs/${RUN_ID}/logs/failed-packages.txt"
+          fi
+
+          # Ensure log directory exists before any operations
+          mkdir -p "runs/${RUN_ID}/logs"
+          touch "runs/${RUN_ID}/logs/dispatched-packages.txt"
+
+          # Find and dispatch packages
+          python ./.github/scripts/find_ready_pkgs.py \
+            "runs/${RUN_ID}/biocdeps.json" \
+            "runs/${RUN_ID}/ready_packages.txt" \
+            "runs/${RUN_ID}/logs/dispatched-packages.txt" \
+            "runs/${RUN_ID}/logs/successful-packages.txt"
+          
+          # Dispatch jobs with xargs and delay
+          cat "runs/${RUN_ID}/ready_packages.txt" | xargs -i bash -c "bash ./.github/scripts/dispatch_k8s_job.sh {} ${CONTAINER} bioc-pvc-${RUN_ID} ${RUN_ID} && sleep 1"
+
+          # Track if we had any new activity
+          git add runs/
+          ACTIVITY_CHECK=$(git diff --staged --name-status | grep -q "runs/${RUN_ID}/logs/.*packages.txt" && echo "true" || echo "false")
+          echo "had_activity=${ACTIVITY_CHECK}" >> $GITHUB_OUTPUT
+
+          # Update README
+          pip install tabulate requests pyyaml
+          python ./.github/scripts/update_readme.py "${RUN_ID}"
+          mkdir -p /tmp/restore
+          cp -r runs /tmp/restore/
+          cp runid /tmp/restore/
+          cp README.md /tmp/restore/
+
+      - name: Commit and push results
+        run: |
+          git pull origin main && git reset --hard origin/main || git reset --hard origin/main
+          cp -r /tmp/restore/* ./ || true
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add runs/ runid README.md || true
+          git commit -m "Build state update: ${{ github.run_id }}"
+          git push || (git pull --rebase && git push)
