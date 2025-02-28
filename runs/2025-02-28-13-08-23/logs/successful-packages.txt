@@ -1946,3 +1946,10 @@ lineagespot
 myvariant
 seqCAT
 tpSVG
+DEScan2
+epivizrStandalone
+GUIDEseq
+igvR
+REDseq
+scoreInvHap
+vulcan

@@ -1,0 +1,75 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'vulcan'
+also installing the dependencies ‘DiffBind’, ‘vulcandata’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DiffBind_3.16.0.tar.gz'
+Content type 'application/x-gzip' length 6804650 bytes (6.5 MB)
+==================================================
+downloaded 6.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/vulcandata_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 46925175 bytes (44.8 MB)
+==================================================
+downloaded 44.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/vulcan_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 401270 bytes (391 KB)
+==================================================
+downloaded 391 KB
+
+* installing *source* package ‘DiffBind’ ...
+** package ‘DiffBind’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c bamReader.cpp -o bamReader.o
+bamReader.cpp: In constructor ‘bode::BamReader::BamReader(const std::string&)’:
+bamReader.cpp:22:5: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+   22 |     error("file '%s' does not appear to be a BAM file (bad magic number)",filename.c_str());
+      |     ^~~~~
+      |     perror
+make: *** [/usr/local/lib/R/etc/Makeconf:204: bamReader.o] Error 1
+ERROR: compilation failed for package ‘DiffBind’
+* removing ‘/mnt/library/DiffBind’
+* installing *source* package ‘vulcandata’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘vulcandata’ as ‘vulcandata_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (vulcandata)
+ERROR: dependency ‘DiffBind’ is not available for package ‘vulcan’
+* removing ‘/mnt/library/vulcan’
+
+The downloaded source packages are in
+	‘/tmp/Rtmpl3JCTx/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘DiffBind’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘vulcan’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	1m37.622s
+user	0m17.827s
+sys	0m6.251s

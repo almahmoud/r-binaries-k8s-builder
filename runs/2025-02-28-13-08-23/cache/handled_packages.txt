@@ -224,6 +224,7 @@ DEGreport
 DEGseq
 DELocal
 DEP
+DEScan2
 DESeq2
 DESpace
 DEWSeq
@@ -355,6 +356,7 @@ GSRI
 GSReg
 GSVA
 GSgalgoR
+GUIDEseq
 GWAS.BAYES
 GWASTools
 GWENA
@@ -697,6 +699,7 @@ RCy3
 RCyjs
 RDRToolbox
 REBET
+REDseq
 RGSEA
 RGraph2js
 RITAN
@@ -1208,6 +1211,7 @@ epivizr
 epivizrChart
 epivizrData
 epivizrServer
+epivizrStandalone
 erccdashboard
 esATAC
 escheR
@@ -1379,6 +1383,7 @@ icetea
 idiogram
 idpr
 idr2d
+igvR
 igvShiny
 illuminaio
 imcRtools
@@ -1768,6 +1773,7 @@ scifer
 scmap
 scmeth
 scone
+scoreInvHap
 scoup
 scp
 scran
@@ -1929,6 +1935,7 @@ viper
 vissE
 vsclust
 vsn
+vulcan
 waddR
 wavClusteR
 weaver
