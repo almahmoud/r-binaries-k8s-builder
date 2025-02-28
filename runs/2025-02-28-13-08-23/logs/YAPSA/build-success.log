@@ -1,0 +1,88 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'YAPSA'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/YAPSA_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 4384005 bytes (4.2 MB)
+==================================================
+downloaded 4.2 MB
+
+* installing *source* package ‘YAPSA’ ...
+** package ‘YAPSA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+** testing if installed package can be loaded from final location
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+Found more than one class "atomicVector" in cache; using the first, from namespace 'Matrix'
+Also defined by 'Rmpfr'
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘YAPSA’ as ‘YAPSA_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (YAPSA)
+
+The downloaded source packages are in
+	‘/tmp/RtmplgmZoC/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m28.564s
+user	0m59.523s
+sys	0m9.978s

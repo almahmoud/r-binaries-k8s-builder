@@ -2182,3 +2182,10 @@ SomaticSignatures
 Ularcirc
 VCFArray
 wateRmelon
+AgiMicroRna
+bigmelon
+ChAMP
+MEAT
+SingleMoleculeFootprinting
+skewr
+YAPSA

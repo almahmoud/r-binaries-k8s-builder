@@ -30,6 +30,7 @@ AUCell
 AWFisher
 AffiXcan
 AffyRNADegradation
+AgiMicroRna
 AllelicImbalance
 AlphaBeta
 AlphaMissenseR
@@ -193,6 +194,7 @@ CellTrails
 CelliD
 Cepo
 CexoR
+ChAMP
 ChIPComp
 ChIPQC
 ChIPXpress
@@ -552,6 +554,7 @@ MBttest
 MCbiclust
 MDTS
 MEAL
+MEAT
 MEB
 MEDIPS
 MEDME
@@ -934,6 +937,7 @@ SimFFPE
 SingleCellAlleleExperiment
 SingleCellExperiment
 SingleCellSignalR
+SingleMoleculeFootprinting
 SingleR
 SomaticSignatures
 SpaNorm
@@ -1041,6 +1045,7 @@ XINA
 XNAString
 XVector
 Xeva
+YAPSA
 ZygosityPredictor
 a4
 a4Base
@@ -1125,6 +1130,7 @@ beer
 benchdamic
 betaHMM
 bettr
+bigmelon
 bioCancer
 bioDist
 bioassayR
@@ -2026,6 +2032,7 @@ sitadela
 sitePath
 sizepower
 sketchR
+skewr
 slalom
 slingshot
 smartid

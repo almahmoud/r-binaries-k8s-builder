@@ -1,0 +1,97 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'SingleMoleculeFootprinting'
+also installing the dependency ‘SingleMoleculeFootprintingData’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/SingleMoleculeFootprintingData_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 20559 bytes (20 KB)
+==================================================
+downloaded 20 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SingleMoleculeFootprinting_2.0.0.tar.gz'
+Content type 'application/x-gzip' length 4041366 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+* installing *source* package ‘SingleMoleculeFootprintingData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SingleMoleculeFootprintingData’ as ‘SingleMoleculeFootprintingData_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SingleMoleculeFootprintingData)
+* installing *source* package ‘SingleMoleculeFootprinting’ ...
+** package ‘SingleMoleculeFootprinting’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘Biostrings::setequal’ by ‘dplyr::setequal’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘GenomicRanges::intersect’ by ‘dplyr::intersect’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘GenomicRanges::union’ by ‘dplyr::union’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘BiocGenerics::combine’ by ‘dplyr::combine’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘Biostrings::collapse’ by ‘dplyr::collapse’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘GenomicRanges::setdiff’ by ‘dplyr::setdiff’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘BiocGenerics::Position’ by ‘ggplot2::Position’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘BiocGenerics::boxplot’ by ‘graphics::boxplot’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘Matrix::image’ by ‘graphics::image’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘dplyr::between’ by ‘plyranges::between’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘dplyr::n_distinct’ by ‘plyranges::n_distinct’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘dplyr::n’ by ‘plyranges::n’ when loading ‘SingleMoleculeFootprinting’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘Biostrings::setequal’ by ‘dplyr::setequal’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘GenomicRanges::intersect’ by ‘dplyr::intersect’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘GenomicRanges::union’ by ‘dplyr::union’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘BiocGenerics::combine’ by ‘dplyr::combine’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘Biostrings::collapse’ by ‘dplyr::collapse’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘GenomicRanges::setdiff’ by ‘dplyr::setdiff’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘BiocGenerics::Position’ by ‘ggplot2::Position’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘BiocGenerics::boxplot’ by ‘graphics::boxplot’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘Matrix::image’ by ‘graphics::image’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘dplyr::between’ by ‘plyranges::between’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘dplyr::n_distinct’ by ‘plyranges::n_distinct’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘dplyr::n’ by ‘plyranges::n’ when loading ‘SingleMoleculeFootprinting’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘Biostrings::setequal’ by ‘dplyr::setequal’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘GenomicRanges::intersect’ by ‘dplyr::intersect’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘GenomicRanges::union’ by ‘dplyr::union’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘BiocGenerics::combine’ by ‘dplyr::combine’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘Biostrings::collapse’ by ‘dplyr::collapse’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘GenomicRanges::setdiff’ by ‘dplyr::setdiff’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘BiocGenerics::Position’ by ‘ggplot2::Position’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘BiocGenerics::boxplot’ by ‘graphics::boxplot’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘Matrix::image’ by ‘graphics::image’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘dplyr::between’ by ‘plyranges::between’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘dplyr::n_distinct’ by ‘plyranges::n_distinct’ when loading ‘SingleMoleculeFootprinting’
+Warning: replacing previous import ‘dplyr::n’ by ‘plyranges::n’ when loading ‘SingleMoleculeFootprinting’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SingleMoleculeFootprinting’ as ‘SingleMoleculeFootprinting_2.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SingleMoleculeFootprinting)
+
+The downloaded source packages are in
+	‘/tmp/RtmpWhTDEs/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m14.690s
+user	0m56.026s
+sys	0m9.200s
