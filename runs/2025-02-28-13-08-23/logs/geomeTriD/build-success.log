@@ -1,0 +1,57 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'geomeTriD'
+also installing the dependency ‘manipulateWidget’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/manipulateWidget_0.11.1.tar.gz'
+Content type 'binary/octet-stream' length 2499907 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/geomeTriD_1.0.1.tar.gz'
+Content type 'application/x-gzip' length 1426774 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+* installing *binary* package ‘manipulateWidget’ ...
+* ‘manipulateWidget’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘manipulateWidget’ as ‘manipulateWidget_0.11.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (manipulateWidget)
+* installing *source* package ‘geomeTriD’ ...
+** package ‘geomeTriD’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: 'rgl.init' failed, will use the null device.
+See '?rgl.useNULL' for ways to avoid this warning.
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: 'rgl.init' failed, will use the null device.
+See '?rgl.useNULL' for ways to avoid this warning.
+** testing if installed package can be loaded from final location
+Warning: 'rgl.init' failed, will use the null device.
+See '?rgl.useNULL' for ways to avoid this warning.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘geomeTriD’ as ‘geomeTriD_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (geomeTriD)
+
+The downloaded source packages are in
+	‘/tmp/RtmpdJF7LB/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m40.573s
+user	0m56.523s
+sys	0m10.247s

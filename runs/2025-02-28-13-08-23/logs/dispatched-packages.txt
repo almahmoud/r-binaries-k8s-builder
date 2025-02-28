@@ -2209,3 +2209,10 @@ RNAmodR.AlkAnilineSeq
 RNAmodR.ML
 RNAmodR.RiboMethSeq
 affycoretools
+AgiMicroRna
+ChAMP
+MEAT
+SingleMoleculeFootprinting
+YAPSA
+bigmelon
+skewr

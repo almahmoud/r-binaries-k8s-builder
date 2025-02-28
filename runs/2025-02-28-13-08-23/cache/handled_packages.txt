@@ -195,6 +195,7 @@ Cepo
 CexoR
 ChIPComp
 ChIPQC
+ChIPXpress
 ChIPanalyser
 ChIPexoQual
 ChIPpeakAnno
@@ -260,6 +261,7 @@ DMCFB
 DMCHMM
 DMRScan
 DMRcaller
+DMRcate
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
@@ -310,6 +312,7 @@ EGAD
 EGSEA
 ELMER
 EMDomics
+ENmix
 ERSSA
 EasyCellType
 EmpiricalBrownsMethod
@@ -393,6 +396,7 @@ GWAS.BAYES
 GWASTools
 GWENA
 GateFinder
+GeDi
 GenProSeq
 GenVisR
 GeneBreak
@@ -547,6 +551,7 @@ MBQN
 MBttest
 MCbiclust
 MDTS
+MEAL
 MEB
 MEDIPS
 MEDME
@@ -611,6 +616,7 @@ MetaboAnnotation
 MetaboCoreUtils
 MethPed
 MethTargetedNGS
+MethylAid
 MethylMix
 MethylSeekR
 Mfuzz
@@ -619,6 +625,8 @@ MiPP
 MiRaGE
 MicrobiomeProfiler
 MicrobiotaProcess
+MineICA
+MinimumDistance
 ModCon
 Modstrings
 MoleculeExperiment
@@ -644,7 +652,9 @@ MultiDataSet
 MultiMed
 MultiRNAflow
 MultimodalExperiment
+MungeSumstats
 MutationalPatterns
+NADfinder
 NBAMSeq
 NCIgraph
 NOISeq
@@ -743,6 +753,7 @@ QSutils
 QTLExperiment
 QUBIC
 Qtlizer
+QuasR
 QuaternaryProd
 R3CPET
 R453Plus1Toolbox
@@ -763,6 +774,7 @@ RCyjs
 RDRToolbox
 REBET
 REDseq
+REMP
 RESOLVE
 RGSEA
 RGraph2js
@@ -777,6 +789,9 @@ RNAAgeCalc
 RNASeqPower
 RNAdecay
 RNAmodR
+RNAmodR.AlkAnilineSeq
+RNAmodR.ML
+RNAmodR.RiboMethSeq
 RNAsense
 RNAseqCovarImpute
 ROC
@@ -920,6 +935,7 @@ SingleCellAlleleExperiment
 SingleCellExperiment
 SingleCellSignalR
 SingleR
+SomaticSignatures
 SpaNorm
 SpaceMarkers
 Spaniel
@@ -1000,9 +1016,11 @@ UCell
 UMI4Cats
 UNDO
 UPDhmm
+Ularcirc
 UniProt.ws
 Uniquorn
 VAExprs
+VCFArray
 VDJdive
 VERSO
 VaSP
@@ -1041,6 +1059,7 @@ affyContam
 affyILM
 affyPLM
 affycomp
+affycoretools
 affyio
 affylmGUI
 aggregateBioVar
@@ -1075,6 +1094,7 @@ apComplex
 apeglm
 appreci8R
 aroma.light
+arrayMvout
 arrayQuality
 arrayQualityMetrics
 artMS
@@ -1214,6 +1234,7 @@ consICA
 consensus
 consensusDE
 consensusSeekeR
+conumee
 convert
 copa
 corral
@@ -1262,6 +1283,7 @@ debrowser
 decompTumor2Sig
 decontX
 decontam
+deconvR
 decoupleR
 deepSNV
 deltaCaptureC
@@ -1348,6 +1370,7 @@ fcScan
 fdrame
 fedup
 fenr
+ffpe
 fgga
 fgsea
 findIPs
@@ -1421,6 +1444,7 @@ genomation
 genomeIntervals
 genomes
 genomicInstability
+geomeTriD
 gep2pep
 getDEE2
 geva
@@ -1488,6 +1512,7 @@ iBMQ
 iCARE
 iCNV
 iCOBRA
+iCheck
 iChip
 iClusterPlus
 iGC
@@ -1506,6 +1531,7 @@ iSeq
 iasva
 ibh
 icetea
+ideal
 idiogram
 idpr
 idr2d
@@ -1607,6 +1633,7 @@ methodical
 methrix
 methyLImp2
 methylCC
+methylGSA
 methylInheritance
 methylKit
 methylMnM
@@ -1754,6 +1781,7 @@ pathifier
 pathlinkR
 pathview
 pathwayPCA
+pcaExplorer
 pcaMethods
 pdInfoBuilder
 peakPantheR
@@ -1808,6 +1836,7 @@ progeny
 projectR
 protGear
 proteinProfiles
+psichomics
 ptairMS
 puma
 pvac
@@ -1862,6 +1891,7 @@ regionalpcs
 regioneR
 regioneReloaded
 regsplice
+regutools
 retrofit
 rexposome
 rfPred
@@ -2134,6 +2164,7 @@ vsn
 vtpnet
 vulcan
 waddR
+wateRmelon
 wavClusteR
 weaver
 webbioc

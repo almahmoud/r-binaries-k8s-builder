@@ -1,0 +1,105 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'DMRcate'
+also installing the dependencies ‘FlowSorted.Blood.EPIC’, ‘tissueTreg’, ‘DMRcatedata’, ‘EPICv2manifest’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/FlowSorted.Blood.EPIC_2.10.0.tar.gz'
+Content type 'application/x-gzip' length 98373 bytes (96 KB)
+==================================================
+downloaded 96 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/tissueTreg_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 701045 bytes (684 KB)
+==================================================
+downloaded 684 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/DMRcatedata_2.24.0.tar.gz'
+Content type 'application/x-gzip' length 123217 bytes (120 KB)
+==================================================
+downloaded 120 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/EPICv2manifest_0.99.7.tar.gz'
+Content type 'application/x-gzip' length 7400 bytes
+==================================================
+downloaded 7400 bytes
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DMRcate_3.2.1.tar.gz'
+Content type 'application/x-gzip' length 838840 bytes (819 KB)
+==================================================
+downloaded 819 KB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-FlowSorted.Blood.EPIC’
+* installing *source* package ‘tissueTreg’ ...
+** using staged installation
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tissueTreg’ as ‘tissueTreg_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tissueTreg)
+* installing *source* package ‘DMRcatedata’ ...
+** using staged installation
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DMRcatedata’ as ‘DMRcatedata_2.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DMRcatedata)
+* installing *source* package ‘EPICv2manifest’ ...
+** using staged installation
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EPICv2manifest’ as ‘EPICv2manifest_0.99.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EPICv2manifest)
+* installing *source* package ‘DMRcate’ ...
+** package ‘DMRcate’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DMRcate’ as ‘DMRcate_3.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DMRcate)
+
+The downloaded source packages are in
+	‘/tmp/RtmprRdSQ7/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘FlowSorted.Blood.EPIC’ had non-zero exit status
+
+real	5m27.846s
+user	1m41.403s
+sys	0m16.955s
