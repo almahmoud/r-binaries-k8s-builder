@@ -376,6 +376,7 @@ HiCDOC
 HiCExperiment
 HiCcompare
 HiContacts
+HiCool
 HiTC
 HicAggR
 HilbertCurve
@@ -837,6 +838,7 @@ VplotR
 Wrench
 XDE
 XINA
+XNAString
 XVector
 a4
 a4Base
@@ -859,6 +861,7 @@ affyio
 affylmGUI
 aggregateBioVar
 agilp
+airpart
 alabaster.base
 alabaster.bumpy
 alabaster.files
@@ -1293,6 +1296,7 @@ marray
 martini
 maskBAD
 massiR
+mastR
 matchBox
 matter
 mbQTL
@@ -1662,6 +1666,7 @@ ssrch
 ssviz
 stJoincount
 stageR
+standR
 statTarget
 stepNorm
 struct

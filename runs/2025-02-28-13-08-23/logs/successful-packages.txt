@@ -1749,3 +1749,8 @@ GARS
 HiContacts
 hiReadsProcessor
 VarCon
+airpart
+HiCool
+mastR
+standR
+XNAString
