@@ -693,6 +693,7 @@ QTLExperiment
 QUBIC
 Qtlizer
 QuaternaryProd
+R453Plus1Toolbox
 R4RNA
 RAREsim
 RBGL
@@ -709,6 +710,7 @@ RCyjs
 RDRToolbox
 REBET
 REDseq
+RESOLVE
 RGSEA
 RGraph2js
 RITAN
@@ -816,6 +818,7 @@ SMAD
 SNAGEE
 SNPRelate
 SNPediaR
+SNPhood
 SOMNiBUS
 SPEM
 SPIA
@@ -875,6 +878,7 @@ StabMap
 Statial
 Streamer
 Structstrings
+StructuralVariantAnnotation
 SubCellBarCode
 SummarizedExperiment
 Summix
@@ -916,6 +920,7 @@ TargetScore
 TargetSearch
 TileDBArray
 TissueEnrich
+TitanCNA
 TnT
 ToxicoGx
 TrajectoryGeometry
@@ -938,6 +943,7 @@ VaSP
 VarCon
 VariantAnnotation
 VariantExperiment
+VariantTools
 VegaMC
 VennDetail
 VisiumIO
@@ -948,6 +954,7 @@ XDE
 XINA
 XNAString
 XVector
+ZygosityPredictor
 a4
 a4Base
 a4Classif
@@ -981,6 +988,7 @@ alabaster.schemas
 alabaster.se
 alabaster.spatial
 alabaster.string
+alabaster.vcf
 alevinQC
 altcdfenvs
 amplican

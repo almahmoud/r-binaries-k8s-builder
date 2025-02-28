@@ -1979,3 +1979,11 @@ RareVariantVis
 SigsPack
 transmogR
 Uniquorn
+alabaster.vcf
+R453Plus1Toolbox
+RESOLVE
+SNPhood
+StructuralVariantAnnotation
+TitanCNA
+VariantTools
+ZygosityPredictor

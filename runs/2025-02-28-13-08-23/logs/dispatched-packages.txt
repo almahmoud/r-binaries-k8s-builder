@@ -2071,3 +2071,6 @@ bioCancer
 canceR
 cbaf
 RESOLVE
+alabaster
+svaNUMT
+svaRetro
