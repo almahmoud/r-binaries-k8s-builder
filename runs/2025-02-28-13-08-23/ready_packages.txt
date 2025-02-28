@@ -1,6 +1,5 @@
-IsoCorrectoRGUI
-Rhtslib
-affyio
-cytolib
-rhdf5filters
-seqTools
+DeepPINCS
+EMDomics
+MBCB
+alevinQC
+clstutils

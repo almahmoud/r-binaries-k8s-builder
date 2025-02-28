@@ -1,0 +1,368 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ttgsea'
+also installing the dependencies ‘dtt’, ‘config’, ‘tfautograph’, ‘MatrixExtra’, ‘float’, ‘sylly.en’, ‘sylly’, ‘syuzhet’, ‘english’, ‘mgsub’, ‘qdapRegex’, ‘tensorflow’, ‘tfruns’, ‘zeallot’, ‘rsparse’, ‘mlapi’, ‘lgr’, ‘koRpus.lang.en’, ‘koRpus’, ‘lexicon’, ‘quanteda’, ‘textclean’, ‘textshape’, ‘ISOcodes’, ‘keras’, ‘text2vec’, ‘textstem’, ‘stopwords’, ‘DiagrammeR’, ‘fgsea’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dtt_0.1-2.tar.gz'
+Content type 'binary/octet-stream' length 19658 bytes (19 KB)
+==================================================
+downloaded 19 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/config_0.3.2.tar.gz'
+Content type 'binary/octet-stream' length 102879 bytes (100 KB)
+==================================================
+downloaded 100 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tfautograph_0.3.2.tar.gz'
+Content type 'binary/octet-stream' length 162040 bytes (158 KB)
+==================================================
+downloaded 158 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/MatrixExtra_0.1.15.tar.gz'
+Content type 'binary/octet-stream' length 1519021 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/float_0.3-2.tar.gz'
+Content type 'binary/octet-stream' length 1201949 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sylly.en_0.1-3.tar.gz'
+Content type 'binary/octet-stream' length 274561 bytes (268 KB)
+==================================================
+downloaded 268 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sylly_0.1-6.tar.gz'
+Content type 'binary/octet-stream' length 270462 bytes (264 KB)
+==================================================
+downloaded 264 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/syuzhet_1.0.7.tar.gz'
+Content type 'binary/octet-stream' length 3108644 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/english_1.2-6.tar.gz'
+Content type 'binary/octet-stream' length 128526 bytes (125 KB)
+==================================================
+downloaded 125 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mgsub_1.7.3.tar.gz'
+Content type 'binary/octet-stream' length 38042 bytes (37 KB)
+==================================================
+downloaded 37 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/qdapRegex_0.7.8.tar.gz'
+Content type 'binary/octet-stream' length 400521 bytes (391 KB)
+==================================================
+downloaded 391 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tensorflow_2.16.0.tar.gz'
+Content type 'binary/octet-stream' length 208709 bytes (203 KB)
+==================================================
+downloaded 203 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tfruns_1.5.3.tar.gz'
+Content type 'binary/octet-stream' length 1485931 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/zeallot_0.1.0.tar.gz'
+Content type 'binary/octet-stream' length 59135 bytes (57 KB)
+==================================================
+downloaded 57 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rsparse_0.5.3.tar.gz'
+Content type 'binary/octet-stream' length 900281 bytes (879 KB)
+==================================================
+downloaded 879 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mlapi_0.1.1.tar.gz'
+Content type 'binary/octet-stream' length 241204 bytes (235 KB)
+==================================================
+downloaded 235 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lgr_0.4.4.tar.gz'
+Content type 'binary/octet-stream' length 1406859 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/koRpus.lang.en_0.1-4.tar.gz'
+Content type 'binary/octet-stream' length 19641 bytes (19 KB)
+==================================================
+downloaded 19 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/koRpus_0.13-8.tar.gz'
+Content type 'binary/octet-stream' length 1482203 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lexicon_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 3296752 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/quanteda_4.2.0.tar.gz'
+Content type 'binary/octet-stream' length 2228379 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/textclean_0.9.3.tar.gz'
+Content type 'binary/octet-stream' length 1280987 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/textshape_1.7.5.tar.gz'
+Content type 'binary/octet-stream' length 519491 bytes (507 KB)
+==================================================
+downloaded 507 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ISOcodes_2024.02.12.tar.gz'
+Content type 'binary/octet-stream' length 296532 bytes (289 KB)
+==================================================
+downloaded 289 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/keras_2.15.0.tar.gz'
+Content type 'binary/octet-stream' length 3259102 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/text2vec_0.6.4.tar.gz'
+Content type 'binary/octet-stream' length 3592519 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/textstem_0.1.4.tar.gz'
+Content type 'binary/octet-stream' length 125800 bytes (122 KB)
+==================================================
+downloaded 122 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/stopwords_2.3.tar.gz'
+Content type 'binary/octet-stream' length 225274 bytes (219 KB)
+==================================================
+downloaded 219 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DiagrammeR_1.0.11.tar.gz'
+Content type 'binary/octet-stream' length 2251527 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/fgsea_1.32.2.tar.gz'
+Content type 'application/x-gzip' length 4980260 bytes (4.7 MB)
+==================================================
+downloaded 4.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ttgsea_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 340100 bytes (332 KB)
+==================================================
+downloaded 332 KB
+
+* installing *binary* package ‘dtt’ ...
+* ‘dtt’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dtt’ as ‘dtt_0.1-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dtt)
+* installing *binary* package ‘config’ ...
+* ‘config’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘config’ as ‘config_0.3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (config)
+* installing *binary* package ‘tfautograph’ ...
+* ‘tfautograph’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tfautograph’ as ‘tfautograph_0.3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tfautograph)
+* installing *binary* package ‘float’ ...
+* ‘float’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘float’ as ‘float_0.3-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (float)
+* installing *binary* package ‘sylly’ ...
+* ‘sylly’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sylly’ as ‘sylly_0.1-6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sylly)
+* installing *binary* package ‘english’ ...
+* ‘english’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘english’ as ‘english_1.2-6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (english)
+* installing *binary* package ‘mgsub’ ...
+* ‘mgsub’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mgsub’ as ‘mgsub_1.7.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mgsub)
+* installing *binary* package ‘qdapRegex’ ...
+* ‘qdapRegex’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘qdapRegex’ as ‘qdapRegex_0.7.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qdapRegex)
+* installing *binary* package ‘zeallot’ ...
+* ‘zeallot’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘zeallot’ as ‘zeallot_0.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zeallot)
+* installing *binary* package ‘mlapi’ ...
+* ‘mlapi’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mlapi’ as ‘mlapi_0.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mlapi)
+* installing *binary* package ‘lgr’ ...
+* ‘lgr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lgr’ as ‘lgr_0.4.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lgr)
+* installing *binary* package ‘textshape’ ...
+* ‘textshape’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘textshape’ as ‘textshape_1.7.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (textshape)
+* installing *binary* package ‘ISOcodes’ ...
+* ‘ISOcodes’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ISOcodes’ as ‘ISOcodes_2024.02.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ISOcodes)
+* installing *binary* package ‘DiagrammeR’ ...
+* ‘DiagrammeR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DiagrammeR’ as ‘DiagrammeR_1.0.11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DiagrammeR)
+* installing *source* package ‘fgsea’ ...
+** package ‘fgsea’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ScoreCalculation.cpp -o ScoreCalculation.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ScoreRuler.cpp -o ScoreRuler.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c esCalculation.cpp -o esCalculation.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c fastGSEA.cpp -o fastGSEA.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c fgseaMultilevel.cpp -o fgseaMultilevel.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c fgseaMultilevelSupplement.cpp -o fgseaMultilevelSupplement.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c geseca.cpp -o geseca.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c util.cpp -o util.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o fgsea.so RcppExports.o ScoreCalculation.o ScoreRuler.o esCalculation.o fastGSEA.o fgseaMultilevel.o fgseaMultilevelSupplement.o geseca.o util.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-fgsea/00new/fgsea/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘fgsea’ as ‘fgsea_1.32.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fgsea)
+* installing *binary* package ‘MatrixExtra’ ...
+* ‘MatrixExtra’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘MatrixExtra’ as ‘MatrixExtra_0.1.15_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MatrixExtra)
+* installing *binary* package ‘sylly.en’ ...
+* ‘sylly.en’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sylly.en’ as ‘sylly.en_0.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sylly.en)
+* installing *binary* package ‘syuzhet’ ...
+* ‘syuzhet’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘syuzhet’ as ‘syuzhet_1.0.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (syuzhet)
+* installing *binary* package ‘tfruns’ ...
+* ‘tfruns’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tfruns’ as ‘tfruns_1.5.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tfruns)
+* installing *binary* package ‘koRpus’ ...
+* ‘koRpus’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘koRpus’ as ‘koRpus_0.13-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (koRpus)
+* installing *binary* package ‘stopwords’ ...
+* ‘stopwords’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘stopwords’ as ‘stopwords_2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (stopwords)
+* installing *binary* package ‘tensorflow’ ...
+* ‘tensorflow’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tensorflow’ as ‘tensorflow_2.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tensorflow)
+* installing *binary* package ‘rsparse’ ...
+* ‘rsparse’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rsparse’ as ‘rsparse_0.5.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rsparse)
+* installing *binary* package ‘koRpus.lang.en’ ...
+* ‘koRpus.lang.en’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘koRpus.lang.en’ as ‘koRpus.lang.en_0.1-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (koRpus.lang.en)
+* installing *binary* package ‘lexicon’ ...
+* ‘lexicon’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lexicon’ as ‘lexicon_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lexicon)
+* installing *binary* package ‘quanteda’ ...
+* ‘quanteda’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘quanteda’ as ‘quanteda_4.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (quanteda)
+* installing *binary* package ‘textclean’ ...
+* ‘textclean’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘textclean’ as ‘textclean_0.9.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (textclean)
+* installing *binary* package ‘keras’ ...
+* ‘keras’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘keras’ as ‘keras_2.15.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (keras)
+* installing *binary* package ‘text2vec’ ...
+* ‘text2vec’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘text2vec’ as ‘text2vec_0.6.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (text2vec)
+* installing *binary* package ‘textstem’ ...
+* ‘textstem’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘textstem’ as ‘textstem_0.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (textstem)
+* installing *source* package ‘ttgsea’ ...
+** package ‘ttgsea’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ttgsea’ as ‘ttgsea_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ttgsea)
+
+The downloaded source packages are in
+	‘/tmp/RtmpyWq3yo/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	14m42.486s
+user	0m54.437s
+sys	0m15.241s

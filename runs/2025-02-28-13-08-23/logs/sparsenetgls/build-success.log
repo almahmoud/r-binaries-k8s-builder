@@ -1,0 +1,53 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'sparsenetgls'
+also installing the dependency ‘huge’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/huge_1.3.5.tar.gz'
+Content type 'binary/octet-stream' length 1479172 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/sparsenetgls_1.24.0.tar.gz'
+Content type 'application/x-gzip' length 633595 bytes (618 KB)
+==================================================
+downloaded 618 KB
+
+* installing *binary* package ‘huge’ ...
+* ‘huge’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘huge’ as ‘huge_1.3.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (huge)
+* installing *source* package ‘sparsenetgls’ ...
+** package ‘sparsenetgls’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘sparsenetgls’ as ‘sparsenetgls_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sparsenetgls)
+
+The downloaded source packages are in
+	‘/tmp/RtmpIlcUH6/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	12m34.109s
+user	0m9.006s
+sys	0m4.288s

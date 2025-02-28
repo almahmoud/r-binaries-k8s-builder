@@ -1,0 +1,85 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'BEclear'
+also installing the dependencies ‘tuneR’, ‘dixonTest’, ‘seewave’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tuneR_1.4.7.tar.gz'
+Content type 'binary/octet-stream' length 565496 bytes (552 KB)
+==================================================
+downloaded 552 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dixonTest_1.0.4.tar.gz'
+Content type 'binary/octet-stream' length 42959 bytes (41 KB)
+==================================================
+downloaded 41 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/seewave_2.2.3.tar.gz'
+Content type 'binary/octet-stream' length 3311179 bytes (3.2 MB)
+==================================================
+downloaded 3.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BEclear_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 742509 bytes (725 KB)
+==================================================
+downloaded 725 KB
+
+* installing *binary* package ‘tuneR’ ...
+* ‘tuneR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tuneR’ as ‘tuneR_1.4.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tuneR)
+* installing *binary* package ‘dixonTest’ ...
+* ‘dixonTest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dixonTest’ as ‘dixonTest_1.0.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dixonTest)
+* installing *binary* package ‘seewave’ ...
+* ‘seewave’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘seewave’ as ‘seewave_2.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (seewave)
+* installing *source* package ‘BEclear’ ...
+** package ‘BEclear’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c localLoss.cpp -o localLoss.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o BEclear.so RcppExports.o localLoss.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-BEclear/00new/BEclear/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Error: package or namespace load failed for ‘BEclear’:
+ package ‘uuid’ does not have a namespace
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/BEclear’
+
+The downloaded source packages are in
+	‘/tmp/RtmpmO3Wnq/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘BEclear’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	8m41.606s
+user	0m14.136s
+sys	0m4.244s

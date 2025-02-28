@@ -1,0 +1,334 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'tripr'
+also installing the dependencies ‘SparseArray’, ‘S4Arrays’, ‘DelayedArray’, ‘SummarizedExperiment’, ‘AnnotationDbi’, ‘BiocIO’, ‘matrixStats’, ‘Rsamtools’, ‘GenomicAlignments’, ‘poweRlaw’, ‘annotate’, ‘GO.db’, ‘KEGGREST’, ‘restfulr’, ‘UCSC.utils’, ‘Biobase’, ‘pwalign’, ‘BSgenome’, ‘CNEr’, ‘DirichletMultinomial’, ‘GenomicRanges’, ‘rtracklayer’, ‘TFMPvalue’, ‘attempt’, ‘IRanges’, ‘XVector’, ‘GenomeInfoDb’, ‘TFBSTools’, ‘config’, ‘golem’, ‘Biostrings’, ‘motifStack’, ‘biocthis’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SparseArray_1.6.2.tar.gz'
+Content type 'application/x-gzip' length 468696 bytes (457 KB)
+==================================================
+downloaded 457 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Arrays_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 288435 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationDbi_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 4378038 bytes (4.2 MB)
+==================================================
+downloaded 4.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocIO_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 232338 bytes (226 KB)
+==================================================
+downloaded 226 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/matrixStats_1.5.0.tar.gz'
+Content type 'binary/octet-stream' length 475041 bytes (463 KB)
+==================================================
+downloaded 463 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Rsamtools_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 2925866 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicAlignments_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 2273284 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/poweRlaw_1.0.0.tar.gz'
+Content type 'binary/octet-stream' length 3521572 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/annotate_1.84.0.tar.gz'
+Content type 'application/x-gzip' length 1877068 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/GO.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 26341489 bytes (25.1 MB)
+==================================================
+downloaded 25.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/KEGGREST_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 239655 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/restfulr_0.0.15.tar.gz'
+Content type 'application/x-tar' length 15118 bytes (14 KB)
+==================================================
+downloaded 14 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/UCSC.utils_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 236888 bytes (231 KB)
+==================================================
+downloaded 231 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biobase_2.66.0.tar.gz'
+Content type 'application/x-gzip' length 1978998 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/pwalign_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 355962 bytes (347 KB)
+==================================================
+downloaded 347 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BSgenome_1.74.0.tar.gz'
+Content type 'application/x-gzip' length 5903543 bytes (5.6 MB)
+==================================================
+downloaded 5.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/CNEr_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 10052461 bytes (9.6 MB)
+==================================================
+downloaded 9.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DirichletMultinomial_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 1112440 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicRanges_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 1374658 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rtracklayer_1.66.0.tar.gz'
+Content type 'application/x-gzip' length 4112666 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/TFMPvalue_0.0.9.tar.gz'
+Content type 'binary/octet-stream' length 62263 bytes (60 KB)
+==================================================
+downloaded 60 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/attempt_0.3.1.tar.gz'
+Content type 'binary/octet-stream' length 107754 bytes (105 KB)
+==================================================
+downloaded 105 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/x-gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/TFBSTools_1.44.0.tar.gz'
+Content type 'application/x-gzip' length 601197 bytes (587 KB)
+==================================================
+downloaded 587 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/config_0.3.2.tar.gz'
+Content type 'binary/octet-stream' length 102879 bytes (100 KB)
+==================================================
+downloaded 100 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/golem_0.5.1.tar.gz'
+Content type 'binary/octet-stream' length 1188817 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biostrings_2.74.1.tar.gz'
+Content type 'application/x-gzip' length 12823307 bytes (12.2 MB)
+==================================================
+downloaded 12.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/motifStack_1.50.0.tar.gz'
+Content type 'application/x-gzip' length 2069051 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/biocthis_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 675942 bytes (660 KB)
+==================================================
+downloaded 660 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/tripr_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 3083544 bytes (2.9 MB)
+==================================================
+downloaded 2.9 MB
+
+ERROR: dependency ‘S4Vectors’ is not available for package ‘BiocIO’
+* removing ‘/mnt/library/BiocIO’
+* installing *binary* package ‘matrixStats’ ...
+* ‘matrixStats’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘matrixStats’ as ‘matrixStats_1.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (matrixStats)
+* installing *binary* package ‘poweRlaw’ ...
+* ‘poweRlaw’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘poweRlaw’ as ‘poweRlaw_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (poweRlaw)
+ERROR: dependency ‘S4Vectors’ is not available for package ‘restfulr’
+* removing ‘/mnt/library/restfulr’
+ERROR: dependency ‘S4Vectors’ is not available for package ‘UCSC.utils’
+* removing ‘/mnt/library/UCSC.utils’
+* installing *source* package ‘Biobase’ ...
+** package ‘Biobase’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rinit.c -o Rinit.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c anyMissing.c -o anyMissing.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c envir.c -o envir.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c matchpt.c -o matchpt.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rowMedians.c -o rowMedians.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sublist_extract.c -o sublist_extract.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Biobase.so Rinit.o anyMissing.o envir.o matchpt.o rowMedians.o sublist_extract.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-Biobase/00new/Biobase/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Biobase’ as ‘Biobase_2.66.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Biobase)
+* installing *binary* package ‘TFMPvalue’ ...
+* ‘TFMPvalue’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘TFMPvalue’ as ‘TFMPvalue_0.0.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TFMPvalue)
+* installing *binary* package ‘attempt’ ...
+* ‘attempt’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘attempt’ as ‘attempt_0.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (attempt)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-IRanges’
+* installing *binary* package ‘config’ ...
+* ‘config’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘config’ as ‘config_0.3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (config)
+* installing *source* package ‘biocthis’ ...
+** package ‘biocthis’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biocthis’ as ‘biocthis_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biocthis)
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘S4Arrays’
+* removing ‘/mnt/library/S4Arrays’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘DirichletMultinomial’
+* removing ‘/mnt/library/DirichletMultinomial’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘XVector’
+* removing ‘/mnt/library/XVector’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘UCSC.utils’ are not available for package ‘GenomeInfoDb’
+* removing ‘/mnt/library/GenomeInfoDb’
+* installing *binary* package ‘golem’ ...
+* ‘golem’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘golem’ as ‘golem_0.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (golem)
+ERROR: dependencies ‘S4Vectors’, ‘S4Arrays’, ‘IRanges’, ‘XVector’ are not available for package ‘SparseArray’
+* removing ‘/mnt/library/SparseArray’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘XVector’ are not available for package ‘GenomicRanges’
+* removing ‘/mnt/library/GenomicRanges’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘XVector’, ‘GenomeInfoDb’ are not available for package ‘Biostrings’
+* removing ‘/mnt/library/Biostrings’
+* installing *source* package ‘tripr’ ...
+** package ‘tripr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: no DISPLAY variable so Tk is not available
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package can be loaded from final location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tripr’ as ‘tripr_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tripr)
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘S4Arrays’, ‘SparseArray’ are not available for package ‘DelayedArray’
+* removing ‘/mnt/library/DelayedArray’
+ERROR: dependencies ‘GenomeInfoDb’, ‘GenomicRanges’, ‘Biostrings’, ‘S4Vectors’, ‘IRanges’, ‘XVector’ are not available for package ‘Rsamtools’
+* removing ‘/mnt/library/Rsamtools’
+ERROR: dependency ‘Biostrings’ is not available for package ‘KEGGREST’
+* removing ‘/mnt/library/KEGGREST’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘Biostrings’, ‘XVector’ are not available for package ‘pwalign’
+* removing ‘/mnt/library/pwalign’
+ERROR: dependencies ‘GenomicRanges’, ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘S4Arrays’, ‘DelayedArray’ are not available for package ‘SummarizedExperiment’
+* removing ‘/mnt/library/SummarizedExperiment’
+ERROR: dependencies ‘IRanges’, ‘S4Vectors’, ‘KEGGREST’ are not available for package ‘AnnotationDbi’
+* removing ‘/mnt/library/AnnotationDbi’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘Biostrings’, ‘Rsamtools’ are not available for package ‘GenomicAlignments’
+* removing ‘/mnt/library/GenomicAlignments’
+ERROR: dependency ‘AnnotationDbi’ is not available for package ‘annotate’
+* removing ‘/mnt/library/annotate’
+ERROR: dependency ‘AnnotationDbi’ is not available for package ‘GO.db’
+* removing ‘/mnt/library/GO.db’
+ERROR: dependencies ‘GenomicRanges’, ‘S4Vectors’, ‘IRanges’, ‘XVector’, ‘GenomeInfoDb’, ‘Biostrings’, ‘Rsamtools’, ‘GenomicAlignments’, ‘BiocIO’, ‘restfulr’ are not available for package ‘rtracklayer’
+* removing ‘/mnt/library/rtracklayer’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘GenomicRanges’, ‘Biostrings’, ‘BiocIO’, ‘rtracklayer’, ‘XVector’, ‘Rsamtools’ are not available for package ‘BSgenome’
+* removing ‘/mnt/library/BSgenome’
+ERROR: dependencies ‘Biostrings’, ‘pwalign’, ‘GenomeInfoDb’, ‘GenomicRanges’, ‘rtracklayer’, ‘XVector’, ‘GenomicAlignments’, ‘S4Vectors’, ‘IRanges’, ‘annotate’, ‘GO.db’, ‘KEGGREST’ are not available for package ‘CNEr’
+* removing ‘/mnt/library/CNEr’
+ERROR: dependencies ‘Biostrings’, ‘pwalign’, ‘BSgenome’, ‘CNEr’, ‘DirichletMultinomial’, ‘GenomeInfoDb’, ‘GenomicRanges’, ‘IRanges’, ‘rtracklayer’, ‘S4Vectors’, ‘XVector’ are not available for package ‘TFBSTools’
+* removing ‘/mnt/library/TFBSTools’
+ERROR: dependencies ‘Biostrings’, ‘TFBSTools’ are not available for package ‘motifStack’
+* removing ‘/mnt/library/motifStack’
+
+The downloaded source packages are in
+	‘/tmp/Rtmpr3qViU/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+There were 25 warnings (use warnings() to see them)
+
+real	14m50.900s
+user	0m53.845s
+sys	0m18.279s

@@ -1,0 +1,154 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'hca'
+also installing the dependencies ‘SparseArray’, ‘XVector’, ‘UCSC.utils’, ‘rhdf5’, ‘BiocIO’, ‘DelayedArray’, ‘GenomicRanges’, ‘HDF5Array’, ‘Biobase’, ‘IRanges’, ‘GenomeInfoDb’, ‘S4Arrays’, ‘LoomExperiment’, ‘SummarizedExperiment’, ‘SingleCellExperiment’, ‘S4Vectors’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SparseArray_1.6.2.tar.gz'
+Content type 'application/x-gzip' length 468696 bytes (457 KB)
+==================================================
+downloaded 457 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/UCSC.utils_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 236888 bytes (231 KB)
+==================================================
+downloaded 231 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rhdf5_2.50.2.tar.gz'
+Content type 'application/x-gzip' length 1310189 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocIO_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 232338 bytes (226 KB)
+==================================================
+downloaded 226 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicRanges_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 1374658 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/HDF5Array_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 8107009 bytes (7.7 MB)
+==================================================
+downloaded 7.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biobase_2.66.0.tar.gz'
+Content type 'application/x-gzip' length 1978998 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/x-gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Arrays_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 288435 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/LoomExperiment_1.24.0.tar.gz'
+Content type 'application/x-gzip' length 259831 bytes (253 KB)
+==================================================
+downloaded 253 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SingleCellExperiment_1.28.1.tar.gz'
+Content type 'application/x-gzip' length 985694 bytes (962 KB)
+==================================================
+downloaded 962 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Vectors_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 1076666 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/hca_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 502721 bytes (490 KB)
+==================================================
+downloaded 490 KB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-rhdf5’
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-Biobase’
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-S4Vectors’
+* installing *source* package ‘hca’ ...
+** package ‘hca’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘hca’ as ‘hca_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hca)
+ERROR: dependency ‘S4Vectors’ is not available for package ‘UCSC.utils’
+* removing ‘/mnt/library/UCSC.utils’
+ERROR: dependency ‘S4Vectors’ is not available for package ‘BiocIO’
+* removing ‘/mnt/library/BiocIO’
+ERROR: dependency ‘S4Vectors’ is not available for package ‘IRanges’
+* removing ‘/mnt/library/IRanges’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘XVector’
+* removing ‘/mnt/library/XVector’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘UCSC.utils’ are not available for package ‘GenomeInfoDb’
+* removing ‘/mnt/library/GenomeInfoDb’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘S4Arrays’
+* removing ‘/mnt/library/S4Arrays’
+ERROR: dependencies ‘S4Vectors’, ‘S4Arrays’, ‘IRanges’, ‘XVector’ are not available for package ‘SparseArray’
+* removing ‘/mnt/library/SparseArray’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘XVector’ are not available for package ‘GenomicRanges’
+* removing ‘/mnt/library/GenomicRanges’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘S4Arrays’, ‘SparseArray’ are not available for package ‘DelayedArray’
+* removing ‘/mnt/library/DelayedArray’
+ERROR: dependencies ‘SparseArray’, ‘DelayedArray’, ‘rhdf5’, ‘S4Vectors’, ‘IRanges’, ‘S4Arrays’ are not available for package ‘HDF5Array’
+* removing ‘/mnt/library/HDF5Array’
+ERROR: dependencies ‘GenomicRanges’, ‘Biobase’, ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘S4Arrays’, ‘DelayedArray’ are not available for package ‘SummarizedExperiment’
+* removing ‘/mnt/library/SummarizedExperiment’
+ERROR: dependencies ‘SummarizedExperiment’, ‘S4Vectors’, ‘GenomicRanges’, ‘DelayedArray’ are not available for package ‘SingleCellExperiment’
+* removing ‘/mnt/library/SingleCellExperiment’
+ERROR: dependencies ‘S4Vectors’, ‘SingleCellExperiment’, ‘SummarizedExperiment’, ‘rhdf5’, ‘BiocIO’, ‘DelayedArray’, ‘GenomicRanges’, ‘HDF5Array’ are not available for package ‘LoomExperiment’
+* removing ‘/mnt/library/LoomExperiment’
+
+The downloaded source packages are in
+	‘/tmp/Rtmps5OUd6/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+There were 16 warnings (use warnings() to see them)
+
+real	8m18.247s
+user	0m16.499s
+sys	0m6.269s
