@@ -1,0 +1,90 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'methylumi'
+also installing the dependencies ‘SQN’, ‘TCGAMethylation450k’, ‘FDb.InfiniumMethylation.hg18’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/SQN_1.0.6.tar.gz'
+Content type 'binary/octet-stream' length 105415 bytes (102 KB)
+==================================================
+downloaded 102 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/TCGAMethylation450k_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 84951650 bytes (81.0 MB)
+==================================================
+downloaded 81.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/FDb.InfiniumMethylation.hg18_2.2.0.tar.gz'
+Content type 'application/x-gzip' length 38910200 bytes (37.1 MB)
+==================================================
+downloaded 37.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/methylumi_2.52.0.tar.gz'
+Content type 'application/x-gzip' length 7698853 bytes (7.3 MB)
+==================================================
+downloaded 7.3 MB
+
+* installing *binary* package ‘SQN’ ...
+* ‘SQN’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘SQN’ as ‘SQN_1.0.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SQN)
+* installing *source* package ‘TCGAMethylation450k’ ...
+** using staged installation
+** inst
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TCGAMethylation450k’ as ‘TCGAMethylation450k_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TCGAMethylation450k)
+* installing *source* package ‘FDb.InfiniumMethylation.hg18’ ...
+** using staged installation
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘FDb.InfiniumMethylation.hg18’ as ‘FDb.InfiniumMethylation.hg18_2.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FDb.InfiniumMethylation.hg18)
+* installing *source* package ‘methylumi’ ...
+** package ‘methylumi’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘methylumi’ as ‘methylumi_2.52.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (methylumi)
+
+The downloaded source packages are in
+	‘/tmp/RtmpHyLatY/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	6m37.567s
+user	2m1.946s
+sys	0m15.221s

@@ -2176,3 +2176,6 @@ extraChIPs
 saseR
 spatzie
 yarn
+RnBeads
+lumi
+missMethyl

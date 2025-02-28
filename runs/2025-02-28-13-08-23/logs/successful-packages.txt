@@ -2093,3 +2093,9 @@ epimutacions
 shinyepico
 DrugVsDisease
 methylclock
+erma
+gDNAx
+HiCDCPlus
+methylCC
+methylumi
+saseR

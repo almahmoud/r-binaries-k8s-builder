@@ -453,6 +453,7 @@ Heatplus
 HelloRanges
 Herper
 HiCBricks
+HiCDCPlus
 HiCDOC
 HiCExperiment
 HiCcompare
@@ -1299,6 +1300,7 @@ epivizrData
 epivizrServer
 epivizrStandalone
 erccdashboard
+erma
 esATAC
 escape
 escheR
@@ -1359,6 +1361,7 @@ frmaTools
 funOmics
 funtooNorm
 gCrisprTools
+gDNAx
 gDRcore
 gDRimport
 gDRstyle
@@ -1569,12 +1572,14 @@ methimpute
 methodical
 methrix
 methyLImp2
+methylCC
 methylInheritance
 methylKit
 methylMnM
 methylSig
 methylclock
 methylscaper
+methylumi
 mfa
 mgsa
 miQC
@@ -1849,6 +1854,7 @@ sampleClassifier
 sangeranalyseR
 sangerseqR
 sarks
+saseR
 satuRn
 scAnnotatR
 scBFA
