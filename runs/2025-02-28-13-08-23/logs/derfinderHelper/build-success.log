@@ -1,0 +1,41 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'derfinderHelper'
+also installing the dependency ‘IRanges’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/derfinderHelper_1.40.0.tar.gz'
+Content type 'application/x-gzip' length 317424 bytes (309 KB)
+==================================================
+downloaded 309 KB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-IRanges’
+ERROR: dependency ‘IRanges’ is not available for package ‘derfinderHelper’
+* removing ‘/mnt/library/derfinderHelper’
+
+The downloaded source packages are in
+	‘/tmp/RtmpS8Pphp/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘IRanges’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘derfinderHelper’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m31.834s
+user	0m6.333s
+sys	0m2.390s

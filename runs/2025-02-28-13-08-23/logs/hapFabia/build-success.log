@@ -1,0 +1,108 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'hapFabia'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/hapFabia_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 1704914 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+* installing *source* package ‘hapFabia’ ...
+** package ‘hapFabia’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c interfaceR.c -o interfaceR.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c split_sparse_matrixB.c -o split_sparse_matrixB.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c vcftoFABIAB.c -o vcftoFABIAB.o
+vcftoFABIAB.c: In function ‘vcftoFABIAB’:
+vcftoFABIAB.c:250:21: warning: argument 1 range [9223372036854775808, 18446744073709551615] exceeds maximum object size 9223372036854775807 [-Walloc-size-larger-than=]
+  250 |       snpName[0] =  calloc((long) 50*snps, sizeof(char));
+      |                     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from vcftoFABIAB.c:2:
+/usr/include/stdlib.h:675:14: note: in a call to allocation function ‘calloc’ declared here
+  675 | extern void *calloc (size_t __nmemb, size_t __size)
+      |              ^~~~~~
+vcftoFABIAB.c:258:20: warning: argument 1 range [9223372036854775808, 18446744073709551615] exceeds maximum object size 9223372036854775807 [-Walloc-size-larger-than=]
+  258 |       filter[0] =  calloc((long) 20*snps, sizeof(char));
+      |                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/include/stdlib.h:675:14: note: in a call to allocation function ‘calloc’ declared here
+  675 | extern void *calloc (size_t __nmemb, size_t __size)
+      |              ^~~~~~
+vcftoFABIAB.c:266:18: warning: argument 1 range [9223372036854775808, 18446744073709551615] exceeds maximum object size 9223372036854775807 [-Walloc-size-larger-than=]
+  266 |       qual[0] =  calloc((long) 20*snps, sizeof(char));
+      |                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/include/stdlib.h:675:14: note: in a call to allocation function ‘calloc’ declared here
+  675 | extern void *calloc (size_t __nmemb, size_t __size)
+      |              ^~~~~~
+vcftoFABIAB.c:281:20: warning: argument 1 range [9223372036854775808, 18446744073709551615] exceeds maximum object size 9223372036854775807 [-Walloc-size-larger-than=]
+  281 |       format[0] =  calloc((long) 20*snps, sizeof(char));
+      |                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/include/stdlib.h:675:14: note: in a call to allocation function ‘calloc’ declared here
+  675 | extern void *calloc (size_t __nmemb, size_t __size)
+      |              ^~~~~~
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o hapFabia.so interfaceR.o split_sparse_matrixB.o vcftoFABIAB.o -L/usr/local/lib/R/lib -lR
+gcc -c ./commandLine/split_sparse_matrix.c -o ./commandLine/split_sparse_matrix.o -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g 
+gcc -c split_sparse_matrixB.c -o ./commandLine/split_sparse_matrixB.o -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g 
+gcc ./commandLine/split_sparse_matrix.o ./commandLine/split_sparse_matrixB.o -o ./commandLine/split_sparse_matrix
+mv ./commandLine/split_sparse_matrix ../inst/commandLine/
+gcc -c ./commandLine/vcftoFABIA.c -o ./commandLine/vcftoFABIA.o -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g 
+gcc -c vcftoFABIAB.c -o ./commandLine/vcftoFABIAB.o -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g 
+vcftoFABIAB.c: In function ‘vcftoFABIAB’:
+vcftoFABIAB.c:250:21: warning: argument 1 range [9223372036854775808, 18446744073709551615] exceeds maximum object size 9223372036854775807 [-Walloc-size-larger-than=]
+  250 |       snpName[0] =  calloc((long) 50*snps, sizeof(char));
+      |                     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from vcftoFABIAB.c:2:
+/usr/include/stdlib.h:675:14: note: in a call to allocation function ‘calloc’ declared here
+  675 | extern void *calloc (size_t __nmemb, size_t __size)
+      |              ^~~~~~
+vcftoFABIAB.c:258:20: warning: argument 1 range [9223372036854775808, 18446744073709551615] exceeds maximum object size 9223372036854775807 [-Walloc-size-larger-than=]
+  258 |       filter[0] =  calloc((long) 20*snps, sizeof(char));
+      |                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/include/stdlib.h:675:14: note: in a call to allocation function ‘calloc’ declared here
+  675 | extern void *calloc (size_t __nmemb, size_t __size)
+      |              ^~~~~~
+vcftoFABIAB.c:266:18: warning: argument 1 range [9223372036854775808, 18446744073709551615] exceeds maximum object size 9223372036854775807 [-Walloc-size-larger-than=]
+  266 |       qual[0] =  calloc((long) 20*snps, sizeof(char));
+      |                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/include/stdlib.h:675:14: note: in a call to allocation function ‘calloc’ declared here
+  675 | extern void *calloc (size_t __nmemb, size_t __size)
+      |              ^~~~~~
+vcftoFABIAB.c:281:20: warning: argument 1 range [9223372036854775808, 18446744073709551615] exceeds maximum object size 9223372036854775807 [-Walloc-size-larger-than=]
+  281 |       format[0] =  calloc((long) 20*snps, sizeof(char));
+      |                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/include/stdlib.h:675:14: note: in a call to allocation function ‘calloc’ declared here
+  675 | extern void *calloc (size_t __nmemb, size_t __size)
+      |              ^~~~~~
+gcc ./commandLine/vcftoFABIA.o ./commandLine/vcftoFABIAB.o -o ./commandLine/vcftoFABIA
+mv ./commandLine/vcftoFABIA ../inst/commandLine/
+installing to /mnt/library/00LOCK-hapFabia/00new/hapFabia/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘hapFabia’ as ‘hapFabia_1.48.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hapFabia)
+
+The downloaded source packages are in
+	‘/tmp/RtmpKyqKmy/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m51.916s
+user	0m13.167s
+sys	0m3.245s

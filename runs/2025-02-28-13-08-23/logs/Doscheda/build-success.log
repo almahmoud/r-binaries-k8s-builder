@@ -1,0 +1,61 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'Doscheda'
+also installing the dependency ‘corrgram’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/corrgram_1.14.tar.gz'
+Content type 'binary/octet-stream' length 400583 bytes (391 KB)
+==================================================
+downloaded 391 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Doscheda_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 3966706 bytes (3.8 MB)
+==================================================
+downloaded 3.8 MB
+
+* installing *binary* package ‘corrgram’ ...
+* ‘corrgram’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘corrgram’ as ‘corrgram_1.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (corrgram)
+* installing *source* package ‘Doscheda’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+in method for ‘getInput’ with signature ‘"ChemoProtSet"’: no definition for class “ChemoProtSet”
+in method for ‘getNorm’ with signature ‘"ChemoProtSet"’: no definition for class “ChemoProtSet”
+in method for ‘getFinal’ with signature ‘"ChemoProtSet"’: no definition for class “ChemoProtSet”
+in method for ‘getParameters’ with signature ‘"ChemoProtSet"’: no definition for class “ChemoProtSet”
+in method for ‘getDatasets’ with signature ‘"ChemoProtSet"’: no definition for class “ChemoProtSet”
+in method for ‘boxplot’ with signature ‘"ChemoProtSet"’: no definition for class “ChemoProtSet”
+in method for ‘corrPlot’ with signature ‘"ChemoProtSet"’: no definition for class “ChemoProtSet”
+in method for ‘densityPlot’ with signature ‘"ChemoProtSet"’: no definition for class “ChemoProtSet”
+Creating a new generic function for ‘meanSdPlot’ in package ‘Doscheda’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Doscheda’ as ‘Doscheda_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Doscheda)
+
+The downloaded source packages are in
+	‘/tmp/Rtmptx0cPE/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m53.537s
+user	0m16.257s
+sys	0m4.329s

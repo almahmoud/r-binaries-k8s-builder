@@ -1,0 +1,80 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ComplexHeatmap'
+also installing the dependencies ‘IRanges’, ‘dendsort’, ‘EnrichedHeatmap’, ‘grImport’, ‘grImport2’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dendsort_0.3.4.tar.gz'
+Content type 'binary/octet-stream' length 1169134 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/EnrichedHeatmap_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 12195909 bytes (11.6 MB)
+==================================================
+downloaded 11.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/grImport_0.9-7.tar.gz'
+Content type 'binary/octet-stream' length 792708 bytes (774 KB)
+==================================================
+downloaded 774 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/grImport2_0.3-3.tar.gz'
+Content type 'binary/octet-stream' length 249031 bytes (243 KB)
+==================================================
+downloaded 243 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ComplexHeatmap_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 1472529 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-IRanges’
+* installing *binary* package ‘dendsort’ ...
+* ‘dendsort’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dendsort’ as ‘dendsort_0.3.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dendsort)
+* installing *binary* package ‘grImport’ ...
+* ‘grImport’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘grImport’ as ‘grImport_0.9-7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (grImport)
+* installing *binary* package ‘grImport2’ ...
+* ‘grImport2’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘grImport2’ as ‘grImport2_0.3-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (grImport2)
+ERROR: dependency ‘IRanges’ is not available for package ‘ComplexHeatmap’
+* removing ‘/mnt/library/ComplexHeatmap’
+ERROR: dependencies ‘ComplexHeatmap’, ‘IRanges’ are not available for package ‘EnrichedHeatmap’
+* removing ‘/mnt/library/EnrichedHeatmap’
+
+The downloaded source packages are in
+	‘/tmp/Rtmpu2rWsl/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘IRanges’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘ComplexHeatmap’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘EnrichedHeatmap’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m26.727s
+user	0m8.244s
+sys	0m3.683s

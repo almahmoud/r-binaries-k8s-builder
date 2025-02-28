@@ -1,0 +1,61 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'Spectra'
+also installing the dependencies ‘IRanges’, ‘msentropy’, ‘patrick’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/msentropy_0.1.4.tar.gz'
+Content type 'binary/octet-stream' length 65144 bytes (63 KB)
+==================================================
+downloaded 63 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/patrick_0.3.0.tar.gz'
+Content type 'binary/octet-stream' length 20289 bytes (19 KB)
+==================================================
+downloaded 19 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Spectra_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 1894262 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-IRanges’
+* installing *binary* package ‘msentropy’ ...
+* ‘msentropy’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘msentropy’ as ‘msentropy_0.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (msentropy)
+* installing *binary* package ‘patrick’ ...
+* ‘patrick’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘patrick’ as ‘patrick_0.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (patrick)
+ERROR: dependency ‘IRanges’ is not available for package ‘Spectra’
+* removing ‘/mnt/library/Spectra’
+
+The downloaded source packages are in
+	‘/tmp/Rtmp7ZAxxo/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘IRanges’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘Spectra’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m38.049s
+user	0m7.276s
+sys	0m3.033s

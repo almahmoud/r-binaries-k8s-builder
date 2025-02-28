@@ -1,0 +1,134 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'scde'
+also installing the dependencies ‘Lmoments’, ‘distillery’, ‘Rook’, ‘RMTstat’, ‘extRemes’, ‘WGCNA’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Lmoments_1.3-1.tar.gz'
+Content type 'binary/octet-stream' length 124434 bytes (121 KB)
+==================================================
+downloaded 121 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/distillery_1.2-2.tar.gz'
+Content type 'binary/octet-stream' length 121356 bytes (118 KB)
+==================================================
+downloaded 118 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Rook_1.2.tar.gz'
+Content type 'binary/octet-stream' length 364464 bytes (355 KB)
+==================================================
+downloaded 355 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RMTstat_0.3.1.tar.gz'
+Content type 'binary/octet-stream' length 115968 bytes (113 KB)
+==================================================
+downloaded 113 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/extRemes_2.2.tar.gz'
+Content type 'binary/octet-stream' length 1126108 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/WGCNA_1.73.tar.gz'
+Content type 'binary/octet-stream' length 1177243 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/scde_2.34.0.tar.gz'
+Content type 'application/x-gzip' length 1112489 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+* installing *binary* package ‘Lmoments’ ...
+* ‘Lmoments’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Lmoments’ as ‘Lmoments_1.3-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Lmoments)
+* installing *binary* package ‘distillery’ ...
+* ‘distillery’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘distillery’ as ‘distillery_1.2-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (distillery)
+* installing *binary* package ‘Rook’ ...
+* ‘Rook’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Rook’ as ‘Rook_1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rook)
+* installing *binary* package ‘RMTstat’ ...
+* ‘RMTstat’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RMTstat’ as ‘RMTstat_0.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RMTstat)
+* installing *source* package ‘WGCNA’ ...
+** package ‘WGCNA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DWITH_THREADS -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c corFunctions-utils.c -o corFunctions-utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DWITH_THREADS -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c corFunctions.c -o corFunctions.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DWITH_THREADS -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c myMatrixMultiplication.c -o myMatrixMultiplication.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DWITH_THREADS -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c networkFunctions.c -o networkFunctions.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -DWITH_THREADS -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c parallelQuantile.cc -o parallelQuantile.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DWITH_THREADS -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c pivot.c -o pivot.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o WGCNA.so corFunctions-utils.o corFunctions.o myMatrixMultiplication.o networkFunctions.o parallelQuantile.o pivot.o -lpthread -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-WGCNA/00new/WGCNA/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘WGCNA’ as ‘WGCNA_1.73_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (WGCNA)
+* installing *binary* package ‘extRemes’ ...
+* ‘extRemes’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘extRemes’ as ‘extRemes_2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (extRemes)
+* installing *source* package ‘scde’ ...
+** package ‘scde’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include   -fopenmp  -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c bwpca.cpp -o bwpca.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include   -fopenmp  -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c jpmatLogBoot.cpp -o jpmatLogBoot.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include   -fopenmp  -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c matSlideMult.cpp -o matSlideMult.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include   -fopenmp  -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c pagoda.cpp -o pagoda.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o scde.so bwpca.o jpmatLogBoot.o matSlideMult.o pagoda.o -lpthread -llapack -lblas -lgfortran -lm -lquadmath -fopenmp -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-scde/00new/scde/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘scde’ as ‘scde_2.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scde)
+
+The downloaded source packages are in
+	‘/tmp/RtmpZaE5GV/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m17.492s
+user	1m19.663s
+sys	0m11.271s

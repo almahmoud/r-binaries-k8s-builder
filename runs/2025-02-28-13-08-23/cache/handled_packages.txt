@@ -30,6 +30,7 @@ BUS
 BaseSpaceR
 BayesKnockdown
 BeadDataPackR
+BiGGR
 BiRewire
 BioCartaImage
 BioMVCClass
@@ -50,6 +51,7 @@ BridgeDbR
 BrowserViz
 BufferedMatrix
 BufferedMatrixMethods
+BumpyMatrix
 CARNIVAL
 CFAssay
 CGEN
@@ -60,6 +62,10 @@ CGHregions
 CIMICE
 CMA
 CNAnorm
+CNORdt
+CNORfeeder
+CNORfuzzy
+CNORode
 COMPASS
 CONSTANd
 COSNet
@@ -75,6 +81,7 @@ Clomial
 ClusterJudge
 ClusterSignificance
 ComPrAn
+ComplexHeatmap
 ConsensusClusterPlus
 Cormotif
 CytoGLMM
@@ -96,6 +103,8 @@ DepInfeR
 DepecheR
 DiffLogo
 Director
+DirichletMultinomial
+Doscheda
 DriverNet
 DynDoc
 EBImage
@@ -175,6 +184,7 @@ IntramiRExploreR
 IsoCorrectoR
 IsoCorrectoRGUI
 KBoost
+KCsmart
 KEGGgraph
 KinSwingR
 LBE
@@ -188,6 +198,7 @@ MANOR
 MBAmethyl
 MBCB
 MBttest
+MMUPHin
 MOGAMUN
 MPFE
 MSstats
@@ -214,6 +225,7 @@ ModCon
 MsCoreUtils
 Mulcom
 MultiMed
+NCIgraph
 NOISeq
 NPARC
 NTW
@@ -227,8 +239,10 @@ OLIN
 OLINgui
 OPWeight
 OSAT
+OmicsMLRepoR
 Omixer
 OmnipathR
+OncoSimulR
 OpenStats
 OrderedList
 Oscope
@@ -287,6 +301,7 @@ Rcollectl
 Rcwl
 RcwlPipelines
 Rdisop
+ReUseData
 ReactomeGSA
 ReadqPCR
 RedeR
@@ -301,6 +316,7 @@ Rsubread
 Rtpca
 Rtreemix
 Rvisdiff
+S4Arrays
 S4Vectors
 SANTA
 SBMLR
@@ -314,6 +330,7 @@ SNAGEE
 SNPRelate
 SNPediaR
 SPEM
+SPIA
 SRAdb
 STATegRa
 STRINGdb
@@ -323,6 +340,7 @@ ScreenR
 SharedObject
 SpaceMarkers
 SpeCond
+Spectra
 Streamer
 Summix
 SwathXtend
@@ -342,13 +360,17 @@ VERSO
 VennDetail
 Wrench
 XINA
+XVector
+a4Classif
 a4Core
 a4Preproc
 a4Reporting
+aCGH
 abseqR
 acde
 affxparser
 affy
+affyContam
 affycomp
 affyio
 agilp
@@ -356,6 +378,7 @@ alabaster.base
 alabaster.schemas
 alevinQC
 annotationTools
+anota
 antiProfiles
 aroma.light
 arrayQuality
@@ -368,6 +391,7 @@ bioDist
 bioassayR
 biobroom
 biobtreeR
+biocViews
 biocroxytest
 biocthis
 biodb
@@ -408,6 +432,7 @@ ctc
 ctsGE
 cycle
 cytolib
+dStruct
 daMA
 dcGSA
 dcanr
@@ -418,8 +443,10 @@ decoupleR
 deltaGseg
 demuxmix
 densvis
+derfinderHelper
 diffGeneAnalysis
 diffuStats
+diggit
 dir.expiry
 discordant
 dks
@@ -442,6 +469,7 @@ fastreeR
 fdrame
 fedup
 fenr
+fgga
 fgsea
 flowCyBar
 flowGraph
@@ -452,6 +480,7 @@ fmcsR
 fmrs
 fobitools
 frenchFISH
+frmaTools
 gaga
 garfield
 gcatest
@@ -477,6 +506,7 @@ granulator
 graper
 graph
 gypsum
+hapFabia
 hca
 hierGWAS
 hierinf
@@ -513,6 +543,7 @@ limma
 limmaGUI
 lmdme
 logicFS
+lpNet
 lpsymphony
 maCorrPlot
 maSigPro
@@ -525,6 +556,7 @@ martini
 massiR
 matchBox
 matter
+mbQTL
 mdp
 mdqc
 messina
@@ -532,6 +564,7 @@ metaCCA
 metaSeq
 metabCombiner
 metabinR
+metabomxtr
 metagenomeSeq
 metahdep
 metapod
@@ -548,16 +581,21 @@ mirTarRnaSeq
 mistyR
 mitch
 mixOmics
+mnem
+mosbi
 multiClust
 multiscan
 multtest
 mzID
+mzR
 ndexr
+nethet
 netprioR
 netresponse
 nnNorm
 normalize450K
 nuCpos
+nucleoSim
 occugene
 omada
 ompBAM
@@ -593,6 +631,7 @@ progeny
 projectR
 proteinProfiles
 pvac
+pvca
 qckitfastq
 qcmetrics
 qpcrNorm
@@ -632,6 +671,7 @@ scRecover
 scShapes
 scTHI
 scatterHatch
+scde
 seahtrue
 semisup
 seq.hotSPOT
@@ -678,6 +718,7 @@ tkWidgets
 tomoseqr
 topconfects
 treeio
+trio
 tripr
 ttgsea
 tweeDEseq

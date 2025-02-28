@@ -1,0 +1,76 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'nethet'
+also installing the dependencies ‘ICS’, ‘ICSNP’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ICS_1.4-1.tar.gz'
+Content type 'binary/octet-stream' length 1136991 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ICSNP_1.1-2.tar.gz'
+Content type 'binary/octet-stream' length 205085 bytes (200 KB)
+==================================================
+downloaded 200 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/nethet_1.38.0.tar.gz'
+Content type 'application/x-gzip' length 726648 bytes (709 KB)
+==================================================
+downloaded 709 KB
+
+* installing *binary* package ‘ICS’ ...
+* ‘ICS’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ICS’ as ‘ICS_1.4-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ICS)
+* installing *binary* package ‘ICSNP’ ...
+* ‘ICSNP’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ICSNP’ as ‘ICSNP_1.1-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ICSNP)
+* installing *source* package ‘nethet’ ...
+** package ‘nethet’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c betamat_diffnet.c -o betamat_diffnet.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o nethet.so betamat_diffnet.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-nethet/00new/nethet/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘limma::logsumexp’ by ‘mclust::logsumexp’ when loading ‘nethet’
+Warning: replacing previous import ‘mclust::dmvnorm’ by ‘mvtnorm::dmvnorm’ when loading ‘nethet’
+Warning: replacing previous import ‘multtest::update’ by ‘stats::update’ when loading ‘nethet’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘limma::logsumexp’ by ‘mclust::logsumexp’ when loading ‘nethet’
+Warning: replacing previous import ‘mclust::dmvnorm’ by ‘mvtnorm::dmvnorm’ when loading ‘nethet’
+Warning: replacing previous import ‘multtest::update’ by ‘stats::update’ when loading ‘nethet’
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘limma::logsumexp’ by ‘mclust::logsumexp’ when loading ‘nethet’
+Warning: replacing previous import ‘mclust::dmvnorm’ by ‘mvtnorm::dmvnorm’ when loading ‘nethet’
+Warning: replacing previous import ‘multtest::update’ by ‘stats::update’ when loading ‘nethet’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘nethet’ as ‘nethet_1.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (nethet)
+
+The downloaded source packages are in
+	‘/tmp/RtmpXMn1N6/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m48.107s
+user	0m16.119s
+sys	0m4.101s
