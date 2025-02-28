@@ -173,6 +173,7 @@ ChromSCape
 CiteFuse
 ClassifyR
 Clomial
+CluMSID
 ClustAll
 ClustIRR
 ClusterFoldSimilarity
@@ -579,6 +580,7 @@ PAA
 PADOG
 PAIRADISE
 PANR
+PAST
 PCAN
 PCAtools
 PECA
@@ -611,6 +613,7 @@ Pigengene
 Pirat
 PoDCall
 PolySTest
+Prostar
 ProtGenerics
 ProteoMM
 QDNAseq
@@ -940,6 +943,7 @@ blima
 bluster
 bnbc
 bnem
+branchpointer
 breakpointR
 brendaDb
 broadSeq
@@ -1580,6 +1584,7 @@ scDataviz
 scDblFinder
 scDesign3
 scDiagnostics
+scDotPlot
 scFeatureFilter
 scGPS
 scHOT
@@ -1650,6 +1655,7 @@ snapcount
 snifter
 snm
 snpStats
+soGGi
 spaSim
 sparrow
 sparseMatrixStats
