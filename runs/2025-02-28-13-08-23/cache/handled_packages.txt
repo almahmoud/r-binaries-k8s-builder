@@ -238,6 +238,7 @@ EBSEA
 EBSeq
 EBarrays
 EBcoexpress
+EDASeq
 EDIRquery
 EGAD
 EMDomics
@@ -306,6 +307,7 @@ GeneBreak
 GeneExpressionSignature
 GeneGA
 GeneGeneInteR
+GeneMeta
 GeneNetworkBuilder
 GeneOverlap
 GeneRegionScan
@@ -488,6 +490,7 @@ MicrobiotaProcess
 ModCon
 Modstrings
 MoleculeExperiment
+MoonlightR
 Motif2Site
 MotifDb
 MouseFM
@@ -540,6 +543,7 @@ OncoScore
 OncoSimulR
 OpenStats
 OrderedList
+Organism.dplyr
 Oscope
 OutSplice
 PAA
@@ -561,6 +565,7 @@ PROPER
 PROcess
 PSMatch
 PWMEnrich
+PanomiR
 Path2PPI
 PathNet
 PathoStat
@@ -572,6 +577,7 @@ PhIPData
 PhenStat
 PhenoGeneRanker
 PhosR
+Pigengene
 Pirat
 PoDCall
 PolySTest
@@ -895,6 +901,7 @@ bnbc
 bnem
 breakpointR
 brendaDb
+broadSeq
 bugsigdbr
 cTRAP
 calm
@@ -1027,6 +1034,7 @@ epidecodeR
 epigenomix
 epigraHMM
 epiregulon
+epiregulon.extra
 epistack
 epistasisGA
 epivizrServer
@@ -1040,6 +1048,7 @@ fabia
 factDesign
 factR
 faers
+famat
 fastLiquidAssociation
 fastreeR
 fastseg
@@ -1451,6 +1460,7 @@ rScudo
 rTRM
 rTRMui
 rWikiPathways
+raer
 rain
 ramr
 ramwas

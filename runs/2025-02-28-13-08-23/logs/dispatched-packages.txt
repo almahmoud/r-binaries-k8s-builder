@@ -1870,3 +1870,6 @@ esATAC
 preciseTAD
 segmenter
 seqArchRplus
+DaMiRseq
+RUVSeq
+XDE

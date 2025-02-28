@@ -1,0 +1,82 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'EDASeq'
+also installing the dependencies ‘yeastRNASeq’, ‘leeBamViews’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/yeastRNASeq_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 321840015 bytes (306.9 MB)
+==================================================
+downloaded 306.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/leeBamViews_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 11588066 bytes (11.1 MB)
+==================================================
+downloaded 11.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/EDASeq_2.40.0.tar.gz'
+Content type 'application/x-gzip' length 1191585 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+* installing *source* package ‘yeastRNASeq’ ...
+** using staged installation
+** data
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘yeastRNASeq’ as ‘yeastRNASeq_0.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (yeastRNASeq)
+* installing *source* package ‘leeBamViews’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘leeBamViews’ as ‘leeBamViews_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (leeBamViews)
+* installing *source* package ‘EDASeq’ ...
+** package ‘EDASeq’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EDASeq’ as ‘EDASeq_2.40.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EDASeq)
+
+The downloaded source packages are in
+	‘/tmp/RtmpHEKFi6/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m42.314s
+user	1m37.025s
+sys	0m15.155s

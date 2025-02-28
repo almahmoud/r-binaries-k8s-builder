@@ -1,7 +1,3 @@
-EpiCompare
-MOSClip
-clipper
-esATAC
-preciseTAD
-segmenter
-seqArchRplus
+DaMiRseq
+RUVSeq
+XDE
