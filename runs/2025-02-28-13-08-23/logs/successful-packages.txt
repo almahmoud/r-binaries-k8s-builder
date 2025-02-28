@@ -1006,3 +1006,6 @@ motifTestR
 openCyto
 OVESEG
 seqPattern
+GOfuncR
+IsoBayes
+MsFeatures

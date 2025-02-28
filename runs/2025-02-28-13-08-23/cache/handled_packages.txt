@@ -198,6 +198,7 @@ GLAD
 GMRP
 GNET2
 GOSemSim
+GOfuncR
 GPA
 GRENITS
 GRmetrics
@@ -269,6 +270,7 @@ Icens
 Informeasure
 InteractiveComplexHeatmap
 IntramiRExploreR
+IsoBayes
 IsoCorrectoR
 IsoCorrectoRGUI
 KBoost
@@ -338,6 +340,7 @@ MsBackendMsp
 MsBackendRawFileReader
 MsBackendSql
 MsCoreUtils
+MsFeatures
 Mulcom
 MultiMed
 NCIgraph

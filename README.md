@@ -4,16 +4,16 @@
 
 ## Summary
 
-- 884 packages built successfully
+- 887 packages built successfully
 - 1 packages failed to build
-- 1224 packages not yet processed
+- 1221 packages not yet processed
 
 ## Failed Builds (1)
 | Package                                                                  | Status   | Log                                                         | BBS Status                                                           | Failure Reasons                   |
 |--------------------------------------------------------------------------|----------|-------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------|
 | [CFAssay](https://bioconductor.org/packages/3.20/bioc/html/CFAssay.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/CFAssay/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CFAssay) | Missing R dependency: BiocVersion |
 
-## Successfully Built (884)
+## Successfully Built (887)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                   | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                  |
@@ -900,8 +900,11 @@
 | [motifTestR](https://bioconductor.org/packages/3.20/bioc/html/motifTestR.html)                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/motifTestR/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifTestR)              |
 | [openCyto](https://bioconductor.org/packages/3.20/bioc/html/openCyto.html)                               | Built    | [Log](runs/2025-02-28-13-08-23/logs/openCyto/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/openCyto)                |
 | [seqPattern](https://bioconductor.org/packages/3.20/bioc/html/seqPattern.html)                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/seqPattern/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/seqPattern)              |
+| [GOfuncR](https://bioconductor.org/packages/3.20/bioc/html/GOfuncR.html)                                 | Built    | [Log](runs/2025-02-28-13-08-23/logs/GOfuncR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GOfuncR)                 |
+| [IsoBayes](https://bioconductor.org/packages/3.20/bioc/html/IsoBayes.html)                               | Built    | [Log](runs/2025-02-28-13-08-23/logs/IsoBayes/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/IsoBayes)                |
+| [MsFeatures](https://bioconductor.org/packages/3.20/bioc/html/MsFeatures.html)                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/MsFeatures/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MsFeatures)              |
 
-## Not Yet Processed (1224)
+## Not Yet Processed (1221)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1093,7 +1096,6 @@
 | [GNOSIS](https://bioconductor.org/packages/3.20/bioc/html/GNOSIS.html)                                           | Unprocessed |
 | [GOTHiC](https://bioconductor.org/packages/3.20/bioc/html/GOTHiC.html)                                           | Unprocessed |
 | [GOexpress](https://bioconductor.org/packages/3.20/bioc/html/GOexpress.html)                                     | Unprocessed |
-| [GOfuncR](https://bioconductor.org/packages/3.20/bioc/html/GOfuncR.html)                                         | Unprocessed |
 | [GOpro](https://bioconductor.org/packages/3.20/bioc/html/GOpro.html)                                             | Unprocessed |
 | [GOstats](https://bioconductor.org/packages/3.20/bioc/html/GOstats.html)                                         | Unprocessed |
 | [GRaNIE](https://bioconductor.org/packages/3.20/bioc/html/GRaNIE.html)                                           | Unprocessed |
@@ -1156,7 +1158,6 @@
 | [IntEREst](https://bioconductor.org/packages/3.20/bioc/html/IntEREst.html)                                       | Unprocessed |
 | [InterCellar](https://bioconductor.org/packages/3.20/bioc/html/InterCellar.html)                                 | Unprocessed |
 | [InteractionSet](https://bioconductor.org/packages/3.20/bioc/html/InteractionSet.html)                           | Unprocessed |
-| [IsoBayes](https://bioconductor.org/packages/3.20/bioc/html/IsoBayes.html)                                       | Unprocessed |
 | [IsoformSwitchAnalyzeR](https://bioconductor.org/packages/3.20/bioc/html/IsoformSwitchAnalyzeR.html)             | Unprocessed |
 | [KnowSeq](https://bioconductor.org/packages/3.20/bioc/html/KnowSeq.html)                                         | Unprocessed |
 | [LACE](https://bioconductor.org/packages/3.20/bioc/html/LACE.html)                                               | Unprocessed |
@@ -1229,7 +1230,6 @@
 | [MouseFM](https://bioconductor.org/packages/3.20/bioc/html/MouseFM.html)                                         | Unprocessed |
 | [MsDataHub](https://bioconductor.org/packages/3.20/bioc/html/MsDataHub.html)                                     | Unprocessed |
 | [MsExperiment](https://bioconductor.org/packages/3.20/bioc/html/MsExperiment.html)                               | Unprocessed |
-| [MsFeatures](https://bioconductor.org/packages/3.20/bioc/html/MsFeatures.html)                                   | Unprocessed |
 | [MsQuality](https://bioconductor.org/packages/3.20/bioc/html/MsQuality.html)                                     | Unprocessed |
 | [MuData](https://bioconductor.org/packages/3.20/bioc/html/MuData.html)                                           | Unprocessed |
 | [MultiAssayExperiment](https://bioconductor.org/packages/3.20/bioc/html/MultiAssayExperiment.html)               | Unprocessed |
