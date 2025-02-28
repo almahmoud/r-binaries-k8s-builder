@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1712 packages built successfully
+- 1718 packages built successfully
 - 3 packages failed to build
-- 394 packages not yet processed
+- 388 packages not yet processed
 
 ## Failed Builds (3)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
@@ -15,7 +15,7 @@
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
-## Successfully Built (1712)
+## Successfully Built (1718)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                     |
@@ -1730,8 +1730,14 @@
 | [OrganismDbi](https://bioconductor.org/packages/3.20/bioc/html/OrganismDbi.html)                               | Built    | [Log](runs/2025-02-28-13-08-23/logs/OrganismDbi/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OrganismDbi)                |
 | [RCAS](https://bioconductor.org/packages/3.20/bioc/html/RCAS.html)                                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/RCAS/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RCAS)                       |
 | [SingleCellSignalR](https://bioconductor.org/packages/3.20/bioc/html/SingleCellSignalR.html)                   | Built    | [Log](runs/2025-02-28-13-08-23/logs/SingleCellSignalR/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SingleCellSignalR)          |
+| [BEAT](https://bioconductor.org/packages/3.20/bioc/html/BEAT.html)                                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/BEAT/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BEAT)                       |
+| [Basic4Cseq](https://bioconductor.org/packages/3.20/bioc/html/Basic4Cseq.html)                                 | Built    | [Log](runs/2025-02-28-13-08-23/logs/Basic4Cseq/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Basic4Cseq)                 |
+| [BatchQC](https://bioconductor.org/packages/3.20/bioc/html/BatchQC.html)                                       | Built    | [Log](runs/2025-02-28-13-08-23/logs/BatchQC/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BatchQC)                    |
+| [LOBSTAHS](https://bioconductor.org/packages/3.20/bioc/html/LOBSTAHS.html)                                     | Built    | [Log](runs/2025-02-28-13-08-23/logs/LOBSTAHS/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/LOBSTAHS)                   |
+| [RiboDiPA](https://bioconductor.org/packages/3.20/bioc/html/RiboDiPA.html)                                     | Built    | [Log](runs/2025-02-28-13-08-23/logs/RiboDiPA/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RiboDiPA)                   |
+| [SARC](https://bioconductor.org/packages/3.20/bioc/html/SARC.html)                                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/SARC/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SARC)                       |
 
-## Not Yet Processed (394)
+## Not Yet Processed (388)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1746,12 +1752,9 @@
 | [AnnotationHubData](https://bioconductor.org/packages/3.20/bioc/html/AnnotationHubData.html)                     | Unprocessed |
 | [ArrayExpress](https://bioconductor.org/packages/3.20/bioc/html/ArrayExpress.html)                               | Unprocessed |
 | [BBCAnalyzer](https://bioconductor.org/packages/3.20/bioc/html/BBCAnalyzer.html)                                 | Unprocessed |
-| [BEAT](https://bioconductor.org/packages/3.20/bioc/html/BEAT.html)                                               | Unprocessed |
 | [BOBaFIT](https://bioconductor.org/packages/3.20/bioc/html/BOBaFIT.html)                                         | Unprocessed |
 | [BUSpaRse](https://bioconductor.org/packages/3.20/bioc/html/BUSpaRse.html)                                       | Unprocessed |
 | [BadRegionFinder](https://bioconductor.org/packages/3.20/bioc/html/BadRegionFinder.html)                         | Unprocessed |
-| [Basic4Cseq](https://bioconductor.org/packages/3.20/bioc/html/Basic4Cseq.html)                                   | Unprocessed |
-| [BatchQC](https://bioconductor.org/packages/3.20/bioc/html/BatchQC.html)                                         | Unprocessed |
 | [BayesSpace](https://bioconductor.org/packages/3.20/bioc/html/BayesSpace.html)                                   | Unprocessed |
 | [BioNERO](https://bioconductor.org/packages/3.20/bioc/html/BioNERO.html)                                         | Unprocessed |
 | [BiocHubsShiny](https://bioconductor.org/packages/3.20/bioc/html/BiocHubsShiny.html)                             | Unprocessed |
@@ -1829,7 +1832,6 @@
 | [InPAS](https://bioconductor.org/packages/3.20/bioc/html/InPAS.html)                                             | Unprocessed |
 | [IntEREst](https://bioconductor.org/packages/3.20/bioc/html/IntEREst.html)                                       | Unprocessed |
 | [IsoformSwitchAnalyzeR](https://bioconductor.org/packages/3.20/bioc/html/IsoformSwitchAnalyzeR.html)             | Unprocessed |
-| [LOBSTAHS](https://bioconductor.org/packages/3.20/bioc/html/LOBSTAHS.html)                                       | Unprocessed |
 | [LRcell](https://bioconductor.org/packages/3.20/bioc/html/LRcell.html)                                           | Unprocessed |
 | [MACSr](https://bioconductor.org/packages/3.20/bioc/html/MACSr.html)                                             | Unprocessed |
 | [MADSEQ](https://bioconductor.org/packages/3.20/bioc/html/MADSEQ.html)                                           | Unprocessed |
@@ -1882,12 +1884,10 @@
 | [RgnTX](https://bioconductor.org/packages/3.20/bioc/html/RgnTX.html)                                             | Unprocessed |
 | [Rhisat2](https://bioconductor.org/packages/3.20/bioc/html/Rhisat2.html)                                         | Unprocessed |
 | [RiboCrypt](https://bioconductor.org/packages/3.20/bioc/html/RiboCrypt.html)                                     | Unprocessed |
-| [RiboDiPA](https://bioconductor.org/packages/3.20/bioc/html/RiboDiPA.html)                                       | Unprocessed |
 | [RiboProfiling](https://bioconductor.org/packages/3.20/bioc/html/RiboProfiling.html)                             | Unprocessed |
 | [RnBeads](https://bioconductor.org/packages/3.20/bioc/html/RnBeads.html)                                         | Unprocessed |
 | [RnaSeqSampleSize](https://bioconductor.org/packages/3.20/bioc/html/RnaSeqSampleSize.html)                       | Unprocessed |
 | [Rqc](https://bioconductor.org/packages/3.20/bioc/html/Rqc.html)                                                 | Unprocessed |
-| [SARC](https://bioconductor.org/packages/3.20/bioc/html/SARC.html)                                               | Unprocessed |
 | [SCAN.UPC](https://bioconductor.org/packages/3.20/bioc/html/SCAN.UPC.html)                                       | Unprocessed |
 | [SGSeq](https://bioconductor.org/packages/3.20/bioc/html/SGSeq.html)                                             | Unprocessed |
 | [SMITE](https://bioconductor.org/packages/3.20/bioc/html/SMITE.html)                                             | Unprocessed |

@@ -48,6 +48,7 @@ BANDITS
 BASiCS
 BASiCStan
 BCRANK
+BEAT
 BERT
 BEclear
 BG2
@@ -64,7 +65,9 @@ BUSseq
 BaalChIP
 Banksy
 BaseSpaceR
+Basic4Cseq
 BasicSTARRseq
+BatchQC
 BayesKnockdown
 BeadDataPackR
 BgeeCall
@@ -440,6 +443,7 @@ KnowSeq
 LACE
 LBE
 LEA
+LOBSTAHS
 LOLA
 LPE
 LRBaseDbi
@@ -724,6 +728,7 @@ Rfastp
 Rgraphviz
 Rhdf5lib
 Rhtslib
+RiboDiPA
 Rmagpie
 Rmmquant
 Rnits
@@ -737,6 +742,7 @@ S4Arrays
 S4Vectors
 SAIGEgds
 SANTA
+SARC
 SBGNview
 SBMLR
 SC3

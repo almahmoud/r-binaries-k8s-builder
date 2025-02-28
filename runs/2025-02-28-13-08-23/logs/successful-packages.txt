@@ -1834,3 +1834,9 @@ ORFik
 OrganismDbi
 RCAS
 SingleCellSignalR
+Basic4Cseq
+BatchQC
+BEAT
+LOBSTAHS
+RiboDiPA
+SARC
