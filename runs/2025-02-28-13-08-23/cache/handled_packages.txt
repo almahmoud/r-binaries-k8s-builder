@@ -411,6 +411,7 @@ Harman
 HarmonizR
 Harshlight
 Heatplus
+HelloRanges
 Herper
 HiCBricks
 HiCDOC
@@ -1026,6 +1027,7 @@ biodbUniprot
 biomaRt
 biomformat
 biotmle
+biscuiteer
 blacksheepr
 blima
 bluster
@@ -1042,6 +1044,7 @@ bumphunter
 cTRAP
 calm
 cancerclass
+cardelino
 casper
 categoryCompare
 cbpManager
@@ -1119,6 +1122,7 @@ csdR
 ctc
 ctsGE
 customCMPdb
+customProDB
 cyanoFilter
 cycle
 cydar
@@ -1142,9 +1146,11 @@ ddPCRclust
 dearseq
 debCAM
 debrowser
+decompTumor2Sig
 decontX
 decontam
 decoupleR
+deepSNV
 deltaCaptureC
 deltaGseg
 demuxmix
@@ -1323,6 +1329,7 @@ groHMM
 gscreend
 gsean
 gtrellis
+gwascat
 gypsum
 h5vc
 hapFabia
@@ -1724,6 +1731,7 @@ scDesign3
 scDiagnostics
 scDotPlot
 scFeatureFilter
+scFeatures
 scGPS
 scHOT
 scMET
@@ -1740,6 +1748,7 @@ scTGIF
 scTHI
 scTensor
 scanMiR
+scanMiRApp
 scater
 scatterHatch
 sccomp

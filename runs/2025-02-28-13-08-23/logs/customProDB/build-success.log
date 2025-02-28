@@ -1,0 +1,108 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'customProDB'
+also installing the dependency ‘AhoCorasickTrie’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/AhoCorasickTrie_0.1.3.tar.gz'
+Content type 'binary/octet-stream' length 81966 bytes (80 KB)
+==================================================
+downloaded 80 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/customProDB_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 555675 bytes (542 KB)
+==================================================
+downloaded 542 KB
+
+* installing *binary* package ‘AhoCorasickTrie’ ...
+* ‘AhoCorasickTrie’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘AhoCorasickTrie’ as ‘AhoCorasickTrie_0.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (AhoCorasickTrie)
+* installing *source* package ‘customProDB’ ...
+** package ‘customProDB’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackage’ by ‘txdbmaker::makeTxDbPackage’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTables’ by ‘txdbmaker::supportedUCSCFeatureDbTables’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGFF’ by ‘txdbmaker::makeTxDbFromGFF’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromBiomart’ by ‘txdbmaker::makeTxDbPackageFromBiomart’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::supportedMiRBaseBuildValues’ by ‘txdbmaker::supportedMiRBaseBuildValues’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTracks’ by ‘txdbmaker::supportedUCSCFeatureDbTracks’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::browseUCSCtrack’ by ‘txdbmaker::browseUCSCtrack’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::getChromInfoFromBiomart’ by ‘txdbmaker::getChromInfoFromBiomart’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGRanges’ by ‘txdbmaker::makeTxDbFromGRanges’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCtables’ by ‘txdbmaker::supportedUCSCtables’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromBiomart’ by ‘txdbmaker::makeTxDbFromBiomart’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::UCSCFeatureDbTableSchema’ by ‘txdbmaker::UCSCFeatureDbTableSchema’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromEnsembl’ by ‘txdbmaker::makeTxDbFromEnsembl’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDb’ by ‘txdbmaker::makeTxDb’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeFDbPackageFromUCSC’ by ‘txdbmaker::makeFDbPackageFromUCSC’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromUCSC’ by ‘txdbmaker::makeTxDbFromUCSC’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromUCSC’ by ‘txdbmaker::makeTxDbPackageFromUCSC’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makePackageName’ by ‘txdbmaker::makePackageName’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeFeatureDbFromUCSC’ by ‘txdbmaker::makeFeatureDbFromUCSC’ when loading ‘customProDB’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackage’ by ‘txdbmaker::makeTxDbPackage’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTables’ by ‘txdbmaker::supportedUCSCFeatureDbTables’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGFF’ by ‘txdbmaker::makeTxDbFromGFF’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromBiomart’ by ‘txdbmaker::makeTxDbPackageFromBiomart’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::supportedMiRBaseBuildValues’ by ‘txdbmaker::supportedMiRBaseBuildValues’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTracks’ by ‘txdbmaker::supportedUCSCFeatureDbTracks’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::browseUCSCtrack’ by ‘txdbmaker::browseUCSCtrack’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::getChromInfoFromBiomart’ by ‘txdbmaker::getChromInfoFromBiomart’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGRanges’ by ‘txdbmaker::makeTxDbFromGRanges’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCtables’ by ‘txdbmaker::supportedUCSCtables’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromBiomart’ by ‘txdbmaker::makeTxDbFromBiomart’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::UCSCFeatureDbTableSchema’ by ‘txdbmaker::UCSCFeatureDbTableSchema’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromEnsembl’ by ‘txdbmaker::makeTxDbFromEnsembl’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDb’ by ‘txdbmaker::makeTxDb’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeFDbPackageFromUCSC’ by ‘txdbmaker::makeFDbPackageFromUCSC’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromUCSC’ by ‘txdbmaker::makeTxDbFromUCSC’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromUCSC’ by ‘txdbmaker::makeTxDbPackageFromUCSC’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makePackageName’ by ‘txdbmaker::makePackageName’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeFeatureDbFromUCSC’ by ‘txdbmaker::makeFeatureDbFromUCSC’ when loading ‘customProDB’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackage’ by ‘txdbmaker::makeTxDbPackage’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTables’ by ‘txdbmaker::supportedUCSCFeatureDbTables’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGFF’ by ‘txdbmaker::makeTxDbFromGFF’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromBiomart’ by ‘txdbmaker::makeTxDbPackageFromBiomart’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::supportedMiRBaseBuildValues’ by ‘txdbmaker::supportedMiRBaseBuildValues’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTracks’ by ‘txdbmaker::supportedUCSCFeatureDbTracks’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::browseUCSCtrack’ by ‘txdbmaker::browseUCSCtrack’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::getChromInfoFromBiomart’ by ‘txdbmaker::getChromInfoFromBiomart’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGRanges’ by ‘txdbmaker::makeTxDbFromGRanges’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCtables’ by ‘txdbmaker::supportedUCSCtables’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromBiomart’ by ‘txdbmaker::makeTxDbFromBiomart’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::UCSCFeatureDbTableSchema’ by ‘txdbmaker::UCSCFeatureDbTableSchema’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromEnsembl’ by ‘txdbmaker::makeTxDbFromEnsembl’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDb’ by ‘txdbmaker::makeTxDb’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeFDbPackageFromUCSC’ by ‘txdbmaker::makeFDbPackageFromUCSC’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromUCSC’ by ‘txdbmaker::makeTxDbFromUCSC’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromUCSC’ by ‘txdbmaker::makeTxDbPackageFromUCSC’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makePackageName’ by ‘txdbmaker::makePackageName’ when loading ‘customProDB’
+Warning: replacing previous import ‘GenomicFeatures::makeFeatureDbFromUCSC’ by ‘txdbmaker::makeFeatureDbFromUCSC’ when loading ‘customProDB’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘customProDB’ as ‘customProDB_1.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (customProDB)
+
+The downloaded source packages are in
+	‘/tmp/RtmpQYYdnQ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m43.950s
+user	0m49.755s
+sys	0m8.487s

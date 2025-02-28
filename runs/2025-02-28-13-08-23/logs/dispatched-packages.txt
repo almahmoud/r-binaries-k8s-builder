@@ -2061,3 +2061,8 @@ REDseq
 epivizrStandalone
 scTreeViz
 vulcan
+OMICsPCA
+circRNAprofiler
+mitoClone2
+musicatk
+vtpnet

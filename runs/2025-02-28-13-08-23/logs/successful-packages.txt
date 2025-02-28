@@ -1927,3 +1927,12 @@ FindIT2
 IsoformSwitchAnalyzeR
 MADSEQ
 scTensor
+biscuiteer
+cardelino
+customProDB
+decompTumor2Sig
+deepSNV
+gwascat
+HelloRanges
+scanMiRApp
+scFeatures

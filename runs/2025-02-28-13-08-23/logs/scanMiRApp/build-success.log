@@ -1,0 +1,91 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'scanMiRApp'
+also installing the dependencies ‘scanMiRData’, ‘BSgenome.Mmusculus.UCSC.mm39’, ‘BSgenome.Rnorvegicus.UCSC.rn6’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/scanMiRData_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 16921282 bytes (16.1 MB)
+==================================================
+downloaded 16.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm39_1.4.3.tar.gz'
+Content type 'application/x-gzip' length 629651391 bytes (600.5 MB)
+==================================================
+downloaded 600.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Rnorvegicus.UCSC.rn6_1.4.1.tar.gz'
+Content type 'application/x-gzip' length 650509501 bytes (620.4 MB)
+==================================================
+downloaded 620.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/scanMiRApp_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 928504 bytes (906 KB)
+==================================================
+downloaded 906 KB
+
+* installing *source* package ‘scanMiRData’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘scanMiRData’ as ‘scanMiRData_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scanMiRData)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-BSgenome.Mmusculus.UCSC.mm39’
+* installing *source* package ‘BSgenome.Rnorvegicus.UCSC.rn6’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Rnorvegicus.UCSC.rn6’ as ‘BSgenome.Rnorvegicus.UCSC.rn6_1.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Rnorvegicus.UCSC.rn6)
+* installing *source* package ‘scanMiRApp’ ...
+** package ‘scanMiRApp’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘scanMiRApp’ as ‘scanMiRApp_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scanMiRApp)
+
+The downloaded source packages are in
+	‘/tmp/RtmpJPpg3O/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘BSgenome.Mmusculus.UCSC.mm39’ had non-zero exit status
+
+real	5m33.257s
+user	2m34.179s
+sys	0m22.569s

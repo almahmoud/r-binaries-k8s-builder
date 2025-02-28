@@ -1,7 +1,5 @@
-ATACseqQC
-DEScan2
-GUIDEseq
-REDseq
-epivizrStandalone
-scTreeViz
-vulcan
+OMICsPCA
+circRNAprofiler
+mitoClone2
+musicatk
+vtpnet
