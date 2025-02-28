@@ -143,6 +143,7 @@ CNTools
 CNVMetrics
 CNVPanelizer
 CNVRanger
+COCOA
 COMPASS
 CONFESS
 CONSTANd
@@ -244,6 +245,7 @@ DSS
 DTA
 DaMiRseq
 DeMAND
+DeMixT
 DeconRNASeq
 DeepPINCS
 DegNorm
@@ -740,6 +742,7 @@ RepViz
 Repitools
 ResidualMatrix
 Rfastp
+RgnTX
 Rgraphviz
 Rhdf5lib
 Rhtslib
@@ -970,6 +973,7 @@ autonomics
 awst
 bacon
 ballgown
+bambu
 bamsignals
 bandle
 banocc
@@ -1019,6 +1023,7 @@ bumphunter
 cTRAP
 calm
 cancerclass
+casper
 categoryCompare
 cbpManager
 ccImpute
@@ -1083,6 +1088,7 @@ cosmosR
 countsimQC
 covEB
 covRNA
+cpvSNP
 cqn
 crisprBase
 crisprBowtie
@@ -1115,6 +1121,7 @@ ddPCRclust
 dearseq
 debCAM
 debrowser
+decontX
 decontam
 decoupleR
 deltaCaptureC
@@ -1351,6 +1358,7 @@ iterativeBMAsurv
 ivygapSE
 kebabs
 keggorthology
+kissDE
 kmcut
 koinar
 lapmix
@@ -1822,6 +1830,7 @@ topconfects
 topdownr
 tracktables
 tradeSeq
+transcriptR
 transformGamPoi
 transite
 transomics2cytoscape

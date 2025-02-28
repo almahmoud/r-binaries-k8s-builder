@@ -1,0 +1,134 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'casper'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/casper_2.40.0.tar.gz'
+Content type 'application/x-gzip' length 2383023 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+* installing *source* package ‘casper’ ...
+** package ‘casper’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c casper.cpp -o casper.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c cstat.cpp -o cstat.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c dataframe.cpp -o dataframe.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c discretedf.cpp -o discretedf.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c dropVariant.cpp -o dropVariant.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c exon.cpp -o exon.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fragFunc.c -o fragFunc.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c fragment.cpp -o fragment.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c functions.c -o functions.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c hash.c -o hash.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c join_exons.c -o join_exons.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c makeIslands.c -o makeIslands.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c model.cpp -o model.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c model_cmp.cpp -o model_cmp.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c pathCounts.c -o pathCounts.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c procBam.c -o procBam.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c rcasper.cpp -o rcasper.o
+rcasper.cpp: In function ‘DataFrame* importDataFrame(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+rcasper.cpp:242:17: error: ‘getAttrib’ was not declared in this scope; did you mean ‘Rf_getAttrib’?
+  242 |   SEXP pnames = getAttrib(pathCountsR, R_NamesSymbol);
+      |                 ^~~~~~~~~
+      |                 Rf_getAttrib
+rcasper.cpp: In function ‘void importTranscripts(std::set<Variant*, VariantCmp>*, DataFrame*, SEXP, SEXP)’:
+rcasper.cpp:274:23: error: ‘getAttrib’ was not declared in this scope; did you mean ‘Rf_getAttrib’?
+  274 |         SEXP tnames = getAttrib(transcriptsR, R_NamesSymbol);
+      |                       ^~~~~~~~~
+      |                       Rf_getAttrib
+In file included from rcasper.cpp:7:
+rcasper.cpp: In function ‘SEXPREC* lhoodGrid(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+rcasper.cpp:405:18: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  405 |     PROTECT(ans= allocVector(VECSXP, 7));
+      |                  ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+rcasper.cpp:415:13: error: ‘coerceVector’ was not declared in this scope; did you mean ‘Rf_coerceVector’?
+  415 |     gridR = coerceVector(gridR, REALSXP); //coerce matrix to vector
+      |             ^~~~~~~~~~~~
+      |             Rf_coerceVector
+rcasper.cpp:455:34: error: ‘mkChar’ was not declared in this scope
+  455 |       SET_STRING_ELT(varnamesR,j,mkChar(cname));  //variant name
+      |                                  ^~~~~~
+rcasper.cpp:463:28: error: ‘allocMatrix’ was not declared in this scope; did you mean ‘Rf_allocMatrix’?
+  463 |     SET_VECTOR_ELT(ans, 4, allocMatrix(REALSXP,vc-1,vc-1)); //stores variance of estimated expression (logit scale)
+      |                            ^~~~~~~~~~~
+      |                            Rf_allocMatrix
+rcasper.cpp:553:33: error: ‘mkChar’ was not declared in this scope
+  553 |       SET_STRING_ELT(rownames,j,mkChar(cname));  //path name
+      |                                 ^~~~~~
+rcasper.cpp:563:5: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+  563 |     setAttrib(VECTOR_ELT(ans,5), R_DimNamesSymbol, dimnames);
+      |     ^~~~~~~~~
+      |     Rf_setAttrib
+rcasper.cpp: In function ‘SEXPREC* calcKnownMultiple(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+rcasper.cpp:603:38: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  603 |                 PROTECT(ansMultiple= allocVector(VECSXP, ngenes));
+      |                                      ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+rcasper.cpp: In function ‘SEXPREC* calcKnownSingle(double*, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+rcasper.cpp:699:30: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  699 |                 PROTECT(ans= allocVector(VECSXP, 5));
+      |                              ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+rcasper.cpp:725:46: error: ‘mkChar’ was not declared in this scope
+  725 |                   SET_STRING_ELT(varnamesR,j,mkChar(cname));  //variant name
+      |                                              ^~~~~~
+rcasper.cpp: In function ‘SEXPREC* calcDenovoMultiple(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+rcasper.cpp:822:38: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  822 |                 PROTECT(ansMultiple= allocVector(VECSXP, ngenes));
+      |                                      ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+rcasper.cpp: In function ‘SEXPREC* calcDenovoSingle(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+rcasper.cpp:1026:24: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+ 1026 |           PROTECT(ans= allocVector(VECSXP, 6));
+      |                        ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+rcasper.cpp:1037:34: error: ‘allocMatrix’ was not declared in this scope; did you mean ‘Rf_allocMatrix’?
+ 1037 |           SET_VECTOR_ELT(ans, 0, allocMatrix(REALSXP,nx,3));
+      |                                  ^~~~~~~~~~~
+      |                                  Rf_allocMatrix
+rcasper.cpp:1116:50: error: ‘mkChar’ was not declared in this scope
+ 1116 |                 SET_STRING_ELT(exprvnamesR,rowid,mkChar(sname));
+      |                                                  ^~~~~~
+rcasper.cpp:1158:48: error: ‘mkChar’ was not declared in this scope
+ 1158 |               SET_STRING_ELT(exprvnamesR,rowid,mkChar(sname));
+      |                                                ^~~~~~
+rcasper.cpp:1186:48: error: ‘mkChar’ was not declared in this scope
+ 1186 |             SET_STRING_ELT(varnamesR,idxvarmap,mkChar(sname));  //short variant name
+      |                                                ^~~~~~
+make: *** [/usr/local/lib/R/etc/Makeconf:204: rcasper.o] Error 1
+ERROR: compilation failed for package ‘casper’
+* removing ‘/mnt/library/casper’
+
+The downloaded source packages are in
+	‘/tmp/RtmplkyUCK/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘casper’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	1m54.037s
+user	0m18.203s
+sys	0m5.590s

@@ -1871,3 +1871,12 @@ cytofQC
 ensembldb
 spillR
 TCGAutils
+bambu
+casper
+COCOA
+cpvSNP
+decontX
+DeMixT
+kissDE
+RgnTX
+transcriptR
