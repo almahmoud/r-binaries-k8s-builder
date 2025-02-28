@@ -1,0 +1,61 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'gypsum'
+also installing the dependencies ‘jsonvalidate’, ‘S4Vectors’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/jsonvalidate_1.5.0.tar.gz'
+Content type 'binary/octet-stream' length 177130 bytes (172 KB)
+==================================================
+downloaded 172 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Vectors_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 1076666 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/gypsum_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 284650 bytes (277 KB)
+==================================================
+downloaded 277 KB
+
+* installing *binary* package ‘jsonvalidate’ ...
+* ‘jsonvalidate’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘jsonvalidate’ as ‘jsonvalidate_1.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (jsonvalidate)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-S4Vectors’
+* installing *source* package ‘gypsum’ ...
+** package ‘gypsum’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gypsum’ as ‘gypsum_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gypsum)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp6c091P/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘S4Vectors’ had non-zero exit status
+
+real	6m1.367s
+user	0m7.854s
+sys	0m2.705s

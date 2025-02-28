@@ -1,0 +1,82 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ceRNAnetsim'
+also installing the dependencies ‘graphlayouts’, ‘tidygraph’, ‘furrr’, ‘ggraph’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/graphlayouts_1.2.2.tar.gz'
+Content type 'binary/octet-stream' length 2501421 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidygraph_1.3.1.tar.gz'
+Content type 'binary/octet-stream' length 562371 bytes (549 KB)
+==================================================
+downloaded 549 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/furrr_0.3.1.tar.gz'
+Content type 'binary/octet-stream' length 1019444 bytes (995 KB)
+==================================================
+downloaded 995 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggraph_2.2.1.tar.gz'
+Content type 'binary/octet-stream' length 4523137 bytes (4.3 MB)
+==================================================
+downloaded 4.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ceRNAnetsim_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 3111582 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+* installing *binary* package ‘graphlayouts’ ...
+* ‘graphlayouts’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘graphlayouts’ as ‘graphlayouts_1.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (graphlayouts)
+* installing *binary* package ‘tidygraph’ ...
+* ‘tidygraph’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidygraph’ as ‘tidygraph_1.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidygraph)
+* installing *binary* package ‘furrr’ ...
+* ‘furrr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘furrr’ as ‘furrr_0.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (furrr)
+* installing *binary* package ‘ggraph’ ...
+* ‘ggraph’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggraph’ as ‘ggraph_2.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggraph)
+* installing *source* package ‘ceRNAnetsim’ ...
+** package ‘ceRNAnetsim’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ceRNAnetsim’ as ‘ceRNAnetsim_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ceRNAnetsim)
+
+The downloaded source packages are in
+	‘/tmp/RtmpJqIzwG/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	5m24.585s
+user	0m10.968s
+sys	0m3.628s

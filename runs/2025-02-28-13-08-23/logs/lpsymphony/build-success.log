@@ -1,0 +1,45 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'lpsymphony'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/lpsymphony_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 12469000 bytes (11.9 MB)
+==================================================
+downloaded 11.9 MB
+
+* installing *source* package ‘lpsymphony’ ...
+** package ‘lpsymphony’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c lp_symphony.cc -o lp_symphony.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o lpsymphony.so lp_symphony.o -lSym -lCgl -lOsiClp -lClp -lOsi -lCoinUtils -llapack -lblas -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-lpsymphony/00new/lpsymphony/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘lpsymphony’ as ‘lpsymphony_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lpsymphony)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp0cHDbN/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	5m32.356s
+user	0m8.450s
+sys	0m3.336s

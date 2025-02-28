@@ -1,0 +1,45 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'PhenoGeneRanker'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/PhenoGeneRanker_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 29347 bytes (28 KB)
+==================================================
+downloaded 28 KB
+
+* installing *source* package ‘PhenoGeneRanker’ ...
+** package ‘PhenoGeneRanker’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Error: package or namespace load failed for ‘PhenoGeneRanker’:
+ package ‘iterators’ does not have a namespace
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/PhenoGeneRanker’
+
+The downloaded source packages are in
+	‘/tmp/RtmpbdpJHS/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘PhenoGeneRanker’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	8m9.138s
+user	0m6.646s
+sys	0m3.185s

@@ -1,0 +1,193 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'NetPathMiner'
+also installing the dependency ‘rBiopaxParser’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rBiopaxParser_2.46.0.tar.gz'
+Content type 'application/x-gzip' length 922175 bytes (900 KB)
+==================================================
+downloaded 900 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/NetPathMiner_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 2398028 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+* installing *source* package ‘rBiopaxParser’ ...
+** package ‘rBiopaxParser’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rBiopaxParser’ as ‘rBiopaxParser_2.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rBiopaxParser)
+* installing *source* package ‘NetPathMiner’ ...
+** package ‘NetPathMiner’ successfully unpacked and MD5 sums checked
+** using staged installation
+'config' variable 'CPP' is defunct
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking how to run the C preprocessor... gcc -E
+checking for xmlParseFile in -lxml2... yes
+checking for readSBML in -lsbml... yes
+libSBML found, finding configuration...
+pkg-config tool found
+Couldn't find libsbml.pc. Searching for libsbml in candidate directories.
+checking for xml2-config... /usr/bin/xml2-config
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include -DHAVE_XML -I/usr/include/libxml2 -DHAVE_SBML -I/usr/include/  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c handlesegfault.c -o handlesegfault.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include -DHAVE_XML -I/usr/include/libxml2 -DHAVE_SBML -I/usr/include/  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c hme3m.c -o hme3m.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include -DHAVE_XML -I/usr/include/libxml2 -DHAVE_SBML -I/usr/include/  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include -DHAVE_XML -I/usr/include/libxml2 -DHAVE_SBML -I/usr/include/  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c kgml_interface.cpp -o kgml_interface.o
+kgml_interface.cpp: In function ‘SEXPREC* readkgmlfile(SEXP, SEXP)’:
+kgml_interface.cpp:49:32: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+   49 |                 Rf_warningcall(mkChar(filename), "Unable to parse file");
+      |                                ^~~~~~
+      |                                xmlChar
+kgml_interface.cpp:59:32: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+   59 |                 Rf_warningcall(mkChar(filename), "File is not KEGG pathway file");
+      |                                ^~~~~~
+      |                                xmlChar
+kgml_interface.cpp:68:32: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+   68 |                 Rf_warningcall(mkChar(filename), "No pathways in file");
+      |                                ^~~~~~
+      |                                xmlChar
+kgml_interface.cpp:75:32: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+   75 |                 Rf_warningcall(mkChar(filename), "Pathway ID not found in file. Using file name instead.");
+      |                                ^~~~~~
+      |                                xmlChar
+kgml_interface.cpp:83:32: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+   83 |                 Rf_warningcall(mkChar(pathwayId), "Pathway title not found in file.");
+      |                                ^~~~~~
+      |                                xmlChar
+kgml_interface.cpp:91:32: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+   91 |                 Rf_warningcall(mkChar(filename), "Unable to create new XPath context");
+      |                                ^~~~~~
+      |                                xmlChar
+kgml_interface.cpp:100:32: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+  100 |                 Rf_warningcall(mkChar(pathwayId), "Pathway contains no reactions");
+      |                                ^~~~~~
+      |                                xmlChar
+In file included from /usr/local/lib/R/include/Rdefines.h:41,
+                 from handlesegfault.h:10,
+                 from kgml_interface.cpp:9:
+kgml_interface.cpp:115:28: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  115 |     PROTECT(REACTIONLIST = allocVector(VECSXP,size));
+      |                            ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+kgml_interface.cpp:126:29: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+  126 |         SET_STRING_ELT(ID,i,mkChar(name));
+      |                             ^~~~~~
+      |                             xmlChar
+kgml_interface.cpp:214:17: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+  214 |                 setAttrib(REACTION,R_NamesSymbol,REACTIONNAMES);
+      |                 ^~~~~~~~~
+      |                 Rf_setAttrib
+kgml_interface.cpp:221:5: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+  221 |     setAttrib(REACTIONLIST,R_NamesSymbol,ID);
+      |     ^~~~~~~~~
+      |     Rf_setAttrib
+kgml_interface.cpp: In function ‘SEXPREC* readkgml_sign(SEXP, SEXP, SEXP)’:
+kgml_interface.cpp:250:28: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  250 |         PROTECT(VERTICES = allocVector(VECSXP,vertices.size() ));
+      |                            ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+kgml_interface.cpp:259:46: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+  259 |                 SET_STRING_ELT(V_NAMES, vit, mkChar( v_name ));
+      |                                              ^~~~~~
+      |                                              xmlChar
+kgml_interface.cpp:306:17: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+  306 |                 setAttrib(V_ATTR,R_NamesSymbol,ATTR_NAMES);
+      |                 ^~~~~~~~~
+      |                 Rf_setAttrib
+kgml_interface.cpp:312:9: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+  312 |         setAttrib(VERTICES,R_NamesSymbol,V_NAMES);
+      |         ^~~~~~~~~
+      |         Rf_setAttrib
+kgml_interface.cpp:326:61: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+  326 |                                 SET_STRING_ELT(EIT_ATTR, i, mkChar( attr_i +4 )); SET_STRING_ELT(ATTR_NAMES, i, mkChar("miriam.kegg.compound"));
+      |                                                             ^~~~~~
+      |                                                             xmlChar
+kgml_interface.cpp:328:61: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+  328 |                                 SET_STRING_ELT(EIT_ATTR, i, mkChar( attr_i )); SET_STRING_ELT(ATTR_NAMES, i, mkChar("type"));
+      |                                                             ^~~~~~
+      |                                                             xmlChar
+kgml_interface.cpp: In function ‘void readkgml_sign_int(const char*, std::vector<std::__cxx11::basic_string<char> >&, std::vector<int>&, std::vector<std::vector<std::__cxx11::basic_string<char> > >&, std::vector<std::vector<std::__cxx11::basic_string<char> > >&, bool, bool)’:
+kgml_interface.cpp:363:32: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+  363 |                 Rf_warningcall(mkChar(filename), "Unable to parse file.");
+      |                                ^~~~~~
+      |                                xmlChar
+kgml_interface.cpp:374:32: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+  374 |                 Rf_warningcall(mkChar(filename), "File is not KEGG pathway file.");
+      |                                ^~~~~~
+      |                                xmlChar
+kgml_interface.cpp:383:32: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+  383 |                 Rf_warningcall(mkChar(filename), "No pathways in file.");
+      |                                ^~~~~~
+      |                                xmlChar
+kgml_interface.cpp:393:32: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+  393 |                 Rf_warningcall(mkChar(filename), "Pathway ID not found in file. Using file name instead.");
+      |                                ^~~~~~
+      |                                xmlChar
+kgml_interface.cpp:401:32: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+  401 |                 Rf_warningcall(mkChar(pathwayId), "Pathway title not found in file.");
+      |                                ^~~~~~
+      |                                xmlChar
+kgml_interface.cpp:409:32: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+  409 |                 Rf_warningcall(mkChar(filename), "Unable to create new XPath context.");
+      |                                ^~~~~~
+      |                                xmlChar
+kgml_interface.cpp:418:32: error: ‘mkChar’ was not declared in this scope; did you mean ‘xmlChar’?
+  418 |                 Rf_warningcall(mkChar(pathwayId), "Pathway contains no Protein-protein relationships.");
+      |                                ^~~~~~
+      |                                xmlChar
+make: *** [/usr/local/lib/R/etc/Makeconf:204: kgml_interface.o] Error 1
+ERROR: compilation failed for package ‘NetPathMiner’
+* removing ‘/mnt/library/NetPathMiner’
+
+The downloaded source packages are in
+	‘/tmp/RtmpUQpFqy/downloaded_packages’
+Error in gzfile(file, "rb") : cannot open the connection
+In addition: Warning messages:
+1: In install.packages(...) :
+  installation of package ‘NetPathMiner’ had non-zero exit status
+2: In gzfile(file, "rb") :
+  cannot open compressed file '/mnt/library/iterators/Meta/package.rds', probable reason 'No such file or directory'
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	7m19.242s
+user	0m8.316s
+sys	0m3.683s
