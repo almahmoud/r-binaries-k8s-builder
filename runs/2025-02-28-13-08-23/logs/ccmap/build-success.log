@@ -1,0 +1,79 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ccmap'
+Warning: dependency ‘crossmeta’ is not available
+also installing the dependencies ‘ccdata’, ‘lydata’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/ccdata_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 937343815 bytes (893.9 MB)
+==================================================
+downloaded 893.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/lydata_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 166570585 bytes (158.9 MB)
+==================================================
+downloaded 158.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ccmap_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 455549 bytes (444 KB)
+==================================================
+downloaded 444 KB
+
+* installing *source* package ‘ccdata’ ...
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ccdata’ as ‘ccdata_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ccdata)
+* installing *source* package ‘lydata’ ...
+** using staged installation
+** inst
+** help
+No man pages found in package  ‘lydata’ 
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘lydata’ as ‘lydata_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lydata)
+* installing *source* package ‘ccmap’ ...
+** package ‘ccmap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ccmap’ as ‘ccmap_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ccmap)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp79973O/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	58m3.919s
+user	3m32.388s
+sys	0m18.761s

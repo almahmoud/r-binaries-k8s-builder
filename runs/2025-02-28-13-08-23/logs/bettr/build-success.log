@@ -1,0 +1,52 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'bettr'
+also installing the dependency ‘sortable’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sortable_0.5.0.tar.gz'
+Content type 'binary/octet-stream' length 466985 bytes (456 KB)
+==================================================
+downloaded 456 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/bettr_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 2691463 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+* installing *binary* package ‘sortable’ ...
+* ‘sortable’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sortable’ as ‘sortable_0.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sortable)
+* installing *source* package ‘bettr’ ...
+** package ‘bettr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bettr’ as ‘bettr_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bettr)
+
+The downloaded source packages are in
+	‘/tmp/RtmpJFqrnU/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	57m11.489s
+user	0m31.209s
+sys	0m7.389s

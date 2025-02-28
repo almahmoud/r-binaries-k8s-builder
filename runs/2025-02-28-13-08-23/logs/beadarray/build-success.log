@@ -1,0 +1,150 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'beadarray'
+also installing the dependencies ‘FDb.InfiniumMethylation.hg19’, ‘minfi’, ‘methylumi’, ‘lumi’, ‘beadarrayExampleData’, ‘illuminaHumanv3.db’, ‘Nozzle.R1’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/FDb.InfiniumMethylation.hg19_2.2.0.tar.gz'
+Content type 'application/x-gzip' length 38996322 bytes (37.2 MB)
+==================================================
+downloaded 37.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/minfi_1.52.1.tar.gz'
+Content type 'application/x-gzip' length 517515 bytes (505 KB)
+==================================================
+downloaded 505 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/methylumi_2.52.0.tar.gz'
+Content type 'application/x-gzip' length 7698853 bytes (7.3 MB)
+==================================================
+downloaded 7.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/lumi_2.58.0.tar.gz'
+Content type 'application/x-gzip' length 8426674 bytes (8.0 MB)
+==================================================
+downloaded 8.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/beadarrayExampleData_1.44.0.tar.gz'
+Content type 'application/x-gzip' length 31419296 bytes (30.0 MB)
+==================================================
+downloaded 30.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/illuminaHumanv3.db_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 6455664 bytes (6.2 MB)
+==================================================
+downloaded 6.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Nozzle.R1_1.1-1.1.tar.gz'
+Content type 'binary/octet-stream' length 365582 bytes (357 KB)
+==================================================
+downloaded 357 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/beadarray_2.56.0.tar.gz'
+Content type 'application/x-gzip' length 3965883 bytes (3.8 MB)
+==================================================
+downloaded 3.8 MB
+
+* installing *source* package ‘FDb.InfiniumMethylation.hg19’ ...
+** using staged installation
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘FDb.InfiniumMethylation.hg19’ as ‘FDb.InfiniumMethylation.hg19_2.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FDb.InfiniumMethylation.hg19)
+ERROR: dependency ‘bumphunter’ is not available for package ‘minfi’
+* removing ‘/mnt/library/minfi’
+* installing *source* package ‘illuminaHumanv3.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘illuminaHumanv3.db’ as ‘illuminaHumanv3.db_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (illuminaHumanv3.db)
+* installing *binary* package ‘Nozzle.R1’ ...
+* ‘Nozzle.R1’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Nozzle.R1’ as ‘Nozzle.R1_1.1-1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Nozzle.R1)
+* installing *source* package ‘beadarray’ ...
+** package ‘beadarray’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c BASH.c -o BASH.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c HULK.c -o HULK.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c determiningGridPositions.c -o determiningGridPositions.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c findAllOutliers.c -o findAllOutliers.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c imageProcessing.c -o imageProcessing.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o beadarray.so BASH.o HULK.o determiningGridPositions.o findAllOutliers.o imageProcessing.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-beadarray/00new/beadarray/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘beadarray’ as ‘beadarray_2.56.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (beadarray)
+ERROR: dependency ‘minfi’ is not available for package ‘methylumi’
+* removing ‘/mnt/library/methylumi’
+* installing *source* package ‘beadarrayExampleData’ ...
+** using staged installation
+** data
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘beadarrayExampleData’ as ‘beadarrayExampleData_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (beadarrayExampleData)
+ERROR: dependency ‘methylumi’ is not available for package ‘lumi’
+* removing ‘/mnt/library/lumi’
+
+The downloaded source packages are in
+	‘/tmp/Rtmph5vVeX/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘minfi’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘methylumi’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘lumi’ had non-zero exit status
+
+real	59m16.873s
+user	1m36.544s
+sys	0m15.423s

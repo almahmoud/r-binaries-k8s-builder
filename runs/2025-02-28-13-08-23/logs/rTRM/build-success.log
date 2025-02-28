@@ -1,0 +1,98 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'rTRM'
+also installing the dependencies ‘BSgenome.Mmusculus.UCSC.mm8’, ‘BSgenome.Mmusculus.UCSC.mm8.masked’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm8_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 609699050 bytes (581.5 MB)
+==================================================
+downloaded 581.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm8.masked_1.3.99.tar.gz'
+Content type 'application/x-gzip' length 22497726 bytes (21.5 MB)
+==================================================
+downloaded 21.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rTRM_1.44.0.tar.gz'
+Content type 'application/x-gzip' length 3681201 bytes (3.5 MB)
+==================================================
+downloaded 3.5 MB
+
+* installing *source* package ‘BSgenome.Mmusculus.UCSC.mm8’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Mmusculus.UCSC.mm8’ as ‘BSgenome.Mmusculus.UCSC.mm8_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Mmusculus.UCSC.mm8)
+* installing *source* package ‘rTRM’ ...
+** package ‘rTRM’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+Loading required package: igraph
+
+Attaching package: ‘igraph’
+
+The following objects are masked from ‘package:stats’:
+
+    decompose, spectrum
+
+The following object is masked from ‘package:base’:
+
+    union
+
+This graph was created by an old(er) igraph version.
+ℹ Call `igraph::upgrade_graph()` on it to use with the current igraph version.
+For now we convert it on the fly...
+This graph was created by an old(er) igraph version.
+ℹ Call `igraph::upgrade_graph()` on it to use with the current igraph version.
+For now we convert it on the fly...
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rTRM’ as ‘rTRM_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rTRM)
+* installing *source* package ‘BSgenome.Mmusculus.UCSC.mm8.masked’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Mmusculus.UCSC.mm8.masked’ as ‘BSgenome.Mmusculus.UCSC.mm8.masked_1.3.99_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Mmusculus.UCSC.mm8.masked)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp3KB2Mu/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	57m22.076s
+user	2m23.268s
+sys	0m24.436s

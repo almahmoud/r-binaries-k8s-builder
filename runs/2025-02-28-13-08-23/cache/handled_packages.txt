@@ -393,6 +393,7 @@ PADOG
 PAIRADISE
 PANR
 PCAN
+PICS
 PIPETS
 PIUMA
 PLPE
@@ -530,6 +531,7 @@ SpaceMarkers
 SparseArray
 SpatialCPie
 SpatialDecon
+SpatialOmicsOverlay
 SpeCond
 Spectra
 SpectraQL
@@ -542,6 +544,7 @@ Summix
 SwathXtend
 SynExtend
 SynMut
+TCseq
 TDbasedUFE
 TEQC
 TFARM
@@ -599,6 +602,7 @@ alabaster.string
 alevinQC
 altcdfenvs
 annaffy
+annotate
 annotationTools
 anota
 antiProfiles
@@ -606,6 +610,7 @@ apComplex
 apeglm
 aroma.light
 arrayQuality
+artMS
 assorthead
 awst
 bacon
@@ -618,7 +623,9 @@ baySeq
 bcSeq
 beachmat
 beachmat.hdf5
+beadarray
 betaHMM
+bettr
 bioDist
 bioassayR
 biobroom
@@ -634,12 +641,14 @@ biodbNci
 biodbUniprot
 biomaRt
 biomformat
+biotmle
 bluster
 brendaDb
 bugsigdbr
 calm
 cancerclass
 cbpManager
+ccmap
 ccrepe
 ceRNAnetsim
 cellbaseR
@@ -666,6 +675,7 @@ coRdon
 cogena
 cogeqc
 cola
+combi
 compSPOT
 compcodeR
 consensus
@@ -674,6 +684,7 @@ copa
 covEB
 cqn
 crisprBase
+csaw
 csdR
 ctc
 ctsGE
@@ -697,6 +708,7 @@ demuxmix
 densvis
 derfinderHelper
 diffGeneAnalysis
+diffcoexp
 diffcyt
 diffuStats
 diggit
@@ -803,6 +815,7 @@ gpuMagic
 granulator
 graper
 graph
+graphite
 gscreend
 gtrellis
 gypsum
@@ -840,6 +853,7 @@ impute
 infinityFlow
 interacCircos
 interactiveDisplayBase
+ipdDb
 iterativeBMA
 iterativeBMAsurv
 ivygapSE
@@ -946,6 +960,7 @@ nucleoSim
 occugene
 odseq
 omada
+omicplotR
 omicsViewer
 ompBAM
 oncomix
@@ -1007,6 +1022,7 @@ qckitfastq
 qcmetrics
 qmtools
 qpcrNorm
+quantiseqr
 quantsmooth
 qusage
 qvalue
@@ -1015,6 +1031,7 @@ rBiopaxParser
 rRDP
 rSWeeP
 rScudo
+rTRM
 rWikiPathways
 rain
 ramr
@@ -1105,12 +1122,18 @@ specL
 spikeLI
 spkTools
 splots
+spqn
+ssPATHS
 sscu
 ssize
 ssrch
+ssviz
+stageR
 statTarget
 stepNorm
+struct
 subSeq
+supersigs
 survcomp
 swfdr
 switchBox
@@ -1130,6 +1153,7 @@ timescape
 tkWidgets
 tomoseqr
 topconfects
+tracktables
 transite
 transomics2cytoscape
 treeio

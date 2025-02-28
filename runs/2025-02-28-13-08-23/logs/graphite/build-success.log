@@ -1,0 +1,70 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'graphite'
+also installing the dependencies ‘qtl’, ‘qpgraph’, ‘topologyGSA’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/qtl_1.70.tar.gz'
+Content type 'binary/octet-stream' length 6102994 bytes (5.8 MB)
+==================================================
+downloaded 5.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/qpgraph_2.40.0.tar.gz'
+Content type 'application/x-gzip' length 2838958 bytes (2.7 MB)
+==================================================
+downloaded 2.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/topologyGSA_1.5.0.tar.gz'
+Content type 'application/x-tar' length 29726 bytes (29 KB)
+==================================================
+downloaded 29 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/graphite_1.52.0.tar.gz'
+Content type 'application/x-gzip' length 785965 bytes (767 KB)
+==================================================
+downloaded 767 KB
+
+* installing *binary* package ‘qtl’ ...
+* ‘qtl’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘qtl’ as ‘qtl_1.70_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qtl)
+* installing *source* package ‘graphite’ ...
+** package ‘graphite’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘graphite’ as ‘graphite_1.52.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (graphite)
+ERROR: dependency ‘annotate’ is not available for package ‘qpgraph’
+* removing ‘/mnt/library/qpgraph’
+ERROR: dependency ‘qpgraph’ is not available for package ‘topologyGSA’
+* removing ‘/mnt/library/topologyGSA’
+
+The downloaded source packages are in
+	‘/tmp/RtmpHl6fA0/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘qpgraph’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘topologyGSA’ had non-zero exit status
+
+real	56m1.067s
+user	0m22.422s
+sys	0m7.137s
