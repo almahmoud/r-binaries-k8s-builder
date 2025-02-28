@@ -147,6 +147,7 @@ CellNOptR
 CellScore
 CellTrails
 Cepo
+ChIPComp
 ChIPanalyser
 ChIPseqR
 ChIPsim
@@ -154,6 +155,7 @@ ChemmineOB
 ChemmineR
 Chicago
 ChromHeatMap
+ChromSCape
 ClassifyR
 Clomial
 ClustAll
@@ -310,6 +312,7 @@ GeomxTools
 GladiaTOX
 Glimma
 GloScope
+GmicR
 GrafGen
 GraphAT
 GraphAlignment
@@ -460,6 +463,7 @@ MiRaGE
 MicrobiotaProcess
 ModCon
 Modstrings
+MoleculeExperiment
 Motif2Site
 MotifDb
 MouseFM
@@ -500,6 +504,7 @@ OCplus
 OLIN
 OLINgui
 OPWeight
+ORFhunteR
 OSAT
 OVESEG
 OmicCircos
@@ -612,6 +617,7 @@ RedeR
 RedisParam
 RegEnrich
 RepViz
+Repitools
 ResidualMatrix
 Rfastp
 Rgraphviz
@@ -641,6 +647,7 @@ SCnorm
 SDAMS
 SELEX
 SEtools
+SGCP
 SIAMCAT
 SICtools
 SIM
@@ -1418,6 +1425,7 @@ scFeatureFilter
 scGPS
 scHOT
 scMET
+scMerge
 scMitoMut
 scMultiSim
 scPCA
@@ -1455,6 +1463,7 @@ seqLogo
 seqPattern
 seqTools
 seqcombo
+seqsetvis
 sevenC
 sevenbridges
 shiny.gosling

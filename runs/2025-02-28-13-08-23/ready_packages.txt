@@ -1,4 +1,0 @@
-MGnifyR
-SigCheck
-dar
-miaViz

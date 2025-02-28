@@ -1,0 +1,61 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'Repitools'
+also installing the dependency ‘gsmoothr’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gsmoothr_0.1.7.tar.gz'
+Content type 'binary/octet-stream' length 19552 bytes (19 KB)
+==================================================
+downloaded 19 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Repitools_1.52.0.tar.gz'
+Content type 'application/x-gzip' length 1775625 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+* installing *binary* package ‘gsmoothr’ ...
+* ‘gsmoothr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gsmoothr’ as ‘gsmoothr_0.1.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gsmoothr)
+* installing *source* package ‘Repitools’ ...
+** package ‘Repitools’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -D R_NO_REMAP -I. -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c const.c -o const.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -D R_NO_REMAP -I. -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c hyp2f1.c -o hyp2f1.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c mmeansd.cpp -o mmeansd.o
+In file included from /usr/local/lib/R/include/Rdefines.h:41,
+                 from mmeansd.cpp:10:
+mmeansd.cpp: In function ‘SEXPREC* moving_mean_sd(SEXP, SEXP, SEXP)’:
+mmeansd.cpp:49:20: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+   49 |     PROTECT( res = allocVector( REALSXP, nval * 3) );
+      |                    ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+make: *** [/usr/local/lib/R/etc/Makeconf:204: mmeansd.o] Error 1
+ERROR: compilation failed for package ‘Repitools’
+* removing ‘/mnt/library/Repitools’
+
+The downloaded source packages are in
+	‘/tmp/RtmpxkW1TQ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘Repitools’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	1m44.696s
+user	0m10.453s
+sys	0m3.753s

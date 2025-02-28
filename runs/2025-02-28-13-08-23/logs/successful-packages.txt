@@ -1586,3 +1586,12 @@ MLInterfaces
 Motif2Site
 mumosa
 spatialHeatmap
+ChIPComp
+ChromSCape
+GmicR
+MoleculeExperiment
+ORFhunteR
+Repitools
+scMerge
+seqsetvis
+SGCP
