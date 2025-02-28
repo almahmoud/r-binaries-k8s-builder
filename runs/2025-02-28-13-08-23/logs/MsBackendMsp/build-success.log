@@ -1,0 +1,41 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'MsBackendMsp'
+also installing the dependency ‘Spectra’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Spectra_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 1894262 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MsBackendMsp_1.10.0.tar.gz'
+Content type 'application/x-gzip' length 332863 bytes (325 KB)
+==================================================
+downloaded 325 KB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-Spectra’
+ERROR: dependency ‘Spectra’ is not available for package ‘MsBackendMsp’
+* removing ‘/mnt/library/MsBackendMsp’
+
+The downloaded source packages are in
+	‘/tmp/RtmpA3inlY/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘Spectra’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘MsBackendMsp’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m19.145s
+user	0m6.621s
+sys	0m2.913s

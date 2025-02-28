@@ -38,12 +38,14 @@ BioQC
 Biobase
 BiocBaseUtils
 BiocBook
+BiocCheck
 BiocFHIR
 BiocFileCache
 BiocGenerics
 BiocIO
 BiocNeighbors
 BiocParallel
+BiocPkgTools
 BiocStyle
 BiocVersion
 BiocWorkflowTools
@@ -69,7 +71,9 @@ CNORode
 COMPASS
 CONSTANd
 COSNet
+CRImage
 CTDquerier
+Cardinal
 CardinalIO
 CausalR
 CellMapper
@@ -78,6 +82,7 @@ ChemmineOB
 ChemmineR
 Chicago
 Clomial
+ClustAll
 ClusterJudge
 ClusterSignificance
 ComPrAn
@@ -87,6 +92,7 @@ Cormotif
 CytoGLMM
 DART
 DCATS
+DEGraph
 DEGseq
 DEqMS
 DEsingle
@@ -150,6 +156,7 @@ GeneNetworkBuilder
 GeneOverlap
 GeneSelectMMD
 GeneticsPed
+GenomeInfoDb
 GladiaTOX
 GraphAT
 GraphAlignment
@@ -198,6 +205,7 @@ MANOR
 MBAmethyl
 MBCB
 MBttest
+MEIGOR
 MMUPHin
 MOGAMUN
 MPFE
@@ -214,6 +222,7 @@ MassSpecWavelet
 MatrixGenerics
 MeasurementError.cor
 Mergeomics
+MetCirc
 MetID
 MetaboCoreUtils
 MethPed
@@ -222,6 +231,12 @@ Mfuzz
 MiChip
 MiPP
 ModCon
+MsBackendMassbank
+MsBackendMetaboLights
+MsBackendMgf
+MsBackendMsp
+MsBackendRawFileReader
+MsBackendSql
 MsCoreUtils
 Mulcom
 MultiMed
@@ -322,6 +337,7 @@ SANTA
 SBMLR
 SCBN
 SCFA
+SIMAT
 SIMD
 SIMLR
 SLqPCR
@@ -341,6 +357,7 @@ SharedObject
 SpaceMarkers
 SpeCond
 Spectra
+SpectraQL
 Streamer
 Summix
 SwathXtend
@@ -349,6 +366,7 @@ TPP
 TPP2D
 TRONCO
 TSAR
+TargetDecoy
 TargetScore
 TargetSearch
 TrajectoryGeometry
@@ -401,6 +419,7 @@ biodbNcbi
 biodbNci
 biodbUniprot
 biomformat
+bluster
 brendaDb
 bugsigdbr
 calm
@@ -471,6 +490,7 @@ fedup
 fenr
 fgga
 fgsea
+flowCore
 flowCyBar
 flowGraph
 flowPeaks

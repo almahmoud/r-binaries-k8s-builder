@@ -1,0 +1,116 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'GenomeInfoDb'
+also installing the dependencies ‘IRanges’, ‘TxDb.Dmelanogaster.UCSC.dm3.ensGene’, ‘BSgenome.Scerevisiae.UCSC.sacCer2’, ‘BSgenome.Celegans.UCSC.ce2’, ‘BSgenome.Hsapiens.NCBI.GRCh38’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/TxDb.Dmelanogaster.UCSC.dm3.ensGene_3.2.2.tar.gz'
+Content type 'application/x-gzip' length 4588884 bytes (4.4 MB)
+==================================================
+downloaded 4.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Scerevisiae.UCSC.sacCer2_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 2967843 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Celegans.UCSC.ce2_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 23653893 bytes (22.6 MB)
+==================================================
+downloaded 22.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Hsapiens.NCBI.GRCh38_1.3.1000.tar.gz'
+Content type 'application/x-gzip' length 845207156 bytes (806.1 MB)
+==================================================
+downloaded 806.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/x-gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-IRanges’
+* installing *source* package ‘TxDb.Dmelanogaster.UCSC.dm3.ensGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package ‘IRanges’ required by ‘GenomicFeatures’ could not be found
+Execution halted
+ERROR: lazy loading failed for package ‘TxDb.Dmelanogaster.UCSC.dm3.ensGene’
+* removing ‘/mnt/library/TxDb.Dmelanogaster.UCSC.dm3.ensGene’
+* installing *source* package ‘BSgenome.Scerevisiae.UCSC.sacCer2’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package ‘IRanges’ required by ‘BSgenome’ could not be found
+Execution halted
+ERROR: lazy loading failed for package ‘BSgenome.Scerevisiae.UCSC.sacCer2’
+* removing ‘/mnt/library/BSgenome.Scerevisiae.UCSC.sacCer2’
+* installing *source* package ‘BSgenome.Celegans.UCSC.ce2’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package ‘IRanges’ required by ‘BSgenome’ could not be found
+Execution halted
+ERROR: lazy loading failed for package ‘BSgenome.Celegans.UCSC.ce2’
+* removing ‘/mnt/library/BSgenome.Celegans.UCSC.ce2’
+* installing *source* package ‘BSgenome.Hsapiens.NCBI.GRCh38’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package or namespace load failed for ‘GenomicRanges’ in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]):
+ there is no package called ‘XVector’
+Execution halted
+ERROR: lazy loading failed for package ‘BSgenome.Hsapiens.NCBI.GRCh38’
+* removing ‘/mnt/library/BSgenome.Hsapiens.NCBI.GRCh38’
+* installing *source* package ‘GenomeInfoDb’ ...
+** package ‘GenomeInfoDb’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GenomeInfoDb’ as ‘GenomeInfoDb_1.42.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GenomeInfoDb)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpt9mx2I/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘IRanges’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘TxDb.Dmelanogaster.UCSC.dm3.ensGene’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘BSgenome.Scerevisiae.UCSC.sacCer2’ had non-zero exit status
+4: In install.packages(...) :
+  installation of package ‘BSgenome.Celegans.UCSC.ce2’ had non-zero exit status
+5: In install.packages(...) :
+  installation of package ‘BSgenome.Hsapiens.NCBI.GRCh38’ had non-zero exit status
+
+real	1m27.612s
+user	0m40.707s
+sys	0m11.583s
