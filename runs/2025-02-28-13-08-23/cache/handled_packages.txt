@@ -104,6 +104,7 @@ BumpyMatrix
 CAEN
 CARNIVAL
 CBEA
+CBNplot
 CCPROMISE
 CCPlotR
 CDI
@@ -243,11 +244,14 @@ EDIRquery
 EGAD
 EMDomics
 ERSSA
+EasyCellType
 EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
+EnrichDO
 EnrichedHeatmap
 EpiDISH
+EpiMix
 ExCluster
 ExiMiR
 ExperimentHub
@@ -448,6 +452,7 @@ MPFE
 MPRAnalyze
 MSA2dist
 MSPrep
+MSnbase
 MSstats
 MSstatsBig
 MSstatsConvert
@@ -1583,6 +1588,7 @@ sincell
 sitePath
 sizepower
 sketchR
+slingshot
 smartid
 smoothclust
 snapcount
@@ -1642,6 +1648,7 @@ target
 ternarynet
 tidyFlowCore
 tidySingleCellExperiment
+tidySpatialExperiment
 tidySummarizedExperiment
 tidybulk
 tidysbml

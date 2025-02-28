@@ -1700,3 +1700,10 @@ Organism.dplyr
 PanomiR
 Pigengene
 raer
+CBNplot
+EasyCellType
+EnrichDO
+EpiMix
+MSnbase
+slingshot
+tidySpatialExperiment

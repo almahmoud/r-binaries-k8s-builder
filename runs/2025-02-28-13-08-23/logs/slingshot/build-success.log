@@ -1,0 +1,112 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'slingshot'
+also installing the dependencies ‘rncl’, ‘RNeXML’, ‘phylobase’, ‘clusterExperiment’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rncl_0.8.7.tar.gz'
+Content type 'binary/octet-stream' length 636815 bytes (621 KB)
+==================================================
+downloaded 621 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RNeXML_2.4.11.tar.gz'
+Content type 'binary/octet-stream' length 837342 bytes (817 KB)
+==================================================
+downloaded 817 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/phylobase_0.8.12.tar.gz'
+Content type 'binary/octet-stream' length 714844 bytes (698 KB)
+==================================================
+downloaded 698 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/clusterExperiment_2.26.0.tar.gz'
+Content type 'application/x-gzip' length 12605293 bytes (12.0 MB)
+==================================================
+downloaded 12.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/slingshot_2.14.0.tar.gz'
+Content type 'application/x-gzip' length 1924424 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+* installing *binary* package ‘rncl’ ...
+* ‘rncl’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rncl’ as ‘rncl_0.8.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rncl)
+* installing *binary* package ‘RNeXML’ ...
+* ‘RNeXML’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RNeXML’ as ‘RNeXML_2.4.11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RNeXML)
+* installing *source* package ‘slingshot’ ...
+** package ‘slingshot’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+in method for ‘slingshot’ with signature ‘data="ClusterExperiment"’: no definition for class “ClusterExperiment”
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘slingshot’ as ‘slingshot_2.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (slingshot)
+* installing *binary* package ‘phylobase’ ...
+* ‘phylobase’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘phylobase’ as ‘phylobase_0.8.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (phylobase)
+* installing *source* package ‘clusterExperiment’ ...
+** package ‘clusterExperiment’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c search_pairs.cpp -o search_pairs.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c subsampleLoop.cpp -o subsampleLoop.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o clusterExperiment.so RcppExports.o search_pairs.o subsampleLoop.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-clusterExperiment/00new/clusterExperiment/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Found more than one class "Annotated" in cache; using the first, from namespace 'S4Vectors'
+Also defined by ‘RNeXML’
+Found more than one class "Annotated" in cache; using the first, from namespace 'S4Vectors'
+Also defined by ‘RNeXML’
+Found more than one class "Annotated" in cache; using the first, from namespace 'S4Vectors'
+Also defined by ‘RNeXML’
+Found more than one class "Annotated" in cache; using the first, from namespace 'S4Vectors'
+Also defined by ‘RNeXML’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘clusterExperiment’ as ‘clusterExperiment_2.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clusterExperiment)
+
+The downloaded source packages are in
+	‘/tmp/RtmpjVu5xw/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m45.111s
+user	1m26.534s
+sys	0m13.283s

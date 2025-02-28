@@ -1,0 +1,83 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'EpiMix'
+also installing the dependencies ‘EpiMix.data’, ‘ELMER.data’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/EpiMix.data_1.8.0.tar.gz'
+Content type 'application/x-gzip' length 5265034 bytes (5.0 MB)
+==================================================
+downloaded 5.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/ELMER.data_2.30.0.tar.gz'
+Content type 'application/x-gzip' length 307663315 bytes (293.4 MB)
+==================================================
+downloaded 293.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/EpiMix_1.8.0.tar.gz'
+Content type 'application/x-gzip' length 2975549 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+* installing *source* package ‘EpiMix.data’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EpiMix.data’ as ‘EpiMix.data_1.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EpiMix.data)
+* installing *source* package ‘ELMER.data’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ELMER.data’ as ‘ELMER.data_2.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ELMER.data)
+* installing *source* package ‘EpiMix’ ...
+** package ‘EpiMix’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EpiMix’ as ‘EpiMix_1.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EpiMix)
+
+The downloaded source packages are in
+	‘/tmp/RtmpAd35rv/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	3m25.726s
+user	1m18.436s
+sys	0m12.850s
