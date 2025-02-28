@@ -237,3 +237,15 @@ SNAGEE
 snm
 TrajectoryGeometry
 TSAR
+biocthis
+clustComp
+compSPOT
+cqn
+diffuStats
+dks
+fastreeR
+flowPlots
+PepsNMR
+seqcombo
+STRINGdb
+TargetSearch

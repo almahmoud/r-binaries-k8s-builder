@@ -1,0 +1,81 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'seqcombo'
+also installing the dependencies ‘showtextdb’, ‘showtext’, ‘sysfonts’, ‘emojifont’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/showtextdb_3.0.tar.gz'
+Content type 'binary/octet-stream' length 2010799 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/showtext_0.9-7.tar.gz'
+Content type 'binary/octet-stream' length 278322 bytes (271 KB)
+==================================================
+downloaded 271 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sysfonts_0.8.9.tar.gz'
+Content type 'binary/octet-stream' length 1250831 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/emojifont_0.5.5.tar.gz'
+Content type 'binary/octet-stream' length 3643410 bytes (3.5 MB)
+==================================================
+downloaded 3.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/seqcombo_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 1041921 bytes (1017 KB)
+==================================================
+downloaded 1017 KB
+
+* installing *binary* package ‘sysfonts’ ...
+* ‘sysfonts’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sysfonts’ as ‘sysfonts_0.8.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sysfonts)
+* installing *source* package ‘seqcombo’ ...
+** package ‘seqcombo’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘seqcombo’ as ‘seqcombo_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (seqcombo)
+* installing *binary* package ‘showtextdb’ ...
+* ‘showtextdb’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘showtextdb’ as ‘showtextdb_3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (showtextdb)
+* installing *binary* package ‘showtext’ ...
+* ‘showtext’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘showtext’ as ‘showtext_0.9-7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (showtext)
+* installing *binary* package ‘emojifont’ ...
+* ‘emojifont’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘emojifont’ as ‘emojifont_0.5.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (emojifont)
+
+The downloaded source packages are in
+	‘/tmp/RtmpQBgC1M/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	8m47.597s
+user	0m11.325s
+sys	0m3.444s

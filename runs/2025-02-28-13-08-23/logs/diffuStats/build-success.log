@@ -1,0 +1,68 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'diffuStats'
+also installing the dependencies ‘precrec’, ‘igraphdata’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/precrec_0.14.4.tar.gz'
+Content type 'binary/octet-stream' length 1995876 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/igraphdata_1.0.1.tar.gz'
+Content type 'binary/octet-stream' length 985636 bytes (962 KB)
+==================================================
+downloaded 962 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/diffuStats_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 1381166 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+* installing *binary* package ‘precrec’ ...
+* ‘precrec’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘precrec’ as ‘precrec_0.14.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (precrec)
+* installing *binary* package ‘igraphdata’ ...
+* ‘igraphdata’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘igraphdata’ as ‘igraphdata_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (igraphdata)
+* installing *source* package ‘diffuStats’ ...
+** package ‘diffuStats’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I'/mnt/library/RcppParallel/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+In file included from /mnt/library/RcppArmadillo/include/RcppArmadillo/interface/RcppArmadilloForward.h:58,
+                 from /mnt/library/RcppArmadillo/include/RcppArmadillo.h:29,
+                 from RcppExports.cpp:4:
+/mnt/library/RcppArmadillo/include/armadillo:325:12: fatal error: armadillo_bits/op_sp_sum_bones.hpp: No such file or directory
+  325 |   #include "armadillo_bits/op_sp_sum_bones.hpp"
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make: *** [/usr/local/lib/R/etc/Makeconf:204: RcppExports.o] Error 1
+ERROR: compilation failed for package ‘diffuStats’
+* removing ‘/mnt/library/diffuStats’
+
+The downloaded source packages are in
+	‘/tmp/Rtmp4KyMoq/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘diffuStats’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	11m56.883s
+user	0m5.411s
+sys	0m3.641s
