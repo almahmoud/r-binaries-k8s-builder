@@ -1119,6 +1119,7 @@ bugsigdbr
 bumphunter
 cBioPortalData
 cTRAP
+cageminer
 calm
 canceR
 cancerclass
@@ -1286,6 +1287,7 @@ epialleleR
 epidecodeR
 epigenomix
 epigraHMM
+epimutacions
 epiregulon
 epiregulon.extra
 epistack
@@ -1919,6 +1921,7 @@ sevenC
 sevenbridges
 shiny.gosling
 shinyMethyl
+shinyepico
 sigFeature
 siggenes
 sights
