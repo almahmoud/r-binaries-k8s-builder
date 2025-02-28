@@ -344,6 +344,7 @@ GOpro
 GOstats
 GPA
 GRENITS
+GRaNIE
 GRmetrics
 GSALightning
 GSAR
@@ -623,6 +624,7 @@ OSAT
 OTUbase
 OUTRIDER
 OVESEG
+OmaDB
 OmicCircos
 OmicsMLRepoR
 Omixer
@@ -1075,6 +1077,7 @@ chromDraw
 chromPlot
 chromVAR
 chromstaR
+circRNAprofiler
 cisPath
 cleanUpdTSeq
 cleaver
@@ -1761,6 +1764,7 @@ scShapes
 scTGIF
 scTHI
 scTensor
+scTreeViz
 scanMiR
 scanMiRApp
 scater

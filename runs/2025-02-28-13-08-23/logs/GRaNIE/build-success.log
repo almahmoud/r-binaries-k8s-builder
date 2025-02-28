@@ -1,0 +1,207 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'GRaNIE'
+also installing the dependencies ‘BSgenome.Mmusculus.UCSC.mm39’, ‘BSgenome.Rnorvegicus.UCSC.rn6’, ‘BSgenome.Rnorvegicus.UCSC.rn7’, ‘BSgenome.Mmulatta.UCSC.rheMac10’, ‘TxDb.Mmusculus.UCSC.mm39.knownGene’, ‘TxDb.Rnorvegicus.UCSC.rn7.refGene’, ‘TxDb.Mmulatta.UCSC.rheMac10.refGene’, ‘JASPAR2022’, ‘rbioapi’, ‘LDlinkR’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm39_1.4.3.tar.gz'
+Content type 'application/x-gzip' length 629651391 bytes (600.5 MB)
+==================================================
+downloaded 600.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Rnorvegicus.UCSC.rn6_1.4.1.tar.gz'
+Content type 'application/x-gzip' length 650509501 bytes (620.4 MB)
+==================================================
+downloaded 620.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Rnorvegicus.UCSC.rn7_1.4.3.tar.gz'
+Content type 'application/x-gzip' length 619935513 bytes (591.2 MB)
+==================================================
+downloaded 591.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac10_1.4.2.tar.gz'
+Content type 'application/x-gzip' length 680716908 bytes (649.2 MB)
+==================================================
+downloaded 649.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/TxDb.Mmusculus.UCSC.mm39.knownGene_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 25612202 bytes (24.4 MB)
+==================================================
+downloaded 24.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/TxDb.Rnorvegicus.UCSC.rn7.refGene_3.15.0.tar.gz'
+Content type 'application/x-gzip' length 7122391 bytes (6.8 MB)
+==================================================
+downloaded 6.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/TxDb.Mmulatta.UCSC.rheMac10.refGene_3.14.0.tar.gz'
+Content type 'application/x-gzip' length 2067570 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/JASPAR2022_0.99.8.tar.gz'
+Content type 'application/x-gzip' length 270337 bytes (264 KB)
+==================================================
+downloaded 264 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rbioapi_0.8.2.tar.gz'
+Content type 'binary/octet-stream' length 1825450 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/LDlinkR_1.4.0.tar.gz'
+Content type 'binary/octet-stream' length 169487 bytes (165 KB)
+==================================================
+downloaded 165 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GRaNIE_1.10.0.tar.gz'
+Content type 'application/x-gzip' length 9694841 bytes (9.2 MB)
+==================================================
+downloaded 9.2 MB
+
+* installing *source* package ‘BSgenome.Mmusculus.UCSC.mm39’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Mmusculus.UCSC.mm39’ as ‘BSgenome.Mmusculus.UCSC.mm39_1.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Mmusculus.UCSC.mm39)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-BSgenome.Rnorvegicus.UCSC.rn6’
+* installing *source* package ‘BSgenome.Rnorvegicus.UCSC.rn7’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Rnorvegicus.UCSC.rn7’ as ‘BSgenome.Rnorvegicus.UCSC.rn7_1.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Rnorvegicus.UCSC.rn7)
+* installing *source* package ‘BSgenome.Mmulatta.UCSC.rheMac10’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Mmulatta.UCSC.rheMac10’ as ‘BSgenome.Mmulatta.UCSC.rheMac10_1.4.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Mmulatta.UCSC.rheMac10)
+* installing *source* package ‘TxDb.Mmusculus.UCSC.mm39.knownGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Mmusculus.UCSC.mm39.knownGene’ as ‘TxDb.Mmusculus.UCSC.mm39.knownGene_3.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Mmusculus.UCSC.mm39.knownGene)
+* installing *source* package ‘TxDb.Rnorvegicus.UCSC.rn7.refGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Rnorvegicus.UCSC.rn7.refGene’ as ‘TxDb.Rnorvegicus.UCSC.rn7.refGene_3.15.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Rnorvegicus.UCSC.rn7.refGene)
+* installing *source* package ‘TxDb.Mmulatta.UCSC.rheMac10.refGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Mmulatta.UCSC.rheMac10.refGene’ as ‘TxDb.Mmulatta.UCSC.rheMac10.refGene_3.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Mmulatta.UCSC.rheMac10.refGene)
+* installing *source* package ‘JASPAR2022’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+adding rname 'https://jaspar2022.genereg.net/download/database/JASPAR2022.sqlite'
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘JASPAR2022’ as ‘JASPAR2022_0.99.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (JASPAR2022)
+* installing *binary* package ‘rbioapi’ ...
+* ‘rbioapi’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rbioapi’ as ‘rbioapi_0.8.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rbioapi)
+* installing *binary* package ‘LDlinkR’ ...
+* ‘LDlinkR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘LDlinkR’ as ‘LDlinkR_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (LDlinkR)
+* installing *source* package ‘GRaNIE’ ...
+** package ‘GRaNIE’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GRaNIE’ as ‘GRaNIE_1.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GRaNIE)
+
+The downloaded source packages are in
+	‘/tmp/RtmpZ16oUb/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘BSgenome.Rnorvegicus.UCSC.rn6’ had non-zero exit status
+
+real	10m42.615s
+user	6m35.906s
+sys	0m51.614s

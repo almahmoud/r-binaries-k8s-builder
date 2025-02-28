@@ -1,0 +1,81 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'scTreeViz'
+also installing the dependencies ‘clustree’, ‘msd16s’, ‘epivizrStandalone’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/clustree_0.5.1.tar.gz'
+Content type 'binary/octet-stream' length 1948332 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/msd16s_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 1896065 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/epivizrStandalone_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 225770 bytes (220 KB)
+==================================================
+downloaded 220 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/scTreeViz_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 2411305 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+* installing *binary* package ‘clustree’ ...
+* ‘clustree’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘clustree’ as ‘clustree_0.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clustree)
+* installing *source* package ‘msd16s’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘msd16s’ as ‘msd16s_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (msd16s)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-epivizrStandalone’
+* installing *source* package ‘scTreeViz’ ...
+** package ‘scTreeViz’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘scTreeViz’ as ‘scTreeViz_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scTreeViz)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpn38JqT/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘epivizrStandalone’ had non-zero exit status
+
+real	3m49.207s
+user	1m12.684s
+sys	0m11.600s

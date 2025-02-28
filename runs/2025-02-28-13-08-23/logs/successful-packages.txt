@@ -1957,3 +1957,7 @@ methodical
 signeR
 tLOH
 vtpnet
+circRNAprofiler
+GRaNIE
+OmaDB
+scTreeViz
