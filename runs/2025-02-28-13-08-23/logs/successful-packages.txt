@@ -1887,3 +1887,13 @@ metaseqR2
 methylInheritance
 SGSeq
 strandCheckR
+AHMassBank
+BUSpaRse
+epivizrData
+ExperimentHubData
+glmSparseNet
+metaMS
+methylSig
+singleCellTK
+transcriptogramer
+tximeta

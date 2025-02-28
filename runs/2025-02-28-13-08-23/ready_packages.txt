@@ -1,2 +1,4 @@
-EventPointer
-Rhisat2
+IsoformSwitchAnalyzeR
+epivizr
+epivizrChart
+methodical

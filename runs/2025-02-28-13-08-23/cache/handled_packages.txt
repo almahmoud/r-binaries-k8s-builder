@@ -7,6 +7,7 @@ ADAMgui
 ADAPT
 ADImpute
 AGDEX
+AHMassBank
 AIMS
 ALDEx2
 AMOUNTAIN
@@ -62,6 +63,7 @@ BSgenomeForge
 BUMHMM
 BUS
 BUScorrect
+BUSpaRse
 BUSseq
 BaalChIP
 Banksy
@@ -293,6 +295,7 @@ EpiTxDb
 ExCluster
 ExiMiR
 ExperimentHub
+ExperimentHubData
 ExperimentSubset
 ExploreModelMatrix
 ExpressionAtlas
@@ -1174,6 +1177,7 @@ epiregulon
 epiregulon.extra
 epistack
 epistasisGA
+epivizrData
 epivizrServer
 erccdashboard
 esATAC
@@ -1279,6 +1283,7 @@ ggtreeSpace
 ginmappeR
 girafe
 glmGamPoi
+glmSparseNet
 globalSeq
 globaltest
 gmoviz
@@ -1410,6 +1415,7 @@ meshes
 meshr
 messina
 metaCCA
+metaMS
 metaSeq
 metabCombiner
 metabinR
@@ -1428,6 +1434,7 @@ methyLImp2
 methylInheritance
 methylKit
 methylMnM
+methylSig
 methylscaper
 mfa
 mgsa
@@ -1749,6 +1756,7 @@ simona
 simpleSeg
 simplifyEnrichment
 sincell
+singleCellTK
 singscore
 sitePath
 sizepower
@@ -1838,6 +1846,7 @@ topdownr
 tracktables
 tradeSeq
 transcriptR
+transcriptogramer
 transformGamPoi
 transite
 transomics2cytoscape
@@ -1856,6 +1865,7 @@ twilight
 twoddpcr
 txcutr
 txdbmaker
+tximeta
 tximport
 uSORT
 unifiedWMWqPCR
