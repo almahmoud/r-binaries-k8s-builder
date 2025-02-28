@@ -695,6 +695,7 @@ Qtlizer
 QuaternaryProd
 R453Plus1Toolbox
 R4RNA
+RAIDS
 RAREsim
 RBGL
 RBM

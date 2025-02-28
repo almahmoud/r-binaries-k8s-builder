@@ -1863,3 +1863,4 @@
 ['[VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/VariantTools/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VariantTools)']
 ['[ZygosityPredictor](https://bioconductor.org/packages/3.20/bioc/html/ZygosityPredictor.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/ZygosityPredictor/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ZygosityPredictor)']
 ['[alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/alabaster.vcf/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.vcf)']
+['[RAIDS](https://bioconductor.org/packages/3.20/bioc/html/RAIDS.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/RAIDS/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RAIDS)']
