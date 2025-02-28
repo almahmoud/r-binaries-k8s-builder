@@ -451,3 +451,16 @@ RBM
 rhdf5
 Rhtslib
 wppi
+AlpsNMR
+AWFisher
+BaseSpaceR
+biodbHmdb
+biodbNci
+COMPASS
+GenProSeq
+MSstatsBig
+MSstatsTMT
+OLINgui
+ROSeq
+Rvisdiff
+ScreenR

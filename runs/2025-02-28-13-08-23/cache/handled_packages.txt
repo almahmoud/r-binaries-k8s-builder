@@ -5,8 +5,10 @@ ASAFE
 ASEB
 ASGSCA
 ASSET
+AWFisher
 AlphaBeta
 AlphaMissenseR
+AlpsNMR
 AnVIL
 AnVILAz
 AnVILBase
@@ -18,6 +20,7 @@ BADER
 BEclear
 BG2
 BUS
+BaseSpaceR
 BeadDataPackR
 BiRewire
 BioCartaImage
@@ -35,6 +38,7 @@ CARNIVAL
 CFAssay
 CGEN
 CNAnorm
+COMPASS
 CONSTANd
 COSNet
 CausalR
@@ -86,6 +90,7 @@ GSAR
 GSEAmining
 GSgalgoR
 GWAS.BAYES
+GenProSeq
 GeneGA
 GeneOverlap
 GeneticsPed
@@ -131,8 +136,10 @@ MBCB
 MBttest
 MPFE
 MSstats
+MSstatsBig
 MSstatsConvert
 MSstatsLOBD
+MSstatsTMT
 MVCClass
 MantelCorr
 MassArray
@@ -148,6 +155,7 @@ NTW
 NetPathMiner
 NuPoP
 OLIN
+OLINgui
 OPWeight
 OSAT
 Omixer
@@ -177,6 +185,7 @@ RLassoCox
 RNASeqPower
 RNAdecay
 ROC
+ROSeq
 RProtoBufLib
 RRHO
 RSeqAn
@@ -190,6 +199,7 @@ RedisParam
 Rhdf5lib
 Rhtslib
 Rsubread
+Rvisdiff
 SANTA
 SBMLR
 SCBN
@@ -203,6 +213,7 @@ SNPediaR
 STRINGdb
 SUITOR
 SamSPECTRAL
+ScreenR
 SpaceMarkers
 Summix
 SwathXtend
@@ -237,7 +248,9 @@ biocroxytest
 biocthis
 biodb
 biodbChebi
+biodbHmdb
 biodbNcbi
+biodbNci
 biodbUniprot
 brendaDb
 bugsigdbr

@@ -1,0 +1,254 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'COMPASS'
+also installing the dependencies ‘XVector’, ‘IRanges’, ‘S4Arrays’, ‘SparseArray’, ‘cytolib’, ‘DelayedArray’, ‘S4Vectors’, ‘pdist’, ‘flowWorkspace’, ‘flowCore’, ‘ncdfFlow’, ‘flowWorkspaceData’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Arrays_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 288435 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SparseArray_1.6.2.tar.gz'
+Content type 'application/x-gzip' length 468696 bytes (457 KB)
+==================================================
+downloaded 457 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/cytolib_2.18.2.tar.gz'
+Content type 'application/x-gzip' length 6104823 bytes (5.8 MB)
+==================================================
+downloaded 5.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Vectors_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 1076666 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pdist_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 19198 bytes (18 KB)
+==================================================
+downloaded 18 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/flowWorkspace_4.18.0.tar.gz'
+Content type 'application/x-gzip' length 5335490 bytes (5.1 MB)
+==================================================
+downloaded 5.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/flowCore_2.18.0.tar.gz'
+Content type 'application/x-gzip' length 7820450 bytes (7.5 MB)
+==================================================
+downloaded 7.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ncdfFlow_2.52.1.tar.gz'
+Content type 'application/x-gzip' length 204891 bytes (200 KB)
+==================================================
+downloaded 200 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/flowWorkspaceData_3.18.0.tar.gz'
+Content type 'application/x-gzip' length 74609409 bytes (71.2 MB)
+==================================================
+downloaded 71.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/COMPASS_1.44.0.tar.gz'
+Content type 'application/x-gzip' length 1328561 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+* installing *source* package ‘cytolib’ ...
+** package ‘cytolib’ successfully unpacked and MD5 sums checked
+** using staged installation
+checking for a sed that does not truncate output... /usr/bin/sed
+checking whether the C++ compiler works... yes
+checking for C++ compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ -std=gnu++17 accepts -g... yes
+checking how to run the C++ preprocessor... g++ -std=gnu++17 -E
+checking whether we are using the GNU C++ compiler... (cached) yes
+checking whether g++ -std=gnu++17 accepts -g... (cached) yes
+configure: Parsing cytolib version info ...
+configure: CYTOLIB_VERSION=2.18.2
+configure: creating ./config.status
+config.status: creating inst/include/cytolib/cytolibConfig.h
+config.status: creating src/Makevars
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c dummy.cpp -o dummy.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c boost/libs/system/src/error_code.cpp -o boost/libs/system/src/error_code.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c boost/libs/filesystem/src/codecvt_error_category.cpp -o boost/libs/filesystem/src/codecvt_error_category.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c boost/libs/filesystem/src/directory.cpp -o boost/libs/filesystem/src/directory.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c boost/libs/filesystem/src/exception.cpp -o boost/libs/filesystem/src/exception.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c boost/libs/filesystem/src/operations.cpp -o boost/libs/filesystem/src/operations.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c boost/libs/filesystem/src/path.cpp -o boost/libs/filesystem/src/path.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c boost/libs/filesystem/src/path_traits.cpp -o boost/libs/filesystem/src/path_traits.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c boost/libs/filesystem/src/portability.cpp -o boost/libs/filesystem/src/portability.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c boost/libs/filesystem/src/unique_path.cpp -o boost/libs/filesystem/src/unique_path.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c boost/libs/filesystem/src/utf8_codecvt_facet.cpp -o boost/libs/filesystem/src/utf8_codecvt_facet.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c boost/libs/filesystem/src/windows_file_codecvt.cpp -o boost/libs/filesystem/src/windows_file_codecvt.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c CytoFrame.cpp -o CytoFrame.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c CytoFrameView.cpp -o CytoFrameView.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c CytoVFS.cpp -o CytoVFS.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c GatingHierarchy.cpp -o GatingHierarchy.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c GatingSet.cpp -o GatingSet.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c H5CytoFrame.cpp -o H5CytoFrame.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c MemCytoFrame.cpp -o MemCytoFrame.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c POPINDICES.cpp -o POPINDICES.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c calibrationTable.cpp -o calibrationTable.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c compensation.cpp -o compensation.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ellipse2points.cpp -o ellipse2points.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c gate.cpp -o gate.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c global.cpp -o global.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c in_polygon.cpp -o in_polygon.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c nodeProperties.cpp -o nodeProperties.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c spline.cpp -o spline.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c trans_group.cpp -o trans_group.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -DROUT -I../inst/include -w -Wfatal-errors -DBOOST_NO_AUTO_PTR -DBOOST_FILESYSTEM_NO_CXX20_ATOMIC_REF -DBOOST_FILESYSTEM_SINGLE_THREADED  -I'/mnt/library/BH/include' -I'/mnt/library/RProtoBufLib/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c transformation.cpp -o transformation.o
+mkdir -p "/mnt/library/00LOCK-cytolib/00new/cytolib/lib"
+ar rs "/mnt/library/00LOCK-cytolib/00new/cytolib/lib/libcytolib.a" CytoFrame.o CytoFrameView.o CytoVFS.o GatingHierarchy.o GatingSet.o H5CytoFrame.o MemCytoFrame.o POPINDICES.o calibrationTable.o compensation.o dummy.o ellipse2points.o gate.o global.o in_polygon.o nodeProperties.o spline.o trans_group.o transformation.o boost/libs/filesystem/src/codecvt_error_category.o boost/libs/filesystem/src/directory.o boost/libs/filesystem/src/exception.o boost/libs/filesystem/src/operations.o boost/libs/filesystem/src/path.o boost/libs/filesystem/src/path_traits.o boost/libs/filesystem/src/portability.o boost/libs/filesystem/src/unique_path.o boost/libs/filesystem/src/utf8_codecvt_facet.o boost/libs/filesystem/src/windows_file_codecvt.o boost/libs/system/src/error_code.o
+ar: creating /mnt/library/00LOCK-cytolib/00new/cytolib/lib/libcytolib.a
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o cytolib.so dummy.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-cytolib/00new/cytolib/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘cytolib’ as ‘cytolib_2.18.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cytolib)
+ERROR: dependency ‘BiocGenerics’ is not available for package ‘S4Vectors’
+* removing ‘/mnt/library/S4Vectors’
+* installing *binary* package ‘pdist’ ...
+* ‘pdist’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pdist’ as ‘pdist_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pdist)
+* installing *source* package ‘flowWorkspaceData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘flowWorkspaceData’ as ‘flowWorkspaceData_3.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (flowWorkspaceData)
+ERROR: dependency ‘S4Vectors’ is not available for package ‘IRanges’
+* removing ‘/mnt/library/IRanges’
+ERROR: dependencies ‘Biobase’, ‘S4Vectors’ are not available for package ‘flowCore’
+* removing ‘/mnt/library/flowCore’
+* installing *source* package ‘COMPASS’ ...
+** package ‘COMPASS’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c COMPASS_init.c -o COMPASS_init.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c CellCounts.cpp -o CellCounts.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c CellCounts_character.cpp -o CellCounts_character.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c digamma.c -o digamma.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c mat2vec.c -o mat2vec.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c melt_dataframe.c -o melt_dataframe.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c melt_matrix.c -o melt_matrix.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c samplePuPs.cpp -o samplePuPs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c transpose_list.c -o transpose_list.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c updatealphas_Exp.cpp -o updatealphas_Exp.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c updatealphas_Exp_MH.cpp -o updatealphas_Exp_MH.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c updatealphau.cpp -o updatealphau.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c updatealphau_noPu_Exp.cpp -o updatealphau_noPu_Exp.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c updatealphau_noPu_Exp_MH.cpp -o updatealphau_noPu_Exp_MH.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c updatebeta_RW.cpp -o updatebeta_RW.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c updategammak_noPu.cpp -o updategammak_noPu.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c utils.c -o utils.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o COMPASS.so COMPASS_init.o CellCounts.o CellCounts_character.o RcppExports.o digamma.o mat2vec.o melt_dataframe.o melt_matrix.o samplePuPs.o transpose_list.o updatealphas_Exp.o updatealphas_Exp_MH.o updatealphau.o updatealphau_noPu_Exp.o updatealphau_noPu_Exp_MH.o updatebeta_RW.o updategammak_noPu.o utils.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-COMPASS/00new/COMPASS/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘COMPASS’ as ‘COMPASS_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (COMPASS)
+ERROR: dependency ‘IRanges’ is not available for package ‘XVector’
+* removing ‘/mnt/library/XVector’
+ERROR: dependency ‘IRanges’ is not available for package ‘S4Arrays’
+* removing ‘/mnt/library/S4Arrays’
+ERROR: dependencies ‘flowCore’, ‘Biobase’ are not available for package ‘ncdfFlow’
+* removing ‘/mnt/library/ncdfFlow’
+ERROR: dependencies ‘S4Arrays’, ‘IRanges’, ‘XVector’ are not available for package ‘SparseArray’
+* removing ‘/mnt/library/SparseArray’
+ERROR: dependencies ‘IRanges’, ‘S4Arrays’, ‘SparseArray’ are not available for package ‘DelayedArray’
+* removing ‘/mnt/library/DelayedArray’
+ERROR: dependencies ‘graph’, ‘flowCore’, ‘ncdfFlow’, ‘DelayedArray’ are not available for package ‘flowWorkspace’
+* removing ‘/mnt/library/flowWorkspace’
+
+The downloaded source packages are in
+	‘/tmp/RtmpHasQ8q/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘S4Vectors’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘IRanges’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘flowCore’ had non-zero exit status
+4: In install.packages(...) :
+  installation of package ‘XVector’ had non-zero exit status
+5: In install.packages(...) :
+  installation of package ‘S4Arrays’ had non-zero exit status
+6: In install.packages(...) :
+  installation of package ‘ncdfFlow’ had non-zero exit status
+7: In install.packages(...) :
+  installation of package ‘SparseArray’ had non-zero exit status
+8: In install.packages(...) :
+  installation of package ‘DelayedArray’ had non-zero exit status
+9: In install.packages(...) :
+  installation of package ‘flowWorkspace’ had non-zero exit status
+
+real	12m38.080s
+user	3m30.987s
+sys	0m32.664s
