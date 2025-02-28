@@ -4,15 +4,10 @@
 
 ## Summary
 
-- 1 packages built successfully
+- 0 packages built successfully
 - 0 packages failed to build
 - 1741 packages not yet processed
 
-
-## Successfully Built (1)
-| Package                                                                    | Status   | Log                                                             | BBS Status                                                            |
-|----------------------------------------------------------------------------|----------|-----------------------------------------------------------------|-----------------------------------------------------------------------|
-| [maftools](https://bioconductor.org/packages/3.20/bioc/html/maftools.html) | Built    | [Log](runs/2025-02-28-13-08-23/logs/maftools/build-success.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/maftools) |
 
 ## Not Yet Processed (1741)
 | Package                                                                                                          | Status      |
