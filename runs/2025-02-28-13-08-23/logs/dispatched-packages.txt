@@ -1894,3 +1894,6 @@ xcms
 BASiCStan
 CRISPRball
 GARS
+MSstatsQCgui
+scone
+standR

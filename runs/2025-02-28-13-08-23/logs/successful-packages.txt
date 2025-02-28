@@ -1725,3 +1725,11 @@ MOSClip
 singscore
 pageRank
 simPIC
+CexoR
+covRNA
+MSstatsQC
+preciseTAD
+Rmmquant
+RUVSeq
+slalom
+XDE

@@ -156,6 +156,7 @@ CellNOptR
 CellScore
 CellTrails
 Cepo
+CexoR
 ChIPComp
 ChIPQC
 ChIPanalyser
@@ -469,6 +470,7 @@ MSstatsConvert
 MSstatsLOBD
 MSstatsLiP
 MSstatsPTM
+MSstatsQC
 MSstatsShiny
 MSstatsTMT
 MVCClass
@@ -646,6 +648,7 @@ RTCGA
 RTN
 RTNduals
 RTopper
+RUVSeq
 RUVcorr
 RUVnormalize
 RVS
@@ -676,6 +679,7 @@ Rgraphviz
 Rhdf5lib
 Rhtslib
 Rmagpie
+Rmmquant
 Rnits
 RolDE
 Rsamtools
@@ -821,6 +825,7 @@ VennDetail
 VisiumIO
 VplotR
 Wrench
+XDE
 XINA
 XVector
 a4Base
@@ -981,6 +986,7 @@ corral
 cosmosR
 countsimQC
 covEB
+covRNA
 cqn
 crisprBase
 crisprBowtie
@@ -1445,6 +1451,7 @@ ppcseq
 pqsfinder
 pram
 prebs
+preciseTAD
 preprocessCore
 proDA
 procoil
@@ -1606,6 +1613,7 @@ singscore
 sitePath
 sizepower
 sketchR
+slalom
 slingshot
 smartid
 smoothclust
