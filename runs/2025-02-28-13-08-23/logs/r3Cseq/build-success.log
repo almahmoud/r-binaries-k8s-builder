@@ -1,0 +1,140 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'r3Cseq'
+also installing the dependencies ‘BSgenome.Mmusculus.UCSC.mm9.masked’, ‘BSgenome.Mmusculus.UCSC.mm10.masked’, ‘BSgenome.Hsapiens.UCSC.hg18.masked’, ‘BSgenome.Hsapiens.UCSC.hg19.masked’, ‘BSgenome.Rnorvegicus.UCSC.rn5.masked’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm9.masked_1.3.99.tar.gz'
+Content type 'application/x-gzip' length 23175386 bytes (22.1 MB)
+==================================================
+downloaded 22.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm10.masked_1.4.3.tar.gz'
+Content type 'application/x-gzip' length 88806 bytes (86 KB)
+==================================================
+downloaded 86 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg18.masked_1.3.99.tar.gz'
+Content type 'application/x-gzip' length 20999488 bytes (20.0 MB)
+==================================================
+downloaded 20.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg19.masked_1.3.993.tar.gz'
+Content type 'application/x-gzip' length 22787874 bytes (21.7 MB)
+==================================================
+downloaded 21.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Rnorvegicus.UCSC.rn5.masked_1.3.99.tar.gz'
+Content type 'application/x-gzip' length 23631388 bytes (22.5 MB)
+==================================================
+downloaded 22.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/r3Cseq_1.52.0.tar.gz'
+Content type 'application/x-gzip' length 4540207 bytes (4.3 MB)
+==================================================
+downloaded 4.3 MB
+
+* installing *source* package ‘BSgenome.Mmusculus.UCSC.mm9.masked’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Mmusculus.UCSC.mm9.masked’ as ‘BSgenome.Mmusculus.UCSC.mm9.masked_1.3.99_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Mmusculus.UCSC.mm9.masked)
+* installing *source* package ‘BSgenome.Mmusculus.UCSC.mm10.masked’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Mmusculus.UCSC.mm10.masked’ as ‘BSgenome.Mmusculus.UCSC.mm10.masked_1.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Mmusculus.UCSC.mm10.masked)
+* installing *source* package ‘BSgenome.Hsapiens.UCSC.hg18.masked’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Hsapiens.UCSC.hg18.masked’ as ‘BSgenome.Hsapiens.UCSC.hg18.masked_1.3.99_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Hsapiens.UCSC.hg18.masked)
+* installing *source* package ‘BSgenome.Hsapiens.UCSC.hg19.masked’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Hsapiens.UCSC.hg19.masked’ as ‘BSgenome.Hsapiens.UCSC.hg19.masked_1.3.993_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Hsapiens.UCSC.hg19.masked)
+* installing *source* package ‘BSgenome.Rnorvegicus.UCSC.rn5.masked’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Rnorvegicus.UCSC.rn5.masked’ as ‘BSgenome.Rnorvegicus.UCSC.rn5.masked_1.3.99_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Rnorvegicus.UCSC.rn5.masked)
+* installing *source* package ‘r3Cseq’ ...
+** package ‘r3Cseq’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+No methods found in package ‘Biostrings’ for request: ‘DNAString’ when loading ‘r3Cseq’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+No methods found in package ‘Biostrings’ for request: ‘DNAString’ when loading ‘r3Cseq’
+** testing if installed package can be loaded from final location
+No methods found in package ‘Biostrings’ for request: ‘DNAString’ when loading ‘r3Cseq’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘r3Cseq’ as ‘r3Cseq_1.52.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (r3Cseq)
+
+The downloaded source packages are in
+	‘/tmp/RtmpUsPVWl/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	4m34.380s
+user	2m57.752s
+sys	0m24.190s

@@ -298,6 +298,7 @@ GenomicScores
 GenomicSuperSignature
 GenomicTuples
 GeoDiff
+GeoTcgaData
 GeomxTools
 GladiaTOX
 Glimma
@@ -361,6 +362,7 @@ KEGGREST
 KEGGgraph
 KEGGlincs
 KinSwingR
+KnowSeq
 LACE
 LBE
 LEA
@@ -448,6 +450,7 @@ MsBackendMsp
 MsBackendRawFileReader
 MsBackendSql
 MsCoreUtils
+MsExperiment
 MsFeatures
 MuData
 Mulcom
@@ -616,6 +619,7 @@ SCFA
 SCnorm
 SDAMS
 SELEX
+SEtools
 SIAMCAT
 SICtools
 SIM
@@ -671,6 +675,7 @@ Spectra
 SpectraQL
 SpectralTAD
 SplicingFactory
+SpotSweeper
 StabMap
 Streamer
 Structstrings
@@ -684,12 +689,15 @@ TCC
 TCGAbiolinks
 TCseq
 TDbasedUFE
+TEKRABber
 TENxIO
 TEQC
 TFARM
 TIN
+TMSig
 TMixClust
 TOAST
+TOP
 TPP
 TPP2D
 TREG
@@ -768,6 +776,7 @@ assorthead
 autonomics
 awst
 bacon
+ballgown
 bamsignals
 banocc
 barcodetrackR
@@ -802,6 +811,7 @@ biomformat
 biotmle
 blima
 bluster
+bnbc
 breakpointR
 brendaDb
 bugsigdbr
@@ -1191,6 +1201,7 @@ nnNorm
 nnSVG
 normalize450K
 normr
+npGSEA
 nuCpos
 nucleoSim
 occugene
@@ -1235,6 +1246,7 @@ pgca
 pgxRpi
 phantasus
 phantasusLite
+phenoTest
 phenopath
 philr
 phosphonormalizer
@@ -1271,10 +1283,13 @@ qckitfastq
 qcmetrics
 qmtools
 qpcrNorm
+qsmooth
+qsvaR
 quantiseqr
 quantsmooth
 qusage
 qvalue
+r3Cseq
 rBLAST
 rBiopaxParser
 rGenomeTracks
@@ -1336,7 +1351,9 @@ sangerseqR
 sarks
 satuRn
 scAnnotatR
+scBFA
 scBubbletree
+scClassify
 scDD
 scDDboost
 scDataviz
@@ -1404,6 +1421,7 @@ snm
 snpStats
 sparseMatrixStats
 sparsenetgls
+spatialDE
 spatialSimGP
 specL
 speckle
@@ -1467,6 +1485,7 @@ transomics2cytoscape
 treeclimbR
 treeio
 treekoR
+trigger
 trio
 triplex
 tripr

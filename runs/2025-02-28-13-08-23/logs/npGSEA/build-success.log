@@ -1,0 +1,67 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'npGSEA'
+also installing the dependency ‘ReportingTools’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ReportingTools_2.46.0.tar.gz'
+Content type 'application/x-gzip' length 1878025 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/npGSEA_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 396611 bytes (387 KB)
+==================================================
+downloaded 387 KB
+
+* installing *source* package ‘ReportingTools’ ...
+** package ‘ReportingTools’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+in method for 'objectToHTML' with signature 'object="ggbio"': no definition for class "ggbio"
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ReportingTools’ as ‘ReportingTools_2.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ReportingTools)
+* installing *source* package ‘npGSEA’ ...
+** package ‘npGSEA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+No methods found in package ‘BiocGenerics’ for request: ‘unlist’ when loading ‘npGSEA’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+No methods found in package ‘BiocGenerics’ for request: ‘unlist’ when loading ‘npGSEA’
+** testing if installed package can be loaded from final location
+No methods found in package ‘BiocGenerics’ for request: ‘unlist’ when loading ‘npGSEA’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘npGSEA’ as ‘npGSEA_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (npGSEA)
+
+The downloaded source packages are in
+	‘/tmp/RtmpIlCt9F/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	4m21.790s
+user	1m10.813s
+sys	0m12.837s
