@@ -156,6 +156,7 @@ CNTools
 CNVMetrics
 CNVPanelizer
 CNVRanger
+CNViz
 CNVrd2
 COCOA
 CODEX
@@ -292,6 +293,7 @@ Doscheda
 DriverNet
 DropletUtils
 Dune
+DuplexDiscovereR
 DynDoc
 EBImage
 EBSEA
@@ -480,6 +482,7 @@ IRanges
 ISAnalytics
 ISLET
 ISoLDE
+ITALICS
 IVAS
 IWTomics
 Icens

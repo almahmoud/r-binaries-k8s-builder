@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1948 packages built successfully
+- 1951 packages built successfully
 - 3 packages failed to build
-- 158 packages not yet processed
+- 155 packages not yet processed
 
 ## Failed Builds (3)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
@@ -15,7 +15,7 @@
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
-## Successfully Built (1948)
+## Successfully Built (1951)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                      |
@@ -1966,8 +1966,11 @@
 | [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)                   | Built    | [Log](runs/2025-02-28-13-08-23/logs/GeneStructureTools/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneStructureTools)          |
 | [GenomicInteractions](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractions.html)                 | Built    | [Log](runs/2025-02-28-13-08-23/logs/GenomicInteractions/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicInteractions)         |
 | [mimager](https://bioconductor.org/packages/3.20/bioc/html/mimager.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/mimager/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mimager)                     |
+| [CNViz](https://bioconductor.org/packages/3.20/bioc/html/CNViz.html)                                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/CNViz/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNViz)                       |
+| [DuplexDiscovereR](https://bioconductor.org/packages/3.20/bioc/html/DuplexDiscovereR.html)                       | Built    | [Log](runs/2025-02-28-13-08-23/logs/DuplexDiscovereR/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DuplexDiscovereR)            |
+| [ITALICS](https://bioconductor.org/packages/3.20/bioc/html/ITALICS.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/ITALICS/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ITALICS)                     |
 
-## Not Yet Processed (158)
+## Not Yet Processed (155)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [AMARETTO](https://bioconductor.org/packages/3.20/bioc/html/AMARETTO.html)                                     | Unprocessed |
@@ -1978,7 +1981,6 @@
 | [CAGEfightR](https://bioconductor.org/packages/3.20/bioc/html/CAGEfightR.html)                                 | Unprocessed |
 | [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)                                           | Unprocessed |
 | [CNVfilteR](https://bioconductor.org/packages/3.20/bioc/html/CNVfilteR.html)                                   | Unprocessed |
-| [CNViz](https://bioconductor.org/packages/3.20/bioc/html/CNViz.html)                                           | Unprocessed |
 | [CTdata](https://bioconductor.org/packages/3.20/bioc/html/CTdata.html)                                         | Unprocessed |
 | [CTexploreR](https://bioconductor.org/packages/3.20/bioc/html/CTexploreR.html)                                 | Unprocessed |
 | [ChAMP](https://bioconductor.org/packages/3.20/bioc/html/ChAMP.html)                                           | Unprocessed |
@@ -1989,7 +1991,6 @@
 | [DMRcate](https://bioconductor.org/packages/3.20/bioc/html/DMRcate.html)                                       | Unprocessed |
 | [DeepTarget](https://bioconductor.org/packages/3.20/bioc/html/DeepTarget.html)                                 | Unprocessed |
 | [DrugVsDisease](https://bioconductor.org/packages/3.20/bioc/html/DrugVsDisease.html)                           | Unprocessed |
-| [DuplexDiscovereR](https://bioconductor.org/packages/3.20/bioc/html/DuplexDiscovereR.html)                     | Unprocessed |
 | [ENmix](https://bioconductor.org/packages/3.20/bioc/html/ENmix.html)                                           | Unprocessed |
 | [EWCE](https://bioconductor.org/packages/3.20/bioc/html/EWCE.html)                                             | Unprocessed |
 | [EpipwR](https://bioconductor.org/packages/3.20/bioc/html/EpipwR.html)                                         | Unprocessed |
@@ -1997,7 +1998,6 @@
 | [GeneTonic](https://bioconductor.org/packages/3.20/bioc/html/GeneTonic.html)                                   | Unprocessed |
 | [GenomicOZone](https://bioconductor.org/packages/3.20/bioc/html/GenomicOZone.html)                             | Unprocessed |
 | [HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)                                   | Unprocessed |
-| [ITALICS](https://bioconductor.org/packages/3.20/bioc/html/ITALICS.html)                                       | Unprocessed |
 | [IntEREst](https://bioconductor.org/packages/3.20/bioc/html/IntEREst.html)                                     | Unprocessed |
 | [LRcell](https://bioconductor.org/packages/3.20/bioc/html/LRcell.html)                                         | Unprocessed |
 | [MACSr](https://bioconductor.org/packages/3.20/bioc/html/MACSr.html)                                           | Unprocessed |

@@ -2070,3 +2070,6 @@ FLAMES
 GeneStructureTools
 GenomicInteractions
 mimager
+CNViz
+DuplexDiscovereR
+ITALICS
