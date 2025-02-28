@@ -46,6 +46,7 @@ BADER
 BAGS
 BANDITS
 BASiCS
+BASiCStan
 BCRANK
 BEclear
 BG2
@@ -243,6 +244,7 @@ DirichletMultinomial
 DiscoRhythm
 Doscheda
 DriverNet
+DropletUtils
 Dune
 DynDoc
 EBImage
@@ -606,6 +608,7 @@ Pedixplorer
 PepSetTest
 PepsNMR
 PhIPData
+PharmacoGx
 PhenStat
 PhenoGeneRanker
 PhosR
@@ -1196,6 +1199,7 @@ globaltest
 gmoviz
 goProfiles
 goSTAG
+goSorensen
 goTools
 gpls
 gpuMagic
@@ -1262,6 +1266,7 @@ impute
 infercnv
 infinityFlow
 interacCircos
+interactiveDisplay
 interactiveDisplayBase
 ipdDb
 isobar
