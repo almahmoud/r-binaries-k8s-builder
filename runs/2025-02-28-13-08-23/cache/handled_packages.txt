@@ -238,6 +238,7 @@ EnrichedHeatmap
 EpiDISH
 ExiMiR
 ExperimentHub
+ExperimentSubset
 ExploreModelMatrix
 ExpressionAtlas
 FELLA
@@ -282,6 +283,7 @@ GSCA
 GSEABase
 GSEAlm
 GSEAmining
+GSRI
 GSgalgoR
 GWAS.BAYES
 GWASTools
@@ -312,6 +314,7 @@ GeomxTools
 GladiaTOX
 Glimma
 GloScope
+GlobalAncova
 GmicR
 GrafGen
 GraphAT
@@ -339,6 +342,7 @@ HiCBricks
 HiCDOC
 HiCExperiment
 HiCcompare
+HicAggR
 HilbertCurve
 HilbertVis
 HilbertVisGUI
@@ -441,6 +445,7 @@ MantelCorr
 MassArray
 MassSpecWavelet
 MatrixGenerics
+MatrixRider
 MeSHDbi
 MeasurementError.cor
 Melissa
@@ -918,6 +923,8 @@ consensusSeekeR
 convert
 copa
 corral
+cosmosR
+countsimQC
 covEB
 cqn
 crisprBase
@@ -969,6 +976,7 @@ doseR
 drawProteins
 dupRadar
 dyebias
+easyRNASeq
 easyreporting
 ecolitk
 edgeR
@@ -1125,6 +1133,7 @@ iPath
 iSEE
 iSEEde
 iSEEhex
+iSEEhub
 iSEEindex
 iSEEpathways
 iSeq

@@ -1,7 +1,0 @@
-RJMCMCNucleosomes
-atSNP
-cytoviewer
-dagLogo
-iSEEu
-imcRtools
-simpleSeg

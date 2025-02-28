@@ -1622,3 +1622,12 @@ iSEEhex
 methrix
 MOSim
 motifStack
+cosmosR
+countsimQC
+easyRNASeq
+ExperimentSubset
+GlobalAncova
+GSRI
+HicAggR
+iSEEhub
+MatrixRider
