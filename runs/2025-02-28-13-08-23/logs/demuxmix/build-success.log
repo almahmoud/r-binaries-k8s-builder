@@ -1,0 +1,190 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'demuxmix'
+also installing the dependencies ‘UCSC.utils’, ‘GenomeInfoDb’, ‘XVector’, ‘Biobase’, ‘S4Arrays’, ‘sparseMatrixStats’, ‘assorthead’, ‘SingleCellExperiment’, ‘S4Vectors’, ‘IRanges’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘SparseArray’, ‘DelayedArray’, ‘DelayedMatrixStats’, ‘HDF5Array’, ‘rhdf5’, ‘beachmat’, ‘scuttle’, ‘Rhdf5lib’, ‘DropletUtils’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/UCSC.utils_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 236888 bytes (231 KB)
+==================================================
+downloaded 231 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/x-gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biobase_2.66.0.tar.gz'
+Content type 'application/x-gzip' length 1978998 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Arrays_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 288435 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/sparseMatrixStats_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 706413 bytes (689 KB)
+==================================================
+downloaded 689 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/assorthead_1.0.1.tar.gz'
+Content type 'application/x-gzip' length 1734300 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SingleCellExperiment_1.28.1.tar.gz'
+Content type 'application/x-gzip' length 985694 bytes (962 KB)
+==================================================
+downloaded 962 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Vectors_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 1076666 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicRanges_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 1374658 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SparseArray_1.6.2.tar.gz'
+Content type 'application/x-gzip' length 468696 bytes (457 KB)
+==================================================
+downloaded 457 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedMatrixStats_1.28.1.tar.gz'
+Content type 'application/x-gzip' length 274322 bytes (267 KB)
+==================================================
+downloaded 267 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/HDF5Array_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 8107009 bytes (7.7 MB)
+==================================================
+downloaded 7.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rhdf5_2.50.2.tar.gz'
+Content type 'application/x-gzip' length 1310189 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/beachmat_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 378908 bytes (370 KB)
+==================================================
+downloaded 370 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/scuttle_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 1034711 bytes (1010 KB)
+==================================================
+downloaded 1010 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Rhdf5lib_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 12065121 bytes (11.5 MB)
+==================================================
+downloaded 11.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DropletUtils_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 595636 bytes (581 KB)
+==================================================
+downloaded 581 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/demuxmix_1.8.0.tar.gz'
+Content type 'application/x-gzip' length 1503074 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-Biobase’
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-sparseMatrixStats’
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-assorthead’
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-S4Vectors’
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-Rhdf5lib’
+* installing *source* package ‘demuxmix’ ...
+** package ‘demuxmix’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘demuxmix’ as ‘demuxmix_1.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (demuxmix)
+ERROR: dependency ‘S4Vectors’ is not available for package ‘UCSC.utils’
+* removing ‘/mnt/library/UCSC.utils’
+ERROR: dependency ‘S4Vectors’ is not available for package ‘IRanges’
+* removing ‘/mnt/library/IRanges’
+ERROR: dependencies ‘Rhdf5lib’, ‘rhdf5filters’ are not available for package ‘rhdf5’
+* removing ‘/mnt/library/rhdf5’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘UCSC.utils’ are not available for package ‘GenomeInfoDb’
+* removing ‘/mnt/library/GenomeInfoDb’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘XVector’
+* removing ‘/mnt/library/XVector’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘S4Arrays’
+* removing ‘/mnt/library/S4Arrays’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘XVector’ are not available for package ‘GenomicRanges’
+* removing ‘/mnt/library/GenomicRanges’
+ERROR: dependencies ‘S4Vectors’, ‘S4Arrays’, ‘IRanges’, ‘XVector’ are not available for package ‘SparseArray’
+* removing ‘/mnt/library/SparseArray’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘S4Arrays’, ‘SparseArray’ are not available for package ‘DelayedArray’
+* removing ‘/mnt/library/DelayedArray’
+ERROR: dependencies ‘GenomicRanges’, ‘Biobase’, ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘S4Arrays’, ‘DelayedArray’ are not available for package ‘SummarizedExperiment’
+* removing ‘/mnt/library/SummarizedExperiment’
+ERROR: dependencies ‘DelayedArray’, ‘S4Vectors’, ‘IRanges’, ‘SparseArray’ are not available for package ‘DelayedMatrixStats’
+* removing ‘/mnt/library/DelayedMatrixStats’
+ERROR: dependencies ‘SparseArray’, ‘DelayedArray’, ‘rhdf5’, ‘rhdf5filters’, ‘S4Vectors’, ‘IRanges’, ‘S4Arrays’ are not available for package ‘HDF5Array’
+* removing ‘/mnt/library/HDF5Array’
+ERROR: dependencies ‘DelayedArray’, ‘SparseArray’, ‘assorthead’ are not available for package ‘beachmat’
+* removing ‘/mnt/library/beachmat’
+ERROR: dependencies ‘SummarizedExperiment’, ‘S4Vectors’, ‘GenomicRanges’, ‘DelayedArray’ are not available for package ‘SingleCellExperiment’
+* removing ‘/mnt/library/SingleCellExperiment’
+ERROR: dependencies ‘SingleCellExperiment’, ‘S4Vectors’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘S4Arrays’, ‘SparseArray’, ‘DelayedArray’, ‘beachmat’ are not available for package ‘scuttle’
+* removing ‘/mnt/library/scuttle’
+ERROR: dependencies ‘SingleCellExperiment’, ‘S4Vectors’, ‘IRanges’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘SparseArray’, ‘DelayedArray’, ‘DelayedMatrixStats’, ‘HDF5Array’, ‘rhdf5’, ‘beachmat’, ‘scuttle’ are not available for package ‘DropletUtils’
+* removing ‘/mnt/library/DropletUtils’
+
+The downloaded source packages are in
+	‘/tmp/RtmpDwWIzT/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+There were 21 warnings (use warnings() to see them)
+
+real	13m42.715s
+user	0m19.082s
+sys	0m8.906s

@@ -1,0 +1,56 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'fCI'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/fCI_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 1381829 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+* installing *source* package ‘fCI’ ...
+** package ‘fCI’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning messages:
+1: In rgl.init(initValue, onlyNULL) : RGL: unable to open X11 display
+2: 'rgl.init' failed, will use the null device.
+See '?rgl.useNULL' for ways to avoid this warning. 
+in method for ‘initialize’ with signature ‘"NPCI"’: no definition for class “NPCI”
+in method for ‘normalization’ with signature ‘"NPCI"’: no definition for class “NPCI”
+in method for ‘setfCI’ with signature ‘"NPCI"’: no definition for class “NPCI”
+in method for ‘populate’ with signature ‘"NPCI"’: no definition for class “NPCI”
+in method for ‘find.fci.targets’ with signature ‘"NPCI"’: no definition for class “NPCI”
+in method for ‘show.targets’ with signature ‘"NPCI"’: no definition for class “NPCI”
+in method for ‘call.npci’ with signature ‘"NPCI"’: no definition for class “NPCI”
+in method for ‘compute’ with signature ‘"NPCI"’: no definition for class “NPCI”
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: 'rgl.init' failed, will use the null device.
+See '?rgl.useNULL' for ways to avoid this warning.
+** testing if installed package can be loaded from final location
+Warning: 'rgl.init' failed, will use the null device.
+See '?rgl.useNULL' for ways to avoid this warning.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘fCI’ as ‘fCI_1.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fCI)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp0ucmpl/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	13m16.664s
+user	0m7.863s
+sys	0m3.544s

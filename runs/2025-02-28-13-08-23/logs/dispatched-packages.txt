@@ -423,3 +423,7 @@ SpaceMarkers
 sights
 HubPub
 XINA
+MethylMix
+ggtree
+statTarget
+tkWidgets

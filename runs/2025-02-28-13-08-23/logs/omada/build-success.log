@@ -1,0 +1,223 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'omada'
+also installing the dependencies ‘R.cache’, ‘styler’, ‘labelled’, ‘linprog’, ‘questionr’, ‘geometry’, ‘flexmix’, ‘prabclus’, ‘clusterCrit’, ‘clv’, ‘klaR’, ‘RankAggreg’, ‘yardstick’, ‘pdfCluster’, ‘fpc’, ‘diceR’, ‘genieclust’, ‘clValid’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/R.cache_0.16.0.tar.gz'
+Content type 'binary/octet-stream' length 111833 bytes (109 KB)
+==================================================
+downloaded 109 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/styler_1.10.3.tar.gz'
+Content type 'binary/octet-stream' length 827326 bytes (807 KB)
+==================================================
+downloaded 807 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/labelled_2.14.0.tar.gz'
+Content type 'binary/octet-stream' length 347894 bytes (339 KB)
+==================================================
+downloaded 339 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/linprog_0.9-4.tar.gz'
+Content type 'binary/octet-stream' length 63214 bytes (61 KB)
+==================================================
+downloaded 61 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/questionr_0.7.8.tar.gz'
+Content type 'binary/octet-stream' length 3890173 bytes (3.7 MB)
+==================================================
+downloaded 3.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/geometry_0.5.2.tar.gz'
+Content type 'binary/octet-stream' length 977060 bytes (954 KB)
+==================================================
+downloaded 954 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/flexmix_2.3-19.tar.gz'
+Content type 'binary/octet-stream' length 1733842 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/prabclus_2.3-4.tar.gz'
+Content type 'binary/octet-stream' length 481072 bytes (469 KB)
+==================================================
+downloaded 469 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/clusterCrit_1.3.0.tar.gz'
+Content type 'binary/octet-stream' length 470606 bytes (459 KB)
+==================================================
+downloaded 459 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/clv_0.3-2.4.tar.gz'
+Content type 'binary/octet-stream' length 212626 bytes (207 KB)
+==================================================
+downloaded 207 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/klaR_1.7-3.tar.gz'
+Content type 'binary/octet-stream' length 573241 bytes (559 KB)
+==================================================
+downloaded 559 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RankAggreg_0.6.6.tar.gz'
+Content type 'binary/octet-stream' length 350065 bytes (341 KB)
+==================================================
+downloaded 341 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/yardstick_1.3.2.tar.gz'
+Content type 'binary/octet-stream' length 1096757 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pdfCluster_1.0-4.tar.gz'
+Content type 'binary/octet-stream' length 346999 bytes (338 KB)
+==================================================
+downloaded 338 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fpc_2.2-13.tar.gz'
+Content type 'binary/octet-stream' length 861159 bytes (840 KB)
+==================================================
+downloaded 840 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/diceR_3.0.0.tar.gz'
+Content type 'binary/octet-stream' length 1334985 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/genieclust_1.1.6.tar.gz'
+Content type 'binary/octet-stream' length 244840 bytes (239 KB)
+==================================================
+downloaded 239 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/clValid_0.7.tar.gz'
+Content type 'binary/octet-stream' length 612058 bytes (597 KB)
+==================================================
+downloaded 597 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/omada_1.8.0.tar.gz'
+Content type 'application/x-gzip' length 187275 bytes (182 KB)
+==================================================
+downloaded 182 KB
+
+* installing *binary* package ‘R.cache’ ...
+* ‘R.cache’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.cache’ as ‘R.cache_0.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.cache)
+* installing *binary* package ‘labelled’ ...
+* ‘labelled’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘labelled’ as ‘labelled_2.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (labelled)
+* installing *binary* package ‘linprog’ ...
+* ‘linprog’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘linprog’ as ‘linprog_0.9-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (linprog)
+* installing *binary* package ‘flexmix’ ...
+* ‘flexmix’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘flexmix’ as ‘flexmix_2.3-19_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (flexmix)
+* installing *binary* package ‘prabclus’ ...
+* ‘prabclus’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘prabclus’ as ‘prabclus_2.3-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (prabclus)
+* installing *binary* package ‘clusterCrit’ ...
+* ‘clusterCrit’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘clusterCrit’ as ‘clusterCrit_1.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clusterCrit)
+* installing *binary* package ‘clv’ ...
+* ‘clv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘clv’ as ‘clv_0.3-2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clv)
+* installing *binary* package ‘RankAggreg’ ...
+* ‘RankAggreg’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RankAggreg’ as ‘RankAggreg_0.6.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RankAggreg)
+* installing *binary* package ‘yardstick’ ...
+* ‘yardstick’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘yardstick’ as ‘yardstick_1.3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (yardstick)
+* installing *binary* package ‘genieclust’ ...
+* ‘genieclust’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘genieclust’ as ‘genieclust_1.1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (genieclust)
+* installing *binary* package ‘clValid’ ...
+* ‘clValid’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘clValid’ as ‘clValid_0.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clValid)
+* installing *binary* package ‘styler’ ...
+* ‘styler’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘styler’ as ‘styler_1.10.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (styler)
+* installing *binary* package ‘geometry’ ...
+* ‘geometry’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘geometry’ as ‘geometry_0.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (geometry)
+* installing *binary* package ‘fpc’ ...
+* ‘fpc’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fpc’ as ‘fpc_2.2-13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fpc)
+* installing *binary* package ‘questionr’ ...
+* ‘questionr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘questionr’ as ‘questionr_0.7.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (questionr)
+* installing *binary* package ‘pdfCluster’ ...
+* ‘pdfCluster’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pdfCluster’ as ‘pdfCluster_1.0-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pdfCluster)
+* installing *binary* package ‘klaR’ ...
+* ‘klaR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘klaR’ as ‘klaR_1.7-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (klaR)
+* installing *binary* package ‘diceR’ ...
+* ‘diceR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘diceR’ as ‘diceR_3.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (diceR)
+* installing *source* package ‘omada’ ...
+** package ‘omada’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘omada’ as ‘omada_1.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (omada)
+
+The downloaded source packages are in
+	‘/tmp/RtmphgrxcL/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	12m34.011s
+user	0m21.875s
+sys	0m7.804s

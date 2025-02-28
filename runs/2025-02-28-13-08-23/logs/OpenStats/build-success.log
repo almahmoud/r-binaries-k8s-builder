@@ -1,0 +1,111 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'OpenStats'
+also installing the dependencies ‘TMB’, ‘unmarked’, ‘VGAM’, ‘pander’, ‘rapportools’, ‘AICcmodavg’, ‘summarytools’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/TMB_1.9.16.tar.gz'
+Content type 'binary/octet-stream' length 8672255 bytes (8.3 MB)
+==================================================
+downloaded 8.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/unmarked_1.5.0.tar.gz'
+Content type 'binary/octet-stream' length 3609049 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/VGAM_1.1-13.tar.gz'
+Content type 'binary/octet-stream' length 7910739 bytes (7.5 MB)
+==================================================
+downloaded 7.5 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pander_0.6.5.tar.gz'
+Content type 'binary/octet-stream' length 924797 bytes (903 KB)
+==================================================
+downloaded 903 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rapportools_1.1.tar.gz'
+Content type 'binary/octet-stream' length 129248 bytes (126 KB)
+==================================================
+downloaded 126 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/AICcmodavg_2.3-3.tar.gz'
+Content type 'binary/octet-stream' length 3240444 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/summarytools_1.1.1.tar.gz'
+Content type 'binary/octet-stream' length 1830740 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/OpenStats_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 591637 bytes (577 KB)
+==================================================
+downloaded 577 KB
+
+* installing *binary* package ‘TMB’ ...
+* ‘TMB’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘TMB’ as ‘TMB_1.9.16_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TMB)
+* installing *binary* package ‘VGAM’ ...
+* ‘VGAM’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘VGAM’ as ‘VGAM_1.1-13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (VGAM)
+* installing *binary* package ‘pander’ ...
+* ‘pander’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pander’ as ‘pander_0.6.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pander)
+* installing *binary* package ‘unmarked’ ...
+* ‘unmarked’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘unmarked’ as ‘unmarked_1.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (unmarked)
+* installing *binary* package ‘rapportools’ ...
+* ‘rapportools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rapportools’ as ‘rapportools_1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rapportools)
+* installing *binary* package ‘AICcmodavg’ ...
+* ‘AICcmodavg’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘AICcmodavg’ as ‘AICcmodavg_2.3-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (AICcmodavg)
+* installing *binary* package ‘summarytools’ ...
+* ‘summarytools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘summarytools’ as ‘summarytools_1.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (summarytools)
+* installing *source* package ‘OpenStats’ ...
+** package ‘OpenStats’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘OpenStats’ as ‘OpenStats_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (OpenStats)
+
+The downloaded source packages are in
+	‘/tmp/RtmpUyl8dd/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	16m0.741s
+user	0m23.952s
+sys	0m6.664s

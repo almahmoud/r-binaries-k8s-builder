@@ -1,0 +1,432 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'graper'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/graper_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 1011398 bytes (987 KB)
+==================================================
+downloaded 987 KB
+
+* installing *source* package ‘graper’ ...
+** package ‘graper’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+In file included from /mnt/library/RcppArmadillo/include/armadillo:423,
+                 from /mnt/library/RcppArmadillo/include/RcppArmadillo/interface/RcppArmadilloForward.h:58,
+                 from /mnt/library/RcppArmadillo/include/RcppArmadillo.h:29,
+                 from RcppExports.cpp:4:
+/usr/include/armadillo_bits/unwrap.hpp:811:34: error: ‘op_nonzeros_spmat’ was not declared in this scope; did you mean ‘op_nonzeros’?
+  811 | struct quasi_unwrap< SpToDOp<T1, op_nonzeros_spmat> >
+      |                                  ^~~~~~~~~~~~~~~~~
+      |                                  op_nonzeros
+/usr/include/armadillo_bits/unwrap.hpp:811:51: error: template argument 2 is invalid
+  811 | struct quasi_unwrap< SpToDOp<T1, op_nonzeros_spmat> >
+      |                                                   ^
+/usr/include/armadillo_bits/unwrap.hpp:811:53: error: template argument 1 is invalid
+  811 | struct quasi_unwrap< SpToDOp<T1, op_nonzeros_spmat> >
+      |                                                     ^
+In file included from /mnt/library/RcppArmadillo/include/armadillo:478:
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp: In function ‘typename T1::elem_type arma::accu(const eGlue<T1, T2, eglue_schur>&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:297:11: error: ‘sv_keep_unwrap’ does not name a type
+  297 |     const sv_keep_unwrap<P1_stored_type>& UA(expr.P1.Q);
+      |           ^~~~~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:298:11: error: ‘sv_keep_unwrap’ does not name a type
+  298 |     const sv_keep_unwrap<P2_stored_type>& UB(expr.P2.Q);
+      |           ^~~~~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:300:22: error: expected nested-name-specifier before ‘sv_keep_unwrap’
+  300 |     typedef typename sv_keep_unwrap<T1>::stored_type UA_M_type;
+      |                      ^~~~~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:300:36: error: expected initializer before ‘<’ token
+  300 |     typedef typename sv_keep_unwrap<T1>::stored_type UA_M_type;
+      |                                    ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:301:22: error: expected nested-name-specifier before ‘sv_keep_unwrap’
+  301 |     typedef typename sv_keep_unwrap<T2>::stored_type UB_M_type;
+      |                      ^~~~~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:301:36: error: expected initializer before ‘<’ token
+  301 |     typedef typename sv_keep_unwrap<T2>::stored_type UB_M_type;
+      |                                    ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:303:11: error: ‘UA_M_type’ does not name a type
+  303 |     const UA_M_type& A = UA.M;
+      |           ^~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:304:11: error: ‘UB_M_type’ does not name a type
+  304 |     const UB_M_type& B = UB.M;
+      |           ^~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:308:28: error: ‘A’ was not declared in this scope
+  308 |     const uword A_n_rows = A.n_rows;
+      |                            ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:313:91: error: ‘B’ was not declared in this scope
+  313 |     for(uword c=0; c < A_n_cols; ++c)  { acc += op_dot::direct_dot(A_n_rows, A.colptr(c), B.colptr(c)); }
+      |                                                                                           ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp: At global scope:
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:1065:58: error: expected nested-name-specifier before ‘arma_spop_rel_only’
+ 1065 | accu(const mtSpOp<uword,T1,spop_type>& X, const typename arma_spop_rel_only<spop_type>::result* junk1 = nullptr, const typename arma_not_cx<typename T1::elem_type>::result* junk2 = nullptr)
+      |                                                          ^~~~~~~~~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:1065:76: error: expected ‘,’ or ‘...’ before ‘<’ token
+ 1065 | accu(const mtSpOp<uword,T1,spop_type>& X, const typename arma_spop_rel_only<spop_type>::result* junk1 = nullptr, const typename arma_not_cx<typename T1::elem_type>::result* junk2 = nullptr)
+      |                                                                            ^
+In file included from /mnt/library/RcppArmadillo/include/armadillo:96:
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp: In function ‘arma::uword arma::accu(const mtSpOp<unsigned int, T1, spop_type>&, int)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:1068:15: error: ‘junk1’ was not declared in this scope; did you mean ‘junk’?
+ 1068 |   arma_ignore(junk1);
+      |               ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/compiler_setup.hpp:42:40: note: in definition of macro ‘arma_ignore’
+   42 | #define arma_ignore(variable)  ((void)(variable))
+      |                                        ^~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:1069:15: error: ‘junk2’ was not declared in this scope; did you mean ‘junk’?
+ 1069 |   arma_ignore(junk2);
+      |               ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/compiler_setup.hpp:42:40: note: in definition of macro ‘arma_ignore’
+   42 | #define arma_ignore(variable)  ((void)(variable))
+      |                                        ^~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp: At global scope:
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:1139:58: error: expected nested-name-specifier before ‘arma_spop_rel_only’
+ 1139 | accu(const mtSpOp<uword,T1,spop_type>& X, const typename arma_spop_rel_only<spop_type>::result* junk1 = nullptr, const typename arma_cx_only<typename T1::elem_type>::result* junk2 = nullptr)
+      |                                                          ^~~~~~~~~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:1139:76: error: expected ‘,’ or ‘...’ before ‘<’ token
+ 1139 | accu(const mtSpOp<uword,T1,spop_type>& X, const typename arma_spop_rel_only<spop_type>::result* junk1 = nullptr, const typename arma_cx_only<typename T1::elem_type>::result* junk2 = nullptr)
+      |                                                                            ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:1139:1: error: redefinition of ‘template<class T1, class spop_type> arma::uword arma::accu(const mtSpOp<unsigned int, T1, spop_type>&, int)’
+ 1139 | accu(const mtSpOp<uword,T1,spop_type>& X, const typename arma_spop_rel_only<spop_type>::result* junk1 = nullptr, const typename arma_cx_only<typename T1::elem_type>::result* junk2 = nullptr)
+      | ^~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/fn_accu.hpp:1065:1: note: ‘template<class T1, class spop_type> arma::uword arma::accu(const mtSpOp<unsigned int, T1, spop_type>&, int)’ previously declared here
+ 1065 | accu(const mtSpOp<uword,T1,spop_type>& X, const typename arma_spop_rel_only<spop_type>::result* junk1 = nullptr, const typename arma_not_cx<typename T1::elem_type>::result* junk2 = nullptr)
+      | ^~~~
+In file included from /mnt/library/RcppArmadillo/include/armadillo:664:
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp: In static member function ‘static bool arma::auxlib::inv_sym(arma::Mat<eT>&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:276:15: error: ‘sytrf’ is not a member of ‘arma::lapack’
+  276 |       lapack::sytrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &work_query[0], &lwork_query, &info);
+      |               ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:288:13: error: ‘sytrf’ is not a member of ‘arma::lapack’
+  288 |     lapack::sytrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), work.memptr(), &lwork, &info);
+      |             ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:293:13: error: ‘sytri’ is not a member of ‘arma::lapack’
+  293 |     lapack::sytri(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), work.memptr(), &info);
+      |             ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp: In static member function ‘static bool arma::auxlib::inv_sym(arma::Mat<std::complex<_Tp> >&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:349:15: error: ‘hetrf’ is not a member of ‘arma::lapack’; did you mean ‘getrf’?
+  349 |       lapack::hetrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &work_query[0], &lwork_query, &info);
+      |               ^~~~~
+      |               getrf
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:361:13: error: ‘hetrf’ is not a member of ‘arma::lapack’; did you mean ‘getrf’?
+  361 |     lapack::hetrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), work.memptr(), &lwork, &info);
+      |             ^~~~~
+      |             getrf
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:366:13: error: ‘hetri’ is not a member of ‘arma::lapack’; did you mean ‘getri’?
+  366 |     lapack::hetri(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), work.memptr(), &info);
+      |             ^~~~~
+      |             getri
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp: In static member function ‘static bool arma::auxlib::inv_sym_rcond(arma::Mat<eT>&, eT&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:418:15: error: ‘sytrf’ is not a member of ‘arma::lapack’
+  418 |       lapack::sytrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &work_query[0], &lwork_query, &info);
+      |               ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:433:13: error: ‘sytrf’ is not a member of ‘arma::lapack’
+  433 |     lapack::sytrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), work.memptr(), &lwork, &info);
+      |             ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:438:13: error: ‘sycon’ is not a member of ‘arma::lapack’
+  438 |     lapack::sycon(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &norm_val, &tmp_rcond, work.memptr(), iwork.memptr(), &info);
+      |             ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:447:13: error: ‘sytri’ is not a member of ‘arma::lapack’
+  447 |     lapack::sytri(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), work.memptr(), &info);
+      |             ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp: In static member function ‘static bool arma::auxlib::inv_sym_rcond(arma::Mat<std::complex<_Tp> >&, T&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:510:15: error: ‘hetrf’ is not a member of ‘arma::lapack’; did you mean ‘getrf’?
+  510 |       lapack::hetrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &work_query[0], &lwork_query, &info);
+      |               ^~~~~
+      |               getrf
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:525:13: error: ‘hetrf’ is not a member of ‘arma::lapack’; did you mean ‘getrf’?
+  525 |     lapack::hetrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), work.memptr(), &lwork, &info);
+      |             ^~~~~
+      |             getrf
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:530:13: error: ‘hecon’ is not a member of ‘arma::lapack’; did you mean ‘gecon’?
+  530 |     lapack::hecon(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &norm_val, &tmp_rcond, work.memptr(), &info);
+      |             ^~~~~
+      |             gecon
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:539:13: error: ‘hetri’ is not a member of ‘arma::lapack’; did you mean ‘getri’?
+  539 |     lapack::hetri(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), work.memptr(), &info);
+      |             ^~~~~
+      |             getri
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp: In static member function ‘static bool arma::auxlib::solve_sym_fast(arma::Mat<typename T1::pod_type>&, arma::Mat<typename T1::pod_type>&, const arma::Base<typename T1::pod_type, T1>&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:4606:15: error: ‘sytrf’ is not a member of ‘arma::lapack’
+ 4606 |       lapack::sytrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &work_query[0], &lwork_query, &info);
+      |               ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:4618:13: error: ‘sytrf’ is not a member of ‘arma::lapack’
+ 4618 |     lapack::sytrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), work.memptr(), &lwork, &info);
+      |             ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:4623:13: error: ‘sytrs’ is not a member of ‘arma::lapack’
+ 4623 |     lapack::sytrs(&uplo, &n, &nrhs, A.memptr(), &lda, ipiv.memptr(), out.memptr(), &ldb, &info);
+      |             ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp: In static member function ‘static bool arma::auxlib::solve_sym_fast(arma::Mat<std::complex<typename T1::pod_type> >&, arma::Mat<std::complex<typename T1::pod_type> >&, const arma::Base<std::complex<typename T1::pod_type>, T1>&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:4682:15: error: ‘hetrf’ is not a member of ‘arma::lapack’; did you mean ‘getrf’?
+ 4682 |       lapack::hetrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &work_query[0], &lwork_query, &info);
+      |               ^~~~~
+      |               getrf
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:4694:13: error: ‘hetrf’ is not a member of ‘arma::lapack’; did you mean ‘getrf’?
+ 4694 |     lapack::hetrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), work.memptr(), &lwork, &info);
+      |             ^~~~~
+      |             getrf
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:4699:13: error: ‘hetrs’ is not a member of ‘arma::lapack’; did you mean ‘getrs’?
+ 4699 |     lapack::hetrs(&uplo, &n, &nrhs, A.memptr(), &lda, ipiv.memptr(), out.memptr(), &ldb, &info);
+      |             ^~~~~
+      |             getrs
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp: In static member function ‘static bool arma::auxlib::solve_sym_rcond(arma::Mat<typename T1::pod_type>&, typename T1::pod_type&, arma::Mat<typename T1::pod_type>&, const arma::Base<typename T1::pod_type, T1>&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:4763:15: error: ‘sytrf’ is not a member of ‘arma::lapack’
+ 4763 |       lapack::sytrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &work_query[0], &lwork_query, &info);
+      |               ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:4778:13: error: ‘sytrf’ is not a member of ‘arma::lapack’
+ 4778 |     lapack::sytrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), work.memptr(), &lwork, &info);
+      |             ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:4783:13: error: ‘sytrs’ is not a member of ‘arma::lapack’
+ 4783 |     lapack::sytrs(&uplo, &n, &nrhs, A.memptr(), &lda, ipiv.memptr(), out.memptr(), &ldb, &info);
+      |             ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:4788:13: error: ‘sycon’ is not a member of ‘arma::lapack’
+ 4788 |     lapack::sycon(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &norm_val, &tmp_rcond, work.memptr(), iwork.memptr(), &info);
+      |             ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp: In static member function ‘static bool arma::auxlib::solve_sym_rcond(arma::Mat<std::complex<typename T1::pod_type> >&, typename T1::pod_type&, arma::Mat<std::complex<typename T1::pod_type> >&, const arma::Base<std::complex<typename T1::pod_type>, T1>&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:4849:15: error: ‘hetrf’ is not a member of ‘arma::lapack’; did you mean ‘getrf’?
+ 4849 |       lapack::hetrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &work_query[0], &lwork_query, &info);
+      |               ^~~~~
+      |               getrf
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:4864:13: error: ‘hetrf’ is not a member of ‘arma::lapack’; did you mean ‘getrf’?
+ 4864 |     lapack::hetrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), work.memptr(), &lwork, &info);
+      |             ^~~~~
+      |             getrf
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:4869:13: error: ‘hetrs’ is not a member of ‘arma::lapack’; did you mean ‘getrs’?
+ 4869 |     lapack::hetrs(&uplo, &n, &nrhs, A.memptr(), &lda, ipiv.memptr(), out.memptr(), &ldb, &info);
+      |             ^~~~~
+      |             getrs
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:4874:13: error: ‘hecon’ is not a member of ‘arma::lapack’; did you mean ‘gecon’?
+ 4874 |     lapack::hecon(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &norm_val, &tmp_rcond, work.memptr(), &info);
+      |             ^~~~~
+      |             gecon
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp: In static member function ‘static eT arma::auxlib::rcond_sym(arma::Mat<eT>&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:6841:15: error: ‘sytrf’ is not a member of ‘arma::lapack’
+ 6841 |       lapack::sytrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &work_query[0], &lwork_query, &info);
+      |               ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:6856:13: error: ‘sytrf’ is not a member of ‘arma::lapack’
+ 6856 |     lapack::sytrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), work.memptr(), &lwork, &info);
+      |             ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:6861:13: error: ‘sycon’ is not a member of ‘arma::lapack’
+ 6861 |     lapack::sycon(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &norm_val, &out_rcond, work.memptr(), iwork.memptr(), &info);
+      |             ^~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp: In static member function ‘static T arma::auxlib::rcond_sym(arma::Mat<std::complex<_Tp> >&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:6915:15: error: ‘hetrf’ is not a member of ‘arma::lapack’; did you mean ‘getrf’?
+ 6915 |       lapack::hetrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &work_query[0], &lwork_query, &info);
+      |               ^~~~~
+      |               getrf
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:6930:13: error: ‘hetrf’ is not a member of ‘arma::lapack’; did you mean ‘getrf’?
+ 6930 |     lapack::hetrf(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), work.memptr(), &lwork, &info);
+      |             ^~~~~
+      |             getrf
+/mnt/library/RcppArmadillo/include/armadillo_bits/auxlib_meat.hpp:6935:13: error: ‘hecon’ is not a member of ‘arma::lapack’; did you mean ‘gecon’?
+ 6935 |     lapack::hecon(&uplo, &n, A.memptr(), &lda, ipiv.memptr(), &norm_val, &out_rcond, work.memptr(), &info);
+      |             ^~~~~
+      |             gecon
+In file included from /mnt/library/RcppArmadillo/include/armadillo:679:
+/mnt/library/RcppArmadillo/include/armadillo_bits/subview_meat.hpp: At global scope:
+/mnt/library/RcppArmadillo/include/armadillo_bits/subview_meat.hpp:2624:1: error: no declaration matches ‘bool arma::subview<eT>::is_alias(const arma::Mat<eT2>&) const’
+ 2624 | subview<eT>::is_alias(const Mat<eT2>& X) const
+      | ^~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/subview_meat.hpp:2624:1: note: no functions named ‘bool arma::subview<eT>::is_alias(const arma::Mat<eT2>&) const’
+In file included from /mnt/library/RcppArmadillo/include/armadillo:203:
+/usr/include/armadillo_bits/subview_bones.hpp:26:7: note: ‘class arma::subview<eT>’ defined here
+   26 | class subview : public Base< eT, subview<eT> >
+      |       ^~~~~~~
+In file included from /mnt/library/RcppArmadillo/include/armadillo:680:
+/mnt/library/RcppArmadillo/include/armadillo_bits/subview_elem1_meat.hpp:950:1: error: no declaration matches ‘bool arma::subview_elem1<eT, T1>::is_alias(const arma::Mat<eT2>&) const’
+  950 | subview_elem1<eT,T1>::is_alias(const Mat<eT2>& X) const
+      | ^~~~~~~~~~~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/subview_elem1_meat.hpp:950:1: note: no functions named ‘bool arma::subview_elem1<eT, T1>::is_alias(const arma::Mat<eT2>&) const’
+In file included from /mnt/library/RcppArmadillo/include/armadillo:204:
+/usr/include/armadillo_bits/subview_elem1_bones.hpp:25:7: note: ‘class arma::subview_elem1<eT, T1>’ defined here
+   25 | class subview_elem1 : public Base< eT, subview_elem1<eT,T1> >
+      |       ^~~~~~~~~~~~~
+In file included from /mnt/library/RcppArmadillo/include/armadillo:681:
+/mnt/library/RcppArmadillo/include/armadillo_bits/subview_elem2_meat.hpp:877:1: error: no declaration matches ‘bool arma::subview_elem2<eT, T1, T2>::is_alias(const arma::Mat<eT2>&) const’
+  877 | subview_elem2<eT,T1,T2>::is_alias(const Mat<eT2>& X) const
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/subview_elem2_meat.hpp:877:1: note: no functions named ‘bool arma::subview_elem2<eT, T1, T2>::is_alias(const arma::Mat<eT2>&) const’
+In file included from /mnt/library/RcppArmadillo/include/armadillo:205:
+/usr/include/armadillo_bits/subview_elem2_bones.hpp:25:7: note: ‘class arma::subview_elem2<eT, T1, T2>’ defined here
+   25 | class subview_elem2 : public Base< eT, subview_elem2<eT,T1,T2> >
+      |       ^~~~~~~~~~~~~
+In file included from /mnt/library/RcppArmadillo/include/armadillo:707:
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp: In static member function ‘static typename T1::elem_type arma::op_dot::apply(const T1&, const T2&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:234:11: error: ‘sv_keep_unwrap’ does not name a type
+  234 |     const sv_keep_unwrap<T1>& UA(X);
+      |           ^~~~~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:235:11: error: ‘sv_keep_unwrap’ does not name a type
+  235 |     const sv_keep_unwrap<T2>& UB(Y);
+      |           ^~~~~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:237:22: error: expected nested-name-specifier before ‘sv_keep_unwrap’
+  237 |     typedef typename sv_keep_unwrap<T1>::stored_type UA_M_type;
+      |                      ^~~~~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:237:36: error: expected initializer before ‘<’ token
+  237 |     typedef typename sv_keep_unwrap<T1>::stored_type UA_M_type;
+      |                                    ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:238:22: error: expected nested-name-specifier before ‘sv_keep_unwrap’
+  238 |     typedef typename sv_keep_unwrap<T2>::stored_type UB_M_type;
+      |                      ^~~~~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:238:36: error: expected initializer before ‘<’ token
+  238 |     typedef typename sv_keep_unwrap<T2>::stored_type UB_M_type;
+      |                                    ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:240:11: error: ‘UA_M_type’ does not name a type
+  240 |     const UA_M_type& A = UA.M;
+      |           ^~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:241:11: error: ‘UB_M_type’ does not name a type
+  241 |     const UB_M_type& B = UB.M;
+      |           ^~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:243:28: error: ‘A’ was not declared in this scope
+  243 |     const uword A_n_rows = A.n_rows;
+      |                            ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:246:22: error: ‘B’ was not declared in this scope
+  246 |     if( (A_n_rows == B.n_rows) && (A_n_cols == B.n_cols) )
+      |                      ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:256:26: error: ‘UA_M_type’ was not declared in this scope
+  256 |       const quasi_unwrap<UA_M_type> UUA(A);
+      |                          ^~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:256:35: error: template argument 1 is invalid
+  256 |       const quasi_unwrap<UA_M_type> UUA(A);
+      |                                   ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:257:26: error: ‘UB_M_type’ was not declared in this scope
+  257 |       const quasi_unwrap<UB_M_type> UUB(B);
+      |                          ^~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:257:35: error: template argument 1 is invalid
+  257 |       const quasi_unwrap<UB_M_type> UUB(B);
+      |                                   ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:259:32: error: request for member ‘M’ in ‘UUA’, which is of non-class type ‘const int’
+  259 |       arma_conform_check( (UUA.M.n_elem != UUB.M.n_elem), "dot(): objects must have the same number of elements" );
+      |                                ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:259:48: error: request for member ‘M’ in ‘UUB’, which is of non-class type ‘const int’
+  259 |       arma_conform_check( (UUA.M.n_elem != UUB.M.n_elem), "dot(): objects must have the same number of elements" );
+      |                                                ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:261:37: error: request for member ‘M’ in ‘UUA’, which is of non-class type ‘const int’
+  261 |       return op_dot::direct_dot(UUA.M.n_elem, UUA.M.memptr(), UUB.M.memptr());
+      |                                     ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:261:51: error: request for member ‘M’ in ‘UUA’, which is of non-class type ‘const int’
+  261 |       return op_dot::direct_dot(UUA.M.n_elem, UUA.M.memptr(), UUB.M.memptr());
+      |                                                   ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_dot_meat.hpp:261:67: error: request for member ‘M’ in ‘UUB’, which is of non-class type ‘const int’
+  261 |       return op_dot::direct_dot(UUA.M.n_elem, UUA.M.memptr(), UUB.M.memptr());
+      |                                                                   ^
+In file included from /mnt/library/RcppArmadillo/include/armadillo:710:
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_inv_gen_meat.hpp: In static member function ‘static bool arma::op_inv_gen_full::apply_direct(arma::Mat<typename T1::elem_type>&, const arma::Base<typename T1::elem_type, T1>&, const char*, arma::uword)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_inv_gen_meat.hpp:224:83: error: ‘is_sym_expr’ was not declared in this scope; did you mean ‘is_tril_expr’?
+  224 |   if( (arma_config::optimise_sym) && (auxlib::crippled_lapack(out) == false) && ( is_sym_expr<T1>::eval(expr.get_ref()) || sym_helper::is_approx_sym(out, uword(100)) ) )
+      |                                                                                   ^~~~~~~~~~~
+      |                                                                                   is_tril_expr
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_inv_gen_meat.hpp:224:97: error: expected primary-expression before ‘>’ token
+  224 |   if( (arma_config::optimise_sym) && (auxlib::crippled_lapack(out) == false) && ( is_sym_expr<T1>::eval(expr.get_ref()) || sym_helper::is_approx_sym(out, uword(100)) ) )
+      |                                                                                                 ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_inv_gen_meat.hpp:224:100: error: ‘::eval’ has not been declared
+  224 |   if( (arma_config::optimise_sym) && (auxlib::crippled_lapack(out) == false) && ( is_sym_expr<T1>::eval(expr.get_ref()) || sym_helper::is_approx_sym(out, uword(100)) ) )
+      |                                                                                                    ^~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_inv_gen_meat.hpp: In static member function ‘static bool arma::op_inv_gen_rcond::apply_direct(arma::Mat<typename T1::elem_type>&, arma::op_inv_gen_state<typename T1::pod_type>&, const arma::Base<typename T1::elem_type, T1>&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_inv_gen_meat.hpp:390:83: error: ‘is_sym_expr’ was not declared in this scope; did you mean ‘is_tril_expr’?
+  390 |   if( (arma_config::optimise_sym) && (auxlib::crippled_lapack(out) == false) && ( is_sym_expr<T1>::eval(expr.get_ref()) || sym_helper::is_approx_sym(out, uword(100)) ) )
+      |                                                                                   ^~~~~~~~~~~
+      |                                                                                   is_tril_expr
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_inv_gen_meat.hpp:390:97: error: expected primary-expression before ‘>’ token
+  390 |   if( (arma_config::optimise_sym) && (auxlib::crippled_lapack(out) == false) && ( is_sym_expr<T1>::eval(expr.get_ref()) || sym_helper::is_approx_sym(out, uword(100)) ) )
+      |                                                                                                 ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_inv_gen_meat.hpp:390:100: error: ‘::eval’ has not been declared
+  390 |   if( (arma_config::optimise_sym) && (auxlib::crippled_lapack(out) == false) && ( is_sym_expr<T1>::eval(expr.get_ref()) || sym_helper::is_approx_sym(out, uword(100)) ) )
+      |                                                                                                    ^~~~
+In file included from /mnt/library/RcppArmadillo/include/armadillo:735:
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_pinv_meat.hpp: In static member function ‘static bool arma::op_pinv::apply_direct(arma::Mat<typename T1::elem_type>&, const arma::Base<typename T1::elem_type, T1>&, typename T1::pod_type, arma::uword)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_pinv_meat.hpp:120:14: error: ‘is_sym_expr’ was not declared in this scope
+  120 |     do_sym = is_sym_expr<T1>::eval(expr.get_ref());
+      |              ^~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_pinv_meat.hpp:120:28: error: expected primary-expression before ‘>’ token
+  120 |     do_sym = is_sym_expr<T1>::eval(expr.get_ref());
+      |                            ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_pinv_meat.hpp:120:31: error: ‘::eval’ has not been declared
+  120 |     do_sym = is_sym_expr<T1>::eval(expr.get_ref());
+      |                               ^~~~
+In file included from /mnt/library/RcppArmadillo/include/armadillo:772:
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_rcond_meat.hpp: In static member function ‘static typename T1::pod_type arma::op_rcond::apply(const arma::Base<typename T1::elem_type, T1>&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_rcond_meat.hpp:92:81: error: ‘is_sym_expr’ was not declared in this scope
+   92 |   if( (arma_config::optimise_sym) && (auxlib::crippled_lapack(A) == false) && ( is_sym_expr<T1>::eval(X.get_ref()) || sym_helper::is_approx_sym(A, uword(100)) ) )
+      |                                                                                 ^~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_rcond_meat.hpp:92:95: error: expected primary-expression before ‘>’ token
+   92 |   if( (arma_config::optimise_sym) && (auxlib::crippled_lapack(A) == false) && ( is_sym_expr<T1>::eval(X.get_ref()) || sym_helper::is_approx_sym(A, uword(100)) ) )
+      |                                                                                               ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_rcond_meat.hpp:92:98: error: ‘::eval’ has not been declared
+   92 |   if( (arma_config::optimise_sym) && (auxlib::crippled_lapack(A) == false) && ( is_sym_expr<T1>::eval(X.get_ref()) || sym_helper::is_approx_sym(A, uword(100)) ) )
+      |                                                                                                  ^~~~
+In file included from /mnt/library/RcppArmadillo/include/armadillo:774:
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_rank_meat.hpp: In static member function ‘static bool arma::op_rank::apply(arma::uword&, const arma::Base<typename T1::elem_type, T1>&, typename T1::pod_type)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_rank_meat.hpp:51:14: error: ‘is_sym_expr’ was not declared in this scope
+   51 |     do_sym = is_sym_expr<T1>::eval(expr.get_ref());
+      |              ^~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_rank_meat.hpp:51:28: error: expected primary-expression before ‘>’ token
+   51 |     do_sym = is_sym_expr<T1>::eval(expr.get_ref());
+      |                            ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/op_rank_meat.hpp:51:31: error: ‘::eval’ has not been declared
+   51 |     do_sym = is_sym_expr<T1>::eval(expr.get_ref());
+      |                               ^~~~
+In file included from /mnt/library/RcppArmadillo/include/armadillo:790:
+/mnt/library/RcppArmadillo/include/armadillo_bits/glue_times_meat.hpp: In static member function ‘static void arma::glue_times_redirect2_helper<true>::apply(arma::Mat<typename T1::elem_type>&, const arma::Glue<T1, T2, arma::glue_times>&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/glue_times_meat.hpp:122:136: error: ‘is_sym_expr’ was not declared in this scope
+  122 |     const bool is_sym = (strip_inv<T1>::do_inv_spd) ? false : ( arma_config::optimise_sym && (auxlib::crippled_lapack(A) == false) && (is_sym_expr<T1>::eval(X.A) || sym_helper::is_approx_sym(A, uword(100))) );
+      |                                                                                                                                        ^~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/glue_times_meat.hpp:122:150: error: expected primary-expression before ‘>’ token
+  122 |     const bool is_sym = (strip_inv<T1>::do_inv_spd) ? false : ( arma_config::optimise_sym && (auxlib::crippled_lapack(A) == false) && (is_sym_expr<T1>::eval(X.A) || sym_helper::is_approx_sym(A, uword(100))) );
+      |                                                                                                                                                      ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/glue_times_meat.hpp:122:153: error: ‘::eval’ has not been declared
+  122 |     const bool is_sym = (strip_inv<T1>::do_inv_spd) ? false : ( arma_config::optimise_sym && (auxlib::crippled_lapack(A) == false) && (is_sym_expr<T1>::eval(X.A) || sym_helper::is_approx_sym(A, uword(100))) );
+      |                                                                                                                                                         ^~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/glue_times_meat.hpp: In static member function ‘static void arma::glue_times_redirect3_helper<true>::apply(arma::Mat<typename T1::elem_type>&, const arma::Glue<arma::Glue<T1, T2, arma::glue_times>, T3, arma::glue_times>&)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/glue_times_meat.hpp:283:136: error: ‘is_sym_expr’ was not declared in this scope
+  283 |     const bool is_sym = (strip_inv<T1>::do_inv_spd) ? false : ( arma_config::optimise_sym && (auxlib::crippled_lapack(A) == false) && (is_sym_expr<T1>::eval(X.A.A) || sym_helper::is_approx_sym(A, uword(100))) );
+      |                                                                                                                                        ^~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/glue_times_meat.hpp:283:150: error: expected primary-expression before ‘>’ token
+  283 |     const bool is_sym = (strip_inv<T1>::do_inv_spd) ? false : ( arma_config::optimise_sym && (auxlib::crippled_lapack(A) == false) && (is_sym_expr<T1>::eval(X.A.A) || sym_helper::is_approx_sym(A, uword(100))) );
+      |                                                                                                                                                      ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/glue_times_meat.hpp:283:153: error: ‘::eval’ has not been declared
+  283 |     const bool is_sym = (strip_inv<T1>::do_inv_spd) ? false : ( arma_config::optimise_sym && (auxlib::crippled_lapack(A) == false) && (is_sym_expr<T1>::eval(X.A.A) || sym_helper::is_approx_sym(A, uword(100))) );
+      |                                                                                                                                                         ^~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/glue_times_meat.hpp:322:136: error: ‘is_sym_expr’ was not declared in this scope
+  322 |     const bool is_sym = (strip_inv<T1>::do_inv_spd) ? false : ( arma_config::optimise_sym && (auxlib::crippled_lapack(B) == false) && (is_sym_expr<T2>::eval(X.A.B) || sym_helper::is_approx_sym(B, uword(100))) );
+      |                                                                                                                                        ^~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/glue_times_meat.hpp:322:150: error: expected primary-expression before ‘>’ token
+  322 |     const bool is_sym = (strip_inv<T1>::do_inv_spd) ? false : ( arma_config::optimise_sym && (auxlib::crippled_lapack(B) == false) && (is_sym_expr<T2>::eval(X.A.B) || sym_helper::is_approx_sym(B, uword(100))) );
+      |                                                                                                                                                      ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/glue_times_meat.hpp:322:153: error: ‘::eval’ has not been declared
+  322 |     const bool is_sym = (strip_inv<T1>::do_inv_spd) ? false : ( arma_config::optimise_sym && (auxlib::crippled_lapack(B) == false) && (is_sym_expr<T2>::eval(X.A.B) || sym_helper::is_approx_sym(B, uword(100))) );
+      |                                                                                                                                                         ^~~~
+In file included from /mnt/library/RcppArmadillo/include/armadillo:799:
+/mnt/library/RcppArmadillo/include/armadillo_bits/glue_solve_meat.hpp: In static member function ‘static bool arma::glue_solve_gen_full::apply(arma::Mat<eT>&, const arma::Base<eT, T1>&, const arma::Base<T, T2>&, arma::uword)’:
+/mnt/library/RcppArmadillo/include/armadillo_bits/glue_solve_meat.hpp:180:185: error: ‘is_sym_expr’ was not declared in this scope
+  180 |     const bool is_sym    = arma_config::optimise_sym && ( (refine || equilibrate || likely_sympd || force_sym || is_band || is_triu || is_tril || auxlib::crippled_lapack(A)) ? false : is_sym_expr<T1>::eval(A_expr.get_ref()) );
+      |                                                                                                                                                                                         ^~~~~~~~~~~
+/mnt/library/RcppArmadillo/include/armadillo_bits/glue_solve_meat.hpp:180:199: error: expected primary-expression before ‘>’ token
+  180 |     const bool is_sym    = arma_config::optimise_sym && ( (refine || equilibrate || likely_sympd || force_sym || is_band || is_triu || is_tril || auxlib::crippled_lapack(A)) ? false : is_sym_expr<T1>::eval(A_expr.get_ref()) );
+      |                                                                                                                                                                                                       ^
+/mnt/library/RcppArmadillo/include/armadillo_bits/glue_solve_meat.hpp:180:202: error: ‘::eval’ has not been declared
+  180 |     const bool is_sym    = arma_config::optimise_sym && ( (refine || equilibrate || likely_sympd || force_sym || is_band || is_triu || is_tril || auxlib::crippled_lapack(A)) ? false : is_sym_expr<T1>::eval(A_expr.get_ref()) );
+      |                                                                                                                                                                                                          ^~~~
+make: *** [/usr/local/lib/R/etc/Makeconf:204: RcppExports.o] Error 1
+ERROR: compilation failed for package ‘graper’
+* removing ‘/mnt/library/graper’
+
+The downloaded source packages are in
+	‘/tmp/Rtmp1n8uyR/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘graper’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	12m53.792s
+user	0m7.781s
+sys	0m3.267s
