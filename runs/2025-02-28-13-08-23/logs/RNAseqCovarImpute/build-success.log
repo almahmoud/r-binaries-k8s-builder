@@ -1,0 +1,137 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'RNAseqCovarImpute'
+also installing the dependencies ‘ScaledMatrix’, ‘DelayedMatrixStats’, ‘BiocSingular’, ‘beachmat’, ‘PCAtools’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ScaledMatrix_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 313867 bytes (306 KB)
+==================================================
+downloaded 306 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedMatrixStats_1.28.1.tar.gz'
+Content type 'application/x-gzip' length 274322 bytes (267 KB)
+==================================================
+downloaded 267 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocSingular_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 617927 bytes (603 KB)
+==================================================
+downloaded 603 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/beachmat_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 378908 bytes (370 KB)
+==================================================
+downloaded 370 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/PCAtools_2.18.0.tar.gz'
+Content type 'application/x-gzip' length 11524243 bytes (11.0 MB)
+==================================================
+downloaded 11.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/RNAseqCovarImpute_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 787792 bytes (769 KB)
+==================================================
+downloaded 769 KB
+
+* installing *source* package ‘ScaledMatrix’ ...
+** package ‘ScaledMatrix’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ScaledMatrix’ as ‘ScaledMatrix_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ScaledMatrix)
+* installing *source* package ‘DelayedMatrixStats’ ...
+** package ‘DelayedMatrixStats’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DelayedMatrixStats’ as ‘DelayedMatrixStats_1.28.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DelayedMatrixStats)
+* installing *source* package ‘beachmat’ ...
+** package ‘beachmat’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++17
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c delayed_isometric_binary.cpp -o delayed_isometric_binary.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c delayed_isometric_math.cpp -o delayed_isometric_math.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c delayed_isometric_unary.cpp -o delayed_isometric_unary.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c delayed_other.cpp -o delayed_other.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c dense_matrix.cpp -o dense_matrix.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c fragment_sparse_rows.cpp -o fragment_sparse_rows.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c sparse_matrix.cpp -o sparse_matrix.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c tatami_utils.cpp -o tatami_utils.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c unknown_matrix.cpp -o unknown_matrix.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o beachmat.so RcppExports.o delayed_isometric_binary.o delayed_isometric_math.o delayed_isometric_unary.o delayed_other.o dense_matrix.o fragment_sparse_rows.o sparse_matrix.o tatami_utils.o unknown_matrix.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-beachmat/00new/beachmat/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]) : 
+  there is no package called ‘IRanges’
+Calls: <Anonymous> ... loadNamespace -> withRestarts -> withOneRestart -> doWithOneRestart
+Execution halted
+ERROR: lazy loading failed for package ‘beachmat’
+* removing ‘/mnt/library/beachmat’
+* installing *source* package ‘RNAseqCovarImpute’ ...
+** package ‘RNAseqCovarImpute’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RNAseqCovarImpute’ as ‘RNAseqCovarImpute_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RNAseqCovarImpute)
+ERROR: dependency ‘beachmat’ is not available for package ‘BiocSingular’
+* removing ‘/mnt/library/BiocSingular’
+ERROR: dependencies ‘BiocSingular’, ‘beachmat’ are not available for package ‘PCAtools’
+* removing ‘/mnt/library/PCAtools’
+
+The downloaded source packages are in
+	‘/tmp/RtmpL2y36Z/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘beachmat’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘BiocSingular’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘PCAtools’ had non-zero exit status
+
+real	5m2.679s
+user	3m49.001s
+sys	0m23.092s

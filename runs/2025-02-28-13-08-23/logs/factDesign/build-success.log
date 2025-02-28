@@ -1,0 +1,83 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'factDesign'
+also installing the dependency ‘affy’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/affy_1.84.0.tar.gz'
+Content type 'application/x-gzip' length 1770606 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/factDesign_1.82.0.tar.gz'
+Content type 'application/x-gzip' length 222955 bytes (217 KB)
+==================================================
+downloaded 217 KB
+
+* installing *source* package ‘affy’ ...
+** package ‘affy’ successfully unpacked and MD5 sums checked
+** using staged installation
+creating cache ./config.cache
+checking how to run the C preprocessor... gcc -E
+checking for main in -lz... yes
+checking for zlib.h... yes
+checking if zlib version >= 1.1.3... yes
+updating cache ./config.cache
+creating ./config.status
+creating src/Makevars
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DHAVE_ZLIB=1  -I'/mnt/library/preprocessCore/include' -I/usr/local/include   -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c chipbackground.c -o chipbackground.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DHAVE_ZLIB=1  -I'/mnt/library/preprocessCore/include' -I/usr/local/include   -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c getall_locations.c -o getall_locations.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DHAVE_ZLIB=1  -I'/mnt/library/preprocessCore/include' -I/usr/local/include   -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c mas5calls.c -o mas5calls.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DHAVE_ZLIB=1  -I'/mnt/library/preprocessCore/include' -I/usr/local/include   -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rma2.c -o rma2.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DHAVE_ZLIB=1  -I'/mnt/library/preprocessCore/include' -I/usr/local/include   -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rma_common.c -o rma_common.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o affy.so chipbackground.o getall_locations.o mas5calls.o rma2.o rma_common.o -lz -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-affy/00new/affy/libs
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘affy’ as ‘affy_1.84.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (affy)
+* installing *source* package ‘factDesign’ ...
+** package ‘factDesign’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘factDesign’ as ‘factDesign_1.82.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (factDesign)
+
+The downloaded source packages are in
+	‘/tmp/RtmpbAtpKW/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m59.045s
+user	0m13.062s
+sys	0m4.072s

@@ -1,0 +1,91 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'metagenomeSeq'
+also installing the dependencies ‘Category’, ‘interactiveDisplay’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Category_2.72.0.tar.gz'
+Content type 'application/x-gzip' length 898436 bytes (877 KB)
+==================================================
+downloaded 877 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/interactiveDisplay_1.44.0.tar.gz'
+Content type 'application/x-gzip' length 4791264 bytes (4.6 MB)
+==================================================
+downloaded 4.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/metagenomeSeq_1.48.1.tar.gz'
+Content type 'application/x-gzip' length 2221628 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+* installing *source* package ‘Category’ ...
+** package ‘Category’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Category’ as ‘Category_2.72.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Category)
+* installing *source* package ‘metagenomeSeq’ ...
+** package ‘metagenomeSeq’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+in method for ‘MRihw’ with signature ‘"fitFeatureModelResults"’: no definition for class “fitFeatureModelResults”
+in method for ‘MRihw’ with signature ‘"fitZigResults"’: no definition for class “fitZigResults”
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘metagenomeSeq’ as ‘metagenomeSeq_1.48.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (metagenomeSeq)
+* installing *source* package ‘interactiveDisplay’ ...
+** package ‘interactiveDisplay’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+in method for ‘display’ with signature ‘object="GRanges"’: no definition for class “GRanges”
+in method for ‘display’ with signature ‘object="GRangesList"’: no definition for class “GRangesList”
+in method for ‘display’ with signature ‘object="RangedSummarizedExperiment"’: no definition for class “RangedSummarizedExperiment”
+in method for ‘display’ with signature ‘object="MRexperiment"’: no definition for class “MRexperiment”
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘interactiveDisplay’ as ‘interactiveDisplay_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (interactiveDisplay)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp1XlSRL/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m46.662s
+user	0m45.526s
+sys	0m7.847s

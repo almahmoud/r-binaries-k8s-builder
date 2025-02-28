@@ -1,0 +1,147 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'NanoTube'
+also installing the dependencies ‘biomaRt’, ‘GenomicFeatures’, ‘EDASeq’, ‘NanoStringDiff’, ‘ruv’, ‘RUVSeq’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/biomaRt_2.62.1.tar.gz'
+Content type 'application/x-gzip' length 865748 bytes (845 KB)
+==================================================
+downloaded 845 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicFeatures_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 571678 bytes (558 KB)
+==================================================
+downloaded 558 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/EDASeq_2.40.0.tar.gz'
+Content type 'application/x-gzip' length 1191585 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/NanoStringDiff_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 429151 bytes (419 KB)
+==================================================
+downloaded 419 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ruv_0.9.7.1.tar.gz'
+Content type 'binary/octet-stream' length 283830 bytes (277 KB)
+==================================================
+downloaded 277 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/RUVSeq_1.40.0.tar.gz'
+Content type 'application/x-gzip' length 513232 bytes (501 KB)
+==================================================
+downloaded 501 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/NanoTube_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 2098118 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+* installing *source* package ‘biomaRt’ ...
+** package ‘biomaRt’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biomaRt’ as ‘biomaRt_2.62.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biomaRt)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-GenomicFeatures’
+* installing *source* package ‘NanoStringDiff’ ...
+** package ‘NanoStringDiff’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c fun5.cpp -o fun5.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o NanoStringDiff.so RcppExports.o fun5.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-NanoStringDiff/00new/NanoStringDiff/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘NanoStringDiff’ as ‘NanoStringDiff_1.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NanoStringDiff)
+* installing *binary* package ‘ruv’ ...
+* ‘ruv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ruv’ as ‘ruv_0.9.7.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ruv)
+* installing *source* package ‘NanoTube’ ...
+** package ‘NanoTube’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘NanoTube’ as ‘NanoTube_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NanoTube)
+* installing *source* package ‘EDASeq’ ...
+** package ‘EDASeq’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+Error: package or namespace load failed for ‘EDASeq’ in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]):
+ there is no package called ‘GenomicFeatures’
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/EDASeq’
+ERROR: dependency ‘EDASeq’ is not available for package ‘RUVSeq’
+* removing ‘/mnt/library/RUVSeq’
+
+The downloaded source packages are in
+	‘/tmp/RtmpcYSlcO/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘GenomicFeatures’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘EDASeq’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘RUVSeq’ had non-zero exit status
+
+real	1m52.890s
+user	0m59.934s
+sys	0m10.634s
