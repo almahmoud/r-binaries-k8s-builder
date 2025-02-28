@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1878 packages built successfully
+- 1881 packages built successfully
 - 3 packages failed to build
-- 228 packages not yet processed
+- 225 packages not yet processed
 
 ## Failed Builds (3)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
@@ -15,7 +15,7 @@
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
-## Successfully Built (1878)
+## Successfully Built (1881)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                      |
@@ -1896,8 +1896,11 @@
 | [DominoEffect](https://bioconductor.org/packages/3.20/bioc/html/DominoEffect.html)                               | Built    | [Log](runs/2025-02-28-13-08-23/logs/DominoEffect/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DominoEffect)                |
 | [svaNUMT](https://bioconductor.org/packages/3.20/bioc/html/svaNUMT.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/svaNUMT/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/svaNUMT)                     |
 | [tidyCoverage](https://bioconductor.org/packages/3.20/bioc/html/tidyCoverage.html)                               | Built    | [Log](runs/2025-02-28-13-08-23/logs/tidyCoverage/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tidyCoverage)                |
+| [tRanslatome](https://bioconductor.org/packages/3.20/bioc/html/tRanslatome.html)                                 | Built    | [Log](runs/2025-02-28-13-08-23/logs/tRanslatome/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tRanslatome)                 |
+| [tenXplore](https://bioconductor.org/packages/3.20/bioc/html/tenXplore.html)                                     | Built    | [Log](runs/2025-02-28-13-08-23/logs/tenXplore/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tenXplore)                   |
+| [tilingArray](https://bioconductor.org/packages/3.20/bioc/html/tilingArray.html)                                 | Built    | [Log](runs/2025-02-28-13-08-23/logs/tilingArray/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tilingArray)                 |
 
-## Not Yet Processed (228)
+## Not Yet Processed (225)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2119,11 +2122,8 @@
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                           | Unprocessed |
 | [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                                       | Unprocessed |
 | [svaRetro](https://bioconductor.org/packages/3.20/bioc/html/svaRetro.html)                                     | Unprocessed |
-| [tRanslatome](https://bioconductor.org/packages/3.20/bioc/html/tRanslatome.html)                               | Unprocessed |
 | [tadar](https://bioconductor.org/packages/3.20/bioc/html/tadar.html)                                           | Unprocessed |
-| [tenXplore](https://bioconductor.org/packages/3.20/bioc/html/tenXplore.html)                                   | Unprocessed |
 | [tidyomics](https://bioconductor.org/packages/3.20/bioc/html/tidyomics.html)                                   | Unprocessed |
-| [tilingArray](https://bioconductor.org/packages/3.20/bioc/html/tilingArray.html)                               | Unprocessed |
 | [trackViewer](https://bioconductor.org/packages/3.20/bioc/html/trackViewer.html)                               | Unprocessed |
 | [uncoverappLib](https://bioconductor.org/packages/3.20/bioc/html/uncoverappLib.html)                           | Unprocessed |
 | [wateRmelon](https://bioconductor.org/packages/3.20/bioc/html/wateRmelon.html)                                 | Unprocessed |
