@@ -1,0 +1,304 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'HubPub'
+also installing the dependencies ‘SparseArray’, ‘S4Arrays’, ‘DelayedArray’, ‘SummarizedExperiment’, ‘biomaRt’, ‘XVector’, ‘GenomicAlignments’, ‘BiocIO’, ‘restfulr’, ‘KEGGREST’, ‘UCSC.utils’, ‘txdbmaker’, ‘clisymbols’, ‘yesno’, ‘aws.signature’, ‘S4Vectors’, ‘IRanges’, ‘GenomicRanges’, ‘AnnotationHub’, ‘GenomicFeatures’, ‘Rsamtools’, ‘rtracklayer’, ‘biocViews’, ‘BiocCheck’, ‘AnnotationDbi’, ‘Biobase’, ‘Biostrings’, ‘GenomeInfoDb’, ‘OrganismDbi’, ‘AnnotationForge’, ‘ExperimentHub’, ‘available’, ‘aws.s3’, ‘AnnotationHubData’, ‘ExperimentHubData’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SparseArray_1.6.2.tar.gz'
+Content type 'application/x-gzip' length 468696 bytes (457 KB)
+==================================================
+downloaded 457 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Arrays_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 288435 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/biomaRt_2.62.1.tar.gz'
+Content type 'application/x-gzip' length 865748 bytes (845 KB)
+==================================================
+downloaded 845 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicAlignments_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 2273284 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocIO_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 232338 bytes (226 KB)
+==================================================
+downloaded 226 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/restfulr_0.0.15.tar.gz'
+Content type 'application/x-tar' length 15118 bytes (14 KB)
+==================================================
+downloaded 14 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/KEGGREST_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 239655 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/UCSC.utils_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 236888 bytes (231 KB)
+==================================================
+downloaded 231 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/txdbmaker_1.2.1.tar.gz'
+Content type 'application/x-gzip' length 1035549 bytes (1011 KB)
+==================================================
+downloaded 1011 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/clisymbols_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 17970 bytes (17 KB)
+==================================================
+downloaded 17 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/yesno_0.1.3.tar.gz'
+Content type 'binary/octet-stream' length 18048 bytes (17 KB)
+==================================================
+downloaded 17 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/aws.signature_0.6.0.tar.gz'
+Content type 'binary/octet-stream' length 78405 bytes (76 KB)
+==================================================
+downloaded 76 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Vectors_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 1076666 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicRanges_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 1374658 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationHub_3.14.0.tar.gz'
+Content type 'application/x-gzip' length 1000948 bytes (977 KB)
+==================================================
+downloaded 977 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicFeatures_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 571678 bytes (558 KB)
+==================================================
+downloaded 558 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Rsamtools_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 2925866 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rtracklayer_1.66.0.tar.gz'
+Content type 'application/x-gzip' length 4112666 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/biocViews_1.74.0.tar.gz'
+Content type 'application/x-gzip' length 521733 bytes (509 KB)
+==================================================
+downloaded 509 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocCheck_1.42.1.tar.gz'
+Content type 'application/x-gzip' length 317206 bytes (309 KB)
+==================================================
+downloaded 309 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationDbi_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 4378038 bytes (4.2 MB)
+==================================================
+downloaded 4.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biobase_2.66.0.tar.gz'
+Content type 'application/x-gzip' length 1978998 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biostrings_2.74.1.tar.gz'
+Content type 'application/x-gzip' length 12823307 bytes (12.2 MB)
+==================================================
+downloaded 12.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/x-gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/OrganismDbi_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 397994 bytes (388 KB)
+==================================================
+downloaded 388 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationForge_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 4036023 bytes (3.8 MB)
+==================================================
+downloaded 3.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ExperimentHub_2.14.0.tar.gz'
+Content type 'application/x-gzip' length 501239 bytes (489 KB)
+==================================================
+downloaded 489 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/available_1.1.0.tar.gz'
+Content type 'binary/octet-stream' length 233356 bytes (227 KB)
+==================================================
+downloaded 227 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/aws.s3_0.3.21.tar.gz'
+Content type 'binary/octet-stream' length 201684 bytes (196 KB)
+==================================================
+downloaded 196 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationHubData_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 412371 bytes (402 KB)
+==================================================
+downloaded 402 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ExperimentHubData_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 228653 bytes (223 KB)
+==================================================
+downloaded 223 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/HubPub_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 1364788 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+* installing *binary* package ‘clisymbols’ ...
+* ‘clisymbols’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘clisymbols’ as ‘clisymbols_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clisymbols)
+* installing *binary* package ‘yesno’ ...
+* ‘yesno’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘yesno’ as ‘yesno_0.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (yesno)
+* installing *binary* package ‘aws.signature’ ...
+* ‘aws.signature’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘aws.signature’ as ‘aws.signature_0.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (aws.signature)
+ERROR: dependency ‘BiocGenerics’ is not available for package ‘S4Vectors’
+* removing ‘/mnt/library/S4Vectors’
+ERROR: dependency ‘BiocGenerics’ is not available for package ‘Biobase’
+* removing ‘/mnt/library/Biobase’
+ERROR: dependencies ‘BiocGenerics’, ‘S4Vectors’ are not available for package ‘BiocIO’
+* removing ‘/mnt/library/BiocIO’
+ERROR: dependency ‘S4Vectors’ is not available for package ‘restfulr’
+* removing ‘/mnt/library/restfulr’
+ERROR: dependency ‘S4Vectors’ is not available for package ‘UCSC.utils’
+* removing ‘/mnt/library/UCSC.utils’
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-IRanges’
+ERROR: dependency ‘Biobase’ is not available for package ‘biocViews’
+* removing ‘/mnt/library/biocViews’
+* installing *binary* package ‘available’ ...
+* ‘available’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘available’ as ‘available_1.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (available)
+* installing *binary* package ‘aws.s3’ ...
+* ‘aws.s3’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘aws.s3’ as ‘aws.s3_0.3.21_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (aws.s3)
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘S4Arrays’
+* removing ‘/mnt/library/S4Arrays’
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-XVector’
+ERROR: dependency ‘biocViews’ is not available for package ‘BiocCheck’
+* removing ‘/mnt/library/BiocCheck’
+Warning in dir.create(lockdir, recursive = TRUE) :
+  '/mnt/library/00LOCK-GenomeInfoDb' already exists
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘UCSC.utils’ are not available for package ‘GenomeInfoDb’
+* removing ‘/mnt/library/GenomeInfoDb’
+* installing *source* package ‘HubPub’ ...
+** package ‘HubPub’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘HubPub’ as ‘HubPub_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HubPub)
+ERROR: dependencies ‘BiocGenerics’, ‘S4Vectors’, ‘S4Arrays’, ‘IRanges’, ‘XVector’ are not available for package ‘SparseArray’
+* removing ‘/mnt/library/SparseArray’
+ERROR: dependencies ‘BiocGenerics’, ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘XVector’ are not available for package ‘GenomicRanges’
+* removing ‘/mnt/library/GenomicRanges’
+ERROR: dependencies ‘BiocGenerics’, ‘S4Vectors’, ‘IRanges’, ‘XVector’, ‘GenomeInfoDb’ are not available for package ‘Biostrings’
+* removing ‘/mnt/library/Biostrings’
+ERROR: dependencies ‘BiocGenerics’, ‘S4Vectors’, ‘IRanges’, ‘S4Arrays’, ‘SparseArray’ are not available for package ‘DelayedArray’
+* removing ‘/mnt/library/DelayedArray’
+ERROR: dependency ‘Biostrings’ is not available for package ‘KEGGREST’
+* removing ‘/mnt/library/KEGGREST’
+ERROR: dependencies ‘GenomeInfoDb’, ‘GenomicRanges’, ‘Biostrings’, ‘BiocGenerics’, ‘S4Vectors’, ‘IRanges’, ‘XVector’ are not available for package ‘Rsamtools’
+* removing ‘/mnt/library/Rsamtools’
+ERROR: dependencies ‘GenomicRanges’, ‘Biobase’, ‘BiocGenerics’, ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘S4Arrays’, ‘DelayedArray’ are not available for package ‘SummarizedExperiment’
+* removing ‘/mnt/library/SummarizedExperiment’
+ERROR: dependencies ‘BiocGenerics’, ‘Biobase’, ‘IRanges’, ‘S4Vectors’, ‘KEGGREST’ are not available for package ‘AnnotationDbi’
+* removing ‘/mnt/library/AnnotationDbi’
+ERROR: dependency ‘AnnotationDbi’ is not available for package ‘biomaRt’
+* removing ‘/mnt/library/biomaRt’
+ERROR: dependencies ‘BiocGenerics’, ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘Biostrings’, ‘Rsamtools’ are not available for package ‘GenomicAlignments’
+* removing ‘/mnt/library/GenomicAlignments’
+ERROR: dependencies ‘BiocGenerics’, ‘AnnotationDbi’, ‘S4Vectors’ are not available for package ‘AnnotationHub’
+* removing ‘/mnt/library/AnnotationHub’
+ERROR: dependencies ‘BiocGenerics’, ‘Biobase’, ‘AnnotationDbi’, ‘S4Vectors’ are not available for package ‘AnnotationForge’
+* removing ‘/mnt/library/AnnotationForge’
+ERROR: dependencies ‘GenomicRanges’, ‘BiocGenerics’, ‘S4Vectors’, ‘IRanges’, ‘XVector’, ‘GenomeInfoDb’, ‘Biostrings’, ‘Rsamtools’, ‘GenomicAlignments’, ‘BiocIO’, ‘restfulr’ are not available for package ‘rtracklayer’
+* removing ‘/mnt/library/rtracklayer’
+ERROR: dependencies ‘BiocGenerics’, ‘AnnotationHub’, ‘S4Vectors’ are not available for package ‘ExperimentHub’
+* removing ‘/mnt/library/ExperimentHub’
+ERROR: dependencies ‘BiocGenerics’, ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘GenomicRanges’, ‘AnnotationDbi’, ‘XVector’, ‘Biostrings’, ‘rtracklayer’ are not available for package ‘GenomicFeatures’
+* removing ‘/mnt/library/GenomicFeatures’
+ERROR: dependencies ‘BiocGenerics’, ‘S4Vectors’, ‘GenomeInfoDb’, ‘GenomicRanges’, ‘GenomicFeatures’, ‘IRanges’, ‘UCSC.utils’, ‘AnnotationDbi’, ‘Biobase’, ‘BiocIO’, ‘rtracklayer’, ‘biomaRt’ are not available for package ‘txdbmaker’
+* removing ‘/mnt/library/txdbmaker’
+ERROR: dependencies ‘BiocGenerics’, ‘AnnotationDbi’, ‘GenomicFeatures’, ‘Biobase’, ‘S4Vectors’, ‘IRanges’, ‘GenomicRanges’, ‘txdbmaker’ are not available for package ‘OrganismDbi’
+* removing ‘/mnt/library/OrganismDbi’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘GenomicRanges’, ‘AnnotationHub’, ‘GenomicFeatures’, ‘Rsamtools’, ‘rtracklayer’, ‘BiocGenerics’, ‘biocViews’, ‘BiocCheck’, ‘AnnotationDbi’, ‘Biobase’, ‘Biostrings’, ‘GenomeInfoDb’, ‘OrganismDbi’, ‘AnnotationForge’ are not available for package ‘AnnotationHubData’
+* removing ‘/mnt/library/AnnotationHubData’
+ERROR: dependencies ‘BiocGenerics’, ‘S4Vectors’, ‘AnnotationHubData’, ‘ExperimentHub’ are not available for package ‘ExperimentHubData’
+* removing ‘/mnt/library/ExperimentHubData’
+
+The downloaded source packages are in
+	‘/tmp/RtmpAILB35/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+There were 30 warnings (use warnings() to see them)
+
+real	5m45.420s
+user	0m18.513s
+sys	0m10.874s

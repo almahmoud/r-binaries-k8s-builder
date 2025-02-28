@@ -1,0 +1,103 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'DeepPINCS'
+also installing the dependencies ‘rcdklibs’, ‘fingerprint’, ‘CatEncoders’, ‘matlab’, ‘rcdk’, ‘webchem’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rcdklibs_2.9.tar.gz'
+Content type 'binary/octet-stream' length 19456084 bytes (18.6 MB)
+==================================================
+downloaded 18.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fingerprint_3.5.7.tar.gz'
+Content type 'binary/octet-stream' length 239442 bytes (233 KB)
+==================================================
+downloaded 233 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/CatEncoders_0.1.1.tar.gz'
+Content type 'binary/octet-stream' length 37346 bytes (36 KB)
+==================================================
+downloaded 36 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/matlab_1.0.4.1.tar.gz'
+Content type 'binary/octet-stream' length 174101 bytes (170 KB)
+==================================================
+downloaded 170 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rcdk_3.8.1.tar.gz'
+Content type 'binary/octet-stream' length 548353 bytes (535 KB)
+==================================================
+downloaded 535 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/webchem_1.3.0.tar.gz'
+Content type 'binary/octet-stream' length 365611 bytes (357 KB)
+==================================================
+downloaded 357 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DeepPINCS_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 2558127 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+* installing *binary* package ‘rcdklibs’ ...
+* ‘rcdklibs’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rcdklibs’ as ‘rcdklibs_2.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rcdklibs)
+* installing *binary* package ‘fingerprint’ ...
+* ‘fingerprint’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fingerprint’ as ‘fingerprint_3.5.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fingerprint)
+* installing *binary* package ‘CatEncoders’ ...
+* ‘CatEncoders’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘CatEncoders’ as ‘CatEncoders_0.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CatEncoders)
+* installing *binary* package ‘matlab’ ...
+* ‘matlab’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘matlab’ as ‘matlab_1.0.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (matlab)
+* installing *binary* package ‘webchem’ ...
+* ‘webchem’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘webchem’ as ‘webchem_1.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (webchem)
+* installing *binary* package ‘rcdk’ ...
+* ‘rcdk’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rcdk’ as ‘rcdk_3.8.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rcdk)
+* installing *source* package ‘DeepPINCS’ ...
+** package ‘DeepPINCS’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DeepPINCS’ as ‘DeepPINCS_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DeepPINCS)
+
+The downloaded source packages are in
+	‘/tmp/RtmpoC0daD/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m5.431s
+user	0m19.356s
+sys	0m5.976s

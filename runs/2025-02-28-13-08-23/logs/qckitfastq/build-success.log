@@ -1,0 +1,157 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'qckitfastq'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/qckitfastq_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 1005931 bytes (982 KB)
+==================================================
+downloaded 982 KB
+
+* installing *source* package ‘qckitfastq’ ...
+** package ‘qckitfastq’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++14
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RSeqAn/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RSeqAn/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c calc_adapter_content.cpp -o calc_adapter_content.o
+In file included from /mnt/library/RSeqAn/include/seqan/modifier.h:74,
+                 from /mnt/library/RSeqAn/include/seqan/find.h:44,
+                 from calc_adapter_content.cpp:7:
+/mnt/library/RSeqAn/include/seqan/modifier/modifier_functors.h:79:36: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+   79 | struct FunctorUpcase : public std::unary_function<InType, Result>
+      |                                    ^~~~~~~~~~~~~~
+In file included from /usr/include/c++/13/string:49,
+                 from /usr/include/c++/13/bits/locale_classes.h:40,
+                 from /usr/include/c++/13/bits/ios_base.h:41,
+                 from /usr/include/c++/13/ios:44,
+                 from /usr/include/c++/13/ostream:40,
+                 from /usr/include/c++/13/iostream:41,
+                 from calc_adapter_content.cpp:1:
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/mnt/library/RSeqAn/include/seqan/modifier/modifier_functors.h:113:37: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  113 | struct FunctorLowcase : public std::unary_function<InType, Result>
+      |                                     ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/mnt/library/RSeqAn/include/seqan/modifier/modifier_functors.h:147:37: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  147 | struct FunctorConvert : public std::unary_function<InType,OutType>
+      |                                     ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/mnt/library/RSeqAn/include/seqan/modifier/modifier_functors.h:219:46: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  219 | struct FunctorComplement<char> : public std::unary_function<Dna5,Dna5>
+      |                                              ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/mnt/library/RSeqAn/include/seqan/modifier/modifier_functors.h:228:45: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  228 | struct FunctorComplement<Dna> : public std::unary_function<Dna,Dna>
+      |                                             ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/mnt/library/RSeqAn/include/seqan/modifier/modifier_functors.h:237:46: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  237 | struct FunctorComplement<Dna5> : public std::unary_function<Dna5,Dna5>
+      |                                              ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/mnt/library/RSeqAn/include/seqan/modifier/modifier_functors.h:246:45: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  246 | struct FunctorComplement<Rna> : public std::unary_function<Rna,Rna>
+      |                                             ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/mnt/library/RSeqAn/include/seqan/modifier/modifier_functors.h:255:46: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  255 | struct FunctorComplement<Rna5> : public std::unary_function<Rna5,Rna5>
+      |                                              ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/mnt/library/RSeqAn/include/seqan/modifier/modifier_functors.h:264:46: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  264 | struct FunctorComplement<DnaQ> : public std::unary_function<DnaQ,DnaQ>
+      |                                              ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/mnt/library/RSeqAn/include/seqan/modifier/modifier_functors.h:276:47: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  276 | struct FunctorComplement<Dna5Q> : public std::unary_function<Dna5Q,Dna5Q>
+      |                                               ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/mnt/library/RSeqAn/include/seqan/modifier/modifier_functors.h:287:47: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  287 | struct FunctorComplement<Iupac> : public std::unary_function<Iupac,Iupac>
+      |                                               ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+In file included from /mnt/library/RSeqAn/include/seqan/modifier.h:79:
+/mnt/library/RSeqAn/include/seqan/modifier/modifier_position.h:393:31: warning: ‘template<class _Arg1, class _Arg2, class _Result> struct std::binary_function’ is deprecated [-Wdeprecated-declarations]
+  393 | struct PosLess_ : public std::binary_function<TPos, TPos, bool>
+      |                               ^~~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:131:12: note: declared here
+  131 |     struct binary_function
+      |            ^~~~~~~~~~~~~~~
+In file included from /mnt/library/RSeqAn/include/seqan/file.h:101,
+                 from /mnt/library/RSeqAn/include/seqan/stream.h:62,
+                 from /mnt/library/RSeqAn/include/seqan/score.h:43,
+                 from /mnt/library/RSeqAn/include/seqan/find.h:45:
+/mnt/library/RSeqAn/include/seqan/file/string_external.h:1338:41: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+ 1338 |         struct testIODone : public std::unary_function<TPageFrame&,bool>
+      |                                         ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+In file included from /mnt/library/RSeqAn/include/seqan/graph_algorithms.h:48,
+                 from /mnt/library/RSeqAn/include/seqan/find.h:47:
+/mnt/library/RSeqAn/include/seqan/graph_algorithms/graph_algorithm_heap_tree.h:325:17: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  325 |     public std::unary_function<Pair<TKey, TValue>, bool>
+      |                 ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+In file included from /mnt/library/RSeqAn/include/seqan/graph_algorithms.h:62:
+/mnt/library/RSeqAn/include/seqan/graph_algorithms/kruskal.h:63:34: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+   63 | struct LessPairI1_ : public std::unary_function<Pair<TWeight, TPair>, bool>
+      |                                  ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RSeqAn/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c gzstream.cpp -o gzstream.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RSeqAn/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c read_fastq.cpp -o read_fastq.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o qckitfastq.so RcppExports.o calc_adapter_content.o gzstream.o read_fastq.o -lz -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-qckitfastq/00new/qckitfastq/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘qckitfastq’ as ‘qckitfastq_1.22.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qckitfastq)
+
+The downloaded source packages are in
+	‘/tmp/RtmpzouwBN/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m31.865s
+user	0m17.141s
+sys	0m4.522s

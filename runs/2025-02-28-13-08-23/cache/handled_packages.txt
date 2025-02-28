@@ -12,6 +12,8 @@ AnVILAz
 AnVILBase
 AnVILBilling
 AnVILGCP
+AnVILPublish
+AnVILWorkflow
 BADER
 BEclear
 BG2
@@ -21,6 +23,7 @@ BiRewire
 BioCartaImage
 BiocBaseUtils
 BiocFileCache
+BiocNeighbors
 BiocParallel
 BiocStyle
 BiocVersion
@@ -43,6 +46,7 @@ ComPrAn
 CytoGLMM
 DART
 DCATS
+DEGseq
 DEqMS
 DEsingle
 DNABarcodeCompatibility
@@ -50,13 +54,17 @@ DNABarcodes
 DNAcopy
 DTA
 DeMAND
+DeepPINCS
 DepInfeR
+DepecheR
 DiffLogo
 Director
 DriverNet
 DynDoc
 EBSeq
+EMDomics
 EmpiricalBrownsMethod
+EnMCB
 EnhancedVolcano
 EpiDISH
 FGNet
@@ -96,6 +104,7 @@ Herper
 HilbertVis
 HilbertVisGUI
 HuBMAPR
+HubPub
 IMPCdata
 INDEED
 INPower
@@ -106,6 +115,7 @@ Icens
 Informeasure
 IntramiRExploreR
 IsoCorrectoR
+IsoCorrectoRGUI
 KBoost
 KinSwingR
 LBE
@@ -117,8 +127,10 @@ M3C
 MACSQuantifyR
 MANOR
 MBAmethyl
+MBCB
 MBttest
 MPFE
+MSstats
 MSstatsConvert
 MSstatsLOBD
 MVCClass
@@ -128,12 +140,14 @@ MassSpecWavelet
 MatrixGenerics
 MeasurementError.cor
 Mergeomics
+MethylMix
 ModCon
 MultiMed
 NPARC
 NTW
 NetPathMiner
 NuPoP
+OLIN
 OPWeight
 OSAT
 Omixer
@@ -152,6 +166,7 @@ ProtGenerics
 QUBIC
 QuaternaryProd
 RAREsim
+RBM
 RCASPAR
 RCX
 RDRToolbox
@@ -173,6 +188,7 @@ Rdisop
 RedeR
 RedisParam
 Rhdf5lib
+Rhtslib
 Rsubread
 SANTA
 SBMLR
@@ -204,18 +220,25 @@ a4Reporting
 abseqR
 acde
 affxparser
+affyio
 agilp
 alabaster.schemas
+alevinQC
 antiProfiles
 aroma.light
+arrayQuality
 assorthead
 bacon
 banocc
+basilisk
 basilisk.utils
 biobtreeR
 biocroxytest
 biocthis
 biodb
+biodbChebi
+biodbNcbi
+biodbUniprot
 brendaDb
 bugsigdbr
 calm
@@ -228,6 +251,7 @@ chopsticks
 cisPath
 clevRvis
 clst
+clstutils
 clustComp
 coGPS
 compSPOT
@@ -235,6 +259,7 @@ consensus
 cqn
 ctc
 ctsGE
+cytolib
 daMA
 dcGSA
 dcanr
@@ -250,6 +275,7 @@ dks
 drawProteins
 dupRadar
 easyreporting
+edgeR
 eds
 epistasisGA
 epivizrServer
@@ -275,6 +301,7 @@ genoCN
 genomes
 geva
 ggkegg
+ggtree
 globalSeq
 gpls
 granulator
@@ -320,6 +347,7 @@ metaCCA
 metabinR
 metahdep
 metapod
+metapone
 mgsa
 miRBaseConverter
 miRNApath
@@ -333,6 +361,7 @@ multiClust
 mzID
 ndexr
 netprioR
+nnNorm
 nuCpos
 occugene
 omada
@@ -355,6 +384,7 @@ pmm
 powerTCR
 preprocessCore
 proteinProfiles
+qckitfastq
 quantsmooth
 qvalue
 rBiopaxParser
@@ -364,6 +394,7 @@ rawDiag
 rawrr
 retrofit
 rgoslin
+rhdf5
 rhdf5filters
 rmelting
 rnaseqcomp
@@ -418,5 +449,6 @@ vbmp
 veloviz
 weaver
 widgetTools
+wppi
 xmapbridge
 zlibbioc

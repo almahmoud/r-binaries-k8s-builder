@@ -1,0 +1,41 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'metapone'
+also installing the dependency ‘BiocParallel’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocParallel_1.40.0.tar.gz'
+Content type 'application/x-gzip' length 1000414 bytes (976 KB)
+==================================================
+downloaded 976 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/metapone_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 3924902 bytes (3.7 MB)
+==================================================
+downloaded 3.7 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-BiocParallel’
+ERROR: dependency ‘BiocParallel’ is not available for package ‘metapone’
+* removing ‘/mnt/library/metapone’
+
+The downloaded source packages are in
+	‘/tmp/RtmpEyoPnS/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘BiocParallel’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘metapone’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m16.170s
+user	0m5.135s
+sys	0m2.239s

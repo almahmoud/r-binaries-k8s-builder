@@ -1,0 +1,61 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'OLIN'
+also installing the dependencies ‘Biobase’, ‘convert’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biobase_2.66.0.tar.gz'
+Content type 'application/x-gzip' length 1978998 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/convert_1.82.0.tar.gz'
+Content type 'application/x-gzip' length 140445 bytes (137 KB)
+==================================================
+downloaded 137 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/OLIN_1.84.0.tar.gz'
+Content type 'application/x-gzip' length 2680241 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-Biobase’
+* installing *source* package ‘OLIN’ ...
+** package ‘OLIN’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘OLIN’ as ‘OLIN_1.84.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (OLIN)
+ERROR: dependency ‘Biobase’ is not available for package ‘convert’
+* removing ‘/mnt/library/convert’
+
+The downloaded source packages are in
+	‘/tmp/RtmpOLYcvf/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘Biobase’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘convert’ had non-zero exit status
+
+real	0m41.049s
+user	0m8.483s
+sys	0m3.514s
