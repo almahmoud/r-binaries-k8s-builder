@@ -1,0 +1,43 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'kmcut'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/kmcut_1.0.0.tar.gz'
+Content type 'application/x-gzip' length 1224430 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+* installing *source* package ‘kmcut’ ...
+** package ‘kmcut’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘kmcut’ as ‘kmcut_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kmcut)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpe0zPUK/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Error in gzfile(file, "rb") : cannot open the connection
+In addition: Warning message:
+In gzfile(file, "rb") :
+  cannot open compressed file '/mnt/library/apeglm/Meta/package.rds', probable reason 'No such file or directory'
+
+real	51m22.742s
+user	0m27.711s
+sys	0m6.579s

@@ -1,0 +1,92 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'MicrobiotaProcess'
+also installing the dependencies ‘coin’, ‘ggupset’, ‘ggVennDiagram’, ‘ggpp’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/coin_1.4-3.tar.gz'
+Content type 'binary/octet-stream' length 1474435 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggupset_0.4.1.tar.gz'
+Content type 'binary/octet-stream' length 2585009 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggVennDiagram_1.5.2.tar.gz'
+Content type 'binary/octet-stream' length 5270610 bytes (5.0 MB)
+==================================================
+downloaded 5.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggpp_0.5.8-1.tar.gz'
+Content type 'binary/octet-stream' length 1877761 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MicrobiotaProcess_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 5026965 bytes (4.8 MB)
+==================================================
+downloaded 4.8 MB
+
+* installing *binary* package ‘coin’ ...
+* ‘coin’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘coin’ as ‘coin_1.4-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (coin)
+* installing *binary* package ‘ggupset’ ...
+* ‘ggupset’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggupset’ as ‘ggupset_0.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggupset)
+* installing *binary* package ‘ggVennDiagram’ ...
+* ‘ggVennDiagram’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggVennDiagram’ as ‘ggVennDiagram_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggVennDiagram)
+* installing *binary* package ‘ggpp’ ...
+* ‘ggpp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggpp’ as ‘ggpp_0.5.8-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggpp)
+* installing *source* package ‘MicrobiotaProcess’ ...
+** package ‘MicrobiotaProcess’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+in method for ‘taxonomy<-’ with signature ‘x="MPSE",value="taxonomyTable"’: no definition for class “taxonomyTable”
+Creating a generic function for ‘rownames<-’ from package ‘base’ in package ‘MicrobiotaProcess’
+in method for ‘get_alltaxadf’ with signature ‘"phyloseq"’: no definition for class “phyloseq”
+in method for ‘get_taxadf’ with signature ‘"phyloseq"’: no definition for class “phyloseq”
+in method for ‘get_alphaindex’ with signature ‘"phyloseq"’: no definition for class “phyloseq”
+in method for ‘get_NRI_NTI’ with signature ‘"phyloseq"’: no definition for class “phyloseq”
+in method for ‘get_rarecurve’ with signature ‘"phyloseq"’: no definition for class “phyloseq”
+in method for ‘get_upset’ with signature ‘"phyloseq"’: no definition for class “phyloseq”
+in method for ‘get_vennlist’ with signature ‘"phyloseq"’: no definition for class “phyloseq”
+in method for ‘drop_taxa’ with signature ‘"phyloseq"’: no definition for class “phyloseq”
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MicrobiotaProcess’ as ‘MicrobiotaProcess_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MicrobiotaProcess)
+
+The downloaded source packages are in
+	‘/tmp/RtmpQOCaTD/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	53m40.273s
+user	0m59.183s
+sys	0m7.506s

@@ -1,0 +1,70 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'lefser'
+also installing the dependencies ‘mia’, ‘curatedMetagenomicData’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/mia_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 3130972 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/curatedMetagenomicData_3.14.0.tar.gz'
+Content type 'application/x-gzip' length 1941420 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/lefser_1.16.2.tar.gz'
+Content type 'application/x-gzip' length 615681 bytes (601 KB)
+==================================================
+downloaded 601 KB
+
+* installing *source* package ‘mia’ ...
+** package ‘mia’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package ‘SingleCellExperiment’ required by ‘mia’ could not be found
+Execution halted
+ERROR: lazy loading failed for package ‘mia’
+* removing ‘/mnt/library/mia’
+* installing *source* package ‘lefser’ ...
+** package ‘lefser’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘lefser’ as ‘lefser_1.16.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lefser)
+ERROR: dependency ‘mia’ is not available for package ‘curatedMetagenomicData’
+* removing ‘/mnt/library/curatedMetagenomicData’
+
+The downloaded source packages are in
+	‘/tmp/RtmpjeB8vT/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘mia’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘curatedMetagenomicData’ had non-zero exit status
+
+real	51m21.357s
+user	0m37.406s
+sys	0m8.019s

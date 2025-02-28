@@ -1,0 +1,75 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'gscreend'
+also installing the dependencies ‘gbutils’, ‘cvar’, ‘fGarch’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gbutils_0.5.tar.gz'
+Content type 'binary/octet-stream' length 255972 bytes (249 KB)
+==================================================
+downloaded 249 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/cvar_0.5.tar.gz'
+Content type 'binary/octet-stream' length 257861 bytes (251 KB)
+==================================================
+downloaded 251 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fGarch_4033.92.tar.gz'
+Content type 'binary/octet-stream' length 683119 bytes (667 KB)
+==================================================
+downloaded 667 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/gscreend_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 3338505 bytes (3.2 MB)
+==================================================
+downloaded 3.2 MB
+
+* installing *binary* package ‘gbutils’ ...
+* ‘gbutils’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gbutils’ as ‘gbutils_0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gbutils)
+* installing *binary* package ‘cvar’ ...
+* ‘cvar’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘cvar’ as ‘cvar_0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cvar)
+* installing *binary* package ‘fGarch’ ...
+* ‘fGarch’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fGarch’ as ‘fGarch_4033.92_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fGarch)
+* installing *source* package ‘gscreend’ ...
+** package ‘gscreend’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gscreend’ as ‘gscreend_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gscreend)
+
+The downloaded source packages are in
+	‘/tmp/RtmpL8Hlr9/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Error in gzfile(file, "rb") : cannot open the connection
+In addition: Warning message:
+In gzfile(file, "rb") :
+  cannot open compressed file '/mnt/library/apeglm/Meta/package.rds', probable reason 'No such file or directory'
+
+real	51m37.843s
+user	0m29.787s
+sys	0m7.282s

@@ -1,0 +1,87 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'hummingbird'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/hummingbird_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 483110 bytes (471 KB)
+==================================================
+downloaded 471 KB
+
+* installing *source* package ‘hummingbird’ ...
+** package ‘hummingbird’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c em.cpp -o em.o
+em.cpp: In function ‘SEXPREC* hummingbirdEMinternal(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+em.cpp:30:28: error: ‘asReal’ was not declared in this scope
+   30 |                 bin_size = asReal(binSize);
+      |                            ^~~~~~
+em.cpp:36:31: error: ‘getAttrib’ was not declared in this scope; did you mean ‘Rf_getAttrib’?
+   36 |         SEXP S_dim_matrices = getAttrib(normM, R_DimSymbol);
+      |                               ^~~~~~~~~
+      |                               Rf_getAttrib
+em.cpp:146:33: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+  146 |                                 error("Error allocating memory.\n");
+      |                                 ^~~~~
+      |                                 perror
+em.cpp:151:33: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+  151 |                                 error("Error allocating memory.\n");
+      |                                 ^~~~~
+      |                                 perror
+em.cpp:156:33: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+  156 |                                 error("Error allocating memory.\n");
+      |                                 ^~~~~
+      |                                 perror
+em.cpp:161:33: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+  161 |                                 error("Error allocating memory.\n");
+      |                                 ^~~~~
+      |                                 perror
+em.cpp:166:33: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+  166 |                                 error("Error allocating memory.\n");
+      |                                 ^~~~~
+      |                                 perror
+em.cpp:171:33: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+  171 |                                 error("Error allocating memory.\n");
+      |                                 ^~~~~
+      |                                 perror
+In file included from utils.h:2,
+                 from em.cpp:1:
+em.cpp:799:29: error: ‘allocMatrix’ was not declared in this scope; did you mean ‘Rf_allocMatrix’?
+  799 |         SEXP S_em = PROTECT(allocMatrix(INTSXP, full_bins, 4));
+      |                             ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+em.cpp:815:30: error: ‘mkNamed’ was not declared in this scope; did you mean ‘Rf_mkNamed’?
+  815 |         SEXP S_res = PROTECT(mkNamed(VECSXP, names));
+      |                              ^~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+make: *** [/usr/local/lib/R/etc/Makeconf:204: em.o] Error 1
+ERROR: compilation failed for package ‘hummingbird’
+* removing ‘/mnt/library/hummingbird’
+
+The downloaded source packages are in
+	‘/tmp/RtmpK60OS7/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Error in gzfile(file, "rb") : cannot open the connection
+In addition: Warning messages:
+1: In install.packages(...) :
+  installation of package ‘hummingbird’ had non-zero exit status
+2: In gzfile(file, "rb") :
+  cannot open compressed file '/mnt/library/apeglm/Meta/package.rds', probable reason 'No such file or directory'
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	51m32.995s
+user	0m13.470s
+sys	0m4.381s
