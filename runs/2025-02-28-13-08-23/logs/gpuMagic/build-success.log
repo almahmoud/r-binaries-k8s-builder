@@ -1,0 +1,240 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'gpuMagic'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/gpuMagic_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 757626 bytes (739 KB)
+==================================================
+downloaded 739 KB
+
+* installing *source* package ‘gpuMagic’ ...
+** package ‘gpuMagic’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/lib/R/include -I../inst/include/OpenCL_header -DCL_TARGET_OPENCL_VERSION=220 -DCL_USE_DEPRECATED_OPENCL_1_2_APIS  -DCL_SILENCE_DEPRECATION -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c C_Interface.cpp -o C_Interface.o
+C_Interface.cpp: In function ‘SEXPREC* getPlatformNum()’:
+C_Interface.cpp:16:28: error: ‘ScalarInteger’ was not declared in this scope; did you mean ‘Rf_ScalarInteger’?
+   16 |         SEXP platformNum = ScalarInteger(kernelManager::getPlatformNum());
+      |                            ^~~~~~~~~~~~~
+      |                            Rf_ScalarInteger
+C_Interface.cpp: In function ‘SEXPREC* getDeviceNum(SEXP)’:
+C_Interface.cpp:22:68: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+   22 |         SEXP deviceNum = ScalarInteger(kernelManager::getDeviceNum(asInteger(platform)));
+      |                                                                    ^~~~~~~~~
+      |                                                                    Rf_asInteger
+C_Interface.cpp:22:26: error: ‘ScalarInteger’ was not declared in this scope; did you mean ‘Rf_ScalarInteger’?
+   22 |         SEXP deviceNum = ScalarInteger(kernelManager::getDeviceNum(asInteger(platform)));
+      |                          ^~~~~~~~~~~~~
+      |                          Rf_ScalarInteger
+C_Interface.cpp: In function ‘SEXPREC* getDeviceInfo(SEXP, SEXP)’:
+C_Interface.cpp:28:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+   28 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+In file included from C_Interface.h:4,
+                 from C_Interface.cpp:10:
+C_Interface.cpp:30:31: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+   30 |         SEXP info_R = PROTECT(allocVector(VECSXP, 8));
+      |                               ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+C_Interface.cpp:32:43: error: ‘mkString’ was not declared in this scope; did you mean ‘asString’?
+   32 |         SET_VECTOR_ELT(info_R, 0, PROTECT(mkString(info.device_name.c_str())));
+      |                                           ^~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+C_Interface.cpp:33:43: error: ‘ScalarInteger’ was not declared in this scope; did you mean ‘Rf_ScalarInteger’?
+   33 |         SET_VECTOR_ELT(info_R, 1, PROTECT(ScalarInteger(info.device_type)));
+      |                                           ^~~~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+C_Interface.cpp:34:43: error: ‘ScalarReal’ was not declared in this scope; did you mean ‘Rf_ScalarReal’?
+   34 |         SET_VECTOR_ELT(info_R, 2, PROTECT(ScalarReal(info.global_memory)));
+      |                                           ^~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+C_Interface.cpp:36:43: error: ‘ScalarLogical’ was not declared in this scope; did you mean ‘Rf_ScalarLogical’?
+   36 |         SET_VECTOR_ELT(info_R, 4, PROTECT(ScalarLogical(info.has_local_memory)));
+      |                                           ^~~~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+C_Interface.cpp:41:9: error: ‘unprotect’ was not declared in this scope; did you mean ‘Rf_unprotect’?
+   41 |         unprotect(9);
+      |         ^~~~~~~~~
+      |         Rf_unprotect
+C_Interface.cpp: In function ‘SEXPREC* upload(SEXP, SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:48:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+   48 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:50:29: error: ‘asReal’ was not declared in this scope
+   50 |         size_t dataLength = asReal(length);
+      |                             ^~~~~~
+C_Interface.cpp:84:17: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+   84 |                 error("Unsupported data structure!");
+      |                 ^~~~~
+      |                 perror
+C_Interface.cpp: In function ‘SEXPREC* gpuMalloc(SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:96:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+   96 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:97:47: error: ‘asReal’ was not declared in this scope
+   97 |         openArray* matrix = new openArray(id, asReal(length), (dtype)asInteger(type));
+      |                                               ^~~~~~
+C_Interface.cpp: In function ‘SEXPREC* download(SEXP)’:
+C_Interface.cpp:121:31: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  121 |                 res = PROTECT(allocVector(REALSXP, length));
+      |                               ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+C_Interface.cpp: In function ‘SEXPREC* hasKernel(SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:156:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  156 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:12:33: error: ‘asChar’ was not declared in this scope
+   12 | #define asString(x) string(CHAR(asChar(x)))
+      |                                 ^~~~~~
+/usr/local/lib/R/include/Rinternals.h:200:24: note: in definition of macro ‘CHAR’
+  200 | #define CHAR(x) R_CHAR(x)
+      |                        ^
+C_Interface.cpp:157:34: note: in expansion of macro ‘asString’
+  157 |         programSignature sig = { asString(signature) ,string(),string(),asString(kernel) };
+      |                                  ^~~~~~~~
+C_Interface.cpp:158:20: error: ‘ScalarLogical’ was not declared in this scope; did you mean ‘Rf_ScalarLogical’?
+  158 |         SEXP res = ScalarLogical(kernelManager::hasKernel(id, sig));
+      |                    ^~~~~~~~~~~~~
+      |                    Rf_ScalarLogical
+C_Interface.cpp: In function ‘SEXPREC* createKernel(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:166:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  166 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:12:33: error: ‘asChar’ was not declared in this scope
+   12 | #define asString(x) string(CHAR(asChar(x)))
+      |                                 ^~~~~~
+/usr/local/lib/R/include/Rinternals.h:200:24: note: in definition of macro ‘CHAR’
+  200 | #define CHAR(x) R_CHAR(x)
+      |                        ^
+C_Interface.cpp:167:34: note: in expansion of macro ‘asString’
+  167 |         programSignature sig = { asString(signature) ,asString(flag),asString(code),asString(kernel) };
+      |                                  ^~~~~~~~
+C_Interface.cpp: In function ‘SEXPREC* setParameter(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:178:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  178 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:12:33: error: ‘asChar’ was not declared in this scope
+   12 | #define asString(x) string(CHAR(asChar(x)))
+      |                                 ^~~~~~
+/usr/local/lib/R/include/Rinternals.h:200:24: note: in definition of macro ‘CHAR’
+  200 | #define CHAR(x) R_CHAR(x)
+      |                        ^
+C_Interface.cpp:179:34: note: in expansion of macro ‘asString’
+  179 |         programSignature sig = { asString(signature),string(),string(),asString(kernel) };
+      |                                  ^~~~~~~~
+C_Interface.cpp: In function ‘SEXPREC* setSharedParameter(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:190:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  190 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:12:33: error: ‘asChar’ was not declared in this scope
+   12 | #define asString(x) string(CHAR(asChar(x)))
+      |                                 ^~~~~~
+/usr/local/lib/R/include/Rinternals.h:200:24: note: in definition of macro ‘CHAR’
+  200 | #define CHAR(x) R_CHAR(x)
+      |                        ^
+C_Interface.cpp:191:34: note: in expansion of macro ‘asString’
+  191 |         programSignature sig = { asString(signature),string(),string(),asString(kernel) };
+      |                                  ^~~~~~~~
+C_Interface.cpp: In function ‘SEXPREC* launchKernel(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:203:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  203 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:12:33: error: ‘asChar’ was not declared in this scope
+   12 | #define asString(x) string(CHAR(asChar(x)))
+      |                                 ^~~~~~
+/usr/local/lib/R/include/Rinternals.h:200:24: note: in definition of macro ‘CHAR’
+  200 | #define CHAR(x) R_CHAR(x)
+      |                        ^
+C_Interface.cpp:205:34: note: in expansion of macro ‘asString’
+  205 |         programSignature sig = { asString(signature),string(),string(),asString(kernel) };
+      |                                  ^~~~~~~~
+C_Interface.cpp: In function ‘SEXPREC* getPreferredGroupSize(SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:230:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  230 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:12:33: error: ‘asChar’ was not declared in this scope
+   12 | #define asString(x) string(CHAR(asChar(x)))
+      |                                 ^~~~~~
+/usr/local/lib/R/include/Rinternals.h:200:24: note: in definition of macro ‘CHAR’
+  200 | #define CHAR(x) R_CHAR(x)
+      |                        ^
+C_Interface.cpp:231:34: note: in expansion of macro ‘asString’
+  231 |         programSignature sig = { asString(signature),string(),string(),asString(kernel) };
+      |                                  ^~~~~~~~
+C_Interface.cpp:239:20: error: ‘ScalarInteger’ was not declared in this scope; did you mean ‘Rf_ScalarInteger’?
+  239 |         SEXP res = ScalarInteger(prefferedSize);
+      |                    ^~~~~~~~~~~~~
+      |                    Rf_ScalarInteger
+C_Interface.cpp: In function ‘SEXPREC* getDeviceStatus(SEXP, SEXP)’:
+C_Interface.cpp:246:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  246 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:252:24: error: ‘ScalarInteger’ was not declared in this scope; did you mean ‘Rf_ScalarInteger’?
+  252 |                 return(ScalarInteger(status));
+      |                        ^~~~~~~~~~~~~
+      |                        Rf_ScalarInteger
+C_Interface.cpp:272:16: error: ‘ScalarInteger’ was not declared in this scope; did you mean ‘Rf_ScalarInteger’?
+  272 |         return(ScalarInteger(status));
+      |                ^~~~~~~~~~~~~
+      |                Rf_ScalarInteger
+C_Interface.cpp: In function ‘SEXPREC* getTrueAd(SEXP)’:
+C_Interface.cpp:281:16: error: ‘ScalarReal’ was not declared in this scope; did you mean ‘Rf_ScalarReal’?
+  281 |         return(ScalarReal(ad_double));
+      |                ^~~~~~~~~~
+      |                Rf_ScalarReal
+C_Interface.cpp: In function ‘SEXPREC* asMatrix(SEXP, SEXP)’:
+C_Interface.cpp:286:9: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+  286 |         setAttrib(data, R_DimSymbol, dim);
+      |         ^~~~~~~~~
+      |         Rf_setAttrib
+C_Interface.cpp: In function ‘SEXPREC* getDeviceFullInfo(SEXP, SEXP)’:
+C_Interface.cpp:292:27: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  292 |   deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                           ^~~~~~~~~
+      |                           Rf_asInteger
+make: *** [/usr/local/lib/R/etc/Makeconf:204: C_Interface.o] Error 1
+ERROR: compilation failed for package ‘gpuMagic’
+* removing ‘/mnt/library/gpuMagic’
+
+The downloaded source packages are in
+	‘/tmp/RtmpHk3C3S/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘gpuMagic’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m11.918s
+user	0m5.287s
+sys	0m1.998s

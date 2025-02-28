@@ -25,7 +25,9 @@ BaseSpaceR
 BeadDataPackR
 BiRewire
 BioCartaImage
+Biobase
 BiocBaseUtils
+BiocBook
 BiocFileCache
 BiocGenerics
 BiocNeighbors
@@ -34,6 +36,7 @@ BiocStyle
 BiocVersion
 BiocWorkflowTools
 BridgeDbR
+BrowserViz
 BufferedMatrix
 BufferedMatrixMethods
 CARNIVAL
@@ -68,6 +71,7 @@ DiffLogo
 Director
 DriverNet
 DynDoc
+EBImage
 EBSeq
 EMDomics
 EmpiricalBrownsMethod
@@ -76,6 +80,7 @@ EnhancedVolcano
 EpiDISH
 FGNet
 FRGEpistasis
+FamAgg
 FitHiC
 GAprediction
 GEM
@@ -114,6 +119,7 @@ HilbertVis
 HilbertVisGUI
 HuBMAPR
 HubPub
+IHW
 IMPCdata
 INDEED
 INPower
@@ -184,6 +190,7 @@ RCASPAR
 RCX
 RDRToolbox
 REBET
+RGSEA
 RImmPort
 RLMM
 RLassoCox
@@ -222,6 +229,7 @@ STRINGdb
 SUITOR
 SamSPECTRAL
 ScreenR
+SharedObject
 SpaceMarkers
 Summix
 SwathXtend
@@ -334,8 +342,10 @@ ggtreeExtra
 ggtreeSpace
 globalSeq
 gpls
+gpuMagic
 granulator
 graper
+graph
 gypsum
 hca
 hierGWAS
@@ -355,6 +365,7 @@ illuminaio
 immunotation
 impute
 interacCircos
+interactiveDisplayBase
 iterativeBMAsurv
 koinar
 les
@@ -400,6 +411,7 @@ omada
 ompBAM
 onlineFDR
 oppti
+parglms
 parody
 pathifier
 pathwayPCA
@@ -417,6 +429,7 @@ pmm
 powerTCR
 ppcseq
 preprocessCore
+profileScoreDist
 proteinProfiles
 qckitfastq
 quantsmooth
@@ -457,6 +470,7 @@ sitePath
 sizepower
 snifter
 snm
+snpStats
 sparseMatrixStats
 sparsenetgls
 specL
@@ -485,6 +499,7 @@ tripr
 ttgsea
 tweeDEseq
 tximport
+unifiedWMWqPCR
 vbmp
 veloviz
 weaver

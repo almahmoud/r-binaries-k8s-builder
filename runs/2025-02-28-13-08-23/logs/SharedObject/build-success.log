@@ -1,0 +1,123 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'SharedObject'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SharedObject_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 2962258 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+* installing *source* package ‘SharedObject’ ...
+** package ‘SharedObject’ successfully unpacked and MD5 sums checked
+** using staged installation
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking for shm_open in -lrt... yes
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/BH/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c C_interface.cpp -o C_interface.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/BH/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/BH/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c altrep.cpp -o altrep.o
+altrep.cpp: In function ‘SEXPREC* createSharedStringFromSource(SEXP, bool, SEXP)’:
+altrep.cpp:146:69: warning: format ‘%llu’ expects argument of type ‘long long unsigned int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+  146 |                 Rf_error("Something is wrong with the unit size: %llu\n", unitSize);
+      |                                                                  ~~~^     ~~~~~~~~
+      |                                                                     |     |
+      |                                                                     |     long unsigned int
+      |                                                                     long long unsigned int
+      |                                                                  %lu
+altrep.cpp: In function ‘SEXPREC* unshareString(SEXP, SEXP)’:
+altrep.cpp:241:98: warning: format ‘%llu’ expects argument of type ‘long long unsigned int’, but argument 2 has type ‘size_t’ {aka ‘long unsigned int’} [-Wformat=]
+  241 |                         Rf_error("Unknown unit size in the unshareString function, unit size: %llu", (uint64_t)unitSize);
+      |                                                                                               ~~~^   ~~~~~~~~~~~~~~~~~~
+      |                                                                                                  |   |
+      |                                                                                                  |   size_t {aka long unsigned int}
+      |                                                                                                  long long unsigned int
+      |                                                                                               %lu
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/BH/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c altrepRegistration.cpp -o altrepRegistration.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/BH/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c numericAltrepOperations.cpp -o numericAltrepOperations.o
+numericAltrepOperations.cpp: In function ‘Rboolean sharedVector_Inspect(SEXP, int, int, int, void (*)(SEXP, int, int, int))’:
+numericAltrepOperations.cpp:13:27: warning: format ‘%llu’ expects argument of type ‘long long unsigned int’, but argument 2 has type ‘R_xlen_t’ {aka ‘long int’} [-Wformat=]
+   13 |         Rprintf(" (len=%llu, type=%d, COW=%d, SC=%d, SS=%d) shared object ID:%s\n", Rf_xlength(x), TYPEOF(x),
+      |                        ~~~^                                                         ~~~~~~~~~~~~~
+      |                           |                                                                   |
+      |                           long long unsigned int                                              R_xlen_t {aka long int}
+      |                        %lu
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/BH/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c sharedMemory.cpp -o sharedMemory.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/BH/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c sharedObjectClass.cpp -o sharedObjectClass.o
+sharedObjectClass.cpp: In function ‘void validate_shared_memory(std::string, boost::interprocess::shared_memory_object*)’:
+sharedObjectClass.cpp:93:62: warning: format ‘%llu’ expects argument of type ‘long long unsigned int’, but argument 3 has type ‘uint64_t’ {aka ‘long unsigned int’} [-Wformat=]
+   93 |             "Testing shared memory failed, key: %s, size: %lluB.\n"
+      |                                                           ~~~^
+      |                                                              |
+      |                                                              long long unsigned int
+      |                                                           %lu
+......
+   96 |             key.c_str(), (uint64_t)size);
+      |                          ~~~~~~~~~~~~~~                       
+      |                          |
+      |                          uint64_t {aka long unsigned int}
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/BH/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c stringAltrepOperations.cpp -o stringAltrepOperations.o
+stringAltrepOperations.cpp: In function ‘Rboolean sharedString_Inspect(SEXP, int, int, int, void (*)(SEXP, int, int, int))’:
+stringAltrepOperations.cpp:13:23: warning: format ‘%llu’ expects argument of type ‘long long unsigned int’, but argument 2 has type ‘R_xlen_t’ {aka ‘long int’} [-Wformat=]
+   13 |     Rprintf(" (len=%llu, COW=%d) shared string object\n", Rf_xlength(x),
+      |                    ~~~^                                   ~~~~~~~~~~~~~
+      |                       |                                             |
+      |                       long long unsigned int                        R_xlen_t {aka long int}
+      |                    %lu
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/BH/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c utils.cpp -o utils.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o SharedObject.so C_interface.o RcppExports.o altrep.o altrepRegistration.o numericAltrepOperations.o sharedMemory.o sharedObjectClass.o stringAltrepOperations.o utils.o -lrt -L/usr/local/lib/R/lib -lR
+mkdir -p ../inst/include&&\
+ mkdir -p ../inst/include/SharedObject&&\
+ mkdir -p ../inst/usrlib
+ar -crv SharedObject.a C_interface.o RcppExports.o altrep.o altrepRegistration.o numericAltrepOperations.o sharedMemory.o sharedObjectClass.o stringAltrepOperations.o utils.o
+a - C_interface.o
+a - RcppExports.o
+a - altrep.o
+a - altrepRegistration.o
+a - numericAltrepOperations.o
+a - sharedMemory.o
+a - sharedObjectClass.o
+a - stringAltrepOperations.o
+a - utils.o
+cp "sharedMemory.h" "../inst/include/SharedObject/"&&\
+ cp SharedObject.a "../inst/usrlib/"
+installing to /mnt/library/00LOCK-SharedObject/00new/SharedObject/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SharedObject’ as ‘SharedObject_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SharedObject)
+
+The downloaded source packages are in
+	‘/tmp/RtmpyLy75M/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m42.235s
+user	0m29.071s
+sys	0m5.928s

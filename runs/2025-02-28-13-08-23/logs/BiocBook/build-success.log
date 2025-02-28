@@ -1,0 +1,61 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'BiocBook'
+also installing the dependencies ‘quarto’, ‘renv’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/quarto_1.4.4.tar.gz'
+Content type 'binary/octet-stream' length 144509 bytes (141 KB)
+==================================================
+downloaded 141 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/renv_1.1.1.tar.gz'
+Content type 'binary/octet-stream' length 2254579 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocBook_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 924584 bytes (902 KB)
+==================================================
+downloaded 902 KB
+
+* installing *binary* package ‘quarto’ ...
+* ‘quarto’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘quarto’ as ‘quarto_1.4.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (quarto)
+* installing *binary* package ‘renv’ ...
+* ‘renv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘renv’ as ‘renv_1.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (renv)
+* installing *source* package ‘BiocBook’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocBook’ as ‘BiocBook_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocBook)
+
+The downloaded source packages are in
+	‘/tmp/RtmpaaGFVg/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m20.695s
+user	0m9.646s
+sys	0m4.460s

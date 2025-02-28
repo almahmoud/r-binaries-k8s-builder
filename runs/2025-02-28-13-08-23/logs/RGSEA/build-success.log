@@ -1,0 +1,67 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'RGSEA'
+also installing the dependency ‘GEOquery’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GEOquery_2.74.0.tar.gz'
+Content type 'application/x-gzip' length 13708435 bytes (13.1 MB)
+==================================================
+downloaded 13.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/RGSEA_1.40.0.tar.gz'
+Content type 'application/x-gzip' length 1807614 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+* installing *source* package ‘GEOquery’ ...
+** package ‘GEOquery’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Error: package or namespace load failed for ‘GEOquery’ in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]):
+ there is no package called ‘S4Vectors’
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/GEOquery’
+* installing *source* package ‘RGSEA’ ...
+** package ‘RGSEA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RGSEA’ as ‘RGSEA_1.40.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RGSEA)
+
+The downloaded source packages are in
+	‘/tmp/RtmpXCKqGf/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘GEOquery’ had non-zero exit status
+
+real	0m27.412s
+user	0m14.310s
+sys	0m4.870s
