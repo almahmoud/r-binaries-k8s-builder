@@ -1,0 +1,294 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'netboost'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/netboost_2.14.0.tar.gz'
+Content type 'application/x-gzip' length 1197451 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+* installing *source* package ‘netboost’ ...
+** package ‘netboost’ successfully unpacked and MD5 sums checked
+** using staged installation
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /usr/bin/mkdir -p
+checking for gawk... no
+checking for mawk... mawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking whether make supports the include directive... yes (GNU style)
+checking dependency style of gcc... none
+checking how to run the C preprocessor... gcc -E
+checking build system type... x86_64-pc-linux-gnu
+checking host system type... x86_64-pc-linux-gnu
+checking for x86 cpuid  output... unknown
+checking for x86-AVX xgetbv  output... unknown
+checking for x86 cpuid 0x00000000 output... d:68747541:444d4163:69746e65
+checking for x86 cpuid 0x80000000 output... 80000021:68747541:444d4163:69746e65
+checking for x86 cpuid 0x00000001 output... a00f11:4000800:fffa3203:78bfbff
+checking for x86 cpuid 0x00000007 output... 0:219c05ab:40061c:ac000000
+checking for x86 cpuid 0x80000001 output... a00f11:0:c003f7:2fd3fbff
+checking for x86-AVX xgetbv 0x00000000 output... 207:0
+checking whether RDRND is supported by the processor... yes
+checking whether RDRND is supported by the processor and OS... yes
+checking whether C compiler accepts -mrdrnd... yes
+checking whether BMI1 is supported by the processor... yes
+checking whether BMI1 is supported by the processor and OS... yes
+checking whether C compiler accepts -mbmi... yes
+checking whether BMI2 is supported by the processor... yes
+checking whether BMI2 is supported by the processor and OS... yes
+checking whether C compiler accepts -mbmi2... yes
+checking whether ADX is supported by the processor... yes
+checking whether ADX is supported by the processor and OS... yes
+checking whether C compiler accepts -madx... yes
+checking whether MPX is supported by the processor... no
+checking whether PREFETCHWT1 is supported by the processor... no
+checking whether ABM is supported by the processor... yes
+checking whether ABM is supported by the processor and OS... yes
+checking whether C compiler accepts -mabm... yes
+checking whether MMX is supported by the processor... yes
+checking whether MMX is supported by the processor and OS... yes
+checking whether C compiler accepts -mmmx... yes
+checking whether SSE is supported by the processor... yes
+checking whether SSE is supported by the processor and OS... yes
+checking whether C compiler accepts -msse... yes
+checking whether SSE2 is supported by the processor... yes
+checking whether SSE2 is supported by the processor and OS... yes
+checking whether C compiler accepts -msse2... yes
+checking whether SSE3 is supported by the processor... yes
+checking whether SSE3 is supported by the processor and OS... yes
+checking whether C compiler accepts -msse3... yes
+checking whether SSSE3 is supported by the processor... yes
+checking whether SSSE3 is supported by the processor and OS... yes
+checking whether C compiler accepts -mssse3... yes
+checking whether SSE4.1 is supported by the processor... yes
+checking whether SSE4.1 is supported by the processor and OS... yes
+checking whether C compiler accepts -msse4.1... yes
+checking whether SSE4.2 is supported by the processor... yes
+checking whether SSE4.2 is supported by the processor and OS... yes
+checking whether C compiler accepts -msse4.2... yes
+checking whether SSE4a is supported by the processor... yes
+checking whether SSE4a is supported by the processor and OS... yes
+checking whether C compiler accepts -msse4a... yes
+checking whether SHA is supported by the processor... yes
+checking whether SHA is supported by the processor and OS... yes
+checking whether C compiler accepts -msha... yes
+checking whether AES is supported by the processor... yes
+checking whether AES is supported by the processor and OS... yes
+checking whether C compiler accepts -maes... yes
+checking whether AVX is supported by the processor... yes
+checking whether AVX is supported by the processor and OS... yes
+checking whether C compiler accepts -mavx... yes
+checking whether FMA3 is supported by the processor... yes
+checking whether FMA3 is supported by the processor and OS... yes
+checking whether C compiler accepts -mfma... yes
+checking whether FMA4 is supported by the processor... no
+checking whether XOP is supported by the processor... no
+checking whether AVX2 is supported by the processor... yes
+checking whether AVX2 is supported by the processor and OS... yes
+checking whether C compiler accepts -mavx2... yes
+checking whether AVX512-F is supported by the processor... no
+checking whether AVX512-CD is supported by the processor... no
+checking whether AVX512-PF is supported by the processor... no
+checking whether AVX512-ER is supported by the processor... no
+checking whether AVX512-VL is supported by the processor... no
+checking whether AVX512-BW is supported by the processor... no
+checking whether AVX512-DQ is supported by the processor... no
+checking whether AVX512-IFMA is supported by the processor... no
+checking whether AVX512-VBMI is supported by the processor... no
+checking whether C compiler accepts -Wno-deprecated... yes
+checking for strip... strip
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating src/Makevars
+config.status: creating src/mcupgma/clustering_util/Makefile
+config.status: creating src/config.h
+config.status: executing depfiles commands
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppParallel/include' -I/usr/local/include   `/usr/local/lib/R/bin/Rscript -e "Rcpp:::CxxFlags()"`  -mmmx -msse -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -msse4a -msha -maes -mavx -mfma -mavx2 -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppParallel/include' -I/usr/local/include   `/usr/local/lib/R/bin/Rscript -e "Rcpp:::CxxFlags()"`  -mmmx -msse -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -msse4a -msha -maes -mavx -mfma -mavx2 -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c boosting.cpp -o boosting.o
+boosting.cpp: In constructor ‘Boosting::Boosting(const Rcpp::NumericMatrix&, unsigned int, double)’:
+boosting.cpp:415:71: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘size_t’ {aka ‘long unsigned int’} [-Wformat=]
+  415 |         Rprintf( "  DATA POINTER REAL LENGTH: %li / %li dbl (matrix: %d -- max %d)\n",
+      |                                                                      ~^
+      |                                                                       |
+      |                                                                       int
+      |                                                                      %ld
+......
+  418 |                  (col+1) * nrow,
+      |                  ~~~~~~~~~~~~~~                                        
+      |                          |
+      |                          size_t {aka long unsigned int}
+boosting.cpp:415:81: warning: format ‘%d’ expects argument of type ‘int’, but argument 5 has type ‘size_t’ {aka ‘long unsigned int’} [-Wformat=]
+  415 |         Rprintf( "  DATA POINTER REAL LENGTH: %li / %li dbl (matrix: %d -- max %d)\n",
+      |                                                                                ~^
+      |                                                                                 |
+      |                                                                                 int
+      |                                                                                %ld
+......
+  419 |                  (col+1) * (nrow + 256/sizeof(double))
+      |                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                           
+      |                          |
+      |                          size_t {aka long unsigned int}
+boosting.cpp: In instantiation of ‘Rcpp::IntegerVector Boosting::filter_column_gen(size_t) [with bool AVX = true; bool FMA = false; bool ALIGNED = true; Rcpp::IntegerVector = Rcpp::Vector<13>; size_t = long unsigned int]’:
+boosting.cpp:729:53:   required from here
+boosting.cpp:645:44: warning: format ‘%d’ expects argument of type ‘int’, but argument 3 has type ‘size_t’ {aka ‘long unsigned int’} [-Wformat=]
+  645 |         Rprintf( "C STEP: %d (ACTUAL_SEL: %d, UPDATE: %f)\n   ",
+      |                                           ~^
+      |                                            |
+      |                                            int
+      |                                           %ld
+  646 |                  bstep + 1, actual_sel + 1, actual_update);
+      |                             ~~~~~~~~~~~~~~  
+      |                                        |
+      |                                        size_t {aka long unsigned int}
+boosting.cpp: In instantiation of ‘Rcpp::IntegerVector Boosting::filter_column_gen(size_t) [with bool AVX = false; bool FMA = false; bool ALIGNED = true; Rcpp::IntegerVector = Rcpp::Vector<13>; size_t = long unsigned int]’:
+boosting.cpp:732:54:   required from here
+boosting.cpp:645:44: warning: format ‘%d’ expects argument of type ‘int’, but argument 3 has type ‘size_t’ {aka ‘long unsigned int’} [-Wformat=]
+  645 |         Rprintf( "C STEP: %d (ACTUAL_SEL: %d, UPDATE: %f)\n   ",
+      |                                           ~^
+      |                                            |
+      |                                            int
+      |                                           %ld
+  646 |                  bstep + 1, actual_sel + 1, actual_update);
+      |                             ~~~~~~~~~~~~~~  
+      |                                        |
+      |                                        size_t {aka long unsigned int}
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppParallel/include' -I/usr/local/include   `/usr/local/lib/R/bin/Rscript -e "Rcpp:::CxxFlags()"`  -mmmx -msse -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -msse4a -msha -maes -mavx -mfma -mavx2 -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c dist_tom.cpp -o dist_tom.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppParallel/include' -I/usr/local/include   `/usr/local/lib/R/bin/Rscript -e "Rcpp:::CxxFlags()"`  -mmmx -msse -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -msse4a -msha -maes -mavx -mfma -mavx2 -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c tree_sort.cpp -o tree_sort.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o netboost.so RcppExports.o boosting.o dist_tom.o tree_sort.o -L/usr/local/lib/R/lib -lR
+strip -S netboost.so
+installing via 'install.libs.R' to /mnt/library/00LOCK-netboost/00new/netboost
+[1] "R_PACKAGE_SRC:  /tmp/RtmpwjupJB/R.INSTALL345174fb6a/netboost"
+[1] "R_PACKAGE_DIR:  /mnt/library/00LOCK-netboost/00new/netboost"
+[1] "R_ARCH:         "
+[1] "SHLIB_EXT:      .so"
+[1] "INSTALL PATH:  /tmp/RtmpwjupJB/R.INSTALL345174fb6a/netboost/src/mcupgma/scripts/install_path.mk"
+make: Entering directory '/tmp/RtmpwjupJB/R.INSTALL345174fb6a/netboost/src/mcupgma'
+Clean build.
+make: Leaving directory '/tmp/RtmpwjupJB/R.INSTALL345174fb6a/netboost/src/mcupgma'
+make: Entering directory '/tmp/RtmpwjupJB/R.INSTALL345174fb6a/netboost/src/mcupgma'
+==== compiling clustering_util sources using external Makefile (clustering_util/Makefile) recursively 
+make -C clustering_util  -f Makefile mcupgma_install
+make[1]: Entering directory '/tmp/RtmpwjupJB/R.INSTALL345174fb6a/netboost/src/mcupgma/clustering_util'
+mkdir -p bin
+mkdir -p obj.x86_64_Linux
+g++ -Wall  -Wno-deprecated -O3 -DNDEBUG -c -o obj.x86_64_Linux/HashingMergerMain.cmdline.o HashingMergerMain.cmdline.c
+g++ -Wall  -Wno-deprecated -O3 -DNDEBUG  -Wall  -Wno-deprecated -O3 -DNDEBUG -c -o obj.x86_64_Linux/ClusteringUtil.o ClusteringUtil.cpp
+g++ -Wall  -Wno-deprecated -O3 -DNDEBUG  -Wall  -Wno-deprecated -O3 -DNDEBUG -c -o obj.x86_64_Linux/Tree.o Tree.cpp
+g++ -Wall  -Wno-deprecated -O3 -DNDEBUG   -o bin/edges2valid_clusters HashingMergerMain.cpp obj.x86_64_Linux/HashingMergerMain.cmdline.o obj.x86_64_Linux/ClusteringUtil.o obj.x86_64_Linux/Tree.o 
+g++ -Wall  -Wno-deprecated -O3 -DNDEBUG -c -o obj.x86_64_Linux/EdgeCollatorMain.cmdline.o EdgeCollatorMain.cmdline.c
+g++ -Wall  -Wno-deprecated -O3 -DNDEBUG  -o bin/edge_collator EdgeCollatorMain.cpp obj.x86_64_Linux/EdgeCollatorMain.cmdline.o obj.x86_64_Linux/ClusteringUtil.o obj.x86_64_Linux/Tree.o 
+make[1]: Leaving directory '/tmp/RtmpwjupJB/R.INSTALL345174fb6a/netboost/src/mcupgma/clustering_util'
+==== compiling  sources using external Makefile (clustering_round/Makefile) recursively 
+make -C clustering_round  -f Makefile
+make[1]: Entering directory '/tmp/RtmpwjupJB/R.INSTALL345174fb6a/netboost/src/mcupgma/clustering_round'
+mkdir -p dep.x86_64_Linux 
+test -d dep.x86_64_Linux && g++ -MM -MT 'dep.x86_64_Linux/test_heap.d  obj.x86_64_Linux/test_heap.o  obj.x86_64_Linux.debug/test_heap.o' -O3 -ftemplate-depth-64 -I./ test_heap.cpp > dep.x86_64_Linux/test_heap.d
+test -d dep.x86_64_Linux && g++ -MM -MT 'dep.x86_64_Linux/HierarchicalClustering_with_unknown_edges.d  obj.x86_64_Linux/HierarchicalClustering_with_unknown_edges.o  obj.x86_64_Linux.debug/HierarchicalClustering_with_unknown_edges.o' -O3 -ftemplate-depth-64 -I./ HierarchicalClustering_with_unknown_edges.cpp > dep.x86_64_Linux/HierarchicalClustering_with_unknown_edges.d
+test -d dep.x86_64_Linux && g++ -MM -MT 'dep.x86_64_Linux/HierarchicalClustering_main.d  obj.x86_64_Linux/HierarchicalClustering_main.o  obj.x86_64_Linux.debug/HierarchicalClustering_main.o' -O3 -ftemplate-depth-64 -I./ HierarchicalClustering_main.cpp > dep.x86_64_Linux/HierarchicalClustering_main.d
+test -d dep.x86_64_Linux && g++ -MM -MT 'dep.x86_64_Linux/test_heap.d  obj.x86_64_Linux/test_heap.o  obj.x86_64_Linux.debug/test_heap.o' -O3 -ftemplate-depth-64 -I./ test_heap.cpp > dep.x86_64_Linux/test_heap.d
+mkdir -p obj.x86_64_Linux 
+mkdir -p bin
+g++ -O3 -ftemplate-depth-64 -I./ -c HierarchicalClustering_main.cpp -o obj.x86_64_Linux/HierarchicalClustering_main.o
+In file included from HierarchicalClustering_main.cpp:96:
+HierarchicalClustering_with_unknown_edges.hpp:150:47: warning: ‘template<class _Arg1, class _Arg2, class _Result> struct std::binary_function’ is deprecated [-Wdeprecated-declarations]
+  150 |     struct fCompareEdgesByLowerBound : public binary_function<tEdge, tEdge, bool> {
+      |                                               ^~~~~~~~~~~~~~~
+In file included from /usr/include/c++/13/bits/refwrap.h:39,
+                 from /usr/include/c++/13/vector:68,
+                 from HierarchicalClustering_with_unknown_edges.hpp:40:
+/usr/include/c++/13/bits/stl_function.h:131:12: note: declared here
+  131 |     struct binary_function
+      |            ^~~~~~~~~~~~~~~
+HierarchicalClustering_with_unknown_edges.hpp:177:45: warning: ‘template<class _Arg1, class _Arg2, class _Result> struct std::binary_function’ is deprecated [-Wdeprecated-declarations]
+  177 |   struct fCompareEdgesByUpperBound : public binary_function<tEdge, tEdge, bool> {
+      |                                             ^~~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:131:12: note: declared here
+  131 |     struct binary_function
+      |            ^~~~~~~~~~~~~~~
+HierarchicalClustering_with_unknown_edges.hpp:259:31: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  259 |    struct fIsClusterInvalid : unary_function<tClusterId, bool> {
+      |                               ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+cc -O3 -I./ -c HierarchicalClustering_main.cmdline.c -o obj.x86_64_Linux/HierarchicalClustering_main.cmdline.o
+g++ -O3 -ftemplate-depth-64 -I./ -c HierarchicalClustering_with_unknown_edges.cpp -o obj.x86_64_Linux/HierarchicalClustering_with_unknown_edges.o
+In file included from HierarchicalClustering_with_unknown_edges.cpp:28:
+HierarchicalClustering_with_unknown_edges.hpp:150:47: warning: ‘template<class _Arg1, class _Arg2, class _Result> struct std::binary_function’ is deprecated [-Wdeprecated-declarations]
+  150 |     struct fCompareEdgesByLowerBound : public binary_function<tEdge, tEdge, bool> {
+      |                                               ^~~~~~~~~~~~~~~
+In file included from /usr/include/c++/13/bits/refwrap.h:39,
+                 from /usr/include/c++/13/vector:68,
+                 from HierarchicalClustering_with_unknown_edges.hpp:40:
+/usr/include/c++/13/bits/stl_function.h:131:12: note: declared here
+  131 |     struct binary_function
+      |            ^~~~~~~~~~~~~~~
+HierarchicalClustering_with_unknown_edges.hpp:177:45: warning: ‘template<class _Arg1, class _Arg2, class _Result> struct std::binary_function’ is deprecated [-Wdeprecated-declarations]
+  177 |   struct fCompareEdgesByUpperBound : public binary_function<tEdge, tEdge, bool> {
+      |                                             ^~~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:131:12: note: declared here
+  131 |     struct binary_function
+      |            ^~~~~~~~~~~~~~~
+HierarchicalClustering_with_unknown_edges.hpp:259:31: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  259 |    struct fIsClusterInvalid : unary_function<tClusterId, bool> {
+      |                               ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+g++ obj.x86_64_Linux/HierarchicalClustering_main.o obj.x86_64_Linux/HierarchicalClustering_main.cmdline.o obj.x86_64_Linux/HierarchicalClustering_with_unknown_edges.o  -o bin/hierarchical_clustering  -O3
+g++ -O3 -ftemplate-depth-64 -I./ -c test_heap.cpp -o obj.x86_64_Linux/test_heap.o
+cc -O3 -I./ -c test_heap.cmdline.c -o obj.x86_64_Linux/test_heap.cmdline.o
+g++ obj.x86_64_Linux/test_heap.o obj.x86_64_Linux/test_heap.cmdline.o  -o bin/test_heap  -O3
+make[1]: Leaving directory '/tmp/RtmpwjupJB/R.INSTALL345174fb6a/netboost/src/mcupgma/clustering_round'
+make: Leaving directory '/tmp/RtmpwjupJB/R.INSTALL345174fb6a/netboost/src/mcupgma'
+[1] "SRC:  /tmp/RtmpwjupJB/R.INSTALL345174fb6a/netboost/src/mcupgma"
+[1] "DEST: /mnt/library/00LOCK-netboost/00new/netboost/mcupgma"
+[1] "INSTALL FROM: /tmp/RtmpwjupJB/R.INSTALL345174fb6a/netboost/src/mcupgma/clustering_round/bin TO: /mnt/library/00LOCK-netboost/00new/netboost/mcupgma"
+[1] "INSTALL FROM: /tmp/RtmpwjupJB/R.INSTALL345174fb6a/netboost/src/mcupgma/clustering_util/bin TO: /mnt/library/00LOCK-netboost/00new/netboost/mcupgma"
+[1] "INSTALL FROM: /tmp/RtmpwjupJB/R.INSTALL345174fb6a/netboost/src/mcupgma/scripts TO: /mnt/library/00LOCK-netboost/00new/netboost/mcupgma"
+[1] "netboost.so"
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘netboost’ as ‘netboost_2.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (netboost)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp6muBM6/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	56m21.836s
+user	0m42.740s
+sys	0m11.582s

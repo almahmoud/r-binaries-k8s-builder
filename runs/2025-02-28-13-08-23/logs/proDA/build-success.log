@@ -1,0 +1,63 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'proDA'
+also installing the dependency ‘DEP’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DEP_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 3616409 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/proDA_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 1418297 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+* installing *source* package ‘DEP’ ...
+** package ‘DEP’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Error in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]) : 
+  there is no package called ‘MultiAssayExperiment’
+Calls: <Anonymous> ... loadNamespace -> withRestarts -> withOneRestart -> doWithOneRestart
+Execution halted
+ERROR: lazy loading failed for package ‘DEP’
+* removing ‘/mnt/library/DEP’
+* installing *source* package ‘proDA’ ...
+** package ‘proDA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘proDA’ as ‘proDA_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (proDA)
+
+The downloaded source packages are in
+	‘/tmp/RtmppDsSYu/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘DEP’ had non-zero exit status
+
+real	53m10.273s
+user	0m35.373s
+sys	0m8.864s

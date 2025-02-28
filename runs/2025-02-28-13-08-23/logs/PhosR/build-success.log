@@ -1,0 +1,63 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'PhosR'
+also installing the dependencies ‘ClueR’, ‘directPA’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ClueR_1.4.2.tar.gz'
+Content type 'binary/octet-stream' length 3330941 bytes (3.2 MB)
+==================================================
+downloaded 3.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/directPA_1.5.1.tar.gz'
+Content type 'binary/octet-stream' length 299156 bytes (292 KB)
+==================================================
+downloaded 292 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/PhosR_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 7800999 bytes (7.4 MB)
+==================================================
+downloaded 7.4 MB
+
+* installing *binary* package ‘ClueR’ ...
+* ‘ClueR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ClueR’ as ‘ClueR_1.4.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ClueR)
+* installing *binary* package ‘directPA’ ...
+* ‘directPA’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘directPA’ as ‘directPA_1.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (directPA)
+* installing *source* package ‘PhosR’ ...
+** package ‘PhosR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘PhosR’ as ‘PhosR_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (PhosR)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp9zj3aQ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	58m2.755s
+user	0m32.875s
+sys	0m7.239s

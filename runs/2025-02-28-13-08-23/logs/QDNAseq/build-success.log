@@ -1,0 +1,80 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'QDNAseq'
+also installing the dependencies ‘QDNAseq.hg19’, ‘QDNAseq.mm10’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/QDNAseq.hg19_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 36971338 bytes (35.3 MB)
+==================================================
+downloaded 35.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/QDNAseq.mm10_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 32693083 bytes (31.2 MB)
+==================================================
+downloaded 31.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/QDNAseq_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 1122651 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+* installing *source* package ‘QDNAseq’ ...
+** package ‘QDNAseq’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘QDNAseq’ as ‘QDNAseq_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (QDNAseq)
+* installing *source* package ‘QDNAseq.hg19’ ...
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘QDNAseq.hg19’ as ‘QDNAseq.hg19_1.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (QDNAseq.hg19)
+* installing *source* package ‘QDNAseq.mm10’ ...
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘QDNAseq.mm10’ as ‘QDNAseq.mm10_1.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (QDNAseq.mm10)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp8GaZMI/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	57m9.390s
+user	0m47.431s
+sys	0m9.659s
