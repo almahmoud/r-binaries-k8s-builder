@@ -852,6 +852,7 @@ TADCompare
 TAPseq
 TCC
 TCGAbiolinks
+TCGAutils
 TCseq
 TDbasedUFE
 TDbasedUFEadv
@@ -1097,6 +1098,7 @@ cydar
 cypress
 cytoKernel
 cytoMEM
+cytofQC
 cytolib
 cytomapper
 cytoviewer
@@ -1152,6 +1154,7 @@ eisaR
 enhancerHomologSearch
 enrichViewNet
 enrichplot
+ensembldb
 epiNEM
 epialleleR
 epidecodeR
@@ -1757,6 +1760,7 @@ speckle
 spicyR
 spikeLI
 spiky
+spillR
 spkTools
 splatter
 splineTimeR

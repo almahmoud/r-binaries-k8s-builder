@@ -1867,3 +1867,7 @@ TRESS
 txcutr
 UMI4Cats
 wavClusteR
+cytofQC
+ensembldb
+spillR
+TCGAutils
