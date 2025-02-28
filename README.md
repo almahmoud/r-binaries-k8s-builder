@@ -4,12 +4,18 @@
 
 ## Summary
 
-- 0 packages built successfully
+- 2 packages built successfully
 - 0 packages failed to build
-- 1741 packages not yet processed
+- 1739 packages not yet processed
 
 
-## Not Yet Processed (1741)
+## Successfully Built (2)
+| Package                                                                            | Status   | Log                                                                 | BBS Status                                                                |
+|------------------------------------------------------------------------------------|----------|---------------------------------------------------------------------|---------------------------------------------------------------------------|
+| [BiocGenerics](https://bioconductor.org/packages/3.20/bioc/html/BiocGenerics.html) | Built    | [Log](runs/2025-02-28-13-08-23/logs/BiocGenerics/build-success.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BiocGenerics) |
+| [CIMICE](https://bioconductor.org/packages/3.20/bioc/html/CIMICE.html)             | Built    | [Log](runs/2025-02-28-13-08-23/logs/CIMICE/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CIMICE)       |
+
+## Not Yet Processed (1739)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ABarray](https://bioconductor.org/packages/3.20/bioc/html/ABarray.html)                                         | Unprocessed |
@@ -94,7 +100,6 @@
 | [BiocBook](https://bioconductor.org/packages/3.20/bioc/html/BiocBook.html)                                       | Unprocessed |
 | [BiocCheck](https://bioconductor.org/packages/3.20/bioc/html/BiocCheck.html)                                     | Unprocessed |
 | [BiocFHIR](https://bioconductor.org/packages/3.20/bioc/html/BiocFHIR.html)                                       | Unprocessed |
-| [BiocGenerics](https://bioconductor.org/packages/3.20/bioc/html/BiocGenerics.html)                               | Unprocessed |
 | [BiocHubsShiny](https://bioconductor.org/packages/3.20/bioc/html/BiocHubsShiny.html)                             | Unprocessed |
 | [BiocIO](https://bioconductor.org/packages/3.20/bioc/html/BiocIO.html)                                           | Unprocessed |
 | [BiocPkgTools](https://bioconductor.org/packages/3.20/bioc/html/BiocPkgTools.html)                               | Unprocessed |
@@ -124,7 +129,6 @@
 | [CGHregions](https://bioconductor.org/packages/3.20/bioc/html/CGHregions.html)                                   | Unprocessed |
 | [CHETAH](https://bioconductor.org/packages/3.20/bioc/html/CHETAH.html)                                           | Unprocessed |
 | [CHRONOS](https://bioconductor.org/packages/3.20/bioc/html/CHRONOS.html)                                         | Unprocessed |
-| [CIMICE](https://bioconductor.org/packages/3.20/bioc/html/CIMICE.html)                                           | Unprocessed |
 | [CINdex](https://bioconductor.org/packages/3.20/bioc/html/CINdex.html)                                           | Unprocessed |
 | [CMA](https://bioconductor.org/packages/3.20/bioc/html/CMA.html)                                                 | Unprocessed |
 | [CNEr](https://bioconductor.org/packages/3.20/bioc/html/CNEr.html)                                               | Unprocessed |

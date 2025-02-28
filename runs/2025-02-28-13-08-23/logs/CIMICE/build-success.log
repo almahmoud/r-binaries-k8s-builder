@@ -1,0 +1,61 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'CIMICE'
+also installing the dependencies ‘networkD3’, ‘webshot’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/networkD3_0.4.tar.gz'
+Content type 'binary/octet-stream' length 190460 bytes (185 KB)
+==================================================
+downloaded 185 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/webshot_0.5.5.tar.gz'
+Content type 'binary/octet-stream' length 206664 bytes (201 KB)
+==================================================
+downloaded 201 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/CIMICE_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 1673144 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+* installing *binary* package ‘networkD3’ ...
+* ‘networkD3’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘networkD3’ as ‘networkD3_0.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (networkD3)
+* installing *binary* package ‘webshot’ ...
+* ‘webshot’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘webshot’ as ‘webshot_0.5.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (webshot)
+* installing *source* package ‘CIMICE’ ...
+** package ‘CIMICE’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CIMICE’ as ‘CIMICE_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CIMICE)
+
+The downloaded source packages are in
+	‘/tmp/RtmpnBlRDO/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m19.437s
+user	0m10.874s
+sys	0m4.373s

@@ -489,3 +489,5 @@ ppcseq
 RTCGA
 scBubbletree
 maftools
+BiocGenerics
+CIMICE

@@ -27,6 +27,7 @@ BiRewire
 BioCartaImage
 BiocBaseUtils
 BiocFileCache
+BiocGenerics
 BiocNeighbors
 BiocParallel
 BiocStyle
@@ -38,6 +39,7 @@ BufferedMatrixMethods
 CARNIVAL
 CFAssay
 CGEN
+CIMICE
 CNAnorm
 COMPASS
 CONSTANd
