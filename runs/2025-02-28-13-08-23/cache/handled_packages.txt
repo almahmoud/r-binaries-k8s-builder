@@ -156,6 +156,7 @@ CNTools
 CNVMetrics
 CNVPanelizer
 CNVRanger
+CNVfilteR
 CNViz
 CNVrd2
 COCOA
@@ -492,6 +493,7 @@ IgGeneUsage
 InPAS
 InTAD
 Informeasure
+IntEREst
 InterCellar
 InteractionSet
 InteractiveComplexHeatmap
@@ -1097,6 +1099,7 @@ biodbNci
 biodbUniprot
 biomaRt
 biomformat
+biomvRCNS
 biotmle
 biovizBase
 biscuiteer
@@ -1349,6 +1352,7 @@ fobitools
 frenchFISH
 frmaTools
 funOmics
+funtooNorm
 gCrisprTools
 gDRcore
 gDRimport
@@ -1793,6 +1797,7 @@ rebook
 receptLoss
 reconsi
 recount3
+recountmethylation
 recoup
 regionalpcs
 regioneR
@@ -1909,6 +1914,7 @@ seqsetvis
 sevenC
 sevenbridges
 shiny.gosling
+shinyMethyl
 sigFeature
 siggenes
 sights
@@ -2045,6 +2051,7 @@ txdbmaker
 tximeta
 tximport
 uSORT
+uncoverappLib
 unifiedWMWqPCR
 universalmotif
 updateObject

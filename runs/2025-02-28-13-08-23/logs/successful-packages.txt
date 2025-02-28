@@ -2076,3 +2076,10 @@ ITALICS
 cicero
 GenomicOZone
 OGRE
+biomvRCNS
+CNVfilteR
+funtooNorm
+IntEREst
+recountmethylation
+shinyMethyl
+uncoverappLib
