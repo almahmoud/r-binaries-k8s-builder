@@ -1908,3 +1908,14 @@ scmeth
 signatureSearch
 terraTCGAdata
 VariantAnnotation
+blacksheepr
+CleanUpRNAseq
+consensusDE
+GenomicInteractionNodes
+MicrobiomeProfiler
+miRSM
+miRspongeR
+mygene
+pathlinkR
+RTCGAToolbox
+SplicingGraphs

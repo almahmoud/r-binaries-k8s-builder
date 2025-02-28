@@ -1,0 +1,139 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'miRSM'
+also installing the dependencies ‘kpeaks’, ‘inaparc’, ‘GFA’, ‘s4vd’, ‘BiBitR’, ‘subspace’, ‘SOMbrero’, ‘ppclust’, ‘MatrixCorrelation’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/kpeaks_1.1.0.tar.gz'
+Content type 'binary/octet-stream' length 78187 bytes (76 KB)
+==================================================
+downloaded 76 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/inaparc_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 271067 bytes (264 KB)
+==================================================
+downloaded 264 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/GFA_1.0.5.tar.gz'
+Content type 'binary/octet-stream' length 151937 bytes (148 KB)
+==================================================
+downloaded 148 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/s4vd_1.1-1.tar.gz'
+Content type 'binary/octet-stream' length 172207 bytes (168 KB)
+==================================================
+downloaded 168 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/BiBitR_0.3.1.tar.gz'
+Content type 'binary/octet-stream' length 785139 bytes (766 KB)
+==================================================
+downloaded 766 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/subspace_1.0.4.tar.gz'
+Content type 'binary/octet-stream' length 4262830 bytes (4.1 MB)
+==================================================
+downloaded 4.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/SOMbrero_1.4-2.tar.gz'
+Content type 'binary/octet-stream' length 795678 bytes (777 KB)
+==================================================
+downloaded 777 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ppclust_1.1.0.1.tar.gz'
+Content type 'binary/octet-stream' length 4275136 bytes (4.1 MB)
+==================================================
+downloaded 4.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/MatrixCorrelation_0.10.0.tar.gz'
+Content type 'binary/octet-stream' length 144117 bytes (140 KB)
+==================================================
+downloaded 140 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/miRSM_2.2.0.tar.gz'
+Content type 'application/x-gzip' length 935137 bytes (913 KB)
+==================================================
+downloaded 913 KB
+
+* installing *binary* package ‘kpeaks’ ...
+* ‘kpeaks’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘kpeaks’ as ‘kpeaks_1.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kpeaks)
+* installing *binary* package ‘GFA’ ...
+* ‘GFA’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘GFA’ as ‘GFA_1.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GFA)
+* installing *binary* package ‘s4vd’ ...
+* ‘s4vd’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘s4vd’ as ‘s4vd_1.1-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (s4vd)
+* installing *binary* package ‘BiBitR’ ...
+* ‘BiBitR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘BiBitR’ as ‘BiBitR_0.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiBitR)
+* installing *binary* package ‘subspace’ ...
+* ‘subspace’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘subspace’ as ‘subspace_1.0.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (subspace)
+* installing *binary* package ‘SOMbrero’ ...
+* ‘SOMbrero’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘SOMbrero’ as ‘SOMbrero_1.4-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SOMbrero)
+* installing *binary* package ‘MatrixCorrelation’ ...
+* ‘MatrixCorrelation’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘MatrixCorrelation’ as ‘MatrixCorrelation_0.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MatrixCorrelation)
+* installing *binary* package ‘inaparc’ ...
+* ‘inaparc’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘inaparc’ as ‘inaparc_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (inaparc)
+* installing *binary* package ‘ppclust’ ...
+* ‘ppclust’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ppclust’ as ‘ppclust_1.1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ppclust)
+* installing *source* package ‘miRSM’ ...
+** package ‘miRSM’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c complex.c -o complex.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c registerDynamicSymbol.c -o registerDynamicSymbol.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o miRSM.so complex.o registerDynamicSymbol.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-miRSM/00new/miRSM/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘miRSM’ as ‘miRSM_2.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (miRSM)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpt0MAMr/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	3m42.308s
+user	0m56.517s
+sys	0m11.340s

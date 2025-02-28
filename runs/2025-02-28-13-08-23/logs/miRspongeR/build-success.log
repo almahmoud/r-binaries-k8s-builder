@@ -1,0 +1,67 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'miRspongeR'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/miRspongeR_2.10.0.tar.gz'
+Content type 'application/x-gzip' length 662847 bytes (647 KB)
+==================================================
+downloaded 647 KB
+
+* installing *source* package ‘miRspongeR’ ...
+** package ‘miRspongeR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG `/usr/local/lib/R/bin/Rscript -e "Rcpp:::CxxFlags()"`  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c complex.c -o complex.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG `/usr/local/lib/R/bin/Rscript -e "Rcpp:::CxxFlags()"`  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c registerDynamicSymbol.c -o registerDynamicSymbol.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o miRspongeR.so complex.o registerDynamicSymbol.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-miRspongeR/00new/miRspongeR/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘biomaRt::select’ by ‘dplyr::select’ when loading ‘SPONGE’
+Warning: replacing previous import ‘Biobase::combine’ by ‘dplyr::combine’ when loading ‘SPONGE’
+Warning: replacing previous import ‘cvms::font’ by ‘ggpubr::font’ when loading ‘SPONGE’
+Warning: replacing previous import ‘ggplot2::margin’ by ‘randomForest::margin’ when loading ‘SPONGE’
+Warning: replacing previous import ‘dplyr::combine’ by ‘randomForest::combine’ when loading ‘SPONGE’
+Warning: replacing previous import ‘Biobase::exprs’ by ‘rlang::exprs’ when loading ‘SPONGE’
+Warning: replacing previous import ‘rlang::exprs’ by ‘Biobase::exprs’ when loading ‘SPONGE’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘biomaRt::select’ by ‘dplyr::select’ when loading ‘SPONGE’
+Warning: replacing previous import ‘Biobase::combine’ by ‘dplyr::combine’ when loading ‘SPONGE’
+Warning: replacing previous import ‘cvms::font’ by ‘ggpubr::font’ when loading ‘SPONGE’
+Warning: replacing previous import ‘ggplot2::margin’ by ‘randomForest::margin’ when loading ‘SPONGE’
+Warning: replacing previous import ‘dplyr::combine’ by ‘randomForest::combine’ when loading ‘SPONGE’
+Warning: replacing previous import ‘Biobase::exprs’ by ‘rlang::exprs’ when loading ‘SPONGE’
+Warning: replacing previous import ‘rlang::exprs’ by ‘Biobase::exprs’ when loading ‘SPONGE’
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘biomaRt::select’ by ‘dplyr::select’ when loading ‘SPONGE’
+Warning: replacing previous import ‘Biobase::combine’ by ‘dplyr::combine’ when loading ‘SPONGE’
+Warning: replacing previous import ‘cvms::font’ by ‘ggpubr::font’ when loading ‘SPONGE’
+Warning: replacing previous import ‘ggplot2::margin’ by ‘randomForest::margin’ when loading ‘SPONGE’
+Warning: replacing previous import ‘dplyr::combine’ by ‘randomForest::combine’ when loading ‘SPONGE’
+Warning: replacing previous import ‘Biobase::exprs’ by ‘rlang::exprs’ when loading ‘SPONGE’
+Warning: replacing previous import ‘rlang::exprs’ by ‘Biobase::exprs’ when loading ‘SPONGE’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘miRspongeR’ as ‘miRspongeR_2.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (miRspongeR)
+
+The downloaded source packages are in
+	‘/tmp/RtmpyTnaHu/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m33.731s
+user	0m39.842s
+sys	0m8.211s

@@ -189,6 +189,7 @@ ChromHeatMap
 ChromSCape
 CiteFuse
 ClassifyR
+CleanUpRNAseq
 Clomial
 CluMSID
 ClustAll
@@ -372,6 +373,7 @@ GenomicAlignments
 GenomicDataCommons
 GenomicDistributions
 GenomicFeatures
+GenomicInteractionNodes
 GenomicPlot
 GenomicRanges
 GenomicScores
@@ -559,6 +561,7 @@ Mfuzz
 MiChip
 MiPP
 MiRaGE
+MicrobiomeProfiler
 MicrobiotaProcess
 ModCon
 Modstrings
@@ -713,6 +716,7 @@ RSVSim
 RSeqAn
 RTCA
 RTCGA
+RTCGAToolbox
 RTN
 RTNduals
 RTNsurvival
@@ -844,6 +848,7 @@ SpectraQL
 SpectralTAD
 SpliceWiz
 SplicingFactory
+SplicingGraphs
 SpotClean
 SpotSweeper
 StabMap
@@ -1016,6 +1021,7 @@ biodbUniprot
 biomaRt
 biomformat
 biotmle
+blacksheepr
 blima
 bluster
 bnbc
@@ -1089,6 +1095,7 @@ concordexR
 condiments
 consICA
 consensus
+consensusDE
 consensusSeekeR
 convert
 copa
@@ -1452,7 +1459,9 @@ miRLAB
 miRNAmeConverter
 miRNApath
 miRNAtap
+miRSM
 miRcomp
+miRspongeR
 mia
 miaSim
 miaViz
@@ -1503,6 +1512,7 @@ multtest
 mumosa
 muscat
 muscle
+mygene
 mzID
 mzR
 ncRNAtools
@@ -1557,6 +1567,7 @@ parody
 partCNV
 pathRender
 pathifier
+pathlinkR
 pathview
 pathwayPCA
 pcaMethods
