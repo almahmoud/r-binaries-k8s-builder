@@ -1998,3 +1998,5 @@ scanMiRApp
 singleCellTK
 terraTCGAdata
 tximeta
+EventPointer
+Rhisat2

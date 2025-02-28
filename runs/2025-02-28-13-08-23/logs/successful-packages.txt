@@ -1880,3 +1880,10 @@ DeMixT
 kissDE
 RgnTX
 transcriptR
+borealis
+drugTargetInteractions
+magpie
+metaseqR2
+methylInheritance
+SGSeq
+strandCheckR
