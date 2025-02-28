@@ -164,6 +164,7 @@ OpenStats
 Oscope
 PANR
 PCAN
+PROPER
 PROcess
 Path2PPI
 PathNet
@@ -252,9 +253,11 @@ biodbHmdb
 biodbNcbi
 biodbNci
 biodbUniprot
+biomformat
 brendaDb
 bugsigdbr
 calm
+cbpManager
 ccrepe
 ceRNAnetsim
 cellmigRation
@@ -281,6 +284,7 @@ decontam
 decoupleR
 deltaGseg
 demuxmix
+densvis
 diffGeneAnalysis
 diffuStats
 dir.expiry
@@ -292,6 +296,7 @@ edgeR
 eds
 epistasisGA
 epivizrServer
+erccdashboard
 fCI
 faers
 fastreeR
@@ -315,6 +320,9 @@ genomes
 geva
 ggkegg
 ggtree
+ggtreeDendro
+ggtreeExtra
+ggtreeSpace
 globalSeq
 gpls
 granulator
@@ -361,6 +369,7 @@ metabinR
 metahdep
 metapod
 metapone
+methylMnM
 mgsa
 miRBaseConverter
 miRNApath
@@ -416,6 +425,7 @@ rsemmed
 sSeq
 sagenhaft
 scFeatureFilter
+scMitoMut
 scRecover
 scShapes
 scTHI
@@ -431,6 +441,7 @@ sights
 similaRpeak
 sincell
 sizepower
+snifter
 snm
 sparseMatrixStats
 sparsenetgls
@@ -447,6 +458,7 @@ switchBox
 synergyfinder
 synlet
 systemPipeShiny
+tanggle
 ternarynet
 tidysbml
 timeOmics
@@ -457,6 +469,7 @@ topconfects
 treeio
 tripr
 ttgsea
+tweeDEseq
 tximport
 vbmp
 veloviz

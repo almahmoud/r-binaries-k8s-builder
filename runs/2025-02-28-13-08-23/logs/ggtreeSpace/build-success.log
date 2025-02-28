@@ -1,0 +1,81 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ggtreeSpace'
+also installing the dependencies ‘clusterGeneration’, ‘DEoptim’, ‘optimParallel’, ‘phytools’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/clusterGeneration_1.3.8.tar.gz'
+Content type 'binary/octet-stream' length 269583 bytes (263 KB)
+==================================================
+downloaded 263 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DEoptim_2.2-8.tar.gz'
+Content type 'binary/octet-stream' length 124090 bytes (121 KB)
+==================================================
+downloaded 121 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/optimParallel_1.0-2.tar.gz'
+Content type 'binary/octet-stream' length 200054 bytes (195 KB)
+==================================================
+downloaded 195 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/phytools_2.4-4.tar.gz'
+Content type 'binary/octet-stream' length 2798923 bytes (2.7 MB)
+==================================================
+downloaded 2.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ggtreeSpace_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 511572 bytes (499 KB)
+==================================================
+downloaded 499 KB
+
+* installing *binary* package ‘clusterGeneration’ ...
+* ‘clusterGeneration’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘clusterGeneration’ as ‘clusterGeneration_1.3.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clusterGeneration)
+* installing *binary* package ‘DEoptim’ ...
+* ‘DEoptim’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DEoptim’ as ‘DEoptim_2.2-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DEoptim)
+* installing *binary* package ‘optimParallel’ ...
+* ‘optimParallel’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘optimParallel’ as ‘optimParallel_1.0-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (optimParallel)
+* installing *binary* package ‘phytools’ ...
+* ‘phytools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘phytools’ as ‘phytools_2.4-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (phytools)
+* installing *source* package ‘ggtreeSpace’ ...
+** package ‘ggtreeSpace’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ggtreeSpace’ as ‘ggtreeSpace_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggtreeSpace)
+
+The downloaded source packages are in
+	‘/tmp/RtmphOMa8C/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m50.227s
+user	0m12.261s
+sys	0m4.545s

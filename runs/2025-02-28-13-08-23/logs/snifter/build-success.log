@@ -1,0 +1,38 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'snifter'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/snifter_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 728254 bytes (711 KB)
+==================================================
+downloaded 711 KB
+
+* installing *source* package ‘snifter’ ...
+** package ‘snifter’ successfully unpacked and MD5 sums checked
+** using non-staged installation via StagedInstall field
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* creating tarball
+packaged installation of ‘snifter’ as ‘snifter_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (snifter)
+
+The downloaded source packages are in
+	‘/tmp/Rtmps5kXnE/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m31.693s
+user	0m8.834s
+sys	0m3.287s

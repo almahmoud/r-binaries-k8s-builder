@@ -464,3 +464,16 @@ OLINgui
 ROSeq
 Rvisdiff
 ScreenR
+biomformat
+cbpManager
+densvis
+erccdashboard
+ggtreeDendro
+ggtreeExtra
+ggtreeSpace
+methylMnM
+PROPER
+scMitoMut
+snifter
+tanggle
+tweeDEseq

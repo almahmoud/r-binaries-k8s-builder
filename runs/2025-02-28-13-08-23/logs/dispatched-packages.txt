@@ -490,3 +490,4 @@ sitePath
 snifter
 tanggle
 tweeDEseq
+SIMD
