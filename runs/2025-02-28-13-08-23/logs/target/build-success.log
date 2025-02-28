@@ -1,0 +1,93 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'target'
+also installing the dependencies ‘showimage’, ‘debugme’, ‘parsedate’, ‘webdriver’, ‘shinytest’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/showimage_1.0.0.tar.gz'
+Content type 'binary/octet-stream' length 11348 bytes (11 KB)
+==================================================
+downloaded 11 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/debugme_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 41846 bytes (40 KB)
+==================================================
+downloaded 40 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/parsedate_1.3.2.tar.gz'
+Content type 'binary/octet-stream' length 42864 bytes (41 KB)
+==================================================
+downloaded 41 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/webdriver_1.0.6.tar.gz'
+Content type 'binary/octet-stream' length 196906 bytes (192 KB)
+==================================================
+downloaded 192 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/shinytest_1.6.1.tar.gz'
+Content type 'binary/octet-stream' length 417228 bytes (407 KB)
+==================================================
+downloaded 407 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/target_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 3248622 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+* installing *binary* package ‘showimage’ ...
+* ‘showimage’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘showimage’ as ‘showimage_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (showimage)
+* installing *binary* package ‘debugme’ ...
+* ‘debugme’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘debugme’ as ‘debugme_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (debugme)
+* installing *binary* package ‘parsedate’ ...
+* ‘parsedate’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘parsedate’ as ‘parsedate_1.3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (parsedate)
+* installing *source* package ‘target’ ...
+** package ‘target’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘target’ as ‘target_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (target)
+* installing *binary* package ‘webdriver’ ...
+* ‘webdriver’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘webdriver’ as ‘webdriver_1.0.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (webdriver)
+* installing *binary* package ‘shinytest’ ...
+* ‘shinytest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shinytest’ as ‘shinytest_1.6.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinytest)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp8Pmmqa/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m6.989s
+user	0m16.407s
+sys	0m4.241s

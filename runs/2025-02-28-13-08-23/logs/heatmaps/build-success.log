@@ -1,0 +1,61 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'heatmaps'
+also installing the dependency ‘BSgenome.Drerio.UCSC.danRer7’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Drerio.UCSC.danRer7_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 330303588 bytes (315.0 MB)
+==================================================
+downloaded 315.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/heatmaps_1.30.0.tar.gz'
+Content type 'application/x-gzip' length 8720380 bytes (8.3 MB)
+==================================================
+downloaded 8.3 MB
+
+* installing *source* package ‘BSgenome.Drerio.UCSC.danRer7’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package or namespace load failed for ‘rtracklayer’ in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]):
+ there is no package called ‘Rsamtools’
+Execution halted
+ERROR: lazy loading failed for package ‘BSgenome.Drerio.UCSC.danRer7’
+* removing ‘/mnt/library/BSgenome.Drerio.UCSC.danRer7’
+* installing *source* package ‘heatmaps’ ...
+** package ‘heatmaps’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘scale’ in package ‘heatmaps’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘heatmaps’ as ‘heatmaps_1.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (heatmaps)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp3H7Bkn/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘BSgenome.Drerio.UCSC.danRer7’ had non-zero exit status
+
+real	2m28.764s
+user	0m34.093s
+sys	0m7.079s

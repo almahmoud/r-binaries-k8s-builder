@@ -23,6 +23,7 @@ AnVILBilling
 AnVILGCP
 AnVILPublish
 AnVILWorkflow
+AnnotationDbi
 AnnotationFilter
 AssessORF
 BADER
@@ -118,6 +119,7 @@ DMRcaller
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
+DNAshapeR
 DRIMSeq
 DTA
 DeMAND
@@ -147,6 +149,7 @@ EnrichedHeatmap
 EpiDISH
 ExiMiR
 ExploreModelMatrix
+FELLA
 FGNet
 FISHalyseR
 FRGEpistasis
@@ -185,8 +188,11 @@ GeneSelectMMD
 GeneticsPed
 GenomAutomorphism
 GenomeInfoDb
+GenomicDataCommons
+GenomicDistributions
 GenomicRanges
 GenomicTuples
+GeomxTools
 GladiaTOX
 GrafGen
 GraphAT
@@ -238,6 +244,7 @@ LEA
 LOLA
 LPE
 LedPred
+LinTInd
 Linnorm
 LymphoSeq
 M3C
@@ -253,6 +260,7 @@ MMUPHin
 MOFA2
 MOGAMUN
 MPFE
+MSA2dist
 MSstats
 MSstatsBig
 MSstatsConvert
@@ -268,17 +276,20 @@ MassArray
 MassSpecWavelet
 MatrixGenerics
 MeasurementError.cor
+Melissa
 Mergeomics
 MetCirc
 MetID
 MetaCyto
 MetaboCoreUtils
 MethPed
+MethTargetedNGS
 MethylMix
 Mfuzz
 MiChip
 MiPP
 ModCon
+Modstrings
 MsBackendMassbank
 MsBackendMetaboLights
 MsBackendMgf
@@ -320,6 +331,7 @@ PROcess
 PWMEnrich
 Path2PPI
 PathNet
+PeacoQC
 Pedixplorer
 PepsNMR
 PhenStat
@@ -387,6 +399,7 @@ Rhdf5lib
 Rhtslib
 Rmagpie
 Rnits
+Rsamtools
 Rsubread
 Rtpca
 Rtreemix
@@ -398,6 +411,7 @@ SBMLR
 SCBN
 SCFA
 SELEX
+SIAMCAT
 SIMAT
 SIMD
 SIMLR
@@ -417,7 +431,9 @@ SamSPECTRAL
 ScaledMatrix
 Sconify
 ScreenR
+SeqArray
 SharedObject
+SigFuge
 SpaceMarkers
 SparseArray
 SpeCond
@@ -425,10 +441,12 @@ Spectra
 SpectraQL
 Streamer
 Structstrings
+SummarizedExperiment
 Summix
 SwathXtend
 SynExtend
 SynMut
+TDbasedUFE
 TFARM
 TMixClust
 TPP
@@ -439,6 +457,7 @@ TargetDecoy
 TargetScore
 TargetSearch
 TileDBArray
+TnT
 TrajectoryGeometry
 TreeAndLeaf
 TurboNorm
@@ -468,6 +487,7 @@ agilp
 alabaster.base
 alabaster.bumpy
 alabaster.matrix
+alabaster.ranges
 alabaster.schemas
 alabaster.string
 alevinQC
@@ -479,9 +499,11 @@ aroma.light
 arrayQuality
 assorthead
 bacon
+bamsignals
 banocc
 basilisk
 basilisk.utils
+baySeq
 bcSeq
 beachmat
 bioDist
@@ -511,6 +533,7 @@ cellscape
 cellxgenedp
 chihaya
 chopsticks
+chromDraw
 cisPath
 cleaver
 clevRvis
@@ -519,6 +542,7 @@ clst
 clstutils
 clustComp
 clusterStab
+cnvGSA
 coGPS
 coRdon
 cogena
@@ -530,6 +554,7 @@ convert
 copa
 covEB
 cqn
+crisprBase
 ctc
 ctsGE
 cyanoFilter
@@ -564,6 +589,7 @@ edgeR
 eds
 eiR
 epiNEM
+epialleleR
 epistasisGA
 epivizrServer
 erccdashboard
@@ -572,6 +598,7 @@ fabia
 factDesign
 faers
 fastreeR
+fastseg
 fdrame
 fedup
 fenr
@@ -617,12 +644,15 @@ gemini
 genArise
 geneClassifiers
 geneRecommender
+geneRxCluster
 geneplast
 genoCN
+genomeIntervals
 genomes
 geva
 ggkegg
 ggmsa
+ggseqalign
 ggtree
 ggtreeDendro
 ggtreeExtra
@@ -633,9 +663,11 @@ gpuMagic
 granulator
 graper
 graph
+gtrellis
 gypsum
 hapFabia
 hca
+heatmaps
 hierGWAS
 hierinf
 hmdbQuery
@@ -655,6 +687,8 @@ iPath
 iSeq
 ibh
 idpr
+idr2d
+igvShiny
 illuminaio
 immunoClust
 immunotation
@@ -674,6 +708,7 @@ lfa
 limma
 limmaGUI
 lmdme
+loci2path
 logicFS
 lpNet
 lpsymphony
@@ -692,6 +727,7 @@ matter
 mbQTL
 mdp
 mdqc
+megadepth
 messina
 metaCCA
 metaSeq
@@ -702,6 +738,7 @@ metagenomeSeq
 metahdep
 metapod
 metapone
+methimpute
 methylMnM
 mfa
 mgsa
@@ -709,6 +746,8 @@ miRBaseConverter
 miRNApath
 miRcomp
 microRNA
+microbiome
+microbiomeDASim
 mina
 minet
 mirTarRnaSeq
@@ -727,6 +766,7 @@ multtest
 muscle
 mzID
 mzR
+ncRNAtools
 ncdfFlow
 ndexr
 nempi
@@ -739,12 +779,16 @@ normalize450K
 nuCpos
 nucleoSim
 occugene
+odseq
 omada
 ompBAM
+oncoscanR
 onlineFDR
+openPrimeR
 oppti
 optimalFlow
 orthogene
+packFinder
 paircompviz
 pandaR
 panp
@@ -754,6 +798,7 @@ pathifier
 pathwayPCA
 pcaMethods
 pengls
+pepStat
 pepXMLTab
 pfamAnalyzeR
 pgca
@@ -771,7 +816,9 @@ plotGrouper
 pmm
 powerTCR
 ppcseq
+pqsfinder
 preprocessCore
+procoil
 profileScoreDist
 progeny
 projectR
@@ -791,6 +838,7 @@ rRDP
 rSWeeP
 rWikiPathways
 rain
+ramr
 randPack
 randRotation
 rawDiag
@@ -798,6 +846,7 @@ rawrr
 rbsurv
 rcellminer
 rebook
+reconsi
 retrofit
 rexposome
 rfaRm
@@ -818,6 +867,7 @@ rsbml
 rsemmed
 sSeq
 sagenhaft
+sangerseqR
 sarks
 scBubbletree
 scFeatureFilter
@@ -826,6 +876,7 @@ scPCA
 scRecover
 scShapes
 scTHI
+scanMiR
 scatterHatch
 scde
 scoup
@@ -870,6 +921,7 @@ synergyfinder
 synlet
 systemPipeShiny
 tanggle
+target
 ternarynet
 tidyFlowCore
 tidysbml
@@ -880,9 +932,11 @@ timescape
 tkWidgets
 tomoseqr
 topconfects
+transite
 transomics2cytoscape
 treeio
 trio
+triplex
 tripr
 ttgsea
 tweeDEseq

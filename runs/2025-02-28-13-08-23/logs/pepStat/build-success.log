@@ -1,0 +1,93 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'pepStat'
+also installing the dependencies ‘pepDat’, ‘Pviz’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/pepDat_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 2788957 bytes (2.7 MB)
+==================================================
+downloaded 2.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Pviz_1.40.0.tar.gz'
+Content type 'application/x-gzip' length 209009 bytes (204 KB)
+==================================================
+downloaded 204 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/pepStat_1.40.0.tar.gz'
+Content type 'application/x-gzip' length 328919 bytes (321 KB)
+==================================================
+downloaded 321 KB
+
+* installing *source* package ‘pepDat’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pepDat’ as ‘pepDat_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pepDat)
+* installing *source* package ‘Pviz’ ...
+** package ‘Pviz’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package or namespace load failed for ‘Gviz’ in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]):
+ there is no package called ‘Rsamtools’
+Execution halted
+ERROR: lazy loading failed for package ‘Pviz’
+* removing ‘/mnt/library/Pviz’
+* installing *source* package ‘pepStat’ ...
+** package ‘pepStat’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+No methods found in package ‘GenomicRanges’ for request: ‘mcols<-’ when loading ‘pepStat’
+No methods found in package ‘GenomicRanges’ for request: ‘mcols’ when loading ‘pepStat’
+No methods found in package ‘IRanges’ for request: ‘values<-’ when loading ‘pepStat’
+No methods found in package ‘IRanges’ for request: ‘values’ when loading ‘pepStat’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+No methods found in package ‘GenomicRanges’ for request: ‘mcols<-’ when loading ‘pepStat’
+No methods found in package ‘GenomicRanges’ for request: ‘mcols’ when loading ‘pepStat’
+No methods found in package ‘IRanges’ for request: ‘values<-’ when loading ‘pepStat’
+No methods found in package ‘IRanges’ for request: ‘values’ when loading ‘pepStat’
+** testing if installed package can be loaded from final location
+No methods found in package ‘GenomicRanges’ for request: ‘mcols<-’ when loading ‘pepStat’
+No methods found in package ‘GenomicRanges’ for request: ‘mcols’ when loading ‘pepStat’
+No methods found in package ‘IRanges’ for request: ‘values<-’ when loading ‘pepStat’
+No methods found in package ‘IRanges’ for request: ‘values’ when loading ‘pepStat’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pepStat’ as ‘pepStat_1.40.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pepStat)
+
+The downloaded source packages are in
+	‘/tmp/RtmpsqVdF2/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘Pviz’ had non-zero exit status
+
+real	2m20.124s
+user	0m29.805s
+sys	0m6.397s

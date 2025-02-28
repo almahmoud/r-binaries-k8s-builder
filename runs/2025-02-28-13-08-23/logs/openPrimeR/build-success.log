@@ -1,0 +1,80 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'openPrimeR'
+also installing the dependencies ‘lpSolveAPI’, ‘uniqtag’, ‘learnr’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lpSolveAPI_5.5.2.0-17.12.tar.gz'
+Content type 'binary/octet-stream' length 610091 bytes (595 KB)
+==================================================
+downloaded 595 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/uniqtag_1.0.1.tar.gz'
+Content type 'binary/octet-stream' length 20895 bytes (20 KB)
+==================================================
+downloaded 20 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/learnr_0.11.5.tar.gz'
+Content type 'binary/octet-stream' length 1651562 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/openPrimeR_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 2200893 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+* installing *binary* package ‘lpSolveAPI’ ...
+* ‘lpSolveAPI’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lpSolveAPI’ as ‘lpSolveAPI_5.5.2.0-17.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lpSolveAPI)
+* installing *binary* package ‘uniqtag’ ...
+* ‘uniqtag’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘uniqtag’ as ‘uniqtag_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (uniqtag)
+* installing *binary* package ‘learnr’ ...
+* ‘learnr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘learnr’ as ‘learnr_0.11.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (learnr)
+* installing *source* package ‘openPrimeR’ ...
+** package ‘openPrimeR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+Warning: namespace ‘distr’ is not available and has been replaced
+by .GlobalEnv when processing object ‘cvg.ref.dists’
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning in fun(libname, pkgname) :
+  'Pandoc' is non-functional, since 'pdflatex' is not installed on your system.
+The number of cores for was set to '2' by 'parallel_setup()'.
+** testing if installed package can be loaded from final location
+Warning in fun(libname, pkgname) :
+  'Pandoc' is non-functional, since 'pdflatex' is not installed on your system.
+The number of cores for was set to '2' by 'parallel_setup()'.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘openPrimeR’ as ‘openPrimeR_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (openPrimeR)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpv0wxtu/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m28.773s
+user	0m28.488s
+sys	0m5.694s

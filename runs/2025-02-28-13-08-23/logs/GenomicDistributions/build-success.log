@@ -1,0 +1,63 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'GenomicDistributions'
+also installing the dependency ‘GenomicDistributionsData’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/GenomicDistributionsData_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 234232 bytes (228 KB)
+==================================================
+downloaded 228 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicDistributions_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 6556880 bytes (6.3 MB)
+==================================================
+downloaded 6.3 MB
+
+* installing *source* package ‘GenomicDistributionsData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GenomicDistributionsData’ as ‘GenomicDistributionsData_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GenomicDistributionsData)
+* installing *source* package ‘GenomicDistributions’ ...
+** package ‘GenomicDistributions’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GenomicDistributions’ as ‘GenomicDistributions_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GenomicDistributions)
+
+The downloaded source packages are in
+	‘/tmp/RtmpZYcz9R/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m49.862s
+user	0m47.897s
+sys	0m7.466s

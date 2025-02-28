@@ -1,0 +1,93 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'packFinder'
+also installing the dependencies ‘phylogram’, ‘downloader’, ‘kmer’, ‘biomartr’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/phylogram_2.1.0.tar.gz'
+Content type 'binary/octet-stream' length 451164 bytes (440 KB)
+==================================================
+downloaded 440 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/downloader_0.4.tar.gz'
+Content type 'binary/octet-stream' length 22309 bytes (21 KB)
+==================================================
+downloaded 21 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/kmer_1.1.2.tar.gz'
+Content type 'binary/octet-stream' length 237405 bytes (231 KB)
+==================================================
+downloaded 231 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/biomartr_1.0.7.tar.gz'
+Content type 'application/x-tar' length 314841 bytes (307 KB)
+==================================================
+downloaded 307 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/packFinder_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 1207311 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+* installing *binary* package ‘phylogram’ ...
+* ‘phylogram’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘phylogram’ as ‘phylogram_2.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (phylogram)
+* installing *binary* package ‘downloader’ ...
+* ‘downloader’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘downloader’ as ‘downloader_0.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (downloader)
+* installing *binary* package ‘kmer’ ...
+* ‘kmer’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘kmer’ as ‘kmer_1.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kmer)
+* installing *source* package ‘biomartr’ ...
+** package ‘biomartr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biomartr’ as ‘biomartr_1.0.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biomartr)
+* installing *source* package ‘packFinder’ ...
+** package ‘packFinder’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘packFinder’ as ‘packFinder_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (packFinder)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp6wPH3v/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m32.876s
+user	0m22.888s
+sys	0m4.961s

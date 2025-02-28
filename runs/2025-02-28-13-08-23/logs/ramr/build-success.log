@@ -1,0 +1,81 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ramr'
+also installing the dependencies ‘regioneR’, ‘ExtDist’, ‘annotatr’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/regioneR_1.38.0.tar.gz'
+Content type 'application/x-gzip' length 2073712 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ExtDist_0.7-2.tar.gz'
+Content type 'binary/octet-stream' length 585835 bytes (572 KB)
+==================================================
+downloaded 572 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/annotatr_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 2775427 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ramr_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 2692875 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+* installing *source* package ‘regioneR’ ...
+** package ‘regioneR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]) : 
+  there is no package called ‘Rsamtools’
+Calls: <Anonymous> ... loadNamespace -> withRestarts -> withOneRestart -> doWithOneRestart
+Execution halted
+ERROR: lazy loading failed for package ‘regioneR’
+* removing ‘/mnt/library/regioneR’
+* installing *binary* package ‘ExtDist’ ...
+* ‘ExtDist’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ExtDist’ as ‘ExtDist_0.7-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ExtDist)
+ERROR: dependency ‘regioneR’ is not available for package ‘annotatr’
+* removing ‘/mnt/library/annotatr’
+* installing *source* package ‘ramr’ ...
+** package ‘ramr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ramr’ as ‘ramr_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ramr)
+
+The downloaded source packages are in
+	‘/tmp/RtmpvggCsm/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘regioneR’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘annotatr’ had non-zero exit status
+
+real	2m12.201s
+user	0m19.586s
+sys	0m4.712s
