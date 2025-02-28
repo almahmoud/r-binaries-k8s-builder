@@ -1733,3 +1733,10 @@ Rmmquant
 RUVSeq
 slalom
 XDE
+DEP
+esATAC
+fCCAC
+FEAST
+HoloFoodR
+iSEEtree
+VAExprs

@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1611 packages built successfully
+- 1618 packages built successfully
 - 3 packages failed to build
-- 495 packages not yet processed
+- 488 packages not yet processed
 
 ## Failed Builds (3)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
@@ -15,7 +15,7 @@
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
-## Successfully Built (1611)
+## Successfully Built (1618)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                     |
@@ -1629,8 +1629,15 @@
 | [covRNA](https://bioconductor.org/packages/3.20/bioc/html/covRNA.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/covRNA/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/covRNA)                     |
 | [preciseTAD](https://bioconductor.org/packages/3.20/bioc/html/preciseTAD.html)                                 | Built    | [Log](runs/2025-02-28-13-08-23/logs/preciseTAD/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/preciseTAD)                 |
 | [slalom](https://bioconductor.org/packages/3.20/bioc/html/slalom.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/slalom/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/slalom)                     |
+| [DEP](https://bioconductor.org/packages/3.20/bioc/html/DEP.html)                                               | Built    | [Log](runs/2025-02-28-13-08-23/logs/DEP/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DEP)                        |
+| [FEAST](https://bioconductor.org/packages/3.20/bioc/html/FEAST.html)                                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/FEAST/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/FEAST)                      |
+| [HoloFoodR](https://bioconductor.org/packages/3.20/bioc/html/HoloFoodR.html)                                   | Built    | [Log](runs/2025-02-28-13-08-23/logs/HoloFoodR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HoloFoodR)                  |
+| [VAExprs](https://bioconductor.org/packages/3.20/bioc/html/VAExprs.html)                                       | Built    | [Log](runs/2025-02-28-13-08-23/logs/VAExprs/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VAExprs)                    |
+| [esATAC](https://bioconductor.org/packages/3.20/bioc/html/esATAC.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/esATAC/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/esATAC)                     |
+| [fCCAC](https://bioconductor.org/packages/3.20/bioc/html/fCCAC.html)                                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/fCCAC/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fCCAC)                      |
+| [iSEEtree](https://bioconductor.org/packages/3.20/bioc/html/iSEEtree.html)                                     | Built    | [Log](runs/2025-02-28-13-08-23/logs/iSEEtree/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iSEEtree)                   |
 
-## Not Yet Processed (495)
+## Not Yet Processed (488)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1690,7 +1697,6 @@
 | [CytoPipelineGUI](https://bioconductor.org/packages/3.20/bioc/html/CytoPipelineGUI.html)                         | Unprocessed |
 | [DAMEfinder](https://bioconductor.org/packages/3.20/bioc/html/DAMEfinder.html)                                   | Unprocessed |
 | [DAPAR](https://bioconductor.org/packages/3.20/bioc/html/DAPAR.html)                                             | Unprocessed |
-| [DEP](https://bioconductor.org/packages/3.20/bioc/html/DEP.html)                                                 | Unprocessed |
 | [DEScan2](https://bioconductor.org/packages/3.20/bioc/html/DEScan2.html)                                         | Unprocessed |
 | [DEXSeq](https://bioconductor.org/packages/3.20/bioc/html/DEXSeq.html)                                           | Unprocessed |
 | [DMCFB](https://bioconductor.org/packages/3.20/bioc/html/DMCFB.html)                                             | Unprocessed |
@@ -1715,7 +1721,6 @@
 | [EpipwR](https://bioconductor.org/packages/3.20/bioc/html/EpipwR.html)                                           | Unprocessed |
 | [EventPointer](https://bioconductor.org/packages/3.20/bioc/html/EventPointer.html)                               | Unprocessed |
 | [ExperimentHubData](https://bioconductor.org/packages/3.20/bioc/html/ExperimentHubData.html)                     | Unprocessed |
-| [FEAST](https://bioconductor.org/packages/3.20/bioc/html/FEAST.html)                                             | Unprocessed |
 | [FLAMES](https://bioconductor.org/packages/3.20/bioc/html/FLAMES.html)                                           | Unprocessed |
 | [FRASER](https://bioconductor.org/packages/3.20/bioc/html/FRASER.html)                                           | Unprocessed |
 | [FastqCleaner](https://bioconductor.org/packages/3.20/bioc/html/FastqCleaner.html)                               | Unprocessed |
@@ -1745,7 +1750,6 @@
 | [HiContacts](https://bioconductor.org/packages/3.20/bioc/html/HiContacts.html)                                   | Unprocessed |
 | [HiCool](https://bioconductor.org/packages/3.20/bioc/html/HiCool.html)                                           | Unprocessed |
 | [HiLDA](https://bioconductor.org/packages/3.20/bioc/html/HiLDA.html)                                             | Unprocessed |
-| [HoloFoodR](https://bioconductor.org/packages/3.20/bioc/html/HoloFoodR.html)                                     | Unprocessed |
 | [IMAS](https://bioconductor.org/packages/3.20/bioc/html/IMAS.html)                                               | Unprocessed |
 | [INSPEcT](https://bioconductor.org/packages/3.20/bioc/html/INSPEcT.html)                                         | Unprocessed |
 | [IONiseR](https://bioconductor.org/packages/3.20/bioc/html/IONiseR.html)                                         | Unprocessed |
@@ -1860,7 +1864,6 @@
 | [UPDhmm](https://bioconductor.org/packages/3.20/bioc/html/UPDhmm.html)                                           | Unprocessed |
 | [Ularcirc](https://bioconductor.org/packages/3.20/bioc/html/Ularcirc.html)                                       | Unprocessed |
 | [Uniquorn](https://bioconductor.org/packages/3.20/bioc/html/Uniquorn.html)                                       | Unprocessed |
-| [VAExprs](https://bioconductor.org/packages/3.20/bioc/html/VAExprs.html)                                         | Unprocessed |
 | [VCFArray](https://bioconductor.org/packages/3.20/bioc/html/VCFArray.html)                                       | Unprocessed |
 | [VanillaICE](https://bioconductor.org/packages/3.20/bioc/html/VanillaICE.html)                                   | Unprocessed |
 | [VarCon](https://bioconductor.org/packages/3.20/bioc/html/VarCon.html)                                           | Unprocessed |
@@ -1954,10 +1957,8 @@
 | [epivizrData](https://bioconductor.org/packages/3.20/bioc/html/epivizrData.html)                                 | Unprocessed |
 | [epivizrStandalone](https://bioconductor.org/packages/3.20/bioc/html/epivizrStandalone.html)                     | Unprocessed |
 | [erma](https://bioconductor.org/packages/3.20/bioc/html/erma.html)                                               | Unprocessed |
-| [esATAC](https://bioconductor.org/packages/3.20/bioc/html/esATAC.html)                                           | Unprocessed |
 | [escape](https://bioconductor.org/packages/3.20/bioc/html/escape.html)                                           | Unprocessed |
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                                   | Unprocessed |
-| [fCCAC](https://bioconductor.org/packages/3.20/bioc/html/fCCAC.html)                                             | Unprocessed |
 | [fcScan](https://bioconductor.org/packages/3.20/bioc/html/fcScan.html)                                           | Unprocessed |
 | [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                               | Unprocessed |
 | [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                                           | Unprocessed |
@@ -1979,7 +1980,6 @@
 | [iCNV](https://bioconductor.org/packages/3.20/bioc/html/iCNV.html)                                               | Unprocessed |
 | [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                                           | Unprocessed |
 | [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                                     | Unprocessed |
-| [iSEEtree](https://bioconductor.org/packages/3.20/bioc/html/iSEEtree.html)                                       | Unprocessed |
 | [icetea](https://bioconductor.org/packages/3.20/bioc/html/icetea.html)                                           | Unprocessed |
 | [ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)                                             | Unprocessed |
 | [igvR](https://bioconductor.org/packages/3.20/bioc/html/igvR.html)                                               | Unprocessed |
