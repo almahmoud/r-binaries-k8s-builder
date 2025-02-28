@@ -1,3 +1,11 @@
-GSEABenchmarkeR
-msmsTests
-zenith
+CAMERA
+EGSEA
+bandle
+cliqueMS
+cosmiq
+escape
+ncGTW
+octad
+oppar
+pRolocGUI
+squallms

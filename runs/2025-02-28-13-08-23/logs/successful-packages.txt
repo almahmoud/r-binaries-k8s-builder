@@ -1785,3 +1785,11 @@ RadioGx
 Rbec
 RMassBank
 RTNsurvival
+BSgenomeForge
+GSVA
+omXplore
+pRoloc
+ptairMS
+qPLEXanalyzer
+tradeSeq
+xcms

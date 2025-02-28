@@ -55,6 +55,7 @@ BPRMeth
 BRAIN
 BREW3R.r
 BSgenome
+BSgenomeForge
 BUMHMM
 BUS
 BUScorrect
@@ -321,6 +322,7 @@ GSEABase
 GSEAlm
 GSEAmining
 GSRI
+GSVA
 GSgalgoR
 GWAS.BAYES
 GWASTools
@@ -1429,6 +1431,7 @@ nucleoSim
 occugene
 odseq
 oligoClasses
+omXplore
 omada
 omicRexposome
 omicade4
@@ -1446,6 +1449,7 @@ oposSOM
 oppti
 optimalFlow
 orthogene
+pRoloc
 packFinder
 padma
 pageRank
@@ -1507,9 +1511,11 @@ progeny
 projectR
 protGear
 proteinProfiles
+ptairMS
 pvac
 pvca
 pwalign
+qPLEXanalyzer
 qckitfastq
 qcmetrics
 qmtools
@@ -1741,6 +1747,7 @@ tomoseqr
 topGO
 topconfects
 tracktables
+tradeSeq
 transformGamPoi
 transite
 transomics2cytoscape
@@ -1779,6 +1786,7 @@ widgetTools
 wiggleplotr
 wpm
 wppi
+xcms
 xcore
 xenLite
 xmapbridge
