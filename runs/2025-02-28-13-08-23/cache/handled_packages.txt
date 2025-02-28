@@ -171,6 +171,7 @@ GeneRegionScan
 GeneSelectMMD
 GeneticsPed
 GenomeInfoDb
+GenomicRanges
 GladiaTOX
 GraphAT
 GraphAlignment
@@ -202,6 +203,7 @@ ISAnalytics
 ISoLDE
 Icens
 Informeasure
+InteractiveComplexHeatmap
 IntramiRExploreR
 IsoCorrectoR
 IsoCorrectoRGUI
@@ -264,6 +266,7 @@ NOISeq
 NPARC
 NTW
 NanoStringDiff
+NanoStringNCTools
 NanoTube
 NetPathMiner
 NormqPCR
@@ -285,6 +288,7 @@ PCAN
 PLPE
 PROPER
 PROcess
+PWMEnrich
 Path2PPI
 PathNet
 Pedixplorer
@@ -319,6 +323,7 @@ RNAseqCovarImpute
 ROC
 ROSeq
 ROTS
+ROntoTools
 RProtoBufLib
 RRHO
 RSeqAn
@@ -386,6 +391,7 @@ SpeCond
 Spectra
 SpectraQL
 Streamer
+Structstrings
 Summix
 SwathXtend
 SynMut
@@ -427,6 +433,7 @@ alabaster.bumpy
 alabaster.schemas
 alabaster.string
 alevinQC
+altcdfenvs
 annotationTools
 anota
 antiProfiles
@@ -437,6 +444,7 @@ bacon
 banocc
 basilisk
 basilisk.utils
+bcSeq
 bioDist
 bioassayR
 biobroom
@@ -462,8 +470,10 @@ ceRNAnetsim
 cellmigRation
 cellscape
 cellxgenedp
+chihaya
 chopsticks
 cisPath
+cleaver
 clevRvis
 clippda
 clst
@@ -473,6 +483,7 @@ clusterStab
 coGPS
 coRdon
 cogena
+cogeqc
 compSPOT
 compcodeR
 consensus
@@ -611,6 +622,7 @@ interacCircos
 interactiveDisplayBase
 iterativeBMA
 iterativeBMAsurv
+kebabs
 koinar
 lapmix
 ldblock
@@ -678,6 +690,7 @@ nempi
 nethet
 netprioR
 netresponse
+ngsReports
 nnNorm
 normalize450K
 nuCpos
@@ -701,8 +714,10 @@ pengls
 pepXMLTab
 pfamAnalyzeR
 pgca
+phantasusLite
 philr
 phosphonormalizer
+phyloseq
 piano
 pickgene
 planet
@@ -720,6 +735,7 @@ projectR
 proteinProfiles
 pvac
 pvca
+pwalign
 qckitfastq
 qcmetrics
 qpcrNorm
@@ -728,6 +744,7 @@ qusage
 qvalue
 rBLAST
 rBiopaxParser
+rSWeeP
 rWikiPathways
 rain
 randPack
@@ -750,20 +767,24 @@ rmelting
 rnaseqcomp
 roastgsa
 rols
+rprimer
 rpx
 rqubic
 rsbml
 rsemmed
 sSeq
 sagenhaft
+sarks
 scBubbletree
 scFeatureFilter
 scMitoMut
+scPCA
 scRecover
 scShapes
 scTHI
 scatterHatch
 scde
+scoup
 seahtrue
 semisup
 seq.hotSPOT
@@ -781,6 +802,7 @@ simona
 sincell
 sitePath
 sizepower
+sketchR
 snifter
 snm
 snpStats
@@ -814,6 +836,7 @@ timescape
 tkWidgets
 tomoseqr
 topconfects
+transomics2cytoscape
 treeio
 trio
 tripr

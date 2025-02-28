@@ -1,0 +1,117 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'Structstrings'
+also installing the dependencies ‘Modstrings’, ‘tRNA’, ‘tRNAscanImport’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Modstrings_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 845979 bytes (826 KB)
+==================================================
+downloaded 826 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/tRNA_1.24.0.tar.gz'
+Content type 'application/x-gzip' length 1298751 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/tRNAscanImport_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 871855 bytes (851 KB)
+==================================================
+downloaded 851 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Structstrings_1.22.1.tar.gz'
+Content type 'application/x-gzip' length 375663 bytes (366 KB)
+==================================================
+downloaded 366 KB
+
+* installing *source* package ‘Modstrings’ ...
+** package ‘Modstrings’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Modstrings’ as ‘Modstrings_1.22.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Modstrings)
+* installing *source* package ‘Structstrings’ ...
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/IRanges/include' -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c DotBracketDataFrame_class.c -o DotBracketDataFrame_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/IRanges/include' -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c IRanges_stubs.c -o IRanges_stubs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/IRanges/include' -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_Structstrings.c -o R_init_Structstrings.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/IRanges/include' -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c S4Vectors_stubs.c -o S4Vectors_stubs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/IRanges/include' -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c utils.c -o utils.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Structstrings.so DotBracketDataFrame_class.o IRanges_stubs.o R_init_Structstrings.o S4Vectors_stubs.o utils.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-Structstrings/00new/Structstrings/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Structstrings’ as ‘Structstrings_1.22.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Structstrings)
+* installing *source* package ‘tRNA’ ...
+** package ‘tRNA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tRNA’ as ‘tRNA_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tRNA)
+* installing *source* package ‘tRNAscanImport’ ...
+** package ‘tRNAscanImport’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tRNAscanImport’ as ‘tRNAscanImport_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tRNAscanImport)
+
+The downloaded source packages are in
+	‘/tmp/RtmpYfRZG1/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	3m1.857s
+user	1m10.761s
+sys	0m10.045s
