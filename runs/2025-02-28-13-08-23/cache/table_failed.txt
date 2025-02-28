@@ -1,0 +1,1 @@
+['[CFAssay](https://bioconductor.org/packages/3.20/bioc/html/CFAssay.html)', 'Failed', '[Log](runs/2025-02-28-13-08-23/logs/CFAssay/build-fail.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CFAssay)', 'Missing R dependency: BiocVersion']

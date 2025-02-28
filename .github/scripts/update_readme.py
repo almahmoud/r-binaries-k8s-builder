@@ -124,24 +124,69 @@ def save_handled_packages(run_id, handled_packages):
         for pkg in sorted(handled_packages):
             f.write(f"{pkg}\n")
 
+def load_table_cache(run_id):
+    """Load previously processed package results with their full table entries"""
+    cache_dir = f"runs/{run_id}/cache"
+    succeeded_file = f"{cache_dir}/table_succeeded.txt"
+    failed_file = f"{cache_dir}/table_failed.txt"
+    handled_file = f"{cache_dir}/handled_packages.txt"
+    
+    cache = {
+        "succeeded": [],  # List of [pkg_link, status, log_link, bbs] entries
+        "failed": [],    # List of [pkg_link, status, log_link, bbs, reasons] entries
+        "handled_packages": set()
+    }
+    
+    os.makedirs(cache_dir, exist_ok=True)
+    
+    if os.path.exists(succeeded_file):
+        with open(succeeded_file) as f:
+            for line in f:
+                if line.strip():
+                    cache["succeeded"].append(eval(line.strip()))
+    
+    if os.path.exists(failed_file):
+        with open(failed_file) as f:
+            for line in f:
+                if line.strip():
+                    cache["failed"].append(eval(line.strip()))
+    
+    if os.path.exists(handled_file):
+        with open(handled_file) as f:
+            cache["handled_packages"].update(line.strip() for line in f if line.strip())
+    
+    return cache
+
+def save_table_cache(run_id, cache):
+    """Save table entries and handled packages list"""
+    cache_dir = f"runs/{run_id}/cache"
+    succeeded_file = f"{cache_dir}/table_succeeded.txt"
+    failed_file = f"{cache_dir}/table_failed.txt"
+    handled_file = f"{cache_dir}/handled_packages.txt"
+    
+    with open(succeeded_file, 'w') as f:
+        for entry in cache["succeeded"]:
+            f.write(f"{entry}\n")
+    
+    with open(failed_file, 'w') as f:
+        for entry in cache["failed"]:
+            f.write(f"{entry}\n")
+    
+    with open(handled_file, 'w') as f:
+        for pkg in sorted(cache["handled_packages"]):
+            f.write(f"{pkg}\n")
+
 def main(run_id):
     print(f"Starting README update for run {run_id}")
     
-    # Load package info and version
+    # Load package info, version and existing table cache
     with open(f"runs/{run_id}/biocdeps.json") as f:
         packages = json.load(f)
     bioc_version = get_container_version(f"runs/{run_id}/CONTAINER_BASE_IMAGE.bioc")
-    handled_packages = load_cached_results(run_id)
+    cache = load_table_cache(run_id)
     
     print(f"Found {len(packages)} total packages in Bioconductor {bioc_version}")
-    print(f"Previously documented {len(handled_packages)} packages")
-    
-    # Initialize tables
-    tables = {
-        "succeeded": [],
-        "failed": [],
-        "unprocessed": []
-    }
+    print(f"Previously documented {len(cache['handled_packages'])} packages")
     
     # Get current status of all packages
     success_log = f"runs/{run_id}/logs/successful-packages.txt"
@@ -150,17 +195,14 @@ def main(run_id):
         with open(success_log) as f:
             successful = {line.strip() for line in f if line.strip()}
     
-    # Find failed packages
-    failed = set()
     failed_dir = f"runs/{run_id}/logs"
-    for pkg in packages:
-        if os.path.exists(f"{failed_dir}/{pkg}/build-fail.log"):
-            failed.add(pkg)
+    failed = {pkg for pkg in packages if os.path.exists(f"{failed_dir}/{pkg}/build-fail.log")}
     
     # Process only unhandled packages
-    new_packages = (successful | failed) - handled_packages
+    new_packages = (successful | failed) - cache["handled_packages"]
     print(f"Found {len(new_packages)} new packages to document")
     
+    # Process new packages
     for pkg in sorted(new_packages):
         pkg_url = f"https://bioconductor.org/packages/{bioc_version}/bioc/html/{pkg}.html"
         pkg_link = f"[{pkg}]({pkg_url})"
@@ -170,8 +212,8 @@ def main(run_id):
             log_path = f"runs/{run_id}/logs/{pkg}/build-success.log"
             log_link = f"[Log]({log_path})"
             bbs = get_bbs_status(pkg, bioc_version)
-            tables["succeeded"].append([pkg_link, "Built", log_link, bbs])
-            handled_packages.add(pkg)
+            cache["succeeded"].append([pkg_link, "Built", log_link, bbs])
+            cache["handled_packages"].add(pkg)
         
         elif pkg in failed:
             print(f"Analyzing failure for {pkg}...")
@@ -181,18 +223,25 @@ def main(run_id):
                 log_content = f.read()
             bbs = get_bbs_status(pkg, bioc_version)
             reasons = check_failure_reason(log_content)
-            tables["failed"].append([pkg_link, "Failed", log_link, bbs, "\n".join(reasons)])
-            handled_packages.add(pkg)
+            cache["failed"].append([pkg_link, "Failed", log_link, bbs, "\n".join(reasons)])
+            cache["handled_packages"].add(pkg)
+    
+    # Save updated cache
+    save_table_cache(run_id, cache)
+    
+    # Build final tables including cached entries
+    tables = {
+        "succeeded": cache["succeeded"],
+        "failed": cache["failed"],
+        "unprocessed": []
+    }
     
     # Add remaining packages as unprocessed
     for pkg in sorted(packages):
-        if pkg not in handled_packages:
+        if pkg not in cache["handled_packages"]:
             pkg_url = f"https://bioconductor.org/packages/{bioc_version}/bioc/html/{pkg}.html"
             pkg_link = f"[{pkg}]({pkg_url})"
             tables["unprocessed"].append([pkg_link, "Unprocessed"])
-    
-    # Save updated handled packages list
-    save_handled_packages(run_id, handled_packages)
     
     # Write README
     print("\nWriting README.md...")
