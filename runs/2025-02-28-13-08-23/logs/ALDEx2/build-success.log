@@ -1,0 +1,92 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ALDEx2'
+also installing the dependencies ‘NADA’, ‘gridpattern’, ‘zCompositions’, ‘directlabels’, ‘ggpattern’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/NADA_1.6-1.1.tar.gz'
+Content type 'binary/octet-stream' length 485999 bytes (474 KB)
+==================================================
+downloaded 474 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gridpattern_1.3.1.tar.gz'
+Content type 'binary/octet-stream' length 2384825 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/zCompositions_1.5.0-4.tar.gz'
+Content type 'binary/octet-stream' length 319336 bytes (311 KB)
+==================================================
+downloaded 311 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/directlabels_2024.1.21.tar.gz'
+Content type 'binary/octet-stream' length 910355 bytes (889 KB)
+==================================================
+downloaded 889 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggpattern_1.1.4.tar.gz'
+Content type 'binary/octet-stream' length 2600061 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ALDEx2_1.38.0.tar.gz'
+Content type 'application/x-gzip' length 3183791 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+* installing *binary* package ‘NADA’ ...
+* ‘NADA’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘NADA’ as ‘NADA_1.6-1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NADA)
+* installing *binary* package ‘gridpattern’ ...
+* ‘gridpattern’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gridpattern’ as ‘gridpattern_1.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gridpattern)
+* installing *binary* package ‘directlabels’ ...
+* ‘directlabels’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘directlabels’ as ‘directlabels_2024.1.21_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (directlabels)
+* installing *binary* package ‘zCompositions’ ...
+* ‘zCompositions’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘zCompositions’ as ‘zCompositions_1.5.0-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zCompositions)
+* installing *binary* package ‘ggpattern’ ...
+* ‘ggpattern’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggpattern’ as ‘ggpattern_1.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggpattern)
+* installing *source* package ‘ALDEx2’ ...
+** package ‘ALDEx2’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ALDEx2’ as ‘ALDEx2_1.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ALDEx2)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpep24FK/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m15.511s
+user	0m26.449s
+sys	0m6.229s

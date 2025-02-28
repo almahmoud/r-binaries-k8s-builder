@@ -1,0 +1,81 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'FuseSOM'
+also installing the dependencies ‘DataVisualizations’, ‘FCPS’, ‘analogue’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DataVisualizations_1.3.3.tar.gz'
+Content type 'binary/octet-stream' length 2247827 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/FCPS_1.3.4.tar.gz'
+Content type 'binary/octet-stream' length 4209943 bytes (4.0 MB)
+==================================================
+downloaded 4.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/analogue_0.17-7.tar.gz'
+Content type 'binary/octet-stream' length 1548641 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/FuseSOM_1.8.0.tar.gz'
+Content type 'application/x-gzip' length 2775925 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+* installing *binary* package ‘DataVisualizations’ ...
+* ‘DataVisualizations’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DataVisualizations’ as ‘DataVisualizations_1.3.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DataVisualizations)
+* installing *binary* package ‘analogue’ ...
+* ‘analogue’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘analogue’ as ‘analogue_0.17-7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (analogue)
+* installing *binary* package ‘FCPS’ ...
+* ‘FCPS’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘FCPS’ as ‘FCPS_1.3.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FCPS)
+* installing *source* package ‘FuseSOM’ ...
+** package ‘FuseSOM’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FuseSOM.c -o FuseSOM.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bmu.c -o bmu.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c relational.c -o relational.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c som.c -o som.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o FuseSOM.so FuseSOM.o bmu.o relational.o som.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-FuseSOM/00new/FuseSOM/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘FuseSOM’ as ‘FuseSOM_1.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FuseSOM)
+
+The downloaded source packages are in
+	‘/tmp/RtmpvXqmqC/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m0.195s
+user	0m27.961s
+sys	0m5.685s

@@ -1,0 +1,73 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'Dune'
+also installing the dependencies ‘transformr’, ‘gganimate’, ‘aricode’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/transformr_0.1.5.tar.gz'
+Content type 'binary/octet-stream' length 169320 bytes (165 KB)
+==================================================
+downloaded 165 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gganimate_1.0.9.tar.gz'
+Content type 'binary/octet-stream' length 2090773 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/aricode_1.0.3.tar.gz'
+Content type 'binary/octet-stream' length 97179 bytes (94 KB)
+==================================================
+downloaded 94 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Dune_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 2139297 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+* installing *binary* package ‘transformr’ ...
+* ‘transformr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘transformr’ as ‘transformr_0.1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (transformr)
+* installing *binary* package ‘aricode’ ...
+* ‘aricode’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘aricode’ as ‘aricode_1.0.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (aricode)
+* installing *binary* package ‘gganimate’ ...
+* ‘gganimate’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gganimate’ as ‘gganimate_1.0.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gganimate)
+* installing *source* package ‘Dune’ ...
+** package ‘Dune’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Dune’ as ‘Dune_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Dune)
+
+The downloaded source packages are in
+	‘/tmp/RtmpsCLaBq/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m46.504s
+user	0m26.888s
+sys	0m5.645s

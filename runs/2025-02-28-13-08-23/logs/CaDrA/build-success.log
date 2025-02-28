@@ -1,0 +1,63 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'CaDrA'
+also installing the dependency ‘knnmi’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/knnmi_1.0.tar.gz'
+Content type 'binary/octet-stream' length 60617 bytes (59 KB)
+==================================================
+downloaded 59 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/CaDrA_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 2502041 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+* installing *binary* package ‘knnmi’ ...
+* ‘knnmi’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘knnmi’ as ‘knnmi_1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (knnmi)
+* installing *source* package ‘CaDrA’ ...
+** package ‘CaDrA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c registerDynamicSymbol.c -o registerDynamicSymbol.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c score_fun.c -o score_fun.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o CaDrA.so registerDynamicSymbol.o score_fun.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-CaDrA/00new/CaDrA/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: no DISPLAY variable so Tk is not available
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: no DISPLAY variable so Tk is not available
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CaDrA’ as ‘CaDrA_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CaDrA)
+
+The downloaded source packages are in
+	‘/tmp/RtmprQ5Ff9/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m43.198s
+user	0m26.469s
+sys	0m5.417s

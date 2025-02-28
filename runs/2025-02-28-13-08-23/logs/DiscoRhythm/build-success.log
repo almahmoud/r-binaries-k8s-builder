@@ -1,0 +1,93 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'DiscoRhythm'
+also installing the dependencies ‘qvcalc’, ‘relimp’, ‘gnm’, ‘MetaCycle’, ‘ggExtra’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/qvcalc_1.0.4.tar.gz'
+Content type 'binary/octet-stream' length 47675 bytes (46 KB)
+==================================================
+downloaded 46 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/relimp_1.0-5.tar.gz'
+Content type 'binary/octet-stream' length 76545 bytes (74 KB)
+==================================================
+downloaded 74 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gnm_1.1-5.tar.gz'
+Content type 'binary/octet-stream' length 1015556 bytes (991 KB)
+==================================================
+downloaded 991 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/MetaCycle_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 1037451 bytes (1013 KB)
+==================================================
+downloaded 1013 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggExtra_0.10.1.tar.gz'
+Content type 'binary/octet-stream' length 354981 bytes (346 KB)
+==================================================
+downloaded 346 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DiscoRhythm_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 2645837 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+* installing *binary* package ‘qvcalc’ ...
+* ‘qvcalc’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘qvcalc’ as ‘qvcalc_1.0.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qvcalc)
+* installing *binary* package ‘relimp’ ...
+* ‘relimp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘relimp’ as ‘relimp_1.0-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (relimp)
+* installing *binary* package ‘ggExtra’ ...
+* ‘ggExtra’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggExtra’ as ‘ggExtra_0.10.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggExtra)
+* installing *binary* package ‘gnm’ ...
+* ‘gnm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gnm’ as ‘gnm_1.1-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gnm)
+* installing *binary* package ‘MetaCycle’ ...
+* ‘MetaCycle’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘MetaCycle’ as ‘MetaCycle_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MetaCycle)
+* installing *source* package ‘DiscoRhythm’ ...
+** package ‘DiscoRhythm’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DiscoRhythm’ as ‘DiscoRhythm_1.22.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DiscoRhythm)
+
+The downloaded source packages are in
+	‘/tmp/RtmpLFho7V/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m2.193s
+user	0m27.624s
+sys	0m6.273s

@@ -1,0 +1,72 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'GeneGeneInteR'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GeneGeneInteR_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 1340853 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+* installing *source* package ‘GeneGeneInteR’ ...
+** package ‘GeneGeneInteR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c chclust.cpp -o chclust.o
+In file included from chclust.cpp:7:
+chclust.cpp: In function ‘SEXPREC* chclust_c(SEXP, SEXP)’:
+chclust.cpp:43:29: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+   43 |          PROTECT(eMessage = allocVector(STRSXP, 1));
+      |                             ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+chclust.cpp:44:38: error: ‘mkChar’ was not declared in this scope
+   44 |          SET_STRING_ELT(eMessage, 0, mkChar("Error in Conslink C++ code"));
+      |                                      ^~~~~~
+chclust.cpp:50:29: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+   50 |          PROTECT(eMessage = allocVector(STRSXP, 1));
+      |                             ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+chclust.cpp:51:38: error: ‘mkChar’ was not declared in this scope
+   51 |          SET_STRING_ELT(eMessage, 0, mkChar("Error in ConISS C++ code"));
+      |                                      ^~~~~~
+chclust.cpp:56:26: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+   56 |       PROTECT(eMessage = allocVector(STRSXP, 1));
+      |                          ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+chclust.cpp:57:35: error: ‘mkChar’ was not declared in this scope
+   57 |       SET_STRING_ELT(eMessage, 0, mkChar("Unknown clustering method"));
+      |                                   ^~~~~~
+chclust.cpp:61:20: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+   61 |    PROTECT(sDend = allocVector(REALSXP, nr-1));
+      |                    ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+make: *** [/usr/local/lib/R/etc/Makeconf:204: chclust.o] Error 1
+ERROR: compilation failed for package ‘GeneGeneInteR’
+* removing ‘/mnt/library/GeneGeneInteR’
+
+The downloaded source packages are in
+	‘/tmp/RtmpXgpBUn/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘GeneGeneInteR’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	1m29.402s
+user	0m8.241s
+sys	0m2.859s
