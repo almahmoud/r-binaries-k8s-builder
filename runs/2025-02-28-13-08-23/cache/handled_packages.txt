@@ -1,3 +1,4 @@
+ABSSeq
 AMOUNTAIN
 ARRmNormalization
 ASAFE
@@ -5,6 +6,7 @@ ASEB
 ASGSCA
 ASSET
 AlphaBeta
+AlphaMissenseR
 AnVIL
 AnVILAz
 AnVILBase
@@ -12,6 +14,7 @@ AnVILBilling
 BADER
 BEclear
 BG2
+BUS
 BeadDataPackR
 BiRewire
 BioCartaImage
@@ -26,6 +29,7 @@ BufferedMatrixMethods
 CARNIVAL
 CFAssay
 CGEN
+CNAnorm
 CONSTANd
 COSNet
 CausalR
@@ -34,13 +38,17 @@ Clomial
 ClusterJudge
 ClusterSignificance
 ComPrAn
+CytoGLMM
 DART
 DCATS
+DEqMS
+DEsingle
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
 DTA
 DeMAND
+DepInfeR
 DiffLogo
 Director
 DriverNet
@@ -118,7 +126,9 @@ NetPathMiner
 NuPoP
 OSAT
 Omixer
+OmnipathR
 OpenStats
+PANR
 Path2PPI
 PathNet
 PepsNMR
@@ -135,6 +145,7 @@ RImmPort
 RLMM
 RLassoCox
 RNASeqPower
+RNAdecay
 ROC
 RProtoBufLib
 RRHO
@@ -157,16 +168,20 @@ SMAD
 SNAGEE
 SNPediaR
 STRINGdb
+SUITOR
 SamSPECTRAL
 Summix
 SwathXtend
+TPP2D
 TSAR
 TargetScore
 TargetSearch
 TrajectoryGeometry
+TreeAndLeaf
 VERSO
 VennDetail
 a4Reporting
+abseqR
 acde
 affxparser
 agilp
@@ -174,6 +189,7 @@ alabaster.schemas
 antiProfiles
 aroma.light
 banocc
+basilisk.utils
 biobtreeR
 biocroxytest
 biocthis
@@ -209,6 +225,7 @@ dks
 drawProteins
 dupRadar
 easyreporting
+epistasisGA
 epivizrServer
 fCI
 faers
@@ -229,6 +246,7 @@ geneplast
 genoCN
 genomes
 geva
+ggkegg
 globalSeq
 gpls
 granulator
@@ -241,8 +259,11 @@ hypeR
 iASeq
 iBBiG
 iCARE
+iCOBRA
+iChip
 iClusterPlus
 iGC
+iPath
 iSeq
 ibh
 illuminaio
@@ -260,6 +281,7 @@ lpsymphony
 maCorrPlot
 magrene
 mapscape
+marray
 matchBox
 mdp
 mdqc
@@ -276,12 +298,15 @@ minet
 mirTarRnaSeq
 mistyR
 mitch
+mixOmics
+multiClust
 netprioR
 nuCpos
 occugene
 omada
 ompBAM
 onlineFDR
+oppti
 parody
 pathifier
 pathwayPCA
@@ -289,7 +314,10 @@ pepXMLTab
 pfamAnalyzeR
 pgca
 phosphonormalizer
+pickgene
+planet
 plasmut
+plotGrouper
 pmm
 powerTCR
 preprocessCore
@@ -297,6 +325,8 @@ proteinProfiles
 quantsmooth
 qvalue
 rBiopaxParser
+rWikiPathways
+randRotation
 rawrr
 retrofit
 rgoslin
@@ -310,8 +340,11 @@ semisup
 seq.hotSPOT
 seqLogo
 seqcombo
+shiny.gosling
+sights
 similaRpeak
 sincell
+sizepower
 snm
 sparsenetgls
 specL
@@ -319,9 +352,13 @@ spikeLI
 splots
 ssize
 ssrch
+swfdr
+switchBox
 ternarynet
+tidysbml
 timescape
 tomoseqr
+topconfects
 treeio
 tripr
 ttgsea
@@ -330,4 +367,5 @@ vbmp
 veloviz
 weaver
 widgetTools
+xmapbridge
 zlibbioc

@@ -1,5 +1,11 @@
-DeepPINCS
-EMDomics
-MBCB
-alevinQC
-clstutils
+AlpsNMR
+DepecheR
+MSstats
+OLIN
+RBM
+arrayQuality
+basilisk
+nnNorm
+stepNorm
+timeOmics
+wppi

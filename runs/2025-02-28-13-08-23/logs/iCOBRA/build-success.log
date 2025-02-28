@@ -1,0 +1,43 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'iCOBRA'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/iCOBRA_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 3219012 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+* installing *source* package ‘iCOBRA’ ...
+** package ‘iCOBRA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Warning in gzfile(file, "rb") :
+  cannot open compressed file '/mnt/library/scales/R/scales.rdx', probable reason 'No such file or directory'
+Error in gzfile(file, "rb") : cannot open the connection
+Error: unable to load R code in package ‘scales’
+Execution halted
+ERROR: lazy loading failed for package ‘iCOBRA’
+* removing ‘/mnt/library/iCOBRA’
+
+The downloaded source packages are in
+	‘/tmp/RtmpsONDe2/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘iCOBRA’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	6m14.713s
+user	0m6.852s
+sys	0m2.260s
