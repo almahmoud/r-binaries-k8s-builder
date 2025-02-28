@@ -488,3 +488,4 @@ ANCOMBC
 ppcseq
 RTCGA
 scBubbletree
+maftools

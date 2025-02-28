@@ -364,6 +364,7 @@ lmdme
 logicFS
 lpsymphony
 maCorrPlot
+maftools
 magrene
 mapscape
 marray

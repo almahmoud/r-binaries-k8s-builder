@@ -4,12 +4,17 @@
 
 ## Summary
 
-- 0 packages built successfully
+- 1 packages built successfully
 - 0 packages failed to build
-- 1742 packages not yet processed
+- 1741 packages not yet processed
 
 
-## Not Yet Processed (1742)
+## Successfully Built (1)
+| Package                                                                    | Status   | Log                                                             | BBS Status                                                            |
+|----------------------------------------------------------------------------|----------|-----------------------------------------------------------------|-----------------------------------------------------------------------|
+| [maftools](https://bioconductor.org/packages/3.20/bioc/html/maftools.html) | Built    | [Log](runs/2025-02-28-13-08-23/logs/maftools/build-success.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/maftools) |
+
+## Not Yet Processed (1741)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ABarray](https://bioconductor.org/packages/3.20/bioc/html/ABarray.html)                                         | Unprocessed |
@@ -1277,7 +1282,6 @@
 | [maPredictDSC](https://bioconductor.org/packages/3.20/bioc/html/maPredictDSC.html)                               | Unprocessed |
 | [maSigPro](https://bioconductor.org/packages/3.20/bioc/html/maSigPro.html)                                       | Unprocessed |
 | [made4](https://bioconductor.org/packages/3.20/bioc/html/made4.html)                                             | Unprocessed |
-| [maftools](https://bioconductor.org/packages/3.20/bioc/html/maftools.html)                                       | Unprocessed |
 | [magpie](https://bioconductor.org/packages/3.20/bioc/html/magpie.html)                                           | Unprocessed |
 | [makecdfenv](https://bioconductor.org/packages/3.20/bioc/html/makecdfenv.html)                                   | Unprocessed |
 | [mariner](https://bioconductor.org/packages/3.20/bioc/html/mariner.html)                                         | Unprocessed |

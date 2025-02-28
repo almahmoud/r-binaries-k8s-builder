@@ -491,3 +491,4 @@ snifter
 tanggle
 tweeDEseq
 SIMD
+CIMICE
