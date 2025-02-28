@@ -1,0 +1,53 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'sangeranalyseR'
+also installing the dependency ‘excelR’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/excelR_0.4.0.tar.gz'
+Content type 'binary/octet-stream' length 528285 bytes (515 KB)
+==================================================
+downloaded 515 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/sangeranalyseR_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 40025051 bytes (38.2 MB)
+==================================================
+downloaded 38.2 MB
+
+* installing *binary* package ‘excelR’ ...
+* ‘excelR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘excelR’ as ‘excelR_0.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (excelR)
+* installing *source* package ‘sangeranalyseR’ ...
+** package ‘sangeranalyseR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Note: wrong number of arguments to '==' 
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘sangeranalyseR’ as ‘sangeranalyseR_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sangeranalyseR)
+
+The downloaded source packages are in
+	‘/tmp/RtmpGACWhK/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	52m28.089s
+user	0m32.988s
+sys	0m8.005s

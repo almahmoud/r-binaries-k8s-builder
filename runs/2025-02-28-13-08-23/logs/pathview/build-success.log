@@ -1,0 +1,84 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'pathview'
+also installing the dependencies ‘gage’, ‘org.EcK12.eg.db’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/gage_2.56.0.tar.gz'
+Content type 'application/x-gzip' length 4542996 bytes (4.3 MB)
+==================================================
+downloaded 4.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/org.EcK12.eg.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 5857405 bytes (5.6 MB)
+==================================================
+downloaded 5.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/pathview_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 2656685 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+* installing *source* package ‘gage’ ...
+** package ‘gage’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gage’ as ‘gage_2.56.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gage)
+* installing *source* package ‘org.EcK12.eg.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.EcK12.eg.db’ as ‘org.EcK12.eg.db_3.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.EcK12.eg.db)
+* installing *source* package ‘pathview’ ...
+** package ‘pathview’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pathview’ as ‘pathview_1.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pathview)
+
+The downloaded source packages are in
+	‘/tmp/RtmpT4vReY/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	53m35.144s
+user	1m2.887s
+sys	0m12.060s
