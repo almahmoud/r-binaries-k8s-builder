@@ -43,6 +43,10 @@ spec:
       containers:
       - name: bioc-builder
         image: ${CONTAINER}
+        resources:
+          requests:
+            cpu: "1"
+            memory: "4Gi"
         command: ["/bin/bash", "-c"]
         args:
         - |
