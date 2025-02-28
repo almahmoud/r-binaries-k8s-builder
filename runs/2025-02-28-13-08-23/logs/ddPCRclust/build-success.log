@@ -1,0 +1,107 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ddPCRclust'
+also installing the dependency ‘flowPeaks’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/flowPeaks_1.52.0.tar.gz'
+Content type 'application/x-gzip' length 2842048 bytes (2.7 MB)
+==================================================
+downloaded 2.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ddPCRclust_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 1250834 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+* installing *source* package ‘flowPeaks’ ...
+** package ‘flowPeaks’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   `gsl-config --cflags`  -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c Rpack.cpp -o Rpack.o
+Rpack.cpp: In function ‘void Rpack_get_flowpeaks(double*, double*, double*, int*, int*, int*, double*, double*, double*, int*, int*, double*)’:
+Rpack.cpp:65:9: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+   65 |         error("The underlying C++ function has produced errors\n");
+      |         ^~~~~
+      |         perror
+Rpack.cpp: In function ‘void Rpack_get_flowpeaks2(double*, double*, double*, int*, int*, int*, double*, double*, int*, double*)’:
+Rpack.cpp:77:9: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+   77 |         error("The underlying C++ function has produced errors\n");
+      |         ^~~~~
+      |         perror
+Rpack.cpp: In function ‘void Rpack_kmeans(double*, int*, int*, int*, int*, double*, int*, double*, int*, double*, double*)’:
+Rpack.cpp:90:9: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+   90 |         error("The underlying C++ function has produced errors\n");
+      |         ^~~~~
+      |         perror
+Rpack.cpp: In function ‘void Rpack_kmeans_center(double*, int*, int*, int*, double*, double*, double*, int*, double*, double*)’:
+Rpack.cpp:103:9: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+  103 |         error("The underlying C++ function has produced errors\n");
+      |         ^~~~~
+      |         perror
+Rpack.cpp: In function ‘void Rpack_raster_image(double*, int*, int*, int*, double*, int*, int*)’:
+Rpack.cpp:117:9: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+  117 |         error("The underlying C++ function has produced errors\n");
+      |         ^~~~~
+      |         perror
+Rpack.cpp: In function ‘void Rpack_voronoi(int*, double*, double*, int*, double*, int*, double*, int*)’:
+Rpack.cpp:129:9: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+  129 |         error("The underlying C++ function has produced errors\n");
+      |         ^~~~~
+      |         perror
+Rpack.cpp: In function ‘void Rpack_relevel(int*, int*, int*, int*, int*, int*)’:
+Rpack.cpp:142:13: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+  142 |             error("There are duplicated values in your old level settings\n");
+      |             ^~~~~
+      |             perror
+Rpack.cpp:149:13: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+  149 |             error("The data does not belong to the old levels \n");
+      |             ^~~~~
+      |             perror
+Rpack.cpp: In function ‘void Rpack_summarize_cluster(double*, int*, int*, int*, int*, int*, double*, double*, double*)’:
+Rpack.cpp:165:9: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+  165 |         error("The underlying C++ function has produced errors\n");
+      |         ^~~~~
+      |         perror
+Rpack.cpp: In function ‘void Rpack_assign_kmeans(double*, int*, int*, double*, int*, int*)’:
+Rpack.cpp:181:9: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+  181 |         error("The underlying C++ function has produced errors\n");
+      |         ^~~~~
+      |         perror
+Rpack.cpp: In function ‘void Rpack_assign_flowPeaks(double*, int*, int*, double*, double*, double*, int*, int*, double*, double*, int*)’:
+Rpack.cpp:199:9: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+  199 |         error("The underlying C++ function has produced errors\n");
+      |         ^~~~~
+      |         perror
+Rpack.cpp: In function ‘void Rpack_seedplusplus(double*, int*, int*, int*, double*, double*)’:
+Rpack.cpp:214:9: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+  214 |         error("The underlying C++ function has produced errors\n");
+      |         ^~~~~
+      |         perror
+make: *** [/usr/local/lib/R/etc/Makeconf:204: Rpack.o] Error 1
+ERROR: compilation failed for package ‘flowPeaks’
+* removing ‘/mnt/library/flowPeaks’
+ERROR: dependency ‘flowPeaks’ is not available for package ‘ddPCRclust’
+* removing ‘/mnt/library/ddPCRclust’
+
+The downloaded source packages are in
+	‘/tmp/RtmpleHybK/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘flowPeaks’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘ddPCRclust’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m25.859s
+user	0m7.038s
+sys	0m2.641s

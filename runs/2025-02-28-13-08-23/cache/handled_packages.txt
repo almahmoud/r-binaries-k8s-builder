@@ -24,8 +24,10 @@ AnVILPublish
 AnVILWorkflow
 BADER
 BAGS
+BCRANK
 BEclear
 BG2
+BRAIN
 BUS
 BaseSpaceR
 BayesKnockdown
@@ -109,6 +111,7 @@ DeMAND
 DeconRNASeq
 DeepPINCS
 DelayedArray
+DelayedDataFrame
 DelayedMatrixStats
 DelayedRandomArray
 DepInfeR
@@ -168,6 +171,7 @@ GenomeInfoDb
 GladiaTOX
 GraphAT
 GraphAlignment
+HDF5Array
 HDTD
 HELP
 HEM
@@ -200,6 +204,7 @@ IsoCorrectoR
 IsoCorrectoRGUI
 KBoost
 KCsmart
+KEGGREST
 KEGGgraph
 KinSwingR
 LBE
@@ -349,6 +354,7 @@ SANTA
 SBMLR
 SCBN
 SCFA
+SELEX
 SIMAT
 SIMD
 SIMLR
@@ -385,6 +391,7 @@ TSAR
 TargetDecoy
 TargetScore
 TargetSearch
+TileDBArray
 TrajectoryGeometry
 TreeAndLeaf
 TurboNorm
@@ -466,6 +473,7 @@ covEB
 cqn
 ctc
 ctsGE
+cyanoFilter
 cycle
 cytoMEM
 cytolib
@@ -474,6 +482,7 @@ daMA
 dcGSA
 dcanr
 ddCt
+ddPCRclust
 dearseq
 decontam
 decoupleR
@@ -511,10 +520,12 @@ fgga
 fgsea
 flowAI
 flowBeads
+flowBin
 flowCHIC
 flowClean
 flowClust
 flowCore
+flowCut
 flowCyBar
 flowDensity
 flowFP
@@ -714,6 +725,7 @@ retrofit
 rexposome
 rgoslin
 rhdf5
+rhdf5client
 rhdf5filters
 ribor
 rmelting

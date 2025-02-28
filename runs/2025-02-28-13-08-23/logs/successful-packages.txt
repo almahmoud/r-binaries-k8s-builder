@@ -802,3 +802,15 @@ ResidualMatrix
 ScaledMatrix
 SQLDataFrame
 uSORT
+BCRANK
+BRAIN
+cyanoFilter
+ddPCRclust
+DelayedDataFrame
+flowBin
+flowCut
+HDF5Array
+KEGGREST
+rhdf5client
+SELEX
+TileDBArray

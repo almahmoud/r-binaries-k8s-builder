@@ -861,3 +861,11 @@ scoup
 seqArchR
 sscu
 universalmotif
+AnnotationDbi
+FELLA
+MOFA2
+ROntoTools
+alabaster.matrix
+chihaya
+phantasusLite
+transomics2cytoscape
