@@ -1990,3 +1990,6 @@
 ['[motifbreakR](https://bioconductor.org/packages/3.20/bioc/html/motifbreakR.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/motifbreakR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifbreakR)']
 ['[maser](https://bioconductor.org/packages/3.20/bioc/html/maser.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/maser/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/maser)']
 ['[multicrispr](https://bioconductor.org/packages/3.20/bioc/html/multicrispr.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/multicrispr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multicrispr)']
+['[mariner](https://bioconductor.org/packages/3.20/bioc/html/mariner.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/mariner/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mariner)']
+['[primirTSS](https://bioconductor.org/packages/3.20/bioc/html/primirTSS.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/primirTSS/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/primirTSS)']
+['[puma](https://bioconductor.org/packages/3.20/bioc/html/puma.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/puma/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/puma)']
