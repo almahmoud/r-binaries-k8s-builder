@@ -1,0 +1,72 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'signatureSearch'
+also installing the dependency ‘signatureSearchData’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/signatureSearchData_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 672623 bytes (656 KB)
+==================================================
+downloaded 656 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/signatureSearch_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 5475843 bytes (5.2 MB)
+==================================================
+downloaded 5.2 MB
+
+* installing *source* package ‘signatureSearchData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘signatureSearchData’ as ‘signatureSearchData_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (signatureSearchData)
+* installing *source* package ‘signatureSearch’ ...
+** package ‘signatureSearch’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c fastGSEA.cpp -o fastGSEA.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fgsea_init.c -o fgsea_init.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o signatureSearch.so RcppExports.o fastGSEA.o fgsea_init.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-signatureSearch/00new/signatureSearch/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘signatureSearch’ as ‘signatureSearch_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (signatureSearch)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpcy7hFP/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m49.049s
+user	1m38.053s
+sys	0m16.263s

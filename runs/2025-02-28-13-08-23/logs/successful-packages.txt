@@ -1900,3 +1900,11 @@ tximeta
 coMethDMR
 diffUTR
 flagme
+dmrseq
+doubletrouble
+EventPointer
+RITAN
+scmeth
+signatureSearch
+terraTCGAdata
+VariantAnnotation

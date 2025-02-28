@@ -292,6 +292,7 @@ EpiCompare
 EpiDISH
 EpiMix
 EpiTxDb
+EventPointer
 ExCluster
 ExiMiR
 ExperimentHub
@@ -689,6 +690,7 @@ RDRToolbox
 REBET
 RGSEA
 RGraph2js
+RITAN
 RIVER
 RImmPort
 RJMCMCNucleosomes
@@ -907,6 +909,7 @@ VDJdive
 VERSO
 VaSP
 VarCon
+VariantAnnotation
 VariantExperiment
 VegaMC
 VennDetail
@@ -1150,9 +1153,11 @@ distinct
 dittoSeq
 divergence
 dks
+dmrseq
 dominoSignal
 doppelgangR
 doseR
+doubletrouble
 drawProteins
 drugTargetInteractions
 dupRadar
@@ -1725,6 +1730,7 @@ schex
 scider
 scifer
 scmap
+scmeth
 scone
 scoup
 scp
@@ -1752,6 +1758,7 @@ shiny.gosling
 sigFeature
 siggenes
 sights
+signatureSearch
 sigsquared
 simPIC
 similaRpeak
@@ -1829,6 +1836,7 @@ tRNAscanImport
 tanggle
 target
 ternarynet
+terraTCGAdata
 tidyFlowCore
 tidySingleCellExperiment
 tidySpatialExperiment
