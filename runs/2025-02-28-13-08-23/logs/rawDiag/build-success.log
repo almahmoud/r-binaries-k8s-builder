@@ -1,0 +1,121 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'rawDiag'
+also installing the dependencies ‘UCSC.utils’, ‘XVector’, ‘GenomeInfoDb’, ‘Biostrings’, ‘Biobase’, ‘IRanges’, ‘KEGGREST’, ‘AnnotationDbi’, ‘AnnotationHub’, ‘ExperimentHub’, ‘tartare’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/UCSC.utils_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 236888 bytes (231 KB)
+==================================================
+downloaded 231 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/x-gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biostrings_2.74.1.tar.gz'
+Content type 'application/x-gzip' length 12823307 bytes (12.2 MB)
+==================================================
+downloaded 12.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biobase_2.66.0.tar.gz'
+Content type 'application/x-gzip' length 1978998 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/KEGGREST_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 239655 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationDbi_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 4378038 bytes (4.2 MB)
+==================================================
+downloaded 4.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationHub_3.14.0.tar.gz'
+Content type 'application/x-gzip' length 1000948 bytes (977 KB)
+==================================================
+downloaded 977 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ExperimentHub_2.14.0.tar.gz'
+Content type 'application/x-gzip' length 501239 bytes (489 KB)
+==================================================
+downloaded 489 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/tartare_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 314794 bytes (307 KB)
+==================================================
+downloaded 307 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rawDiag_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 2261158 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+Warning in dir.create(lockdir, recursive = TRUE) :
+  '/mnt/library/00LOCK-UCSC.utils' already exists
+ERROR: dependency ‘S4Vectors’ is not available for package ‘UCSC.utils’
+* removing ‘/mnt/library/UCSC.utils’
+ERROR: dependency ‘BiocGenerics’ is not available for package ‘Biobase’
+* removing ‘/mnt/library/Biobase’
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-IRanges’
+* installing *source* package ‘rawDiag’ ...
+** package ‘rawDiag’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rawDiag’ as ‘rawDiag_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rawDiag)
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘XVector’
+* removing ‘/mnt/library/XVector’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘UCSC.utils’ are not available for package ‘GenomeInfoDb’
+* removing ‘/mnt/library/GenomeInfoDb’
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-Biostrings’
+ERROR: dependency ‘Biostrings’ is not available for package ‘KEGGREST’
+* removing ‘/mnt/library/KEGGREST’
+ERROR: dependencies ‘Biobase’, ‘IRanges’, ‘S4Vectors’, ‘KEGGREST’ are not available for package ‘AnnotationDbi’
+* removing ‘/mnt/library/AnnotationDbi’
+ERROR: dependencies ‘AnnotationDbi’, ‘S4Vectors’ are not available for package ‘AnnotationHub’
+* removing ‘/mnt/library/AnnotationHub’
+ERROR: dependencies ‘AnnotationHub’, ‘S4Vectors’ are not available for package ‘ExperimentHub’
+* removing ‘/mnt/library/ExperimentHub’
+ERROR: dependencies ‘AnnotationHub’, ‘ExperimentHub’ are not available for package ‘tartare’
+* removing ‘/mnt/library/tartare’
+
+The downloaded source packages are in
+	‘/tmp/RtmpGm2nPe/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+There were 11 warnings (use warnings() to see them)
+
+real	6m24.508s
+user	0m12.593s
+sys	0m5.905s

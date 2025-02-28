@@ -1,0 +1,61 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'mzID'
+also installing the dependency ‘ProtGenerics’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ProtGenerics_1.38.0.tar.gz'
+Content type 'application/x-gzip' length 10780 bytes (10 KB)
+==================================================
+downloaded 10 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/mzID_1.44.0.tar.gz'
+Content type 'application/x-gzip' length 597717 bytes (583 KB)
+==================================================
+downloaded 583 KB
+
+* installing *source* package ‘ProtGenerics’ ...
+** package ‘ProtGenerics’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘smooth’ in package ‘ProtGenerics’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ProtGenerics’ as ‘ProtGenerics_1.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ProtGenerics)
+* installing *source* package ‘mzID’ ...
+** package ‘mzID’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘mzID’ as ‘mzID_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mzID)
+
+The downloaded source packages are in
+	‘/tmp/RtmpfWe2vH/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	7m4.971s
+user	0m10.588s
+sys	0m4.986s

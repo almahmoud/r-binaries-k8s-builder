@@ -1,0 +1,233 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ISAnalytics'
+also installing the dependencies ‘reactR’, ‘classInt’, ‘phosphoricons’, ‘reactable’, ‘toastui’, ‘shinybusy’, ‘GlobalOptions’, ‘GenSA’, ‘polylabelr’, ‘shinyWidgets’, ‘datamods’, ‘extraDistr’, ‘ggalluvial’, ‘flexdashboard’, ‘circlize’, ‘eulerr’, ‘pheatmap’, ‘doFuture’, ‘Rcapture’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/reactR_0.6.1.tar.gz'
+Content type 'binary/octet-stream' length 611396 bytes (597 KB)
+==================================================
+downloaded 597 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/classInt_0.4-11.tar.gz'
+Content type 'binary/octet-stream' length 496589 bytes (484 KB)
+==================================================
+downloaded 484 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/phosphoricons_0.2.1.tar.gz'
+Content type 'binary/octet-stream' length 3163667 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/reactable_0.4.4.tar.gz'
+Content type 'binary/octet-stream' length 1058383 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/toastui_0.3.4.tar.gz'
+Content type 'binary/octet-stream' length 886053 bytes (865 KB)
+==================================================
+downloaded 865 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/shinybusy_0.3.3.tar.gz'
+Content type 'binary/octet-stream' length 613036 bytes (598 KB)
+==================================================
+downloaded 598 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/GlobalOptions_0.1.2.tar.gz'
+Content type 'binary/octet-stream' length 469700 bytes (458 KB)
+==================================================
+downloaded 458 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/GenSA_1.1.14.1.tar.gz'
+Content type 'binary/octet-stream' length 67117 bytes (65 KB)
+==================================================
+downloaded 65 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/polylabelr_0.3.0.tar.gz'
+Content type 'binary/octet-stream' length 73511 bytes (71 KB)
+==================================================
+downloaded 71 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/shinyWidgets_0.9.0.tar.gz'
+Content type 'binary/octet-stream' length 1372868 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/datamods_1.5.3.tar.gz'
+Content type 'binary/octet-stream' length 1210398 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/extraDistr_1.10.0.tar.gz'
+Content type 'binary/octet-stream' length 762154 bytes (744 KB)
+==================================================
+downloaded 744 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggalluvial_0.12.5.tar.gz'
+Content type 'binary/octet-stream' length 1662244 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/flexdashboard_0.6.2.tar.gz'
+Content type 'binary/octet-stream' length 362122 bytes (353 KB)
+==================================================
+downloaded 353 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/circlize_0.4.16.tar.gz'
+Content type 'binary/octet-stream' length 3314907 bytes (3.2 MB)
+==================================================
+downloaded 3.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/eulerr_7.0.2.tar.gz'
+Content type 'binary/octet-stream' length 1710401 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pheatmap_1.0.12.tar.gz'
+Content type 'binary/octet-stream' length 77416 bytes (75 KB)
+==================================================
+downloaded 75 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/doFuture_1.0.1.tar.gz'
+Content type 'binary/octet-stream' length 129824 bytes (126 KB)
+==================================================
+downloaded 126 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Rcapture_1.4-4.tar.gz'
+Content type 'binary/octet-stream' length 443827 bytes (433 KB)
+==================================================
+downloaded 433 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ISAnalytics_1.16.1.tar.gz'
+Content type 'application/x-gzip' length 4606718 bytes (4.4 MB)
+==================================================
+downloaded 4.4 MB
+
+* installing *binary* package ‘reactR’ ...
+* ‘reactR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘reactR’ as ‘reactR_0.6.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (reactR)
+* installing *binary* package ‘classInt’ ...
+* ‘classInt’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘classInt’ as ‘classInt_0.4-11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (classInt)
+* installing *binary* package ‘phosphoricons’ ...
+* ‘phosphoricons’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘phosphoricons’ as ‘phosphoricons_0.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (phosphoricons)
+* installing *binary* package ‘shinybusy’ ...
+* ‘shinybusy’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shinybusy’ as ‘shinybusy_0.3.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinybusy)
+* installing *binary* package ‘GlobalOptions’ ...
+* ‘GlobalOptions’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘GlobalOptions’ as ‘GlobalOptions_0.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GlobalOptions)
+* installing *binary* package ‘GenSA’ ...
+* ‘GenSA’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘GenSA’ as ‘GenSA_1.1.14.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GenSA)
+* installing *binary* package ‘polylabelr’ ...
+* ‘polylabelr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘polylabelr’ as ‘polylabelr_0.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (polylabelr)
+* installing *binary* package ‘shinyWidgets’ ...
+* ‘shinyWidgets’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shinyWidgets’ as ‘shinyWidgets_0.9.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinyWidgets)
+* installing *binary* package ‘extraDistr’ ...
+* ‘extraDistr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘extraDistr’ as ‘extraDistr_1.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (extraDistr)
+* installing *binary* package ‘ggalluvial’ ...
+* ‘ggalluvial’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggalluvial’ as ‘ggalluvial_0.12.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggalluvial)
+* installing *binary* package ‘flexdashboard’ ...
+* ‘flexdashboard’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘flexdashboard’ as ‘flexdashboard_0.6.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (flexdashboard)
+* installing *binary* package ‘pheatmap’ ...
+* ‘pheatmap’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pheatmap’ as ‘pheatmap_1.0.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pheatmap)
+* installing *binary* package ‘doFuture’ ...
+* ‘doFuture’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘doFuture’ as ‘doFuture_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (doFuture)
+* installing *binary* package ‘Rcapture’ ...
+* ‘Rcapture’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Rcapture’ as ‘Rcapture_1.4-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rcapture)
+* installing *binary* package ‘reactable’ ...
+* ‘reactable’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘reactable’ as ‘reactable_0.4.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (reactable)
+* installing *binary* package ‘toastui’ ...
+* ‘toastui’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘toastui’ as ‘toastui_0.3.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (toastui)
+* installing *binary* package ‘circlize’ ...
+* ‘circlize’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘circlize’ as ‘circlize_0.4.16_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (circlize)
+* installing *binary* package ‘eulerr’ ...
+* ‘eulerr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘eulerr’ as ‘eulerr_7.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (eulerr)
+* installing *binary* package ‘datamods’ ...
+* ‘datamods’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘datamods’ as ‘datamods_1.5.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (datamods)
+* installing *source* package ‘ISAnalytics’ ...
+** package ‘ISAnalytics’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ISAnalytics’ as ‘ISAnalytics_1.16.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ISAnalytics)
+
+The downloaded source packages are in
+	‘/tmp/RtmpMYCF63/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	22m0.476s
+user	0m23.639s
+sys	0m9.022s

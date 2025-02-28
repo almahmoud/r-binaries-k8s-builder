@@ -1,0 +1,73 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'SCFA'
+also installing the dependencies ‘safetensors’, ‘torch’, ‘coro’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/safetensors_0.1.2.tar.gz'
+Content type 'binary/octet-stream' length 61534 bytes (60 KB)
+==================================================
+downloaded 60 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/torch_0.14.2.tar.gz'
+Content type 'binary/octet-stream' length 13383207 bytes (12.8 MB)
+==================================================
+downloaded 12.8 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/coro_1.1.0.tar.gz'
+Content type 'binary/octet-stream' length 144847 bytes (141 KB)
+==================================================
+downloaded 141 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SCFA_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 1301321 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+* installing *binary* package ‘safetensors’ ...
+* ‘safetensors’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘safetensors’ as ‘safetensors_0.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (safetensors)
+* installing *binary* package ‘coro’ ...
+* ‘coro’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘coro’ as ‘coro_1.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (coro)
+* installing *binary* package ‘torch’ ...
+* ‘torch’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘torch’ as ‘torch_0.14.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (torch)
+* installing *source* package ‘SCFA’ ...
+** package ‘SCFA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SCFA’ as ‘SCFA_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SCFA)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp4fIGdg/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	7m32.024s
+user	0m18.550s
+sys	0m5.354s

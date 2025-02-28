@@ -449,3 +449,15 @@ nnNorm
 stepNorm
 timeOmics
 wppi
+AnVILPublish
+AnVILWorkflow
+BiocNeighbors
+biodbChebi
+biodbHmdb
+biodbNcbi
+biodbNci
+biodbUniprot
+fobitools
+metapone
+qckitfastq
+rhdf5

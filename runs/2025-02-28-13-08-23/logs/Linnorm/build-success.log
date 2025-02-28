@@ -1,0 +1,85 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'Linnorm'
+also installing the dependencies ‘ggdendro’, ‘gmodels’, ‘moments’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggdendro_0.2.0.tar.gz'
+Content type 'binary/octet-stream' length 216626 bytes (211 KB)
+==================================================
+downloaded 211 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gmodels_2.19.1.tar.gz'
+Content type 'binary/octet-stream' length 117251 bytes (114 KB)
+==================================================
+downloaded 114 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/moments_0.14.1.tar.gz'
+Content type 'binary/octet-stream' length 54853 bytes (53 KB)
+==================================================
+downloaded 53 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Linnorm_2.30.0.tar.gz'
+Content type 'application/x-gzip' length 4310435 bytes (4.1 MB)
+==================================================
+downloaded 4.1 MB
+
+* installing *binary* package ‘ggdendro’ ...
+* ‘ggdendro’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggdendro’ as ‘ggdendro_0.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggdendro)
+* installing *binary* package ‘gmodels’ ...
+* ‘gmodels’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gmodels’ as ‘gmodels_2.19.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gmodels)
+* installing *binary* package ‘moments’ ...
+* ‘moments’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘moments’ as ‘moments_0.14.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (moments)
+* installing *source* package ‘Linnorm’ ...
+** package ‘Linnorm’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c Misc.cpp -o Misc.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Linnorm.so Misc.o -std=c++11 -llapack -lblas -lgfortran -lm -lquadmath -DARMA_64BIT_WORD=1 -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-Linnorm/00new/Linnorm/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Error: package or namespace load failed for ‘Linnorm’ in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]):
+ there is no package called ‘limma’
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/Linnorm’
+
+The downloaded source packages are in
+	‘/tmp/RtmpUzymyb/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘Linnorm’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	7m58.624s
+user	0m18.502s
+sys	0m5.418s

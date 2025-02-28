@@ -1,0 +1,62 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'survcomp'
+also installing the dependency ‘clinfun’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/clinfun_1.1.5.tar.gz'
+Content type 'binary/octet-stream' length 260466 bytes (254 KB)
+==================================================
+downloaded 254 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/survcomp_1.56.0.tar.gz'
+Content type 'application/x-gzip' length 657084 bytes (641 KB)
+==================================================
+downloaded 641 KB
+
+* installing *binary* package ‘clinfun’ ...
+* ‘clinfun’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘clinfun’ as ‘clinfun_1.1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clinfun)
+* installing *source* package ‘survcomp’ ...
+** package ‘survcomp’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c concordance.index.c -o concordance.index.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c foo_mrmr_ensemble_surv.cpp -o foo_mrmr_ensemble_surv.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c foo_mrmr_surv.cpp -o foo_mrmr_surv.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c survcomp_init.cpp -o survcomp_init.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o survcomp.so concordance.index.o foo_mrmr_ensemble_surv.o foo_mrmr_surv.o survcomp_init.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-survcomp/00new/survcomp/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘survcomp’ as ‘survcomp_1.56.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (survcomp)
+
+The downloaded source packages are in
+	‘/tmp/RtmpLPpdZE/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	10m19.482s
+user	0m12.946s
+sys	0m4.824s

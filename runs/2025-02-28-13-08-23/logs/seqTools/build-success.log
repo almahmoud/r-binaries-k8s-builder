@@ -1,0 +1,86 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'seqTools'
+also installing the dependency ‘BiocGenerics’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocGenerics_0.52.0.tar.gz'
+Content type 'application/x-gzip' length 57066 bytes (55 KB)
+==================================================
+downloaded 55 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/seqTools_1.40.0.tar.gz'
+Content type 'application/x-gzip' length 552095 bytes (539 KB)
+==================================================
+downloaded 539 KB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-BiocGenerics’
+* installing *source* package ‘seqTools’ ...
+** package ‘seqTools’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/zlibbioc/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c seqTools.c -o seqTools.o
+seqTools.c: In function ‘count_genome_Kmers’:
+seqTools.c:851:93: warning: format ‘%u’ expects a matching ‘unsigned int’ argument [-Wformat=]
+  851 |                                 error("[count_genome_Kmers] character mismatch at position %u!");
+      |                                                                                            ~^
+      |                                                                                             |
+      |                                                                                             unsigned int
+seqTools.c: In function ‘scale_kmer_matrix’:
+seqTools.c:3296:55: warning: format ‘%i’ expects argument of type ‘int’, but argument 3 has type ‘double’ [-Wformat=]
+ 3296 |                 error("[scale_kmer_matrix] scale[%i]=%i must be >1!", column_index, scale);
+      |                                                      ~^                             ~~~~~
+      |                                                       |                             |
+      |                                                       int                           double
+      |                                                      %f
+seqTools.c:3306:73: warning: format ‘%i’ expects argument of type ‘int’, but argument 3 has type ‘double’ [-Wformat=]
+ 3306 |                                 error("[scale_kmer_matrix] scale[%i] = %i must be >1!", column_index, scale);
+      |                                                                        ~^                             ~~~~~
+      |                                                                         |                             |
+      |                                                                         int                           double
+      |                                                                        %f
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o seqTools.so seqTools.o -lm -lz -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-seqTools/00new/seqTools/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning message:
+In fun(libname, pkgname) :
+  Package 'zlibbioc' is deprecated and will be removed from Bioconductor
+  version 3.22
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning in fun(libname, pkgname) :
+  Package 'zlibbioc' is deprecated and will be removed from Bioconductor
+  version 3.22
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning in fun(libname, pkgname) :
+  Package 'zlibbioc' is deprecated and will be removed from Bioconductor
+  version 3.22
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘seqTools’ as ‘seqTools_1.40.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (seqTools)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpn4hzap/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘BiocGenerics’ had non-zero exit status
+
+real	2m46.952s
+user	0m9.523s
+sys	0m4.135s
