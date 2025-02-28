@@ -1811,3 +1811,15 @@ Spaniel
 synapter
 topdownr
 tRNAdbImport
+bsseq
+celda
+cleanUpdTSeq
+cliqueMS
+DegNorm
+diffHic
+distinct
+EGSEA
+MSnID
+OUTRIDER
+scPipe
+SpatialFeatureExperiment

@@ -233,6 +233,7 @@ DaMiRseq
 DeMAND
 DeconRNASeq
 DeepPINCS
+DegNorm
 DelayedArray
 DelayedDataFrame
 DelayedMatrixStats
@@ -260,6 +261,7 @@ EBcoexpress
 EDASeq
 EDIRquery
 EGAD
+EGSEA
 EMDomics
 ERSSA
 EasyCellType
@@ -483,6 +485,7 @@ MPFE
 MPRAnalyze
 MSA2dist
 MSPrep
+MSnID
 MSnbase
 MSstats
 MSstatsBig
@@ -575,6 +578,7 @@ OPWeight
 ORFhunteR
 OSAT
 OTUbase
+OUTRIDER
 OVESEG
 OmicCircos
 OmicsMLRepoR
@@ -789,6 +793,7 @@ SparseSignatures
 SpatialCPie
 SpatialDecon
 SpatialExperiment
+SpatialFeatureExperiment
 SpatialOmicsOverlay
 SpeCond
 Spectra
@@ -967,6 +972,7 @@ branchpointer
 breakpointR
 brendaDb
 broadSeq
+bsseq
 bugsigdbr
 bumphunter
 cTRAP
@@ -980,6 +986,7 @@ ccmap
 ccrepe
 ceRNAnetsim
 celaref
+celda
 cellbaseR
 cellity
 cellmigRation
@@ -997,11 +1004,13 @@ chromPlot
 chromVAR
 chromstaR
 cisPath
+cleanUpdTSeq
 cleaver
 clevRvis
 cliProfiler
 clippda
 clipper
+cliqueMS
 clst
 clstutils
 clustComp
@@ -1072,6 +1081,7 @@ densvis
 derfinderHelper
 destiny
 diffGeneAnalysis
+diffHic
 diffcoexp
 diffcyt
 diffuStats
@@ -1079,6 +1089,7 @@ diggit
 dinoR
 dir.expiry
 discordant
+distinct
 dittoSeq
 divergence
 dks
@@ -1628,6 +1639,7 @@ scMerge
 scMitoMut
 scMultiSim
 scPCA
+scPipe
 scReClassify
 scRecover
 scRepertoire
