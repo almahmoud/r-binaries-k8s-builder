@@ -1568,3 +1568,12 @@ lisaClust
 m6Aboost
 muscat
 TADCompare
+a4Base
+DESpace
+GOstats
+moanin
+sevenC
+sparrow
+spaSim
+Statial
+SurfR

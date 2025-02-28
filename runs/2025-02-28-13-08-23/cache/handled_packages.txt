@@ -184,6 +184,7 @@ DEGreport
 DEGseq
 DELocal
 DESeq2
+DESpace
 DEWSeq
 DEqMS
 DEsingle
@@ -267,6 +268,7 @@ GOTHiC
 GOexpress
 GOfuncR
 GOpro
+GOstats
 GPA
 GRENITS
 GRmetrics
@@ -690,11 +692,13 @@ SpectralTAD
 SplicingFactory
 SpotSweeper
 StabMap
+Statial
 Streamer
 Structstrings
 SubCellBarCode
 SummarizedExperiment
 Summix
+SurfR
 SwathXtend
 SynExtend
 SynMut
@@ -748,6 +752,7 @@ VplotR
 Wrench
 XINA
 XVector
+a4Base
 a4Classif
 a4Core
 a4Preproc
@@ -1198,6 +1203,7 @@ mistyR
 mitch
 mixOmics
 mnem
+moanin
 mogsa
 monocle
 mosaics
@@ -1441,6 +1447,7 @@ seqLogo
 seqPattern
 seqTools
 seqcombo
+sevenC
 sevenbridges
 shiny.gosling
 sigFeature
@@ -1460,6 +1467,8 @@ snapcount
 snifter
 snm
 snpStats
+spaSim
+sparrow
 sparseMatrixStats
 sparsenetgls
 spatialDE

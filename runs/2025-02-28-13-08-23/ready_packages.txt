@@ -1,3 +1,6 @@
-ChromSCape
-mumosa
-scMerge
+GmicR
+SGCP
+a4
+attract
+categoryCompare
+miRLAB
