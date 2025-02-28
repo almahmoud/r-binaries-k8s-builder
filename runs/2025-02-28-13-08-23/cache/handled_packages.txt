@@ -1144,6 +1144,7 @@ cfDNAPro
 cfdnakit
 cghMCR
 chihaya
+chimeraviz
 chipenrich
 chipseq
 chopsticks
@@ -1455,6 +1456,7 @@ iCOBRA
 iChip
 iClusterPlus
 iGC
+iNETgrate
 iPath
 iSEE
 iSEEde
@@ -1768,6 +1770,7 @@ qsea
 qsmooth
 qsvaR
 quantiseqr
+quantro
 quantsmooth
 qusage
 qvalue
@@ -1950,6 +1953,7 @@ sparsenetgls
 spatialDE
 spatialHeatmap
 spatialSimGP
+spatzie
 specL
 speckle
 spicyR

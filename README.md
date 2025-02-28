@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1962 packages built successfully
+- 1966 packages built successfully
 - 3 packages failed to build
-- 144 packages not yet processed
+- 140 packages not yet processed
 
 ## Failed Builds (3)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
@@ -15,7 +15,7 @@
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
-## Successfully Built (1962)
+## Successfully Built (1966)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                      |
@@ -1980,8 +1980,12 @@
 | [shinyMethyl](https://bioconductor.org/packages/3.20/bioc/html/shinyMethyl.html)                                 | Built    | [Log](runs/2025-02-28-13-08-23/logs/shinyMethyl/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/shinyMethyl)                 |
 | [uncoverappLib](https://bioconductor.org/packages/3.20/bioc/html/uncoverappLib.html)                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/uncoverappLib/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/uncoverappLib)               |
 | [PING](https://bioconductor.org/packages/3.20/bioc/html/PING.html)                                               | Built    | [Log](runs/2025-02-28-13-08-23/logs/PING/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PING)                        |
+| [chimeraviz](https://bioconductor.org/packages/3.20/bioc/html/chimeraviz.html)                                   | Built    | [Log](runs/2025-02-28-13-08-23/logs/chimeraviz/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/chimeraviz)                  |
+| [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                                     | Built    | [Log](runs/2025-02-28-13-08-23/logs/iNETgrate/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iNETgrate)                   |
+| [quantro](https://bioconductor.org/packages/3.20/bioc/html/quantro.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/quantro/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/quantro)                     |
+| [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/spatzie/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spatzie)                     |
 
-## Not Yet Processed (144)
+## Not Yet Processed (140)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [AMARETTO](https://bioconductor.org/packages/3.20/bioc/html/AMARETTO.html)                                     | Unprocessed |
@@ -2056,7 +2060,6 @@
 | [biosigner](https://bioconductor.org/packages/3.20/bioc/html/biosigner.html)                                   | Unprocessed |
 | [cageminer](https://bioconductor.org/packages/3.20/bioc/html/cageminer.html)                                   | Unprocessed |
 | [cfTools](https://bioconductor.org/packages/3.20/bioc/html/cfTools.html)                                       | Unprocessed |
-| [chimeraviz](https://bioconductor.org/packages/3.20/bioc/html/chimeraviz.html)                                 | Unprocessed |
 | [clusterExperiment](https://bioconductor.org/packages/3.20/bioc/html/clusterExperiment.html)                   | Unprocessed |
 | [cn.farms](https://bioconductor.org/packages/3.20/bioc/html/cn.farms.html)                                     | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                                         | Unprocessed |
@@ -2082,7 +2085,6 @@
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                                   | Unprocessed |
 | [hpar](https://bioconductor.org/packages/3.20/bioc/html/hpar.html)                                             | Unprocessed |
 | [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                                         | Unprocessed |
-| [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                                   | Unprocessed |
 | [ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)                                           | Unprocessed |
 | [intansv](https://bioconductor.org/packages/3.20/bioc/html/intansv.html)                                       | Unprocessed |
 | [knowYourCG](https://bioconductor.org/packages/3.20/bioc/html/knowYourCG.html)                                 | Unprocessed |
@@ -2110,7 +2112,6 @@
 | [primirTSS](https://bioconductor.org/packages/3.20/bioc/html/primirTSS.html)                                   | Unprocessed |
 | [psichomics](https://bioconductor.org/packages/3.20/bioc/html/psichomics.html)                                 | Unprocessed |
 | [puma](https://bioconductor.org/packages/3.20/bioc/html/puma.html)                                             | Unprocessed |
-| [quantro](https://bioconductor.org/packages/3.20/bioc/html/quantro.html)                                       | Unprocessed |
 | [recount](https://bioconductor.org/packages/3.20/bioc/html/recount.html)                                       | Unprocessed |
 | [regionReport](https://bioconductor.org/packages/3.20/bioc/html/regionReport.html)                             | Unprocessed |
 | [regutools](https://bioconductor.org/packages/3.20/bioc/html/regutools.html)                                   | Unprocessed |
@@ -2122,7 +2123,6 @@
 | [sesame](https://bioconductor.org/packages/3.20/bioc/html/sesame.html)                                         | Unprocessed |
 | [shinyepico](https://bioconductor.org/packages/3.20/bioc/html/shinyepico.html)                                 | Unprocessed |
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                           | Unprocessed |
-| [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                                       | Unprocessed |
 | [tadar](https://bioconductor.org/packages/3.20/bioc/html/tadar.html)                                           | Unprocessed |
 | [tidyomics](https://bioconductor.org/packages/3.20/bioc/html/tidyomics.html)                                   | Unprocessed |
 | [trackViewer](https://bioconductor.org/packages/3.20/bioc/html/trackViewer.html)                               | Unprocessed |

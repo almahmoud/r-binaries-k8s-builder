@@ -2084,3 +2084,7 @@ recountmethylation
 shinyMethyl
 uncoverappLib
 PING
+chimeraviz
+iNETgrate
+quantro
+spatzie
