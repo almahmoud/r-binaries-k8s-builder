@@ -4,18 +4,10 @@
 
 ## Summary
 
-- 4 packages built successfully
+- 0 packages built successfully
 - 0 packages failed to build
 - 1742 packages not yet processed
 
-
-## Successfully Built (4)
-| Package                                                                            | Status   | Log                                                                 | BBS Status                                                                |
-|------------------------------------------------------------------------------------|----------|---------------------------------------------------------------------|---------------------------------------------------------------------------|
-| [ANCOMBC](https://bioconductor.org/packages/3.20/bioc/html/ANCOMBC.html)           | Built    | [Log](runs/2025-02-28-13-08-23/logs/ANCOMBC/build-success.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ANCOMBC)      |
-| [RTCGA](https://bioconductor.org/packages/3.20/bioc/html/RTCGA.html)               | Built    | [Log](runs/2025-02-28-13-08-23/logs/RTCGA/build-success.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RTCGA)        |
-| [ppcseq](https://bioconductor.org/packages/3.20/bioc/html/ppcseq.html)             | Built    | [Log](runs/2025-02-28-13-08-23/logs/ppcseq/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ppcseq)       |
-| [scBubbletree](https://bioconductor.org/packages/3.20/bioc/html/scBubbletree.html) | Built    | [Log](runs/2025-02-28-13-08-23/logs/scBubbletree/build-success.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scBubbletree) |
 
 ## Not Yet Processed (1742)
 | Package                                                                                                          | Status      |
