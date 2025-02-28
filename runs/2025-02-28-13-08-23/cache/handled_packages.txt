@@ -18,6 +18,7 @@ ASAFE
 ASEB
 ASGSCA
 ASSET
+ASSIGN
 ASURAT
 AUCell
 AWFisher
@@ -262,6 +263,7 @@ GLAD
 GMRP
 GNET2
 GOSemSim
+GOTHiC
 GOexpress
 GOfuncR
 GOpro
@@ -393,6 +395,7 @@ MBQN
 MBttest
 MCbiclust
 MDTS
+MEB
 MEDIPS
 MEDME
 MEIGOR
@@ -401,6 +404,7 @@ MGFR
 MICSQTL
 MLP
 MLSeq
+MMDiff2
 MMUPHin
 MODA
 MOFA2
@@ -712,12 +716,15 @@ TPP2D
 TREG
 TRONCO
 TSAR
+TSCAN
 TTMap
 TargetDecoy
 TargetScore
 TargetSearch
 TileDBArray
+TissueEnrich
 TnT
+ToxicoGx
 TrajectoryGeometry
 TrajectoryUtils
 TreeAndLeaf
@@ -730,9 +737,11 @@ UNDO
 UniProt.ws
 VDJdive
 VERSO
+VaSP
 VariantExperiment
 VegaMC
 VennDetail
+VisiumIO
 VplotR
 Wrench
 XINA
@@ -997,6 +1006,7 @@ gaga
 gage
 garfield
 gatom
+gcapc
 gcatest
 gcrma
 gdsfmt
@@ -1012,6 +1022,7 @@ genefilter
 geneplast
 geneplotter
 genoCN
+genomation
 genomeIntervals
 genomes
 genomicInstability
@@ -1053,6 +1064,7 @@ hapFabia
 hca
 heatmaps
 hermes
+hiAnnotator
 hierGWAS
 hierinf
 hipathia
@@ -1251,6 +1263,7 @@ pathifier
 pathview
 pathwayPCA
 pcaMethods
+peco
 pengls
 pepStat
 pepXMLTab
@@ -1267,6 +1280,7 @@ phosphonormalizer
 phyloseq
 piano
 pickgene
+pipeComp
 pipeFrame
 planet
 planttfhunter
@@ -1314,6 +1328,7 @@ rRDP
 rSWeeP
 rScudo
 rTRM
+rTRMui
 rWikiPathways
 rain
 ramr

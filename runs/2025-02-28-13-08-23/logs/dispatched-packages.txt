@@ -1749,3 +1749,7 @@ rTRMui
 DiffBind
 epigraHMM
 lisaClust
+CexoR
+FEAST
+fCCAC
+hiReadsProcessor

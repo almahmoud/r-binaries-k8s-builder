@@ -1,0 +1,72 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'peco'
+also installing the dependencies ‘geigen’, ‘conicfit’, ‘genlasso’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/geigen_2.3.tar.gz'
+Content type 'binary/octet-stream' length 94642 bytes (92 KB)
+==================================================
+downloaded 92 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/conicfit_1.0.4.tar.gz'
+Content type 'binary/octet-stream' length 151957 bytes (148 KB)
+==================================================
+downloaded 148 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/genlasso_1.6.1.tar.gz'
+Content type 'binary/octet-stream' length 284458 bytes (277 KB)
+==================================================
+downloaded 277 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/peco_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 1121296 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+* installing *binary* package ‘geigen’ ...
+* ‘geigen’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘geigen’ as ‘geigen_2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (geigen)
+* installing *binary* package ‘genlasso’ ...
+* ‘genlasso’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘genlasso’ as ‘genlasso_1.6.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (genlasso)
+* installing *binary* package ‘conicfit’ ...
+* ‘conicfit’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘conicfit’ as ‘conicfit_1.0.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (conicfit)
+* installing *source* package ‘peco’ ...
+** package ‘peco’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘peco’ as ‘peco_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (peco)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpo8Eto7/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m54.869s
+user	0m30.351s
+sys	0m6.940s
