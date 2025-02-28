@@ -50,6 +50,7 @@ BLMA
 BPRMeth
 BRAIN
 BREW3R.r
+BSgenome
 BUMHMM
 BUS
 BUScorrect
@@ -73,6 +74,7 @@ BioMVCClass
 BioNAR
 BioNet
 BioQC
+BioTIP
 Biobase
 BiocBaseUtils
 BiocBook
@@ -657,6 +659,7 @@ SimFFPE
 SingleCellAlleleExperiment
 SingleCellExperiment
 SingleR
+SpaNorm
 SpaceMarkers
 SparseArray
 SpatialCPie
@@ -745,6 +748,7 @@ alabaster.ranges
 alabaster.sce
 alabaster.schemas
 alabaster.se
+alabaster.spatial
 alabaster.string
 alevinQC
 altcdfenvs
@@ -767,6 +771,7 @@ bacon
 bamsignals
 banocc
 barcodetrackR
+basecallQC
 basilisk
 basilisk.utils
 bayNorm
@@ -817,6 +822,7 @@ cellxgenedp
 censcyt
 cfdnakit
 chihaya
+chipseq
 chopsticks
 chromDraw
 chromPlot
@@ -1132,6 +1138,7 @@ miRNAmeConverter
 miRNApath
 miRNAtap
 miRcomp
+miaSim
 microRNA
 microbiome
 microbiomeDASim
@@ -1148,6 +1155,7 @@ mistyR
 mitch
 mixOmics
 mnem
+mogsa
 monocle
 mosaics
 mosbi
@@ -1157,8 +1165,10 @@ mpra
 msPurity
 msa
 mslp
+msqrob2
 multiClust
 multiGSEA
+multiHiCcompare
 multiMiR
 multiWGCNA
 multiscan
@@ -1178,7 +1188,9 @@ netresponse
 ngsReports
 nipalsMCIA
 nnNorm
+nnSVG
 normalize450K
+normr
 nuCpos
 nucleoSim
 occugene
@@ -1250,6 +1262,7 @@ procoil
 profileScoreDist
 progeny
 projectR
+protGear
 proteinProfiles
 pvac
 pvca
@@ -1282,6 +1295,8 @@ rcellminer
 rebook
 receptLoss
 reconsi
+recount3
+regionalpcs
 regsplice
 retrofit
 rexposome
@@ -1294,6 +1309,7 @@ rhdf5filters
 rhinotypeR
 riboSeqR
 ribor
+rifi
 rifiComparative
 rmelting
 rmspc
@@ -1314,12 +1330,14 @@ sSNAPPY
 sSeq
 safe
 sagenhaft
+sampleClassifier
 sangeranalyseR
 sangerseqR
 sarks
 satuRn
 scAnnotatR
 scBubbletree
+scDD
 scDDboost
 scDataviz
 scDesign3
@@ -1335,16 +1353,20 @@ scReClassify
 scRecover
 scRepertoire
 scShapes
+scTGIF
 scTHI
 scanMiR
+scater
 scatterHatch
 sccomp
 scde
 scds
 schex
+scider
 scifer
 scmap
 scoup
+scp
 scran
 scrapper
 screenCounter
@@ -1387,6 +1409,7 @@ specL
 speckle
 spikeLI
 spkTools
+splatter
 splineTimeR
 splots
 spqn
@@ -1395,6 +1418,7 @@ sscu
 ssize
 ssrch
 ssviz
+stJoincount
 stageR
 statTarget
 stepNorm
@@ -1414,6 +1438,7 @@ synapsis
 synergyfinder
 synlet
 syntenet
+systemPipeR
 systemPipeShiny
 systemPipeTools
 tRNA
@@ -1472,6 +1497,7 @@ wiggleplotr
 wpm
 wppi
 xcore
+xenLite
 xmapbridge
 yamss
 zFPKM

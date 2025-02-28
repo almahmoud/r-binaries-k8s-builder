@@ -1,0 +1,50 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'alabaster.spatial'
+also installing the dependency ‘DropletUtils’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DropletUtils_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 595636 bytes (581 KB)
+==================================================
+downloaded 581 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/alabaster.spatial_1.6.1.tar.gz'
+Content type 'application/x-gzip' length 643746 bytes (628 KB)
+==================================================
+downloaded 628 KB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-DropletUtils’
+* installing *source* package ‘alabaster.spatial’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘alabaster.spatial’ as ‘alabaster.spatial_1.6.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (alabaster.spatial)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpmd3JWi/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘DropletUtils’ had non-zero exit status
+
+real	2m14.616s
+user	0m31.324s
+sys	0m6.623s
