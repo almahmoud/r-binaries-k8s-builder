@@ -1,0 +1,72 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'Category'
+also installing the dependencies ‘bezier’, ‘karyoploteR’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bezier_1.1.2.tar.gz'
+Content type 'binary/octet-stream' length 77263 bytes (75 KB)
+==================================================
+downloaded 75 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/karyoploteR_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 2698192 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Category_2.72.0.tar.gz'
+Content type 'application/x-gzip' length 898436 bytes (877 KB)
+==================================================
+downloaded 877 KB
+
+* installing *binary* package ‘bezier’ ...
+* ‘bezier’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bezier’ as ‘bezier_1.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bezier)
+* installing *source* package ‘Category’ ...
+** package ‘Category’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Category’ as ‘Category_2.72.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Category)
+* installing *source* package ‘karyoploteR’ ...
+** package ‘karyoploteR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘karyoploteR’ as ‘karyoploteR_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (karyoploteR)
+
+The downloaded source packages are in
+	‘/tmp/RtmpPicXzB/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m13.960s
+user	1m11.762s
+sys	0m11.491s

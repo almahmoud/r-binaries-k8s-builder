@@ -1,0 +1,106 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'Banksy'
+also installing the dependencies ‘sccore’, ‘leidenAlg’, ‘RcppHungarian’, ‘harmony’, ‘spatialLIBD’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sccore_1.0.5.tar.gz'
+Content type 'binary/octet-stream' length 877280 bytes (856 KB)
+==================================================
+downloaded 856 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/leidenAlg_1.1.4.tar.gz'
+Content type 'binary/octet-stream' length 253477 bytes (247 KB)
+==================================================
+downloaded 247 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RcppHungarian_0.3.tar.gz'
+Content type 'binary/octet-stream' length 151042 bytes (147 KB)
+==================================================
+downloaded 147 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/harmony_1.2.3.tar.gz'
+Content type 'binary/octet-stream' length 4791164 bytes (4.6 MB)
+==================================================
+downloaded 4.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/spatialLIBD_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 20346707 bytes (19.4 MB)
+==================================================
+downloaded 19.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Banksy_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 5221129 bytes (5.0 MB)
+==================================================
+downloaded 5.0 MB
+
+* installing *binary* package ‘sccore’ ...
+* ‘sccore’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sccore’ as ‘sccore_1.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sccore)
+* installing *binary* package ‘RcppHungarian’ ...
+* ‘RcppHungarian’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RcppHungarian’ as ‘RcppHungarian_0.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcppHungarian)
+* installing *binary* package ‘harmony’ ...
+* ‘harmony’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘harmony’ as ‘harmony_1.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (harmony)
+* installing *source* package ‘spatialLIBD’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘spatialLIBD’ as ‘spatialLIBD_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spatialLIBD)
+* installing *binary* package ‘leidenAlg’ ...
+* ‘leidenAlg’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘leidenAlg’ as ‘leidenAlg_1.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (leidenAlg)
+* installing *source* package ‘Banksy’ ...
+** package ‘Banksy’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Banksy’ as ‘Banksy_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Banksy)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp8uopwX/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m42.089s
+user	1m7.173s
+sys	0m11.478s

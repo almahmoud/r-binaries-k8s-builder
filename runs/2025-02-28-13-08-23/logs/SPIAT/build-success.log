@@ -1,0 +1,73 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'SPIAT'
+also installing the dependencies ‘mmand’, ‘alphahull’, ‘elsa’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mmand_1.6.3.tar.gz'
+Content type 'binary/octet-stream' length 607685 bytes (593 KB)
+==================================================
+downloaded 593 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/alphahull_2.5.tar.gz'
+Content type 'binary/octet-stream' length 606736 bytes (592 KB)
+==================================================
+downloaded 592 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/elsa_1.1-28.tar.gz'
+Content type 'binary/octet-stream' length 830753 bytes (811 KB)
+==================================================
+downloaded 811 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SPIAT_1.8.0.tar.gz'
+Content type 'application/x-gzip' length 7598851 bytes (7.2 MB)
+==================================================
+downloaded 7.2 MB
+
+* installing *binary* package ‘mmand’ ...
+* ‘mmand’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mmand’ as ‘mmand_1.6.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mmand)
+* installing *binary* package ‘alphahull’ ...
+* ‘alphahull’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘alphahull’ as ‘alphahull_2.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (alphahull)
+* installing *binary* package ‘elsa’ ...
+* ‘elsa’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘elsa’ as ‘elsa_1.1-28_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (elsa)
+* installing *source* package ‘SPIAT’ ...
+** package ‘SPIAT’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SPIAT’ as ‘SPIAT_1.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SPIAT)
+
+The downloaded source packages are in
+	‘/tmp/RtmpinVpPy/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m53.636s
+user	0m30.583s
+sys	0m6.779s

@@ -1,0 +1,54 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'rifiComparative'
+also installing the dependency ‘doMC’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/doMC_1.3.8.tar.gz'
+Content type 'binary/octet-stream' length 167922 bytes (163 KB)
+==================================================
+downloaded 163 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rifiComparative_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 3304211 bytes (3.2 MB)
+==================================================
+downloaded 3.2 MB
+
+* installing *binary* package ‘doMC’ ...
+* ‘doMC’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘doMC’ as ‘doMC_1.3.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (doMC)
+* installing *source* package ‘rifiComparative’ ...
+** package ‘rifiComparative’ successfully unpacked and MD5 sums checked
+** using staged installation
+Warning in person1(given = given[[i]], family = family[[i]], middle = middle[[i]],  :
+  It is recommended to use ‘given’ instead of ‘middle’.
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rifiComparative’ as ‘rifiComparative_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rifiComparative)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp7QPzUQ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m4.611s
+user	0m35.964s
+sys	0m7.230s

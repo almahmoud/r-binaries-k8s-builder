@@ -1,0 +1,81 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'SVMDO'
+also installing the dependencies ‘sjlabelled’, ‘shinytitle’, ‘BSDA’, ‘sjmisc’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sjlabelled_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 322119 bytes (314 KB)
+==================================================
+downloaded 314 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/shinytitle_0.1.0.tar.gz'
+Content type 'binary/octet-stream' length 288535 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/BSDA_1.2.2.tar.gz'
+Content type 'binary/octet-stream' length 921619 bytes (900 KB)
+==================================================
+downloaded 900 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sjmisc_2.8.10.tar.gz'
+Content type 'binary/octet-stream' length 539437 bytes (526 KB)
+==================================================
+downloaded 526 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SVMDO_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 2498413 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+* installing *binary* package ‘sjlabelled’ ...
+* ‘sjlabelled’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sjlabelled’ as ‘sjlabelled_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sjlabelled)
+* installing *binary* package ‘shinytitle’ ...
+* ‘shinytitle’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shinytitle’ as ‘shinytitle_0.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinytitle)
+* installing *binary* package ‘BSDA’ ...
+* ‘BSDA’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘BSDA’ as ‘BSDA_1.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSDA)
+* installing *binary* package ‘sjmisc’ ...
+* ‘sjmisc’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sjmisc’ as ‘sjmisc_2.8.10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sjmisc)
+* installing *source* package ‘SVMDO’ ...
+** package ‘SVMDO’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SVMDO’ as ‘SVMDO_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SVMDO)
+
+The downloaded source packages are in
+	‘/tmp/RtmpElOE4l/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m25.350s
+user	0m36.156s
+sys	0m8.823s

@@ -1,0 +1,106 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'geneXtendeR'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/geneXtendeR_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 12313389 bytes (11.7 MB)
+==================================================
+downloaded 11.7 MB
+
+* installing *source* package ‘geneXtendeR’ ...
+** package ‘geneXtendeR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c annotate.c -o annotate.o
+annotate.c: In function ‘annotate’:
+annotate.c:159:79: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+  159 |                 Rf_error("annotate() doesn't handle output lines longer than %d characters", sizeof(Buffer));
+      |                                                                              ~^              ~~~~~~~~~~~~~~
+      |                                                                               |              |
+      |                                                                               int            long unsigned int
+      |                                                                              %ld
+annotate.c:191:87: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+  191 |                         Rf_error("annotate() doesn't handle output lines longer than %d characters",sizeof(Buffer));
+      |                                                                                      ~^             ~~~~~~~~~~~~~~
+      |                                                                                       |             |
+      |                                                                                       int           long unsigned int
+      |                                                                                      %ld
+annotate.c:199:87: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+  199 |                         Rf_error("annotate() doesn't handle output lines longer than %d characters",sizeof(Buffer));
+      |                                                                                      ~^             ~~~~~~~~~~~~~~
+      |                                                                                       |             |
+      |                                                                                       int           long unsigned int
+      |                                                                                      %ld
+annotate.c:208:87: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+  208 |                         Rf_error("annotate() doesn't handle output lines longer than %d characters",sizeof(Buffer));
+      |                                                                                      ~^             ~~~~~~~~~~~~~~
+      |                                                                                       |             |
+      |                                                                                       int           long unsigned int
+      |                                                                                      %ld
+annotate.c:228:83: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+  228 |                     Rf_error("annotate() doesn't handle output lines longer than %d characters",sizeof(Buffer));
+      |                                                                                  ~^             ~~~~~~~~~~~~~~
+      |                                                                                   |             |
+      |                                                                                   int           long unsigned int
+      |                                                                                  %ld
+annotate.c:106:5: warning: ignoring return value of ‘fgets’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+  106 |     fgets(varstr, 50000, varfp);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+annotate.c:116:5: warning: ignoring return value of ‘fgets’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+  116 |     fgets(vcfstr, 10000, vcffp);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c extract_number.c -o extract_number.o
+extract_number.c: In function ‘extractnumber’:
+extract_number.c:98:5: warning: ignoring return value of ‘fgets’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+   98 |     fgets(varstr, 50000, varfp);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+extract_number.c:108:5: warning: ignoring return value of ‘fgets’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+  108 |     fgets(vcfstr, 10000, vcffp);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c extract_peaks.c -o extract_peaks.o
+extract_peaks.c: In function ‘extractpeaks’:
+extract_peaks.c:202:79: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+  202 |                 Rf_error("annotate() doesn't handle output lines longer than %d characters", sizeof(Buffer));
+      |                                                                              ~^              ~~~~~~~~~~~~~~
+      |                                                                               |              |
+      |                                                                               int            long unsigned int
+      |                                                                              %ld
+extract_peaks.c:107:5: warning: ignoring return value of ‘fgets’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+  107 |     fgets(varstr, 50000, varfp);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+extract_peaks.c:117:5: warning: ignoring return value of ‘fgets’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+  117 |     fgets(vcfstr, 10000, vcffp);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o geneXtendeR.so annotate.o extract_number.o extract_peaks.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-geneXtendeR/00new/geneXtendeR/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘geneXtendeR’ as ‘geneXtendeR_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (geneXtendeR)
+
+The downloaded source packages are in
+	‘/tmp/RtmpbJ3P5b/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m25.110s
+user	0m50.344s
+sys	0m7.628s

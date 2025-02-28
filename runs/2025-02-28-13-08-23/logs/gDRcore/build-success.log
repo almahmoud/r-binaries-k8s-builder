@@ -1,0 +1,133 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'gDRcore'
+also installing the dependencies ‘NISTunits’, ‘celestial’, ‘magicaxis’, ‘PharmacoGx’, ‘gDRimport’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/NISTunits_1.0.1.tar.gz'
+Content type 'binary/octet-stream' length 1561301 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/celestial_1.4.6.tar.gz'
+Content type 'binary/octet-stream' length 366045 bytes (357 KB)
+==================================================
+downloaded 357 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/magicaxis_2.4.5.tar.gz'
+Content type 'binary/octet-stream' length 3714698 bytes (3.5 MB)
+==================================================
+downloaded 3.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/PharmacoGx_3.10.1.tar.gz'
+Content type 'application/x-gzip' length 4670715 bytes (4.5 MB)
+==================================================
+downloaded 4.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/gDRimport_1.4.6.tar.gz'
+Content type 'application/x-gzip' length 3161451 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/gDRcore_1.4.4.tar.gz'
+Content type 'application/x-gzip' length 1148974 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+* installing *binary* package ‘NISTunits’ ...
+* ‘NISTunits’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘NISTunits’ as ‘NISTunits_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NISTunits)
+* installing *source* package ‘gDRcore’ ...
+** package ‘gDRcore’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c gDRcore.cpp -o gDRcore.o
+gDRcore.cpp:6: warning: "R_NO_REMAP" redefined
+    6 | #define R_NO_REMAP
+      | 
+<command-line>: note: this is the location of the previous definition
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o gDRcore.so gDRcore.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-gDRcore/00new/gDRcore/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gDRcore’ as ‘gDRcore_1.4.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gDRcore)
+* installing *binary* package ‘celestial’ ...
+* ‘celestial’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘celestial’ as ‘celestial_1.4.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (celestial)
+* installing *binary* package ‘magicaxis’ ...
+* ‘magicaxis’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘magicaxis’ as ‘magicaxis_2.4.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (magicaxis)
+* installing *source* package ‘PharmacoGx’ ...
+** package ‘PharmacoGx’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c metaPermC.c -o metaPermC.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c rCPP_bridge.cpp -o rCPP_bridge.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o PharmacoGx.so RcppExports.o metaPermC.o rCPP_bridge.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-PharmacoGx/00new/PharmacoGx/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘PharmacoGx’ as ‘PharmacoGx_3.10.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (PharmacoGx)
+* installing *source* package ‘gDRimport’ ...
+** package ‘gDRimport’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gDRimport’ as ‘gDRimport_1.4.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gDRimport)
+
+The downloaded source packages are in
+	‘/tmp/RtmpS96N8F/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	3m36.527s
+user	1m13.067s
+sys	0m11.898s

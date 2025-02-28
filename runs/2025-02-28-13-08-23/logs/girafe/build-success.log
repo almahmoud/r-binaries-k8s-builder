@@ -1,0 +1,50 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'girafe'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/girafe_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 1615509 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+* installing *source* package ‘girafe’ ...
+** package ‘girafe’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c coverage.cpp -o coverage.o
+coverage.cpp: In function ‘SEXPREC* girafe_coverage(SEXP, SEXP, SEXP, SEXP)’:
+coverage.cpp:44:15: error: ‘length’ was not declared in this scope
+   44 |     int len = length(starts);
+      |               ^~~~~~
+In file included from /usr/local/lib/R/include/Rdefines.h:41,
+                 from coverage.cpp:8:
+coverage.cpp:104:20: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  104 |     PROTECT( res = allocVector( INTSXP, xxit * 2) );
+      |                    ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+make: *** [/usr/local/lib/R/etc/Makeconf:204: coverage.o] Error 1
+ERROR: compilation failed for package ‘girafe’
+* removing ‘/mnt/library/girafe’
+
+The downloaded source packages are in
+	‘/tmp/Rtmp0AabFn/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘girafe’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	1m22.302s
+user	0m9.523s
+sys	0m4.241s

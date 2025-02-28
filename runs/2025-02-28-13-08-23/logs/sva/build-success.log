@@ -1,0 +1,66 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'sva'
+also installing the dependency ‘zebrafishRNASeq’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/zebrafishRNASeq_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 439261 bytes (428 KB)
+==================================================
+downloaded 428 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/sva_3.54.0.tar.gz'
+Content type 'application/x-gzip' length 454419 bytes (443 KB)
+==================================================
+downloaded 443 KB
+
+* installing *source* package ‘zebrafishRNASeq’ ...
+** using staged installation
+** data
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘zebrafishRNASeq’ as ‘zebrafishRNASeq_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zebrafishRNASeq)
+* installing *source* package ‘sva’ ...
+** package ‘sva’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sva.c -o sva.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o sva.so sva.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-sva/00new/sva/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘sva’ as ‘sva_3.54.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sva)
+
+The downloaded source packages are in
+	‘/tmp/RtmpqUC7s6/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m47.897s
+user	0m25.330s
+sys	0m5.302s
