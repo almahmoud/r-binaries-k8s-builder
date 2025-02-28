@@ -1,0 +1,209 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'sincell'
+also installing the dependencies ‘UCSC.utils’, ‘XVector’, ‘GenomeInfoDb’, ‘Biostrings’, ‘IRanges’, ‘S4Vectors’, ‘KEGGREST’, ‘AnnotationDbi’, ‘DDRTree’, ‘HSMMSingleCell’, ‘limma’, ‘biocViews’, ‘TSP’, ‘fastICA’, ‘biomaRt’, ‘monocle’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/UCSC.utils_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 236888 bytes (231 KB)
+==================================================
+downloaded 231 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/x-gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biostrings_2.74.1.tar.gz'
+Content type 'application/x-gzip' length 12823307 bytes (12.2 MB)
+==================================================
+downloaded 12.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Vectors_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 1076666 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/KEGGREST_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 239655 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationDbi_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 4378038 bytes (4.2 MB)
+==================================================
+downloaded 4.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DDRTree_0.1.5.tar.gz'
+Content type 'binary/octet-stream' length 204266 bytes (199 KB)
+==================================================
+downloaded 199 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/HSMMSingleCell_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 16875731 bytes (16.1 MB)
+==================================================
+downloaded 16.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/limma_3.62.2.tar.gz'
+Content type 'application/x-gzip' length 2823335 bytes (2.7 MB)
+==================================================
+downloaded 2.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/biocViews_1.74.0.tar.gz'
+Content type 'application/x-gzip' length 521733 bytes (509 KB)
+==================================================
+downloaded 509 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/TSP_1.2-4.tar.gz'
+Content type 'binary/octet-stream' length 692636 bytes (676 KB)
+==================================================
+downloaded 676 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fastICA_1.2-7.tar.gz'
+Content type 'binary/octet-stream' length 42251 bytes (41 KB)
+==================================================
+downloaded 41 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/biomaRt_2.62.1.tar.gz'
+Content type 'application/x-gzip' length 865748 bytes (845 KB)
+==================================================
+downloaded 845 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/monocle_2.34.0.tar.gz'
+Content type 'application/x-gzip' length 9463822 bytes (9.0 MB)
+==================================================
+downloaded 9.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/sincell_1.38.0.tar.gz'
+Content type 'application/x-gzip' length 1240758 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-S4Vectors’
+* installing *binary* package ‘DDRTree’ ...
+* ‘DDRTree’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DDRTree’ as ‘DDRTree_0.1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DDRTree)
+* installing *source* package ‘HSMMSingleCell’ ...
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘HSMMSingleCell’ as ‘HSMMSingleCell_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HSMMSingleCell)
+* installing *source* package ‘limma’ ...
+** package ‘limma’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c normexp.c -o normexp.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c weighted_lowess.c -o weighted_lowess.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o limma.so init.o normexp.o weighted_lowess.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-limma/00new/limma/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘limma’ as ‘limma_3.62.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (limma)
+ERROR: dependency ‘Biobase’ is not available for package ‘biocViews’
+* removing ‘/mnt/library/biocViews’
+* installing *binary* package ‘TSP’ ...
+* ‘TSP’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘TSP’ as ‘TSP_1.2-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TSP)
+* installing *binary* package ‘fastICA’ ...
+* ‘fastICA’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fastICA’ as ‘fastICA_1.2-7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fastICA)
+ERROR: dependency ‘S4Vectors’ is not available for package ‘UCSC.utils’
+* removing ‘/mnt/library/UCSC.utils’
+ERROR: dependency ‘S4Vectors’ is not available for package ‘IRanges’
+* removing ‘/mnt/library/IRanges’
+ERROR: dependencies ‘Biobase’, ‘limma’, ‘biocViews’ are not available for package ‘monocle’
+* removing ‘/mnt/library/monocle’
+* installing *source* package ‘sincell’ ...
+** package ‘sincell’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c pseudoreplicatesbymodel.cpp -o pseudoreplicatesbymodel.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c pseudoreplicatesbynoise.cpp -o pseudoreplicatesbynoise.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c pseudoreplicatesbynoise_cv2.cpp -o pseudoreplicatesbynoise_cv2.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c sstalgorithm.cpp -o sstalgorithm.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o sincell.so RcppExports.o pseudoreplicatesbymodel.o pseudoreplicatesbynoise.o pseudoreplicatesbynoise_cv2.o sstalgorithm.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-sincell/00new/sincell/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘sincell’ as ‘sincell_1.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sincell)
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘XVector’
+* removing ‘/mnt/library/XVector’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘UCSC.utils’ are not available for package ‘GenomeInfoDb’
+* removing ‘/mnt/library/GenomeInfoDb’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘XVector’, ‘GenomeInfoDb’ are not available for package ‘Biostrings’
+* removing ‘/mnt/library/Biostrings’
+ERROR: dependency ‘Biostrings’ is not available for package ‘KEGGREST’
+* removing ‘/mnt/library/KEGGREST’
+ERROR: dependencies ‘Biobase’, ‘IRanges’, ‘S4Vectors’, ‘KEGGREST’ are not available for package ‘AnnotationDbi’
+* removing ‘/mnt/library/AnnotationDbi’
+ERROR: dependency ‘AnnotationDbi’ is not available for package ‘biomaRt’
+* removing ‘/mnt/library/biomaRt’
+
+The downloaded source packages are in
+	‘/tmp/RtmpVNRwZe/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+There were 11 warnings (use warnings() to see them)
+
+real	11m58.907s
+user	0m43.070s
+sys	0m10.095s

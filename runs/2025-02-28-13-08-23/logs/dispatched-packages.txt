@@ -427,3 +427,9 @@ MethylMix
 ggtree
 statTarget
 tkWidgets
+IsoCorrectoRGUI
+Rhtslib
+affyio
+cytolib
+rhdf5filters
+seqTools

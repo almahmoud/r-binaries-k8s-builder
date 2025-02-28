@@ -1,0 +1,70 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ternarynet'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ternarynet_1.50.0.tar.gz'
+Content type 'application/x-gzip' length 277879 bytes (271 KB)
+==================================================
+downloaded 271 KB
+
+* installing *source* package ‘ternarynet’ ...
+** package ‘ternarynet’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c array.c -o array.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c gn.c -o gn.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c gn_Rwrap.c -o gn_Rwrap.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c tnetfit.cc -o tnetfit.o
+tnetfit.cc: In function ‘SEXPREC* tnetfit(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+tnetfit.cc:35:32: error: ‘coerceVector’ was not declared in this scope; did you mean ‘Rf_coerceVector’?
+   35 |     perturbationType = INTEGER(coerceVector(RperturbationType, INTSXP))[0];
+      |                                ^~~~~~~~~~~~
+      |                                Rf_coerceVector
+In file included from /usr/local/lib/R/include/Rdefines.h:41,
+                 from tnetfit.cc:12:
+tnetfit.cc:220:23: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  220 |     PROTECT(Routput = allocVector(VECSXP, 14));
+      |                       ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+tnetfit.cc:311:33: error: ‘ScalarReal’ was not declared in this scope; did you mean ‘Rf_ScalarReal’?
+  311 |     SET_VECTOR_ELT(Routput, 10, ScalarReal(newScore));
+      |                                 ^~~~~~~~~~
+      |                                 Rf_ScalarReal
+tnetfit.cc:315:33: error: ‘ScalarInteger’ was not declared in this scope; did you mean ‘Rf_ScalarInteger’?
+  315 |     SET_VECTOR_ELT(Routput, 12, ScalarInteger(stage_count));
+      |                                 ^~~~~~~~~~~~~
+      |                                 Rf_ScalarInteger
+tnetfit.cc:320:29: error: ‘mkChar’ was not declared in this scope
+  320 |     SET_STRING_ELT(Rnames,0,mkChar("degreeObj"));
+      |                             ^~~~~~
+tnetfit.cc:334:5: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+  334 |     setAttrib(Routput, R_NamesSymbol, Rnames);
+      |     ^~~~~~~~~
+      |     Rf_setAttrib
+make: *** [/usr/local/lib/R/etc/Makeconf:202: tnetfit.o] Error 1
+ERROR: compilation failed for package ‘ternarynet’
+* removing ‘/mnt/library/ternarynet’
+
+The downloaded source packages are in
+	‘/tmp/RtmpHhbbu5/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘ternarynet’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	7m54.526s
+user	0m6.534s
+sys	0m2.131s
