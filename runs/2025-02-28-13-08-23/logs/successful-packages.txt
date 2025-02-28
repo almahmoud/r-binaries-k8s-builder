@@ -1631,3 +1631,12 @@ GSRI
 HicAggR
 iSEEhub
 MatrixRider
+cellity
+chromVAR
+easylift
+enrichplot
+epidecodeR
+ExCluster
+gep2pep
+HiTC
+SpotClean

@@ -236,6 +236,7 @@ EnMCB
 EnhancedVolcano
 EnrichedHeatmap
 EpiDISH
+ExCluster
 ExiMiR
 ExperimentHub
 ExperimentSubset
@@ -342,6 +343,7 @@ HiCBricks
 HiCDOC
 HiCExperiment
 HiCcompare
+HiTC
 HicAggR
 HilbertCurve
 HilbertVis
@@ -713,6 +715,7 @@ Spectra
 SpectraQL
 SpectralTAD
 SplicingFactory
+SpotClean
 SpotSweeper
 StabMap
 Statial
@@ -882,6 +885,7 @@ ccrepe
 ceRNAnetsim
 celaref
 cellbaseR
+cellity
 cellmigRation
 cellscape
 cellxgenedp
@@ -893,6 +897,7 @@ chipseq
 chopsticks
 chromDraw
 chromPlot
+chromVAR
 chromstaR
 cisPath
 cleaver
@@ -977,14 +982,17 @@ drawProteins
 dupRadar
 dyebias
 easyRNASeq
+easylift
 easyreporting
 ecolitk
 edgeR
 eds
 eiR
 eisaR
+enrichplot
 epiNEM
 epialleleR
+epidecodeR
 epigenomix
 epigraHMM
 epistack
@@ -1070,6 +1078,7 @@ genomation
 genomeIntervals
 genomes
 genomicInstability
+gep2pep
 getDEE2
 geva
 gg4way
