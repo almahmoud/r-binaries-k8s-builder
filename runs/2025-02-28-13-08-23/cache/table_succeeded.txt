@@ -1988,3 +1988,5 @@
 ['[yarn](https://bioconductor.org/packages/3.20/bioc/html/yarn.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/yarn/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/yarn)']
 ['[mCSEA](https://bioconductor.org/packages/3.20/bioc/html/mCSEA.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/mCSEA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mCSEA)']
 ['[motifbreakR](https://bioconductor.org/packages/3.20/bioc/html/motifbreakR.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/motifbreakR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifbreakR)']
+['[maser](https://bioconductor.org/packages/3.20/bioc/html/maser.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/maser/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/maser)']
+['[multicrispr](https://bioconductor.org/packages/3.20/bioc/html/multicrispr.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/multicrispr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multicrispr)']

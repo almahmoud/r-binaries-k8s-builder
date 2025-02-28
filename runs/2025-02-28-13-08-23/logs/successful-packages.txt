@@ -2112,3 +2112,5 @@ methylPipe
 yarn
 mCSEA
 motifbreakR
+maser
+multicrispr

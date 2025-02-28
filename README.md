@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1990 packages built successfully
+- 1992 packages built successfully
 - 3 packages failed to build
-- 116 packages not yet processed
+- 114 packages not yet processed
 
 ## Failed Builds (3)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
@@ -15,7 +15,7 @@
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
-## Successfully Built (1990)
+## Successfully Built (1992)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                      |
@@ -2008,8 +2008,10 @@
 | [yarn](https://bioconductor.org/packages/3.20/bioc/html/yarn.html)                                               | Built    | [Log](runs/2025-02-28-13-08-23/logs/yarn/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/yarn)                        |
 | [mCSEA](https://bioconductor.org/packages/3.20/bioc/html/mCSEA.html)                                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/mCSEA/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mCSEA)                       |
 | [motifbreakR](https://bioconductor.org/packages/3.20/bioc/html/motifbreakR.html)                                 | Built    | [Log](runs/2025-02-28-13-08-23/logs/motifbreakR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifbreakR)                 |
+| [maser](https://bioconductor.org/packages/3.20/bioc/html/maser.html)                                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/maser/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/maser)                       |
+| [multicrispr](https://bioconductor.org/packages/3.20/bioc/html/multicrispr.html)                                 | Built    | [Log](runs/2025-02-28-13-08-23/logs/multicrispr/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multicrispr)                 |
 
-## Not Yet Processed (116)
+## Not Yet Processed (114)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [AMARETTO](https://bioconductor.org/packages/3.20/bioc/html/AMARETTO.html)                                     | Unprocessed |
@@ -2100,12 +2102,10 @@
 | [lipidr](https://bioconductor.org/packages/3.20/bioc/html/lipidr.html)                                         | Unprocessed |
 | [lumi](https://bioconductor.org/packages/3.20/bioc/html/lumi.html)                                             | Unprocessed |
 | [mariner](https://bioconductor.org/packages/3.20/bioc/html/mariner.html)                                       | Unprocessed |
-| [maser](https://bioconductor.org/packages/3.20/bioc/html/maser.html)                                           | Unprocessed |
 | [methylGSA](https://bioconductor.org/packages/3.20/bioc/html/methylGSA.html)                                   | Unprocessed |
 | [missMethyl](https://bioconductor.org/packages/3.20/bioc/html/missMethyl.html)                                 | Unprocessed |
 | [mosdef](https://bioconductor.org/packages/3.20/bioc/html/mosdef.html)                                         | Unprocessed |
 | [msgbsR](https://bioconductor.org/packages/3.20/bioc/html/msgbsR.html)                                         | Unprocessed |
-| [multicrispr](https://bioconductor.org/packages/3.20/bioc/html/multicrispr.html)                               | Unprocessed |
 | [netSmooth](https://bioconductor.org/packages/3.20/bioc/html/netSmooth.html)                                   | Unprocessed |
 | [netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)                                       | Unprocessed |
 | [orthos](https://bioconductor.org/packages/3.20/bioc/html/orthos.html)                                         | Unprocessed |

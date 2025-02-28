@@ -1550,6 +1550,7 @@ mapscape
 marr
 marray
 martini
+maser
 maskBAD
 massiR
 mastR
@@ -1650,6 +1651,7 @@ multiGSEA
 multiHiCcompare
 multiMiR
 multiWGCNA
+multicrispr
 multiscan
 multistateQTL
 multtest
