@@ -1174,6 +1174,7 @@ clusterSeq
 clusterStab
 clustifyr
 cmapR
+cn.farms
 cn.mops
 cnvGSA
 coGPS
@@ -1212,6 +1213,7 @@ csaw
 csdR
 ctc
 ctsGE
+cummeRbund
 customCMPdb
 customProDB
 cyanoFilter
@@ -1367,6 +1369,7 @@ funOmics
 funtooNorm
 gCrisprTools
 gDNAx
+gDR
 gDRcore
 gDRimport
 gDRstyle
@@ -1582,6 +1585,7 @@ methylCC
 methylInheritance
 methylKit
 methylMnM
+methylPipe
 methylSig
 methylclock
 methylscaper
@@ -2102,6 +2106,7 @@ xcore
 xenLite
 xmapbridge
 yamss
+yarn
 zFPKM
 zellkonverter
 zenith

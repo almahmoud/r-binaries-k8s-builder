@@ -1,0 +1,86 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'cn.farms'
+also installing the dependencies ‘affxparser’, ‘oligo’, ‘pd.mapping250k.sty’, ‘pd.mapping250k.nsp’, ‘pd.genomewidesnp.5’, ‘pd.genomewidesnp.6’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/affxparser_1.78.0.tar.gz'
+Content type 'application/x-gzip' length 818689 bytes (799 KB)
+==================================================
+downloaded 799 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/oligo_1.70.0.tar.gz'
+Content type 'application/x-gzip' length 28426452 bytes (27.1 MB)
+==================================================
+downloaded 27.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/pd.mapping250k.sty_3.12.0.tar.gz'
+Content type 'application/x-gzip' length 358969969 bytes (342.3 MB)
+==================================================
+downloaded 342.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/pd.mapping250k.nsp_3.12.0.tar.gz'
+Content type 'application/x-gzip' length 365954976 bytes (349.0 MB)
+==================================================
+downloaded 349.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/pd.genomewidesnp.5_3.14.1.tar.gz'
+Content type 'application/x-gzip' length 432226537 bytes (412.2 MB)
+==================================================
+downloaded 412.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/pd.genomewidesnp.6_3.14.1.tar.gz'
+Content type 'application/x-gzip' length 642701103 bytes (612.9 MB)
+==================================================
+downloaded 612.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/cn.farms_1.54.0.tar.gz'
+Content type 'application/x-gzip' length 2405505 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-affxparser’
+ERROR: dependency ‘affxparser’ is not available for package ‘oligo’
+* removing ‘/mnt/library/oligo’
+ERROR: dependency ‘oligo’ is not available for package ‘pd.mapping250k.sty’
+* removing ‘/mnt/library/pd.mapping250k.sty’
+ERROR: dependency ‘oligo’ is not available for package ‘pd.mapping250k.nsp’
+* removing ‘/mnt/library/pd.mapping250k.nsp’
+ERROR: dependency ‘oligo’ is not available for package ‘pd.genomewidesnp.5’
+* removing ‘/mnt/library/pd.genomewidesnp.5’
+ERROR: dependency ‘oligo’ is not available for package ‘pd.genomewidesnp.6’
+* removing ‘/mnt/library/pd.genomewidesnp.6’
+ERROR: dependencies ‘affxparser’, ‘oligo’ are not available for package ‘cn.farms’
+* removing ‘/mnt/library/cn.farms’
+
+The downloaded source packages are in
+	‘/tmp/RtmpS1Kffl/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘affxparser’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘oligo’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘pd.mapping250k.sty’ had non-zero exit status
+4: In install.packages(...) :
+  installation of package ‘pd.mapping250k.nsp’ had non-zero exit status
+5: In install.packages(...) :
+  installation of package ‘pd.genomewidesnp.5’ had non-zero exit status
+6: In install.packages(...) :
+  installation of package ‘pd.genomewidesnp.6’ had non-zero exit status
+7: In install.packages(...) :
+  installation of package ‘cn.farms’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	5m4.547s
+user	2m44.987s
+sys	0m25.001s

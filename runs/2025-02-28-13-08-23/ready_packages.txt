@@ -1,5 +1,2 @@
-CAGEr
-ChIPXpress
-derfinderPlot
-recount
-regionReport
+compEpiTools
+netZooR

@@ -2105,3 +2105,8 @@ derfinder
 extraChIPs
 frma
 intansv
+cn.farms
+cummeRbund
+gDR
+methylPipe
+yarn
