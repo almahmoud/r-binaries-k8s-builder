@@ -1773,3 +1773,8 @@ methylInheritance
 monaLisa
 motifStack
 motifmatchr
+ATACseqTFEA
+enhancerHomologSearch
+epiregulon
+iSEEtree
+pageRank

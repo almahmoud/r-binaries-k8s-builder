@@ -410,6 +410,7 @@ MEDME
 MEIGOR
 MGFM
 MGFR
+MGnifyR
 MICSQTL
 MLInterfaces
 MLP
@@ -686,6 +687,7 @@ SeqVarTools
 SharedObject
 ShortRead
 SiPSiC
+SigCheck
 SigFuge
 SimBu
 SimFFPE
@@ -695,6 +697,7 @@ SingleR
 SpaNorm
 SpaceMarkers
 SparseArray
+SparseSignatures
 SpatialCPie
 SpatialDecon
 SpatialExperiment
@@ -864,6 +867,7 @@ bugsigdbr
 cTRAP
 calm
 cancerclass
+categoryCompare
 cbpManager
 ccImpute
 ccfindR
@@ -928,6 +932,7 @@ cytoMEM
 cytolib
 dStruct
 daMA
+dar
 dcGSA
 dcanr
 dce
@@ -969,6 +974,7 @@ eisaR
 epiNEM
 epialleleR
 epigenomix
+epigraHMM
 epistack
 epistasisGA
 epivizrServer
@@ -1096,6 +1102,7 @@ hierGWAS
 hierinf
 hipathia
 hmdbQuery
+hoodscanR
 hopach
 hummingbird
 hypeR
@@ -1179,6 +1186,7 @@ mdp
 mdqc
 megadepth
 memes
+meshr
 messina
 metaCCA
 metaSeq
@@ -1207,6 +1215,7 @@ miRNAtap
 miRcomp
 mia
 miaSim
+miaViz
 microRNA
 microSTASIS
 microbiome
@@ -1232,6 +1241,7 @@ mosaics
 mosbi
 motifTestR
 motifcounter
+motifmatchr
 mpra
 msPurity
 msa

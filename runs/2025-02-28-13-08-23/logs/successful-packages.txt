@@ -1603,3 +1603,13 @@ miRLAB
 mobileRNA
 SCOPE
 TFBSTools
+categoryCompare
+dar
+epigraHMM
+hoodscanR
+meshr
+MGnifyR
+miaViz
+motifmatchr
+SigCheck
+SparseSignatures

@@ -1,0 +1,63 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'categoryCompare'
+also installing the dependency ‘estrogen’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/estrogen_1.52.0.tar.gz'
+Content type 'application/x-gzip' length 27583750 bytes (26.3 MB)
+==================================================
+downloaded 26.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/categoryCompare_1.50.0.tar.gz'
+Content type 'application/x-gzip' length 3317988 bytes (3.2 MB)
+==================================================
+downloaded 3.2 MB
+
+* installing *source* package ‘estrogen’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘estrogen’ as ‘estrogen_1.52.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (estrogen)
+* installing *source* package ‘categoryCompare’ ...
+** package ‘categoryCompare’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Note: ... may be used in an incorrect context 
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘categoryCompare’ as ‘categoryCompare_1.50.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (categoryCompare)
+
+The downloaded source packages are in
+	‘/tmp/RtmpooQ9pO/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	3m11.609s
+user	0m57.126s
+sys	0m7.626s
