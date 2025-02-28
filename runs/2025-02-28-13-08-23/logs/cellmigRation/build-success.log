@@ -1,0 +1,192 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'cellmigRation'
+also installing the dependencies ‘magic’, ‘rootSolve’, ‘spBayes’, ‘sm’, ‘ellipse’, ‘emmeans’, ‘flashClust’, ‘leaps’, ‘multcompView’, ‘svglite’, ‘FME’, ‘SpatialTools’, ‘vioplot’, ‘FactoMineR’, ‘kableExtra’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/magic_1.6-1.tar.gz'
+Content type 'binary/octet-stream' length 406439 bytes (396 KB)
+==================================================
+downloaded 396 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rootSolve_1.8.2.4.tar.gz'
+Content type 'binary/octet-stream' length 686808 bytes (670 KB)
+==================================================
+downloaded 670 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/spBayes_0.4-8.tar.gz'
+Content type 'binary/octet-stream' length 1158470 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sm_2.2-6.0.tar.gz'
+Content type 'binary/octet-stream' length 808942 bytes (789 KB)
+==================================================
+downloaded 789 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ellipse_0.5.0.tar.gz'
+Content type 'binary/octet-stream' length 218404 bytes (213 KB)
+==================================================
+downloaded 213 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/emmeans_1.10.7.tar.gz'
+Content type 'binary/octet-stream' length 2198699 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/flashClust_1.01-2.tar.gz'
+Content type 'binary/octet-stream' length 21024 bytes (20 KB)
+==================================================
+downloaded 20 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/leaps_3.2.tar.gz'
+Content type 'binary/octet-stream' length 82171 bytes (80 KB)
+==================================================
+downloaded 80 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/multcompView_0.1-10.tar.gz'
+Content type 'binary/octet-stream' length 114942 bytes (112 KB)
+==================================================
+downloaded 112 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/svglite_2.1.3.tar.gz'
+Content type 'binary/octet-stream' length 205672 bytes (200 KB)
+==================================================
+downloaded 200 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/FME_1.3.6.3.tar.gz'
+Content type 'binary/octet-stream' length 3956687 bytes (3.8 MB)
+==================================================
+downloaded 3.8 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/SpatialTools_1.0.5.tar.gz'
+Content type 'binary/octet-stream' length 340653 bytes (332 KB)
+==================================================
+downloaded 332 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/vioplot_0.5.1.tar.gz'
+Content type 'binary/octet-stream' length 437697 bytes (427 KB)
+==================================================
+downloaded 427 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/FactoMineR_2.11.tar.gz'
+Content type 'binary/octet-stream' length 3798550 bytes (3.6 MB)
+==================================================
+downloaded 3.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/kableExtra_1.4.0.tar.gz'
+Content type 'binary/octet-stream' length 2050464 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/cellmigRation_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 1214293 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+* installing *binary* package ‘magic’ ...
+* ‘magic’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘magic’ as ‘magic_1.6-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (magic)
+* installing *binary* package ‘rootSolve’ ...
+* ‘rootSolve’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rootSolve’ as ‘rootSolve_1.8.2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rootSolve)
+* installing *binary* package ‘sm’ ...
+* ‘sm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sm’ as ‘sm_2.2-6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sm)
+* installing *binary* package ‘ellipse’ ...
+* ‘ellipse’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ellipse’ as ‘ellipse_0.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ellipse)
+* installing *binary* package ‘emmeans’ ...
+* ‘emmeans’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘emmeans’ as ‘emmeans_1.10.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (emmeans)
+* installing *binary* package ‘flashClust’ ...
+* ‘flashClust’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘flashClust’ as ‘flashClust_1.01-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (flashClust)
+* installing *binary* package ‘leaps’ ...
+* ‘leaps’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘leaps’ as ‘leaps_3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (leaps)
+* installing *binary* package ‘multcompView’ ...
+* ‘multcompView’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘multcompView’ as ‘multcompView_0.1-10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (multcompView)
+* installing *binary* package ‘svglite’ ...
+* ‘svglite’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘svglite’ as ‘svglite_2.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (svglite)
+* installing *binary* package ‘spBayes’ ...
+* ‘spBayes’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spBayes’ as ‘spBayes_0.4-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spBayes)
+* installing *binary* package ‘FME’ ...
+* ‘FME’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘FME’ as ‘FME_1.3.6.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FME)
+* installing *binary* package ‘vioplot’ ...
+* ‘vioplot’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘vioplot’ as ‘vioplot_0.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (vioplot)
+* installing *binary* package ‘FactoMineR’ ...
+* ‘FactoMineR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘FactoMineR’ as ‘FactoMineR_2.11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FactoMineR)
+* installing *binary* package ‘kableExtra’ ...
+* ‘kableExtra’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘kableExtra’ as ‘kableExtra_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kableExtra)
+* installing *binary* package ‘SpatialTools’ ...
+* ‘SpatialTools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘SpatialTools’ as ‘SpatialTools_1.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SpatialTools)
+* installing *source* package ‘cellmigRation’ ...
+** package ‘cellmigRation’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘cellmigRation’ as ‘cellmigRation_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cellmigRation)
+
+The downloaded source packages are in
+	‘/tmp/RtmpS16RTo/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	10m14.819s
+user	0m23.229s
+sys	0m6.803s

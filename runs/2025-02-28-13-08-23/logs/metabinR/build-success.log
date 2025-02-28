@@ -1,0 +1,180 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'metabinR'
+also installing the dependencies ‘insight’, ‘bayestestR’, ‘datawizard’, ‘terra’, ‘s2’, ‘units’, ‘groupdata2’, ‘MuMIn’, ‘parameters’, ‘rearrr’, ‘raster’, ‘sf’, ‘cvms’, ‘sabre’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/insight_1.0.2.tar.gz'
+Content type 'binary/octet-stream' length 2297654 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bayestestR_0.15.2.tar.gz'
+Content type 'binary/octet-stream' length 1088781 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/datawizard_1.0.0.tar.gz'
+Content type 'binary/octet-stream' length 1120611 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/terra_1.8-29.tar.gz'
+Content type 'binary/octet-stream' length 4753185 bytes (4.5 MB)
+==================================================
+downloaded 4.5 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/s2_1.1.7.tar.gz'
+Content type 'binary/octet-stream' length 2197719 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/units_0.8-5.tar.gz'
+Content type 'binary/octet-stream' length 365062 bytes (356 KB)
+==================================================
+downloaded 356 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/groupdata2_2.0.5.tar.gz'
+Content type 'binary/octet-stream' length 1225238 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/MuMIn_1.48.4.tar.gz'
+Content type 'binary/octet-stream' length 891811 bytes (870 KB)
+==================================================
+downloaded 870 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/parameters_0.24.1.tar.gz'
+Content type 'binary/octet-stream' length 2176340 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rearrr_0.3.4.tar.gz'
+Content type 'binary/octet-stream' length 1786654 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/raster_3.6-31.tar.gz'
+Content type 'binary/octet-stream' length 3386627 bytes (3.2 MB)
+==================================================
+downloaded 3.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sf_1.0-19.tar.gz'
+Content type 'binary/octet-stream' length 3797720 bytes (3.6 MB)
+==================================================
+downloaded 3.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/cvms_1.6.3.tar.gz'
+Content type 'binary/octet-stream' length 3660928 bytes (3.5 MB)
+==================================================
+downloaded 3.5 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sabre_0.4.3.tar.gz'
+Content type 'binary/octet-stream' length 642551 bytes (627 KB)
+==================================================
+downloaded 627 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/metabinR_1.8.0.tar.gz'
+Content type 'application/x-gzip' length 4610703 bytes (4.4 MB)
+==================================================
+downloaded 4.4 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-insight’
+* installing *binary* package ‘terra’ ...
+* ‘terra’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘terra’ as ‘terra_1.8-29_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (terra)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-s2’
+* installing *binary* package ‘units’ ...
+* ‘units’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘units’ as ‘units_0.8-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (units)
+* installing *binary* package ‘rearrr’ ...
+* ‘rearrr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rearrr’ as ‘rearrr_0.3.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rearrr)
+* installing *source* package ‘metabinR’ ...
+** package ‘metabinR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘metabinR’ as ‘metabinR_1.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (metabinR)
+* installing *binary* package ‘datawizard’ ...
+* ‘datawizard’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘datawizard’ as ‘datawizard_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (datawizard)
+* installing *binary* package ‘groupdata2’ ...
+* ‘groupdata2’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘groupdata2’ as ‘groupdata2_2.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (groupdata2)
+* installing *binary* package ‘MuMIn’ ...
+* ‘MuMIn’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘MuMIn’ as ‘MuMIn_1.48.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MuMIn)
+* installing *binary* package ‘raster’ ...
+* ‘raster’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘raster’ as ‘raster_3.6-31_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (raster)
+* installing *binary* package ‘sf’ ...
+* ‘sf’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sf’ as ‘sf_1.0-19_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sf)
+* installing *binary* package ‘bayestestR’ ...
+* ‘bayestestR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bayestestR’ as ‘bayestestR_0.15.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bayestestR)
+* installing *binary* package ‘sabre’ ...
+* ‘sabre’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sabre’ as ‘sabre_0.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sabre)
+* installing *binary* package ‘parameters’ ...
+* ‘parameters’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘parameters’ as ‘parameters_0.24.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (parameters)
+* installing *binary* package ‘cvms’ ...
+* ‘cvms’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘cvms’ as ‘cvms_1.6.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cvms)
+
+The downloaded source packages are in
+	‘/tmp/RtmpVMdtY2/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘insight’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘s2’ had non-zero exit status
+
+real	9m55.889s
+user	0m16.396s
+sys	0m5.898s

@@ -417,3 +417,7 @@ mzID
 oppti
 rawDiag
 synlet
+DEGseq
+OPWeight
+SpaceMarkers
+sights

@@ -1,0 +1,205 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'granulator'
+also installing the dependencies ‘fontBitstreamVera’, ‘fontLiberation’, ‘wk’, ‘fontquiver’, ‘s2’, ‘units’, ‘gdtools’, ‘BiasedUrn’, ‘sf’, ‘flextable’, ‘officer’, ‘epiR’, ‘dtangle’, ‘limSolve’, ‘nnls’, ‘pheatmap’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fontBitstreamVera_0.1.1.tar.gz'
+Content type 'binary/octet-stream' length 699472 bytes (683 KB)
+==================================================
+downloaded 683 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fontLiberation_0.1.0.tar.gz'
+Content type 'binary/octet-stream' length 4539098 bytes (4.3 MB)
+==================================================
+downloaded 4.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/wk_0.9.4.tar.gz'
+Content type 'binary/octet-stream' length 1728317 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fontquiver_0.2.1.tar.gz'
+Content type 'binary/octet-stream' length 2279696 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/s2_1.1.7.tar.gz'
+Content type 'binary/octet-stream' length 2197719 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/units_0.8-5.tar.gz'
+Content type 'binary/octet-stream' length 365062 bytes (356 KB)
+==================================================
+downloaded 356 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gdtools_0.4.1.tar.gz'
+Content type 'binary/octet-stream' length 208702 bytes (203 KB)
+==================================================
+downloaded 203 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/BiasedUrn_2.0.12.tar.gz'
+Content type 'binary/octet-stream' length 288079 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sf_1.0-19.tar.gz'
+Content type 'binary/octet-stream' length 3797720 bytes (3.6 MB)
+==================================================
+downloaded 3.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/flextable_0.9.7.tar.gz'
+Content type 'binary/octet-stream' length 2341787 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/officer_0.6.7.tar.gz'
+Content type 'binary/octet-stream' length 1823007 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/epiR_2.0.80.tar.gz'
+Content type 'binary/octet-stream' length 1731877 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dtangle_2.0.9.tar.gz'
+Content type 'binary/octet-stream' length 332786 bytes (324 KB)
+==================================================
+downloaded 324 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/limSolve_1.5.7.1.tar.gz'
+Content type 'binary/octet-stream' length 795887 bytes (777 KB)
+==================================================
+downloaded 777 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/nnls_1.6.tar.gz'
+Content type 'binary/octet-stream' length 37359 bytes (36 KB)
+==================================================
+downloaded 36 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pheatmap_1.0.12.tar.gz'
+Content type 'binary/octet-stream' length 77416 bytes (75 KB)
+==================================================
+downloaded 75 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/granulator_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 1356334 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+* installing *binary* package ‘fontBitstreamVera’ ...
+* ‘fontBitstreamVera’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fontBitstreamVera’ as ‘fontBitstreamVera_0.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fontBitstreamVera)
+* installing *binary* package ‘fontLiberation’ ...
+* ‘fontLiberation’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fontLiberation’ as ‘fontLiberation_0.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fontLiberation)
+* installing *binary* package ‘wk’ ...
+* ‘wk’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘wk’ as ‘wk_0.9.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (wk)
+* installing *binary* package ‘units’ ...
+* ‘units’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘units’ as ‘units_0.8-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (units)
+* installing *binary* package ‘BiasedUrn’ ...
+* ‘BiasedUrn’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘BiasedUrn’ as ‘BiasedUrn_2.0.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiasedUrn)
+* installing *binary* package ‘officer’ ...
+* ‘officer’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘officer’ as ‘officer_0.6.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (officer)
+* installing *binary* package ‘dtangle’ ...
+* ‘dtangle’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dtangle’ as ‘dtangle_2.0.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dtangle)
+* installing *binary* package ‘limSolve’ ...
+* ‘limSolve’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘limSolve’ as ‘limSolve_1.5.7.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (limSolve)
+* installing *binary* package ‘nnls’ ...
+* ‘nnls’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘nnls’ as ‘nnls_1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (nnls)
+* installing *binary* package ‘pheatmap’ ...
+* ‘pheatmap’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pheatmap’ as ‘pheatmap_1.0.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pheatmap)
+* installing *binary* package ‘fontquiver’ ...
+* ‘fontquiver’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fontquiver’ as ‘fontquiver_0.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fontquiver)
+* installing *binary* package ‘s2’ ...
+* ‘s2’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘s2’ as ‘s2_1.1.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (s2)
+* installing *binary* package ‘gdtools’ ...
+* ‘gdtools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gdtools’ as ‘gdtools_0.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gdtools)
+* installing *binary* package ‘sf’ ...
+* ‘sf’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sf’ as ‘sf_1.0-19_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sf)
+* installing *binary* package ‘flextable’ ...
+* ‘flextable’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘flextable’ as ‘flextable_0.9.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (flextable)
+* installing *binary* package ‘epiR’ ...
+* ‘epiR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘epiR’ as ‘epiR_2.0.80_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (epiR)
+* installing *source* package ‘granulator’ ...
+** package ‘granulator’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning in read.dcf(file.path(p, "DESCRIPTION"), c("Package", "Version")) :
+  cannot open compressed file '/mnt/library/sf/DESCRIPTION', probable reason 'No such file or directory'
+Error in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]) : 
+  there is no package called ‘sf’
+Calls: <Anonymous> ... loadNamespace -> withRestarts -> withOneRestart -> doWithOneRestart
+Execution halted
+ERROR: lazy loading failed for package ‘granulator’
+* removing ‘/mnt/library/granulator’
+
+The downloaded source packages are in
+	‘/tmp/Rtmp2rti2h/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘granulator’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	9m7.270s
+user	0m15.648s
+sys	0m5.870s
