@@ -1754,3 +1754,12 @@ HiCool
 mastR
 standR
 XNAString
+dada2
+MatrixQCvis
+methInheritSim
+monaLisa
+MSstatsQCgui
+PECA
+scone
+scviR
+SpliceWiz

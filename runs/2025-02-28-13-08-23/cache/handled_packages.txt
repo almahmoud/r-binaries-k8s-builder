@@ -480,6 +480,7 @@ MSstatsLOBD
 MSstatsLiP
 MSstatsPTM
 MSstatsQC
+MSstatsQCgui
 MSstatsShiny
 MSstatsTMT
 MVCClass
@@ -490,6 +491,7 @@ MantelCorr
 MassArray
 MassSpecWavelet
 MatrixGenerics
+MatrixQCvis
 MatrixRider
 MeSHDbi
 MeasurementError.cor
@@ -579,6 +581,7 @@ PAIRADISE
 PANR
 PCAN
 PCAtools
+PECA
 PICS
 PIPETS
 PIUMA
@@ -770,6 +773,7 @@ SpeCond
 Spectra
 SpectraQL
 SpectralTAD
+SpliceWiz
 SplicingFactory
 SpotClean
 SpotSweeper
@@ -1021,6 +1025,7 @@ cytomapper
 cytoviewer
 dStruct
 daMA
+dada2
 dagLogo
 dar
 dcGSA
@@ -1319,6 +1324,7 @@ metagenomeSeq
 metahdep
 metapod
 metapone
+methInheritSim
 methimpute
 methrix
 methyLImp2
@@ -1357,6 +1363,7 @@ mnem
 moanin
 mobileRNA
 mogsa
+monaLisa
 monocle
 mosaics
 mosbi
@@ -1597,6 +1604,7 @@ schex
 scider
 scifer
 scmap
+scone
 scoup
 scp
 scran
@@ -1604,6 +1612,7 @@ scrapper
 screenCounter
 scry
 scuttle
+scviR
 seahtrue
 sechm
 segmentSeq
