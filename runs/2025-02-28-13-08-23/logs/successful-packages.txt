@@ -1854,3 +1854,16 @@ RiboCrypt
 TAPseq
 TFHAZ
 Voyager
+AnnotationHubData
+CelliD
+condiments
+FRASER
+GenomicPlot
+InPAS
+NanoMethViz
+RegionalST
+TFEA.ChIP
+TRESS
+txcutr
+UMI4Cats
+wavClusteR

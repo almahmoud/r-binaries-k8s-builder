@@ -41,6 +41,7 @@ AnnotationDbi
 AnnotationFilter
 AnnotationForge
 AnnotationHub
+AnnotationHubData
 AssessORF
 BADER
 BAGS
@@ -169,6 +170,7 @@ CellMixS
 CellNOptR
 CellScore
 CellTrails
+CelliD
 Cepo
 CexoR
 ChIPComp
@@ -296,6 +298,7 @@ FEAST
 FELLA
 FGNet
 FISHalyseR
+FRASER
 FRGEpistasis
 FamAgg
 FeatSeekR
@@ -363,6 +366,7 @@ GenomicAlignments
 GenomicDataCommons
 GenomicDistributions
 GenomicFeatures
+GenomicPlot
 GenomicRanges
 GenomicScores
 GenomicSuperSignature
@@ -431,6 +435,7 @@ IWTomics
 Icens
 IdeoViz
 IgGeneUsage
+InPAS
 InTAD
 Informeasure
 InterCellar
@@ -579,6 +584,7 @@ NCIgraph
 NOISeq
 NPARC
 NTW
+NanoMethViz
 NanoStringDiff
 NanoStringNCTools
 NanoTube
@@ -729,6 +735,7 @@ ReadqPCR
 RedeR
 RedisParam
 RegEnrich
+RegionalST
 RepViz
 Repitools
 ResidualMatrix
@@ -853,6 +860,7 @@ TENxIO
 TEQC
 TFARM
 TFBSTools
+TFEA.ChIP
 TFHAZ
 TFutils
 TIN
@@ -863,6 +871,7 @@ TOP
 TPP
 TPP2D
 TREG
+TRESS
 TRONCO
 TSAR
 TSCAN
@@ -882,6 +891,7 @@ Trendy
 TurboNorm
 UCSC.utils
 UCell
+UMI4Cats
 UNDO
 UniProt.ws
 VAExprs
@@ -1061,6 +1071,7 @@ combi
 compSPOT
 compcodeR
 concordexR
+condiments
 consICA
 consensus
 consensusSeekeR
@@ -1823,6 +1834,7 @@ ttgsea
 tweeDEseq
 twilight
 twoddpcr
+txcutr
 txdbmaker
 tximport
 uSORT
@@ -1839,6 +1851,7 @@ vissE
 vsclust
 vsn
 waddR
+wavClusteR
 weaver
 webbioc
 weitrix
