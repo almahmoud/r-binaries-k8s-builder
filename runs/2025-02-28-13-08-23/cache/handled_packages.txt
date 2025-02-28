@@ -136,6 +136,7 @@ CONFESS
 CONSTANd
 COSNet
 COTAN
+CRISPRball
 CRImage
 CSAR
 CSSQ
@@ -152,6 +153,7 @@ CeTF
 CellBarcode
 CellBench
 CellMapper
+CellMixS
 CellNOptR
 CellScore
 CellTrails
@@ -191,6 +193,7 @@ CytoDx
 CytoGLMM
 CytoML
 CytoPipeline
+DAPAR
 DART
 DCATS
 DECIPHER
@@ -277,6 +280,7 @@ FilterFFPE
 FitHiC
 FlowSOM
 FuseSOM
+GARS
 GAprediction
 GBScleanR
 GDCRNATools
@@ -371,6 +375,7 @@ HiCBricks
 HiCDOC
 HiCExperiment
 HiCcompare
+HiContacts
 HiTC
 HicAggR
 HilbertCurve
@@ -823,6 +828,7 @@ VAExprs
 VDJdive
 VERSO
 VaSP
+VarCon
 VariantExperiment
 VegaMC
 VennDetail
@@ -832,6 +838,7 @@ Wrench
 XDE
 XINA
 XVector
+a4
 a4Base
 a4Classif
 a4Core
@@ -883,6 +890,7 @@ arrayQualityMetrics
 artMS
 assorthead
 atSNP
+attract
 autonomics
 awst
 bacon
@@ -1195,6 +1203,7 @@ hdxmsqc
 heatmaps
 hermes
 hiAnnotator
+hiReadsProcessor
 hicVennDiagram
 hierGWAS
 hierinf

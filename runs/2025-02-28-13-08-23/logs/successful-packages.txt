@@ -1740,3 +1740,12 @@ FEAST
 HoloFoodR
 iSEEtree
 VAExprs
+a4
+attract
+CellMixS
+CRISPRball
+DAPAR
+GARS
+HiContacts
+hiReadsProcessor
+VarCon
