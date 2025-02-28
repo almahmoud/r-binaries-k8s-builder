@@ -2117,3 +2117,17 @@ multicrispr
 mariner
 primirTSS
 puma
+CAGEr
+compEpiTools
+derfinderPlot
+lumi
+mosdef
+msgbsR
+recount
+regionReport
+rgsepd
+RnBeads
+scruff
+tadar
+tidyomics
+trackViewer

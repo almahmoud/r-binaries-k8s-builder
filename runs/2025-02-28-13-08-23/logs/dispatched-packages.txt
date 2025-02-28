@@ -2186,3 +2186,17 @@ recount
 regionReport
 compEpiTools
 netZooR
+GeneTonic
+MAGAR
+MineICA
+NADfinder
+RNAAgeCalc
+RnaSeqSampleSize
+arrayMvout
+ffpe
+geomeTriD
+iCheck
+ideal
+pcaExplorer
+psichomics
+wateRmelon

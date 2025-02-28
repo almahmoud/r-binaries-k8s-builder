@@ -127,6 +127,7 @@ BumpyMatrix
 CAEN
 CAFE
 CAGEfightR
+CAGEr
 CAMERA
 CARNIVAL
 CATALYST
@@ -829,6 +830,7 @@ RiboCrypt
 RiboDiPA
 Rmagpie
 Rmmquant
+RnBeads
 Rnits
 RolDE
 Rsamtools
@@ -1186,6 +1188,7 @@ cogeqc
 cola
 comapr
 combi
+compEpiTools
 compSPOT
 compcodeR
 concordexR
@@ -1251,6 +1254,7 @@ demuxmix
 densvis
 derfinder
 derfinderHelper
+derfinderPlot
 destiny
 diffGeneAnalysis
 diffHic
@@ -1534,6 +1538,7 @@ loci2path
 logicFS
 lpNet
 lpsymphony
+lumi
 lute
 m6Aboost
 mBPCR
@@ -1634,6 +1639,7 @@ monaLisa
 monocle
 mosaics
 mosbi
+mosdef
 motifStack
 motifTestR
 motifbreakR
@@ -1643,6 +1649,7 @@ mpra
 msImpute
 msPurity
 msa
+msgbsR
 mslp
 msmsEDA
 msmsTests
@@ -1826,9 +1833,11 @@ rcellminer
 rebook
 receptLoss
 reconsi
+recount
 recount3
 recountmethylation
 recoup
+regionReport
 regionalpcs
 regioneR
 regioneReloaded
@@ -1838,6 +1847,7 @@ rexposome
 rfPred
 rfaRm
 rgoslin
+rgsepd
 rhdf5
 rhdf5client
 rhdf5filters
@@ -1923,6 +1933,7 @@ scp
 scran
 scrapper
 screenCounter
+scruff
 scry
 scuttle
 scviR
@@ -2033,6 +2044,7 @@ tRNA
 tRNAdbImport
 tRNAscanImport
 tRanslatome
+tadar
 tanggle
 target
 tenXplore
@@ -2044,6 +2056,7 @@ tidySingleCellExperiment
 tidySpatialExperiment
 tidySummarizedExperiment
 tidybulk
+tidyomics
 tidysbml
 tidytof
 tigre
@@ -2058,6 +2071,7 @@ topGO
 topconfects
 topdownr
 tpSVG
+trackViewer
 tracktables
 tradeSeq
 transcriptR
