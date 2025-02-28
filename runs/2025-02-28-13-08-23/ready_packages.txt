@@ -1,7 +1,0 @@
-AgiMicroRna
-ChAMP
-MEAT
-SingleMoleculeFootprinting
-YAPSA
-bigmelon
-skewr
