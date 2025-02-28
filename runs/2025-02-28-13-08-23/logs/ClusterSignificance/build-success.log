@@ -1,0 +1,134 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ClusterSignificance'
+also installing the dependencies ‘dotCall64’, ‘spam’, ‘maps’, ‘fields’, ‘RhpcBLASctl’, ‘pracma’, ‘princurve’, ‘scatterplot3d’, ‘plsgenomics’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dotCall64_1.2.tar.gz'
+Content type 'binary/octet-stream' length 31234 bytes (30 KB)
+==================================================
+downloaded 30 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/spam_2.11-1.tar.gz'
+Content type 'binary/octet-stream' length 2745557 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/maps_3.4.2.1.tar.gz'
+Content type 'binary/octet-stream' length 3090219 bytes (2.9 MB)
+==================================================
+downloaded 2.9 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fields_16.3.tar.gz'
+Content type 'binary/octet-stream' length 4345785 bytes (4.1 MB)
+==================================================
+downloaded 4.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RhpcBLASctl_0.23-42.tar.gz'
+Content type 'binary/octet-stream' length 14578 bytes (14 KB)
+==================================================
+downloaded 14 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pracma_2.4.4.tar.gz'
+Content type 'binary/octet-stream' length 1755141 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/princurve_2.1.6.tar.gz'
+Content type 'binary/octet-stream' length 110789 bytes (108 KB)
+==================================================
+downloaded 108 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/scatterplot3d_0.3-44.tar.gz'
+Content type 'binary/octet-stream' length 348208 bytes (340 KB)
+==================================================
+downloaded 340 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/plsgenomics_1.5-3.tar.gz'
+Content type 'binary/octet-stream' length 1680446 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ClusterSignificance_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 1918132 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+* installing *binary* package ‘dotCall64’ ...
+* ‘dotCall64’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dotCall64’ as ‘dotCall64_1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dotCall64)
+* installing *binary* package ‘maps’ ...
+* ‘maps’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘maps’ as ‘maps_3.4.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (maps)
+* installing *binary* package ‘RhpcBLASctl’ ...
+* ‘RhpcBLASctl’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RhpcBLASctl’ as ‘RhpcBLASctl_0.23-42_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RhpcBLASctl)
+* installing *binary* package ‘pracma’ ...
+* ‘pracma’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pracma’ as ‘pracma_2.4.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pracma)
+* installing *binary* package ‘princurve’ ...
+* ‘princurve’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘princurve’ as ‘princurve_2.1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (princurve)
+* installing *binary* package ‘scatterplot3d’ ...
+* ‘scatterplot3d’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘scatterplot3d’ as ‘scatterplot3d_0.3-44_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scatterplot3d)
+* installing *binary* package ‘spam’ ...
+* ‘spam’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spam’ as ‘spam_2.11-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spam)
+* installing *source* package ‘ClusterSignificance’ ...
+** package ‘ClusterSignificance’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ClusterSignificance’ as ‘ClusterSignificance_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ClusterSignificance)
+* installing *binary* package ‘fields’ ...
+* ‘fields’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fields’ as ‘fields_16.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fields)
+* installing *binary* package ‘plsgenomics’ ...
+* ‘plsgenomics’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘plsgenomics’ as ‘plsgenomics_1.5-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (plsgenomics)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp1HxJ8U/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m23.181s
+user	0m8.471s
+sys	0m4.110s

@@ -1,0 +1,135 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'GeneticsPed'
+also installing the dependencies ‘combinat’, ‘gdata’, ‘genetics’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/combinat_0.0-8.tar.gz'
+Content type 'binary/octet-stream' length 40917 bytes (39 KB)
+==================================================
+downloaded 39 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gdata_3.0.1.tar.gz'
+Content type 'binary/octet-stream' length 502055 bytes (490 KB)
+==================================================
+downloaded 490 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/genetics_1.3.8.1.3.tar.gz'
+Content type 'binary/octet-stream' length 373330 bytes (364 KB)
+==================================================
+downloaded 364 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GeneticsPed_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 692040 bytes (675 KB)
+==================================================
+downloaded 675 KB
+
+* installing *binary* package ‘combinat’ ...
+* ‘combinat’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘combinat’ as ‘combinat_0.0-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (combinat)
+* installing *binary* package ‘gdata’ ...
+* ‘gdata’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gdata’ as ‘gdata_3.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gdata)
+* installing *binary* package ‘genetics’ ...
+* ‘genetics’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘genetics’ as ‘genetics_1.3.8.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (genetics)
+* installing *source* package ‘GeneticsPed’ ...
+** package ‘GeneticsPed’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ainverse.cc -o ainverse.o
+In file included from ../include/ainverse.h:20,
+                 from ainverse.cc:9:
+../include/pedtemplate.h:18: warning: "R_NO_REMAP" redefined
+   18 | #define R_NO_REMAP
+      | 
+<command-line>: note: this is the location of the previous definition
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c eibd.cc -o eibd.o
+gfortran  -fpic  -g -O2  -c ggmatmult.f -o ggmatmult.o
+gfortran  -fpic  -g -O2  -c gpi.f -o gpi.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c inbreed.cc -o inbreed.o
+In file included from ../include/inbreed.h:18,
+                 from inbreed.cc:10:
+../include/pedtemplate.h:18: warning: "R_NO_REMAP" redefined
+   18 | #define R_NO_REMAP
+      | 
+<command-line>: note: this is the location of the previous definition
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c inverseAdditive.cc -o inverseAdditive.o
+inverseAdditive.cc:1: warning: "R_NO_REMAP" redefined
+    1 | #define R_NO_REMAP
+      | 
+<command-line>: note: this is the location of the previous definition
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c meuwissen.cc -o meuwissen.o
+meuwissen.cc:1: warning: "R_NO_REMAP" redefined
+    1 | #define R_NO_REMAP
+      | 
+<command-line>: note: this is the location of the previous definition
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c pedSort.cc -o pedSort.o
+pedSort.cc:1: warning: "R_NO_REMAP" redefined
+    1 | #define R_NO_REMAP
+      | 
+<command-line>: note: this is the location of the previous definition
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c pedtemplate.cc -o pedtemplate.o
+In file included from pedtemplate.cc:15:
+../include/pedtemplate.h:18: warning: "R_NO_REMAP" redefined
+   18 | #define R_NO_REMAP
+      | 
+<command-line>: note: this is the location of the previous definition
+pedtemplate.cc: In member function ‘void Pedigree::ShowPed()’:
+pedtemplate.cc:373:15: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘__gnu_cxx::__normal_iterator<TPed*, std::vector<TPed> >::difference_type’ {aka ‘long int’} [-Wformat=]
+  373 |     Rprintf("%d\t", p - pedigree.begin());
+      |              ~^     ~~~~~~~~~~~~~~~~~~~~
+      |               |       |
+      |               int     __gnu_cxx::__normal_iterator<TPed*, std::vector<TPed> >::difference_type {aka long int}
+      |              %ld
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c register.cc -o register.o
+In file included from ../include/../include/inbreed.h:18,
+                 from ../include/meuwissen.h:7,
+                 from register.cc:8:
+../include/../include/pedtemplate.h:18: warning: "R_NO_REMAP" redefined
+   18 | #define R_NO_REMAP
+      | 
+<command-line>: note: this is the location of the previous definition
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sargolzaei.c -o sargolzaei.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c sortped.cc -o sortped.o
+In file included from sortped.cc:1:
+../include/sortped.h:5: warning: "R_NO_REMAP" redefined
+    5 | #define R_NO_REMAP
+      | 
+<command-line>: note: this is the location of the previous definition
+sortped.cc: In function ‘void SortPed(Pedigree&, TPedVec&)’:
+sortped.cc:55:5: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+   55 |     error("Problems in pedigree.  Stopping inbreeding calculations\n");
+      |     ^~~~~
+      |     perror
+make: *** [/usr/local/lib/R/etc/Makeconf:202: sortped.o] Error 1
+ERROR: compilation failed for package ‘GeneticsPed’
+* removing ‘/mnt/library/GeneticsPed’
+
+The downloaded source packages are in
+	‘/tmp/RtmpL6wDNn/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘GeneticsPed’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m27.871s
+user	0m10.227s
+sys	0m2.477s

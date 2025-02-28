@@ -1,0 +1,102 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'GeneGA'
+also installing the dependencies ‘pixmap’, ‘sp’, ‘ade4’, ‘segmented’, ‘seqinr’, ‘hash’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pixmap_0.4-13.tar.gz'
+Content type 'binary/octet-stream' length 213309 bytes (208 KB)
+==================================================
+downloaded 208 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sp_2.2-0.tar.gz'
+Content type 'binary/octet-stream' length 5308015 bytes (5.1 MB)
+==================================================
+downloaded 5.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ade4_1.7-23.tar.gz'
+Content type 'binary/octet-stream' length 5458853 bytes (5.2 MB)
+==================================================
+downloaded 5.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/segmented_2.1-3.tar.gz'
+Content type 'binary/octet-stream' length 1367966 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/seqinr_4.2-36.tar.gz'
+Content type 'binary/octet-stream' length 4157370 bytes (4.0 MB)
+==================================================
+downloaded 4.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/hash_2.2.6.3.tar.gz'
+Content type 'binary/octet-stream' length 191367 bytes (186 KB)
+==================================================
+downloaded 186 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GeneGA_1.56.0.tar.gz'
+Content type 'application/x-gzip' length 234356 bytes (228 KB)
+==================================================
+downloaded 228 KB
+
+* installing *binary* package ‘pixmap’ ...
+* ‘pixmap’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pixmap’ as ‘pixmap_0.4-13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pixmap)
+* installing *binary* package ‘sp’ ...
+* ‘sp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sp’ as ‘sp_2.2-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sp)
+* installing *binary* package ‘segmented’ ...
+* ‘segmented’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘segmented’ as ‘segmented_2.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (segmented)
+* installing *binary* package ‘hash’ ...
+* ‘hash’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘hash’ as ‘hash_2.2.6.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hash)
+* installing *binary* package ‘ade4’ ...
+* ‘ade4’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ade4’ as ‘ade4_1.7-23_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ade4)
+* installing *binary* package ‘seqinr’ ...
+* ‘seqinr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘seqinr’ as ‘seqinr_4.2-36_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (seqinr)
+* installing *source* package ‘GeneGA’ ...
+** package ‘GeneGA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GeneGA’ as ‘GeneGA_1.56.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GeneGA)
+
+The downloaded source packages are in
+	‘/tmp/RtmpKm80Pi/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m33.396s
+user	0m8.701s
+sys	0m3.290s

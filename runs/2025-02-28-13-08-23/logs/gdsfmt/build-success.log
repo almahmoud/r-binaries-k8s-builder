@@ -1,0 +1,28 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'gdsfmt'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/gdsfmt_1.42.1.tar.gz'
+Content type 'application/x-gzip' length 2934304 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-gdsfmt’
+
+The downloaded source packages are in
+	‘/tmp/RtmpFKh1Za/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘gdsfmt’ had non-zero exit status
+
+real	3m48.400s
+user	0m4.473s
+sys	0m1.245s

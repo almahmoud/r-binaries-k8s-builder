@@ -1,0 +1,62 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'HuBMAPR'
+also installing the dependencies ‘lobstr’, ‘pryr’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lobstr_1.1.2.tar.gz'
+Content type 'binary/octet-stream' length 139456 bytes (136 KB)
+==================================================
+downloaded 136 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pryr_0.1.6.tar.gz'
+Content type 'binary/octet-stream' length 217216 bytes (212 KB)
+==================================================
+downloaded 212 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/HuBMAPR_1.0.8.tar.gz'
+Content type 'application/x-gzip' length 1431901 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+* installing *binary* package ‘lobstr’ ...
+* ‘lobstr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lobstr’ as ‘lobstr_1.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lobstr)
+* installing *source* package ‘HuBMAPR’ ...
+** package ‘HuBMAPR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘HuBMAPR’ as ‘HuBMAPR_1.0.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HuBMAPR)
+* installing *binary* package ‘pryr’ ...
+* ‘pryr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pryr’ as ‘pryr_0.1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pryr)
+
+The downloaded source packages are in
+	‘/tmp/RtmpgznlqB/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m31.160s
+user	0m5.700s
+sys	0m2.386s

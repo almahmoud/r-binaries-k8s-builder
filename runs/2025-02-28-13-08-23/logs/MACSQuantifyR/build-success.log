@@ -1,0 +1,71 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'MACSQuantifyR'
+also installing the dependencies ‘hunspell’, ‘prettydoc’, ‘spelling’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/hunspell_3.0.5.tar.gz'
+Content type 'binary/octet-stream' length 1169311 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/prettydoc_0.4.1.tar.gz'
+Content type 'binary/octet-stream' length 996433 bytes (973 KB)
+==================================================
+downloaded 973 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/spelling_2.3.1.tar.gz'
+Content type 'binary/octet-stream' length 54640 bytes (53 KB)
+==================================================
+downloaded 53 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MACSQuantifyR_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 3956190 bytes (3.8 MB)
+==================================================
+downloaded 3.8 MB
+
+* installing *binary* package ‘hunspell’ ...
+* ‘hunspell’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘hunspell’ as ‘hunspell_3.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hunspell)
+* installing *binary* package ‘prettydoc’ ...
+* ‘prettydoc’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘prettydoc’ as ‘prettydoc_0.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (prettydoc)
+* installing *binary* package ‘spelling’ ...
+* ‘spelling’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spelling’ as ‘spelling_2.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spelling)
+* installing *source* package ‘MACSQuantifyR’ ...
+** package ‘MACSQuantifyR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MACSQuantifyR’ as ‘MACSQuantifyR_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MACSQuantifyR)
+
+The downloaded source packages are in
+	‘/tmp/RtmpGThSgy/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m44.406s
+user	0m8.062s
+sys	0m2.369s

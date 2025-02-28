@@ -1,0 +1,132 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'CARNIVAL'
+also installing the dependencies ‘progress’, ‘vroom’, ‘bibtex’, ‘rex’, ‘readr’, ‘lpSolve’, ‘rjson’, ‘RefManageR’, ‘covr’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/progress_1.2.3.tar.gz'
+Content type 'binary/octet-stream' length 86326 bytes (84 KB)
+==================================================
+downloaded 84 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/vroom_1.6.5.tar.gz'
+Content type 'binary/octet-stream' length 957690 bytes (935 KB)
+==================================================
+downloaded 935 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bibtex_0.5.1.tar.gz'
+Content type 'binary/octet-stream' length 72315 bytes (70 KB)
+==================================================
+downloaded 70 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rex_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 126428 bytes (123 KB)
+==================================================
+downloaded 123 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/readr_2.1.5.tar.gz'
+Content type 'binary/octet-stream' length 862001 bytes (841 KB)
+==================================================
+downloaded 841 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lpSolve_5.6.23.tar.gz'
+Content type 'binary/octet-stream' length 375125 bytes (366 KB)
+==================================================
+downloaded 366 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rjson_0.2.23.tar.gz'
+Content type 'binary/octet-stream' length 113120 bytes (110 KB)
+==================================================
+downloaded 110 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RefManageR_1.4.0.tar.gz'
+Content type 'binary/octet-stream' length 776813 bytes (758 KB)
+==================================================
+downloaded 758 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/covr_3.6.4.tar.gz'
+Content type 'binary/octet-stream' length 328100 bytes (320 KB)
+==================================================
+downloaded 320 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/CARNIVAL_2.16.0.tar.gz'
+Content type 'application/x-gzip' length 2151776 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+* installing *binary* package ‘progress’ ...
+* ‘progress’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘progress’ as ‘progress_1.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (progress)
+* installing *binary* package ‘bibtex’ ...
+* ‘bibtex’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bibtex’ as ‘bibtex_0.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bibtex)
+* installing *binary* package ‘rex’ ...
+* ‘rex’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rex’ as ‘rex_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rex)
+* installing *binary* package ‘lpSolve’ ...
+* ‘lpSolve’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lpSolve’ as ‘lpSolve_5.6.23_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lpSolve)
+* installing *binary* package ‘rjson’ ...
+* ‘rjson’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rjson’ as ‘rjson_0.2.23_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rjson)
+* installing *binary* package ‘vroom’ ...
+* ‘vroom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘vroom’ as ‘vroom_1.6.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (vroom)
+* installing *binary* package ‘RefManageR’ ...
+* ‘RefManageR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RefManageR’ as ‘RefManageR_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RefManageR)
+* installing *binary* package ‘covr’ ...
+* ‘covr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘covr’ as ‘covr_3.6.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (covr)
+* installing *binary* package ‘readr’ ...
+* ‘readr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘readr’ as ‘readr_2.1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (readr)
+* installing *source* package ‘CARNIVAL’ ...
+** package ‘CARNIVAL’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CARNIVAL’ as ‘CARNIVAL_2.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CARNIVAL)
+
+The downloaded source packages are in
+	‘/tmp/RtmpZGJiUB/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m22.677s
+user	0m8.330s
+sys	0m4.643s

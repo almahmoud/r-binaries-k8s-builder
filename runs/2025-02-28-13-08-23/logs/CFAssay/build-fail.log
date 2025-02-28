@@ -1,0 +1,8 @@
+Error in packageVersion("BiocVersion") : 
+  there is no package called ‘BiocVersion’
+Calls: %in% ... .version_compare -> version -> .version_BiocVersion -> packageVersion
+Execution halted
+
+real	0m0.728s
+user	0m0.437s
+sys	0m1.198s

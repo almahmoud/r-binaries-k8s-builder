@@ -1,0 +1,508 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'GSgalgoR'
+Warning: dependency ‘genefu’ is not available
+also installing the dependencies ‘rbibutils’, ‘Deriv’, ‘modelr’, ‘microbenchmark’, ‘Rdpack’, ‘doBy’, ‘minqa’, ‘nloptr’, ‘reformulas’, ‘carData’, ‘pbkrtest’, ‘quantreg’, ‘lme4’, ‘corrplot’, ‘car’, ‘ggrepel’, ‘ggsci’, ‘cowplot’, ‘ggsignif’, ‘polynom’, ‘rstatix’, ‘exactRankTests’, ‘KMsurv’, ‘km.ci’, ‘gridtext’, ‘mco’, ‘SuppDists’, ‘survivalROC’, ‘bootstrap’, ‘ggpubr’, ‘maxstat’, ‘broom’, ‘survMisc’, ‘ggtext’, ‘doParallel’, ‘matchingR’, ‘nsga2R’, ‘survcomp’, ‘survminer’, ‘breastCancerTRANSBIG’, ‘breastCancerUPP’, ‘iC10TrainingData’, ‘pamr’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rbibutils_2.3.tar.gz'
+Content type 'binary/octet-stream' length 1142813 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Deriv_4.1.6.tar.gz'
+Content type 'binary/octet-stream' length 150048 bytes (146 KB)
+==================================================
+downloaded 146 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/modelr_0.1.11.tar.gz'
+Content type 'binary/octet-stream' length 200698 bytes (195 KB)
+==================================================
+downloaded 195 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/microbenchmark_1.5.0.tar.gz'
+Content type 'binary/octet-stream' length 66008 bytes (64 KB)
+==================================================
+downloaded 64 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Rdpack_2.6.2.tar.gz'
+Content type 'binary/octet-stream' length 759354 bytes (741 KB)
+==================================================
+downloaded 741 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/doBy_4.6.25.tar.gz'
+Content type 'binary/octet-stream' length 4843343 bytes (4.6 MB)
+==================================================
+downloaded 4.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/minqa_1.2.8.tar.gz'
+Content type 'binary/octet-stream' length 122622 bytes (119 KB)
+==================================================
+downloaded 119 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/nloptr_2.1.1.tar.gz'
+Content type 'binary/octet-stream' length 563506 bytes (550 KB)
+==================================================
+downloaded 550 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/reformulas_0.4.0.tar.gz'
+Content type 'binary/octet-stream' length 91062 bytes (88 KB)
+==================================================
+downloaded 88 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/carData_3.0-5.tar.gz'
+Content type 'binary/octet-stream' length 1705065 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pbkrtest_0.5.3.tar.gz'
+Content type 'binary/octet-stream' length 177822 bytes (173 KB)
+==================================================
+downloaded 173 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/quantreg_6.00.tar.gz'
+Content type 'binary/octet-stream' length 1456918 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lme4_1.1-36.tar.gz'
+Content type 'binary/octet-stream' length 4258364 bytes (4.1 MB)
+==================================================
+downloaded 4.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/corrplot_0.95.tar.gz'
+Content type 'binary/octet-stream' length 3824118 bytes (3.6 MB)
+==================================================
+downloaded 3.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/car_3.1-3.tar.gz'
+Content type 'binary/octet-stream' length 1537816 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggrepel_0.9.6.tar.gz'
+Content type 'binary/octet-stream' length 290115 bytes (283 KB)
+==================================================
+downloaded 283 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggsci_3.2.0.tar.gz'
+Content type 'binary/octet-stream' length 2400479 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/cowplot_1.1.3.tar.gz'
+Content type 'binary/octet-stream' length 1380686 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggsignif_0.6.4.tar.gz'
+Content type 'binary/octet-stream' length 602083 bytes (587 KB)
+==================================================
+downloaded 587 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/polynom_1.4-1.tar.gz'
+Content type 'binary/octet-stream' length 407202 bytes (397 KB)
+==================================================
+downloaded 397 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rstatix_0.7.2.tar.gz'
+Content type 'binary/octet-stream' length 617251 bytes (602 KB)
+==================================================
+downloaded 602 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/exactRankTests_0.8-35.tar.gz'
+Content type 'binary/octet-stream' length 148762 bytes (145 KB)
+==================================================
+downloaded 145 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/KMsurv_0.1-5.tar.gz'
+Content type 'binary/octet-stream' length 125432 bytes (122 KB)
+==================================================
+downloaded 122 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/km.ci_0.5-6.tar.gz'
+Content type 'binary/octet-stream' length 66919 bytes (65 KB)
+==================================================
+downloaded 65 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gridtext_0.1.5.tar.gz'
+Content type 'binary/octet-stream' length 362238 bytes (353 KB)
+==================================================
+downloaded 353 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mco_1.17.tar.gz'
+Content type 'binary/octet-stream' length 67274 bytes (65 KB)
+==================================================
+downloaded 65 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/SuppDists_1.1-9.8.tar.gz'
+Content type 'binary/octet-stream' length 238335 bytes (232 KB)
+==================================================
+downloaded 232 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/survivalROC_1.0.3.1.tar.gz'
+Content type 'binary/octet-stream' length 39346 bytes (38 KB)
+==================================================
+downloaded 38 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bootstrap_2019.6.tar.gz'
+Content type 'binary/octet-stream' length 111381 bytes (108 KB)
+==================================================
+downloaded 108 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggpubr_0.6.0.tar.gz'
+Content type 'binary/octet-stream' length 2088007 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/maxstat_0.7-25.tar.gz'
+Content type 'binary/octet-stream' length 175315 bytes (171 KB)
+==================================================
+downloaded 171 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/broom_1.0.7.tar.gz'
+Content type 'binary/octet-stream' length 1918600 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/survMisc_0.5.6.tar.gz'
+Content type 'binary/octet-stream' length 340933 bytes (332 KB)
+==================================================
+downloaded 332 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggtext_0.1.2.tar.gz'
+Content type 'binary/octet-stream' length 1260473 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/doParallel_1.0.17.tar.gz'
+Content type 'binary/octet-stream' length 188136 bytes (183 KB)
+==================================================
+downloaded 183 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/matchingR_1.3.3.tar.gz'
+Content type 'binary/octet-stream' length 193999 bytes (189 KB)
+==================================================
+downloaded 189 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/nsga2R_1.1.tar.gz'
+Content type 'binary/octet-stream' length 38507 bytes (37 KB)
+==================================================
+downloaded 37 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/survcomp_1.56.0.tar.gz'
+Content type 'application/x-gzip' length 657084 bytes (641 KB)
+==================================================
+downloaded 641 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/survminer_0.5.0.tar.gz'
+Content type 'binary/octet-stream' length 2658765 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/breastCancerTRANSBIG_1.44.0.tar.gz'
+Content type 'application/x-gzip' length 36157377 bytes (34.5 MB)
+==================================================
+downloaded 34.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/breastCancerUPP_1.44.0.tar.gz'
+Content type 'application/x-gzip' length 31031138 bytes (29.6 MB)
+==================================================
+downloaded 29.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/iC10TrainingData_2.0.1.tar.gz'
+Content type 'binary/octet-stream' length 5856774 bytes (5.6 MB)
+==================================================
+downloaded 5.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pamr_1.57.tar.gz'
+Content type 'binary/octet-stream' length 664378 bytes (648 KB)
+==================================================
+downloaded 648 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GSgalgoR_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 2903794 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+* installing *binary* package ‘rbibutils’ ...
+* ‘rbibutils’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rbibutils’ as ‘rbibutils_2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rbibutils)
+* installing *binary* package ‘Deriv’ ...
+* ‘Deriv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Deriv’ as ‘Deriv_4.1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Deriv)
+* installing *binary* package ‘microbenchmark’ ...
+* ‘microbenchmark’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘microbenchmark’ as ‘microbenchmark_1.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (microbenchmark)
+* installing *binary* package ‘minqa’ ...
+* ‘minqa’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘minqa’ as ‘minqa_1.2.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (minqa)
+* installing *binary* package ‘nloptr’ ...
+* ‘nloptr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘nloptr’ as ‘nloptr_2.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (nloptr)
+* installing *binary* package ‘carData’ ...
+* ‘carData’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘carData’ as ‘carData_3.0-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (carData)
+* installing *binary* package ‘quantreg’ ...
+* ‘quantreg’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘quantreg’ as ‘quantreg_6.00_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (quantreg)
+* installing *binary* package ‘corrplot’ ...
+* ‘corrplot’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘corrplot’ as ‘corrplot_0.95_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (corrplot)
+* installing *binary* package ‘ggrepel’ ...
+* ‘ggrepel’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggrepel’ as ‘ggrepel_0.9.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggrepel)
+* installing *binary* package ‘ggsci’ ...
+* ‘ggsci’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggsci’ as ‘ggsci_3.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggsci)
+* installing *binary* package ‘cowplot’ ...
+* ‘cowplot’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘cowplot’ as ‘cowplot_1.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cowplot)
+* installing *binary* package ‘ggsignif’ ...
+* ‘ggsignif’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggsignif’ as ‘ggsignif_0.6.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggsignif)
+* installing *binary* package ‘polynom’ ...
+* ‘polynom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘polynom’ as ‘polynom_1.4-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (polynom)
+* installing *binary* package ‘exactRankTests’ ...
+* ‘exactRankTests’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘exactRankTests’ as ‘exactRankTests_0.8-35_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (exactRankTests)
+* installing *binary* package ‘KMsurv’ ...
+* ‘KMsurv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘KMsurv’ as ‘KMsurv_0.1-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (KMsurv)
+* installing *binary* package ‘km.ci’ ...
+* ‘km.ci’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘km.ci’ as ‘km.ci_0.5-6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (km.ci)
+* installing *binary* package ‘gridtext’ ...
+* ‘gridtext’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gridtext’ as ‘gridtext_0.1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gridtext)
+* installing *binary* package ‘mco’ ...
+* ‘mco’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mco’ as ‘mco_1.17_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mco)
+* installing *binary* package ‘SuppDists’ ...
+* ‘SuppDists’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘SuppDists’ as ‘SuppDists_1.1-9.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SuppDists)
+* installing *binary* package ‘survivalROC’ ...
+* ‘survivalROC’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘survivalROC’ as ‘survivalROC_1.0.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (survivalROC)
+* installing *binary* package ‘bootstrap’ ...
+* ‘bootstrap’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bootstrap’ as ‘bootstrap_2019.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bootstrap)
+* installing *binary* package ‘broom’ ...
+* ‘broom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘broom’ as ‘broom_1.0.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (broom)
+* installing *binary* package ‘doParallel’ ...
+* ‘doParallel’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘doParallel’ as ‘doParallel_1.0.17_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (doParallel)
+* installing *binary* package ‘matchingR’ ...
+* ‘matchingR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘matchingR’ as ‘matchingR_1.3.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (matchingR)
+* installing *source* package ‘breastCancerTRANSBIG’ ...
+** using staged installation
+** data
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘breastCancerTRANSBIG’ as ‘breastCancerTRANSBIG_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (breastCancerTRANSBIG)
+* installing *source* package ‘breastCancerUPP’ ...
+** using staged installation
+** data
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘breastCancerUPP’ as ‘breastCancerUPP_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (breastCancerUPP)
+* installing *binary* package ‘iC10TrainingData’ ...
+* ‘iC10TrainingData’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘iC10TrainingData’ as ‘iC10TrainingData_2.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iC10TrainingData)
+* installing *binary* package ‘pamr’ ...
+* ‘pamr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pamr’ as ‘pamr_1.57_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pamr)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-modelr’
+* installing *binary* package ‘Rdpack’ ...
+* ‘Rdpack’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Rdpack’ as ‘Rdpack_2.6.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rdpack)
+* installing *binary* package ‘maxstat’ ...
+* ‘maxstat’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘maxstat’ as ‘maxstat_0.7-25_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (maxstat)
+* installing *binary* package ‘survMisc’ ...
+* ‘survMisc’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘survMisc’ as ‘survMisc_0.5.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (survMisc)
+* installing *binary* package ‘ggtext’ ...
+* ‘ggtext’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggtext’ as ‘ggtext_0.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggtext)
+* installing *binary* package ‘nsga2R’ ...
+* ‘nsga2R’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘nsga2R’ as ‘nsga2R_1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (nsga2R)
+* installing *source* package ‘survcomp’ ...
+** package ‘survcomp’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c concordance.index.c -o concordance.index.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c foo_mrmr_ensemble_surv.cpp -o foo_mrmr_ensemble_surv.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c foo_mrmr_surv.cpp -o foo_mrmr_surv.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c survcomp_init.cpp -o survcomp_init.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o survcomp.so concordance.index.o foo_mrmr_ensemble_surv.o foo_mrmr_surv.o survcomp_init.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-survcomp/00new/survcomp/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘survcomp’ as ‘survcomp_1.56.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (survcomp)
+* installing *binary* package ‘doBy’ ...
+* ‘doBy’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘doBy’ as ‘doBy_4.6.25_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (doBy)
+* installing *binary* package ‘reformulas’ ...
+* ‘reformulas’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘reformulas’ as ‘reformulas_0.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (reformulas)
+* installing *source* package ‘GSgalgoR’ ...
+** package ‘GSgalgoR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GSgalgoR’ as ‘GSgalgoR_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GSgalgoR)
+* installing *binary* package ‘lme4’ ...
+* ‘lme4’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lme4’ as ‘lme4_1.1-36_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lme4)
+* installing *binary* package ‘pbkrtest’ ...
+* ‘pbkrtest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pbkrtest’ as ‘pbkrtest_0.5.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pbkrtest)
+* installing *binary* package ‘car’ ...
+* ‘car’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘car’ as ‘car_3.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (car)
+* installing *binary* package ‘rstatix’ ...
+* ‘rstatix’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rstatix’ as ‘rstatix_0.7.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rstatix)
+* installing *binary* package ‘ggpubr’ ...
+* ‘ggpubr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggpubr’ as ‘ggpubr_0.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggpubr)
+* installing *binary* package ‘survminer’ ...
+* ‘survminer’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘survminer’ as ‘survminer_0.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (survminer)
+
+The downloaded source packages are in
+	‘/tmp/RtmpcFFzOB/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘modelr’ had non-zero exit status
+
+real	2m36.891s
+user	0m33.891s
+sys	0m12.096s

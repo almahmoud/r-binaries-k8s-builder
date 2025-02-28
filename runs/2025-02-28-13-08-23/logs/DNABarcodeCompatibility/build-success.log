@@ -1,0 +1,79 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'DNABarcodeCompatibility'
+also installing the dependency ‘numbers’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/numbers_0.8-5.tar.gz'
+Content type 'binary/octet-stream' length 239766 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DNABarcodeCompatibility_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 268337 bytes (262 KB)
+==================================================
+downloaded 262 KB
+
+* installing *binary* package ‘numbers’ ...
+* ‘numbers’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘numbers’ as ‘numbers_0.8-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (numbers)
+* installing *source* package ‘DNABarcodeCompatibility’ ...
+** package ‘DNABarcodeCompatibility’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c DNABarcodes_init.c -o DNABarcodes_init.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c cachedistance.cpp -o cachedistance.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c create_distance_func.cpp -o create_distance_func.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c distance_for_R.cpp -o distance_for_R.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c hammingdistance.cpp -o hammingdistance.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c levenshteindistance.cpp -o levenshteindistance.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c phaseshiftdist.cpp -o phaseshiftdist.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c sequence.cpp -o sequence.o
+In file included from /mnt/library/BH/include/boost/config/header_deprecated.hpp:18,
+                 from /mnt/library/BH/include/boost/core/swap.hpp:19,
+                 from /usr/include/boost/utility/swap.hpp:15,
+                 from /usr/include/boost/tuple/detail/tuple_basic.hpp:42,
+                 from /usr/include/boost/tuple/tuple.hpp:28,
+                 from /mnt/library/BH/include/boost/assign/list_of.hpp:22,
+                 from sequence.cpp:6:
+/mnt/library/BH/include/boost/core/swap.hpp:26:1: note: ‘#pragma message: This header is deprecated. Use boost/core/invoke_swap.hpp instead.’
+   26 | BOOST_HEADER_DEPRECATED("boost/core/invoke_swap.hpp")
+      | ^~~~~~~~~~~~~~~~~~~~~~~
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c sequencelevenshteindistance.cpp -o sequencelevenshteindistance.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o DNABarcodeCompatibility.so DNABarcodes_init.o RcppExports.o cachedistance.o create_distance_func.o distance_for_R.o hammingdistance.o levenshteindistance.o phaseshiftdist.o sequence.o sequencelevenshteindistance.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-DNABarcodeCompatibility/00new/DNABarcodeCompatibility/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DNABarcodeCompatibility’ as ‘DNABarcodeCompatibility_1.22.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DNABarcodeCompatibility)
+
+The downloaded source packages are in
+	‘/tmp/RtmpO5OzOP/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m38.808s
+user	0m24.588s
+sys	0m5.088s
