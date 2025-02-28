@@ -215,6 +215,7 @@ CytoDx
 CytoGLMM
 CytoML
 CytoPipeline
+DAMEfinder
 DAPAR
 DART
 DCATS
@@ -337,6 +338,7 @@ GIGSEA
 GLAD
 GMRP
 GNET2
+GNOSIS
 GOSemSim
 GOTHiC
 GOexpress
@@ -744,6 +746,7 @@ RVS
 RadioGx
 RaggedExperiment
 RankProd
+RareVariantVis
 Rarr
 RbcBook1
 Rbec
@@ -842,6 +845,7 @@ ShortRead
 SiPSiC
 SigCheck
 SigFuge
+SigsPack
 SimBu
 SimFFPE
 SingleCellAlleleExperiment
@@ -926,6 +930,7 @@ UMI4Cats
 UNDO
 UPDhmm
 UniProt.ws
+Uniquorn
 VAExprs
 VDJdive
 VERSO
@@ -1021,6 +1026,7 @@ beer
 benchdamic
 betaHMM
 bettr
+bioCancer
 bioDist
 bioassayR
 biobroom
@@ -1055,6 +1061,7 @@ bumphunter
 cBioPortalData
 cTRAP
 calm
+canceR
 cancerclass
 cardelino
 casper
@@ -1331,6 +1338,7 @@ glmGamPoi
 glmSparseNet
 globalSeq
 globaltest
+gmapR
 gmoviz
 goProfiles
 goSTAG
@@ -1920,6 +1928,7 @@ transcriptR
 transcriptogramer
 transformGamPoi
 transite
+transmogR
 transomics2cytoscape
 traseR
 treeclimbR

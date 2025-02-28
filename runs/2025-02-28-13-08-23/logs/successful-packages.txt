@@ -1970,3 +1970,12 @@ PureCN
 ATACseqQC
 OMICsPCA
 UPDhmm
+bioCancer
+canceR
+DAMEfinder
+gmapR
+GNOSIS
+RareVariantVis
+SigsPack
+transmogR
+Uniquorn

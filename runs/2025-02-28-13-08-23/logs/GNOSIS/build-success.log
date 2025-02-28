@@ -1,0 +1,131 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'GNOSIS'
+also installing the dependencies ‘anytime’, ‘dashboardthemes’, ‘shinymeta’, ‘compareGroups’, ‘fabricatr’, ‘shinylogs’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/anytime_0.3.11.tar.gz'
+Content type 'binary/octet-stream' length 258550 bytes (252 KB)
+==================================================
+downloaded 252 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dashboardthemes_1.1.6.tar.gz'
+Content type 'binary/octet-stream' length 94160 bytes (91 KB)
+==================================================
+downloaded 91 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/shinymeta_0.2.0.3.tar.gz'
+Content type 'binary/octet-stream' length 131991 bytes (128 KB)
+==================================================
+downloaded 128 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/compareGroups_4.9.1.tar.gz'
+Content type 'binary/octet-stream' length 3494924 bytes (3.3 MB)
+==================================================
+downloaded 3.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fabricatr_1.0.2.tar.gz'
+Content type 'binary/octet-stream' length 147098 bytes (143 KB)
+==================================================
+downloaded 143 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/shinylogs_0.2.1.tar.gz'
+Content type 'binary/octet-stream' length 122245 bytes (119 KB)
+==================================================
+downloaded 119 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GNOSIS_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 3539993 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+* installing *binary* package ‘anytime’ ...
+* ‘anytime’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘anytime’ as ‘anytime_0.3.11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (anytime)
+* installing *binary* package ‘dashboardthemes’ ...
+* ‘dashboardthemes’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dashboardthemes’ as ‘dashboardthemes_1.1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dashboardthemes)
+* installing *binary* package ‘shinymeta’ ...
+* ‘shinymeta’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shinymeta’ as ‘shinymeta_0.2.0.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinymeta)
+* installing *binary* package ‘compareGroups’ ...
+* ‘compareGroups’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘compareGroups’ as ‘compareGroups_4.9.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (compareGroups)
+* installing *binary* package ‘fabricatr’ ...
+* ‘fabricatr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fabricatr’ as ‘fabricatr_1.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fabricatr)
+* installing *binary* package ‘shinylogs’ ...
+* ‘shinylogs’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shinylogs’ as ‘shinylogs_0.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinylogs)
+* installing *source* package ‘GNOSIS’ ...
+** package ‘GNOSIS’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘shinydashboard::taskItem’ by ‘shinydashboardPlus::taskItem’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::dashboardHeader’ by ‘shinydashboardPlus::dashboardHeader’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::box’ by ‘shinydashboardPlus::box’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::messageItem’ by ‘shinydashboardPlus::messageItem’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::dashboardSidebar’ by ‘shinydashboardPlus::dashboardSidebar’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::dashboardPage’ by ‘shinydashboardPlus::dashboardPage’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinyWidgets::progressBar’ by ‘shinydashboardPlus::progressBar’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::notificationItem’ by ‘shinydashboardPlus::notificationItem’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shiny::dataTableOutput’ by ‘DT::dataTableOutput’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shiny::renderDataTable’ by ‘DT::renderDataTable’ when loading ‘GNOSIS’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘shinydashboard::taskItem’ by ‘shinydashboardPlus::taskItem’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::dashboardHeader’ by ‘shinydashboardPlus::dashboardHeader’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::box’ by ‘shinydashboardPlus::box’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::messageItem’ by ‘shinydashboardPlus::messageItem’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::dashboardSidebar’ by ‘shinydashboardPlus::dashboardSidebar’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::dashboardPage’ by ‘shinydashboardPlus::dashboardPage’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinyWidgets::progressBar’ by ‘shinydashboardPlus::progressBar’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::notificationItem’ by ‘shinydashboardPlus::notificationItem’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shiny::dataTableOutput’ by ‘DT::dataTableOutput’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shiny::renderDataTable’ by ‘DT::renderDataTable’ when loading ‘GNOSIS’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘shinydashboard::taskItem’ by ‘shinydashboardPlus::taskItem’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::dashboardHeader’ by ‘shinydashboardPlus::dashboardHeader’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::box’ by ‘shinydashboardPlus::box’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::messageItem’ by ‘shinydashboardPlus::messageItem’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::dashboardSidebar’ by ‘shinydashboardPlus::dashboardSidebar’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::dashboardPage’ by ‘shinydashboardPlus::dashboardPage’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinyWidgets::progressBar’ by ‘shinydashboardPlus::progressBar’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shinydashboard::notificationItem’ by ‘shinydashboardPlus::notificationItem’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shiny::dataTableOutput’ by ‘DT::dataTableOutput’ when loading ‘GNOSIS’
+Warning: replacing previous import ‘shiny::renderDataTable’ by ‘DT::renderDataTable’ when loading ‘GNOSIS’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GNOSIS’ as ‘GNOSIS_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GNOSIS)
+
+The downloaded source packages are in
+	‘/tmp/RtmpZq3dG7/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	4m17.764s
+user	1m0.645s
+sys	0m12.203s
