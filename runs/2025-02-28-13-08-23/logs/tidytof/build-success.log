@@ -1,0 +1,176 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'tidytof'
+also installing the dependencies ‘warp’, ‘poorman’, ‘slider’, ‘diffcyt’, ‘FlowSOM’, ‘HDCytoData’, ‘philentropy’, ‘embed’, ‘rsample’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/warp_0.2.1.tar.gz'
+Content type 'binary/octet-stream' length 64246 bytes (62 KB)
+==================================================
+downloaded 62 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/poorman_0.2.7.tar.gz'
+Content type 'binary/octet-stream' length 394312 bytes (385 KB)
+==================================================
+downloaded 385 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/slider_0.3.2.tar.gz'
+Content type 'binary/octet-stream' length 304470 bytes (297 KB)
+==================================================
+downloaded 297 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/diffcyt_1.26.1.tar.gz'
+Content type 'application/x-gzip' length 919032 bytes (897 KB)
+==================================================
+downloaded 897 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/FlowSOM_2.14.0.tar.gz'
+Content type 'application/x-gzip' length 5143334 bytes (4.9 MB)
+==================================================
+downloaded 4.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/HDCytoData_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 1618317 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/philentropy_0.9.0.tar.gz'
+Content type 'binary/octet-stream' length 344005 bytes (335 KB)
+==================================================
+downloaded 335 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/embed_1.1.5.tar.gz'
+Content type 'binary/octet-stream' length 389121 bytes (380 KB)
+==================================================
+downloaded 380 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rsample_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 529209 bytes (516 KB)
+==================================================
+downloaded 516 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/tidytof_1.0.0.tar.gz'
+Content type 'application/x-gzip' length 2579602 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+* installing *binary* package ‘warp’ ...
+* ‘warp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘warp’ as ‘warp_0.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (warp)
+* installing *binary* package ‘poorman’ ...
+* ‘poorman’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘poorman’ as ‘poorman_0.2.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (poorman)
+* installing *source* package ‘FlowSOM’ ...
+** package ‘FlowSOM’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c som.c -o som.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o FlowSOM.so som.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-FlowSOM/00new/FlowSOM/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘FlowSOM’ as ‘FlowSOM_2.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FlowSOM)
+* installing *source* package ‘HDCytoData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package or namespace load failed for ‘SummarizedExperiment’ in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]):
+ there is no package called ‘DelayedArray’
+Execution halted
+ERROR: lazy loading failed for package ‘HDCytoData’
+* removing ‘/mnt/library/HDCytoData’
+* installing *source* package ‘tidytof’ ...
+** package ‘tidytof’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c code.cpp -o code.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o tidytof.so RcppExports.o code.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-tidytof/00new/tidytof/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tidytof’ as ‘tidytof_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidytof)
+* installing *binary* package ‘slider’ ...
+* ‘slider’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘slider’ as ‘slider_0.3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (slider)
+* installing *source* package ‘diffcyt’ ...
+** package ‘diffcyt’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘diffcyt’ as ‘diffcyt_1.26.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (diffcyt)
+* installing *binary* package ‘philentropy’ ...
+* ‘philentropy’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘philentropy’ as ‘philentropy_0.9.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (philentropy)
+* installing *binary* package ‘rsample’ ...
+* ‘rsample’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rsample’ as ‘rsample_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rsample)
+* installing *binary* package ‘embed’ ...
+* ‘embed’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘embed’ as ‘embed_1.1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (embed)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpl09CXs/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘HDCytoData’ had non-zero exit status
+
+real	2m24.873s
+user	1m2.651s
+sys	0m11.792s

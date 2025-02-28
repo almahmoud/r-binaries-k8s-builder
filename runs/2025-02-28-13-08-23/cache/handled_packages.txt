@@ -107,6 +107,7 @@ DTA
 DeMAND
 DeconRNASeq
 DeepPINCS
+DelayedArray
 DepInfeR
 DepecheR
 DiffLogo
@@ -228,6 +229,7 @@ MeasurementError.cor
 Mergeomics
 MetCirc
 MetID
+MetaCyto
 MetaboCoreUtils
 MethPed
 MethylMix
@@ -506,6 +508,8 @@ flowClean
 flowClust
 flowCore
 flowCyBar
+flowDensity
+flowFP
 flowGraph
 flowMatch
 flowMeans
@@ -514,6 +518,7 @@ flowPloidy
 flowPlots
 flowSpecs
 flowTime
+flowTrans
 flowViz
 flowcatchR
 fmcsR
@@ -627,6 +632,7 @@ mixOmics
 mnem
 monocle
 mosbi
+msPurity
 multiClust
 multiscan
 multtest
@@ -759,6 +765,7 @@ tanggle
 ternarynet
 tidyFlowCore
 tidysbml
+tidytof
 timeOmics
 timecourse
 timescape

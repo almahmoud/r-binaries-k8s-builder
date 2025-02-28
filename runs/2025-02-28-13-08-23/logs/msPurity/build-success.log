@@ -1,0 +1,136 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'msPurity'
+also installing the dependencies ‘MsFeatures’, ‘MsExperiment’, ‘xcms’, ‘msPurityData’, ‘CAMERA’, ‘RPostgres’, ‘RMySQL’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MsFeatures_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 1502993 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MsExperiment_1.8.0.tar.gz'
+Content type 'application/x-gzip' length 2011075 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/xcms_4.4.0.tar.gz'
+Content type 'application/x-gzip' length 9904107 bytes (9.4 MB)
+==================================================
+downloaded 9.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/msPurityData_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 244801381 bytes (233.5 MB)
+==================================================
+downloaded 233.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/CAMERA_1.62.0.tar.gz'
+Content type 'application/x-gzip' length 2557604 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RPostgres_1.4.8.tar.gz'
+Content type 'binary/octet-stream' length 454265 bytes (443 KB)
+==================================================
+downloaded 443 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RMySQL_0.11.0.tar.gz'
+Content type 'binary/octet-stream' length 288531 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/msPurity_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 11841112 bytes (11.3 MB)
+==================================================
+downloaded 11.3 MB
+
+* installing *source* package ‘MsFeatures’ ...
+** package ‘MsFeatures’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Error in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]) : 
+  there is no package called ‘XVector’
+Calls: <Anonymous> ... loadNamespace -> withRestarts -> withOneRestart -> doWithOneRestart
+Execution halted
+ERROR: lazy loading failed for package ‘MsFeatures’
+* removing ‘/mnt/library/MsFeatures’
+* installing *source* package ‘MsExperiment’ ...
+** package ‘MsExperiment’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]) : 
+  there is no package called ‘SparseArray’
+Calls: <Anonymous> ... loadNamespace -> withRestarts -> withOneRestart -> doWithOneRestart
+Execution halted
+ERROR: lazy loading failed for package ‘MsExperiment’
+* removing ‘/mnt/library/MsExperiment’
+* installing *source* package ‘msPurityData’ ...
+** using staged installation
+** inst
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘msPurityData’ as ‘msPurityData_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (msPurityData)
+* installing *binary* package ‘RPostgres’ ...
+* ‘RPostgres’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RPostgres’ as ‘RPostgres_1.4.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RPostgres)
+* installing *binary* package ‘RMySQL’ ...
+* ‘RMySQL’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RMySQL’ as ‘RMySQL_0.11.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RMySQL)
+* installing *source* package ‘msPurity’ ...
+** package ‘msPurity’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘msPurity’ as ‘msPurity_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (msPurity)
+ERROR: dependencies ‘MsFeatures’, ‘MsExperiment’ are not available for package ‘xcms’
+* removing ‘/mnt/library/xcms’
+ERROR: dependency ‘xcms’ is not available for package ‘CAMERA’
+* removing ‘/mnt/library/CAMERA’
+
+The downloaded source packages are in
+	‘/tmp/RtmpDFDJ4M/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘MsFeatures’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘MsExperiment’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘xcms’ had non-zero exit status
+4: In install.packages(...) :
+  installation of package ‘CAMERA’ had non-zero exit status
+
+real	3m7.831s
+user	2m25.292s
+sys	0m13.149s

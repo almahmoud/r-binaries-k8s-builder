@@ -784,3 +784,10 @@ flowPloidy
 monocle
 nempi
 tidyFlowCore
+DelayedArray
+flowDensity
+flowFP
+flowTrans
+MetaCyto
+msPurity
+tidytof
