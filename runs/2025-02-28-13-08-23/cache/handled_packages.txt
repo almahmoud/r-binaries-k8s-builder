@@ -55,6 +55,7 @@ BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
 CARNIVAL
+CCPlotR
 CFAssay
 CGEN
 CGHbase
@@ -89,6 +90,7 @@ ComPrAn
 ComplexHeatmap
 ConsensusClusterPlus
 Cormotif
+CytoDx
 CytoGLMM
 DART
 DCATS
@@ -352,9 +354,11 @@ STATegRa
 STRINGdb
 SUITOR
 SamSPECTRAL
+Sconify
 ScreenR
 SharedObject
 SpaceMarkers
+SparseArray
 SpeCond
 Spectra
 SpectraQL
@@ -393,6 +397,7 @@ affycomp
 affyio
 agilp
 alabaster.base
+alabaster.bumpy
 alabaster.schemas
 alevinQC
 annotationTools
@@ -450,6 +455,7 @@ cqn
 ctc
 ctsGE
 cycle
+cytoMEM
 cytolib
 dStruct
 daMA
@@ -477,6 +483,7 @@ ecolitk
 edgeR
 eds
 eiR
+epiNEM
 epistasisGA
 epivizrServer
 erccdashboard
@@ -704,6 +711,7 @@ siggenes
 sights
 sigsquared
 similaRpeak
+simona
 sincell
 sitePath
 sizepower

@@ -1,0 +1,83 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'CCPlotR'
+also installing the dependencies ‘ComplexHeatmap’, ‘ggbump’, ‘ggh4x’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ComplexHeatmap_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 1472529 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggbump_0.1.0.tar.gz'
+Content type 'binary/octet-stream' length 2187738 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggh4x_0.3.0.tar.gz'
+Content type 'binary/octet-stream' length 1943960 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/CCPlotR_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 4858955 bytes (4.6 MB)
+==================================================
+downloaded 4.6 MB
+
+* installing *source* package ‘ComplexHeatmap’ ...
+** package ‘ComplexHeatmap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ComplexHeatmap’ as ‘ComplexHeatmap_2.22.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ComplexHeatmap)
+* installing *binary* package ‘ggbump’ ...
+* ‘ggbump’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggbump’ as ‘ggbump_0.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggbump)
+* installing *binary* package ‘ggh4x’ ...
+* ‘ggh4x’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggh4x’ as ‘ggh4x_0.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggh4x)
+* installing *source* package ‘CCPlotR’ ...
+** package ‘CCPlotR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CCPlotR’ as ‘CCPlotR_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CCPlotR)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp1xj3m6/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m2.716s
+user	0m30.914s
+sys	0m7.733s
