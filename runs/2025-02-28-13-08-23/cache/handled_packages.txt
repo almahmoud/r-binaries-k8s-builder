@@ -411,6 +411,7 @@ GenomicFeatures
 GenomicFiles
 GenomicInteractionNodes
 GenomicInteractions
+GenomicOZone
 GenomicPlot
 GenomicRanges
 GenomicScores
@@ -655,6 +656,7 @@ NormalyzerDE
 NormqPCR
 NuPoP
 OCplus
+OGRE
 OLIN
 OLINgui
 OMICsPCA
@@ -1145,6 +1147,7 @@ chromDraw
 chromPlot
 chromVAR
 chromstaR
+cicero
 circRNAprofiler
 cisPath
 cleanUpdTSeq

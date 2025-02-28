@@ -2073,3 +2073,6 @@ mimager
 CNViz
 DuplexDiscovereR
 ITALICS
+cicero
+GenomicOZone
+OGRE
