@@ -20,6 +20,7 @@ ASGSCA
 ASSET
 ASSIGN
 ASURAT
+ATACseqTFEA
 AUCell
 AWFisher
 AffiXcan
@@ -515,6 +516,7 @@ OLINgui
 OPWeight
 ORFhunteR
 OSAT
+OTUbase
 OVESEG
 OmicCircos
 OmicsMLRepoR
@@ -584,6 +586,7 @@ RGSEA
 RGraph2js
 RIVER
 RImmPort
+RJMCMCNucleosomes
 RLMM
 RLassoCox
 RNASeqPower
@@ -946,6 +949,7 @@ cytoKernel
 cytoMEM
 cytolib
 cytomapper
+cytoviewer
 dStruct
 daMA
 dar
@@ -1145,6 +1149,7 @@ iSEEhex
 iSEEhub
 iSEEindex
 iSEEpathways
+iSEEu
 iSeq
 iasva
 ibh
@@ -1153,6 +1158,7 @@ idpr
 idr2d
 igvShiny
 illuminaio
+imcRtools
 immApex
 immunoClust
 immunogenViewer
@@ -1419,6 +1425,7 @@ receptLoss
 reconsi
 recount3
 regionalpcs
+regioneR
 regsplice
 retrofit
 rexposome
@@ -1518,6 +1525,7 @@ sights
 sigsquared
 similaRpeak
 simona
+simpleSeg
 simplifyEnrichment
 sincell
 sitePath

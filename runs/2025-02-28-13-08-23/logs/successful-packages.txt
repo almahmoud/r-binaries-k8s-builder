@@ -1640,3 +1640,11 @@ ExCluster
 gep2pep
 HiTC
 SpotClean
+ATACseqTFEA
+cytoviewer
+imcRtools
+iSEEu
+OTUbase
+regioneR
+RJMCMCNucleosomes
+simpleSeg

@@ -1,5 +1,2 @@
-ReactomePA
-TDbasedUFEadv
-clusterProfiler
-enrichViewNet
-meshes
+iSEEfier
+regioneReloaded
