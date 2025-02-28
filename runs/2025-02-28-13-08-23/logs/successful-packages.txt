@@ -2099,3 +2099,9 @@ HiCDCPlus
 methylCC
 methylumi
 saseR
+CAGEfightR
+comapr
+derfinder
+extraChIPs
+frma
+intansv

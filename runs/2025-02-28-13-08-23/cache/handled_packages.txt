@@ -126,6 +126,7 @@ BufferedMatrixMethods
 BumpyMatrix
 CAEN
 CAFE
+CAGEfightR
 CAMERA
 CARNIVAL
 CATALYST
@@ -1182,6 +1183,7 @@ codelink
 cogena
 cogeqc
 cola
+comapr
 combi
 compSPOT
 compcodeR
@@ -1245,6 +1247,7 @@ deltaGseg
 demuxSNP
 demuxmix
 densvis
+derfinder
 derfinderHelper
 destiny
 diffGeneAnalysis
@@ -1307,6 +1310,7 @@ escheR
 esetVis
 eudysbiome
 evaluomeR
+extraChIPs
 fCCAC
 fCI
 fabia
@@ -1357,6 +1361,7 @@ fmcsR
 fmrs
 fobitools
 frenchFISH
+frma
 frmaTools
 funOmics
 funtooNorm
@@ -1491,6 +1496,7 @@ immunotation
 impute
 infercnv
 infinityFlow
+intansv
 interacCircos
 interactiveDisplay
 interactiveDisplayBase

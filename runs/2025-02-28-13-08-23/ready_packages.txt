@@ -1,3 +1,5 @@
-RnBeads
-lumi
-missMethyl
+CAGEr
+ChIPXpress
+derfinderPlot
+recount
+regionReport
