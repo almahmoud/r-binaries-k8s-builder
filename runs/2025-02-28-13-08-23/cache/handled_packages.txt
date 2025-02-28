@@ -214,6 +214,8 @@ DEsubs
 DExMA
 DFP
 DFplyr
+DMCFB
+DMCHMM
 DMRScan
 DMRcaller
 DNABarcodeCompatibility
@@ -263,6 +265,7 @@ EnMCB
 EnhancedVolcano
 EnrichDO
 EnrichedHeatmap
+EnrichmentBrowser
 EpiCompare
 EpiDISH
 EpiMix
@@ -522,6 +525,7 @@ MicrobiotaProcess
 ModCon
 Modstrings
 MoleculeExperiment
+Moonlight2R
 MoonlightR
 Motif2Site
 MotifDb
@@ -616,6 +620,7 @@ Pigengene
 Pirat
 PoDCall
 PolySTest
+PrInCE
 Prostar
 ProtGenerics
 ProteoMM
@@ -647,6 +652,7 @@ RImmPort
 RJMCMCNucleosomes
 RLMM
 RLassoCox
+RMassBank
 RNASeqPower
 RNAdecay
 RNAsense
@@ -665,15 +671,18 @@ RTCA
 RTCGA
 RTN
 RTNduals
+RTNsurvival
 RTopper
 RUVSeq
 RUVcorr
 RUVnormalize
 RVS
+RadioGx
 RaggedExperiment
 RankProd
 Rarr
 RbcBook1
+Rbec
 Rbowtie
 Rbowtie2
 Rbwa
@@ -1385,6 +1394,7 @@ msImpute
 msPurity
 msa
 mslp
+msmsEDA
 msqrob2
 multiClust
 multiGSEA
@@ -1452,6 +1462,7 @@ pathifier
 pathview
 pathwayPCA
 pcaMethods
+peakPantheR
 peco
 pengls
 pepStat

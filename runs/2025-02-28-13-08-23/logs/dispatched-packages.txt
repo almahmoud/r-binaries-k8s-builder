@@ -1906,3 +1906,6 @@ Xeva
 gDRimport
 scCB2
 scPipe
+GSEABenchmarkeR
+msmsTests
+zenith

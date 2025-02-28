@@ -1774,3 +1774,14 @@ DropletUtils
 goSorensen
 interactiveDisplay
 PharmacoGx
+DMCFB
+DMCHMM
+EnrichmentBrowser
+Moonlight2R
+msmsEDA
+peakPantheR
+PrInCE
+RadioGx
+Rbec
+RMassBank
+RTNsurvival

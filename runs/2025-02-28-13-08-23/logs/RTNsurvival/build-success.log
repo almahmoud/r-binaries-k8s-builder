@@ -1,0 +1,65 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'RTNsurvival'
+also installing the dependency ‘Fletcher2013b’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/Fletcher2013b_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 276352478 bytes (263.6 MB)
+==================================================
+downloaded 263.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/RTNsurvival_1.30.0.tar.gz'
+Content type 'application/x-gzip' length 751662 bytes (734 KB)
+==================================================
+downloaded 734 KB
+
+* installing *source* package ‘Fletcher2013b’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Note: possible error in 'att.setv(g = g, from = "degree", ': unused argument (roundleg = 1) 
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Fletcher2013b’ as ‘Fletcher2013b_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Fletcher2013b)
+* installing *source* package ‘RTNsurvival’ ...
+** package ‘RTNsurvival’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RTNsurvival’ as ‘RTNsurvival_1.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RTNsurvival)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp8X3gNg/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	3m17.298s
+user	1m12.574s
+sys	0m11.759s
