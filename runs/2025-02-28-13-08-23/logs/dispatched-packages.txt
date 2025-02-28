@@ -1891,3 +1891,6 @@ synapter
 topdownr
 tradeSeq
 xcms
+BASiCStan
+CRISPRball
+GARS

@@ -1,0 +1,67 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'EpiCompare'
+also installing the dependencies ‘b64’, ‘downloadthis’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/b64_0.1.3.tar.gz'
+Content type 'binary/octet-stream' length 962082 bytes (939 KB)
+==================================================
+downloaded 939 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/downloadthis_0.4.1.tar.gz'
+Content type 'binary/octet-stream' length 3072897 bytes (2.9 MB)
+==================================================
+downloaded 2.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/EpiCompare_1.10.1.tar.gz'
+Content type 'application/x-gzip' length 1971220 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+* installing *source* package ‘b64’ ...
+** package ‘b64’ successfully unpacked and MD5 sums checked
+** using staged installation
+sh: 1: rustc: not found
+Error in value[[3L]](cond) : 
+  ----------------------- [RUST NOT FOUND]---------------------------
+The 'rustc' compiler was not found on the PATH. Please install
+rustc or higher from:
+https://www.rust-lang.org/tools/install
+
+Alternatively, you may install Rust from your OS package manager:
+ - Debian/Ubuntu: apt-get install rustc
+ - Fedora/CentOS: dnf install rustc
+ - macOS: brew install rustc
+-------------------------------------------------------------------
+Calls: tryCatch -> tryCatchList -> tryCatchOne -> <Anonymous>
+Execution halted
+ERROR: configuration failed for package ‘b64’
+* removing ‘/mnt/library/b64’
+ERROR: dependency ‘b64’ is not available for package ‘downloadthis’
+* removing ‘/mnt/library/downloadthis’
+ERROR: dependency ‘downloadthis’ is not available for package ‘EpiCompare’
+* removing ‘/mnt/library/EpiCompare’
+
+The downloaded source packages are in
+	‘/tmp/Rtmpy8024M/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘b64’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘downloadthis’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘EpiCompare’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	1m46.335s
+user	0m11.972s
+sys	0m5.429s

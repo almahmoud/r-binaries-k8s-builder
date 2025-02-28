@@ -1,0 +1,132 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'MIRit'
+also installing the dependencies ‘fstcore’, ‘fst’, ‘concatenate’, ‘genekitr’, ‘geneset’, ‘gwasrapidd’, ‘MonoPoly’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fstcore_0.10.0.tar.gz'
+Content type 'binary/octet-stream' length 460316 bytes (449 KB)
+==================================================
+downloaded 449 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fst_0.9.8.tar.gz'
+Content type 'binary/octet-stream' length 120277 bytes (117 KB)
+==================================================
+downloaded 117 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/concatenate_1.0.0.tar.gz'
+Content type 'binary/octet-stream' length 31461 bytes (30 KB)
+==================================================
+downloaded 30 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/genekitr_1.2.8.tar.gz'
+Content type 'binary/octet-stream' length 2427237 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/geneset_0.2.7.tar.gz'
+Content type 'binary/octet-stream' length 364362 bytes (355 KB)
+==================================================
+downloaded 355 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gwasrapidd_0.99.17.tar.gz'
+Content type 'binary/octet-stream' length 1141659 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/MonoPoly_0.3-10.tar.gz'
+Content type 'binary/octet-stream' length 417784 bytes (407 KB)
+==================================================
+downloaded 407 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MIRit_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 2749306 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+* installing *binary* package ‘fstcore’ ...
+* ‘fstcore’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fstcore’ as ‘fstcore_0.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fstcore)
+* installing *binary* package ‘concatenate’ ...
+* ‘concatenate’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘concatenate’ as ‘concatenate_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (concatenate)
+* installing *binary* package ‘MonoPoly’ ...
+* ‘MonoPoly’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘MonoPoly’ as ‘MonoPoly_0.3-10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MonoPoly)
+* installing *binary* package ‘fst’ ...
+* ‘fst’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fst’ as ‘fst_0.9.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fst)
+* installing *binary* package ‘gwasrapidd’ ...
+* ‘gwasrapidd’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gwasrapidd’ as ‘gwasrapidd_0.99.17_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gwasrapidd)
+* installing *binary* package ‘geneset’ ...
+* ‘geneset’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘geneset’ as ‘geneset_0.2.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (geneset)
+* installing *source* package ‘genekitr’ ...
+** package ‘genekitr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘genekitr’ as ‘genekitr_1.2.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (genekitr)
+* installing *source* package ‘MIRit’ ...
+** package ‘MIRit’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c pathwayScore.cpp -o pathwayScore.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o MIRit.so RcppExports.o pathwayScore.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-MIRit/00new/MIRit/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MIRit’ as ‘MIRit_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MIRit)
+
+The downloaded source packages are in
+	‘/tmp/RtmpnzD0l6/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	3m34.761s
+user	1m2.648s
+sys	0m12.854s

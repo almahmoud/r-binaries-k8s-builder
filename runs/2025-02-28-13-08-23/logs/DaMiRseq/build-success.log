@@ -1,0 +1,93 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'DaMiRseq'
+also installing the dependencies ‘RWekajars’, ‘RWeka’, ‘plsVarSel’, ‘kknn’, ‘FSelector’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RWekajars_3.9.3-2.tar.gz'
+Content type 'binary/octet-stream' length 10028802 bytes (9.6 MB)
+==================================================
+downloaded 9.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RWeka_0.4-46.tar.gz'
+Content type 'binary/octet-stream' length 538316 bytes (525 KB)
+==================================================
+downloaded 525 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/plsVarSel_0.9.12.tar.gz'
+Content type 'binary/octet-stream' length 268228 bytes (261 KB)
+==================================================
+downloaded 261 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/kknn_1.3.1.tar.gz'
+Content type 'binary/octet-stream' length 317131 bytes (309 KB)
+==================================================
+downloaded 309 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/FSelector_0.34.tar.gz'
+Content type 'binary/octet-stream' length 93304 bytes (91 KB)
+==================================================
+downloaded 91 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DaMiRseq_2.18.0.tar.gz'
+Content type 'application/x-gzip' length 4424544 bytes (4.2 MB)
+==================================================
+downloaded 4.2 MB
+
+* installing *binary* package ‘RWekajars’ ...
+* ‘RWekajars’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RWekajars’ as ‘RWekajars_3.9.3-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RWekajars)
+* installing *binary* package ‘plsVarSel’ ...
+* ‘plsVarSel’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘plsVarSel’ as ‘plsVarSel_0.9.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (plsVarSel)
+* installing *binary* package ‘kknn’ ...
+* ‘kknn’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘kknn’ as ‘kknn_1.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kknn)
+* installing *binary* package ‘RWeka’ ...
+* ‘RWeka’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RWeka’ as ‘RWeka_0.4-46_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RWeka)
+* installing *binary* package ‘FSelector’ ...
+* ‘FSelector’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘FSelector’ as ‘FSelector_0.34_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FSelector)
+* installing *source* package ‘DaMiRseq’ ...
+** package ‘DaMiRseq’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DaMiRseq’ as ‘DaMiRseq_2.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DaMiRseq)
+
+The downloaded source packages are in
+	‘/tmp/Rtmph5AvDe/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m50.050s
+user	0m59.835s
+sys	0m9.688s

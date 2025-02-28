@@ -1,0 +1,67 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'CaMutQC'
+also installing the dependencies ‘pinfsc50’, ‘vcfR’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pinfsc50_1.3.0.tar.gz'
+Content type 'binary/octet-stream' length 3463175 bytes (3.3 MB)
+==================================================
+downloaded 3.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/vcfR_1.15.0.tar.gz'
+Content type 'binary/octet-stream' length 1791403 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/CaMutQC_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 5081731 bytes (4.8 MB)
+==================================================
+downloaded 4.8 MB
+
+* installing *binary* package ‘pinfsc50’ ...
+* ‘pinfsc50’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pinfsc50’ as ‘pinfsc50_1.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pinfsc50)
+* installing *binary* package ‘vcfR’ ...
+* ‘vcfR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘vcfR’ as ‘vcfR_1.15.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (vcfR)
+* installing *source* package ‘CaMutQC’ ...
+** package ‘CaMutQC’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘ape::degree’ by ‘circlize::degree’ when loading ‘MesKit’
+Warning: replacing previous import ‘ape::where’ by ‘dplyr::where’ when loading ‘MesKit’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘ape::degree’ by ‘circlize::degree’ when loading ‘MesKit’
+Warning: replacing previous import ‘ape::where’ by ‘dplyr::where’ when loading ‘MesKit’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘ape::degree’ by ‘circlize::degree’ when loading ‘MesKit’
+Warning: replacing previous import ‘ape::where’ by ‘dplyr::where’ when loading ‘MesKit’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CaMutQC’ as ‘CaMutQC_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CaMutQC)
+
+The downloaded source packages are in
+	‘/tmp/RtmpqETWm9/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m28.585s
+user	0m31.888s
+sys	0m7.811s

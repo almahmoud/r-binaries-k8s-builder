@@ -1,0 +1,119 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'annotatr'
+also installing the dependencies ‘TxDb.Dmelanogaster.UCSC.dm6.ensGene’, ‘TxDb.Ggallus.UCSC.galGal5.refGene’, ‘TxDb.Rnorvegicus.UCSC.rn5.refGene’, ‘TxDb.Rnorvegicus.UCSC.rn6.refGene’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/TxDb.Dmelanogaster.UCSC.dm6.ensGene_3.12.0.tar.gz'
+Content type 'application/x-gzip' length 5539488 bytes (5.3 MB)
+==================================================
+downloaded 5.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/TxDb.Ggallus.UCSC.galGal5.refGene_3.12.0.tar.gz'
+Content type 'application/x-gzip' length 3222379 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/TxDb.Rnorvegicus.UCSC.rn5.refGene_3.12.0.tar.gz'
+Content type 'application/x-gzip' length 7655075 bytes (7.3 MB)
+==================================================
+downloaded 7.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/TxDb.Rnorvegicus.UCSC.rn6.refGene_3.4.6.tar.gz'
+Content type 'application/x-gzip' length 7633538 bytes (7.3 MB)
+==================================================
+downloaded 7.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/annotatr_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 2775427 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+* installing *source* package ‘TxDb.Dmelanogaster.UCSC.dm6.ensGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Dmelanogaster.UCSC.dm6.ensGene’ as ‘TxDb.Dmelanogaster.UCSC.dm6.ensGene_3.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Dmelanogaster.UCSC.dm6.ensGene)
+* installing *source* package ‘TxDb.Ggallus.UCSC.galGal5.refGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Ggallus.UCSC.galGal5.refGene’ as ‘TxDb.Ggallus.UCSC.galGal5.refGene_3.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Ggallus.UCSC.galGal5.refGene)
+* installing *source* package ‘TxDb.Rnorvegicus.UCSC.rn5.refGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Rnorvegicus.UCSC.rn5.refGene’ as ‘TxDb.Rnorvegicus.UCSC.rn5.refGene_3.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Rnorvegicus.UCSC.rn5.refGene)
+* installing *source* package ‘TxDb.Rnorvegicus.UCSC.rn6.refGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Rnorvegicus.UCSC.rn6.refGene’ as ‘TxDb.Rnorvegicus.UCSC.rn6.refGene_3.4.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Rnorvegicus.UCSC.rn6.refGene)
+* installing *source* package ‘annotatr’ ...
+** package ‘annotatr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘annotatr’ as ‘annotatr_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (annotatr)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp4ShPKT/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	5m22.282s
+user	2m37.075s
+sys	0m19.168s

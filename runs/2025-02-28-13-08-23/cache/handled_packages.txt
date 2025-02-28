@@ -45,6 +45,7 @@ AssessORF
 BADER
 BAGS
 BANDITS
+BASiCS
 BCRANK
 BEclear
 BG2
@@ -108,6 +109,7 @@ CBNplot
 CCPROMISE
 CCPlotR
 CDI
+CEMiTool
 CFAssay
 CGEN
 CGHbase
@@ -140,11 +142,13 @@ CSSQ
 CTDquerier
 CTSV
 CaDrA
+CaMutQC
 Cardinal
 CardinalIO
 Category
 CatsCradle
 CausalR
+CeTF
 CellBarcode
 CellBench
 CellMapper
@@ -213,6 +217,7 @@ DNAshapeR
 DOSE
 DRIMSeq
 DTA
+DaMiRseq
 DeMAND
 DeconRNASeq
 DeepPINCS
@@ -250,6 +255,7 @@ EnMCB
 EnhancedVolcano
 EnrichDO
 EnrichedHeatmap
+EpiCompare
 EpiDISH
 EpiMix
 ExCluster
@@ -270,6 +276,7 @@ FlowSOM
 FuseSOM
 GAprediction
 GBScleanR
+GDCRNATools
 GDSArray
 GEM
 GENESIS
@@ -417,6 +424,7 @@ LymphoSeq
 M3C
 M3Drop
 MACSQuantifyR
+MAGeCKFlute
 MAI
 MANOR
 MAPFX
@@ -437,6 +445,7 @@ MGFM
 MGFR
 MGnifyR
 MICSQTL
+MIRit
 MLInterfaces
 MLP
 MLSeq
@@ -446,6 +455,7 @@ MODA
 MOFA2
 MOGAMUN
 MOMA
+MOSClip
 MOSim
 MPAC
 MPFE
@@ -481,6 +491,7 @@ MetMashR
 MetNet
 MetaCyto
 MetaNeighbor
+MetaPhOR
 MetaboAnnotation
 MetaboCoreUtils
 MethPed
@@ -851,6 +862,7 @@ annaffy
 annmap
 annotate
 annotationTools
+annotatr
 anota
 anota2seq
 antiProfiles
@@ -939,6 +951,7 @@ cisPath
 cleaver
 clevRvis
 clippda
+clipper
 clst
 clstutils
 clustComp
@@ -996,6 +1009,7 @@ ddCt
 ddPCRclust
 dearseq
 debCAM
+debrowser
 decontam
 decoupleR
 deltaCaptureC
@@ -1101,6 +1115,7 @@ gCrisprTools
 gDRcore
 gDRstyle
 gDRutils
+gINTomics
 gaga
 gage
 garfield
@@ -1585,6 +1600,7 @@ simona
 simpleSeg
 simplifyEnrichment
 sincell
+singscore
 sitePath
 sizepower
 sketchR
