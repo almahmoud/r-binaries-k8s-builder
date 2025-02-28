@@ -1,0 +1,82 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'plyranges'
+also installing the dependencies ‘HelloRanges’, ‘HelloRangesData’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/HelloRanges_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 978436 bytes (955 KB)
+==================================================
+downloaded 955 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/HelloRangesData_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 47955832 bytes (45.7 MB)
+==================================================
+downloaded 45.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/plyranges_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 1359482 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+* installing *source* package ‘HelloRanges’ ...
+** package ‘HelloRanges’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘HelloRanges’ as ‘HelloRanges_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HelloRanges)
+* installing *source* package ‘HelloRangesData’ ...
+** using staged installation
+** inst
+** help
+No man pages found in package  ‘HelloRangesData’ 
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘HelloRangesData’ as ‘HelloRangesData_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HelloRangesData)
+* installing *source* package ‘plyranges’ ...
+** package ‘plyranges’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘plyranges’ as ‘plyranges_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (plyranges)
+
+The downloaded source packages are in
+	‘/tmp/RtmpeouTQc/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m54.450s
+user	1m42.598s
+sys	0m13.088s

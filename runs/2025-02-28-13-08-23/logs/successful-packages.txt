@@ -1793,3 +1793,11 @@ ptairMS
 qPLEXanalyzer
 tradeSeq
 xcms
+atena
+bumphunter
+DEXSeq
+msmsTests
+plyranges
+profileplyr
+txdbmaker
+zenith

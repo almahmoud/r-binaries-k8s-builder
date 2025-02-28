@@ -209,6 +209,7 @@ DEP
 DESeq2
 DESpace
 DEWSeq
+DEXSeq
 DEqMS
 DEsingle
 DEsubs
@@ -914,6 +915,7 @@ arrayQualityMetrics
 artMS
 assorthead
 atSNP
+atena
 attract
 autonomics
 awst
@@ -962,6 +964,7 @@ breakpointR
 brendaDb
 broadSeq
 bugsigdbr
+bumphunter
 cTRAP
 calm
 cancerclass
@@ -1397,6 +1400,7 @@ msPurity
 msa
 mslp
 msmsEDA
+msmsTests
 msqrob2
 multiClust
 multiGSEA
@@ -1492,6 +1496,7 @@ plasmut
 plgem
 plier
 plotGrouper
+plyranges
 plyxp
 pmm
 pmp
@@ -1507,6 +1512,7 @@ preprocessCore
 proDA
 procoil
 profileScoreDist
+profileplyr
 progeny
 projectR
 protGear
@@ -1764,6 +1770,7 @@ ttgsea
 tweeDEseq
 twilight
 twoddpcr
+txdbmaker
 tximport
 uSORT
 unifiedWMWqPCR
@@ -1793,6 +1800,7 @@ xmapbridge
 yamss
 zFPKM
 zellkonverter
+zenith
 zinbwave
 zitools
 zlibbioc
