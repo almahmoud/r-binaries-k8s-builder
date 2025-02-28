@@ -4,21 +4,10 @@
 
 ## Summary
 
-- 7 packages built successfully
+- 0 packages built successfully
 - 0 packages failed to build
 - 1746 packages not yet processed
 
-
-## Successfully Built (7)
-| Package                                                                      | Status   | Log                                                              | BBS Status                                                             |
-|------------------------------------------------------------------------------|----------|------------------------------------------------------------------|------------------------------------------------------------------------|
-| [GSCA](https://bioconductor.org/packages/3.20/bioc/html/GSCA.html)           | Built    | [Log](runs/2025-02-28-13-08-23/logs/GSCA/build-success.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSCA)      |
-| [Rfastp](https://bioconductor.org/packages/3.20/bioc/html/Rfastp.html)       | Built    | [Log](runs/2025-02-28-13-08-23/logs/Rfastp/build-success.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rfastp)    |
-| [SIMD](https://bioconductor.org/packages/3.20/bioc/html/SIMD.html)           | Built    | [Log](runs/2025-02-28-13-08-23/logs/SIMD/build-success.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SIMD)      |
-| [compcodeR](https://bioconductor.org/packages/3.20/bioc/html/compcodeR.html) | Built    | [Log](runs/2025-02-28-13-08-23/logs/compcodeR/build-success.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/compcodeR) |
-| [fobitools](https://bioconductor.org/packages/3.20/bioc/html/fobitools.html) | Built    | [Log](runs/2025-02-28-13-08-23/logs/fobitools/build-success.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fobitools) |
-| [philr](https://bioconductor.org/packages/3.20/bioc/html/philr.html)         | Built    | [Log](runs/2025-02-28-13-08-23/logs/philr/build-success.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/philr)     |
-| [sitePath](https://bioconductor.org/packages/3.20/bioc/html/sitePath.html)   | Built    | [Log](runs/2025-02-28-13-08-23/logs/sitePath/build-success.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sitePath)  |
 
 ## Not Yet Processed (1746)
 | Package                                                                                                          | Status      |
