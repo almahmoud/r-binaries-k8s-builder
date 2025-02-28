@@ -1,8 +1,8 @@
-AnnotationDbi
-FELLA
-MOFA2
-ROntoTools
-alabaster.matrix
-chihaya
-phantasusLite
-transomics2cytoscape
+LymphoSeq
+MSstatsLiP
+MSstatsShiny
+SynExtend
+affyILM
+affyPLM
+ggmsa
+maskBAD

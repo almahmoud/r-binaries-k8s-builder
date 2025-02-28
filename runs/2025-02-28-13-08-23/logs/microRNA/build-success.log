@@ -1,0 +1,42 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'microRNA'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/microRNA_1.64.0.tar.gz'
+Content type 'application/x-gzip' length 6022268 bytes (5.7 MB)
+==================================================
+downloaded 5.7 MB
+
+* installing *source* package ‘microRNA’ ...
+** package ‘microRNA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c longest_common_substring.cpp -o longest_common_substring.o
+longest_common_substring.cpp: In function ‘SEXPREC* longest_common_substring(SEXP)’:
+longest_common_substring.cpp:87:35: error: ‘mkCharLen’ was not declared in this scope; did you mean ‘Rf_mkCharLen’?
+   87 |         SET_STRING_ELT(result, i, mkCharLen(found[i], lcs_len));
+      |                                   ^~~~~~~~~
+      |                                   Rf_mkCharLen
+make: *** [/usr/local/lib/R/etc/Makeconf:204: longest_common_substring.o] Error 1
+ERROR: compilation failed for package ‘microRNA’
+* removing ‘/mnt/library/microRNA’
+
+The downloaded source packages are in
+	‘/tmp/RtmpBbX4Nn/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘microRNA’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	1m23.058s
+user	0m7.605s
+sys	0m2.269s

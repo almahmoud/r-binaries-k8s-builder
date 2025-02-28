@@ -73,6 +73,7 @@ CNORfeeder
 CNORfuzzy
 CNORode
 COMPASS
+CONFESS
 CONSTANd
 COSNet
 CRImage
@@ -97,6 +98,7 @@ CytoDx
 CytoGLMM
 DART
 DCATS
+DECIPHER
 DEGraph
 DEGseq
 DEqMS
@@ -165,6 +167,7 @@ GeneExpressionSignature
 GeneGA
 GeneNetworkBuilder
 GeneOverlap
+GeneRegionScan
 GeneSelectMMD
 GeneticsPed
 GenomeInfoDb
@@ -227,6 +230,7 @@ MSstats
 MSstatsBig
 MSstatsConvert
 MSstatsLOBD
+MSstatsPTM
 MSstatsTMT
 MVCClass
 Maaslin2
@@ -291,6 +295,7 @@ PoDCall
 ProtGenerics
 QUBIC
 QuaternaryProd
+R4RNA
 RAREsim
 RBGL
 RBM
@@ -383,6 +388,7 @@ SpectraQL
 Streamer
 Summix
 SwathXtend
+SynMut
 TMixClust
 TPP
 TPP2D
@@ -409,6 +415,7 @@ a4Reporting
 aCGH
 abseqR
 acde
+adverSCarial
 affxparser
 affy
 affyContam
@@ -418,6 +425,7 @@ agilp
 alabaster.base
 alabaster.bumpy
 alabaster.schemas
+alabaster.string
 alevinQC
 annotationTools
 anota
@@ -463,6 +471,7 @@ clstutils
 clustComp
 clusterStab
 coGPS
+coRdon
 cogena
 compSPOT
 compcodeR
@@ -550,6 +559,7 @@ gDRstyle
 gaga
 garfield
 gcatest
+gcrma
 gdsfmt
 geNetClassifier
 gemini
@@ -643,6 +653,7 @@ mgsa
 miRBaseConverter
 miRNApath
 miRcomp
+microRNA
 mina
 minet
 mirTarRnaSeq
@@ -652,10 +663,13 @@ mixOmics
 mnem
 monocle
 mosbi
+motifcounter
 msPurity
+msa
 multiClust
 multiscan
 multtest
+muscle
 mzID
 mzR
 ncdfFlow
@@ -674,6 +688,7 @@ ompBAM
 onlineFDR
 oppti
 optimalFlow
+orthogene
 paircompviz
 pandaR
 panp
@@ -711,6 +726,7 @@ qpcrNorm
 quantsmooth
 qusage
 qvalue
+rBLAST
 rBiopaxParser
 rWikiPathways
 rain
@@ -723,10 +739,12 @@ rcellminer
 rebook
 retrofit
 rexposome
+rfaRm
 rgoslin
 rhdf5
 rhdf5client
 rhdf5filters
+rhinotypeR
 ribor
 rmelting
 rnaseqcomp
@@ -749,6 +767,7 @@ scde
 seahtrue
 semisup
 seq.hotSPOT
+seqArchR
 seqLogo
 seqTools
 seqcombo
@@ -771,6 +790,7 @@ specL
 spikeLI
 spkTools
 splots
+sscu
 ssize
 ssrch
 statTarget

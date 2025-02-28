@@ -1,0 +1,205 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'orthogene'
+also installing the dependencies ‘dlstats’, ‘rvcheck’, ‘badger’, ‘PlotTools’, ‘topGO’, ‘homologene’, ‘grr’, ‘repmis’, ‘rworkflows’, ‘piggyback’, ‘rphylopic’, ‘TreeTools’, ‘OmaDB’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dlstats_0.1.7.tar.gz'
+Content type 'binary/octet-stream' length 364909 bytes (356 KB)
+==================================================
+downloaded 356 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rvcheck_0.2.1.tar.gz'
+Content type 'binary/octet-stream' length 30855 bytes (30 KB)
+==================================================
+downloaded 30 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/badger_0.2.4.tar.gz'
+Content type 'binary/octet-stream' length 69820 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/PlotTools_0.3.1.tar.gz'
+Content type 'binary/octet-stream' length 33644 bytes (32 KB)
+==================================================
+downloaded 32 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/topGO_2.58.0.tar.gz'
+Content type 'application/x-gzip' length 2002683 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/homologene_1.4.68.19.3.27.tar.gz'
+Content type 'binary/octet-stream' length 3769142 bytes (3.6 MB)
+==================================================
+downloaded 3.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/grr_0.9.5.tar.gz'
+Content type 'binary/octet-stream' length 43919 bytes (42 KB)
+==================================================
+downloaded 42 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/repmis_0.5.tar.gz'
+Content type 'binary/octet-stream' length 51512 bytes (50 KB)
+==================================================
+downloaded 50 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rworkflows_1.0.6.tar.gz'
+Content type 'binary/octet-stream' length 1761874 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/piggyback_0.1.5.tar.gz'
+Content type 'binary/octet-stream' length 565422 bytes (552 KB)
+==================================================
+downloaded 552 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rphylopic_1.5.0.tar.gz'
+Content type 'binary/octet-stream' length 2128699 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/TreeTools_1.13.0.tar.gz'
+Content type 'binary/octet-stream' length 1763300 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/OmaDB_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 103730 bytes (101 KB)
+==================================================
+downloaded 101 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/orthogene_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 2763638 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+* installing *binary* package ‘dlstats’ ...
+* ‘dlstats’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dlstats’ as ‘dlstats_0.1.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dlstats)
+* installing *binary* package ‘rvcheck’ ...
+* ‘rvcheck’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rvcheck’ as ‘rvcheck_0.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rvcheck)
+* installing *binary* package ‘PlotTools’ ...
+* ‘PlotTools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘PlotTools’ as ‘PlotTools_0.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (PlotTools)
+* installing *source* package ‘topGO’ ...
+** package ‘topGO’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+
+groupGOTerms: 	GOBPTerm, GOMFTerm, GOCCTerm environments built.
+** testing if installed package can be loaded from final location
+
+groupGOTerms: 	GOBPTerm, GOMFTerm, GOCCTerm environments built.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘topGO’ as ‘topGO_2.58.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (topGO)
+* installing *binary* package ‘homologene’ ...
+* ‘homologene’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘homologene’ as ‘homologene_1.4.68.19.3.27_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (homologene)
+* installing *binary* package ‘grr’ ...
+* ‘grr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘grr’ as ‘grr_0.9.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (grr)
+* installing *binary* package ‘repmis’ ...
+* ‘repmis’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘repmis’ as ‘repmis_0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (repmis)
+* installing *binary* package ‘piggyback’ ...
+* ‘piggyback’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘piggyback’ as ‘piggyback_0.1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (piggyback)
+* installing *binary* package ‘rphylopic’ ...
+* ‘rphylopic’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rphylopic’ as ‘rphylopic_1.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rphylopic)
+* installing *binary* package ‘badger’ ...
+* ‘badger’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘badger’ as ‘badger_0.2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (badger)
+* installing *binary* package ‘TreeTools’ ...
+* ‘TreeTools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘TreeTools’ as ‘TreeTools_1.13.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TreeTools)
+* installing *source* package ‘OmaDB’ ...
+** package ‘OmaDB’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Error: package or namespace load failed for ‘OmaDB’ in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]):
+ there is no package called ‘KEGGREST’
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/OmaDB’
+* installing *source* package ‘orthogene’ ...
+** package ‘orthogene’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘orthogene’ as ‘orthogene_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (orthogene)
+* installing *binary* package ‘rworkflows’ ...
+* ‘rworkflows’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rworkflows’ as ‘rworkflows_1.0.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rworkflows)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpmal0Q6/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘OmaDB’ had non-zero exit status
+
+real	2m4.933s
+user	0m36.731s
+sys	0m8.801s
