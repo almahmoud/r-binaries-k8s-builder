@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2024 packages built successfully
+- 2029 packages built successfully
 - 3 packages failed to build
-- 82 packages not yet processed
+- 77 packages not yet processed
 
 ## Failed Builds (3)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
@@ -15,7 +15,7 @@
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
-## Successfully Built (2024)
+## Successfully Built (2029)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                      |
@@ -2042,8 +2042,13 @@
 | [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                               | Built    | [Log](runs/2025-02-28-13-08-23/logs/TVTB/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TVTB)                        |
 | [VanillaICE](https://bioconductor.org/packages/3.20/bioc/html/VanillaICE.html)                                   | Built    | [Log](runs/2025-02-28-13-08-23/logs/VanillaICE/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VanillaICE)                  |
 | [pdInfoBuilder](https://bioconductor.org/packages/3.20/bioc/html/pdInfoBuilder.html)                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/pdInfoBuilder/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pdInfoBuilder)               |
+| [MAGAR](https://bioconductor.org/packages/3.20/bioc/html/MAGAR.html)                                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/MAGAR/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MAGAR)                       |
+| [RNAAgeCalc](https://bioconductor.org/packages/3.20/bioc/html/RNAAgeCalc.html)                                   | Built    | [Log](runs/2025-02-28-13-08-23/logs/RNAAgeCalc/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RNAAgeCalc)                  |
+| [ReportingTools](https://bioconductor.org/packages/3.20/bioc/html/ReportingTools.html)                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/ReportingTools/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ReportingTools)              |
+| [RnaSeqSampleSize](https://bioconductor.org/packages/3.20/bioc/html/RnaSeqSampleSize.html)                       | Built    | [Log](runs/2025-02-28-13-08-23/logs/RnaSeqSampleSize/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RnaSeqSampleSize)            |
+| [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)                       | Built    | [Log](runs/2025-02-28-13-08-23/logs/VariantFiltering/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VariantFiltering)            |
 
-## Not Yet Processed (82)
+## Not Yet Processed (77)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [AMARETTO](https://bioconductor.org/packages/3.20/bioc/html/AMARETTO.html)                                     | Unprocessed |
@@ -2066,7 +2071,6 @@
 | [GeDi](https://bioconductor.org/packages/3.20/bioc/html/GeDi.html)                                             | Unprocessed |
 | [LRcell](https://bioconductor.org/packages/3.20/bioc/html/LRcell.html)                                         | Unprocessed |
 | [MACSr](https://bioconductor.org/packages/3.20/bioc/html/MACSr.html)                                           | Unprocessed |
-| [MAGAR](https://bioconductor.org/packages/3.20/bioc/html/MAGAR.html)                                           | Unprocessed |
 | [MEAL](https://bioconductor.org/packages/3.20/bioc/html/MEAL.html)                                             | Unprocessed |
 | [MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)                                             | Unprocessed |
 | [MetaboSignal](https://bioconductor.org/packages/3.20/bioc/html/MetaboSignal.html)                             | Unprocessed |
@@ -2081,18 +2085,14 @@
 | [PhyloProfile](https://bioconductor.org/packages/3.20/bioc/html/PhyloProfile.html)                             | Unprocessed |
 | [QuasR](https://bioconductor.org/packages/3.20/bioc/html/QuasR.html)                                           | Unprocessed |
 | [REMP](https://bioconductor.org/packages/3.20/bioc/html/REMP.html)                                             | Unprocessed |
-| [RNAAgeCalc](https://bioconductor.org/packages/3.20/bioc/html/RNAAgeCalc.html)                                 | Unprocessed |
 | [RNAmodR.AlkAnilineSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.AlkAnilineSeq.html)           | Unprocessed |
 | [RNAmodR.ML](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.ML.html)                                 | Unprocessed |
 | [RNAmodR.RiboMethSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.RiboMethSeq.html)               | Unprocessed |
-| [ReportingTools](https://bioconductor.org/packages/3.20/bioc/html/ReportingTools.html)                         | Unprocessed |
-| [RnaSeqSampleSize](https://bioconductor.org/packages/3.20/bioc/html/RnaSeqSampleSize.html)                     | Unprocessed |
 | [SeqSQC](https://bioconductor.org/packages/3.20/bioc/html/SeqSQC.html)                                         | Unprocessed |
 | [SingleMoleculeFootprinting](https://bioconductor.org/packages/3.20/bioc/html/SingleMoleculeFootprinting.html) | Unprocessed |
 | [SomaticSignatures](https://bioconductor.org/packages/3.20/bioc/html/SomaticSignatures.html)                   | Unprocessed |
 | [Ularcirc](https://bioconductor.org/packages/3.20/bioc/html/Ularcirc.html)                                     | Unprocessed |
 | [VCFArray](https://bioconductor.org/packages/3.20/bioc/html/VCFArray.html)                                     | Unprocessed |
-| [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)                     | Unprocessed |
 | [YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)                                           | Unprocessed |
 | [adductomicsR](https://bioconductor.org/packages/3.20/bioc/html/adductomicsR.html)                             | Unprocessed |
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                           | Unprocessed |

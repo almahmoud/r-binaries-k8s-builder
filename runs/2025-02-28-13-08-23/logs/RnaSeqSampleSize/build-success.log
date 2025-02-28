@@ -1,0 +1,83 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'RnaSeqSampleSize'
+also installing the dependencies ‘RnaSeqSampleSizeData’, ‘heatmap3’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/RnaSeqSampleSizeData_1.38.0.tar.gz'
+Content type 'application/x-gzip' length 6329276 bytes (6.0 MB)
+==================================================
+downloaded 6.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/heatmap3_1.1.9.tar.gz'
+Content type 'binary/octet-stream' length 174552 bytes (170 KB)
+==================================================
+downloaded 170 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/RnaSeqSampleSize_2.16.0.tar.gz'
+Content type 'application/x-gzip' length 242883 bytes (237 KB)
+==================================================
+downloaded 237 KB
+
+* installing *source* package ‘RnaSeqSampleSizeData’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RnaSeqSampleSizeData’ as ‘RnaSeqSampleSizeData_1.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RnaSeqSampleSizeData)
+* installing *binary* package ‘heatmap3’ ...
+* ‘heatmap3’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘heatmap3’ as ‘heatmap3_1.1.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (heatmap3)
+* installing *source* package ‘RnaSeqSampleSize’ ...
+** package ‘RnaSeqSampleSize’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RnaSeqSampleSize.c -o RnaSeqSampleSize.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bd0.c -o bd0.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c cumsumBorder.cpp -o cumsumBorder.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c stirlerr.c -o stirlerr.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o RnaSeqSampleSize.so RcppExports.o RnaSeqSampleSize.o bd0.o cumsumBorder.o stirlerr.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-RnaSeqSampleSize/00new/RnaSeqSampleSize/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RnaSeqSampleSize’ as ‘RnaSeqSampleSize_2.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RnaSeqSampleSize)
+
+The downloaded source packages are in
+	‘/tmp/RtmpTUC6nB/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m32.397s
+user	0m58.365s
+sys	0m8.292s

@@ -2146,3 +2146,8 @@ SMITE
 SPLINTER
 TVTB
 VanillaICE
+MAGAR
+ReportingTools
+RNAAgeCalc
+RnaSeqSampleSize
+VariantFiltering

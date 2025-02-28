@@ -532,6 +532,7 @@ M3C
 M3Drop
 MACSQuantifyR
 MADSEQ
+MAGAR
 MAGeCKFlute
 MAI
 MAIT
@@ -772,6 +773,7 @@ RJMCMCNucleosomes
 RLMM
 RLassoCox
 RMassBank
+RNAAgeCalc
 RNASeqPower
 RNAdecay
 RNAmodR
@@ -824,6 +826,7 @@ RegEnrich
 RegionalST
 RepViz
 Repitools
+ReportingTools
 ResidualMatrix
 Rfastp
 RgnTX
@@ -837,6 +840,7 @@ RiboProfiling
 Rmagpie
 Rmmquant
 RnBeads
+RnaSeqSampleSize
 Rnits
 RolDE
 Rqc
@@ -1006,6 +1010,7 @@ VanillaICE
 VarCon
 VariantAnnotation
 VariantExperiment
+VariantFiltering
 VariantTools
 VegaMC
 VennDetail
