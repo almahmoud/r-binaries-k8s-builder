@@ -1823,3 +1823,14 @@ MSnID
 OUTRIDER
 scPipe
 SpatialFeatureExperiment
+BERT
+BgeeCall
+CoverageView
+IdeoViz
+IONiseR
+IPO
+MAIT
+ORFik
+OrganismDbi
+RCAS
+SingleCellSignalR

@@ -1,11 +1,5 @@
-DSS
-FRASER
-InPAS
-MIRA
-NanoMethViz
-SOMNiBUS
-Voyager
-condiments
-decontX
-dmrseq
-scmeth
+AnnotationHubData
+GSReg
+GenomicPlot
+RiboCrypt
+TFHAZ

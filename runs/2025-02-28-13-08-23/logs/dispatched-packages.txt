@@ -1965,3 +1965,8 @@ condiments
 decontX
 dmrseq
 scmeth
+AnnotationHubData
+GSReg
+GenomicPlot
+RiboCrypt
+TFHAZ

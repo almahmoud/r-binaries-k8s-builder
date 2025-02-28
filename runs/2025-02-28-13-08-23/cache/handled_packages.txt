@@ -48,6 +48,7 @@ BANDITS
 BASiCS
 BASiCStan
 BCRANK
+BERT
 BEclear
 BG2
 BLMA
@@ -66,6 +67,7 @@ BaseSpaceR
 BasicSTARRseq
 BayesKnockdown
 BeadDataPackR
+BgeeCall
 BgeeDB
 BiFET
 BiGGR
@@ -191,6 +193,7 @@ CompoundDb
 ConsensusClusterPlus
 CoreGx
 Cormotif
+CoverageView
 CrispRVariants
 CuratedAtlasQueryR
 CytoDx
@@ -408,12 +411,15 @@ IMPCdata
 INDEED
 INPower
 INTACT
+IONiseR
+IPO
 IRanges
 ISAnalytics
 ISLET
 ISoLDE
 IWTomics
 Icens
+IdeoViz
 IgGeneUsage
 InTAD
 Informeasure
@@ -449,6 +455,7 @@ M3Drop
 MACSQuantifyR
 MAGeCKFlute
 MAI
+MAIT
 MANOR
 MAPFX
 MAST
@@ -576,6 +583,7 @@ OLIN
 OLINgui
 OPWeight
 ORFhunteR
+ORFik
 OSAT
 OTUbase
 OUTRIDER
@@ -589,6 +597,7 @@ OncoSimulR
 OpenStats
 OrderedList
 Organism.dplyr
+OrganismDbi
 Oscope
 OutSplice
 PAA
@@ -646,6 +655,7 @@ RBGL
 RBM
 RBioFormats
 RBioinf
+RCAS
 RCASPAR
 RCM
 RCSL
@@ -784,6 +794,7 @@ SimBu
 SimFFPE
 SingleCellAlleleExperiment
 SingleCellExperiment
+SingleCellSignalR
 SingleR
 SpaNorm
 SpaceMarkers
