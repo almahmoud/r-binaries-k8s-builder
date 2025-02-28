@@ -1,0 +1,99 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'immApex'
+also installing the dependencies ‘iNEXT’, ‘keras3’, ‘scRepertoire’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/iNEXT_3.0.1.tar.gz'
+Content type 'binary/octet-stream' length 1201534 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/keras3_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 10481965 bytes (10.0 MB)
+==================================================
+downloaded 10.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/scRepertoire_2.2.1.tar.gz'
+Content type 'application/x-gzip' length 22282711 bytes (21.3 MB)
+==================================================
+downloaded 21.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/immApex_1.0.5.tar.gz'
+Content type 'application/x-gzip' length 2883610 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+* installing *binary* package ‘iNEXT’ ...
+* ‘iNEXT’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘iNEXT’ as ‘iNEXT_3.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iNEXT)
+* installing *binary* package ‘keras3’ ...
+* ‘keras3’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘keras3’ as ‘keras3_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (keras3)
+* installing *source* package ‘scRepertoire’ ...
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c aaKmers.cpp -o aaKmers.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c constructConDfAndParseBCR.cpp -o constructConDfAndParseBCR.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c constructConDfAndparseTCR.cpp -o constructConDfAndparseTCR.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c lvCompare.cpp -o lvCompare.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ntKmers.cpp -o ntKmers.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o scRepertoire.so RcppExports.o aaKmers.o constructConDfAndParseBCR.o constructConDfAndparseTCR.o lvCompare.o ntKmers.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-scRepertoire/00new/scRepertoire/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘scRepertoire’ as ‘scRepertoire_2.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scRepertoire)
+* installing *source* package ‘immApex’ ...
+** package ‘immApex’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘immApex’ as ‘immApex_1.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (immApex)
+
+The downloaded source packages are in
+	‘/tmp/RtmpcUzMMI/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In file(con, "r") :
+  URL 'https://bioconductor.org/config.yaml': status was 'Couldn't resolve host name'
+
+real	30m29.070s
+user	1m20.897s
+sys	0m13.320s

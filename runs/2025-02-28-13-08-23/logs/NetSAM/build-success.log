@@ -1,0 +1,61 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'NetSAM'
+also installing the dependency ‘org.Dr.eg.db’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/org.Dr.eg.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 33409893 bytes (31.9 MB)
+==================================================
+downloaded 31.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/NetSAM_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 1086045 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+* installing *source* package ‘org.Dr.eg.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Dr.eg.db’ as ‘org.Dr.eg.db_3.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Dr.eg.db)
+* installing *source* package ‘NetSAM’ ...
+** package ‘NetSAM’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘NetSAM’ as ‘NetSAM_1.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NetSAM)
+
+The downloaded source packages are in
+	‘/tmp/RtmpXjcuZU/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	35m57.248s
+user	1m47.146s
+sys	0m9.930s

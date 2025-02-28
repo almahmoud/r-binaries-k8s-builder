@@ -1,0 +1,94 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'HiCExperiment'
+also installing the dependencies ‘strawr’, ‘HiContacts’, ‘HiContactsData’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/strawr_0.0.92.tar.gz'
+Content type 'binary/octet-stream' length 830720 bytes (811 KB)
+==================================================
+downloaded 811 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/HiContacts_1.8.0.tar.gz'
+Content type 'application/x-gzip' length 4655335 bytes (4.4 MB)
+==================================================
+downloaded 4.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/HiContactsData_1.8.0.tar.gz'
+Content type 'application/x-gzip' length 227398 bytes (222 KB)
+==================================================
+downloaded 222 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/HiCExperiment_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 1037944 bytes (1013 KB)
+==================================================
+downloaded 1013 KB
+
+* installing *binary* package ‘strawr’ ...
+* ‘strawr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘strawr’ as ‘strawr_0.0.92_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (strawr)
+* installing *source* package ‘HiContactsData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘HiContactsData’ as ‘HiContactsData_1.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HiContactsData)
+* installing *source* package ‘HiCExperiment’ ...
+** package ‘HiCExperiment’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘HiCExperiment’ as ‘HiCExperiment_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HiCExperiment)
+* installing *source* package ‘HiContacts’ ...
+** package ‘HiContacts’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘HiContacts’ as ‘HiContacts_1.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HiContacts)
+
+The downloaded source packages are in
+	‘/tmp/RtmpRsm7Ma/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	36m5.078s
+user	1m8.306s
+sys	0m12.788s

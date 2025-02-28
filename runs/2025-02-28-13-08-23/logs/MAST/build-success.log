@@ -1,0 +1,86 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'MAST'
+also installing the dependencies ‘softImpute’, ‘blme’, ‘zinbwave’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/softImpute_1.4-1.tar.gz'
+Content type 'binary/octet-stream' length 323952 bytes (316 KB)
+==================================================
+downloaded 316 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/blme_1.0-6.tar.gz'
+Content type 'binary/octet-stream' length 449058 bytes (438 KB)
+==================================================
+downloaded 438 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/zinbwave_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 502453 bytes (490 KB)
+==================================================
+downloaded 490 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MAST_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 7635845 bytes (7.3 MB)
+==================================================
+downloaded 7.3 MB
+
+* installing *binary* package ‘softImpute’ ...
+* ‘softImpute’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘softImpute’ as ‘softImpute_1.4-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (softImpute)
+* installing *binary* package ‘blme’ ...
+* ‘blme’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘blme’ as ‘blme_1.0-6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (blme)
+* installing *source* package ‘MAST’ ...
+** package ‘MAST’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MAST’ as ‘MAST_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MAST)
+* installing *source* package ‘zinbwave’ ...
+** package ‘zinbwave’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘zinbwave’ as ‘zinbwave_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zinbwave)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpy6hA3w/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	36m16.379s
+user	1m7.695s
+sys	0m11.814s

@@ -1,0 +1,61 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'multistateQTL'
+also installing the dependencies ‘RcppGSL’, ‘mashr’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RcppGSL_0.3.13.tar.gz'
+Content type 'binary/octet-stream' length 213332 bytes (208 KB)
+==================================================
+downloaded 208 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mashr_0.2.79.tar.gz'
+Content type 'binary/octet-stream' length 672892 bytes (657 KB)
+==================================================
+downloaded 657 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/multistateQTL_1.2.2.tar.gz'
+Content type 'application/x-gzip' length 810813 bytes (791 KB)
+==================================================
+downloaded 791 KB
+
+* installing *binary* package ‘RcppGSL’ ...
+* ‘RcppGSL’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RcppGSL’ as ‘RcppGSL_0.3.13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcppGSL)
+* installing *binary* package ‘mashr’ ...
+* ‘mashr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mashr’ as ‘mashr_0.2.79_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mashr)
+* installing *source* package ‘multistateQTL’ ...
+** package ‘multistateQTL’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘multistateQTL’ as ‘multistateQTL_1.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (multistateQTL)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpahy0pp/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	13m17.569s
+user	0m30.210s
+sys	0m7.669s

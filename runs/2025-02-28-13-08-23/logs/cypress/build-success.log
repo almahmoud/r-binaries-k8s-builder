@@ -1,0 +1,92 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'cypress'
+also installing the dependencies ‘polycor’, ‘CDM’, ‘TAM’, ‘pbv’, ‘sirt’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/polycor_0.8-1.tar.gz'
+Content type 'binary/octet-stream' length 73771 bytes (72 KB)
+==================================================
+downloaded 72 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/CDM_8.2-6.tar.gz'
+Content type 'binary/octet-stream' length 2670945 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/TAM_4.2-21.tar.gz'
+Content type 'binary/octet-stream' length 2183208 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pbv_0.5-47.tar.gz'
+Content type 'binary/octet-stream' length 53435 bytes (52 KB)
+==================================================
+downloaded 52 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sirt_4.1-15.tar.gz'
+Content type 'binary/octet-stream' length 4483557 bytes (4.3 MB)
+==================================================
+downloaded 4.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/cypress_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 2744089 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+* installing *binary* package ‘polycor’ ...
+* ‘polycor’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘polycor’ as ‘polycor_0.8-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (polycor)
+* installing *binary* package ‘pbv’ ...
+* ‘pbv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pbv’ as ‘pbv_0.5-47_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pbv)
+* installing *binary* package ‘CDM’ ...
+* ‘CDM’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘CDM’ as ‘CDM_8.2-6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CDM)
+* installing *binary* package ‘TAM’ ...
+* ‘TAM’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘TAM’ as ‘TAM_4.2-21_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TAM)
+* installing *binary* package ‘sirt’ ...
+* ‘sirt’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sirt’ as ‘sirt_4.1-15_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sirt)
+* installing *source* package ‘cypress’ ...
+** package ‘cypress’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘cypress’ as ‘cypress_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cypress)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpueal7N/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	9m47.250s
+user	0m36.275s
+sys	0m7.127s

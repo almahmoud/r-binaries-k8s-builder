@@ -1,0 +1,62 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'wpm'
+also installing the dependency ‘shinycustomloader’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/shinycustomloader_0.9.0.tar.gz'
+Content type 'binary/octet-stream' length 30184 bytes (29 KB)
+==================================================
+downloaded 29 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/wpm_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 2532722 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+* installing *binary* package ‘shinycustomloader’ ...
+* ‘shinycustomloader’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shinycustomloader’ as ‘shinycustomloader_0.9.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinycustomloader)
+* installing *source* package ‘wpm’ ...
+** package ‘wpm’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+
+── This is the Well-Plate Maker package. ───────────────────────────────────────
+If you want to use the shiny application, then simply run: `wpm()`.If you want
+to see the Tutorial vignette and use WPM in command line, run:
+`browseVignettes('wpm')`.
+** testing if installed package can be loaded from final location
+
+── This is the Well-Plate Maker package. ───────────────────────────────────────
+If you want to use the shiny application, then simply run: `wpm()`.If you want
+to see the Tutorial vignette and use WPM in command line, run:
+`browseVignettes('wpm')`.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘wpm’ as ‘wpm_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (wpm)
+
+The downloaded source packages are in
+	‘/tmp/RtmpiZhauH/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	32m36.832s
+user	0m15.166s
+sys	0m5.459s

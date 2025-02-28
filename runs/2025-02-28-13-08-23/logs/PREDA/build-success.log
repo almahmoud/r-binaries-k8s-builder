@@ -1,0 +1,61 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'PREDA'
+also installing the dependency ‘PREDAsampledata’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/PREDAsampledata_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70030146 bytes (66.8 MB)
+==================================================
+downloaded 66.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/PREDA_1.52.0.tar.gz'
+Content type 'application/x-gzip' length 2106076 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+* installing *source* package ‘PREDA’ ...
+** package ‘PREDA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘PREDA’ as ‘PREDA_1.52.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (PREDA)
+* installing *source* package ‘PREDAsampledata’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘PREDAsampledata’ as ‘PREDAsampledata_0.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (PREDAsampledata)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpekwps9/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	8m32.683s
+user	0m47.309s
+sys	0m8.242s

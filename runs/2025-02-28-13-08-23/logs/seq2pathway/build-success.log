@@ -1,0 +1,64 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'seq2pathway'
+also installing the dependency ‘seq2pathway.data’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/seq2pathway.data_1.38.0.tar.gz'
+Content type 'application/x-gzip' length 101942591 bytes (97.2 MB)
+==================================================
+downloaded 97.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/seq2pathway_1.38.0.tar.gz'
+Content type 'application/x-gzip' length 1487407 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+* installing *source* package ‘seq2pathway.data’ ...
+** using staged installation
+** data
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘seq2pathway.data’ as ‘seq2pathway.data_1.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (seq2pathway.data)
+* installing *source* package ‘seq2pathway’ ...
+** package ‘seq2pathway’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘WGCNA::cor’ by ‘stats::cor’ when loading ‘seq2pathway’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘WGCNA::cor’ by ‘stats::cor’ when loading ‘seq2pathway’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘WGCNA::cor’ by ‘stats::cor’ when loading ‘seq2pathway’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘seq2pathway’ as ‘seq2pathway_1.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (seq2pathway)
+
+The downloaded source packages are in
+	‘/tmp/RtmphklvgB/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	32m34.478s
+user	1m8.009s
+sys	0m10.233s

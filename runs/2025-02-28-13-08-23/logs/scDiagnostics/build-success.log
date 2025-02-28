@@ -1,0 +1,82 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'scDiagnostics'
+also installing the dependencies ‘isotree’, ‘speedglm’, ‘cramer’, ‘AUCell’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/isotree_0.6.1-4.tar.gz'
+Content type 'binary/octet-stream' length 1812590 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/speedglm_0.3-5.tar.gz'
+Content type 'binary/octet-stream' length 190442 bytes (185 KB)
+==================================================
+downloaded 185 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/cramer_0.9-4.tar.gz'
+Content type 'binary/octet-stream' length 58327 bytes (56 KB)
+==================================================
+downloaded 56 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AUCell_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 1970721 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/scDiagnostics_1.0.0.tar.gz'
+Content type 'application/x-gzip' length 3802084 bytes (3.6 MB)
+==================================================
+downloaded 3.6 MB
+
+* installing *binary* package ‘isotree’ ...
+* ‘isotree’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘isotree’ as ‘isotree_0.6.1-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (isotree)
+* installing *binary* package ‘speedglm’ ...
+* ‘speedglm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘speedglm’ as ‘speedglm_0.3-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (speedglm)
+* installing *binary* package ‘cramer’ ...
+* ‘cramer’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘cramer’ as ‘cramer_0.9-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cramer)
+ERROR: dependency ‘GSEABase’ is not available for package ‘AUCell’
+* removing ‘/mnt/library/AUCell’
+* installing *source* package ‘scDiagnostics’ ...
+** package ‘scDiagnostics’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘scDiagnostics’ as ‘scDiagnostics_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scDiagnostics)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp4I5je7/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘AUCell’ had non-zero exit status
+
+real	5m43.549s
+user	0m34.841s
+sys	0m7.176s

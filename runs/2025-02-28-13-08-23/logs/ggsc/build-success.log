@@ -1,0 +1,82 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ggsc'
+also installing the dependencies ‘tidydr’, ‘STexampleData’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidydr_0.0.5.tar.gz'
+Content type 'binary/octet-stream' length 144898 bytes (141 KB)
+==================================================
+downloaded 141 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/STexampleData_1.14.1.tar.gz'
+Content type 'application/x-gzip' length 241144 bytes (235 KB)
+==================================================
+downloaded 235 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ggsc_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 84396 bytes (82 KB)
+==================================================
+downloaded 82 KB
+
+* installing *binary* package ‘tidydr’ ...
+* ‘tidydr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidydr’ as ‘tidydr_0.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidydr)
+* installing *source* package ‘STexampleData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+Error : package ‘SpatialExperiment’ required by ‘STexampleData’ could not be found
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/STexampleData’
+* installing *source* package ‘ggsc’ ...
+** package ‘ggsc’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I'/mnt/library/RcppParallel/include' -I/usr/local/include   -fopenmp -DARMA_64BIT_WORD -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I'/mnt/library/RcppParallel/include' -I/usr/local/include   -fopenmp -DARMA_64BIT_WORD -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c kde.cpp -o kde.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o ggsc.so RcppExports.o kde.o -fopenmp -llapack -lblas -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-ggsc/00new/ggsc/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ggsc’ as ‘ggsc_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggsc)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp8Nkz91/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘STexampleData’ had non-zero exit status
+
+real	33m52.447s
+user	1m19.819s
+sys	0m13.045s

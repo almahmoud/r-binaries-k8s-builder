@@ -1,0 +1,91 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'gDRutils'
+also installing the dependencies ‘RApiSerialize’, ‘stringfish’, ‘gDRtestData’, ‘qs’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RApiSerialize_0.1.4.tar.gz'
+Content type 'binary/octet-stream' length 15534 bytes (15 KB)
+==================================================
+downloaded 15 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/stringfish_0.16.0.tar.gz'
+Content type 'binary/octet-stream' length 423751 bytes (413 KB)
+==================================================
+downloaded 413 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/gDRtestData_1.4.1.tar.gz'
+Content type 'application/x-gzip' length 8803989 bytes (8.4 MB)
+==================================================
+downloaded 8.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/qs_0.27.2.tar.gz'
+Content type 'binary/octet-stream' length 1498808 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/gDRutils_1.4.10.tar.gz'
+Content type 'application/x-gzip' length 342332 bytes (334 KB)
+==================================================
+downloaded 334 KB
+
+* installing *binary* package ‘RApiSerialize’ ...
+* ‘RApiSerialize’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RApiSerialize’ as ‘RApiSerialize_0.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RApiSerialize)
+* installing *binary* package ‘stringfish’ ...
+* ‘stringfish’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘stringfish’ as ‘stringfish_0.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (stringfish)
+* installing *source* package ‘gDRtestData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gDRtestData’ as ‘gDRtestData_1.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gDRtestData)
+* installing *source* package ‘gDRutils’ ...
+** package ‘gDRutils’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gDRutils’ as ‘gDRutils_1.4.10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gDRutils)
+* installing *binary* package ‘qs’ ...
+* ‘qs’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘qs’ as ‘qs_0.27.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qs)
+
+The downloaded source packages are in
+	‘/tmp/RtmpxX56Ut/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	31m12.240s
+user	0m34.362s
+sys	0m8.445s

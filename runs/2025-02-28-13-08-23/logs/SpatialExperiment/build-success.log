@@ -1,0 +1,82 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'SpatialExperiment'
+also installing the dependency ‘DropletUtils’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DropletUtils_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 595636 bytes (581 KB)
+==================================================
+downloaded 581 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SpatialExperiment_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 5408846 bytes (5.2 MB)
+==================================================
+downloaded 5.2 MB
+
+Warning in dir.create(lockdir, recursive = TRUE) :
+  '/mnt/library/00LOCK-DropletUtils' already exists
+* installing *source* package ‘DropletUtils’ ...
+** package ‘DropletUtils’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/Rhdf5lib/include' -I'/mnt/library/BH/include' -I'/mnt/library/dqrng/include' -I'/mnt/library/scuttle/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/Rhdf5lib/include' -I'/mnt/library/BH/include' -I'/mnt/library/dqrng/include' -I'/mnt/library/scuttle/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c downsample_run.cpp -o downsample_run.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/Rhdf5lib/include' -I'/mnt/library/BH/include' -I'/mnt/library/dqrng/include' -I'/mnt/library/scuttle/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c encode_sequences.cpp -o encode_sequences.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/Rhdf5lib/include' -I'/mnt/library/BH/include' -I'/mnt/library/dqrng/include' -I'/mnt/library/scuttle/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c find_chimeric.cpp -o find_chimeric.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/Rhdf5lib/include' -I'/mnt/library/BH/include' -I'/mnt/library/dqrng/include' -I'/mnt/library/scuttle/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c find_swapped.cpp -o find_swapped.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/Rhdf5lib/include' -I'/mnt/library/BH/include' -I'/mnt/library/dqrng/include' -I'/mnt/library/scuttle/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c get_cell_barcodes.cpp -o get_cell_barcodes.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/Rhdf5lib/include' -I'/mnt/library/BH/include' -I'/mnt/library/dqrng/include' -I'/mnt/library/scuttle/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c group_cells.cpp -o group_cells.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/Rhdf5lib/include' -I'/mnt/library/BH/include' -I'/mnt/library/dqrng/include' -I'/mnt/library/scuttle/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c hashed_deltas.cpp -o hashed_deltas.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/Rhdf5lib/include' -I'/mnt/library/BH/include' -I'/mnt/library/dqrng/include' -I'/mnt/library/scuttle/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c montecarlo_pval.cpp -o montecarlo_pval.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/Rhdf5lib/include' -I'/mnt/library/BH/include' -I'/mnt/library/dqrng/include' -I'/mnt/library/scuttle/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c rand_custom.cpp -o rand_custom.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/Rhdf5lib/include' -I'/mnt/library/BH/include' -I'/mnt/library/dqrng/include' -I'/mnt/library/scuttle/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c utils.cpp -o utils.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o DropletUtils.so RcppExports.o downsample_run.o encode_sequences.o find_chimeric.o find_swapped.o get_cell_barcodes.o group_cells.o hashed_deltas.o montecarlo_pval.o rand_custom.o utils.o /mnt/library/Rhdf5lib/lib/libhdf5_cpp.a /mnt/library/Rhdf5lib/lib/libhdf5.a -lcrypto -lcurl -lsz -laec -lz -ldl -lm -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-DropletUtils/00new/DropletUtils/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error in parse(n = -1, file = file, srcfile = NULL, keep.source = FALSE) : 
+  2:42: unexpected string constant
+45: 
+46: #line 1 "
+                                             ^
+Error: unable to load R code in package ‘DropletUtils’
+Execution halted
+ERROR: lazy loading failed for package ‘DropletUtils’
+* removing ‘/mnt/library/DropletUtils’
+* installing *source* package ‘SpatialExperiment’ ...
+** package ‘SpatialExperiment’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SpatialExperiment’ as ‘SpatialExperiment_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SpatialExperiment)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpm4syeg/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘DropletUtils’ had non-zero exit status
+
+real	35m12.079s
+user	1m1.367s
+sys	0m12.042s

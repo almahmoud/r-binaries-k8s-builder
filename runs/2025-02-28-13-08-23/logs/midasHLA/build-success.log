@@ -1,0 +1,83 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'midasHLA'
+also installing the dependencies ‘formattable’, ‘HardyWeinberg’, ‘qdapTools’, ‘broom.mixed’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/formattable_0.2.1.tar.gz'
+Content type 'binary/octet-stream' length 173041 bytes (168 KB)
+==================================================
+downloaded 168 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/HardyWeinberg_1.7.8.tar.gz'
+Content type 'binary/octet-stream' length 1277441 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/qdapTools_1.3.7.tar.gz'
+Content type 'binary/octet-stream' length 133860 bytes (130 KB)
+==================================================
+downloaded 130 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/broom.mixed_0.2.9.6.tar.gz'
+Content type 'binary/octet-stream' length 5319178 bytes (5.1 MB)
+==================================================
+downloaded 5.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/midasHLA_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 1988329 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+* installing *binary* package ‘formattable’ ...
+* ‘formattable’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘formattable’ as ‘formattable_0.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (formattable)
+* installing *binary* package ‘HardyWeinberg’ ...
+* ‘HardyWeinberg’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘HardyWeinberg’ as ‘HardyWeinberg_1.7.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HardyWeinberg)
+* installing *binary* package ‘qdapTools’ ...
+* ‘qdapTools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘qdapTools’ as ‘qdapTools_1.3.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qdapTools)
+* installing *binary* package ‘broom.mixed’ ...
+* ‘broom.mixed’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘broom.mixed’ as ‘broom.mixed_0.2.9.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (broom.mixed)
+* installing *source* package ‘midasHLA’ ...
+** package ‘midasHLA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘midasHLA’ as ‘midasHLA_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (midasHLA)
+
+The downloaded source packages are in
+	‘/tmp/RtmpBQ18Yf/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	34m42.076s
+user	0m41.476s
+sys	0m11.221s

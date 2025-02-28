@@ -1,0 +1,63 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'SPONGE'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SPONGE_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 9380794 bytes (8.9 MB)
+==================================================
+downloaded 8.9 MB
+
+* installing *source* package ‘SPONGE’ ...
+** package ‘SPONGE’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘biomaRt::select’ by ‘dplyr::select’ when loading ‘SPONGE’
+Warning: replacing previous import ‘Biobase::combine’ by ‘dplyr::combine’ when loading ‘SPONGE’
+Warning: replacing previous import ‘cvms::font’ by ‘ggpubr::font’ when loading ‘SPONGE’
+Warning: replacing previous import ‘ggplot2::margin’ by ‘randomForest::margin’ when loading ‘SPONGE’
+Warning: replacing previous import ‘dplyr::combine’ by ‘randomForest::combine’ when loading ‘SPONGE’
+Warning: replacing previous import ‘Biobase::exprs’ by ‘rlang::exprs’ when loading ‘SPONGE’
+Warning: replacing previous import ‘rlang::exprs’ by ‘Biobase::exprs’ when loading ‘SPONGE’
+Note: next used in wrong context: no loop is visible 
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘biomaRt::select’ by ‘dplyr::select’ when loading ‘SPONGE’
+Warning: replacing previous import ‘Biobase::combine’ by ‘dplyr::combine’ when loading ‘SPONGE’
+Warning: replacing previous import ‘cvms::font’ by ‘ggpubr::font’ when loading ‘SPONGE’
+Warning: replacing previous import ‘ggplot2::margin’ by ‘randomForest::margin’ when loading ‘SPONGE’
+Warning: replacing previous import ‘dplyr::combine’ by ‘randomForest::combine’ when loading ‘SPONGE’
+Warning: replacing previous import ‘Biobase::exprs’ by ‘rlang::exprs’ when loading ‘SPONGE’
+Warning: replacing previous import ‘rlang::exprs’ by ‘Biobase::exprs’ when loading ‘SPONGE’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘biomaRt::select’ by ‘dplyr::select’ when loading ‘SPONGE’
+Warning: replacing previous import ‘Biobase::combine’ by ‘dplyr::combine’ when loading ‘SPONGE’
+Warning: replacing previous import ‘cvms::font’ by ‘ggpubr::font’ when loading ‘SPONGE’
+Warning: replacing previous import ‘ggplot2::margin’ by ‘randomForest::margin’ when loading ‘SPONGE’
+Warning: replacing previous import ‘dplyr::combine’ by ‘randomForest::combine’ when loading ‘SPONGE’
+Warning: replacing previous import ‘Biobase::exprs’ by ‘rlang::exprs’ when loading ‘SPONGE’
+Warning: replacing previous import ‘rlang::exprs’ by ‘Biobase::exprs’ when loading ‘SPONGE’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SPONGE’ as ‘SPONGE_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SPONGE)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp0NRJRE/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	34m52.246s
+user	1m2.994s
+sys	0m9.648s

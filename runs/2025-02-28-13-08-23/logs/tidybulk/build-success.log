@@ -1,0 +1,188 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'tidybulk'
+also installing the dependencies ‘HTMLUtils’, ‘EGSEAdata’, ‘ttservice’, ‘widyr’, ‘functional’, ‘tidySummarizedExperiment’, ‘EGSEA’, ‘glmmSeq’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/HTMLUtils_0.1.9.tar.gz'
+Content type 'binary/octet-stream' length 92266 bytes (90 KB)
+==================================================
+downloaded 90 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/EGSEAdata_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 69814480 bytes (66.6 MB)
+==================================================
+downloaded 66.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ttservice_0.4.1.tar.gz'
+Content type 'binary/octet-stream' length 31837 bytes (31 KB)
+==================================================
+downloaded 31 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/widyr_0.1.5.tar.gz'
+Content type 'binary/octet-stream' length 373875 bytes (365 KB)
+==================================================
+downloaded 365 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/functional_0.6.tar.gz'
+Content type 'binary/octet-stream' length 19270 bytes (18 KB)
+==================================================
+downloaded 18 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/tidySummarizedExperiment_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 366664 bytes (358 KB)
+==================================================
+downloaded 358 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/EGSEA_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 2227192 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/glmmSeq_0.5.5.tar.gz'
+Content type 'application/x-tar' length 1760140 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/tidybulk_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 2976881 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+* installing *binary* package ‘HTMLUtils’ ...
+* ‘HTMLUtils’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘HTMLUtils’ as ‘HTMLUtils_0.1.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HTMLUtils)
+* installing *source* package ‘EGSEAdata’ ...
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EGSEAdata’ as ‘EGSEAdata_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EGSEAdata)
+* installing *binary* package ‘ttservice’ ...
+* ‘ttservice’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ttservice’ as ‘ttservice_0.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ttservice)
+* installing *binary* package ‘widyr’ ...
+* ‘widyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘widyr’ as ‘widyr_0.1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (widyr)
+* installing *binary* package ‘functional’ ...
+* ‘functional’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘functional’ as ‘functional_0.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (functional)
+* installing *source* package ‘glmmSeq’ ...
+** package ‘glmmSeq’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘glmmSeq’ as ‘glmmSeq_0.5.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (glmmSeq)
+* installing *source* package ‘tidySummarizedExperiment’ ...
+** package ‘tidySummarizedExperiment’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Note: wrong number of arguments to '>' 
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tidySummarizedExperiment’ as ‘tidySummarizedExperiment_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidySummarizedExperiment)
+* installing *source* package ‘EGSEA’ ...
+** package ‘EGSEA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+
+groupGOTerms: 	GOBPTerm, GOMFTerm, GOCCTerm environments built.
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+
+groupGOTerms: 	GOBPTerm, GOMFTerm, GOCCTerm environments built.
+** testing if installed package can be loaded from final location
+
+groupGOTerms: 	GOBPTerm, GOMFTerm, GOCCTerm environments built.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EGSEA’ as ‘EGSEA_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EGSEA)
+* installing *source* package ‘tidybulk’ ...
+** package ‘tidybulk’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Note: wrong number of arguments to 'expm1' 
+Note: wrong number of arguments to 'expm1' 
+Note: wrong number of arguments to 'expm1' 
+Note: wrong number of arguments to 'expm1' 
+Note: wrong number of arguments to 'expm1' 
+Note: wrong number of arguments to 'expm1' 
+Note: wrong number of arguments to 'expm1' 
+Note: wrong number of arguments to 'floor' 
+Note: wrong number of arguments to 'floor' 
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tidybulk’ as ‘tidybulk_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidybulk)
+
+The downloaded source packages are in
+	‘/tmp/RtmpHcXkJB/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	59m2.924s
+user	2m6.735s
+sys	0m20.378s

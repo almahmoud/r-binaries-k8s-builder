@@ -1,0 +1,90 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'SPOTlight'
+also installing the dependencies ‘colorBlindness’, ‘DropletUtils’, ‘TabulaMurisSenisData’, ‘TENxVisiumData’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/colorBlindness_0.1.9.tar.gz'
+Content type 'binary/octet-stream' length 3546793 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DropletUtils_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 595636 bytes (581 KB)
+==================================================
+downloaded 581 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/TabulaMurisSenisData_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 2623860 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/TENxVisiumData_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 306594 bytes (299 KB)
+==================================================
+downloaded 299 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SPOTlight_1.10.0.tar.gz'
+Content type 'application/x-gzip' length 3950979 bytes (3.8 MB)
+==================================================
+downloaded 3.8 MB
+
+* installing *binary* package ‘colorBlindness’ ...
+* ‘colorBlindness’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘colorBlindness’ as ‘colorBlindness_0.1.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (colorBlindness)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-DropletUtils’
+* installing *source* package ‘TabulaMurisSenisData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TabulaMurisSenisData’ as ‘TabulaMurisSenisData_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TabulaMurisSenisData)
+ERROR: dependency ‘SpatialExperiment’ is not available for package ‘TENxVisiumData’
+* removing ‘/mnt/library/TENxVisiumData’
+* installing *source* package ‘SPOTlight’ ...
+** package ‘SPOTlight’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SPOTlight’ as ‘SPOTlight_1.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SPOTlight)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp4MsJxX/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘DropletUtils’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘TENxVisiumData’ had non-zero exit status
+
+real	35m21.703s
+user	0m54.851s
+sys	0m11.300s
