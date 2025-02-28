@@ -1,0 +1,369 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'fobitools'
+also installing the dependencies ‘Biostrings’, ‘KEGGREST’, ‘AnnotationDbi’, ‘annotate’, ‘rols’, ‘BiocParallel’, ‘dunn.test’, ‘genefilter’, ‘XVector’, ‘UCSC.utils’, ‘SparseArray’, ‘ada’, ‘MultiAssayExperiment’, ‘struct’, ‘ComplexHeatmap’, ‘DESeq2’, ‘FSA’, ‘sva’, ‘GenomicRanges’, ‘Biobase’, ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘S4Arrays’, ‘DelayedArray’, ‘RecordLinkage’, ‘tictoc’, ‘metabolomicsWorkbenchR’, ‘POMA’, ‘SummarizedExperiment’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biostrings_2.74.1.tar.gz'
+Content type 'application/x-gzip' length 12823307 bytes (12.2 MB)
+==================================================
+downloaded 12.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/KEGGREST_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 239655 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationDbi_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 4378038 bytes (4.2 MB)
+==================================================
+downloaded 4.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/annotate_1.84.0.tar.gz'
+Content type 'application/x-gzip' length 1877068 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rols_3.2.0.tar.gz'
+Content type 'application/x-gzip' length 400575 bytes (391 KB)
+==================================================
+downloaded 391 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocParallel_1.40.0.tar.gz'
+Content type 'application/x-gzip' length 1000414 bytes (976 KB)
+==================================================
+downloaded 976 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dunn.test_1.3.6.tar.gz'
+Content type 'binary/octet-stream' length 55718 bytes (54 KB)
+==================================================
+downloaded 54 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/genefilter_1.88.0.tar.gz'
+Content type 'application/x-gzip' length 1122416 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/UCSC.utils_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 236888 bytes (231 KB)
+==================================================
+downloaded 231 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SparseArray_1.6.2.tar.gz'
+Content type 'application/x-gzip' length 468696 bytes (457 KB)
+==================================================
+downloaded 457 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ada_2.0-5.tar.gz'
+Content type 'binary/octet-stream' length 734463 bytes (717 KB)
+==================================================
+downloaded 717 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MultiAssayExperiment_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 1224754 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/struct_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 616045 bytes (601 KB)
+==================================================
+downloaded 601 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ComplexHeatmap_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 1472529 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DESeq2_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 2516875 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/FSA_0.9.6.tar.gz'
+Content type 'binary/octet-stream' length 1179122 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/sva_3.54.0.tar.gz'
+Content type 'application/x-gzip' length 454419 bytes (443 KB)
+==================================================
+downloaded 443 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicRanges_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 1374658 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biobase_2.66.0.tar.gz'
+Content type 'application/x-gzip' length 1978998 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Vectors_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 1076666 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/x-gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Arrays_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 288435 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RecordLinkage_0.4-12.4.tar.gz'
+Content type 'binary/octet-stream' length 1045618 bytes (1021 KB)
+==================================================
+downloaded 1021 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tictoc_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 554893 bytes (541 KB)
+==================================================
+downloaded 541 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/metabolomicsWorkbenchR_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 2512943 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/POMA_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 2233644 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/fobitools_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 5162240 bytes (4.9 MB)
+==================================================
+downloaded 4.9 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-BiocParallel’
+* installing *binary* package ‘dunn.test’ ...
+* ‘dunn.test’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dunn.test’ as ‘dunn.test_1.3.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dunn.test)
+* installing *binary* package ‘ada’ ...
+* ‘ada’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ada’ as ‘ada_2.0-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ada)
+* installing *source* package ‘Biobase’ ...
+** package ‘Biobase’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rinit.c -o Rinit.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c anyMissing.c -o anyMissing.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c envir.c -o envir.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c matchpt.c -o matchpt.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rowMedians.c -o rowMedians.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sublist_extract.c -o sublist_extract.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Biobase.so Rinit.o anyMissing.o envir.o matchpt.o rowMedians.o sublist_extract.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-Biobase/00new/Biobase/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Biobase’ as ‘Biobase_2.66.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Biobase)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-S4Vectors’
+* installing *binary* package ‘tictoc’ ...
+* ‘tictoc’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tictoc’ as ‘tictoc_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tictoc)
+* installing *source* package ‘rols’ ...
+** package ‘rols’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a generic function for ‘lapply’ from package ‘base’ in package ‘rols’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rols’ as ‘rols_3.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rols)
+* installing *source* package ‘UCSC.utils’ ...
+** package ‘UCSC.utils’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘UCSC.utils’ as ‘UCSC.utils_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (UCSC.utils)
+* installing *binary* package ‘FSA’ ...
+* ‘FSA’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘FSA’ as ‘FSA_0.9.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FSA)
+* installing *source* package ‘IRanges’ ...
+** package ‘IRanges’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CompressedAtomicList_utils.c -o CompressedAtomicList_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CompressedIRangesList_class.c -o CompressedIRangesList_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CompressedList_class.c -o CompressedList_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Grouping_class.c -o Grouping_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c IPosRanges_comparison.c -o IPosRanges_comparison.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c IRanges_class.c -o IRanges_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c IRanges_constructor.c -o IRanges_constructor.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c NCList.c -o NCList.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_IRanges.c -o R_init_IRanges.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Ranges_class.c -o Ranges_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RleViews_utils.c -o RleViews_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c S4Vectors_stubs.c -o S4Vectors_stubs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SimpleIRangesList_class.c -o SimpleIRangesList_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c coverage_methods.c -o coverage_methods.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c extractListFragments.c -o extractListFragments.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c inter_range_methods.c -o inter_range_methods.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o IRanges.so CompressedAtomicList_utils.o CompressedIRangesList_class.o CompressedList_class.o Grouping_class.o IPosRanges_comparison.o IRanges_class.o IRanges_constructor.o NCList.o R_init_IRanges.o Ranges_class.o RleViews_utils.o S4Vectors_stubs.o SimpleIRangesList_class.o coverage_methods.o extractListFragments.o inter_range_methods.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-IRanges/00new/IRanges/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a generic function for ‘drop’ from package ‘base’ in package ‘IRanges’
+Creating a generic function for ‘runmed’ from package ‘stats’ in package ‘IRanges’
+Creating a generic function for ‘chartr’ from package ‘base’ in package ‘IRanges’
+Creating a generic function for ‘toupper’ from package ‘base’ in package ‘IRanges’
+Creating a generic function for ‘tolower’ from package ‘base’ in package ‘IRanges’
+Creating a generic function for ‘sub’ from package ‘base’ in package ‘IRanges’
+Creating a generic function for ‘gsub’ from package ‘base’ in package ‘IRanges’
+Creating a generic function for ‘startsWith’ from package ‘base’ in package ‘IRanges’
+Creating a generic function for ‘endsWith’ from package ‘base’ in package ‘IRanges’
+Creating a generic function for ‘smoothEnds’ from package ‘stats’ in package ‘IRanges’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Error : package ‘S4Vectors’ required by ‘IRanges’ could not be found
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/IRanges’
+* installing *binary* package ‘RecordLinkage’ ...
+* ‘RecordLinkage’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RecordLinkage’ as ‘RecordLinkage_0.4-12.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RecordLinkage)
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘XVector’
+* removing ‘/mnt/library/XVector’
+ERROR: dependency ‘IRanges’ is not available for package ‘ComplexHeatmap’
+* removing ‘/mnt/library/ComplexHeatmap’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘UCSC.utils’ are not available for package ‘GenomeInfoDb’
+* removing ‘/mnt/library/GenomeInfoDb’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘S4Arrays’
+* removing ‘/mnt/library/S4Arrays’
+* installing *source* package ‘fobitools’ ...
+** package ‘fobitools’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘fobitools’ as ‘fobitools_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fobitools)
+ERROR: dependencies ‘IRanges’, ‘XVector’, ‘GenomeInfoDb’ are not available for package ‘Biostrings’
+* removing ‘/mnt/library/Biostrings’
+ERROR: dependencies ‘S4Arrays’, ‘IRanges’, ‘XVector’ are not available for package ‘SparseArray’
+* removing ‘/mnt/library/SparseArray’
+ERROR: dependencies ‘IRanges’, ‘GenomeInfoDb’, ‘XVector’ are not available for package ‘GenomicRanges’
+* removing ‘/mnt/library/GenomicRanges’
+ERROR: dependency ‘Biostrings’ is not available for package ‘KEGGREST’
+* removing ‘/mnt/library/KEGGREST’
+ERROR: dependencies ‘IRanges’, ‘S4Arrays’, ‘SparseArray’ are not available for package ‘DelayedArray’
+* removing ‘/mnt/library/DelayedArray’
+ERROR: dependencies ‘IRanges’, ‘KEGGREST’ are not available for package ‘AnnotationDbi’
+* removing ‘/mnt/library/AnnotationDbi’
+ERROR: dependencies ‘GenomicRanges’, ‘IRanges’, ‘GenomeInfoDb’, ‘S4Arrays’, ‘DelayedArray’ are not available for package ‘SummarizedExperiment’
+* removing ‘/mnt/library/SummarizedExperiment’
+ERROR: dependency ‘AnnotationDbi’ is not available for package ‘annotate’
+* removing ‘/mnt/library/annotate’
+ERROR: dependencies ‘SummarizedExperiment’, ‘DelayedArray’, ‘GenomicRanges’, ‘IRanges’ are not available for package ‘MultiAssayExperiment’
+* removing ‘/mnt/library/MultiAssayExperiment’
+ERROR: dependency ‘SummarizedExperiment’ is not available for package ‘struct’
+* removing ‘/mnt/library/struct’
+ERROR: dependencies ‘IRanges’, ‘GenomicRanges’, ‘SummarizedExperiment’ are not available for package ‘DESeq2’
+* removing ‘/mnt/library/DESeq2’
+ERROR: dependencies ‘AnnotationDbi’, ‘annotate’ are not available for package ‘genefilter’
+* removing ‘/mnt/library/genefilter’
+ERROR: dependencies ‘MultiAssayExperiment’, ‘struct’, ‘SummarizedExperiment’ are not available for package ‘metabolomicsWorkbenchR’
+* removing ‘/mnt/library/metabolomicsWorkbenchR’
+ERROR: dependency ‘genefilter’ is not available for package ‘sva’
+* removing ‘/mnt/library/sva’
+ERROR: dependencies ‘ComplexHeatmap’, ‘DESeq2’, ‘SummarizedExperiment’, ‘sva’ are not available for package ‘POMA’
+* removing ‘/mnt/library/POMA’
+
+The downloaded source packages are in
+	‘/tmp/RtmpzMtdwL/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+There were 22 warnings (use warnings() to see them)
+
+real	2m40.199s
+user	1m15.786s
+sys	0m16.678s

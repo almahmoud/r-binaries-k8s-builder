@@ -477,3 +477,10 @@ scMitoMut
 snifter
 tanggle
 tweeDEseq
+compcodeR
+fobitools
+GSCA
+philr
+Rfastp
+SIMD
+sitePath

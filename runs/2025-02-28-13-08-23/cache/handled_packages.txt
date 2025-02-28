@@ -87,6 +87,7 @@ GPA
 GRENITS
 GSALightning
 GSAR
+GSCA
 GSEAmining
 GSgalgoR
 GWAS.BAYES
@@ -197,6 +198,7 @@ Rcollectl
 Rdisop
 RedeR
 RedisParam
+Rfastp
 Rhdf5lib
 Rhtslib
 Rsubread
@@ -205,6 +207,7 @@ SANTA
 SBMLR
 SCBN
 SCFA
+SIMD
 SIMLR
 SLqPCR
 SMAD
@@ -271,6 +274,7 @@ clstutils
 clustComp
 coGPS
 compSPOT
+compcodeR
 consensus
 cqn
 ctc
@@ -308,6 +312,7 @@ flowGraph
 flowPeaks
 flowPlots
 fmrs
+fobitools
 frenchFISH
 garfield
 gcatest
@@ -397,6 +402,7 @@ pengls
 pepXMLTab
 pfamAnalyzeR
 pgca
+philr
 phosphonormalizer
 pickgene
 planet
@@ -440,6 +446,7 @@ shiny.gosling
 sights
 similaRpeak
 sincell
+sitePath
 sizepower
 snifter
 snm

@@ -1,0 +1,314 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'philr'
+also installing the dependencies ‘ScaledMatrix’, ‘XVector’, ‘SparseArray’, ‘fillpattern’, ‘beachmat’, ‘BiocSingular’, ‘Biostrings’, ‘multtest’, ‘GenomicRanges’, ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘S4Arrays’, ‘DelayedArray’, ‘SingleCellExperiment’, ‘MultiAssayExperiment’, ‘bluster’, ‘DECIPHER’, ‘DelayedMatrixStats’, ‘DirichletMultinomial’, ‘mediation’, ‘rbiom’, ‘scater’, ‘scuttle’, ‘ecodist’, ‘phyloseq’, ‘SummarizedExperiment’, ‘TreeSummarizedExperiment’, ‘mia’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ScaledMatrix_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 313867 bytes (306 KB)
+==================================================
+downloaded 306 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SparseArray_1.6.2.tar.gz'
+Content type 'application/x-gzip' length 468696 bytes (457 KB)
+==================================================
+downloaded 457 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fillpattern_1.0.2.tar.gz'
+Content type 'binary/octet-stream' length 345727 bytes (337 KB)
+==================================================
+downloaded 337 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/beachmat_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 378908 bytes (370 KB)
+==================================================
+downloaded 370 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocSingular_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 617927 bytes (603 KB)
+==================================================
+downloaded 603 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biostrings_2.74.1.tar.gz'
+Content type 'application/x-gzip' length 12823307 bytes (12.2 MB)
+==================================================
+downloaded 12.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/multtest_2.62.0.tar.gz'
+Content type 'application/x-gzip' length 1296359 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicRanges_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 1374658 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Vectors_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 1076666 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/x-gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Arrays_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 288435 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SingleCellExperiment_1.28.1.tar.gz'
+Content type 'application/x-gzip' length 985694 bytes (962 KB)
+==================================================
+downloaded 962 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MultiAssayExperiment_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 1224754 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/bluster_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 3267938 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DECIPHER_3.2.0.tar.gz'
+Content type 'application/x-gzip' length 17612526 bytes (16.8 MB)
+==================================================
+downloaded 16.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedMatrixStats_1.28.1.tar.gz'
+Content type 'application/x-gzip' length 274322 bytes (267 KB)
+==================================================
+downloaded 267 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DirichletMultinomial_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 1112440 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mediation_4.5.0.tar.gz'
+Content type 'binary/octet-stream' length 1290589 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rbiom_2.0.13.tar.gz'
+Content type 'binary/octet-stream' length 1637459 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/scater_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 4638399 bytes (4.4 MB)
+==================================================
+downloaded 4.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/scuttle_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 1034711 bytes (1010 KB)
+==================================================
+downloaded 1010 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ecodist_2.1.3.tar.gz'
+Content type 'binary/octet-stream' length 465298 bytes (454 KB)
+==================================================
+downloaded 454 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/phyloseq_1.50.0.tar.gz'
+Content type 'application/x-gzip' length 6423044 bytes (6.1 MB)
+==================================================
+downloaded 6.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/TreeSummarizedExperiment_2.14.0.tar.gz'
+Content type 'application/x-gzip' length 1164581 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/mia_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 3130972 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/philr_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 544575 bytes (531 KB)
+==================================================
+downloaded 531 KB
+
+* installing *binary* package ‘fillpattern’ ...
+* ‘fillpattern’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fillpattern’ as ‘fillpattern_1.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fillpattern)
+* installing *source* package ‘multtest’ ...
+** package ‘multtest’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rpack.c -o Rpack.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c VScount.c -o VScount.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c block_sampling_fixed.c -o block_sampling_fixed.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bootloop.c -o bootloop.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c mt.c -o mt.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c pairt_sampling.c -o pairt_sampling.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c pairt_sampling_fixed.c -o pairt_sampling_fixed.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c random.c -o random.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sampling.c -o sampling.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sampling_fixed.c -o sampling_fixed.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c stat_func.c -o stat_func.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c stat_order.c -o stat_order.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o multtest.so Rpack.o VScount.o block_sampling_fixed.o bootloop.o mt.o pairt_sampling.o pairt_sampling_fixed.o random.o sampling.o sampling_fixed.o stat_func.o stat_order.o -lm -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-multtest/00new/multtest/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘multtest’ as ‘multtest_2.62.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (multtest)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-S4Vectors’
+* installing *binary* package ‘mediation’ ...
+* ‘mediation’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mediation’ as ‘mediation_4.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mediation)
+* installing *binary* package ‘ecodist’ ...
+* ‘ecodist’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ecodist’ as ‘ecodist_2.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ecodist)
+* installing *source* package ‘philr’ ...
+** package ‘philr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘philr’ as ‘philr_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (philr)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-IRanges’
+* installing *source* package ‘bluster’ ...
+** package ‘bluster’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++17
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c build_snn.cpp -o build_snn.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c sum_neighbor_weights.cpp -o sum_neighbor_weights.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o bluster.so RcppExports.o build_snn.o sum_neighbor_weights.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-bluster/00new/bluster/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Error: package or namespace load failed for ‘bluster’ in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]):
+ there is no package called ‘S4Vectors’
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/bluster’
+* installing *binary* package ‘rbiom’ ...
+* ‘rbiom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rbiom’ as ‘rbiom_2.0.13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rbiom)
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘XVector’
+* removing ‘/mnt/library/XVector’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘UCSC.utils’ are not available for package ‘GenomeInfoDb’
+* removing ‘/mnt/library/GenomeInfoDb’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘S4Arrays’
+* removing ‘/mnt/library/S4Arrays’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘DirichletMultinomial’
+* removing ‘/mnt/library/DirichletMultinomial’
+ERROR: dependencies ‘S4Vectors’, ‘S4Arrays’, ‘IRanges’, ‘XVector’ are not available for package ‘SparseArray’
+* removing ‘/mnt/library/SparseArray’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘XVector’, ‘GenomeInfoDb’ are not available for package ‘Biostrings’
+* removing ‘/mnt/library/Biostrings’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘XVector’ are not available for package ‘GenomicRanges’
+* removing ‘/mnt/library/GenomicRanges’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘S4Arrays’, ‘SparseArray’ are not available for package ‘DelayedArray’
+* removing ‘/mnt/library/DelayedArray’
+ERROR: dependencies ‘Biostrings’, ‘S4Vectors’, ‘IRanges’, ‘XVector’ are not available for package ‘DECIPHER’
+* removing ‘/mnt/library/DECIPHER’
+ERROR: dependency ‘Biostrings’ is not available for package ‘phyloseq’
+* removing ‘/mnt/library/phyloseq’
+ERROR: dependencies ‘S4Vectors’, ‘DelayedArray’ are not available for package ‘ScaledMatrix’
+* removing ‘/mnt/library/ScaledMatrix’
+ERROR: dependencies ‘DelayedArray’, ‘SparseArray’ are not available for package ‘beachmat’
+* removing ‘/mnt/library/beachmat’
+ERROR: dependencies ‘DelayedArray’, ‘S4Vectors’, ‘IRanges’, ‘SparseArray’ are not available for package ‘DelayedMatrixStats’
+* removing ‘/mnt/library/DelayedMatrixStats’
+ERROR: dependencies ‘GenomicRanges’, ‘S4Vectors’, ‘IRanges’, ‘GenomeInfoDb’, ‘S4Arrays’, ‘DelayedArray’ are not available for package ‘SummarizedExperiment’
+* removing ‘/mnt/library/SummarizedExperiment’
+ERROR: dependencies ‘S4Vectors’, ‘DelayedArray’, ‘ScaledMatrix’, ‘beachmat’ are not available for package ‘BiocSingular’
+* removing ‘/mnt/library/BiocSingular’
+ERROR: dependencies ‘SummarizedExperiment’, ‘S4Vectors’, ‘GenomicRanges’, ‘DelayedArray’ are not available for package ‘SingleCellExperiment’
+* removing ‘/mnt/library/SingleCellExperiment’
+ERROR: dependencies ‘SummarizedExperiment’, ‘DelayedArray’, ‘GenomicRanges’, ‘IRanges’, ‘S4Vectors’ are not available for package ‘MultiAssayExperiment’
+* removing ‘/mnt/library/MultiAssayExperiment’
+ERROR: dependencies ‘SingleCellExperiment’, ‘S4Vectors’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘S4Arrays’, ‘SparseArray’, ‘DelayedArray’, ‘beachmat’ are not available for package ‘scuttle’
+* removing ‘/mnt/library/scuttle’
+ERROR: dependencies ‘SingleCellExperiment’, ‘S4Vectors’, ‘Biostrings’, ‘SummarizedExperiment’, ‘IRanges’ are not available for package ‘TreeSummarizedExperiment’
+* removing ‘/mnt/library/TreeSummarizedExperiment’
+ERROR: dependencies ‘SingleCellExperiment’, ‘scuttle’, ‘S4Vectors’, ‘SummarizedExperiment’, ‘SparseArray’, ‘DelayedArray’, ‘beachmat’, ‘BiocSingular’ are not available for package ‘scater’
+* removing ‘/mnt/library/scater’
+ERROR: dependencies ‘MultiAssayExperiment’, ‘SingleCellExperiment’, ‘SummarizedExperiment’, ‘TreeSummarizedExperiment’, ‘Biostrings’, ‘bluster’, ‘DECIPHER’, ‘DelayedArray’, ‘DelayedMatrixStats’, ‘DirichletMultinomial’, ‘IRanges’, ‘S4Vectors’, ‘scater’, ‘scuttle’ are not available for package ‘mia’
+* removing ‘/mnt/library/mia’
+
+The downloaded source packages are in
+	‘/tmp/Rtmp6XE3zJ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+There were 24 warnings (use warnings() to see them)
+
+real	1m23.716s
+user	0m40.801s
+sys	0m13.020s
