@@ -1,4 +1,3 @@
-MetaCyto
-flowDensity
-flowFP
-optimalFlow
+flowMerge
+flowTrans
+uSORT

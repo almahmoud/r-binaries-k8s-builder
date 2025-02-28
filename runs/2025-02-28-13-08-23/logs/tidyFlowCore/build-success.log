@@ -1,0 +1,68 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'tidyFlowCore'
+also installing the dependency ‘HDCytoData’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/HDCytoData_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 1618317 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/tidyFlowCore_1.0.0.tar.gz'
+Content type 'application/x-gzip' length 805704 bytes (786 KB)
+==================================================
+downloaded 786 KB
+
+* installing *source* package ‘HDCytoData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Error: package or namespace load failed for ‘SummarizedExperiment’ in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]):
+ there is no package called ‘DelayedArray’
+Error : package ‘SummarizedExperiment’ could not be loaded
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/HDCytoData’
+* installing *source* package ‘tidyFlowCore’ ...
+** package ‘tidyFlowCore’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tidyFlowCore’ as ‘tidyFlowCore_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyFlowCore)
+
+The downloaded source packages are in
+	‘/tmp/RtmpkhKwjD/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘HDCytoData’ had non-zero exit status
+
+real	1m20.671s
+user	0m22.835s
+sys	0m5.410s

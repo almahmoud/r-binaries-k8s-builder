@@ -778,3 +778,9 @@ immunoClust
 infinityFlow
 MAPFX
 ncdfFlow
+flowClust
+flowMatch
+flowPloidy
+monocle
+nempi
+tidyFlowCore

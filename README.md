@@ -4,30 +4,22 @@
 
 ## Summary
 
-- 14 packages built successfully
+- 6 packages built successfully
 - 0 packages failed to build
-- 1452 packages not yet processed
+- 1446 packages not yet processed
 
 
-## Successfully Built (14)
+## Successfully Built (6)
 | Package                                                                            | Status   | Log                                                                 | BBS Status                                                                |
 |------------------------------------------------------------------------------------|----------|---------------------------------------------------------------------|---------------------------------------------------------------------------|
-| [FlowSOM](https://bioconductor.org/packages/3.20/bioc/html/FlowSOM.html)           | Built    | [Log](runs/2025-02-28-13-08-23/logs/FlowSOM/build-success.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/FlowSOM)      |
-| [MAPFX](https://bioconductor.org/packages/3.20/bioc/html/MAPFX.html)               | Built    | [Log](runs/2025-02-28-13-08-23/logs/MAPFX/build-success.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MAPFX)        |
-| [flowAI](https://bioconductor.org/packages/3.20/bioc/html/flowAI.html)             | Built    | [Log](runs/2025-02-28-13-08-23/logs/flowAI/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowAI)       |
-| [flowBeads](https://bioconductor.org/packages/3.20/bioc/html/flowBeads.html)       | Built    | [Log](runs/2025-02-28-13-08-23/logs/flowBeads/build-success.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowBeads)    |
-| [flowCHIC](https://bioconductor.org/packages/3.20/bioc/html/flowCHIC.html)         | Built    | [Log](runs/2025-02-28-13-08-23/logs/flowCHIC/build-success.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowCHIC)     |
-| [flowClean](https://bioconductor.org/packages/3.20/bioc/html/flowClean.html)       | Built    | [Log](runs/2025-02-28-13-08-23/logs/flowClean/build-success.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowClean)    |
-| [flowMeans](https://bioconductor.org/packages/3.20/bioc/html/flowMeans.html)       | Built    | [Log](runs/2025-02-28-13-08-23/logs/flowMeans/build-success.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowMeans)    |
-| [flowSpecs](https://bioconductor.org/packages/3.20/bioc/html/flowSpecs.html)       | Built    | [Log](runs/2025-02-28-13-08-23/logs/flowSpecs/build-success.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowSpecs)    |
-| [flowTime](https://bioconductor.org/packages/3.20/bioc/html/flowTime.html)         | Built    | [Log](runs/2025-02-28-13-08-23/logs/flowTime/build-success.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowTime)     |
-| [flowViz](https://bioconductor.org/packages/3.20/bioc/html/flowViz.html)           | Built    | [Log](runs/2025-02-28-13-08-23/logs/flowViz/build-success.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowViz)      |
-| [gDRstyle](https://bioconductor.org/packages/3.20/bioc/html/gDRstyle.html)         | Built    | [Log](runs/2025-02-28-13-08-23/logs/gDRstyle/build-success.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gDRstyle)     |
-| [immunoClust](https://bioconductor.org/packages/3.20/bioc/html/immunoClust.html)   | Built    | [Log](runs/2025-02-28-13-08-23/logs/immunoClust/build-success.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunoClust)  |
-| [infinityFlow](https://bioconductor.org/packages/3.20/bioc/html/infinityFlow.html) | Built    | [Log](runs/2025-02-28-13-08-23/logs/infinityFlow/build-success.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/infinityFlow) |
-| [ncdfFlow](https://bioconductor.org/packages/3.20/bioc/html/ncdfFlow.html)         | Built    | [Log](runs/2025-02-28-13-08-23/logs/ncdfFlow/build-success.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ncdfFlow)     |
+| [flowClust](https://bioconductor.org/packages/3.20/bioc/html/flowClust.html)       | Built    | [Log](runs/2025-02-28-13-08-23/logs/flowClust/build-success.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowClust)    |
+| [flowMatch](https://bioconductor.org/packages/3.20/bioc/html/flowMatch.html)       | Built    | [Log](runs/2025-02-28-13-08-23/logs/flowMatch/build-success.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowMatch)    |
+| [flowPloidy](https://bioconductor.org/packages/3.20/bioc/html/flowPloidy.html)     | Built    | [Log](runs/2025-02-28-13-08-23/logs/flowPloidy/build-success.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowPloidy)   |
+| [monocle](https://bioconductor.org/packages/3.20/bioc/html/monocle.html)           | Built    | [Log](runs/2025-02-28-13-08-23/logs/monocle/build-success.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/monocle)      |
+| [nempi](https://bioconductor.org/packages/3.20/bioc/html/nempi.html)               | Built    | [Log](runs/2025-02-28-13-08-23/logs/nempi/build-success.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/nempi)        |
+| [tidyFlowCore](https://bioconductor.org/packages/3.20/bioc/html/tidyFlowCore.html) | Built    | [Log](runs/2025-02-28-13-08-23/logs/tidyFlowCore/build-success.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tidyFlowCore) |
 
-## Not Yet Processed (1452)
+## Not Yet Processed (1446)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -944,14 +936,11 @@
 | [fishpond](https://bioconductor.org/packages/3.20/bioc/html/fishpond.html)                                       | Unprocessed |
 | [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                                           | Unprocessed |
 | [flowBin](https://bioconductor.org/packages/3.20/bioc/html/flowBin.html)                                         | Unprocessed |
-| [flowClust](https://bioconductor.org/packages/3.20/bioc/html/flowClust.html)                                     | Unprocessed |
 | [flowCut](https://bioconductor.org/packages/3.20/bioc/html/flowCut.html)                                         | Unprocessed |
 | [flowDensity](https://bioconductor.org/packages/3.20/bioc/html/flowDensity.html)                                 | Unprocessed |
 | [flowFP](https://bioconductor.org/packages/3.20/bioc/html/flowFP.html)                                           | Unprocessed |
 | [flowGate](https://bioconductor.org/packages/3.20/bioc/html/flowGate.html)                                       | Unprocessed |
-| [flowMatch](https://bioconductor.org/packages/3.20/bioc/html/flowMatch.html)                                     | Unprocessed |
 | [flowMerge](https://bioconductor.org/packages/3.20/bioc/html/flowMerge.html)                                     | Unprocessed |
-| [flowPloidy](https://bioconductor.org/packages/3.20/bioc/html/flowPloidy.html)                                   | Unprocessed |
 | [flowStats](https://bioconductor.org/packages/3.20/bioc/html/flowStats.html)                                     | Unprocessed |
 | [flowTrans](https://bioconductor.org/packages/3.20/bioc/html/flowTrans.html)                                     | Unprocessed |
 | [flowVS](https://bioconductor.org/packages/3.20/bioc/html/flowVS.html)                                           | Unprocessed |
@@ -1128,7 +1117,6 @@
 | [mobileRNA](https://bioconductor.org/packages/3.20/bioc/html/mobileRNA.html)                                     | Unprocessed |
 | [mogsa](https://bioconductor.org/packages/3.20/bioc/html/mogsa.html)                                             | Unprocessed |
 | [monaLisa](https://bioconductor.org/packages/3.20/bioc/html/monaLisa.html)                                       | Unprocessed |
-| [monocle](https://bioconductor.org/packages/3.20/bioc/html/monocle.html)                                         | Unprocessed |
 | [mosaics](https://bioconductor.org/packages/3.20/bioc/html/mosaics.html)                                         | Unprocessed |
 | [mosdef](https://bioconductor.org/packages/3.20/bioc/html/mosdef.html)                                           | Unprocessed |
 | [motifStack](https://bioconductor.org/packages/3.20/bioc/html/motifStack.html)                                   | Unprocessed |
@@ -1160,7 +1148,6 @@
 | [ncGTW](https://bioconductor.org/packages/3.20/bioc/html/ncGTW.html)                                             | Unprocessed |
 | [ncRNAtools](https://bioconductor.org/packages/3.20/bioc/html/ncRNAtools.html)                                   | Unprocessed |
 | [nearBynding](https://bioconductor.org/packages/3.20/bioc/html/nearBynding.html)                                 | Unprocessed |
-| [nempi](https://bioconductor.org/packages/3.20/bioc/html/nempi.html)                                             | Unprocessed |
 | [netSmooth](https://bioconductor.org/packages/3.20/bioc/html/netSmooth.html)                                     | Unprocessed |
 | [netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)                                         | Unprocessed |
 | [netboost](https://bioconductor.org/packages/3.20/bioc/html/netboost.html)                                       | Unprocessed |
@@ -1425,7 +1412,6 @@
 | [tenXplore](https://bioconductor.org/packages/3.20/bioc/html/tenXplore.html)                                     | Unprocessed |
 | [terraTCGAdata](https://bioconductor.org/packages/3.20/bioc/html/terraTCGAdata.html)                             | Unprocessed |
 | [tidyCoverage](https://bioconductor.org/packages/3.20/bioc/html/tidyCoverage.html)                               | Unprocessed |
-| [tidyFlowCore](https://bioconductor.org/packages/3.20/bioc/html/tidyFlowCore.html)                               | Unprocessed |
 | [tidySingleCellExperiment](https://bioconductor.org/packages/3.20/bioc/html/tidySingleCellExperiment.html)       | Unprocessed |
 | [tidySpatialExperiment](https://bioconductor.org/packages/3.20/bioc/html/tidySpatialExperiment.html)             | Unprocessed |
 | [tidySummarizedExperiment](https://bioconductor.org/packages/3.20/bioc/html/tidySummarizedExperiment.html)       | Unprocessed |

@@ -503,11 +503,14 @@ flowAI
 flowBeads
 flowCHIC
 flowClean
+flowClust
 flowCore
 flowCyBar
 flowGraph
+flowMatch
 flowMeans
 flowPeaks
+flowPloidy
 flowPlots
 flowSpecs
 flowTime
@@ -622,6 +625,7 @@ mistyR
 mitch
 mixOmics
 mnem
+monocle
 mosbi
 multiClust
 multiscan
@@ -630,6 +634,7 @@ mzID
 mzR
 ncdfFlow
 ndexr
+nempi
 nethet
 netprioR
 netresponse
@@ -752,6 +757,7 @@ synlet
 systemPipeShiny
 tanggle
 ternarynet
+tidyFlowCore
 tidysbml
 timeOmics
 timecourse
