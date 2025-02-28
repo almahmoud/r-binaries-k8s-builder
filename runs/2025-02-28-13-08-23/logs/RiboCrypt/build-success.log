@@ -1,0 +1,51 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'RiboCrypt'
+also installing the dependency ‘NGLVieweR’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/NGLVieweR_1.4.0.tar.gz'
+Content type 'binary/octet-stream' length 1329177 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/RiboCrypt_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 5934717 bytes (5.7 MB)
+==================================================
+downloaded 5.7 MB
+
+* installing *binary* package ‘NGLVieweR’ ...
+* ‘NGLVieweR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘NGLVieweR’ as ‘NGLVieweR_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NGLVieweR)
+* installing *source* package ‘RiboCrypt’ ...
+** package ‘RiboCrypt’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RiboCrypt’ as ‘RiboCrypt_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RiboCrypt)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp7sEFwQ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m40.716s
+user	0m50.157s
+sys	0m7.976s

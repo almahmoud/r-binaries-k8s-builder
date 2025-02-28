@@ -148,6 +148,7 @@ CONSTANd
 COSNet
 COTAN
 CRISPRball
+CRISPRseek
 CRImage
 CSAR
 CSSQ
@@ -237,6 +238,7 @@ DNAfusion
 DNAshapeR
 DOSE
 DRIMSeq
+DSS
 DTA
 DaMiRseq
 DeMAND
@@ -337,6 +339,7 @@ GSEABenchmarkeR
 GSEAlm
 GSEAmining
 GSRI
+GSReg
 GSVA
 GSgalgoR
 GWAS.BAYES
@@ -483,6 +486,7 @@ MGFM
 MGFR
 MGnifyR
 MICSQTL
+MIRA
 MIRit
 MLInterfaces
 MLP
@@ -732,6 +736,7 @@ Rfastp
 Rgraphviz
 Rhdf5lib
 Rhtslib
+RiboCrypt
 RiboDiPA
 Rmagpie
 Rmmquant
@@ -837,6 +842,7 @@ SwathXtend
 SynExtend
 SynMut
 TADCompare
+TAPseq
 TCC
 TCGAbiolinks
 TCseq
@@ -847,6 +853,7 @@ TENxIO
 TEQC
 TFARM
 TFBSTools
+TFHAZ
 TFutils
 TIN
 TMSig
@@ -886,6 +893,7 @@ VariantExperiment
 VegaMC
 VennDetail
 VisiumIO
+Voyager
 VplotR
 Wrench
 XDE

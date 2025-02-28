@@ -1973,3 +1973,9 @@ TFHAZ
 RegionalST
 cytofQC
 spillR
+COCOA
+DeMixT
+borealis
+kissDE
+metaseqR2
+methylSig

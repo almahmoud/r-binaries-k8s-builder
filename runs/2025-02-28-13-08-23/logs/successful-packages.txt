@@ -1846,3 +1846,11 @@ CATALYST
 EpiTxDb
 proBAMr
 SOMNiBUS
+CRISPRseek
+DSS
+GSReg
+MIRA
+RiboCrypt
+TAPseq
+TFHAZ
+Voyager
