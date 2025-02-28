@@ -1986,3 +1986,5 @@
 ['[gDR](https://bioconductor.org/packages/3.20/bioc/html/gDR.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/gDR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gDR)']
 ['[methylPipe](https://bioconductor.org/packages/3.20/bioc/html/methylPipe.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/methylPipe/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methylPipe)']
 ['[yarn](https://bioconductor.org/packages/3.20/bioc/html/yarn.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/yarn/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/yarn)']
+['[mCSEA](https://bioconductor.org/packages/3.20/bioc/html/mCSEA.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/mCSEA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mCSEA)']
+['[motifbreakR](https://bioconductor.org/packages/3.20/bioc/html/motifbreakR.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/motifbreakR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifbreakR)']

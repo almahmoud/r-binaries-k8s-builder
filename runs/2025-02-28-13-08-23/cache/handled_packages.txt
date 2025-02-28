@@ -1537,6 +1537,7 @@ lpsymphony
 lute
 m6Aboost
 mBPCR
+mCSEA
 maCorrPlot
 maPredictDSC
 maSigPro
@@ -1633,6 +1634,7 @@ mosaics
 mosbi
 motifStack
 motifTestR
+motifbreakR
 motifcounter
 motifmatchr
 mpra
