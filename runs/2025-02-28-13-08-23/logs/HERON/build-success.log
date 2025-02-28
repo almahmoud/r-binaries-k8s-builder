@@ -1,0 +1,137 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'HERON'
+also installing the dependencies ‘sn’, ‘TFisher’, ‘mutoss’, ‘qqconf’, ‘spData’, ‘metap’, ‘spdep’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sn_2.1.1.tar.gz'
+Content type 'binary/octet-stream' length 1841103 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/TFisher_0.2.0.tar.gz'
+Content type 'binary/octet-stream' length 80201 bytes (78 KB)
+==================================================
+downloaded 78 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mutoss_0.1-13.tar.gz'
+Content type 'application/x-tar' length 910291 bytes (888 KB)
+==================================================
+downloaded 888 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/qqconf_1.3.2.tar.gz'
+Content type 'binary/octet-stream' length 586206 bytes (572 KB)
+==================================================
+downloaded 572 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/spData_2.3.4.tar.gz'
+Content type 'binary/octet-stream' length 3892126 bytes (3.7 MB)
+==================================================
+downloaded 3.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/metap_1.11.tar.gz'
+Content type 'binary/octet-stream' length 906187 bytes (884 KB)
+==================================================
+downloaded 884 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/spdep_1.3-10.tar.gz'
+Content type 'binary/octet-stream' length 5488954 bytes (5.2 MB)
+==================================================
+downloaded 5.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/HERON_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 990576 bytes (967 KB)
+==================================================
+downloaded 967 KB
+
+* installing *binary* package ‘sn’ ...
+* ‘sn’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sn’ as ‘sn_2.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sn)
+* installing *source* package ‘mutoss’ ...
+** package ‘mutoss’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘mutoss’ as ‘mutoss_0.1-13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mutoss)
+* installing *binary* package ‘qqconf’ ...
+* ‘qqconf’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘qqconf’ as ‘qqconf_1.3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qqconf)
+* installing *binary* package ‘spData’ ...
+* ‘spData’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spData’ as ‘spData_2.3.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spData)
+* installing *binary* package ‘TFisher’ ...
+* ‘TFisher’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘TFisher’ as ‘TFisher_0.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TFisher)
+* installing *binary* package ‘spdep’ ...
+* ‘spdep’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spdep’ as ‘spdep_1.3-10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spdep)
+* installing *source* package ‘metap’ ...
+** package ‘metap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘metap’ as ‘metap_1.11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (metap)
+* installing *source* package ‘HERON’ ...
+** package ‘HERON’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘HERON’ as ‘HERON_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HERON)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp4D3rT3/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	12m35.144s
+user	0m38.413s
+sys	0m8.536s

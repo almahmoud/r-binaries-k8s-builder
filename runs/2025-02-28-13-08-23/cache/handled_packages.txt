@@ -149,6 +149,7 @@ DelayedArray
 DelayedDataFrame
 DelayedMatrixStats
 DelayedRandomArray
+DelayedTensor
 DepInfeR
 DepecheR
 DiffLogo
@@ -227,7 +228,9 @@ GenomicAlignments
 GenomicDataCommons
 GenomicDistributions
 GenomicRanges
+GenomicSuperSignature
 GenomicTuples
+GeoDiff
 GeomxTools
 GladiaTOX
 GrafGen
@@ -237,6 +240,7 @@ HDF5Array
 HDTD
 HELP
 HEM
+HERON
 HGC
 HIBAG
 HIREewas
@@ -268,6 +272,7 @@ ISoLDE
 IWTomics
 Icens
 Informeasure
+InteractionSet
 InteractiveComplexHeatmap
 IntramiRExploreR
 IsoBayes
@@ -294,15 +299,19 @@ MACSQuantifyR
 MAI
 MANOR
 MAPFX
+MBASED
 MBAmethyl
 MBCB
+MBQN
 MBttest
 MEDME
 MEIGOR
 MMUPHin
+MODA
 MOFA2
 MOGAMUN
 MPFE
+MPRAnalyze
 MSA2dist
 MSstats
 MSstatsBig
@@ -313,16 +322,21 @@ MSstatsPTM
 MSstatsShiny
 MSstatsTMT
 MVCClass
+MWASTools
 Maaslin2
+Macarron
 MantelCorr
 MassArray
 MassSpecWavelet
 MatrixGenerics
+MeSHDbi
 MeasurementError.cor
 Melissa
 Mergeomics
+MesKit
 MetCirc
 MetID
+MetNet
 MetaCyto
 MetaboCoreUtils
 MethPed
@@ -342,6 +356,7 @@ MsBackendSql
 MsCoreUtils
 MsFeatures
 Mulcom
+MultiAssayExperiment
 MultiMed
 NCIgraph
 NOISeq
@@ -351,6 +366,7 @@ NanoStringDiff
 NanoStringNCTools
 NanoTube
 NetPathMiner
+NormalyzerDE
 NormqPCR
 NuPoP
 OCplus
@@ -378,6 +394,7 @@ Path2PPI
 PathNet
 PeacoQC
 Pedixplorer
+PepSetTest
 PepsNMR
 PhenStat
 PhenoGeneRanker
@@ -423,6 +440,7 @@ RTopper
 RUVcorr
 RUVnormalize
 RVS
+RaggedExperiment
 RankProd
 Rarr
 RbcBook1
@@ -444,6 +462,7 @@ Rhdf5lib
 Rhtslib
 Rmagpie
 Rnits
+RolDE
 Rsamtools
 Rsubread
 Rtpca
@@ -473,6 +492,7 @@ STATegRa
 STRINGdb
 SUITOR
 SamSPECTRAL
+Scale4C
 ScaledMatrix
 Sconify
 ScreenR
@@ -606,6 +626,7 @@ ctc
 ctsGE
 cyanoFilter
 cycle
+cytoKernel
 cytoMEM
 cytolib
 dStruct
@@ -624,9 +645,12 @@ derfinderHelper
 diffGeneAnalysis
 diffuStats
 diggit
+dinoR
 dir.expiry
 discordant
+divergence
 dks
+doseR
 drawProteins
 dupRadar
 dyebias
@@ -640,6 +664,7 @@ epialleleR
 epistasisGA
 epivizrServer
 erccdashboard
+eudysbiome
 fCI
 fabia
 factDesign
@@ -651,6 +676,7 @@ fedup
 fenr
 fgga
 fgsea
+findIPs
 flowAI
 flowBeads
 flowBin
