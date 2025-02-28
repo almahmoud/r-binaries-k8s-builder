@@ -1961,3 +1961,9 @@ circRNAprofiler
 GRaNIE
 OmaDB
 scTreeViz
+cbaf
+mitoClone2
+musicatk
+MutationalPatterns
+ProteoDisco
+PureCN
