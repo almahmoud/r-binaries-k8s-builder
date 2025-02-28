@@ -306,6 +306,7 @@ GenomeInfoDb
 GenomicAlignments
 GenomicDataCommons
 GenomicDistributions
+GenomicFeatures
 GenomicRanges
 GenomicScores
 GenomicSuperSignature
@@ -831,6 +832,7 @@ arrayQuality
 arrayQualityMetrics
 artMS
 assorthead
+atSNP
 autonomics
 awst
 bacon
@@ -952,6 +954,7 @@ cytomapper
 cytoviewer
 dStruct
 daMA
+dagLogo
 dar
 dcGSA
 dcanr
@@ -989,6 +992,7 @@ easyRNASeq
 easylift
 easyreporting
 ecolitk
+edge
 edgeR
 eds
 eiR
@@ -999,6 +1003,7 @@ epialleleR
 epidecodeR
 epigenomix
 epigraHMM
+epiregulon
 epistack
 epistasisGA
 epivizrServer
@@ -1195,6 +1200,7 @@ loci2path
 logicFS
 lpNet
 lpsymphony
+lute
 m6Aboost
 maCorrPlot
 maPredictDSC
@@ -1276,6 +1282,7 @@ motifTestR
 motifcounter
 motifmatchr
 mpra
+msImpute
 msPurity
 msa
 mslp
@@ -1404,6 +1411,7 @@ qvalue
 r3Cseq
 rBLAST
 rBiopaxParser
+rGADEM
 rGenomeTracks
 rRDP
 rSWeeP
@@ -1471,6 +1479,7 @@ scClassify
 scDD
 scDDboost
 scDataviz
+scDblFinder
 scDesign3
 scDiagnostics
 scFeatureFilter

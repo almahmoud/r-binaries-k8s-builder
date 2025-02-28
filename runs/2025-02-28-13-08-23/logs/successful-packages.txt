@@ -1648,3 +1648,12 @@ OTUbase
 regioneR
 RJMCMCNucleosomes
 simpleSeg
+atSNP
+dagLogo
+edge
+epiregulon
+GenomicFeatures
+lute
+msImpute
+rGADEM
+scDblFinder
