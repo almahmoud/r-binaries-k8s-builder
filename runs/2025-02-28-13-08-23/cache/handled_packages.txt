@@ -69,6 +69,7 @@ Basic4Cseq
 BasicSTARRseq
 BatchQC
 BayesKnockdown
+BayesSpace
 BeadDataPackR
 BgeeCall
 BgeeDB
@@ -83,6 +84,7 @@ BioCor
 BioGA
 BioMVCClass
 BioNAR
+BioNERO
 BioNet
 BioQC
 BioTIP
@@ -112,6 +114,7 @@ BumpyMatrix
 CAEN
 CAMERA
 CARNIVAL
+CATALYST
 CBEA
 CBNplot
 CCPROMISE
@@ -280,6 +283,7 @@ EnrichmentBrowser
 EpiCompare
 EpiDISH
 EpiMix
+EpiTxDb
 ExCluster
 ExiMiR
 ExperimentHub
@@ -768,6 +772,7 @@ SMAD
 SNAGEE
 SNPRelate
 SNPediaR
+SOMNiBUS
 SPEM
 SPIA
 SPIAT
@@ -1543,6 +1548,7 @@ pram
 prebs
 preciseTAD
 preprocessCore
+proBAMr
 proDA
 procoil
 profileScoreDist

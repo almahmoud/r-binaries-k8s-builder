@@ -1,0 +1,70 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'BayesSpace'
+also installing the dependencies ‘DirichletReg’, ‘RcppDist’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DirichletReg_0.7-1.tar.gz'
+Content type 'binary/octet-stream' length 652143 bytes (636 KB)
+==================================================
+downloaded 636 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RcppDist_0.1.1.tar.gz'
+Content type 'binary/octet-stream' length 445593 bytes (435 KB)
+==================================================
+downloaded 435 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BayesSpace_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 1271756 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+* installing *binary* package ‘DirichletReg’ ...
+* ‘DirichletReg’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DirichletReg’ as ‘DirichletReg_0.7-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DirichletReg)
+* installing *binary* package ‘RcppDist’ ...
+* ‘RcppDist’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RcppDist’ as ‘RcppDist_0.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcppDist)
+* installing *source* package ‘BayesSpace’ ...
+** package ‘BayesSpace’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++17
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I'/mnt/library/RcppDist/include' -I'/mnt/library/RcppProgress/include' -I/usr/local/include   -Iindicators/include -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I'/mnt/library/RcppDist/include' -I'/mnt/library/RcppProgress/include' -I/usr/local/include   -Iindicators/include -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c cluster.cpp -o cluster.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I'/mnt/library/RcppDist/include' -I'/mnt/library/RcppProgress/include' -I/usr/local/include   -Iindicators/include -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c compare_enhanced.cpp -o compare_enhanced.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o BayesSpace.so RcppExports.o cluster.o compare_enhanced.o -fopenmp -llapack -lblas -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-BayesSpace/00new/BayesSpace/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BayesSpace’ as ‘BayesSpace_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BayesSpace)
+
+The downloaded source packages are in
+	‘/tmp/RtmpUYeHSZ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m1.101s
+user	1m7.643s
+sys	0m10.533s
