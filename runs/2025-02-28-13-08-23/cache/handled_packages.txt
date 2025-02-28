@@ -705,6 +705,7 @@ POWSC
 PPInfer
 PREDA
 PROMISE
+PRONE
 PROPER
 PROPS
 PROcess
@@ -733,6 +734,7 @@ ProtGenerics
 ProteoDisco
 ProteoMM
 PureCN
+Pviz
 QDNAseq
 QFeatures
 QSutils
@@ -1626,6 +1628,7 @@ minet
 minfi
 mirIntegrator
 mirTarRnaSeq
+missMethyl
 missRows
 mistyR
 mitch
@@ -1677,6 +1680,7 @@ ncdfFlow
 ndexr
 nearBynding
 nempi
+netZooR
 netboost
 nethet
 netprioR

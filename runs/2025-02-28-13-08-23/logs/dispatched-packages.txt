@@ -2200,3 +2200,6 @@ ideal
 pcaExplorer
 psichomics
 wateRmelon
+DMRcate
+MEAL
+methylGSA
