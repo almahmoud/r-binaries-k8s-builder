@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1866 packages built successfully
+- 1869 packages built successfully
 - 3 packages failed to build
-- 240 packages not yet processed
+- 237 packages not yet processed
 
 ## Failed Builds (3)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
@@ -15,7 +15,7 @@
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
-## Successfully Built (1866)
+## Successfully Built (1869)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                      |
@@ -1884,8 +1884,11 @@
 | [ZygosityPredictor](https://bioconductor.org/packages/3.20/bioc/html/ZygosityPredictor.html)                     | Built    | [Log](runs/2025-02-28-13-08-23/logs/ZygosityPredictor/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ZygosityPredictor)           |
 | [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/alabaster.vcf/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.vcf)               |
 | [RAIDS](https://bioconductor.org/packages/3.20/bioc/html/RAIDS.html)                                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/RAIDS/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RAIDS)                       |
+| [pRolocGUI](https://bioconductor.org/packages/3.20/bioc/html/pRolocGUI.html)                                     | Built    | [Log](runs/2025-02-28-13-08-23/logs/pRolocGUI/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pRolocGUI)                   |
+| [segmenter](https://bioconductor.org/packages/3.20/bioc/html/segmenter.html)                                     | Built    | [Log](runs/2025-02-28-13-08-23/logs/segmenter/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/segmenter)                   |
+| [squallms](https://bioconductor.org/packages/3.20/bioc/html/squallms.html)                                       | Built    | [Log](runs/2025-02-28-13-08-23/logs/squallms/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/squallms)                    |
 
-## Not Yet Processed (240)
+## Not Yet Processed (237)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2081,7 +2084,6 @@
 | [oligo](https://bioconductor.org/packages/3.20/bioc/html/oligo.html)                                           | Unprocessed |
 | [oppar](https://bioconductor.org/packages/3.20/bioc/html/oppar.html)                                           | Unprocessed |
 | [orthos](https://bioconductor.org/packages/3.20/bioc/html/orthos.html)                                         | Unprocessed |
-| [pRolocGUI](https://bioconductor.org/packages/3.20/bioc/html/pRolocGUI.html)                                   | Unprocessed |
 | [pairedGSEA](https://bioconductor.org/packages/3.20/bioc/html/pairedGSEA.html)                                 | Unprocessed |
 | [pcaExplorer](https://bioconductor.org/packages/3.20/bioc/html/pcaExplorer.html)                               | Unprocessed |
 | [pdInfoBuilder](https://bioconductor.org/packages/3.20/bioc/html/pdInfoBuilder.html)                           | Unprocessed |
@@ -2106,7 +2108,6 @@
 | [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                           | Unprocessed |
 | [scRNAseqApp](https://bioconductor.org/packages/3.20/bioc/html/scRNAseqApp.html)                               | Unprocessed |
 | [scruff](https://bioconductor.org/packages/3.20/bioc/html/scruff.html)                                         | Unprocessed |
-| [segmenter](https://bioconductor.org/packages/3.20/bioc/html/segmenter.html)                                   | Unprocessed |
 | [selectKSigs](https://bioconductor.org/packages/3.20/bioc/html/selectKSigs.html)                               | Unprocessed |
 | [seqArchRplus](https://bioconductor.org/packages/3.20/bioc/html/seqArchRplus.html)                             | Unprocessed |
 | [sesame](https://bioconductor.org/packages/3.20/bioc/html/sesame.html)                                         | Unprocessed |
@@ -2115,7 +2116,6 @@
 | [sitadela](https://bioconductor.org/packages/3.20/bioc/html/sitadela.html)                                     | Unprocessed |
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                           | Unprocessed |
 | [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                                       | Unprocessed |
-| [squallms](https://bioconductor.org/packages/3.20/bioc/html/squallms.html)                                     | Unprocessed |
 | [svaNUMT](https://bioconductor.org/packages/3.20/bioc/html/svaNUMT.html)                                       | Unprocessed |
 | [svaRetro](https://bioconductor.org/packages/3.20/bioc/html/svaRetro.html)                                     | Unprocessed |
 | [tRanslatome](https://bioconductor.org/packages/3.20/bioc/html/tRanslatome.html)                               | Unprocessed |

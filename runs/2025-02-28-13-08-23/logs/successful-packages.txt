@@ -1988,3 +1988,6 @@ TitanCNA
 VariantTools
 ZygosityPredictor
 RAIDS
+pRolocGUI
+segmenter
+squallms

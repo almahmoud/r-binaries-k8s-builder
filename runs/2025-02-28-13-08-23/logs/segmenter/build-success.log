@@ -1,0 +1,62 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'segmenter'
+also installing the dependency ‘chromhmmData’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/chromhmmData_0.99.2.tar.gz'
+Content type 'application/x-gzip' length 13083256 bytes (12.5 MB)
+==================================================
+downloaded 12.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/segmenter_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 4178420 bytes (4.0 MB)
+==================================================
+downloaded 4.0 MB
+
+* installing *source* package ‘chromhmmData’ ...
+** using staged installation
+** inst
+** help
+No man pages found in package  ‘chromhmmData’ 
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘chromhmmData’ as ‘chromhmmData_0.99.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (chromhmmData)
+* installing *source* package ‘segmenter’ ...
+** package ‘segmenter’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘segmenter’ as ‘segmenter_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (segmenter)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp2KA6EY/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m54.986s
+user	0m52.686s
+sys	0m9.227s
