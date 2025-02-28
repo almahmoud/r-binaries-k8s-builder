@@ -1559,3 +1559,12 @@ ToxicoGx
 TSCAN
 VaSP
 VisiumIO
+amplican
+annmap
+arrayQualityMetrics
+batchelor
+HarmonizR
+lisaClust
+m6Aboost
+muscat
+TADCompare

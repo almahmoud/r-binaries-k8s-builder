@@ -1,0 +1,70 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'arrayQualityMetrics'
+also installing the dependencies ‘setRNG’, ‘CCl4’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/setRNG_2024.2-1.tar.gz'
+Content type 'binary/octet-stream' length 54988 bytes (53 KB)
+==================================================
+downloaded 53 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/CCl4_1.44.0.tar.gz'
+Content type 'application/x-gzip' length 115689915 bytes (110.3 MB)
+==================================================
+downloaded 110.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/arrayQualityMetrics_3.62.0.tar.gz'
+Content type 'application/x-gzip' length 613107 bytes (598 KB)
+==================================================
+downloaded 598 KB
+
+* installing *binary* package ‘setRNG’ ...
+* ‘setRNG’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘setRNG’ as ‘setRNG_2024.2-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (setRNG)
+* installing *source* package ‘CCl4’ ...
+** using staged installation
+** data
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CCl4’ as ‘CCl4_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CCl4)
+* installing *source* package ‘arrayQualityMetrics’ ...
+** package ‘arrayQualityMetrics’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘arrayQualityMetrics’ as ‘arrayQualityMetrics_3.62.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (arrayQualityMetrics)
+
+The downloaded source packages are in
+	‘/tmp/RtmpKY2XJJ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m35.218s
+user	1m9.378s
+sys	0m8.645s

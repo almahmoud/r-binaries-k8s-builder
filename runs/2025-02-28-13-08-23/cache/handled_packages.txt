@@ -324,6 +324,7 @@ HPAanalyze
 HPiP
 HTSFilter
 Harman
+HarmonizR
 Harshlight
 Heatplus
 Herper
@@ -697,6 +698,7 @@ Summix
 SwathXtend
 SynExtend
 SynMut
+TADCompare
 TCC
 TCGAbiolinks
 TCseq
@@ -778,8 +780,10 @@ alabaster.spatial
 alabaster.string
 alevinQC
 altcdfenvs
+amplican
 animalcules
 annaffy
+annmap
 annotate
 annotationTools
 anota
@@ -789,6 +793,7 @@ apComplex
 apeglm
 aroma.light
 arrayQuality
+arrayQualityMetrics
 artMS
 assorthead
 autonomics
@@ -801,6 +806,7 @@ barcodetrackR
 basecallQC
 basilisk
 basilisk.utils
+batchelor
 bayNorm
 baySeq
 bcSeq
@@ -1124,11 +1130,13 @@ limma
 limmaGUI
 limpca
 lionessR
+lisaClust
 lmdme
 loci2path
 logicFS
 lpNet
 lpsymphony
+m6Aboost
 maCorrPlot
 maPredictDSC
 maSigPro
@@ -1209,6 +1217,7 @@ multiWGCNA
 multiscan
 multistateQTL
 multtest
+muscat
 muscle
 mzID
 mzR

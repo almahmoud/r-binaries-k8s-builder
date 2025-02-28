@@ -1,4 +1,3 @@
-CexoR
-FEAST
-fCCAC
-hiReadsProcessor
+ChromSCape
+mumosa
+scMerge
