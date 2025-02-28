@@ -1,6 +1,4 @@
-GmicR
-SGCP
-a4
-attract
-categoryCompare
-miRLAB
+MGnifyR
+SigCheck
+dar
+miaViz

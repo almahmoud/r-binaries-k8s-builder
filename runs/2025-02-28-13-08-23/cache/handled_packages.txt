@@ -210,6 +210,7 @@ DelayedRandomArray
 DelayedTensor
 DepInfeR
 DepecheR
+DiffBind
 DiffLogo
 DifferentialRegulation
 Director
@@ -253,6 +254,7 @@ GDSArray
 GEM
 GENESIS
 GENIE3
+GEOexplorer
 GEOfastq
 GEOmetadb
 GEOquery
@@ -356,6 +358,7 @@ ISoLDE
 IWTomics
 Icens
 IgGeneUsage
+InTAD
 Informeasure
 InterCellar
 InteractionSet
@@ -405,6 +408,7 @@ MEIGOR
 MGFM
 MGFR
 MICSQTL
+MLInterfaces
 MLP
 MLSeq
 MMDiff2
@@ -443,6 +447,7 @@ MetMashR
 MetNet
 MetaCyto
 MetaNeighbor
+MetaboAnnotation
 MetaboCoreUtils
 MethPed
 MethTargetedNGS
@@ -455,6 +460,7 @@ MiRaGE
 MicrobiotaProcess
 ModCon
 Modstrings
+Motif2Site
 MotifDb
 MouseFM
 MsBackendMassbank
@@ -1186,6 +1192,7 @@ miRNAmeConverter
 miRNApath
 miRNAtap
 miRcomp
+mia
 miaSim
 microRNA
 microbiome
@@ -1223,6 +1230,7 @@ multiWGCNA
 multiscan
 multistateQTL
 multtest
+mumosa
 muscat
 muscle
 mzID
@@ -1472,6 +1480,7 @@ sparrow
 sparseMatrixStats
 sparsenetgls
 spatialDE
+spatialHeatmap
 spatialSimGP
 specL
 speckle

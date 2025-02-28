@@ -1,0 +1,64 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'spatialHeatmap'
+also installing the dependencies ‘av’, ‘sparkline’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/av_0.9.4.tar.gz'
+Content type 'binary/octet-stream' length 804360 bytes (785 KB)
+==================================================
+downloaded 785 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sparkline_2.0.tar.gz'
+Content type 'binary/octet-stream' length 225942 bytes (220 KB)
+==================================================
+downloaded 220 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/spatialHeatmap_2.12.1.tar.gz'
+Content type 'application/x-gzip' length 32983279 bytes (31.5 MB)
+==================================================
+downloaded 31.5 MB
+
+* installing *binary* package ‘av’ ...
+* ‘av’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘av’ as ‘av_0.9.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (av)
+* installing *binary* package ‘sparkline’ ...
+* ‘sparkline’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sparkline’ as ‘sparkline_2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sparkline)
+* installing *source* package ‘spatialHeatmap’ ...
+** package ‘spatialHeatmap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘svg’ in package ‘spatialHeatmap’
+Creating a new generic function for ‘match’ in package ‘spatialHeatmap’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘spatialHeatmap’ as ‘spatialHeatmap_2.12.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spatialHeatmap)
+
+The downloaded source packages are in
+	‘/tmp/RtmpifRj5I/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m49.060s
+user	0m47.748s
+sys	0m8.354s

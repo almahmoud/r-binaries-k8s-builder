@@ -1577,3 +1577,12 @@ sparrow
 spaSim
 Statial
 SurfR
+DiffBind
+GEOexplorer
+InTAD
+MetaboAnnotation
+mia
+MLInterfaces
+Motif2Site
+mumosa
+spatialHeatmap
