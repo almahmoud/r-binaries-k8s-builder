@@ -2054,3 +2054,10 @@ signeR
 tLOH
 transmogR
 cBioPortalData
+ATACseqQC
+DEScan2
+GUIDEseq
+REDseq
+epivizrStandalone
+scTreeViz
+vulcan

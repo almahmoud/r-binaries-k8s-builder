@@ -1919,3 +1919,11 @@ mygene
 pathlinkR
 RTCGAToolbox
 SplicingGraphs
+ChIPpeakAnno
+epivizr
+epivizrChart
+FastqCleaner
+FindIT2
+IsoformSwitchAnalyzeR
+MADSEQ
+scTensor

@@ -179,6 +179,7 @@ CexoR
 ChIPComp
 ChIPQC
 ChIPanalyser
+ChIPpeakAnno
 ChIPseeker
 ChIPseqR
 ChIPsim
@@ -308,8 +309,10 @@ FISHalyseR
 FRASER
 FRGEpistasis
 FamAgg
+FastqCleaner
 FeatSeekR
 FilterFFPE
+FindIT2
 FitHiC
 FlowSOM
 FuseSOM
@@ -453,6 +456,7 @@ IntramiRExploreR
 IsoBayes
 IsoCorrectoR
 IsoCorrectoRGUI
+IsoformSwitchAnalyzeR
 KBoost
 KCsmart
 KEGGREST
@@ -477,6 +481,7 @@ LymphoSeq
 M3C
 M3Drop
 MACSQuantifyR
+MADSEQ
 MAGeCKFlute
 MAI
 MAIT
@@ -1191,6 +1196,8 @@ epiregulon
 epiregulon.extra
 epistack
 epistasisGA
+epivizr
+epivizrChart
 epivizrData
 epivizrServer
 erccdashboard
@@ -1731,6 +1738,7 @@ scRepertoire
 scShapes
 scTGIF
 scTHI
+scTensor
 scanMiR
 scater
 scatterHatch
