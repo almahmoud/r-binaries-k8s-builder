@@ -2054,3 +2054,9 @@ seqArchRplus
 sitadela
 svaRetro
 Xeva
+CircSeqAlignTk
+CopyNumberPlots
+Damsel
+DegCre
+IMAS
+minfi
