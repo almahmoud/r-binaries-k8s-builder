@@ -1,6 +1,0 @@
-BubbleTree
-ChIPexoQual
-Gviz
-ggbio
-iCNV
-karyoploteR
