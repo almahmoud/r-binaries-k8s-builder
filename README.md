@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1601 packages built successfully
+- 1603 packages built successfully
 - 3 packages failed to build
-- 505 packages not yet processed
+- 503 packages not yet processed
 
 ## Failed Builds (3)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
@@ -15,7 +15,7 @@
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
-## Successfully Built (1601)
+## Successfully Built (1603)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                     |
@@ -1619,8 +1619,10 @@
 | [debrowser](https://bioconductor.org/packages/3.20/bioc/html/debrowser.html)                                   | Built    | [Log](runs/2025-02-28-13-08-23/logs/debrowser/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/debrowser)                  |
 | [gINTomics](https://bioconductor.org/packages/3.20/bioc/html/gINTomics.html)                                   | Built    | [Log](runs/2025-02-28-13-08-23/logs/gINTomics/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gINTomics)                  |
 | [singscore](https://bioconductor.org/packages/3.20/bioc/html/singscore.html)                                   | Built    | [Log](runs/2025-02-28-13-08-23/logs/singscore/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/singscore)                  |
+| [pageRank](https://bioconductor.org/packages/3.20/bioc/html/pageRank.html)                                     | Built    | [Log](runs/2025-02-28-13-08-23/logs/pageRank/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pageRank)                   |
+| [simPIC](https://bioconductor.org/packages/3.20/bioc/html/simPIC.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/simPIC/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/simPIC)                     |
 
-## Not Yet Processed (505)
+## Not Yet Processed (503)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -2034,7 +2036,6 @@
 | [orthos](https://bioconductor.org/packages/3.20/bioc/html/orthos.html)                                           | Unprocessed |
 | [pRoloc](https://bioconductor.org/packages/3.20/bioc/html/pRoloc.html)                                           | Unprocessed |
 | [pRolocGUI](https://bioconductor.org/packages/3.20/bioc/html/pRolocGUI.html)                                     | Unprocessed |
-| [pageRank](https://bioconductor.org/packages/3.20/bioc/html/pageRank.html)                                       | Unprocessed |
 | [pairedGSEA](https://bioconductor.org/packages/3.20/bioc/html/pairedGSEA.html)                                   | Unprocessed |
 | [pathlinkR](https://bioconductor.org/packages/3.20/bioc/html/pathlinkR.html)                                     | Unprocessed |
 | [pcaExplorer](https://bioconductor.org/packages/3.20/bioc/html/pcaExplorer.html)                                 | Unprocessed |
@@ -2087,7 +2088,6 @@
 | [shinyepico](https://bioconductor.org/packages/3.20/bioc/html/shinyepico.html)                                   | Unprocessed |
 | [signatureSearch](https://bioconductor.org/packages/3.20/bioc/html/signatureSearch.html)                         | Unprocessed |
 | [signeR](https://bioconductor.org/packages/3.20/bioc/html/signeR.html)                                           | Unprocessed |
-| [simPIC](https://bioconductor.org/packages/3.20/bioc/html/simPIC.html)                                           | Unprocessed |
 | [singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)                               | Unprocessed |
 | [sitadela](https://bioconductor.org/packages/3.20/bioc/html/sitadela.html)                                       | Unprocessed |
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                             | Unprocessed |

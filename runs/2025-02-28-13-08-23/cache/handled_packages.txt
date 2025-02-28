@@ -1396,6 +1396,7 @@ optimalFlow
 orthogene
 packFinder
 padma
+pageRank
 paircompviz
 pairkat
 pandaR
@@ -1595,6 +1596,7 @@ sigFeature
 siggenes
 sights
 sigsquared
+simPIC
 similaRpeak
 simona
 simpleSeg

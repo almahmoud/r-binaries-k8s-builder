@@ -1723,3 +1723,5 @@ MetaPhOR
 MIRit
 MOSClip
 singscore
+pageRank
+simPIC

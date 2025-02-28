@@ -1599,3 +1599,5 @@
 ['[debrowser](https://bioconductor.org/packages/3.20/bioc/html/debrowser.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/debrowser/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/debrowser)']
 ['[gINTomics](https://bioconductor.org/packages/3.20/bioc/html/gINTomics.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/gINTomics/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gINTomics)']
 ['[singscore](https://bioconductor.org/packages/3.20/bioc/html/singscore.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/singscore/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/singscore)']
+['[pageRank](https://bioconductor.org/packages/3.20/bioc/html/pageRank.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/pageRank/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pageRank)']
+['[simPIC](https://bioconductor.org/packages/3.20/bioc/html/simPIC.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/simPIC/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/simPIC)']
