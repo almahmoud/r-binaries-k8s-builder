@@ -103,6 +103,7 @@ BumpyMatrix
 CAEN
 CARNIVAL
 CBEA
+CCPROMISE
 CCPlotR
 CDI
 CFAssay
@@ -133,6 +134,7 @@ COSNet
 COTAN
 CRImage
 CSAR
+CSSQ
 CTDquerier
 CTSV
 CaDrA
@@ -157,6 +159,7 @@ ChemmineR
 Chicago
 ChromHeatMap
 ChromSCape
+CiteFuse
 ClassifyR
 Clomial
 ClustAll
@@ -216,6 +219,7 @@ DepecheR
 DiffBind
 DiffLogo
 DifferentialRegulation
+Dino
 Director
 DirichletMultinomial
 DiscoRhythm
@@ -408,6 +412,7 @@ MAST
 MBASED
 MBAmethyl
 MBCB
+MBECS
 MBQN
 MBttest
 MCbiclust
@@ -430,9 +435,11 @@ MOFA2
 MOGAMUN
 MOMA
 MOSim
+MPAC
 MPFE
 MPRAnalyze
 MSA2dist
+MSPrep
 MSstats
 MSstatsBig
 MSstatsConvert
@@ -602,6 +609,7 @@ ROntoTools
 RPA
 RProtoBufLib
 RRHO
+RSVSim
 RSeqAn
 RTCA
 RTCGA
@@ -625,6 +633,7 @@ RcwlPipelines
 Rdisop
 ReUseData
 ReactomeGSA
+ReactomePA
 ReadqPCR
 RedeR
 RedisParam
@@ -737,6 +746,7 @@ TCC
 TCGAbiolinks
 TCseq
 TDbasedUFE
+TDbasedUFEadv
 TEKRABber
 TENxIO
 TEQC
@@ -898,6 +908,7 @@ censcyt
 cfdnakit
 cghMCR
 chihaya
+chipenrich
 chipseq
 chopsticks
 chromDraw
@@ -911,6 +922,7 @@ clippda
 clst
 clstutils
 clustComp
+clusterProfiler
 clusterSeq
 clusterStab
 clustifyr
@@ -997,6 +1009,8 @@ edgeR
 eds
 eiR
 eisaR
+enhancerHomologSearch
+enrichViewNet
 enrichplot
 epiNEM
 epialleleR
@@ -1150,6 +1164,7 @@ iGC
 iPath
 iSEE
 iSEEde
+iSEEfier
 iSEEhex
 iSEEhub
 iSEEindex
@@ -1223,6 +1238,7 @@ mdp
 mdqc
 megadepth
 memes
+meshes
 meshr
 messina
 metaCCA
@@ -1321,6 +1337,7 @@ occugene
 odseq
 oligoClasses
 omada
+omicRexposome
 omicade4
 omicplotR
 omicsPrint
@@ -1434,6 +1451,7 @@ reconsi
 recount3
 regionalpcs
 regioneR
+regioneReloaded
 regsplice
 retrofit
 rexposome

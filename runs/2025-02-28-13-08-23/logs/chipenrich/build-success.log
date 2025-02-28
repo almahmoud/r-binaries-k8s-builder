@@ -1,0 +1,64 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'chipenrich'
+also installing the dependency ‘chipenrich.data’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/chipenrich.data_2.30.0.tar.gz'
+Content type 'application/x-gzip' length 111446032 bytes (106.3 MB)
+==================================================
+downloaded 106.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/chipenrich_2.30.0.tar.gz'
+Content type 'application/x-gzip' length 787015 bytes (768 KB)
+==================================================
+downloaded 768 KB
+
+* installing *source* package ‘chipenrich.data’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+Warning: objects ‘gene.enh.desc’, ‘gene.enh.desc’ are created by more than one data call
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘chipenrich.data’ as ‘chipenrich.data_2.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (chipenrich.data)
+* installing *source* package ‘chipenrich’ ...
+** package ‘chipenrich’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘chipenrich’ as ‘chipenrich_2.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (chipenrich)
+
+The downloaded source packages are in
+	‘/tmp/RtmpVBj2ad/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	3m56.256s
+user	2m31.071s
+sys	0m15.873s
