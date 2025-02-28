@@ -23,12 +23,14 @@ ASGSCA
 ASSET
 ASSIGN
 ASURAT
+ASpli
 ATACseqQC
 ATACseqTFEA
 AUCell
 AWFisher
 AffiXcan
 AffyRNADegradation
+AllelicImbalance
 AlphaBeta
 AlphaMissenseR
 AlpsNMR
@@ -46,6 +48,7 @@ AnnotationFilter
 AnnotationForge
 AnnotationHub
 AnnotationHubData
+ArrayExpress
 AssessORF
 BADER
 BAGS
@@ -59,6 +62,7 @@ BERT
 BEclear
 BG2
 BLMA
+BOBaFIT
 BPRMeth
 BRAIN
 BREW3R.r
@@ -121,6 +125,7 @@ BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
 CAEN
+CAFE
 CAMERA
 CARNIVAL
 CATALYST
@@ -297,6 +302,7 @@ EDASeq
 EDIRquery
 EGAD
 EGSEA
+ELMER
 EMDomics
 ERSSA
 EasyCellType
@@ -322,6 +328,7 @@ FEAST
 FELLA
 FGNet
 FISHalyseR
+FLAMES
 FRASER
 FRGEpistasis
 FamAgg
@@ -391,6 +398,7 @@ GeneNetworkBuilder
 GeneOverlap
 GeneRegionScan
 GeneSelectMMD
+GeneStructureTools
 GeneticsPed
 GenomAutomorphism
 GenomeInfoDb
@@ -400,6 +408,7 @@ GenomicDistributions
 GenomicFeatures
 GenomicFiles
 GenomicInteractionNodes
+GenomicInteractions
 GenomicPlot
 GenomicRanges
 GenomicScores
@@ -1571,6 +1580,7 @@ microbiomeExplorer
 microbiomeMarker
 midasHLA
 miloR
+mimager
 mina
 minet
 minfi

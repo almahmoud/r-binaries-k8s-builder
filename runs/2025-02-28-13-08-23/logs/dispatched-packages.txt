@@ -2169,3 +2169,9 @@ quantro
 recountmethylation
 shinyMethyl
 shinyepico
+CAGEfightR
+DrugVsDisease
+HiCDCPlus
+extraChIPs
+saseR
+spatzie

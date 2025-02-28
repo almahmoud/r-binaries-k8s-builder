@@ -1,0 +1,63 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'FLAMES'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/FLAMES_2.0.2.tar.gz'
+Content type 'application/x-gzip' length 4048102 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+* installing *source* package ‘FLAMES’ ...
+** package ‘FLAMES’ successfully unpacked and MD5 sums checked
+** using non-staged installation via StagedInstall field
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++17
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppFunctions.cpp -o RcppFunctions.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c classes/BamRecord.cpp -o classes/BamRecord.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c classes/GFFRecord.cpp -o classes/GFFRecord.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c classes/GeneAnnotationParser.cpp -o classes/GeneAnnotationParser.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c classes/Isoforms.cpp -o classes/Isoforms.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c classes/junctions.cpp -o classes/junctions.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c main-functions/find_isoform.cpp -o main-functions/find_isoform.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c main-functions/flexiplex.cpp -o main-functions/flexiplex.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c main-functions/get_transcript_seq.cpp -o main-functions/get_transcript_seq.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c main-functions/group_bam2isoform.cpp -o main-functions/group_bam2isoform.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c main-functions/pileup_readid.cpp -o main-functions/pileup_readid.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c tests/test-junctions.cpp -o tests/test-junctions.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c tests/test-parsing.cpp -o tests/test-parsing.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c utility/cigars.cpp -o utility/cigars.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c utility/edlib-1.2.7/edlib.cpp -o utility/edlib-1.2.7/edlib.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -pthread -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/testthat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c utility/bam.c -o utility/bam.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o FLAMES.so RcppExports.o RcppFunctions.o classes/BamRecord.o classes/GFFRecord.o classes/GeneAnnotationParser.o classes/Isoforms.o classes/junctions.o main-functions/find_isoform.o main-functions/flexiplex.o main-functions/get_transcript_seq.o main-functions/group_bam2isoform.o main-functions/pileup_readid.o tests/test-junctions.o tests/test-parsing.o utility/cigars.o utility/edlib-1.2.7/edlib.o utility/bam.o -pthread -lz /mnt/library/Rhtslib/usrlib/libhts.a -lcurl -lbz2 -llzma -lz -L/usr/local/lib/R/lib -lR
+if test -e "/usr/bin/strip" & test -e "/bin/uname" & [[ `uname` == "Linux" ]] ; then /usr/bin/strip --strip-debug FLAMES.so; fi
+installing to /mnt/library/FLAMES/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* creating tarball
+packaged installation of ‘FLAMES’ as ‘FLAMES_2.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FLAMES)
+
+The downloaded source packages are in
+	‘/tmp/RtmpVWzbve/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	3m9.117s
+user	1m38.465s
+sys	0m18.416s

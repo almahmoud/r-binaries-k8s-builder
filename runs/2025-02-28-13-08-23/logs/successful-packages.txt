@@ -2060,3 +2060,13 @@ Damsel
 DegCre
 IMAS
 minfi
+AllelicImbalance
+ArrayExpress
+ASpli
+BOBaFIT
+CAFE
+ELMER
+FLAMES
+GeneStructureTools
+GenomicInteractions
+mimager
