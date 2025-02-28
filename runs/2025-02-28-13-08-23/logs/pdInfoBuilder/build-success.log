@@ -1,0 +1,50 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'pdInfoBuilder'
+also installing the dependencies ‘affxparser’, ‘oligo’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/affxparser_1.78.0.tar.gz'
+Content type 'application/x-gzip' length 818689 bytes (799 KB)
+==================================================
+downloaded 799 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/oligo_1.70.0.tar.gz'
+Content type 'application/x-gzip' length 28426452 bytes (27.1 MB)
+==================================================
+downloaded 27.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/pdInfoBuilder_1.70.0.tar.gz'
+Content type 'application/x-gzip' length 358766 bytes (350 KB)
+==================================================
+downloaded 350 KB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-affxparser’
+ERROR: dependency ‘affxparser’ is not available for package ‘oligo’
+* removing ‘/mnt/library/oligo’
+ERROR: dependencies ‘affxparser’, ‘oligo’ are not available for package ‘pdInfoBuilder’
+* removing ‘/mnt/library/pdInfoBuilder’
+
+The downloaded source packages are in
+	‘/tmp/RtmpsU8gTw/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘affxparser’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘oligo’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘pdInfoBuilder’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	1m38.139s
+user	0m13.714s
+sys	0m5.502s

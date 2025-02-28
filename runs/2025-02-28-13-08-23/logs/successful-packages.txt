@@ -2135,3 +2135,14 @@ missMethyl
 netZooR
 PRONE
 Pviz
+GeneTonic
+pdInfoBuilder
+R3CPET
+RiboProfiling
+RNAmodR
+Rqc
+SCAN.UPC
+SMITE
+SPLINTER
+TVTB
+VanillaICE

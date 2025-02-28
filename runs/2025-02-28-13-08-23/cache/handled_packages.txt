@@ -405,6 +405,7 @@ GeneOverlap
 GeneRegionScan
 GeneSelectMMD
 GeneStructureTools
+GeneTonic
 GeneticsPed
 GenomAutomorphism
 GenomeInfoDb
@@ -742,6 +743,7 @@ QTLExperiment
 QUBIC
 Qtlizer
 QuaternaryProd
+R3CPET
 R453Plus1Toolbox
 R4RNA
 RAIDS
@@ -772,6 +774,7 @@ RLassoCox
 RMassBank
 RNASeqPower
 RNAdecay
+RNAmodR
 RNAsense
 RNAseqCovarImpute
 ROC
@@ -830,11 +833,13 @@ Rhisat2
 Rhtslib
 RiboCrypt
 RiboDiPA
+RiboProfiling
 Rmagpie
 Rmmquant
 RnBeads
 Rnits
 RolDE
+Rqc
 Rsamtools
 Rsubread
 Rtpca
@@ -848,6 +853,7 @@ SARC
 SBGNview
 SBMLR
 SC3
+SCAN.UPC
 SCANVIS
 SCArray
 SCArray.sat
@@ -868,6 +874,7 @@ SIMD
 SIMLR
 SLqPCR
 SMAD
+SMITE
 SNAGEE
 SNPRelate
 SNPediaR
@@ -876,6 +883,7 @@ SOMNiBUS
 SPEM
 SPIA
 SPIAT
+SPLINTER
 SPONGE
 SPOTlight
 SPsimSeq
@@ -968,6 +976,7 @@ TRONCO
 TSAR
 TSCAN
 TTMap
+TVTB
 TargetDecoy
 TargetScore
 TargetSearch
@@ -993,6 +1002,7 @@ VAExprs
 VDJdive
 VERSO
 VaSP
+VanillaICE
 VarCon
 VariantAnnotation
 VariantExperiment
@@ -1740,6 +1750,7 @@ pathlinkR
 pathview
 pathwayPCA
 pcaMethods
+pdInfoBuilder
 peakPantheR
 peco
 pengls

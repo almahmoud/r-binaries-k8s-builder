@@ -2203,3 +2203,8 @@ wateRmelon
 DMRcate
 MEAL
 methylGSA
+GeDi
+MinimumDistance
+RNAmodR.AlkAnilineSeq
+RNAmodR.ML
+RNAmodR.RiboMethSeq
