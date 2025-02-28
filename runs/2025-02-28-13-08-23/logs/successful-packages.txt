@@ -1897,3 +1897,6 @@ methylSig
 singleCellTK
 transcriptogramer
 tximeta
+coMethDMR
+diffUTR
+flagme

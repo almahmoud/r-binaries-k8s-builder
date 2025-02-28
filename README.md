@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1775 packages built successfully
+- 1778 packages built successfully
 - 3 packages failed to build
-- 331 packages not yet processed
+- 328 packages not yet processed
 
 ## Failed Builds (3)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
@@ -15,7 +15,7 @@
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
-## Successfully Built (1775)
+## Successfully Built (1778)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                     |
@@ -1793,8 +1793,11 @@
 | [singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/singleCellTK/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/singleCellTK)               |
 | [transcriptogramer](https://bioconductor.org/packages/3.20/bioc/html/transcriptogramer.html)                   | Built    | [Log](runs/2025-02-28-13-08-23/logs/transcriptogramer/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/transcriptogramer)          |
 | [tximeta](https://bioconductor.org/packages/3.20/bioc/html/tximeta.html)                                       | Built    | [Log](runs/2025-02-28-13-08-23/logs/tximeta/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tximeta)                    |
+| [coMethDMR](https://bioconductor.org/packages/3.20/bioc/html/coMethDMR.html)                                   | Built    | [Log](runs/2025-02-28-13-08-23/logs/coMethDMR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/coMethDMR)                  |
+| [diffUTR](https://bioconductor.org/packages/3.20/bioc/html/diffUTR.html)                                       | Built    | [Log](runs/2025-02-28-13-08-23/logs/diffUTR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/diffUTR)                    |
+| [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/flagme/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flagme)                     |
 
-## Not Yet Processed (331)
+## Not Yet Processed (328)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1971,7 +1974,6 @@
 | [circRNAprofiler](https://bioconductor.org/packages/3.20/bioc/html/circRNAprofiler.html)                         | Unprocessed |
 | [clusterExperiment](https://bioconductor.org/packages/3.20/bioc/html/clusterExperiment.html)                     | Unprocessed |
 | [cn.farms](https://bioconductor.org/packages/3.20/bioc/html/cn.farms.html)                                       | Unprocessed |
-| [coMethDMR](https://bioconductor.org/packages/3.20/bioc/html/coMethDMR.html)                                     | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                                           | Unprocessed |
 | [compEpiTools](https://bioconductor.org/packages/3.20/bioc/html/compEpiTools.html)                               | Unprocessed |
 | [consensusDE](https://bioconductor.org/packages/3.20/bioc/html/consensusDE.html)                                 | Unprocessed |
@@ -1992,7 +1994,6 @@
 | [demuxSNP](https://bioconductor.org/packages/3.20/bioc/html/demuxSNP.html)                                       | Unprocessed |
 | [derfinder](https://bioconductor.org/packages/3.20/bioc/html/derfinder.html)                                     | Unprocessed |
 | [derfinderPlot](https://bioconductor.org/packages/3.20/bioc/html/derfinderPlot.html)                             | Unprocessed |
-| [diffUTR](https://bioconductor.org/packages/3.20/bioc/html/diffUTR.html)                                         | Unprocessed |
 | [dmrseq](https://bioconductor.org/packages/3.20/bioc/html/dmrseq.html)                                           | Unprocessed |
 | [doubletrouble](https://bioconductor.org/packages/3.20/bioc/html/doubletrouble.html)                             | Unprocessed |
 | [dreamlet](https://bioconductor.org/packages/3.20/bioc/html/dreamlet.html)                                       | Unprocessed |
@@ -2006,7 +2007,6 @@
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                                   | Unprocessed |
 | [fcScan](https://bioconductor.org/packages/3.20/bioc/html/fcScan.html)                                           | Unprocessed |
 | [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                               | Unprocessed |
-| [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                                           | Unprocessed |
 | [frma](https://bioconductor.org/packages/3.20/bioc/html/frma.html)                                               | Unprocessed |
 | [funtooNorm](https://bioconductor.org/packages/3.20/bioc/html/funtooNorm.html)                                   | Unprocessed |
 | [gDNAx](https://bioconductor.org/packages/3.20/bioc/html/gDNAx.html)                                             | Unprocessed |

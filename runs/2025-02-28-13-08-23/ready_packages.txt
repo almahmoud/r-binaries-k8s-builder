@@ -1,4 +1,0 @@
-IsoformSwitchAnalyzeR
-epivizr
-epivizrChart
-methodical

@@ -1073,6 +1073,7 @@ cmapR
 cn.mops
 cnvGSA
 coGPS
+coMethDMR
 coRdon
 codelink
 cogena
@@ -1137,6 +1138,7 @@ derfinderHelper
 destiny
 diffGeneAnalysis
 diffHic
+diffUTR
 diffcoexp
 diffcyt
 diffuStats
@@ -1202,6 +1204,7 @@ fgga
 fgsea
 findIPs
 fishpond
+flagme
 flowAI
 flowBeads
 flowBin
