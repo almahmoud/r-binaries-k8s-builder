@@ -1,2 +1,1 @@
-MsQuality
-VaSP
+rTRMui

@@ -1521,3 +1521,14 @@ TEKRABber
 TMSig
 TOP
 trigger
+bnem
+cghMCR
+doppelgangR
+MethylSeekR
+MotifDb
+qsea
+spiky
+spoon
+TFutils
+traseR
+tRNAscanImport

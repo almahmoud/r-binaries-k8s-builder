@@ -1,0 +1,83 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'spiky'
+also installing the dependencies ‘distributions3’, ‘MBA’, ‘bamlss’, ‘BlandAltmanLeh’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/distributions3_0.2.2.tar.gz'
+Content type 'binary/octet-stream' length 1364215 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/MBA_0.1-2.tar.gz'
+Content type 'binary/octet-stream' length 176524 bytes (172 KB)
+==================================================
+downloaded 172 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bamlss_1.2-5.tar.gz'
+Content type 'binary/octet-stream' length 4265890 bytes (4.1 MB)
+==================================================
+downloaded 4.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/BlandAltmanLeh_0.3.1.tar.gz'
+Content type 'binary/octet-stream' length 405140 bytes (395 KB)
+==================================================
+downloaded 395 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/spiky_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 15007751 bytes (14.3 MB)
+==================================================
+downloaded 14.3 MB
+
+* installing *binary* package ‘distributions3’ ...
+* ‘distributions3’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘distributions3’ as ‘distributions3_0.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (distributions3)
+* installing *binary* package ‘MBA’ ...
+* ‘MBA’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘MBA’ as ‘MBA_0.1-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MBA)
+* installing *binary* package ‘BlandAltmanLeh’ ...
+* ‘BlandAltmanLeh’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘BlandAltmanLeh’ as ‘BlandAltmanLeh_0.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BlandAltmanLeh)
+* installing *binary* package ‘bamlss’ ...
+* ‘bamlss’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bamlss’ as ‘bamlss_1.2-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bamlss)
+* installing *source* package ‘spiky’ ...
+** package ‘spiky’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘spiky’ as ‘spiky_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spiky)
+
+The downloaded source packages are in
+	‘/tmp/RtmpEL2Wn5/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m12.472s
+user	0m43.015s
+sys	0m8.773s

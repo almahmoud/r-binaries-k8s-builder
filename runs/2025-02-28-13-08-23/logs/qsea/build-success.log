@@ -1,0 +1,79 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'qsea'
+also installing the dependency ‘MEDIPSData’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/MEDIPSData_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 166163937 bytes (158.5 MB)
+==================================================
+downloaded 158.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/qsea_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 881976 bytes (861 KB)
+==================================================
+downloaded 861 KB
+
+* installing *source* package ‘MEDIPSData’ ...
+** using staged installation
+** data
+** inst
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MEDIPSData’ as ‘MEDIPSData_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MEDIPSData)
+* installing *source* package ‘qsea’ ...
+** package ‘qsea’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c lm.c -o lm.o
+In file included from lm.c:30:
+lm.c: In function ‘Cdqrls’:
+lm.c:63:13: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘R_xlen_t’ {aka ‘long int’} [-Wformat=]
+   63 |     error(_("dimensions of 'x' (%d,%d) and 'y' (%d) do not match"),
+      |             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+lm.c:63:11: note: in expansion of macro ‘_’
+   63 |     error(_("dimensions of 'x' (%d,%d) and 'y' (%d) do not match"),
+      |           ^
+lm.c:63:50: note: format string is defined here
+   63 |     error(_("dimensions of 'x' (%d,%d) and 'y' (%d) do not match"),
+      |                                                 ~^
+      |                                                  |
+      |                                                  int
+      |                                                 %ld
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o qsea.so lm.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-qsea/00new/qsea/libs
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘qsea’ as ‘qsea_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qsea)
+
+The downloaded source packages are in
+	‘/tmp/RtmpPd2rG8/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m42.573s
+user	0m56.079s
+sys	0m9.277s

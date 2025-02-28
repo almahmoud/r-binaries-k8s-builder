@@ -435,6 +435,7 @@ MetaboCoreUtils
 MethPed
 MethTargetedNGS
 MethylMix
+MethylSeekR
 Mfuzz
 MiChip
 MiPP
@@ -442,6 +443,7 @@ MiRaGE
 MicrobiotaProcess
 ModCon
 Modstrings
+MotifDb
 MouseFM
 MsBackendMassbank
 MsBackendMetaboLights
@@ -693,6 +695,7 @@ TEKRABber
 TENxIO
 TEQC
 TFARM
+TFutils
 TIN
 TMSig
 TMixClust
@@ -812,6 +815,7 @@ biotmle
 blima
 bluster
 bnbc
+bnem
 breakpointR
 brendaDb
 bugsigdbr
@@ -831,6 +835,7 @@ cellscape
 cellxgenedp
 censcyt
 cfdnakit
+cghMCR
 chihaya
 chipseq
 chopsticks
@@ -908,6 +913,7 @@ dittoSeq
 divergence
 dks
 dominoSignal
+doppelgangR
 doseR
 drawProteins
 dupRadar
@@ -1283,6 +1289,7 @@ qckitfastq
 qcmetrics
 qmtools
 qpcrNorm
+qsea
 qsmooth
 qsvaR
 quantiseqr
@@ -1426,10 +1433,12 @@ spatialSimGP
 specL
 speckle
 spikeLI
+spiky
 spkTools
 splatter
 splineTimeR
 splots
+spoon
 spqn
 ssPATHS
 sscu
@@ -1460,6 +1469,7 @@ systemPipeR
 systemPipeShiny
 systemPipeTools
 tRNA
+tRNAscanImport
 tanggle
 target
 ternarynet
@@ -1482,6 +1492,7 @@ tracktables
 transformGamPoi
 transite
 transomics2cytoscape
+traseR
 treeclimbR
 treeio
 treekoR
