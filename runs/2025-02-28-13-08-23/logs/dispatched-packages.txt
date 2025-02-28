@@ -792,3 +792,7 @@ tidyFlowCore
 tidytof
 DelayedArray
 nempi
+MetaCyto
+flowDensity
+flowFP
+optimalFlow

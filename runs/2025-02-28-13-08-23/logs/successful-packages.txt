@@ -764,3 +764,17 @@ epiNEM
 Sconify
 simona
 SparseArray
+flowAI
+flowBeads
+flowCHIC
+flowClean
+flowMeans
+FlowSOM
+flowSpecs
+flowTime
+flowViz
+gDRstyle
+immunoClust
+infinityFlow
+MAPFX
+ncdfFlow

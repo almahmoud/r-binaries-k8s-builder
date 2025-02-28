@@ -1,0 +1,79 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'immunoClust'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/immunoClust_1.38.0.tar.gz'
+Content type 'application/x-gzip' length 2628533 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+* installing *source* package ‘immunoClust’ ...
+** package ‘immunoClust’ successfully unpacked and MD5 sums checked
+** using staged installation
+checking for pkg-config... /usr/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for GSL... yes
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c R_meta.cpp -o R_meta.o
+R_meta.cpp: In function ‘void _copyMixtureModel(SEXP, double*, double*, double*)’:
+R_meta.cpp:111:48: error: ‘install’ was not declared in this scope
+  111 |         int K = INTEGER(R_do_slot(res_cluster, install("K")))[0];
+      |                                                ^~~~~~~
+R_meta.cpp: In function ‘SEXPREC* _ME_ret(int, int, int)’:
+R_meta.cpp:126:39: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  126 |                 SEXP ret = Rf_protect(allocVector(VECSXP, 12));
+      |                                       ^~~~~~~~~~~
+      |                                       Rf_allocVector
+R_meta.cpp:129:42: error: ‘mkChar’ was not declared in this scope
+  129 |                 SET_STRING_ELT(names, 0, mkChar("L"));
+      |                                          ^~~~~~
+R_meta.cpp:156:9: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+  156 |         setAttrib(ret, R_NamesSymbol, names);
+      |         ^~~~~~~~~
+      |         Rf_setAttrib
+R_meta.cpp: In function ‘SEXPREC* call_SON_combineClustering(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+R_meta.cpp:273:46: error: ‘install’ was not declared in this scope
+  273 |         int G = INTEGER(R_do_slot(res_model, install("K")))[0];
+      |                                              ^~~~~~~
+R_meta.cpp: In function ‘SEXPREC* call_SON_normalize(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+R_meta.cpp:465:49: error: ‘install’ was not declared in this scope
+  465 |         int P = INTEGER(Rf_getAttrib(res_model, install("P")))[0];
+      |                                                 ^~~~~~~
+R_meta.cpp:485:31: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  485 |         SEXP ret = Rf_protect(allocVector(REALSXP, totK*P));
+      |                               ^~~~~~~~~~~
+      |                               Rf_allocVector
+R_meta.cpp: In function ‘SEXPREC* call_mvnDist(SEXP, SEXP, SEXP, SEXP, SEXP)’:
+R_meta.cpp:587:31: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  587 |         SEXP ret = Rf_protect(allocVector(VECSXP, k*(k-1)/2));
+      |                               ^~~~~~~~~~~
+      |                               Rf_allocVector
+R_meta.cpp:593:26: error: ‘install’ was not declared in this scope
+  593 |         Rf_setAttrib(ret,install("Size"), Rf_duplicate(K));
+      |                          ^~~~~~~
+make: *** [/usr/local/lib/R/etc/Makeconf:204: R_meta.o] Error 1
+ERROR: compilation failed for package ‘immunoClust’
+* removing ‘/mnt/library/immunoClust’
+
+The downloaded source packages are in
+	‘/tmp/RtmpTDXuWl/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘immunoClust’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m53.306s
+user	0m7.483s
+sys	0m2.647s
