@@ -105,6 +105,7 @@ BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
 CAEN
+CAMERA
 CARNIVAL
 CBEA
 CBNplot
@@ -320,6 +321,7 @@ GSALightning
 GSAR
 GSCA
 GSEABase
+GSEABenchmarkeR
 GSEAlm
 GSEAmining
 GSRI
@@ -781,6 +783,7 @@ SingleCellExperiment
 SingleR
 SpaNorm
 SpaceMarkers
+Spaniel
 SparseArray
 SparseSignatures
 SpatialCPie
@@ -922,6 +925,7 @@ awst
 bacon
 ballgown
 bamsignals
+bandle
 banocc
 barcodetrackR
 basecallQC
@@ -995,6 +999,7 @@ chromstaR
 cisPath
 cleaver
 clevRvis
+cliProfiler
 clippda
 clipper
 clst
@@ -1030,6 +1035,7 @@ covRNA
 cqn
 crisprBase
 crisprBowtie
+crisprBwa
 csaw
 csdR
 ctc
@@ -1605,6 +1611,7 @@ satuRn
 scAnnotatR
 scBFA
 scBubbletree
+scCB2
 scClassify
 scDD
 scDDboost
@@ -1725,6 +1732,7 @@ swfdr
 switchBox
 switchde
 synapsis
+synapter
 synergyfinder
 synlet
 syntenet
@@ -1732,6 +1740,7 @@ systemPipeR
 systemPipeShiny
 systemPipeTools
 tRNA
+tRNAdbImport
 tRNAscanImport
 tanggle
 target
@@ -1752,6 +1761,7 @@ tomoda
 tomoseqr
 topGO
 topconfects
+topdownr
 tracktables
 tradeSeq
 transformGamPoi

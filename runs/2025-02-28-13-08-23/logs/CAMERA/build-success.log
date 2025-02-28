@@ -1,0 +1,81 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'CAMERA'
+also installing the dependencies ‘xcms’, ‘faahKO’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/xcms_4.4.0.tar.gz'
+Content type 'application/x-gzip' length 9904107 bytes (9.4 MB)
+==================================================
+downloaded 9.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/faahKO_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 16808447 bytes (16.0 MB)
+==================================================
+downloaded 16.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/CAMERA_1.62.0.tar.gz'
+Content type 'application/x-gzip' length 2557604 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+* installing *source* package ‘xcms’ ...
+** package ‘xcms’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+rm -f massifquant/xcms_massifquant.o massifquant/TrMgr.o massifquant/Tracker.o massifquant/SegProc.o massifquant/DataKeeper.o massifquant/OpOverload.o obiwarp/mat.o obiwarp/vec.o obiwarp/xcms_dynprog.o obiwarp/xcms_lmat.o xcms_obiwarp.o fastMatch.o mzClust_hclust.o mzROI.o util.o xcms.o binners.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c massifquant/xcms_massifquant.cpp -o massifquant/xcms_massifquant.o
+massifquant/xcms_massifquant.cpp: In function ‘SEXPREC* massifquant(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+massifquant/xcms_massifquant.cpp:62:9: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+   62 |         error("Error in scanrange \n");
+      |         ^~~~~
+      |         perror
+In file included from /usr/local/lib/R/include/Rdefines.h:41,
+                 from massifquant/DataKeeper.h:20,
+                 from massifquant/TrMgr.h:9,
+                 from massifquant/xcms_massifquant.cpp:15:
+massifquant/xcms_massifquant.cpp:115:26: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  115 |     PROTECT(list_names = allocVector(STRSXP, N_NAMES));
+      |                          ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+massifquant/xcms_massifquant.cpp:117:40: error: ‘mkChar’ was not declared in this scope
+  117 |         SET_STRING_ELT(list_names, j,  mkChar(names[j]));
+      |                                        ^~~~~~
+massifquant/xcms_massifquant.cpp:156:9: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+  156 |         setAttrib(entrylist, R_NamesSymbol, list_names); //attaching the vector names
+      |         ^~~~~~~~~
+      |         Rf_setAttrib
+make: *** [/usr/local/lib/R/etc/Makeconf:204: massifquant/xcms_massifquant.o] Error 1
+ERROR: compilation failed for package ‘xcms’
+* removing ‘/mnt/library/xcms’
+ERROR: dependency ‘xcms’ is not available for package ‘faahKO’
+* removing ‘/mnt/library/faahKO’
+ERROR: dependency ‘xcms’ is not available for package ‘CAMERA’
+* removing ‘/mnt/library/CAMERA’
+
+The downloaded source packages are in
+	‘/tmp/RtmphusQWi/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘xcms’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘faahKO’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘CAMERA’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m45.770s
+user	0m16.536s
+sys	0m4.851s

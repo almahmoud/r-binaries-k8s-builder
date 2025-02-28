@@ -1801,3 +1801,13 @@ plyranges
 profileplyr
 txdbmaker
 zenith
+bandle
+CAMERA
+cliProfiler
+crisprBwa
+GSEABenchmarkeR
+scCB2
+Spaniel
+synapter
+topdownr
+tRNAdbImport

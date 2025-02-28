@@ -1,0 +1,403 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'bandle'
+also installing the dependency ‘lbfgs’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lbfgs_1.2.1.2.tar.gz'
+Content type 'binary/octet-stream' length 2244793 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/bandle_1.10.0.tar.gz'
+Content type 'application/x-gzip' length 1742202 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+* installing *binary* package ‘lbfgs’ ...
+* ‘lbfgs’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lbfgs’ as ‘lbfgs_1.2.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lbfgs)
+* installing *source* package ‘bandle’ ...
+** package ‘bandle’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I'/mnt/library/BH/include' -I/usr/local/include   -fopenmp  -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c Bessel2ndKind.cpp -o Bessel2ndKind.o
+In file included from /mnt/library/BH/include/boost/math/special_functions/bessel.hpp:18,
+                 from Bessel2ndKind.cpp:3:
+/mnt/library/BH/include/boost/math/tools/config.hpp:28:6: warning: #warning "Boost.Math requires C++14" [-Wcpp]
+   28 | #    warning "Boost.Math requires C++14"
+      |      ^~~~~~~
+In file included from /mnt/library/BH/include/boost/math/tools/rational.hpp:15,
+                 from /mnt/library/BH/include/boost/math/special_functions/bessel.hpp:19:
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:208:12: error: ‘is_final’ has not been declared in ‘std’
+  208 | using std::is_final;
+      |            ^~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:259:12: error: ‘remove_cv_t’ has not been declared in ‘std’
+  259 | using std::remove_cv_t;
+      |            ^~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:261:12: error: ‘remove_const_t’ has not been declared in ‘std’
+  261 | using std::remove_const_t;
+      |            ^~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:263:12: error: ‘remove_volatile_t’ has not been declared in ‘std’
+  263 | using std::remove_volatile_t;
+      |            ^~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:265:12: error: ‘add_cv_t’ has not been declared in ‘std’
+  265 | using std::add_cv_t;
+      |            ^~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:267:12: error: ‘add_const_t’ has not been declared in ‘std’
+  267 | using std::add_const_t;
+      |            ^~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:269:12: error: ‘add_volatile_t’ has not been declared in ‘std’
+  269 | using std::add_volatile_t;
+      |            ^~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:273:12: error: ‘remove_reference_t’ has not been declared in ‘std’
+  273 | using std::remove_reference_t;
+      |            ^~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:275:12: error: ‘add_lvalue_reference_t’ has not been declared in ‘std’
+  275 | using std::add_lvalue_reference_t;
+      |            ^~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:277:12: error: ‘add_rvalue_reference_t’ has not been declared in ‘std’
+  277 | using std::add_rvalue_reference_t;
+      |            ^~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:281:12: error: ‘remove_pointer_t’ has not been declared in ‘std’
+  281 | using std::remove_pointer_t;
+      |            ^~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:283:12: error: ‘add_pointer_t’ has not been declared in ‘std’
+  283 | using std::add_pointer_t;
+      |            ^~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:287:12: error: ‘make_signed_t’ has not been declared in ‘std’
+  287 | using std::make_signed_t;
+      |            ^~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:289:12: error: ‘make_unsigned_t’ has not been declared in ‘std’
+  289 | using std::make_unsigned_t;
+      |            ^~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:293:12: error: ‘remove_extent_t’ has not been declared in ‘std’
+  293 | using std::remove_extent_t;
+      |            ^~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:295:12: error: ‘remove_all_extents_t’ has not been declared in ‘std’
+  295 | using std::remove_all_extents_t;
+      |            ^~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:299:12: error: ‘decay_t’ has not been declared in ‘std’
+  299 | using std::decay_t;
+      |            ^~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:301:12: error: ‘enable_if_t’ has not been declared in ‘std’
+  301 | using std::enable_if_t;
+      |            ^~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:303:12: error: ‘conditional_t’ has not been declared in ‘std’
+  303 | using std::conditional_t;
+      |            ^~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:305:12: error: ‘common_type_t’ has not been declared in ‘std’
+  305 | using std::common_type_t;
+      |            ^~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:307:12: error: ‘underlying_type_t’ has not been declared in ‘std’
+  307 | using std::underlying_type_t;
+      |            ^~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:315:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  315 | BOOST_MATH_INLINE_CONSTEXPR bool is_void_v = boost::math::is_void<T>::value;
+      |                                  ^~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:318:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  318 | BOOST_MATH_INLINE_CONSTEXPR bool is_null_pointer_v = boost::math::is_null_pointer<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:321:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  321 | BOOST_MATH_INLINE_CONSTEXPR bool is_integral_v = boost::math::is_integral<T>::value;
+      |                                  ^~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:324:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  324 | BOOST_MATH_INLINE_CONSTEXPR bool is_floating_point_v = boost::math::is_floating_point<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:327:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  327 | BOOST_MATH_INLINE_CONSTEXPR bool is_array_v = boost::math::is_array<T>::value;
+      |                                  ^~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:330:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  330 | BOOST_MATH_INLINE_CONSTEXPR bool is_enum_v = boost::math::is_enum<T>::value;
+      |                                  ^~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:333:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  333 | BOOST_MATH_INLINE_CONSTEXPR bool is_union_v = boost::math::is_union<T>::value;
+      |                                  ^~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:336:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  336 | BOOST_MATH_INLINE_CONSTEXPR bool is_class_v = boost::math::is_class<T>::value;
+      |                                  ^~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:339:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  339 | BOOST_MATH_INLINE_CONSTEXPR bool is_function_v = boost::math::is_function<T>::value;
+      |                                  ^~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:342:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  342 | BOOST_MATH_INLINE_CONSTEXPR bool is_pointer_v = boost::math::is_pointer<T>::value;
+      |                                  ^~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:345:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  345 | BOOST_MATH_INLINE_CONSTEXPR bool is_lvalue_reference_v = boost::math::is_lvalue_reference<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:348:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  348 | BOOST_MATH_INLINE_CONSTEXPR bool is_rvalue_reference_v = boost::math::is_rvalue_reference<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:351:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  351 | BOOST_MATH_INLINE_CONSTEXPR bool is_member_object_pointer_v = boost::math::is_member_object_pointer<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:354:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  354 | BOOST_MATH_INLINE_CONSTEXPR bool is_member_function_pointer_v = boost::math::is_member_function_pointer<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:357:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  357 | BOOST_MATH_INLINE_CONSTEXPR bool is_fundamental_v = boost::math::is_fundamental<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:360:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  360 | BOOST_MATH_INLINE_CONSTEXPR bool is_arithmetic_v = boost::math::is_arithmetic<T>::value;
+      |                                  ^~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:363:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  363 | BOOST_MATH_INLINE_CONSTEXPR bool is_scalar_v = boost::math::is_scalar<T>::value;
+      |                                  ^~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:366:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  366 | BOOST_MATH_INLINE_CONSTEXPR bool is_object_v = boost::math::is_object<T>::value;
+      |                                  ^~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:369:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  369 | BOOST_MATH_INLINE_CONSTEXPR bool is_compound_v = boost::math::is_compound<T>::value;
+      |                                  ^~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:372:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  372 | BOOST_MATH_INLINE_CONSTEXPR bool is_reference_v = boost::math::is_reference<T>::value;
+      |                                  ^~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:375:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  375 | BOOST_MATH_INLINE_CONSTEXPR bool is_member_pointer_v = boost::math::is_member_pointer<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:378:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  378 | BOOST_MATH_INLINE_CONSTEXPR bool is_const_v = boost::math::is_const<T>::value;
+      |                                  ^~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:381:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  381 | BOOST_MATH_INLINE_CONSTEXPR bool is_volatile_v = boost::math::is_volatile<T>::value;
+      |                                  ^~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:384:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  384 | BOOST_MATH_INLINE_CONSTEXPR bool is_trivial_v = boost::math::is_trivial<T>::value;
+      |                                  ^~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:387:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  387 | BOOST_MATH_INLINE_CONSTEXPR bool is_trivially_copyable_v = boost::math::is_trivially_copyable<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:390:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  390 | BOOST_MATH_INLINE_CONSTEXPR bool is_standard_layout_v = boost::math::is_standard_layout<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:393:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  393 | BOOST_MATH_INLINE_CONSTEXPR bool is_empty_v = boost::math::is_empty<T>::value;
+      |                                  ^~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:396:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  396 | BOOST_MATH_INLINE_CONSTEXPR bool is_polymorphic_v = boost::math::is_polymorphic<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:399:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  399 | BOOST_MATH_INLINE_CONSTEXPR bool is_abstract_v = boost::math::is_abstract<T>::value;
+      |                                  ^~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:402:60: error: ‘is_final’ is not a member of ‘boost::math’; did you mean ‘is_final_v’?
+  402 | BOOST_MATH_INLINE_CONSTEXPR bool is_final_v = boost::math::is_final<T>::value;
+      |                                                            ^~~~~~~~
+      |                                                            is_final_v
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:402:70: error: expected primary-expression before ‘>’ token
+  402 | BOOST_MATH_INLINE_CONSTEXPR bool is_final_v = boost::math::is_final<T>::value;
+      |                                                                      ^
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:402:73: error: ‘::value’ has not been declared; did you mean ‘arma::fill::value’?
+  402 | BOOST_MATH_INLINE_CONSTEXPR bool is_final_v = boost::math::is_final<T>::value;
+      |                                                                         ^~~~~
+      |                                                                         arma::fill::value
+In file included from /mnt/library/RcppArmadillo/include/armadillo:142,
+                 from /mnt/library/RcppArmadillo/include/RcppArmadillo/interface/RcppArmadilloForward.h:58,
+                 from /mnt/library/RcppArmadillo/include/RcppArmadillo.h:29,
+                 from Bessel2ndKind.cpp:2:
+/mnt/library/RcppArmadillo/include/armadillo_bits/fill.hpp:109:3: note: ‘arma::fill::value’ declared here
+  109 |   value(const scalar_type& in_scalar)
+      |   ^~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:402:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  402 | BOOST_MATH_INLINE_CONSTEXPR bool is_final_v = boost::math::is_final<T>::value;
+      |                                  ^~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:405:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  405 | BOOST_MATH_INLINE_CONSTEXPR bool is_signed_v = boost::math::is_signed<T>::value;
+      |                                  ^~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:408:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  408 | BOOST_MATH_INLINE_CONSTEXPR bool is_unsigned_v = boost::math::is_unsigned<T>::value;
+      |                                  ^~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:411:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  411 | BOOST_MATH_INLINE_CONSTEXPR bool is_constructible_v = boost::math::is_constructible<T, Args...>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:414:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  414 | BOOST_MATH_INLINE_CONSTEXPR bool is_trivially_constructible_v = boost::math::is_trivially_constructible<T, Args...>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:417:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  417 | BOOST_MATH_INLINE_CONSTEXPR bool is_nothrow_constructible_v = boost::math::is_nothrow_constructible<T, Args...>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:420:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  420 | BOOST_MATH_INLINE_CONSTEXPR bool is_default_constructible_v = boost::math::is_default_constructible<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:423:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  423 | BOOST_MATH_INLINE_CONSTEXPR bool is_trivially_default_constructible_v = boost::math::is_trivially_default_constructible<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:426:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  426 | BOOST_MATH_INLINE_CONSTEXPR bool is_nothrow_default_constructible_v = boost::math::is_nothrow_default_constructible<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:429:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  429 | BOOST_MATH_INLINE_CONSTEXPR bool is_copy_constructible_v = boost::math::is_copy_constructible<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:432:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  432 | BOOST_MATH_INLINE_CONSTEXPR bool is_trivially_copy_constructible_v = boost::math::is_trivially_copy_constructible<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:435:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  435 | BOOST_MATH_INLINE_CONSTEXPR bool is_nothrow_copy_constructible_v = boost::math::is_nothrow_copy_constructible<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:438:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  438 | BOOST_MATH_INLINE_CONSTEXPR bool is_move_constructible_v = boost::math::is_move_constructible<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:441:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  441 | BOOST_MATH_INLINE_CONSTEXPR bool is_trivially_move_constructible_v = boost::math::is_trivially_move_constructible<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:444:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  444 | BOOST_MATH_INLINE_CONSTEXPR bool is_nothrow_move_constructible_v = boost::math::is_nothrow_move_constructible<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:447:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  447 | BOOST_MATH_INLINE_CONSTEXPR bool is_assignable_v = boost::math::is_assignable<T, U>::value;
+      |                                  ^~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:450:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  450 | BOOST_MATH_INLINE_CONSTEXPR bool is_trivially_assignable_v = boost::math::is_trivially_assignable<T, U>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:453:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  453 | BOOST_MATH_INLINE_CONSTEXPR bool is_nothrow_assignable_v = boost::math::is_nothrow_assignable<T, U>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:456:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  456 | BOOST_MATH_INLINE_CONSTEXPR bool is_copy_assignable_v = boost::math::is_copy_assignable<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:459:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  459 | BOOST_MATH_INLINE_CONSTEXPR bool is_trivially_copy_assignable_v = boost::math::is_trivially_copy_assignable<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:462:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  462 | BOOST_MATH_INLINE_CONSTEXPR bool is_nothrow_copy_assignable_v = boost::math::is_nothrow_copy_assignable<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:465:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  465 | BOOST_MATH_INLINE_CONSTEXPR bool is_move_assignable_v = boost::math::is_move_assignable<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:468:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  468 | BOOST_MATH_INLINE_CONSTEXPR bool is_trivially_move_assignable_v = boost::math::is_trivially_move_assignable<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:471:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  471 | BOOST_MATH_INLINE_CONSTEXPR bool is_nothrow_move_assignable_v = boost::math::is_nothrow_move_assignable<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:474:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  474 | BOOST_MATH_INLINE_CONSTEXPR bool is_destructible_v = boost::math::is_destructible<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:477:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  477 | BOOST_MATH_INLINE_CONSTEXPR bool is_trivially_destructible_v = boost::math::is_trivially_destructible<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:480:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  480 | BOOST_MATH_INLINE_CONSTEXPR bool is_nothrow_destructible_v = boost::math::is_nothrow_destructible<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:483:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  483 | BOOST_MATH_INLINE_CONSTEXPR bool has_virtual_destructor_v = boost::math::has_virtual_destructor<T>::value;
+      |                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:486:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  486 | BOOST_MATH_INLINE_CONSTEXPR bool is_same_v = boost::math::is_same<T, U>::value;
+      |                                  ^~~~~~~~~
+/mnt/library/BH/include/boost/math/tools/type_traits.hpp:489:34: warning: variable templates only available with ‘-std=c++14’ or ‘-std=gnu++14’ [-Wc++14-extensions]
+  489 | BOOST_MATH_INLINE_CONSTEXPR bool is_base_of_v = boost::math::is_base_of<T, U>::value;
+      |                                  ^~~~~~~~~~~~
+In file included from /mnt/library/BH/include/boost/math/special_functions/bessel.hpp:20:
+/mnt/library/BH/include/boost/math/tools/promotion.hpp:90:36: error: ‘common_type_t’ in namespace ‘boost::math’ does not name a template type; did you mean ‘common_type’?
+   90 |          using type = boost::math::common_type_t<T1, T2, float>;
+      |                                    ^~~~~~~~~~~~~
+      |                                    common_type
+In file included from /mnt/library/BH/include/boost/math/special_functions/next.hpp:22,
+                 from /mnt/library/BH/include/boost/math/tools/roots.hpp:25,
+                 from /mnt/library/BH/include/boost/math/special_functions/bessel.hpp:22:
+/mnt/library/BH/include/boost/math/special_functions/trunc.hpp:324:44: error: ‘enable_if_t’ in namespace ‘boost::math’ does not name a template type; did you mean ‘enable_if’?
+  324 | BOOST_MATH_GPU_ENABLED inline boost::math::enable_if_t<boost::math::is_constructible_v<int, T>, int>
+      |                                            ^~~~~~~~~~~
+      |                                            enable_if
+/mnt/library/BH/include/boost/math/special_functions/trunc.hpp:331:44: error: ‘enable_if_t’ in namespace ‘boost::math’ does not name a template type; did you mean ‘enable_if’?
+  331 | BOOST_MATH_GPU_ENABLED inline boost::math::enable_if_t<!boost::math::is_constructible_v<int, T>, int>
+      |                                            ^~~~~~~~~~~
+      |                                            enable_if
+/mnt/library/BH/include/boost/math/special_functions/trunc.hpp:339:44: error: ‘enable_if_t’ in namespace ‘boost::math’ does not name a template type; did you mean ‘enable_if’?
+  339 | BOOST_MATH_GPU_ENABLED inline boost::math::enable_if_t<boost::math::is_constructible_v<long, T>, long>
+      |                                            ^~~~~~~~~~~
+      |                                            enable_if
+/mnt/library/BH/include/boost/math/special_functions/trunc.hpp:346:44: error: ‘enable_if_t’ in namespace ‘boost::math’ does not name a template type; did you mean ‘enable_if’?
+  346 | BOOST_MATH_GPU_ENABLED inline boost::math::enable_if_t<!boost::math::is_constructible_v<long, T>, long>
+      |                                            ^~~~~~~~~~~
+      |                                            enable_if
+/mnt/library/BH/include/boost/math/special_functions/trunc.hpp:354:44: error: ‘enable_if_t’ in namespace ‘boost::math’ does not name a template type; did you mean ‘enable_if’?
+  354 | BOOST_MATH_GPU_ENABLED inline boost::math::enable_if_t<boost::math::is_constructible_v<long long, T>, long long>
+      |                                            ^~~~~~~~~~~
+      |                                            enable_if
+/mnt/library/BH/include/boost/math/special_functions/trunc.hpp:361:53: error: ‘enable_if_t’ in namespace ‘boost::math’ does not name a template type; did you mean ‘enable_if’?
+  361 | BOOST_MATH_GPU_ENABLED inline typename boost::math::enable_if_t<!boost::math::is_constructible_v<long long, T>, long long>
+      |                                                     ^~~~~~~~~~~
+      |                                                     enable_if
+/mnt/library/BH/include/boost/math/special_functions/trunc.hpp:361:64: error: expected unqualified-id before ‘<’ token
+  361 | BOOST_MATH_GPU_ENABLED inline typename boost::math::enable_if_t<!boost::math::is_constructible_v<long long, T>, long long>
+      |                                                                ^
+/mnt/library/BH/include/boost/math/special_functions/trunc.hpp:369:76: error: ‘enable_if_t’ in namespace ‘boost::math’ does not name a template type; did you mean ‘enable_if’?
+  369 | BOOST_MATH_GPU_ENABLED [[deprecated("Use llconvert")]] inline boost::math::enable_if_t<boost::math::is_constructible_v<long long, T>, long long>
+      |                                                                            ^~~~~~~~~~~
+      |                                                                            enable_if
+/mnt/library/BH/include/boost/math/special_functions/trunc.hpp:376:85: error: ‘enable_if_t’ in namespace ‘boost::math’ does not name a template type; did you mean ‘enable_if’?
+  376 | BOOST_MATH_GPU_ENABLED [[deprecated("Use llconvert")]] inline typename boost::math::enable_if_t<!boost::math::is_constructible_v<long long, T>, long long>
+      |                                                                                     ^~~~~~~~~~~
+      |                                                                                     enable_if
+/mnt/library/BH/include/boost/math/special_functions/trunc.hpp:376:96: error: expected unqualified-id before ‘<’ token
+  376 | BOOST_MATH_GPU_ENABLED [[deprecated("Use llconvert")]] inline typename boost::math::enable_if_t<!boost::math::is_constructible_v<long long, T>, long long>
+      |                                                                                                ^
+In file included from /mnt/library/BH/include/boost/math/special_functions/detail/polygamma.hpp:24,
+                 from /mnt/library/BH/include/boost/math/special_functions/polygamma.hpp:15,
+                 from /mnt/library/BH/include/boost/math/special_functions/gamma.hpp:42,
+                 from /mnt/library/BH/include/boost/math/special_functions/detail/bessel_jy.hpp:16,
+                 from /mnt/library/BH/include/boost/math/special_functions/bessel.hpp:26:
+/mnt/library/BH/include/boost/math/special_functions/pow.hpp:126:79: error: redeclaration ‘constexpr typename boost::math::tools::promote_args<T2>::type boost::math::pow(T, const Policy&)’ differs in ‘constexpr’ from previous declaration
+  126 | BOOST_MATH_GPU_ENABLED constexpr inline typename tools::promote_args<T>::type pow(T base, const Policy& policy)
+      |                                                                               ^~~
+In file included from /mnt/library/BH/include/boost/math/special_functions/sign.hpp:20,
+                 from /mnt/library/BH/include/boost/math/tools/roots.hpp:20:
+/mnt/library/BH/include/boost/math/special_functions/math_fwd.hpp:1173:79: note: previous declaration ‘boost::math::tools::promote_args_t<T> boost::math::pow(T, const Policy&)’
+ 1173 |    BOOST_MATH_GPU_ENABLED BOOST_MATH_CXX14_CONSTEXPR tools::promote_args_t<T> pow(T base, const Policy& policy);
+      |                                                                               ^~~
+/mnt/library/BH/include/boost/math/special_functions/pow.hpp:133:79: error: redeclaration ‘constexpr typename boost::math::tools::promote_args<T2>::type boost::math::pow(T)’ differs in ‘constexpr’ from previous declaration
+  133 | BOOST_MATH_GPU_ENABLED constexpr inline typename tools::promote_args<T>::type pow(T base)
+      |                                                                               ^~~
+/mnt/library/BH/include/boost/math/special_functions/math_fwd.hpp:1176:79: note: previous declaration ‘boost::math::tools::promote_args_t<T> boost::math::pow(T)’
+ 1176 |    BOOST_MATH_GPU_ENABLED BOOST_MATH_CXX14_CONSTEXPR tools::promote_args_t<T> pow(T base);
+      |                                                                               ^~~
+/mnt/library/BH/include/boost/math/tools/promotion.hpp: In instantiation of ‘struct boost::math::tools::promote_args_permissive<double, double>’:
+/mnt/library/BH/include/boost/math/tools/promotion.hpp:119:16:   required from ‘struct boost::math::tools::promote_args<double, double>’
+/mnt/library/BH/include/boost/math/special_functions/math_fwd.hpp:728:16:   required from ‘struct boost::math::detail::bessel_traits<double, double, boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy> >’
+/mnt/library/BH/include/boost/math/special_functions/bessel.hpp:616:104:   required by substitution of ‘template<class T1, class T2> typename boost::math::detail::bessel_traits<T1, T2, boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy> >::result_type boost::math::cyl_bessel_k(T1, T2) [with T1 = double; T2 = double]’
+Bessel2ndKind.cpp:16:37:   required from here
+/mnt/library/BH/include/boost/math/tools/promotion.hpp:105:16: error: no type named ‘type’ in ‘struct boost::math::tools::pa2_integral_already_removed<double, double, true>’
+  105 |          using type = typename pa2_integral_already_removed<
+      |                ^~~~
+Bessel2ndKind.cpp: In function ‘double besselK_boost(double, double)’:
+Bessel2ndKind.cpp:16:37: error: no matching function for call to ‘cyl_bessel_k(double&, double&)’
+   16 |     return boost::math::cyl_bessel_k(v, x);
+      |            ~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~
+/mnt/library/BH/include/boost/math/special_functions/bessel.hpp:600:91: note: candidate: ‘template<class T1, class T2, class Policy> typename boost::math::detail::bessel_traits<T1, T2, Policy>::result_type boost::math::cyl_bessel_k(T1, T2, const Policy&)’
+  600 | BOOST_MATH_GPU_ENABLED inline typename detail::bessel_traits<T1, T2, Policy>::result_type cyl_bessel_k(T1 v, T2 x, const Policy& /* pol */)
+      |                                                                                           ^~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/special_functions/bessel.hpp:600:91: note:   template argument deduction/substitution failed:
+Bessel2ndKind.cpp:16:37: note:   candidate expects 3 arguments, 2 provided
+   16 |     return boost::math::cyl_bessel_k(v, x);
+      |            ~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~
+/mnt/library/BH/include/boost/math/special_functions/bessel.hpp:616:104: note: candidate: ‘template<class T1, class T2> typename boost::math::detail::bessel_traits<T1, T2, boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy> >::result_type boost::math::cyl_bessel_k(T1, T2)’
+  616 | BOOST_MATH_GPU_ENABLED inline typename detail::bessel_traits<T1, T2, policies::policy<> >::result_type cyl_bessel_k(T1 v, T2 x)
+      |                                                                                                        ^~~~~~~~~~~~
+/mnt/library/BH/include/boost/math/special_functions/bessel.hpp:616:104: note:   substitution of deduced template arguments resulted in errors seen above
+make: *** [/usr/local/lib/R/etc/Makeconf:204: Bessel2ndKind.o] Error 1
+ERROR: compilation failed for package ‘bandle’
+* removing ‘/mnt/library/bandle’
+
+The downloaded source packages are in
+	‘/tmp/Rtmp4H0XUP/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘bandle’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m52.792s
+user	0m19.130s
+sys	0m4.901s
