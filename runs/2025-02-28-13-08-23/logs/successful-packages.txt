@@ -1936,3 +1936,13 @@ gwascat
 HelloRanges
 scanMiRApp
 scFeatures
+cBioPortalData
+demuxSNP
+fcScan
+gwasurvivr
+icetea
+katdetectr
+lineagespot
+myvariant
+seqCAT
+tpSVG

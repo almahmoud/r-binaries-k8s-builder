@@ -1041,6 +1041,7 @@ broadSeq
 bsseq
 bugsigdbr
 bumphunter
+cBioPortalData
 cTRAP
 calm
 cancerclass
@@ -1153,6 +1154,7 @@ decoupleR
 deepSNV
 deltaCaptureC
 deltaGseg
+demuxSNP
 demuxmix
 densvis
 derfinderHelper
@@ -1222,6 +1224,7 @@ famat
 fastLiquidAssociation
 fastreeR
 fastseg
+fcScan
 fdrame
 fedup
 fenr
@@ -1330,6 +1333,7 @@ gscreend
 gsean
 gtrellis
 gwascat
+gwasurvivr
 gypsum
 h5vc
 hapFabia
@@ -1371,6 +1375,7 @@ iSEEu
 iSeq
 iasva
 ibh
+icetea
 idiogram
 idpr
 idr2d
@@ -1393,6 +1398,7 @@ isomiRs
 iterativeBMA
 iterativeBMAsurv
 ivygapSE
+katdetectr
 kebabs
 keggorthology
 kissDE
@@ -1408,6 +1414,7 @@ lfa
 limma
 limmaGUI
 limpca
+lineagespot
 lionessR
 lisaClust
 lmdme
@@ -1527,6 +1534,7 @@ mumosa
 muscat
 muscle
 mygene
+myvariant
 mzID
 mzR
 ncRNAtools
@@ -1775,6 +1783,7 @@ semisup
 seq.hotSPOT
 seq2pathway
 seqArchR
+seqCAT
 seqLogo
 seqPattern
 seqTools
@@ -1882,6 +1891,7 @@ tomoseqr
 topGO
 topconfects
 topdownr
+tpSVG
 tracktables
 tradeSeq
 transcriptR

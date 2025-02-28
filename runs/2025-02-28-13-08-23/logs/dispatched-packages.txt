@@ -2066,3 +2066,7 @@ circRNAprofiler
 mitoClone2
 musicatk
 vtpnet
+GNOSIS
+bioCancer
+canceR
+cbaf
