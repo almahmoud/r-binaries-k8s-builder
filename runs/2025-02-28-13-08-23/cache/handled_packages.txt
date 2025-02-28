@@ -2,6 +2,7 @@ ABSSeq
 ABarray
 ACME
 ADAM
+ADAMgui
 ADAPT
 AIMS
 ALDEx2
@@ -43,6 +44,7 @@ BUMHMM
 BUS
 BUScorrect
 BaseSpaceR
+BasicSTARRseq
 BayesKnockdown
 BeadDataPackR
 BiFET
@@ -124,8 +126,10 @@ ComplexHeatmap
 CompoundDb
 ConsensusClusterPlus
 Cormotif
+CrispRVariants
 CytoDx
 CytoGLMM
+CytoPipeline
 DART
 DCATS
 DECIPHER
@@ -166,6 +170,7 @@ EBImage
 EBSeq
 EBarrays
 EBcoexpress
+EGAD
 EMDomics
 EmpiricalBrownsMethod
 EnMCB
@@ -173,6 +178,7 @@ EnhancedVolcano
 EnrichedHeatmap
 EpiDISH
 ExiMiR
+ExperimentHub
 ExploreModelMatrix
 ExpressionAtlas
 FELLA
@@ -307,6 +313,7 @@ MBCB
 MBQN
 MBttest
 MCbiclust
+MDTS
 MEDME
 MEIGOR
 MLP
@@ -363,6 +370,7 @@ MsCoreUtils
 MsFeatures
 Mulcom
 MultiAssayExperiment
+MultiDataSet
 MultiMed
 NCIgraph
 NOISeq
@@ -467,6 +475,7 @@ Rbowtie
 Rbowtie2
 Rbwa
 Rcollectl
+Rcpi
 Rcwl
 RcwlPipelines
 Rdisop
@@ -726,6 +735,7 @@ ecolitk
 edgeR
 eds
 eiR
+eisaR
 epiNEM
 epialleleR
 epistack
@@ -737,6 +747,7 @@ fCI
 fabia
 factDesign
 faers
+fastLiquidAssociation
 fastreeR
 fastseg
 fdrame

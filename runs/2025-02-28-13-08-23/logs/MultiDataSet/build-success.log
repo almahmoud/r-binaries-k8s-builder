@@ -1,0 +1,218 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'MultiDataSet'
+also installing the dependencies ‘bumphunter’, ‘IlluminaHumanMethylation450kmanifest’, ‘IlluminaHumanMethylation450kanno.ilmn12.hg19’, ‘made4’, ‘brgedata’, ‘minfi’, ‘minfiData’, ‘omicade4’, ‘MultiAssayExperiment’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/bumphunter_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 2483243 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/IlluminaHumanMethylation450kmanifest_0.4.0.tar.gz'
+Content type 'application/x-gzip' length 8726870 bytes (8.3 MB)
+==================================================
+downloaded 8.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/IlluminaHumanMethylation450kanno.ilmn12.hg19_0.6.1.tar.gz'
+Content type 'application/x-gzip' length 57892521 bytes (55.2 MB)
+==================================================
+downloaded 55.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/made4_1.80.0.tar.gz'
+Content type 'application/x-gzip' length 2853865 bytes (2.7 MB)
+==================================================
+downloaded 2.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/brgedata_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 311386991 bytes (297.0 MB)
+==================================================
+downloaded 297.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/minfi_1.52.1.tar.gz'
+Content type 'application/x-gzip' length 517515 bytes (505 KB)
+==================================================
+downloaded 505 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/minfiData_0.52.0.tar.gz'
+Content type 'application/x-gzip' length 78181896 bytes (74.6 MB)
+==================================================
+downloaded 74.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/omicade4_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 558579 bytes (545 KB)
+==================================================
+downloaded 545 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MultiAssayExperiment_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 1224754 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MultiDataSet_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 509906 bytes (497 KB)
+==================================================
+downloaded 497 KB
+
+* installing *source* package ‘bumphunter’ ...
+** package ‘bumphunter’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bumphunter’ as ‘bumphunter_1.48.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bumphunter)
+* installing *source* package ‘made4’ ...
+** package ‘made4’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘made4’ as ‘made4_1.80.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (made4)
+* installing *source* package ‘brgedata’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘brgedata’ as ‘brgedata_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (brgedata)
+* installing *source* package ‘MultiAssayExperiment’ ...
+** package ‘MultiAssayExperiment’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MultiAssayExperiment’ as ‘MultiAssayExperiment_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MultiAssayExperiment)
+* installing *source* package ‘MultiDataSet’ ...
+** package ‘MultiDataSet’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+in method for ‘add_methy’ with signature ‘"MultiDataSet","GenomicRatioSet"’: no definition for class “GenomicRatioSet”
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MultiDataSet’ as ‘MultiDataSet_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MultiDataSet)
+* installing *source* package ‘minfi’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘minfi’ as ‘minfi_1.52.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (minfi)
+* installing *source* package ‘omicade4’ ...
+** package ‘omicade4’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘omicade4’ as ‘omicade4_1.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (omicade4)
+* installing *source* package ‘IlluminaHumanMethylation450kmanifest’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+Error: package or namespace load failed for ‘minfi’ in loadNamespace(package, lib.loc):
+ there is no package called ‘minfi’
+Error : package ‘minfi’ could not be loaded
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/IlluminaHumanMethylation450kmanifest’
+ERROR: dependency ‘minfi’ is not available for package ‘IlluminaHumanMethylation450kanno.ilmn12.hg19’
+* removing ‘/mnt/library/IlluminaHumanMethylation450kanno.ilmn12.hg19’
+ERROR: dependencies ‘minfi’, ‘IlluminaHumanMethylation450kmanifest’, ‘IlluminaHumanMethylation450kanno.ilmn12.hg19’ are not available for package ‘minfiData’
+* removing ‘/mnt/library/minfiData’
+
+The downloaded source packages are in
+	‘/tmp/RtmpHKlbNy/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘IlluminaHumanMethylation450kmanifest’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘IlluminaHumanMethylation450kanno.ilmn12.hg19’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘minfiData’ had non-zero exit status
+
+real	67m7.717s
+user	5m46.854s
+sys	0m32.777s

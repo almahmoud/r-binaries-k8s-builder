@@ -1177,3 +1177,14 @@ struct
 supersigs
 TCseq
 tracktables
+ADAMgui
+BasicSTARRseq
+CrispRVariants
+CytoPipeline
+EGAD
+eisaR
+ExperimentHub
+fastLiquidAssociation
+MDTS
+MultiDataSet
+Rcpi
