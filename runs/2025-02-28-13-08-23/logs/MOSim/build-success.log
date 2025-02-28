@@ -1,0 +1,72 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'MOSim'
+also installing the dependencies ‘decor’, ‘leiden’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/decor_1.0.2.tar.gz'
+Content type 'binary/octet-stream' length 30010 bytes (29 KB)
+==================================================
+downloaded 29 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/leiden_0.4.3.1.tar.gz'
+Content type 'binary/octet-stream' length 2879878 bytes (2.7 MB)
+==================================================
+downloaded 2.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MOSim_2.2.0.tar.gz'
+Content type 'application/x-gzip' length 6228228 bytes (5.9 MB)
+==================================================
+downloaded 5.9 MB
+
+* installing *binary* package ‘decor’ ...
+* ‘decor’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘decor’ as ‘decor_1.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (decor)
+* installing *binary* package ‘leiden’ ...
+* ‘leiden’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘leiden’ as ‘leiden_0.4.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (leiden)
+* installing *source* package ‘MOSim’ ...
+** package ‘MOSim’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/cpp11/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c Random_number.cpp -o Random_number.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o MOSim.so Random_number.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-MOSim/00new/MOSim/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘dplyr::count’ by ‘matrixStats::count’ when loading ‘MOSim’
+Creating a new generic function for ‘simulate’ in package ‘MOSim’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘dplyr::count’ by ‘matrixStats::count’ when loading ‘MOSim’
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘dplyr::count’ by ‘matrixStats::count’ when loading ‘MOSim’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MOSim’ as ‘MOSim_2.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MOSim)
+
+The downloaded source packages are in
+	‘/tmp/RtmpPO5S1d/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m42.737s
+user	0m40.000s
+sys	0m7.407s

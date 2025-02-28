@@ -421,6 +421,7 @@ MODA
 MOFA2
 MOGAMUN
 MOMA
+MOSim
 MPFE
 MPRAnalyze
 MSA2dist
@@ -910,8 +911,10 @@ cola
 combi
 compSPOT
 compcodeR
+concordexR
 consICA
 consensus
+consensusSeekeR
 convert
 copa
 corral
@@ -930,6 +933,7 @@ cypress
 cytoKernel
 cytoMEM
 cytolib
+cytomapper
 dStruct
 daMA
 dar
@@ -1098,6 +1102,7 @@ hdxmsqc
 heatmaps
 hermes
 hiAnnotator
+hicVennDiagram
 hierGWAS
 hierinf
 hipathia
@@ -1118,6 +1123,8 @@ iClusterPlus
 iGC
 iPath
 iSEE
+iSEEde
+iSEEhex
 iSEEindex
 iSEEpathways
 iSeq
@@ -1200,6 +1207,7 @@ metahdep
 metapod
 metapone
 methimpute
+methrix
 methyLImp2
 methylKit
 methylMnM
@@ -1239,6 +1247,7 @@ mogsa
 monocle
 mosaics
 mosbi
+motifStack
 motifTestR
 motifcounter
 motifmatchr

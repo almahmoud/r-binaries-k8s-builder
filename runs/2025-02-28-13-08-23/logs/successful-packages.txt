@@ -1613,3 +1613,12 @@ miaViz
 motifmatchr
 SigCheck
 SparseSignatures
+concordexR
+consensusSeekeR
+cytomapper
+hicVennDiagram
+iSEEde
+iSEEhex
+methrix
+MOSim
+motifStack

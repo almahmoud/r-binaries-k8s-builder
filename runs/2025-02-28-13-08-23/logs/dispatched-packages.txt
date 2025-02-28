@@ -1778,3 +1778,10 @@ enhancerHomologSearch
 epiregulon
 iSEEtree
 pageRank
+RJMCMCNucleosomes
+atSNP
+cytoviewer
+dagLogo
+iSEEu
+imcRtools
+simpleSeg
