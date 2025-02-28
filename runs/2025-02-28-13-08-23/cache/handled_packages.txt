@@ -1,5 +1,6 @@
 ABSSeq
 AMOUNTAIN
+ANCOMBC
 ARRmNormalization
 ASAFE
 ASEB
@@ -191,6 +192,7 @@ ROSeq
 RProtoBufLib
 RRHO
 RSeqAn
+RTCGA
 RankProd
 Rbowtie
 Rbwa
@@ -410,6 +412,7 @@ plasmut
 plotGrouper
 pmm
 powerTCR
+ppcseq
 preprocessCore
 proteinProfiles
 qckitfastq
@@ -430,6 +433,7 @@ rpx
 rsemmed
 sSeq
 sagenhaft
+scBubbletree
 scFeatureFilter
 scMitoMut
 scRecover

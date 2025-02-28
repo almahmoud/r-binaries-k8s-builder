@@ -1,0 +1,3457 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ANCOMBC'
+also installing the dependencies ‘formatR’, ‘markdown’, ‘jpeg’, ‘sitmo’, ‘proxy’, ‘rematch’, ‘lambda.r’, ‘futile.options’, ‘zlibbioc’, ‘estimability’, ‘beeswarm’, ‘vipor’, ‘gridtext’, ‘ScaledMatrix’, ‘irlba’, ‘rsvd’, ‘FNN’, ‘RcppAnnoy’, ‘RSpectra’, ‘dqrng’, ‘RcppProgress’, ‘Cairo’, ‘png’, ‘DEoptimR’, ‘Rhdf5lib’, ‘rhdf5filters’, ‘bit’, ‘rootSolve’, ‘e1071’, ‘lmom’, ‘cellranger’, ‘progress’, ‘isoband’, ‘checkmate’, ‘viridisLite’, ‘zoo’, ‘BiocBaseUtils’, ‘futile.logger’, ‘snow’, ‘BH’, ‘XVector’, ‘BiocNeighbors’, ‘assorthead’, ‘DBI’, ‘SparseArray’, ‘sparseMatrixStats’, ‘matrixStats’, ‘lpSolve’, ‘emmeans’, ‘fillpattern’, ‘ggbeeswarm’, ‘ggnewscale’, ‘ggrepel’, ‘ggtext’, ‘parallelly’, ‘patchwork’, ‘slam’, ‘beachmat’, ‘BiocSingular’, ‘RColorBrewer’, ‘RcppML’, ‘uwot’, ‘pheatmap’, ‘ggrastr’, ‘permute’, ‘lazyeval’, ‘UCSC.utils’, ‘GenomeInfoDbData’, ‘abind’, ‘tidytree’, ‘yulab.utils’, ‘tensorA’, ‘robustbase’, ‘bayesm’, ‘farver’, ‘labeling’, ‘munsell’, ‘pixmap’, ‘sp’, ‘RcppArmadillo’, ‘rhdf5’, ‘backports’, ‘blob’, ‘gargle’, ‘uuid’, ‘ids’, ‘rematch2’, ‘timechange’, ‘vroom’, ‘tzdb’, ‘selectr’, ‘bit64’, ‘gmp’, ‘Rmpfr’, ‘ECOSolveR’, ‘scs’, ‘osqp’, ‘RcppEigen’, ‘mvtnorm’, ‘expm’, ‘Exact’, ‘gld’, ‘data.table’, ‘readxl’, ‘haven’, ‘httr’, ‘ggplot2’, ‘gtable’, ‘gridExtra’, ‘htmlTable’, ‘viridis’, ‘colorspace’, ‘Formula’, ‘rbibutils’, ‘iterators’, ‘rngtools’, ‘gsl’, ‘minqa’, ‘reformulas’, ‘numDeriv’, ‘TH.data’, ‘sandwich’, ‘MultiAssayExperiment’, ‘ape’, ‘BiocGenerics’, ‘BiocParallel’, ‘Biostrings’, ‘bluster’, ‘DECIPHER’, ‘decontam’, ‘DelayedArray’, ‘DelayedMatrixStats’, ‘DirichletMultinomial’, ‘IRanges’, ‘MatrixGenerics’, ‘mediation’, ‘rbiom’, ‘scater’, ‘scuttle’, ‘vegan’, ‘crosstalk’, ‘GenomicRanges’, ‘Biobase’, ‘GenomeInfoDb’, ‘S4Arrays’, ‘treeio’, ‘generics’, ‘tidyselect’, ‘compositions’, ‘reshape2’, ‘Rtsne’, ‘scales’, ‘ade4’, ‘biomformat’, ‘igraph’, ‘multtest’, ‘plyr’, ‘broom’, ‘conflicted’, ‘dbplyr’, ‘dtplyr’, ‘forcats’, ‘googledrive’, ‘googlesheets4’, ‘hms’, ‘lubridate’, ‘modelr’, ‘readr’, ‘reprex’, ‘rvest’, ‘CVXR’, ‘DescTools’, ‘Hmisc’, ‘Rdpack’, ‘doParallel’, ‘doRNG’, ‘energy’, ‘foreach’, ‘gtools’, ‘lme4’, ‘lmerTest’, ‘multcomp’, ‘nloptr’, ‘mia’, ‘DT’, ‘S4Vectors’, ‘SingleCellExperiment’, ‘SummarizedExperiment’, ‘TreeSummarizedExperiment’, ‘dplyr’, ‘microbiome’, ‘phyloseq’, ‘tidyr’, ‘tidyverse’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/formatR_1.14.tar.gz'
+Content type 'binary/octet-stream' length 151517 bytes (147 KB)
+==================================================
+downloaded 147 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/markdown_1.13.tar.gz'
+Content type 'binary/octet-stream' length 146590 bytes (143 KB)
+==================================================
+downloaded 143 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/jpeg_0.1-10.tar.gz'
+Content type 'binary/octet-stream' length 29252 bytes (28 KB)
+==================================================
+downloaded 28 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sitmo_2.0.2.tar.gz'
+Content type 'binary/octet-stream' length 172329 bytes (168 KB)
+==================================================
+downloaded 168 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/proxy_0.4-27.tar.gz'
+Content type 'binary/octet-stream' length 175588 bytes (171 KB)
+==================================================
+downloaded 171 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rematch_2.0.0.tar.gz'
+Content type 'binary/octet-stream' length 16197 bytes (15 KB)
+==================================================
+downloaded 15 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lambda.r_1.2.4.tar.gz'
+Content type 'binary/octet-stream' length 110485 bytes (107 KB)
+==================================================
+downloaded 107 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/futile.options_1.0.1.tar.gz'
+Content type 'binary/octet-stream' length 18448 bytes (18 KB)
+==================================================
+downloaded 18 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/zlibbioc_1.52.0.tar.gz'
+Content type 'application/x-gzip' length 384828 bytes (375 KB)
+==================================================
+downloaded 375 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/estimability_1.5.1.tar.gz'
+Content type 'binary/octet-stream' length 49788 bytes (48 KB)
+==================================================
+downloaded 48 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/beeswarm_0.4.0.tar.gz'
+Content type 'binary/octet-stream' length 78114 bytes (76 KB)
+==================================================
+downloaded 76 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/vipor_0.4.7.tar.gz'
+Content type 'binary/octet-stream' length 4581405 bytes (4.4 MB)
+==================================================
+downloaded 4.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gridtext_0.1.5.tar.gz'
+Content type 'binary/octet-stream' length 362238 bytes (353 KB)
+==================================================
+downloaded 353 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ScaledMatrix_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 313867 bytes (306 KB)
+==================================================
+downloaded 306 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/irlba_2.3.5.1.tar.gz'
+Content type 'binary/octet-stream' length 292196 bytes (285 KB)
+==================================================
+downloaded 285 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rsvd_1.0.5.tar.gz'
+Content type 'binary/octet-stream' length 3587370 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/FNN_1.1.4.1.tar.gz'
+Content type 'binary/octet-stream' length 128397 bytes (125 KB)
+==================================================
+downloaded 125 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RcppAnnoy_0.0.22.tar.gz'
+Content type 'binary/octet-stream' length 269793 bytes (263 KB)
+==================================================
+downloaded 263 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RSpectra_0.16-2.tar.gz'
+Content type 'binary/octet-stream' length 529212 bytes (516 KB)
+==================================================
+downloaded 516 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dqrng_0.4.1.tar.gz'
+Content type 'binary/octet-stream' length 215564 bytes (210 KB)
+==================================================
+downloaded 210 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RcppProgress_0.4.2.tar.gz'
+Content type 'binary/octet-stream' length 20161 bytes (19 KB)
+==================================================
+downloaded 19 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Cairo_1.6-2.tar.gz'
+Content type 'binary/octet-stream' length 84485 bytes (82 KB)
+==================================================
+downloaded 82 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/png_0.1-8.tar.gz'
+Content type 'binary/octet-stream' length 40602 bytes (39 KB)
+==================================================
+downloaded 39 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DEoptimR_1.1-3-1.tar.gz'
+Content type 'binary/octet-stream' length 74615 bytes (72 KB)
+==================================================
+downloaded 72 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Rhdf5lib_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 12065121 bytes (11.5 MB)
+==================================================
+downloaded 11.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rhdf5filters_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 1190606 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bit_4.5.0.1.tar.gz'
+Content type 'binary/octet-stream' length 1174871 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rootSolve_1.8.2.4.tar.gz'
+Content type 'binary/octet-stream' length 686808 bytes (670 KB)
+==================================================
+downloaded 670 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/e1071_1.7-16.tar.gz'
+Content type 'binary/octet-stream' length 596729 bytes (582 KB)
+==================================================
+downloaded 582 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lmom_3.2.tar.gz'
+Content type 'binary/octet-stream' length 575957 bytes (562 KB)
+==================================================
+downloaded 562 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/cellranger_1.1.0.tar.gz'
+Content type 'binary/octet-stream' length 103778 bytes (101 KB)
+==================================================
+downloaded 101 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/progress_1.2.3.tar.gz'
+Content type 'binary/octet-stream' length 86326 bytes (84 KB)
+==================================================
+downloaded 84 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/isoband_0.2.7.tar.gz'
+Content type 'binary/octet-stream' length 1644325 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/checkmate_2.3.2.tar.gz'
+Content type 'binary/octet-stream' length 743926 bytes (726 KB)
+==================================================
+downloaded 726 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/viridisLite_0.4.2.tar.gz'
+Content type 'binary/octet-stream' length 1297555 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/zoo_1.8-13.tar.gz'
+Content type 'binary/octet-stream' length 1029051 bytes (1004 KB)
+==================================================
+downloaded 1004 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocBaseUtils_1.8.0.tar.gz'
+Content type 'application/x-gzip' length 232413 bytes (226 KB)
+==================================================
+downloaded 226 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/futile.logger_1.4.3.tar.gz'
+Content type 'binary/octet-stream' length 97342 bytes (95 KB)
+==================================================
+downloaded 95 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/snow_0.4-4.tar.gz'
+Content type 'binary/octet-stream' length 96930 bytes (94 KB)
+==================================================
+downloaded 94 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/BH_1.87.0-1.tar.gz'
+Content type 'binary/octet-stream' length 13349384 bytes (12.7 MB)
+==================================================
+downloaded 12.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocNeighbors_2.0.1.tar.gz'
+Content type 'application/x-gzip' length 338963 bytes (331 KB)
+==================================================
+downloaded 331 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/assorthead_1.0.1.tar.gz'
+Content type 'application/x-gzip' length 1734300 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DBI_1.2.3.tar.gz'
+Content type 'binary/octet-stream' length 914707 bytes (893 KB)
+==================================================
+downloaded 893 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SparseArray_1.6.2.tar.gz'
+Content type 'application/x-gzip' length 468696 bytes (457 KB)
+==================================================
+downloaded 457 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/sparseMatrixStats_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 706413 bytes (689 KB)
+==================================================
+downloaded 689 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/matrixStats_1.5.0.tar.gz'
+Content type 'binary/octet-stream' length 475041 bytes (463 KB)
+==================================================
+downloaded 463 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lpSolve_5.6.23.tar.gz'
+Content type 'binary/octet-stream' length 375125 bytes (366 KB)
+==================================================
+downloaded 366 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/emmeans_1.10.7.tar.gz'
+Content type 'binary/octet-stream' length 2198699 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fillpattern_1.0.2.tar.gz'
+Content type 'binary/octet-stream' length 345727 bytes (337 KB)
+==================================================
+downloaded 337 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggbeeswarm_0.7.2.tar.gz'
+Content type 'binary/octet-stream' length 1756358 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggnewscale_0.5.1.tar.gz'
+Content type 'binary/octet-stream' length 350186 bytes (341 KB)
+==================================================
+downloaded 341 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggrepel_0.9.6.tar.gz'
+Content type 'binary/octet-stream' length 290115 bytes (283 KB)
+==================================================
+downloaded 283 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggtext_0.1.2.tar.gz'
+Content type 'binary/octet-stream' length 1260473 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/parallelly_1.42.0.tar.gz'
+Content type 'binary/octet-stream' length 537560 bytes (524 KB)
+==================================================
+downloaded 524 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/patchwork_1.3.0.tar.gz'
+Content type 'binary/octet-stream' length 3345779 bytes (3.2 MB)
+==================================================
+downloaded 3.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/slam_0.1-55.tar.gz'
+Content type 'binary/octet-stream' length 188014 bytes (183 KB)
+==================================================
+downloaded 183 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/beachmat_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 378908 bytes (370 KB)
+==================================================
+downloaded 370 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocSingular_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 617927 bytes (603 KB)
+==================================================
+downloaded 603 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RColorBrewer_1.1-3.tar.gz'
+Content type 'binary/octet-stream' length 51823 bytes (50 KB)
+==================================================
+downloaded 50 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RcppML_0.3.7.tar.gz'
+Content type 'binary/octet-stream' length 207015 bytes (202 KB)
+==================================================
+downloaded 202 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/uwot_0.2.3.tar.gz'
+Content type 'binary/octet-stream' length 1027571 bytes (1003 KB)
+==================================================
+downloaded 1003 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pheatmap_1.0.12.tar.gz'
+Content type 'binary/octet-stream' length 77416 bytes (75 KB)
+==================================================
+downloaded 75 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggrastr_1.0.2.tar.gz'
+Content type 'binary/octet-stream' length 2675180 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/permute_0.9-7.tar.gz'
+Content type 'binary/octet-stream' length 233484 bytes (228 KB)
+==================================================
+downloaded 228 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lazyeval_0.2.2.tar.gz'
+Content type 'binary/octet-stream' length 157375 bytes (153 KB)
+==================================================
+downloaded 153 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/UCSC.utils_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 236888 bytes (231 KB)
+==================================================
+downloaded 231 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/GenomeInfoDbData_1.2.13.tar.gz'
+Content type 'application/x-gzip' length 12924272 bytes (12.3 MB)
+==================================================
+downloaded 12.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/abind_1.4-8.tar.gz'
+Content type 'binary/octet-stream' length 64944 bytes (63 KB)
+==================================================
+downloaded 63 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidytree_0.4.6.tar.gz'
+Content type 'binary/octet-stream' length 341867 bytes (333 KB)
+==================================================
+downloaded 333 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/yulab.utils_0.2.0.tar.gz'
+Content type 'binary/octet-stream' length 117174 bytes (114 KB)
+==================================================
+downloaded 114 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tensorA_0.36.2.1.tar.gz'
+Content type 'binary/octet-stream' length 221284 bytes (216 KB)
+==================================================
+downloaded 216 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/robustbase_0.99-4-1.tar.gz'
+Content type 'binary/octet-stream' length 3099872 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bayesm_3.1-6.tar.gz'
+Content type 'binary/octet-stream' length 3244200 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/farver_2.1.2.tar.gz'
+Content type 'binary/octet-stream' length 1466627 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/labeling_0.4.3.tar.gz'
+Content type 'binary/octet-stream' length 60952 bytes (59 KB)
+==================================================
+downloaded 59 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/munsell_0.5.1.tar.gz'
+Content type 'binary/octet-stream' length 243099 bytes (237 KB)
+==================================================
+downloaded 237 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pixmap_0.4-13.tar.gz'
+Content type 'binary/octet-stream' length 213309 bytes (208 KB)
+==================================================
+downloaded 208 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sp_2.2-0.tar.gz'
+Content type 'binary/octet-stream' length 5308015 bytes (5.1 MB)
+==================================================
+downloaded 5.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RcppArmadillo_14.2.3-1.tar.gz'
+Content type 'binary/octet-stream' length 1066881 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rhdf5_2.50.2.tar.gz'
+Content type 'application/x-gzip' length 1310189 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/backports_1.5.0.tar.gz'
+Content type 'binary/octet-stream' length 115743 bytes (113 KB)
+==================================================
+downloaded 113 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/blob_1.2.4.tar.gz'
+Content type 'binary/octet-stream' length 47325 bytes (46 KB)
+==================================================
+downloaded 46 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gargle_1.5.2.tar.gz'
+Content type 'binary/octet-stream' length 772788 bytes (754 KB)
+==================================================
+downloaded 754 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/uuid_1.2-1.tar.gz'
+Content type 'binary/octet-stream' length 48860 bytes (47 KB)
+==================================================
+downloaded 47 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ids_1.0.1.tar.gz'
+Content type 'binary/octet-stream' length 122444 bytes (119 KB)
+==================================================
+downloaded 119 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rematch2_2.1.2.tar.gz'
+Content type 'binary/octet-stream' length 46036 bytes (44 KB)
+==================================================
+downloaded 44 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/timechange_0.3.0.tar.gz'
+Content type 'binary/octet-stream' length 174752 bytes (170 KB)
+==================================================
+downloaded 170 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/vroom_1.6.5.tar.gz'
+Content type 'binary/octet-stream' length 957690 bytes (935 KB)
+==================================================
+downloaded 935 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tzdb_0.4.0.tar.gz'
+Content type 'binary/octet-stream' length 645296 bytes (630 KB)
+==================================================
+downloaded 630 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/selectr_0.4-2.tar.gz'
+Content type 'binary/octet-stream' length 499149 bytes (487 KB)
+==================================================
+downloaded 487 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bit64_4.6.0-1.tar.gz'
+Content type 'binary/octet-stream' length 491805 bytes (480 KB)
+==================================================
+downloaded 480 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gmp_0.7-5.tar.gz'
+Content type 'binary/octet-stream' length 331168 bytes (323 KB)
+==================================================
+downloaded 323 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Rmpfr_1.0-0.tar.gz'
+Content type 'binary/octet-stream' length 1245266 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ECOSolveR_0.5.5.tar.gz'
+Content type 'binary/octet-stream' length 1058310 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/scs_3.2.4.tar.gz'
+Content type 'binary/octet-stream' length 1296954 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/osqp_0.6.3.3.tar.gz'
+Content type 'binary/octet-stream' length 137079 bytes (133 KB)
+==================================================
+downloaded 133 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RcppEigen_0.3.4.0.2.tar.gz'
+Content type 'binary/octet-stream' length 1853114 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mvtnorm_1.3-3.tar.gz'
+Content type 'binary/octet-stream' length 952249 bytes (929 KB)
+==================================================
+downloaded 929 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/expm_1.0-0.tar.gz'
+Content type 'binary/octet-stream' length 212520 bytes (207 KB)
+==================================================
+downloaded 207 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Exact_3.3.tar.gz'
+Content type 'binary/octet-stream' length 203373 bytes (198 KB)
+==================================================
+downloaded 198 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gld_2.6.7.tar.gz'
+Content type 'binary/octet-stream' length 238309 bytes (232 KB)
+==================================================
+downloaded 232 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/data.table_1.17.0.tar.gz'
+Content type 'binary/octet-stream' length 2695704 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/readxl_1.4.4.tar.gz'
+Content type 'binary/octet-stream' length 412390 bytes (402 KB)
+==================================================
+downloaded 402 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/haven_2.5.4.tar.gz'
+Content type 'binary/octet-stream' length 389992 bytes (380 KB)
+==================================================
+downloaded 380 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/httr_1.4.7.tar.gz'
+Content type 'binary/octet-stream' length 484006 bytes (472 KB)
+==================================================
+downloaded 472 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggplot2_3.5.1.tar.gz'
+Content type 'binary/octet-stream' length 5005317 bytes (4.8 MB)
+==================================================
+downloaded 4.8 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gtable_0.3.6.tar.gz'
+Content type 'binary/octet-stream' length 222627 bytes (217 KB)
+==================================================
+downloaded 217 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gridExtra_2.3.tar.gz'
+Content type 'binary/octet-stream' length 1106795 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/htmlTable_2.4.3.tar.gz'
+Content type 'binary/octet-stream' length 417925 bytes (408 KB)
+==================================================
+downloaded 408 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/viridis_0.6.5.tar.gz'
+Content type 'binary/octet-stream' length 3011703 bytes (2.9 MB)
+==================================================
+downloaded 2.9 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/colorspace_2.1-1.tar.gz'
+Content type 'binary/octet-stream' length 2626614 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Formula_1.2-5.tar.gz'
+Content type 'binary/octet-stream' length 159118 bytes (155 KB)
+==================================================
+downloaded 155 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rbibutils_2.3.tar.gz'
+Content type 'binary/octet-stream' length 1142813 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/iterators_1.0.14.tar.gz'
+Content type 'binary/octet-stream' length 346510 bytes (338 KB)
+==================================================
+downloaded 338 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rngtools_1.5.2.tar.gz'
+Content type 'binary/octet-stream' length 77990 bytes (76 KB)
+==================================================
+downloaded 76 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gsl_2.1-8.tar.gz'
+Content type 'binary/octet-stream' length 528731 bytes (516 KB)
+==================================================
+downloaded 516 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/minqa_1.2.8.tar.gz'
+Content type 'binary/octet-stream' length 122622 bytes (119 KB)
+==================================================
+downloaded 119 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/reformulas_0.4.0.tar.gz'
+Content type 'binary/octet-stream' length 91062 bytes (88 KB)
+==================================================
+downloaded 88 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/numDeriv_2016.8-1.1.tar.gz'
+Content type 'binary/octet-stream' length 114340 bytes (111 KB)
+==================================================
+downloaded 111 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/TH.data_1.1-3.tar.gz'
+Content type 'binary/octet-stream' length 8737834 bytes (8.3 MB)
+==================================================
+downloaded 8.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sandwich_3.1-1.tar.gz'
+Content type 'binary/octet-stream' length 1510175 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MultiAssayExperiment_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 1224754 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ape_5.8-1.tar.gz'
+Content type 'binary/octet-stream' length 2968524 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocGenerics_0.52.0.tar.gz'
+Content type 'application/x-gzip' length 57066 bytes (55 KB)
+==================================================
+downloaded 55 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocParallel_1.40.0.tar.gz'
+Content type 'application/x-gzip' length 1000414 bytes (976 KB)
+==================================================
+downloaded 976 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biostrings_2.74.1.tar.gz'
+Content type 'application/x-gzip' length 12823307 bytes (12.2 MB)
+==================================================
+downloaded 12.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/bluster_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 3267938 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DECIPHER_3.2.0.tar.gz'
+Content type 'application/x-gzip' length 17612526 bytes (16.8 MB)
+==================================================
+downloaded 16.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/decontam_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 720003 bytes (703 KB)
+==================================================
+downloaded 703 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedMatrixStats_1.28.1.tar.gz'
+Content type 'application/x-gzip' length 274322 bytes (267 KB)
+==================================================
+downloaded 267 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DirichletMultinomial_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 1112440 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MatrixGenerics_1.18.1.tar.gz'
+Content type 'application/x-gzip' length 34631 bytes (33 KB)
+==================================================
+downloaded 33 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mediation_4.5.0.tar.gz'
+Content type 'binary/octet-stream' length 1290589 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rbiom_2.0.13.tar.gz'
+Content type 'binary/octet-stream' length 1637459 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/scater_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 4638399 bytes (4.4 MB)
+==================================================
+downloaded 4.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/scuttle_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 1034711 bytes (1010 KB)
+==================================================
+downloaded 1010 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/vegan_2.6-10.tar.gz'
+Content type 'binary/octet-stream' length 3142555 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/crosstalk_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 410648 bytes (401 KB)
+==================================================
+downloaded 401 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicRanges_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 1374658 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biobase_2.66.0.tar.gz'
+Content type 'application/x-gzip' length 1978998 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/x-gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Arrays_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 288435 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/treeio_1.30.0.tar.gz'
+Content type 'application/x-gzip' length 701622 bytes (685 KB)
+==================================================
+downloaded 685 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/generics_0.1.3.tar.gz'
+Content type 'binary/octet-stream' length 81013 bytes (79 KB)
+==================================================
+downloaded 79 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidyselect_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 225331 bytes (220 KB)
+==================================================
+downloaded 220 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/compositions_2.0-8.tar.gz'
+Content type 'binary/octet-stream' length 1990788 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/reshape2_1.4.4.tar.gz'
+Content type 'binary/octet-stream' length 123102 bytes (120 KB)
+==================================================
+downloaded 120 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Rtsne_0.17.tar.gz'
+Content type 'binary/octet-stream' length 118363 bytes (115 KB)
+==================================================
+downloaded 115 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/scales_1.3.0.tar.gz'
+Content type 'binary/octet-stream' length 710365 bytes (693 KB)
+==================================================
+downloaded 693 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ade4_1.7-23.tar.gz'
+Content type 'binary/octet-stream' length 5458853 bytes (5.2 MB)
+==================================================
+downloaded 5.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/biomformat_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 347428 bytes (339 KB)
+==================================================
+downloaded 339 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/igraph_2.1.4.tar.gz'
+Content type 'binary/octet-stream' length 5554402 bytes (5.3 MB)
+==================================================
+downloaded 5.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/multtest_2.62.0.tar.gz'
+Content type 'application/x-gzip' length 1296359 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/plyr_1.8.9.tar.gz'
+Content type 'binary/octet-stream' length 788070 bytes (769 KB)
+==================================================
+downloaded 769 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/broom_1.0.7.tar.gz'
+Content type 'binary/octet-stream' length 1918600 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/conflicted_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 55058 bytes (53 KB)
+==================================================
+downloaded 53 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dbplyr_2.5.0.tar.gz'
+Content type 'binary/octet-stream' length 1236167 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dtplyr_1.3.1.tar.gz'
+Content type 'binary/octet-stream' length 357381 bytes (349 KB)
+==================================================
+downloaded 349 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/forcats_1.0.0.tar.gz'
+Content type 'binary/octet-stream' length 421285 bytes (411 KB)
+==================================================
+downloaded 411 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/googledrive_2.1.1.tar.gz'
+Content type 'binary/octet-stream' length 1899448 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/googlesheets4_1.1.1.tar.gz'
+Content type 'binary/octet-stream' length 516263 bytes (504 KB)
+==================================================
+downloaded 504 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/hms_1.1.3.tar.gz'
+Content type 'binary/octet-stream' length 99678 bytes (97 KB)
+==================================================
+downloaded 97 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lubridate_1.9.4.tar.gz'
+Content type 'binary/octet-stream' length 983330 bytes (960 KB)
+==================================================
+downloaded 960 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/modelr_0.1.11.tar.gz'
+Content type 'binary/octet-stream' length 200698 bytes (195 KB)
+==================================================
+downloaded 195 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/readr_2.1.5.tar.gz'
+Content type 'binary/octet-stream' length 862001 bytes (841 KB)
+==================================================
+downloaded 841 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/reprex_2.1.1.tar.gz'
+Content type 'binary/octet-stream' length 495217 bytes (483 KB)
+==================================================
+downloaded 483 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rvest_1.0.4.tar.gz'
+Content type 'binary/octet-stream' length 298442 bytes (291 KB)
+==================================================
+downloaded 291 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/CVXR_1.0-15.tar.gz'
+Content type 'binary/octet-stream' length 3728611 bytes (3.6 MB)
+==================================================
+downloaded 3.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DescTools_0.99.59.tar.gz'
+Content type 'binary/octet-stream' length 5490248 bytes (5.2 MB)
+==================================================
+downloaded 5.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Hmisc_5.2-2.tar.gz'
+Content type 'binary/octet-stream' length 3609223 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Rdpack_2.6.2.tar.gz'
+Content type 'binary/octet-stream' length 759354 bytes (741 KB)
+==================================================
+downloaded 741 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/doParallel_1.0.17.tar.gz'
+Content type 'binary/octet-stream' length 188136 bytes (183 KB)
+==================================================
+downloaded 183 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/doRNG_1.8.6.1.tar.gz'
+Content type 'binary/octet-stream' length 169580 bytes (165 KB)
+==================================================
+downloaded 165 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/energy_1.7-12.tar.gz'
+Content type 'binary/octet-stream' length 326729 bytes (319 KB)
+==================================================
+downloaded 319 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/foreach_1.5.2.tar.gz'
+Content type 'binary/octet-stream' length 139753 bytes (136 KB)
+==================================================
+downloaded 136 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gtools_3.9.5.tar.gz'
+Content type 'binary/octet-stream' length 361081 bytes (352 KB)
+==================================================
+downloaded 352 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lme4_1.1-36.tar.gz'
+Content type 'binary/octet-stream' length 4258364 bytes (4.1 MB)
+==================================================
+downloaded 4.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lmerTest_3.1-3.tar.gz'
+Content type 'binary/octet-stream' length 538619 bytes (525 KB)
+==================================================
+downloaded 525 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/multcomp_1.4-28.tar.gz'
+Content type 'binary/octet-stream' length 729772 bytes (712 KB)
+==================================================
+downloaded 712 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/nloptr_2.1.1.tar.gz'
+Content type 'binary/octet-stream' length 563506 bytes (550 KB)
+==================================================
+downloaded 550 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/mia_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 3130972 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DT_0.33.tar.gz'
+Content type 'binary/octet-stream' length 1792445 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Vectors_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 1076666 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SingleCellExperiment_1.28.1.tar.gz'
+Content type 'application/x-gzip' length 985694 bytes (962 KB)
+==================================================
+downloaded 962 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/TreeSummarizedExperiment_2.14.0.tar.gz'
+Content type 'application/x-gzip' length 1164581 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dplyr_1.1.4.tar.gz'
+Content type 'binary/octet-stream' length 1491332 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/microbiome_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 736727 bytes (719 KB)
+==================================================
+downloaded 719 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/phyloseq_1.50.0.tar.gz'
+Content type 'application/x-gzip' length 6423044 bytes (6.1 MB)
+==================================================
+downloaded 6.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidyr_1.3.1.tar.gz'
+Content type 'binary/octet-stream' length 1177303 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidyverse_2.0.0.tar.gz'
+Content type 'binary/octet-stream' length 425797 bytes (415 KB)
+==================================================
+downloaded 415 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ANCOMBC_2.8.1.tar.gz'
+Content type 'application/x-gzip' length 1305103 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+* installing *binary* package ‘formatR’ ...
+* ‘formatR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘formatR’ as ‘formatR_1.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (formatR)
+* installing *binary* package ‘markdown’ ...
+* ‘markdown’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘markdown’ as ‘markdown_1.13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (markdown)
+* installing *binary* package ‘jpeg’ ...
+* ‘jpeg’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘jpeg’ as ‘jpeg_0.1-10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (jpeg)
+* installing *binary* package ‘sitmo’ ...
+* ‘sitmo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sitmo’ as ‘sitmo_2.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sitmo)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-proxy’
+* installing *binary* package ‘rematch’ ...
+* ‘rematch’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rematch’ as ‘rematch_2.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rematch)
+* installing *binary* package ‘futile.options’ ...
+* ‘futile.options’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘futile.options’ as ‘futile.options_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (futile.options)
+* installing *source* package ‘zlibbioc’ ...
+** package ‘zlibbioc’ successfully unpacked and MD5 sums checked
+** using staged installation
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+mkdir -p "/mnt/library/00LOCK-zlibbioc/00new/zlibbioc/include"
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_zlibbioc.c -o R_init_zlibbioc.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o zlibbioc.so R_init_zlibbioc.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-zlibbioc/00new/zlibbioc/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning in fun(libname, pkgname) :
+  Package 'zlibbioc' is deprecated and will be removed from Bioconductor
+  version 3.22
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning in fun(libname, pkgname) :
+  Package 'zlibbioc' is deprecated and will be removed from Bioconductor
+  version 3.22
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘zlibbioc’ as ‘zlibbioc_1.52.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zlibbioc)
+* installing *binary* package ‘estimability’ ...
+* ‘estimability’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘estimability’ as ‘estimability_1.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (estimability)
+* installing *binary* package ‘beeswarm’ ...
+* ‘beeswarm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘beeswarm’ as ‘beeswarm_0.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (beeswarm)
+* installing *binary* package ‘vipor’ ...
+* ‘vipor’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘vipor’ as ‘vipor_0.4.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (vipor)
+* installing *binary* package ‘irlba’ ...
+* ‘irlba’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘irlba’ as ‘irlba_2.3.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (irlba)
+* installing *binary* package ‘rsvd’ ...
+* ‘rsvd’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rsvd’ as ‘rsvd_1.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rsvd)
+* installing *binary* package ‘FNN’ ...
+* ‘FNN’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘FNN’ as ‘FNN_1.1.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FNN)
+* installing *binary* package ‘RcppAnnoy’ ...
+* ‘RcppAnnoy’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RcppAnnoy’ as ‘RcppAnnoy_0.0.22_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcppAnnoy)
+* installing *binary* package ‘RcppProgress’ ...
+* ‘RcppProgress’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RcppProgress’ as ‘RcppProgress_0.4.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcppProgress)
+* installing *binary* package ‘Cairo’ ...
+* ‘Cairo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Cairo’ as ‘Cairo_1.6-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Cairo)
+* installing *binary* package ‘png’ ...
+* ‘png’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘png’ as ‘png_0.1-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (png)
+* installing *binary* package ‘DEoptimR’ ...
+* ‘DEoptimR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DEoptimR’ as ‘DEoptimR_1.1-3-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DEoptimR)
+* installing *source* package ‘Rhdf5lib’ ...
+** package ‘Rhdf5lib’ successfully unpacked and MD5 sums checked
+** using staged installation
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether the compiler supports GNU C... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to enable C11 features... none needed
+checking whether the compiler supports GNU C++... yes
+checking whether g++ -std=gnu++17 accepts -g... yes
+checking for g++ -std=gnu++17 option to enable C++11 features... none needed
+COMPILER = gcc
+checking whether C compiler accepts -w... yes
+checking whether to use -Wl,-rpath setting... yes
+checking for stdio.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for strings.h... yes
+checking for sys/stat.h... yes
+checking for sys/types.h... yes
+checking for unistd.h... yes
+checking for zlib.h... yes
+ON_BUILDER=false
+ON_BUILDER=false
+checking for szlib.h... yes
+checking for libaec.h... yes
+checking for SZ_BufftoBuffCompress in -lsz... yes
+checking for aec_buffer_encode in -lsz... yes
+checking for curl/curl.h... yes
+checking for openssl/evp.h... yes
+checking for openssl/hmac.h... yes
+checking for openssl/sha.h... yes
+checking for curl_global_init in -lcurl... yes
+checking for EVP_sha256 in -lcrypto... yes
+S3_VFD=--enable-ros3-vfd
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gunzip -dc hdf5small_cxx_hl_1.10.7.tar.gz | tar xf -;
+cd hdf5; \
+./configure --with-pic --enable-shared=no --enable-cxx --enable-hl \
+--enable-tests=no --enable-tools=no \
+--with-szlib=yes --with-zlib=yes \
+--enable-ros3-vfd \
+--enable-sharedlib-rpath \
+CC='gcc' CXX='g++ -std=gnu++17' \
+CPPFLAGS='-I/usr/local/include' \
+CFLAGS='-g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -w -fpic' \
+CXXFLAGS='-w -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic' \
+AR='ar' RANLIB='ranlib' \
+LDFLAGS='-L/usr/local/lib'; \
+make lib
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a race-free mkdir -p... /usr/bin/mkdir -p
+checking for gawk... no
+checking for mawk... mawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking whether make supports nested variables... (cached) yes
+checking whether to enable maintainer-specific portions of Makefiles... no
+checking build system type... x86_64-pc-linux-gnu
+checking host system type... x86_64-pc-linux-gnu
+checking shell variables initial values... done
+checking if basename works... yes
+checking if xargs works... yes
+checking for cached host... none
+checking for config x86_64-pc-linux-gnu... no
+checking for config x86_64-pc-linux-gnu... no
+checking for config pc-linux-gnu... no
+checking for config pc-linux-gnu... no
+checking for config x86_64-linux-gnu... no
+checking for config x86_64-linux-gnu... no
+checking for config x86_64-pc... no
+checking for config linux-gnu... found
+compiler 'gcc' is GNU gcc-13.3.0
+compiler 'gfortran' is GNU gfortran-13.3.0
+compiler 'g++ -std=gnu++17' is GNU g++-13.3.0
+checking for config ./config/site-specific/host-bioc-build-ancombc-2025-02-28-13-08-23-g67wn... no
+checking for clang sanitizer checks... checking build mode... production
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether the compiler supports GNU C... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to enable C11 features... none needed
+checking whether gcc understands -c and -o together... yes
+checking whether make supports the include directive... yes (GNU style)
+checking dependency style of gcc... gcc3
+checking if unsupported combinations of configure options are allowed... no
+checking for stdio.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for strings.h... yes
+checking for sys/stat.h... yes
+checking for sys/types.h... yes
+checking for unistd.h... yes
+checking for sys/time.h... yes
+checking for off_t... yes
+checking for size_t... yes
+checking for ssize_t... yes
+checking for ptrdiff_t... yes
+checking whether byte ordering is bigendian... no
+checking size of char... 1
+checking size of short... 2
+checking size of int... 4
+checking size of unsigned... 4
+checking size of long... 8
+checking size of long long... 8
+checking size of __int64... 0
+checking size of float... 4
+checking size of double... 8
+checking size of long double... 16
+checking size of __float128... 16
+checking size of _Quad... 0
+checking for quadmath.h... yes
+checking maximum decimal precision for C... 33
+checking if Fortran interface enabled... no
+checking whether the compiler supports GNU C++... yes
+checking whether g++ -std=gnu++17 accepts -g... yes
+checking for g++ -std=gnu++17 option to enable C++11 features... none needed
+checking dependency style of g++ -std=gnu++17... gcc3
+checking how to run the C++ preprocessor... g++ -std=gnu++17 -E
+checking if c++ interface enabled... yes
+checking if g++ -std=gnu++17 needs old style header files in includes... no
+checking if g++ -std=gnu++17 can handle namespaces... yes
+checking if g++ -std=gnu++17 can handle static cast... yes
+checking if g++ -std=gnu++17 has offsetof extension... yes
+checking if the high-level library is enabled... yes
+checking whether make sets $(MAKE)... (cached) yes
+checking for tr... /usr/bin/tr
+checking if srcdir= and time commands work together... no
+checking if Java JNI interface enabled... no
+checking if building tests is disabled... Building HDF5 tests is disabled
+checking if building tools is disabled... Building HDF5 tools is disabled
+checking how to print strings... printf
+checking for a sed that does not truncate output... /usr/bin/sed
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking for fgrep... /usr/bin/grep -F
+checking for ld used by gcc... /usr/bin/ld
+checking if the linker (/usr/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/bin/nm -B
+checking the name lister (/usr/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 1572864
+checking how to convert x86_64-pc-linux-gnu file names to x86_64-pc-linux-gnu format... func_convert_file_noop
+checking how to convert x86_64-pc-linux-gnu file names to toolchain format... func_convert_file_noop
+checking for /usr/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for archiver @FILE support... @
+checking for strip... strip
+checking for ranlib... ranlib
+checking command to parse /usr/bin/nm -B output from gcc object... ok
+checking for sysroot... no
+checking for a working dd... /usr/bin/dd
+checking how to truncate binary pipes... /usr/bin/dd bs=4096 count=1
+checking for mt... no
+checking if : is a manifest tool... no
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if gcc supports -fno-rtti -fno-exceptions... yes
+checking for gcc option to produce PIC... -fPIC -DPIC
+checking if gcc PIC flag -fPIC -DPIC works... yes
+checking if gcc static flag -static works... yes
+checking if gcc supports -c -o file.o... yes
+checking if gcc supports -c -o file.o... (cached) yes
+checking whether the gcc linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking for shl_load... no
+checking for shl_load in -ldld... no
+checking for dlopen... yes
+checking whether a program can dlopen itself... yes
+checking whether a statically linked program can dlopen itself... no
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... no
+checking whether to build static libraries... yes
+checking how to run the C++ preprocessor... g++ -std=gnu++17 -E
+checking for ld used by g++ -std=gnu++17... /usr/bin/ld -m elf_x86_64
+checking if the linker (/usr/bin/ld -m elf_x86_64) is GNU ld... yes
+checking whether the g++ -std=gnu++17 linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking for g++ -std=gnu++17 option to produce PIC... -fPIC -DPIC
+checking if g++ -std=gnu++17 PIC flag -fPIC -DPIC works... yes
+checking if g++ -std=gnu++17 static flag -static works... yes
+checking if g++ -std=gnu++17 supports -c -o file.o... yes
+checking if g++ -std=gnu++17 supports -c -o file.o... (cached) yes
+checking whether the g++ -std=gnu++17 linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking dynamic linker characteristics... (cached) GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking if we should install only statically linked executables... no
+checking if -Wl,-rpath should be used to link shared libs in nondefault directories... yes
+checking for ceil in -lm... yes
+checking for dlopen in -ldl... yes
+checking for egrep... (cached) /usr/bin/grep -E
+checking for sys/resource.h... yes
+checking for sys/time.h... (cached) yes
+checking for unistd.h... (cached) yes
+checking for sys/ioctl.h... yes
+checking for sys/stat.h... (cached) yes
+checking for sys/socket.h... yes
+checking for sys/types.h... (cached) yes
+checking for sys/file.h... yes
+checking for stddef.h... yes
+checking for setjmp.h... yes
+checking for features.h... yes
+checking for dirent.h... yes
+checking for stdint.h... (cached) yes
+checking for stdbool.h... yes
+checking for netdb.h... yes
+checking for netinet/in.h... yes
+checking for arpa/inet.h... yes
+checking for io.h... no
+checking for winsock2.h... no
+checking for sys/timeb.h... yes
+checking for _FILE_OFFSET_BITS value needed for large files... no
+checking size of int8_t... 1
+checking size of uint8_t... 1
+checking size of int_least8_t... 1
+checking size of uint_least8_t... 1
+checking size of int_fast8_t... 1
+checking size of uint_fast8_t... 1
+checking size of int16_t... 2
+checking size of uint16_t... 2
+checking size of int_least16_t... 2
+checking size of uint_least16_t... 2
+checking size of int_fast16_t... 8
+checking size of uint_fast16_t... 8
+checking size of int32_t... 4
+checking size of uint32_t... 4
+checking size of int_least32_t... 4
+checking size of uint_least32_t... 4
+checking size of int_fast32_t... 8
+checking size of uint_fast32_t... 8
+checking size of int64_t... 8
+checking size of uint64_t... 8
+checking size of int_least64_t... 8
+checking size of uint_least64_t... 8
+checking size of int_fast64_t... 8
+checking size of uint_fast64_t... 8
+checking size of size_t... 8
+checking size of ssize_t... 8
+checking size of ptrdiff_t... 8
+checking size of off_t... 8
+checking size of bool... 1
+checking size of time_t... 8
+checking if dev_t is scalar... yes
+checking for dmalloc library... suppressed
+checking for zlib.h... yes
+checking for compress2 in -lz... yes
+checking for compress2... yes
+checking for szlib.h... yes
+checking for libaec.h... yes
+checking for aec_encode in -laec... yes
+checking for SZ_BufftoBuffCompress in -lsz... yes
+checking for szlib encoder... yes
+checking for thread safe support... no
+checking for gcc options needed to detect all undeclared functions... none needed
+checking whether CLOCK_MONOTONIC is declared... yes
+checking for tm_gmtoff in struct tm... yes
+checking for global timezone variable... yes
+checking for st_blocks in struct stat... no
+checking for _getvideoconfig... no
+checking for gettextinfo... no
+checking for GetConsoleScreenBufferInfo... no
+checking for getpwuid... yes
+checking for _scrsize... no
+checking for ioctl... yes
+checking for struct videoconfig... no
+checking for struct text_info... no
+checking for TIOCGWINSZ... yes
+checking for TIOCGETD... yes
+checking for library containing clock_gettime... none required
+checking for alarm... yes
+checking for clock_gettime... yes
+checking for difftime... yes
+checking for fcntl... yes
+checking for flock... yes
+checking for fork... yes
+checking for frexpf... yes
+checking for frexpl... yes
+checking for gethostname... yes
+checking for getrusage... yes
+checking for gettimeofday... yes
+checking for lstat... yes
+checking for rand_r... yes
+checking for random... yes
+checking for setsysinfo... no
+checking for signal... yes
+checking for longjmp... yes
+checking for setjmp... yes
+checking for siglongjmp... yes
+checking for sigsetjmp... no
+checking for sigprocmask... yes
+checking for snprintf... yes
+checking for srandom... yes
+checking for strdup... yes
+checking for symlink... yes
+checking for system... yes
+checking for strtoll... yes
+checking for strtoull... yes
+checking for tmpfile... yes
+checking for asprintf... yes
+checking for vasprintf... yes
+checking for vsnprintf... yes
+checking for waitpid... yes
+checking for roundf... yes
+checking for lroundf... yes
+checking for llroundf... yes
+checking for round... yes
+checking for lround... yes
+checking for llround... yes
+checking for an ANSI C-conforming const... yes
+checking if the compiler understands  __inline__... yes
+checking if the compiler understands __inline... yes
+checking if the compiler understands inline... yes
+checking for __attribute__ extension... yes
+checking for __func__ extension... yes
+checking for __FUNCTION__ extension... yes
+checking for C99 designated initialization support... yes
+checking how to print long long... %ld and %lu
+checking enable debugging symbols... no
+checking enable asserts... no
+checking enable developer warnings... no
+checking profiling... no
+checking optimization level... high
+checking enable file locking... best-effort
+checking for internal debug output... none
+checking whether function stack tracking is enabled... no
+checking for API tracing... no
+checking whether a memory checking tool will be used... no
+checking whether internal memory allocation sanity checking is used... no
+checking for parallel support files... skipped
+checking whether O_DIRECT is declared... yes
+checking for posix_memalign... yes
+checking if the direct I/O virtual file driver (VFD) is enabled... no
+checking if the Mirror virtual file driver (VFD) is enabled... no
+checking for curl/curl.h... yes
+checking for openssl/evp.h... yes
+checking for openssl/hmac.h... yes
+checking for openssl/sha.h... yes
+checking for curl_global_init in -lcurl... yes
+checking for EVP_sha256 in -lcrypto... yes
+checking if the Read-Only S3 virtual file driver (VFD) is enabled... yes
+checking for libhdfs... suppressed
+checking for custom examples path definition... ${prefix}/share/hdf5_examples
+checking for custom plugin default path definition... /usr/local/hdf5/lib/plugin
+checking whether exception handling functions is checked during data conversions... yes
+checking whether data accuracy is guaranteed during data conversions... yes
+checking if the machine has window style path name... no
+checking if using special algorithm to convert long double to (unsigned) long values... no
+checking if using special algorithm to convert (unsigned) long to long double values... no
+checking if correctly converting long double to (unsigned) long long values... yes
+checking if correctly converting (unsigned) long long to long double values... yes
+checking if the system is IBM ppc64le and cannot correctly convert some long double values... no
+checking additional programs should be built... no
+checking if deprecated public symbols are available... yes
+checking which version of public symbols to use by default... v110
+checking whether to perform strict file format checks... no
+checking for pread... yes
+checking for pwrite... yes
+checking whether to use pread/pwrite instead of read/write in certain VFDs... yes
+checking whether to have library information embedded in the executables... yes
+checking if alignment restrictions are strictly enforced... no
+configure: creating ./config.lt
+config.lt: creating libtool
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating src/libhdf5.settings
+config.status: creating Makefile
+config.status: creating src/Makefile
+config.status: creating utils/Makefile
+config.status: creating utils/mirror_vfd/Makefile
+config.status: creating bin/h5cc
+config.status: creating bin/Makefile
+config.status: creating c++/Makefile
+config.status: creating c++/src/Makefile
+config.status: creating c++/src/h5c++
+config.status: creating hl/Makefile
+config.status: creating hl/src/Makefile
+config.status: creating hl/c++/Makefile
+config.status: creating hl/c++/src/Makefile
+config.status: creating src/H5config.h
+config.status: executing pubconf commands
+creating src/H5pubconf.h
+Post process src/libhdf5.settings
+config.status: executing depfiles commands
+config.status: executing libtool commands
+config.status: executing .classes commands
+	    SUMMARY OF THE HDF5 CONFIGURATION
+	    =================================
+
+General Information:
+-------------------
+                   HDF5 Version: 1.10.7
+                  Configured on: Fri Feb 28 18:11:09 UTC 2025
+                  Configured by: root@bioc-build-ancombc-2025-02-28-13-08-23-g67wn
+                    Host system: x86_64-pc-linux-gnu
+              Uname information: Linux bioc-build-ancombc-2025-02-28-13-08-23-g67wn 5.15.0-130-generic #140~20.04.1-Ubuntu SMP Wed Dec 18 21:35:34 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
+                       Byte sex: little-endian
+             Installation point: /tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hdf5
+
+Compiling Options:
+------------------
+                     Build Mode: production
+              Debugging Symbols: no
+                        Asserts: no
+                      Profiling: no
+             Optimization Level: high
+
+Linking Options:
+----------------
+                      Libraries: static
+  Statically Linked Executables: 
+                        LDFLAGS: -L/usr/local/lib
+                     H5_LDFLAGS: 
+                     AM_LDFLAGS: 
+                Extra libraries: -lcrypto -lcurl -lsz -laec -lz -ldl -lm 
+                       Archiver: ar
+                       AR_FLAGS: cr
+                         Ranlib: ranlib
+
+Languages:
+----------
+                              C: yes
+                     C Compiler: /usr/bin/gcc
+                       CPPFLAGS: -I/usr/local/include
+                    H5_CPPFLAGS: -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L   -DNDEBUG -UH5_DEBUG_API
+                    AM_CPPFLAGS: 
+                        C Flags: -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -w -fpic
+                     H5 C Flags:  -std=c99  -Wno-c++-compat -Wno-format-nonliteral -Wshadow -Wundef -Wwrite-strings -Wlarger-than=2560 -Wlogical-op -Wframe-larger-than=16384 -Wpacked-bitfield-compat -Wsync-nand -Wdouble-promotion -Wtrampolines -Wstack-usage=8192 -Wmaybe-uninitialized -Wdate-time -Warray-bounds=2 -Wc99-c11-compat -Wduplicated-cond -Whsa -Wnormalized -Wunused-const-variable -Walloca -Walloc-zero -Wduplicated-branches -Wimplicit-fallthrough=5 -Wrestrict -Wattribute-alias -Wshift-overflow=2 -Wattribute-alias=2 -Wmissing-profile -fstdarg-opt -s -Wno-aggregate-return -Wno-inline -Wno-missing-format-attribute -Wno-missing-noreturn -Wno-overlength-strings -Wno-jump-misses-init -Wno-suggest-attribute=const -Wno-suggest-attribute=noreturn -Wno-suggest-attribute=pure -Wno-suggest-attribute=format -Wno-suggest-attribute=cold -Wno-suggest-attribute=malloc -O3  -Werror=bad-function-cast -Werror=declaration-after-statement -Werror=implicit-function-declaration -Werror=missing-declarations -Werror=missing-prototypes -Werror=nested-externs -Werror=old-style-definition -Werror=packed -Werror=pointer-sign -Werror=pointer-to-int-cast -Werror=redundant-decls -Werror=strict-prototypes -Werror=switch -Wunused-function -Wformat -Werror=incompatible-pointer-types -Werror=shadow -Wcast-function-type -Wmaybe-uninitialized
+                     AM C Flags: 
+               Shared C Library: no
+               Static C Library: yes
+
+
+                        Fortran: no
+
+                            C++: yes
+                   C++ Compiler: /usr/bin/g++ -std=gnu++17
+                      C++ Flags: -w -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic
+                   H5 C++ Flags:   -Wall -Wconversion -Wctor-dtor-privacy -Wextra -Wfloat-equal -Wformat=2 -Winit-self -Winvalid-pch -Wmissing-include-dirs -Wno-format-nonliteral -Wnon-virtual-dtor -Woverloaded-virtual -Wreorder -Wshadow -Wsign-promo -Wundef -Wwrite-strings -pedantic -Wlarger-than=2560 -Wlogical-op -Wframe-larger-than=16384 -Wpacked-bitfield-compat -Wsync-nand -Wdouble-promotion -Wtrampolines -Wstack-usage=8192 -Wmaybe-uninitialized -Wdate-time -Wopenmp-simd -Warray-bounds=2 -Wduplicated-cond -Whsa -Wnormalized -Wunused-const-variable -Walloca -Walloc-zero -Wduplicated-branches -Wimplicit-fallthrough=5 -Wrestrict -Wattribute-alias -Wshift-overflow=2 -Wattribute-alias=2 -Wmissing-profile -fstdarg-opt -s -O3  -Wcast-align -Wmissing-declarations -Werror=packed -Werror=redundant-decls -Werror=switch -Wunused-but-set-variable -Werror=unused-function -Werror=unused-variable -Wunused-parameter -Werror=shadow
+                   AM C++ Flags: 
+             Shared C++ Library: no
+             Static C++ Library: yes
+
+                           Java: no
+
+
+Features:
+---------
+                   Parallel HDF5: no
+Parallel Filtered Dataset Writes: no
+              Large Parallel I/O: no
+              High-level library: yes
+                Build HDF5 Tests: no
+                Build HDF5 Tools: no
+                    Threadsafety: no
+             Default API mapping: v110
+  With deprecated public symbols: yes
+          I/O filters (external): deflate(zlib),szip(encoder)
+                             MPE: no
+                      Direct VFD: no
+                      Mirror VFD: no
+              (Read-Only) S3 VFD: yes
+            (Read-Only) HDFS VFD: no
+                         dmalloc: no
+  Packages w/ extra debug output: none
+                     API tracing: no
+            Using memory checker: no
+ Memory allocation sanity checks: no
+          Function stack tracing: no
+                Use file locking: best-effort
+       Strict file format checks: no
+    Optimization instrumentation: no
+make[1]: Entering directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5'
+for d in src . c++ hl; do                                \
+  if test $d != .; then                                        \
+   (cd $d && make  lib) || exit 1;            \
+  fi;                                                           \
+done
+make[2]: Entering directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/src'
+make[3]: Entering directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/src'
+  CC       H5.lo
+  CC       H5checksum.lo
+  CC       H5dbg.lo
+  CC       H5system.lo
+  CC       H5timer.lo
+  CC       H5trace.lo
+  CC       H5A.lo
+  CC       H5Abtree2.lo
+  CC       H5Adense.lo
+  CC       H5Adeprec.lo
+  CC       H5Aint.lo
+  CC       H5Atest.lo
+  CC       H5AC.lo
+  CC       H5ACdbg.lo
+  CC       H5ACproxy_entry.lo
+  CC       H5B.lo
+  CC       H5Bcache.lo
+  CC       H5Bdbg.lo
+  CC       H5B2.lo
+  CC       H5B2cache.lo
+  CC       H5B2dbg.lo
+  CC       H5B2hdr.lo
+  CC       H5B2int.lo
+  CC       H5B2internal.lo
+  CC       H5B2leaf.lo
+  CC       H5B2stat.lo
+  CC       H5B2test.lo
+  CC       H5C.lo
+  CC       H5Cdbg.lo
+  CC       H5Cepoch.lo
+  CC       H5Cimage.lo
+  CC       H5Clog.lo
+  CC       H5Clog_json.lo
+  CC       H5Clog_trace.lo
+  CC       H5Cprefetched.lo
+  CC       H5Cquery.lo
+  CC       H5Ctag.lo
+  CC       H5Ctest.lo
+  CC       H5CS.lo
+  CC       H5CX.lo
+  CC       H5D.lo
+  CC       H5Dbtree.lo
+  CC       H5Dbtree2.lo
+  CC       H5Dchunk.lo
+  CC       H5Dcompact.lo
+  CC       H5Dcontig.lo
+  CC       H5Ddbg.lo
+  CC       H5Ddeprec.lo
+  CC       H5Dearray.lo
+  CC       H5Defl.lo
+  CC       H5Dfarray.lo
+  CC       H5Dfill.lo
+  CC       H5Dint.lo
+  CC       H5Dio.lo
+  CC       H5Dlayout.lo
+  CC       H5Dnone.lo
+  CC       H5Doh.lo
+  CC       H5Dscatgath.lo
+  CC       H5Dselect.lo
+  CC       H5Dsingle.lo
+  CC       H5Dtest.lo
+  CC       H5Dvirtual.lo
+  CC       H5E.lo
+  CC       H5Edeprec.lo
+  CC       H5Eint.lo
+  CC       H5EA.lo
+  CC       H5EAcache.lo
+  CC       H5EAdbg.lo
+  CC       H5EAdblkpage.lo
+  CC       H5EAdblock.lo
+  CC       H5EAhdr.lo
+  CC       H5EAiblock.lo
+  CC       H5EAint.lo
+  CC       H5EAsblock.lo
+  CC       H5EAstat.lo
+  CC       H5EAtest.lo
+  CC       H5F.lo
+  CC       H5Faccum.lo
+  CC       H5Fcwfs.lo
+  CC       H5Fdbg.lo
+  CC       H5Fdeprec.lo
+  CC       H5Fefc.lo
+  CC       H5Ffake.lo
+  CC       H5Fint.lo
+  CC       H5Fio.lo
+  CC       H5Fmount.lo
+  CC       H5Fquery.lo
+  CC       H5Fsfile.lo
+  CC       H5Fspace.lo
+  CC       H5Fsuper.lo
+  CC       H5Fsuper_cache.lo
+  CC       H5Ftest.lo
+  CC       H5FA.lo
+  CC       H5FAcache.lo
+  CC       H5FAdbg.lo
+  CC       H5FAdblock.lo
+  CC       H5FAdblkpage.lo
+  CC       H5FAhdr.lo
+  CC       H5FAint.lo
+  CC       H5FAstat.lo
+  CC       H5FAtest.lo
+  CC       H5FD.lo
+  CC       H5FDcore.lo
+  CC       H5FDfamily.lo
+  CC       H5FDhdfs.lo
+  CC       H5FDint.lo
+  CC       H5FDlog.lo
+  CC       H5FDmulti.lo
+  CC       H5FDsec2.lo
+  CC       H5FDspace.lo
+  CC       H5FDsplitter.lo
+  CC       H5FDstdio.lo
+  CC       H5FDtest.lo
+  CC       H5FL.lo
+  CC       H5FO.lo
+  CC       H5FS.lo
+  CC       H5FScache.lo
+  CC       H5FSdbg.lo
+  CC       H5FSint.lo
+  CC       H5FSsection.lo
+  CC       H5FSstat.lo
+  CC       H5FStest.lo
+  CC       H5G.lo
+  CC       H5Gbtree2.lo
+  CC       H5Gcache.lo
+  CC       H5Gcompact.lo
+  CC       H5Gdense.lo
+  CC       H5Gdeprec.lo
+  CC       H5Gent.lo
+  CC       H5Gint.lo
+  CC       H5Glink.lo
+  CC       H5Gloc.lo
+  CC       H5Gname.lo
+  CC       H5Gnode.lo
+  CC       H5Gobj.lo
+  CC       H5Goh.lo
+  CC       H5Groot.lo
+  CC       H5Gstab.lo
+  CC       H5Gtest.lo
+  CC       H5Gtraverse.lo
+  CC       H5HF.lo
+  CC       H5HFbtree2.lo
+  CC       H5HFcache.lo
+  CC       H5HFdbg.lo
+  CC       H5HFdblock.lo
+  CC       H5HFdtable.lo
+  CC       H5HFhdr.lo
+  CC       H5HFhuge.lo
+  CC       H5HFiblock.lo
+  CC       H5HFiter.lo
+  CC       H5HFman.lo
+  CC       H5HFsection.lo
+  CC       H5HFspace.lo
+  CC       H5HFstat.lo
+  CC       H5HFtest.lo
+  CC       H5HFtiny.lo
+  CC       H5HG.lo
+  CC       H5HGcache.lo
+  CC       H5HGdbg.lo
+  CC       H5HGquery.lo
+  CC       H5HL.lo
+  CC       H5HLcache.lo
+  CC       H5HLdbg.lo
+  CC       H5HLint.lo
+  CC       H5HLprfx.lo
+  CC       H5HLdblk.lo
+  CC       H5HP.lo
+  CC       H5I.lo
+  CC       H5Itest.lo
+  CC       H5L.lo
+  CC       H5Lexternal.lo
+  CC       H5make_libsettings.o
+  CCLD     H5make_libsettings
+LD_LIBRARY_PATH="$LD_LIBRARY_PATH`echo -L/usr/local/lib |                  \
+	sed -e 's/-L/:/g' -e 's/ //g'`"                               \
+ ./H5make_libsettings > H5lib_settings.c  ||                               \
+    (test $HDF5_Make_Ignore && echo "*** Error ignored") ||          \
+    (rm -f H5lib_settings.c ; exit 1)
+  CC       H5lib_settings.lo
+  CC       H5MF.lo
+  CC       H5MFaggr.lo
+  CC       H5MFdbg.lo
+  CC       H5MFsection.lo
+  CC       H5MM.lo
+  CC       H5MP.lo
+  CC       H5MPtest.lo
+  CC       H5O.lo
+  CC       H5Odeprec.lo
+  CC       H5Oainfo.lo
+  CC       H5Oalloc.lo
+  CC       H5Oattr.lo
+  CC       H5Oattribute.lo
+  CC       H5Obogus.lo
+  CC       H5Obtreek.lo
+  CC       H5Ocache.lo
+  CC       H5Ocache_image.lo
+  CC       H5Ochunk.lo
+  CC       H5Ocont.lo
+  CC       H5Ocopy.lo
+  CC       H5Odbg.lo
+  CC       H5Odrvinfo.lo
+  CC       H5Odtype.lo
+  CC       H5Oefl.lo
+  CC       H5Ofill.lo
+  CC       H5Oflush.lo
+  CC       H5Ofsinfo.lo
+  CC       H5Oginfo.lo
+  CC       H5Oint.lo
+  CC       H5Olayout.lo
+  CC       H5Olinfo.lo
+  CC       H5Olink.lo
+  CC       H5Omessage.lo
+  CC       H5Omtime.lo
+  CC       H5Oname.lo
+  CC       H5Onull.lo
+  CC       H5Opline.lo
+  CC       H5Orefcount.lo
+  CC       H5Osdspace.lo
+  CC       H5Oshared.lo
+  CC       H5Oshmesg.lo
+  CC       H5Ostab.lo
+  CC       H5Otest.lo
+  CC       H5Ounknown.lo
+  CC       H5P.lo
+  CC       H5Pacpl.lo
+  CC       H5Pdapl.lo
+  CC       H5Pdcpl.lo
+  CC       H5Pdeprec.lo
+  CC       H5Pdxpl.lo
+  CC       H5Pencdec.lo
+  CC       H5Pfapl.lo
+  CC       H5Pfcpl.lo
+  CC       H5Pfmpl.lo
+  CC       H5Pgcpl.lo
+  CC       H5Pint.lo
+  CC       H5Plapl.lo
+  CC       H5Plcpl.lo
+  CC       H5Pocpl.lo
+  CC       H5Pocpypl.lo
+  CC       H5Pstrcpl.lo
+  CC       H5Ptest.lo
+  CC       H5PB.lo
+  CC       H5PL.lo
+  CC       H5PLint.lo
+  CC       H5PLpath.lo
+  CC       H5PLplugin_cache.lo
+  CC       H5R.lo
+  CC       H5Rint.lo
+  CC       H5Rdeprec.lo
+  CC       H5UC.lo
+  CC       H5RS.lo
+  CC       H5S.lo
+  CC       H5Sall.lo
+  CC       H5Sdbg.lo
+  CC       H5Shyper.lo
+  CC       H5Snone.lo
+  CC       H5Spoint.lo
+  CC       H5Sselect.lo
+  CC       H5Stest.lo
+  CC       H5SL.lo
+  CC       H5SM.lo
+  CC       H5SMbtree2.lo
+  CC       H5SMcache.lo
+  CC       H5SMmessage.lo
+  CC       H5SMtest.lo
+  CC       H5ST.lo
+  CC       H5T.lo
+  CC       H5Tarray.lo
+  CC       H5Tbit.lo
+  CC       H5Tcommit.lo
+  CC       H5Tcompound.lo
+  CC       H5Tconv.lo
+  CC       H5Tcset.lo
+  CC       H5Tdbg.lo
+  CC       H5Tdeprec.lo
+  CC       H5Tenum.lo
+  CC       H5Tfields.lo
+  CC       H5Tfixed.lo
+  CC       H5Tfloat.lo
+  CC       H5detect.o
+  CCLD     H5detect
+LD_LIBRARY_PATH="$LD_LIBRARY_PATH`echo -L/usr/local/lib |                  \
+	sed -e 's/-L/:/g' -e 's/ //g'`"                               \
+ ./H5detect > H5Tinit.c  ||                               \
+    (test $HDF5_Make_Ignore && echo "*** Error ignored") ||          \
+    (rm -f H5Tinit.c ; exit 1)
+  CC       H5Tinit.lo
+  CC       H5Tnative.lo
+  CC       H5Toffset.lo
+  CC       H5Toh.lo
+  CC       H5Topaque.lo
+  CC       H5Torder.lo
+  CC       H5Tpad.lo
+  CC       H5Tprecis.lo
+  CC       H5Tstrpad.lo
+  CC       H5Tvisit.lo
+  CC       H5Tvlen.lo
+  CC       H5TS.lo
+  CC       H5VM.lo
+  CC       H5WB.lo
+  CC       H5Z.lo
+  CC       H5Zdeflate.lo
+  CC       H5Zfletcher32.lo
+  CC       H5Znbit.lo
+  CC       H5Zshuffle.lo
+  CC       H5Zscaleoffset.lo
+  CC       H5Zszip.lo
+  CC       H5Ztrans.lo
+  CC       H5FDros3.lo
+  CC       H5FDs3comms.lo
+  CCLD     libhdf5.la
+make[3]: Leaving directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/src'
+make[2]: Leaving directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/src'
+make[2]: Entering directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/c++'
+make[3]: Entering directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/c++'
+make[3]: Nothing to be done for 'build-lib'.
+make[3]: Leaving directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/c++'
++ cd src
++ make lib
+make[3]: Entering directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/c++/src'
+make[4]: Entering directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/c++/src'
+  CXX      H5Exception.lo
+  CXX      H5IdComponent.lo
+  CXX      H5DataSpace.lo
+  CXX      H5PropList.lo
+  CXX      H5Library.lo
+  CXX      H5FaccProp.lo
+  CXX      H5FcreatProp.lo
+  CXX      H5LcreatProp.lo
+  CXX      H5LaccProp.lo
+  CXX      H5DaccProp.lo
+  CXX      H5DxferProp.lo
+  CXX      H5DcreatProp.lo
+  CXX      H5Location.lo
+  CXX      H5AbstractDs.lo
+  CXX      H5Attribute.lo
+  CXX      H5Object.lo
+  CXX      H5OcreatProp.lo
+  CXX      H5DataType.lo
+  CXX      H5AtomType.lo
+  CXX      H5PredType.lo
+  CXX      H5EnumType.lo
+  CXX      H5IntType.lo
+  CXX      H5FloatType.lo
+  CXX      H5StrType.lo
+  CXX      H5ArrayType.lo
+  CXX      H5VarLenType.lo
+  CXX      H5CompType.lo
+  CXX      H5DataSet.lo
+  CXX      H5CommonFG.lo
+  CXX      H5Group.lo
+  CXX      H5File.lo
+  CXXLD    libhdf5_cpp.la
+make[4]: Leaving directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/c++/src'
+make[3]: Leaving directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/c++/src'
+make[2]: Leaving directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/c++'
+make[2]: Entering directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl'
+make[3]: Entering directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl'
+make[3]: Nothing to be done for 'build-lib'.
+make[3]: Leaving directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl'
++ cd src
++ make lib
+make[3]: Entering directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl/src'
+make[4]: Entering directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl/src'
+  CC       H5DO.lo
+  CC       H5DS.lo
+  CC       H5IM.lo
+  CC       H5LT.lo
+  CC       H5LTanalyze.lo
+  CC       H5LTparse.lo
+  CC       H5PT.lo
+  CC       H5TB.lo
+  CC       H5LD.lo
+  CCLD     libhdf5_hl.la
+make[4]: Leaving directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl/src'
+make[3]: Leaving directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl/src'
++ cd c++
++ make lib
+make[3]: Entering directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl/c++'
+make[4]: Entering directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl/c++'
+make[4]: Nothing to be done for 'build-lib'.
+make[4]: Leaving directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl/c++'
++ cd src
++ make lib
+make[4]: Entering directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl/c++/src'
+make[5]: Entering directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl/c++/src'
+  CXX      H5PacketTable.lo
+  CXXLD    libhdf5_hl_cpp.la
+make[5]: Leaving directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl/c++/src'
+make[4]: Leaving directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl/c++/src'
+make[3]: Leaving directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl/c++'
+make[2]: Leaving directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5/hl'
+make[1]: Leaving directory '/tmp/RtmpSfNvAz/R.INSTALL4b67cfecb38/Rhdf5lib/src/hdf5'
+mkdir -p "/mnt/library/00LOCK-Rhdf5lib/00new/Rhdf5lib/include"
+cp "hdf5/src"/*.h "/mnt/library/00LOCK-Rhdf5lib/00new/Rhdf5lib/include"
+cp "hdf5/c++/src"/*.h "/mnt/library/00LOCK-Rhdf5lib/00new/Rhdf5lib/include"
+cp "hdf5/hl/src"/*.h "/mnt/library/00LOCK-Rhdf5lib/00new/Rhdf5lib/include"
+cp "hdf5/hl/c++/src"/*.h "/mnt/library/00LOCK-Rhdf5lib/00new/Rhdf5lib/include"
+cp "hdf5/src"/libhdf5.settings "/mnt/library/00LOCK-Rhdf5lib/00new/Rhdf5lib/include"
+mkdir -p "/mnt/library/00LOCK-Rhdf5lib/00new/Rhdf5lib/lib/"
+cp "hdf5/src/.libs/libhdf5.a" "/mnt/library/00LOCK-Rhdf5lib/00new/Rhdf5lib/lib/"
+cp "hdf5/c++/src/.libs/libhdf5_cpp.a" "/mnt/library/00LOCK-Rhdf5lib/00new/Rhdf5lib/lib/"
+cp "hdf5/hl/src/.libs/libhdf5_hl.a" "/mnt/library/00LOCK-Rhdf5lib/00new/Rhdf5lib/lib/"
+cp "hdf5/hl/c++/src/.libs/libhdf5_hl_cpp.a" "/mnt/library/00LOCK-Rhdf5lib/00new/Rhdf5lib/lib/"
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I"/mnt/library/00LOCK-Rhdf5lib/00new/Rhdf5lib/include"   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rhdf5lib.c -o Rhdf5lib.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Rhdf5lib.so Rhdf5lib.o /mnt/library/00LOCK-Rhdf5lib/00new/Rhdf5lib/lib/libhdf5.a -lsz -laec -lz -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-Rhdf5lib/00new/Rhdf5lib/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Rhdf5lib’ as ‘Rhdf5lib_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rhdf5lib)
+* installing *binary* package ‘bit’ ...
+* ‘bit’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bit’ as ‘bit_4.5.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bit)
+* installing *binary* package ‘rootSolve’ ...
+* ‘rootSolve’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rootSolve’ as ‘rootSolve_1.8.2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rootSolve)
+* installing *binary* package ‘lmom’ ...
+* ‘lmom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lmom’ as ‘lmom_3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lmom)
+* installing *binary* package ‘isoband’ ...
+* ‘isoband’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘isoband’ as ‘isoband_0.2.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (isoband)
+* installing *binary* package ‘viridisLite’ ...
+* ‘viridisLite’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘viridisLite’ as ‘viridisLite_0.4.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (viridisLite)
+* installing *binary* package ‘zoo’ ...
+* ‘zoo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘zoo’ as ‘zoo_1.8-13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zoo)
+* installing *source* package ‘BiocBaseUtils’ ...
+** package ‘BiocBaseUtils’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocBaseUtils’ as ‘BiocBaseUtils_1.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocBaseUtils)
+* installing *binary* package ‘snow’ ...
+* ‘snow’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘snow’ as ‘snow_0.4-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (snow)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-BH’
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-assorthead’
+* installing *binary* package ‘DBI’ ...
+* ‘DBI’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DBI’ as ‘DBI_1.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DBI)
+* installing *binary* package ‘matrixStats’ ...
+* ‘matrixStats’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘matrixStats’ as ‘matrixStats_1.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (matrixStats)
+* installing *binary* package ‘lpSolve’ ...
+* ‘lpSolve’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lpSolve’ as ‘lpSolve_5.6.23_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lpSolve)
+* installing *binary* package ‘parallelly’ ...
+* ‘parallelly’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘parallelly’ as ‘parallelly_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (parallelly)
+* installing *binary* package ‘slam’ ...
+* ‘slam’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘slam’ as ‘slam_0.1-55_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (slam)
+* installing *binary* package ‘RColorBrewer’ ...
+* ‘RColorBrewer’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RColorBrewer’ as ‘RColorBrewer_1.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RColorBrewer)
+* installing *binary* package ‘permute’ ...
+* ‘permute’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘permute’ as ‘permute_0.9-7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (permute)
+* installing *binary* package ‘lazyeval’ ...
+* ‘lazyeval’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lazyeval’ as ‘lazyeval_0.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lazyeval)
+* installing *source* package ‘GenomeInfoDbData’ ...
+** using staged installation
+** data
+** inst
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GenomeInfoDbData’ as ‘GenomeInfoDbData_1.2.13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GenomeInfoDbData)
+* installing *binary* package ‘abind’ ...
+* ‘abind’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘abind’ as ‘abind_1.4-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (abind)
+* installing *binary* package ‘yulab.utils’ ...
+* ‘yulab.utils’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘yulab.utils’ as ‘yulab.utils_0.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (yulab.utils)
+* installing *binary* package ‘tensorA’ ...
+* ‘tensorA’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tensorA’ as ‘tensorA_0.36.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tensorA)
+* installing *binary* package ‘farver’ ...
+* ‘farver’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘farver’ as ‘farver_2.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (farver)
+* installing *binary* package ‘labeling’ ...
+* ‘labeling’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘labeling’ as ‘labeling_0.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (labeling)
+* installing *binary* package ‘pixmap’ ...
+* ‘pixmap’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pixmap’ as ‘pixmap_0.4-13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pixmap)
+* installing *binary* package ‘sp’ ...
+* ‘sp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sp’ as ‘sp_2.2-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sp)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-RcppArmadillo’
+* installing *binary* package ‘backports’ ...
+* ‘backports’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘backports’ as ‘backports_1.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (backports)
+* installing *binary* package ‘blob’ ...
+* ‘blob’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘blob’ as ‘blob_1.2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (blob)
+* installing *binary* package ‘uuid’ ...
+* ‘uuid’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘uuid’ as ‘uuid_1.2-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (uuid)
+* installing *binary* package ‘rematch2’ ...
+* ‘rematch2’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rematch2’ as ‘rematch2_2.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rematch2)
+* installing *binary* package ‘timechange’ ...
+* ‘timechange’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘timechange’ as ‘timechange_0.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (timechange)
+* installing *binary* package ‘tzdb’ ...
+* ‘tzdb’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tzdb’ as ‘tzdb_0.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tzdb)
+* installing *binary* package ‘selectr’ ...
+* ‘selectr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘selectr’ as ‘selectr_0.4-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (selectr)
+* installing *binary* package ‘gmp’ ...
+* ‘gmp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gmp’ as ‘gmp_0.7-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gmp)
+* installing *binary* package ‘ECOSolveR’ ...
+* ‘ECOSolveR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ECOSolveR’ as ‘ECOSolveR_0.5.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ECOSolveR)
+* installing *binary* package ‘scs’ ...
+* ‘scs’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘scs’ as ‘scs_3.2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scs)
+* installing *binary* package ‘osqp’ ...
+* ‘osqp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘osqp’ as ‘osqp_0.6.3.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (osqp)
+* installing *binary* package ‘RcppEigen’ ...
+* ‘RcppEigen’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RcppEigen’ as ‘RcppEigen_0.3.4.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcppEigen)
+* installing *binary* package ‘mvtnorm’ ...
+* ‘mvtnorm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mvtnorm’ as ‘mvtnorm_1.3-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mvtnorm)
+* installing *binary* package ‘expm’ ...
+* ‘expm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘expm’ as ‘expm_1.0-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (expm)
+* installing *binary* package ‘data.table’ ...
+* ‘data.table’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘data.table’ as ‘data.table_1.17.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (data.table)
+* installing *binary* package ‘httr’ ...
+* ‘httr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘httr’ as ‘httr_1.4.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (httr)
+* installing *binary* package ‘gtable’ ...
+* ‘gtable’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gtable’ as ‘gtable_0.3.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gtable)
+* installing *binary* package ‘colorspace’ ...
+* ‘colorspace’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘colorspace’ as ‘colorspace_2.1-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (colorspace)
+* installing *binary* package ‘Formula’ ...
+* ‘Formula’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Formula’ as ‘Formula_1.2-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Formula)
+* installing *binary* package ‘rbibutils’ ...
+* ‘rbibutils’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rbibutils’ as ‘rbibutils_2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rbibutils)
+* installing *binary* package ‘iterators’ ...
+* ‘iterators’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘iterators’ as ‘iterators_1.0.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iterators)
+* installing *binary* package ‘rngtools’ ...
+* ‘rngtools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rngtools’ as ‘rngtools_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rngtools)
+* installing *binary* package ‘gsl’ ...
+* ‘gsl’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gsl’ as ‘gsl_2.1-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gsl)
+* installing *binary* package ‘minqa’ ...
+* ‘minqa’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘minqa’ as ‘minqa_1.2.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (minqa)
+* installing *binary* package ‘numDeriv’ ...
+* ‘numDeriv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘numDeriv’ as ‘numDeriv_2016.8-1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (numDeriv)
+* installing *binary* package ‘TH.data’ ...
+* ‘TH.data’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘TH.data’ as ‘TH.data_1.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TH.data)
+* installing *binary* package ‘ape’ ...
+* ‘ape’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ape’ as ‘ape_5.8-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ape)
+* installing *source* package ‘BiocGenerics’ ...
+** package ‘BiocGenerics’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘aperm’ in package ‘BiocGenerics’
+Creating a new generic function for ‘append’ in package ‘BiocGenerics’
+Creating a new generic function for ‘as.data.frame’ in package ‘BiocGenerics’
+Creating a new generic function for ‘cbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘do.call’ in package ‘BiocGenerics’
+Creating a new generic function for ‘duplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘anyDuplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘eval’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Reduce’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Filter’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Find’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Map’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Position’ in package ‘BiocGenerics’
+Creating a new generic function for ‘get’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mget’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grep’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grepl’ in package ‘BiocGenerics’
+Creating a new generic function for ‘is.unsorted’ in package ‘BiocGenerics’
+Creating a new generic function for ‘lapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘match’ in package ‘BiocGenerics’
+Creating a new generic function for ‘order’ in package ‘BiocGenerics’
+Creating a new generic function for ‘paste’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rank’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rownames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘colnames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘saveRDS’ in package ‘BiocGenerics’
+Creating a new generic function for ‘union’ in package ‘BiocGenerics’
+Creating a new generic function for ‘intersect’ in package ‘BiocGenerics’
+Creating a new generic function for ‘setdiff’ in package ‘BiocGenerics’
+Creating a new generic function for ‘table’ in package ‘BiocGenerics’
+Creating a new generic function for ‘tapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unique’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unsplit’ in package ‘BiocGenerics’
+Creating a new generic function for ‘var’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sd’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.min’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.max’ in package ‘BiocGenerics’
+Creating a new generic function for ‘IQR’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mad’ in package ‘BiocGenerics’
+Creating a new generic function for ‘xtabs’ in package ‘BiocGenerics’
+Creating a new generic function for ‘basename’ in package ‘BiocGenerics’
+Creating a new generic function for ‘dirname’ in package ‘BiocGenerics’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocGenerics’ as ‘BiocGenerics_0.52.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocGenerics)
+* installing *binary* package ‘generics’ ...
+* ‘generics’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘generics’ as ‘generics_0.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (generics)
+* installing *binary* package ‘tidyselect’ ...
+* ‘tidyselect’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidyselect’ as ‘tidyselect_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyselect)
+* installing *binary* package ‘Rtsne’ ...
+* ‘Rtsne’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Rtsne’ as ‘Rtsne_0.17_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rtsne)
+* installing *binary* package ‘igraph’ ...
+* ‘igraph’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘igraph’ as ‘igraph_2.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (igraph)
+* installing *binary* package ‘plyr’ ...
+* ‘plyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘plyr’ as ‘plyr_1.8.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (plyr)
+* installing *binary* package ‘conflicted’ ...
+* ‘conflicted’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘conflicted’ as ‘conflicted_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (conflicted)
+* installing *binary* package ‘forcats’ ...
+* ‘forcats’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘forcats’ as ‘forcats_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (forcats)
+* installing *binary* package ‘hms’ ...
+* ‘hms’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘hms’ as ‘hms_1.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hms)
+* installing *binary* package ‘reprex’ ...
+* ‘reprex’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘reprex’ as ‘reprex_2.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (reprex)
+* installing *binary* package ‘gtools’ ...
+* ‘gtools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gtools’ as ‘gtools_3.9.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gtools)
+* installing *binary* package ‘nloptr’ ...
+* ‘nloptr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘nloptr’ as ‘nloptr_2.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (nloptr)
+* installing *binary* package ‘lambda.r’ ...
+* ‘lambda.r’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lambda.r’ as ‘lambda.r_1.2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lambda.r)
+* installing *binary* package ‘gridtext’ ...
+* ‘gridtext’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gridtext’ as ‘gridtext_0.1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gridtext)
+* installing *binary* package ‘RSpectra’ ...
+* ‘RSpectra’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RSpectra’ as ‘RSpectra_0.16-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RSpectra)
+* installing *binary* package ‘dqrng’ ...
+* ‘dqrng’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dqrng’ as ‘dqrng_0.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dqrng)
+* installing *source* package ‘rhdf5filters’ ...
+** package ‘rhdf5filters’ successfully unpacked and MD5 sums checked
+** using staged installation
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether the compiler supports GNU C... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to enable C11 features... none needed
+configure: is NOT Bioc build machine
+configure: configuring BZIP2 filter...
+checking for stdio.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for strings.h... yes
+checking for sys/stat.h... yes
+checking for sys/types.h... yes
+checking for unistd.h... yes
+checking for bzlib.h... yes
+checking for BZ2_bzDecompressInit in -lbz2... yes
+configure: Using system bzip2 library
+configure: configuring the Zstd filter...
+checking for zstd.h... yes
+checking for ZSTD_decompress in -lzstd... yes
+configure: Using system Zstd library
+configure: configuring the BLOSC filter...
+checking for blosc.h... yes
+checking for blosc_compress in -lblosc... yes
+configure: Using system BLOSC library
+configure: configuring the VBZ filter
+checking whether C compiler accepts -mavx... yes
+checking for x86 avx instruction support... yes
+configure: creating ./config.status
+config.status: creating src/bzip2/Makefile
+config.status: creating src/zstd/Makefile
+config.status: creating src/blosc/lib/blosc-1.20.1/Makefile
+config.status: creating src/blosc/Makefile
+config.status: creating src/vbz/Makefile
+config.status: creating src/vbz/vbz/Makefile
+config.status: creating src/vbz/third_party/streamvbyte/Makefile
+config.status: creating src/Makevars
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+make -C zstd
+make[1]: Entering directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/zstd'
+gcc -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -shared H5Zzstd.c -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" \
+ -lzstd -L/usr/local/lib -o libH5Zzstd.so
+make[1]: Leaving directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/zstd'
+make -C blosc
+make[1]: Entering directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/blosc'
+g++ -std=gnu++17 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -shared -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" H5Zblosc.cpp \
+-L/usr/local/lib  -lblosc -lzstd -lz -o libH5Zblosc.so 
+make[1]: Leaving directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/blosc'
+make -C bzip2
+make[1]: Entering directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/bzip2'
+gcc -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -shared H5Zbzip2.c -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" \
+ -lbz2 -L/usr/local/lib -o libH5Zbz2.so
+make[1]: Leaving directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/bzip2'
+make -C lzf
+make[1]: Entering directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/lzf'
+make -C lzf
+make[2]: Entering directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/lzf/lzf'
+gcc -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -c lzf_c.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -c lzf_d.c
+rm -f liblzf.a
+ar cq liblzf.a lzf_c.o lzf_d.o
+ranlib liblzf.a
+make[2]: Leaving directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/lzf/lzf'
+gcc -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -shared H5Zlzf.c -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" \
+-I./lzf/ ./lzf/liblzf.a -L/usr/local/lib -o libH5Zlzf.so
+make[1]: Leaving directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/lzf'
+make -C vbz
+make[1]: Entering directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/vbz'
+make -C third_party/streamvbyte
+make[2]: Entering directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/vbz/third_party/streamvbyte'
+gcc -std=gnu99  -fpic -Iinclude -c ./src/streamvbyte_decode.c
+gcc -std=gnu99  -fpic -Iinclude -c ./src/streamvbyte_encode.c
+gcc -std=gnu99  -fpic -Iinclude -c ./src/streamvbytedelta_decode.c
+gcc -std=gnu99  -fpic -Iinclude -c ./src/streamvbytedelta_encode.c
+gcc -std=gnu99  -fpic -Iinclude -c ./src/streamvbyte_0124_encode.c
+gcc -std=gnu99  -fpic -Iinclude -c ./src/streamvbyte_0124_decode.c
+gcc -std=gnu99  -fpic -Iinclude -c ./src/streamvbyte_zigzag.c
+rm -f libstreamvbyte.a
+ar cq libstreamvbyte.a streamvbyte_decode.o streamvbyte_encode.o streamvbytedelta_decode.o streamvbytedelta_encode.o streamvbyte_0124_encode.o  streamvbyte_0124_decode.o streamvbyte_zigzag.o
+ranlib libstreamvbyte.a 
+make[2]: Leaving directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/vbz/third_party/streamvbyte'
+make -C vbz
+make[2]: Entering directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/vbz/vbz'
+g++ -std=gnu++17 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" -I../third_party/streamvbyte/include/ -I../third_party/ -I../../zstd/ -mssse3 -c vbz.cpp -o vbz.o
+g++ -std=gnu++17 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" -I../third_party/streamvbyte/include/ -I../third_party/ -I../../zstd/ -mssse3 -c v0/vbz_streamvbyte.cpp -o v0/vbz_streamvbyte.o
+g++ -std=gnu++17 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" -I../third_party/streamvbyte/include/ -I../third_party/ -I../../zstd/ -mssse3 -c v1/vbz_streamvbyte.cpp -o v1/vbz_streamvbyte.o
+make[2]: Leaving directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/vbz/vbz'
+rm -f libvbz.a
+ar cq libvbz.a vbz/vbz.o vbz/v0/vbz_streamvbyte.o vbz/v1/vbz_streamvbyte.o
+ranlib libvbz.a
+g++ -std=gnu++17 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" -shared vbz_plugin.cpp \
+libvbz.a -L/usr/local/lib -lzstd third_party/streamvbyte/libstreamvbyte.a -o libH5Zvbz.so
+make[1]: Leaving directory '/tmp/RtmpAaV5Sv/R.INSTALL45a853a49d8c/rhdf5filters/src/vbz'
+mkdir -p "/mnt/library/00LOCK-rhdf5filters/00new/rhdf5filters/lib/"
+cp bzip2/libH5Zbz2.so blosc/libH5Zblosc.so lzf/libH5Zlzf.so zstd/libH5Zzstd.so vbz/libH5Zvbz.so "/mnt/library/00LOCK-rhdf5filters/00new/rhdf5filters/lib/"
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include   -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rhdf5filters.c -o rhdf5filters.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o rhdf5filters.so rhdf5filters.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-rhdf5filters/00new/rhdf5filters/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rhdf5filters’ as ‘rhdf5filters_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rhdf5filters)
+* installing *binary* package ‘e1071’ ...
+* ‘e1071’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘e1071’ as ‘e1071_1.7-16_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (e1071)
+* installing *binary* package ‘cellranger’ ...
+* ‘cellranger’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘cellranger’ as ‘cellranger_1.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cellranger)
+* installing *binary* package ‘progress’ ...
+* ‘progress’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘progress’ as ‘progress_1.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (progress)
+* installing *binary* package ‘checkmate’ ...
+* ‘checkmate’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘checkmate’ as ‘checkmate_2.3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (checkmate)
+* installing *source* package ‘BiocNeighbors’ ...
+** package ‘BiocNeighbors’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++17
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c annoy.cpp -o annoy.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c exhaustive.cpp -o exhaustive.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c find_mutual_nns.cpp -o find_mutual_nns.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c generics.cpp -o generics.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c hnsw.cpp -o hnsw.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c kmknn.cpp -o kmknn.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c vptree.cpp -o vptree.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o BiocNeighbors.so RcppExports.o annoy.o exhaustive.o find_mutual_nns.o generics.o hnsw.o kmknn.o vptree.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-BiocNeighbors/00new/BiocNeighbors/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocNeighbors’ as ‘BiocNeighbors_2.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocNeighbors)
+* installing *binary* package ‘emmeans’ ...
+* ‘emmeans’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘emmeans’ as ‘emmeans_1.10.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (emmeans)
+* installing *binary* package ‘RcppML’ ...
+* ‘RcppML’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RcppML’ as ‘RcppML_0.3.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcppML)
+* installing *binary* package ‘robustbase’ ...
+* ‘robustbase’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘robustbase’ as ‘robustbase_0.99-4-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (robustbase)
+* installing *binary* package ‘bayesm’ ...
+* ‘bayesm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bayesm’ as ‘bayesm_3.1-6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bayesm)
+* installing *binary* package ‘munsell’ ...
+* ‘munsell’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘munsell’ as ‘munsell_0.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (munsell)
+* installing *binary* package ‘gargle’ ...
+* ‘gargle’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gargle’ as ‘gargle_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gargle)
+* installing *binary* package ‘ids’ ...
+* ‘ids’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ids’ as ‘ids_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ids)
+* installing *binary* package ‘bit64’ ...
+* ‘bit64’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bit64’ as ‘bit64_4.6.0-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bit64)
+* installing *binary* package ‘Rmpfr’ ...
+* ‘Rmpfr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Rmpfr’ as ‘Rmpfr_1.0-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rmpfr)
+* installing *binary* package ‘Exact’ ...
+* ‘Exact’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Exact’ as ‘Exact_3.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Exact)
+* installing *binary* package ‘gridExtra’ ...
+* ‘gridExtra’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gridExtra’ as ‘gridExtra_2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gridExtra)
+* installing *binary* package ‘sandwich’ ...
+* ‘sandwich’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sandwich’ as ‘sandwich_3.1-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sandwich)
+* installing *source* package ‘MatrixGenerics’ ...
+** package ‘MatrixGenerics’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘rowAlls’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colAlls’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowAnyNAs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colAnyNAs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowAnys’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colAnys’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowAvgsPerColSet’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colAvgsPerRowSet’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowCollapse’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colCollapse’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowCounts’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colCounts’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowCummaxs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colCummaxs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowCummins’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colCummins’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowCumprods’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colCumprods’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowCumsums’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colCumsums’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowDiffs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colDiffs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowIQRDiffs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colIQRDiffs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowIQRs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colIQRs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowLogSumExps’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colLogSumExps’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowMadDiffs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colMadDiffs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowMads’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colMads’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowMaxs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colMaxs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowMeans2’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colMeans2’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowMedians’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colMedians’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowMins’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colMins’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowOrderStats’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colOrderStats’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowProds’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colProds’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowQuantiles’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colQuantiles’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowRanges’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colRanges’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowRanks’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colRanks’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowSdDiffs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colSdDiffs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowSds’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colSds’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowSums2’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colSums2’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowTabulates’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colTabulates’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowVarDiffs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colVarDiffs’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowVars’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colVars’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowWeightedMads’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colWeightedMads’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowWeightedMeans’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colWeightedMeans’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowWeightedMedians’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colWeightedMedians’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowWeightedSds’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colWeightedSds’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘rowWeightedVars’ in package ‘MatrixGenerics’
+Creating a new generic function for ‘colWeightedVars’ in package ‘MatrixGenerics’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MatrixGenerics’ as ‘MatrixGenerics_1.18.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MatrixGenerics)
+* installing *binary* package ‘vegan’ ...
+* ‘vegan’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘vegan’ as ‘vegan_2.6-10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (vegan)
+* installing *binary* package ‘crosstalk’ ...
+* ‘crosstalk’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘crosstalk’ as ‘crosstalk_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (crosstalk)
+* installing *source* package ‘Biobase’ ...
+** package ‘Biobase’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rinit.c -o Rinit.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c anyMissing.c -o anyMissing.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c envir.c -o envir.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c matchpt.c -o matchpt.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rowMedians.c -o rowMedians.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sublist_extract.c -o sublist_extract.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Biobase.so Rinit.o anyMissing.o envir.o matchpt.o rowMedians.o sublist_extract.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-Biobase/00new/Biobase/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Biobase’ as ‘Biobase_2.66.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Biobase)
+* installing *binary* package ‘reshape2’ ...
+* ‘reshape2’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘reshape2’ as ‘reshape2_1.4.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (reshape2)
+* installing *binary* package ‘ade4’ ...
+* ‘ade4’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ade4’ as ‘ade4_1.7-23_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ade4)
+* installing *binary* package ‘lubridate’ ...
+* ‘lubridate’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lubridate’ as ‘lubridate_1.9.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lubridate)
+* installing *binary* package ‘rvest’ ...
+* ‘rvest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rvest’ as ‘rvest_1.0.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rvest)
+* installing *binary* package ‘Rdpack’ ...
+* ‘Rdpack’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Rdpack’ as ‘Rdpack_2.6.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rdpack)
+* installing *binary* package ‘energy’ ...
+* ‘energy’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘energy’ as ‘energy_1.7-12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (energy)
+* installing *binary* package ‘foreach’ ...
+* ‘foreach’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘foreach’ as ‘foreach_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (foreach)
+* installing *source* package ‘S4Vectors’ ...
+** package ‘S4Vectors’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c AEbufs.c -o AEbufs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c DataFrame_class.c -o DataFrame_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Hits_class.c -o Hits_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c LLint_class.c -o LLint_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c List_class.c -o List_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_S4Vectors.c -o R_init_S4Vectors.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rle_class.c -o Rle_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rle_utils.c -o Rle_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SEXP_utils.c -o SEXP_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SimpleList_class.c -o SimpleList_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c anyMissing.c -o anyMissing.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c character_utils.c -o character_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c eval_utils.c -o eval_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c hash_utils.c -o hash_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c integer_utils.c -o integer_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c logical_utils.c -o logical_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c map_ranges_to_runs.c -o map_ranges_to_runs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c raw_utils.c -o raw_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c safe_arithm.c -o safe_arithm.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sort_utils.c -o sort_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c subsetting_utils.c -o subsetting_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c vector_utils.c -o vector_utils.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o S4Vectors.so AEbufs.o DataFrame_class.o Hits_class.o LLint_class.o List_class.o R_init_S4Vectors.o Rle_class.o Rle_utils.o SEXP_utils.o SimpleList_class.o anyMissing.o character_utils.o eval_utils.o hash_utils.o integer_utils.o logical_utils.o map_ranges_to_runs.o raw_utils.o safe_arithm.o sort_utils.o subsetting_utils.o vector_utils.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-S4Vectors/00new/S4Vectors/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+in method for ‘normalizeSingleBracketReplacementValue’ with signature ‘"List"’: no definition for class “List”
+Creating a new generic function for ‘unname’ in package ‘S4Vectors’
+Creating a new generic function for ‘expand.grid’ in package ‘S4Vectors’
+Creating a new generic function for ‘findMatches’ in package ‘S4Vectors’
+Creating a generic function for ‘setequal’ from package ‘base’ in package ‘S4Vectors’
+in method for ‘coerce’ with signature ‘"Hits","DFrame"’: no definition for class “DFrame”
+Creating a generic function for ‘as.factor’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘tabulate’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘cov’ from package ‘stats’ in package ‘S4Vectors’
+Creating a generic function for ‘cor’ from package ‘stats’ in package ‘S4Vectors’
+Creating a generic function for ‘smoothEnds’ from package ‘stats’ in package ‘S4Vectors’
+Creating a generic function for ‘runmed’ from package ‘stats’ in package ‘S4Vectors’
+Creating a generic function for ‘nchar’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘substr’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘substring’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘chartr’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘tolower’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘toupper’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘sub’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘gsub’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘nlevels’ from package ‘base’ in package ‘S4Vectors’
+in method for ‘coerce’ with signature ‘"data.table","DFrame"’: no definition for class “data.table”
+Creating a generic function for ‘complete.cases’ from package ‘stats’ in package ‘S4Vectors’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘S4Vectors’ as ‘S4Vectors_0.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (S4Vectors)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-dplyr’
+* installing *binary* package ‘futile.logger’ ...
+* ‘futile.logger’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘futile.logger’ as ‘futile.logger_1.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (futile.logger)
+* installing *source* package ‘sparseMatrixStats’ ...
+** package ‘sparseMatrixStats’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c SparseMatrixView.cpp -o SparseMatrixView.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c methods.cpp -o methods.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c row_methods.cpp -o row_methods.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o sparseMatrixStats.so RcppExports.o SparseMatrixView.o methods.o row_methods.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-sparseMatrixStats/00new/sparseMatrixStats/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘sparseMatrixStats’ as ‘sparseMatrixStats_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sparseMatrixStats)
+* installing *binary* package ‘uwot’ ...
+* ‘uwot’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘uwot’ as ‘uwot_0.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (uwot)
+ERROR: dependency ‘S4Vectors’ is not available for package ‘UCSC.utils’
+* removing ‘/mnt/library/UCSC.utils’
+* installing *source* package ‘rhdf5’ ...
+** package ‘rhdf5’ successfully unpacked and MD5 sums checked
+** using staged installation
+configure: creating ./config.status
+config.status: creating src/external_filters.h
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5.c -o H5.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5A.c -o H5A.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5D.c -o H5D.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5E.c -o H5E.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5F.c -o H5F.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5G.c -o H5G.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5I.c -o H5I.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5L.c -o H5L.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5O.c -o H5O.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5P.c -o H5P.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5PL.c -o H5PL.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5R.c -o H5R.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5S.c -o H5S.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5S_extras.c -o H5S_extras.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5T.c -o H5T.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5T_extras.c -o H5T_extras.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5Z.c -o H5Z.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5constants.c -o H5constants.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c HandleList.cpp -o HandleList.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c HandleListWrap.c -o HandleListWrap.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bit64conversion.c -o bit64conversion.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c external_filters.c -o external_filters.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c h5dump.c -o h5dump.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c h5ls.c -o h5ls.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c h5testLock.c -o h5testLock.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c h5writeDataFrame.c -o h5writeDataFrame.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c printdatatype.c -o printdatatype.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c utils.c -o utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c wrap.c -o wrap.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o rhdf5.so H5.o H5A.o H5D.o H5E.o H5F.o H5G.o H5I.o H5L.o H5O.o H5P.o H5PL.o H5R.o H5S.o H5S_extras.o H5T.o H5T_extras.o H5Z.o H5constants.o HandleList.o HandleListWrap.o bit64conversion.o external_filters.o h5dump.o h5ls.o h5testLock.o h5writeDataFrame.o printdatatype.o utils.o wrap.o /mnt/library/Rhdf5lib/lib/libhdf5.a -lcrypto -lcurl -lsz -laec -lz -ldl -lm -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-rhdf5/00new/rhdf5/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rhdf5’ as ‘rhdf5_2.50.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rhdf5)
+* installing *binary* package ‘vroom’ ...
+* ‘vroom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘vroom’ as ‘vroom_1.6.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (vroom)
+* installing *binary* package ‘gld’ ...
+* ‘gld’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gld’ as ‘gld_2.6.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gld)
+* installing *binary* package ‘readxl’ ...
+* ‘readxl’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘readxl’ as ‘readxl_1.4.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (readxl)
+* installing *binary* package ‘htmlTable’ ...
+* ‘htmlTable’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘htmlTable’ as ‘htmlTable_2.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (htmlTable)
+* installing *binary* package ‘reformulas’ ...
+* ‘reformulas’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘reformulas’ as ‘reformulas_0.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (reformulas)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-IRanges’
+* installing *binary* package ‘compositions’ ...
+* ‘compositions’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘compositions’ as ‘compositions_2.0-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (compositions)
+* installing *binary* package ‘scales’ ...
+* ‘scales’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘scales’ as ‘scales_1.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scales)
+* installing *source* package ‘multtest’ ...
+** package ‘multtest’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rpack.c -o Rpack.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c VScount.c -o VScount.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c block_sampling_fixed.c -o block_sampling_fixed.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bootloop.c -o bootloop.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c mt.c -o mt.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c pairt_sampling.c -o pairt_sampling.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c pairt_sampling_fixed.c -o pairt_sampling_fixed.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c random.c -o random.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sampling.c -o sampling.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sampling_fixed.c -o sampling_fixed.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c stat_func.c -o stat_func.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -DUSEDOUBLE -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c stat_order.c -o stat_order.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o multtest.so Rpack.o VScount.o block_sampling_fixed.o bootloop.o mt.o pairt_sampling.o pairt_sampling_fixed.o random.o sampling.o sampling_fixed.o stat_func.o stat_order.o -lm -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-multtest/00new/multtest/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘multtest’ as ‘multtest_2.62.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (multtest)
+* installing *binary* package ‘dtplyr’ ...
+* ‘dtplyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dtplyr’ as ‘dtplyr_1.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dtplyr)
+* installing *binary* package ‘googledrive’ ...
+* ‘googledrive’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘googledrive’ as ‘googledrive_2.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (googledrive)
+* installing *binary* package ‘CVXR’ ...
+* ‘CVXR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘CVXR’ as ‘CVXR_1.0-15_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CVXR)
+* installing *binary* package ‘doParallel’ ...
+* ‘doParallel’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘doParallel’ as ‘doParallel_1.0.17_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (doParallel)
+* installing *binary* package ‘doRNG’ ...
+* ‘doRNG’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘doRNG’ as ‘doRNG_1.8.6.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (doRNG)
+* installing *binary* package ‘multcomp’ ...
+* ‘multcomp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘multcomp’ as ‘multcomp_1.4-28_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (multcomp)
+* installing *binary* package ‘DT’ ...
+* ‘DT’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DT’ as ‘DT_0.33_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DT)
+* installing *binary* package ‘tidyr’ ...
+* ‘tidyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidyr’ as ‘tidyr_1.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyr)
+* installing *source* package ‘XVector’ ...
+** package ‘XVector’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c IRanges_stubs.c -o IRanges_stubs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Ocopy_byteblocks.c -o Ocopy_byteblocks.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RDS_random_access.c -o RDS_random_access.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_XVector.c -o R_init_XVector.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c S4Vectors_stubs.c -o S4Vectors_stubs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SharedDouble_class.c -o SharedDouble_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SharedInteger_class.c -o SharedInteger_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SharedRaw_class.c -o SharedRaw_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SharedVector_class.c -o SharedVector_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c XDouble_class.c -o XDouble_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c XInteger_class.c -o XInteger_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c XRawList_comparison.c -o XRawList_comparison.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c XRaw_class.c -o XRaw_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c XVectorList_class.c -o XVectorList_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c XVector_class.c -o XVector_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c io_utils.c -o io_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c slice_methods.c -o slice_methods.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c vector_copy.c -o vector_copy.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c view_summarization_methods.c -o view_summarization_methods.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o XVector.so IRanges_stubs.o Ocopy_byteblocks.o RDS_random_access.o R_init_XVector.o S4Vectors_stubs.o SharedDouble_class.o SharedInteger_class.o SharedRaw_class.o SharedVector_class.o XDouble_class.o XInteger_class.o XRawList_comparison.o XRaw_class.o XVectorList_class.o XVector_class.o io_utils.o slice_methods.o vector_copy.o view_summarization_methods.o -lz -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-XVector/00new/XVector/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘XVector’ as ‘XVector_0.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (XVector)
+* installing *binary* package ‘pheatmap’ ...
+* ‘pheatmap’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pheatmap’ as ‘pheatmap_1.0.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pheatmap)
+* installing *binary* package ‘tidytree’ ...
+* ‘tidytree’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidytree’ as ‘tidytree_0.4.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidytree)
+* installing *binary* package ‘ggplot2’ ...
+* ‘ggplot2’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggplot2’ as ‘ggplot2_3.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggplot2)
+* installing *source* package ‘BiocParallel’ ...
+** package ‘BiocParallel’ successfully unpacked and MD5 sums checked
+** using staged installation
+checking whether the C++ compiler works... yes
+checking for C++ compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether the compiler supports GNU C++... yes
+checking whether g++ -std=gnu++17 accepts -g... yes
+checking for g++ -std=gnu++17 option to enable C++11 features... none needed
+checking for library containing shm_open... none required
+checking for stdio.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for strings.h... yes
+checking for sys/stat.h... yes
+checking for sys/types.h... yes
+checking for unistd.h... yes
+checking for sys/mman.h... yes
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/BH/include' -I'/usr/local/lib/R/site-library/cpp11/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c cpp11.cpp -o cpp11.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/BH/include' -I'/usr/local/lib/R/site-library/cpp11/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ipcmutex.cpp -o ipcmutex.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o BiocParallel.so cpp11.o ipcmutex.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-BiocParallel/00new/BiocParallel/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocParallel’ as ‘BiocParallel_1.40.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocParallel)
+ERROR: dependency ‘IRanges’ is not available for package ‘DirichletMultinomial’
+* removing ‘/mnt/library/DirichletMultinomial’
+ERROR: dependency ‘IRanges’ is not available for package ‘GenomeInfoDb’
+* removing ‘/mnt/library/GenomeInfoDb’
+ERROR: dependency ‘IRanges’ is not available for package ‘S4Arrays’
+* removing ‘/mnt/library/S4Arrays’
+* installing *source* package ‘biomformat’ ...
+** package ‘biomformat’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a generic function for ‘nrow’ from package ‘base’ in package ‘biomformat’
+Creating a generic function for ‘ncol’ from package ‘base’ in package ‘biomformat’
+Creating a generic function for ‘rownames’ from package ‘base’ in package ‘biomformat’
+Creating a generic function for ‘colnames’ from package ‘base’ in package ‘biomformat’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biomformat’ as ‘biomformat_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biomformat)
+* installing *binary* package ‘broom’ ...
+* ‘broom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘broom’ as ‘broom_1.0.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (broom)
+* installing *binary* package ‘dbplyr’ ...
+* ‘dbplyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dbplyr’ as ‘dbplyr_2.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dbplyr)
+* installing *binary* package ‘googlesheets4’ ...
+* ‘googlesheets4’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘googlesheets4’ as ‘googlesheets4_1.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (googlesheets4)
+* installing *binary* package ‘readr’ ...
+* ‘readr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘readr’ as ‘readr_2.1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (readr)
+* installing *binary* package ‘lme4’ ...
+* ‘lme4’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lme4’ as ‘lme4_1.1-36_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lme4)
+ERROR: dependencies ‘S4Arrays’, ‘IRanges’ are not available for package ‘SparseArray’
+* removing ‘/mnt/library/SparseArray’
+* installing *binary* package ‘fillpattern’ ...
+* ‘fillpattern’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fillpattern’ as ‘fillpattern_1.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fillpattern)
+* installing *binary* package ‘ggbeeswarm’ ...
+* ‘ggbeeswarm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggbeeswarm’ as ‘ggbeeswarm_0.7.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggbeeswarm)
+* installing *binary* package ‘ggnewscale’ ...
+* ‘ggnewscale’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggnewscale’ as ‘ggnewscale_0.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggnewscale)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-ggrepel’
+* installing *binary* package ‘ggtext’ ...
+* ‘ggtext’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggtext’ as ‘ggtext_0.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggtext)
+* installing *binary* package ‘patchwork’ ...
+* ‘patchwork’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘patchwork’ as ‘patchwork_1.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (patchwork)
+* installing *binary* package ‘haven’ ...
+* ‘haven’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘haven’ as ‘haven_2.5.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (haven)
+* installing *binary* package ‘viridis’ ...
+* ‘viridis’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘viridis’ as ‘viridis_0.6.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (viridis)
+ERROR: dependencies ‘IRanges’, ‘GenomeInfoDb’ are not available for package ‘Biostrings’
+* removing ‘/mnt/library/Biostrings’
+* installing *source* package ‘bluster’ ...
+** package ‘bluster’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++17
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c build_snn.cpp -o build_snn.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c sum_neighbor_weights.cpp -o sum_neighbor_weights.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o bluster.so RcppExports.o build_snn.o sum_neighbor_weights.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-bluster/00new/bluster/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bluster’ as ‘bluster_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bluster)
+* installing *source* package ‘decontam’ ...
+** package ‘decontam’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘decontam’ as ‘decontam_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (decontam)
+ERROR: dependencies ‘IRanges’, ‘GenomeInfoDb’ are not available for package ‘GenomicRanges’
+* removing ‘/mnt/library/GenomicRanges’
+* installing *source* package ‘treeio’ ...
+** package ‘treeio’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘treeio’ as ‘treeio_1.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (treeio)
+* installing *binary* package ‘modelr’ ...
+* ‘modelr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘modelr’ as ‘modelr_0.1.11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (modelr)
+* installing *binary* package ‘lmerTest’ ...
+* ‘lmerTest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lmerTest’ as ‘lmerTest_3.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lmerTest)
+* installing *binary* package ‘ggrastr’ ...
+* ‘ggrastr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggrastr’ as ‘ggrastr_1.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggrastr)
+ERROR: dependency ‘Biostrings’ is not available for package ‘DECIPHER’
+* removing ‘/mnt/library/DECIPHER’
+ERROR: dependencies ‘S4Arrays’, ‘SparseArray’ are not available for package ‘DelayedArray’
+* removing ‘/mnt/library/DelayedArray’
+* installing *binary* package ‘rbiom’ ...
+* ‘rbiom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rbiom’ as ‘rbiom_2.0.13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rbiom)
+* installing *binary* package ‘DescTools’ ...
+* ‘DescTools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DescTools’ as ‘DescTools_0.99.59_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DescTools)
+* installing *binary* package ‘Hmisc’ ...
+* ‘Hmisc’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Hmisc’ as ‘Hmisc_5.2-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Hmisc)
+ERROR: dependency ‘Biostrings’ is not available for package ‘phyloseq’
+* removing ‘/mnt/library/phyloseq’
+* installing *binary* package ‘tidyverse’ ...
+* ‘tidyverse’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidyverse’ as ‘tidyverse_2.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyverse)
+ERROR: dependency ‘DelayedArray’ is not available for package ‘ScaledMatrix’
+* removing ‘/mnt/library/ScaledMatrix’
+ERROR: dependencies ‘DelayedArray’, ‘SparseArray’ are not available for package ‘beachmat’
+* removing ‘/mnt/library/beachmat’
+ERROR: dependencies ‘DelayedArray’, ‘SparseArray’ are not available for package ‘DelayedMatrixStats’
+* removing ‘/mnt/library/DelayedMatrixStats’
+* installing *binary* package ‘mediation’ ...
+* ‘mediation’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mediation’ as ‘mediation_4.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mediation)
+ERROR: dependencies ‘GenomicRanges’, ‘GenomeInfoDb’, ‘DelayedArray’ are not available for package ‘SummarizedExperiment’
+* removing ‘/mnt/library/SummarizedExperiment’
+ERROR: dependencies ‘phyloseq’, ‘Biostrings’ are not available for package ‘microbiome’
+* removing ‘/mnt/library/microbiome’
+* installing *source* package ‘ANCOMBC’ ...
+** package ‘ANCOMBC’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ANCOMBC’ as ‘ANCOMBC_2.8.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ANCOMBC)
+ERROR: dependencies ‘DelayedArray’, ‘ScaledMatrix’, ‘beachmat’ are not available for package ‘BiocSingular’
+* removing ‘/mnt/library/BiocSingular’
+ERROR: dependencies ‘SummarizedExperiment’, ‘DelayedArray’, ‘GenomicRanges’ are not available for package ‘MultiAssayExperiment’
+* removing ‘/mnt/library/MultiAssayExperiment’
+ERROR: dependencies ‘SummarizedExperiment’, ‘GenomicRanges’, ‘DelayedArray’ are not available for package ‘SingleCellExperiment’
+* removing ‘/mnt/library/SingleCellExperiment’
+ERROR: dependencies ‘SingleCellExperiment’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘SparseArray’, ‘DelayedArray’, ‘beachmat’ are not available for package ‘scuttle’
+* removing ‘/mnt/library/scuttle’
+ERROR: dependencies ‘SingleCellExperiment’, ‘Biostrings’, ‘SummarizedExperiment’ are not available for package ‘TreeSummarizedExperiment’
+* removing ‘/mnt/library/TreeSummarizedExperiment’
+ERROR: dependencies ‘SingleCellExperiment’, ‘scuttle’, ‘SummarizedExperiment’, ‘SparseArray’, ‘DelayedArray’, ‘beachmat’, ‘BiocSingular’ are not available for package ‘scater’
+* removing ‘/mnt/library/scater’
+ERROR: dependencies ‘MultiAssayExperiment’, ‘SingleCellExperiment’, ‘SummarizedExperiment’, ‘TreeSummarizedExperiment’, ‘Biostrings’, ‘DECIPHER’, ‘DelayedArray’, ‘DelayedMatrixStats’, ‘DirichletMultinomial’, ‘scater’, ‘scuttle’ are not available for package ‘mia’
+* removing ‘/mnt/library/mia’
+
+The downloaded source packages are in
+	‘/tmp/RtmpbzFIRy/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+There were 29 warnings (use warnings() to see them)
+
+real	32m55.317s
+user	6m52.318s
+sys	1m54.954s

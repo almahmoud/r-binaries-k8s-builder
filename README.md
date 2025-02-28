@@ -4,12 +4,20 @@
 
 ## Summary
 
-- 0 packages built successfully
+- 4 packages built successfully
 - 0 packages failed to build
-- 1746 packages not yet processed
+- 1742 packages not yet processed
 
 
-## Not Yet Processed (1746)
+## Successfully Built (4)
+| Package                                                                            | Status   | Log                                                                 | BBS Status                                                                |
+|------------------------------------------------------------------------------------|----------|---------------------------------------------------------------------|---------------------------------------------------------------------------|
+| [ANCOMBC](https://bioconductor.org/packages/3.20/bioc/html/ANCOMBC.html)           | Built    | [Log](runs/2025-02-28-13-08-23/logs/ANCOMBC/build-success.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ANCOMBC)      |
+| [RTCGA](https://bioconductor.org/packages/3.20/bioc/html/RTCGA.html)               | Built    | [Log](runs/2025-02-28-13-08-23/logs/RTCGA/build-success.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RTCGA)        |
+| [ppcseq](https://bioconductor.org/packages/3.20/bioc/html/ppcseq.html)             | Built    | [Log](runs/2025-02-28-13-08-23/logs/ppcseq/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ppcseq)       |
+| [scBubbletree](https://bioconductor.org/packages/3.20/bioc/html/scBubbletree.html) | Built    | [Log](runs/2025-02-28-13-08-23/logs/scBubbletree/build-success.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scBubbletree) |
+
+## Not Yet Processed (1742)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ABarray](https://bioconductor.org/packages/3.20/bioc/html/ABarray.html)                                         | Unprocessed |
@@ -25,7 +33,6 @@
 | [AIMS](https://bioconductor.org/packages/3.20/bioc/html/AIMS.html)                                               | Unprocessed |
 | [ALDEx2](https://bioconductor.org/packages/3.20/bioc/html/ALDEx2.html)                                           | Unprocessed |
 | [AMARETTO](https://bioconductor.org/packages/3.20/bioc/html/AMARETTO.html)                                       | Unprocessed |
-| [ANCOMBC](https://bioconductor.org/packages/3.20/bioc/html/ANCOMBC.html)                                         | Unprocessed |
 | [ANF](https://bioconductor.org/packages/3.20/bioc/html/ANF.html)                                                 | Unprocessed |
 | [APAlyzer](https://bioconductor.org/packages/3.20/bioc/html/APAlyzer.html)                                       | Unprocessed |
 | [APL](https://bioconductor.org/packages/3.20/bioc/html/APL.html)                                                 | Unprocessed |
@@ -648,7 +655,6 @@
 | [RPA](https://bioconductor.org/packages/3.20/bioc/html/RPA.html)                                                 | Unprocessed |
 | [RSVSim](https://bioconductor.org/packages/3.20/bioc/html/RSVSim.html)                                           | Unprocessed |
 | [RTCA](https://bioconductor.org/packages/3.20/bioc/html/RTCA.html)                                               | Unprocessed |
-| [RTCGA](https://bioconductor.org/packages/3.20/bioc/html/RTCGA.html)                                             | Unprocessed |
 | [RTCGAToolbox](https://bioconductor.org/packages/3.20/bioc/html/RTCGAToolbox.html)                               | Unprocessed |
 | [RTN](https://bioconductor.org/packages/3.20/bioc/html/RTN.html)                                                 | Unprocessed |
 | [RTNduals](https://bioconductor.org/packages/3.20/bioc/html/RTNduals.html)                                       | Unprocessed |
@@ -1463,7 +1469,6 @@
 | [pmp](https://bioconductor.org/packages/3.20/bioc/html/pmp.html)                                                 | Unprocessed |
 | [podkat](https://bioconductor.org/packages/3.20/bioc/html/podkat.html)                                           | Unprocessed |
 | [pogos](https://bioconductor.org/packages/3.20/bioc/html/pogos.html)                                             | Unprocessed |
-| [ppcseq](https://bioconductor.org/packages/3.20/bioc/html/ppcseq.html)                                           | Unprocessed |
 | [pqsfinder](https://bioconductor.org/packages/3.20/bioc/html/pqsfinder.html)                                     | Unprocessed |
 | [pram](https://bioconductor.org/packages/3.20/bioc/html/pram.html)                                               | Unprocessed |
 | [prebs](https://bioconductor.org/packages/3.20/bioc/html/prebs.html)                                             | Unprocessed |
@@ -1561,7 +1566,6 @@
 | [satuRn](https://bioconductor.org/packages/3.20/bioc/html/satuRn.html)                                           | Unprocessed |
 | [scAnnotatR](https://bioconductor.org/packages/3.20/bioc/html/scAnnotatR.html)                                   | Unprocessed |
 | [scBFA](https://bioconductor.org/packages/3.20/bioc/html/scBFA.html)                                             | Unprocessed |
-| [scBubbletree](https://bioconductor.org/packages/3.20/bioc/html/scBubbletree.html)                               | Unprocessed |
 | [scCB2](https://bioconductor.org/packages/3.20/bioc/html/scCB2.html)                                             | Unprocessed |
 | [scClassify](https://bioconductor.org/packages/3.20/bioc/html/scClassify.html)                                   | Unprocessed |
 | [scDD](https://bioconductor.org/packages/3.20/bioc/html/scDD.html)                                               | Unprocessed |
