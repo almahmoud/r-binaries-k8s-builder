@@ -21,6 +21,7 @@ ASGSCA
 ASSET
 ASSIGN
 ASURAT
+ATACseqQC
 ATACseqTFEA
 AUCell
 AWFisher
@@ -618,6 +619,7 @@ NuPoP
 OCplus
 OLIN
 OLINgui
+OMICsPCA
 OPWeight
 ORFhunteR
 ORFik
@@ -922,6 +924,7 @@ UCSC.utils
 UCell
 UMI4Cats
 UNDO
+UPDhmm
 UniProt.ws
 VAExprs
 VDJdive

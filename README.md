@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1845 packages built successfully
+- 1848 packages built successfully
 - 3 packages failed to build
-- 261 packages not yet processed
+- 258 packages not yet processed
 
 ## Failed Builds (3)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
@@ -15,7 +15,7 @@
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
-## Successfully Built (1845)
+## Successfully Built (1848)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                     |
@@ -1863,8 +1863,11 @@
 | [cbaf](https://bioconductor.org/packages/3.20/bioc/html/cbaf.html)                                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/cbaf/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cbaf)                       |
 | [mitoClone2](https://bioconductor.org/packages/3.20/bioc/html/mitoClone2.html)                                 | Built    | [Log](runs/2025-02-28-13-08-23/logs/mitoClone2/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mitoClone2)                 |
 | [musicatk](https://bioconductor.org/packages/3.20/bioc/html/musicatk.html)                                     | Built    | [Log](runs/2025-02-28-13-08-23/logs/musicatk/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/musicatk)                   |
+| [ATACseqQC](https://bioconductor.org/packages/3.20/bioc/html/ATACseqQC.html)                                   | Built    | [Log](runs/2025-02-28-13-08-23/logs/ATACseqQC/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ATACseqQC)                  |
+| [OMICsPCA](https://bioconductor.org/packages/3.20/bioc/html/OMICsPCA.html)                                     | Built    | [Log](runs/2025-02-28-13-08-23/logs/OMICsPCA/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OMICsPCA)                   |
+| [UPDhmm](https://bioconductor.org/packages/3.20/bioc/html/UPDhmm.html)                                         | Built    | [Log](runs/2025-02-28-13-08-23/logs/UPDhmm/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/UPDhmm)                     |
 
-## Not Yet Processed (261)
+## Not Yet Processed (258)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1872,7 +1875,6 @@
 | [APAlyzer](https://bioconductor.org/packages/3.20/bioc/html/APAlyzer.html)                                       | Unprocessed |
 | [ASICS](https://bioconductor.org/packages/3.20/bioc/html/ASICS.html)                                             | Unprocessed |
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                             | Unprocessed |
-| [ATACseqQC](https://bioconductor.org/packages/3.20/bioc/html/ATACseqQC.html)                                     | Unprocessed |
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                                 | Unprocessed |
 | [AllelicImbalance](https://bioconductor.org/packages/3.20/bioc/html/AllelicImbalance.html)                       | Unprocessed |
 | [ArrayExpress](https://bioconductor.org/packages/3.20/bioc/html/ArrayExpress.html)                               | Unprocessed |
@@ -1947,7 +1949,6 @@
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                     | Unprocessed |
 | [NoRCE](https://bioconductor.org/packages/3.20/bioc/html/NoRCE.html)                                             | Unprocessed |
 | [OGRE](https://bioconductor.org/packages/3.20/bioc/html/OGRE.html)                                               | Unprocessed |
-| [OMICsPCA](https://bioconductor.org/packages/3.20/bioc/html/OMICsPCA.html)                                       | Unprocessed |
 | [PING](https://bioconductor.org/packages/3.20/bioc/html/PING.html)                                               | Unprocessed |
 | [POMA](https://bioconductor.org/packages/3.20/bioc/html/POMA.html)                                               | Unprocessed |
 | [PRONE](https://bioconductor.org/packages/3.20/bioc/html/PRONE.html)                                             | Unprocessed |
@@ -1984,7 +1985,6 @@
 | [StructuralVariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/StructuralVariantAnnotation.html) | Unprocessed |
 | [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                               | Unprocessed |
 | [TitanCNA](https://bioconductor.org/packages/3.20/bioc/html/TitanCNA.html)                                       | Unprocessed |
-| [UPDhmm](https://bioconductor.org/packages/3.20/bioc/html/UPDhmm.html)                                           | Unprocessed |
 | [Ularcirc](https://bioconductor.org/packages/3.20/bioc/html/Ularcirc.html)                                       | Unprocessed |
 | [Uniquorn](https://bioconductor.org/packages/3.20/bioc/html/Uniquorn.html)                                       | Unprocessed |
 | [VCFArray](https://bioconductor.org/packages/3.20/bioc/html/VCFArray.html)                                       | Unprocessed |

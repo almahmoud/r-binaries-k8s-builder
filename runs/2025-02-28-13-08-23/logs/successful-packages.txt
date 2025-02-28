@@ -1967,3 +1967,6 @@ musicatk
 MutationalPatterns
 ProteoDisco
 PureCN
+ATACseqQC
+OMICsPCA
+UPDhmm
