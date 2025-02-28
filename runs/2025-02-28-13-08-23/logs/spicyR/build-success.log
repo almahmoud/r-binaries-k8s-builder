@@ -1,0 +1,150 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'spicyR'
+also installing the dependencies ‘svgPanZoom’, ‘cytomapper’, ‘RTriangle’, ‘scam’, ‘coxme’, ‘SpatialDatasets’, ‘imcRtools’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/svgPanZoom_0.3.4.tar.gz'
+Content type 'binary/octet-stream' length 56671 bytes (55 KB)
+==================================================
+downloaded 55 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/cytomapper_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 21994535 bytes (21.0 MB)
+==================================================
+downloaded 21.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RTriangle_1.6-0.14.tar.gz'
+Content type 'binary/octet-stream' length 120281 bytes (117 KB)
+==================================================
+downloaded 117 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/scam_1.2-18.tar.gz'
+Content type 'binary/octet-stream' length 1055589 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/coxme_2.2-22.tar.gz'
+Content type 'binary/octet-stream' length 1138146 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/SpatialDatasets_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 228880 bytes (223 KB)
+==================================================
+downloaded 223 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/imcRtools_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 6378678 bytes (6.1 MB)
+==================================================
+downloaded 6.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/spicyR_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 3310647 bytes (3.2 MB)
+==================================================
+downloaded 3.2 MB
+
+* installing *binary* package ‘svgPanZoom’ ...
+* ‘svgPanZoom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘svgPanZoom’ as ‘svgPanZoom_0.3.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (svgPanZoom)
+* installing *binary* package ‘RTriangle’ ...
+* ‘RTriangle’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RTriangle’ as ‘RTriangle_1.6-0.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RTriangle)
+* installing *binary* package ‘scam’ ...
+* ‘scam’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘scam’ as ‘scam_1.2-18_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scam)
+* installing *binary* package ‘coxme’ ...
+* ‘coxme’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘coxme’ as ‘coxme_2.2-22_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (coxme)
+* installing *source* package ‘SpatialDatasets’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+Warning: /tmp/Rtmp5nWnRo/R.INSTALL7f722a7fc6/SpatialDatasets/man/SpatialDatasets.Rd:46: unexpected section header '\value'
+Warning: /tmp/Rtmp5nWnRo/R.INSTALL7f722a7fc6/SpatialDatasets/man/SpatialDatasets.Rd:49: unexpected section header '\examples'
+Warning: /tmp/Rtmp5nWnRo/R.INSTALL7f722a7fc6/SpatialDatasets/man/SpatialDatasets.Rd:54: unexpected END_OF_INPUT '
+'
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SpatialDatasets’ as ‘SpatialDatasets_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SpatialDatasets)
+* installing *source* package ‘cytomapper’ ...
+** package ‘cytomapper’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘cytomapper’ as ‘cytomapper_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cytomapper)
+* installing *source* package ‘spicyR’ ...
+** package ‘spicyR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘spicyR’ as ‘spicyR_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spicyR)
+* installing *source* package ‘imcRtools’ ...
+** package ‘imcRtools’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘imcRtools’ as ‘imcRtools_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (imcRtools)
+
+The downloaded source packages are in
+	‘/tmp/RtmphRwwAp/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	5m45.784s
+user	2m27.688s
+sys	0m19.223s

@@ -1,0 +1,109 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'benchdamic'
+also installing the dependencies ‘ROI’, ‘ROI.plugin.lpsolve’, ‘detectseparation’, ‘corncob’, ‘MicrobiomeStat’, ‘MGLM’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ROI_1.0-1.tar.gz'
+Content type 'binary/octet-stream' length 481056 bytes (469 KB)
+==================================================
+downloaded 469 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ROI.plugin.lpsolve_1.0-2.tar.gz'
+Content type 'binary/octet-stream' length 47734 bytes (46 KB)
+==================================================
+downloaded 46 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/detectseparation_0.3.tar.gz'
+Content type 'binary/octet-stream' length 151803 bytes (148 KB)
+==================================================
+downloaded 148 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/corncob_0.4.1.tar.gz'
+Content type 'binary/octet-stream' length 2720016 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/MicrobiomeStat_1.2.tar.gz'
+Content type 'binary/octet-stream' length 176731 bytes (172 KB)
+==================================================
+downloaded 172 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/MGLM_0.2.1.tar.gz'
+Content type 'binary/octet-stream' length 449293 bytes (438 KB)
+==================================================
+downloaded 438 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/benchdamic_1.12.2.tar.gz'
+Content type 'application/x-gzip' length 5718264 bytes (5.5 MB)
+==================================================
+downloaded 5.5 MB
+
+* installing *binary* package ‘ROI’ ...
+* ‘ROI’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ROI’ as ‘ROI_1.0-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ROI)
+* installing *binary* package ‘MicrobiomeStat’ ...
+* ‘MicrobiomeStat’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘MicrobiomeStat’ as ‘MicrobiomeStat_1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MicrobiomeStat)
+* installing *binary* package ‘MGLM’ ...
+* ‘MGLM’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘MGLM’ as ‘MGLM_0.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MGLM)
+* installing *binary* package ‘ROI.plugin.lpsolve’ ...
+* ‘ROI.plugin.lpsolve’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ROI.plugin.lpsolve’ as ‘ROI.plugin.lpsolve_1.0-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ROI.plugin.lpsolve)
+* installing *binary* package ‘detectseparation’ ...
+* ‘detectseparation’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘detectseparation’ as ‘detectseparation_0.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (detectseparation)
+* installing *binary* package ‘corncob’ ...
+* ‘corncob’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘corncob’ as ‘corncob_0.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (corncob)
+* installing *source* package ‘benchdamic’ ...
+** package ‘benchdamic’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Found more than one class "dist" in cache; using the first, from namespace 'BiocGenerics'
+Also defined by ‘spam’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Found more than one class "dist" in cache; using the first, from namespace 'BiocGenerics'
+Also defined by ‘spam’
+** testing if installed package can be loaded from final location
+Found more than one class "dist" in cache; using the first, from namespace 'BiocGenerics'
+Also defined by ‘spam’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘benchdamic’ as ‘benchdamic_1.12.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (benchdamic)
+
+The downloaded source packages are in
+	‘/tmp/RtmpMn5ejD/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	4m34.257s
+user	1m5.583s
+sys	0m13.133s

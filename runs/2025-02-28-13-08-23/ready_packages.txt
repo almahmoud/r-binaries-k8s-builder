@@ -1,1 +1,3 @@
-rTRMui
+DiffBind
+epigraHMM
+lisaClust

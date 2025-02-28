@@ -1,0 +1,60 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'M3Drop'
+also installing the dependency ‘M3DExampleData’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/M3DExampleData_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 2149367 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/M3Drop_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 12841718 bytes (12.2 MB)
+==================================================
+downloaded 12.2 MB
+
+* installing *source* package ‘M3DExampleData’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘M3DExampleData’ as ‘M3DExampleData_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (M3DExampleData)
+* installing *source* package ‘M3Drop’ ...
+** package ‘M3Drop’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘M3Drop’ as ‘M3Drop_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (M3Drop)
+
+The downloaded source packages are in
+	‘/tmp/RtmpuVce8h/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m53.722s
+user	0m24.450s
+sys	0m5.869s

@@ -146,6 +146,7 @@ CellNOptR
 CellScore
 CellTrails
 Cepo
+ChIPanalyser
 ChIPseqR
 ChIPsim
 ChemmineOB
@@ -306,6 +307,7 @@ GloScope
 GrafGen
 GraphAT
 GraphAlignment
+GreyListChIP
 HDF5Array
 HDTD
 HELP
@@ -324,6 +326,7 @@ Harshlight
 Heatplus
 Herper
 HiCBricks
+HiCDOC
 HiCExperiment
 HiCcompare
 HilbertCurve
@@ -377,6 +380,7 @@ LiquidAssociation
 LoomExperiment
 LymphoSeq
 M3C
+M3Drop
 MACSQuantifyR
 MAI
 MANOR
@@ -389,6 +393,7 @@ MBQN
 MBttest
 MCbiclust
 MDTS
+MEDIPS
 MEDME
 MEIGOR
 MGFM
@@ -454,6 +459,7 @@ MsBackendSql
 MsCoreUtils
 MsExperiment
 MsFeatures
+MsQuality
 MuData
 Mulcom
 MultiAssayExperiment
@@ -793,6 +799,7 @@ beachmat
 beachmat.hdf5
 beadarray
 beer
+benchdamic
 betaHMM
 bettr
 bioDist
@@ -1247,6 +1254,7 @@ pcaMethods
 pengls
 pepStat
 pepXMLTab
+periodicDNA
 pfamAnalyzeR
 pgca
 pgxRpi
@@ -1259,6 +1267,7 @@ phosphonormalizer
 phyloseq
 piano
 pickgene
+pipeFrame
 planet
 planttfhunter
 plasmut
@@ -1268,6 +1277,7 @@ plotGrouper
 plyxp
 pmm
 pmp
+podkat
 pogos
 powerTCR
 ppcseq
@@ -1432,6 +1442,7 @@ spatialDE
 spatialSimGP
 specL
 speckle
+spicyR
 spikeLI
 spiky
 spkTools
@@ -1496,6 +1507,7 @@ traseR
 treeclimbR
 treeio
 treekoR
+tricycle
 trigger
 trio
 triplex

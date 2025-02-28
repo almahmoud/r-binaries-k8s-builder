@@ -1532,3 +1532,15 @@ spoon
 TFutils
 traseR
 tRNAscanImport
+benchdamic
+ChIPanalyser
+GreyListChIP
+HiCDOC
+M3Drop
+MEDIPS
+MsQuality
+periodicDNA
+pipeFrame
+podkat
+spicyR
+tricycle

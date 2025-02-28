@@ -1746,3 +1746,6 @@ tricycle
 MsQuality
 VaSP
 rTRMui
+DiffBind
+epigraHMM
+lisaClust
