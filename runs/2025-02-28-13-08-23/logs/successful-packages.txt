@@ -1991,3 +1991,9 @@ RAIDS
 pRolocGUI
 segmenter
 squallms
+APAlyzer
+BadRegionFinder
+BBCAnalyzer
+biovizBase
+CODEX
+oppar

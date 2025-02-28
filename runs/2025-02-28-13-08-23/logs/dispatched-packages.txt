@@ -2074,3 +2074,9 @@ RESOLVE
 alabaster
 svaNUMT
 svaRetro
+BubbleTree
+ChIPexoQual
+Gviz
+ggbio
+iCNV
+karyoploteR

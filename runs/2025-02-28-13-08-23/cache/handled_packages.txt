@@ -13,6 +13,7 @@ ALDEx2
 AMOUNTAIN
 ANCOMBC
 ANF
+APAlyzer
 APL
 ARRmNormalization
 ASAFE
@@ -50,6 +51,7 @@ BAGS
 BANDITS
 BASiCS
 BASiCStan
+BBCAnalyzer
 BCRANK
 BEAT
 BERT
@@ -67,6 +69,7 @@ BUScorrect
 BUSpaRse
 BUSseq
 BaalChIP
+BadRegionFinder
 Banksy
 BaseSpaceR
 Basic4Cseq
@@ -147,6 +150,7 @@ CNVMetrics
 CNVPanelizer
 CNVRanger
 COCOA
+CODEX
 COMPASS
 CONFESS
 CONSTANd
@@ -1053,6 +1057,7 @@ biodbUniprot
 biomaRt
 biomformat
 biotmle
+biovizBase
 biscuiteer
 blacksheepr
 blima
@@ -1607,6 +1612,7 @@ ontoProc
 openCyto
 openPrimeR
 oposSOM
+oppar
 oppti
 optimalFlow
 orthogene
