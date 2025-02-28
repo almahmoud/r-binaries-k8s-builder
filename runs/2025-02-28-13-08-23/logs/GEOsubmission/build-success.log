@@ -1,0 +1,39 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'GEOsubmission'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GEOsubmission_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 197826 bytes (193 KB)
+==================================================
+downloaded 193 KB
+
+* installing *source* package ‘GEOsubmission’ ...
+** package ‘GEOsubmission’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GEOsubmission’ as ‘GEOsubmission_1.58.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GEOsubmission)
+
+The downloaded source packages are in
+	‘/tmp/RtmpevZHaR/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m21.290s
+user	0m7.728s
+sys	0m3.313s

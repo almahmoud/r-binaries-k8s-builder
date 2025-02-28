@@ -1,0 +1,58 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'eiR'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/eiR_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 452875 bytes (442 KB)
+==================================================
+downloaded 442 KB
+
+* installing *source* package ‘eiR’ ...
+** package ‘eiR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c optimFunctions.cc -o optimFunctions.o
+optimFunctions.cc: In function ‘SEXPREC* calcF(SEXP, SEXP, SEXP)’:
+optimFunctions.cc:40:17: error: ‘length’ was not declared in this scope
+   40 |         int k = length(xS); //length of result vector
+      |                 ^~~~~~
+In file included from optimFunctions.cc:2:
+optimFunctions.cc:91:31: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+   91 |         SEXP result = PROTECT(allocVector(REALSXP, 1));
+      |                               ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+optimFunctions.cc: In function ‘SEXPREC* calcG(SEXP, SEXP, SEXP)’:
+optimFunctions.cc:99:17: error: ‘length’ was not declared in this scope
+   99 |         int k = length(xS); //length of result vector
+      |                 ^~~~~~
+optimFunctions.cc:102:31: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  102 |         SEXP result = PROTECT(allocVector(REALSXP, k));
+      |                               ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+make: *** [/usr/local/lib/R/etc/Makeconf:202: optimFunctions.o] Error 1
+ERROR: compilation failed for package ‘eiR’
+* removing ‘/mnt/library/eiR’
+
+The downloaded source packages are in
+	‘/tmp/Rtmp1rvyvY/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘eiR’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m42.251s
+user	0m6.370s
+sys	0m2.202s

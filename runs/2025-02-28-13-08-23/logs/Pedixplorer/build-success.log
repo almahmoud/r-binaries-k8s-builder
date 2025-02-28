@@ -1,0 +1,112 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'Pedixplorer'
+also installing the dependencies ‘AsioHeaders’, ‘websocket’, ‘chromote’, ‘diffviewer’, ‘vdiffr’, ‘shinytest2’, ‘R.devices’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/AsioHeaders_1.22.1-2.tar.gz'
+Content type 'binary/octet-stream' length 649323 bytes (634 KB)
+==================================================
+downloaded 634 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/websocket_1.4.2.tar.gz'
+Content type 'binary/octet-stream' length 468364 bytes (457 KB)
+==================================================
+downloaded 457 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/chromote_0.4.0.tar.gz'
+Content type 'binary/octet-stream' length 402077 bytes (392 KB)
+==================================================
+downloaded 392 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/diffviewer_0.1.2.tar.gz'
+Content type 'binary/octet-stream' length 181398 bytes (177 KB)
+==================================================
+downloaded 177 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/vdiffr_1.0.8.tar.gz'
+Content type 'binary/octet-stream' length 156882 bytes (153 KB)
+==================================================
+downloaded 153 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/shinytest2_0.3.2.tar.gz'
+Content type 'binary/octet-stream' length 3069057 bytes (2.9 MB)
+==================================================
+downloaded 2.9 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/R.devices_2.17.2.tar.gz'
+Content type 'binary/octet-stream' length 386361 bytes (377 KB)
+==================================================
+downloaded 377 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Pedixplorer_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 4873631 bytes (4.6 MB)
+==================================================
+downloaded 4.6 MB
+
+* installing *binary* package ‘AsioHeaders’ ...
+* ‘AsioHeaders’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘AsioHeaders’ as ‘AsioHeaders_1.22.1-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (AsioHeaders)
+* installing *binary* package ‘diffviewer’ ...
+* ‘diffviewer’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘diffviewer’ as ‘diffviewer_0.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (diffviewer)
+* installing *binary* package ‘vdiffr’ ...
+* ‘vdiffr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘vdiffr’ as ‘vdiffr_1.0.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (vdiffr)
+* installing *binary* package ‘R.devices’ ...
+* ‘R.devices’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.devices’ as ‘R.devices_2.17.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.devices)
+* installing *source* package ‘Pedixplorer’ ...
+** package ‘Pedixplorer’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Pedixplorer’ as ‘Pedixplorer_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Pedixplorer)
+* installing *binary* package ‘websocket’ ...
+* ‘websocket’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘websocket’ as ‘websocket_1.4.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (websocket)
+* installing *binary* package ‘chromote’ ...
+* ‘chromote’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘chromote’ as ‘chromote_0.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (chromote)
+* installing *binary* package ‘shinytest2’ ...
+* ‘shinytest2’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shinytest2’ as ‘shinytest2_0.3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinytest2)
+
+The downloaded source packages are in
+	‘/tmp/RtmpuPUmPs/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m27.612s
+user	0m22.147s
+sys	0m6.061s

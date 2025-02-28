@@ -1,4 +1,5 @@
 ABSSeq
+ABarray
 ACME
 AIMS
 AMOUNTAIN
@@ -10,6 +11,7 @@ ASEB
 ASGSCA
 ASSET
 AWFisher
+AffyRNADegradation
 AlphaBeta
 AlphaMissenseR
 AlpsNMR
@@ -30,6 +32,7 @@ BayesKnockdown
 BeadDataPackR
 BiRewire
 BioCartaImage
+BioMVCClass
 BioQC
 Biobase
 BiocBaseUtils
@@ -52,6 +55,7 @@ CFAssay
 CGEN
 CGHbase
 CGHcall
+CGHnormaliter
 CGHregions
 CIMICE
 CMA
@@ -60,7 +64,10 @@ COMPASS
 CONSTANd
 COSNet
 CTDquerier
+CardinalIO
 CausalR
+CellMapper
+CellNOptR
 ChemmineOB
 ChemmineR
 Chicago
@@ -69,6 +76,7 @@ ClusterJudge
 ClusterSignificance
 ComPrAn
 ConsensusClusterPlus
+Cormotif
 CytoGLMM
 DART
 DCATS
@@ -82,6 +90,7 @@ DNABarcodes
 DNAcopy
 DTA
 DeMAND
+DeconRNASeq
 DeepPINCS
 DepInfeR
 DepecheR
@@ -98,6 +107,7 @@ EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
 EpiDISH
+ExiMiR
 ExploreModelMatrix
 FGNet
 FISHalyseR
@@ -109,6 +119,7 @@ GEM
 GENIE3
 GEOfastq
 GEOmetadb
+GEOsubmission
 GEWIST
 GGPA
 GIGSEA
@@ -126,6 +137,7 @@ GWASTools
 GenProSeq
 GeneExpressionSignature
 GeneGA
+GeneNetworkBuilder
 GeneOverlap
 GeneSelectMMD
 GeneticsPed
@@ -154,6 +166,7 @@ IMPCdata
 INDEED
 INPower
 INTACT
+IRanges
 ISAnalytics
 ISoLDE
 Icens
@@ -162,6 +175,7 @@ IntramiRExploreR
 IsoCorrectoR
 IsoCorrectoRGUI
 KBoost
+KEGGgraph
 KinSwingR
 LBE
 LEA
@@ -182,6 +196,7 @@ MSstatsConvert
 MSstatsLOBD
 MSstatsTMT
 MVCClass
+Maaslin2
 MantelCorr
 MassArray
 MassSpecWavelet
@@ -189,6 +204,7 @@ MatrixGenerics
 MeasurementError.cor
 Mergeomics
 MetID
+MetaboCoreUtils
 MethPed
 MethylMix
 Mfuzz
@@ -206,6 +222,7 @@ NanoTube
 NetPathMiner
 NormqPCR
 NuPoP
+OCplus
 OLIN
 OLINgui
 OPWeight
@@ -213,6 +230,7 @@ OSAT
 Omixer
 OmnipathR
 OpenStats
+OrderedList
 Oscope
 PANR
 PCAN
@@ -221,6 +239,7 @@ PROPER
 PROcess
 Path2PPI
 PathNet
+Pedixplorer
 PepsNMR
 PhenStat
 PhenoGeneRanker
@@ -256,6 +275,7 @@ RRHO
 RSeqAn
 RTCA
 RTCGA
+RTopper
 RUVcorr
 RUVnormalize
 RVS
@@ -265,6 +285,7 @@ Rbowtie
 Rbwa
 Rcollectl
 Rcwl
+RcwlPipelines
 Rdisop
 ReactomeGSA
 ReadqPCR
@@ -275,6 +296,7 @@ Rgraphviz
 Rhdf5lib
 Rhtslib
 Rmagpie
+Rnits
 Rsubread
 Rtpca
 Rtreemix
@@ -293,6 +315,7 @@ SNPRelate
 SNPediaR
 SPEM
 SRAdb
+STATegRa
 STRINGdb
 SUITOR
 SamSPECTRAL
@@ -300,15 +323,19 @@ ScreenR
 SharedObject
 SpaceMarkers
 SpeCond
+Streamer
 Summix
 SwathXtend
 TMixClust
+TPP
 TPP2D
+TRONCO
 TSAR
 TargetScore
 TargetSearch
 TrajectoryGeometry
 TreeAndLeaf
+TurboNorm
 UCSC.utils
 UNDO
 VERSO
@@ -325,6 +352,7 @@ affy
 affycomp
 affyio
 agilp
+alabaster.base
 alabaster.schemas
 alevinQC
 annotationTools
@@ -337,6 +365,7 @@ banocc
 basilisk
 basilisk.utils
 bioDist
+bioassayR
 biobroom
 biobtreeR
 biocroxytest
@@ -377,6 +406,7 @@ covEB
 cqn
 ctc
 ctsGE
+cycle
 cytolib
 daMA
 dcGSA
@@ -400,6 +430,7 @@ easyreporting
 ecolitk
 edgeR
 eds
+eiR
 epistasisGA
 epivizrServer
 erccdashboard
@@ -409,6 +440,7 @@ factDesign
 faers
 fastreeR
 fdrame
+fedup
 fenr
 fgsea
 flowCyBar
@@ -416,12 +448,15 @@ flowGraph
 flowPeaks
 flowPlots
 flowcatchR
+fmcsR
 fmrs
 fobitools
 frenchFISH
+gaga
 garfield
 gcatest
 gdsfmt
+geNetClassifier
 gemini
 genArise
 geneClassifiers
@@ -445,8 +480,10 @@ gypsum
 hca
 hierGWAS
 hierinf
+hmdbQuery
 hopach
 hypeR
+hyperdraw
 hypergraph
 iASeq
 iBBiG
@@ -481,6 +518,7 @@ maCorrPlot
 maSigPro
 maftools
 magrene
+makecdfenv
 mapscape
 marray
 martini
@@ -492,6 +530,7 @@ mdqc
 messina
 metaCCA
 metaSeq
+metabCombiner
 metabinR
 metagenomeSeq
 metahdep
@@ -515,6 +554,7 @@ multtest
 mzID
 ndexr
 netprioR
+netresponse
 nnNorm
 normalize450K
 nuCpos
@@ -523,7 +563,9 @@ omada
 ompBAM
 onlineFDR
 oppti
+paircompviz
 pandaR
+panp
 parglms
 parody
 pathifier
@@ -540,6 +582,7 @@ pickgene
 planet
 plasmut
 plgem
+plier
 plotGrouper
 pmm
 powerTCR
@@ -549,21 +592,29 @@ profileScoreDist
 progeny
 projectR
 proteinProfiles
+pvac
 qckitfastq
+qcmetrics
+qpcrNorm
 quantsmooth
 qusage
 qvalue
 rBiopaxParser
 rWikiPathways
+rain
 randPack
 randRotation
 rawDiag
 rawrr
 rbsurv
+rcellminer
+rebook
 retrofit
+rexposome
 rgoslin
 rhdf5
 rhdf5filters
+ribor
 rmelting
 rnaseqcomp
 roastgsa
@@ -587,7 +638,9 @@ seq.hotSPOT
 seqLogo
 seqTools
 seqcombo
+sevenbridges
 shiny.gosling
+siggenes
 sights
 sigsquared
 similaRpeak
@@ -637,6 +690,7 @@ variancePartition
 vbmp
 veloviz
 viper
+vsn
 weaver
 widgetTools
 wppi
