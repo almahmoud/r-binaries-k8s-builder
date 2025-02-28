@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1881 packages built successfully
+- 1884 packages built successfully
 - 3 packages failed to build
-- 225 packages not yet processed
+- 222 packages not yet processed
 
 ## Failed Builds (3)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
@@ -15,7 +15,7 @@
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
-## Successfully Built (1881)
+## Successfully Built (1884)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                      |
@@ -1899,8 +1899,11 @@
 | [tRanslatome](https://bioconductor.org/packages/3.20/bioc/html/tRanslatome.html)                                 | Built    | [Log](runs/2025-02-28-13-08-23/logs/tRanslatome/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tRanslatome)                 |
 | [tenXplore](https://bioconductor.org/packages/3.20/bioc/html/tenXplore.html)                                     | Built    | [Log](runs/2025-02-28-13-08-23/logs/tenXplore/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tenXplore)                   |
 | [tilingArray](https://bioconductor.org/packages/3.20/bioc/html/tilingArray.html)                                 | Built    | [Log](runs/2025-02-28-13-08-23/logs/tilingArray/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tilingArray)                 |
+| [CNVrd2](https://bioconductor.org/packages/3.20/bioc/html/CNVrd2.html)                                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/CNVrd2/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNVrd2)                      |
+| [GA4GHclient](https://bioconductor.org/packages/3.20/bioc/html/GA4GHclient.html)                                 | Built    | [Log](runs/2025-02-28-13-08-23/logs/GA4GHclient/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GA4GHclient)                 |
+| [HiLDA](https://bioconductor.org/packages/3.20/bioc/html/HiLDA.html)                                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/HiLDA/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HiLDA)                       |
 
-## Not Yet Processed (225)
+## Not Yet Processed (222)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -1919,7 +1922,6 @@
 | [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)                                           | Unprocessed |
 | [CNVfilteR](https://bioconductor.org/packages/3.20/bioc/html/CNVfilteR.html)                                   | Unprocessed |
 | [CNViz](https://bioconductor.org/packages/3.20/bioc/html/CNViz.html)                                           | Unprocessed |
-| [CNVrd2](https://bioconductor.org/packages/3.20/bioc/html/CNVrd2.html)                                         | Unprocessed |
 | [CTdata](https://bioconductor.org/packages/3.20/bioc/html/CTdata.html)                                         | Unprocessed |
 | [CTexploreR](https://bioconductor.org/packages/3.20/bioc/html/CTexploreR.html)                                 | Unprocessed |
 | [ChAMP](https://bioconductor.org/packages/3.20/bioc/html/ChAMP.html)                                           | Unprocessed |
@@ -1941,7 +1943,6 @@
 | [EWCE](https://bioconductor.org/packages/3.20/bioc/html/EWCE.html)                                             | Unprocessed |
 | [EpipwR](https://bioconductor.org/packages/3.20/bioc/html/EpipwR.html)                                         | Unprocessed |
 | [FLAMES](https://bioconductor.org/packages/3.20/bioc/html/FLAMES.html)                                         | Unprocessed |
-| [GA4GHclient](https://bioconductor.org/packages/3.20/bioc/html/GA4GHclient.html)                               | Unprocessed |
 | [GA4GHshiny](https://bioconductor.org/packages/3.20/bioc/html/GA4GHshiny.html)                                 | Unprocessed |
 | [GeDi](https://bioconductor.org/packages/3.20/bioc/html/GeDi.html)                                             | Unprocessed |
 | [GenVisR](https://bioconductor.org/packages/3.20/bioc/html/GenVisR.html)                                       | Unprocessed |
@@ -1953,7 +1954,6 @@
 | [Guitar](https://bioconductor.org/packages/3.20/bioc/html/Guitar.html)                                         | Unprocessed |
 | [Gviz](https://bioconductor.org/packages/3.20/bioc/html/Gviz.html)                                             | Unprocessed |
 | [HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)                                   | Unprocessed |
-| [HiLDA](https://bioconductor.org/packages/3.20/bioc/html/HiLDA.html)                                           | Unprocessed |
 | [IMAS](https://bioconductor.org/packages/3.20/bioc/html/IMAS.html)                                             | Unprocessed |
 | [INSPEcT](https://bioconductor.org/packages/3.20/bioc/html/INSPEcT.html)                                       | Unprocessed |
 | [ITALICS](https://bioconductor.org/packages/3.20/bioc/html/ITALICS.html)                                       | Unprocessed |

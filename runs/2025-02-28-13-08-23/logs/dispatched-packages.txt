@@ -2081,3 +2081,5 @@ ggbio
 iCNV
 karyoploteR
 ADaCGH2
+GA4GHshiny
+selectKSigs

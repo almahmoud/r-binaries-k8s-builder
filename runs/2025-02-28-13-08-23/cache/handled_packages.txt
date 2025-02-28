@@ -149,6 +149,7 @@ CNTools
 CNVMetrics
 CNVPanelizer
 CNVRanger
+CNVrd2
 COCOA
 CODEX
 COMPASS
@@ -324,6 +325,7 @@ FindIT2
 FitHiC
 FlowSOM
 FuseSOM
+GA4GHclient
 GARS
 GAprediction
 GBScleanR
@@ -430,6 +432,7 @@ HiCExperiment
 HiCcompare
 HiContacts
 HiCool
+HiLDA
 HiTC
 HicAggR
 HilbertCurve

@@ -1,0 +1,70 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'HiLDA'
+also installing the dependencies ‘R2WinBUGS’, ‘R2jags’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/R2WinBUGS_2.1-22.1.tar.gz'
+Content type 'binary/octet-stream' length 994468 bytes (971 KB)
+==================================================
+downloaded 971 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/R2jags_0.8-9.tar.gz'
+Content type 'binary/octet-stream' length 106352 bytes (103 KB)
+==================================================
+downloaded 103 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/HiLDA_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 2574362 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+* installing *binary* package ‘R2WinBUGS’ ...
+* ‘R2WinBUGS’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R2WinBUGS’ as ‘R2WinBUGS_2.1-22.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R2WinBUGS)
+* installing *binary* package ‘R2jags’ ...
+* ‘R2jags’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R2jags’ as ‘R2jags_0.8-9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R2jags)
+* installing *source* package ‘HiLDA’ ...
+** package ‘HiLDA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c EMalgorithm.cpp -o EMalgorithm.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c checkBoundary.cpp -o checkBoundary.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c convertFromToVector.cpp -o convertFromToVector.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o HiLDA.so EMalgorithm.o RcppExports.o checkBoundary.o convertFromToVector.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-HiLDA/00new/HiLDA/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘HiLDA’ as ‘HiLDA_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HiLDA)
+
+The downloaded source packages are in
+	‘/tmp/RtmpKXyBLF/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m12.533s
+user	0m26.434s
+sys	0m6.954s
