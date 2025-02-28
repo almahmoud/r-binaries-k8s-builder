@@ -1,0 +1,81 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'PhenStat'
+also installing the dependencies ‘SmoothWin’, ‘nortest’, ‘msgps’, ‘pingr’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/SmoothWin_3.0.0.tar.gz'
+Content type 'binary/octet-stream' length 57158 bytes (55 KB)
+==================================================
+downloaded 55 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/nortest_1.0-4.tar.gz'
+Content type 'binary/octet-stream' length 37185 bytes (36 KB)
+==================================================
+downloaded 36 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/msgps_1.3.5.tar.gz'
+Content type 'binary/octet-stream' length 100535 bytes (98 KB)
+==================================================
+downloaded 98 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pingr_2.0.5.tar.gz'
+Content type 'binary/octet-stream' length 41758 bytes (40 KB)
+==================================================
+downloaded 40 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/PhenStat_2.42.0.tar.gz'
+Content type 'application/x-gzip' length 701602 bytes (685 KB)
+==================================================
+downloaded 685 KB
+
+* installing *binary* package ‘SmoothWin’ ...
+* ‘SmoothWin’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘SmoothWin’ as ‘SmoothWin_3.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SmoothWin)
+* installing *binary* package ‘nortest’ ...
+* ‘nortest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘nortest’ as ‘nortest_1.0-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (nortest)
+* installing *binary* package ‘msgps’ ...
+* ‘msgps’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘msgps’ as ‘msgps_1.3.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (msgps)
+* installing *binary* package ‘pingr’ ...
+* ‘pingr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pingr’ as ‘pingr_2.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pingr)
+* installing *source* package ‘PhenStat’ ...
+** package ‘PhenStat’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘PhenStat’ as ‘PhenStat_2.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (PhenStat)
+
+The downloaded source packages are in
+	‘/tmp/RtmpU6FDw2/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m38.015s
+user	0m16.961s
+sys	0m4.311s

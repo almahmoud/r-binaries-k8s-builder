@@ -1,0 +1,240 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'Rtreemix'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Rtreemix_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 906823 bytes (885 KB)
+==================================================
+downloaded 885 KB
+
+* installing *source* package ‘Rtreemix’ ...
+** package ‘Rtreemix’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c Rtreemix.cc -o Rtreemix.o
+Rtreemix.cc: In function ‘replaceleda::array<std::__cxx11::basic_string<char> > C_get_profile(SEXP)’:
+Rtreemix.cc:145:11: error: ‘length’ was not declared in this scope
+  145 |   int L = length(R_events);
+      |           ^~~~~~
+In file included from Rtreemix.cc:25:
+Rtreemix.cc:155:22: error: ‘coerceVector’ was not declared in this scope; did you mean ‘Rf_coerceVector’?
+  155 |   PROTECT(R_events = coerceVector(R_events, STRSXP));
+      |                      ^~~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+Rtreemix.cc: In function ‘replaceleda::integer_matrix C_get_pattern(SEXP)’:
+Rtreemix.cc:191:15: error: ‘getAttrib’ was not declared in this scope; did you mean ‘Rf_getAttrib’?
+  191 |   SEXP Rdim = getAttrib(R_mat, R_DimSymbol);
+      |               ^~~~~~~~~
+      |               Rf_getAttrib
+Rtreemix.cc:201:19: error: ‘coerceVector’ was not declared in this scope; did you mean ‘Rf_coerceVector’?
+  201 |   PROTECT(R_mat = coerceVector(R_mat,INTSXP));
+      |                   ^~~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+Rtreemix.cc: In function ‘SEXPREC* R_int_matrix(replaceleda::integer_matrix)’:
+Rtreemix.cc:245:19: error: ‘allocMatrix’ was not declared in this scope; did you mean ‘Rf_allocMatrix’?
+  245 |   PROTECT(R_mat = allocMatrix(INTSXP, C_mat.dim1(), C_mat.dim2()));
+      |                   ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+Rtreemix.cc: In function ‘SEXPREC* R_real_matrix(replaceleda::matrix)’:
+Rtreemix.cc:301:19: error: ‘allocMatrix’ was not declared in this scope; did you mean ‘Rf_allocMatrix’?
+  301 |   PROTECT(R_mat = allocMatrix(REALSXP, C_mat.dim1(), C_mat.dim2()));
+      |                   ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+Rtreemix.cc: In function ‘SEXPREC* R_real_vector(replaceleda::vector)’:
+Rtreemix.cc:333:19: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  333 |   PROTECT(R_vec = allocVector(REALSXP, v.size()));
+      |                   ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+Rtreemix.cc: In function ‘SEXPREC* R_scalarString(const char*)’:
+Rtreemix.cc:359:17: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  359 |   PROTECT(ans = allocVector(STRSXP, 1));
+      |                 ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+Rtreemix.cc:365:28: error: ‘mkChar’ was not declared in this scope
+  365 |     SET_STRING_ELT(ans, 0, mkChar(v));
+      |                            ^~~~~~
+Rtreemix.cc: In function ‘SEXPREC* R_fit(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+Rtreemix.cc:475:20: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  475 |   PROTECT(result = allocVector(VECSXP, 4));
+      |                    ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+Rtreemix.cc:481:33: error: ‘mkChar’ was not declared in this scope
+  481 |   SET_STRING_ELT(list_names, 0, mkChar("alpha")); // the weight vector of the model
+      |                                 ^~~~~~
+Rtreemix.cc:491:3: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+  491 |   setAttrib(result, R_NamesSymbol, list_names);
+      |   ^~~~~~~~~
+      |   Rf_setAttrib
+Rtreemix.cc:509:31: error: ‘allocMatrix’ was not declared in this scope; did you mean ‘Rf_allocMatrix’?
+  509 |     SET_VECTOR_ELT(result, 2, allocMatrix(REALSXP, 0, 0));
+      |                               ^~~~~~~~~~~
+      |                               Rf_allocMatrix
+Rtreemix.cc: In function ‘SEXPREC* R_fit1(SEXP, SEXP, SEXP, SEXP)’:
+Rtreemix.cc:828:20: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  828 |   PROTECT(result = allocVector(VECSXP, 3));
+      |                    ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+Rtreemix.cc:834:33: error: ‘mkChar’ was not declared in this scope
+  834 |   SET_STRING_ELT(list_names, 0, mkChar("alpha")); // the weight of the tree
+      |                                 ^~~~~~
+Rtreemix.cc:842:3: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+  842 |   setAttrib(result, R_NamesSymbol, list_names);
+      |   ^~~~~~~~~
+      |   Rf_setAttrib
+Rtreemix.cc: In function ‘SEXPREC* R_fit0(SEXP, SEXP, SEXP, SEXP)’:
+Rtreemix.cc:1170:20: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+ 1170 |   PROTECT(result = allocVector(VECSXP, 3));
+      |                    ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+Rtreemix.cc:1176:33: error: ‘mkChar’ was not declared in this scope
+ 1176 |   SET_STRING_ELT(list_names, 0, mkChar("alpha")); // the weight of the star tree
+      |                                 ^~~~~~
+Rtreemix.cc:1184:3: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+ 1184 |   setAttrib(result, R_NamesSymbol, list_names);
+      |   ^~~~~~~~~
+      |   Rf_setAttrib
+Rtreemix.cc: In function ‘SEXPREC* R_bootstrap(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+Rtreemix.cc:1559:20: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+ 1559 |   PROTECT(result = allocVector(VECSXP, 5));
+      |                    ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+Rtreemix.cc:1565:33: error: ‘mkChar’ was not declared in this scope
+ 1565 |   SET_STRING_ELT(list_names, 0, mkChar("alpha")); // the weight vector of the model
+      |                                 ^~~~~~
+Rtreemix.cc:1577:3: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+ 1577 |   setAttrib(result, R_NamesSymbol, list_names);
+      |   ^~~~~~~~~
+      |   Rf_setAttrib
+Rtreemix.cc:1595:31: error: ‘allocMatrix’ was not declared in this scope; did you mean ‘Rf_allocMatrix’?
+ 1595 |     SET_VECTOR_ELT(result, 2, allocMatrix(REALSXP, 0, 0));
+      |                               ^~~~~~~~~~~
+      |                               Rf_allocMatrix
+Rtreemix.cc: In function ‘int get_index(SEXP, const char*)’:
+Rtreemix.cc:1910:23: error: ‘length’ was not declared in this scope
+ 1910 |   for (int i = 0; i < length(listNames); i++) {
+      |                       ^~~~~~
+Rtreemix.cc: In function ‘void R_get_graph(SEXP, SEXP, replaceleda::vector&, replaceleda::array<replaceleda::graph>&, replaceleda::array<replaceleda::map<replaceleda::RefCountPtr<replaceleda::Node>, std::__cxx11::basic_string<char> > >&, replaceleda::array<replaceleda::map<replaceleda::RefCountPtr<replaceleda::Edge>, double> >&, replaceleda::array<replaceleda::map<int, replaceleda::RefCountPtr<replaceleda::Node> > >&)’:
+Rtreemix.cc:1942:21: error: ‘coerceVector’ was not declared in this scope; did you mean ‘Rf_coerceVector’?
+ 1942 |   PROTECT(R_alpha = coerceVector(R_alpha, REALSXP));
+      |                     ^~~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+Rtreemix.cc:1950:12: error: ‘length’ was not declared in this scope
+ 1950 |   G.resize(length(listG));
+      |            ^~~~~~
+In file included from Rtreemix.cc:27:
+Rtreemix.cc:2006:30: error: ‘getAttrib’ was not declared in this scope; did you mean ‘Rf_getAttrib’?
+ 2006 |         names = AS_CHARACTER(getAttrib(ew, R_NamesSymbol));
+      |                              ^~~~~~~~~
+/usr/local/lib/R/include/Rdefines.h:66:49: note: in definition of macro ‘AS_CHARACTER’
+   66 | #define AS_CHARACTER(x)         Rf_coerceVector(x,STRSXP)
+      |                                                 ^
+Rtreemix.cc: In function ‘SEXPREC* R_draw(SEXP, SEXP, SEXP, SEXP, SEXP)’:
+Rtreemix.cc:2068:16: error: ‘length’ was not declared in this scope
+ 2068 |   vector alpha(length(R_trees));      // mixture parameter
+      |                ^~~~~~
+Rtreemix.cc: In function ‘SEXPREC* R_simulate(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+Rtreemix.cc:2132:16: error: ‘length’ was not declared in this scope
+ 2132 |   vector alpha(length(R_trees));      // mixture parameter
+      |                ^~~~~~
+Rtreemix.cc:2176:23: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+ 2176 |   PROTECT(listNames = allocVector(STRSXP, 3));
+      |                       ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+Rtreemix.cc:2178:32: error: ‘mkChar’ was not declared in this scope
+ 2178 |   SET_STRING_ELT(listNames, 0, mkChar("patterns"));
+      |                                ^~~~~~
+Rtreemix.cc:2188:3: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+ 2188 |   setAttrib(result, R_NamesSymbol, listNames);
+      |   ^~~~~~~~~
+      |   Rf_setAttrib
+Rtreemix.cc: In function ‘SEXPREC* R_time(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+Rtreemix.cc:2246:16: error: ‘length’ was not declared in this scope
+ 2246 |   vector alpha(length(R_trees));      // mixture parameter
+      |                ^~~~~~
+Rtreemix.cc:2284:21: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+ 2284 |   PROTECT(R_wtime = allocVector(VECSXP, length(R_trees)));
+      |                     ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+Rtreemix.cc: In function ‘SEXPREC* R_likelihood(SEXP, SEXP, SEXP, SEXP)’:
+Rtreemix.cc:2370:16: error: ‘length’ was not declared in this scope
+ 2370 |   vector alpha(length(R_trees));      // mixture parameter
+      |                ^~~~~~
+Rtreemix.cc:2424:20: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+ 2424 |   PROTECT(result = allocVector(VECSXP, 2));
+      |                    ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+Rtreemix.cc: In function ‘SEXPREC* R_random(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+Rtreemix.cc:2524:20: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+ 2524 |   PROTECT(result = allocVector(VECSXP, 2));
+      |                    ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+Rtreemix.cc:2530:33: error: ‘mkChar’ was not declared in this scope
+ 2530 |   SET_STRING_ELT(list_names, 0, mkChar("alpha")); // the weight vector of the model
+      |                                 ^~~~~~
+Rtreemix.cc:2536:3: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+ 2536 |   setAttrib(result, R_NamesSymbol, list_names);
+      |   ^~~~~~~~~
+      |   Rf_setAttrib
+Rtreemix.cc: In function ‘SEXPREC* R_distr(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+Rtreemix.cc:2801:36: error: ‘length’ was not declared in this scope
+ 2801 |   vector                     alpha(length(R_trees));      // mixture parameter
+      |                                    ^~~~~~
+Rtreemix.cc:2837:20: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+ 2837 |   PROTECT(R_prob = allocVector(REALSXP, prob.dim()));
+      |                    ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+make: *** [/usr/local/lib/R/etc/Makeconf:202: Rtreemix.o] Error 1
+ERROR: compilation failed for package ‘Rtreemix’
+* removing ‘/mnt/library/Rtreemix’
+
+The downloaded source packages are in
+	‘/tmp/RtmpaPub4F/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘Rtreemix’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m23.891s
+user	0m6.576s
+sys	0m2.411s

@@ -1,0 +1,149 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'GSEAlm'
+also installing the dependencies ‘GO.db’, ‘AnnotationForge’, ‘GSEABase’, ‘Category’, ‘hgu95av2.db’, ‘genefilter’, ‘GOstats’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/GO.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 26341489 bytes (25.1 MB)
+==================================================
+downloaded 25.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationForge_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 4036023 bytes (3.8 MB)
+==================================================
+downloaded 3.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GSEABase_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 301339 bytes (294 KB)
+==================================================
+downloaded 294 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Category_2.72.0.tar.gz'
+Content type 'application/x-gzip' length 898436 bytes (877 KB)
+==================================================
+downloaded 877 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/hgu95av2.db_3.13.0.tar.gz'
+Content type 'application/x-gzip' length 529584 bytes (517 KB)
+==================================================
+downloaded 517 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/genefilter_1.88.0.tar.gz'
+Content type 'application/x-gzip' length 1122416 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GOstats_2.72.0.tar.gz'
+Content type 'application/x-gzip' length 3706207 bytes (3.5 MB)
+==================================================
+downloaded 3.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GSEAlm_1.66.0.tar.gz'
+Content type 'application/x-gzip' length 1310051 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+* installing *source* package ‘GO.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GO.db’ as ‘GO.db_3.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GO.db)
+* installing *source* package ‘AnnotationForge’ ...
+** package ‘AnnotationForge’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘AnnotationForge’ as ‘AnnotationForge_1.48.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (AnnotationForge)
+* installing *source* package ‘GSEABase’ ...
+** package ‘GSEABase’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GSEABase’ as ‘GSEABase_1.68.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GSEABase)
+* installing *source* package ‘hgu95av2.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘hgu95av2.db’ as ‘hgu95av2.db_3.13.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hgu95av2.db)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-genefilter’
+* installing *source* package ‘GSEAlm’ ...
+** package ‘GSEAlm’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GSEAlm’ as ‘GSEAlm_1.66.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GSEAlm)
+ERROR: dependency ‘RBGL’ is not available for package ‘Category’
+* removing ‘/mnt/library/Category’
+ERROR: dependencies ‘Category’, ‘RBGL’, ‘Rgraphviz’ are not available for package ‘GOstats’
+* removing ‘/mnt/library/GOstats’
+
+The downloaded source packages are in
+	‘/tmp/Rtmpzotfr6/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘genefilter’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘Category’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘GOstats’ had non-zero exit status
+
+real	2m30.705s
+user	1m24.473s
+sys	0m11.986s

@@ -1,0 +1,64 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'copa'
+also installing the dependency ‘colonCA’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/colonCA_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 802086 bytes (783 KB)
+==================================================
+downloaded 783 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/copa_1.74.0.tar.gz'
+Content type 'application/x-gzip' length 124777 bytes (121 KB)
+==================================================
+downloaded 121 KB
+
+* installing *source* package ‘colonCA’ ...
+** using staged installation
+** data
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘colonCA’ as ‘colonCA_1.48.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (colonCA)
+* installing *source* package ‘copa’ ...
+** package ‘copa’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c copa.c -o copa.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o copa.so copa.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-copa/00new/copa/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘copa’ as ‘copa_1.74.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (copa)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp07CQEK/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	0m30.726s
+user	0m8.633s
+sys	0m3.509s
