@@ -1,0 +1,61 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'crlmm'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/crlmm_1.64.0.tar.gz'
+Content type 'application/x-gzip' length 4487943 bytes (4.3 MB)
+==================================================
+downloaded 4.3 MB
+
+* installing *source* package ‘crlmm’ ...
+** package ‘crlmm’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/preprocessCore/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c gtypeCaller.c -o gtypeCaller.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/preprocessCore/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/preprocessCore/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c trimmed.c -o trimmed.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/preprocessCore/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c utils.c -o utils.o
+utils.c: In function ‘countFileLines’:
+utils.c:290:5: warning: argument 1 null where non-null expected [-Wnonnull]
+  290 |     fclose(fInput);
+      |     ^~~~~~~~~~~~~~
+In file included from /usr/local/lib/R/include/R.h:44,
+                 from utils.c:2:
+/usr/include/stdio.h:184:12: note: in a call to function ‘fclose’ declared ‘nonnull’
+  184 | extern int fclose (FILE *__stream) __nonnull ((1));
+      |            ^~~~~~
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o crlmm.so gtypeCaller.o init.o trimmed.o utils.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-crlmm/00new/crlmm/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+No methods found in package ‘oligoClasses’ for request: ‘mean’ when loading ‘crlmm’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+No methods found in package ‘oligoClasses’ for request: ‘mean’ when loading ‘crlmm’
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+No methods found in package ‘oligoClasses’ for request: ‘mean’ when loading ‘crlmm’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘crlmm’ as ‘crlmm_1.64.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (crlmm)
+
+The downloaded source packages are in
+	‘/tmp/RtmphgHUnx/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m59.392s
+user	0m39.113s
+sys	0m7.650s

@@ -1,0 +1,101 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'seqArchRplus'
+also installing the dependencies ‘CAGEfightR’, ‘CAGEr’, ‘slickR’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/CAGEfightR_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 1796904 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/CAGEr_2.12.0.tar.gz'
+Content type 'application/x-gzip' length 2041489 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/slickR_0.6.0.tar.gz'
+Content type 'binary/octet-stream' length 1690139 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/seqArchRplus_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 3107613 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+* installing *source* package ‘CAGEfightR’ ...
+** package ‘CAGEfightR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CAGEfightR’ as ‘CAGEfightR_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CAGEfightR)
+* installing *binary* package ‘slickR’ ...
+* ‘slickR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘slickR’ as ‘slickR_0.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (slickR)
+* installing *source* package ‘seqArchRplus’ ...
+** package ‘seqArchRplus’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘seqArchRplus’ as ‘seqArchRplus_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (seqArchRplus)
+* installing *source* package ‘CAGEr’ ...
+** package ‘CAGEr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Error: package or namespace load failed for 'CAGEr' in namespaceExport(ns, exports):
+ undefined exports: .DisplayPars, .chrName, .doCache, AlignmentsTrack, AnnotationTrack, BiomartGeneRegionTrack, CustomTrack, DataTrack, DetailsAnnotationTrack, DisplayPars, GeneRegionTrack, GenomeAxisTrack, HighlightTrack, IdeogramTrack, OverlayTrack, RNASequenceTrack, SequenceTrack, UcscTrack, addScheme, availableDefaultMapping, availableDisplayPars, clearSessionCache, drawAxis, drawGD, exportTracks, getScheme, plotTracks
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/CAGEr’
+
+The downloaded source packages are in
+	‘/tmp/RtmpdnFKJX/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘CAGEr’ had non-zero exit status
+
+real	6m43.388s
+user	1m46.894s
+sys	0m16.307s

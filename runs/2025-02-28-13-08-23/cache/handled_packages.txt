@@ -6,6 +6,7 @@ ADAM
 ADAMgui
 ADAPT
 ADImpute
+ADaCGH2
 AGDEX
 AHMassBank
 AIMS
@@ -115,6 +116,7 @@ BiocWorkflowTools
 Biostrings
 BridgeDbR
 BrowserViz
+BubbleTree
 BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
@@ -185,6 +187,7 @@ CexoR
 ChIPComp
 ChIPQC
 ChIPanalyser
+ChIPexoQual
 ChIPpeakAnno
 ChIPseeker
 ChIPseqR
@@ -326,6 +329,7 @@ FitHiC
 FlowSOM
 FuseSOM
 GA4GHclient
+GA4GHshiny
 GARS
 GAprediction
 GBScleanR
@@ -373,6 +377,7 @@ GWASTools
 GWENA
 GateFinder
 GenProSeq
+GenVisR
 GeneBreak
 GeneExpressionSignature
 GeneGA
@@ -389,6 +394,7 @@ GenomicAlignments
 GenomicDataCommons
 GenomicDistributions
 GenomicFeatures
+GenomicFiles
 GenomicInteractionNodes
 GenomicPlot
 GenomicRanges
@@ -407,6 +413,8 @@ GrafGen
 GraphAT
 GraphAlignment
 GreyListChIP
+Guitar
+Gviz
 HDF5Array
 HDTD
 HELP
@@ -450,6 +458,7 @@ IMMAN
 IMPCdata
 INDEED
 INPower
+INSPEcT
 INTACT
 IONiseR
 IPO
@@ -457,6 +466,7 @@ IRanges
 ISAnalytics
 ISLET
 ISoLDE
+IVAS
 IWTomics
 Icens
 IdeoViz
@@ -623,6 +633,7 @@ NetActivity
 NetPathMiner
 NetSAM
 NewWave
+NoRCE
 NormalyzerDE
 NormqPCR
 NuPoP
@@ -663,11 +674,13 @@ PIPETS
 PIUMA
 PLPE
 PLSDAbatch
+POMA
 POWSC
 PPInfer
 PREDA
 PROMISE
 PROPER
+PROPS
 PROcess
 PSMatch
 PWMEnrich
@@ -764,6 +777,7 @@ Rbec
 Rbowtie
 Rbowtie2
 Rbwa
+RcisTarget
 Rcollectl
 Rcpi
 Rcwl
@@ -784,6 +798,7 @@ Rfastp
 RgnTX
 Rgraphviz
 Rhdf5lib
+Rhisat2
 Rhtslib
 RiboCrypt
 RiboDiPA
@@ -963,6 +978,7 @@ XDE
 XINA
 XNAString
 XVector
+Xeva
 ZygosityPredictor
 a4
 a4Base
@@ -986,6 +1002,7 @@ affylmGUI
 aggregateBioVar
 agilp
 airpart
+alabaster
 alabaster.base
 alabaster.bumpy
 alabaster.files
@@ -1012,6 +1029,7 @@ anota2seq
 antiProfiles
 apComplex
 apeglm
+appreci8R
 aroma.light
 arrayQuality
 arrayQualityMetrics
@@ -1099,6 +1117,7 @@ cellmigRation
 cellscape
 cellxgenedp
 censcyt
+cfDNAPro
 cfdnakit
 cghMCR
 chihaya
@@ -1147,6 +1166,8 @@ consensusSeekeR
 convert
 copa
 corral
+coseq
+cosmiq
 cosmosR
 countsimQC
 covEB
@@ -1156,6 +1177,7 @@ cqn
 crisprBase
 crisprBowtie
 crisprBwa
+crlmm
 csaw
 csdR
 ctc
@@ -1217,6 +1239,7 @@ doppelgangR
 doseR
 doubletrouble
 drawProteins
+dreamlet
 drugTargetInteractions
 dupRadar
 dyebias
@@ -1249,6 +1272,7 @@ epivizrServer
 epivizrStandalone
 erccdashboard
 esATAC
+escape
 escheR
 esetVis
 eudysbiome
@@ -1307,6 +1331,7 @@ frmaTools
 funOmics
 gCrisprTools
 gDRcore
+gDRimport
 gDRstyle
 gDRutils
 gINTomics
@@ -1339,6 +1364,7 @@ gep2pep
 getDEE2
 geva
 gg4way
+ggbio
 ggcyto
 ggkegg
 ggmanh
@@ -1362,6 +1388,7 @@ goProfiles
 goSTAG
 goSorensen
 goTools
+goseq
 gpls
 gpuMagic
 granulator
@@ -1398,6 +1425,7 @@ iASeq
 iBBiG
 iBMQ
 iCARE
+iCNV
 iCOBRA
 iChip
 iClusterPlus
@@ -1439,6 +1467,7 @@ isomiRs
 iterativeBMA
 iterativeBMAsurv
 ivygapSE
+karyoploteR
 katdetectr
 kebabs
 keggorthology
@@ -1465,6 +1494,7 @@ lpNet
 lpsymphony
 lute
 m6Aboost
+mBPCR
 maCorrPlot
 maPredictDSC
 maSigPro
@@ -1581,9 +1611,11 @@ mygene
 myvariant
 mzID
 mzR
+ncGTW
 ncRNAtools
 ncdfFlow
 ndexr
+nearBynding
 nempi
 netboost
 nethet
@@ -1597,9 +1629,13 @@ normalize450K
 normr
 npGSEA
 nuCpos
+nucleR
 nucleoSim
+nullranges
 occugene
+octad
 odseq
+oligo
 oligoClasses
 omXplore
 omada
@@ -1626,6 +1662,7 @@ packFinder
 padma
 pageRank
 paircompviz
+pairedGSEA
 pairkat
 pandaR
 panelcn.mops
@@ -1665,6 +1702,8 @@ plasmut
 plgem
 plier
 plotGrouper
+plotgardener
+plyinteractions
 plyranges
 plyxp
 pmm
@@ -1678,6 +1717,7 @@ pram
 prebs
 preciseTAD
 preprocessCore
+proActiv
 proBAMr
 proDA
 procoil
@@ -1731,6 +1771,7 @@ rebook
 receptLoss
 reconsi
 recount3
+recoup
 regionalpcs
 regioneR
 regioneReloaded
@@ -1746,10 +1787,12 @@ rhdf5filters
 rhinotypeR
 riboSeqR
 ribor
+ribosomeProfilingQC
 rifi
 rifiComparative
 rmelting
 rmspc
+rnaEditr
 rnaseqcomp
 roar
 roastgsa
@@ -1794,6 +1837,7 @@ scMitoMut
 scMultiSim
 scPCA
 scPipe
+scRNAseqApp
 scReClassify
 scRecover
 scRepertoire
@@ -1828,10 +1872,12 @@ seahtrue
 sechm
 segmentSeq
 segmenter
+selectKSigs
 semisup
 seq.hotSPOT
 seq2pathway
 seqArchR
+seqArchRplus
 seqCAT
 seqLogo
 seqPattern
@@ -1855,6 +1901,7 @@ simplifyEnrichment
 sincell
 singleCellTK
 singscore
+sitadela
 sitePath
 sizepower
 sketchR
@@ -1908,6 +1955,7 @@ survcomp
 survtype
 sva
 svaNUMT
+svaRetro
 swfdr
 switchBox
 switchde

@@ -1,0 +1,74 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'coseq'
+also installing the dependencies ‘capushe’, ‘HTSCluster’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/capushe_1.1.2.tar.gz'
+Content type 'binary/octet-stream' length 211586 bytes (206 KB)
+==================================================
+downloaded 206 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/HTSCluster_2.0.11.tar.gz'
+Content type 'application/x-tar' length 388857 bytes (379 KB)
+==================================================
+downloaded 379 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/coseq_1.30.0.tar.gz'
+Content type 'application/x-gzip' length 1955096 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+* installing *binary* package ‘capushe’ ...
+* ‘capushe’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘capushe’ as ‘capushe_1.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (capushe)
+* installing *source* package ‘HTSCluster’ ...
+** package ‘HTSCluster’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘HTSCluster’ as ‘HTSCluster_2.0.11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HTSCluster)
+* installing *source* package ‘coseq’ ...
+** package ‘coseq’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘plot’ in package ‘coseq’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘coseq’ as ‘coseq_1.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (coseq)
+
+The downloaded source packages are in
+	‘/tmp/RtmpcTMEZT/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m13.274s
+user	0m34.960s
+sys	0m7.411s

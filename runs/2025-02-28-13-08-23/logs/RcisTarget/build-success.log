@@ -1,0 +1,59 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'RcisTarget'
+also installing the dependency ‘RcisTarget.hg19.motifDBs.cisbpOnly.500bp’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/RcisTarget.hg19.motifDBs.cisbpOnly.500bp_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 56081630 bytes (53.5 MB)
+==================================================
+downloaded 53.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/RcisTarget_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 13426284 bytes (12.8 MB)
+==================================================
+downloaded 12.8 MB
+
+* installing *source* package ‘RcisTarget.hg19.motifDBs.cisbpOnly.500bp’ ...
+** using staged installation
+** data
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RcisTarget.hg19.motifDBs.cisbpOnly.500bp’ as ‘RcisTarget.hg19.motifDBs.cisbpOnly.500bp_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcisTarget.hg19.motifDBs.cisbpOnly.500bp)
+* installing *source* package ‘RcisTarget’ ...
+** package ‘RcisTarget’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RcisTarget’ as ‘RcisTarget_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcisTarget)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpm0I6GT/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m16.898s
+user	0m45.259s
+sys	0m6.680s

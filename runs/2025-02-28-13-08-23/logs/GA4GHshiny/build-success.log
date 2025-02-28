@@ -1,0 +1,42 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'GA4GHshiny'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GA4GHshiny_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 306541 bytes (299 KB)
+==================================================
+downloaded 299 KB
+
+* installing *source* package ‘GA4GHshiny’ ...
+** package ‘GA4GHshiny’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+No methods found in package ‘BiocGenerics’ for request: ‘lengths’ when loading ‘GA4GHclient’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+No methods found in package ‘BiocGenerics’ for request: ‘lengths’ when loading ‘GA4GHclient’
+** testing if installed package can be loaded from final location
+No methods found in package ‘BiocGenerics’ for request: ‘lengths’ when loading ‘GA4GHclient’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GA4GHshiny’ as ‘GA4GHshiny_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GA4GHshiny)
+
+The downloaded source packages are in
+	‘/tmp/RtmpFgebaA/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m56.520s
+user	0m44.332s
+sys	0m7.931s

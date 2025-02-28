@@ -1,0 +1,143 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'appreci8R'
+also installing the dependencies ‘XtraSNPlocs.Hsapiens.dbSNP144.GRCh37’, ‘MafDb.ExAC.r1.0.hs37d5’, ‘MafDb.gnomADex.r2.1.hs37d5’, ‘COSMIC.67’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/XtraSNPlocs.Hsapiens.dbSNP144.GRCh37_0.99.12.tar.gz'
+Content type 'application/x-gzip' length 114217470 bytes (108.9 MB)
+==================================================
+downloaded 108.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/MafDb.ExAC.r1.0.hs37d5_3.10.0.tar.gz'
+Content type 'application/x-gzip' length 173695470 bytes (165.6 MB)
+==================================================
+downloaded 165.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/MafDb.gnomADex.r2.1.hs37d5_3.10.0.tar.gz'
+Content type 'application/x-gzip' length 429619458 bytes (409.7 MB)
+==================================================
+downloaded 409.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/COSMIC.67_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 41082079 bytes (39.2 MB)
+==================================================
+downloaded 39.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/appreci8R_1.24.0.tar.gz'
+Content type 'application/x-gzip' length 1037954 bytes (1013 KB)
+==================================================
+downloaded 1013 KB
+
+* installing *source* package ‘XtraSNPlocs.Hsapiens.dbSNP144.GRCh37’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘XtraSNPlocs.Hsapiens.dbSNP144.GRCh37’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘XtraSNPlocs.Hsapiens.dbSNP144.GRCh37’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘XtraSNPlocs.Hsapiens.dbSNP144.GRCh37’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘XtraSNPlocs.Hsapiens.dbSNP144.GRCh37’ as ‘XtraSNPlocs.Hsapiens.dbSNP144.GRCh37_0.99.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (XtraSNPlocs.Hsapiens.dbSNP144.GRCh37)
+* installing *source* package ‘MafDb.ExAC.r1.0.hs37d5’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘MafDb.ExAC.r1.0.hs37d5’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘MafDb.ExAC.r1.0.hs37d5’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘MafDb.ExAC.r1.0.hs37d5’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MafDb.ExAC.r1.0.hs37d5’ as ‘MafDb.ExAC.r1.0.hs37d5_3.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MafDb.ExAC.r1.0.hs37d5)
+* installing *source* package ‘MafDb.gnomADex.r2.1.hs37d5’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘MafDb.gnomADex.r2.1.hs37d5’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘MafDb.gnomADex.r2.1.hs37d5’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘MafDb.gnomADex.r2.1.hs37d5’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MafDb.gnomADex.r2.1.hs37d5’ as ‘MafDb.gnomADex.r2.1.hs37d5_3.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MafDb.gnomADex.r2.1.hs37d5)
+* installing *source* package ‘COSMIC.67’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘COSMIC.67’ as ‘COSMIC.67_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (COSMIC.67)
+* installing *source* package ‘appreci8R’ ...
+** package ‘appreci8R’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘SNPlocs.Hsapiens.dbSNP144.GRCh37’
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘XtraSNPlocs.Hsapiens.dbSNP144.GRCh37’
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘MafDb.1Kgenomes.phase3.hs37d5’
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘MafDb.ExAC.r1.0.hs37d5’
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘MafDb.gnomADex.r2.1.hs37d5’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘SNPlocs.Hsapiens.dbSNP144.GRCh37’
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘XtraSNPlocs.Hsapiens.dbSNP144.GRCh37’
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘MafDb.1Kgenomes.phase3.hs37d5’
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘MafDb.ExAC.r1.0.hs37d5’
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘MafDb.gnomADex.r2.1.hs37d5’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘SNPlocs.Hsapiens.dbSNP144.GRCh37’
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘XtraSNPlocs.Hsapiens.dbSNP144.GRCh37’
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘MafDb.1Kgenomes.phase3.hs37d5’
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘MafDb.ExAC.r1.0.hs37d5’
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘MafDb.gnomADex.r2.1.hs37d5’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘appreci8R’ as ‘appreci8R_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (appreci8R)
+
+The downloaded source packages are in
+	‘/tmp/RtmprHXg4K/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	7m12.030s
+user	4m29.969s
+sys	0m32.623s
