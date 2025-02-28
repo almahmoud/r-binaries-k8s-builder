@@ -1,0 +1,67 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'Harshlight'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Harshlight_1.78.0.tar.gz'
+Content type 'application/x-gzip' length 275230 bytes (268 KB)
+==================================================
+downloaded 268 KB
+
+* installing *source* package ‘Harshlight’ ...
+** package ‘Harshlight’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Harshlight.c -o Harshlight.o
+Harshlight.c: In function ‘report_overall_header’:
+Harshlight.c:1471:26: warning: unknown conversion type character ‘)’ in format [-Wformat=]
+ 1471 |   PP "%d %d moveto (%.2f%) show\n", x_text_val, y_text - 215, *diff_br);
+      |                          ^
+Harshlight.c:1474:26: warning: unknown conversion type character ‘)’ in format [-Wformat=]
+ 1474 |   PP "%d %d moveto (%.2f%) show\n", x_text_val, y_text - 230, *diff_dr);
+      |                          ^
+Harshlight.c: In function ‘chip_summary’:
+Harshlight.c:1532:107: warning: unknown conversion type character ‘)’ in format [-Wformat=]
+ 1532 |   PP "%d %d moveto (Extended defects: the variance of the Error Image explained by the background is %.2f%) show\n", x_text, y_text - 30, *var);
+      |                                                                                                           ^
+Harshlight.c:1542:26: warning: unknown conversion type character ‘)’ in format [-Wformat=]
+ 1542 |   PP "%d %d moveto (%.2f%) show\n", x_val_1, y_text - 100, *perc_c);
+      |                          ^
+Harshlight.c:1543:26: warning: unknown conversion type character ‘)’ in format [-Wformat=]
+ 1543 |   PP "%d %d moveto (%.2f%) show\n", x_val_2, y_text - 100, *perc_d);
+      |                          ^
+Harshlight.c: In function ‘extended_stop’:
+Harshlight.c:1555:107: warning: unknown conversion type character ‘)’ in format [-Wformat=]
+ 1555 |   PP "%d %d moveto (Extended defects: the variance of the Error Image explained by the background is %.2f%) show\n", x_text, y_text - 30, *var);
+      |                                                                                                           ^
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Harshlight.so Harshlight.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-Harshlight/00new/Harshlight/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Harshlight’ as ‘Harshlight_1.78.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Harshlight)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp7c8J0s/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m35.761s
+user	0m15.534s
+sys	0m3.610s

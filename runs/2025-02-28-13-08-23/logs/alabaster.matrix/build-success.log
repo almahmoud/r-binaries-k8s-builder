@@ -1,0 +1,80 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'alabaster.matrix'
+also installing the dependency ‘chihaya’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/chihaya_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 267132 bytes (260 KB)
+==================================================
+downloaded 260 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/alabaster.matrix_1.6.1.tar.gz'
+Content type 'application/x-gzip' length 282200 bytes (275 KB)
+==================================================
+downloaded 275 KB
+
+* installing *source* package ‘chihaya’ ...
+** package ‘chihaya’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++17
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -D USE_HDF5=1 -D USE_ZLIB=1 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -D USE_HDF5=1 -D USE_ZLIB=1 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c get_best_type.cpp -o get_best_type.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -D USE_HDF5=1 -D USE_ZLIB=1 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c h5exists.cpp -o h5exists.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -D USE_HDF5=1 -D USE_ZLIB=1 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c validate.cpp -o validate.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -D USE_HDF5=1 -D USE_ZLIB=1 -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c write_scalar.cpp -o write_scalar.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o chihaya.so RcppExports.o get_best_type.o h5exists.o validate.o write_scalar.o /mnt/library/Rhdf5lib/lib/libhdf5_cpp.a /mnt/library/Rhdf5lib/lib/libhdf5.a -lcrypto -lcurl -lsz -laec -lz -ldl -lm -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-chihaya/00new/chihaya/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘chihaya’ as ‘chihaya_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (chihaya)
+* installing *source* package ‘alabaster.matrix’ ...
+** package ‘alabaster.matrix’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c collect_attributes.cpp -o collect_attributes.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o alabaster.matrix.so RcppExports.o collect_attributes.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-alabaster.matrix/00new/alabaster.matrix/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘alabaster.matrix’ as ‘alabaster.matrix_1.6.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (alabaster.matrix)
+
+The downloaded source packages are in
+	‘/tmp/RtmpvHvY8D/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m56.814s
+user	0m52.488s
+sys	0m7.824s

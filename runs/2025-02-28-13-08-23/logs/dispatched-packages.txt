@@ -959,3 +959,15 @@ seqPattern
 target
 transite
 triplex
+BANDITS
+BiocSingular
+CompoundDb
+Melissa
+PeacoQC
+beachmat.hdf5
+flowStats
+ggcyto
+memes
+motifTestR
+openCyto
+scrapper

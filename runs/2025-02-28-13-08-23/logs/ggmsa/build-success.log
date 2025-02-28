@@ -1,0 +1,104 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ggmsa'
+also installing the dependencies ‘shades’, ‘ggfittext’, ‘seqmagick’, ‘statebins’, ‘gggenes’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/shades_1.4.0.tar.gz'
+Content type 'binary/octet-stream' length 87221 bytes (85 KB)
+==================================================
+downloaded 85 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggfittext_0.10.2.tar.gz'
+Content type 'binary/octet-stream' length 853068 bytes (833 KB)
+==================================================
+downloaded 833 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/seqmagick_0.1.7.tar.gz'
+Content type 'application/x-tar' length 154716 bytes (151 KB)
+==================================================
+downloaded 151 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/statebins_1.4.0.tar.gz'
+Content type 'binary/octet-stream' length 927072 bytes (905 KB)
+==================================================
+downloaded 905 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gggenes_0.5.1.tar.gz'
+Content type 'binary/octet-stream' length 1238015 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ggmsa_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 3632365 bytes (3.5 MB)
+==================================================
+downloaded 3.5 MB
+
+* installing *binary* package ‘shades’ ...
+* ‘shades’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shades’ as ‘shades_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shades)
+* installing *source* package ‘seqmagick’ ...
+** package ‘seqmagick’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘seqmagick’ as ‘seqmagick_0.1.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (seqmagick)
+* installing *binary* package ‘statebins’ ...
+* ‘statebins’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘statebins’ as ‘statebins_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (statebins)
+* installing *binary* package ‘ggfittext’ ...
+* ‘ggfittext’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggfittext’ as ‘ggfittext_0.10.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggfittext)
+* installing *source* package ‘ggmsa’ ...
+** package ‘ggmsa’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Note: wrong number of arguments to 'seq_len' 
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ggmsa’ as ‘ggmsa_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggmsa)
+* installing *binary* package ‘gggenes’ ...
+* ‘gggenes’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gggenes’ as ‘gggenes_0.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gggenes)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp24ZfB1/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m5.843s
+user	0m26.298s
+sys	0m5.601s
