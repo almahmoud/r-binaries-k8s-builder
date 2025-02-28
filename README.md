@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1961 packages built successfully
+- 1962 packages built successfully
 - 3 packages failed to build
-- 145 packages not yet processed
+- 144 packages not yet processed
 
 ## Failed Builds (3)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
@@ -15,7 +15,7 @@
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
-## Successfully Built (1961)
+## Successfully Built (1962)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                      |
@@ -1979,8 +1979,9 @@
 | [recountmethylation](https://bioconductor.org/packages/3.20/bioc/html/recountmethylation.html)                   | Built    | [Log](runs/2025-02-28-13-08-23/logs/recountmethylation/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/recountmethylation)          |
 | [shinyMethyl](https://bioconductor.org/packages/3.20/bioc/html/shinyMethyl.html)                                 | Built    | [Log](runs/2025-02-28-13-08-23/logs/shinyMethyl/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/shinyMethyl)                 |
 | [uncoverappLib](https://bioconductor.org/packages/3.20/bioc/html/uncoverappLib.html)                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/uncoverappLib/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/uncoverappLib)               |
+| [PING](https://bioconductor.org/packages/3.20/bioc/html/PING.html)                                               | Built    | [Log](runs/2025-02-28-13-08-23/logs/PING/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PING)                        |
 
-## Not Yet Processed (145)
+## Not Yet Processed (144)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [AMARETTO](https://bioconductor.org/packages/3.20/bioc/html/AMARETTO.html)                                     | Unprocessed |
@@ -2020,7 +2021,6 @@
 | [MultiBaC](https://bioconductor.org/packages/3.20/bioc/html/MultiBaC.html)                                     | Unprocessed |
 | [MungeSumstats](https://bioconductor.org/packages/3.20/bioc/html/MungeSumstats.html)                           | Unprocessed |
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                   | Unprocessed |
-| [PING](https://bioconductor.org/packages/3.20/bioc/html/PING.html)                                             | Unprocessed |
 | [PRONE](https://bioconductor.org/packages/3.20/bioc/html/PRONE.html)                                           | Unprocessed |
 | [PhyloProfile](https://bioconductor.org/packages/3.20/bioc/html/PhyloProfile.html)                             | Unprocessed |
 | [Pviz](https://bioconductor.org/packages/3.20/bioc/html/Pviz.html)                                             | Unprocessed |

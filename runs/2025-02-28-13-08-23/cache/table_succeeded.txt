@@ -1959,3 +1959,4 @@
 ['[recountmethylation](https://bioconductor.org/packages/3.20/bioc/html/recountmethylation.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/recountmethylation/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/recountmethylation)']
 ['[shinyMethyl](https://bioconductor.org/packages/3.20/bioc/html/shinyMethyl.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/shinyMethyl/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/shinyMethyl)']
 ['[uncoverappLib](https://bioconductor.org/packages/3.20/bioc/html/uncoverappLib.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/uncoverappLib/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/uncoverappLib)']
+['[PING](https://bioconductor.org/packages/3.20/bioc/html/PING.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/PING/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PING)']
