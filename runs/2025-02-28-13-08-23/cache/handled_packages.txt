@@ -69,6 +69,7 @@ BiGGR
 BiRewire
 BiSeq
 BicARE
+BindingSiteFinder
 BioCartaImage
 BioCor
 BioGA
@@ -151,7 +152,9 @@ CellScore
 CellTrails
 Cepo
 ChIPComp
+ChIPQC
 ChIPanalyser
+ChIPseeker
 ChIPseqR
 ChIPsim
 ChemmineOB
@@ -169,6 +172,7 @@ ClusterJudge
 ClusterSignificance
 CoCiteStats
 CoGAPS
+Cogito
 ComPrAn
 ComplexHeatmap
 CompoundDb
@@ -195,6 +199,7 @@ DEWSeq
 DEqMS
 DEsingle
 DEsubs
+DExMA
 DFP
 DFplyr
 DMRScan
@@ -202,6 +207,7 @@ DMRcaller
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
+DNAfusion
 DNAshapeR
 DOSE
 DRIMSeq
@@ -535,6 +541,8 @@ OncoSimulR
 OpenStats
 OrderedList
 Oscope
+OutSplice
+PAA
 PADOG
 PAIRADISE
 PANR
@@ -950,6 +958,7 @@ countsimQC
 covEB
 cqn
 crisprBase
+crisprBowtie
 csaw
 csdR
 ctc
@@ -1029,6 +1038,7 @@ evaluomeR
 fCI
 fabia
 factDesign
+factR
 faers
 fastLiquidAssociation
 fastreeR
@@ -1089,6 +1099,7 @@ geNetClassifier
 gemini
 gemma.R
 genArise
+geneAttribution
 geneClassifiers
 geneRecommender
 geneRxCluster
@@ -1121,6 +1132,7 @@ girafe
 glmGamPoi
 globalSeq
 globaltest
+gmoviz
 goProfiles
 goSTAG
 goTools
@@ -1418,6 +1430,7 @@ qckitfastq
 qcmetrics
 qmtools
 qpcrNorm
+qpgraph
 qsea
 qsmooth
 qsvaR
@@ -1428,7 +1441,9 @@ qvalue
 r3Cseq
 rBLAST
 rBiopaxParser
+rCGH
 rGADEM
+rGREAT
 rGenomeTracks
 rRDP
 rSWeeP

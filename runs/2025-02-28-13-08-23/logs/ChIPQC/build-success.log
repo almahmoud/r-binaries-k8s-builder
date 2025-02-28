@@ -1,0 +1,93 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ChIPQC'
+also installing the dependencies ‘DiffBind’, ‘TxDb.Rnorvegicus.UCSC.rn4.ensGene’, ‘TxDb.Celegans.UCSC.ce6.ensGene’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DiffBind_3.16.0.tar.gz'
+Content type 'application/x-gzip' length 6804650 bytes (6.5 MB)
+==================================================
+downloaded 6.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/TxDb.Rnorvegicus.UCSC.rn4.ensGene_3.2.2.tar.gz'
+Content type 'application/x-gzip' length 11317481 bytes (10.8 MB)
+==================================================
+downloaded 10.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/TxDb.Celegans.UCSC.ce6.ensGene_3.2.2.tar.gz'
+Content type 'application/x-gzip' length 6934033 bytes (6.6 MB)
+==================================================
+downloaded 6.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ChIPQC_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 1598579 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+* installing *source* package ‘DiffBind’ ...
+** package ‘DiffBind’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/mnt/library/Rhtslib/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c bamReader.cpp -o bamReader.o
+bamReader.cpp: In constructor ‘bode::BamReader::BamReader(const std::string&)’:
+bamReader.cpp:22:5: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+   22 |     error("file '%s' does not appear to be a BAM file (bad magic number)",filename.c_str());
+      |     ^~~~~
+      |     perror
+make: *** [/usr/local/lib/R/etc/Makeconf:204: bamReader.o] Error 1
+ERROR: compilation failed for package ‘DiffBind’
+* removing ‘/mnt/library/DiffBind’
+* installing *source* package ‘TxDb.Rnorvegicus.UCSC.rn4.ensGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Rnorvegicus.UCSC.rn4.ensGene’ as ‘TxDb.Rnorvegicus.UCSC.rn4.ensGene_3.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Rnorvegicus.UCSC.rn4.ensGene)
+* installing *source* package ‘TxDb.Celegans.UCSC.ce6.ensGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Celegans.UCSC.ce6.ensGene’ as ‘TxDb.Celegans.UCSC.ce6.ensGene_3.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Celegans.UCSC.ce6.ensGene)
+ERROR: dependency ‘DiffBind’ is not available for package ‘ChIPQC’
+* removing ‘/mnt/library/ChIPQC’
+
+The downloaded source packages are in
+	‘/tmp/RtmpZfw5iU/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘DiffBind’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘ChIPQC’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	2m58.088s
+user	1m13.709s
+sys	0m10.362s

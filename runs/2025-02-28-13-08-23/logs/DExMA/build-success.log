@@ -1,0 +1,90 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'DExMA'
+also installing the dependencies ‘DExMAdata’, ‘swamp’, ‘bnstruct’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/DExMAdata_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 7748358 bytes (7.4 MB)
+==================================================
+downloaded 7.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/swamp_1.5.1.tar.gz'
+Content type 'application/x-tar' length 32341 bytes (31 KB)
+==================================================
+downloaded 31 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bnstruct_1.0.15.tar.gz'
+Content type 'binary/octet-stream' length 1267008 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DExMA_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 324323 bytes (316 KB)
+==================================================
+downloaded 316 KB
+
+* installing *source* package ‘DExMAdata’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DExMAdata’ as ‘DExMAdata_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DExMAdata)
+* installing *source* package ‘swamp’ ...
+** package ‘swamp’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘swamp’ as ‘swamp_1.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (swamp)
+* installing *binary* package ‘bnstruct’ ...
+* ‘bnstruct’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bnstruct’ as ‘bnstruct_1.0.15_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bnstruct)
+* installing *source* package ‘DExMA’ ...
+** package ‘DExMA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DExMA’ as ‘DExMA_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DExMA)
+
+The downloaded source packages are in
+	‘/tmp/RtmpxmMKQE/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	3m10.718s
+user	1m17.297s
+sys	0m9.649s

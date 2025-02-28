@@ -1863,3 +1863,10 @@ miRspongeR
 pathlinkR
 scTensor
 signatureSearch
+EpiCompare
+MOSClip
+clipper
+esATAC
+preciseTAD
+segmenter
+seqArchRplus
