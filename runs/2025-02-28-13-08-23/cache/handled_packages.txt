@@ -1470,6 +1470,7 @@ metapone
 metaseqR2
 methInheritSim
 methimpute
+methodical
 methrix
 methyLImp2
 methylInheritance
@@ -1802,6 +1803,7 @@ sigFeature
 siggenes
 sights
 signatureSearch
+signeR
 sigsquared
 simPIC
 similaRpeak
@@ -1873,6 +1875,7 @@ syntenet
 systemPipeR
 systemPipeShiny
 systemPipeTools
+tLOH
 tRNA
 tRNAdbImport
 tRNAscanImport
@@ -1935,6 +1938,7 @@ viper
 vissE
 vsclust
 vsn
+vtpnet
 vulcan
 waddR
 wavClusteR

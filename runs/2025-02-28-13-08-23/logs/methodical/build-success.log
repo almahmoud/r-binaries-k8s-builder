@@ -1,0 +1,85 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'methodical'
+also installing the dependencies ‘TumourMethData’, ‘BSgenome.Athaliana.TAIR.TAIR9’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/TumourMethData_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 21147 bytes (20 KB)
+==================================================
+downloaded 20 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Athaliana.TAIR.TAIR9_1.3.1000.tar.gz'
+Content type 'application/x-gzip' length 33800890 bytes (32.2 MB)
+==================================================
+downloaded 32.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/methodical_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 4584381 bytes (4.4 MB)
+==================================================
+downloaded 4.4 MB
+
+* installing *source* package ‘TumourMethData’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘HDF5Array::h5ls’ by ‘rhdf5::h5ls’ when loading ‘TumourMethData’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘HDF5Array::h5ls’ by ‘rhdf5::h5ls’ when loading ‘TumourMethData’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘HDF5Array::h5ls’ by ‘rhdf5::h5ls’ when loading ‘TumourMethData’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TumourMethData’ as ‘TumourMethData_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TumourMethData)
+* installing *source* package ‘BSgenome.Athaliana.TAIR.TAIR9’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Athaliana.TAIR.TAIR9’ as ‘BSgenome.Athaliana.TAIR.TAIR9_1.3.1000_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Athaliana.TAIR.TAIR9)
+* installing *source* package ‘methodical’ ...
+** package ‘methodical’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘methodical’ as ‘methodical_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (methodical)
+
+The downloaded source packages are in
+	‘/tmp/RtmpRszSHe/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m29.427s
+user	1m28.765s
+sys	0m13.564s

@@ -1953,3 +1953,7 @@ igvR
 REDseq
 scoreInvHap
 vulcan
+methodical
+signeR
+tLOH
+vtpnet

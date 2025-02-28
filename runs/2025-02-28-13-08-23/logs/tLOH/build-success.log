@@ -1,0 +1,102 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'tLOH'
+also installing the dependencies ‘lamW’, ‘LambertW’, ‘butcher’, ‘visdat’, ‘bestNormalize’, ‘naniar’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lamW_2.2.4.tar.gz'
+Content type 'binary/octet-stream' length 51875 bytes (50 KB)
+==================================================
+downloaded 50 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/LambertW_0.6.9-1.tar.gz'
+Content type 'binary/octet-stream' length 716082 bytes (699 KB)
+==================================================
+downloaded 699 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/butcher_0.3.4.tar.gz'
+Content type 'binary/octet-stream' length 278301 bytes (271 KB)
+==================================================
+downloaded 271 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/visdat_0.6.0.tar.gz'
+Content type 'binary/octet-stream' length 1136956 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bestNormalize_1.9.1.tar.gz'
+Content type 'binary/octet-stream' length 1070525 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/naniar_1.1.0.tar.gz'
+Content type 'binary/octet-stream' length 2749849 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/tLOH_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 2373965 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+* installing *binary* package ‘lamW’ ...
+* ‘lamW’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lamW’ as ‘lamW_2.2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lamW)
+* installing *binary* package ‘butcher’ ...
+* ‘butcher’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘butcher’ as ‘butcher_0.3.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (butcher)
+* installing *binary* package ‘visdat’ ...
+* ‘visdat’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘visdat’ as ‘visdat_0.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (visdat)
+* installing *binary* package ‘LambertW’ ...
+* ‘LambertW’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘LambertW’ as ‘LambertW_0.6.9-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (LambertW)
+* installing *binary* package ‘naniar’ ...
+* ‘naniar’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘naniar’ as ‘naniar_1.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (naniar)
+* installing *binary* package ‘bestNormalize’ ...
+* ‘bestNormalize’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bestNormalize’ as ‘bestNormalize_1.9.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bestNormalize)
+* installing *source* package ‘tLOH’ ...
+** package ‘tLOH’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tLOH’ as ‘tLOH_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tLOH)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp0XjPN2/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	1m48.136s
+user	0m53.243s
+sys	0m9.611s

@@ -1829,3 +1829,7 @@
 ['[igvR](https://bioconductor.org/packages/3.20/bioc/html/igvR.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/igvR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/igvR)']
 ['[scoreInvHap](https://bioconductor.org/packages/3.20/bioc/html/scoreInvHap.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/scoreInvHap/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scoreInvHap)']
 ['[vulcan](https://bioconductor.org/packages/3.20/bioc/html/vulcan.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/vulcan/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/vulcan)']
+['[methodical](https://bioconductor.org/packages/3.20/bioc/html/methodical.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/methodical/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methodical)']
+['[signeR](https://bioconductor.org/packages/3.20/bioc/html/signeR.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/signeR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/signeR)']
+['[tLOH](https://bioconductor.org/packages/3.20/bioc/html/tLOH.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/tLOH/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tLOH)']
+['[vtpnet](https://bioconductor.org/packages/3.20/bioc/html/vtpnet.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/vtpnet/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/vtpnet)']

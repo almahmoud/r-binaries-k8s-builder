@@ -1,0 +1,74 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'signeR'
+also installing the dependencies ‘tidytidbits’, ‘survivalAnalysis’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidytidbits_0.3.2.tar.gz'
+Content type 'binary/octet-stream' length 170888 bytes (166 KB)
+==================================================
+downloaded 166 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/survivalAnalysis_0.3.0.tar.gz'
+Content type 'binary/octet-stream' length 383938 bytes (374 KB)
+==================================================
+downloaded 374 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/signeR_2.8.0.tar.gz'
+Content type 'application/x-gzip' length 4464377 bytes (4.3 MB)
+==================================================
+downloaded 4.3 MB
+
+* installing *binary* package ‘tidytidbits’ ...
+* ‘tidytidbits’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidytidbits’ as ‘tidytidbits_0.3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidytidbits)
+* installing *binary* package ‘survivalAnalysis’ ...
+* ‘survivalAnalysis’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘survivalAnalysis’ as ‘survivalAnalysis_0.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (survivalAnalysis)
+* installing *source* package ‘signeR’ ...
+** package ‘signeR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c fuzzy.cpp -o fuzzy.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c gibbs_2.cpp -o gibbs_2.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c signeR_init.c -o signeR_init.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o signeR.so RcppExports.o fuzzy.o gibbs_2.o signeR_init.o -Wl,-S -llapack -lblas -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-signeR/00new/signeR/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘signeR’ as ‘signeR_2.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (signeR)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpw2f0XB/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	2m28.798s
+user	1m23.366s
+sys	0m11.643s
