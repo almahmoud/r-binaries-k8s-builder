@@ -791,3 +791,14 @@ flowTrans
 MetaCyto
 msPurity
 tidytof
+Biostrings
+DelayedMatrixStats
+DelayedRandomArray
+flowMerge
+GateFinder
+optimalFlow
+Rarr
+ResidualMatrix
+ScaledMatrix
+SQLDataFrame
+uSORT

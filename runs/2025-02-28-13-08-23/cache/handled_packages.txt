@@ -49,6 +49,7 @@ BiocPkgTools
 BiocStyle
 BiocVersion
 BiocWorkflowTools
+Biostrings
 BridgeDbR
 BrowserViz
 BufferedMatrix
@@ -108,6 +109,8 @@ DeMAND
 DeconRNASeq
 DeepPINCS
 DelayedArray
+DelayedMatrixStats
+DelayedRandomArray
 DepInfeR
 DepecheR
 DiffLogo
@@ -153,6 +156,7 @@ GSEAmining
 GSgalgoR
 GWAS.BAYES
 GWASTools
+GateFinder
 GenProSeq
 GeneExpressionSignature
 GeneGA
@@ -315,6 +319,7 @@ RUVcorr
 RUVnormalize
 RVS
 RankProd
+Rarr
 RbcBook1
 Rbowtie
 Rbwa
@@ -327,6 +332,7 @@ ReactomeGSA
 ReadqPCR
 RedeR
 RedisParam
+ResidualMatrix
 Rfastp
 Rgraphviz
 Rhdf5lib
@@ -353,11 +359,13 @@ SNPRelate
 SNPediaR
 SPEM
 SPIA
+SQLDataFrame
 SRAdb
 STATegRa
 STRINGdb
 SUITOR
 SamSPECTRAL
+ScaledMatrix
 Sconify
 ScreenR
 SharedObject
@@ -513,6 +521,7 @@ flowFP
 flowGraph
 flowMatch
 flowMeans
+flowMerge
 flowPeaks
 flowPloidy
 flowPlots
@@ -653,6 +662,7 @@ omada
 ompBAM
 onlineFDR
 oppti
+optimalFlow
 paircompviz
 pandaR
 panp
@@ -780,6 +790,7 @@ tweeDEseq
 twilight
 twoddpcr
 tximport
+uSORT
 unifiedWMWqPCR
 updateObject
 variancePartition
