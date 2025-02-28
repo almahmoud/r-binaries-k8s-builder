@@ -643,6 +643,7 @@ SCArray
 SCArray.sat
 SCBN
 SCFA
+SCOPE
 SCnorm
 SDAMS
 SELEX
@@ -724,6 +725,7 @@ TEKRABber
 TENxIO
 TEQC
 TFARM
+TFBSTools
 TFutils
 TIN
 TMSig
@@ -1086,6 +1088,7 @@ gypsum
 h5vc
 hapFabia
 hca
+hdxmsqc
 heatmaps
 hermes
 hiAnnotator
@@ -1183,18 +1186,21 @@ metabCombiner
 metabinR
 metabolomicsWorkbenchR
 metabomxtr
+metagene2
 metagenomeSeq
 metahdep
 metapod
 metapone
 methimpute
 methyLImp2
+methylKit
 methylMnM
 methylscaper
 mfa
 mgsa
 miQC
 miRBaseConverter
+miRLAB
 miRNAmeConverter
 miRNApath
 miRNAtap
@@ -1202,6 +1208,7 @@ miRcomp
 mia
 miaSim
 microRNA
+microSTASIS
 microbiome
 microbiomeDASim
 microbiomeExplorer
@@ -1218,6 +1225,7 @@ mitch
 mixOmics
 mnem
 moanin
+mobileRNA
 mogsa
 monocle
 mosaics

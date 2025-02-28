@@ -1766,3 +1766,10 @@ MGnifyR
 SigCheck
 dar
 miaViz
+MatrixRider
+chromVAR
+methInheritSim
+methylInheritance
+monaLisa
+motifStack
+motifmatchr

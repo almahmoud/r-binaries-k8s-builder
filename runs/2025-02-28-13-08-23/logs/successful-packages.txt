@@ -1595,3 +1595,11 @@ Repitools
 scMerge
 seqsetvis
 SGCP
+hdxmsqc
+metagene2
+methylKit
+microSTASIS
+miRLAB
+mobileRNA
+SCOPE
+TFBSTools

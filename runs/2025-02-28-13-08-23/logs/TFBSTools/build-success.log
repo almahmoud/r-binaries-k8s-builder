@@ -1,0 +1,112 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'TFBSTools'
+also installing the dependencies ‘JASPAR2014’, ‘JASPAR2016’, ‘JASPAR2018’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/JASPAR2014_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 44972609 bytes (42.9 MB)
+==================================================
+downloaded 42.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/JASPAR2016_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 9137989 bytes (8.7 MB)
+==================================================
+downloaded 8.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/JASPAR2018_1.1.1.tar.gz'
+Content type 'application/x-gzip' length 14253704 bytes (13.6 MB)
+==================================================
+downloaded 13.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/TFBSTools_1.44.0.tar.gz'
+Content type 'application/x-gzip' length 601197 bytes (587 KB)
+==================================================
+downloaded 587 KB
+
+* installing *source* package ‘JASPAR2014’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘JASPAR2014’ as ‘JASPAR2014_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (JASPAR2014)
+* installing *source* package ‘JASPAR2016’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘JASPAR2016’ as ‘JASPAR2016_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (JASPAR2016)
+* installing *source* package ‘JASPAR2018’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘JASPAR2018’ as ‘JASPAR2018_1.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (JASPAR2018)
+* installing *source* package ‘TFBSTools’ ...
+** package ‘TFBSTools’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c matrixAlignerDynamic.c -o matrixAlignerDynamic.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_TFBSTools.c -o R_init_TFBSTools.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o TFBSTools.so matrixAlignerDynamic.o R_init_TFBSTools.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-TFBSTools/00new/TFBSTools/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘seqLogo’ in package ‘TFBSTools’
+Creating a generic function for ‘colSums’ from package ‘base’ in package ‘TFBSTools’
+Creating a generic function for ‘rowSums’ from package ‘base’ in package ‘TFBSTools’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TFBSTools’ as ‘TFBSTools_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TFBSTools)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp14zkvf/downloaded_packages’
+Old packages: 'bslib', 'cli', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme',
+  'nnet', 'rpart', 'spatial'
+
+real	4m14.591s
+user	1m32.019s
+sys	0m12.741s
