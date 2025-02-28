@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1969 packages built successfully
+- 1971 packages built successfully
 - 3 packages failed to build
-- 137 packages not yet processed
+- 135 packages not yet processed
 
 ## Failed Builds (3)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
@@ -15,7 +15,7 @@
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
-## Successfully Built (1969)
+## Successfully Built (1971)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                      |
@@ -1987,8 +1987,10 @@
 | [cageminer](https://bioconductor.org/packages/3.20/bioc/html/cageminer.html)                                     | Built    | [Log](runs/2025-02-28-13-08-23/logs/cageminer/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cageminer)                   |
 | [epimutacions](https://bioconductor.org/packages/3.20/bioc/html/epimutacions.html)                               | Built    | [Log](runs/2025-02-28-13-08-23/logs/epimutacions/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epimutacions)                |
 | [shinyepico](https://bioconductor.org/packages/3.20/bioc/html/shinyepico.html)                                   | Built    | [Log](runs/2025-02-28-13-08-23/logs/shinyepico/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/shinyepico)                  |
+| [DrugVsDisease](https://bioconductor.org/packages/3.20/bioc/html/DrugVsDisease.html)                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/DrugVsDisease/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DrugVsDisease)               |
+| [methylclock](https://bioconductor.org/packages/3.20/bioc/html/methylclock.html)                                 | Built    | [Log](runs/2025-02-28-13-08-23/logs/methylclock/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methylclock)                 |
 
-## Not Yet Processed (137)
+## Not Yet Processed (135)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [AMARETTO](https://bioconductor.org/packages/3.20/bioc/html/AMARETTO.html)                                     | Unprocessed |
@@ -2007,7 +2009,6 @@
 | [CytoPipelineGUI](https://bioconductor.org/packages/3.20/bioc/html/CytoPipelineGUI.html)                       | Unprocessed |
 | [DMRcate](https://bioconductor.org/packages/3.20/bioc/html/DMRcate.html)                                       | Unprocessed |
 | [DeepTarget](https://bioconductor.org/packages/3.20/bioc/html/DeepTarget.html)                                 | Unprocessed |
-| [DrugVsDisease](https://bioconductor.org/packages/3.20/bioc/html/DrugVsDisease.html)                           | Unprocessed |
 | [ENmix](https://bioconductor.org/packages/3.20/bioc/html/ENmix.html)                                           | Unprocessed |
 | [EWCE](https://bioconductor.org/packages/3.20/bioc/html/EWCE.html)                                             | Unprocessed |
 | [EpipwR](https://bioconductor.org/packages/3.20/bioc/html/EpipwR.html)                                         | Unprocessed |
@@ -2097,7 +2098,6 @@
 | [methylCC](https://bioconductor.org/packages/3.20/bioc/html/methylCC.html)                                     | Unprocessed |
 | [methylGSA](https://bioconductor.org/packages/3.20/bioc/html/methylGSA.html)                                   | Unprocessed |
 | [methylPipe](https://bioconductor.org/packages/3.20/bioc/html/methylPipe.html)                                 | Unprocessed |
-| [methylclock](https://bioconductor.org/packages/3.20/bioc/html/methylclock.html)                               | Unprocessed |
 | [methylumi](https://bioconductor.org/packages/3.20/bioc/html/methylumi.html)                                   | Unprocessed |
 | [missMethyl](https://bioconductor.org/packages/3.20/bioc/html/missMethyl.html)                                 | Unprocessed |
 | [mosdef](https://bioconductor.org/packages/3.20/bioc/html/mosdef.html)                                         | Unprocessed |

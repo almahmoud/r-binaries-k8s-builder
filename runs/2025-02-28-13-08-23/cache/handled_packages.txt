@@ -293,6 +293,7 @@ DominoEffect
 Doscheda
 DriverNet
 DropletUtils
+DrugVsDisease
 Dune
 DuplexDiscovereR
 DynDoc
@@ -1572,6 +1573,7 @@ methylInheritance
 methylKit
 methylMnM
 methylSig
+methylclock
 methylscaper
 mfa
 mgsa
