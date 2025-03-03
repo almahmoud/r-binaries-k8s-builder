@@ -2213,3 +2213,6 @@ SingleMoleculeFootprinting
 YAPSA
 bigmelon
 skewr
+CFAssay
+DelayedTensor
+mbkmeans
