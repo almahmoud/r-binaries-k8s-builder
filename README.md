@@ -5,15 +5,9 @@
 ## Summary
 
 - 2069 packages built successfully
-- 3 packages failed to build
+- 0 packages failed to build
 - 37 packages not yet processed
 
-## Failed Builds (3)
-| Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
-|--------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| [CFAssay](https://bioconductor.org/packages/3.20/bioc/html/CFAssay.html)             | Failed   | [Log](runs/2025-02-28-13-08-23/logs/CFAssay/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CFAssay)       | Missing R dependency: BiocVersion                                             |
-| [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
-| [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
 ## Successfully Built (2069)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
