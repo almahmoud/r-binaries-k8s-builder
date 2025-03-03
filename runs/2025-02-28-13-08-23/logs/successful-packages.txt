@@ -2189,3 +2189,6 @@ MEAT
 SingleMoleculeFootprinting
 skewr
 YAPSA
+CFAssay
+DelayedTensor
+mbkmeans

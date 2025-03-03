@@ -1,0 +1,58 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'DelayedTensor'
+also installing the dependency ‘einsum’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/einsum_0.1.2.tar.gz'
+Content type 'binary/octet-stream' length 70208 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedTensor_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 4331227 bytes (4.1 MB)
+==================================================
+downloaded 4.1 MB
+
+* installing *binary* package ‘einsum’ ...
+* ‘einsum’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘einsum’ as ‘einsum_0.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (einsum)
+* installing *source* package ‘DelayedTensor’ ...
+** package ‘DelayedTensor’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘kronecker’ in package ‘DelayedTensor’
+Creating a new generic function for ‘diag’ in package ‘DelayedTensor’
+Creating a new generic function for ‘diag<-’ in package ‘DelayedTensor’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DelayedTensor’ as ‘DelayedTensor_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DelayedTensor)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpm9S6EW/downloaded_packages’
+Old packages: 'AHMassBank', 'clusterProfiler', 'COTAN', 'flexclust', 'flexmix',
+  'insight', 'missMethyl', 'nnSVG', 'omXplore', 'ORFik', 'pander',
+  'rapportools', 'renv', 'segmented', 'smoothclust', 'bslib', 'cli', 'curl',
+  'evaluate', 'httr2', 'jsonlite', 'openssl', 'pillar', 'pkgbuild', 'processx',
+  'ps', 'purrr', 'R6', 'Rcpp', 'rlang', 'sessioninfo', 'systemfonts',
+  'testthat', 'textshaping', 'tinytex', 'xfun', 'xml2', 'zip', 'class',
+  'foreign', 'KernSmooth', 'MASS', 'Matrix', 'nlme', 'nnet', 'rpart', 'spatial'
+
+real	0m44.102s
+user	0m28.907s
+sys	0m6.373s
