@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2068 packages built successfully
+- 2069 packages built successfully
 - 3 packages failed to build
-- 38 packages not yet processed
+- 37 packages not yet processed
 
 ## Failed Builds (3)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                                                               |
@@ -15,7 +15,7 @@
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html) | Failed   | [Log](runs/2025-02-28-13-08-23/logs/DelayedTensor/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedTensor) | Error: Bioconductor version cannot be validated; no internet connection?  See |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)           | Failed   | [Log](runs/2025-02-28-13-08-23/logs/mbkmeans/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)      | Error: Bioconductor version cannot be validated; no internet connection?  See |
 
-## Successfully Built (2068)
+## Successfully Built (2069)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                           | Built    | [Log](runs/2025-02-28-13-08-23/logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ABSSeq)                      |
@@ -2086,8 +2086,9 @@
 | [bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)                                       | Built    | [Log](runs/2025-02-28-13-08-23/logs/bigmelon/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bigmelon)                    |
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                             | Built    | [Log](runs/2025-02-28-13-08-23/logs/skewr/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/skewr)                       |
 | [clusterExperiment](https://bioconductor.org/packages/3.20/bioc/html/clusterExperiment.html)                     | Built    | [Log](runs/2025-02-28-13-08-23/logs/clusterExperiment/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/clusterExperiment)           |
+| [netSmooth](https://bioconductor.org/packages/3.20/bioc/html/netSmooth.html)                                     | Built    | [Log](runs/2025-02-28-13-08-23/logs/netSmooth/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/netSmooth)                   |
 
-## Not Yet Processed (38)
+## Not Yet Processed (37)
 | Package                                                                                  | Status      |
 |------------------------------------------------------------------------------------------|-------------|
 | [AMARETTO](https://bioconductor.org/packages/3.20/bioc/html/AMARETTO.html)               | Unprocessed |
@@ -2122,7 +2123,6 @@
 | [hpar](https://bioconductor.org/packages/3.20/bioc/html/hpar.html)                       | Unprocessed |
 | [knowYourCG](https://bioconductor.org/packages/3.20/bioc/html/knowYourCG.html)           | Unprocessed |
 | [lipidr](https://bioconductor.org/packages/3.20/bioc/html/lipidr.html)                   | Unprocessed |
-| [netSmooth](https://bioconductor.org/packages/3.20/bioc/html/netSmooth.html)             | Unprocessed |
 | [orthos](https://bioconductor.org/packages/3.20/bioc/html/orthos.html)                   | Unprocessed |
 | [phenomis](https://bioconductor.org/packages/3.20/bioc/html/phenomis.html)               | Unprocessed |
 | [ropls](https://bioconductor.org/packages/3.20/bioc/html/ropls.html)                     | Unprocessed |

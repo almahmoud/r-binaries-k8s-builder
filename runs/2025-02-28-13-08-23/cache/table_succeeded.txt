@@ -2066,3 +2066,4 @@
 ['[bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/bigmelon/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bigmelon)']
 ['[skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/skewr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/skewr)']
 ['[clusterExperiment](https://bioconductor.org/packages/3.20/bioc/html/clusterExperiment.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/clusterExperiment/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/clusterExperiment)']
+['[netSmooth](https://bioconductor.org/packages/3.20/bioc/html/netSmooth.html)', 'Built', '[Log](runs/2025-02-28-13-08-23/logs/netSmooth/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/netSmooth)']

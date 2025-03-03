@@ -1729,6 +1729,7 @@ ncdfFlow
 ndexr
 nearBynding
 nempi
+netSmooth
 netZooR
 netboost
 nethet
