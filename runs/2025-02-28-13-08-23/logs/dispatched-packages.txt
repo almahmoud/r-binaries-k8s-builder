@@ -2217,3 +2217,4 @@ CFAssay
 DelayedTensor
 mbkmeans
 clusterExperiment
+netSmooth
