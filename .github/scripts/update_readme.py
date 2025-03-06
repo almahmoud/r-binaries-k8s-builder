@@ -129,12 +129,11 @@ def load_table_cache(run_id):
     cache_dir = f"runs/{run_id}/cache"
     succeeded_file = f"{cache_dir}/table_succeeded.txt"
     failed_file = f"{cache_dir}/table_failed.txt"
-    handled_file = f"{cache_dir}/handled_packages.txt"
     
     cache = {
-        "succeeded": [],  # List of [pkg_link, status, log_link, bbs] entries
-        "failed": [],    # List of [pkg_link, status, log_link, bbs, reasons] entries
-        "handled_packages": set()
+        "succeeded": [],
+        "failed": [],
+        "handled_packages": set()  # Only packages with valid BBS status
     }
     
     os.makedirs(cache_dir, exist_ok=True)
@@ -143,17 +142,23 @@ def load_table_cache(run_id):
         with open(succeeded_file) as f:
             for line in f:
                 if line.strip():
-                    cache["succeeded"].append(eval(line.strip()))
+                    entry = eval(line.strip())
+                    cache["succeeded"].append(entry)
+                    # Only consider handled if BBS status was found
+                    if entry[3] != "Not Found":
+                        pkg_name = entry[0][1:entry[0].find(']')]  # Extract name from markdown link
+                        cache["handled_packages"].add(pkg_name)
     
     if os.path.exists(failed_file):
         with open(failed_file) as f:
             for line in f:
                 if line.strip():
-                    cache["failed"].append(eval(line.strip()))
-    
-    if os.path.exists(handled_file):
-        with open(handled_file) as f:
-            cache["handled_packages"].update(line.strip() for line in f if line.strip())
+                    entry = eval(line.strip())
+                    cache["failed"].append(entry)
+                    # Only consider handled if BBS status was found
+                    if entry[3] != "Not Found":
+                        pkg_name = entry[0][1:entry[0].find(']')]
+                        cache["handled_packages"].add(pkg_name)
     
     return cache
 
@@ -201,6 +206,25 @@ def main(run_id):
     # Process only unhandled packages
     new_packages = (successful | failed) - cache["handled_packages"]
     print(f"Found {len(new_packages)} new packages to document")
+    
+    # Process new packages and retry BBS status for cached packages with "Not Found"
+    need_bbs_check = new_packages | {
+        pkg[0][1:pkg[0].find(']')] for pkg in cache["succeeded"] + cache["failed"]
+        if pkg[3] == "Not Found"
+    }
+    
+    print(f"Found {len(need_bbs_check)} packages needing BBS status check")
+    
+    # Update existing entries that need BBS recheck
+    for entries in [cache["succeeded"], cache["failed"]]:
+        for entry in entries:
+            pkg = entry[0][1:entry[0].find(']')]
+            if pkg in need_bbs_check and pkg not in new_packages:
+                print(f"Rechecking BBS status for {pkg}...")
+                bbs = get_bbs_status(pkg, bioc_version)
+                if bbs != "Not Found":
+                    entry[3] = bbs  # Update BBS status
+                    cache["handled_packages"].add(pkg)
     
     # Process new packages
     for pkg in sorted(new_packages):
