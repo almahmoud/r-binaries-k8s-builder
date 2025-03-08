@@ -40,6 +40,7 @@ BUMHMM
 BUS
 BUScorrect
 BUSseq
+Banksy
 BaseSpaceR
 BayesKnockdown
 BeadDataPackR
@@ -73,6 +74,7 @@ BufferedMatrixMethods
 BumpyMatrix
 CARNIVAL
 CCPlotR
+CDI
 CFAssay
 CGEN
 CGHbase
@@ -101,6 +103,7 @@ CTDquerier
 CTSV
 Cardinal
 CardinalIO
+CatsCradle
 CausalR
 CellMapper
 CellNOptR
@@ -124,6 +127,7 @@ DCATS
 DECIPHER
 DEGraph
 DEGseq
+DESpace
 DEqMS
 DEsingle
 DFP
@@ -515,6 +519,7 @@ TrajectoryGeometry
 TrajectoryUtils
 TreeAndLeaf
 TreeSummarizedExperiment
+Trendy
 TurboNorm
 UCSC.utils
 UCell
@@ -718,12 +723,14 @@ geneRecommender
 geneRxCluster
 geneplast
 genoCN
+genomeIntervals
 genomes
 genomicInstability
 geva
 ggcyto
 ggkegg
 ggmanh
+ggspavis
 ggtree
 ggtreeDendro
 ggtreeExtra
@@ -739,9 +746,11 @@ gypsum
 h5vc
 hapFabia
 hca
+heatmaps
 hierGWAS
 hierinf
 hmdbQuery
+hoodscanR
 hopach
 hypeR
 hyperdraw
@@ -770,6 +779,7 @@ interactiveDisplayBase
 iterativeBMA
 iterativeBMAsurv
 ivygapSE
+kebabs
 koinar
 lapmix
 ldblock
@@ -797,6 +807,7 @@ matter
 mbQTL
 mdp
 mdqc
+megadepth
 messina
 metaCCA
 metaSeq
@@ -957,6 +968,7 @@ scHOT
 scMET
 scMitoMut
 scMultiSim
+scPCA
 scReClassify
 scRecover
 scShapes
@@ -964,6 +976,7 @@ scTHI
 scanMiR
 scatterHatch
 scde
+scds
 schex
 scifer
 scmap
@@ -993,12 +1006,16 @@ sitePath
 sizepower
 sketchR
 smartid
+smoothclust
 snapcount
 snifter
 snm
 snpStats
+spaSim
 sparseMatrixStats
 sparsenetgls
+spatialDE
+spatialSimGP
 specL
 spikeLI
 spkTools
@@ -1009,6 +1026,7 @@ sscu
 ssize
 ssrch
 ssviz
+stJoincount
 stageR
 statTarget
 stepNorm
@@ -1035,6 +1053,7 @@ timescape
 tkWidgets
 tomoseqr
 topconfects
+tpSVG
 tracktables
 transite
 treeio
@@ -1057,6 +1076,7 @@ vsn
 weaver
 widgetTools
 wppi
+xenLite
 xmapbridge
 yamss
 zlibbioc

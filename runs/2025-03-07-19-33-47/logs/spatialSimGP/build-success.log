@@ -1,0 +1,51 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'spatialSimGP'
+also installing the dependency ‘STexampleData’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/STexampleData_1.14.1.tar.gz'
+Content type 'application/x-gzip' length 241144 bytes (235 KB)
+==================================================
+downloaded 235 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/spatialSimGP_1.0.0.tar.gz'
+Content type 'application/x-gzip' length 711510 bytes (694 KB)
+==================================================
+downloaded 694 KB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-STexampleData’
+* installing *source* package ‘spatialSimGP’ ...
+** package ‘spatialSimGP’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘spatialSimGP’ as ‘spatialSimGP_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spatialSimGP)
+
+The downloaded source packages are in
+	‘/tmp/RtmpJErzU6/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘STexampleData’ had non-zero exit status
+
+real	0m47.618s
+user	0m24.957s
+sys	0m4.617s
