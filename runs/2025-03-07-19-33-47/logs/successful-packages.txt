@@ -2016,3 +2016,8 @@ phenoTest
 scClassify
 signeR
 zenith
+monaLisa
+motifmatchr
+PAA
+PRONE
+RnBeads

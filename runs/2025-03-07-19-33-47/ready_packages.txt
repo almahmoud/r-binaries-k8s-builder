@@ -1,10 +1,6 @@
-ATACseqQC
-arrayMvout
-atSNP
-canceR
-dagLogo
-dreamlet
-ffpe
-iCheck
-ribosomeProfilingQC
-wateRmelon
+ATACseqTFEA
+MAGAR
+enhancerHomologSearch
+epiregulon
+esATAC
+pageRank

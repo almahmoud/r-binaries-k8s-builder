@@ -2101,3 +2101,9 @@ ffpe
 iCheck
 ribosomeProfilingQC
 wateRmelon
+ATACseqTFEA
+MAGAR
+enhancerHomologSearch
+epiregulon
+esATAC
+pageRank

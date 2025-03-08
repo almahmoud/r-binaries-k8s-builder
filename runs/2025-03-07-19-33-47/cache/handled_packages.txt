@@ -656,6 +656,7 @@ Organism.dplyr
 OrganismDbi
 Oscope
 OutSplice
+PAA
 PADOG
 PAIRADISE
 PANR
@@ -673,6 +674,7 @@ POWSC
 PPInfer
 PREDA
 PROMISE
+PRONE
 PROPER
 PROPS
 PROcess
@@ -794,6 +796,7 @@ RiboCrypt
 RiboDiPA
 Rmagpie
 Rmmquant
+RnBeads
 Rnits
 RolDE
 Rsamtools
@@ -1541,6 +1544,7 @@ mnem
 moanin
 mobileRNA
 mogsa
+monaLisa
 monocle
 mosaics
 mosbi
@@ -1548,6 +1552,7 @@ mosdef
 motifStack
 motifTestR
 motifcounter
+motifmatchr
 mpra
 msImpute
 msPurity

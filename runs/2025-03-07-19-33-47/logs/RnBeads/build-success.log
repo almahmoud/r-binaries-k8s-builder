@@ -1,0 +1,140 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'RnBeads'
+also installing the dependencies ‘IlluminaHumanMethylationEPICv2anno.20a1.hg38’, ‘Category’, ‘RnBeads.hg19’, ‘RnBeads.mm9’, ‘RnBeads.hg38’, ‘missMethyl’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/IlluminaHumanMethylationEPICv2anno.20a1.hg38_1.0.0.tar.gz'
+Content type 'application/x-gzip' length 156309587 bytes (149.1 MB)
+==================================================
+downloaded 149.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Category_2.72.0.tar.gz'
+Content type 'application/x-gzip' length 898436 bytes (877 KB)
+==================================================
+downloaded 877 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/RnBeads.hg19_1.38.0.tar.gz'
+Content type 'application/x-gzip' length 104985329 bytes (100.1 MB)
+==================================================
+downloaded 100.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/RnBeads.mm9_1.38.0.tar.gz'
+Content type 'application/x-gzip' length 98998296 bytes (94.4 MB)
+==================================================
+downloaded 94.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/RnBeads.hg38_1.38.0.tar.gz'
+Content type 'application/x-gzip' length 166644586 bytes (158.9 MB)
+==================================================
+downloaded 158.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/missMethyl_1.40.3.tar.gz'
+Content type 'application/x-gzip' length 1500646 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/RnBeads_2.24.0.tar.gz'
+Content type 'application/x-gzip' length 7948661 bytes (7.6 MB)
+==================================================
+downloaded 7.6 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-IlluminaHumanMethylationEPICv2anno.20a1.hg38’
+* installing *source* package ‘Category’ ...
+** package ‘Category’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Category’ as ‘Category_2.72.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Category)
+* installing *source* package ‘RnBeads.hg19’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RnBeads.hg19’ as ‘RnBeads.hg19_1.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RnBeads.hg19)
+* installing *source* package ‘RnBeads.mm9’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RnBeads.mm9’ as ‘RnBeads.mm9_1.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RnBeads.mm9)
+* installing *source* package ‘RnBeads.hg38’ ...
+** using staged installation
+** data
+** inst
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RnBeads.hg38’ as ‘RnBeads.hg38_1.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RnBeads.hg38)
+* installing *source* package ‘RnBeads’ ...
+** package ‘RnBeads’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RnBeads’ as ‘RnBeads_2.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RnBeads)
+ERROR: dependency ‘IlluminaHumanMethylationEPICv2anno.20a1.hg38’ is not available for package ‘missMethyl’
+* removing ‘/mnt/library/missMethyl’
+
+The downloaded source packages are in
+	‘/tmp/RtmpW0eA3S/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘IlluminaHumanMethylationEPICv2anno.20a1.hg38’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘missMethyl’ had non-zero exit status
+
+real	7m20.529s
+user	2m20.150s
+sys	0m23.392s
