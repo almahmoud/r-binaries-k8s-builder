@@ -38,12 +38,14 @@ BioQC
 Biobase
 BiocBaseUtils
 BiocBook
+BiocCheck
 BiocFHIR
 BiocFileCache
 BiocGenerics
 BiocIO
 BiocNeighbors
 BiocParallel
+BiocPkgTools
 BiocStyle
 BiocVersion
 BiocWorkflowTools
@@ -51,6 +53,7 @@ BridgeDbR
 BrowserViz
 BufferedMatrix
 BufferedMatrixMethods
+BumpyMatrix
 CARNIVAL
 CFAssay
 CGEN
@@ -61,8 +64,10 @@ CGHregions
 CIMICE
 CMA
 CNAnorm
+CNORdt
 CNORfeeder
 CNORfuzzy
+CNORode
 COMPASS
 CONSTANd
 COSNet
@@ -94,11 +99,13 @@ DNABarcodes
 DNAcopy
 DTA
 DeMAND
+DeconRNASeq
 DeepPINCS
 DepInfeR
 DepecheR
 DiffLogo
 Director
+DirichletMultinomial
 Doscheda
 DriverNet
 DynDoc
@@ -193,6 +200,7 @@ MANOR
 MBAmethyl
 MBCB
 MBttest
+MMUPHin
 MOGAMUN
 MPFE
 MSstats
@@ -237,6 +245,7 @@ Omixer
 OmnipathR
 OncoSimulR
 OpenStats
+OrderedList
 Oscope
 PANR
 PCAN
@@ -358,6 +367,7 @@ affy
 affycomp
 affyio
 agilp
+alabaster.base
 alabaster.schemas
 alevinQC
 annotationTools
@@ -417,6 +427,7 @@ ctsGE
 cycle
 cytoMEM
 cytolib
+dStruct
 daMA
 dcGSA
 dcanr
@@ -462,6 +473,8 @@ flowClean
 flowClust
 flowCore
 flowCyBar
+flowDensity
+flowFP
 flowGraph
 flowPeaks
 flowPlots

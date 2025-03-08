@@ -727,3 +727,16 @@ RVS
 tidytof
 TRONCO
 UCSC.utils
+alabaster.base
+BiocCheck
+BiocPkgTools
+BumpyMatrix
+CNORdt
+CNORode
+DeconRNASeq
+DirichletMultinomial
+dStruct
+flowDensity
+flowFP
+MMUPHin
+OrderedList

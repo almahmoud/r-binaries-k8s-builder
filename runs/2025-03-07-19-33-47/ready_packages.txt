@@ -1,6 +1,8 @@
-DEGraph
-GenomeInfoDb
-Spectra
-flowMerge
-flowTrans
-nempi
+GateFinder
+MEIGOR
+alabaster.bumpy
+cyanoFilter
+ddPCRclust
+flowBin
+flowCut
+gDRstyle
