@@ -38,12 +38,14 @@ BANDITS
 BASiCS
 BASiCStan
 BCRANK
+BEAT
 BEclear
 BG2
 BPRMeth
 BRAIN
 BREW3R.r
 BSgenome
+BSgenomeForge
 BUMHMM
 BUS
 BUScorrect
@@ -51,6 +53,7 @@ BUSseq
 BaalChIP
 Banksy
 BaseSpaceR
+Basic4Cseq
 BasicSTARRseq
 BayesKnockdown
 BayesSpace
@@ -287,6 +290,7 @@ GloScope
 GrafGen
 GraphAT
 GraphAlignment
+GreyListChIP
 HDF5Array
 HDTD
 HELP
@@ -371,6 +375,7 @@ MEB
 MEDME
 MEIGOR
 MICSQTL
+MMDiff2
 MMUPHin
 MOFA2
 MOGAMUN
@@ -414,6 +419,7 @@ MicrobiotaProcess
 ModCon
 Modstrings
 MoleculeExperiment
+Motif2Site
 MotifDb
 MsBackendMassbank
 MsBackendMetaboLights
@@ -616,6 +622,7 @@ SpaNorm
 SpaceMarkers
 Spaniel
 SparseArray
+SparseSignatures
 SpatialCPie
 SpatialExperiment
 SpatialFeatureExperiment
@@ -665,6 +672,7 @@ VAExprs
 VDJdive
 VERSO
 VanillaICE
+VarCon
 VariantExperiment
 VennDetail
 VisiumIO
@@ -766,6 +774,7 @@ chopsticks
 chromDraw
 chromstaR
 cisPath
+cleanUpdTSeq
 cleaver
 clevRvis
 clippda
@@ -899,6 +908,7 @@ gCrisprTools
 gDRstyle
 gaga
 garfield
+gcapc
 gcatest
 gcrma
 gdsfmt

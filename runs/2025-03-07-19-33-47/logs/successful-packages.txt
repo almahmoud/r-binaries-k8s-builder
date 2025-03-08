@@ -1382,3 +1382,13 @@ SCANVIS
 scGPS
 tRNAdbImport
 VanillaICE
+Basic4Cseq
+BEAT
+BSgenomeForge
+cleanUpdTSeq
+gcapc
+GreyListChIP
+MMDiff2
+Motif2Site
+SparseSignatures
+VarCon

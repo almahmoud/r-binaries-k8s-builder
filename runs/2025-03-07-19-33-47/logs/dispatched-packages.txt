@@ -1476,3 +1476,5 @@ tRNAscanImport
 traseR
 MinimumDistance
 Rbec
+DiffBind
+epigraHMM

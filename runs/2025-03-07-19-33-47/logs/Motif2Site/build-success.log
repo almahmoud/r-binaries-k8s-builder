@@ -1,0 +1,60 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'Motif2Site'
+also installing the dependency ‘BSgenome.Ecoli.NCBI.20080805’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Ecoli.NCBI.20080805_1.3.1000.tar.gz'
+Content type 'application/x-gzip' length 18841098 bytes (18.0 MB)
+==================================================
+downloaded 18.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Motif2Site_1.10.0.tar.gz'
+Content type 'application/x-gzip' length 1488701 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+* installing *source* package ‘BSgenome.Ecoli.NCBI.20080805’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Ecoli.NCBI.20080805’ as ‘BSgenome.Ecoli.NCBI.20080805_1.3.1000_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Ecoli.NCBI.20080805)
+* installing *source* package ‘Motif2Site’ ...
+** package ‘Motif2Site’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Motif2Site’ as ‘Motif2Site_1.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Motif2Site)
+
+The downloaded source packages are in
+	‘/tmp/RtmpdlkrbZ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+
+real	2m19.769s
+user	0m34.677s
+sys	0m8.356s

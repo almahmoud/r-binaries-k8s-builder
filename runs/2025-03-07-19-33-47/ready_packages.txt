@@ -1,2 +1,2 @@
-MinimumDistance
-Rbec
+DiffBind
+epigraHMM
