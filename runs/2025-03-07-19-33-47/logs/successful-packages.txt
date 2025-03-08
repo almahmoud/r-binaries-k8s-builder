@@ -1168,3 +1168,13 @@ oncomix
 scater
 sccomp
 scRepertoire
+CellTrails
+CoGAPS
+DropletUtils
+ExperimentSubset
+immApex
+LymphoSeq
+MICSQTL
+nnSVG
+scider
+scran
