@@ -1251,3 +1251,13 @@ beer
 cytoviewer
 imcRtools
 simpleSeg
+ArrayExpress
+ITALICS
+affyILM
+affyPLM
+cn.farms
+flowVS
+frma
+maskBAD
+pdInfoBuilder
+puma

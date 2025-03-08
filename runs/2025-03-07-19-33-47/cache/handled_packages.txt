@@ -101,6 +101,7 @@ CRImage
 CSAR
 CTDquerier
 CTSV
+CaDrA
 Cardinal
 CardinalIO
 CatsCradle
@@ -173,6 +174,7 @@ EnrichedHeatmap
 EpiDISH
 ExiMiR
 ExploreModelMatrix
+ExpressionAtlas
 FEAST
 FELLA
 FGNet
@@ -272,6 +274,7 @@ Informeasure
 InteractionSet
 InteractiveComplexHeatmap
 IntramiRExploreR
+IsoBayes
 IsoCorrectoR
 IsoCorrectoRGUI
 KBoost
@@ -355,6 +358,7 @@ OLIN
 OLINgui
 OPWeight
 OSAT
+OVESEG
 OmicCircos
 OmicsMLRepoR
 Omixer
@@ -373,10 +377,12 @@ PLSDAbatch
 POWSC
 PROPER
 PROcess
+PWMEnrich
 Path2PPI
 PathNet
 PeacoQC
 Pedixplorer
+PepSetTest
 PepsNMR
 PhIPData
 PhenStat
@@ -508,6 +514,7 @@ SpeCond
 Spectra
 SpectraQL
 SpotClean
+SpotSweeper
 Streamer
 Structstrings
 SummarizedExperiment
@@ -569,6 +576,7 @@ alabaster.ranges
 alabaster.sce
 alabaster.schemas
 alabaster.se
+alabaster.spatial
 alabaster.string
 alevinQC
 altcdfenvs
@@ -606,6 +614,7 @@ biodbNcbi
 biodbNci
 biodbUniprot
 biomformat
+biotmle
 bluster
 brendaDb
 bugsigdbr
@@ -635,8 +644,11 @@ clusterSeq
 clusterStab
 clustifyr
 cn.mops
+cnvGSA
 coGPS
+coRdon
 cogena
+cogeqc
 cola
 compSPOT
 compcodeR
@@ -721,6 +733,7 @@ flowPeaks
 flowPloidy
 flowPlots
 flowSpecs
+flowStats
 flowTime
 flowTrans
 flowViz
@@ -735,6 +748,7 @@ gDRstyle
 gaga
 garfield
 gcatest
+gcrma
 gdsfmt
 geNetClassifier
 gemini
@@ -841,6 +855,7 @@ metagenomeSeq
 metahdep
 metapod
 metapone
+methimpute
 methyLImp2
 methylMnM
 mfa
@@ -882,6 +897,7 @@ normalize450K
 nuCpos
 nucleoSim
 occugene
+oligo
 oligoClasses
 omada
 ompBAM
@@ -1072,6 +1088,7 @@ tanggle
 target
 ternarynet
 tidyFlowCore
+tidybulk
 tidysbml
 tidytof
 timeOmics
