@@ -1,0 +1,89 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ChromSCape'
+also installing the dependencies ‘RApiSerialize’, ‘stringfish’, ‘qualV’, ‘qs’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RApiSerialize_0.1.4.tar.gz'
+Content type 'binary/octet-stream' length 15534 bytes (15 KB)
+==================================================
+downloaded 15 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/stringfish_0.16.0.tar.gz'
+Content type 'binary/octet-stream' length 423751 bytes (413 KB)
+==================================================
+downloaded 413 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/qualV_0.3-5.tar.gz'
+Content type 'binary/octet-stream' length 133167 bytes (130 KB)
+==================================================
+downloaded 130 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/qs_0.27.2.tar.gz'
+Content type 'binary/octet-stream' length 1498808 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ChromSCape_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 5566995 bytes (5.3 MB)
+==================================================
+downloaded 5.3 MB
+
+* installing *binary* package ‘RApiSerialize’ ...
+* ‘RApiSerialize’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RApiSerialize’ as ‘RApiSerialize_0.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RApiSerialize)
+* installing *binary* package ‘stringfish’ ...
+* ‘stringfish’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘stringfish’ as ‘stringfish_0.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (stringfish)
+* installing *binary* package ‘qualV’ ...
+* ‘qualV’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘qualV’ as ‘qualV_0.3-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qualV)
+* installing *binary* package ‘qs’ ...
+* ‘qs’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘qs’ as ‘qs_0.27.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qs)
+* installing *source* package ‘ChromSCape’ ...
+** package ‘ChromSCape’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c as_dist.cpp -o as_dist.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o ChromSCape.so RcppExports.o as_dist.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-ChromSCape/00new/ChromSCape/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ChromSCape’ as ‘ChromSCape_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ChromSCape)
+
+The downloaded source packages are in
+	‘/tmp/RtmpRtCiXK/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+
+real	1m57.627s
+user	0m53.944s
+sys	0m9.967s

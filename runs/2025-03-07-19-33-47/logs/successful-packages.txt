@@ -1284,3 +1284,11 @@ segmentSeq
 systemPipeR
 tidySingleCellExperiment
 VAExprs
+ChromSCape
+decontX
+MultiDataSet
+pram
+rifi
+rifiComparative
+sevenC
+wiggleplotr

@@ -128,6 +128,7 @@ ChIPsim
 ChemmineOB
 ChemmineR
 Chicago
+ChromSCape
 CiteFuse
 Clomial
 ClustAll
@@ -394,6 +395,7 @@ MsBackendSql
 MsCoreUtils
 MsFeatures
 Mulcom
+MultiDataSet
 MultiMed
 NCIgraph
 NOISeq
@@ -766,6 +768,7 @@ ddCt
 ddPCRclust
 dearseq
 debCAM
+decontX
 decontam
 decoupleR
 deltaGseg
@@ -1076,6 +1079,7 @@ pmp
 powerTCR
 ppcseq
 pqsfinder
+pram
 preprocessCore
 proDA
 procoil
@@ -1124,6 +1128,8 @@ rhdf5filters
 rhinotypeR
 riboSeqR
 ribor
+rifi
+rifiComparative
 rmelting
 rnaseqcomp
 roastgsa
@@ -1187,6 +1193,7 @@ seqLogo
 seqPattern
 seqTools
 seqcombo
+sevenC
 sevenbridges
 shiny.gosling
 sigFeature
@@ -1278,6 +1285,7 @@ viper
 vsn
 weaver
 widgetTools
+wiggleplotr
 wppi
 xenLite
 xmapbridge
