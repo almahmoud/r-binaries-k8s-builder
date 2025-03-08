@@ -31,6 +31,7 @@ AnVILPublish
 AnVILWorkflow
 Anaquin
 AneuFinder
+AnnotationDbi
 AnnotationFilter
 ArrayExpress
 AssessORF
@@ -194,6 +195,7 @@ DNABarcodes
 DNAcopy
 DNAshapeR
 DRIMSeq
+DSS
 DTA
 DeMAND
 DeconRNASeq
@@ -333,6 +335,7 @@ HicAggR
 HilbertCurve
 HilbertVis
 HilbertVisGUI
+HoloFoodR
 HuBMAPR
 HubPub
 HybridExpress
@@ -355,6 +358,7 @@ IWTomics
 Icens
 IdeoViz
 IgGeneUsage
+InTAD
 Informeasure
 InteractionSet
 InteractiveComplexHeatmap
@@ -395,11 +399,13 @@ MEDME
 MEIGOR
 MGnifyR
 MICSQTL
+MIRA
 MLSeq
 MMDiff2
 MMUPHin
 MOFA2
 MOGAMUN
+MOMA
 MOSim
 MPAC
 MPFE
@@ -452,6 +458,7 @@ MsBackendSql
 MsCoreUtils
 MsExperiment
 MsFeatures
+MuData
 Mulcom
 MultiAssayExperiment
 MultiBaC
@@ -512,6 +519,7 @@ Pedixplorer
 PepSetTest
 PepsNMR
 PhIPData
+PharmacoGx
 PhenStat
 PhenoGeneRanker
 PhosR
@@ -1384,6 +1392,7 @@ scider
 scifer
 scmap
 scoup
+scp
 scran
 scrapper
 screenCounter

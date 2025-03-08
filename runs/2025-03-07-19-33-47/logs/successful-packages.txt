@@ -1532,3 +1532,12 @@ miaViz
 MsExperiment
 msqrob2
 PSMatch
+AnnotationDbi
+DSS
+HoloFoodR
+InTAD
+MIRA
+MOMA
+MuData
+PharmacoGx
+scp
