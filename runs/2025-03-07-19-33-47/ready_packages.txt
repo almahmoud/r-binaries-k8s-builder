@@ -1,15 +1,1 @@
-ABSSeq
-DEqMS
-GWAS.BAYES
-Linnorm
-MethylMix
-TPP2D
-Wrench
-ctsGE
-edgeR
-iCOBRA
-iChip
-limmaGUI
-lmdme
-marray
-oppti
+CIMICE

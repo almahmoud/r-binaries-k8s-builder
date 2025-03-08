@@ -48,6 +48,7 @@ CytoGLMM
 DART
 DCATS
 DEGseq
+DEqMS
 DEsingle
 DNABarcodeCompatibility
 DNABarcodes
@@ -121,6 +122,7 @@ LBE
 LEA
 LPE
 LedPred
+Linnorm
 M3C
 MACSQuantifyR
 MANOR
@@ -332,6 +334,7 @@ limma
 logicFS
 lpsymphony
 maCorrPlot
+maftools
 magrene
 mapscape
 matchBox
@@ -350,6 +353,7 @@ mina
 minet
 mirTarRnaSeq
 mistyR
+mitch
 mixOmics
 multiClust
 mzID
@@ -377,6 +381,7 @@ pmm
 powerTCR
 preprocessCore
 proteinProfiles
+qckitfastq
 quantsmooth
 qvalue
 rBiopaxParser
@@ -415,12 +420,14 @@ sitePath
 sizepower
 snifter
 snm
+sparseMatrixStats
 sparsenetgls
 specL
 spikeLI
 splots
 ssize
 ssrch
+statTarget
 survcomp
 swfdr
 switchBox

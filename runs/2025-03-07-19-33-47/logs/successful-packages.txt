@@ -446,3 +446,10 @@ timeOmics
 tkWidgets
 limma
 seahtrue
+DEqMS
+Linnorm
+maftools
+mitch
+qckitfastq
+sparseMatrixStats
+statTarget

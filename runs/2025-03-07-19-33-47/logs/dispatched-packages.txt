@@ -471,3 +471,4 @@ limmaGUI
 lmdme
 marray
 oppti
+CIMICE
