@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1690 packages built successfully
+- 1697 packages built successfully
 - 0 packages failed to build
-- 543 packages not yet processed
+- 536 packages not yet processed
 
 
-## Successfully Built (1690)
+## Successfully Built (1697)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1702,8 +1702,15 @@
 | [magpie](https://bioconductor.org/packages/3.20/bioc/html/magpie.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/magpie/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/magpie)                     |
 | [rnaEditr](https://bioconductor.org/packages/3.20/bioc/html/rnaEditr.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/rnaEditr/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rnaEditr)                   |
 | [terraTCGAdata](https://bioconductor.org/packages/3.20/bioc/html/terraTCGAdata.html)                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/terraTCGAdata/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/terraTCGAdata)              |
+| [RTCGAToolbox](https://bioconductor.org/packages/3.20/bioc/html/RTCGAToolbox.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/RTCGAToolbox/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RTCGAToolbox)               |
+| [SubCellBarCode](https://bioconductor.org/packages/3.20/bioc/html/SubCellBarCode.html)                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/SubCellBarCode/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SubCellBarCode)             |
+| [annaffy](https://bioconductor.org/packages/3.20/bioc/html/annaffy.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/annaffy/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/annaffy)                    |
+| [apComplex](https://bioconductor.org/packages/3.20/bioc/html/apComplex.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/apComplex/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/apComplex)                  |
+| [famat](https://bioconductor.org/packages/3.20/bioc/html/famat.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/famat/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/famat)                      |
+| [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/flagme/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flagme)                     |
+| [pathlinkR](https://bioconductor.org/packages/3.20/bioc/html/pathlinkR.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/pathlinkR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pathlinkR)                  |
 
-## Not Yet Processed (543)
+## Not Yet Processed (536)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1902,7 +1909,6 @@
 | [RNAmodR.AlkAnilineSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.AlkAnilineSeq.html)             | Unprocessed |
 | [RNAmodR.ML](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.ML.html)                                   | Unprocessed |
 | [RNAmodR.RiboMethSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.RiboMethSeq.html)                 | Unprocessed |
-| [RTCGAToolbox](https://bioconductor.org/packages/3.20/bioc/html/RTCGAToolbox.html)                               | Unprocessed |
 | [RUVSeq](https://bioconductor.org/packages/3.20/bioc/html/RUVSeq.html)                                           | Unprocessed |
 | [RareVariantVis](https://bioconductor.org/packages/3.20/bioc/html/RareVariantVis.html)                           | Unprocessed |
 | [RcisTarget](https://bioconductor.org/packages/3.20/bioc/html/RcisTarget.html)                                   | Unprocessed |
@@ -1939,7 +1945,6 @@
 | [SomaticSignatures](https://bioconductor.org/packages/3.20/bioc/html/SomaticSignatures.html)                     | Unprocessed |
 | [SpliceWiz](https://bioconductor.org/packages/3.20/bioc/html/SpliceWiz.html)                                     | Unprocessed |
 | [StructuralVariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/StructuralVariantAnnotation.html) | Unprocessed |
-| [SubCellBarCode](https://bioconductor.org/packages/3.20/bioc/html/SubCellBarCode.html)                           | Unprocessed |
 | [SurfR](https://bioconductor.org/packages/3.20/bioc/html/SurfR.html)                                             | Unprocessed |
 | [TCGAbiolinks](https://bioconductor.org/packages/3.20/bioc/html/TCGAbiolinks.html)                               | Unprocessed |
 | [TEKRABber](https://bioconductor.org/packages/3.20/bioc/html/TEKRABber.html)                                     | Unprocessed |
@@ -1974,11 +1979,9 @@
 | [affylmGUI](https://bioconductor.org/packages/3.20/bioc/html/affylmGUI.html)                                     | Unprocessed |
 | [alabaster](https://bioconductor.org/packages/3.20/bioc/html/alabaster.html)                                     | Unprocessed |
 | [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                             | Unprocessed |
-| [annaffy](https://bioconductor.org/packages/3.20/bioc/html/annaffy.html)                                         | Unprocessed |
 | [annmap](https://bioconductor.org/packages/3.20/bioc/html/annmap.html)                                           | Unprocessed |
 | [annotate](https://bioconductor.org/packages/3.20/bioc/html/annotate.html)                                       | Unprocessed |
 | [annotatr](https://bioconductor.org/packages/3.20/bioc/html/annotatr.html)                                       | Unprocessed |
-| [apComplex](https://bioconductor.org/packages/3.20/bioc/html/apComplex.html)                                     | Unprocessed |
 | [appreci8R](https://bioconductor.org/packages/3.20/bioc/html/appreci8R.html)                                     | Unprocessed |
 | [arrayMvout](https://bioconductor.org/packages/3.20/bioc/html/arrayMvout.html)                                   | Unprocessed |
 | [arrayQualityMetrics](https://bioconductor.org/packages/3.20/bioc/html/arrayQualityMetrics.html)                 | Unprocessed |
@@ -2069,10 +2072,8 @@
 | [escape](https://bioconductor.org/packages/3.20/bioc/html/escape.html)                                           | Unprocessed |
 | [esetVis](https://bioconductor.org/packages/3.20/bioc/html/esetVis.html)                                         | Unprocessed |
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                                   | Unprocessed |
-| [famat](https://bioconductor.org/packages/3.20/bioc/html/famat.html)                                             | Unprocessed |
 | [fcScan](https://bioconductor.org/packages/3.20/bioc/html/fcScan.html)                                           | Unprocessed |
 | [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                               | Unprocessed |
-| [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                                           | Unprocessed |
 | [funOmics](https://bioconductor.org/packages/3.20/bioc/html/funOmics.html)                                       | Unprocessed |
 | [funtooNorm](https://bioconductor.org/packages/3.20/bioc/html/funtooNorm.html)                                   | Unprocessed |
 | [gDNAx](https://bioconductor.org/packages/3.20/bioc/html/gDNAx.html)                                             | Unprocessed |
@@ -2163,7 +2164,6 @@
 | [pageRank](https://bioconductor.org/packages/3.20/bioc/html/pageRank.html)                                       | Unprocessed |
 | [pairedGSEA](https://bioconductor.org/packages/3.20/bioc/html/pairedGSEA.html)                                   | Unprocessed |
 | [pathRender](https://bioconductor.org/packages/3.20/bioc/html/pathRender.html)                                   | Unprocessed |
-| [pathlinkR](https://bioconductor.org/packages/3.20/bioc/html/pathlinkR.html)                                     | Unprocessed |
 | [pathview](https://bioconductor.org/packages/3.20/bioc/html/pathview.html)                                       | Unprocessed |
 | [pcaExplorer](https://bioconductor.org/packages/3.20/bioc/html/pcaExplorer.html)                                 | Unprocessed |
 | [phenoTest](https://bioconductor.org/packages/3.20/bioc/html/phenoTest.html)                                     | Unprocessed |

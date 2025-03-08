@@ -1688,3 +1688,10 @@ MicrobiomeProfiler
 rnaEditr
 terraTCGAdata
 UniProt.ws
+annaffy
+apComplex
+famat
+flagme
+pathlinkR
+RTCGAToolbox
+SubCellBarCode

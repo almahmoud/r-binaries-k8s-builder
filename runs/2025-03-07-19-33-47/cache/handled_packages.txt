@@ -632,6 +632,7 @@ RSVSim
 RSeqAn
 RTCA
 RTCGA
+RTCGAToolbox
 RTN
 RTNduals
 RTNsurvival
@@ -751,6 +752,7 @@ StabMap
 Statial
 Streamer
 Structstrings
+SubCellBarCode
 SummarizedExperiment
 Summix
 SwathXtend
@@ -840,10 +842,12 @@ alevinQC
 altcdfenvs
 amplican
 animalcules
+annaffy
 annotationTools
 anota
 anota2seq
 antiProfiles
+apComplex
 apeglm
 aroma.light
 arrayQuality
@@ -1035,6 +1039,7 @@ fabia
 factDesign
 factR
 faers
+famat
 fastLiquidAssociation
 fastreeR
 fastseg
@@ -1045,6 +1050,7 @@ fgga
 fgsea
 findIPs
 fishpond
+flagme
 flowAI
 flowBeads
 flowBin
@@ -1362,6 +1368,7 @@ parglms
 parody
 partCNV
 pathifier
+pathlinkR
 pathwayPCA
 pcaMethods
 pdInfoBuilder
