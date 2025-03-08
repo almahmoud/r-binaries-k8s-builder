@@ -2173,3 +2173,8 @@ crisprShiny
 methylclock
 compEpiTools
 SNPhood
+crisprVerse
+dagLogo
+escape
+GmicR
+oppar

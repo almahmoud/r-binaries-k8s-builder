@@ -440,6 +440,7 @@ GladiaTOX
 Glimma
 GloScope
 GlobalAncova
+GmicR
 GrafGen
 GraphAT
 GraphAlignment
@@ -1248,6 +1249,7 @@ crisprBwa
 crisprDesign
 crisprScore
 crisprShiny
+crisprVerse
 crisprViz
 crlmm
 csaw
@@ -1269,6 +1271,7 @@ cytoviewer
 dStruct
 daMA
 dada2
+dagLogo
 dar
 dcGSA
 dcanr
@@ -1347,6 +1350,7 @@ epivizrStandalone
 erccdashboard
 erma
 esATAC
+escape
 escheR
 esetVis
 eudysbiome
@@ -1750,6 +1754,7 @@ ontoProc
 openCyto
 openPrimeR
 oposSOM
+oppar
 oppti
 optimalFlow
 orthogene
