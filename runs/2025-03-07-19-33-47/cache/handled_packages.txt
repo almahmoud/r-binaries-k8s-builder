@@ -32,6 +32,7 @@ AUCell
 AWFisher
 AffiXcan
 AffyRNADegradation
+AgiMicroRna
 AllelicImbalance
 AlphaBeta
 AlphaMissenseR
@@ -130,6 +131,7 @@ BufferedMatrixMethods
 BumpyMatrix
 CAEN
 CAFE
+CAGEfightR
 CAMERA
 CARNIVAL
 CATALYST
@@ -471,6 +473,7 @@ Heatplus
 HelloRanges
 Herper
 HiCBricks
+HiCDCPlus
 HiCDOC
 HiCExperiment
 HiCcompare
@@ -669,6 +672,7 @@ MultiDataSet
 MultiMed
 MultiRNAflow
 MultimodalExperiment
+MungeSumstats
 MutationalPatterns
 NADfinder
 NBAMSeq
@@ -806,6 +810,9 @@ RNAAgeCalc
 RNASeqPower
 RNAdecay
 RNAmodR
+RNAmodR.AlkAnilineSeq
+RNAmodR.ML
+RNAmodR.RiboMethSeq
 RNAsense
 RNAseqCovarImpute
 ROC
@@ -1383,6 +1390,7 @@ escheR
 esetVis
 eudysbiome
 evaluomeR
+extraChIPs
 fCCAC
 fCI
 fabia
@@ -2079,6 +2087,7 @@ sparsenetgls
 spatialDE
 spatialHeatmap
 spatialSimGP
+spatzie
 specL
 speckle
 spicyR

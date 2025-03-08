@@ -2221,3 +2221,12 @@ saseR
 singleCellTK
 SPLINTER
 TVTB
+AgiMicroRna
+CAGEfightR
+extraChIPs
+HiCDCPlus
+MungeSumstats
+RNAmodR.AlkAnilineSeq
+RNAmodR.ML
+RNAmodR.RiboMethSeq
+spatzie

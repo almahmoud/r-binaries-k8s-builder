@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2223 packages built successfully
+- 2232 packages built successfully
 - 0 packages failed to build
-- 10 packages not yet processed
+- 1 packages not yet processed
 
 
-## Successfully Built (2223)
+## Successfully Built (2232)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2235,17 +2235,17 @@
 | [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/ribosomeProfilingQC/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ribosomeProfilingQC)         |
 | [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/saseR/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/saseR)                       |
 | [singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/singleCellTK/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/singleCellTK)                |
+| [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/AgiMicroRna/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AgiMicroRna)                 |
+| [CAGEfightR](https://bioconductor.org/packages/3.20/bioc/html/CAGEfightR.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/CAGEfightR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CAGEfightR)                  |
+| [HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/HiCDCPlus/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HiCDCPlus)                   |
+| [MungeSumstats](https://bioconductor.org/packages/3.20/bioc/html/MungeSumstats.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/MungeSumstats/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MungeSumstats)               |
+| [RNAmodR.AlkAnilineSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.AlkAnilineSeq.html)             | Built    | [Log](runs/2025-03-07-19-33-47/logs/RNAmodR.AlkAnilineSeq/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RNAmodR.AlkAnilineSeq)       |
+| [RNAmodR.ML](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.ML.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/RNAmodR.ML/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RNAmodR.ML)                  |
+| [RNAmodR.RiboMethSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.RiboMethSeq.html)                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/RNAmodR.RiboMethSeq/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RNAmodR.RiboMethSeq)         |
+| [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/extraChIPs/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/extraChIPs)                  |
+| [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/spatzie/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spatzie)                     |
 
-## Not Yet Processed (10)
-| Package                                                                                              | Status      |
-|------------------------------------------------------------------------------------------------------|-------------|
-| [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                     | Unprocessed |
-| [CAGEfightR](https://bioconductor.org/packages/3.20/bioc/html/CAGEfightR.html)                       | Unprocessed |
-| [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)                                 | Unprocessed |
-| [HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)                         | Unprocessed |
-| [MungeSumstats](https://bioconductor.org/packages/3.20/bioc/html/MungeSumstats.html)                 | Unprocessed |
-| [RNAmodR.AlkAnilineSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.AlkAnilineSeq.html) | Unprocessed |
-| [RNAmodR.ML](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.ML.html)                       | Unprocessed |
-| [RNAmodR.RiboMethSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.RiboMethSeq.html)     | Unprocessed |
-| [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                       | Unprocessed |
-| [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                             | Unprocessed |
+## Not Yet Processed (1)
+| Package                                                              | Status      |
+|----------------------------------------------------------------------|-------------|
+| [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html) | Unprocessed |
