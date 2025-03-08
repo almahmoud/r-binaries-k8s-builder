@@ -280,6 +280,7 @@ NOISeq
 NPARC
 NTW
 NanoStringDiff
+NanoStringNCTools
 NanoTube
 NetPathMiner
 NormqPCR
@@ -366,6 +367,7 @@ Rhdf5lib
 Rhtslib
 Rmagpie
 Rnits
+Rsamtools
 Rsubread
 Rtpca
 Rtreemix
@@ -398,6 +400,7 @@ Sconify
 ScreenR
 SeqArray
 SharedObject
+SigFuge
 SpaceMarkers
 SparseArray
 SpeCond
@@ -481,6 +484,7 @@ ceRNAnetsim
 cellmigRation
 cellscape
 cellxgenedp
+chihaya
 chopsticks
 chromDraw
 cisPath
@@ -543,6 +547,7 @@ fabia
 factDesign
 faers
 fastreeR
+fastseg
 fdrame
 fedup
 fenr
@@ -688,6 +693,7 @@ msPurity
 multiClust
 multiscan
 multtest
+muscle
 mzID
 mzR
 ncdfFlow
@@ -719,6 +725,7 @@ pengls
 pepXMLTab
 pfamAnalyzeR
 pgca
+phantasusLite
 philr
 phosphonormalizer
 piano
@@ -805,6 +812,7 @@ specL
 spikeLI
 spkTools
 splots
+sscu
 ssize
 ssrch
 statTarget
@@ -818,6 +826,7 @@ synergyfinder
 synlet
 systemPipeShiny
 tanggle
+target
 ternarynet
 tidyFlowCore
 tidysbml

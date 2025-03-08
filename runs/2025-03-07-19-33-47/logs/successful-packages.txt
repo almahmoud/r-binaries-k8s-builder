@@ -849,3 +849,12 @@ SELEX
 SeqArray
 Structstrings
 TnT
+chihaya
+fastseg
+muscle
+NanoStringNCTools
+phantasusLite
+Rsamtools
+SigFuge
+sscu
+target
