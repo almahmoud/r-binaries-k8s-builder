@@ -95,6 +95,8 @@ MACSQuantifyR
 MANOR
 MBAmethyl
 MBCB
+MBttest
+MPFE
 MSstatsConvert
 MSstatsLOBD
 MVCClass
@@ -141,7 +143,10 @@ RedisParam
 Rhdf5lib
 Rhtslib
 Rsubread
+SBMLR
+SCBN
 SCFA
+SIMLR
 SLqPCR
 SMAD
 SNAGEE
@@ -185,6 +190,8 @@ brendaDb
 bugsigdbr
 calm
 ccrepe
+ceRNAnetsim
+cellscape
 chopsticks
 cisPath
 clevRvis
@@ -214,6 +221,7 @@ fastreeR
 fdrame
 fenr
 fgsea
+flowCyBar
 flowGraph
 flowPeaks
 fmrs
@@ -264,7 +272,10 @@ messina
 metaCCA
 metabinR
 metahdep
+metapod
 metapone
+mgsa
+miRBaseConverter
 miRNApath
 mina
 minet
@@ -278,6 +289,7 @@ occugene
 omada
 ompBAM
 onlineFDR
+parody
 pathifier
 pathwayPCA
 pengls
@@ -301,6 +313,7 @@ rawDiag
 rawrr
 retrofit
 rgoslin
+rhdf5
 rhdf5filters
 rmelting
 rnaseqcomp

@@ -1,0 +1,86 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'miRBaseConverter'
+also installing the dependencies ‘GenomicAlignments’, ‘rtracklayer’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicAlignments_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 2273284 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rtracklayer_1.66.0.tar.gz'
+Content type 'application/x-gzip' length 4112666 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/miRBaseConverter_1.30.0.tar.gz'
+Content type 'application/x-gzip' length 2034063 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+* installing *source* package ‘GenomicAlignments’ ...
+** package ‘GenomicAlignments’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c IRanges_stubs.c -o IRanges_stubs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_GenomicAlignments.c -o R_init_GenomicAlignments.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c S4Vectors_stubs.c -o S4Vectors_stubs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c cigar_utils.c -o cigar_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c coordinate_mapping_methods.c -o coordinate_mapping_methods.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c encodeOverlaps_methods.c -o encodeOverlaps_methods.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o GenomicAlignments.so IRanges_stubs.o R_init_GenomicAlignments.o S4Vectors_stubs.o cigar_utils.o coordinate_mapping_methods.o encodeOverlaps_methods.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-GenomicAlignments/00new/GenomicAlignments/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Error : package ‘SummarizedExperiment’ required by ‘GenomicAlignments’ could not be found
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/GenomicAlignments’
+* installing *source* package ‘miRBaseConverter’ ...
+** package ‘miRBaseConverter’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘miRBaseConverter’ as ‘miRBaseConverter_1.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (miRBaseConverter)
+ERROR: dependency ‘GenomicAlignments’ is not available for package ‘rtracklayer’
+* removing ‘/mnt/library/rtracklayer’
+
+The downloaded source packages are in
+	‘/tmp/RtmplAlhDD/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘GenomicAlignments’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘rtracklayer’ had non-zero exit status
+
+real	0m57.105s
+user	0m27.658s
+sys	0m4.559s

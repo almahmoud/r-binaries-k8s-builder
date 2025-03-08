@@ -1,8 +1,3 @@
-DepecheR
-Rfastp
-cbpManager
-clstutils
-densvis
-maftools
-snifter
-timeOmics
+GSCA
+biomformat
+scMitoMut
