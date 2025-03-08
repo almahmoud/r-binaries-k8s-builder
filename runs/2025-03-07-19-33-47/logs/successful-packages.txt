@@ -1774,3 +1774,11 @@ sitadela
 LACE
 ReactomePA
 sSNAPPY
+ChIPpeakAnno
+clipper
+dce
+GenomicPlot
+MetaboSignal
+MIRit
+MOSClip
+UMI4Cats

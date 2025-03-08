@@ -168,6 +168,7 @@ ChIPComp
 ChIPQC
 ChIPXpress
 ChIPanalyser
+ChIPpeakAnno
 ChIPseeker
 ChIPseqR
 ChIPsim
@@ -346,6 +347,7 @@ GenomicDataCommons
 GenomicDistributions
 GenomicFeatures
 GenomicInteractionNodes
+GenomicPlot
 GenomicRanges
 GenomicScores
 GenomicSuperSignature
@@ -464,6 +466,7 @@ MEIGOR
 MGnifyR
 MICSQTL
 MIRA
+MIRit
 MLP
 MLSeq
 MMDiff2
@@ -472,6 +475,7 @@ MODA
 MOFA2
 MOGAMUN
 MOMA
+MOSClip
 MOSim
 MPAC
 MPFE
@@ -509,6 +513,7 @@ MetaNeighbor
 MetaPhOR
 MetaboAnnotation
 MetaboCoreUtils
+MetaboSignal
 MethPed
 MethTargetedNGS
 MethylMix
@@ -819,6 +824,7 @@ Trendy
 TurboNorm
 UCSC.utils
 UCell
+UMI4Cats
 UNDO
 UniProt.ws
 VAExprs
@@ -961,6 +967,7 @@ cleaver
 clevRvis
 cliProfiler
 clippda
+clipper
 cliqueMS
 clst
 clstutils
@@ -1019,6 +1026,7 @@ dada2
 dar
 dcGSA
 dcanr
+dce
 ddCt
 ddPCRclust
 dearseq

@@ -1865,3 +1865,7 @@ MetaboSignal
 Pigengene
 bioCancer
 gINTomics
+DEScan2
+GUIDEseq
+REDseq
+vulcan
