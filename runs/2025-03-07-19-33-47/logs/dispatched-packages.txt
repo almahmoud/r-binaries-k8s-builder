@@ -1195,3 +1195,4 @@ tidySingleCellExperiment
 transomics2cytoscape
 waddR
 zellkonverter
+alabaster.sce
