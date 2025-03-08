@@ -287,6 +287,7 @@ Dino
 Director
 DirichletMultinomial
 DiscoRhythm
+DominoEffect
 Doscheda
 DriverNet
 DropletUtils
@@ -339,6 +340,7 @@ FindIT2
 FitHiC
 FlowSOM
 FuseSOM
+GA4GHclient
 GARS
 GAprediction
 GBScleanR
@@ -403,6 +405,7 @@ GenomicAlignments
 GenomicDataCommons
 GenomicDistributions
 GenomicFeatures
+GenomicFiles
 GenomicInteractionNodes
 GenomicPlot
 GenomicRanges
@@ -515,6 +518,7 @@ M3C
 M3Drop
 MACSQuantifyR
 MACSr
+MADSEQ
 MAGAR
 MAGeCKFlute
 MAI
@@ -1272,6 +1276,7 @@ epivizr
 epivizrChart
 epivizrData
 epivizrServer
+epivizrStandalone
 erccdashboard
 esATAC
 escheR
@@ -1538,6 +1543,7 @@ metapone
 metaseqR2
 methInheritSim
 methimpute
+methodical
 methrix
 methyLImp2
 methylCC
@@ -1612,6 +1618,7 @@ muscat
 muscle
 musicatk
 mygene
+myvariant
 mzID
 mzR
 ncGTW

@@ -2063,3 +2063,10 @@ icetea
 katdetectr
 lineagespot
 MutationalPatterns
+DominoEffect
+epivizrStandalone
+GA4GHclient
+GenomicFiles
+MADSEQ
+methodical
+myvariant
