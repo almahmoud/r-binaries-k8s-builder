@@ -68,6 +68,7 @@ BasicSTARRseq
 BayesKnockdown
 BayesSpace
 BeadDataPackR
+BgeeCall
 BiFET
 BiGGR
 BiRewire
@@ -175,6 +176,7 @@ Chicago
 ChromSCape
 CiteFuse
 Clomial
+CluMSID
 ClustAll
 ClustIRR
 ClusterFoldSimilarity
@@ -249,6 +251,7 @@ DiscoRhythm
 Doscheda
 DriverNet
 DropletUtils
+DrugVsDisease
 Dune
 DynDoc
 EBImage
@@ -1338,6 +1341,7 @@ mistyR
 mitch
 mixOmics
 mnem
+moanin
 mobileRNA
 monocle
 mosaics
@@ -1362,6 +1366,7 @@ multtest
 mumosa
 muscat
 muscle
+mygene
 mzID
 mzR
 ncGTW
@@ -1512,6 +1517,7 @@ rebook
 receptLoss
 reconsi
 recount3
+recoup
 regionalpcs
 regioneR
 regioneReloaded

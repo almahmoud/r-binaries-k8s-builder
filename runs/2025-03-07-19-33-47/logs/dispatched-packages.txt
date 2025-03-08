@@ -1861,3 +1861,4 @@ sSNAPPY
 GenomicPlot
 MOSClip
 clipper
+MetaboSignal
