@@ -1632,3 +1632,7 @@ ontoProc
 partCNV
 rGenomeTracks
 scAnnotatR
+DOSE
+Rcpi
+fastLiquidAssociation
+rrvgo

@@ -1554,3 +1554,11 @@ LRBaseDbi
 MsQuality
 RadioGx
 ToxicoGx
+BioNAR
+CrispRVariants
+GOfuncR
+GOSemSim
+GWENA
+KEGGlincs
+keggorthology
+LiquidAssociation

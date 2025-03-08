@@ -69,6 +69,7 @@ BiRewire
 BioCartaImage
 BioGA
 BioMVCClass
+BioNAR
 BioNet
 BioQC
 BioTIP
@@ -169,6 +170,7 @@ ConsensusClusterPlus
 CoreGx
 Cormotif
 CoverageView
+CrispRVariants
 CuratedAtlasQueryR
 CytoDx
 CytoGLMM
@@ -272,7 +274,9 @@ GIGSEA
 GLAD
 GMRP
 GNET2
+GOSemSim
 GOTHiC
+GOfuncR
 GOpro
 GPA
 GRENITS
@@ -285,6 +289,7 @@ GSEAmining
 GSgalgoR
 GWAS.BAYES
 GWASTools
+GWENA
 GateFinder
 GenProSeq
 GeneBreak
@@ -377,6 +382,7 @@ KBoost
 KCsmart
 KEGGREST
 KEGGgraph
+KEGGlincs
 KinSwingR
 LBE
 LEA
@@ -387,6 +393,7 @@ LedPred
 LinTInd
 LinkHD
 Linnorm
+LiquidAssociation
 LoomExperiment
 LymphoSeq
 M3C
@@ -1099,6 +1106,7 @@ iterativeBMA
 iterativeBMAsurv
 ivygapSE
 kebabs
+keggorthology
 kmcut
 koinar
 lapmix
