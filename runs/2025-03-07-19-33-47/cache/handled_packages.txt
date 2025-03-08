@@ -1,5 +1,6 @@
 ABSSeq
 ABarray
+ACE
 ACME
 ADAPT
 ADImpute
@@ -34,6 +35,7 @@ BADER
 BAGS
 BANDITS
 BASiCS
+BASiCStan
 BCRANK
 BEclear
 BG2
@@ -231,6 +233,7 @@ GWAS.BAYES
 GWASTools
 GateFinder
 GenProSeq
+GeneBreak
 GeneExpressionSignature
 GeneGA
 GeneGeneInteR
@@ -347,6 +350,7 @@ MSstatsConvert
 MSstatsLOBD
 MSstatsLiP
 MSstatsPTM
+MSstatsShiny
 MSstatsTMT
 MVCClass
 MWASTools
@@ -472,6 +476,7 @@ ROCpAI
 ROSeq
 ROTS
 ROntoTools
+RPA
 RProtoBufLib
 RRHO
 RSeqAn
@@ -500,6 +505,7 @@ ReactomeGSA
 ReadqPCR
 RedeR
 RedisParam
+RegionalST
 ResidualMatrix
 Rfastp
 Rgraphviz
@@ -701,6 +707,7 @@ cellbaseR
 cellmigRation
 cellscape
 cellxgenedp
+cfdnakit
 chihaya
 chopsticks
 chromDraw
@@ -864,6 +871,7 @@ granulator
 graper
 graph
 gscreend
+gtrellis
 gypsum
 h5vc
 hapFabia
@@ -977,8 +985,10 @@ mnem
 monocle
 mosaics
 mosbi
+motifTestR
 motifcounter
 mpra
+msImpute
 msPurity
 msa
 multiClust
@@ -1109,11 +1119,13 @@ rpx
 rqubic
 rsbml
 rsemmed
+rtracklayer
 runibic
 sRACIPE
 sSeq
 sagenhaft
 sangerseqR
+sarks
 satuRn
 scBubbletree
 scDDboost

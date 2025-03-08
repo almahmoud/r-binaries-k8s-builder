@@ -1254,3 +1254,15 @@ MSstatsLiP
 Rbowtie2
 ShortRead
 TCseq
+ACE
+BASiCStan
+cfdnakit
+GeneBreak
+gtrellis
+motifTestR
+msImpute
+MSstatsShiny
+RegionalST
+RPA
+rtracklayer
+sarks
