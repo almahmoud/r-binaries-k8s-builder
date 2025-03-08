@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1497 packages built successfully
+- 1501 packages built successfully
 - 0 packages failed to build
-- 736 packages not yet processed
+- 732 packages not yet processed
 
 
-## Successfully Built (1497)
+## Successfully Built (1501)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1509,8 +1509,12 @@
 | [xcore](https://bioconductor.org/packages/3.20/bioc/html/xcore.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/xcore/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcore)                      |
 | [coseq](https://bioconductor.org/packages/3.20/bioc/html/coseq.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/coseq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/coseq)                      |
 | [ropls](https://bioconductor.org/packages/3.20/bioc/html/ropls.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/ropls/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ropls)                      |
+| [cfDNAPro](https://bioconductor.org/packages/3.20/bioc/html/cfDNAPro.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/cfDNAPro/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cfDNAPro)                   |
+| [lionessR](https://bioconductor.org/packages/3.20/bioc/html/lionessR.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/lionessR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lionessR)                   |
+| [metabolomicsWorkbenchR](https://bioconductor.org/packages/3.20/bioc/html/metabolomicsWorkbenchR.html)         | Built    | [Log](runs/2025-03-07-19-33-47/logs/metabolomicsWorkbenchR/build-success.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/metabolomicsWorkbenchR)     |
+| [peco](https://bioconductor.org/packages/3.20/bioc/html/peco.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/peco/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/peco)                       |
 
-## Not Yet Processed (736)
+## Not Yet Processed (732)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADAM](https://bioconductor.org/packages/3.20/bioc/html/ADAM.html)                                               | Unprocessed |
@@ -1922,7 +1926,6 @@
 | [cbaf](https://bioconductor.org/packages/3.20/bioc/html/cbaf.html)                                               | Unprocessed |
 | [ccmap](https://bioconductor.org/packages/3.20/bioc/html/ccmap.html)                                             | Unprocessed |
 | [cellity](https://bioconductor.org/packages/3.20/bioc/html/cellity.html)                                         | Unprocessed |
-| [cfDNAPro](https://bioconductor.org/packages/3.20/bioc/html/cfDNAPro.html)                                       | Unprocessed |
 | [cfTools](https://bioconductor.org/packages/3.20/bioc/html/cfTools.html)                                         | Unprocessed |
 | [cghMCR](https://bioconductor.org/packages/3.20/bioc/html/cghMCR.html)                                           | Unprocessed |
 | [chimeraviz](https://bioconductor.org/packages/3.20/bioc/html/chimeraviz.html)                                   | Unprocessed |
@@ -2060,7 +2063,6 @@
 | [knowYourCG](https://bioconductor.org/packages/3.20/bioc/html/knowYourCG.html)                                   | Unprocessed |
 | [lefser](https://bioconductor.org/packages/3.20/bioc/html/lefser.html)                                           | Unprocessed |
 | [lineagespot](https://bioconductor.org/packages/3.20/bioc/html/lineagespot.html)                                 | Unprocessed |
-| [lionessR](https://bioconductor.org/packages/3.20/bioc/html/lionessR.html)                                       | Unprocessed |
 | [lipidr](https://bioconductor.org/packages/3.20/bioc/html/lipidr.html)                                           | Unprocessed |
 | [lisaClust](https://bioconductor.org/packages/3.20/bioc/html/lisaClust.html)                                     | Unprocessed |
 | [lumi](https://bioconductor.org/packages/3.20/bioc/html/lumi.html)                                               | Unprocessed |
@@ -2074,7 +2076,6 @@
 | [meshes](https://bioconductor.org/packages/3.20/bioc/html/meshes.html)                                           | Unprocessed |
 | [meshr](https://bioconductor.org/packages/3.20/bioc/html/meshr.html)                                             | Unprocessed |
 | [metaMS](https://bioconductor.org/packages/3.20/bioc/html/metaMS.html)                                           | Unprocessed |
-| [metabolomicsWorkbenchR](https://bioconductor.org/packages/3.20/bioc/html/metabolomicsWorkbenchR.html)           | Unprocessed |
 | [metaseqR2](https://bioconductor.org/packages/3.20/bioc/html/metaseqR2.html)                                     | Unprocessed |
 | [methodical](https://bioconductor.org/packages/3.20/bioc/html/methodical.html)                                   | Unprocessed |
 | [methylCC](https://bioconductor.org/packages/3.20/bioc/html/methylCC.html)                                       | Unprocessed |
@@ -2137,7 +2138,6 @@
 | [pathview](https://bioconductor.org/packages/3.20/bioc/html/pathview.html)                                       | Unprocessed |
 | [pcaExplorer](https://bioconductor.org/packages/3.20/bioc/html/pcaExplorer.html)                                 | Unprocessed |
 | [peakPantheR](https://bioconductor.org/packages/3.20/bioc/html/peakPantheR.html)                                 | Unprocessed |
-| [peco](https://bioconductor.org/packages/3.20/bioc/html/peco.html)                                               | Unprocessed |
 | [phantasus](https://bioconductor.org/packages/3.20/bioc/html/phantasus.html)                                     | Unprocessed |
 | [phenoTest](https://bioconductor.org/packages/3.20/bioc/html/phenoTest.html)                                     | Unprocessed |
 | [phenomis](https://bioconductor.org/packages/3.20/bioc/html/phenomis.html)                                       | Unprocessed |

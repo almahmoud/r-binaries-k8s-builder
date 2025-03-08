@@ -802,6 +802,7 @@ cellmigRation
 cellscape
 cellxgenedp
 censcyt
+cfDNAPro
 cfdnakit
 chihaya
 chipseq
@@ -1065,6 +1066,7 @@ lfa
 limma
 limmaGUI
 limpca
+lionessR
 lmdme
 loci2path
 logicFS
@@ -1097,6 +1099,7 @@ metaCCA
 metaSeq
 metabCombiner
 metabinR
+metabolomicsWorkbenchR
 metabomxtr
 metagene2
 metagenomeSeq
@@ -1202,6 +1205,7 @@ pathifier
 pathwayPCA
 pcaMethods
 pdInfoBuilder
+peco
 pengls
 pepStat
 pepXMLTab

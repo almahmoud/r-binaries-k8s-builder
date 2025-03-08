@@ -1495,3 +1495,7 @@ vsclust
 xcore
 coseq
 ropls
+cfDNAPro
+lionessR
+metabolomicsWorkbenchR
+peco
