@@ -1,0 +1,72 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ctsGE'
+also installing the dependencies ‘ccaPP’, ‘GEOquery’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ccaPP_0.3.4.tar.gz'
+Content type 'binary/octet-stream' length 326612 bytes (318 KB)
+==================================================
+downloaded 318 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GEOquery_2.74.0.tar.gz'
+Content type 'application/x-gzip' length 13708435 bytes (13.1 MB)
+==================================================
+downloaded 13.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ctsGE_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 1156419 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+* installing *binary* package ‘ccaPP’ ...
+* ‘ccaPP’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ccaPP’ as ‘ccaPP_0.3.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ccaPP)
+* installing *source* package ‘GEOquery’ ...
+** package ‘GEOquery’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GEOquery’ as ‘GEOquery_2.74.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GEOquery)
+* installing *source* package ‘ctsGE’ ...
+** package ‘ctsGE’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ctsGE’ as ‘ctsGE_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ctsGE)
+
+The downloaded source packages are in
+	‘/tmp/RtmpgAftYc/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+
+real	1m4.468s
+user	0m28.626s
+sys	0m6.432s

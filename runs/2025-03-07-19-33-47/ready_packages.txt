@@ -1,1 +1,16 @@
-CIMICE
+AWFisher
+MSstats
+OLIN
+PROPER
+RBM
+ROSeq
+Rvisdiff
+ScreenR
+arrayQuality
+compcodeR
+erccdashboard
+methylMnM
+nnNorm
+ppcseq
+stepNorm
+tweeDEseq

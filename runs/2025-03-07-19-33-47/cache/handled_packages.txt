@@ -1,3 +1,4 @@
+ABSSeq
 AMOUNTAIN
 ANCOMBC
 ARRmNormalization
@@ -7,6 +8,7 @@ ASGSCA
 ASSET
 AlphaBeta
 AlphaMissenseR
+AlpsNMR
 AnVIL
 AnVILAz
 AnVILBase
@@ -87,6 +89,7 @@ GSAR
 GSCA
 GSEAmining
 GSgalgoR
+GWAS.BAYES
 GenProSeq
 GeneGA
 GeneOverlap
@@ -100,6 +103,8 @@ HIREewas
 HMMcopy
 HPAanalyze
 HPiP
+Harman
+Heatplus
 Herper
 HilbertVis
 HilbertVisGUI
@@ -139,6 +144,7 @@ MassSpecWavelet
 MatrixGenerics
 MeasurementError.cor
 Mergeomics
+MethylMix
 ModCon
 MultiMed
 NPARC
@@ -204,6 +210,7 @@ SamSPECTRAL
 SpaceMarkers
 Summix
 SwathXtend
+TPP2D
 TSAR
 TargetScore
 TargetSearch
@@ -211,6 +218,7 @@ TrajectoryGeometry
 TreeAndLeaf
 VERSO
 VennDetail
+Wrench
 XINA
 a4Reporting
 abseqR
@@ -257,6 +265,7 @@ compSPOT
 consensus
 cqn
 ctc
+ctsGE
 cytolib
 daMA
 dcGSA
@@ -274,6 +283,7 @@ dks
 drawProteins
 dupRadar
 easyreporting
+edgeR
 eds
 epistasisGA
 epivizrServer
@@ -316,6 +326,8 @@ hypeR
 iASeq
 iBBiG
 iCARE
+iCOBRA
+iChip
 iClusterPlus
 iGC
 iPath
@@ -331,12 +343,15 @@ les
 levi
 lfa
 limma
+limmaGUI
+lmdme
 logicFS
 lpsymphony
 maCorrPlot
 maftools
 magrene
 mapscape
+marray
 matchBox
 mdp
 mdqc
@@ -364,6 +379,7 @@ occugene
 omada
 ompBAM
 onlineFDR
+oppti
 parody
 pathifier
 pathwayPCA
