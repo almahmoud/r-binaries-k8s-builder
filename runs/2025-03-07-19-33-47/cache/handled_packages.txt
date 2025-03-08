@@ -427,6 +427,7 @@ KEGGREST
 KEGGgraph
 KEGGlincs
 KinSwingR
+LACE
 LBE
 LEA
 LOBSTAHS
@@ -676,6 +677,7 @@ RcwlPipelines
 Rdisop
 ReUseData
 ReactomeGSA
+ReactomePA
 ReadqPCR
 RedeR
 RedisParam
@@ -1559,6 +1561,7 @@ rsemmed
 rtracklayer
 runibic
 sRACIPE
+sSNAPPY
 sSeq
 safe
 sagenhaft

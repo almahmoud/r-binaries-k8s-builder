@@ -1771,3 +1771,6 @@
 ['[RiboDiPA](https://bioconductor.org/packages/3.20/bioc/html/RiboDiPA.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/RiboDiPA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RiboDiPA)']
 ['[proBAMr](https://bioconductor.org/packages/3.20/bioc/html/proBAMr.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/proBAMr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/proBAMr)']
 ['[sitadela](https://bioconductor.org/packages/3.20/bioc/html/sitadela.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/sitadela/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sitadela)']
+['[LACE](https://bioconductor.org/packages/3.20/bioc/html/LACE.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/LACE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/LACE)']
+['[ReactomePA](https://bioconductor.org/packages/3.20/bioc/html/ReactomePA.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/ReactomePA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ReactomePA)']
+['[sSNAPPY](https://bioconductor.org/packages/3.20/bioc/html/sSNAPPY.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/sSNAPPY/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sSNAPPY)']

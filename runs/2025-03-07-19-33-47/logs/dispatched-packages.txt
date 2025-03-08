@@ -1862,3 +1862,6 @@ GenomicPlot
 MOSClip
 clipper
 MetaboSignal
+Pigengene
+bioCancer
+gINTomics

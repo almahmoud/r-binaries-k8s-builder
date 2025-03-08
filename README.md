@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1773 packages built successfully
+- 1776 packages built successfully
 - 0 packages failed to build
-- 460 packages not yet processed
+- 457 packages not yet processed
 
 
-## Successfully Built (1773)
+## Successfully Built (1776)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1785,8 +1785,11 @@
 | [RiboDiPA](https://bioconductor.org/packages/3.20/bioc/html/RiboDiPA.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/RiboDiPA/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RiboDiPA)                   |
 | [proBAMr](https://bioconductor.org/packages/3.20/bioc/html/proBAMr.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/proBAMr/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/proBAMr)                    |
 | [sitadela](https://bioconductor.org/packages/3.20/bioc/html/sitadela.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/sitadela/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sitadela)                   |
+| [LACE](https://bioconductor.org/packages/3.20/bioc/html/LACE.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/LACE/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/LACE)                       |
+| [ReactomePA](https://bioconductor.org/packages/3.20/bioc/html/ReactomePA.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/ReactomePA/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ReactomePA)                 |
+| [sSNAPPY](https://bioconductor.org/packages/3.20/bioc/html/sSNAPPY.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/sSNAPPY/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sSNAPPY)                    |
 
-## Not Yet Processed (460)
+## Not Yet Processed (457)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1894,7 +1897,6 @@
 | [InterCellar](https://bioconductor.org/packages/3.20/bioc/html/InterCellar.html)                                 | Unprocessed |
 | [IsoformSwitchAnalyzeR](https://bioconductor.org/packages/3.20/bioc/html/IsoformSwitchAnalyzeR.html)             | Unprocessed |
 | [KnowSeq](https://bioconductor.org/packages/3.20/bioc/html/KnowSeq.html)                                         | Unprocessed |
-| [LACE](https://bioconductor.org/packages/3.20/bioc/html/LACE.html)                                               | Unprocessed |
 | [MADSEQ](https://bioconductor.org/packages/3.20/bioc/html/MADSEQ.html)                                           | Unprocessed |
 | [MAGAR](https://bioconductor.org/packages/3.20/bioc/html/MAGAR.html)                                             | Unprocessed |
 | [MAGeCKFlute](https://bioconductor.org/packages/3.20/bioc/html/MAGeCKFlute.html)                                 | Unprocessed |
@@ -1968,7 +1970,6 @@
 | [RUVSeq](https://bioconductor.org/packages/3.20/bioc/html/RUVSeq.html)                                           | Unprocessed |
 | [RareVariantVis](https://bioconductor.org/packages/3.20/bioc/html/RareVariantVis.html)                           | Unprocessed |
 | [RcisTarget](https://bioconductor.org/packages/3.20/bioc/html/RcisTarget.html)                                   | Unprocessed |
-| [ReactomePA](https://bioconductor.org/packages/3.20/bioc/html/ReactomePA.html)                                   | Unprocessed |
 | [RepViz](https://bioconductor.org/packages/3.20/bioc/html/RepViz.html)                                           | Unprocessed |
 | [ReportingTools](https://bioconductor.org/packages/3.20/bioc/html/ReportingTools.html)                           | Unprocessed |
 | [Rhisat2](https://bioconductor.org/packages/3.20/bioc/html/Rhisat2.html)                                         | Unprocessed |
@@ -2197,7 +2198,6 @@
 | [regutools](https://bioconductor.org/packages/3.20/bioc/html/regutools.html)                                     | Unprocessed |
 | [rgsepd](https://bioconductor.org/packages/3.20/bioc/html/rgsepd.html)                                           | Unprocessed |
 | [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)                 | Unprocessed |
-| [sSNAPPY](https://bioconductor.org/packages/3.20/bioc/html/sSNAPPY.html)                                         | Unprocessed |
 | [sampleClassifier](https://bioconductor.org/packages/3.20/bioc/html/sampleClassifier.html)                       | Unprocessed |
 | [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                             | Unprocessed |
 | [scBFA](https://bioconductor.org/packages/3.20/bioc/html/scBFA.html)                                             | Unprocessed |
