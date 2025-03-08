@@ -204,6 +204,7 @@ DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
 DNAshapeR
+DOSE
 DRIMSeq
 DSS
 DTA
@@ -309,6 +310,7 @@ GenomeInfoDb
 GenomicAlignments
 GenomicDataCommons
 GenomicDistributions
+GenomicFeatures
 GenomicRanges
 GenomicSuperSignature
 GenomicTuples
@@ -429,6 +431,7 @@ MPAC
 MPFE
 MPRAnalyze
 MSA2dist
+MSnbase
 MSstats
 MSstatsBig
 MSstatsConvert
@@ -453,6 +456,7 @@ MetMashR
 MetNet
 MetaCyto
 MetaNeighbor
+MetaboAnnotation
 MetaboCoreUtils
 MethPed
 MethTargetedNGS
@@ -607,6 +611,7 @@ Rbowtie
 Rbowtie2
 Rbwa
 Rcollectl
+Rcpi
 Rcwl
 RcwlPipelines
 Rdisop
@@ -1012,6 +1017,7 @@ gDRstyle
 gDRutils
 gaga
 garfield
+gatom
 gcapc
 gcatest
 gcrma
@@ -1065,6 +1071,7 @@ hiReadsProcessor
 hicVennDiagram
 hierGWAS
 hierinf
+hipathia
 hmdbQuery
 hoodscanR
 hopach
@@ -1106,6 +1113,7 @@ infercnv
 infinityFlow
 interacCircos
 interactiveDisplayBase
+ipdDb
 iterativeBMA
 iterativeBMAsurv
 ivygapSE
@@ -1134,6 +1142,7 @@ lpsymphony
 lute
 mBPCR
 maCorrPlot
+maPredictDSC
 maSigPro
 made4
 maftools
@@ -1255,6 +1264,7 @@ ompBAM
 oncomix
 oncoscanR
 onlineFDR
+ontoProc
 openCyto
 openPrimeR
 oppti
@@ -1337,6 +1347,7 @@ rGADEM
 rRDP
 rSWeeP
 rScudo
+rTRM
 rWikiPathways
 rain
 ramr

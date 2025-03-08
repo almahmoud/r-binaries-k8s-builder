@@ -1572,3 +1572,14 @@ CBEA
 ExperimentHub
 methylSig
 miRNAtap
+DOSE
+gatom
+GenomicFeatures
+hipathia
+ipdDb
+maPredictDSC
+MetaboAnnotation
+MSnbase
+ontoProc
+Rcpi
+rTRM
