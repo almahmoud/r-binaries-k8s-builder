@@ -45,6 +45,7 @@ BUSseq
 Banksy
 BaseSpaceR
 BayesKnockdown
+BayesSpace
 BeadDataPackR
 BiFET
 BiGGR
@@ -201,6 +202,7 @@ FitHiC
 FlowSOM
 GAprediction
 GBScleanR
+GDSArray
 GEM
 GENESIS
 GENIE3
@@ -337,6 +339,7 @@ MSstats
 MSstatsBig
 MSstatsConvert
 MSstatsLOBD
+MSstatsPTM
 MSstatsTMT
 MVCClass
 MWASTools
@@ -363,6 +366,7 @@ MiChip
 MiPP
 MicrobiotaProcess
 ModCon
+Modstrings
 MoleculeExperiment
 MsBackendMassbank
 MsBackendMetaboLights
@@ -595,6 +599,7 @@ VDJdive
 VERSO
 VennDetail
 VisiumIO
+Voyager
 Wrench
 XINA
 XVector
@@ -863,6 +868,7 @@ iGC
 iPath
 iSEE
 iSEEhex
+iSEEindex
 iSEEpathways
 iSeq
 iasva
@@ -918,6 +924,7 @@ mbkmeans
 mdp
 mdqc
 megadepth
+memes
 messina
 metaCCA
 metaSeq
@@ -1008,6 +1015,7 @@ phantasusLite
 phenopath
 philr
 phosphonormalizer
+phyloseq
 piano
 pickgene
 planet
@@ -1062,6 +1070,7 @@ regsplice
 retrofit
 rexposome
 rfPred
+rfaRm
 rgoslin
 rhdf5
 rhdf5client
@@ -1122,6 +1131,7 @@ semisup
 seq.hotSPOT
 seqArchR
 seqLogo
+seqPattern
 seqTools
 seqcombo
 sevenbridges

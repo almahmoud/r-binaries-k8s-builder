@@ -1218,3 +1218,13 @@ MEDME
 R4RNA
 scMerge
 velociraptor
+BayesSpace
+GDSArray
+iSEEindex
+memes
+Modstrings
+MSstatsPTM
+phyloseq
+rfaRm
+seqPattern
+Voyager
