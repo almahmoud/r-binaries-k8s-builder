@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2173 packages built successfully
+- 2175 packages built successfully
 - 0 packages failed to build
-- 60 packages not yet processed
+- 58 packages not yet processed
 
 
-## Successfully Built (2173)
+## Successfully Built (2175)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2185,8 +2185,10 @@
 | [uncoverappLib](https://bioconductor.org/packages/3.20/bioc/html/uncoverappLib.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/uncoverappLib/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/uncoverappLib)               |
 | [crisprShiny](https://bioconductor.org/packages/3.20/bioc/html/crisprShiny.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/crisprShiny/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/crisprShiny)                 |
 | [methylclock](https://bioconductor.org/packages/3.20/bioc/html/methylclock.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/methylclock/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methylclock)                 |
+| [SNPhood](https://bioconductor.org/packages/3.20/bioc/html/SNPhood.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/SNPhood/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SNPhood)                     |
+| [compEpiTools](https://bioconductor.org/packages/3.20/bioc/html/compEpiTools.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/compEpiTools/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/compEpiTools)                |
 
-## Not Yet Processed (60)
+## Not Yet Processed (58)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                     | Unprocessed |
@@ -2212,7 +2214,6 @@
 | [ReportingTools](https://bioconductor.org/packages/3.20/bioc/html/ReportingTools.html)               | Unprocessed |
 | [RnaSeqSampleSize](https://bioconductor.org/packages/3.20/bioc/html/RnaSeqSampleSize.html)           | Unprocessed |
 | [SGCP](https://bioconductor.org/packages/3.20/bioc/html/SGCP.html)                                   | Unprocessed |
-| [SNPhood](https://bioconductor.org/packages/3.20/bioc/html/SNPhood.html)                             | Unprocessed |
 | [SPLINTER](https://bioconductor.org/packages/3.20/bioc/html/SPLINTER.html)                           | Unprocessed |
 | [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                   | Unprocessed |
 | [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)           | Unprocessed |
@@ -2224,7 +2225,6 @@
 | [chimeraviz](https://bioconductor.org/packages/3.20/bioc/html/chimeraviz.html)                       | Unprocessed |
 | [cicero](https://bioconductor.org/packages/3.20/bioc/html/cicero.html)                               | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                               | Unprocessed |
-| [compEpiTools](https://bioconductor.org/packages/3.20/bioc/html/compEpiTools.html)                   | Unprocessed |
 | [crisprVerse](https://bioconductor.org/packages/3.20/bioc/html/crisprVerse.html)                     | Unprocessed |
 | [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                       | Unprocessed |
 | [dagLogo](https://bioconductor.org/packages/3.20/bioc/html/dagLogo.html)                             | Unprocessed |

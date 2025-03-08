@@ -896,6 +896,7 @@ SMITE
 SNAGEE
 SNPRelate
 SNPediaR
+SNPhood
 SOMNiBUS
 SPEM
 SPIA
@@ -1220,6 +1221,7 @@ cogena
 cogeqc
 cola
 combi
+compEpiTools
 compSPOT
 compcodeR
 concordexR

@@ -2171,3 +2171,5 @@ scTreeViz
 uncoverappLib
 crisprShiny
 methylclock
+compEpiTools
+SNPhood
