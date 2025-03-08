@@ -109,6 +109,7 @@ CATALYST
 CBEA
 CCPlotR
 CDI
+CEMiTool
 CFAssay
 CGEN
 CGHbase
@@ -768,6 +769,7 @@ TDbasedUFEadv
 TENxIO
 TEQC
 TFARM
+TIN
 TMixClust
 TOAST
 TPP
@@ -845,6 +847,7 @@ altcdfenvs
 amplican
 animalcules
 annaffy
+annotate
 annotationTools
 anota
 anota2seq
@@ -853,6 +856,7 @@ apComplex
 apeglm
 aroma.light
 arrayQuality
+artMS
 assorthead
 atena
 autonomics
@@ -898,6 +902,7 @@ brendaDb
 bsseq
 bugsigdbr
 bumphunter
+cBioPortalData
 calm
 cancerclass
 casper
@@ -917,6 +922,7 @@ cfDNAPro
 cfTools
 cfdnakit
 chihaya
+chipenrich
 chipseq
 chopsticks
 chromDraw
@@ -1030,6 +1036,7 @@ epiNEM
 epialleleR
 epidecodeR
 epigraHMM
+epiregulon.extra
 epistack
 epistasisGA
 epivizrServer
@@ -1094,6 +1101,7 @@ gDRimport
 gDRstyle
 gDRutils
 gaga
+gage
 garfield
 gatom
 gcapc
@@ -1134,6 +1142,8 @@ girafe
 glmGamPoi
 globalSeq
 gmoviz
+goProfiles
+goTools
 gpls
 gpuMagic
 granulator
@@ -1199,6 +1209,7 @@ infinityFlow
 interacCircos
 interactiveDisplayBase
 ipdDb
+isomiRs
 iterativeBMA
 iterativeBMAsurv
 ivygapSE
@@ -1253,6 +1264,7 @@ memes
 meshes
 messina
 metaCCA
+metaMS
 metaSeq
 metabCombiner
 metabinR
@@ -1310,6 +1322,7 @@ mpra
 msImpute
 msPurity
 msa
+mslp
 msmsEDA
 msmsTests
 msqrob2
@@ -1331,6 +1344,7 @@ ncdfFlow
 ndexr
 nearBynding
 nempi
+netboost
 nethet
 netprioR
 netresponse
@@ -1374,6 +1388,7 @@ panp
 parglms
 parody
 partCNV
+pathRender
 pathifier
 pathlinkR
 pathwayPCA
@@ -1448,6 +1463,7 @@ rBiopaxParser
 rCGH
 rGADEM
 rGREAT
+rGenomeTracks
 rRDP
 rSWeeP
 rScudo
@@ -1503,6 +1519,7 @@ rtracklayer
 runibic
 sRACIPE
 sSeq
+safe
 sagenhaft
 sangeranalyseR
 sangerseqR
@@ -1574,6 +1591,7 @@ simPIC
 similaRpeak
 simona
 simpleSeg
+simplifyEnrichment
 sincell
 sitePath
 sizepower
@@ -1653,6 +1671,7 @@ timescape
 tkWidgets
 tomoda
 tomoseqr
+topGO
 topconfects
 topdownr
 tpSVG
@@ -1666,6 +1685,7 @@ traseR
 treeclimbR
 treeio
 treekoR
+tricycle
 trio
 triplex
 tripr
