@@ -74,6 +74,7 @@ BayesKnockdown
 BayesSpace
 BeadDataPackR
 BgeeCall
+BgeeDB
 BiFET
 BiGGR
 BiRewire
@@ -359,6 +360,7 @@ GeneNetworkBuilder
 GeneOverlap
 GeneRegionScan
 GeneSelectMMD
+GeneTonic
 GeneticsPed
 GenomAutomorphism
 GenomeInfoDb
@@ -1010,6 +1012,7 @@ biosigner
 biotmle
 bluster
 borealis
+branchpointer
 breakpointR
 brendaDb
 broadSeq
@@ -1155,6 +1158,7 @@ drugTargetInteractions
 dupRadar
 dyebias
 easier
+easyRNASeq
 easylift
 easyreporting
 ecolitk
@@ -1426,6 +1430,7 @@ metagenomeSeq
 metahdep
 metapod
 metapone
+metaseqR2
 methInheritSim
 methimpute
 methrix

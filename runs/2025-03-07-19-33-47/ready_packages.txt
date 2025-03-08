@@ -1,6 +1,2 @@
-CleanUpRNAseq
-MoonlightR
-SurfR
-consensusDE
-scone
-standR
+GeDi
+RITAN

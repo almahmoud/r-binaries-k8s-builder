@@ -1979,3 +1979,5 @@ SurfR
 consensusDE
 scone
 standR
+GeDi
+RITAN

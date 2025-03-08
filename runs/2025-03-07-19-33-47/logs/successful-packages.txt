@@ -1919,3 +1919,8 @@ RUVSeq
 TCGAbiolinks
 TEKRABber
 TFEA.ChIP
+BgeeDB
+branchpointer
+easyRNASeq
+GeneTonic
+metaseqR2
