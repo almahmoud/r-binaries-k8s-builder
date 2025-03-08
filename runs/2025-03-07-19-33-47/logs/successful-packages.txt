@@ -472,3 +472,14 @@ Wrench
 AWFisher
 CIMICE
 RBM
+COMPASS
+erccdashboard
+methylMnM
+MSstats
+nnNorm
+OLIN
+ROSeq
+Rvisdiff
+ScreenR
+stepNorm
+tweeDEseq

@@ -488,3 +488,7 @@ nnNorm
 ppcseq
 stepNorm
 tweeDEseq
+MSstatsBig
+MSstatsTMT
+OLINgui
+SIMD
