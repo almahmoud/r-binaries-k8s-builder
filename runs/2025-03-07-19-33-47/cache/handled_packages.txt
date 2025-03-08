@@ -425,6 +425,7 @@ GenomicDistributions
 GenomicFeatures
 GenomicFiles
 GenomicInteractionNodes
+GenomicOZone
 GenomicPlot
 GenomicRanges
 GenomicScores
@@ -758,6 +759,7 @@ QUBIC
 Qtlizer
 QuasR
 QuaternaryProd
+R3CPET
 R453Plus1Toolbox
 R4RNA
 RAIDS
@@ -848,6 +850,7 @@ Rhisat2
 Rhtslib
 RiboCrypt
 RiboDiPA
+RiboProfiling
 Rmagpie
 Rmmquant
 RnBeads
@@ -1239,6 +1242,7 @@ crisprBowtie
 crisprBwa
 crisprDesign
 crisprScore
+crisprViz
 crlmm
 csaw
 csdR

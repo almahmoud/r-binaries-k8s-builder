@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2158 packages built successfully
+- 2162 packages built successfully
 - 0 packages failed to build
-- 75 packages not yet processed
+- 71 packages not yet processed
 
 
-## Successfully Built (2158)
+## Successfully Built (2162)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2170,8 +2170,12 @@
 | [cageminer](https://bioconductor.org/packages/3.20/bioc/html/cageminer.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/cageminer/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cageminer)                   |
 | [derfinderPlot](https://bioconductor.org/packages/3.20/bioc/html/derfinderPlot.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/derfinderPlot/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/derfinderPlot)               |
 | [scruff](https://bioconductor.org/packages/3.20/bioc/html/scruff.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/scruff/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scruff)                      |
+| [GenomicOZone](https://bioconductor.org/packages/3.20/bioc/html/GenomicOZone.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/GenomicOZone/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicOZone)                |
+| [R3CPET](https://bioconductor.org/packages/3.20/bioc/html/R3CPET.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/R3CPET/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/R3CPET)                      |
+| [RiboProfiling](https://bioconductor.org/packages/3.20/bioc/html/RiboProfiling.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/RiboProfiling/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RiboProfiling)               |
+| [crisprViz](https://bioconductor.org/packages/3.20/bioc/html/crisprViz.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/crisprViz/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/crisprViz)                   |
 
-## Not Yet Processed (75)
+## Not Yet Processed (71)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                     | Unprocessed |
@@ -2183,7 +2187,6 @@
 | [GOstats](https://bioconductor.org/packages/3.20/bioc/html/GOstats.html)                             | Unprocessed |
 | [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)       | Unprocessed |
 | [GenomicInteractions](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractions.html)     | Unprocessed |
-| [GenomicOZone](https://bioconductor.org/packages/3.20/bioc/html/GenomicOZone.html)                   | Unprocessed |
 | [GmicR](https://bioconductor.org/packages/3.20/bioc/html/GmicR.html)                                 | Unprocessed |
 | [HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)                         | Unprocessed |
 | [MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)                                   | Unprocessed |
@@ -2193,13 +2196,11 @@
 | [OGRE](https://bioconductor.org/packages/3.20/bioc/html/OGRE.html)                                   | Unprocessed |
 | [PING](https://bioconductor.org/packages/3.20/bioc/html/PING.html)                                   | Unprocessed |
 | [Pviz](https://bioconductor.org/packages/3.20/bioc/html/Pviz.html)                                   | Unprocessed |
-| [R3CPET](https://bioconductor.org/packages/3.20/bioc/html/R3CPET.html)                               | Unprocessed |
 | [RNAmodR](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.html)                             | Unprocessed |
 | [RNAmodR.AlkAnilineSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.AlkAnilineSeq.html) | Unprocessed |
 | [RNAmodR.ML](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.ML.html)                       | Unprocessed |
 | [RNAmodR.RiboMethSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.RiboMethSeq.html)     | Unprocessed |
 | [ReportingTools](https://bioconductor.org/packages/3.20/bioc/html/ReportingTools.html)               | Unprocessed |
-| [RiboProfiling](https://bioconductor.org/packages/3.20/bioc/html/RiboProfiling.html)                 | Unprocessed |
 | [RnaSeqSampleSize](https://bioconductor.org/packages/3.20/bioc/html/RnaSeqSampleSize.html)           | Unprocessed |
 | [SGCP](https://bioconductor.org/packages/3.20/bioc/html/SGCP.html)                                   | Unprocessed |
 | [SNPhood](https://bioconductor.org/packages/3.20/bioc/html/SNPhood.html)                             | Unprocessed |
@@ -2218,7 +2219,6 @@
 | [compEpiTools](https://bioconductor.org/packages/3.20/bioc/html/compEpiTools.html)                   | Unprocessed |
 | [crisprShiny](https://bioconductor.org/packages/3.20/bioc/html/crisprShiny.html)                     | Unprocessed |
 | [crisprVerse](https://bioconductor.org/packages/3.20/bioc/html/crisprVerse.html)                     | Unprocessed |
-| [crisprViz](https://bioconductor.org/packages/3.20/bioc/html/crisprViz.html)                         | Unprocessed |
 | [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                       | Unprocessed |
 | [dagLogo](https://bioconductor.org/packages/3.20/bioc/html/dagLogo.html)                             | Unprocessed |
 | [enhancerHomologSearch](https://bioconductor.org/packages/3.20/bioc/html/enhancerHomologSearch.html) | Unprocessed |

@@ -2156,3 +2156,7 @@ derfinderPlot
 DMRcate
 scruff
 SomaticSignatures
+crisprViz
+GenomicOZone
+R3CPET
+RiboProfiling
