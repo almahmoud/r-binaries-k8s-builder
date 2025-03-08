@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 784 packages built successfully
+- 790 packages built successfully
 - 0 packages failed to build
-- 1449 packages not yet processed
+- 1443 packages not yet processed
 
 
-## Successfully Built (784)
+## Successfully Built (790)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -796,8 +796,14 @@
 | [msPurity](https://bioconductor.org/packages/3.20/bioc/html/msPurity.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/msPurity/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/msPurity)                |
 | [rain](https://bioconductor.org/packages/3.20/bioc/html/rain.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/rain/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rain)                    |
 | [uSORT](https://bioconductor.org/packages/3.20/bioc/html/uSORT.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/uSORT/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/uSORT)                   |
+| [MetCirc](https://bioconductor.org/packages/3.20/bioc/html/MetCirc.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/MetCirc/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MetCirc)                 |
+| [MsBackendMetaboLights](https://bioconductor.org/packages/3.20/bioc/html/MsBackendMetaboLights.html)     | Built    | [Log](runs/2025-03-07-19-33-47/logs/MsBackendMetaboLights/build-success.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MsBackendMetaboLights)   |
+| [MsBackendMsp](https://bioconductor.org/packages/3.20/bioc/html/MsBackendMsp.html)                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/MsBackendMsp/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MsBackendMsp)            |
+| [SpectraQL](https://bioconductor.org/packages/3.20/bioc/html/SpectraQL.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/SpectraQL/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SpectraQL)               |
+| [nethet](https://bioconductor.org/packages/3.20/bioc/html/nethet.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/nethet/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/nethet)                  |
+| [trio](https://bioconductor.org/packages/3.20/bioc/html/trio.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/trio/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/trio)                    |
 
-## Not Yet Processed (1449)
+## Not Yet Processed (1443)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1198,7 +1204,6 @@
 | [MeSHDbi](https://bioconductor.org/packages/3.20/bioc/html/MeSHDbi.html)                                         | Unprocessed |
 | [Melissa](https://bioconductor.org/packages/3.20/bioc/html/Melissa.html)                                         | Unprocessed |
 | [MesKit](https://bioconductor.org/packages/3.20/bioc/html/MesKit.html)                                           | Unprocessed |
-| [MetCirc](https://bioconductor.org/packages/3.20/bioc/html/MetCirc.html)                                         | Unprocessed |
 | [MetMashR](https://bioconductor.org/packages/3.20/bioc/html/MetMashR.html)                                       | Unprocessed |
 | [MetNet](https://bioconductor.org/packages/3.20/bioc/html/MetNet.html)                                           | Unprocessed |
 | [MetaCyto](https://bioconductor.org/packages/3.20/bioc/html/MetaCyto.html)                                       | Unprocessed |
@@ -1222,9 +1227,7 @@
 | [Motif2Site](https://bioconductor.org/packages/3.20/bioc/html/Motif2Site.html)                                   | Unprocessed |
 | [MotifDb](https://bioconductor.org/packages/3.20/bioc/html/MotifDb.html)                                         | Unprocessed |
 | [MouseFM](https://bioconductor.org/packages/3.20/bioc/html/MouseFM.html)                                         | Unprocessed |
-| [MsBackendMetaboLights](https://bioconductor.org/packages/3.20/bioc/html/MsBackendMetaboLights.html)             | Unprocessed |
 | [MsBackendMgf](https://bioconductor.org/packages/3.20/bioc/html/MsBackendMgf.html)                               | Unprocessed |
-| [MsBackendMsp](https://bioconductor.org/packages/3.20/bioc/html/MsBackendMsp.html)                               | Unprocessed |
 | [MsBackendRawFileReader](https://bioconductor.org/packages/3.20/bioc/html/MsBackendRawFileReader.html)           | Unprocessed |
 | [MsBackendSql](https://bioconductor.org/packages/3.20/bioc/html/MsBackendSql.html)                               | Unprocessed |
 | [MsDataHub](https://bioconductor.org/packages/3.20/bioc/html/MsDataHub.html)                                     | Unprocessed |
@@ -1417,7 +1420,6 @@
 | [SpatialExperiment](https://bioconductor.org/packages/3.20/bioc/html/SpatialExperiment.html)                     | Unprocessed |
 | [SpatialFeatureExperiment](https://bioconductor.org/packages/3.20/bioc/html/SpatialFeatureExperiment.html)       | Unprocessed |
 | [SpatialOmicsOverlay](https://bioconductor.org/packages/3.20/bioc/html/SpatialOmicsOverlay.html)                 | Unprocessed |
-| [SpectraQL](https://bioconductor.org/packages/3.20/bioc/html/SpectraQL.html)                                     | Unprocessed |
 | [SpectralTAD](https://bioconductor.org/packages/3.20/bioc/html/SpectralTAD.html)                                 | Unprocessed |
 | [SpliceWiz](https://bioconductor.org/packages/3.20/bioc/html/SpliceWiz.html)                                     | Unprocessed |
 | [SplicingFactory](https://bioconductor.org/packages/3.20/bioc/html/SplicingFactory.html)                         | Unprocessed |
@@ -1930,7 +1932,6 @@
 | [netSmooth](https://bioconductor.org/packages/3.20/bioc/html/netSmooth.html)                                     | Unprocessed |
 | [netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)                                         | Unprocessed |
 | [netboost](https://bioconductor.org/packages/3.20/bioc/html/netboost.html)                                       | Unprocessed |
-| [nethet](https://bioconductor.org/packages/3.20/bioc/html/nethet.html)                                           | Unprocessed |
 | [ngsReports](https://bioconductor.org/packages/3.20/bioc/html/ngsReports.html)                                   | Unprocessed |
 | [nipalsMCIA](https://bioconductor.org/packages/3.20/bioc/html/nipalsMCIA.html)                                   | Unprocessed |
 | [nnSVG](https://bioconductor.org/packages/3.20/bioc/html/nnSVG.html)                                             | Unprocessed |
@@ -2218,7 +2219,6 @@
 | [treekoR](https://bioconductor.org/packages/3.20/bioc/html/treekoR.html)                                         | Unprocessed |
 | [tricycle](https://bioconductor.org/packages/3.20/bioc/html/tricycle.html)                                       | Unprocessed |
 | [trigger](https://bioconductor.org/packages/3.20/bioc/html/trigger.html)                                         | Unprocessed |
-| [trio](https://bioconductor.org/packages/3.20/bioc/html/trio.html)                                               | Unprocessed |
 | [triplex](https://bioconductor.org/packages/3.20/bioc/html/triplex.html)                                         | Unprocessed |
 | [txcutr](https://bioconductor.org/packages/3.20/bioc/html/txcutr.html)                                           | Unprocessed |
 | [txdbmaker](https://bioconductor.org/packages/3.20/bioc/html/txdbmaker.html)                                     | Unprocessed |

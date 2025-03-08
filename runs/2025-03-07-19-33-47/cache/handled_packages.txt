@@ -224,6 +224,7 @@ MassSpecWavelet
 MatrixGenerics
 MeasurementError.cor
 Mergeomics
+MetCirc
 MetID
 MetaboCoreUtils
 MethPed
@@ -233,6 +234,8 @@ MiChip
 MiPP
 ModCon
 MsBackendMassbank
+MsBackendMetaboLights
+MsBackendMsp
 MsCoreUtils
 Mulcom
 MultiMed
@@ -355,6 +358,7 @@ SpaceMarkers
 SparseArray
 SpeCond
 Spectra
+SpectraQL
 Streamer
 Summix
 SwathXtend
@@ -634,6 +638,7 @@ mzR
 ncdfFlow
 ndexr
 nempi
+nethet
 netprioR
 netresponse
 nnNorm
@@ -764,6 +769,7 @@ tkWidgets
 tomoseqr
 topconfects
 treeio
+trio
 tripr
 ttgsea
 tweeDEseq

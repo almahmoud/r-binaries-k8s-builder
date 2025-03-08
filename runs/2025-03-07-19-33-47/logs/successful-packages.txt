@@ -782,3 +782,9 @@ msPurity
 rain
 SparseArray
 uSORT
+MetCirc
+MsBackendMetaboLights
+MsBackendMsp
+nethet
+SpectraQL
+trio
