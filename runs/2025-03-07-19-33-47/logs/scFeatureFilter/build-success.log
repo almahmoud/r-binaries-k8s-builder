@@ -1,0 +1,260 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'scFeatureFilter'
+also installing the dependencies ‘GenomicAlignments’, ‘alabaster.ranges’, ‘KEGGREST’, ‘AnnotationFilter’, ‘rtracklayer’, ‘Rsamtools’, ‘Biostrings’, ‘alabaster.schemas’, ‘HDF5Array’, ‘alabaster.se’, ‘GenomicRanges’, ‘DelayedArray’, ‘ExperimentHub’, ‘AnnotationHub’, ‘AnnotationDbi’, ‘ensembldb’, ‘GenomicFeatures’, ‘alabaster.base’, ‘alabaster.matrix’, ‘alabaster.sce’, ‘SingleCellExperiment’, ‘SummarizedExperiment’, ‘scRNAseq’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicAlignments_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 2273284 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/alabaster.ranges_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 232042 bytes (226 KB)
+==================================================
+downloaded 226 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/KEGGREST_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 239655 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationFilter_1.30.0.tar.gz'
+Content type 'application/x-gzip' length 325433 bytes (317 KB)
+==================================================
+downloaded 317 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rtracklayer_1.66.0.tar.gz'
+Content type 'application/x-gzip' length 4112666 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Rsamtools_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 2925866 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biostrings_2.74.1.tar.gz'
+Content type 'application/x-gzip' length 12823307 bytes (12.2 MB)
+==================================================
+downloaded 12.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/alabaster.schemas_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 247498 bytes (241 KB)
+==================================================
+downloaded 241 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/HDF5Array_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 8107009 bytes (7.7 MB)
+==================================================
+downloaded 7.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/alabaster.se_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 231152 bytes (225 KB)
+==================================================
+downloaded 225 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicRanges_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 1374658 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ExperimentHub_2.14.0.tar.gz'
+Content type 'application/x-gzip' length 501239 bytes (489 KB)
+==================================================
+downloaded 489 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationHub_3.14.0.tar.gz'
+Content type 'application/x-gzip' length 1000948 bytes (977 KB)
+==================================================
+downloaded 977 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationDbi_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 4378038 bytes (4.2 MB)
+==================================================
+downloaded 4.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ensembldb_2.30.0.tar.gz'
+Content type 'application/x-gzip' length 3540522 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicFeatures_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 571678 bytes (558 KB)
+==================================================
+downloaded 558 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/alabaster.base_1.6.1.tar.gz'
+Content type 'application/x-gzip' length 408713 bytes (399 KB)
+==================================================
+downloaded 399 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/alabaster.matrix_1.6.1.tar.gz'
+Content type 'application/x-gzip' length 282200 bytes (275 KB)
+==================================================
+downloaded 275 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/alabaster.sce_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 226147 bytes (220 KB)
+==================================================
+downloaded 220 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SingleCellExperiment_1.28.1.tar.gz'
+Content type 'application/x-gzip' length 985694 bytes (962 KB)
+==================================================
+downloaded 962 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/scRNAseq_2.20.0.tar.gz'
+Content type 'application/x-gzip' length 309971 bytes (302 KB)
+==================================================
+downloaded 302 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/scFeatureFilter_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 4841794 bytes (4.6 MB)
+==================================================
+downloaded 4.6 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-Biostrings’
+* installing *source* package ‘alabaster.schemas’ ...
+** package ‘alabaster.schemas’ successfully unpacked and MD5 sums checked
+** using staged installation
+** inst
+** help
+No man pages found in package  ‘alabaster.schemas’ 
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘alabaster.schemas’ as ‘alabaster.schemas_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (alabaster.schemas)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-GenomicRanges’
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-DelayedArray’
+* installing *source* package ‘scFeatureFilter’ ...
+** package ‘scFeatureFilter’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘scFeatureFilter’ as ‘scFeatureFilter_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scFeatureFilter)
+ERROR: dependency ‘Biostrings’ is not available for package ‘KEGGREST’
+* removing ‘/mnt/library/KEGGREST’
+* installing *source* package ‘AnnotationFilter’ ...
+** package ‘AnnotationFilter’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Error: package or namespace load failed for ‘AnnotationFilter’ in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]):
+ there is no package called ‘GenomeInfoDb’
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/AnnotationFilter’
+ERROR: dependencies ‘GenomeInfoDb’, ‘Biostrings’ are not available for package ‘Rsamtools’
+* removing ‘/mnt/library/Rsamtools’
+ERROR: dependencies ‘SparseArray’, ‘DelayedArray’ are not available for package ‘HDF5Array’
+* removing ‘/mnt/library/HDF5Array’
+* installing *source* package ‘alabaster.base’ ...
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++17
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c check_csv.cpp -o check_csv.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c check_list.cpp -o check_list.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c choose_numeric_missing_placeholder.cpp -o choose_numeric_missing_placeholder.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c is_rfc3339.cpp -o is_rfc3339.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c load_csv.cpp -o load_csv.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c load_list.cpp -o load_list.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c validate.cpp -o validate.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o alabaster.base.so RcppExports.o check_csv.o check_list.o choose_numeric_missing_placeholder.o is_rfc3339.o load_csv.o load_list.o validate.o /mnt/library/Rhdf5lib/lib/libhdf5_cpp.a /mnt/library/Rhdf5lib/lib/libhdf5.a -lcrypto -lcurl -lsz -laec -lz -ldl -lm -lz -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-alabaster.base/00new/alabaster.base/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘alabaster.base’ as ‘alabaster.base_1.6.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (alabaster.base)
+ERROR: dependencies ‘GenomicRanges’, ‘DelayedArray’ are not available for package ‘SummarizedExperiment’
+* removing ‘/mnt/library/SummarizedExperiment’
+ERROR: dependencies ‘GenomicRanges’, ‘SummarizedExperiment’, ‘Rsamtools’ are not available for package ‘GenomicAlignments’
+* removing ‘/mnt/library/GenomicAlignments’
+ERROR: dependency ‘GenomicRanges’ is not available for package ‘alabaster.ranges’
+* removing ‘/mnt/library/alabaster.ranges’
+ERROR: dependency ‘KEGGREST’ is not available for package ‘AnnotationDbi’
+* removing ‘/mnt/library/AnnotationDbi’
+ERROR: dependencies ‘DelayedArray’, ‘HDF5Array’ are not available for package ‘alabaster.matrix’
+* removing ‘/mnt/library/alabaster.matrix’
+ERROR: dependencies ‘SummarizedExperiment’, ‘GenomicRanges’, ‘DelayedArray’ are not available for package ‘SingleCellExperiment’
+* removing ‘/mnt/library/SingleCellExperiment’
+ERROR: dependencies ‘GenomicRanges’, ‘Rsamtools’, ‘GenomicAlignments’ are not available for package ‘rtracklayer’
+* removing ‘/mnt/library/rtracklayer’
+ERROR: dependencies ‘SummarizedExperiment’, ‘alabaster.ranges’, ‘alabaster.matrix’, ‘GenomicRanges’ are not available for package ‘alabaster.se’
+* removing ‘/mnt/library/alabaster.se’
+ERROR: dependency ‘AnnotationDbi’ is not available for package ‘AnnotationHub’
+* removing ‘/mnt/library/AnnotationHub’
+ERROR: dependency ‘AnnotationHub’ is not available for package ‘ExperimentHub’
+* removing ‘/mnt/library/ExperimentHub’
+ERROR: dependencies ‘GenomicRanges’, ‘AnnotationDbi’, ‘rtracklayer’ are not available for package ‘GenomicFeatures’
+* removing ‘/mnt/library/GenomicFeatures’
+ERROR: dependencies ‘SingleCellExperiment’, ‘alabaster.se’ are not available for package ‘alabaster.sce’
+* removing ‘/mnt/library/alabaster.sce’
+ERROR: dependencies ‘GenomicRanges’, ‘GenomicFeatures’, ‘AnnotationFilter’, ‘AnnotationDbi’, ‘rtracklayer’, ‘Rsamtools’ are not available for package ‘ensembldb’
+* removing ‘/mnt/library/ensembldb’
+ERROR: dependencies ‘SingleCellExperiment’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘ExperimentHub’, ‘AnnotationHub’, ‘AnnotationDbi’, ‘ensembldb’, ‘GenomicFeatures’, ‘alabaster.matrix’, ‘alabaster.sce’ are not available for package ‘scRNAseq’
+* removing ‘/mnt/library/scRNAseq’
+
+The downloaded source packages are in
+	‘/tmp/Rtmpb1Rj4k/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+There were 21 warnings (use warnings() to see them)
+
+real	2m47.686s
+user	1m25.537s
+sys	0m15.824s

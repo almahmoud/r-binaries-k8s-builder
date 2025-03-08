@@ -42,6 +42,8 @@ DCATS
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
+DTA
+DeMAND
 DeepPINCS
 EBSeq
 EMDomics
@@ -56,6 +58,7 @@ GPA
 GSALightning
 GSEAmining
 GladiaTOX
+GraphAlignment
 Herper
 HilbertVis
 HuBMAPR
@@ -76,6 +79,9 @@ KinSwingR
 LBE
 LEA
 LPE
+LedPred
+M3C
+MACSQuantifyR
 MANOR
 MBCB
 MSstatsConvert
@@ -87,8 +93,11 @@ MeasurementError.cor
 Mergeomics
 ModCon
 MultiMed
+NPARC
+OPWeight
 Omixer
 OmnipathR
+Oscope
 PROcess
 Path2PPI
 PathNet
@@ -99,6 +108,7 @@ ProtGenerics
 QUBIC
 RNASeqPower
 RProtoBufLib
+RTCGA
 Rbwa
 Rcollectl
 Rdisop
@@ -140,6 +150,8 @@ cisPath
 clevRvis
 clustComp
 coGPS
+cqn
+ctc
 cytolib
 daMA
 dcGSA
@@ -174,6 +186,9 @@ genoCN
 genomes
 geva
 ggtree
+ggtreeDendro
+ggtreeExtra
+ggtreeSpace
 globalSeq
 gpls
 granulator
@@ -215,6 +230,8 @@ ompBAM
 onlineFDR
 pathifier
 pathwayPCA
+pfamAnalyzeR
+pgca
 pickgene
 planet
 plasmut
@@ -236,6 +253,8 @@ rnaseqcomp
 rsemmed
 sSeq
 sagenhaft
+scBubbletree
+scFeatureFilter
 scRecover
 scShapes
 scTHI
@@ -249,6 +268,7 @@ shiny.gosling
 sights
 similaRpeak
 sincell
+sitePath
 sizepower
 snm
 sparsenetgls
@@ -262,6 +282,7 @@ swfdr
 switchBox
 synergyfinder
 systemPipeShiny
+tanggle
 ternarynet
 tidysbml
 timescape
