@@ -2046,3 +2046,8 @@ epivizr
 esATAC
 ExperimentHubData
 KnowSeq
+AHMassBank
+arrayMvout
+MAGAR
+MAGeCKFlute
+slalom

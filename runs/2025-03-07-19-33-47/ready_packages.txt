@@ -1,4 +1,1 @@
-epivizrStandalone
-methodical
-methylclock
-scTreeViz
+CRISPRball

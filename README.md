@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2048 packages built successfully
+- 2053 packages built successfully
 - 0 packages failed to build
-- 185 packages not yet processed
+- 180 packages not yet processed
 
 
-## Successfully Built (2048)
+## Successfully Built (2053)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -2060,11 +2060,15 @@
 | [appreci8R](https://bioconductor.org/packages/3.20/bioc/html/appreci8R.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/appreci8R/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/appreci8R)                  |
 | [epivizr](https://bioconductor.org/packages/3.20/bioc/html/epivizr.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/epivizr/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epivizr)                    |
 | [esATAC](https://bioconductor.org/packages/3.20/bioc/html/esATAC.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/esATAC/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/esATAC)                     |
+| [AHMassBank](https://bioconductor.org/packages/3.20/bioc/html/AHMassBank.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/AHMassBank/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AHMassBank)                 |
+| [MAGAR](https://bioconductor.org/packages/3.20/bioc/html/MAGAR.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/MAGAR/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MAGAR)                      |
+| [MAGeCKFlute](https://bioconductor.org/packages/3.20/bioc/html/MAGeCKFlute.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/MAGeCKFlute/build-success.log)                | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MAGeCKFlute)             |
+| [arrayMvout](https://bioconductor.org/packages/3.20/bioc/html/arrayMvout.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/arrayMvout/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/arrayMvout)                 |
+| [slalom](https://bioconductor.org/packages/3.20/bioc/html/slalom.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/slalom/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/slalom)                     |
 
-## Not Yet Processed (185)
+## Not Yet Processed (180)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
-| [AHMassBank](https://bioconductor.org/packages/3.20/bioc/html/AHMassBank.html)                                   | Unprocessed |
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                             | Unprocessed |
 | [ATACseqTFEA](https://bioconductor.org/packages/3.20/bioc/html/ATACseqTFEA.html)                                 | Unprocessed |
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                                 | Unprocessed |
@@ -2106,8 +2110,6 @@
 | [IntEREst](https://bioconductor.org/packages/3.20/bioc/html/IntEREst.html)                                       | Unprocessed |
 | [IsoformSwitchAnalyzeR](https://bioconductor.org/packages/3.20/bioc/html/IsoformSwitchAnalyzeR.html)             | Unprocessed |
 | [MADSEQ](https://bioconductor.org/packages/3.20/bioc/html/MADSEQ.html)                                           | Unprocessed |
-| [MAGAR](https://bioconductor.org/packages/3.20/bioc/html/MAGAR.html)                                             | Unprocessed |
-| [MAGeCKFlute](https://bioconductor.org/packages/3.20/bioc/html/MAGeCKFlute.html)                                 | Unprocessed |
 | [MEAL](https://bioconductor.org/packages/3.20/bioc/html/MEAL.html)                                               | Unprocessed |
 | [MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)                                               | Unprocessed |
 | [MatrixRider](https://bioconductor.org/packages/3.20/bioc/html/MatrixRider.html)                                 | Unprocessed |
@@ -2156,7 +2158,6 @@
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                             | Unprocessed |
 | [alabaster](https://bioconductor.org/packages/3.20/bioc/html/alabaster.html)                                     | Unprocessed |
 | [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                             | Unprocessed |
-| [arrayMvout](https://bioconductor.org/packages/3.20/bioc/html/arrayMvout.html)                                   | Unprocessed |
 | [attract](https://bioconductor.org/packages/3.20/bioc/html/attract.html)                                         | Unprocessed |
 | [bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)                                       | Unprocessed |
 | [biomvRCNS](https://bioconductor.org/packages/3.20/bioc/html/biomvRCNS.html)                                     | Unprocessed |
@@ -2239,7 +2240,6 @@
 | [singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)                               | Unprocessed |
 | [singscore](https://bioconductor.org/packages/3.20/bioc/html/singscore.html)                                     | Unprocessed |
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                             | Unprocessed |
-| [slalom](https://bioconductor.org/packages/3.20/bioc/html/slalom.html)                                           | Unprocessed |
 | [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                                         | Unprocessed |
 | [svaNUMT](https://bioconductor.org/packages/3.20/bioc/html/svaNUMT.html)                                         | Unprocessed |
 | [svaRetro](https://bioconductor.org/packages/3.20/bioc/html/svaRetro.html)                                       | Unprocessed |

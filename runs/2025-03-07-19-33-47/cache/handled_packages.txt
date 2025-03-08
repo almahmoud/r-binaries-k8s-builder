@@ -8,6 +8,7 @@ ADAPT
 ADImpute
 ADaCGH2
 AGDEX
+AHMassBank
 AIMS
 ALDEx2
 AMARETTO
@@ -510,6 +511,8 @@ M3C
 M3Drop
 MACSQuantifyR
 MACSr
+MAGAR
+MAGeCKFlute
 MAI
 MAIT
 MANOR
@@ -1028,6 +1031,7 @@ apComplex
 apeglm
 appreci8R
 aroma.light
+arrayMvout
 arrayQuality
 arrayQualityMetrics
 artMS
@@ -1897,6 +1901,7 @@ sitadela
 sitePath
 sizepower
 sketchR
+slalom
 slingshot
 smartid
 smoothclust
