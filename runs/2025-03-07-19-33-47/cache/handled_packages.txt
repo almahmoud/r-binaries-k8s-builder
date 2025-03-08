@@ -18,6 +18,7 @@ ASEB
 ASGSCA
 ASICS
 ASSET
+ASSIGN
 ASURAT
 AWFisher
 AffiXcan
@@ -47,6 +48,7 @@ BASiCS
 BASiCStan
 BCRANK
 BEAT
+BERT
 BEclear
 BG2
 BLMA
@@ -65,6 +67,7 @@ Banksy
 BaseSpaceR
 Basic4Cseq
 BasicSTARRseq
+BatchQC
 BayesKnockdown
 BayesSpace
 BeadDataPackR
@@ -178,6 +181,7 @@ ChemmineR
 Chicago
 ChromSCape
 CiteFuse
+ClassifyR
 Clomial
 CluMSID
 ClustAll
@@ -213,6 +217,7 @@ DEGreport
 DEGseq
 DELocal
 DEP
+DEScan2
 DESeq2
 DESpace
 DEWSeq
@@ -340,6 +345,7 @@ GeneBreak
 GeneExpressionSignature
 GeneGA
 GeneGeneInteR
+GeneMeta
 GeneNetworkBuilder
 GeneOverlap
 GeneRegionScan
@@ -422,6 +428,7 @@ IWTomics
 Icens
 IdeoViz
 IgGeneUsage
+InPAS
 InTAD
 Informeasure
 InteractionSet
@@ -474,6 +481,7 @@ MGnifyR
 MICSQTL
 MIRA
 MIRit
+MLInterfaces
 MLP
 MLSeq
 MMDiff2
@@ -496,6 +504,7 @@ MSstatsConvert
 MSstatsLOBD
 MSstatsLiP
 MSstatsPTM
+MSstatsQC
 MSstatsShiny
 MSstatsTMT
 MVCClass
@@ -524,6 +533,7 @@ MetaboSignal
 MethPed
 MethTargetedNGS
 MethylMix
+MethylSeekR
 Mfuzz
 MiChip
 MiPP
@@ -585,6 +595,7 @@ OmnipathR
 OncoSimulR
 OpenStats
 OrderedList
+Organism.dplyr
 Oscope
 PADOG
 PAIRADISE
@@ -735,6 +746,7 @@ SELEX
 SGSeq
 SIAMCAT
 SICtools
+SIM
 SIMAT
 SIMD
 SIMLR
@@ -1565,6 +1577,7 @@ rexposome
 rfPred
 rfaRm
 rgoslin
+rgsepd
 rhdf5
 rhdf5client
 rhdf5filters
@@ -1646,6 +1659,7 @@ seahtrue
 sechm
 segmentSeq
 segmenter
+selectKSigs
 semisup
 seq.hotSPOT
 seq2pathway
@@ -1686,6 +1700,7 @@ spaSim
 sparseMatrixStats
 sparsenetgls
 spatialDE
+spatialHeatmap
 spatialSimGP
 specL
 speckle
@@ -1810,5 +1825,6 @@ xmapbridge
 yamss
 zFPKM
 zellkonverter
+zinbwave
 zitools
 zlibbioc

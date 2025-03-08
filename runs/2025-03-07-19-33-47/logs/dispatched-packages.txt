@@ -1933,3 +1933,13 @@ pairedGSEA
 qsmooth
 qsvaR
 trigger
+MSstatsQCgui
+SigCheck
+TOP
+Ularcirc
+XDE
+benchdamic
+clusterExperiment
+pRoloc
+scBFA
+spicyR
