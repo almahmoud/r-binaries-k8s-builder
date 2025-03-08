@@ -1301,3 +1301,10 @@ seqsetvis
 syntenet
 tidyCoverage
 wpm
+BioTIP
+methInheritSim
+methylInheritance
+methylscaper
+OTUbase
+recount3
+scDblFinder

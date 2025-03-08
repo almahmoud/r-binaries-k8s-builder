@@ -59,6 +59,7 @@ BiRewire
 BioCartaImage
 BioMVCClass
 BioQC
+BioTIP
 Biobase
 BiocBaseUtils
 BiocBook
@@ -415,6 +416,7 @@ OLIN
 OLINgui
 OPWeight
 OSAT
+OTUbase
 OVESEG
 OmicCircos
 OmicsMLRepoR
@@ -979,10 +981,13 @@ metagenomeSeq
 metahdep
 metapod
 metapone
+methInheritSim
 methimpute
 methyLImp2
+methylInheritance
 methylKit
 methylMnM
+methylscaper
 mfa
 mgsa
 miRBaseConverter
@@ -1118,6 +1123,7 @@ rbsurv
 rcellminer
 rebook
 receptLoss
+recount3
 regionalpcs
 regsplice
 retrofit
@@ -1156,6 +1162,7 @@ scBubbletree
 scCB2
 scDDboost
 scDataviz
+scDblFinder
 scDesign3
 scDiagnostics
 scDotPlot
