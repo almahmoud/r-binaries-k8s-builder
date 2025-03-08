@@ -2178,3 +2178,6 @@ dagLogo
 escape
 GmicR
 oppar
+MEAT
+MineICA
+YAPSA

@@ -560,6 +560,7 @@ MBttest
 MCbiclust
 MDTS
 MEAL
+MEAT
 MEB
 MEDIPS
 MEDME
@@ -635,6 +636,7 @@ MiPP
 MiRaGE
 MicrobiomeProfiler
 MicrobiotaProcess
+MineICA
 MinimumDistance
 ModCon
 Modstrings
@@ -1040,6 +1042,7 @@ XINA
 XNAString
 XVector
 Xeva
+YAPSA
 ZygosityPredictor
 a4
 a4Base

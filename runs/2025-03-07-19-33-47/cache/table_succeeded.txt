@@ -2178,3 +2178,6 @@
 ['[dagLogo](https://bioconductor.org/packages/3.20/bioc/html/dagLogo.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/dagLogo/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dagLogo)']
 ['[escape](https://bioconductor.org/packages/3.20/bioc/html/escape.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/escape/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/escape)']
 ['[oppar](https://bioconductor.org/packages/3.20/bioc/html/oppar.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/oppar/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/oppar)']
+['[MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/MEAT/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MEAT)']
+['[MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/MineICA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MineICA)']
+['[YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/YAPSA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/YAPSA)']

@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2180 packages built successfully
+- 2183 packages built successfully
 - 0 packages failed to build
-- 53 packages not yet processed
+- 50 packages not yet processed
 
 
-## Successfully Built (2180)
+## Successfully Built (2183)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2192,8 +2192,11 @@
 | [dagLogo](https://bioconductor.org/packages/3.20/bioc/html/dagLogo.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/dagLogo/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dagLogo)                     |
 | [escape](https://bioconductor.org/packages/3.20/bioc/html/escape.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/escape/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/escape)                      |
 | [oppar](https://bioconductor.org/packages/3.20/bioc/html/oppar.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/oppar/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/oppar)                       |
+| [MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)                                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/MEAT/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MEAT)                        |
+| [MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/MineICA/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MineICA)                     |
+| [YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/YAPSA/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/YAPSA)                       |
 
-## Not Yet Processed (53)
+## Not Yet Processed (50)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                     | Unprocessed |
@@ -2204,8 +2207,6 @@
 | [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)       | Unprocessed |
 | [GenomicInteractions](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractions.html)     | Unprocessed |
 | [HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)                         | Unprocessed |
-| [MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)                                   | Unprocessed |
-| [MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)                             | Unprocessed |
 | [MungeSumstats](https://bioconductor.org/packages/3.20/bioc/html/MungeSumstats.html)                 | Unprocessed |
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                         | Unprocessed |
 | [OGRE](https://bioconductor.org/packages/3.20/bioc/html/OGRE.html)                                   | Unprocessed |
@@ -2221,7 +2222,6 @@
 | [SPLINTER](https://bioconductor.org/packages/3.20/bioc/html/SPLINTER.html)                           | Unprocessed |
 | [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                   | Unprocessed |
 | [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)           | Unprocessed |
-| [YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)                                 | Unprocessed |
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                 | Unprocessed |
 | [attract](https://bioconductor.org/packages/3.20/bioc/html/attract.html)                             | Unprocessed |
 | [bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)                           | Unprocessed |
