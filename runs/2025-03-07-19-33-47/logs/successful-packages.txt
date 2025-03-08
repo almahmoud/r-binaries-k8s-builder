@@ -1906,3 +1906,7 @@ chromPlot
 EpiMix
 gsean
 netSmooth
+drugTargetInteractions
+minfi
+omicRexposome
+ORFik

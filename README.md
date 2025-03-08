@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1908 packages built successfully
+- 1912 packages built successfully
 - 0 packages failed to build
-- 325 packages not yet processed
+- 321 packages not yet processed
 
 
-## Successfully Built (1908)
+## Successfully Built (1912)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1920,8 +1920,12 @@
 | [chromPlot](https://bioconductor.org/packages/3.20/bioc/html/chromPlot.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/chromPlot/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/chromPlot)                  |
 | [gsean](https://bioconductor.org/packages/3.20/bioc/html/gsean.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/gsean/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gsean)                      |
 | [netSmooth](https://bioconductor.org/packages/3.20/bioc/html/netSmooth.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/netSmooth/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/netSmooth)                  |
+| [ORFik](https://bioconductor.org/packages/3.20/bioc/html/ORFik.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/ORFik/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ORFik)                      |
+| [drugTargetInteractions](https://bioconductor.org/packages/3.20/bioc/html/drugTargetInteractions.html)         | Built    | [Log](runs/2025-03-07-19-33-47/logs/drugTargetInteractions/build-success.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/drugTargetInteractions)     |
+| [minfi](https://bioconductor.org/packages/3.20/bioc/html/minfi.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/minfi/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/minfi)                      |
+| [omicRexposome](https://bioconductor.org/packages/3.20/bioc/html/omicRexposome.html)                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/omicRexposome/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/omicRexposome)              |
 
-## Not Yet Processed (325)
+## Not Yet Processed (321)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [AGDEX](https://bioconductor.org/packages/3.20/bioc/html/AGDEX.html)                                             | Unprocessed |
@@ -2020,7 +2024,6 @@
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                     | Unprocessed |
 | [OGRE](https://bioconductor.org/packages/3.20/bioc/html/OGRE.html)                                               | Unprocessed |
 | [OMICsPCA](https://bioconductor.org/packages/3.20/bioc/html/OMICsPCA.html)                                       | Unprocessed |
-| [ORFik](https://bioconductor.org/packages/3.20/bioc/html/ORFik.html)                                             | Unprocessed |
 | [OmaDB](https://bioconductor.org/packages/3.20/bioc/html/OmaDB.html)                                             | Unprocessed |
 | [OrganismDbi](https://bioconductor.org/packages/3.20/bioc/html/OrganismDbi.html)                                 | Unprocessed |
 | [PAA](https://bioconductor.org/packages/3.20/bioc/html/PAA.html)                                                 | Unprocessed |
@@ -2131,7 +2134,6 @@
 | [derfinderPlot](https://bioconductor.org/packages/3.20/bioc/html/derfinderPlot.html)                             | Unprocessed |
 | [dominoSignal](https://bioconductor.org/packages/3.20/bioc/html/dominoSignal.html)                               | Unprocessed |
 | [dreamlet](https://bioconductor.org/packages/3.20/bioc/html/dreamlet.html)                                       | Unprocessed |
-| [drugTargetInteractions](https://bioconductor.org/packages/3.20/bioc/html/drugTargetInteractions.html)           | Unprocessed |
 | [easyRNASeq](https://bioconductor.org/packages/3.20/bioc/html/easyRNASeq.html)                                   | Unprocessed |
 | [enhancerHomologSearch](https://bioconductor.org/packages/3.20/bioc/html/enhancerHomologSearch.html)             | Unprocessed |
 | [epigenomix](https://bioconductor.org/packages/3.20/bioc/html/epigenomix.html)                                   | Unprocessed |
@@ -2182,7 +2184,6 @@
 | [miRLAB](https://bioconductor.org/packages/3.20/bioc/html/miRLAB.html)                                           | Unprocessed |
 | [miRSM](https://bioconductor.org/packages/3.20/bioc/html/miRSM.html)                                             | Unprocessed |
 | [miRspongeR](https://bioconductor.org/packages/3.20/bioc/html/miRspongeR.html)                                   | Unprocessed |
-| [minfi](https://bioconductor.org/packages/3.20/bioc/html/minfi.html)                                             | Unprocessed |
 | [missMethyl](https://bioconductor.org/packages/3.20/bioc/html/missMethyl.html)                                   | Unprocessed |
 | [mitoClone2](https://bioconductor.org/packages/3.20/bioc/html/mitoClone2.html)                                   | Unprocessed |
 | [mogsa](https://bioconductor.org/packages/3.20/bioc/html/mogsa.html)                                             | Unprocessed |
@@ -2198,7 +2199,6 @@
 | [npGSEA](https://bioconductor.org/packages/3.20/bioc/html/npGSEA.html)                                           | Unprocessed |
 | [octad](https://bioconductor.org/packages/3.20/bioc/html/octad.html)                                             | Unprocessed |
 | [omXplore](https://bioconductor.org/packages/3.20/bioc/html/omXplore.html)                                       | Unprocessed |
-| [omicRexposome](https://bioconductor.org/packages/3.20/bioc/html/omicRexposome.html)                             | Unprocessed |
 | [oppar](https://bioconductor.org/packages/3.20/bioc/html/oppar.html)                                             | Unprocessed |
 | [pageRank](https://bioconductor.org/packages/3.20/bioc/html/pageRank.html)                                       | Unprocessed |
 | [pcaExplorer](https://bioconductor.org/packages/3.20/bioc/html/pcaExplorer.html)                                 | Unprocessed |

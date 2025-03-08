@@ -1,1 +1,14 @@
-Moonlight2R
+ENmix
+MethylAid
+REMP
+RiboCrypt
+TFHAZ
+conumee
+deconvR
+funtooNorm
+methylCC
+methylumi
+quantro
+recountmethylation
+shinyMethyl
+shinyepico
