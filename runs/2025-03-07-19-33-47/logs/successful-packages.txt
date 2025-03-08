@@ -2077,3 +2077,11 @@ UPDhmm
 PureCN
 StructuralVariantAnnotation
 Uniquorn
+CRISPRball
+EGSEA
+IntEREst
+RAIDS
+RareVariantVis
+RESOLVE
+TitanCNA
+ZygosityPredictor

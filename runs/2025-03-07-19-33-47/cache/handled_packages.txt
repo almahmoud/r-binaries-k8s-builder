@@ -162,6 +162,7 @@ CONFESS
 CONSTANd
 COSNet
 COTAN
+CRISPRball
 CRISPRseek
 CRImage
 CSAR
@@ -302,6 +303,7 @@ EBcoexpress
 EDASeq
 EDIRquery
 EGAD
+EGSEA
 EMDomics
 ENmix
 ERSSA
@@ -484,6 +486,7 @@ IgGeneUsage
 InPAS
 InTAD
 Informeasure
+IntEREst
 InterCellar
 InteractionSet
 InteractiveComplexHeatmap
@@ -733,6 +736,7 @@ QUBIC
 Qtlizer
 QuaternaryProd
 R4RNA
+RAIDS
 RAREsim
 RBGL
 RBM
@@ -749,6 +753,7 @@ RDRToolbox
 REBET
 REDseq
 REMP
+RESOLVE
 RGSEA
 RGraph2js
 RITAN
@@ -786,6 +791,7 @@ RVS
 RadioGx
 RaggedExperiment
 RankProd
+RareVariantVis
 Rarr
 RbcBook1
 Rbec
@@ -961,6 +967,7 @@ TargetScore
 TargetSearch
 TileDBArray
 TissueEnrich
+TitanCNA
 TnT
 ToxicoGx
 TrajectoryGeometry
@@ -996,6 +1003,7 @@ XINA
 XNAString
 XVector
 Xeva
+ZygosityPredictor
 a4
 a4Base
 a4Classif
