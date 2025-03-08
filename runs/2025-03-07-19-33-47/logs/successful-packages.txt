@@ -2166,3 +2166,6 @@ GOstats
 tadar
 trackViewer
 wateRmelon
+epiregulon
+scTreeViz
+uncoverappLib

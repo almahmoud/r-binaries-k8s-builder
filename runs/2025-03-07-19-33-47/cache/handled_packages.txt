@@ -1332,6 +1332,7 @@ epialleleR
 epidecodeR
 epigenomix
 epigraHMM
+epiregulon
 epiregulon.extra
 epistack
 epistasisGA
@@ -1947,6 +1948,7 @@ scRepertoire
 scShapes
 scTGIF
 scTHI
+scTreeViz
 scanMiR
 scanMiRApp
 scater
@@ -2130,6 +2132,7 @@ txdbmaker
 tximeta
 tximport
 uSORT
+uncoverappLib
 unifiedWMWqPCR
 universalmotif
 updateObject
