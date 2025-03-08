@@ -79,6 +79,7 @@ BiFET
 BiGGR
 BiRewire
 BiSeq
+BicARE
 BindingSiteFinder
 BioCartaImage
 BioGA
@@ -659,6 +660,7 @@ PROPS
 PROcess
 PSMatch
 PWMEnrich
+PanomiR
 Path2PPI
 PathNet
 PathoStat
@@ -1205,6 +1207,7 @@ epistasisGA
 epivizrServer
 erccdashboard
 escheR
+esetVis
 eudysbiome
 evaluomeR
 fCCAC
@@ -1553,6 +1556,7 @@ occugene
 odseq
 oligo
 oligoClasses
+omXplore
 omada
 omicRexposome
 omicade4
@@ -1937,6 +1941,7 @@ velociraptor
 veloviz
 vidger
 viper
+vissE
 vsclust
 vsn
 vulcan

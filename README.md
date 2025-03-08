@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1961 packages built successfully
+- 1966 packages built successfully
 - 0 packages failed to build
-- 272 packages not yet processed
+- 267 packages not yet processed
 
 
-## Successfully Built (1961)
+## Successfully Built (1966)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1973,8 +1973,13 @@
 | [standR](https://bioconductor.org/packages/3.20/bioc/html/standR.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/standR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/standR)                     |
 | [GARS](https://bioconductor.org/packages/3.20/bioc/html/GARS.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/GARS/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GARS)                       |
 | [SBGNview](https://bioconductor.org/packages/3.20/bioc/html/SBGNview.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/SBGNview/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SBGNview)                   |
+| [BicARE](https://bioconductor.org/packages/3.20/bioc/html/BicARE.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/BicARE/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BicARE)                     |
+| [PanomiR](https://bioconductor.org/packages/3.20/bioc/html/PanomiR.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/PanomiR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PanomiR)                    |
+| [esetVis](https://bioconductor.org/packages/3.20/bioc/html/esetVis.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/esetVis/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/esetVis)                    |
+| [omXplore](https://bioconductor.org/packages/3.20/bioc/html/omXplore.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/omXplore/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/omXplore)                   |
+| [vissE](https://bioconductor.org/packages/3.20/bioc/html/vissE.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/vissE/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/vissE)                      |
 
-## Not Yet Processed (272)
+## Not Yet Processed (267)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [AGDEX](https://bioconductor.org/packages/3.20/bioc/html/AGDEX.html)                                             | Unprocessed |
@@ -1990,7 +1995,6 @@
 | [BBCAnalyzer](https://bioconductor.org/packages/3.20/bioc/html/BBCAnalyzer.html)                                 | Unprocessed |
 | [BOBaFIT](https://bioconductor.org/packages/3.20/bioc/html/BOBaFIT.html)                                         | Unprocessed |
 | [BadRegionFinder](https://bioconductor.org/packages/3.20/bioc/html/BadRegionFinder.html)                         | Unprocessed |
-| [BicARE](https://bioconductor.org/packages/3.20/bioc/html/BicARE.html)                                           | Unprocessed |
 | [BioCor](https://bioconductor.org/packages/3.20/bioc/html/BioCor.html)                                           | Unprocessed |
 | [BubbleTree](https://bioconductor.org/packages/3.20/bioc/html/BubbleTree.html)                                   | Unprocessed |
 | [CAFE](https://bioconductor.org/packages/3.20/bioc/html/CAFE.html)                                               | Unprocessed |
@@ -2062,7 +2066,6 @@
 | [POMA](https://bioconductor.org/packages/3.20/bioc/html/POMA.html)                                               | Unprocessed |
 | [PROMISE](https://bioconductor.org/packages/3.20/bioc/html/PROMISE.html)                                         | Unprocessed |
 | [PRONE](https://bioconductor.org/packages/3.20/bioc/html/PRONE.html)                                             | Unprocessed |
-| [PanomiR](https://bioconductor.org/packages/3.20/bioc/html/PanomiR.html)                                         | Unprocessed |
 | [ProteoDisco](https://bioconductor.org/packages/3.20/bioc/html/ProteoDisco.html)                                 | Unprocessed |
 | [PureCN](https://bioconductor.org/packages/3.20/bioc/html/PureCN.html)                                           | Unprocessed |
 | [Pviz](https://bioconductor.org/packages/3.20/bioc/html/Pviz.html)                                               | Unprocessed |
@@ -2160,7 +2163,6 @@
 | [erma](https://bioconductor.org/packages/3.20/bioc/html/erma.html)                                               | Unprocessed |
 | [esATAC](https://bioconductor.org/packages/3.20/bioc/html/esATAC.html)                                           | Unprocessed |
 | [escape](https://bioconductor.org/packages/3.20/bioc/html/escape.html)                                           | Unprocessed |
-| [esetVis](https://bioconductor.org/packages/3.20/bioc/html/esetVis.html)                                         | Unprocessed |
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                                   | Unprocessed |
 | [fcScan](https://bioconductor.org/packages/3.20/bioc/html/fcScan.html)                                           | Unprocessed |
 | [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                               | Unprocessed |
@@ -2207,7 +2209,6 @@
 | [netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)                                         | Unprocessed |
 | [npGSEA](https://bioconductor.org/packages/3.20/bioc/html/npGSEA.html)                                           | Unprocessed |
 | [octad](https://bioconductor.org/packages/3.20/bioc/html/octad.html)                                             | Unprocessed |
-| [omXplore](https://bioconductor.org/packages/3.20/bioc/html/omXplore.html)                                       | Unprocessed |
 | [oppar](https://bioconductor.org/packages/3.20/bioc/html/oppar.html)                                             | Unprocessed |
 | [pageRank](https://bioconductor.org/packages/3.20/bioc/html/pageRank.html)                                       | Unprocessed |
 | [pcaExplorer](https://bioconductor.org/packages/3.20/bioc/html/pcaExplorer.html)                                 | Unprocessed |
@@ -2244,7 +2245,6 @@
 | [trackViewer](https://bioconductor.org/packages/3.20/bioc/html/trackViewer.html)                                 | Unprocessed |
 | [transmogR](https://bioconductor.org/packages/3.20/bioc/html/transmogR.html)                                     | Unprocessed |
 | [uncoverappLib](https://bioconductor.org/packages/3.20/bioc/html/uncoverappLib.html)                             | Unprocessed |
-| [vissE](https://bioconductor.org/packages/3.20/bioc/html/vissE.html)                                             | Unprocessed |
 | [vtpnet](https://bioconductor.org/packages/3.20/bioc/html/vtpnet.html)                                           | Unprocessed |
 | [wateRmelon](https://bioconductor.org/packages/3.20/bioc/html/wateRmelon.html)                                   | Unprocessed |
 | [yarn](https://bioconductor.org/packages/3.20/bioc/html/yarn.html)                                               | Unprocessed |

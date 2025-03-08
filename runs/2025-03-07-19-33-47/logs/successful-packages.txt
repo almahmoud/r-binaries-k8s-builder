@@ -1959,3 +1959,8 @@ standR
 SVMDO
 GARS
 SBGNview
+BicARE
+esetVis
+omXplore
+PanomiR
+vissE
