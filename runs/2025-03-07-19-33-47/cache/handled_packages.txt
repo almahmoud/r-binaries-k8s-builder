@@ -57,6 +57,7 @@ BiFET
 BiGGR
 BiRewire
 BioCartaImage
+BioGA
 BioMVCClass
 BioQC
 BioTIP
@@ -82,6 +83,7 @@ BrowserViz
 BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
+CAEN
 CARNIVAL
 CATALYST
 CCPlotR
@@ -232,6 +234,7 @@ GMRP
 GNET2
 GPA
 GRENITS
+GRmetrics
 GSALightning
 GSAR
 GSCA
@@ -469,6 +472,7 @@ RBM
 RBioFormats
 RBioinf
 RCASPAR
+RCM
 RCSL
 RCX
 RCy3
@@ -545,6 +549,7 @@ SCFA
 SCnorm
 SDAMS
 SELEX
+SIAMCAT
 SICtools
 SIMAT
 SIMD
@@ -879,6 +884,7 @@ ggkegg
 ggmanh
 ggmsa
 ggsc
+ggseqalign
 ggspavis
 ggtree
 ggtreeDendro
@@ -1040,6 +1046,7 @@ normr
 nuCpos
 nucleR
 nucleoSim
+nullranges
 occugene
 odseq
 oligo
@@ -1087,6 +1094,7 @@ plgem
 plier
 plotGrouper
 plotgardener
+plyinteractions
 plyranges
 plyxp
 pmm

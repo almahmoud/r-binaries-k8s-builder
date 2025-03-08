@@ -1319,3 +1319,11 @@ tidySpatialExperiment
 FuseSOM
 plotgardener
 Spaniel
+BioGA
+CAEN
+ggseqalign
+GRmetrics
+nullranges
+plyinteractions
+RCM
+SIAMCAT
