@@ -422,3 +422,5 @@ philr
 scBubbletree
 sitePath
 tanggle
+GenProSeq
+basilisk.utils
