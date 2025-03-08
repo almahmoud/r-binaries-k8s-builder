@@ -1,0 +1,3 @@
+GENESIS
+panelcn.mops
+regionalpcs

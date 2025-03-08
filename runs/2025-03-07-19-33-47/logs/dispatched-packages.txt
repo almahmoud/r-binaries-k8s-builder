@@ -961,3 +961,6 @@ h5vc
 rfPred
 ssviz
 tracktables
+GENESIS
+panelcn.mops
+regionalpcs

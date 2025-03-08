@@ -26,6 +26,7 @@ AnnotationFilter
 AssessORF
 BADER
 BAGS
+BANDITS
 BCRANK
 BEclear
 BG2
@@ -80,6 +81,7 @@ CNORfeeder
 CNORfuzzy
 CNORode
 CNVMetrics
+CNVPanelizer
 COMPASS
 CONFESS
 CONSTANd
@@ -101,6 +103,7 @@ ClusterJudge
 ClusterSignificance
 ComPrAn
 ComplexHeatmap
+CompoundDb
 ConsensusClusterPlus
 Cormotif
 CytoDx
@@ -129,6 +132,7 @@ DelayedArray
 DelayedDataFrame
 DelayedMatrixStats
 DelayedRandomArray
+DelayedTensor
 DepInfeR
 DepecheR
 DiffLogo
@@ -153,9 +157,11 @@ FGNet
 FISHalyseR
 FRGEpistasis
 FamAgg
+FilterFFPE
 FitHiC
 FlowSOM
 GAprediction
+GBScleanR
 GEM
 GENIE3
 GEOfastq
@@ -180,6 +186,7 @@ GateFinder
 GenProSeq
 GeneExpressionSignature
 GeneGA
+GeneGeneInteR
 GeneNetworkBuilder
 GeneOverlap
 GeneRegionScan
@@ -303,6 +310,7 @@ OrderedList
 Oscope
 PANR
 PCAN
+PCAtools
 PLPE
 PROPER
 PROcess
@@ -378,6 +386,7 @@ Rtreemix
 Rvisdiff
 S4Arrays
 S4Vectors
+SAIGEgds
 SANTA
 SBMLR
 SCBN
@@ -403,8 +412,10 @@ ScaledMatrix
 Sconify
 ScreenR
 SeqArray
+SeqVarTools
 SharedObject
 SigFuge
+SimFFPE
 SpaceMarkers
 SparseArray
 SpeCond
@@ -414,6 +425,7 @@ Streamer
 Structstrings
 Summix
 SwathXtend
+TEQC
 TMixClust
 TPP
 TPP2D
@@ -450,6 +462,7 @@ affyio
 agilp
 alabaster.base
 alabaster.bumpy
+alabaster.files
 alabaster.schemas
 alevinQC
 annotationTools
@@ -485,6 +498,7 @@ cancerclass
 cbpManager
 ccrepe
 ceRNAnetsim
+cellbaseR
 cellmigRation
 cellscape
 cellxgenedp
@@ -499,6 +513,7 @@ clst
 clstutils
 clustComp
 clusterStab
+cn.mops
 coGPS
 cogena
 cola
@@ -760,6 +775,7 @@ qpcrNorm
 quantsmooth
 qusage
 qvalue
+rBLAST
 rBiopaxParser
 rWikiPathways
 rain
@@ -827,6 +843,7 @@ splots
 sscu
 ssize
 ssrch
+ssviz
 statTarget
 stepNorm
 subSeq
