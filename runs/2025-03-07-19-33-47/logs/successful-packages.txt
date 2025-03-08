@@ -788,3 +788,11 @@ MsBackendMsp
 nethet
 SpectraQL
 trio
+alabaster.bumpy
+CRImage
+GenomeInfoDb
+MsBackendMgf
+MsBackendRawFileReader
+MsBackendSql
+simona
+updateObject

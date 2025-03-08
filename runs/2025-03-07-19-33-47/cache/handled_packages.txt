@@ -72,6 +72,7 @@ CNORode
 COMPASS
 CONSTANd
 COSNet
+CRImage
 CTDquerier
 Cardinal
 CardinalIO
@@ -158,6 +159,7 @@ GeneNetworkBuilder
 GeneOverlap
 GeneSelectMMD
 GeneticsPed
+GenomeInfoDb
 GladiaTOX
 GraphAT
 GraphAlignment
@@ -235,7 +237,10 @@ MiPP
 ModCon
 MsBackendMassbank
 MsBackendMetaboLights
+MsBackendMgf
 MsBackendMsp
+MsBackendRawFileReader
+MsBackendSql
 MsCoreUtils
 Mulcom
 MultiMed
@@ -394,6 +399,7 @@ affycomp
 affyio
 agilp
 alabaster.base
+alabaster.bumpy
 alabaster.schemas
 alevinQC
 annotationTools
@@ -733,6 +739,7 @@ siggenes
 sights
 sigsquared
 similaRpeak
+simona
 sincell
 sitePath
 sizepower
@@ -778,6 +785,7 @@ twoddpcr
 tximport
 uSORT
 unifiedWMWqPCR
+updateObject
 variancePartition
 vbmp
 veloviz
