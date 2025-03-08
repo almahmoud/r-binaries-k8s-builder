@@ -1308,3 +1308,11 @@ methylscaper
 OTUbase
 recount3
 scDblFinder
+epistack
+FeatSeekR
+MEB
+normr
+scDD
+SPIAT
+spoon
+tidySpatialExperiment

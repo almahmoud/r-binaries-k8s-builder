@@ -210,6 +210,7 @@ FISHalyseR
 FRGEpistasis
 FamAgg
 FastqCleaner
+FeatSeekR
 FilterFFPE
 FitHiC
 FlowSOM
@@ -341,6 +342,7 @@ MBCB
 MBQN
 MBttest
 MDTS
+MEB
 MEDME
 MEIGOR
 MICSQTL
@@ -553,6 +555,7 @@ SNPRelate
 SNPediaR
 SPEM
 SPIA
+SPIAT
 SPOTlight
 SQLDataFrame
 SRAdb
@@ -798,6 +801,7 @@ eds
 eiR
 epiNEM
 epialleleR
+epistack
 epistasisGA
 epivizrServer
 erccdashboard
@@ -1030,6 +1034,7 @@ ngsReports
 nnNorm
 nnSVG
 normalize450K
+normr
 nuCpos
 nucleR
 nucleoSim
@@ -1160,6 +1165,7 @@ sarks
 satuRn
 scBubbletree
 scCB2
+scDD
 scDDboost
 scDataviz
 scDblFinder
@@ -1237,6 +1243,7 @@ spikeLI
 spkTools
 splatter
 splots
+spoon
 spqn
 ssPATHS
 sscu
@@ -1266,6 +1273,7 @@ ternarynet
 tidyCoverage
 tidyFlowCore
 tidySingleCellExperiment
+tidySpatialExperiment
 tidybulk
 tidysbml
 tidytof
