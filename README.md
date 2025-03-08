@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1501 packages built successfully
+- 1505 packages built successfully
 - 0 packages failed to build
-- 732 packages not yet processed
+- 728 packages not yet processed
 
 
-## Successfully Built (1501)
+## Successfully Built (1505)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1513,8 +1513,12 @@
 | [lionessR](https://bioconductor.org/packages/3.20/bioc/html/lionessR.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/lionessR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lionessR)                   |
 | [metabolomicsWorkbenchR](https://bioconductor.org/packages/3.20/bioc/html/metabolomicsWorkbenchR.html)         | Built    | [Log](runs/2025-03-07-19-33-47/logs/metabolomicsWorkbenchR/build-success.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/metabolomicsWorkbenchR)     |
 | [peco](https://bioconductor.org/packages/3.20/bioc/html/peco.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/peco/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/peco)                       |
+| [MultimodalExperiment](https://bioconductor.org/packages/3.20/bioc/html/MultimodalExperiment.html)             | Built    | [Log](runs/2025-03-07-19-33-47/logs/MultimodalExperiment/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MultimodalExperiment)       |
+| [kmcut](https://bioconductor.org/packages/3.20/bioc/html/kmcut.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/kmcut/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/kmcut)                      |
+| [made4](https://bioconductor.org/packages/3.20/bioc/html/made4.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/made4/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/made4)                      |
+| [mia](https://bioconductor.org/packages/3.20/bioc/html/mia.html)                                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/mia/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mia)                        |
 
-## Not Yet Processed (732)
+## Not Yet Processed (728)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADAM](https://bioconductor.org/packages/3.20/bioc/html/ADAM.html)                                               | Unprocessed |
@@ -1739,7 +1743,6 @@
 | [MsQuality](https://bioconductor.org/packages/3.20/bioc/html/MsQuality.html)                                     | Unprocessed |
 | [MuData](https://bioconductor.org/packages/3.20/bioc/html/MuData.html)                                           | Unprocessed |
 | [MultiBaC](https://bioconductor.org/packages/3.20/bioc/html/MultiBaC.html)                                       | Unprocessed |
-| [MultimodalExperiment](https://bioconductor.org/packages/3.20/bioc/html/MultimodalExperiment.html)               | Unprocessed |
 | [MungeSumstats](https://bioconductor.org/packages/3.20/bioc/html/MungeSumstats.html)                             | Unprocessed |
 | [MutationalPatterns](https://bioconductor.org/packages/3.20/bioc/html/MutationalPatterns.html)                   | Unprocessed |
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                     | Unprocessed |
@@ -2059,7 +2062,6 @@
 | [katdetectr](https://bioconductor.org/packages/3.20/bioc/html/katdetectr.html)                                   | Unprocessed |
 | [keggorthology](https://bioconductor.org/packages/3.20/bioc/html/keggorthology.html)                             | Unprocessed |
 | [kissDE](https://bioconductor.org/packages/3.20/bioc/html/kissDE.html)                                           | Unprocessed |
-| [kmcut](https://bioconductor.org/packages/3.20/bioc/html/kmcut.html)                                             | Unprocessed |
 | [knowYourCG](https://bioconductor.org/packages/3.20/bioc/html/knowYourCG.html)                                   | Unprocessed |
 | [lefser](https://bioconductor.org/packages/3.20/bioc/html/lefser.html)                                           | Unprocessed |
 | [lineagespot](https://bioconductor.org/packages/3.20/bioc/html/lineagespot.html)                                 | Unprocessed |
@@ -2069,7 +2071,6 @@
 | [m6Aboost](https://bioconductor.org/packages/3.20/bioc/html/m6Aboost.html)                                       | Unprocessed |
 | [mCSEA](https://bioconductor.org/packages/3.20/bioc/html/mCSEA.html)                                             | Unprocessed |
 | [maPredictDSC](https://bioconductor.org/packages/3.20/bioc/html/maPredictDSC.html)                               | Unprocessed |
-| [made4](https://bioconductor.org/packages/3.20/bioc/html/made4.html)                                             | Unprocessed |
 | [magpie](https://bioconductor.org/packages/3.20/bioc/html/magpie.html)                                           | Unprocessed |
 | [maser](https://bioconductor.org/packages/3.20/bioc/html/maser.html)                                             | Unprocessed |
 | [mastR](https://bioconductor.org/packages/3.20/bioc/html/mastR.html)                                             | Unprocessed |
@@ -2089,7 +2090,6 @@
 | [miRNAtap](https://bioconductor.org/packages/3.20/bioc/html/miRNAtap.html)                                       | Unprocessed |
 | [miRSM](https://bioconductor.org/packages/3.20/bioc/html/miRSM.html)                                             | Unprocessed |
 | [miRspongeR](https://bioconductor.org/packages/3.20/bioc/html/miRspongeR.html)                                   | Unprocessed |
-| [mia](https://bioconductor.org/packages/3.20/bioc/html/mia.html)                                                 | Unprocessed |
 | [miaViz](https://bioconductor.org/packages/3.20/bioc/html/miaViz.html)                                           | Unprocessed |
 | [minfi](https://bioconductor.org/packages/3.20/bioc/html/minfi.html)                                             | Unprocessed |
 | [mirIntegrator](https://bioconductor.org/packages/3.20/bioc/html/mirIntegrator.html)                             | Unprocessed |

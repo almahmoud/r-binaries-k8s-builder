@@ -450,6 +450,7 @@ MultiAssayExperiment
 MultiDataSet
 MultiMed
 MultiRNAflow
+MultimodalExperiment
 NCIgraph
 NOISeq
 NPARC
@@ -1056,6 +1057,7 @@ iterativeBMA
 iterativeBMAsurv
 ivygapSE
 kebabs
+kmcut
 koinar
 lapmix
 ldblock
@@ -1076,6 +1078,7 @@ lute
 mBPCR
 maCorrPlot
 maSigPro
+made4
 maftools
 magrene
 makecdfenv
@@ -1120,6 +1123,7 @@ miQC
 miRBaseConverter
 miRNApath
 miRcomp
+mia
 miaSim
 microRNA
 microSTASIS

@@ -1499,3 +1499,7 @@ cfDNAPro
 lionessR
 metabolomicsWorkbenchR
 peco
+kmcut
+made4
+mia
+MultimodalExperiment
