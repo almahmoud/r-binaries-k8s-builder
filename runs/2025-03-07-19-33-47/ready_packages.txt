@@ -1,4 +1,0 @@
-MSstatsBig
-MSstatsTMT
-OLINgui
-SIMD

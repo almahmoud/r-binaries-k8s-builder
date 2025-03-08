@@ -483,3 +483,10 @@ Rvisdiff
 ScreenR
 stepNorm
 tweeDEseq
+arrayQuality
+compcodeR
+MSstatsBig
+MSstatsTMT
+OLINgui
+PROPER
+SIMD

@@ -139,8 +139,10 @@ MBCB
 MBttest
 MPFE
 MSstats
+MSstatsBig
 MSstatsConvert
 MSstatsLOBD
+MSstatsTMT
 MVCClass
 MantelCorr
 MassArray
@@ -156,6 +158,7 @@ NTW
 NetPathMiner
 NuPoP
 OLIN
+OLINgui
 OPWeight
 OSAT
 Omixer
@@ -164,6 +167,7 @@ OpenStats
 Oscope
 PANR
 PCAN
+PROPER
 PROcess
 Path2PPI
 PathNet
@@ -206,6 +210,7 @@ SANTA
 SBMLR
 SCBN
 SCFA
+SIMD
 SIMLR
 SLqPCR
 SMAD
@@ -239,6 +244,7 @@ alabaster.schemas
 alevinQC
 antiProfiles
 aroma.light
+arrayQuality
 assorthead
 bacon
 banocc
@@ -271,6 +277,7 @@ clstutils
 clustComp
 coGPS
 compSPOT
+compcodeR
 consensus
 cqn
 ctc
