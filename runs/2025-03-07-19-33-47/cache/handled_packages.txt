@@ -768,6 +768,7 @@ SMITE
 SNAGEE
 SNPRelate
 SNPediaR
+SOMNiBUS
 SPEM
 SPIA
 SPIAT
@@ -884,6 +885,7 @@ XINA
 XNAString
 XVector
 Xeva
+a4Base
 a4Classif
 a4Core
 a4Preproc
@@ -952,6 +954,7 @@ bcSeq
 beachmat
 beachmat.hdf5
 beer
+benchdamic
 betaHMM
 bettr
 bioDist
@@ -1105,6 +1108,7 @@ distinct
 dittoSeq
 divergence
 dks
+doppelgangR
 doseR
 doubletrouble
 drawProteins
@@ -1483,6 +1487,7 @@ oppti
 optimalFlow
 orthogene
 orthos
+pRoloc
 packFinder
 padma
 paircompviz

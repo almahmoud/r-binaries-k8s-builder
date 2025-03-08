@@ -1946,3 +1946,6 @@ spicyR
 SOMNiBUS
 dmrseq
 scmeth
+a4
+bandle
+pRolocGUI

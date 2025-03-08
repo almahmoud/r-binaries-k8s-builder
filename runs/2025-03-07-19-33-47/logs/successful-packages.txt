@@ -1853,3 +1853,8 @@ SigCheck
 SpliceWiz
 TOP
 XDE
+a4Base
+benchdamic
+doppelgangR
+pRoloc
+SOMNiBUS
