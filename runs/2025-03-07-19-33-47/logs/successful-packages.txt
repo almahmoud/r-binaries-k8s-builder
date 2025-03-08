@@ -1399,3 +1399,10 @@ pipeFrame
 regioneR
 soGGi
 traseR
+crisprBwa
+diffHic
+MinimumDistance
+qsea
+rGADEM
+spiky
+tRNAscanImport

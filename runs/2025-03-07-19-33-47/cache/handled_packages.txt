@@ -417,6 +417,7 @@ Mfuzz
 MiChip
 MiPP
 MicrobiotaProcess
+MinimumDistance
 ModCon
 Modstrings
 MoleculeExperiment
@@ -805,6 +806,7 @@ covEB
 cqn
 crisprBase
 crisprBowtie
+crisprBwa
 crlmm
 csaw
 ctc
@@ -835,6 +837,7 @@ densvis
 derfinderHelper
 destiny
 diffGeneAnalysis
+diffHic
 diffuStats
 diggit
 dinoR
@@ -1180,6 +1183,7 @@ qckitfastq
 qcmetrics
 qmtools
 qpcrNorm
+qsea
 quantiseqr
 quantsmooth
 qusage
@@ -1187,6 +1191,7 @@ qvalue
 r3Cseq
 rBLAST
 rBiopaxParser
+rGADEM
 rRDP
 rSWeeP
 rScudo
@@ -1317,6 +1322,7 @@ spatialDE
 spatialSimGP
 specL
 spikeLI
+spiky
 spkTools
 splatter
 splots
@@ -1347,6 +1353,7 @@ systemPipeShiny
 systemPipeTools
 tRNA
 tRNAdbImport
+tRNAscanImport
 tanggle
 target
 ternarynet
