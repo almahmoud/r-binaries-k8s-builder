@@ -441,6 +441,7 @@ MsBackendSql
 MsCoreUtils
 MsFeatures
 Mulcom
+MultiAssayExperiment
 MultiDataSet
 MultiMed
 NCIgraph
@@ -1357,6 +1358,7 @@ sincell
 sitePath
 sizepower
 sketchR
+slingshot
 smartid
 smoothclust
 snapcount
@@ -1373,6 +1375,7 @@ specL
 speckle
 spikeLI
 spiky
+spillR
 spkTools
 splatter
 splots
@@ -1420,6 +1423,7 @@ timeOmics
 timecourse
 timescape
 tkWidgets
+tomoda
 tomoseqr
 topconfects
 tpSVG

@@ -1461,3 +1461,7 @@ switchde
 tidySummarizedExperiment
 transomics2cytoscape
 waddR
+MultiAssayExperiment
+slingshot
+spillR
+tomoda
