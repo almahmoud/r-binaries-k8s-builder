@@ -529,6 +529,7 @@ RLMM
 RLassoCox
 RNASeqPower
 RNAdecay
+RNAsense
 RNAseqCovarImpute
 ROC
 ROCpAI
@@ -658,6 +659,7 @@ Summix
 SwathXtend
 SynExtend
 SynMut
+TADCompare
 TCC
 TCseq
 TDbasedUFE
@@ -1094,6 +1096,7 @@ methylMnM
 methylscaper
 mfa
 mgsa
+miQC
 miRBaseConverter
 miRNApath
 miRcomp
@@ -1123,6 +1126,7 @@ msImpute
 msPurity
 msa
 multiClust
+multiHiCcompare
 multiscan
 multtest
 mumosa
@@ -1362,6 +1366,7 @@ sparsenetgls
 spatialDE
 spatialSimGP
 specL
+speckle
 spikeLI
 spiky
 spkTools
@@ -1417,6 +1422,7 @@ transformGamPoi
 transite
 traseR
 treeio
+treekoR
 trio
 triplex
 tripr

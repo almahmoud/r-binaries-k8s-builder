@@ -1447,3 +1447,9 @@ iSEEde
 omicplotR
 pairkat
 SpectralTAD
+miQC
+multiHiCcompare
+RNAsense
+speckle
+TADCompare
+treekoR
