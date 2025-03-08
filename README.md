@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1959 packages built successfully
+- 1961 packages built successfully
 - 0 packages failed to build
-- 274 packages not yet processed
+- 272 packages not yet processed
 
 
-## Successfully Built (1959)
+## Successfully Built (1961)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1971,8 +1971,10 @@
 | [shinyMethyl](https://bioconductor.org/packages/3.20/bioc/html/shinyMethyl.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/shinyMethyl/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/shinyMethyl)                |
 | [shinyepico](https://bioconductor.org/packages/3.20/bioc/html/shinyepico.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/shinyepico/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/shinyepico)                 |
 | [standR](https://bioconductor.org/packages/3.20/bioc/html/standR.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/standR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/standR)                     |
+| [GARS](https://bioconductor.org/packages/3.20/bioc/html/GARS.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/GARS/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GARS)                       |
+| [SBGNview](https://bioconductor.org/packages/3.20/bioc/html/SBGNview.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/SBGNview/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SBGNview)                   |
 
-## Not Yet Processed (274)
+## Not Yet Processed (272)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [AGDEX](https://bioconductor.org/packages/3.20/bioc/html/AGDEX.html)                                             | Unprocessed |
@@ -2019,7 +2021,6 @@
 | [FLAMES](https://bioconductor.org/packages/3.20/bioc/html/FLAMES.html)                                           | Unprocessed |
 | [GA4GHclient](https://bioconductor.org/packages/3.20/bioc/html/GA4GHclient.html)                                 | Unprocessed |
 | [GA4GHshiny](https://bioconductor.org/packages/3.20/bioc/html/GA4GHshiny.html)                                   | Unprocessed |
-| [GARS](https://bioconductor.org/packages/3.20/bioc/html/GARS.html)                                               | Unprocessed |
 | [GEOexplorer](https://bioconductor.org/packages/3.20/bioc/html/GEOexplorer.html)                                 | Unprocessed |
 | [GOstats](https://bioconductor.org/packages/3.20/bioc/html/GOstats.html)                                         | Unprocessed |
 | [GRaNIE](https://bioconductor.org/packages/3.20/bioc/html/GRaNIE.html)                                           | Unprocessed |
@@ -2082,7 +2083,6 @@
 | [RnBeads](https://bioconductor.org/packages/3.20/bioc/html/RnBeads.html)                                         | Unprocessed |
 | [RnaSeqSampleSize](https://bioconductor.org/packages/3.20/bioc/html/RnaSeqSampleSize.html)                       | Unprocessed |
 | [Rqc](https://bioconductor.org/packages/3.20/bioc/html/Rqc.html)                                                 | Unprocessed |
-| [SBGNview](https://bioconductor.org/packages/3.20/bioc/html/SBGNview.html)                                       | Unprocessed |
 | [SGCP](https://bioconductor.org/packages/3.20/bioc/html/SGCP.html)                                               | Unprocessed |
 | [SNPhood](https://bioconductor.org/packages/3.20/bioc/html/SNPhood.html)                                         | Unprocessed |
 | [SPLINTER](https://bioconductor.org/packages/3.20/bioc/html/SPLINTER.html)                                       | Unprocessed |

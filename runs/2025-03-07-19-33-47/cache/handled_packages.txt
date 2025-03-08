@@ -320,6 +320,7 @@ FindIT2
 FitHiC
 FlowSOM
 FuseSOM
+GARS
 GAprediction
 GBScleanR
 GDCRNATools
@@ -784,6 +785,7 @@ S4Vectors
 SAIGEgds
 SANTA
 SARC
+SBGNview
 SBMLR
 SC3
 SCAN.UPC
