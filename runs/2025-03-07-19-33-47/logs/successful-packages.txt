@@ -2090,3 +2090,11 @@ biovizBase
 GA4GHshiny
 erma
 VCFArray
+deepSNV
+fcScan
+gDNAx
+gmapR
+gwascat
+QuasR
+svaNUMT
+svaRetro

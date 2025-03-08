@@ -2140,3 +2140,7 @@ Rqc
 alabaster
 ggbio
 karyoploteR
+SingleMoleculeFootprinting
+circRNAprofiler
+mitoClone2
+vtpnet
