@@ -763,3 +763,8 @@ gDRstyle
 MEIGOR
 scde
 TPP
+cyanoFilter
+flowBin
+flowTrans
+Spectra
+TurboNorm

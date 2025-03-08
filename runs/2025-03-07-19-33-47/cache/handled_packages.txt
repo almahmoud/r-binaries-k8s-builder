@@ -349,6 +349,7 @@ ScreenR
 SharedObject
 SpaceMarkers
 SpeCond
+Spectra
 Streamer
 Summix
 SwathXtend
@@ -362,6 +363,7 @@ TargetScore
 TargetSearch
 TrajectoryGeometry
 TreeAndLeaf
+TurboNorm
 UCSC.utils
 UNDO
 VERSO
@@ -439,6 +441,7 @@ covEB
 cqn
 ctc
 ctsGE
+cyanoFilter
 cycle
 cytoMEM
 cytolib
@@ -485,6 +488,7 @@ fgga
 fgsea
 flowAI
 flowBeads
+flowBin
 flowCHIC
 flowClean
 flowClust
@@ -497,6 +501,7 @@ flowGraph
 flowPeaks
 flowPlots
 flowTime
+flowTrans
 flowViz
 flowcatchR
 fmcsR

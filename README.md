@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 765 packages built successfully
+- 770 packages built successfully
 - 0 packages failed to build
-- 1468 packages not yet processed
+- 1463 packages not yet processed
 
 
-## Successfully Built (765)
+## Successfully Built (770)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -777,8 +777,13 @@
 | [flowCut](https://bioconductor.org/packages/3.20/bioc/html/flowCut.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/flowCut/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowCut)                 |
 | [gDRstyle](https://bioconductor.org/packages/3.20/bioc/html/gDRstyle.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/gDRstyle/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gDRstyle)                |
 | [scde](https://bioconductor.org/packages/3.20/bioc/html/scde.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/scde/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scde)                    |
+| [Spectra](https://bioconductor.org/packages/3.20/bioc/html/Spectra.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/Spectra/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Spectra)                 |
+| [TurboNorm](https://bioconductor.org/packages/3.20/bioc/html/TurboNorm.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/TurboNorm/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TurboNorm)               |
+| [cyanoFilter](https://bioconductor.org/packages/3.20/bioc/html/cyanoFilter.html)                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/cyanoFilter/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cyanoFilter)             |
+| [flowBin](https://bioconductor.org/packages/3.20/bioc/html/flowBin.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/flowBin/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowBin)                 |
+| [flowTrans](https://bioconductor.org/packages/3.20/bioc/html/flowTrans.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/flowTrans/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowTrans)               |
 
-## Not Yet Processed (1468)
+## Not Yet Processed (1463)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1403,7 +1408,6 @@
 | [SpatialExperiment](https://bioconductor.org/packages/3.20/bioc/html/SpatialExperiment.html)                     | Unprocessed |
 | [SpatialFeatureExperiment](https://bioconductor.org/packages/3.20/bioc/html/SpatialFeatureExperiment.html)       | Unprocessed |
 | [SpatialOmicsOverlay](https://bioconductor.org/packages/3.20/bioc/html/SpatialOmicsOverlay.html)                 | Unprocessed |
-| [Spectra](https://bioconductor.org/packages/3.20/bioc/html/Spectra.html)                                         | Unprocessed |
 | [SpectraQL](https://bioconductor.org/packages/3.20/bioc/html/SpectraQL.html)                                     | Unprocessed |
 | [SpectralTAD](https://bioconductor.org/packages/3.20/bioc/html/SpectralTAD.html)                                 | Unprocessed |
 | [SpliceWiz](https://bioconductor.org/packages/3.20/bioc/html/SpliceWiz.html)                                     | Unprocessed |
@@ -1453,7 +1457,6 @@
 | [TrajectoryUtils](https://bioconductor.org/packages/3.20/bioc/html/TrajectoryUtils.html)                         | Unprocessed |
 | [TreeSummarizedExperiment](https://bioconductor.org/packages/3.20/bioc/html/TreeSummarizedExperiment.html)       | Unprocessed |
 | [Trendy](https://bioconductor.org/packages/3.20/bioc/html/Trendy.html)                                           | Unprocessed |
-| [TurboNorm](https://bioconductor.org/packages/3.20/bioc/html/TurboNorm.html)                                     | Unprocessed |
 | [UCell](https://bioconductor.org/packages/3.20/bioc/html/UCell.html)                                             | Unprocessed |
 | [UMI4Cats](https://bioconductor.org/packages/3.20/bioc/html/UMI4Cats.html)                                       | Unprocessed |
 | [UPDhmm](https://bioconductor.org/packages/3.20/bioc/html/UPDhmm.html)                                           | Unprocessed |
@@ -1634,7 +1637,6 @@
 | [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                                   | Unprocessed |
 | [customCMPdb](https://bioconductor.org/packages/3.20/bioc/html/customCMPdb.html)                                 | Unprocessed |
 | [customProDB](https://bioconductor.org/packages/3.20/bioc/html/customProDB.html)                                 | Unprocessed |
-| [cyanoFilter](https://bioconductor.org/packages/3.20/bioc/html/cyanoFilter.html)                                 | Unprocessed |
 | [cydar](https://bioconductor.org/packages/3.20/bioc/html/cydar.html)                                             | Unprocessed |
 | [cypress](https://bioconductor.org/packages/3.20/bioc/html/cypress.html)                                         | Unprocessed |
 | [cytoKernel](https://bioconductor.org/packages/3.20/bioc/html/cytoKernel.html)                                   | Unprocessed |
@@ -1710,7 +1712,6 @@
 | [findIPs](https://bioconductor.org/packages/3.20/bioc/html/findIPs.html)                                         | Unprocessed |
 | [fishpond](https://bioconductor.org/packages/3.20/bioc/html/fishpond.html)                                       | Unprocessed |
 | [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                                           | Unprocessed |
-| [flowBin](https://bioconductor.org/packages/3.20/bioc/html/flowBin.html)                                         | Unprocessed |
 | [flowGate](https://bioconductor.org/packages/3.20/bioc/html/flowGate.html)                                       | Unprocessed |
 | [flowMatch](https://bioconductor.org/packages/3.20/bioc/html/flowMatch.html)                                     | Unprocessed |
 | [flowMeans](https://bioconductor.org/packages/3.20/bioc/html/flowMeans.html)                                     | Unprocessed |
@@ -1718,7 +1719,6 @@
 | [flowPloidy](https://bioconductor.org/packages/3.20/bioc/html/flowPloidy.html)                                   | Unprocessed |
 | [flowSpecs](https://bioconductor.org/packages/3.20/bioc/html/flowSpecs.html)                                     | Unprocessed |
 | [flowStats](https://bioconductor.org/packages/3.20/bioc/html/flowStats.html)                                     | Unprocessed |
-| [flowTrans](https://bioconductor.org/packages/3.20/bioc/html/flowTrans.html)                                     | Unprocessed |
 | [flowVS](https://bioconductor.org/packages/3.20/bioc/html/flowVS.html)                                           | Unprocessed |
 | [flowWorkspace](https://bioconductor.org/packages/3.20/bioc/html/flowWorkspace.html)                             | Unprocessed |
 | [frma](https://bioconductor.org/packages/3.20/bioc/html/frma.html)                                               | Unprocessed |

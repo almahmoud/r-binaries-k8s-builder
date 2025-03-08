@@ -791,3 +791,11 @@ SparseArray
 cola
 simona
 uSORT
+MetCirc
+MsBackendMassbank
+MsBackendMetaboLights
+MsBackendMgf
+MsBackendMsp
+MsBackendRawFileReader
+MsBackendSql
+SpectraQL
