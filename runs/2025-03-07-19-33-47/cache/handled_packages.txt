@@ -734,6 +734,7 @@ RedeR
 RedisParam
 RegEnrich
 RegionalST
+RepViz
 Repitools
 ResidualMatrix
 Rfastp
@@ -1139,6 +1140,7 @@ easier
 easylift
 easyreporting
 ecolitk
+edge
 edgeR
 eds
 eiR
@@ -1211,6 +1213,7 @@ frma
 frmaTools
 funOmics
 gCrisprTools
+gDR
 gDRcore
 gDRimport
 gDRstyle
@@ -1445,6 +1448,7 @@ mobileRNA
 monocle
 mosaics
 mosbi
+mosdef
 motifTestR
 motifcounter
 mpra
