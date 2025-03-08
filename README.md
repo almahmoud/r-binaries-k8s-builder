@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1944 packages built successfully
+- 1948 packages built successfully
 - 0 packages failed to build
-- 289 packages not yet processed
+- 285 packages not yet processed
 
 
-## Successfully Built (1944)
+## Successfully Built (1948)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1956,8 +1956,12 @@
 | [consensusDE](https://bioconductor.org/packages/3.20/bioc/html/consensusDE.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/consensusDE/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/consensusDE)                |
 | [funtooNorm](https://bioconductor.org/packages/3.20/bioc/html/funtooNorm.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/funtooNorm/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/funtooNorm)                 |
 | [recountmethylation](https://bioconductor.org/packages/3.20/bioc/html/recountmethylation.html)                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/recountmethylation/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/recountmethylation)         |
+| [GNOSIS](https://bioconductor.org/packages/3.20/bioc/html/GNOSIS.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/GNOSIS/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GNOSIS)                     |
+| [GSEABase](https://bioconductor.org/packages/3.20/bioc/html/GSEABase.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/GSEABase/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSEABase)                   |
+| [MoonlightR](https://bioconductor.org/packages/3.20/bioc/html/MoonlightR.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/MoonlightR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MoonlightR)                 |
+| [conumee](https://bioconductor.org/packages/3.20/bioc/html/conumee.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/conumee/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/conumee)                    |
 
-## Not Yet Processed (289)
+## Not Yet Processed (285)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [AGDEX](https://bioconductor.org/packages/3.20/bioc/html/AGDEX.html)                                             | Unprocessed |
@@ -2007,10 +2011,8 @@
 | [GA4GHshiny](https://bioconductor.org/packages/3.20/bioc/html/GA4GHshiny.html)                                   | Unprocessed |
 | [GARS](https://bioconductor.org/packages/3.20/bioc/html/GARS.html)                                               | Unprocessed |
 | [GEOexplorer](https://bioconductor.org/packages/3.20/bioc/html/GEOexplorer.html)                                 | Unprocessed |
-| [GNOSIS](https://bioconductor.org/packages/3.20/bioc/html/GNOSIS.html)                                           | Unprocessed |
 | [GOstats](https://bioconductor.org/packages/3.20/bioc/html/GOstats.html)                                         | Unprocessed |
 | [GRaNIE](https://bioconductor.org/packages/3.20/bioc/html/GRaNIE.html)                                           | Unprocessed |
-| [GSEABase](https://bioconductor.org/packages/3.20/bioc/html/GSEABase.html)                                       | Unprocessed |
 | [GSEABenchmarkeR](https://bioconductor.org/packages/3.20/bioc/html/GSEABenchmarkeR.html)                         | Unprocessed |
 | [GSRI](https://bioconductor.org/packages/3.20/bioc/html/GSRI.html)                                               | Unprocessed |
 | [GSReg](https://bioconductor.org/packages/3.20/bioc/html/GSReg.html)                                             | Unprocessed |
@@ -2039,7 +2041,6 @@
 | [MatrixRider](https://bioconductor.org/packages/3.20/bioc/html/MatrixRider.html)                                 | Unprocessed |
 | [MethReg](https://bioconductor.org/packages/3.20/bioc/html/MethReg.html)                                         | Unprocessed |
 | [MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)                                         | Unprocessed |
-| [MoonlightR](https://bioconductor.org/packages/3.20/bioc/html/MoonlightR.html)                                   | Unprocessed |
 | [MungeSumstats](https://bioconductor.org/packages/3.20/bioc/html/MungeSumstats.html)                             | Unprocessed |
 | [MutationalPatterns](https://bioconductor.org/packages/3.20/bioc/html/MutationalPatterns.html)                   | Unprocessed |
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                     | Unprocessed |
@@ -2125,7 +2126,6 @@
 | [circRNAprofiler](https://bioconductor.org/packages/3.20/bioc/html/circRNAprofiler.html)                         | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                                           | Unprocessed |
 | [compEpiTools](https://bioconductor.org/packages/3.20/bioc/html/compEpiTools.html)                               | Unprocessed |
-| [conumee](https://bioconductor.org/packages/3.20/bioc/html/conumee.html)                                         | Unprocessed |
 | [cosmosR](https://bioconductor.org/packages/3.20/bioc/html/cosmosR.html)                                         | Unprocessed |
 | [cpvSNP](https://bioconductor.org/packages/3.20/bioc/html/cpvSNP.html)                                           | Unprocessed |
 | [crisprDesign](https://bioconductor.org/packages/3.20/bioc/html/crisprDesign.html)                               | Unprocessed |

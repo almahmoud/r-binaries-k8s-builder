@@ -1942,3 +1942,7 @@ consensusDE
 funtooNorm
 recountmethylation
 RITAN
+conumee
+GNOSIS
+GSEABase
+MoonlightR

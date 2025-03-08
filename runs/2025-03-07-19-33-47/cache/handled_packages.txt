@@ -336,6 +336,7 @@ GIGSEA
 GLAD
 GMRP
 GNET2
+GNOSIS
 GOSemSim
 GOTHiC
 GOexpress
@@ -347,6 +348,7 @@ GRmetrics
 GSALightning
 GSAR
 GSCA
+GSEABase
 GSEAlm
 GSEAmining
 GSgalgoR
@@ -571,6 +573,7 @@ ModCon
 Modstrings
 MoleculeExperiment
 Moonlight2R
+MoonlightR
 Motif2Site
 MotifDb
 MouseFM
@@ -1099,6 +1102,7 @@ consICA
 consensus
 consensusDE
 consensusSeekeR
+conumee
 convert
 copa
 corral
