@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1900 packages built successfully
+- 1904 packages built successfully
 - 0 packages failed to build
-- 333 packages not yet processed
+- 329 packages not yet processed
 
 
-## Successfully Built (1900)
+## Successfully Built (1904)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1912,8 +1912,12 @@
 | [lisaClust](https://bioconductor.org/packages/3.20/bioc/html/lisaClust.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/lisaClust/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lisaClust)                  |
 | [pRolocGUI](https://bioconductor.org/packages/3.20/bioc/html/pRolocGUI.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/pRolocGUI/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pRolocGUI)                  |
 | [qsvaR](https://bioconductor.org/packages/3.20/bioc/html/qsvaR.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/qsvaR/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/qsvaR)                      |
+| [SPONGE](https://bioconductor.org/packages/3.20/bioc/html/SPONGE.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/SPONGE/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SPONGE)                     |
+| [SeqGSEA](https://bioconductor.org/packages/3.20/bioc/html/SeqGSEA.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/SeqGSEA/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SeqGSEA)                    |
+| [VegaMC](https://bioconductor.org/packages/3.20/bioc/html/VegaMC.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/VegaMC/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VegaMC)                     |
+| [pairedGSEA](https://bioconductor.org/packages/3.20/bioc/html/pairedGSEA.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/pairedGSEA/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pairedGSEA)                 |
 
-## Not Yet Processed (333)
+## Not Yet Processed (329)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [AGDEX](https://bioconductor.org/packages/3.20/bioc/html/AGDEX.html)                                             | Unprocessed |
@@ -2050,9 +2054,7 @@
 | [SGCP](https://bioconductor.org/packages/3.20/bioc/html/SGCP.html)                                               | Unprocessed |
 | [SNPhood](https://bioconductor.org/packages/3.20/bioc/html/SNPhood.html)                                         | Unprocessed |
 | [SPLINTER](https://bioconductor.org/packages/3.20/bioc/html/SPLINTER.html)                                       | Unprocessed |
-| [SPONGE](https://bioconductor.org/packages/3.20/bioc/html/SPONGE.html)                                           | Unprocessed |
 | [SVMDO](https://bioconductor.org/packages/3.20/bioc/html/SVMDO.html)                                             | Unprocessed |
-| [SeqGSEA](https://bioconductor.org/packages/3.20/bioc/html/SeqGSEA.html)                                         | Unprocessed |
 | [SigsPack](https://bioconductor.org/packages/3.20/bioc/html/SigsPack.html)                                       | Unprocessed |
 | [SingleMoleculeFootprinting](https://bioconductor.org/packages/3.20/bioc/html/SingleMoleculeFootprinting.html)   | Unprocessed |
 | [SomaticSignatures](https://bioconductor.org/packages/3.20/bioc/html/SomaticSignatures.html)                     | Unprocessed |
@@ -2075,7 +2077,6 @@
 | [VariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/VariantAnnotation.html)                     | Unprocessed |
 | [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)                       | Unprocessed |
 | [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                               | Unprocessed |
-| [VegaMC](https://bioconductor.org/packages/3.20/bioc/html/VegaMC.html)                                           | Unprocessed |
 | [YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)                                             | Unprocessed |
 | [ZygosityPredictor](https://bioconductor.org/packages/3.20/bioc/html/ZygosityPredictor.html)                     | Unprocessed |
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                             | Unprocessed |
@@ -2200,7 +2201,6 @@
 | [omicRexposome](https://bioconductor.org/packages/3.20/bioc/html/omicRexposome.html)                             | Unprocessed |
 | [oppar](https://bioconductor.org/packages/3.20/bioc/html/oppar.html)                                             | Unprocessed |
 | [pageRank](https://bioconductor.org/packages/3.20/bioc/html/pageRank.html)                                       | Unprocessed |
-| [pairedGSEA](https://bioconductor.org/packages/3.20/bioc/html/pairedGSEA.html)                                   | Unprocessed |
 | [pcaExplorer](https://bioconductor.org/packages/3.20/bioc/html/pcaExplorer.html)                                 | Unprocessed |
 | [phenoTest](https://bioconductor.org/packages/3.20/bioc/html/phenoTest.html)                                     | Unprocessed |
 | [primirTSS](https://bioconductor.org/packages/3.20/bioc/html/primirTSS.html)                                     | Unprocessed |

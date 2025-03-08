@@ -1,4 +1,1 @@
-DaMiRseq
-FRASER
-RUVSeq
-metaseqR2
+miRspongeR

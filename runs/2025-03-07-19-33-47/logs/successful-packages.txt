@@ -1898,3 +1898,7 @@ OUTRIDER
 pRolocGUI
 qsvaR
 SWATH2stats
+pairedGSEA
+SeqGSEA
+SPONGE
+VegaMC

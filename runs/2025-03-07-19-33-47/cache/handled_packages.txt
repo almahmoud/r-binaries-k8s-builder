@@ -791,6 +791,7 @@ SOMNiBUS
 SPEM
 SPIA
 SPIAT
+SPONGE
 SPOTlight
 SPsimSeq
 SQLDataFrame
@@ -806,6 +807,7 @@ Sconify
 ScreenR
 SemDist
 SeqArray
+SeqGSEA
 SeqGate
 SeqSQC
 SeqVarTools
@@ -895,6 +897,7 @@ VERSO
 VanillaICE
 VarCon
 VariantExperiment
+VegaMC
 VennDetail
 VisiumIO
 Voyager
@@ -1525,6 +1528,7 @@ pRolocGUI
 packFinder
 padma
 paircompviz
+pairedGSEA
 pairkat
 pandaR
 panelcn.mops
