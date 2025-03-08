@@ -1,5 +1,0 @@
-CNVfilteR
-CNViz
-RNAAgeCalc
-RnaSeqSampleSize
-psichomics

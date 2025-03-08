@@ -2130,3 +2130,9 @@ dreamlet
 interactiveDisplay
 MEAL
 recount
+DuplexDiscovereR
+iCheck
+multicrispr
+OMICsPCA
+primirTSS
+R453Plus1Toolbox

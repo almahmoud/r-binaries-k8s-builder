@@ -299,6 +299,7 @@ DriverNet
 DropletUtils
 DrugVsDisease
 Dune
+DuplexDiscovereR
 DynDoc
 EBImage
 EBSEA
@@ -672,6 +673,7 @@ NuPoP
 OCplus
 OLIN
 OLINgui
+OMICsPCA
 OPWeight
 ORFhunteR
 ORFik
@@ -748,6 +750,7 @@ QUBIC
 Qtlizer
 QuasR
 QuaternaryProd
+R453Plus1Toolbox
 R4RNA
 RAIDS
 RAREsim
@@ -1480,6 +1483,7 @@ iBMQ
 iCARE
 iCNV
 iCOBRA
+iCheck
 iChip
 iClusterPlus
 iGC
@@ -1663,6 +1667,7 @@ multiGSEA
 multiHiCcompare
 multiMiR
 multiWGCNA
+multicrispr
 multiscan
 multistateQTL
 multtest
@@ -1782,6 +1787,7 @@ pram
 prebs
 preciseTAD
 preprocessCore
+primirTSS
 proActiv
 proBAMr
 proDA
