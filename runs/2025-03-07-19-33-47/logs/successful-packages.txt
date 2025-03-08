@@ -1615,3 +1615,10 @@ m6Aboost
 RegEnrich
 SplicingGraphs
 tenXplore
+bambu
+rCGH
+rGREAT
+rrvgo
+SPsimSeq
+wavClusteR
+xcms

@@ -678,6 +678,7 @@ SPEM
 SPIA
 SPIAT
 SPOTlight
+SPsimSeq
 SQLDataFrame
 SRAdb
 STATegRa
@@ -819,6 +820,7 @@ assorthead
 autonomics
 awst
 bacon
+bambu
 bamsignals
 banocc
 barcodetrackR
@@ -1373,7 +1375,9 @@ qvalue
 r3Cseq
 rBLAST
 rBiopaxParser
+rCGH
 rGADEM
+rGREAT
 rRDP
 rSWeeP
 rScudo
@@ -1419,6 +1423,7 @@ rprimer
 rpx
 rqt
 rqubic
+rrvgo
 rsbml
 rsemmed
 rtracklayer
@@ -1601,12 +1606,14 @@ viper
 vsclust
 vsn
 waddR
+wavClusteR
 weaver
 weitrix
 widgetTools
 wiggleplotr
 wpm
 wppi
+xcms
 xcore
 xenLite
 xmapbridge
