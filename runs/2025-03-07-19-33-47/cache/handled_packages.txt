@@ -312,6 +312,7 @@ HIREewas
 HMMcopy
 HPAanalyze
 HPiP
+HTSFilter
 Harman
 Harshlight
 Heatplus
@@ -527,6 +528,7 @@ RGSEA
 RGraph2js
 RIVER
 RImmPort
+RJMCMCNucleosomes
 RLMM
 RLassoCox
 RNASeqPower
@@ -793,6 +795,7 @@ cellbaseR
 cellmigRation
 cellscape
 cellxgenedp
+censcyt
 cfdnakit
 chihaya
 chipseq
@@ -842,6 +845,7 @@ cydar
 cypress
 cytoKernel
 cytoMEM
+cytofQC
 cytolib
 cytomapper
 cytoviewer
@@ -1092,6 +1096,7 @@ metapod
 metapone
 methInheritSim
 methimpute
+methrix
 methyLImp2
 methylInheritance
 methylKit
@@ -1111,6 +1116,7 @@ microbiomeDASim
 microbiomeExplorer
 microbiomeMarker
 miloR
+mimager
 mina
 minet
 mirTarRnaSeq
@@ -1432,6 +1438,7 @@ transformGamPoi
 transite
 transomics2cytoscape
 traseR
+treeclimbR
 treeio
 treekoR
 trio
@@ -1455,6 +1462,7 @@ viper
 vsn
 waddR
 weaver
+weitrix
 widgetTools
 wiggleplotr
 wpm
@@ -1462,6 +1470,7 @@ wppi
 xenLite
 xmapbridge
 yamss
+zFPKM
 zellkonverter
 zitools
 zlibbioc

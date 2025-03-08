@@ -1465,3 +1465,12 @@ MultiAssayExperiment
 slingshot
 spillR
 tomoda
+censcyt
+cytofQC
+HTSFilter
+methrix
+mimager
+RJMCMCNucleosomes
+treeclimbR
+weitrix
+zFPKM

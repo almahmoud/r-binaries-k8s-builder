@@ -1522,3 +1522,4 @@ survClust
 tradeSeq
 vsclust
 xcore
+coseq
