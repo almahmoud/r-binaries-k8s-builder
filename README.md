@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2151 packages built successfully
+- 2152 packages built successfully
 - 0 packages failed to build
-- 82 packages not yet processed
+- 81 packages not yet processed
 
 
-## Successfully Built (2151)
+## Successfully Built (2152)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2163,12 +2163,12 @@
 | [msgbsR](https://bioconductor.org/packages/3.20/bioc/html/msgbsR.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/msgbsR/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/msgbsR)                      |
 | [regutools](https://bioconductor.org/packages/3.20/bioc/html/regutools.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/regutools/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/regutools)                   |
 | [CNViz](https://bioconductor.org/packages/3.20/bioc/html/CNViz.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/CNViz/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNViz)                       |
+| [BOBaFIT](https://bioconductor.org/packages/3.20/bioc/html/BOBaFIT.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/BOBaFIT/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BOBaFIT)                     |
 
-## Not Yet Processed (82)
+## Not Yet Processed (81)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                     | Unprocessed |
-| [BOBaFIT](https://bioconductor.org/packages/3.20/bioc/html/BOBaFIT.html)                             | Unprocessed |
 | [CAFE](https://bioconductor.org/packages/3.20/bioc/html/CAFE.html)                                   | Unprocessed |
 | [CAGEfightR](https://bioconductor.org/packages/3.20/bioc/html/CAGEfightR.html)                       | Unprocessed |
 | [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)                                 | Unprocessed |
