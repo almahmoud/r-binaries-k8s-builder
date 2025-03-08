@@ -1541,3 +1541,9 @@ scp
 DSS
 MIRA
 gDRcore
+MSnbase
+MsQuality
+PharmacoGx
+RadioGx
+ToxicoGx
+iSEEtree

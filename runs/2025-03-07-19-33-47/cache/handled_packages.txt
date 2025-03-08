@@ -17,6 +17,7 @@ ASICS
 ASSET
 ASURAT
 AWFisher
+AffiXcan
 AffyRNADegradation
 AlphaBeta
 AlphaMissenseR
@@ -158,6 +159,7 @@ ComPrAn
 ComplexHeatmap
 CompoundDb
 ConsensusClusterPlus
+CoreGx
 Cormotif
 CoverageView
 CuratedAtlasQueryR
@@ -371,6 +373,7 @@ LOLA
 LPE
 LedPred
 LinTInd
+LinkHD
 Linnorm
 LoomExperiment
 LymphoSeq
@@ -447,6 +450,7 @@ MsBackendMsp
 MsBackendRawFileReader
 MsBackendSql
 MsCoreUtils
+MsExperiment
 MsFeatures
 Mulcom
 MultiAssayExperiment
@@ -498,6 +502,7 @@ PLSDAbatch
 POWSC
 PROPER
 PROcess
+PSMatch
 PWMEnrich
 Path2PPI
 PathNet
@@ -1022,6 +1027,7 @@ gypsum
 h5vc
 hapFabia
 hca
+hdxmsqc
 heatmaps
 hiAnnotator
 hiReadsProcessor
@@ -1142,6 +1148,7 @@ miRNApath
 miRcomp
 mia
 miaSim
+miaViz
 microRNA
 microSTASIS
 microbiome
@@ -1169,6 +1176,7 @@ mpra
 msImpute
 msPurity
 msa
+msqrob2
 multiClust
 multiHiCcompare
 multiscan
