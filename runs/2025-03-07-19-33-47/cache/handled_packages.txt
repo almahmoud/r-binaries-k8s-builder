@@ -24,6 +24,7 @@ BioCartaImage
 BiocBaseUtils
 BiocFileCache
 BiocParallel
+BiocStyle
 BiocVersion
 BridgeDbR
 BufferedMatrix
@@ -39,6 +40,7 @@ Chicago
 Clomial
 ClusterJudge
 ClusterSignificance
+ComPrAn
 CytoGLMM
 DART
 DCATS
@@ -56,6 +58,7 @@ DiffLogo
 EBSeq
 EMDomics
 EmpiricalBrownsMethod
+EnMCB
 EnhancedVolcano
 EpiDISH
 FGNet
@@ -70,6 +73,9 @@ GSgalgoR
 GenProSeq
 GladiaTOX
 GraphAlignment
+HDTD
+HIREewas
+HPiP
 Herper
 HilbertVis
 HilbertVisGUI
@@ -139,11 +145,13 @@ ROC
 RProtoBufLib
 RTCGA
 RankProd
+Rbowtie
 Rbwa
 Rcollectl
 Rdisop
 RedeR
 RedisParam
+Rfastp
 Rhdf5lib
 Rhtslib
 Rsubread
@@ -193,6 +201,7 @@ biodbHmdb
 biodbNcbi
 biodbNci
 biodbUniprot
+biomformat
 brendaDb
 bugsigdbr
 calm
@@ -222,9 +231,12 @@ decontam
 decoupleR
 deltaGseg
 demuxmix
+densvis
 diffGeneAnalysis
+diffuStats
 dir.expiry
 dks
+drawProteins
 dupRadar
 easyreporting
 eds
@@ -339,6 +351,7 @@ sSeq
 sagenhaft
 scBubbletree
 scFeatureFilter
+scMitoMut
 scRecover
 scShapes
 scTHI
@@ -365,6 +378,7 @@ survcomp
 swfdr
 switchBox
 synergyfinder
+synlet
 systemPipeShiny
 tanggle
 ternarynet

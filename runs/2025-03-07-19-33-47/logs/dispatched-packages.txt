@@ -446,3 +446,7 @@ biomformat
 scMitoMut
 BiocNeighbors
 synlet
+BiocWorkflowTools
+COMPASS
+abseqR
+hypeR

@@ -1,2 +1,4 @@
-BiocNeighbors
-synlet
+BiocWorkflowTools
+COMPASS
+abseqR
+hypeR

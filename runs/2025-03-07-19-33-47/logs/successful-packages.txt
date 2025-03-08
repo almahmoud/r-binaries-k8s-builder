@@ -383,3 +383,17 @@ flowPlots
 RankProd
 RNAdecay
 SANTA
+BiocStyle
+biomformat
+ComPrAn
+densvis
+diffuStats
+drawProteins
+EnMCB
+HDTD
+HIREewas
+HPiP
+Rbowtie
+Rfastp
+scMitoMut
+synlet
