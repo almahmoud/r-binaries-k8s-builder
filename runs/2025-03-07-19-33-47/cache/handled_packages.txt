@@ -134,6 +134,7 @@ CellNOptR
 CellScore
 CellTrails
 CelliD
+CexoR
 ChIPComp
 ChIPanalyser
 ChIPseqR
@@ -301,6 +302,7 @@ HDF5Array
 HDTD
 HELP
 HEM
+HERON
 HGC
 HIBAG
 HIPPO
@@ -447,6 +449,7 @@ NanoStringDiff
 NanoStringNCTools
 NanoTube
 Nebulosa
+NetActivity
 NetPathMiner
 NewWave
 NormalyzerDE
@@ -484,6 +487,7 @@ PROcess
 PWMEnrich
 Path2PPI
 PathNet
+PathoStat
 PeacoQC
 Pedixplorer
 PepSetTest
@@ -587,6 +591,7 @@ SCArray
 SCArray.sat
 SCBN
 SCFA
+SCOPE
 SCnorm
 SDAMS
 SELEX
@@ -651,6 +656,7 @@ Summix
 SwathXtend
 SynExtend
 SynMut
+TCC
 TCseq
 TDbasedUFE
 TENxIO
@@ -725,6 +731,7 @@ altcdfenvs
 amplican
 annotationTools
 anota
+anota2seq
 antiProfiles
 apeglm
 aroma.light
@@ -825,6 +832,7 @@ ctsGE
 cyanoFilter
 cycle
 cydar
+cypress
 cytoKernel
 cytoMEM
 cytolib
@@ -872,12 +880,14 @@ eisaR
 epiNEM
 epialleleR
 epidecodeR
+epigraHMM
 epistack
 epistasisGA
 epivizrServer
 erccdashboard
 escheR
 eudysbiome
+fCCAC
 fCI
 fabia
 factDesign

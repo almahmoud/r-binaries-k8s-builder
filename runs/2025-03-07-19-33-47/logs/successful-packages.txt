@@ -1428,3 +1428,13 @@ GEOquery
 GOTHiC
 hiReadsProcessor
 XNAString
+anota2seq
+CexoR
+cypress
+epigraHMM
+fCCAC
+HERON
+NetActivity
+PathoStat
+SCOPE
+TCC
