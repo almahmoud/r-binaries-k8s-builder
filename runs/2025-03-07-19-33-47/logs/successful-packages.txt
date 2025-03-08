@@ -1622,3 +1622,9 @@ rrvgo
 SPsimSeq
 wavClusteR
 xcms
+borealis
+FindIT2
+gmoviz
+msmsEDA
+strandCheckR
+transcriptR

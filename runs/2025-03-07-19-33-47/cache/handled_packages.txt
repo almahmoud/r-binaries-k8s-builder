@@ -268,6 +268,7 @@ FamAgg
 FastqCleaner
 FeatSeekR
 FilterFFPE
+FindIT2
 FitHiC
 FlowSOM
 FuseSOM
@@ -853,6 +854,7 @@ biomformat
 biosigner
 biotmle
 bluster
+borealis
 breakpointR
 brendaDb
 bsseq
@@ -1079,6 +1081,7 @@ ggtreeSpace
 girafe
 glmGamPoi
 globalSeq
+gmoviz
 gpls
 gpuMagic
 granulator
@@ -1251,6 +1254,7 @@ mpra
 msImpute
 msPurity
 msa
+msmsEDA
 msqrob2
 multiClust
 multiHiCcompare
@@ -1535,6 +1539,7 @@ stJoincount
 stageR
 statTarget
 stepNorm
+strandCheckR
 struct
 structToolbox
 subSeq
@@ -1578,6 +1583,7 @@ topconfects
 tpSVG
 tracktables
 tradeSeq
+transcriptR
 transformGamPoi
 transite
 transomics2cytoscape
