@@ -799,3 +799,6 @@ MsBackendMsp
 MsBackendRawFileReader
 MsBackendSql
 SpectraQL
+CONFESS
+DelayedArray
+optimalFlow

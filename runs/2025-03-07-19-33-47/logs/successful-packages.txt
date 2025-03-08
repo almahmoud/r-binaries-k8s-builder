@@ -773,3 +773,12 @@ ClustAll
 flowMatch
 flowMerge
 nempi
+flowMeans
+flowPloidy
+flowSpecs
+MAPFX
+MsBackendMassbank
+msPurity
+rain
+SparseArray
+uSORT

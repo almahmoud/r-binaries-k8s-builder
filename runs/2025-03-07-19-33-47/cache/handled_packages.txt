@@ -203,6 +203,7 @@ Linnorm
 M3C
 MACSQuantifyR
 MANOR
+MAPFX
 MBAmethyl
 MBCB
 MBttest
@@ -231,6 +232,7 @@ Mfuzz
 MiChip
 MiPP
 ModCon
+MsBackendMassbank
 MsCoreUtils
 Mulcom
 MultiMed
@@ -350,6 +352,7 @@ Sconify
 ScreenR
 SharedObject
 SpaceMarkers
+SparseArray
 SpeCond
 Spectra
 Streamer
@@ -501,9 +504,12 @@ flowDensity
 flowFP
 flowGraph
 flowMatch
+flowMeans
 flowMerge
 flowPeaks
+flowPloidy
 flowPlots
+flowSpecs
 flowTime
 flowTrans
 flowViz
@@ -619,6 +625,7 @@ mixOmics
 mnem
 monocle
 mosbi
+msPurity
 multiClust
 multiscan
 multtest
@@ -677,6 +684,7 @@ qusage
 qvalue
 rBiopaxParser
 rWikiPathways
+rain
 randPack
 randRotation
 rawDiag
@@ -762,6 +770,7 @@ tweeDEseq
 twilight
 twoddpcr
 tximport
+uSORT
 unifiedWMWqPCR
 variancePartition
 vbmp
