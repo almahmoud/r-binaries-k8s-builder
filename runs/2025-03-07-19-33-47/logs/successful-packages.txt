@@ -1292,3 +1292,12 @@ rifi
 rifiComparative
 sevenC
 wiggleplotr
+hicVennDiagram
+plyranges
+prebs
+rmspc
+roar
+seqsetvis
+syntenet
+tidyCoverage
+wpm

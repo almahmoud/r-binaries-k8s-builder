@@ -890,6 +890,7 @@ h5vc
 hapFabia
 hca
 heatmaps
+hicVennDiagram
 hierGWAS
 hierinf
 hmdbQuery
@@ -1073,6 +1074,7 @@ plasmut
 plgem
 plier
 plotGrouper
+plyranges
 plyxp
 pmm
 pmp
@@ -1080,6 +1082,7 @@ powerTCR
 ppcseq
 pqsfinder
 pram
+prebs
 preprocessCore
 proDA
 procoil
@@ -1131,7 +1134,9 @@ ribor
 rifi
 rifiComparative
 rmelting
+rmspc
 rnaseqcomp
+roar
 roastgsa
 rols
 rprimer
@@ -1193,6 +1198,7 @@ seqLogo
 seqPattern
 seqTools
 seqcombo
+seqsetvis
 sevenC
 sevenbridges
 shiny.gosling
@@ -1244,11 +1250,13 @@ switchBox
 synapsis
 synergyfinder
 synlet
+syntenet
 systemPipeR
 systemPipeShiny
 tanggle
 target
 ternarynet
+tidyCoverage
 tidyFlowCore
 tidySingleCellExperiment
 tidybulk
@@ -1286,6 +1294,7 @@ vsn
 weaver
 widgetTools
 wiggleplotr
+wpm
 wppi
 xenLite
 xmapbridge
