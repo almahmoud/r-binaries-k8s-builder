@@ -1669,3 +1669,14 @@ PADOG
 qPLEXanalyzer
 segmenter
 TCGAutils
+atena
+coMethDMR
+DNAfusion
+EnrichDO
+GenomicInteractionNodes
+MAIT
+MiRaGE
+mirIntegrator
+MsDataHub
+MSnID
+NanoMethViz

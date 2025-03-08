@@ -212,6 +212,7 @@ DMRcaller
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
+DNAfusion
 DNAshapeR
 DOSE
 DRIMSeq
@@ -254,6 +255,7 @@ EasyCellType
 EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
+EnrichDO
 EnrichedHeatmap
 EpiCompare
 EpiDISH
@@ -326,6 +328,7 @@ GenomicAlignments
 GenomicDataCommons
 GenomicDistributions
 GenomicFeatures
+GenomicInteractionNodes
 GenomicRanges
 GenomicScores
 GenomicSuperSignature
@@ -426,6 +429,7 @@ M3Drop
 MACSQuantifyR
 MACSr
 MAI
+MAIT
 MANOR
 MAPFX
 MAST
@@ -452,6 +456,7 @@ MPAC
 MPFE
 MPRAnalyze
 MSA2dist
+MSnID
 MSnbase
 MSstats
 MSstatsBig
@@ -488,6 +493,7 @@ MethylMix
 Mfuzz
 MiChip
 MiPP
+MiRaGE
 MicrobiotaProcess
 MinimumDistance
 ModCon
@@ -502,6 +508,7 @@ MsBackendMsp
 MsBackendRawFileReader
 MsBackendSql
 MsCoreUtils
+MsDataHub
 MsExperiment
 MsFeatures
 MsQuality
@@ -517,6 +524,7 @@ NCIgraph
 NOISeq
 NPARC
 NTW
+NanoMethViz
 NanoStringDiff
 NanoStringNCTools
 NanoTube
@@ -835,6 +843,7 @@ apeglm
 aroma.light
 arrayQuality
 assorthead
+atena
 autonomics
 awst
 bacon
@@ -919,6 +928,7 @@ cn.farms
 cn.mops
 cnvGSA
 coGPS
+coMethDMR
 coRdon
 cogena
 cogeqc
@@ -1264,6 +1274,7 @@ miloR
 mimager
 mina
 minet
+mirIntegrator
 mirTarRnaSeq
 missRows
 mistyR
