@@ -188,6 +188,7 @@ ChromSCape
 CircSeqAlignTk
 CiteFuse
 ClassifyR
+CleanUpRNAseq
 Clomial
 CluMSID
 ClustAll
@@ -698,6 +699,7 @@ REDseq
 REMP
 RGSEA
 RGraph2js
+RITAN
 RIVER
 RImmPort
 RJMCMCNucleosomes
@@ -1095,6 +1097,7 @@ concordexR
 condiments
 consICA
 consensus
+consensusDE
 consensusSeekeR
 convert
 copa
@@ -1246,6 +1249,7 @@ frenchFISH
 frma
 frmaTools
 funOmics
+funtooNorm
 gCrisprTools
 gDR
 gDRcore
@@ -1671,6 +1675,7 @@ rebook
 receptLoss
 reconsi
 recount3
+recountmethylation
 recoup
 regionalpcs
 regioneR

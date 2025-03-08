@@ -1937,3 +1937,8 @@ Moonlight2R
 REMP
 SurfR
 TFHAZ
+CleanUpRNAseq
+consensusDE
+funtooNorm
+recountmethylation
+RITAN

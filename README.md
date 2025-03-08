@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1939 packages built successfully
+- 1944 packages built successfully
 - 0 packages failed to build
-- 294 packages not yet processed
+- 289 packages not yet processed
 
 
-## Successfully Built (1939)
+## Successfully Built (1944)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1951,8 +1951,13 @@
 | [REMP](https://bioconductor.org/packages/3.20/bioc/html/REMP.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/REMP/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/REMP)                       |
 | [SurfR](https://bioconductor.org/packages/3.20/bioc/html/SurfR.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/SurfR/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SurfR)                      |
 | [TFHAZ](https://bioconductor.org/packages/3.20/bioc/html/TFHAZ.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/TFHAZ/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TFHAZ)                      |
+| [CleanUpRNAseq](https://bioconductor.org/packages/3.20/bioc/html/CleanUpRNAseq.html)                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/CleanUpRNAseq/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CleanUpRNAseq)              |
+| [RITAN](https://bioconductor.org/packages/3.20/bioc/html/RITAN.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/RITAN/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RITAN)                      |
+| [consensusDE](https://bioconductor.org/packages/3.20/bioc/html/consensusDE.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/consensusDE/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/consensusDE)                |
+| [funtooNorm](https://bioconductor.org/packages/3.20/bioc/html/funtooNorm.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/funtooNorm/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/funtooNorm)                 |
+| [recountmethylation](https://bioconductor.org/packages/3.20/bioc/html/recountmethylation.html)                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/recountmethylation/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/recountmethylation)         |
 
-## Not Yet Processed (294)
+## Not Yet Processed (289)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [AGDEX](https://bioconductor.org/packages/3.20/bioc/html/AGDEX.html)                                             | Unprocessed |
@@ -1985,7 +1990,6 @@
 | [ChAMP](https://bioconductor.org/packages/3.20/bioc/html/ChAMP.html)                                             | Unprocessed |
 | [ChIPexoQual](https://bioconductor.org/packages/3.20/bioc/html/ChIPexoQual.html)                                 | Unprocessed |
 | [ChromHeatMap](https://bioconductor.org/packages/3.20/bioc/html/ChromHeatMap.html)                               | Unprocessed |
-| [CleanUpRNAseq](https://bioconductor.org/packages/3.20/bioc/html/CleanUpRNAseq.html)                             | Unprocessed |
 | [CopyNumberPlots](https://bioconductor.org/packages/3.20/bioc/html/CopyNumberPlots.html)                         | Unprocessed |
 | [DAMEfinder](https://bioconductor.org/packages/3.20/bioc/html/DAMEfinder.html)                                   | Unprocessed |
 | [DExMA](https://bioconductor.org/packages/3.20/bioc/html/DExMA.html)                                             | Unprocessed |
@@ -2057,7 +2061,6 @@
 | [R453Plus1Toolbox](https://bioconductor.org/packages/3.20/bioc/html/R453Plus1Toolbox.html)                       | Unprocessed |
 | [RAIDS](https://bioconductor.org/packages/3.20/bioc/html/RAIDS.html)                                             | Unprocessed |
 | [RESOLVE](https://bioconductor.org/packages/3.20/bioc/html/RESOLVE.html)                                         | Unprocessed |
-| [RITAN](https://bioconductor.org/packages/3.20/bioc/html/RITAN.html)                                             | Unprocessed |
 | [RNAAgeCalc](https://bioconductor.org/packages/3.20/bioc/html/RNAAgeCalc.html)                                   | Unprocessed |
 | [RNAmodR](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.html)                                         | Unprocessed |
 | [RNAmodR.AlkAnilineSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.AlkAnilineSeq.html)             | Unprocessed |
@@ -2122,7 +2125,6 @@
 | [circRNAprofiler](https://bioconductor.org/packages/3.20/bioc/html/circRNAprofiler.html)                         | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                                           | Unprocessed |
 | [compEpiTools](https://bioconductor.org/packages/3.20/bioc/html/compEpiTools.html)                               | Unprocessed |
-| [consensusDE](https://bioconductor.org/packages/3.20/bioc/html/consensusDE.html)                                 | Unprocessed |
 | [conumee](https://bioconductor.org/packages/3.20/bioc/html/conumee.html)                                         | Unprocessed |
 | [cosmosR](https://bioconductor.org/packages/3.20/bioc/html/cosmosR.html)                                         | Unprocessed |
 | [cpvSNP](https://bioconductor.org/packages/3.20/bioc/html/cpvSNP.html)                                           | Unprocessed |
@@ -2155,7 +2157,6 @@
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                                   | Unprocessed |
 | [fcScan](https://bioconductor.org/packages/3.20/bioc/html/fcScan.html)                                           | Unprocessed |
 | [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                               | Unprocessed |
-| [funtooNorm](https://bioconductor.org/packages/3.20/bioc/html/funtooNorm.html)                                   | Unprocessed |
 | [gDNAx](https://bioconductor.org/packages/3.20/bioc/html/gDNAx.html)                                             | Unprocessed |
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                                     | Unprocessed |
 | [gep2pep](https://bioconductor.org/packages/3.20/bioc/html/gep2pep.html)                                         | Unprocessed |
@@ -2210,7 +2211,6 @@
 | [psichomics](https://bioconductor.org/packages/3.20/bioc/html/psichomics.html)                                   | Unprocessed |
 | [quantro](https://bioconductor.org/packages/3.20/bioc/html/quantro.html)                                         | Unprocessed |
 | [recount](https://bioconductor.org/packages/3.20/bioc/html/recount.html)                                         | Unprocessed |
-| [recountmethylation](https://bioconductor.org/packages/3.20/bioc/html/recountmethylation.html)                   | Unprocessed |
 | [regionReport](https://bioconductor.org/packages/3.20/bioc/html/regionReport.html)                               | Unprocessed |
 | [regutools](https://bioconductor.org/packages/3.20/bioc/html/regutools.html)                                     | Unprocessed |
 | [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)                 | Unprocessed |
