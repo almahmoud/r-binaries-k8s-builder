@@ -22,14 +22,20 @@ AnVILBilling
 AnVILGCP
 AnVILPublish
 AnVILWorkflow
+AnnotationFilter
 BADER
 BAGS
+BCRANK
 BEclear
 BG2
+BPRMeth
+BRAIN
+BREW3R.r
 BUS
 BaseSpaceR
 BayesKnockdown
 BeadDataPackR
+BiFET
 BiGGR
 BiRewire
 BioCartaImage
@@ -46,6 +52,7 @@ BiocIO
 BiocNeighbors
 BiocParallel
 BiocPkgTools
+BiocSingular
 BiocStyle
 BiocVersion
 BiocWorkflowTools
@@ -70,11 +77,13 @@ CNORdt
 CNORfeeder
 CNORfuzzy
 CNORode
+CNVMetrics
 COMPASS
 CONFESS
 CONSTANd
 COSNet
 CRImage
+CSAR
 CTDquerier
 Cardinal
 CardinalIO
@@ -96,15 +105,19 @@ CytoDx
 CytoGLMM
 DART
 DCATS
+DECIPHER
 DEGraph
 DEGseq
 DEqMS
 DEsingle
 DFP
 DFplyr
+DMRScan
+DMRcaller
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
+DRIMSeq
 DTA
 DeMAND
 DeconRNASeq
@@ -129,6 +142,7 @@ EMDomics
 EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
+EnrichedHeatmap
 EpiDISH
 ExiMiR
 ExploreModelMatrix
@@ -148,6 +162,7 @@ GEWIST
 GGPA
 GIGSEA
 GLAD
+GMRP
 GPA
 GRENITS
 GSALightning
@@ -164,9 +179,13 @@ GeneExpressionSignature
 GeneGA
 GeneNetworkBuilder
 GeneOverlap
+GeneRegionScan
 GeneSelectMMD
 GeneticsPed
+GenomAutomorphism
 GenomeInfoDb
+GenomicDataCommons
+GenomicDistributions
 GenomicRanges
 GladiaTOX
 GraphAT
@@ -221,6 +240,7 @@ MBCB
 MBttest
 MEIGOR
 MMUPHin
+MOFA2
 MOGAMUN
 MPFE
 MSstats
@@ -283,6 +303,7 @@ PROPER
 PROcess
 Path2PPI
 PathNet
+PeacoQC
 Pedixplorer
 PepsNMR
 PhenStat
@@ -290,6 +311,7 @@ PhenoGeneRanker
 PoDCall
 ProtGenerics
 QUBIC
+Qtlizer
 QuaternaryProd
 RAREsim
 RBGL
@@ -354,6 +376,7 @@ SANTA
 SBMLR
 SCBN
 SCFA
+SELEX
 SIMAT
 SIMD
 SIMLR
@@ -373,6 +396,7 @@ SamSPECTRAL
 ScaledMatrix
 Sconify
 ScreenR
+SeqArray
 SharedObject
 SpaceMarkers
 SparseArray
@@ -380,6 +404,7 @@ SpeCond
 Spectra
 SpectraQL
 Streamer
+Structstrings
 Summix
 SwathXtend
 TMixClust
@@ -391,6 +416,7 @@ TargetDecoy
 TargetScore
 TargetSearch
 TileDBArray
+TnT
 TrajectoryGeometry
 TreeAndLeaf
 TurboNorm
@@ -456,7 +482,9 @@ cellmigRation
 cellscape
 cellxgenedp
 chopsticks
+chromDraw
 cisPath
+cleaver
 clevRvis
 clippda
 clst
@@ -559,6 +587,7 @@ gemini
 genArise
 geneClassifiers
 geneRecommender
+geneRxCluster
 geneplast
 genoCN
 genomes

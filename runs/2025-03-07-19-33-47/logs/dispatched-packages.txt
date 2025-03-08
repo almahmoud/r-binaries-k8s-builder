@@ -932,3 +932,15 @@ target
 transite
 triplex
 universalmotif
+AssessORF
+BANDITS
+CompoundDb
+DelayedTensor
+GBScleanR
+GDSArray
+Melissa
+PCAtools
+SAIGEgds
+SeqVarTools
+SynExtend
+ggmanh
