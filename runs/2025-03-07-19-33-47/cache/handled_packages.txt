@@ -58,6 +58,7 @@ BSgenomeForge
 BUMHMM
 BUS
 BUScorrect
+BUSpaRse
 BUSseq
 BaalChIP
 Banksy
@@ -117,6 +118,7 @@ CGHcall
 CGHnormaliter
 CGHregions
 CHETAH
+CHRONOS
 CIMICE
 CINdex
 CMA
@@ -144,6 +146,7 @@ CTSV
 CTdata
 CTexploreR
 CaDrA
+CaMutQC
 Cardinal
 CardinalIO
 CatsCradle
@@ -441,6 +444,7 @@ MBAmethyl
 MBCB
 MBQN
 MBttest
+MCbiclust
 MDTS
 MEB
 MEDME
@@ -448,6 +452,7 @@ MEIGOR
 MGnifyR
 MICSQTL
 MIRA
+MLP
 MLSeq
 MMDiff2
 MMUPHin
@@ -903,12 +908,14 @@ bsseq
 bugsigdbr
 bumphunter
 cBioPortalData
+cTRAP
 calm
 cancerclass
 casper
 cbpManager
 ccImpute
 ccfindR
+ccmap
 ccrepe
 ceRNAnetsim
 celaref
@@ -1143,6 +1150,7 @@ glmGamPoi
 globalSeq
 gmoviz
 goProfiles
+goSTAG
 goTools
 gpls
 gpuMagic
@@ -1158,6 +1166,7 @@ hapFabia
 hca
 hdxmsqc
 heatmaps
+hermes
 hiAnnotator
 hiReadsProcessor
 hicVennDiagram
@@ -1209,6 +1218,7 @@ infinityFlow
 interacCircos
 interactiveDisplayBase
 ipdDb
+isobar
 isomiRs
 iterativeBMA
 iterativeBMAsurv
@@ -1374,6 +1384,7 @@ onlineFDR
 ontoProc
 openCyto
 openPrimeR
+oposSOM
 oppti
 optimalFlow
 orthogene
@@ -1391,6 +1402,7 @@ partCNV
 pathRender
 pathifier
 pathlinkR
+pathview
 pathwayPCA
 pcaMethods
 pdInfoBuilder
@@ -1525,6 +1537,7 @@ sangeranalyseR
 sangerseqR
 sarks
 satuRn
+scAnnotatR
 scBubbletree
 scCB2
 scDD
@@ -1634,6 +1647,7 @@ struct
 structToolbox
 subSeq
 supersigs
+surfaltr
 survClust
 survcomp
 survtype
@@ -1693,6 +1707,7 @@ ttgsea
 tweeDEseq
 twilight
 twoddpcr
+txdbmaker
 tximport
 uSORT
 unifiedWMWqPCR
