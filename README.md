@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2072 packages built successfully
+- 2076 packages built successfully
 - 0 packages failed to build
-- 161 packages not yet processed
+- 157 packages not yet processed
 
 
-## Successfully Built (2072)
+## Successfully Built (2076)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -2084,8 +2084,12 @@
 | [epivizrStandalone](https://bioconductor.org/packages/3.20/bioc/html/epivizrStandalone.html)                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/epivizrStandalone/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epivizrStandalone)          |
 | [methodical](https://bioconductor.org/packages/3.20/bioc/html/methodical.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/methodical/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methodical)                 |
 | [myvariant](https://bioconductor.org/packages/3.20/bioc/html/myvariant.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/myvariant/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/myvariant)                  |
+| [ProteoDisco](https://bioconductor.org/packages/3.20/bioc/html/ProteoDisco.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/ProteoDisco/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ProteoDisco)                |
+| [SigsPack](https://bioconductor.org/packages/3.20/bioc/html/SigsPack.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/SigsPack/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SigsPack)                   |
+| [UPDhmm](https://bioconductor.org/packages/3.20/bioc/html/UPDhmm.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/UPDhmm/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/UPDhmm)                     |
+| [signatureSearch](https://bioconductor.org/packages/3.20/bioc/html/signatureSearch.html)                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/signatureSearch/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/signatureSearch)            |
 
-## Not Yet Processed (161)
+## Not Yet Processed (157)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                             | Unprocessed |
@@ -2131,7 +2135,6 @@
 | [OGRE](https://bioconductor.org/packages/3.20/bioc/html/OGRE.html)                                               | Unprocessed |
 | [OMICsPCA](https://bioconductor.org/packages/3.20/bioc/html/OMICsPCA.html)                                       | Unprocessed |
 | [PING](https://bioconductor.org/packages/3.20/bioc/html/PING.html)                                               | Unprocessed |
-| [ProteoDisco](https://bioconductor.org/packages/3.20/bioc/html/ProteoDisco.html)                                 | Unprocessed |
 | [PureCN](https://bioconductor.org/packages/3.20/bioc/html/PureCN.html)                                           | Unprocessed |
 | [Pviz](https://bioconductor.org/packages/3.20/bioc/html/Pviz.html)                                               | Unprocessed |
 | [QuasR](https://bioconductor.org/packages/3.20/bioc/html/QuasR.html)                                             | Unprocessed |
@@ -2152,13 +2155,11 @@
 | [SGCP](https://bioconductor.org/packages/3.20/bioc/html/SGCP.html)                                               | Unprocessed |
 | [SNPhood](https://bioconductor.org/packages/3.20/bioc/html/SNPhood.html)                                         | Unprocessed |
 | [SPLINTER](https://bioconductor.org/packages/3.20/bioc/html/SPLINTER.html)                                       | Unprocessed |
-| [SigsPack](https://bioconductor.org/packages/3.20/bioc/html/SigsPack.html)                                       | Unprocessed |
 | [SingleMoleculeFootprinting](https://bioconductor.org/packages/3.20/bioc/html/SingleMoleculeFootprinting.html)   | Unprocessed |
 | [SomaticSignatures](https://bioconductor.org/packages/3.20/bioc/html/SomaticSignatures.html)                     | Unprocessed |
 | [StructuralVariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/StructuralVariantAnnotation.html) | Unprocessed |
 | [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                               | Unprocessed |
 | [TitanCNA](https://bioconductor.org/packages/3.20/bioc/html/TitanCNA.html)                                       | Unprocessed |
-| [UPDhmm](https://bioconductor.org/packages/3.20/bioc/html/UPDhmm.html)                                           | Unprocessed |
 | [Uniquorn](https://bioconductor.org/packages/3.20/bioc/html/Uniquorn.html)                                       | Unprocessed |
 | [VCFArray](https://bioconductor.org/packages/3.20/bioc/html/VCFArray.html)                                       | Unprocessed |
 | [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)                       | Unprocessed |
@@ -2237,7 +2238,6 @@
 | [scTensor](https://bioconductor.org/packages/3.20/bioc/html/scTensor.html)                                       | Unprocessed |
 | [scTreeViz](https://bioconductor.org/packages/3.20/bioc/html/scTreeViz.html)                                     | Unprocessed |
 | [scruff](https://bioconductor.org/packages/3.20/bioc/html/scruff.html)                                           | Unprocessed |
-| [signatureSearch](https://bioconductor.org/packages/3.20/bioc/html/signatureSearch.html)                         | Unprocessed |
 | [singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)                               | Unprocessed |
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                             | Unprocessed |
 | [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                                         | Unprocessed |

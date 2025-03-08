@@ -2070,3 +2070,7 @@ GenomicFiles
 MADSEQ
 methodical
 myvariant
+ProteoDisco
+signatureSearch
+SigsPack
+UPDhmm

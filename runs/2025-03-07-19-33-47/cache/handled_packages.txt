@@ -722,6 +722,7 @@ PolySTest
 PrInCE
 Prostar
 ProtGenerics
+ProteoDisco
 ProteoMM
 QDNAseq
 QFeatures
@@ -887,6 +888,7 @@ ShortRead
 SiPSiC
 SigCheck
 SigFuge
+SigsPack
 SimBu
 SimFFPE
 SingleCellAlleleExperiment
@@ -969,6 +971,7 @@ UCSC.utils
 UCell
 UMI4Cats
 UNDO
+UPDhmm
 Ularcirc
 UniProt.ws
 VAExprs
@@ -1907,6 +1910,7 @@ shinyepico
 sigFeature
 siggenes
 sights
+signatureSearch
 signeR
 sigsquared
 simPIC
