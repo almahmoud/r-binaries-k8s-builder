@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1423 packages built successfully
+- 1430 packages built successfully
 - 0 packages failed to build
-- 810 packages not yet processed
+- 803 packages not yet processed
 
 
-## Successfully Built (1423)
+## Successfully Built (1430)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1435,8 +1435,15 @@
 | [easylift](https://bioconductor.org/packages/3.20/bioc/html/easylift.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/easylift/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/easylift)                   |
 | [groHMM](https://bioconductor.org/packages/3.20/bioc/html/groHMM.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/groHMM/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/groHMM)                     |
 | [iCNV](https://bioconductor.org/packages/3.20/bioc/html/iCNV.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/iCNV/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iCNV)                       |
+| [GEOquery](https://bioconductor.org/packages/3.20/bioc/html/GEOquery.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/GEOquery/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GEOquery)                   |
+| [GOTHiC](https://bioconductor.org/packages/3.20/bioc/html/GOTHiC.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/GOTHiC/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GOTHiC)                     |
+| [XNAString](https://bioconductor.org/packages/3.20/bioc/html/XNAString.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/XNAString/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/XNAString)                  |
+| [consensusSeekeR](https://bioconductor.org/packages/3.20/bioc/html/consensusSeekeR.html)                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/consensusSeekeR/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/consensusSeekeR)            |
+| [diffcyt](https://bioconductor.org/packages/3.20/bioc/html/diffcyt.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/diffcyt/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/diffcyt)                    |
+| [epidecodeR](https://bioconductor.org/packages/3.20/bioc/html/epidecodeR.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/epidecodeR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epidecodeR)                 |
+| [hiReadsProcessor](https://bioconductor.org/packages/3.20/bioc/html/hiReadsProcessor.html)                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/hiReadsProcessor/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hiReadsProcessor)           |
 
-## Not Yet Processed (810)
+## Not Yet Processed (803)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADAM](https://bioconductor.org/packages/3.20/bioc/html/ADAM.html)                                               | Unprocessed |
@@ -1566,10 +1573,8 @@
 | [GARS](https://bioconductor.org/packages/3.20/bioc/html/GARS.html)                                               | Unprocessed |
 | [GDCRNATools](https://bioconductor.org/packages/3.20/bioc/html/GDCRNATools.html)                                 | Unprocessed |
 | [GEOexplorer](https://bioconductor.org/packages/3.20/bioc/html/GEOexplorer.html)                                 | Unprocessed |
-| [GEOquery](https://bioconductor.org/packages/3.20/bioc/html/GEOquery.html)                                       | Unprocessed |
 | [GNOSIS](https://bioconductor.org/packages/3.20/bioc/html/GNOSIS.html)                                           | Unprocessed |
 | [GOSemSim](https://bioconductor.org/packages/3.20/bioc/html/GOSemSim.html)                                       | Unprocessed |
-| [GOTHiC](https://bioconductor.org/packages/3.20/bioc/html/GOTHiC.html)                                           | Unprocessed |
 | [GOexpress](https://bioconductor.org/packages/3.20/bioc/html/GOexpress.html)                                     | Unprocessed |
 | [GOfuncR](https://bioconductor.org/packages/3.20/bioc/html/GOfuncR.html)                                         | Unprocessed |
 | [GOpro](https://bioconductor.org/packages/3.20/bioc/html/GOpro.html)                                             | Unprocessed |
@@ -1812,7 +1817,6 @@
 | [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                               | Unprocessed |
 | [VegaMC](https://bioconductor.org/packages/3.20/bioc/html/VegaMC.html)                                           | Unprocessed |
 | [XDE](https://bioconductor.org/packages/3.20/bioc/html/XDE.html)                                                 | Unprocessed |
-| [XNAString](https://bioconductor.org/packages/3.20/bioc/html/XNAString.html)                                     | Unprocessed |
 | [Xeva](https://bioconductor.org/packages/3.20/bioc/html/Xeva.html)                                               | Unprocessed |
 | [YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)                                             | Unprocessed |
 | [ZygosityPredictor](https://bioconductor.org/packages/3.20/bioc/html/ZygosityPredictor.html)                     | Unprocessed |
@@ -1895,7 +1899,6 @@
 | [condiments](https://bioconductor.org/packages/3.20/bioc/html/condiments.html)                                   | Unprocessed |
 | [consICA](https://bioconductor.org/packages/3.20/bioc/html/consICA.html)                                         | Unprocessed |
 | [consensusDE](https://bioconductor.org/packages/3.20/bioc/html/consensusDE.html)                                 | Unprocessed |
-| [consensusSeekeR](https://bioconductor.org/packages/3.20/bioc/html/consensusSeekeR.html)                         | Unprocessed |
 | [conumee](https://bioconductor.org/packages/3.20/bioc/html/conumee.html)                                         | Unprocessed |
 | [corral](https://bioconductor.org/packages/3.20/bioc/html/corral.html)                                           | Unprocessed |
 | [coseq](https://bioconductor.org/packages/3.20/bioc/html/coseq.html)                                             | Unprocessed |
@@ -1928,7 +1931,6 @@
 | [derfinderPlot](https://bioconductor.org/packages/3.20/bioc/html/derfinderPlot.html)                             | Unprocessed |
 | [diffUTR](https://bioconductor.org/packages/3.20/bioc/html/diffUTR.html)                                         | Unprocessed |
 | [diffcoexp](https://bioconductor.org/packages/3.20/bioc/html/diffcoexp.html)                                     | Unprocessed |
-| [diffcyt](https://bioconductor.org/packages/3.20/bioc/html/diffcyt.html)                                         | Unprocessed |
 | [distinct](https://bioconductor.org/packages/3.20/bioc/html/distinct.html)                                       | Unprocessed |
 | [dmrseq](https://bioconductor.org/packages/3.20/bioc/html/dmrseq.html)                                           | Unprocessed |
 | [dominoSignal](https://bioconductor.org/packages/3.20/bioc/html/dominoSignal.html)                               | Unprocessed |
@@ -1943,7 +1945,6 @@
 | [enrichViewNet](https://bioconductor.org/packages/3.20/bioc/html/enrichViewNet.html)                             | Unprocessed |
 | [enrichplot](https://bioconductor.org/packages/3.20/bioc/html/enrichplot.html)                                   | Unprocessed |
 | [ensembldb](https://bioconductor.org/packages/3.20/bioc/html/ensembldb.html)                                     | Unprocessed |
-| [epidecodeR](https://bioconductor.org/packages/3.20/bioc/html/epidecodeR.html)                                   | Unprocessed |
 | [epigenomix](https://bioconductor.org/packages/3.20/bioc/html/epigenomix.html)                                   | Unprocessed |
 | [epigraHMM](https://bioconductor.org/packages/3.20/bioc/html/epigraHMM.html)                                     | Unprocessed |
 | [epimutacions](https://bioconductor.org/packages/3.20/bioc/html/epimutacions.html)                               | Unprocessed |
@@ -2001,7 +2002,6 @@
 | [gwasurvivr](https://bioconductor.org/packages/3.20/bioc/html/gwasurvivr.html)                                   | Unprocessed |
 | [hdxmsqc](https://bioconductor.org/packages/3.20/bioc/html/hdxmsqc.html)                                         | Unprocessed |
 | [hermes](https://bioconductor.org/packages/3.20/bioc/html/hermes.html)                                           | Unprocessed |
-| [hiReadsProcessor](https://bioconductor.org/packages/3.20/bioc/html/hiReadsProcessor.html)                       | Unprocessed |
 | [hipathia](https://bioconductor.org/packages/3.20/bioc/html/hipathia.html)                                       | Unprocessed |
 | [hpar](https://bioconductor.org/packages/3.20/bioc/html/hpar.html)                                               | Unprocessed |
 | [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                                           | Unprocessed |

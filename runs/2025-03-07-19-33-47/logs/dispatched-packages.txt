@@ -1483,3 +1483,9 @@ regioneReloaded
 CexoR
 fCCAC
 hiReadsProcessor
+ChIPXpress
+EGAD
+RJMCMCNucleosomes
+censcyt
+treeclimbR
+treekoR

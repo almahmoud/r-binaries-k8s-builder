@@ -1421,3 +1421,10 @@ groHMM
 iCNV
 Rbec
 SpatialDecon
+consensusSeekeR
+diffcyt
+epidecodeR
+GEOquery
+GOTHiC
+hiReadsProcessor
+XNAString

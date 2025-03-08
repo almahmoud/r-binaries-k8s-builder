@@ -248,6 +248,7 @@ GENESIS
 GENIE3
 GEOfastq
 GEOmetadb
+GEOquery
 GEOsubmission
 GEWIST
 GGPA
@@ -255,6 +256,7 @@ GIGSEA
 GLAD
 GMRP
 GNET2
+GOTHiC
 GPA
 GRENITS
 GRmetrics
@@ -689,6 +691,7 @@ Voyager
 VplotR
 Wrench
 XINA
+XNAString
 XVector
 a4Classif
 a4Core
@@ -807,6 +810,7 @@ compSPOT
 compcodeR
 concordexR
 consensus
+consensusSeekeR
 convert
 copa
 covEB
@@ -845,6 +849,7 @@ derfinderHelper
 destiny
 diffGeneAnalysis
 diffHic
+diffcyt
 diffuStats
 diggit
 dinoR
@@ -866,6 +871,7 @@ eiR
 eisaR
 epiNEM
 epialleleR
+epidecodeR
 epistack
 epistasisGA
 epivizrServer
@@ -968,6 +974,7 @@ hapFabia
 hca
 heatmaps
 hiAnnotator
+hiReadsProcessor
 hicVennDiagram
 hierGWAS
 hierinf
