@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2118 packages built successfully
+- 2127 packages built successfully
 - 0 packages failed to build
-- 115 packages not yet processed
+- 106 packages not yet processed
 
 
-## Successfully Built (2118)
+## Successfully Built (2127)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2130,8 +2130,17 @@
 | [karyoploteR](https://bioconductor.org/packages/3.20/bioc/html/karyoploteR.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/karyoploteR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/karyoploteR)                 |
 | [Gviz](https://bioconductor.org/packages/3.20/bioc/html/Gviz.html)                                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/Gviz/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Gviz)                        |
 | [vtpnet](https://bioconductor.org/packages/3.20/bioc/html/vtpnet.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/vtpnet/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/vtpnet)                      |
+| [MatrixRider](https://bioconductor.org/packages/3.20/bioc/html/MatrixRider.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/MatrixRider/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MatrixRider)                 |
+| [MethReg](https://bioconductor.org/packages/3.20/bioc/html/MethReg.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/MethReg/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MethReg)                     |
+| [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/VariantTools/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VariantTools)                |
+| [chromVAR](https://bioconductor.org/packages/3.20/bioc/html/chromVAR.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/chromVAR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/chromVAR)                    |
+| [crisprDesign](https://bioconductor.org/packages/3.20/bioc/html/crisprDesign.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/crisprDesign/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/crisprDesign)                |
+| [ggbio](https://bioconductor.org/packages/3.20/bioc/html/ggbio.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/ggbio/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ggbio)                       |
+| [methylGSA](https://bioconductor.org/packages/3.20/bioc/html/methylGSA.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/methylGSA/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methylGSA)                   |
+| [mitoClone2](https://bioconductor.org/packages/3.20/bioc/html/mitoClone2.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/mitoClone2/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mitoClone2)                  |
+| [regionReport](https://bioconductor.org/packages/3.20/bioc/html/regionReport.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/regionReport/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/regionReport)                |
 
-## Not Yet Processed (115)
+## Not Yet Processed (106)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                 | Unprocessed |
@@ -2158,8 +2167,6 @@
 | [HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)                         | Unprocessed |
 | [MEAL](https://bioconductor.org/packages/3.20/bioc/html/MEAL.html)                                   | Unprocessed |
 | [MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)                                   | Unprocessed |
-| [MatrixRider](https://bioconductor.org/packages/3.20/bioc/html/MatrixRider.html)                     | Unprocessed |
-| [MethReg](https://bioconductor.org/packages/3.20/bioc/html/MethReg.html)                             | Unprocessed |
 | [MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)                             | Unprocessed |
 | [MungeSumstats](https://bioconductor.org/packages/3.20/bioc/html/MungeSumstats.html)                 | Unprocessed |
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                         | Unprocessed |
@@ -2183,7 +2190,6 @@
 | [SomaticSignatures](https://bioconductor.org/packages/3.20/bioc/html/SomaticSignatures.html)         | Unprocessed |
 | [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                   | Unprocessed |
 | [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)           | Unprocessed |
-| [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                   | Unprocessed |
 | [YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)                                 | Unprocessed |
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                 | Unprocessed |
 | [attract](https://bioconductor.org/packages/3.20/bioc/html/attract.html)                             | Unprocessed |
@@ -2192,11 +2198,9 @@
 | [cageminer](https://bioconductor.org/packages/3.20/bioc/html/cageminer.html)                         | Unprocessed |
 | [categoryCompare](https://bioconductor.org/packages/3.20/bioc/html/categoryCompare.html)             | Unprocessed |
 | [chimeraviz](https://bioconductor.org/packages/3.20/bioc/html/chimeraviz.html)                       | Unprocessed |
-| [chromVAR](https://bioconductor.org/packages/3.20/bioc/html/chromVAR.html)                           | Unprocessed |
 | [cicero](https://bioconductor.org/packages/3.20/bioc/html/cicero.html)                               | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                               | Unprocessed |
 | [compEpiTools](https://bioconductor.org/packages/3.20/bioc/html/compEpiTools.html)                   | Unprocessed |
-| [crisprDesign](https://bioconductor.org/packages/3.20/bioc/html/crisprDesign.html)                   | Unprocessed |
 | [crisprShiny](https://bioconductor.org/packages/3.20/bioc/html/crisprShiny.html)                     | Unprocessed |
 | [crisprVerse](https://bioconductor.org/packages/3.20/bioc/html/crisprVerse.html)                     | Unprocessed |
 | [crisprViz](https://bioconductor.org/packages/3.20/bioc/html/crisprViz.html)                         | Unprocessed |
@@ -2211,7 +2215,6 @@
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                       | Unprocessed |
 | [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                   | Unprocessed |
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                         | Unprocessed |
-| [ggbio](https://bioconductor.org/packages/3.20/bioc/html/ggbio.html)                                 | Unprocessed |
 | [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                               | Unprocessed |
 | [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                         | Unprocessed |
 | [ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)                                 | Unprocessed |
@@ -2219,11 +2222,9 @@
 | [interactiveDisplay](https://bioconductor.org/packages/3.20/bioc/html/interactiveDisplay.html)       | Unprocessed |
 | [mCSEA](https://bioconductor.org/packages/3.20/bioc/html/mCSEA.html)                                 | Unprocessed |
 | [maser](https://bioconductor.org/packages/3.20/bioc/html/maser.html)                                 | Unprocessed |
-| [methylGSA](https://bioconductor.org/packages/3.20/bioc/html/methylGSA.html)                         | Unprocessed |
 | [methylPipe](https://bioconductor.org/packages/3.20/bioc/html/methylPipe.html)                       | Unprocessed |
 | [methylclock](https://bioconductor.org/packages/3.20/bioc/html/methylclock.html)                     | Unprocessed |
 | [miRLAB](https://bioconductor.org/packages/3.20/bioc/html/miRLAB.html)                               | Unprocessed |
-| [mitoClone2](https://bioconductor.org/packages/3.20/bioc/html/mitoClone2.html)                       | Unprocessed |
 | [motifbreakR](https://bioconductor.org/packages/3.20/bioc/html/motifbreakR.html)                     | Unprocessed |
 | [msgbsR](https://bioconductor.org/packages/3.20/bioc/html/msgbsR.html)                               | Unprocessed |
 | [multicrispr](https://bioconductor.org/packages/3.20/bioc/html/multicrispr.html)                     | Unprocessed |
@@ -2234,7 +2235,6 @@
 | [primirTSS](https://bioconductor.org/packages/3.20/bioc/html/primirTSS.html)                         | Unprocessed |
 | [psichomics](https://bioconductor.org/packages/3.20/bioc/html/psichomics.html)                       | Unprocessed |
 | [recount](https://bioconductor.org/packages/3.20/bioc/html/recount.html)                             | Unprocessed |
-| [regionReport](https://bioconductor.org/packages/3.20/bioc/html/regionReport.html)                   | Unprocessed |
 | [regutools](https://bioconductor.org/packages/3.20/bioc/html/regutools.html)                         | Unprocessed |
 | [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)     | Unprocessed |
 | [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                 | Unprocessed |

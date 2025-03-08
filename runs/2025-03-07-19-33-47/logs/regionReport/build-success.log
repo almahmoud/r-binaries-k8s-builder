@@ -1,0 +1,28 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'regionReport'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/regionReport_1.40.0.tar.gz'
+Content type 'application/x-gzip' length 660051 bytes (644 KB)
+==================================================
+downloaded 644 KB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-regionReport’
+
+The downloaded source packages are in
+	‘/tmp/Rtmp3YEPDF/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘regionReport’ had non-zero exit status
+
+real	1m35.828s
+user	0m11.707s
+sys	0m3.931s

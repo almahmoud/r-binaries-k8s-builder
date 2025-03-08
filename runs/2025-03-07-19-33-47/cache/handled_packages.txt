@@ -592,6 +592,7 @@ MassArray
 MassSpecWavelet
 MatrixGenerics
 MatrixQCvis
+MatrixRider
 MeSHDbi
 MeasurementError.cor
 Melissa
@@ -608,6 +609,7 @@ MetaboAnnotation
 MetaboCoreUtils
 MetaboSignal
 MethPed
+MethReg
 MethTargetedNGS
 MethylAid
 MethylMix
@@ -1004,6 +1006,7 @@ VanillaICE
 VarCon
 VariantAnnotation
 VariantExperiment
+VariantTools
 VegaMC
 VennDetail
 VisiumIO
@@ -1164,6 +1167,7 @@ chipseq
 chopsticks
 chromDraw
 chromPlot
+chromVAR
 chromstaR
 circRNAprofiler
 cisPath
@@ -1217,6 +1221,7 @@ cqn
 crisprBase
 crisprBowtie
 crisprBwa
+crisprDesign
 crisprScore
 crlmm
 csaw
@@ -1408,6 +1413,7 @@ gep2pep
 getDEE2
 geva
 gg4way
+ggbio
 ggcyto
 ggkegg
 ggmanh
@@ -1587,6 +1593,7 @@ methodical
 methrix
 methyLImp2
 methylCC
+methylGSA
 methylInheritance
 methylKit
 methylMnM
@@ -1624,6 +1631,7 @@ missMethyl
 missRows
 mistyR
 mitch
+mitoClone2
 mixOmics
 mnem
 moanin
@@ -1828,6 +1836,7 @@ reconsi
 recount3
 recountmethylation
 recoup
+regionReport
 regionalpcs
 regioneR
 regioneReloaded

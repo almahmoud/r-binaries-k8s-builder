@@ -2116,3 +2116,12 @@ Rqc
 SingleMoleculeFootprinting
 Gviz
 vtpnet
+chromVAR
+crisprDesign
+ggbio
+MatrixRider
+MethReg
+methylGSA
+mitoClone2
+regionReport
+VariantTools

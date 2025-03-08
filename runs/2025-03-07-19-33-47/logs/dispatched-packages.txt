@@ -2180,3 +2180,17 @@ regutools
 tadar
 trackViewer
 uncoverappLib
+BOBaFIT
+CAFE
+Damsel
+FLAMES
+GenomicOZone
+R3CPET
+RiboProfiling
+SomaticSignatures
+cageminer
+crisprViz
+derfinderPlot
+intansv
+msgbsR
+scruff
