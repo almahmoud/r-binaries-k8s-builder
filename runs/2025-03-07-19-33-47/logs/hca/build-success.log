@@ -1,0 +1,134 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'hca'
+also installing the dependencies ‘DelayedArray’, ‘HDF5Array’, ‘LoomExperiment’, ‘SummarizedExperiment’, ‘SingleCellExperiment’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/HDF5Array_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 8107009 bytes (7.7 MB)
+==================================================
+downloaded 7.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/LoomExperiment_1.24.0.tar.gz'
+Content type 'application/x-gzip' length 259831 bytes (253 KB)
+==================================================
+downloaded 253 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SingleCellExperiment_1.28.1.tar.gz'
+Content type 'application/x-gzip' length 985694 bytes (962 KB)
+==================================================
+downloaded 962 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/hca_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 502721 bytes (490 KB)
+==================================================
+downloaded 490 KB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-DelayedArray’
+* installing *source* package ‘hca’ ...
+** package ‘hca’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘hca’ as ‘hca_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hca)
+* installing *source* package ‘HDF5Array’ ...
+** package ‘HDF5Array’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c S4Vectors_stubs.c -o S4Vectors_stubs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5File.c -o H5File.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c global_errmsg_buf.c -o global_errmsg_buf.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c H5DSetDescriptor.c -o H5DSetDescriptor.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c h5dimscales.c -o h5dimscales.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c uaselection.c -o uaselection.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c h5mread_helpers.c -o h5mread_helpers.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c h5mread_startscounts.c -o h5mread_startscounts.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ChunkIterator.c -o ChunkIterator.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c h5mread_index.c -o h5mread_index.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c h5mread_sparse.c -o h5mread_sparse.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c h5mread.c -o h5mread.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c h5summarize.c -o h5summarize.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_HDF5Array.c -o R_init_HDF5Array.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o HDF5Array.so S4Vectors_stubs.o H5File.o global_errmsg_buf.o H5DSetDescriptor.o h5dimscales.o uaselection.o h5mread_helpers.o h5mread_startscounts.o ChunkIterator.o h5mread_index.o h5mread_sparse.o h5mread.o h5summarize.o R_init_HDF5Array.o /mnt/library/Rhdf5lib/lib/libhdf5_hl.a /mnt/library/Rhdf5lib/lib/libhdf5.a -lcrypto -lcurl -lsz -laec -lz -ldl -lm -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-HDF5Array/00new/HDF5Array/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘HDF5Array’ as ‘HDF5Array_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HDF5Array)
+* installing *source* package ‘SummarizedExperiment’ ...
+** package ‘SummarizedExperiment’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+Error: package or namespace load failed for ‘SummarizedExperiment’ in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]):
+ there is no package called ‘DelayedArray’
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/SummarizedExperiment’
+* restoring previous ‘/mnt/library/SummarizedExperiment’
+ERROR: dependency ‘DelayedArray’ is not available for package ‘SingleCellExperiment’
+* removing ‘/mnt/library/SingleCellExperiment’
+ERROR: dependencies ‘SingleCellExperiment’, ‘DelayedArray’ are not available for package ‘LoomExperiment’
+* removing ‘/mnt/library/LoomExperiment’
+
+The downloaded source packages are in
+	‘/tmp/Rtmp84Elva/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘DelayedArray’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘SummarizedExperiment’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘SingleCellExperiment’ had non-zero exit status
+4: In install.packages(...) :
+  installation of package ‘LoomExperiment’ had non-zero exit status
+
+real	2m21.951s
+user	0m48.554s
+sys	0m11.117s

@@ -432,3 +432,4 @@ biodbNcbi
 biodbNci
 biodbUniprot
 clst
+rhdf5

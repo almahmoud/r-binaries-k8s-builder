@@ -1,0 +1,101 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'CytoGLMM'
+also installing the dependencies ‘flashClust’, ‘multcompView’, ‘FactoMineR’, ‘factoextra’, ‘mbest’, ‘strucchange’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/flashClust_1.01-2.tar.gz'
+Content type 'binary/octet-stream' length 21024 bytes (20 KB)
+==================================================
+downloaded 20 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/multcompView_0.1-10.tar.gz'
+Content type 'binary/octet-stream' length 114942 bytes (112 KB)
+==================================================
+downloaded 112 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/FactoMineR_2.11.tar.gz'
+Content type 'binary/octet-stream' length 3798550 bytes (3.6 MB)
+==================================================
+downloaded 3.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/factoextra_1.0.7.tar.gz'
+Content type 'binary/octet-stream' length 420118 bytes (410 KB)
+==================================================
+downloaded 410 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mbest_0.6.tar.gz'
+Content type 'binary/octet-stream' length 214760 bytes (209 KB)
+==================================================
+downloaded 209 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/strucchange_1.5-4.tar.gz'
+Content type 'binary/octet-stream' length 950057 bytes (927 KB)
+==================================================
+downloaded 927 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/CytoGLMM_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 356160 bytes (347 KB)
+==================================================
+downloaded 347 KB
+
+* installing *binary* package ‘flashClust’ ...
+* ‘flashClust’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘flashClust’ as ‘flashClust_1.01-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (flashClust)
+* installing *binary* package ‘multcompView’ ...
+* ‘multcompView’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘multcompView’ as ‘multcompView_0.1-10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (multcompView)
+* installing *binary* package ‘mbest’ ...
+* ‘mbest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mbest’ as ‘mbest_0.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mbest)
+* installing *binary* package ‘strucchange’ ...
+* ‘strucchange’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘strucchange’ as ‘strucchange_1.5-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (strucchange)
+* installing *binary* package ‘FactoMineR’ ...
+* ‘FactoMineR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘FactoMineR’ as ‘FactoMineR_2.11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FactoMineR)
+* installing *binary* package ‘factoextra’ ...
+* ‘factoextra’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘factoextra’ as ‘factoextra_1.0.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (factoextra)
+* installing *source* package ‘CytoGLMM’ ...
+** package ‘CytoGLMM’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CytoGLMM’ as ‘CytoGLMM_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CytoGLMM)
+
+The downloaded source packages are in
+	‘/tmp/RtmprAD2aY/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+
+real	0m41.978s
+user	0m15.110s
+sys	0m4.687s

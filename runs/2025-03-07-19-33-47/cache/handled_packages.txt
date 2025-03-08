@@ -27,9 +27,11 @@ BiocParallel
 BiocVersion
 BridgeDbR
 BufferedMatrix
+BufferedMatrixMethods
 CARNIVAL
 CFAssay
 CGEN
+CNAnorm
 CONSTANd
 COSNet
 CausalR
@@ -37,14 +39,18 @@ Chicago
 Clomial
 ClusterJudge
 ClusterSignificance
+CytoGLMM
 DART
 DCATS
+DEGseq
+DEsingle
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
 DTA
 DeMAND
 DeepPINCS
+DepInfeR
 DiffLogo
 EBSeq
 EMDomics
@@ -58,6 +64,7 @@ GLAD
 GPA
 GSALightning
 GSEAmining
+GSgalgoR
 GenProSeq
 GladiaTOX
 GraphAlignment
@@ -114,7 +121,9 @@ PhenoGeneRanker
 PoDCall
 ProtGenerics
 QUBIC
+RCASPAR
 RDRToolbox
+REBET
 RImmPort
 RLMM
 RLassoCox
@@ -126,6 +135,7 @@ Rbwa
 Rcollectl
 Rdisop
 RedeR
+RedisParam
 Rhdf5lib
 Rsubread
 SCFA
@@ -158,6 +168,8 @@ biobtreeR
 biocroxytest
 biocthis
 biodb
+biodbChebi
+biodbUniprot
 brendaDb
 bugsigdbr
 calm
@@ -167,6 +179,7 @@ cisPath
 clevRvis
 clustComp
 coGPS
+consensus
 cqn
 ctc
 cytolib
@@ -213,6 +226,7 @@ gpls
 granulator
 graper
 gypsum
+hca
 hierGWAS
 hierinf
 iASeq
@@ -271,6 +285,7 @@ randRotation
 rawrr
 retrofit
 rgoslin
+rhdf5filters
 rmelting
 rnaseqcomp
 rsemmed
