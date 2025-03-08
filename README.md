@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1697 packages built successfully
+- 1699 packages built successfully
 - 0 packages failed to build
-- 536 packages not yet processed
+- 534 packages not yet processed
 
 
-## Successfully Built (1697)
+## Successfully Built (1699)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1709,8 +1709,10 @@
 | [famat](https://bioconductor.org/packages/3.20/bioc/html/famat.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/famat/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/famat)                      |
 | [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/flagme/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flagme)                     |
 | [pathlinkR](https://bioconductor.org/packages/3.20/bioc/html/pathlinkR.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/pathlinkR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pathlinkR)                  |
+| [Xeva](https://bioconductor.org/packages/3.20/bioc/html/Xeva.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/Xeva/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Xeva)                       |
+| [adSplit](https://bioconductor.org/packages/3.20/bioc/html/adSplit.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/adSplit/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/adSplit)                    |
 
-## Not Yet Processed (536)
+## Not Yet Processed (534)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1969,12 +1971,10 @@
 | [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                               | Unprocessed |
 | [VegaMC](https://bioconductor.org/packages/3.20/bioc/html/VegaMC.html)                                           | Unprocessed |
 | [XDE](https://bioconductor.org/packages/3.20/bioc/html/XDE.html)                                                 | Unprocessed |
-| [Xeva](https://bioconductor.org/packages/3.20/bioc/html/Xeva.html)                                               | Unprocessed |
 | [YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)                                             | Unprocessed |
 | [ZygosityPredictor](https://bioconductor.org/packages/3.20/bioc/html/ZygosityPredictor.html)                     | Unprocessed |
 | [a4](https://bioconductor.org/packages/3.20/bioc/html/a4.html)                                                   | Unprocessed |
 | [a4Base](https://bioconductor.org/packages/3.20/bioc/html/a4Base.html)                                           | Unprocessed |
-| [adSplit](https://bioconductor.org/packages/3.20/bioc/html/adSplit.html)                                         | Unprocessed |
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                             | Unprocessed |
 | [affylmGUI](https://bioconductor.org/packages/3.20/bioc/html/affylmGUI.html)                                     | Unprocessed |
 | [alabaster](https://bioconductor.org/packages/3.20/bioc/html/alabaster.html)                                     | Unprocessed |

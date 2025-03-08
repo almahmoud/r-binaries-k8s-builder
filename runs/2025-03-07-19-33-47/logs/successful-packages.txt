@@ -1695,3 +1695,5 @@ flagme
 pathlinkR
 RTCGAToolbox
 SubCellBarCode
+adSplit
+Xeva

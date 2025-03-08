@@ -808,6 +808,7 @@ Wrench
 XINA
 XNAString
 XVector
+Xeva
 a4Classif
 a4Core
 a4Preproc
@@ -815,6 +816,7 @@ a4Reporting
 aCGH
 abseqR
 acde
+adSplit
 adductomicsR
 adverSCarial
 affxparser
