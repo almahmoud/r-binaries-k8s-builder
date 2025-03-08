@@ -1647,3 +1647,8 @@ peakPantheR
 pogos
 ptairMS
 squallms
+MACSr
+msmsTests
+profileplyr
+rTRMui
+synapter

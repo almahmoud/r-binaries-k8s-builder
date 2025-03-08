@@ -419,6 +419,7 @@ LymphoSeq
 M3C
 M3Drop
 MACSQuantifyR
+MACSr
 MAI
 MANOR
 MAPFX
@@ -1266,6 +1267,7 @@ msImpute
 msPurity
 msa
 msmsEDA
+msmsTests
 msqrob2
 multiClust
 multiHiCcompare
@@ -1375,6 +1377,7 @@ preprocessCore
 proDA
 procoil
 profileScoreDist
+profileplyr
 progeny
 projectR
 proteinProfiles
@@ -1402,6 +1405,7 @@ rRDP
 rSWeeP
 rScudo
 rTRM
+rTRMui
 rWikiPathways
 raer
 rain
@@ -1569,6 +1573,7 @@ swfdr
 switchBox
 switchde
 synapsis
+synapter
 synergyfinder
 synlet
 syntenet
