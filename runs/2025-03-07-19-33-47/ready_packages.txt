@@ -1,1 +1,8 @@
-rhdf5
+DepecheR
+Rfastp
+cbpManager
+clstutils
+densvis
+maftools
+snifter
+timeOmics

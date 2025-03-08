@@ -433,3 +433,11 @@ biodbNci
 biodbUniprot
 clst
 rhdf5
+DepecheR
+Rfastp
+cbpManager
+clstutils
+densvis
+maftools
+snifter
+timeOmics
