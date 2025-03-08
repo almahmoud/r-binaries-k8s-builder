@@ -1,4 +1,5 @@
 AMOUNTAIN
+ANCOMBC
 ARRmNormalization
 ASAFE
 ASEB
@@ -23,6 +24,7 @@ BiRewire
 BioCartaImage
 BiocBaseUtils
 BiocFileCache
+BiocNeighbors
 BiocParallel
 BiocStyle
 BiocVersion
@@ -55,6 +57,7 @@ DeepPINCS
 DepInfeR
 DepecheR
 DiffLogo
+Director
 EBSeq
 EMDomics
 EmpiricalBrownsMethod
@@ -62,19 +65,30 @@ EnMCB
 EnhancedVolcano
 EpiDISH
 FGNet
+GAprediction
 GEOfastq
+GEOmetadb
+GEWIST
 GGPA
 GIGSEA
 GLAD
 GPA
+GRENITS
 GSALightning
 GSEAmining
 GSgalgoR
 GenProSeq
+GeneGA
+GeneOverlap
+GeneticsPed
 GladiaTOX
 GraphAlignment
 HDTD
+HGC
+HIBAG
 HIREewas
+HMMcopy
+HPAanalyze
 HPiP
 Herper
 HilbertVis
@@ -190,6 +204,7 @@ antiProfiles
 aroma.light
 assorthead
 bacon
+banocc
 basilisk
 basilisk.utils
 biobtreeR
@@ -277,6 +292,7 @@ gypsum
 hca
 hierGWAS
 hierinf
+hypeR
 iASeq
 iBBiG
 iCARE
@@ -285,6 +301,7 @@ iGC
 iPath
 iSeq
 ibh
+illuminaio
 interacCircos
 iterativeBMAsurv
 koinar

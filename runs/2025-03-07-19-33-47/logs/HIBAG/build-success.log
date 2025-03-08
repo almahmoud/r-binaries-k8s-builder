@@ -1,0 +1,113 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'HIBAG'
+also installing the dependency ‘SeqArray’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SeqArray_1.46.3.tar.gz'
+Content type 'application/x-gzip' length 3835177 bytes (3.7 MB)
+==================================================
+downloaded 3.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/HIBAG_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 1876226 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+* installing *source* package ‘SeqArray’ ...
+** package ‘SeqArray’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ConvGDS2VCF.cpp -o ConvGDS2VCF.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ConvToGDS.cpp -o ConvToGDS.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ConvVCF2GDS.cpp -o ConvVCF2GDS.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c FileMerge.cpp -o FileMerge.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c GetData.cpp -o GetData.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c Index.cpp -o Index.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c LinkSNPRelate.cpp -o LinkSNPRelate.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c Methods.cpp -o Methods.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_SeqArray.c -o R_SeqArray.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ReadBySample.cpp -o ReadBySample.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ReadByUnit.cpp -o ReadByUnit.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ReadByVariant.cpp -o ReadByVariant.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c SeqArray.cpp -o SeqArray.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c pkg_test.cpp -o pkg_test.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c samtools_ext.c -o samtools_ext.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -I'/mnt/library/gdsfmt/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c vectorization.cpp -o vectorization.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o SeqArray.so ConvGDS2VCF.o ConvToGDS.o ConvVCF2GDS.o FileMerge.o GetData.o Index.o LinkSNPRelate.o Methods.o R_SeqArray.o ReadBySample.o ReadByUnit.o ReadByVariant.o SeqArray.o pkg_test.o samtools_ext.o vectorization.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-SeqArray/00new/SeqArray/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Error in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]) : 
+  there is no package called ‘GenomeInfoDb’
+Calls: <Anonymous> ... loadNamespace -> withRestarts -> withOneRestart -> doWithOneRestart
+Execution halted
+ERROR: lazy loading failed for package ‘SeqArray’
+* removing ‘/mnt/library/SeqArray’
+* installing *source* package ‘HIBAG’ ...
+** package ‘HIBAG’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/mnt/library/RcppParallel/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c HIBAG.cpp -o HIBAG.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/mnt/library/RcppParallel/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c LibHLA.cpp -o LibHLA.o
+LibHLA.cpp: In static member function ‘static void HLA_LIB::CAlg_Prediction::Init_Target_IFunc(const char*)’:
+LibHLA.cpp:1348:25: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+ 1348 |                         error("Not support AVX512VPOPCNTDQ.");
+      |                         ^~~~~
+      |                         perror
+LibHLA.cpp:1358:25: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+ 1358 |                         error("Not support AVX512BW.");
+      |                         ^~~~~
+      |                         perror
+LibHLA.cpp:1368:25: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+ 1368 |                         error("Not support AVX512F.");
+      |                         ^~~~~
+      |                         perror
+LibHLA.cpp:1387:25: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+ 1387 |                         error("Not support AVX2.");
+      |                         ^~~~~
+      |                         perror
+LibHLA.cpp:1397:25: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+ 1397 |                         error("Not support AVX.");
+      |                         ^~~~~
+      |                         perror
+LibHLA.cpp:1407:25: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+ 1407 |                         error("Not support SSE4.2.");
+      |                         ^~~~~
+      |                         perror
+LibHLA.cpp:1417:25: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+ 1417 |                         error("Not support SSE2.");
+      |                         ^~~~~
+      |                         perror
+make: *** [/usr/local/lib/R/etc/Makeconf:204: LibHLA.o] Error 1
+ERROR: compilation failed for package ‘HIBAG’
+* removing ‘/mnt/library/HIBAG’
+
+The downloaded source packages are in
+	‘/tmp/RtmpFwOach/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘SeqArray’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘HIBAG’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	1m11.914s
+user	0m27.561s
+sys	0m5.945s

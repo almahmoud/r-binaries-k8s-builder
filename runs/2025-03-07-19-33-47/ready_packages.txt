@@ -1,4 +1,0 @@
-BiocWorkflowTools
-COMPASS
-abseqR
-hypeR

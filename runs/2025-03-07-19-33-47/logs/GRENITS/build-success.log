@@ -1,0 +1,57 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'GRENITS'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GRENITS_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 274677 bytes (268 KB)
+==================================================
+downloaded 268 KB
+
+* installing *source* package ‘GRENITS’ ...
+** package ‘GRENITS’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c AR1_Gauss_biocond.cc -o AR1_Gauss_biocond.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c AR1_Student_biocond.cc -o AR1_Student_biocond.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c AR1_biocond.cc -o AR1_biocond.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c PSplines_biocond.cc -o PSplines_biocond.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c R_C_interface.cpp -o R_C_interface.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ReadMCMCFiles.cpp -o ReadMCMCFiles.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c commonFunctions.cc -o commonFunctions.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c functionsErrorModel.cc -o functionsErrorModel.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c matrixManipulationFunctions.cc -o matrixManipulationFunctions.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c updateFunctions_AR1.cc -o updateFunctions_AR1.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c updateFunctions_Splines.cc -o updateFunctions_Splines.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o GRENITS.so AR1_Gauss_biocond.o AR1_Student_biocond.o AR1_biocond.o PSplines_biocond.o R_C_interface.o ReadMCMCFiles.o commonFunctions.o functionsErrorModel.o matrixManipulationFunctions.o updateFunctions_AR1.o updateFunctions_Splines.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-GRENITS/00new/GRENITS/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package or namespace load failed for ‘ggplot2’ in namespaceExport(ns, exports):
+ undefined exports: %+%, %+replace%, .expose_data, .ignore_data, .pt, .stroke, AxisSecondary, Coord, CoordCartesian, CoordFixed, CoordFlip, CoordMap, CoordPolar, CoordQuickmap, CoordRadial, CoordSf, CoordTrans, Facet, FacetGrid, FacetNull, FacetWrap, Geom, GeomAbline, GeomAnnotationMap, GeomArea, GeomBar, GeomBlank, GeomBoxplot, GeomCol, GeomContour, GeomContourFilled, GeomCrossbar, GeomCurve, GeomCustomAnn, GeomDensity, GeomDensity2d, GeomDensity2dFilled, GeomDotplot, GeomErrorbar, GeomErrorbarh, GeomFunction, GeomHex, GeomHline, GeomLabel, GeomLine, GeomLinerange, GeomLogticks, GeomMap, GeomPath, GeomPoint, GeomPointrange, GeomPolygon, GeomQuantile, GeomRaster, GeomRasterAnn, GeomRect, GeomRibbon, GeomRug, GeomSegment, GeomSf, GeomSmooth, GeomSpoke, GeomStep, GeomText, GeomTile, GeomViolin, GeomVline, Guide, GuideAxis, GuideAxisLogticks, GuideAxisStack, GuideAxisTheta, GuideBins, GuideColourbar
+In addition: Warning message:
+S3 methods ‘$.ggproto’, ‘$.ggproto_parent’, ‘$.theme’, ‘$<-.uneval’, ‘+.gg’, ‘[.mapped_discrete’, ‘[.uneval’, ‘[<-.mapped_discrete’, ‘[<-.uneval’, ‘[[.ggproto’, ‘[[<-.uneval’, ‘.DollarNames.ggproto’, ‘as.data.frame.mapped_discrete’, ‘as.list.ggproto’, ‘autolayer.default’, ‘autoplot.default’, ‘c.mapped_discrete’, ‘drawDetails.zeroGrob’, ‘element_grob.element_blank’, ‘element_grob.element_line’, ‘element_grob.element_rect’, ‘element_grob.element_text’, ‘format.ggproto’, ‘format.ggproto_method’, ‘fortify.NULL’, ‘fortify.function’, ‘fortify.Line’, ‘fortify.Lines’, ‘fortify.Polygon’, ‘fortify.Polygons’, ‘fortify.SpatialLinesDataFrame’, ‘fortify.SpatialPolygons’, ‘fortify.SpatialPolygonsDataFrame’, ‘fortify.cld’, ‘fortify.confint.glht’, ‘fortify.data.frame’, ‘fortify.default’, ‘fortify.formula’, ‘fortify.glht’, ‘fortify.grouped_df’,  [... truncated] 
+Execution halted
+ERROR: lazy loading failed for package ‘GRENITS’
+* removing ‘/mnt/library/GRENITS’
+
+The downloaded source packages are in
+	‘/tmp/RtmpbkxEO6/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘GRENITS’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	1m23.792s
+user	1m1.042s
+sys	0m8.492s
