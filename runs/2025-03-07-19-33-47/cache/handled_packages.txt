@@ -10,6 +10,7 @@ ASEB
 ASGSCA
 ASSET
 AWFisher
+AffyRNADegradation
 AlphaBeta
 AlphaMissenseR
 AlpsNMR
@@ -108,6 +109,7 @@ GEM
 GENIE3
 GEOfastq
 GEOmetadb
+GEOsubmission
 GEWIST
 GGPA
 GIGSEA
@@ -121,6 +123,7 @@ GSEAlm
 GSEAmining
 GSgalgoR
 GWAS.BAYES
+GWASTools
 GenProSeq
 GeneExpressionSignature
 GeneGA
@@ -211,6 +214,7 @@ OPWeight
 OSAT
 Omixer
 OmnipathR
+OncoSimulR
 OpenStats
 Oscope
 PANR
@@ -302,6 +306,7 @@ SpeCond
 Streamer
 Summix
 SwathXtend
+TMixClust
 TPP2D
 TSAR
 TargetScore
@@ -358,6 +363,7 @@ cellxgenedp
 chopsticks
 cisPath
 clevRvis
+clippda
 clst
 clstutils
 clustComp
@@ -373,6 +379,7 @@ covEB
 cqn
 ctc
 ctsGE
+cycle
 cytolib
 daMA
 dcGSA
@@ -448,6 +455,7 @@ gypsum
 hca
 hierGWAS
 hierinf
+hmdbQuery
 hopach
 hypeR
 hyperdraw
@@ -485,6 +493,7 @@ maCorrPlot
 maSigPro
 maftools
 magrene
+makecdfenv
 mapscape
 marray
 martini
@@ -546,6 +555,7 @@ pickgene
 planet
 plasmut
 plgem
+plier
 plotGrouper
 pmm
 powerTCR
@@ -555,6 +565,7 @@ profileScoreDist
 progeny
 projectR
 proteinProfiles
+pvac
 qckitfastq
 qcmetrics
 quantsmooth
@@ -596,6 +607,7 @@ seq.hotSPOT
 seqLogo
 seqTools
 seqcombo
+sevenbridges
 shiny.gosling
 sights
 sigsquared
@@ -642,6 +654,7 @@ variancePartition
 vbmp
 veloviz
 viper
+vsn
 weaver
 widgetTools
 wppi

@@ -647,3 +647,16 @@ qcmetrics
 Rcwl
 ribor
 Streamer
+AffyRNADegradation
+clippda
+cycle
+GEOsubmission
+GWASTools
+hmdbQuery
+makecdfenv
+OncoSimulR
+plier
+pvac
+sevenbridges
+TMixClust
+vsn
