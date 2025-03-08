@@ -156,6 +156,7 @@ DCATS
 DECIPHER
 DEGraph
 DEGseq
+DESeq2
 DESpace
 DEqMS
 DEsingle
@@ -638,6 +639,7 @@ UNDO
 VAExprs
 VDJdive
 VERSO
+VariantExperiment
 VennDetail
 VisiumIO
 Voyager
@@ -860,6 +862,7 @@ fobitools
 frenchFISH
 frma
 frmaTools
+gCrisprTools
 gDRstyle
 gaga
 garfield
@@ -1008,6 +1011,7 @@ miRcomp
 miaSim
 microRNA
 microSTASIS
+microbiome
 mina
 minet
 mirTarRnaSeq

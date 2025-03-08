@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1329 packages built successfully
+- 1333 packages built successfully
 - 0 packages failed to build
-- 904 packages not yet processed
+- 900 packages not yet processed
 
 
-## Successfully Built (1329)
+## Successfully Built (1333)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1341,8 +1341,12 @@
 | [ggseqalign](https://bioconductor.org/packages/3.20/bioc/html/ggseqalign.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/ggseqalign/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ggseqalign)                 |
 | [nullranges](https://bioconductor.org/packages/3.20/bioc/html/nullranges.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/nullranges/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/nullranges)                 |
 | [plyinteractions](https://bioconductor.org/packages/3.20/bioc/html/plyinteractions.html)                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/plyinteractions/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/plyinteractions)            |
+| [DESeq2](https://bioconductor.org/packages/3.20/bioc/html/DESeq2.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/DESeq2/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DESeq2)                     |
+| [VariantExperiment](https://bioconductor.org/packages/3.20/bioc/html/VariantExperiment.html)                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/VariantExperiment/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VariantExperiment)          |
+| [gCrisprTools](https://bioconductor.org/packages/3.20/bioc/html/gCrisprTools.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/gCrisprTools/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gCrisprTools)               |
+| [microbiome](https://bioconductor.org/packages/3.20/bioc/html/microbiome.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/microbiome/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/microbiome)                 |
 
-## Not Yet Processed (904)
+## Not Yet Processed (900)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADAM](https://bioconductor.org/packages/3.20/bioc/html/ADAM.html)                                               | Unprocessed |
@@ -1447,7 +1451,6 @@
 | [DELocal](https://bioconductor.org/packages/3.20/bioc/html/DELocal.html)                                         | Unprocessed |
 | [DEP](https://bioconductor.org/packages/3.20/bioc/html/DEP.html)                                                 | Unprocessed |
 | [DEScan2](https://bioconductor.org/packages/3.20/bioc/html/DEScan2.html)                                         | Unprocessed |
-| [DESeq2](https://bioconductor.org/packages/3.20/bioc/html/DESeq2.html)                                           | Unprocessed |
 | [DEWSeq](https://bioconductor.org/packages/3.20/bioc/html/DEWSeq.html)                                           | Unprocessed |
 | [DEXSeq](https://bioconductor.org/packages/3.20/bioc/html/DEXSeq.html)                                           | Unprocessed |
 | [DEsubs](https://bioconductor.org/packages/3.20/bioc/html/DEsubs.html)                                           | Unprocessed |
@@ -1758,7 +1761,6 @@
 | [VanillaICE](https://bioconductor.org/packages/3.20/bioc/html/VanillaICE.html)                                   | Unprocessed |
 | [VarCon](https://bioconductor.org/packages/3.20/bioc/html/VarCon.html)                                           | Unprocessed |
 | [VariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/VariantAnnotation.html)                     | Unprocessed |
-| [VariantExperiment](https://bioconductor.org/packages/3.20/bioc/html/VariantExperiment.html)                     | Unprocessed |
 | [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)                       | Unprocessed |
 | [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                               | Unprocessed |
 | [VegaMC](https://bioconductor.org/packages/3.20/bioc/html/VegaMC.html)                                           | Unprocessed |
@@ -1932,7 +1934,6 @@
 | [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                                           | Unprocessed |
 | [funOmics](https://bioconductor.org/packages/3.20/bioc/html/funOmics.html)                                       | Unprocessed |
 | [funtooNorm](https://bioconductor.org/packages/3.20/bioc/html/funtooNorm.html)                                   | Unprocessed |
-| [gCrisprTools](https://bioconductor.org/packages/3.20/bioc/html/gCrisprTools.html)                               | Unprocessed |
 | [gDNAx](https://bioconductor.org/packages/3.20/bioc/html/gDNAx.html)                                             | Unprocessed |
 | [gDR](https://bioconductor.org/packages/3.20/bioc/html/gDR.html)                                                 | Unprocessed |
 | [gDRcore](https://bioconductor.org/packages/3.20/bioc/html/gDRcore.html)                                         | Unprocessed |
@@ -2034,7 +2035,6 @@
 | [miRspongeR](https://bioconductor.org/packages/3.20/bioc/html/miRspongeR.html)                                   | Unprocessed |
 | [mia](https://bioconductor.org/packages/3.20/bioc/html/mia.html)                                                 | Unprocessed |
 | [miaViz](https://bioconductor.org/packages/3.20/bioc/html/miaViz.html)                                           | Unprocessed |
-| [microbiome](https://bioconductor.org/packages/3.20/bioc/html/microbiome.html)                                   | Unprocessed |
 | [microbiomeDASim](https://bioconductor.org/packages/3.20/bioc/html/microbiomeDASim.html)                         | Unprocessed |
 | [microbiomeExplorer](https://bioconductor.org/packages/3.20/bioc/html/microbiomeExplorer.html)                   | Unprocessed |
 | [microbiomeMarker](https://bioconductor.org/packages/3.20/bioc/html/microbiomeMarker.html)                       | Unprocessed |

@@ -1327,3 +1327,7 @@ nullranges
 plyinteractions
 RCM
 SIAMCAT
+DESeq2
+gCrisprTools
+microbiome
+VariantExperiment
