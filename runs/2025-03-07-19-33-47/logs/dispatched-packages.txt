@@ -1953,3 +1953,7 @@ lisaClust
 netSmooth
 gsean
 GeneTonic
+DaMiRseq
+FRASER
+RUVSeq
+metaseqR2

@@ -1890,3 +1890,11 @@ edge
 gDR
 mosdef
 RepViz
+bioCancer
+EDASeq
+lisaClust
+NoRCE
+OUTRIDER
+pRolocGUI
+qsvaR
+SWATH2stats

@@ -277,6 +277,7 @@ EBSEA
 EBSeq
 EBarrays
 EBcoexpress
+EDASeq
 EDIRquery
 EGAD
 EMDomics
@@ -594,6 +595,7 @@ NetActivity
 NetPathMiner
 NetSAM
 NewWave
+NoRCE
 NormalyzerDE
 NormqPCR
 NuPoP
@@ -604,6 +606,7 @@ OPWeight
 ORFhunteR
 OSAT
 OTUbase
+OUTRIDER
 OVESEG
 OmicCircos
 OmicsMLRepoR
@@ -795,6 +798,7 @@ SRAdb
 STATegRa
 STRINGdb
 SUITOR
+SWATH2stats
 SamSPECTRAL
 Scale4C
 ScaledMatrix
@@ -975,6 +979,7 @@ beer
 benchdamic
 betaHMM
 bettr
+bioCancer
 bioDist
 bioassayR
 biobroom
@@ -1360,6 +1365,7 @@ limmaGUI
 limpca
 lionessR
 lipidr
+lisaClust
 lmdme
 loci2path
 logicFS
@@ -1515,6 +1521,7 @@ optimalFlow
 orthogene
 orthos
 pRoloc
+pRolocGUI
 packFinder
 padma
 paircompviz
@@ -1594,6 +1601,7 @@ qmtools
 qpcrNorm
 qpgraph
 qsea
+qsvaR
 quantiseqr
 quantsmooth
 qusage
