@@ -1,0 +1,259 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'geneXtendeR'
+also installing the dependencies ‘org.Ag.eg.db’, ‘org.Bt.eg.db’, ‘org.Ce.eg.db’, ‘org.Cf.eg.db’, ‘org.Dm.eg.db’, ‘org.Dr.eg.db’, ‘org.Gg.eg.db’, ‘org.Pt.eg.db’, ‘org.Ss.eg.db’, ‘org.Xl.eg.db’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/org.Ag.eg.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 6479327 bytes (6.2 MB)
+==================================================
+downloaded 6.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/org.Bt.eg.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 22017375 bytes (21.0 MB)
+==================================================
+downloaded 21.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/org.Ce.eg.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 20144955 bytes (19.2 MB)
+==================================================
+downloaded 19.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/org.Cf.eg.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 27275067 bytes (26.0 MB)
+==================================================
+downloaded 26.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/org.Dm.eg.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 30994818 bytes (29.6 MB)
+==================================================
+downloaded 29.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/org.Dr.eg.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 33409893 bytes (31.9 MB)
+==================================================
+downloaded 31.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/org.Gg.eg.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 18949509 bytes (18.1 MB)
+==================================================
+downloaded 18.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/org.Pt.eg.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 27099049 bytes (25.8 MB)
+==================================================
+downloaded 25.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/org.Ss.eg.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 16772001 bytes (16.0 MB)
+==================================================
+downloaded 16.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/org.Xl.eg.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 22236630 bytes (21.2 MB)
+==================================================
+downloaded 21.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/geneXtendeR_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 12313389 bytes (11.7 MB)
+==================================================
+downloaded 11.7 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-org.Ag.eg.db’
+* installing *source* package ‘org.Bt.eg.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Bt.eg.db’ as ‘org.Bt.eg.db_3.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Bt.eg.db)
+* installing *source* package ‘org.Ce.eg.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Ce.eg.db’ as ‘org.Ce.eg.db_3.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Ce.eg.db)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-org.Cf.eg.db’
+* installing *source* package ‘org.Dm.eg.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Dm.eg.db’ as ‘org.Dm.eg.db_3.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Dm.eg.db)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-org.Dr.eg.db’
+* installing *source* package ‘org.Gg.eg.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Gg.eg.db’ as ‘org.Gg.eg.db_3.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Gg.eg.db)
+* installing *source* package ‘org.Pt.eg.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Pt.eg.db’ as ‘org.Pt.eg.db_3.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Pt.eg.db)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-org.Ss.eg.db’
+* installing *source* package ‘org.Xl.eg.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Xl.eg.db’ as ‘org.Xl.eg.db_3.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Xl.eg.db)
+* installing *source* package ‘geneXtendeR’ ...
+** package ‘geneXtendeR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c annotate.c -o annotate.o
+annotate.c: In function ‘annotate’:
+annotate.c:159:79: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+  159 |                 Rf_error("annotate() doesn't handle output lines longer than %d characters", sizeof(Buffer));
+      |                                                                              ~^              ~~~~~~~~~~~~~~
+      |                                                                               |              |
+      |                                                                               int            long unsigned int
+      |                                                                              %ld
+annotate.c:191:87: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+  191 |                         Rf_error("annotate() doesn't handle output lines longer than %d characters",sizeof(Buffer));
+      |                                                                                      ~^             ~~~~~~~~~~~~~~
+      |                                                                                       |             |
+      |                                                                                       int           long unsigned int
+      |                                                                                      %ld
+annotate.c:199:87: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+  199 |                         Rf_error("annotate() doesn't handle output lines longer than %d characters",sizeof(Buffer));
+      |                                                                                      ~^             ~~~~~~~~~~~~~~
+      |                                                                                       |             |
+      |                                                                                       int           long unsigned int
+      |                                                                                      %ld
+annotate.c:208:87: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+  208 |                         Rf_error("annotate() doesn't handle output lines longer than %d characters",sizeof(Buffer));
+      |                                                                                      ~^             ~~~~~~~~~~~~~~
+      |                                                                                       |             |
+      |                                                                                       int           long unsigned int
+      |                                                                                      %ld
+annotate.c:228:83: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+  228 |                     Rf_error("annotate() doesn't handle output lines longer than %d characters",sizeof(Buffer));
+      |                                                                                  ~^             ~~~~~~~~~~~~~~
+      |                                                                                   |             |
+      |                                                                                   int           long unsigned int
+      |                                                                                  %ld
+annotate.c:106:5: warning: ignoring return value of ‘fgets’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+  106 |     fgets(varstr, 50000, varfp);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+annotate.c:116:5: warning: ignoring return value of ‘fgets’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+  116 |     fgets(vcfstr, 10000, vcffp);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c extract_number.c -o extract_number.o
+extract_number.c: In function ‘extractnumber’:
+extract_number.c:98:5: warning: ignoring return value of ‘fgets’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+   98 |     fgets(varstr, 50000, varfp);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+extract_number.c:108:5: warning: ignoring return value of ‘fgets’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+  108 |     fgets(vcfstr, 10000, vcffp);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c extract_peaks.c -o extract_peaks.o
+extract_peaks.c: In function ‘extractpeaks’:
+extract_peaks.c:202:79: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+  202 |                 Rf_error("annotate() doesn't handle output lines longer than %d characters", sizeof(Buffer));
+      |                                                                              ~^              ~~~~~~~~~~~~~~
+      |                                                                               |              |
+      |                                                                               int            long unsigned int
+      |                                                                              %ld
+extract_peaks.c:107:5: warning: ignoring return value of ‘fgets’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+  107 |     fgets(varstr, 50000, varfp);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+extract_peaks.c:117:5: warning: ignoring return value of ‘fgets’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+  117 |     fgets(vcfstr, 10000, vcffp);
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o geneXtendeR.so annotate.o extract_number.o extract_peaks.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-geneXtendeR/00new/geneXtendeR/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘geneXtendeR’ as ‘geneXtendeR_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (geneXtendeR)
+
+The downloaded source packages are in
+	‘/tmp/RtmpTZ32N9/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘org.Ag.eg.db’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘org.Cf.eg.db’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘org.Dr.eg.db’ had non-zero exit status
+4: In install.packages(...) :
+  installation of package ‘org.Ss.eg.db’ had non-zero exit status
+
+real	9m43.388s
+user	6m47.466s
+sys	0m25.255s

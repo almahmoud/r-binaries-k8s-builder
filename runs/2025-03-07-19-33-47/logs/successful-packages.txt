@@ -1628,3 +1628,12 @@ gmoviz
 msmsEDA
 strandCheckR
 transcriptR
+ChIPseeker
+cliqueMS
+CTexploreR
+enrichViewNet
+geneXtendeR
+meshes
+raer
+TDbasedUFEadv
+topdownr
