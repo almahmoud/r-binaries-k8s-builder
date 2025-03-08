@@ -1158,3 +1158,13 @@ StabMap
 TOAST
 TREG
 TTMap
+ClusterFoldSimilarity
+destiny
+dittoSeq
+findIPs
+HiCcompare
+ITALICS
+oncomix
+scater
+sccomp
+scRepertoire

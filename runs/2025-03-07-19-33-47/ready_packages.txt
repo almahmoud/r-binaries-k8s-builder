@@ -1,1 +1,15 @@
-MICSQTL
+CATALYST
+CellMixS
+CelliD
+M3Drop
+MEB
+SPIAT
+SpectralTAD
+TADCompare
+VAExprs
+airpart
+distinct
+multiHiCcompare
+peco
+scDotPlot
+scviR

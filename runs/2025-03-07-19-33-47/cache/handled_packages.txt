@@ -115,6 +115,7 @@ ChemmineR
 Chicago
 Clomial
 ClustAll
+ClusterFoldSimilarity
 ClusterJudge
 ClusterSignificance
 ComPrAn
@@ -252,6 +253,7 @@ Heatplus
 Herper
 HiCBricks
 HiCExperiment
+HiCcompare
 HiContacts
 HiCool
 HilbertCurve
@@ -272,6 +274,7 @@ IRanges
 ISAnalytics
 ISLET
 ISoLDE
+ITALICS
 IWTomics
 Icens
 IgGeneUsage
@@ -705,11 +708,13 @@ deltaGseg
 demuxmix
 densvis
 derfinderHelper
+destiny
 diffGeneAnalysis
 diffuStats
 diggit
 dir.expiry
 discordant
+dittoSeq
 dks
 doseR
 drawProteins
@@ -738,6 +743,7 @@ fedup
 fenr
 fgga
 fgsea
+findIPs
 flowAI
 flowBeads
 flowBin
@@ -932,6 +938,7 @@ oligo
 oligoClasses
 omada
 ompBAM
+oncomix
 oncoscanR
 onlineFDR
 openCyto
@@ -1046,10 +1053,13 @@ scMultiSim
 scPCA
 scReClassify
 scRecover
+scRepertoire
 scShapes
 scTHI
 scanMiR
+scater
 scatterHatch
+sccomp
 scde
 scds
 schex
