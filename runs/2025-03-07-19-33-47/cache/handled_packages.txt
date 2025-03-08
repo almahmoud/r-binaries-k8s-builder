@@ -13,6 +13,7 @@ AMARETTO
 AMOUNTAIN
 ANCOMBC
 ANF
+APL
 ARRmNormalization
 ASAFE
 ASEB
@@ -82,6 +83,7 @@ BioCartaImage
 BioGA
 BioMVCClass
 BioNAR
+BioNERO
 BioNet
 BioQC
 BioTIP
@@ -572,6 +574,7 @@ MultiDataSet
 MultiMed
 MultiRNAflow
 MultimodalExperiment
+NBAMSeq
 NCIgraph
 NOISeq
 NPARC
@@ -604,6 +607,7 @@ OpenStats
 OrderedList
 Organism.dplyr
 Oscope
+OutSplice
 PADOG
 PAIRADISE
 PANR
@@ -1024,6 +1028,7 @@ cliqueMS
 clst
 clstutils
 clustComp
+clusterExperiment
 clusterProfiler
 clusterSeq
 clusterStab
@@ -1052,7 +1057,9 @@ copa
 corral
 coseq
 cosmiq
+countsimQC
 covEB
+covRNA
 cqn
 crisprBase
 crisprBowtie
@@ -1108,6 +1115,7 @@ distinct
 dittoSeq
 divergence
 dks
+dmrseq
 doppelgangR
 doseR
 doubletrouble
@@ -1188,6 +1196,7 @@ fobitools
 frenchFISH
 frma
 frmaTools
+funOmics
 gCrisprTools
 gDRcore
 gDRimport
@@ -1321,6 +1330,7 @@ kebabs
 keggorthology
 kissDE
 kmcut
+knowYourCG
 koinar
 lapmix
 ldblock
@@ -1553,6 +1563,7 @@ profileScoreDist
 profileplyr
 progeny
 projectR
+protGear
 proteinProfiles
 ptairMS
 puma
@@ -1586,6 +1597,7 @@ rWikiPathways
 raer
 rain
 ramr
+ramwas
 randPack
 randRotation
 rawDiag
@@ -1642,6 +1654,7 @@ sangerseqR
 sarks
 satuRn
 scAnnotatR
+scBFA
 scBubbletree
 scCB2
 scDD
@@ -1676,6 +1689,7 @@ schex
 scider
 scifer
 scmap
+scmeth
 scoup
 scp
 scran
@@ -1733,6 +1747,7 @@ spatialHeatmap
 spatialSimGP
 specL
 speckle
+spicyR
 spikeLI
 spiky
 spillR

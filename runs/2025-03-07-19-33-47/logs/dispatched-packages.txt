@@ -1949,3 +1949,5 @@ scmeth
 a4
 bandle
 pRolocGUI
+lisaClust
+netSmooth
