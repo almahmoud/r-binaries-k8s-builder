@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1948 packages built successfully
+- 1959 packages built successfully
 - 0 packages failed to build
-- 285 packages not yet processed
+- 274 packages not yet processed
 
 
-## Successfully Built (1948)
+## Successfully Built (1959)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1960,8 +1960,19 @@
 | [GSEABase](https://bioconductor.org/packages/3.20/bioc/html/GSEABase.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/GSEABase/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSEABase)                   |
 | [MoonlightR](https://bioconductor.org/packages/3.20/bioc/html/MoonlightR.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/MoonlightR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MoonlightR)                 |
 | [conumee](https://bioconductor.org/packages/3.20/bioc/html/conumee.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/conumee/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/conumee)                    |
+| [ChromHeatMap](https://bioconductor.org/packages/3.20/bioc/html/ChromHeatMap.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/ChromHeatMap/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ChromHeatMap)               |
+| [GeDi](https://bioconductor.org/packages/3.20/bioc/html/GeDi.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/GeDi/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeDi)                       |
+| [OmaDB](https://bioconductor.org/packages/3.20/bioc/html/OmaDB.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/OmaDB/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OmaDB)                      |
+| [SVMDO](https://bioconductor.org/packages/3.20/bioc/html/SVMDO.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/SVMDO/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SVMDO)                      |
+| [methylCC](https://bioconductor.org/packages/3.20/bioc/html/methylCC.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/methylCC/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methylCC)                   |
+| [quantro](https://bioconductor.org/packages/3.20/bioc/html/quantro.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/quantro/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/quantro)                    |
+| [sampleClassifier](https://bioconductor.org/packages/3.20/bioc/html/sampleClassifier.html)                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/sampleClassifier/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sampleClassifier)           |
+| [scone](https://bioconductor.org/packages/3.20/bioc/html/scone.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/scone/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scone)                      |
+| [shinyMethyl](https://bioconductor.org/packages/3.20/bioc/html/shinyMethyl.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/shinyMethyl/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/shinyMethyl)                |
+| [shinyepico](https://bioconductor.org/packages/3.20/bioc/html/shinyepico.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/shinyepico/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/shinyepico)                 |
+| [standR](https://bioconductor.org/packages/3.20/bioc/html/standR.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/standR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/standR)                     |
 
-## Not Yet Processed (285)
+## Not Yet Processed (274)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [AGDEX](https://bioconductor.org/packages/3.20/bioc/html/AGDEX.html)                                             | Unprocessed |
@@ -1993,7 +2004,6 @@
 | [Cepo](https://bioconductor.org/packages/3.20/bioc/html/Cepo.html)                                               | Unprocessed |
 | [ChAMP](https://bioconductor.org/packages/3.20/bioc/html/ChAMP.html)                                             | Unprocessed |
 | [ChIPexoQual](https://bioconductor.org/packages/3.20/bioc/html/ChIPexoQual.html)                                 | Unprocessed |
-| [ChromHeatMap](https://bioconductor.org/packages/3.20/bioc/html/ChromHeatMap.html)                               | Unprocessed |
 | [CopyNumberPlots](https://bioconductor.org/packages/3.20/bioc/html/CopyNumberPlots.html)                         | Unprocessed |
 | [DAMEfinder](https://bioconductor.org/packages/3.20/bioc/html/DAMEfinder.html)                                   | Unprocessed |
 | [DExMA](https://bioconductor.org/packages/3.20/bioc/html/DExMA.html)                                             | Unprocessed |
@@ -2017,7 +2027,6 @@
 | [GSRI](https://bioconductor.org/packages/3.20/bioc/html/GSRI.html)                                               | Unprocessed |
 | [GSReg](https://bioconductor.org/packages/3.20/bioc/html/GSReg.html)                                             | Unprocessed |
 | [GSVA](https://bioconductor.org/packages/3.20/bioc/html/GSVA.html)                                               | Unprocessed |
-| [GeDi](https://bioconductor.org/packages/3.20/bioc/html/GeDi.html)                                               | Unprocessed |
 | [GenVisR](https://bioconductor.org/packages/3.20/bioc/html/GenVisR.html)                                         | Unprocessed |
 | [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)                   | Unprocessed |
 | [GenomicFiles](https://bioconductor.org/packages/3.20/bioc/html/GenomicFiles.html)                               | Unprocessed |
@@ -2046,7 +2055,6 @@
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                     | Unprocessed |
 | [OGRE](https://bioconductor.org/packages/3.20/bioc/html/OGRE.html)                                               | Unprocessed |
 | [OMICsPCA](https://bioconductor.org/packages/3.20/bioc/html/OMICsPCA.html)                                       | Unprocessed |
-| [OmaDB](https://bioconductor.org/packages/3.20/bioc/html/OmaDB.html)                                             | Unprocessed |
 | [OrganismDbi](https://bioconductor.org/packages/3.20/bioc/html/OrganismDbi.html)                                 | Unprocessed |
 | [PAA](https://bioconductor.org/packages/3.20/bioc/html/PAA.html)                                                 | Unprocessed |
 | [PING](https://bioconductor.org/packages/3.20/bioc/html/PING.html)                                               | Unprocessed |
@@ -2078,7 +2086,6 @@
 | [SGCP](https://bioconductor.org/packages/3.20/bioc/html/SGCP.html)                                               | Unprocessed |
 | [SNPhood](https://bioconductor.org/packages/3.20/bioc/html/SNPhood.html)                                         | Unprocessed |
 | [SPLINTER](https://bioconductor.org/packages/3.20/bioc/html/SPLINTER.html)                                       | Unprocessed |
-| [SVMDO](https://bioconductor.org/packages/3.20/bioc/html/SVMDO.html)                                             | Unprocessed |
 | [SigsPack](https://bioconductor.org/packages/3.20/bioc/html/SigsPack.html)                                       | Unprocessed |
 | [SingleMoleculeFootprinting](https://bioconductor.org/packages/3.20/bioc/html/SingleMoleculeFootprinting.html)   | Unprocessed |
 | [SomaticSignatures](https://bioconductor.org/packages/3.20/bioc/html/SomaticSignatures.html)                     | Unprocessed |
@@ -2180,7 +2187,6 @@
 | [mastR](https://bioconductor.org/packages/3.20/bioc/html/mastR.html)                                             | Unprocessed |
 | [meshr](https://bioconductor.org/packages/3.20/bioc/html/meshr.html)                                             | Unprocessed |
 | [methodical](https://bioconductor.org/packages/3.20/bioc/html/methodical.html)                                   | Unprocessed |
-| [methylCC](https://bioconductor.org/packages/3.20/bioc/html/methylCC.html)                                       | Unprocessed |
 | [methylGSA](https://bioconductor.org/packages/3.20/bioc/html/methylGSA.html)                                     | Unprocessed |
 | [methylPipe](https://bioconductor.org/packages/3.20/bioc/html/methylPipe.html)                                   | Unprocessed |
 | [methylclock](https://bioconductor.org/packages/3.20/bioc/html/methylclock.html)                                 | Unprocessed |
@@ -2209,24 +2215,19 @@
 | [primirTSS](https://bioconductor.org/packages/3.20/bioc/html/primirTSS.html)                                     | Unprocessed |
 | [proActiv](https://bioconductor.org/packages/3.20/bioc/html/proActiv.html)                                       | Unprocessed |
 | [psichomics](https://bioconductor.org/packages/3.20/bioc/html/psichomics.html)                                   | Unprocessed |
-| [quantro](https://bioconductor.org/packages/3.20/bioc/html/quantro.html)                                         | Unprocessed |
 | [recount](https://bioconductor.org/packages/3.20/bioc/html/recount.html)                                         | Unprocessed |
 | [regionReport](https://bioconductor.org/packages/3.20/bioc/html/regionReport.html)                               | Unprocessed |
 | [regutools](https://bioconductor.org/packages/3.20/bioc/html/regutools.html)                                     | Unprocessed |
 | [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)                 | Unprocessed |
-| [sampleClassifier](https://bioconductor.org/packages/3.20/bioc/html/sampleClassifier.html)                       | Unprocessed |
 | [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                             | Unprocessed |
 | [scClassify](https://bioconductor.org/packages/3.20/bioc/html/scClassify.html)                                   | Unprocessed |
 | [scFeatures](https://bioconductor.org/packages/3.20/bioc/html/scFeatures.html)                                   | Unprocessed |
 | [scTGIF](https://bioconductor.org/packages/3.20/bioc/html/scTGIF.html)                                           | Unprocessed |
 | [scTensor](https://bioconductor.org/packages/3.20/bioc/html/scTensor.html)                                       | Unprocessed |
 | [scTreeViz](https://bioconductor.org/packages/3.20/bioc/html/scTreeViz.html)                                     | Unprocessed |
-| [scone](https://bioconductor.org/packages/3.20/bioc/html/scone.html)                                             | Unprocessed |
 | [scoreInvHap](https://bioconductor.org/packages/3.20/bioc/html/scoreInvHap.html)                                 | Unprocessed |
 | [scruff](https://bioconductor.org/packages/3.20/bioc/html/scruff.html)                                           | Unprocessed |
 | [seqCAT](https://bioconductor.org/packages/3.20/bioc/html/seqCAT.html)                                           | Unprocessed |
-| [shinyMethyl](https://bioconductor.org/packages/3.20/bioc/html/shinyMethyl.html)                                 | Unprocessed |
-| [shinyepico](https://bioconductor.org/packages/3.20/bioc/html/shinyepico.html)                                   | Unprocessed |
 | [signatureSearch](https://bioconductor.org/packages/3.20/bioc/html/signatureSearch.html)                         | Unprocessed |
 | [signeR](https://bioconductor.org/packages/3.20/bioc/html/signeR.html)                                           | Unprocessed |
 | [singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)                               | Unprocessed |
@@ -2236,7 +2237,6 @@
 | [sparrow](https://bioconductor.org/packages/3.20/bioc/html/sparrow.html)                                         | Unprocessed |
 | [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                                         | Unprocessed |
 | [splineTimeR](https://bioconductor.org/packages/3.20/bioc/html/splineTimeR.html)                                 | Unprocessed |
-| [standR](https://bioconductor.org/packages/3.20/bioc/html/standR.html)                                           | Unprocessed |
 | [svaNUMT](https://bioconductor.org/packages/3.20/bioc/html/svaNUMT.html)                                         | Unprocessed |
 | [svaRetro](https://bioconductor.org/packages/3.20/bioc/html/svaRetro.html)                                       | Unprocessed |
 | [tLOH](https://bioconductor.org/packages/3.20/bioc/html/tLOH.html)                                               | Unprocessed |

@@ -1946,3 +1946,14 @@ conumee
 GNOSIS
 GSEABase
 MoonlightR
+ChromHeatMap
+GeDi
+methylCC
+OmaDB
+quantro
+sampleClassifier
+scone
+shinyepico
+shinyMethyl
+standR
+SVMDO

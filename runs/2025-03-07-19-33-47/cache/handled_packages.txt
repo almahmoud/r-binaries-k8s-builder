@@ -184,6 +184,7 @@ ChIPsim
 ChemmineOB
 ChemmineR
 Chicago
+ChromHeatMap
 ChromSCape
 CircSeqAlignTk
 CiteFuse
@@ -357,6 +358,7 @@ GWAS.BAYES
 GWASTools
 GWENA
 GateFinder
+GeDi
 GenProSeq
 GeneBreak
 GeneExpressionSignature
@@ -624,6 +626,7 @@ OSAT
 OTUbase
 OUTRIDER
 OVESEG
+OmaDB
 OmicCircos
 OmicsMLRepoR
 Omixer
@@ -819,6 +822,7 @@ SRAdb
 STATegRa
 STRINGdb
 SUITOR
+SVMDO
 SWATH2stats
 SamSPECTRAL
 Scale4C
@@ -1455,6 +1459,7 @@ methInheritSim
 methimpute
 methrix
 methyLImp2
+methylCC
 methylInheritance
 methylKit
 methylMnM
@@ -1649,6 +1654,7 @@ qsea
 qsmooth
 qsvaR
 quantiseqr
+quantro
 quantsmooth
 qusage
 qvalue
@@ -1721,6 +1727,7 @@ sSNAPPY
 sSeq
 safe
 sagenhaft
+sampleClassifier
 sangeranalyseR
 sangerseqR
 sarks
@@ -1763,6 +1770,7 @@ scider
 scifer
 scmap
 scmeth
+scone
 scoup
 scp
 scran
@@ -1790,6 +1798,8 @@ sesame
 sevenC
 sevenbridges
 shiny.gosling
+shinyMethyl
+shinyepico
 sigFeature
 siggenes
 sights
@@ -1837,6 +1847,7 @@ ssrch
 ssviz
 stJoincount
 stageR
+standR
 statTarget
 stepNorm
 strandCheckR
