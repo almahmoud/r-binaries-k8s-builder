@@ -45,6 +45,7 @@ DNAcopy
 DTA
 DeMAND
 DeepPINCS
+DiffLogo
 EBSeq
 EMDomics
 EmpiricalBrownsMethod
@@ -57,10 +58,12 @@ GLAD
 GPA
 GSALightning
 GSEAmining
+GenProSeq
 GladiaTOX
 GraphAlignment
 Herper
 HilbertVis
+HilbertVisGUI
 HuBMAPR
 HubPub
 IMPCdata
@@ -94,10 +97,15 @@ Mergeomics
 ModCon
 MultiMed
 NPARC
+NTW
+NetPathMiner
+NuPoP
 OPWeight
+OSAT
 Omixer
 OmnipathR
 Oscope
+PANR
 PROcess
 Path2PPI
 PathNet
@@ -106,7 +114,12 @@ PhenoGeneRanker
 PoDCall
 ProtGenerics
 QUBIC
+RDRToolbox
+RImmPort
+RLMM
+RLassoCox
 RNASeqPower
+ROC
 RProtoBufLib
 RTCGA
 Rbwa
@@ -128,6 +141,7 @@ SpaceMarkers
 Summix
 SwathXtend
 TSAR
+TargetScore
 TargetSearch
 TrajectoryGeometry
 TreeAndLeaf
@@ -139,11 +153,14 @@ agilp
 alevinQC
 antiProfiles
 bacon
+basilisk.utils
 biobtreeR
 biocroxytest
 biocthis
+biodb
 brendaDb
 bugsigdbr
+calm
 ccrepe
 chopsticks
 cisPath
@@ -175,6 +192,7 @@ fgsea
 flowGraph
 flowPeaks
 fmrs
+fobitools
 frenchFISH
 garfield
 gcatest
@@ -185,6 +203,7 @@ geneplast
 genoCN
 genomes
 geva
+ggkegg
 ggtree
 ggtreeDendro
 ggtreeExtra
@@ -201,6 +220,7 @@ iBBiG
 iCARE
 iClusterPlus
 iGC
+iPath
 iSeq
 ibh
 interacCircos
@@ -212,6 +232,7 @@ lfa
 logicFS
 lpsymphony
 maCorrPlot
+magrene
 mapscape
 messina
 metaCCA
@@ -222,6 +243,7 @@ miRNApath
 mina
 minet
 mirTarRnaSeq
+multiClust
 netprioR
 nuCpos
 occugene
@@ -232,6 +254,7 @@ pathifier
 pathwayPCA
 pfamAnalyzeR
 pgca
+philr
 pickgene
 planet
 plasmut
