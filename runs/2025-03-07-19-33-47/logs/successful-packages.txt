@@ -1245,3 +1245,12 @@ MDTS
 PICS
 SimBu
 simPIC
+ADAPT
+AneuFinder
+chromstaR
+iSEEu
+mosaics
+MSstatsLiP
+Rbowtie2
+ShortRead
+TCseq

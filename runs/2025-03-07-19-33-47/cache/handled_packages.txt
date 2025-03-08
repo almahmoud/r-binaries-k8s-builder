@@ -1,6 +1,7 @@
 ABSSeq
 ABarray
 ACME
+ADAPT
 ADImpute
 AIMS
 ALDEx2
@@ -25,6 +26,7 @@ AnVILBilling
 AnVILGCP
 AnVILPublish
 AnVILWorkflow
+AneuFinder
 AnnotationFilter
 ArrayExpress
 AssessORF
@@ -343,6 +345,7 @@ MSstats
 MSstatsBig
 MSstatsConvert
 MSstatsLOBD
+MSstatsLiP
 MSstatsPTM
 MSstatsTMT
 MVCClass
@@ -486,6 +489,7 @@ RankProd
 Rarr
 RbcBook1
 Rbowtie
+Rbowtie2
 Rbwa
 Rcollectl
 Rcwl
@@ -548,6 +552,7 @@ SeqArray
 SeqGate
 SeqVarTools
 SharedObject
+ShortRead
 SiPSiC
 SigFuge
 SimBu
@@ -576,6 +581,7 @@ Summix
 SwathXtend
 SynExtend
 SynMut
+TCseq
 TDbasedUFE
 TENxIO
 TEQC
@@ -698,6 +704,7 @@ cellxgenedp
 chihaya
 chopsticks
 chromDraw
+chromstaR
 cisPath
 cleaver
 clevRvis
@@ -883,6 +890,7 @@ iSEE
 iSEEhex
 iSEEindex
 iSEEpathways
+iSEEu
 iSeq
 iasva
 ibh
@@ -967,6 +975,7 @@ mitch
 mixOmics
 mnem
 monocle
+mosaics
 mosbi
 motifcounter
 mpra
