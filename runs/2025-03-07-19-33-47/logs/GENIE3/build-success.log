@@ -1,0 +1,67 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'GENIE3'
+also installing the dependency ‘SummarizedExperiment’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GENIE3_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 247628 bytes (241 KB)
+==================================================
+downloaded 241 KB
+
+* installing *source* package ‘SummarizedExperiment’ ...
+** package ‘SummarizedExperiment’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package ‘MatrixGenerics’ required by ‘SummarizedExperiment’ could not be found
+Execution halted
+ERROR: lazy loading failed for package ‘SummarizedExperiment’
+* removing ‘/mnt/library/SummarizedExperiment’
+* installing *source* package ‘GENIE3’ ...
+** package ‘GENIE3’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c GENIE3.c -o GENIE3.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o GENIE3.so GENIE3.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-GENIE3/00new/GENIE3/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+in method for ‘GENIE3’ with signature ‘"SummarizedExperiment"’: no definition for class “SummarizedExperiment”
+in method for ‘GENIE3’ with signature ‘"ExpressionSet"’: no definition for class “ExpressionSet”
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GENIE3’ as ‘GENIE3_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GENIE3)
+
+The downloaded source packages are in
+	‘/tmp/RtmpYVfoIj/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘SummarizedExperiment’ had non-zero exit status
+
+real	0m46.916s
+user	0m7.727s
+sys	0m3.829s

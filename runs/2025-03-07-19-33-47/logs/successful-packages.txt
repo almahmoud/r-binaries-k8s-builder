@@ -421,3 +421,14 @@ FitHiC
 GSCA
 OpenStats
 RAREsim
+abseqR
+FRGEpistasis
+GEM
+GENIE3
+immunotation
+MassArray
+matchBox
+mistyR
+QuaternaryProd
+RCX
+RRHO

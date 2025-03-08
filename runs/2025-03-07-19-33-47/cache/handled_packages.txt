@@ -68,8 +68,11 @@ EnMCB
 EnhancedVolcano
 EpiDISH
 FGNet
+FRGEpistasis
 FitHiC
 GAprediction
+GEM
+GENIE3
 GEOfastq
 GEOmetadb
 GEWIST
@@ -128,6 +131,7 @@ MSstatsConvert
 MSstatsLOBD
 MVCClass
 MantelCorr
+MassArray
 MassSpecWavelet
 MeasurementError.cor
 Mergeomics
@@ -153,8 +157,10 @@ PhenoGeneRanker
 PoDCall
 ProtGenerics
 QUBIC
+QuaternaryProd
 RAREsim
 RCASPAR
+RCX
 RDRToolbox
 REBET
 RImmPort
@@ -164,6 +170,7 @@ RNASeqPower
 RNAdecay
 ROC
 RProtoBufLib
+RRHO
 RTCGA
 RankProd
 Rbowtie
@@ -201,6 +208,7 @@ VERSO
 VennDetail
 XINA
 a4Reporting
+abseqR
 acde
 affxparser
 affyio
@@ -309,6 +317,7 @@ iPath
 iSeq
 ibh
 illuminaio
+immunotation
 interacCircos
 iterativeBMAsurv
 koinar
@@ -320,6 +329,7 @@ lpsymphony
 maCorrPlot
 magrene
 mapscape
+matchBox
 messina
 metaCCA
 metabinR
@@ -332,6 +342,7 @@ miRNApath
 mina
 minet
 mirTarRnaSeq
+mistyR
 mixOmics
 multiClust
 mzID
