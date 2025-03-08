@@ -1,0 +1,125 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'SingleR'
+also installing the dependencies ‘alabaster.sce’, ‘SingleCellExperiment’, ‘scRNAseq’, ‘celldex’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/alabaster.sce_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 226147 bytes (220 KB)
+==================================================
+downloaded 220 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SingleCellExperiment_1.28.1.tar.gz'
+Content type 'application/x-gzip' length 985694 bytes (962 KB)
+==================================================
+downloaded 962 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/scRNAseq_2.20.0.tar.gz'
+Content type 'application/x-gzip' length 309971 bytes (302 KB)
+==================================================
+downloaded 302 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/celldex_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 412240 bytes (402 KB)
+==================================================
+downloaded 402 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SingleR_2.8.0.tar.gz'
+Content type 'application/x-gzip' length 691650 bytes (675 KB)
+==================================================
+downloaded 675 KB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-SingleCellExperiment’
+* installing *source* package ‘celldex’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘celldex’ as ‘celldex_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (celldex)
+* installing *source* package ‘SingleR’ ...
+** package ‘SingleR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++17
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/assorthead/include' -I'/mnt/library/BiocNeighbors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/assorthead/include' -I'/mnt/library/BiocNeighbors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c classify_integrated.cpp -o classify_integrated.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/assorthead/include' -I'/mnt/library/BiocNeighbors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c classify_single.cpp -o classify_single.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/assorthead/include' -I'/mnt/library/BiocNeighbors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c find_classic_markers.cpp -o find_classic_markers.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/assorthead/include' -I'/mnt/library/BiocNeighbors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c grouped_medians.cpp -o grouped_medians.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/assorthead/include' -I'/mnt/library/BiocNeighbors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c train_integrated.cpp -o train_integrated.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/assorthead/include' -I'/mnt/library/BiocNeighbors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c train_single.cpp -o train_single.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o SingleR.so RcppExports.o classify_integrated.o classify_single.o find_classic_markers.o grouped_medians.o train_integrated.o train_single.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-SingleR/00new/SingleR/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SingleR’ as ‘SingleR_2.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SingleR)
+* installing *source* package ‘alabaster.sce’ ...
+** package ‘alabaster.sce’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘alabaster.sce’ as ‘alabaster.sce_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (alabaster.sce)
+* installing *source* package ‘scRNAseq’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘scRNAseq’ as ‘scRNAseq_2.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scRNAseq)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp65yUd4/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘SingleCellExperiment’ had non-zero exit status
+
+real	4m16.142s
+user	2m11.046s
+sys	0m18.147s
