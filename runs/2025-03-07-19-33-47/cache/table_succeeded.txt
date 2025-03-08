@@ -469,3 +469,6 @@
 ['[lmdme](https://bioconductor.org/packages/3.20/bioc/html/lmdme.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/lmdme/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lmdme)']
 ['[marray](https://bioconductor.org/packages/3.20/bioc/html/marray.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/marray/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/marray)']
 ['[oppti](https://bioconductor.org/packages/3.20/bioc/html/oppti.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/oppti/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/oppti)']
+['[AWFisher](https://bioconductor.org/packages/3.20/bioc/html/AWFisher.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/AWFisher/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AWFisher)']
+['[CIMICE](https://bioconductor.org/packages/3.20/bioc/html/CIMICE.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/CIMICE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CIMICE)']
+['[RBM](https://bioconductor.org/packages/3.20/bioc/html/RBM.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/RBM/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RBM)']

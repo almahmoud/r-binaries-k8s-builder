@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 471 packages built successfully
+- 474 packages built successfully
 - 0 packages failed to build
-- 1762 packages not yet processed
+- 1759 packages not yet processed
 
 
-## Successfully Built (471)
+## Successfully Built (474)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -483,8 +483,11 @@
 | [lmdme](https://bioconductor.org/packages/3.20/bioc/html/lmdme.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/lmdme/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lmdme)                   |
 | [marray](https://bioconductor.org/packages/3.20/bioc/html/marray.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/marray/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/marray)                  |
 | [oppti](https://bioconductor.org/packages/3.20/bioc/html/oppti.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/oppti/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/oppti)                   |
+| [AWFisher](https://bioconductor.org/packages/3.20/bioc/html/AWFisher.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/AWFisher/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AWFisher)                |
+| [CIMICE](https://bioconductor.org/packages/3.20/bioc/html/CIMICE.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/CIMICE/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CIMICE)                  |
+| [RBM](https://bioconductor.org/packages/3.20/bioc/html/RBM.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/RBM/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RBM)                     |
 
-## Not Yet Processed (1762)
+## Not Yet Processed (1759)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ABarray](https://bioconductor.org/packages/3.20/bioc/html/ABarray.html)                                         | Unprocessed |
@@ -510,7 +513,6 @@
 | [ATACseqQC](https://bioconductor.org/packages/3.20/bioc/html/ATACseqQC.html)                                     | Unprocessed |
 | [ATACseqTFEA](https://bioconductor.org/packages/3.20/bioc/html/ATACseqTFEA.html)                                 | Unprocessed |
 | [AUCell](https://bioconductor.org/packages/3.20/bioc/html/AUCell.html)                                           | Unprocessed |
-| [AWFisher](https://bioconductor.org/packages/3.20/bioc/html/AWFisher.html)                                       | Unprocessed |
 | [AffiXcan](https://bioconductor.org/packages/3.20/bioc/html/AffiXcan.html)                                       | Unprocessed |
 | [AffyRNADegradation](https://bioconductor.org/packages/3.20/bioc/html/AffyRNADegradation.html)                   | Unprocessed |
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                                 | Unprocessed |
@@ -600,7 +602,6 @@
 | [CGHregions](https://bioconductor.org/packages/3.20/bioc/html/CGHregions.html)                                   | Unprocessed |
 | [CHETAH](https://bioconductor.org/packages/3.20/bioc/html/CHETAH.html)                                           | Unprocessed |
 | [CHRONOS](https://bioconductor.org/packages/3.20/bioc/html/CHRONOS.html)                                         | Unprocessed |
-| [CIMICE](https://bioconductor.org/packages/3.20/bioc/html/CIMICE.html)                                           | Unprocessed |
 | [CINdex](https://bioconductor.org/packages/3.20/bioc/html/CINdex.html)                                           | Unprocessed |
 | [CMA](https://bioconductor.org/packages/3.20/bioc/html/CMA.html)                                                 | Unprocessed |
 | [CNEr](https://bioconductor.org/packages/3.20/bioc/html/CNEr.html)                                               | Unprocessed |
@@ -1101,7 +1102,6 @@
 | [R4RNA](https://bioconductor.org/packages/3.20/bioc/html/R4RNA.html)                                             | Unprocessed |
 | [RAIDS](https://bioconductor.org/packages/3.20/bioc/html/RAIDS.html)                                             | Unprocessed |
 | [RBGL](https://bioconductor.org/packages/3.20/bioc/html/RBGL.html)                                               | Unprocessed |
-| [RBM](https://bioconductor.org/packages/3.20/bioc/html/RBM.html)                                                 | Unprocessed |
 | [RBioFormats](https://bioconductor.org/packages/3.20/bioc/html/RBioFormats.html)                                 | Unprocessed |
 | [RBioinf](https://bioconductor.org/packages/3.20/bioc/html/RBioinf.html)                                         | Unprocessed |
 | [RCAS](https://bioconductor.org/packages/3.20/bioc/html/RCAS.html)                                               | Unprocessed |

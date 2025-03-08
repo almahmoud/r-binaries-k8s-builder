@@ -6,6 +6,7 @@ ASAFE
 ASEB
 ASGSCA
 ASSET
+AWFisher
 AlphaBeta
 AlphaMissenseR
 AlpsNMR
@@ -37,6 +38,7 @@ BufferedMatrixMethods
 CARNIVAL
 CFAssay
 CGEN
+CIMICE
 CNAnorm
 CONSTANd
 COSNet
@@ -169,6 +171,7 @@ ProtGenerics
 QUBIC
 QuaternaryProd
 RAREsim
+RBM
 RCASPAR
 RCX
 RDRToolbox
