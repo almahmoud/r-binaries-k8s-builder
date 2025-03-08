@@ -986,6 +986,7 @@ Ularcirc
 UniProt.ws
 Uniquorn
 VAExprs
+VCFArray
 VDJdive
 VERSO
 VaSP
@@ -1295,6 +1296,7 @@ epivizrData
 epivizrServer
 epivizrStandalone
 erccdashboard
+erma
 esATAC
 escheR
 esetVis

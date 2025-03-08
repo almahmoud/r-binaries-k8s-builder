@@ -2088,3 +2088,5 @@
 ['[alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/alabaster.vcf/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.vcf)']
 ['[biovizBase](https://bioconductor.org/packages/3.20/bioc/html/biovizBase.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/biovizBase/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biovizBase)']
 ['[GA4GHshiny](https://bioconductor.org/packages/3.20/bioc/html/GA4GHshiny.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/GA4GHshiny/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GA4GHshiny)']
+['[VCFArray](https://bioconductor.org/packages/3.20/bioc/html/VCFArray.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/VCFArray/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VCFArray)']
+['[erma](https://bioconductor.org/packages/3.20/bioc/html/erma.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/erma/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/erma)']

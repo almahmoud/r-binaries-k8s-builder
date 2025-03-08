@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2090 packages built successfully
+- 2092 packages built successfully
 - 0 packages failed to build
-- 143 packages not yet processed
+- 141 packages not yet processed
 
 
-## Successfully Built (2090)
+## Successfully Built (2092)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2102,8 +2102,10 @@
 | [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/alabaster.vcf/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.vcf)               |
 | [biovizBase](https://bioconductor.org/packages/3.20/bioc/html/biovizBase.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/biovizBase/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biovizBase)                  |
 | [GA4GHshiny](https://bioconductor.org/packages/3.20/bioc/html/GA4GHshiny.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/GA4GHshiny/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GA4GHshiny)                  |
+| [VCFArray](https://bioconductor.org/packages/3.20/bioc/html/VCFArray.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/VCFArray/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VCFArray)                    |
+| [erma](https://bioconductor.org/packages/3.20/bioc/html/erma.html)                                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/erma/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/erma)                        |
 
-## Not Yet Processed (143)
+## Not Yet Processed (141)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                           | Unprocessed |
@@ -2164,7 +2166,6 @@
 | [SingleMoleculeFootprinting](https://bioconductor.org/packages/3.20/bioc/html/SingleMoleculeFootprinting.html) | Unprocessed |
 | [SomaticSignatures](https://bioconductor.org/packages/3.20/bioc/html/SomaticSignatures.html)                   | Unprocessed |
 | [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                             | Unprocessed |
-| [VCFArray](https://bioconductor.org/packages/3.20/bioc/html/VCFArray.html)                                     | Unprocessed |
 | [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)                     | Unprocessed |
 | [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                             | Unprocessed |
 | [YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)                                           | Unprocessed |
@@ -2195,7 +2196,6 @@
 | [enhancerHomologSearch](https://bioconductor.org/packages/3.20/bioc/html/enhancerHomologSearch.html)           | Unprocessed |
 | [epimutacions](https://bioconductor.org/packages/3.20/bioc/html/epimutacions.html)                             | Unprocessed |
 | [epiregulon](https://bioconductor.org/packages/3.20/bioc/html/epiregulon.html)                                 | Unprocessed |
-| [erma](https://bioconductor.org/packages/3.20/bioc/html/erma.html)                                             | Unprocessed |
 | [escape](https://bioconductor.org/packages/3.20/bioc/html/escape.html)                                         | Unprocessed |
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                                 | Unprocessed |
 | [fcScan](https://bioconductor.org/packages/3.20/bioc/html/fcScan.html)                                         | Unprocessed |
