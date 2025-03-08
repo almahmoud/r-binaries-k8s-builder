@@ -1603,3 +1603,15 @@ orthos
 partCNV
 SeqSQC
 sesame
+BindingSiteFinder
+cfTools
+crisprScore
+easier
+enrichplot
+ensembldb
+factR
+geneAttribution
+m6Aboost
+RegEnrich
+SplicingGraphs
+tenXplore

@@ -1720,3 +1720,8 @@ transcriptR
 wavClusteR
 xcms
 CTexploreR
+ChIPseeker
+TDbasedUFEadv
+clusterProfiler
+enrichViewNet
+meshes
