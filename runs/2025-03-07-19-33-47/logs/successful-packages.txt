@@ -1562,3 +1562,8 @@ GWENA
 KEGGlincs
 keggorthology
 LiquidAssociation
+customCMPdb
+kissDE
+multiMiR
+multiWGCNA
+phantasus

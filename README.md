@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1564 packages built successfully
+- 1569 packages built successfully
 - 0 packages failed to build
-- 669 packages not yet processed
+- 664 packages not yet processed
 
 
-## Successfully Built (1564)
+## Successfully Built (1569)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1576,8 +1576,13 @@
 | [KEGGlincs](https://bioconductor.org/packages/3.20/bioc/html/KEGGlincs.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/KEGGlincs/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/KEGGlincs)                  |
 | [LiquidAssociation](https://bioconductor.org/packages/3.20/bioc/html/LiquidAssociation.html)                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/LiquidAssociation/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/LiquidAssociation)          |
 | [keggorthology](https://bioconductor.org/packages/3.20/bioc/html/keggorthology.html)                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/keggorthology/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/keggorthology)              |
+| [customCMPdb](https://bioconductor.org/packages/3.20/bioc/html/customCMPdb.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/customCMPdb/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/customCMPdb)                |
+| [kissDE](https://bioconductor.org/packages/3.20/bioc/html/kissDE.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/kissDE/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/kissDE)                     |
+| [multiMiR](https://bioconductor.org/packages/3.20/bioc/html/multiMiR.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/multiMiR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multiMiR)                   |
+| [multiWGCNA](https://bioconductor.org/packages/3.20/bioc/html/multiWGCNA.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/multiWGCNA/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multiWGCNA)                 |
+| [phantasus](https://bioconductor.org/packages/3.20/bioc/html/phantasus.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/phantasus/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/phantasus)                  |
 
-## Not Yet Processed (669)
+## Not Yet Processed (664)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADAMgui](https://bioconductor.org/packages/3.20/bioc/html/ADAMgui.html)                                         | Unprocessed |
@@ -1978,7 +1983,6 @@
 | [crisprViz](https://bioconductor.org/packages/3.20/bioc/html/crisprViz.html)                                     | Unprocessed |
 | [csdR](https://bioconductor.org/packages/3.20/bioc/html/csdR.html)                                               | Unprocessed |
 | [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                                   | Unprocessed |
-| [customCMPdb](https://bioconductor.org/packages/3.20/bioc/html/customCMPdb.html)                                 | Unprocessed |
 | [customProDB](https://bioconductor.org/packages/3.20/bioc/html/customProDB.html)                                 | Unprocessed |
 | [dagLogo](https://bioconductor.org/packages/3.20/bioc/html/dagLogo.html)                                         | Unprocessed |
 | [dce](https://bioconductor.org/packages/3.20/bioc/html/dce.html)                                                 | Unprocessed |
@@ -2070,7 +2074,6 @@
 | [isomiRs](https://bioconductor.org/packages/3.20/bioc/html/isomiRs.html)                                         | Unprocessed |
 | [karyoploteR](https://bioconductor.org/packages/3.20/bioc/html/karyoploteR.html)                                 | Unprocessed |
 | [katdetectr](https://bioconductor.org/packages/3.20/bioc/html/katdetectr.html)                                   | Unprocessed |
-| [kissDE](https://bioconductor.org/packages/3.20/bioc/html/kissDE.html)                                           | Unprocessed |
 | [knowYourCG](https://bioconductor.org/packages/3.20/bioc/html/knowYourCG.html)                                   | Unprocessed |
 | [lineagespot](https://bioconductor.org/packages/3.20/bioc/html/lineagespot.html)                                 | Unprocessed |
 | [lisaClust](https://bioconductor.org/packages/3.20/bioc/html/lisaClust.html)                                     | Unprocessed |
@@ -2113,8 +2116,6 @@
 | [msmsEDA](https://bioconductor.org/packages/3.20/bioc/html/msmsEDA.html)                                         | Unprocessed |
 | [msmsTests](https://bioconductor.org/packages/3.20/bioc/html/msmsTests.html)                                     | Unprocessed |
 | [multiGSEA](https://bioconductor.org/packages/3.20/bioc/html/multiGSEA.html)                                     | Unprocessed |
-| [multiMiR](https://bioconductor.org/packages/3.20/bioc/html/multiMiR.html)                                       | Unprocessed |
-| [multiWGCNA](https://bioconductor.org/packages/3.20/bioc/html/multiWGCNA.html)                                   | Unprocessed |
 | [multicrispr](https://bioconductor.org/packages/3.20/bioc/html/multicrispr.html)                                 | Unprocessed |
 | [musicatk](https://bioconductor.org/packages/3.20/bioc/html/musicatk.html)                                       | Unprocessed |
 | [mygene](https://bioconductor.org/packages/3.20/bioc/html/mygene.html)                                           | Unprocessed |
@@ -2142,7 +2143,6 @@
 | [pathview](https://bioconductor.org/packages/3.20/bioc/html/pathview.html)                                       | Unprocessed |
 | [pcaExplorer](https://bioconductor.org/packages/3.20/bioc/html/pcaExplorer.html)                                 | Unprocessed |
 | [peakPantheR](https://bioconductor.org/packages/3.20/bioc/html/peakPantheR.html)                                 | Unprocessed |
-| [phantasus](https://bioconductor.org/packages/3.20/bioc/html/phantasus.html)                                     | Unprocessed |
 | [phenoTest](https://bioconductor.org/packages/3.20/bioc/html/phenoTest.html)                                     | Unprocessed |
 | [pogos](https://bioconductor.org/packages/3.20/bioc/html/pogos.html)                                             | Unprocessed |
 | [preciseTAD](https://bioconductor.org/packages/3.20/bioc/html/preciseTAD.html)                                   | Unprocessed |

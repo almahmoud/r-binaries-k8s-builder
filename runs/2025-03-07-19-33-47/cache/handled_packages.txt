@@ -892,6 +892,7 @@ crlmm
 csaw
 ctc
 ctsGE
+customCMPdb
 cyanoFilter
 cycle
 cydar
@@ -1107,6 +1108,7 @@ iterativeBMAsurv
 ivygapSE
 kebabs
 keggorthology
+kissDE
 kmcut
 koinar
 lapmix
@@ -1208,6 +1210,8 @@ msa
 msqrob2
 multiClust
 multiHiCcompare
+multiMiR
+multiWGCNA
 multiscan
 multistateQTL
 multtest
@@ -1272,6 +1276,7 @@ periodicDNA
 pfamAnalyzeR
 pgca
 pgxRpi
+phantasus
 phantasusLite
 phenomis
 phenopath
