@@ -556,6 +556,7 @@ ReadqPCR
 RedeR
 RedisParam
 RegionalST
+Repitools
 ResidualMatrix
 Rfastp
 Rgraphviz
@@ -628,6 +629,7 @@ SparseSignatures
 SpatialCPie
 SpatialExperiment
 SpatialFeatureExperiment
+SpatialOmicsOverlay
 SpeCond
 Spectra
 SpectraQL
@@ -927,6 +929,7 @@ geneRecommender
 geneRxCluster
 geneplast
 genoCN
+genomation
 genomeIntervals
 genomes
 genomicInstability
@@ -957,6 +960,7 @@ h5vc
 hapFabia
 hca
 heatmaps
+hiAnnotator
 hicVennDiagram
 hierGWAS
 hierinf
@@ -1139,6 +1143,7 @@ pdInfoBuilder
 pengls
 pepStat
 pepXMLTab
+periodicDNA
 pfamAnalyzeR
 pgca
 pgxRpi
@@ -1163,6 +1168,7 @@ plyranges
 plyxp
 pmm
 pmp
+podkat
 powerTCR
 ppcseq
 pqsfinder
@@ -1210,6 +1216,7 @@ reconsi
 recount3
 regionalpcs
 regioneR
+regioneReloaded
 regsplice
 retrofit
 rexposome

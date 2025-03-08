@@ -1480,3 +1480,6 @@ DiffBind
 epigraHMM
 iCNV
 regioneReloaded
+CexoR
+fCCAC
+hiReadsProcessor

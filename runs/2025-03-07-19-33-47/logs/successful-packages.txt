@@ -1406,3 +1406,10 @@ qsea
 rGADEM
 spiky
 tRNAscanImport
+genomation
+hiAnnotator
+periodicDNA
+podkat
+regioneReloaded
+Repitools
+SpatialOmicsOverlay
