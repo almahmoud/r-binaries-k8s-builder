@@ -2193,3 +2193,5 @@
 ['[iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/iNETgrate/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iNETgrate)']
 ['[ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/ideal/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ideal)']
 ['[miRLAB](https://bioconductor.org/packages/3.20/bioc/html/miRLAB.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/miRLAB/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miRLAB)']
+['[ChAMP](https://bioconductor.org/packages/3.20/bioc/html/ChAMP.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/ChAMP/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ChAMP)']
+['[categoryCompare](https://bioconductor.org/packages/3.20/bioc/html/categoryCompare.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/categoryCompare/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/categoryCompare)']

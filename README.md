@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2195 packages built successfully
+- 2197 packages built successfully
 - 0 packages failed to build
-- 38 packages not yet processed
+- 36 packages not yet processed
 
 
-## Successfully Built (2195)
+## Successfully Built (2197)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2207,14 +2207,15 @@
 | [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/iNETgrate/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iNETgrate)                   |
 | [ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/ideal/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ideal)                       |
 | [miRLAB](https://bioconductor.org/packages/3.20/bioc/html/miRLAB.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/miRLAB/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miRLAB)                      |
+| [ChAMP](https://bioconductor.org/packages/3.20/bioc/html/ChAMP.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/ChAMP/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ChAMP)                       |
+| [categoryCompare](https://bioconductor.org/packages/3.20/bioc/html/categoryCompare.html)                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/categoryCompare/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/categoryCompare)             |
 
-## Not Yet Processed (38)
+## Not Yet Processed (36)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                     | Unprocessed |
 | [CAGEfightR](https://bioconductor.org/packages/3.20/bioc/html/CAGEfightR.html)                       | Unprocessed |
 | [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)                                 | Unprocessed |
-| [ChAMP](https://bioconductor.org/packages/3.20/bioc/html/ChAMP.html)                                 | Unprocessed |
 | [ELMER](https://bioconductor.org/packages/3.20/bioc/html/ELMER.html)                                 | Unprocessed |
 | [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)       | Unprocessed |
 | [GenomicInteractions](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractions.html)     | Unprocessed |
@@ -2232,7 +2233,6 @@
 | [SPLINTER](https://bioconductor.org/packages/3.20/bioc/html/SPLINTER.html)                           | Unprocessed |
 | [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                   | Unprocessed |
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                 | Unprocessed |
-| [categoryCompare](https://bioconductor.org/packages/3.20/bioc/html/categoryCompare.html)             | Unprocessed |
 | [cicero](https://bioconductor.org/packages/3.20/bioc/html/cicero.html)                               | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                               | Unprocessed |
 | [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                       | Unprocessed |

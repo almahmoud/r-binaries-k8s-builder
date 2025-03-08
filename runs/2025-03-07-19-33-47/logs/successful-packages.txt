@@ -2193,3 +2193,5 @@ iNETgrate
 miRLAB
 ReportingTools
 SGCP
+categoryCompare
+ChAMP

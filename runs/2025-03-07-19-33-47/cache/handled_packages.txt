@@ -197,6 +197,7 @@ CellTrails
 CelliD
 Cepo
 CexoR
+ChAMP
 ChIPComp
 ChIPQC
 ChIPXpress
@@ -1174,6 +1175,7 @@ canceR
 cancerclass
 cardelino
 casper
+categoryCompare
 cbaf
 cbpManager
 ccImpute
