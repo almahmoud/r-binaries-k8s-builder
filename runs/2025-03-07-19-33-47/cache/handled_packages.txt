@@ -123,8 +123,10 @@ Cormotif
 CuratedAtlasQueryR
 CytoDx
 CytoGLMM
+CytoMDS
 CytoML
 CytoPipeline
+CytoPipelineGUI
 DART
 DCATS
 DECIPHER
@@ -160,6 +162,7 @@ DirichletMultinomial
 DiscoRhythm
 Doscheda
 DriverNet
+Dune
 DynDoc
 EBImage
 EBSeq
@@ -286,21 +289,26 @@ LBE
 LEA
 LPE
 LedPred
+LinTInd
 Linnorm
 LoomExperiment
 M3C
 MACSQuantifyR
+MAI
 MANOR
 MAPFX
 MAST
+MBASED
 MBAmethyl
 MBCB
+MBQN
 MBttest
 MEIGOR
 MMUPHin
 MOFA2
 MOGAMUN
 MPFE
+MPRAnalyze
 MSA2dist
 MSstats
 MSstatsBig
@@ -320,10 +328,12 @@ Mergeomics
 MetCirc
 MetID
 MetMashR
+MetNet
 MetaCyto
 MetaNeighbor
 MetaboCoreUtils
 MethPed
+MethTargetedNGS
 MethylMix
 Mfuzz
 MiChip
@@ -372,6 +382,7 @@ PANR
 PCAN
 PCAtools
 PIPETS
+PIUMA
 PLPE
 PLSDAbatch
 POWSC
@@ -513,6 +524,7 @@ SpatialExperiment
 SpeCond
 Spectra
 SpectraQL
+SplicingFactory
 SpotClean
 SpotSweeper
 Streamer
@@ -583,6 +595,7 @@ altcdfenvs
 annotationTools
 anota
 antiProfiles
+apeglm
 aroma.light
 arrayQuality
 assorthead
@@ -599,6 +612,7 @@ baySeq
 bcSeq
 beachmat
 beachmat.hdf5
+beer
 bettr
 bioDist
 bioassayR
@@ -658,6 +672,7 @@ convert
 copa
 covEB
 cqn
+crisprBase
 crlmm
 ctc
 ctsGE
@@ -667,6 +682,7 @@ cydar
 cytoMEM
 cytolib
 cytomapper
+cytoviewer
 dStruct
 daMA
 dcGSA
@@ -878,6 +894,7 @@ mosbi
 motifcounter
 mpra
 msPurity
+msa
 multiClust
 multiscan
 multtest
@@ -1043,6 +1060,7 @@ sights
 sigsquared
 similaRpeak
 simona
+simpleSeg
 sincell
 sitePath
 sizepower
