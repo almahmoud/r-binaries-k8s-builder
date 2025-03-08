@@ -1492,3 +1492,4 @@ treekoR
 mimager
 HiCDOC
 Statial
+tidyomics

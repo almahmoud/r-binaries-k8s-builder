@@ -1453,3 +1453,11 @@ RNAsense
 speckle
 TADCompare
 treekoR
+EGAD
+getDEE2
+multistateQTL
+sangeranalyseR
+switchde
+tidySummarizedExperiment
+transomics2cytoscape
+waddR

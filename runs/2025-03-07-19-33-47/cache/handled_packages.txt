@@ -218,6 +218,7 @@ EBSeq
 EBarrays
 EBcoexpress
 EDIRquery
+EGAD
 EMDomics
 ERSSA
 EmpiricalBrownsMethod
@@ -962,6 +963,7 @@ genomation
 genomeIntervals
 genomes
 genomicInstability
+getDEE2
 geva
 gg4way
 ggcyto
@@ -1128,6 +1130,7 @@ msa
 multiClust
 multiHiCcompare
 multiscan
+multistateQTL
 multtest
 mumosa
 muscat
@@ -1285,6 +1288,7 @@ runibic
 sRACIPE
 sSeq
 sagenhaft
+sangeranalyseR
 sangerseqR
 sarks
 satuRn
@@ -1390,6 +1394,7 @@ survcomp
 survtype
 swfdr
 switchBox
+switchde
 synapsis
 synergyfinder
 synlet
@@ -1407,6 +1412,7 @@ tidyCoverage
 tidyFlowCore
 tidySingleCellExperiment
 tidySpatialExperiment
+tidySummarizedExperiment
 tidybulk
 tidysbml
 tidytof
@@ -1420,6 +1426,7 @@ tpSVG
 tracktables
 transformGamPoi
 transite
+transomics2cytoscape
 traseR
 treeio
 treekoR
@@ -1442,6 +1449,7 @@ veloviz
 vidger
 viper
 vsn
+waddR
 weaver
 widgetTools
 wiggleplotr
