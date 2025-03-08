@@ -1,0 +1,60 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'antiProfiles'
+also installing the dependencies ‘Biobase’, ‘antiProfilesData’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biobase_2.66.0.tar.gz'
+Content type 'application/x-gzip' length 1978998 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/antiProfilesData_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 2846057 bytes (2.7 MB)
+==================================================
+downloaded 2.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/antiProfiles_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 114180 bytes (111 KB)
+==================================================
+downloaded 111 KB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-Biobase’
+* installing *source* package ‘antiProfiles’ ...
+** package ‘antiProfiles’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘antiProfiles’ as ‘antiProfiles_1.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (antiProfiles)
+ERROR: dependency ‘Biobase’ is not available for package ‘antiProfilesData’
+* removing ‘/mnt/library/antiProfilesData’
+
+The downloaded source packages are in
+	‘/tmp/Rtmpzfy1Gp/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘Biobase’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘antiProfilesData’ had non-zero exit status
+
+real	0m11.124s
+user	0m4.736s
+sys	0m2.094s

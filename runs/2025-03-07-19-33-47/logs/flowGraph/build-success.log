@@ -1,0 +1,89 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'flowGraph'
+also installing the dependencies ‘effsize’, ‘furrr’, ‘ggiraph’, ‘visNetwork’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/effsize_0.8.1.tar.gz'
+Content type 'binary/octet-stream' length 63967 bytes (62 KB)
+==================================================
+downloaded 62 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/furrr_0.3.1.tar.gz'
+Content type 'binary/octet-stream' length 1019444 bytes (995 KB)
+==================================================
+downloaded 995 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggiraph_0.8.12.tar.gz'
+Content type 'binary/octet-stream' length 1426750 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/visNetwork_2.1.2.tar.gz'
+Content type 'binary/octet-stream' length 4654467 bytes (4.4 MB)
+==================================================
+downloaded 4.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/flowGraph_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 2107642 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+* installing *binary* package ‘effsize’ ...
+* ‘effsize’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘effsize’ as ‘effsize_0.8.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (effsize)
+* installing *binary* package ‘furrr’ ...
+* ‘furrr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘furrr’ as ‘furrr_0.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (furrr)
+* installing *binary* package ‘ggiraph’ ...
+* ‘ggiraph’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggiraph’ as ‘ggiraph_0.8.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggiraph)
+* installing *binary* package ‘visNetwork’ ...
+* ‘visNetwork’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘visNetwork’ as ‘visNetwork_2.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (visNetwork)
+* installing *source* package ‘flowGraph’ ...
+** package ‘flowGraph’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+Error: package or namespace load failed for ‘flowGraph’ in library.dynam(lib, package, package.lib):
+ shared object ‘matrixStats.so’ not found
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/flowGraph’
+
+The downloaded source packages are in
+	‘/tmp/RtmpRGWyzJ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘flowGraph’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m51.237s
+user	0m12.765s
+sys	0m5.064s

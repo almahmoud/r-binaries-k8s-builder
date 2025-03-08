@@ -1,0 +1,70 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'RedeR'
+also installing the dependency ‘TreeAndLeaf’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/TreeAndLeaf_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 6168334 bytes (5.9 MB)
+==================================================
+downloaded 5.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/RedeR_3.2.0.tar.gz'
+Content type 'application/x-gzip' length 4562353 bytes (4.4 MB)
+==================================================
+downloaded 4.4 MB
+
+* installing *source* package ‘RedeR’ ...
+** package ‘RedeR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RedeR’ as ‘RedeR_3.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RedeR)
+* installing *source* package ‘TreeAndLeaf’ ...
+** package ‘TreeAndLeaf’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+Warning: S3 methods ‘is.binary.tree’, ‘[.AAbin’, ‘as.character.AAbin’, ‘as.list.AAbin’, ‘as.matrix.AAbin’, ‘c.AAbin’, ‘cbind.AAbin’, ‘image.AAbin’, ‘labels.AAbin’, ‘print.AAbin’, ‘rbind.AAbin’, ‘updateLabel.AAbin’, ‘AIC.ace’, ‘anova.ace’, ‘deviance.ace’, ‘logLik.ace’, ‘print.ace’, ‘print.binaryPGLMM’, ‘as.prop.part.bitsplits’, ‘is.compatible.bitsplits’, ‘print.bitsplits’, ‘sort.bitsplits’, ‘drop1.compar.gee’, ‘predict.compar.gee’, ‘print.compar.gee’, ‘print.corphylo’, ‘[.DNAbin’, ‘all.equal.DNAbin’, ‘as.character.DNAbin’, ‘as.list.DNAbin’, ‘as.matrix.DNAbin’, ‘c.DNAbin’, ‘cbind.DNAbin’, ‘image.DNAbin’, ‘labels.DNAbin’, ‘makeLabel.DNAbin’, ‘print.DNAbin’, ‘rbind.DNAbin’, ‘updateLabel.DNAbin’, ‘as.phylo.evonet’, ‘degree.evonet’, ‘Nedge.evonet’, ‘plot.evonet’, ‘print.evonet’, ‘reorder.evonet’, ‘updateLabel.evonet’,  [... truncated]
+Error: package or namespace load failed for ‘TreeAndLeaf’ in find.package(package, lib.loc, verbose = verbose):
+ there is no package called ‘ape’
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/TreeAndLeaf’
+
+The downloaded source packages are in
+	‘/tmp/RtmpxKQZz8/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘TreeAndLeaf’ had non-zero exit status
+
+real	0m28.170s
+user	0m9.920s
+sys	0m3.246s

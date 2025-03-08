@@ -1,0 +1,114 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'randRotation'
+also installing the dependencies ‘XVector’, ‘GenomeInfoDb’, ‘Biostrings’, ‘KEGGREST’, ‘AnnotationDbi’, ‘annotate’, ‘genefilter’, ‘sva’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/x-gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biostrings_2.74.1.tar.gz'
+Content type 'application/x-gzip' length 12823307 bytes (12.2 MB)
+==================================================
+downloaded 12.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/KEGGREST_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 239655 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationDbi_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 4378038 bytes (4.2 MB)
+==================================================
+downloaded 4.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/annotate_1.84.0.tar.gz'
+Content type 'application/x-gzip' length 1877068 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/genefilter_1.88.0.tar.gz'
+Content type 'application/x-gzip' length 1122416 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/sva_3.54.0.tar.gz'
+Content type 'application/x-gzip' length 454419 bytes (443 KB)
+==================================================
+downloaded 443 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/randRotation_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 999498 bytes (976 KB)
+==================================================
+downloaded 976 KB
+
+ERROR: dependency ‘BiocGenerics’ is not available for package ‘XVector’
+* removing ‘/mnt/library/XVector’
+ERROR: dependency ‘BiocGenerics’ is not available for package ‘GenomeInfoDb’
+* removing ‘/mnt/library/GenomeInfoDb’
+* installing *source* package ‘randRotation’ ...
+** package ‘randRotation’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘randRotation’ as ‘randRotation_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (randRotation)
+ERROR: dependencies ‘BiocGenerics’, ‘XVector’, ‘GenomeInfoDb’ are not available for package ‘Biostrings’
+* removing ‘/mnt/library/Biostrings’
+ERROR: dependency ‘Biostrings’ is not available for package ‘KEGGREST’
+* removing ‘/mnt/library/KEGGREST’
+ERROR: dependencies ‘BiocGenerics’, ‘KEGGREST’ are not available for package ‘AnnotationDbi’
+* removing ‘/mnt/library/AnnotationDbi’
+ERROR: dependencies ‘AnnotationDbi’, ‘BiocGenerics’ are not available for package ‘annotate’
+* removing ‘/mnt/library/annotate’
+ERROR: dependencies ‘AnnotationDbi’, ‘annotate’ are not available for package ‘genefilter’
+* removing ‘/mnt/library/genefilter’
+ERROR: dependency ‘genefilter’ is not available for package ‘sva’
+* removing ‘/mnt/library/sva’
+
+The downloaded source packages are in
+	‘/tmp/RtmpvVTE1T/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘XVector’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘GenomeInfoDb’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘Biostrings’ had non-zero exit status
+4: In install.packages(...) :
+  installation of package ‘KEGGREST’ had non-zero exit status
+5: In install.packages(...) :
+  installation of package ‘AnnotationDbi’ had non-zero exit status
+6: In install.packages(...) :
+  installation of package ‘annotate’ had non-zero exit status
+7: In install.packages(...) :
+  installation of package ‘genefilter’ had non-zero exit status
+8: In install.packages(...) :
+  installation of package ‘sva’ had non-zero exit status
+
+real	0m39.786s
+user	0m8.779s
+sys	0m4.589s

@@ -1,0 +1,85 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'EBSeq'
+also installing the dependencies ‘caTools’, ‘blockmodeling’, ‘gplots’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/caTools_1.18.3.tar.gz'
+Content type 'binary/octet-stream' length 205153 bytes (200 KB)
+==================================================
+downloaded 200 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/blockmodeling_1.1.5.tar.gz'
+Content type 'binary/octet-stream' length 428615 bytes (418 KB)
+==================================================
+downloaded 418 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gplots_3.2.0.tar.gz'
+Content type 'binary/octet-stream' length 496973 bytes (485 KB)
+==================================================
+downloaded 485 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/EBSeq_2.4.0.tar.gz'
+Content type 'application/x-gzip' length 1123684 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+* installing *binary* package ‘caTools’ ...
+* ‘caTools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘caTools’ as ‘caTools_1.18.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (caTools)
+* installing *binary* package ‘blockmodeling’ ...
+* ‘blockmodeling’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘blockmodeling’ as ‘blockmodeling_1.1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (blockmodeling)
+* installing *binary* package ‘gplots’ ...
+* ‘gplots’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gplots’ as ‘gplots_3.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gplots)
+* installing *source* package ‘EBSeq’ ...
+** package ‘EBSeq’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppEigen/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c Rexport.cpp -o Rexport.o
+In file included from /usr/include/boost/math/tools/series.hpp:16,
+                 from /usr/include/boost/math/special_functions/gamma.hpp:17,
+                 from agglomerativeClustering.hpp:9,
+                 from negativeBinomial.hpp:5,
+                 from Rexport.cpp:11:
+/usr/include/boost/math/tools/config.hpp:23:6: warning: #warning "The minimum language standard to use Boost.Math will be C++14 starting in July 2023 (Boost 1.82 release)" [-Wcpp]
+   23 | #    warning "The minimum language standard to use Boost.Math will be C++14 starting in July 2023 (Boost 1.82 release)"
+      |      ^~~~~~~
+In file included from /usr/include/boost/math/tools/convert_from_string.hpp:17,
+                 from /usr/include/boost/math/constants/constants.hpp:14,
+                 from /usr/include/boost/math/special_functions/gamma.hpp:24:
+/mnt/library/BH/include/boost/lexical_cast.hpp:30:10: fatal error: boost/lexical_cast/detail/buffer_view.hpp: No such file or directory
+   30 | #include <boost/lexical_cast/detail/buffer_view.hpp>
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make: *** [/usr/local/lib/R/etc/Makeconf:204: Rexport.o] Error 1
+ERROR: compilation failed for package ‘EBSeq’
+* removing ‘/mnt/library/EBSeq’
+
+The downloaded source packages are in
+	‘/tmp/RtmpSsChnW/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘EBSeq’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m8.711s
+user	0m3.002s
+sys	0m1.612s

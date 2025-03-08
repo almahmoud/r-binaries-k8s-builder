@@ -1,0 +1,198 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'koinar'
+also installing the dependencies ‘IRanges’, ‘MsCoreUtils’, ‘MetaboCoreUtils’, ‘Biobase’, ‘httptest’, ‘msdata’, ‘OrgMassSpecR’, ‘protViz’, ‘S4Vectors’, ‘Spectra’, ‘mzR’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MsCoreUtils_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 425701 bytes (415 KB)
+==================================================
+downloaded 415 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MetaboCoreUtils_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 1342736 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biobase_2.66.0.tar.gz'
+Content type 'application/x-gzip' length 1978998 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/httptest_4.2.2.tar.gz'
+Content type 'binary/octet-stream' length 187536 bytes (183 KB)
+==================================================
+downloaded 183 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/msdata_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 447124065 bytes (426.4 MB)
+==================================================
+downloaded 426.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/OrgMassSpecR_0.5-3.tar.gz'
+Content type 'binary/octet-stream' length 240388 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/protViz_0.7.9.tar.gz'
+Content type 'binary/octet-stream' length 3284810 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Vectors_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 1076666 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Spectra_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 1894262 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/mzR_2.40.0.tar.gz'
+Content type 'application/x-gzip' length 7882404 bytes (7.5 MB)
+==================================================
+downloaded 7.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/koinar_1.0.2.tar.gz'
+Content type 'application/x-gzip' length 1422760 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-Biobase’
+* installing *binary* package ‘httptest’ ...
+* ‘httptest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘httptest’ as ‘httptest_4.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (httptest)
+* installing *source* package ‘msdata’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘msdata’ as ‘msdata_0.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (msdata)
+* installing *binary* package ‘OrgMassSpecR’ ...
+* ‘OrgMassSpecR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘OrgMassSpecR’ as ‘OrgMassSpecR_0.5-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (OrgMassSpecR)
+* installing *binary* package ‘protViz’ ...
+* ‘protViz’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘protViz’ as ‘protViz_0.7.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (protViz)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-S4Vectors’
+* installing *source* package ‘koinar’ ...
+** package ‘koinar’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘koinar’ as ‘koinar_1.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (koinar)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-IRanges’
+* installing *source* package ‘MsCoreUtils’ ...
+** package ‘MsCoreUtils’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c between.c -o between.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c closest.c -o closest.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c impNeighbourAvg.c -o impNeighbourAvg.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c join.c -o join.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c localMaxima.c -o localMaxima.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c lowerConvexHull.c -o lowerConvexHull.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c maxi.c -o maxi.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c morphologicalFilters.c -o morphologicalFilters.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c snip.c -o snip.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sumi.c -o sumi.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c which.c -o which.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o MsCoreUtils.so between.o closest.o impNeighbourAvg.o init.o join.o localMaxima.o lowerConvexHull.o maxi.o morphologicalFilters.o snip.o sumi.o which.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-MsCoreUtils/00new/MsCoreUtils/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MsCoreUtils’ as ‘MsCoreUtils_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MsCoreUtils)
+ERROR: dependency ‘Rhdf5lib’ is not available for package ‘mzR’
+* removing ‘/mnt/library/mzR’
+* installing *source* package ‘MetaboCoreUtils’ ...
+** package ‘MetaboCoreUtils’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MetaboCoreUtils’ as ‘MetaboCoreUtils_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MetaboCoreUtils)
+ERROR: dependency ‘IRanges’ is not available for package ‘Spectra’
+* removing ‘/mnt/library/Spectra’
+
+The downloaded source packages are in
+	‘/tmp/RtmpGLlwPK/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘Biobase’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘S4Vectors’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘IRanges’ had non-zero exit status
+4: In install.packages(...) :
+  installation of package ‘mzR’ had non-zero exit status
+5: In install.packages(...) :
+  installation of package ‘Spectra’ had non-zero exit status
+
+real	2m16.851s
+user	1m14.894s
+sys	0m14.174s

@@ -1,0 +1,406 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'demuxmix'
+also installing the dependencies ‘UCSC.utils’, ‘GenomeInfoDb’, ‘XVector’, ‘Biobase’, ‘S4Arrays’, ‘sparseMatrixStats’, ‘rhdf5filters’, ‘assorthead’, ‘SingleCellExperiment’, ‘S4Vectors’, ‘IRanges’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘SparseArray’, ‘DelayedArray’, ‘DelayedMatrixStats’, ‘HDF5Array’, ‘rhdf5’, ‘edgeR’, ‘beachmat’, ‘scuttle’, ‘DropletUtils’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/UCSC.utils_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 236888 bytes (231 KB)
+==================================================
+downloaded 231 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/x-gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biobase_2.66.0.tar.gz'
+Content type 'application/x-gzip' length 1978998 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Arrays_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 288435 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/sparseMatrixStats_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 706413 bytes (689 KB)
+==================================================
+downloaded 689 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rhdf5filters_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 1190606 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/assorthead_1.0.1.tar.gz'
+Content type 'application/x-gzip' length 1734300 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SingleCellExperiment_1.28.1.tar.gz'
+Content type 'application/x-gzip' length 985694 bytes (962 KB)
+==================================================
+downloaded 962 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Vectors_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 1076666 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicRanges_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 1374658 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SparseArray_1.6.2.tar.gz'
+Content type 'application/x-gzip' length 468696 bytes (457 KB)
+==================================================
+downloaded 457 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedMatrixStats_1.28.1.tar.gz'
+Content type 'application/x-gzip' length 274322 bytes (267 KB)
+==================================================
+downloaded 267 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/HDF5Array_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 8107009 bytes (7.7 MB)
+==================================================
+downloaded 7.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rhdf5_2.50.2.tar.gz'
+Content type 'application/x-gzip' length 1310189 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/edgeR_4.4.2.tar.gz'
+Content type 'application/x-gzip' length 3445631 bytes (3.3 MB)
+==================================================
+downloaded 3.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/beachmat_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 378908 bytes (370 KB)
+==================================================
+downloaded 370 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/scuttle_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 1034711 bytes (1010 KB)
+==================================================
+downloaded 1010 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DropletUtils_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 595636 bytes (581 KB)
+==================================================
+downloaded 581 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/demuxmix_1.8.0.tar.gz'
+Content type 'application/x-gzip' length 1503074 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-Biobase’
+* installing *source* package ‘sparseMatrixStats’ ...
+** package ‘sparseMatrixStats’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c SparseMatrixView.cpp -o SparseMatrixView.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c methods.cpp -o methods.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c row_methods.cpp -o row_methods.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o sparseMatrixStats.so RcppExports.o SparseMatrixView.o methods.o row_methods.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-sparseMatrixStats/00new/sparseMatrixStats/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘sparseMatrixStats’ as ‘sparseMatrixStats_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sparseMatrixStats)
+* installing *source* package ‘rhdf5filters’ ...
+** package ‘rhdf5filters’ successfully unpacked and MD5 sums checked
+** using staged installation
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether the compiler supports GNU C... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to enable C11 features... none needed
+configure: is NOT Bioc build machine
+configure: configuring BZIP2 filter...
+checking for stdio.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for strings.h... yes
+checking for sys/stat.h... yes
+checking for sys/types.h... yes
+checking for unistd.h... yes
+checking for bzlib.h... yes
+checking for BZ2_bzDecompressInit in -lbz2... yes
+configure: Using system bzip2 library
+configure: configuring the Zstd filter...
+checking for zstd.h... yes
+checking for ZSTD_decompress in -lzstd... yes
+configure: Using system Zstd library
+configure: configuring the BLOSC filter...
+checking for blosc.h... yes
+checking for blosc_compress in -lblosc... yes
+configure: Using system BLOSC library
+configure: configuring the VBZ filter
+checking whether C compiler accepts -mavx... yes
+checking for x86 avx instruction support... yes
+configure: creating ./config.status
+config.status: creating src/bzip2/Makefile
+config.status: creating src/zstd/Makefile
+config.status: creating src/blosc/lib/blosc-1.20.1/Makefile
+config.status: creating src/blosc/Makefile
+config.status: creating src/vbz/Makefile
+config.status: creating src/vbz/vbz/Makefile
+config.status: creating src/vbz/third_party/streamvbyte/Makefile
+config.status: creating src/Makevars
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+make -C zstd
+make[1]: Entering directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/zstd'
+gcc -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -shared H5Zzstd.c -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" \
+ -lzstd -L/usr/local/lib -o libH5Zzstd.so
+make[1]: Leaving directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/zstd'
+make -C blosc
+make[1]: Entering directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/blosc'
+g++ -std=gnu++17 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -shared -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" H5Zblosc.cpp \
+-L/usr/local/lib  -lblosc -lzstd -lz -o libH5Zblosc.so 
+make[1]: Leaving directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/blosc'
+make -C bzip2
+make[1]: Entering directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/bzip2'
+gcc -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -shared H5Zbzip2.c -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" \
+ -lbz2 -L/usr/local/lib -o libH5Zbz2.so
+make[1]: Leaving directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/bzip2'
+make -C lzf
+make[1]: Entering directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/lzf'
+make -C lzf
+make[2]: Entering directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/lzf/lzf'
+gcc -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -c lzf_c.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -c lzf_d.c
+rm -f liblzf.a
+ar cq liblzf.a lzf_c.o lzf_d.o
+ranlib liblzf.a
+make[2]: Leaving directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/lzf/lzf'
+gcc -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -shared H5Zlzf.c -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" \
+-I./lzf/ ./lzf/liblzf.a -L/usr/local/lib -o libH5Zlzf.so
+make[1]: Leaving directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/lzf'
+make -C vbz
+make[1]: Entering directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/vbz'
+make -C third_party/streamvbyte
+make[2]: Entering directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/vbz/third_party/streamvbyte'
+gcc -std=gnu99  -fpic -Iinclude -c ./src/streamvbyte_decode.c
+gcc -std=gnu99  -fpic -Iinclude -c ./src/streamvbyte_encode.c
+gcc -std=gnu99  -fpic -Iinclude -c ./src/streamvbytedelta_decode.c
+gcc -std=gnu99  -fpic -Iinclude -c ./src/streamvbytedelta_encode.c
+gcc -std=gnu99  -fpic -Iinclude -c ./src/streamvbyte_0124_encode.c
+gcc -std=gnu99  -fpic -Iinclude -c ./src/streamvbyte_0124_decode.c
+gcc -std=gnu99  -fpic -Iinclude -c ./src/streamvbyte_zigzag.c
+rm -f libstreamvbyte.a
+ar cq libstreamvbyte.a streamvbyte_decode.o streamvbyte_encode.o streamvbytedelta_decode.o streamvbytedelta_encode.o streamvbyte_0124_encode.o  streamvbyte_0124_decode.o streamvbyte_zigzag.o
+ranlib libstreamvbyte.a 
+make[2]: Leaving directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/vbz/third_party/streamvbyte'
+make -C vbz
+make[2]: Entering directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/vbz/vbz'
+g++ -std=gnu++17 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" -I../third_party/streamvbyte/include/ -I../third_party/ -I../../zstd/ -mssse3 -c vbz.cpp -o vbz.o
+g++ -std=gnu++17 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" -I../third_party/streamvbyte/include/ -I../third_party/ -I../../zstd/ -mssse3 -c v0/vbz_streamvbyte.cpp -o v0/vbz_streamvbyte.o
+g++ -std=gnu++17 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" -I../third_party/streamvbyte/include/ -I../third_party/ -I../../zstd/ -mssse3 -c v1/vbz_streamvbyte.cpp -o v1/vbz_streamvbyte.o
+make[2]: Leaving directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/vbz/vbz'
+rm -f libvbz.a
+ar cq libvbz.a vbz/vbz.o vbz/v0/vbz_streamvbyte.o vbz/v1/vbz_streamvbyte.o
+ranlib libvbz.a
+g++ -std=gnu++17 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" -shared vbz_plugin.cpp \
+libvbz.a -L/usr/local/lib -lzstd third_party/streamvbyte/libstreamvbyte.a -o libH5Zvbz.so
+make[1]: Leaving directory '/tmp/Rtmp0qQEoy/R.INSTALLb733ca4861/rhdf5filters/src/vbz'
+mkdir -p "/mnt/library/00LOCK-rhdf5filters/00new/rhdf5filters/lib/"
+cp bzip2/libH5Zbz2.so blosc/libH5Zblosc.so lzf/libH5Zlzf.so zstd/libH5Zzstd.so vbz/libH5Zvbz.so "/mnt/library/00LOCK-rhdf5filters/00new/rhdf5filters/lib/"
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include -I"/mnt/library/Rhdf5lib/include" -I'/mnt/library/Rhdf5lib/include' -I/usr/local/include   -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rhdf5filters.c -o rhdf5filters.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o rhdf5filters.so rhdf5filters.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-rhdf5filters/00new/rhdf5filters/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rhdf5filters’ as ‘rhdf5filters_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rhdf5filters)
+* installing *source* package ‘assorthead’ ...
+** package ‘assorthead’ successfully unpacked and MD5 sums checked
+** using staged installation
+** inst
+** help
+No man pages found in package  ‘assorthead’ 
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘assorthead’ as ‘assorthead_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (assorthead)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-S4Vectors’
+* installing *source* package ‘edgeR’ ...
+** package ‘edgeR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_exports.c -o R_exports.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_process_hairpin_reads.c -o R_process_hairpin_reads.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c add_prior_count.c -o add_prior_count.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c clowess.c -o clowess.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c compute_apl.c -o compute_apl.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c compute_cpm.c -o compute_cpm.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c compute_nbdev.c -o compute_nbdev.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c exact_test_by_dev.c -o exact_test_by_dev.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fmm_spline.c -o fmm_spline.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c glm.c -o glm.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c good_turing.c -o good_turing.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c interpolator.c -o interpolator.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c loess_by_col.c -o loess_by_col.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c object.c -o object.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ql_glm.c -o ql_glm.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ql_weights.c -o ql_weights.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o edgeR.so R_exports.o R_process_hairpin_reads.o add_prior_count.o clowess.o compute_apl.o compute_cpm.o compute_nbdev.o exact_test_by_dev.o fmm_spline.o glm.o good_turing.o init.o interpolator.o loess_by_col.o object.o ql_glm.o ql_weights.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-edgeR/00new/edgeR/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘edgeR’ as ‘edgeR_4.4.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (edgeR)
+* installing *source* package ‘demuxmix’ ...
+** package ‘demuxmix’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘demuxmix’ as ‘demuxmix_1.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (demuxmix)
+* installing *source* package ‘UCSC.utils’ ...
+** package ‘UCSC.utils’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘UCSC.utils’ as ‘UCSC.utils_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (UCSC.utils)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-IRanges’
+ERROR: dependency ‘Rhdf5lib’ is not available for package ‘rhdf5’
+* removing ‘/mnt/library/rhdf5’
+ERROR: dependency ‘IRanges’ is not available for package ‘GenomeInfoDb’
+* removing ‘/mnt/library/GenomeInfoDb’
+ERROR: dependency ‘IRanges’ is not available for package ‘XVector’
+* removing ‘/mnt/library/XVector’
+ERROR: dependency ‘IRanges’ is not available for package ‘S4Arrays’
+* removing ‘/mnt/library/S4Arrays’
+ERROR: dependencies ‘IRanges’, ‘GenomeInfoDb’, ‘XVector’ are not available for package ‘GenomicRanges’
+* removing ‘/mnt/library/GenomicRanges’
+ERROR: dependencies ‘S4Arrays’, ‘IRanges’, ‘XVector’ are not available for package ‘SparseArray’
+* removing ‘/mnt/library/SparseArray’
+ERROR: dependencies ‘IRanges’, ‘S4Arrays’, ‘SparseArray’ are not available for package ‘DelayedArray’
+* removing ‘/mnt/library/DelayedArray’
+ERROR: dependencies ‘GenomicRanges’, ‘IRanges’, ‘GenomeInfoDb’, ‘S4Arrays’, ‘DelayedArray’ are not available for package ‘SummarizedExperiment’
+* removing ‘/mnt/library/SummarizedExperiment’
+ERROR: dependencies ‘DelayedArray’, ‘IRanges’, ‘SparseArray’ are not available for package ‘DelayedMatrixStats’
+* removing ‘/mnt/library/DelayedMatrixStats’
+ERROR: dependencies ‘SparseArray’, ‘DelayedArray’, ‘rhdf5’, ‘IRanges’, ‘S4Arrays’, ‘Rhdf5lib’ are not available for package ‘HDF5Array’
+* removing ‘/mnt/library/HDF5Array’
+ERROR: dependencies ‘DelayedArray’, ‘SparseArray’ are not available for package ‘beachmat’
+* removing ‘/mnt/library/beachmat’
+ERROR: dependencies ‘SummarizedExperiment’, ‘GenomicRanges’, ‘DelayedArray’ are not available for package ‘SingleCellExperiment’
+* removing ‘/mnt/library/SingleCellExperiment’
+ERROR: dependencies ‘SingleCellExperiment’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘S4Arrays’, ‘SparseArray’, ‘DelayedArray’, ‘beachmat’ are not available for package ‘scuttle’
+* removing ‘/mnt/library/scuttle’
+ERROR: dependencies ‘SingleCellExperiment’, ‘IRanges’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘SparseArray’, ‘DelayedArray’, ‘DelayedMatrixStats’, ‘HDF5Array’, ‘rhdf5’, ‘beachmat’, ‘scuttle’, ‘Rhdf5lib’ are not available for package ‘DropletUtils’
+* removing ‘/mnt/library/DropletUtils’
+
+The downloaded source packages are in
+	‘/tmp/Rtmpg7SDr7/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+There were 17 warnings (use warnings() to see them)
+
+real	3m0.358s
+user	0m57.512s
+sys	0m18.029s
