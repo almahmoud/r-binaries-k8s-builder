@@ -1804,3 +1804,11 @@ Rhisat2
 scanMiRApp
 SemDist
 vulcan
+broadSeq
+DAPAR
+DEXSeq
+IVAS
+PREDA
+seq2pathway
+sva
+tilingArray

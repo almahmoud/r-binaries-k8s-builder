@@ -203,6 +203,7 @@ CytoMDS
 CytoML
 CytoPipeline
 CytoPipelineGUI
+DAPAR
 DART
 DCATS
 DECIPHER
@@ -215,6 +216,7 @@ DEP
 DESeq2
 DESpace
 DEWSeq
+DEXSeq
 DEqMS
 DEsingle
 DEsubs
@@ -415,6 +417,7 @@ ISAnalytics
 ISLET
 ISoLDE
 ITALICS
+IVAS
 IWTomics
 Icens
 IdeoViz
@@ -595,6 +598,7 @@ PIUMA
 PLPE
 PLSDAbatch
 POWSC
+PREDA
 PROPER
 PROcess
 PSMatch
@@ -939,6 +943,7 @@ bluster
 borealis
 breakpointR
 brendaDb
+broadSeq
 bsseq
 bugsigdbr
 bumphunter
@@ -1643,6 +1648,7 @@ segmentSeq
 segmenter
 semisup
 seq.hotSPOT
+seq2pathway
 seqArchR
 seqArchRplus
 seqLogo
@@ -1710,6 +1716,7 @@ surfaltr
 survClust
 survcomp
 survtype
+sva
 swfdr
 switchBox
 switchde
@@ -1740,6 +1747,7 @@ tidyomics
 tidysbml
 tidytof
 tigre
+tilingArray
 timeOmics
 timecourse
 timescape
