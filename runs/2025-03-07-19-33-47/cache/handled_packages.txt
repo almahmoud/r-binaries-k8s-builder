@@ -447,6 +447,7 @@ MsCoreUtils
 MsFeatures
 Mulcom
 MultiAssayExperiment
+MultiBaC
 MultiDataSet
 MultiMed
 MultiRNAflow
@@ -788,10 +789,12 @@ biodbNcbi
 biodbNci
 biodbUniprot
 biomformat
+biosigner
 biotmle
 bluster
 breakpointR
 brendaDb
+bsseq
 bugsigdbr
 calm
 cancerclass
@@ -844,6 +847,7 @@ consensus
 consensusSeekeR
 convert
 copa
+corral
 coseq
 covEB
 cqn
@@ -867,6 +871,7 @@ cytoviewer
 dStruct
 daMA
 dada2
+dar
 dcGSA
 dcanr
 ddCt
@@ -1066,6 +1071,7 @@ kmcut
 koinar
 lapmix
 ldblock
+lefser
 lemur
 les
 levi
@@ -1074,6 +1080,7 @@ limma
 limmaGUI
 limpca
 lionessR
+lipidr
 lmdme
 loci2path
 logicFS
@@ -1315,6 +1322,7 @@ rols
 ropls
 rprimer
 rpx
+rqt
 rqubic
 rsbml
 rsemmed
@@ -1344,6 +1352,7 @@ scMerge
 scMitoMut
 scMultiSim
 scPCA
+scRNAseqApp
 scReClassify
 scRecover
 scRepertoire
