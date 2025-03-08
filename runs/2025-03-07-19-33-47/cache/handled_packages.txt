@@ -1024,6 +1024,7 @@ arrayQuality
 arrayQualityMetrics
 artMS
 assorthead
+atSNP
 atena
 autonomics
 awst
@@ -1072,6 +1073,7 @@ blacksheepr
 blima
 bluster
 bnbc
+bnem
 borealis
 branchpointer
 breakpointR
@@ -1083,6 +1085,7 @@ bumphunter
 cBioPortalData
 cTRAP
 calm
+canceR
 cancerclass
 casper
 cbaf
@@ -1633,6 +1636,7 @@ pRoloc
 pRolocGUI
 packFinder
 padma
+pageRank
 paircompviz
 pairedGSEA
 pairkat

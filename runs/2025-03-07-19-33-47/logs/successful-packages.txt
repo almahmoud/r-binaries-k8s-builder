@@ -2030,3 +2030,7 @@ biscuiteer
 bnbc
 epivizrData
 musicatk
+atSNP
+bnem
+canceR
+pageRank

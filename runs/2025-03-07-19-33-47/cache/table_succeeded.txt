@@ -2030,3 +2030,7 @@
 ['[bnbc](https://bioconductor.org/packages/3.20/bioc/html/bnbc.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/bnbc/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bnbc)']
 ['[epivizrData](https://bioconductor.org/packages/3.20/bioc/html/epivizrData.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/epivizrData/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epivizrData)']
 ['[musicatk](https://bioconductor.org/packages/3.20/bioc/html/musicatk.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/musicatk/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/musicatk)']
+['[atSNP](https://bioconductor.org/packages/3.20/bioc/html/atSNP.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/atSNP/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/atSNP)']
+['[bnem](https://bioconductor.org/packages/3.20/bioc/html/bnem.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/bnem/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bnem)']
+['[canceR](https://bioconductor.org/packages/3.20/bioc/html/canceR.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/canceR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/canceR)']
+['[pageRank](https://bioconductor.org/packages/3.20/bioc/html/pageRank.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/pageRank/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pageRank)']

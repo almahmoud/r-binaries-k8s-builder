@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2032 packages built successfully
+- 2036 packages built successfully
 - 0 packages failed to build
-- 201 packages not yet processed
+- 197 packages not yet processed
 
 
-## Successfully Built (2032)
+## Successfully Built (2036)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -2044,8 +2044,12 @@
 | [bnbc](https://bioconductor.org/packages/3.20/bioc/html/bnbc.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/bnbc/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bnbc)                       |
 | [epivizrData](https://bioconductor.org/packages/3.20/bioc/html/epivizrData.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/epivizrData/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epivizrData)                |
 | [musicatk](https://bioconductor.org/packages/3.20/bioc/html/musicatk.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/musicatk/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/musicatk)                   |
+| [atSNP](https://bioconductor.org/packages/3.20/bioc/html/atSNP.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/atSNP/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/atSNP)                      |
+| [bnem](https://bioconductor.org/packages/3.20/bioc/html/bnem.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/bnem/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bnem)                       |
+| [canceR](https://bioconductor.org/packages/3.20/bioc/html/canceR.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/canceR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/canceR)                     |
+| [pageRank](https://bioconductor.org/packages/3.20/bioc/html/pageRank.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/pageRank/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pageRank)                   |
 
-## Not Yet Processed (201)
+## Not Yet Processed (197)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [AHMassBank](https://bioconductor.org/packages/3.20/bioc/html/AHMassBank.html)                                   | Unprocessed |
@@ -2149,14 +2153,11 @@
 | [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                             | Unprocessed |
 | [appreci8R](https://bioconductor.org/packages/3.20/bioc/html/appreci8R.html)                                     | Unprocessed |
 | [arrayMvout](https://bioconductor.org/packages/3.20/bioc/html/arrayMvout.html)                                   | Unprocessed |
-| [atSNP](https://bioconductor.org/packages/3.20/bioc/html/atSNP.html)                                             | Unprocessed |
 | [attract](https://bioconductor.org/packages/3.20/bioc/html/attract.html)                                         | Unprocessed |
 | [bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)                                       | Unprocessed |
 | [biomvRCNS](https://bioconductor.org/packages/3.20/bioc/html/biomvRCNS.html)                                     | Unprocessed |
 | [biovizBase](https://bioconductor.org/packages/3.20/bioc/html/biovizBase.html)                                   | Unprocessed |
-| [bnem](https://bioconductor.org/packages/3.20/bioc/html/bnem.html)                                               | Unprocessed |
 | [cageminer](https://bioconductor.org/packages/3.20/bioc/html/cageminer.html)                                     | Unprocessed |
-| [canceR](https://bioconductor.org/packages/3.20/bioc/html/canceR.html)                                           | Unprocessed |
 | [cardelino](https://bioconductor.org/packages/3.20/bioc/html/cardelino.html)                                     | Unprocessed |
 | [categoryCompare](https://bioconductor.org/packages/3.20/bioc/html/categoryCompare.html)                         | Unprocessed |
 | [chimeraviz](https://bioconductor.org/packages/3.20/bioc/html/chimeraviz.html)                                   | Unprocessed |
@@ -2222,7 +2223,6 @@
 | [netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)                                         | Unprocessed |
 | [octad](https://bioconductor.org/packages/3.20/bioc/html/octad.html)                                             | Unprocessed |
 | [oppar](https://bioconductor.org/packages/3.20/bioc/html/oppar.html)                                             | Unprocessed |
-| [pageRank](https://bioconductor.org/packages/3.20/bioc/html/pageRank.html)                                       | Unprocessed |
 | [pcaExplorer](https://bioconductor.org/packages/3.20/bioc/html/pcaExplorer.html)                                 | Unprocessed |
 | [primirTSS](https://bioconductor.org/packages/3.20/bioc/html/primirTSS.html)                                     | Unprocessed |
 | [psichomics](https://bioconductor.org/packages/3.20/bioc/html/psichomics.html)                                   | Unprocessed |
