@@ -492,3 +492,15 @@ PROPER
 SIMD
 BiocGenerics
 ppcseq
+Biobase
+BiocBook
+BrowserViz
+EBImage
+FamAgg
+gpuMagic
+graph
+IHW
+interactiveDisplayBase
+RGSEA
+snpStats
+unifiedWMWqPCR
