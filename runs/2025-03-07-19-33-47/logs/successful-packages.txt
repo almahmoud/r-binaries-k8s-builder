@@ -1764,3 +1764,10 @@ DrugVsDisease
 moanin
 mygene
 recoup
+CBNplot
+EpiTxDb
+EventPointer
+GDCRNATools
+proBAMr
+RiboDiPA
+sitadela

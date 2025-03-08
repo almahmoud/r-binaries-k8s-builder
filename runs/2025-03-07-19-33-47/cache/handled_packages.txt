@@ -110,6 +110,7 @@ CAMERA
 CARNIVAL
 CATALYST
 CBEA
+CBNplot
 CCPlotR
 CDI
 CEMiTool
@@ -272,7 +273,9 @@ EnrichDO
 EnrichedHeatmap
 EpiCompare
 EpiDISH
+EpiTxDb
 EpipwR
+EventPointer
 ExCluster
 ExiMiR
 ExperimentHub
@@ -294,6 +297,7 @@ FlowSOM
 FuseSOM
 GAprediction
 GBScleanR
+GDCRNATools
 GDSArray
 GEM
 GENESIS
@@ -684,6 +688,7 @@ RgnTX
 Rgraphviz
 Rhdf5lib
 Rhtslib
+RiboDiPA
 Rmagpie
 Rmmquant
 Rnits
@@ -1468,6 +1473,7 @@ pram
 prebs
 preciseTAD
 preprocessCore
+proBAMr
 proDA
 procoil
 profileScoreDist
@@ -1629,6 +1635,7 @@ simona
 simpleSeg
 simplifyEnrichment
 sincell
+sitadela
 sitePath
 sizepower
 sketchR
