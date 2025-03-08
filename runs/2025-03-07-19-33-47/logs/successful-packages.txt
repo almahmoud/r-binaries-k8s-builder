@@ -2040,3 +2040,9 @@ DeMixT
 GEOexplorer
 HarmonizR
 VaSP
+appreci8R
+ATACseqQC
+epivizr
+esATAC
+ExperimentHubData
+KnowSeq

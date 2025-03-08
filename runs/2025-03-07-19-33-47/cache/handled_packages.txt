@@ -24,6 +24,7 @@ ASICS
 ASSET
 ASSIGN
 ASURAT
+ATACseqQC
 AUCell
 AWFisher
 AffiXcan
@@ -318,6 +319,7 @@ EventPointer
 ExCluster
 ExiMiR
 ExperimentHub
+ExperimentHubData
 ExperimentSubset
 ExploreModelMatrix
 ExpressionAtlas
@@ -488,6 +490,7 @@ KEGGREST
 KEGGgraph
 KEGGlincs
 KinSwingR
+KnowSeq
 LACE
 LBE
 LEA
@@ -1023,6 +1026,7 @@ anota2seq
 antiProfiles
 apComplex
 apeglm
+appreci8R
 aroma.light
 arrayQuality
 arrayQualityMetrics
@@ -1254,9 +1258,11 @@ epigraHMM
 epiregulon.extra
 epistack
 epistasisGA
+epivizr
 epivizrData
 epivizrServer
 erccdashboard
+esATAC
 escheR
 esetVis
 eudysbiome
