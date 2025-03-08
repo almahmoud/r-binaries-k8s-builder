@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2116 packages built successfully
+- 2118 packages built successfully
 - 0 packages failed to build
-- 117 packages not yet processed
+- 115 packages not yet processed
 
 
-## Successfully Built (2116)
+## Successfully Built (2118)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2128,8 +2128,10 @@
 | [alabaster](https://bioconductor.org/packages/3.20/bioc/html/alabaster.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/alabaster/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster)                   |
 | [circRNAprofiler](https://bioconductor.org/packages/3.20/bioc/html/circRNAprofiler.html)                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/circRNAprofiler/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/circRNAprofiler)             |
 | [karyoploteR](https://bioconductor.org/packages/3.20/bioc/html/karyoploteR.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/karyoploteR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/karyoploteR)                 |
+| [Gviz](https://bioconductor.org/packages/3.20/bioc/html/Gviz.html)                                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/Gviz/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Gviz)                        |
+| [vtpnet](https://bioconductor.org/packages/3.20/bioc/html/vtpnet.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/vtpnet/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/vtpnet)                      |
 
-## Not Yet Processed (117)
+## Not Yet Processed (115)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                 | Unprocessed |
@@ -2153,7 +2155,6 @@
 | [GenomicInteractions](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractions.html)     | Unprocessed |
 | [GenomicOZone](https://bioconductor.org/packages/3.20/bioc/html/GenomicOZone.html)                   | Unprocessed |
 | [GmicR](https://bioconductor.org/packages/3.20/bioc/html/GmicR.html)                                 | Unprocessed |
-| [Gviz](https://bioconductor.org/packages/3.20/bioc/html/Gviz.html)                                   | Unprocessed |
 | [HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)                         | Unprocessed |
 | [MEAL](https://bioconductor.org/packages/3.20/bioc/html/MEAL.html)                                   | Unprocessed |
 | [MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)                                   | Unprocessed |
@@ -2247,5 +2248,4 @@
 | [tadar](https://bioconductor.org/packages/3.20/bioc/html/tadar.html)                                 | Unprocessed |
 | [trackViewer](https://bioconductor.org/packages/3.20/bioc/html/trackViewer.html)                     | Unprocessed |
 | [uncoverappLib](https://bioconductor.org/packages/3.20/bioc/html/uncoverappLib.html)                 | Unprocessed |
-| [vtpnet](https://bioconductor.org/packages/3.20/bioc/html/vtpnet.html)                               | Unprocessed |
 | [wateRmelon](https://bioconductor.org/packages/3.20/bioc/html/wateRmelon.html)                       | Unprocessed |

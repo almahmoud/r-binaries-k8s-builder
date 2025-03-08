@@ -2114,3 +2114,5 @@
 ['[alabaster](https://bioconductor.org/packages/3.20/bioc/html/alabaster.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/alabaster/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster)']
 ['[circRNAprofiler](https://bioconductor.org/packages/3.20/bioc/html/circRNAprofiler.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/circRNAprofiler/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/circRNAprofiler)']
 ['[karyoploteR](https://bioconductor.org/packages/3.20/bioc/html/karyoploteR.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/karyoploteR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/karyoploteR)']
+['[Gviz](https://bioconductor.org/packages/3.20/bioc/html/Gviz.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/Gviz/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Gviz)']
+['[vtpnet](https://bioconductor.org/packages/3.20/bioc/html/vtpnet.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/vtpnet/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/vtpnet)']

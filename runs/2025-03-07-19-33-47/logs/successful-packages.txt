@@ -2114,3 +2114,5 @@ GenVisR
 karyoploteR
 Rqc
 SingleMoleculeFootprinting
+Gviz
+vtpnet

@@ -432,6 +432,7 @@ GraphAT
 GraphAlignment
 GreyListChIP
 Guitar
+Gviz
 HDF5Array
 HDTD
 HELP
@@ -2092,6 +2093,7 @@ viper
 vissE
 vsclust
 vsn
+vtpnet
 vulcan
 waddR
 wavClusteR
