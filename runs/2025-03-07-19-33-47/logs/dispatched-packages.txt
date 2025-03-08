@@ -1244,3 +1244,10 @@ flowGate
 mBPCR
 oligo
 procoil
+CytoMDS
+CytoPipelineGUI
+SpotSweeper
+beer
+cytoviewer
+imcRtools
+simpleSeg

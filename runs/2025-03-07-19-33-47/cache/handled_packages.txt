@@ -122,6 +122,8 @@ Cormotif
 CuratedAtlasQueryR
 CytoDx
 CytoGLMM
+CytoML
+CytoPipeline
 DART
 DCATS
 DECIPHER
@@ -171,6 +173,7 @@ EnrichedHeatmap
 EpiDISH
 ExiMiR
 ExploreModelMatrix
+FEAST
 FELLA
 FGNet
 FISHalyseR
@@ -242,6 +245,8 @@ Heatplus
 Herper
 HiCBricks
 HiCExperiment
+HiContacts
+HiCool
 HilbertCurve
 HilbertVis
 HilbertVisGUI
@@ -321,6 +326,7 @@ Mfuzz
 MiChip
 MiPP
 ModCon
+MoleculeExperiment
 MsBackendMassbank
 MsBackendMetaboLights
 MsBackendMgf
@@ -349,6 +355,7 @@ OLIN
 OLINgui
 OPWeight
 OSAT
+OmicCircos
 OmicsMLRepoR
 Omixer
 OmnipathR
@@ -360,7 +367,10 @@ PAIRADISE
 PANR
 PCAN
 PCAtools
+PIPETS
 PLPE
+PLSDAbatch
+POWSC
 PROPER
 PROcess
 Path2PPI
@@ -368,8 +378,10 @@ PathNet
 PeacoQC
 Pedixplorer
 PepsNMR
+PhIPData
 PhenStat
 PhenoGeneRanker
+PhosR
 Pirat
 PoDCall
 PolySTest
@@ -412,6 +424,7 @@ RTCA
 RTCGA
 RTN
 RTNduals
+RTNsurvival
 RTopper
 RUVcorr
 RUVnormalize
@@ -451,6 +464,7 @@ SANTA
 SBMLR
 SC3
 SCArray
+SCArray.sat
 SCBN
 SCFA
 SCnorm
@@ -493,6 +507,7 @@ SpatialExperiment
 SpeCond
 Spectra
 SpectraQL
+SpotClean
 Streamer
 Structstrings
 SummarizedExperiment
@@ -601,6 +616,7 @@ ccImpute
 ccfindR
 ccrepe
 ceRNAnetsim
+celaref
 cellbaseR
 cellmigRation
 cellscape
@@ -624,11 +640,13 @@ cogena
 cola
 compSPOT
 compcodeR
+concordexR
 consensus
 convert
 copa
 covEB
 cqn
+crlmm
 ctc
 ctsGE
 cyanoFilter
@@ -636,6 +654,7 @@ cycle
 cydar
 cytoMEM
 cytolib
+cytomapper
 dStruct
 daMA
 dcGSA
@@ -669,6 +688,7 @@ epialleleR
 epistasisGA
 epivizrServer
 erccdashboard
+escheR
 eudysbiome
 fCI
 fabia
@@ -692,6 +712,7 @@ flowCut
 flowCyBar
 flowDensity
 flowFP
+flowGate
 flowGraph
 flowMatch
 flowMeans
@@ -767,6 +788,7 @@ iPath
 iSeq
 iasva
 ibh
+idpr
 idr2d
 igvShiny
 illuminaio
@@ -793,6 +815,7 @@ loci2path
 logicFS
 lpNet
 lpsymphony
+mBPCR
 maCorrPlot
 maSigPro
 maftools
@@ -825,6 +848,8 @@ mgsa
 miRBaseConverter
 miRNApath
 miRcomp
+miaSim
+microRNA
 microSTASIS
 mina
 minet
@@ -903,6 +928,7 @@ ppcseq
 pqsfinder
 preprocessCore
 proDA
+procoil
 profileScoreDist
 progeny
 projectR
@@ -1019,6 +1045,7 @@ spatialSimGP
 specL
 spikeLI
 spkTools
+splatter
 splots
 spqn
 ssPATHS
