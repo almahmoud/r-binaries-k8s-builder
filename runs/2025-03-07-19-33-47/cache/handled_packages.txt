@@ -55,6 +55,7 @@ BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
 CARNIVAL
+CCPlotR
 CFAssay
 CGEN
 CGHbase
@@ -81,6 +82,7 @@ ChemmineOB
 ChemmineR
 Chicago
 Clomial
+ClustAll
 ClusterJudge
 ClusterSignificance
 ComPrAn
@@ -498,6 +500,8 @@ flowCyBar
 flowDensity
 flowFP
 flowGraph
+flowMatch
+flowMerge
 flowPeaks
 flowPlots
 flowTime
@@ -622,6 +626,7 @@ mzID
 mzR
 ncdfFlow
 ndexr
+nempi
 netprioR
 netresponse
 nnNorm

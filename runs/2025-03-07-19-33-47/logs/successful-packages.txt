@@ -768,3 +768,8 @@ flowBin
 flowTrans
 Spectra
 TurboNorm
+CCPlotR
+ClustAll
+flowMatch
+flowMerge
+nempi

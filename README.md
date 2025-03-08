@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 770 packages built successfully
+- 775 packages built successfully
 - 0 packages failed to build
-- 1463 packages not yet processed
+- 1458 packages not yet processed
 
 
-## Successfully Built (770)
+## Successfully Built (775)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -782,8 +782,13 @@
 | [cyanoFilter](https://bioconductor.org/packages/3.20/bioc/html/cyanoFilter.html)                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/cyanoFilter/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cyanoFilter)             |
 | [flowBin](https://bioconductor.org/packages/3.20/bioc/html/flowBin.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/flowBin/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowBin)                 |
 | [flowTrans](https://bioconductor.org/packages/3.20/bioc/html/flowTrans.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/flowTrans/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowTrans)               |
+| [CCPlotR](https://bioconductor.org/packages/3.20/bioc/html/CCPlotR.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/CCPlotR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CCPlotR)                 |
+| [ClustAll](https://bioconductor.org/packages/3.20/bioc/html/ClustAll.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/ClustAll/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ClustAll)                |
+| [flowMatch](https://bioconductor.org/packages/3.20/bioc/html/flowMatch.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/flowMatch/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowMatch)               |
+| [flowMerge](https://bioconductor.org/packages/3.20/bioc/html/flowMerge.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/flowMerge/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowMerge)               |
+| [nempi](https://bioconductor.org/packages/3.20/bioc/html/nempi.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/nempi/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/nempi)                   |
 
-## Not Yet Processed (1463)
+## Not Yet Processed (1458)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -870,7 +875,6 @@
 | [CBEA](https://bioconductor.org/packages/3.20/bioc/html/CBEA.html)                                               | Unprocessed |
 | [CBNplot](https://bioconductor.org/packages/3.20/bioc/html/CBNplot.html)                                         | Unprocessed |
 | [CCPROMISE](https://bioconductor.org/packages/3.20/bioc/html/CCPROMISE.html)                                     | Unprocessed |
-| [CCPlotR](https://bioconductor.org/packages/3.20/bioc/html/CCPlotR.html)                                         | Unprocessed |
 | [CDI](https://bioconductor.org/packages/3.20/bioc/html/CDI.html)                                                 | Unprocessed |
 | [CEMiTool](https://bioconductor.org/packages/3.20/bioc/html/CEMiTool.html)                                       | Unprocessed |
 | [CHETAH](https://bioconductor.org/packages/3.20/bioc/html/CHETAH.html)                                           | Unprocessed |
@@ -926,7 +930,6 @@
 | [ClassifyR](https://bioconductor.org/packages/3.20/bioc/html/ClassifyR.html)                                     | Unprocessed |
 | [CleanUpRNAseq](https://bioconductor.org/packages/3.20/bioc/html/CleanUpRNAseq.html)                             | Unprocessed |
 | [CluMSID](https://bioconductor.org/packages/3.20/bioc/html/CluMSID.html)                                         | Unprocessed |
-| [ClustAll](https://bioconductor.org/packages/3.20/bioc/html/ClustAll.html)                                       | Unprocessed |
 | [ClustIRR](https://bioconductor.org/packages/3.20/bioc/html/ClustIRR.html)                                       | Unprocessed |
 | [ClusterFoldSimilarity](https://bioconductor.org/packages/3.20/bioc/html/ClusterFoldSimilarity.html)             | Unprocessed |
 | [CoCiteStats](https://bioconductor.org/packages/3.20/bioc/html/CoCiteStats.html)                                 | Unprocessed |
@@ -1713,9 +1716,7 @@
 | [fishpond](https://bioconductor.org/packages/3.20/bioc/html/fishpond.html)                                       | Unprocessed |
 | [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                                           | Unprocessed |
 | [flowGate](https://bioconductor.org/packages/3.20/bioc/html/flowGate.html)                                       | Unprocessed |
-| [flowMatch](https://bioconductor.org/packages/3.20/bioc/html/flowMatch.html)                                     | Unprocessed |
 | [flowMeans](https://bioconductor.org/packages/3.20/bioc/html/flowMeans.html)                                     | Unprocessed |
-| [flowMerge](https://bioconductor.org/packages/3.20/bioc/html/flowMerge.html)                                     | Unprocessed |
 | [flowPloidy](https://bioconductor.org/packages/3.20/bioc/html/flowPloidy.html)                                   | Unprocessed |
 | [flowSpecs](https://bioconductor.org/packages/3.20/bioc/html/flowSpecs.html)                                     | Unprocessed |
 | [flowStats](https://bioconductor.org/packages/3.20/bioc/html/flowStats.html)                                     | Unprocessed |
@@ -1924,7 +1925,6 @@
 | [ncGTW](https://bioconductor.org/packages/3.20/bioc/html/ncGTW.html)                                             | Unprocessed |
 | [ncRNAtools](https://bioconductor.org/packages/3.20/bioc/html/ncRNAtools.html)                                   | Unprocessed |
 | [nearBynding](https://bioconductor.org/packages/3.20/bioc/html/nearBynding.html)                                 | Unprocessed |
-| [nempi](https://bioconductor.org/packages/3.20/bioc/html/nempi.html)                                             | Unprocessed |
 | [netSmooth](https://bioconductor.org/packages/3.20/bioc/html/netSmooth.html)                                     | Unprocessed |
 | [netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)                                         | Unprocessed |
 | [netboost](https://bioconductor.org/packages/3.20/bioc/html/netboost.html)                                       | Unprocessed |
