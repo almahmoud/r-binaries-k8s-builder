@@ -42,8 +42,10 @@ BUMHMM
 BUS
 BUScorrect
 BUSseq
+BaalChIP
 Banksy
 BaseSpaceR
+BasicSTARRseq
 BayesKnockdown
 BayesSpace
 BeadDataPackR
@@ -325,6 +327,7 @@ MBAmethyl
 MBCB
 MBQN
 MBttest
+MDTS
 MEDME
 MEIGOR
 MICSQTL
@@ -410,6 +413,7 @@ PAIRADISE
 PANR
 PCAN
 PCAtools
+PICS
 PIPETS
 PIUMA
 PLPE
@@ -546,6 +550,7 @@ SeqVarTools
 SharedObject
 SiPSiC
 SigFuge
+SimBu
 SimFFPE
 SingleCellAlleleExperiment
 SingleCellExperiment
@@ -674,6 +679,7 @@ biodbUniprot
 biomformat
 biotmle
 bluster
+breakpointR
 brendaDb
 bugsigdbr
 calm
@@ -750,6 +756,7 @@ diggit
 dir.expiry
 discordant
 dittoSeq
+divergence
 dks
 doseR
 drawProteins
@@ -835,6 +842,7 @@ geva
 ggcyto
 ggkegg
 ggmanh
+ggmsa
 ggsc
 ggspavis
 ggtree
@@ -1148,6 +1156,7 @@ sigFeature
 siggenes
 sights
 sigsquared
+simPIC
 similaRpeak
 simona
 simpleSeg

@@ -1236,3 +1236,12 @@ riboSeqR
 rprimer
 SICtools
 VplotR
+BaalChIP
+BasicSTARRseq
+breakpointR
+divergence
+ggmsa
+MDTS
+PICS
+SimBu
+simPIC
