@@ -1697,3 +1697,5 @@
 ['[pathlinkR](https://bioconductor.org/packages/3.20/bioc/html/pathlinkR.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/pathlinkR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pathlinkR)']
 ['[Xeva](https://bioconductor.org/packages/3.20/bioc/html/Xeva.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/Xeva/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Xeva)']
 ['[adSplit](https://bioconductor.org/packages/3.20/bioc/html/adSplit.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/adSplit/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/adSplit)']
+['[csdR](https://bioconductor.org/packages/3.20/bioc/html/csdR.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/csdR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/csdR)']
+['[immunogenViewer](https://bioconductor.org/packages/3.20/bioc/html/immunogenViewer.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/immunogenViewer/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunogenViewer)']

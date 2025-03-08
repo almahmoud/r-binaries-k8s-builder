@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1699 packages built successfully
+- 1701 packages built successfully
 - 0 packages failed to build
-- 534 packages not yet processed
+- 532 packages not yet processed
 
 
-## Successfully Built (1699)
+## Successfully Built (1701)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1711,8 +1711,10 @@
 | [pathlinkR](https://bioconductor.org/packages/3.20/bioc/html/pathlinkR.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/pathlinkR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pathlinkR)                  |
 | [Xeva](https://bioconductor.org/packages/3.20/bioc/html/Xeva.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/Xeva/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Xeva)                       |
 | [adSplit](https://bioconductor.org/packages/3.20/bioc/html/adSplit.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/adSplit/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/adSplit)                    |
+| [csdR](https://bioconductor.org/packages/3.20/bioc/html/csdR.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/csdR/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/csdR)                       |
+| [immunogenViewer](https://bioconductor.org/packages/3.20/bioc/html/immunogenViewer.html)                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/immunogenViewer/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunogenViewer)            |
 
-## Not Yet Processed (534)
+## Not Yet Processed (532)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -2037,7 +2039,6 @@
 | [crisprShiny](https://bioconductor.org/packages/3.20/bioc/html/crisprShiny.html)                                 | Unprocessed |
 | [crisprVerse](https://bioconductor.org/packages/3.20/bioc/html/crisprVerse.html)                                 | Unprocessed |
 | [crisprViz](https://bioconductor.org/packages/3.20/bioc/html/crisprViz.html)                                     | Unprocessed |
-| [csdR](https://bioconductor.org/packages/3.20/bioc/html/csdR.html)                                               | Unprocessed |
 | [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                                   | Unprocessed |
 | [customProDB](https://bioconductor.org/packages/3.20/bioc/html/customProDB.html)                                 | Unprocessed |
 | [dagLogo](https://bioconductor.org/packages/3.20/bioc/html/dagLogo.html)                                         | Unprocessed |
@@ -2106,7 +2107,6 @@
 | [ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)                                             | Unprocessed |
 | [idiogram](https://bioconductor.org/packages/3.20/bioc/html/idiogram.html)                                       | Unprocessed |
 | [igvR](https://bioconductor.org/packages/3.20/bioc/html/igvR.html)                                               | Unprocessed |
-| [immunogenViewer](https://bioconductor.org/packages/3.20/bioc/html/immunogenViewer.html)                         | Unprocessed |
 | [intansv](https://bioconductor.org/packages/3.20/bioc/html/intansv.html)                                         | Unprocessed |
 | [interactiveDisplay](https://bioconductor.org/packages/3.20/bioc/html/interactiveDisplay.html)                   | Unprocessed |
 | [isobar](https://bioconductor.org/packages/3.20/bioc/html/isobar.html)                                           | Unprocessed |

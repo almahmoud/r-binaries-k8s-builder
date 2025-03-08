@@ -964,6 +964,7 @@ crisprBwa
 crisprScore
 crlmm
 csaw
+csdR
 ctc
 ctsGE
 customCMPdb
@@ -1187,6 +1188,7 @@ illuminaio
 imcRtools
 immApex
 immunoClust
+immunogenViewer
 immunotation
 impute
 infercnv
