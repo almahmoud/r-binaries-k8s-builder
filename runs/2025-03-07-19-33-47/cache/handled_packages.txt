@@ -82,6 +82,7 @@ GLAD
 GPA
 GRENITS
 GSALightning
+GSAR
 GSCA
 GSEAmining
 GSgalgoR
@@ -133,6 +134,7 @@ MVCClass
 MantelCorr
 MassArray
 MassSpecWavelet
+MatrixGenerics
 MeasurementError.cor
 Mergeomics
 ModCon
@@ -171,6 +173,7 @@ RNAdecay
 ROC
 RProtoBufLib
 RRHO
+RSeqAn
 RTCGA
 RankProd
 Rbowtie
@@ -318,6 +321,7 @@ iSeq
 ibh
 illuminaio
 immunotation
+impute
 interacCircos
 iterativeBMAsurv
 koinar
@@ -330,6 +334,8 @@ maCorrPlot
 magrene
 mapscape
 matchBox
+mdp
+mdqc
 messina
 metaCCA
 metabinR
@@ -346,6 +352,7 @@ mistyR
 mixOmics
 multiClust
 mzID
+ndexr
 netprioR
 nuCpos
 occugene
@@ -356,9 +363,11 @@ parody
 pathifier
 pathwayPCA
 pengls
+pepXMLTab
 pfamAnalyzeR
 pgca
 philr
+phosphonormalizer
 pickgene
 planet
 plasmut
@@ -402,6 +411,7 @@ similaRpeak
 sincell
 sitePath
 sizepower
+snifter
 snm
 sparsenetgls
 specL
@@ -418,7 +428,9 @@ systemPipeShiny
 tanggle
 ternarynet
 tidysbml
+timeOmics
 timescape
+tkWidgets
 tomoseqr
 topconfects
 treeio

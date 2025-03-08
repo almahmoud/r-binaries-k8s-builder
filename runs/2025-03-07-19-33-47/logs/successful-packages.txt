@@ -432,3 +432,15 @@ mistyR
 QuaternaryProd
 RCX
 RRHO
+GSAR
+impute
+MatrixGenerics
+mdp
+mdqc
+ndexr
+pepXMLTab
+phosphonormalizer
+RSeqAn
+snifter
+timeOmics
+tkWidgets
