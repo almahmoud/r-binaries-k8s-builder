@@ -43,6 +43,7 @@ BG2
 BPRMeth
 BRAIN
 BREW3R.r
+BSgenome
 BUMHMM
 BUS
 BUScorrect
@@ -137,6 +138,7 @@ ChromSCape
 CiteFuse
 Clomial
 ClustAll
+ClustIRR
 ClusterFoldSimilarity
 ClusterJudge
 ClusterSignificance
@@ -156,10 +158,14 @@ CytoPipelineGUI
 DART
 DCATS
 DECIPHER
+DEFormats
 DEGraph
+DEGreport
 DEGseq
+DELocal
 DESeq2
 DESpace
+DEWSeq
 DEqMS
 DEsingle
 DFP
@@ -194,6 +200,7 @@ DropletUtils
 Dune
 DynDoc
 EBImage
+EBSEA
 EBSeq
 EBarrays
 EBcoexpress
@@ -692,6 +699,7 @@ bacon
 bamsignals
 banocc
 barcodetrackR
+basecallQC
 basilisk
 basilisk.utils
 batchelor
@@ -737,6 +745,7 @@ cellscape
 cellxgenedp
 cfdnakit
 chihaya
+chipseq
 chopsticks
 chromDraw
 chromstaR
@@ -814,6 +823,7 @@ ecolitk
 edgeR
 eds
 eiR
+eisaR
 epiNEM
 epialleleR
 epistack
@@ -1023,6 +1033,7 @@ microSTASIS
 microbiome
 microbiomeDASim
 microbiomeExplorer
+microbiomeMarker
 mina
 minet
 mirTarRnaSeq
@@ -1030,6 +1041,7 @@ mistyR
 mitch
 mixOmics
 mnem
+mobileRNA
 monocle
 mosaics
 mosbi
@@ -1138,6 +1150,7 @@ quantiseqr
 quantsmooth
 qusage
 qvalue
+r3Cseq
 rBLAST
 rBiopaxParser
 rRDP
@@ -1294,6 +1307,7 @@ synlet
 syntenet
 systemPipeR
 systemPipeShiny
+systemPipeTools
 tRNA
 tanggle
 target
@@ -1332,6 +1346,7 @@ variancePartition
 vbmp
 velociraptor
 veloviz
+vidger
 viper
 vsn
 weaver
@@ -1343,4 +1358,5 @@ xenLite
 xmapbridge
 yamss
 zellkonverter
+zitools
 zlibbioc
