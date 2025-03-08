@@ -86,6 +86,7 @@ BiocCheck
 BiocFHIR
 BiocFileCache
 BiocGenerics
+BiocHubsShiny
 BiocIO
 BiocNeighbors
 BiocParallel
@@ -162,6 +163,7 @@ CellTrails
 CelliD
 CexoR
 ChIPComp
+ChIPQC
 ChIPXpress
 ChIPanalyser
 ChIPseeker
@@ -180,6 +182,7 @@ ClusterJudge
 ClusterSignificance
 CoCiteStats
 CoGAPS
+Cogito
 ComPrAn
 ComplexHeatmap
 CompoundDb
@@ -456,6 +459,7 @@ MLP
 MLSeq
 MMDiff2
 MMUPHin
+MODA
 MOFA2
 MOGAMUN
 MOMA
@@ -686,6 +690,7 @@ S4Arrays
 S4Vectors
 SAIGEgds
 SANTA
+SARC
 SBMLR
 SC3
 SCANVIS
@@ -697,6 +702,7 @@ SCOPE
 SCnorm
 SDAMS
 SELEX
+SGSeq
 SIAMCAT
 SICtools
 SIMAT
@@ -833,6 +839,7 @@ affyILM
 affyPLM
 affycomp
 affyio
+affylmGUI
 aggregateBioVar
 agilp
 airpart
@@ -1013,6 +1020,7 @@ derfinderHelper
 destiny
 diffGeneAnalysis
 diffHic
+diffcoexp
 diffcyt
 diffuStats
 diggit
@@ -1157,6 +1165,7 @@ gpuMagic
 granulator
 graper
 graph
+graphite
 groHMM
 gscreend
 gtrellis
@@ -1298,6 +1307,7 @@ mfa
 mgsa
 miQC
 miRBaseConverter
+miRNAmeConverter
 miRNApath
 miRNAtap
 miRcomp

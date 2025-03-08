@@ -1739,3 +1739,13 @@ pathview
 scAnnotatR
 surfaltr
 txdbmaker
+affylmGUI
+BiocHubsShiny
+ChIPQC
+Cogito
+diffcoexp
+graphite
+miRNAmeConverter
+MODA
+SARC
+SGSeq
