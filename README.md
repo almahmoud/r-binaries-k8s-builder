@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1495 packages built successfully
+- 1497 packages built successfully
 - 0 packages failed to build
-- 738 packages not yet processed
+- 736 packages not yet processed
 
 
-## Successfully Built (1495)
+## Successfully Built (1497)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1507,8 +1507,10 @@
 | [tradeSeq](https://bioconductor.org/packages/3.20/bioc/html/tradeSeq.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/tradeSeq/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tradeSeq)                   |
 | [vsclust](https://bioconductor.org/packages/3.20/bioc/html/vsclust.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/vsclust/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/vsclust)                    |
 | [xcore](https://bioconductor.org/packages/3.20/bioc/html/xcore.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/xcore/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcore)                      |
+| [coseq](https://bioconductor.org/packages/3.20/bioc/html/coseq.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/coseq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/coseq)                      |
+| [ropls](https://bioconductor.org/packages/3.20/bioc/html/ropls.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/ropls/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ropls)                      |
 
-## Not Yet Processed (738)
+## Not Yet Processed (736)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADAM](https://bioconductor.org/packages/3.20/bioc/html/ADAM.html)                                               | Unprocessed |
@@ -1942,7 +1944,6 @@
 | [consensusDE](https://bioconductor.org/packages/3.20/bioc/html/consensusDE.html)                                 | Unprocessed |
 | [conumee](https://bioconductor.org/packages/3.20/bioc/html/conumee.html)                                         | Unprocessed |
 | [corral](https://bioconductor.org/packages/3.20/bioc/html/corral.html)                                           | Unprocessed |
-| [coseq](https://bioconductor.org/packages/3.20/bioc/html/coseq.html)                                             | Unprocessed |
 | [cosmiq](https://bioconductor.org/packages/3.20/bioc/html/cosmiq.html)                                           | Unprocessed |
 | [cosmosR](https://bioconductor.org/packages/3.20/bioc/html/cosmosR.html)                                         | Unprocessed |
 | [countsimQC](https://bioconductor.org/packages/3.20/bioc/html/countsimQC.html)                                   | Unprocessed |
@@ -2169,7 +2170,6 @@
 | [rgsepd](https://bioconductor.org/packages/3.20/bioc/html/rgsepd.html)                                           | Unprocessed |
 | [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)                 | Unprocessed |
 | [rnaEditr](https://bioconductor.org/packages/3.20/bioc/html/rnaEditr.html)                                       | Unprocessed |
-| [ropls](https://bioconductor.org/packages/3.20/bioc/html/ropls.html)                                             | Unprocessed |
 | [rqt](https://bioconductor.org/packages/3.20/bioc/html/rqt.html)                                                 | Unprocessed |
 | [rrvgo](https://bioconductor.org/packages/3.20/bioc/html/rrvgo.html)                                             | Unprocessed |
 | [sSNAPPY](https://bioconductor.org/packages/3.20/bioc/html/sSNAPPY.html)                                         | Unprocessed |

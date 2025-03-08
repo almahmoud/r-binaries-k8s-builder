@@ -1493,3 +1493,5 @@
 ['[tradeSeq](https://bioconductor.org/packages/3.20/bioc/html/tradeSeq.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/tradeSeq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tradeSeq)']
 ['[vsclust](https://bioconductor.org/packages/3.20/bioc/html/vsclust.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/vsclust/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/vsclust)']
 ['[xcore](https://bioconductor.org/packages/3.20/bioc/html/xcore.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/xcore/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcore)']
+['[coseq](https://bioconductor.org/packages/3.20/bioc/html/coseq.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/coseq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/coseq)']
+['[ropls](https://bioconductor.org/packages/3.20/bioc/html/ropls.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/ropls/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ropls)']

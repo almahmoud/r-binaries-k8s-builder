@@ -1523,3 +1523,9 @@ tradeSeq
 vsclust
 xcore
 coseq
+ASICS
+MultiBaC
+biosigner
+lipidr
+phenomis
+rqt

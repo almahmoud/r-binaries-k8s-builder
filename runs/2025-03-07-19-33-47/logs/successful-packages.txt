@@ -1493,3 +1493,5 @@ omicsPrint
 tradeSeq
 vsclust
 xcore
+coseq
+ropls

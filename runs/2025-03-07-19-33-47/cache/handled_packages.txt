@@ -837,6 +837,7 @@ consensus
 consensusSeekeR
 convert
 copa
+coseq
 covEB
 cqn
 crisprBase
@@ -1298,6 +1299,7 @@ rnaseqcomp
 roar
 roastgsa
 rols
+ropls
 rprimer
 rpx
 rqubic
