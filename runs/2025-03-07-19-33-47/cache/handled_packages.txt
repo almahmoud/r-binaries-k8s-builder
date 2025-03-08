@@ -129,6 +129,7 @@ BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
 CAEN
+CAFE
 CAMERA
 CARNIVAL
 CATALYST
@@ -267,6 +268,7 @@ DMCFB
 DMCHMM
 DMRScan
 DMRcaller
+DMRcate
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
@@ -927,6 +929,7 @@ SingleCellExperiment
 SingleCellSignalR
 SingleMoleculeFootprinting
 SingleR
+SomaticSignatures
 SpaNorm
 SpaceMarkers
 Spaniel
@@ -1149,6 +1152,7 @@ bugsigdbr
 bumphunter
 cBioPortalData
 cTRAP
+cageminer
 calm
 canceR
 cancerclass
@@ -1277,6 +1281,7 @@ demuxmix
 densvis
 derfinder
 derfinderHelper
+derfinderPlot
 destiny
 diffGeneAnalysis
 diffHic
@@ -1954,6 +1959,7 @@ scp
 scran
 scrapper
 screenCounter
+scruff
 scry
 scuttle
 scviR

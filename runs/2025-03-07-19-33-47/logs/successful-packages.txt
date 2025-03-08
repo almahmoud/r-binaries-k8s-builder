@@ -2150,3 +2150,9 @@ regutools
 RNAAgeCalc
 CNViz
 BOBaFIT
+CAFE
+cageminer
+derfinderPlot
+DMRcate
+scruff
+SomaticSignatures
