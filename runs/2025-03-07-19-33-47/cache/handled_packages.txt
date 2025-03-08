@@ -72,6 +72,7 @@ COMPASS
 CONSTANd
 COSNet
 CTDquerier
+Cardinal
 CardinalIO
 CausalR
 CellMapper
@@ -90,6 +91,7 @@ CytoDx
 CytoGLMM
 DART
 DCATS
+DEGraph
 DEGseq
 DEqMS
 DEsingle
@@ -146,6 +148,7 @@ GSEAmining
 GSgalgoR
 GWAS.BAYES
 GWASTools
+GateFinder
 GenProSeq
 GeneExpressionSignature
 GeneGA
@@ -201,6 +204,7 @@ MANOR
 MBAmethyl
 MBCB
 MBttest
+MEIGOR
 MMUPHin
 MOGAMUN
 MPFE
@@ -349,6 +353,7 @@ Streamer
 Summix
 SwathXtend
 TMixClust
+TPP
 TPP2D
 TRONCO
 TSAR
@@ -373,6 +378,7 @@ abseqR
 acde
 affxparser
 affy
+affyContam
 affycomp
 affyio
 agilp
@@ -441,6 +447,7 @@ daMA
 dcGSA
 dcanr
 ddCt
+ddPCRclust
 dearseq
 decontam
 decoupleR
@@ -482,6 +489,7 @@ flowCHIC
 flowClean
 flowClust
 flowCore
+flowCut
 flowCyBar
 flowDensity
 flowFP
@@ -496,6 +504,7 @@ fmrs
 fobitools
 frenchFISH
 frmaTools
+gDRstyle
 gaga
 garfield
 gcatest
@@ -688,6 +697,7 @@ scRecover
 scShapes
 scTHI
 scatterHatch
+scde
 seahtrue
 semisup
 seq.hotSPOT

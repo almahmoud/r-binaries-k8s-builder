@@ -753,3 +753,13 @@ SIMAT
 STATegRa
 TargetDecoy
 XVector
+affyContam
+Cardinal
+ddPCRclust
+DEGraph
+flowCut
+GateFinder
+gDRstyle
+MEIGOR
+scde
+TPP
