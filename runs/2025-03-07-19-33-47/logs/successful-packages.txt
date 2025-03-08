@@ -635,3 +635,15 @@ subSeq
 timecourse
 UNDO
 variancePartition
+fgga
+GeneNetworkBuilder
+geNetClassifier
+metabCombiner
+MiPP
+multtest
+netresponse
+paircompviz
+qcmetrics
+Rcwl
+ribor
+Streamer

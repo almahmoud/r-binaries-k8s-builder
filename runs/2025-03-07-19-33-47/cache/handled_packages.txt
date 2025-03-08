@@ -124,6 +124,7 @@ GWAS.BAYES
 GenProSeq
 GeneExpressionSignature
 GeneGA
+GeneNetworkBuilder
 GeneOverlap
 GeneSelectMMD
 GeneticsPed
@@ -191,6 +192,7 @@ MetID
 MethPed
 MethylMix
 Mfuzz
+MiPP
 ModCon
 MsCoreUtils
 Mulcom
@@ -261,6 +263,7 @@ RbcBook1
 Rbowtie
 Rbwa
 Rcollectl
+Rcwl
 Rdisop
 ReactomeGSA
 ReadqPCR
@@ -296,6 +299,7 @@ ScreenR
 SharedObject
 SpaceMarkers
 SpeCond
+Streamer
 Summix
 SwathXtend
 TPP2D
@@ -405,6 +409,7 @@ fastreeR
 fdrame
 fedup
 fenr
+fgga
 fgsea
 flowCyBar
 flowGraph
@@ -419,6 +424,7 @@ gaga
 garfield
 gcatest
 gdsfmt
+geNetClassifier
 gemini
 genArise
 geneClassifiers
@@ -490,6 +496,7 @@ mdp
 mdqc
 messina
 metaCCA
+metabCombiner
 metabinR
 metagenomeSeq
 metahdep
@@ -509,9 +516,11 @@ mitch
 mixOmics
 multiClust
 multiscan
+multtest
 mzID
 ndexr
 netprioR
+netresponse
 nnNorm
 normalize450K
 nuCpos
@@ -520,6 +529,7 @@ omada
 ompBAM
 onlineFDR
 oppti
+paircompviz
 pandaR
 parglms
 parody
@@ -546,6 +556,7 @@ progeny
 projectR
 proteinProfiles
 qckitfastq
+qcmetrics
 quantsmooth
 qusage
 qvalue
@@ -561,6 +572,7 @@ retrofit
 rgoslin
 rhdf5
 rhdf5filters
+ribor
 rmelting
 rnaseqcomp
 roastgsa
