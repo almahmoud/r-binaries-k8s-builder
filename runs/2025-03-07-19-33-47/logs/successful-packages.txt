@@ -1331,3 +1331,16 @@ DESeq2
 gCrisprTools
 microbiome
 VariantExperiment
+airpart
+amplican
+Anaquin
+CellScore
+combi
+girafe
+hummingbird
+mariner
+microbiomeDASim
+microbiomeExplorer
+reconsi
+RSVSim
+tRNA

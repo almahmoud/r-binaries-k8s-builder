@@ -27,6 +27,7 @@ AnVILBilling
 AnVILGCP
 AnVILPublish
 AnVILWorkflow
+Anaquin
 AneuFinder
 AnnotationFilter
 ArrayExpress
@@ -124,6 +125,7 @@ CellBarcode
 CellBench
 CellMapper
 CellNOptR
+CellScore
 CellTrails
 CelliD
 ChIPseqR
@@ -497,6 +499,7 @@ ROntoTools
 RPA
 RProtoBufLib
 RRHO
+RSVSim
 RSeqAn
 RTCA
 RTCGA
@@ -663,6 +666,7 @@ affycomp
 affyio
 aggregateBioVar
 agilp
+airpart
 alabaster.base
 alabaster.bumpy
 alabaster.files
@@ -675,6 +679,7 @@ alabaster.spatial
 alabaster.string
 alevinQC
 altcdfenvs
+amplican
 annotationTools
 anota
 antiProfiles
@@ -753,6 +758,7 @@ coRdon
 cogena
 cogeqc
 cola
+combi
 compSPOT
 compcodeR
 concordexR
@@ -893,6 +899,7 @@ ggtree
 ggtreeDendro
 ggtreeExtra
 ggtreeSpace
+girafe
 glmGamPoi
 globalSeq
 gpls
@@ -913,6 +920,7 @@ hierinf
 hmdbQuery
 hoodscanR
 hopach
+hummingbird
 hypeR
 hyperdraw
 hypergraph
@@ -973,6 +981,7 @@ maftools
 magrene
 makecdfenv
 mapscape
+mariner
 marray
 martini
 maskBAD
@@ -1012,6 +1021,8 @@ miaSim
 microRNA
 microSTASIS
 microbiome
+microbiomeDASim
+microbiomeExplorer
 mina
 minet
 mirTarRnaSeq
@@ -1143,6 +1154,7 @@ rbsurv
 rcellminer
 rebook
 receptLoss
+reconsi
 recount3
 regionalpcs
 regsplice
@@ -1282,6 +1294,7 @@ synlet
 syntenet
 systemPipeR
 systemPipeShiny
+tRNA
 tanggle
 target
 ternarynet
