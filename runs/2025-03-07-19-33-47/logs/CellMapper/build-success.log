@@ -1,0 +1,93 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'CellMapper'
+also installing the dependencies ‘CellMapperData’, ‘HumanAffyData’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/CellMapperData_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 150941 bytes (147 KB)
+==================================================
+downloaded 147 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/HumanAffyData_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 161238 bytes (157 KB)
+==================================================
+downloaded 157 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/CellMapper_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 211657 bytes (206 KB)
+==================================================
+downloaded 206 KB
+
+* installing *source* package ‘HumanAffyData’ ...
+** using staged installation
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Error: package or namespace load failed for ‘AnnotationHub’ in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]):
+ there is no package called ‘IRanges’
+Error : package ‘AnnotationHub’ could not be loaded
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/HumanAffyData’
+* installing *source* package ‘CellMapper’ ...
+** package ‘CellMapper’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘stats::var’ by ‘S4Vectors::var’ when loading ‘CellMapper’
+Warning: replacing previous import ‘stats::sd’ by ‘S4Vectors::sd’ when loading ‘CellMapper’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘stats::var’ by ‘S4Vectors::var’ when loading ‘CellMapper’
+Warning: replacing previous import ‘stats::sd’ by ‘S4Vectors::sd’ when loading ‘CellMapper’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘stats::var’ by ‘S4Vectors::var’ when loading ‘CellMapper’
+Warning: replacing previous import ‘stats::sd’ by ‘S4Vectors::sd’ when loading ‘CellMapper’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CellMapper’ as ‘CellMapper_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CellMapper)
+* installing *source* package ‘CellMapperData’ ...
+** using staged installation
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Error: package or namespace load failed for ‘AnnotationHub’ in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]):
+ there is no package called ‘IRanges’
+Error : package ‘AnnotationHub’ could not be loaded
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/CellMapperData’
+
+The downloaded source packages are in
+	‘/tmp/RtmpEbXeNv/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘HumanAffyData’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘CellMapperData’ had non-zero exit status
+
+real	0m35.186s
+user	0m15.151s
+sys	0m4.535s

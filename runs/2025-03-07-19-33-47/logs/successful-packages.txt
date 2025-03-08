@@ -660,3 +660,15 @@ pvac
 sevenbridges
 TMixClust
 vsn
+ABarray
+CellMapper
+flowCore
+hapFabia
+KEGGgraph
+mnem
+OCplus
+panp
+RcwlPipelines
+RTopper
+siggenes
+twoddpcr
