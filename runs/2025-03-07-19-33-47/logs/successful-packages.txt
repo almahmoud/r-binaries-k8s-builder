@@ -1926,3 +1926,6 @@ GeneTonic
 metaseqR2
 DaMiRseq
 deconvR
+FRASER
+RiboCrypt
+scPipe

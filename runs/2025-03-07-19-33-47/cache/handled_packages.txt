@@ -307,6 +307,7 @@ FEAST
 FELLA
 FGNet
 FISHalyseR
+FRASER
 FRGEpistasis
 FamAgg
 FastqCleaner
@@ -753,6 +754,7 @@ Rgraphviz
 Rhdf5lib
 Rhisat2
 Rhtslib
+RiboCrypt
 RiboDiPA
 Rmagpie
 Rmmquant
@@ -1725,6 +1727,7 @@ scMerge
 scMitoMut
 scMultiSim
 scPCA
+scPipe
 scRNAseqApp
 scReClassify
 scRecover

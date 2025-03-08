@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1928 packages built successfully
+- 1931 packages built successfully
 - 0 packages failed to build
-- 305 packages not yet processed
+- 302 packages not yet processed
 
 
-## Successfully Built (1928)
+## Successfully Built (1931)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1940,8 +1940,11 @@
 | [metaseqR2](https://bioconductor.org/packages/3.20/bioc/html/metaseqR2.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/metaseqR2/build-success.log)                  | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/metaseqR2)               |
 | [DaMiRseq](https://bioconductor.org/packages/3.20/bioc/html/DaMiRseq.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/DaMiRseq/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DaMiRseq)                   |
 | [deconvR](https://bioconductor.org/packages/3.20/bioc/html/deconvR.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/deconvR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/deconvR)                    |
+| [FRASER](https://bioconductor.org/packages/3.20/bioc/html/FRASER.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/FRASER/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/FRASER)                     |
+| [RiboCrypt](https://bioconductor.org/packages/3.20/bioc/html/RiboCrypt.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/RiboCrypt/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RiboCrypt)                  |
+| [scPipe](https://bioconductor.org/packages/3.20/bioc/html/scPipe.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/scPipe/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scPipe)                     |
 
-## Not Yet Processed (305)
+## Not Yet Processed (302)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [AGDEX](https://bioconductor.org/packages/3.20/bioc/html/AGDEX.html)                                             | Unprocessed |
@@ -1989,7 +1992,6 @@
 | [EnrichmentBrowser](https://bioconductor.org/packages/3.20/bioc/html/EnrichmentBrowser.html)                     | Unprocessed |
 | [ExperimentHubData](https://bioconductor.org/packages/3.20/bioc/html/ExperimentHubData.html)                     | Unprocessed |
 | [FLAMES](https://bioconductor.org/packages/3.20/bioc/html/FLAMES.html)                                           | Unprocessed |
-| [FRASER](https://bioconductor.org/packages/3.20/bioc/html/FRASER.html)                                           | Unprocessed |
 | [GA4GHclient](https://bioconductor.org/packages/3.20/bioc/html/GA4GHclient.html)                                 | Unprocessed |
 | [GA4GHshiny](https://bioconductor.org/packages/3.20/bioc/html/GA4GHshiny.html)                                   | Unprocessed |
 | [GARS](https://bioconductor.org/packages/3.20/bioc/html/GARS.html)                                               | Unprocessed |
@@ -2062,7 +2064,6 @@
 | [RareVariantVis](https://bioconductor.org/packages/3.20/bioc/html/RareVariantVis.html)                           | Unprocessed |
 | [RcisTarget](https://bioconductor.org/packages/3.20/bioc/html/RcisTarget.html)                                   | Unprocessed |
 | [ReportingTools](https://bioconductor.org/packages/3.20/bioc/html/ReportingTools.html)                           | Unprocessed |
-| [RiboCrypt](https://bioconductor.org/packages/3.20/bioc/html/RiboCrypt.html)                                     | Unprocessed |
 | [RiboProfiling](https://bioconductor.org/packages/3.20/bioc/html/RiboProfiling.html)                             | Unprocessed |
 | [RnBeads](https://bioconductor.org/packages/3.20/bioc/html/RnBeads.html)                                         | Unprocessed |
 | [RnaSeqSampleSize](https://bioconductor.org/packages/3.20/bioc/html/RnaSeqSampleSize.html)                       | Unprocessed |
@@ -2217,7 +2218,6 @@
 | [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                             | Unprocessed |
 | [scClassify](https://bioconductor.org/packages/3.20/bioc/html/scClassify.html)                                   | Unprocessed |
 | [scFeatures](https://bioconductor.org/packages/3.20/bioc/html/scFeatures.html)                                   | Unprocessed |
-| [scPipe](https://bioconductor.org/packages/3.20/bioc/html/scPipe.html)                                           | Unprocessed |
 | [scTGIF](https://bioconductor.org/packages/3.20/bioc/html/scTGIF.html)                                           | Unprocessed |
 | [scTensor](https://bioconductor.org/packages/3.20/bioc/html/scTensor.html)                                       | Unprocessed |
 | [scTreeViz](https://bioconductor.org/packages/3.20/bioc/html/scTreeViz.html)                                     | Unprocessed |
