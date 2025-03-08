@@ -1178,3 +1178,15 @@ MICSQTL
 nnSVG
 scider
 scran
+betaHMM
+cytoKernel
+fishpond
+ggsc
+glmGamPoi
+iSEE
+limpca
+M3Drop
+omicsViewer
+scviR
+universalmotif
+zellkonverter

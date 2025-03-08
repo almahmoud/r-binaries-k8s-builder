@@ -303,6 +303,7 @@ Linnorm
 LoomExperiment
 LymphoSeq
 M3C
+M3Drop
 MACSQuantifyR
 MAI
 MANOR
@@ -631,6 +632,7 @@ bcSeq
 beachmat
 beachmat.hdf5
 beer
+betaHMM
 bettr
 bioDist
 bioassayR
@@ -697,6 +699,7 @@ ctsGE
 cyanoFilter
 cycle
 cydar
+cytoKernel
 cytoMEM
 cytolib
 cytomapper
@@ -750,6 +753,7 @@ fenr
 fgga
 fgsea
 findIPs
+fishpond
 flowAI
 flowBeads
 flowBin
@@ -804,11 +808,13 @@ geva
 ggcyto
 ggkegg
 ggmanh
+ggsc
 ggspavis
 ggtree
 ggtreeDendro
 ggtreeExtra
 ggtreeSpace
+glmGamPoi
 globalSeq
 gpls
 gpuMagic
@@ -838,6 +844,7 @@ iChip
 iClusterPlus
 iGC
 iPath
+iSEE
 iSeq
 iasva
 ibh
@@ -865,6 +872,7 @@ levi
 lfa
 limma
 limmaGUI
+limpca
 lmdme
 loci2path
 logicFS
@@ -945,6 +953,7 @@ odseq
 oligo
 oligoClasses
 omada
+omicsViewer
 ompBAM
 oncomix
 oncoscanR
@@ -1080,6 +1089,7 @@ scrapper
 screenCounter
 scry
 scuttle
+scviR
 seahtrue
 sechm
 semisup
@@ -1165,6 +1175,7 @@ twoddpcr
 tximport
 uSORT
 unifiedWMWqPCR
+universalmotif
 updateObject
 variancePartition
 vbmp
@@ -1177,4 +1188,5 @@ wppi
 xenLite
 xmapbridge
 yamss
+zellkonverter
 zlibbioc

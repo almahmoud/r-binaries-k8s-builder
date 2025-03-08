@@ -1298,3 +1298,12 @@ pipeComp
 scCB2
 scDD
 spoon
+iSEEhex
+iSEEindex
+iSEEpathways
+lemur
+memes
+motifTestR
+scMerge
+transformGamPoi
+velociraptor
