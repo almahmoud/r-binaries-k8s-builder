@@ -6,6 +6,7 @@ ADAM
 ADAMgui
 ADAPT
 ADImpute
+ADaCGH2
 AIMS
 ALDEx2
 AMARETTO
@@ -75,6 +76,7 @@ BgeeCall
 BiFET
 BiGGR
 BiRewire
+BiSeq
 BindingSiteFinder
 BioCartaImage
 BioGA
@@ -180,6 +182,7 @@ ChemmineOB
 ChemmineR
 Chicago
 ChromSCape
+CircSeqAlignTk
 CiteFuse
 ClassifyR
 Clomial
@@ -470,6 +473,7 @@ MAST
 MBASED
 MBAmethyl
 MBCB
+MBECS
 MBQN
 MBttest
 MCbiclust
@@ -496,6 +500,7 @@ MPAC
 MPFE
 MPRAnalyze
 MSA2dist
+MSPrep
 MSnID
 MSnbase
 MSstats
@@ -515,6 +520,7 @@ MantelCorr
 MassArray
 MassSpecWavelet
 MatrixGenerics
+MatrixQCvis
 MeSHDbi
 MeasurementError.cor
 Melissa
@@ -603,6 +609,7 @@ PANR
 PAST
 PCAN
 PCAtools
+PECA
 PICS
 PIPETS
 PIUMA
@@ -611,6 +618,7 @@ PLSDAbatch
 POWSC
 PREDA
 PROPER
+PROPS
 PROcess
 PSMatch
 PWMEnrich
@@ -743,6 +751,7 @@ SCOPE
 SCnorm
 SDAMS
 SELEX
+SEtools
 SGSeq
 SIAMCAT
 SICtools
@@ -752,6 +761,7 @@ SIMD
 SIMLR
 SLqPCR
 SMAD
+SMITE
 SNAGEE
 SNPRelate
 SNPediaR
@@ -850,6 +860,7 @@ UCSC.utils
 UCell
 UMI4Cats
 UNDO
+Ularcirc
 UniProt.ws
 VAExprs
 VDJdive
@@ -905,6 +916,7 @@ animalcules
 annaffy
 annotate
 annotationTools
+annotatr
 anota
 anota2seq
 antiProfiles
@@ -981,6 +993,7 @@ censcyt
 cfDNAPro
 cfTools
 cfdnakit
+cghMCR
 chihaya
 chipenrich
 chipseq
@@ -1070,6 +1083,7 @@ derfinderHelper
 destiny
 diffGeneAnalysis
 diffHic
+diffUTR
 diffcoexp
 diffcyt
 diffuStats
@@ -1785,6 +1799,7 @@ treeclimbR
 treeio
 treekoR
 tricycle
+trigger
 trio
 triplex
 tripr
