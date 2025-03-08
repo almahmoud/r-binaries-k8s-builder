@@ -8,6 +8,7 @@ ADAPT
 ADImpute
 AIMS
 ALDEx2
+AMARETTO
 AMOUNTAIN
 ANCOMBC
 ANF
@@ -35,6 +36,7 @@ Anaquin
 AneuFinder
 AnnotationDbi
 AnnotationFilter
+AnnotationForge
 AnnotationHub
 ArrayExpress
 AssessORF
@@ -92,6 +94,7 @@ BiocStyle
 BiocVersion
 BiocWorkflowTools
 Biostrings
+BloodGen3Module
 BridgeDbR
 BrowserViz
 BufferedMatrix
@@ -131,8 +134,10 @@ COTAN
 CRISPRseek
 CRImage
 CSAR
+CSSQ
 CTDquerier
 CTSV
+CTdata
 CaDrA
 Cardinal
 CardinalIO
@@ -211,6 +216,7 @@ DTA
 DeMAND
 DeconRNASeq
 DeepPINCS
+DeepTarget
 DelayedArray
 DelayedDataFrame
 DelayedMatrixStats
@@ -239,11 +245,13 @@ EDIRquery
 EGAD
 EMDomics
 ERSSA
+EWCE
 EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
 EnrichedHeatmap
 EpiDISH
+EpipwR
 ExCluster
 ExiMiR
 ExperimentHub
@@ -394,6 +402,7 @@ LEA
 LOLA
 LPE
 LRBaseDbi
+LRcell
 LedPred
 LinTInd
 LinkHD
@@ -443,13 +452,16 @@ MSstatsTMT
 MVCClass
 MWASTools
 Maaslin2
+Macarron
 MantelCorr
 MassArray
 MassSpecWavelet
 MatrixGenerics
+MeSHDbi
 MeasurementError.cor
 Melissa
 Mergeomics
+MesKit
 MetCirc
 MetID
 MetMashR
@@ -676,6 +688,7 @@ Sconify
 ScreenR
 SeqArray
 SeqGate
+SeqSQC
 SeqVarTools
 SharedObject
 ShortRead
@@ -765,6 +778,7 @@ a4Reporting
 aCGH
 abseqR
 acde
+adductomicsR
 adverSCarial
 affxparser
 affy
@@ -969,6 +983,7 @@ fCI
 fabia
 factDesign
 faers
+fastLiquidAssociation
 fastreeR
 fastseg
 fdrame
@@ -1075,6 +1090,7 @@ hipathia
 hmdbQuery
 hoodscanR
 hopach
+hpar
 hummingbird
 hypeR
 hyperdraw
@@ -1093,6 +1109,7 @@ iSEE
 iSEEde
 iSEEfier
 iSEEhex
+iSEEhub
 iSEEindex
 iSEEpathways
 iSEEtree
@@ -1270,6 +1287,7 @@ openPrimeR
 oppti
 optimalFlow
 orthogene
+orthos
 packFinder
 padma
 paircompviz
@@ -1279,6 +1297,7 @@ panelcn.mops
 panp
 parglms
 parody
+partCNV
 pathifier
 pathwayPCA
 pcaMethods
@@ -1452,6 +1471,7 @@ seqPattern
 seqTools
 seqcombo
 seqsetvis
+sesame
 sevenC
 sevenbridges
 shiny.gosling

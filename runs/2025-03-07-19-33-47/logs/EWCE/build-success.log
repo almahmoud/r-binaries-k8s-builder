@@ -1,0 +1,71 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'EWCE'
+also installing the dependencies ‘RNOmni’, ‘ewceData’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RNOmni_1.0.1.2.tar.gz'
+Content type 'binary/octet-stream' length 220688 bytes (215 KB)
+==================================================
+downloaded 215 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/ewceData_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 45423 bytes (44 KB)
+==================================================
+downloaded 44 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/EWCE_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 2847485 bytes (2.7 MB)
+==================================================
+downloaded 2.7 MB
+
+* installing *binary* package ‘RNOmni’ ...
+* ‘RNOmni’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RNOmni’ as ‘RNOmni_1.0.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RNOmni)
+* installing *source* package ‘ewceData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ewceData’ as ‘ewceData_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ewceData)
+* installing *source* package ‘EWCE’ ...
+** package ‘EWCE’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EWCE’ as ‘EWCE_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EWCE)
+
+The downloaded source packages are in
+	‘/tmp/RtmpidcoHq/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+
+real	2m39.760s
+user	0m48.031s
+sys	0m8.877s
