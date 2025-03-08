@@ -858,3 +858,16 @@ Rsamtools
 SigFuge
 sscu
 target
+AssessORF
+CINdex
+DNAshapeR
+Melissa
+ncRNAtools
+ngsReports
+oncoscanR
+openCyto
+pqsfinder
+ramr
+scoup
+seqArchR
+transite

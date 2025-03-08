@@ -23,6 +23,7 @@ AnVILGCP
 AnVILPublish
 AnVILWorkflow
 AnnotationFilter
+AssessORF
 BADER
 BAGS
 BCRANK
@@ -71,6 +72,7 @@ CGHcall
 CGHnormaliter
 CGHregions
 CIMICE
+CINdex
 CMA
 CNAnorm
 CNORdt
@@ -117,6 +119,7 @@ DMRcaller
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
+DNAshapeR
 DRIMSeq
 DTA
 DeMAND
@@ -255,6 +258,7 @@ MassArray
 MassSpecWavelet
 MatrixGenerics
 MeasurementError.cor
+Melissa
 Mergeomics
 MetCirc
 MetID
@@ -696,12 +700,14 @@ multtest
 muscle
 mzID
 mzR
+ncRNAtools
 ncdfFlow
 ndexr
 nempi
 nethet
 netprioR
 netresponse
+ngsReports
 nnNorm
 normalize450K
 nuCpos
@@ -709,7 +715,9 @@ nucleoSim
 occugene
 omada
 ompBAM
+oncoscanR
 onlineFDR
+openCyto
 oppti
 optimalFlow
 orthogene
@@ -738,6 +746,7 @@ plotGrouper
 pmm
 powerTCR
 ppcseq
+pqsfinder
 preprocessCore
 profileScoreDist
 progeny
@@ -754,6 +763,7 @@ qvalue
 rBiopaxParser
 rWikiPathways
 rain
+ramr
 randPack
 randRotation
 rawDiag
@@ -786,9 +796,11 @@ scShapes
 scTHI
 scatterHatch
 scde
+scoup
 seahtrue
 semisup
 seq.hotSPOT
+seqArchR
 seqLogo
 seqTools
 seqcombo
@@ -837,6 +849,7 @@ timescape
 tkWidgets
 tomoseqr
 topconfects
+transite
 treeio
 trio
 tripr
