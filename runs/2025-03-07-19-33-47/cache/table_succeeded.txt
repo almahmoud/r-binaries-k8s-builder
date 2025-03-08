@@ -1517,3 +1517,7 @@
 ['[lipidr](https://bioconductor.org/packages/3.20/bioc/html/lipidr.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/lipidr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lipidr)']
 ['[rqt](https://bioconductor.org/packages/3.20/bioc/html/rqt.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/rqt/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rqt)']
 ['[scRNAseqApp](https://bioconductor.org/packages/3.20/bioc/html/scRNAseqApp.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/scRNAseqApp/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scRNAseqApp)']
+['[ASICS](https://bioconductor.org/packages/3.20/bioc/html/ASICS.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/ASICS/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ASICS)']
+['[MGnifyR](https://bioconductor.org/packages/3.20/bioc/html/MGnifyR.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/MGnifyR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MGnifyR)']
+['[evaluomeR](https://bioconductor.org/packages/3.20/bioc/html/evaluomeR.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/evaluomeR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/evaluomeR)']
+['[omicade4](https://bioconductor.org/packages/3.20/bioc/html/omicade4.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/omicade4/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/omicade4)']

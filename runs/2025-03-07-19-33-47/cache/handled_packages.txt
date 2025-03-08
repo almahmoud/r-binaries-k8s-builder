@@ -13,6 +13,7 @@ ARRmNormalization
 ASAFE
 ASEB
 ASGSCA
+ASICS
 ASSET
 ASURAT
 AWFisher
@@ -388,6 +389,7 @@ MDTS
 MEB
 MEDME
 MEIGOR
+MGnifyR
 MICSQTL
 MLSeq
 MMDiff2
@@ -920,6 +922,7 @@ epivizrServer
 erccdashboard
 escheR
 eudysbiome
+evaluomeR
 fCCAC
 fCI
 fabia
@@ -1196,6 +1199,7 @@ odseq
 oligo
 oligoClasses
 omada
+omicade4
 omicplotR
 omicsPrint
 omicsViewer

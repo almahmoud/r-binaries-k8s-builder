@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1519 packages built successfully
+- 1523 packages built successfully
 - 0 packages failed to build
-- 714 packages not yet processed
+- 710 packages not yet processed
 
 
-## Successfully Built (1519)
+## Successfully Built (1523)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1531,8 +1531,12 @@
 | [lipidr](https://bioconductor.org/packages/3.20/bioc/html/lipidr.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/lipidr/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lipidr)                     |
 | [rqt](https://bioconductor.org/packages/3.20/bioc/html/rqt.html)                                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/rqt/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rqt)                        |
 | [scRNAseqApp](https://bioconductor.org/packages/3.20/bioc/html/scRNAseqApp.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/scRNAseqApp/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scRNAseqApp)                |
+| [ASICS](https://bioconductor.org/packages/3.20/bioc/html/ASICS.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/ASICS/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ASICS)                      |
+| [MGnifyR](https://bioconductor.org/packages/3.20/bioc/html/MGnifyR.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/MGnifyR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MGnifyR)                    |
+| [evaluomeR](https://bioconductor.org/packages/3.20/bioc/html/evaluomeR.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/evaluomeR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/evaluomeR)                  |
+| [omicade4](https://bioconductor.org/packages/3.20/bioc/html/omicade4.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/omicade4/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/omicade4)                   |
 
-## Not Yet Processed (714)
+## Not Yet Processed (710)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADAM](https://bioconductor.org/packages/3.20/bioc/html/ADAM.html)                                               | Unprocessed |
@@ -1543,7 +1547,6 @@
 | [AMARETTO](https://bioconductor.org/packages/3.20/bioc/html/AMARETTO.html)                                       | Unprocessed |
 | [APAlyzer](https://bioconductor.org/packages/3.20/bioc/html/APAlyzer.html)                                       | Unprocessed |
 | [APL](https://bioconductor.org/packages/3.20/bioc/html/APL.html)                                                 | Unprocessed |
-| [ASICS](https://bioconductor.org/packages/3.20/bioc/html/ASICS.html)                                             | Unprocessed |
 | [ASSIGN](https://bioconductor.org/packages/3.20/bioc/html/ASSIGN.html)                                           | Unprocessed |
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                             | Unprocessed |
 | [ATACseqQC](https://bioconductor.org/packages/3.20/bioc/html/ATACseqQC.html)                                     | Unprocessed |
@@ -1722,7 +1725,6 @@
 | [MEDIPS](https://bioconductor.org/packages/3.20/bioc/html/MEDIPS.html)                                           | Unprocessed |
 | [MGFM](https://bioconductor.org/packages/3.20/bioc/html/MGFM.html)                                               | Unprocessed |
 | [MGFR](https://bioconductor.org/packages/3.20/bioc/html/MGFR.html)                                               | Unprocessed |
-| [MGnifyR](https://bioconductor.org/packages/3.20/bioc/html/MGnifyR.html)                                         | Unprocessed |
 | [MIRA](https://bioconductor.org/packages/3.20/bioc/html/MIRA.html)                                               | Unprocessed |
 | [MIRit](https://bioconductor.org/packages/3.20/bioc/html/MIRit.html)                                             | Unprocessed |
 | [MLInterfaces](https://bioconductor.org/packages/3.20/bioc/html/MLInterfaces.html)                               | Unprocessed |
@@ -2005,7 +2007,6 @@
 | [esATAC](https://bioconductor.org/packages/3.20/bioc/html/esATAC.html)                                           | Unprocessed |
 | [escape](https://bioconductor.org/packages/3.20/bioc/html/escape.html)                                           | Unprocessed |
 | [esetVis](https://bioconductor.org/packages/3.20/bioc/html/esetVis.html)                                         | Unprocessed |
-| [evaluomeR](https://bioconductor.org/packages/3.20/bioc/html/evaluomeR.html)                                     | Unprocessed |
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                                   | Unprocessed |
 | [factR](https://bioconductor.org/packages/3.20/bioc/html/factR.html)                                             | Unprocessed |
 | [famat](https://bioconductor.org/packages/3.20/bioc/html/famat.html)                                             | Unprocessed |
@@ -2125,7 +2126,6 @@
 | [octad](https://bioconductor.org/packages/3.20/bioc/html/octad.html)                                             | Unprocessed |
 | [omXplore](https://bioconductor.org/packages/3.20/bioc/html/omXplore.html)                                       | Unprocessed |
 | [omicRexposome](https://bioconductor.org/packages/3.20/bioc/html/omicRexposome.html)                             | Unprocessed |
-| [omicade4](https://bioconductor.org/packages/3.20/bioc/html/omicade4.html)                                       | Unprocessed |
 | [ontoProc](https://bioconductor.org/packages/3.20/bioc/html/ontoProc.html)                                       | Unprocessed |
 | [oposSOM](https://bioconductor.org/packages/3.20/bioc/html/oposSOM.html)                                         | Unprocessed |
 | [oppar](https://bioconductor.org/packages/3.20/bioc/html/oppar.html)                                             | Unprocessed |
