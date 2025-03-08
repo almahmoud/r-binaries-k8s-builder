@@ -350,6 +350,7 @@ GOfuncR
 GOpro
 GPA
 GRENITS
+GRaNIE
 GRmetrics
 GSALightning
 GSAR
@@ -935,6 +936,7 @@ VDJdive
 VERSO
 VanillaICE
 VarCon
+VariantAnnotation
 VariantExperiment
 VegaMC
 VennDetail
@@ -1123,6 +1125,7 @@ copa
 corral
 coseq
 cosmiq
+cosmosR
 countsimQC
 covEB
 covRNA
@@ -1773,6 +1776,7 @@ scReClassify
 scRecover
 scRepertoire
 scShapes
+scTGIF
 scTHI
 scanMiR
 scanMiRApp
@@ -1970,6 +1974,7 @@ xcore
 xenLite
 xmapbridge
 yamss
+yarn
 zFPKM
 zellkonverter
 zinbwave

@@ -1975,3 +1975,8 @@ GlobalAncova
 mastR
 PROMISE
 TFutils
+cosmosR
+GRaNIE
+scTGIF
+VariantAnnotation
+yarn
