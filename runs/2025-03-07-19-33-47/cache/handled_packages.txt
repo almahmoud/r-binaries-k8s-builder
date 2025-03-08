@@ -31,6 +31,7 @@ AssessORF
 BADER
 BAGS
 BANDITS
+BASiCS
 BCRANK
 BEclear
 BG2
@@ -116,6 +117,7 @@ CelliD
 ChemmineOB
 ChemmineR
 Chicago
+CiteFuse
 Clomial
 ClustAll
 ClusterFoldSimilarity
@@ -164,6 +166,7 @@ DepInfeR
 DepecheR
 DiffLogo
 DifferentialRegulation
+Dino
 Director
 DirichletMultinomial
 DiscoRhythm
@@ -323,6 +326,7 @@ MICSQTL
 MMUPHin
 MOFA2
 MOGAMUN
+MOSim
 MPAC
 MPFE
 MPRAnalyze
@@ -542,6 +546,7 @@ SpaceMarkers
 SparseArray
 SpatialCPie
 SpatialExperiment
+SpatialFeatureExperiment
 SpeCond
 Spectra
 SpectraQL
@@ -854,6 +859,7 @@ iClusterPlus
 iGC
 iPath
 iSEE
+iSEEpathways
 iSeq
 iasva
 ibh
@@ -888,6 +894,7 @@ loci2path
 logicFS
 lpNet
 lpsymphony
+lute
 mBPCR
 maCorrPlot
 maSigPro
@@ -1176,6 +1183,7 @@ tomoseqr
 topconfects
 tpSVG
 tracktables
+transformGamPoi
 transite
 treeio
 trio

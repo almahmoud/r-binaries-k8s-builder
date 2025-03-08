@@ -1203,3 +1203,11 @@ mumosa
 scDotPlot
 SingleCellSignalR
 SpaNorm
+BASiCS
+CiteFuse
+Dino
+iSEEpathways
+lute
+MOSim
+SpatialFeatureExperiment
+transformGamPoi

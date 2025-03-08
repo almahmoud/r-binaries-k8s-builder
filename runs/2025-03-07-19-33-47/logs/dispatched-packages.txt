@@ -1312,3 +1312,5 @@ SpatialDecon
 SpatialOmicsOverlay
 cytofQC
 spillR
+BASiCStan
+Voyager
