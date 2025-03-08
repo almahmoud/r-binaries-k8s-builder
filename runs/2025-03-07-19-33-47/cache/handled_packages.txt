@@ -667,6 +667,7 @@ MultiMed
 MultiRNAflow
 MultimodalExperiment
 MutationalPatterns
+NADfinder
 NBAMSeq
 NCIgraph
 NOISeq
@@ -1455,6 +1456,7 @@ genomation
 genomeIntervals
 genomes
 genomicInstability
+geomeTriD
 gep2pep
 getDEE2
 geva
