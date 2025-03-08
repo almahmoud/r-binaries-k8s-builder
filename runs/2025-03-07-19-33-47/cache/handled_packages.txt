@@ -1030,6 +1030,7 @@ VanillaICE
 VarCon
 VariantAnnotation
 VariantExperiment
+VariantFiltering
 VariantTools
 VegaMC
 VennDetail
@@ -1189,6 +1190,7 @@ cfTools
 cfdnakit
 cghMCR
 chihaya
+chimeraviz
 chipenrich
 chipseq
 chopsticks
@@ -1740,6 +1742,7 @@ nucleR
 nucleoSim
 nullranges
 occugene
+octad
 odseq
 oligo
 oligoClasses

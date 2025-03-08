@@ -2183,3 +2183,6 @@ MineICA
 YAPSA
 enhancerHomologSearch
 scFeatures
+chimeraviz
+octad
+VariantFiltering
