@@ -2186,3 +2186,4 @@
 ['[VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/VariantFiltering/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VariantFiltering)']
 ['[chimeraviz](https://bioconductor.org/packages/3.20/bioc/html/chimeraviz.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/chimeraviz/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/chimeraviz)']
 ['[octad](https://bioconductor.org/packages/3.20/bioc/html/octad.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/octad/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/octad)']
+['[bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/bigmelon/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bigmelon)']

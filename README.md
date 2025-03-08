@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2188 packages built successfully
+- 2189 packages built successfully
 - 0 packages failed to build
-- 45 packages not yet processed
+- 44 packages not yet processed
 
 
-## Successfully Built (2188)
+## Successfully Built (2189)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2200,8 +2200,9 @@
 | [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/VariantFiltering/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VariantFiltering)            |
 | [chimeraviz](https://bioconductor.org/packages/3.20/bioc/html/chimeraviz.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/chimeraviz/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/chimeraviz)                  |
 | [octad](https://bioconductor.org/packages/3.20/bioc/html/octad.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/octad/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/octad)                       |
+| [bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/bigmelon/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bigmelon)                    |
 
-## Not Yet Processed (45)
+## Not Yet Processed (44)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                     | Unprocessed |
@@ -2228,7 +2229,6 @@
 | [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                   | Unprocessed |
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                 | Unprocessed |
 | [attract](https://bioconductor.org/packages/3.20/bioc/html/attract.html)                             | Unprocessed |
-| [bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)                           | Unprocessed |
 | [categoryCompare](https://bioconductor.org/packages/3.20/bioc/html/categoryCompare.html)             | Unprocessed |
 | [cicero](https://bioconductor.org/packages/3.20/bioc/html/cicero.html)                               | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                               | Unprocessed |

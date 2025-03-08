@@ -1127,6 +1127,7 @@ beer
 benchdamic
 betaHMM
 bettr
+bigmelon
 bioCancer
 bioDist
 bioassayR
