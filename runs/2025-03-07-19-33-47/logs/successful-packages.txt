@@ -1478,3 +1478,10 @@ HiCDOC
 marr
 MLSeq
 Statial
+CellMixS
+HybridExpress
+midasHLA
+padma
+structToolbox
+survClust
+tidyomics
