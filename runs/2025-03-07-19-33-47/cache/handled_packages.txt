@@ -423,8 +423,12 @@ Spectra
 SpectraQL
 Streamer
 Structstrings
+SummarizedExperiment
 Summix
 SwathXtend
+SynExtend
+SynMut
+TDbasedUFE
 TEQC
 TMixClust
 TPP
@@ -561,6 +565,7 @@ epiNEM
 epistasisGA
 epivizrServer
 erccdashboard
+eudysbiome
 fCI
 fabia
 factDesign
@@ -617,6 +622,7 @@ genoCN
 genomes
 geva
 ggkegg
+ggmanh
 ggtree
 ggtreeDendro
 ggtreeExtra
@@ -736,6 +742,7 @@ openCyto
 oppti
 optimalFlow
 orthogene
+packFinder
 paircompviz
 pandaR
 panp
@@ -769,6 +776,7 @@ projectR
 proteinProfiles
 pvac
 pvca
+pwalign
 qckitfastq
 qcmetrics
 qpcrNorm
@@ -777,6 +785,7 @@ qusage
 qvalue
 rBLAST
 rBiopaxParser
+rSWeeP
 rWikiPathways
 rain
 ramr
@@ -789,6 +798,7 @@ rcellminer
 rebook
 retrofit
 rexposome
+rfPred
 rgoslin
 rhdf5
 rhdf5client
@@ -866,6 +876,7 @@ timescape
 tkWidgets
 tomoseqr
 topconfects
+tracktables
 transite
 treeio
 trio

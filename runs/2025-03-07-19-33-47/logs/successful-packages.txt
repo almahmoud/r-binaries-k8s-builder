@@ -888,3 +888,14 @@ SeqVarTools
 SimFFPE
 ssviz
 TEQC
+eudysbiome
+ggmanh
+packFinder
+pwalign
+rfPred
+rSWeeP
+SummarizedExperiment
+SynExtend
+SynMut
+TDbasedUFE
+tracktables
