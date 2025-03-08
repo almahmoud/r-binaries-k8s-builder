@@ -102,6 +102,7 @@ BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
 CAEN
+CAMERA
 CARNIVAL
 CATALYST
 CBEA
@@ -336,6 +337,7 @@ GrafGen
 GraphAT
 GraphAlignment
 GreyListChIP
+Guitar
 HDF5Array
 HDTD
 HELP
@@ -894,6 +896,7 @@ cliqueMS
 clst
 clstutils
 clustComp
+clusterProfiler
 clusterSeq
 clusterStab
 clustifyr
@@ -917,6 +920,7 @@ convert
 copa
 corral
 coseq
+cosmiq
 covEB
 cqn
 crisprBase
@@ -1275,9 +1279,11 @@ muscat
 muscle
 mzID
 mzR
+ncGTW
 ncRNAtools
 ncdfFlow
 ndexr
+nearBynding
 nempi
 nethet
 netprioR
@@ -1326,6 +1332,7 @@ pathifier
 pathwayPCA
 pcaMethods
 pdInfoBuilder
+peakPantheR
 peco
 pengls
 pepStat
@@ -1358,6 +1365,7 @@ plyxp
 pmm
 pmp
 podkat
+pogos
 powerTCR
 ppcseq
 pqsfinder
@@ -1370,6 +1378,7 @@ profileScoreDist
 progeny
 projectR
 proteinProfiles
+ptairMS
 puma
 pvac
 pvca
@@ -1538,6 +1547,7 @@ splatter
 splots
 spoon
 spqn
+squallms
 ssPATHS
 sscu
 ssize
