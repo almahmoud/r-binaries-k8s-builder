@@ -346,6 +346,7 @@ FEAST
 FELLA
 FGNet
 FISHalyseR
+FLAMES
 FRASER
 FRGEpistasis
 FamAgg
@@ -383,6 +384,7 @@ GOTHiC
 GOexpress
 GOfuncR
 GOpro
+GOstats
 GPA
 GRENITS
 GRaNIE
@@ -1136,6 +1138,7 @@ biodbNci
 biodbUniprot
 biomaRt
 biomformat
+biomvRCNS
 biosigner
 biotmle
 biovizBase
@@ -2073,6 +2076,7 @@ tRNA
 tRNAdbImport
 tRNAscanImport
 tRanslatome
+tadar
 tanggle
 target
 tenXplore
@@ -2099,6 +2103,7 @@ topGO
 topconfects
 topdownr
 tpSVG
+trackViewer
 tracktables
 tradeSeq
 transcriptR
@@ -2140,6 +2145,7 @@ vsn
 vtpnet
 vulcan
 waddR
+wateRmelon
 wavClusteR
 weaver
 webbioc

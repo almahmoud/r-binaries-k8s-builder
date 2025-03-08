@@ -2160,3 +2160,9 @@ crisprViz
 GenomicOZone
 R3CPET
 RiboProfiling
+biomvRCNS
+FLAMES
+GOstats
+tadar
+trackViewer
+wateRmelon

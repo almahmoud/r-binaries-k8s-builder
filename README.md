@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2162 packages built successfully
+- 2168 packages built successfully
 - 0 packages failed to build
-- 71 packages not yet processed
+- 65 packages not yet processed
 
 
-## Successfully Built (2162)
+## Successfully Built (2168)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2174,8 +2174,14 @@
 | [R3CPET](https://bioconductor.org/packages/3.20/bioc/html/R3CPET.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/R3CPET/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/R3CPET)                      |
 | [RiboProfiling](https://bioconductor.org/packages/3.20/bioc/html/RiboProfiling.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/RiboProfiling/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RiboProfiling)               |
 | [crisprViz](https://bioconductor.org/packages/3.20/bioc/html/crisprViz.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/crisprViz/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/crisprViz)                   |
+| [FLAMES](https://bioconductor.org/packages/3.20/bioc/html/FLAMES.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/FLAMES/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/FLAMES)                      |
+| [GOstats](https://bioconductor.org/packages/3.20/bioc/html/GOstats.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/GOstats/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GOstats)                     |
+| [biomvRCNS](https://bioconductor.org/packages/3.20/bioc/html/biomvRCNS.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/biomvRCNS/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biomvRCNS)                   |
+| [tadar](https://bioconductor.org/packages/3.20/bioc/html/tadar.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/tadar/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tadar)                       |
+| [trackViewer](https://bioconductor.org/packages/3.20/bioc/html/trackViewer.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/trackViewer/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/trackViewer)                 |
+| [wateRmelon](https://bioconductor.org/packages/3.20/bioc/html/wateRmelon.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/wateRmelon/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/wateRmelon)                  |
 
-## Not Yet Processed (71)
+## Not Yet Processed (65)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                     | Unprocessed |
@@ -2183,8 +2189,6 @@
 | [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)                                 | Unprocessed |
 | [ChAMP](https://bioconductor.org/packages/3.20/bioc/html/ChAMP.html)                                 | Unprocessed |
 | [ELMER](https://bioconductor.org/packages/3.20/bioc/html/ELMER.html)                                 | Unprocessed |
-| [FLAMES](https://bioconductor.org/packages/3.20/bioc/html/FLAMES.html)                               | Unprocessed |
-| [GOstats](https://bioconductor.org/packages/3.20/bioc/html/GOstats.html)                             | Unprocessed |
 | [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)       | Unprocessed |
 | [GenomicInteractions](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractions.html)     | Unprocessed |
 | [GmicR](https://bioconductor.org/packages/3.20/bioc/html/GmicR.html)                                 | Unprocessed |
@@ -2211,7 +2215,6 @@
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                 | Unprocessed |
 | [attract](https://bioconductor.org/packages/3.20/bioc/html/attract.html)                             | Unprocessed |
 | [bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)                           | Unprocessed |
-| [biomvRCNS](https://bioconductor.org/packages/3.20/bioc/html/biomvRCNS.html)                         | Unprocessed |
 | [categoryCompare](https://bioconductor.org/packages/3.20/bioc/html/categoryCompare.html)             | Unprocessed |
 | [chimeraviz](https://bioconductor.org/packages/3.20/bioc/html/chimeraviz.html)                       | Unprocessed |
 | [cicero](https://bioconductor.org/packages/3.20/bioc/html/cicero.html)                               | Unprocessed |
@@ -2245,7 +2248,4 @@
 | [singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)                   | Unprocessed |
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                 | Unprocessed |
 | [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                             | Unprocessed |
-| [tadar](https://bioconductor.org/packages/3.20/bioc/html/tadar.html)                                 | Unprocessed |
-| [trackViewer](https://bioconductor.org/packages/3.20/bioc/html/trackViewer.html)                     | Unprocessed |
 | [uncoverappLib](https://bioconductor.org/packages/3.20/bioc/html/uncoverappLib.html)                 | Unprocessed |
-| [wateRmelon](https://bioconductor.org/packages/3.20/bioc/html/wateRmelon.html)                       | Unprocessed |
