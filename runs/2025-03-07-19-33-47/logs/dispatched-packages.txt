@@ -1973,3 +1973,9 @@ quantro
 recountmethylation
 shinyMethyl
 shinyepico
+CleanUpRNAseq
+MoonlightR
+SurfR
+consensusDE
+scone
+standR

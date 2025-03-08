@@ -1910,3 +1910,12 @@ drugTargetInteractions
 minfi
 omicRexposome
 ORFik
+dominoSignal
+glmSparseNet
+MGFM
+miRspongeR
+qsmooth
+RUVSeq
+TCGAbiolinks
+TEKRABber
+TFEA.ChIP

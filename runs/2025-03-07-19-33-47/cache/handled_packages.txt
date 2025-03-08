@@ -490,6 +490,7 @@ MEB
 MEDIPS
 MEDME
 MEIGOR
+MGFM
 MGnifyR
 MICSQTL
 MIRA
@@ -714,6 +715,7 @@ RTN
 RTNduals
 RTNsurvival
 RTopper
+RUVSeq
 RUVcorr
 RUVnormalize
 RVS
@@ -856,13 +858,16 @@ SynMut
 TADCompare
 TAPseq
 TCC
+TCGAbiolinks
 TCGAutils
 TCseq
 TDbasedUFE
 TDbasedUFEadv
+TEKRABber
 TENxIO
 TEQC
 TFARM
+TFEA.ChIP
 TIN
 TMixClust
 TOAST
@@ -1141,6 +1146,7 @@ dittoSeq
 divergence
 dks
 dmrseq
+dominoSignal
 doppelgangR
 doseR
 doubletrouble
@@ -1273,6 +1279,7 @@ ggtreeSpace
 ginmappeR
 girafe
 glmGamPoi
+glmSparseNet
 globalSeq
 globaltest
 gmoviz
@@ -1436,6 +1443,7 @@ miRNAmeConverter
 miRNApath
 miRNAtap
 miRcomp
+miRspongeR
 mia
 miaSim
 miaViz
@@ -1613,6 +1621,7 @@ qmtools
 qpcrNorm
 qpgraph
 qsea
+qsmooth
 qsvaR
 quantiseqr
 quantsmooth

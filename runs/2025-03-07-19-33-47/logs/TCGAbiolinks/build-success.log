@@ -1,0 +1,54 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'TCGAbiolinks'
+Warning: dependency ‘supraHex’ is not available
+also installing the dependency ‘c3net’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/c3net_1.1.1.1.tar.gz'
+Content type 'binary/octet-stream' length 547022 bytes (534 KB)
+==================================================
+downloaded 534 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/TCGAbiolinks_2.34.0.tar.gz'
+Content type 'application/x-gzip' length 65681510 bytes (62.6 MB)
+==================================================
+downloaded 62.6 MB
+
+* installing *binary* package ‘c3net’ ...
+* ‘c3net’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘c3net’ as ‘c3net_1.1.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (c3net)
+* installing *source* package ‘TCGAbiolinks’ ...
+** package ‘TCGAbiolinks’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TCGAbiolinks’ as ‘TCGAbiolinks_2.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TCGAbiolinks)
+
+The downloaded source packages are in
+	‘/tmp/RtmpTv4YAy/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+
+real	2m57.001s
+user	0m55.660s
+sys	0m8.325s
