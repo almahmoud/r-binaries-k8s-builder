@@ -450,3 +450,4 @@ BiocWorkflowTools
 COMPASS
 abseqR
 hypeR
+tkWidgets

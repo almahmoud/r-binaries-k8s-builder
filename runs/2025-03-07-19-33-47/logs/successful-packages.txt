@@ -414,3 +414,10 @@ HMMcopy
 HPAanalyze
 hypeR
 illuminaio
+BiocWorkflowTools
+DriverNet
+DynDoc
+FitHiC
+GSCA
+OpenStats
+RAREsim
