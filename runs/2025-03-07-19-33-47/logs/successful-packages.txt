@@ -1660,3 +1660,12 @@ preciseTAD
 Rmmquant
 TAPseq
 TRESS
+doubletrouble
+EasyCellType
+GenomicScores
+IPO
+LOBSTAHS
+PADOG
+qPLEXanalyzer
+segmenter
+TCGAutils

@@ -250,6 +250,7 @@ EGAD
 EMDomics
 ERSSA
 EWCE
+EasyCellType
 EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
@@ -326,6 +327,7 @@ GenomicDataCommons
 GenomicDistributions
 GenomicFeatures
 GenomicRanges
+GenomicScores
 GenomicSuperSignature
 GenomicTuples
 GeoDiff
@@ -381,6 +383,7 @@ INDEED
 INPower
 INTACT
 IONiseR
+IPO
 IRanges
 ISAnalytics
 ISLET
@@ -406,6 +409,7 @@ KEGGlincs
 KinSwingR
 LBE
 LEA
+LOBSTAHS
 LOLA
 LPE
 LRBaseDbi
@@ -539,6 +543,7 @@ OncoSimulR
 OpenStats
 OrderedList
 Oscope
+PADOG
 PAIRADISE
 PANR
 PAST
@@ -742,6 +747,7 @@ SynMut
 TADCompare
 TAPseq
 TCC
+TCGAutils
 TCseq
 TDbasedUFE
 TDbasedUFEadv
@@ -982,6 +988,7 @@ dittoSeq
 divergence
 dks
 doseR
+doubletrouble
 drawProteins
 dupRadar
 dyebias
@@ -1394,6 +1401,7 @@ puma
 pvac
 pvca
 pwalign
+qPLEXanalyzer
 qckitfastq
 qcmetrics
 qmtools
@@ -1512,6 +1520,7 @@ scviR
 seahtrue
 sechm
 segmentSeq
+segmenter
 semisup
 seq.hotSPOT
 seqArchR
