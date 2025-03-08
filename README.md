@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 446 packages built successfully
+- 448 packages built successfully
 - 0 packages failed to build
-- 1787 packages not yet processed
+- 1785 packages not yet processed
 
 
-## Successfully Built (446)
+## Successfully Built (448)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -458,8 +458,10 @@
 | [snifter](https://bioconductor.org/packages/3.20/bioc/html/snifter.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/snifter/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/snifter)                 |
 | [timeOmics](https://bioconductor.org/packages/3.20/bioc/html/timeOmics.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/timeOmics/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/timeOmics)               |
 | [tkWidgets](https://bioconductor.org/packages/3.20/bioc/html/tkWidgets.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/tkWidgets/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tkWidgets)               |
+| [limma](https://bioconductor.org/packages/3.20/bioc/html/limma.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/limma/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/limma)                   |
+| [seahtrue](https://bioconductor.org/packages/3.20/bioc/html/seahtrue.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/seahtrue/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/seahtrue)                |
 
-## Not Yet Processed (1787)
+## Not Yet Processed (1785)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ABSSeq](https://bioconductor.org/packages/3.20/bioc/html/ABSSeq.html)                                           | Unprocessed |
@@ -1742,7 +1744,6 @@
 | [ldblock](https://bioconductor.org/packages/3.20/bioc/html/ldblock.html)                                         | Unprocessed |
 | [lefser](https://bioconductor.org/packages/3.20/bioc/html/lefser.html)                                           | Unprocessed |
 | [lemur](https://bioconductor.org/packages/3.20/bioc/html/lemur.html)                                             | Unprocessed |
-| [limma](https://bioconductor.org/packages/3.20/bioc/html/limma.html)                                             | Unprocessed |
 | [limmaGUI](https://bioconductor.org/packages/3.20/bioc/html/limmaGUI.html)                                       | Unprocessed |
 | [limpca](https://bioconductor.org/packages/3.20/bioc/html/limpca.html)                                           | Unprocessed |
 | [lineagespot](https://bioconductor.org/packages/3.20/bioc/html/lineagespot.html)                                 | Unprocessed |
@@ -2093,7 +2094,6 @@
 | [scry](https://bioconductor.org/packages/3.20/bioc/html/scry.html)                                               | Unprocessed |
 | [scuttle](https://bioconductor.org/packages/3.20/bioc/html/scuttle.html)                                         | Unprocessed |
 | [scviR](https://bioconductor.org/packages/3.20/bioc/html/scviR.html)                                             | Unprocessed |
-| [seahtrue](https://bioconductor.org/packages/3.20/bioc/html/seahtrue.html)                                       | Unprocessed |
 | [sechm](https://bioconductor.org/packages/3.20/bioc/html/sechm.html)                                             | Unprocessed |
 | [segmentSeq](https://bioconductor.org/packages/3.20/bioc/html/segmentSeq.html)                                   | Unprocessed |
 | [segmenter](https://bioconductor.org/packages/3.20/bioc/html/segmenter.html)                                     | Unprocessed |

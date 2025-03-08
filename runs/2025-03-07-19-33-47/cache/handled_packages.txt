@@ -328,6 +328,7 @@ koinar
 les
 levi
 lfa
+limma
 logicFS
 lpsymphony
 maCorrPlot
@@ -400,6 +401,7 @@ scRecover
 scShapes
 scTHI
 scatterHatch
+seahtrue
 semisup
 seq.hotSPOT
 seqLogo

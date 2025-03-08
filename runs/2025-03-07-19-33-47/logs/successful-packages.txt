@@ -444,3 +444,5 @@ RSeqAn
 snifter
 timeOmics
 tkWidgets
+limma
+seahtrue
