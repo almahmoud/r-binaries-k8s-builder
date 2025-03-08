@@ -1413,3 +1413,11 @@ podkat
 regioneReloaded
 Repitools
 SpatialOmicsOverlay
+ChIPanalyser
+ChIPComp
+CRISPRseek
+easylift
+groHMM
+iCNV
+Rbec
+SpatialDecon

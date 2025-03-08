@@ -117,6 +117,7 @@ CONFESS
 CONSTANd
 COSNet
 COTAN
+CRISPRseek
 CRImage
 CSAR
 CTDquerier
@@ -133,6 +134,8 @@ CellNOptR
 CellScore
 CellTrails
 CelliD
+ChIPComp
+ChIPanalyser
 ChIPseqR
 ChIPsim
 ChemmineOB
@@ -543,6 +546,7 @@ RaggedExperiment
 RankProd
 Rarr
 RbcBook1
+Rbec
 Rbowtie
 Rbowtie2
 Rbwa
@@ -627,6 +631,7 @@ Spaniel
 SparseArray
 SparseSignatures
 SpatialCPie
+SpatialDecon
 SpatialExperiment
 SpatialFeatureExperiment
 SpatialOmicsOverlay
@@ -852,6 +857,7 @@ doseR
 drawProteins
 dupRadar
 dyebias
+easylift
 easyreporting
 ecolitk
 edgeR
@@ -953,6 +959,7 @@ gpuMagic
 granulator
 graper
 graph
+groHMM
 gscreend
 gtrellis
 gypsum
@@ -975,6 +982,7 @@ iASeq
 iBBiG
 iBMQ
 iCARE
+iCNV
 iCOBRA
 iChip
 iClusterPlus
