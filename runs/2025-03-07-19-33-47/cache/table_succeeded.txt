@@ -2148,3 +2148,4 @@
 ['[motifbreakR](https://bioconductor.org/packages/3.20/bioc/html/motifbreakR.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/motifbreakR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifbreakR)']
 ['[msgbsR](https://bioconductor.org/packages/3.20/bioc/html/msgbsR.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/msgbsR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/msgbsR)']
 ['[regutools](https://bioconductor.org/packages/3.20/bioc/html/regutools.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/regutools/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/regutools)']
+['[CNViz](https://bioconductor.org/packages/3.20/bioc/html/CNViz.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/CNViz/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNViz)']

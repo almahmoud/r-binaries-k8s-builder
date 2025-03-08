@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2150 packages built successfully
+- 2151 packages built successfully
 - 0 packages failed to build
-- 83 packages not yet processed
+- 82 packages not yet processed
 
 
-## Successfully Built (2150)
+## Successfully Built (2151)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2162,8 +2162,9 @@
 | [motifbreakR](https://bioconductor.org/packages/3.20/bioc/html/motifbreakR.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/motifbreakR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifbreakR)                 |
 | [msgbsR](https://bioconductor.org/packages/3.20/bioc/html/msgbsR.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/msgbsR/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/msgbsR)                      |
 | [regutools](https://bioconductor.org/packages/3.20/bioc/html/regutools.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/regutools/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/regutools)                   |
+| [CNViz](https://bioconductor.org/packages/3.20/bioc/html/CNViz.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/CNViz/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNViz)                       |
 
-## Not Yet Processed (83)
+## Not Yet Processed (82)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                     | Unprocessed |
@@ -2171,7 +2172,6 @@
 | [CAFE](https://bioconductor.org/packages/3.20/bioc/html/CAFE.html)                                   | Unprocessed |
 | [CAGEfightR](https://bioconductor.org/packages/3.20/bioc/html/CAGEfightR.html)                       | Unprocessed |
 | [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)                                 | Unprocessed |
-| [CNViz](https://bioconductor.org/packages/3.20/bioc/html/CNViz.html)                                 | Unprocessed |
 | [ChAMP](https://bioconductor.org/packages/3.20/bioc/html/ChAMP.html)                                 | Unprocessed |
 | [DMRcate](https://bioconductor.org/packages/3.20/bioc/html/DMRcate.html)                             | Unprocessed |
 | [ELMER](https://bioconductor.org/packages/3.20/bioc/html/ELMER.html)                                 | Unprocessed |

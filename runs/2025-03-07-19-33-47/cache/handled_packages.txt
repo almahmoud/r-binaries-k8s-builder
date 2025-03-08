@@ -159,6 +159,7 @@ CNVMetrics
 CNVPanelizer
 CNVRanger
 CNVfilteR
+CNViz
 CNVrd2
 COCOA
 CODEX

@@ -2148,3 +2148,4 @@ motifbreakR
 msgbsR
 regutools
 RNAAgeCalc
+CNViz
