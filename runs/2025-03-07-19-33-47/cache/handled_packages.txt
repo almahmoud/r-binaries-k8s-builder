@@ -343,6 +343,7 @@ FitHiC
 FlowSOM
 FuseSOM
 GA4GHclient
+GA4GHshiny
 GARS
 GAprediction
 GBScleanR

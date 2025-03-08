@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2089 packages built successfully
+- 2090 packages built successfully
 - 0 packages failed to build
-- 144 packages not yet processed
+- 143 packages not yet processed
 
 
-## Successfully Built (2089)
+## Successfully Built (2090)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2101,8 +2101,9 @@
 | [ZygosityPredictor](https://bioconductor.org/packages/3.20/bioc/html/ZygosityPredictor.html)                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/ZygosityPredictor/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ZygosityPredictor)           |
 | [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/alabaster.vcf/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.vcf)               |
 | [biovizBase](https://bioconductor.org/packages/3.20/bioc/html/biovizBase.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/biovizBase/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biovizBase)                  |
+| [GA4GHshiny](https://bioconductor.org/packages/3.20/bioc/html/GA4GHshiny.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/GA4GHshiny/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GA4GHshiny)                  |
 
-## Not Yet Processed (144)
+## Not Yet Processed (143)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                           | Unprocessed |
@@ -2125,7 +2126,6 @@
 | [DuplexDiscovereR](https://bioconductor.org/packages/3.20/bioc/html/DuplexDiscovereR.html)                     | Unprocessed |
 | [ELMER](https://bioconductor.org/packages/3.20/bioc/html/ELMER.html)                                           | Unprocessed |
 | [FLAMES](https://bioconductor.org/packages/3.20/bioc/html/FLAMES.html)                                         | Unprocessed |
-| [GA4GHshiny](https://bioconductor.org/packages/3.20/bioc/html/GA4GHshiny.html)                                 | Unprocessed |
 | [GOstats](https://bioconductor.org/packages/3.20/bioc/html/GOstats.html)                                       | Unprocessed |
 | [GenVisR](https://bioconductor.org/packages/3.20/bioc/html/GenVisR.html)                                       | Unprocessed |
 | [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)                 | Unprocessed |
