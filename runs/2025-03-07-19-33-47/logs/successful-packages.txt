@@ -1228,3 +1228,11 @@ phyloseq
 rfaRm
 seqPattern
 Voyager
+celda
+GeoDiff
+QDNAseq
+rhinotypeR
+riboSeqR
+rprimer
+SICtools
+VplotR

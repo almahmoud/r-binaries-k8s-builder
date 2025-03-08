@@ -243,6 +243,7 @@ GenomicDistributions
 GenomicRanges
 GenomicSuperSignature
 GenomicTuples
+GeoDiff
 GeomxTools
 GladiaTOX
 GloScope
@@ -431,6 +432,7 @@ Pirat
 PoDCall
 PolySTest
 ProtGenerics
+QDNAseq
 QSutils
 QTLExperiment
 QUBIC
@@ -516,6 +518,7 @@ SCFA
 SCnorm
 SDAMS
 SELEX
+SICtools
 SIMAT
 SIMD
 SIMLR
@@ -600,6 +603,7 @@ VERSO
 VennDetail
 VisiumIO
 Voyager
+VplotR
 Wrench
 XINA
 XVector
@@ -680,6 +684,7 @@ ccfindR
 ccrepe
 ceRNAnetsim
 celaref
+celda
 cellbaseR
 cellmigRation
 cellscape
@@ -1075,11 +1080,14 @@ rgoslin
 rhdf5
 rhdf5client
 rhdf5filters
+rhinotypeR
+riboSeqR
 ribor
 rmelting
 rnaseqcomp
 roastgsa
 rols
+rprimer
 rpx
 rqubic
 rsbml
