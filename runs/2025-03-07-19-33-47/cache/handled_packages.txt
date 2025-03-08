@@ -26,6 +26,7 @@ ASSET
 ASSIGN
 ASURAT
 ATACseqQC
+ATACseqTFEA
 AUCell
 AWFisher
 AffiXcan
@@ -457,6 +458,7 @@ HybridMTest
 IFAA
 IHW
 ILoReg
+IMAS
 IMMAN
 IMPCdata
 INDEED
@@ -485,6 +487,7 @@ IntramiRExploreR
 IsoBayes
 IsoCorrectoR
 IsoCorrectoRGUI
+IsoformSwitchAnalyzeR
 KBoost
 KCsmart
 KEGGREST
@@ -1173,6 +1176,7 @@ cosmosR
 countsimQC
 covEB
 covRNA
+cpvSNP
 cqn
 crisprBase
 crisprBowtie
@@ -1263,6 +1267,7 @@ epiregulon.extra
 epistack
 epistasisGA
 epivizr
+epivizrChart
 epivizrData
 epivizrServer
 erccdashboard
@@ -1439,6 +1444,7 @@ ibh
 idiogram
 idpr
 idr2d
+igvR
 igvShiny
 illuminaio
 imcRtools
@@ -1897,6 +1903,7 @@ simona
 simpleSeg
 simplifyEnrichment
 sincell
+singscore
 sitadela
 sitePath
 sizepower

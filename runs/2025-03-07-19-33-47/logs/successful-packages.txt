@@ -2051,3 +2051,10 @@ arrayMvout
 MAGAR
 MAGeCKFlute
 slalom
+ATACseqTFEA
+cpvSNP
+epivizrChart
+igvR
+IMAS
+IsoformSwitchAnalyzeR
+singscore
