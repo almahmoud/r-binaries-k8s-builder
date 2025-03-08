@@ -130,6 +130,7 @@ CNORdt
 CNORfeeder
 CNORfuzzy
 CNORode
+CNTools
 CNVMetrics
 CNVPanelizer
 CNVRanger
@@ -210,6 +211,7 @@ DEGraph
 DEGreport
 DEGseq
 DELocal
+DEP
 DESeq2
 DESpace
 DEWSeq
@@ -235,6 +237,7 @@ DeMAND
 DeconRNASeq
 DeepPINCS
 DeepTarget
+DegCre
 DegNorm
 DelayedArray
 DelayedDataFrame
@@ -386,6 +389,7 @@ HiCExperiment
 HiCcompare
 HiContacts
 HiCool
+HiLDA
 HiTC
 HicAggR
 HilbertCurve
@@ -608,6 +612,7 @@ PhenStat
 PhenoGeneRanker
 PhosR
 PhyloProfile
+Pigengene
 Pirat
 PoDCall
 PolySTest
@@ -635,6 +640,7 @@ RCy3
 RCyjs
 RDRToolbox
 REBET
+REDseq
 RGSEA
 RGraph2js
 RIVER
@@ -694,6 +700,7 @@ Rfastp
 RgnTX
 Rgraphviz
 Rhdf5lib
+Rhisat2
 Rhtslib
 RiboDiPA
 Rmagpie
@@ -747,6 +754,7 @@ Scale4C
 ScaledMatrix
 Sconify
 ScreenR
+SemDist
 SeqArray
 SeqGate
 SeqSQC
@@ -993,6 +1001,7 @@ compSPOT
 compcodeR
 concordexR
 condiments
+consICA
 consensus
 consensusSeekeR
 convert
@@ -1139,6 +1148,7 @@ gDRcore
 gDRimport
 gDRstyle
 gDRutils
+gINTomics
 gaga
 gage
 garfield
@@ -1182,6 +1192,7 @@ ginmappeR
 girafe
 glmGamPoi
 globalSeq
+globaltest
 gmoviz
 goProfiles
 goSTAG
@@ -1377,6 +1388,7 @@ msmsEDA
 msmsTests
 msqrob2
 multiClust
+multiGSEA
 multiHiCcompare
 multiMiR
 multiWGCNA
@@ -1607,6 +1619,7 @@ scRepertoire
 scShapes
 scTHI
 scanMiR
+scanMiRApp
 scater
 scatterHatch
 sccomp
@@ -1772,6 +1785,7 @@ vidger
 viper
 vsclust
 vsn
+vulcan
 waddR
 wavClusteR
 weaver

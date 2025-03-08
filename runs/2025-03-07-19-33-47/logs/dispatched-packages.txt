@@ -1894,3 +1894,8 @@ spatialHeatmap
 sva
 tilingArray
 zinbwave
+BiSeq
+CircSeqAlignTk
+SIM
+cghMCR
+selectKSigs

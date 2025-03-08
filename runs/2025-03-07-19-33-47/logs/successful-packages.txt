@@ -1790,3 +1790,17 @@ goseq
 tRanslatome
 txcutr
 tximeta
+CNTools
+consICA
+DegCre
+DEP
+gINTomics
+globaltest
+HiLDA
+multiGSEA
+Pigengene
+REDseq
+Rhisat2
+scanMiRApp
+SemDist
+vulcan
