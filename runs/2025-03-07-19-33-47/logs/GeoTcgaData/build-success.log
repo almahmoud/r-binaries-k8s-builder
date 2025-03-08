@@ -1,0 +1,433 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'GeoTcgaData'
+also installing the dependencies ‘FDb.InfiniumMethylation.hg19’, ‘bsseq’, ‘methylumi’, ‘lumi’, ‘geneLenDataBase’, ‘IlluminaHumanMethylationEPICv2anno.20a1.hg38’, ‘IlluminaHumanMethylationEPICv2manifest’, ‘JADE’, ‘DMRcate’, ‘Illumina450ProbeVariants.db’, ‘IlluminaHumanMethylationEPICmanifest’, ‘IlluminaHumanMethylationEPICanno.ilm10b4.hg19’, ‘wateRmelon’, ‘goseq’, ‘missMethyl’, ‘kpmt’, ‘isva’, ‘TCGAbiolinksGUI.data’, ‘ChAMP’, ‘CATT’, ‘TCGAbiolinks’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/FDb.InfiniumMethylation.hg19_2.2.0.tar.gz'
+Content type 'application/x-gzip' length 38996322 bytes (37.2 MB)
+==================================================
+downloaded 37.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/bsseq_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 3019153 bytes (2.9 MB)
+==================================================
+downloaded 2.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/methylumi_2.52.0.tar.gz'
+Content type 'application/x-gzip' length 7698853 bytes (7.3 MB)
+==================================================
+downloaded 7.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/lumi_2.58.0.tar.gz'
+Content type 'application/x-gzip' length 8426674 bytes (8.0 MB)
+==================================================
+downloaded 8.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/geneLenDataBase_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 100440796 bytes (95.8 MB)
+==================================================
+downloaded 95.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/IlluminaHumanMethylationEPICv2anno.20a1.hg38_1.0.0.tar.gz'
+Content type 'application/x-gzip' length 156309587 bytes (149.1 MB)
+==================================================
+downloaded 149.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/IlluminaHumanMethylationEPICv2manifest_1.0.0.tar.gz'
+Content type 'application/x-gzip' length 18294048 bytes (17.4 MB)
+==================================================
+downloaded 17.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/JADE_2.0-4.tar.gz'
+Content type 'binary/octet-stream' length 2296313 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DMRcate_3.2.1.tar.gz'
+Content type 'application/x-gzip' length 838840 bytes (819 KB)
+==================================================
+downloaded 819 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/Illumina450ProbeVariants.db_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 6725614 bytes (6.4 MB)
+==================================================
+downloaded 6.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/IlluminaHumanMethylationEPICmanifest_0.3.0.tar.gz'
+Content type 'application/x-gzip' length 17449851 bytes (16.6 MB)
+==================================================
+downloaded 16.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/IlluminaHumanMethylationEPICanno.ilm10b4.hg19_0.6.0.tar.gz'
+Content type 'application/x-gzip' length 158431882 bytes (151.1 MB)
+==================================================
+downloaded 151.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/wateRmelon_2.12.0.tar.gz'
+Content type 'application/x-gzip' length 3494606 bytes (3.3 MB)
+==================================================
+downloaded 3.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/goseq_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 1932036 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/missMethyl_1.40.3.tar.gz'
+Content type 'application/x-gzip' length 1500646 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/kpmt_0.1.0.tar.gz'
+Content type 'binary/octet-stream' length 1183038 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/isva_1.9.tar.gz'
+Content type 'application/x-tar' length 298411 bytes (291 KB)
+==================================================
+downloaded 291 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/TCGAbiolinksGUI.data_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 22921625 bytes (21.9 MB)
+==================================================
+downloaded 21.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ChAMP_2.36.0.tar.gz'
+Content type 'application/x-gzip' length 8338924 bytes (8.0 MB)
+==================================================
+downloaded 8.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/CATT_2.0.tar.gz'
+Content type 'binary/octet-stream' length 10607 bytes (10 KB)
+==================================================
+downloaded 10 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/TCGAbiolinks_2.34.0.tar.gz'
+Content type 'application/x-gzip' length 65681510 bytes (62.6 MB)
+==================================================
+downloaded 62.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GeoTcgaData_2.6.0.tar.gz'
+Content type 'application/x-gzip' length 3482212 bytes (3.3 MB)
+==================================================
+downloaded 3.3 MB
+
+* installing *source* package ‘FDb.InfiniumMethylation.hg19’ ...
+** using staged installation
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘FDb.InfiniumMethylation.hg19’ as ‘FDb.InfiniumMethylation.hg19_2.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FDb.InfiniumMethylation.hg19)
+* installing *source* package ‘bsseq’ ...
+** package ‘bsseq’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c check_M_and_Cov.cpp -o check_M_and_Cov.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c init.cpp -o init.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c utils.cpp -o utils.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o bsseq.so check_M_and_Cov.o init.o utils.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-bsseq/00new/bsseq/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bsseq’ as ‘bsseq_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bsseq)
+* installing *source* package ‘geneLenDataBase’ ...
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘geneLenDataBase’ as ‘geneLenDataBase_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (geneLenDataBase)
+* installing *source* package ‘IlluminaHumanMethylationEPICv2anno.20a1.hg38’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+Error: package or namespace load failed for ‘bumphunter’ in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]):
+ there is no package called ‘rtracklayer’
+Error : package ‘bumphunter’ could not be loaded
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/IlluminaHumanMethylationEPICv2anno.20a1.hg38’
+* installing *source* package ‘IlluminaHumanMethylationEPICv2manifest’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘IlluminaHumanMethylationEPICv2manifest’ as ‘IlluminaHumanMethylationEPICv2manifest_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (IlluminaHumanMethylationEPICv2manifest)
+* installing *binary* package ‘JADE’ ...
+* ‘JADE’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘JADE’ as ‘JADE_2.0-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (JADE)
+* installing *source* package ‘Illumina450ProbeVariants.db’ ...
+** using staged installation
+** data
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Illumina450ProbeVariants.db’ as ‘Illumina450ProbeVariants.db_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Illumina450ProbeVariants.db)
+* installing *source* package ‘IlluminaHumanMethylationEPICmanifest’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘IlluminaHumanMethylationEPICmanifest’ as ‘IlluminaHumanMethylationEPICmanifest_0.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (IlluminaHumanMethylationEPICmanifest)
+* installing *source* package ‘IlluminaHumanMethylationEPICanno.ilm10b4.hg19’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘IlluminaHumanMethylationEPICanno.ilm10b4.hg19’ as ‘IlluminaHumanMethylationEPICanno.ilm10b4.hg19_0.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (IlluminaHumanMethylationEPICanno.ilm10b4.hg19)
+* installing *binary* package ‘kpmt’ ...
+* ‘kpmt’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘kpmt’ as ‘kpmt_0.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kpmt)
+* installing *source* package ‘TCGAbiolinksGUI.data’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TCGAbiolinksGUI.data’ as ‘TCGAbiolinksGUI.data_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TCGAbiolinksGUI.data)
+* installing *binary* package ‘CATT’ ...
+* ‘CATT’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘CATT’ as ‘CATT_2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CATT)
+* installing *source* package ‘GeoTcgaData’ ...
+** package ‘GeoTcgaData’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GeoTcgaData’ as ‘GeoTcgaData_2.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GeoTcgaData)
+* installing *source* package ‘methylumi’ ...
+** package ‘methylumi’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘methylumi’ as ‘methylumi_2.52.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (methylumi)
+* installing *source* package ‘goseq’ ...
+** package ‘goseq’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘goseq’ as ‘goseq_1.58.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (goseq)
+* installing *source* package ‘isva’ ...
+** package ‘isva’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘isva’ as ‘isva_1.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (isva)
+* installing *source* package ‘TCGAbiolinks’ ...
+** package ‘TCGAbiolinks’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TCGAbiolinks’ as ‘TCGAbiolinks_2.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TCGAbiolinks)
+* installing *source* package ‘lumi’ ...
+** package ‘lumi’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+No methods found in package ‘RSQLite’ for request: ‘dbListFields’ when loading ‘lumi’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+No methods found in package ‘RSQLite’ for request: ‘dbListFields’ when loading ‘lumi’
+** testing if installed package can be loaded from final location
+No methods found in package ‘RSQLite’ for request: ‘dbListFields’ when loading ‘lumi’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘lumi’ as ‘lumi_2.58.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lumi)
+ERROR: dependency ‘IlluminaHumanMethylationEPICv2anno.20a1.hg38’ is not available for package ‘missMethyl’
+* removing ‘/mnt/library/missMethyl’
+ERROR: dependency ‘missMethyl’ is not available for package ‘DMRcate’
+* removing ‘/mnt/library/DMRcate’
+* installing *source* package ‘wateRmelon’ ...
+** package ‘wateRmelon’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+No methods found in package ‘RSQLite’ for request: ‘dbListFields’ when loading ‘lumi’
+Creating a generic function from function ‘as.methylumi’ in package ‘wateRmelon’
+Creating a generic function from function ‘smokp’ in package ‘wateRmelon’
+Creating a generic function from function ‘adjustedDasen’ in package ‘wateRmelon’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+No methods found in package ‘RSQLite’ for request: ‘dbListFields’ when loading ‘lumi’
+** testing if installed package can be loaded from final location
+No methods found in package ‘RSQLite’ for request: ‘dbListFields’ when loading ‘lumi’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘wateRmelon’ as ‘wateRmelon_2.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (wateRmelon)
+ERROR: dependencies ‘DMRcate’, ‘missMethyl’ are not available for package ‘ChAMP’
+* removing ‘/mnt/library/ChAMP’
+
+The downloaded source packages are in
+	‘/tmp/RtmpaxcPpy/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘IlluminaHumanMethylationEPICv2anno.20a1.hg38’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘missMethyl’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘DMRcate’ had non-zero exit status
+4: In install.packages(...) :
+  installation of package ‘ChAMP’ had non-zero exit status
+
+real	32m29.351s
+user	23m13.738s
+sys	1m16.246s

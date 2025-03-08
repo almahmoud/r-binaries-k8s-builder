@@ -148,6 +148,7 @@ ComplexHeatmap
 CompoundDb
 ConsensusClusterPlus
 Cormotif
+CoverageView
 CuratedAtlasQueryR
 CytoDx
 CytoGLMM
@@ -168,8 +169,11 @@ DESpace
 DEWSeq
 DEqMS
 DEsingle
+DEsubs
 DFP
 DFplyr
+DMCFB
+DMCHMM
 DMRScan
 DMRcaller
 DNABarcodeCompatibility
@@ -206,11 +210,13 @@ EBarrays
 EBcoexpress
 EDIRquery
 EMDomics
+ERSSA
 EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
 EnrichedHeatmap
 EpiDISH
+ExCluster
 ExiMiR
 ExperimentSubset
 ExploreModelMatrix
@@ -273,8 +279,10 @@ GenomicRanges
 GenomicSuperSignature
 GenomicTuples
 GeoDiff
+GeoTcgaData
 GeomxTools
 GladiaTOX
+Glimma
 GloScope
 GrafGen
 GraphAT
@@ -299,6 +307,8 @@ HiCExperiment
 HiCcompare
 HiContacts
 HiCool
+HiTC
+HicAggR
 HilbertCurve
 HilbertVis
 HilbertVisGUI
@@ -321,6 +331,7 @@ ISoLDE
 ITALICS
 IWTomics
 Icens
+IdeoViz
 IgGeneUsage
 Informeasure
 InteractionSet
@@ -403,6 +414,7 @@ MicrobiotaProcess
 ModCon
 Modstrings
 MoleculeExperiment
+MotifDb
 MsBackendMassbank
 MsBackendMetaboLights
 MsBackendMgf
@@ -431,6 +443,7 @@ OCplus
 OLIN
 OLINgui
 OPWeight
+ORFhunteR
 OSAT
 OTUbase
 OVESEG
@@ -444,6 +457,7 @@ OrderedList
 Oscope
 PAIRADISE
 PANR
+PAST
 PCAN
 PCAtools
 PICS
@@ -553,6 +567,7 @@ SAIGEgds
 SANTA
 SBMLR
 SC3
+SCANVIS
 SCArray
 SCArray.sat
 SCBN
@@ -649,6 +664,7 @@ UNDO
 VAExprs
 VDJdive
 VERSO
+VanillaICE
 VariantExperiment
 VennDetail
 VisiumIO
@@ -791,6 +807,7 @@ cytomapper
 cytoviewer
 dStruct
 daMA
+dada2
 dcGSA
 dcanr
 ddCt
@@ -944,6 +961,7 @@ iClusterPlus
 iGC
 iPath
 iSEE
+iSEEfier
 iSEEhex
 iSEEindex
 iSEEpathways
@@ -1034,6 +1052,7 @@ microbiome
 microbiomeDASim
 microbiomeExplorer
 microbiomeMarker
+miloR
 mina
 minet
 mirTarRnaSeq
@@ -1055,6 +1074,7 @@ multiClust
 multiscan
 multtest
 mumosa
+muscat
 muscle
 mzID
 mzR
@@ -1213,6 +1233,7 @@ scDesign3
 scDiagnostics
 scDotPlot
 scFeatureFilter
+scGPS
 scHOT
 scMET
 scMerge
@@ -1309,6 +1330,7 @@ systemPipeR
 systemPipeShiny
 systemPipeTools
 tRNA
+tRNAdbImport
 tanggle
 target
 ternarynet
