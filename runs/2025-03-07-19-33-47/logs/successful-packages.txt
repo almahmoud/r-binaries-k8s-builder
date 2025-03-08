@@ -2136,3 +2136,5 @@ multicrispr
 OMICsPCA
 primirTSS
 R453Plus1Toolbox
+AllelicImbalance
+ffpe

@@ -31,6 +31,7 @@ AUCell
 AWFisher
 AffiXcan
 AffyRNADegradation
+AllelicImbalance
 AlphaBeta
 AlphaMissenseR
 AlpsNMR
@@ -1342,6 +1343,7 @@ fcScan
 fdrame
 fedup
 fenr
+ffpe
 fgga
 fgsea
 findIPs

@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2138 packages built successfully
+- 2140 packages built successfully
 - 0 packages failed to build
-- 95 packages not yet processed
+- 93 packages not yet processed
 
 
-## Successfully Built (2138)
+## Successfully Built (2140)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2150,13 +2150,14 @@
 | [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/iCheck/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iCheck)                      |
 | [multicrispr](https://bioconductor.org/packages/3.20/bioc/html/multicrispr.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/multicrispr/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multicrispr)                 |
 | [primirTSS](https://bioconductor.org/packages/3.20/bioc/html/primirTSS.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/primirTSS/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/primirTSS)                   |
+| [AllelicImbalance](https://bioconductor.org/packages/3.20/bioc/html/AllelicImbalance.html)                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/AllelicImbalance/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AllelicImbalance)            |
+| [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/ffpe/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ffpe)                        |
 
-## Not Yet Processed (95)
+## Not Yet Processed (93)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                 | Unprocessed |
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                     | Unprocessed |
-| [AllelicImbalance](https://bioconductor.org/packages/3.20/bioc/html/AllelicImbalance.html)           | Unprocessed |
 | [BOBaFIT](https://bioconductor.org/packages/3.20/bioc/html/BOBaFIT.html)                             | Unprocessed |
 | [CAFE](https://bioconductor.org/packages/3.20/bioc/html/CAFE.html)                                   | Unprocessed |
 | [CAGEfightR](https://bioconductor.org/packages/3.20/bioc/html/CAGEfightR.html)                       | Unprocessed |
@@ -2218,7 +2219,6 @@
 | [epiregulon](https://bioconductor.org/packages/3.20/bioc/html/epiregulon.html)                       | Unprocessed |
 | [escape](https://bioconductor.org/packages/3.20/bioc/html/escape.html)                               | Unprocessed |
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                       | Unprocessed |
-| [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                   | Unprocessed |
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                         | Unprocessed |
 | [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                         | Unprocessed |
 | [ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)                                 | Unprocessed |

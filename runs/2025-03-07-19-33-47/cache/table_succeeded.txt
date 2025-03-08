@@ -2136,3 +2136,5 @@
 ['[iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/iCheck/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iCheck)']
 ['[multicrispr](https://bioconductor.org/packages/3.20/bioc/html/multicrispr.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/multicrispr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multicrispr)']
 ['[primirTSS](https://bioconductor.org/packages/3.20/bioc/html/primirTSS.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/primirTSS/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/primirTSS)']
+['[AllelicImbalance](https://bioconductor.org/packages/3.20/bioc/html/AllelicImbalance.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/AllelicImbalance/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AllelicImbalance)']
+['[ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/ffpe/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ffpe)']
