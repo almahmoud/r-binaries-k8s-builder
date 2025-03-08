@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2107 packages built successfully
+- 2108 packages built successfully
 - 0 packages failed to build
-- 126 packages not yet processed
+- 125 packages not yet processed
 
 
-## Successfully Built (2107)
+## Successfully Built (2108)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2119,8 +2119,9 @@
 | [derfinder](https://bioconductor.org/packages/3.20/bioc/html/derfinder.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/derfinder/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/derfinder)                   |
 | [gwasurvivr](https://bioconductor.org/packages/3.20/bioc/html/gwasurvivr.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/gwasurvivr/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gwasurvivr)                  |
 | [missMethyl](https://bioconductor.org/packages/3.20/bioc/html/missMethyl.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/missMethyl/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/missMethyl)                  |
+| [transmogR](https://bioconductor.org/packages/3.20/bioc/html/transmogR.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/transmogR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/transmogR)                   |
 
-## Not Yet Processed (126)
+## Not Yet Processed (125)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                           | Unprocessed |
@@ -2245,7 +2246,6 @@
 | [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                                       | Unprocessed |
 | [tadar](https://bioconductor.org/packages/3.20/bioc/html/tadar.html)                                           | Unprocessed |
 | [trackViewer](https://bioconductor.org/packages/3.20/bioc/html/trackViewer.html)                               | Unprocessed |
-| [transmogR](https://bioconductor.org/packages/3.20/bioc/html/transmogR.html)                                   | Unprocessed |
 | [uncoverappLib](https://bioconductor.org/packages/3.20/bioc/html/uncoverappLib.html)                           | Unprocessed |
 | [vtpnet](https://bioconductor.org/packages/3.20/bioc/html/vtpnet.html)                                         | Unprocessed |
 | [wateRmelon](https://bioconductor.org/packages/3.20/bioc/html/wateRmelon.html)                                 | Unprocessed |

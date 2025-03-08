@@ -2052,6 +2052,7 @@ transcriptR
 transcriptogramer
 transformGamPoi
 transite
+transmogR
 transomics2cytoscape
 traseR
 treeclimbR
