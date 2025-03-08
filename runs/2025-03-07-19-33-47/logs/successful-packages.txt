@@ -1567,3 +1567,8 @@ kissDE
 multiMiR
 multiWGCNA
 phantasus
+ADAMgui
+CBEA
+ExperimentHub
+methylSig
+miRNAtap

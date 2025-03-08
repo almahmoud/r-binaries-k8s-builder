@@ -3,6 +3,7 @@ ABarray
 ACE
 ACME
 ADAM
+ADAMgui
 ADAPT
 ADImpute
 AIMS
@@ -99,6 +100,7 @@ BumpyMatrix
 CAEN
 CARNIVAL
 CATALYST
+CBEA
 CCPlotR
 CDI
 CFAssay
@@ -243,6 +245,7 @@ EnrichedHeatmap
 EpiDISH
 ExCluster
 ExiMiR
+ExperimentHub
 ExperimentSubset
 ExploreModelMatrix
 ExpressionAtlas
@@ -1170,12 +1173,14 @@ methyLImp2
 methylInheritance
 methylKit
 methylMnM
+methylSig
 methylscaper
 mfa
 mgsa
 miQC
 miRBaseConverter
 miRNApath
+miRNAtap
 miRcomp
 mia
 miaSim

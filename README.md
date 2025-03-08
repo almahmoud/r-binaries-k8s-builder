@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1569 packages built successfully
+- 1574 packages built successfully
 - 0 packages failed to build
-- 664 packages not yet processed
+- 659 packages not yet processed
 
 
-## Successfully Built (1569)
+## Successfully Built (1574)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1581,11 +1581,15 @@
 | [multiMiR](https://bioconductor.org/packages/3.20/bioc/html/multiMiR.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/multiMiR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multiMiR)                   |
 | [multiWGCNA](https://bioconductor.org/packages/3.20/bioc/html/multiWGCNA.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/multiWGCNA/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multiWGCNA)                 |
 | [phantasus](https://bioconductor.org/packages/3.20/bioc/html/phantasus.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/phantasus/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/phantasus)                  |
+| [ADAMgui](https://bioconductor.org/packages/3.20/bioc/html/ADAMgui.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/ADAMgui/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ADAMgui)                    |
+| [CBEA](https://bioconductor.org/packages/3.20/bioc/html/CBEA.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/CBEA/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CBEA)                       |
+| [ExperimentHub](https://bioconductor.org/packages/3.20/bioc/html/ExperimentHub.html)                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/ExperimentHub/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ExperimentHub)              |
+| [methylSig](https://bioconductor.org/packages/3.20/bioc/html/methylSig.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/methylSig/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methylSig)                  |
+| [miRNAtap](https://bioconductor.org/packages/3.20/bioc/html/miRNAtap.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/miRNAtap/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miRNAtap)                   |
 
-## Not Yet Processed (664)
+## Not Yet Processed (659)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
-| [ADAMgui](https://bioconductor.org/packages/3.20/bioc/html/ADAMgui.html)                                         | Unprocessed |
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
 | [AGDEX](https://bioconductor.org/packages/3.20/bioc/html/AGDEX.html)                                             | Unprocessed |
 | [AHMassBank](https://bioconductor.org/packages/3.20/bioc/html/AHMassBank.html)                                   | Unprocessed |
@@ -1622,7 +1626,6 @@
 | [CAGEfightR](https://bioconductor.org/packages/3.20/bioc/html/CAGEfightR.html)                                   | Unprocessed |
 | [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)                                             | Unprocessed |
 | [CAMERA](https://bioconductor.org/packages/3.20/bioc/html/CAMERA.html)                                           | Unprocessed |
-| [CBEA](https://bioconductor.org/packages/3.20/bioc/html/CBEA.html)                                               | Unprocessed |
 | [CBNplot](https://bioconductor.org/packages/3.20/bioc/html/CBNplot.html)                                         | Unprocessed |
 | [CCPROMISE](https://bioconductor.org/packages/3.20/bioc/html/CCPROMISE.html)                                     | Unprocessed |
 | [CEMiTool](https://bioconductor.org/packages/3.20/bioc/html/CEMiTool.html)                                       | Unprocessed |
@@ -1684,7 +1687,6 @@
 | [EpiTxDb](https://bioconductor.org/packages/3.20/bioc/html/EpiTxDb.html)                                         | Unprocessed |
 | [EpipwR](https://bioconductor.org/packages/3.20/bioc/html/EpipwR.html)                                           | Unprocessed |
 | [EventPointer](https://bioconductor.org/packages/3.20/bioc/html/EventPointer.html)                               | Unprocessed |
-| [ExperimentHub](https://bioconductor.org/packages/3.20/bioc/html/ExperimentHub.html)                             | Unprocessed |
 | [ExperimentHubData](https://bioconductor.org/packages/3.20/bioc/html/ExperimentHubData.html)                     | Unprocessed |
 | [FLAMES](https://bioconductor.org/packages/3.20/bioc/html/FLAMES.html)                                           | Unprocessed |
 | [FRASER](https://bioconductor.org/packages/3.20/bioc/html/FRASER.html)                                           | Unprocessed |
@@ -2092,12 +2094,10 @@
 | [methylCC](https://bioconductor.org/packages/3.20/bioc/html/methylCC.html)                                       | Unprocessed |
 | [methylGSA](https://bioconductor.org/packages/3.20/bioc/html/methylGSA.html)                                     | Unprocessed |
 | [methylPipe](https://bioconductor.org/packages/3.20/bioc/html/methylPipe.html)                                   | Unprocessed |
-| [methylSig](https://bioconductor.org/packages/3.20/bioc/html/methylSig.html)                                     | Unprocessed |
 | [methylclock](https://bioconductor.org/packages/3.20/bioc/html/methylclock.html)                                 | Unprocessed |
 | [methylumi](https://bioconductor.org/packages/3.20/bioc/html/methylumi.html)                                     | Unprocessed |
 | [miRLAB](https://bioconductor.org/packages/3.20/bioc/html/miRLAB.html)                                           | Unprocessed |
 | [miRNAmeConverter](https://bioconductor.org/packages/3.20/bioc/html/miRNAmeConverter.html)                       | Unprocessed |
-| [miRNAtap](https://bioconductor.org/packages/3.20/bioc/html/miRNAtap.html)                                       | Unprocessed |
 | [miRSM](https://bioconductor.org/packages/3.20/bioc/html/miRSM.html)                                             | Unprocessed |
 | [miRspongeR](https://bioconductor.org/packages/3.20/bioc/html/miRspongeR.html)                                   | Unprocessed |
 | [minfi](https://bioconductor.org/packages/3.20/bioc/html/minfi.html)                                             | Unprocessed |
