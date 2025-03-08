@@ -1858,3 +1858,6 @@ Rhisat2
 dce
 multiGSEA
 sSNAPPY
+GenomicPlot
+MOSClip
+clipper

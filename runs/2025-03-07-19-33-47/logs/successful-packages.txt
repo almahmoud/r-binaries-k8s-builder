@@ -1749,3 +1749,12 @@ miRNAmeConverter
 MODA
 SARC
 SGSeq
+DegNorm
+goSorensen
+idiogram
+PrInCE
+qpgraph
+RCAS
+RgnTX
+tigre
+transcriptogramer

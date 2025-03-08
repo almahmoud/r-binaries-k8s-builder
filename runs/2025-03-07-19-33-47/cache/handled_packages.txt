@@ -231,6 +231,7 @@ DeMAND
 DeconRNASeq
 DeepPINCS
 DeepTarget
+DegNorm
 DelayedArray
 DelayedDataFrame
 DelayedMatrixStats
@@ -597,6 +598,7 @@ PhyloProfile
 Pirat
 PoDCall
 PolySTest
+PrInCE
 ProtGenerics
 QDNAseq
 QFeatures
@@ -611,6 +613,7 @@ RBGL
 RBM
 RBioFormats
 RBioinf
+RCAS
 RCASPAR
 RCM
 RCSL
@@ -674,6 +677,7 @@ RegionalST
 Repitools
 ResidualMatrix
 Rfastp
+RgnTX
 Rgraphviz
 Rhdf5lib
 Rhtslib
@@ -1159,6 +1163,7 @@ globalSeq
 gmoviz
 goProfiles
 goSTAG
+goSorensen
 goTools
 gpls
 gpuMagic
@@ -1212,6 +1217,7 @@ iSEEu
 iSeq
 iasva
 ibh
+idiogram
 idpr
 idr2d
 igvShiny
@@ -1474,6 +1480,7 @@ qckitfastq
 qcmetrics
 qmtools
 qpcrNorm
+qpgraph
 qsea
 quantiseqr
 quantsmooth
@@ -1689,6 +1696,7 @@ tidybulk
 tidyomics
 tidysbml
 tidytof
+tigre
 timeOmics
 timecourse
 timescape
@@ -1702,6 +1710,7 @@ tpSVG
 tracktables
 tradeSeq
 transcriptR
+transcriptogramer
 transformGamPoi
 transite
 transomics2cytoscape
