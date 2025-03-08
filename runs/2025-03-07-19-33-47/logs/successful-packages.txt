@@ -2106,3 +2106,11 @@ gwasurvivr
 HelloRanges
 missMethyl
 transmogR
+alabaster
+BubbleTree
+ChIPexoQual
+circRNAprofiler
+GenVisR
+karyoploteR
+Rqc
+SingleMoleculeFootprinting

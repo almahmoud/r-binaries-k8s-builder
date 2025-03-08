@@ -2148,3 +2148,5 @@ OMICsPCA
 methylGSA
 recount
 regionReport
+CopyNumberPlots
+multicrispr

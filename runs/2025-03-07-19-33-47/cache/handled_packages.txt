@@ -121,6 +121,7 @@ Biostrings
 BloodGen3Module
 BridgeDbR
 BrowserViz
+BubbleTree
 BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
@@ -194,6 +195,7 @@ ChIPComp
 ChIPQC
 ChIPXpress
 ChIPanalyser
+ChIPexoQual
 ChIPpeakAnno
 ChIPseeker
 ChIPseqR
@@ -393,6 +395,7 @@ GWENA
 GateFinder
 GeDi
 GenProSeq
+GenVisR
 GeneBreak
 GeneExpressionSignature
 GeneGA
@@ -833,6 +836,7 @@ Rmmquant
 RnBeads
 Rnits
 RolDE
+Rqc
 Rsamtools
 Rsubread
 Rtpca
@@ -906,6 +910,7 @@ SimFFPE
 SingleCellAlleleExperiment
 SingleCellExperiment
 SingleCellSignalR
+SingleMoleculeFootprinting
 SingleR
 SpaNorm
 SpaceMarkers
@@ -1033,6 +1038,7 @@ affylmGUI
 aggregateBioVar
 agilp
 airpart
+alabaster
 alabaster.base
 alabaster.bumpy
 alabaster.files
@@ -1158,6 +1164,7 @@ chopsticks
 chromDraw
 chromPlot
 chromstaR
+circRNAprofiler
 cisPath
 cleanUpdTSeq
 cleaver
@@ -1502,6 +1509,7 @@ isomiRs
 iterativeBMA
 iterativeBMAsurv
 ivygapSE
+karyoploteR
 katdetectr
 kebabs
 keggorthology
