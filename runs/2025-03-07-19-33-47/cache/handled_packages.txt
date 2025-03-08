@@ -449,6 +449,7 @@ Mulcom
 MultiAssayExperiment
 MultiDataSet
 MultiMed
+MultiRNAflow
 NCIgraph
 NOISeq
 NPARC
@@ -820,6 +821,7 @@ clusterSeq
 clusterStab
 clustifyr
 cmapR
+cn.farms
 cn.mops
 cnvGSA
 coGPS
@@ -1127,6 +1129,7 @@ mimager
 mina
 minet
 mirTarRnaSeq
+missRows
 mistyR
 mitch
 mixOmics
@@ -1159,6 +1162,7 @@ nethet
 netprioR
 netresponse
 ngsReports
+nipalsMCIA
 nnNorm
 nnSVG
 normalize450K
@@ -1173,6 +1177,7 @@ oligo
 oligoClasses
 omada
 omicplotR
+omicsPrint
 omicsViewer
 ompBAM
 oncomix
@@ -1445,6 +1450,7 @@ tomoseqr
 topconfects
 tpSVG
 tracktables
+tradeSeq
 transformGamPoi
 transite
 transomics2cytoscape
@@ -1470,6 +1476,7 @@ velociraptor
 veloviz
 vidger
 viper
+vsclust
 vsn
 waddR
 weaver
@@ -1478,6 +1485,7 @@ widgetTools
 wiggleplotr
 wpm
 wppi
+xcore
 xenLite
 xmapbridge
 yamss

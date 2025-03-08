@@ -1485,3 +1485,11 @@ padma
 structToolbox
 survClust
 tidyomics
+cn.farms
+missRows
+MultiRNAflow
+nipalsMCIA
+omicsPrint
+tradeSeq
+vsclust
+xcore
