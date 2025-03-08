@@ -948,6 +948,7 @@ ceRNAnetsim
 celaref
 celda
 cellbaseR
+cellity
 cellmigRation
 cellscape
 cellxgenedp
@@ -983,6 +984,7 @@ cnvGSA
 coGPS
 coMethDMR
 coRdon
+codelink
 cogena
 cogeqc
 cola
@@ -1154,7 +1156,9 @@ geneClassifiers
 geneRecommender
 geneRxCluster
 geneXtendeR
+genefilter
 geneplast
+geneplotter
 genoCN
 genomation
 genomeIntervals
@@ -1183,6 +1187,7 @@ goProfiles
 goSTAG
 goSorensen
 goTools
+goseq
 gpls
 gpuMagic
 granulator
@@ -1706,6 +1711,7 @@ systemPipeTools
 tRNA
 tRNAdbImport
 tRNAscanImport
+tRanslatome
 tanggle
 target
 tenXplore
@@ -1750,7 +1756,9 @@ ttgsea
 tweeDEseq
 twilight
 twoddpcr
+txcutr
 txdbmaker
+tximeta
 tximport
 uSORT
 unifiedWMWqPCR

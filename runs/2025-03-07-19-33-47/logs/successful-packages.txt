@@ -1782,3 +1782,11 @@ MetaboSignal
 MIRit
 MOSClip
 UMI4Cats
+cellity
+codelink
+genefilter
+geneplotter
+goseq
+tRanslatome
+txcutr
+tximeta
