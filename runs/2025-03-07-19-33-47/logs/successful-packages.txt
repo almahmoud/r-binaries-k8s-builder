@@ -2002,3 +2002,9 @@ GSEABenchmarkeR
 GSRI
 OrganismDbi
 RcisTarget
+BadRegionFinder
+decompTumor2Sig
+POMA
+proActiv
+scoreInvHap
+tLOH

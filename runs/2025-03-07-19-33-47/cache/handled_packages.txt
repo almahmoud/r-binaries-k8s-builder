@@ -69,6 +69,7 @@ BUScorrect
 BUSpaRse
 BUSseq
 BaalChIP
+BadRegionFinder
 Banksy
 BaseSpaceR
 Basic4Cseq
@@ -667,6 +668,7 @@ PIPETS
 PIUMA
 PLPE
 PLSDAbatch
+POMA
 POWSC
 PPInfer
 PREDA
@@ -1177,6 +1179,7 @@ ddCt
 ddPCRclust
 dearseq
 debCAM
+decompTumor2Sig
 decontX
 decontam
 deconvR
@@ -1669,6 +1672,7 @@ pram
 prebs
 preciseTAD
 preprocessCore
+proActiv
 proBAMr
 proDA
 procoil
@@ -1811,6 +1815,7 @@ scifer
 scmap
 scmeth
 scone
+scoreInvHap
 scoup
 scp
 scran
@@ -1914,6 +1919,7 @@ syntenet
 systemPipeR
 systemPipeShiny
 systemPipeTools
+tLOH
 tRNA
 tRNAdbImport
 tRNAscanImport
