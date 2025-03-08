@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2232 packages built successfully
+- 2233 packages built successfully
 - 0 packages failed to build
-- 1 packages not yet processed
+- 0 packages not yet processed
 
 
-## Successfully Built (2232)
+## Successfully Built (2233)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2244,8 +2244,4 @@
 | [RNAmodR.RiboMethSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.RiboMethSeq.html)                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/RNAmodR.RiboMethSeq/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RNAmodR.RiboMethSeq)         |
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/extraChIPs/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/extraChIPs)                  |
 | [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/spatzie/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spatzie)                     |
-
-## Not Yet Processed (1)
-| Package                                                              | Status      |
-|----------------------------------------------------------------------|-------------|
-| [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html) | Unprocessed |
+| [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/CAGEr/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CAGEr)                       |
