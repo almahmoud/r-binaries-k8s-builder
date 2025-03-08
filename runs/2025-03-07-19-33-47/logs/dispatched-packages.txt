@@ -1758,3 +1758,5 @@ rnaEditr
 BLMA
 RTCGAToolbox
 terraTCGAdata
+ginmappeR
+immunogenViewer

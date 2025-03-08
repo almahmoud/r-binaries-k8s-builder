@@ -49,6 +49,7 @@ BCRANK
 BEAT
 BEclear
 BG2
+BLMA
 BPRMeth
 BRAIN
 BREW3R.r
@@ -146,6 +147,7 @@ Cardinal
 CardinalIO
 CatsCradle
 CausalR
+CeTF
 CellBarcode
 CellBench
 CellMapper
@@ -485,6 +487,7 @@ MetMashR
 MetNet
 MetaCyto
 MetaNeighbor
+MetaPhOR
 MetaboAnnotation
 MetaboCoreUtils
 MethPed
@@ -494,6 +497,7 @@ Mfuzz
 MiChip
 MiPP
 MiRaGE
+MicrobiomeProfiler
 MicrobiotaProcess
 MinimumDistance
 ModCon
@@ -787,6 +791,7 @@ TurboNorm
 UCSC.utils
 UCell
 UNDO
+UniProt.ws
 VAExprs
 VDJdive
 VERSO
@@ -1214,6 +1219,7 @@ maPredictDSC
 maSigPro
 made4
 maftools
+magpie
 magrene
 makecdfenv
 mapscape
@@ -1466,6 +1472,7 @@ rifi
 rifiComparative
 rmelting
 rmspc
+rnaEditr
 rnaseqcomp
 roar
 roastgsa
@@ -1615,6 +1622,7 @@ tanggle
 target
 tenXplore
 ternarynet
+terraTCGAdata
 tidyCoverage
 tidyFlowCore
 tidySingleCellExperiment

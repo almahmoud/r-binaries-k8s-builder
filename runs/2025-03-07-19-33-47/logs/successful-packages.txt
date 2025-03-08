@@ -1680,3 +1680,11 @@ mirIntegrator
 MsDataHub
 MSnID
 NanoMethViz
+BLMA
+CeTF
+magpie
+MetaPhOR
+MicrobiomeProfiler
+rnaEditr
+terraTCGAdata
+UniProt.ws
