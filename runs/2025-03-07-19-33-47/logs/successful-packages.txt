@@ -2085,3 +2085,5 @@ RareVariantVis
 RESOLVE
 TitanCNA
 ZygosityPredictor
+alabaster.vcf
+biovizBase

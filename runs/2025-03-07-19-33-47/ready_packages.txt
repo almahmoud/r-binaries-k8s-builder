@@ -1,0 +1,7 @@
+BubbleTree
+ChIPexoQual
+Gviz
+Rqc
+alabaster
+ggbio
+karyoploteR

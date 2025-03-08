@@ -2133,3 +2133,10 @@ erma
 gDNAx
 svaNUMT
 svaRetro
+BubbleTree
+ChIPexoQual
+Gviz
+Rqc
+alabaster
+ggbio
+karyoploteR

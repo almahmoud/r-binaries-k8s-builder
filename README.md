@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2087 packages built successfully
+- 2089 packages built successfully
 - 0 packages failed to build
-- 146 packages not yet processed
+- 144 packages not yet processed
 
 
-## Successfully Built (2087)
+## Successfully Built (2089)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2099,8 +2099,10 @@
 | [RareVariantVis](https://bioconductor.org/packages/3.20/bioc/html/RareVariantVis.html)                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/RareVariantVis/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RareVariantVis)              |
 | [TitanCNA](https://bioconductor.org/packages/3.20/bioc/html/TitanCNA.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/TitanCNA/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TitanCNA)                    |
 | [ZygosityPredictor](https://bioconductor.org/packages/3.20/bioc/html/ZygosityPredictor.html)                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/ZygosityPredictor/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ZygosityPredictor)           |
+| [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/alabaster.vcf/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.vcf)               |
+| [biovizBase](https://bioconductor.org/packages/3.20/bioc/html/biovizBase.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/biovizBase/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biovizBase)                  |
 
-## Not Yet Processed (146)
+## Not Yet Processed (144)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                           | Unprocessed |
@@ -2168,11 +2170,9 @@
 | [YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)                                           | Unprocessed |
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                           | Unprocessed |
 | [alabaster](https://bioconductor.org/packages/3.20/bioc/html/alabaster.html)                                   | Unprocessed |
-| [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                           | Unprocessed |
 | [attract](https://bioconductor.org/packages/3.20/bioc/html/attract.html)                                       | Unprocessed |
 | [bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)                                     | Unprocessed |
 | [biomvRCNS](https://bioconductor.org/packages/3.20/bioc/html/biomvRCNS.html)                                   | Unprocessed |
-| [biovizBase](https://bioconductor.org/packages/3.20/bioc/html/biovizBase.html)                                 | Unprocessed |
 | [cageminer](https://bioconductor.org/packages/3.20/bioc/html/cageminer.html)                                   | Unprocessed |
 | [categoryCompare](https://bioconductor.org/packages/3.20/bioc/html/categoryCompare.html)                       | Unprocessed |
 | [chimeraviz](https://bioconductor.org/packages/3.20/bioc/html/chimeraviz.html)                                 | Unprocessed |

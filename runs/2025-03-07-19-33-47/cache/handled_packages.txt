@@ -1038,6 +1038,7 @@ alabaster.schemas
 alabaster.se
 alabaster.spatial
 alabaster.string
+alabaster.vcf
 alevinQC
 altcdfenvs
 amplican
@@ -1103,6 +1104,7 @@ biomaRt
 biomformat
 biosigner
 biotmle
+biovizBase
 biscuiteer
 blacksheepr
 blima
