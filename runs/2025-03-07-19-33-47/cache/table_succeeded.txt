@@ -2181,3 +2181,5 @@
 ['[MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/MEAT/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MEAT)']
 ['[MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/MineICA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MineICA)']
 ['[YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/YAPSA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/YAPSA)']
+['[enhancerHomologSearch](https://bioconductor.org/packages/3.20/bioc/html/enhancerHomologSearch.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/enhancerHomologSearch/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/enhancerHomologSearch)']
+['[scFeatures](https://bioconductor.org/packages/3.20/bioc/html/scFeatures.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/scFeatures/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scFeatures)']

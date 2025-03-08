@@ -1333,6 +1333,7 @@ edgeR
 eds
 eiR
 eisaR
+enhancerHomologSearch
 enrichViewNet
 enrichplot
 ensembldb
@@ -1945,6 +1946,7 @@ scDesign3
 scDiagnostics
 scDotPlot
 scFeatureFilter
+scFeatures
 scGPS
 scHOT
 scMET

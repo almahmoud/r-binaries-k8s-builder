@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2183 packages built successfully
+- 2185 packages built successfully
 - 0 packages failed to build
-- 50 packages not yet processed
+- 48 packages not yet processed
 
 
-## Successfully Built (2183)
+## Successfully Built (2185)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2195,8 +2195,10 @@
 | [MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)                                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/MEAT/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MEAT)                        |
 | [MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/MineICA/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MineICA)                     |
 | [YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/YAPSA/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/YAPSA)                       |
+| [enhancerHomologSearch](https://bioconductor.org/packages/3.20/bioc/html/enhancerHomologSearch.html)             | Built    | [Log](runs/2025-03-07-19-33-47/logs/enhancerHomologSearch/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/enhancerHomologSearch)       |
+| [scFeatures](https://bioconductor.org/packages/3.20/bioc/html/scFeatures.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/scFeatures/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scFeatures)                  |
 
-## Not Yet Processed (50)
+## Not Yet Processed (48)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                     | Unprocessed |
@@ -2230,7 +2232,6 @@
 | [cicero](https://bioconductor.org/packages/3.20/bioc/html/cicero.html)                               | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                               | Unprocessed |
 | [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                       | Unprocessed |
-| [enhancerHomologSearch](https://bioconductor.org/packages/3.20/bioc/html/enhancerHomologSearch.html) | Unprocessed |
 | [epimutacions](https://bioconductor.org/packages/3.20/bioc/html/epimutacions.html)                   | Unprocessed |
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                       | Unprocessed |
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                         | Unprocessed |
@@ -2244,7 +2245,6 @@
 | [psichomics](https://bioconductor.org/packages/3.20/bioc/html/psichomics.html)                       | Unprocessed |
 | [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)     | Unprocessed |
 | [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                 | Unprocessed |
-| [scFeatures](https://bioconductor.org/packages/3.20/bioc/html/scFeatures.html)                       | Unprocessed |
 | [scTensor](https://bioconductor.org/packages/3.20/bioc/html/scTensor.html)                           | Unprocessed |
 | [singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)                   | Unprocessed |
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                 | Unprocessed |
