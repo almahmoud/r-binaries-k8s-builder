@@ -27,6 +27,7 @@ BiRewire
 BioCartaImage
 BiocBaseUtils
 BiocFileCache
+BiocGenerics
 BiocNeighbors
 BiocParallel
 BiocStyle
@@ -414,6 +415,7 @@ plasmut
 plotGrouper
 pmm
 powerTCR
+ppcseq
 preprocessCore
 proteinProfiles
 qckitfastq

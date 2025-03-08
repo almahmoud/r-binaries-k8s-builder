@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 492 packages built successfully
+- 494 packages built successfully
 - 0 packages failed to build
-- 1741 packages not yet processed
+- 1739 packages not yet processed
 
 
-## Successfully Built (492)
+## Successfully Built (494)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -504,8 +504,10 @@
 | [SIMD](https://bioconductor.org/packages/3.20/bioc/html/SIMD.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/SIMD/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SIMD)                    |
 | [arrayQuality](https://bioconductor.org/packages/3.20/bioc/html/arrayQuality.html)                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/arrayQuality/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/arrayQuality)            |
 | [compcodeR](https://bioconductor.org/packages/3.20/bioc/html/compcodeR.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/compcodeR/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/compcodeR)               |
+| [BiocGenerics](https://bioconductor.org/packages/3.20/bioc/html/BiocGenerics.html)                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/BiocGenerics/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BiocGenerics)            |
+| [ppcseq](https://bioconductor.org/packages/3.20/bioc/html/ppcseq.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/ppcseq/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ppcseq)                  |
 
-## Not Yet Processed (1741)
+## Not Yet Processed (1739)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ABarray](https://bioconductor.org/packages/3.20/bioc/html/ABarray.html)                                         | Unprocessed |
@@ -590,7 +592,6 @@
 | [BiocBook](https://bioconductor.org/packages/3.20/bioc/html/BiocBook.html)                                       | Unprocessed |
 | [BiocCheck](https://bioconductor.org/packages/3.20/bioc/html/BiocCheck.html)                                     | Unprocessed |
 | [BiocFHIR](https://bioconductor.org/packages/3.20/bioc/html/BiocFHIR.html)                                       | Unprocessed |
-| [BiocGenerics](https://bioconductor.org/packages/3.20/bioc/html/BiocGenerics.html)                               | Unprocessed |
 | [BiocHubsShiny](https://bioconductor.org/packages/3.20/bioc/html/BiocHubsShiny.html)                             | Unprocessed |
 | [BiocIO](https://bioconductor.org/packages/3.20/bioc/html/BiocIO.html)                                           | Unprocessed |
 | [BiocPkgTools](https://bioconductor.org/packages/3.20/bioc/html/BiocPkgTools.html)                               | Unprocessed |
@@ -1955,7 +1956,6 @@
 | [pmp](https://bioconductor.org/packages/3.20/bioc/html/pmp.html)                                                 | Unprocessed |
 | [podkat](https://bioconductor.org/packages/3.20/bioc/html/podkat.html)                                           | Unprocessed |
 | [pogos](https://bioconductor.org/packages/3.20/bioc/html/pogos.html)                                             | Unprocessed |
-| [ppcseq](https://bioconductor.org/packages/3.20/bioc/html/ppcseq.html)                                           | Unprocessed |
 | [pqsfinder](https://bioconductor.org/packages/3.20/bioc/html/pqsfinder.html)                                     | Unprocessed |
 | [pram](https://bioconductor.org/packages/3.20/bioc/html/pram.html)                                               | Unprocessed |
 | [prebs](https://bioconductor.org/packages/3.20/bioc/html/prebs.html)                                             | Unprocessed |

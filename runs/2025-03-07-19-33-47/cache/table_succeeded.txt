@@ -490,3 +490,5 @@
 ['[SIMD](https://bioconductor.org/packages/3.20/bioc/html/SIMD.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/SIMD/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SIMD)']
 ['[arrayQuality](https://bioconductor.org/packages/3.20/bioc/html/arrayQuality.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/arrayQuality/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/arrayQuality)']
 ['[compcodeR](https://bioconductor.org/packages/3.20/bioc/html/compcodeR.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/compcodeR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/compcodeR)']
+['[BiocGenerics](https://bioconductor.org/packages/3.20/bioc/html/BiocGenerics.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/BiocGenerics/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BiocGenerics)']
+['[ppcseq](https://bioconductor.org/packages/3.20/bioc/html/ppcseq.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/ppcseq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ppcseq)']
