@@ -291,6 +291,7 @@ EnrichDO
 EnrichedHeatmap
 EpiCompare
 EpiDISH
+EpiMix
 EpiTxDb
 EpipwR
 EventPointer
@@ -1038,6 +1039,7 @@ chipenrich
 chipseq
 chopsticks
 chromDraw
+chromPlot
 chromstaR
 cisPath
 cleanUpdTSeq
@@ -1285,6 +1287,7 @@ graph
 graphite
 groHMM
 gscreend
+gsean
 gtrellis
 gypsum
 h5vc
@@ -1488,6 +1491,7 @@ ncdfFlow
 ndexr
 nearBynding
 nempi
+netSmooth
 netboost
 nethet
 netprioR

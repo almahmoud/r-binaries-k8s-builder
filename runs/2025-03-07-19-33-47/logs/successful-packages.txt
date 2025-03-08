@@ -1902,3 +1902,7 @@ pairedGSEA
 SeqGSEA
 SPONGE
 VegaMC
+chromPlot
+EpiMix
+gsean
+netSmooth
