@@ -235,6 +235,7 @@ GeneSelectMMD
 GeneticsPed
 GenomAutomorphism
 GenomeInfoDb
+GenomicAlignments
 GenomicDataCommons
 GenomicDistributions
 GenomicRanges
@@ -321,6 +322,7 @@ MBAmethyl
 MBCB
 MBQN
 MBttest
+MEDME
 MEIGOR
 MICSQTL
 MMUPHin
@@ -430,6 +432,7 @@ QTLExperiment
 QUBIC
 Qtlizer
 QuaternaryProd
+R4RNA
 RAREsim
 RBGL
 RBM
@@ -859,6 +862,7 @@ iClusterPlus
 iGC
 iPath
 iSEE
+iSEEhex
 iSEEpathways
 iSeq
 iasva
@@ -883,6 +887,7 @@ kebabs
 koinar
 lapmix
 ldblock
+lemur
 les
 levi
 lfa
@@ -1085,6 +1090,7 @@ scDotPlot
 scFeatureFilter
 scHOT
 scMET
+scMerge
 scMitoMut
 scMultiSim
 scPCA
@@ -1200,6 +1206,7 @@ universalmotif
 updateObject
 variancePartition
 vbmp
+velociraptor
 veloviz
 viper
 vsn

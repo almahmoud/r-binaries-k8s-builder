@@ -1211,3 +1211,10 @@ lute
 MOSim
 SpatialFeatureExperiment
 transformGamPoi
+GenomicAlignments
+iSEEhex
+lemur
+MEDME
+R4RNA
+scMerge
+velociraptor

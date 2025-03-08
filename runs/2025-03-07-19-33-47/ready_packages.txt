@@ -1,2 +1,14 @@
-BASiCStan
-Voyager
+AneuFinder
+BaalChIP
+BasicSTARRseq
+MDTS
+PICS
+ShortRead
+TCseq
+VplotR
+breakpointR
+chromstaR
+ggmsa
+iSEEu
+mosaics
+rtracklayer

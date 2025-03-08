@@ -1,0 +1,68 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'MEDME'
+also installing the dependency ‘BSgenome.Mmusculus.UCSC.mm9’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm9_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 621955864 bytes (593.1 MB)
+==================================================
+downloaded 593.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MEDME_1.66.0.tar.gz'
+Content type 'application/x-gzip' length 459761 bytes (448 KB)
+==================================================
+downloaded 448 KB
+
+* installing *source* package ‘BSgenome.Mmusculus.UCSC.mm9’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package or namespace load failed for ‘rtracklayer’ in find.package(package, lib.loc, verbose = verbose):
+ there is no package called ‘GenomicAlignments’
+In addition: Warning message:
+S3 methods ‘as.data.frame.OverlapEncodings’, ‘levels.OverlapEncodings’ were declared in NAMESPACE but not found 
+Execution halted
+ERROR: lazy loading failed for package ‘BSgenome.Mmusculus.UCSC.mm9’
+* removing ‘/mnt/library/BSgenome.Mmusculus.UCSC.mm9’
+* installing *source* package ‘MEDME’ ...
+** package ‘MEDME’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c MEDMEweight.c -o MEDMEweight.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o MEDME.so MEDMEweight.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-MEDME/00new/MEDME/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MEDME’ as ‘MEDME_1.66.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MEDME)
+
+The downloaded source packages are in
+	‘/tmp/RtmpKnmakN/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘BSgenome.Mmusculus.UCSC.mm9’ had non-zero exit status
+
+real	2m25.621s
+user	0m43.676s
+sys	0m10.382s
