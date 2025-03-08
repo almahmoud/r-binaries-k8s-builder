@@ -1541,3 +1541,16 @@ MOMA
 MuData
 PharmacoGx
 scp
+ADAM
+AnnotationHub
+BiocSet
+BioNet
+CoCiteStats
+COCOA
+gDRcore
+GOpro
+iSEEtree
+LRBaseDbi
+MsQuality
+RadioGx
+ToxicoGx

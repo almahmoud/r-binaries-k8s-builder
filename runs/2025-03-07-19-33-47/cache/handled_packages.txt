@@ -2,6 +2,7 @@ ABSSeq
 ABarray
 ACE
 ACME
+ADAM
 ADAPT
 ADImpute
 AIMS
@@ -33,6 +34,7 @@ Anaquin
 AneuFinder
 AnnotationDbi
 AnnotationFilter
+AnnotationHub
 ArrayExpress
 AssessORF
 BADER
@@ -67,6 +69,7 @@ BiRewire
 BioCartaImage
 BioGA
 BioMVCClass
+BioNet
 BioQC
 BioTIP
 Biobase
@@ -80,6 +83,7 @@ BiocIO
 BiocNeighbors
 BiocParallel
 BiocPkgTools
+BiocSet
 BiocSingular
 BiocSklearn
 BiocStyle
@@ -114,6 +118,7 @@ CNORode
 CNVMetrics
 CNVPanelizer
 CNVRanger
+COCOA
 CODEX
 COMPASS
 CONFESS
@@ -155,6 +160,7 @@ ClustIRR
 ClusterFoldSimilarity
 ClusterJudge
 ClusterSignificance
+CoCiteStats
 CoGAPS
 ComPrAn
 ComplexHeatmap
@@ -267,6 +273,7 @@ GLAD
 GMRP
 GNET2
 GOTHiC
+GOpro
 GPA
 GRENITS
 GRmetrics
@@ -375,6 +382,7 @@ LBE
 LEA
 LOLA
 LPE
+LRBaseDbi
 LedPred
 LinTInd
 LinkHD
@@ -458,6 +466,7 @@ MsBackendSql
 MsCoreUtils
 MsExperiment
 MsFeatures
+MsQuality
 MuData
 Mulcom
 MultiAssayExperiment
@@ -578,6 +587,7 @@ RTopper
 RUVcorr
 RUVnormalize
 RVS
+RadioGx
 RaggedExperiment
 RankProd
 Rarr
@@ -709,6 +719,7 @@ TargetScore
 TargetSearch
 TileDBArray
 TnT
+ToxicoGx
 TrajectoryGeometry
 TrajectoryUtils
 TreeAndLeaf
@@ -985,6 +996,7 @@ frenchFISH
 frma
 frmaTools
 gCrisprTools
+gDRcore
 gDRstyle
 gDRutils
 gaga
@@ -1065,6 +1077,7 @@ iSEEfier
 iSEEhex
 iSEEindex
 iSEEpathways
+iSEEtree
 iSEEu
 iSeq
 iasva

@@ -1618,3 +1618,17 @@ safe
 simplifyEnrichment
 topGO
 tricycle
+ADAMgui
+CBEA
+ExperimentHub
+GenomicScores
+MetaboAnnotation
+cTRAP
+customCMPdb
+gatom
+hipathia
+ipdDb
+ontoProc
+partCNV
+rGenomeTracks
+scAnnotatR
