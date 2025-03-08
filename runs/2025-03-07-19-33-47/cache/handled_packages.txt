@@ -102,6 +102,7 @@ CNORfuzzy
 CNORode
 CNVMetrics
 CNVPanelizer
+CNVRanger
 COMPASS
 CONFESS
 CONSTANd
@@ -116,11 +117,14 @@ Cardinal
 CardinalIO
 CatsCradle
 CausalR
+CellBarcode
 CellBench
 CellMapper
 CellNOptR
 CellTrails
 CelliD
+ChIPseqR
+ChIPsim
 ChemmineOB
 ChemmineR
 Chicago
@@ -722,6 +726,7 @@ clustComp
 clusterSeq
 clusterStab
 clustifyr
+cmapR
 cn.mops
 cnvGSA
 coGPS
@@ -757,6 +762,7 @@ dcanr
 ddCt
 ddPCRclust
 dearseq
+debCAM
 decontam
 decoupleR
 deltaGseg
@@ -767,6 +773,7 @@ destiny
 diffGeneAnalysis
 diffuStats
 diggit
+dinoR
 dir.expiry
 discordant
 dittoSeq
@@ -1128,6 +1135,7 @@ sangerseqR
 sarks
 satuRn
 scBubbletree
+scCB2
 scDDboost
 scDataviz
 scDesign3

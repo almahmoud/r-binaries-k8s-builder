@@ -1266,3 +1266,11 @@ RegionalST
 RPA
 rtracklayer
 sarks
+CellBarcode
+ChIPseqR
+ChIPsim
+cmapR
+CNVRanger
+debCAM
+dinoR
+scCB2
