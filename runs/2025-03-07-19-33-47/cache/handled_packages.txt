@@ -846,6 +846,7 @@ RegEnrich
 RegionalST
 RepViz
 Repitools
+ReportingTools
 ResidualMatrix
 Rfastp
 RgnTX
@@ -886,6 +887,7 @@ SCnorm
 SDAMS
 SELEX
 SEtools
+SGCP
 SGSeq
 SIAMCAT
 SICtools
@@ -1104,6 +1106,7 @@ artMS
 assorthead
 atSNP
 atena
+attract
 autonomics
 awst
 bacon
@@ -1522,6 +1525,7 @@ iCheck
 iChip
 iClusterPlus
 iGC
+iNETgrate
 iPath
 iSEE
 iSEEde
@@ -1536,6 +1540,7 @@ iSeq
 iasva
 ibh
 icetea
+ideal
 idiogram
 idpr
 idr2d
@@ -1651,6 +1656,7 @@ mfa
 mgsa
 miQC
 miRBaseConverter
+miRLAB
 miRNAmeConverter
 miRNApath
 miRNAtap
