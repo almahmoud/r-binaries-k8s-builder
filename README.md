@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2203 packages built successfully
+- 2208 packages built successfully
 - 0 packages failed to build
-- 30 packages not yet processed
+- 25 packages not yet processed
 
 
-## Successfully Built (2203)
+## Successfully Built (2208)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2215,8 +2215,13 @@
 | [PING](https://bioconductor.org/packages/3.20/bioc/html/PING.html)                                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/PING/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PING)                        |
 | [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/cummeRbund/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cummeRbund)                  |
 | [netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/netZooR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/netZooR)                     |
+| [cicero](https://bioconductor.org/packages/3.20/bioc/html/cicero.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/cicero/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cicero)                      |
+| [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/comapr/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/comapr)                      |
+| [pcaExplorer](https://bioconductor.org/packages/3.20/bioc/html/pcaExplorer.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/pcaExplorer/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pcaExplorer)                 |
+| [scTensor](https://bioconductor.org/packages/3.20/bioc/html/scTensor.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/scTensor/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scTensor)                    |
+| [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/skewr/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/skewr)                       |
 
-## Not Yet Processed (30)
+## Not Yet Processed (25)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                     | Unprocessed |
@@ -2236,16 +2241,11 @@
 | [SPLINTER](https://bioconductor.org/packages/3.20/bioc/html/SPLINTER.html)                           | Unprocessed |
 | [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                   | Unprocessed |
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                 | Unprocessed |
-| [cicero](https://bioconductor.org/packages/3.20/bioc/html/cicero.html)                               | Unprocessed |
-| [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                               | Unprocessed |
 | [epimutacions](https://bioconductor.org/packages/3.20/bioc/html/epimutacions.html)                   | Unprocessed |
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                       | Unprocessed |
 | [mCSEA](https://bioconductor.org/packages/3.20/bioc/html/mCSEA.html)                                 | Unprocessed |
-| [pcaExplorer](https://bioconductor.org/packages/3.20/bioc/html/pcaExplorer.html)                     | Unprocessed |
 | [psichomics](https://bioconductor.org/packages/3.20/bioc/html/psichomics.html)                       | Unprocessed |
 | [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)     | Unprocessed |
 | [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                 | Unprocessed |
-| [scTensor](https://bioconductor.org/packages/3.20/bioc/html/scTensor.html)                           | Unprocessed |
 | [singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)                   | Unprocessed |
-| [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                 | Unprocessed |
 | [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                             | Unprocessed |

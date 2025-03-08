@@ -1207,6 +1207,7 @@ chromDraw
 chromPlot
 chromVAR
 chromstaR
+cicero
 circRNAprofiler
 cisPath
 cleanUpdTSeq
@@ -1235,6 +1236,7 @@ codelink
 cogena
 cogeqc
 cola
+comapr
 combi
 compEpiTools
 compSPOT
@@ -1800,6 +1802,7 @@ pathifier
 pathlinkR
 pathview
 pathwayPCA
+pcaExplorer
 pcaMethods
 pdInfoBuilder
 peakPantheR
@@ -1980,6 +1983,7 @@ scRepertoire
 scShapes
 scTGIF
 scTHI
+scTensor
 scTreeViz
 scanMiR
 scanMiRApp
@@ -2043,6 +2047,7 @@ sitadela
 sitePath
 sizepower
 sketchR
+skewr
 slalom
 slingshot
 smartid

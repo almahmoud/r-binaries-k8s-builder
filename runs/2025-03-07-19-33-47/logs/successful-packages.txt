@@ -2201,3 +2201,8 @@ cummeRbund
 netZooR
 OGRE
 PING
+cicero
+comapr
+pcaExplorer
+scTensor
+skewr
