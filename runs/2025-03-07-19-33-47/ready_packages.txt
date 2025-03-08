@@ -1,3 +1,2 @@
-GSCA
-biomformat
-scMitoMut
+BiocNeighbors
+synlet

@@ -444,3 +444,5 @@ timeOmics
 GSCA
 biomformat
 scMitoMut
+BiocNeighbors
+synlet
