@@ -769,3 +769,9 @@ msPurity
 nucleoSim
 rexposome
 scde
+DEGraph
+GenomeInfoDb
+Spectra
+flowMerge
+flowTrans
+nempi

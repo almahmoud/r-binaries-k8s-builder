@@ -61,6 +61,8 @@ CGHregions
 CIMICE
 CMA
 CNAnorm
+CNORfeeder
+CNORfuzzy
 COMPASS
 CONSTANd
 COSNet
@@ -207,6 +209,7 @@ MatrixGenerics
 MeasurementError.cor
 Mergeomics
 MetID
+MetaboCoreUtils
 MethPed
 MethylMix
 Mfuzz
@@ -216,6 +219,7 @@ ModCon
 MsCoreUtils
 Mulcom
 MultiMed
+NCIgraph
 NOISeq
 NPARC
 NTW
@@ -280,6 +284,7 @@ RTCGA
 RTopper
 RUVcorr
 RUVnormalize
+RVS
 RankProd
 RbcBook1
 Rbowtie
@@ -330,11 +335,13 @@ Summix
 SwathXtend
 TMixClust
 TPP2D
+TRONCO
 TSAR
 TargetScore
 TargetSearch
 TrajectoryGeometry
 TreeAndLeaf
+UCSC.utils
 UNDO
 VERSO
 VennDetail
@@ -364,6 +371,7 @@ banocc
 basilisk
 basilisk.utils
 bioDist
+bioassayR
 biobroom
 biobtreeR
 biocViews
@@ -407,6 +415,7 @@ cqn
 ctc
 ctsGE
 cycle
+cytoMEM
 cytolib
 daMA
 dcGSA
@@ -432,6 +441,7 @@ ecolitk
 edgeR
 eds
 eiR
+epiNEM
 epistasisGA
 epivizrServer
 erccdashboard
@@ -447,6 +457,9 @@ fgga
 fgsea
 flowAI
 flowBeads
+flowCHIC
+flowClean
+flowClust
 flowCore
 flowCyBar
 flowGraph
@@ -509,6 +522,7 @@ illuminaio
 immunoClust
 immunotation
 impute
+infinityFlow
 interacCircos
 interactiveDisplayBase
 iterativeBMA
@@ -541,8 +555,10 @@ mdp
 mdqc
 messina
 metaCCA
+metaSeq
 metabCombiner
 metabinR
+metabomxtr
 metagenomeSeq
 metahdep
 metapod
@@ -566,12 +582,14 @@ multiscan
 multtest
 mzID
 mzR
+ncdfFlow
 ndexr
 netprioR
 netresponse
 nnNorm
 normalize450K
 nuCpos
+nucleoSim
 occugene
 omada
 ompBAM
@@ -610,6 +628,7 @@ pvac
 pvca
 qckitfastq
 qcmetrics
+qpcrNorm
 quantsmooth
 qusage
 qvalue
@@ -683,6 +702,7 @@ tanggle
 ternarynet
 tidyFlowCore
 tidysbml
+tidytof
 timeOmics
 timecourse
 timescape
