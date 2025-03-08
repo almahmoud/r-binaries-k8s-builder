@@ -1699,3 +1699,8 @@ adSplit
 Xeva
 csdR
 immunogenViewer
+biomaRt
+gDRimport
+ginmappeR
+seqArchRplus
+webbioc

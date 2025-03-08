@@ -887,6 +887,7 @@ biodbHmdb
 biodbNcbi
 biodbNci
 biodbUniprot
+biomaRt
 biomformat
 biosigner
 biotmle
@@ -1089,6 +1090,7 @@ frma
 frmaTools
 gCrisprTools
 gDRcore
+gDRimport
 gDRstyle
 gDRutils
 gaga
@@ -1127,6 +1129,7 @@ ggtree
 ggtreeDendro
 ggtreeExtra
 ggtreeSpace
+ginmappeR
 girafe
 glmGamPoi
 globalSeq
@@ -1553,6 +1556,7 @@ segmenter
 semisup
 seq.hotSPOT
 seqArchR
+seqArchRplus
 seqLogo
 seqPattern
 seqTools
@@ -1685,6 +1689,7 @@ vsn
 waddR
 wavClusteR
 weaver
+webbioc
 weitrix
 widgetTools
 wiggleplotr

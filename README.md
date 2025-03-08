@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1701 packages built successfully
+- 1706 packages built successfully
 - 0 packages failed to build
-- 532 packages not yet processed
+- 527 packages not yet processed
 
 
-## Successfully Built (1701)
+## Successfully Built (1706)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1713,8 +1713,13 @@
 | [adSplit](https://bioconductor.org/packages/3.20/bioc/html/adSplit.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/adSplit/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/adSplit)                    |
 | [csdR](https://bioconductor.org/packages/3.20/bioc/html/csdR.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/csdR/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/csdR)                       |
 | [immunogenViewer](https://bioconductor.org/packages/3.20/bioc/html/immunogenViewer.html)                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/immunogenViewer/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunogenViewer)            |
+| [biomaRt](https://bioconductor.org/packages/3.20/bioc/html/biomaRt.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/biomaRt/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biomaRt)                    |
+| [gDRimport](https://bioconductor.org/packages/3.20/bioc/html/gDRimport.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/gDRimport/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gDRimport)                  |
+| [ginmappeR](https://bioconductor.org/packages/3.20/bioc/html/ginmappeR.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/ginmappeR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ginmappeR)                  |
+| [seqArchRplus](https://bioconductor.org/packages/3.20/bioc/html/seqArchRplus.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/seqArchRplus/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/seqArchRplus)               |
+| [webbioc](https://bioconductor.org/packages/3.20/bioc/html/webbioc.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/webbioc/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/webbioc)                    |
 
-## Not Yet Processed (532)
+## Not Yet Processed (527)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1997,7 +2002,6 @@
 | [bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)                                       | Unprocessed |
 | [bioCancer](https://bioconductor.org/packages/3.20/bioc/html/bioCancer.html)                                     | Unprocessed |
 | [biocGraph](https://bioconductor.org/packages/3.20/bioc/html/biocGraph.html)                                     | Unprocessed |
-| [biomaRt](https://bioconductor.org/packages/3.20/bioc/html/biomaRt.html)                                         | Unprocessed |
 | [biomvRCNS](https://bioconductor.org/packages/3.20/bioc/html/biomvRCNS.html)                                     | Unprocessed |
 | [biovizBase](https://bioconductor.org/packages/3.20/bioc/html/biovizBase.html)                                   | Unprocessed |
 | [biscuiteer](https://bioconductor.org/packages/3.20/bioc/html/biscuiteer.html)                                   | Unprocessed |
@@ -2079,7 +2083,6 @@
 | [funtooNorm](https://bioconductor.org/packages/3.20/bioc/html/funtooNorm.html)                                   | Unprocessed |
 | [gDNAx](https://bioconductor.org/packages/3.20/bioc/html/gDNAx.html)                                             | Unprocessed |
 | [gDR](https://bioconductor.org/packages/3.20/bioc/html/gDR.html)                                                 | Unprocessed |
-| [gDRimport](https://bioconductor.org/packages/3.20/bioc/html/gDRimport.html)                                     | Unprocessed |
 | [gINTomics](https://bioconductor.org/packages/3.20/bioc/html/gINTomics.html)                                     | Unprocessed |
 | [gage](https://bioconductor.org/packages/3.20/bioc/html/gage.html)                                               | Unprocessed |
 | [genefilter](https://bioconductor.org/packages/3.20/bioc/html/genefilter.html)                                   | Unprocessed |
@@ -2087,7 +2090,6 @@
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                                     | Unprocessed |
 | [gep2pep](https://bioconductor.org/packages/3.20/bioc/html/gep2pep.html)                                         | Unprocessed |
 | [ggbio](https://bioconductor.org/packages/3.20/bioc/html/ggbio.html)                                             | Unprocessed |
-| [ginmappeR](https://bioconductor.org/packages/3.20/bioc/html/ginmappeR.html)                                     | Unprocessed |
 | [glmSparseNet](https://bioconductor.org/packages/3.20/bioc/html/glmSparseNet.html)                               | Unprocessed |
 | [globaltest](https://bioconductor.org/packages/3.20/bioc/html/globaltest.html)                                   | Unprocessed |
 | [gmapR](https://bioconductor.org/packages/3.20/bioc/html/gmapR.html)                                             | Unprocessed |
@@ -2204,7 +2206,6 @@
 | [scruff](https://bioconductor.org/packages/3.20/bioc/html/scruff.html)                                           | Unprocessed |
 | [selectKSigs](https://bioconductor.org/packages/3.20/bioc/html/selectKSigs.html)                                 | Unprocessed |
 | [seq2pathway](https://bioconductor.org/packages/3.20/bioc/html/seq2pathway.html)                                 | Unprocessed |
-| [seqArchRplus](https://bioconductor.org/packages/3.20/bioc/html/seqArchRplus.html)                               | Unprocessed |
 | [seqCAT](https://bioconductor.org/packages/3.20/bioc/html/seqCAT.html)                                           | Unprocessed |
 | [shinyMethyl](https://bioconductor.org/packages/3.20/bioc/html/shinyMethyl.html)                                 | Unprocessed |
 | [shinyepico](https://bioconductor.org/packages/3.20/bioc/html/shinyepico.html)                                   | Unprocessed |
@@ -2245,7 +2246,6 @@
 | [vtpnet](https://bioconductor.org/packages/3.20/bioc/html/vtpnet.html)                                           | Unprocessed |
 | [vulcan](https://bioconductor.org/packages/3.20/bioc/html/vulcan.html)                                           | Unprocessed |
 | [wateRmelon](https://bioconductor.org/packages/3.20/bioc/html/wateRmelon.html)                                   | Unprocessed |
-| [webbioc](https://bioconductor.org/packages/3.20/bioc/html/webbioc.html)                                         | Unprocessed |
 | [yarn](https://bioconductor.org/packages/3.20/bioc/html/yarn.html)                                               | Unprocessed |
 | [zenith](https://bioconductor.org/packages/3.20/bioc/html/zenith.html)                                           | Unprocessed |
 | [zinbwave](https://bioconductor.org/packages/3.20/bioc/html/zinbwave.html)                                       | Unprocessed |
