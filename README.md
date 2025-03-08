@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2208 packages built successfully
+- 2223 packages built successfully
 - 0 packages failed to build
-- 25 packages not yet processed
+- 10 packages not yet processed
 
 
-## Successfully Built (2208)
+## Successfully Built (2223)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2220,32 +2220,32 @@
 | [pcaExplorer](https://bioconductor.org/packages/3.20/bioc/html/pcaExplorer.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/pcaExplorer/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pcaExplorer)                 |
 | [scTensor](https://bioconductor.org/packages/3.20/bioc/html/scTensor.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/scTensor/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scTensor)                    |
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/skewr/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/skewr)                       |
+| [ELMER](https://bioconductor.org/packages/3.20/bioc/html/ELMER.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/ELMER/build-success.log)                       | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ELMER)                    |
+| [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/GeneStructureTools/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneStructureTools)          |
+| [GenomicInteractions](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractions.html)                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/GenomicInteractions/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicInteractions)         |
+| [Pviz](https://bioconductor.org/packages/3.20/bioc/html/Pviz.html)                                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/Pviz/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Pviz)                        |
+| [RNAmodR](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/RNAmodR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RNAmodR)                     |
+| [RnaSeqSampleSize](https://bioconductor.org/packages/3.20/bioc/html/RnaSeqSampleSize.html)                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/RnaSeqSampleSize/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RnaSeqSampleSize)            |
+| [SPLINTER](https://bioconductor.org/packages/3.20/bioc/html/SPLINTER.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/SPLINTER/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SPLINTER)                    |
+| [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/TVTB/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TVTB)                        |
+| [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/affycoretools/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/affycoretools)               |
+| [epimutacions](https://bioconductor.org/packages/3.20/bioc/html/epimutacions.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/epimutacions/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epimutacions)                |
+| [mCSEA](https://bioconductor.org/packages/3.20/bioc/html/mCSEA.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/mCSEA/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mCSEA)                       |
+| [psichomics](https://bioconductor.org/packages/3.20/bioc/html/psichomics.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/psichomics/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/psichomics)                  |
+| [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/ribosomeProfilingQC/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ribosomeProfilingQC)         |
+| [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/saseR/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/saseR)                       |
+| [singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/singleCellTK/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/singleCellTK)                |
 
-## Not Yet Processed (25)
+## Not Yet Processed (10)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                     | Unprocessed |
 | [CAGEfightR](https://bioconductor.org/packages/3.20/bioc/html/CAGEfightR.html)                       | Unprocessed |
 | [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)                                 | Unprocessed |
-| [ELMER](https://bioconductor.org/packages/3.20/bioc/html/ELMER.html)                                 | Unprocessed |
-| [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)       | Unprocessed |
-| [GenomicInteractions](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractions.html)     | Unprocessed |
 | [HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)                         | Unprocessed |
 | [MungeSumstats](https://bioconductor.org/packages/3.20/bioc/html/MungeSumstats.html)                 | Unprocessed |
-| [Pviz](https://bioconductor.org/packages/3.20/bioc/html/Pviz.html)                                   | Unprocessed |
-| [RNAmodR](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.html)                             | Unprocessed |
 | [RNAmodR.AlkAnilineSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.AlkAnilineSeq.html) | Unprocessed |
 | [RNAmodR.ML](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.ML.html)                       | Unprocessed |
 | [RNAmodR.RiboMethSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.RiboMethSeq.html)     | Unprocessed |
-| [RnaSeqSampleSize](https://bioconductor.org/packages/3.20/bioc/html/RnaSeqSampleSize.html)           | Unprocessed |
-| [SPLINTER](https://bioconductor.org/packages/3.20/bioc/html/SPLINTER.html)                           | Unprocessed |
-| [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                   | Unprocessed |
-| [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                 | Unprocessed |
-| [epimutacions](https://bioconductor.org/packages/3.20/bioc/html/epimutacions.html)                   | Unprocessed |
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                       | Unprocessed |
-| [mCSEA](https://bioconductor.org/packages/3.20/bioc/html/mCSEA.html)                                 | Unprocessed |
-| [psichomics](https://bioconductor.org/packages/3.20/bioc/html/psichomics.html)                       | Unprocessed |
-| [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)     | Unprocessed |
-| [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                 | Unprocessed |
-| [singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)                   | Unprocessed |
 | [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                             | Unprocessed |

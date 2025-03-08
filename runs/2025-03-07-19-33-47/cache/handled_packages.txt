@@ -319,6 +319,7 @@ EDASeq
 EDIRquery
 EGAD
 EGSEA
+ELMER
 EMDomics
 ENmix
 ERSSA
@@ -418,6 +419,7 @@ GeneNetworkBuilder
 GeneOverlap
 GeneRegionScan
 GeneSelectMMD
+GeneStructureTools
 GeneTonic
 GeneticsPed
 GenomAutomorphism
@@ -428,6 +430,7 @@ GenomicDistributions
 GenomicFeatures
 GenomicFiles
 GenomicInteractionNodes
+GenomicInteractions
 GenomicOZone
 GenomicPlot
 GenomicRanges
@@ -760,6 +763,7 @@ ProtGenerics
 ProteoDisco
 ProteoMM
 PureCN
+Pviz
 QDNAseq
 QFeatures
 QSutils
@@ -801,6 +805,7 @@ RMassBank
 RNAAgeCalc
 RNASeqPower
 RNAdecay
+RNAmodR
 RNAsense
 RNAseqCovarImpute
 ROC
@@ -864,6 +869,7 @@ RiboProfiling
 Rmagpie
 Rmmquant
 RnBeads
+RnaSeqSampleSize
 Rnits
 RolDE
 Rqc
@@ -910,6 +916,7 @@ SOMNiBUS
 SPEM
 SPIA
 SPIAT
+SPLINTER
 SPONGE
 SPOTlight
 SPsimSeq
@@ -1005,6 +1012,7 @@ TRONCO
 TSAR
 TSCAN
 TTMap
+TVTB
 TargetDecoy
 TargetScore
 TargetSearch
@@ -1069,6 +1077,7 @@ affyContam
 affyILM
 affyPLM
 affycomp
+affycoretools
 affyio
 affylmGUI
 aggregateBioVar
@@ -1356,6 +1365,7 @@ epialleleR
 epidecodeR
 epigenomix
 epigraHMM
+epimutacions
 epiregulon
 epiregulon.extra
 epistack
@@ -1605,6 +1615,7 @@ lumi
 lute
 m6Aboost
 mBPCR
+mCSEA
 maCorrPlot
 maPredictDSC
 maSigPro
@@ -1858,6 +1869,7 @@ progeny
 projectR
 protGear
 proteinProfiles
+psichomics
 ptairMS
 puma
 pvac
@@ -1925,6 +1937,7 @@ rhdf5filters
 rhinotypeR
 riboSeqR
 ribor
+ribosomeProfilingQC
 rifi
 rifiComparative
 rmelting
@@ -1953,6 +1966,7 @@ sampleClassifier
 sangeranalyseR
 sangerseqR
 sarks
+saseR
 satuRn
 scAnnotatR
 scBFA
@@ -2042,6 +2056,7 @@ simona
 simpleSeg
 simplifyEnrichment
 sincell
+singleCellTK
 singscore
 sitadela
 sitePath

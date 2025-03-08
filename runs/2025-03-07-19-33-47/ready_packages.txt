@@ -1,0 +1,8 @@
+AgiMicroRna
+CAGEfightR
+HiCDCPlus
+RNAmodR.AlkAnilineSeq
+RNAmodR.ML
+RNAmodR.RiboMethSeq
+extraChIPs
+spatzie
