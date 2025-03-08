@@ -111,6 +111,7 @@ CNORode
 CNVMetrics
 CNVPanelizer
 CNVRanger
+CODEX
 COMPASS
 CONFESS
 CONSTANd
@@ -777,6 +778,7 @@ cisPath
 cleanUpdTSeq
 cleaver
 clevRvis
+cliProfiler
 clippda
 clst
 clstutils
@@ -802,6 +804,7 @@ copa
 covEB
 cqn
 crisprBase
+crisprBowtie
 crlmm
 csaw
 ctc
@@ -1144,6 +1147,7 @@ phyloseq
 piano
 pickgene
 pipeComp
+pipeFrame
 planet
 planttfhunter
 plasmut
@@ -1200,6 +1204,7 @@ receptLoss
 reconsi
 recount3
 regionalpcs
+regioneR
 regsplice
 retrofit
 rexposome
@@ -1304,6 +1309,7 @@ snapcount
 snifter
 snm
 snpStats
+soGGi
 spaSim
 sparseMatrixStats
 sparsenetgls
@@ -1361,6 +1367,7 @@ tpSVG
 tracktables
 transformGamPoi
 transite
+traseR
 treeio
 trio
 triplex

@@ -1478,3 +1478,5 @@ MinimumDistance
 Rbec
 DiffBind
 epigraHMM
+iCNV
+regioneReloaded

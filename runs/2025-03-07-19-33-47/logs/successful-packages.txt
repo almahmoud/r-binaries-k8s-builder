@@ -1392,3 +1392,10 @@ MMDiff2
 Motif2Site
 SparseSignatures
 VarCon
+cliProfiler
+CODEX
+crisprBowtie
+pipeFrame
+regioneR
+soGGi
+traseR
