@@ -511,6 +511,7 @@ PoDCall
 PolySTest
 ProtGenerics
 QDNAseq
+QFeatures
 QSutils
 QTLExperiment
 QUBIC
@@ -735,6 +736,7 @@ airpart
 alabaster.base
 alabaster.bumpy
 alabaster.files
+alabaster.mae
 alabaster.matrix
 alabaster.ranges
 alabaster.sce
@@ -745,6 +747,7 @@ alabaster.string
 alevinQC
 altcdfenvs
 amplican
+animalcules
 annotationTools
 anota
 anota2seq
@@ -753,6 +756,7 @@ apeglm
 aroma.light
 arrayQuality
 assorthead
+autonomics
 awst
 bacon
 bamsignals
@@ -835,6 +839,7 @@ combi
 compSPOT
 compcodeR
 concordexR
+condiments
 consensus
 consensusSeekeR
 convert

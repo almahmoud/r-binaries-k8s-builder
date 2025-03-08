@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1505 packages built successfully
+- 1510 packages built successfully
 - 0 packages failed to build
-- 728 packages not yet processed
+- 723 packages not yet processed
 
 
-## Successfully Built (1505)
+## Successfully Built (1510)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1517,8 +1517,13 @@
 | [kmcut](https://bioconductor.org/packages/3.20/bioc/html/kmcut.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/kmcut/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/kmcut)                      |
 | [made4](https://bioconductor.org/packages/3.20/bioc/html/made4.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/made4/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/made4)                      |
 | [mia](https://bioconductor.org/packages/3.20/bioc/html/mia.html)                                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/mia/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mia)                        |
+| [QFeatures](https://bioconductor.org/packages/3.20/bioc/html/QFeatures.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/QFeatures/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/QFeatures)                  |
+| [alabaster.mae](https://bioconductor.org/packages/3.20/bioc/html/alabaster.mae.html)                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/alabaster.mae/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.mae)              |
+| [animalcules](https://bioconductor.org/packages/3.20/bioc/html/animalcules.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/animalcules/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/animalcules)                |
+| [autonomics](https://bioconductor.org/packages/3.20/bioc/html/autonomics.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/autonomics/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/autonomics)                 |
+| [condiments](https://bioconductor.org/packages/3.20/bioc/html/condiments.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/condiments/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/condiments)                 |
 
-## Not Yet Processed (728)
+## Not Yet Processed (723)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADAM](https://bioconductor.org/packages/3.20/bioc/html/ADAM.html)                                               | Unprocessed |
@@ -1780,7 +1785,6 @@
 | [ProteoMM](https://bioconductor.org/packages/3.20/bioc/html/ProteoMM.html)                                       | Unprocessed |
 | [PureCN](https://bioconductor.org/packages/3.20/bioc/html/PureCN.html)                                           | Unprocessed |
 | [Pviz](https://bioconductor.org/packages/3.20/bioc/html/Pviz.html)                                               | Unprocessed |
-| [QFeatures](https://bioconductor.org/packages/3.20/bioc/html/QFeatures.html)                                     | Unprocessed |
 | [QuasR](https://bioconductor.org/packages/3.20/bioc/html/QuasR.html)                                             | Unprocessed |
 | [R3CPET](https://bioconductor.org/packages/3.20/bioc/html/R3CPET.html)                                           | Unprocessed |
 | [R453Plus1Toolbox](https://bioconductor.org/packages/3.20/bioc/html/R453Plus1Toolbox.html)                       | Unprocessed |
@@ -1881,9 +1885,7 @@
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                             | Unprocessed |
 | [affylmGUI](https://bioconductor.org/packages/3.20/bioc/html/affylmGUI.html)                                     | Unprocessed |
 | [alabaster](https://bioconductor.org/packages/3.20/bioc/html/alabaster.html)                                     | Unprocessed |
-| [alabaster.mae](https://bioconductor.org/packages/3.20/bioc/html/alabaster.mae.html)                             | Unprocessed |
 | [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                             | Unprocessed |
-| [animalcules](https://bioconductor.org/packages/3.20/bioc/html/animalcules.html)                                 | Unprocessed |
 | [annaffy](https://bioconductor.org/packages/3.20/bioc/html/annaffy.html)                                         | Unprocessed |
 | [annmap](https://bioconductor.org/packages/3.20/bioc/html/annmap.html)                                           | Unprocessed |
 | [annotate](https://bioconductor.org/packages/3.20/bioc/html/annotate.html)                                       | Unprocessed |
@@ -1896,7 +1898,6 @@
 | [atSNP](https://bioconductor.org/packages/3.20/bioc/html/atSNP.html)                                             | Unprocessed |
 | [atena](https://bioconductor.org/packages/3.20/bioc/html/atena.html)                                             | Unprocessed |
 | [attract](https://bioconductor.org/packages/3.20/bioc/html/attract.html)                                         | Unprocessed |
-| [autonomics](https://bioconductor.org/packages/3.20/bioc/html/autonomics.html)                                   | Unprocessed |
 | [ballgown](https://bioconductor.org/packages/3.20/bioc/html/ballgown.html)                                       | Unprocessed |
 | [bambu](https://bioconductor.org/packages/3.20/bioc/html/bambu.html)                                             | Unprocessed |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)                                           | Unprocessed |
@@ -1945,7 +1946,6 @@
 | [codelink](https://bioconductor.org/packages/3.20/bioc/html/codelink.html)                                       | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                                           | Unprocessed |
 | [compEpiTools](https://bioconductor.org/packages/3.20/bioc/html/compEpiTools.html)                               | Unprocessed |
-| [condiments](https://bioconductor.org/packages/3.20/bioc/html/condiments.html)                                   | Unprocessed |
 | [consICA](https://bioconductor.org/packages/3.20/bioc/html/consICA.html)                                         | Unprocessed |
 | [consensusDE](https://bioconductor.org/packages/3.20/bioc/html/consensusDE.html)                                 | Unprocessed |
 | [conumee](https://bioconductor.org/packages/3.20/bioc/html/conumee.html)                                         | Unprocessed |
