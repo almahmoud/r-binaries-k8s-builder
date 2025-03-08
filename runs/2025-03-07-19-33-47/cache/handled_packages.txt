@@ -25,6 +25,7 @@ ASICS
 ASSET
 ASSIGN
 ASURAT
+ASpli
 ATACseqQC
 ATACseqTFEA
 AUCell
@@ -157,6 +158,7 @@ CNTools
 CNVMetrics
 CNVPanelizer
 CNVRanger
+CNVfilteR
 CNVrd2
 COCOA
 CODEX
@@ -273,6 +275,7 @@ DRIMSeq
 DSS
 DTA
 DaMiRseq
+Damsel
 DeMAND
 DeMixT
 DeconRNASeq
@@ -780,6 +783,7 @@ RJMCMCNucleosomes
 RLMM
 RLassoCox
 RMassBank
+RNAAgeCalc
 RNASeqPower
 RNAdecay
 RNAsense
@@ -1517,6 +1521,7 @@ immunotation
 impute
 infercnv
 infinityFlow
+intansv
 interacCircos
 interactiveDisplay
 interactiveDisplayBase
@@ -1570,6 +1575,7 @@ mariner
 marr
 marray
 martini
+maser
 maskBAD
 massiR
 mastR
@@ -1607,6 +1613,7 @@ methylGSA
 methylInheritance
 methylKit
 methylMnM
+methylPipe
 methylSig
 methylscaper
 methylumi
@@ -1654,12 +1661,14 @@ mosbi
 mosdef
 motifStack
 motifTestR
+motifbreakR
 motifcounter
 motifmatchr
 mpra
 msImpute
 msPurity
 msa
+msgbsR
 mslp
 msmsEDA
 msmsTests
@@ -1854,6 +1863,7 @@ regionalpcs
 regioneR
 regioneReloaded
 regsplice
+regutools
 retrofit
 rexposome
 rfPred

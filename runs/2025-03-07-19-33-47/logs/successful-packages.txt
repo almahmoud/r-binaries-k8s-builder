@@ -2138,3 +2138,13 @@ primirTSS
 R453Plus1Toolbox
 AllelicImbalance
 ffpe
+ASpli
+CNVfilteR
+Damsel
+intansv
+maser
+methylPipe
+motifbreakR
+msgbsR
+regutools
+RNAAgeCalc
