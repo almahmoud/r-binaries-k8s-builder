@@ -1,0 +1,403 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'systemPipeShiny'
+also installing the dependencies ‘reactR’, ‘XVector’, ‘GenomicAlignments’, ‘pwalign’, ‘SparseArray’, ‘reactable’, ‘rio’, ‘toastui’, ‘writexl’, ‘fresh’, ‘waiter’, ‘Rsamtools’, ‘Biostrings’, ‘ShortRead’, ‘GenomicRanges’, ‘GenomeInfoDb’, ‘S4Arrays’, ‘DelayedArray’, ‘datamods’, ‘phosphoricons’, ‘shinybusy’, ‘spsUtil’, ‘spsComps’, ‘drawer’, ‘bsplus’, ‘shinyAce’, ‘shinydashboardPlus’, ‘shinyjqui’, ‘styler’, ‘systemPipeR’, ‘systemPipeRdata’, ‘pushbar’, ‘DESeq2’, ‘SummarizedExperiment’, ‘glmpca’, ‘UpSetR’, ‘esquisse’, ‘cicerone’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/reactR_0.6.1.tar.gz'
+Content type 'binary/octet-stream' length 611396 bytes (597 KB)
+==================================================
+downloaded 597 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicAlignments_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 2273284 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/pwalign_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 355962 bytes (347 KB)
+==================================================
+downloaded 347 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SparseArray_1.6.2.tar.gz'
+Content type 'application/x-gzip' length 468696 bytes (457 KB)
+==================================================
+downloaded 457 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/reactable_0.4.4.tar.gz'
+Content type 'binary/octet-stream' length 1058383 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rio_1.2.3.tar.gz'
+Content type 'binary/octet-stream' length 617108 bytes (602 KB)
+==================================================
+downloaded 602 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/toastui_0.3.4.tar.gz'
+Content type 'binary/octet-stream' length 886053 bytes (865 KB)
+==================================================
+downloaded 865 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/writexl_1.5.1.tar.gz'
+Content type 'binary/octet-stream' length 172465 bytes (168 KB)
+==================================================
+downloaded 168 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fresh_0.2.1.tar.gz'
+Content type 'binary/octet-stream' length 1504218 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/waiter_0.2.5.tar.gz'
+Content type 'binary/octet-stream' length 469963 bytes (458 KB)
+==================================================
+downloaded 458 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Rsamtools_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 2925866 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biostrings_2.74.1.tar.gz'
+Content type 'application/x-gzip' length 12823307 bytes (12.2 MB)
+==================================================
+downloaded 12.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ShortRead_1.64.0.tar.gz'
+Content type 'application/x-gzip' length 5321116 bytes (5.1 MB)
+==================================================
+downloaded 5.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicRanges_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 1374658 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/x-gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Arrays_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 288435 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/datamods_1.5.3.tar.gz'
+Content type 'binary/octet-stream' length 1210398 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/phosphoricons_0.2.1.tar.gz'
+Content type 'binary/octet-stream' length 3163667 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/shinybusy_0.3.3.tar.gz'
+Content type 'binary/octet-stream' length 613036 bytes (598 KB)
+==================================================
+downloaded 598 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/spsUtil_0.2.2.tar.gz'
+Content type 'binary/octet-stream' length 131309 bytes (128 KB)
+==================================================
+downloaded 128 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/spsComps_0.3.3.0.tar.gz'
+Content type 'binary/octet-stream' length 292692 bytes (285 KB)
+==================================================
+downloaded 285 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/drawer_0.2.0.1.tar.gz'
+Content type 'binary/octet-stream' length 205641 bytes (200 KB)
+==================================================
+downloaded 200 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bsplus_0.1.4.tar.gz'
+Content type 'binary/octet-stream' length 100649 bytes (98 KB)
+==================================================
+downloaded 98 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/shinyAce_0.4.4.tar.gz'
+Content type 'binary/octet-stream' length 1743235 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/shinydashboardPlus_2.0.5.tar.gz'
+Content type 'binary/octet-stream' length 1118698 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/shinyjqui_0.4.1.tar.gz'
+Content type 'binary/octet-stream' length 648286 bytes (633 KB)
+==================================================
+downloaded 633 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/styler_1.10.3.tar.gz'
+Content type 'binary/octet-stream' length 827326 bytes (807 KB)
+==================================================
+downloaded 807 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/systemPipeR_2.12.0.tar.gz'
+Content type 'application/x-gzip' length 6834059 bytes (6.5 MB)
+==================================================
+downloaded 6.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/systemPipeRdata_2.10.0.tar.gz'
+Content type 'application/x-gzip' length 285896303 bytes (272.7 MB)
+==================================================
+downloaded 272.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pushbar_0.1.0.tar.gz'
+Content type 'binary/octet-stream' length 78536 bytes (76 KB)
+==================================================
+downloaded 76 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DESeq2_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 2516875 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/glmpca_0.2.0.tar.gz'
+Content type 'binary/octet-stream' length 230778 bytes (225 KB)
+==================================================
+downloaded 225 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/UpSetR_1.4.0.tar.gz'
+Content type 'binary/octet-stream' length 4297379 bytes (4.1 MB)
+==================================================
+downloaded 4.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/esquisse_2.1.0.tar.gz'
+Content type 'binary/octet-stream' length 1715751 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/cicerone_1.0.4.tar.gz'
+Content type 'binary/octet-stream' length 386779 bytes (377 KB)
+==================================================
+downloaded 377 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/systemPipeShiny_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 4521099 bytes (4.3 MB)
+==================================================
+downloaded 4.3 MB
+
+* installing *binary* package ‘reactR’ ...
+* ‘reactR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘reactR’ as ‘reactR_0.6.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (reactR)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-XVector’
+* installing *binary* package ‘writexl’ ...
+* ‘writexl’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘writexl’ as ‘writexl_1.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (writexl)
+* installing *binary* package ‘fresh’ ...
+* ‘fresh’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fresh’ as ‘fresh_0.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fresh)
+* installing *binary* package ‘waiter’ ...
+* ‘waiter’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘waiter’ as ‘waiter_0.2.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (waiter)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-GenomeInfoDb’
+* installing *source* package ‘S4Arrays’ ...
+** package ‘S4Arrays’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_S4Arrays.c -o R_init_S4Arrays.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c S4Vectors_stubs.c -o S4Vectors_stubs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c abind.c -o abind.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c array_selection.c -o array_selection.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c dim_tuning_utils.c -o dim_tuning_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/mnt/library/S4Vectors/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rowsum.c -o rowsum.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o S4Arrays.so R_init_S4Arrays.o S4Vectors_stubs.o abind.o array_selection.o dim_tuning_utils.o rowsum.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-S4Arrays/00new/S4Arrays/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘rowsum’ in package ‘S4Arrays’
+Creating a new generic function for ‘abind’ in package ‘S4Arrays’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Error : package ‘BiocGenerics’ required by ‘S4Arrays’ could not be found
+Error: loading failed
+Execution halted
+ERROR: loading failed
+* removing ‘/mnt/library/S4Arrays’
+* installing *binary* package ‘phosphoricons’ ...
+* ‘phosphoricons’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘phosphoricons’ as ‘phosphoricons_0.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (phosphoricons)
+* installing *binary* package ‘shinybusy’ ...
+* ‘shinybusy’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shinybusy’ as ‘shinybusy_0.3.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinybusy)
+* installing *binary* package ‘spsUtil’ ...
+* ‘spsUtil’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spsUtil’ as ‘spsUtil_0.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spsUtil)
+* installing *binary* package ‘bsplus’ ...
+* ‘bsplus’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bsplus’ as ‘bsplus_0.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bsplus)
+* installing *binary* package ‘shinyAce’ ...
+* ‘shinyAce’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shinyAce’ as ‘shinyAce_0.4.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinyAce)
+* installing *binary* package ‘shinyjqui’ ...
+* ‘shinyjqui’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shinyjqui’ as ‘shinyjqui_0.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinyjqui)
+* installing *binary* package ‘styler’ ...
+* ‘styler’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘styler’ as ‘styler_1.10.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (styler)
+* installing *binary* package ‘pushbar’ ...
+* ‘pushbar’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pushbar’ as ‘pushbar_0.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pushbar)
+* installing *binary* package ‘glmpca’ ...
+* ‘glmpca’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘glmpca’ as ‘glmpca_0.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (glmpca)
+* installing *binary* package ‘UpSetR’ ...
+* ‘UpSetR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘UpSetR’ as ‘UpSetR_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (UpSetR)
+* installing *binary* package ‘cicerone’ ...
+* ‘cicerone’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘cicerone’ as ‘cicerone_1.0.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cicerone)
+ERROR: dependencies ‘S4Arrays’, ‘IRanges’ are not available for package ‘SparseArray’
+* removing ‘/mnt/library/SparseArray’
+* installing *binary* package ‘reactable’ ...
+* ‘reactable’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘reactable’ as ‘reactable_0.4.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (reactable)
+* installing *binary* package ‘rio’ ...
+* ‘rio’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rio’ as ‘rio_1.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rio)
+* installing *binary* package ‘toastui’ ...
+* ‘toastui’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘toastui’ as ‘toastui_0.3.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (toastui)
+ERROR: dependencies ‘IRanges’, ‘GenomeInfoDb’ are not available for package ‘Biostrings’
+* removing ‘/mnt/library/Biostrings’
+ERROR: dependencies ‘IRanges’, ‘GenomeInfoDb’ are not available for package ‘GenomicRanges’
+* removing ‘/mnt/library/GenomicRanges’
+* installing *binary* package ‘spsComps’ ...
+* ‘spsComps’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spsComps’ as ‘spsComps_0.3.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spsComps)
+* installing *binary* package ‘drawer’ ...
+* ‘drawer’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘drawer’ as ‘drawer_0.2.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (drawer)
+* installing *binary* package ‘shinydashboardPlus’ ...
+* ‘shinydashboardPlus’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shinydashboardPlus’ as ‘shinydashboardPlus_2.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinydashboardPlus)
+ERROR: dependencies ‘IRanges’, ‘Biostrings’ are not available for package ‘pwalign’
+* removing ‘/mnt/library/pwalign’
+ERROR: dependencies ‘GenomeInfoDb’, ‘GenomicRanges’, ‘Biostrings’, ‘IRanges’ are not available for package ‘Rsamtools’
+* removing ‘/mnt/library/Rsamtools’
+ERROR: dependencies ‘MatrixGenerics’, ‘IRanges’, ‘S4Arrays’, ‘SparseArray’ are not available for package ‘DelayedArray’
+* removing ‘/mnt/library/DelayedArray’
+* installing *binary* package ‘datamods’ ...
+* ‘datamods’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘datamods’ as ‘datamods_1.5.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (datamods)
+ERROR: dependency ‘Biostrings’ is not available for package ‘systemPipeRdata’
+* removing ‘/mnt/library/systemPipeRdata’
+* installing *source* package ‘systemPipeShiny’ ...
+** package ‘systemPipeShiny’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘systemPipeShiny’ as ‘systemPipeShiny_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (systemPipeShiny)
+ERROR: dependencies ‘GenomicRanges’, ‘IRanges’, ‘GenomeInfoDb’, ‘S4Arrays’, ‘DelayedArray’ are not available for package ‘SummarizedExperiment’
+* removing ‘/mnt/library/SummarizedExperiment’
+* installing *binary* package ‘esquisse’ ...
+* ‘esquisse’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘esquisse’ as ‘esquisse_2.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (esquisse)
+ERROR: dependencies ‘IRanges’, ‘GenomeInfoDb’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘Biostrings’, ‘Rsamtools’ are not available for package ‘GenomicAlignments’
+* removing ‘/mnt/library/GenomicAlignments’
+ERROR: dependencies ‘IRanges’, ‘GenomicRanges’, ‘SummarizedExperiment’ are not available for package ‘DESeq2’
+* removing ‘/mnt/library/DESeq2’
+ERROR: dependencies ‘Biostrings’, ‘Rsamtools’, ‘GenomicAlignments’, ‘IRanges’, ‘GenomeInfoDb’, ‘GenomicRanges’, ‘pwalign’, ‘XVector’ are not available for package ‘ShortRead’
+* removing ‘/mnt/library/ShortRead’
+ERROR: dependencies ‘Rsamtools’, ‘Biostrings’, ‘ShortRead’, ‘GenomicRanges’, ‘SummarizedExperiment’ are not available for package ‘systemPipeR’
+* removing ‘/mnt/library/systemPipeR’
+
+The downloaded source packages are in
+	‘/tmp/RtmpsoYALT/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+There were 15 warnings (use warnings() to see them)
+
+real	3m13.951s
+user	0m46.459s
+sys	0m16.410s

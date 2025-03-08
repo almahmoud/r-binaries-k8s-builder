@@ -1,0 +1,241 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'shiny.gosling'
+also installing the dependencies ‘SparseArray’, ‘biomaRt’, ‘DelayedArray’, ‘KEGGREST’, ‘txdbmaker’, ‘xmlparsedata’, ‘IRanges’, ‘MatrixGenerics’, ‘SummarizedExperiment’, ‘Rsamtools’, ‘Biostrings’, ‘AnnotationDbi’, ‘rtracklayer’, ‘BSgenome’, ‘GenomicFeatures’, ‘pwalign’, ‘GenomicAlignments’, ‘ensembldb’, ‘AnnotationFilter’, ‘OrganismDbi’, ‘config’, ‘lintr’, ‘GenomicRanges’, ‘VariantAnnotation’, ‘StructuralVariantAnnotation’, ‘biovizBase’, ‘ggbio’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SparseArray_1.6.2.tar.gz'
+Content type 'application/x-gzip' length 468696 bytes (457 KB)
+==================================================
+downloaded 457 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/biomaRt_2.62.1.tar.gz'
+Content type 'application/x-gzip' length 865748 bytes (845 KB)
+==================================================
+downloaded 845 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/KEGGREST_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 239655 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/txdbmaker_1.2.1.tar.gz'
+Content type 'application/x-gzip' length 1035549 bytes (1011 KB)
+==================================================
+downloaded 1011 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/xmlparsedata_1.0.5.tar.gz'
+Content type 'binary/octet-stream' length 18820 bytes (18 KB)
+==================================================
+downloaded 18 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MatrixGenerics_1.18.1.tar.gz'
+Content type 'application/x-gzip' length 34631 bytes (33 KB)
+==================================================
+downloaded 33 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Rsamtools_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 2925866 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biostrings_2.74.1.tar.gz'
+Content type 'application/x-gzip' length 12823307 bytes (12.2 MB)
+==================================================
+downloaded 12.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationDbi_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 4378038 bytes (4.2 MB)
+==================================================
+downloaded 4.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rtracklayer_1.66.0.tar.gz'
+Content type 'application/x-gzip' length 4112666 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BSgenome_1.74.0.tar.gz'
+Content type 'application/x-gzip' length 5903543 bytes (5.6 MB)
+==================================================
+downloaded 5.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicFeatures_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 571678 bytes (558 KB)
+==================================================
+downloaded 558 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/pwalign_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 355962 bytes (347 KB)
+==================================================
+downloaded 347 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicAlignments_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 2273284 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ensembldb_2.30.0.tar.gz'
+Content type 'application/x-gzip' length 3540522 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationFilter_1.30.0.tar.gz'
+Content type 'application/x-gzip' length 325433 bytes (317 KB)
+==================================================
+downloaded 317 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/OrganismDbi_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 397994 bytes (388 KB)
+==================================================
+downloaded 388 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/config_0.3.2.tar.gz'
+Content type 'binary/octet-stream' length 102879 bytes (100 KB)
+==================================================
+downloaded 100 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lintr_3.2.0.tar.gz'
+Content type 'binary/octet-stream' length 1380412 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicRanges_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 1374658 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/VariantAnnotation_1.52.0.tar.gz'
+Content type 'application/x-gzip' length 2146415 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/StructuralVariantAnnotation_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 999668 bytes (976 KB)
+==================================================
+downloaded 976 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/biovizBase_1.54.0.tar.gz'
+Content type 'application/x-gzip' length 2517547 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ggbio_1.54.0.tar.gz'
+Content type 'application/x-gzip' length 3251015 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/shiny.gosling_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 1801621 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+* installing *binary* package ‘xmlparsedata’ ...
+* ‘xmlparsedata’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘xmlparsedata’ as ‘xmlparsedata_1.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (xmlparsedata)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-IRanges’
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-MatrixGenerics’
+* installing *binary* package ‘config’ ...
+* ‘config’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘config’ as ‘config_0.3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (config)
+* installing *source* package ‘shiny.gosling’ ...
+** package ‘shiny.gosling’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘shiny.gosling’ as ‘shiny.gosling_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shiny.gosling)
+ERROR: dependencies ‘IRanges’, ‘XVector’ are not available for package ‘SparseArray’
+* removing ‘/mnt/library/SparseArray’
+ERROR: dependencies ‘IRanges’, ‘XVector’ are not available for package ‘Biostrings’
+* removing ‘/mnt/library/Biostrings’
+* installing *binary* package ‘lintr’ ...
+* ‘lintr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lintr’ as ‘lintr_3.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lintr)
+ERROR: dependencies ‘IRanges’, ‘XVector’ are not available for package ‘GenomicRanges’
+* removing ‘/mnt/library/GenomicRanges’
+ERROR: dependencies ‘IRanges’, ‘SparseArray’ are not available for package ‘DelayedArray’
+* removing ‘/mnt/library/DelayedArray’
+ERROR: dependency ‘Biostrings’ is not available for package ‘KEGGREST’
+* removing ‘/mnt/library/KEGGREST’
+ERROR: dependencies ‘GenomicRanges’, ‘Biostrings’, ‘IRanges’, ‘XVector’ are not available for package ‘Rsamtools’
+* removing ‘/mnt/library/Rsamtools’
+ERROR: dependencies ‘IRanges’, ‘Biostrings’, ‘XVector’ are not available for package ‘pwalign’
+* removing ‘/mnt/library/pwalign’
+ERROR: dependency ‘GenomicRanges’ is not available for package ‘AnnotationFilter’
+* removing ‘/mnt/library/AnnotationFilter’
+ERROR: dependencies ‘GenomicRanges’, ‘IRanges’, ‘DelayedArray’ are not available for package ‘SummarizedExperiment’
+* removing ‘/mnt/library/SummarizedExperiment’
+ERROR: dependencies ‘IRanges’, ‘KEGGREST’ are not available for package ‘AnnotationDbi’
+* removing ‘/mnt/library/AnnotationDbi’
+ERROR: dependency ‘AnnotationDbi’ is not available for package ‘biomaRt’
+* removing ‘/mnt/library/biomaRt’
+ERROR: dependencies ‘IRanges’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘Biostrings’, ‘Rsamtools’ are not available for package ‘GenomicAlignments’
+* removing ‘/mnt/library/GenomicAlignments’
+ERROR: dependencies ‘GenomicRanges’, ‘IRanges’, ‘XVector’, ‘Biostrings’, ‘Rsamtools’, ‘GenomicAlignments’ are not available for package ‘rtracklayer’
+* removing ‘/mnt/library/rtracklayer’
+ERROR: dependencies ‘IRanges’, ‘GenomicRanges’, ‘Biostrings’, ‘rtracklayer’, ‘XVector’, ‘Rsamtools’ are not available for package ‘BSgenome’
+* removing ‘/mnt/library/BSgenome’
+ERROR: dependencies ‘IRanges’, ‘GenomicRanges’, ‘AnnotationDbi’, ‘XVector’, ‘Biostrings’, ‘rtracklayer’ are not available for package ‘GenomicFeatures’
+* removing ‘/mnt/library/GenomicFeatures’
+ERROR: dependencies ‘GenomicRanges’, ‘GenomicFeatures’, ‘IRanges’, ‘AnnotationDbi’, ‘rtracklayer’, ‘biomaRt’ are not available for package ‘txdbmaker’
+* removing ‘/mnt/library/txdbmaker’
+ERROR: dependencies ‘GenomicRanges’, ‘GenomicFeatures’, ‘AnnotationFilter’, ‘AnnotationDbi’, ‘rtracklayer’, ‘Rsamtools’, ‘IRanges’, ‘Biostrings’ are not available for package ‘ensembldb’
+* removing ‘/mnt/library/ensembldb’
+ERROR: dependencies ‘GenomicRanges’, ‘SummarizedExperiment’, ‘Rsamtools’, ‘IRanges’, ‘XVector’, ‘Biostrings’, ‘AnnotationDbi’, ‘rtracklayer’, ‘BSgenome’, ‘GenomicFeatures’ are not available for package ‘VariantAnnotation’
+* removing ‘/mnt/library/VariantAnnotation’
+ERROR: dependencies ‘AnnotationDbi’, ‘GenomicFeatures’, ‘IRanges’, ‘GenomicRanges’, ‘txdbmaker’ are not available for package ‘OrganismDbi’
+* removing ‘/mnt/library/OrganismDbi’
+ERROR: dependencies ‘GenomicRanges’, ‘rtracklayer’, ‘VariantAnnotation’, ‘Biostrings’, ‘pwalign’, ‘GenomicFeatures’, ‘IRanges’, ‘SummarizedExperiment’ are not available for package ‘StructuralVariantAnnotation’
+* removing ‘/mnt/library/StructuralVariantAnnotation’
+ERROR: dependencies ‘IRanges’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘Biostrings’, ‘Rsamtools’, ‘GenomicAlignments’, ‘GenomicFeatures’, ‘AnnotationDbi’, ‘VariantAnnotation’, ‘ensembldb’, ‘AnnotationFilter’ are not available for package ‘biovizBase’
+* removing ‘/mnt/library/biovizBase’
+ERROR: dependencies ‘biovizBase’, ‘IRanges’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘Biostrings’, ‘Rsamtools’, ‘GenomicAlignments’, ‘BSgenome’, ‘VariantAnnotation’, ‘rtracklayer’, ‘GenomicFeatures’, ‘OrganismDbi’, ‘ensembldb’, ‘AnnotationDbi’, ‘AnnotationFilter’ are not available for package ‘ggbio’
+* removing ‘/mnt/library/ggbio’
+
+The downloaded source packages are in
+	‘/tmp/RtmpMh6fNb/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+There were 24 warnings (use warnings() to see them)
+
+real	1m12.078s
+user	0m15.110s
+sys	0m9.352s

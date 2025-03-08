@@ -404,3 +404,11 @@ seqTools
 sights
 ternarynet
 tomoseqr
+AnVILPublish
+AnVILWorkflow
+HubPub
+PROcess
+SNPRelate
+alevinQC
+ggtree
+wppi
