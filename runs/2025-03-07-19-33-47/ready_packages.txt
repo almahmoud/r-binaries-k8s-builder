@@ -1,8 +1,3 @@
-AnVILPublish
-AnVILWorkflow
-HubPub
-PROcess
-SNPRelate
-alevinQC
-ggtree
-wppi
+DeepPINCS
+fobitools
+metapone
