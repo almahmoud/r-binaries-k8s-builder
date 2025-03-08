@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2100 packages built successfully
+- 2107 packages built successfully
 - 0 packages failed to build
-- 133 packages not yet processed
+- 126 packages not yet processed
 
 
-## Successfully Built (2100)
+## Successfully Built (2107)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2112,8 +2112,15 @@
 | [gwascat](https://bioconductor.org/packages/3.20/bioc/html/gwascat.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/gwascat/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gwascat)                     |
 | [svaNUMT](https://bioconductor.org/packages/3.20/bioc/html/svaNUMT.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/svaNUMT/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/svaNUMT)                     |
 | [svaRetro](https://bioconductor.org/packages/3.20/bioc/html/svaRetro.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/svaRetro/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/svaRetro)                    |
+| [CNVrd2](https://bioconductor.org/packages/3.20/bioc/html/CNVrd2.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/CNVrd2/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNVrd2)                      |
+| [DAMEfinder](https://bioconductor.org/packages/3.20/bioc/html/DAMEfinder.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/DAMEfinder/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DAMEfinder)                  |
+| [HelloRanges](https://bioconductor.org/packages/3.20/bioc/html/HelloRanges.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/HelloRanges/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HelloRanges)                 |
+| [demuxSNP](https://bioconductor.org/packages/3.20/bioc/html/demuxSNP.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/demuxSNP/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/demuxSNP)                    |
+| [derfinder](https://bioconductor.org/packages/3.20/bioc/html/derfinder.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/derfinder/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/derfinder)                   |
+| [gwasurvivr](https://bioconductor.org/packages/3.20/bioc/html/gwasurvivr.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/gwasurvivr/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gwasurvivr)                  |
+| [missMethyl](https://bioconductor.org/packages/3.20/bioc/html/missMethyl.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/missMethyl/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/missMethyl)                  |
 
-## Not Yet Processed (133)
+## Not Yet Processed (126)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                           | Unprocessed |
@@ -2126,11 +2133,9 @@
 | [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)                                           | Unprocessed |
 | [CNVfilteR](https://bioconductor.org/packages/3.20/bioc/html/CNVfilteR.html)                                   | Unprocessed |
 | [CNViz](https://bioconductor.org/packages/3.20/bioc/html/CNViz.html)                                           | Unprocessed |
-| [CNVrd2](https://bioconductor.org/packages/3.20/bioc/html/CNVrd2.html)                                         | Unprocessed |
 | [ChAMP](https://bioconductor.org/packages/3.20/bioc/html/ChAMP.html)                                           | Unprocessed |
 | [ChIPexoQual](https://bioconductor.org/packages/3.20/bioc/html/ChIPexoQual.html)                               | Unprocessed |
 | [CopyNumberPlots](https://bioconductor.org/packages/3.20/bioc/html/CopyNumberPlots.html)                       | Unprocessed |
-| [DAMEfinder](https://bioconductor.org/packages/3.20/bioc/html/DAMEfinder.html)                                 | Unprocessed |
 | [DMRcate](https://bioconductor.org/packages/3.20/bioc/html/DMRcate.html)                                       | Unprocessed |
 | [Damsel](https://bioconductor.org/packages/3.20/bioc/html/Damsel.html)                                         | Unprocessed |
 | [DuplexDiscovereR](https://bioconductor.org/packages/3.20/bioc/html/DuplexDiscovereR.html)                     | Unprocessed |
@@ -2143,7 +2148,6 @@
 | [GenomicOZone](https://bioconductor.org/packages/3.20/bioc/html/GenomicOZone.html)                             | Unprocessed |
 | [GmicR](https://bioconductor.org/packages/3.20/bioc/html/GmicR.html)                                           | Unprocessed |
 | [Gviz](https://bioconductor.org/packages/3.20/bioc/html/Gviz.html)                                             | Unprocessed |
-| [HelloRanges](https://bioconductor.org/packages/3.20/bioc/html/HelloRanges.html)                               | Unprocessed |
 | [HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)                                   | Unprocessed |
 | [MEAL](https://bioconductor.org/packages/3.20/bioc/html/MEAL.html)                                             | Unprocessed |
 | [MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)                                             | Unprocessed |
@@ -2195,8 +2199,6 @@
 | [crisprViz](https://bioconductor.org/packages/3.20/bioc/html/crisprViz.html)                                   | Unprocessed |
 | [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                                 | Unprocessed |
 | [dagLogo](https://bioconductor.org/packages/3.20/bioc/html/dagLogo.html)                                       | Unprocessed |
-| [demuxSNP](https://bioconductor.org/packages/3.20/bioc/html/demuxSNP.html)                                     | Unprocessed |
-| [derfinder](https://bioconductor.org/packages/3.20/bioc/html/derfinder.html)                                   | Unprocessed |
 | [derfinderPlot](https://bioconductor.org/packages/3.20/bioc/html/derfinderPlot.html)                           | Unprocessed |
 | [dreamlet](https://bioconductor.org/packages/3.20/bioc/html/dreamlet.html)                                     | Unprocessed |
 | [enhancerHomologSearch](https://bioconductor.org/packages/3.20/bioc/html/enhancerHomologSearch.html)           | Unprocessed |
@@ -2207,7 +2209,6 @@
 | [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                             | Unprocessed |
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                                   | Unprocessed |
 | [ggbio](https://bioconductor.org/packages/3.20/bioc/html/ggbio.html)                                           | Unprocessed |
-| [gwasurvivr](https://bioconductor.org/packages/3.20/bioc/html/gwasurvivr.html)                                 | Unprocessed |
 | [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                                         | Unprocessed |
 | [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                                   | Unprocessed |
 | [ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)                                           | Unprocessed |
@@ -2220,7 +2221,6 @@
 | [methylPipe](https://bioconductor.org/packages/3.20/bioc/html/methylPipe.html)                                 | Unprocessed |
 | [methylclock](https://bioconductor.org/packages/3.20/bioc/html/methylclock.html)                               | Unprocessed |
 | [miRLAB](https://bioconductor.org/packages/3.20/bioc/html/miRLAB.html)                                         | Unprocessed |
-| [missMethyl](https://bioconductor.org/packages/3.20/bioc/html/missMethyl.html)                                 | Unprocessed |
 | [mitoClone2](https://bioconductor.org/packages/3.20/bioc/html/mitoClone2.html)                                 | Unprocessed |
 | [motifbreakR](https://bioconductor.org/packages/3.20/bioc/html/motifbreakR.html)                               | Unprocessed |
 | [msgbsR](https://bioconductor.org/packages/3.20/bioc/html/msgbsR.html)                                         | Unprocessed |

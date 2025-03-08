@@ -1,4 +1,4 @@
-SingleMoleculeFootprinting
-circRNAprofiler
-mitoClone2
-vtpnet
+OMICsPCA
+methylGSA
+recount
+regionReport

@@ -155,6 +155,7 @@ CNTools
 CNVMetrics
 CNVPanelizer
 CNVRanger
+CNVrd2
 COCOA
 CODEX
 COMPASS
@@ -232,6 +233,7 @@ CytoMDS
 CytoML
 CytoPipeline
 CytoPipelineGUI
+DAMEfinder
 DAPAR
 DART
 DCATS
@@ -444,6 +446,7 @@ Harman
 HarmonizR
 Harshlight
 Heatplus
+HelloRanges
 Herper
 HiCBricks
 HiCDOC
@@ -1244,8 +1247,10 @@ decoupleR
 deepSNV
 deltaCaptureC
 deltaGseg
+demuxSNP
 demuxmix
 densvis
+derfinder
 derfinderHelper
 destiny
 diffGeneAnalysis
@@ -1430,6 +1435,7 @@ gscreend
 gsean
 gtrellis
 gwascat
+gwasurvivr
 gypsum
 h5vc
 hapFabia
@@ -1605,6 +1611,7 @@ minet
 minfi
 mirIntegrator
 mirTarRnaSeq
+missMethyl
 missRows
 mistyR
 mitch

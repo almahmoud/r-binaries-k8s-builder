@@ -2098,3 +2098,10 @@ gwascat
 QuasR
 svaNUMT
 svaRetro
+CNVrd2
+DAMEfinder
+demuxSNP
+derfinder
+gwasurvivr
+HelloRanges
+missMethyl

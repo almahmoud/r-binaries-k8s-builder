@@ -1,0 +1,84 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'missMethyl'
+also installing the dependencies ‘IlluminaHumanMethylationEPICv2anno.20a1.hg38’, ‘DMRcate’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/IlluminaHumanMethylationEPICv2anno.20a1.hg38_1.0.0.tar.gz'
+Content type 'application/x-gzip' length 156309587 bytes (149.1 MB)
+==================================================
+downloaded 149.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DMRcate_3.2.1.tar.gz'
+Content type 'application/x-gzip' length 838840 bytes (819 KB)
+==================================================
+downloaded 819 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/missMethyl_1.40.3.tar.gz'
+Content type 'application/x-gzip' length 1500646 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+* installing *source* package ‘IlluminaHumanMethylationEPICv2anno.20a1.hg38’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘IlluminaHumanMethylationEPICv2anno.20a1.hg38’ as ‘IlluminaHumanMethylationEPICv2anno.20a1.hg38_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (IlluminaHumanMethylationEPICv2anno.20a1.hg38)
+* installing *source* package ‘missMethyl’ ...
+** package ‘missMethyl’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘missMethyl’ as ‘missMethyl_1.40.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (missMethyl)
+* installing *source* package ‘DMRcate’ ...
+** package ‘DMRcate’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DMRcate’ as ‘DMRcate_3.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DMRcate)
+
+The downloaded source packages are in
+	‘/tmp/RtmpOp3uTh/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+
+real	22m44.163s
+user	20m17.640s
+sys	0m52.475s
