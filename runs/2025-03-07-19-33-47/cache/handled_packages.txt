@@ -11,6 +11,8 @@ AnVILAz
 AnVILBase
 AnVILBilling
 AnVILGCP
+AnVILPublish
+AnVILWorkflow
 BADER
 BEclear
 BG2
@@ -86,6 +88,7 @@ PhenoGeneRanker
 PoDCall
 ProtGenerics
 QUBIC
+RNASeqPower
 RProtoBufLib
 Rbwa
 Rcollectl
@@ -97,9 +100,11 @@ SCFA
 SLqPCR
 SMAD
 SNAGEE
+SNPRelate
 SNPediaR
 STRINGdb
 SamSPECTRAL
+SpaceMarkers
 Summix
 SwathXtend
 TSAR
@@ -111,6 +116,7 @@ XINA
 acde
 affxparser
 agilp
+alevinQC
 antiProfiles
 bacon
 biobtreeR
@@ -155,6 +161,7 @@ geneplast
 genoCN
 genomes
 geva
+ggtree
 globalSeq
 gpls
 granulator
@@ -186,12 +193,16 @@ metahdep
 minet
 mirTarRnaSeq
 netprioR
+occugene
+omada
+ompBAM
 onlineFDR
 pathifier
 pickgene
 planet
 plasmut
 plotGrouper
+pmm
 powerTCR
 preprocessCore
 proteinProfiles
@@ -206,6 +217,7 @@ rgoslin
 rmelting
 rnaseqcomp
 rsemmed
+sSeq
 scRecover
 scShapes
 scTHI
@@ -220,7 +232,12 @@ similaRpeak
 sincell
 sizepower
 snm
+sparsenetgls
+specL
+spikeLI
 ssize
+ssrch
+survcomp
 swfdr
 switchBox
 synergyfinder
@@ -238,5 +255,6 @@ vbmp
 veloviz
 weaver
 widgetTools
+wppi
 xmapbridge
 zlibbioc
