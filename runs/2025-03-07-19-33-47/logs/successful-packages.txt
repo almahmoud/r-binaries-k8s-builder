@@ -1969,3 +1969,9 @@ beadarray
 methylumi
 npGSEA
 splineTimeR
+AUCell
+CNEr
+GlobalAncova
+mastR
+PROMISE
+TFutils

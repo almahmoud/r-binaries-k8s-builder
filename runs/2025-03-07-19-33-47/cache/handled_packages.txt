@@ -23,6 +23,7 @@ ASICS
 ASSET
 ASSIGN
 ASURAT
+AUCell
 AWFisher
 AffiXcan
 AffyRNADegradation
@@ -136,6 +137,7 @@ CIMICE
 CINdex
 CMA
 CNAnorm
+CNEr
 CNORdt
 CNORfeeder
 CNORfuzzy
@@ -392,6 +394,7 @@ GeomxTools
 GladiaTOX
 Glimma
 GloScope
+GlobalAncova
 GrafGen
 GraphAT
 GraphAlignment
@@ -656,6 +659,7 @@ PLSDAbatch
 POWSC
 PPInfer
 PREDA
+PROMISE
 PROPER
 PROPS
 PROcess
@@ -895,6 +899,7 @@ TEQC
 TFARM
 TFEA.ChIP
 TFHAZ
+TFutils
 TIN
 TMixClust
 TOAST
@@ -1439,6 +1444,7 @@ marray
 martini
 maskBAD
 massiR
+mastR
 matchBox
 matter
 mbQTL

@@ -1,6 +1,3 @@
-RnBeads
-arrayQualityMetrics
-blima
-epigenomix
-lumi
-missMethyl
+CCPROMISE
+RcisTarget
+TFBSTools
