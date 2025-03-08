@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2060 packages built successfully
+- 2061 packages built successfully
 - 0 packages failed to build
-- 173 packages not yet processed
+- 172 packages not yet processed
 
 
-## Successfully Built (2060)
+## Successfully Built (2061)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -2072,8 +2072,9 @@
 | [epivizrChart](https://bioconductor.org/packages/3.20/bioc/html/epivizrChart.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/epivizrChart/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epivizrChart)               |
 | [igvR](https://bioconductor.org/packages/3.20/bioc/html/igvR.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/igvR/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/igvR)                       |
 | [singscore](https://bioconductor.org/packages/3.20/bioc/html/singscore.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/singscore/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/singscore)                  |
+| [GSVA](https://bioconductor.org/packages/3.20/bioc/html/GSVA.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/GSVA/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSVA)                       |
 
-## Not Yet Processed (173)
+## Not Yet Processed (172)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                             | Unprocessed |
@@ -2102,7 +2103,6 @@
 | [GA4GHclient](https://bioconductor.org/packages/3.20/bioc/html/GA4GHclient.html)                                 | Unprocessed |
 | [GA4GHshiny](https://bioconductor.org/packages/3.20/bioc/html/GA4GHshiny.html)                                   | Unprocessed |
 | [GOstats](https://bioconductor.org/packages/3.20/bioc/html/GOstats.html)                                         | Unprocessed |
-| [GSVA](https://bioconductor.org/packages/3.20/bioc/html/GSVA.html)                                               | Unprocessed |
 | [GenVisR](https://bioconductor.org/packages/3.20/bioc/html/GenVisR.html)                                         | Unprocessed |
 | [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)                   | Unprocessed |
 | [GenomicFiles](https://bioconductor.org/packages/3.20/bioc/html/GenomicFiles.html)                               | Unprocessed |

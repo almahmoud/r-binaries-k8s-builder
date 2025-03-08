@@ -2058,3 +2058,4 @@
 ['[epivizrChart](https://bioconductor.org/packages/3.20/bioc/html/epivizrChart.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/epivizrChart/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epivizrChart)']
 ['[igvR](https://bioconductor.org/packages/3.20/bioc/html/igvR.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/igvR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/igvR)']
 ['[singscore](https://bioconductor.org/packages/3.20/bioc/html/singscore.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/singscore/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/singscore)']
+['[GSVA](https://bioconductor.org/packages/3.20/bioc/html/GSVA.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/GSVA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSVA)']

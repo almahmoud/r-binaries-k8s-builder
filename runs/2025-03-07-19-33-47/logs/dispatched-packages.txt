@@ -2117,3 +2117,9 @@ methodical
 methylclock
 scTreeViz
 CRISPRball
+EGSEA
+escape
+octad
+oppar
+scFeatures
+singleCellTK

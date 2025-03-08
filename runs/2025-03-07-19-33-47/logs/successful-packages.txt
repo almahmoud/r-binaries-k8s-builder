@@ -2058,3 +2058,4 @@ igvR
 IMAS
 IsoformSwitchAnalyzeR
 singscore
+GSVA

@@ -377,6 +377,7 @@ GSEAlm
 GSEAmining
 GSRI
 GSReg
+GSVA
 GSgalgoR
 GUIDEseq
 GWAS.BAYES
