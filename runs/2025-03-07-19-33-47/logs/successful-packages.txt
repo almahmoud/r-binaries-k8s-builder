@@ -1964,3 +1964,8 @@ esetVis
 omXplore
 PanomiR
 vissE
+AGDEX
+beadarray
+methylumi
+npGSEA
+splineTimeR

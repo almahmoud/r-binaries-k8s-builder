@@ -1,1 +1,6 @@
-miRSM
+RnBeads
+arrayQualityMetrics
+blima
+epigenomix
+lumi
+missMethyl

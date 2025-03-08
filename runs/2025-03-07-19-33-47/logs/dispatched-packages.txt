@@ -2013,3 +2013,9 @@ splineTimeR
 vissE
 yarn
 miRSM
+RnBeads
+arrayQualityMetrics
+blima
+epigenomix
+lumi
+missMethyl

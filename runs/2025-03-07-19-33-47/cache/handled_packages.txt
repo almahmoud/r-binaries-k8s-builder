@@ -7,6 +7,7 @@ ADAMgui
 ADAPT
 ADImpute
 ADaCGH2
+AGDEX
 AIMS
 ALDEx2
 AMARETTO
@@ -1011,6 +1012,7 @@ baySeq
 bcSeq
 beachmat
 beachmat.hdf5
+beadarray
 beer
 benchdamic
 betaHMM
@@ -1470,6 +1472,7 @@ methylKit
 methylMnM
 methylSig
 methylscaper
+methylumi
 mfa
 mgsa
 miQC
@@ -1548,6 +1551,7 @@ nnNorm
 nnSVG
 normalize450K
 normr
+npGSEA
 nuCpos
 nucleR
 nucleoSim
@@ -1842,6 +1846,7 @@ spiky
 spillR
 spkTools
 splatter
+splineTimeR
 splots
 spoon
 spqn
