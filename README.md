@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2171 packages built successfully
+- 2173 packages built successfully
 - 0 packages failed to build
-- 62 packages not yet processed
+- 60 packages not yet processed
 
 
-## Successfully Built (2171)
+## Successfully Built (2173)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2183,8 +2183,10 @@
 | [epiregulon](https://bioconductor.org/packages/3.20/bioc/html/epiregulon.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/epiregulon/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epiregulon)                  |
 | [scTreeViz](https://bioconductor.org/packages/3.20/bioc/html/scTreeViz.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/scTreeViz/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scTreeViz)                   |
 | [uncoverappLib](https://bioconductor.org/packages/3.20/bioc/html/uncoverappLib.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/uncoverappLib/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/uncoverappLib)               |
+| [crisprShiny](https://bioconductor.org/packages/3.20/bioc/html/crisprShiny.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/crisprShiny/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/crisprShiny)                 |
+| [methylclock](https://bioconductor.org/packages/3.20/bioc/html/methylclock.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/methylclock/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methylclock)                 |
 
-## Not Yet Processed (62)
+## Not Yet Processed (60)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                     | Unprocessed |
@@ -2223,7 +2225,6 @@
 | [cicero](https://bioconductor.org/packages/3.20/bioc/html/cicero.html)                               | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                               | Unprocessed |
 | [compEpiTools](https://bioconductor.org/packages/3.20/bioc/html/compEpiTools.html)                   | Unprocessed |
-| [crisprShiny](https://bioconductor.org/packages/3.20/bioc/html/crisprShiny.html)                     | Unprocessed |
 | [crisprVerse](https://bioconductor.org/packages/3.20/bioc/html/crisprVerse.html)                     | Unprocessed |
 | [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                       | Unprocessed |
 | [dagLogo](https://bioconductor.org/packages/3.20/bioc/html/dagLogo.html)                             | Unprocessed |
@@ -2235,7 +2236,6 @@
 | [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                         | Unprocessed |
 | [ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)                                 | Unprocessed |
 | [mCSEA](https://bioconductor.org/packages/3.20/bioc/html/mCSEA.html)                                 | Unprocessed |
-| [methylclock](https://bioconductor.org/packages/3.20/bioc/html/methylclock.html)                     | Unprocessed |
 | [miRLAB](https://bioconductor.org/packages/3.20/bioc/html/miRLAB.html)                               | Unprocessed |
 | [netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)                             | Unprocessed |
 | [octad](https://bioconductor.org/packages/3.20/bioc/html/octad.html)                                 | Unprocessed |

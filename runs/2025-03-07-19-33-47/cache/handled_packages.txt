@@ -1245,6 +1245,7 @@ crisprBowtie
 crisprBwa
 crisprDesign
 crisprScore
+crisprShiny
 crisprViz
 crlmm
 csaw
@@ -1630,6 +1631,7 @@ methylKit
 methylMnM
 methylPipe
 methylSig
+methylclock
 methylscaper
 methylumi
 mfa
