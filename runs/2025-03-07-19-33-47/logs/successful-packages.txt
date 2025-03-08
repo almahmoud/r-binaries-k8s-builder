@@ -1987,3 +1987,11 @@ mogsa
 sparrow
 TissueEnrich
 TMSig
+BioCor
+blima
+Category
+CCPROMISE
+epigenomix
+miRSM
+seqCAT
+TFBSTools

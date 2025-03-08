@@ -1,3 +1,10 @@
-GSEABenchmarkeR
-scClassify
-zenith
+GOstats
+MatrixRider
+MethReg
+chromVAR
+interactiveDisplay
+meshr
+monaLisa
+motifStack
+motifmatchr
+phenoTest

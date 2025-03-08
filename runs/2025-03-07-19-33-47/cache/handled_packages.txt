@@ -84,6 +84,7 @@ BiSeq
 BicARE
 BindingSiteFinder
 BioCartaImage
+BioCor
 BioGA
 BioMVCClass
 BioNAR
@@ -122,6 +123,7 @@ CARNIVAL
 CATALYST
 CBEA
 CBNplot
+CCPROMISE
 CCPlotR
 CDI
 CEMiTool
@@ -165,6 +167,7 @@ CaDrA
 CaMutQC
 Cardinal
 CardinalIO
+Category
 CatsCradle
 CausalR
 CeTF
@@ -900,6 +903,7 @@ TEKRABber
 TENxIO
 TEQC
 TFARM
+TFBSTools
 TFEA.ChIP
 TFHAZ
 TFutils
@@ -1047,6 +1051,7 @@ biomaRt
 biomformat
 biosigner
 biotmle
+blima
 bluster
 borealis
 branchpointer
@@ -1214,6 +1219,7 @@ ensembldb
 epiNEM
 epialleleR
 epidecodeR
+epigenomix
 epigraHMM
 epiregulon.extra
 epistack
@@ -1494,6 +1500,7 @@ miRBaseConverter
 miRNAmeConverter
 miRNApath
 miRNAtap
+miRSM
 miRcomp
 miRspongeR
 mia
@@ -1815,6 +1822,7 @@ seq.hotSPOT
 seq2pathway
 seqArchR
 seqArchRplus
+seqCAT
 seqLogo
 seqPattern
 seqTools
