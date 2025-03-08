@@ -70,6 +70,7 @@ CNORfeeder
 CNORfuzzy
 CNORode
 COMPASS
+CONFESS
 CONSTANd
 COSNet
 CRImage
@@ -107,6 +108,7 @@ DTA
 DeMAND
 DeconRNASeq
 DeepPINCS
+DelayedArray
 DepInfeR
 DepecheR
 DiffLogo
@@ -131,6 +133,7 @@ FISHalyseR
 FRGEpistasis
 FamAgg
 FitHiC
+FlowSOM
 GAprediction
 GEM
 GENIE3
@@ -656,6 +659,7 @@ omada
 ompBAM
 onlineFDR
 oppti
+optimalFlow
 paircompviz
 pandaR
 panp

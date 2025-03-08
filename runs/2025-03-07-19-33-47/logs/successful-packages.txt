@@ -796,3 +796,7 @@ MsBackendRawFileReader
 MsBackendSql
 simona
 updateObject
+CONFESS
+DelayedArray
+FlowSOM
+optimalFlow
