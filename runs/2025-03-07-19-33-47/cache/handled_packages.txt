@@ -49,6 +49,7 @@ BiocPkgTools
 BiocStyle
 BiocVersion
 BiocWorkflowTools
+Biostrings
 BridgeDbR
 BrowserViz
 BufferedMatrix
@@ -109,6 +110,9 @@ DeMAND
 DeconRNASeq
 DeepPINCS
 DelayedArray
+DelayedDataFrame
+DelayedMatrixStats
+DelayedRandomArray
 DepInfeR
 DepecheR
 DiffLogo
@@ -163,9 +167,11 @@ GeneOverlap
 GeneSelectMMD
 GeneticsPed
 GenomeInfoDb
+GenomicRanges
 GladiaTOX
 GraphAT
 GraphAlignment
+HDF5Array
 HDTD
 HELP
 HEM
@@ -193,6 +199,7 @@ ISAnalytics
 ISoLDE
 Icens
 Informeasure
+InteractiveComplexHeatmap
 IntramiRExploreR
 IsoCorrectoR
 IsoCorrectoRGUI
@@ -231,6 +238,7 @@ MeasurementError.cor
 Mergeomics
 MetCirc
 MetID
+MetaCyto
 MetaboCoreUtils
 MethPed
 MethylMix
@@ -316,6 +324,7 @@ RUVcorr
 RUVnormalize
 RVS
 RankProd
+Rarr
 RbcBook1
 Rbowtie
 Rbwa
@@ -328,6 +337,7 @@ ReactomeGSA
 ReadqPCR
 RedeR
 RedisParam
+ResidualMatrix
 Rfastp
 Rgraphviz
 Rhdf5lib
@@ -354,11 +364,13 @@ SNPRelate
 SNPediaR
 SPEM
 SPIA
+SQLDataFrame
 SRAdb
 STATegRa
 STRINGdb
 SUITOR
 SamSPECTRAL
+ScaledMatrix
 Sconify
 ScreenR
 SharedObject
@@ -378,6 +390,7 @@ TSAR
 TargetDecoy
 TargetScore
 TargetSearch
+TileDBArray
 TrajectoryGeometry
 TreeAndLeaf
 TurboNorm
@@ -395,6 +408,7 @@ a4Reporting
 aCGH
 abseqR
 acde
+adverSCarial
 affxparser
 affy
 affyContam
@@ -415,6 +429,7 @@ bacon
 banocc
 basilisk
 basilisk.utils
+beachmat
 bioDist
 bioassayR
 biobroom
@@ -450,6 +465,7 @@ clustComp
 clusterStab
 coGPS
 cogena
+cola
 compSPOT
 compcodeR
 consensus
@@ -526,6 +542,7 @@ flowSpecs
 flowTime
 flowTrans
 flowViz
+flowWorkspace
 flowcatchR
 fmcsR
 fmrs
@@ -660,6 +677,7 @@ ompBAM
 onlineFDR
 oppti
 optimalFlow
+orthogene
 paircompviz
 pandaR
 panp
@@ -711,6 +729,7 @@ retrofit
 rexposome
 rgoslin
 rhdf5
+rhdf5client
 rhdf5filters
 ribor
 rmelting
@@ -747,6 +766,7 @@ simona
 sincell
 sitePath
 sizepower
+sketchR
 snifter
 snm
 snpStats
