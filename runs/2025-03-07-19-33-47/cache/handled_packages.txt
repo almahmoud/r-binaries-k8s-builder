@@ -26,6 +26,7 @@ AnVILGCP
 AnVILPublish
 AnVILWorkflow
 AnnotationFilter
+ArrayExpress
 AssessORF
 BADER
 BAGS
@@ -106,6 +107,7 @@ Cardinal
 CardinalIO
 CatsCradle
 CausalR
+CellBench
 CellMapper
 CellNOptR
 ChemmineOB
@@ -338,6 +340,7 @@ MethylMix
 Mfuzz
 MiChip
 MiPP
+MicrobiotaProcess
 ModCon
 MoleculeExperiment
 MsBackendMassbank
@@ -520,6 +523,7 @@ SingleCellExperiment
 SingleR
 SpaceMarkers
 SparseArray
+SpatialCPie
 SpatialExperiment
 SpeCond
 Spectra
@@ -527,6 +531,7 @@ SpectraQL
 SplicingFactory
 SpotClean
 SpotSweeper
+StabMap
 Streamer
 Structstrings
 SummarizedExperiment
@@ -539,11 +544,14 @@ TENxIO
 TEQC
 TFARM
 TMixClust
+TOAST
 TPP
 TPP2D
+TREG
 TRONCO
 TSAR
 TSCAN
+TTMap
 TargetDecoy
 TargetScore
 TargetSearch
@@ -576,6 +584,7 @@ adverSCarial
 affxparser
 affy
 affyContam
+affyILM
 affycomp
 affyio
 aggregateBioVar
@@ -752,6 +761,7 @@ flowSpecs
 flowStats
 flowTime
 flowTrans
+flowVS
 flowViz
 flowWorkspace
 flowcatchR
@@ -759,6 +769,7 @@ fmcsR
 fmrs
 fobitools
 frenchFISH
+frma
 frmaTools
 gDRstyle
 gaga
@@ -822,6 +833,7 @@ idpr
 idr2d
 igvShiny
 illuminaio
+imcRtools
 immunoClust
 immunotation
 impute
@@ -854,6 +866,7 @@ makecdfenv
 mapscape
 marray
 martini
+maskBAD
 massiR
 matchBox
 matter
@@ -914,6 +927,7 @@ normalize450K
 nuCpos
 nucleoSim
 occugene
+odseq
 oligo
 oligoClasses
 omada
@@ -935,6 +949,7 @@ parody
 pathifier
 pathwayPCA
 pcaMethods
+pdInfoBuilder
 pengls
 pepStat
 pepXMLTab
@@ -966,6 +981,7 @@ profileScoreDist
 progeny
 projectR
 proteinProfiles
+puma
 pvac
 pvca
 pwalign
