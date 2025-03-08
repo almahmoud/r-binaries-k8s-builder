@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1318 packages built successfully
+- 1321 packages built successfully
 - 0 packages failed to build
-- 915 packages not yet processed
+- 912 packages not yet processed
 
 
-## Successfully Built (1318)
+## Successfully Built (1321)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1330,8 +1330,11 @@
 | [scDD](https://bioconductor.org/packages/3.20/bioc/html/scDD.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/scDD/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scDD)                       |
 | [spoon](https://bioconductor.org/packages/3.20/bioc/html/spoon.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/spoon/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spoon)                      |
 | [tidySpatialExperiment](https://bioconductor.org/packages/3.20/bioc/html/tidySpatialExperiment.html)           | Built    | [Log](runs/2025-03-07-19-33-47/logs/tidySpatialExperiment/build-success.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tidySpatialExperiment)      |
+| [FuseSOM](https://bioconductor.org/packages/3.20/bioc/html/FuseSOM.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/FuseSOM/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/FuseSOM)                    |
+| [Spaniel](https://bioconductor.org/packages/3.20/bioc/html/Spaniel.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/Spaniel/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Spaniel)                    |
+| [plotgardener](https://bioconductor.org/packages/3.20/bioc/html/plotgardener.html)                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/plotgardener/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/plotgardener)               |
 
-## Not Yet Processed (915)
+## Not Yet Processed (912)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADAM](https://bioconductor.org/packages/3.20/bioc/html/ADAM.html)                                               | Unprocessed |
@@ -1481,7 +1484,6 @@
 | [FLAMES](https://bioconductor.org/packages/3.20/bioc/html/FLAMES.html)                                           | Unprocessed |
 | [FRASER](https://bioconductor.org/packages/3.20/bioc/html/FRASER.html)                                           | Unprocessed |
 | [FindIT2](https://bioconductor.org/packages/3.20/bioc/html/FindIT2.html)                                         | Unprocessed |
-| [FuseSOM](https://bioconductor.org/packages/3.20/bioc/html/FuseSOM.html)                                         | Unprocessed |
 | [GA4GHclient](https://bioconductor.org/packages/3.20/bioc/html/GA4GHclient.html)                                 | Unprocessed |
 | [GA4GHshiny](https://bioconductor.org/packages/3.20/bioc/html/GA4GHshiny.html)                                   | Unprocessed |
 | [GARS](https://bioconductor.org/packages/3.20/bioc/html/GARS.html)                                               | Unprocessed |
@@ -1714,7 +1716,6 @@
 | [SigsPack](https://bioconductor.org/packages/3.20/bioc/html/SigsPack.html)                                       | Unprocessed |
 | [SingleMoleculeFootprinting](https://bioconductor.org/packages/3.20/bioc/html/SingleMoleculeFootprinting.html)   | Unprocessed |
 | [SomaticSignatures](https://bioconductor.org/packages/3.20/bioc/html/SomaticSignatures.html)                     | Unprocessed |
-| [Spaniel](https://bioconductor.org/packages/3.20/bioc/html/Spaniel.html)                                         | Unprocessed |
 | [SparseSignatures](https://bioconductor.org/packages/3.20/bioc/html/SparseSignatures.html)                       | Unprocessed |
 | [SpatialDecon](https://bioconductor.org/packages/3.20/bioc/html/SpatialDecon.html)                               | Unprocessed |
 | [SpatialOmicsOverlay](https://bioconductor.org/packages/3.20/bioc/html/SpatialOmicsOverlay.html)                 | Unprocessed |
@@ -2102,7 +2103,6 @@
 | [phenoTest](https://bioconductor.org/packages/3.20/bioc/html/phenoTest.html)                                     | Unprocessed |
 | [phenomis](https://bioconductor.org/packages/3.20/bioc/html/phenomis.html)                                       | Unprocessed |
 | [pipeFrame](https://bioconductor.org/packages/3.20/bioc/html/pipeFrame.html)                                     | Unprocessed |
-| [plotgardener](https://bioconductor.org/packages/3.20/bioc/html/plotgardener.html)                               | Unprocessed |
 | [plyinteractions](https://bioconductor.org/packages/3.20/bioc/html/plyinteractions.html)                         | Unprocessed |
 | [podkat](https://bioconductor.org/packages/3.20/bioc/html/podkat.html)                                           | Unprocessed |
 | [pogos](https://bioconductor.org/packages/3.20/bioc/html/pogos.html)                                             | Unprocessed |

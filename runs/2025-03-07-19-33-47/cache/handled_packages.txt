@@ -214,6 +214,7 @@ FeatSeekR
 FilterFFPE
 FitHiC
 FlowSOM
+FuseSOM
 GAprediction
 GBScleanR
 GDSArray
@@ -582,6 +583,7 @@ SingleCellSignalR
 SingleR
 SpaNorm
 SpaceMarkers
+Spaniel
 SparseArray
 SpatialCPie
 SpatialExperiment
@@ -1084,6 +1086,7 @@ plasmut
 plgem
 plier
 plotGrouper
+plotgardener
 plyranges
 plyxp
 pmm

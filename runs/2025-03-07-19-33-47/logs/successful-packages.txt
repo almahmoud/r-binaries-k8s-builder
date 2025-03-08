@@ -1316,3 +1316,6 @@ scDD
 SPIAT
 spoon
 tidySpatialExperiment
+FuseSOM
+plotgardener
+Spaniel
