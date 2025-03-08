@@ -2083,3 +2083,9 @@ monaLisa
 motifStack
 motifmatchr
 phenoTest
+AnnotationHubData
+GSReg
+appreci8R
+biscuiteer
+epivizrData
+iNETgrate

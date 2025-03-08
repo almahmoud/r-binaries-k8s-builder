@@ -1,10 +1,6 @@
-GOstats
-MatrixRider
-MethReg
-chromVAR
-interactiveDisplay
-meshr
-monaLisa
-motifStack
-motifmatchr
-phenoTest
+AnnotationHubData
+GSReg
+appreci8R
+biscuiteer
+epivizrData
+iNETgrate

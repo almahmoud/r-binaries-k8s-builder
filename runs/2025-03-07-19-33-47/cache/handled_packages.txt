@@ -14,6 +14,7 @@ AMARETTO
 AMOUNTAIN
 ANCOMBC
 ANF
+APAlyzer
 APL
 ARRmNormalization
 ASAFE
@@ -50,6 +51,7 @@ BAGS
 BANDITS
 BASiCS
 BASiCStan
+BBCAnalyzer
 BCRANK
 BEAT
 BERT
@@ -361,8 +363,10 @@ GSALightning
 GSAR
 GSCA
 GSEABase
+GSEABenchmarkeR
 GSEAlm
 GSEAmining
+GSRI
 GSgalgoR
 GUIDEseq
 GWAS.BAYES
@@ -648,6 +652,7 @@ OncoSimulR
 OpenStats
 OrderedList
 Organism.dplyr
+OrganismDbi
 Oscope
 OutSplice
 PADOG
@@ -760,6 +765,7 @@ Rbec
 Rbowtie
 Rbowtie2
 Rbwa
+RcisTarget
 Rcollectl
 Rcpi
 Rcwl
@@ -1007,6 +1013,7 @@ apComplex
 apeglm
 aroma.light
 arrayQuality
+arrayQualityMetrics
 artMS
 assorthead
 atena

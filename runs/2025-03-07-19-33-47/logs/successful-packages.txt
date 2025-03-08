@@ -1995,3 +1995,10 @@ epigenomix
 miRSM
 seqCAT
 TFBSTools
+APAlyzer
+arrayQualityMetrics
+BBCAnalyzer
+GSEABenchmarkeR
+GSRI
+OrganismDbi
+RcisTarget
