@@ -1752,3 +1752,6 @@ metaMS
 pathlinkR
 seqArchRplus
 MSnID
+coMethDMR
+magpie
+rnaEditr

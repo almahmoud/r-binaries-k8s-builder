@@ -1,1 +1,3 @@
-MSnID
+coMethDMR
+magpie
+rnaEditr

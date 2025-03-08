@@ -254,6 +254,7 @@ EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
 EnrichedHeatmap
+EpiCompare
 EpiDISH
 EpipwR
 ExCluster
@@ -565,6 +566,7 @@ PharmacoGx
 PhenStat
 PhenoGeneRanker
 PhosR
+PhyloProfile
 Pirat
 PoDCall
 PolySTest
@@ -648,6 +650,7 @@ Rgraphviz
 Rhdf5lib
 Rhtslib
 Rmagpie
+Rmmquant
 Rnits
 RolDE
 Rsamtools
@@ -737,6 +740,7 @@ SwathXtend
 SynExtend
 SynMut
 TADCompare
+TAPseq
 TCC
 TCseq
 TDbasedUFE
@@ -749,6 +753,7 @@ TOAST
 TPP
 TPP2D
 TREG
+TRESS
 TRONCO
 TSAR
 TSCAN
@@ -865,8 +870,10 @@ breakpointR
 brendaDb
 bsseq
 bugsigdbr
+bumphunter
 calm
 cancerclass
+casper
 cbpManager
 ccImpute
 ccfindR
@@ -1373,6 +1380,7 @@ ppcseq
 pqsfinder
 pram
 prebs
+preciseTAD
 preprocessCore
 proDA
 procoil

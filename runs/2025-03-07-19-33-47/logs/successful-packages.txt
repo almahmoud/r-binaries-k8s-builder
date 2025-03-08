@@ -1652,3 +1652,11 @@ msmsTests
 profileplyr
 rTRMui
 synapter
+bumphunter
+casper
+EpiCompare
+PhyloProfile
+preciseTAD
+Rmmquant
+TAPseq
+TRESS
