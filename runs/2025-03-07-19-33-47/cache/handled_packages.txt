@@ -283,6 +283,7 @@ EDASeq
 EDIRquery
 EGAD
 EMDomics
+ENmix
 ERSSA
 EWCE
 EasyCellType
@@ -348,6 +349,7 @@ GSCA
 GSEAlm
 GSEAmining
 GSgalgoR
+GUIDEseq
 GWAS.BAYES
 GWASTools
 GWENA
@@ -495,6 +497,7 @@ MEDIPS
 MEDME
 MEIGOR
 MGFM
+MGFR
 MGnifyR
 MICSQTL
 MIRA
@@ -553,6 +556,7 @@ MetaboCoreUtils
 MetaboSignal
 MethPed
 MethTargetedNGS
+MethylAid
 MethylMix
 MethylSeekR
 Mfuzz
@@ -565,6 +569,7 @@ MinimumDistance
 ModCon
 Modstrings
 MoleculeExperiment
+Moonlight2R
 Motif2Site
 MotifDb
 MouseFM
@@ -690,6 +695,7 @@ RCyjs
 RDRToolbox
 REBET
 REDseq
+REMP
 RGSEA
 RGraph2js
 RIVER
@@ -857,6 +863,7 @@ Structstrings
 SubCellBarCode
 SummarizedExperiment
 Summix
+SurfR
 SwathXtend
 SynExtend
 SynMut
@@ -873,6 +880,7 @@ TENxIO
 TEQC
 TFARM
 TFEA.ChIP
+TFHAZ
 TIN
 TMixClust
 TOAST

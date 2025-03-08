@@ -1929,3 +1929,11 @@ deconvR
 FRASER
 RiboCrypt
 scPipe
+ENmix
+GUIDEseq
+MethylAid
+MGFR
+Moonlight2R
+REMP
+SurfR
+TFHAZ
