@@ -510,6 +510,7 @@ MSstatsLOBD
 MSstatsLiP
 MSstatsPTM
 MSstatsQC
+MSstatsQCgui
 MSstatsShiny
 MSstatsTMT
 MVCClass
@@ -640,6 +641,7 @@ Pirat
 PoDCall
 PolySTest
 PrInCE
+Prostar
 ProtGenerics
 QDNAseq
 QFeatures
@@ -742,6 +744,7 @@ SANTA
 SARC
 SBMLR
 SC3
+SCAN.UPC
 SCANVIS
 SCArray
 SCArray.sat
@@ -788,6 +791,7 @@ SeqVarTools
 SharedObject
 ShortRead
 SiPSiC
+SigCheck
 SigFuge
 SimBu
 SimFFPE
@@ -809,6 +813,7 @@ SpeCond
 Spectra
 SpectraQL
 SpectralTAD
+SpliceWiz
 SplicingFactory
 SplicingGraphs
 SpotClean
@@ -836,6 +841,7 @@ TFARM
 TIN
 TMixClust
 TOAST
+TOP
 TPP
 TPP2D
 TREG
@@ -873,6 +879,7 @@ VisiumIO
 Voyager
 VplotR
 Wrench
+XDE
 XINA
 XNAString
 XVector
@@ -914,6 +921,7 @@ altcdfenvs
 amplican
 animalcules
 annaffy
+annmap
 annotate
 annotationTools
 annotatr
@@ -950,6 +958,7 @@ bioDist
 bioassayR
 biobroom
 biobtreeR
+biocGraph
 biocViews
 biocroxytest
 biocthis
@@ -976,6 +985,7 @@ cTRAP
 calm
 cancerclass
 casper
+cbaf
 cbpManager
 ccImpute
 ccfindR

@@ -1843,3 +1843,13 @@ SEtools
 SMITE
 trigger
 Ularcirc
+annmap
+biocGraph
+cbaf
+MSstatsQCgui
+Prostar
+SCAN.UPC
+SigCheck
+SpliceWiz
+TOP
+XDE
