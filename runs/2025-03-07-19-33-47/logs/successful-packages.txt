@@ -2021,3 +2021,7 @@ motifmatchr
 PAA
 PRONE
 RnBeads
+ballgown
+blacksheepr
+DExMA
+GSReg

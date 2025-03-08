@@ -245,6 +245,7 @@ DEXSeq
 DEqMS
 DEsingle
 DEsubs
+DExMA
 DFP
 DFplyr
 DMCFB
@@ -368,6 +369,7 @@ GSEABenchmarkeR
 GSEAlm
 GSEAmining
 GSRI
+GSReg
 GSgalgoR
 GUIDEseq
 GWAS.BAYES
@@ -1025,6 +1027,7 @@ atena
 autonomics
 awst
 bacon
+ballgown
 bambu
 bamsignals
 bandle
@@ -1063,6 +1066,7 @@ biomaRt
 biomformat
 biosigner
 biotmle
+blacksheepr
 blima
 bluster
 borealis
