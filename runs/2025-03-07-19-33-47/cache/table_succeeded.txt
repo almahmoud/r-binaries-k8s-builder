@@ -1924,3 +1924,5 @@
 ['[branchpointer](https://bioconductor.org/packages/3.20/bioc/html/branchpointer.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/branchpointer/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/branchpointer)']
 ['[easyRNASeq](https://bioconductor.org/packages/3.20/bioc/html/easyRNASeq.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/easyRNASeq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/easyRNASeq)']
 ['[metaseqR2](https://bioconductor.org/packages/3.20/bioc/html/metaseqR2.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/metaseqR2/build-success.log)', '[ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/metaseqR2)']
+['[DaMiRseq](https://bioconductor.org/packages/3.20/bioc/html/DaMiRseq.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/DaMiRseq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DaMiRseq)']
+['[deconvR](https://bioconductor.org/packages/3.20/bioc/html/deconvR.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/deconvR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/deconvR)']

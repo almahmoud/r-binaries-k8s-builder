@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1926 packages built successfully
+- 1928 packages built successfully
 - 0 packages failed to build
-- 307 packages not yet processed
+- 305 packages not yet processed
 
 
-## Successfully Built (1926)
+## Successfully Built (1928)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1938,8 +1938,10 @@
 | [branchpointer](https://bioconductor.org/packages/3.20/bioc/html/branchpointer.html)                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/branchpointer/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/branchpointer)              |
 | [easyRNASeq](https://bioconductor.org/packages/3.20/bioc/html/easyRNASeq.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/easyRNASeq/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/easyRNASeq)                 |
 | [metaseqR2](https://bioconductor.org/packages/3.20/bioc/html/metaseqR2.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/metaseqR2/build-success.log)                  | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/metaseqR2)               |
+| [DaMiRseq](https://bioconductor.org/packages/3.20/bioc/html/DaMiRseq.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/DaMiRseq/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DaMiRseq)                   |
+| [deconvR](https://bioconductor.org/packages/3.20/bioc/html/deconvR.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/deconvR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/deconvR)                    |
 
-## Not Yet Processed (307)
+## Not Yet Processed (305)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [AGDEX](https://bioconductor.org/packages/3.20/bioc/html/AGDEX.html)                                             | Unprocessed |
@@ -1977,7 +1979,6 @@
 | [DAMEfinder](https://bioconductor.org/packages/3.20/bioc/html/DAMEfinder.html)                                   | Unprocessed |
 | [DExMA](https://bioconductor.org/packages/3.20/bioc/html/DExMA.html)                                             | Unprocessed |
 | [DMRcate](https://bioconductor.org/packages/3.20/bioc/html/DMRcate.html)                                         | Unprocessed |
-| [DaMiRseq](https://bioconductor.org/packages/3.20/bioc/html/DaMiRseq.html)                                       | Unprocessed |
 | [Damsel](https://bioconductor.org/packages/3.20/bioc/html/Damsel.html)                                           | Unprocessed |
 | [DeMixT](https://bioconductor.org/packages/3.20/bioc/html/DeMixT.html)                                           | Unprocessed |
 | [DominoEffect](https://bioconductor.org/packages/3.20/bioc/html/DominoEffect.html)                               | Unprocessed |
@@ -2133,7 +2134,6 @@
 | [dagLogo](https://bioconductor.org/packages/3.20/bioc/html/dagLogo.html)                                         | Unprocessed |
 | [debrowser](https://bioconductor.org/packages/3.20/bioc/html/debrowser.html)                                     | Unprocessed |
 | [decompTumor2Sig](https://bioconductor.org/packages/3.20/bioc/html/decompTumor2Sig.html)                         | Unprocessed |
-| [deconvR](https://bioconductor.org/packages/3.20/bioc/html/deconvR.html)                                         | Unprocessed |
 | [deepSNV](https://bioconductor.org/packages/3.20/bioc/html/deepSNV.html)                                         | Unprocessed |
 | [demuxSNP](https://bioconductor.org/packages/3.20/bioc/html/demuxSNP.html)                                       | Unprocessed |
 | [derfinder](https://bioconductor.org/packages/3.20/bioc/html/derfinder.html)                                     | Unprocessed |

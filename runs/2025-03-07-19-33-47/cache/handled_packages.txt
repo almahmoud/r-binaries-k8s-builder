@@ -247,6 +247,7 @@ DOSE
 DRIMSeq
 DSS
 DTA
+DaMiRseq
 DeMAND
 DeconRNASeq
 DeepPINCS
@@ -1127,6 +1128,7 @@ dearseq
 debCAM
 decontX
 decontam
+deconvR
 decoupleR
 deltaCaptureC
 deltaGseg
