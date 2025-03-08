@@ -224,6 +224,7 @@ ComPrAn
 ComplexHeatmap
 CompoundDb
 ConsensusClusterPlus
+CopyNumberPlots
 CoreGx
 Cormotif
 CoverageView
@@ -545,6 +546,7 @@ MBQN
 MBttest
 MCbiclust
 MDTS
+MEAL
 MEB
 MEDIPS
 MEDME
@@ -1286,6 +1288,7 @@ doppelgangR
 doseR
 doubletrouble
 drawProteins
+dreamlet
 drugTargetInteractions
 dupRadar
 dyebias
@@ -1509,6 +1512,7 @@ impute
 infercnv
 infinityFlow
 interacCircos
+interactiveDisplay
 interactiveDisplayBase
 ipdDb
 isobar
@@ -1833,6 +1837,7 @@ rcellminer
 rebook
 receptLoss
 reconsi
+recount
 recount3
 recountmethylation
 recoup

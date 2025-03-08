@@ -2194,3 +2194,8 @@ derfinderPlot
 intansv
 msgbsR
 scruff
+CNVfilteR
+CNViz
+RNAAgeCalc
+RnaSeqSampleSize
+psichomics

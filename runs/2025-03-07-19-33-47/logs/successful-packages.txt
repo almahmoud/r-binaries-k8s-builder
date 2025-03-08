@@ -2125,3 +2125,8 @@ methylGSA
 mitoClone2
 regionReport
 VariantTools
+CopyNumberPlots
+dreamlet
+interactiveDisplay
+MEAL
+recount
