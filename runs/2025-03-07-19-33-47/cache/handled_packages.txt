@@ -724,6 +724,7 @@ Prostar
 ProtGenerics
 ProteoDisco
 ProteoMM
+PureCN
 QDNAseq
 QFeatures
 QSutils
@@ -918,6 +919,7 @@ StabMap
 Statial
 Streamer
 Structstrings
+StructuralVariantAnnotation
 SubCellBarCode
 SummarizedExperiment
 Summix
@@ -974,6 +976,7 @@ UNDO
 UPDhmm
 Ularcirc
 UniProt.ws
+Uniquorn
 VAExprs
 VDJdive
 VERSO
