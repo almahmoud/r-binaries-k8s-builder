@@ -687,6 +687,7 @@ NormalyzerDE
 NormqPCR
 NuPoP
 OCplus
+OGRE
 OLIN
 OLINgui
 OMICsPCA
@@ -719,6 +720,7 @@ PCAN
 PCAtools
 PECA
 PICS
+PING
 PIPETS
 PIUMA
 PLPE
@@ -1268,6 +1270,7 @@ csaw
 csdR
 ctc
 ctsGE
+cummeRbund
 customCMPdb
 customProDB
 cyanoFilter
@@ -1737,6 +1740,7 @@ ndexr
 nearBynding
 nempi
 netSmooth
+netZooR
 netboost
 nethet
 netprioR

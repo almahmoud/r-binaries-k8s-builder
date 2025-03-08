@@ -2197,3 +2197,7 @@ categoryCompare
 ChAMP
 geomeTriD
 NADfinder
+cummeRbund
+netZooR
+OGRE
+PING

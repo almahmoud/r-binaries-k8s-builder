@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2199 packages built successfully
+- 2203 packages built successfully
 - 0 packages failed to build
-- 34 packages not yet processed
+- 30 packages not yet processed
 
 
-## Successfully Built (2199)
+## Successfully Built (2203)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2211,8 +2211,12 @@
 | [categoryCompare](https://bioconductor.org/packages/3.20/bioc/html/categoryCompare.html)                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/categoryCompare/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/categoryCompare)             |
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/NADfinder/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/NADfinder)                   |
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/geomeTriD/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/geomeTriD)                   |
+| [OGRE](https://bioconductor.org/packages/3.20/bioc/html/OGRE.html)                                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/OGRE/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OGRE)                        |
+| [PING](https://bioconductor.org/packages/3.20/bioc/html/PING.html)                                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/PING/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PING)                        |
+| [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/cummeRbund/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cummeRbund)                  |
+| [netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/netZooR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/netZooR)                     |
 
-## Not Yet Processed (34)
+## Not Yet Processed (30)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                     | Unprocessed |
@@ -2223,8 +2227,6 @@
 | [GenomicInteractions](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractions.html)     | Unprocessed |
 | [HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)                         | Unprocessed |
 | [MungeSumstats](https://bioconductor.org/packages/3.20/bioc/html/MungeSumstats.html)                 | Unprocessed |
-| [OGRE](https://bioconductor.org/packages/3.20/bioc/html/OGRE.html)                                   | Unprocessed |
-| [PING](https://bioconductor.org/packages/3.20/bioc/html/PING.html)                                   | Unprocessed |
 | [Pviz](https://bioconductor.org/packages/3.20/bioc/html/Pviz.html)                                   | Unprocessed |
 | [RNAmodR](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.html)                             | Unprocessed |
 | [RNAmodR.AlkAnilineSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.AlkAnilineSeq.html) | Unprocessed |
@@ -2236,11 +2238,9 @@
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                 | Unprocessed |
 | [cicero](https://bioconductor.org/packages/3.20/bioc/html/cicero.html)                               | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                               | Unprocessed |
-| [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                       | Unprocessed |
 | [epimutacions](https://bioconductor.org/packages/3.20/bioc/html/epimutacions.html)                   | Unprocessed |
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                       | Unprocessed |
 | [mCSEA](https://bioconductor.org/packages/3.20/bioc/html/mCSEA.html)                                 | Unprocessed |
-| [netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)                             | Unprocessed |
 | [pcaExplorer](https://bioconductor.org/packages/3.20/bioc/html/pcaExplorer.html)                     | Unprocessed |
 | [psichomics](https://bioconductor.org/packages/3.20/bioc/html/psichomics.html)                       | Unprocessed |
 | [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)     | Unprocessed |
