@@ -740,3 +740,16 @@ flowDensity
 flowFP
 MMUPHin
 OrderedList
+a4Classif
+ComplexHeatmap
+derfinderHelper
+monocle
+OmicsMLRepoR
+rebook
+rexposome
+Rnits
+S4Arrays
+SIMAT
+STATegRa
+TargetDecoy
+XVector

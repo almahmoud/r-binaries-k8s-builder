@@ -783,3 +783,11 @@ ddPCRclust
 flowBin
 flowCut
 gDRstyle
+CCPlotR
+ClustAll
+InteractiveComplexHeatmap
+MAPFX
+SparseArray
+cola
+simona
+uSORT

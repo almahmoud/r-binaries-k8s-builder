@@ -83,6 +83,7 @@ Clomial
 ClusterJudge
 ClusterSignificance
 ComPrAn
+ComplexHeatmap
 ConsensusClusterPlus
 Cormotif
 CytoDx
@@ -241,6 +242,7 @@ OLIN
 OLINgui
 OPWeight
 OSAT
+OmicsMLRepoR
 Omixer
 OmnipathR
 OncoSimulR
@@ -312,15 +314,18 @@ Rgraphviz
 Rhdf5lib
 Rhtslib
 Rmagpie
+Rnits
 Rsubread
 Rtpca
 Rtreemix
 Rvisdiff
+S4Arrays
 S4Vectors
 SANTA
 SBMLR
 SCBN
 SCFA
+SIMAT
 SIMD
 SIMLR
 SLqPCR
@@ -331,6 +336,7 @@ SNPediaR
 SPEM
 SPIA
 SRAdb
+STATegRa
 STRINGdb
 SUITOR
 SamSPECTRAL
@@ -346,6 +352,7 @@ TMixClust
 TPP2D
 TRONCO
 TSAR
+TargetDecoy
 TargetScore
 TargetSearch
 TrajectoryGeometry
@@ -356,6 +363,8 @@ VERSO
 VennDetail
 Wrench
 XINA
+XVector
+a4Classif
 a4Core
 a4Preproc
 a4Reporting
@@ -438,6 +447,7 @@ decoupleR
 deltaGseg
 demuxmix
 densvis
+derfinderHelper
 diffGeneAnalysis
 diffuStats
 diggit
@@ -589,6 +599,7 @@ mistyR
 mitch
 mixOmics
 mnem
+monocle
 mosbi
 multiClust
 multiscan
@@ -653,7 +664,9 @@ rawDiag
 rawrr
 rbsurv
 rcellminer
+rebook
 retrofit
+rexposome
 rgoslin
 rhdf5
 rhdf5filters
