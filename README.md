@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1523 packages built successfully
+- 1526 packages built successfully
 - 0 packages failed to build
-- 710 packages not yet processed
+- 707 packages not yet processed
 
 
-## Successfully Built (1523)
+## Successfully Built (1526)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1535,8 +1535,11 @@
 | [MGnifyR](https://bioconductor.org/packages/3.20/bioc/html/MGnifyR.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/MGnifyR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MGnifyR)                    |
 | [evaluomeR](https://bioconductor.org/packages/3.20/bioc/html/evaluomeR.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/evaluomeR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/evaluomeR)                  |
 | [omicade4](https://bioconductor.org/packages/3.20/bioc/html/omicade4.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/omicade4/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/omicade4)                   |
+| [ChIPXpress](https://bioconductor.org/packages/3.20/bioc/html/ChIPXpress.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/ChIPXpress/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ChIPXpress)                 |
+| [gDRutils](https://bioconductor.org/packages/3.20/bioc/html/gDRutils.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/gDRutils/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gDRutils)                   |
+| [phenomis](https://bioconductor.org/packages/3.20/bioc/html/phenomis.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/phenomis/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/phenomis)                   |
 
-## Not Yet Processed (710)
+## Not Yet Processed (707)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADAM](https://bioconductor.org/packages/3.20/bioc/html/ADAM.html)                                               | Unprocessed |
@@ -1604,7 +1607,6 @@
 | [Cepo](https://bioconductor.org/packages/3.20/bioc/html/Cepo.html)                                               | Unprocessed |
 | [ChAMP](https://bioconductor.org/packages/3.20/bioc/html/ChAMP.html)                                             | Unprocessed |
 | [ChIPQC](https://bioconductor.org/packages/3.20/bioc/html/ChIPQC.html)                                           | Unprocessed |
-| [ChIPXpress](https://bioconductor.org/packages/3.20/bioc/html/ChIPXpress.html)                                   | Unprocessed |
 | [ChIPexoQual](https://bioconductor.org/packages/3.20/bioc/html/ChIPexoQual.html)                                 | Unprocessed |
 | [ChIPpeakAnno](https://bioconductor.org/packages/3.20/bioc/html/ChIPpeakAnno.html)                               | Unprocessed |
 | [ChIPseeker](https://bioconductor.org/packages/3.20/bioc/html/ChIPseeker.html)                                   | Unprocessed |
@@ -2020,7 +2022,6 @@
 | [gDR](https://bioconductor.org/packages/3.20/bioc/html/gDR.html)                                                 | Unprocessed |
 | [gDRcore](https://bioconductor.org/packages/3.20/bioc/html/gDRcore.html)                                         | Unprocessed |
 | [gDRimport](https://bioconductor.org/packages/3.20/bioc/html/gDRimport.html)                                     | Unprocessed |
-| [gDRutils](https://bioconductor.org/packages/3.20/bioc/html/gDRutils.html)                                       | Unprocessed |
 | [gINTomics](https://bioconductor.org/packages/3.20/bioc/html/gINTomics.html)                                     | Unprocessed |
 | [gage](https://bioconductor.org/packages/3.20/bioc/html/gage.html)                                               | Unprocessed |
 | [gatom](https://bioconductor.org/packages/3.20/bioc/html/gatom.html)                                             | Unprocessed |
@@ -2142,7 +2143,6 @@
 | [peakPantheR](https://bioconductor.org/packages/3.20/bioc/html/peakPantheR.html)                                 | Unprocessed |
 | [phantasus](https://bioconductor.org/packages/3.20/bioc/html/phantasus.html)                                     | Unprocessed |
 | [phenoTest](https://bioconductor.org/packages/3.20/bioc/html/phenoTest.html)                                     | Unprocessed |
-| [phenomis](https://bioconductor.org/packages/3.20/bioc/html/phenomis.html)                                       | Unprocessed |
 | [pogos](https://bioconductor.org/packages/3.20/bioc/html/pogos.html)                                             | Unprocessed |
 | [preciseTAD](https://bioconductor.org/packages/3.20/bioc/html/preciseTAD.html)                                   | Unprocessed |
 | [primirTSS](https://bioconductor.org/packages/3.20/bioc/html/primirTSS.html)                                     | Unprocessed |

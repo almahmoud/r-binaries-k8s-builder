@@ -1521,3 +1521,6 @@ ASICS
 evaluomeR
 MGnifyR
 omicade4
+ChIPXpress
+gDRutils
+phenomis

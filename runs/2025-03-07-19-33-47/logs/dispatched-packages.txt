@@ -1540,3 +1540,4 @@ msqrob2
 scp
 DSS
 MIRA
+gDRcore

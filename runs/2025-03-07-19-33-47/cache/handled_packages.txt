@@ -138,6 +138,7 @@ CellTrails
 CelliD
 CexoR
 ChIPComp
+ChIPXpress
 ChIPanalyser
 ChIPseqR
 ChIPsim
@@ -972,6 +973,7 @@ frma
 frmaTools
 gCrisprTools
 gDRstyle
+gDRutils
 gaga
 garfield
 gcapc
@@ -1234,6 +1236,7 @@ pfamAnalyzeR
 pgca
 pgxRpi
 phantasusLite
+phenomis
 phenopath
 philr
 phosphonormalizer
