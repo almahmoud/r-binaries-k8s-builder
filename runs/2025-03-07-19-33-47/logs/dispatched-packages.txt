@@ -2091,3 +2091,13 @@ epivizrData
 iNETgrate
 PRONE
 musicatk
+ATACseqQC
+arrayMvout
+atSNP
+canceR
+dagLogo
+dreamlet
+ffpe
+iCheck
+ribosomeProfilingQC
+wateRmelon

@@ -2008,3 +2008,11 @@ POMA
 proActiv
 scoreInvHap
 tLOH
+customProDB
+lumi
+meshr
+motifStack
+phenoTest
+scClassify
+signeR
+zenith

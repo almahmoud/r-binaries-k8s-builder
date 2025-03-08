@@ -1158,6 +1158,7 @@ csdR
 ctc
 ctsGE
 customCMPdb
+customProDB
 cyanoFilter
 cycle
 cydar
@@ -1450,6 +1451,7 @@ loci2path
 logicFS
 lpNet
 lpsymphony
+lumi
 lute
 m6Aboost
 mBPCR
@@ -1478,6 +1480,7 @@ mdqc
 megadepth
 memes
 meshes
+meshr
 messina
 metaCCA
 metaMS
@@ -1542,6 +1545,7 @@ monocle
 mosaics
 mosbi
 mosdef
+motifStack
 motifTestR
 motifcounter
 mpra
@@ -1642,6 +1646,7 @@ pgca
 pgxRpi
 phantasus
 phantasusLite
+phenoTest
 phenomis
 phenopath
 philr
@@ -1779,6 +1784,7 @@ scAnnotatR
 scBFA
 scBubbletree
 scCB2
+scClassify
 scDD
 scDDboost
 scDataviz
@@ -1849,6 +1855,7 @@ shinyepico
 sigFeature
 siggenes
 sights
+signeR
 sigsquared
 simPIC
 similaRpeak
@@ -2005,6 +2012,7 @@ yamss
 yarn
 zFPKM
 zellkonverter
+zenith
 zinbwave
 zitools
 zlibbioc
