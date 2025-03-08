@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2061 packages built successfully
+- 2065 packages built successfully
 - 0 packages failed to build
-- 172 packages not yet processed
+- 168 packages not yet processed
 
 
-## Successfully Built (2061)
+## Successfully Built (2065)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -2073,8 +2073,12 @@
 | [igvR](https://bioconductor.org/packages/3.20/bioc/html/igvR.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/igvR/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/igvR)                       |
 | [singscore](https://bioconductor.org/packages/3.20/bioc/html/singscore.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/singscore/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/singscore)                  |
 | [GSVA](https://bioconductor.org/packages/3.20/bioc/html/GSVA.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/GSVA/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSVA)                       |
+| [MutationalPatterns](https://bioconductor.org/packages/3.20/bioc/html/MutationalPatterns.html)                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/MutationalPatterns/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MutationalPatterns)         |
+| [icetea](https://bioconductor.org/packages/3.20/bioc/html/icetea.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/icetea/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/icetea)                     |
+| [katdetectr](https://bioconductor.org/packages/3.20/bioc/html/katdetectr.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/katdetectr/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/katdetectr)                 |
+| [lineagespot](https://bioconductor.org/packages/3.20/bioc/html/lineagespot.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/lineagespot/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lineagespot)                |
 
-## Not Yet Processed (172)
+## Not Yet Processed (168)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                             | Unprocessed |
@@ -2120,7 +2124,6 @@
 | [MethReg](https://bioconductor.org/packages/3.20/bioc/html/MethReg.html)                                         | Unprocessed |
 | [MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)                                         | Unprocessed |
 | [MungeSumstats](https://bioconductor.org/packages/3.20/bioc/html/MungeSumstats.html)                             | Unprocessed |
-| [MutationalPatterns](https://bioconductor.org/packages/3.20/bioc/html/MutationalPatterns.html)                   | Unprocessed |
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                     | Unprocessed |
 | [OGRE](https://bioconductor.org/packages/3.20/bioc/html/OGRE.html)                                               | Unprocessed |
 | [OMICsPCA](https://bioconductor.org/packages/3.20/bioc/html/OMICsPCA.html)                                       | Unprocessed |
@@ -2202,13 +2205,10 @@
 | [gwasurvivr](https://bioconductor.org/packages/3.20/bioc/html/gwasurvivr.html)                                   | Unprocessed |
 | [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                                           | Unprocessed |
 | [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                                     | Unprocessed |
-| [icetea](https://bioconductor.org/packages/3.20/bioc/html/icetea.html)                                           | Unprocessed |
 | [ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)                                             | Unprocessed |
 | [intansv](https://bioconductor.org/packages/3.20/bioc/html/intansv.html)                                         | Unprocessed |
 | [interactiveDisplay](https://bioconductor.org/packages/3.20/bioc/html/interactiveDisplay.html)                   | Unprocessed |
 | [karyoploteR](https://bioconductor.org/packages/3.20/bioc/html/karyoploteR.html)                                 | Unprocessed |
-| [katdetectr](https://bioconductor.org/packages/3.20/bioc/html/katdetectr.html)                                   | Unprocessed |
-| [lineagespot](https://bioconductor.org/packages/3.20/bioc/html/lineagespot.html)                                 | Unprocessed |
 | [mCSEA](https://bioconductor.org/packages/3.20/bioc/html/mCSEA.html)                                             | Unprocessed |
 | [maser](https://bioconductor.org/packages/3.20/bioc/html/maser.html)                                             | Unprocessed |
 | [methodical](https://bioconductor.org/packages/3.20/bioc/html/methodical.html)                                   | Unprocessed |

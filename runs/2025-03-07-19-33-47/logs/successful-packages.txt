@@ -2059,3 +2059,7 @@ IMAS
 IsoformSwitchAnalyzeR
 singscore
 GSVA
+icetea
+katdetectr
+lineagespot
+MutationalPatterns

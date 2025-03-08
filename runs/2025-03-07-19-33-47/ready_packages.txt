@@ -1,6 +1,1 @@
-EGSEA
-escape
-octad
-oppar
-scFeatures
-singleCellTK
+RESOLVE

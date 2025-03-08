@@ -631,6 +631,7 @@ MultiDataSet
 MultiMed
 MultiRNAflow
 MultimodalExperiment
+MutationalPatterns
 NBAMSeq
 NCIgraph
 NOISeq
@@ -1442,6 +1443,7 @@ iSEEu
 iSeq
 iasva
 ibh
+icetea
 idiogram
 idpr
 idr2d
@@ -1464,6 +1466,7 @@ isomiRs
 iterativeBMA
 iterativeBMAsurv
 ivygapSE
+katdetectr
 kebabs
 keggorthology
 kissDE
@@ -1480,6 +1483,7 @@ lfa
 limma
 limmaGUI
 limpca
+lineagespot
 lionessR
 lipidr
 lisaClust
