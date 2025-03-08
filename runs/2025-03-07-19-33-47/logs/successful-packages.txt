@@ -1190,3 +1190,16 @@ omicsViewer
 scviR
 universalmotif
 zellkonverter
+CATALYST
+CelliD
+csaw
+gemma.R
+GeomxTools
+infercnv
+LOLA
+mbkmeans
+MPAC
+mumosa
+scDotPlot
+SingleCellSignalR
+SpaNorm

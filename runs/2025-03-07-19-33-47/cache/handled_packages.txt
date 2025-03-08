@@ -74,6 +74,7 @@ BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
 CARNIVAL
+CATALYST
 CCPlotR
 CDI
 CFAssay
@@ -111,6 +112,7 @@ CellBench
 CellMapper
 CellNOptR
 CellTrails
+CelliD
 ChemmineOB
 ChemmineR
 Chicago
@@ -235,6 +237,7 @@ GenomicDistributions
 GenomicRanges
 GenomicSuperSignature
 GenomicTuples
+GeomxTools
 GladiaTOX
 GloScope
 GrafGen
@@ -296,6 +299,7 @@ KEGGgraph
 KinSwingR
 LBE
 LEA
+LOLA
 LPE
 LedPred
 LinTInd
@@ -319,6 +323,7 @@ MICSQTL
 MMUPHin
 MOFA2
 MOGAMUN
+MPAC
 MPFE
 MPRAnalyze
 MSA2dist
@@ -530,7 +535,9 @@ SigFuge
 SimFFPE
 SingleCellAlleleExperiment
 SingleCellExperiment
+SingleCellSignalR
 SingleR
+SpaNorm
 SpaceMarkers
 SparseArray
 SpatialCPie
@@ -694,6 +701,7 @@ covEB
 cqn
 crisprBase
 crlmm
+csaw
 ctc
 ctsGE
 cyanoFilter
@@ -795,6 +803,7 @@ gcrma
 gdsfmt
 geNetClassifier
 gemini
+gemma.R
 genArise
 geneClassifiers
 geneRecommender
@@ -857,6 +866,7 @@ immApex
 immunoClust
 immunotation
 impute
+infercnv
 infinityFlow
 interacCircos
 interactiveDisplayBase
@@ -892,6 +902,7 @@ massiR
 matchBox
 matter
 mbQTL
+mbkmeans
 mdp
 mdqc
 megadepth
@@ -932,6 +943,7 @@ msa
 multiClust
 multiscan
 multtest
+mumosa
 muscle
 mzID
 mzR
@@ -1062,6 +1074,7 @@ scDDboost
 scDataviz
 scDesign3
 scDiagnostics
+scDotPlot
 scFeatureFilter
 scHOT
 scMET

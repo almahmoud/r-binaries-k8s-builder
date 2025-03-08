@@ -1,9 +1,5 @@
-iSEEhex
-iSEEindex
-iSEEpathways
-lemur
-memes
-motifTestR
-scMerge
-transformGamPoi
-velociraptor
+GeoDiff
+SpatialDecon
+SpatialOmicsOverlay
+cytofQC
+spillR
