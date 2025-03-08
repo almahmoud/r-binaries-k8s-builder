@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 1476 packages built successfully
+- 1480 packages built successfully
 - 0 packages failed to build
-- 757 packages not yet processed
+- 753 packages not yet processed
 
 
-## Successfully Built (1476)
+## Successfully Built (1480)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1488,8 +1488,12 @@
 | [treeclimbR](https://bioconductor.org/packages/3.20/bioc/html/treeclimbR.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/treeclimbR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/treeclimbR)                 |
 | [weitrix](https://bioconductor.org/packages/3.20/bioc/html/weitrix.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/weitrix/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/weitrix)                    |
 | [zFPKM](https://bioconductor.org/packages/3.20/bioc/html/zFPKM.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/zFPKM/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/zFPKM)                      |
+| [HiCDOC](https://bioconductor.org/packages/3.20/bioc/html/HiCDOC.html)                                         | Built    | [Log](runs/2025-03-07-19-33-47/logs/HiCDOC/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HiCDOC)                     |
+| [MLSeq](https://bioconductor.org/packages/3.20/bioc/html/MLSeq.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/MLSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MLSeq)                      |
+| [Statial](https://bioconductor.org/packages/3.20/bioc/html/Statial.html)                                       | Built    | [Log](runs/2025-03-07-19-33-47/logs/Statial/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Statial)                    |
+| [marr](https://bioconductor.org/packages/3.20/bioc/html/marr.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/marr/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/marr)                       |
 
-## Not Yet Processed (757)
+## Not Yet Processed (753)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADAM](https://bioconductor.org/packages/3.20/bioc/html/ADAM.html)                                               | Unprocessed |
@@ -1649,7 +1653,6 @@
 | [HarmonizR](https://bioconductor.org/packages/3.20/bioc/html/HarmonizR.html)                                     | Unprocessed |
 | [HelloRanges](https://bioconductor.org/packages/3.20/bioc/html/HelloRanges.html)                                 | Unprocessed |
 | [HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)                                     | Unprocessed |
-| [HiCDOC](https://bioconductor.org/packages/3.20/bioc/html/HiCDOC.html)                                           | Unprocessed |
 | [HiLDA](https://bioconductor.org/packages/3.20/bioc/html/HiLDA.html)                                             | Unprocessed |
 | [HoloFoodR](https://bioconductor.org/packages/3.20/bioc/html/HoloFoodR.html)                                     | Unprocessed |
 | [HybridExpress](https://bioconductor.org/packages/3.20/bioc/html/HybridExpress.html)                             | Unprocessed |
@@ -1687,7 +1690,6 @@
 | [MIRit](https://bioconductor.org/packages/3.20/bioc/html/MIRit.html)                                             | Unprocessed |
 | [MLInterfaces](https://bioconductor.org/packages/3.20/bioc/html/MLInterfaces.html)                               | Unprocessed |
 | [MLP](https://bioconductor.org/packages/3.20/bioc/html/MLP.html)                                                 | Unprocessed |
-| [MLSeq](https://bioconductor.org/packages/3.20/bioc/html/MLSeq.html)                                             | Unprocessed |
 | [MODA](https://bioconductor.org/packages/3.20/bioc/html/MODA.html)                                               | Unprocessed |
 | [MOMA](https://bioconductor.org/packages/3.20/bioc/html/MOMA.html)                                               | Unprocessed |
 | [MOSClip](https://bioconductor.org/packages/3.20/bioc/html/MOSClip.html)                                         | Unprocessed |
@@ -1816,7 +1818,6 @@
 | [SomaticSignatures](https://bioconductor.org/packages/3.20/bioc/html/SomaticSignatures.html)                     | Unprocessed |
 | [SpliceWiz](https://bioconductor.org/packages/3.20/bioc/html/SpliceWiz.html)                                     | Unprocessed |
 | [SplicingGraphs](https://bioconductor.org/packages/3.20/bioc/html/SplicingGraphs.html)                           | Unprocessed |
-| [Statial](https://bioconductor.org/packages/3.20/bioc/html/Statial.html)                                         | Unprocessed |
 | [StructuralVariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/StructuralVariantAnnotation.html) | Unprocessed |
 | [SubCellBarCode](https://bioconductor.org/packages/3.20/bioc/html/SubCellBarCode.html)                           | Unprocessed |
 | [SurfR](https://bioconductor.org/packages/3.20/bioc/html/SurfR.html)                                             | Unprocessed |
@@ -2056,7 +2057,6 @@
 | [maPredictDSC](https://bioconductor.org/packages/3.20/bioc/html/maPredictDSC.html)                               | Unprocessed |
 | [made4](https://bioconductor.org/packages/3.20/bioc/html/made4.html)                                             | Unprocessed |
 | [magpie](https://bioconductor.org/packages/3.20/bioc/html/magpie.html)                                           | Unprocessed |
-| [marr](https://bioconductor.org/packages/3.20/bioc/html/marr.html)                                               | Unprocessed |
 | [maser](https://bioconductor.org/packages/3.20/bioc/html/maser.html)                                             | Unprocessed |
 | [mastR](https://bioconductor.org/packages/3.20/bioc/html/mastR.html)                                             | Unprocessed |
 | [meshes](https://bioconductor.org/packages/3.20/bioc/html/meshes.html)                                           | Unprocessed |

@@ -1474,3 +1474,7 @@ RJMCMCNucleosomes
 treeclimbR
 weitrix
 zFPKM
+HiCDOC
+marr
+MLSeq
+Statial

@@ -1474,3 +1474,7 @@
 ['[treeclimbR](https://bioconductor.org/packages/3.20/bioc/html/treeclimbR.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/treeclimbR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/treeclimbR)']
 ['[weitrix](https://bioconductor.org/packages/3.20/bioc/html/weitrix.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/weitrix/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/weitrix)']
 ['[zFPKM](https://bioconductor.org/packages/3.20/bioc/html/zFPKM.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/zFPKM/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/zFPKM)']
+['[HiCDOC](https://bioconductor.org/packages/3.20/bioc/html/HiCDOC.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/HiCDOC/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HiCDOC)']
+['[MLSeq](https://bioconductor.org/packages/3.20/bioc/html/MLSeq.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/MLSeq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MLSeq)']
+['[Statial](https://bioconductor.org/packages/3.20/bioc/html/Statial.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/Statial/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Statial)']
+['[marr](https://bioconductor.org/packages/3.20/bioc/html/marr.html)', 'Built', '[Log](runs/2025-03-07-19-33-47/logs/marr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/marr)']

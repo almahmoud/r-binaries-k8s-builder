@@ -318,6 +318,7 @@ Harshlight
 Heatplus
 Herper
 HiCBricks
+HiCDOC
 HiCExperiment
 HiCcompare
 HiContacts
@@ -386,6 +387,7 @@ MEB
 MEDME
 MEIGOR
 MICSQTL
+MLSeq
 MMDiff2
 MMUPHin
 MOFA2
@@ -656,6 +658,7 @@ SplicingFactory
 SpotClean
 SpotSweeper
 StabMap
+Statial
 Streamer
 Structstrings
 SummarizedExperiment
@@ -1071,6 +1074,7 @@ magrene
 makecdfenv
 mapscape
 mariner
+marr
 marray
 martini
 maskBAD

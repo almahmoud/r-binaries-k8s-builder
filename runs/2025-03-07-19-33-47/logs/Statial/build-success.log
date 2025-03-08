@@ -1,0 +1,156 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'Statial'
+also installing the dependencies ‘MultiAssayExperiment’, ‘scam’, ‘coxme’, ‘ClassifyR’, ‘spicyR’, ‘ggsurvfit’, ‘lisaClust’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MultiAssayExperiment_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 1224754 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/scam_1.2-18.tar.gz'
+Content type 'binary/octet-stream' length 1055589 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/coxme_2.2-22.tar.gz'
+Content type 'binary/octet-stream' length 1138146 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ClassifyR_3.10.6.tar.gz'
+Content type 'application/x-gzip' length 2530872 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/spicyR_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 3310647 bytes (3.2 MB)
+==================================================
+downloaded 3.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggsurvfit_1.1.0.tar.gz'
+Content type 'binary/octet-stream' length 590035 bytes (576 KB)
+==================================================
+downloaded 576 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/lisaClust_1.14.4.tar.gz'
+Content type 'application/x-gzip' length 2499115 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Statial_1.8.0.tar.gz'
+Content type 'application/x-gzip' length 9645871 bytes (9.2 MB)
+==================================================
+downloaded 9.2 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-MultiAssayExperiment’
+* installing *binary* package ‘scam’ ...
+* ‘scam’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘scam’ as ‘scam_1.2-18_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scam)
+* installing *binary* package ‘coxme’ ...
+* ‘coxme’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘coxme’ as ‘coxme_2.2-22_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (coxme)
+* installing *binary* package ‘ggsurvfit’ ...
+* ‘ggsurvfit’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggsurvfit’ as ‘ggsurvfit_1.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggsurvfit)
+* installing *source* package ‘Statial’ ...
+** package ‘Statial’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Statial’ as ‘Statial_1.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Statial)
+* installing *source* package ‘ClassifyR’ ...
+** package ‘ClassifyR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c coxformatrices.cpp -o coxformatrices.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o ClassifyR.so coxformatrices.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-ClassifyR/00new/ClassifyR/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+in method for ‘ROCplot’ with signature ‘"ClassifyResult"’: no definition for class “ClassifyResult”
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ClassifyR’ as ‘ClassifyR_3.10.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ClassifyR)
+* installing *source* package ‘spicyR’ ...
+** package ‘spicyR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘spicyR’ as ‘spicyR_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spicyR)
+* installing *source* package ‘lisaClust’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘lisaClust’ as ‘lisaClust_1.14.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lisaClust)
+
+The downloaded source packages are in
+	‘/tmp/RtmpSGttLH/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘MultiAssayExperiment’ had non-zero exit status
+
+real	3m9.036s
+user	1m48.774s
+sys	0m16.874s
