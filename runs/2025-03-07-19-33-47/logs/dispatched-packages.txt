@@ -1233,3 +1233,13 @@ splatter
 stJoincount
 tpSVG
 xenLite
+CytoML
+CytoPipeline
+FEAST
+HiContacts
+HiCool
+alabaster.spatial
+crlmm
+flowGate
+mBPCR
+oligo

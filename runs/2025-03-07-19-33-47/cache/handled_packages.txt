@@ -39,6 +39,7 @@ BREW3R.r
 BUMHMM
 BUS
 BUScorrect
+BUSseq
 BaseSpaceR
 BayesKnockdown
 BeadDataPackR
@@ -97,6 +98,7 @@ COTAN
 CRImage
 CSAR
 CTDquerier
+CTSV
 Cardinal
 CardinalIO
 CausalR
@@ -212,6 +214,7 @@ GenomeInfoDb
 GenomicDataCommons
 GenomicDistributions
 GenomicRanges
+GenomicSuperSignature
 GenomicTuples
 GladiaTOX
 GloScope
@@ -230,9 +233,11 @@ HMMcopy
 HPAanalyze
 HPiP
 Harman
+Harshlight
 Heatplus
 Herper
 HiCBricks
+HiCExperiment
 HilbertCurve
 HilbertVis
 HilbertVisGUI
@@ -253,6 +258,7 @@ ISLET
 ISoLDE
 IWTomics
 Icens
+IgGeneUsage
 Informeasure
 InteractionSet
 InteractiveComplexHeatmap
@@ -301,6 +307,7 @@ Melissa
 Mergeomics
 MetCirc
 MetID
+MetMashR
 MetaCyto
 MetaNeighbor
 MetaboCoreUtils
@@ -363,6 +370,7 @@ Pirat
 PoDCall
 PolySTest
 ProtGenerics
+QSutils
 QTLExperiment
 QUBIC
 Qtlizer
@@ -404,6 +412,7 @@ RTopper
 RUVcorr
 RUVnormalize
 RVS
+RaggedExperiment
 RankProd
 Rarr
 RbcBook1
@@ -425,6 +434,7 @@ Rhdf5lib
 Rhtslib
 Rmagpie
 Rnits
+RolDE
 Rsamtools
 Rsubread
 Rtpca
@@ -440,6 +450,7 @@ SCArray
 SCBN
 SCFA
 SCnorm
+SDAMS
 SELEX
 SIMAT
 SIMD
@@ -451,6 +462,7 @@ SNPRelate
 SNPediaR
 SPEM
 SPIA
+SPOTlight
 SQLDataFrame
 SRAdb
 STATegRa
@@ -493,6 +505,7 @@ TPP
 TPP2D
 TRONCO
 TSAR
+TSCAN
 TargetDecoy
 TargetScore
 TargetSearch
@@ -506,8 +519,10 @@ TurboNorm
 UCSC.utils
 UCell
 UNDO
+VDJdive
 VERSO
 VennDetail
+VisiumIO
 Wrench
 XINA
 XVector
@@ -531,6 +546,7 @@ alabaster.bumpy
 alabaster.files
 alabaster.matrix
 alabaster.ranges
+alabaster.sce
 alabaster.schemas
 alabaster.se
 alabaster.string
@@ -549,6 +565,7 @@ banocc
 barcodetrackR
 basilisk
 basilisk.utils
+batchelor
 bayNorm
 baySeq
 bcSeq
@@ -704,6 +721,7 @@ genoCN
 genomes
 genomicInstability
 geva
+ggcyto
 ggkegg
 ggmanh
 ggtree
@@ -740,6 +758,8 @@ iPath
 iSeq
 iasva
 ibh
+idr2d
+igvShiny
 illuminaio
 immunoClust
 immunotation
@@ -759,6 +779,7 @@ lfa
 limma
 limmaGUI
 lmdme
+loci2path
 logicFS
 lpNet
 lpsymphony
@@ -793,6 +814,7 @@ mgsa
 miRBaseConverter
 miRNApath
 miRcomp
+microSTASIS
 mina
 minet
 mirTarRnaSeq
@@ -824,6 +846,7 @@ normalize450K
 nuCpos
 nucleoSim
 occugene
+oligoClasses
 omada
 ompBAM
 oncoscanR
@@ -925,6 +948,7 @@ sagenhaft
 sangerseqR
 satuRn
 scBubbletree
+scDDboost
 scDataviz
 scDesign3
 scDiagnostics
