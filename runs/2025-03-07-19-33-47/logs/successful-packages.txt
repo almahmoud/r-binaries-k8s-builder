@@ -1274,3 +1274,13 @@ CNVRanger
 debCAM
 dinoR
 scCB2
+FastqCleaner
+IONiseR
+metagene2
+methylKit
+nucleR
+pipeComp
+segmentSeq
+systemPipeR
+tidySingleCellExperiment
+VAExprs

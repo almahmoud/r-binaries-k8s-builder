@@ -1398,3 +1398,6 @@ sevenC
 syntenet
 tidyCoverage
 wiggleplotr
+methInheritSim
+methylInheritance
+tidySpatialExperiment
