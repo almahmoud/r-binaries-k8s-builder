@@ -30,6 +30,7 @@ BUS
 BaseSpaceR
 BayesKnockdown
 BeadDataPackR
+BiGGR
 BiRewire
 BioCartaImage
 BioMVCClass
@@ -55,6 +56,7 @@ CFAssay
 CGEN
 CGHbase
 CGHcall
+CGHnormaliter
 CGHregions
 CIMICE
 CMA
@@ -63,8 +65,10 @@ COMPASS
 CONSTANd
 COSNet
 CTDquerier
+CardinalIO
 CausalR
 CellMapper
+CellNOptR
 ChemmineOB
 ChemmineR
 Chicago
@@ -73,6 +77,8 @@ ClusterJudge
 ClusterSignificance
 ComPrAn
 ConsensusClusterPlus
+Cormotif
+CytoDx
 CytoGLMM
 DART
 DCATS
@@ -80,6 +86,7 @@ DEGseq
 DEqMS
 DEsingle
 DFP
+DFplyr
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
@@ -90,16 +97,19 @@ DepInfeR
 DepecheR
 DiffLogo
 Director
+Doscheda
 DriverNet
 DynDoc
 EBImage
 EBSeq
 EBarrays
+EBcoexpress
 EMDomics
 EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
 EpiDISH
+ExiMiR
 ExploreModelMatrix
 FGNet
 FISHalyseR
@@ -158,6 +168,7 @@ IMPCdata
 INDEED
 INPower
 INTACT
+IRanges
 ISAnalytics
 ISoLDE
 Icens
@@ -166,6 +177,7 @@ IntramiRExploreR
 IsoCorrectoR
 IsoCorrectoRGUI
 KBoost
+KCsmart
 KEGGgraph
 KinSwingR
 LBE
@@ -198,6 +210,7 @@ MetID
 MethPed
 MethylMix
 Mfuzz
+MiChip
 MiPP
 ModCon
 MsCoreUtils
@@ -275,6 +288,7 @@ Rcollectl
 Rcwl
 RcwlPipelines
 Rdisop
+ReUseData
 ReactomeGSA
 ReadqPCR
 RedeR
@@ -301,10 +315,12 @@ SNAGEE
 SNPRelate
 SNPediaR
 SPEM
+SPIA
 SRAdb
 STRINGdb
 SUITOR
 SamSPECTRAL
+Sconify
 ScreenR
 SharedObject
 SpaceMarkers
@@ -324,8 +340,10 @@ VERSO
 VennDetail
 Wrench
 XINA
+a4Core
 a4Preproc
 a4Reporting
+aCGH
 abseqR
 acde
 affxparser
@@ -336,6 +354,7 @@ agilp
 alabaster.schemas
 alevinQC
 annotationTools
+anota
 antiProfiles
 aroma.light
 arrayQuality
@@ -347,6 +366,7 @@ basilisk.utils
 bioDist
 biobroom
 biobtreeR
+biocViews
 biocroxytest
 biocthis
 biodb
@@ -356,6 +376,7 @@ biodbNcbi
 biodbNci
 biodbUniprot
 biomformat
+bluster
 brendaDb
 bugsigdbr
 calm
@@ -424,16 +445,21 @@ fedup
 fenr
 fgga
 fgsea
+flowAI
+flowBeads
 flowCore
 flowCyBar
 flowGraph
 flowPeaks
 flowPlots
+flowTime
+flowViz
 flowcatchR
 fmcsR
 fmrs
 fobitools
 frenchFISH
+frmaTools
 gaga
 garfield
 gcatest
@@ -480,6 +506,7 @@ iPath
 iSeq
 ibh
 illuminaio
+immunoClust
 immunotation
 impute
 interacCircos
@@ -496,6 +523,7 @@ limma
 limmaGUI
 lmdme
 logicFS
+lpNet
 lpsymphony
 maCorrPlot
 maSigPro
@@ -532,10 +560,12 @@ mistyR
 mitch
 mixOmics
 mnem
+mosbi
 multiClust
 multiscan
 multtest
 mzID
+mzR
 ndexr
 netprioR
 netresponse
@@ -554,6 +584,7 @@ parglms
 parody
 pathifier
 pathwayPCA
+pcaMethods
 pengls
 pepXMLTab
 pfamAnalyzeR
@@ -576,6 +607,7 @@ progeny
 projectR
 proteinProfiles
 pvac
+pvca
 qckitfastq
 qcmetrics
 quantsmooth
@@ -643,11 +675,13 @@ subSeq
 survcomp
 swfdr
 switchBox
+synapsis
 synergyfinder
 synlet
 systemPipeShiny
 tanggle
 ternarynet
+tidyFlowCore
 tidysbml
 timeOmics
 timecourse
@@ -659,6 +693,7 @@ treeio
 tripr
 ttgsea
 tweeDEseq
+twilight
 twoddpcr
 tximport
 unifiedWMWqPCR
