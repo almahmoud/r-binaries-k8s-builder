@@ -1980,3 +1980,10 @@ GRaNIE
 scTGIF
 VariantAnnotation
 yarn
+Cepo
+EnrichmentBrowser
+gep2pep
+mogsa
+sparrow
+TissueEnrich
+TMSig

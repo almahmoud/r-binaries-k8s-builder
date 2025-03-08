@@ -176,6 +176,7 @@ CellNOptR
 CellScore
 CellTrails
 CelliD
+Cepo
 CexoR
 ChIPComp
 ChIPQC
@@ -298,6 +299,7 @@ EnMCB
 EnhancedVolcano
 EnrichDO
 EnrichedHeatmap
+EnrichmentBrowser
 EpiCompare
 EpiDISH
 EpiMix
@@ -902,6 +904,7 @@ TFEA.ChIP
 TFHAZ
 TFutils
 TIN
+TMSig
 TMixClust
 TOAST
 TOP
@@ -917,6 +920,7 @@ TargetDecoy
 TargetScore
 TargetSearch
 TileDBArray
+TissueEnrich
 TnT
 ToxicoGx
 TrajectoryGeometry
@@ -1305,6 +1309,7 @@ genomation
 genomeIntervals
 genomes
 genomicInstability
+gep2pep
 getDEE2
 geva
 gg4way
@@ -1515,6 +1520,7 @@ mixOmics
 mnem
 moanin
 mobileRNA
+mogsa
 monocle
 mosaics
 mosbi
@@ -1843,6 +1849,7 @@ snm
 snpStats
 soGGi
 spaSim
+sparrow
 sparseMatrixStats
 sparsenetgls
 spatialDE
