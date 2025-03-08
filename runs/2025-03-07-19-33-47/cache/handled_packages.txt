@@ -44,6 +44,7 @@ AnnotationDbi
 AnnotationFilter
 AnnotationForge
 AnnotationHub
+AnnotationHubData
 ArrayExpress
 AssessORF
 BADER
@@ -1066,9 +1067,11 @@ biomaRt
 biomformat
 biosigner
 biotmle
+biscuiteer
 blacksheepr
 blima
 bluster
+bnbc
 borealis
 branchpointer
 breakpointR
@@ -1242,6 +1245,7 @@ epigraHMM
 epiregulon.extra
 epistack
 epistasisGA
+epivizrData
 epivizrServer
 erccdashboard
 escheR
@@ -1576,6 +1580,7 @@ multtest
 mumosa
 muscat
 muscle
+musicatk
 mygene
 mzID
 mzR

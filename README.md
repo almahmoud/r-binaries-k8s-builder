@@ -4,12 +4,12 @@
 
 ## Summary
 
-- 2027 packages built successfully
+- 2032 packages built successfully
 - 0 packages failed to build
-- 206 packages not yet processed
+- 201 packages not yet processed
 
 
-## Successfully Built (2027)
+## Successfully Built (2032)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -2039,8 +2039,13 @@
 | [GSReg](https://bioconductor.org/packages/3.20/bioc/html/GSReg.html)                                           | Built    | [Log](runs/2025-03-07-19-33-47/logs/GSReg/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSReg)                      |
 | [ballgown](https://bioconductor.org/packages/3.20/bioc/html/ballgown.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/ballgown/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ballgown)                   |
 | [blacksheepr](https://bioconductor.org/packages/3.20/bioc/html/blacksheepr.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/blacksheepr/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/blacksheepr)                |
+| [AnnotationHubData](https://bioconductor.org/packages/3.20/bioc/html/AnnotationHubData.html)                   | Built    | [Log](runs/2025-03-07-19-33-47/logs/AnnotationHubData/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AnnotationHubData)          |
+| [biscuiteer](https://bioconductor.org/packages/3.20/bioc/html/biscuiteer.html)                                 | Built    | [Log](runs/2025-03-07-19-33-47/logs/biscuiteer/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biscuiteer)                 |
+| [bnbc](https://bioconductor.org/packages/3.20/bioc/html/bnbc.html)                                             | Built    | [Log](runs/2025-03-07-19-33-47/logs/bnbc/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bnbc)                       |
+| [epivizrData](https://bioconductor.org/packages/3.20/bioc/html/epivizrData.html)                               | Built    | [Log](runs/2025-03-07-19-33-47/logs/epivizrData/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epivizrData)                |
+| [musicatk](https://bioconductor.org/packages/3.20/bioc/html/musicatk.html)                                     | Built    | [Log](runs/2025-03-07-19-33-47/logs/musicatk/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/musicatk)                   |
 
-## Not Yet Processed (206)
+## Not Yet Processed (201)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [AHMassBank](https://bioconductor.org/packages/3.20/bioc/html/AHMassBank.html)                                   | Unprocessed |
@@ -2049,7 +2054,6 @@
 | [ATACseqTFEA](https://bioconductor.org/packages/3.20/bioc/html/ATACseqTFEA.html)                                 | Unprocessed |
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                                 | Unprocessed |
 | [AllelicImbalance](https://bioconductor.org/packages/3.20/bioc/html/AllelicImbalance.html)                       | Unprocessed |
-| [AnnotationHubData](https://bioconductor.org/packages/3.20/bioc/html/AnnotationHubData.html)                     | Unprocessed |
 | [BOBaFIT](https://bioconductor.org/packages/3.20/bioc/html/BOBaFIT.html)                                         | Unprocessed |
 | [BubbleTree](https://bioconductor.org/packages/3.20/bioc/html/BubbleTree.html)                                   | Unprocessed |
 | [CAFE](https://bioconductor.org/packages/3.20/bioc/html/CAFE.html)                                               | Unprocessed |
@@ -2150,8 +2154,6 @@
 | [bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)                                       | Unprocessed |
 | [biomvRCNS](https://bioconductor.org/packages/3.20/bioc/html/biomvRCNS.html)                                     | Unprocessed |
 | [biovizBase](https://bioconductor.org/packages/3.20/bioc/html/biovizBase.html)                                   | Unprocessed |
-| [biscuiteer](https://bioconductor.org/packages/3.20/bioc/html/biscuiteer.html)                                   | Unprocessed |
-| [bnbc](https://bioconductor.org/packages/3.20/bioc/html/bnbc.html)                                               | Unprocessed |
 | [bnem](https://bioconductor.org/packages/3.20/bioc/html/bnem.html)                                               | Unprocessed |
 | [cageminer](https://bioconductor.org/packages/3.20/bioc/html/cageminer.html)                                     | Unprocessed |
 | [canceR](https://bioconductor.org/packages/3.20/bioc/html/canceR.html)                                           | Unprocessed |
@@ -2181,7 +2183,6 @@
 | [epiregulon](https://bioconductor.org/packages/3.20/bioc/html/epiregulon.html)                                   | Unprocessed |
 | [epivizr](https://bioconductor.org/packages/3.20/bioc/html/epivizr.html)                                         | Unprocessed |
 | [epivizrChart](https://bioconductor.org/packages/3.20/bioc/html/epivizrChart.html)                               | Unprocessed |
-| [epivizrData](https://bioconductor.org/packages/3.20/bioc/html/epivizrData.html)                                 | Unprocessed |
 | [epivizrStandalone](https://bioconductor.org/packages/3.20/bioc/html/epivizrStandalone.html)                     | Unprocessed |
 | [erma](https://bioconductor.org/packages/3.20/bioc/html/erma.html)                                               | Unprocessed |
 | [esATAC](https://bioconductor.org/packages/3.20/bioc/html/esATAC.html)                                           | Unprocessed |
@@ -2217,7 +2218,6 @@
 | [motifbreakR](https://bioconductor.org/packages/3.20/bioc/html/motifbreakR.html)                                 | Unprocessed |
 | [msgbsR](https://bioconductor.org/packages/3.20/bioc/html/msgbsR.html)                                           | Unprocessed |
 | [multicrispr](https://bioconductor.org/packages/3.20/bioc/html/multicrispr.html)                                 | Unprocessed |
-| [musicatk](https://bioconductor.org/packages/3.20/bioc/html/musicatk.html)                                       | Unprocessed |
 | [myvariant](https://bioconductor.org/packages/3.20/bioc/html/myvariant.html)                                     | Unprocessed |
 | [netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)                                         | Unprocessed |
 | [octad](https://bioconductor.org/packages/3.20/bioc/html/octad.html)                                             | Unprocessed |

@@ -2108,3 +2108,7 @@ epiregulon
 esATAC
 pageRank
 VaSP
+AHMassBank
+ExperimentHubData
+epivizr
+epivizrChart
