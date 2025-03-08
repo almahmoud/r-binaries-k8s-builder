@@ -1438,3 +1438,12 @@ NetActivity
 PathoStat
 SCOPE
 TCC
+affyPLM
+deltaCaptureC
+DiffBind
+distinct
+gg4way
+iSEEde
+omicplotR
+pairkat
+SpectralTAD

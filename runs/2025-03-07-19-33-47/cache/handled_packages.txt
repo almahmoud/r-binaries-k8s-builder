@@ -200,6 +200,7 @@ DelayedRandomArray
 DelayedTensor
 DepInfeR
 DepecheR
+DiffBind
 DiffLogo
 DifferentialRegulation
 Dino
@@ -645,6 +646,7 @@ SpatialOmicsOverlay
 SpeCond
 Spectra
 SpectraQL
+SpectralTAD
 SplicingFactory
 SpotClean
 SpotSweeper
@@ -711,6 +713,7 @@ affxparser
 affy
 affyContam
 affyILM
+affyPLM
 affycomp
 affyio
 aggregateBioVar
@@ -850,6 +853,7 @@ debCAM
 decontX
 decontam
 decoupleR
+deltaCaptureC
 deltaGseg
 demuxmix
 densvis
@@ -863,6 +867,7 @@ diggit
 dinoR
 dir.expiry
 discordant
+distinct
 dittoSeq
 divergence
 dks
@@ -956,6 +961,7 @@ genomeIntervals
 genomes
 genomicInstability
 geva
+gg4way
 ggcyto
 ggkegg
 ggmanh
@@ -1006,6 +1012,7 @@ iClusterPlus
 iGC
 iPath
 iSEE
+iSEEde
 iSEEfier
 iSEEhex
 iSEEindex
@@ -1144,6 +1151,7 @@ odseq
 oligo
 oligoClasses
 omada
+omicplotR
 omicsViewer
 ompBAM
 oncomix
@@ -1156,6 +1164,7 @@ optimalFlow
 orthogene
 packFinder
 paircompviz
+pairkat
 pandaR
 panelcn.mops
 panp
