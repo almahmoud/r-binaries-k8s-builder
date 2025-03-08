@@ -2034,3 +2034,9 @@ atSNP
 bnem
 canceR
 pageRank
+cardelino
+debrowser
+DeMixT
+GEOexplorer
+HarmonizR
+VaSP

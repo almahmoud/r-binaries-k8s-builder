@@ -264,6 +264,7 @@ DSS
 DTA
 DaMiRseq
 DeMAND
+DeMixT
 DeconRNASeq
 DeepPINCS
 DeepTarget
@@ -342,6 +343,7 @@ GDSArray
 GEM
 GENESIS
 GENIE3
+GEOexplorer
 GEOfastq
 GEOmetadb
 GEOquery
@@ -428,6 +430,7 @@ HPAanalyze
 HPiP
 HTSFilter
 Harman
+HarmonizR
 Harshlight
 Heatplus
 Herper
@@ -956,6 +959,7 @@ UniProt.ws
 VAExprs
 VDJdive
 VERSO
+VaSP
 VanillaICE
 VarCon
 VariantAnnotation
@@ -1087,6 +1091,7 @@ cTRAP
 calm
 canceR
 cancerclass
+cardelino
 casper
 cbaf
 cbpManager
@@ -1193,6 +1198,7 @@ ddCt
 ddPCRclust
 dearseq
 debCAM
+debrowser
 decompTumor2Sig
 decontX
 decontam
