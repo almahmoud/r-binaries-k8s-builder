@@ -196,6 +196,7 @@ ClusterJudge
 ClusterSignificance
 CoCiteStats
 CoGAPS
+CoSIA
 Cogito
 ComPrAn
 ComplexHeatmap
@@ -330,6 +331,7 @@ GMRP
 GNET2
 GOSemSim
 GOTHiC
+GOexpress
 GOfuncR
 GOpro
 GPA
@@ -420,6 +422,7 @@ IMMAN
 IMPCdata
 INDEED
 INPower
+INSPEcT
 INTACT
 IONiseR
 IPO
@@ -436,6 +439,7 @@ IgGeneUsage
 InPAS
 InTAD
 Informeasure
+InterCellar
 InteractionSet
 InteractiveComplexHeatmap
 IntramiRExploreR
@@ -481,6 +485,7 @@ MBttest
 MCbiclust
 MDTS
 MEB
+MEDIPS
 MEDME
 MEIGOR
 MGnifyR
@@ -555,6 +560,7 @@ Modstrings
 MoleculeExperiment
 Motif2Site
 MotifDb
+MouseFM
 MsBackendMassbank
 MsBackendMetaboLights
 MsBackendMgf
@@ -586,6 +592,7 @@ NanoTube
 Nebulosa
 NetActivity
 NetPathMiner
+NetSAM
 NewWave
 NormalyzerDE
 NormqPCR
@@ -602,6 +609,7 @@ OmicCircos
 OmicsMLRepoR
 Omixer
 OmnipathR
+OncoScore
 OncoSimulR
 OpenStats
 OrderedList
@@ -621,6 +629,7 @@ PIUMA
 PLPE
 PLSDAbatch
 POWSC
+PPInfer
 PREDA
 PROPER
 PROPS
@@ -647,6 +656,7 @@ PolySTest
 PrInCE
 Prostar
 ProtGenerics
+ProteoMM
 QDNAseq
 QFeatures
 QSutils
@@ -677,6 +687,7 @@ RImmPort
 RJMCMCNucleosomes
 RLMM
 RLassoCox
+RMassBank
 RNASeqPower
 RNAdecay
 RNAsense
@@ -889,6 +900,7 @@ XINA
 XNAString
 XVector
 Xeva
+a4
 a4Base
 a4Classif
 a4Core
@@ -946,6 +958,7 @@ awst
 bacon
 bambu
 bamsignals
+bandle
 banocc
 barcodetrackR
 basecallQC
