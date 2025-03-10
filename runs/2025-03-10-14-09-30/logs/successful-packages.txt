@@ -652,3 +652,9 @@ pvca
 S4Arrays
 SPIA
 XVector
+DEGraph
+frmaTools
+gDRstyle
+MEIGOR
+SIMAT
+TargetDecoy

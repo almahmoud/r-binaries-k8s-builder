@@ -85,6 +85,7 @@ ConsensusClusterPlus
 Cormotif
 DART
 DCATS
+DEGraph
 DEGseq
 DEqMS
 DFP
@@ -189,6 +190,7 @@ MACSQuantifyR
 MBAmethyl
 MBCB
 MBttest
+MEIGOR
 MPFE
 MSstats
 MSstatsBig
@@ -298,6 +300,7 @@ S4Vectors
 SANTA
 SBMLR
 SCBN
+SIMAT
 SIMD
 SIMLR
 SLqPCR
@@ -321,6 +324,7 @@ SwathXtend
 TPP
 TRONCO
 TSAR
+TargetDecoy
 TargetScore
 TargetSearch
 TrajectoryGeometry
@@ -440,6 +444,8 @@ flowPlots
 fmcsR
 fmrs
 frenchFISH
+frmaTools
+gDRstyle
 gaga
 garfield
 gcatest
