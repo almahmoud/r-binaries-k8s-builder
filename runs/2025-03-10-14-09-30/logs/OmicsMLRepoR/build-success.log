@@ -1,0 +1,172 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'OmicsMLRepoR'
+also installing the dependencies ‘BiocSingular’, ‘SingleCellExperiment’, ‘DECIPHER’, ‘DirichletMultinomial’, ‘scater’, ‘scuttle’, ‘GenomicDataCommons’, ‘TreeSummarizedExperiment’, ‘mia’, ‘IRanges’, ‘RaggedExperiment’, ‘RTCGAToolbox’, ‘TCGAutils’, ‘curatedMetagenomicData’, ‘cBioPortalData’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocSingular_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 617927 bytes (603 KB)
+==================================================
+downloaded 603 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SingleCellExperiment_1.28.1.tar.gz'
+Content type 'application/x-gzip' length 985694 bytes (962 KB)
+==================================================
+downloaded 962 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DECIPHER_3.2.0.tar.gz'
+Content type 'application/x-gzip' length 17612526 bytes (16.8 MB)
+==================================================
+downloaded 16.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DirichletMultinomial_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 1112440 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/scater_1.34.1.tar.gz'
+Content type 'application/x-gzip' length 4638354 bytes (4.4 MB)
+==================================================
+downloaded 4.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/scuttle_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 1034711 bytes (1010 KB)
+==================================================
+downloaded 1010 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicDataCommons_1.30.1.tar.gz'
+Content type 'application/x-gzip' length 2770759 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/TreeSummarizedExperiment_2.14.0.tar.gz'
+Content type 'application/x-gzip' length 1164581 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/mia_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 3130972 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/RaggedExperiment_1.30.0.tar.gz'
+Content type 'application/x-gzip' length 704201 bytes (687 KB)
+==================================================
+downloaded 687 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/RTCGAToolbox_2.36.0.tar.gz'
+Content type 'application/x-gzip' length 2444701 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/TCGAutils_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 417619 bytes (407 KB)
+==================================================
+downloaded 407 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/curatedMetagenomicData_3.14.0.tar.gz'
+Content type 'application/x-gzip' length 1941420 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/cBioPortalData_2.18.1.tar.gz'
+Content type 'application/x-gzip' length 1058731 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/OmicsMLRepoR_1.0.0.tar.gz'
+Content type 'application/x-gzip' length 437603 bytes (427 KB)
+==================================================
+downloaded 427 KB
+
+* installing *source* package ‘BiocSingular’ ...
+** package ‘BiocSingular’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++17
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/beachmat/include' -I'/mnt/library/assorthead/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c compute_scale.cpp -o compute_scale.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o BiocSingular.so RcppExports.o compute_scale.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-BiocSingular/00new/BiocSingular/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]) : 
+  there is no package called ‘IRanges’
+Calls: <Anonymous> ... loadNamespace -> withRestarts -> withOneRestart -> doWithOneRestart
+Execution halted
+ERROR: lazy loading failed for package ‘BiocSingular’
+* removing ‘/mnt/library/BiocSingular’
+* installing *source* package ‘SingleCellExperiment’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package ‘IRanges’ required by ‘GenomicRanges’ could not be found
+Execution halted
+ERROR: lazy loading failed for package ‘SingleCellExperiment’
+* removing ‘/mnt/library/SingleCellExperiment’
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-IRanges’
+* installing *source* package ‘OmicsMLRepoR’ ...
+** package ‘OmicsMLRepoR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘OmicsMLRepoR’ as ‘OmicsMLRepoR_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (OmicsMLRepoR)
+ERROR: dependency ‘IRanges’ is not available for package ‘DECIPHER’
+* removing ‘/mnt/library/DECIPHER’
+ERROR: dependency ‘IRanges’ is not available for package ‘DirichletMultinomial’
+* removing ‘/mnt/library/DirichletMultinomial’
+ERROR: dependency ‘SingleCellExperiment’ is not available for package ‘scuttle’
+* removing ‘/mnt/library/scuttle’
+ERROR: dependency ‘IRanges’ is not available for package ‘GenomicDataCommons’
+* removing ‘/mnt/library/GenomicDataCommons’
+ERROR: dependencies ‘SingleCellExperiment’, ‘IRanges’ are not available for package ‘TreeSummarizedExperiment’
+* removing ‘/mnt/library/TreeSummarizedExperiment’
+ERROR: dependency ‘IRanges’ is not available for package ‘RaggedExperiment’
+* removing ‘/mnt/library/RaggedExperiment’
+ERROR: dependencies ‘SingleCellExperiment’, ‘scuttle’, ‘BiocSingular’ are not available for package ‘scater’
+* removing ‘/mnt/library/scater’
+ERROR: dependencies ‘GenomicDataCommons’, ‘IRanges’, ‘RaggedExperiment’ are not available for package ‘TCGAutils’
+* removing ‘/mnt/library/TCGAutils’
+ERROR: dependencies ‘SingleCellExperiment’, ‘TreeSummarizedExperiment’, ‘DECIPHER’, ‘DirichletMultinomial’, ‘IRanges’, ‘scater’, ‘scuttle’ are not available for package ‘mia’
+* removing ‘/mnt/library/mia’
+ERROR: dependencies ‘RaggedExperiment’, ‘TCGAutils’ are not available for package ‘RTCGAToolbox’
+* removing ‘/mnt/library/RTCGAToolbox’
+ERROR: dependencies ‘TreeSummarizedExperiment’, ‘mia’ are not available for package ‘curatedMetagenomicData’
+* removing ‘/mnt/library/curatedMetagenomicData’
+ERROR: dependencies ‘IRanges’, ‘RaggedExperiment’, ‘RTCGAToolbox’, ‘TCGAutils’ are not available for package ‘cBioPortalData’
+* removing ‘/mnt/library/cBioPortalData’
+
+The downloaded source packages are in
+	‘/tmp/Rtmp5Lyhni/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+There were 15 warnings (use warnings() to see them)
+
+real	0m53.217s
+user	0m27.630s
+sys	0m8.573s
