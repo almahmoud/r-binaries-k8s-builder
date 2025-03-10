@@ -1,0 +1,107 @@
+#!/bin/bash
+# finish_cycle.sh - Creates PACKAGES index and preserves old packages
+# Usage: ./finish_cycle.sh <run-id> <old-packages-url>
+
+if [ $# -ne 2 ]; then
+    echo "Error: Invalid arguments"
+    echo "Usage: $0 <run-id> <old-packages-url>"
+    exit 1
+fi
+
+RUN_ID=$1
+OLD_URL=$2
+NAMESPACE="ns-${RUN_ID}"
+PVC_NAME="bioc-pvc-${RUN_ID}"
+
+# First create rclone config secret if not exists
+echo "Creating rclone config secret..."
+TMPFILE=$(mktemp)
+echo "$RCLONE_CONF" > "${TMPFILE}"
+kubectl create secret generic rclone-config \
+  --from-file=rclone.conf="${TMPFILE}" \
+  -n ${NAMESPACE} || true
+rm -f "${TMPFILE}"
+
+# Create the indexing job
+echo "Creating package indexing job..."
+cat <<EOF | kubectl apply -f -
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: index-packages-${RUN_ID}
+  namespace: ${NAMESPACE}
+spec:
+  template:
+    spec:
+      initContainers:
+      - name: package-indexer
+        image: bioconductor/bioconductor_docker:latest
+        command: ["/bin/bash", "-c"]
+        args:
+        - |
+          set -euxo pipefail
+          mkdir -p /tmp/pkglinks
+          cd /mnt/tarballs
+          
+          # Link new packages
+          for tarball in *.tar.gz; do
+            [ -f "\$tarball" ] && ln -s "/mnt/tarballs/\$tarball" "/tmp/pkglinks/\$tarball"
+            [ -f "\$tarball" ] && echo "\${tarball%%_*}" >> /tmp/new_packages.txt
+          done
+          
+          # Handle old packages if URL provided
+          if [ -n "${OLD_URL}" ] && curl -sfL "${OLD_URL}" -o /tmp/old_packages; then
+            grep "^Package:" /tmp/old_packages | cut -d' ' -f2 > /tmp/old_packages.txt
+            comm -23 <(sort /tmp/old_packages.txt) <(sort /tmp/new_packages.txt) | while read pkg; do
+              pkg_pattern="\${pkg}_.*\\.tar\\.gz"
+              old_tarball=\$(grep -h "\$pkg_pattern" /tmp/old_packages | grep "^Filename:" | cut -d' ' -f2)
+              [ -n "\$old_tarball" ] && curl -sfL "${OLD_URL%/*}/\$old_tarball" -o "/tmp/pkglinks/\$old_tarball"
+            done
+          fi
+          
+          # Generate index
+          cd /tmp/pkglinks
+          Rscript -e 'tools::write_PACKAGES(".", addFiles = TRUE, verbose = TRUE, latestOnly = TRUE)'
+          cp PACKAGES* /mnt/tarballs/
+        volumeMounts:
+        - name: bioc-data
+          mountPath: /mnt
+      containers:
+      - name: rclone-sync
+        image: rclone/rclone:latest
+        command: ["rclone"]
+        args:
+        - "copy"
+        - "--verbose"
+        - "--progress"
+        - "/mnt/tarballs/"
+        - "final:/bioconductor-packages/\${BIOC_VERSION}/container-binaries/bioconductor_docker/src/contrib/"
+        env:
+        - name: BIOC_VERSION
+          valueFrom:
+            configMapKeyRef:
+              name: bioc-version
+              key: version
+        volumeMounts:
+        - name: bioc-data
+          mountPath: /mnt
+        - name: rclone-config
+          mountPath: /config/rclone
+          readOnly: true
+        env:
+        - name: RCLONE_CONFIG
+          value: /config/rclone/rclone.conf
+      volumes:
+      - name: bioc-data
+        persistentVolumeClaim:
+          claimName: ${PVC_NAME}
+      - name: rclone-config
+        secret:
+          secretName: rclone-config
+          items:
+          - key: rclone.conf
+            path: rclone.conf
+      restartPolicy: OnFailure
+EOF
+
+kubectl wait --for=condition=complete job/index-packages-${RUN_ID} -n ${NAMESPACE} --timeout=300s

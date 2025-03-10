@@ -69,6 +69,8 @@ jobs:
           fi
 
       - name: Manage build lifecycle
+        env:
+          RCLONE_CONF: ${{secrets.RCLONE_CONF}}
         id: build
         run: |
           set -euxo pipefail
@@ -128,6 +130,26 @@ jobs:
           git add runs/
           ACTIVITY_CHECK=$(git diff --staged --name-status | grep -q "runs/${RUN_ID}/logs/.*packages.txt" && echo "true" || echo "false")
           echo "had_activity=${ACTIVITY_CHECK}" >> $GITHUB_OUTPUT
+
+          # After dispatching jobs, check if cycle is complete
+          RUNNING_JOBS=$(kubectl get jobs -n "ns-${RUN_ID}" -l app=bioc-builder --field-selector status.successful!=1,status.failed!=1 -o name | wc -l)
+          DISPATCHED_COUNT=$(wc -l < "runs/${RUN_ID}/logs/dispatched-packages.txt" || echo "0")
+          PROCESSED_COUNT=$(( $(wc -l < "runs/${RUN_ID}/logs/successful-packages.txt" || echo "0") + $(wc -l < "runs/${RUN_ID}/logs/failed-packages.txt" || echo "0") ))
+          READY_COUNT=$(wc -l < "runs/${RUN_ID}/ready_packages.txt" || echo "0")
+
+          if [[ "${RUNNING_JOBS}" == "0" && "${DISPATCHED_COUNT}" == "${PROCESSED_COUNT}" && "${READY_COUNT}" == "0" ]]; then
+            echo "No more jobs running, all dispatched packages processed, and no new packages ready."
+            echo "Running repository indexing..."
+            
+            OLD_PACKAGES_URL="${{ vars.OLD_PACKAGES_URL }}"
+            bash ./.github/scripts/finish_cycle.sh "${RUN_ID}" "${OLD_PACKAGES_URL:-}"
+          else
+            echo "Cycle continues:"
+            echo "- Running jobs: ${RUNNING_JOBS}"
+            echo "- Dispatched packages: ${DISPATCHED_COUNT}"
+            echo "- Processed packages: ${PROCESSED_COUNT}"
+            echo "- Ready packages: ${READY_COUNT}"
+          fi
 
           # Update README
           pip install tabulate requests pyyaml
