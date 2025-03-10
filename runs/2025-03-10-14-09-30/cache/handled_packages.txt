@@ -455,6 +455,7 @@ RTCA
 RTCGA
 RTN
 RTNduals
+RTNsurvival
 RTopper
 RUVnormalize
 RaggedExperiment
@@ -951,6 +952,7 @@ nuCpos
 nucleoSim
 occugene
 odseq
+oligoClasses
 omada
 omicade4
 omicsPrint

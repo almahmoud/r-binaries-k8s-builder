@@ -1170,3 +1170,5 @@ rqt
 sangeranalyseR
 spatialHeatmap
 a4
+oligoClasses
+RTNsurvival

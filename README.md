@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1172 packages built successfully
+- 1174 packages built successfully
 - 29 packages failed to build
-- 1032 packages not yet processed
+- 1030 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                                                                                       |
@@ -42,7 +42,7 @@
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-10-14-09-30/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Compilation failed:  ‘affxparser’
 Compilation failed:  ‘fastseg’                                      |
 
-## Successfully Built (1172)
+## Successfully Built (1174)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-10-14-09-30/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1217,8 +1217,10 @@ Compilation failed:  ‘fastseg’                                      |
 | [sangeranalyseR](https://bioconductor.org/packages/3.20/bioc/html/sangeranalyseR.html)                       | Built    | [Log](runs/2025-03-10-14-09-30/logs/sangeranalyseR/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sangeranalyseR)            |
 | [spatialHeatmap](https://bioconductor.org/packages/3.20/bioc/html/spatialHeatmap.html)                       | Built    | [Log](runs/2025-03-10-14-09-30/logs/spatialHeatmap/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spatialHeatmap)            |
 | [a4](https://bioconductor.org/packages/3.20/bioc/html/a4.html)                                               | Built    | [Log](runs/2025-03-10-14-09-30/logs/a4/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/a4)                        |
+| [RTNsurvival](https://bioconductor.org/packages/3.20/bioc/html/RTNsurvival.html)                             | Built    | [Log](runs/2025-03-10-14-09-30/logs/RTNsurvival/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RTNsurvival)               |
+| [oligoClasses](https://bioconductor.org/packages/3.20/bioc/html/oligoClasses.html)                           | Built    | [Log](runs/2025-03-10-14-09-30/logs/oligoClasses/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/oligoClasses)              |
 
-## Not Yet Processed (1032)
+## Not Yet Processed (1030)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1597,7 +1599,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [RPA](https://bioconductor.org/packages/3.20/bioc/html/RPA.html)                                                 | Unprocessed |
 | [RSVSim](https://bioconductor.org/packages/3.20/bioc/html/RSVSim.html)                                           | Unprocessed |
 | [RTCGAToolbox](https://bioconductor.org/packages/3.20/bioc/html/RTCGAToolbox.html)                               | Unprocessed |
-| [RTNsurvival](https://bioconductor.org/packages/3.20/bioc/html/RTNsurvival.html)                                 | Unprocessed |
 | [RUVSeq](https://bioconductor.org/packages/3.20/bioc/html/RUVSeq.html)                                           | Unprocessed |
 | [RUVcorr](https://bioconductor.org/packages/3.20/bioc/html/RUVcorr.html)                                         | Unprocessed |
 | [RVS](https://bioconductor.org/packages/3.20/bioc/html/RVS.html)                                                 | Unprocessed |
@@ -2052,7 +2053,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [nullranges](https://bioconductor.org/packages/3.20/bioc/html/nullranges.html)                                   | Unprocessed |
 | [octad](https://bioconductor.org/packages/3.20/bioc/html/octad.html)                                             | Unprocessed |
 | [oligo](https://bioconductor.org/packages/3.20/bioc/html/oligo.html)                                             | Unprocessed |
-| [oligoClasses](https://bioconductor.org/packages/3.20/bioc/html/oligoClasses.html)                               | Unprocessed |
 | [omXplore](https://bioconductor.org/packages/3.20/bioc/html/omXplore.html)                                       | Unprocessed |
 | [omicRexposome](https://bioconductor.org/packages/3.20/bioc/html/omicRexposome.html)                             | Unprocessed |
 | [omicplotR](https://bioconductor.org/packages/3.20/bioc/html/omicplotR.html)                                     | Unprocessed |
