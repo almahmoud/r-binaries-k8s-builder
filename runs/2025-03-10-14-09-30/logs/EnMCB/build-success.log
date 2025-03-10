@@ -1,0 +1,491 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'EnMCB'
+also installing the dependencies ‘biomaRt’, ‘txdbmaker’, ‘genefilter’, ‘BiocParallel’, ‘biovizBase’, ‘Rsamtools’, ‘GenomicAlignments’, ‘BSgenome’, ‘VariantAnnotation’, ‘rtracklayer’, ‘GenomicFeatures’, ‘OrganismDbi’, ‘ensembldb’, ‘AnnotationFilter’, ‘libcoin’, ‘inum’, ‘SparseArray’, ‘Category’, ‘GO.db’, ‘annotate’, ‘AnnotationForge’, ‘ff’, ‘PFAM.db’, ‘GSEABase’, ‘DESeq2’, ‘ggbio’, ‘polspline’, ‘stabs’, ‘partykit’, ‘DelayedArray’, ‘GOstats’, ‘gcrma’, ‘AnnotationDbi’, ‘oligoClasses’, ‘ReportingTools’, ‘Glimma’, ‘gridSVG’, ‘rms’, ‘mboost’, ‘survivalsvm’, ‘SummarizedExperiment’, ‘affycoretools’, ‘plotROC’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/biomaRt_2.62.1.tar.gz'
+Content type 'application/x-gzip' length 865748 bytes (845 KB)
+==================================================
+downloaded 845 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/txdbmaker_1.2.1.tar.gz'
+Content type 'application/x-gzip' length 1035549 bytes (1011 KB)
+==================================================
+downloaded 1011 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/genefilter_1.88.0.tar.gz'
+Content type 'application/x-gzip' length 1122416 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocParallel_1.40.0.tar.gz'
+Content type 'application/x-gzip' length 1000414 bytes (976 KB)
+==================================================
+downloaded 976 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/biovizBase_1.54.0.tar.gz'
+Content type 'application/x-gzip' length 2517547 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Rsamtools_2.22.0.tar.gz'
+Content type 'application/x-gzip' length 2925866 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicAlignments_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 2273284 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BSgenome_1.74.0.tar.gz'
+Content type 'application/x-gzip' length 5903543 bytes (5.6 MB)
+==================================================
+downloaded 5.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/VariantAnnotation_1.52.0.tar.gz'
+Content type 'application/x-gzip' length 2146415 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rtracklayer_1.66.0.tar.gz'
+Content type 'application/x-gzip' length 4112666 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomicFeatures_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 571678 bytes (558 KB)
+==================================================
+downloaded 558 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/OrganismDbi_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 397994 bytes (388 KB)
+==================================================
+downloaded 388 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ensembldb_2.30.0.tar.gz'
+Content type 'application/x-gzip' length 3540522 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationFilter_1.30.0.tar.gz'
+Content type 'application/x-gzip' length 325433 bytes (317 KB)
+==================================================
+downloaded 317 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/libcoin_1.0-10.tar.gz'
+Content type 'binary/octet-stream' length 810649 bytes (791 KB)
+==================================================
+downloaded 791 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/inum_1.0-5.tar.gz'
+Content type 'binary/octet-stream' length 37238 bytes (36 KB)
+==================================================
+downloaded 36 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SparseArray_1.6.2.tar.gz'
+Content type 'application/x-gzip' length 468696 bytes (457 KB)
+==================================================
+downloaded 457 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Category_2.72.0.tar.gz'
+Content type 'application/x-gzip' length 898436 bytes (877 KB)
+==================================================
+downloaded 877 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/GO.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 26341489 bytes (25.1 MB)
+==================================================
+downloaded 25.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/annotate_1.84.0.tar.gz'
+Content type 'application/x-gzip' length 1877068 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationForge_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 4036023 bytes (3.8 MB)
+==================================================
+downloaded 3.8 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ff_4.5.2.tar.gz'
+Content type 'binary/octet-stream' length 1045543 bytes (1021 KB)
+==================================================
+downloaded 1021 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/PFAM.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 7821565 bytes (7.5 MB)
+==================================================
+downloaded 7.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GSEABase_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 301339 bytes (294 KB)
+==================================================
+downloaded 294 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DESeq2_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 2516875 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ggbio_1.54.0.tar.gz'
+Content type 'application/x-gzip' length 3251015 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/polspline_1.1.25.tar.gz'
+Content type 'binary/octet-stream' length 602534 bytes (588 KB)
+==================================================
+downloaded 588 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/stabs_0.6-4.tar.gz'
+Content type 'binary/octet-stream' length 142146 bytes (138 KB)
+==================================================
+downloaded 138 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/partykit_1.2-23.tar.gz'
+Content type 'binary/octet-stream' length 2398305 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GOstats_2.72.0.tar.gz'
+Content type 'application/x-gzip' length 3706207 bytes (3.5 MB)
+==================================================
+downloaded 3.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/gcrma_2.78.0.tar.gz'
+Content type 'application/x-gzip' length 297437 bytes (290 KB)
+==================================================
+downloaded 290 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationDbi_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 4378038 bytes (4.2 MB)
+==================================================
+downloaded 4.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/oligoClasses_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 376227 bytes (367 KB)
+==================================================
+downloaded 367 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ReportingTools_2.46.0.tar.gz'
+Content type 'application/x-gzip' length 1878025 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Glimma_2.16.0.tar.gz'
+Content type 'application/x-gzip' length 11638164 bytes (11.1 MB)
+==================================================
+downloaded 11.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gridSVG_1.7-5.tar.gz'
+Content type 'binary/octet-stream' length 1435916 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rms_7.0-0.tar.gz'
+Content type 'binary/octet-stream' length 2332625 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mboost_2.9-11.tar.gz'
+Content type 'binary/octet-stream' length 2317004 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/survivalsvm_0.0.5.tar.gz'
+Content type 'binary/octet-stream' length 292370 bytes (285 KB)
+==================================================
+downloaded 285 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/affycoretools_1.78.0.tar.gz'
+Content type 'application/x-gzip' length 6927899 bytes (6.6 MB)
+==================================================
+downloaded 6.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/plotROC_2.3.1.tar.gz'
+Content type 'binary/octet-stream' length 1271537 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/EnMCB_1.18.0.tar.gz'
+Content type 'application/x-gzip' length 5169398 bytes (4.9 MB)
+==================================================
+downloaded 4.9 MB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-BiocParallel’
+* installing *source* package ‘AnnotationFilter’ ...
+** package ‘AnnotationFilter’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘AnnotationFilter’ as ‘AnnotationFilter_1.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (AnnotationFilter)
+* installing *binary* package ‘libcoin’ ...
+* ‘libcoin’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘libcoin’ as ‘libcoin_1.0-10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (libcoin)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-SparseArray’
+* installing *binary* package ‘ff’ ...
+* ‘ff’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ff’ as ‘ff_4.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ff)
+* installing *binary* package ‘polspline’ ...
+* ‘polspline’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘polspline’ as ‘polspline_1.1.25_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (polspline)
+* installing *binary* package ‘stabs’ ...
+* ‘stabs’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘stabs’ as ‘stabs_0.6-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (stabs)
+* installing *source* package ‘gcrma’ ...
+** package ‘gcrma’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c baseProfile.c -o baseProfile.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c computeAffinities.c -o computeAffinities.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c postmean.c -o postmean.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o gcrma.so baseProfile.o computeAffinities.o postmean.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-gcrma/00new/gcrma/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gcrma’ as ‘gcrma_2.78.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gcrma)
+* installing *source* package ‘AnnotationDbi’ ...
+** package ‘AnnotationDbi’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘packageName’ in package ‘AnnotationDbi’
+Creating a generic function for ‘ls’ from package ‘base’ in package ‘AnnotationDbi’
+Creating a generic function for ‘eapply’ from package ‘base’ in package ‘AnnotationDbi’
+Creating a generic function for ‘exists’ from package ‘base’ in package ‘AnnotationDbi’
+Creating a generic function for ‘sample’ from package ‘base’ in package ‘AnnotationDbi’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘AnnotationDbi’ as ‘AnnotationDbi_1.68.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (AnnotationDbi)
+* installing *binary* package ‘gridSVG’ ...
+* ‘gridSVG’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gridSVG’ as ‘gridSVG_1.7-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gridSVG)
+* installing *binary* package ‘survivalsvm’ ...
+* ‘survivalsvm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘survivalsvm’ as ‘survivalsvm_0.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (survivalsvm)
+* installing *source* package ‘biomaRt’ ...
+** package ‘biomaRt’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: S3 methods ‘as.list.Bimap’, ‘as.data.frame.Bimap’ were declared in NAMESPACE but not found
+Error in namespaceExport(ns, exports) : 
+  undefined exports: unlist2, showQCData, debugSQL, dbGetTable, GOTerms, makeGOGraph, dbFileConnect, dbFileDisconnect, mergeToNamespaceAndExport, getOrgPkgForSchema, chooseCentralOrgPkgSymbol, mapIds_base, resort_base, testForValidKeytype, testSelectArgs, loadDb, createAnnObjs.SchemaChoice, NCBICHIP_DB_SeedGenerator, filterSeeds, checkMAPCOUNTS, make_eg_to_go_map, make_go_to_eg_map, toSQLStringSet, organismKEGGFrame, inpIDMapper, intraIDMapper, idConverter, createSimpleBimap, as.list.Bimap, as.data.frame.Bimap
+Calls: <Anonymous> ... namespaceImportFrom -> asNamespace -> loadNamespace -> namespaceExport
+Execution halted
+ERROR: lazy loading failed for package ‘biomaRt’
+* removing ‘/mnt/library/biomaRt’
+* installing *source* package ‘Rsamtools’ ...
+** package ‘Rsamtools’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/mnt/library/Rhtslib/include' -I'/mnt/library/S4Vectors/include' -I'/mnt/library/IRanges/include' -I'/mnt/library/XVector/include' -I'/mnt/library/Biostrings/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Biostrings_stubs.c -o Biostrings_stubs.o
+In file included from /mnt/library/Biostrings/include/Biostrings_interface.h:115,
+                 from /mnt/library/Biostrings/include/_Biostrings_stubs.c:1,
+                 from Biostrings_stubs.c:1:
+/mnt/library/Biostrings/include/Biostrings_defines.h:18:10: fatal error: IRanges_defines.h: No such file or directory
+   18 | #include "IRanges_defines.h"
+      |          ^~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make: *** [/usr/local/lib/R/etc/Makeconf:195: Biostrings_stubs.o] Error 1
+ERROR: compilation failed for package ‘Rsamtools’
+* removing ‘/mnt/library/Rsamtools’
+* restoring previous ‘/mnt/library/Rsamtools’
+* installing *binary* package ‘inum’ ...
+* ‘inum’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘inum’ as ‘inum_1.0-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (inum)
+* installing *source* package ‘GO.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package ‘IRanges’ required by ‘AnnotationDbi’ could not be found
+Execution halted
+ERROR: lazy loading failed for package ‘GO.db’
+* removing ‘/mnt/library/GO.db’
+* installing *source* package ‘annotate’ ...
+** package ‘annotate’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package ‘IRanges’ required by ‘AnnotationDbi’ could not be found
+Execution halted
+ERROR: lazy loading failed for package ‘annotate’
+* removing ‘/mnt/library/annotate’
+* installing *source* package ‘AnnotationForge’ ...
+** package ‘AnnotationForge’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package ‘IRanges’ required by ‘AnnotationDbi’ could not be found
+Execution halted
+ERROR: lazy loading failed for package ‘AnnotationForge’
+* removing ‘/mnt/library/AnnotationForge’
+* installing *source* package ‘PFAM.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package ‘IRanges’ required by ‘AnnotationDbi’ could not be found
+Execution halted
+ERROR: lazy loading failed for package ‘PFAM.db’
+* removing ‘/mnt/library/PFAM.db’
+ERROR: dependency ‘IRanges’ is not available for package ‘DelayedArray’
+* removing ‘/mnt/library/DelayedArray’
+* installing *binary* package ‘rms’ ...
+* ‘rms’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rms’ as ‘rms_7.0-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rms)
+* installing *binary* package ‘plotROC’ ...
+* ‘plotROC’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘plotROC’ as ‘plotROC_2.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (plotROC)
+ERROR: dependency ‘annotate’ is not available for package ‘genefilter’
+* removing ‘/mnt/library/genefilter’
+ERROR: dependency ‘annotate’ is not available for package ‘GSEABase’
+* removing ‘/mnt/library/GSEABase’
+* installing *binary* package ‘partykit’ ...
+* ‘partykit’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘partykit’ as ‘partykit_1.2-23_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (partykit)
+ERROR: dependencies ‘IRanges’, ‘DelayedArray’ are not available for package ‘SummarizedExperiment’
+* removing ‘/mnt/library/SummarizedExperiment’
+ERROR: dependencies ‘IRanges’, ‘SummarizedExperiment’ are not available for package ‘GenomicAlignments’
+* removing ‘/mnt/library/GenomicAlignments’
+ERROR: dependencies ‘GSEABase’, ‘genefilter’, ‘annotate’ are not available for package ‘Category’
+* removing ‘/mnt/library/Category’
+ERROR: dependencies ‘IRanges’, ‘SummarizedExperiment’ are not available for package ‘DESeq2’
+* removing ‘/mnt/library/DESeq2’
+ERROR: dependencies ‘IRanges’, ‘SummarizedExperiment’ are not available for package ‘oligoClasses’
+* removing ‘/mnt/library/oligoClasses’
+* installing *binary* package ‘mboost’ ...
+* ‘mboost’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mboost’ as ‘mboost_2.9-11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mboost)
+ERROR: dependencies ‘IRanges’, ‘GenomicAlignments’ are not available for package ‘rtracklayer’
+* removing ‘/mnt/library/rtracklayer’
+ERROR: dependencies ‘Category’, ‘GO.db’, ‘annotate’, ‘AnnotationForge’ are not available for package ‘GOstats’
+* removing ‘/mnt/library/GOstats’
+ERROR: dependencies ‘DESeq2’, ‘SummarizedExperiment’ are not available for package ‘Glimma’
+* removing ‘/mnt/library/Glimma’
+* installing *source* package ‘EnMCB’ ...
+** package ‘EnMCB’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EnMCB’ as ‘EnMCB_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EnMCB)
+ERROR: dependencies ‘IRanges’, ‘rtracklayer’ are not available for package ‘BSgenome’
+* removing ‘/mnt/library/BSgenome’
+ERROR: dependencies ‘IRanges’, ‘rtracklayer’ are not available for package ‘GenomicFeatures’
+* removing ‘/mnt/library/GenomicFeatures’
+ERROR: dependencies ‘GenomicFeatures’, ‘IRanges’, ‘rtracklayer’, ‘biomaRt’ are not available for package ‘txdbmaker’
+* removing ‘/mnt/library/txdbmaker’
+ERROR: dependencies ‘SummarizedExperiment’, ‘IRanges’, ‘rtracklayer’, ‘BSgenome’, ‘GenomicFeatures’ are not available for package ‘VariantAnnotation’
+* removing ‘/mnt/library/VariantAnnotation’
+ERROR: dependencies ‘GenomicFeatures’, ‘rtracklayer’, ‘IRanges’ are not available for package ‘ensembldb’
+* removing ‘/mnt/library/ensembldb’
+ERROR: dependencies ‘IRanges’, ‘SummarizedExperiment’, ‘GenomicAlignments’, ‘GenomicFeatures’, ‘VariantAnnotation’, ‘ensembldb’ are not available for package ‘biovizBase’
+* removing ‘/mnt/library/biovizBase’
+ERROR: dependencies ‘GenomicFeatures’, ‘IRanges’, ‘txdbmaker’ are not available for package ‘OrganismDbi’
+* removing ‘/mnt/library/OrganismDbi’
+ERROR: dependencies ‘biovizBase’, ‘IRanges’, ‘SummarizedExperiment’, ‘GenomicAlignments’, ‘BSgenome’, ‘VariantAnnotation’, ‘rtracklayer’, ‘GenomicFeatures’, ‘OrganismDbi’, ‘ensembldb’ are not available for package ‘ggbio’
+* removing ‘/mnt/library/ggbio’
+ERROR: dependencies ‘Category’, ‘GOstats’, ‘annotate’, ‘PFAM.db’, ‘GSEABase’, ‘DESeq2’, ‘ggbio’, ‘IRanges’ are not available for package ‘ReportingTools’
+* removing ‘/mnt/library/ReportingTools’
+ERROR: dependencies ‘GOstats’, ‘oligoClasses’, ‘ReportingTools’, ‘Glimma’ are not available for package ‘affycoretools’
+* removing ‘/mnt/library/affycoretools’
+
+The downloaded source packages are in
+	‘/tmp/Rtmp1Rwtmw/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+There were 29 warnings (use warnings() to see them)
+
+real	3m14.125s
+user	1m6.230s
+sys	0m21.265s

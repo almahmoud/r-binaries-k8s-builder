@@ -428,3 +428,6 @@ cytolib
 nnNorm
 rhdf5filters
 stepNorm
+Rfastp
+maftools
+rhdf5

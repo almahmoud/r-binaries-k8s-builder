@@ -35,6 +35,7 @@ CARNIVAL
 CFAssay
 CGEN
 CNAnorm
+COMPASS
 CONSTANd
 COSNet
 CausalR
@@ -55,6 +56,7 @@ DiffLogo
 DriverNet
 EBSeq
 EmpiricalBrownsMethod
+EnMCB
 EnhancedVolcano
 EpiDISH
 FGNet
@@ -67,7 +69,12 @@ GEOfastq
 GEOmetadb
 GEWIST
 GGPA
+GIGSEA
+GLAD
+GPA
 GRENITS
+GSALightning
+GSEAmining
 GSgalgoR
 GWAS.BAYES
 GenProSeq
@@ -77,6 +84,8 @@ HGC
 HIBAG
 HIREewas
 HMMcopy
+HPAanalyze
+HPiP
 Heatplus
 Herper
 HilbertVis
@@ -84,6 +93,7 @@ HilbertVisGUI
 HuBMAPR
 HubPub
 IMPCdata
+INDEED
 INPower
 INTACT
 ISAnalytics
@@ -117,12 +127,16 @@ MultiMed
 NTW
 NetPathMiner
 NuPoP
+OLIN
+OPWeight
 OSAT
 Omixer
 OmnipathR
 OpenStats
+PROcess
 Path2PPI
 PathNet
+PepsNMR
 PhenoGeneRanker
 PoDCall
 ProtGenerics
@@ -149,6 +163,7 @@ Rcollectl
 Rdisop
 RedeR
 Rhdf5lib
+Rhtslib
 Rsubread
 SANTA
 SBMLR
@@ -201,6 +216,7 @@ chopsticks
 cisPath
 clevRvis
 clst
+clstutils
 clustComp
 coGPS
 compSPOT
@@ -216,6 +232,10 @@ diffuStats
 dir.expiry
 dks
 drawProteins
+easyreporting
+eds
+epivizrServer
+fCI
 fenr
 flowGraph
 flowPeaks
@@ -243,6 +263,7 @@ hca
 hierGWAS
 hierinf
 hypeR
+iASeq
 iCOBRA
 iChip
 iGC
@@ -265,6 +286,7 @@ maCorrPlot
 mapscape
 marray
 matchBox
+mdp
 mdqc
 messina
 metaCCA
@@ -280,11 +302,13 @@ mitch
 mzID
 ndexr
 netprioR
+nnNorm
 nuCpos
 occugene
 omada
 ompBAM
 onlineFDR
+oppti
 parody
 philr
 plasmut
@@ -300,6 +324,7 @@ rWikiPathways
 randRotation
 rawrr
 retrofit
+rhdf5filters
 rmelting
 rnaseqcomp
 rsemmed
@@ -326,12 +351,16 @@ specL
 spikeLI
 splots
 ssize
+ssrch
 statTarget
+stepNorm
+survcomp
 switchBox
 synergyfinder
 synlet
 systemPipeShiny
 tanggle
+timescape
 tomoseqr
 topconfects
 treeio
