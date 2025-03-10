@@ -142,7 +142,7 @@ jobs:
             echo "Running repository indexing..."
             
             OLD_PACKAGES_URL="${{ vars.OLD_PACKAGES_URL }}"
-            bash ./.github/scripts/finish_cycle.sh "${RUN_ID}" "${OLD_PACKAGES_URL:-}"
+            bash ./.github/scripts/finish_cycle.sh "${RUN_ID}" "${OLD_PACKAGES_URL:-}" "${CONTAINER}"
           else
             echo "Cycle continues:"
             echo "- Running jobs: ${RUNNING_JOBS}"

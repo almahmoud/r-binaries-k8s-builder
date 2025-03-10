@@ -1,15 +1,16 @@
 #!/bin/bash
 # finish_cycle.sh - Creates PACKAGES index and preserves old packages
-# Usage: ./finish_cycle.sh <run-id> <old-packages-url>
+# Usage: ./finish_cycle.sh <run-id> <old-packages-url> <container-image>
 
-if [ $# -ne 2 ]; then
+if [ $# -ne 3 ]; then
     echo "Error: Invalid arguments"
-    echo "Usage: $0 <run-id> <old-packages-url>"
+    echo "Usage: $0 <run-id> <old-packages-url> <container-image>"
     exit 1
 fi
 
 RUN_ID=$1
 OLD_URL=$2
+CONTAINER=$3
 NAMESPACE="ns-${RUN_ID}"
 PVC_NAME="bioc-pvc-${RUN_ID}"
 
@@ -35,7 +36,7 @@ spec:
     spec:
       initContainers:
       - name: package-indexer
-        image: bioconductor/bioconductor_docker:latest
+        image: ${CONTAINER}
         command: ["/bin/bash", "-c"]
         args:
         - |
