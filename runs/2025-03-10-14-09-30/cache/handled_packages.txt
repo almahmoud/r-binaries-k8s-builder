@@ -16,7 +16,6 @@ AlphaMissenseR
 AnVIL
 AnVILAz
 AnVILBase
-AnVILBilling
 AnVILGCP
 AnVILPublish
 AnVILWorkflow
@@ -41,7 +40,6 @@ BiocFileCache
 BiocGenerics
 BiocIO
 BiocNeighbors
-BiocParallel
 BiocPkgTools
 BiocStyle
 BiocVersion
@@ -112,7 +110,6 @@ EBcoexpress
 EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
-EpiDISH
 ExiMiR
 ExploreModelMatrix
 FGNet
@@ -129,7 +126,6 @@ GEOsubmission
 GEWIST
 GGPA
 GIGSEA
-GLAD
 GPA
 GRENITS
 GSALightning
@@ -145,7 +141,6 @@ GeneGA
 GeneNetworkBuilder
 GeneOverlap
 GeneSelectMMD
-GeneticsPed
 GenomeInfoDb
 GladiaTOX
 GraphAT
@@ -154,7 +149,6 @@ HDTD
 HELP
 HEM
 HGC
-HIBAG
 HIREewas
 HMMcopy
 HPAanalyze
@@ -188,7 +182,6 @@ LEA
 LPE
 LedPred
 Linnorm
-M3C
 MACSQuantifyR
 MBAmethyl
 MBCB
@@ -223,7 +216,6 @@ NCIgraph
 NOISeq
 NTW
 NanoStringDiff
-NetPathMiner
 NormqPCR
 NuPoP
 OCplus
@@ -297,7 +289,6 @@ Rmagpie
 Rnits
 Rsubread
 Rtpca
-Rtreemix
 Rvisdiff
 S4Arrays
 S4Vectors
@@ -348,7 +339,6 @@ a4Preproc
 a4Reporting
 aCGH
 acde
-affxparser
 affy
 affyContam
 affycomp
@@ -407,7 +397,6 @@ cqn
 ctc
 ctsGE
 cycle
-cytolib
 dStruct
 daMA
 dcanr
@@ -419,7 +408,6 @@ demuxmix
 densvis
 derfinderHelper
 diffGeneAnalysis
-diffuStats
 diggit
 dir.expiry
 discordant
@@ -431,7 +419,6 @@ easyreporting
 ecolitk
 edgeR
 eds
-eiR
 epiNEM
 epivizrServer
 erccdashboard
@@ -445,7 +432,6 @@ fenr
 fgga
 flowCyBar
 flowGraph
-flowPeaks
 flowPlots
 fmcsR
 fmrs
@@ -457,7 +443,6 @@ garfield
 gcatest
 gdsfmt
 geNetClassifier
-gemini
 genArise
 geneClassifiers
 geneRecommender
@@ -472,9 +457,7 @@ ggtreeExtra
 ggtreeSpace
 globalSeq
 gpls
-gpuMagic
 granulator
-graper
 graph
 gypsum
 hapFabia
@@ -540,7 +523,6 @@ mgsa
 miRBaseConverter
 miRNApath
 miRcomp
-mina
 minet
 mirTarRnaSeq
 mistyR
@@ -584,7 +566,6 @@ plasmut
 plgem
 plier
 plotGrouper
-pmm
 powerTCR
 ppcseq
 preprocessCore
@@ -610,7 +591,6 @@ rebook
 retrofit
 rexposome
 rgoslin
-rhdf5
 rhdf5filters
 rmelting
 rnaseqcomp
@@ -641,7 +621,6 @@ sitePath
 sizepower
 snifter
 snm
-snpStats
 sparseMatrixStats
 sparsenetgls
 specL
