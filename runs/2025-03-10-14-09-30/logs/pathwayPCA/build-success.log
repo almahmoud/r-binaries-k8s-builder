@@ -1,0 +1,71 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'pathwayPCA'
+also installing the dependencies ‘lars’, ‘airway’, ‘SummarizedExperiment’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lars_1.3.tar.gz'
+Content type 'binary/octet-stream' length 226820 bytes (221 KB)
+==================================================
+downloaded 221 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/airway_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 24755667 bytes (23.6 MB)
+==================================================
+downloaded 23.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/pathwayPCA_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 3557373 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+* installing *binary* package ‘lars’ ...
+* ‘lars’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lars’ as ‘lars_1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lars)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-SummarizedExperiment’
+ERROR: dependency ‘SummarizedExperiment’ is not available for package ‘airway’
+* removing ‘/mnt/library/airway’
+* installing *source* package ‘pathwayPCA’ ...
+** package ‘pathwayPCA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pathwayPCA’ as ‘pathwayPCA_1.22.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pathwayPCA)
+
+The downloaded source packages are in
+	‘/tmp/RtmpVoF570/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘SummarizedExperiment’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘airway’ had non-zero exit status
+
+real	0m41.458s
+user	0m12.018s
+sys	0m3.955s

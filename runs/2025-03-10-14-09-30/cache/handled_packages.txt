@@ -85,6 +85,7 @@ GenProSeq
 GeneGA
 GeneOverlap
 GeneticsPed
+GladiaTOX
 GraphAlignment
 HDTD
 HGC
@@ -157,6 +158,7 @@ ProtGenerics
 QUBIC
 QuaternaryProd
 RAREsim
+RBM
 RCASPAR
 RCX
 RDRToolbox
@@ -213,6 +215,7 @@ alevinQC
 antiProfiles
 aroma.light
 assorthead
+banocc
 basilisk.utils
 biobtreeR
 biocroxytest
@@ -222,6 +225,8 @@ biodbChebi
 biodbHmdb
 biodbNcbi
 biodbNci
+biodbUniprot
+bugsigdbr
 calm
 ccrepe
 ceRNAnetsim
@@ -238,6 +243,9 @@ coGPS
 compSPOT
 consensus
 cqn
+ctc
+ctsGE
+daMA
 dcanr
 dearseq
 decontam
@@ -259,6 +267,7 @@ flowCyBar
 flowGraph
 flowPeaks
 flowPlots
+fmrs
 frenchFISH
 garfield
 gcatest
@@ -317,6 +326,7 @@ metabinR
 metahdep
 metapod
 mgsa
+miRBaseConverter
 miRNApath
 mina
 minet
@@ -334,7 +344,14 @@ ompBAM
 onlineFDR
 oppti
 parody
+pathifier
+pathwayPCA
+pepXMLTab
+pfamAnalyzeR
+pgca
 philr
+phosphonormalizer
+pickgene
 plasmut
 plotGrouper
 pmm
@@ -354,6 +371,7 @@ rhdf5
 rhdf5filters
 rmelting
 rnaseqcomp
+rpx
 rsemmed
 sSeq
 sagenhaft
@@ -390,6 +408,7 @@ systemPipeShiny
 tanggle
 tidysbml
 timescape
+tkWidgets
 tomoseqr
 topconfects
 treeio
