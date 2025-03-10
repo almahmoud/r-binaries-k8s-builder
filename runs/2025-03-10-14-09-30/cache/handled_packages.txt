@@ -235,6 +235,7 @@ GeoDiff
 GeomxTools
 GladiaTOX
 GlobalAncova
+GmicR
 GrafGen
 GraphAT
 GraphAlignment
@@ -316,6 +317,7 @@ MMUPHin
 MODA
 MOMA
 MPFE
+MSA2dist
 MSstats
 MSstatsBig
 MSstatsConvert
@@ -600,6 +602,7 @@ aroma.light
 arrayQuality
 artMS
 assorthead
+attract
 autonomics
 awst
 bamsignals
@@ -670,6 +673,7 @@ convert
 copa
 corral
 covEB
+covRNA
 cqn
 crisprBase
 crisprScore
@@ -769,6 +773,7 @@ ggkegg
 ggmanh
 ggmsa
 ggsc
+ggseqalign
 ggspavis
 ggtree
 ggtreeDendro
@@ -1051,6 +1056,7 @@ scFeatureFilter
 scMET
 scReClassify
 scRepertoire
+scTGIF
 scatterHatch
 sccomp
 scds

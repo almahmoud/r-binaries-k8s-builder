@@ -1146,3 +1146,9 @@ speckle
 APL
 gatom
 MethTargetedNGS
+attract
+covRNA
+ggseqalign
+GmicR
+MSA2dist
+scTGIF
