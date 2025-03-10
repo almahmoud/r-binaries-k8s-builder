@@ -1152,3 +1152,6 @@ ggseqalign
 GmicR
 MSA2dist
 scTGIF
+miRLAB
+sangerseqR
+SGCP

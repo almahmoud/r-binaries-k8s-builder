@@ -489,6 +489,7 @@ SC3
 SCBN
 SDAMS
 SELEX
+SGCP
 SIM
 SIMAT
 SIMD
@@ -894,6 +895,7 @@ mfa
 mgsa
 miQC
 miRBaseConverter
+miRLAB
 miRNAmeConverter
 miRNApath
 miRNAtap
@@ -1050,6 +1052,7 @@ sSeq
 safe
 sagenhaft
 sampleClassifier
+sangerseqR
 sarks
 scAnnotatR
 scFeatureFilter
