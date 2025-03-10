@@ -13,3 +13,4 @@ NetPathMiner
 affxparser
 GLAD
 rhdf5
+GeneticsPed

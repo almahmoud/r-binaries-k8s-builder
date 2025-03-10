@@ -433,3 +433,4 @@ maftools
 rhdf5
 MSstatsBig
 MSstatsTMT
+tkWidgets

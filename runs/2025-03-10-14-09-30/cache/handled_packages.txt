@@ -57,6 +57,7 @@ DeepPINCS
 DiffLogo
 Director
 DriverNet
+DynDoc
 EBSeq
 EmpiricalBrownsMethod
 EnMCB
@@ -81,7 +82,9 @@ GSEAmining
 GSgalgoR
 GWAS.BAYES
 GenProSeq
+GeneGA
 GeneOverlap
+GeneticsPed
 GraphAlignment
 HDTD
 HGC
@@ -118,9 +121,12 @@ MACSQuantifyR
 MBAmethyl
 MBCB
 MBttest
+MPFE
 MSstats
+MSstatsBig
 MSstatsConvert
 MSstatsLOBD
+MSstatsTMT
 MVCClass
 MantelCorr
 MassArray
@@ -140,6 +146,7 @@ OSAT
 Omixer
 OmnipathR
 OpenStats
+PANR
 PROcess
 Path2PPI
 PathNet
@@ -169,6 +176,7 @@ Rbwa
 Rcollectl
 Rdisop
 RedeR
+Rfastp
 Rhdf5lib
 Rhtslib
 Rsubread
@@ -245,9 +253,12 @@ eds
 epivizrServer
 fCI
 fastreeR
+fdrame
 fenr
+flowCyBar
 flowGraph
 flowPeaks
+flowPlots
 frenchFISH
 garfield
 gcatest
@@ -273,8 +284,11 @@ hierGWAS
 hierinf
 hypeR
 iASeq
+iBBiG
+iCARE
 iCOBRA
 iChip
+iClusterPlus
 iGC
 iSeq
 ibh
@@ -326,6 +340,7 @@ plotGrouper
 pmm
 powerTCR
 preprocessCore
+proteinProfiles
 qckitfastq
 quantsmooth
 qvalue
@@ -367,6 +382,7 @@ ssrch
 statTarget
 stepNorm
 survcomp
+swfdr
 switchBox
 synergyfinder
 synlet
