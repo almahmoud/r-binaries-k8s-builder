@@ -88,6 +88,7 @@ CTDquerier
 CausalR
 CellMapper
 CellNOptR
+CellScore
 ChemmineOB
 ChemmineR
 Chicago
@@ -223,6 +224,7 @@ LOLA
 LPE
 LedPred
 Linnorm
+LymphoSeq
 M3C
 MACSQuantifyR
 MBAmethyl
@@ -380,6 +382,7 @@ SharedObject
 SigFuge
 SpaceMarkers
 SparseArray
+SpatialCPie
 SpeCond
 SplicingFactory
 Streamer
@@ -546,6 +549,7 @@ genomes
 getDEE2
 geva
 ggkegg
+ggmsa
 ggtree
 ggtreeDendro
 ggtreeExtra
@@ -679,6 +683,7 @@ plasmut
 plgem
 plier
 plotGrouper
+plyxp
 pmm
 powerTCR
 ppcseq
@@ -807,5 +812,6 @@ widgetTools
 wpm
 wppi
 xmapbridge
+yamss
 zFPKM
 zlibbioc

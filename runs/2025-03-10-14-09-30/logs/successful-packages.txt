@@ -785,3 +785,9 @@ SeqGate
 SeqVarTools
 SplicingFactory
 TREG
+CellScore
+ggmsa
+LymphoSeq
+plyxp
+SpatialCPie
+yamss
