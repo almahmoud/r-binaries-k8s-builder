@@ -19,3 +19,4 @@ gpuMagic
 snpStats
 Rtreemix
 eiR
+muscle
