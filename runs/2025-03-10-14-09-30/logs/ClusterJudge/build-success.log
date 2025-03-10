@@ -1,0 +1,145 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ClusterJudge'
+also installing the dependencies ‘XVector’, ‘GenomeInfoDb’, ‘Biostrings’, ‘IRanges’, ‘S4Vectors’, ‘KEGGREST’, ‘AnnotationDbi’, ‘infotheo’, ‘yeastExpData’, ‘biomaRt’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/x-gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biostrings_2.74.1.tar.gz'
+Content type 'application/x-gzip' length 12823307 bytes (12.2 MB)
+==================================================
+downloaded 12.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Vectors_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 1076666 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/KEGGREST_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 239655 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationDbi_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 4378038 bytes (4.2 MB)
+==================================================
+downloaded 4.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/infotheo_1.2.0.1.tar.gz'
+Content type 'binary/octet-stream' length 49885 bytes (48 KB)
+==================================================
+downloaded 48 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/yeastExpData_0.52.0.tar.gz'
+Content type 'application/x-gzip' length 957431 bytes (934 KB)
+==================================================
+downloaded 934 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/biomaRt_2.62.1.tar.gz'
+Content type 'application/x-gzip' length 865748 bytes (845 KB)
+==================================================
+downloaded 845 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ClusterJudge_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 966053 bytes (943 KB)
+==================================================
+downloaded 943 KB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-S4Vectors’
+* installing *binary* package ‘infotheo’ ...
+* ‘infotheo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘infotheo’ as ‘infotheo_1.2.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (infotheo)
+* installing *source* package ‘yeastExpData’ ...
+** using staged installation
+** data
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘yeastExpData’ as ‘yeastExpData_0.52.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (yeastExpData)
+ERROR: dependency ‘S4Vectors’ is not available for package ‘IRanges’
+* removing ‘/mnt/library/IRanges’
+* installing *source* package ‘ClusterJudge’ ...
+** package ‘ClusterJudge’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ClusterJudge’ as ‘ClusterJudge_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ClusterJudge)
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘XVector’
+* removing ‘/mnt/library/XVector’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’ are not available for package ‘GenomeInfoDb’
+* removing ‘/mnt/library/GenomeInfoDb’
+ERROR: dependencies ‘S4Vectors’, ‘IRanges’, ‘XVector’, ‘GenomeInfoDb’ are not available for package ‘Biostrings’
+* removing ‘/mnt/library/Biostrings’
+ERROR: dependency ‘Biostrings’ is not available for package ‘KEGGREST’
+* removing ‘/mnt/library/KEGGREST’
+ERROR: dependencies ‘IRanges’, ‘S4Vectors’, ‘KEGGREST’ are not available for package ‘AnnotationDbi’
+* removing ‘/mnt/library/AnnotationDbi’
+ERROR: dependency ‘AnnotationDbi’ is not available for package ‘biomaRt’
+* removing ‘/mnt/library/biomaRt’
+
+The downloaded source packages are in
+	‘/tmp/RtmpfqijMg/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘S4Vectors’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘IRanges’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘XVector’ had non-zero exit status
+4: In install.packages(...) :
+  installation of package ‘GenomeInfoDb’ had non-zero exit status
+5: In install.packages(...) :
+  installation of package ‘Biostrings’ had non-zero exit status
+6: In install.packages(...) :
+  installation of package ‘KEGGREST’ had non-zero exit status
+7: In install.packages(...) :
+  installation of package ‘AnnotationDbi’ had non-zero exit status
+8: In install.packages(...) :
+  installation of package ‘biomaRt’ had non-zero exit status
+
+real	0m29.215s
+user	0m9.968s
+sys	0m5.645s

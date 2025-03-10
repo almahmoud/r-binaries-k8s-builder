@@ -1,0 +1,9 @@
+AnVILBilling
+BiocParallel
+diffuStats
+EpiDISH
+flowPeaks
+gemini
+M3C
+mina
+pmm
