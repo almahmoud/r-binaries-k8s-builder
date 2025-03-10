@@ -434,3 +434,16 @@ koinar
 ppcseq
 PROPER
 RTCGA
+Biobase
+BiocBook
+BrowserViz
+EBImage
+FamAgg
+graph
+IHW
+interactiveDisplayBase
+parglms
+profileScoreDist
+RGSEA
+SharedObject
+unifiedWMWqPCR

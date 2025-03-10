@@ -15,3 +15,5 @@ GLAD
 rhdf5
 GeneticsPed
 cytolib
+gpuMagic
+snpStats
