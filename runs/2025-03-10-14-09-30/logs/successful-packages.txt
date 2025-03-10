@@ -1172,3 +1172,6 @@ spatialHeatmap
 a4
 oligoClasses
 RTNsurvival
+crlmm
+GeoTcgaData
+mBPCR

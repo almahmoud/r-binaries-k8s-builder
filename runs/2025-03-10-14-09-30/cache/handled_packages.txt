@@ -233,6 +233,7 @@ GenomicRanges
 GenomicSuperSignature
 GenomicTuples
 GeoDiff
+GeoTcgaData
 GeomxTools
 GladiaTOX
 GlobalAncova
@@ -686,6 +687,7 @@ covRNA
 cqn
 crisprBase
 crisprScore
+crlmm
 csdR
 ctc
 ctsGE
@@ -870,6 +872,7 @@ lmdme
 logicFS
 lpNet
 lpsymphony
+mBPCR
 maCorrPlot
 maPredictDSC
 maSigPro
