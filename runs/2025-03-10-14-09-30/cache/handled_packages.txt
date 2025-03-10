@@ -113,6 +113,7 @@ Clomial
 ClustAll
 ClusterJudge
 ClusterSignificance
+CoCiteStats
 CoSIA
 ComPrAn
 ComplexHeatmap
@@ -156,6 +157,7 @@ EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
 EnrichedHeatmap
+EnrichmentBrowser
 EpiDISH
 EpipwR
 ExiMiR
@@ -508,6 +510,7 @@ a4Reporting
 aCGH
 acde
 adSplit
+adductomicsR
 adverSCarial
 affxparser
 affy
@@ -830,6 +833,7 @@ npGSEA
 nuCpos
 nucleoSim
 occugene
+odseq
 omada
 ompBAM
 oncoscanR

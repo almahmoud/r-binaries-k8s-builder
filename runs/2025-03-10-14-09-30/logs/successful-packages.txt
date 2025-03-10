@@ -1018,3 +1018,7 @@ SeqSQC
 slalom
 splineTimeR
 SpotSweeper
+adductomicsR
+CoCiteStats
+EnrichmentBrowser
+odseq
