@@ -238,6 +238,7 @@ MSstatsConvert
 MSstatsLOBD
 MSstatsLiP
 MSstatsPTM
+MSstatsShiny
 MSstatsTMT
 MVCClass
 Maaslin2
@@ -373,11 +374,14 @@ SamSPECTRAL
 ScaledMatrix
 ScreenR
 SeqArray
+SeqGate
+SeqVarTools
 SharedObject
 SigFuge
 SpaceMarkers
 SparseArray
 SpeCond
+SplicingFactory
 Streamer
 Structstrings
 SummarizedExperiment
@@ -388,6 +392,7 @@ SynMut
 TDbasedUFE
 TFARM
 TPP
+TREG
 TRONCO
 TSAR
 TTMap

@@ -780,3 +780,8 @@ supersigs
 survtype
 tidySummarizedExperiment
 wpm
+MSstatsShiny
+SeqGate
+SeqVarTools
+SplicingFactory
+TREG
