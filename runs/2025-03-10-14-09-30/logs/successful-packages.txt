@@ -1119,3 +1119,10 @@ corral
 MWASTools
 rrvgo
 ssPATHS
+BioNet
+BUSseq
+cghMCR
+interactiveDisplay
+pwalign
+TSCAN
+XDE

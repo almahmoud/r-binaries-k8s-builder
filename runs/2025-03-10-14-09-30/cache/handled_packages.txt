@@ -41,6 +41,7 @@ BREW3R.r
 BUMHMM
 BUS
 BUScorrect
+BUSseq
 Banksy
 BaseSpaceR
 BayesKnockdown
@@ -52,6 +53,7 @@ BicARE
 BioCartaImage
 BioGA
 BioMVCClass
+BioNet
 BioQC
 Biobase
 BiocBaseUtils
@@ -529,6 +531,7 @@ TPP
 TREG
 TRONCO
 TSAR
+TSCAN
 TTMap
 TargetDecoy
 TargetScore
@@ -548,6 +551,7 @@ VariantExperiment
 VegaMC
 VennDetail
 Wrench
+XDE
 XINA
 XVector
 a4Classif
@@ -626,6 +630,7 @@ cellmigRation
 cellscape
 cellxgenedp
 cfTools
+cghMCR
 chopsticks
 chromDraw
 chromPlot
@@ -809,6 +814,7 @@ immunotation
 impute
 infercnv
 interacCircos
+interactiveDisplay
 interactiveDisplayBase
 ipdDb
 isobar
@@ -969,6 +975,7 @@ profileScoreDist
 proteinProfiles
 pvac
 pvca
+pwalign
 qckitfastq
 qcmetrics
 qmtools

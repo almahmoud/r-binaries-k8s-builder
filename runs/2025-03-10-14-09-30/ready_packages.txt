@@ -1,0 +1,10 @@
+ClustIRR
+IMMAN
+LinTInd
+MSA2dist
+MethTargetedNGS
+QSutils
+gatom
+ggseqalign
+openPrimeR
+sangerseqR
