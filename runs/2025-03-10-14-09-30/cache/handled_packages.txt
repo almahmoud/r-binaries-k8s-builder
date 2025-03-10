@@ -1,6 +1,7 @@
 ABSSeq
 ABarray
 ACME
+ADAM
 AIMS
 AMOUNTAIN
 ANCOMBC
@@ -10,6 +11,7 @@ ASAFE
 ASEB
 ASGSCA
 ASSET
+ASURAT
 AWFisher
 AffyRNADegradation
 AlphaMissenseR
@@ -54,6 +56,7 @@ BiocIO
 BiocNeighbors
 BiocParallel
 BiocPkgTools
+BiocSklearn
 BiocStyle
 BiocVersion
 BiocWorkflowTools
@@ -143,12 +146,17 @@ EpiDISH
 ExiMiR
 ExploreModelMatrix
 ExpressionAtlas
+FELLA
 FGNet
 FISHalyseR
 FRGEpistasis
 FamAgg
+FeatSeekR
 FitHiC
+FuseSOM
 GAprediction
+GBScleanR
+GDSArray
 GEM
 GENIE3
 GEOfastq
@@ -257,6 +265,7 @@ MeasurementError.cor
 Melissa
 Mergeomics
 MetID
+MetMashR
 MethPed
 MethylMix
 Mfuzz
@@ -287,6 +296,7 @@ OmnipathR
 OncoSimulR
 OpenStats
 OrderedList
+PADOG
 PANR
 PIPETS
 PIUMA
@@ -312,6 +322,7 @@ RBM
 RBioFormats
 RBioinf
 RCASPAR
+RCSL
 RCX
 RCy3
 RCyjs
@@ -384,6 +395,7 @@ SeqArray
 SeqGate
 SeqVarTools
 SharedObject
+SiPSiC
 SigFuge
 SingleCellExperiment
 SpaceMarkers
@@ -475,15 +487,20 @@ cellmigRation
 cellscape
 cellxgenedp
 chopsticks
+chromDraw
 cisPath
+cleaver
 clevRvis
 clippda
 clst
 clstutils
 clustComp
 clusterStab
+cnvGSA
 coGPS
+coRdon
 cogena
+cogeqc
 cola
 compSPOT
 compcodeR
@@ -492,6 +509,7 @@ convert
 copa
 covEB
 cqn
+crisprBase
 ctc
 ctsGE
 cycle
@@ -521,6 +539,7 @@ edgeR
 eds
 eiR
 epiNEM
+epialleleR
 epivizrServer
 erccdashboard
 fCI
@@ -701,7 +720,9 @@ pvac
 pvca
 qckitfastq
 qcmetrics
+qmtools
 qpcrNorm
+quantiseqr
 quantsmooth
 qusage
 qvalue
@@ -717,6 +738,8 @@ rawrr
 rbsurv
 rcellminer
 rebook
+receptLoss
+regsplice
 retrofit
 rexposome
 rfaRm
@@ -734,6 +757,7 @@ rpx
 rqubic
 rsbml
 rsemmed
+runibic
 sSeq
 sagenhaft
 sarks
