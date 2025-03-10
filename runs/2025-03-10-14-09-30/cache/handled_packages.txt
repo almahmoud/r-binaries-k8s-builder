@@ -283,6 +283,7 @@ ModCon
 Modstrings
 MsCoreUtils
 Mulcom
+MultiAssayExperiment
 MultiMed
 NCIgraph
 NOISeq
@@ -416,6 +417,8 @@ SingleCellExperiment
 SpaceMarkers
 SparseArray
 SpatialCPie
+SpatialDecon
+SpatialExperiment
 SpeCond
 SplicingFactory
 Streamer
@@ -481,6 +484,7 @@ basilisk.utils
 baySeq
 bcSeq
 beachmat
+beadarray
 betaHMM
 bioDist
 bioassayR
@@ -589,6 +593,7 @@ fmrs
 frenchFISH
 frmaTools
 funOmics
+gCrisprTools
 gDRstyle
 gaga
 gage
@@ -621,6 +626,7 @@ gpuMagic
 granulator
 graper
 graph
+graphite
 gypsum
 hapFabia
 hca
@@ -646,8 +652,10 @@ iSeq
 ibh
 idr2d
 illuminaio
+immApex
 immunotation
 impute
+infercnv
 interacCircos
 interactiveDisplayBase
 ipdDb
@@ -695,6 +703,7 @@ mgsa
 miQC
 miRBaseConverter
 miRNApath
+miRNAtap
 miRcomp
 mina
 minet
@@ -710,6 +719,7 @@ msa
 mslp
 multiClust
 multiMiR
+multiWGCNA
 multiscan
 multtest
 muscle
@@ -745,6 +755,7 @@ parody
 partCNV
 pathRender
 pathifier
+pathview
 pathwayPCA
 pcaMethods
 pepXMLTab
@@ -813,10 +824,12 @@ rsbml
 rsemmed
 runibic
 sSeq
+safe
 sagenhaft
 sarks
 scAnnotatR
 scFeatureFilter
+scReClassify
 scatterHatch
 scoup
 scrapper
@@ -872,6 +885,7 @@ target
 tenXplore
 tidySingleCellExperiment
 tidySummarizedExperiment
+tidybulk
 tidysbml
 timecourse
 timescape

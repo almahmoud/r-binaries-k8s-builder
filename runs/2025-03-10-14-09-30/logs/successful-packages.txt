@@ -885,3 +885,17 @@ multiMiR
 orthogene
 pandaR
 switchde
+beadarray
+gCrisprTools
+graphite
+immApex
+infercnv
+miRNAtap
+MultiAssayExperiment
+multiWGCNA
+pathview
+safe
+scReClassify
+SpatialDecon
+SpatialExperiment
+tidybulk
