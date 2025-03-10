@@ -821,3 +821,9 @@ receptLoss
 regsplice
 runibic
 SiPSiC
+AnnotationHub
+biomaRt
+GOfuncR
+GWENA
+MODA
+topGO

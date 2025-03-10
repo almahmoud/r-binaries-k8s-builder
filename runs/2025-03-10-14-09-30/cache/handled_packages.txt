@@ -24,6 +24,7 @@ AnVILPublish
 AnVILWorkflow
 AnnotationDbi
 AnnotationFilter
+AnnotationHub
 AssessORF
 BADER
 BAGS
@@ -167,6 +168,7 @@ GGPA
 GIGSEA
 GLAD
 GMRP
+GOfuncR
 GPA
 GRENITS
 GSALightning
@@ -176,6 +178,7 @@ GSEAmining
 GSgalgoR
 GWAS.BAYES
 GWASTools
+GWENA
 GenProSeq
 GeneExpressionSignature
 GeneGA
@@ -246,6 +249,7 @@ MBttest
 MEDME
 MEIGOR
 MMUPHin
+MODA
 MPFE
 MSstats
 MSstatsBig
@@ -477,6 +481,7 @@ biodbHmdb
 biodbNcbi
 biodbNci
 biodbUniprot
+biomaRt
 bugsigdbr
 calm
 cancerclass
@@ -817,6 +822,7 @@ timescape
 tkWidgets
 tomoda
 tomoseqr
+topGO
 topconfects
 transite
 transomics2cytoscape
