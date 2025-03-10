@@ -8,6 +8,7 @@ AIMS
 AMOUNTAIN
 ANCOMBC
 ANF
+APL
 ARRmNormalization
 ASAFE
 ASEB
@@ -339,6 +340,7 @@ MetID
 MetMashR
 MetaNeighbor
 MethPed
+MethTargetedNGS
 MethylMix
 Mfuzz
 MiChip
@@ -743,6 +745,7 @@ gDRstyle
 gaga
 gage
 garfield
+gatom
 gcatest
 gcrma
 gdsfmt

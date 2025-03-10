@@ -1143,3 +1143,6 @@
 ['[RTN](https://bioconductor.org/packages/3.20/bioc/html/RTN.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/RTN/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RTN)']
 ['[phenoTest](https://bioconductor.org/packages/3.20/bioc/html/phenoTest.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/phenoTest/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/phenoTest)']
 ['[speckle](https://bioconductor.org/packages/3.20/bioc/html/speckle.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/speckle/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/speckle)']
+['[APL](https://bioconductor.org/packages/3.20/bioc/html/APL.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/APL/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/APL)']
+['[MethTargetedNGS](https://bioconductor.org/packages/3.20/bioc/html/MethTargetedNGS.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/MethTargetedNGS/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MethTargetedNGS)']
+['[gatom](https://bioconductor.org/packages/3.20/bioc/html/gatom.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/gatom/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gatom)']

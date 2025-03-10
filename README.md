@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1145 packages built successfully
+- 1148 packages built successfully
 - 29 packages failed to build
-- 1059 packages not yet processed
+- 1056 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                                                                                       |
@@ -42,7 +42,7 @@
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-10-14-09-30/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Compilation failed:  ‘affxparser’
 Compilation failed:  ‘fastseg’                                      |
 
-## Successfully Built (1145)
+## Successfully Built (1148)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-10-14-09-30/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1190,8 +1190,11 @@ Compilation failed:  ‘fastseg’                                      |
 | [RTN](https://bioconductor.org/packages/3.20/bioc/html/RTN.html)                                             | Built    | [Log](runs/2025-03-10-14-09-30/logs/RTN/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RTN)                       |
 | [phenoTest](https://bioconductor.org/packages/3.20/bioc/html/phenoTest.html)                                 | Built    | [Log](runs/2025-03-10-14-09-30/logs/phenoTest/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/phenoTest)                 |
 | [speckle](https://bioconductor.org/packages/3.20/bioc/html/speckle.html)                                     | Built    | [Log](runs/2025-03-10-14-09-30/logs/speckle/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/speckle)                   |
+| [APL](https://bioconductor.org/packages/3.20/bioc/html/APL.html)                                             | Built    | [Log](runs/2025-03-10-14-09-30/logs/APL/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/APL)                       |
+| [MethTargetedNGS](https://bioconductor.org/packages/3.20/bioc/html/MethTargetedNGS.html)                     | Built    | [Log](runs/2025-03-10-14-09-30/logs/MethTargetedNGS/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MethTargetedNGS)           |
+| [gatom](https://bioconductor.org/packages/3.20/bioc/html/gatom.html)                                         | Built    | [Log](runs/2025-03-10-14-09-30/logs/gatom/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gatom)                     |
 
-## Not Yet Processed (1059)
+## Not Yet Processed (1056)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1202,7 +1205,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [ALDEx2](https://bioconductor.org/packages/3.20/bioc/html/ALDEx2.html)                                           | Unprocessed |
 | [AMARETTO](https://bioconductor.org/packages/3.20/bioc/html/AMARETTO.html)                                       | Unprocessed |
 | [APAlyzer](https://bioconductor.org/packages/3.20/bioc/html/APAlyzer.html)                                       | Unprocessed |
-| [APL](https://bioconductor.org/packages/3.20/bioc/html/APL.html)                                                 | Unprocessed |
 | [ASICS](https://bioconductor.org/packages/3.20/bioc/html/ASICS.html)                                             | Unprocessed |
 | [ASSIGN](https://bioconductor.org/packages/3.20/bioc/html/ASSIGN.html)                                           | Unprocessed |
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                             | Unprocessed |
@@ -1489,7 +1491,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [MetaboCoreUtils](https://bioconductor.org/packages/3.20/bioc/html/MetaboCoreUtils.html)                         | Unprocessed |
 | [MetaboSignal](https://bioconductor.org/packages/3.20/bioc/html/MetaboSignal.html)                               | Unprocessed |
 | [MethReg](https://bioconductor.org/packages/3.20/bioc/html/MethReg.html)                                         | Unprocessed |
-| [MethTargetedNGS](https://bioconductor.org/packages/3.20/bioc/html/MethTargetedNGS.html)                         | Unprocessed |
 | [MethylAid](https://bioconductor.org/packages/3.20/bioc/html/MethylAid.html)                                     | Unprocessed |
 | [MethylSeekR](https://bioconductor.org/packages/3.20/bioc/html/MethylSeekR.html)                                 | Unprocessed |
 | [MicrobiomeProfiler](https://bioconductor.org/packages/3.20/bioc/html/MicrobiomeProfiler.html)                   | Unprocessed |
@@ -1909,7 +1910,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [gDRimport](https://bioconductor.org/packages/3.20/bioc/html/gDRimport.html)                                     | Unprocessed |
 | [gDRutils](https://bioconductor.org/packages/3.20/bioc/html/gDRutils.html)                                       | Unprocessed |
 | [gINTomics](https://bioconductor.org/packages/3.20/bioc/html/gINTomics.html)                                     | Unprocessed |
-| [gatom](https://bioconductor.org/packages/3.20/bioc/html/gatom.html)                                             | Unprocessed |
 | [gcapc](https://bioconductor.org/packages/3.20/bioc/html/gcapc.html)                                             | Unprocessed |
 | [geneAttribution](https://bioconductor.org/packages/3.20/bioc/html/geneAttribution.html)                         | Unprocessed |
 | [geneXtendeR](https://bioconductor.org/packages/3.20/bioc/html/geneXtendeR.html)                                 | Unprocessed |

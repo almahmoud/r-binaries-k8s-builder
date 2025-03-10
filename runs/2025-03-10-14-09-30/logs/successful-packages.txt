@@ -1143,3 +1143,6 @@ phenoTest
 QSutils
 RTN
 speckle
+APL
+gatom
+MethTargetedNGS
