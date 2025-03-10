@@ -11,6 +11,7 @@ ASEB
 ASGSCA
 ASSET
 AWFisher
+AffyRNADegradation
 AlphaMissenseR
 AnVIL
 AnVILAz
@@ -28,6 +29,7 @@ BayesKnockdown
 BeadDataPackR
 BiRewire
 BioCartaImage
+BioMVCClass
 BioQC
 Biobase
 BiocBaseUtils
@@ -50,6 +52,7 @@ CFAssay
 CGEN
 CGHbase
 CGHcall
+CGHnormaliter
 CGHregions
 CIMICE
 CMA
@@ -60,6 +63,7 @@ COSNet
 CTDquerier
 CausalR
 CellMapper
+CellNOptR
 ChemmineOB
 ChemmineR
 Chicago
@@ -68,6 +72,7 @@ ClusterJudge
 ClusterSignificance
 ComPrAn
 ConsensusClusterPlus
+Cormotif
 DART
 DCATS
 DEGseq
@@ -93,6 +98,8 @@ EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
 EpiDISH
+ExiMiR
+ExploreModelMatrix
 FGNet
 FISHalyseR
 FRGEpistasis
@@ -103,6 +110,7 @@ GEM
 GENIE3
 GEOfastq
 GEOmetadb
+GEOsubmission
 GEWIST
 GGPA
 GIGSEA
@@ -119,6 +127,7 @@ GWASTools
 GenProSeq
 GeneExpressionSignature
 GeneGA
+GeneNetworkBuilder
 GeneOverlap
 GeneSelectMMD
 GeneticsPed
@@ -147,6 +156,7 @@ IMPCdata
 INDEED
 INPower
 INTACT
+IRanges
 ISAnalytics
 ISoLDE
 Icens
@@ -155,6 +165,8 @@ IntramiRExploreR
 IsoCorrectoR
 IsoCorrectoRGUI
 KBoost
+KCsmart
+KEGGgraph
 LBE
 LEA
 LPE
@@ -172,6 +184,7 @@ MSstatsConvert
 MSstatsLOBD
 MSstatsTMT
 MVCClass
+Maaslin2
 MantelCorr
 MassArray
 MassSpecWavelet
@@ -194,6 +207,7 @@ NanoStringDiff
 NetPathMiner
 NormqPCR
 NuPoP
+OCplus
 OLIN
 OLINgui
 OPWeight
@@ -202,12 +216,14 @@ OmicsMLRepoR
 Omixer
 OmnipathR
 OpenStats
+OrderedList
 PANR
 PLPE
 PROPER
 PROcess
 Path2PPI
 PathNet
+Pedixplorer
 PepsNMR
 PhenStat
 PhenoGeneRanker
@@ -218,6 +234,7 @@ QuaternaryProd
 RAREsim
 RBGL
 RBM
+RBioFormats
 RBioinf
 RCASPAR
 RCX
@@ -241,6 +258,7 @@ RRHO
 RSeqAn
 RTCA
 RTCGA
+RTopper
 RUVnormalize
 RankProd
 RbcBook1
@@ -256,6 +274,7 @@ Rgraphviz
 Rhdf5lib
 Rhtslib
 Rmagpie
+Rnits
 Rsubread
 Rtpca
 Rtreemix
@@ -273,6 +292,7 @@ SNPRelate
 SNPediaR
 SPEM
 SRAdb
+STATegRa
 STRINGdb
 SamSPECTRAL
 ScreenR
@@ -282,29 +302,36 @@ SpeCond
 Streamer
 Summix
 SwathXtend
+TPP
+TRONCO
 TSAR
 TargetScore
 TargetSearch
 TrajectoryGeometry
 TreeAndLeaf
+TurboNorm
 UCSC.utils
 UNDO
 VERSO
 VennDetail
 Wrench
 XINA
+a4Classif
 a4Core
 a4Preproc
 a4Reporting
+aCGH
 acde
 affxparser
 affy
+affyContam
 affycomp
 affyio
 agilp
 alabaster.schemas
 alevinQC
 annotationTools
+anota
 antiProfiles
 aroma.light
 arrayQuality
@@ -313,8 +340,10 @@ banocc
 basilisk
 basilisk.utils
 bioDist
+bioassayR
 biobroom
 biobtreeR
+biocViews
 biocroxytest
 biocthis
 biodb
@@ -351,6 +380,7 @@ covEB
 cqn
 ctc
 ctsGE
+cycle
 cytolib
 daMA
 dcanr
@@ -390,9 +420,11 @@ flowPlots
 fmcsR
 fmrs
 frenchFISH
+gaga
 garfield
 gcatest
 gdsfmt
+geNetClassifier
 gemini
 genArise
 geneClassifiers
@@ -413,12 +445,14 @@ granulator
 graper
 graph
 gypsum
+hapFabia
 hca
 hierGWAS
 hierinf
 hmdbQuery
 hopach
 hypeR
+hyperdraw
 hypergraph
 iASeq
 iBBiG
@@ -451,15 +485,18 @@ lpsymphony
 maCorrPlot
 maSigPro
 maftools
+makecdfenv
 mapscape
 marray
 massiR
 matchBox
+mbQTL
 mdp
 mdqc
 messina
 metaCCA
 metaSeq
+metabCombiner
 metabinR
 metagenomeSeq
 metahdep
@@ -475,6 +512,7 @@ minet
 mirTarRnaSeq
 mistyR
 mitch
+mosbi
 multiClust
 multiscan
 multtest
@@ -482,6 +520,7 @@ mzID
 ndexr
 nethet
 netprioR
+netresponse
 nnNorm
 normalize450K
 nuCpos
@@ -490,6 +529,8 @@ omada
 ompBAM
 onlineFDR
 oppti
+paircompviz
+panp
 parglms
 parody
 pathifier
@@ -504,6 +545,7 @@ pickgene
 planet
 plasmut
 plgem
+plier
 plotGrouper
 pmm
 powerTCR
@@ -511,8 +553,10 @@ ppcseq
 preprocessCore
 profileScoreDist
 proteinProfiles
+pvac
 qckitfastq
 qcmetrics
+qpcrNorm
 quantsmooth
 qusage
 qvalue
@@ -523,6 +567,8 @@ randPack
 randRotation
 rawrr
 rbsurv
+rcellminer
+rebook
 retrofit
 rexposome
 rgoslin
@@ -584,6 +630,7 @@ tkWidgets
 tomoseqr
 topconfects
 treeio
+trio
 tripr
 ttgsea
 tweeDEseq
@@ -595,6 +642,7 @@ updateObject
 vbmp
 veloviz
 viper
+vsn
 weaver
 widgetTools
 wppi
