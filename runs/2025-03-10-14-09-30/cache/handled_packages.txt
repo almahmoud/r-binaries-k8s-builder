@@ -80,6 +80,7 @@ Clomial
 ClusterJudge
 ClusterSignificance
 ComPrAn
+ComplexHeatmap
 ConsensusClusterPlus
 Cormotif
 DART
@@ -98,6 +99,7 @@ DeepPINCS
 DiffLogo
 Director
 DirichletMultinomial
+Doscheda
 DriverNet
 DynDoc
 EBImage
@@ -291,6 +293,7 @@ Rsubread
 Rtpca
 Rtreemix
 Rvisdiff
+S4Arrays
 S4Vectors
 SANTA
 SBMLR
@@ -303,6 +306,7 @@ SNAGEE
 SNPRelate
 SNPediaR
 SPEM
+SPIA
 SRAdb
 STATegRa
 STRINGdb
@@ -328,6 +332,7 @@ VERSO
 VennDetail
 Wrench
 XINA
+XVector
 a4Classif
 a4Core
 a4Preproc
@@ -394,6 +399,7 @@ ctc
 ctsGE
 cycle
 cytolib
+dStruct
 daMA
 dcanr
 ddCt
@@ -402,6 +408,7 @@ decontam
 deltaGseg
 demuxmix
 densvis
+derfinderHelper
 diffGeneAnalysis
 diffuStats
 diggit
@@ -494,6 +501,7 @@ limma
 limmaGUI
 lmdme
 logicFS
+lpNet
 lpsymphony
 maCorrPlot
 maSigPro
@@ -539,6 +547,7 @@ netresponse
 nnNorm
 normalize450K
 nuCpos
+nucleoSim
 occugene
 omada
 ompBAM
@@ -569,6 +578,7 @@ preprocessCore
 profileScoreDist
 proteinProfiles
 pvac
+pvca
 qckitfastq
 qcmetrics
 qpcrNorm

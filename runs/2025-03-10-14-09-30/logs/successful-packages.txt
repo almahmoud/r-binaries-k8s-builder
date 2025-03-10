@@ -642,3 +642,13 @@ mnem
 mzR
 NCIgraph
 OncoSimulR
+ComplexHeatmap
+derfinderHelper
+Doscheda
+dStruct
+lpNet
+nucleoSim
+pvca
+S4Arrays
+SPIA
+XVector
