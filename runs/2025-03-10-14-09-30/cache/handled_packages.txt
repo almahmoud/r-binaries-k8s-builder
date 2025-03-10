@@ -452,6 +452,7 @@ RSeqAn
 RTCA
 RTCGA
 RTN
+RTNduals
 RTopper
 RUVnormalize
 RaggedExperiment
@@ -571,6 +572,7 @@ Wrench
 XDE
 XINA
 XVector
+a4Base
 a4Classif
 a4Core
 a4Preproc
@@ -601,6 +603,7 @@ apComplex
 apeglm
 aroma.light
 arrayQuality
+arrayQualityMetrics
 artMS
 assorthead
 attract
@@ -637,6 +640,7 @@ blima
 bugsigdbr
 calm
 cancerclass
+categoryCompare
 cbpManager
 ccfindR
 ccmap
@@ -880,6 +884,7 @@ mdp
 mdqc
 megadepth
 memes
+meshr
 messina
 metaCCA
 metaSeq
@@ -911,6 +916,7 @@ mistyR
 mitch
 mnem
 moanin
+mogsa
 monocle
 mosbi
 motifcounter
@@ -950,6 +956,7 @@ oncomix
 oncoscanR
 onlineFDR
 ontoProc
+openPrimeR
 oposSOM
 oppti
 orthogene
@@ -1144,6 +1151,7 @@ tidySummarizedExperiment
 tidybulk
 tidysbml
 tigre
+tilingArray
 timecourse
 timescape
 tkWidgets

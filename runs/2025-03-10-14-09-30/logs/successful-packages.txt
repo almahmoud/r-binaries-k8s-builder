@@ -1155,3 +1155,11 @@ scTGIF
 miRLAB
 sangerseqR
 SGCP
+a4Base
+arrayQualityMetrics
+categoryCompare
+meshr
+mogsa
+openPrimeR
+RTNduals
+tilingArray
