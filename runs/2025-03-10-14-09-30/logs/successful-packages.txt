@@ -406,3 +406,9 @@ pickgene
 RBM
 rpx
 tkWidgets
+arrayQuality
+basilisk
+dupRadar
+edgeR
+maftools
+OLINgui

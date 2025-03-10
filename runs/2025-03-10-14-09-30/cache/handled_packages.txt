@@ -142,6 +142,7 @@ NTW
 NetPathMiner
 NuPoP
 OLIN
+OLINgui
 OPWeight
 OSAT
 Omixer
@@ -214,8 +215,10 @@ alabaster.schemas
 alevinQC
 antiProfiles
 aroma.light
+arrayQuality
 assorthead
 banocc
+basilisk
 basilisk.utils
 biobtreeR
 biocroxytest
@@ -245,6 +248,7 @@ consensus
 cqn
 ctc
 ctsGE
+cytolib
 daMA
 dcanr
 dearseq
@@ -256,7 +260,9 @@ diffuStats
 dir.expiry
 dks
 drawProteins
+dupRadar
 easyreporting
+edgeR
 eds
 epivizrServer
 fCI
@@ -315,6 +321,7 @@ lmdme
 logicFS
 lpsymphony
 maCorrPlot
+maftools
 mapscape
 marray
 matchBox
