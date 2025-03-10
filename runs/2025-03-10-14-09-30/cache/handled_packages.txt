@@ -2,6 +2,7 @@ ABSSeq
 ABarray
 ACME
 ADAM
+ADAMgui
 AIMS
 AMOUNTAIN
 ANCOMBC
@@ -77,6 +78,7 @@ CGHbase
 CGHcall
 CGHnormaliter
 CGHregions
+CHETAH
 CIMICE
 CINdex
 CMA
@@ -381,6 +383,7 @@ SANTA
 SBMLR
 SC3
 SCBN
+SDAMS
 SELEX
 SIMAT
 SIMD
@@ -421,6 +424,7 @@ Summix
 SwathXtend
 SynExtend
 SynMut
+TCGAbiolinks
 TDbasedUFE
 TFARM
 TPP
@@ -608,7 +612,9 @@ ggtreeDendro
 ggtreeExtra
 ggtreeSpace
 globalSeq
+goProfiles
 goSTAG
+goTools
 gpls
 gpuMagic
 granulator
@@ -729,6 +735,7 @@ pairkat
 panp
 parglms
 parody
+partCNV
 pathRender
 pathifier
 pathwayPCA
@@ -748,6 +755,7 @@ plotGrouper
 plyxp
 pmm
 pmp
+pogos
 powerTCR
 ppcseq
 preprocessCore
@@ -808,6 +816,7 @@ scrapper
 seahtrue
 semisup
 seq.hotSPOT
+seq2pathway
 seqLogo
 seqPattern
 seqTools

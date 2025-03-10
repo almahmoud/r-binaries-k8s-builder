@@ -868,3 +868,12 @@ surfaltr
 tenXplore
 transcriptogramer
 VariantExperiment
+ADAMgui
+CHETAH
+goProfiles
+goTools
+partCNV
+pogos
+SDAMS
+seq2pathway
+TCGAbiolinks
