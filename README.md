@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1171 packages built successfully
+- 1172 packages built successfully
 - 29 packages failed to build
-- 1033 packages not yet processed
+- 1032 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                                                                                       |
@@ -42,7 +42,7 @@
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-10-14-09-30/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Compilation failed:  ‘affxparser’
 Compilation failed:  ‘fastseg’                                      |
 
-## Successfully Built (1171)
+## Successfully Built (1172)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-10-14-09-30/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1216,8 +1216,9 @@ Compilation failed:  ‘fastseg’                                      |
 | [rqt](https://bioconductor.org/packages/3.20/bioc/html/rqt.html)                                             | Built    | [Log](runs/2025-03-10-14-09-30/logs/rqt/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rqt)                       |
 | [sangeranalyseR](https://bioconductor.org/packages/3.20/bioc/html/sangeranalyseR.html)                       | Built    | [Log](runs/2025-03-10-14-09-30/logs/sangeranalyseR/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sangeranalyseR)            |
 | [spatialHeatmap](https://bioconductor.org/packages/3.20/bioc/html/spatialHeatmap.html)                       | Built    | [Log](runs/2025-03-10-14-09-30/logs/spatialHeatmap/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spatialHeatmap)            |
+| [a4](https://bioconductor.org/packages/3.20/bioc/html/a4.html)                                               | Built    | [Log](runs/2025-03-10-14-09-30/logs/a4/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/a4)                        |
 
-## Not Yet Processed (1033)
+## Not Yet Processed (1032)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1713,7 +1714,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [Xeva](https://bioconductor.org/packages/3.20/bioc/html/Xeva.html)                                               | Unprocessed |
 | [YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)                                             | Unprocessed |
 | [ZygosityPredictor](https://bioconductor.org/packages/3.20/bioc/html/ZygosityPredictor.html)                     | Unprocessed |
-| [a4](https://bioconductor.org/packages/3.20/bioc/html/a4.html)                                                   | Unprocessed |
 | [abseqR](https://bioconductor.org/packages/3.20/bioc/html/abseqR.html)                                           | Unprocessed |
 | [affyILM](https://bioconductor.org/packages/3.20/bioc/html/affyILM.html)                                         | Unprocessed |
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                             | Unprocessed |
