@@ -104,4 +104,4 @@ spec:
       restartPolicy: OnFailure
 EOF
 
-kubectl wait --for=condition=complete job/index-packages-${RUN_ID} -n ${NAMESPACE} --timeout=300s
+kubectl wait --for=condition=complete job/index-packages-${RUN_ID} -n ${NAMESPACE} --timeout=6000s
