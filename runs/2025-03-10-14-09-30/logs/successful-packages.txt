@@ -791,3 +791,9 @@ LymphoSeq
 plyxp
 SpatialCPie
 yamss
+AnnotationDbi
+CaDrA
+DiscoRhythm
+ExpressionAtlas
+GeomxTools
+SingleCellExperiment

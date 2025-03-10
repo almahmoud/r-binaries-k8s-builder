@@ -20,6 +20,7 @@ AnVILBilling
 AnVILGCP
 AnVILPublish
 AnVILWorkflow
+AnnotationDbi
 AnnotationFilter
 AssessORF
 BADER
@@ -85,6 +86,7 @@ COSNet
 CRImage
 CSAR
 CTDquerier
+CaDrA
 CausalR
 CellMapper
 CellNOptR
@@ -125,6 +127,7 @@ DelayedRandomArray
 DiffLogo
 Director
 DirichletMultinomial
+DiscoRhythm
 Doscheda
 DriverNet
 DynDoc
@@ -139,6 +142,7 @@ EnrichedHeatmap
 EpiDISH
 ExiMiR
 ExploreModelMatrix
+ExpressionAtlas
 FGNet
 FISHalyseR
 FRGEpistasis
@@ -176,6 +180,7 @@ GenomicDataCommons
 GenomicDistributions
 GenomicRanges
 GenomicTuples
+GeomxTools
 GladiaTOX
 GrafGen
 GraphAT
@@ -380,6 +385,7 @@ SeqGate
 SeqVarTools
 SharedObject
 SigFuge
+SingleCellExperiment
 SpaceMarkers
 SparseArray
 SpatialCPie
