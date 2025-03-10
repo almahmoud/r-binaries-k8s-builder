@@ -27,6 +27,7 @@ BUS
 BaseSpaceR
 BayesKnockdown
 BeadDataPackR
+BiGGR
 BiRewire
 BioCartaImage
 BioMVCClass
@@ -34,12 +35,14 @@ BioQC
 Biobase
 BiocBaseUtils
 BiocBook
+BiocCheck
 BiocFHIR
 BiocFileCache
 BiocGenerics
 BiocIO
 BiocNeighbors
 BiocParallel
+BiocPkgTools
 BiocStyle
 BiocVersion
 BiocWorkflowTools
@@ -47,6 +50,7 @@ BridgeDbR
 BrowserViz
 BufferedMatrix
 BufferedMatrixMethods
+BumpyMatrix
 CARNIVAL
 CFAssay
 CGEN
@@ -57,9 +61,14 @@ CGHregions
 CIMICE
 CMA
 CNAnorm
+CNORdt
+CNORfeeder
+CNORfuzzy
+CNORode
 COMPASS
 CONSTANd
 COSNet
+CRImage
 CTDquerier
 CausalR
 CellMapper
@@ -88,6 +97,7 @@ DeconRNASeq
 DeepPINCS
 DiffLogo
 Director
+DirichletMultinomial
 DriverNet
 DynDoc
 EBImage
@@ -201,6 +211,7 @@ ModCon
 MsCoreUtils
 Mulcom
 MultiMed
+NCIgraph
 NOISeq
 NTW
 NanoStringDiff
@@ -215,6 +226,7 @@ OSAT
 OmicsMLRepoR
 Omixer
 OmnipathR
+OncoSimulR
 OpenStats
 OrderedList
 PANR
@@ -392,6 +404,7 @@ demuxmix
 densvis
 diffGeneAnalysis
 diffuStats
+diggit
 dir.expiry
 discordant
 dks
@@ -512,11 +525,13 @@ minet
 mirTarRnaSeq
 mistyR
 mitch
+mnem
 mosbi
 multiClust
 multiscan
 multtest
 mzID
+mzR
 ndexr
 nethet
 netprioR

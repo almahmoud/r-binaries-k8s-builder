@@ -678,3 +678,10 @@ lpNet
 monocle
 nucleoSim
 pvca
+DEGraph
+MEIGOR
+SIMAT
+TargetDecoy
+epiNEM
+gDRstyle
+msPurity
