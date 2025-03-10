@@ -855,3 +855,16 @@ ipdDb
 ontoProc
 oposSOM
 SPONGE
+customCMPdb
+fishpond
+isobar
+keggorthology
+moanin
+netboost
+pathRender
+rGenomeTracks
+scAnnotatR
+surfaltr
+tenXplore
+transcriptogramer
+VariantExperiment
