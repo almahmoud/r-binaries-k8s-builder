@@ -450,3 +450,4 @@ methylMnM
 ppcseq
 snifter
 tweeDEseq
+SIMD

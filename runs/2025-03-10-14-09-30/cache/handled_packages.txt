@@ -6,6 +6,7 @@ ASAFE
 ASEB
 ASGSCA
 ASSET
+AWFisher
 AlphaMissenseR
 AnVIL
 AnVILAz
@@ -34,6 +35,7 @@ BufferedMatrixMethods
 CARNIVAL
 CFAssay
 CGEN
+CIMICE
 CNAnorm
 COMPASS
 CONSTANd
@@ -78,6 +80,7 @@ GLAD
 GPA
 GRENITS
 GSALightning
+GSAR
 GSEAmining
 GSgalgoR
 GWAS.BAYES
@@ -94,6 +97,7 @@ HIREewas
 HMMcopy
 HPAanalyze
 HPiP
+Harman
 Heatplus
 Herper
 HilbertVis
@@ -170,6 +174,7 @@ RLassoCox
 RNASeqPower
 RNAdecay
 ROC
+ROSeq
 RProtoBufLib
 RRHO
 RSeqAn
@@ -194,6 +199,7 @@ SNPRelate
 SNPediaR
 STRINGdb
 SamSPECTRAL
+ScreenR
 SpaceMarkers
 Summix
 SwathXtend
@@ -332,6 +338,7 @@ metaCCA
 metabinR
 metahdep
 metapod
+methylMnM
 mgsa
 miRBaseConverter
 miRNApath
@@ -340,6 +347,7 @@ minet
 mirTarRnaSeq
 mistyR
 mitch
+multiClust
 mzID
 ndexr
 netprioR
@@ -359,6 +367,7 @@ pgca
 philr
 phosphonormalizer
 pickgene
+planet
 plasmut
 plotGrouper
 pmm
@@ -396,6 +405,7 @@ similaRpeak
 sincell
 sitePath
 sizepower
+snifter
 snm
 sparseMatrixStats
 sparsenetgls
@@ -421,6 +431,7 @@ topconfects
 treeio
 tripr
 ttgsea
+tweeDEseq
 tximport
 vbmp
 veloviz

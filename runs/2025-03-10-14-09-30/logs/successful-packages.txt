@@ -412,3 +412,14 @@ dupRadar
 edgeR
 maftools
 OLINgui
+AWFisher
+CIMICE
+GSAR
+Harman
+methylMnM
+multiClust
+planet
+ROSeq
+ScreenR
+snifter
+tweeDEseq

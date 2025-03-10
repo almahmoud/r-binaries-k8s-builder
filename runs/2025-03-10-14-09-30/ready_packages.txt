@@ -1,14 +1,1 @@
-AWFisher
-CIMICE
-PROPER
-ROSeq
-Rvisdiff
-ScreenR
-cbpManager
-compcodeR
-densvis
-erccdashboard
-methylMnM
-ppcseq
-snifter
-tweeDEseq
+SIMD
