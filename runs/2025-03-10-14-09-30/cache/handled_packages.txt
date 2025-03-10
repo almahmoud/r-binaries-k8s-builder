@@ -229,6 +229,7 @@ ISoLDE
 IWTomics
 Icens
 Informeasure
+InteractionSet
 InteractiveComplexHeatmap
 IntramiRExploreR
 IsoCorrectoR
@@ -640,6 +641,7 @@ iCOBRA
 iChip
 iClusterPlus
 iGC
+iSEE
 iSeq
 ibh
 idr2d
@@ -690,6 +692,7 @@ metapod
 methylMnM
 mfa
 mgsa
+miQC
 miRBaseConverter
 miRNApath
 miRcomp
@@ -704,7 +707,9 @@ monocle
 mosbi
 msPurity
 msa
+mslp
 multiClust
+multiMiR
 multiscan
 multtest
 muscle
@@ -730,8 +735,10 @@ onlineFDR
 ontoProc
 oposSOM
 oppti
+orthogene
 paircompviz
 pairkat
+pandaR
 panp
 parglms
 parody
@@ -855,6 +862,7 @@ survcomp
 survtype
 swfdr
 switchBox
+switchde
 synapsis
 synergyfinder
 synlet

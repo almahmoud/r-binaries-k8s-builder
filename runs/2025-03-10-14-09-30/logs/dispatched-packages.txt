@@ -1049,3 +1049,7 @@ surfaltr
 transcriptogramer
 pogos
 tenXplore
+EDIRquery
+iSEEhex
+iSEEindex
+iSEEpathways

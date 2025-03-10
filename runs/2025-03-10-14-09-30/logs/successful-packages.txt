@@ -877,3 +877,11 @@ pogos
 SDAMS
 seq2pathway
 TCGAbiolinks
+InteractionSet
+iSEE
+miQC
+mslp
+multiMiR
+orthogene
+pandaR
+switchde
