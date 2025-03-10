@@ -389,3 +389,16 @@ seqTools
 sights
 synlet
 tomoseqr
+DeepPINCS
+HubPub
+MethylMix
+SNPRelate
+alevinQC
+basilisk
+ggtreeDendro
+ggtreeExtra
+ggtreeSpace
+philr
+sitePath
+tanggle
+wppi
