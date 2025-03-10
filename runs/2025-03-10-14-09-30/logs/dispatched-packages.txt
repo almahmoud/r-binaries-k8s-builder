@@ -419,3 +419,12 @@ statTarget
 XINA
 clstutils
 qckitfastq
+MSstats
+OLIN
+PROcess
+RBM
+arrayQuality
+cytolib
+nnNorm
+rhdf5filters
+stepNorm

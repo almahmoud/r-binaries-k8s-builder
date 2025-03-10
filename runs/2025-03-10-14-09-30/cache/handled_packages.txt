@@ -43,6 +43,8 @@ Clomial
 ClusterJudge
 ClusterSignificance
 DCATS
+DEGseq
+DEqMS
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
@@ -53,6 +55,7 @@ DiffLogo
 DriverNet
 EBSeq
 EmpiricalBrownsMethod
+EnhancedVolcano
 EpiDISH
 FGNet
 FRGEpistasis
@@ -67,6 +70,7 @@ GGPA
 GRENITS
 GSgalgoR
 GWAS.BAYES
+GenProSeq
 GeneOverlap
 GraphAlignment
 HGC
@@ -84,6 +88,7 @@ INPower
 INTACT
 ISAnalytics
 ISoLDE
+Icens
 IntramiRExploreR
 IsoCorrectoR
 IsoCorrectoRGUI
@@ -96,6 +101,7 @@ Linnorm
 M3C
 MACSQuantifyR
 MBAmethyl
+MBCB
 MBttest
 MSstatsConvert
 MSstatsLOBD
@@ -107,6 +113,7 @@ MatrixGenerics
 MeasurementError.cor
 MethylMix
 ModCon
+MultiMed
 NTW
 NetPathMiner
 NuPoP
@@ -126,6 +133,7 @@ RCASPAR
 RCX
 RDRToolbox
 REBET
+RImmPort
 RLMM
 RLassoCox
 RNASeqPower
@@ -140,13 +148,16 @@ Rbwa
 Rcollectl
 Rdisop
 RedeR
+Rhdf5lib
 Rsubread
 SANTA
 SBMLR
 SCBN
+SIMLR
 SLqPCR
 SMAD
 SNAGEE
+SNPRelate
 SNPediaR
 STRINGdb
 SamSPECTRAL
@@ -161,6 +172,7 @@ TreeAndLeaf
 VERSO
 VennDetail
 Wrench
+XINA
 a4Reporting
 affxparser
 affyio
@@ -177,6 +189,8 @@ biocthis
 biodb
 biodbChebi
 biodbHmdb
+biodbNcbi
+biodbNci
 calm
 ccrepe
 ceRNAnetsim
@@ -211,6 +225,7 @@ gcatest
 gdsfmt
 gemini
 genArise
+geneplast
 genoCN
 genomes
 geva
@@ -226,8 +241,10 @@ graper
 gypsum
 hca
 hierGWAS
+hierinf
 hypeR
 iCOBRA
+iChip
 iGC
 iSeq
 ibh
@@ -241,10 +258,12 @@ levi
 lfa
 limma
 limmaGUI
+lmdme
 logicFS
 lpsymphony
 maCorrPlot
 mapscape
+marray
 matchBox
 mdqc
 messina
@@ -273,11 +292,15 @@ plotGrouper
 pmm
 powerTCR
 preprocessCore
+qckitfastq
 quantsmooth
 qvalue
 rBiopaxParser
+rWikiPathways
+randRotation
 rawrr
 retrofit
+rmelting
 rnaseqcomp
 rsemmed
 sSeq
@@ -307,6 +330,7 @@ statTarget
 switchBox
 synergyfinder
 synlet
+systemPipeShiny
 tanggle
 tomoseqr
 topconfects

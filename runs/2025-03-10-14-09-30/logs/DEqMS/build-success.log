@@ -1,0 +1,70 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'DEqMS'
+also installing the dependencies ‘AnnotationHub’, ‘ExperimentHub’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationHub_3.14.0.tar.gz'
+Content type 'application/x-gzip' length 1000948 bytes (977 KB)
+==================================================
+downloaded 977 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ExperimentHub_2.14.0.tar.gz'
+Content type 'application/x-gzip' length 501239 bytes (489 KB)
+==================================================
+downloaded 489 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DEqMS_1.24.0.tar.gz'
+Content type 'application/x-gzip' length 2524644 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+* installing *source* package ‘AnnotationHub’ ...
+** package ‘AnnotationHub’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]) : 
+  there is no package called ‘IRanges’
+Calls: <Anonymous> ... loadNamespace -> withRestarts -> withOneRestart -> doWithOneRestart
+Execution halted
+ERROR: lazy loading failed for package ‘AnnotationHub’
+* removing ‘/mnt/library/AnnotationHub’
+* installing *source* package ‘DEqMS’ ...
+** package ‘DEqMS’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DEqMS’ as ‘DEqMS_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DEqMS)
+ERROR: dependency ‘AnnotationHub’ is not available for package ‘ExperimentHub’
+* removing ‘/mnt/library/ExperimentHub’
+
+The downloaded source packages are in
+	‘/tmp/Rtmppfhyy4/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘AnnotationHub’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘ExperimentHub’ had non-zero exit status
+
+real	0m43.844s
+user	0m10.523s
+sys	0m4.223s
