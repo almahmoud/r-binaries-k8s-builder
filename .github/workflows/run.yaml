@@ -132,7 +132,7 @@ jobs:
           echo "had_activity=${ACTIVITY_CHECK}" >> $GITHUB_OUTPUT
 
           # After dispatching jobs, check if cycle is complete
-          RUNNING_JOBS=$(kubectl get jobs -n "ns-${RUN_ID}" -l app=bioc-builder --field-selector status.successful!=1,status.failed!=1 -o name | wc -l)
+          RUNNING_JOBS=$(kubectl get jobs -n "ns-${RUN_ID}" -l app=bioc-builder -o name | wc -l)
           DISPATCHED_COUNT=$(wc -l < "runs/${RUN_ID}/logs/dispatched-packages.txt" || echo "0")
           PROCESSED_COUNT=$(( $(wc -l < "runs/${RUN_ID}/logs/successful-packages.txt" || echo "0") + $(wc -l < "runs/${RUN_ID}/logs/failed-packages.txt" || echo "0") ))
           READY_COUNT=$(wc -l < "runs/${RUN_ID}/ready_packages.txt" || echo "0")
