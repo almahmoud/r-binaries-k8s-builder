@@ -315,6 +315,7 @@ MSstatsPTM
 MSstatsShiny
 MSstatsTMT
 MVCClass
+MWASTools
 Maaslin2
 MantelCorr
 MassArray
@@ -581,6 +582,7 @@ aroma.light
 arrayQuality
 artMS
 assorthead
+autonomics
 awst
 bamsignals
 banocc
@@ -647,6 +649,7 @@ compcodeR
 consensus
 convert
 copa
+corral
 covEB
 cqn
 crisprBase
@@ -1008,6 +1011,7 @@ ropls
 rprimer
 rpx
 rqubic
+rrvgo
 rsbml
 rsemmed
 runibic
@@ -1070,6 +1074,7 @@ spkTools
 splineTimeR
 splots
 spqn
+ssPATHS
 sscu
 ssize
 ssrch

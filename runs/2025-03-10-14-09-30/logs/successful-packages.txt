@@ -1114,3 +1114,8 @@ iSEEfier
 SPIAT
 blima
 omicade4
+autonomics
+corral
+MWASTools
+rrvgo
+ssPATHS
