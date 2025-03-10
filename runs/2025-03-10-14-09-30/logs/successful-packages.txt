@@ -713,3 +713,11 @@ sarks
 sscu
 SynExtend
 target
+AssessORF
+bamsignals
+DNAshapeR
+Melissa
+ScaledMatrix
+scoup
+transite
+triplex

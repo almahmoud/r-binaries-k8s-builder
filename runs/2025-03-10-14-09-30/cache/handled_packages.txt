@@ -21,6 +21,7 @@ AnVILGCP
 AnVILPublish
 AnVILWorkflow
 AnnotationFilter
+AssessORF
 BADER
 BAGS
 BCRANK
@@ -106,6 +107,7 @@ DMRcaller
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
+DNAshapeR
 DTA
 DeMAND
 DeconRNASeq
@@ -228,6 +230,7 @@ MassArray
 MassSpecWavelet
 MatrixGenerics
 MeasurementError.cor
+Melissa
 Mergeomics
 MetID
 MethPed
@@ -342,6 +345,7 @@ SRAdb
 STATegRa
 STRINGdb
 SamSPECTRAL
+ScaledMatrix
 ScreenR
 SharedObject
 SpaceMarkers
@@ -393,6 +397,7 @@ antiProfiles
 aroma.light
 arrayQuality
 assorthead
+bamsignals
 banocc
 basilisk
 basilisk.utils
@@ -669,6 +674,7 @@ sagenhaft
 sarks
 scFeatureFilter
 scatterHatch
+scoup
 seahtrue
 semisup
 seq.hotSPOT
@@ -715,8 +721,10 @@ timescape
 tkWidgets
 tomoseqr
 topconfects
+transite
 treeio
 trio
+triplex
 tripr
 ttgsea
 tweeDEseq
