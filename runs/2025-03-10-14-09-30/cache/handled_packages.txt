@@ -270,6 +270,7 @@ PhenoGeneRanker
 PoDCall
 ProtGenerics
 QUBIC
+Qtlizer
 QuaternaryProd
 RAREsim
 RBGL
@@ -350,6 +351,7 @@ Streamer
 Structstrings
 Summix
 SwathXtend
+SynExtend
 SynMut
 TDbasedUFE
 TFARM
@@ -384,6 +386,7 @@ affyio
 agilp
 alabaster.schemas
 alevinQC
+altcdfenvs
 annotationTools
 anota
 antiProfiles
@@ -393,6 +396,7 @@ assorthead
 banocc
 basilisk
 basilisk.utils
+baySeq
 bioDist
 bioassayR
 biobroom
@@ -508,6 +512,7 @@ graph
 gypsum
 hapFabia
 hca
+heatmaps
 hierGWAS
 hierinf
 hmdbQuery
@@ -598,6 +603,7 @@ nucleoSim
 occugene
 omada
 ompBAM
+oncoscanR
 onlineFDR
 oppti
 paircompviz
@@ -643,19 +649,24 @@ rcellminer
 rebook
 retrofit
 rexposome
+rfaRm
 rgoslin
 rhdf5
+rhdf5client
 rhdf5filters
+rhinotypeR
 rmelting
 rnaseqcomp
 roastgsa
 rols
+rprimer
 rpx
 rqubic
 rsbml
 rsemmed
 sSeq
 sagenhaft
+sarks
 scFeatureFilter
 scatterHatch
 seahtrue
@@ -683,6 +694,7 @@ specL
 spikeLI
 spkTools
 splots
+sscu
 ssize
 ssrch
 statTarget
@@ -696,6 +708,7 @@ synergyfinder
 synlet
 systemPipeShiny
 tanggle
+target
 tidysbml
 timecourse
 timescape

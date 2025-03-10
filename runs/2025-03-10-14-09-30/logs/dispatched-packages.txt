@@ -801,3 +801,5 @@ universalmotif
 AssessORF
 Melissa
 SynExtend
+Harshlight
+phantasusLite
