@@ -1132,3 +1132,14 @@ GOstats
 IgGeneUsage
 schex
 scmap
+GOexpress
+IMMAN
+LACE
+LinTInd
+MeSHDbi
+MouseFM
+PECA
+phenoTest
+QSutils
+RTN
+speckle

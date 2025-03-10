@@ -199,6 +199,7 @@ GLAD
 GMRP
 GNET2
 GOSemSim
+GOexpress
 GOfuncR
 GOpro
 GOstats
@@ -260,6 +261,7 @@ HybridMTest
 IFAA
 IHW
 ILoReg
+IMMAN
 IMPCdata
 INDEED
 INPower
@@ -282,12 +284,14 @@ KCsmart
 KEGGREST
 KEGGgraph
 KEGGlincs
+LACE
 LBE
 LEA
 LOLA
 LPE
 LRBaseDbi
 LedPred
+LinTInd
 LinkHD
 Linnorm
 LiquidAssociation
@@ -326,6 +330,7 @@ MantelCorr
 MassArray
 MassSpecWavelet
 MatrixGenerics
+MeSHDbi
 MeasurementError.cor
 Melissa
 Mergeomics
@@ -342,6 +347,7 @@ MiRaGE
 MicrobiotaProcess
 ModCon
 Modstrings
+MouseFM
 MsCoreUtils
 MsDataHub
 MsFeatures
@@ -378,6 +384,7 @@ OpenStats
 OrderedList
 PADOG
 PANR
+PECA
 PIPETS
 PIUMA
 PLPE
@@ -403,6 +410,7 @@ PolySTest
 ProtGenerics
 ProteoMM
 QFeatures
+QSutils
 QTLExperiment
 QUBIC
 Qtlizer
@@ -439,6 +447,7 @@ RRHO
 RSeqAn
 RTCA
 RTCGA
+RTN
 RTopper
 RUVnormalize
 RaggedExperiment
@@ -954,6 +963,7 @@ pfamAnalyzeR
 pgca
 pgxRpi
 phantasusLite
+phenoTest
 phenomis
 phenopath
 philr
@@ -1082,6 +1092,7 @@ sparsenetgls
 spatialDE
 spatialSimGP
 specL
+speckle
 spikeLI
 spkTools
 splineTimeR

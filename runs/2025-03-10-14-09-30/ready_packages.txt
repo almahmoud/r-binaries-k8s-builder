@@ -1,6 +1,2 @@
-GmicR
-SGCP
-attract
-categoryCompare
-miRLAB
-scTGIF
+RTNduals
+meshr
