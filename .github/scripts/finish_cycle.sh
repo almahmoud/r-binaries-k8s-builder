@@ -76,19 +76,16 @@ spec:
         - "--verbose"
         - "--progress"
         - "/mnt/tarballs/"
-        - "final:/bioconductor-packages/\${BIOC_VERSION}/container-binaries/bioconductor_docker/src/contrib/"
-        env:
-        - name: BIOC_VERSION
-          valueFrom:
-            configMapKeyRef:
-              name: bioc-version
-              key: version
+        - "final:/bioconductor-packages/$(cat /bioc-version)/container-binaries/bioconductor_docker/src/contrib/"
         volumeMounts:
         - name: bioc-data
           mountPath: /mnt
         - name: rclone-config
           mountPath: /config/rclone
           readOnly: true
+        - name: bioc-version
+          mountPath: /bioc-version
+          subPath: version
         env:
         - name: RCLONE_CONFIG
           value: /config/rclone/rclone.conf
@@ -102,6 +99,9 @@ spec:
           items:
           - key: rclone.conf
             path: rclone.conf
+      - name: bioc-version
+        configMap:
+          name: bioc-version
       restartPolicy: OnFailure
 EOF
 

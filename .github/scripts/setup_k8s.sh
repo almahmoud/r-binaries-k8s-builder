@@ -25,6 +25,13 @@ BUSYBOX_POD="busybox-$(sanitize_name ${RUN_ID})"
 echo "Creating namespace: ${NAMESPACE}"
 kubectl create namespace ${NAMESPACE}
 
+# Create configmap for Bioconductor version
+echo "Creating Bioconductor version configmap..."
+BIOC_VERSION=$(cat "runs/${RUN_ID}/bioc_version")
+kubectl create configmap bioc-version \
+  --from-literal=version=${BIOC_VERSION} \
+  -n ${NAMESPACE}
+
 # Create PVC with run-id
 echo "Creating PVC: ${PVC_NAME}"
 cat <<EOF | kubectl apply -f -
