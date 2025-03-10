@@ -204,6 +204,7 @@ GSAR
 GSEABase
 GSEAlm
 GSEAmining
+GSRI
 GSgalgoR
 GWAS.BAYES
 GWASTools
@@ -280,6 +281,7 @@ LOLA
 LPE
 LRBaseDbi
 LedPred
+LinkHD
 Linnorm
 LiquidAssociation
 LymphoSeq
@@ -296,6 +298,7 @@ MEDME
 MEIGOR
 MGFM
 MGFR
+MLInterfaces
 MLP
 MMUPHin
 MODA
