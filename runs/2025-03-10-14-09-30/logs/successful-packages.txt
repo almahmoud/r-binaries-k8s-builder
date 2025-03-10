@@ -771,3 +771,12 @@ struct
 tomoda
 transomics2cytoscape
 zFPKM
+beachmat
+lefser
+MSstatsLiP
+PIUMA
+proDA
+supersigs
+survtype
+tidySummarizedExperiment
+wpm

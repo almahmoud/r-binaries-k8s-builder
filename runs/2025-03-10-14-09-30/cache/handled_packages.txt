@@ -236,6 +236,7 @@ MSstats
 MSstatsBig
 MSstatsConvert
 MSstatsLOBD
+MSstatsLiP
 MSstatsPTM
 MSstatsTMT
 MVCClass
@@ -280,6 +281,7 @@ OpenStats
 OrderedList
 PANR
 PIPETS
+PIUMA
 PLPE
 PROPER
 PROcess
@@ -434,6 +436,7 @@ basilisk
 basilisk.utils
 baySeq
 bcSeq
+beachmat
 betaHMM
 bioDist
 bioassayR
@@ -583,6 +586,7 @@ kmcut
 koinar
 lapmix
 ldblock
+lefser
 les
 levi
 lfa
@@ -674,6 +678,7 @@ pmm
 powerTCR
 ppcseq
 preprocessCore
+proDA
 profileScoreDist
 proteinProfiles
 pvac
@@ -754,7 +759,9 @@ statTarget
 stepNorm
 struct
 subSeq
+supersigs
 survcomp
+survtype
 swfdr
 switchBox
 synapsis
@@ -763,6 +770,7 @@ synlet
 systemPipeShiny
 tanggle
 target
+tidySummarizedExperiment
 tidysbml
 timecourse
 timescape
@@ -791,6 +799,7 @@ viper
 vsn
 weaver
 widgetTools
+wpm
 wppi
 xmapbridge
 zFPKM
