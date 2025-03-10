@@ -272,11 +272,25 @@ def main(run_id):
     with open("README.md", "w") as f:
         f.write(f"# Bioconductor {bioc_version} Binary Building Status\n\n")
         f.write(f"**Run ID:** {run_id}\n\n")
+        
+        # Add cycle timing information
+        cycle_start = run_id.replace("-", " ", 2).replace("-", ":")  # Convert ID to datetime
+        if os.path.exists(f"runs/{run_id}/cycle_complete_time"):
+            with open(f"runs/{run_id}/cycle_complete_time") as tf:
+                cycle_end = tf.read().strip()
+                f.write(f"**Cycle Duration:** {cycle_start} EST → {cycle_end}\n\n")
+        
         f.write("## Summary\n\n")
         f.write(f"- {len(tables['succeeded'])} packages built successfully\n")
         f.write(f"- {len(tables['failed'])} packages failed to build\n")
         f.write(f"- {len(tables['unprocessed'])} packages not yet processed\n")
         
+        # Add indexed package count if available
+        if os.path.exists(f"runs/{run_id}/indexed_packages_count"):
+            with open(f"runs/{run_id}/indexed_packages_count") as f_count:
+                indexed_count = f_count.read().strip()
+                f.write(f"- {indexed_count} total packages in repository index\n")
+
         if tables["failed"]:
             f.write(f"\n## Failed Builds ({len(tables['failed'])})\n")
             f.write(tabulate(tables["failed"], 

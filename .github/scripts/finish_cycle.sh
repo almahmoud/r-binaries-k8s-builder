@@ -105,4 +105,25 @@ spec:
       restartPolicy: OnFailure
 EOF
 
-kubectl wait --for=condition=complete job/index-packages-${RUN_ID} -n ${NAMESPACE} --timeout=6000s
+echo "Waiting for indexing to complete..."
+# Wait for init container to finish
+kubectl wait --for=condition=ready pod \
+  -l job-name=index-packages-${RUN_ID} \
+  -n ${NAMESPACE} --timeout=7200s
+
+# Copy PACKAGES file and save stats
+echo "Copying PACKAGES and saving stats..."
+POD_NAME=$(kubectl get pod -n ${NAMESPACE} -l job-name=index-packages-${RUN_ID} -o name | cut -d/ -f2)
+kubectl cp ${NAMESPACE}/${POD_NAME}:/mnt/tarballs/PACKAGES runs/${RUN_ID}/PACKAGES
+PKG_COUNT=$(grep -c '^Package:' "runs/${RUN_ID}/PACKAGES")
+echo "${PKG_COUNT}" > "runs/${RUN_ID}/indexed_packages_count"
+
+# Record completion time
+TZ=EST date '+%Y-%m-%d %H:%M:%S %Z' > "runs/${RUN_ID}/cycle_complete_time"
+
+# Wait for final sync to complete
+echo "Waiting for rclone sync to complete..."
+kubectl wait --for=condition=complete job/index-packages-${RUN_ID} \
+  -n ${NAMESPACE} --timeout=14400s
+
+echo "Package indexing and sync completed for run: ${RUN_ID} with ${PKG_COUNT} packages"
