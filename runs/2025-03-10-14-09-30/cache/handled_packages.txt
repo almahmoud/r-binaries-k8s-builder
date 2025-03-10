@@ -34,6 +34,7 @@ BADER
 BAGS
 BCRANK
 BG2
+BLMA
 BPRMeth
 BRAIN
 BREW3R.r
@@ -387,6 +388,7 @@ PoDCall
 PolySTest
 ProtGenerics
 ProteoMM
+QFeatures
 QTLExperiment
 QUBIC
 Qtlizer
@@ -433,6 +435,7 @@ Rbowtie
 Rbwa
 RcisTarget
 Rcollectl
+Rcpi
 Rdisop
 ReactomeGSA
 ReadqPCR
@@ -453,6 +456,7 @@ S4Arrays
 S4Vectors
 SAIGEgds
 SANTA
+SBGNview
 SBMLR
 SC3
 SCBN
@@ -658,6 +662,7 @@ dinoR
 dir.expiry
 discordant
 dittoSeq
+divergence
 dks
 dominoSignal
 doseR
@@ -714,6 +719,7 @@ geneClassifiers
 geneRecommender
 geneRxCluster
 geneplast
+geneplotter
 genoCN
 genomeIntervals
 genomes
@@ -724,10 +730,12 @@ ggkegg
 ggmanh
 ggmsa
 ggsc
+ggspavis
 ggtree
 ggtreeDendro
 ggtreeExtra
 ggtreeSpace
+ginmappeR
 globalSeq
 globaltest
 goProfiles
@@ -829,6 +837,7 @@ metabolomicsWorkbenchR
 metagenomeSeq
 metahdep
 metapod
+methimpute
 methylMnM
 mfa
 mgsa
@@ -907,6 +916,7 @@ pepXMLTab
 pfamAnalyzeR
 pgca
 phantasusLite
+phenomis
 phenopath
 philr
 phosphonormalizer
@@ -944,6 +954,7 @@ rGenomeTracks
 rRDP
 rSWeeP
 rScudo
+rTRM
 rWikiPathways
 rain
 ramr
@@ -1041,6 +1052,7 @@ structToolbox
 subSeq
 supersigs
 surfaltr
+survClust
 survcomp
 survtype
 swfdr

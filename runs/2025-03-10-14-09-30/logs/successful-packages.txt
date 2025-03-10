@@ -1071,3 +1071,15 @@ MOMA
 omicsPrint
 scds
 spqn
+BLMA
+divergence
+geneplotter
+ggspavis
+ginmappeR
+methimpute
+phenomis
+QFeatures
+Rcpi
+rTRM
+SBGNview
+survClust
