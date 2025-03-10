@@ -1,10 +1,4 @@
-AnVILPublish
-AnVILWorkflow
-PANR
-TreeAndLeaf
-biodbChebi
-biodbHmdb
-biodbNcbi
-biodbNci
-biodbUniprot
-sparseMatrixStats
+GenProSeq
+clst
+ndexr
+statTarget

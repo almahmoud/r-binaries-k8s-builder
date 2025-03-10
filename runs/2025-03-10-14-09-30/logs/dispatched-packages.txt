@@ -412,3 +412,7 @@ biodbNcbi
 biodbNci
 biodbUniprot
 sparseMatrixStats
+GenProSeq
+clst
+ndexr
+statTarget
