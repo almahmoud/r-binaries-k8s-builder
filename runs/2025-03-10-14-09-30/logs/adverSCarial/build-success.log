@@ -1,0 +1,124 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'adverSCarial'
+also installing the dependencies ‘SingleCellExperiment’, ‘TENxPBMCData’, ‘CHETAH’, ‘LoomExperiment’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SingleCellExperiment_1.28.1.tar.gz'
+Content type 'application/x-gzip' length 985694 bytes (962 KB)
+==================================================
+downloaded 962 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/TENxPBMCData_1.24.0.tar.gz'
+Content type 'application/x-gzip' length 306828 bytes (299 KB)
+==================================================
+downloaded 299 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/CHETAH_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 3672068 bytes (3.5 MB)
+==================================================
+downloaded 3.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/LoomExperiment_1.24.0.tar.gz'
+Content type 'application/x-gzip' length 259831 bytes (253 KB)
+==================================================
+downloaded 253 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/adverSCarial_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 172646 bytes (168 KB)
+==================================================
+downloaded 168 KB
+
+* installing *source* package ‘SingleCellExperiment’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SingleCellExperiment’ as ‘SingleCellExperiment_1.28.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SingleCellExperiment)
+* installing *source* package ‘adverSCarial’ ...
+** package ‘adverSCarial’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘adverSCarial’ as ‘adverSCarial_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (adverSCarial)
+* installing *source* package ‘TENxPBMCData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TENxPBMCData’ as ‘TENxPBMCData_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TENxPBMCData)
+* installing *source* package ‘CHETAH’ ...
+** package ‘CHETAH’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CHETAH’ as ‘CHETAH_1.22.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CHETAH)
+* installing *source* package ‘LoomExperiment’ ...
+** package ‘LoomExperiment’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘LoomExperiment’ as ‘LoomExperiment_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (LoomExperiment)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp5yKMCe/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+
+real	3m43.334s
+user	1m30.166s
+sys	0m14.437s

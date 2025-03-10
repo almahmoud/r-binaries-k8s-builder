@@ -181,6 +181,7 @@ HMMcopy
 HPAanalyze
 HPiP
 Harman
+Harshlight
 Heatplus
 Herper
 HilbertVis
@@ -366,6 +367,7 @@ TargetDecoy
 TargetScore
 TargetSearch
 TileDBArray
+TnT
 TrajectoryGeometry
 TreeAndLeaf
 TurboNorm
@@ -382,6 +384,7 @@ a4Preproc
 a4Reporting
 aCGH
 acde
+adverSCarial
 affxparser
 affy
 affyContam
@@ -535,6 +538,7 @@ iClusterPlus
 iGC
 iSeq
 ibh
+idr2d
 illuminaio
 immunotation
 impute
@@ -621,6 +625,7 @@ pcaMethods
 pepXMLTab
 pfamAnalyzeR
 pgca
+phantasusLite
 philr
 phosphonormalizer
 pickgene
@@ -644,6 +649,7 @@ quantsmooth
 qusage
 qvalue
 rBiopaxParser
+rSWeeP
 rWikiPathways
 rain
 randPack
