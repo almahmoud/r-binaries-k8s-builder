@@ -222,6 +222,7 @@ GenomicTuples
 GeoDiff
 GeomxTools
 GladiaTOX
+GlobalAncova
 GrafGen
 GraphAT
 GraphAlignment
@@ -295,6 +296,7 @@ MGFR
 MLP
 MMUPHin
 MODA
+MOMA
 MPFE
 MSstats
 MSstatsBig
@@ -840,6 +842,7 @@ microRNA
 midasHLA
 mina
 minet
+mirIntegrator
 mirTarRnaSeq
 missRows
 mistyR
@@ -877,6 +880,7 @@ nucleoSim
 occugene
 odseq
 omada
+omicsPrint
 ompBAM
 oncoscanR
 onlineFDR
@@ -984,6 +988,7 @@ scReClassify
 scRepertoire
 scatterHatch
 sccomp
+scds
 scider
 scoup
 scrapper
@@ -1023,6 +1028,7 @@ spikeLI
 spkTools
 splineTimeR
 splots
+spqn
 sscu
 ssize
 ssrch

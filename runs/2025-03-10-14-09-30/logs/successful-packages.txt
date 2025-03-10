@@ -1065,3 +1065,9 @@ NormalyzerDE
 Scale4C
 SIM
 structToolbox
+GlobalAncova
+mirIntegrator
+MOMA
+omicsPrint
+scds
+spqn
