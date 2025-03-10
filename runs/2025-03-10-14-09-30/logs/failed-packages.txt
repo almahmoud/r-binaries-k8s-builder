@@ -20,3 +20,4 @@ snpStats
 Rtreemix
 eiR
 muscle
+GrafGen

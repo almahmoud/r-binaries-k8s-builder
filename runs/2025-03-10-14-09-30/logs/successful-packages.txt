@@ -727,3 +727,9 @@ idr2d
 phantasusLite
 rSWeeP
 TnT
+KEGGREST
+LOLA
+SeqArray
+seqPattern
+SigFuge
+SummarizedExperiment

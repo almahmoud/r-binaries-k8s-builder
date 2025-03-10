@@ -169,6 +169,7 @@ GenomeInfoDb
 GenomicDataCommons
 GenomicRanges
 GladiaTOX
+GrafGen
 GraphAT
 GraphAlignment
 HDTD
@@ -205,9 +206,11 @@ IsoCorrectoR
 IsoCorrectoRGUI
 KBoost
 KCsmart
+KEGGREST
 KEGGgraph
 LBE
 LEA
+LOLA
 LPE
 LedPred
 Linnorm
@@ -348,12 +351,15 @@ STRINGdb
 SamSPECTRAL
 ScaledMatrix
 ScreenR
+SeqArray
 SharedObject
+SigFuge
 SpaceMarkers
 SparseArray
 SpeCond
 Streamer
 Structstrings
+SummarizedExperiment
 Summix
 SwathXtend
 SynExtend
@@ -685,6 +691,7 @@ seahtrue
 semisup
 seq.hotSPOT
 seqLogo
+seqPattern
 seqTools
 seqcombo
 sevenbridges
