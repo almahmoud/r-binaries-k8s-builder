@@ -97,6 +97,7 @@ CNORdt
 CNORfeeder
 CNORfuzzy
 CNORode
+CNTools
 COMPASS
 CONSTANd
 COSNet
@@ -210,6 +211,7 @@ GWENA
 GenProSeq
 GeneExpressionSignature
 GeneGA
+GeneMeta
 GeneNetworkBuilder
 GeneOverlap
 GeneSelectMMD
@@ -828,6 +830,7 @@ made4
 maftools
 makecdfenv
 mapscape
+marr
 marray
 maskBAD
 massiR
@@ -902,6 +905,7 @@ odseq
 omada
 omicsPrint
 ompBAM
+oncomix
 oncoscanR
 onlineFDR
 ontoProc
@@ -1015,6 +1019,7 @@ sccomp
 scds
 scider
 scoup
+scp
 scrapper
 seahtrue
 sechm
@@ -1088,6 +1093,7 @@ tidySpatialExperiment
 tidySummarizedExperiment
 tidybulk
 tidysbml
+tigre
 timecourse
 timescape
 tkWidgets

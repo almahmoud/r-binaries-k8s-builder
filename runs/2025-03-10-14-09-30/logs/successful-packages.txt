@@ -1099,3 +1099,9 @@ mpra
 simplifyEnrichment
 smartid
 snapcount
+CNTools
+GeneMeta
+marr
+oncomix
+scp
+tigre

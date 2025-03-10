@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1101 packages built successfully
+- 1107 packages built successfully
 - 29 packages failed to build
-- 1103 packages not yet processed
+- 1097 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                                                                                       |
@@ -42,7 +42,7 @@
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-10-14-09-30/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Compilation failed:  ‘affxparser’
 Compilation failed:  ‘fastseg’                                      |
 
-## Successfully Built (1101)
+## Successfully Built (1107)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-10-14-09-30/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1146,8 +1146,14 @@ Compilation failed:  ‘fastseg’                                      |
 | [simplifyEnrichment](https://bioconductor.org/packages/3.20/bioc/html/simplifyEnrichment.html)               | Built    | [Log](runs/2025-03-10-14-09-30/logs/simplifyEnrichment/build-success.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/simplifyEnrichment)        |
 | [smartid](https://bioconductor.org/packages/3.20/bioc/html/smartid.html)                                     | Built    | [Log](runs/2025-03-10-14-09-30/logs/smartid/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/smartid)                   |
 | [snapcount](https://bioconductor.org/packages/3.20/bioc/html/snapcount.html)                                 | Built    | [Log](runs/2025-03-10-14-09-30/logs/snapcount/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/snapcount)                 |
+| [CNTools](https://bioconductor.org/packages/3.20/bioc/html/CNTools.html)                                     | Built    | [Log](runs/2025-03-10-14-09-30/logs/CNTools/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNTools)                   |
+| [GeneMeta](https://bioconductor.org/packages/3.20/bioc/html/GeneMeta.html)                                   | Built    | [Log](runs/2025-03-10-14-09-30/logs/GeneMeta/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneMeta)                  |
+| [marr](https://bioconductor.org/packages/3.20/bioc/html/marr.html)                                           | Built    | [Log](runs/2025-03-10-14-09-30/logs/marr/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/marr)                      |
+| [oncomix](https://bioconductor.org/packages/3.20/bioc/html/oncomix.html)                                     | Built    | [Log](runs/2025-03-10-14-09-30/logs/oncomix/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/oncomix)                   |
+| [scp](https://bioconductor.org/packages/3.20/bioc/html/scp.html)                                             | Built    | [Log](runs/2025-03-10-14-09-30/logs/scp/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scp)                       |
+| [tigre](https://bioconductor.org/packages/3.20/bioc/html/tigre.html)                                         | Built    | [Log](runs/2025-03-10-14-09-30/logs/tigre/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tigre)                     |
 
-## Not Yet Processed (1103)
+## Not Yet Processed (1097)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1212,7 +1218,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [CDI](https://bioconductor.org/packages/3.20/bioc/html/CDI.html)                                                 | Unprocessed |
 | [CEMiTool](https://bioconductor.org/packages/3.20/bioc/html/CEMiTool.html)                                       | Unprocessed |
 | [CNEr](https://bioconductor.org/packages/3.20/bioc/html/CNEr.html)                                               | Unprocessed |
-| [CNTools](https://bioconductor.org/packages/3.20/bioc/html/CNTools.html)                                         | Unprocessed |
 | [CNVMetrics](https://bioconductor.org/packages/3.20/bioc/html/CNVMetrics.html)                                   | Unprocessed |
 | [CNVPanelizer](https://bioconductor.org/packages/3.20/bioc/html/CNVPanelizer.html)                               | Unprocessed |
 | [CNVRanger](https://bioconductor.org/packages/3.20/bioc/html/CNVRanger.html)                                     | Unprocessed |
@@ -1357,7 +1362,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [GenVisR](https://bioconductor.org/packages/3.20/bioc/html/GenVisR.html)                                         | Unprocessed |
 | [GeneBreak](https://bioconductor.org/packages/3.20/bioc/html/GeneBreak.html)                                     | Unprocessed |
 | [GeneGeneInteR](https://bioconductor.org/packages/3.20/bioc/html/GeneGeneInteR.html)                             | Unprocessed |
-| [GeneMeta](https://bioconductor.org/packages/3.20/bioc/html/GeneMeta.html)                                       | Unprocessed |
 | [GeneRegionScan](https://bioconductor.org/packages/3.20/bioc/html/GeneRegionScan.html)                           | Unprocessed |
 | [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)                   | Unprocessed |
 | [GeneTonic](https://bioconductor.org/packages/3.20/bioc/html/GeneTonic.html)                                     | Unprocessed |
@@ -1957,7 +1961,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [magpie](https://bioconductor.org/packages/3.20/bioc/html/magpie.html)                                           | Unprocessed |
 | [magrene](https://bioconductor.org/packages/3.20/bioc/html/magrene.html)                                         | Unprocessed |
 | [mariner](https://bioconductor.org/packages/3.20/bioc/html/mariner.html)                                         | Unprocessed |
-| [marr](https://bioconductor.org/packages/3.20/bioc/html/marr.html)                                               | Unprocessed |
 | [martini](https://bioconductor.org/packages/3.20/bioc/html/martini.html)                                         | Unprocessed |
 | [maser](https://bioconductor.org/packages/3.20/bioc/html/maser.html)                                             | Unprocessed |
 | [matter](https://bioconductor.org/packages/3.20/bioc/html/matter.html)                                           | Unprocessed |
@@ -2039,7 +2042,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [omicade4](https://bioconductor.org/packages/3.20/bioc/html/omicade4.html)                                       | Unprocessed |
 | [omicplotR](https://bioconductor.org/packages/3.20/bioc/html/omicplotR.html)                                     | Unprocessed |
 | [omicsViewer](https://bioconductor.org/packages/3.20/bioc/html/omicsViewer.html)                                 | Unprocessed |
-| [oncomix](https://bioconductor.org/packages/3.20/bioc/html/oncomix.html)                                         | Unprocessed |
 | [openCyto](https://bioconductor.org/packages/3.20/bioc/html/openCyto.html)                                       | Unprocessed |
 | [openPrimeR](https://bioconductor.org/packages/3.20/bioc/html/openPrimeR.html)                                   | Unprocessed |
 | [oppar](https://bioconductor.org/packages/3.20/bioc/html/oppar.html)                                             | Unprocessed |
@@ -2158,7 +2160,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [scmeth](https://bioconductor.org/packages/3.20/bioc/html/scmeth.html)                                           | Unprocessed |
 | [scone](https://bioconductor.org/packages/3.20/bioc/html/scone.html)                                             | Unprocessed |
 | [scoreInvHap](https://bioconductor.org/packages/3.20/bioc/html/scoreInvHap.html)                                 | Unprocessed |
-| [scp](https://bioconductor.org/packages/3.20/bioc/html/scp.html)                                                 | Unprocessed |
 | [scran](https://bioconductor.org/packages/3.20/bioc/html/scran.html)                                             | Unprocessed |
 | [screenCounter](https://bioconductor.org/packages/3.20/bioc/html/screenCounter.html)                             | Unprocessed |
 | [scruff](https://bioconductor.org/packages/3.20/bioc/html/scruff.html)                                           | Unprocessed |
@@ -2217,7 +2218,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [tidyFlowCore](https://bioconductor.org/packages/3.20/bioc/html/tidyFlowCore.html)                               | Unprocessed |
 | [tidyomics](https://bioconductor.org/packages/3.20/bioc/html/tidyomics.html)                                     | Unprocessed |
 | [tidytof](https://bioconductor.org/packages/3.20/bioc/html/tidytof.html)                                         | Unprocessed |
-| [tigre](https://bioconductor.org/packages/3.20/bioc/html/tigre.html)                                             | Unprocessed |
 | [tilingArray](https://bioconductor.org/packages/3.20/bioc/html/tilingArray.html)                                 | Unprocessed |
 | [timeOmics](https://bioconductor.org/packages/3.20/bioc/html/timeOmics.html)                                     | Unprocessed |
 | [topdownr](https://bioconductor.org/packages/3.20/bioc/html/topdownr.html)                                       | Unprocessed |
