@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1114 packages built successfully
+- 1116 packages built successfully
 - 29 packages failed to build
-- 1090 packages not yet processed
+- 1088 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                                                                                       |
@@ -42,7 +42,7 @@
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-10-14-09-30/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Compilation failed:  ‘affxparser’
 Compilation failed:  ‘fastseg’                                      |
 
-## Successfully Built (1114)
+## Successfully Built (1116)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-10-14-09-30/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1159,8 +1159,10 @@ Compilation failed:  ‘fastseg’                                      |
 | [GOpro](https://bioconductor.org/packages/3.20/bioc/html/GOpro.html)                                         | Built    | [Log](runs/2025-03-10-14-09-30/logs/GOpro/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GOpro)                     |
 | [SPIAT](https://bioconductor.org/packages/3.20/bioc/html/SPIAT.html)                                         | Built    | [Log](runs/2025-03-10-14-09-30/logs/SPIAT/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SPIAT)                     |
 | [iSEEfier](https://bioconductor.org/packages/3.20/bioc/html/iSEEfier.html)                                   | Built    | [Log](runs/2025-03-10-14-09-30/logs/iSEEfier/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iSEEfier)                  |
+| [blima](https://bioconductor.org/packages/3.20/bioc/html/blima.html)                                         | Built    | [Log](runs/2025-03-10-14-09-30/logs/blima/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/blima)                     |
+| [omicade4](https://bioconductor.org/packages/3.20/bioc/html/omicade4.html)                                   | Built    | [Log](runs/2025-03-10-14-09-30/logs/omicade4/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/omicade4)                  |
 
-## Not Yet Processed (1090)
+## Not Yet Processed (1088)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1729,7 +1731,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [biovizBase](https://bioconductor.org/packages/3.20/bioc/html/biovizBase.html)                                   | Unprocessed |
 | [biscuiteer](https://bioconductor.org/packages/3.20/bioc/html/biscuiteer.html)                                   | Unprocessed |
 | [blacksheepr](https://bioconductor.org/packages/3.20/bioc/html/blacksheepr.html)                                 | Unprocessed |
-| [blima](https://bioconductor.org/packages/3.20/bioc/html/blima.html)                                             | Unprocessed |
 | [bluster](https://bioconductor.org/packages/3.20/bioc/html/bluster.html)                                         | Unprocessed |
 | [bnbc](https://bioconductor.org/packages/3.20/bioc/html/bnbc.html)                                               | Unprocessed |
 | [bnem](https://bioconductor.org/packages/3.20/bioc/html/bnem.html)                                               | Unprocessed |
@@ -2039,7 +2040,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [oligoClasses](https://bioconductor.org/packages/3.20/bioc/html/oligoClasses.html)                               | Unprocessed |
 | [omXplore](https://bioconductor.org/packages/3.20/bioc/html/omXplore.html)                                       | Unprocessed |
 | [omicRexposome](https://bioconductor.org/packages/3.20/bioc/html/omicRexposome.html)                             | Unprocessed |
-| [omicade4](https://bioconductor.org/packages/3.20/bioc/html/omicade4.html)                                       | Unprocessed |
 | [omicplotR](https://bioconductor.org/packages/3.20/bioc/html/omicplotR.html)                                     | Unprocessed |
 | [omicsViewer](https://bioconductor.org/packages/3.20/bioc/html/omicsViewer.html)                                 | Unprocessed |
 | [openCyto](https://bioconductor.org/packages/3.20/bioc/html/openCyto.html)                                       | Unprocessed |

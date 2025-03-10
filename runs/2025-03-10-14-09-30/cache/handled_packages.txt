@@ -609,6 +609,7 @@ biodbNci
 biodbUniprot
 biomaRt
 biosigner
+blima
 bugsigdbr
 calm
 cancerclass
@@ -910,6 +911,7 @@ nucleoSim
 occugene
 odseq
 omada
+omicade4
 omicsPrint
 ompBAM
 oncomix

@@ -1,3 +1,0 @@
-GOstats
-interactiveDisplay
-phenoTest
