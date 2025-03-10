@@ -197,6 +197,7 @@ GenomicDataCommons
 GenomicDistributions
 GenomicRanges
 GenomicTuples
+GeoDiff
 GeomxTools
 GladiaTOX
 GrafGen
@@ -255,11 +256,14 @@ LiquidAssociation
 LymphoSeq
 M3C
 MACSQuantifyR
+MAST
 MBAmethyl
 MBCB
 MBttest
 MEDME
 MEIGOR
+MGFM
+MGFR
 MMUPHin
 MODA
 MPFE
@@ -362,6 +366,7 @@ RNASeqPower
 RNAdecay
 RNAsense
 ROC
+ROCpAI
 ROSeq
 ROTS
 RProtoBufLib
@@ -446,6 +451,7 @@ SynMut
 TCGAbiolinks
 TDbasedUFE
 TFARM
+TIN
 TPP
 TREG
 TRONCO
@@ -629,8 +635,10 @@ gemini
 genArise
 geneClassifiers
 geneRecommender
+geneRxCluster
 geneplast
 genoCN
+genomeIntervals
 genomes
 getDEE2
 geva
@@ -651,6 +659,7 @@ granulator
 graper
 graph
 graphite
+gtrellis
 gypsum
 hapFabia
 hca
@@ -678,9 +687,11 @@ iSEEindex
 iSEEpathways
 iSeq
 ibh
+idpr
 idr2d
 illuminaio
 immApex
+immunogenViewer
 immunotation
 impute
 infercnv
@@ -778,6 +789,7 @@ ontoProc
 oposSOM
 oppti
 orthogene
+packFinder
 padma
 paircompviz
 pairkat
@@ -809,6 +821,7 @@ pmp
 pogos
 powerTCR
 ppcseq
+pqsfinder
 preprocessCore
 proDA
 profileScoreDist
@@ -960,6 +973,7 @@ viper
 vsclust
 vsn
 weaver
+webbioc
 widgetTools
 wpm
 wppi

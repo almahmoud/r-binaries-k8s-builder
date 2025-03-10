@@ -945,3 +945,17 @@ smoothclust
 stJoincount
 vsclust
 xcore
+geneRxCluster
+genomeIntervals
+GeoDiff
+gtrellis
+idpr
+immunogenViewer
+MAST
+MGFM
+MGFR
+packFinder
+pqsfinder
+ROCpAI
+TIN
+webbioc

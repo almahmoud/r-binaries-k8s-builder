@@ -1107,3 +1107,6 @@ fastLiquidAssociation
 maPredictDSC
 maskBAD
 webbioc
+POWSC
+celaref
+sampleClassifier
