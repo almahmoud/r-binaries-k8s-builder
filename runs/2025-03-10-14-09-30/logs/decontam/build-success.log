@@ -1,0 +1,103 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'decontam'
+also installing the dependencies ‘XVector’, ‘GenomeInfoDb’, ‘biomformat’, ‘Biostrings’, ‘phyloseq’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/x-gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/biomformat_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 347428 bytes (339 KB)
+==================================================
+downloaded 339 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biostrings_2.74.1.tar.gz'
+Content type 'application/x-gzip' length 12823307 bytes (12.2 MB)
+==================================================
+downloaded 12.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/phyloseq_1.50.0.tar.gz'
+Content type 'application/x-gzip' length 6423044 bytes (6.1 MB)
+==================================================
+downloaded 6.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/decontam_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 720003 bytes (703 KB)
+==================================================
+downloaded 703 KB
+
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-XVector’
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-GenomeInfoDb’
+* installing *source* package ‘biomformat’ ...
+** package ‘biomformat’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a generic function for ‘nrow’ from package ‘base’ in package ‘biomformat’
+Creating a generic function for ‘ncol’ from package ‘base’ in package ‘biomformat’
+Creating a generic function for ‘rownames’ from package ‘base’ in package ‘biomformat’
+Creating a generic function for ‘colnames’ from package ‘base’ in package ‘biomformat’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biomformat’ as ‘biomformat_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biomformat)
+* installing *source* package ‘decontam’ ...
+** package ‘decontam’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘decontam’ as ‘decontam_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (decontam)
+ERROR: dependency ‘XVector’ is not available for package ‘Biostrings’
+* removing ‘/mnt/library/Biostrings’
+ERROR: dependency ‘Biostrings’ is not available for package ‘phyloseq’
+* removing ‘/mnt/library/phyloseq’
+
+The downloaded source packages are in
+	‘/tmp/RtmpPlp0m4/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘XVector’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘GenomeInfoDb’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘Biostrings’ had non-zero exit status
+4: In install.packages(...) :
+  installation of package ‘phyloseq’ had non-zero exit status
+
+real	0m36.007s
+user	0m13.361s
+sys	0m5.675s
