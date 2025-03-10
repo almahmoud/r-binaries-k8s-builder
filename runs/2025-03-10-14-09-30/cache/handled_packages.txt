@@ -3,6 +3,7 @@ ABarray
 ACME
 ADAM
 ADAMgui
+AGDEX
 AIMS
 AMOUNTAIN
 ANCOMBC
@@ -13,6 +14,7 @@ ASEB
 ASGSCA
 ASSET
 ASURAT
+AUCell
 AWFisher
 AffyRNADegradation
 AlphaMissenseR
@@ -45,6 +47,7 @@ BeadDataPackR
 BiFET
 BiGGR
 BiRewire
+BicARE
 BioCartaImage
 BioGA
 BioMVCClass
@@ -150,6 +153,7 @@ EnMCB
 EnhancedVolcano
 EnrichedHeatmap
 EpiDISH
+EpipwR
 ExiMiR
 ExperimentHub
 ExploreModelMatrix
@@ -462,6 +466,7 @@ TCGAbiolinks
 TDbasedUFE
 TFARM
 TIN
+TMSig
 TPP
 TREG
 TRONCO
@@ -471,6 +476,7 @@ TargetDecoy
 TargetScore
 TargetSearch
 TileDBArray
+TissueEnrich
 TnT
 TrajectoryGeometry
 TrajectoryUtils
@@ -500,6 +506,7 @@ affyContam
 affyPLM
 affycomp
 affyio
+affylmGUI
 aggregateBioVar
 agilp
 alabaster.schemas
@@ -600,11 +607,13 @@ diffGeneAnalysis
 diffcoexp
 diffuStats
 diggit
+dinoR
 dir.expiry
 discordant
 dittoSeq
 dks
 dominoSignal
+doseR
 drawProteins
 dupRadar
 dyebias
@@ -615,9 +624,12 @@ eds
 eiR
 epiNEM
 epialleleR
+epistack
 epivizrServer
 erccdashboard
 escheR
+esetVis
+evaluomeR
 fCI
 fabia
 factDesign
@@ -647,6 +659,7 @@ gcrma
 gdsfmt
 geNetClassifier
 gemini
+gemma.R
 genArise
 geneClassifiers
 geneRecommender
@@ -655,6 +668,7 @@ geneplast
 genoCN
 genomeIntervals
 genomes
+genomicInstability
 getDEE2
 geva
 ggkegg
@@ -702,6 +716,7 @@ iSEEindex
 iSEEpathways
 iSeq
 ibh
+idiogram
 idpr
 idr2d
 igvShiny
@@ -736,6 +751,7 @@ logicFS
 lpNet
 lpsymphony
 maCorrPlot
+maPredictDSC
 maSigPro
 maftools
 makecdfenv
@@ -748,6 +764,7 @@ mbQTL
 mdp
 mdqc
 megadepth
+memes
 messina
 metaCCA
 metaSeq
@@ -799,6 +816,7 @@ netresponse
 ngsReports
 nnNorm
 normalize450K
+npGSEA
 nuCpos
 nucleoSim
 occugene
@@ -966,6 +984,7 @@ synergyfinder
 synlet
 systemPipeShiny
 tRNA
+tRNAdbImport
 tanggle
 target
 tenXplore
