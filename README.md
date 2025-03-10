@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1085 packages built successfully
+- 1092 packages built successfully
 - 29 packages failed to build
-- 1119 packages not yet processed
+- 1112 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                                                                                       |
@@ -42,7 +42,7 @@
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-10-14-09-30/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Compilation failed:  ‘affxparser’
 Compilation failed:  ‘fastseg’                                      |
 
-## Successfully Built (1085)
+## Successfully Built (1092)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-10-14-09-30/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1130,8 +1130,15 @@ Compilation failed:  ‘fastseg’                                      |
 | [phenomis](https://bioconductor.org/packages/3.20/bioc/html/phenomis.html)                                   | Built    | [Log](runs/2025-03-10-14-09-30/logs/phenomis/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/phenomis)                  |
 | [rTRM](https://bioconductor.org/packages/3.20/bioc/html/rTRM.html)                                           | Built    | [Log](runs/2025-03-10-14-09-30/logs/rTRM/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rTRM)                      |
 | [survClust](https://bioconductor.org/packages/3.20/bioc/html/survClust.html)                                 | Built    | [Log](runs/2025-03-10-14-09-30/logs/survClust/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/survClust)                 |
+| [PREDA](https://bioconductor.org/packages/3.20/bioc/html/PREDA.html)                                         | Built    | [Log](runs/2025-03-10-14-09-30/logs/PREDA/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PREDA)                     |
+| [SemDist](https://bioconductor.org/packages/3.20/bioc/html/SemDist.html)                                     | Built    | [Log](runs/2025-03-10-14-09-30/logs/SemDist/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SemDist)                   |
+| [codelink](https://bioconductor.org/packages/3.20/bioc/html/codelink.html)                                   | Built    | [Log](runs/2025-03-10-14-09-30/logs/codelink/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/codelink)                  |
+| [genefilter](https://bioconductor.org/packages/3.20/bioc/html/genefilter.html)                               | Built    | [Log](runs/2025-03-10-14-09-30/logs/genefilter/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/genefilter)                |
+| [hipathia](https://bioconductor.org/packages/3.20/bioc/html/hipathia.html)                                   | Built    | [Log](runs/2025-03-10-14-09-30/logs/hipathia/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hipathia)                  |
+| [pgxRpi](https://bioconductor.org/packages/3.20/bioc/html/pgxRpi.html)                                       | Built    | [Log](runs/2025-03-10-14-09-30/logs/pgxRpi/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pgxRpi)                    |
+| [planttfhunter](https://bioconductor.org/packages/3.20/bioc/html/planttfhunter.html)                         | Built    | [Log](runs/2025-03-10-14-09-30/logs/planttfhunter/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/planttfhunter)             |
 
-## Not Yet Processed (1119)
+## Not Yet Processed (1112)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1501,7 +1508,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [PLSDAbatch](https://bioconductor.org/packages/3.20/bioc/html/PLSDAbatch.html)                                   | Unprocessed |
 | [POMA](https://bioconductor.org/packages/3.20/bioc/html/POMA.html)                                               | Unprocessed |
 | [PPInfer](https://bioconductor.org/packages/3.20/bioc/html/PPInfer.html)                                         | Unprocessed |
-| [PREDA](https://bioconductor.org/packages/3.20/bioc/html/PREDA.html)                                             | Unprocessed |
 | [PRONE](https://bioconductor.org/packages/3.20/bioc/html/PRONE.html)                                             | Unprocessed |
 | [PROPS](https://bioconductor.org/packages/3.20/bioc/html/PROPS.html)                                             | Unprocessed |
 | [PSMatch](https://bioconductor.org/packages/3.20/bioc/html/PSMatch.html)                                         | Unprocessed |
@@ -1590,7 +1596,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [SUITOR](https://bioconductor.org/packages/3.20/bioc/html/SUITOR.html)                                           | Unprocessed |
 | [SVMDO](https://bioconductor.org/packages/3.20/bioc/html/SVMDO.html)                                             | Unprocessed |
 | [Sconify](https://bioconductor.org/packages/3.20/bioc/html/Sconify.html)                                         | Unprocessed |
-| [SemDist](https://bioconductor.org/packages/3.20/bioc/html/SemDist.html)                                         | Unprocessed |
 | [SeqGSEA](https://bioconductor.org/packages/3.20/bioc/html/SeqGSEA.html)                                         | Unprocessed |
 | [ShortRead](https://bioconductor.org/packages/3.20/bioc/html/ShortRead.html)                                     | Unprocessed |
 | [SigCheck](https://bioconductor.org/packages/3.20/bioc/html/SigCheck.html)                                       | Unprocessed |
@@ -1758,7 +1763,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [cn.farms](https://bioconductor.org/packages/3.20/bioc/html/cn.farms.html)                                       | Unprocessed |
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)                                         | Unprocessed |
 | [coMethDMR](https://bioconductor.org/packages/3.20/bioc/html/coMethDMR.html)                                     | Unprocessed |
-| [codelink](https://bioconductor.org/packages/3.20/bioc/html/codelink.html)                                       | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                                           | Unprocessed |
 | [combi](https://bioconductor.org/packages/3.20/bioc/html/combi.html)                                             | Unprocessed |
 | [compEpiTools](https://bioconductor.org/packages/3.20/bioc/html/compEpiTools.html)                               | Unprocessed |
@@ -1888,7 +1892,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [gcapc](https://bioconductor.org/packages/3.20/bioc/html/gcapc.html)                                             | Unprocessed |
 | [geneAttribution](https://bioconductor.org/packages/3.20/bioc/html/geneAttribution.html)                         | Unprocessed |
 | [geneXtendeR](https://bioconductor.org/packages/3.20/bioc/html/geneXtendeR.html)                                 | Unprocessed |
-| [genefilter](https://bioconductor.org/packages/3.20/bioc/html/genefilter.html)                                   | Unprocessed |
 | [genomation](https://bioconductor.org/packages/3.20/bioc/html/genomation.html)                                   | Unprocessed |
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                                     | Unprocessed |
 | [gep2pep](https://bioconductor.org/packages/3.20/bioc/html/gep2pep.html)                                         | Unprocessed |
@@ -1914,7 +1917,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [hiAnnotator](https://bioconductor.org/packages/3.20/bioc/html/hiAnnotator.html)                                 | Unprocessed |
 | [hiReadsProcessor](https://bioconductor.org/packages/3.20/bioc/html/hiReadsProcessor.html)                       | Unprocessed |
 | [hicVennDiagram](https://bioconductor.org/packages/3.20/bioc/html/hicVennDiagram.html)                           | Unprocessed |
-| [hipathia](https://bioconductor.org/packages/3.20/bioc/html/hipathia.html)                                       | Unprocessed |
 | [iCNV](https://bioconductor.org/packages/3.20/bioc/html/iCNV.html)                                               | Unprocessed |
 | [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                                           | Unprocessed |
 | [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                                     | Unprocessed |
@@ -2052,14 +2054,12 @@ Compilation failed:  ‘fastseg’                                      |
 | [peco](https://bioconductor.org/packages/3.20/bioc/html/peco.html)                                               | Unprocessed |
 | [pengls](https://bioconductor.org/packages/3.20/bioc/html/pengls.html)                                           | Unprocessed |
 | [periodicDNA](https://bioconductor.org/packages/3.20/bioc/html/periodicDNA.html)                                 | Unprocessed |
-| [pgxRpi](https://bioconductor.org/packages/3.20/bioc/html/pgxRpi.html)                                           | Unprocessed |
 | [phantasus](https://bioconductor.org/packages/3.20/bioc/html/phantasus.html)                                     | Unprocessed |
 | [phenoTest](https://bioconductor.org/packages/3.20/bioc/html/phenoTest.html)                                     | Unprocessed |
 | [phyloseq](https://bioconductor.org/packages/3.20/bioc/html/phyloseq.html)                                       | Unprocessed |
 | [piano](https://bioconductor.org/packages/3.20/bioc/html/piano.html)                                             | Unprocessed |
 | [pipeComp](https://bioconductor.org/packages/3.20/bioc/html/pipeComp.html)                                       | Unprocessed |
 | [pipeFrame](https://bioconductor.org/packages/3.20/bioc/html/pipeFrame.html)                                     | Unprocessed |
-| [planttfhunter](https://bioconductor.org/packages/3.20/bioc/html/planttfhunter.html)                             | Unprocessed |
 | [plotgardener](https://bioconductor.org/packages/3.20/bioc/html/plotgardener.html)                               | Unprocessed |
 | [plyinteractions](https://bioconductor.org/packages/3.20/bioc/html/plyinteractions.html)                         | Unprocessed |
 | [plyranges](https://bioconductor.org/packages/3.20/bioc/html/plyranges.html)                                     | Unprocessed |

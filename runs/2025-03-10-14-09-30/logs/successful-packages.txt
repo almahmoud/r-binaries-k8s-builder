@@ -1083,3 +1083,10 @@ Rcpi
 rTRM
 SBGNview
 survClust
+codelink
+genefilter
+hipathia
+pgxRpi
+planttfhunter
+PREDA
+SemDist

@@ -369,6 +369,7 @@ PIPETS
 PIUMA
 PLPE
 POWSC
+PREDA
 PROMISE
 PROPER
 PROcess
@@ -484,6 +485,7 @@ SamSPECTRAL
 Scale4C
 ScaledMatrix
 ScreenR
+SemDist
 SeqArray
 SeqGate
 SeqSQC
@@ -625,6 +627,7 @@ clusterStab
 cnvGSA
 coGPS
 coRdon
+codelink
 cogena
 cogeqc
 cola
@@ -718,6 +721,7 @@ genArise
 geneClassifiers
 geneRecommender
 geneRxCluster
+genefilter
 geneplast
 geneplotter
 genoCN
@@ -754,6 +758,7 @@ hca
 heatmaps
 hierGWAS
 hierinf
+hipathia
 hmdbQuery
 hoodscanR
 hopach
@@ -915,6 +920,7 @@ pepStat
 pepXMLTab
 pfamAnalyzeR
 pgca
+pgxRpi
 phantasusLite
 phenomis
 phenopath
@@ -922,6 +928,7 @@ philr
 phosphonormalizer
 pickgene
 planet
+planttfhunter
 plasmut
 plgem
 plier
