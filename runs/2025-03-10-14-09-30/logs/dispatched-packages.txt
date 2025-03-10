@@ -922,3 +922,6 @@ ggmsa
 memes
 motifTestR
 tRNA
+GeomxTools
+MetMashR
+structToolbox

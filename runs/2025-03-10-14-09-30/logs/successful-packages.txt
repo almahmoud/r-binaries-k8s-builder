@@ -759,3 +759,15 @@ sketchR
 stageR
 TTMap
 universalmotif
+apeglm
+barcodetrackR
+betaHMM
+getDEE2
+ivygapSE
+NanoStringNCTools
+pairkat
+rScudo
+struct
+tomoda
+transomics2cytoscape
+zFPKM

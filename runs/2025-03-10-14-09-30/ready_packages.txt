@@ -1,7 +1,3 @@
-LymphoSeq
-MSstatsLiP
-MSstatsShiny
-ggmsa
-memes
-motifTestR
-tRNA
+GeomxTools
+MetMashR
+structToolbox

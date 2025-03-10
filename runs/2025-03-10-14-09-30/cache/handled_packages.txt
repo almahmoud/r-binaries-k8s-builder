@@ -262,6 +262,7 @@ NCIgraph
 NOISeq
 NTW
 NanoStringDiff
+NanoStringNCTools
 NetPathMiner
 NormqPCR
 NuPoP
@@ -422,15 +423,18 @@ altcdfenvs
 annotationTools
 anota
 antiProfiles
+apeglm
 aroma.light
 arrayQuality
 assorthead
 bamsignals
 banocc
+barcodetrackR
 basilisk
 basilisk.utils
 baySeq
 bcSeq
+betaHMM
 bioDist
 bioassayR
 biobroom
@@ -531,6 +535,7 @@ geneRecommender
 geneplast
 genoCN
 genomes
+getDEE2
 geva
 ggkegg
 ggtree
@@ -573,6 +578,7 @@ interacCircos
 interactiveDisplayBase
 iterativeBMA
 iterativeBMAsurv
+ivygapSE
 kmcut
 koinar
 lapmix
@@ -645,6 +651,7 @@ oncoscanR
 onlineFDR
 oppti
 paircompviz
+pairkat
 panp
 parglms
 parody
@@ -679,6 +686,7 @@ qusage
 qvalue
 rBiopaxParser
 rSWeeP
+rScudo
 rWikiPathways
 rain
 ramr
@@ -744,6 +752,7 @@ ssrch
 stageR
 statTarget
 stepNorm
+struct
 subSeq
 survcomp
 swfdr
@@ -758,9 +767,11 @@ tidysbml
 timecourse
 timescape
 tkWidgets
+tomoda
 tomoseqr
 topconfects
 transite
+transomics2cytoscape
 treeio
 trio
 triplex
@@ -782,4 +793,5 @@ weaver
 widgetTools
 wppi
 xmapbridge
+zFPKM
 zlibbioc
