@@ -974,3 +974,17 @@ PhosR
 POWSC
 rBLAST
 tRNA
+awst
+bettr
+escheR
+ExperimentHub
+IsoBayes
+kebabs
+MAI
+MultiDataSet
+pepStat
+rRDP
+sampleClassifier
+sechm
+slingshot
+sRACIPE

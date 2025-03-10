@@ -151,6 +151,7 @@ EnhancedVolcano
 EnrichedHeatmap
 EpiDISH
 ExiMiR
+ExperimentHub
 ExploreModelMatrix
 ExpressionAtlas
 FELLA
@@ -240,6 +241,7 @@ Informeasure
 InteractionSet
 InteractiveComplexHeatmap
 IntramiRExploreR
+IsoBayes
 IsoCorrectoR
 IsoCorrectoRGUI
 KBoost
@@ -258,6 +260,7 @@ LiquidAssociation
 LymphoSeq
 M3C
 MACSQuantifyR
+MAI
 MAST
 MBAmethyl
 MBCB
@@ -303,6 +306,7 @@ Modstrings
 MsCoreUtils
 Mulcom
 MultiAssayExperiment
+MultiDataSet
 MultiMed
 MultimodalExperiment
 NCIgraph
@@ -512,6 +516,7 @@ aroma.light
 arrayQuality
 artMS
 assorthead
+awst
 bamsignals
 banocc
 barcodetrackR
@@ -522,6 +527,7 @@ bcSeq
 beachmat
 beadarray
 betaHMM
+bettr
 bioDist
 bioassayR
 biobroom
@@ -611,6 +617,7 @@ epiNEM
 epialleleR
 epivizrServer
 erccdashboard
+escheR
 fCI
 fabia
 factDesign
@@ -711,6 +718,7 @@ isobar
 iterativeBMA
 iterativeBMAsurv
 ivygapSE
+kebabs
 keggorthology
 kmcut
 koinar
@@ -816,6 +824,7 @@ pathifier
 pathview
 pathwayPCA
 pcaMethods
+pepStat
 pepXMLTab
 pfamAnalyzeR
 pgca
@@ -853,6 +862,7 @@ qvalue
 rBLAST
 rBiopaxParser
 rGenomeTracks
+rRDP
 rSWeeP
 rScudo
 rWikiPathways
@@ -884,10 +894,12 @@ rqubic
 rsbml
 rsemmed
 runibic
+sRACIPE
 sSNAPPY
 sSeq
 safe
 sagenhaft
+sampleClassifier
 sarks
 scAnnotatR
 scFeatureFilter
@@ -900,6 +912,7 @@ scider
 scoup
 scrapper
 seahtrue
+sechm
 semisup
 seq.hotSPOT
 seq2pathway
@@ -918,6 +931,7 @@ sincell
 sitePath
 sizepower
 sketchR
+slingshot
 smoothclust
 snifter
 snm
