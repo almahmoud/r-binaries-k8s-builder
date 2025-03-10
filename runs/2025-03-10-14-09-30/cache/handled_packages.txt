@@ -59,6 +59,7 @@ BiocCheck
 BiocFHIR
 BiocFileCache
 BiocGenerics
+BiocHubsShiny
 BiocIO
 BiocNeighbors
 BiocParallel
@@ -68,6 +69,7 @@ BiocStyle
 BiocVersion
 BiocWorkflowTools
 Biostrings
+BloodGen3Module
 BridgeDbR
 BrowserViz
 BufferedMatrix
@@ -97,6 +99,7 @@ COSNet
 CRImage
 CSAR
 CTDquerier
+CTdata
 CaDrA
 CatsCradle
 CausalR
@@ -110,6 +113,7 @@ Clomial
 ClustAll
 ClusterJudge
 ClusterSignificance
+CoSIA
 ComPrAn
 ComplexHeatmap
 ConsensusClusterPlus
@@ -264,6 +268,7 @@ LiquidAssociation
 LymphoSeq
 M3C
 MACSQuantifyR
+MACSr
 MAI
 MAST
 MBAmethyl
@@ -341,6 +346,7 @@ PIPETS
 PIUMA
 PLPE
 POWSC
+PROMISE
 PROPER
 PROcess
 PWMEnrich
@@ -351,6 +357,7 @@ PepsNMR
 PhenStat
 PhenoGeneRanker
 PhosR
+PhyloProfile
 PoDCall
 ProtGenerics
 ProteoMM
@@ -441,6 +448,7 @@ ScaledMatrix
 ScreenR
 SeqArray
 SeqGate
+SeqSQC
 SeqVarTools
 SharedObject
 SiPSiC
@@ -454,6 +462,7 @@ SpatialExperiment
 SpatialOmicsOverlay
 SpeCond
 SplicingFactory
+SpotSweeper
 Streamer
 Structstrings
 SubCellBarCode
@@ -586,6 +595,7 @@ copa
 covEB
 cqn
 crisprBase
+crisprScore
 csdR
 ctc
 ctsGE
@@ -949,6 +959,7 @@ sincell
 sitePath
 sizepower
 sketchR
+slalom
 slingshot
 smoothclust
 snifter
@@ -962,6 +973,7 @@ spatialSimGP
 specL
 spikeLI
 spkTools
+splineTimeR
 splots
 sscu
 ssize

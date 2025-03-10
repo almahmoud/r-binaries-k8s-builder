@@ -1007,3 +1007,14 @@ npGSEA
 TissueEnrich
 TMSig
 tRNAdbImport
+BiocHubsShiny
+BloodGen3Module
+crisprScore
+CTdata
+MACSr
+PhyloProfile
+PROMISE
+SeqSQC
+slalom
+splineTimeR
+SpotSweeper
