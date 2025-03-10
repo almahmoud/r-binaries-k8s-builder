@@ -1090,3 +1090,12 @@ pgxRpi
 planttfhunter
 PREDA
 SemDist
+biocGraph
+celaref
+iSEEu
+limpca
+made4
+mpra
+simplifyEnrichment
+smartid
+snapcount

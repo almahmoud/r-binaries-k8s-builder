@@ -1,13 +1,2 @@
-CNTools
-Category
-GSRI
-GeneMeta
-MLInterfaces
-PECA
-a4Base
-arrayQualityMetrics
-covRNA
-mogsa
-protGear
-spatialHeatmap
-tilingArray
+iSEEfier
+omicade4

@@ -1175,3 +1175,5 @@ mogsa
 protGear
 spatialHeatmap
 tilingArray
+iSEEfier
+omicade4

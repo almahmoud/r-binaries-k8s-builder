@@ -589,6 +589,7 @@ bioDist
 bioassayR
 biobroom
 biobtreeR
+biocGraph
 biocViews
 biocroxytest
 biocthis
@@ -608,6 +609,7 @@ ccfindR
 ccmap
 ccrepe
 ceRNAnetsim
+celaref
 cellity
 cellmigRation
 cellscape
@@ -780,6 +782,7 @@ iSEEhex
 iSEEhub
 iSEEindex
 iSEEpathways
+iSEEu
 iSeq
 ibh
 idiogram
@@ -812,6 +815,7 @@ levi
 lfa
 limma
 limmaGUI
+limpca
 lionessR
 lmdme
 logicFS
@@ -820,6 +824,7 @@ lpsymphony
 maCorrPlot
 maPredictDSC
 maSigPro
+made4
 maftools
 makecdfenv
 mapscape
@@ -866,6 +871,7 @@ moanin
 monocle
 mosbi
 motifcounter
+mpra
 msPurity
 msa
 mslp
@@ -1026,13 +1032,16 @@ sights
 sigsquared
 similaRpeak
 simona
+simplifyEnrichment
 sincell
 sitePath
 sizepower
 sketchR
 slalom
 slingshot
+smartid
 smoothclust
+snapcount
 snifter
 snm
 snpStats
