@@ -179,6 +179,7 @@ GEM
 GENIE3
 GEOfastq
 GEOmetadb
+GEOquery
 GEOsubmission
 GEWIST
 GGPA
@@ -188,6 +189,7 @@ GMRP
 GOfuncR
 GPA
 GRENITS
+GRmetrics
 GSALightning
 GSAR
 GSEABase
@@ -315,6 +317,7 @@ MiRaGE
 ModCon
 Modstrings
 MsCoreUtils
+MsDataHub
 Mulcom
 MultiAssayExperiment
 MultiDataSet
@@ -327,6 +330,7 @@ NanoStringDiff
 NanoStringNCTools
 Nebulosa
 NetPathMiner
+NetSAM
 NormqPCR
 NuPoP
 OCplus
@@ -360,6 +364,7 @@ PhenStat
 PhenoGeneRanker
 PhosR
 PhyloProfile
+Pirat
 PoDCall
 ProtGenerics
 ProteoMM
@@ -404,6 +409,7 @@ Rarr
 RbcBook1
 Rbowtie
 Rbwa
+RcisTarget
 Rcollectl
 Rdisop
 ReactomeGSA
@@ -573,6 +579,7 @@ cellity
 cellmigRation
 cellscape
 cellxgenedp
+cfTools
 chopsticks
 chromDraw
 chromPlot
@@ -635,6 +642,7 @@ ecolitk
 edgeR
 eds
 eiR
+eisaR
 epiNEM
 epialleleR
 epistack
@@ -711,6 +719,7 @@ hierinf
 hmdbQuery
 hoodscanR
 hopach
+hpar
 hummingbird
 hypeR
 hyperdraw
@@ -749,6 +758,7 @@ ivygapSE
 kebabs
 keggorthology
 kmcut
+knowYourCG
 koinar
 lapmix
 ldblock
@@ -879,6 +889,7 @@ ppcseq
 pqsfinder
 preprocessCore
 proDA
+procoil
 profileScoreDist
 proteinProfiles
 pvac
@@ -1035,6 +1046,7 @@ updateObject
 vbmp
 veloviz
 viper
+vissE
 vsclust
 vsn
 weaver

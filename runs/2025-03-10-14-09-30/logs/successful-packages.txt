@@ -1022,3 +1022,15 @@ adductomicsR
 CoCiteStats
 EnrichmentBrowser
 odseq
+cfTools
+eisaR
+GEOquery
+GRmetrics
+hpar
+knowYourCG
+MsDataHub
+NetSAM
+Pirat
+procoil
+RcisTarget
+vissE
