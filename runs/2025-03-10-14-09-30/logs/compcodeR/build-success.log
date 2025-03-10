@@ -1,0 +1,164 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'compcodeR'
+also installing the dependencies ‘rmutil’, ‘stable’, ‘statip’, ‘SummarizedExperiment’, ‘modeest’, ‘phylolm’, ‘DESeq2’, ‘NOISeq’, ‘TCC’, ‘sva’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rmutil_1.1.10.tar.gz'
+Content type 'binary/octet-stream' length 734718 bytes (717 KB)
+==================================================
+downloaded 717 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/stable_1.1.6.tar.gz'
+Content type 'binary/octet-stream' length 120744 bytes (117 KB)
+==================================================
+downloaded 117 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/statip_0.2.3.tar.gz'
+Content type 'binary/octet-stream' length 107621 bytes (105 KB)
+==================================================
+downloaded 105 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/modeest_2.4.0.tar.gz'
+Content type 'binary/octet-stream' length 146436 bytes (143 KB)
+==================================================
+downloaded 143 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/phylolm_2.6.5.tar.gz'
+Content type 'binary/octet-stream' length 497090 bytes (485 KB)
+==================================================
+downloaded 485 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DESeq2_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 2516875 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/NOISeq_2.50.0.tar.gz'
+Content type 'application/x-gzip' length 2159873 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/TCC_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 3341527 bytes (3.2 MB)
+==================================================
+downloaded 3.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/sva_3.54.0.tar.gz'
+Content type 'application/x-gzip' length 454419 bytes (443 KB)
+==================================================
+downloaded 443 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/compcodeR_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 4979086 bytes (4.7 MB)
+==================================================
+downloaded 4.7 MB
+
+* installing *binary* package ‘rmutil’ ...
+* ‘rmutil’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rmutil’ as ‘rmutil_1.1.10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rmutil)
+* installing *binary* package ‘statip’ ...
+* ‘statip’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘statip’ as ‘statip_0.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (statip)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-SummarizedExperiment’
+* installing *binary* package ‘phylolm’ ...
+* ‘phylolm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘phylolm’ as ‘phylolm_2.6.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (phylolm)
+* installing *source* package ‘NOISeq’ ...
+** package ‘NOISeq’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘NOISeq’ as ‘NOISeq_2.50.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NOISeq)
+* installing *source* package ‘sva’ ...
+** package ‘sva’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sva.c -o sva.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o sva.so sva.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-sva/00new/sva/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error: package or namespace load failed for ‘genefilter’ in loadNamespace(j <- imp[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]):
+ there is no package called ‘AnnotationDbi’
+Execution halted
+ERROR: lazy loading failed for package ‘sva’
+* removing ‘/mnt/library/sva’
+* installing *binary* package ‘stable’ ...
+* ‘stable’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘stable’ as ‘stable_1.1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (stable)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-DESeq2’
+* installing *binary* package ‘modeest’ ...
+* ‘modeest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘modeest’ as ‘modeest_2.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (modeest)
+ERROR: dependency ‘DESeq2’ is not available for package ‘TCC’
+* removing ‘/mnt/library/TCC’
+* installing *source* package ‘compcodeR’ ...
+** package ‘compcodeR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘compcodeR’ as ‘compcodeR_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (compcodeR)
+
+The downloaded source packages are in
+	‘/tmp/RtmpGpojD0/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘SummarizedExperiment’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘sva’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘DESeq2’ had non-zero exit status
+4: In install.packages(...) :
+  installation of package ‘TCC’ had non-zero exit status
+
+real	0m47.052s
+user	0m24.258s
+sys	0m6.810s

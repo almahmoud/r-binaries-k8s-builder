@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 425 packages built successfully
+- 430 packages built successfully
 - 17 packages failed to build
-- 1791 packages not yet processed
+- 1786 packages not yet processed
 
 ## Failed Builds (17)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                                                                                       |
@@ -29,7 +29,7 @@
 | [GeneticsPed](https://bioconductor.org/packages/3.20/bioc/html/GeneticsPed.html)   | Failed   | [Log](runs/2025-03-10-14-09-30/logs/GeneticsPed/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneticsPed)  | Compilation failed:  ‘GeneticsPed’                                                                    |
 | [cytolib](https://bioconductor.org/packages/3.20/bioc/html/cytolib.html)           | Failed   | [Log](runs/2025-03-10-14-09-30/logs/cytolib/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cytolib)      | ERROR: failed to lock directory ‘/mnt/library’ for modifying                                          |
 
-## Successfully Built (425)
+## Successfully Built (430)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-10-14-09-30/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -457,8 +457,13 @@
 | [planet](https://bioconductor.org/packages/3.20/bioc/html/planet.html)                                   | Built    | [Log](runs/2025-03-10-14-09-30/logs/planet/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/planet)                  |
 | [snifter](https://bioconductor.org/packages/3.20/bioc/html/snifter.html)                                 | Built    | [Log](runs/2025-03-10-14-09-30/logs/snifter/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/snifter)                 |
 | [tweeDEseq](https://bioconductor.org/packages/3.20/bioc/html/tweeDEseq.html)                             | Built    | [Log](runs/2025-03-10-14-09-30/logs/tweeDEseq/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tweeDEseq)               |
+| [SIMD](https://bioconductor.org/packages/3.20/bioc/html/SIMD.html)                                       | Built    | [Log](runs/2025-03-10-14-09-30/logs/SIMD/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SIMD)                    |
+| [cbpManager](https://bioconductor.org/packages/3.20/bioc/html/cbpManager.html)                           | Built    | [Log](runs/2025-03-10-14-09-30/logs/cbpManager/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cbpManager)              |
+| [compcodeR](https://bioconductor.org/packages/3.20/bioc/html/compcodeR.html)                             | Built    | [Log](runs/2025-03-10-14-09-30/logs/compcodeR/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/compcodeR)               |
+| [densvis](https://bioconductor.org/packages/3.20/bioc/html/densvis.html)                                 | Built    | [Log](runs/2025-03-10-14-09-30/logs/densvis/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/densvis)                 |
+| [erccdashboard](https://bioconductor.org/packages/3.20/bioc/html/erccdashboard.html)                     | Built    | [Log](runs/2025-03-10-14-09-30/logs/erccdashboard/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/erccdashboard)           |
 
-## Not Yet Processed (1791)
+## Not Yet Processed (1786)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ABarray](https://bioconductor.org/packages/3.20/bioc/html/ABarray.html)                                         | Unprocessed |
@@ -1181,7 +1186,6 @@
 | [SICtools](https://bioconductor.org/packages/3.20/bioc/html/SICtools.html)                                       | Unprocessed |
 | [SIM](https://bioconductor.org/packages/3.20/bioc/html/SIM.html)                                                 | Unprocessed |
 | [SIMAT](https://bioconductor.org/packages/3.20/bioc/html/SIMAT.html)                                             | Unprocessed |
-| [SIMD](https://bioconductor.org/packages/3.20/bioc/html/SIMD.html)                                               | Unprocessed |
 | [SMITE](https://bioconductor.org/packages/3.20/bioc/html/SMITE.html)                                             | Unprocessed |
 | [SNPhood](https://bioconductor.org/packages/3.20/bioc/html/SNPhood.html)                                         | Unprocessed |
 | [SOMNiBUS](https://bioconductor.org/packages/3.20/bioc/html/SOMNiBUS.html)                                       | Unprocessed |
@@ -1421,7 +1425,6 @@
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)                                           | Unprocessed |
 | [categoryCompare](https://bioconductor.org/packages/3.20/bioc/html/categoryCompare.html)                         | Unprocessed |
 | [cbaf](https://bioconductor.org/packages/3.20/bioc/html/cbaf.html)                                               | Unprocessed |
-| [cbpManager](https://bioconductor.org/packages/3.20/bioc/html/cbpManager.html)                                   | Unprocessed |
 | [ccImpute](https://bioconductor.org/packages/3.20/bioc/html/ccImpute.html)                                       | Unprocessed |
 | [ccfindR](https://bioconductor.org/packages/3.20/bioc/html/ccfindR.html)                                         | Unprocessed |
 | [ccmap](https://bioconductor.org/packages/3.20/bioc/html/ccmap.html)                                             | Unprocessed |
@@ -1468,7 +1471,6 @@
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                                           | Unprocessed |
 | [combi](https://bioconductor.org/packages/3.20/bioc/html/combi.html)                                             | Unprocessed |
 | [compEpiTools](https://bioconductor.org/packages/3.20/bioc/html/compEpiTools.html)                               | Unprocessed |
-| [compcodeR](https://bioconductor.org/packages/3.20/bioc/html/compcodeR.html)                                     | Unprocessed |
 | [concordexR](https://bioconductor.org/packages/3.20/bioc/html/concordexR.html)                                   | Unprocessed |
 | [condiments](https://bioconductor.org/packages/3.20/bioc/html/condiments.html)                                   | Unprocessed |
 | [consICA](https://bioconductor.org/packages/3.20/bioc/html/consICA.html)                                         | Unprocessed |
@@ -1525,7 +1527,6 @@
 | [deepSNV](https://bioconductor.org/packages/3.20/bioc/html/deepSNV.html)                                         | Unprocessed |
 | [deltaCaptureC](https://bioconductor.org/packages/3.20/bioc/html/deltaCaptureC.html)                             | Unprocessed |
 | [demuxSNP](https://bioconductor.org/packages/3.20/bioc/html/demuxSNP.html)                                       | Unprocessed |
-| [densvis](https://bioconductor.org/packages/3.20/bioc/html/densvis.html)                                         | Unprocessed |
 | [derfinder](https://bioconductor.org/packages/3.20/bioc/html/derfinder.html)                                     | Unprocessed |
 | [derfinderHelper](https://bioconductor.org/packages/3.20/bioc/html/derfinderHelper.html)                         | Unprocessed |
 | [derfinderPlot](https://bioconductor.org/packages/3.20/bioc/html/derfinderPlot.html)                             | Unprocessed |
@@ -1573,7 +1574,6 @@
 | [epivizrChart](https://bioconductor.org/packages/3.20/bioc/html/epivizrChart.html)                               | Unprocessed |
 | [epivizrData](https://bioconductor.org/packages/3.20/bioc/html/epivizrData.html)                                 | Unprocessed |
 | [epivizrStandalone](https://bioconductor.org/packages/3.20/bioc/html/epivizrStandalone.html)                     | Unprocessed |
-| [erccdashboard](https://bioconductor.org/packages/3.20/bioc/html/erccdashboard.html)                             | Unprocessed |
 | [erma](https://bioconductor.org/packages/3.20/bioc/html/erma.html)                                               | Unprocessed |
 | [esATAC](https://bioconductor.org/packages/3.20/bioc/html/esATAC.html)                                           | Unprocessed |
 | [escape](https://bioconductor.org/packages/3.20/bioc/html/escape.html)                                           | Unprocessed |

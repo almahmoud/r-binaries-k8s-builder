@@ -191,6 +191,7 @@ Rsubread
 SANTA
 SBMLR
 SCBN
+SIMD
 SIMLR
 SLqPCR
 SMAD
@@ -237,6 +238,7 @@ biodbNci
 biodbUniprot
 bugsigdbr
 calm
+cbpManager
 ccrepe
 ceRNAnetsim
 cellmigRation
@@ -250,6 +252,7 @@ clstutils
 clustComp
 coGPS
 compSPOT
+compcodeR
 consensus
 cqn
 ctc
@@ -261,6 +264,7 @@ dearseq
 decontam
 deltaGseg
 demuxmix
+densvis
 diffGeneAnalysis
 diffuStats
 dir.expiry
@@ -271,6 +275,7 @@ easyreporting
 edgeR
 eds
 epivizrServer
+erccdashboard
 fCI
 fastreeR
 fdrame
