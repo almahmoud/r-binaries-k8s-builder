@@ -429,3 +429,8 @@ densvis
 erccdashboard
 SIMD
 Rvisdiff
+BiocGenerics
+koinar
+ppcseq
+PROPER
+RTCGA

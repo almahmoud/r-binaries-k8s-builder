@@ -1,0 +1,217 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'RTCGA'
+also installing the dependencies ‘RTCGA.rnaseq’, ‘RTCGA.clinical’, ‘RTCGA.mutations’, ‘RTCGA.RPPA’, ‘RTCGA.mRNA’, ‘RTCGA.miRNASeq’, ‘RTCGA.methylation’, ‘RTCGA.CNV’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/RTCGA.rnaseq_20151101.36.0.tar.gz'
+Content type 'application/x-gzip' length 642336272 bytes (612.6 MB)
+==================================================
+downloaded 612.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/RTCGA.clinical_20151101.36.0.tar.gz'
+Content type 'application/x-gzip' length 14652891 bytes (14.0 MB)
+==================================================
+downloaded 14.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/RTCGA.mutations_20151101.36.0.tar.gz'
+Content type 'application/x-gzip' length 108859657 bytes (103.8 MB)
+==================================================
+downloaded 103.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/RTCGA.RPPA_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 13728245 bytes (13.1 MB)
+==================================================
+downloaded 13.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/RTCGA.mRNA_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 89110792 bytes (85.0 MB)
+==================================================
+downloaded 85.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/RTCGA.miRNASeq_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 47436597 bytes (45.2 MB)
+==================================================
+downloaded 45.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/RTCGA.methylation_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 653009610 bytes (622.8 MB)
+==================================================
+downloaded 622.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/RTCGA.CNV_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 28699501 bytes (27.4 MB)
+==================================================
+downloaded 27.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/RTCGA_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 2452164 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+* installing *source* package ‘RTCGA’ ...
+** package ‘RTCGA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RTCGA’ as ‘RTCGA_1.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RTCGA)
+* installing *source* package ‘RTCGA.rnaseq’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RTCGA.rnaseq’ as ‘RTCGA.rnaseq_20151101.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RTCGA.rnaseq)
+* installing *source* package ‘RTCGA.clinical’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RTCGA.clinical’ as ‘RTCGA.clinical_20151101.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RTCGA.clinical)
+* installing *source* package ‘RTCGA.mutations’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RTCGA.mutations’ as ‘RTCGA.mutations_20151101.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RTCGA.mutations)
+* installing *source* package ‘RTCGA.RPPA’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RTCGA.RPPA’ as ‘RTCGA.RPPA_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RTCGA.RPPA)
+* installing *source* package ‘RTCGA.mRNA’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RTCGA.mRNA’ as ‘RTCGA.mRNA_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RTCGA.mRNA)
+* installing *source* package ‘RTCGA.miRNASeq’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RTCGA.miRNASeq’ as ‘RTCGA.miRNASeq_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RTCGA.miRNASeq)
+* installing *source* package ‘RTCGA.methylation’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RTCGA.methylation’ as ‘RTCGA.methylation_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RTCGA.methylation)
+* installing *source* package ‘RTCGA.CNV’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RTCGA.CNV’ as ‘RTCGA.CNV_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RTCGA.CNV)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp1N7AIo/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+
+real	13m22.668s
+user	10m46.073s
+sys	0m57.970s

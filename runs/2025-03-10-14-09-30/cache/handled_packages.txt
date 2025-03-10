@@ -24,6 +24,7 @@ BiRewire
 BioCartaImage
 BiocBaseUtils
 BiocFileCache
+BiocGenerics
 BiocNeighbors
 BiocParallel
 BiocStyle
@@ -153,6 +154,7 @@ Omixer
 OmnipathR
 OpenStats
 PANR
+PROPER
 PROcess
 Path2PPI
 PathNet
@@ -178,6 +180,7 @@ ROSeq
 RProtoBufLib
 RRHO
 RSeqAn
+RTCGA
 RankProd
 Rbowtie
 Rbwa
@@ -324,6 +327,7 @@ immunotation
 impute
 interacCircos
 iterativeBMAsurv
+koinar
 les
 levi
 lfa
@@ -378,6 +382,7 @@ plasmut
 plotGrouper
 pmm
 powerTCR
+ppcseq
 preprocessCore
 proteinProfiles
 qckitfastq

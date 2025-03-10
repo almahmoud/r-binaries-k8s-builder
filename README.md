@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 431 packages built successfully
+- 436 packages built successfully
 - 17 packages failed to build
-- 1785 packages not yet processed
+- 1780 packages not yet processed
 
 ## Failed Builds (17)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                                                                                       |
@@ -29,7 +29,7 @@
 | [GeneticsPed](https://bioconductor.org/packages/3.20/bioc/html/GeneticsPed.html)   | Failed   | [Log](runs/2025-03-10-14-09-30/logs/GeneticsPed/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneticsPed)  | Compilation failed:  ‘GeneticsPed’                                                                    |
 | [cytolib](https://bioconductor.org/packages/3.20/bioc/html/cytolib.html)           | Failed   | [Log](runs/2025-03-10-14-09-30/logs/cytolib/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cytolib)      | ERROR: failed to lock directory ‘/mnt/library’ for modifying                                          |
 
-## Successfully Built (431)
+## Successfully Built (436)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-10-14-09-30/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -463,8 +463,13 @@
 | [densvis](https://bioconductor.org/packages/3.20/bioc/html/densvis.html)                                 | Built    | [Log](runs/2025-03-10-14-09-30/logs/densvis/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/densvis)                 |
 | [erccdashboard](https://bioconductor.org/packages/3.20/bioc/html/erccdashboard.html)                     | Built    | [Log](runs/2025-03-10-14-09-30/logs/erccdashboard/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/erccdashboard)           |
 | [Rvisdiff](https://bioconductor.org/packages/3.20/bioc/html/Rvisdiff.html)                               | Built    | [Log](runs/2025-03-10-14-09-30/logs/Rvisdiff/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rvisdiff)                |
+| [BiocGenerics](https://bioconductor.org/packages/3.20/bioc/html/BiocGenerics.html)                       | Built    | [Log](runs/2025-03-10-14-09-30/logs/BiocGenerics/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BiocGenerics)            |
+| [PROPER](https://bioconductor.org/packages/3.20/bioc/html/PROPER.html)                                   | Built    | [Log](runs/2025-03-10-14-09-30/logs/PROPER/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PROPER)                  |
+| [RTCGA](https://bioconductor.org/packages/3.20/bioc/html/RTCGA.html)                                     | Built    | [Log](runs/2025-03-10-14-09-30/logs/RTCGA/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RTCGA)                   |
+| [koinar](https://bioconductor.org/packages/3.20/bioc/html/koinar.html)                                   | Built    | [Log](runs/2025-03-10-14-09-30/logs/koinar/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/koinar)                  |
+| [ppcseq](https://bioconductor.org/packages/3.20/bioc/html/ppcseq.html)                                   | Built    | [Log](runs/2025-03-10-14-09-30/logs/ppcseq/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ppcseq)                  |
 
-## Not Yet Processed (1785)
+## Not Yet Processed (1780)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ABarray](https://bioconductor.org/packages/3.20/bioc/html/ABarray.html)                                         | Unprocessed |
@@ -552,7 +557,6 @@
 | [BiocBook](https://bioconductor.org/packages/3.20/bioc/html/BiocBook.html)                                       | Unprocessed |
 | [BiocCheck](https://bioconductor.org/packages/3.20/bioc/html/BiocCheck.html)                                     | Unprocessed |
 | [BiocFHIR](https://bioconductor.org/packages/3.20/bioc/html/BiocFHIR.html)                                       | Unprocessed |
-| [BiocGenerics](https://bioconductor.org/packages/3.20/bioc/html/BiocGenerics.html)                               | Unprocessed |
 | [BiocHubsShiny](https://bioconductor.org/packages/3.20/bioc/html/BiocHubsShiny.html)                             | Unprocessed |
 | [BiocIO](https://bioconductor.org/packages/3.20/bioc/html/BiocIO.html)                                           | Unprocessed |
 | [BiocPkgTools](https://bioconductor.org/packages/3.20/bioc/html/BiocPkgTools.html)                               | Unprocessed |
@@ -1053,7 +1057,6 @@
 | [PREDA](https://bioconductor.org/packages/3.20/bioc/html/PREDA.html)                                             | Unprocessed |
 | [PROMISE](https://bioconductor.org/packages/3.20/bioc/html/PROMISE.html)                                         | Unprocessed |
 | [PRONE](https://bioconductor.org/packages/3.20/bioc/html/PRONE.html)                                             | Unprocessed |
-| [PROPER](https://bioconductor.org/packages/3.20/bioc/html/PROPER.html)                                           | Unprocessed |
 | [PROPS](https://bioconductor.org/packages/3.20/bioc/html/PROPS.html)                                             | Unprocessed |
 | [PSMatch](https://bioconductor.org/packages/3.20/bioc/html/PSMatch.html)                                         | Unprocessed |
 | [PWMEnrich](https://bioconductor.org/packages/3.20/bioc/html/PWMEnrich.html)                                     | Unprocessed |
@@ -1116,7 +1119,6 @@
 | [RPA](https://bioconductor.org/packages/3.20/bioc/html/RPA.html)                                                 | Unprocessed |
 | [RSVSim](https://bioconductor.org/packages/3.20/bioc/html/RSVSim.html)                                           | Unprocessed |
 | [RTCA](https://bioconductor.org/packages/3.20/bioc/html/RTCA.html)                                               | Unprocessed |
-| [RTCGA](https://bioconductor.org/packages/3.20/bioc/html/RTCGA.html)                                             | Unprocessed |
 | [RTCGAToolbox](https://bioconductor.org/packages/3.20/bioc/html/RTCGAToolbox.html)                               | Unprocessed |
 | [RTN](https://bioconductor.org/packages/3.20/bioc/html/RTN.html)                                                 | Unprocessed |
 | [RTNduals](https://bioconductor.org/packages/3.20/bioc/html/RTNduals.html)                                       | Unprocessed |
@@ -1743,7 +1745,6 @@
 | [kissDE](https://bioconductor.org/packages/3.20/bioc/html/kissDE.html)                                           | Unprocessed |
 | [kmcut](https://bioconductor.org/packages/3.20/bioc/html/kmcut.html)                                             | Unprocessed |
 | [knowYourCG](https://bioconductor.org/packages/3.20/bioc/html/knowYourCG.html)                                   | Unprocessed |
-| [koinar](https://bioconductor.org/packages/3.20/bioc/html/koinar.html)                                           | Unprocessed |
 | [lapmix](https://bioconductor.org/packages/3.20/bioc/html/lapmix.html)                                           | Unprocessed |
 | [ldblock](https://bioconductor.org/packages/3.20/bioc/html/ldblock.html)                                         | Unprocessed |
 | [lefser](https://bioconductor.org/packages/3.20/bioc/html/lefser.html)                                           | Unprocessed |
@@ -1950,7 +1951,6 @@
 | [pmp](https://bioconductor.org/packages/3.20/bioc/html/pmp.html)                                                 | Unprocessed |
 | [podkat](https://bioconductor.org/packages/3.20/bioc/html/podkat.html)                                           | Unprocessed |
 | [pogos](https://bioconductor.org/packages/3.20/bioc/html/pogos.html)                                             | Unprocessed |
-| [ppcseq](https://bioconductor.org/packages/3.20/bioc/html/ppcseq.html)                                           | Unprocessed |
 | [pqsfinder](https://bioconductor.org/packages/3.20/bioc/html/pqsfinder.html)                                     | Unprocessed |
 | [pram](https://bioconductor.org/packages/3.20/bioc/html/pram.html)                                               | Unprocessed |
 | [prebs](https://bioconductor.org/packages/3.20/bioc/html/prebs.html)                                             | Unprocessed |
