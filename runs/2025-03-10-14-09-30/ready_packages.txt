@@ -1,3 +1,13 @@
-POWSC
-celaref
-sampleClassifier
+AGDEX
+AUCell
+BicARE
+EnrichmentBrowser
+PROMISE
+TMSig
+TissueEnrich
+affylmGUI
+esetVis
+npGSEA
+slalom
+splineTimeR
+tRNAdbImport

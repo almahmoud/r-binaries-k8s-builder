@@ -179,6 +179,7 @@ GPA
 GRENITS
 GSALightning
 GSAR
+GSEABase
 GSEAlm
 GSEAmining
 GSgalgoR
@@ -223,6 +224,7 @@ HilbertVisGUI
 HuBMAPR
 HubPub
 HybridMTest
+IFAA
 IHW
 ILoReg
 IMPCdata
@@ -259,11 +261,13 @@ MACSQuantifyR
 MAST
 MBAmethyl
 MBCB
+MBQN
 MBttest
 MEDME
 MEIGOR
 MGFM
 MGFR
+MLP
 MMUPHin
 MODA
 MPFE
@@ -328,6 +332,7 @@ PANR
 PIPETS
 PIUMA
 PLPE
+POWSC
 PROPER
 PROcess
 PWMEnrich
@@ -337,6 +342,7 @@ Pedixplorer
 PepsNMR
 PhenStat
 PhenoGeneRanker
+PhosR
 PoDCall
 ProtGenerics
 ProteoMM
@@ -487,6 +493,7 @@ adverSCarial
 affxparser
 affy
 affyContam
+affyPLM
 affycomp
 affyio
 aggregateBioVar
@@ -607,6 +614,7 @@ erccdashboard
 fCI
 fabia
 factDesign
+fastLiquidAssociation
 fastreeR
 fdrame
 fedup
@@ -689,6 +697,7 @@ iSeq
 ibh
 idpr
 idr2d
+igvShiny
 illuminaio
 immApex
 immunogenViewer
@@ -724,11 +733,13 @@ maftools
 makecdfenv
 mapscape
 marray
+maskBAD
 massiR
 matchBox
 mbQTL
 mdp
 mdqc
+megadepth
 messina
 metaCCA
 metaSeq
@@ -746,6 +757,7 @@ miRBaseConverter
 miRNApath
 miRNAtap
 miRcomp
+microRNA
 midasHLA
 mina
 minet
@@ -757,6 +769,7 @@ mnem
 moanin
 monocle
 mosbi
+motifcounter
 msPurity
 msa
 mslp
@@ -807,6 +820,7 @@ pepXMLTab
 pfamAnalyzeR
 pgca
 phantasusLite
+phenopath
 philr
 phosphonormalizer
 pickgene
@@ -836,6 +850,7 @@ quantiseqr
 quantsmooth
 qusage
 qvalue
+rBLAST
 rBiopaxParser
 rGenomeTracks
 rSWeeP
@@ -936,6 +951,7 @@ synapsis
 synergyfinder
 synlet
 systemPipeShiny
+tRNA
 tanggle
 target
 tenXplore
