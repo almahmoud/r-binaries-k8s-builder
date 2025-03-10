@@ -1126,3 +1126,9 @@ interactiveDisplay
 pwalign
 TSCAN
 XDE
+CellTrails
+dce
+GOstats
+IgGeneUsage
+schex
+scmap

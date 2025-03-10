@@ -115,6 +115,7 @@ CausalR
 CellMapper
 CellNOptR
 CellScore
+CellTrails
 ChemmineOB
 ChemmineR
 Chicago
@@ -200,6 +201,7 @@ GNET2
 GOSemSim
 GOfuncR
 GOpro
+GOstats
 GPA
 GRENITS
 GRmetrics
@@ -267,6 +269,7 @@ ISAnalytics
 ISoLDE
 IWTomics
 Icens
+IgGeneUsage
 Informeasure
 InteractionSet
 InteractiveComplexHeatmap
@@ -668,6 +671,7 @@ cytolib
 dStruct
 daMA
 dcanr
+dce
 ddCt
 dearseq
 decontam
@@ -1037,7 +1041,9 @@ scRepertoire
 scatterHatch
 sccomp
 scds
+schex
 scider
+scmap
 scoup
 scp
 scrapper

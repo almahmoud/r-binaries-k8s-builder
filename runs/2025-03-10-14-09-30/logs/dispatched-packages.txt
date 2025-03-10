@@ -1192,3 +1192,9 @@ gatom
 ggseqalign
 openPrimeR
 sangerseqR
+GmicR
+SGCP
+attract
+categoryCompare
+miRLAB
+scTGIF

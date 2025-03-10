@@ -1,10 +1,6 @@
-ClustIRR
-IMMAN
-LinTInd
-MSA2dist
-MethTargetedNGS
-QSutils
-gatom
-ggseqalign
-openPrimeR
-sangerseqR
+GmicR
+SGCP
+attract
+categoryCompare
+miRLAB
+scTGIF
