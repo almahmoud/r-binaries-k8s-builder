@@ -1108,3 +1108,7 @@
 ['[GSRI](https://bioconductor.org/packages/3.20/bioc/html/GSRI.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/GSRI/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSRI)']
 ['[LinkHD](https://bioconductor.org/packages/3.20/bioc/html/LinkHD.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/LinkHD/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/LinkHD)']
 ['[MLInterfaces](https://bioconductor.org/packages/3.20/bioc/html/MLInterfaces.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/MLInterfaces/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MLInterfaces)']
+['[Category](https://bioconductor.org/packages/3.20/bioc/html/Category.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/Category/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Category)']
+['[GOpro](https://bioconductor.org/packages/3.20/bioc/html/GOpro.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/GOpro/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GOpro)']
+['[SPIAT](https://bioconductor.org/packages/3.20/bioc/html/SPIAT.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/SPIAT/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SPIAT)']
+['[iSEEfier](https://bioconductor.org/packages/3.20/bioc/html/iSEEfier.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/iSEEfier/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iSEEfier)']

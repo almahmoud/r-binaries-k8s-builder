@@ -107,6 +107,7 @@ CTDquerier
 CTdata
 CTexploreR
 CaDrA
+Category
 CatsCradle
 CausalR
 CellMapper
@@ -196,6 +197,7 @@ GMRP
 GNET2
 GOSemSim
 GOfuncR
+GOpro
 GPA
 GRENITS
 GRmetrics
@@ -479,6 +481,7 @@ SNPRelate
 SNPediaR
 SPEM
 SPIA
+SPIAT
 SPONGE
 SPOTlight
 SQLDataFrame
@@ -783,6 +786,7 @@ iChip
 iClusterPlus
 iGC
 iSEE
+iSEEfier
 iSEEhex
 iSEEhub
 iSEEindex
