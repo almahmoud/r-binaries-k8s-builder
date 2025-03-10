@@ -1,0 +1,267 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'rgoslin'
+also installing the dependencies ‘calibrate’, ‘qqman’, ‘gmm’, ‘IRanges’, ‘DelayedArray’, ‘MultiAssayExperiment’, ‘MultiDataSet’, ‘tmvtnorm’, ‘norm’, ‘SummarizedExperiment’, ‘fgsea’, ‘ropls’, ‘imputeLCMD’, ‘lipidr’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/calibrate_1.7.7.tar.gz'
+Content type 'binary/octet-stream' length 356889 bytes (348 KB)
+==================================================
+downloaded 348 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/qqman_0.1.9.tar.gz'
+Content type 'binary/octet-stream' length 1130864 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gmm_1.8.tar.gz'
+Content type 'binary/octet-stream' length 1435724 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IRanges_2.40.1.tar.gz'
+Content type 'application/x-gzip' length 486989 bytes (475 KB)
+==================================================
+downloaded 475 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MultiAssayExperiment_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 1224754 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MultiDataSet_1.34.0.tar.gz'
+Content type 'application/x-gzip' length 509906 bytes (497 KB)
+==================================================
+downloaded 497 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tmvtnorm_1.6.tar.gz'
+Content type 'binary/octet-stream' length 575024 bytes (561 KB)
+==================================================
+downloaded 561 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/norm_1.0-11.1.tar.gz'
+Content type 'binary/octet-stream' length 86929 bytes (84 KB)
+==================================================
+downloaded 84 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SummarizedExperiment_1.36.0.tar.gz'
+Content type 'application/x-gzip' length 690951 bytes (674 KB)
+==================================================
+downloaded 674 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/fgsea_1.32.2.tar.gz'
+Content type 'application/x-gzip' length 4980260 bytes (4.7 MB)
+==================================================
+downloaded 4.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ropls_1.38.0.tar.gz'
+Content type 'application/x-gzip' length 5723857 bytes (5.5 MB)
+==================================================
+downloaded 5.5 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/imputeLCMD_2.1.tar.gz'
+Content type 'application/x-tar' length 589790 bytes (575 KB)
+==================================================
+downloaded 575 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/lipidr_2.20.0.tar.gz'
+Content type 'application/x-gzip' length 3510548 bytes (3.3 MB)
+==================================================
+downloaded 3.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/rgoslin_1.10.0.tar.gz'
+Content type 'application/x-gzip' length 751169 bytes (733 KB)
+==================================================
+downloaded 733 KB
+
+* installing *binary* package ‘calibrate’ ...
+* ‘calibrate’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘calibrate’ as ‘calibrate_1.7.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (calibrate)
+* installing *binary* package ‘gmm’ ...
+* ‘gmm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gmm’ as ‘gmm_1.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gmm)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-IRanges’
+* installing *binary* package ‘norm’ ...
+* ‘norm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘norm’ as ‘norm_1.0-11.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (norm)
+* installing *source* package ‘fgsea’ ...
+** package ‘fgsea’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ScoreCalculation.cpp -o ScoreCalculation.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ScoreRuler.cpp -o ScoreRuler.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c esCalculation.cpp -o esCalculation.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c fastGSEA.cpp -o fastGSEA.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c fgseaMultilevel.cpp -o fgseaMultilevel.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c fgseaMultilevelSupplement.cpp -o fgseaMultilevelSupplement.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c geseca.cpp -o geseca.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c util.cpp -o util.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o fgsea.so RcppExports.o ScoreCalculation.o ScoreRuler.o esCalculation.o fastGSEA.o fgseaMultilevel.o fgseaMultilevelSupplement.o geseca.o util.o -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-fgsea/00new/fgsea/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘fgsea’ as ‘fgsea_1.32.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fgsea)
+* installing *source* package ‘rgoslin’ ...
+** package ‘rgoslin’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+The name of the shared library to be created is: rgoslin.so
+make[1]: Entering directory '/tmp/RtmpYEOrUO/R.INSTALLf755209686/rgoslin/src/cppgoslin'
+rm -f "cppgoslin/parser/KnownGrammars.h"
+rm -f "src/domain/LipidClasses.cpp"
+rm -f "cppgoslin/domain/ClassesEnum.h"
+rm -f cppgoslin/domain/*.o
+rm -f cppgoslin/parser/*.o
+rm -f cppgoslin/tests/*.o
+rm -f libcppGoslin.so
+rm -f *Test
+rm -f writeGrammarsHeader
+rm -f writeLipidEnums
+rm -f libcppGoslin.a
+make[1]: Leaving directory '/tmp/RtmpYEOrUO/R.INSTALLf755209686/rgoslin/src/cppgoslin'
+make[1]: Entering directory '/tmp/RtmpYEOrUO/R.INSTALLf755209686/rgoslin/src/cppgoslin'
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I . -o writeGrammarsHeader writeGrammarsHeader.cpp && "./writeGrammarsHeader" "cppgoslin/parser/KnownGrammars.h"
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I . -o writeLipidEnums writeLipidEnums.cpp src/domain/StringFunctions.cpp src/parser/SumFormulaParserEventHandler.cpp src/parser/ParserClasses.cpp && "./writeLipidEnums" "src/domain/LipidClasses.cpp"
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/Adduct.o -c src/domain/Adduct.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/LipidMolecularSpecies.o -c src/domain/LipidMolecularSpecies.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/LipidSnPosition.o -c src/domain/LipidSnPosition.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/LipidStructureDefined.o -c src/domain/LipidStructureDefined.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/FattyAcid.o -c src/domain/FattyAcid.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/LipidAdduct.o -c src/domain/LipidAdduct.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/LipidSpecies.o -c src/domain/LipidSpecies.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/LipidFullStructure.o -c src/domain/LipidFullStructure.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/LipidCompleteStructure.o -c src/domain/LipidCompleteStructure.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/LipidSpeciesInfo.o -c src/domain/LipidSpeciesInfo.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/StringFunctions.o -c src/domain/StringFunctions.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/LipidClasses.o -c src/domain/LipidClasses.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/DoubleBonds.o -c src/domain/DoubleBonds.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/FunctionalGroup.o -c src/domain/FunctionalGroup.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/Headgroup.o -c src/domain/Headgroup.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/Cycle.o -c src/domain/Cycle.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/domain/GenericDatastructures.o -c src/domain/GenericDatastructures.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/parser/ParserClasses.o -c src/parser/ParserClasses.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/parser/KnownParsers.o -c src/parser/KnownParsers.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/parser/GoslinParserEventHandler.o -c src/parser/GoslinParserEventHandler.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/parser/LipidMapsParserEventHandler.o -c src/parser/LipidMapsParserEventHandler.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/parser/SwissLipidsParserEventHandler.o -c src/parser/SwissLipidsParserEventHandler.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/parser/HmdbParserEventHandler.o -c src/parser/HmdbParserEventHandler.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/parser/SumFormulaParserEventHandler.o -c src/parser/SumFormulaParserEventHandler.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/parser/SumFormulaParser.o -c src/parser/SumFormulaParser.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/parser/ShorthandParserEventHandler.o -c src/parser/ShorthandParserEventHandler.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/parser/FattyAcidParserEventHandler.o -c src/parser/FattyAcidParserEventHandler.cpp
+g++ -std=gnu++11 -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -I. -fPIC -o src/parser/LipidBaseParserEventHandler.o -c src/parser/LipidBaseParserEventHandler.cpp
+ar rcs libcppGoslin.a src/domain/Adduct.o src/domain/LipidMolecularSpecies.o src/domain/LipidSnPosition.o src/domain/LipidStructureDefined.o src/domain/FattyAcid.o src/domain/LipidAdduct.o src/domain/LipidSpecies.o src/domain/LipidFullStructure.o src/domain/LipidCompleteStructure.o src/domain/LipidSpeciesInfo.o src/domain/StringFunctions.o src/domain/LipidClasses.o src/domain/DoubleBonds.o src/domain/FunctionalGroup.o src/domain/Headgroup.o src/domain/Cycle.o src/domain/GenericDatastructures.o src/parser/ParserClasses.o src/parser/KnownParsers.o src/parser/GoslinParserEventHandler.o src/parser/LipidMapsParserEventHandler.o src/parser/SwissLipidsParserEventHandler.o src/parser/HmdbParserEventHandler.o src/parser/SumFormulaParserEventHandler.o src/parser/SumFormulaParser.o src/parser/ShorthandParserEventHandler.o src/parser/FattyAcidParserEventHandler.o src/parser/LipidBaseParserEventHandler.o
+make[1]: Leaving directory '/tmp/RtmpYEOrUO/R.INSTALLf755209686/rgoslin/src/cppgoslin'
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -I"." -I"./cppgoslin" -I"./cppgoslin/cppgoslin" -I"./cppgoslin/cppgoslin/domain" -I"./cppgoslin/cppgoslin/parser" -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -I"." -I"./cppgoslin" -I"./cppgoslin/cppgoslin" -I"./cppgoslin/cppgoslin/domain" -I"./cppgoslin/cppgoslin/parser" -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c rgoslin.cpp -o rgoslin.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o rgoslin.so RcppExports.o rgoslin.o cppgoslin/libcppGoslin.a -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-rgoslin/00new/rgoslin/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rgoslin’ as ‘rgoslin_1.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rgoslin)
+* installing *binary* package ‘qqman’ ...
+* ‘qqman’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘qqman’ as ‘qqman_0.1.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qqman)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-DelayedArray’
+* installing *binary* package ‘tmvtnorm’ ...
+* ‘tmvtnorm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tmvtnorm’ as ‘tmvtnorm_1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tmvtnorm)
+ERROR: dependency ‘DelayedArray’ is not available for package ‘SummarizedExperiment’
+* removing ‘/mnt/library/SummarizedExperiment’
+* installing *source* package ‘imputeLCMD’ ...
+** package ‘imputeLCMD’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘imputeLCMD’ as ‘imputeLCMD_2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (imputeLCMD)
+ERROR: dependencies ‘SummarizedExperiment’, ‘DelayedArray’ are not available for package ‘MultiAssayExperiment’
+* removing ‘/mnt/library/MultiAssayExperiment’
+ERROR: dependency ‘SummarizedExperiment’ is not available for package ‘MultiDataSet’
+* removing ‘/mnt/library/MultiDataSet’
+ERROR: dependencies ‘MultiAssayExperiment’, ‘MultiDataSet’, ‘SummarizedExperiment’ are not available for package ‘ropls’
+* removing ‘/mnt/library/ropls’
+ERROR: dependencies ‘SummarizedExperiment’, ‘ropls’ are not available for package ‘lipidr’
+* removing ‘/mnt/library/lipidr’
+
+The downloaded source packages are in
+	‘/tmp/RtmprbxS2i/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘IRanges’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘DelayedArray’ had non-zero exit status
+3: In install.packages(...) :
+  installation of package ‘SummarizedExperiment’ had non-zero exit status
+4: In install.packages(...) :
+  installation of package ‘MultiAssayExperiment’ had non-zero exit status
+5: In install.packages(...) :
+  installation of package ‘MultiDataSet’ had non-zero exit status
+6: In install.packages(...) :
+  installation of package ‘ropls’ had non-zero exit status
+7: In install.packages(...) :
+  installation of package ‘lipidr’ had non-zero exit status
+
+real	3m26.619s
+user	2m30.784s
+sys	0m23.129s

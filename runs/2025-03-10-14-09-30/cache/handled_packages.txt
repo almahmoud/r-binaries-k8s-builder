@@ -43,6 +43,8 @@ Chicago
 Clomial
 ClusterJudge
 ClusterSignificance
+ComPrAn
+DART
 DCATS
 DEGseq
 DEqMS
@@ -53,6 +55,7 @@ DTA
 DeMAND
 DeepPINCS
 DiffLogo
+Director
 DriverNet
 EBSeq
 EmpiricalBrownsMethod
@@ -80,6 +83,7 @@ GWAS.BAYES
 GenProSeq
 GeneOverlap
 GraphAlignment
+HDTD
 HGC
 HIBAG
 HIREewas
@@ -99,6 +103,7 @@ INTACT
 ISAnalytics
 ISoLDE
 Icens
+Informeasure
 IntramiRExploreR
 IsoCorrectoR
 IsoCorrectoRGUI
@@ -113,6 +118,7 @@ MACSQuantifyR
 MBAmethyl
 MBCB
 MBttest
+MSstats
 MSstatsConvert
 MSstatsLOBD
 MVCClass
@@ -121,6 +127,7 @@ MassArray
 MassSpecWavelet
 MatrixGenerics
 MeasurementError.cor
+Mergeomics
 MethylMix
 ModCon
 MultiMed
@@ -189,6 +196,7 @@ VennDetail
 Wrench
 XINA
 a4Reporting
+acde
 affxparser
 affyio
 agilp
@@ -236,6 +244,7 @@ easyreporting
 eds
 epivizrServer
 fCI
+fastreeR
 fenr
 flowGraph
 flowPeaks
@@ -297,6 +306,7 @@ mgsa
 miRNApath
 mina
 minet
+mirTarRnaSeq
 mistyR
 mitch
 mzID
@@ -324,6 +334,8 @@ rWikiPathways
 randRotation
 rawrr
 retrofit
+rgoslin
+rhdf5
 rhdf5filters
 rmelting
 rnaseqcomp
@@ -360,6 +372,7 @@ synergyfinder
 synlet
 systemPipeShiny
 tanggle
+tidysbml
 timescape
 tomoseqr
 topconfects

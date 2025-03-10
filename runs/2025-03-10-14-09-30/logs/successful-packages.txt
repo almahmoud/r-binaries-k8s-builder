@@ -360,3 +360,15 @@ ssrch
 stepNorm
 survcomp
 timescape
+acde
+ComPrAn
+DART
+Director
+fastreeR
+HDTD
+Informeasure
+Mergeomics
+mirTarRnaSeq
+MSstats
+rgoslin
+tidysbml
