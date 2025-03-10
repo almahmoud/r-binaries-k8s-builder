@@ -1,7 +1,3 @@
-GlobalAncova
-MultiBaC
-SIM
-biosigner
-multistateQTL
-phenomis
-rqt
+BLMA
+mirIntegrator
+omicsPrint

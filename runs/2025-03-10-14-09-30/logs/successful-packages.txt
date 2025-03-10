@@ -1045,3 +1045,14 @@ PepSetTest
 PhIPData
 QTLExperiment
 ropls
+BiocSet
+CHRONOS
+CTexploreR
+EGAD
+mastR
+MsFeatures
+OmaDB
+PolySTest
+RaggedExperiment
+RolDE
+ROntoTools

@@ -64,6 +64,7 @@ BiocIO
 BiocNeighbors
 BiocParallel
 BiocPkgTools
+BiocSet
 BiocSklearn
 BiocStyle
 BiocVersion
@@ -86,6 +87,7 @@ CGHcall
 CGHnormaliter
 CGHregions
 CHETAH
+CHRONOS
 CIMICE
 CINdex
 CMA
@@ -101,6 +103,7 @@ CRImage
 CSAR
 CTDquerier
 CTdata
+CTexploreR
 CaDrA
 CatsCradle
 CausalR
@@ -154,6 +157,7 @@ EBSeq
 EBarrays
 EBcoexpress
 EDIRquery
+EGAD
 EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
@@ -322,6 +326,7 @@ ModCon
 Modstrings
 MsCoreUtils
 MsDataHub
+MsFeatures
 Mulcom
 MultiAssayExperiment
 MultiDataSet
@@ -342,6 +347,7 @@ OLIN
 OLINgui
 OPWeight
 OSAT
+OmaDB
 OmicCircos
 OmicsMLRepoR
 Omixer
@@ -372,6 +378,7 @@ PhosR
 PhyloProfile
 Pirat
 PoDCall
+PolySTest
 ProtGenerics
 ProteoMM
 QTLExperiment
@@ -404,6 +411,7 @@ ROC
 ROCpAI
 ROSeq
 ROTS
+ROntoTools
 RProtoBufLib
 RRHO
 RSeqAn
@@ -411,6 +419,7 @@ RTCA
 RTCGA
 RTopper
 RUVnormalize
+RaggedExperiment
 RankProd
 Rarr
 RbcBook1
@@ -429,12 +438,14 @@ Rhdf5lib
 Rhtslib
 Rmagpie
 Rnits
+RolDE
 Rsubread
 Rtpca
 Rtreemix
 Rvisdiff
 S4Arrays
 S4Vectors
+SAIGEgds
 SANTA
 SBMLR
 SC3
@@ -792,6 +803,7 @@ mapscape
 marray
 maskBAD
 massiR
+mastR
 matchBox
 mbQTL
 mdp

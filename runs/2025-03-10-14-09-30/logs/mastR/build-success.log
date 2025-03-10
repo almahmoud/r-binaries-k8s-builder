@@ -1,0 +1,134 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'mastR'
+also installing the dependencies ‘msigdb’, ‘BisqueRNA’, ‘depmap’, ‘singscore’, ‘splatter’
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/msigdb_1.14.0.tar.gz'
+Content type 'application/x-gzip' length 312078 bytes (304 KB)
+==================================================
+downloaded 304 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/BisqueRNA_1.0.5.tar.gz'
+Content type 'application/x-tar' length 34774 bytes (33 KB)
+==================================================
+downloaded 33 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/experiment/src/contrib/depmap_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 1633731 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/singscore_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 3104116 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/splatter_1.30.0.tar.gz'
+Content type 'application/x-gzip' length 7030327 bytes (6.7 MB)
+==================================================
+downloaded 6.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/mastR_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 3309601 bytes (3.2 MB)
+==================================================
+downloaded 3.2 MB
+
+* installing *source* package ‘msigdb’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘msigdb’ as ‘msigdb_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (msigdb)
+* installing *source* package ‘BisqueRNA’ ...
+** package ‘BisqueRNA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BisqueRNA’ as ‘BisqueRNA_1.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BisqueRNA)
+* installing *source* package ‘depmap’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘depmap’ as ‘depmap_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (depmap)
+ERROR: failed to lock directory ‘/mnt/library’ for modifying
+Try removing ‘/mnt/library/00LOCK-singscore’
+* installing *source* package ‘splatter’ ...
+** package ‘splatter’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘splatter’ as ‘splatter_1.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (splatter)
+* installing *source* package ‘mastR’ ...
+** package ‘mastR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘mastR’ as ‘mastR_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mastR)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpi0IplK/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘singscore’ had non-zero exit status
+
+real	3m24.892s
+user	1m16.472s
+sys	0m13.421s
