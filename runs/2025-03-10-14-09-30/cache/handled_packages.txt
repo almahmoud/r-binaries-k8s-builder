@@ -146,6 +146,7 @@ GeneNetworkBuilder
 GeneOverlap
 GeneSelectMMD
 GeneticsPed
+GenomeInfoDb
 GladiaTOX
 GraphAT
 GraphAlignment
@@ -320,6 +321,7 @@ SamSPECTRAL
 ScreenR
 SharedObject
 SpaceMarkers
+SparseArray
 SpeCond
 Streamer
 Summix
@@ -430,6 +432,7 @@ ecolitk
 edgeR
 eds
 eiR
+epiNEM
 epivizrServer
 erccdashboard
 fCI

@@ -662,3 +662,6 @@ CCPlotR
 ClustAll
 MMUPHin
 monocle
+epiNEM
+GenomeInfoDb
+SparseArray

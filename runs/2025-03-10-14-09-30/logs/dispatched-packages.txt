@@ -692,3 +692,7 @@ SparseArray
 cola
 simona
 uSORT
+Biostrings
+DelayedArray
+GenomicRanges
+nempi

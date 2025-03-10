@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 664 packages built successfully
+- 667 packages built successfully
 - 21 packages failed to build
-- 1548 packages not yet processed
+- 1545 packages not yet processed
 
 ## Failed Builds (21)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                                                                                       |
@@ -33,7 +33,7 @@
 | [Rtreemix](https://bioconductor.org/packages/3.20/bioc/html/Rtreemix.html)         | Failed   | [Log](runs/2025-03-10-14-09-30/logs/Rtreemix/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rtreemix)     | Compilation failed:  ‘Rtreemix’                                                                       |
 | [eiR](https://bioconductor.org/packages/3.20/bioc/html/eiR.html)                   | Failed   | [Log](runs/2025-03-10-14-09-30/logs/eiR/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/eiR)          | Compilation failed:  ‘eiR’                                                                            |
 
-## Successfully Built (664)
+## Successfully Built (667)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-10-14-09-30/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -700,8 +700,11 @@
 | [ClustAll](https://bioconductor.org/packages/3.20/bioc/html/ClustAll.html)                               | Built    | [Log](runs/2025-03-10-14-09-30/logs/ClustAll/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ClustAll)                |
 | [MMUPHin](https://bioconductor.org/packages/3.20/bioc/html/MMUPHin.html)                                 | Built    | [Log](runs/2025-03-10-14-09-30/logs/MMUPHin/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MMUPHin)                 |
 | [monocle](https://bioconductor.org/packages/3.20/bioc/html/monocle.html)                                 | Built    | [Log](runs/2025-03-10-14-09-30/logs/monocle/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/monocle)                 |
+| [GenomeInfoDb](https://bioconductor.org/packages/3.20/bioc/html/GenomeInfoDb.html)                       | Built    | [Log](runs/2025-03-10-14-09-30/logs/GenomeInfoDb/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomeInfoDb)            |
+| [SparseArray](https://bioconductor.org/packages/3.20/bioc/html/SparseArray.html)                         | Built    | [Log](runs/2025-03-10-14-09-30/logs/SparseArray/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SparseArray)             |
+| [epiNEM](https://bioconductor.org/packages/3.20/bioc/html/epiNEM.html)                                   | Built    | [Log](runs/2025-03-10-14-09-30/logs/epiNEM/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epiNEM)                  |
 
-## Not Yet Processed (1548)
+## Not Yet Processed (1545)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -984,7 +987,6 @@
 | [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)                   | Unprocessed |
 | [GeneTonic](https://bioconductor.org/packages/3.20/bioc/html/GeneTonic.html)                                     | Unprocessed |
 | [GenomAutomorphism](https://bioconductor.org/packages/3.20/bioc/html/GenomAutomorphism.html)                     | Unprocessed |
-| [GenomeInfoDb](https://bioconductor.org/packages/3.20/bioc/html/GenomeInfoDb.html)                               | Unprocessed |
 | [GenomicAlignments](https://bioconductor.org/packages/3.20/bioc/html/GenomicAlignments.html)                     | Unprocessed |
 | [GenomicDataCommons](https://bioconductor.org/packages/3.20/bioc/html/GenomicDataCommons.html)                   | Unprocessed |
 | [GenomicDistributions](https://bioconductor.org/packages/3.20/bioc/html/GenomicDistributions.html)               | Unprocessed |
@@ -1347,7 +1349,6 @@
 | [SomaticSignatures](https://bioconductor.org/packages/3.20/bioc/html/SomaticSignatures.html)                     | Unprocessed |
 | [SpaNorm](https://bioconductor.org/packages/3.20/bioc/html/SpaNorm.html)                                         | Unprocessed |
 | [Spaniel](https://bioconductor.org/packages/3.20/bioc/html/Spaniel.html)                                         | Unprocessed |
-| [SparseArray](https://bioconductor.org/packages/3.20/bioc/html/SparseArray.html)                                 | Unprocessed |
 | [SparseSignatures](https://bioconductor.org/packages/3.20/bioc/html/SparseSignatures.html)                       | Unprocessed |
 | [SpatialCPie](https://bioconductor.org/packages/3.20/bioc/html/SpatialCPie.html)                                 | Unprocessed |
 | [SpatialDecon](https://bioconductor.org/packages/3.20/bioc/html/SpatialDecon.html)                               | Unprocessed |
@@ -1642,7 +1643,6 @@
 | [enrichViewNet](https://bioconductor.org/packages/3.20/bioc/html/enrichViewNet.html)                             | Unprocessed |
 | [enrichplot](https://bioconductor.org/packages/3.20/bioc/html/enrichplot.html)                                   | Unprocessed |
 | [ensembldb](https://bioconductor.org/packages/3.20/bioc/html/ensembldb.html)                                     | Unprocessed |
-| [epiNEM](https://bioconductor.org/packages/3.20/bioc/html/epiNEM.html)                                           | Unprocessed |
 | [epialleleR](https://bioconductor.org/packages/3.20/bioc/html/epialleleR.html)                                   | Unprocessed |
 | [epidecodeR](https://bioconductor.org/packages/3.20/bioc/html/epidecodeR.html)                                   | Unprocessed |
 | [epigenomix](https://bioconductor.org/packages/3.20/bioc/html/epigenomix.html)                                   | Unprocessed |

@@ -1,1 +1,4 @@
-uSORT
+Biostrings
+DelayedArray
+GenomicRanges
+nempi
