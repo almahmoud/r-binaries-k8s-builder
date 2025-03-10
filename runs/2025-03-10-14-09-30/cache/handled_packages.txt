@@ -24,6 +24,7 @@ AnVILPublish
 AnVILWorkflow
 AnnotationDbi
 AnnotationFilter
+AnnotationForge
 AnnotationHub
 AssessORF
 BADER
@@ -391,6 +392,7 @@ SNPRelate
 SNPediaR
 SPEM
 SPIA
+SPONGE
 SPOTlight
 SQLDataFrame
 SRAdb
@@ -493,13 +495,16 @@ calm
 cancerclass
 cbpManager
 ccfindR
+ccmap
 ccrepe
 ceRNAnetsim
+cellity
 cellmigRation
 cellscape
 cellxgenedp
 chopsticks
 chromDraw
+chromPlot
 cisPath
 cleaver
 clevRvis
@@ -546,6 +551,7 @@ dir.expiry
 discordant
 dittoSeq
 dks
+dominoSignal
 drawProteins
 dupRadar
 dyebias
@@ -577,6 +583,7 @@ frmaTools
 funOmics
 gDRstyle
 gaga
+gage
 garfield
 gcatest
 gdsfmt
@@ -592,11 +599,13 @@ getDEE2
 geva
 ggkegg
 ggmsa
+ggsc
 ggtree
 ggtreeDendro
 ggtreeExtra
 ggtreeSpace
 globalSeq
+goSTAG
 gpls
 gpuMagic
 granulator
@@ -630,6 +639,7 @@ immunotation
 impute
 interacCircos
 interactiveDisplayBase
+ipdDb
 iterativeBMA
 iterativeBMAsurv
 ivygapSE
@@ -704,6 +714,8 @@ omada
 ompBAM
 oncoscanR
 onlineFDR
+ontoProc
+oposSOM
 oppti
 paircompviz
 pairkat

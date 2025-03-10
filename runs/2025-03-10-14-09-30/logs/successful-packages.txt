@@ -843,3 +843,15 @@ SWATH2stats
 tidySingleCellExperiment
 VegaMC
 zellkonverter
+AnnotationForge
+ccmap
+cellity
+chromPlot
+dominoSignal
+gage
+ggsc
+goSTAG
+ipdDb
+ontoProc
+oposSOM
+SPONGE
