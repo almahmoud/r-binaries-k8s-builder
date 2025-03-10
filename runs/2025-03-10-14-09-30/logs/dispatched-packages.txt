@@ -1102,3 +1102,8 @@ idiogram
 immunogenViewer
 slingshot
 tigre
+affyPLM
+fastLiquidAssociation
+maPredictDSC
+maskBAD
+webbioc

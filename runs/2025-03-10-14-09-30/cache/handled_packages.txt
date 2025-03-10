@@ -38,6 +38,7 @@ BREW3R.r
 BUMHMM
 BUS
 BUScorrect
+Banksy
 BaseSpaceR
 BayesKnockdown
 BeadDataPackR
@@ -94,6 +95,7 @@ CRImage
 CSAR
 CTDquerier
 CaDrA
+CatsCradle
 CausalR
 CellMapper
 CellNOptR
@@ -205,6 +207,7 @@ HELP
 HEM
 HGC
 HIBAG
+HIPPO
 HIREewas
 HMMcopy
 HPAanalyze
@@ -220,6 +223,7 @@ HuBMAPR
 HubPub
 HybridMTest
 IHW
+ILoReg
 IMPCdata
 INDEED
 INPower
@@ -239,12 +243,15 @@ KBoost
 KCsmart
 KEGGREST
 KEGGgraph
+KEGGlincs
 LBE
 LEA
 LOLA
 LPE
+LRBaseDbi
 LedPred
 Linnorm
+LiquidAssociation
 LymphoSeq
 M3C
 MACSQuantifyR
@@ -289,6 +296,7 @@ MsCoreUtils
 Mulcom
 MultiAssayExperiment
 MultiMed
+MultimodalExperiment
 NCIgraph
 NOISeq
 NTW
@@ -489,6 +497,7 @@ apComplex
 apeglm
 aroma.light
 arrayQuality
+artMS
 assorthead
 bamsignals
 banocc
@@ -613,6 +622,7 @@ gaga
 gage
 garfield
 gcatest
+gcrma
 gdsfmt
 geNetClassifier
 gemini
@@ -648,6 +658,7 @@ heatmaps
 hierGWAS
 hierinf
 hmdbQuery
+hoodscanR
 hopach
 hummingbird
 hypeR
@@ -712,6 +723,7 @@ metaCCA
 metaSeq
 metabCombiner
 metabinR
+metabolomicsWorkbenchR
 metagenomeSeq
 metahdep
 metapod
@@ -723,9 +735,11 @@ miRBaseConverter
 miRNApath
 miRNAtap
 miRcomp
+midasHLA
 mina
 minet
 mirTarRnaSeq
+missRows
 mistyR
 mitch
 mnem
@@ -876,6 +890,7 @@ sincell
 sitePath
 sizepower
 sketchR
+smoothclust
 snifter
 snm
 snpStats
@@ -891,6 +906,7 @@ splots
 sscu
 ssize
 ssrch
+stJoincount
 stageR
 statTarget
 stepNorm
@@ -941,11 +957,13 @@ updateObject
 vbmp
 veloviz
 viper
+vsclust
 vsn
 weaver
 widgetTools
 wpm
 wppi
+xcore
 xmapbridge
 yamss
 zFPKM
