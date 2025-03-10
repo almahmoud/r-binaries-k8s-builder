@@ -29,7 +29,9 @@ BG2
 BPRMeth
 BRAIN
 BREW3R.r
+BUMHMM
 BUS
+BUScorrect
 BaseSpaceR
 BayesKnockdown
 BeadDataPackR
@@ -37,6 +39,7 @@ BiFET
 BiGGR
 BiRewire
 BioCartaImage
+BioGA
 BioMVCClass
 BioQC
 Biobase
@@ -59,6 +62,7 @@ BrowserViz
 BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
+CAEN
 CARNIVAL
 CCPlotR
 CFAssay
@@ -68,6 +72,7 @@ CGHcall
 CGHnormaliter
 CGHregions
 CIMICE
+CINdex
 CMA
 CNAnorm
 CNORdt
@@ -167,7 +172,9 @@ GeneSelectMMD
 GeneticsPed
 GenomeInfoDb
 GenomicDataCommons
+GenomicDistributions
 GenomicRanges
+GenomicTuples
 GladiaTOX
 GrafGen
 GraphAT
@@ -185,6 +192,7 @@ Harman
 Harshlight
 Heatplus
 Herper
+HilbertCurve
 HilbertVis
 HilbertVisGUI
 HuBMAPR
@@ -198,6 +206,7 @@ INTACT
 IRanges
 ISAnalytics
 ISoLDE
+IWTomics
 Icens
 Informeasure
 InteractiveComplexHeatmap
@@ -219,6 +228,7 @@ MACSQuantifyR
 MBAmethyl
 MBCB
 MBttest
+MEDME
 MEIGOR
 MMUPHin
 MPFE
@@ -226,6 +236,7 @@ MSstats
 MSstatsBig
 MSstatsConvert
 MSstatsLOBD
+MSstatsPTM
 MSstatsTMT
 MVCClass
 Maaslin2
@@ -243,6 +254,7 @@ Mfuzz
 MiChip
 MiPP
 ModCon
+Modstrings
 MsCoreUtils
 Mulcom
 MultiMed
@@ -258,6 +270,7 @@ OLIN
 OLINgui
 OPWeight
 OSAT
+OmicCircos
 OmicsMLRepoR
 Omixer
 OmnipathR
@@ -265,9 +278,11 @@ OncoSimulR
 OpenStats
 OrderedList
 PANR
+PIPETS
 PLPE
 PROPER
 PROcess
+PWMEnrich
 Path2PPI
 PathNet
 Pedixplorer
@@ -279,6 +294,7 @@ ProtGenerics
 QUBIC
 Qtlizer
 QuaternaryProd
+R4RNA
 RAREsim
 RBGL
 RBM
@@ -298,6 +314,7 @@ RLMM
 RLassoCox
 RNASeqPower
 RNAdecay
+RNAsense
 ROC
 ROSeq
 ROTS
@@ -309,6 +326,7 @@ RTCGA
 RTopper
 RUVnormalize
 RankProd
+Rarr
 RbcBook1
 Rbowtie
 Rbwa
@@ -369,6 +387,7 @@ TFARM
 TPP
 TRONCO
 TSAR
+TTMap
 TargetDecoy
 TargetScore
 TargetSearch
@@ -411,6 +430,7 @@ banocc
 basilisk
 basilisk.utils
 baySeq
+bcSeq
 bioDist
 bioassayR
 biobroom
@@ -531,6 +551,7 @@ hierGWAS
 hierinf
 hmdbQuery
 hopach
+hummingbird
 hypeR
 hyperdraw
 hypergraph
@@ -552,6 +573,7 @@ interacCircos
 interactiveDisplayBase
 iterativeBMA
 iterativeBMAsurv
+kmcut
 koinar
 lapmix
 ldblock
@@ -598,6 +620,7 @@ mnem
 monocle
 mosbi
 msPurity
+msa
 multiClust
 multiscan
 multtest
@@ -658,6 +681,7 @@ rBiopaxParser
 rSWeeP
 rWikiPathways
 rain
+ramr
 randPack
 randRotation
 rawrr
@@ -704,6 +728,7 @@ simona
 sincell
 sitePath
 sizepower
+sketchR
 snifter
 snm
 snpStats
@@ -716,6 +741,7 @@ splots
 sscu
 ssize
 ssrch
+stageR
 statTarget
 stepNorm
 subSeq
@@ -746,6 +772,7 @@ twoddpcr
 tximport
 uSORT
 unifiedWMWqPCR
+universalmotif
 updateObject
 vbmp
 veloviz

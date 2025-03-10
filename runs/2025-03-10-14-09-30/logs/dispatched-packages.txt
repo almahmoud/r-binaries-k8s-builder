@@ -915,3 +915,10 @@ transomics2cytoscape
 wpm
 yamss
 zFPKM
+LymphoSeq
+MSstatsLiP
+MSstatsShiny
+ggmsa
+memes
+motifTestR
+tRNA
