@@ -1056,3 +1056,12 @@ PolySTest
 RaggedExperiment
 RolDE
 ROntoTools
+GOSemSim
+MicrobiotaProcess
+miRNAmeConverter
+MultiBaC
+multistateQTL
+NormalyzerDE
+Scale4C
+SIM
+structToolbox

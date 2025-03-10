@@ -1158,3 +1158,5 @@ rqt
 BLMA
 mirIntegrator
 omicsPrint
+Rcpi
+rrvgo
