@@ -52,6 +52,7 @@ BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
 CARNIVAL
+CCPlotR
 CFAssay
 CGEN
 CGHbase
@@ -77,6 +78,7 @@ ChemmineOB
 ChemmineR
 Chicago
 Clomial
+ClustAll
 ClusterJudge
 ClusterSignificance
 ComPrAn
@@ -191,6 +193,7 @@ MBAmethyl
 MBCB
 MBttest
 MEIGOR
+MMUPHin
 MPFE
 MSstats
 MSstatsBig
@@ -540,6 +543,7 @@ mirTarRnaSeq
 mistyR
 mitch
 mnem
+monocle
 mosbi
 multiClust
 multiscan
