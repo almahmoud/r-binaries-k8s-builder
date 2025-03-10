@@ -665,3 +665,12 @@ monocle
 epiNEM
 GenomeInfoDb
 SparseArray
+Biostrings
+cola
+DelayedArray
+GenomicRanges
+InteractiveComplexHeatmap
+msPurity
+nempi
+simona
+uSORT

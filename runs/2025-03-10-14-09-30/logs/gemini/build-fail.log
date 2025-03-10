@@ -1,0 +1,73 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'gemini'
+also installing the dependencies ‘segmented’, ‘mixtools’, ‘pbmcapply’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/segmented_2.1-4.tar.gz'
+Content type 'binary/octet-stream' length 1378231 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mixtools_2.0.0.1.tar.gz'
+Content type 'binary/octet-stream' length 1432902 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pbmcapply_1.5.1.tar.gz'
+Content type 'binary/octet-stream' length 40247 bytes (39 KB)
+==================================================
+downloaded 39 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/gemini_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 4282389 bytes (4.1 MB)
+==================================================
+downloaded 4.1 MB
+
+* installing *binary* package ‘segmented’ ...
+* ‘segmented’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘segmented’ as ‘segmented_2.1-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (segmented)
+* installing *binary* package ‘pbmcapply’ ...
+* ‘pbmcapply’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pbmcapply’ as ‘pbmcapply_1.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pbmcapply)
+* installing *binary* package ‘mixtools’ ...
+* ‘mixtools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mixtools’ as ‘mixtools_2.0.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mixtools)
+* installing *source* package ‘gemini’ ...
+** package ‘gemini’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Error in library.dynam(lib, package, package.lib) : 
+  shared object ‘lazyeval.so’ not found
+Calls: <Anonymous> ... namespaceImportFrom -> asNamespace -> loadNamespace -> library.dynam
+Execution halted
+ERROR: lazy loading failed for package ‘gemini’
+* removing ‘/mnt/library/gemini’
+
+The downloaded source packages are in
+	‘/tmp/RtmpBmVmY5/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘gemini’ had non-zero exit status
+Error: unexpected 'else' in "  else"
+Execution halted
+
+real	0m21.789s
+user	0m4.659s
+sys	0m3.045s
