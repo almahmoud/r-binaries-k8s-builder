@@ -416,3 +416,6 @@ GenProSeq
 clst
 ndexr
 statTarget
+XINA
+clstutils
+qckitfastq

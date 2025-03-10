@@ -1,0 +1,56 @@
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'GRENITS'
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GRENITS_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 274677 bytes (268 KB)
+==================================================
+downloaded 268 KB
+
+* installing *source* package ‘GRENITS’ ...
+** package ‘GRENITS’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c AR1_Gauss_biocond.cc -o AR1_Gauss_biocond.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c AR1_Student_biocond.cc -o AR1_Student_biocond.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c AR1_biocond.cc -o AR1_biocond.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c PSplines_biocond.cc -o PSplines_biocond.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c R_C_interface.cpp -o R_C_interface.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c ReadMCMCFiles.cpp -o ReadMCMCFiles.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c commonFunctions.cc -o commonFunctions.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c functionsErrorModel.cc -o functionsErrorModel.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c matrixManipulationFunctions.cc -o matrixManipulationFunctions.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c updateFunctions_AR1.cc -o updateFunctions_AR1.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/mnt/library/RcppArmadillo/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c updateFunctions_Splines.cc -o updateFunctions_Splines.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o GRENITS.so AR1_Gauss_biocond.o AR1_Student_biocond.o AR1_biocond.o PSplines_biocond.o R_C_interface.o ReadMCMCFiles.o commonFunctions.o functionsErrorModel.o matrixManipulationFunctions.o updateFunctions_AR1.o updateFunctions_Splines.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /mnt/library/00LOCK-GRENITS/00new/GRENITS/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GRENITS’ as ‘GRENITS_1.58.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GRENITS)
+
+The downloaded source packages are in
+	‘/tmp/RtmpRTsqzk/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+
+real	1m56.764s
+user	1m6.395s
+sys	0m11.131s

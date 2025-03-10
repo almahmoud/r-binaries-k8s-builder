@@ -64,10 +64,12 @@ GEOfastq
 GEOmetadb
 GEWIST
 GGPA
+GRENITS
 GSgalgoR
 GWAS.BAYES
 GeneOverlap
 GraphAlignment
+HGC
 HIBAG
 HIREewas
 HMMcopy
@@ -78,7 +80,10 @@ HilbertVisGUI
 HuBMAPR
 HubPub
 IMPCdata
+INPower
+INTACT
 ISAnalytics
+ISoLDE
 IntramiRExploreR
 IsoCorrectoR
 IsoCorrectoRGUI
@@ -92,6 +97,7 @@ M3C
 MACSQuantifyR
 MBAmethyl
 MBttest
+MSstatsConvert
 MSstatsLOBD
 MVCClass
 MantelCorr
@@ -127,6 +133,7 @@ RNAdecay
 ROC
 RProtoBufLib
 RRHO
+RSeqAn
 RankProd
 Rbowtie
 Rbwa
@@ -140,6 +147,8 @@ SCBN
 SLqPCR
 SMAD
 SNAGEE
+SNPediaR
+STRINGdb
 SamSPECTRAL
 SpaceMarkers
 Summix
@@ -153,6 +162,7 @@ VERSO
 VennDetail
 Wrench
 a4Reporting
+affxparser
 affyio
 agilp
 alabaster.schemas
@@ -165,6 +175,8 @@ biobtreeR
 biocroxytest
 biocthis
 biodb
+biodbChebi
+biodbHmdb
 calm
 ccrepe
 ceRNAnetsim
@@ -174,6 +186,7 @@ cellxgenedp
 chopsticks
 cisPath
 clevRvis
+clst
 clustComp
 coGPS
 compSPOT
@@ -222,6 +235,7 @@ illuminaio
 immunotation
 impute
 interacCircos
+iterativeBMAsurv
 les
 levi
 lfa
@@ -229,9 +243,14 @@ limma
 limmaGUI
 logicFS
 lpsymphony
+maCorrPlot
+mapscape
+matchBox
 mdqc
 messina
+metaCCA
 metabinR
+metahdep
 metapod
 mgsa
 miRNApath
@@ -240,6 +259,7 @@ minet
 mistyR
 mitch
 mzID
+ndexr
 netprioR
 nuCpos
 occugene
@@ -251,6 +271,7 @@ philr
 plasmut
 plotGrouper
 pmm
+powerTCR
 preprocessCore
 quantsmooth
 qvalue
@@ -274,6 +295,7 @@ sights
 similaRpeak
 sincell
 sitePath
+sizepower
 snm
 sparseMatrixStats
 sparsenetgls
@@ -281,6 +303,7 @@ specL
 spikeLI
 splots
 ssize
+statTarget
 switchBox
 synergyfinder
 synlet

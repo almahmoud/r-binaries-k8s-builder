@@ -10,3 +10,4 @@ pmm
 graper
 HIBAG
 NetPathMiner
+affxparser
