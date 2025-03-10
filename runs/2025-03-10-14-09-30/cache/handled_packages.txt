@@ -122,6 +122,7 @@ ChemmineR
 Chicago
 Clomial
 ClustAll
+ClustIRR
 ClusterJudge
 ClusterSignificance
 CoCiteStats
@@ -275,6 +276,7 @@ IWTomics
 Icens
 IgGeneUsage
 Informeasure
+InterCellar
 InteractionSet
 InteractiveComplexHeatmap
 IntramiRExploreR
@@ -1003,6 +1005,7 @@ preprocessCore
 proDA
 procoil
 profileScoreDist
+protGear
 proteinProfiles
 pvac
 pvca
@@ -1048,6 +1051,7 @@ rols
 ropls
 rprimer
 rpx
+rqt
 rqubic
 rrvgo
 rsbml
@@ -1059,6 +1063,7 @@ sSeq
 safe
 sagenhaft
 sampleClassifier
+sangeranalyseR
 sangerseqR
 sarks
 scAnnotatR
@@ -1109,6 +1114,7 @@ spaSim
 sparseMatrixStats
 sparsenetgls
 spatialDE
+spatialHeatmap
 spatialSimGP
 specL
 speckle

@@ -1163,3 +1163,9 @@ mogsa
 openPrimeR
 RTNduals
 tilingArray
+ClustIRR
+InterCellar
+protGear
+rqt
+sangeranalyseR
+spatialHeatmap
