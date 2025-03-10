@@ -1034,3 +1034,14 @@ Pirat
 procoil
 RcisTarget
 vissE
+CCPROMISE
+GenomicSuperSignature
+ggmanh
+globaltest
+GNET2
+HERON
+iSEEhub
+PepSetTest
+PhIPData
+QTLExperiment
+ropls

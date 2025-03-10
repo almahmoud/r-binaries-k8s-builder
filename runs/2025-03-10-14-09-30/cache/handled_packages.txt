@@ -77,6 +77,7 @@ BufferedMatrixMethods
 BumpyMatrix
 CAEN
 CARNIVAL
+CCPROMISE
 CCPlotR
 CFAssay
 CGEN
@@ -186,6 +187,7 @@ GGPA
 GIGSEA
 GLAD
 GMRP
+GNET2
 GOfuncR
 GPA
 GRENITS
@@ -210,6 +212,7 @@ GenomeInfoDb
 GenomicDataCommons
 GenomicDistributions
 GenomicRanges
+GenomicSuperSignature
 GenomicTuples
 GeoDiff
 GeomxTools
@@ -220,6 +223,7 @@ GraphAlignment
 HDTD
 HELP
 HEM
+HERON
 HGC
 HIBAG
 HIPPO
@@ -359,7 +363,9 @@ PWMEnrich
 Path2PPI
 PathNet
 Pedixplorer
+PepSetTest
 PepsNMR
+PhIPData
 PhenStat
 PhenoGeneRanker
 PhosR
@@ -368,6 +374,7 @@ Pirat
 PoDCall
 ProtGenerics
 ProteoMM
+QTLExperiment
 QUBIC
 Qtlizer
 QuaternaryProd
@@ -693,6 +700,7 @@ genomicInstability
 getDEE2
 geva
 ggkegg
+ggmanh
 ggmsa
 ggsc
 ggtree
@@ -700,6 +708,7 @@ ggtreeDendro
 ggtreeExtra
 ggtreeSpace
 globalSeq
+globaltest
 goProfiles
 goSTAG
 goTools
@@ -734,6 +743,7 @@ iClusterPlus
 iGC
 iSEE
 iSEEhex
+iSEEhub
 iSEEindex
 iSEEpathways
 iSeq
@@ -931,6 +941,7 @@ rmelting
 rnaseqcomp
 roastgsa
 rols
+ropls
 rprimer
 rpx
 rqubic
