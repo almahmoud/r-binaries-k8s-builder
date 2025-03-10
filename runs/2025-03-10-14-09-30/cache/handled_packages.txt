@@ -297,6 +297,7 @@ OmicCircos
 OmicsMLRepoR
 Omixer
 OmnipathR
+OncoScore
 OncoSimulR
 OpenStats
 OrderedList
@@ -316,6 +317,7 @@ PhenStat
 PhenoGeneRanker
 PoDCall
 ProtGenerics
+ProteoMM
 QUBIC
 Qtlizer
 QuaternaryProd
@@ -376,6 +378,7 @@ S4Arrays
 S4Vectors
 SANTA
 SBMLR
+SC3
 SCBN
 SELEX
 SIMAT
@@ -388,10 +391,12 @@ SNPRelate
 SNPediaR
 SPEM
 SPIA
+SPOTlight
 SQLDataFrame
 SRAdb
 STATegRa
 STRINGdb
+SWATH2stats
 SamSPECTRAL
 ScaledMatrix
 ScreenR
@@ -432,6 +437,7 @@ TurboNorm
 UCSC.utils
 UNDO
 VERSO
+VegaMC
 VennDetail
 Wrench
 XINA
@@ -486,6 +492,7 @@ bugsigdbr
 calm
 cancerclass
 cbpManager
+ccfindR
 ccrepe
 ceRNAnetsim
 cellmigRation
@@ -515,6 +522,7 @@ copa
 covEB
 cqn
 crisprBase
+csdR
 ctc
 ctsGE
 cycle
@@ -529,11 +537,14 @@ deltaGseg
 demuxmix
 densvis
 derfinderHelper
+destiny
 diffGeneAnalysis
+diffcoexp
 diffuStats
 diggit
 dir.expiry
 discordant
+dittoSeq
 dks
 drawProteins
 dupRadar
@@ -563,6 +574,7 @@ fmcsR
 fmrs
 frenchFISH
 frmaTools
+funOmics
 gDRstyle
 gaga
 garfield
@@ -715,6 +727,7 @@ plier
 plotGrouper
 plyxp
 pmm
+pmp
 powerTCR
 ppcseq
 preprocessCore
@@ -769,6 +782,7 @@ sarks
 scFeatureFilter
 scatterHatch
 scoup
+scrapper
 seahtrue
 semisup
 seq.hotSPOT
@@ -815,6 +829,7 @@ synlet
 systemPipeShiny
 tanggle
 target
+tidySingleCellExperiment
 tidySummarizedExperiment
 tidysbml
 timecourse
@@ -850,4 +865,5 @@ wppi
 xmapbridge
 yamss
 zFPKM
+zellkonverter
 zlibbioc
