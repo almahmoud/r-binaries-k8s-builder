@@ -58,16 +58,7 @@ spec:
             p <- .libPaths();
             p <- c('\${LIBRARY}', p);
             .libPaths(p);
-            if(BiocManager::install('${PKG}', 
-                INSTALL_opts = '--build',
-                update = TRUE,
-                quiet = FALSE,
-                dependencies=TRUE,
-                force = TRUE,
-                keep_outputs = TRUE) %in% rownames(installed.packages())) 
-              q(status = 0) 
-            else 
-              q(status = 1)" 2>&1 ) 2>&1 | tee \${LOGDIR}/${PKG}.log
+            if(BiocManager::install('${PKG}', INSTALL_opts = '--build', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)" 2>&1 ) 2>&1 | tee \${LOGDIR}/${PKG}.log
           echo "Tarballs Detected: \$(ls *.tar.gz)"
           mv *.tar.gz \${TARDIR}/
           echo "Build artifacts stored in \${TARDIR}"
