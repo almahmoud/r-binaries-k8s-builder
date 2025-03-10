@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 430 packages built successfully
+- 431 packages built successfully
 - 17 packages failed to build
-- 1786 packages not yet processed
+- 1785 packages not yet processed
 
 ## Failed Builds (17)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                                                                                       |
@@ -29,7 +29,7 @@
 | [GeneticsPed](https://bioconductor.org/packages/3.20/bioc/html/GeneticsPed.html)   | Failed   | [Log](runs/2025-03-10-14-09-30/logs/GeneticsPed/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneticsPed)  | Compilation failed:  ‘GeneticsPed’                                                                    |
 | [cytolib](https://bioconductor.org/packages/3.20/bioc/html/cytolib.html)           | Failed   | [Log](runs/2025-03-10-14-09-30/logs/cytolib/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cytolib)      | ERROR: failed to lock directory ‘/mnt/library’ for modifying                                          |
 
-## Successfully Built (430)
+## Successfully Built (431)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-10-14-09-30/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -462,8 +462,9 @@
 | [compcodeR](https://bioconductor.org/packages/3.20/bioc/html/compcodeR.html)                             | Built    | [Log](runs/2025-03-10-14-09-30/logs/compcodeR/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/compcodeR)               |
 | [densvis](https://bioconductor.org/packages/3.20/bioc/html/densvis.html)                                 | Built    | [Log](runs/2025-03-10-14-09-30/logs/densvis/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/densvis)                 |
 | [erccdashboard](https://bioconductor.org/packages/3.20/bioc/html/erccdashboard.html)                     | Built    | [Log](runs/2025-03-10-14-09-30/logs/erccdashboard/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/erccdashboard)           |
+| [Rvisdiff](https://bioconductor.org/packages/3.20/bioc/html/Rvisdiff.html)                               | Built    | [Log](runs/2025-03-10-14-09-30/logs/Rvisdiff/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rvisdiff)                |
 
-## Not Yet Processed (1786)
+## Not Yet Processed (1785)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ABarray](https://bioconductor.org/packages/3.20/bioc/html/ABarray.html)                                         | Unprocessed |
@@ -1163,7 +1164,6 @@
 | [Rsamtools](https://bioconductor.org/packages/3.20/bioc/html/Rsamtools.html)                                     | Unprocessed |
 | [Rtpca](https://bioconductor.org/packages/3.20/bioc/html/Rtpca.html)                                             | Unprocessed |
 | [Rtreemix](https://bioconductor.org/packages/3.20/bioc/html/Rtreemix.html)                                       | Unprocessed |
-| [Rvisdiff](https://bioconductor.org/packages/3.20/bioc/html/Rvisdiff.html)                                       | Unprocessed |
 | [S4Arrays](https://bioconductor.org/packages/3.20/bioc/html/S4Arrays.html)                                       | Unprocessed |
 | [S4Vectors](https://bioconductor.org/packages/3.20/bioc/html/S4Vectors.html)                                     | Unprocessed |
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)                                       | Unprocessed |

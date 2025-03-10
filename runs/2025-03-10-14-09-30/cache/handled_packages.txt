@@ -188,6 +188,7 @@ Rfastp
 Rhdf5lib
 Rhtslib
 Rsubread
+Rvisdiff
 SANTA
 SBMLR
 SCBN

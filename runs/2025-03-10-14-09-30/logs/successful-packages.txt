@@ -428,3 +428,4 @@ compcodeR
 densvis
 erccdashboard
 SIMD
+Rvisdiff

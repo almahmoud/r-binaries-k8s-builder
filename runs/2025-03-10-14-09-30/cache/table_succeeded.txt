@@ -428,3 +428,4 @@
 ['[compcodeR](https://bioconductor.org/packages/3.20/bioc/html/compcodeR.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/compcodeR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/compcodeR)']
 ['[densvis](https://bioconductor.org/packages/3.20/bioc/html/densvis.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/densvis/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/densvis)']
 ['[erccdashboard](https://bioconductor.org/packages/3.20/bioc/html/erccdashboard.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/erccdashboard/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/erccdashboard)']
+['[Rvisdiff](https://bioconductor.org/packages/3.20/bioc/html/Rvisdiff.html)', 'Built', '[Log](runs/2025-03-10-14-09-30/logs/Rvisdiff/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rvisdiff)']
