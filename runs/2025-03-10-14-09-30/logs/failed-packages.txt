@@ -27,3 +27,4 @@ CoSIA
 SAIGEgds
 biosigner
 fastseg
+motifTestR

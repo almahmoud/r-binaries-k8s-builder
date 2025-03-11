@@ -926,6 +926,7 @@ moanin
 mogsa
 monocle
 mosbi
+motifTestR
 motifcounter
 mpra
 msPurity

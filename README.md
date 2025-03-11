@@ -2,13 +2,16 @@
 
 **Run ID:** 2025-03-10-14-09-30
 
+**Cycle Duration:** 2025 03 10:14:09:30 EST → 2025-03-11 01:27:16 EST
+
 ## Summary
 
 - 1177 packages built successfully
-- 29 packages failed to build
-- 1027 packages not yet processed
+- 30 packages failed to build
+- 1026 packages not yet processed
+- 2706 total packages in repository index
 
-## Failed Builds (29)
+## Failed Builds (30)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                                                                                       |
 |------------------------------------------------------------------------------------|----------|------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | [AnVILBilling](https://bioconductor.org/packages/3.20/bioc/html/AnVILBilling.html) | Failed   | [Log](runs/2025-03-10-14-09-30/logs/AnVILBilling/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AnVILBilling) | ERROR: lazy loading failed for package ‘AnVILBilling’                                                 |
@@ -41,6 +44,7 @@
 | [biosigner](https://bioconductor.org/packages/3.20/bioc/html/biosigner.html)       | Failed   | [Log](runs/2025-03-10-14-09-30/logs/biosigner/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biosigner)    | ERROR: failed to lock directory ‘/mnt/library’ for modifying                                          |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-10-14-09-30/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Compilation failed:  ‘affxparser’
 Compilation failed:  ‘fastseg’                                      |
+| [motifTestR](https://bioconductor.org/packages/3.20/bioc/html/motifTestR.html)     | Failed   | [Log](runs/2025-03-10-14-09-30/logs/motifTestR/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifTestR)   | Build failed with unknown error                                                                       |
 
 ## Successfully Built (1177)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
@@ -1223,7 +1227,7 @@ Compilation failed:  ‘fastseg’                                      |
 | [crlmm](https://bioconductor.org/packages/3.20/bioc/html/crlmm.html)                                         | Built    | [Log](runs/2025-03-10-14-09-30/logs/crlmm/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/crlmm)                     |
 | [mBPCR](https://bioconductor.org/packages/3.20/bioc/html/mBPCR.html)                                         | Built    | [Log](runs/2025-03-10-14-09-30/logs/mBPCR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mBPCR)                     |
 
-## Not Yet Processed (1027)
+## Not Yet Processed (1026)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -2025,7 +2029,6 @@ Compilation failed:  ‘fastseg’                                      |
 | [mosaics](https://bioconductor.org/packages/3.20/bioc/html/mosaics.html)                                         | Unprocessed |
 | [mosdef](https://bioconductor.org/packages/3.20/bioc/html/mosdef.html)                                           | Unprocessed |
 | [motifStack](https://bioconductor.org/packages/3.20/bioc/html/motifStack.html)                                   | Unprocessed |
-| [motifTestR](https://bioconductor.org/packages/3.20/bioc/html/motifTestR.html)                                   | Unprocessed |
 | [motifbreakR](https://bioconductor.org/packages/3.20/bioc/html/motifbreakR.html)                                 | Unprocessed |
 | [motifmatchr](https://bioconductor.org/packages/3.20/bioc/html/motifmatchr.html)                                 | Unprocessed |
 | [msImpute](https://bioconductor.org/packages/3.20/bioc/html/msImpute.html)                                       | Unprocessed |
