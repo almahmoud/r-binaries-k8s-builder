@@ -37,6 +37,7 @@ CARNIVAL
 CFAssay
 CGEN
 CGHbase
+CGHregions
 CMA
 CONSTANd
 COSNet
@@ -71,6 +72,7 @@ GLAD
 GPA
 GRENITS
 GSALightning
+GSAR
 GSEAmining
 GSgalgoR
 GeneGA
@@ -92,6 +94,7 @@ MassSpecWavelet
 MatrixGenerics
 MeasurementError.cor
 Mergeomics
+MetID
 ModCon
 MultiMed
 NTW
@@ -170,6 +173,7 @@ deltaGseg
 demuxmix
 diffGeneAnalysis
 diffuStats
+diggit
 dir.expiry
 dks
 drawProteins
@@ -237,6 +241,7 @@ qvalue
 rBiopaxParser
 randRotation
 rmelting
+rols
 rpx
 rqubic
 scBubbletree

@@ -1688,7 +1688,6 @@
     "CGHcall",
     "impute"
   ],
-  "CGHregions": [],
   "CHETAH": [
     "SingleCellExperiment",
     "bioDist",
@@ -5074,7 +5073,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "GSAR": [],
   "GSCA": [
     "rhdf5",
     "Rhdf5lib",
@@ -7860,12 +7858,10 @@
     "IRanges",
     "MetaboCoreUtils"
   ],
-  "MetID": [],
   "MetMashR": [
     "struct",
     "SummarizedExperiment",
     "S4Vectors",
-    "rols",
     "GenomicRanges",
     "IRanges",
     "GenomeInfoDb",
@@ -8989,9 +8985,7 @@
     "XVector",
     "UCSC.utils"
   ],
-  "OmicsMLRepoR": [
-    "rols"
-  ],
+  "OmicsMLRepoR": [],
   "OmnipathR": [],
   "OncoScore": [
     "biomaRt",
@@ -17240,7 +17234,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "diggit": [],
   "dinoR": [
     "SummarizedExperiment",
     "ComplexHeatmap",
@@ -20947,7 +20940,6 @@
     "GenomicRanges",
     "IRanges",
     "S4Vectors",
-    "rols",
     "GenomeInfoDb",
     "S4Arrays",
     "SparseArray",
@@ -25049,7 +25041,6 @@
     "Rhtslib"
   ],
   "roastgsa": [],
-  "rols": [],
   "ropls": [
     "MultiAssayExperiment",
     "MultiDataSet",
@@ -27263,7 +27254,6 @@
   "struct": [
     "SummarizedExperiment",
     "S4Vectors",
-    "rols",
     "GenomicRanges",
     "IRanges",
     "GenomeInfoDb",
@@ -27277,7 +27267,6 @@
     "struct",
     "SummarizedExperiment",
     "S4Vectors",
-    "rols",
     "GenomicRanges",
     "IRanges",
     "GenomeInfoDb",
