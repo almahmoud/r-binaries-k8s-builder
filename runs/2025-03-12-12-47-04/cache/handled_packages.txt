@@ -200,10 +200,12 @@ GSEAmining
 GSgalgoR
 GWAS.BAYES
 GWASTools
+GWENA
 GateFinder
 GenProSeq
 GeneExpressionSignature
 GeneGA
+GeneGeneInteR
 GeneNetworkBuilder
 GeneOverlap
 GeneSelectMMD
@@ -291,6 +293,7 @@ MODA
 MOFA2
 MOGAMUN
 MPFE
+MPRAnalyze
 MSA2dist
 MSPrep
 MSstats
@@ -324,6 +327,7 @@ MiChip
 MiPP
 MiRaGE
 ModCon
+Modstrings
 MsBackendMassbank
 MsBackendMetaboLights
 MsBackendMgf
@@ -491,11 +495,13 @@ SummarizedExperiment
 Summix
 SwathXtend
 SynExtend
+SynMut
 TDbasedUFE
 TDbasedUFEadv
 TIN
 TMSig
 TMixClust
+TOAST
 TPP
 TPP2D
 TRONCO
@@ -577,6 +583,7 @@ biodbHmdb
 biodbNcbi
 biodbNci
 biodbUniprot
+biomaRt
 biomformat
 biotmle
 bluster
@@ -791,6 +798,7 @@ ipdDb
 iterativeBMA
 iterativeBMAsurv
 kebabs
+keggorthology
 koinar
 lapmix
 ldblock
@@ -800,6 +808,7 @@ levi
 lfa
 limma
 limmaGUI
+lionessR
 lmdme
 loci2path
 logicFS
@@ -840,9 +849,11 @@ mfa
 mgsa
 miRBaseConverter
 miRNApath
+miRNAtap
 miRcomp
 mina
 minet
+mirIntegrator
 mirTarRnaSeq
 mistyR
 mitch
