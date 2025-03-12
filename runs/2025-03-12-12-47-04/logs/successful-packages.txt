@@ -946,3 +946,7 @@ structToolbox
 supersigs
 biotmle
 weitrix
+dinoR
+divergence
+enrichplot
+SVMDO

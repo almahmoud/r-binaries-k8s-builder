@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 948 packages built successfully
+- 952 packages built successfully
 - 16 packages failed to build
-- 1269 packages not yet processed
+- 1265 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (948)
+## Successfully Built (952)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -979,8 +979,12 @@
 | [supersigs](https://bioconductor.org/packages/3.20/bioc/html/supersigs.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/supersigs/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/supersigs)                 |
 | [biotmle](https://bioconductor.org/packages/3.20/bioc/html/biotmle.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/biotmle/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biotmle)                   |
 | [weitrix](https://bioconductor.org/packages/3.20/bioc/html/weitrix.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/weitrix/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/weitrix)                   |
+| [SVMDO](https://bioconductor.org/packages/3.20/bioc/html/SVMDO.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/SVMDO/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SVMDO)                     |
+| [dinoR](https://bioconductor.org/packages/3.20/bioc/html/dinoR.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/dinoR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dinoR)                     |
+| [divergence](https://bioconductor.org/packages/3.20/bioc/html/divergence.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/divergence/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/divergence)                |
+| [enrichplot](https://bioconductor.org/packages/3.20/bioc/html/enrichplot.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/enrichplot/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/enrichplot)                |
 
-## Not Yet Processed (1269)
+## Not Yet Processed (1265)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1506,7 +1510,6 @@
 | [SPOTlight](https://bioconductor.org/packages/3.20/bioc/html/SPOTlight.html)                                     | Unprocessed |
 | [SPsimSeq](https://bioconductor.org/packages/3.20/bioc/html/SPsimSeq.html)                                       | Unprocessed |
 | [SQLDataFrame](https://bioconductor.org/packages/3.20/bioc/html/SQLDataFrame.html)                               | Unprocessed |
-| [SVMDO](https://bioconductor.org/packages/3.20/bioc/html/SVMDO.html)                                             | Unprocessed |
 | [SWATH2stats](https://bioconductor.org/packages/3.20/bioc/html/SWATH2stats.html)                                 | Unprocessed |
 | [Scale4C](https://bioconductor.org/packages/3.20/bioc/html/Scale4C.html)                                         | Unprocessed |
 | [ScaledMatrix](https://bioconductor.org/packages/3.20/bioc/html/ScaledMatrix.html)                               | Unprocessed |
@@ -1751,10 +1754,8 @@
 | [diffUTR](https://bioconductor.org/packages/3.20/bioc/html/diffUTR.html)                                         | Unprocessed |
 | [diffcoexp](https://bioconductor.org/packages/3.20/bioc/html/diffcoexp.html)                                     | Unprocessed |
 | [diffcyt](https://bioconductor.org/packages/3.20/bioc/html/diffcyt.html)                                         | Unprocessed |
-| [dinoR](https://bioconductor.org/packages/3.20/bioc/html/dinoR.html)                                             | Unprocessed |
 | [distinct](https://bioconductor.org/packages/3.20/bioc/html/distinct.html)                                       | Unprocessed |
 | [dittoSeq](https://bioconductor.org/packages/3.20/bioc/html/dittoSeq.html)                                       | Unprocessed |
-| [divergence](https://bioconductor.org/packages/3.20/bioc/html/divergence.html)                                   | Unprocessed |
 | [dmrseq](https://bioconductor.org/packages/3.20/bioc/html/dmrseq.html)                                           | Unprocessed |
 | [dominoSignal](https://bioconductor.org/packages/3.20/bioc/html/dominoSignal.html)                               | Unprocessed |
 | [doppelgangR](https://bioconductor.org/packages/3.20/bioc/html/doppelgangR.html)                                 | Unprocessed |
@@ -1769,7 +1770,6 @@
 | [eisaR](https://bioconductor.org/packages/3.20/bioc/html/eisaR.html)                                             | Unprocessed |
 | [enhancerHomologSearch](https://bioconductor.org/packages/3.20/bioc/html/enhancerHomologSearch.html)             | Unprocessed |
 | [enrichViewNet](https://bioconductor.org/packages/3.20/bioc/html/enrichViewNet.html)                             | Unprocessed |
-| [enrichplot](https://bioconductor.org/packages/3.20/bioc/html/enrichplot.html)                                   | Unprocessed |
 | [ensembldb](https://bioconductor.org/packages/3.20/bioc/html/ensembldb.html)                                     | Unprocessed |
 | [epidecodeR](https://bioconductor.org/packages/3.20/bioc/html/epidecodeR.html)                                   | Unprocessed |
 | [epigenomix](https://bioconductor.org/packages/3.20/bioc/html/epigenomix.html)                                   | Unprocessed |

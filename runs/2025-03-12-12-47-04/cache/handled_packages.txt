@@ -410,6 +410,7 @@ SRAdb
 STATegRa
 STRINGdb
 SUITOR
+SVMDO
 SamSPECTRAL
 Sconify
 ScreenR
@@ -569,8 +570,10 @@ derfinderHelper
 diffGeneAnalysis
 diffuStats
 diggit
+dinoR
 dir.expiry
 discordant
+divergence
 dks
 drawProteins
 dupRadar
@@ -580,6 +583,7 @@ ecolitk
 edgeR
 eds
 eiR
+enrichplot
 epiNEM
 epialleleR
 epistasisGA
