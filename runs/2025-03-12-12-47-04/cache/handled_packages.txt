@@ -60,6 +60,7 @@ COMPASS
 CONSTANd
 COSNet
 CRImage
+Cardinal
 CardinalIO
 CausalR
 ChemmineOB
@@ -273,6 +274,7 @@ Rmagpie
 Rnits
 Rsubread
 Rtpca
+Rtreemix
 S4Vectors
 SANTA
 SBMLR
@@ -467,6 +469,7 @@ iterativeBMA
 iterativeBMAsurv
 koinar
 lapmix
+ldblock
 les
 levi
 lfa
@@ -512,6 +515,7 @@ multiClust
 multiscan
 multtest
 mzID
+ndexr
 nethet
 netprioR
 nnNorm

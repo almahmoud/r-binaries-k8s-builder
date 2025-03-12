@@ -4,11 +4,11 @@
 
 ## Summary
 
-- 637 packages built successfully
-- 11 packages failed to build
-- 1585 packages not yet processed
+- 640 packages built successfully
+- 12 packages failed to build
+- 1581 packages not yet processed
 
-## Failed Builds (11)
+## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
 |------------------------------------------------------------------------------------|----------|------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
 | [GLAD](https://bioconductor.org/packages/3.20/bioc/html/GLAD.html)                 | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GLAD/build-fail.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GLAD)         | Compilation failed:  ‘GLAD’         |
@@ -22,8 +22,9 @@
 | [flowPeaks](https://bioconductor.org/packages/3.20/bioc/html/flowPeaks.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/flowPeaks/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowPeaks)    | Build failed with unknown error     |
 | [gpuMagic](https://bioconductor.org/packages/3.20/bioc/html/gpuMagic.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/gpuMagic/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gpuMagic)     | Compilation failed:  ‘gpuMagic’     |
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
+| [Rtreemix](https://bioconductor.org/packages/3.20/bioc/html/Rtreemix.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Rtreemix/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rtreemix)     | Build failed with unknown error     |
 
-## Successfully Built (637)
+## Successfully Built (640)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -663,8 +664,11 @@
 | [AlpsNMR](https://bioconductor.org/packages/3.20/bioc/html/AlpsNMR.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AlpsNMR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AlpsNMR)                 |
 | [rexposome](https://bioconductor.org/packages/3.20/bioc/html/rexposome.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/rexposome/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rexposome)               |
 | [rsbml](https://bioconductor.org/packages/3.20/bioc/html/rsbml.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/rsbml/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rsbml)                   |
+| [Cardinal](https://bioconductor.org/packages/3.20/bioc/html/Cardinal.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/Cardinal/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Cardinal)                |
+| [ldblock](https://bioconductor.org/packages/3.20/bioc/html/ldblock.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/ldblock/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ldblock)                 |
+| [ndexr](https://bioconductor.org/packages/3.20/bioc/html/ndexr.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/ndexr/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ndexr)                   |
 
-## Not Yet Processed (1585)
+## Not Yet Processed (1581)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -791,7 +795,6 @@
 | [CTexploreR](https://bioconductor.org/packages/3.20/bioc/html/CTexploreR.html)                                   | Unprocessed |
 | [CaDrA](https://bioconductor.org/packages/3.20/bioc/html/CaDrA.html)                                             | Unprocessed |
 | [CaMutQC](https://bioconductor.org/packages/3.20/bioc/html/CaMutQC.html)                                         | Unprocessed |
-| [Cardinal](https://bioconductor.org/packages/3.20/bioc/html/Cardinal.html)                                       | Unprocessed |
 | [Category](https://bioconductor.org/packages/3.20/bioc/html/Category.html)                                       | Unprocessed |
 | [CatsCradle](https://bioconductor.org/packages/3.20/bioc/html/CatsCradle.html)                                   | Unprocessed |
 | [CeTF](https://bioconductor.org/packages/3.20/bioc/html/CeTF.html)                                               | Unprocessed |
@@ -1278,7 +1281,6 @@
 | [RolDE](https://bioconductor.org/packages/3.20/bioc/html/RolDE.html)                                             | Unprocessed |
 | [Rqc](https://bioconductor.org/packages/3.20/bioc/html/Rqc.html)                                                 | Unprocessed |
 | [Rsamtools](https://bioconductor.org/packages/3.20/bioc/html/Rsamtools.html)                                     | Unprocessed |
-| [Rtreemix](https://bioconductor.org/packages/3.20/bioc/html/Rtreemix.html)                                       | Unprocessed |
 | [Rvisdiff](https://bioconductor.org/packages/3.20/bioc/html/Rvisdiff.html)                                       | Unprocessed |
 | [S4Arrays](https://bioconductor.org/packages/3.20/bioc/html/S4Arrays.html)                                       | Unprocessed |
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)                                       | Unprocessed |
@@ -1802,7 +1804,6 @@
 | [kissDE](https://bioconductor.org/packages/3.20/bioc/html/kissDE.html)                                           | Unprocessed |
 | [kmcut](https://bioconductor.org/packages/3.20/bioc/html/kmcut.html)                                             | Unprocessed |
 | [knowYourCG](https://bioconductor.org/packages/3.20/bioc/html/knowYourCG.html)                                   | Unprocessed |
-| [ldblock](https://bioconductor.org/packages/3.20/bioc/html/ldblock.html)                                         | Unprocessed |
 | [lefser](https://bioconductor.org/packages/3.20/bioc/html/lefser.html)                                           | Unprocessed |
 | [lemur](https://bioconductor.org/packages/3.20/bioc/html/lemur.html)                                             | Unprocessed |
 | [limpca](https://bioconductor.org/packages/3.20/bioc/html/limpca.html)                                           | Unprocessed |
@@ -1913,7 +1914,6 @@
 | [ncGTW](https://bioconductor.org/packages/3.20/bioc/html/ncGTW.html)                                             | Unprocessed |
 | [ncRNAtools](https://bioconductor.org/packages/3.20/bioc/html/ncRNAtools.html)                                   | Unprocessed |
 | [ncdfFlow](https://bioconductor.org/packages/3.20/bioc/html/ncdfFlow.html)                                       | Unprocessed |
-| [ndexr](https://bioconductor.org/packages/3.20/bioc/html/ndexr.html)                                             | Unprocessed |
 | [nearBynding](https://bioconductor.org/packages/3.20/bioc/html/nearBynding.html)                                 | Unprocessed |
 | [nempi](https://bioconductor.org/packages/3.20/bioc/html/nempi.html)                                             | Unprocessed |
 | [netSmooth](https://bioconductor.org/packages/3.20/bioc/html/netSmooth.html)                                     | Unprocessed |

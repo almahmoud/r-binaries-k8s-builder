@@ -635,3 +635,6 @@
 ['[AlpsNMR](https://bioconductor.org/packages/3.20/bioc/html/AlpsNMR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/AlpsNMR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AlpsNMR)']
 ['[rexposome](https://bioconductor.org/packages/3.20/bioc/html/rexposome.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rexposome/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rexposome)']
 ['[rsbml](https://bioconductor.org/packages/3.20/bioc/html/rsbml.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rsbml/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rsbml)']
+['[Cardinal](https://bioconductor.org/packages/3.20/bioc/html/Cardinal.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Cardinal/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Cardinal)']
+['[ldblock](https://bioconductor.org/packages/3.20/bioc/html/ldblock.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ldblock/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ldblock)']
+['[ndexr](https://bioconductor.org/packages/3.20/bioc/html/ndexr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ndexr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ndexr)']

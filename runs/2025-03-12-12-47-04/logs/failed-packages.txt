@@ -9,3 +9,4 @@ eiR
 flowPeaks
 gpuMagic
 EBSeq
+Rtreemix

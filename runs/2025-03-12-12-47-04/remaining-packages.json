@@ -1727,7 +1727,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "Cardinal": [],
   "Category": [
     "AnnotationDbi",
     "RBGL",
@@ -16108,7 +16107,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "ldblock": [],
   "lefser": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -17792,7 +17790,6 @@
   "ncdfFlow": [
     "flowCore"
   ],
-  "ndexr": [],
   "nearBynding": [
     "plyranges",
     "Rsamtools",
