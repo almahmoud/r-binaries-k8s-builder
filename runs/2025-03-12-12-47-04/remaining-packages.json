@@ -5263,7 +5263,6 @@
     "Biostrings",
     "Rhtslib"
   ],
-  "GeneExpressionSignature": [],
   "GeneGeneInteR": [
     "Rsamtools",
     "IRanges",
@@ -6491,10 +6490,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "IsoCorrectoR": [],
-  "IsoCorrectoRGUI": [
-    "IsoCorrectoR"
-  ],
+  "IsoCorrectoRGUI": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
     "satuRn",
@@ -14984,7 +14980,6 @@
   "casper": [
     "IRanges",
     "GenomicRanges",
-    "gaga",
     "GenomeInfoDb",
     "GenomicFeatures",
     "Rsamtools",
@@ -17296,7 +17291,6 @@
     "UCSC.utils"
   ],
   "edgeR": [],
-  "eds": [],
   "eiR": [],
   "eisaR": [
     "GenomicRanges",
@@ -18523,7 +18517,6 @@
     "BiocIO",
     "Rhtslib"
   ],
-  "gaga": [],
   "gage": [
     "graph",
     "KEGGREST",
@@ -20524,7 +20517,6 @@
   "matter": [
     "ProtGenerics"
   ],
-  "mbQTL": [],
   "mbkmeans": [
     "DelayedArray",
     "S4Vectors",
@@ -20627,7 +20619,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "metaSeq": [],
   "metabCombiner": [
     "S4Vectors"
   ],
@@ -26216,7 +26207,6 @@
     "celda",
     "DropletUtils",
     "scds",
-    "eds",
     "GSEABase",
     "zinbwave",
     "scDblFinder",

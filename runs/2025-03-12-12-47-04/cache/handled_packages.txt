@@ -87,6 +87,7 @@ GSAR
 GSEAmining
 GSgalgoR
 GWAS.BAYES
+GeneExpressionSignature
 GeneGA
 GeneOverlap
 GeneticsPed
@@ -101,6 +102,7 @@ HubPub
 HybridMTest
 INTACT
 Icens
+IsoCorrectoR
 KBoost
 LPE
 LedPred
@@ -223,6 +225,7 @@ dks
 drawProteins
 dyebias
 ecolitk
+eds
 eiR
 epivizrServer
 fabia
@@ -237,6 +240,7 @@ flowPlots
 fmcsR
 fmrs
 frenchFISH
+gaga
 garfield
 gdsfmt
 gemini
@@ -286,7 +290,9 @@ magrene
 marray
 martini
 massiR
+mbQTL
 metaCCA
+metaSeq
 metagenomeSeq
 mfa
 mgsa

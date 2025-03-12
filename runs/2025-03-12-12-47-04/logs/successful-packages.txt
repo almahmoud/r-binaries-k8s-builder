@@ -380,3 +380,9 @@ iSeq
 MSstatsConvert
 NPARC
 SCFA
+eds
+gaga
+GeneExpressionSignature
+IsoCorrectoR
+mbQTL
+metaSeq

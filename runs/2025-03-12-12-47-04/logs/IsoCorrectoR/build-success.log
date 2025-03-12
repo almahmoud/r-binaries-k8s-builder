@@ -1,0 +1,272 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''IsoCorrectoR'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'IsoCorrectoR'
+also installing the dependencies ‘bit’, ‘bit64’, ‘rematch’, ‘generics’, ‘tidyselect’, ‘hms’, ‘vroom’, ‘tzdb’, ‘cellranger’, ‘progress’, ‘tcltk2’, ‘bookdown’, ‘dplyr’, ‘quadprog’, ‘readr’, ‘readxl’, ‘pracma’, ‘WriteXLS’, ‘IsoCorrectoRGUI’, ‘BiocStyle’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bit_4.6.0.tar.gz'
+Content type 'binary/octet-stream' length 628153 bytes (613 KB)
+==================================================
+downloaded 613 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bit64_4.6.0-1.tar.gz'
+Content type 'binary/octet-stream' length 491805 bytes (480 KB)
+==================================================
+downloaded 480 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rematch_2.0.0.tar.gz'
+Content type 'binary/octet-stream' length 16197 bytes (15 KB)
+==================================================
+downloaded 15 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/generics_0.1.3.tar.gz'
+Content type 'binary/octet-stream' length 81013 bytes (79 KB)
+==================================================
+downloaded 79 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidyselect_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 225331 bytes (220 KB)
+==================================================
+downloaded 220 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/hms_1.1.3.tar.gz'
+Content type 'binary/octet-stream' length 99678 bytes (97 KB)
+==================================================
+downloaded 97 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/vroom_1.6.5.tar.gz'
+Content type 'binary/octet-stream' length 958016 bytes (935 KB)
+==================================================
+downloaded 935 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tzdb_0.4.0.tar.gz'
+Content type 'binary/octet-stream' length 645343 bytes (630 KB)
+==================================================
+downloaded 630 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/cellranger_1.1.0.tar.gz'
+Content type 'binary/octet-stream' length 103778 bytes (101 KB)
+==================================================
+downloaded 101 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/progress_1.2.3.tar.gz'
+Content type 'binary/octet-stream' length 86326 bytes (84 KB)
+==================================================
+downloaded 84 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tcltk2_1.2-11.tar.gz'
+Content type 'binary/octet-stream' length 968512 bytes (945 KB)
+==================================================
+downloaded 945 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bookdown_0.42.tar.gz'
+Content type 'binary/octet-stream' length 1090748 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dplyr_1.1.4.tar.gz'
+Content type 'binary/octet-stream' length 1491332 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/quadprog_1.5-8.tar.gz'
+Content type 'binary/octet-stream' length 31242 bytes (30 KB)
+==================================================
+downloaded 30 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/readr_2.1.5.tar.gz'
+Content type 'binary/octet-stream' length 867956 bytes (847 KB)
+==================================================
+downloaded 847 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/readxl_1.4.5.tar.gz'
+Content type 'binary/octet-stream' length 412387 bytes (402 KB)
+==================================================
+downloaded 402 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pracma_2.4.4.tar.gz'
+Content type 'binary/octet-stream' length 1755141 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/WriteXLS_6.7.0.tar.gz'
+Content type 'binary/octet-stream' length 789847 bytes (771 KB)
+==================================================
+downloaded 771 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IsoCorrectoRGUI_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 449578 bytes (439 KB)
+==================================================
+downloaded 439 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocStyle_2.34.0.tar.gz'
+Content type 'application/x-gzip' length 908772 bytes (887 KB)
+==================================================
+downloaded 887 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/IsoCorrectoR_1.24.0.tar.gz'
+Content type 'application/x-gzip' length 1765741 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+* installing *binary* package ‘bit’ ...
+* ‘bit’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bit’ as ‘bit_4.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bit)
+* installing *binary* package ‘rematch’ ...
+* ‘rematch’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rematch’ as ‘rematch_2.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rematch)
+* installing *binary* package ‘generics’ ...
+* ‘generics’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘generics’ as ‘generics_0.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (generics)
+* installing *binary* package ‘tidyselect’ ...
+* ‘tidyselect’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidyselect’ as ‘tidyselect_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyselect)
+* installing *binary* package ‘hms’ ...
+* ‘hms’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘hms’ as ‘hms_1.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hms)
+* installing *binary* package ‘tzdb’ ...
+* ‘tzdb’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tzdb’ as ‘tzdb_0.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tzdb)
+* installing *binary* package ‘tcltk2’ ...
+* ‘tcltk2’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tcltk2’ as ‘tcltk2_1.2-11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tcltk2)
+* installing *binary* package ‘bookdown’ ...
+* ‘bookdown’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.42_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *binary* package ‘quadprog’ ...
+* ‘quadprog’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘quadprog’ as ‘quadprog_1.5-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (quadprog)
+* installing *binary* package ‘pracma’ ...
+* ‘pracma’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pracma’ as ‘pracma_2.4.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pracma)
+* installing *binary* package ‘WriteXLS’ ...
+* ‘WriteXLS’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘WriteXLS’ as ‘WriteXLS_6.7.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (WriteXLS)
+* installing *binary* package ‘bit64’ ...
+* ‘bit64’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bit64’ as ‘bit64_4.6.0-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bit64)
+* installing *binary* package ‘cellranger’ ...
+* ‘cellranger’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘cellranger’ as ‘cellranger_1.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cellranger)
+* installing *binary* package ‘progress’ ...
+* ‘progress’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘progress’ as ‘progress_1.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (progress)
+* installing *binary* package ‘dplyr’ ...
+* ‘dplyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dplyr’ as ‘dplyr_1.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dplyr)
+* installing *source* package ‘BiocStyle’ ...
+** package ‘BiocStyle’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+* installing *binary* package ‘vroom’ ...
+* ‘vroom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘vroom’ as ‘vroom_1.6.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (vroom)
+* installing *binary* package ‘readxl’ ...
+* ‘readxl’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘readxl’ as ‘readxl_1.4.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (readxl)
+* installing *binary* package ‘readr’ ...
+* ‘readr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘readr’ as ‘readr_2.1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (readr)
+* installing *source* package ‘IsoCorrectoR’ ...
+** package ‘IsoCorrectoR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘IsoCorrectoR’ as ‘IsoCorrectoR_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (IsoCorrectoR)
+* installing *source* package ‘IsoCorrectoRGUI’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: no DISPLAY variable so Tk is not available
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package can be loaded from final location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘IsoCorrectoRGUI’ as ‘IsoCorrectoRGUI_1.22.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (IsoCorrectoRGUI)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpmr9rSY/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+
+real	0m26.574s
+user	0m17.168s
+sys	0m8.426s
