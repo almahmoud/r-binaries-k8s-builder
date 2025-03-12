@@ -277,7 +277,6 @@
   ],
   "BiSeq": [
     "rtracklayer",
-    "globaltest",
     "GenomicAlignments"
   ],
   "BicARE": [
@@ -482,7 +481,6 @@
     "PCAtools",
     "SingleCellExperiment",
     "clusterProfiler",
-    "pathview",
     "BiocSingular",
     "beachmat",
     "ScaledMatrix"
@@ -562,7 +560,6 @@
   "ChAMP": [
     "minfi",
     "DMRcate",
-    "globaltest",
     "sva",
     "wateRmelon",
     "goseq",
@@ -953,7 +950,6 @@
     "beachmat",
     "scuttle"
   ],
-  "DiscoRhythm": [],
   "DominoEffect": [
     "biomaRt",
     "VariantAnnotation",
@@ -1008,9 +1004,7 @@
   "EGSEA": [
     "gage",
     "topGO",
-    "pathview",
     "GSVA",
-    "globaltest",
     "safe",
     "GSEABase",
     "SingleCellExperiment",
@@ -1060,7 +1054,6 @@
   "EnrichmentBrowser": [
     "GSEABase",
     "graphite",
-    "pathview",
     "safe"
   ],
   "EpiCompare": [
@@ -1199,8 +1192,7 @@
   "GDCRNATools": [
     "DESeq2",
     "clusterProfiler",
-    "biomaRt",
-    "pathview"
+    "biomaRt"
   ],
   "GDSArray": [],
   "GENESIS": [
@@ -1255,7 +1247,6 @@
     "EnrichmentBrowser",
     "GSEABase",
     "graphite",
-    "pathview",
     "safe"
   ],
   "GSRI": [
@@ -1411,7 +1402,6 @@
     "SingleCellExperiment"
   ],
   "GlobalAncova": [
-    "globaltest",
     "GSEABase"
   ],
   "GmicR": [
@@ -1665,8 +1655,7 @@
     "GenomicAlignments"
   ],
   "MAGeCKFlute": [
-    "clusterProfiler",
-    "pathview"
+    "clusterProfiler"
   ],
   "MAI": [],
   "MAIT": [
@@ -2470,7 +2459,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RTNsurvival": [],
   "RUVSeq": [
     "EDASeq",
     "ShortRead",
@@ -2641,9 +2629,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "SBGNview": [
-    "pathview"
-  ],
+  "SBGNview": [],
   "SC3": [
     "SingleCellExperiment"
   ],
@@ -2695,9 +2681,7 @@
   ],
   "SIAMCAT": [],
   "SICtools": [],
-  "SIM": [
-    "globaltest"
-  ],
+  "SIM": [],
   "SMITE": [
     "goseq",
     "rtracklayer",
@@ -3310,9 +3294,7 @@
     "GEOquery",
     "GenomicAlignments"
   ],
-  "arrayQualityMetrics": [
-    "beadarray"
-  ],
+  "arrayQualityMetrics": [],
   "atSNP": [
     "BSgenome",
     "motifStack",
@@ -3374,7 +3356,6 @@
   "beachmat.hdf5": [
     "beachmat"
   ],
-  "beadarray": [],
   "beer": [
     "PhIPData"
   ],
@@ -3464,9 +3445,7 @@
     "biomaRt",
     "geneplotter"
   ],
-  "blima": [
-    "beadarray"
-  ],
+  "blima": [],
   "bnbc": [
     "sva"
   ],
@@ -3967,7 +3946,6 @@
     "DESeq2",
     "clusterProfiler",
     "sva",
-    "pathview",
     "apeglm"
   ],
   "decompTumor2Sig": [
@@ -4105,7 +4083,6 @@
     "beachmat",
     "EnrichmentBrowser",
     "graphite",
-    "pathview",
     "safe"
   ],
   "drugTargetInteractions": [
@@ -4140,7 +4117,6 @@
     "GenomicAlignments",
     "CNEr"
   ],
-  "enrichViewNet": [],
   "ensembldb": [
     "GenomicFeatures",
     "AnnotationFilter",
@@ -4151,9 +4127,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "epigenomix": [
-    "beadarray"
-  ],
+  "epigenomix": [],
   "epigraHMM": [
     "rtracklayer",
     "csaw",
@@ -4507,7 +4481,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "globaltest": [],
   "gmapR": [
     "rtracklayer",
     "GenomicFeatures",
@@ -4880,7 +4853,6 @@
     "beachmat"
   ],
   "memes": [],
-  "meshes": [],
   "meshr": [
     "Category",
     "GSEABase"
@@ -5485,7 +5457,6 @@
   "pathlinkR": [
     "clusterProfiler"
   ],
-  "pathview": [],
   "pcaExplorer": [
     "DESeq2",
     "mosdef",
@@ -6242,7 +6213,6 @@
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
-  "simplifyEnrichment": [],
   "singleCellTK": [
     "SingleCellExperiment",
     "batchelor",
@@ -6752,7 +6722,6 @@
     "EnrichmentBrowser",
     "GSEABase",
     "graphite",
-    "pathview",
     "safe"
   ],
   "zinbwave": [

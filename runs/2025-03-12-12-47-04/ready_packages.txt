@@ -1,10 +1,5 @@
-CNTools
-GeneMeta
-MLInterfaces
-PECA
-a4Base
-annmap
-covRNA
-protGear
-sva
-tilingArray
+SBGNview
+SIM
+arrayQualityMetrics
+blima
+epigenomix
