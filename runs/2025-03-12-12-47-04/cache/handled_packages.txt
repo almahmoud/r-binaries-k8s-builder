@@ -49,6 +49,7 @@ BiocPkgTools
 BiocStyle
 BiocVersion
 BiocWorkflowTools
+Biostrings
 BridgeDbR
 BrowserViz
 BufferedMatrix
@@ -226,6 +227,7 @@ MassSpecWavelet
 MatrixGenerics
 MeasurementError.cor
 Mergeomics
+MetCirc
 MetID
 MetaboCoreUtils
 MethPed
@@ -234,6 +236,9 @@ Mfuzz
 MiChip
 MiPP
 ModCon
+MsBackendMassbank
+MsBackendMgf
+MsBackendMsp
 MsCoreUtils
 Mulcom
 MultiMed
@@ -498,6 +503,8 @@ flowClean
 flowClust
 flowCore
 flowCyBar
+flowDensity
+flowFP
 flowGraph
 flowMatch
 flowMeans
@@ -767,6 +774,7 @@ tweeDEseq
 twilight
 twoddpcr
 tximport
+uSORT
 unifiedWMWqPCR
 updateObject
 variancePartition

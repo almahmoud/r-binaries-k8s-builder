@@ -766,3 +766,11 @@ monocle
 nempi
 SparseArray
 Spectra
+Biostrings
+flowDensity
+flowFP
+MetCirc
+MsBackendMassbank
+MsBackendMgf
+MsBackendMsp
+uSORT
