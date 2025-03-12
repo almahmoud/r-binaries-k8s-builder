@@ -76,7 +76,6 @@ ClusterSignificance
 ComPrAn
 ConsensusClusterPlus
 Cormotif
-CytoGLMM
 DART
 DCATS
 DEGseq
@@ -99,7 +98,6 @@ Doscheda
 DriverNet
 DynDoc
 EBImage
-EBSeq
 EBarrays
 EBcoexpress
 EMDomics
@@ -123,7 +121,6 @@ GEOsubmission
 GEWIST
 GGPA
 GIGSEA
-GLAD
 GPA
 GRENITS
 GSALightning
@@ -139,7 +136,6 @@ GeneExpressionSignature
 GeneGA
 GeneOverlap
 GeneSelectMMD
-GeneticsPed
 GladiaTOX
 GraphAT
 GraphAlignment
@@ -214,7 +210,6 @@ NPARC
 NTW
 NanoStringDiff
 NanoTube
-NetPathMiner
 NormqPCR
 NuPoP
 OCplus
@@ -292,7 +287,6 @@ Rmagpie
 Rnits
 Rsubread
 Rtpca
-Rtreemix
 S4Vectors
 SANTA
 SBMLR
@@ -337,7 +331,6 @@ a4Reporting
 aCGH
 abseqR
 acde
-affxparser
 affy
 affyContam
 affycomp
@@ -421,7 +414,6 @@ dyebias
 easyreporting
 ecolitk
 eds
-eiR
 epistasisGA
 epivizrServer
 fCI
@@ -434,7 +426,6 @@ fenr
 fgsea
 flowCyBar
 flowGraph
-flowPeaks
 flowPlots
 flowcatchR
 fmcsR
@@ -462,9 +453,7 @@ ggtreeExtra
 ggtreeSpace
 globalSeq
 gpls
-gpuMagic
 granulator
-graper
 graph
 gypsum
 hapFabia
@@ -659,7 +648,6 @@ synergyfinder
 synlet
 systemPipeShiny
 tanggle
-ternarynet
 tidysbml
 timeOmics
 timecourse
