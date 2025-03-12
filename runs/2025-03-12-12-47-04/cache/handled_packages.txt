@@ -428,6 +428,7 @@ bacon
 banocc
 basilisk
 basilisk.utils
+baySeq
 bcSeq
 bioDist
 bioassayR
@@ -455,7 +456,9 @@ cellmigRation
 cellscape
 cellxgenedp
 chopsticks
+chromDraw
 cisPath
+cleaver
 clevRvis
 clippda
 clst
@@ -463,6 +466,7 @@ clstutils
 clustComp
 clusterStab
 coGPS
+coRdon
 cogena
 cola
 compSPOT
@@ -792,6 +796,7 @@ synergyfinder
 synlet
 systemPipeShiny
 tanggle
+target
 ternarynet
 tidyFlowCore
 tidysbml

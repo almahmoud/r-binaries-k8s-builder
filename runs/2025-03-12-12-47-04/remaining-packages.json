@@ -3465,7 +3465,6 @@
     "AnnotationFilter"
   ],
   "ProteoDisco": [
-    "cleaver",
     "GenomicFeatures",
     "VariantAnnotation",
     "AnnotationDbi",
@@ -5232,7 +5231,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "baySeq": [],
   "beachmat": [],
   "beachmat.hdf5": [
     "beachmat",
@@ -5650,7 +5648,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "chromDraw": [],
   "chromPlot": [
     "biomaRt",
     "AnnotationDbi"
@@ -5708,7 +5705,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "cleaver": [],
   "cliProfiler": [
     "rtracklayer",
     "BSgenome",
@@ -5756,9 +5752,7 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "clusterSeq": [
-    "baySeq"
-  ],
+  "clusterSeq": [],
   "clustifyr": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -5787,7 +5781,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "coRdon": [],
   "codelink": [
     "annotate",
     "AnnotationDbi"
@@ -9069,8 +9062,7 @@
   ],
   "rhdf5client": [],
   "riboSeqR": [
-    "Rsamtools",
-    "baySeq"
+    "Rsamtools"
   ],
   "ribosomeProfilingQC": [
     "AnnotationDbi",
@@ -9569,7 +9561,6 @@
     "SummarizedExperiment"
   ],
   "segmentSeq": [
-    "baySeq",
     "ShortRead",
     "Rsamtools",
     "GenomicAlignments",
@@ -10037,7 +10028,6 @@
   ],
   "synapter": [
     "MSnbase",
-    "cleaver",
     "PSMatch",
     "QFeatures",
     "MultiAssayExperiment",
@@ -10111,7 +10101,6 @@
     "SummarizedExperiment",
     "AnnotationFilter"
   ],
-  "target": [],
   "tenXplore": [
     "ontoProc",
     "SummarizedExperiment",

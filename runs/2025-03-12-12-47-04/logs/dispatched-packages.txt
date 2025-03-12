@@ -934,3 +934,4 @@ seqPattern
 target
 transite
 triplex
+clusterSeq

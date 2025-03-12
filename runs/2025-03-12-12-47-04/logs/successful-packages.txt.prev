@@ -810,3 +810,8 @@ sscu
 bcSeq
 DelayedRandomArray
 GateFinder
+baySeq
+chromDraw
+cleaver
+coRdon
+target
