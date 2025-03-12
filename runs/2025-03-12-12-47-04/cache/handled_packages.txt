@@ -55,6 +55,7 @@ ClusterSignificance
 ComPrAn
 ConsensusClusterPlus
 CytoGLMM
+DART
 DCATS
 DEqMS
 DEsingle
@@ -69,6 +70,7 @@ DepInfeR
 DepecheR
 DiffLogo
 DriverNet
+DynDoc
 EBarrays
 EBcoexpress
 EmpiricalBrownsMethod
@@ -97,6 +99,7 @@ HPAanalyze
 HPiP
 Harman
 Heatplus
+Herper
 HilbertVis
 HilbertVisGUI
 HubPub
@@ -134,6 +137,7 @@ OLIN
 OSAT
 Omixer
 OrderedList
+PLPE
 PROcess
 Path2PPI
 QuaternaryProd
@@ -150,6 +154,7 @@ RSeqAn
 RTCGA
 RankProd
 Rbowtie
+Rcollectl
 RedeR
 RedisParam
 SBMLR
@@ -219,6 +224,7 @@ convert
 copa
 covEB
 cqn
+ctc
 daMA
 dcGSA
 dcanr
@@ -238,6 +244,7 @@ dyebias
 ecolitk
 eds
 eiR
+epistasisGA
 epivizrServer
 fabia
 factDesign
@@ -267,6 +274,7 @@ ggtreeDendro
 ggtreeExtra
 ggtreeSpace
 globalSeq
+gpls
 granulator
 graper
 gypsum
@@ -349,6 +357,7 @@ rbsurv
 rcellminer
 rmelting
 rnaseqcomp
+roastgsa
 rols
 rpx
 rqubic
@@ -360,6 +369,7 @@ scRecover
 scShapes
 scTHI
 scatterHatch
+seq.hotSPOT
 seqLogo
 seqTools
 seqcombo
@@ -370,6 +380,7 @@ similaRpeak
 sincell
 sitePath
 sizepower
+snifter
 snm
 snpStats
 sparseMatrixStats
@@ -402,6 +413,7 @@ ttgsea
 twilight
 tximport
 unifiedWMWqPCR
+variancePartition
 vbmp
 veloviz
 viper

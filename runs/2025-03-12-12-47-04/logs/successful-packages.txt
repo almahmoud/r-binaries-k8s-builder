@@ -401,3 +401,15 @@ projectR
 rnaseqcomp
 rsemmed
 scatterHatch
+ctc
+DART
+DynDoc
+epistasisGA
+gpls
+Herper
+PLPE
+Rcollectl
+roastgsa
+seq.hotSPOT
+snifter
+variancePartition

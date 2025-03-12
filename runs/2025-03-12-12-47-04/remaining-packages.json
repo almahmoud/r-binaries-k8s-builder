@@ -3145,7 +3145,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "DART": [],
   "DECIPHER": [
     "Biostrings",
     "S4Vectors",
@@ -3952,7 +3951,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "DynDoc": [],
   "EBImage": [],
   "EBSEA": [
     "DESeq2",
@@ -5899,7 +5897,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "Herper": [],
   "HiCBricks": [
     "rhdf5",
     "GenomeInfoDb",
@@ -7961,8 +7958,7 @@
     "SparseArray"
   ],
   "Mfuzz": [
-    "tkWidgets",
-    "DynDoc"
+    "tkWidgets"
   ],
   "MiPP": [],
   "MiRaGE": [
@@ -8387,8 +8383,7 @@
     "DelayedArray",
     "SparseArray",
     "UCSC.utils",
-    "XVector",
-    "DynDoc"
+    "XVector"
   ],
   "MultimodalExperiment": [
     "IRanges",
@@ -8696,8 +8691,7 @@
     "SparseArray"
   ],
   "OLINgui": [
-    "tkWidgets",
-    "DynDoc"
+    "tkWidgets"
   ],
   "OMICsPCA": [
     "HelloRanges",
@@ -9082,7 +9076,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "PLPE": [],
   "PLSDAbatch": [
     "TreeSummarizedExperiment",
     "SingleCellExperiment",
@@ -10456,7 +10449,6 @@
     "SparseArray",
     "Biostrings"
   ],
-  "Rcollectl": [],
   "Rcpi": [
     "Biostrings",
     "GOSemSim",
@@ -16286,7 +16278,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "ctc": [],
   "ctsGE": [],
   "cummeRbund": [
     "rtracklayer",
@@ -16365,8 +16356,7 @@
   ],
   "cycle": [
     "Mfuzz",
-    "tkWidgets",
-    "DynDoc"
+    "tkWidgets"
   ],
   "cydar": [
     "SingleCellExperiment",
@@ -17120,7 +17110,6 @@
     "SparseArray"
   ],
   "dreamlet": [
-    "variancePartition",
     "SingleCellExperiment",
     "edgeR",
     "SummarizedExperiment",
@@ -17567,7 +17556,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "epistasisGA": [],
   "epivizr": [
     "epivizrData",
     "GenomicRanges",
@@ -19048,7 +19036,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "gpls": [],
   "gpuMagic": [],
   "graper": [],
   "graph": [],
@@ -21064,7 +21051,6 @@
     "impute",
     "TCGAbiolinks",
     "SummarizedExperiment",
-    "ctc",
     "Category",
     "GOstats",
     "AnnotationDbi",
@@ -21891,9 +21877,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "multiClust": [
-    "ctc"
-  ],
+  "multiClust": [],
   "multiGSEA": [
     "graphite",
     "AnnotationDbi",
@@ -22034,7 +22018,6 @@
     "scuttle",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "variancePartition",
     "IRanges",
     "GenomicRanges",
     "SparseArray",
@@ -24605,7 +24588,6 @@
     "SparseArray",
     "Rhtslib"
   ],
-  "roastgsa": [],
   "ropls": [
     "MultiAssayExperiment",
     "MultiDataSet",
@@ -25812,7 +25794,6 @@
     "SparseArray"
   ],
   "semisup": [],
-  "seq.hotSPOT": [],
   "seq2pathway": [
     "biomaRt",
     "GenomicRanges",
@@ -26368,7 +26349,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "snifter": [],
   "soGGi": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -27325,9 +27305,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "tkWidgets": [
-    "DynDoc"
-  ],
+  "tkWidgets": [],
   "tomoda": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -27789,7 +27767,6 @@
   "updateObject": [
     "S4Vectors"
   ],
-  "variancePartition": [],
   "velociraptor": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -28196,7 +28173,6 @@
     "XVector"
   ],
   "zenith": [
-    "variancePartition",
     "EnrichmentBrowser",
     "GSEABase",
     "SummarizedExperiment",
