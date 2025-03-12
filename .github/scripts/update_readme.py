@@ -8,12 +8,6 @@ import argparse
 import yaml
 import re
 
-def get_container_version(container_file):
-    """Gets bioc version from container tag"""
-    with open(container_file, "r") as f:
-        container = f.read().strip()
-    return container.split(":")[-1]
-
 def check_cran_archived(pkg):
     """Checks if a package has been archived on CRAN"""
     cranurl = f"https://cran.r-project.org/web/packages/{pkg}/index.html"
@@ -181,13 +175,18 @@ def save_table_cache(run_id, cache):
         for pkg in sorted(cache["handled_packages"]):
             f.write(f"{pkg}\n")
 
+def get_bioc_version(run_id):
+    """Gets bioc version from version file"""
+    with open(f"runs/{run_id}/bioc_version", "r") as f:
+        return f.read().strip()
+
 def main(run_id):
     print(f"Starting README update for run {run_id}")
     
-    # Load package info, version and existing table cache
+    # Load package info and version
     with open(f"runs/{run_id}/biocdeps.json") as f:
         packages = json.load(f)
-    bioc_version = get_container_version(f"runs/{run_id}/CONTAINER_BASE_IMAGE.bioc")
+    bioc_version = get_bioc_version(run_id)
     cache = load_table_cache(run_id)
     
     print(f"Found {len(packages)} total packages in Bioconductor {bioc_version}")

@@ -26,38 +26,32 @@ mkdir -p "runs/${RUN_ID}/logs"
 # Get all jobs in namespace with app=bioc-builder label
 JOBS=$(kubectl get jobs -n ${NAMESPACE} -l app=bioc-builder -o custom-columns=NAME:.metadata.name,PKG:.metadata.labels.pkg --no-headers)
 
-# Check and increment retry counter
+# Check and initialize retry counter
 RETRY_COUNT_FILE="runs/${RUN_ID}/retry_count"
 if [ ! -f "${RETRY_COUNT_FILE}" ]; then
     echo "0" > "${RETRY_COUNT_FILE}"
 fi
 RETRY_COUNT=$(cat "${RETRY_COUNT_FILE}")
 
-# Function to check for lock errors and handle retries
+# Function to check for stalled progress and handle retries
 check_and_retry() {
-    local has_lock_error=0
+    local prev_success_count=0
+    local curr_success_count=0
     local retry_needed=0
     
-    # Check for lock directory errors
-    if find "runs/${RUN_ID}/logs" -type f -name "build-fail.log" -exec grep -l "failed to lock directory" {} \; | grep -q .; then
-        has_lock_error=1
+    # Check if we've made progress
+    if [ -f "${SUCCESS_PKGS}" ]; then
+        prev_success_count=$(cat "${SUCCESS_PKGS}.prev" 2>/dev/null | wc -l || echo "0")
+        curr_success_count=$(wc -l < "${SUCCESS_PKGS}" || echo "0")
+        cp "${SUCCESS_PKGS}" "${SUCCESS_PKGS}.prev"
     fi
     
-    # Force retry for first 3 attempts
-    if [ "${RETRY_COUNT}" -lt 3 ]; then
-        retry_needed=1
-    fi
-    
-    # Retry if we have lock errors (up to max 10 times)
-    if [ "${has_lock_error}" -eq 1 ] && [ "${RETRY_COUNT}" -lt 10 ]; then
-        retry_needed=1
-    fi
-    
-    if [ "${retry_needed}" -eq 1 ]; then
-        echo "Attempting retry ${RETRY_COUNT}/10..."
+    # If no new successes and under retry limit, try again
+    if [ "${prev_success_count}" -eq "${curr_success_count}" ] && [ "${RETRY_COUNT}" -lt 5 ]; then
+        echo "No progress detected, attempting retry ${RETRY_COUNT}/5..."
         echo "$((RETRY_COUNT + 1))" > "${RETRY_COUNT_FILE}"
         
-        # Reset failed packages
+        # Reset and redispatch failed packages
         bash .github/scripts/reset_failed.sh "${RUN_ID}"
         
         # Find and dispatch new packages
@@ -72,7 +66,7 @@ check_and_retry() {
             CONTAINER=$(cat "runs/${RUN_ID}/CONTAINER_BASE_IMAGE.bioc")
             cat "runs/${RUN_ID}/ready_packages.txt" | \
                 xargs -i bash -c "bash .github/scripts/dispatch_k8s_job.sh {} ${CONTAINER} bioc-pvc-${RUN_ID} ${RUN_ID} && sleep 1"
-            return 1  # Continue retrying
+            return 1  # Continue processing
         fi
     fi
     return 0  # No more retries needed

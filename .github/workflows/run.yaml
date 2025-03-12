@@ -143,8 +143,9 @@ jobs:
             echo "No more jobs running, all dispatched packages processed, and no new packages ready."
             echo "Running repository indexing..."
             
-            OLD_PACKAGES_URL="${{ vars.OLD_PACKAGES_URL }}"
-            bash ./.github/scripts/finish_cycle.sh "${RUN_ID}" "${OLD_PACKAGES_URL:-}" "${CONTAINER}"
+            BIOC_VERSION=$(cat "runs/${RUN_ID}/bioc_version")
+            OLD_PACKAGES_URL="https://storage.googleapis.com/bioconductor-packages/${BIOC_VERSION}/container-binaries/bioconductor_docker/src/contrib/PACKAGES"
+            bash ./.github/scripts/finish_cycle.sh "${RUN_ID}" "${OLD_PACKAGES_URL}" "${CONTAINER}"
           else
             echo "Cycle continues:"
             echo "- Running jobs: ${RUNNING_JOBS}"
