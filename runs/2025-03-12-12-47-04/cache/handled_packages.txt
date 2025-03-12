@@ -24,11 +24,13 @@ AnVILPublish
 AnVILWorkflow
 AnnotationDbi
 AnnotationForge
+AnnotationHub
 BADER
 BAGS
 BCRANK
 BEclear
 BG2
+BLMA
 BRAIN
 BUS
 BaseSpaceR
@@ -112,6 +114,7 @@ DFplyr
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
+DOSE
 DTA
 DeMAND
 DeconRNASeq
@@ -866,6 +869,7 @@ seqTools
 seqcombo
 sevenbridges
 shiny.gosling
+sigFeature
 siggenes
 sights
 sigsquared
@@ -874,6 +878,7 @@ simona
 sincell
 sitePath
 sizepower
+snapcount
 snifter
 snm
 snpStats

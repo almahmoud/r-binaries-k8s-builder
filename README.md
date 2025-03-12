@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 919 packages built successfully
+- 924 packages built successfully
 - 16 packages failed to build
-- 1298 packages not yet processed
+- 1293 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (919)
+## Successfully Built (924)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -950,8 +950,13 @@
 | [scMultiSim](https://bioconductor.org/packages/3.20/bioc/html/scMultiSim.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/scMultiSim/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scMultiSim)                |
 | [screenCounter](https://bioconductor.org/packages/3.20/bioc/html/screenCounter.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/screenCounter/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/screenCounter)             |
 | [sechm](https://bioconductor.org/packages/3.20/bioc/html/sechm.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/sechm/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sechm)                     |
+| [AnnotationHub](https://bioconductor.org/packages/3.20/bioc/html/AnnotationHub.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/AnnotationHub/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AnnotationHub)             |
+| [BLMA](https://bioconductor.org/packages/3.20/bioc/html/BLMA.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/BLMA/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BLMA)                      |
+| [DOSE](https://bioconductor.org/packages/3.20/bioc/html/DOSE.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/DOSE/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DOSE)                      |
+| [sigFeature](https://bioconductor.org/packages/3.20/bioc/html/sigFeature.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/sigFeature/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sigFeature)                |
+| [snapcount](https://bioconductor.org/packages/3.20/bioc/html/snapcount.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/snapcount/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/snapcount)                 |
 
-## Not Yet Processed (1298)
+## Not Yet Processed (1293)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -979,7 +984,6 @@
 | [Anaquin](https://bioconductor.org/packages/3.20/bioc/html/Anaquin.html)                                         | Unprocessed |
 | [AneuFinder](https://bioconductor.org/packages/3.20/bioc/html/AneuFinder.html)                                   | Unprocessed |
 | [AnnotationFilter](https://bioconductor.org/packages/3.20/bioc/html/AnnotationFilter.html)                       | Unprocessed |
-| [AnnotationHub](https://bioconductor.org/packages/3.20/bioc/html/AnnotationHub.html)                             | Unprocessed |
 | [AnnotationHubData](https://bioconductor.org/packages/3.20/bioc/html/AnnotationHubData.html)                     | Unprocessed |
 | [ArrayExpress](https://bioconductor.org/packages/3.20/bioc/html/ArrayExpress.html)                               | Unprocessed |
 | [AssessORF](https://bioconductor.org/packages/3.20/bioc/html/AssessORF.html)                                     | Unprocessed |
@@ -989,7 +993,6 @@
 | [BBCAnalyzer](https://bioconductor.org/packages/3.20/bioc/html/BBCAnalyzer.html)                                 | Unprocessed |
 | [BEAT](https://bioconductor.org/packages/3.20/bioc/html/BEAT.html)                                               | Unprocessed |
 | [BERT](https://bioconductor.org/packages/3.20/bioc/html/BERT.html)                                               | Unprocessed |
-| [BLMA](https://bioconductor.org/packages/3.20/bioc/html/BLMA.html)                                               | Unprocessed |
 | [BOBaFIT](https://bioconductor.org/packages/3.20/bioc/html/BOBaFIT.html)                                         | Unprocessed |
 | [BPRMeth](https://bioconductor.org/packages/3.20/bioc/html/BPRMeth.html)                                         | Unprocessed |
 | [BREW3R.r](https://bioconductor.org/packages/3.20/bioc/html/BREW3R.r.html)                                       | Unprocessed |
@@ -1120,7 +1123,6 @@
 | [DMRcate](https://bioconductor.org/packages/3.20/bioc/html/DMRcate.html)                                         | Unprocessed |
 | [DNAfusion](https://bioconductor.org/packages/3.20/bioc/html/DNAfusion.html)                                     | Unprocessed |
 | [DNAshapeR](https://bioconductor.org/packages/3.20/bioc/html/DNAshapeR.html)                                     | Unprocessed |
-| [DOSE](https://bioconductor.org/packages/3.20/bioc/html/DOSE.html)                                               | Unprocessed |
 | [DRIMSeq](https://bioconductor.org/packages/3.20/bioc/html/DRIMSeq.html)                                         | Unprocessed |
 | [DSS](https://bioconductor.org/packages/3.20/bioc/html/DSS.html)                                                 | Unprocessed |
 | [DaMiRseq](https://bioconductor.org/packages/3.20/bioc/html/DaMiRseq.html)                                       | Unprocessed |
@@ -2141,7 +2143,6 @@
 | [sevenC](https://bioconductor.org/packages/3.20/bioc/html/sevenC.html)                                           | Unprocessed |
 | [shinyMethyl](https://bioconductor.org/packages/3.20/bioc/html/shinyMethyl.html)                                 | Unprocessed |
 | [shinyepico](https://bioconductor.org/packages/3.20/bioc/html/shinyepico.html)                                   | Unprocessed |
-| [sigFeature](https://bioconductor.org/packages/3.20/bioc/html/sigFeature.html)                                   | Unprocessed |
 | [signatureSearch](https://bioconductor.org/packages/3.20/bioc/html/signatureSearch.html)                         | Unprocessed |
 | [signeR](https://bioconductor.org/packages/3.20/bioc/html/signeR.html)                                           | Unprocessed |
 | [simPIC](https://bioconductor.org/packages/3.20/bioc/html/simPIC.html)                                           | Unprocessed |
@@ -2156,7 +2157,6 @@
 | [slingshot](https://bioconductor.org/packages/3.20/bioc/html/slingshot.html)                                     | Unprocessed |
 | [smartid](https://bioconductor.org/packages/3.20/bioc/html/smartid.html)                                         | Unprocessed |
 | [smoothclust](https://bioconductor.org/packages/3.20/bioc/html/smoothclust.html)                                 | Unprocessed |
-| [snapcount](https://bioconductor.org/packages/3.20/bioc/html/snapcount.html)                                     | Unprocessed |
 | [soGGi](https://bioconductor.org/packages/3.20/bioc/html/soGGi.html)                                             | Unprocessed |
 | [spaSim](https://bioconductor.org/packages/3.20/bioc/html/spaSim.html)                                           | Unprocessed |
 | [sparrow](https://bioconductor.org/packages/3.20/bioc/html/sparrow.html)                                         | Unprocessed |

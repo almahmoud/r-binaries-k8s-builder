@@ -1176,3 +1176,12 @@ geneplotter
 globaltest
 idiogram
 tigre
+ExperimentHub
+GenomicScores
+SVMDO
+cTRAP
+customCMPdb
+enrichplot
+ipdDb
+ontoProc
+rGenomeTracks
