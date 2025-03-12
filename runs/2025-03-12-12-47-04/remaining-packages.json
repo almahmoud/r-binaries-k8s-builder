@@ -1880,7 +1880,6 @@
   "MLInterfaces": [
     "genefilter"
   ],
-  "MLP": [],
   "MLSeq": [
     "DESeq2"
   ],
@@ -3567,7 +3566,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "barcodetrackR": [],
   "basecallQC": [
     "ShortRead",
     "GenomicAlignments"
@@ -3602,8 +3600,6 @@
     "SingleCellExperiment",
     "genefilter"
   ],
-  "betaHMM": [],
-  "bettr": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -4582,9 +4578,7 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "esetVis": [
-    "MLP"
-  ],
+  "esetVis": [],
   "eudysbiome": [],
   "evaluomeR": [
     "MultiAssayExperiment"
@@ -4724,7 +4718,6 @@
     "GenomicAlignments"
   ],
   "gage": [],
-  "gatom": [],
   "gcapc": [
     "BSgenome",
     "GenomicAlignments",
@@ -6825,7 +6818,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "stageR": [],
   "standR": [
     "SpatialExperiment",
     "SingleCellExperiment",

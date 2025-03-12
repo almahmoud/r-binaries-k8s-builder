@@ -930,3 +930,9 @@ tidySummarizedExperiment
 tomoda
 satuRn
 survtype
+barcodetrackR
+betaHMM
+bettr
+gatom
+MLP
+stageR

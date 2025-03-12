@@ -245,6 +245,7 @@ MBttest
 MCbiclust
 MEDME
 MEIGOR
+MLP
 MMUPHin
 MODA
 MOFA2
@@ -486,10 +487,13 @@ assorthead
 bacon
 bamsignals
 banocc
+barcodetrackR
 basilisk
 basilisk.utils
 baySeq
 bcSeq
+betaHMM
+bettr
 bioDist
 bioassayR
 biobroom
@@ -620,6 +624,7 @@ frmaTools
 gDRstyle
 gaga
 garfield
+gatom
 gcatest
 gcrma
 gdsfmt
@@ -895,6 +900,7 @@ ssPATHS
 sscu
 ssize
 ssrch
+stageR
 statTarget
 stepNorm
 struct
