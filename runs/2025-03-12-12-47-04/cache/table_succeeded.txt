@@ -617,3 +617,6 @@
 ['[EnMCB](https://bioconductor.org/packages/3.20/bioc/html/EnMCB.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/EnMCB/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EnMCB)']
 ['[OmnipathR](https://bioconductor.org/packages/3.20/bioc/html/OmnipathR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/OmnipathR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OmnipathR)']
 ['[matter](https://bioconductor.org/packages/3.20/bioc/html/matter.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/matter/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/matter)']
+['[GEOsubmission](https://bioconductor.org/packages/3.20/bioc/html/GEOsubmission.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GEOsubmission/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GEOsubmission)']
+['[GSEAlm](https://bioconductor.org/packages/3.20/bioc/html/GSEAlm.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GSEAlm/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSEAlm)']
+['[twoddpcr](https://bioconductor.org/packages/3.20/bioc/html/twoddpcr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/twoddpcr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/twoddpcr)']

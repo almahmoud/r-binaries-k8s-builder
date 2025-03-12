@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 619 packages built successfully
+- 622 packages built successfully
 - 11 packages failed to build
-- 1603 packages not yet processed
+- 1600 packages not yet processed
 
 ## Failed Builds (11)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -23,7 +23,7 @@
 | [gpuMagic](https://bioconductor.org/packages/3.20/bioc/html/gpuMagic.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/gpuMagic/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gpuMagic)     | Compilation failed:  ‘gpuMagic’     |
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
 
-## Successfully Built (619)
+## Successfully Built (622)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -645,8 +645,11 @@
 | [EnMCB](https://bioconductor.org/packages/3.20/bioc/html/EnMCB.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/EnMCB/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EnMCB)                   |
 | [OmnipathR](https://bioconductor.org/packages/3.20/bioc/html/OmnipathR.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/OmnipathR/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OmnipathR)               |
 | [matter](https://bioconductor.org/packages/3.20/bioc/html/matter.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/matter/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/matter)                  |
+| [GEOsubmission](https://bioconductor.org/packages/3.20/bioc/html/GEOsubmission.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/GEOsubmission/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GEOsubmission)           |
+| [GSEAlm](https://bioconductor.org/packages/3.20/bioc/html/GSEAlm.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/GSEAlm/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSEAlm)                  |
+| [twoddpcr](https://bioconductor.org/packages/3.20/bioc/html/twoddpcr.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/twoddpcr/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/twoddpcr)                |
 
-## Not Yet Processed (1603)
+## Not Yet Processed (1600)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -917,7 +920,6 @@
 | [GENESIS](https://bioconductor.org/packages/3.20/bioc/html/GENESIS.html)                                         | Unprocessed |
 | [GEOexplorer](https://bioconductor.org/packages/3.20/bioc/html/GEOexplorer.html)                                 | Unprocessed |
 | [GEOquery](https://bioconductor.org/packages/3.20/bioc/html/GEOquery.html)                                       | Unprocessed |
-| [GEOsubmission](https://bioconductor.org/packages/3.20/bioc/html/GEOsubmission.html)                             | Unprocessed |
 | [GMRP](https://bioconductor.org/packages/3.20/bioc/html/GMRP.html)                                               | Unprocessed |
 | [GNET2](https://bioconductor.org/packages/3.20/bioc/html/GNET2.html)                                             | Unprocessed |
 | [GNOSIS](https://bioconductor.org/packages/3.20/bioc/html/GNOSIS.html)                                           | Unprocessed |
@@ -931,7 +933,6 @@
 | [GRmetrics](https://bioconductor.org/packages/3.20/bioc/html/GRmetrics.html)                                     | Unprocessed |
 | [GSEABase](https://bioconductor.org/packages/3.20/bioc/html/GSEABase.html)                                       | Unprocessed |
 | [GSEABenchmarkeR](https://bioconductor.org/packages/3.20/bioc/html/GSEABenchmarkeR.html)                         | Unprocessed |
-| [GSEAlm](https://bioconductor.org/packages/3.20/bioc/html/GSEAlm.html)                                           | Unprocessed |
 | [GSRI](https://bioconductor.org/packages/3.20/bioc/html/GSRI.html)                                               | Unprocessed |
 | [GSReg](https://bioconductor.org/packages/3.20/bioc/html/GSReg.html)                                             | Unprocessed |
 | [GSVA](https://bioconductor.org/packages/3.20/bioc/html/GSVA.html)                                               | Unprocessed |
@@ -2220,7 +2221,6 @@
 | [trigger](https://bioconductor.org/packages/3.20/bioc/html/trigger.html)                                         | Unprocessed |
 | [triplex](https://bioconductor.org/packages/3.20/bioc/html/triplex.html)                                         | Unprocessed |
 | [tweeDEseq](https://bioconductor.org/packages/3.20/bioc/html/tweeDEseq.html)                                     | Unprocessed |
-| [twoddpcr](https://bioconductor.org/packages/3.20/bioc/html/twoddpcr.html)                                       | Unprocessed |
 | [txcutr](https://bioconductor.org/packages/3.20/bioc/html/txcutr.html)                                           | Unprocessed |
 | [txdbmaker](https://bioconductor.org/packages/3.20/bioc/html/txdbmaker.html)                                     | Unprocessed |
 | [tximeta](https://bioconductor.org/packages/3.20/bioc/html/tximeta.html)                                         | Unprocessed |

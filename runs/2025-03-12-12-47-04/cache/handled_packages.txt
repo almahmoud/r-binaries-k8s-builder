@@ -108,6 +108,7 @@ GEM
 GENIE3
 GEOfastq
 GEOmetadb
+GEOsubmission
 GEWIST
 GGPA
 GIGSEA
@@ -117,6 +118,7 @@ GRENITS
 GSALightning
 GSAR
 GSCA
+GSEAlm
 GSEAmining
 GSgalgoR
 GWAS.BAYES
@@ -617,6 +619,7 @@ trio
 tripr
 ttgsea
 twilight
+twoddpcr
 tximport
 unifiedWMWqPCR
 variancePartition

@@ -4145,7 +4145,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "GEOsubmission": [],
   "GLAD": [],
   "GMRP": [
     "GenomicRanges",
@@ -4342,7 +4341,6 @@
     "annotate",
     "Biostrings"
   ],
-  "GSEAlm": [],
   "GSRI": [
     "genefilter",
     "GSEABase",
@@ -23629,7 +23627,6 @@
   "tweeDEseq": [
     "edgeR"
   ],
-  "twoddpcr": [],
   "txcutr": [
     "AnnotationDbi",
     "GenomicFeatures",
