@@ -1338,3 +1338,4 @@ sSNAPPY
 GENESIS
 VariantExperiment
 alabaster.se
+sampleClassifier

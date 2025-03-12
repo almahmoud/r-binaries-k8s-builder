@@ -331,7 +331,6 @@
   "CHETAH": [
     "SingleCellExperiment"
   ],
-  "CHRONOS": [],
   "CINdex": [],
   "CNEr": [
     "rtracklayer"
@@ -1320,7 +1319,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "InterCellar": [],
   "InteractionSet": [],
   "IsoBayes": [],
   "IsoformSwitchAnalyzeR": [
@@ -1440,7 +1438,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "MGFR": [],
   "MGnifyR": [
     "MultiAssayExperiment",
     "TreeSummarizedExperiment",
@@ -3730,7 +3727,6 @@
   "ggcyto": [
     "flowWorkspace"
   ],
-  "ggmanh": [],
   "ggsc": [
     "SingleCellExperiment"
   ],
@@ -4917,9 +4913,7 @@
   "sRACIPE": [],
   "sSNAPPY": [],
   "safe": [],
-  "sampleClassifier": [
-    "MGFR"
-  ],
+  "sampleClassifier": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",

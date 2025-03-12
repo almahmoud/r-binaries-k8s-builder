@@ -86,6 +86,7 @@ CGHbase
 CGHcall
 CGHnormaliter
 CGHregions
+CHRONOS
 CIMICE
 CMA
 CNAnorm
@@ -260,6 +261,7 @@ ISoLDE
 IWTomics
 Icens
 Informeasure
+InterCellar
 InteractiveComplexHeatmap
 IntramiRExploreR
 IsoCorrectoR
@@ -292,6 +294,7 @@ MDTS
 MEDME
 MEIGOR
 MGFM
+MGFR
 MLP
 MMUPHin
 MODA
@@ -754,6 +757,7 @@ genomicInstability
 getDEE2
 geva
 ggkegg
+ggmanh
 ggmsa
 ggseqalign
 ggtree
@@ -862,6 +866,7 @@ miRBaseConverter
 miRNApath
 miRNAtap
 miRcomp
+microRNA
 mina
 minet
 mirIntegrator
