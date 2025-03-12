@@ -1209,3 +1209,5 @@ TDbasedUFEadv
 clusterProfiler
 enrichViewNet
 meshes
+sangeranalyseR
+scifer

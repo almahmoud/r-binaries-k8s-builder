@@ -591,6 +591,7 @@ epialleleR
 epistasisGA
 epivizrServer
 erccdashboard
+esetVis
 fCI
 fabia
 factDesign
@@ -641,6 +642,7 @@ gcrma
 gdsfmt
 geNetClassifier
 gemini
+gemma.R
 genArise
 geneClassifiers
 geneRecommender
@@ -649,6 +651,7 @@ geneplast
 genoCN
 genomeIntervals
 genomes
+getDEE2
 geva
 ggkegg
 ggmsa
@@ -864,6 +867,7 @@ rsemmed
 runibic
 sSeq
 sagenhaft
+sangerseqR
 sarks
 satuRn
 scBubbletree

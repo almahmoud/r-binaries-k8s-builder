@@ -4483,7 +4483,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "esetVis": [],
   "eudysbiome": [],
   "evaluomeR": [
     "MultiAssayExperiment"
@@ -4625,7 +4624,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "gemma.R": [],
   "geneAttribution": [
     "GenomicFeatures",
     "rtracklayer",
@@ -4661,7 +4659,6 @@
   "gep2pep": [
     "GSEABase"
   ],
-  "getDEE2": [],
   "gg4way": [
     "DESeq2"
   ],
@@ -6133,10 +6130,7 @@
     "MGFR",
     "biomaRt"
   ],
-  "sangeranalyseR": [
-    "sangerseqR"
-  ],
-  "sangerseqR": [],
+  "sangeranalyseR": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -6348,9 +6342,7 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "scifer": [
-    "sangerseqR"
-  ],
+  "scifer": [],
   "scmap": [
     "SingleCellExperiment"
   ],

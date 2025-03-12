@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 956 packages built successfully
+- 960 packages built successfully
 - 16 packages failed to build
-- 1261 packages not yet processed
+- 1257 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (956)
+## Successfully Built (960)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -987,8 +987,12 @@
 | [doseR](https://bioconductor.org/packages/3.20/bioc/html/doseR.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/doseR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/doseR)                     |
 | [findIPs](https://bioconductor.org/packages/3.20/bioc/html/findIPs.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/findIPs/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/findIPs)                   |
 | [wpm](https://bioconductor.org/packages/3.20/bioc/html/wpm.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/wpm/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/wpm)                       |
+| [esetVis](https://bioconductor.org/packages/3.20/bioc/html/esetVis.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/esetVis/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/esetVis)                   |
+| [gemma.R](https://bioconductor.org/packages/3.20/bioc/html/gemma.R.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/gemma.R/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gemma.R)                   |
+| [getDEE2](https://bioconductor.org/packages/3.20/bioc/html/getDEE2.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/getDEE2/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/getDEE2)                   |
+| [sangerseqR](https://bioconductor.org/packages/3.20/bioc/html/sangerseqR.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/sangerseqR/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sangerseqR)                |
 
-## Not Yet Processed (1261)
+## Not Yet Processed (1257)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1788,7 +1792,6 @@
 | [esATAC](https://bioconductor.org/packages/3.20/bioc/html/esATAC.html)                                           | Unprocessed |
 | [escape](https://bioconductor.org/packages/3.20/bioc/html/escape.html)                                           | Unprocessed |
 | [escheR](https://bioconductor.org/packages/3.20/bioc/html/escheR.html)                                           | Unprocessed |
-| [esetVis](https://bioconductor.org/packages/3.20/bioc/html/esetVis.html)                                         | Unprocessed |
 | [eudysbiome](https://bioconductor.org/packages/3.20/bioc/html/eudysbiome.html)                                   | Unprocessed |
 | [evaluomeR](https://bioconductor.org/packages/3.20/bioc/html/evaluomeR.html)                                     | Unprocessed |
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                                   | Unprocessed |
@@ -1815,7 +1818,6 @@
 | [gINTomics](https://bioconductor.org/packages/3.20/bioc/html/gINTomics.html)                                     | Unprocessed |
 | [gage](https://bioconductor.org/packages/3.20/bioc/html/gage.html)                                               | Unprocessed |
 | [gcapc](https://bioconductor.org/packages/3.20/bioc/html/gcapc.html)                                             | Unprocessed |
-| [gemma.R](https://bioconductor.org/packages/3.20/bioc/html/gemma.R.html)                                         | Unprocessed |
 | [geneAttribution](https://bioconductor.org/packages/3.20/bioc/html/geneAttribution.html)                         | Unprocessed |
 | [geneXtendeR](https://bioconductor.org/packages/3.20/bioc/html/geneXtendeR.html)                                 | Unprocessed |
 | [genefilter](https://bioconductor.org/packages/3.20/bioc/html/genefilter.html)                                   | Unprocessed |
@@ -1824,7 +1826,6 @@
 | [genomicInstability](https://bioconductor.org/packages/3.20/bioc/html/genomicInstability.html)                   | Unprocessed |
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                                     | Unprocessed |
 | [gep2pep](https://bioconductor.org/packages/3.20/bioc/html/gep2pep.html)                                         | Unprocessed |
-| [getDEE2](https://bioconductor.org/packages/3.20/bioc/html/getDEE2.html)                                         | Unprocessed |
 | [gg4way](https://bioconductor.org/packages/3.20/bioc/html/gg4way.html)                                           | Unprocessed |
 | [ggbio](https://bioconductor.org/packages/3.20/bioc/html/ggbio.html)                                             | Unprocessed |
 | [ggcyto](https://bioconductor.org/packages/3.20/bioc/html/ggcyto.html)                                           | Unprocessed |
@@ -2100,7 +2101,6 @@
 | [safe](https://bioconductor.org/packages/3.20/bioc/html/safe.html)                                               | Unprocessed |
 | [sampleClassifier](https://bioconductor.org/packages/3.20/bioc/html/sampleClassifier.html)                       | Unprocessed |
 | [sangeranalyseR](https://bioconductor.org/packages/3.20/bioc/html/sangeranalyseR.html)                           | Unprocessed |
-| [sangerseqR](https://bioconductor.org/packages/3.20/bioc/html/sangerseqR.html)                                   | Unprocessed |
 | [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                             | Unprocessed |
 | [scAnnotatR](https://bioconductor.org/packages/3.20/bioc/html/scAnnotatR.html)                                   | Unprocessed |
 | [scBFA](https://bioconductor.org/packages/3.20/bioc/html/scBFA.html)                                             | Unprocessed |
