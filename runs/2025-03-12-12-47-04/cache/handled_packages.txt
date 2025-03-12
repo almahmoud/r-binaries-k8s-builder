@@ -112,6 +112,7 @@ DeMAND
 DeconRNASeq
 DeepPINCS
 DelayedArray
+DelayedMatrixStats
 DelayedRandomArray
 DepInfeR
 DepecheR
@@ -391,6 +392,7 @@ TSAR
 TargetDecoy
 TargetScore
 TargetSearch
+TileDBArray
 TrajectoryGeometry
 TreeAndLeaf
 TurboNorm
@@ -807,6 +809,7 @@ timescape
 tkWidgets
 tomoseqr
 topconfects
+transite
 transomics2cytoscape
 treeio
 trio

@@ -815,3 +815,6 @@ chromDraw
 cleaver
 coRdon
 target
+DelayedMatrixStats
+TileDBArray
+transite
