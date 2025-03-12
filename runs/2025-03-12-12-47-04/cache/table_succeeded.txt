@@ -662,3 +662,4 @@
 ['[panp](https://bioconductor.org/packages/3.20/bioc/html/panp.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/panp/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/panp)']
 ['[pvca](https://bioconductor.org/packages/3.20/bioc/html/pvca.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/pvca/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pvca)']
 ['[updateObject](https://bioconductor.org/packages/3.20/bioc/html/updateObject.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/updateObject/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/updateObject)']
+['[IntramiRExploreR](https://bioconductor.org/packages/3.20/bioc/html/IntramiRExploreR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/IntramiRExploreR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/IntramiRExploreR)']

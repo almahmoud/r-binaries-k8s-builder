@@ -167,6 +167,7 @@ ISAnalytics
 ISoLDE
 Icens
 Informeasure
+IntramiRExploreR
 IsoCorrectoR
 IsoCorrectoRGUI
 KBoost

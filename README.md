@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 664 packages built successfully
+- 665 packages built successfully
 - 12 packages failed to build
-- 1557 packages not yet processed
+- 1556 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
 | [Rtreemix](https://bioconductor.org/packages/3.20/bioc/html/Rtreemix.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Rtreemix/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rtreemix)     | Build failed with unknown error     |
 
-## Successfully Built (664)
+## Successfully Built (665)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -691,8 +691,9 @@
 | [panp](https://bioconductor.org/packages/3.20/bioc/html/panp.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/panp/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/panp)                    |
 | [pvca](https://bioconductor.org/packages/3.20/bioc/html/pvca.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/pvca/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pvca)                    |
 | [updateObject](https://bioconductor.org/packages/3.20/bioc/html/updateObject.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/updateObject/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/updateObject)            |
+| [IntramiRExploreR](https://bioconductor.org/packages/3.20/bioc/html/IntramiRExploreR.html)               | Built    | [Log](runs/2025-03-12-12-47-04/logs/IntramiRExploreR/build-success.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/IntramiRExploreR)        |
 
-## Not Yet Processed (1557)
+## Not Yet Processed (1556)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1048,7 +1049,6 @@
 | [InterCellar](https://bioconductor.org/packages/3.20/bioc/html/InterCellar.html)                                 | Unprocessed |
 | [InteractionSet](https://bioconductor.org/packages/3.20/bioc/html/InteractionSet.html)                           | Unprocessed |
 | [InteractiveComplexHeatmap](https://bioconductor.org/packages/3.20/bioc/html/InteractiveComplexHeatmap.html)     | Unprocessed |
-| [IntramiRExploreR](https://bioconductor.org/packages/3.20/bioc/html/IntramiRExploreR.html)                       | Unprocessed |
 | [IsoBayes](https://bioconductor.org/packages/3.20/bioc/html/IsoBayes.html)                                       | Unprocessed |
 | [IsoformSwitchAnalyzeR](https://bioconductor.org/packages/3.20/bioc/html/IsoformSwitchAnalyzeR.html)             | Unprocessed |
 | [KEGGREST](https://bioconductor.org/packages/3.20/bioc/html/KEGGREST.html)                                       | Unprocessed |

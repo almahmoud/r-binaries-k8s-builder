@@ -662,3 +662,4 @@ pvca
 RCy3
 Rgraphviz
 updateObject
+IntramiRExploreR
