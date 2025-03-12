@@ -82,6 +82,7 @@ DepInfeR
 DepecheR
 DiffLogo
 Director
+Doscheda
 DriverNet
 DynDoc
 EBImage
@@ -152,6 +153,7 @@ KBoost
 KCsmart
 KinSwingR
 LBE
+LEA
 LPE
 LedPred
 Linnorm
@@ -164,6 +166,7 @@ MPFE
 MSstats
 MSstatsBig
 MSstatsConvert
+MSstatsLOBD
 MSstatsTMT
 MVCClass
 MantelCorr
@@ -188,6 +191,7 @@ NanoTube
 NetPathMiner
 NormqPCR
 NuPoP
+OCplus
 OLIN
 OLINgui
 OPWeight
@@ -201,8 +205,10 @@ PCAN
 PLPE
 PROcess
 Path2PPI
+PhenStat
 PhenoGeneRanker
 PoDCall
+ProtGenerics
 QUBIC
 QuaternaryProd
 RAREsim
@@ -369,6 +375,7 @@ eds
 eiR
 epistasisGA
 epivizrServer
+fCI
 fabia
 factDesign
 faers
@@ -476,6 +483,7 @@ mixOmics
 multiClust
 multiscan
 multtest
+nethet
 netprioR
 nnNorm
 normalize450K
