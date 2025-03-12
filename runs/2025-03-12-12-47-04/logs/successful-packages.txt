@@ -273,3 +273,14 @@ twilight
 UNDO
 viper
 Wrench
+ANF
+CMA
+dcanr
+hopach
+iBMQ
+iterativeBMA
+lapmix
+maSigPro
+OrderedList
+PROcess
+sparseMatrixStats

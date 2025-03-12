@@ -2,6 +2,7 @@ ABSSeq
 ACME
 AMOUNTAIN
 ANCOMBC
+ANF
 ARRmNormalization
 ASAFE
 ASEB
@@ -36,6 +37,7 @@ CARNIVAL
 CFAssay
 CGEN
 CGHbase
+CMA
 CONSTANd
 COSNet
 CausalR
@@ -98,6 +100,8 @@ NuPoP
 OLIN
 OSAT
 Omixer
+OrderedList
+PROcess
 QuaternaryProd
 RAREsim
 RBM
@@ -161,6 +165,7 @@ clustComp
 coGPS
 cqn
 daMA
+dcanr
 deltaGseg
 demuxmix
 diffGeneAnalysis
@@ -193,17 +198,22 @@ graper
 gypsum
 hca
 hierGWAS
+hopach
 hypeR
+iBMQ
 iCOBRA
 iChip
 iPath
 illuminaio
 immunotation
+iterativeBMA
+lapmix
 limma
 limmaGUI
 lmdme
 logicFS
 maCorrPlot
+maSigPro
 magrene
 marray
 metaCCA
@@ -245,6 +255,7 @@ sitePath
 sizepower
 snm
 snpStats
+sparseMatrixStats
 sparsenetgls
 specL
 spikeLI
