@@ -479,13 +479,10 @@
     "impute"
   ],
   "AnVIL": [],
-  "AnVILGCP": [],
   "AnVILPublish": [
-    "AnVIL",
-    "AnVILGCP"
+    "AnVIL"
   ],
   "AnVILWorkflow": [
-    "AnVILGCP",
     "AnVIL"
   ],
   "Anaquin": [
@@ -1946,7 +1943,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "COMPASS": [],
   "CONFESS": [
     "EBImage",
     "flowCore",
@@ -2590,7 +2586,6 @@
     "Biostrings",
     "GenomicRanges",
     "IRanges",
-    "HilbertVis",
     "ShortRead",
     "XVector",
     "GenomeInfoDb",
@@ -3763,7 +3758,6 @@
     "Rhdf5lib",
     "XVector"
   ],
-  "DepInfeR": [],
   "DiffBind": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -3976,7 +3970,6 @@
     "UCSC.utils"
   ],
   "EBSeq": [],
-  "EBcoexpress": [],
   "EDASeq": [
     "ShortRead",
     "IRanges",
@@ -5169,7 +5162,6 @@
     "Rhdf5lib",
     "rhdf5filters"
   ],
-  "GWAS.BAYES": [],
   "GWASTools": [],
   "GWENA": [
     "SummarizedExperiment",
@@ -6113,10 +6105,7 @@
     "XVector",
     "UCSC.utils"
   ],
-  "HilbertVis": [],
-  "HilbertVisGUI": [
-    "HilbertVis"
-  ],
+  "HilbertVisGUI": [],
   "HoloFoodR": [
     "TreeSummarizedExperiment",
     "MultiAssayExperiment",
@@ -7530,19 +7519,15 @@
     "XVector"
   ],
   "MSstats": [
-    "MSstatsConvert",
     "preprocessCore"
   ],
   "MSstatsBig": [
     "MSstats",
-    "MSstatsConvert",
     "preprocessCore"
   ],
-  "MSstatsConvert": [],
   "MSstatsLOBD": [],
   "MSstatsLiP": [
     "MSstats",
-    "MSstatsConvert",
     "Biostrings",
     "MSstatsPTM",
     "S4Vectors",
@@ -7555,7 +7540,6 @@
   ],
   "MSstatsPTM": [
     "MSstatsTMT",
-    "MSstatsConvert",
     "MSstats",
     "Biostrings",
     "S4Vectors",
@@ -7624,7 +7608,6 @@
     "MSstats",
     "MSstatsTMT",
     "MSstatsPTM",
-    "MSstatsConvert",
     "preprocessCore",
     "Biostrings",
     "S4Vectors",
@@ -7635,7 +7618,6 @@
   ],
   "MSstatsTMT": [
     "MSstats",
-    "MSstatsConvert",
     "preprocessCore"
   ],
   "MWASTools": [
@@ -8560,7 +8542,6 @@
     "RCy3",
     "Rgraphviz"
   ],
-  "NPARC": [],
   "NanoMethViz": [
     "S4Vectors",
     "SummarizedExperiment",
@@ -11114,7 +11095,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "SCFA": [],
   "SCOPE": [
     "GenomicRanges",
     "IRanges",
@@ -14020,7 +14000,6 @@
     "IRanges",
     "S4Vectors",
     "KEGGREST",
-    "MSstatsConvert",
     "preprocessCore",
     "Biostrings",
     "XVector",
@@ -17238,7 +17217,6 @@
   "dupRadar": [
     "Rsubread"
   ],
-  "dyebias": [],
   "easier": [
     "progeny",
     "decoupleR",
@@ -17303,7 +17281,6 @@
     "SparseArray"
   ],
   "easyreporting": [],
-  "ecolitk": [],
   "edge": [
     "sva",
     "genefilter",
@@ -17631,7 +17608,6 @@
   ],
   "epistasisGA": [],
   "epivizr": [
-    "epivizrServer",
     "epivizrData",
     "GenomicRanges",
     "S4Vectors",
@@ -17664,7 +17640,6 @@
   ],
   "epivizrChart": [
     "epivizrData",
-    "epivizrServer",
     "S4Vectors",
     "GenomicRanges",
     "SummarizedExperiment",
@@ -17694,7 +17669,6 @@
     "biomaRt"
   ],
   "epivizrData": [
-    "epivizrServer",
     "S4Vectors",
     "GenomicRanges",
     "SummarizedExperiment",
@@ -17723,10 +17697,8 @@
     "BiocIO",
     "biomaRt"
   ],
-  "epivizrServer": [],
   "epivizrStandalone": [
     "epivizr",
-    "epivizrServer",
     "GenomeInfoDb",
     "GenomicFeatures",
     "S4Vectors",
@@ -17963,7 +17935,6 @@
     "SparseArray"
   ],
   "fCI": [],
-  "factDesign": [],
   "factR": [
     "Biostrings",
     "GenomeInfoDb",
@@ -18624,7 +18595,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "genArise": [],
   "geneAttribution": [
     "GenomicRanges",
     "GenomeInfoDb",
@@ -19423,8 +19393,6 @@
   "hypergraph": [
     "graph"
   ],
-  "iBBiG": [],
-  "iCARE": [],
   "iCNV": [
     "CODEX",
     "Rsamtools",
@@ -19482,7 +19450,6 @@
     "Rhdf5lib",
     "Rhtslib"
   ],
-  "iClusterPlus": [],
   "iNETgrate": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -19688,7 +19655,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "iSeq": [],
   "iasva": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -19701,7 +19667,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "ibh": [],
   "icetea": [
     "GenomicFeatures",
     "ShortRead",
@@ -21187,7 +21152,6 @@
     "UCSC.utils"
   ],
   "miRSM": [
-    "iBBiG",
     "BicARE",
     "SummarizedExperiment",
     "GSEABase",
@@ -25396,7 +25360,6 @@
     "S4Vectors",
     "scran",
     "epivizrData",
-    "epivizrServer",
     "scater",
     "SingleCellExperiment",
     "GenomicRanges",
@@ -27262,7 +27225,6 @@
   ],
   "ternarynet": [],
   "terraTCGAdata": [
-    "AnVILGCP",
     "MultiAssayExperiment",
     "AnVIL",
     "GenomicRanges",

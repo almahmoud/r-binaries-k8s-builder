@@ -15,6 +15,7 @@ AlphaMissenseR
 AnVILAz
 AnVILBase
 AnVILBilling
+AnVILGCP
 BADER
 BAGS
 BEclear
@@ -42,6 +43,7 @@ CGEN
 CGHbase
 CGHregions
 CMA
+COMPASS
 CONSTANd
 COSNet
 CausalR
@@ -63,10 +65,12 @@ DNAcopy
 DTA
 DeMAND
 DeconRNASeq
+DepInfeR
 DepecheR
 DiffLogo
 DriverNet
 EBarrays
+EBcoexpress
 EmpiricalBrownsMethod
 EnhancedVolcano
 FitHiC
@@ -82,6 +86,7 @@ GSALightning
 GSAR
 GSEAmining
 GSgalgoR
+GWAS.BAYES
 GeneGA
 GeneOverlap
 GeneticsPed
@@ -91,6 +96,7 @@ HPAanalyze
 HPiP
 Harman
 Heatplus
+HilbertVis
 HubPub
 HybridMTest
 INTACT
@@ -98,6 +104,7 @@ Icens
 KBoost
 LPE
 LedPred
+MSstatsConvert
 MVCClass
 MantelCorr
 MassSpecWavelet
@@ -110,6 +117,7 @@ ModCon
 Mulcom
 MultiMed
 NOISeq
+NPARC
 NTW
 NanoStringDiff
 NetPathMiner
@@ -138,6 +146,7 @@ RedeR
 RedisParam
 SBMLR
 SCBN
+SCFA
 SLqPCR
 SMAD
 SNAGEE
@@ -212,8 +221,12 @@ dir.expiry
 discordant
 dks
 drawProteins
+dyebias
+ecolitk
 eiR
+epivizrServer
 fabia
+factDesign
 faers
 fastreeR
 fenr
@@ -227,6 +240,7 @@ frenchFISH
 garfield
 gdsfmt
 gemini
+genArise
 geneClassifiers
 geneplast
 genoCN
@@ -248,11 +262,16 @@ hierinf
 hopach
 hypeR
 iASeq
+iBBiG
 iBMQ
+iCARE
 iCOBRA
 iChip
+iClusterPlus
 iGC
 iPath
+iSeq
+ibh
 illuminaio
 immunotation
 iterativeBMA

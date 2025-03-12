@@ -574,3 +574,4 @@ a4Classif
 gaga
 mbQTL
 metaSeq
+HilbertVisGUI
