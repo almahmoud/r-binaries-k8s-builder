@@ -1,7 +1,1 @@
-CCPlotR
-ClustAll
-InteractiveComplexHeatmap
-MAPFX
-cola
-gDRstyle
-simona
+MEIGOR

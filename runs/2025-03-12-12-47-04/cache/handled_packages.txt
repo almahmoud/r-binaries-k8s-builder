@@ -62,6 +62,10 @@ CGHregions
 CIMICE
 CMA
 CNAnorm
+CNORdt
+CNORfeeder
+CNORfuzzy
+CNORode
 COMPASS
 CONSTANd
 COSNet

@@ -1200,10 +1200,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "CNORdt": [],
-  "CNORfeeder": [],
-  "CNORfuzzy": [],
-  "CNORode": [],
   "CNTools": [
     "genefilter",
     "AnnotationDbi",
@@ -4956,9 +4952,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "MEIGOR": [
-    "CNORode"
-  ],
+  "MEIGOR": [],
   "MGFM": [
     "AnnotationDbi",
     "annotate",

@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 702 packages built successfully
+- 706 packages built successfully
 - 12 packages failed to build
-- 1519 packages not yet processed
+- 1515 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [graper](https://bioconductor.org/packages/3.20/bioc/html/graper.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/graper/build-fail.log)       | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/graper)    | Build failed with unknown error     |
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 
-## Successfully Built (702)
+## Successfully Built (706)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -729,8 +729,12 @@
 | [fgga](https://bioconductor.org/packages/3.20/bioc/html/fgga.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/fgga/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fgga)                    |
 | [BiocCheck](https://bioconductor.org/packages/3.20/bioc/html/BiocCheck.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/BiocCheck/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BiocCheck)               |
 | [ComplexHeatmap](https://bioconductor.org/packages/3.20/bioc/html/ComplexHeatmap.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/ComplexHeatmap/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ComplexHeatmap)          |
+| [CNORdt](https://bioconductor.org/packages/3.20/bioc/html/CNORdt.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/CNORdt/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNORdt)                  |
+| [CNORfeeder](https://bioconductor.org/packages/3.20/bioc/html/CNORfeeder.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/CNORfeeder/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNORfeeder)              |
+| [CNORfuzzy](https://bioconductor.org/packages/3.20/bioc/html/CNORfuzzy.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/CNORfuzzy/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNORfuzzy)               |
+| [CNORode](https://bioconductor.org/packages/3.20/bioc/html/CNORode.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/CNORode/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNORode)                 |
 
-## Not Yet Processed (1519)
+## Not Yet Processed (1515)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -826,10 +830,6 @@
 | [CHRONOS](https://bioconductor.org/packages/3.20/bioc/html/CHRONOS.html)                                         | Unprocessed |
 | [CINdex](https://bioconductor.org/packages/3.20/bioc/html/CINdex.html)                                           | Unprocessed |
 | [CNEr](https://bioconductor.org/packages/3.20/bioc/html/CNEr.html)                                               | Unprocessed |
-| [CNORdt](https://bioconductor.org/packages/3.20/bioc/html/CNORdt.html)                                           | Unprocessed |
-| [CNORfeeder](https://bioconductor.org/packages/3.20/bioc/html/CNORfeeder.html)                                   | Unprocessed |
-| [CNORfuzzy](https://bioconductor.org/packages/3.20/bioc/html/CNORfuzzy.html)                                     | Unprocessed |
-| [CNORode](https://bioconductor.org/packages/3.20/bioc/html/CNORode.html)                                         | Unprocessed |
 | [CNTools](https://bioconductor.org/packages/3.20/bioc/html/CNTools.html)                                         | Unprocessed |
 | [CNVMetrics](https://bioconductor.org/packages/3.20/bioc/html/CNVMetrics.html)                                   | Unprocessed |
 | [CNVPanelizer](https://bioconductor.org/packages/3.20/bioc/html/CNVPanelizer.html)                               | Unprocessed |
