@@ -1,9 +1,2 @@
-ExperimentHub
-GenomicScores
-SVMDO
-cTRAP
-customCMPdb
-enrichplot
-ipdDb
-ontoProc
-rGenomeTracks
+MetMashR
+structToolbox

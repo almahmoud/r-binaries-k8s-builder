@@ -843,6 +843,7 @@ rpx
 rqubic
 rsbml
 rsemmed
+runibic
 sSeq
 sagenhaft
 sarks
@@ -888,11 +889,14 @@ specL
 spikeLI
 spkTools
 splots
+spqn
+ssPATHS
 sscu
 ssize
 ssrch
 statTarget
 stepNorm
+struct
 subSeq
 survcomp
 swfdr
@@ -905,12 +909,14 @@ tanggle
 target
 ternarynet
 tidyFlowCore
+tidySummarizedExperiment
 tidysbml
 tidytof
 timeOmics
 timecourse
 timescape
 tkWidgets
+tomoda
 tomoseqr
 topconfects
 transite

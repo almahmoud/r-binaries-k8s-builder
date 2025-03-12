@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 924 packages built successfully
+- 930 packages built successfully
 - 16 packages failed to build
-- 1293 packages not yet processed
+- 1287 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (924)
+## Successfully Built (930)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -955,8 +955,14 @@
 | [DOSE](https://bioconductor.org/packages/3.20/bioc/html/DOSE.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/DOSE/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DOSE)                      |
 | [sigFeature](https://bioconductor.org/packages/3.20/bioc/html/sigFeature.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/sigFeature/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sigFeature)                |
 | [snapcount](https://bioconductor.org/packages/3.20/bioc/html/snapcount.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/snapcount/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/snapcount)                 |
+| [runibic](https://bioconductor.org/packages/3.20/bioc/html/runibic.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/runibic/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/runibic)                   |
+| [spqn](https://bioconductor.org/packages/3.20/bioc/html/spqn.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/spqn/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spqn)                      |
+| [ssPATHS](https://bioconductor.org/packages/3.20/bioc/html/ssPATHS.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/ssPATHS/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ssPATHS)                   |
+| [struct](https://bioconductor.org/packages/3.20/bioc/html/struct.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/struct/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/struct)                    |
+| [tidySummarizedExperiment](https://bioconductor.org/packages/3.20/bioc/html/tidySummarizedExperiment.html)   | Built    | [Log](runs/2025-03-12-12-47-04/logs/tidySummarizedExperiment/build-success.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tidySummarizedExperiment)  |
+| [tomoda](https://bioconductor.org/packages/3.20/bioc/html/tomoda.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/tomoda/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tomoda)                    |
 
-## Not Yet Processed (1293)
+## Not Yet Processed (1287)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -2081,7 +2087,6 @@
 | [rqt](https://bioconductor.org/packages/3.20/bioc/html/rqt.html)                                                 | Unprocessed |
 | [rrvgo](https://bioconductor.org/packages/3.20/bioc/html/rrvgo.html)                                             | Unprocessed |
 | [rtracklayer](https://bioconductor.org/packages/3.20/bioc/html/rtracklayer.html)                                 | Unprocessed |
-| [runibic](https://bioconductor.org/packages/3.20/bioc/html/runibic.html)                                         | Unprocessed |
 | [sRACIPE](https://bioconductor.org/packages/3.20/bioc/html/sRACIPE.html)                                         | Unprocessed |
 | [sSNAPPY](https://bioconductor.org/packages/3.20/bioc/html/sSNAPPY.html)                                         | Unprocessed |
 | [safe](https://bioconductor.org/packages/3.20/bioc/html/safe.html)                                               | Unprocessed |
@@ -2171,15 +2176,12 @@
 | [splatter](https://bioconductor.org/packages/3.20/bioc/html/splatter.html)                                       | Unprocessed |
 | [splineTimeR](https://bioconductor.org/packages/3.20/bioc/html/splineTimeR.html)                                 | Unprocessed |
 | [spoon](https://bioconductor.org/packages/3.20/bioc/html/spoon.html)                                             | Unprocessed |
-| [spqn](https://bioconductor.org/packages/3.20/bioc/html/spqn.html)                                               | Unprocessed |
 | [squallms](https://bioconductor.org/packages/3.20/bioc/html/squallms.html)                                       | Unprocessed |
-| [ssPATHS](https://bioconductor.org/packages/3.20/bioc/html/ssPATHS.html)                                         | Unprocessed |
 | [ssviz](https://bioconductor.org/packages/3.20/bioc/html/ssviz.html)                                             | Unprocessed |
 | [stJoincount](https://bioconductor.org/packages/3.20/bioc/html/stJoincount.html)                                 | Unprocessed |
 | [stageR](https://bioconductor.org/packages/3.20/bioc/html/stageR.html)                                           | Unprocessed |
 | [standR](https://bioconductor.org/packages/3.20/bioc/html/standR.html)                                           | Unprocessed |
 | [strandCheckR](https://bioconductor.org/packages/3.20/bioc/html/strandCheckR.html)                               | Unprocessed |
-| [struct](https://bioconductor.org/packages/3.20/bioc/html/struct.html)                                           | Unprocessed |
 | [structToolbox](https://bioconductor.org/packages/3.20/bioc/html/structToolbox.html)                             | Unprocessed |
 | [supersigs](https://bioconductor.org/packages/3.20/bioc/html/supersigs.html)                                     | Unprocessed |
 | [surfaltr](https://bioconductor.org/packages/3.20/bioc/html/surfaltr.html)                                       | Unprocessed |
@@ -2204,12 +2206,10 @@
 | [tidyCoverage](https://bioconductor.org/packages/3.20/bioc/html/tidyCoverage.html)                               | Unprocessed |
 | [tidySingleCellExperiment](https://bioconductor.org/packages/3.20/bioc/html/tidySingleCellExperiment.html)       | Unprocessed |
 | [tidySpatialExperiment](https://bioconductor.org/packages/3.20/bioc/html/tidySpatialExperiment.html)             | Unprocessed |
-| [tidySummarizedExperiment](https://bioconductor.org/packages/3.20/bioc/html/tidySummarizedExperiment.html)       | Unprocessed |
 | [tidybulk](https://bioconductor.org/packages/3.20/bioc/html/tidybulk.html)                                       | Unprocessed |
 | [tidyomics](https://bioconductor.org/packages/3.20/bioc/html/tidyomics.html)                                     | Unprocessed |
 | [tigre](https://bioconductor.org/packages/3.20/bioc/html/tigre.html)                                             | Unprocessed |
 | [tilingArray](https://bioconductor.org/packages/3.20/bioc/html/tilingArray.html)                                 | Unprocessed |
-| [tomoda](https://bioconductor.org/packages/3.20/bioc/html/tomoda.html)                                           | Unprocessed |
 | [topGO](https://bioconductor.org/packages/3.20/bioc/html/topGO.html)                                             | Unprocessed |
 | [topdownr](https://bioconductor.org/packages/3.20/bioc/html/topdownr.html)                                       | Unprocessed |
 | [tpSVG](https://bioconductor.org/packages/3.20/bioc/html/tpSVG.html)                                             | Unprocessed |

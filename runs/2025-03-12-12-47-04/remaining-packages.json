@@ -1972,9 +1972,7 @@
   "Melissa": [
     "BPRMeth"
   ],
-  "MetMashR": [
-    "struct"
-  ],
+  "MetMashR": [],
   "MetNet": [],
   "MetaNeighbor": [
     "SingleCellExperiment"
@@ -5231,8 +5229,7 @@
     "AnnotationFilter"
   ],
   "metabolomicsWorkbenchR": [
-    "MultiAssayExperiment",
-    "struct"
+    "MultiAssayExperiment"
   ],
   "metagene2": [
     "rtracklayer",
@@ -6258,7 +6255,6 @@
   "rtracklayer": [
     "GenomicAlignments"
   ],
-  "runibic": [],
   "sRACIPE": [],
   "sSNAPPY": [
     "graphite"
@@ -6816,7 +6812,6 @@
     "SingleCellExperiment",
     "beachmat"
   ],
-  "spqn": [],
   "squallms": [
     "xcms",
     "MSnbase",
@@ -6827,7 +6822,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "ssPATHS": [],
   "ssviz": [],
   "stJoincount": [
     "SpatialExperiment",
@@ -6850,10 +6844,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "struct": [],
-  "structToolbox": [
-    "struct"
-  ],
+  "structToolbox": [],
   "supersigs": [],
   "surfaltr": [
     "biomaRt",
@@ -6965,10 +6956,8 @@
     "tidySingleCellExperiment",
     "SingleCellExperiment"
   ],
-  "tidySummarizedExperiment": [],
   "tidybulk": [],
   "tidyomics": [
-    "tidySummarizedExperiment",
     "tidySingleCellExperiment",
     "tidybulk",
     "plyranges",
@@ -6982,7 +6971,6 @@
   "tilingArray": [
     "genefilter"
   ],
-  "tomoda": [],
   "topGO": [],
   "topdownr": [
     "MSnbase",

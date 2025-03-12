@@ -922,3 +922,9 @@ BLMA
 DOSE
 sigFeature
 snapcount
+runibic
+spqn
+ssPATHS
+struct
+tidySummarizedExperiment
+tomoda
