@@ -1,1 +1,9 @@
-ggmsa
+ClustIRR
+IMMAN
+LinTInd
+MSstatsLiP
+MSstatsShiny
+MethTargetedNGS
+QSutils
+ggseqalign
+sangerseqR

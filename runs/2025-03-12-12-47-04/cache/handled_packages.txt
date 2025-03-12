@@ -223,6 +223,7 @@ MSstats
 MSstatsBig
 MSstatsConvert
 MSstatsLOBD
+MSstatsPTM
 MSstatsTMT
 MVCClass
 Maaslin2
@@ -246,6 +247,7 @@ MsBackendMassbank
 MsBackendMetaboLights
 MsBackendMgf
 MsBackendMsp
+MsBackendSql
 MsCoreUtils
 Mulcom
 MultiMed
@@ -368,6 +370,7 @@ SpaceMarkers
 SparseArray
 SpeCond
 Spectra
+SpectraQL
 Streamer
 Summix
 SwathXtend
@@ -521,6 +524,7 @@ flowPloidy
 flowPlots
 flowSpecs
 flowTime
+flowTrans
 flowViz
 flowcatchR
 fmcsR
@@ -686,12 +690,14 @@ projectR
 proteinProfiles
 pvac
 pvca
+pwalign
 qckitfastq
 qcmetrics
 qpcrNorm
 quantsmooth
 qusage
 qvalue
+rBLAST
 rBiopaxParser
 rWikiPathways
 rain

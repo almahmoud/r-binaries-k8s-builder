@@ -861,3 +861,12 @@ ROntoTools
 SynExtend
 transomics2cytoscape
 ggmsa
+ClustIRR
+IMMAN
+LinTInd
+MSstatsLiP
+MSstatsShiny
+MethTargetedNGS
+QSutils
+ggseqalign
+sangerseqR

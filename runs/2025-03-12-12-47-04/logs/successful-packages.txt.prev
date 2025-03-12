@@ -782,3 +782,9 @@ KEGGREST
 MetaCyto
 MsBackendMetaboLights
 R4RNA
+flowTrans
+MsBackendSql
+MSstatsPTM
+pwalign
+rBLAST
+SpectraQL
