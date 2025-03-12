@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 628 packages built successfully
+- 631 packages built successfully
 - 11 packages failed to build
-- 1594 packages not yet processed
+- 1591 packages not yet processed
 
 ## Failed Builds (11)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -23,7 +23,7 @@
 | [gpuMagic](https://bioconductor.org/packages/3.20/bioc/html/gpuMagic.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/gpuMagic/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gpuMagic)     | Compilation failed:  ‘gpuMagic’     |
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
 
-## Successfully Built (628)
+## Successfully Built (631)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -654,8 +654,11 @@
 | [CardinalIO](https://bioconductor.org/packages/3.20/bioc/html/CardinalIO.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/CardinalIO/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CardinalIO)              |
 | [mosbi](https://bioconductor.org/packages/3.20/bioc/html/mosbi.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/mosbi/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mosbi)                   |
 | [wppi](https://bioconductor.org/packages/3.20/bioc/html/wppi.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/wppi/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/wppi)                    |
+| [ExiMiR](https://bioconductor.org/packages/3.20/bioc/html/ExiMiR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/ExiMiR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ExiMiR)                  |
+| [Rnits](https://bioconductor.org/packages/3.20/bioc/html/Rnits.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/Rnits/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rnits)                   |
+| [parglms](https://bioconductor.org/packages/3.20/bioc/html/parglms.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/parglms/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/parglms)                 |
 
-## Not Yet Processed (1594)
+## Not Yet Processed (1591)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -899,7 +902,6 @@
 | [EpipwR](https://bioconductor.org/packages/3.20/bioc/html/EpipwR.html)                                           | Unprocessed |
 | [EventPointer](https://bioconductor.org/packages/3.20/bioc/html/EventPointer.html)                               | Unprocessed |
 | [ExCluster](https://bioconductor.org/packages/3.20/bioc/html/ExCluster.html)                                     | Unprocessed |
-| [ExiMiR](https://bioconductor.org/packages/3.20/bioc/html/ExiMiR.html)                                           | Unprocessed |
 | [ExperimentHub](https://bioconductor.org/packages/3.20/bioc/html/ExperimentHub.html)                             | Unprocessed |
 | [ExperimentHubData](https://bioconductor.org/packages/3.20/bioc/html/ExperimentHubData.html)                     | Unprocessed |
 | [ExperimentSubset](https://bioconductor.org/packages/3.20/bioc/html/ExperimentSubset.html)                       | Unprocessed |
@@ -1269,7 +1271,6 @@
 | [Rmmquant](https://bioconductor.org/packages/3.20/bioc/html/Rmmquant.html)                                       | Unprocessed |
 | [RnBeads](https://bioconductor.org/packages/3.20/bioc/html/RnBeads.html)                                         | Unprocessed |
 | [RnaSeqSampleSize](https://bioconductor.org/packages/3.20/bioc/html/RnaSeqSampleSize.html)                       | Unprocessed |
-| [Rnits](https://bioconductor.org/packages/3.20/bioc/html/Rnits.html)                                             | Unprocessed |
 | [RolDE](https://bioconductor.org/packages/3.20/bioc/html/RolDE.html)                                             | Unprocessed |
 | [Rqc](https://bioconductor.org/packages/3.20/bioc/html/Rqc.html)                                                 | Unprocessed |
 | [Rsamtools](https://bioconductor.org/packages/3.20/bioc/html/Rsamtools.html)                                     | Unprocessed |
@@ -1954,7 +1955,6 @@
 | [pairkat](https://bioconductor.org/packages/3.20/bioc/html/pairkat.html)                                         | Unprocessed |
 | [panelcn.mops](https://bioconductor.org/packages/3.20/bioc/html/panelcn.mops.html)                               | Unprocessed |
 | [panp](https://bioconductor.org/packages/3.20/bioc/html/panp.html)                                               | Unprocessed |
-| [parglms](https://bioconductor.org/packages/3.20/bioc/html/parglms.html)                                         | Unprocessed |
 | [partCNV](https://bioconductor.org/packages/3.20/bioc/html/partCNV.html)                                         | Unprocessed |
 | [pathRender](https://bioconductor.org/packages/3.20/bioc/html/pathRender.html)                                   | Unprocessed |
 | [pathlinkR](https://bioconductor.org/packages/3.20/bioc/html/pathlinkR.html)                                     | Unprocessed |

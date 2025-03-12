@@ -100,6 +100,7 @@ EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
 EpiDISH
+ExiMiR
 FGNet
 FISHalyseR
 FRGEpistasis
@@ -267,6 +268,7 @@ Rfastp
 Rhdf5lib
 Rhtslib
 Rmagpie
+Rnits
 Rsubread
 Rtpca
 S4Vectors
@@ -518,6 +520,7 @@ ompBAM
 onlineFDR
 oppti
 pandaR
+parglms
 parody
 pathifier
 pathwayPCA

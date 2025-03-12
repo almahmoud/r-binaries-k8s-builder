@@ -3545,7 +3545,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "ExiMiR": [],
   "ExperimentHub": [
     "AnnotationHub",
     "AnnotationDbi",
@@ -8695,7 +8694,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "Rnits": [],
   "RolDE": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -18392,7 +18390,6 @@
     "Biostrings"
   ],
   "panp": [],
-  "parglms": [],
   "partCNV": [
     "SingleCellExperiment",
     "AnnotationHub",

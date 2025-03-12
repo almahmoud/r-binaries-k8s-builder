@@ -626,3 +626,6 @@
 ['[CardinalIO](https://bioconductor.org/packages/3.20/bioc/html/CardinalIO.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CardinalIO/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CardinalIO)']
 ['[mosbi](https://bioconductor.org/packages/3.20/bioc/html/mosbi.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/mosbi/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mosbi)']
 ['[wppi](https://bioconductor.org/packages/3.20/bioc/html/wppi.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/wppi/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/wppi)']
+['[ExiMiR](https://bioconductor.org/packages/3.20/bioc/html/ExiMiR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ExiMiR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ExiMiR)']
+['[Rnits](https://bioconductor.org/packages/3.20/bioc/html/Rnits.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Rnits/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rnits)']
+['[parglms](https://bioconductor.org/packages/3.20/bioc/html/parglms.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/parglms/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/parglms)']
