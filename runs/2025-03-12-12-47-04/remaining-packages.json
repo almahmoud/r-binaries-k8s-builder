@@ -6,7 +6,6 @@
     "IRanges",
     "GenomeInfoDb",
     "XVector",
-    "CGHcall",
     "Rsamtools",
     "UCSC.utils",
     "Biostrings"
@@ -192,7 +191,6 @@
     "Biostrings"
   ],
   "ASICS": [
-    "PepsNMR",
     "ropls",
     "SummarizedExperiment",
     "MultiAssayExperiment",
@@ -1529,10 +1527,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "CGHcall": [],
-  "CGHnormaliter": [
-    "CGHcall"
-  ],
+  "CGHnormaliter": [],
   "CHETAH": [
     "SingleCellExperiment",
     "S4Vectors",
@@ -4102,7 +4097,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "FGNet": [],
   "FLAMES": [
     "bambu",
     "Biostrings",
@@ -4421,7 +4415,6 @@
     "XVector"
   ],
   "GEOsubmission": [],
-  "GGPA": [],
   "GLAD": [],
   "GMRP": [
     "GenomicRanges",
@@ -4802,7 +4795,6 @@
   ],
   "GeneBreak": [
     "QDNAseq",
-    "CGHcall",
     "GenomicRanges",
     "S4Vectors",
     "IRanges",
@@ -5918,9 +5910,7 @@
     "S4Vectors",
     "IRanges"
   ],
-  "IntramiRExploreR": [
-    "FGNet"
-  ],
+  "IntramiRExploreR": [],
   "IsoBayes": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -8495,7 +8485,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "PepsNMR": [],
   "PhIPData": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -8714,7 +8703,6 @@
     "SparseArray"
   ],
   "QDNAseq": [
-    "CGHcall",
     "GenomicRanges",
     "IRanges",
     "Rsamtools",
@@ -13254,7 +13242,6 @@
     "AnnotationDbi",
     "OrganismDbi",
     "GenomicFeatures",
-    "CGHcall",
     "GenomicAlignments",
     "BiocIO",
     "KEGGREST",
@@ -13813,7 +13800,6 @@
     "S4Vectors",
     "UCSC.utils",
     "XVector",
-    "CGHcall",
     "Biostrings"
   ],
   "cghMCR": [
@@ -18645,7 +18631,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "mdp": [],
   "megadepth": [
     "GenomicRanges",
     "S4Vectors",

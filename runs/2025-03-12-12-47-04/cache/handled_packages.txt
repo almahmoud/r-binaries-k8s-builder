@@ -48,6 +48,7 @@ CARNIVAL
 CFAssay
 CGEN
 CGHbase
+CGHcall
 CGHregions
 CIMICE
 CMA
@@ -92,6 +93,7 @@ EMDomics
 EmpiricalBrownsMethod
 EnhancedVolcano
 EpiDISH
+FGNet
 FISHalyseR
 FRGEpistasis
 FamAgg
@@ -102,6 +104,7 @@ GENIE3
 GEOfastq
 GEOmetadb
 GEWIST
+GGPA
 GIGSEA
 GLAD
 GPA
@@ -205,6 +208,7 @@ PCAN
 PLPE
 PROcess
 Path2PPI
+PepsNMR
 PhenStat
 PhenoGeneRanker
 PoDCall
@@ -461,6 +465,7 @@ martini
 massiR
 matchBox
 mbQTL
+mdp
 mdqc
 messina
 metaCCA

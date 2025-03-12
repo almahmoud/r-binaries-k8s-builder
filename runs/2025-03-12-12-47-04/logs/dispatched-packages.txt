@@ -659,3 +659,5 @@ statTarget
 matter
 mzID
 mzR
+CGHnormaliter
+IntramiRExploreR
