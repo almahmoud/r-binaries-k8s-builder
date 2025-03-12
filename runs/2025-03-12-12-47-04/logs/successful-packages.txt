@@ -611,3 +611,9 @@ PathNet
 S4Vectors
 statTarget
 TrajectoryGeometry
+CGHnormaliter
+Cormotif
+DEGseq
+EnMCB
+matter
+OmnipathR

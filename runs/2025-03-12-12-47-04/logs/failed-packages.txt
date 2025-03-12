@@ -8,3 +8,4 @@ ternarynet
 eiR
 flowPeaks
 gpuMagic
+EBSeq

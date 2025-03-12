@@ -1436,7 +1436,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "CGHnormaliter": [],
   "CHETAH": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -1840,12 +1839,9 @@
     "UCSC.utils"
   ],
   "Cardinal": [
-    "CardinalIO",
-    "matter"
+    "CardinalIO"
   ],
-  "CardinalIO": [
-    "matter"
-  ],
+  "CardinalIO": [],
   "Category": [
     "AnnotationDbi",
     "RBGL",
@@ -2541,7 +2537,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "Cormotif": [],
   "CoverageView": [
     "Rsamtools",
     "rtracklayer",
@@ -2738,7 +2733,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "DEGseq": [],
   "DELocal": [
     "DESeq2",
     "SummarizedExperiment",
@@ -3592,7 +3586,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "EnMCB": [],
   "EnrichDO": [
     "Rgraphviz",
     "clusterProfiler",
@@ -7549,7 +7542,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "OmnipathR": [],
   "OncoScore": [
     "biomaRt",
     "AnnotationDbi",
@@ -15718,7 +15710,6 @@
   ],
   "gINTomics": [
     "biomaRt",
-    "OmnipathR",
     "edgeR",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -17473,7 +17464,6 @@
     "XVector",
     "Biostrings"
   ],
-  "matter": [],
   "mbkmeans": [
     "DelayedArray",
     "SingleCellExperiment",
@@ -23972,9 +23962,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "wppi": [
-    "OmnipathR"
-  ],
+  "wppi": [],
   "xcms": [
     "MSnbase",
     "mzR",

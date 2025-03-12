@@ -49,6 +49,7 @@ CFAssay
 CGEN
 CGHbase
 CGHcall
+CGHnormaliter
 CGHregions
 CIMICE
 CMA
@@ -66,9 +67,11 @@ ClusterJudge
 ClusterSignificance
 ComPrAn
 ConsensusClusterPlus
+Cormotif
 CytoGLMM
 DART
 DCATS
+DEGseq
 DEqMS
 DEsingle
 DFP
@@ -87,10 +90,12 @@ Doscheda
 DriverNet
 DynDoc
 EBImage
+EBSeq
 EBarrays
 EBcoexpress
 EMDomics
 EmpiricalBrownsMethod
+EnMCB
 EnhancedVolcano
 EpiDISH
 FGNet
@@ -202,6 +207,7 @@ OPWeight
 OSAT
 OmicsMLRepoR
 Omixer
+OmnipathR
 OpenStats
 OrderedList
 PANR
@@ -468,6 +474,7 @@ marray
 martini
 massiR
 matchBox
+matter
 mbQTL
 mdp
 mdqc
