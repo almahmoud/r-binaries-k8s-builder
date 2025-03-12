@@ -26,63 +26,131 @@ mkdir -p "runs/${RUN_ID}/logs"
 # Get all jobs in namespace with app=bioc-builder label
 JOBS=$(kubectl get jobs -n ${NAMESPACE} -l app=bioc-builder -o custom-columns=NAME:.metadata.name,PKG:.metadata.labels.pkg --no-headers)
 
-# Process each job
-echo "${JOBS}" | while read -r JOB_NAME PKG; do
-    if [ -z "${JOB_NAME}" ]; then
-        continue
+# Check and increment retry counter
+RETRY_COUNT_FILE="runs/${RUN_ID}/retry_count"
+if [ ! -f "${RETRY_COUNT_FILE}" ]; then
+    echo "0" > "${RETRY_COUNT_FILE}"
+fi
+RETRY_COUNT=$(cat "${RETRY_COUNT_FILE}")
+
+# Function to check for lock errors and handle retries
+check_and_retry() {
+    local has_lock_error=0
+    local retry_needed=0
+    
+    # Check for lock directory errors
+    if find "runs/${RUN_ID}/logs" -type f -name "build-fail.log" -exec grep -l "failed to lock directory" {} \; | grep -q .; then
+        has_lock_error=1
     fi
     
-    echo "Processing job: ${JOB_NAME} (Package: ${PKG})..."
-
-    # Get job status
-    SUCCEEDED=$(kubectl get job "${JOB_NAME}" -n ${NAMESPACE} \
-                -o jsonpath='{.status.conditions[?(@.type=="Complete")].status}')
-    FAILED=$(kubectl get job "${JOB_NAME}" -n ${NAMESPACE} \
-             -o jsonpath='{.status.conditions[?(@.type=="Failed")].status}')
-
-    # Skip if job is still running
-    if [ "$SUCCEEDED" != "True" ] && [ "$FAILED" != "True" ]; then
-        echo "  Job still in progress, skipping..."
-        continue
+    # Force retry for first 3 attempts
+    if [ "${RETRY_COUNT}" -lt 3 ]; then
+        retry_needed=1
     fi
+    
+    # Retry if we have lock errors (up to max 10 times)
+    if [ "${has_lock_error}" -eq 1 ] && [ "${RETRY_COUNT}" -lt 10 ]; then
+        retry_needed=1
+    fi
+    
+    if [ "${retry_needed}" -eq 1 ]; then
+        echo "Attempting retry ${RETRY_COUNT}/10..."
+        echo "$((RETRY_COUNT + 1))" > "${RETRY_COUNT_FILE}"
+        
+        # Reset failed packages
+        bash .github/scripts/reset_failed.sh "${RUN_ID}"
+        
+        # Find and dispatch new packages
+        python .github/scripts/find_ready_pkgs.py \
+            "runs/${RUN_ID}/biocdeps.json" \
+            "runs/${RUN_ID}/ready_packages.txt" \
+            "runs/${RUN_ID}/logs/dispatched-packages.txt" \
+            "runs/${RUN_ID}/logs/successful-packages.txt" \
+            "runs/${RUN_ID}/remaining-packages.json"
+            
+        if [ -s "runs/${RUN_ID}/ready_packages.txt" ]; then
+            CONTAINER=$(cat "runs/${RUN_ID}/CONTAINER_BASE_IMAGE.bioc")
+            cat "runs/${RUN_ID}/ready_packages.txt" | \
+                xargs -i bash -c "bash .github/scripts/dispatch_k8s_job.sh {} ${CONTAINER} bioc-pvc-${RUN_ID} ${RUN_ID} && sleep 1"
+            return 1  # Continue retrying
+        fi
+    fi
+    return 0  # No more retries needed
+}
 
-    # Create package log directory
-    LOG_DIR="runs/${RUN_ID}/logs/${PKG}"
-    mkdir -p "${LOG_DIR}"
-    TMP_LOG="${LOG_DIR}/temp.log"
+# Process jobs with retry logic
+while true; do
+    # Process current batch of jobs
+    echo "${JOBS}" | while read -r JOB_NAME PKG; do
+        if [ -z "${JOB_NAME}" ]; then
+            continue
+        fi
+        
+        echo "Processing job: ${JOB_NAME} (Package: ${PKG})..."
 
-    # Copy logs from PVC via busybox pod
-    echo "  Copying logs from cluster..."
-    if ! kubectl cp "${BUSYBOX_POD}:/mnt/logs/${PKG}.log" "${TMP_LOG}" -n ${NAMESPACE} >/dev/null 2>&1; then
-        echo "  Log file not found, marking as failed..."
-        echo "Build failed: Log file missing" > "${LOG_DIR}/build-fail.log"
-        rm -f "${TMP_LOG}"
-        echo "$PKG" >> "${FAILED_PKGS}"
-    else
-        # Check for both download and successful packaging
-        TARBALL_EXISTS=0
-        if grep -qE "/${PKG}_[^[:space:]]+\.tar\.gz" "${TMP_LOG}" && \
-           grep -q "packaged installation of.*${PKG}_.*\.tar\.gz" "${TMP_LOG}"; then
-            TARBALL_EXISTS=1
-            echo "  Verified package download and successful packaging"
+        # Get job status
+        SUCCEEDED=$(kubectl get job "${JOB_NAME}" -n ${NAMESPACE} \
+                    -o jsonpath='{.status.conditions[?(@.type=="Complete")].status}')
+        FAILED=$(kubectl get job "${JOB_NAME}" -n ${NAMESPACE} \
+                 -o jsonpath='{.status.conditions[?(@.type=="Failed")].status}')
+
+        # Skip if job is still running
+        if [ "$SUCCEEDED" != "True" ] && [ "$FAILED" != "True" ]; then
+            echo "  Job still in progress, skipping..."
+            continue
         fi
 
-        # Determine final status
-        if [ "$SUCCEEDED" = "True" ] && [ $TARBALL_EXISTS -eq 1 ]; then
-            mv "${TMP_LOG}" "${LOG_DIR}/build-success.log"
-            echo "  Build succeeded with verified packaging"
-            echo "$PKG" >> "${SUCCESS_PKGS}"
-        else
-            mv "${TMP_LOG}" "${LOG_DIR}/build-fail.log"
-            echo "  Build failed or package verification failed"
+        # Create package log directory
+        LOG_DIR="runs/${RUN_ID}/logs/${PKG}"
+        mkdir -p "${LOG_DIR}"
+        TMP_LOG="${LOG_DIR}/temp.log"
+
+        # Copy logs from PVC via busybox pod
+        echo "  Copying logs from cluster..."
+        if ! kubectl cp "${BUSYBOX_POD}:/mnt/logs/${PKG}.log" "${TMP_LOG}" -n ${NAMESPACE} >/dev/null 2>&1; then
+            echo "  Log file not found, marking as failed..."
+            echo "Build failed: Log file missing" > "${LOG_DIR}/build-fail.log"
+            rm -f "${TMP_LOG}"
             echo "$PKG" >> "${FAILED_PKGS}"
+        else
+            # Check for both download and successful packaging
+            TARBALL_EXISTS=0
+            if grep -qE "/${PKG}_[^[:space:]]+\.tar\.gz" "${TMP_LOG}" && \
+               grep -q "packaged installation of.*${PKG}_.*\.tar\.gz" "${TMP_LOG}"; then
+                TARBALL_EXISTS=1
+                echo "  Verified package download and successful packaging"
+            fi
+
+            # Determine final status
+            if [ "$SUCCEEDED" = "True" ] && [ $TARBALL_EXISTS -eq 1 ]; then
+                mv "${TMP_LOG}" "${LOG_DIR}/build-success.log"
+                echo "  Build succeeded with verified packaging"
+                echo "$PKG" >> "${SUCCESS_PKGS}"
+            else
+                mv "${TMP_LOG}" "${LOG_DIR}/build-fail.log"
+                echo "  Build failed or package verification failed"
+                echo "$PKG" >> "${FAILED_PKGS}"
+            fi
         fi
+
+        # Clean up completed job
+        echo "  Deleting completed job..."
+        kubectl delete job "${JOB_NAME}" -n ${NAMESPACE} --wait=false >/dev/null 2>&1
+
+    done
+    
+    # Check if we should retry
+    if check_and_retry; then
+        break
     fi
-
-    # Clean up completed job
-    echo "  Deleting completed job..."
-    kubectl delete job "${JOB_NAME}" -n ${NAMESPACE} --wait=false >/dev/null 2>&1
-
+    
+    # Get fresh list of jobs after retry
+    JOBS=$(kubectl get jobs -n ${NAMESPACE} -l app=bioc-builder -o custom-columns=NAME:.metadata.name,PKG:.metadata.labels.pkg --no-headers)
+    
+    # Break if no jobs left
+    if [ -z "${JOBS}" ]; then
+        break
+    fi
 done
 
-echo "Handled complete for run: ${RUN_ID}"
+echo "Handled complete for run: ${RUN_ID} after $(cat ${RETRY_COUNT_FILE}) retries"

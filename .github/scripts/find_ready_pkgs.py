@@ -2,7 +2,7 @@
 import json
 import argparse
 
-def find_independent_packages(input_file, output_file, dispatched_file, successful_file):
+def find_independent_packages(input_file, output_file, dispatched_file, successful_file, remaining_file):
     """
     Identify build-ready packages excluding dispatched and successful packages
     
@@ -11,6 +11,7 @@ def find_independent_packages(input_file, output_file, dispatched_file, successf
         output_file (str): Path to write ready packages list
         dispatched_file (str): Path to dispatched packages list
         successful_file (str): Path to successful packages list
+        remaining_file (str): Path to write remaining dependencies JSON
     """
     try:
         # Load dispatched packages (these stay in graph but can't be ready)
@@ -40,6 +41,10 @@ def find_independent_packages(input_file, output_file, dispatched_file, successf
             if pkg not in successful
         }
 
+        # Save remaining dependencies for human inspection
+        with open(remaining_file, 'w') as f:
+            json.dump(filtered_deps, f, indent=2, sort_keys=True)
+
         # Find ready packages (not dispatched, no remaining deps)
         independent = sorted([
             pkg for pkg, deps in filtered_deps.items()
@@ -67,6 +72,7 @@ if __name__ == "__main__":
     parser.add_argument('output_file', help='Path to output ready packages list')
     parser.add_argument('dispatched_file', help='Path to dispatched packages list')
     parser.add_argument('successful_file', help='Path to successful packages list')
+    parser.add_argument('remaining_file', help='Path to write remaining dependencies JSON')
     
     args = parser.parse_args()
     
@@ -74,5 +80,6 @@ if __name__ == "__main__":
         args.input_file,
         args.output_file,
         args.dispatched_file,
-        args.successful_file
+        args.successful_file,
+        args.remaining_file
     )

@@ -50,15 +50,37 @@ spec:
         command: ["/bin/bash", "-c"]
         args:
         - |
-          export LIBRARY="/mnt/library"
+          set -euxo pipefail
+          export TEMP_LIBRARY="/tmp/library"
+          export SHARED_LIBRARY="/mnt/library"
           export TARDIR="/mnt/tarballs"
           export LOGDIR="/mnt/logs"
-          mkdir -p \${TARDIR} \${LOGDIR} \${LIBRARY}
+          
+          # Create directories
+          mkdir -p \${TARDIR} \${LOGDIR} \${TEMP_LIBRARY} \${SHARED_LIBRARY}
+          
+          # Record initial temp library state (should be empty)
+          ls -1 \${TEMP_LIBRARY} > /tmp/initial_libs.txt || touch /tmp/initial_libs.txt
+          
+          # Install package using both libraries (temp first for new installations)
+          cd /
           (time Rscript -e "Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
             p <- .libPaths();
-            p <- c('\${LIBRARY}', p);
+            p <- c('${TEMP_LIBRARY}', '${SHARED_LIBRARY}', p);
             .libPaths(p);
             if(BiocManager::install('${PKG}', INSTALL_opts = '--build', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)" 2>&1 ) 2>&1 | tee \${LOGDIR}/${PKG}.log
+          
+          # Move new packages to shared library
+          cd \${TEMP_LIBRARY}
+          ls -1 > /tmp/final_libs.txt
+          comm -13 /tmp/initial_libs.txt /tmp/final_libs.txt | while read pkg; do
+            if [ -d "\${pkg}" ]; then
+              cp -r "\${pkg}" "\${SHARED_LIBRARY}/"
+            fi
+          done
+          
+          # Handle build artifacts
+          cd /
           echo "Tarballs Detected: \$(ls *.tar.gz)"
           mv *.tar.gz \${TARDIR}/
           echo "Build artifacts stored in \${TARDIR}"

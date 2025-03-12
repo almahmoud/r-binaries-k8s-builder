@@ -122,7 +122,8 @@ jobs:
             "runs/${RUN_ID}/biocdeps.json" \
             "runs/${RUN_ID}/ready_packages.txt" \
             "runs/${RUN_ID}/logs/dispatched-packages.txt" \
-            "runs/${RUN_ID}/logs/successful-packages.txt"
+            "runs/${RUN_ID}/logs/successful-packages.txt" \
+            "runs/${RUN_ID}/remaining-packages.json"
           
           # Dispatch jobs with xargs and delay
           cat "runs/${RUN_ID}/ready_packages.txt" | xargs -i bash -c "bash ./.github/scripts/dispatch_k8s_job.sh {} ${CONTAINER} bioc-pvc-${RUN_ID} ${RUN_ID} && sleep 1"

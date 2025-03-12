@@ -1,0 +1,7545 @@
+{
+  "ACE": [
+    "QDNAseq",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "ADAPT": [
+    "phyloseq",
+    "biomformat",
+    "rhdf5"
+  ],
+  "ADImpute": [
+    "BiocParallel"
+  ],
+  "ADaCGH2": [
+    "GLAD"
+  ],
+  "AHMassBank": [
+    "AnnotationHubData",
+    "GenomicFeatures",
+    "Rsamtools",
+    "rtracklayer",
+    "OrganismDbi",
+    "txdbmaker",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "ALDEx2": [
+    "BiocParallel"
+  ],
+  "AMARETTO": [
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "APAlyzer": [
+    "GenomicFeatures",
+    "GenomicAlignments",
+    "DESeq2",
+    "rtracklayer",
+    "VariantAnnotation",
+    "Rsamtools",
+    "BiocParallel",
+    "BSgenome"
+  ],
+  "ASICS": [
+    "BiocParallel"
+  ],
+  "ASSIGN": [
+    "sva",
+    "BiocParallel"
+  ],
+  "ASpli": [
+    "GenomicFeatures",
+    "GenomicAlignments",
+    "Gviz",
+    "Rsamtools",
+    "txdbmaker",
+    "BiocParallel",
+    "rtracklayer",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "VariantAnnotation"
+  ],
+  "ATACseqQC": [
+    "BSgenome",
+    "ChIPpeakAnno",
+    "GenomicAlignments",
+    "GenomicScores",
+    "Rsamtools",
+    "rtracklayer",
+    "motifStack",
+    "BiocParallel",
+    "GenomicFeatures",
+    "regioneR",
+    "ensembldb",
+    "rhdf5",
+    "HDF5Array",
+    "TFBSTools",
+    "CNEr"
+  ],
+  "ATACseqTFEA": [
+    "GenomicAlignments",
+    "Rsamtools",
+    "motifmatchr",
+    "TFBSTools",
+    "rtracklayer",
+    "BiocParallel",
+    "BSgenome",
+    "CNEr"
+  ],
+  "AffiXcan": [
+    "BiocParallel"
+  ],
+  "AgiMicroRna": [
+    "affycoretools",
+    "ReportingTools",
+    "Glimma",
+    "DESeq2",
+    "ggbio",
+    "BiocParallel",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "VariantAnnotation",
+    "rtracklayer",
+    "GenomicFeatures",
+    "OrganismDbi",
+    "ensembldb",
+    "txdbmaker"
+  ],
+  "AllelicImbalance": [
+    "GenomicAlignments",
+    "BSgenome",
+    "VariantAnnotation",
+    "Rsamtools",
+    "GenomicFeatures",
+    "Gviz",
+    "rtracklayer",
+    "BiocParallel",
+    "ensembldb",
+    "biovizBase"
+  ],
+  "AlphaBeta": [
+    "BiocParallel"
+  ],
+  "AlpsNMR": [
+    "mixOmics",
+    "BiocParallel"
+  ],
+  "AnVILBilling": [],
+  "Anaquin": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "AneuFinder": [
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "AnnotationHubData": [
+    "GenomicFeatures",
+    "Rsamtools",
+    "rtracklayer",
+    "OrganismDbi",
+    "txdbmaker",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "ArrayExpress": [
+    "oligo",
+    "affxparser"
+  ],
+  "BANDITS": [
+    "DRIMSeq",
+    "BiocParallel"
+  ],
+  "BASiCS": [
+    "scran",
+    "scuttle",
+    "BiocParallel",
+    "BiocSingular",
+    "bluster"
+  ],
+  "BASiCStan": [
+    "BASiCS",
+    "glmGamPoi",
+    "scran",
+    "scuttle",
+    "BiocParallel",
+    "HDF5Array",
+    "BiocSingular",
+    "bluster",
+    "rhdf5"
+  ],
+  "BBCAnalyzer": [
+    "VariantAnnotation",
+    "Rsamtools",
+    "BiocParallel",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "GenomicAlignments"
+  ],
+  "BEAT": [
+    "ShortRead",
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "BERT": [
+    "sva",
+    "BiocParallel"
+  ],
+  "BEclear": [
+    "BiocParallel"
+  ],
+  "BOBaFIT": [
+    "ggbio",
+    "plyranges",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "VariantAnnotation",
+    "rtracklayer",
+    "GenomicFeatures",
+    "OrganismDbi",
+    "ensembldb",
+    "BiocParallel",
+    "txdbmaker"
+  ],
+  "BSgenome": [
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "BSgenomeForge": [
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "BUSpaRse": [
+    "BSgenome",
+    "ensembldb",
+    "GenomicFeatures",
+    "plyranges",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "BaalChIP": [
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "BadRegionFinder": [
+    "VariantAnnotation",
+    "Rsamtools",
+    "BiocParallel",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "GenomicAlignments"
+  ],
+  "Basic4Cseq": [
+    "GenomicAlignments",
+    "BSgenome",
+    "Rsamtools",
+    "BiocParallel",
+    "rtracklayer"
+  ],
+  "BasicSTARRseq": [
+    "GenomicAlignments",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "BatchQC": [
+    "DESeq2",
+    "scran",
+    "sva",
+    "BiocParallel",
+    "scuttle",
+    "BiocSingular",
+    "bluster"
+  ],
+  "BayesSpace": [
+    "scater",
+    "scran",
+    "rhdf5",
+    "BiocSingular",
+    "BiocParallel",
+    "scuttle",
+    "bluster"
+  ],
+  "BgeeCall": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "rhdf5",
+    "txdbmaker",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "BgeeDB": [
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "BiSeq": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "BindingSiteFinder": [
+    "rtracklayer",
+    "GenomicFeatures",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "BioCor": [
+    "BiocParallel"
+  ],
+  "BioNAR": [
+    "fgsea",
+    "BiocParallel"
+  ],
+  "BioNERO": [
+    "sva",
+    "BiocParallel"
+  ],
+  "BioTIP": [
+    "scran",
+    "scuttle",
+    "BiocParallel",
+    "BiocSingular",
+    "bluster"
+  ],
+  "BiocParallel": [],
+  "BiocSingular": [
+    "BiocParallel"
+  ],
+  "BubbleTree": [
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "VariantAnnotation",
+    "ensembldb",
+    "rtracklayer",
+    "BiocParallel",
+    "BSgenome"
+  ],
+  "CAFE": [
+    "biovizBase",
+    "ggbio",
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "VariantAnnotation",
+    "ensembldb",
+    "BSgenome",
+    "rtracklayer",
+    "OrganismDbi",
+    "BiocParallel",
+    "txdbmaker"
+  ],
+  "CAGEfightR": [
+    "rtracklayer",
+    "GenomicFeatures",
+    "GenomicAlignments",
+    "BiocParallel",
+    "GenomicFiles",
+    "Gviz",
+    "GenomicInteractions",
+    "Rsamtools",
+    "VariantAnnotation",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase"
+  ],
+  "CAGEr": [
+    "BiocParallel",
+    "BSgenome",
+    "CAGEfightR",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "Rsamtools",
+    "rtracklayer",
+    "GenomicFiles",
+    "Gviz",
+    "GenomicInteractions",
+    "VariantAnnotation",
+    "ensembldb",
+    "biovizBase"
+  ],
+  "CAMERA": [
+    "xcms",
+    "BiocParallel",
+    "MSnbase",
+    "MsExperiment",
+    "Spectra",
+    "MetaboCoreUtils",
+    "PSMatch"
+  ],
+  "CATALYST": [
+    "flowCore",
+    "FlowSOM",
+    "scater",
+    "cytolib",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "CBEA": [
+    "BiocParallel",
+    "TreeSummarizedExperiment"
+  ],
+  "CBNplot": [
+    "clusterProfiler",
+    "enrichplot",
+    "DOSE",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "CDI": [
+    "BiocParallel"
+  ],
+  "CEMiTool": [
+    "clusterProfiler",
+    "fgsea",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel"
+  ],
+  "CNEr": [
+    "rtracklayer",
+    "GenomicAlignments",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "CNVMetrics": [
+    "BiocParallel"
+  ],
+  "CNVPanelizer": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "CNVRanger": [
+    "BiocParallel"
+  ],
+  "CNVfilteR": [
+    "regioneR",
+    "karyoploteR",
+    "CopyNumberPlots",
+    "VariantAnnotation",
+    "Rsamtools",
+    "cn.mops",
+    "rhdf5",
+    "rtracklayer",
+    "biovizBase",
+    "GenomicFeatures",
+    "BSgenome",
+    "BiocParallel",
+    "GenomicAlignments",
+    "ensembldb"
+  ],
+  "CNViz": [
+    "karyoploteR",
+    "CopyNumberPlots",
+    "regioneR",
+    "Rsamtools",
+    "VariantAnnotation",
+    "cn.mops",
+    "rhdf5",
+    "rtracklayer",
+    "biovizBase",
+    "GenomicFeatures",
+    "GenomicAlignments",
+    "ensembldb",
+    "BSgenome",
+    "BiocParallel"
+  ],
+  "CNVrd2": [
+    "VariantAnnotation",
+    "Rsamtools",
+    "BiocParallel",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "GenomicAlignments"
+  ],
+  "COCOA": [
+    "MIRA",
+    "bsseq",
+    "BiocParallel",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "CODEX": [
+    "Rsamtools",
+    "BSgenome",
+    "BiocParallel",
+    "rtracklayer",
+    "GenomicAlignments"
+  ],
+  "CONFESS": [
+    "flowCore",
+    "flowClust",
+    "flowMeans",
+    "flowMerge",
+    "flowPeaks",
+    "cytolib"
+  ],
+  "COTAN": [
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "CRISPRball": [
+    "MAGeCKFlute",
+    "PCAtools",
+    "DOSE",
+    "clusterProfiler",
+    "enrichplot",
+    "BiocSingular",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "CRISPRseek": [
+    "BSgenome",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "CSSQ": [
+    "rtracklayer",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "CTSV": [
+    "BiocParallel"
+  ],
+  "CaMutQC": [
+    "clusterProfiler",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "Cardinal": [
+    "BiocParallel",
+    "CardinalIO",
+    "matter"
+  ],
+  "CardinalIO": [
+    "BiocParallel",
+    "matter"
+  ],
+  "CeTF": [
+    "clusterProfiler",
+    "DESeq2",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "snpStats",
+    "fgsea"
+  ],
+  "CellBarcode": [
+    "ShortRead",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "CellBench": [
+    "BiocParallel"
+  ],
+  "CellMixS": [
+    "scater",
+    "BiocParallel",
+    "scuttle",
+    "BiocSingular"
+  ],
+  "CelliD": [
+    "scater",
+    "BiocParallel",
+    "fgsea",
+    "scuttle",
+    "BiocSingular"
+  ],
+  "Cepo": [
+    "HDF5Array",
+    "BiocParallel",
+    "rhdf5"
+  ],
+  "CexoR": [
+    "Rsamtools",
+    "rtracklayer",
+    "genomation",
+    "BSgenome",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "ChAMP": [
+    "minfi",
+    "DMRcate",
+    "sva",
+    "wateRmelon",
+    "goseq",
+    "missMethyl",
+    "bumphunter",
+    "GenomicFeatures",
+    "bsseq",
+    "Gviz",
+    "rtracklayer",
+    "HDF5Array",
+    "BiocParallel",
+    "methylumi",
+    "lumi",
+    "BSgenome",
+    "rhdf5",
+    "txdbmaker",
+    "ensembldb",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "VariantAnnotation"
+  ],
+  "ChIPComp": [
+    "rtracklayer",
+    "Rsamtools",
+    "BSgenome",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "ChIPQC": [
+    "DiffBind",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments",
+    "chipseq",
+    "GenomicFeatures",
+    "ShortRead",
+    "systemPipeR",
+    "DESeq2",
+    "GreyListChIP",
+    "rtracklayer",
+    "BSgenome"
+  ],
+  "ChIPXpress": [
+    "frma",
+    "oligo",
+    "affxparser"
+  ],
+  "ChIPanalyser": [
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "ChIPexoQual": [
+    "GenomicAlignments",
+    "BiocParallel",
+    "Rsamtools",
+    "biovizBase",
+    "GenomicFeatures",
+    "VariantAnnotation",
+    "ensembldb",
+    "rtracklayer",
+    "BSgenome"
+  ],
+  "ChIPpeakAnno": [
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "Rsamtools",
+    "regioneR",
+    "rtracklayer",
+    "ensembldb",
+    "BiocParallel",
+    "BSgenome"
+  ],
+  "ChIPseeker": [
+    "enrichplot",
+    "GenomicFeatures",
+    "rtracklayer",
+    "DOSE",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "ChIPseqR": [
+    "ShortRead",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "ChIPsim": [
+    "ShortRead",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "ChromHeatMap": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "ChromSCape": [
+    "rtracklayer",
+    "batchelor",
+    "BiocParallel",
+    "Rsamtools",
+    "scran",
+    "scater",
+    "BiocSingular",
+    "scuttle",
+    "GenomicAlignments",
+    "bluster"
+  ],
+  "CircSeqAlignTk": [
+    "ShortRead",
+    "Rsamtools",
+    "Rbowtie2",
+    "Rhisat2",
+    "txdbmaker",
+    "SGSeq",
+    "BiocParallel",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "rtracklayer"
+  ],
+  "CiteFuse": [
+    "scran",
+    "rhdf5",
+    "scuttle",
+    "BiocParallel",
+    "BiocSingular",
+    "bluster"
+  ],
+  "ClassifyR": [
+    "BiocParallel"
+  ],
+  "CleanUpRNAseq": [
+    "BSgenome",
+    "DESeq2",
+    "ensembldb",
+    "qsmooth",
+    "Rsamtools",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicFeatures",
+    "sva",
+    "GenomicAlignments"
+  ],
+  "CluMSID": [
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "ClusterFoldSimilarity": [
+    "BiocParallel"
+  ],
+  "CoGAPS": [
+    "BiocParallel",
+    "rhdf5",
+    "fgsea"
+  ],
+  "CoSIA": [],
+  "Cogito": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "CompoundDb": [
+    "Spectra",
+    "MetaboCoreUtils",
+    "BiocParallel"
+  ],
+  "CopyNumberPlots": [
+    "karyoploteR",
+    "regioneR",
+    "Rsamtools",
+    "VariantAnnotation",
+    "cn.mops",
+    "rhdf5",
+    "rtracklayer",
+    "biovizBase",
+    "GenomicFeatures",
+    "BSgenome",
+    "BiocParallel",
+    "GenomicAlignments",
+    "ensembldb"
+  ],
+  "CoreGx": [
+    "piano",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "CoverageView": [
+    "Rsamtools",
+    "rtracklayer",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "CrispRVariants": [
+    "BiocParallel",
+    "GenomicAlignments",
+    "Rsamtools"
+  ],
+  "CuratedAtlasQueryR": [
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "CytoDx": [
+    "flowCore",
+    "cytolib"
+  ],
+  "CytoGLMM": [
+    "BiocParallel"
+  ],
+  "CytoMDS": [
+    "flowCore",
+    "BiocParallel",
+    "CytoPipeline",
+    "ggcyto",
+    "PeacoQC",
+    "flowAI",
+    "cytolib",
+    "ncdfFlow",
+    "flowWorkspace"
+  ],
+  "CytoML": [
+    "cytolib",
+    "flowCore",
+    "flowWorkspace",
+    "openCyto",
+    "ggcyto",
+    "ncdfFlow",
+    "flowViz",
+    "flowClust"
+  ],
+  "CytoPipeline": [
+    "ggcyto",
+    "BiocParallel",
+    "flowCore",
+    "PeacoQC",
+    "flowAI",
+    "cytolib",
+    "ncdfFlow",
+    "flowWorkspace"
+  ],
+  "CytoPipelineGUI": [
+    "CytoPipeline",
+    "flowCore",
+    "ggcyto",
+    "BiocParallel",
+    "PeacoQC",
+    "flowAI",
+    "cytolib",
+    "ncdfFlow",
+    "flowWorkspace"
+  ],
+  "DAMEfinder": [
+    "GenomicAlignments",
+    "VariantAnnotation",
+    "Rsamtools",
+    "bumphunter",
+    "GenomicFeatures",
+    "BiocParallel",
+    "rtracklayer",
+    "BSgenome"
+  ],
+  "DAPAR": [
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "DEFormats": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "DEGreport": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "DELocal": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "DEP": [
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "DEScan2": [
+    "BiocParallel",
+    "ChIPpeakAnno",
+    "GenomicAlignments",
+    "rtracklayer",
+    "GenomicFeatures",
+    "Rsamtools",
+    "regioneR",
+    "ensembldb",
+    "BSgenome"
+  ],
+  "DESeq2": [
+    "BiocParallel"
+  ],
+  "DESpace": [
+    "BiocParallel"
+  ],
+  "DEWSeq": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "DEXSeq": [
+    "BiocParallel",
+    "DESeq2",
+    "Rsamtools"
+  ],
+  "DEsingle": [
+    "BiocParallel"
+  ],
+  "DEsubs": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "DExMA": [
+    "snpStats",
+    "sva",
+    "BiocParallel"
+  ],
+  "DMCFB": [
+    "BiocParallel",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "DMCHMM": [
+    "BiocParallel",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "DMRcate": [
+    "bsseq",
+    "minfi",
+    "missMethyl",
+    "Gviz",
+    "BiocParallel",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "rtracklayer",
+    "GenomicFeatures",
+    "ensembldb",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "bumphunter",
+    "methylumi",
+    "VariantAnnotation"
+  ],
+  "DNAfusion": [
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "BiocParallel",
+    "rtracklayer"
+  ],
+  "DOSE": [
+    "BiocParallel",
+    "fgsea"
+  ],
+  "DRIMSeq": [
+    "BiocParallel"
+  ],
+  "DSS": [
+    "BiocParallel",
+    "bsseq",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "DaMiRseq": [
+    "DESeq2",
+    "EDASeq",
+    "sva",
+    "BiocParallel",
+    "ShortRead",
+    "Rsamtools",
+    "GenomicFeatures",
+    "rtracklayer",
+    "GenomicAlignments"
+  ],
+  "Damsel": [
+    "GenomicFeatures",
+    "ggbio",
+    "goseq",
+    "plyranges",
+    "Rsamtools",
+    "rtracklayer",
+    "biovizBase",
+    "GenomicAlignments",
+    "BSgenome",
+    "VariantAnnotation",
+    "OrganismDbi",
+    "ensembldb",
+    "BiocParallel",
+    "txdbmaker"
+  ],
+  "DeMixT": [
+    "DSS",
+    "sva",
+    "BiocParallel",
+    "bsseq",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "DeepTarget": [
+    "fgsea",
+    "BiocParallel"
+  ],
+  "DegCre": [
+    "plotgardener",
+    "BiocParallel",
+    "plyranges",
+    "rhdf5",
+    "GenomicFeatures",
+    "rtracklayer",
+    "GenomicAlignments",
+    "Rsamtools"
+  ],
+  "DegNorm": [
+    "GenomicFeatures",
+    "txdbmaker",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel",
+    "rtracklayer"
+  ],
+  "DelayedTensor": [
+    "HDF5Array",
+    "BiocSingular",
+    "BiocParallel",
+    "rhdf5"
+  ],
+  "DepInfeR": [
+    "BiocParallel"
+  ],
+  "DepecheR": [
+    "mixOmics",
+    "BiocParallel"
+  ],
+  "DiffBind": [
+    "GenomicAlignments",
+    "systemPipeR",
+    "BiocParallel",
+    "Rsamtools",
+    "DESeq2",
+    "GreyListChIP",
+    "BSgenome",
+    "rtracklayer",
+    "ShortRead"
+  ],
+  "DifferentialRegulation": [
+    "BANDITS",
+    "DRIMSeq",
+    "BiocParallel"
+  ],
+  "Dino": [
+    "BiocParallel",
+    "BiocSingular",
+    "scran",
+    "scuttle",
+    "bluster"
+  ],
+  "DominoEffect": [
+    "VariantAnnotation",
+    "Rsamtools",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "DropletUtils": [
+    "BiocParallel",
+    "HDF5Array",
+    "rhdf5",
+    "scuttle"
+  ],
+  "DrugVsDisease": [
+    "ArrayExpress",
+    "oligo",
+    "affxparser"
+  ],
+  "Dune": [
+    "BiocParallel"
+  ],
+  "DuplexDiscovereR": [
+    "Gviz",
+    "rtracklayer",
+    "GenomicAlignments",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "VariantAnnotation"
+  ],
+  "EBSEA": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "EDASeq": [
+    "ShortRead",
+    "Rsamtools",
+    "GenomicFeatures",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "EGSEA": [
+    "GSVA",
+    "BiocParallel",
+    "HDF5Array",
+    "BiocSingular",
+    "rhdf5"
+  ],
+  "ELMER": [
+    "GenomicFeatures",
+    "Gviz",
+    "rtracklayer",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "VariantAnnotation",
+    "BiocParallel"
+  ],
+  "EMDomics": [
+    "BiocParallel"
+  ],
+  "ENmix": [
+    "minfi",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "GenomicFeatures",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "ERSSA": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "EWCE": [
+    "BiocParallel"
+  ],
+  "EasyCellType": [
+    "clusterProfiler",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "EnrichDO": [
+    "clusterProfiler",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "EpiCompare": [
+    "ChIPseeker",
+    "genomation",
+    "rtracklayer",
+    "enrichplot",
+    "GenomicFeatures",
+    "BSgenome",
+    "GenomicAlignments",
+    "Rsamtools",
+    "DOSE",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "EpiDISH": [],
+  "EpiMix": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "EpiTxDb": [
+    "GenomicFeatures",
+    "txdbmaker",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "EventPointer": [
+    "SGSeq",
+    "GenomicFeatures",
+    "affxparser",
+    "rhdf5",
+    "BSgenome",
+    "fgsea",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "ExCluster": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "ExperimentHubData": [
+    "AnnotationHubData",
+    "GenomicFeatures",
+    "Rsamtools",
+    "rtracklayer",
+    "OrganismDbi",
+    "txdbmaker",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "ExperimentSubset": [
+    "TreeSummarizedExperiment",
+    "BiocParallel"
+  ],
+  "FEAST": [
+    "BiocParallel"
+  ],
+  "FLAMES": [
+    "bambu",
+    "BiocParallel",
+    "DropletUtils",
+    "GenomicFeatures",
+    "txdbmaker",
+    "GenomicAlignments",
+    "ggbio",
+    "Rsamtools",
+    "rtracklayer",
+    "scater",
+    "scuttle",
+    "scran",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "biovizBase",
+    "VariantAnnotation",
+    "OrganismDbi",
+    "ensembldb",
+    "BiocSingular",
+    "bluster"
+  ],
+  "FRASER": [
+    "BiocParallel",
+    "Rsamtools",
+    "BSgenome",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "HDF5Array",
+    "OUTRIDER",
+    "rhdf5",
+    "rtracklayer",
+    "DESeq2",
+    "txdbmaker"
+  ],
+  "FastqCleaner": [
+    "ShortRead",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "FilterFFPE": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "FindIT2": [
+    "rtracklayer",
+    "GenomicFeatures",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "FlowSOM": [
+    "flowCore",
+    "cytolib"
+  ],
+  "GA4GHclient": [
+    "VariantAnnotation",
+    "Rsamtools",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "GA4GHshiny": [
+    "GA4GHclient",
+    "GenomicFeatures",
+    "VariantAnnotation",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "BiocParallel"
+  ],
+  "GARS": [
+    "DaMiRseq",
+    "MLSeq",
+    "DESeq2",
+    "EDASeq",
+    "sva",
+    "BiocParallel",
+    "ShortRead",
+    "Rsamtools",
+    "GenomicFeatures",
+    "rtracklayer",
+    "GenomicAlignments"
+  ],
+  "GDCRNATools": [
+    "DESeq2",
+    "clusterProfiler",
+    "DOSE",
+    "BiocParallel",
+    "enrichplot",
+    "fgsea"
+  ],
+  "GENESIS": [
+    "BiocParallel"
+  ],
+  "GEOexplorer": [
+    "sva",
+    "BiocParallel"
+  ],
+  "GLAD": [],
+  "GNOSIS": [
+    "cBioPortalData",
+    "RTCGAToolbox",
+    "TCGAutils",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "GOTHiC": [
+    "BSgenome",
+    "Rsamtools",
+    "ShortRead",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "GRaNIE": [
+    "DESeq2",
+    "ensembldb",
+    "BiocParallel",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "GSCA": [
+    "rhdf5"
+  ],
+  "GSEABenchmarkeR": [
+    "BiocParallel"
+  ],
+  "GSReg": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "OrganismDbi",
+    "txdbmaker",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "GSVA": [
+    "BiocParallel",
+    "HDF5Array",
+    "BiocSingular",
+    "rhdf5"
+  ],
+  "GUIDEseq": [
+    "CRISPRseek",
+    "ChIPpeakAnno",
+    "BSgenome",
+    "GenomicAlignments",
+    "Rsamtools",
+    "GenomicFeatures",
+    "rtracklayer",
+    "regioneR",
+    "ensembldb",
+    "rhdf5",
+    "BiocParallel"
+  ],
+  "GateFinder": [
+    "flowCore",
+    "flowFP",
+    "cytolib",
+    "flowViz"
+  ],
+  "GeDi": [
+    "GeneTonic",
+    "BiocParallel",
+    "DESeq2",
+    "mosdef",
+    "clusterProfiler",
+    "goseq",
+    "DOSE",
+    "enrichplot",
+    "rtracklayer",
+    "GenomicFeatures",
+    "fgsea",
+    "txdbmaker",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "GenVisR": [
+    "GenomicFeatures",
+    "Rsamtools",
+    "BSgenome",
+    "VariantAnnotation",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "GeneBreak": [
+    "QDNAseq",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "GeneGeneInteR": [
+    "snpStats",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "GeneRegionScan": [
+    "affxparser"
+  ],
+  "GeneStructureTools": [
+    "Gviz",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "ensembldb",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "VariantAnnotation",
+    "BiocParallel"
+  ],
+  "GeneTonic": [
+    "DESeq2",
+    "mosdef",
+    "BiocParallel",
+    "clusterProfiler",
+    "goseq",
+    "DOSE",
+    "enrichplot",
+    "rtracklayer",
+    "GenomicFeatures",
+    "fgsea",
+    "txdbmaker",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "GeneticsPed": [],
+  "GenomAutomorphism": [
+    "BiocParallel"
+  ],
+  "GenomicAlignments": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "GenomicFeatures": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "GenomicFiles": [
+    "BiocParallel",
+    "Rsamtools",
+    "rtracklayer",
+    "GenomicAlignments",
+    "VariantAnnotation",
+    "BSgenome",
+    "GenomicFeatures"
+  ],
+  "GenomicInteractionNodes": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "GenomicInteractions": [
+    "Rsamtools",
+    "rtracklayer",
+    "Gviz",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "GenomicAlignments",
+    "BiocParallel",
+    "VariantAnnotation"
+  ],
+  "GenomicOZone": [
+    "ggbio",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "VariantAnnotation",
+    "rtracklayer",
+    "GenomicFeatures",
+    "OrganismDbi",
+    "ensembldb",
+    "BiocParallel",
+    "txdbmaker"
+  ],
+  "GenomicPlot": [
+    "Rsamtools",
+    "rtracklayer",
+    "plyranges",
+    "RCAS",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "genomation",
+    "txdbmaker",
+    "BSgenome",
+    "BiocParallel"
+  ],
+  "GenomicScores": [
+    "rhdf5",
+    "HDF5Array"
+  ],
+  "Glimma": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "GloScope": [
+    "BiocParallel"
+  ],
+  "GrafGen": [],
+  "GreyListChIP": [
+    "GenomicAlignments",
+    "BSgenome",
+    "Rsamtools",
+    "rtracklayer",
+    "BiocParallel"
+  ],
+  "Guitar": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "Gviz": [
+    "rtracklayer",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "VariantAnnotation",
+    "BiocParallel"
+  ],
+  "HDF5Array": [
+    "rhdf5"
+  ],
+  "HIBAG": [],
+  "HTSFilter": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "HarmonizR": [
+    "sva",
+    "BiocParallel"
+  ],
+  "HelloRanges": [
+    "BSgenome",
+    "GenomicFeatures",
+    "VariantAnnotation",
+    "Rsamtools",
+    "GenomicAlignments",
+    "rtracklayer",
+    "BiocParallel"
+  ],
+  "HiCBricks": [
+    "rhdf5",
+    "BiocParallel"
+  ],
+  "HiCDCPlus": [
+    "GenomicInteractions",
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "Gviz",
+    "GenomicAlignments",
+    "BiocParallel",
+    "GenomicFeatures",
+    "ensembldb",
+    "biovizBase",
+    "VariantAnnotation"
+  ],
+  "HiCDOC": [
+    "BiocParallel",
+    "multiHiCcompare",
+    "HiCcompare",
+    "rhdf5"
+  ],
+  "HiCExperiment": [
+    "BiocParallel",
+    "rhdf5"
+  ],
+  "HiCcompare": [
+    "BiocParallel",
+    "rhdf5"
+  ],
+  "HiContacts": [
+    "HiCExperiment",
+    "BiocParallel",
+    "rhdf5"
+  ],
+  "HiCool": [
+    "HiCExperiment",
+    "BiocParallel",
+    "rhdf5"
+  ],
+  "HiLDA": [
+    "GenomicFeatures",
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "HiTC": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "HicAggR": [
+    "BiocParallel",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "HoloFoodR": [
+    "TreeSummarizedExperiment",
+    "BiocParallel"
+  ],
+  "HybridExpress": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "IMAS": [
+    "GenomicFeatures",
+    "IVAS",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments",
+    "rtracklayer"
+  ],
+  "INSPEcT": [
+    "BiocParallel",
+    "GenomicFeatures",
+    "GenomicAlignments",
+    "Rsamtools",
+    "DESeq2",
+    "rtracklayer"
+  ],
+  "IONiseR": [
+    "rhdf5",
+    "ShortRead",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "IPO": [
+    "xcms",
+    "CAMERA",
+    "BiocParallel",
+    "MSnbase",
+    "MsExperiment",
+    "Spectra",
+    "MetaboCoreUtils",
+    "PSMatch"
+  ],
+  "ISLET": [
+    "BiocParallel"
+  ],
+  "ITALICS": [
+    "GLAD",
+    "oligo",
+    "affxparser"
+  ],
+  "IVAS": [
+    "GenomicFeatures",
+    "BiocParallel",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "IdeoViz": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "InPAS": [
+    "BSgenome",
+    "cleanUpdTSeq",
+    "GenomicFeatures",
+    "plyranges",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "InTAD": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "IntEREst": [
+    "Rsamtools",
+    "GenomicFiles",
+    "GenomicFeatures",
+    "txdbmaker",
+    "GenomicAlignments",
+    "BiocParallel",
+    "DEXSeq",
+    "DESeq2",
+    "rtracklayer",
+    "VariantAnnotation",
+    "BSgenome"
+  ],
+  "IsoformSwitchAnalyzeR": [
+    "DEXSeq",
+    "satuRn",
+    "sva",
+    "BSgenome",
+    "rtracklayer",
+    "tximeta",
+    "BiocParallel",
+    "Rsamtools",
+    "DESeq2",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "txdbmaker",
+    "ensembldb"
+  ],
+  "KinSwingR": [
+    "BiocParallel"
+  ],
+  "KnowSeq": [
+    "sva",
+    "BiocParallel"
+  ],
+  "LOBSTAHS": [
+    "xcms",
+    "CAMERA",
+    "BiocParallel",
+    "MSnbase",
+    "MsExperiment",
+    "Spectra",
+    "MetaboCoreUtils",
+    "PSMatch"
+  ],
+  "LRcell": [
+    "BiocParallel"
+  ],
+  "LoomExperiment": [
+    "rhdf5",
+    "HDF5Array"
+  ],
+  "M3C": [],
+  "M3Drop": [
+    "scater",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "MADSEQ": [
+    "BSgenome",
+    "GenomicAlignments",
+    "Rsamtools",
+    "VariantAnnotation",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicFeatures"
+  ],
+  "MAGAR": [
+    "HDF5Array",
+    "RnBeads",
+    "snpStats",
+    "rhdf5",
+    "methylumi",
+    "minfi",
+    "GenomicFeatures",
+    "rtracklayer",
+    "bumphunter",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "MAGeCKFlute": [
+    "DOSE",
+    "clusterProfiler",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "MAIT": [
+    "CAMERA",
+    "xcms",
+    "BiocParallel",
+    "MSnbase",
+    "MsExperiment",
+    "Spectra",
+    "MetaboCoreUtils",
+    "PSMatch"
+  ],
+  "MANOR": [
+    "GLAD"
+  ],
+  "MAPFX": [
+    "flowCore",
+    "cytolib"
+  ],
+  "MBASED": [
+    "BiocParallel"
+  ],
+  "MBECS": [
+    "phyloseq",
+    "sva",
+    "biomformat",
+    "BiocParallel",
+    "rhdf5"
+  ],
+  "MCbiclust": [
+    "BiocParallel"
+  ],
+  "MDTS": [
+    "GenomicAlignments",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "MEAL": [
+    "minfi",
+    "Gviz",
+    "missMethyl",
+    "rtracklayer",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "methylumi",
+    "sva",
+    "VariantAnnotation",
+    "rhdf5"
+  ],
+  "MEAT": [
+    "minfi",
+    "wateRmelon",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "methylumi",
+    "lumi",
+    "GenomicFeatures",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "MEB": [
+    "scater",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "MEDIPS": [
+    "BSgenome",
+    "Rsamtools",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "MGnifyR": [
+    "TreeSummarizedExperiment",
+    "mia",
+    "BiocParallel",
+    "bluster",
+    "scater",
+    "scuttle",
+    "BiocSingular"
+  ],
+  "MICSQTL": [
+    "TOAST",
+    "BiocParallel",
+    "EpiDISH"
+  ],
+  "MIRA": [
+    "bsseq",
+    "BiocParallel",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "MIRit": [
+    "BiocParallel",
+    "DESeq2",
+    "fgsea",
+    "clusterProfiler",
+    "DOSE",
+    "enrichplot"
+  ],
+  "MLSeq": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "MMDiff2": [
+    "Rsamtools",
+    "BSgenome",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "MOFA2": [
+    "rhdf5",
+    "HDF5Array"
+  ],
+  "MOGAMUN": [
+    "BiocParallel"
+  ],
+  "MOSClip": [
+    "qpgraph",
+    "BiocParallel",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "MOSim": [
+    "scran",
+    "scuttle",
+    "BiocParallel",
+    "BiocSingular",
+    "bluster",
+    "Rsamtools"
+  ],
+  "MPAC": [
+    "BiocParallel",
+    "BiocSingular",
+    "bluster",
+    "fgsea",
+    "scran",
+    "scuttle"
+  ],
+  "MPRAnalyze": [
+    "BiocParallel"
+  ],
+  "MSPrep": [
+    "sva",
+    "BiocParallel"
+  ],
+  "MSnID": [
+    "MSnbase",
+    "msmsTests",
+    "msmsEDA",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "MSnbase": [
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "MSstatsQC": [
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "MSstatsQCgui": [
+    "MSstatsQC",
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "Macarron": [
+    "BiocParallel"
+  ],
+  "MatrixQCvis": [
+    "sva",
+    "BiocParallel"
+  ],
+  "MatrixRider": [
+    "TFBSTools",
+    "BiocParallel",
+    "BSgenome",
+    "CNEr",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "MetCirc": [
+    "Spectra",
+    "BiocParallel",
+    "MetaboCoreUtils"
+  ],
+  "MetNet": [
+    "BiocParallel"
+  ],
+  "MetaCyto": [
+    "flowCore",
+    "FlowSOM",
+    "cytolib"
+  ],
+  "MetaPhOR": [
+    "clusterProfiler",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "MetaboAnnotation": [
+    "MetaboCoreUtils",
+    "Spectra",
+    "BiocParallel",
+    "CompoundDb"
+  ],
+  "MetaboCoreUtils": [
+    "BiocParallel"
+  ],
+  "MetaboSignal": [
+    "mygene",
+    "ensembldb",
+    "GenomicFeatures",
+    "txdbmaker",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "MethReg": [
+    "sesame",
+    "TFBSTools",
+    "BiocParallel",
+    "BSgenome",
+    "CNEr",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "MethylAid": [
+    "BiocParallel",
+    "minfi",
+    "bumphunter",
+    "HDF5Array",
+    "GenomicFeatures",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "MethylSeekR": [
+    "rtracklayer",
+    "BSgenome",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "MicrobiomeProfiler": [
+    "clusterProfiler",
+    "enrichplot",
+    "DOSE",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "MineICA": [
+    "lumi",
+    "methylumi",
+    "GenomicFeatures",
+    "rtracklayer",
+    "minfi",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments",
+    "rhdf5"
+  ],
+  "MinimumDistance": [
+    "VanillaICE",
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "MoleculeExperiment": [
+    "rhdf5",
+    "BiocParallel"
+  ],
+  "Moonlight2R": [
+    "clusterProfiler",
+    "DOSE",
+    "rtracklayer",
+    "EpiMix",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea",
+    "GenomicFeatures",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "MoonlightR": [
+    "clusterProfiler",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "Motif2Site": [
+    "BSgenome",
+    "GenomicAlignments",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "MotifDb": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "MsBackendMassbank": [
+    "Spectra",
+    "BiocParallel",
+    "MetaboCoreUtils"
+  ],
+  "MsBackendMetaboLights": [
+    "Spectra",
+    "BiocParallel",
+    "MetaboCoreUtils"
+  ],
+  "MsBackendMgf": [
+    "Spectra",
+    "BiocParallel",
+    "MetaboCoreUtils"
+  ],
+  "MsBackendMsp": [
+    "Spectra",
+    "BiocParallel",
+    "MetaboCoreUtils"
+  ],
+  "MsBackendRawFileReader": [
+    "Spectra",
+    "BiocParallel",
+    "MetaboCoreUtils"
+  ],
+  "MsBackendSql": [
+    "Spectra",
+    "BiocParallel",
+    "MetaboCoreUtils"
+  ],
+  "MsExperiment": [
+    "Spectra",
+    "BiocParallel",
+    "MetaboCoreUtils"
+  ],
+  "MsQuality": [
+    "BiocParallel",
+    "MsExperiment",
+    "Spectra",
+    "MetaboCoreUtils"
+  ],
+  "MuData": [
+    "rhdf5"
+  ],
+  "MultiRNAflow": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "MungeSumstats": [
+    "BSgenome",
+    "VariantAnnotation",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "BiocParallel"
+  ],
+  "MutationalPatterns": [
+    "BSgenome",
+    "VariantAnnotation",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicFeatures",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "NADfinder": [
+    "GenomicAlignments",
+    "rtracklayer",
+    "trackViewer",
+    "Rsamtools",
+    "ATACseqQC",
+    "csaw",
+    "BSgenome",
+    "ChIPpeakAnno",
+    "GenomicScores",
+    "motifStack",
+    "BiocParallel",
+    "GenomicFeatures",
+    "Gviz",
+    "rhdf5",
+    "txdbmaker",
+    "regioneR",
+    "ensembldb",
+    "HDF5Array",
+    "biovizBase",
+    "TFBSTools",
+    "VariantAnnotation",
+    "CNEr"
+  ],
+  "NBAMSeq": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "NPARC": [
+    "BiocParallel"
+  ],
+  "NanoMethViz": [
+    "BiocSingular",
+    "bsseq",
+    "Rsamtools",
+    "BiocParallel",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "rtracklayer",
+    "GenomicAlignments"
+  ],
+  "NanoTube": [
+    "fgsea",
+    "BiocParallel"
+  ],
+  "NetActivity": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "NetPathMiner": [],
+  "NewWave": [
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "NoRCE": [
+    "rtracklayer",
+    "GenomicFeatures",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "OGRE": [
+    "Gviz",
+    "rtracklayer",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "VariantAnnotation",
+    "BiocParallel"
+  ],
+  "OMICsPCA": [
+    "HelloRanges",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "VariantAnnotation",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "ORFhunteR": [
+    "rtracklayer",
+    "BSgenome",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "ORFik": [
+    "GenomicAlignments",
+    "BiocParallel",
+    "BSgenome",
+    "DESeq2",
+    "GenomicFeatures",
+    "Rsamtools",
+    "rtracklayer",
+    "txdbmaker"
+  ],
+  "OTUbase": [
+    "ShortRead",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "OUTRIDER": [
+    "BiocParallel",
+    "GenomicFeatures",
+    "DESeq2",
+    "txdbmaker",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "OVESEG": [
+    "BiocParallel"
+  ],
+  "Organism.dplyr": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "OrganismDbi": [
+    "GenomicFeatures",
+    "txdbmaker",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "Oscope": [
+    "BiocParallel"
+  ],
+  "OutSplice": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "PAA": [
+    "sva",
+    "BiocParallel"
+  ],
+  "PAIRADISE": [
+    "BiocParallel"
+  ],
+  "PAST": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "PCAN": [
+    "BiocParallel"
+  ],
+  "PCAtools": [
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "PICS": [
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "PING": [
+    "PICS",
+    "Gviz",
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicFeatures",
+    "ensembldb",
+    "biovizBase",
+    "GenomicAlignments",
+    "VariantAnnotation",
+    "BiocParallel"
+  ],
+  "PLSDAbatch": [
+    "mixOmics",
+    "TreeSummarizedExperiment",
+    "BiocParallel"
+  ],
+  "POMA": [
+    "DESeq2",
+    "fgsea",
+    "mixOmics",
+    "sva",
+    "BiocParallel"
+  ],
+  "PPInfer": [
+    "fgsea",
+    "BiocParallel"
+  ],
+  "PRONE": [
+    "MSnbase",
+    "POMA",
+    "PSMatch",
+    "BiocParallel",
+    "DESeq2",
+    "fgsea",
+    "mixOmics",
+    "sva"
+  ],
+  "PROPS": [
+    "sva",
+    "BiocParallel"
+  ],
+  "PSMatch": [
+    "BiocParallel"
+  ],
+  "PanomiR": [
+    "clusterProfiler",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "PathoStat": [
+    "phyloseq",
+    "DESeq2",
+    "BiocParallel",
+    "biomformat",
+    "rhdf5"
+  ],
+  "PeacoQC": [
+    "flowCore",
+    "flowWorkspace",
+    "cytolib",
+    "ncdfFlow"
+  ],
+  "PharmacoGx": [
+    "CoreGx",
+    "BiocParallel",
+    "piano",
+    "fgsea"
+  ],
+  "Pigengene": [
+    "clusterProfiler",
+    "ReactomePA",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "PrInCE": [
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "Prostar": [
+    "DAPAR",
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "ProteoDisco": [
+    "BiocParallel",
+    "GenomicFeatures",
+    "VariantAnnotation",
+    "rtracklayer",
+    "Rsamtools",
+    "BSgenome",
+    "GenomicAlignments"
+  ],
+  "PureCN": [
+    "VariantAnnotation",
+    "GenomicFeatures",
+    "Rsamtools",
+    "rtracklayer",
+    "rhdf5",
+    "BiocParallel",
+    "GenomicAlignments",
+    "BSgenome"
+  ],
+  "Pviz": [
+    "Gviz",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "VariantAnnotation",
+    "ensembldb",
+    "rtracklayer",
+    "BSgenome",
+    "BiocParallel"
+  ],
+  "QDNAseq": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "QuasR": [
+    "BSgenome",
+    "Rsamtools",
+    "GenomicFeatures",
+    "txdbmaker",
+    "ShortRead",
+    "BiocParallel",
+    "rtracklayer",
+    "GenomicFiles",
+    "GenomicAlignments",
+    "VariantAnnotation"
+  ],
+  "R3CPET": [
+    "ggbio",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "VariantAnnotation",
+    "rtracklayer",
+    "GenomicFeatures",
+    "OrganismDbi",
+    "ensembldb",
+    "BiocParallel",
+    "txdbmaker"
+  ],
+  "R453Plus1Toolbox": [
+    "VariantAnnotation",
+    "BSgenome",
+    "Rsamtools",
+    "ShortRead",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments",
+    "GenomicFeatures"
+  ],
+  "RAIDS": [
+    "GENESIS",
+    "ensembldb",
+    "BSgenome",
+    "VariantAnnotation",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicFeatures",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "RCAS": [
+    "BSgenome",
+    "rtracklayer",
+    "GenomicFeatures",
+    "txdbmaker",
+    "genomation",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "RCM": [
+    "phyloseq",
+    "biomformat",
+    "rhdf5"
+  ],
+  "REDseq": [
+    "BSgenome",
+    "ChIPpeakAnno",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "regioneR",
+    "ensembldb",
+    "BiocParallel"
+  ],
+  "REMP": [
+    "minfi",
+    "rtracklayer",
+    "BiocParallel",
+    "BSgenome",
+    "Rsamtools",
+    "bumphunter",
+    "HDF5Array",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "rhdf5"
+  ],
+  "RESOLVE": [
+    "BSgenome",
+    "MutationalPatterns",
+    "rtracklayer",
+    "Rsamtools",
+    "VariantAnnotation",
+    "BiocParallel",
+    "GenomicAlignments",
+    "GenomicFeatures"
+  ],
+  "RITAN": [
+    "BgeeDB",
+    "GenomicFeatures",
+    "ensembldb",
+    "HDF5Array",
+    "rtracklayer",
+    "Rsamtools",
+    "rhdf5",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "RJMCMCNucleosomes": [
+    "consensusSeekeR",
+    "BiocParallel",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "RMassBank": [
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "RNAAgeCalc": [
+    "recount",
+    "BiocParallel",
+    "derfinder",
+    "rtracklayer",
+    "bumphunter",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "GenomicFiles",
+    "Rsamtools",
+    "VariantAnnotation",
+    "BSgenome"
+  ],
+  "RNAmodR": [
+    "BiocParallel",
+    "txdbmaker",
+    "GenomicFeatures",
+    "GenomicAlignments",
+    "rtracklayer",
+    "Rsamtools",
+    "BSgenome",
+    "Gviz",
+    "ensembldb",
+    "biovizBase",
+    "VariantAnnotation"
+  ],
+  "RNAmodR.AlkAnilineSeq": [
+    "RNAmodR",
+    "Gviz",
+    "rtracklayer",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel",
+    "txdbmaker",
+    "VariantAnnotation"
+  ],
+  "RNAmodR.ML": [
+    "RNAmodR",
+    "BiocParallel",
+    "txdbmaker",
+    "GenomicFeatures",
+    "GenomicAlignments",
+    "rtracklayer",
+    "Rsamtools",
+    "BSgenome",
+    "Gviz",
+    "ensembldb",
+    "biovizBase",
+    "VariantAnnotation"
+  ],
+  "RNAmodR.RiboMethSeq": [
+    "RNAmodR",
+    "Gviz",
+    "rtracklayer",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel",
+    "txdbmaker",
+    "VariantAnnotation"
+  ],
+  "RNAseqCovarImpute": [
+    "BiocParallel"
+  ],
+  "RPA": [
+    "phyloseq",
+    "biomformat",
+    "rhdf5"
+  ],
+  "RSVSim": [
+    "ShortRead",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "RTCGAToolbox": [
+    "TCGAutils",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "RUVSeq": [
+    "EDASeq",
+    "ShortRead",
+    "Rsamtools",
+    "GenomicFeatures",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "RUVcorr": [
+    "BiocParallel"
+  ],
+  "RVS": [
+    "snpStats"
+  ],
+  "RadioGx": [
+    "CoreGx",
+    "BiocParallel",
+    "piano",
+    "fgsea"
+  ],
+  "RareVariantVis": [
+    "VariantAnnotation",
+    "GenomicFeatures",
+    "BSgenome",
+    "GenomicScores",
+    "rtracklayer",
+    "Rsamtools",
+    "rhdf5",
+    "HDF5Array",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "Rbec": [
+    "dada2",
+    "ShortRead",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "Rbowtie2": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "Rcwl": [
+    "BiocParallel"
+  ],
+  "RcwlPipelines": [
+    "Rcwl",
+    "BiocParallel"
+  ],
+  "ReUseData": [
+    "Rcwl",
+    "RcwlPipelines",
+    "BiocParallel"
+  ],
+  "ReactomePA": [
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "RedisParam": [
+    "BiocParallel"
+  ],
+  "RegEnrich": [
+    "fgsea",
+    "DOSE",
+    "BiocParallel",
+    "DESeq2"
+  ],
+  "RegionalST": [
+    "scater",
+    "BayesSpace",
+    "fgsea",
+    "TOAST",
+    "scran",
+    "rhdf5",
+    "BiocSingular",
+    "BiocParallel",
+    "scuttle",
+    "EpiDISH",
+    "bluster"
+  ],
+  "RepViz": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "Repitools": [
+    "Rsamtools",
+    "GenomicAlignments",
+    "rtracklayer",
+    "BSgenome",
+    "BiocParallel"
+  ],
+  "ReportingTools": [
+    "DESeq2",
+    "ggbio",
+    "BiocParallel",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "VariantAnnotation",
+    "rtracklayer",
+    "GenomicFeatures",
+    "OrganismDbi",
+    "ensembldb",
+    "txdbmaker"
+  ],
+  "RgnTX": [
+    "GenomicFeatures",
+    "regioneR",
+    "rtracklayer",
+    "BSgenome",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "Rhisat2": [
+    "txdbmaker",
+    "SGSeq",
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "rtracklayer",
+    "BiocParallel"
+  ],
+  "RiboCrypt": [
+    "ORFik",
+    "BiocParallel",
+    "GenomicFeatures",
+    "rtracklayer",
+    "GenomicAlignments",
+    "BSgenome",
+    "DESeq2",
+    "Rsamtools",
+    "txdbmaker"
+  ],
+  "RiboDiPA": [
+    "Rsamtools",
+    "GenomicFeatures",
+    "GenomicAlignments",
+    "DESeq2",
+    "txdbmaker",
+    "BiocParallel",
+    "rtracklayer"
+  ],
+  "RiboProfiling": [
+    "GenomicFeatures",
+    "GenomicAlignments",
+    "ggbio",
+    "Rsamtools",
+    "rtracklayer",
+    "BiocParallel",
+    "biovizBase",
+    "BSgenome",
+    "VariantAnnotation",
+    "OrganismDbi",
+    "ensembldb",
+    "txdbmaker"
+  ],
+  "Rmmquant": [
+    "DESeq2",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicFeatures",
+    "rtracklayer",
+    "GenomicAlignments"
+  ],
+  "RnBeads": [
+    "methylumi",
+    "minfi",
+    "GenomicFeatures",
+    "rtracklayer",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "rhdf5",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "RnaSeqSampleSize": [
+    "recount",
+    "BiocParallel",
+    "derfinder",
+    "rtracklayer",
+    "bumphunter",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "GenomicFiles",
+    "Rsamtools",
+    "VariantAnnotation",
+    "BSgenome"
+  ],
+  "Rqc": [
+    "BiocParallel",
+    "ShortRead",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFiles",
+    "GenomicFeatures",
+    "VariantAnnotation",
+    "ensembldb",
+    "rtracklayer",
+    "BSgenome"
+  ],
+  "Rsamtools": [
+    "BiocParallel"
+  ],
+  "Rtreemix": [],
+  "SAIGEgds": [],
+  "SARC": [
+    "plyranges",
+    "GenomicFeatures",
+    "rtracklayer",
+    "GenomicAlignments",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "SCAN.UPC": [
+    "oligo",
+    "sva",
+    "affxparser",
+    "BiocParallel"
+  ],
+  "SCANVIS": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "SCArray": [
+    "BiocParallel",
+    "BiocSingular"
+  ],
+  "SCArray.sat": [
+    "SCArray",
+    "BiocParallel",
+    "BiocSingular"
+  ],
+  "SCFA": [
+    "BiocParallel"
+  ],
+  "SCOPE": [
+    "Rsamtools",
+    "BSgenome",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "SCnorm": [
+    "BiocParallel"
+  ],
+  "SEtools": [
+    "BiocParallel",
+    "DESeq2",
+    "sva"
+  ],
+  "SGSeq": [
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "rtracklayer",
+    "BiocParallel"
+  ],
+  "SIAMCAT": [
+    "phyloseq",
+    "biomformat",
+    "rhdf5"
+  ],
+  "SICtools": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "SMITE": [
+    "goseq",
+    "rtracklayer",
+    "GenomicFeatures",
+    "txdbmaker",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "SNPhood": [
+    "Rsamtools",
+    "DESeq2",
+    "BiocParallel",
+    "VariantAnnotation",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "GenomicAlignments"
+  ],
+  "SOMNiBUS": [
+    "rtracklayer",
+    "annotatr",
+    "bsseq",
+    "GenomicFeatures",
+    "regioneR",
+    "BiocParallel",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "SPLINTER": [
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "Gviz",
+    "BSgenome",
+    "Rsamtools",
+    "BiocParallel",
+    "rtracklayer",
+    "ensembldb",
+    "biovizBase",
+    "VariantAnnotation"
+  ],
+  "SPsimSeq": [
+    "phyloseq",
+    "biomformat",
+    "rhdf5"
+  ],
+  "SUITOR": [
+    "BiocParallel"
+  ],
+  "SVMDO": [
+    "DOSE",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "Sconify": [
+    "flowCore",
+    "cytolib"
+  ],
+  "SeqGSEA": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "ShortRead": [
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "SigCheck": [
+    "BiocParallel"
+  ],
+  "SigsPack": [
+    "BSgenome",
+    "VariantAnnotation",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "BiocParallel"
+  ],
+  "SimBu": [
+    "BiocParallel",
+    "phyloseq",
+    "biomformat",
+    "rhdf5"
+  ],
+  "SimFFPE": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "SingleCellAlleleExperiment": [
+    "BiocParallel"
+  ],
+  "SingleCellSignalR": [
+    "scran",
+    "scuttle",
+    "BiocParallel",
+    "BiocSingular",
+    "bluster"
+  ],
+  "SingleMoleculeFootprinting": [
+    "BSgenome",
+    "plyranges",
+    "QuasR",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "txdbmaker",
+    "ShortRead",
+    "BiocParallel",
+    "GenomicFiles",
+    "VariantAnnotation"
+  ],
+  "SingleR": [
+    "BiocParallel",
+    "BiocSingular"
+  ],
+  "SomaticSignatures": [
+    "VariantAnnotation",
+    "ggbio",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "rtracklayer",
+    "GenomicFeatures",
+    "OrganismDbi",
+    "ensembldb",
+    "BiocParallel",
+    "txdbmaker"
+  ],
+  "SpaNorm": [
+    "scran",
+    "scuttle",
+    "BiocParallel",
+    "BiocSingular",
+    "bluster"
+  ],
+  "Spaniel": [
+    "scater",
+    "scran",
+    "DropletUtils",
+    "BiocParallel",
+    "HDF5Array",
+    "rhdf5",
+    "scuttle",
+    "BiocSingular",
+    "bluster"
+  ],
+  "SparseSignatures": [
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "SpatialFeatureExperiment": [
+    "BiocParallel",
+    "DropletUtils",
+    "HDF5Array",
+    "rhdf5",
+    "scuttle"
+  ],
+  "Spectra": [
+    "BiocParallel",
+    "MetaboCoreUtils"
+  ],
+  "SpectraQL": [
+    "Spectra",
+    "BiocParallel",
+    "MetaboCoreUtils"
+  ],
+  "SpectralTAD": [
+    "BiocParallel",
+    "HiCcompare",
+    "rhdf5"
+  ],
+  "SpliceWiz": [
+    "BiocParallel",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "SplicingGraphs": [
+    "GenomicFeatures",
+    "GenomicAlignments",
+    "BiocParallel",
+    "Rsamtools",
+    "rtracklayer"
+  ],
+  "SpotClean": [
+    "rhdf5"
+  ],
+  "StabMap": [
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "Statial": [
+    "BiocParallel",
+    "treekoR",
+    "diffcyt",
+    "flowCore",
+    "FlowSOM",
+    "cytolib"
+  ],
+  "StructuralVariantAnnotation": [
+    "rtracklayer",
+    "VariantAnnotation",
+    "GenomicFeatures",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "BiocParallel"
+  ],
+  "SurfR": [
+    "SPsimSeq",
+    "DESeq2",
+    "rhdf5",
+    "BiocParallel",
+    "phyloseq",
+    "biomformat"
+  ],
+  "TADCompare": [
+    "HiCcompare",
+    "BiocParallel",
+    "rhdf5"
+  ],
+  "TAPseq": [
+    "GenomicAlignments",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel",
+    "rtracklayer",
+    "Rsamtools"
+  ],
+  "TCC": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "TCGAutils": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "TCseq": [
+    "GenomicAlignments",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "TDbasedUFEadv": [
+    "enrichplot",
+    "DOSE",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "TEKRABber": [
+    "DESeq2",
+    "rtracklayer",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "TENxIO": [
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "TEQC": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "TFBSTools": [
+    "BiocParallel",
+    "BSgenome",
+    "CNEr",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "TFEA.ChIP": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "TFHAZ": [
+    "ORFik",
+    "GenomicAlignments",
+    "BiocParallel",
+    "BSgenome",
+    "DESeq2",
+    "GenomicFeatures",
+    "Rsamtools",
+    "rtracklayer",
+    "txdbmaker"
+  ],
+  "TFutils": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "TMixClust": [
+    "BiocParallel"
+  ],
+  "TOAST": [
+    "EpiDISH"
+  ],
+  "TOP": [
+    "ClassifyR",
+    "BiocParallel"
+  ],
+  "TPP2D": [
+    "BiocParallel"
+  ],
+  "TRESS": [
+    "rtracklayer",
+    "GenomicFeatures",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "TVTB": [
+    "BiocParallel",
+    "ensembldb",
+    "Gviz",
+    "Rsamtools",
+    "VariantAnnotation",
+    "GenomicFeatures",
+    "rtracklayer",
+    "BSgenome",
+    "biovizBase",
+    "GenomicAlignments"
+  ],
+  "TitanCNA": [
+    "VariantAnnotation",
+    "Rsamtools",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "ToxicoGx": [
+    "CoreGx",
+    "BiocParallel",
+    "piano",
+    "fgsea"
+  ],
+  "TreeSummarizedExperiment": [
+    "BiocParallel"
+  ],
+  "Trendy": [
+    "BiocParallel"
+  ],
+  "UCell": [
+    "BiocParallel"
+  ],
+  "UMI4Cats": [
+    "ShortRead",
+    "regioneR",
+    "BSgenome",
+    "DESeq2",
+    "Rsamtools",
+    "Rbowtie2",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "rtracklayer",
+    "BiocParallel"
+  ],
+  "UPDhmm": [
+    "VariantAnnotation",
+    "Rsamtools",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "Ularcirc": [
+    "BSgenome",
+    "GenomicFeatures",
+    "GenomicAlignments",
+    "Organism.dplyr",
+    "plotgardener",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "plyranges",
+    "rhdf5"
+  ],
+  "Uniquorn": [
+    "VariantAnnotation",
+    "Rsamtools",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "VAExprs": [
+    "scater",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "VCFArray": [
+    "VariantAnnotation",
+    "GenomicFiles",
+    "Rsamtools",
+    "BiocParallel",
+    "rtracklayer",
+    "GenomicAlignments",
+    "BSgenome",
+    "GenomicFeatures"
+  ],
+  "VDJdive": [
+    "BiocParallel"
+  ],
+  "VaSP": [
+    "ballgown",
+    "GenomicAlignments",
+    "Rsamtools",
+    "sva",
+    "rtracklayer",
+    "BiocParallel"
+  ],
+  "VanillaICE": [
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "VarCon": [
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "VariantAnnotation": [
+    "Rsamtools",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "VariantFiltering": [
+    "VariantAnnotation",
+    "BiocParallel",
+    "GenomicFeatures",
+    "Rsamtools",
+    "BSgenome",
+    "GenomicScores",
+    "Gviz",
+    "rtracklayer",
+    "rhdf5",
+    "HDF5Array",
+    "ensembldb",
+    "biovizBase",
+    "GenomicAlignments"
+  ],
+  "VariantTools": [
+    "VariantAnnotation",
+    "Rsamtools",
+    "GenomicFeatures",
+    "rtracklayer",
+    "BiocParallel",
+    "BSgenome",
+    "GenomicAlignments"
+  ],
+  "VisiumIO": [
+    "TENxIO",
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "Voyager": [
+    "SpatialFeatureExperiment",
+    "BiocParallel",
+    "bluster",
+    "DropletUtils",
+    "HDF5Array",
+    "rhdf5",
+    "scuttle"
+  ],
+  "VplotR": [
+    "GenomicAlignments",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "XNAString": [
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "Xeva": [
+    "PharmacoGx",
+    "CoreGx",
+    "BiocParallel",
+    "piano",
+    "fgsea"
+  ],
+  "YAPSA": [
+    "SomaticSignatures",
+    "VariantAnnotation",
+    "BSgenome",
+    "ggbio",
+    "Rsamtools",
+    "rtracklayer",
+    "GenomicFeatures",
+    "biovizBase",
+    "GenomicAlignments",
+    "OrganismDbi",
+    "ensembldb",
+    "BiocParallel",
+    "txdbmaker"
+  ],
+  "ZygosityPredictor": [
+    "GenomicAlignments",
+    "Rsamtools",
+    "VariantAnnotation",
+    "BiocParallel",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures"
+  ],
+  "abseqR": [
+    "BiocParallel"
+  ],
+  "affxparser": [],
+  "affyILM": [
+    "affxparser"
+  ],
+  "affycoretools": [
+    "ReportingTools",
+    "Glimma",
+    "DESeq2",
+    "ggbio",
+    "BiocParallel",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "VariantAnnotation",
+    "rtracklayer",
+    "GenomicFeatures",
+    "OrganismDbi",
+    "ensembldb",
+    "txdbmaker"
+  ],
+  "airpart": [
+    "scater",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "alabaster": [
+    "alabaster.base",
+    "alabaster.matrix",
+    "alabaster.ranges",
+    "alabaster.se",
+    "alabaster.sce",
+    "alabaster.spatial",
+    "alabaster.string",
+    "alabaster.vcf",
+    "alabaster.bumpy",
+    "alabaster.mae",
+    "rhdf5",
+    "HDF5Array",
+    "VariantAnnotation",
+    "Rsamtools",
+    "BiocParallel",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "GenomicAlignments"
+  ],
+  "alabaster.base": [
+    "rhdf5"
+  ],
+  "alabaster.bumpy": [
+    "alabaster.base",
+    "rhdf5"
+  ],
+  "alabaster.files": [
+    "alabaster.base",
+    "Rsamtools",
+    "rhdf5",
+    "BiocParallel"
+  ],
+  "alabaster.mae": [
+    "alabaster.base",
+    "alabaster.se",
+    "rhdf5",
+    "alabaster.ranges",
+    "alabaster.matrix",
+    "HDF5Array"
+  ],
+  "alabaster.matrix": [
+    "alabaster.base",
+    "rhdf5",
+    "HDF5Array"
+  ],
+  "alabaster.ranges": [
+    "alabaster.base",
+    "rhdf5"
+  ],
+  "alabaster.sce": [
+    "alabaster.base",
+    "alabaster.se",
+    "rhdf5",
+    "alabaster.ranges",
+    "alabaster.matrix",
+    "HDF5Array"
+  ],
+  "alabaster.se": [
+    "alabaster.base",
+    "alabaster.ranges",
+    "alabaster.matrix",
+    "rhdf5",
+    "HDF5Array"
+  ],
+  "alabaster.spatial": [
+    "alabaster.base",
+    "alabaster.sce",
+    "rhdf5",
+    "alabaster.se",
+    "alabaster.ranges",
+    "alabaster.matrix",
+    "HDF5Array"
+  ],
+  "alabaster.string": [
+    "alabaster.base",
+    "rhdf5"
+  ],
+  "alabaster.vcf": [
+    "alabaster.base",
+    "VariantAnnotation",
+    "alabaster.se",
+    "alabaster.string",
+    "Rsamtools",
+    "rhdf5",
+    "alabaster.ranges",
+    "alabaster.matrix",
+    "BiocParallel",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "HDF5Array",
+    "GenomicAlignments"
+  ],
+  "amplican": [
+    "ShortRead",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "animalcules": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "annmap": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "annotatr": [
+    "GenomicFeatures",
+    "regioneR",
+    "rtracklayer",
+    "BSgenome",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "anota2seq": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "appreci8R": [
+    "VariantAnnotation",
+    "BSgenome",
+    "Rsamtools",
+    "GenomicFeatures",
+    "GenomicScores",
+    "rtracklayer",
+    "rhdf5",
+    "HDF5Array",
+    "OrganismDbi",
+    "BiocParallel",
+    "txdbmaker",
+    "GenomicAlignments"
+  ],
+  "arrayMvout": [
+    "lumi",
+    "methylumi",
+    "GenomicFeatures",
+    "rtracklayer",
+    "minfi",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments",
+    "rhdf5"
+  ],
+  "atSNP": [
+    "BSgenome",
+    "BiocParallel",
+    "motifStack",
+    "rtracklayer",
+    "Rsamtools",
+    "TFBSTools",
+    "GenomicAlignments",
+    "CNEr"
+  ],
+  "atena": [
+    "BiocParallel",
+    "GenomicFeatures",
+    "GenomicAlignments",
+    "Rsamtools",
+    "rtracklayer"
+  ],
+  "bacon": [
+    "BiocParallel"
+  ],
+  "ballgown": [
+    "sva",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "bambu": [
+    "BSgenome",
+    "BiocParallel",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "Rsamtools",
+    "rtracklayer"
+  ],
+  "bandle": [
+    "MSnbase",
+    "pRoloc",
+    "BiocParallel",
+    "PSMatch"
+  ],
+  "basecallQC": [
+    "ShortRead",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "batchelor": [
+    "BiocSingular",
+    "BiocParallel",
+    "scuttle"
+  ],
+  "bayNorm": [
+    "BiocParallel"
+  ],
+  "beachmat.hdf5": [
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "beer": [
+    "BiocParallel"
+  ],
+  "benchdamic": [
+    "phyloseq",
+    "TreeSummarizedExperiment",
+    "BiocParallel",
+    "zinbwave",
+    "DESeq2",
+    "ALDEx2",
+    "microbiome",
+    "mixOmics",
+    "biomformat",
+    "rhdf5"
+  ],
+  "bigmelon": [
+    "wateRmelon",
+    "minfi",
+    "methylumi",
+    "GenomicFeatures",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "lumi",
+    "rtracklayer",
+    "rhdf5",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "bioCancer": [
+    "cBioPortalData",
+    "DOSE",
+    "clusterProfiler",
+    "ReactomePA",
+    "RTCGAToolbox",
+    "TCGAutils",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "biomformat": [
+    "rhdf5"
+  ],
+  "biomvRCNS": [
+    "Gviz",
+    "rtracklayer",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "VariantAnnotation",
+    "BiocParallel"
+  ],
+  "biosigner": [],
+  "biotmle": [
+    "BiocParallel"
+  ],
+  "biovizBase": [
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "VariantAnnotation",
+    "ensembldb",
+    "rtracklayer",
+    "BiocParallel",
+    "BSgenome"
+  ],
+  "biscuiteer": [
+    "bsseq",
+    "HDF5Array",
+    "Rsamtools",
+    "VariantAnnotation",
+    "rtracklayer",
+    "QDNAseq",
+    "dmrseq",
+    "BiocParallel",
+    "BSgenome",
+    "rhdf5",
+    "bumphunter",
+    "annotatr",
+    "OrganismDbi",
+    "GenomicFeatures",
+    "GenomicAlignments",
+    "regioneR",
+    "txdbmaker"
+  ],
+  "blacksheepr": [
+    "DEXSeq",
+    "BiocParallel",
+    "DESeq2",
+    "Rsamtools"
+  ],
+  "bluster": [
+    "BiocParallel"
+  ],
+  "bnbc": [
+    "rhdf5",
+    "sva",
+    "HiCBricks",
+    "BiocParallel"
+  ],
+  "bnem": [
+    "sva",
+    "BiocParallel"
+  ],
+  "borealis": [
+    "bsseq",
+    "DSS",
+    "BiocParallel",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "branchpointer": [
+    "rtracklayer",
+    "BSgenome",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "breakpointR": [
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "brendaDb": [
+    "BiocParallel"
+  ],
+  "broadSeq": [
+    "DELocal",
+    "DESeq2",
+    "clusterProfiler",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "bsseq": [
+    "BiocParallel",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "bumphunter": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "cBioPortalData": [
+    "RTCGAToolbox",
+    "TCGAutils",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "cTRAP": [
+    "fgsea",
+    "rhdf5",
+    "BiocParallel"
+  ],
+  "cageminer": [
+    "ggbio",
+    "BioNERO",
+    "sva",
+    "BiocParallel",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "VariantAnnotation",
+    "rtracklayer",
+    "GenomicFeatures",
+    "OrganismDbi",
+    "ensembldb",
+    "txdbmaker"
+  ],
+  "canceR": [
+    "cBioPortalData",
+    "RTCGAToolbox",
+    "TCGAutils",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "cardelino": [
+    "snpStats",
+    "VariantAnnotation",
+    "Rsamtools",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "casper": [
+    "GenomicFeatures",
+    "Rsamtools",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "cbaf": [
+    "cBioPortalData",
+    "RTCGAToolbox",
+    "TCGAutils",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "ccImpute": [
+    "BiocParallel"
+  ],
+  "celda": [
+    "scater",
+    "scran",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel",
+    "bluster"
+  ],
+  "cellbaseR": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "censcyt": [
+    "diffcyt",
+    "BiocParallel",
+    "flowCore",
+    "FlowSOM",
+    "cytolib"
+  ],
+  "cfDNAPro": [
+    "GenomicAlignments",
+    "plyranges",
+    "Rsamtools",
+    "BSgenome",
+    "BiocParallel",
+    "rtracklayer"
+  ],
+  "cfdnakit": [
+    "QDNAseq",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "chihaya": [
+    "rhdf5",
+    "HDF5Array"
+  ],
+  "chimeraviz": [
+    "Gviz",
+    "ensembldb",
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "rtracklayer",
+    "BiocParallel",
+    "BSgenome",
+    "biovizBase",
+    "VariantAnnotation"
+  ],
+  "chipenrich": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "chipseq": [
+    "ShortRead",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "chromVAR": [
+    "BiocParallel",
+    "TFBSTools",
+    "Rsamtools",
+    "BSgenome",
+    "rtracklayer",
+    "CNEr",
+    "GenomicAlignments"
+  ],
+  "chromstaR": [
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "cicero": [
+    "Gviz",
+    "rtracklayer",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "VariantAnnotation",
+    "BiocParallel"
+  ],
+  "circRNAprofiler": [
+    "rtracklayer",
+    "DESeq2",
+    "gwascat",
+    "BSgenome",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicFeatures",
+    "snpStats",
+    "VariantAnnotation",
+    "GenomicAlignments"
+  ],
+  "cleanUpdTSeq": [
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "cliProfiler": [
+    "rtracklayer",
+    "BSgenome",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "clipper": [
+    "qpgraph",
+    "BiocParallel",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "cliqueMS": [
+    "xcms",
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel",
+    "MsExperiment",
+    "Spectra",
+    "MetaboCoreUtils"
+  ],
+  "clusterExperiment": [
+    "BiocSingular",
+    "HDF5Array",
+    "zinbwave",
+    "mbkmeans",
+    "BiocParallel",
+    "rhdf5"
+  ],
+  "clusterProfiler": [
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "clusterSeq": [
+    "BiocParallel"
+  ],
+  "clustifyr": [
+    "fgsea",
+    "BiocParallel"
+  ],
+  "cmapR": [
+    "rhdf5",
+    "flowCore",
+    "cytolib"
+  ],
+  "cn.farms": [
+    "affxparser",
+    "oligo"
+  ],
+  "cn.mops": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "coMethDMR": [
+    "BiocParallel",
+    "bumphunter",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "comapr": [
+    "BiocParallel",
+    "Gviz",
+    "rtracklayer",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "VariantAnnotation"
+  ],
+  "combi": [
+    "phyloseq",
+    "biomformat",
+    "rhdf5"
+  ],
+  "compEpiTools": [
+    "Rsamtools",
+    "GenomicFeatures",
+    "methylPipe",
+    "rtracklayer",
+    "Gviz",
+    "GenomicAlignments",
+    "BiocParallel",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "VariantAnnotation"
+  ],
+  "concordexR": [
+    "BiocParallel",
+    "bluster"
+  ],
+  "condiments": [
+    "BiocParallel",
+    "distinct",
+    "scater",
+    "scuttle",
+    "BiocSingular"
+  ],
+  "consICA": [
+    "BiocParallel"
+  ],
+  "consensusDE": [
+    "BiocParallel",
+    "DESeq2",
+    "EDASeq",
+    "ensembldb",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "Rsamtools",
+    "RUVSeq",
+    "ShortRead",
+    "rtracklayer"
+  ],
+  "consensusSeekeR": [
+    "BiocParallel",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "conumee": [
+    "minfi",
+    "rtracklayer",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "rhdf5"
+  ],
+  "coseq": [
+    "DESeq2",
+    "BiocParallel",
+    "HTSFilter"
+  ],
+  "cosmiq": [
+    "xcms",
+    "BiocParallel",
+    "MSnbase",
+    "MsExperiment",
+    "Spectra",
+    "MetaboCoreUtils",
+    "PSMatch"
+  ],
+  "cosmosR": [
+    "decoupleR",
+    "BiocParallel"
+  ],
+  "countsimQC": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "cpvSNP": [
+    "GenomicFeatures",
+    "BiocParallel",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "crisprBowtie": [
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "crisprBwa": [
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "crisprDesign": [
+    "BSgenome",
+    "crisprBowtie",
+    "GenomicFeatures",
+    "rtracklayer",
+    "txdbmaker",
+    "VariantAnnotation",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "crisprShiny": [
+    "BSgenome",
+    "crisprDesign",
+    "crisprViz",
+    "rtracklayer",
+    "Rsamtools",
+    "crisprBowtie",
+    "GenomicFeatures",
+    "txdbmaker",
+    "VariantAnnotation",
+    "Gviz",
+    "ensembldb",
+    "biovizBase",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "crisprVerse": [
+    "crisprBowtie",
+    "crisprDesign",
+    "crisprViz",
+    "BSgenome",
+    "GenomicFeatures",
+    "rtracklayer",
+    "txdbmaker",
+    "VariantAnnotation",
+    "Gviz",
+    "Rsamtools",
+    "ensembldb",
+    "biovizBase",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "crisprViz": [
+    "crisprDesign",
+    "BSgenome",
+    "GenomicFeatures",
+    "Gviz",
+    "txdbmaker",
+    "rtracklayer",
+    "Rsamtools",
+    "crisprBowtie",
+    "VariantAnnotation",
+    "ensembldb",
+    "biovizBase",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "csaw": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "cummeRbund": [
+    "rtracklayer",
+    "Gviz",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "VariantAnnotation",
+    "BiocParallel"
+  ],
+  "customProDB": [
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "VariantAnnotation",
+    "rtracklayer",
+    "txdbmaker",
+    "BiocParallel",
+    "BSgenome"
+  ],
+  "cyanoFilter": [
+    "flowCore",
+    "flowDensity",
+    "flowClust",
+    "cytolib",
+    "flowViz"
+  ],
+  "cydar": [
+    "BiocParallel",
+    "flowCore",
+    "cytolib"
+  ],
+  "cypress": [
+    "TOAST",
+    "BiocParallel",
+    "DESeq2",
+    "EpiDISH"
+  ],
+  "cytoKernel": [
+    "BiocParallel"
+  ],
+  "cytoMEM": [
+    "flowCore",
+    "cytolib"
+  ],
+  "cytofQC": [
+    "CATALYST",
+    "flowCore",
+    "FlowSOM",
+    "scater",
+    "cytolib",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "cytolib": [],
+  "cytomapper": [
+    "BiocParallel",
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "cytoviewer": [
+    "cytomapper",
+    "BiocParallel",
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "dada2": [
+    "ShortRead",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "dagLogo": [
+    "motifStack",
+    "TFBSTools",
+    "BiocParallel",
+    "BSgenome",
+    "CNEr",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "dar": [
+    "mia",
+    "phyloseq",
+    "TreeSummarizedExperiment",
+    "BiocParallel",
+    "bluster",
+    "scater",
+    "scuttle",
+    "biomformat",
+    "rhdf5",
+    "BiocSingular"
+  ],
+  "dcGSA": [
+    "BiocParallel"
+  ],
+  "ddPCRclust": [
+    "flowCore",
+    "flowDensity",
+    "flowPeaks",
+    "cytolib",
+    "flowViz"
+  ],
+  "debCAM": [
+    "BiocParallel"
+  ],
+  "debrowser": [
+    "DESeq2",
+    "DOSE",
+    "clusterProfiler",
+    "sva",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "decompTumor2Sig": [
+    "GenomicFeatures",
+    "VariantAnnotation",
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "decontX": [
+    "celda",
+    "scater",
+    "scran",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel",
+    "bluster"
+  ],
+  "deconvR": [
+    "methylKit",
+    "minfi",
+    "Rsamtools",
+    "fastseg",
+    "rtracklayer",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "GenomicFeatures",
+    "rhdf5",
+    "GenomicAlignments"
+  ],
+  "decoupleR": [
+    "BiocParallel"
+  ],
+  "deepSNV": [
+    "VariantAnnotation",
+    "Rsamtools",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "deltaCaptureC": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "demuxSNP": [
+    "VariantAnnotation",
+    "ensembldb",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "BSgenome",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "derfinder": [
+    "BiocParallel",
+    "bumphunter",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "GenomicFiles",
+    "Rsamtools",
+    "rtracklayer",
+    "VariantAnnotation",
+    "BSgenome"
+  ],
+  "derfinderPlot": [
+    "derfinder",
+    "GenomicFeatures",
+    "ggbio",
+    "BiocParallel",
+    "bumphunter",
+    "GenomicAlignments",
+    "GenomicFiles",
+    "Rsamtools",
+    "rtracklayer",
+    "biovizBase",
+    "BSgenome",
+    "VariantAnnotation",
+    "OrganismDbi",
+    "ensembldb",
+    "txdbmaker"
+  ],
+  "diffHic": [
+    "Rsamtools",
+    "BSgenome",
+    "rhdf5",
+    "csaw",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "diffUTR": [
+    "DEXSeq",
+    "rtracklayer",
+    "ensembldb",
+    "BiocParallel",
+    "DESeq2",
+    "Rsamtools",
+    "GenomicFeatures",
+    "GenomicAlignments"
+  ],
+  "diffcyt": [
+    "flowCore",
+    "FlowSOM",
+    "cytolib"
+  ],
+  "diffuStats": [],
+  "distinct": [
+    "scater",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "dmrseq": [
+    "bsseq",
+    "bumphunter",
+    "BiocParallel",
+    "annotatr",
+    "rtracklayer",
+    "GenomicFeatures",
+    "regioneR",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "doppelgangR": [
+    "BiocParallel",
+    "sva"
+  ],
+  "doubletrouble": [
+    "syntenet",
+    "GenomicFeatures",
+    "rtracklayer",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "dreamlet": [
+    "variancePartition",
+    "zenith",
+    "BiocParallel"
+  ],
+  "drugTargetInteractions": [
+    "ensembldb",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "easier": [
+    "progeny",
+    "decoupleR",
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "easyRNASeq": [
+    "BiocParallel",
+    "GenomicAlignments",
+    "Rsamtools",
+    "ShortRead"
+  ],
+  "easylift": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "edge": [
+    "sva",
+    "BiocParallel"
+  ],
+  "eiR": [],
+  "enhancerHomologSearch": [
+    "BSgenome",
+    "BiocParallel",
+    "motifmatchr",
+    "rtracklayer",
+    "Rsamtools",
+    "TFBSTools",
+    "GenomicAlignments",
+    "CNEr"
+  ],
+  "enrichViewNet": [
+    "enrichplot",
+    "DOSE",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "enrichplot": [
+    "DOSE",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "ensembldb": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "epidecodeR": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "epigenomix": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "epigraHMM": [
+    "rtracklayer",
+    "Rsamtools",
+    "csaw",
+    "rhdf5",
+    "GreyListChIP",
+    "BiocParallel",
+    "GenomicAlignments",
+    "BSgenome"
+  ],
+  "epimutacions": [
+    "minfi",
+    "bumphunter",
+    "GenomicFeatures",
+    "BiocParallel",
+    "Gviz",
+    "rtracklayer",
+    "ensembldb",
+    "Rsamtools",
+    "BSgenome",
+    "biovizBase",
+    "GenomicAlignments",
+    "OrganismDbi",
+    "HDF5Array",
+    "VariantAnnotation",
+    "rhdf5",
+    "txdbmaker"
+  ],
+  "epiregulon": [
+    "BiocParallel",
+    "bluster",
+    "scran",
+    "scuttle",
+    "motifmatchr",
+    "BSgenome",
+    "TFBSTools",
+    "Rsamtools",
+    "HDF5Array",
+    "rhdf5",
+    "alabaster.matrix",
+    "BiocSingular",
+    "alabaster.base",
+    "rtracklayer",
+    "CNEr",
+    "GenomicAlignments"
+  ],
+  "epiregulon.extra": [
+    "scran",
+    "clusterProfiler",
+    "scater",
+    "DOSE",
+    "enrichplot",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel",
+    "bluster",
+    "fgsea"
+  ],
+  "epistasisGA": [
+    "BiocParallel"
+  ],
+  "epivizr": [
+    "epivizrData",
+    "bumphunter",
+    "GenomicFeatures",
+    "OrganismDbi",
+    "ensembldb",
+    "rtracklayer",
+    "Rsamtools",
+    "txdbmaker",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "epivizrChart": [
+    "epivizrData",
+    "OrganismDbi",
+    "GenomicFeatures",
+    "ensembldb",
+    "rtracklayer",
+    "Rsamtools",
+    "txdbmaker",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "epivizrData": [
+    "OrganismDbi",
+    "GenomicFeatures",
+    "ensembldb",
+    "rtracklayer",
+    "Rsamtools",
+    "txdbmaker",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "epivizrStandalone": [
+    "epivizr",
+    "GenomicFeatures",
+    "epivizrData",
+    "bumphunter",
+    "rtracklayer",
+    "OrganismDbi",
+    "ensembldb",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel",
+    "txdbmaker"
+  ],
+  "erma": [
+    "GenomicFiles",
+    "rtracklayer",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments",
+    "VariantAnnotation",
+    "OrganismDbi",
+    "GenomicFeatures",
+    "txdbmaker",
+    "BSgenome"
+  ],
+  "esATAC": [
+    "Rsamtools",
+    "ShortRead",
+    "pipeFrame",
+    "Rbowtie2",
+    "rtracklayer",
+    "ChIPseeker",
+    "clusterProfiler",
+    "BSgenome",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "TFBSTools",
+    "motifmatchr",
+    "enrichplot",
+    "DOSE",
+    "BiocParallel",
+    "CNEr",
+    "fgsea"
+  ],
+  "escape": [
+    "BiocParallel",
+    "GSVA",
+    "UCell",
+    "HDF5Array",
+    "BiocSingular",
+    "rhdf5"
+  ],
+  "eudysbiome": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "extraChIPs": [
+    "BiocParallel",
+    "csaw",
+    "GenomicAlignments",
+    "GenomicInteractions",
+    "Rsamtools",
+    "rtracklayer",
+    "Gviz",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "VariantAnnotation"
+  ],
+  "fCCAC": [
+    "genomation",
+    "BSgenome",
+    "GenomicAlignments",
+    "Rsamtools",
+    "rtracklayer",
+    "BiocParallel"
+  ],
+  "factR": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "BiocParallel",
+    "wiggleplotr",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "faers": [
+    "BiocParallel"
+  ],
+  "famat": [
+    "clusterProfiler",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "fastseg": [],
+  "fcScan": [
+    "VariantAnnotation",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel"
+  ],
+  "ffpe": [
+    "lumi",
+    "methylumi",
+    "GenomicFeatures",
+    "minfi",
+    "rtracklayer",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "rhdf5",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "fgsea": [
+    "BiocParallel"
+  ],
+  "findIPs": [
+    "BiocParallel"
+  ],
+  "flagme": [
+    "xcms",
+    "CAMERA",
+    "BiocParallel",
+    "MSnbase",
+    "MsExperiment",
+    "Spectra",
+    "MetaboCoreUtils",
+    "PSMatch"
+  ],
+  "flowAI": [
+    "flowCore",
+    "cytolib"
+  ],
+  "flowBeads": [
+    "flowCore",
+    "cytolib"
+  ],
+  "flowBin": [
+    "flowCore",
+    "flowFP",
+    "cytolib",
+    "flowViz"
+  ],
+  "flowCHIC": [
+    "flowCore",
+    "cytolib"
+  ],
+  "flowClean": [
+    "flowCore",
+    "cytolib"
+  ],
+  "flowClust": [
+    "flowCore",
+    "cytolib"
+  ],
+  "flowCore": [
+    "cytolib"
+  ],
+  "flowCut": [
+    "flowCore",
+    "flowDensity",
+    "cytolib",
+    "flowViz"
+  ],
+  "flowDensity": [
+    "flowCore",
+    "flowViz",
+    "cytolib"
+  ],
+  "flowFP": [
+    "flowCore",
+    "flowViz",
+    "cytolib"
+  ],
+  "flowGate": [
+    "flowWorkspace",
+    "ggcyto",
+    "flowCore",
+    "cytolib",
+    "ncdfFlow"
+  ],
+  "flowMatch": [
+    "flowCore",
+    "cytolib"
+  ],
+  "flowMeans": [
+    "flowCore",
+    "cytolib"
+  ],
+  "flowMerge": [
+    "flowClust",
+    "flowCore",
+    "cytolib"
+  ],
+  "flowPeaks": [],
+  "flowPloidy": [
+    "flowCore",
+    "cytolib"
+  ],
+  "flowSpecs": [
+    "BiocParallel",
+    "flowCore",
+    "cytolib"
+  ],
+  "flowStats": [
+    "flowCore",
+    "flowWorkspace",
+    "ncdfFlow",
+    "flowViz",
+    "cytolib"
+  ],
+  "flowTime": [
+    "flowCore",
+    "cytolib"
+  ],
+  "flowTrans": [
+    "flowCore",
+    "flowViz",
+    "flowClust",
+    "cytolib"
+  ],
+  "flowVS": [
+    "flowCore",
+    "flowViz",
+    "flowStats",
+    "cytolib",
+    "flowWorkspace",
+    "ncdfFlow"
+  ],
+  "flowViz": [
+    "flowCore",
+    "cytolib"
+  ],
+  "flowWorkspace": [
+    "cytolib",
+    "flowCore",
+    "ncdfFlow"
+  ],
+  "flowcatchR": [
+    "BiocParallel"
+  ],
+  "fobitools": [
+    "fgsea",
+    "BiocParallel"
+  ],
+  "frma": [
+    "oligo",
+    "affxparser"
+  ],
+  "funtooNorm": [
+    "minfi",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "GenomicFeatures",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "gDNAx": [
+    "BiocParallel",
+    "GenomicFiles",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "Rsamtools",
+    "rtracklayer",
+    "VariantAnnotation",
+    "BSgenome"
+  ],
+  "gDR": [
+    "gDRcore",
+    "gDRimport",
+    "gDRutils",
+    "BiocParallel",
+    "CoreGx",
+    "PharmacoGx",
+    "piano",
+    "fgsea"
+  ],
+  "gDRcore": [
+    "BiocParallel",
+    "gDRutils"
+  ],
+  "gDRimport": [
+    "CoreGx",
+    "PharmacoGx",
+    "gDRutils",
+    "piano",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "gDRutils": [
+    "BiocParallel"
+  ],
+  "gINTomics": [
+    "BiocParallel",
+    "GenomicFeatures",
+    "ReactomePA",
+    "clusterProfiler",
+    "DOSE",
+    "enrichplot",
+    "rtracklayer",
+    "fgsea",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "gcapc": [
+    "BSgenome",
+    "Rsamtools",
+    "GenomicAlignments",
+    "rtracklayer",
+    "BiocParallel"
+  ],
+  "gemini": [],
+  "geneAttribution": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "geneXtendeR": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "genomation": [
+    "BSgenome",
+    "GenomicAlignments",
+    "Rsamtools",
+    "rtracklayer",
+    "BiocParallel"
+  ],
+  "geomeTriD": [
+    "trackViewer",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "Gviz",
+    "Rsamtools",
+    "rtracklayer",
+    "rhdf5",
+    "txdbmaker",
+    "BiocParallel",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "VariantAnnotation"
+  ],
+  "gep2pep": [
+    "rhdf5"
+  ],
+  "gg4way": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "ggbio": [
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "VariantAnnotation",
+    "rtracklayer",
+    "GenomicFeatures",
+    "OrganismDbi",
+    "ensembldb",
+    "BiocParallel",
+    "txdbmaker"
+  ],
+  "ggcyto": [
+    "flowCore",
+    "ncdfFlow",
+    "flowWorkspace",
+    "cytolib"
+  ],
+  "girafe": [
+    "Rsamtools",
+    "ShortRead",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "glmGamPoi": [
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "glmSparseNet": [
+    "TCGAutils",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "gmapR": [
+    "Rsamtools",
+    "rtracklayer",
+    "GenomicFeatures",
+    "VariantAnnotation",
+    "BSgenome",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "gmoviz": [
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "rtracklayer",
+    "BiocParallel"
+  ],
+  "goSorensen": [
+    "clusterProfiler",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "goseq": [
+    "rtracklayer",
+    "GenomicFeatures",
+    "txdbmaker",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "gpuMagic": [],
+  "graper": [],
+  "groHMM": [
+    "GenomicAlignments",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "gscreend": [
+    "BiocParallel"
+  ],
+  "gsean": [
+    "fgsea",
+    "PPInfer",
+    "BiocParallel"
+  ],
+  "gwascat": [
+    "GenomicFeatures",
+    "snpStats",
+    "VariantAnnotation",
+    "rtracklayer",
+    "Rsamtools",
+    "BSgenome",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "gwasurvivr": [
+    "VariantAnnotation",
+    "Rsamtools",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "h5vc": [
+    "rhdf5",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "hdxmsqc": [
+    "Spectra",
+    "BiocParallel",
+    "MetaboCoreUtils"
+  ],
+  "hermes": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "hiAnnotator": [
+    "rtracklayer",
+    "BSgenome",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "hiReadsProcessor": [
+    "GenomicAlignments",
+    "BiocParallel",
+    "hiAnnotator",
+    "Rsamtools",
+    "rtracklayer",
+    "BSgenome"
+  ],
+  "hicVennDiagram": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "hummingbird": [],
+  "iCNV": [
+    "CODEX",
+    "Rsamtools",
+    "BSgenome",
+    "BiocParallel",
+    "rtracklayer",
+    "GenomicAlignments"
+  ],
+  "iCheck": [
+    "lumi",
+    "methylumi",
+    "GenomicFeatures",
+    "rtracklayer",
+    "minfi",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments",
+    "rhdf5"
+  ],
+  "iNETgrate": [
+    "Pigengene",
+    "minfi",
+    "OrganismDbi",
+    "GenomicFeatures",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "clusterProfiler",
+    "ReactomePA",
+    "DOSE",
+    "enrichplot",
+    "fgsea",
+    "rtracklayer",
+    "rhdf5",
+    "txdbmaker",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "iPath": [
+    "BiocParallel"
+  ],
+  "iSEEde": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "iSEEtree": [
+    "miaViz",
+    "mia",
+    "TreeSummarizedExperiment",
+    "BiocParallel",
+    "bluster",
+    "scater",
+    "scuttle",
+    "BiocSingular"
+  ],
+  "iasva": [
+    "BiocParallel"
+  ],
+  "icetea": [
+    "GenomicFeatures",
+    "ShortRead",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments",
+    "rtracklayer",
+    "VariantAnnotation",
+    "csaw",
+    "DESeq2",
+    "BSgenome"
+  ],
+  "ideal": [
+    "DESeq2",
+    "mosdef",
+    "goseq",
+    "BiocParallel",
+    "rtracklayer",
+    "GenomicFeatures",
+    "clusterProfiler",
+    "DOSE",
+    "enrichplot",
+    "txdbmaker",
+    "Rsamtools",
+    "GenomicAlignments",
+    "fgsea"
+  ],
+  "igvR": [
+    "GenomicAlignments",
+    "rtracklayer",
+    "VariantAnnotation",
+    "Rsamtools",
+    "BiocParallel",
+    "BSgenome",
+    "GenomicFeatures"
+  ],
+  "imcRtools": [
+    "scuttle",
+    "cytomapper",
+    "BiocParallel",
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "immunoClust": [
+    "flowCore",
+    "cytolib"
+  ],
+  "infinityFlow": [
+    "flowCore",
+    "cytolib"
+  ],
+  "intansv": [
+    "ggbio",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "VariantAnnotation",
+    "rtracklayer",
+    "GenomicFeatures",
+    "OrganismDbi",
+    "ensembldb",
+    "BiocParallel",
+    "txdbmaker"
+  ],
+  "isomiRs": [
+    "DEGreport",
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "karyoploteR": [
+    "regioneR",
+    "Rsamtools",
+    "rtracklayer",
+    "biovizBase",
+    "GenomicFeatures",
+    "VariantAnnotation",
+    "GenomicAlignments",
+    "ensembldb",
+    "BSgenome",
+    "BiocParallel"
+  ],
+  "katdetectr": [
+    "BiocParallel",
+    "BSgenome",
+    "plyranges",
+    "VariantAnnotation",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures"
+  ],
+  "kissDE": [
+    "DESeq2",
+    "DSS",
+    "BiocParallel",
+    "bsseq",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "lemur": [
+    "glmGamPoi",
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "lineagespot": [
+    "VariantAnnotation",
+    "Rsamtools",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "lipidr": [
+    "fgsea",
+    "BiocParallel"
+  ],
+  "lisaClust": [
+    "BiocParallel",
+    "spicyR",
+    "ClassifyR"
+  ],
+  "loci2path": [
+    "BiocParallel"
+  ],
+  "lumi": [
+    "methylumi",
+    "GenomicFeatures",
+    "rtracklayer",
+    "minfi",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments",
+    "rhdf5"
+  ],
+  "lute": [
+    "scran",
+    "scuttle",
+    "BiocParallel",
+    "BiocSingular",
+    "bluster"
+  ],
+  "m6Aboost": [
+    "rtracklayer",
+    "BSgenome",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "mCSEA": [
+    "fgsea",
+    "GenomicFeatures",
+    "Gviz",
+    "BiocParallel",
+    "rtracklayer",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "OrganismDbi",
+    "VariantAnnotation",
+    "txdbmaker"
+  ],
+  "magpie": [
+    "rtracklayer",
+    "GenomicFeatures",
+    "Rsamtools",
+    "BiocParallel",
+    "DESeq2",
+    "TRESS",
+    "GenomicAlignments"
+  ],
+  "magrene": [
+    "BiocParallel"
+  ],
+  "mariner": [
+    "plyranges",
+    "HDF5Array",
+    "BiocParallel",
+    "rhdf5",
+    "plotgardener",
+    "rtracklayer",
+    "GenomicAlignments",
+    "Rsamtools"
+  ],
+  "martini": [
+    "snpStats"
+  ],
+  "maser": [
+    "rtracklayer",
+    "Gviz",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "VariantAnnotation",
+    "BiocParallel"
+  ],
+  "matter": [
+    "BiocParallel"
+  ],
+  "mbkmeans": [
+    "BiocParallel"
+  ],
+  "meshes": [
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "metaMS": [
+    "CAMERA",
+    "xcms",
+    "BiocParallel",
+    "MSnbase",
+    "MsExperiment",
+    "Spectra",
+    "MetaboCoreUtils",
+    "PSMatch"
+  ],
+  "metabomxtr": [
+    "BiocParallel"
+  ],
+  "metagene2": [
+    "BiocParallel",
+    "rtracklayer",
+    "GenomicAlignments",
+    "Rsamtools"
+  ],
+  "metapone": [
+    "BiocParallel",
+    "fgsea"
+  ],
+  "metaseqR2": [
+    "DESeq2",
+    "BiocParallel",
+    "DSS",
+    "EDASeq",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "Rsamtools",
+    "rtracklayer",
+    "txdbmaker",
+    "bsseq",
+    "ShortRead",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "methInheritSim": [
+    "methylKit",
+    "Rsamtools",
+    "fastseg",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "methodical": [
+    "annotatr",
+    "BiocParallel",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "rtracklayer",
+    "GenomicFeatures",
+    "regioneR",
+    "Rsamtools",
+    "GenomicAlignments",
+    "ExperimentHubData",
+    "methrix",
+    "TCGAutils",
+    "AnnotationHubData",
+    "OrganismDbi",
+    "txdbmaker"
+  ],
+  "methrix": [
+    "rtracklayer",
+    "HDF5Array",
+    "BSgenome",
+    "Rsamtools",
+    "rhdf5",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "methyLImp2": [
+    "BiocParallel"
+  ],
+  "methylCC": [
+    "minfi",
+    "bsseq",
+    "plyranges",
+    "bumphunter",
+    "BiocParallel",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "GenomicFeatures",
+    "rtracklayer",
+    "GenomicAlignments",
+    "Rsamtools"
+  ],
+  "methylGSA": [
+    "clusterProfiler",
+    "missMethyl",
+    "BiocParallel",
+    "DOSE",
+    "enrichplot",
+    "minfi",
+    "methylumi",
+    "fgsea",
+    "GenomicFeatures",
+    "bumphunter",
+    "HDF5Array",
+    "rtracklayer",
+    "rhdf5",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "methylInheritance": [
+    "methylKit",
+    "BiocParallel",
+    "Rsamtools",
+    "fastseg",
+    "rtracklayer",
+    "GenomicAlignments"
+  ],
+  "methylKit": [
+    "Rsamtools",
+    "fastseg",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "methylPipe": [
+    "Rsamtools",
+    "Gviz",
+    "GenomicAlignments",
+    "BiocParallel",
+    "rtracklayer",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "VariantAnnotation"
+  ],
+  "methylSig": [
+    "bsseq",
+    "DSS",
+    "BiocParallel",
+    "BSgenome",
+    "HDF5Array",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "methylclock": [
+    "minfi",
+    "ExperimentHubData",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "GenomicFeatures",
+    "AnnotationHubData",
+    "rhdf5",
+    "Rsamtools",
+    "rtracklayer",
+    "OrganismDbi",
+    "txdbmaker",
+    "GenomicAlignments"
+  ],
+  "methylscaper": [
+    "BiocParallel"
+  ],
+  "methylumi": [
+    "minfi",
+    "GenomicFeatures",
+    "rtracklayer",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "rhdf5",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "miRSM": [
+    "clusterProfiler",
+    "ReactomePA",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "miRspongeR": [
+    "clusterProfiler",
+    "ReactomePA",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "mia": [
+    "TreeSummarizedExperiment",
+    "BiocParallel",
+    "bluster",
+    "scater",
+    "scuttle",
+    "BiocSingular"
+  ],
+  "miaSim": [
+    "TreeSummarizedExperiment",
+    "BiocParallel"
+  ],
+  "miaViz": [
+    "TreeSummarizedExperiment",
+    "mia",
+    "BiocParallel",
+    "scater",
+    "bluster",
+    "scuttle",
+    "BiocSingular"
+  ],
+  "microRNA": [],
+  "microSTASIS": [
+    "BiocParallel",
+    "TreeSummarizedExperiment"
+  ],
+  "microbiome": [
+    "phyloseq",
+    "biomformat",
+    "rhdf5"
+  ],
+  "microbiomeDASim": [
+    "phyloseq",
+    "biomformat",
+    "rhdf5"
+  ],
+  "microbiomeExplorer": [
+    "DESeq2",
+    "biomformat",
+    "rhdf5",
+    "BiocParallel"
+  ],
+  "microbiomeMarker": [
+    "phyloseq",
+    "DESeq2",
+    "biomformat",
+    "ALDEx2",
+    "BiocParallel",
+    "rhdf5"
+  ],
+  "miloR": [
+    "BiocParallel",
+    "BiocSingular"
+  ],
+  "mimager": [
+    "oligo",
+    "affxparser"
+  ],
+  "mina": [],
+  "minfi": [
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "GenomicFeatures",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "missMethyl": [
+    "methylumi",
+    "minfi",
+    "GenomicFeatures",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "rtracklayer",
+    "rhdf5",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "mitoClone2": [
+    "deepSNV",
+    "VariantAnnotation",
+    "Rsamtools",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "mixOmics": [
+    "BiocParallel"
+  ],
+  "mobileRNA": [
+    "DESeq2",
+    "rtracklayer",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "monaLisa": [
+    "TFBSTools",
+    "BSgenome",
+    "BiocParallel",
+    "rtracklayer",
+    "Rsamtools",
+    "CNEr",
+    "GenomicAlignments"
+  ],
+  "mosaics": [
+    "GenomicAlignments",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "mosdef": [
+    "clusterProfiler",
+    "goseq",
+    "DESeq2",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel",
+    "rtracklayer",
+    "GenomicFeatures",
+    "fgsea",
+    "txdbmaker",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "motifStack": [
+    "TFBSTools",
+    "BiocParallel",
+    "BSgenome",
+    "CNEr",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "motifTestR": [],
+  "motifbreakR": [
+    "MotifDb",
+    "BSgenome",
+    "rtracklayer",
+    "VariantAnnotation",
+    "BiocParallel",
+    "motifStack",
+    "Gviz",
+    "Rsamtools",
+    "GenomicFeatures",
+    "ensembldb",
+    "biovizBase",
+    "GenomicAlignments",
+    "TFBSTools",
+    "CNEr"
+  ],
+  "motifmatchr": [
+    "TFBSTools",
+    "BSgenome",
+    "Rsamtools",
+    "rtracklayer",
+    "BiocParallel",
+    "CNEr",
+    "GenomicAlignments"
+  ],
+  "msImpute": [
+    "scran",
+    "scuttle",
+    "BiocParallel",
+    "BiocSingular",
+    "bluster"
+  ],
+  "msgbsR": [
+    "BSgenome",
+    "easyRNASeq",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "ggbio",
+    "Rsamtools",
+    "rtracklayer",
+    "BiocParallel",
+    "ShortRead",
+    "biovizBase",
+    "VariantAnnotation",
+    "OrganismDbi",
+    "ensembldb",
+    "txdbmaker"
+  ],
+  "msmsEDA": [
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "msmsTests": [
+    "MSnbase",
+    "msmsEDA",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "msqrob2": [
+    "BiocParallel"
+  ],
+  "multiGSEA": [
+    "fgsea",
+    "BiocParallel"
+  ],
+  "multiHiCcompare": [
+    "HiCcompare",
+    "BiocParallel",
+    "rhdf5"
+  ],
+  "multicrispr": [
+    "BSgenome",
+    "CRISPRseek",
+    "GenomicFeatures",
+    "karyoploteR",
+    "plyranges",
+    "rtracklayer",
+    "Rsamtools",
+    "rhdf5",
+    "regioneR",
+    "biovizBase",
+    "VariantAnnotation",
+    "GenomicAlignments",
+    "ensembldb",
+    "BiocParallel"
+  ],
+  "mumosa": [
+    "BiocParallel",
+    "BiocSingular",
+    "scuttle",
+    "scran",
+    "batchelor",
+    "bluster"
+  ],
+  "muscat": [
+    "BiocParallel",
+    "DESeq2",
+    "scater",
+    "scuttle",
+    "variancePartition",
+    "BiocSingular"
+  ],
+  "muscle": [],
+  "musicatk": [
+    "VariantAnnotation",
+    "BSgenome",
+    "GenomicFeatures",
+    "decompTumor2Sig",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "mygene": [
+    "GenomicFeatures",
+    "txdbmaker",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "myvariant": [
+    "VariantAnnotation",
+    "Rsamtools",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "ncGTW": [
+    "BiocParallel",
+    "xcms",
+    "MSnbase",
+    "MsExperiment",
+    "Spectra",
+    "MetaboCoreUtils",
+    "PSMatch"
+  ],
+  "ncdfFlow": [
+    "flowCore",
+    "cytolib"
+  ],
+  "nearBynding": [
+    "plyranges",
+    "Rsamtools",
+    "rtracklayer",
+    "GenomicAlignments",
+    "BiocParallel",
+    "GenomicFeatures"
+  ],
+  "netSmooth": [
+    "scater",
+    "clusterExperiment",
+    "HDF5Array",
+    "BiocSingular",
+    "zinbwave",
+    "mbkmeans",
+    "rhdf5",
+    "scuttle",
+    "BiocParallel"
+  ],
+  "netZooR": [
+    "yarn",
+    "quantro",
+    "minfi",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "GenomicFeatures",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "nipalsMCIA": [
+    "fgsea",
+    "BiocParallel"
+  ],
+  "nnSVG": [
+    "BiocParallel"
+  ],
+  "normr": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "nucleR": [
+    "Rsamtools",
+    "ShortRead",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "nullranges": [
+    "plyranges",
+    "rtracklayer",
+    "GenomicAlignments",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "octad": [
+    "RUVSeq",
+    "DESeq2",
+    "rhdf5",
+    "EDASeq",
+    "GSVA",
+    "BiocParallel",
+    "ShortRead",
+    "Rsamtools",
+    "GenomicFeatures",
+    "HDF5Array",
+    "BiocSingular",
+    "rtracklayer",
+    "GenomicAlignments"
+  ],
+  "oligo": [
+    "affxparser"
+  ],
+  "omXplore": [
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "omicRexposome": [
+    "sva",
+    "BiocParallel"
+  ],
+  "omicplotR": [
+    "ALDEx2",
+    "BiocParallel"
+  ],
+  "omicsViewer": [
+    "fgsea",
+    "BiocParallel"
+  ],
+  "openCyto": [
+    "flowCore",
+    "flowViz",
+    "ncdfFlow",
+    "flowWorkspace",
+    "flowClust",
+    "cytolib"
+  ],
+  "oppar": [
+    "GSVA",
+    "BiocParallel",
+    "HDF5Array",
+    "BiocSingular",
+    "rhdf5"
+  ],
+  "optimalFlow": [
+    "flowMeans",
+    "flowCore",
+    "cytolib"
+  ],
+  "orthos": [
+    "BiocParallel",
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "pRoloc": [
+    "MSnbase",
+    "BiocParallel",
+    "PSMatch"
+  ],
+  "pRolocGUI": [
+    "pRoloc",
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "pageRank": [
+    "motifmatchr",
+    "TFBSTools",
+    "BSgenome",
+    "Rsamtools",
+    "rtracklayer",
+    "BiocParallel",
+    "CNEr",
+    "GenomicAlignments"
+  ],
+  "pairedGSEA": [
+    "DESeq2",
+    "DEXSeq",
+    "fgsea",
+    "sva",
+    "BiocParallel",
+    "Rsamtools"
+  ],
+  "panelcn.mops": [
+    "cn.mops",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "pathlinkR": [
+    "clusterProfiler",
+    "fgsea",
+    "DOSE",
+    "enrichplot",
+    "BiocParallel"
+  ],
+  "pcaExplorer": [
+    "DESeq2",
+    "mosdef",
+    "BiocParallel",
+    "clusterProfiler",
+    "goseq",
+    "DOSE",
+    "enrichplot",
+    "rtracklayer",
+    "GenomicFeatures",
+    "fgsea",
+    "txdbmaker",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "pdInfoBuilder": [
+    "affxparser",
+    "oligo"
+  ],
+  "peakPantheR": [
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "peco": [
+    "scater",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "pengls": [
+    "BiocParallel"
+  ],
+  "periodicDNA": [
+    "BSgenome",
+    "BiocParallel",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "phantasus": [
+    "rhdf5",
+    "fgsea",
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "phyloseq": [
+    "biomformat",
+    "rhdf5"
+  ],
+  "piano": [
+    "fgsea",
+    "BiocParallel"
+  ],
+  "pipeComp": [
+    "BiocParallel",
+    "scran",
+    "scater",
+    "scuttle",
+    "BiocSingular",
+    "bluster"
+  ],
+  "pipeFrame": [
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "plotgardener": [
+    "plyranges",
+    "rhdf5",
+    "rtracklayer",
+    "GenomicAlignments",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "plyinteractions": [
+    "plyranges",
+    "rtracklayer",
+    "GenomicAlignments",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "plyranges": [
+    "rtracklayer",
+    "GenomicAlignments",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "pmm": [],
+  "podkat": [
+    "Rsamtools",
+    "BSgenome",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "pram": [
+    "BiocParallel",
+    "GenomicAlignments",
+    "rtracklayer",
+    "Rsamtools"
+  ],
+  "prebs": [
+    "GenomicAlignments",
+    "RPA",
+    "Rsamtools",
+    "BiocParallel",
+    "phyloseq",
+    "biomformat",
+    "rhdf5"
+  ],
+  "preciseTAD": [
+    "rCGH",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "primirTSS": [
+    "rtracklayer",
+    "GenomicScores",
+    "Gviz",
+    "TFBSTools",
+    "BSgenome",
+    "rhdf5",
+    "HDF5Array",
+    "GenomicFeatures",
+    "ensembldb",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel",
+    "CNEr",
+    "VariantAnnotation"
+  ],
+  "proActiv": [
+    "BiocParallel",
+    "DESeq2",
+    "GenomicFeatures",
+    "GenomicAlignments",
+    "txdbmaker",
+    "Rsamtools",
+    "rtracklayer"
+  ],
+  "proBAMr": [
+    "GenomicFeatures",
+    "txdbmaker",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "profileplyr": [
+    "soGGi",
+    "ChIPseeker",
+    "GenomicFeatures",
+    "rGREAT",
+    "BiocParallel",
+    "rtracklayer",
+    "Rsamtools",
+    "enrichplot",
+    "GenomicAlignments",
+    "chipseq",
+    "ShortRead",
+    "DOSE",
+    "fgsea"
+  ],
+  "progeny": [
+    "decoupleR",
+    "BiocParallel"
+  ],
+  "projectR": [
+    "fgsea",
+    "BiocParallel"
+  ],
+  "psichomics": [
+    "recount",
+    "BiocParallel",
+    "derfinder",
+    "rtracklayer",
+    "bumphunter",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "GenomicFiles",
+    "Rsamtools",
+    "VariantAnnotation",
+    "BSgenome"
+  ],
+  "ptairMS": [
+    "MSnbase",
+    "rhdf5",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "puma": [
+    "oligo",
+    "affxparser"
+  ],
+  "qPLEXanalyzer": [
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "qpgraph": [
+    "BiocParallel",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "qsea": [
+    "rtracklayer",
+    "BSgenome",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "qsmooth": [
+    "sva",
+    "BiocParallel"
+  ],
+  "qsvaR": [
+    "sva",
+    "BiocParallel"
+  ],
+  "quantro": [
+    "minfi",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "GenomicFeatures",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "r3Cseq": [
+    "Rsamtools",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "rCGH": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "rGADEM": [
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "rGREAT": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "rTRMui": [
+    "MotifDb",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "raer": [
+    "Rsamtools",
+    "BSgenome",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "BiocParallel",
+    "rtracklayer"
+  ],
+  "ramwas": [
+    "GenomicAlignments",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "rawDiag": [
+    "BiocParallel"
+  ],
+  "reconsi": [
+    "phyloseq",
+    "biomformat",
+    "rhdf5"
+  ],
+  "recount": [
+    "BiocParallel",
+    "derfinder",
+    "rtracklayer",
+    "bumphunter",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "GenomicFiles",
+    "Rsamtools",
+    "VariantAnnotation",
+    "BSgenome"
+  ],
+  "recount3": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "recountmethylation": [
+    "minfi",
+    "HDF5Array",
+    "rhdf5",
+    "bumphunter",
+    "BiocParallel",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "recoup": [
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "Rsamtools",
+    "rtracklayer",
+    "txdbmaker",
+    "BiocParallel"
+  ],
+  "regionReport": [
+    "derfinder",
+    "DEFormats",
+    "DESeq2",
+    "BiocParallel",
+    "bumphunter",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "GenomicFiles",
+    "Rsamtools",
+    "rtracklayer",
+    "VariantAnnotation",
+    "BSgenome"
+  ],
+  "regionalpcs": [
+    "PCAtools",
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "regioneR": [
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "regioneReloaded": [
+    "regioneR",
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "regutools": [
+    "Gviz",
+    "rtracklayer",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "Rsamtools",
+    "GenomicAlignments",
+    "VariantAnnotation",
+    "BiocParallel"
+  ],
+  "rfPred": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "rgsepd": [
+    "DESeq2",
+    "goseq",
+    "BiocParallel",
+    "rtracklayer",
+    "GenomicFeatures",
+    "txdbmaker",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "rhdf5": [],
+  "riboSeqR": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "ribor": [
+    "rhdf5"
+  ],
+  "ribosomeProfilingQC": [
+    "BSgenome",
+    "EDASeq",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "motifStack",
+    "rtracklayer",
+    "Rsamtools",
+    "RUVSeq",
+    "txdbmaker",
+    "ShortRead",
+    "BiocParallel",
+    "TFBSTools",
+    "CNEr"
+  ],
+  "rifi": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "rifiComparative": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "rmspc": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "rnaEditr": [
+    "bumphunter",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "roar": [
+    "GenomicAlignments",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "rtracklayer": [
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "saseR": [
+    "ASpli",
+    "GenomicFeatures",
+    "BiocParallel",
+    "DESeq2",
+    "DEXSeq",
+    "GenomicAlignments",
+    "Gviz",
+    "Rsamtools",
+    "txdbmaker",
+    "rtracklayer",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "VariantAnnotation"
+  ],
+  "satuRn": [
+    "BiocParallel"
+  ],
+  "scBFA": [
+    "zinbwave",
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "scBubbletree": [
+    "BiocParallel"
+  ],
+  "scCB2": [
+    "rhdf5",
+    "DropletUtils",
+    "BiocParallel",
+    "HDF5Array",
+    "scuttle"
+  ],
+  "scClassify": [
+    "BiocParallel",
+    "Cepo",
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "scDD": [
+    "BiocParallel",
+    "scran",
+    "scuttle",
+    "BiocSingular",
+    "bluster"
+  ],
+  "scDDboost": [
+    "BiocParallel",
+    "Oscope"
+  ],
+  "scDataviz": [
+    "flowCore",
+    "cytolib"
+  ],
+  "scDblFinder": [
+    "BiocParallel",
+    "BiocSingular",
+    "scran",
+    "scater",
+    "scuttle",
+    "bluster",
+    "Rsamtools",
+    "rtracklayer",
+    "GenomicAlignments"
+  ],
+  "scDesign3": [
+    "BiocParallel"
+  ],
+  "scDiagnostics": [
+    "bluster",
+    "BiocParallel"
+  ],
+  "scDotPlot": [
+    "scater",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "scFeatures": [
+    "GSVA",
+    "ensembldb",
+    "BiocParallel",
+    "SingleCellSignalR",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "HDF5Array",
+    "BiocSingular",
+    "scran",
+    "rhdf5",
+    "GenomicAlignments",
+    "scuttle",
+    "bluster"
+  ],
+  "scGPS": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "scHOT": [
+    "BiocParallel"
+  ],
+  "scMerge": [
+    "BiocParallel",
+    "BiocSingular",
+    "M3Drop",
+    "scater",
+    "batchelor",
+    "scran",
+    "scuttle",
+    "bluster"
+  ],
+  "scMitoMut": [
+    "rhdf5"
+  ],
+  "scMultiSim": [
+    "BiocParallel"
+  ],
+  "scPCA": [
+    "BiocParallel"
+  ],
+  "scPipe": [
+    "DropletUtils",
+    "GenomicAlignments",
+    "Rsamtools",
+    "rtracklayer",
+    "BiocParallel",
+    "HDF5Array",
+    "rhdf5",
+    "scuttle"
+  ],
+  "scRNAseqApp": [
+    "rhdf5",
+    "Rsamtools",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "scRecover": [
+    "BiocParallel"
+  ],
+  "scShapes": [
+    "BiocParallel"
+  ],
+  "scTHI": [
+    "BiocParallel"
+  ],
+  "scTensor": [
+    "ReactomePA",
+    "DOSE",
+    "BiocParallel",
+    "fgsea",
+    "enrichplot"
+  ],
+  "scTreeViz": [
+    "epivizr",
+    "scran",
+    "epivizrData",
+    "scater",
+    "bumphunter",
+    "OrganismDbi",
+    "GenomicFeatures",
+    "ensembldb",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel",
+    "bluster",
+    "rtracklayer",
+    "Rsamtools",
+    "txdbmaker",
+    "GenomicAlignments"
+  ],
+  "scanMiR": [
+    "BiocParallel"
+  ],
+  "scanMiRApp": [
+    "scanMiR",
+    "BiocParallel",
+    "ensembldb",
+    "GenomicFeatures",
+    "rtracklayer",
+    "txdbmaker",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "scater": [
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "scde": [
+    "BiocParallel"
+  ],
+  "scifer": [
+    "flowCore",
+    "cytolib"
+  ],
+  "scmeth": [
+    "bsseq",
+    "BSgenome",
+    "annotatr",
+    "HDF5Array",
+    "GenomicFeatures",
+    "regioneR",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "rhdf5",
+    "GenomicAlignments"
+  ],
+  "scone": [
+    "BiocParallel",
+    "rhdf5",
+    "RUVSeq",
+    "EDASeq",
+    "ShortRead",
+    "Rsamtools",
+    "GenomicFeatures",
+    "rtracklayer",
+    "GenomicAlignments"
+  ],
+  "scoreInvHap": [
+    "snpStats",
+    "VariantAnnotation",
+    "BiocParallel",
+    "Rsamtools",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "GenomicAlignments"
+  ],
+  "scran": [
+    "scuttle",
+    "BiocParallel",
+    "BiocSingular",
+    "bluster"
+  ],
+  "screenCounter": [
+    "BiocParallel"
+  ],
+  "scruff": [
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "txdbmaker",
+    "Rsamtools",
+    "ShortRead",
+    "BiocParallel",
+    "ggbio",
+    "rtracklayer",
+    "biovizBase",
+    "BSgenome",
+    "VariantAnnotation",
+    "OrganismDbi",
+    "ensembldb"
+  ],
+  "scry": [
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "scuttle": [
+    "BiocParallel"
+  ],
+  "scviR": [
+    "scater",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "segmentSeq": [
+    "ShortRead",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "segmenter": [
+    "ChIPseeker",
+    "enrichplot",
+    "GenomicFeatures",
+    "rtracklayer",
+    "DOSE",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel",
+    "fgsea"
+  ],
+  "selectKSigs": [
+    "HiLDA",
+    "GenomicFeatures",
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "seqArchR": [
+    "BiocParallel"
+  ],
+  "seqArchRplus": [
+    "BiocParallel",
+    "BSgenome",
+    "ChIPseeker",
+    "clusterProfiler",
+    "seqArchR",
+    "rtracklayer",
+    "Rsamtools",
+    "enrichplot",
+    "GenomicFeatures",
+    "DOSE",
+    "fgsea",
+    "GenomicAlignments"
+  ],
+  "seqCAT": [
+    "VariantAnnotation",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel"
+  ],
+  "seqsetvis": [
+    "GenomicAlignments",
+    "Rsamtools",
+    "rtracklayer",
+    "BiocParallel"
+  ],
+  "sesame": [
+    "BiocParallel"
+  ],
+  "sevenC": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "shinyMethyl": [
+    "minfi",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "GenomicFeatures",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "shinyepico": [
+    "minfi",
+    "rtracklayer",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "rhdf5"
+  ],
+  "sigFeature": [
+    "BiocParallel"
+  ],
+  "signatureSearch": [
+    "HDF5Array",
+    "fgsea",
+    "BiocParallel",
+    "clusterProfiler",
+    "DOSE",
+    "rhdf5",
+    "enrichplot"
+  ],
+  "signeR": [
+    "VariantAnnotation",
+    "rtracklayer",
+    "BSgenome",
+    "Rsamtools",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "BiocParallel"
+  ],
+  "simPIC": [
+    "scuttle",
+    "BiocParallel"
+  ],
+  "simpleSeg": [
+    "BiocParallel",
+    "cytomapper",
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "singleCellTK": [
+    "batchelor",
+    "BiocParallel",
+    "DESeq2",
+    "ensembldb",
+    "GSVA",
+    "scater",
+    "scMerge",
+    "scran",
+    "SingleR",
+    "sva",
+    "celda",
+    "DropletUtils",
+    "zinbwave",
+    "scDblFinder",
+    "scuttle",
+    "BiocSingular",
+    "alabaster.base",
+    "alabaster.matrix",
+    "alabaster.se",
+    "HDF5Array",
+    "rhdf5",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "bluster",
+    "M3Drop",
+    "alabaster.sce",
+    "alabaster.ranges",
+    "GenomicAlignments"
+  ],
+  "singscore": [
+    "BiocParallel"
+  ],
+  "sitadela": [
+    "GenomicFeatures",
+    "Rsamtools",
+    "rtracklayer",
+    "txdbmaker",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "skewr": [
+    "methylumi",
+    "wateRmelon",
+    "minfi",
+    "GenomicFeatures",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "lumi",
+    "rtracklayer",
+    "rhdf5",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "snpStats": [],
+  "soGGi": [
+    "Rsamtools",
+    "GenomicAlignments",
+    "rtracklayer",
+    "chipseq",
+    "BiocParallel",
+    "ShortRead"
+  ],
+  "sparrow": [
+    "BiocParallel"
+  ],
+  "spatzie": [
+    "BSgenome",
+    "GenomicFeatures",
+    "GenomicInteractions",
+    "motifmatchr",
+    "TFBSTools",
+    "rtracklayer",
+    "Rsamtools",
+    "Gviz",
+    "BiocParallel",
+    "CNEr",
+    "GenomicAlignments",
+    "ensembldb",
+    "biovizBase",
+    "VariantAnnotation"
+  ],
+  "spicyR": [
+    "BiocParallel",
+    "ClassifyR"
+  ],
+  "spiky": [
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "rtracklayer",
+    "BiocParallel"
+  ],
+  "spillR": [
+    "CATALYST",
+    "flowCore",
+    "FlowSOM",
+    "scater",
+    "cytolib",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "splatter": [
+    "BiocParallel",
+    "scuttle"
+  ],
+  "spoon": [
+    "nnSVG",
+    "BiocParallel",
+    "scuttle"
+  ],
+  "squallms": [
+    "xcms",
+    "MSnbase",
+    "MsExperiment",
+    "Spectra",
+    "PSMatch",
+    "BiocParallel",
+    "MetaboCoreUtils"
+  ],
+  "ssviz": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "standR": [
+    "RUVSeq",
+    "EDASeq",
+    "ShortRead",
+    "Rsamtools",
+    "GenomicFeatures",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "strandCheckR": [
+    "GenomicAlignments",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicFeatures",
+    "rtracklayer"
+  ],
+  "sva": [
+    "BiocParallel"
+  ],
+  "svaNUMT": [
+    "rtracklayer",
+    "VariantAnnotation",
+    "StructuralVariantAnnotation",
+    "GenomicFeatures",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "BiocParallel"
+  ],
+  "svaRetro": [
+    "rtracklayer",
+    "StructuralVariantAnnotation",
+    "VariantAnnotation",
+    "GenomicFeatures",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BSgenome",
+    "BiocParallel"
+  ],
+  "synapter": [
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "syntenet": [
+    "BiocParallel",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "systemPipeR": [
+    "Rsamtools",
+    "ShortRead",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "systemPipeTools": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "tLOH": [
+    "VariantAnnotation",
+    "Rsamtools",
+    "rtracklayer",
+    "BSgenome",
+    "GenomicFeatures",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "tRNAscanImport": [
+    "rtracklayer",
+    "BSgenome",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "tRanslatome": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "tadar": [
+    "Gviz",
+    "Rsamtools",
+    "VariantAnnotation",
+    "rtracklayer",
+    "GenomicFeatures",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "ternarynet": [
+    "BiocParallel"
+  ],
+  "terraTCGAdata": [
+    "TCGAutils",
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "tidyCoverage": [
+    "BiocParallel",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "tidyFlowCore": [
+    "flowCore",
+    "cytolib"
+  ],
+  "tidyomics": [
+    "plyranges",
+    "nullranges",
+    "rtracklayer",
+    "GenomicAlignments",
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "tidytof": [
+    "flowCore",
+    "cytolib"
+  ],
+  "timeOmics": [
+    "mixOmics",
+    "BiocParallel"
+  ],
+  "topdownr": [
+    "MSnbase",
+    "PSMatch",
+    "BiocParallel"
+  ],
+  "tpSVG": [
+    "BiocParallel"
+  ],
+  "trackViewer": [
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "Gviz",
+    "Rsamtools",
+    "rtracklayer",
+    "rhdf5",
+    "txdbmaker",
+    "BiocParallel",
+    "ensembldb",
+    "BSgenome",
+    "biovizBase",
+    "VariantAnnotation"
+  ],
+  "tracktables": [
+    "Rsamtools",
+    "BiocParallel"
+  ],
+  "tradeSeq": [
+    "BiocParallel"
+  ],
+  "transcriptR": [
+    "chipseq",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "Rsamtools",
+    "rtracklayer",
+    "ShortRead",
+    "BiocParallel"
+  ],
+  "transformGamPoi": [
+    "glmGamPoi",
+    "HDF5Array",
+    "rhdf5"
+  ],
+  "transmogR": [
+    "BSgenome",
+    "GenomicFeatures",
+    "VariantAnnotation",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "traseR": [
+    "BSgenome",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "treeclimbR": [
+    "TreeSummarizedExperiment",
+    "diffcyt",
+    "flowCore",
+    "FlowSOM",
+    "BiocParallel",
+    "cytolib"
+  ],
+  "treekoR": [
+    "diffcyt",
+    "flowCore",
+    "FlowSOM",
+    "cytolib"
+  ],
+  "tricycle": [
+    "scater",
+    "scuttle",
+    "BiocSingular",
+    "BiocParallel"
+  ],
+  "trigger": [
+    "sva",
+    "BiocParallel"
+  ],
+  "txcutr": [
+    "GenomicFeatures",
+    "txdbmaker",
+    "rtracklayer",
+    "BiocParallel",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "txdbmaker": [
+    "GenomicFeatures",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "tximeta": [
+    "GenomicFeatures",
+    "txdbmaker",
+    "ensembldb",
+    "rtracklayer",
+    "Rsamtools",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "uncoverappLib": [
+    "Gviz",
+    "OrganismDbi",
+    "Rsamtools",
+    "ensembldb",
+    "rtracklayer",
+    "GenomicFeatures",
+    "BSgenome",
+    "biovizBase",
+    "GenomicAlignments",
+    "txdbmaker",
+    "BiocParallel",
+    "VariantAnnotation"
+  ],
+  "variancePartition": [
+    "BiocParallel"
+  ],
+  "velociraptor": [
+    "scuttle",
+    "BiocParallel",
+    "BiocSingular"
+  ],
+  "vidger": [
+    "DESeq2",
+    "BiocParallel"
+  ],
+  "vtpnet": [
+    "gwascat",
+    "GenomicFeatures",
+    "snpStats",
+    "VariantAnnotation",
+    "rtracklayer",
+    "Rsamtools",
+    "BSgenome",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "vulcan": [
+    "ChIPpeakAnno",
+    "DiffBind",
+    "csaw",
+    "DESeq2",
+    "GenomicAlignments",
+    "GenomicFeatures",
+    "Rsamtools",
+    "regioneR",
+    "rtracklayer",
+    "ensembldb",
+    "BiocParallel",
+    "systemPipeR",
+    "GreyListChIP",
+    "BSgenome",
+    "ShortRead"
+  ],
+  "waddR": [
+    "BiocParallel"
+  ],
+  "wateRmelon": [
+    "methylumi",
+    "lumi",
+    "minfi",
+    "GenomicFeatures",
+    "rtracklayer",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "rhdf5",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "wavClusteR": [
+    "Rsamtools",
+    "GenomicFeatures",
+    "rtracklayer",
+    "BiocParallel",
+    "GenomicAlignments"
+  ],
+  "weitrix": [
+    "BiocParallel"
+  ],
+  "wiggleplotr": [
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments",
+    "BiocParallel"
+  ],
+  "xcms": [
+    "BiocParallel",
+    "MSnbase",
+    "MsExperiment",
+    "Spectra",
+    "MetaboCoreUtils",
+    "PSMatch"
+  ],
+  "xenLite": [
+    "HDF5Array",
+    "TENxIO",
+    "rhdf5"
+  ],
+  "yarn": [
+    "quantro",
+    "minfi",
+    "bumphunter",
+    "HDF5Array",
+    "BiocParallel",
+    "GenomicFeatures",
+    "rhdf5",
+    "rtracklayer",
+    "Rsamtools",
+    "GenomicAlignments"
+  ],
+  "zenith": [
+    "variancePartition",
+    "BiocParallel"
+  ],
+  "zinbwave": [
+    "BiocParallel"
+  ],
+  "zitools": [
+    "phyloseq",
+    "DESeq2",
+    "BiocParallel",
+    "biomformat",
+    "rhdf5"
+  ]
+}
