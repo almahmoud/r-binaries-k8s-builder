@@ -12,6 +12,7 @@ ASGSCA
 ASSET
 AlphaBeta
 AlphaMissenseR
+AnVIL
 AnVILAz
 AnVILBase
 AnVILBilling
@@ -34,15 +35,18 @@ BiocNeighbors
 BiocParallel
 BiocStyle
 BiocVersion
+BiocWorkflowTools
 BridgeDbR
 BrowserViz
 BufferedMatrix
+BufferedMatrixMethods
 CARNIVAL
 CFAssay
 CGEN
 CGHbase
 CGHregions
 CMA
+CNAnorm
 COMPASS
 CONSTANd
 COSNet
@@ -118,6 +122,7 @@ KBoost
 LBE
 LPE
 LedPred
+Linnorm
 MBttest
 MSstatsConvert
 MVCClass
@@ -143,6 +148,7 @@ NuPoP
 OLIN
 OLINgui
 OSAT
+OmicsMLRepoR
 Omixer
 OrderedList
 PLPE
@@ -171,7 +177,9 @@ ReactomeGSA
 RedeR
 RedisParam
 Rhdf5lib
+Rmagpie
 Rsubread
+SANTA
 SBMLR
 SCBN
 SCFA
@@ -214,6 +222,7 @@ basilisk
 basilisk.utils
 bioDist
 bioassayR
+biobroom
 biobtreeR
 biocroxytest
 biocthis
@@ -234,6 +243,7 @@ cellmigRation
 cellscape
 cellxgenedp
 clippda
+clst
 clustComp
 clusterStab
 coGPS
@@ -245,6 +255,8 @@ copa
 covEB
 cqn
 ctc
+ctsGE
+cycle
 daMA
 dcGSA
 dcanr
@@ -368,6 +380,7 @@ pickgene
 planet
 plasmut
 plgem
+plotGrouper
 powerTCR
 profileScoreDist
 projectR
@@ -382,6 +395,7 @@ randPack
 randRotation
 rbsurv
 rcellminer
+rgoslin
 rmelting
 rnaseqcomp
 roastgsa

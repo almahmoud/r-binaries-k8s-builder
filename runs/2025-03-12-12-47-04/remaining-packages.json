@@ -474,13 +474,8 @@
   "AlpsNMR": [
     "impute"
   ],
-  "AnVIL": [],
-  "AnVILPublish": [
-    "AnVIL"
-  ],
-  "AnVILWorkflow": [
-    "AnVIL"
-  ],
+  "AnVILPublish": [],
+  "AnVILWorkflow": [],
   "Anaquin": [
     "DESeq2",
     "S4Vectors",
@@ -1338,7 +1333,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "BiocWorkflowTools": [],
   "Biostrings": [
     "S4Vectors",
     "IRanges",
@@ -1392,7 +1386,6 @@
     "BiocIO",
     "SparseArray"
   ],
-  "BufferedMatrixMethods": [],
   "BumpyMatrix": [
     "S4Vectors",
     "IRanges"
@@ -1695,7 +1688,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "CNAnorm": [],
   "CNEr": [
     "Biostrings",
     "pwalign",
@@ -4797,7 +4789,6 @@
   "GNOSIS": [
     "maftools",
     "cBioPortalData",
-    "AnVIL",
     "MultiAssayExperiment",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -6593,7 +6584,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "Linnorm": [],
   "LiquidAssociation": [
     "AnnotationDbi",
     "IRanges",
@@ -8736,7 +8726,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "OmicsMLRepoR": [],
   "OmnipathR": [],
   "OncoScore": [
     "biomaRt",
@@ -10640,7 +10629,6 @@
     "SparseArray",
     "biomaRt"
   ],
-  "Rmagpie": [],
   "Rmmquant": [
     "S4Vectors",
     "GenomicRanges",
@@ -10808,7 +10796,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "SANTA": [],
   "SARC": [
     "RaggedExperiment",
     "GenomicRanges",
@@ -12412,9 +12399,7 @@
     "UCSC.utils",
     "Biostrings"
   ],
-  "TPP": [
-    "biobroom"
-  ],
+  "TPP": [],
   "TPP2D": [],
   "TREG": [
     "SummarizedExperiment",
@@ -14220,7 +14205,6 @@
     "IRanges",
     "S4Vectors",
     "KEGGREST",
-    "AnVIL",
     "MultiAssayExperiment",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -14247,7 +14231,6 @@
     "BiocIO",
     "Rhtslib"
   ],
-  "biobroom": [],
   "biocGraph": [
     "Rgraphviz",
     "graph",
@@ -14479,7 +14462,6 @@
     "preprocessCore",
     "RBGL",
     "minet",
-    "Linnorm",
     "genefilter",
     "edgeR",
     "AnnotationDbi",
@@ -14629,7 +14611,6 @@
     "SparseArray"
   ],
   "cBioPortalData": [
-    "AnVIL",
     "MultiAssayExperiment",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -14715,7 +14696,6 @@
     "GSEABase",
     "geNetClassifier",
     "phenoTest",
-    "AnVIL",
     "MultiAssayExperiment",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -14815,7 +14795,6 @@
   "cbaf": [
     "cBioPortalData",
     "genefilter",
-    "AnVIL",
     "MultiAssayExperiment",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -15325,10 +15304,7 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "clst": [],
-  "clstutils": [
-    "clst"
-  ],
+  "clstutils": [],
   "clusterExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -16090,7 +16066,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "ctsGE": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -16165,7 +16140,6 @@
     "S4Vectors",
     "flowViz"
   ],
-  "cycle": [],
   "cydar": [
     "SingleCellExperiment",
     "S4Vectors",
@@ -16367,7 +16341,6 @@
     "Rgraphviz",
     "minet",
     "AnnotationDbi",
-    "Linnorm",
     "RBGL",
     "IRanges",
     "S4Vectors",
@@ -17131,7 +17104,6 @@
     "graph",
     "mnem",
     "Rgraphviz",
-    "Linnorm",
     "RBGL"
   ],
   "epialleleR": [
@@ -21187,8 +21159,7 @@
   ],
   "mnem": [
     "graph",
-    "Rgraphviz",
-    "Linnorm"
+    "Rgraphviz"
   ],
   "moanin": [
     "SummarizedExperiment",
@@ -21903,7 +21874,6 @@
     "minet",
     "graph",
     "Rgraphviz",
-    "Linnorm",
     "RBGL"
   ],
   "netSmooth": [
@@ -22954,7 +22924,6 @@
     "affy",
     "preprocessCore"
   ],
-  "plotGrouper": [],
   "plotgardener": [
     "GenomeInfoDb",
     "GenomicRanges",
@@ -24080,7 +24049,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "rgoslin": [],
   "rgsepd": [
     "DESeq2",
     "goseq",
@@ -26803,7 +26771,6 @@
   "ternarynet": [],
   "terraTCGAdata": [
     "MultiAssayExperiment",
-    "AnVIL",
     "GenomicRanges",
     "RaggedExperiment",
     "S4Vectors",
