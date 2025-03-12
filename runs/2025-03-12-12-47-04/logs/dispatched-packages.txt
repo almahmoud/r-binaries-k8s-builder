@@ -1335,3 +1335,6 @@ dce
 mogsa
 multiGSEA
 sSNAPPY
+GENESIS
+VariantExperiment
+alabaster.se

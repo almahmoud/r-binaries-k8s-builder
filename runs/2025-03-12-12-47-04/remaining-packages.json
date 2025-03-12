@@ -339,8 +339,7 @@
   "CNTools": [],
   "CNVPanelizer": [],
   "CNVRanger": [
-    "RaggedExperiment",
-    "GDSArray"
+    "RaggedExperiment"
   ],
   "CNVfilteR": [
     "regioneR",
@@ -1002,14 +1001,10 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "GBScleanR": [],
   "GDCRNATools": [
     "DESeq2"
   ],
-  "GDSArray": [],
-  "GENESIS": [
-    "SeqVarTools"
-  ],
+  "GENESIS": [],
   "GEOexplorer": [
     "GEOquery"
   ],
@@ -1030,7 +1025,6 @@
     "ShortRead",
     "rtracklayer"
   ],
-  "GOexpress": [],
   "GOpro": [
     "MultiAssayExperiment"
   ],
@@ -1923,8 +1917,7 @@
     "AnnotationFilter",
     "VariantAnnotation",
     "rtracklayer",
-    "GenomicFeatures",
-    "SeqVarTools"
+    "GenomicFeatures"
   ],
   "RCAS": [
     "BSgenome",
@@ -2292,7 +2285,6 @@
   ],
   "SeqGate": [],
   "SeqSQC": [],
-  "SeqVarTools": [],
   "ShortRead": [],
   "SiPSiC": [
     "SingleCellExperiment"
@@ -2580,9 +2572,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "VariantExperiment": [
-    "GDSArray"
-  ],
+  "VariantExperiment": [],
   "VariantFiltering": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -2683,7 +2673,6 @@
     "ScaledMatrix"
   ],
   "alabaster": [
-    "alabaster.matrix",
     "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
@@ -2699,29 +2688,22 @@
   ],
   "alabaster.mae": [
     "MultiAssayExperiment",
-    "alabaster.se",
-    "alabaster.matrix"
+    "alabaster.se"
   ],
-  "alabaster.matrix": [],
   "alabaster.sce": [
     "SingleCellExperiment",
-    "alabaster.se",
-    "alabaster.matrix"
+    "alabaster.se"
   ],
-  "alabaster.se": [
-    "alabaster.matrix"
-  ],
+  "alabaster.se": [],
   "alabaster.spatial": [
     "SpatialExperiment",
     "alabaster.sce",
     "SingleCellExperiment",
-    "alabaster.se",
-    "alabaster.matrix"
+    "alabaster.se"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
     "alabaster.se",
-    "alabaster.matrix",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures"
@@ -3496,7 +3478,6 @@
     "BSgenome",
     "TFBSTools",
     "MultiAssayExperiment",
-    "alabaster.matrix",
     "BiocSingular",
     "ScaledMatrix",
     "rtracklayer",
@@ -5293,7 +5274,6 @@
     "BiocSingular",
     "ScaledMatrix",
     "beachmat",
-    "alabaster.matrix",
     "alabaster.se",
     "GenomicFeatures",
     "AnnotationFilter",

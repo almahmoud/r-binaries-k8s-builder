@@ -178,6 +178,8 @@ FilterFFPE
 FitHiC
 FlowSOM
 GAprediction
+GBScleanR
+GDSArray
 GEM
 GENIE3
 GEOfastq
@@ -189,6 +191,7 @@ GIGSEA
 GLAD
 GNET2
 GOSemSim
+GOexpress
 GOfuncR
 GPA
 GRENITS
@@ -480,6 +483,7 @@ Sconify
 ScreenR
 SemDist
 SeqArray
+SeqVarTools
 SharedObject
 SigFuge
 SimFFPE
@@ -546,6 +550,7 @@ agilp
 alabaster.base
 alabaster.bumpy
 alabaster.files
+alabaster.matrix
 alabaster.ranges
 alabaster.schemas
 alabaster.string
