@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 425 packages built successfully
+- 431 packages built successfully
 - 8 packages failed to build
-- 1800 packages not yet processed
+- 1794 packages not yet processed
 
 ## Failed Builds (8)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -20,7 +20,7 @@
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 | [eiR](https://bioconductor.org/packages/3.20/bioc/html/eiR.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/eiR/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/eiR)          | Build failed with unknown error     |
 
-## Successfully Built (425)
+## Successfully Built (431)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -448,8 +448,14 @@
 | [densvis](https://bioconductor.org/packages/3.20/bioc/html/densvis.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/densvis/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/densvis)                 |
 | [miRBaseConverter](https://bioconductor.org/packages/3.20/bioc/html/miRBaseConverter.html)               | Built    | [Log](runs/2025-03-12-12-47-04/logs/miRBaseConverter/build-success.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miRBaseConverter)        |
 | [tkWidgets](https://bioconductor.org/packages/3.20/bioc/html/tkWidgets.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/tkWidgets/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tkWidgets)               |
+| [EBImage](https://bioconductor.org/packages/3.20/bioc/html/EBImage.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/EBImage/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBImage)                 |
+| [GeneSelectMMD](https://bioconductor.org/packages/3.20/bioc/html/GeneSelectMMD.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/GeneSelectMMD/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneSelectMMD)           |
+| [MiPP](https://bioconductor.org/packages/3.20/bioc/html/MiPP.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/MiPP/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MiPP)                    |
+| [Rbwa](https://bioconductor.org/packages/3.20/bioc/html/Rbwa.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/Rbwa/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rbwa)                    |
+| [a4Classif](https://bioconductor.org/packages/3.20/bioc/html/a4Classif.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/a4Classif/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/a4Classif)               |
+| [geneRecommender](https://bioconductor.org/packages/3.20/bioc/html/geneRecommender.html)                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/geneRecommender/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/geneRecommender)         |
 
-## Not Yet Processed (1800)
+## Not Yet Processed (1794)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -694,7 +700,6 @@
 | [DrugVsDisease](https://bioconductor.org/packages/3.20/bioc/html/DrugVsDisease.html)                             | Unprocessed |
 | [Dune](https://bioconductor.org/packages/3.20/bioc/html/Dune.html)                                               | Unprocessed |
 | [DuplexDiscovereR](https://bioconductor.org/packages/3.20/bioc/html/DuplexDiscovereR.html)                       | Unprocessed |
-| [EBImage](https://bioconductor.org/packages/3.20/bioc/html/EBImage.html)                                         | Unprocessed |
 | [EBSEA](https://bioconductor.org/packages/3.20/bioc/html/EBSEA.html)                                             | Unprocessed |
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)                                             | Unprocessed |
 | [EDASeq](https://bioconductor.org/packages/3.20/bioc/html/EDASeq.html)                                           | Unprocessed |
@@ -781,7 +786,6 @@
 | [GeneMeta](https://bioconductor.org/packages/3.20/bioc/html/GeneMeta.html)                                       | Unprocessed |
 | [GeneNetworkBuilder](https://bioconductor.org/packages/3.20/bioc/html/GeneNetworkBuilder.html)                   | Unprocessed |
 | [GeneRegionScan](https://bioconductor.org/packages/3.20/bioc/html/GeneRegionScan.html)                           | Unprocessed |
-| [GeneSelectMMD](https://bioconductor.org/packages/3.20/bioc/html/GeneSelectMMD.html)                             | Unprocessed |
 | [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)                   | Unprocessed |
 | [GeneTonic](https://bioconductor.org/packages/3.20/bioc/html/GeneTonic.html)                                     | Unprocessed |
 | [GenomAutomorphism](https://bioconductor.org/packages/3.20/bioc/html/GenomAutomorphism.html)                     | Unprocessed |
@@ -968,7 +972,6 @@
 | [MethylMix](https://bioconductor.org/packages/3.20/bioc/html/MethylMix.html)                                     | Unprocessed |
 | [MethylSeekR](https://bioconductor.org/packages/3.20/bioc/html/MethylSeekR.html)                                 | Unprocessed |
 | [Mfuzz](https://bioconductor.org/packages/3.20/bioc/html/Mfuzz.html)                                             | Unprocessed |
-| [MiPP](https://bioconductor.org/packages/3.20/bioc/html/MiPP.html)                                               | Unprocessed |
 | [MiRaGE](https://bioconductor.org/packages/3.20/bioc/html/MiRaGE.html)                                           | Unprocessed |
 | [MicrobiomeProfiler](https://bioconductor.org/packages/3.20/bioc/html/MicrobiomeProfiler.html)                   | Unprocessed |
 | [MicrobiotaProcess](https://bioconductor.org/packages/3.20/bioc/html/MicrobiotaProcess.html)                     | Unprocessed |
@@ -1141,7 +1144,6 @@
 | [RbcBook1](https://bioconductor.org/packages/3.20/bioc/html/RbcBook1.html)                                       | Unprocessed |
 | [Rbec](https://bioconductor.org/packages/3.20/bioc/html/Rbec.html)                                               | Unprocessed |
 | [Rbowtie2](https://bioconductor.org/packages/3.20/bioc/html/Rbowtie2.html)                                       | Unprocessed |
-| [Rbwa](https://bioconductor.org/packages/3.20/bioc/html/Rbwa.html)                                               | Unprocessed |
 | [RcisTarget](https://bioconductor.org/packages/3.20/bioc/html/RcisTarget.html)                                   | Unprocessed |
 | [Rcpi](https://bioconductor.org/packages/3.20/bioc/html/Rcpi.html)                                               | Unprocessed |
 | [Rcwl](https://bioconductor.org/packages/3.20/bioc/html/Rcwl.html)                                               | Unprocessed |
@@ -1340,7 +1342,6 @@
 | [ZygosityPredictor](https://bioconductor.org/packages/3.20/bioc/html/ZygosityPredictor.html)                     | Unprocessed |
 | [a4](https://bioconductor.org/packages/3.20/bioc/html/a4.html)                                                   | Unprocessed |
 | [a4Base](https://bioconductor.org/packages/3.20/bioc/html/a4Base.html)                                           | Unprocessed |
-| [a4Classif](https://bioconductor.org/packages/3.20/bioc/html/a4Classif.html)                                     | Unprocessed |
 | [aCGH](https://bioconductor.org/packages/3.20/bioc/html/aCGH.html)                                               | Unprocessed |
 | [adSplit](https://bioconductor.org/packages/3.20/bioc/html/adSplit.html)                                         | Unprocessed |
 | [adductomicsR](https://bioconductor.org/packages/3.20/bioc/html/adductomicsR.html)                               | Unprocessed |
@@ -1649,7 +1650,6 @@
 | [geNetClassifier](https://bioconductor.org/packages/3.20/bioc/html/geNetClassifier.html)                         | Unprocessed |
 | [gemma.R](https://bioconductor.org/packages/3.20/bioc/html/gemma.R.html)                                         | Unprocessed |
 | [geneAttribution](https://bioconductor.org/packages/3.20/bioc/html/geneAttribution.html)                         | Unprocessed |
-| [geneRecommender](https://bioconductor.org/packages/3.20/bioc/html/geneRecommender.html)                         | Unprocessed |
 | [geneRxCluster](https://bioconductor.org/packages/3.20/bioc/html/geneRxCluster.html)                             | Unprocessed |
 | [geneXtendeR](https://bioconductor.org/packages/3.20/bioc/html/geneXtendeR.html)                                 | Unprocessed |
 | [genefilter](https://bioconductor.org/packages/3.20/bioc/html/genefilter.html)                                   | Unprocessed |

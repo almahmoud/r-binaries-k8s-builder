@@ -71,6 +71,7 @@ DepecheR
 DiffLogo
 DriverNet
 DynDoc
+EBImage
 EBarrays
 EBcoexpress
 EmpiricalBrownsMethod
@@ -92,6 +93,7 @@ GWAS.BAYES
 GeneExpressionSignature
 GeneGA
 GeneOverlap
+GeneSelectMMD
 GeneticsPed
 GladiaTOX
 HELP
@@ -124,6 +126,7 @@ MeasurementError.cor
 Mergeomics
 MetID
 MiChip
+MiPP
 ModCon
 Mulcom
 MultiMed
@@ -157,6 +160,7 @@ RTCGA
 RUVnormalize
 RankProd
 Rbowtie
+Rbwa
 Rcollectl
 Rdisop
 RedeR
@@ -181,6 +185,7 @@ TargetSearch
 UNDO
 VennDetail
 Wrench
+a4Classif
 a4Core
 a4Preproc
 a4Reporting
@@ -272,6 +277,7 @@ gdsfmt
 gemini
 genArise
 geneClassifiers
+geneRecommender
 geneplast
 genoCN
 genomes

@@ -423,3 +423,9 @@ Rsubread
 RUVnormalize
 SIMLR
 tkWidgets
+a4Classif
+EBImage
+geneRecommender
+GeneSelectMMD
+MiPP
+Rbwa

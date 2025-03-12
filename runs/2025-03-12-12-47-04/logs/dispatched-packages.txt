@@ -584,3 +584,6 @@ tkWidgets
 Mfuzz
 OLINgui
 dupRadar
+FISHalyseR
+flowcatchR
+synapsis
