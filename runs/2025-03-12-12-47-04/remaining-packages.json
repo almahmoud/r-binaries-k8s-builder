@@ -15023,7 +15023,6 @@
     "BiocIO",
     "Rhtslib"
   ],
-  "cancerclass": [],
   "cardelino": [
     "GenomeInfoDb",
     "GenomicRanges",
@@ -15554,7 +15553,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "clippda": [],
   "clipper": [
     "graph",
     "qpgraph",
@@ -27005,7 +27003,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "subSeq": [],
   "supersigs": [
     "Biostrings",
     "SummarizedExperiment",

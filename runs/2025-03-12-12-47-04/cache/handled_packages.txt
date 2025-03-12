@@ -167,11 +167,13 @@ biodbNci
 biodbUniprot
 bugsigdbr
 calm
+cancerclass
 ccrepe
 ceRNAnetsim
 cellmigRation
 cellscape
 cellxgenedp
+clippda
 clustComp
 coGPS
 cqn
@@ -296,6 +298,7 @@ splots
 ssize
 ssrch
 stepNorm
+subSeq
 survcomp
 swfdr
 switchBox

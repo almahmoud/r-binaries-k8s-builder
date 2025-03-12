@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 318 packages built successfully
+- 321 packages built successfully
 - 7 packages failed to build
-- 1908 packages not yet processed
+- 1905 packages not yet processed
 
 ## Failed Builds (7)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -19,7 +19,7 @@
 | [affxparser](https://bioconductor.org/packages/3.20/bioc/html/affxparser.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/affxparser/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/affxparser)   | Build failed with unknown error     |
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 
-## Successfully Built (318)
+## Successfully Built (321)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -340,8 +340,11 @@
 | [massiR](https://bioconductor.org/packages/3.20/bioc/html/massiR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/massiR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/massiR)                  |
 | [philr](https://bioconductor.org/packages/3.20/bioc/html/philr.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/philr/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/philr)                   |
 | [rain](https://bioconductor.org/packages/3.20/bioc/html/rain.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/rain/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rain)                    |
+| [cancerclass](https://bioconductor.org/packages/3.20/bioc/html/cancerclass.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/cancerclass/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cancerclass)             |
+| [clippda](https://bioconductor.org/packages/3.20/bioc/html/clippda.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/clippda/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/clippda)                 |
+| [subSeq](https://bioconductor.org/packages/3.20/bioc/html/subSeq.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/subSeq/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/subSeq)                  |
 
-## Not Yet Processed (1908)
+## Not Yet Processed (1905)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1369,7 +1372,6 @@
 | [cTRAP](https://bioconductor.org/packages/3.20/bioc/html/cTRAP.html)                                             | Unprocessed |
 | [cageminer](https://bioconductor.org/packages/3.20/bioc/html/cageminer.html)                                     | Unprocessed |
 | [canceR](https://bioconductor.org/packages/3.20/bioc/html/canceR.html)                                           | Unprocessed |
-| [cancerclass](https://bioconductor.org/packages/3.20/bioc/html/cancerclass.html)                                 | Unprocessed |
 | [cardelino](https://bioconductor.org/packages/3.20/bioc/html/cardelino.html)                                     | Unprocessed |
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)                                           | Unprocessed |
 | [categoryCompare](https://bioconductor.org/packages/3.20/bioc/html/categoryCompare.html)                         | Unprocessed |
@@ -1403,7 +1405,6 @@
 | [cleaver](https://bioconductor.org/packages/3.20/bioc/html/cleaver.html)                                         | Unprocessed |
 | [clevRvis](https://bioconductor.org/packages/3.20/bioc/html/clevRvis.html)                                       | Unprocessed |
 | [cliProfiler](https://bioconductor.org/packages/3.20/bioc/html/cliProfiler.html)                                 | Unprocessed |
-| [clippda](https://bioconductor.org/packages/3.20/bioc/html/clippda.html)                                         | Unprocessed |
 | [clipper](https://bioconductor.org/packages/3.20/bioc/html/clipper.html)                                         | Unprocessed |
 | [cliqueMS](https://bioconductor.org/packages/3.20/bioc/html/cliqueMS.html)                                       | Unprocessed |
 | [clst](https://bioconductor.org/packages/3.20/bioc/html/clst.html)                                               | Unprocessed |
@@ -2163,7 +2164,6 @@
 | [strandCheckR](https://bioconductor.org/packages/3.20/bioc/html/strandCheckR.html)                               | Unprocessed |
 | [struct](https://bioconductor.org/packages/3.20/bioc/html/struct.html)                                           | Unprocessed |
 | [structToolbox](https://bioconductor.org/packages/3.20/bioc/html/structToolbox.html)                             | Unprocessed |
-| [subSeq](https://bioconductor.org/packages/3.20/bioc/html/subSeq.html)                                           | Unprocessed |
 | [supersigs](https://bioconductor.org/packages/3.20/bioc/html/supersigs.html)                                     | Unprocessed |
 | [surfaltr](https://bioconductor.org/packages/3.20/bioc/html/surfaltr.html)                                       | Unprocessed |
 | [survClust](https://bioconductor.org/packages/3.20/bioc/html/survClust.html)                                     | Unprocessed |

@@ -316,3 +316,6 @@
 ['[massiR](https://bioconductor.org/packages/3.20/bioc/html/massiR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/massiR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/massiR)']
 ['[philr](https://bioconductor.org/packages/3.20/bioc/html/philr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/philr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/philr)']
 ['[rain](https://bioconductor.org/packages/3.20/bioc/html/rain.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rain/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rain)']
+['[cancerclass](https://bioconductor.org/packages/3.20/bioc/html/cancerclass.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/cancerclass/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cancerclass)']
+['[clippda](https://bioconductor.org/packages/3.20/bioc/html/clippda.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/clippda/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/clippda)']
+['[subSeq](https://bioconductor.org/packages/3.20/bioc/html/subSeq.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/subSeq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/subSeq)']
