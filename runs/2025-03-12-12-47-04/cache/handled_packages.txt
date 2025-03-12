@@ -681,6 +681,7 @@ genArise
 geneClassifiers
 geneRecommender
 geneRxCluster
+genefilter
 geneplast
 genoCN
 genomeIntervals
@@ -911,6 +912,7 @@ rsemmed
 runibic
 sSeq
 sagenhaft
+sangeranalyseR
 sangerseqR
 sarks
 satuRn

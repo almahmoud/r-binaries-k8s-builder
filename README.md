@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1008 packages built successfully
+- 1010 packages built successfully
 - 16 packages failed to build
-- 1209 packages not yet processed
+- 1207 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (1008)
+## Successfully Built (1010)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1039,8 +1039,10 @@
 | [crisprScore](https://bioconductor.org/packages/3.20/bioc/html/crisprScore.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/crisprScore/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/crisprScore)               |
 | [goProfiles](https://bioconductor.org/packages/3.20/bioc/html/goProfiles.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/goProfiles/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/goProfiles)                |
 | [tigre](https://bioconductor.org/packages/3.20/bioc/html/tigre.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/tigre/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tigre)                     |
+| [genefilter](https://bioconductor.org/packages/3.20/bioc/html/genefilter.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/genefilter/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/genefilter)                |
+| [sangeranalyseR](https://bioconductor.org/packages/3.20/bioc/html/sangeranalyseR.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/sangeranalyseR/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sangeranalyseR)            |
 
-## Not Yet Processed (1209)
+## Not Yet Processed (1207)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1834,7 +1836,6 @@
 | [gcapc](https://bioconductor.org/packages/3.20/bioc/html/gcapc.html)                                             | Unprocessed |
 | [geneAttribution](https://bioconductor.org/packages/3.20/bioc/html/geneAttribution.html)                         | Unprocessed |
 | [geneXtendeR](https://bioconductor.org/packages/3.20/bioc/html/geneXtendeR.html)                                 | Unprocessed |
-| [genefilter](https://bioconductor.org/packages/3.20/bioc/html/genefilter.html)                                   | Unprocessed |
 | [geneplotter](https://bioconductor.org/packages/3.20/bioc/html/geneplotter.html)                                 | Unprocessed |
 | [genomation](https://bioconductor.org/packages/3.20/bioc/html/genomation.html)                                   | Unprocessed |
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                                     | Unprocessed |
@@ -2104,7 +2105,6 @@
 | [sSNAPPY](https://bioconductor.org/packages/3.20/bioc/html/sSNAPPY.html)                                         | Unprocessed |
 | [safe](https://bioconductor.org/packages/3.20/bioc/html/safe.html)                                               | Unprocessed |
 | [sampleClassifier](https://bioconductor.org/packages/3.20/bioc/html/sampleClassifier.html)                       | Unprocessed |
-| [sangeranalyseR](https://bioconductor.org/packages/3.20/bioc/html/sangeranalyseR.html)                           | Unprocessed |
 | [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                             | Unprocessed |
 | [scAnnotatR](https://bioconductor.org/packages/3.20/bioc/html/scAnnotatR.html)                                   | Unprocessed |
 | [scBFA](https://bioconductor.org/packages/3.20/bioc/html/scBFA.html)                                             | Unprocessed |
