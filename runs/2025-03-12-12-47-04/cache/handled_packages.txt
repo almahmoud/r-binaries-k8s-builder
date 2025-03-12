@@ -362,6 +362,7 @@ Rhdf5lib
 Rhtslib
 Rmagpie
 Rnits
+Rsamtools
 Rsubread
 Rtpca
 Rtreemix
@@ -391,8 +392,11 @@ SamSPECTRAL
 Sconify
 ScreenR
 SharedObject
+SigFuge
 SpaceMarkers
 SparseArray
+SpatialDecon
+SpatialOmicsOverlay
 SpeCond
 Spectra
 SpectraQL

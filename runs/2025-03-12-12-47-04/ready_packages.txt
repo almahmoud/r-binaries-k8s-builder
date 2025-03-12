@@ -1,0 +1,17 @@
+CNVPanelizer
+FilterFFPE
+GeneGeneInteR
+QDNAseq
+Rbowtie2
+SICtools
+SimFFPE
+TEQC
+alabaster.files
+cellbaseR
+cn.mops
+eudysbiome
+h5vc
+rfPred
+riboSeqR
+ssviz
+tracktables

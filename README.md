@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 869 packages built successfully
+- 873 packages built successfully
 - 15 packages failed to build
-- 1349 packages not yet processed
+- 1345 packages not yet processed
 
 ## Failed Builds (15)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -27,7 +27,7 @@
 | [immunoClust](https://bioconductor.org/packages/3.20/bioc/html/immunoClust.html)   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/immunoClust/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunoClust)  | Build failed with unknown error     |
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 
-## Successfully Built (869)
+## Successfully Built (873)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -899,8 +899,12 @@
 | [pqsfinder](https://bioconductor.org/packages/3.20/bioc/html/pqsfinder.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/pqsfinder/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pqsfinder)                 |
 | [kebabs](https://bioconductor.org/packages/3.20/bioc/html/kebabs.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/kebabs/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/kebabs)                    |
 | [idpr](https://bioconductor.org/packages/3.20/bioc/html/idpr.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/idpr/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/idpr)                      |
+| [Rsamtools](https://bioconductor.org/packages/3.20/bioc/html/Rsamtools.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/Rsamtools/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rsamtools)                 |
+| [SigFuge](https://bioconductor.org/packages/3.20/bioc/html/SigFuge.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/SigFuge/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SigFuge)                   |
+| [SpatialDecon](https://bioconductor.org/packages/3.20/bioc/html/SpatialDecon.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/SpatialDecon/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SpatialDecon)              |
+| [SpatialOmicsOverlay](https://bioconductor.org/packages/3.20/bioc/html/SpatialOmicsOverlay.html)             | Built    | [Log](runs/2025-03-12-12-47-04/logs/SpatialOmicsOverlay/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SpatialOmicsOverlay)       |
 
-## Not Yet Processed (1349)
+## Not Yet Processed (1345)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1422,7 +1426,6 @@
 | [RnaSeqSampleSize](https://bioconductor.org/packages/3.20/bioc/html/RnaSeqSampleSize.html)                       | Unprocessed |
 | [RolDE](https://bioconductor.org/packages/3.20/bioc/html/RolDE.html)                                             | Unprocessed |
 | [Rqc](https://bioconductor.org/packages/3.20/bioc/html/Rqc.html)                                                 | Unprocessed |
-| [Rsamtools](https://bioconductor.org/packages/3.20/bioc/html/Rsamtools.html)                                     | Unprocessed |
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)                                       | Unprocessed |
 | [SARC](https://bioconductor.org/packages/3.20/bioc/html/SARC.html)                                               | Unprocessed |
 | [SBGNview](https://bioconductor.org/packages/3.20/bioc/html/SBGNview.html)                                       | Unprocessed |
@@ -1462,7 +1465,6 @@
 | [ShortRead](https://bioconductor.org/packages/3.20/bioc/html/ShortRead.html)                                     | Unprocessed |
 | [SiPSiC](https://bioconductor.org/packages/3.20/bioc/html/SiPSiC.html)                                           | Unprocessed |
 | [SigCheck](https://bioconductor.org/packages/3.20/bioc/html/SigCheck.html)                                       | Unprocessed |
-| [SigFuge](https://bioconductor.org/packages/3.20/bioc/html/SigFuge.html)                                         | Unprocessed |
 | [SigsPack](https://bioconductor.org/packages/3.20/bioc/html/SigsPack.html)                                       | Unprocessed |
 | [SimBu](https://bioconductor.org/packages/3.20/bioc/html/SimBu.html)                                             | Unprocessed |
 | [SimFFPE](https://bioconductor.org/packages/3.20/bioc/html/SimFFPE.html)                                         | Unprocessed |
@@ -1476,10 +1478,8 @@
 | [Spaniel](https://bioconductor.org/packages/3.20/bioc/html/Spaniel.html)                                         | Unprocessed |
 | [SparseSignatures](https://bioconductor.org/packages/3.20/bioc/html/SparseSignatures.html)                       | Unprocessed |
 | [SpatialCPie](https://bioconductor.org/packages/3.20/bioc/html/SpatialCPie.html)                                 | Unprocessed |
-| [SpatialDecon](https://bioconductor.org/packages/3.20/bioc/html/SpatialDecon.html)                               | Unprocessed |
 | [SpatialExperiment](https://bioconductor.org/packages/3.20/bioc/html/SpatialExperiment.html)                     | Unprocessed |
 | [SpatialFeatureExperiment](https://bioconductor.org/packages/3.20/bioc/html/SpatialFeatureExperiment.html)       | Unprocessed |
-| [SpatialOmicsOverlay](https://bioconductor.org/packages/3.20/bioc/html/SpatialOmicsOverlay.html)                 | Unprocessed |
 | [SpectralTAD](https://bioconductor.org/packages/3.20/bioc/html/SpectralTAD.html)                                 | Unprocessed |
 | [SpliceWiz](https://bioconductor.org/packages/3.20/bioc/html/SpliceWiz.html)                                     | Unprocessed |
 | [SplicingFactory](https://bioconductor.org/packages/3.20/bioc/html/SplicingFactory.html)                         | Unprocessed |
