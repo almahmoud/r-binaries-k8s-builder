@@ -165,7 +165,6 @@ HDTD
 HELP
 HEM
 HGC
-HIBAG
 HIREewas
 HMMcopy
 HPAanalyze
