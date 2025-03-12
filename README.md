@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 989 packages built successfully
+- 991 packages built successfully
 - 16 packages failed to build
-- 1228 packages not yet processed
+- 1226 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (989)
+## Successfully Built (991)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1020,8 +1020,10 @@
 | [NormalyzerDE](https://bioconductor.org/packages/3.20/bioc/html/NormalyzerDE.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/NormalyzerDE/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/NormalyzerDE)              |
 | [RolDE](https://bioconductor.org/packages/3.20/bioc/html/RolDE.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/RolDE/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RolDE)                     |
 | [eisaR](https://bioconductor.org/packages/3.20/bioc/html/eisaR.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/eisaR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/eisaR)                     |
+| [PREDA](https://bioconductor.org/packages/3.20/bioc/html/PREDA.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/PREDA/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PREDA)                     |
+| [pathRender](https://bioconductor.org/packages/3.20/bioc/html/pathRender.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/pathRender/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pathRender)                |
 
-## Not Yet Processed (1228)
+## Not Yet Processed (1226)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1429,7 +1431,6 @@
 | [POMA](https://bioconductor.org/packages/3.20/bioc/html/POMA.html)                                               | Unprocessed |
 | [POWSC](https://bioconductor.org/packages/3.20/bioc/html/POWSC.html)                                             | Unprocessed |
 | [PPInfer](https://bioconductor.org/packages/3.20/bioc/html/PPInfer.html)                                         | Unprocessed |
-| [PREDA](https://bioconductor.org/packages/3.20/bioc/html/PREDA.html)                                             | Unprocessed |
 | [PROMISE](https://bioconductor.org/packages/3.20/bioc/html/PROMISE.html)                                         | Unprocessed |
 | [PRONE](https://bioconductor.org/packages/3.20/bioc/html/PRONE.html)                                             | Unprocessed |
 | [PROPS](https://bioconductor.org/packages/3.20/bioc/html/PROPS.html)                                             | Unprocessed |
@@ -2023,7 +2024,6 @@
 | [pairkat](https://bioconductor.org/packages/3.20/bioc/html/pairkat.html)                                         | Unprocessed |
 | [panelcn.mops](https://bioconductor.org/packages/3.20/bioc/html/panelcn.mops.html)                               | Unprocessed |
 | [partCNV](https://bioconductor.org/packages/3.20/bioc/html/partCNV.html)                                         | Unprocessed |
-| [pathRender](https://bioconductor.org/packages/3.20/bioc/html/pathRender.html)                                   | Unprocessed |
 | [pathlinkR](https://bioconductor.org/packages/3.20/bioc/html/pathlinkR.html)                                     | Unprocessed |
 | [pathview](https://bioconductor.org/packages/3.20/bioc/html/pathview.html)                                       | Unprocessed |
 | [pcaExplorer](https://bioconductor.org/packages/3.20/bioc/html/pcaExplorer.html)                                 | Unprocessed |

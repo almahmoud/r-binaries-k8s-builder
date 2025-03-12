@@ -331,6 +331,7 @@ PANR
 PCAN
 PIPETS
 PLPE
+PREDA
 PROPER
 PROcess
 PWMEnrich
@@ -818,6 +819,7 @@ pandaR
 panp
 parglms
 parody
+pathRender
 pathifier
 pathwayPCA
 pcaMethods

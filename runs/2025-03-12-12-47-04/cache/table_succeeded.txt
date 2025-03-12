@@ -987,3 +987,5 @@
 ['[NormalyzerDE](https://bioconductor.org/packages/3.20/bioc/html/NormalyzerDE.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/NormalyzerDE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/NormalyzerDE)']
 ['[RolDE](https://bioconductor.org/packages/3.20/bioc/html/RolDE.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/RolDE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RolDE)']
 ['[eisaR](https://bioconductor.org/packages/3.20/bioc/html/eisaR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/eisaR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/eisaR)']
+['[PREDA](https://bioconductor.org/packages/3.20/bioc/html/PREDA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/PREDA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PREDA)']
+['[pathRender](https://bioconductor.org/packages/3.20/bioc/html/pathRender.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/pathRender/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pathRender)']
