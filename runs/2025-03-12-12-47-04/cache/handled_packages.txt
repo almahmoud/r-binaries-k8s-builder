@@ -700,6 +700,7 @@ qusage
 qvalue
 rBLAST
 rBiopaxParser
+rRDP
 rSWeeP
 rWikiPathways
 rain

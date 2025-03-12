@@ -792,3 +792,4 @@
 ['[rSWeeP](https://bioconductor.org/packages/3.20/bioc/html/rSWeeP.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rSWeeP/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rSWeeP)']
 ['[rfaRm](https://bioconductor.org/packages/3.20/bioc/html/rfaRm.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rfaRm/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rfaRm)']
 ['[rhinotypeR](https://bioconductor.org/packages/3.20/bioc/html/rhinotypeR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rhinotypeR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rhinotypeR)']
+['[rRDP](https://bioconductor.org/packages/3.20/bioc/html/rRDP.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rRDP/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rRDP)']

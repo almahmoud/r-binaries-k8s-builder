@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 794 packages built successfully
+- 795 packages built successfully
 - 13 packages failed to build
-- 1426 packages not yet processed
+- 1425 packages not yet processed
 
 ## Failed Builds (13)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -25,7 +25,7 @@
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 
-## Successfully Built (794)
+## Successfully Built (795)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -822,8 +822,9 @@
 | [rSWeeP](https://bioconductor.org/packages/3.20/bioc/html/rSWeeP.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/rSWeeP/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rSWeeP)                    |
 | [rfaRm](https://bioconductor.org/packages/3.20/bioc/html/rfaRm.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/rfaRm/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rfaRm)                     |
 | [rhinotypeR](https://bioconductor.org/packages/3.20/bioc/html/rhinotypeR.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/rhinotypeR/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rhinotypeR)                |
+| [rRDP](https://bioconductor.org/packages/3.20/bioc/html/rRDP.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/rRDP/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rRDP)                      |
 
-## Not Yet Processed (1426)
+## Not Yet Processed (1425)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -2031,7 +2032,6 @@
 | [rGADEM](https://bioconductor.org/packages/3.20/bioc/html/rGADEM.html)                                           | Unprocessed |
 | [rGREAT](https://bioconductor.org/packages/3.20/bioc/html/rGREAT.html)                                           | Unprocessed |
 | [rGenomeTracks](https://bioconductor.org/packages/3.20/bioc/html/rGenomeTracks.html)                             | Unprocessed |
-| [rRDP](https://bioconductor.org/packages/3.20/bioc/html/rRDP.html)                                               | Unprocessed |
 | [rScudo](https://bioconductor.org/packages/3.20/bioc/html/rScudo.html)                                           | Unprocessed |
 | [rTRM](https://bioconductor.org/packages/3.20/bioc/html/rTRM.html)                                               | Unprocessed |
 | [rTRMui](https://bioconductor.org/packages/3.20/bioc/html/rTRMui.html)                                           | Unprocessed |
