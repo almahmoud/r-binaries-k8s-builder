@@ -112,6 +112,7 @@ DeMAND
 DeconRNASeq
 DeepPINCS
 DelayedArray
+DelayedRandomArray
 DepInfeR
 DepecheR
 DiffLogo
@@ -157,6 +158,7 @@ GSEAmining
 GSgalgoR
 GWAS.BAYES
 GWASTools
+GateFinder
 GenProSeq
 GeneExpressionSignature
 GeneGA
@@ -426,6 +428,7 @@ bacon
 banocc
 basilisk
 basilisk.utils
+bcSeq
 bioDist
 bioassayR
 biobroom

@@ -1391,11 +1391,9 @@
   ],
   "DelayedDataFrame": [],
   "DelayedMatrixStats": [],
-  "DelayedRandomArray": [],
   "DelayedTensor": [
     "HDF5Array",
     "BiocSingular",
-    "DelayedRandomArray",
     "ScaledMatrix",
     "beachmat"
   ],
@@ -1965,7 +1963,6 @@
     "SummarizedExperiment",
     "AnnotationDbi"
   ],
-  "GateFinder": [],
   "GeDi": [
     "GOSemSim",
     "GeneTonic",
@@ -5236,7 +5233,6 @@
     "SummarizedExperiment"
   ],
   "baySeq": [],
-  "bcSeq": [],
   "beachmat": [],
   "beachmat.hdf5": [
     "beachmat",

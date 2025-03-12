@@ -807,3 +807,6 @@ Rarr
 SELEX
 seqArchR
 sscu
+bcSeq
+DelayedRandomArray
+GateFinder

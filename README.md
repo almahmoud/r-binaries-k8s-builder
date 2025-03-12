@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 809 packages built successfully
+- 812 packages built successfully
 - 14 packages failed to build
-- 1410 packages not yet processed
+- 1407 packages not yet processed
 
 ## Failed Builds (14)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -26,7 +26,7 @@
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 | [immunoClust](https://bioconductor.org/packages/3.20/bioc/html/immunoClust.html)   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/immunoClust/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunoClust)  | Build failed with unknown error     |
 
-## Successfully Built (809)
+## Successfully Built (812)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -838,8 +838,11 @@
 | [SELEX](https://bioconductor.org/packages/3.20/bioc/html/SELEX.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/SELEX/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SELEX)                     |
 | [seqArchR](https://bioconductor.org/packages/3.20/bioc/html/seqArchR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/seqArchR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/seqArchR)                  |
 | [sscu](https://bioconductor.org/packages/3.20/bioc/html/sscu.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/sscu/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sscu)                      |
+| [DelayedRandomArray](https://bioconductor.org/packages/3.20/bioc/html/DelayedRandomArray.html)               | Built    | [Log](runs/2025-03-12-12-47-04/logs/DelayedRandomArray/build-success.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedRandomArray)        |
+| [GateFinder](https://bioconductor.org/packages/3.20/bioc/html/GateFinder.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/GateFinder/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GateFinder)                |
+| [bcSeq](https://bioconductor.org/packages/3.20/bioc/html/bcSeq.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/bcSeq/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bcSeq)                     |
 
-## Not Yet Processed (1410)
+## Not Yet Processed (1407)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1024,7 +1027,6 @@
 | [DegNorm](https://bioconductor.org/packages/3.20/bioc/html/DegNorm.html)                                         | Unprocessed |
 | [DelayedDataFrame](https://bioconductor.org/packages/3.20/bioc/html/DelayedDataFrame.html)                       | Unprocessed |
 | [DelayedMatrixStats](https://bioconductor.org/packages/3.20/bioc/html/DelayedMatrixStats.html)                   | Unprocessed |
-| [DelayedRandomArray](https://bioconductor.org/packages/3.20/bioc/html/DelayedRandomArray.html)                   | Unprocessed |
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html)                             | Unprocessed |
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)                                       | Unprocessed |
 | [DifferentialRegulation](https://bioconductor.org/packages/3.20/bioc/html/DifferentialRegulation.html)           | Unprocessed |
@@ -1094,7 +1096,6 @@
 | [GSVA](https://bioconductor.org/packages/3.20/bioc/html/GSVA.html)                                               | Unprocessed |
 | [GUIDEseq](https://bioconductor.org/packages/3.20/bioc/html/GUIDEseq.html)                                       | Unprocessed |
 | [GWENA](https://bioconductor.org/packages/3.20/bioc/html/GWENA.html)                                             | Unprocessed |
-| [GateFinder](https://bioconductor.org/packages/3.20/bioc/html/GateFinder.html)                                   | Unprocessed |
 | [GeDi](https://bioconductor.org/packages/3.20/bioc/html/GeDi.html)                                               | Unprocessed |
 | [GenVisR](https://bioconductor.org/packages/3.20/bioc/html/GenVisR.html)                                         | Unprocessed |
 | [GeneBreak](https://bioconductor.org/packages/3.20/bioc/html/GeneBreak.html)                                     | Unprocessed |
@@ -1559,7 +1560,6 @@
 | [batchelor](https://bioconductor.org/packages/3.20/bioc/html/batchelor.html)                                     | Unprocessed |
 | [bayNorm](https://bioconductor.org/packages/3.20/bioc/html/bayNorm.html)                                         | Unprocessed |
 | [baySeq](https://bioconductor.org/packages/3.20/bioc/html/baySeq.html)                                           | Unprocessed |
-| [bcSeq](https://bioconductor.org/packages/3.20/bioc/html/bcSeq.html)                                             | Unprocessed |
 | [beachmat](https://bioconductor.org/packages/3.20/bioc/html/beachmat.html)                                       | Unprocessed |
 | [beachmat.hdf5](https://bioconductor.org/packages/3.20/bioc/html/beachmat.hdf5.html)                             | Unprocessed |
 | [beadarray](https://bioconductor.org/packages/3.20/bioc/html/beadarray.html)                                     | Unprocessed |
