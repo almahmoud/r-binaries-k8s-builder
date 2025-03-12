@@ -257,7 +257,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "CAEN": [],
   "CAFE": [
     "biovizBase",
     "ggbio",
@@ -415,7 +414,6 @@
     "CTdata",
     "SingleCellExperiment"
   ],
-  "CaDrA": [],
   "Category": [],
   "CatsCradle": [
     "SingleCellExperiment",
@@ -2252,7 +2250,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "SPONGE": [],
   "SPOTlight": [
     "SingleCellExperiment"
   ],
@@ -4175,7 +4172,6 @@
     "ReactomePA"
   ],
   "miRspongeR": [
-    "SPONGE",
     "ReactomePA"
   ],
   "mia": [

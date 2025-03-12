@@ -1120,3 +1120,6 @@
 ['[PROMISE](https://bioconductor.org/packages/3.20/bioc/html/PROMISE.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/PROMISE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PROMISE)']
 ['[cellbaseR](https://bioconductor.org/packages/3.20/bioc/html/cellbaseR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/cellbaseR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cellbaseR)']
 ['[dominoSignal](https://bioconductor.org/packages/3.20/bioc/html/dominoSignal.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/dominoSignal/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dominoSignal)']
+['[CAEN](https://bioconductor.org/packages/3.20/bioc/html/CAEN.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CAEN/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CAEN)']
+['[CaDrA](https://bioconductor.org/packages/3.20/bioc/html/CaDrA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CaDrA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CaDrA)']
+['[SPONGE](https://bioconductor.org/packages/3.20/bioc/html/SPONGE.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SPONGE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SPONGE)']

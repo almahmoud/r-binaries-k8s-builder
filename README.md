@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1122 packages built successfully
+- 1125 packages built successfully
 - 19 packages failed to build
-- 1092 packages not yet processed
+- 1089 packages not yet processed
 
 ## Failed Builds (19)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -31,7 +31,7 @@
 | [microRNA](https://bioconductor.org/packages/3.20/bioc/html/microRNA.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/microRNA/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/microRNA)      | Build failed with unknown error     |
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/cn.mops/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cn.mops)       | Build failed with unknown error     |
 
-## Successfully Built (1122)
+## Successfully Built (1125)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1156,8 +1156,11 @@
 | [PROMISE](https://bioconductor.org/packages/3.20/bioc/html/PROMISE.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/PROMISE/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PROMISE)                   |
 | [cellbaseR](https://bioconductor.org/packages/3.20/bioc/html/cellbaseR.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/cellbaseR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cellbaseR)                 |
 | [dominoSignal](https://bioconductor.org/packages/3.20/bioc/html/dominoSignal.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/dominoSignal/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dominoSignal)              |
+| [CAEN](https://bioconductor.org/packages/3.20/bioc/html/CAEN.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/CAEN/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CAEN)                      |
+| [CaDrA](https://bioconductor.org/packages/3.20/bioc/html/CaDrA.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/CaDrA/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CaDrA)                     |
+| [SPONGE](https://bioconductor.org/packages/3.20/bioc/html/SPONGE.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/SPONGE/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SPONGE)                    |
 
-## Not Yet Processed (1092)
+## Not Yet Processed (1089)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1211,7 +1214,6 @@
 | [BiocSingular](https://bioconductor.org/packages/3.20/bioc/html/BiocSingular.html)                               | Unprocessed |
 | [BiocSklearn](https://bioconductor.org/packages/3.20/bioc/html/BiocSklearn.html)                                 | Unprocessed |
 | [BubbleTree](https://bioconductor.org/packages/3.20/bioc/html/BubbleTree.html)                                   | Unprocessed |
-| [CAEN](https://bioconductor.org/packages/3.20/bioc/html/CAEN.html)                                               | Unprocessed |
 | [CAFE](https://bioconductor.org/packages/3.20/bioc/html/CAFE.html)                                               | Unprocessed |
 | [CAGEfightR](https://bioconductor.org/packages/3.20/bioc/html/CAGEfightR.html)                                   | Unprocessed |
 | [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)                                             | Unprocessed |
@@ -1241,7 +1243,6 @@
 | [CTSV](https://bioconductor.org/packages/3.20/bioc/html/CTSV.html)                                               | Unprocessed |
 | [CTdata](https://bioconductor.org/packages/3.20/bioc/html/CTdata.html)                                           | Unprocessed |
 | [CTexploreR](https://bioconductor.org/packages/3.20/bioc/html/CTexploreR.html)                                   | Unprocessed |
-| [CaDrA](https://bioconductor.org/packages/3.20/bioc/html/CaDrA.html)                                             | Unprocessed |
 | [Category](https://bioconductor.org/packages/3.20/bioc/html/Category.html)                                       | Unprocessed |
 | [CatsCradle](https://bioconductor.org/packages/3.20/bioc/html/CatsCradle.html)                                   | Unprocessed |
 | [CeTF](https://bioconductor.org/packages/3.20/bioc/html/CeTF.html)                                               | Unprocessed |
@@ -1598,7 +1599,6 @@
 | [SOMNiBUS](https://bioconductor.org/packages/3.20/bioc/html/SOMNiBUS.html)                                       | Unprocessed |
 | [SPIAT](https://bioconductor.org/packages/3.20/bioc/html/SPIAT.html)                                             | Unprocessed |
 | [SPLINTER](https://bioconductor.org/packages/3.20/bioc/html/SPLINTER.html)                                       | Unprocessed |
-| [SPONGE](https://bioconductor.org/packages/3.20/bioc/html/SPONGE.html)                                           | Unprocessed |
 | [SPOTlight](https://bioconductor.org/packages/3.20/bioc/html/SPOTlight.html)                                     | Unprocessed |
 | [SPsimSeq](https://bioconductor.org/packages/3.20/bioc/html/SPsimSeq.html)                                       | Unprocessed |
 | [Scale4C](https://bioconductor.org/packages/3.20/bioc/html/Scale4C.html)                                         | Unprocessed |

@@ -78,6 +78,7 @@ BrowserViz
 BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
+CAEN
 CARNIVAL
 CCPlotR
 CEMiTool
@@ -101,6 +102,7 @@ CONSTANd
 COSNet
 CRImage
 CTDquerier
+CaDrA
 CaMutQC
 Cardinal
 CardinalIO
@@ -487,6 +489,7 @@ SNPRelate
 SNPediaR
 SPEM
 SPIA
+SPONGE
 SQLDataFrame
 SRAdb
 STATegRa
