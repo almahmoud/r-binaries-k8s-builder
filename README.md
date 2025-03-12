@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 713 packages built successfully
+- 715 packages built successfully
 - 12 packages failed to build
-- 1508 packages not yet processed
+- 1506 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [graper](https://bioconductor.org/packages/3.20/bioc/html/graper.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/graper/build-fail.log)       | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/graper)    | Build failed with unknown error     |
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 
-## Successfully Built (713)
+## Successfully Built (715)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -740,8 +740,10 @@
 | [ClustAll](https://bioconductor.org/packages/3.20/bioc/html/ClustAll.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/ClustAll/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ClustAll)                |
 | [msPurity](https://bioconductor.org/packages/3.20/bioc/html/msPurity.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/msPurity/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/msPurity)                |
 | [alabaster.bumpy](https://bioconductor.org/packages/3.20/bioc/html/alabaster.bumpy.html)                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/alabaster.bumpy/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.bumpy)         |
+| [DEGraph](https://bioconductor.org/packages/3.20/bioc/html/DEGraph.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/DEGraph/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DEGraph)                 |
+| [RNAseqCovarImpute](https://bioconductor.org/packages/3.20/bioc/html/RNAseqCovarImpute.html)             | Built    | [Log](runs/2025-03-12-12-47-04/logs/RNAseqCovarImpute/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RNAseqCovarImpute)       |
 
-## Not Yet Processed (1508)
+## Not Yet Processed (1506)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -903,7 +905,6 @@
 | [DAPAR](https://bioconductor.org/packages/3.20/bioc/html/DAPAR.html)                                             | Unprocessed |
 | [DECIPHER](https://bioconductor.org/packages/3.20/bioc/html/DECIPHER.html)                                       | Unprocessed |
 | [DEFormats](https://bioconductor.org/packages/3.20/bioc/html/DEFormats.html)                                     | Unprocessed |
-| [DEGraph](https://bioconductor.org/packages/3.20/bioc/html/DEGraph.html)                                         | Unprocessed |
 | [DEGreport](https://bioconductor.org/packages/3.20/bioc/html/DEGreport.html)                                     | Unprocessed |
 | [DELocal](https://bioconductor.org/packages/3.20/bioc/html/DELocal.html)                                         | Unprocessed |
 | [DEP](https://bioconductor.org/packages/3.20/bioc/html/DEP.html)                                                 | Unprocessed |
@@ -1278,7 +1279,6 @@
 | [RNAmodR.ML](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.ML.html)                                   | Unprocessed |
 | [RNAmodR.RiboMethSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.RiboMethSeq.html)                 | Unprocessed |
 | [RNAsense](https://bioconductor.org/packages/3.20/bioc/html/RNAsense.html)                                       | Unprocessed |
-| [RNAseqCovarImpute](https://bioconductor.org/packages/3.20/bioc/html/RNAseqCovarImpute.html)                     | Unprocessed |
 | [ROCpAI](https://bioconductor.org/packages/3.20/bioc/html/ROCpAI.html)                                           | Unprocessed |
 | [ROSeq](https://bioconductor.org/packages/3.20/bioc/html/ROSeq.html)                                             | Unprocessed |
 | [ROntoTools](https://bioconductor.org/packages/3.20/bioc/html/ROntoTools.html)                                   | Unprocessed |

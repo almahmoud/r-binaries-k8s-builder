@@ -711,3 +711,5 @@ BioQC
 ClustAll
 msPurity
 alabaster.bumpy
+DEGraph
+RNAseqCovarImpute

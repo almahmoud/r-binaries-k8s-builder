@@ -2186,7 +2186,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "DEGraph": [],
   "DEGreport": [
     "DESeq2",
     "SummarizedExperiment",
@@ -7041,7 +7040,6 @@
     "SparseArray",
     "XVector"
   ],
-  "RNAseqCovarImpute": [],
   "ROCpAI": [
     "SummarizedExperiment",
     "GenomicRanges",

@@ -93,6 +93,7 @@ Cormotif
 CytoGLMM
 DART
 DCATS
+DEGraph
 DEGseq
 DEqMS
 DEsingle
@@ -281,6 +282,7 @@ RLMM
 RLassoCox
 RNASeqPower
 RNAdecay
+RNAseqCovarImpute
 ROC
 ROTS
 RProtoBufLib
