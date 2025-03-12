@@ -554,3 +554,17 @@ fmcsR
 metagenomeSeq
 sparseMatrixStats
 OmicsMLRepoR
+ABarray
+DeconRNASeq
+NanoTube
+OCplus
+RTopper
+aCGH
+anota
+fobitools
+metabomxtr
+metapone
+piano
+projectR
+rain
+siggenes
