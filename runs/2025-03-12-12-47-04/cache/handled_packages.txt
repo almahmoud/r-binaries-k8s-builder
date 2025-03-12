@@ -62,6 +62,7 @@ BiocStyle
 BiocVersion
 BiocWorkflowTools
 Biostrings
+BloodGen3Module
 BridgeDbR
 BrowserViz
 BufferedMatrix
@@ -167,6 +168,7 @@ GEWIST
 GGPA
 GIGSEA
 GLAD
+GNET2
 GOSemSim
 GOfuncR
 GPA
@@ -310,6 +312,7 @@ NanoStringDiff
 NanoStringNCTools
 NanoTube
 NetPathMiner
+NormalyzerDE
 NormqPCR
 NuPoP
 OCplus
@@ -399,6 +402,7 @@ Rhdf5lib
 Rhtslib
 Rmagpie
 Rnits
+RolDE
 Rsamtools
 Rsubread
 Rtpca
@@ -601,6 +605,7 @@ ecolitk
 edgeR
 eds
 eiR
+eisaR
 enrichplot
 epiNEM
 epialleleR

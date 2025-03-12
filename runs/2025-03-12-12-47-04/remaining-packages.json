@@ -319,7 +319,6 @@
     "beachmat"
   ],
   "BiocSklearn": [],
-  "BloodGen3Module": [],
   "BubbleTree": [
     "biovizBase",
     "GenomicAlignments",
@@ -1243,7 +1242,6 @@
   "GEOquery": [],
   "GLAD": [],
   "GMRP": [],
-  "GNET2": [],
   "GNOSIS": [
     "cBioPortalData",
     "MultiAssayExperiment",
@@ -2114,7 +2112,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "NormalyzerDE": [],
   "OGRE": [
     "Gviz",
     "rtracklayer",
@@ -2246,7 +2243,6 @@
     "GSEABase"
   ],
   "PRONE": [
-    "NormalyzerDE",
     "MSnbase",
     "POMA",
     "PSMatch",
@@ -2696,7 +2692,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "RolDE": [],
   "Rqc": [
     "ShortRead",
     "biovizBase",
@@ -4271,7 +4266,6 @@
     "genefilter"
   ],
   "eiR": [],
-  "eisaR": [],
   "enhancerHomologSearch": [
     "BSgenome",
     "motifmatchr",
