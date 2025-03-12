@@ -10,8 +10,7 @@
     "Rsamtools",
     "impute",
     "UCSC.utils",
-    "Biostrings",
-    "Rhtslib"
+    "Biostrings"
   ],
   "ADAM": [
     "KEGGREST",
@@ -122,7 +121,6 @@
     "XVector",
     "UCSC.utils",
     "txdbmaker",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
@@ -181,7 +179,6 @@
     "Biostrings",
     "AnnotationDbi",
     "XVector",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -273,7 +270,6 @@
     "ensembldb",
     "BSgenome",
     "biovizBase",
-    "Rhtslib",
     "UCSC.utils",
     "BiocIO",
     "VariantAnnotation",
@@ -317,7 +313,6 @@
     "DelayedArray",
     "HDF5Array",
     "TFBSTools",
-    "Rhtslib",
     "S4Arrays",
     "SparseArray",
     "AnnotationFilter",
@@ -342,7 +337,6 @@
     "Biostrings",
     "XVector",
     "BSgenome",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -439,7 +433,6 @@
     "ProtGenerics",
     "UCSC.utils",
     "txdbmaker",
-    "Rhtslib",
     "biomaRt"
   ],
   "AllelicImbalance": [
@@ -464,7 +457,6 @@
     "biomaRt",
     "ensembldb",
     "biovizBase",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "AnnotationFilter",
@@ -498,7 +490,6 @@
     "bamsignals",
     "Biostrings",
     "GenomicAlignments",
-    "Rhtslib",
     "XVector",
     "UCSC.utils",
     "SummarizedExperiment",
@@ -564,7 +555,6 @@
     "XVector",
     "UCSC.utils",
     "txdbmaker",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
@@ -668,7 +658,6 @@
     "S4Vectors",
     "XVector",
     "GenomeInfoDb",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
@@ -703,7 +692,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "pwalign",
-    "Rhtslib",
     "UCSC.utils",
     "SummarizedExperiment",
     "S4Arrays",
@@ -772,7 +760,6 @@
     "graph",
     "RBGL",
     "txdbmaker",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
@@ -813,7 +800,6 @@
     "XVector",
     "Rsamtools",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "S4Arrays",
@@ -834,7 +820,6 @@
     "UCSC.utils",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -852,9 +837,7 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "BUS": [
-    "minet"
-  ],
+  "BUS": [],
   "BUScorrect": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -889,7 +872,6 @@
     "UCSC.utils",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -918,7 +900,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -934,7 +915,6 @@
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "SummarizedExperiment",
     "rtracklayer",
     "BSgenome",
@@ -975,7 +955,6 @@
     "BiocIO",
     "rtracklayer",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -991,7 +970,6 @@
     "Biostrings",
     "Rsamtools",
     "XVector",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -1069,7 +1047,6 @@
     "UCSC.utils",
     "KEGGREST",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -1130,8 +1107,7 @@
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
-    "SparseArray",
-    "Rhtslib"
+    "SparseArray"
   ],
   "BicARE": [
     "GSEABase",
@@ -1163,7 +1139,6 @@
     "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -1216,7 +1191,6 @@
   "BioNERO": [
     "sva",
     "ComplexHeatmap",
-    "minet",
     "SummarizedExperiment",
     "IRanges",
     "GenomicRanges",
@@ -1379,7 +1353,6 @@
     "rtracklayer",
     "ProtGenerics",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "BSgenome",
@@ -1432,7 +1405,6 @@
     "graph",
     "RBGL",
     "txdbmaker",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
@@ -1467,8 +1439,7 @@
     "KEGGREST",
     "AnnotationFilter",
     "SparseArray",
-    "ProtGenerics",
-    "Rhtslib"
+    "ProtGenerics"
   ],
   "CAGEr": [
     "MultiAssayExperiment",
@@ -1493,7 +1464,6 @@
     "UCSC.utils",
     "AnnotationDbi",
     "DelayedArray",
-    "Rhtslib",
     "S4Arrays",
     "KEGGREST",
     "SparseArray",
@@ -1677,8 +1647,7 @@
     "UCSC.utils"
   ],
   "CIMICE": [
-    "maftools",
-    "Rhtslib"
+    "maftools"
   ],
   "CINdex": [
     "GenomicRanges",
@@ -1705,7 +1674,6 @@
     "SummarizedExperiment",
     "Rsamtools",
     "BiocIO",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -1762,8 +1730,7 @@
     "GenomeInfoDb",
     "UCSC.utils",
     "XVector",
-    "Biostrings",
-    "Rhtslib"
+    "Biostrings"
   ],
   "CNVRanger": [
     "GenomicRanges",
@@ -1805,7 +1772,6 @@
     "bamsignals",
     "AnnotationDbi",
     "BSgenome",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -1837,7 +1803,6 @@
     "bamsignals",
     "AnnotationDbi",
     "KEGGREST",
-    "Rhtslib",
     "Biostrings",
     "GenomicAlignments",
     "ensembldb",
@@ -1860,7 +1825,6 @@
     "GenomicRanges",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "SummarizedExperiment",
     "AnnotationDbi",
     "rtracklayer",
@@ -1898,7 +1862,6 @@
     "Rsamtools",
     "S4Arrays",
     "rhdf5filters",
-    "Rhtslib",
     "GenomicAlignments"
   ],
   "CODEX": [
@@ -1911,7 +1874,6 @@
     "BSgenome",
     "UCSC.utils",
     "GenomicRanges",
-    "Rhtslib",
     "BiocIO",
     "rtracklayer",
     "GenomicAlignments",
@@ -2000,7 +1962,6 @@
     "SparseArray",
     "UCSC.utils",
     "rhdf5filters",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
@@ -2028,7 +1989,6 @@
     "Biostrings",
     "AnnotationDbi",
     "XVector",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -2105,7 +2065,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "Rhtslib",
     "Biostrings",
     "IRanges",
     "ComplexHeatmap",
@@ -2187,7 +2146,6 @@
     "XVector",
     "GenomeInfoDb",
     "GenomicRanges",
-    "Rhtslib",
     "GenomicAlignments",
     "pwalign",
     "UCSC.utils",
@@ -2316,7 +2274,6 @@
     "seqPattern",
     "UCSC.utils",
     "XVector",
-    "Rhtslib",
     "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
@@ -2376,8 +2333,7 @@
     "BiocIO",
     "VariantAnnotation",
     "AnnotationFilter",
-    "ProtGenerics",
-    "Rhtslib"
+    "ProtGenerics"
   ],
   "ChIPComp": [
     "GenomicRanges",
@@ -2390,7 +2346,6 @@
     "UCSC.utils",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
@@ -2413,7 +2368,6 @@
     "DESeq2",
     "apeglm",
     "GreyListChIP",
-    "Rhtslib",
     "GenomeInfoDb",
     "Biostrings",
     "AnnotationDbi",
@@ -2462,7 +2416,6 @@
     "UCSC.utils",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -2484,7 +2437,6 @@
     "AnnotationFilter",
     "UCSC.utils",
     "XVector",
-    "Rhtslib",
     "KEGGREST",
     "rtracklayer",
     "ProtGenerics",
@@ -2520,7 +2472,6 @@
     "ProtGenerics",
     "UCSC.utils",
     "BSgenome",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -2545,7 +2496,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -2561,7 +2511,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "pwalign",
-    "Rhtslib",
     "UCSC.utils",
     "SummarizedExperiment",
     "S4Arrays",
@@ -2579,7 +2528,6 @@
     "GenomicAlignments",
     "GenomicRanges",
     "pwalign",
-    "Rhtslib",
     "UCSC.utils",
     "SummarizedExperiment",
     "S4Arrays",
@@ -2603,7 +2551,6 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -2632,7 +2579,6 @@
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "bluster",
@@ -2652,7 +2598,6 @@
     "txdbmaker",
     "SGSeq",
     "GenomicRanges",
-    "Rhtslib",
     "GenomicAlignments",
     "pwalign",
     "UCSC.utils",
@@ -2730,7 +2675,6 @@
     "ProtGenerics",
     "UCSC.utils",
     "sva",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -2845,7 +2789,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -2889,7 +2832,6 @@
     "BSgenome",
     "Biostrings",
     "rhdf5filters",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -2930,7 +2872,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "BiocIO",
     "UCSC.utils",
     "S4Arrays",
@@ -2950,7 +2891,6 @@
     "XVector",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -3070,7 +3010,6 @@
     "GenomicFeatures",
     "AnnotationDbi",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "rtracklayer",
@@ -3219,8 +3158,7 @@
     "BiocIO",
     "AnnotationFilter",
     "ProtGenerics",
-    "BSgenome",
-    "Rhtslib"
+    "BSgenome"
   ],
   "DESeq2": [
     "S4Vectors",
@@ -3278,7 +3216,6 @@
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
@@ -3340,8 +3277,7 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "UCSC.utils",
-    "Rhtslib"
+    "UCSC.utils"
   ],
   "DMCHMM": [
     "SummarizedExperiment",
@@ -3358,8 +3294,7 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "UCSC.utils",
-    "Rhtslib"
+    "UCSC.utils"
   ],
   "DMRScan": [
     "GenomicRanges",
@@ -3421,8 +3356,7 @@
     "BiocIO",
     "ProtGenerics",
     "annotate",
-    "rhdf5filters",
-    "Rhtslib"
+    "rhdf5filters"
   ],
   "DNAfusion": [
     "bamsignals",
@@ -3432,7 +3366,6 @@
     "GenomicAlignments",
     "S4Vectors",
     "GenomicFeatures",
-    "Rhtslib",
     "GenomeInfoDb",
     "SummarizedExperiment",
     "Biostrings",
@@ -3497,7 +3430,6 @@
     "S4Arrays",
     "UCSC.utils",
     "rhdf5filters",
-    "Rhtslib",
     "GenomicAlignments"
   ],
   "DaMiRseq": [
@@ -3525,7 +3457,6 @@
     "annotate",
     "UCSC.utils",
     "rtracklayer",
-    "Rhtslib",
     "GenomicAlignments",
     "pwalign",
     "BiocIO"
@@ -3556,7 +3487,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationFilter",
-    "Rhtslib",
     "BiocIO",
     "ProtGenerics",
     "txdbmaker",
@@ -3596,10 +3526,8 @@
     "rtracklayer",
     "Rsamtools",
     "rhdf5filters",
-    "Rhtslib",
     "GenomicAlignments"
   ],
-  "DeepPINCS": [],
   "DeepTarget": [
     "ExperimentHub",
     "AnnotationHub",
@@ -3635,7 +3563,6 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "Rhtslib",
     "BiocIO"
   ],
   "DegNorm": [
@@ -3652,7 +3579,6 @@
     "AnnotationDbi",
     "XVector",
     "rtracklayer",
-    "Rhtslib",
     "UCSC.utils",
     "BiocIO",
     "biomaRt",
@@ -3718,7 +3644,6 @@
     "DESeq2",
     "apeglm",
     "GreyListChIP",
-    "Rhtslib",
     "GenomeInfoDb",
     "Biostrings",
     "XVector",
@@ -3806,7 +3731,6 @@
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
-    "Rhtslib",
     "BiocIO",
     "SparseArray",
     "GenomicAlignments"
@@ -3897,7 +3821,6 @@
     "AnnotationFilter",
     "ProtGenerics",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -3930,7 +3853,6 @@
     "XVector",
     "GenomeInfoDb",
     "rtracklayer",
-    "Rhtslib",
     "GenomicAlignments",
     "pwalign",
     "UCSC.utils",
@@ -4033,8 +3955,7 @@
     "KEGGREST",
     "VariantAnnotation",
     "AnnotationFilter",
-    "ProtGenerics",
-    "Rhtslib"
+    "ProtGenerics"
   ],
   "EMDomics": [
     "preprocessCore"
@@ -4072,8 +3993,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "ERSSA": [
     "edgeR",
@@ -4199,7 +4119,6 @@
     "DOSE",
     "GOSemSim",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -4227,8 +4146,7 @@
     "SparseArray",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "EpiTxDb": [
     "AnnotationDbi",
@@ -4252,7 +4170,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -4294,8 +4211,7 @@
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
-    "SparseArray",
-    "Rhtslib"
+    "SparseArray"
   ],
   "ExCluster": [
     "GenomicRanges",
@@ -4310,7 +4226,6 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -4353,7 +4268,6 @@
     "XVector",
     "UCSC.utils",
     "txdbmaker",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
@@ -4440,7 +4354,6 @@
     "scuttle",
     "scran",
     "IRanges",
-    "Rhtslib",
     "BSgenome",
     "XVector",
     "SparseArray",
@@ -4497,8 +4410,7 @@
     "UCSC.utils",
     "rhdf5filters",
     "DESeq2",
-    "txdbmaker",
-    "Rhtslib"
+    "txdbmaker"
   ],
   "FRGEpistasis": [],
   "FamAgg": [],
@@ -4513,7 +4425,6 @@
     "GenomicAlignments",
     "GenomicRanges",
     "pwalign",
-    "Rhtslib",
     "UCSC.utils",
     "SummarizedExperiment",
     "S4Arrays",
@@ -4540,7 +4451,6 @@
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "UCSC.utils"
   ],
   "FindIT2": [
@@ -4562,8 +4472,7 @@
     "BiocIO",
     "S4Arrays",
     "KEGGREST",
-    "SparseArray",
-    "Rhtslib"
+    "SparseArray"
   ],
   "FlowSOM": [
     "flowCore",
@@ -4597,7 +4506,6 @@
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "GenomicAlignments",
@@ -4624,7 +4532,6 @@
     "BiocIO",
     "SummarizedExperiment",
     "BSgenome",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -4656,7 +4563,6 @@
     "KEGGREST",
     "annotate",
     "rtracklayer",
-    "Rhtslib",
     "GenomicAlignments",
     "pwalign",
     "BiocIO"
@@ -4798,7 +4704,6 @@
     "S4Vectors",
     "SummarizedExperiment",
     "TCGAutils",
-    "Rhtslib",
     "UCSC.utils",
     "XVector",
     "DelayedArray",
@@ -4837,7 +4742,6 @@
     "XVector",
     "BiocIO",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
@@ -4927,7 +4831,6 @@
     "graph",
     "KEGGREST",
     "SparseArray",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO"
   ],
@@ -5023,7 +4926,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "biomaRt",
     "S4Arrays",
     "DelayedArray",
@@ -5085,7 +4987,6 @@
     "rhdf5",
     "DelayedArray",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "SparseArray",
     "AnnotationFilter",
@@ -5148,12 +5049,9 @@
     "Rsamtools",
     "GenomicAlignments",
     "BiocIO",
-    "Rhtslib",
     "biomaRt"
   ],
-  "GenProSeq": [
-    "DeepPINCS"
-  ],
+  "GenProSeq": [],
   "GenVisR": [
     "AnnotationDbi",
     "biomaRt",
@@ -5171,7 +5069,6 @@
     "BiocIO",
     "rtracklayer",
     "UCSC.utils",
-    "Rhtslib",
     "SummarizedExperiment",
     "GenomicAlignments",
     "S4Arrays",
@@ -5189,8 +5086,7 @@
     "XVector",
     "Rsamtools",
     "UCSC.utils",
-    "Biostrings",
-    "Rhtslib"
+    "Biostrings"
   ],
   "GeneGeneInteR": [
     "Rsamtools",
@@ -5200,7 +5096,6 @@
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "UCSC.utils"
   ],
   "GeneMeta": [
@@ -5253,7 +5148,6 @@
     "AnnotationFilter",
     "ProtGenerics",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -5288,7 +5182,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "BiocIO",
-    "Rhtslib",
     "biomaRt"
   ],
   "GeneticsPed": [],
@@ -5316,7 +5209,6 @@
     "Rsamtools",
     "XVector",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -5353,7 +5245,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -5371,7 +5262,6 @@
     "UCSC.utils",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -5399,7 +5289,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -5424,7 +5313,6 @@
     "biovizBase",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "BiocIO",
     "KEGGREST",
     "VariantAnnotation",
@@ -5462,7 +5350,6 @@
     "graph",
     "RBGL",
     "txdbmaker",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -5490,7 +5377,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "XVector",
-    "Rhtslib",
     "BiocIO",
     "biomaRt",
     "KEGGREST",
@@ -5663,7 +5549,6 @@
     "BiocIO",
     "XVector",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -5684,7 +5569,6 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -5712,7 +5596,6 @@
     "BiocIO",
     "ProtGenerics",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -5822,7 +5705,6 @@
     "XVector",
     "UCSC.utils",
     "AnnotationDbi",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -5860,7 +5742,6 @@
     "GenomicFeatures",
     "ensembldb",
     "biovizBase",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -5969,7 +5850,6 @@
     "UCSC.utils",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -5987,7 +5867,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -6008,7 +5887,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "BiocIO",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -6096,7 +5974,6 @@
     "Biostrings",
     "XVector",
     "rtracklayer",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -6127,7 +6004,6 @@
     "Biostrings",
     "AnnotationDbi",
     "XVector",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -6147,7 +6023,6 @@
     "GenomicAlignments",
     "GenomicRanges",
     "pwalign",
-    "Rhtslib",
     "UCSC.utils",
     "SummarizedExperiment",
     "S4Arrays",
@@ -6238,7 +6113,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -6264,7 +6138,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -6301,7 +6174,6 @@
     "UCSC.utils",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -6322,8 +6194,7 @@
     "BiocIO",
     "S4Arrays",
     "SparseArray",
-    "UCSC.utils",
-    "Rhtslib"
+    "UCSC.utils"
   ],
   "IntEREst": [
     "GenomicRanges",
@@ -6347,7 +6218,6 @@
     "genefilter",
     "rtracklayer",
     "VariantAnnotation",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "UCSC.utils",
@@ -6436,8 +6306,7 @@
     "SparseArray",
     "AnnotationFilter",
     "ProtGenerics",
-    "annotate",
-    "Rhtslib"
+    "annotate"
   ],
   "KCsmart": [
     "siggenes"
@@ -6668,7 +6537,6 @@
     "XVector",
     "BiocIO",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
@@ -6710,8 +6578,7 @@
     "GEOquery",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "MAGeCKFlute": [
     "DOSE",
@@ -6870,7 +6737,6 @@
     "XVector",
     "GenomeInfoDb",
     "SummarizedExperiment",
-    "Rhtslib",
     "UCSC.utils",
     "S4Arrays",
     "DelayedArray",
@@ -6918,7 +6784,6 @@
     "UCSC.utils",
     "rhdf5",
     "rhdf5filters",
-    "Rhtslib",
     "edgeR"
   ],
   "MEAT": [
@@ -6955,8 +6820,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "MEB": [
     "edgeR",
@@ -6992,7 +6856,6 @@
     "XVector",
     "GenomeInfoDb",
     "BiocIO",
-    "Rhtslib",
     "GenomicAlignments",
     "KEGGREST",
     "UCSC.utils",
@@ -7101,7 +6964,6 @@
     "S4Arrays",
     "UCSC.utils",
     "rhdf5filters",
-    "Rhtslib",
     "GenomicAlignments"
   ],
   "MIRit": [
@@ -7181,7 +7043,6 @@
     "GenomeInfoDb",
     "BiocIO",
     "rtracklayer",
-    "Rhtslib",
     "UCSC.utils",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -7259,8 +7120,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "MOSim": [
     "IRanges",
@@ -7283,8 +7143,7 @@
     "ScaledMatrix",
     "UCSC.utils",
     "XVector",
-    "Biostrings",
-    "Rhtslib"
+    "Biostrings"
   ],
   "MPAC": [
     "SummarizedExperiment",
@@ -7596,7 +7455,6 @@
     "UCSC.utils",
     "AnnotationDbi",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -7759,7 +7617,6 @@
     "UCSC.utils",
     "BiocIO",
     "SparseArray",
-    "Rhtslib",
     "GenomicAlignments"
   ],
   "MethPed": [],
@@ -7790,8 +7647,7 @@
     "Rsamtools",
     "GenomicAlignments",
     "annotate",
-    "UCSC.utils",
-    "Rhtslib"
+    "UCSC.utils"
   ],
   "MethTargetedNGS": [
     "Biostrings",
@@ -7831,8 +7687,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "MethylMix": [
     "impute"
@@ -7855,7 +7710,6 @@
     "KEGGREST",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -7937,8 +7791,7 @@
     "S4Arrays",
     "SparseArray",
     "rhdf5",
-    "rhdf5filters",
-    "Rhtslib"
+    "rhdf5filters"
   ],
   "MinimumDistance": [
     "VanillaICE",
@@ -7960,7 +7813,6 @@
     "BiocIO",
     "rtracklayer",
     "Rsamtools",
-    "Rhtslib",
     "GenomicAlignments"
   ],
   "Modstrings": [
@@ -8015,7 +7867,6 @@
     "BiocIO",
     "KEGGREST",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -8057,7 +7908,6 @@
     "Rsamtools",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -8075,7 +7925,6 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -8308,7 +8157,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "S4Arrays",
     "DelayedArray",
@@ -8330,7 +8178,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "GenomicAlignments",
     "S4Arrays",
@@ -8356,7 +8203,6 @@
     "motifStack",
     "edgeR",
     "metapod",
-    "Rhtslib",
     "UCSC.utils",
     "XVector",
     "BiocIO",
@@ -8434,7 +8280,6 @@
     "BSgenome",
     "HDF5Array",
     "rhdf5",
-    "Rhtslib",
     "S4Arrays",
     "SparseArray",
     "BiocIO",
@@ -8529,8 +8374,7 @@
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
-    "SparseArray",
-    "Rhtslib"
+    "SparseArray"
   ],
   "NormalyzerDE": [
     "vsn",
@@ -8576,7 +8420,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -8603,7 +8446,6 @@
     "S4Arrays",
     "SparseArray",
     "AnnotationDbi",
-    "Rhtslib",
     "KEGGREST"
   ],
   "OPWeight": [],
@@ -8621,7 +8463,6 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -8646,7 +8487,6 @@
     "XVector",
     "BiocIO",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -8662,7 +8502,6 @@
     "GenomicAlignments",
     "GenomicRanges",
     "pwalign",
-    "Rhtslib",
     "UCSC.utils",
     "SummarizedExperiment",
     "S4Arrays",
@@ -8690,8 +8529,7 @@
     "KEGGREST",
     "SparseArray",
     "Rsamtools",
-    "GenomicAlignments",
-    "Rhtslib"
+    "GenomicAlignments"
   ],
   "OVESEG": [
     "SummarizedExperiment",
@@ -8760,7 +8598,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -8785,7 +8622,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -8809,7 +8645,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -8864,12 +8699,10 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
-  "PCAN": [],
   "PCAtools": [
     "DelayedMatrixStats",
     "DelayedArray",
@@ -8907,7 +8740,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "UCSC.utils",
     "S4Arrays",
     "DelayedArray",
@@ -8938,7 +8770,6 @@
     "AnnotationFilter",
     "ProtGenerics",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -9370,7 +9201,6 @@
     "SummarizedExperiment",
     "Rsamtools",
     "BSgenome",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "GenomicAlignments",
@@ -9405,7 +9235,6 @@
     "UCSC.utils",
     "AnnotationDbi",
     "rhdf5filters",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "S4Arrays",
@@ -9438,7 +9267,6 @@
     "BiocIO",
     "ProtGenerics",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -9453,7 +9281,6 @@
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "UCSC.utils"
   ],
   "QFeatures": [
@@ -9516,7 +9343,6 @@
     "rtracklayer",
     "GenomicFiles",
     "AnnotationDbi",
-    "Rhtslib",
     "KEGGREST",
     "XVector",
     "BiocIO",
@@ -9557,7 +9383,6 @@
     "graph",
     "RBGL",
     "txdbmaker",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
@@ -9580,7 +9405,6 @@
     "GenomeInfoDb",
     "BiocIO",
     "rtracklayer",
-    "Rhtslib",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -9621,7 +9445,6 @@
     "SeqArray",
     "SeqVarTools",
     "SummarizedExperiment",
-    "Rhtslib",
     "UCSC.utils",
     "GenomicAlignments",
     "S4Arrays",
@@ -9659,7 +9482,6 @@
     "biomaRt",
     "KEGGREST",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -9727,7 +9549,6 @@
     "AnnotationFilter",
     "ProtGenerics",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -9764,8 +9585,7 @@
     "SparseArray",
     "annotate",
     "rhdf5",
-    "rhdf5filters",
-    "Rhtslib"
+    "rhdf5filters"
   ],
   "RESOLVE": [
     "Biostrings",
@@ -9781,7 +9601,6 @@
     "Rsamtools",
     "UCSC.utils",
     "VariantAnnotation",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "AnnotationDbi",
@@ -9821,7 +9640,6 @@
     "rhdf5",
     "rhdf5filters",
     "S4Arrays",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "SingleCellExperiment",
@@ -9843,7 +9661,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -9901,7 +9718,6 @@
     "Biostrings",
     "BiocIO",
     "VariantAnnotation",
-    "Rhtslib",
     "BSgenome"
   ],
   "RNAmodR": [
@@ -9926,7 +9742,6 @@
     "biomaRt",
     "ensembldb",
     "biovizBase",
-    "Rhtslib",
     "KEGGREST",
     "VariantAnnotation",
     "AnnotationFilter",
@@ -9962,7 +9777,6 @@
     "BiocIO",
     "ProtGenerics",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -9990,7 +9804,6 @@
     "biomaRt",
     "ensembldb",
     "biovizBase",
-    "Rhtslib",
     "KEGGREST",
     "VariantAnnotation",
     "AnnotationFilter",
@@ -10026,7 +9839,6 @@
     "BiocIO",
     "ProtGenerics",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -10099,7 +9911,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "pwalign",
-    "Rhtslib",
     "UCSC.utils",
     "SummarizedExperiment",
     "S4Arrays",
@@ -10129,11 +9940,9 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "RTN": [
-    "minet",
     "IRanges",
     "S4Vectors",
     "SummarizedExperiment",
@@ -10147,7 +9956,6 @@
   ],
   "RTNduals": [
     "RTN",
-    "minet",
     "IRanges",
     "S4Vectors",
     "SummarizedExperiment",
@@ -10162,7 +9970,6 @@
   "RTNsurvival": [
     "RTN",
     "RTNduals",
-    "minet",
     "IRanges",
     "S4Vectors",
     "SummarizedExperiment",
@@ -10191,7 +9998,6 @@
     "XVector",
     "GenomeInfoDb",
     "rtracklayer",
-    "Rhtslib",
     "GenomicAlignments",
     "pwalign",
     "UCSC.utils",
@@ -10253,7 +10059,6 @@
     "DelayedArray",
     "HDF5Array",
     "S4Arrays",
-    "Rhtslib",
     "KEGGREST",
     "SparseArray",
     "rhdf5filters",
@@ -10282,7 +10087,6 @@
     "GenomicAlignments",
     "GenomicRanges",
     "pwalign",
-    "Rhtslib",
     "UCSC.utils",
     "SummarizedExperiment",
     "S4Arrays",
@@ -10297,7 +10101,6 @@
     "S4Vectors",
     "IRanges",
     "XVector",
-    "Rhtslib",
     "UCSC.utils"
   ],
   "RcisTarget": [
@@ -10418,7 +10221,6 @@
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "KEGGREST",
     "UCSC.utils"
   ],
@@ -10437,7 +10239,6 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -10478,7 +10279,6 @@
     "ProtGenerics",
     "UCSC.utils",
     "txdbmaker",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
@@ -10492,9 +10292,7 @@
     "SparseArray",
     "XVector"
   ],
-  "Rfastp": [
-    "Rhtslib"
-  ],
+  "Rfastp": [],
   "RgnTX": [
     "GenomeInfoDb",
     "GenomicFeatures",
@@ -10513,7 +10311,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -10540,12 +10337,10 @@
     "BiocIO",
     "biomaRt",
     "KEGGREST",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
-  "Rhtslib": [],
   "RiboCrypt": [
     "ORFik",
     "Biostrings",
@@ -10567,7 +10362,6 @@
     "txdbmaker",
     "KEGGREST",
     "BiocIO",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -10587,7 +10381,6 @@
     "AnnotationDbi",
     "XVector",
     "rtracklayer",
-    "Rhtslib",
     "UCSC.utils",
     "BiocIO",
     "biomaRt",
@@ -10617,7 +10410,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationFilter",
-    "Rhtslib",
     "BiocIO",
     "KEGGREST",
     "ProtGenerics",
@@ -10648,7 +10440,6 @@
     "UCSC.utils",
     "Biostrings",
     "rtracklayer",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO"
   ],
@@ -10682,8 +10473,7 @@
     "rhdf5filters",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "RnaSeqSampleSize": [
     "biomaRt",
@@ -10713,7 +10503,6 @@
     "UCSC.utils",
     "BiocIO",
     "VariantAnnotation",
-    "Rhtslib",
     "BSgenome"
   ],
   "Rnits": [
@@ -10753,7 +10542,6 @@
     "ensembldb",
     "AnnotationFilter",
     "rtracklayer",
-    "Rhtslib",
     "pwalign",
     "KEGGREST",
     "ProtGenerics",
@@ -10771,7 +10559,6 @@
     "S4Vectors",
     "IRanges",
     "XVector",
-    "Rhtslib",
     "UCSC.utils"
   ],
   "Rtpca": [],
@@ -10813,7 +10600,6 @@
     "SummarizedExperiment",
     "KEGGREST",
     "UCSC.utils",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -10889,7 +10675,6 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -10941,7 +10726,6 @@
     "BiocIO",
     "rtracklayer",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "S4Arrays",
@@ -11042,7 +10826,6 @@
     "KEGGREST",
     "XVector",
     "UCSC.utils",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -11068,7 +10851,6 @@
     "S4Vectors",
     "XVector",
     "GenomeInfoDb",
-    "Rhtslib",
     "UCSC.utils"
   ],
   "SIM": [
@@ -11113,7 +10895,6 @@
     "BiocIO",
     "biomaRt",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -11131,7 +10912,6 @@
     "S4Vectors",
     "XVector",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
@@ -11171,8 +10951,7 @@
     "KEGGREST",
     "SparseArray",
     "S4Arrays",
-    "rhdf5filters",
-    "Rhtslib"
+    "rhdf5filters"
   ],
   "SPEM": [],
   "SPIA": [
@@ -11220,7 +10999,6 @@
     "AnnotationFilter",
     "BiocIO",
     "ProtGenerics",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -11289,7 +11067,6 @@
     "affy",
     "preprocessCore"
   ],
-  "SUITOR": [],
   "SVMDO": [
     "DOSE",
     "AnnotationDbi",
@@ -11430,7 +11207,6 @@
     "GenomicRanges",
     "pwalign",
     "XVector",
-    "Rhtslib",
     "UCSC.utils",
     "SummarizedExperiment",
     "S4Arrays",
@@ -11495,7 +11271,6 @@
     "DelayedArray",
     "AnnotationDbi",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "SparseArray"
   ],
@@ -11524,7 +11299,6 @@
     "S4Vectors",
     "XVector",
     "GenomeInfoDb",
-    "Rhtslib",
     "UCSC.utils"
   ],
   "SingleCellAlleleExperiment": [
@@ -11593,7 +11367,6 @@
     "ShortRead",
     "GenomicFiles",
     "AnnotationDbi",
-    "Rhtslib",
     "KEGGREST",
     "SummarizedExperiment",
     "VariantAnnotation",
@@ -11640,7 +11413,6 @@
     "ensembldb",
     "AnnotationDbi",
     "AnnotationFilter",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "ProtGenerics",
@@ -11719,7 +11491,6 @@
     "rtracklayer",
     "Rsamtools",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "S4Arrays",
@@ -11851,8 +11622,7 @@
     "rhdf5filters",
     "ExperimentHub",
     "GenomicAlignments",
-    "KEGGREST",
-    "Rhtslib"
+    "KEGGREST"
   ],
   "SplicingFactory": [
     "SummarizedExperiment",
@@ -11882,7 +11652,6 @@
     "AnnotationDbi",
     "XVector",
     "rtracklayer",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "S4Arrays",
@@ -11988,7 +11757,6 @@
     "S4Arrays",
     "DelayedArray",
     "BSgenome",
-    "Rhtslib",
     "KEGGREST",
     "SparseArray"
   ],
@@ -12091,7 +11859,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "KEGGREST",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -12147,8 +11914,7 @@
     "SparseArray",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "TCseq": [
     "edgeR",
@@ -12161,7 +11927,6 @@
     "GenomeInfoDb",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
@@ -12208,7 +11973,6 @@
     "GenomicAlignments",
     "BiocIO",
     "KEGGREST",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -12238,7 +12002,6 @@
     "GenomicRanges",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "UCSC.utils"
   ],
   "TFARM": [
@@ -12269,7 +12032,6 @@
     "UCSC.utils",
     "AnnotationDbi",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -12291,7 +12053,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -12317,7 +12078,6 @@
     "KEGGREST",
     "BiocIO",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -12335,7 +12095,6 @@
     "GenomicRanges",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "UCSC.utils"
   ],
   "TIN": [
@@ -12425,7 +12184,6 @@
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "UCSC.utils",
@@ -12486,7 +12244,6 @@
     "BSgenome",
     "biovizBase",
     "GenomicAlignments",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -12539,7 +12296,6 @@
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "GenomicAlignments",
@@ -12585,7 +12341,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "TreeAndLeaf": [],
   "TreeSummarizedExperiment": [
     "SingleCellExperiment",
     "S4Vectors",
@@ -12653,7 +12408,6 @@
     "BiocIO",
     "rtracklayer",
     "UCSC.utils",
-    "Rhtslib",
     "pwalign",
     "S4Arrays",
     "DelayedArray",
@@ -12674,7 +12428,6 @@
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "UCSC.utils",
@@ -12707,7 +12460,6 @@
     "plyranges",
     "rhdf5",
     "rhdf5filters",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -12736,7 +12488,6 @@
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "UCSC.utils",
@@ -12749,7 +12500,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "scater",
-    "DeepPINCS",
     "scuttle",
     "S4Vectors",
     "SparseArray",
@@ -12780,7 +12530,6 @@
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "AnnotationDbi",
     "BSgenome",
     "GenomicFeatures",
@@ -12816,7 +12565,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -12846,7 +12594,6 @@
     "rtracklayer",
     "Rsamtools",
     "SparseArray",
-    "Rhtslib",
     "GenomicAlignments"
   ],
   "VarCon": [
@@ -12861,7 +12608,6 @@
     "rtracklayer",
     "Rsamtools",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "S4Arrays",
@@ -12881,7 +12627,6 @@
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "UCSC.utils",
@@ -12936,7 +12681,6 @@
     "ensembldb",
     "biovizBase",
     "GenomicAlignments",
-    "Rhtslib",
     "S4Arrays",
     "AnnotationFilter",
     "SparseArray",
@@ -12958,7 +12702,6 @@
     "BiocIO",
     "UCSC.utils",
     "AnnotationDbi",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "KEGGREST",
@@ -13031,7 +12774,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -13050,7 +12792,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "XINA": [],
   "XNAString": [
     "Biostrings",
     "pwalign",
@@ -13064,7 +12805,6 @@
     "rtracklayer",
     "Rsamtools",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "S4Arrays",
@@ -13113,7 +12853,6 @@
     "AnnotationDbi",
     "rtracklayer",
     "GenomicFeatures",
-    "Rhtslib",
     "BiocIO",
     "biovizBase",
     "GenomicAlignments",
@@ -13143,7 +12882,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
@@ -13288,7 +13026,6 @@
     "ProtGenerics",
     "UCSC.utils",
     "txdbmaker",
-    "Rhtslib",
     "biomaRt"
   ],
   "affylmGUI": [
@@ -13369,7 +13106,6 @@
     "XVector",
     "UCSC.utils",
     "rhdf5filters",
-    "Rhtslib",
     "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
@@ -13401,7 +13137,6 @@
     "Biostrings",
     "IRanges",
     "XVector",
-    "Rhtslib",
     "UCSC.utils",
     "rhdf5filters"
   ],
@@ -13535,7 +13270,6 @@
     "Biostrings",
     "GenomeInfoDb",
     "XVector",
-    "Rhtslib",
     "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
@@ -13575,7 +13309,6 @@
     "UCSC.utils",
     "Rsamtools",
     "GenomicAlignments",
-    "Rhtslib",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -13616,7 +13349,6 @@
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "KEGGREST",
     "UCSC.utils"
   ],
@@ -13649,7 +13381,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -13715,7 +13446,6 @@
     "DelayedArray",
     "HDF5Array",
     "OrganismDbi",
-    "Rhtslib",
     "S4Arrays",
     "KEGGREST",
     "SparseArray",
@@ -13761,8 +13491,7 @@
     "S4Arrays",
     "SparseArray",
     "rhdf5",
-    "rhdf5filters",
-    "Rhtslib"
+    "rhdf5filters"
   ],
   "arrayQualityMetrics": [
     "affy",
@@ -13809,7 +13538,6 @@
     "Rsamtools",
     "TFBSTools",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "pwalign",
     "CNEr",
@@ -13837,7 +13565,6 @@
     "Biostrings",
     "XVector",
     "rtracklayer",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -13910,7 +13637,6 @@
     "AnnotationDbi",
     "annotate",
     "SummarizedExperiment",
-    "Rhtslib",
     "KEGGREST",
     "S4Arrays",
     "DelayedArray",
@@ -13932,7 +13658,6 @@
     "XVector",
     "UCSC.utils",
     "AnnotationDbi",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -13941,7 +13666,6 @@
   "bamsignals": [
     "IRanges",
     "GenomicRanges",
-    "Rhtslib",
     "S4Vectors",
     "GenomeInfoDb",
     "XVector",
@@ -14003,7 +13727,6 @@
     "GenomicRanges",
     "pwalign",
     "XVector",
-    "Rhtslib",
     "UCSC.utils",
     "SummarizedExperiment",
     "S4Arrays",
@@ -14192,8 +13915,7 @@
     "affy",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "bioCancer": [
     "cBioPortalData",
@@ -14214,7 +13936,6 @@
     "TCGAutils",
     "enrichplot",
     "GOSemSim",
-    "minet",
     "graphite",
     "UCSC.utils",
     "XVector",
@@ -14228,8 +13949,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "biocGraph": [
     "Rgraphviz",
@@ -14287,7 +14007,6 @@
     "BiocIO",
     "ProtGenerics",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -14338,7 +14057,6 @@
     "rtracklayer",
     "ProtGenerics",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "BSgenome",
@@ -14378,7 +14096,6 @@
     "OrganismDbi",
     "GenomicFeatures",
     "CGHcall",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "KEGGREST",
@@ -14409,8 +14126,7 @@
     "XVector",
     "KEGGREST",
     "annotate",
-    "Biostrings",
-    "Rhtslib"
+    "Biostrings"
   ],
   "blima": [
     "beadarray",
@@ -14461,7 +14177,6 @@
     "vsn",
     "preprocessCore",
     "RBGL",
-    "minet",
     "genefilter",
     "edgeR",
     "AnnotationDbi",
@@ -14497,7 +14212,6 @@
     "S4Arrays",
     "UCSC.utils",
     "rhdf5filters",
-    "Rhtslib",
     "GenomicAlignments"
   ],
   "branchpointer": [
@@ -14517,7 +14231,6 @@
     "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -14533,7 +14246,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -14586,7 +14298,6 @@
     "S4Arrays",
     "UCSC.utils",
     "rhdf5filters",
-    "Rhtslib",
     "GenomicAlignments"
   ],
   "bumphunter": [
@@ -14605,7 +14316,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -14633,8 +14343,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "cTRAP": [
     "AnnotationDbi",
@@ -14657,7 +14366,6 @@
     "BioNERO",
     "sva",
     "ComplexHeatmap",
-    "minet",
     "SummarizedExperiment",
     "S4Vectors",
     "UCSC.utils",
@@ -14680,7 +14388,6 @@
     "graph",
     "RBGL",
     "txdbmaker",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "genefilter",
@@ -14705,7 +14412,6 @@
     "S4Vectors",
     "SummarizedExperiment",
     "TCGAutils",
-    "minet",
     "annotate",
     "graph",
     "AnnotationDbi",
@@ -14725,8 +14431,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "cardelino": [
     "GenomeInfoDb",
@@ -14743,7 +14448,6 @@
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "GenomicAlignments",
@@ -14763,7 +14467,6 @@
     "AnnotationDbi",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "KEGGREST",
@@ -14818,8 +14521,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "ccImpute": [
     "SingleCellExperiment",
@@ -14902,7 +14604,6 @@
     "S4Vectors",
     "IRanges",
     "XVector",
-    "Rhtslib",
     "UCSC.utils"
   ],
   "cellity": [
@@ -14949,7 +14650,6 @@
     "Biostrings",
     "XVector",
     "rtracklayer",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -14979,7 +14679,6 @@
     "XVector",
     "CGHcall",
     "Biostrings",
-    "Rhtslib",
     "impute"
   ],
   "cghMCR": [
@@ -15030,7 +14729,6 @@
     "biomaRt",
     "BSgenome",
     "biovizBase",
-    "Rhtslib",
     "VariantAnnotation",
     "BiocIO",
     "S4Arrays",
@@ -15052,7 +14750,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -15068,7 +14765,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "pwalign",
-    "Rhtslib",
     "UCSC.utils",
     "SummarizedExperiment",
     "S4Arrays",
@@ -15110,7 +14806,6 @@
     "BiocIO",
     "rtracklayer",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "pwalign",
@@ -15130,7 +14825,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "bamsignals",
-    "Rhtslib",
     "UCSC.utils",
     "SummarizedExperiment",
     "Biostrings",
@@ -15167,7 +14861,6 @@
     "BiocIO",
     "ProtGenerics",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -15195,7 +14888,6 @@
     "VariantAnnotation",
     "GenomicAlignments",
     "KEGGREST",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -15213,7 +14905,6 @@
     "rtracklayer",
     "Rsamtools",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "S4Arrays",
@@ -15243,7 +14934,6 @@
     "GenomicAlignments",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -15269,7 +14959,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -15409,8 +15098,7 @@
     "S4Vectors",
     "UCSC.utils",
     "XVector",
-    "Biostrings",
-    "Rhtslib"
+    "Biostrings"
   ],
   "cnvGSA": [
     "GenomicRanges",
@@ -15439,7 +15127,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -15503,8 +15190,7 @@
     "AnnotationFilter",
     "BiocIO",
     "SparseArray",
-    "ProtGenerics",
-    "Rhtslib"
+    "ProtGenerics"
   ],
   "combi": [
     "phyloseq",
@@ -15541,7 +15227,6 @@
     "SummarizedExperiment",
     "Gviz",
     "GenomicAlignments",
-    "Rhtslib",
     "graph",
     "biomaRt",
     "ensembldb",
@@ -15634,7 +15319,6 @@
     "AnnotationFilter",
     "rtracklayer",
     "ProtGenerics",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
@@ -15655,7 +15339,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -15689,7 +15372,6 @@
     "annotate",
     "rhdf5",
     "rhdf5filters",
-    "Rhtslib",
     "KEGGREST"
   ],
   "corral": [
@@ -15815,7 +15497,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -15842,7 +15523,6 @@
     "rtracklayer",
     "Rsamtools",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "S4Arrays",
@@ -15862,7 +15542,6 @@
     "XVector",
     "Rsamtools",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "S4Arrays",
@@ -15892,7 +15571,6 @@
     "GenomicAlignments",
     "biomaRt",
     "SummarizedExperiment",
-    "Rhtslib",
     "ExperimentHub",
     "AnnotationHub",
     "S4Arrays",
@@ -15941,7 +15619,6 @@
     "ensembldb",
     "biovizBase",
     "GenomicAlignments",
-    "Rhtslib",
     "SummarizedExperiment",
     "AnnotationFilter",
     "ProtGenerics",
@@ -15979,7 +15656,6 @@
     "biovizBase",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "AnnotationFilter",
     "ProtGenerics",
     "S4Arrays",
@@ -16015,7 +15691,6 @@
     "SummarizedExperiment",
     "AnnotationFilter",
     "ProtGenerics",
-    "Rhtslib",
     "ExperimentHub",
     "AnnotationHub",
     "S4Arrays",
@@ -16046,7 +15721,6 @@
     "IRanges",
     "GenomeInfoDb",
     "metapod",
-    "Rhtslib",
     "UCSC.utils",
     "XVector",
     "Biostrings",
@@ -16090,7 +15764,6 @@
     "AnnotationFilter",
     "ProtGenerics",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -16124,7 +15797,6 @@
     "XVector",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "BiocIO",
     "BSgenome",
     "S4Arrays",
@@ -16265,7 +15937,6 @@
     "GenomicAlignments",
     "GenomicRanges",
     "pwalign",
-    "Rhtslib",
     "UCSC.utils",
     "SummarizedExperiment",
     "S4Arrays",
@@ -16296,7 +15967,6 @@
     "GenomicAlignments",
     "annotate",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -16339,7 +16009,6 @@
     "mnem",
     "graphite",
     "Rgraphviz",
-    "minet",
     "AnnotationDbi",
     "RBGL",
     "IRanges",
@@ -16416,7 +16085,6 @@
     "S4Arrays",
     "DelayedArray",
     "Rsamtools",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "SparseArray",
@@ -16457,7 +16125,6 @@
     "Rsamtools",
     "fastseg",
     "rtracklayer",
-    "Rhtslib",
     "SummarizedExperiment",
     "Biostrings",
     "bumphunter",
@@ -16487,7 +16154,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "VariantAnnotation",
-    "Rhtslib",
     "S4Vectors",
     "XVector",
     "GenomeInfoDb",
@@ -16538,7 +16204,6 @@
     "S4Arrays",
     "XVector",
     "BSgenome",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "SparseArray",
@@ -16563,7 +16228,6 @@
     "Biostrings",
     "XVector",
     "VariantAnnotation",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -16605,7 +16269,6 @@
     "graph",
     "RBGL",
     "txdbmaker",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
@@ -16629,7 +16292,6 @@
     "InteractionSet",
     "SummarizedExperiment",
     "Rsamtools",
-    "Rhtslib",
     "Biostrings",
     "BSgenome",
     "rhdf5",
@@ -16678,8 +16340,7 @@
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
-    "annotate",
-    "Rhtslib"
+    "annotate"
   ],
   "diffcoexp": [
     "SummarizedExperiment",
@@ -16801,8 +16462,7 @@
     "BiocIO",
     "KEGGREST",
     "S4Arrays",
-    "rhdf5filters",
-    "Rhtslib"
+    "rhdf5filters"
   ],
   "dominoSignal": [
     "biomaRt",
@@ -16868,7 +16528,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -16921,7 +16580,6 @@
     "KEGGREST",
     "XVector",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
@@ -16968,7 +16626,6 @@
     "AnnotationDbi",
     "XVector",
     "UCSC.utils",
-    "Rhtslib",
     "pwalign",
     "S4Arrays",
     "DelayedArray",
@@ -16988,7 +16645,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -17039,7 +16695,6 @@
     "TFBSTools",
     "SummarizedExperiment",
     "GenomicAlignments",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "CNEr",
@@ -17091,7 +16746,6 @@
     "KEGGREST",
     "XVector",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
@@ -17100,7 +16754,6 @@
     "SparseArray"
   ],
   "epiNEM": [
-    "minet",
     "graph",
     "mnem",
     "Rgraphviz",
@@ -17108,7 +16761,6 @@
   ],
   "epialleleR": [
     "GenomicRanges",
-    "Rhtslib",
     "S4Vectors",
     "IRanges",
     "GenomeInfoDb",
@@ -17128,7 +16780,6 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -17145,7 +16796,6 @@
     "UCSC.utils",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -17163,7 +16813,6 @@
     "S4Vectors",
     "rhdf5",
     "GreyListChIP",
-    "Rhtslib",
     "edgeR",
     "metapod",
     "UCSC.utils",
@@ -17220,8 +16869,7 @@
     "rhdf5filters",
     "graph",
     "RBGL",
-    "txdbmaker",
-    "Rhtslib"
+    "txdbmaker"
   ],
   "epiregulon": [
     "SingleCellExperiment",
@@ -17265,7 +16913,6 @@
     "annotate",
     "graph",
     "rhdf5filters",
-    "Rhtslib",
     "pwalign",
     "CNEr",
     "DirichletMultinomial",
@@ -17339,7 +16986,6 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "biomaRt"
@@ -17369,7 +17015,6 @@
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "biomaRt"
@@ -17398,7 +17043,6 @@
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "biomaRt"
@@ -17429,7 +17073,6 @@
     "graph",
     "RBGL",
     "txdbmaker",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
@@ -17463,7 +17106,6 @@
     "graph",
     "RBGL",
     "txdbmaker",
-    "Rhtslib",
     "BSgenome",
     "biomaRt"
   ],
@@ -17494,7 +17136,6 @@
     "GOSemSim",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "pwalign",
     "CNEr",
     "DirichletMultinomial",
@@ -17566,7 +17207,6 @@
     "XVector",
     "GenomeInfoDb",
     "GenomicRanges",
-    "Rhtslib",
     "UCSC.utils"
   ],
   "evaluomeR": [
@@ -17597,7 +17237,6 @@
     "rtracklayer",
     "S4Vectors",
     "metapod",
-    "Rhtslib",
     "UCSC.utils",
     "Biostrings",
     "Gviz",
@@ -17634,7 +17273,6 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -17657,7 +17295,6 @@
     "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -17716,7 +17353,6 @@
     "AnnotationDbi",
     "BSgenome",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "SparseArray",
     "UCSC.utils"
@@ -17757,8 +17393,7 @@
     "rhdf5filters",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "fgga": [
     "RBGL",
@@ -18050,8 +17685,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "gCrisprTools": [
     "SummarizedExperiment",
@@ -18084,7 +17718,6 @@
     "UCSC.utils",
     "rtracklayer",
     "VariantAnnotation",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
@@ -18195,8 +17828,7 @@
     "graph",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "gage": [
     "graph",
@@ -18236,7 +17868,6 @@
     "rtracklayer",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -18254,9 +17885,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "geNetClassifier": [
-    "minet"
-  ],
+  "geNetClassifier": [],
   "gemma.R": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -18285,7 +17914,6 @@
     "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -18313,7 +17941,6 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -18356,7 +17983,6 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -18406,7 +18032,6 @@
     "BSgenome",
     "biovizBase",
     "rhdf5filters",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -18482,7 +18107,6 @@
     "graph",
     "RBGL",
     "txdbmaker",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
@@ -18580,7 +18204,6 @@
     "XVector",
     "GenomeInfoDb",
     "GenomicRanges",
-    "Rhtslib",
     "GenomicAlignments",
     "UCSC.utils",
     "SummarizedExperiment",
@@ -18629,8 +18252,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "globaltest": [
     "AnnotationDbi",
@@ -18660,7 +18282,6 @@
     "UCSC.utils",
     "SummarizedExperiment",
     "AnnotationDbi",
-    "Rhtslib",
     "KEGGREST",
     "S4Arrays",
     "DelayedArray",
@@ -18681,7 +18302,6 @@
     "UCSC.utils",
     "SummarizedExperiment",
     "AnnotationDbi",
-    "Rhtslib",
     "BiocIO",
     "KEGGREST",
     "S4Arrays",
@@ -18751,7 +18371,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "biomaRt",
     "S4Arrays",
     "DelayedArray",
@@ -18784,7 +18403,6 @@
     "Rsamtools",
     "XVector",
     "BiocIO",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -18839,7 +18457,6 @@
     "SummarizedExperiment",
     "Rsamtools",
     "BSgenome",
-    "Rhtslib",
     "BiocIO",
     "GenomicAlignments",
     "S4Arrays",
@@ -18864,7 +18481,6 @@
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "SparseArray",
@@ -18879,7 +18495,6 @@
     "Rsamtools",
     "GenomicRanges",
     "GenomeInfoDb",
-    "Rhtslib",
     "XVector",
     "UCSC.utils",
     "rhdf5filters"
@@ -18946,7 +18561,6 @@
     "GenomicAlignments",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -18967,7 +18581,6 @@
     "BSgenome",
     "BiocIO",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -18986,7 +18599,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "BiocIO",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -19070,7 +18682,6 @@
     "BSgenome",
     "UCSC.utils",
     "GenomicRanges",
-    "Rhtslib",
     "BiocIO",
     "rtracklayer",
     "GenomicAlignments",
@@ -19111,8 +18722,7 @@
     "S4Arrays",
     "SparseArray",
     "rhdf5",
-    "rhdf5filters",
-    "Rhtslib"
+    "rhdf5filters"
   ],
   "iNETgrate": [
     "SummarizedExperiment",
@@ -19157,8 +18767,7 @@
     "Rsamtools",
     "GenomicAlignments",
     "BiocIO",
-    "biomaRt",
-    "Rhtslib"
+    "biomaRt"
   ],
   "iSEE": [
     "SummarizedExperiment",
@@ -19348,7 +18957,6 @@
     "XVector",
     "GenomeInfoDb",
     "metapod",
-    "Rhtslib",
     "AnnotationDbi",
     "BiocIO",
     "pwalign",
@@ -19398,7 +19006,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "BiocIO",
-    "Rhtslib",
     "biomaRt"
   ],
   "idiogram": [
@@ -19444,7 +19051,6 @@
     "AnnotationDbi",
     "BSgenome",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "UCSC.utils",
     "S4Arrays",
@@ -19555,7 +19161,6 @@
     "graph",
     "RBGL",
     "txdbmaker",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
@@ -19649,7 +19254,6 @@
     "AnnotationDbi",
     "VariantAnnotation",
     "KEGGREST",
-    "Rhtslib",
     "SummarizedExperiment",
     "Biostrings",
     "GenomicAlignments",
@@ -19679,7 +19283,6 @@
     "XVector",
     "Rsamtools",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "AnnotationDbi",
@@ -19732,7 +19335,6 @@
     "Rsamtools",
     "UCSC.utils",
     "rhdf5filters",
-    "Rhtslib",
     "GenomicAlignments"
   ],
   "kmcut": [
@@ -19824,7 +19426,6 @@
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "SparseArray",
@@ -19926,8 +19527,7 @@
     "S4Arrays",
     "SparseArray",
     "rhdf5",
-    "rhdf5filters",
-    "Rhtslib"
+    "rhdf5filters"
   ],
   "lute": [
     "SummarizedExperiment",
@@ -19967,7 +19567,6 @@
     "AnnotationDbi",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "KEGGREST",
     "S4Arrays",
     "DelayedArray",
@@ -20018,8 +19617,7 @@
     "UCSC.utils",
     "graph",
     "RBGL",
-    "txdbmaker",
-    "Rhtslib"
+    "txdbmaker"
   ],
   "maPredictDSC": [
     "affy",
@@ -20046,9 +19644,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "maftools": [
-    "Rhtslib"
-  ],
+  "maftools": [],
   "magpie": [
     "rtracklayer",
     "S4Vectors",
@@ -20064,7 +19660,6 @@
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "UCSC.utils",
@@ -20098,7 +19693,6 @@
     "GenomicAlignments",
     "Rsamtools",
     "Biostrings",
-    "Rhtslib",
     "BiocIO"
   ],
   "marr": [
@@ -20137,7 +19731,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -20310,7 +19903,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -20344,7 +19936,6 @@
     "ShortRead",
     "annotate",
     "UCSC.utils",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -20371,7 +19962,6 @@
     "Rsamtools",
     "fastseg",
     "rtracklayer",
-    "Rhtslib",
     "Biostrings",
     "GenomicAlignments",
     "BiocIO",
@@ -20425,7 +20015,6 @@
     "RBGL",
     "AnnotationHubData",
     "DelayedMatrixStats",
-    "Rhtslib",
     "GenomicDataCommons",
     "MultiAssayExperiment",
     "RaggedExperiment",
@@ -20454,8 +20043,7 @@
     "rhdf5",
     "rhdf5filters",
     "GenomicAlignments",
-    "UCSC.utils",
-    "Rhtslib"
+    "UCSC.utils"
   ],
   "methyLImp2": [
     "SummarizedExperiment",
@@ -20502,8 +20090,7 @@
     "BiocIO",
     "S4Arrays",
     "UCSC.utils",
-    "rhdf5filters",
-    "Rhtslib"
+    "rhdf5filters"
   ],
   "methylGSA": [
     "clusterProfiler",
@@ -20540,8 +20127,7 @@
     "rhdf5filters",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "methylInheritance": [
     "methylKit",
@@ -20553,7 +20139,6 @@
     "Rsamtools",
     "fastseg",
     "rtracklayer",
-    "Rhtslib",
     "UCSC.utils",
     "Biostrings",
     "GenomicAlignments",
@@ -20571,7 +20156,6 @@
     "Rsamtools",
     "fastseg",
     "rtracklayer",
-    "Rhtslib",
     "UCSC.utils",
     "XVector",
     "Biostrings",
@@ -20604,7 +20188,6 @@
     "ensembldb",
     "BSgenome",
     "biovizBase",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -20637,7 +20220,6 @@
     "rtracklayer",
     "Rsamtools",
     "rhdf5filters",
-    "Rhtslib",
     "GenomicAlignments"
   ],
   "methylclock": [
@@ -20680,7 +20262,6 @@
     "AnnotationForge",
     "RBGL",
     "txdbmaker",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "biomaRt"
@@ -20728,8 +20309,7 @@
     "rhdf5filters",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "miQC": [
     "SingleCellExperiment",
@@ -21039,7 +20619,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "minet": [],
   "minfi": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -21068,8 +20647,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "mirIntegrator": [
     "graph",
@@ -21116,8 +20694,7 @@
     "rhdf5filters",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "missRows": [
     "MultiAssayExperiment",
@@ -21137,7 +20714,6 @@
     "GenomicRanges",
     "deepSNV",
     "S4Vectors",
-    "Rhtslib",
     "IRanges",
     "SummarizedExperiment",
     "Biostrings",
@@ -21196,8 +20772,7 @@
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
-    "SparseArray",
-    "Rhtslib"
+    "SparseArray"
   ],
   "mogsa": [
     "graphite",
@@ -21238,7 +20813,6 @@
     "annotate",
     "KEGGREST",
     "SparseArray",
-    "Rhtslib",
     "AnnotationDbi"
   ],
   "monocle": [
@@ -21257,7 +20831,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -21293,7 +20866,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "BiocIO",
-    "Rhtslib",
     "biomaRt"
   ],
   "motifStack": [
@@ -21317,7 +20889,6 @@
     "UCSC.utils",
     "AnnotationDbi",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -21359,7 +20930,6 @@
     "TFBSTools",
     "S4Arrays",
     "DelayedArray",
-    "Rhtslib",
     "KEGGREST",
     "AnnotationFilter",
     "SparseArray",
@@ -21390,7 +20960,6 @@
     "BiocIO",
     "rtracklayer",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "pwalign",
@@ -21474,7 +21043,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationFilter",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -21646,7 +21214,6 @@
     "VariantAnnotation",
     "GenomicAlignments",
     "KEGGREST",
-    "Rhtslib",
     "SummarizedExperiment",
     "ensembldb",
     "AnnotationFilter",
@@ -21741,7 +21308,6 @@
     "Rsamtools",
     "UCSC.utils",
     "AnnotationDbi",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -21766,7 +21332,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -21786,7 +21351,6 @@
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "GenomicAlignments",
@@ -21858,7 +21422,6 @@
     "XVector",
     "GenomicAlignments",
     "Biostrings",
-    "Rhtslib",
     "BiocIO",
     "GenomicFeatures",
     "AnnotationDbi",
@@ -21871,7 +21434,6 @@
   "nempi": [
     "mnem",
     "epiNEM",
-    "minet",
     "graph",
     "Rgraphviz",
     "RBGL"
@@ -21947,8 +21509,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "netboost": [
     "impute",
@@ -21965,10 +21526,8 @@
   "nethet": [
     "graph"
   ],
-  "netprioR": [],
   "netresponse": [
     "Rgraphviz",
-    "minet",
     "graph"
   ],
   "ngsReports": [
@@ -22013,7 +21572,6 @@
     "IRanges",
     "bamsignals",
     "rtracklayer",
-    "Rhtslib",
     "S4Vectors",
     "UCSC.utils",
     "XVector",
@@ -22050,7 +21608,6 @@
     "ShortRead",
     "XVector",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
@@ -22076,13 +21633,11 @@
     "GenomicAlignments",
     "Rsamtools",
     "Biostrings",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
-  "occugene": [],
   "octad": [
     "edgeR",
     "RUVSeq",
@@ -22120,7 +21675,6 @@
     "rtracklayer",
     "annotate",
     "graph",
-    "Rhtslib",
     "GenomicAlignments",
     "pwalign",
     "UCSC.utils",
@@ -22508,7 +22062,6 @@
     "BiocIO",
     "rtracklayer",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "pwalign",
@@ -22546,8 +22099,7 @@
     "annotate",
     "UCSC.utils",
     "XVector",
-    "Biostrings",
-    "Rhtslib"
+    "Biostrings"
   ],
   "pairkat": [
     "SummarizedExperiment",
@@ -22572,8 +22124,7 @@
     "GenomeInfoDb",
     "UCSC.utils",
     "XVector",
-    "Biostrings",
-    "Rhtslib"
+    "Biostrings"
   ],
   "panp": [
     "affy",
@@ -22675,8 +22226,7 @@
     "txdbmaker",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "pdInfoBuilder": [
     "affxparser",
@@ -22760,7 +22310,6 @@
     "UCSC.utils",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -22900,7 +22449,6 @@
     "rtracklayer",
     "Rsamtools",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "S4Arrays",
@@ -22939,7 +22487,6 @@
     "rhdf5filters",
     "SummarizedExperiment",
     "Biostrings",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -22959,7 +22506,6 @@
     "GenomicAlignments",
     "Rsamtools",
     "Biostrings",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -22977,7 +22523,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -23016,7 +22561,6 @@
     "IRanges",
     "Biostrings",
     "BSgenome",
-    "Rhtslib",
     "S4Vectors",
     "XVector",
     "BiocIO",
@@ -23071,7 +22615,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -23093,7 +22636,6 @@
     "XVector",
     "phyloseq",
     "biomformat",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "rhdf5",
@@ -23120,7 +22662,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -23162,8 +22703,7 @@
     "SparseArray",
     "ProtGenerics",
     "UCSC.utils",
-    "rhdf5filters",
-    "Rhtslib"
+    "rhdf5filters"
   ],
   "proActiv": [
     "AnnotationDbi",
@@ -23186,8 +22726,7 @@
     "DelayedArray",
     "BiocIO",
     "biomaRt",
-    "SparseArray",
-    "Rhtslib"
+    "SparseArray"
   ],
   "proBAMr": [
     "IRanges",
@@ -23207,7 +22746,6 @@
     "UCSC.utils",
     "biomaRt",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -23252,7 +22790,6 @@
     "UCSC.utils",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "preprocessCore",
@@ -23312,7 +22849,6 @@
     "Biostrings",
     "BiocIO",
     "VariantAnnotation",
-    "Rhtslib",
     "BSgenome"
   ],
   "ptairMS": [
@@ -23442,7 +22978,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -23460,7 +22995,6 @@
     "XVector",
     "BiocIO",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "S4Arrays",
@@ -23547,8 +23081,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "r3Cseq": [
     "GenomicRanges",
@@ -23560,7 +23093,6 @@
     "S4Vectors",
     "XVector",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
@@ -23595,7 +23127,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -23612,7 +23143,6 @@
     "rtracklayer",
     "Rsamtools",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "S4Arrays",
@@ -23635,7 +23165,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -23706,7 +23235,6 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -23725,7 +23253,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "rtracklayer",
-    "Rhtslib",
     "XVector",
     "BiocIO",
     "UCSC.utils",
@@ -23755,7 +23282,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "SummarizedExperiment",
-    "Rhtslib",
     "KEGGREST",
     "UCSC.utils",
     "S4Arrays",
@@ -23818,7 +23344,6 @@
     "KEGGREST",
     "SparseArray",
     "VariantAnnotation",
-    "Rhtslib",
     "BSgenome"
   ],
   "recount3": [
@@ -23836,8 +23361,7 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "UCSC.utils",
-    "Rhtslib"
+    "UCSC.utils"
   ],
   "recountmethylation": [
     "minfi",
@@ -23868,8 +23392,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "recoup": [
     "GenomicRanges",
@@ -23888,7 +23411,6 @@
     "XVector",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "BiocIO",
     "KEGGREST",
     "S4Arrays",
@@ -23921,7 +23443,6 @@
     "SparseArray",
     "Biostrings",
     "VariantAnnotation",
-    "Rhtslib",
     "BiocIO",
     "BSgenome"
   ],
@@ -23955,7 +23476,6 @@
     "UCSC.utils",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -23975,7 +23495,6 @@
     "UCSC.utils",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -24020,7 +23539,6 @@
     "BiocIO",
     "ProtGenerics",
     "UCSC.utils",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -24038,8 +23556,7 @@
     "S4Vectors",
     "UCSC.utils",
     "XVector",
-    "Biostrings",
-    "Rhtslib"
+    "Biostrings"
   ],
   "rfaRm": [
     "Biostrings",
@@ -24071,8 +23588,7 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "rhdf5": [
     "rhdf5filters"
@@ -24104,8 +23620,7 @@
     "edgeR",
     "UCSC.utils",
     "XVector",
-    "Biostrings",
-    "Rhtslib"
+    "Biostrings"
   ],
   "ribor": [
     "rhdf5",
@@ -24136,7 +23651,6 @@
     "UCSC.utils",
     "SummarizedExperiment",
     "TFBSTools",
-    "Rhtslib",
     "edgeR",
     "pwalign",
     "S4Arrays",
@@ -24161,8 +23675,7 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "UCSC.utils",
-    "Rhtslib"
+    "UCSC.utils"
   ],
   "rifiComparative": [
     "S4Vectors",
@@ -24179,8 +23692,7 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "UCSC.utils",
-    "Rhtslib"
+    "UCSC.utils"
   ],
   "rmspc": [
     "rtracklayer",
@@ -24195,7 +23707,6 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -24217,7 +23728,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -24237,8 +23747,7 @@
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
-    "SparseArray",
-    "Rhtslib"
+    "SparseArray"
   ],
   "ropls": [
     "MultiAssayExperiment",
@@ -24303,7 +23812,6 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -24433,7 +23941,6 @@
     "ensembldb",
     "BSgenome",
     "biovizBase",
-    "Rhtslib",
     "BiocIO",
     "VariantAnnotation",
     "AnnotationFilter",
@@ -24608,7 +24115,6 @@
     "UCSC.utils",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "edgeR",
@@ -24697,7 +24203,6 @@
     "graph",
     "rhdf5",
     "rhdf5filters",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "scuttle",
@@ -24805,7 +24310,6 @@
     "GenomicAlignments",
     "IRanges",
     "MultiAssayExperiment",
-    "Rhtslib",
     "Rsamtools",
     "rtracklayer",
     "SummarizedExperiment",
@@ -24841,7 +24345,6 @@
     "XVector",
     "rhdf5filters",
     "Biostrings",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
@@ -24967,7 +24470,6 @@
     "RBGL",
     "txdbmaker",
     "KEGGREST",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "biomaRt"
@@ -25006,7 +24508,6 @@
     "pwalign",
     "biomaRt",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -25138,7 +24639,6 @@
     "UCSC.utils",
     "rhdf5filters",
     "KEGGREST",
-    "Rhtslib",
     "GenomicAlignments"
   ],
   "scone": [
@@ -25167,7 +24667,6 @@
     "XVector",
     "KEGGREST",
     "rtracklayer",
-    "Rhtslib",
     "GenomicAlignments",
     "pwalign",
     "BiocIO"
@@ -25188,7 +24687,6 @@
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "SparseArray",
@@ -25290,7 +24788,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationFilter",
-    "Rhtslib",
     "BiocIO",
     "pwalign",
     "DelayedArray",
@@ -25374,7 +24871,6 @@
     "UCSC.utils",
     "XVector",
     "Biostrings",
-    "Rhtslib",
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
@@ -25390,7 +24886,6 @@
     "S4Vectors",
     "bamsignals",
     "ComplexHeatmap",
-    "Rhtslib",
     "AnnotationDbi",
     "enrichplot",
     "GenomeInfoDb",
@@ -25427,7 +24922,6 @@
     "UCSC.utils",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -25478,7 +24972,6 @@
     "GOSemSim",
     "UCSC.utils",
     "KEGGREST",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "S4Arrays",
@@ -25504,7 +24997,6 @@
     "AnnotationDbi",
     "BSgenome",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "SparseArray"
   ],
@@ -25529,7 +25021,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -25567,7 +25058,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "BiocIO",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -25604,8 +25094,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "shinyepico": [
     "GenomicRanges",
@@ -25636,7 +25125,6 @@
     "UCSC.utils",
     "rhdf5",
     "rhdf5filters",
-    "Rhtslib",
     "KEGGREST"
   ],
   "sigFeature": [
@@ -25699,7 +25187,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "S4Arrays",
     "DelayedArray",
@@ -25819,7 +25306,6 @@
     "XVector",
     "UCSC.utils",
     "rhdf5filters",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO"
   ],
@@ -25856,7 +25342,6 @@
     "AnnotationDbi",
     "XVector",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "KEGGREST",
@@ -25906,8 +25391,7 @@
     "affy",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "slalom": [
     "GSEABase",
@@ -25995,7 +25479,6 @@
     "XVector",
     "ShortRead",
     "UCSC.utils",
-    "Rhtslib",
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
@@ -26116,7 +25599,6 @@
     "biomaRt",
     "ensembldb",
     "biovizBase",
-    "Rhtslib",
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics"
@@ -26170,7 +25652,6 @@
     "rtracklayer",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -26314,7 +25795,6 @@
     "XVector",
     "GenomeInfoDb",
     "GenomicRanges",
-    "Rhtslib",
     "UCSC.utils"
   ],
   "stJoincount": [
@@ -26367,7 +25847,6 @@
     "XVector",
     "KEGGREST",
     "rtracklayer",
-    "Rhtslib",
     "GenomicAlignments",
     "pwalign",
     "BiocIO"
@@ -26386,7 +25865,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "GenomicFeatures",
     "AnnotationDbi",
     "KEGGREST",
@@ -26503,7 +25981,6 @@
     "BiocIO",
     "SummarizedExperiment",
     "BSgenome",
-    "Rhtslib",
     "KEGGREST",
     "S4Arrays",
     "DelayedArray",
@@ -26528,7 +26005,6 @@
     "pwalign",
     "SummarizedExperiment",
     "BSgenome",
-    "Rhtslib",
     "KEGGREST",
     "S4Arrays",
     "DelayedArray",
@@ -26587,7 +26063,6 @@
     "BiocIO",
     "UCSC.utils",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -26602,7 +26077,6 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "Rhtslib",
     "GenomicAlignments",
     "pwalign",
     "S4Arrays",
@@ -26637,7 +26111,6 @@
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
-    "Rhtslib",
     "KEGGREST",
     "BiocIO",
     "UCSC.utils",
@@ -26683,7 +26156,6 @@
     "Rsamtools",
     "BiocIO",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "Modstrings",
     "SummarizedExperiment",
@@ -26731,7 +26203,6 @@
     "Biostrings",
     "biovizBase",
     "GenomicAlignments",
-    "Rhtslib",
     "SummarizedExperiment",
     "KEGGREST",
     "AnnotationFilter",
@@ -26791,8 +26262,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "tidyCoverage": [
     "SummarizedExperiment",
@@ -26809,8 +26279,7 @@
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
-    "SparseArray",
-    "Rhtslib"
+    "SparseArray"
   ],
   "tidyFlowCore": [
     "flowCore",
@@ -26890,7 +26359,6 @@
     "UCSC.utils",
     "Biostrings",
     "XVector",
-    "Rhtslib",
     "BiocIO",
     "DelayedArray",
     "S4Arrays",
@@ -27014,7 +26482,6 @@
     "BSgenome",
     "biovizBase",
     "rhdf5filters",
-    "Rhtslib",
     "BiocIO",
     "VariantAnnotation",
     "AnnotationFilter",
@@ -27031,7 +26498,6 @@
     "S4Vectors",
     "GenomeInfoDb",
     "Biostrings",
-    "Rhtslib",
     "UCSC.utils"
   ],
   "tradeSeq": [
@@ -27066,7 +26532,6 @@
     "Biostrings",
     "AnnotationDbi",
     "XVector",
-    "Rhtslib",
     "BiocIO",
     "KEGGREST",
     "pwalign",
@@ -27133,7 +26598,6 @@
     "AnnotationDbi",
     "S4Arrays",
     "DelayedArray",
-    "Rhtslib",
     "KEGGREST",
     "SparseArray",
     "GenomicAlignments"
@@ -27161,7 +26625,6 @@
     "rtracklayer",
     "Rsamtools",
     "UCSC.utils",
-    "Rhtslib",
     "GenomicAlignments",
     "SummarizedExperiment",
     "S4Arrays",
@@ -27279,7 +26742,6 @@
     "UCSC.utils",
     "biomaRt",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -27301,7 +26763,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -27330,7 +26791,6 @@
     "BiocIO",
     "biomaRt",
     "SparseArray",
-    "Rhtslib",
     "GenomicAlignments"
   ],
   "uSORT": [
@@ -27360,7 +26820,6 @@
     "graph",
     "RBGL",
     "txdbmaker",
-    "Rhtslib",
     "KEGGREST",
     "SummarizedExperiment",
     "VariantAnnotation",
@@ -27466,7 +26925,6 @@
     "SummarizedExperiment",
     "Rsamtools",
     "BSgenome",
-    "Rhtslib",
     "BiocIO",
     "GenomicAlignments",
     "S4Arrays",
@@ -27500,7 +26958,6 @@
     "ensembldb",
     "edgeR",
     "metapod",
-    "Rhtslib",
     "systemPipeR",
     "apeglm",
     "GreyListChIP",
@@ -27560,8 +27017,7 @@
     "rhdf5filters",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "wavClusteR": [
     "GenomicRanges",
@@ -27574,7 +27030,6 @@
     "XVector",
     "GenomeInfoDb",
     "AnnotationDbi",
-    "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
     "KEGGREST",
@@ -27625,7 +27080,6 @@
     "GenomicAlignments",
     "BiocIO",
     "SummarizedExperiment",
-    "Rhtslib",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -27753,8 +27207,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
-    "Rhtslib"
+    "BiocIO"
   ],
   "zFPKM": [
     "SummarizedExperiment",

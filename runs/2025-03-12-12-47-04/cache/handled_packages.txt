@@ -70,6 +70,7 @@ DNAcopy
 DTA
 DeMAND
 DeconRNASeq
+DeepPINCS
 DepInfeR
 DepecheR
 DiffLogo
@@ -151,6 +152,7 @@ OSAT
 OmicsMLRepoR
 Omixer
 OrderedList
+PCAN
 PLPE
 PROcess
 Path2PPI
@@ -177,6 +179,7 @@ ReactomeGSA
 RedeR
 RedisParam
 Rhdf5lib
+Rhtslib
 Rmagpie
 Rsubread
 SANTA
@@ -189,6 +192,7 @@ SMAD
 SNAGEE
 SNPediaR
 STRINGdb
+SUITOR
 SamSPECTRAL
 SpaceMarkers
 SpeCond
@@ -196,9 +200,11 @@ SwathXtend
 TSAR
 TargetScore
 TargetSearch
+TreeAndLeaf
 UNDO
 VennDetail
 Wrench
+XINA
 a4Classif
 a4Core
 a4Preproc
@@ -355,13 +361,16 @@ mgsa
 miRBaseConverter
 miRcomp
 mina
+minet
 mistyR
 mixOmics
 multiClust
 multiscan
 multtest
+netprioR
 nnNorm
 normalize450K
+occugene
 omada
 ompBAM
 onlineFDR
