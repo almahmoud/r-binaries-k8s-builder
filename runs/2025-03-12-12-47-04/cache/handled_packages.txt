@@ -90,6 +90,7 @@ ComPrAn
 ComplexHeatmap
 ConsensusClusterPlus
 Cormotif
+CytoDx
 CytoGLMM
 DART
 DCATS
@@ -188,6 +189,7 @@ ISAnalytics
 ISoLDE
 Icens
 Informeasure
+InteractiveComplexHeatmap
 IntramiRExploreR
 IsoCorrectoR
 IsoCorrectoRGUI
@@ -202,10 +204,12 @@ LedPred
 Linnorm
 M3C
 MACSQuantifyR
+MAPFX
 MBAmethyl
 MBCB
 MBttest
 MEIGOR
+MMUPHin
 MOGAMUN
 MPFE
 MSstats
@@ -255,6 +259,7 @@ OrderedList
 PANR
 PCAN
 PLPE
+PROPER
 PROcess
 Path2PPI
 PathNet
@@ -287,6 +292,7 @@ RNASeqPower
 RNAdecay
 RNAseqCovarImpute
 ROC
+ROSeq
 ROTS
 RProtoBufLib
 RRHO
@@ -319,6 +325,8 @@ Rnits
 Rsubread
 Rtpca
 Rtreemix
+Rvisdiff
+S4Arrays
 S4Vectors
 SANTA
 SBMLR
@@ -333,9 +341,12 @@ SNPRelate
 SNPediaR
 SPEM
 SRAdb
+STATegRa
 STRINGdb
 SUITOR
 SamSPECTRAL
+Sconify
+ScreenR
 SharedObject
 SpaceMarkers
 SpeCond
@@ -359,6 +370,7 @@ VERSO
 VennDetail
 Wrench
 XINA
+XVector
 a4Classif
 a4Core
 a4Preproc
@@ -421,6 +433,7 @@ clustComp
 clusterStab
 coGPS
 cogena
+cola
 compSPOT
 consensus
 convert
@@ -430,7 +443,9 @@ cqn
 ctc
 ctsGE
 cycle
+cytoMEM
 cytolib
+dStruct
 daMA
 dcGSA
 dcanr
@@ -441,6 +456,7 @@ decoupleR
 deltaGseg
 demuxmix
 densvis
+derfinderHelper
 diffGeneAnalysis
 diffuStats
 diggit
@@ -457,6 +473,7 @@ eds
 eiR
 epistasisGA
 epivizrServer
+erccdashboard
 fCI
 fabia
 factDesign
@@ -467,6 +484,10 @@ fedup
 fenr
 fgga
 fgsea
+flowAI
+flowBeads
+flowCHIC
+flowClean
 flowCore
 flowCyBar
 flowGraph
@@ -476,6 +497,8 @@ flowPeaks
 flowPloidy
 flowPlots
 flowSpecs
+flowTime
+flowViz
 flowcatchR
 fmcsR
 fmrs
@@ -531,6 +554,7 @@ ibh
 illuminaio
 immunotation
 impute
+infinityFlow
 interacCircos
 interactiveDisplayBase
 iterativeBMA
@@ -545,6 +569,7 @@ limma
 limmaGUI
 lmdme
 logicFS
+lpNet
 lpsymphony
 maCorrPlot
 maSigPro
@@ -570,6 +595,7 @@ metagenomeSeq
 metahdep
 metapod
 metapone
+methylMnM
 mfa
 mgsa
 miRBaseConverter
@@ -589,6 +615,7 @@ multiscan
 multtest
 mzID
 mzR
+ncdfFlow
 ndexr
 nethet
 netprioR
@@ -596,11 +623,13 @@ netresponse
 nnNorm
 normalize450K
 nuCpos
+nucleoSim
 occugene
 omada
 ompBAM
 onlineFDR
 oppti
+optimalFlow
 paircompviz
 pandaR
 panp
@@ -624,6 +653,7 @@ plier
 plotGrouper
 pmm
 powerTCR
+ppcseq
 preprocessCore
 profileScoreDist
 progeny
@@ -646,6 +676,7 @@ rawDiag
 rawrr
 rbsurv
 rcellminer
+rebook
 retrofit
 rexposome
 rgoslin
@@ -681,6 +712,7 @@ siggenes
 sights
 sigsquared
 similaRpeak
+simona
 sincell
 sitePath
 sizepower
@@ -707,7 +739,9 @@ synlet
 systemPipeShiny
 tanggle
 ternarynet
+tidyFlowCore
 tidysbml
+tidytof
 timeOmics
 timecourse
 timescape
@@ -718,6 +752,7 @@ treeio
 trio
 tripr
 ttgsea
+tweeDEseq
 twilight
 twoddpcr
 tximport

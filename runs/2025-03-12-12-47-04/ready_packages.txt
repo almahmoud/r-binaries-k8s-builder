@@ -1,0 +1,6 @@
+Biostrings
+GenomicRanges
+SIMD
+SparseArray
+flowDensity
+flowFP

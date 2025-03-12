@@ -777,3 +777,9 @@ simona
 MEIGOR
 DEGraph
 optimalFlow
+Biostrings
+GenomicRanges
+SIMD
+SparseArray
+flowDensity
+flowFP
