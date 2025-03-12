@@ -1,6 +1,0 @@
-biodbChebi
-biodbHmdb
-biodbNcbi
-biodbNci
-biodbUniprot
-qckitfastq

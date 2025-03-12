@@ -151,3 +151,12 @@ SMAD
 splots
 systemPipeShiny
 topconfects
+acde
+agilp
+ANCOMBC
+clustComp
+demuxmix
+geva
+MultiMed
+RProtoBufLib
+tripr

@@ -1,5 +1,6 @@
 ABSSeq
 AMOUNTAIN
+ANCOMBC
 ARRmNormalization
 ASAFE
 ASEB
@@ -61,11 +62,13 @@ MVCClass
 MeasurementError.cor
 Mergeomics
 ModCon
+MultiMed
 NTW
 OSAT
 Omixer
 REBET
 ROC
+RProtoBufLib
 RRHO
 RSeqAn
 RankProd
@@ -80,13 +83,17 @@ SwathXtend
 TSAR
 VennDetail
 a4Reporting
+acde
 affyio
+agilp
 alabaster.schemas
 antiProfiles
 basilisk.utils
 biodb
 bugsigdbr
+clustComp
 coGPS
+demuxmix
 diffGeneAnalysis
 diffuStats
 dir.expiry
@@ -102,6 +109,7 @@ gdsfmt
 gemini
 genoCN
 genomes
+geva
 globalSeq
 granulator
 gypsum
@@ -146,6 +154,7 @@ timescape
 tomoseqr
 topconfects
 treeio
+tripr
 ttgsea
 vbmp
 veloviz
