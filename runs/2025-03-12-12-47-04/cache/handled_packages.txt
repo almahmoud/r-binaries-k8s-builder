@@ -512,6 +512,7 @@ biomformat
 bluster
 brendaDb
 bugsigdbr
+cTRAP
 calm
 cancerclass
 cbpManager
@@ -909,7 +910,9 @@ stageR
 statTarget
 stepNorm
 struct
+structToolbox
 subSeq
+supersigs
 survcomp
 survtype
 swfdr

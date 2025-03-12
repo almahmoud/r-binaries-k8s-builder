@@ -941,3 +941,6 @@ smartid
 ExperimentHub
 ipdDb
 rGenomeTracks
+cTRAP
+structToolbox
+supersigs
