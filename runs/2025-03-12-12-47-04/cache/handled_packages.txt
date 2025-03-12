@@ -37,6 +37,7 @@ BioMVCClass
 Biobase
 BiocBaseUtils
 BiocBook
+BiocCheck
 BiocFHIR
 BiocFileCache
 BiocGenerics
@@ -78,6 +79,7 @@ Clomial
 ClusterJudge
 ClusterSignificance
 ComPrAn
+ComplexHeatmap
 ConsensusClusterPlus
 Cormotif
 CytoGLMM

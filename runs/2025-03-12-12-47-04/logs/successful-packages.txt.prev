@@ -698,3 +698,5 @@ DirichletMultinomial
 fgga
 Maaslin2
 Streamer
+BiocCheck
+ComplexHeatmap

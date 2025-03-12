@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 700 packages built successfully
+- 702 packages built successfully
 - 12 packages failed to build
-- 1521 packages not yet processed
+- 1519 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [graper](https://bioconductor.org/packages/3.20/bioc/html/graper.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/graper/build-fail.log)       | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/graper)    | Build failed with unknown error     |
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 
-## Successfully Built (700)
+## Successfully Built (702)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -727,8 +727,10 @@
 | [Streamer](https://bioconductor.org/packages/3.20/bioc/html/Streamer.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/Streamer/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Streamer)                |
 | [bluster](https://bioconductor.org/packages/3.20/bioc/html/bluster.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/bluster/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bluster)                 |
 | [fgga](https://bioconductor.org/packages/3.20/bioc/html/fgga.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/fgga/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fgga)                    |
+| [BiocCheck](https://bioconductor.org/packages/3.20/bioc/html/BiocCheck.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/BiocCheck/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BiocCheck)               |
+| [ComplexHeatmap](https://bioconductor.org/packages/3.20/bioc/html/ComplexHeatmap.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/ComplexHeatmap/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ComplexHeatmap)          |
 
-## Not Yet Processed (1521)
+## Not Yet Processed (1519)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -800,7 +802,6 @@
 | [BioNet](https://bioconductor.org/packages/3.20/bioc/html/BioNet.html)                                           | Unprocessed |
 | [BioQC](https://bioconductor.org/packages/3.20/bioc/html/BioQC.html)                                             | Unprocessed |
 | [BioTIP](https://bioconductor.org/packages/3.20/bioc/html/BioTIP.html)                                           | Unprocessed |
-| [BiocCheck](https://bioconductor.org/packages/3.20/bioc/html/BiocCheck.html)                                     | Unprocessed |
 | [BiocHubsShiny](https://bioconductor.org/packages/3.20/bioc/html/BiocHubsShiny.html)                             | Unprocessed |
 | [BiocPkgTools](https://bioconductor.org/packages/3.20/bioc/html/BiocPkgTools.html)                               | Unprocessed |
 | [BiocSet](https://bioconductor.org/packages/3.20/bioc/html/BiocSet.html)                                         | Unprocessed |
@@ -884,7 +885,6 @@
 | [CoGAPS](https://bioconductor.org/packages/3.20/bioc/html/CoGAPS.html)                                           | Unprocessed |
 | [CoSIA](https://bioconductor.org/packages/3.20/bioc/html/CoSIA.html)                                             | Unprocessed |
 | [Cogito](https://bioconductor.org/packages/3.20/bioc/html/Cogito.html)                                           | Unprocessed |
-| [ComplexHeatmap](https://bioconductor.org/packages/3.20/bioc/html/ComplexHeatmap.html)                           | Unprocessed |
 | [CompoundDb](https://bioconductor.org/packages/3.20/bioc/html/CompoundDb.html)                                   | Unprocessed |
 | [CopyNumberPlots](https://bioconductor.org/packages/3.20/bioc/html/CopyNumberPlots.html)                         | Unprocessed |
 | [CoreGx](https://bioconductor.org/packages/3.20/bioc/html/CoreGx.html)                                           | Unprocessed |

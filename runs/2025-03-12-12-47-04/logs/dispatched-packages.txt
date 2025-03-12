@@ -767,3 +767,10 @@ tidyFlowCore
 tidytof
 MMUPHin
 alabaster.bumpy
+CCPlotR
+ClustAll
+InteractiveComplexHeatmap
+MAPFX
+cola
+gDRstyle
+simona

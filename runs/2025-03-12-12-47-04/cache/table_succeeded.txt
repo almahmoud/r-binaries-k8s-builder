@@ -698,3 +698,5 @@
 ['[Streamer](https://bioconductor.org/packages/3.20/bioc/html/Streamer.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Streamer/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Streamer)']
 ['[bluster](https://bioconductor.org/packages/3.20/bioc/html/bluster.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/bluster/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bluster)']
 ['[fgga](https://bioconductor.org/packages/3.20/bioc/html/fgga.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/fgga/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fgga)']
+['[BiocCheck](https://bioconductor.org/packages/3.20/bioc/html/BiocCheck.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/BiocCheck/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BiocCheck)']
+['[ComplexHeatmap](https://bioconductor.org/packages/3.20/bioc/html/ComplexHeatmap.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ComplexHeatmap/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ComplexHeatmap)']
