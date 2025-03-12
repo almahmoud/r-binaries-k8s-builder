@@ -607,3 +607,4 @@ MSstats
 affy
 gcatest
 NormqPCR
+TMixClust

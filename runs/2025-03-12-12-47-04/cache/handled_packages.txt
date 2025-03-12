@@ -56,6 +56,7 @@ COSNet
 CausalR
 ChemmineOB
 ChemmineR
+Chicago
 Clomial
 ClusterJudge
 ClusterSignificance
@@ -82,6 +83,7 @@ DynDoc
 EBImage
 EBarrays
 EBcoexpress
+EMDomics
 EmpiricalBrownsMethod
 EnhancedVolcano
 FISHalyseR
@@ -107,6 +109,7 @@ GeneSelectMMD
 GeneticsPed
 GladiaTOX
 HELP
+HGC
 HPAanalyze
 HPiP
 Harman
@@ -128,10 +131,12 @@ LBE
 LPE
 LedPred
 Linnorm
+MBCB
 MBttest
 MSstatsConvert
 MVCClass
 MantelCorr
+MassArray
 MassSpecWavelet
 MatrixGenerics
 MeasurementError.cor
@@ -149,6 +154,7 @@ NTW
 NanoStringDiff
 NanoTube
 NetPathMiner
+NormqPCR
 NuPoP
 OLIN
 OLINgui
@@ -193,6 +199,7 @@ Rhdf5lib
 Rhtslib
 Rmagpie
 Rsubread
+Rtpca
 SANTA
 SBMLR
 SCBN
@@ -203,6 +210,7 @@ SMAD
 SNAGEE
 SNPRelate
 SNPediaR
+SPEM
 STRINGdb
 SUITOR
 SamSPECTRAL

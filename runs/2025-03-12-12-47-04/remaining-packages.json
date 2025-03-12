@@ -2505,7 +2505,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "Chicago": [],
   "ChromHeatMap": [
     "annotate",
     "AnnotationDbi",
@@ -3910,7 +3909,6 @@
     "AnnotationFilter",
     "ProtGenerics"
   ],
-  "EMDomics": [],
   "ENmix": [
     "SummarizedExperiment",
     "geneplotter",
@@ -5557,7 +5555,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "HGC": [],
   "HIBAG": [],
   "HIPPO": [
     "SingleCellExperiment",
@@ -6594,7 +6591,6 @@
     "UCSC.utils"
   ],
   "MBAmethyl": [],
-  "MBCB": [],
   "MBECS": [
     "phyloseq",
     "sva",
@@ -7293,7 +7289,6 @@
     "XVector",
     "Biostrings"
   ],
-  "MassArray": [],
   "MatrixQCvis": [
     "SummarizedExperiment",
     "ComplexHeatmap",
@@ -8265,7 +8260,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "NormqPCR": [],
   "OCplus": [],
   "OGRE": [
     "S4Vectors",
@@ -10403,7 +10397,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "Rtpca": [],
   "Rtreemix": [
     "graph"
   ],
@@ -10791,7 +10784,6 @@
     "SparseArray",
     "S4Arrays"
   ],
-  "SPEM": [],
   "SPIA": [
     "KEGGgraph",
     "graph",
@@ -11946,9 +11938,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "TMixClust": [
-    "SPEM"
-  ],
+  "TMixClust": [],
   "TOAST": [
     "EpiDISH",
     "SummarizedExperiment",
