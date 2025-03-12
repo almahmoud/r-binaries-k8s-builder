@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 694 packages built successfully
+- 700 packages built successfully
 - 12 packages failed to build
-- 1527 packages not yet processed
+- 1521 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [graper](https://bioconductor.org/packages/3.20/bioc/html/graper.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/graper/build-fail.log)       | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/graper)    | Build failed with unknown error     |
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 
-## Successfully Built (694)
+## Successfully Built (700)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -721,8 +721,14 @@
 | [rawDiag](https://bioconductor.org/packages/3.20/bioc/html/rawDiag.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/rawDiag/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rawDiag)                 |
 | [AWFisher](https://bioconductor.org/packages/3.20/bioc/html/AWFisher.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/AWFisher/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AWFisher)                |
 | [flowCore](https://bioconductor.org/packages/3.20/bioc/html/flowCore.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowCore/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowCore)                |
+| [BumpyMatrix](https://bioconductor.org/packages/3.20/bioc/html/BumpyMatrix.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/BumpyMatrix/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BumpyMatrix)             |
+| [DirichletMultinomial](https://bioconductor.org/packages/3.20/bioc/html/DirichletMultinomial.html)       | Built    | [Log](runs/2025-03-12-12-47-04/logs/DirichletMultinomial/build-success.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DirichletMultinomial)    |
+| [Maaslin2](https://bioconductor.org/packages/3.20/bioc/html/Maaslin2.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/Maaslin2/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Maaslin2)                |
+| [Streamer](https://bioconductor.org/packages/3.20/bioc/html/Streamer.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/Streamer/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Streamer)                |
+| [bluster](https://bioconductor.org/packages/3.20/bioc/html/bluster.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/bluster/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bluster)                 |
+| [fgga](https://bioconductor.org/packages/3.20/bioc/html/fgga.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/fgga/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fgga)                    |
 
-## Not Yet Processed (1527)
+## Not Yet Processed (1521)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -803,7 +809,6 @@
 | [Biostrings](https://bioconductor.org/packages/3.20/bioc/html/Biostrings.html)                                   | Unprocessed |
 | [BloodGen3Module](https://bioconductor.org/packages/3.20/bioc/html/BloodGen3Module.html)                         | Unprocessed |
 | [BubbleTree](https://bioconductor.org/packages/3.20/bioc/html/BubbleTree.html)                                   | Unprocessed |
-| [BumpyMatrix](https://bioconductor.org/packages/3.20/bioc/html/BumpyMatrix.html)                                 | Unprocessed |
 | [CAEN](https://bioconductor.org/packages/3.20/bioc/html/CAEN.html)                                               | Unprocessed |
 | [CAFE](https://bioconductor.org/packages/3.20/bioc/html/CAFE.html)                                               | Unprocessed |
 | [CAGEfightR](https://bioconductor.org/packages/3.20/bioc/html/CAGEfightR.html)                                   | Unprocessed |
@@ -930,7 +935,6 @@
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)                                       | Unprocessed |
 | [DifferentialRegulation](https://bioconductor.org/packages/3.20/bioc/html/DifferentialRegulation.html)           | Unprocessed |
 | [Dino](https://bioconductor.org/packages/3.20/bioc/html/Dino.html)                                               | Unprocessed |
-| [DirichletMultinomial](https://bioconductor.org/packages/3.20/bioc/html/DirichletMultinomial.html)               | Unprocessed |
 | [DiscoRhythm](https://bioconductor.org/packages/3.20/bioc/html/DiscoRhythm.html)                                 | Unprocessed |
 | [DominoEffect](https://bioconductor.org/packages/3.20/bioc/html/DominoEffect.html)                               | Unprocessed |
 | [DropletUtils](https://bioconductor.org/packages/3.20/bioc/html/DropletUtils.html)                               | Unprocessed |
@@ -1136,7 +1140,6 @@
 | [MSstatsQCgui](https://bioconductor.org/packages/3.20/bioc/html/MSstatsQCgui.html)                               | Unprocessed |
 | [MSstatsShiny](https://bioconductor.org/packages/3.20/bioc/html/MSstatsShiny.html)                               | Unprocessed |
 | [MWASTools](https://bioconductor.org/packages/3.20/bioc/html/MWASTools.html)                                     | Unprocessed |
-| [Maaslin2](https://bioconductor.org/packages/3.20/bioc/html/Maaslin2.html)                                       | Unprocessed |
 | [Macarron](https://bioconductor.org/packages/3.20/bioc/html/Macarron.html)                                       | Unprocessed |
 | [MatrixQCvis](https://bioconductor.org/packages/3.20/bioc/html/MatrixQCvis.html)                                 | Unprocessed |
 | [MatrixRider](https://bioconductor.org/packages/3.20/bioc/html/MatrixRider.html)                                 | Unprocessed |
@@ -1386,7 +1389,6 @@
 | [SpotSweeper](https://bioconductor.org/packages/3.20/bioc/html/SpotSweeper.html)                                 | Unprocessed |
 | [StabMap](https://bioconductor.org/packages/3.20/bioc/html/StabMap.html)                                         | Unprocessed |
 | [Statial](https://bioconductor.org/packages/3.20/bioc/html/Statial.html)                                         | Unprocessed |
-| [Streamer](https://bioconductor.org/packages/3.20/bioc/html/Streamer.html)                                       | Unprocessed |
 | [Structstrings](https://bioconductor.org/packages/3.20/bioc/html/Structstrings.html)                             | Unprocessed |
 | [StructuralVariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/StructuralVariantAnnotation.html) | Unprocessed |
 | [SubCellBarCode](https://bioconductor.org/packages/3.20/bioc/html/SubCellBarCode.html)                           | Unprocessed |
@@ -1522,7 +1524,6 @@
 | [biscuiteer](https://bioconductor.org/packages/3.20/bioc/html/biscuiteer.html)                                   | Unprocessed |
 | [blacksheepr](https://bioconductor.org/packages/3.20/bioc/html/blacksheepr.html)                                 | Unprocessed |
 | [blima](https://bioconductor.org/packages/3.20/bioc/html/blima.html)                                             | Unprocessed |
-| [bluster](https://bioconductor.org/packages/3.20/bioc/html/bluster.html)                                         | Unprocessed |
 | [bnbc](https://bioconductor.org/packages/3.20/bioc/html/bnbc.html)                                               | Unprocessed |
 | [bnem](https://bioconductor.org/packages/3.20/bioc/html/bnem.html)                                               | Unprocessed |
 | [borealis](https://bioconductor.org/packages/3.20/bioc/html/borealis.html)                                       | Unprocessed |
@@ -1689,7 +1690,6 @@
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)                                         | Unprocessed |
 | [fcScan](https://bioconductor.org/packages/3.20/bioc/html/fcScan.html)                                           | Unprocessed |
 | [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                               | Unprocessed |
-| [fgga](https://bioconductor.org/packages/3.20/bioc/html/fgga.html)                                               | Unprocessed |
 | [findIPs](https://bioconductor.org/packages/3.20/bioc/html/findIPs.html)                                         | Unprocessed |
 | [fishpond](https://bioconductor.org/packages/3.20/bioc/html/fishpond.html)                                       | Unprocessed |
 | [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                                           | Unprocessed |

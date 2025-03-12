@@ -50,6 +50,7 @@ BridgeDbR
 BrowserViz
 BufferedMatrix
 BufferedMatrixMethods
+BumpyMatrix
 CARNIVAL
 CFAssay
 CGEN
@@ -98,6 +99,7 @@ DepInfeR
 DepecheR
 DiffLogo
 Director
+DirichletMultinomial
 Doscheda
 DriverNet
 DynDoc
@@ -198,6 +200,7 @@ MSstatsConvert
 MSstatsLOBD
 MSstatsTMT
 MVCClass
+Maaslin2
 MantelCorr
 MassArray
 MassSpecWavelet
@@ -320,6 +323,7 @@ SamSPECTRAL
 SharedObject
 SpaceMarkers
 SpeCond
+Streamer
 Summix
 SwathXtend
 TMixClust
@@ -379,6 +383,7 @@ biodbNcbi
 biodbNci
 biodbUniprot
 biomformat
+bluster
 brendaDb
 bugsigdbr
 calm
@@ -443,6 +448,7 @@ fastreeR
 fdrame
 fedup
 fenr
+fgga
 fgsea
 flowCore
 flowCyBar
