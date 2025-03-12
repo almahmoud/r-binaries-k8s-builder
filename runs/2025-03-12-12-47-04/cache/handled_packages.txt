@@ -48,6 +48,7 @@ CFAssay
 CGEN
 CGHbase
 CGHregions
+CIMICE
 CMA
 CNAnorm
 COMPASS
@@ -79,6 +80,7 @@ DeepPINCS
 DepInfeR
 DepecheR
 DiffLogo
+Director
 DriverNet
 DynDoc
 EBImage
@@ -113,9 +115,13 @@ GeneOverlap
 GeneSelectMMD
 GeneticsPed
 GladiaTOX
+GraphAlignment
+HDTD
 HELP
 HEM
 HGC
+HIREewas
+HMMcopy
 HPAanalyze
 HPiP
 Harman
@@ -123,13 +129,16 @@ Heatplus
 Herper
 HilbertVis
 HilbertVisGUI
+HuBMAPR
 HubPub
 HybridMTest
 IHW
+IMPCdata
 INDEED
 INPower
 INTACT
 ISAnalytics
+ISoLDE
 Icens
 Informeasure
 IsoCorrectoR
@@ -186,6 +195,7 @@ PCAN
 PLPE
 PROcess
 Path2PPI
+PhenoGeneRanker
 PoDCall
 QuaternaryProd
 RAREsim
@@ -241,6 +251,7 @@ SamSPECTRAL
 SharedObject
 SpaceMarkers
 SpeCond
+Summix
 SwathXtend
 TMixClust
 TPP
@@ -379,6 +390,7 @@ globalSeq
 gpls
 granulator
 graper
+graph
 gypsum
 hapFabia
 hca
@@ -478,6 +490,7 @@ preprocessCore
 profileScoreDist
 projectR
 proteinProfiles
+pvac
 qckitfastq
 qpcrNorm
 quantsmooth
@@ -561,6 +574,7 @@ variancePartition
 vbmp
 veloviz
 viper
+vsn
 weaver
 widgetTools
 xmapbridge

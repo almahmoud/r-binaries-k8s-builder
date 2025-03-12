@@ -556,3 +556,17 @@ M3C
 MACSQuantifyR
 metahdep
 MPFE
+CIMICE
+Director
+graph
+GraphAlignment
+HDTD
+HIREewas
+HMMcopy
+HuBMAPR
+IMPCdata
+ISoLDE
+PhenoGeneRanker
+pvac
+Summix
+vsn
