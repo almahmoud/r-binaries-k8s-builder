@@ -688,3 +688,7 @@ wppi
 RcwlPipelines
 Cardinal
 ReUseData
+MetaboCoreUtils
+SIMAT
+TargetDecoy
+msPurity

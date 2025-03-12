@@ -647,3 +647,12 @@ TurboNorm
 alabaster.base
 fobitools
 ReUseData
+chopsticks
+DFplyr
+ExploreModelMatrix
+makecdfenv
+metapod
+MsCoreUtils
+mzR
+Pedixplorer
+RBioFormats

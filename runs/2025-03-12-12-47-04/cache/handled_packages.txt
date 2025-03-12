@@ -81,6 +81,7 @@ DEGseq
 DEqMS
 DEsingle
 DFP
+DFplyr
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
@@ -105,6 +106,7 @@ EnMCB
 EnhancedVolcano
 EpiDISH
 ExiMiR
+ExploreModelMatrix
 FGNet
 FISHalyseR
 FRGEpistasis
@@ -199,6 +201,7 @@ Mfuzz
 MiChip
 MiPP
 ModCon
+MsCoreUtils
 Mulcom
 MultiMed
 NOISeq
@@ -225,6 +228,7 @@ PLPE
 PROcess
 Path2PPI
 PathNet
+Pedixplorer
 PepsNMR
 PhenStat
 PhenoGeneRanker
@@ -234,6 +238,7 @@ QUBIC
 QuaternaryProd
 RAREsim
 RBM
+RBioFormats
 RCASPAR
 RCX
 RCyjs
@@ -364,6 +369,7 @@ ceRNAnetsim
 cellmigRation
 cellscape
 cellxgenedp
+chopsticks
 cisPath
 clevRvis
 clippda
@@ -490,6 +496,7 @@ maCorrPlot
 maSigPro
 maftools
 magrene
+makecdfenv
 mapscape
 marray
 martini
@@ -507,6 +514,7 @@ metabinR
 metabomxtr
 metagenomeSeq
 metahdep
+metapod
 metapone
 mfa
 mgsa
@@ -523,6 +531,7 @@ multiClust
 multiscan
 multtest
 mzID
+mzR
 ndexr
 nethet
 netprioR

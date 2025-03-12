@@ -500,7 +500,6 @@
     "DelayedArray",
     "BiocSingular",
     "bluster",
-    "metapod",
     "beachmat",
     "GenomicRanges",
     "SparseArray",
@@ -525,7 +524,6 @@
     "S4Arrays",
     "BiocSingular",
     "bluster",
-    "metapod",
     "GenomicRanges",
     "IRanges",
     "GenomeInfoDb",
@@ -820,7 +818,6 @@
     "DelayedArray",
     "BiocSingular",
     "bluster",
-    "metapod",
     "beachmat",
     "GenomeInfoDb",
     "genefilter",
@@ -846,7 +843,6 @@
     "edgeR",
     "S4Arrays",
     "bluster",
-    "metapod",
     "GenomicRanges",
     "IRanges",
     "GenomeInfoDb",
@@ -1021,7 +1017,6 @@
     "DelayedArray",
     "BiocSingular",
     "bluster",
-    "metapod",
     "beachmat",
     "SparseArray",
     "ScaledMatrix"
@@ -1215,10 +1210,8 @@
     "xcms",
     "RBGL",
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
-    "MsCoreUtils",
     "MsFeatures",
     "MsExperiment",
     "Spectra",
@@ -2111,8 +2104,7 @@
     "XVector",
     "Biostrings",
     "GenomicAlignments",
-    "bluster",
-    "metapod"
+    "bluster"
   ],
   "CircSeqAlignTk": [
     "Biostrings",
@@ -2148,7 +2140,6 @@
     "DelayedArray",
     "BiocSingular",
     "bluster",
-    "metapod",
     "beachmat",
     "GenomicRanges",
     "IRanges",
@@ -2200,9 +2191,7 @@
     "annotate"
   ],
   "CluMSID": [
-    "mzR",
     "MSnbase",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "QFeatures",
@@ -2292,7 +2281,6 @@
     "AnnotationFilter",
     "IRanges",
     "Spectra",
-    "MsCoreUtils",
     "MetaboCoreUtils",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -2469,8 +2457,6 @@
   ],
   "DAPAR": [
     "MSnbase",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "QFeatures",
@@ -2538,8 +2524,6 @@
     "MSnbase",
     "ComplexHeatmap",
     "IRanges",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -2663,7 +2647,6 @@
     "XVector",
     "Biostrings"
   ],
-  "DFplyr": [],
   "DMCFB": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -3020,7 +3003,6 @@
     "edgeR",
     "S4Arrays",
     "bluster",
-    "metapod",
     "GenomicRanges",
     "IRanges",
     "GenomeInfoDb",
@@ -3519,7 +3501,6 @@
     "XVector",
     "SparseArray"
   ],
-  "ExploreModelMatrix": [],
   "ExpressionAtlas": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -3588,7 +3569,6 @@
     "BiocSingular",
     "S4Arrays",
     "bluster",
-    "metapod",
     "biomaRt",
     "KEGGREST",
     "ScaledMatrix",
@@ -4647,7 +4627,6 @@
   ],
   "Harshlight": [
     "altcdfenvs",
-    "makecdfenv",
     "Biostrings",
     "IRanges",
     "XVector",
@@ -4927,10 +4906,8 @@
     "CAMERA",
     "RBGL",
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
-    "MsCoreUtils",
     "MsFeatures",
     "MsExperiment",
     "Spectra",
@@ -5200,10 +5177,8 @@
     "CAMERA",
     "RBGL",
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
-    "MsCoreUtils",
     "MsFeatures",
     "MsExperiment",
     "Spectra",
@@ -5393,10 +5368,8 @@
     "xcms",
     "RBGL",
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
-    "MsCoreUtils",
     "MsFeatures",
     "MsExperiment",
     "Spectra",
@@ -5810,7 +5783,6 @@
     "DelayedArray",
     "BiocSingular",
     "bluster",
-    "metapod",
     "beachmat",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -5834,7 +5806,6 @@
     "scuttle",
     "edgeR",
     "S4Arrays",
-    "metapod",
     "GenomicRanges",
     "GenomeInfoDb",
     "SparseArray",
@@ -5877,7 +5848,6 @@
   ],
   "MSnID": [
     "MSnbase",
-    "mzR",
     "msmsTests",
     "Biostrings",
     "AnnotationHub",
@@ -5888,7 +5858,6 @@
     "GenomeInfoDb",
     "msmsEDA",
     "edgeR",
-    "MsCoreUtils",
     "PSMatch",
     "QFeatures",
     "MultiAssayExperiment",
@@ -5900,8 +5869,6 @@
     "SparseArray"
   ],
   "MSnbase": [
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "QFeatures",
@@ -5931,8 +5898,6 @@
   "MSstatsQC": [
     "MSnbase",
     "qcmetrics",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "QFeatures",
@@ -5950,8 +5915,6 @@
     "MSstatsQC",
     "MSnbase",
     "qcmetrics",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "QFeatures",
@@ -6074,7 +6037,6 @@
   ],
   "MetCirc": [
     "Spectra",
-    "MsCoreUtils",
     "IRanges",
     "MetaboCoreUtils"
   ],
@@ -6128,7 +6090,6 @@
     "GenomeInfoDb"
   ],
   "MetaboAnnotation": [
-    "MsCoreUtils",
     "MetaboCoreUtils",
     "Spectra",
     "SummarizedExperiment",
@@ -6148,9 +6109,7 @@
     "XVector",
     "Biostrings"
   ],
-  "MetaboCoreUtils": [
-    "MsCoreUtils"
-  ],
+  "MetaboCoreUtils": [],
   "MetaboSignal": [
     "KEGGgraph",
     "hpar",
@@ -6446,41 +6405,34 @@
   "MsBackendMassbank": [
     "Spectra",
     "IRanges",
-    "MsCoreUtils",
     "MetaboCoreUtils"
   ],
   "MsBackendMetaboLights": [
     "Spectra",
     "IRanges",
-    "MsCoreUtils",
     "MetaboCoreUtils"
   ],
   "MsBackendMgf": [
     "Spectra",
     "IRanges",
-    "MsCoreUtils",
     "MetaboCoreUtils"
   ],
   "MsBackendMsp": [
     "Spectra",
     "IRanges",
-    "MsCoreUtils",
     "MetaboCoreUtils"
   ],
   "MsBackendRawFileReader": [
     "Spectra",
-    "MsCoreUtils",
     "IRanges",
     "rawrr",
     "MetaboCoreUtils"
   ],
   "MsBackendSql": [
     "Spectra",
-    "MsCoreUtils",
     "IRanges",
     "MetaboCoreUtils"
   ],
-  "MsCoreUtils": [],
   "MsDataHub": [
     "ExperimentHub",
     "AnnotationHub",
@@ -6498,7 +6450,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "AnnotationFilter",
-    "MsCoreUtils",
     "MetaboCoreUtils",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -6508,7 +6459,6 @@
     "XVector"
   ],
   "MsFeatures": [
-    "MsCoreUtils",
     "SummarizedExperiment",
     "GenomicRanges",
     "IRanges",
@@ -6524,7 +6474,6 @@
     "IRanges",
     "SummarizedExperiment",
     "QFeatures",
-    "MsCoreUtils",
     "MetaboCoreUtils",
     "MultiAssayExperiment",
     "AnnotationFilter",
@@ -6658,7 +6607,6 @@
     "GenomicScores",
     "motifStack",
     "edgeR",
-    "metapod",
     "XVector",
     "S4Arrays",
     "DelayedArray",
@@ -7223,8 +7171,6 @@
     "MSnbase",
     "POMA",
     "IRanges",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "DESeq2",
     "sva",
@@ -7260,7 +7206,6 @@
   ],
   "PSMatch": [
     "QFeatures",
-    "MsCoreUtils",
     "MultiAssayExperiment",
     "IRanges",
     "SummarizedExperiment",
@@ -7320,7 +7265,6 @@
     "SparseArray",
     "XVector"
   ],
-  "Pedixplorer": [],
   "PepSetTest": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -7412,8 +7356,6 @@
   ],
   "PrInCE": [
     "MSnbase",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "QFeatures",
@@ -7430,8 +7372,6 @@
   "Prostar": [
     "DAPAR",
     "MSnbase",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "QFeatures",
@@ -7530,7 +7470,6 @@
     "IRanges",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MsCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -7665,7 +7604,6 @@
     "SparseArray"
   ],
   "RBGL": [],
-  "RBioFormats": [],
   "RBioinf": [],
   "RCAS": [
     "GenomicRanges",
@@ -7823,8 +7761,6 @@
   ],
   "RMassBank": [
     "MSnbase",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "QFeatures",
@@ -8253,8 +8189,7 @@
     "ScaledMatrix",
     "XVector",
     "edgeR",
-    "bluster",
-    "metapod"
+    "bluster"
   ],
   "RepViz": [
     "GenomicRanges",
@@ -8800,9 +8735,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "SIMAT": [
-    "mzR"
-  ],
+  "SIMAT": [],
   "SIMD": [
     "edgeR",
     "methylMnM"
@@ -9187,7 +9120,6 @@
     "DelayedArray",
     "BiocSingular",
     "bluster",
-    "metapod",
     "beachmat",
     "SparseArray",
     "ScaledMatrix",
@@ -9274,7 +9206,6 @@
     "DelayedArray",
     "BiocSingular",
     "bluster",
-    "metapod",
     "beachmat",
     "GenomicRanges",
     "IRanges",
@@ -9301,7 +9232,6 @@
     "BiocSingular",
     "S4Arrays",
     "bluster",
-    "metapod",
     "GenomeInfoDb",
     "ScaledMatrix",
     "XVector"
@@ -9375,7 +9305,6 @@
   ],
   "SpatialOmicsOverlay": [
     "GeomxTools",
-    "RBioFormats",
     "NanoStringNCTools",
     "Biostrings",
     "IRanges",
@@ -9384,12 +9313,10 @@
   ],
   "Spectra": [
     "IRanges",
-    "MsCoreUtils",
     "MetaboCoreUtils"
   ],
   "SpectraQL": [
     "Spectra",
-    "MsCoreUtils",
     "IRanges",
     "MetaboCoreUtils"
   ],
@@ -9940,9 +9867,7 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "TargetDecoy": [
-    "mzR"
-  ],
+  "TargetDecoy": [],
   "TileDBArray": [
     "SparseArray",
     "DelayedArray",
@@ -10503,7 +10428,6 @@
   "adductomicsR": [
     "ExperimentHub",
     "AnnotationHub",
-    "mzR",
     "AnnotationDbi",
     "IRanges",
     "KEGGREST",
@@ -10763,7 +10687,6 @@
     "GenomicAlignments"
   ],
   "altcdfenvs": [
-    "makecdfenv",
     "Biostrings",
     "IRanges",
     "XVector",
@@ -11076,8 +10999,6 @@
   "bandle": [
     "MSnbase",
     "pRoloc",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "MLInterfaces",
@@ -11834,7 +11755,6 @@
     "BiocSingular",
     "edgeR",
     "bluster",
-    "metapod",
     "GenomicRanges",
     "GenomeInfoDb",
     "ScaledMatrix",
@@ -11983,7 +11903,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "chopsticks": [],
   "chromDraw": [
     "GenomicRanges",
     "IRanges",
@@ -12147,8 +12066,6 @@
   "cliqueMS": [
     "xcms",
     "MSnbase",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "SummarizedExperiment",
@@ -12506,10 +12423,8 @@
   "cosmiq": [
     "xcms",
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
-    "MsCoreUtils",
     "MsFeatures",
     "MsExperiment",
     "Spectra",
@@ -12771,7 +12686,6 @@
     "edgeR",
     "IRanges",
     "GenomeInfoDb",
-    "metapod",
     "XVector",
     "Biostrings",
     "S4Arrays",
@@ -13096,8 +13010,7 @@
     "ScaledMatrix",
     "XVector",
     "edgeR",
-    "bluster",
-    "metapod"
+    "bluster"
   ],
   "deconvR": [
     "methylKit",
@@ -13257,7 +13170,6 @@
     "GenomeInfoDb",
     "rtracklayer",
     "XVector",
-    "metapod",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -13688,7 +13600,6 @@
     "csaw",
     "GreyListChIP",
     "edgeR",
-    "metapod",
     "XVector",
     "GenomicAlignments",
     "BSgenome",
@@ -13763,7 +13674,6 @@
     "edgeR",
     "S4Arrays",
     "BiocSingular",
-    "metapod",
     "KEGGREST",
     "ScaledMatrix",
     "rtracklayer",
@@ -13793,7 +13703,6 @@
     "edgeR",
     "S4Arrays",
     "bluster",
-    "metapod",
     "GenomicRanges",
     "GenomeInfoDb",
     "KEGGREST",
@@ -14045,7 +13954,6 @@
     "IRanges",
     "Rsamtools",
     "rtracklayer",
-    "metapod",
     "Biostrings",
     "Gviz",
     "XVector",
@@ -14202,10 +14110,8 @@
     "CAMERA",
     "RBGL",
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
-    "MsCoreUtils",
     "MsFeatures",
     "MsExperiment",
     "Spectra",
@@ -15048,7 +14954,6 @@
   "hdxmsqc": [
     "QFeatures",
     "Spectra",
-    "MsCoreUtils",
     "MultiAssayExperiment",
     "IRanges",
     "SummarizedExperiment",
@@ -15429,7 +15334,6 @@
     "DESeq2",
     "XVector",
     "GenomeInfoDb",
-    "metapod",
     "AnnotationDbi",
     "pwalign",
     "S4Arrays",
@@ -15901,7 +15805,6 @@
     "DelayedArray",
     "BiocSingular",
     "bluster",
-    "metapod",
     "beachmat",
     "GenomicRanges",
     "IRanges",
@@ -16006,7 +15909,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "makecdfenv": [],
   "mariner": [
     "GenomicRanges",
     "InteractionSet",
@@ -16143,10 +16045,8 @@
     "xcms",
     "RBGL",
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
-    "MsCoreUtils",
     "MsFeatures",
     "MsExperiment",
     "Spectra",
@@ -16188,7 +16088,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "metapod": [],
   "metaseqR2": [
     "DESeq2",
     "biomaRt",
@@ -17079,7 +16978,6 @@
     "DelayedArray",
     "BiocSingular",
     "bluster",
-    "metapod",
     "beachmat",
     "SparseArray",
     "ScaledMatrix",
@@ -17088,9 +16986,7 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "msPurity": [
-    "mzR"
-  ],
+  "msPurity": [],
   "msa": [
     "Biostrings",
     "IRanges",
@@ -17139,8 +17035,6 @@
   ],
   "msmsEDA": [
     "MSnbase",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "QFeatures",
@@ -17158,8 +17052,6 @@
     "MSnbase",
     "msmsEDA",
     "edgeR",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "QFeatures",
@@ -17181,7 +17073,6 @@
     "GenomicRanges",
     "IRanges",
     "AnnotationFilter",
-    "MsCoreUtils",
     "GenomeInfoDb",
     "S4Arrays",
     "SparseArray",
@@ -17280,7 +17171,6 @@
     "ScaledMatrix",
     "beachmat",
     "scuttle",
-    "metapod",
     "scran",
     "batchelor",
     "SparseArray",
@@ -17376,14 +17266,11 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "mzR": [],
   "ncGTW": [
     "xcms",
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
-    "MsCoreUtils",
     "MsFeatures",
     "MsExperiment",
     "Spectra",
@@ -17666,8 +17553,6 @@
     "PSMatch",
     "SummarizedExperiment",
     "MultiAssayExperiment",
-    "mzR",
-    "MsCoreUtils",
     "IRanges",
     "DelayedArray",
     "GenomicRanges",
@@ -17863,8 +17748,6 @@
     "annotate",
     "genefilter",
     "SummarizedExperiment",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "KEGGREST",
@@ -17882,8 +17765,6 @@
   "pRolocGUI": [
     "pRoloc",
     "MSnbase",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "MLInterfaces",
@@ -18090,8 +17971,6 @@
   ],
   "peakPantheR": [
     "MSnbase",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "QFeatures",
@@ -18237,7 +18116,6 @@
     "edgeR",
     "S4Arrays",
     "bluster",
-    "metapod",
     "GenomicRanges",
     "GenomeInfoDb",
     "ScaledMatrix",
@@ -18577,8 +18455,6 @@
   ],
   "ptairMS": [
     "MSnbase",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "IRanges",
     "QFeatures",
@@ -18619,8 +18495,6 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "QFeatures",
     "MultiAssayExperiment",
@@ -18634,7 +18508,6 @@
   "qcmetrics": [],
   "qmtools": [
     "SummarizedExperiment",
-    "MsCoreUtils",
     "GenomicRanges",
     "IRanges",
     "GenomeInfoDb",
@@ -19539,7 +19412,6 @@
     "DelayedArray",
     "BiocSingular",
     "bluster",
-    "metapod",
     "beachmat",
     "GenomicRanges",
     "IRanges",
@@ -19594,8 +19466,7 @@
     "XVector",
     "Biostrings",
     "GenomicAlignments",
-    "edgeR",
-    "metapod"
+    "edgeR"
   ],
   "scDesign3": [
     "SummarizedExperiment",
@@ -19669,8 +19540,7 @@
     "annotate",
     "GenomicAlignments",
     "scuttle",
-    "bluster",
-    "metapod"
+    "bluster"
   ],
   "scGPS": [
     "SummarizedExperiment",
@@ -19725,7 +19595,6 @@
     "S4Arrays",
     "edgeR",
     "bluster",
-    "metapod",
     "GenomicRanges",
     "GenomeInfoDb",
     "XVector"
@@ -19883,7 +19752,6 @@
     "edgeR",
     "S4Arrays",
     "bluster",
-    "metapod",
     "ScaledMatrix",
     "AnnotationDbi",
     "AnnotationFilter",
@@ -20090,8 +19958,6 @@
   ],
   "scp": [
     "QFeatures",
-    "metapod",
-    "MsCoreUtils",
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -20113,7 +19979,6 @@
     "DelayedArray",
     "BiocSingular",
     "bluster",
-    "metapod",
     "beachmat",
     "SparseArray",
     "ScaledMatrix",
@@ -20587,7 +20452,6 @@
     "SpatialExperiment",
     "bluster",
     "M3Drop",
-    "metapod",
     "alabaster.sce",
     "genefilter",
     "alabaster.ranges",
@@ -20966,8 +20830,6 @@
     "Spectra",
     "SummarizedExperiment",
     "QFeatures",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "MsFeatures",
     "MetaboCoreUtils",
@@ -21202,8 +21064,6 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "mzR",
-    "MsCoreUtils",
     "PSMatch",
     "QFeatures",
     "MultiAssayExperiment",
@@ -21521,11 +21381,9 @@
     "Biostrings",
     "MSnbase",
     "PSMatch",
-    "mzR",
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "MsCoreUtils",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -21958,7 +21816,6 @@
     "universalmotif",
     "ensembldb",
     "edgeR",
-    "metapod",
     "systemPipeR",
     "apeglm",
     "GreyListChIP",
@@ -22071,10 +21928,8 @@
   ],
   "xcms": [
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
-    "MsCoreUtils",
     "MsFeatures",
     "MsExperiment",
     "Spectra",
@@ -22119,7 +21974,6 @@
   "yamss": [
     "SummarizedExperiment",
     "IRanges",
-    "mzR",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
