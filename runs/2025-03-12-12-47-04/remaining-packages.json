@@ -6669,7 +6669,6 @@
     "SummarizedExperiment",
     "GenomicFeatures"
   ],
-  "kebabs": [],
   "keggorthology": [],
   "kissDE": [
     "DESeq2",
@@ -7521,8 +7520,7 @@
     "GenomicAlignments"
   ],
   "odseq": [
-    "msa",
-    "kebabs"
+    "msa"
   ],
   "oligo": [
     "oligoClasses",
@@ -7871,9 +7869,7 @@
   "proDA": [
     "SummarizedExperiment"
   ],
-  "procoil": [
-    "kebabs"
-  ],
+  "procoil": [],
   "profileplyr": [
     "SummarizedExperiment",
     "soGGi",

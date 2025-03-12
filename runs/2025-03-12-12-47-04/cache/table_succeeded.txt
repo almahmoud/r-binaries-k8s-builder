@@ -865,3 +865,4 @@
 ['[gcrma](https://bioconductor.org/packages/3.20/bioc/html/gcrma.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/gcrma/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gcrma)']
 ['[pepStat](https://bioconductor.org/packages/3.20/bioc/html/pepStat.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/pepStat/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pepStat)']
 ['[pqsfinder](https://bioconductor.org/packages/3.20/bioc/html/pqsfinder.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/pqsfinder/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pqsfinder)']
+['[kebabs](https://bioconductor.org/packages/3.20/bioc/html/kebabs.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/kebabs/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/kebabs)']

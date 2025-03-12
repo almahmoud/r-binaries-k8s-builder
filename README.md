@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 867 packages built successfully
+- 868 packages built successfully
 - 14 packages failed to build
-- 1352 packages not yet processed
+- 1351 packages not yet processed
 
 ## Failed Builds (14)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -26,7 +26,7 @@
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 | [immunoClust](https://bioconductor.org/packages/3.20/bioc/html/immunoClust.html)   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/immunoClust/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunoClust)  | Build failed with unknown error     |
 
-## Successfully Built (867)
+## Successfully Built (868)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -896,8 +896,9 @@
 | [gcrma](https://bioconductor.org/packages/3.20/bioc/html/gcrma.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/gcrma/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gcrma)                     |
 | [pepStat](https://bioconductor.org/packages/3.20/bioc/html/pepStat.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/pepStat/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pepStat)                   |
 | [pqsfinder](https://bioconductor.org/packages/3.20/bioc/html/pqsfinder.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/pqsfinder/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pqsfinder)                 |
+| [kebabs](https://bioconductor.org/packages/3.20/bioc/html/kebabs.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/kebabs/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/kebabs)                    |
 
-## Not Yet Processed (1352)
+## Not Yet Processed (1351)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1857,7 +1858,6 @@
 | [ivygapSE](https://bioconductor.org/packages/3.20/bioc/html/ivygapSE.html)                                       | Unprocessed |
 | [karyoploteR](https://bioconductor.org/packages/3.20/bioc/html/karyoploteR.html)                                 | Unprocessed |
 | [katdetectr](https://bioconductor.org/packages/3.20/bioc/html/katdetectr.html)                                   | Unprocessed |
-| [kebabs](https://bioconductor.org/packages/3.20/bioc/html/kebabs.html)                                           | Unprocessed |
 | [keggorthology](https://bioconductor.org/packages/3.20/bioc/html/keggorthology.html)                             | Unprocessed |
 | [kissDE](https://bioconductor.org/packages/3.20/bioc/html/kissDE.html)                                           | Unprocessed |
 | [kmcut](https://bioconductor.org/packages/3.20/bioc/html/kmcut.html)                                             | Unprocessed |

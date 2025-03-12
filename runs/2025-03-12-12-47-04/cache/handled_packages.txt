@@ -638,6 +638,7 @@ interacCircos
 interactiveDisplayBase
 iterativeBMA
 iterativeBMAsurv
+kebabs
 koinar
 lapmix
 ldblock
