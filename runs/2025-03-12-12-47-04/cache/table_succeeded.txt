@@ -1105,3 +1105,5 @@
 ['[motifTestR](https://bioconductor.org/packages/3.20/bioc/html/motifTestR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/motifTestR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifTestR)']
 ['[LACE](https://bioconductor.org/packages/3.20/bioc/html/LACE.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/LACE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/LACE)']
 ['[VegaMC](https://bioconductor.org/packages/3.20/bioc/html/VegaMC.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/VegaMC/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VegaMC)']
+['[MetNet](https://bioconductor.org/packages/3.20/bioc/html/MetNet.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MetNet/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MetNet)']
+['[VariantExperiment](https://bioconductor.org/packages/3.20/bioc/html/VariantExperiment.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/VariantExperiment/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VariantExperiment)']

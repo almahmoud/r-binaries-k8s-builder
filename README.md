@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1107 packages built successfully
+- 1109 packages built successfully
 - 18 packages failed to build
-- 1108 packages not yet processed
+- 1106 packages not yet processed
 
 ## Failed Builds (18)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -30,7 +30,7 @@
 | [GeneGeneInteR](https://bioconductor.org/packages/3.20/bioc/html/GeneGeneInteR.html) | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GeneGeneInteR/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneGeneInteR) | Build failed with unknown error     |
 | [microRNA](https://bioconductor.org/packages/3.20/bioc/html/microRNA.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/microRNA/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/microRNA)      | Build failed with unknown error     |
 
-## Successfully Built (1107)
+## Successfully Built (1109)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1140,8 +1140,10 @@
 | [motifTestR](https://bioconductor.org/packages/3.20/bioc/html/motifTestR.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/motifTestR/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifTestR)                |
 | [LACE](https://bioconductor.org/packages/3.20/bioc/html/LACE.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/LACE/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/LACE)                      |
 | [VegaMC](https://bioconductor.org/packages/3.20/bioc/html/VegaMC.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/VegaMC/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VegaMC)                    |
+| [MetNet](https://bioconductor.org/packages/3.20/bioc/html/MetNet.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/MetNet/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MetNet)                    |
+| [VariantExperiment](https://bioconductor.org/packages/3.20/bioc/html/VariantExperiment.html)                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/VariantExperiment/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VariantExperiment)         |
 
-## Not Yet Processed (1108)
+## Not Yet Processed (1106)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1440,7 +1442,6 @@
 | [MatrixQCvis](https://bioconductor.org/packages/3.20/bioc/html/MatrixQCvis.html)                                 | Unprocessed |
 | [MatrixRider](https://bioconductor.org/packages/3.20/bioc/html/MatrixRider.html)                                 | Unprocessed |
 | [Melissa](https://bioconductor.org/packages/3.20/bioc/html/Melissa.html)                                         | Unprocessed |
-| [MetNet](https://bioconductor.org/packages/3.20/bioc/html/MetNet.html)                                           | Unprocessed |
 | [MetaNeighbor](https://bioconductor.org/packages/3.20/bioc/html/MetaNeighbor.html)                               | Unprocessed |
 | [MetaPhOR](https://bioconductor.org/packages/3.20/bioc/html/MetaPhOR.html)                                       | Unprocessed |
 | [MetaboAnnotation](https://bioconductor.org/packages/3.20/bioc/html/MetaboAnnotation.html)                       | Unprocessed |
@@ -1657,7 +1658,6 @@
 | [VanillaICE](https://bioconductor.org/packages/3.20/bioc/html/VanillaICE.html)                                   | Unprocessed |
 | [VarCon](https://bioconductor.org/packages/3.20/bioc/html/VarCon.html)                                           | Unprocessed |
 | [VariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/VariantAnnotation.html)                     | Unprocessed |
-| [VariantExperiment](https://bioconductor.org/packages/3.20/bioc/html/VariantExperiment.html)                     | Unprocessed |
 | [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)                       | Unprocessed |
 | [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                               | Unprocessed |
 | [VisiumIO](https://bioconductor.org/packages/3.20/bioc/html/VisiumIO.html)                                       | Unprocessed |

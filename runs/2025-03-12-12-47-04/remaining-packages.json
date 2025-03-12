@@ -1531,7 +1531,6 @@
     "rtracklayer"
   ],
   "Melissa": [],
-  "MetNet": [],
   "MetaNeighbor": [
     "SingleCellExperiment"
   ],
@@ -2561,7 +2560,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "VariantExperiment": [],
   "VariantFiltering": [
     "VariantAnnotation",
     "GenomicFeatures",

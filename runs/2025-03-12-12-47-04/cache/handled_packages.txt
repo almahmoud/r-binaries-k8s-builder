@@ -329,6 +329,7 @@ MesKit
 MetCirc
 MetID
 MetMashR
+MetNet
 MetaCyto
 MetaboCoreUtils
 MethPed
@@ -538,6 +539,7 @@ UCSC.utils
 UNDO
 UniProt.ws
 VERSO
+VariantExperiment
 VegaMC
 VennDetail
 Wrench
