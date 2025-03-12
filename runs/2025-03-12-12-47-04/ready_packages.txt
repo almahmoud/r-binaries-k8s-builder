@@ -1,7 +1,0 @@
-DepecheR
-OLIN
-RBM
-arrayQuality
-nnNorm
-stepNorm
-timeOmics

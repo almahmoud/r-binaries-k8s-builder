@@ -19,6 +19,7 @@ BiRewire
 BioCartaImage
 BiocBaseUtils
 BiocFileCache
+BiocNeighbors
 BiocParallel
 BiocStyle
 BiocVersion
@@ -33,6 +34,7 @@ CausalR
 Clomial
 ClusterSignificance
 ComPrAn
+CytoGLMM
 DCATS
 DEqMS
 DEsingle
@@ -61,6 +63,7 @@ HPAanalyze
 HPiP
 Heatplus
 INTACT
+LPE
 MVCClass
 MeasurementError.cor
 Mergeomics
@@ -69,8 +72,10 @@ MultiMed
 NTW
 NetPathMiner
 NuPoP
+OLIN
 OSAT
 Omixer
+RBM
 REBET
 ROC
 RProtoBufLib
@@ -123,6 +128,7 @@ dir.expiry
 dks
 drawProteins
 fastreeR
+fenr
 flowCyBar
 flowGraph
 flowPlots
@@ -137,6 +143,9 @@ genomes
 geva
 ggkegg
 ggtree
+ggtreeDendro
+ggtreeExtra
+ggtreeSpace
 globalSeq
 granulator
 graper
@@ -169,6 +178,9 @@ quantsmooth
 qvalue
 rBiopaxParser
 rpx
+scRecover
+scShapes
+scTHI
 seqLogo
 seqTools
 seqcombo

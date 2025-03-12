@@ -202,3 +202,14 @@ pengls
 plasmut
 sitePath
 tanggle
+BiocNeighbors
+fenr
+ggtreeDendro
+ggtreeExtra
+ggtreeSpace
+LPE
+OLIN
+RBM
+scRecover
+scShapes
+scTHI
