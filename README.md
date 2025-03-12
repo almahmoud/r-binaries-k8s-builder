@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1027 packages built successfully
+- 1029 packages built successfully
 - 16 packages failed to build
-- 1190 packages not yet processed
+- 1188 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (1027)
+## Successfully Built (1029)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1058,8 +1058,10 @@
 | [DeepTarget](https://bioconductor.org/packages/3.20/bioc/html/DeepTarget.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/DeepTarget/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DeepTarget)                |
 | [covRNA](https://bioconductor.org/packages/3.20/bioc/html/covRNA.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/covRNA/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/covRNA)                    |
 | [crlmm](https://bioconductor.org/packages/3.20/bioc/html/crlmm.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/crlmm/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/crlmm)                     |
+| [GSEABase](https://bioconductor.org/packages/3.20/bioc/html/GSEABase.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/GSEABase/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSEABase)                  |
+| [tilingArray](https://bioconductor.org/packages/3.20/bioc/html/tilingArray.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/tilingArray/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tilingArray)               |
 
-## Not Yet Processed (1190)
+## Not Yet Processed (1188)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1278,7 +1280,6 @@
 | [GOstats](https://bioconductor.org/packages/3.20/bioc/html/GOstats.html)                                         | Unprocessed |
 | [GRaNIE](https://bioconductor.org/packages/3.20/bioc/html/GRaNIE.html)                                           | Unprocessed |
 | [GRmetrics](https://bioconductor.org/packages/3.20/bioc/html/GRmetrics.html)                                     | Unprocessed |
-| [GSEABase](https://bioconductor.org/packages/3.20/bioc/html/GSEABase.html)                                       | Unprocessed |
 | [GSEABenchmarkeR](https://bioconductor.org/packages/3.20/bioc/html/GSEABenchmarkeR.html)                         | Unprocessed |
 | [GSRI](https://bioconductor.org/packages/3.20/bioc/html/GSRI.html)                                               | Unprocessed |
 | [GSReg](https://bioconductor.org/packages/3.20/bioc/html/GSReg.html)                                             | Unprocessed |
@@ -2212,7 +2213,6 @@
 | [tidySingleCellExperiment](https://bioconductor.org/packages/3.20/bioc/html/tidySingleCellExperiment.html)       | Unprocessed |
 | [tidySpatialExperiment](https://bioconductor.org/packages/3.20/bioc/html/tidySpatialExperiment.html)             | Unprocessed |
 | [tidyomics](https://bioconductor.org/packages/3.20/bioc/html/tidyomics.html)                                     | Unprocessed |
-| [tilingArray](https://bioconductor.org/packages/3.20/bioc/html/tilingArray.html)                                 | Unprocessed |
 | [topGO](https://bioconductor.org/packages/3.20/bioc/html/topGO.html)                                             | Unprocessed |
 | [topdownr](https://bioconductor.org/packages/3.20/bioc/html/topdownr.html)                                       | Unprocessed |
 | [tpSVG](https://bioconductor.org/packages/3.20/bioc/html/tpSVG.html)                                             | Unprocessed |

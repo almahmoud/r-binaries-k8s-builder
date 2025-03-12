@@ -181,6 +181,7 @@ GRENITS
 GSALightning
 GSAR
 GSCA
+GSEABase
 GSEAlm
 GSEAmining
 GSgalgoR
@@ -1006,6 +1007,7 @@ tidybulk
 tidysbml
 tidytof
 tigre
+tilingArray
 timeOmics
 timecourse
 timescape

@@ -1025,3 +1025,5 @@ tracktables
 covRNA
 crlmm
 DeepTarget
+GSEABase
+tilingArray
