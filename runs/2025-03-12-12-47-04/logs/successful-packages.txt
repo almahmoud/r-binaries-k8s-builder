@@ -830,3 +830,5 @@ crisprBase
 geneRxCluster
 genomeIntervals
 Structstrings
+gtrellis
+MsBackendRawFileReader

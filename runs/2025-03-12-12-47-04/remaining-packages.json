@@ -2990,7 +2990,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "MsBackendRawFileReader": [],
   "MsDataHub": [
     "ExperimentHub",
     "AnnotationHub",
@@ -4812,7 +4811,6 @@
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
-    "gtrellis",
     "BSgenome",
     "ggbio",
     "SummarizedExperiment",
@@ -6987,7 +6985,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "gtrellis": [],
   "gwascat": [
     "GenomicFeatures",
     "AnnotationDbi",

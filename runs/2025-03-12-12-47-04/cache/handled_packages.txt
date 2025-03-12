@@ -255,6 +255,7 @@ MsBackendMassbank
 MsBackendMetaboLights
 MsBackendMgf
 MsBackendMsp
+MsBackendRawFileReader
 MsBackendSql
 MsCoreUtils
 Mulcom
@@ -586,6 +587,7 @@ gpuMagic
 granulator
 graper
 graph
+gtrellis
 gypsum
 hapFabia
 hca

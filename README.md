@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 832 packages built successfully
+- 834 packages built successfully
 - 14 packages failed to build
-- 1387 packages not yet processed
+- 1385 packages not yet processed
 
 ## Failed Builds (14)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -26,7 +26,7 @@
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 | [immunoClust](https://bioconductor.org/packages/3.20/bioc/html/immunoClust.html)   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/immunoClust/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunoClust)  | Build failed with unknown error     |
 
-## Successfully Built (832)
+## Successfully Built (834)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -861,8 +861,10 @@
 | [crisprBase](https://bioconductor.org/packages/3.20/bioc/html/crisprBase.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/crisprBase/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/crisprBase)                |
 | [geneRxCluster](https://bioconductor.org/packages/3.20/bioc/html/geneRxCluster.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/geneRxCluster/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/geneRxCluster)             |
 | [genomeIntervals](https://bioconductor.org/packages/3.20/bioc/html/genomeIntervals.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/genomeIntervals/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/genomeIntervals)           |
+| [MsBackendRawFileReader](https://bioconductor.org/packages/3.20/bioc/html/MsBackendRawFileReader.html)       | Built    | [Log](runs/2025-03-12-12-47-04/logs/MsBackendRawFileReader/build-success.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MsBackendRawFileReader)    |
+| [gtrellis](https://bioconductor.org/packages/3.20/bioc/html/gtrellis.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/gtrellis/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gtrellis)                  |
 
-## Not Yet Processed (1387)
+## Not Yet Processed (1385)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1268,7 +1270,6 @@
 | [Motif2Site](https://bioconductor.org/packages/3.20/bioc/html/Motif2Site.html)                                   | Unprocessed |
 | [MotifDb](https://bioconductor.org/packages/3.20/bioc/html/MotifDb.html)                                         | Unprocessed |
 | [MouseFM](https://bioconductor.org/packages/3.20/bioc/html/MouseFM.html)                                         | Unprocessed |
-| [MsBackendRawFileReader](https://bioconductor.org/packages/3.20/bioc/html/MsBackendRawFileReader.html)           | Unprocessed |
 | [MsDataHub](https://bioconductor.org/packages/3.20/bioc/html/MsDataHub.html)                                     | Unprocessed |
 | [MsExperiment](https://bioconductor.org/packages/3.20/bioc/html/MsExperiment.html)                               | Unprocessed |
 | [MsFeatures](https://bioconductor.org/packages/3.20/bioc/html/MsFeatures.html)                                   | Unprocessed |
@@ -1798,7 +1799,6 @@
 | [groHMM](https://bioconductor.org/packages/3.20/bioc/html/groHMM.html)                                           | Unprocessed |
 | [gscreend](https://bioconductor.org/packages/3.20/bioc/html/gscreend.html)                                       | Unprocessed |
 | [gsean](https://bioconductor.org/packages/3.20/bioc/html/gsean.html)                                             | Unprocessed |
-| [gtrellis](https://bioconductor.org/packages/3.20/bioc/html/gtrellis.html)                                       | Unprocessed |
 | [gwascat](https://bioconductor.org/packages/3.20/bioc/html/gwascat.html)                                         | Unprocessed |
 | [gwasurvivr](https://bioconductor.org/packages/3.20/bioc/html/gwasurvivr.html)                                   | Unprocessed |
 | [h5vc](https://bioconductor.org/packages/3.20/bioc/html/h5vc.html)                                               | Unprocessed |
