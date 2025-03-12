@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1029 packages built successfully
+- 1030 packages built successfully
 - 16 packages failed to build
-- 1188 packages not yet processed
+- 1187 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (1029)
+## Successfully Built (1030)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1060,8 +1060,9 @@
 | [crlmm](https://bioconductor.org/packages/3.20/bioc/html/crlmm.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/crlmm/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/crlmm)                     |
 | [GSEABase](https://bioconductor.org/packages/3.20/bioc/html/GSEABase.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/GSEABase/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSEABase)                  |
 | [tilingArray](https://bioconductor.org/packages/3.20/bioc/html/tilingArray.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/tilingArray/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tilingArray)               |
+| [SIM](https://bioconductor.org/packages/3.20/bioc/html/SIM.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/SIM/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SIM)                       |
 
-## Not Yet Processed (1188)
+## Not Yet Processed (1187)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1545,7 +1546,6 @@
 | [SGSeq](https://bioconductor.org/packages/3.20/bioc/html/SGSeq.html)                                             | Unprocessed |
 | [SIAMCAT](https://bioconductor.org/packages/3.20/bioc/html/SIAMCAT.html)                                         | Unprocessed |
 | [SICtools](https://bioconductor.org/packages/3.20/bioc/html/SICtools.html)                                       | Unprocessed |
-| [SIM](https://bioconductor.org/packages/3.20/bioc/html/SIM.html)                                                 | Unprocessed |
 | [SMITE](https://bioconductor.org/packages/3.20/bioc/html/SMITE.html)                                             | Unprocessed |
 | [SNPhood](https://bioconductor.org/packages/3.20/bioc/html/SNPhood.html)                                         | Unprocessed |
 | [SOMNiBUS](https://bioconductor.org/packages/3.20/bioc/html/SOMNiBUS.html)                                       | Unprocessed |
