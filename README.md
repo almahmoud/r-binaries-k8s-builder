@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1046 packages built successfully
+- 1049 packages built successfully
 - 16 packages failed to build
-- 1171 packages not yet processed
+- 1168 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (1046)
+## Successfully Built (1049)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1077,8 +1077,11 @@
 | [annmap](https://bioconductor.org/packages/3.20/bioc/html/annmap.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/annmap/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/annmap)                    |
 | [lefser](https://bioconductor.org/packages/3.20/bioc/html/lefser.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/lefser/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lefser)                    |
 | [TissueEnrich](https://bioconductor.org/packages/3.20/bioc/html/TissueEnrich.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/TissueEnrich/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TissueEnrich)              |
+| [ASSIGN](https://bioconductor.org/packages/3.20/bioc/html/ASSIGN.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/ASSIGN/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ASSIGN)                    |
+| [cosmosR](https://bioconductor.org/packages/3.20/bioc/html/cosmosR.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/cosmosR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cosmosR)                   |
+| [sketchR](https://bioconductor.org/packages/3.20/bioc/html/sketchR.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/sketchR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sketchR)                   |
 
-## Not Yet Processed (1171)
+## Not Yet Processed (1168)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1093,7 +1096,6 @@
 | [APAlyzer](https://bioconductor.org/packages/3.20/bioc/html/APAlyzer.html)                                       | Unprocessed |
 | [APL](https://bioconductor.org/packages/3.20/bioc/html/APL.html)                                                 | Unprocessed |
 | [ASICS](https://bioconductor.org/packages/3.20/bioc/html/ASICS.html)                                             | Unprocessed |
-| [ASSIGN](https://bioconductor.org/packages/3.20/bioc/html/ASSIGN.html)                                           | Unprocessed |
 | [ASURAT](https://bioconductor.org/packages/3.20/bioc/html/ASURAT.html)                                           | Unprocessed |
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                             | Unprocessed |
 | [ATACseqQC](https://bioconductor.org/packages/3.20/bioc/html/ATACseqQC.html)                                     | Unprocessed |
@@ -1754,7 +1756,6 @@
 | [corral](https://bioconductor.org/packages/3.20/bioc/html/corral.html)                                           | Unprocessed |
 | [coseq](https://bioconductor.org/packages/3.20/bioc/html/coseq.html)                                             | Unprocessed |
 | [cosmiq](https://bioconductor.org/packages/3.20/bioc/html/cosmiq.html)                                           | Unprocessed |
-| [cosmosR](https://bioconductor.org/packages/3.20/bioc/html/cosmosR.html)                                         | Unprocessed |
 | [countsimQC](https://bioconductor.org/packages/3.20/bioc/html/countsimQC.html)                                   | Unprocessed |
 | [cpvSNP](https://bioconductor.org/packages/3.20/bioc/html/cpvSNP.html)                                           | Unprocessed |
 | [crisprBowtie](https://bioconductor.org/packages/3.20/bioc/html/crisprBowtie.html)                               | Unprocessed |
@@ -2169,7 +2170,6 @@
 | [singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)                               | Unprocessed |
 | [singscore](https://bioconductor.org/packages/3.20/bioc/html/singscore.html)                                     | Unprocessed |
 | [sitadela](https://bioconductor.org/packages/3.20/bioc/html/sitadela.html)                                       | Unprocessed |
-| [sketchR](https://bioconductor.org/packages/3.20/bioc/html/sketchR.html)                                         | Unprocessed |
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                             | Unprocessed |
 | [slalom](https://bioconductor.org/packages/3.20/bioc/html/slalom.html)                                           | Unprocessed |
 | [slingshot](https://bioconductor.org/packages/3.20/bioc/html/slingshot.html)                                     | Unprocessed |

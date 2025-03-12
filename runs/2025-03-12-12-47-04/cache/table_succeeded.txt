@@ -1044,3 +1044,6 @@
 ['[annmap](https://bioconductor.org/packages/3.20/bioc/html/annmap.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/annmap/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/annmap)']
 ['[lefser](https://bioconductor.org/packages/3.20/bioc/html/lefser.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/lefser/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lefser)']
 ['[TissueEnrich](https://bioconductor.org/packages/3.20/bioc/html/TissueEnrich.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/TissueEnrich/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TissueEnrich)']
+['[ASSIGN](https://bioconductor.org/packages/3.20/bioc/html/ASSIGN.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ASSIGN/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ASSIGN)']
+['[cosmosR](https://bioconductor.org/packages/3.20/bioc/html/cosmosR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/cosmosR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cosmosR)']
+['[sketchR](https://bioconductor.org/packages/3.20/bioc/html/sketchR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/sketchR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sketchR)']

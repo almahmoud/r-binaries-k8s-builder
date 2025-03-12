@@ -41,7 +41,6 @@
     "MultiAssayExperiment",
     "MultiDataSet"
   ],
-  "ASSIGN": [],
   "ASURAT": [
     "SingleCellExperiment"
   ],
@@ -3365,7 +3364,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "cosmosR": [],
   "countsimQC": [
     "DESeq2"
   ],
@@ -5595,7 +5593,6 @@
     "rtracklayer",
     "txdbmaker"
   ],
-  "sketchR": [],
   "skewr": [
     "methylumi",
     "wateRmelon",
