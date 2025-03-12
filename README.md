@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 717 packages built successfully
+- 719 packages built successfully
 - 12 packages failed to build
-- 1504 packages not yet processed
+- 1502 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [graper](https://bioconductor.org/packages/3.20/bioc/html/graper.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/graper/build-fail.log)       | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/graper)    | Build failed with unknown error     |
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 
-## Successfully Built (717)
+## Successfully Built (719)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -744,8 +744,10 @@
 | [RNAseqCovarImpute](https://bioconductor.org/packages/3.20/bioc/html/RNAseqCovarImpute.html)             | Built    | [Log](runs/2025-03-12-12-47-04/logs/RNAseqCovarImpute/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RNAseqCovarImpute)       |
 | [gDRstyle](https://bioconductor.org/packages/3.20/bioc/html/gDRstyle.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/gDRstyle/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gDRstyle)                |
 | [GenomeInfoDb](https://bioconductor.org/packages/3.20/bioc/html/GenomeInfoDb.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/GenomeInfoDb/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomeInfoDb)            |
+| [flowMatch](https://bioconductor.org/packages/3.20/bioc/html/flowMatch.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowMatch/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowMatch)               |
+| [flowMeans](https://bioconductor.org/packages/3.20/bioc/html/flowMeans.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowMeans/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowMeans)               |
 
-## Not Yet Processed (1504)
+## Not Yet Processed (1502)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1705,8 +1707,6 @@
 | [flowDensity](https://bioconductor.org/packages/3.20/bioc/html/flowDensity.html)                                 | Unprocessed |
 | [flowFP](https://bioconductor.org/packages/3.20/bioc/html/flowFP.html)                                           | Unprocessed |
 | [flowGate](https://bioconductor.org/packages/3.20/bioc/html/flowGate.html)                                       | Unprocessed |
-| [flowMatch](https://bioconductor.org/packages/3.20/bioc/html/flowMatch.html)                                     | Unprocessed |
-| [flowMeans](https://bioconductor.org/packages/3.20/bioc/html/flowMeans.html)                                     | Unprocessed |
 | [flowMerge](https://bioconductor.org/packages/3.20/bioc/html/flowMerge.html)                                     | Unprocessed |
 | [flowPloidy](https://bioconductor.org/packages/3.20/bioc/html/flowPloidy.html)                                   | Unprocessed |
 | [flowSpecs](https://bioconductor.org/packages/3.20/bioc/html/flowSpecs.html)                                     | Unprocessed |

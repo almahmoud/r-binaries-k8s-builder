@@ -1238,7 +1238,6 @@
   ],
   "CONFESS": [
     "flowClust",
-    "flowMeans",
     "flowMerge",
     "flowPeaks"
   ],
@@ -11766,8 +11765,6 @@
     "SparseArray",
     "XVector"
   ],
-  "flowMatch": [],
-  "flowMeans": [],
   "flowMerge": [
     "flowClust"
   ],
@@ -14687,9 +14684,7 @@
     "XVector",
     "Biostrings"
   ],
-  "optimalFlow": [
-    "flowMeans"
-  ],
+  "optimalFlow": [],
   "orthogene": [
     "DelayedArray",
     "S4Arrays",

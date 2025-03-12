@@ -468,6 +468,8 @@ fgsea
 flowCore
 flowCyBar
 flowGraph
+flowMatch
+flowMeans
 flowPeaks
 flowPlots
 flowcatchR
