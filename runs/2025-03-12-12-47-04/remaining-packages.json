@@ -6507,7 +6507,6 @@
     "XVector",
     "Biostrings"
   ],
-  "LBE": [],
   "LEA": [],
   "LOBSTAHS": [
     "xcms",
@@ -8592,7 +8591,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "OLINgui": [],
   "OMICsPCA": [
     "HelloRanges",
     "MultiAssayExperiment",
@@ -10356,7 +10354,6 @@
     "RcwlPipelines",
     "S4Vectors"
   ],
-  "ReactomeGSA": [],
   "ReactomePA": [
     "AnnotationDbi",
     "DOSE",
@@ -15638,7 +15635,6 @@
     "XVector",
     "Biostrings"
   ],
-  "consensus": [],
   "consensusDE": [
     "AnnotationDbi",
     "Biostrings",
@@ -17024,7 +17020,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "easyreporting": [],
   "edge": [
     "sva",
     "genefilter",
@@ -18021,7 +18016,6 @@
     "SparseArray",
     "XVector"
   ],
-  "flowcatchR": [],
   "fobitools": [],
   "frma": [
     "affy",
@@ -21599,7 +21593,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "multiClust": [],
   "multiGSEA": [
     "graphite",
     "AnnotationDbi",
@@ -26586,7 +26579,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "synapsis": [],
   "synapter": [
     "MSnbase",
     "Biostrings",

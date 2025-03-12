@@ -115,6 +115,7 @@ Informeasure
 IsoCorrectoR
 IsoCorrectoRGUI
 KBoost
+LBE
 LPE
 LedPred
 MBttest
@@ -140,6 +141,7 @@ NanoTube
 NetPathMiner
 NuPoP
 OLIN
+OLINgui
 OSAT
 Omixer
 OrderedList
@@ -165,6 +167,7 @@ Rbowtie
 Rbwa
 Rcollectl
 Rdisop
+ReactomeGSA
 RedeR
 RedisParam
 Rhdf5lib
@@ -236,6 +239,7 @@ clusterStab
 coGPS
 cogena
 compSPOT
+consensus
 convert
 copa
 covEB
@@ -258,6 +262,7 @@ discordant
 dks
 drawProteins
 dyebias
+easyreporting
 ecolitk
 eds
 eiR
@@ -273,6 +278,7 @@ fgsea
 flowCyBar
 flowGraph
 flowPlots
+flowcatchR
 fmcsR
 fmrs
 frenchFISH
@@ -339,6 +345,7 @@ miRcomp
 mina
 mistyR
 mixOmics
+multiClust
 multiscan
 multtest
 nnNorm
@@ -417,6 +424,7 @@ subSeq
 survcomp
 swfdr
 switchBox
+synapsis
 synergyfinder
 synlet
 systemPipeShiny

@@ -435,3 +435,11 @@ FISHalyseR
 Mfuzz
 Rhdf5lib
 seahtrue
+consensus
+easyreporting
+flowcatchR
+LBE
+multiClust
+OLINgui
+ReactomeGSA
+synapsis
