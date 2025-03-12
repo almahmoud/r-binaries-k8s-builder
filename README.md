@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1049 packages built successfully
+- 1052 packages built successfully
 - 16 packages failed to build
-- 1168 packages not yet processed
+- 1165 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (1049)
+## Successfully Built (1052)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1080,8 +1080,11 @@
 | [ASSIGN](https://bioconductor.org/packages/3.20/bioc/html/ASSIGN.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/ASSIGN/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ASSIGN)                    |
 | [cosmosR](https://bioconductor.org/packages/3.20/bioc/html/cosmosR.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/cosmosR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cosmosR)                   |
 | [sketchR](https://bioconductor.org/packages/3.20/bioc/html/sketchR.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/sketchR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sketchR)                   |
+| [BERT](https://bioconductor.org/packages/3.20/bioc/html/BERT.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/BERT/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BERT)                      |
+| [CaMutQC](https://bioconductor.org/packages/3.20/bioc/html/CaMutQC.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/CaMutQC/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CaMutQC)                   |
+| [EnrichDO](https://bioconductor.org/packages/3.20/bioc/html/EnrichDO.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/EnrichDO/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EnrichDO)                  |
 
-## Not Yet Processed (1168)
+## Not Yet Processed (1165)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1113,7 +1116,6 @@
 | [BASiCStan](https://bioconductor.org/packages/3.20/bioc/html/BASiCStan.html)                                     | Unprocessed |
 | [BBCAnalyzer](https://bioconductor.org/packages/3.20/bioc/html/BBCAnalyzer.html)                                 | Unprocessed |
 | [BEAT](https://bioconductor.org/packages/3.20/bioc/html/BEAT.html)                                               | Unprocessed |
-| [BERT](https://bioconductor.org/packages/3.20/bioc/html/BERT.html)                                               | Unprocessed |
 | [BOBaFIT](https://bioconductor.org/packages/3.20/bioc/html/BOBaFIT.html)                                         | Unprocessed |
 | [BREW3R.r](https://bioconductor.org/packages/3.20/bioc/html/BREW3R.r.html)                                       | Unprocessed |
 | [BSgenome](https://bioconductor.org/packages/3.20/bioc/html/BSgenome.html)                                       | Unprocessed |
@@ -1173,7 +1175,6 @@
 | [CTdata](https://bioconductor.org/packages/3.20/bioc/html/CTdata.html)                                           | Unprocessed |
 | [CTexploreR](https://bioconductor.org/packages/3.20/bioc/html/CTexploreR.html)                                   | Unprocessed |
 | [CaDrA](https://bioconductor.org/packages/3.20/bioc/html/CaDrA.html)                                             | Unprocessed |
-| [CaMutQC](https://bioconductor.org/packages/3.20/bioc/html/CaMutQC.html)                                         | Unprocessed |
 | [Category](https://bioconductor.org/packages/3.20/bioc/html/Category.html)                                       | Unprocessed |
 | [CatsCradle](https://bioconductor.org/packages/3.20/bioc/html/CatsCradle.html)                                   | Unprocessed |
 | [CeTF](https://bioconductor.org/packages/3.20/bioc/html/CeTF.html)                                               | Unprocessed |
@@ -1259,7 +1260,6 @@
 | [ERSSA](https://bioconductor.org/packages/3.20/bioc/html/ERSSA.html)                                             | Unprocessed |
 | [EWCE](https://bioconductor.org/packages/3.20/bioc/html/EWCE.html)                                               | Unprocessed |
 | [EasyCellType](https://bioconductor.org/packages/3.20/bioc/html/EasyCellType.html)                               | Unprocessed |
-| [EnrichDO](https://bioconductor.org/packages/3.20/bioc/html/EnrichDO.html)                                       | Unprocessed |
 | [EnrichedHeatmap](https://bioconductor.org/packages/3.20/bioc/html/EnrichedHeatmap.html)                         | Unprocessed |
 | [EnrichmentBrowser](https://bioconductor.org/packages/3.20/bioc/html/EnrichmentBrowser.html)                     | Unprocessed |
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)                                   | Unprocessed |

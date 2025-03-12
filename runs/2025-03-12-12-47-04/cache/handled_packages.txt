@@ -32,6 +32,7 @@ BADER
 BAGS
 BANDITS
 BCRANK
+BERT
 BEclear
 BG2
 BLMA
@@ -94,6 +95,7 @@ CONSTANd
 COSNet
 CRImage
 CTDquerier
+CaMutQC
 Cardinal
 CardinalIO
 CausalR
@@ -156,6 +158,7 @@ EMDomics
 EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
+EnrichDO
 EpiDISH
 ExiMiR
 ExperimentHub

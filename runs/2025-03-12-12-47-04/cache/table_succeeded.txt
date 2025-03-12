@@ -1047,3 +1047,6 @@
 ['[ASSIGN](https://bioconductor.org/packages/3.20/bioc/html/ASSIGN.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ASSIGN/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ASSIGN)']
 ['[cosmosR](https://bioconductor.org/packages/3.20/bioc/html/cosmosR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/cosmosR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cosmosR)']
 ['[sketchR](https://bioconductor.org/packages/3.20/bioc/html/sketchR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/sketchR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sketchR)']
+['[BERT](https://bioconductor.org/packages/3.20/bioc/html/BERT.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/BERT/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BERT)']
+['[CaMutQC](https://bioconductor.org/packages/3.20/bioc/html/CaMutQC.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CaMutQC/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CaMutQC)']
+['[EnrichDO](https://bioconductor.org/packages/3.20/bioc/html/EnrichDO.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/EnrichDO/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EnrichDO)']
