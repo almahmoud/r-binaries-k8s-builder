@@ -9406,7 +9406,6 @@
     "alabaster.spatial",
     "alabaster.string",
     "alabaster.vcf",
-    "alabaster.bumpy",
     "alabaster.mae",
     "MultiAssayExperiment",
     "DelayedArray",
@@ -9429,7 +9428,6 @@
     "KEGGREST",
     "GenomicAlignments"
   ],
-  "alabaster.bumpy": [],
   "alabaster.files": [
     "Rsamtools",
     "GenomeInfoDb",

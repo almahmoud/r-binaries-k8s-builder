@@ -368,6 +368,7 @@ affycomp
 affyio
 agilp
 alabaster.base
+alabaster.bumpy
 alabaster.schemas
 alevinQC
 annotationTools

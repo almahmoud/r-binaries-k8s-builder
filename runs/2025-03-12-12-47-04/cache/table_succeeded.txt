@@ -710,3 +710,4 @@
 ['[BioQC](https://bioconductor.org/packages/3.20/bioc/html/BioQC.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/BioQC/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BioQC)']
 ['[ClustAll](https://bioconductor.org/packages/3.20/bioc/html/ClustAll.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ClustAll/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ClustAll)']
 ['[msPurity](https://bioconductor.org/packages/3.20/bioc/html/msPurity.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/msPurity/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/msPurity)']
+['[alabaster.bumpy](https://bioconductor.org/packages/3.20/bioc/html/alabaster.bumpy.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/alabaster.bumpy/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.bumpy)']
