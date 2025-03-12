@@ -835,3 +835,7 @@ MsBackendRawFileReader
 idr2d
 loci2path
 ncRNAtools
+cnvGSA
+methimpute
+oncoscanR
+triplex

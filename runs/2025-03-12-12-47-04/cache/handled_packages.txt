@@ -476,6 +476,7 @@ clstutils
 clustComp
 clusterSeq
 clusterStab
+cnvGSA
 coGPS
 coRdon
 cogena
@@ -656,6 +657,7 @@ metagenomeSeq
 metahdep
 metapod
 metapone
+methimpute
 methylMnM
 mfa
 mgsa
@@ -691,6 +693,7 @@ nucleoSim
 occugene
 omada
 ompBAM
+oncoscanR
 onlineFDR
 oppti
 optimalFlow
@@ -830,6 +833,7 @@ transite
 transomics2cytoscape
 treeio
 trio
+triplex
 tripr
 ttgsea
 tweeDEseq

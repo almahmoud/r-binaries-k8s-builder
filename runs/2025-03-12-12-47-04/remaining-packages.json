@@ -5699,7 +5699,6 @@
   "cn.mops": [
     "Rsamtools"
   ],
-  "cnvGSA": [],
   "coMethDMR": [
     "AnnotationHub",
     "bumphunter",
@@ -7571,7 +7570,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "methimpute": [],
   "methodical": [
     "SummarizedExperiment",
     "AnnotationHub",
@@ -8302,7 +8300,6 @@
   "oncomix": [
     "SummarizedExperiment"
   ],
-  "oncoscanR": [],
   "ontoProc": [
     "AnnotationHub",
     "SummarizedExperiment",
@@ -10131,7 +10128,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "triplex": [],
   "txcutr": [
     "AnnotationDbi",
     "GenomicFeatures",
