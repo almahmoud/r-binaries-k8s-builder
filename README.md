@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 976 packages built successfully
+- 981 packages built successfully
 - 16 packages failed to build
-- 1241 packages not yet processed
+- 1236 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (976)
+## Successfully Built (981)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1007,8 +1007,13 @@
 | [motifcounter](https://bioconductor.org/packages/3.20/bioc/html/motifcounter.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/motifcounter/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifcounter)              |
 | [ontoProc](https://bioconductor.org/packages/3.20/bioc/html/ontoProc.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/ontoProc/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ontoProc)                  |
 | [phyloseq](https://bioconductor.org/packages/3.20/bioc/html/phyloseq.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/phyloseq/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/phyloseq)                  |
+| [CNVMetrics](https://bioconductor.org/packages/3.20/bioc/html/CNVMetrics.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/CNVMetrics/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNVMetrics)                |
+| [DMRScan](https://bioconductor.org/packages/3.20/bioc/html/DMRScan.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/DMRScan/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DMRScan)                   |
+| [DRIMSeq](https://bioconductor.org/packages/3.20/bioc/html/DRIMSeq.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/DRIMSeq/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DRIMSeq)                   |
+| [GenomicScores](https://bioconductor.org/packages/3.20/bioc/html/GenomicScores.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/GenomicScores/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicScores)             |
+| [gCrisprTools](https://bioconductor.org/packages/3.20/bioc/html/gCrisprTools.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/gCrisprTools/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gCrisprTools)              |
 
-## Not Yet Processed (1241)
+## Not Yet Processed (1236)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1090,7 +1095,6 @@
 | [CINdex](https://bioconductor.org/packages/3.20/bioc/html/CINdex.html)                                           | Unprocessed |
 | [CNEr](https://bioconductor.org/packages/3.20/bioc/html/CNEr.html)                                               | Unprocessed |
 | [CNTools](https://bioconductor.org/packages/3.20/bioc/html/CNTools.html)                                         | Unprocessed |
-| [CNVMetrics](https://bioconductor.org/packages/3.20/bioc/html/CNVMetrics.html)                                   | Unprocessed |
 | [CNVPanelizer](https://bioconductor.org/packages/3.20/bioc/html/CNVPanelizer.html)                               | Unprocessed |
 | [CNVRanger](https://bioconductor.org/packages/3.20/bioc/html/CNVRanger.html)                                     | Unprocessed |
 | [CNVfilteR](https://bioconductor.org/packages/3.20/bioc/html/CNVfilteR.html)                                     | Unprocessed |
@@ -1167,12 +1171,10 @@
 | [DExMA](https://bioconductor.org/packages/3.20/bioc/html/DExMA.html)                                             | Unprocessed |
 | [DMCFB](https://bioconductor.org/packages/3.20/bioc/html/DMCFB.html)                                             | Unprocessed |
 | [DMCHMM](https://bioconductor.org/packages/3.20/bioc/html/DMCHMM.html)                                           | Unprocessed |
-| [DMRScan](https://bioconductor.org/packages/3.20/bioc/html/DMRScan.html)                                         | Unprocessed |
 | [DMRcaller](https://bioconductor.org/packages/3.20/bioc/html/DMRcaller.html)                                     | Unprocessed |
 | [DMRcate](https://bioconductor.org/packages/3.20/bioc/html/DMRcate.html)                                         | Unprocessed |
 | [DNAfusion](https://bioconductor.org/packages/3.20/bioc/html/DNAfusion.html)                                     | Unprocessed |
 | [DNAshapeR](https://bioconductor.org/packages/3.20/bioc/html/DNAshapeR.html)                                     | Unprocessed |
-| [DRIMSeq](https://bioconductor.org/packages/3.20/bioc/html/DRIMSeq.html)                                         | Unprocessed |
 | [DSS](https://bioconductor.org/packages/3.20/bioc/html/DSS.html)                                                 | Unprocessed |
 | [DaMiRseq](https://bioconductor.org/packages/3.20/bioc/html/DaMiRseq.html)                                       | Unprocessed |
 | [Damsel](https://bioconductor.org/packages/3.20/bioc/html/Damsel.html)                                           | Unprocessed |
@@ -1263,7 +1265,6 @@
 | [GenomicInteractions](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractions.html)                 | Unprocessed |
 | [GenomicOZone](https://bioconductor.org/packages/3.20/bioc/html/GenomicOZone.html)                               | Unprocessed |
 | [GenomicPlot](https://bioconductor.org/packages/3.20/bioc/html/GenomicPlot.html)                                 | Unprocessed |
-| [GenomicScores](https://bioconductor.org/packages/3.20/bioc/html/GenomicScores.html)                             | Unprocessed |
 | [GenomicSuperSignature](https://bioconductor.org/packages/3.20/bioc/html/GenomicSuperSignature.html)             | Unprocessed |
 | [GeoDiff](https://bioconductor.org/packages/3.20/bioc/html/GeoDiff.html)                                         | Unprocessed |
 | [GeoTcgaData](https://bioconductor.org/packages/3.20/bioc/html/GeoTcgaData.html)                                 | Unprocessed |
@@ -1816,7 +1817,6 @@
 | [frma](https://bioconductor.org/packages/3.20/bioc/html/frma.html)                                               | Unprocessed |
 | [funOmics](https://bioconductor.org/packages/3.20/bioc/html/funOmics.html)                                       | Unprocessed |
 | [funtooNorm](https://bioconductor.org/packages/3.20/bioc/html/funtooNorm.html)                                   | Unprocessed |
-| [gCrisprTools](https://bioconductor.org/packages/3.20/bioc/html/gCrisprTools.html)                               | Unprocessed |
 | [gDNAx](https://bioconductor.org/packages/3.20/bioc/html/gDNAx.html)                                             | Unprocessed |
 | [gDR](https://bioconductor.org/packages/3.20/bioc/html/gDR.html)                                                 | Unprocessed |
 | [gDRcore](https://bioconductor.org/packages/3.20/bioc/html/gDRcore.html)                                         | Unprocessed |

@@ -974,3 +974,8 @@ MSstatsLiP
 ontoProc
 phyloseq
 ResidualMatrix
+CNVMetrics
+DMRScan
+DRIMSeq
+gCrisprTools
+GenomicScores

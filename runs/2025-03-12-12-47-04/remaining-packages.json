@@ -72,7 +72,6 @@
     "BSgenome",
     "ChIPpeakAnno",
     "GenomicAlignments",
-    "GenomicScores",
     "rtracklayer",
     "motifStack",
     "GenomicFeatures",
@@ -153,9 +152,7 @@
     "oligoClasses",
     "affxparser"
   ],
-  "BANDITS": [
-    "DRIMSeq"
-  ],
+  "BANDITS": [],
   "BASiCS": [
     "SingleCellExperiment",
     "scran",
@@ -432,7 +429,6 @@
   "CNTools": [
     "genefilter"
   ],
-  "CNVMetrics": [],
   "CNVPanelizer": [],
   "CNVRanger": [
     "RaggedExperiment",
@@ -869,7 +865,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "DMRScan": [],
   "DMRcaller": [],
   "DMRcate": [
     "bsseq",
@@ -897,7 +892,6 @@
     "rtracklayer"
   ],
   "DNAshapeR": [],
-  "DRIMSeq": [],
   "DSS": [
     "bsseq",
     "BSgenome",
@@ -975,8 +969,7 @@
   ],
   "DifferentialRegulation": [
     "BANDITS",
-    "SingleCellExperiment",
-    "DRIMSeq"
+    "SingleCellExperiment"
   ],
   "Dino": [
     "BiocSingular",
@@ -1447,7 +1440,6 @@
     "BSgenome",
     "biomaRt"
   ],
-  "GenomicScores": [],
   "GenomicSuperSignature": [],
   "GeoDiff": [],
   "GeoTcgaData": [],
@@ -2075,7 +2067,6 @@
     "csaw",
     "BSgenome",
     "ChIPpeakAnno",
-    "GenomicScores",
     "motifStack",
     "GenomicFeatures",
     "Gviz",
@@ -2576,7 +2567,6 @@
     "VariantAnnotation",
     "GenomicFeatures",
     "BSgenome",
-    "GenomicScores",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -3216,7 +3206,6 @@
     "VariantAnnotation",
     "GenomicFeatures",
     "BSgenome",
-    "GenomicScores",
     "Gviz",
     "rtracklayer",
     "biomaRt",
@@ -3408,7 +3397,6 @@
     "VariantAnnotation",
     "BSgenome",
     "GenomicFeatures",
-    "GenomicScores",
     "rtracklayer",
     "OrganismDbi",
     "txdbmaker",
@@ -4547,7 +4535,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "gCrisprTools": [],
   "gDNAx": [
     "GenomicFiles",
     "GenomicAlignments",
@@ -5800,7 +5787,6 @@
   ],
   "primirTSS": [
     "rtracklayer",
-    "GenomicScores",
     "Gviz",
     "TFBSTools",
     "BSgenome",

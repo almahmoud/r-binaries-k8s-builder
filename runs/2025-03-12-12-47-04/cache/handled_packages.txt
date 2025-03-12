@@ -81,6 +81,7 @@ CNORdt
 CNORfeeder
 CNORfuzzy
 CNORode
+CNVMetrics
 COMPASS
 CONSTANd
 COSNet
@@ -114,10 +115,12 @@ DEqMS
 DEsingle
 DFP
 DFplyr
+DMRScan
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
 DOSE
+DRIMSeq
 DTA
 DeMAND
 DeconRNASeq
@@ -185,6 +188,7 @@ GeneSelectMMD
 GeneticsPed
 GenomeInfoDb
 GenomicRanges
+GenomicScores
 GenomicTuples
 GeomxTools
 GladiaTOX
@@ -642,6 +646,7 @@ fmrs
 fobitools
 frenchFISH
 frmaTools
+gCrisprTools
 gDRstyle
 gaga
 garfield
