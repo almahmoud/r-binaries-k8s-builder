@@ -10,6 +10,7 @@ ASAFE
 ASEB
 ASGSCA
 ASSET
+AWFisher
 AffyRNADegradation
 AlphaBeta
 AlphaMissenseR
@@ -443,6 +444,7 @@ fdrame
 fedup
 fenr
 fgsea
+flowCore
 flowCyBar
 flowGraph
 flowPeaks

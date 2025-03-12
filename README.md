@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 692 packages built successfully
+- 694 packages built successfully
 - 12 packages failed to build
-- 1529 packages not yet processed
+- 1527 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [graper](https://bioconductor.org/packages/3.20/bioc/html/graper.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/graper/build-fail.log)       | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/graper)    | Build failed with unknown error     |
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 
-## Successfully Built (692)
+## Successfully Built (694)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -719,8 +719,10 @@
 | [paircompviz](https://bioconductor.org/packages/3.20/bioc/html/paircompviz.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/paircompviz/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/paircompviz)             |
 | [qcmetrics](https://bioconductor.org/packages/3.20/bioc/html/qcmetrics.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/qcmetrics/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/qcmetrics)               |
 | [rawDiag](https://bioconductor.org/packages/3.20/bioc/html/rawDiag.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/rawDiag/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rawDiag)                 |
+| [AWFisher](https://bioconductor.org/packages/3.20/bioc/html/AWFisher.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/AWFisher/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AWFisher)                |
+| [flowCore](https://bioconductor.org/packages/3.20/bioc/html/flowCore.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowCore/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowCore)                |
 
-## Not Yet Processed (1529)
+## Not Yet Processed (1527)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -742,7 +744,6 @@
 | [ATACseqQC](https://bioconductor.org/packages/3.20/bioc/html/ATACseqQC.html)                                     | Unprocessed |
 | [ATACseqTFEA](https://bioconductor.org/packages/3.20/bioc/html/ATACseqTFEA.html)                                 | Unprocessed |
 | [AUCell](https://bioconductor.org/packages/3.20/bioc/html/AUCell.html)                                           | Unprocessed |
-| [AWFisher](https://bioconductor.org/packages/3.20/bioc/html/AWFisher.html)                                       | Unprocessed |
 | [AffiXcan](https://bioconductor.org/packages/3.20/bioc/html/AffiXcan.html)                                       | Unprocessed |
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                                 | Unprocessed |
 | [AllelicImbalance](https://bioconductor.org/packages/3.20/bioc/html/AllelicImbalance.html)                       | Unprocessed |
@@ -1698,7 +1699,6 @@
 | [flowCHIC](https://bioconductor.org/packages/3.20/bioc/html/flowCHIC.html)                                       | Unprocessed |
 | [flowClean](https://bioconductor.org/packages/3.20/bioc/html/flowClean.html)                                     | Unprocessed |
 | [flowClust](https://bioconductor.org/packages/3.20/bioc/html/flowClust.html)                                     | Unprocessed |
-| [flowCore](https://bioconductor.org/packages/3.20/bioc/html/flowCore.html)                                       | Unprocessed |
 | [flowCut](https://bioconductor.org/packages/3.20/bioc/html/flowCut.html)                                         | Unprocessed |
 | [flowDensity](https://bioconductor.org/packages/3.20/bioc/html/flowDensity.html)                                 | Unprocessed |
 | [flowFP](https://bioconductor.org/packages/3.20/bioc/html/flowFP.html)                                           | Unprocessed |

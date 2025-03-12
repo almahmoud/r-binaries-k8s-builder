@@ -690,3 +690,5 @@
 ['[paircompviz](https://bioconductor.org/packages/3.20/bioc/html/paircompviz.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/paircompviz/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/paircompviz)']
 ['[qcmetrics](https://bioconductor.org/packages/3.20/bioc/html/qcmetrics.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/qcmetrics/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/qcmetrics)']
 ['[rawDiag](https://bioconductor.org/packages/3.20/bioc/html/rawDiag.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rawDiag/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rawDiag)']
+['[AWFisher](https://bioconductor.org/packages/3.20/bioc/html/AWFisher.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/AWFisher/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AWFisher)']
+['[flowCore](https://bioconductor.org/packages/3.20/bioc/html/flowCore.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/flowCore/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowCore)']
