@@ -95,7 +95,6 @@
     "XVector",
     "txdbmaker",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "biomaRt",
     "S4Arrays",
@@ -144,7 +143,6 @@
     "Biostrings",
     "AnnotationDbi",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "BSgenome",
@@ -223,7 +221,6 @@
     "ensembldb",
     "BSgenome",
     "biovizBase",
-    "BiocIO",
     "VariantAnnotation",
     "AnnotationFilter",
     "S4Arrays",
@@ -244,7 +241,6 @@
     "motifStack",
     "edgeR",
     "XVector",
-    "BiocIO",
     "AnnotationDbi",
     "pwalign",
     "GenomicFeatures",
@@ -280,7 +276,6 @@
     "Biostrings",
     "XVector",
     "BSgenome",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "pwalign",
@@ -358,7 +353,6 @@
     "AnnotationFilter",
     "S4Arrays",
     "DelayedArray",
-    "BiocIO",
     "SparseArray",
     "txdbmaker",
     "biomaRt"
@@ -378,7 +372,6 @@
     "GenomeInfoDb",
     "KEGGREST",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "biomaRt",
     "ensembldb",
@@ -461,7 +454,6 @@
     "XVector",
     "txdbmaker",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "biomaRt",
     "S4Arrays",
@@ -556,7 +548,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -574,7 +565,6 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -634,7 +624,6 @@
     "AnnotationDbi",
     "AnnotationFilter",
     "KEGGREST",
-    "BiocIO",
     "RBGL",
     "txdbmaker",
     "S4Arrays",
@@ -665,7 +654,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "Biostrings",
-    "BiocIO",
     "rtracklayer",
     "XVector",
     "Rsamtools",
@@ -681,7 +669,6 @@
     "Biostrings",
     "BSgenome",
     "GenomicRanges",
-    "BiocIO",
     "rtracklayer",
     "XVector",
     "Rsamtools",
@@ -726,7 +713,6 @@
     "plyranges",
     "KEGGREST",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -774,7 +760,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -802,7 +787,6 @@
     "BSgenome",
     "SummarizedExperiment",
     "Rsamtools",
-    "BiocIO",
     "rtracklayer",
     "S4Arrays",
     "DelayedArray",
@@ -881,7 +865,6 @@
     "GenomicRanges",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
     "S4Arrays",
@@ -928,7 +911,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -956,7 +938,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
     "S4Arrays",
@@ -1059,13 +1040,11 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "BiocIO": [],
   "BiocPkgTools": [
     "biocViews",
     "RBGL"
   ],
   "BiocSet": [
-    "BiocIO",
     "AnnotationDbi",
     "KEGGREST",
     "IRanges",
@@ -1133,7 +1112,6 @@
     "S4Arrays",
     "DelayedArray",
     "BSgenome",
-    "BiocIO",
     "SparseArray"
   ],
   "BumpyMatrix": [
@@ -1170,7 +1148,6 @@
     "rtracklayer",
     "OrganismDbi",
     "KEGGREST",
-    "BiocIO",
     "RBGL",
     "txdbmaker",
     "S4Arrays",
@@ -1199,7 +1176,6 @@
     "ensembldb",
     "BSgenome",
     "biovizBase",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -1220,7 +1196,6 @@
     "rtracklayer",
     "SummarizedExperiment",
     "XVector",
-    "BiocIO",
     "GenomicFiles",
     "Gviz",
     "InteractionSet",
@@ -1282,7 +1257,6 @@
     "BiocSet",
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
-    "BiocIO",
     "AnnotationDbi",
     "KEGGREST",
     "GenomicRanges",
@@ -1389,7 +1363,6 @@
     "AnnotationDbi",
     "SummarizedExperiment",
     "Rsamtools",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -1478,7 +1451,6 @@
     "GenomicAlignments",
     "ensembldb",
     "AnnotationFilter",
-    "BiocIO",
     "SparseArray"
   ],
   "CNViz": [
@@ -1504,7 +1476,6 @@
     "ensembldb",
     "AnnotationFilter",
     "BSgenome",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -1523,7 +1494,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -1545,7 +1515,6 @@
     "HDF5Array",
     "beachmat",
     "SparseArray",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "S4Arrays",
@@ -1559,7 +1528,6 @@
     "XVector",
     "BSgenome",
     "GenomicRanges",
-    "BiocIO",
     "rtracklayer",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -1630,7 +1598,6 @@
     "DelayedArray",
     "GenomeInfoDb",
     "GenomicRanges",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "S4Arrays",
@@ -1656,13 +1623,11 @@
     "Biostrings",
     "AnnotationDbi",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray"
   ],
-  "CTDquerier": [],
   "CTSV": [
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -1885,7 +1850,6 @@
     "GenomicAlignments",
     "seqPattern",
     "XVector",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -1933,7 +1897,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "VariantAnnotation",
     "AnnotationFilter"
   ],
@@ -1947,7 +1910,6 @@
     "XVector",
     "Biostrings",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -1974,7 +1936,6 @@
     "rtracklayer",
     "KEGGREST",
     "BSgenome",
-    "BiocIO",
     "pwalign",
     "S4Arrays",
     "DelayedArray",
@@ -2004,7 +1965,6 @@
     "rtracklayer",
     "GenomeInfoDb",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -2032,7 +1992,6 @@
     "S4Arrays",
     "DelayedArray",
     "BSgenome",
-    "BiocIO",
     "SparseArray"
   ],
   "ChIPpeakAnno": [
@@ -2057,7 +2016,6 @@
     "XVector",
     "AnnotationFilter",
     "BSgenome",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -2077,7 +2035,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -2125,7 +2082,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -2155,7 +2111,6 @@
     "XVector",
     "Biostrings",
     "GenomicAlignments",
-    "BiocIO",
     "bluster",
     "metapod"
   ],
@@ -2177,7 +2132,6 @@
     "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
-    "BiocIO",
     "biomaRt",
     "KEGGREST",
     "S4Arrays",
@@ -2233,7 +2187,6 @@
     "SummarizedExperiment",
     "IRanges",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "GenomicFeatures",
     "AnnotationDbi",
@@ -2327,7 +2280,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -2370,7 +2322,6 @@
     "GenomicAlignments",
     "ensembldb",
     "AnnotationFilter",
-    "BiocIO",
     "SparseArray"
   ],
   "CoreGx": [
@@ -2395,7 +2346,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -2515,7 +2465,6 @@
     "rtracklayer",
     "BSgenome",
     "KEGGREST",
-    "BiocIO",
     "SparseArray"
   ],
   "DAPAR": [
@@ -2626,7 +2575,6 @@
     "S4Arrays",
     "SparseArray",
     "XVector",
-    "BiocIO",
     "AnnotationFilter",
     "BSgenome"
   ],
@@ -2726,7 +2674,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -2741,7 +2688,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -2794,7 +2740,6 @@
     "SparseArray",
     "VariantAnnotation",
     "AnnotationFilter",
-    "BiocIO",
     "annotate"
   ],
   "DNAfusion": [
@@ -2811,7 +2756,6 @@
     "XVector",
     "rtracklayer",
     "KEGGREST",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -2853,7 +2797,6 @@
     "beachmat",
     "SparseArray",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "S4Arrays",
@@ -2883,8 +2826,7 @@
     "annotate",
     "rtracklayer",
     "GenomicAlignments",
-    "pwalign",
-    "BiocIO"
+    "pwalign"
   ],
   "Damsel": [
     "AnnotationDbi",
@@ -2910,7 +2852,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationFilter",
-    "BiocIO",
     "txdbmaker",
     "RBGL",
     "S4Arrays",
@@ -2940,7 +2881,6 @@
     "annotate",
     "XVector",
     "KEGGREST",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -2973,8 +2913,7 @@
     "Rsamtools",
     "S4Arrays",
     "DelayedArray",
-    "SparseArray",
-    "BiocIO"
+    "SparseArray"
   ],
   "DegNorm": [
     "GenomicFeatures",
@@ -2989,7 +2928,6 @@
     "AnnotationDbi",
     "XVector",
     "rtracklayer",
-    "BiocIO",
     "biomaRt",
     "KEGGREST",
     "S4Arrays",
@@ -3053,7 +2991,6 @@
     "S4Arrays",
     "DelayedArray",
     "ShortRead",
-    "BiocIO",
     "SparseArray",
     "pwalign"
   ],
@@ -3121,7 +3058,6 @@
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
-    "BiocIO",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -3189,7 +3125,6 @@
     "ensembldb",
     "BSgenome",
     "biovizBase",
-    "BiocIO",
     "KEGGREST",
     "VariantAnnotation",
     "AnnotationFilter",
@@ -3225,7 +3160,6 @@
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -3307,7 +3241,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "VariantAnnotation",
     "AnnotationFilter"
@@ -3337,8 +3270,7 @@
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "ERSSA": [
     "edgeR",
@@ -3441,7 +3373,6 @@
     "Rsamtools",
     "seqPattern",
     "XVector",
-    "BiocIO",
     "KEGGREST",
     "DOSE",
     "GOSemSim",
@@ -3468,8 +3399,7 @@
     "DelayedArray",
     "SparseArray",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "EpiTxDb": [
     "AnnotationDbi",
@@ -3486,7 +3416,6 @@
     "rtracklayer",
     "Structstrings",
     "tRNA",
-    "BiocIO",
     "biomaRt",
     "Rsamtools",
     "GenomicAlignments",
@@ -3517,7 +3446,6 @@
     "BSgenome",
     "Biostrings",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
@@ -3536,7 +3464,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -3572,7 +3499,6 @@
     "XVector",
     "txdbmaker",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "biomaRt",
     "S4Arrays",
@@ -3659,7 +3585,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationFilter",
-    "BiocIO",
     "BiocSingular",
     "S4Arrays",
     "bluster",
@@ -3686,7 +3611,6 @@
     "OUTRIDER",
     "KEGGREST",
     "Biostrings",
-    "BiocIO",
     "rtracklayer",
     "XVector",
     "S4Arrays",
@@ -3741,7 +3665,6 @@
     "DelayedArray",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "KEGGREST",
     "SparseArray"
@@ -3773,7 +3696,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -3793,7 +3715,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "BSgenome",
     "S4Arrays",
@@ -3826,8 +3747,7 @@
     "annotate",
     "rtracklayer",
     "GenomicAlignments",
-    "pwalign",
-    "BiocIO"
+    "pwalign"
   ],
   "GBScleanR": [
     "SeqArray",
@@ -3947,8 +3867,7 @@
     "Biostrings",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "GOSemSim": [
     "AnnotationDbi",
@@ -3968,7 +3887,6 @@
     "rtracklayer",
     "GenomeInfoDb",
     "XVector",
-    "BiocIO",
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
@@ -4045,8 +3963,7 @@
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "GRmetrics": [
     "SummarizedExperiment",
@@ -4118,7 +4035,6 @@
     "txdbmaker",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "biomaRt",
     "S4Arrays",
@@ -4160,7 +4076,6 @@
     "Rsamtools",
     "GenomicFeatures",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "AnnotationDbi",
     "RBGL",
@@ -4221,7 +4136,6 @@
     "txdbmaker",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "biomaRt"
   ],
   "GenVisR": [
@@ -4237,7 +4151,6 @@
     "VariantAnnotation",
     "KEGGREST",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "SummarizedExperiment",
     "GenomicAlignments",
@@ -4299,7 +4212,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
     "VariantAnnotation",
@@ -4334,7 +4246,6 @@
     "txdbmaker",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "biomaRt"
   ],
   "GeneticsPed": [],
@@ -4384,7 +4295,6 @@
     "KEGGREST",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -4401,7 +4311,6 @@
     "GenomeInfoDb",
     "Biostrings",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
@@ -4423,7 +4332,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -4447,7 +4355,6 @@
     "biovizBase",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "BiocIO",
     "KEGGREST",
     "VariantAnnotation",
     "AnnotationFilter",
@@ -4476,7 +4383,6 @@
     "ensembldb",
     "AnnotationFilter",
     "KEGGREST",
-    "BiocIO",
     "RBGL",
     "txdbmaker",
     "S4Arrays",
@@ -4503,7 +4409,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "XVector",
-    "BiocIO",
     "biomaRt",
     "KEGGREST",
     "S4Arrays",
@@ -4637,7 +4542,6 @@
     "SummarizedExperiment",
     "IRanges",
     "Biostrings",
-    "BiocIO",
     "XVector",
     "S4Arrays",
     "DelayedArray",
@@ -4655,7 +4559,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -4680,7 +4583,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "AnnotationFilter",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -4763,7 +4665,6 @@
     "rtracklayer",
     "GenomeInfoDb",
     "SummarizedExperiment",
-    "BiocIO",
     "XVector",
     "AnnotationDbi",
     "S4Arrays",
@@ -4787,7 +4688,6 @@
     "Biostrings",
     "rtracklayer",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "Gviz",
     "SummarizedExperiment",
@@ -4823,7 +4723,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "IRanges",
-    "BiocIO",
     "XVector",
     "SummarizedExperiment",
     "S4Arrays",
@@ -4848,7 +4747,6 @@
     "GenomicRanges",
     "IRanges",
     "GenomeInfoDb",
-    "BiocIO",
     "XVector",
     "S4Arrays",
     "DelayedArray",
@@ -4856,7 +4754,6 @@
   ],
   "HiCool": [
     "HiCExperiment",
-    "BiocIO",
     "GenomicRanges",
     "IRanges",
     "InteractionSet",
@@ -4878,7 +4775,6 @@
     "AnnotationDbi",
     "rtracklayer",
     "KEGGREST",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -4895,7 +4791,6 @@
     "XVector",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -4912,7 +4807,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -4984,7 +4878,6 @@
     "Biostrings",
     "XVector",
     "rtracklayer",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -5009,7 +4902,6 @@
     "Biostrings",
     "AnnotationDbi",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -5092,7 +4984,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -5113,7 +5004,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -5141,7 +5031,6 @@
     "plyranges",
     "KEGGREST",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -5162,7 +5051,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "SparseArray"
   ],
@@ -5189,7 +5077,6 @@
     "VariantAnnotation",
     "S4Arrays",
     "DelayedArray",
-    "BiocIO",
     "KEGGREST",
     "SparseArray",
     "annotate",
@@ -5245,7 +5132,6 @@
     "XVector",
     "SummarizedExperiment",
     "pwalign",
-    "BiocIO",
     "Rsamtools",
     "DESeq2",
     "AnnotationDbi",
@@ -5386,7 +5272,6 @@
   "LoomExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "BiocIO",
     "DelayedArray",
     "GenomicRanges",
     "HDF5Array",
@@ -5441,7 +5326,6 @@
     "GenomeInfoDb",
     "rtracklayer",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
@@ -5475,8 +5359,7 @@
     "DelayedMatrixStats",
     "GEOquery",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "MAGeCKFlute": [
     "DOSE",
@@ -5634,7 +5517,6 @@
     "KEGGREST",
     "VariantAnnotation",
     "AnnotationFilter",
-    "BiocIO",
     "SparseArray",
     "annotate",
     "edgeR"
@@ -5664,8 +5546,7 @@
     "KEGGREST",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "MEB": [
     "edgeR",
@@ -5696,7 +5577,6 @@
     "AnnotationDbi",
     "XVector",
     "GenomeInfoDb",
-    "BiocIO",
     "GenomicAlignments",
     "KEGGREST",
     "SummarizedExperiment",
@@ -5784,7 +5664,6 @@
     "beachmat",
     "XVector",
     "SparseArray",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "S4Arrays",
@@ -5855,7 +5734,6 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "BiocIO",
     "rtracklayer",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -5919,8 +5797,7 @@
     "Biostrings",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "MOSim": [
     "IRanges",
@@ -6161,7 +6038,6 @@
     "DirichletMultinomial",
     "GenomicRanges",
     "rtracklayer",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "annotate",
@@ -6301,7 +6177,6 @@
     "AnnotationHub",
     "S4Arrays",
     "DelayedArray",
-    "BiocIO",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -6326,7 +6201,6 @@
     "DirichletMultinomial",
     "rtracklayer",
     "KEGGREST",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "annotate"
@@ -6360,8 +6234,7 @@
     "KEGGREST",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "MethylSeekR": [
     "rtracklayer",
@@ -6371,7 +6244,6 @@
     "geneplotter",
     "GenomeInfoDb",
     "Biostrings",
-    "BiocIO",
     "XVector",
     "Rsamtools",
     "annotate",
@@ -6444,7 +6316,6 @@
     "HDF5Array",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "SparseArray"
   ],
@@ -6462,7 +6333,6 @@
     "crlmm",
     "BSgenome",
     "SparseArray",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -6508,7 +6378,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "S4Arrays",
     "DelayedArray",
@@ -6543,7 +6412,6 @@
     "GenomicAlignments",
     "edgeR",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "SummarizedExperiment",
@@ -6560,7 +6428,6 @@
     "GenomeInfoDb",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -6745,7 +6612,6 @@
     "VariantAnnotation",
     "rtracklayer",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -6764,7 +6630,6 @@
     "GenomeInfoDb",
     "Biostrings",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "SummarizedExperiment",
@@ -6795,7 +6660,6 @@
     "edgeR",
     "metapod",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "GenomicFeatures",
@@ -6863,7 +6727,6 @@
     "HDF5Array",
     "S4Arrays",
     "SparseArray",
-    "BiocIO",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -6934,7 +6797,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -6966,7 +6828,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
     "VariantAnnotation",
@@ -6989,7 +6850,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "BiocIO",
     "DelayedArray",
     "XVector",
     "S4Arrays",
@@ -7007,7 +6867,6 @@
     "GenomicRanges",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -7030,7 +6889,6 @@
     "txdbmaker",
     "KEGGREST",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -7064,7 +6922,6 @@
     "rtracklayer",
     "S4Arrays",
     "DelayedArray",
-    "BiocIO",
     "biomaRt",
     "KEGGREST",
     "SparseArray",
@@ -7122,7 +6979,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -7140,7 +6996,6 @@
     "XVector",
     "Biostrings",
     "rtracklayer",
-    "BiocIO",
     "biomaRt",
     "Rsamtools",
     "GenomicAlignments",
@@ -7164,7 +7019,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -7209,7 +7063,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -7257,7 +7110,6 @@
     "GenomicRanges",
     "GenomeInfoDb",
     "Biostrings",
-    "BiocIO",
     "rtracklayer",
     "XVector",
     "Rsamtools",
@@ -7608,7 +7460,6 @@
     "Rsamtools",
     "BSgenome",
     "KEGGREST",
-    "BiocIO",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -7636,7 +7487,6 @@
     "XVector",
     "AnnotationDbi",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "BSgenome",
@@ -7663,7 +7513,6 @@
     "biomaRt",
     "BSgenome",
     "KEGGREST",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -7727,7 +7576,6 @@
     "AnnotationDbi",
     "KEGGREST",
     "XVector",
-    "BiocIO",
     "SummarizedExperiment",
     "GenomicAlignments",
     "VariantAnnotation",
@@ -7757,7 +7605,6 @@
     "AnnotationDbi",
     "AnnotationFilter",
     "KEGGREST",
-    "BiocIO",
     "RBGL",
     "txdbmaker",
     "S4Arrays",
@@ -7779,7 +7626,6 @@
     "ShortRead",
     "AnnotationDbi",
     "GenomeInfoDb",
-    "BiocIO",
     "rtracklayer",
     "GenomicAlignments",
     "S4Arrays",
@@ -7806,7 +7652,6 @@
     "KEGGREST",
     "GenomeInfoDb",
     "Biostrings",
-    "BiocIO",
     "rtracklayer",
     "XVector",
     "Rsamtools",
@@ -7833,7 +7678,6 @@
     "txdbmaker",
     "genomation",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "seqPattern",
@@ -7875,7 +7719,6 @@
     "XVector",
     "GenomeInfoDb",
     "GenomicRanges",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "pwalign",
@@ -7905,7 +7748,6 @@
     "AnnotationHub",
     "AnnotationDbi",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "bumphunter",
     "DelayedMatrixStats",
@@ -7928,7 +7770,6 @@
     "IRanges",
     "MutationalPatterns",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "VariantAnnotation",
@@ -7962,7 +7803,6 @@
     "DelayedArray",
     "S4Arrays",
     "GenomicAlignments",
-    "BiocIO",
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
@@ -7976,7 +7816,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -8021,7 +7860,6 @@
     "Rsamtools",
     "XVector",
     "Biostrings",
-    "BiocIO",
     "VariantAnnotation",
     "BSgenome"
   ],
@@ -8039,7 +7877,6 @@
     "BSgenome",
     "Gviz",
     "XVector",
-    "BiocIO",
     "SummarizedExperiment",
     "AnnotationDbi",
     "biomaRt",
@@ -8075,7 +7912,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "AnnotationFilter",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -8095,7 +7931,6 @@
     "Rsamtools",
     "BSgenome",
     "Gviz",
-    "BiocIO",
     "SummarizedExperiment",
     "AnnotationDbi",
     "biomaRt",
@@ -8131,7 +7966,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "AnnotationFilter",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -8212,8 +8046,7 @@
     "Biostrings",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "RTN": [
     "IRanges",
@@ -8266,7 +8099,6 @@
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -8304,7 +8136,6 @@
     "SummarizedExperiment",
     "GenomicScores",
     "Biostrings",
-    "BiocIO",
     "rtracklayer",
     "XVector",
     "Rsamtools",
@@ -8392,7 +8223,6 @@
     "SummarizedExperiment",
     "DOSE",
     "DESeq2",
-    "BiocIO",
     "AnnotationDbi",
     "KEGGREST",
     "IRanges",
@@ -8449,7 +8279,6 @@
     "BSgenome",
     "edgeR",
     "XVector",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -8485,7 +8314,6 @@
     "AnnotationForge",
     "Rgraphviz",
     "XVector",
-    "BiocIO",
     "txdbmaker",
     "S4Arrays",
     "DelayedArray",
@@ -8511,7 +8339,6 @@
     "rtracklayer",
     "BSgenome",
     "KEGGREST",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -8534,7 +8361,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "rtracklayer",
-    "BiocIO",
     "biomaRt",
     "KEGGREST",
     "S4Arrays",
@@ -8559,7 +8385,6 @@
     "SummarizedExperiment",
     "txdbmaker",
     "KEGGREST",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -8578,7 +8403,6 @@
     "AnnotationDbi",
     "XVector",
     "rtracklayer",
-    "BiocIO",
     "biomaRt",
     "KEGGREST",
     "S4Arrays",
@@ -8604,7 +8428,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationFilter",
-    "BiocIO",
     "KEGGREST",
     "RBGL",
     "txdbmaker",
@@ -8630,8 +8453,7 @@
     "SparseArray",
     "Biostrings",
     "rtracklayer",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "RnBeads": [
     "GenomicRanges",
@@ -8656,8 +8478,7 @@
     "S4Arrays",
     "SparseArray",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "RnaSeqSampleSize": [
     "biomaRt",
@@ -8683,7 +8504,6 @@
     "GenomicFeatures",
     "GenomicFiles",
     "Rsamtools",
-    "BiocIO",
     "VariantAnnotation",
     "BSgenome"
   ],
@@ -8717,7 +8537,6 @@
     "rtracklayer",
     "pwalign",
     "KEGGREST",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "BSgenome",
@@ -8760,7 +8579,6 @@
     "Rsamtools",
     "SummarizedExperiment",
     "KEGGREST",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -8822,7 +8640,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -8867,7 +8684,6 @@
     "BSgenome",
     "Biostrings",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -8956,7 +8772,6 @@
     "rtracklayer",
     "KEGGREST",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -9009,7 +8824,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "biomaRt",
     "SummarizedExperiment",
     "S4Arrays",
@@ -9033,7 +8847,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -9058,7 +8871,6 @@
     "XVector",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "SparseArray",
     "S4Arrays"
@@ -9101,7 +8913,6 @@
     "KEGGREST",
     "VariantAnnotation",
     "AnnotationFilter",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -9317,7 +9128,6 @@
     "SummarizedExperiment",
     "IRanges",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "S4Arrays",
@@ -9396,7 +9206,6 @@
     "plyranges",
     "QuasR",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -9448,7 +9257,6 @@
     "AnnotationDbi",
     "AnnotationFilter",
     "KEGGREST",
-    "BiocIO",
     "RBGL",
     "txdbmaker",
     "S4Arrays",
@@ -9511,7 +9319,6 @@
     "BSgenome",
     "GenomeInfoDb",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -9614,7 +9421,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "S4Arrays",
     "SparseArray",
@@ -9647,7 +9453,6 @@
     "XVector",
     "rtracklayer",
     "KEGGREST",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -9731,7 +9536,6 @@
     "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "BSgenome",
@@ -9809,7 +9613,6 @@
     "GenomicFeatures",
     "Biostrings",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "SummarizedExperiment",
@@ -9863,8 +9666,7 @@
     "S4Arrays",
     "SparseArray",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "TCseq": [
     "edgeR",
@@ -9913,7 +9715,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "S4Arrays",
     "DelayedArray",
@@ -9922,7 +9723,6 @@
   "TENxIO": [
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "BiocIO",
     "GenomeInfoDb",
     "GenomicRanges",
     "HDF5Array",
@@ -9957,7 +9757,6 @@
     "IRanges",
     "rtracklayer",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "annotate",
@@ -9981,7 +9780,6 @@
     "KEGGREST",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -10005,7 +9803,6 @@
     "SummarizedExperiment",
     "txdbmaker",
     "KEGGREST",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -10090,7 +9887,6 @@
     "XVector",
     "Biostrings",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -10143,7 +9939,6 @@
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
-    "BiocIO",
     "SparseArray"
   ],
   "TargetDecoy": [
@@ -10185,7 +9980,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -10243,7 +10037,6 @@
     "SparseArray",
     "XVector"
   ],
-  "TurboNorm": [],
   "UCell": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -10272,7 +10065,6 @@
     "GenomicFeatures",
     "AnnotationDbi",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "pwalign",
     "S4Arrays",
@@ -10294,7 +10086,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -10314,7 +10105,6 @@
     "IRanges",
     "KEGGREST",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "SummarizedExperiment",
@@ -10346,7 +10136,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -10386,8 +10175,7 @@
     "AnnotationDbi",
     "BSgenome",
     "GenomicFeatures",
-    "KEGGREST",
-    "BiocIO"
+    "KEGGREST"
   ],
   "VDJdive": [
     "IRanges",
@@ -10412,7 +10200,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "genefilter",
@@ -10434,7 +10221,6 @@
     "Biostrings",
     "S4Arrays",
     "DelayedArray",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "SparseArray",
@@ -10447,7 +10233,6 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -10469,7 +10254,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -10505,7 +10289,6 @@
     "Gviz",
     "XVector",
     "KEGGREST",
-    "BiocIO",
     "rtracklayer",
     "AnnotationHub",
     "DelayedArray",
@@ -10529,7 +10312,6 @@
     "GenomeInfoDb",
     "BSgenome",
     "XVector",
-    "BiocIO",
     "AnnotationDbi",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -10549,7 +10331,6 @@
   ],
   "VisiumIO": [
     "TENxIO",
-    "BiocIO",
     "SingleCellExperiment",
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -10614,7 +10395,6 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -10659,7 +10439,6 @@
     "AnnotationDbi",
     "rtracklayer",
     "GenomicFeatures",
-    "BiocIO",
     "biovizBase",
     "GenomicAlignments",
     "OrganismDbi",
@@ -10689,8 +10468,7 @@
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
-    "KEGGREST",
-    "BiocIO"
+    "KEGGREST"
   ],
   "a4": [
     "a4Base",
@@ -10742,7 +10520,6 @@
     "XVector"
   ],
   "affxparser": [],
-  "affyContam": [],
   "affyILM": [
     "gcrma",
     "affxparser",
@@ -10794,7 +10571,6 @@
     "AnnotationFilter",
     "S4Arrays",
     "DelayedArray",
-    "BiocIO",
     "SparseArray",
     "txdbmaker",
     "biomaRt"
@@ -10870,7 +10646,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "GenomicAlignments"
   ],
   "alabaster.base": [],
@@ -10998,7 +10773,6 @@
     "SparseArray",
     "HDF5Array",
     "KEGGREST",
-    "BiocIO",
     "GenomicAlignments"
   ],
   "altcdfenvs": [
@@ -11078,7 +10852,6 @@
     "BSgenome",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -11128,7 +10901,6 @@
     "SummarizedExperiment",
     "XVector",
     "GenomeInfoDb",
-    "BiocIO",
     "rtracklayer",
     "AnnotationDbi",
     "AnnotationHub",
@@ -11144,7 +10916,6 @@
     "biomaRt"
   ],
   "arrayMvout": [
-    "affyContam",
     "lumi",
     "methylumi",
     "GenomicFeatures",
@@ -11167,7 +10938,6 @@
     "HDF5Array",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "SparseArray"
   ],
@@ -11200,7 +10970,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "Biostrings",
-    "BiocIO",
     "rtracklayer",
     "XVector",
     "Rsamtools",
@@ -11233,8 +11002,7 @@
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
-    "SparseArray",
-    "BiocIO"
+    "SparseArray"
   ],
   "attract": [
     "AnnotationDbi",
@@ -11284,7 +11052,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "genefilter",
     "edgeR",
     "AnnotationDbi",
@@ -11305,7 +11072,6 @@
     "GenomicRanges",
     "Rsamtools",
     "Biostrings",
-    "BiocIO",
     "rtracklayer",
     "XVector",
     "AnnotationDbi",
@@ -11519,8 +11285,7 @@
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "bioCancer": [
     "cBioPortalData",
@@ -11549,8 +11314,7 @@
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "biocGraph": [
     "Rgraphviz",
@@ -11594,7 +11358,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "AnnotationFilter",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -11641,7 +11404,6 @@
     "S4Arrays",
     "DelayedArray",
     "BSgenome",
-    "BiocIO",
     "SparseArray"
   ],
   "biscuiteer": [
@@ -11672,7 +11434,6 @@
     "OrganismDbi",
     "GenomicFeatures",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "regioneR",
     "RBGL",
@@ -11761,7 +11522,6 @@
     "beachmat",
     "XVector",
     "SparseArray",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "S4Arrays",
@@ -11779,7 +11539,6 @@
     "BSgenome",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
     "S4Arrays",
@@ -11837,7 +11596,6 @@
     "beachmat",
     "SparseArray",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "S4Arrays",
@@ -11855,7 +11613,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -11881,8 +11638,7 @@
     "Biostrings",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "cTRAP": [
     "AnnotationDbi",
@@ -11916,7 +11672,6 @@
     "AnnotationDbi",
     "AnnotationFilter",
     "KEGGREST",
-    "BiocIO",
     "RBGL",
     "txdbmaker",
     "S4Arrays",
@@ -11955,8 +11710,7 @@
     "Biostrings",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "cardelino": [
     "GenomeInfoDb",
@@ -11972,7 +11726,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -11989,7 +11742,6 @@
     "XVector",
     "Biostrings",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
     "S4Arrays",
@@ -12036,8 +11788,7 @@
     "Biostrings",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "ccImpute": [
     "SingleCellExperiment",
@@ -12146,7 +11897,6 @@
     "Biostrings",
     "XVector",
     "rtracklayer",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -12211,7 +11961,6 @@
     "BSgenome",
     "biovizBase",
     "VariantAnnotation",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -12227,7 +11976,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -12275,7 +12023,6 @@
     "SummarizedExperiment",
     "BSgenome",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "S4Arrays",
     "DelayedArray",
@@ -12325,7 +12072,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "AnnotationFilter",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -12344,7 +12090,6 @@
     "BSgenome",
     "AnnotationDbi",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "SummarizedExperiment",
     "GenomicFeatures",
@@ -12362,7 +12107,6 @@
     "GenomeInfoDb",
     "IRanges",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -12385,7 +12129,6 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -12409,7 +12152,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -12544,7 +12286,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -12597,7 +12338,6 @@
     "KEGGREST",
     "VariantAnnotation",
     "AnnotationFilter",
-    "BiocIO",
     "SparseArray"
   ],
   "combi": [
@@ -12632,7 +12372,6 @@
     "ensembldb",
     "BSgenome",
     "biovizBase",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "VariantAnnotation",
@@ -12712,7 +12451,6 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "BiocIO",
     "pwalign"
   ],
   "consensusSeekeR": [
@@ -12724,7 +12462,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -12747,7 +12484,6 @@
     "HDF5Array",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "GenomicFeatures",
     "AnnotationDbi",
     "S4Arrays",
@@ -12853,7 +12589,6 @@
     "KEGGREST",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -12874,7 +12609,6 @@
     "GenomicRanges",
     "IRanges",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -12890,7 +12624,6 @@
     "IRanges",
     "GenomicRanges",
     "Biostrings",
-    "BiocIO",
     "rtracklayer",
     "XVector",
     "Rsamtools",
@@ -12916,7 +12649,6 @@
     "VariantAnnotation",
     "KEGGREST",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "biomaRt",
@@ -12949,7 +12681,6 @@
     "IRanges",
     "XVector",
     "GenomicRanges",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
@@ -12992,7 +12723,6 @@
     "AnnotationHub",
     "Gviz",
     "KEGGREST",
-    "BiocIO",
     "Rsamtools",
     "biomaRt",
     "ensembldb",
@@ -13016,7 +12746,6 @@
     "IRanges",
     "txdbmaker",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
@@ -13086,7 +12815,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "GenomeInfoDb",
-    "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
     "VariantAnnotation",
@@ -13120,7 +12848,6 @@
     "KEGGREST",
     "XVector",
     "SummarizedExperiment",
-    "BiocIO",
     "BSgenome",
     "S4Arrays",
     "DelayedArray",
@@ -13254,7 +12981,6 @@
     "DirichletMultinomial",
     "GenomicRanges",
     "rtracklayer",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "annotate",
@@ -13361,7 +13087,6 @@
     "DelayedArray",
     "Rsamtools",
     "KEGGREST",
-    "BiocIO",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -13411,7 +13136,6 @@
     "SparseArray",
     "annotate",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST"
   ],
   "deepSNV": [
@@ -13430,7 +13154,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -13464,7 +13187,6 @@
     "XVector",
     "BSgenome",
     "KEGGREST",
-    "BiocIO",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -13485,7 +13207,6 @@
     "Biostrings",
     "XVector",
     "VariantAnnotation",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "BSgenome",
@@ -13518,7 +13239,6 @@
     "ensembldb",
     "AnnotationFilter",
     "KEGGREST",
-    "BiocIO",
     "RBGL",
     "txdbmaker",
     "S4Arrays",
@@ -13550,7 +13270,6 @@
     "GenomeInfoDb",
     "rtracklayer",
     "XVector",
-    "BiocIO",
     "metapod",
     "GenomicAlignments",
     "S4Arrays",
@@ -13578,7 +13297,6 @@
     "Biostrings",
     "XVector",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -13684,7 +13402,6 @@
     "XVector",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "S4Arrays"
   ],
@@ -13741,7 +13458,6 @@
     "pwalign",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -13790,7 +13506,6 @@
     "KEGGREST",
     "XVector",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -13842,7 +13557,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -13883,7 +13597,6 @@
     "pwalign",
     "rtracklayer",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "TFBSTools",
     "SummarizedExperiment",
@@ -13932,7 +13645,6 @@
     "KEGGREST",
     "XVector",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -13958,7 +13670,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -13995,7 +13706,6 @@
     "GenomicAlignments",
     "BSgenome",
     "Biostrings",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -14029,7 +13739,6 @@
     "GEOquery",
     "DelayedArray",
     "HDF5Array",
-    "BiocIO",
     "S4Arrays",
     "VariantAnnotation",
     "SparseArray",
@@ -14071,7 +13780,6 @@
     "alabaster.base",
     "KEGGREST",
     "ScaledMatrix",
-    "BiocIO",
     "rtracklayer",
     "annotate",
     "pwalign",
@@ -14140,7 +13848,6 @@
     "DelayedArray",
     "SparseArray",
     "GenomicAlignments",
-    "BiocIO",
     "biomaRt"
   ],
   "epivizrChart": [
@@ -14165,7 +13872,6 @@
     "KEGGREST",
     "SparseArray",
     "GenomicAlignments",
-    "BiocIO",
     "biomaRt"
   ],
   "epivizrData": [
@@ -14189,7 +13895,6 @@
     "KEGGREST",
     "SparseArray",
     "GenomicAlignments",
-    "BiocIO",
     "biomaRt"
   ],
   "epivizrStandalone": [
@@ -14210,7 +13915,6 @@
     "ensembldb",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "AnnotationFilter",
     "RBGL",
     "txdbmaker",
@@ -14238,7 +13942,6 @@
     "OrganismDbi",
     "GenomicFeatures",
     "Biostrings",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
@@ -14267,7 +13970,6 @@
     "motifmatchr",
     "KEGGREST",
     "XVector",
-    "BiocIO",
     "enrichplot",
     "DOSE",
     "GOSemSim",
@@ -14348,7 +14050,6 @@
   "extraChIPs": [
     "GenomicRanges",
     "SummarizedExperiment",
-    "BiocIO",
     "csaw",
     "edgeR",
     "GenomeInfoDb",
@@ -14388,7 +14089,6 @@
     "seqPattern",
     "rtracklayer",
     "XVector",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -14406,7 +14106,6 @@
     "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
     "S4Arrays",
@@ -14451,7 +14150,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
@@ -14487,8 +14185,7 @@
     "S4Arrays",
     "SparseArray",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "fgga": [
     "RBGL"
@@ -14698,8 +14395,7 @@
     "KEGGREST",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "gCrisprTools": [
     "SummarizedExperiment",
@@ -14731,7 +14427,6 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "BiocIO",
     "BSgenome"
   ],
   "gDR": [
@@ -14822,8 +14517,7 @@
     "S4Arrays",
     "SparseArray",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "gage": [
     "KEGGREST",
@@ -14852,7 +14546,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "SummarizedExperiment",
     "S4Arrays",
@@ -14886,7 +14579,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
     "S4Arrays",
@@ -14910,7 +14602,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -14945,7 +14636,6 @@
     "seqPattern",
     "rtracklayer",
     "XVector",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -14988,7 +14678,6 @@
     "ensembldb",
     "BSgenome",
     "biovizBase",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "VariantAnnotation",
@@ -15046,7 +14735,6 @@
     "AnnotationFilter",
     "KEGGREST",
     "XVector",
-    "BiocIO",
     "RBGL",
     "txdbmaker",
     "S4Arrays",
@@ -15170,8 +14858,7 @@
     "Biostrings",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "globaltest": [
     "AnnotationDbi",
@@ -15194,7 +14881,6 @@
     "BSgenome",
     "GenomicAlignments",
     "XVector",
-    "BiocIO",
     "SummarizedExperiment",
     "AnnotationDbi",
     "KEGGREST",
@@ -15215,7 +14901,6 @@
     "XVector",
     "SummarizedExperiment",
     "AnnotationDbi",
-    "BiocIO",
     "KEGGREST",
     "S4Arrays",
     "DelayedArray",
@@ -15272,7 +14957,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "biomaRt",
     "S4Arrays",
@@ -15299,7 +14983,6 @@
     "Biostrings",
     "Rsamtools",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -15345,7 +15028,6 @@
     "SummarizedExperiment",
     "Rsamtools",
     "BSgenome",
-    "BiocIO",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -15367,7 +15049,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -15427,7 +15108,6 @@
     "IRanges",
     "GenomeInfoDb",
     "Biostrings",
-    "BiocIO",
     "XVector",
     "Rsamtools",
     "GenomicAlignments",
@@ -15449,7 +15129,6 @@
     "Rsamtools",
     "rtracklayer",
     "BSgenome",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -15465,7 +15144,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -15531,7 +15209,6 @@
     "XVector",
     "BSgenome",
     "GenomicRanges",
-    "BiocIO",
     "rtracklayer",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -15562,7 +15239,6 @@
     "HDF5Array",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "SparseArray"
   ],
@@ -15600,7 +15276,6 @@
     "graphite",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "biomaRt"
   ],
   "iSEE": [
@@ -15771,7 +15446,6 @@
     "GenomeInfoDb",
     "metapod",
     "AnnotationDbi",
-    "BiocIO",
     "pwalign",
     "S4Arrays",
     "DelayedArray",
@@ -15812,7 +15486,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "biomaRt"
   ],
   "idiogram": [
@@ -15847,7 +15520,6 @@
     "Biostrings",
     "Rsamtools",
     "XVector",
-    "BiocIO",
     "AnnotationDbi",
     "BSgenome",
     "GenomicFeatures",
@@ -15936,7 +15608,6 @@
     "AnnotationDbi",
     "AnnotationFilter",
     "KEGGREST",
-    "BiocIO",
     "RBGL",
     "txdbmaker",
     "S4Arrays",
@@ -16023,7 +15694,6 @@
     "AnnotationFilter",
     "XVector",
     "BSgenome",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -16036,7 +15706,6 @@
     "plyranges",
     "VariantAnnotation",
     "Biostrings",
-    "BiocIO",
     "rtracklayer",
     "XVector",
     "Rsamtools",
@@ -16080,7 +15749,6 @@
     "XVector",
     "S4Arrays",
     "SparseArray",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -16157,7 +15825,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -16236,7 +15903,6 @@
     "HDF5Array",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "SparseArray"
   ],
@@ -16268,7 +15934,6 @@
     "ExperimentHub",
     "XVector",
     "GenomeInfoDb",
-    "BiocIO",
     "Rsamtools",
     "AnnotationHub",
     "GenomicAlignments",
@@ -16314,7 +15979,6 @@
     "KEGGREST",
     "VariantAnnotation",
     "AnnotationFilter",
-    "BiocIO",
     "SparseArray",
     "RBGL",
     "txdbmaker"
@@ -16353,7 +16017,6 @@
     "XVector",
     "Biostrings",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -16375,8 +16038,7 @@
     "rtracklayer",
     "GenomicAlignments",
     "Rsamtools",
-    "Biostrings",
-    "BiocIO"
+    "Biostrings"
   ],
   "marr": [
     "SummarizedExperiment",
@@ -16404,7 +16066,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
     "VariantAnnotation",
@@ -16538,7 +16199,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -16566,7 +16226,6 @@
     "bsseq",
     "ShortRead",
     "annotate",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -16588,7 +16247,6 @@
     "rtracklayer",
     "Biostrings",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -16620,7 +16278,6 @@
     "regioneR",
     "biocViews",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "S4Arrays",
     "SparseArray",
@@ -16651,7 +16308,6 @@
     "IRanges",
     "GenomeInfoDb",
     "Biostrings",
-    "BiocIO",
     "XVector",
     "Rsamtools",
     "S4Arrays",
@@ -16694,7 +16350,6 @@
     "Rsamtools",
     "KEGGREST",
     "SparseArray",
-    "BiocIO",
     "S4Arrays"
   ],
   "methylGSA": [
@@ -16725,8 +16380,7 @@
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "methylInheritance": [
     "methylKit",
@@ -16739,7 +16393,6 @@
     "rtracklayer",
     "Biostrings",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -16755,7 +16408,6 @@
     "XVector",
     "Biostrings",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -16786,7 +16438,6 @@
     "KEGGREST",
     "VariantAnnotation",
     "AnnotationFilter",
-    "BiocIO",
     "SparseArray"
   ],
   "methylSig": [
@@ -16805,7 +16456,6 @@
     "S4Arrays",
     "SparseArray",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -16843,7 +16493,6 @@
     "RBGL",
     "txdbmaker",
     "GenomicAlignments",
-    "BiocIO",
     "biomaRt"
   ],
   "methylscaper": [
@@ -16880,8 +16529,7 @@
     "S4Arrays",
     "SparseArray",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "miQC": [
     "SingleCellExperiment",
@@ -17155,8 +16803,7 @@
     "KEGGREST",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "mirIntegrator": [
     "ROntoTools",
@@ -17192,8 +16839,7 @@
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "missRows": [
     "MultiAssayExperiment",
@@ -17224,7 +16870,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -17258,7 +16903,6 @@
     "XVector",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -17285,7 +16929,6 @@
     "ComplexHeatmap",
     "XVector",
     "GenomeInfoDb",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "S4Arrays",
@@ -17340,7 +16983,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "biomaRt"
   ],
   "motifStack": [
@@ -17355,7 +16997,6 @@
     "DirichletMultinomial",
     "GenomicRanges",
     "rtracklayer",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "annotate",
@@ -17390,7 +17031,6 @@
     "biomaRt",
     "AnnotationDbi",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "GenomicFeatures",
     "ensembldb",
@@ -17422,7 +17062,6 @@
     "Rsamtools",
     "GenomeInfoDb",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "S4Arrays",
     "DelayedArray",
@@ -17486,7 +17125,6 @@
     "Rsamtools",
     "SummarizedExperiment",
     "Biostrings",
-    "BiocIO",
     "rtracklayer",
     "XVector",
     "biomaRt",
@@ -17620,7 +17258,6 @@
     "rtracklayer",
     "IRanges",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "DelayedArray",
     "AnnotationDbi",
@@ -17707,7 +17344,6 @@
     "decompTumor2Sig",
     "ComplexHeatmap",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
@@ -17727,7 +17363,6 @@
     "XVector",
     "Biostrings",
     "rtracklayer",
-    "BiocIO",
     "biomaRt",
     "KEGGREST",
     "Rsamtools",
@@ -17751,7 +17386,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -17799,7 +17433,6 @@
     "XVector",
     "GenomicAlignments",
     "Biostrings",
-    "BiocIO",
     "GenomicFeatures",
     "AnnotationDbi",
     "KEGGREST",
@@ -17873,8 +17506,7 @@
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "netboost": [
     "AnnotationDbi",
@@ -17927,7 +17559,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -17973,7 +17604,6 @@
     "GenomicAlignments",
     "Rsamtools",
     "Biostrings",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -18012,8 +17642,7 @@
     "rtracklayer",
     "annotate",
     "GenomicAlignments",
-    "pwalign",
-    "BiocIO"
+    "pwalign"
   ],
   "odseq": [
     "msa",
@@ -18319,7 +17948,6 @@
     "BSgenome",
     "SummarizedExperiment",
     "Rsamtools",
-    "BiocIO",
     "rtracklayer",
     "S4Arrays",
     "DelayedArray",
@@ -18459,8 +18087,7 @@
     "Biostrings",
     "txdbmaker",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "pdInfoBuilder": [
     "affxparser",
@@ -18523,7 +18150,6 @@
     "rtracklayer",
     "GenomeInfoDb",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -18639,7 +18265,6 @@
     "IRanges",
     "XVector",
     "GenomicRanges",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -18670,7 +18295,6 @@
     "Rsamtools",
     "SummarizedExperiment",
     "Biostrings",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -18687,7 +18311,6 @@
     "GenomicAlignments",
     "Rsamtools",
     "Biostrings",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -18702,7 +18325,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -18735,7 +18357,6 @@
     "Biostrings",
     "BSgenome",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -18779,7 +18400,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -18812,7 +18432,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -18839,7 +18458,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "pwalign",
     "CNEr",
     "DirichletMultinomial",
@@ -18868,7 +18486,6 @@
     "rtracklayer",
     "S4Arrays",
     "DelayedArray",
-    "BiocIO",
     "biomaRt",
     "SparseArray"
   ],
@@ -18885,7 +18502,6 @@
     "GenomeInfoDb",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "biomaRt",
     "SummarizedExperiment",
     "S4Arrays",
@@ -18927,7 +18543,6 @@
     "XVector",
     "Biostrings",
     "GenomicAlignments",
-    "BiocIO",
     "chipseq",
     "S4Arrays",
     "DelayedArray",
@@ -18972,7 +18587,6 @@
     "Rsamtools",
     "XVector",
     "Biostrings",
-    "BiocIO",
     "VariantAnnotation",
     "BSgenome"
   ],
@@ -19058,7 +18672,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -19073,7 +18686,6 @@
     "IRanges",
     "GenomeInfoDb",
     "XVector",
-    "BiocIO",
     "GenomicAlignments",
     "SummarizedExperiment",
     "S4Arrays",
@@ -19146,8 +18758,7 @@
     "KEGGREST",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "r3Cseq": [
     "GenomicRanges",
@@ -19158,7 +18769,6 @@
     "Biostrings",
     "XVector",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -19182,7 +18792,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -19195,7 +18804,6 @@
     "GenomicRanges",
     "XVector",
     "GenomeInfoDb",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -19216,7 +18824,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -19274,7 +18881,6 @@
     "GenomeInfoDb",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -19293,7 +18899,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "XVector",
-    "BiocIO",
     "AnnotationDbi",
     "DelayedArray",
     "S4Arrays",
@@ -19361,7 +18966,6 @@
     "Rsamtools",
     "XVector",
     "Biostrings",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "KEGGREST",
@@ -19379,7 +18983,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -19406,8 +19009,7 @@
     "KEGGREST",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "recoup": [
     "GenomicRanges",
@@ -19424,7 +19026,6 @@
     "AnnotationDbi",
     "XVector",
     "SummarizedExperiment",
-    "BiocIO",
     "KEGGREST",
     "S4Arrays",
     "DelayedArray",
@@ -19454,7 +19055,6 @@
     "SparseArray",
     "Biostrings",
     "VariantAnnotation",
-    "BiocIO",
     "BSgenome"
   ],
   "regionalpcs": [
@@ -19479,7 +19079,6 @@
     "rtracklayer",
     "GenomeInfoDb",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -19496,7 +19095,6 @@
     "rtracklayer",
     "GenomeInfoDb",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -19537,7 +19135,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "AnnotationFilter",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -19575,8 +19172,7 @@
     "XVector",
     "Biostrings",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "rhdf5client": [
     "DelayedArray",
@@ -19601,7 +19197,6 @@
     "XVector",
     "Biostrings"
   ],
-  "ribor": [],
   "ribosomeProfilingQC": [
     "GenomicRanges",
     "AnnotationDbi",
@@ -19619,7 +19214,6 @@
     "XVector",
     "txdbmaker",
     "KEGGREST",
-    "BiocIO",
     "ShortRead",
     "biomaRt",
     "SummarizedExperiment",
@@ -19643,7 +19237,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -19658,7 +19251,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -19672,7 +19264,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -19691,7 +19282,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -19707,7 +19297,6 @@
     "Biostrings",
     "Rsamtools",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -19760,7 +19349,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -19872,7 +19460,6 @@
     "ensembldb",
     "BSgenome",
     "biovizBase",
-    "BiocIO",
     "VariantAnnotation",
     "AnnotationFilter"
   ],
@@ -20022,7 +19609,6 @@
     "XVector",
     "Biostrings",
     "GenomicAlignments",
-    "BiocIO",
     "edgeR",
     "metapod"
   ],
@@ -20097,7 +19683,6 @@
     "XVector",
     "annotate",
     "GenomicAlignments",
-    "BiocIO",
     "scuttle",
     "bluster",
     "metapod"
@@ -20201,7 +19786,6 @@
     "edgeR",
     "beachmat",
     "scuttle",
-    "BiocIO",
     "S4Arrays"
   ],
   "scRNAseqApp": [
@@ -20216,7 +19800,6 @@
     "XVector",
     "Biostrings",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "DelayedArray",
     "TrajectoryUtils",
@@ -20327,7 +19910,6 @@
     "txdbmaker",
     "KEGGREST",
     "GenomicAlignments",
-    "BiocIO",
     "biomaRt"
   ],
   "scanMiR": [
@@ -20355,7 +19937,6 @@
     "XVector",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "pwalign",
     "biomaRt",
     "SummarizedExperiment",
@@ -20464,7 +20045,6 @@
     "regioneR",
     "rtracklayer",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "DelayedMatrixStats",
     "beachmat",
@@ -20496,8 +20076,7 @@
     "KEGGREST",
     "rtracklayer",
     "GenomicAlignments",
-    "pwalign",
-    "BiocIO"
+    "pwalign"
   ],
   "scoreInvHap": [
     "Biostrings",
@@ -20515,7 +20094,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -20600,7 +20178,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationFilter",
-    "BiocIO",
     "pwalign",
     "DelayedArray",
     "S4Arrays",
@@ -20699,8 +20276,7 @@
     "GOSemSim",
     "Biostrings",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "selectKSigs": [
     "HiLDA",
@@ -20714,7 +20290,6 @@
     "AnnotationDbi",
     "rtracklayer",
     "KEGGREST",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -20750,7 +20325,6 @@
     "seqArchR",
     "seqPattern",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
@@ -20776,7 +20350,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
@@ -20802,7 +20375,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "XVector",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -20833,7 +20405,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -20860,8 +20431,7 @@
     "KEGGREST",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "shinyepico": [
     "GenomicRanges",
@@ -20880,7 +20450,6 @@
     "HDF5Array",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "GenomicFeatures",
     "AnnotationDbi",
     "S4Arrays",
@@ -20931,7 +20500,6 @@
     "rtracklayer",
     "BSgenome",
     "XVector",
-    "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -21041,8 +20609,7 @@
     "alabaster.ranges",
     "KEGGREST",
     "XVector",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "singscore": [
     "GSEABase",
@@ -21073,7 +20640,6 @@
     "AnnotationDbi",
     "XVector",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
     "S4Arrays",
@@ -21112,8 +20678,7 @@
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "slalom": [
     "GSEABase",
@@ -21187,7 +20752,6 @@
     "chipseq",
     "XVector",
     "ShortRead",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
@@ -21211,7 +20775,6 @@
     "DelayedMatrixStats",
     "edgeR",
     "GSEABase",
-    "BiocIO",
     "AnnotationDbi",
     "KEGGREST",
     "IRanges",
@@ -21275,7 +20838,6 @@
     "SummarizedExperiment",
     "TFBSTools",
     "Biostrings",
-    "BiocIO",
     "rtracklayer",
     "XVector",
     "Rsamtools",
@@ -21337,7 +20899,6 @@
     "GenomeInfoDb",
     "BSgenome",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "SummarizedExperiment",
     "S4Arrays",
@@ -21504,8 +21065,7 @@
     "KEGGREST",
     "rtracklayer",
     "GenomicAlignments",
-    "pwalign",
-    "BiocIO"
+    "pwalign"
   ],
   "strandCheckR": [
     "GenomeInfoDb",
@@ -21522,8 +21082,7 @@
     "rtracklayer",
     "S4Arrays",
     "DelayedArray",
-    "SparseArray",
-    "BiocIO"
+    "SparseArray"
   ],
   "struct": [
     "SummarizedExperiment",
@@ -21613,7 +21172,6 @@
     "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "BSgenome",
     "KEGGREST",
@@ -21634,7 +21192,6 @@
     "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "pwalign",
     "SummarizedExperiment",
     "BSgenome",
@@ -21682,7 +21239,6 @@
     "GenomeInfoDb",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -21728,7 +21284,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "BiocIO",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -21764,7 +21319,6 @@
     "rtracklayer",
     "BSgenome",
     "Rsamtools",
-    "BiocIO",
     "GenomicAlignments",
     "Modstrings",
     "SummarizedExperiment",
@@ -21809,7 +21363,6 @@
     "SummarizedExperiment",
     "KEGGREST",
     "AnnotationFilter",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -21856,15 +21409,13 @@
     "Biostrings",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "tidyCoverage": [
     "SummarizedExperiment",
     "IRanges",
     "GenomicRanges",
     "GenomeInfoDb",
-    "BiocIO",
     "rtracklayer",
     "XVector",
     "Biostrings",
@@ -21938,7 +21489,6 @@
     "SingleCellExperiment",
     "Biostrings",
     "XVector",
-    "BiocIO",
     "DelayedArray",
     "S4Arrays",
     "SparseArray"
@@ -22033,7 +21583,6 @@
     "ensembldb",
     "BSgenome",
     "biovizBase",
-    "BiocIO",
     "VariantAnnotation",
     "AnnotationFilter",
     "S4Arrays",
@@ -22076,7 +21625,6 @@
     "Biostrings",
     "AnnotationDbi",
     "XVector",
-    "BiocIO",
     "KEGGREST",
     "pwalign",
     "S4Arrays",
@@ -22125,7 +21673,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "XVector",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
@@ -22150,7 +21697,6 @@
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
-    "BiocIO",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -22247,7 +21793,6 @@
     "GenomeInfoDb",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "biomaRt",
     "SummarizedExperiment",
     "S4Arrays",
@@ -22260,7 +21805,6 @@
     "GenomicFeatures",
     "IRanges",
     "AnnotationDbi",
-    "BiocIO",
     "rtracklayer",
     "biomaRt",
     "KEGGREST",
@@ -22291,7 +21835,6 @@
     "Rsamtools",
     "S4Arrays",
     "DelayedArray",
-    "BiocIO",
     "biomaRt",
     "SparseArray",
     "GenomicAlignments"
@@ -22324,7 +21867,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "AnnotationFilter",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -22403,7 +21945,6 @@
     "SummarizedExperiment",
     "Rsamtools",
     "BSgenome",
-    "BiocIO",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -22440,7 +21981,6 @@
     "XVector",
     "AnnotationFilter",
     "BSgenome",
-    "BiocIO",
     "S4Arrays",
     "DelayedArray",
     "ShortRead",
@@ -22481,8 +22021,7 @@
     "S4Arrays",
     "SparseArray",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "wavClusteR": [
     "GenomicRanges",
@@ -22495,7 +22034,6 @@
     "GenomeInfoDb",
     "AnnotationDbi",
     "GenomicAlignments",
-    "BiocIO",
     "KEGGREST",
     "SummarizedExperiment",
     "S4Arrays",
@@ -22532,7 +22070,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocIO",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -22593,7 +22130,6 @@
     "S4Arrays",
     "GenomicRanges",
     "GenomeInfoDb",
-    "BiocIO",
     "XVector"
   ],
   "yamss": [
@@ -22632,8 +22168,7 @@
     "annotate",
     "rtracklayer",
     "Rsamtools",
-    "GenomicAlignments",
-    "BiocIO"
+    "GenomicAlignments"
   ],
   "zFPKM": [
     "SummarizedExperiment",

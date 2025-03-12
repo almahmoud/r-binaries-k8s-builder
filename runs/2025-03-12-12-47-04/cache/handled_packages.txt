@@ -37,6 +37,7 @@ BiocBook
 BiocFHIR
 BiocFileCache
 BiocGenerics
+BiocIO
 BiocNeighbors
 BiocParallel
 BiocStyle
@@ -60,6 +61,7 @@ COMPASS
 CONSTANd
 COSNet
 CRImage
+CTDquerier
 Cardinal
 CardinalIO
 CausalR
@@ -305,6 +307,7 @@ TargetScore
 TargetSearch
 TrajectoryGeometry
 TreeAndLeaf
+TurboNorm
 UCSC.utils
 UNDO
 VERSO
@@ -320,6 +323,7 @@ abseqR
 acde
 affxparser
 affy
+affyContam
 affycomp
 affyio
 agilp
@@ -571,6 +575,7 @@ rexposome
 rgoslin
 rhdf5
 rhdf5filters
+ribor
 rmelting
 rnaseqcomp
 roastgsa
