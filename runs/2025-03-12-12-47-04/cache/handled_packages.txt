@@ -114,6 +114,7 @@ ClustAll
 ClusterJudge
 ClusterSignificance
 CoCiteStats
+CoSIA
 ComPrAn
 ComplexHeatmap
 ConsensusClusterPlus
@@ -567,6 +568,7 @@ alabaster.files
 alabaster.matrix
 alabaster.ranges
 alabaster.schemas
+alabaster.se
 alabaster.string
 alevinQC
 altcdfenvs
@@ -642,6 +644,7 @@ codelink
 cogena
 cogeqc
 cola
+combi
 compSPOT
 compcodeR
 consensus
@@ -779,6 +782,7 @@ ginmappeR
 globalSeq
 globaltest
 goProfiles
+goSTAG
 gpls
 gpuMagic
 granulator
@@ -1008,6 +1012,7 @@ rsemmed
 runibic
 sSeq
 sagenhaft
+sampleClassifier
 sangeranalyseR
 sangerseqR
 sarks

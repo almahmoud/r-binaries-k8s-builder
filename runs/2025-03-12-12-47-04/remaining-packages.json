@@ -594,7 +594,6 @@
   "CoGAPS": [
     "SingleCellExperiment"
   ],
-  "CoSIA": [],
   "Cogito": [
     "GenomicFeatures",
     "rtracklayer"
@@ -2659,7 +2658,6 @@
     "ScaledMatrix"
   ],
   "alabaster": [
-    "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
@@ -2673,23 +2671,18 @@
     "GenomicFeatures"
   ],
   "alabaster.mae": [
-    "MultiAssayExperiment",
-    "alabaster.se"
+    "MultiAssayExperiment"
   ],
   "alabaster.sce": [
-    "SingleCellExperiment",
-    "alabaster.se"
+    "SingleCellExperiment"
   ],
-  "alabaster.se": [],
   "alabaster.spatial": [
     "SpatialExperiment",
     "alabaster.sce",
-    "SingleCellExperiment",
-    "alabaster.se"
+    "SingleCellExperiment"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
-    "alabaster.se",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures"
@@ -3075,7 +3068,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "combi": [],
   "compEpiTools": [
     "topGO",
     "GenomicFeatures",
@@ -3747,7 +3739,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "goSTAG": [],
   "goSorensen": [],
   "goTools": [],
   "goseq": [
@@ -4898,7 +4889,6 @@
   "sRACIPE": [],
   "sSNAPPY": [],
   "safe": [],
-  "sampleClassifier": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -5253,7 +5243,6 @@
     "BiocSingular",
     "ScaledMatrix",
     "beachmat",
-    "alabaster.se",
     "GenomicFeatures",
     "AnnotationFilter",
     "rtracklayer",
