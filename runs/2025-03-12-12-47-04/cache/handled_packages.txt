@@ -17,10 +17,13 @@ AnVILAz
 AnVILBase
 AnVILBilling
 AnVILGCP
+AnVILPublish
+AnVILWorkflow
 BADER
 BAGS
 BEclear
 BG2
+BUS
 BaseSpaceR
 BayesKnockdown
 BeadDataPackR
@@ -197,6 +200,7 @@ SamSPECTRAL
 SpaceMarkers
 SpeCond
 SwathXtend
+TPP
 TSAR
 TargetScore
 TargetSearch
@@ -250,6 +254,7 @@ cellscape
 cellxgenedp
 clippda
 clst
+clstutils
 clustComp
 clusterStab
 coGPS
@@ -340,7 +345,9 @@ iSeq
 ibh
 illuminaio
 immunotation
+interacCircos
 iterativeBMA
+iterativeBMAsurv
 lapmix
 limma
 limmaGUI
@@ -359,6 +366,7 @@ metagenomeSeq
 mfa
 mgsa
 miRBaseConverter
+miRNApath
 miRcomp
 mina
 minet
@@ -405,6 +413,7 @@ randRotation
 rbsurv
 rcellminer
 rgoslin
+rhdf5filters
 rmelting
 rnaseqcomp
 roastgsa

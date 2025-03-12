@@ -466,3 +466,12 @@ Rhtslib
 SUITOR
 TreeAndLeaf
 XINA
+AnVILPublish
+AnVILWorkflow
+BUS
+clstutils
+interacCircos
+iterativeBMAsurv
+miRNApath
+rhdf5filters
+TPP
