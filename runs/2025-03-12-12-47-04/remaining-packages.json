@@ -2654,7 +2654,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "MEDME": [],
   "MGFM": [
     "AnnotationDbi",
     "annotate"
@@ -3400,7 +3399,6 @@
     "SummarizedExperiment",
     "AnnotationFilter"
   ],
-  "PWMEnrich": [],
   "PanomiR": [
     "clusterProfiler",
     "GSEABase",
@@ -3831,7 +3829,6 @@
     "HDF5Array",
     "GenomicAlignments"
   ],
-  "Rarr": [],
   "Rbec": [
     "dada2",
     "ShortRead",
@@ -4112,7 +4109,6 @@
   "SDAMS": [
     "SummarizedExperiment"
   ],
-  "SELEX": [],
   "SEtools": [
     "SummarizedExperiment",
     "sechm",
@@ -9610,13 +9606,11 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "seqArchR": [],
   "seqArchRplus": [
     "BSgenome",
     "ChIPseeker",
     "clusterProfiler",
     "heatmaps",
-    "seqArchR",
     "seqPattern",
     "rtracklayer",
     "Rsamtools",
@@ -9959,7 +9953,6 @@
   "ssPATHS": [
     "SummarizedExperiment"
   ],
-  "sscu": [],
   "ssviz": [
     "Rsamtools"
   ],

@@ -216,6 +216,7 @@ MAPFX
 MBAmethyl
 MBCB
 MBttest
+MEDME
 MEIGOR
 MMUPHin
 MOGAMUN
@@ -277,6 +278,7 @@ PCAN
 PLPE
 PROPER
 PROcess
+PWMEnrich
 Path2PPI
 PathNet
 Pedixplorer
@@ -322,6 +324,7 @@ RUVcorr
 RUVnormalize
 RVS
 RankProd
+Rarr
 RbcBook1
 Rbowtie
 Rbwa
@@ -350,6 +353,7 @@ SANTA
 SBMLR
 SCBN
 SCFA
+SELEX
 SIMAT
 SIMD
 SIMLR
@@ -584,6 +588,7 @@ iPath
 iSeq
 ibh
 illuminaio
+immunoClust
 immunotation
 impute
 infinityFlow
@@ -747,6 +752,7 @@ scoup
 seahtrue
 semisup
 seq.hotSPOT
+seqArchR
 seqLogo
 seqTools
 seqcombo
@@ -769,6 +775,7 @@ specL
 spikeLI
 spkTools
 splots
+sscu
 ssize
 ssrch
 statTarget
