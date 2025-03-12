@@ -264,6 +264,7 @@ NOISeq
 NPARC
 NTW
 NanoStringDiff
+NanoStringNCTools
 NanoTube
 NetPathMiner
 NormqPCR
@@ -760,6 +761,7 @@ scMitoMut
 scRecover
 scShapes
 scTHI
+scanMiR
 scatterHatch
 scde
 scoup

@@ -2108,15 +2108,12 @@
   ],
   "GenomicTuples": [],
   "GeoDiff": [
-    "GeomxTools",
-    "NanoStringNCTools"
+    "GeomxTools"
   ],
   "GeoTcgaData": [
     "SummarizedExperiment"
   ],
-  "GeomxTools": [
-    "NanoStringNCTools"
-  ],
+  "GeomxTools": [],
   "Glimma": [
     "DESeq2",
     "SummarizedExperiment"
@@ -3111,7 +3108,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "NanoStringNCTools": [],
   "Nebulosa": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -4335,8 +4331,7 @@
     "SummarizedExperiment"
   ],
   "SpatialDecon": [
-    "GeomxTools",
-    "NanoStringNCTools"
+    "GeomxTools"
   ],
   "SpatialExperiment": [
     "SingleCellExperiment",
@@ -4352,8 +4347,7 @@
     "scuttle"
   ],
   "SpatialOmicsOverlay": [
-    "GeomxTools",
-    "NanoStringNCTools"
+    "GeomxTools"
   ],
   "SpectralTAD": [
     "HiCcompare",
@@ -9305,9 +9299,7 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "scanMiR": [],
   "scanMiRApp": [
-    "scanMiR",
     "AnnotationDbi",
     "AnnotationFilter",
     "AnnotationHub",

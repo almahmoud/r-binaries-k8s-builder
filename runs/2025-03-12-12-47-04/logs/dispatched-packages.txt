@@ -935,3 +935,4 @@ target
 transite
 triplex
 clusterSeq
+GeomxTools

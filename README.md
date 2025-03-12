@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 825 packages built successfully
+- 827 packages built successfully
 - 14 packages failed to build
-- 1394 packages not yet processed
+- 1392 packages not yet processed
 
 ## Failed Builds (14)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -26,7 +26,7 @@
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 | [immunoClust](https://bioconductor.org/packages/3.20/bioc/html/immunoClust.html)   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/immunoClust/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunoClust)  | Build failed with unknown error     |
 
-## Successfully Built (825)
+## Successfully Built (827)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -854,8 +854,10 @@
 | [IMMAN](https://bioconductor.org/packages/3.20/bioc/html/IMMAN.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/IMMAN/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/IMMAN)                     |
 | [alabaster.string](https://bioconductor.org/packages/3.20/bioc/html/alabaster.string.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/alabaster.string/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.string)          |
 | [bamsignals](https://bioconductor.org/packages/3.20/bioc/html/bamsignals.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/bamsignals/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bamsignals)                |
+| [NanoStringNCTools](https://bioconductor.org/packages/3.20/bioc/html/NanoStringNCTools.html)                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/NanoStringNCTools/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/NanoStringNCTools)         |
+| [scanMiR](https://bioconductor.org/packages/3.20/bioc/html/scanMiR.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/scanMiR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scanMiR)                   |
 
-## Not Yet Processed (1394)
+## Not Yet Processed (1392)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1277,7 +1279,6 @@
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                     | Unprocessed |
 | [NBAMSeq](https://bioconductor.org/packages/3.20/bioc/html/NBAMSeq.html)                                         | Unprocessed |
 | [NanoMethViz](https://bioconductor.org/packages/3.20/bioc/html/NanoMethViz.html)                                 | Unprocessed |
-| [NanoStringNCTools](https://bioconductor.org/packages/3.20/bioc/html/NanoStringNCTools.html)                     | Unprocessed |
 | [Nebulosa](https://bioconductor.org/packages/3.20/bioc/html/Nebulosa.html)                                       | Unprocessed |
 | [NetActivity](https://bioconductor.org/packages/3.20/bioc/html/NetActivity.html)                                 | Unprocessed |
 | [NetSAM](https://bioconductor.org/packages/3.20/bioc/html/NetSAM.html)                                           | Unprocessed |
@@ -2106,7 +2107,6 @@
 | [scTGIF](https://bioconductor.org/packages/3.20/bioc/html/scTGIF.html)                                           | Unprocessed |
 | [scTensor](https://bioconductor.org/packages/3.20/bioc/html/scTensor.html)                                       | Unprocessed |
 | [scTreeViz](https://bioconductor.org/packages/3.20/bioc/html/scTreeViz.html)                                     | Unprocessed |
-| [scanMiR](https://bioconductor.org/packages/3.20/bioc/html/scanMiR.html)                                         | Unprocessed |
 | [scanMiRApp](https://bioconductor.org/packages/3.20/bioc/html/scanMiRApp.html)                                   | Unprocessed |
 | [scater](https://bioconductor.org/packages/3.20/bioc/html/scater.html)                                           | Unprocessed |
 | [sccomp](https://bioconductor.org/packages/3.20/bioc/html/sccomp.html)                                           | Unprocessed |
