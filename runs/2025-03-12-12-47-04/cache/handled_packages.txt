@@ -196,6 +196,7 @@ GeneOverlap
 GeneSelectMMD
 GeneticsPed
 GenomeInfoDb
+GenomicAlignments
 GenomicDataCommons
 GenomicRanges
 GenomicScores
@@ -560,6 +561,7 @@ ceRNAnetsim
 cellmigRation
 cellscape
 cellxgenedp
+censcyt
 chopsticks
 chromDraw
 cisPath
@@ -604,6 +606,7 @@ dcGSA
 dcanr
 ddCt
 dearseq
+debCAM
 decontam
 decoupleR
 deltaGseg
@@ -993,6 +996,7 @@ subSeq
 supersigs
 survcomp
 survtype
+sva
 swfdr
 switchBox
 synapsis
