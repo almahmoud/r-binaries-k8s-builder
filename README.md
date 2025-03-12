@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 672 packages built successfully
+- 673 packages built successfully
 - 12 packages failed to build
-- 1549 packages not yet processed
+- 1548 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
 | [Rtreemix](https://bioconductor.org/packages/3.20/bioc/html/Rtreemix.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Rtreemix/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rtreemix)     | Build failed with unknown error     |
 
-## Successfully Built (672)
+## Successfully Built (673)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -699,8 +699,9 @@
 | [rawrr](https://bioconductor.org/packages/3.20/bioc/html/rawrr.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/rawrr/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rawrr)                   |
 | [BioMVCClass](https://bioconductor.org/packages/3.20/bioc/html/BioMVCClass.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/BioMVCClass/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BioMVCClass)             |
 | [RBGL](https://bioconductor.org/packages/3.20/bioc/html/RBGL.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/RBGL/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RBGL)                    |
+| [MOGAMUN](https://bioconductor.org/packages/3.20/bioc/html/MOGAMUN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/MOGAMUN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MOGAMUN)                 |
 
-## Not Yet Processed (1549)
+## Not Yet Processed (1548)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1105,7 +1106,6 @@
 | [MMUPHin](https://bioconductor.org/packages/3.20/bioc/html/MMUPHin.html)                                         | Unprocessed |
 | [MODA](https://bioconductor.org/packages/3.20/bioc/html/MODA.html)                                               | Unprocessed |
 | [MOFA2](https://bioconductor.org/packages/3.20/bioc/html/MOFA2.html)                                             | Unprocessed |
-| [MOGAMUN](https://bioconductor.org/packages/3.20/bioc/html/MOGAMUN.html)                                         | Unprocessed |
 | [MOMA](https://bioconductor.org/packages/3.20/bioc/html/MOMA.html)                                               | Unprocessed |
 | [MOSClip](https://bioconductor.org/packages/3.20/bioc/html/MOSClip.html)                                         | Unprocessed |
 | [MOSim](https://bioconductor.org/packages/3.20/bioc/html/MOSim.html)                                             | Unprocessed |

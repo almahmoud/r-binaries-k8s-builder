@@ -184,6 +184,7 @@ MACSQuantifyR
 MBAmethyl
 MBCB
 MBttest
+MOGAMUN
 MPFE
 MSstats
 MSstatsBig
