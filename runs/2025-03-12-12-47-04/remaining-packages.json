@@ -1,5 +1,4 @@
 {
-  "ABarray": [],
   "ACE": [
     "QDNAseq",
     "GenomicRanges",
@@ -1678,7 +1677,6 @@
   ],
   "CHETAH": [
     "SingleCellExperiment",
-    "bioDist",
     "S4Vectors",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -2867,7 +2865,6 @@
     "ExperimentHub",
     "AnnotationDbi",
     "biomaRt",
-    "annotationTools",
     "IRanges",
     "S4Vectors",
     "KEGGREST",
@@ -3664,7 +3661,6 @@
     "Rhtslib",
     "GenomicAlignments"
   ],
-  "DeconRNASeq": [],
   "DeepPINCS": [],
   "DeepTarget": [
     "ExperimentHub",
@@ -9437,7 +9433,6 @@
     "XVector"
   ],
   "PhyloProfile": [
-    "bioDist",
     "Biostrings",
     "ExperimentHub",
     "S4Vectors",
@@ -13407,7 +13402,6 @@
     "a4Base",
     "a4Preproc",
     "a4Classif",
-    "a4Core",
     "annaffy",
     "genefilter",
     "AnnotationDbi",
@@ -13422,7 +13416,6 @@
   ],
   "a4Base": [
     "a4Preproc",
-    "a4Core",
     "annaffy",
     "genefilter",
     "AnnotationDbi",
@@ -13436,10 +13429,8 @@
     "UCSC.utils"
   ],
   "a4Classif": [
-    "a4Core",
     "a4Preproc"
   ],
-  "a4Core": [],
   "a4Preproc": [],
   "aCGH": [],
   "abseqR": [],
@@ -13507,7 +13498,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "affycomp": [],
   "affycoretools": [
     "affy",
     "GOstats",
@@ -13907,7 +13897,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "annotationTools": [],
   "annotatr": [
     "AnnotationDbi",
     "AnnotationHub",
@@ -14523,8 +14512,6 @@
     "BiocIO",
     "Rhtslib"
   ],
-  "bioDist": [],
-  "bioassayR": [],
   "biobroom": [],
   "biocGraph": [
     "Rgraphviz",
@@ -20579,7 +20566,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "martini": [],
   "maser": [
     "GenomicRanges",
     "rtracklayer",
@@ -20620,7 +20606,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "massiR": [],
   "mastR": [
     "AnnotationDbi",
     "edgeR",
@@ -23387,7 +23372,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "philr": [],
   "phosphonormalizer": [],
   "phyloseq": [
     "biomformat",
@@ -24283,7 +24267,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "rain": [],
   "ramr": [
     "GenomicRanges",
     "IRanges",

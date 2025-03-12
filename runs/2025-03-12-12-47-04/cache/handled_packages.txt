@@ -1,4 +1,5 @@
 ABSSeq
+ABarray
 ACME
 AIMS
 AMOUNTAIN
@@ -58,6 +59,7 @@ DNABarcodes
 DNAcopy
 DTA
 DeMAND
+DeconRNASeq
 DepecheR
 DiffLogo
 DriverNet
@@ -136,19 +138,24 @@ TargetSearch
 UNDO
 VennDetail
 Wrench
+a4Core
 a4Reporting
 acde
 affxparser
+affycomp
 affyio
 agilp
 alabaster.schemas
 alevinQC
+annotationTools
 antiProfiles
 aroma.light
 arrayQuality
 assorthead
 banocc
 basilisk.utils
+bioDist
+bioassayR
 biobtreeR
 biocroxytest
 biocthis
@@ -225,6 +232,8 @@ maCorrPlot
 maSigPro
 magrene
 marray
+martini
+massiR
 metaCCA
 mfa
 mgsa
@@ -243,6 +252,7 @@ oppti
 pandaR
 pcaMethods
 pengls
+philr
 planet
 plasmut
 plgem
@@ -253,6 +263,7 @@ quantsmooth
 qusage
 qvalue
 rBiopaxParser
+rain
 randPack
 randRotation
 rbsurv
