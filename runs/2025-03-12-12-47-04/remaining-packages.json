@@ -174,7 +174,6 @@
     "GenomicAlignments",
     "DESeq2",
     "SummarizedExperiment",
-    "Rsubread",
     "rtracklayer",
     "VariantAnnotation",
     "Rsamtools",
@@ -2749,7 +2748,6 @@
     "GenomicRanges",
     "qsmooth",
     "Rsamtools",
-    "Rsubread",
     "SummarizedExperiment",
     "S4Vectors",
     "IRanges",
@@ -3586,7 +3584,6 @@
     "goseq",
     "plyranges",
     "Rsamtools",
-    "Rsubread",
     "IRanges",
     "S4Vectors",
     "KEGGREST",
@@ -4351,7 +4348,6 @@
     "Rhtslib"
   ],
   "ExCluster": [
-    "Rsubread",
     "GenomicRanges",
     "rtracklayer",
     "IRanges",
@@ -4544,7 +4540,6 @@
     "HDF5Array",
     "OUTRIDER",
     "rhdf5",
-    "Rsubread",
     "S4Vectors",
     "KEGGREST",
     "Biostrings",
@@ -6188,7 +6183,6 @@
     "UCSC.utils"
   ],
   "IMPCdata": [],
-  "INDEED": [],
   "INSPEcT": [
     "GenomicFeatures",
     "GenomicRanges",
@@ -7957,9 +7951,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "Mfuzz": [
-    "tkWidgets"
-  ],
+  "Mfuzz": [],
   "MiPP": [],
   "MiRaGE": [
     "S4Vectors",
@@ -8377,7 +8369,6 @@
     "SummarizedExperiment",
     "IRanges",
     "GenomicRanges",
-    "tkWidgets",
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
@@ -8690,9 +8681,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "OLINgui": [
-    "tkWidgets"
-  ],
+  "OLINgui": [],
   "OMICsPCA": [
     "HelloRanges",
     "MultiAssayExperiment",
@@ -9406,7 +9395,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "PoDCall": [],
   "PolySTest": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -10328,7 +10316,6 @@
     "SparseArray"
   ],
   "RUVcorr": [],
-  "RUVnormalize": [],
   "RVS": [],
   "RadioGx": [
     "CoreGx",
@@ -10467,7 +10454,6 @@
     "Rcwl",
     "S4Vectors"
   ],
-  "Rdisop": [],
   "ReUseData": [
     "Rcwl",
     "RcwlPipelines",
@@ -10909,7 +10895,6 @@
     "Rhtslib",
     "UCSC.utils"
   ],
-  "Rsubread": [],
   "Rtpca": [],
   "Rtreemix": [
     "graph"
@@ -11230,7 +11215,6 @@
     "edgeR",
     "methylMnM"
   ],
-  "SIMLR": [],
   "SMITE": [
     "GenomicRanges",
     "AnnotationDbi",
@@ -15018,7 +15002,6 @@
     "BiocIO",
     "Rhtslib"
   ],
-  "cbpManager": [],
   "ccImpute": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -16355,8 +16338,7 @@
     "Rhdf5lib"
   ],
   "cycle": [
-    "Mfuzz",
-    "tkWidgets"
+    "Mfuzz"
   ],
   "cydar": [
     "SingleCellExperiment",
@@ -16775,7 +16757,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "densvis": [],
   "derfinder": [
     "AnnotationDbi",
     "bumphunter",
@@ -16888,7 +16869,6 @@
     "edgeR",
     "DEXSeq",
     "GenomicRanges",
-    "Rsubread",
     "rtracklayer",
     "ComplexHeatmap",
     "GenomeInfoDb",
@@ -17165,9 +17145,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "dupRadar": [
-    "Rsubread"
-  ],
+  "dupRadar": [],
   "easier": [
     "progeny",
     "decoupleR",
@@ -21046,7 +21024,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "miRBaseConverter": [],
   "miRLAB": [
     "impute",
     "TCGAbiolinks",
@@ -24473,7 +24450,6 @@
     "rtracklayer",
     "Rsamtools",
     "RUVSeq",
-    "Rsubread",
     "S4Vectors",
     "XVector",
     "txdbmaker",
@@ -25160,7 +25136,6 @@
     "MultiAssayExperiment",
     "Rhtslib",
     "Rsamtools",
-    "Rsubread",
     "rtracklayer",
     "SummarizedExperiment",
     "S4Vectors",
@@ -25639,7 +25614,6 @@
     "rtracklayer",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "Rsubread",
     "IRanges",
     "KEGGREST",
     "XVector",
@@ -27305,7 +27279,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "tkWidgets": [],
   "tomoda": [
     "SummarizedExperiment",
     "GenomicRanges",

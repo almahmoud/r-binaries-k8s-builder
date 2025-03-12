@@ -581,3 +581,6 @@ densvis
 snifter
 multiClust
 tkWidgets
+Mfuzz
+OLINgui
+dupRadar

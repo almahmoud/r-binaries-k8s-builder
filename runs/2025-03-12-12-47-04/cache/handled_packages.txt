@@ -104,6 +104,7 @@ HilbertVis
 HilbertVisGUI
 HubPub
 HybridMTest
+INDEED
 INPower
 INTACT
 Icens
@@ -140,6 +141,7 @@ OrderedList
 PLPE
 PROcess
 Path2PPI
+PoDCall
 QuaternaryProd
 RAREsim
 RBM
@@ -152,14 +154,18 @@ RProtoBufLib
 RRHO
 RSeqAn
 RTCGA
+RUVnormalize
 RankProd
 Rbowtie
 Rcollectl
+Rdisop
 RedeR
 RedisParam
+Rsubread
 SBMLR
 SCBN
 SCFA
+SIMLR
 SLqPCR
 SMAD
 SNAGEE
@@ -210,6 +216,7 @@ brendaDb
 bugsigdbr
 calm
 cancerclass
+cbpManager
 ccrepe
 ceRNAnetsim
 cellmigRation
@@ -233,6 +240,7 @@ dearseq
 decontam
 deltaGseg
 demuxmix
+densvis
 diffGeneAnalysis
 diffuStats
 diggit
@@ -315,6 +323,7 @@ metaSeq
 metagenomeSeq
 mfa
 mgsa
+miRBaseConverter
 miRcomp
 mina
 mistyR
@@ -405,6 +414,7 @@ tidysbml
 timeOmics
 timecourse
 timescape
+tkWidgets
 tomoseqr
 topconfects
 treeio
