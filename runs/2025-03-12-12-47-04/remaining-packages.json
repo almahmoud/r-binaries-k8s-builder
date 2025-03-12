@@ -15157,7 +15157,6 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "msPurity": [],
   "msa": [
     "Biostrings",
     "XVector",

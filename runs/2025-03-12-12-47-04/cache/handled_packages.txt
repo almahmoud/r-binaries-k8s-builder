@@ -572,6 +572,7 @@ mitch
 mixOmics
 mnem
 mosbi
+msPurity
 multiClust
 multiscan
 multtest
