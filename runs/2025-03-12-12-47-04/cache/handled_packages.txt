@@ -626,6 +626,7 @@ cellxgenedp
 censcyt
 chopsticks
 chromDraw
+chromPlot
 cisPath
 cleaver
 clevRvis

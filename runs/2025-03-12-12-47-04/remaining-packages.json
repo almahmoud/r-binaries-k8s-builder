@@ -2988,7 +2988,6 @@
   "chipseq": [
     "ShortRead"
   ],
-  "chromPlot": [],
   "chromVAR": [
     "TFBSTools",
     "BSgenome",
