@@ -157,6 +157,7 @@ GGPA
 GIGSEA
 GLAD
 GOSemSim
+GOfuncR
 GPA
 GRENITS
 GSALightning
@@ -664,6 +665,7 @@ idr2d
 igvShiny
 illuminaio
 immunoClust
+immunogenViewer
 immunotation
 impute
 infinityFlow
@@ -812,6 +814,7 @@ rbsurv
 rcellminer
 rebook
 receptLoss
+regsplice
 retrofit
 rexposome
 rfaRm

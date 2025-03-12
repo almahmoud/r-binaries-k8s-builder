@@ -1380,7 +1380,6 @@
   "GOexpress": [
     "biomaRt"
   ],
-  "GOfuncR": [],
   "GOpro": [
     "MultiAssayExperiment"
   ],
@@ -5319,7 +5318,6 @@
     "SingleCellExperiment"
   ],
   "immunoClust": [],
-  "immunogenViewer": [],
   "infercnv": [
     "SingleCellExperiment"
   ],
@@ -6531,7 +6529,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "regsplice": [],
   "regutools": [
     "AnnotationHub",
     "Gviz",

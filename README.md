@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 905 packages built successfully
+- 908 packages built successfully
 - 16 packages failed to build
-- 1312 packages not yet processed
+- 1309 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (905)
+## Successfully Built (908)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -936,8 +936,11 @@
 | [ginmappeR](https://bioconductor.org/packages/3.20/bioc/html/ginmappeR.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/ginmappeR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ginmappeR)                 |
 | [rScudo](https://bioconductor.org/packages/3.20/bioc/html/rScudo.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/rScudo/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rScudo)                    |
 | [receptLoss](https://bioconductor.org/packages/3.20/bioc/html/receptLoss.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/receptLoss/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/receptLoss)                |
+| [GOfuncR](https://bioconductor.org/packages/3.20/bioc/html/GOfuncR.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/GOfuncR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GOfuncR)                   |
+| [immunogenViewer](https://bioconductor.org/packages/3.20/bioc/html/immunogenViewer.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/immunogenViewer/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunogenViewer)           |
+| [regsplice](https://bioconductor.org/packages/3.20/bioc/html/regsplice.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/regsplice/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/regsplice)                 |
 
-## Not Yet Processed (1312)
+## Not Yet Processed (1309)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1170,7 +1173,6 @@
 | [GNOSIS](https://bioconductor.org/packages/3.20/bioc/html/GNOSIS.html)                                           | Unprocessed |
 | [GOTHiC](https://bioconductor.org/packages/3.20/bioc/html/GOTHiC.html)                                           | Unprocessed |
 | [GOexpress](https://bioconductor.org/packages/3.20/bioc/html/GOexpress.html)                                     | Unprocessed |
-| [GOfuncR](https://bioconductor.org/packages/3.20/bioc/html/GOfuncR.html)                                         | Unprocessed |
 | [GOpro](https://bioconductor.org/packages/3.20/bioc/html/GOpro.html)                                             | Unprocessed |
 | [GOstats](https://bioconductor.org/packages/3.20/bioc/html/GOstats.html)                                         | Unprocessed |
 | [GRaNIE](https://bioconductor.org/packages/3.20/bioc/html/GRaNIE.html)                                           | Unprocessed |
@@ -1854,7 +1856,6 @@
 | [igvR](https://bioconductor.org/packages/3.20/bioc/html/igvR.html)                                               | Unprocessed |
 | [imcRtools](https://bioconductor.org/packages/3.20/bioc/html/imcRtools.html)                                     | Unprocessed |
 | [immApex](https://bioconductor.org/packages/3.20/bioc/html/immApex.html)                                         | Unprocessed |
-| [immunogenViewer](https://bioconductor.org/packages/3.20/bioc/html/immunogenViewer.html)                         | Unprocessed |
 | [infercnv](https://bioconductor.org/packages/3.20/bioc/html/infercnv.html)                                       | Unprocessed |
 | [intansv](https://bioconductor.org/packages/3.20/bioc/html/intansv.html)                                         | Unprocessed |
 | [interactiveDisplay](https://bioconductor.org/packages/3.20/bioc/html/interactiveDisplay.html)                   | Unprocessed |
@@ -2060,7 +2061,6 @@
 | [regionalpcs](https://bioconductor.org/packages/3.20/bioc/html/regionalpcs.html)                                 | Unprocessed |
 | [regioneR](https://bioconductor.org/packages/3.20/bioc/html/regioneR.html)                                       | Unprocessed |
 | [regioneReloaded](https://bioconductor.org/packages/3.20/bioc/html/regioneReloaded.html)                         | Unprocessed |
-| [regsplice](https://bioconductor.org/packages/3.20/bioc/html/regsplice.html)                                     | Unprocessed |
 | [regutools](https://bioconductor.org/packages/3.20/bioc/html/regutools.html)                                     | Unprocessed |
 | [rfPred](https://bioconductor.org/packages/3.20/bioc/html/rfPred.html)                                           | Unprocessed |
 | [rgsepd](https://bioconductor.org/packages/3.20/bioc/html/rgsepd.html)                                           | Unprocessed |

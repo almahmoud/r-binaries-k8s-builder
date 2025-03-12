@@ -903,3 +903,6 @@ apComplex
 ginmappeR
 receptLoss
 rScudo
+GOfuncR
+immunogenViewer
+regsplice
