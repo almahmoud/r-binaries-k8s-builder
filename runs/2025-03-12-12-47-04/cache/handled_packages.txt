@@ -44,6 +44,7 @@ BiocGenerics
 BiocIO
 BiocNeighbors
 BiocParallel
+BiocPkgTools
 BiocStyle
 BiocVersion
 BiocWorkflowTools
@@ -53,6 +54,7 @@ BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
 CARNIVAL
+CCPlotR
 CFAssay
 CGEN
 CGHbase

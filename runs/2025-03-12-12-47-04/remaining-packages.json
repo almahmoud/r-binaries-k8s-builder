@@ -912,7 +912,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "BiocPkgTools": [],
   "BiocSet": [
     "AnnotationDbi",
     "KEGGREST",
@@ -1138,7 +1137,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "CCPlotR": [],
   "CDI": [
     "SingleCellExperiment",
     "SummarizedExperiment",
