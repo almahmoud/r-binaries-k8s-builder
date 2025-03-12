@@ -1,0 +1,95 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''aroma.light'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'aroma.light'
+also installing the dependencies ‘R.methodsS3’, ‘R.oo’, ‘R.utils’, ‘matrixStats’, ‘princurve’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/R.methodsS3_1.8.2.tar.gz'
+Content type 'binary/octet-stream' length 82535 bytes (80 KB)
+==================================================
+downloaded 80 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/R.oo_1.27.0.tar.gz'
+Content type 'binary/octet-stream' length 998703 bytes (975 KB)
+==================================================
+downloaded 975 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/R.utils_2.13.0.tar.gz'
+Content type 'binary/octet-stream' length 1454911 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/matrixStats_1.5.0.tar.gz'
+Content type 'binary/octet-stream' length 475041 bytes (463 KB)
+==================================================
+downloaded 463 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/princurve_2.1.6.tar.gz'
+Content type 'binary/octet-stream' length 110789 bytes (108 KB)
+==================================================
+downloaded 108 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/aroma.light_3.36.0.tar.gz'
+Content type 'application/x-gzip' length 393732 bytes (384 KB)
+==================================================
+downloaded 384 KB
+
+* installing *binary* package ‘R.methodsS3’ ...
+* ‘R.methodsS3’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.methodsS3’ as ‘R.methodsS3_1.8.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.methodsS3)
+* installing *binary* package ‘matrixStats’ ...
+* ‘matrixStats’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘matrixStats’ as ‘matrixStats_1.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (matrixStats)
+* installing *binary* package ‘princurve’ ...
+* ‘princurve’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘princurve’ as ‘princurve_2.1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (princurve)
+* installing *binary* package ‘R.oo’ ...
+* ‘R.oo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.oo’ as ‘R.oo_1.27.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.oo)
+* installing *binary* package ‘R.utils’ ...
+* ‘R.utils’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.utils’ as ‘R.utils_2.13.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.utils)
+* installing *source* package ‘aroma.light’ ...
+** package ‘aroma.light’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘aroma.light’ as ‘aroma.light_3.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (aroma.light)
+
+The downloaded source packages are in
+	‘/tmp/RtmpJ8SVEd/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+
+real	0m9.521s
+user	0m5.954s
+sys	0m2.448s

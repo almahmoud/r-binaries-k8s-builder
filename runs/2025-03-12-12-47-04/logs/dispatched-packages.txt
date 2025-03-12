@@ -422,3 +422,12 @@ biodbNci
 biodbUniprot
 qckitfastq
 alevinQC
+BiocNeighbors
+HubPub
+ggtreeDendro
+ggtreeExtra
+ggtreeSpace
+philr
+scBubbletree
+sitePath
+tanggle
