@@ -801,7 +801,6 @@
     "SummarizedExperiment"
   ],
   "CONFESS": [
-    "flowMerge",
     "flowPeaks"
   ],
   "COTAN": [
@@ -7560,7 +7559,6 @@
     "flowWorkspace",
     "ggcyto"
   ],
-  "flowMerge": [],
   "flowPeaks": [],
   "flowStats": [
     "flowWorkspace"
@@ -9944,7 +9942,6 @@
     "AnnotationDbi"
   ],
   "rRDP": [],
-  "rSWeeP": [],
   "rScudo": [
     "SummarizedExperiment",
     "GenomicRanges"
@@ -10106,7 +10103,6 @@
     "GenomicRanges",
     "Rsamtools"
   ],
-  "rfaRm": [],
   "rgsepd": [
     "DESeq2",
     "goseq",
@@ -10121,7 +10117,6 @@
     "GenomicAlignments"
   ],
   "rhdf5client": [],
-  "rhinotypeR": [],
   "riboSeqR": [
     "GenomicRanges",
     "Rsamtools",

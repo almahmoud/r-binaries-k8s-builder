@@ -519,6 +519,7 @@ flowFP
 flowGraph
 flowMatch
 flowMeans
+flowMerge
 flowPeaks
 flowPloidy
 flowPlots
@@ -699,6 +700,7 @@ qusage
 qvalue
 rBLAST
 rBiopaxParser
+rSWeeP
 rWikiPathways
 rain
 randPack
@@ -710,9 +712,11 @@ rcellminer
 rebook
 retrofit
 rexposome
+rfaRm
 rgoslin
 rhdf5
 rhdf5filters
+rhinotypeR
 ribor
 rmelting
 rnaseqcomp
