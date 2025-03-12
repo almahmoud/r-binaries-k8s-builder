@@ -609,6 +609,7 @@ iGC
 iPath
 iSeq
 ibh
+idr2d
 illuminaio
 immunoClust
 immunotation
@@ -627,6 +628,7 @@ lfa
 limma
 limmaGUI
 lmdme
+loci2path
 logicFS
 lpNet
 lpsymphony
@@ -675,6 +677,7 @@ multiscan
 multtest
 mzID
 mzR
+ncRNAtools
 ncdfFlow
 ndexr
 nempi

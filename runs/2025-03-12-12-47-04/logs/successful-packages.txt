@@ -832,3 +832,6 @@ genomeIntervals
 Structstrings
 gtrellis
 MsBackendRawFileReader
+idr2d
+loci2path
+ncRNAtools

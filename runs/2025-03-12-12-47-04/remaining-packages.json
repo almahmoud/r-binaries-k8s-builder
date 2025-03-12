@@ -7217,7 +7217,6 @@
     "AnnotationDbi"
   ],
   "idpr": [],
-  "idr2d": [],
   "igvR": [
     "GenomicAlignments",
     "rtracklayer",
@@ -7384,7 +7383,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "loci2path": [],
   "lumi": [
     "methylumi",
     "GenomicFeatures",
@@ -8147,7 +8145,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "ncRNAtools": [],
   "nearBynding": [
     "plyranges",
     "Rsamtools",

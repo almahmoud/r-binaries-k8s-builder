@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 834 packages built successfully
+- 837 packages built successfully
 - 14 packages failed to build
-- 1385 packages not yet processed
+- 1382 packages not yet processed
 
 ## Failed Builds (14)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -26,7 +26,7 @@
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 | [immunoClust](https://bioconductor.org/packages/3.20/bioc/html/immunoClust.html)   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/immunoClust/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunoClust)  | Build failed with unknown error     |
 
-## Successfully Built (834)
+## Successfully Built (837)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -863,8 +863,11 @@
 | [genomeIntervals](https://bioconductor.org/packages/3.20/bioc/html/genomeIntervals.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/genomeIntervals/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/genomeIntervals)           |
 | [MsBackendRawFileReader](https://bioconductor.org/packages/3.20/bioc/html/MsBackendRawFileReader.html)       | Built    | [Log](runs/2025-03-12-12-47-04/logs/MsBackendRawFileReader/build-success.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MsBackendRawFileReader)    |
 | [gtrellis](https://bioconductor.org/packages/3.20/bioc/html/gtrellis.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/gtrellis/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gtrellis)                  |
+| [idr2d](https://bioconductor.org/packages/3.20/bioc/html/idr2d.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/idr2d/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/idr2d)                     |
+| [loci2path](https://bioconductor.org/packages/3.20/bioc/html/loci2path.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/loci2path/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/loci2path)                 |
+| [ncRNAtools](https://bioconductor.org/packages/3.20/bioc/html/ncRNAtools.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/ncRNAtools/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ncRNAtools)                |
 
-## Not Yet Processed (1385)
+## Not Yet Processed (1382)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1829,7 +1832,6 @@
 | [ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)                                             | Unprocessed |
 | [idiogram](https://bioconductor.org/packages/3.20/bioc/html/idiogram.html)                                       | Unprocessed |
 | [idpr](https://bioconductor.org/packages/3.20/bioc/html/idpr.html)                                               | Unprocessed |
-| [idr2d](https://bioconductor.org/packages/3.20/bioc/html/idr2d.html)                                             | Unprocessed |
 | [igvR](https://bioconductor.org/packages/3.20/bioc/html/igvR.html)                                               | Unprocessed |
 | [igvShiny](https://bioconductor.org/packages/3.20/bioc/html/igvShiny.html)                                       | Unprocessed |
 | [imcRtools](https://bioconductor.org/packages/3.20/bioc/html/imcRtools.html)                                     | Unprocessed |
@@ -1856,7 +1858,6 @@
 | [lionessR](https://bioconductor.org/packages/3.20/bioc/html/lionessR.html)                                       | Unprocessed |
 | [lipidr](https://bioconductor.org/packages/3.20/bioc/html/lipidr.html)                                           | Unprocessed |
 | [lisaClust](https://bioconductor.org/packages/3.20/bioc/html/lisaClust.html)                                     | Unprocessed |
-| [loci2path](https://bioconductor.org/packages/3.20/bioc/html/loci2path.html)                                     | Unprocessed |
 | [lumi](https://bioconductor.org/packages/3.20/bioc/html/lumi.html)                                               | Unprocessed |
 | [lute](https://bioconductor.org/packages/3.20/bioc/html/lute.html)                                               | Unprocessed |
 | [m6Aboost](https://bioconductor.org/packages/3.20/bioc/html/m6Aboost.html)                                       | Unprocessed |
@@ -1948,7 +1949,6 @@
 | [mygene](https://bioconductor.org/packages/3.20/bioc/html/mygene.html)                                           | Unprocessed |
 | [myvariant](https://bioconductor.org/packages/3.20/bioc/html/myvariant.html)                                     | Unprocessed |
 | [ncGTW](https://bioconductor.org/packages/3.20/bioc/html/ncGTW.html)                                             | Unprocessed |
-| [ncRNAtools](https://bioconductor.org/packages/3.20/bioc/html/ncRNAtools.html)                                   | Unprocessed |
 | [nearBynding](https://bioconductor.org/packages/3.20/bioc/html/nearBynding.html)                                 | Unprocessed |
 | [netSmooth](https://bioconductor.org/packages/3.20/bioc/html/netSmooth.html)                                     | Unprocessed |
 | [netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)                                         | Unprocessed |
