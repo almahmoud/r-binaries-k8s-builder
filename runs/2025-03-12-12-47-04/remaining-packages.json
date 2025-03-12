@@ -1,5 +1,4 @@
 {
-  "ABSSeq": [],
   "ABarray": [
     "Biobase",
     "multtest",
@@ -567,7 +566,6 @@
     "SparseArray",
     "ProtGenerics"
   ],
-  "AlphaBeta": [],
   "AlphaMissenseR": [],
   "AlpsNMR": [
     "mixOmics",
@@ -885,7 +883,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "BEclear": [],
   "BLMA": [
     "ROntoTools",
     "PADOG",
@@ -4620,7 +4617,6 @@
     "Biobase",
     "preprocessCore"
   ],
-  "DriverNet": [],
   "DropletUtils": [
     "SingleCellExperiment",
     "BiocGenerics",
@@ -4728,7 +4724,6 @@
   ],
   "EBSEA": [
     "DESeq2",
-    "EmpiricalBrownsMethod",
     "S4Vectors",
     "IRanges",
     "GenomicRanges",
@@ -4997,7 +4992,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "EmpiricalBrownsMethod": [],
   "EnMCB": [],
   "EnrichDO": [
     "BiocGenerics",
@@ -6693,7 +6687,6 @@
   ],
   "GeoTcgaData": [
     "cqn",
-    "topconfects",
     "SummarizedExperiment",
     "MatrixGenerics",
     "GenomicRanges",
@@ -10087,7 +10080,6 @@
     "rtracklayer",
     "trackViewer",
     "Rsamtools",
-    "EmpiricalBrownsMethod",
     "ATACseqQC",
     "csaw",
     "BSgenome",
@@ -12198,7 +12190,6 @@
     "rhdf5filters"
   ],
   "RProtoBufLib": [],
-  "RRHO": [],
   "RSVSim": [
     "Biostrings",
     "GenomicRanges",
@@ -12220,7 +12211,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RSeqAn": [],
   "RTCA": [
     "Biobase",
     "BiocGenerics"
@@ -13423,8 +13413,6 @@
     "methylMnM"
   ],
   "SIMLR": [],
-  "SLqPCR": [],
-  "SMAD": [],
   "SMITE": [
     "GenomicRanges",
     "AnnotationDbi",
@@ -17281,22 +17269,11 @@
   ],
   "biocroxytest": [],
   "biocthis": [],
-  "biodb": [],
-  "biodbChebi": [
-    "biodb"
-  ],
-  "biodbHmdb": [
-    "biodb"
-  ],
-  "biodbNcbi": [
-    "biodb"
-  ],
-  "biodbNci": [
-    "biodb"
-  ],
-  "biodbUniprot": [
-    "biodb"
-  ],
+  "biodbChebi": [],
+  "biodbHmdb": [],
+  "biodbNcbi": [],
+  "biodbNci": [],
+  "biodbUniprot": [],
   "biomaRt": [
     "AnnotationDbi",
     "BiocGenerics",
@@ -21459,7 +21436,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "fastreeR": [],
   "fastseg": [
     "GenomicRanges",
     "Biobase",
@@ -21888,7 +21864,6 @@
     "ChemmineR",
     "BiocGenerics"
   ],
-  "fmrs": [],
   "fobitools": [
     "fgsea"
   ],
@@ -22221,7 +22196,6 @@
     "minet",
     "BiocGenerics"
   ],
-  "gemini": [],
   "gemma.R": [
     "SummarizedExperiment",
     "Biobase",
@@ -22330,7 +22304,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "genoCN": [],
   "genomation": [
     "Biostrings",
     "BSgenome",
@@ -22364,7 +22337,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "genomes": [],
   "genomicInstability": [
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -22688,7 +22660,6 @@
     "BiocIO",
     "Rhtslib"
   ],
-  "globalSeq": [],
   "globaltest": [
     "Biobase",
     "AnnotationDbi",
@@ -24770,7 +24741,6 @@
   ],
   "metaseqR2": [
     "DESeq2",
-    "ABSSeq",
     "Biobase",
     "BiocGenerics",
     "biomaRt",
@@ -27818,7 +27788,6 @@
   "phenomis": [
     "SummarizedExperiment",
     "Biobase",
-    "biodb",
     "biodbChebi",
     "MultiAssayExperiment",
     "MultiDataSet",
@@ -28102,7 +28071,6 @@
     "XVector",
     "Biostrings"
   ],
-  "powerTCR": [],
   "ppcseq": [
     "edgeR"
   ],
@@ -28525,9 +28493,7 @@
     "S4Arrays",
     "SparseArray"
   ],
-  "qckitfastq": [
-    "RSeqAn"
-  ],
+  "qckitfastq": [],
   "qcmetrics": [
     "Biobase",
     "S4Vectors",
@@ -31381,7 +31347,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "sincell": [],
   "singleCellTK": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -31962,7 +31927,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "splots": [],
   "spoon": [
     "SpatialExperiment",
     "nnSVG",
@@ -32431,7 +32395,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "systemPipeShiny": [],
   "systemPipeTools": [
     "DESeq2",
     "SummarizedExperiment",
@@ -32851,7 +32814,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "topconfects": [],
   "topdownr": [
     "BiocGenerics",
     "ProtGenerics",
@@ -33645,7 +33607,6 @@
     "DelayedArray",
     "DelayedMatrixStats",
     "BiocGenerics",
-    "topconfects",
     "MatrixGenerics",
     "IRanges",
     "S4Arrays",

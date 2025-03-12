@@ -415,3 +415,9 @@ scRecover
 scShapes
 scTHI
 ternarynet
+biodbChebi
+biodbHmdb
+biodbNcbi
+biodbNci
+biodbUniprot
+qckitfastq
