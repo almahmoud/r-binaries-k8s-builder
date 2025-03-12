@@ -544,3 +544,9 @@ RImmPort
 ROTS
 rWikiPathways
 scMitoMut
+biomformat
+GenProSeq
+koinar
+piano
+RTopper
+SharedObject

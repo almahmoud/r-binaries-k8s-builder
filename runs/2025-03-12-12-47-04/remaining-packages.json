@@ -45,7 +45,6 @@
   ],
   "ADAPT": [
     "phyloseq",
-    "biomformat",
     "Biostrings",
     "S4Vectors",
     "IRanges",
@@ -2777,7 +2776,6 @@
     "SummarizedExperiment",
     "S4Vectors",
     "MultiAssayExperiment",
-    "piano",
     "BumpyMatrix",
     "IRanges",
     "DelayedArray",
@@ -4911,7 +4909,6 @@
     "BiocIO",
     "biomaRt"
   ],
-  "GenProSeq": [],
   "GenVisR": [
     "AnnotationDbi",
     "biomaRt",
@@ -6494,7 +6491,6 @@
   "MBECS": [
     "phyloseq",
     "sva",
-    "biomformat",
     "Biostrings",
     "genefilter",
     "edgeR",
@@ -8075,7 +8071,6 @@
     "SingleCellExperiment",
     "DelayedArray",
     "BiocSingular",
-    "SharedObject",
     "S4Vectors",
     "ScaledMatrix",
     "beachmat",
@@ -8706,7 +8701,6 @@
     "S4Vectors",
     "GenomicRanges",
     "SummarizedExperiment",
-    "biomformat",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -8764,7 +8758,6 @@
     "S4Vectors",
     "SummarizedExperiment",
     "MultiAssayExperiment",
-    "piano",
     "BumpyMatrix",
     "DelayedArray",
     "GenomicRanges",
@@ -9194,7 +9187,6 @@
   "RCM": [
     "edgeR",
     "phyloseq",
-    "biomformat",
     "Biostrings",
     "S4Vectors",
     "IRanges",
@@ -9577,7 +9569,6 @@
   ],
   "RPA": [
     "phyloseq",
-    "biomformat",
     "Biostrings",
     "S4Vectors",
     "IRanges",
@@ -9666,7 +9657,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "RTopper": [],
   "RUVSeq": [
     "EDASeq",
     "edgeR",
@@ -9697,7 +9687,6 @@
     "SummarizedExperiment",
     "S4Vectors",
     "MultiAssayExperiment",
-    "piano",
     "BumpyMatrix",
     "GenomicRanges",
     "IRanges",
@@ -10499,7 +10488,6 @@
   ],
   "SIAMCAT": [
     "phyloseq",
-    "biomformat",
     "Biostrings",
     "S4Vectors",
     "IRanges",
@@ -10692,7 +10680,6 @@
     "SingleCellExperiment",
     "edgeR",
     "phyloseq",
-    "biomformat",
     "Biostrings",
     "SummarizedExperiment",
     "S4Vectors",
@@ -10849,7 +10836,6 @@
     "Biostrings",
     "UCSC.utils"
   ],
-  "SharedObject": [],
   "ShortRead": [
     "Biostrings",
     "Rsamtools",
@@ -10930,7 +10916,6 @@
   "SimBu": [
     "phyloseq",
     "SummarizedExperiment",
-    "biomformat",
     "Biostrings",
     "GenomicRanges",
     "S4Vectors",
@@ -11442,7 +11427,6 @@
     "SparseArray",
     "UCSC.utils",
     "XVector",
-    "biomformat",
     "Biostrings",
     "impute"
   ],
@@ -11943,7 +11927,6 @@
     "SummarizedExperiment",
     "S4Vectors",
     "MultiAssayExperiment",
-    "piano",
     "BumpyMatrix",
     "GenomicRanges",
     "IRanges",
@@ -12436,7 +12419,6 @@
     "S4Vectors",
     "SummarizedExperiment",
     "MultiAssayExperiment",
-    "piano",
     "BumpyMatrix",
     "DelayedArray",
     "GenomicRanges",
@@ -13396,7 +13378,6 @@
     "S4Vectors",
     "SingleCellExperiment",
     "Biostrings",
-    "biomformat",
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
@@ -13524,7 +13505,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "biomformat": [],
   "biomvRCNS": [
     "IRanges",
     "GenomicRanges",
@@ -14710,7 +14690,6 @@
   "combi": [
     "phyloseq",
     "SummarizedExperiment",
-    "biomformat",
     "Biostrings",
     "GenomicRanges",
     "S4Vectors",
@@ -15483,7 +15462,6 @@
     "S4Vectors",
     "scater",
     "scuttle",
-    "biomformat",
     "XVector",
     "GenomeInfoDb",
     "S4Arrays",
@@ -17162,7 +17140,6 @@
     "CoreGx",
     "PharmacoGx",
     "IRanges",
-    "piano",
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -17195,7 +17172,6 @@
     "S4Vectors",
     "SummarizedExperiment",
     "IRanges",
-    "piano",
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -18751,7 +18727,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "koinar": [],
   "ldblock": [],
   "lefser": [
     "SummarizedExperiment",
@@ -19845,12 +19820,10 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "biomformat",
     "UCSC.utils"
   ],
   "microbiomeDASim": [
     "phyloseq",
-    "biomformat",
     "Biostrings",
     "S4Vectors",
     "IRanges",
@@ -19860,7 +19833,6 @@
   ],
   "microbiomeExplorer": [
     "DESeq2",
-    "biomformat",
     "S4Vectors",
     "IRanges",
     "GenomicRanges",
@@ -19878,7 +19850,6 @@
     "DESeq2",
     "edgeR",
     "Biostrings",
-    "biomformat",
     "S4Vectors",
     "ComplexHeatmap",
     "ALDEx2",
@@ -21669,7 +21640,6 @@
     "XVector"
   ],
   "phyloseq": [
-    "biomformat",
     "Biostrings",
     "S4Vectors",
     "IRanges",
@@ -21677,7 +21647,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "piano": [],
   "pipeComp": [
     "S4Vectors",
     "ComplexHeatmap",
@@ -21890,7 +21859,6 @@
     "Rsamtools",
     "XVector",
     "phyloseq",
-    "biomformat",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -22525,7 +22493,6 @@
   ],
   "reconsi": [
     "phyloseq",
-    "biomformat",
     "Biostrings",
     "S4Vectors",
     "IRanges",
@@ -26404,7 +26371,6 @@
     "S4Vectors",
     "IRanges",
     "GenomicRanges",
-    "biomformat",
     "Biostrings",
     "GenomeInfoDb",
     "S4Arrays",
