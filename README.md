@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 859 packages built successfully
+- 861 packages built successfully
 - 14 packages failed to build
-- 1360 packages not yet processed
+- 1358 packages not yet processed
 
 ## Failed Builds (14)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -26,7 +26,7 @@
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 | [immunoClust](https://bioconductor.org/packages/3.20/bioc/html/immunoClust.html)   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/immunoClust/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunoClust)  | Build failed with unknown error     |
 
-## Successfully Built (859)
+## Successfully Built (861)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -888,8 +888,10 @@
 | [universalmotif](https://bioconductor.org/packages/3.20/bioc/html/universalmotif.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/universalmotif/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/universalmotif)            |
 | [TDbasedUFE](https://bioconductor.org/packages/3.20/bioc/html/TDbasedUFE.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/TDbasedUFE/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TDbasedUFE)                |
 | [cogeqc](https://bioconductor.org/packages/3.20/bioc/html/cogeqc.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/cogeqc/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cogeqc)                    |
+| [AnnotationDbi](https://bioconductor.org/packages/3.20/bioc/html/AnnotationDbi.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/AnnotationDbi/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AnnotationDbi)             |
+| [seqPattern](https://bioconductor.org/packages/3.20/bioc/html/seqPattern.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/seqPattern/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/seqPattern)                |
 
-## Not Yet Processed (1360)
+## Not Yet Processed (1358)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -916,7 +918,6 @@
 | [AllelicImbalance](https://bioconductor.org/packages/3.20/bioc/html/AllelicImbalance.html)                       | Unprocessed |
 | [Anaquin](https://bioconductor.org/packages/3.20/bioc/html/Anaquin.html)                                         | Unprocessed |
 | [AneuFinder](https://bioconductor.org/packages/3.20/bioc/html/AneuFinder.html)                                   | Unprocessed |
-| [AnnotationDbi](https://bioconductor.org/packages/3.20/bioc/html/AnnotationDbi.html)                             | Unprocessed |
 | [AnnotationFilter](https://bioconductor.org/packages/3.20/bioc/html/AnnotationFilter.html)                       | Unprocessed |
 | [AnnotationForge](https://bioconductor.org/packages/3.20/bioc/html/AnnotationForge.html)                         | Unprocessed |
 | [AnnotationHub](https://bioconductor.org/packages/3.20/bioc/html/AnnotationHub.html)                             | Unprocessed |
@@ -2135,7 +2136,6 @@
 | [seq2pathway](https://bioconductor.org/packages/3.20/bioc/html/seq2pathway.html)                                 | Unprocessed |
 | [seqArchRplus](https://bioconductor.org/packages/3.20/bioc/html/seqArchRplus.html)                               | Unprocessed |
 | [seqCAT](https://bioconductor.org/packages/3.20/bioc/html/seqCAT.html)                                           | Unprocessed |
-| [seqPattern](https://bioconductor.org/packages/3.20/bioc/html/seqPattern.html)                                   | Unprocessed |
 | [seqsetvis](https://bioconductor.org/packages/3.20/bioc/html/seqsetvis.html)                                     | Unprocessed |
 | [sesame](https://bioconductor.org/packages/3.20/bioc/html/sesame.html)                                           | Unprocessed |
 | [sevenC](https://bioconductor.org/packages/3.20/bioc/html/sevenC.html)                                           | Unprocessed |

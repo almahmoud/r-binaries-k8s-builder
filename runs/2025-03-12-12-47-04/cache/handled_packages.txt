@@ -22,6 +22,7 @@ AnVILBilling
 AnVILGCP
 AnVILPublish
 AnVILWorkflow
+AnnotationDbi
 BADER
 BAGS
 BCRANK
@@ -800,6 +801,7 @@ semisup
 seq.hotSPOT
 seqArchR
 seqLogo
+seqPattern
 seqTools
 seqcombo
 sevenbridges
