@@ -239,6 +239,7 @@ MAPFX
 MBAmethyl
 MBCB
 MBttest
+MCbiclust
 MEDME
 MEIGOR
 MMUPHin
@@ -262,6 +263,7 @@ MatrixGenerics
 MeSHDbi
 MeasurementError.cor
 Mergeomics
+MesKit
 MetCirc
 MetID
 MetaCyto
@@ -271,6 +273,7 @@ MethylMix
 Mfuzz
 MiChip
 MiPP
+MiRaGE
 ModCon
 MsBackendMassbank
 MsBackendMetaboLights
@@ -468,12 +471,14 @@ alabaster.string
 alevinQC
 altcdfenvs
 annaffy
+annotate
 annotationTools
 anota
 antiProfiles
 apComplex
 aroma.light
 arrayQuality
+artMS
 assorthead
 bacon
 bamsignals
@@ -573,6 +578,7 @@ fCI
 fabia
 factDesign
 faers
+fastLiquidAssociation
 fastreeR
 fastseg
 fdrame
@@ -840,6 +846,7 @@ sarks
 scBubbletree
 scFeatureFilter
 scMitoMut
+scMultiSim
 scRecover
 scShapes
 scTHI
@@ -847,7 +854,9 @@ scanMiR
 scatterHatch
 scde
 scoup
+screenCounter
 seahtrue
+sechm
 semisup
 seq.hotSPOT
 seqArchR
