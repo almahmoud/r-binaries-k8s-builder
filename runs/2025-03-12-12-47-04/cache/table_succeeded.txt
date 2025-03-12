@@ -774,3 +774,4 @@
 ['[flowDensity](https://bioconductor.org/packages/3.20/bioc/html/flowDensity.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/flowDensity/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowDensity)']
 ['[flowFP](https://bioconductor.org/packages/3.20/bioc/html/flowFP.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/flowFP/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowFP)']
 ['[uSORT](https://bioconductor.org/packages/3.20/bioc/html/uSORT.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/uSORT/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/uSORT)']
+['[DelayedArray](https://bioconductor.org/packages/3.20/bioc/html/DelayedArray.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/DelayedArray/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedArray)']

@@ -108,6 +108,7 @@ DTA
 DeMAND
 DeconRNASeq
 DeepPINCS
+DelayedArray
 DepInfeR
 DepecheR
 DiffLogo

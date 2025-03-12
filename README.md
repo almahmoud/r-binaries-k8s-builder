@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 776 packages built successfully
+- 777 packages built successfully
 - 13 packages failed to build
-- 1444 packages not yet processed
+- 1443 packages not yet processed
 
 ## Failed Builds (13)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -25,7 +25,7 @@
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 
-## Successfully Built (776)
+## Successfully Built (777)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -804,8 +804,9 @@
 | [flowDensity](https://bioconductor.org/packages/3.20/bioc/html/flowDensity.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowDensity/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowDensity)               |
 | [flowFP](https://bioconductor.org/packages/3.20/bioc/html/flowFP.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowFP/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowFP)                    |
 | [uSORT](https://bioconductor.org/packages/3.20/bioc/html/uSORT.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/uSORT/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/uSORT)                     |
+| [DelayedArray](https://bioconductor.org/packages/3.20/bioc/html/DelayedArray.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/DelayedArray/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedArray)              |
 
-## Not Yet Processed (1444)
+## Not Yet Processed (1443)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -991,7 +992,6 @@
 | [DeepTarget](https://bioconductor.org/packages/3.20/bioc/html/DeepTarget.html)                                   | Unprocessed |
 | [DegCre](https://bioconductor.org/packages/3.20/bioc/html/DegCre.html)                                           | Unprocessed |
 | [DegNorm](https://bioconductor.org/packages/3.20/bioc/html/DegNorm.html)                                         | Unprocessed |
-| [DelayedArray](https://bioconductor.org/packages/3.20/bioc/html/DelayedArray.html)                               | Unprocessed |
 | [DelayedDataFrame](https://bioconductor.org/packages/3.20/bioc/html/DelayedDataFrame.html)                       | Unprocessed |
 | [DelayedMatrixStats](https://bioconductor.org/packages/3.20/bioc/html/DelayedMatrixStats.html)                   | Unprocessed |
 | [DelayedRandomArray](https://bioconductor.org/packages/3.20/bioc/html/DelayedRandomArray.html)                   | Unprocessed |
