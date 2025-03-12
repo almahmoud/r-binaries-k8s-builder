@@ -266,6 +266,7 @@ Rcollectl
 Rcwl
 RcwlPipelines
 Rdisop
+ReUseData
 ReactomeGSA
 ReadqPCR
 RedeR
@@ -327,6 +328,7 @@ affyContam
 affycomp
 affyio
 agilp
+alabaster.base
 alabaster.schemas
 alevinQC
 annotationTools
@@ -421,6 +423,7 @@ flowPlots
 flowcatchR
 fmcsR
 fmrs
+fobitools
 frenchFISH
 gaga
 garfield

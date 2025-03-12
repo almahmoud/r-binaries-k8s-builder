@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 646 packages built successfully
+- 649 packages built successfully
 - 12 packages failed to build
-- 1575 packages not yet processed
+- 1572 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
 | [Rtreemix](https://bioconductor.org/packages/3.20/bioc/html/Rtreemix.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Rtreemix/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rtreemix)     | Build failed with unknown error     |
 
-## Successfully Built (646)
+## Successfully Built (649)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -673,8 +673,11 @@
 | [TurboNorm](https://bioconductor.org/packages/3.20/bioc/html/TurboNorm.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/TurboNorm/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TurboNorm)               |
 | [affyContam](https://bioconductor.org/packages/3.20/bioc/html/affyContam.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/affyContam/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/affyContam)              |
 | [ribor](https://bioconductor.org/packages/3.20/bioc/html/ribor.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/ribor/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ribor)                   |
+| [ReUseData](https://bioconductor.org/packages/3.20/bioc/html/ReUseData.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/ReUseData/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ReUseData)               |
+| [alabaster.base](https://bioconductor.org/packages/3.20/bioc/html/alabaster.base.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/alabaster.base/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.base)          |
+| [fobitools](https://bioconductor.org/packages/3.20/bioc/html/fobitools.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/fobitools/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fobitools)               |
 
-## Not Yet Processed (1575)
+## Not Yet Processed (1572)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1264,7 +1267,6 @@
 | [Rbowtie2](https://bioconductor.org/packages/3.20/bioc/html/Rbowtie2.html)                                       | Unprocessed |
 | [RcisTarget](https://bioconductor.org/packages/3.20/bioc/html/RcisTarget.html)                                   | Unprocessed |
 | [Rcpi](https://bioconductor.org/packages/3.20/bioc/html/Rcpi.html)                                               | Unprocessed |
-| [ReUseData](https://bioconductor.org/packages/3.20/bioc/html/ReUseData.html)                                     | Unprocessed |
 | [ReactomePA](https://bioconductor.org/packages/3.20/bioc/html/ReactomePA.html)                                   | Unprocessed |
 | [RegEnrich](https://bioconductor.org/packages/3.20/bioc/html/RegEnrich.html)                                     | Unprocessed |
 | [RegionalST](https://bioconductor.org/packages/3.20/bioc/html/RegionalST.html)                                   | Unprocessed |
@@ -1442,7 +1444,6 @@
 | [aggregateBioVar](https://bioconductor.org/packages/3.20/bioc/html/aggregateBioVar.html)                         | Unprocessed |
 | [airpart](https://bioconductor.org/packages/3.20/bioc/html/airpart.html)                                         | Unprocessed |
 | [alabaster](https://bioconductor.org/packages/3.20/bioc/html/alabaster.html)                                     | Unprocessed |
-| [alabaster.base](https://bioconductor.org/packages/3.20/bioc/html/alabaster.base.html)                           | Unprocessed |
 | [alabaster.bumpy](https://bioconductor.org/packages/3.20/bioc/html/alabaster.bumpy.html)                         | Unprocessed |
 | [alabaster.files](https://bioconductor.org/packages/3.20/bioc/html/alabaster.files.html)                         | Unprocessed |
 | [alabaster.mae](https://bioconductor.org/packages/3.20/bioc/html/alabaster.mae.html)                             | Unprocessed |
@@ -1697,7 +1698,6 @@
 | [flowVS](https://bioconductor.org/packages/3.20/bioc/html/flowVS.html)                                           | Unprocessed |
 | [flowViz](https://bioconductor.org/packages/3.20/bioc/html/flowViz.html)                                         | Unprocessed |
 | [flowWorkspace](https://bioconductor.org/packages/3.20/bioc/html/flowWorkspace.html)                             | Unprocessed |
-| [fobitools](https://bioconductor.org/packages/3.20/bioc/html/fobitools.html)                                     | Unprocessed |
 | [frma](https://bioconductor.org/packages/3.20/bioc/html/frma.html)                                               | Unprocessed |
 | [frmaTools](https://bioconductor.org/packages/3.20/bioc/html/frmaTools.html)                                     | Unprocessed |
 | [funOmics](https://bioconductor.org/packages/3.20/bioc/html/funOmics.html)                                       | Unprocessed |

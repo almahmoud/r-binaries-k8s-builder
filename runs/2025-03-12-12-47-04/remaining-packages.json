@@ -8205,7 +8205,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "ReUseData": [],
   "ReactomePA": [
     "AnnotationDbi",
     "DOSE",
@@ -10615,7 +10614,6 @@
     "XVector"
   ],
   "alabaster": [
-    "alabaster.base",
     "alabaster.matrix",
     "alabaster.ranges",
     "alabaster.se",
@@ -10648,14 +10646,11 @@
     "KEGGREST",
     "GenomicAlignments"
   ],
-  "alabaster.base": [],
   "alabaster.bumpy": [
     "BumpyMatrix",
-    "alabaster.base",
     "IRanges"
   ],
   "alabaster.files": [
-    "alabaster.base",
     "Rsamtools",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -10665,7 +10660,6 @@
   ],
   "alabaster.mae": [
     "MultiAssayExperiment",
-    "alabaster.base",
     "alabaster.se",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -10680,7 +10674,6 @@
     "XVector"
   ],
   "alabaster.matrix": [
-    "alabaster.base",
     "DelayedArray",
     "S4Arrays",
     "SparseArray",
@@ -10690,14 +10683,12 @@
   ],
   "alabaster.ranges": [
     "GenomicRanges",
-    "alabaster.base",
     "IRanges",
     "GenomeInfoDb",
     "XVector"
   ],
   "alabaster.sce": [
     "SingleCellExperiment",
-    "alabaster.base",
     "alabaster.se",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -10713,7 +10704,6 @@
   ],
   "alabaster.se": [
     "SummarizedExperiment",
-    "alabaster.base",
     "alabaster.ranges",
     "alabaster.matrix",
     "IRanges",
@@ -10727,7 +10717,6 @@
   ],
   "alabaster.spatial": [
     "SpatialExperiment",
-    "alabaster.base",
     "alabaster.sce",
     "SingleCellExperiment",
     "alabaster.se",
@@ -10745,13 +10734,11 @@
   ],
   "alabaster.string": [
     "Biostrings",
-    "alabaster.base",
     "IRanges",
     "XVector",
     "GenomeInfoDb"
   ],
   "alabaster.vcf": [
-    "alabaster.base",
     "VariantAnnotation",
     "alabaster.se",
     "alabaster.string",
@@ -13777,7 +13764,6 @@
     "S4Arrays",
     "BiocSingular",
     "metapod",
-    "alabaster.base",
     "KEGGREST",
     "ScaledMatrix",
     "rtracklayer",
@@ -14349,7 +14335,6 @@
     "SparseArray",
     "XVector"
   ],
-  "fobitools": [],
   "frma": [
     "oligo",
     "oligoClasses",
@@ -20585,7 +20570,6 @@
     "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
-    "alabaster.base",
     "alabaster.matrix",
     "alabaster.se",
     "IRanges",
