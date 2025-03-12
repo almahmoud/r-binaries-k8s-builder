@@ -546,6 +546,7 @@ cqn
 crisprBase
 ctc
 ctsGE
+customCMPdb
 cyanoFilter
 cycle
 cytoMEM
@@ -885,6 +886,7 @@ simona
 sincell
 sitePath
 sizepower
+smartid
 snapcount
 snifter
 snm

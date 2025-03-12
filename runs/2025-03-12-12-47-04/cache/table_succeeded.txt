@@ -936,3 +936,5 @@
 ['[bettr](https://bioconductor.org/packages/3.20/bioc/html/bettr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/bettr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bettr)']
 ['[gatom](https://bioconductor.org/packages/3.20/bioc/html/gatom.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/gatom/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gatom)']
 ['[stageR](https://bioconductor.org/packages/3.20/bioc/html/stageR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/stageR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/stageR)']
+['[customCMPdb](https://bioconductor.org/packages/3.20/bioc/html/customCMPdb.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/customCMPdb/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/customCMPdb)']
+['[smartid](https://bioconductor.org/packages/3.20/bioc/html/smartid.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/smartid/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/smartid)']

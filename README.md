@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 938 packages built successfully
+- 940 packages built successfully
 - 16 packages failed to build
-- 1279 packages not yet processed
+- 1277 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (938)
+## Successfully Built (940)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -969,8 +969,10 @@
 | [bettr](https://bioconductor.org/packages/3.20/bioc/html/bettr.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/bettr/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bettr)                     |
 | [gatom](https://bioconductor.org/packages/3.20/bioc/html/gatom.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/gatom/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gatom)                     |
 | [stageR](https://bioconductor.org/packages/3.20/bioc/html/stageR.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/stageR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/stageR)                    |
+| [customCMPdb](https://bioconductor.org/packages/3.20/bioc/html/customCMPdb.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/customCMPdb/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/customCMPdb)               |
+| [smartid](https://bioconductor.org/packages/3.20/bioc/html/smartid.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/smartid/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/smartid)                   |
 
-## Not Yet Processed (1279)
+## Not Yet Processed (1277)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1717,7 +1719,6 @@
 | [csaw](https://bioconductor.org/packages/3.20/bioc/html/csaw.html)                                               | Unprocessed |
 | [csdR](https://bioconductor.org/packages/3.20/bioc/html/csdR.html)                                               | Unprocessed |
 | [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                                   | Unprocessed |
-| [customCMPdb](https://bioconductor.org/packages/3.20/bioc/html/customCMPdb.html)                                 | Unprocessed |
 | [customProDB](https://bioconductor.org/packages/3.20/bioc/html/customProDB.html)                                 | Unprocessed |
 | [cydar](https://bioconductor.org/packages/3.20/bioc/html/cydar.html)                                             | Unprocessed |
 | [cypress](https://bioconductor.org/packages/3.20/bioc/html/cypress.html)                                         | Unprocessed |
@@ -2162,7 +2163,6 @@
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                             | Unprocessed |
 | [slalom](https://bioconductor.org/packages/3.20/bioc/html/slalom.html)                                           | Unprocessed |
 | [slingshot](https://bioconductor.org/packages/3.20/bioc/html/slingshot.html)                                     | Unprocessed |
-| [smartid](https://bioconductor.org/packages/3.20/bioc/html/smartid.html)                                         | Unprocessed |
 | [smoothclust](https://bioconductor.org/packages/3.20/bioc/html/smoothclust.html)                                 | Unprocessed |
 | [soGGi](https://bioconductor.org/packages/3.20/bioc/html/soGGi.html)                                             | Unprocessed |
 | [spaSim](https://bioconductor.org/packages/3.20/bioc/html/spaSim.html)                                           | Unprocessed |

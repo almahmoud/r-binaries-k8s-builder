@@ -4159,7 +4159,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "customCMPdb": [],
   "customProDB": [
     "biomaRt",
     "GenomicAlignments",
@@ -6716,7 +6715,6 @@
     "TrajectoryUtils",
     "SingleCellExperiment"
   ],
-  "smartid": [],
   "smoothclust": [
     "SpatialExperiment",
     "SingleCellExperiment"
