@@ -28,7 +28,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "OrganismDbi",
-    "AnnotationForge",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -120,7 +119,6 @@
     "DESeq2",
     "Category",
     "annotate",
-    "AnnotationForge",
     "GSEABase",
     "ggbio",
     "genefilter",
@@ -155,14 +153,12 @@
     "GenomicAlignments"
   ],
   "AnnotationFilter": [],
-  "AnnotationForge": [],
   "AnnotationHub": [],
   "AnnotationHubData": [
     "AnnotationHub",
     "GenomicFeatures",
     "rtracklayer",
     "OrganismDbi",
-    "AnnotationForge",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -1248,7 +1244,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "OrganismDbi",
-    "AnnotationForge",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -1392,7 +1387,6 @@
   "GOstats": [
     "Category",
     "annotate",
-    "AnnotationForge",
     "GSEABase",
     "genefilter"
   ],
@@ -1598,8 +1592,7 @@
     "GSEABase",
     "GOstats",
     "genefilter",
-    "annotate",
-    "AnnotationForge"
+    "annotate"
   ],
   "GrafGen": [],
   "GreyListChIP": [
@@ -2166,7 +2159,6 @@
     "annotate",
     "lumi",
     "Category",
-    "AnnotationForge",
     "methylumi",
     "GenomicFeatures",
     "GSEABase",
@@ -2869,7 +2861,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationFilter",
-    "AnnotationForge",
     "txdbmaker",
     "biomaRt"
   ],
@@ -3027,7 +3018,6 @@
     "genefilter",
     "GOstats",
     "Category",
-    "AnnotationForge",
     "GSEABase"
   ],
   "SGSeq": [
@@ -3574,7 +3564,6 @@
     "genefilter",
     "annotate"
   ],
-  "adSplit": [],
   "adductomicsR": [
     "ExperimentHub",
     "AnnotationHub"
@@ -3592,7 +3581,6 @@
     "DESeq2",
     "Category",
     "annotate",
-    "AnnotationForge",
     "GSEABase",
     "ggbio",
     "genefilter",
@@ -3692,7 +3680,6 @@
   "anota2seq": [
     "DESeq2"
   ],
-  "apComplex": [],
   "apeglm": [],
   "appreci8R": [
     "VariantAnnotation",
@@ -3743,7 +3730,6 @@
     "GOstats",
     "Category",
     "annotate",
-    "AnnotationForge",
     "GSEABase",
     "genefilter"
   ],
@@ -4019,8 +4005,7 @@
     "Category",
     "GOstats",
     "annotate",
-    "genefilter",
-    "AnnotationForge"
+    "genefilter"
   ],
   "cbaf": [
     "cBioPortalData",
@@ -5078,7 +5063,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "ginmappeR": [],
   "girafe": [
     "ShortRead",
     "GenomicAlignments"
@@ -5305,7 +5289,6 @@
     "GenomicFeatures",
     "Category",
     "annotate",
-    "AnnotationForge",
     "clusterProfiler",
     "GSEABase",
     "genefilter",
@@ -5586,7 +5569,6 @@
     "MultiAssayExperiment",
     "RaggedExperiment",
     "OrganismDbi",
-    "AnnotationForge",
     "txdbmaker",
     "biomaRt"
   ],
@@ -5669,7 +5651,6 @@
     "annotate",
     "rtracklayer",
     "OrganismDbi",
-    "AnnotationForge",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -5695,7 +5676,6 @@
     "GSEABase",
     "genefilter",
     "annotate",
-    "AnnotationForge",
     "biomaRt"
   ],
   "miRNAmeConverter": [],
@@ -6032,7 +6012,6 @@
     "GOstats",
     "Category",
     "annotate",
-    "AnnotationForge",
     "biomaRt",
     "quantro",
     "GSEABase",
@@ -6218,7 +6197,6 @@
     "biomaRt",
     "annotate",
     "Category",
-    "AnnotationForge",
     "clusterProfiler",
     "goseq",
     "GSEABase",
@@ -6471,7 +6449,6 @@
   "rGenomeTracks": [
     "AnnotationHub"
   ],
-  "rScudo": [],
   "rTRM": [],
   "rTRMui": [
     "rTRM",
@@ -6490,7 +6467,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "receptLoss": [],
   "reconsi": [
     "phyloseq"
   ],
@@ -6818,7 +6794,6 @@
     "GSEABase",
     "genefilter",
     "annotate",
-    "AnnotationForge",
     "enrichplot",
     "graphite"
   ],

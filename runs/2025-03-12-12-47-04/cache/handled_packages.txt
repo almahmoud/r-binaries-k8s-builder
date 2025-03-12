@@ -23,6 +23,7 @@ AnVILGCP
 AnVILPublish
 AnVILWorkflow
 AnnotationDbi
+AnnotationForge
 BADER
 BAGS
 BCRANK
@@ -449,6 +450,7 @@ a4Reporting
 aCGH
 abseqR
 acde
+adSplit
 affxparser
 affy
 affyContam
@@ -467,6 +469,7 @@ annaffy
 annotationTools
 anota
 antiProfiles
+apComplex
 aroma.light
 arrayQuality
 assorthead
@@ -626,6 +629,7 @@ ggtree
 ggtreeDendro
 ggtreeExtra
 ggtreeSpace
+ginmappeR
 globalSeq
 gpls
 gpuMagic
@@ -796,6 +800,7 @@ rBLAST
 rBiopaxParser
 rRDP
 rSWeeP
+rScudo
 rWikiPathways
 rain
 ramr
@@ -806,6 +811,7 @@ rawrr
 rbsurv
 rcellminer
 rebook
+receptLoss
 retrofit
 rexposome
 rfaRm
