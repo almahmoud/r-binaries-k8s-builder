@@ -651,6 +651,7 @@ geneplast
 genoCN
 genomeIntervals
 genomes
+genomicInstability
 getDEE2
 geva
 ggkegg
@@ -689,6 +690,7 @@ iGC
 iPath
 iSeq
 ibh
+idiogram
 idpr
 idr2d
 igvShiny
@@ -862,6 +864,7 @@ rols
 rprimer
 rpx
 rqubic
+rrvgo
 rsbml
 rsemmed
 runibic

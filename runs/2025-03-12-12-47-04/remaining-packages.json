@@ -4640,7 +4640,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "genomicInstability": [],
   "geomeTriD": [
     "InteractionSet",
     "trackViewer",
@@ -4904,7 +4903,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "idiogram": [],
   "igvR": [
     "GenomicAlignments",
     "rtracklayer",
@@ -6116,7 +6114,6 @@
     "MultiAssayExperiment",
     "MultiDataSet"
   ],
-  "rrvgo": [],
   "rtracklayer": [
     "GenomicAlignments"
   ],

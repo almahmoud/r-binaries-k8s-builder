@@ -958,3 +958,6 @@ esetVis
 gemma.R
 getDEE2
 sangerseqR
+genomicInstability
+idiogram
+rrvgo
