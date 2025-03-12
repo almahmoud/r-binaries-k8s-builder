@@ -32,6 +32,7 @@ BioCartaImage
 Biobase
 BiocBaseUtils
 BiocBook
+BiocFHIR
 BiocFileCache
 BiocGenerics
 BiocNeighbors
@@ -89,7 +90,9 @@ EBcoexpress
 EMDomics
 EmpiricalBrownsMethod
 EnhancedVolcano
+EpiDISH
 FISHalyseR
+FRGEpistasis
 FitHiC
 GAprediction
 GEM
@@ -115,6 +118,7 @@ GeneOverlap
 GeneSelectMMD
 GeneticsPed
 GladiaTOX
+GraphAT
 GraphAlignment
 HDTD
 HELP
@@ -189,6 +193,7 @@ OPWeight
 OSAT
 OmicsMLRepoR
 Omixer
+OpenStats
 OrderedList
 PANR
 PCAN
@@ -197,16 +202,20 @@ PROcess
 Path2PPI
 PhenoGeneRanker
 PoDCall
+QUBIC
 QuaternaryProd
 RAREsim
 RBM
 RCASPAR
+RCX
 RDRToolbox
 REBET
 RGSEA
+RGraph2js
 RIVER
 RImmPort
 RLMM
+RLassoCox
 RNASeqPower
 RNAdecay
 ROC
@@ -220,6 +229,7 @@ RUVcorr
 RUVnormalize
 RVS
 RankProd
+RbcBook1
 Rbowtie
 Rbwa
 Rcollectl
@@ -261,6 +271,7 @@ TargetScore
 TargetSearch
 TreeAndLeaf
 UNDO
+VERSO
 VennDetail
 Wrench
 XINA
@@ -398,6 +409,7 @@ hierGWAS
 hierinf
 hopach
 hypeR
+hypergraph
 iASeq
 iBBiG
 iBMQ
@@ -488,6 +500,7 @@ pmm
 powerTCR
 preprocessCore
 profileScoreDist
+progeny
 projectR
 proteinProfiles
 pvac
@@ -503,6 +516,7 @@ randPack
 randRotation
 rbsurv
 rcellminer
+retrofit
 rgoslin
 rhdf5
 rhdf5filters
@@ -516,6 +530,7 @@ rsemmed
 sSeq
 sagenhaft
 scBubbletree
+scFeatureFilter
 scMitoMut
 scRecover
 scShapes

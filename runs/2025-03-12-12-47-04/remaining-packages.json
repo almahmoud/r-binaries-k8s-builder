@@ -1046,7 +1046,6 @@
   "BiGGR": [
     "rsbml",
     "hyperdraw",
-    "hypergraph",
     "Rgraphviz"
   ],
   "BiSeq": [
@@ -1203,7 +1202,6 @@
     "biocViews",
     "RBGL"
   ],
-  "BiocFHIR": [],
   "BiocHubsShiny": [
     "AnnotationHub",
     "ExperimentHub",
@@ -3954,7 +3952,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "EpiDISH": [],
   "EpiMix": [
     "AnnotationHub",
     "AnnotationDbi",
@@ -4231,7 +4228,6 @@
     "DESeq2",
     "txdbmaker"
   ],
-  "FRGEpistasis": [],
   "FamAgg": [],
   "FastqCleaner": [
     "IRanges",
@@ -5308,7 +5304,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "GraphAT": [],
   "GreyListChIP": [
     "GenomicRanges",
     "GenomicAlignments",
@@ -5446,7 +5441,6 @@
     "S4Vectors",
     "makecdfenv",
     "Biostrings",
-    "hypergraph",
     "IRanges",
     "XVector",
     "GenomeInfoDb",
@@ -6627,7 +6621,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "EpiDISH",
     "SparseArray",
     "UCSC.utils",
     "XVector"
@@ -8184,7 +8177,6 @@
   "OncoSimulR": [
     "Rgraphviz"
   ],
-  "OpenStats": [],
   "Organism.dplyr": [
     "AnnotationFilter",
     "S4Vectors",
@@ -8891,7 +8883,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "QUBIC": [],
   "Qtlizer": [
     "GenomicRanges",
     "S4Vectors",
@@ -9073,7 +9064,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "RCX": [],
   "RCy3": [],
   "RCyjs": [],
   "REDseq": [
@@ -9160,7 +9150,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RGraph2js": [],
   "RITAN": [
     "BgeeDB",
     "GenomicFeatures",
@@ -9207,7 +9196,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RLassoCox": [],
   "RMassBank": [
     "MSnbase",
     "mzR",
@@ -9598,7 +9586,6 @@
     "SparseArray",
     "XVector"
   ],
-  "RbcBook1": [],
   "Rbec": [
     "dada2",
     "Biostrings",
@@ -9721,7 +9708,6 @@
     "IRanges",
     "GenomeInfoDb",
     "S4Arrays",
-    "EpiDISH",
     "ScaledMatrix",
     "UCSC.utils",
     "XVector",
@@ -11574,7 +11560,6 @@
     "UCSC.utils"
   ],
   "TOAST": [
-    "EpiDISH",
     "SummarizedExperiment",
     "GenomicRanges",
     "S4Vectors",
@@ -11987,7 +11972,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "VERSO": [],
   "VaSP": [
     "ballgown",
     "IRanges",
@@ -12673,7 +12657,6 @@
     "S4Vectors",
     "makecdfenv",
     "Biostrings",
-    "hypergraph",
     "IRanges",
     "XVector",
     "GenomeInfoDb",
@@ -15122,7 +15105,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "EpiDISH",
     "SparseArray",
     "UCSC.utils",
     "XVector"
@@ -15844,7 +15826,6 @@
     "SparseArray"
   ],
   "easier": [
-    "progeny",
     "quantiseqr",
     "DESeq2",
     "S4Vectors",
@@ -17816,10 +17797,8 @@
     "UCSC.utils"
   ],
   "hyperdraw": [
-    "hypergraph",
     "Rgraphviz"
   ],
-  "hypergraph": [],
   "iCNV": [
     "CODEX",
     "Rsamtools",
@@ -19856,9 +19835,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "mosbi": [
-    "QUBIC"
-  ],
+  "mosbi": [],
   "mosdef": [
     "AnnotationDbi",
     "topGO",
@@ -20409,9 +20386,7 @@
     "flowCore",
     "S4Vectors"
   ],
-  "ndexr": [
-    "RCX"
-  ],
+  "ndexr": [],
   "nearBynding": [
     "plyranges",
     "Rsamtools",
@@ -21729,7 +21704,6 @@
     "GOSemSim",
     "pwalign"
   ],
-  "progeny": [],
   "protGear": [
     "genefilter",
     "AnnotationDbi",
@@ -22421,7 +22395,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "retrofit": [],
   "rexposome": [
     "S4Vectors",
     "impute"
@@ -23028,7 +23001,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "scFeatureFilter": [],
   "scFeatures": [
     "DelayedArray",
     "DelayedMatrixStats",
