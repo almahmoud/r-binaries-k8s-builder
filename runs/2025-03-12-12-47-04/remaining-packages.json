@@ -388,7 +388,6 @@
     "AnnotationFilter",
     "SparseArray"
   ],
-  "AlpsNMR": [],
   "Anaquin": [
     "DESeq2",
     "IRanges",
@@ -913,7 +912,6 @@
     "XVector"
   ],
   "BiGGR": [
-    "rsbml",
     "hyperdraw",
     "Rgraphviz"
   ],
@@ -18071,7 +18069,6 @@
     "AnnotationFilter"
   ],
   "omicRexposome": [
-    "rexposome",
     "sva",
     "omicade4",
     "MultiDataSet",
@@ -19549,7 +19546,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "rexposome": [],
   "rfPred": [
     "GenomeInfoDb",
     "IRanges",
@@ -19760,7 +19756,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "rsbml": [],
   "rtracklayer": [
     "GenomicRanges",
     "IRanges",

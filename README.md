@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 634 packages built successfully
+- 637 packages built successfully
 - 11 packages failed to build
-- 1588 packages not yet processed
+- 1585 packages not yet processed
 
 ## Failed Builds (11)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -23,7 +23,7 @@
 | [gpuMagic](https://bioconductor.org/packages/3.20/bioc/html/gpuMagic.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/gpuMagic/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gpuMagic)     | Compilation failed:  ‘gpuMagic’     |
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
 
-## Successfully Built (634)
+## Successfully Built (637)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -660,8 +660,11 @@
 | [metabCombiner](https://bioconductor.org/packages/3.20/bioc/html/metabCombiner.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/metabCombiner/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/metabCombiner)           |
 | [RcwlPipelines](https://bioconductor.org/packages/3.20/bioc/html/RcwlPipelines.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/RcwlPipelines/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RcwlPipelines)           |
 | [sevenbridges](https://bioconductor.org/packages/3.20/bioc/html/sevenbridges.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/sevenbridges/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sevenbridges)            |
+| [AlpsNMR](https://bioconductor.org/packages/3.20/bioc/html/AlpsNMR.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AlpsNMR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AlpsNMR)                 |
+| [rexposome](https://bioconductor.org/packages/3.20/bioc/html/rexposome.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/rexposome/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rexposome)               |
+| [rsbml](https://bioconductor.org/packages/3.20/bioc/html/rsbml.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/rsbml/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rsbml)                   |
 
-## Not Yet Processed (1588)
+## Not Yet Processed (1585)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -687,7 +690,6 @@
 | [AffiXcan](https://bioconductor.org/packages/3.20/bioc/html/AffiXcan.html)                                       | Unprocessed |
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                                 | Unprocessed |
 | [AllelicImbalance](https://bioconductor.org/packages/3.20/bioc/html/AllelicImbalance.html)                       | Unprocessed |
-| [AlpsNMR](https://bioconductor.org/packages/3.20/bioc/html/AlpsNMR.html)                                         | Unprocessed |
 | [Anaquin](https://bioconductor.org/packages/3.20/bioc/html/Anaquin.html)                                         | Unprocessed |
 | [AneuFinder](https://bioconductor.org/packages/3.20/bioc/html/AneuFinder.html)                                   | Unprocessed |
 | [AnnotationDbi](https://bioconductor.org/packages/3.20/bioc/html/AnnotationDbi.html)                             | Unprocessed |
@@ -2038,7 +2040,6 @@
 | [regioneReloaded](https://bioconductor.org/packages/3.20/bioc/html/regioneReloaded.html)                         | Unprocessed |
 | [regsplice](https://bioconductor.org/packages/3.20/bioc/html/regsplice.html)                                     | Unprocessed |
 | [regutools](https://bioconductor.org/packages/3.20/bioc/html/regutools.html)                                     | Unprocessed |
-| [rexposome](https://bioconductor.org/packages/3.20/bioc/html/rexposome.html)                                     | Unprocessed |
 | [rfPred](https://bioconductor.org/packages/3.20/bioc/html/rfPred.html)                                           | Unprocessed |
 | [rfaRm](https://bioconductor.org/packages/3.20/bioc/html/rfaRm.html)                                             | Unprocessed |
 | [rgsepd](https://bioconductor.org/packages/3.20/bioc/html/rgsepd.html)                                           | Unprocessed |
@@ -2056,7 +2057,6 @@
 | [rprimer](https://bioconductor.org/packages/3.20/bioc/html/rprimer.html)                                         | Unprocessed |
 | [rqt](https://bioconductor.org/packages/3.20/bioc/html/rqt.html)                                                 | Unprocessed |
 | [rrvgo](https://bioconductor.org/packages/3.20/bioc/html/rrvgo.html)                                             | Unprocessed |
-| [rsbml](https://bioconductor.org/packages/3.20/bioc/html/rsbml.html)                                             | Unprocessed |
 | [rtracklayer](https://bioconductor.org/packages/3.20/bioc/html/rtracklayer.html)                                 | Unprocessed |
 | [runibic](https://bioconductor.org/packages/3.20/bioc/html/runibic.html)                                         | Unprocessed |
 | [sRACIPE](https://bioconductor.org/packages/3.20/bioc/html/sRACIPE.html)                                         | Unprocessed |
