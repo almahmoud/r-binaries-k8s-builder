@@ -509,6 +509,7 @@ biodbNcbi
 biodbNci
 biodbUniprot
 biomformat
+biotmle
 bluster
 brendaDb
 bugsigdbr
@@ -956,6 +957,7 @@ veloviz
 viper
 vsn
 weaver
+weitrix
 widgetTools
 wppi
 xmapbridge

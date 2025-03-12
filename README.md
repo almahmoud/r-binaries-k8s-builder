@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 946 packages built successfully
+- 948 packages built successfully
 - 16 packages failed to build
-- 1271 packages not yet processed
+- 1269 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (946)
+## Successfully Built (948)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -977,8 +977,10 @@
 | [cTRAP](https://bioconductor.org/packages/3.20/bioc/html/cTRAP.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/cTRAP/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cTRAP)                     |
 | [structToolbox](https://bioconductor.org/packages/3.20/bioc/html/structToolbox.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/structToolbox/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/structToolbox)             |
 | [supersigs](https://bioconductor.org/packages/3.20/bioc/html/supersigs.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/supersigs/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/supersigs)                 |
+| [biotmle](https://bioconductor.org/packages/3.20/bioc/html/biotmle.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/biotmle/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biotmle)                   |
+| [weitrix](https://bioconductor.org/packages/3.20/bioc/html/weitrix.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/weitrix/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/weitrix)                   |
 
-## Not Yet Processed (1271)
+## Not Yet Processed (1269)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1643,7 +1645,6 @@
 | [biomaRt](https://bioconductor.org/packages/3.20/bioc/html/biomaRt.html)                                         | Unprocessed |
 | [biomvRCNS](https://bioconductor.org/packages/3.20/bioc/html/biomvRCNS.html)                                     | Unprocessed |
 | [biosigner](https://bioconductor.org/packages/3.20/bioc/html/biosigner.html)                                     | Unprocessed |
-| [biotmle](https://bioconductor.org/packages/3.20/bioc/html/biotmle.html)                                         | Unprocessed |
 | [biovizBase](https://bioconductor.org/packages/3.20/bioc/html/biovizBase.html)                                   | Unprocessed |
 | [biscuiteer](https://bioconductor.org/packages/3.20/bioc/html/biscuiteer.html)                                   | Unprocessed |
 | [blacksheepr](https://bioconductor.org/packages/3.20/bioc/html/blacksheepr.html)                                 | Unprocessed |
@@ -2239,7 +2240,6 @@
 | [wateRmelon](https://bioconductor.org/packages/3.20/bioc/html/wateRmelon.html)                                   | Unprocessed |
 | [wavClusteR](https://bioconductor.org/packages/3.20/bioc/html/wavClusteR.html)                                   | Unprocessed |
 | [webbioc](https://bioconductor.org/packages/3.20/bioc/html/webbioc.html)                                         | Unprocessed |
-| [weitrix](https://bioconductor.org/packages/3.20/bioc/html/weitrix.html)                                         | Unprocessed |
 | [wiggleplotr](https://bioconductor.org/packages/3.20/bioc/html/wiggleplotr.html)                                 | Unprocessed |
 | [wpm](https://bioconductor.org/packages/3.20/bioc/html/wpm.html)                                                 | Unprocessed |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                                               | Unprocessed |

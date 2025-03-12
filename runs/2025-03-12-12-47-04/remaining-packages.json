@@ -3607,7 +3607,6 @@
     "MultiDataSet",
     "ropls"
   ],
-  "biotmle": [],
   "biovizBase": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -7064,7 +7063,6 @@
     "GenomicAlignments"
   ],
   "webbioc": [],
-  "weitrix": [],
   "wiggleplotr": [
     "rtracklayer",
     "GenomicAlignments"

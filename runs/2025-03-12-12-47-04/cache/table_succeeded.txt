@@ -944,3 +944,5 @@
 ['[cTRAP](https://bioconductor.org/packages/3.20/bioc/html/cTRAP.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/cTRAP/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cTRAP)']
 ['[structToolbox](https://bioconductor.org/packages/3.20/bioc/html/structToolbox.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/structToolbox/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/structToolbox)']
 ['[supersigs](https://bioconductor.org/packages/3.20/bioc/html/supersigs.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/supersigs/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/supersigs)']
+['[biotmle](https://bioconductor.org/packages/3.20/bioc/html/biotmle.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/biotmle/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biotmle)']
+['[weitrix](https://bioconductor.org/packages/3.20/bioc/html/weitrix.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/weitrix/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/weitrix)']
