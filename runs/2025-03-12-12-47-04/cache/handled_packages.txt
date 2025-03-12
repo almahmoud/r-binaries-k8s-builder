@@ -255,6 +255,7 @@ RbcBook1
 Rbowtie
 Rbwa
 Rcollectl
+Rcwl
 Rdisop
 ReactomeGSA
 ReadqPCR
@@ -295,6 +296,7 @@ TargetScore
 TargetSearch
 TrajectoryGeometry
 TreeAndLeaf
+UCSC.utils
 UNDO
 VERSO
 VennDetail

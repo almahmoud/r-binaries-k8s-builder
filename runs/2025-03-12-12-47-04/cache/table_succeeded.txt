@@ -620,3 +620,5 @@
 ['[GEOsubmission](https://bioconductor.org/packages/3.20/bioc/html/GEOsubmission.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GEOsubmission/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GEOsubmission)']
 ['[GSEAlm](https://bioconductor.org/packages/3.20/bioc/html/GSEAlm.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GSEAlm/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSEAlm)']
 ['[twoddpcr](https://bioconductor.org/packages/3.20/bioc/html/twoddpcr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/twoddpcr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/twoddpcr)']
+['[Rcwl](https://bioconductor.org/packages/3.20/bioc/html/Rcwl.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Rcwl/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rcwl)']
+['[UCSC.utils](https://bioconductor.org/packages/3.20/bioc/html/UCSC.utils.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/UCSC.utils/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/UCSC.utils)']

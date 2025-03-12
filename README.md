@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 622 packages built successfully
+- 624 packages built successfully
 - 11 packages failed to build
-- 1600 packages not yet processed
+- 1598 packages not yet processed
 
 ## Failed Builds (11)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -23,7 +23,7 @@
 | [gpuMagic](https://bioconductor.org/packages/3.20/bioc/html/gpuMagic.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/gpuMagic/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gpuMagic)     | Compilation failed:  ‘gpuMagic’     |
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
 
-## Successfully Built (622)
+## Successfully Built (624)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -648,8 +648,10 @@
 | [GEOsubmission](https://bioconductor.org/packages/3.20/bioc/html/GEOsubmission.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/GEOsubmission/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GEOsubmission)           |
 | [GSEAlm](https://bioconductor.org/packages/3.20/bioc/html/GSEAlm.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/GSEAlm/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSEAlm)                  |
 | [twoddpcr](https://bioconductor.org/packages/3.20/bioc/html/twoddpcr.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/twoddpcr/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/twoddpcr)                |
+| [Rcwl](https://bioconductor.org/packages/3.20/bioc/html/Rcwl.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/Rcwl/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rcwl)                    |
+| [UCSC.utils](https://bioconductor.org/packages/3.20/bioc/html/UCSC.utils.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/UCSC.utils/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/UCSC.utils)              |
 
-## Not Yet Processed (1600)
+## Not Yet Processed (1598)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1247,7 +1249,6 @@
 | [Rbowtie2](https://bioconductor.org/packages/3.20/bioc/html/Rbowtie2.html)                                       | Unprocessed |
 | [RcisTarget](https://bioconductor.org/packages/3.20/bioc/html/RcisTarget.html)                                   | Unprocessed |
 | [Rcpi](https://bioconductor.org/packages/3.20/bioc/html/Rcpi.html)                                               | Unprocessed |
-| [Rcwl](https://bioconductor.org/packages/3.20/bioc/html/Rcwl.html)                                               | Unprocessed |
 | [RcwlPipelines](https://bioconductor.org/packages/3.20/bioc/html/RcwlPipelines.html)                             | Unprocessed |
 | [ReUseData](https://bioconductor.org/packages/3.20/bioc/html/ReUseData.html)                                     | Unprocessed |
 | [ReactomePA](https://bioconductor.org/packages/3.20/bioc/html/ReactomePA.html)                                   | Unprocessed |
@@ -1392,7 +1393,6 @@
 | [TreeSummarizedExperiment](https://bioconductor.org/packages/3.20/bioc/html/TreeSummarizedExperiment.html)       | Unprocessed |
 | [Trendy](https://bioconductor.org/packages/3.20/bioc/html/Trendy.html)                                           | Unprocessed |
 | [TurboNorm](https://bioconductor.org/packages/3.20/bioc/html/TurboNorm.html)                                     | Unprocessed |
-| [UCSC.utils](https://bioconductor.org/packages/3.20/bioc/html/UCSC.utils.html)                                   | Unprocessed |
 | [UCell](https://bioconductor.org/packages/3.20/bioc/html/UCell.html)                                             | Unprocessed |
 | [UMI4Cats](https://bioconductor.org/packages/3.20/bioc/html/UMI4Cats.html)                                       | Unprocessed |
 | [UPDhmm](https://bioconductor.org/packages/3.20/bioc/html/UPDhmm.html)                                           | Unprocessed |
