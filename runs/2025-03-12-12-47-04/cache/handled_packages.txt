@@ -164,6 +164,7 @@ QuaternaryProd
 RAREsim
 RBM
 REBET
+RGSEA
 RLMM
 RNASeqPower
 RNAdecay
@@ -193,6 +194,7 @@ SIMLR
 SLqPCR
 SMAD
 SNAGEE
+SNPRelate
 SNPediaR
 STRINGdb
 SUITOR
@@ -308,6 +310,7 @@ frenchFISH
 gaga
 garfield
 gdsfmt
+geNetClassifier
 gemini
 genArise
 geneClassifiers
@@ -349,6 +352,7 @@ interacCircos
 iterativeBMA
 iterativeBMAsurv
 lapmix
+les
 limma
 limmaGUI
 lmdme
@@ -378,6 +382,7 @@ multtest
 netprioR
 nnNorm
 normalize450K
+nuCpos
 occugene
 omada
 ompBAM

@@ -1729,7 +1729,6 @@
     "GenomeInfoDb",
     "IRanges",
     "S4Vectors",
-    "SNPRelate",
     "SummarizedExperiment",
     "edgeR",
     "DelayedArray",
@@ -4576,7 +4575,6 @@
   "GDSArray": [
     "DelayedArray",
     "S4Vectors",
-    "SNPRelate",
     "SeqArray",
     "IRanges",
     "S4Arrays",
@@ -4594,7 +4592,6 @@
     "S4Vectors",
     "SeqArray",
     "SeqVarTools",
-    "SNPRelate",
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
@@ -4862,7 +4859,6 @@
   "GSRI": [
     "genefilter",
     "GSEABase",
-    "les",
     "AnnotationDbi",
     "annotate",
     "graph",
@@ -9363,7 +9359,6 @@
     "UCSC.utils"
   ],
   "RAIDS": [
-    "SNPRelate",
     "GENESIS",
     "S4Vectors",
     "GenomicRanges",
@@ -9549,7 +9544,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RGSEA": [],
   "RGraph2js": [
     "graph"
   ],
@@ -10832,7 +10826,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "SNPRelate": [],
   "SNPhood": [
     "GenomicRanges",
     "Rsamtools",
@@ -11105,7 +11098,6 @@
   ],
   "SeqSQC": [
     "ExperimentHub",
-    "SNPRelate",
     "GenomicRanges",
     "IRanges",
     "S4Vectors",
@@ -12561,7 +12553,6 @@
     "GenomicRanges",
     "GDSArray",
     "DelayedDataFrame",
-    "SNPRelate",
     "SeqArray",
     "DelayedArray",
     "Biostrings",
@@ -13820,7 +13811,6 @@
   "bioCancer": [
     "cBioPortalData",
     "AnnotationDbi",
-    "geNetClassifier",
     "DOSE",
     "clusterProfiler",
     "ReactomePA",
@@ -14295,7 +14285,6 @@
   "canceR": [
     "cBioPortalData",
     "GSEABase",
-    "geNetClassifier",
     "phenoTest",
     "MultiAssayExperiment",
     "GenomeInfoDb",
@@ -17761,7 +17750,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "geNetClassifier": [],
   "gemma.R": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -18340,7 +18328,6 @@
     "GWASTools",
     "VariantAnnotation",
     "SummarizedExperiment",
-    "SNPRelate",
     "GenomicRanges",
     "S4Vectors",
     "IRanges",
@@ -19260,7 +19247,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "les": [],
   "levi": [],
   "lfa": [],
   "limpca": [
@@ -21441,7 +21427,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "nuCpos": [],
   "nucleR": [
     "Biostrings",
     "GenomeInfoDb",
