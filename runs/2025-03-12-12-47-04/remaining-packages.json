@@ -6,9 +6,7 @@
   "ADAMgui": [
     "ADAM"
   ],
-  "ADAPT": [
-    "phyloseq"
-  ],
+  "ADAPT": [],
   "ADImpute": [
     "SingleCellExperiment"
   ],
@@ -155,7 +153,6 @@
     "oligoClasses",
     "affxparser"
   ],
-  "AssessORF": [],
   "BANDITS": [
     "DRIMSeq"
   ],
@@ -209,7 +206,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "BPRMeth": [],
   "BREW3R.r": [],
   "BSgenome": [
     "rtracklayer",
@@ -291,7 +287,6 @@
     "zellkonverter",
     "SingleCellExperiment"
   ],
-  "BiFET": [],
   "BiSeq": [
     "rtracklayer",
     "globaltest",
@@ -687,7 +682,6 @@
     "SingleCellExperiment",
     "BiocSingular",
     "scuttle",
-    "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
     "GenomicAlignments"
@@ -1749,7 +1743,6 @@
   ],
   "MBASED": [],
   "MBECS": [
-    "phyloseq",
     "sva",
     "genefilter"
   ],
@@ -1892,7 +1885,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "MSstatsLiP": [],
   "MSstatsQC": [
     "MSnbase",
     "PSMatch",
@@ -1910,7 +1902,6 @@
   ],
   "MSstatsShiny": [],
   "MWASTools": [],
-  "Macarron": [],
   "MatrixQCvis": [
     "proDA",
     "sva",
@@ -1923,10 +1914,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "Melissa": [
-    "BPRMeth"
-  ],
-  "MetMashR": [],
+  "Melissa": [],
   "MetNet": [],
   "MetaNeighbor": [
     "SingleCellExperiment"
@@ -2294,7 +2282,6 @@
     "GSEABase"
   ],
   "PathoStat": [
-    "phyloseq",
     "DESeq2"
   ],
   "PeacoQC": [
@@ -2420,9 +2407,7 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "RCM": [
-    "phyloseq"
-  ],
+  "RCM": [],
   "RCSL": [
     "SingleCellExperiment"
   ],
@@ -2552,9 +2537,7 @@
   ],
   "RNAsense": [],
   "ROCpAI": [],
-  "RPA": [
-    "phyloseq"
-  ],
+  "RPA": [],
   "RSVSim": [
     "ShortRead",
     "GenomicAlignments"
@@ -2652,7 +2635,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "ResidualMatrix": [],
   "RgnTX": [
     "GenomicFeatures",
     "regioneR",
@@ -2808,9 +2790,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SIAMCAT": [
-    "phyloseq"
-  ],
+  "SIAMCAT": [],
   "SICtools": [],
   "SIM": [
     "globaltest"
@@ -2865,8 +2845,7 @@
     "SingleCellExperiment"
   ],
   "SPsimSeq": [
-    "SingleCellExperiment",
-    "phyloseq"
+    "SingleCellExperiment"
   ],
   "SQLDataFrame": [],
   "SWATH2stats": [
@@ -2899,9 +2878,7 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "SimBu": [
-    "phyloseq"
-  ],
+  "SimBu": [],
   "SimFFPE": [],
   "SingleCellAlleleExperiment": [
     "SingleCellExperiment"
@@ -3030,8 +3007,7 @@
     "DESeq2",
     "TCGAbiolinks",
     "biomaRt",
-    "SingleCellExperiment",
-    "phyloseq"
+    "SingleCellExperiment"
   ],
   "SynMut": [],
   "TADCompare": [
@@ -3508,7 +3484,6 @@
     "SingleCellExperiment",
     "BiocSingular",
     "scuttle",
-    "ResidualMatrix",
     "ScaledMatrix",
     "beachmat"
   ],
@@ -3524,7 +3499,6 @@
     "PhIPData"
   ],
   "benchdamic": [
-    "phyloseq",
     "TreeSummarizedExperiment",
     "zinbwave",
     "DESeq2",
@@ -3893,9 +3867,7 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "combi": [
-    "phyloseq"
-  ],
+  "combi": [],
   "compEpiTools": [
     "topGO",
     "GenomicFeatures",
@@ -4126,7 +4098,6 @@
   ],
   "dar": [
     "mia",
-    "phyloseq",
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
@@ -5290,17 +5261,12 @@
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "microbiome": [
-    "phyloseq"
-  ],
-  "microbiomeDASim": [
-    "phyloseq"
-  ],
+  "microbiome": [],
+  "microbiomeDASim": [],
   "microbiomeExplorer": [
     "DESeq2"
   ],
   "microbiomeMarker": [
-    "phyloseq",
     "DESeq2",
     "ALDEx2"
   ],
@@ -5406,7 +5372,6 @@
     "AnnotationFilter",
     "CNEr"
   ],
-  "motifcounter": [],
   "motifmatchr": [
     "TFBSTools",
     "BSgenome",
@@ -5494,8 +5459,7 @@
     "beachmat",
     "scuttle",
     "scran",
-    "batchelor",
-    "ResidualMatrix"
+    "batchelor"
   ],
   "muscat": [
     "DESeq2",
@@ -5649,7 +5613,6 @@
   ],
   "omicsViewer": [],
   "oncomix": [],
-  "ontoProc": [],
   "openCyto": [
     "flowWorkspace"
   ],
@@ -5783,7 +5746,6 @@
     "ropls"
   ],
   "phenopath": [],
-  "phyloseq": [],
   "pipeComp": [
     "SingleCellExperiment",
     "scran",
@@ -5821,17 +5783,14 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "pogos": [
-    "ontoProc"
-  ],
+  "pogos": [],
   "pram": [
     "GenomicAlignments",
     "rtracklayer"
   ],
   "prebs": [
     "GenomicAlignments",
-    "RPA",
-    "phyloseq"
+    "RPA"
   ],
   "preciseTAD": [
     "rCGH",
@@ -5979,9 +5938,7 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "reconsi": [
-    "phyloseq"
-  ],
+  "reconsi": [],
   "recount": [
     "derfinder",
     "GEOquery",
@@ -6241,7 +6198,6 @@
     "scran",
     "SingleCellExperiment",
     "scuttle",
-    "ResidualMatrix",
     "ScaledMatrix",
     "beachmat"
   ],
@@ -6525,7 +6481,6 @@
     "scuttle",
     "zellkonverter",
     "BiocSingular",
-    "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
     "alabaster.matrix",
@@ -6771,9 +6726,7 @@
     "GenomicAlignments",
     "AnnotationFilter"
   ],
-  "tenXplore": [
-    "ontoProc"
-  ],
+  "tenXplore": [],
   "ternarynet": [],
   "terraTCGAdata": [
     "MultiAssayExperiment",
@@ -7041,7 +6994,6 @@
     "genefilter"
   ],
   "zitools": [
-    "phyloseq",
     "DESeq2"
   ]
 }

@@ -25,17 +25,20 @@ AnVILWorkflow
 AnnotationDbi
 AnnotationForge
 AnnotationHub
+AssessORF
 BADER
 BAGS
 BCRANK
 BEclear
 BG2
 BLMA
+BPRMeth
 BRAIN
 BUS
 BaseSpaceR
 BayesKnockdown
 BeadDataPackR
+BiFET
 BiGGR
 BiRewire
 BioCartaImage
@@ -258,10 +261,12 @@ MSstats
 MSstatsBig
 MSstatsConvert
 MSstatsLOBD
+MSstatsLiP
 MSstatsPTM
 MSstatsTMT
 MVCClass
 Maaslin2
+Macarron
 MantelCorr
 MassArray
 MassSpecWavelet
@@ -272,6 +277,7 @@ Mergeomics
 MesKit
 MetCirc
 MetID
+MetMashR
 MetaCyto
 MetaboCoreUtils
 MethPed
@@ -379,6 +385,7 @@ ReactomeGSA
 ReadqPCR
 RedeR
 RedisParam
+ResidualMatrix
 Rfastp
 Rgraphviz
 Rhdf5lib
@@ -765,6 +772,7 @@ mixOmics
 mnem
 monocle
 mosbi
+motifcounter
 msPurity
 multiClust
 multiscan
@@ -787,6 +795,7 @@ omada
 ompBAM
 oncoscanR
 onlineFDR
+ontoProc
 openPrimeR
 oppti
 optimalFlow
@@ -806,6 +815,7 @@ pfamAnalyzeR
 pgca
 philr
 phosphonormalizer
+phyloseq
 piano
 pickgene
 planet
