@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 940 packages built successfully
+- 943 packages built successfully
 - 16 packages failed to build
-- 1277 packages not yet processed
+- 1274 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (940)
+## Successfully Built (943)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -971,8 +971,11 @@
 | [stageR](https://bioconductor.org/packages/3.20/bioc/html/stageR.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/stageR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/stageR)                    |
 | [customCMPdb](https://bioconductor.org/packages/3.20/bioc/html/customCMPdb.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/customCMPdb/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/customCMPdb)               |
 | [smartid](https://bioconductor.org/packages/3.20/bioc/html/smartid.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/smartid/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/smartid)                   |
+| [ExperimentHub](https://bioconductor.org/packages/3.20/bioc/html/ExperimentHub.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/ExperimentHub/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ExperimentHub)             |
+| [ipdDb](https://bioconductor.org/packages/3.20/bioc/html/ipdDb.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/ipdDb/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ipdDb)                     |
+| [rGenomeTracks](https://bioconductor.org/packages/3.20/bioc/html/rGenomeTracks.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/rGenomeTracks/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rGenomeTracks)             |
 
-## Not Yet Processed (1277)
+## Not Yet Processed (1274)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1176,7 +1179,6 @@
 | [EpipwR](https://bioconductor.org/packages/3.20/bioc/html/EpipwR.html)                                           | Unprocessed |
 | [EventPointer](https://bioconductor.org/packages/3.20/bioc/html/EventPointer.html)                               | Unprocessed |
 | [ExCluster](https://bioconductor.org/packages/3.20/bioc/html/ExCluster.html)                                     | Unprocessed |
-| [ExperimentHub](https://bioconductor.org/packages/3.20/bioc/html/ExperimentHub.html)                             | Unprocessed |
 | [ExperimentHubData](https://bioconductor.org/packages/3.20/bioc/html/ExperimentHubData.html)                     | Unprocessed |
 | [ExperimentSubset](https://bioconductor.org/packages/3.20/bioc/html/ExperimentSubset.html)                       | Unprocessed |
 | [ExpressionAtlas](https://bioconductor.org/packages/3.20/bioc/html/ExpressionAtlas.html)                         | Unprocessed |
@@ -1875,7 +1877,6 @@
 | [infercnv](https://bioconductor.org/packages/3.20/bioc/html/infercnv.html)                                       | Unprocessed |
 | [intansv](https://bioconductor.org/packages/3.20/bioc/html/intansv.html)                                         | Unprocessed |
 | [interactiveDisplay](https://bioconductor.org/packages/3.20/bioc/html/interactiveDisplay.html)                   | Unprocessed |
-| [ipdDb](https://bioconductor.org/packages/3.20/bioc/html/ipdDb.html)                                             | Unprocessed |
 | [isobar](https://bioconductor.org/packages/3.20/bioc/html/isobar.html)                                           | Unprocessed |
 | [isomiRs](https://bioconductor.org/packages/3.20/bioc/html/isomiRs.html)                                         | Unprocessed |
 | [ivygapSE](https://bioconductor.org/packages/3.20/bioc/html/ivygapSE.html)                                       | Unprocessed |
@@ -2062,7 +2063,6 @@
 | [rCGH](https://bioconductor.org/packages/3.20/bioc/html/rCGH.html)                                               | Unprocessed |
 | [rGADEM](https://bioconductor.org/packages/3.20/bioc/html/rGADEM.html)                                           | Unprocessed |
 | [rGREAT](https://bioconductor.org/packages/3.20/bioc/html/rGREAT.html)                                           | Unprocessed |
-| [rGenomeTracks](https://bioconductor.org/packages/3.20/bioc/html/rGenomeTracks.html)                             | Unprocessed |
 | [rTRM](https://bioconductor.org/packages/3.20/bioc/html/rTRM.html)                                               | Unprocessed |
 | [rTRMui](https://bioconductor.org/packages/3.20/bioc/html/rTRMui.html)                                           | Unprocessed |
 | [raer](https://bioconductor.org/packages/3.20/bioc/html/raer.html)                                               | Unprocessed |

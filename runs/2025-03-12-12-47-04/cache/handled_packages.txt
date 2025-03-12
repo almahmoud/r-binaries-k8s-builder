@@ -141,6 +141,7 @@ EnMCB
 EnhancedVolcano
 EpiDISH
 ExiMiR
+ExperimentHub
 ExploreModelMatrix
 FELLA
 FGNet
@@ -687,6 +688,7 @@ impute
 infinityFlow
 interacCircos
 interactiveDisplayBase
+ipdDb
 iterativeBMA
 iterativeBMAsurv
 kebabs
@@ -817,6 +819,7 @@ qusage
 qvalue
 rBLAST
 rBiopaxParser
+rGenomeTracks
 rRDP
 rSWeeP
 rScudo
