@@ -544,3 +544,12 @@ timecourse
 twilight
 variancePartition
 viper
+CGHregions
+MetID
+OrderedList
+bioassayR
+diggit
+eiR
+fmcsR
+metagenomeSeq
+sparseMatrixStats
