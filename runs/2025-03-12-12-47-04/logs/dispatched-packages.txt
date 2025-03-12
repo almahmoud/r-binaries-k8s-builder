@@ -692,3 +692,14 @@ MetaboCoreUtils
 SIMAT
 TargetDecoy
 msPurity
+BioMVCClass
+GeneNetworkBuilder
+KEGGgraph
+MOGAMUN
+OncoSimulR
+TRONCO
+fedup
+hyperdraw
+mnem
+netresponse
+paircompviz
