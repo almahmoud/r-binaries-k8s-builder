@@ -29,6 +29,7 @@ BUS
 BaseSpaceR
 BayesKnockdown
 BeadDataPackR
+BiGGR
 BiRewire
 BioCartaImage
 BioMVCClass
@@ -67,6 +68,7 @@ Cardinal
 CardinalIO
 CausalR
 CellMapper
+CellNOptR
 ChemmineOB
 ChemmineR
 Chicago
@@ -76,6 +78,7 @@ ClusterSignificance
 ComPrAn
 ConsensusClusterPlus
 Cormotif
+CytoGLMM
 DART
 DCATS
 DEGseq
@@ -98,6 +101,7 @@ Doscheda
 DriverNet
 DynDoc
 EBImage
+EBSeq
 EBarrays
 EBcoexpress
 EMDomics
@@ -121,6 +125,7 @@ GEOsubmission
 GEWIST
 GGPA
 GIGSEA
+GLAD
 GPA
 GRENITS
 GSALightning
@@ -134,8 +139,10 @@ GWASTools
 GenProSeq
 GeneExpressionSignature
 GeneGA
+GeneNetworkBuilder
 GeneOverlap
 GeneSelectMMD
+GeneticsPed
 GladiaTOX
 GraphAT
 GraphAlignment
@@ -160,6 +167,7 @@ IMPCdata
 INDEED
 INPower
 INTACT
+IRanges
 ISAnalytics
 ISoLDE
 Icens
@@ -169,6 +177,7 @@ IsoCorrectoR
 IsoCorrectoRGUI
 KBoost
 KCsmart
+KEGGgraph
 KinSwingR
 LBE
 LEA
@@ -210,6 +219,7 @@ NPARC
 NTW
 NanoStringDiff
 NanoTube
+NetPathMiner
 NormqPCR
 NuPoP
 OCplus
@@ -220,6 +230,7 @@ OSAT
 OmicsMLRepoR
 Omixer
 OmnipathR
+OncoSimulR
 OpenStats
 OrderedList
 PANR
@@ -287,11 +298,13 @@ Rmagpie
 Rnits
 Rsubread
 Rtpca
+Rtreemix
 S4Vectors
 SANTA
 SBMLR
 SCBN
 SCFA
+SIMAT
 SIMLR
 SLqPCR
 SMAD
@@ -313,6 +326,7 @@ TPP
 TPP2D
 TRONCO
 TSAR
+TargetDecoy
 TargetScore
 TargetSearch
 TrajectoryGeometry
@@ -331,6 +345,7 @@ a4Reporting
 aCGH
 abseqR
 acde
+affxparser
 affy
 affyContam
 affycomp
@@ -353,6 +368,7 @@ bioDist
 bioassayR
 biobroom
 biobtreeR
+biocViews
 biocroxytest
 biocthis
 biodb
@@ -413,7 +429,9 @@ dupRadar
 dyebias
 easyreporting
 ecolitk
+edgeR
 eds
+eiR
 epistasisGA
 epivizrServer
 fCI
@@ -422,10 +440,12 @@ factDesign
 faers
 fastreeR
 fdrame
+fedup
 fenr
 fgsea
 flowCyBar
 flowGraph
+flowPeaks
 flowPlots
 flowcatchR
 fmcsR
@@ -453,7 +473,9 @@ ggtreeExtra
 ggtreeSpace
 globalSeq
 gpls
+gpuMagic
 granulator
+graper
 graph
 gypsum
 hapFabia
@@ -529,6 +551,7 @@ mirTarRnaSeq
 mistyR
 mitch
 mixOmics
+mnem
 mosbi
 multiClust
 multiscan
@@ -538,6 +561,7 @@ mzR
 ndexr
 nethet
 netprioR
+netresponse
 nnNorm
 normalize450K
 nuCpos
@@ -546,6 +570,7 @@ omada
 ompBAM
 onlineFDR
 oppti
+paircompviz
 pandaR
 panp
 parglms
@@ -576,6 +601,7 @@ proteinProfiles
 pvac
 pvca
 qckitfastq
+qcmetrics
 qpcrNorm
 quantsmooth
 qusage
@@ -585,6 +611,7 @@ rWikiPathways
 rain
 randPack
 randRotation
+rawDiag
 rawrr
 rbsurv
 rcellminer
@@ -648,6 +675,7 @@ synergyfinder
 synlet
 systemPipeShiny
 tanggle
+ternarynet
 tidysbml
 timeOmics
 timecourse
