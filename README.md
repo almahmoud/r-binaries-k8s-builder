@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 624 packages built successfully
+- 628 packages built successfully
 - 11 packages failed to build
-- 1598 packages not yet processed
+- 1594 packages not yet processed
 
 ## Failed Builds (11)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -23,7 +23,7 @@
 | [gpuMagic](https://bioconductor.org/packages/3.20/bioc/html/gpuMagic.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/gpuMagic/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gpuMagic)     | Compilation failed:  ‘gpuMagic’     |
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
 
-## Successfully Built (624)
+## Successfully Built (628)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -650,8 +650,12 @@
 | [twoddpcr](https://bioconductor.org/packages/3.20/bioc/html/twoddpcr.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/twoddpcr/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/twoddpcr)                |
 | [Rcwl](https://bioconductor.org/packages/3.20/bioc/html/Rcwl.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/Rcwl/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rcwl)                    |
 | [UCSC.utils](https://bioconductor.org/packages/3.20/bioc/html/UCSC.utils.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/UCSC.utils/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/UCSC.utils)              |
+| [AffyRNADegradation](https://bioconductor.org/packages/3.20/bioc/html/AffyRNADegradation.html)           | Built    | [Log](runs/2025-03-12-12-47-04/logs/AffyRNADegradation/build-success.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AffyRNADegradation)      |
+| [CardinalIO](https://bioconductor.org/packages/3.20/bioc/html/CardinalIO.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/CardinalIO/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CardinalIO)              |
+| [mosbi](https://bioconductor.org/packages/3.20/bioc/html/mosbi.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/mosbi/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mosbi)                   |
+| [wppi](https://bioconductor.org/packages/3.20/bioc/html/wppi.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/wppi/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/wppi)                    |
 
-## Not Yet Processed (1598)
+## Not Yet Processed (1594)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -675,7 +679,6 @@
 | [AUCell](https://bioconductor.org/packages/3.20/bioc/html/AUCell.html)                                           | Unprocessed |
 | [AWFisher](https://bioconductor.org/packages/3.20/bioc/html/AWFisher.html)                                       | Unprocessed |
 | [AffiXcan](https://bioconductor.org/packages/3.20/bioc/html/AffiXcan.html)                                       | Unprocessed |
-| [AffyRNADegradation](https://bioconductor.org/packages/3.20/bioc/html/AffyRNADegradation.html)                   | Unprocessed |
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                                 | Unprocessed |
 | [AllelicImbalance](https://bioconductor.org/packages/3.20/bioc/html/AllelicImbalance.html)                       | Unprocessed |
 | [AlpsNMR](https://bioconductor.org/packages/3.20/bioc/html/AlpsNMR.html)                                         | Unprocessed |
@@ -781,7 +784,6 @@
 | [CaDrA](https://bioconductor.org/packages/3.20/bioc/html/CaDrA.html)                                             | Unprocessed |
 | [CaMutQC](https://bioconductor.org/packages/3.20/bioc/html/CaMutQC.html)                                         | Unprocessed |
 | [Cardinal](https://bioconductor.org/packages/3.20/bioc/html/Cardinal.html)                                       | Unprocessed |
-| [CardinalIO](https://bioconductor.org/packages/3.20/bioc/html/CardinalIO.html)                                   | Unprocessed |
 | [Category](https://bioconductor.org/packages/3.20/bioc/html/Category.html)                                       | Unprocessed |
 | [CatsCradle](https://bioconductor.org/packages/3.20/bioc/html/CatsCradle.html)                                   | Unprocessed |
 | [CeTF](https://bioconductor.org/packages/3.20/bioc/html/CeTF.html)                                               | Unprocessed |
@@ -1876,7 +1878,6 @@
 | [monaLisa](https://bioconductor.org/packages/3.20/bioc/html/monaLisa.html)                                       | Unprocessed |
 | [monocle](https://bioconductor.org/packages/3.20/bioc/html/monocle.html)                                         | Unprocessed |
 | [mosaics](https://bioconductor.org/packages/3.20/bioc/html/mosaics.html)                                         | Unprocessed |
-| [mosbi](https://bioconductor.org/packages/3.20/bioc/html/mosbi.html)                                             | Unprocessed |
 | [mosdef](https://bioconductor.org/packages/3.20/bioc/html/mosdef.html)                                           | Unprocessed |
 | [motifStack](https://bioconductor.org/packages/3.20/bioc/html/motifStack.html)                                   | Unprocessed |
 | [motifTestR](https://bioconductor.org/packages/3.20/bioc/html/motifTestR.html)                                   | Unprocessed |
@@ -2241,7 +2242,6 @@
 | [weitrix](https://bioconductor.org/packages/3.20/bioc/html/weitrix.html)                                         | Unprocessed |
 | [wiggleplotr](https://bioconductor.org/packages/3.20/bioc/html/wiggleplotr.html)                                 | Unprocessed |
 | [wpm](https://bioconductor.org/packages/3.20/bioc/html/wpm.html)                                                 | Unprocessed |
-| [wppi](https://bioconductor.org/packages/3.20/bioc/html/wppi.html)                                               | Unprocessed |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                                               | Unprocessed |
 | [xcore](https://bioconductor.org/packages/3.20/bioc/html/xcore.html)                                             | Unprocessed |
 | [xenLite](https://bioconductor.org/packages/3.20/bioc/html/xenLite.html)                                         | Unprocessed |

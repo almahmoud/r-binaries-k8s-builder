@@ -321,7 +321,6 @@
     "SparseArray",
     "XVector"
   ],
-  "AffyRNADegradation": [],
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
@@ -1730,10 +1729,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "Cardinal": [
-    "CardinalIO"
-  ],
-  "CardinalIO": [],
+  "Cardinal": [],
   "Category": [
     "AnnotationDbi",
     "RBGL",
@@ -17331,7 +17327,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "mosbi": [],
   "mosdef": [
     "AnnotationDbi",
     "topGO",
@@ -22570,7 +22565,6 @@
     "SparseArray",
     "XVector"
   ],
-  "wppi": [],
   "xcms": [
     "MSnbase",
     "mzR",

@@ -10,6 +10,7 @@ ASAFE
 ASEB
 ASGSCA
 ASSET
+AffyRNADegradation
 AlphaBeta
 AlphaMissenseR
 AnVIL
@@ -58,6 +59,7 @@ COMPASS
 CONSTANd
 COSNet
 CRImage
+CardinalIO
 CausalR
 ChemmineOB
 ChemmineR
@@ -500,6 +502,7 @@ minet
 mirTarRnaSeq
 mistyR
 mixOmics
+mosbi
 multiClust
 multiscan
 multtest
@@ -631,5 +634,6 @@ viper
 vsn
 weaver
 widgetTools
+wppi
 xmapbridge
 zlibbioc
