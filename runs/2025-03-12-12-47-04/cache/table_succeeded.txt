@@ -717,3 +717,5 @@
 ['[GenomeInfoDb](https://bioconductor.org/packages/3.20/bioc/html/GenomeInfoDb.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GenomeInfoDb/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomeInfoDb)']
 ['[flowMatch](https://bioconductor.org/packages/3.20/bioc/html/flowMatch.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/flowMatch/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowMatch)']
 ['[flowMeans](https://bioconductor.org/packages/3.20/bioc/html/flowMeans.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/flowMeans/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowMeans)']
+['[MEIGOR](https://bioconductor.org/packages/3.20/bioc/html/MEIGOR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MEIGOR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MEIGOR)']
+['[flowPloidy](https://bioconductor.org/packages/3.20/bioc/html/flowPloidy.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/flowPloidy/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowPloidy)']

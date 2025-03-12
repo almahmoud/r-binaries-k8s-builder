@@ -4594,7 +4594,6 @@
     "Biostrings",
     "XVector"
   ],
-  "MEIGOR": [],
   "MGFM": [
     "AnnotationDbi",
     "annotate",
@@ -11769,7 +11768,6 @@
     "flowClust"
   ],
   "flowPeaks": [],
-  "flowPloidy": [],
   "flowSpecs": [],
   "flowStats": [
     "flowWorkspace",

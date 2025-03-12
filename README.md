@@ -4,11 +4,11 @@
 
 ## Summary
 
-- 719 packages built successfully
-- 12 packages failed to build
-- 1502 packages not yet processed
+- 721 packages built successfully
+- 13 packages failed to build
+- 1499 packages not yet processed
 
-## Failed Builds (12)
+## Failed Builds (13)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
 |------------------------------------------------------------------------------------|----------|------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
 | [CytoGLMM](https://bioconductor.org/packages/3.20/bioc/html/CytoGLMM.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/CytoGLMM/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CytoGLMM)     | Build failed with unknown error     |
@@ -23,8 +23,9 @@
 | [gpuMagic](https://bioconductor.org/packages/3.20/bioc/html/gpuMagic.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/gpuMagic/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gpuMagic)     | Compilation failed:  ‘gpuMagic’     |
 | [graper](https://bioconductor.org/packages/3.20/bioc/html/graper.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/graper/build-fail.log)       | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/graper)    | Build failed with unknown error     |
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
+| [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 
-## Successfully Built (719)
+## Successfully Built (721)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -746,8 +747,10 @@
 | [GenomeInfoDb](https://bioconductor.org/packages/3.20/bioc/html/GenomeInfoDb.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/GenomeInfoDb/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomeInfoDb)            |
 | [flowMatch](https://bioconductor.org/packages/3.20/bioc/html/flowMatch.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowMatch/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowMatch)               |
 | [flowMeans](https://bioconductor.org/packages/3.20/bioc/html/flowMeans.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowMeans/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowMeans)               |
+| [MEIGOR](https://bioconductor.org/packages/3.20/bioc/html/MEIGOR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/MEIGOR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MEIGOR)                  |
+| [flowPloidy](https://bioconductor.org/packages/3.20/bioc/html/flowPloidy.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowPloidy/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowPloidy)              |
 
-## Not Yet Processed (1502)
+## Not Yet Processed (1499)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1045,7 +1048,6 @@
 | [Gviz](https://bioconductor.org/packages/3.20/bioc/html/Gviz.html)                                               | Unprocessed |
 | [HDF5Array](https://bioconductor.org/packages/3.20/bioc/html/HDF5Array.html)                                     | Unprocessed |
 | [HERON](https://bioconductor.org/packages/3.20/bioc/html/HERON.html)                                             | Unprocessed |
-| [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)                                             | Unprocessed |
 | [HIPPO](https://bioconductor.org/packages/3.20/bioc/html/HIPPO.html)                                             | Unprocessed |
 | [HTSFilter](https://bioconductor.org/packages/3.20/bioc/html/HTSFilter.html)                                     | Unprocessed |
 | [HarmonizR](https://bioconductor.org/packages/3.20/bioc/html/HarmonizR.html)                                     | Unprocessed |
@@ -1118,7 +1120,6 @@
 | [MEB](https://bioconductor.org/packages/3.20/bioc/html/MEB.html)                                                 | Unprocessed |
 | [MEDIPS](https://bioconductor.org/packages/3.20/bioc/html/MEDIPS.html)                                           | Unprocessed |
 | [MEDME](https://bioconductor.org/packages/3.20/bioc/html/MEDME.html)                                             | Unprocessed |
-| [MEIGOR](https://bioconductor.org/packages/3.20/bioc/html/MEIGOR.html)                                           | Unprocessed |
 | [MGFM](https://bioconductor.org/packages/3.20/bioc/html/MGFM.html)                                               | Unprocessed |
 | [MGFR](https://bioconductor.org/packages/3.20/bioc/html/MGFR.html)                                               | Unprocessed |
 | [MGnifyR](https://bioconductor.org/packages/3.20/bioc/html/MGnifyR.html)                                         | Unprocessed |
@@ -1708,7 +1709,6 @@
 | [flowFP](https://bioconductor.org/packages/3.20/bioc/html/flowFP.html)                                           | Unprocessed |
 | [flowGate](https://bioconductor.org/packages/3.20/bioc/html/flowGate.html)                                       | Unprocessed |
 | [flowMerge](https://bioconductor.org/packages/3.20/bioc/html/flowMerge.html)                                     | Unprocessed |
-| [flowPloidy](https://bioconductor.org/packages/3.20/bioc/html/flowPloidy.html)                                   | Unprocessed |
 | [flowSpecs](https://bioconductor.org/packages/3.20/bioc/html/flowSpecs.html)                                     | Unprocessed |
 | [flowStats](https://bioconductor.org/packages/3.20/bioc/html/flowStats.html)                                     | Unprocessed |
 | [flowTime](https://bioconductor.org/packages/3.20/bioc/html/flowTime.html)                                       | Unprocessed |

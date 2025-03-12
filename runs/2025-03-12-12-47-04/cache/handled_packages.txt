@@ -165,6 +165,7 @@ HDTD
 HELP
 HEM
 HGC
+HIBAG
 HIREewas
 HMMcopy
 HPAanalyze
@@ -204,6 +205,7 @@ MACSQuantifyR
 MBAmethyl
 MBCB
 MBttest
+MEIGOR
 MOGAMUN
 MPFE
 MSstats
@@ -471,6 +473,7 @@ flowGraph
 flowMatch
 flowMeans
 flowPeaks
+flowPloidy
 flowPlots
 flowcatchR
 fmcsR
