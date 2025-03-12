@@ -17,7 +17,9 @@ BaseSpaceR
 BeadDataPackR
 BiRewire
 BioCartaImage
+Biobase
 BiocBaseUtils
+BiocBook
 BiocFileCache
 BiocGenerics
 BiocNeighbors
@@ -25,6 +27,7 @@ BiocParallel
 BiocStyle
 BiocVersion
 BridgeDbR
+BrowserViz
 BufferedMatrix
 CARNIVAL
 CFAssay
@@ -57,7 +60,11 @@ GEOfastq
 GEOmetadb
 GLAD
 GPA
+GRENITS
+GSALightning
+GSEAmining
 GSgalgoR
+GeneGA
 GeneOverlap
 GeneticsPed
 GladiaTOX
@@ -68,6 +75,7 @@ INTACT
 Icens
 KBoost
 LPE
+LedPred
 MVCClass
 MassSpecWavelet
 MeasurementError.cor
@@ -80,6 +88,8 @@ NuPoP
 OLIN
 OSAT
 Omixer
+QuaternaryProd
+RAREsim
 RBM
 REBET
 RLMM
@@ -88,6 +98,7 @@ ROC
 RProtoBufLib
 RRHO
 RSeqAn
+RTCGA
 RankProd
 Rbowtie
 RedeR
@@ -178,6 +189,7 @@ magrene
 marray
 mgsa
 mina
+mistyR
 mixOmics
 nnNorm
 ompBAM
@@ -191,6 +203,7 @@ qckitfastq
 quantsmooth
 qvalue
 rBiopaxParser
+randRotation
 rpx
 scBubbletree
 scRecover
@@ -206,6 +219,7 @@ sincell
 sitePath
 sizepower
 snm
+snpStats
 sparsenetgls
 specL
 spikeLI
@@ -220,7 +234,9 @@ synergyfinder
 synlet
 systemPipeShiny
 tanggle
+ternarynet
 tidysbml
+timeOmics
 timescape
 tomoseqr
 topconfects
@@ -228,6 +244,7 @@ treeio
 tripr
 ttgsea
 tximport
+unifiedWMWqPCR
 vbmp
 veloviz
 weaver

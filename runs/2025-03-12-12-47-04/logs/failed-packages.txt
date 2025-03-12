@@ -4,3 +4,4 @@ graper
 NetPathMiner
 CytoGLMM
 affxparser
+ternarynet

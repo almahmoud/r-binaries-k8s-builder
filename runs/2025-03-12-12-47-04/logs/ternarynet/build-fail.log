@@ -1,0 +1,78 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''ternarynet'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'ternarynet'
+also installing the dependencies ‘formatR’, ‘lambda.r’, ‘futile.options’, ‘futile.logger’, ‘snow’, ‘BH’, ‘igraph’, ‘BiocParallel’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/formatR_1.14.tar.gz'
+Content type 'binary/octet-stream' length 151517 bytes (147 KB)
+==================================================
+downloaded 147 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lambda.r_1.2.4.tar.gz'
+Content type 'binary/octet-stream' length 110485 bytes (107 KB)
+==================================================
+downloaded 107 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/futile.options_1.0.1.tar.gz'
+Content type 'binary/octet-stream' length 18448 bytes (18 KB)
+==================================================
+downloaded 18 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/futile.logger_1.4.3.tar.gz'
+Content type 'binary/octet-stream' length 97342 bytes (95 KB)
+==================================================
+downloaded 95 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/snow_0.4-4.tar.gz'
+Content type 'binary/octet-stream' length 96930 bytes (94 KB)
+==================================================
+downloaded 94 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/BH_1.87.0-1.tar.gz'
+Content type 'binary/octet-stream' length 13349384 bytes (12.7 MB)
+==================================================
+downloaded 12.7 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/igraph_2.1.4.tar.gz'
+Content type 'binary/octet-stream' length 5555697 bytes (5.3 MB)
+==================================================
+downloaded 5.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocParallel_1.40.0.tar.gz'
+Content type 'application/x-gzip' length 1000414 bytes (976 KB)
+==================================================
+downloaded 976 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ternarynet_1.50.0.tar.gz'
+Content type 'application/x-gzip' length 277879 bytes (271 KB)
+==================================================
+downloaded 271 KB
+
+* installing *binary* package ‘formatR’ ...
+* ‘formatR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘formatR’ as ‘formatR_1.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (formatR)
+* installing *binary* package ‘futile.options’ ...
+* ‘futile.options’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘futile.options’ as ‘futile.options_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (futile.options)
+* installing *binary* package ‘snow’ ...
+* ‘snow’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘snow’ as ‘snow_0.4-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (snow)
+* installing *binary* package ‘BH’ ...
+* ‘BH’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘BH’ as ‘BH_1.87.0-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BH)
