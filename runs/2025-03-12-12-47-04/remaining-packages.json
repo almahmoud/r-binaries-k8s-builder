@@ -1636,9 +1636,7 @@
     "genefilter",
     "annotate"
   ],
-  "Harshlight": [
-    "altcdfenvs"
-  ],
+  "Harshlight": [],
   "HelloRanges": [
     "BSgenome",
     "GenomicFeatures",
@@ -3569,12 +3567,10 @@
   ],
   "a4": [
     "a4Base",
-    "annaffy",
     "genefilter",
     "annotate"
   ],
   "a4Base": [
-    "annaffy",
     "genefilter",
     "annotate"
   ],
@@ -3672,7 +3668,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "altcdfenvs": [],
   "amplican": [
     "ShortRead",
     "GenomicAlignments"
@@ -3681,7 +3676,6 @@
     "DESeq2",
     "MultiAssayExperiment"
   ],
-  "annaffy": [],
   "annmap": [
     "genefilter",
     "annotate"
@@ -6423,7 +6417,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "qmtools": [],
   "qpgraph": [
     "annotate",
     "GenomicFeatures",
@@ -7591,9 +7584,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "webbioc": [
-    "annaffy"
-  ],
+  "webbioc": [],
   "weitrix": [],
   "wiggleplotr": [
     "rtracklayer",

@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 896 packages built successfully
+- 899 packages built successfully
 - 16 packages failed to build
-- 1321 packages not yet processed
+- 1318 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (896)
+## Successfully Built (899)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -927,8 +927,11 @@
 | [PADOG](https://bioconductor.org/packages/3.20/bioc/html/PADOG.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/PADOG/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PADOG)                     |
 | [SubCellBarCode](https://bioconductor.org/packages/3.20/bioc/html/SubCellBarCode.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/SubCellBarCode/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SubCellBarCode)            |
 | [TIN](https://bioconductor.org/packages/3.20/bioc/html/TIN.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/TIN/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TIN)                       |
+| [altcdfenvs](https://bioconductor.org/packages/3.20/bioc/html/altcdfenvs.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/altcdfenvs/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/altcdfenvs)                |
+| [annaffy](https://bioconductor.org/packages/3.20/bioc/html/annaffy.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/annaffy/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/annaffy)                   |
+| [qmtools](https://bioconductor.org/packages/3.20/bioc/html/qmtools.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/qmtools/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/qmtools)                   |
 
-## Not Yet Processed (1321)
+## Not Yet Processed (1318)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1574,10 +1577,8 @@
 | [alabaster.se](https://bioconductor.org/packages/3.20/bioc/html/alabaster.se.html)                               | Unprocessed |
 | [alabaster.spatial](https://bioconductor.org/packages/3.20/bioc/html/alabaster.spatial.html)                     | Unprocessed |
 | [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                             | Unprocessed |
-| [altcdfenvs](https://bioconductor.org/packages/3.20/bioc/html/altcdfenvs.html)                                   | Unprocessed |
 | [amplican](https://bioconductor.org/packages/3.20/bioc/html/amplican.html)                                       | Unprocessed |
 | [animalcules](https://bioconductor.org/packages/3.20/bioc/html/animalcules.html)                                 | Unprocessed |
-| [annaffy](https://bioconductor.org/packages/3.20/bioc/html/annaffy.html)                                         | Unprocessed |
 | [annmap](https://bioconductor.org/packages/3.20/bioc/html/annmap.html)                                           | Unprocessed |
 | [annotate](https://bioconductor.org/packages/3.20/bioc/html/annotate.html)                                       | Unprocessed |
 | [annotatr](https://bioconductor.org/packages/3.20/bioc/html/annotatr.html)                                       | Unprocessed |
@@ -2033,7 +2034,6 @@
 | [ptairMS](https://bioconductor.org/packages/3.20/bioc/html/ptairMS.html)                                         | Unprocessed |
 | [puma](https://bioconductor.org/packages/3.20/bioc/html/puma.html)                                               | Unprocessed |
 | [qPLEXanalyzer](https://bioconductor.org/packages/3.20/bioc/html/qPLEXanalyzer.html)                             | Unprocessed |
-| [qmtools](https://bioconductor.org/packages/3.20/bioc/html/qmtools.html)                                         | Unprocessed |
 | [qpgraph](https://bioconductor.org/packages/3.20/bioc/html/qpgraph.html)                                         | Unprocessed |
 | [qsea](https://bioconductor.org/packages/3.20/bioc/html/qsea.html)                                               | Unprocessed |
 | [qsmooth](https://bioconductor.org/packages/3.20/bioc/html/qsmooth.html)                                         | Unprocessed |

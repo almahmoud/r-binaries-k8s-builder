@@ -462,6 +462,8 @@ alabaster.ranges
 alabaster.schemas
 alabaster.string
 alevinQC
+altcdfenvs
+annaffy
 annotationTools
 anota
 antiProfiles
@@ -785,6 +787,7 @@ pvca
 pwalign
 qckitfastq
 qcmetrics
+qmtools
 qpcrNorm
 quantsmooth
 qusage

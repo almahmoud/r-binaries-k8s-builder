@@ -894,3 +894,6 @@
 ['[PADOG](https://bioconductor.org/packages/3.20/bioc/html/PADOG.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/PADOG/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PADOG)']
 ['[SubCellBarCode](https://bioconductor.org/packages/3.20/bioc/html/SubCellBarCode.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SubCellBarCode/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SubCellBarCode)']
 ['[TIN](https://bioconductor.org/packages/3.20/bioc/html/TIN.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/TIN/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TIN)']
+['[altcdfenvs](https://bioconductor.org/packages/3.20/bioc/html/altcdfenvs.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/altcdfenvs/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/altcdfenvs)']
+['[annaffy](https://bioconductor.org/packages/3.20/bioc/html/annaffy.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/annaffy/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/annaffy)']
+['[qmtools](https://bioconductor.org/packages/3.20/bioc/html/qmtools.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/qmtools/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/qmtools)']
