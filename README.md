@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 873 packages built successfully
+- 877 packages built successfully
 - 15 packages failed to build
-- 1345 packages not yet processed
+- 1341 packages not yet processed
 
 ## Failed Builds (15)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -27,7 +27,7 @@
 | [immunoClust](https://bioconductor.org/packages/3.20/bioc/html/immunoClust.html)   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/immunoClust/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunoClust)  | Build failed with unknown error     |
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 
-## Successfully Built (873)
+## Successfully Built (877)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -903,8 +903,12 @@
 | [SigFuge](https://bioconductor.org/packages/3.20/bioc/html/SigFuge.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/SigFuge/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SigFuge)                   |
 | [SpatialDecon](https://bioconductor.org/packages/3.20/bioc/html/SpatialDecon.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/SpatialDecon/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SpatialDecon)              |
 | [SpatialOmicsOverlay](https://bioconductor.org/packages/3.20/bioc/html/SpatialOmicsOverlay.html)             | Built    | [Log](runs/2025-03-12-12-47-04/logs/SpatialOmicsOverlay/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SpatialOmicsOverlay)       |
+| [SeqArray](https://bioconductor.org/packages/3.20/bioc/html/SeqArray.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/SeqArray/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SeqArray)                  |
+| [affyPLM](https://bioconductor.org/packages/3.20/bioc/html/affyPLM.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/affyPLM/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/affyPLM)                   |
+| [flowBin](https://bioconductor.org/packages/3.20/bioc/html/flowBin.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowBin/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowBin)                   |
+| [flowCut](https://bioconductor.org/packages/3.20/bioc/html/flowCut.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowCut/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowCut)                   |
 
-## Not Yet Processed (1345)
+## Not Yet Processed (1341)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1457,7 +1461,6 @@
 | [Scale4C](https://bioconductor.org/packages/3.20/bioc/html/Scale4C.html)                                         | Unprocessed |
 | [ScaledMatrix](https://bioconductor.org/packages/3.20/bioc/html/ScaledMatrix.html)                               | Unprocessed |
 | [SemDist](https://bioconductor.org/packages/3.20/bioc/html/SemDist.html)                                         | Unprocessed |
-| [SeqArray](https://bioconductor.org/packages/3.20/bioc/html/SeqArray.html)                                       | Unprocessed |
 | [SeqGSEA](https://bioconductor.org/packages/3.20/bioc/html/SeqGSEA.html)                                         | Unprocessed |
 | [SeqGate](https://bioconductor.org/packages/3.20/bioc/html/SeqGate.html)                                         | Unprocessed |
 | [SeqSQC](https://bioconductor.org/packages/3.20/bioc/html/SeqSQC.html)                                           | Unprocessed |
@@ -1554,7 +1557,6 @@
 | [adductomicsR](https://bioconductor.org/packages/3.20/bioc/html/adductomicsR.html)                               | Unprocessed |
 | [adverSCarial](https://bioconductor.org/packages/3.20/bioc/html/adverSCarial.html)                               | Unprocessed |
 | [affyILM](https://bioconductor.org/packages/3.20/bioc/html/affyILM.html)                                         | Unprocessed |
-| [affyPLM](https://bioconductor.org/packages/3.20/bioc/html/affyPLM.html)                                         | Unprocessed |
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                             | Unprocessed |
 | [affylmGUI](https://bioconductor.org/packages/3.20/bioc/html/affylmGUI.html)                                     | Unprocessed |
 | [aggregateBioVar](https://bioconductor.org/packages/3.20/bioc/html/aggregateBioVar.html)                         | Unprocessed |
@@ -1765,8 +1767,6 @@
 | [findIPs](https://bioconductor.org/packages/3.20/bioc/html/findIPs.html)                                         | Unprocessed |
 | [fishpond](https://bioconductor.org/packages/3.20/bioc/html/fishpond.html)                                       | Unprocessed |
 | [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                                           | Unprocessed |
-| [flowBin](https://bioconductor.org/packages/3.20/bioc/html/flowBin.html)                                         | Unprocessed |
-| [flowCut](https://bioconductor.org/packages/3.20/bioc/html/flowCut.html)                                         | Unprocessed |
 | [flowGate](https://bioconductor.org/packages/3.20/bioc/html/flowGate.html)                                       | Unprocessed |
 | [flowStats](https://bioconductor.org/packages/3.20/bioc/html/flowStats.html)                                     | Unprocessed |
 | [flowVS](https://bioconductor.org/packages/3.20/bioc/html/flowVS.html)                                           | Unprocessed |

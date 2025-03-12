@@ -555,8 +555,7 @@
   "CNVRanger": [
     "RaggedExperiment",
     "GDSArray",
-    "SummarizedExperiment",
-    "SeqArray"
+    "SummarizedExperiment"
   ],
   "CNVfilteR": [
     "SummarizedExperiment",
@@ -1542,9 +1541,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "GBScleanR": [
-    "SeqArray"
-  ],
+  "GBScleanR": [],
   "GDCRNATools": [
     "DESeq2",
     "clusterProfiler",
@@ -1556,11 +1553,8 @@
     "GOSemSim",
     "SummarizedExperiment"
   ],
-  "GDSArray": [
-    "SeqArray"
-  ],
+  "GDSArray": [],
   "GENESIS": [
-    "SeqArray",
     "SeqVarTools"
   ],
   "GEOexplorer": [
@@ -3055,7 +3049,6 @@
     "VariantAnnotation",
     "rtracklayer",
     "GenomicFeatures",
-    "SeqArray",
     "SeqVarTools",
     "SummarizedExperiment",
     "GenomicAlignments"
@@ -3453,9 +3446,7 @@
     "BSgenome"
   ],
   "Rtreemix": [],
-  "SAIGEgds": [
-    "SeqArray"
-  ],
+  "SAIGEgds": [],
   "SARC": [
     "RaggedExperiment",
     "plyranges",
@@ -3624,7 +3615,6 @@
   "SemDist": [
     "annotate"
   ],
-  "SeqArray": [],
   "SeqGSEA": [
     "DESeq2",
     "biomaRt",
@@ -3637,9 +3627,7 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "SeqVarTools": [
-    "SeqArray"
-  ],
+  "SeqVarTools": [],
   "ShortRead": [
     "GenomicAlignments",
     "SummarizedExperiment"
@@ -4083,8 +4071,7 @@
   ],
   "VariantExperiment": [
     "SummarizedExperiment",
-    "GDSArray",
-    "SeqArray"
+    "GDSArray"
   ],
   "VariantFiltering": [
     "VariantAnnotation",
@@ -4193,7 +4180,6 @@
   "affyILM": [
     "affxparser"
   ],
-  "affyPLM": [],
   "affycoretools": [
     "GOstats",
     "oligoClasses",
@@ -4219,9 +4205,7 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "affylmGUI": [
-    "affyPLM"
-  ],
+  "affylmGUI": [],
   "aggregateBioVar": [
     "SummarizedExperiment",
     "SingleCellExperiment"
@@ -4350,7 +4334,6 @@
     "GenomicAlignments"
   ],
   "arrayQualityMetrics": [
-    "affyPLM",
     "beadarray",
     "genefilter",
     "annotate"
@@ -5738,8 +5721,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "flowBin": [],
-  "flowCut": [],
   "flowGate": [
     "flowWorkspace",
     "ggcyto"
@@ -5906,9 +5887,7 @@
   "ggcyto": [
     "flowWorkspace"
   ],
-  "ggmanh": [
-    "SeqArray"
-  ],
+  "ggmanh": [],
   "ggsc": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -6732,7 +6711,6 @@
     "beachmat"
   ],
   "mimager": [
-    "affyPLM",
     "oligo",
     "oligoClasses",
     "affxparser",

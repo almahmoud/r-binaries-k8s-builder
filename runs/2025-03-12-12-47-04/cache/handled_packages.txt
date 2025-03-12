@@ -391,6 +391,7 @@ SUITOR
 SamSPECTRAL
 Sconify
 ScreenR
+SeqArray
 SharedObject
 SigFuge
 SpaceMarkers
@@ -436,6 +437,7 @@ acde
 affxparser
 affy
 affyContam
+affyPLM
 affycomp
 affyio
 agilp
@@ -556,10 +558,12 @@ fgga
 fgsea
 flowAI
 flowBeads
+flowBin
 flowCHIC
 flowClean
 flowClust
 flowCore
+flowCut
 flowCyBar
 flowDensity
 flowFP

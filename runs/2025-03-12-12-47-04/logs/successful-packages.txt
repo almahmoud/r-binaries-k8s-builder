@@ -871,3 +871,7 @@ Rsamtools
 SigFuge
 SpatialDecon
 SpatialOmicsOverlay
+affyPLM
+flowBin
+flowCut
+SeqArray
