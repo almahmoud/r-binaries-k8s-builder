@@ -852,6 +852,7 @@ monocle
 mosbi
 motifcounter
 msPurity
+mslp
 multiClust
 multiscan
 multtest

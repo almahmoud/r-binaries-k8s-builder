@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1068 packages built successfully
+- 1069 packages built successfully
 - 16 packages failed to build
-- 1149 packages not yet processed
+- 1148 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (1068)
+## Successfully Built (1069)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1099,8 +1099,9 @@
 | [MSPrep](https://bioconductor.org/packages/3.20/bioc/html/MSPrep.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/MSPrep/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MSPrep)                    |
 | [PICS](https://bioconductor.org/packages/3.20/bioc/html/PICS.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/PICS/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PICS)                      |
 | [SQLDataFrame](https://bioconductor.org/packages/3.20/bioc/html/SQLDataFrame.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/SQLDataFrame/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SQLDataFrame)              |
+| [mslp](https://bioconductor.org/packages/3.20/bioc/html/mslp.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/mslp/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mslp)                      |
 
-## Not Yet Processed (1149)
+## Not Yet Processed (1148)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1985,7 +1986,6 @@
 | [msImpute](https://bioconductor.org/packages/3.20/bioc/html/msImpute.html)                                       | Unprocessed |
 | [msa](https://bioconductor.org/packages/3.20/bioc/html/msa.html)                                                 | Unprocessed |
 | [msgbsR](https://bioconductor.org/packages/3.20/bioc/html/msgbsR.html)                                           | Unprocessed |
-| [mslp](https://bioconductor.org/packages/3.20/bioc/html/mslp.html)                                               | Unprocessed |
 | [msmsEDA](https://bioconductor.org/packages/3.20/bioc/html/msmsEDA.html)                                         | Unprocessed |
 | [msmsTests](https://bioconductor.org/packages/3.20/bioc/html/msmsTests.html)                                     | Unprocessed |
 | [msqrob2](https://bioconductor.org/packages/3.20/bioc/html/msqrob2.html)                                         | Unprocessed |

@@ -1066,3 +1066,4 @@
 ['[MSPrep](https://bioconductor.org/packages/3.20/bioc/html/MSPrep.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MSPrep/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MSPrep)']
 ['[PICS](https://bioconductor.org/packages/3.20/bioc/html/PICS.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/PICS/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PICS)']
 ['[SQLDataFrame](https://bioconductor.org/packages/3.20/bioc/html/SQLDataFrame.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SQLDataFrame/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SQLDataFrame)']
+['[mslp](https://bioconductor.org/packages/3.20/bioc/html/mslp.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/mslp/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mslp)']
