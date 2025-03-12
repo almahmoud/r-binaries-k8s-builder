@@ -883,9 +883,7 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "BiGGR": [
-    "hyperdraw"
-  ],
+  "BiGGR": [],
   "BiSeq": [
     "IRanges",
     "GenomicRanges",
@@ -14887,7 +14885,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "hyperdraw": [],
   "iCNV": [
     "CODEX",
     "Rsamtools",
@@ -16518,7 +16515,6 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "mitch": [],
   "mitoClone2": [
     "GenomicRanges",
     "deepSNV",

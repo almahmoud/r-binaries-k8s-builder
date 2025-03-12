@@ -473,6 +473,7 @@ hierinf
 hmdbQuery
 hopach
 hypeR
+hyperdraw
 hypergraph
 iASeq
 iBBiG
@@ -536,6 +537,7 @@ mina
 minet
 mirTarRnaSeq
 mistyR
+mitch
 mixOmics
 mosbi
 multiClust

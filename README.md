@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 673 packages built successfully
+- 675 packages built successfully
 - 12 packages failed to build
-- 1548 packages not yet processed
+- 1546 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
 | [Rtreemix](https://bioconductor.org/packages/3.20/bioc/html/Rtreemix.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Rtreemix/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rtreemix)     | Build failed with unknown error     |
 
-## Successfully Built (673)
+## Successfully Built (675)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -700,8 +700,10 @@
 | [BioMVCClass](https://bioconductor.org/packages/3.20/bioc/html/BioMVCClass.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/BioMVCClass/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BioMVCClass)             |
 | [RBGL](https://bioconductor.org/packages/3.20/bioc/html/RBGL.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/RBGL/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RBGL)                    |
 | [MOGAMUN](https://bioconductor.org/packages/3.20/bioc/html/MOGAMUN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/MOGAMUN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MOGAMUN)                 |
+| [hyperdraw](https://bioconductor.org/packages/3.20/bioc/html/hyperdraw.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/hyperdraw/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hyperdraw)               |
+| [mitch](https://bioconductor.org/packages/3.20/bioc/html/mitch.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/mitch/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mitch)                   |
 
-## Not Yet Processed (1548)
+## Not Yet Processed (1546)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1772,7 +1774,6 @@
 | [hoodscanR](https://bioconductor.org/packages/3.20/bioc/html/hoodscanR.html)                                     | Unprocessed |
 | [hpar](https://bioconductor.org/packages/3.20/bioc/html/hpar.html)                                               | Unprocessed |
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)                                 | Unprocessed |
-| [hyperdraw](https://bioconductor.org/packages/3.20/bioc/html/hyperdraw.html)                                     | Unprocessed |
 | [iCNV](https://bioconductor.org/packages/3.20/bioc/html/iCNV.html)                                               | Unprocessed |
 | [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                                           | Unprocessed |
 | [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                                     | Unprocessed |
@@ -1880,7 +1881,6 @@
 | [mirIntegrator](https://bioconductor.org/packages/3.20/bioc/html/mirIntegrator.html)                             | Unprocessed |
 | [missMethyl](https://bioconductor.org/packages/3.20/bioc/html/missMethyl.html)                                   | Unprocessed |
 | [missRows](https://bioconductor.org/packages/3.20/bioc/html/missRows.html)                                       | Unprocessed |
-| [mitch](https://bioconductor.org/packages/3.20/bioc/html/mitch.html)                                             | Unprocessed |
 | [mitoClone2](https://bioconductor.org/packages/3.20/bioc/html/mitoClone2.html)                                   | Unprocessed |
 | [mnem](https://bioconductor.org/packages/3.20/bioc/html/mnem.html)                                               | Unprocessed |
 | [moanin](https://bioconductor.org/packages/3.20/bioc/html/moanin.html)                                           | Unprocessed |
