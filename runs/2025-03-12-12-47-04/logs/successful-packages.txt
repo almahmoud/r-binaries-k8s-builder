@@ -533,3 +533,14 @@ KCsmart
 MSstatsBig
 pathwayPCA
 RUVcorr
+ISAnalytics
+maftools
+MethPed
+MSstatsTMT
+plier
+qpcrNorm
+RDRToolbox
+RImmPort
+ROTS
+rWikiPathways
+scMitoMut

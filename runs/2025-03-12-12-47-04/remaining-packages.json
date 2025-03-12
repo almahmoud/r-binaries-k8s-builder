@@ -1611,9 +1611,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "CIMICE": [
-    "maftools"
-  ],
+  "CIMICE": [],
   "CINdex": [
     "GenomicRanges",
     "S4Vectors",
@@ -2012,7 +2010,6 @@
   "CaMutQC": [
     "clusterProfiler",
     "MesKit",
-    "maftools",
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
@@ -4568,7 +4565,6 @@
     "XVector"
   ],
   "GNOSIS": [
-    "maftools",
     "cBioPortalData",
     "MultiAssayExperiment",
     "GenomeInfoDb",
@@ -5899,7 +5895,6 @@
   "IRanges": [
     "S4Vectors"
   ],
-  "ISAnalytics": [],
   "ISLET": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -7062,11 +7057,9 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "MSstatsTMT",
     "UCSC.utils"
   ],
   "MSstatsPTM": [
-    "MSstatsTMT",
     "Biostrings",
     "S4Vectors",
     "IRanges",
@@ -7124,7 +7117,6 @@
     "XVector"
   ],
   "MSstatsShiny": [
-    "MSstatsTMT",
     "MSstatsPTM",
     "Biostrings",
     "S4Vectors",
@@ -7133,7 +7125,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "MSstatsTMT": [],
   "MWASTools": [
     "SummarizedExperiment",
     "KEGGgraph",
@@ -7382,7 +7373,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "MethPed": [],
   "MethReg": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -8102,7 +8092,6 @@
     "GenomeInfoDb",
     "S4Vectors",
     "SummarizedExperiment",
-    "rWikiPathways",
     "biomaRt",
     "rtracklayer",
     "IRanges",
@@ -8452,7 +8441,6 @@
     "XVector"
   ],
   "PECA": [
-    "ROTS",
     "genefilter",
     "AnnotationDbi",
     "annotate",
@@ -8621,7 +8609,6 @@
     "ComplexHeatmap",
     "NormalyzerDE",
     "edgeR",
-    "ROTS",
     "MSnbase",
     "vsn",
     "POMA",
@@ -9235,7 +9222,6 @@
   "RCyjs": [
     "graph"
   ],
-  "RDRToolbox": [],
   "REDseq": [
     "Biostrings",
     "BSgenome",
@@ -9353,7 +9339,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "RImmPort": [],
   "RJMCMCNucleosomes": [
     "IRanges",
     "GenomicRanges",
@@ -9578,7 +9563,6 @@
   "ROSeq": [
     "edgeR"
   ],
-  "ROTS": [],
   "ROntoTools": [
     "graph",
     "KEGGREST",
@@ -10197,7 +10181,6 @@
     "impute"
   ],
   "RolDE": [
-    "ROTS",
     "SummarizedExperiment",
     "GenomicRanges",
     "S4Vectors",
@@ -16785,7 +16768,6 @@
   ],
   "famat": [
     "KEGGREST",
-    "rWikiPathways",
     "clusterProfiler",
     "AnnotationDbi",
     "DOSE",
@@ -18683,7 +18665,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "IRanges",
-    "maftools",
     "plyranges",
     "S4Vectors",
     "VariantAnnotation",
@@ -19038,7 +19019,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "maftools": [],
   "magpie": [
     "rtracklayer",
     "S4Vectors",
@@ -20623,7 +20603,6 @@
     "S4Vectors",
     "decompTumor2Sig",
     "ComplexHeatmap",
-    "maftools",
     "XVector",
     "BiocIO",
     "rtracklayer",
@@ -21753,7 +21732,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "plier": [],
   "plotgardener": [
     "GenomeInfoDb",
     "GenomicRanges",
@@ -22206,7 +22184,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "qpcrNorm": [],
   "qpgraph": [
     "annotate",
     "graph",
@@ -22479,7 +22456,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "rWikiPathways": [],
   "raer": [
     "GenomicRanges",
     "IRanges",
@@ -23496,7 +23472,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "scMitoMut": [],
   "scMultiSim": [
     "SummarizedExperiment",
     "GenomicRanges",

@@ -127,6 +127,7 @@ IHW
 INDEED
 INPower
 INTACT
+ISAnalytics
 Icens
 Informeasure
 IsoCorrectoR
@@ -144,6 +145,7 @@ MBttest
 MSstats
 MSstatsBig
 MSstatsConvert
+MSstatsTMT
 MVCClass
 MantelCorr
 MassArray
@@ -152,6 +154,7 @@ MatrixGenerics
 MeasurementError.cor
 Mergeomics
 MetID
+MethPed
 Mfuzz
 MiChip
 MiPP
@@ -183,13 +186,16 @@ QuaternaryProd
 RAREsim
 RBM
 RCASPAR
+RDRToolbox
 REBET
 RGSEA
 RIVER
+RImmPort
 RLMM
 RNASeqPower
 RNAdecay
 ROC
+ROTS
 RProtoBufLib
 RRHO
 RSeqAn
@@ -399,6 +405,7 @@ logicFS
 lpsymphony
 maCorrPlot
 maSigPro
+maftools
 magrene
 mapscape
 marray
@@ -451,6 +458,7 @@ pickgene
 planet
 plasmut
 plgem
+plier
 plotGrouper
 pmm
 powerTCR
@@ -459,10 +467,12 @@ profileScoreDist
 projectR
 proteinProfiles
 qckitfastq
+qpcrNorm
 quantsmooth
 qusage
 qvalue
 rBiopaxParser
+rWikiPathways
 rain
 randPack
 randRotation
@@ -481,6 +491,7 @@ rsemmed
 sSeq
 sagenhaft
 scBubbletree
+scMitoMut
 scRecover
 scShapes
 scTHI
