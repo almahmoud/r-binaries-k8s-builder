@@ -703,3 +703,4 @@ hyperdraw
 mnem
 netresponse
 paircompviz
+rawDiag

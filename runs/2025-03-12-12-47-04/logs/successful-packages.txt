@@ -663,3 +663,8 @@ RCy3
 Rgraphviz
 updateObject
 IntramiRExploreR
+frmaTools
+hmdbQuery
+MetaboCoreUtils
+rawrr
+RBioinf

@@ -1210,7 +1210,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -2267,7 +2266,6 @@
     "AnnotationFilter",
     "IRanges",
     "Spectra",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "GenomeInfoDb",
     "XVector"
@@ -4881,7 +4879,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -5148,7 +5145,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -5338,7 +5334,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -5996,8 +5991,7 @@
   ],
   "MetCirc": [
     "Spectra",
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "MetMashR": [
     "struct",
@@ -6048,7 +6042,6 @@
     "GenomeInfoDb"
   ],
   "MetaboAnnotation": [
-    "MetaboCoreUtils",
     "Spectra",
     "SummarizedExperiment",
     "QFeatures",
@@ -6067,7 +6060,6 @@
     "XVector",
     "Biostrings"
   ],
-  "MetaboCoreUtils": [],
   "MetaboSignal": [
     "KEGGgraph",
     "hpar",
@@ -6360,34 +6352,27 @@
   ],
   "MsBackendMassbank": [
     "Spectra",
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "MsBackendMetaboLights": [
     "Spectra",
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "MsBackendMgf": [
     "Spectra",
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "MsBackendMsp": [
     "Spectra",
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "MsBackendRawFileReader": [
     "Spectra",
-    "IRanges",
-    "rawrr",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "MsBackendSql": [
     "Spectra",
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "MsDataHub": [
     "ExperimentHub",
@@ -6406,7 +6391,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -6430,7 +6414,6 @@
     "IRanges",
     "SummarizedExperiment",
     "QFeatures",
-    "MetaboCoreUtils",
     "MultiAssayExperiment",
     "AnnotationFilter",
     "GenomicRanges",
@@ -7554,7 +7537,6 @@
     "SparseArray"
   ],
   "RBGL": [],
-  "RBioinf": [],
   "RCAS": [
     "GenomicRanges",
     "IRanges",
@@ -9255,13 +9237,11 @@
     "GenomeInfoDb"
   ],
   "Spectra": [
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "SpectraQL": [
     "Spectra",
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "SpectralTAD": [
     "HiCcompare",
@@ -12003,7 +11983,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -12359,7 +12338,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -14039,7 +14017,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -14174,7 +14151,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "frmaTools": [],
   "funOmics": [
     "KEGGREST",
     "AnnotationDbi",
@@ -14876,7 +14852,6 @@
     "IRanges",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -14971,7 +14946,6 @@
     "XVector",
     "Biostrings"
   ],
-  "hmdbQuery": [],
   "hoodscanR": [
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -15963,7 +15937,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -17183,7 +17156,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -18678,10 +18650,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "rawDiag": [
-    "rawrr"
-  ],
-  "rawrr": [],
+  "rawDiag": [],
   "rebook": [],
   "receptLoss": [
     "SummarizedExperiment",
@@ -20723,7 +20692,6 @@
     "QFeatures",
     "PSMatch",
     "MsFeatures",
-    "MetaboCoreUtils",
     "MultiAssayExperiment",
     "AnnotationFilter",
     "GenomicRanges",
@@ -21821,7 +21789,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",

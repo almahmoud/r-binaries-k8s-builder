@@ -197,6 +197,7 @@ MatrixGenerics
 MeasurementError.cor
 Mergeomics
 MetID
+MetaboCoreUtils
 MethPed
 MethylMix
 Mfuzz
@@ -241,6 +242,7 @@ QuaternaryProd
 RAREsim
 RBM
 RBioFormats
+RBioinf
 RCASPAR
 RCX
 RCy3
@@ -435,6 +437,7 @@ fmcsR
 fmrs
 fobitools
 frenchFISH
+frmaTools
 gaga
 garfield
 gcatest
@@ -464,6 +467,7 @@ hapFabia
 hca
 hierGWAS
 hierinf
+hmdbQuery
 hopach
 hypeR
 hypergraph
@@ -586,6 +590,7 @@ rWikiPathways
 rain
 randPack
 randRotation
+rawrr
 rbsurv
 rcellminer
 retrofit
