@@ -431,3 +431,10 @@ philr
 scBubbletree
 sitePath
 tanggle
+DepecheR
+OLIN
+RBM
+arrayQuality
+nnNorm
+stepNorm
+timeOmics

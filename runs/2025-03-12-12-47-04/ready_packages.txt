@@ -1,9 +1,7 @@
-BiocNeighbors
-HubPub
-ggtreeDendro
-ggtreeExtra
-ggtreeSpace
-philr
-scBubbletree
-sitePath
-tanggle
+DepecheR
+OLIN
+RBM
+arrayQuality
+nnNorm
+stepNorm
+timeOmics
