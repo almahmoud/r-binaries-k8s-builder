@@ -8,7 +8,6 @@
     "XVector",
     "CGHcall",
     "Rsamtools",
-    "impute",
     "UCSC.utils",
     "Biostrings"
   ],
@@ -133,7 +132,6 @@
     "UCSC.utils"
   ],
   "AMARETTO": [
-    "impute",
     "ComplexHeatmap",
     "MultiAssayExperiment",
     "IRanges",
@@ -441,9 +439,7 @@
     "SparseArray",
     "ProtGenerics"
   ],
-  "AlpsNMR": [
-    "impute"
-  ],
+  "AlpsNMR": [],
   "Anaquin": [
     "DESeq2",
     "S4Vectors",
@@ -1136,7 +1132,6 @@
     "IRanges",
     "S4Vectors",
     "KEGGREST",
-    "impute",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -1154,7 +1149,6 @@
     "DelayedArray",
     "genefilter",
     "edgeR",
-    "impute",
     "AnnotationDbi",
     "KEGGREST",
     "SparseArray",
@@ -1433,7 +1427,6 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "impute",
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -1539,7 +1532,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "impute",
     "IRanges",
     "S4Vectors",
     "KEGGREST",
@@ -1548,12 +1540,9 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "CGHcall": [
-    "impute"
-  ],
+  "CGHcall": [],
   "CGHnormaliter": [
-    "CGHcall",
-    "impute"
+    "CGHcall"
   ],
   "CHETAH": [
     "SingleCellExperiment",
@@ -2175,7 +2164,6 @@
     "Biostrings",
     "BSgenome",
     "GenomicAlignments",
-    "impute",
     "seqPattern",
     "UCSC.utils",
     "XVector",
@@ -2190,7 +2178,6 @@
     "DMRcate",
     "globaltest",
     "sva",
-    "impute",
     "wateRmelon",
     "goseq",
     "missMethyl",
@@ -2585,7 +2572,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "QFeatures",
     "MultiAssayExperiment",
@@ -2898,7 +2884,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "QFeatures",
     "MultiAssayExperiment",
@@ -2975,7 +2960,6 @@
     "MSnbase",
     "ComplexHeatmap",
     "IRanges",
-    "impute",
     "mzR",
     "S4Vectors",
     "ProtGenerics",
@@ -3103,7 +3087,6 @@
   ],
   "DExMA": [
     "GEOquery",
-    "impute",
     "sva",
     "SummarizedExperiment",
     "S4Vectors",
@@ -3718,7 +3701,6 @@
   ],
   "EGAD": [
     "GEOquery",
-    "impute",
     "SummarizedExperiment",
     "S4Vectors",
     "GenomicRanges",
@@ -3798,7 +3780,6 @@
   "ENmix": [
     "SummarizedExperiment",
     "geneplotter",
-    "impute",
     "minfi",
     "IRanges",
     "ExperimentHub",
@@ -3938,7 +3919,6 @@
     "Biostrings",
     "BSgenome",
     "GenomicAlignments",
-    "impute",
     "Rsamtools",
     "seqPattern",
     "UCSC.utils",
@@ -3960,7 +3940,6 @@
     "GenomeInfoDb",
     "GenomicFeatures",
     "GenomicRanges",
-    "impute",
     "IRanges",
     "S4Vectors",
     "SummarizedExperiment",
@@ -4228,7 +4207,6 @@
     "DESeq2",
     "txdbmaker"
   ],
-  "FamAgg": [],
   "FastqCleaner": [
     "IRanges",
     "Biostrings",
@@ -4445,7 +4423,6 @@
     "sva",
     "edgeR",
     "GEOquery",
-    "impute",
     "SummarizedExperiment",
     "S4Vectors",
     "genefilter",
@@ -4788,7 +4765,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "impute",
     "AnnotationDbi",
     "KEGGREST",
     "SparseArray",
@@ -4861,7 +4837,6 @@
     "QDNAseq",
     "CGHcall",
     "GenomicRanges",
-    "impute",
     "S4Vectors",
     "IRanges",
     "GenomeInfoDb",
@@ -5149,7 +5124,6 @@
     "Biostrings",
     "BSgenome",
     "S4Vectors",
-    "impute",
     "seqPattern",
     "UCSC.utils",
     "SummarizedExperiment",
@@ -5290,7 +5264,6 @@
     "annotate",
     "AnnotationForge",
     "Rgraphviz",
-    "impute",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -5783,7 +5756,6 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "impute",
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -6108,7 +6080,6 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "impute",
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -6262,7 +6233,6 @@
     "HDF5Array",
     "RnBeads",
     "crlmm",
-    "impute",
     "oligoClasses",
     "SparseArray",
     "DelayedArray",
@@ -6338,7 +6308,6 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "impute",
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -6416,7 +6385,6 @@
     "IRanges",
     "S4Vectors",
     "KEGGREST",
-    "impute",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -6478,7 +6446,6 @@
     "edgeR"
   ],
   "MEAT": [
-    "impute",
     "minfi",
     "SummarizedExperiment",
     "wateRmelon",
@@ -6735,7 +6702,6 @@
     "edgeR"
   ],
   "MODA": [
-    "impute",
     "AnnotationDbi",
     "IRanges",
     "S4Vectors",
@@ -6901,7 +6867,6 @@
     "edgeR",
     "MsCoreUtils",
     "PSMatch",
-    "impute",
     "UCSC.utils",
     "QFeatures",
     "MultiAssayExperiment",
@@ -6919,7 +6884,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "QFeatures",
     "MultiAssayExperiment",
@@ -6960,7 +6924,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "QFeatures",
     "MultiAssayExperiment",
@@ -6984,7 +6947,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "QFeatures",
     "MultiAssayExperiment",
@@ -7038,7 +7000,6 @@
     "edgeR",
     "GenomicRanges",
     "GenomeInfoDb",
-    "impute",
     "AnnotationDbi",
     "KEGGREST",
     "UCSC.utils",
@@ -7049,7 +7010,6 @@
     "SummarizedExperiment",
     "ComplexHeatmap",
     "ExperimentHub",
-    "impute",
     "proDA",
     "sva",
     "IRanges",
@@ -7315,9 +7275,7 @@
     "GenomicAlignments",
     "BiocIO"
   ],
-  "MethylMix": [
-    "impute"
-  ],
+  "MethylMix": [],
   "MethylSeekR": [
     "rtracklayer",
     "IRanges",
@@ -7475,7 +7433,6 @@
     "biomaRt",
     "GenomeInfoDb",
     "GenomicFeatures",
-    "impute",
     "SummarizedExperiment",
     "XVector",
     "Biostrings",
@@ -7939,7 +7896,6 @@
     "IRanges",
     "S4Vectors",
     "KEGGREST",
-    "impute",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -8403,7 +8359,6 @@
   "POMA": [
     "ComplexHeatmap",
     "DESeq2",
-    "impute",
     "SummarizedExperiment",
     "sva",
     "IRanges",
@@ -8483,7 +8438,6 @@
     "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
-    "impute",
     "mzID",
     "DESeq2",
     "sva",
@@ -8664,7 +8618,6 @@
   ],
   "Pigengene": [
     "Rgraphviz",
-    "impute",
     "clusterProfiler",
     "ReactomePA",
     "DOSE",
@@ -8712,7 +8665,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "QFeatures",
     "MultiAssayExperiment",
@@ -8735,7 +8687,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "QFeatures",
     "MultiAssayExperiment",
@@ -8839,7 +8790,6 @@
     "GenomicRanges",
     "IRanges",
     "Rsamtools",
-    "impute",
     "S4Vectors",
     "GenomeInfoDb",
     "XVector",
@@ -9030,7 +8980,6 @@
     "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
-    "impute",
     "seqPattern",
     "UCSC.utils",
     "AnnotationDbi",
@@ -9108,7 +9057,6 @@
     "GenomeInfoDb",
     "BSgenome",
     "AnnotationHub",
-    "impute",
     "AnnotationDbi",
     "XVector",
     "BiocIO",
@@ -9204,7 +9152,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "QFeatures",
     "MultiAssayExperiment",
@@ -9220,7 +9167,6 @@
   ],
   "RNAAgeCalc": [
     "recount",
-    "impute",
     "AnnotationDbi",
     "SummarizedExperiment",
     "IRanges",
@@ -9437,7 +9383,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RTCA": [],
   "RTCGAToolbox": [
     "DelayedArray",
     "GenomicRanges",
@@ -9685,7 +9630,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "impute",
     "SparseArray",
     "UCSC.utils",
     "XVector",
@@ -10000,9 +9944,7 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "Rnits": [
-    "impute"
-  ],
+  "Rnits": [],
   "RolDE": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -10513,7 +10455,6 @@
     "S4Vectors",
     "GenomicRanges",
     "DelayedArray",
-    "impute",
     "AnnotationDbi",
     "IRanges",
     "KEGGREST",
@@ -10531,7 +10472,6 @@
     "SparseArray",
     "XVector"
   ],
-  "SRAdb": [],
   "STATegRa": [
     "edgeR"
   ],
@@ -11249,8 +11189,7 @@
     "SparseArray",
     "UCSC.utils",
     "XVector",
-    "Biostrings",
-    "impute"
+    "Biostrings"
   ],
   "SynExtend": [
     "DECIPHER",
@@ -11536,7 +11475,6 @@
     "UCSC.utils"
   ],
   "TIN": [
-    "impute",
     "AnnotationDbi",
     "IRanges",
     "S4Vectors",
@@ -13025,7 +12963,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "MLInterfaces",
     "biomaRt",
@@ -13389,7 +13326,6 @@
   ],
   "biscuiteer": [
     "bsseq",
-    "impute",
     "HDF5Array",
     "S4Vectors",
     "Rsamtools",
@@ -13699,7 +13635,6 @@
     "DelayedArray",
     "genefilter",
     "edgeR",
-    "impute",
     "SparseArray",
     "annotate",
     "biomaRt"
@@ -13979,8 +13914,7 @@
     "UCSC.utils",
     "XVector",
     "CGHcall",
-    "Biostrings",
-    "impute"
+    "Biostrings"
   ],
   "cghMCR": [
     "CNTools",
@@ -14189,7 +14123,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "cisPath": [],
   "cleanUpdTSeq": [
     "BSgenome",
     "GenomicRanges",
@@ -14216,7 +14149,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "clevRvis": [],
   "cliProfiler": [
     "S4Vectors",
     "rtracklayer",
@@ -14268,7 +14200,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "SummarizedExperiment",
     "MsFeatures",
@@ -14446,7 +14377,6 @@
   ],
   "cola": [
     "ComplexHeatmap",
-    "impute",
     "IRanges",
     "S4Vectors"
   ],
@@ -14695,7 +14625,6 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "impute",
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -14999,7 +14928,6 @@
     "SparseArray"
   ],
   "csdR": [
-    "impute",
     "AnnotationDbi",
     "IRanges",
     "S4Vectors",
@@ -15593,7 +15521,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "impute",
     "AnnotationDbi",
     "KEGGREST",
     "SparseArray",
@@ -15717,7 +15644,6 @@
   ],
   "doppelgangR": [
     "sva",
-    "impute",
     "SummarizedExperiment",
     "GenomicRanges",
     "S4Vectors",
@@ -16479,7 +16405,6 @@
     "BSgenome",
     "GenomeInfoDb",
     "GenomicAlignments",
-    "impute",
     "Rsamtools",
     "seqPattern",
     "rtracklayer",
@@ -16529,7 +16454,6 @@
   ],
   "fastLiquidAssociation": [
     "LiquidAssociation",
-    "impute",
     "AnnotationDbi",
     "IRanges",
     "S4Vectors",
@@ -16646,7 +16570,6 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "impute",
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -17125,7 +17048,6 @@
     "GenomicRanges",
     "GenomicAlignments",
     "S4Vectors",
-    "impute",
     "IRanges",
     "Rsamtools",
     "seqPattern",
@@ -17867,7 +17789,6 @@
     "DelayedArray",
     "HDF5Array",
     "Rgraphviz",
-    "impute",
     "clusterProfiler",
     "ReactomePA",
     "DOSE",
@@ -18226,7 +18147,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "impute": [],
   "infercnv": [
     "edgeR",
     "SummarizedExperiment",
@@ -18543,7 +18463,6 @@
     "SummarizedExperiment",
     "S4Vectors",
     "ropls",
-    "impute",
     "MultiAssayExperiment",
     "MultiDataSet",
     "GenomicRanges",
@@ -18926,7 +18845,6 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "impute",
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -19266,7 +19184,6 @@
   ],
   "methylclock": [
     "ExperimentHub",
-    "impute",
     "minfi",
     "AnnotationHub",
     "S4Vectors",
@@ -19358,7 +19275,6 @@
     "UCSC.utils"
   ],
   "miRLAB": [
-    "impute",
     "TCGAbiolinks",
     "SummarizedExperiment",
     "Category",
@@ -19421,7 +19337,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "impute",
     "KEGGREST",
     "SparseArray",
     "UCSC.utils",
@@ -20067,7 +19982,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "QFeatures",
     "MultiAssayExperiment",
@@ -20091,7 +20005,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "QFeatures",
     "MultiAssayExperiment",
@@ -20167,7 +20080,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "impute",
     "AnnotationDbi",
     "KEGGREST",
     "SparseArray",
@@ -20362,7 +20274,6 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "impute",
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -20481,7 +20392,6 @@
     "BiocIO"
   ],
   "netboost": [
-    "impute",
     "AnnotationDbi",
     "IRanges",
     "S4Vectors",
@@ -20688,7 +20598,6 @@
     "ProtGenerics",
     "MsCoreUtils",
     "IRanges",
-    "impute",
     "mzID",
     "DelayedArray",
     "GenomicRanges",
@@ -20720,7 +20629,6 @@
     "annotate",
     "UCSC.utils",
     "XVector",
-    "impute",
     "KEGGREST",
     "Biostrings"
   ],
@@ -20920,7 +20828,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "KEGGREST",
     "QFeatures",
@@ -20944,7 +20851,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "MLInterfaces",
     "biomaRt",
@@ -21184,7 +21090,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "QFeatures",
     "MultiAssayExperiment",
@@ -21456,7 +21361,6 @@
     "XVector"
   ],
   "pmp": [
-    "impute",
     "SummarizedExperiment",
     "S4Vectors",
     "GenomicRanges",
@@ -21754,7 +21658,6 @@
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
-    "impute",
     "mzID",
     "QFeatures",
     "MultiAssayExperiment",
@@ -21804,7 +21707,6 @@
     "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
-    "impute",
     "mzID",
     "UCSC.utils",
     "QFeatures",
@@ -22396,8 +22298,7 @@
     "SparseArray"
   ],
   "rexposome": [
-    "S4Vectors",
-    "impute"
+    "S4Vectors"
   ],
   "rfPred": [
     "GenomeInfoDb",
@@ -23747,7 +23648,6 @@
     "IRanges",
     "GenomeInfoDb",
     "XVector",
-    "impute",
     "KEGGREST",
     "UCSC.utils",
     "Biostrings"
@@ -24531,7 +24431,6 @@
     "mzR",
     "MsCoreUtils",
     "PSMatch",
-    "impute",
     "mzID",
     "MsFeatures",
     "MetaboCoreUtils",
@@ -24629,9 +24528,7 @@
     "pwalign",
     "BiocIO"
   ],
-  "statTarget": [
-    "impute"
-  ],
+  "statTarget": [],
   "strandCheckR": [
     "GenomeInfoDb",
     "GenomicAlignments",
@@ -24813,7 +24710,6 @@
     "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
-    "impute",
     "mzID",
     "UCSC.utils",
     "QFeatures",
@@ -25193,7 +25089,6 @@
     "XVector",
     "GenomeInfoDb",
     "MsCoreUtils",
-    "impute",
     "mzID",
     "QFeatures",
     "UCSC.utils",
@@ -25459,7 +25354,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "trio": [],
   "triplex": [
     "S4Vectors",
     "IRanges",
@@ -25847,7 +25741,6 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "impute",
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",

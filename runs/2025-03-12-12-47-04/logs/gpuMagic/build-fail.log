@@ -1,0 +1,615 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''gpuMagic'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'gpuMagic'
+also installing the dependencies ‘bit’, ‘bit64’, ‘proxy’, ‘rematch’, ‘vroom’, ‘tzdb’, ‘rootSolve’, ‘e1071’, ‘lmom’, ‘cellranger’, ‘progress’, ‘forcats’, ‘hms’, ‘readr’, ‘tidyselect’, ‘mvtnorm’, ‘expm’, ‘Exact’, ‘gld’, ‘data.table’, ‘readxl’, ‘haven’, ‘httr’, ‘lobstr’, ‘bookdown’, ‘Deriv’, ‘DescTools’, ‘pryr’, ‘BiocGenerics’, ‘BiocStyle’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bit_4.6.0.tar.gz'
+Content type 'binary/octet-stream' length 628153 bytes (613 KB)
+==================================================
+downloaded 613 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bit64_4.6.0-1.tar.gz'
+Content type 'binary/octet-stream' length 491805 bytes (480 KB)
+==================================================
+downloaded 480 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/proxy_0.4-27.tar.gz'
+Content type 'binary/octet-stream' length 175588 bytes (171 KB)
+==================================================
+downloaded 171 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rematch_2.0.0.tar.gz'
+Content type 'binary/octet-stream' length 16197 bytes (15 KB)
+==================================================
+downloaded 15 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/vroom_1.6.5.tar.gz'
+Content type 'binary/octet-stream' length 958016 bytes (935 KB)
+==================================================
+downloaded 935 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tzdb_0.4.0.tar.gz'
+Content type 'binary/octet-stream' length 645343 bytes (630 KB)
+==================================================
+downloaded 630 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rootSolve_1.8.2.4.tar.gz'
+Content type 'binary/octet-stream' length 686808 bytes (670 KB)
+==================================================
+downloaded 670 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/e1071_1.7-16.tar.gz'
+Content type 'binary/octet-stream' length 596729 bytes (582 KB)
+==================================================
+downloaded 582 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lmom_3.2.tar.gz'
+Content type 'binary/octet-stream' length 575957 bytes (562 KB)
+==================================================
+downloaded 562 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/cellranger_1.1.0.tar.gz'
+Content type 'binary/octet-stream' length 103778 bytes (101 KB)
+==================================================
+downloaded 101 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/progress_1.2.3.tar.gz'
+Content type 'binary/octet-stream' length 86326 bytes (84 KB)
+==================================================
+downloaded 84 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/forcats_1.0.0.tar.gz'
+Content type 'binary/octet-stream' length 421285 bytes (411 KB)
+==================================================
+downloaded 411 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/hms_1.1.3.tar.gz'
+Content type 'binary/octet-stream' length 99678 bytes (97 KB)
+==================================================
+downloaded 97 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/readr_2.1.5.tar.gz'
+Content type 'binary/octet-stream' length 867956 bytes (847 KB)
+==================================================
+downloaded 847 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidyselect_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 225331 bytes (220 KB)
+==================================================
+downloaded 220 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mvtnorm_1.3-3.tar.gz'
+Content type 'binary/octet-stream' length 952249 bytes (929 KB)
+==================================================
+downloaded 929 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/expm_1.0-0.tar.gz'
+Content type 'binary/octet-stream' length 212520 bytes (207 KB)
+==================================================
+downloaded 207 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Exact_3.3.tar.gz'
+Content type 'binary/octet-stream' length 203373 bytes (198 KB)
+==================================================
+downloaded 198 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gld_2.6.7.tar.gz'
+Content type 'binary/octet-stream' length 238309 bytes (232 KB)
+==================================================
+downloaded 232 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/data.table_1.17.0.tar.gz'
+Content type 'binary/octet-stream' length 2695704 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/readxl_1.4.5.tar.gz'
+Content type 'binary/octet-stream' length 412387 bytes (402 KB)
+==================================================
+downloaded 402 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/haven_2.5.4.tar.gz'
+Content type 'binary/octet-stream' length 389916 bytes (380 KB)
+==================================================
+downloaded 380 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/httr_1.4.7.tar.gz'
+Content type 'binary/octet-stream' length 484006 bytes (472 KB)
+==================================================
+downloaded 472 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lobstr_1.1.2.tar.gz'
+Content type 'binary/octet-stream' length 139369 bytes (136 KB)
+==================================================
+downloaded 136 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bookdown_0.42.tar.gz'
+Content type 'binary/octet-stream' length 1090748 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Deriv_4.1.6.tar.gz'
+Content type 'binary/octet-stream' length 150048 bytes (146 KB)
+==================================================
+downloaded 146 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DescTools_0.99.59.tar.gz'
+Content type 'binary/octet-stream' length 5490248 bytes (5.2 MB)
+==================================================
+downloaded 5.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pryr_0.1.6.tar.gz'
+Content type 'binary/octet-stream' length 217216 bytes (212 KB)
+==================================================
+downloaded 212 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocGenerics_0.52.0.tar.gz'
+Content type 'application/x-gzip' length 57066 bytes (55 KB)
+==================================================
+downloaded 55 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocStyle_2.34.0.tar.gz'
+Content type 'application/x-gzip' length 908772 bytes (887 KB)
+==================================================
+downloaded 887 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/gpuMagic_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 757626 bytes (739 KB)
+==================================================
+downloaded 739 KB
+
+* installing *binary* package ‘bit’ ...
+* ‘bit’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bit’ as ‘bit_4.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bit)
+* installing *binary* package ‘proxy’ ...
+* ‘proxy’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘proxy’ as ‘proxy_0.4-27_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (proxy)
+* installing *binary* package ‘rematch’ ...
+* ‘rematch’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rematch’ as ‘rematch_2.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rematch)
+* installing *binary* package ‘tzdb’ ...
+* ‘tzdb’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tzdb’ as ‘tzdb_0.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tzdb)
+* installing *binary* package ‘rootSolve’ ...
+* ‘rootSolve’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rootSolve’ as ‘rootSolve_1.8.2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rootSolve)
+* installing *binary* package ‘lmom’ ...
+* ‘lmom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lmom’ as ‘lmom_3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lmom)
+* installing *binary* package ‘forcats’ ...
+* ‘forcats’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘forcats’ as ‘forcats_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (forcats)
+* installing *binary* package ‘hms’ ...
+* ‘hms’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘hms’ as ‘hms_1.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hms)
+* installing *binary* package ‘tidyselect’ ...
+* ‘tidyselect’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidyselect’ as ‘tidyselect_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyselect)
+* installing *binary* package ‘mvtnorm’ ...
+* ‘mvtnorm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mvtnorm’ as ‘mvtnorm_1.3-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mvtnorm)
+* installing *binary* package ‘expm’ ...
+* ‘expm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘expm’ as ‘expm_1.0-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (expm)
+* installing *binary* package ‘data.table’ ...
+* ‘data.table’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘data.table’ as ‘data.table_1.17.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (data.table)
+* installing *binary* package ‘httr’ ...
+* ‘httr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘httr’ as ‘httr_1.4.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (httr)
+* installing *binary* package ‘lobstr’ ...
+* ‘lobstr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lobstr’ as ‘lobstr_1.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lobstr)
+* installing *binary* package ‘bookdown’ ...
+* ‘bookdown’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.42_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *binary* package ‘Deriv’ ...
+* ‘Deriv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Deriv’ as ‘Deriv_4.1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Deriv)
+* installing *source* package ‘BiocGenerics’ ...
+** package ‘BiocGenerics’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘aperm’ in package ‘BiocGenerics’
+Creating a new generic function for ‘append’ in package ‘BiocGenerics’
+Creating a new generic function for ‘as.data.frame’ in package ‘BiocGenerics’
+Creating a new generic function for ‘cbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘do.call’ in package ‘BiocGenerics’
+Creating a new generic function for ‘duplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘anyDuplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘eval’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Reduce’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Filter’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Find’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Map’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Position’ in package ‘BiocGenerics’
+Creating a new generic function for ‘get’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mget’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grep’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grepl’ in package ‘BiocGenerics’
+Creating a new generic function for ‘is.unsorted’ in package ‘BiocGenerics’
+Creating a new generic function for ‘lapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘match’ in package ‘BiocGenerics’
+Creating a new generic function for ‘order’ in package ‘BiocGenerics’
+Creating a new generic function for ‘paste’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rank’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rownames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘colnames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘saveRDS’ in package ‘BiocGenerics’
+Creating a new generic function for ‘union’ in package ‘BiocGenerics’
+Creating a new generic function for ‘intersect’ in package ‘BiocGenerics’
+Creating a new generic function for ‘setdiff’ in package ‘BiocGenerics’
+Creating a new generic function for ‘table’ in package ‘BiocGenerics’
+Creating a new generic function for ‘tapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unique’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unsplit’ in package ‘BiocGenerics’
+Creating a new generic function for ‘var’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sd’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.min’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.max’ in package ‘BiocGenerics’
+Creating a new generic function for ‘IQR’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mad’ in package ‘BiocGenerics’
+Creating a new generic function for ‘xtabs’ in package ‘BiocGenerics’
+Creating a new generic function for ‘basename’ in package ‘BiocGenerics’
+Creating a new generic function for ‘dirname’ in package ‘BiocGenerics’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocGenerics’ as ‘BiocGenerics_0.52.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocGenerics)
+* installing *binary* package ‘bit64’ ...
+* ‘bit64’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bit64’ as ‘bit64_4.6.0-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bit64)
+* installing *binary* package ‘e1071’ ...
+* ‘e1071’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘e1071’ as ‘e1071_1.7-16_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (e1071)
+* installing *binary* package ‘cellranger’ ...
+* ‘cellranger’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘cellranger’ as ‘cellranger_1.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cellranger)
+* installing *binary* package ‘progress’ ...
+* ‘progress’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘progress’ as ‘progress_1.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (progress)
+* installing *binary* package ‘Exact’ ...
+* ‘Exact’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Exact’ as ‘Exact_3.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Exact)
+* installing *binary* package ‘pryr’ ...
+* ‘pryr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pryr’ as ‘pryr_0.1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pryr)
+* installing *source* package ‘BiocStyle’ ...
+** package ‘BiocStyle’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+* installing *binary* package ‘vroom’ ...
+* ‘vroom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘vroom’ as ‘vroom_1.6.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (vroom)
+* installing *binary* package ‘gld’ ...
+* ‘gld’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gld’ as ‘gld_2.6.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gld)
+* installing *binary* package ‘readxl’ ...
+* ‘readxl’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘readxl’ as ‘readxl_1.4.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (readxl)
+* installing *binary* package ‘readr’ ...
+* ‘readr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘readr’ as ‘readr_2.1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (readr)
+* installing *binary* package ‘haven’ ...
+* ‘haven’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘haven’ as ‘haven_2.5.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (haven)
+* installing *binary* package ‘DescTools’ ...
+* ‘DescTools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DescTools’ as ‘DescTools_0.99.59_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DescTools)
+* installing *source* package ‘gpuMagic’ ...
+** package ‘gpuMagic’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/lib/R/include -I../inst/include/OpenCL_header -DCL_TARGET_OPENCL_VERSION=220 -DCL_USE_DEPRECATED_OPENCL_1_2_APIS  -DCL_SILENCE_DEPRECATION -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Wformat-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DR_NO_REMAP -c C_Interface.cpp -o C_Interface.o
+C_Interface.cpp: In function ‘SEXPREC* getPlatformNum()’:
+C_Interface.cpp:16:28: error: ‘ScalarInteger’ was not declared in this scope; did you mean ‘Rf_ScalarInteger’?
+   16 |         SEXP platformNum = ScalarInteger(kernelManager::getPlatformNum());
+      |                            ^~~~~~~~~~~~~
+      |                            Rf_ScalarInteger
+C_Interface.cpp: In function ‘SEXPREC* getDeviceNum(SEXP)’:
+C_Interface.cpp:22:68: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+   22 |         SEXP deviceNum = ScalarInteger(kernelManager::getDeviceNum(asInteger(platform)));
+      |                                                                    ^~~~~~~~~
+      |                                                                    Rf_asInteger
+C_Interface.cpp:22:26: error: ‘ScalarInteger’ was not declared in this scope; did you mean ‘Rf_ScalarInteger’?
+   22 |         SEXP deviceNum = ScalarInteger(kernelManager::getDeviceNum(asInteger(platform)));
+      |                          ^~~~~~~~~~~~~
+      |                          Rf_ScalarInteger
+C_Interface.cpp: In function ‘SEXPREC* getDeviceInfo(SEXP, SEXP)’:
+C_Interface.cpp:28:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+   28 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+In file included from C_Interface.h:4,
+                 from C_Interface.cpp:10:
+C_Interface.cpp:30:31: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+   30 |         SEXP info_R = PROTECT(allocVector(VECSXP, 8));
+      |                               ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+C_Interface.cpp:32:43: error: ‘mkString’ was not declared in this scope; did you mean ‘asString’?
+   32 |         SET_VECTOR_ELT(info_R, 0, PROTECT(mkString(info.device_name.c_str())));
+      |                                           ^~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+C_Interface.cpp:33:43: error: ‘ScalarInteger’ was not declared in this scope; did you mean ‘Rf_ScalarInteger’?
+   33 |         SET_VECTOR_ELT(info_R, 1, PROTECT(ScalarInteger(info.device_type)));
+      |                                           ^~~~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+C_Interface.cpp:34:43: error: ‘ScalarReal’ was not declared in this scope; did you mean ‘Rf_ScalarReal’?
+   34 |         SET_VECTOR_ELT(info_R, 2, PROTECT(ScalarReal(info.global_memory)));
+      |                                           ^~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+C_Interface.cpp:36:43: error: ‘ScalarLogical’ was not declared in this scope; did you mean ‘Rf_ScalarLogical’?
+   36 |         SET_VECTOR_ELT(info_R, 4, PROTECT(ScalarLogical(info.has_local_memory)));
+      |                                           ^~~~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+C_Interface.cpp:41:9: error: ‘unprotect’ was not declared in this scope; did you mean ‘Rf_unprotect’?
+   41 |         unprotect(9);
+      |         ^~~~~~~~~
+      |         Rf_unprotect
+C_Interface.cpp: In function ‘SEXPREC* upload(SEXP, SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:48:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+   48 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:50:29: error: ‘asReal’ was not declared in this scope
+   50 |         size_t dataLength = asReal(length);
+      |                             ^~~~~~
+C_Interface.cpp:84:17: error: ‘error’ was not declared in this scope; did you mean ‘perror’?
+   84 |                 error("Unsupported data structure!");
+      |                 ^~~~~
+      |                 perror
+C_Interface.cpp: In function ‘SEXPREC* gpuMalloc(SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:96:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+   96 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:97:47: error: ‘asReal’ was not declared in this scope
+   97 |         openArray* matrix = new openArray(id, asReal(length), (dtype)asInteger(type));
+      |                                               ^~~~~~
+C_Interface.cpp: In function ‘SEXPREC* download(SEXP)’:
+C_Interface.cpp:121:31: error: ‘allocVector’ was not declared in this scope; did you mean ‘Rf_allocVector’?
+  121 |                 res = PROTECT(allocVector(REALSXP, length));
+      |                               ^~~~~~~~~~~
+/usr/local/lib/R/include/Rinternals.h:371:36: note: in definition of macro ‘PROTECT’
+  371 | #define PROTECT(s)      Rf_protect(s)
+      |                                    ^
+C_Interface.cpp: In function ‘SEXPREC* hasKernel(SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:156:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  156 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:12:33: error: ‘asChar’ was not declared in this scope
+   12 | #define asString(x) string(CHAR(asChar(x)))
+      |                                 ^~~~~~
+/usr/local/lib/R/include/Rinternals.h:200:24: note: in definition of macro ‘CHAR’
+  200 | #define CHAR(x) R_CHAR(x)
+      |                        ^
+C_Interface.cpp:157:34: note: in expansion of macro ‘asString’
+  157 |         programSignature sig = { asString(signature) ,string(),string(),asString(kernel) };
+      |                                  ^~~~~~~~
+C_Interface.cpp:158:20: error: ‘ScalarLogical’ was not declared in this scope; did you mean ‘Rf_ScalarLogical’?
+  158 |         SEXP res = ScalarLogical(kernelManager::hasKernel(id, sig));
+      |                    ^~~~~~~~~~~~~
+      |                    Rf_ScalarLogical
+C_Interface.cpp: In function ‘SEXPREC* createKernel(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:166:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  166 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:12:33: error: ‘asChar’ was not declared in this scope
+   12 | #define asString(x) string(CHAR(asChar(x)))
+      |                                 ^~~~~~
+/usr/local/lib/R/include/Rinternals.h:200:24: note: in definition of macro ‘CHAR’
+  200 | #define CHAR(x) R_CHAR(x)
+      |                        ^
+C_Interface.cpp:167:34: note: in expansion of macro ‘asString’
+  167 |         programSignature sig = { asString(signature) ,asString(flag),asString(code),asString(kernel) };
+      |                                  ^~~~~~~~
+C_Interface.cpp: In function ‘SEXPREC* setParameter(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:178:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  178 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:12:33: error: ‘asChar’ was not declared in this scope
+   12 | #define asString(x) string(CHAR(asChar(x)))
+      |                                 ^~~~~~
+/usr/local/lib/R/include/Rinternals.h:200:24: note: in definition of macro ‘CHAR’
+  200 | #define CHAR(x) R_CHAR(x)
+      |                        ^
+C_Interface.cpp:179:34: note: in expansion of macro ‘asString’
+  179 |         programSignature sig = { asString(signature),string(),string(),asString(kernel) };
+      |                                  ^~~~~~~~
+C_Interface.cpp: In function ‘SEXPREC* setSharedParameter(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:190:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  190 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:12:33: error: ‘asChar’ was not declared in this scope
+   12 | #define asString(x) string(CHAR(asChar(x)))
+      |                                 ^~~~~~
+/usr/local/lib/R/include/Rinternals.h:200:24: note: in definition of macro ‘CHAR’
+  200 | #define CHAR(x) R_CHAR(x)
+      |                        ^
+C_Interface.cpp:191:34: note: in expansion of macro ‘asString’
+  191 |         programSignature sig = { asString(signature),string(),string(),asString(kernel) };
+      |                                  ^~~~~~~~
+C_Interface.cpp: In function ‘SEXPREC* launchKernel(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:203:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  203 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:12:33: error: ‘asChar’ was not declared in this scope
+   12 | #define asString(x) string(CHAR(asChar(x)))
+      |                                 ^~~~~~
+/usr/local/lib/R/include/Rinternals.h:200:24: note: in definition of macro ‘CHAR’
+  200 | #define CHAR(x) R_CHAR(x)
+      |                        ^
+C_Interface.cpp:205:34: note: in expansion of macro ‘asString’
+  205 |         programSignature sig = { asString(signature),string(),string(),asString(kernel) };
+      |                                  ^~~~~~~~
+C_Interface.cpp: In function ‘SEXPREC* getPreferredGroupSize(SEXP, SEXP, SEXP, SEXP)’:
+C_Interface.cpp:230:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  230 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:12:33: error: ‘asChar’ was not declared in this scope
+   12 | #define asString(x) string(CHAR(asChar(x)))
+      |                                 ^~~~~~
+/usr/local/lib/R/include/Rinternals.h:200:24: note: in definition of macro ‘CHAR’
+  200 | #define CHAR(x) R_CHAR(x)
+      |                        ^
+C_Interface.cpp:231:34: note: in expansion of macro ‘asString’
+  231 |         programSignature sig = { asString(signature),string(),string(),asString(kernel) };
+      |                                  ^~~~~~~~
+C_Interface.cpp:239:20: error: ‘ScalarInteger’ was not declared in this scope; did you mean ‘Rf_ScalarInteger’?
+  239 |         SEXP res = ScalarInteger(prefferedSize);
+      |                    ^~~~~~~~~~~~~
+      |                    Rf_ScalarInteger
+C_Interface.cpp: In function ‘SEXPREC* getDeviceStatus(SEXP, SEXP)’:
+C_Interface.cpp:246:33: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  246 |         deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                                 ^~~~~~~~~
+      |                                 Rf_asInteger
+C_Interface.cpp:252:24: error: ‘ScalarInteger’ was not declared in this scope; did you mean ‘Rf_ScalarInteger’?
+  252 |                 return(ScalarInteger(status));
+      |                        ^~~~~~~~~~~~~
+      |                        Rf_ScalarInteger
+C_Interface.cpp:272:16: error: ‘ScalarInteger’ was not declared in this scope; did you mean ‘Rf_ScalarInteger’?
+  272 |         return(ScalarInteger(status));
+      |                ^~~~~~~~~~~~~
+      |                Rf_ScalarInteger
+C_Interface.cpp: In function ‘SEXPREC* getTrueAd(SEXP)’:
+C_Interface.cpp:281:16: error: ‘ScalarReal’ was not declared in this scope; did you mean ‘Rf_ScalarReal’?
+  281 |         return(ScalarReal(ad_double));
+      |                ^~~~~~~~~~
+      |                Rf_ScalarReal
+C_Interface.cpp: In function ‘SEXPREC* asMatrix(SEXP, SEXP)’:
+C_Interface.cpp:286:9: error: ‘setAttrib’ was not declared in this scope; did you mean ‘Rf_setAttrib’?
+  286 |         setAttrib(data, R_DimSymbol, dim);
+      |         ^~~~~~~~~
+      |         Rf_setAttrib
+C_Interface.cpp: In function ‘SEXPREC* getDeviceFullInfo(SEXP, SEXP)’:
+C_Interface.cpp:292:27: error: ‘asInteger’ was not declared in this scope; did you mean ‘Rf_asInteger’?
+  292 |   deviceIdentifier id = { asInteger(platform) ,asInteger(device) };
+      |                           ^~~~~~~~~
+      |                           Rf_asInteger
+make: *** [/usr/local/lib/R/etc/Makeconf:204: C_Interface.o] Error 1
+ERROR: compilation failed for package ‘gpuMagic’
+* removing ‘/usr/local/lib/R/site-library/gpuMagic’
+
+The downloaded source packages are in
+	‘/tmp/RtmpXKmhxO/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+Warning message:
+In install.packages(...) :
+  installation of package ‘gpuMagic’ had non-zero exit status
+
+real	0m30.242s
+user	0m17.025s
+sys	0m8.863s

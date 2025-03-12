@@ -93,6 +93,7 @@ EnhancedVolcano
 EpiDISH
 FISHalyseR
 FRGEpistasis
+FamAgg
 FitHiC
 GAprediction
 GEM
@@ -223,6 +224,7 @@ ROTS
 RProtoBufLib
 RRHO
 RSeqAn
+RTCA
 RTCGA
 RTopper
 RUVcorr
@@ -255,6 +257,7 @@ SNAGEE
 SNPRelate
 SNPediaR
 SPEM
+SRAdb
 STRINGdb
 SUITOR
 SamSPECTRAL
@@ -322,6 +325,8 @@ ceRNAnetsim
 cellmigRation
 cellscape
 cellxgenedp
+cisPath
+clevRvis
 clippda
 clst
 clstutils
@@ -399,6 +404,7 @@ ggtreeExtra
 ggtreeSpace
 globalSeq
 gpls
+gpuMagic
 granulator
 graper
 graph
@@ -423,6 +429,7 @@ iSeq
 ibh
 illuminaio
 immunotation
+impute
 interacCircos
 interactiveDisplayBase
 iterativeBMA
@@ -580,6 +587,7 @@ tkWidgets
 tomoseqr
 topconfects
 treeio
+trio
 tripr
 ttgsea
 twilight

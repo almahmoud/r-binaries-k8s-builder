@@ -651,3 +651,8 @@ rebook
 rsbml
 mosbi
 ndexr
+AlpsNMR
+CGHcall
+MethylMix
+Rnits
+statTarget
