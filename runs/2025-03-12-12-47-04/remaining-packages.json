@@ -959,7 +959,6 @@
     "SparseArray",
     "XVector"
   ],
-  "BioMVCClass": [],
   "BioNAR": [
     "AnnotationDbi",
     "IRanges",

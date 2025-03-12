@@ -668,3 +668,4 @@
 ['[frmaTools](https://bioconductor.org/packages/3.20/bioc/html/frmaTools.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/frmaTools/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/frmaTools)']
 ['[hmdbQuery](https://bioconductor.org/packages/3.20/bioc/html/hmdbQuery.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/hmdbQuery/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hmdbQuery)']
 ['[rawrr](https://bioconductor.org/packages/3.20/bioc/html/rawrr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rawrr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rawrr)']
+['[BioMVCClass](https://bioconductor.org/packages/3.20/bioc/html/BioMVCClass.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/BioMVCClass/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BioMVCClass)']

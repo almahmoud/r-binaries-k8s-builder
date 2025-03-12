@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 670 packages built successfully
+- 671 packages built successfully
 - 12 packages failed to build
-- 1551 packages not yet processed
+- 1550 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
 | [Rtreemix](https://bioconductor.org/packages/3.20/bioc/html/Rtreemix.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Rtreemix/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rtreemix)     | Build failed with unknown error     |
 
-## Successfully Built (670)
+## Successfully Built (671)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -697,8 +697,9 @@
 | [frmaTools](https://bioconductor.org/packages/3.20/bioc/html/frmaTools.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/frmaTools/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/frmaTools)               |
 | [hmdbQuery](https://bioconductor.org/packages/3.20/bioc/html/hmdbQuery.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/hmdbQuery/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hmdbQuery)               |
 | [rawrr](https://bioconductor.org/packages/3.20/bioc/html/rawrr.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/rawrr/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rawrr)                   |
+| [BioMVCClass](https://bioconductor.org/packages/3.20/bioc/html/BioMVCClass.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/BioMVCClass/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BioMVCClass)             |
 
-## Not Yet Processed (1551)
+## Not Yet Processed (1550)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -767,7 +768,6 @@
 | [BindingSiteFinder](https://bioconductor.org/packages/3.20/bioc/html/BindingSiteFinder.html)                     | Unprocessed |
 | [BioCor](https://bioconductor.org/packages/3.20/bioc/html/BioCor.html)                                           | Unprocessed |
 | [BioGA](https://bioconductor.org/packages/3.20/bioc/html/BioGA.html)                                             | Unprocessed |
-| [BioMVCClass](https://bioconductor.org/packages/3.20/bioc/html/BioMVCClass.html)                                 | Unprocessed |
 | [BioNAR](https://bioconductor.org/packages/3.20/bioc/html/BioNAR.html)                                           | Unprocessed |
 | [BioNERO](https://bioconductor.org/packages/3.20/bioc/html/BioNERO.html)                                         | Unprocessed |
 | [BioNet](https://bioconductor.org/packages/3.20/bioc/html/BioNet.html)                                           | Unprocessed |
