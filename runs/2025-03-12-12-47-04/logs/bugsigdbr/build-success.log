@@ -1,0 +1,278 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''bugsigdbr'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'bugsigdbr'
+also installing the dependencies ‘blob’, ‘tidyr’, ‘generics’, ‘plogr’, ‘bit’, ‘dbplyr’, ‘dplyr’, ‘RSQLite’, ‘DBI’, ‘filelock’, ‘httr’, ‘bit64’, ‘hms’, ‘tidyselect’, ‘tzdb’, ‘progress’, ‘bookdown’, ‘BiocFileCache’, ‘vroom’, ‘BiocStyle’, ‘ontologyIndex’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/blob_1.2.4.tar.gz'
+Content type 'binary/octet-stream' length 47325 bytes (46 KB)
+==================================================
+downloaded 46 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidyr_1.3.1.tar.gz'
+Content type 'binary/octet-stream' length 1177490 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/generics_0.1.3.tar.gz'
+Content type 'binary/octet-stream' length 81013 bytes (79 KB)
+==================================================
+downloaded 79 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/plogr_0.2.0.tar.gz'
+Content type 'binary/octet-stream' length 13108 bytes (12 KB)
+==================================================
+downloaded 12 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bit_4.6.0.tar.gz'
+Content type 'binary/octet-stream' length 628153 bytes (613 KB)
+==================================================
+downloaded 613 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dbplyr_2.5.0.tar.gz'
+Content type 'binary/octet-stream' length 1236167 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dplyr_1.1.4.tar.gz'
+Content type 'binary/octet-stream' length 1491332 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RSQLite_2.3.9.tar.gz'
+Content type 'binary/octet-stream' length 1342920 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DBI_1.2.3.tar.gz'
+Content type 'binary/octet-stream' length 914707 bytes (893 KB)
+==================================================
+downloaded 893 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/filelock_1.0.3.tar.gz'
+Content type 'binary/octet-stream' length 24752 bytes (24 KB)
+==================================================
+downloaded 24 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/httr_1.4.7.tar.gz'
+Content type 'binary/octet-stream' length 484006 bytes (472 KB)
+==================================================
+downloaded 472 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bit64_4.6.0-1.tar.gz'
+Content type 'binary/octet-stream' length 491805 bytes (480 KB)
+==================================================
+downloaded 480 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/hms_1.1.3.tar.gz'
+Content type 'binary/octet-stream' length 99678 bytes (97 KB)
+==================================================
+downloaded 97 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidyselect_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 225331 bytes (220 KB)
+==================================================
+downloaded 220 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tzdb_0.4.0.tar.gz'
+Content type 'binary/octet-stream' length 645343 bytes (630 KB)
+==================================================
+downloaded 630 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/progress_1.2.3.tar.gz'
+Content type 'binary/octet-stream' length 86326 bytes (84 KB)
+==================================================
+downloaded 84 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bookdown_0.42.tar.gz'
+Content type 'binary/octet-stream' length 1090748 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocFileCache_2.14.0.tar.gz'
+Content type 'application/x-gzip' length 740925 bytes (723 KB)
+==================================================
+downloaded 723 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/vroom_1.6.5.tar.gz'
+Content type 'binary/octet-stream' length 958016 bytes (935 KB)
+==================================================
+downloaded 935 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocStyle_2.34.0.tar.gz'
+Content type 'application/x-gzip' length 908772 bytes (887 KB)
+==================================================
+downloaded 887 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ontologyIndex_2.12.tar.gz'
+Content type 'binary/octet-stream' length 2117753 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/bugsigdbr_1.12.1.tar.gz'
+Content type 'application/x-gzip' length 338216 bytes (330 KB)
+==================================================
+downloaded 330 KB
+
+* installing *binary* package ‘blob’ ...
+* ‘blob’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘blob’ as ‘blob_1.2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (blob)
+* installing *binary* package ‘generics’ ...
+* ‘generics’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘generics’ as ‘generics_0.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (generics)
+* installing *binary* package ‘plogr’ ...
+* ‘plogr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘plogr’ as ‘plogr_0.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (plogr)
+* installing *binary* package ‘bit’ ...
+* ‘bit’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bit’ as ‘bit_4.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bit)
+* installing *binary* package ‘DBI’ ...
+* ‘DBI’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DBI’ as ‘DBI_1.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DBI)
+* installing *binary* package ‘filelock’ ...
+* ‘filelock’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘filelock’ as ‘filelock_1.0.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (filelock)
+* installing *binary* package ‘httr’ ...
+* ‘httr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘httr’ as ‘httr_1.4.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (httr)
+* installing *binary* package ‘hms’ ...
+* ‘hms’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘hms’ as ‘hms_1.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hms)
+* installing *binary* package ‘tidyselect’ ...
+* ‘tidyselect’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidyselect’ as ‘tidyselect_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyselect)
+* installing *binary* package ‘tzdb’ ...
+* ‘tzdb’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tzdb’ as ‘tzdb_0.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tzdb)
+* installing *binary* package ‘bookdown’ ...
+* ‘bookdown’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.42_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *binary* package ‘ontologyIndex’ ...
+* ‘ontologyIndex’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ontologyIndex’ as ‘ontologyIndex_2.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ontologyIndex)
+* installing *binary* package ‘dplyr’ ...
+* ‘dplyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dplyr’ as ‘dplyr_1.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dplyr)
+* installing *binary* package ‘bit64’ ...
+* ‘bit64’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bit64’ as ‘bit64_4.6.0-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bit64)
+* installing *binary* package ‘progress’ ...
+* ‘progress’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘progress’ as ‘progress_1.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (progress)
+* installing *source* package ‘BiocStyle’ ...
+** package ‘BiocStyle’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+* installing *binary* package ‘tidyr’ ...
+* ‘tidyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidyr’ as ‘tidyr_1.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyr)
+* installing *binary* package ‘RSQLite’ ...
+* ‘RSQLite’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RSQLite’ as ‘RSQLite_2.3.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RSQLite)
+* installing *binary* package ‘vroom’ ...
+* ‘vroom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘vroom’ as ‘vroom_1.6.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (vroom)
+* installing *binary* package ‘dbplyr’ ...
+* ‘dbplyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dbplyr’ as ‘dbplyr_2.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dbplyr)
+* installing *source* package ‘BiocFileCache’ ...
+** package ‘BiocFileCache’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocFileCache’ as ‘BiocFileCache_2.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocFileCache)
+* installing *source* package ‘bugsigdbr’ ...
+** package ‘bugsigdbr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bugsigdbr’ as ‘bugsigdbr_1.12.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bugsigdbr)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpiy1WVb/downloaded_packages’
+Old packages: 'bslib', 'cli', 'cpp11', 'curl', 'evaluate', 'httr2', 'jsonlite',
+  'openssl', 'pillar', 'pkgbuild', 'processx', 'ps', 'purrr', 'R6', 'Rcpp',
+  'rlang', 'sessioninfo', 'systemfonts', 'testthat', 'textshaping', 'tinytex',
+  'xfun', 'xml2', 'zip', 'class', 'foreign', 'KernSmooth', 'MASS', 'Matrix',
+  'nlme', 'nnet', 'rpart', 'spatial'
+
+real	0m26.165s
+user	0m16.993s
+sys	0m7.489s
