@@ -51,6 +51,7 @@ BiRewire
 BioCartaImage
 BioMVCClass
 BioNAR
+BioNERO
 BioNet
 BioQC
 Biobase
@@ -271,11 +272,13 @@ Linnorm
 LiquidAssociation
 M3C
 MACSQuantifyR
+MAGeCKFlute
 MAPFX
 MBAmethyl
 MBCB
 MBttest
 MCbiclust
+MDTS
 MEDME
 MEIGOR
 MGFM
@@ -348,6 +351,7 @@ OmnipathR
 OncoSimulR
 OpenStats
 OrderedList
+PAA
 PADOG
 PANR
 PCAN
@@ -356,6 +360,7 @@ PIUMA
 PLPE
 PREDA
 PROPER
+PROPS
 PROcess
 PWMEnrich
 Path2PPI

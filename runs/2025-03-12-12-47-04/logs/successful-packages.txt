@@ -1055,3 +1055,8 @@ BasicSTARRseq
 EasyCellType
 HarmonizR
 KnowSeq
+BioNERO
+MAGeCKFlute
+MDTS
+PAA
+PROPS

@@ -246,7 +246,6 @@
   ],
   "BioCor": [],
   "BioGA": [],
-  "BioNERO": [],
   "BioTIP": [
     "scran",
     "SingleCellExperiment",
@@ -415,7 +414,6 @@
   ],
   "CRISPRball": [
     "dittoSeq",
-    "MAGeCKFlute",
     "PCAtools",
     "SingleCellExperiment",
     "BiocSingular",
@@ -1458,7 +1456,6 @@
     "bumphunter",
     "GEOquery"
   ],
-  "MAGeCKFlute": [],
   "MAI": [],
   "MAIT": [
     "CAMERA",
@@ -1480,7 +1477,6 @@
   "MBASED": [],
   "MBECS": [],
   "MBQN": [],
-  "MDTS": [],
   "MEAL": [
     "MultiDataSet",
     "minfi",
@@ -1876,7 +1872,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "PAA": [],
   "PAIRADISE": [],
   "PAST": [
     "rtracklayer"
@@ -1924,7 +1919,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "PROPS": [],
   "PSMatch": [
     "QFeatures",
     "MultiAssayExperiment",
@@ -3100,7 +3094,6 @@
   ],
   "cageminer": [
     "ggbio",
-    "BioNERO",
     "biovizBase",
     "BSgenome",
     "VariantAnnotation",
