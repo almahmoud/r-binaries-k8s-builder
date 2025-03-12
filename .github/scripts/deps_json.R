@@ -1,8 +1,8 @@
 #!/usr/local/bin/RScript
 if (!require("BiocManager", quietly = TRUE))
-    install.packages("BiocManager", repos = "http://cran.us.r-project.org")
+    install.packages("BiocManager")
 if (!require("R.utils", quietly = TRUE))
-    install.packages("R.utils", repos = "http://cran.us.r-project.org")
+    install.packages("R.utils")
 
 userargs <- R.utils::commandArgs(asValues = TRUE)
 biocdeps <- userargs$biocdeps
