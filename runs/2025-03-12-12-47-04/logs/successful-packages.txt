@@ -160,3 +160,10 @@ geva
 MultiMed
 RProtoBufLib
 tripr
+biodbChebi
+DEqMS
+geneplast
+qckitfastq
+shiny.gosling
+TargetSearch
+tximport

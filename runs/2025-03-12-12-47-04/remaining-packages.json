@@ -1260,7 +1260,6 @@
   ],
   "BgeeCall": [
     "GenomicFeatures",
-    "tximport",
     "Biostrings",
     "rtracklayer",
     "biomaRt",
@@ -3286,7 +3285,6 @@
     "Rsamtools",
     "Rsubread",
     "SummarizedExperiment",
-    "tximport",
     "S4Vectors",
     "IRanges",
     "XVector",
@@ -3967,7 +3965,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "DEqMS": [],
   "DEsingle": [],
   "DEsubs": [
     "graph",
@@ -4511,7 +4508,6 @@
     "BANDITS",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "tximport",
     "DRIMSeq",
     "S4Vectors",
     "BiocGenerics",
@@ -5165,7 +5161,6 @@
     "rhdf5",
     "BSgenome",
     "Biostrings",
-    "tximport",
     "fgsea",
     "BiocGenerics",
     "XVector",
@@ -7713,7 +7708,6 @@
     "GenomicRanges",
     "rtracklayer",
     "GenomeInfoDb",
-    "tximport",
     "tximeta",
     "edgeR",
     "XVector",
@@ -10948,7 +10942,6 @@
     "vsn",
     "Biobase",
     "POMA",
-    "DEqMS",
     "BiocGenerics",
     "IRanges",
     "mzR",
@@ -14705,7 +14698,6 @@
   ],
   "TDbasedUFE": [
     "GenomicRanges",
-    "tximport",
     "BiocGenerics",
     "S4Vectors",
     "IRanges",
@@ -14729,7 +14721,6 @@
     "IRanges",
     "GenomeInfoDb",
     "XVector",
-    "tximport",
     "KEGGREST",
     "UCSC.utils",
     "Biostrings"
@@ -15102,7 +15093,6 @@
     "Rhdf5lib"
   ],
   "TargetScore": [],
-  "TargetSearch": [],
   "TileDBArray": [
     "SparseArray",
     "DelayedArray",
@@ -16381,9 +16371,7 @@
     "rhdf5filters",
     "GenomicAlignments"
   ],
-  "alevinQC": [
-    "tximport"
-  ],
+  "alevinQC": [],
   "altcdfenvs": [
     "BiocGenerics",
     "S4Vectors",
@@ -17249,7 +17237,6 @@
   ],
   "biocroxytest": [],
   "biocthis": [],
-  "biodbChebi": [],
   "biodbHmdb": [],
   "biodbNcbi": [],
   "biodbNci": [],
@@ -22041,7 +22028,6 @@
     "ggtree",
     "InteractiveComplexHeatmap",
     "ComplexHeatmap",
-    "shiny.gosling",
     "Biobase",
     "IRanges",
     "S4Vectors",
@@ -22236,7 +22222,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "geneplast": [],
   "geneplotter": [
     "Biobase",
     "BiocGenerics",
@@ -27726,7 +27711,6 @@
   "phenomis": [
     "SummarizedExperiment",
     "Biobase",
-    "biodbChebi",
     "MultiAssayExperiment",
     "MultiDataSet",
     "ropls",
@@ -28431,7 +28415,6 @@
     "S4Arrays",
     "SparseArray"
   ],
-  "qckitfastq": [],
   "qcmetrics": [
     "Biobase",
     "S4Vectors",
@@ -31058,7 +31041,6 @@
     "S4Vectors",
     "BiocGenerics"
   ],
-  "shiny.gosling": [],
   "shinyMethyl": [
     "Biobase",
     "BiocGenerics",
@@ -31308,7 +31290,6 @@
     "celda",
     "DropletUtils",
     "scds",
-    "tximport",
     "eds",
     "GSEABase",
     "zinbwave",
@@ -33177,7 +33158,6 @@
   ],
   "tximeta": [
     "SummarizedExperiment",
-    "tximport",
     "S4Vectors",
     "IRanges",
     "GenomicRanges",
@@ -33206,7 +33186,6 @@
     "Rhtslib",
     "GenomicAlignments"
   ],
-  "tximport": [],
   "uSORT": [
     "Biobase",
     "BiocGenerics",

@@ -33,6 +33,7 @@ Clomial
 ClusterSignificance
 ComPrAn
 DCATS
+DEqMS
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
@@ -81,6 +82,7 @@ STRINGdb
 SamSPECTRAL
 SwathXtend
 TSAR
+TargetSearch
 VennDetail
 a4Reporting
 acde
@@ -90,6 +92,7 @@ alabaster.schemas
 antiProfiles
 basilisk.utils
 biodb
+biodbChebi
 bugsigdbr
 clustComp
 coGPS
@@ -107,6 +110,7 @@ frenchFISH
 garfield
 gdsfmt
 gemini
+geneplast
 genoCN
 genomes
 geva
@@ -125,6 +129,7 @@ ompBAM
 onlineFDR
 powerTCR
 proteinProfiles
+qckitfastq
 quantsmooth
 qvalue
 rBiopaxParser
@@ -132,6 +137,7 @@ rpx
 seqLogo
 seqTools
 seqcombo
+shiny.gosling
 sights
 similaRpeak
 sincell
@@ -156,6 +162,7 @@ topconfects
 treeio
 tripr
 ttgsea
+tximport
 vbmp
 veloviz
 weaver
