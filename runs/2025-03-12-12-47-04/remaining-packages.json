@@ -1100,7 +1100,6 @@
     "S4Arrays",
     "Rhdf5lib",
     "AnnotationDbi",
-    "basilisk",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "KEGGREST",
@@ -1337,7 +1336,6 @@
   ],
   "BiocSklearn": [
     "SummarizedExperiment",
-    "basilisk",
     "GenomicRanges",
     "S4Vectors",
     "IRanges",
@@ -4481,7 +4479,6 @@
     "EBImage"
   ],
   "FLAMES": [
-    "basilisk",
     "bambu",
     "Biostrings",
     "ComplexHeatmap",
@@ -6022,7 +6019,6 @@
     "GenomicRanges",
     "IRanges",
     "InteractionSet",
-    "basilisk",
     "GenomeInfoDb",
     "XVector",
     "rhdf5",
@@ -6104,7 +6100,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "HilbertVisGUI": [],
   "HoloFoodR": [
     "TreeSummarizedExperiment",
     "MultiAssayExperiment",
@@ -6197,7 +6192,6 @@
   ],
   "IMPCdata": [],
   "INDEED": [],
-  "INPower": [],
   "INSPEcT": [
     "GenomicFeatures",
     "GenomicRanges",
@@ -6413,7 +6407,6 @@
     "UCSC.utils",
     "Rhtslib"
   ],
-  "Informeasure": [],
   "IntEREst": [
     "GenomicRanges",
     "Rsamtools",
@@ -6490,7 +6483,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "IsoCorrectoRGUI": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
     "satuRn",
@@ -6736,7 +6728,6 @@
   "MACSQuantifyR": [],
   "MACSr": [
     "S4Vectors",
-    "basilisk",
     "ExperimentHub",
     "AnnotationHub",
     "AnnotationDbi",
@@ -6947,7 +6938,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "MBttest": [],
   "MCbiclust": [
     "AnnotationDbi",
     "IRanges",
@@ -7312,7 +7302,6 @@
     "rhdf5",
     "HDF5Array",
     "DelayedArray",
-    "basilisk",
     "S4Vectors",
     "IRanges",
     "S4Arrays",
@@ -8576,7 +8565,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "NanoTube": [],
   "Nebulosa": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -9414,7 +9402,6 @@
     "UCSC.utils"
   ],
   "Pirat": [
-    "basilisk",
     "SummarizedExperiment",
     "S4Vectors",
     "GenomicRanges",
@@ -9968,7 +9955,6 @@
     "Rhtslib",
     "GenomicAlignments",
     "BiocIO",
-    "basilisk",
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
@@ -10483,20 +10469,17 @@
     "UCSC.utils"
   ],
   "Rcwl": [
-    "S4Vectors",
-    "basilisk"
+    "S4Vectors"
   ],
   "RcwlPipelines": [
     "Rcwl",
-    "S4Vectors",
-    "basilisk"
+    "S4Vectors"
   ],
   "Rdisop": [],
   "ReUseData": [
     "Rcwl",
     "RcwlPipelines",
-    "S4Vectors",
-    "basilisk"
+    "S4Vectors"
   ],
   "ReactomeGSA": [],
   "ReactomePA": [
@@ -11668,7 +11651,6 @@
     "SparseArray"
   ],
   "SimBu": [
-    "basilisk",
     "phyloseq",
     "SummarizedExperiment",
     "biomformat",
@@ -13371,7 +13353,6 @@
   ],
   "a4Classif": [],
   "aCGH": [],
-  "abseqR": [],
   "adSplit": [
     "AnnotationDbi",
     "KEGGREST",
@@ -14099,7 +14080,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "bacon": [],
   "ballgown": [
     "GenomicRanges",
     "IRanges",
@@ -14219,7 +14199,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "basilisk": [],
   "batchelor": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -14759,7 +14738,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "brendaDb": [],
   "broadSeq": [
     "SummarizedExperiment",
     "DELocal",
@@ -15048,9 +15026,7 @@
     "BiocIO",
     "Rhtslib"
   ],
-  "cbpManager": [
-    "basilisk"
-  ],
+  "cbpManager": [],
   "ccImpute": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -15188,7 +15164,6 @@
   ],
   "cfTools": [
     "GenomicRanges",
-    "basilisk",
     "ExperimentHub",
     "S4Vectors",
     "IRanges",
@@ -16133,7 +16108,6 @@
     "XVector",
     "BiocIO",
     "Rsamtools",
-    "basilisk",
     "UCSC.utils",
     "GenomicAlignments",
     "biomaRt",
@@ -16146,7 +16120,6 @@
     "SparseArray"
   ],
   "crisprScore": [
-    "basilisk",
     "Biostrings",
     "IRanges",
     "XVector",
@@ -16179,7 +16152,6 @@
     "GenomicFeatures",
     "txdbmaker",
     "VariantAnnotation",
-    "basilisk",
     "Gviz",
     "UCSC.utils",
     "KEGGREST",
@@ -16214,7 +16186,6 @@
     "rtracklayer",
     "txdbmaker",
     "VariantAnnotation",
-    "basilisk",
     "XVector",
     "ExperimentHub",
     "AnnotationHub",
@@ -16263,7 +16234,6 @@
     "KEGGREST",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "basilisk",
     "ProtGenerics",
     "Rhtslib",
     "ExperimentHub",
@@ -16600,7 +16570,6 @@
     "Rhdf5lib",
     "rhdf5filters"
   ],
-  "dcGSA": [],
   "dce": [
     "graph",
     "edgeR",
@@ -16816,9 +16785,7 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "densvis": [
-    "basilisk"
-  ],
+  "densvis": [],
   "derfinder": [
     "AnnotationDbi",
     "bumphunter",
@@ -22666,7 +22633,6 @@
     "Rgraphviz",
     "AnnotationHub",
     "SummarizedExperiment",
-    "basilisk",
     "AnnotationDbi",
     "GenomicRanges",
     "IRanges",
@@ -22767,7 +22733,6 @@
   "orthos": [
     "SummarizedExperiment",
     "AnnotationHub",
-    "basilisk",
     "DelayedArray",
     "ExperimentHub",
     "HDF5Array",
@@ -23422,7 +23387,6 @@
     "Rgraphviz",
     "AnnotationHub",
     "SummarizedExperiment",
-    "basilisk",
     "AnnotationDbi",
     "GenomicRanges",
     "IRanges",
@@ -23659,7 +23623,6 @@
   "progeny": [
     "decoupleR"
   ],
-  "projectR": [],
   "protGear": [
     "vsn",
     "genefilter",
@@ -24239,7 +24202,6 @@
     "HDF5Array",
     "rhdf5",
     "S4Vectors",
-    "basilisk",
     "DelayedMatrixStats",
     "DelayedArray",
     "IRanges",
@@ -24625,7 +24587,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "rnaseqcomp": [],
   "roar": [
     "S4Vectors",
     "IRanges",
@@ -24696,7 +24657,6 @@
   "rsbml": [
     "graph"
   ],
-  "rsemmed": [],
   "rtracklayer": [
     "GenomicRanges",
     "S4Vectors",
@@ -25209,7 +25169,6 @@
   "scPipe": [
     "SingleCellExperiment",
     "AnnotationDbi",
-    "basilisk",
     "biomaRt",
     "Biostrings",
     "DropletUtils",
@@ -25443,7 +25402,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "scatterHatch": [],
   "sccomp": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -25505,7 +25463,6 @@
     "DECIPHER",
     "sangerseqR",
     "flowCore",
-    "basilisk",
     "S4Vectors",
     "IRanges",
     "XVector",
@@ -25753,7 +25710,6 @@
     "UCSC.utils"
   ],
   "scviR": [
-    "basilisk",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "S4Vectors",
@@ -26245,7 +26201,6 @@
     "metapod",
     "alabaster.sce",
     "genefilter",
-    "basilisk",
     "alabaster.ranges",
     "KEGGREST",
     "XVector",
@@ -26298,7 +26253,6 @@
     "SparseArray"
   ],
   "sketchR": [
-    "basilisk",
     "DelayedArray",
     "S4Vectors",
     "IRanges",
@@ -26414,9 +26368,7 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "snifter": [
-    "basilisk"
-  ],
+  "snifter": [],
   "soGGi": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -26475,7 +26427,6 @@
     "UCSC.utils"
   ],
   "spatialDE": [
-    "basilisk",
     "SpatialExperiment",
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -27203,7 +27154,6 @@
     "graph",
     "Rgraphviz",
     "AnnotationHub",
-    "basilisk",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -27844,7 +27794,6 @@
     "SummarizedExperiment",
     "S4Vectors",
     "DelayedArray",
-    "basilisk",
     "zellkonverter",
     "scuttle",
     "SingleCellExperiment",
@@ -28234,7 +28183,6 @@
     "XVector"
   ],
   "zellkonverter": [
-    "basilisk",
     "DelayedArray",
     "S4Vectors",
     "SingleCellExperiment",
