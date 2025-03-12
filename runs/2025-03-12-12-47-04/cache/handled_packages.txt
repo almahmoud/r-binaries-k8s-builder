@@ -171,9 +171,11 @@ GeneSelectMMD
 GeneticsPed
 GenomeInfoDb
 GenomicRanges
+GeomxTools
 GladiaTOX
 GraphAT
 GraphAlignment
+HDF5Array
 HDTD
 HELP
 HEM
@@ -186,6 +188,8 @@ HPiP
 Harman
 Heatplus
 Herper
+HiCBricks
+HilbertCurve
 HilbertVis
 HilbertVisGUI
 HuBMAPR
@@ -200,6 +204,7 @@ INTACT
 IRanges
 ISAnalytics
 ISoLDE
+IWTomics
 Icens
 Informeasure
 InteractiveComplexHeatmap
@@ -227,6 +232,7 @@ MEIGOR
 MMUPHin
 MOGAMUN
 MPFE
+MSA2dist
 MSstats
 MSstatsBig
 MSstatsConvert
@@ -283,6 +289,7 @@ OpenStats
 OrderedList
 PANR
 PCAN
+PIPETS
 PLPE
 PROPER
 PROcess
@@ -296,6 +303,7 @@ PhenoGeneRanker
 PoDCall
 ProtGenerics
 QUBIC
+Qtlizer
 QuaternaryProd
 R4RNA
 RAREsim
@@ -521,6 +529,7 @@ edgeR
 eds
 eiR
 epiNEM
+epialleleR
 epistasisGA
 epivizrServer
 erccdashboard
@@ -592,6 +601,7 @@ gtrellis
 gypsum
 hapFabia
 hca
+heatmaps
 hierGWAS
 hierinf
 hmdbQuery
@@ -611,6 +621,7 @@ iPath
 iSeq
 ibh
 idr2d
+igvShiny
 illuminaio
 immunoClust
 immunotation
@@ -647,6 +658,7 @@ matter
 mbQTL
 mdp
 mdqc
+megadepth
 messina
 metaCCA
 metaSeq
@@ -695,8 +707,10 @@ omada
 ompBAM
 oncoscanR
 onlineFDR
+openPrimeR
 oppti
 optimalFlow
+packFinder
 paircompviz
 pandaR
 panp
@@ -741,6 +755,7 @@ rRDP
 rSWeeP
 rWikiPathways
 rain
+ramr
 randPack
 randRotation
 rawDiag
@@ -842,6 +857,7 @@ twoddpcr
 tximport
 uSORT
 unifiedWMWqPCR
+universalmotif
 updateObject
 variancePartition
 vbmp

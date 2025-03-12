@@ -936,3 +936,11 @@ transite
 triplex
 clusterSeq
 GeomxTools
+GeoDiff
+MOFA2
+SpatialDecon
+SpatialOmicsOverlay
+alabaster.matrix
+chihaya
+memes
+motifTestR
