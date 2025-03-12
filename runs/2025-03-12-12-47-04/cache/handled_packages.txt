@@ -53,6 +53,7 @@ CNAnorm
 COMPASS
 CONSTANd
 COSNet
+CRImage
 CausalR
 ChemmineOB
 ChemmineR
@@ -93,6 +94,7 @@ GEM
 GENIE3
 GEOfastq
 GEOmetadb
+GEWIST
 GIGSEA
 GLAD
 GPA
@@ -130,6 +132,7 @@ Informeasure
 IsoCorrectoR
 IsoCorrectoRGUI
 KBoost
+KCsmart
 KinSwingR
 LBE
 LPE
@@ -139,6 +142,7 @@ MBAmethyl
 MBCB
 MBttest
 MSstats
+MSstatsBig
 MSstatsConvert
 MVCClass
 MantelCorr
@@ -190,6 +194,7 @@ RProtoBufLib
 RRHO
 RSeqAn
 RTCGA
+RUVcorr
 RUVnormalize
 RVS
 RankProd
@@ -315,6 +320,7 @@ dir.expiry
 discordant
 dks
 drawProteins
+dupRadar
 dyebias
 easyreporting
 ecolitk
@@ -433,6 +439,7 @@ oppti
 pandaR
 parody
 pathifier
+pathwayPCA
 pcaMethods
 pengls
 pepXMLTab

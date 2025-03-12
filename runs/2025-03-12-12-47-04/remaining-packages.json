@@ -1920,7 +1920,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "CRImage": [],
   "CSAR": [
     "S4Vectors",
     "IRanges",
@@ -4546,7 +4545,6 @@
     "XVector"
   ],
   "GEOsubmission": [],
-  "GEWIST": [],
   "GGPA": [],
   "GLAD": [],
   "GMRP": [
@@ -6142,7 +6140,6 @@
     "ProtGenerics",
     "annotate"
   ],
-  "KCsmart": [],
   "KEGGREST": [
     "Biostrings",
     "S4Vectors",
@@ -7057,7 +7054,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "MSstatsBig": [],
   "MSstatsLOBD": [],
   "MSstatsLiP": [
     "Biostrings",
@@ -9712,7 +9708,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RUVcorr": [],
   "RadioGx": [
     "CoreGx",
     "SummarizedExperiment",
@@ -16089,7 +16084,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "dupRadar": [],
   "easier": [
     "progeny",
     "quantiseqr",
@@ -21487,7 +21481,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "pathwayPCA": [],
   "pcaExplorer": [
     "DESeq2",
     "SummarizedExperiment",
