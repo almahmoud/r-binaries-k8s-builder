@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 877 packages built successfully
+- 879 packages built successfully
 - 15 packages failed to build
-- 1341 packages not yet processed
+- 1339 packages not yet processed
 
 ## Failed Builds (15)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -27,7 +27,7 @@
 | [immunoClust](https://bioconductor.org/packages/3.20/bioc/html/immunoClust.html)   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/immunoClust/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunoClust)  | Build failed with unknown error     |
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 
-## Successfully Built (877)
+## Successfully Built (879)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -907,8 +907,10 @@
 | [affyPLM](https://bioconductor.org/packages/3.20/bioc/html/affyPLM.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/affyPLM/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/affyPLM)                   |
 | [flowBin](https://bioconductor.org/packages/3.20/bioc/html/flowBin.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowBin/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowBin)                   |
 | [flowCut](https://bioconductor.org/packages/3.20/bioc/html/flowCut.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowCut/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowCut)                   |
+| [cyanoFilter](https://bioconductor.org/packages/3.20/bioc/html/cyanoFilter.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/cyanoFilter/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cyanoFilter)               |
+| [maskBAD](https://bioconductor.org/packages/3.20/bioc/html/maskBAD.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/maskBAD/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/maskBAD)                   |
 
-## Not Yet Processed (1341)
+## Not Yet Processed (1339)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1691,7 +1693,6 @@
 | [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                                   | Unprocessed |
 | [customCMPdb](https://bioconductor.org/packages/3.20/bioc/html/customCMPdb.html)                                 | Unprocessed |
 | [customProDB](https://bioconductor.org/packages/3.20/bioc/html/customProDB.html)                                 | Unprocessed |
-| [cyanoFilter](https://bioconductor.org/packages/3.20/bioc/html/cyanoFilter.html)                                 | Unprocessed |
 | [cydar](https://bioconductor.org/packages/3.20/bioc/html/cydar.html)                                             | Unprocessed |
 | [cypress](https://bioconductor.org/packages/3.20/bioc/html/cypress.html)                                         | Unprocessed |
 | [cytoKernel](https://bioconductor.org/packages/3.20/bioc/html/cytoKernel.html)                                   | Unprocessed |
@@ -1880,7 +1881,6 @@
 | [mariner](https://bioconductor.org/packages/3.20/bioc/html/mariner.html)                                         | Unprocessed |
 | [marr](https://bioconductor.org/packages/3.20/bioc/html/marr.html)                                               | Unprocessed |
 | [maser](https://bioconductor.org/packages/3.20/bioc/html/maser.html)                                             | Unprocessed |
-| [maskBAD](https://bioconductor.org/packages/3.20/bioc/html/maskBAD.html)                                         | Unprocessed |
 | [mastR](https://bioconductor.org/packages/3.20/bioc/html/mastR.html)                                             | Unprocessed |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)                                       | Unprocessed |
 | [memes](https://bioconductor.org/packages/3.20/bioc/html/memes.html)                                             | Unprocessed |

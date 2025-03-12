@@ -5129,7 +5129,6 @@
     "SummarizedExperiment",
     "BSgenome"
   ],
-  "cyanoFilter": [],
   "cydar": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -6404,7 +6403,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "maskBAD": [],
   "mastR": [
     "GSEABase",
     "SingleCellExperiment",

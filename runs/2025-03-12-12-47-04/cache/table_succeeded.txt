@@ -875,3 +875,5 @@
 ['[affyPLM](https://bioconductor.org/packages/3.20/bioc/html/affyPLM.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/affyPLM/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/affyPLM)']
 ['[flowBin](https://bioconductor.org/packages/3.20/bioc/html/flowBin.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/flowBin/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowBin)']
 ['[flowCut](https://bioconductor.org/packages/3.20/bioc/html/flowCut.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/flowCut/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowCut)']
+['[cyanoFilter](https://bioconductor.org/packages/3.20/bioc/html/cyanoFilter.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/cyanoFilter/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cyanoFilter)']
+['[maskBAD](https://bioconductor.org/packages/3.20/bioc/html/maskBAD.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/maskBAD/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/maskBAD)']

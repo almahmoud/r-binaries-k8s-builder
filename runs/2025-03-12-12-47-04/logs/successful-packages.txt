@@ -875,3 +875,5 @@ affyPLM
 flowBin
 flowCut
 SeqArray
+cyanoFilter
+maskBAD
