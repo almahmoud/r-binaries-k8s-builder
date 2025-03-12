@@ -9680,7 +9680,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "TRONCO": [],
   "TSCAN": [
     "SingleCellExperiment",
     "TrajectoryUtils",

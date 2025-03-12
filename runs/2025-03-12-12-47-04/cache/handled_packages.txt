@@ -317,6 +317,7 @@ SwathXtend
 TMixClust
 TPP
 TPP2D
+TRONCO
 TSAR
 TargetScore
 TargetSearch

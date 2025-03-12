@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 675 packages built successfully
+- 676 packages built successfully
 - 12 packages failed to build
-- 1546 packages not yet processed
+- 1545 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
 | [Rtreemix](https://bioconductor.org/packages/3.20/bioc/html/Rtreemix.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Rtreemix/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rtreemix)     | Build failed with unknown error     |
 
-## Successfully Built (675)
+## Successfully Built (676)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -702,8 +702,9 @@
 | [MOGAMUN](https://bioconductor.org/packages/3.20/bioc/html/MOGAMUN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/MOGAMUN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MOGAMUN)                 |
 | [hyperdraw](https://bioconductor.org/packages/3.20/bioc/html/hyperdraw.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/hyperdraw/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hyperdraw)               |
 | [mitch](https://bioconductor.org/packages/3.20/bioc/html/mitch.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/mitch/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mitch)                   |
+| [TRONCO](https://bioconductor.org/packages/3.20/bioc/html/TRONCO.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/TRONCO/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TRONCO)                  |
 
-## Not Yet Processed (1546)
+## Not Yet Processed (1545)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1405,7 +1406,6 @@
 | [TOP](https://bioconductor.org/packages/3.20/bioc/html/TOP.html)                                                 | Unprocessed |
 | [TREG](https://bioconductor.org/packages/3.20/bioc/html/TREG.html)                                               | Unprocessed |
 | [TRESS](https://bioconductor.org/packages/3.20/bioc/html/TRESS.html)                                             | Unprocessed |
-| [TRONCO](https://bioconductor.org/packages/3.20/bioc/html/TRONCO.html)                                           | Unprocessed |
 | [TSCAN](https://bioconductor.org/packages/3.20/bioc/html/TSCAN.html)                                             | Unprocessed |
 | [TTMap](https://bioconductor.org/packages/3.20/bioc/html/TTMap.html)                                             | Unprocessed |
 | [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                               | Unprocessed |

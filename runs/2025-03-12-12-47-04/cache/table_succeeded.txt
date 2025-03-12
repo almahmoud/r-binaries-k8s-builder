@@ -673,3 +673,4 @@
 ['[MOGAMUN](https://bioconductor.org/packages/3.20/bioc/html/MOGAMUN.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MOGAMUN/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MOGAMUN)']
 ['[hyperdraw](https://bioconductor.org/packages/3.20/bioc/html/hyperdraw.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/hyperdraw/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hyperdraw)']
 ['[mitch](https://bioconductor.org/packages/3.20/bioc/html/mitch.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/mitch/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mitch)']
+['[TRONCO](https://bioconductor.org/packages/3.20/bioc/html/TRONCO.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/TRONCO/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TRONCO)']
