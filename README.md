@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 640 packages built successfully
+- 641 packages built successfully
 - 12 packages failed to build
-- 1581 packages not yet processed
+- 1580 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
 | [Rtreemix](https://bioconductor.org/packages/3.20/bioc/html/Rtreemix.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Rtreemix/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rtreemix)     | Build failed with unknown error     |
 
-## Successfully Built (640)
+## Successfully Built (641)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -667,8 +667,9 @@
 | [Cardinal](https://bioconductor.org/packages/3.20/bioc/html/Cardinal.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/Cardinal/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Cardinal)                |
 | [ldblock](https://bioconductor.org/packages/3.20/bioc/html/ldblock.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/ldblock/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ldblock)                 |
 | [ndexr](https://bioconductor.org/packages/3.20/bioc/html/ndexr.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/ndexr/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ndexr)                   |
+| [RCyjs](https://bioconductor.org/packages/3.20/bioc/html/RCyjs.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/RCyjs/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RCyjs)                   |
 
-## Not Yet Processed (1581)
+## Not Yet Processed (1580)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1229,7 +1230,6 @@
 | [RCM](https://bioconductor.org/packages/3.20/bioc/html/RCM.html)                                                 | Unprocessed |
 | [RCSL](https://bioconductor.org/packages/3.20/bioc/html/RCSL.html)                                               | Unprocessed |
 | [RCy3](https://bioconductor.org/packages/3.20/bioc/html/RCy3.html)                                               | Unprocessed |
-| [RCyjs](https://bioconductor.org/packages/3.20/bioc/html/RCyjs.html)                                             | Unprocessed |
 | [REDseq](https://bioconductor.org/packages/3.20/bioc/html/REDseq.html)                                           | Unprocessed |
 | [REMP](https://bioconductor.org/packages/3.20/bioc/html/REMP.html)                                               | Unprocessed |
 | [RESOLVE](https://bioconductor.org/packages/3.20/bioc/html/RESOLVE.html)                                         | Unprocessed |
