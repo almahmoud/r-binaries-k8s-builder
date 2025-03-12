@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1040 packages built successfully
+- 1045 packages built successfully
 - 16 packages failed to build
-- 1177 packages not yet processed
+- 1172 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (1040)
+## Successfully Built (1045)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1071,8 +1071,13 @@
 | [a4Base](https://bioconductor.org/packages/3.20/bioc/html/a4Base.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/a4Base/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/a4Base)                    |
 | [arrayQualityMetrics](https://bioconductor.org/packages/3.20/bioc/html/arrayQualityMetrics.html)             | Built    | [Log](runs/2025-03-12-12-47-04/logs/arrayQualityMetrics/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/arrayQualityMetrics)       |
 | [protGear](https://bioconductor.org/packages/3.20/bioc/html/protGear.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/protGear/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/protGear)                  |
+| [SBGNview](https://bioconductor.org/packages/3.20/bioc/html/SBGNview.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/SBGNview/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SBGNview)                  |
+| [TMSig](https://bioconductor.org/packages/3.20/bioc/html/TMSig.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/TMSig/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TMSig)                     |
+| [alabaster.files](https://bioconductor.org/packages/3.20/bioc/html/alabaster.files.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/alabaster.files/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.files)           |
+| [annmap](https://bioconductor.org/packages/3.20/bioc/html/annmap.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/annmap/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/annmap)                    |
+| [lefser](https://bioconductor.org/packages/3.20/bioc/html/lefser.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/lefser/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lefser)                    |
 
-## Not Yet Processed (1177)
+## Not Yet Processed (1172)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1538,7 +1543,6 @@
 | [Rqc](https://bioconductor.org/packages/3.20/bioc/html/Rqc.html)                                                 | Unprocessed |
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)                                       | Unprocessed |
 | [SARC](https://bioconductor.org/packages/3.20/bioc/html/SARC.html)                                               | Unprocessed |
-| [SBGNview](https://bioconductor.org/packages/3.20/bioc/html/SBGNview.html)                                       | Unprocessed |
 | [SC3](https://bioconductor.org/packages/3.20/bioc/html/SC3.html)                                                 | Unprocessed |
 | [SCAN.UPC](https://bioconductor.org/packages/3.20/bioc/html/SCAN.UPC.html)                                       | Unprocessed |
 | [SCANVIS](https://bioconductor.org/packages/3.20/bioc/html/SCANVIS.html)                                         | Unprocessed |
@@ -1610,7 +1614,6 @@
 | [TFEA.ChIP](https://bioconductor.org/packages/3.20/bioc/html/TFEA.ChIP.html)                                     | Unprocessed |
 | [TFHAZ](https://bioconductor.org/packages/3.20/bioc/html/TFHAZ.html)                                             | Unprocessed |
 | [TFutils](https://bioconductor.org/packages/3.20/bioc/html/TFutils.html)                                         | Unprocessed |
-| [TMSig](https://bioconductor.org/packages/3.20/bioc/html/TMSig.html)                                             | Unprocessed |
 | [TOAST](https://bioconductor.org/packages/3.20/bioc/html/TOAST.html)                                             | Unprocessed |
 | [TOP](https://bioconductor.org/packages/3.20/bioc/html/TOP.html)                                                 | Unprocessed |
 | [TREG](https://bioconductor.org/packages/3.20/bioc/html/TREG.html)                                               | Unprocessed |
@@ -1657,7 +1660,6 @@
 | [aggregateBioVar](https://bioconductor.org/packages/3.20/bioc/html/aggregateBioVar.html)                         | Unprocessed |
 | [airpart](https://bioconductor.org/packages/3.20/bioc/html/airpart.html)                                         | Unprocessed |
 | [alabaster](https://bioconductor.org/packages/3.20/bioc/html/alabaster.html)                                     | Unprocessed |
-| [alabaster.files](https://bioconductor.org/packages/3.20/bioc/html/alabaster.files.html)                         | Unprocessed |
 | [alabaster.mae](https://bioconductor.org/packages/3.20/bioc/html/alabaster.mae.html)                             | Unprocessed |
 | [alabaster.matrix](https://bioconductor.org/packages/3.20/bioc/html/alabaster.matrix.html)                       | Unprocessed |
 | [alabaster.sce](https://bioconductor.org/packages/3.20/bioc/html/alabaster.sce.html)                             | Unprocessed |
@@ -1666,7 +1668,6 @@
 | [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                             | Unprocessed |
 | [amplican](https://bioconductor.org/packages/3.20/bioc/html/amplican.html)                                       | Unprocessed |
 | [animalcules](https://bioconductor.org/packages/3.20/bioc/html/animalcules.html)                                 | Unprocessed |
-| [annmap](https://bioconductor.org/packages/3.20/bioc/html/annmap.html)                                           | Unprocessed |
 | [annotatr](https://bioconductor.org/packages/3.20/bioc/html/annotatr.html)                                       | Unprocessed |
 | [anota2seq](https://bioconductor.org/packages/3.20/bioc/html/anota2seq.html)                                     | Unprocessed |
 | [apeglm](https://bioconductor.org/packages/3.20/bioc/html/apeglm.html)                                           | Unprocessed |
@@ -1910,7 +1911,6 @@
 | [kissDE](https://bioconductor.org/packages/3.20/bioc/html/kissDE.html)                                           | Unprocessed |
 | [kmcut](https://bioconductor.org/packages/3.20/bioc/html/kmcut.html)                                             | Unprocessed |
 | [knowYourCG](https://bioconductor.org/packages/3.20/bioc/html/knowYourCG.html)                                   | Unprocessed |
-| [lefser](https://bioconductor.org/packages/3.20/bioc/html/lefser.html)                                           | Unprocessed |
 | [lemur](https://bioconductor.org/packages/3.20/bioc/html/lemur.html)                                             | Unprocessed |
 | [limpca](https://bioconductor.org/packages/3.20/bioc/html/limpca.html)                                           | Unprocessed |
 | [lineagespot](https://bioconductor.org/packages/3.20/bioc/html/lineagespot.html)                                 | Unprocessed |

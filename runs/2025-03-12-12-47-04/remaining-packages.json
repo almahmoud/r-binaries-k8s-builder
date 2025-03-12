@@ -2340,7 +2340,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SBGNview": [],
   "SC3": [
     "SingleCellExperiment"
   ],
@@ -2636,7 +2635,6 @@
     "txdbmaker"
   ],
   "TFutils": [],
-  "TMSig": [],
   "TOAST": [],
   "TOP": [
     "ClassifyR",
@@ -2871,7 +2869,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "alabaster.files": [],
   "alabaster.mae": [
     "MultiAssayExperiment",
     "alabaster.se",
@@ -2908,7 +2905,6 @@
     "DESeq2",
     "MultiAssayExperiment"
   ],
-  "annmap": [],
   "annotatr": [
     "GenomicFeatures",
     "regioneR",
@@ -4242,7 +4238,6 @@
   ],
   "kmcut": [],
   "knowYourCG": [],
-  "lefser": [],
   "lemur": [
     "SingleCellExperiment",
     "glmGamPoi",

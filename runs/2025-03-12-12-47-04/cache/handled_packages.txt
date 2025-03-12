@@ -428,6 +428,7 @@ Rvisdiff
 S4Arrays
 S4Vectors
 SANTA
+SBGNview
 SBMLR
 SCBN
 SCFA
@@ -473,6 +474,7 @@ SynExtend
 TDbasedUFE
 TDbasedUFEadv
 TIN
+TMSig
 TMixClust
 TPP
 TPP2D
@@ -512,12 +514,14 @@ affyio
 agilp
 alabaster.base
 alabaster.bumpy
+alabaster.files
 alabaster.ranges
 alabaster.schemas
 alabaster.string
 alevinQC
 altcdfenvs
 annaffy
+annmap
 annotate
 annotationTools
 anota
@@ -768,6 +772,7 @@ kebabs
 koinar
 lapmix
 ldblock
+lefser
 les
 levi
 lfa
