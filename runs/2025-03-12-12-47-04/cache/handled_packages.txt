@@ -102,6 +102,7 @@ GSAR
 GSEAmining
 GSgalgoR
 GWAS.BAYES
+GWASTools
 GeneExpressionSignature
 GeneGA
 GeneOverlap
@@ -109,6 +110,7 @@ GeneSelectMMD
 GeneticsPed
 GladiaTOX
 HELP
+HEM
 HGC
 HPAanalyze
 HPiP
@@ -127,12 +129,15 @@ Informeasure
 IsoCorrectoR
 IsoCorrectoRGUI
 KBoost
+KinSwingR
 LBE
 LPE
 LedPred
 Linnorm
+MBAmethyl
 MBCB
 MBttest
+MSstats
 MSstatsConvert
 MVCClass
 MantelCorr
@@ -172,6 +177,7 @@ PoDCall
 QuaternaryProd
 RAREsim
 RBM
+RCASPAR
 REBET
 RGSEA
 RIVER
@@ -217,6 +223,7 @@ SamSPECTRAL
 SpaceMarkers
 SpeCond
 SwathXtend
+TMixClust
 TPP
 TSAR
 TargetScore
@@ -285,6 +292,7 @@ cqn
 ctc
 ctsGE
 cycle
+cytolib
 daMA
 dcGSA
 dcanr
@@ -324,6 +332,7 @@ fmrs
 frenchFISH
 gaga
 garfield
+gcatest
 gdsfmt
 geNetClassifier
 gemini
@@ -444,6 +453,7 @@ randRotation
 rbsurv
 rcellminer
 rgoslin
+rhdf5
 rhdf5filters
 rmelting
 rnaseqcomp
@@ -466,6 +476,7 @@ seqLogo
 seqTools
 seqcombo
 shiny.gosling
+siggenes
 sights
 sigsquared
 similaRpeak

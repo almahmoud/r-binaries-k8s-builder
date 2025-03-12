@@ -507,3 +507,14 @@ MBCB
 NormqPCR
 Rtpca
 SPEM
+cytolib
+gcatest
+GWASTools
+HEM
+KinSwingR
+MBAmethyl
+MSstats
+RCASPAR
+rhdf5
+siggenes
+TMixClust
