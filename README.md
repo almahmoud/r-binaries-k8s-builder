@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 857 packages built successfully
+- 859 packages built successfully
 - 14 packages failed to build
-- 1362 packages not yet processed
+- 1360 packages not yet processed
 
 ## Failed Builds (14)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -26,7 +26,7 @@
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 | [immunoClust](https://bioconductor.org/packages/3.20/bioc/html/immunoClust.html)   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/immunoClust/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunoClust)  | Build failed with unknown error     |
 
-## Successfully Built (857)
+## Successfully Built (859)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -886,8 +886,10 @@
 | [packFinder](https://bioconductor.org/packages/3.20/bioc/html/packFinder.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/packFinder/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/packFinder)                |
 | [ramr](https://bioconductor.org/packages/3.20/bioc/html/ramr.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/ramr/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ramr)                      |
 | [universalmotif](https://bioconductor.org/packages/3.20/bioc/html/universalmotif.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/universalmotif/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/universalmotif)            |
+| [TDbasedUFE](https://bioconductor.org/packages/3.20/bioc/html/TDbasedUFE.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/TDbasedUFE/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TDbasedUFE)                |
+| [cogeqc](https://bioconductor.org/packages/3.20/bioc/html/cogeqc.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/cogeqc/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cogeqc)                    |
 
-## Not Yet Processed (1362)
+## Not Yet Processed (1360)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1489,7 +1491,6 @@
 | [TCGAbiolinks](https://bioconductor.org/packages/3.20/bioc/html/TCGAbiolinks.html)                               | Unprocessed |
 | [TCGAutils](https://bioconductor.org/packages/3.20/bioc/html/TCGAutils.html)                                     | Unprocessed |
 | [TCseq](https://bioconductor.org/packages/3.20/bioc/html/TCseq.html)                                             | Unprocessed |
-| [TDbasedUFE](https://bioconductor.org/packages/3.20/bioc/html/TDbasedUFE.html)                                   | Unprocessed |
 | [TDbasedUFEadv](https://bioconductor.org/packages/3.20/bioc/html/TDbasedUFEadv.html)                             | Unprocessed |
 | [TEKRABber](https://bioconductor.org/packages/3.20/bioc/html/TEKRABber.html)                                     | Unprocessed |
 | [TENxIO](https://bioconductor.org/packages/3.20/bioc/html/TENxIO.html)                                           | Unprocessed |
@@ -1653,7 +1654,6 @@
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)                                         | Unprocessed |
 | [coMethDMR](https://bioconductor.org/packages/3.20/bioc/html/coMethDMR.html)                                     | Unprocessed |
 | [codelink](https://bioconductor.org/packages/3.20/bioc/html/codelink.html)                                       | Unprocessed |
-| [cogeqc](https://bioconductor.org/packages/3.20/bioc/html/cogeqc.html)                                           | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                                           | Unprocessed |
 | [combi](https://bioconductor.org/packages/3.20/bioc/html/combi.html)                                             | Unprocessed |
 | [compEpiTools](https://bioconductor.org/packages/3.20/bioc/html/compEpiTools.html)                               | Unprocessed |

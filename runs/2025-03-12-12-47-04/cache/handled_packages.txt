@@ -398,6 +398,7 @@ Structstrings
 Summix
 SwathXtend
 SynExtend
+TDbasedUFE
 TMixClust
 TPP
 TPP2D
@@ -488,6 +489,7 @@ cnvGSA
 coGPS
 coRdon
 cogena
+cogeqc
 cola
 compSPOT
 compcodeR

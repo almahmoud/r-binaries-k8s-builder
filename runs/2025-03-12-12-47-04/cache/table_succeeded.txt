@@ -855,3 +855,5 @@
 ['[packFinder](https://bioconductor.org/packages/3.20/bioc/html/packFinder.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/packFinder/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/packFinder)']
 ['[ramr](https://bioconductor.org/packages/3.20/bioc/html/ramr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ramr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ramr)']
 ['[universalmotif](https://bioconductor.org/packages/3.20/bioc/html/universalmotif.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/universalmotif/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/universalmotif)']
+['[TDbasedUFE](https://bioconductor.org/packages/3.20/bioc/html/TDbasedUFE.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/TDbasedUFE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TDbasedUFE)']
+['[cogeqc](https://bioconductor.org/packages/3.20/bioc/html/cogeqc.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/cogeqc/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cogeqc)']

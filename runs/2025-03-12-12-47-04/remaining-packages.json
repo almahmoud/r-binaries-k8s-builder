@@ -4406,9 +4406,7 @@
     "GenomicAlignments",
     "Rsamtools"
   ],
-  "TDbasedUFE": [],
   "TDbasedUFEadv": [
-    "TDbasedUFE",
     "enrichplot",
     "DOSE",
     "AnnotationDbi",
@@ -5632,7 +5630,6 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "cogeqc": [],
   "comapr": [
     "SummarizedExperiment",
     "Gviz",
