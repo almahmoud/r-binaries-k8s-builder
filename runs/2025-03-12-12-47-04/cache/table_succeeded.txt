@@ -756,3 +756,6 @@
 ['[tidytof](https://bioconductor.org/packages/3.20/bioc/html/tidytof.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/tidytof/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tidytof)']
 ['[tweeDEseq](https://bioconductor.org/packages/3.20/bioc/html/tweeDEseq.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/tweeDEseq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tweeDEseq)']
 ['[SIMD](https://bioconductor.org/packages/3.20/bioc/html/SIMD.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SIMD/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SIMD)']
+['[SPIA](https://bioconductor.org/packages/3.20/bioc/html/SPIA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SPIA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SPIA)']
+['[epiNEM](https://bioconductor.org/packages/3.20/bioc/html/epiNEM.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/epiNEM/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epiNEM)']
+['[scde](https://bioconductor.org/packages/3.20/bioc/html/scde.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scde/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scde)']

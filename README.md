@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 758 packages built successfully
+- 761 packages built successfully
 - 13 packages failed to build
-- 1462 packages not yet processed
+- 1459 packages not yet processed
 
 ## Failed Builds (13)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -25,7 +25,7 @@
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 
-## Successfully Built (758)
+## Successfully Built (761)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -786,8 +786,11 @@
 | [tidytof](https://bioconductor.org/packages/3.20/bioc/html/tidytof.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/tidytof/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tidytof)                   |
 | [tweeDEseq](https://bioconductor.org/packages/3.20/bioc/html/tweeDEseq.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/tweeDEseq/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tweeDEseq)                 |
 | [SIMD](https://bioconductor.org/packages/3.20/bioc/html/SIMD.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/SIMD/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SIMD)                      |
+| [SPIA](https://bioconductor.org/packages/3.20/bioc/html/SPIA.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/SPIA/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SPIA)                      |
+| [epiNEM](https://bioconductor.org/packages/3.20/bioc/html/epiNEM.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/epiNEM/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epiNEM)                    |
+| [scde](https://bioconductor.org/packages/3.20/bioc/html/scde.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/scde/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scde)                      |
 
-## Not Yet Processed (1462)
+## Not Yet Processed (1459)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1371,7 +1374,6 @@
 | [SMITE](https://bioconductor.org/packages/3.20/bioc/html/SMITE.html)                                             | Unprocessed |
 | [SNPhood](https://bioconductor.org/packages/3.20/bioc/html/SNPhood.html)                                         | Unprocessed |
 | [SOMNiBUS](https://bioconductor.org/packages/3.20/bioc/html/SOMNiBUS.html)                                       | Unprocessed |
-| [SPIA](https://bioconductor.org/packages/3.20/bioc/html/SPIA.html)                                               | Unprocessed |
 | [SPIAT](https://bioconductor.org/packages/3.20/bioc/html/SPIAT.html)                                             | Unprocessed |
 | [SPLINTER](https://bioconductor.org/packages/3.20/bioc/html/SPLINTER.html)                                       | Unprocessed |
 | [SPONGE](https://bioconductor.org/packages/3.20/bioc/html/SPONGE.html)                                           | Unprocessed |
@@ -1686,7 +1688,6 @@
 | [enrichViewNet](https://bioconductor.org/packages/3.20/bioc/html/enrichViewNet.html)                             | Unprocessed |
 | [enrichplot](https://bioconductor.org/packages/3.20/bioc/html/enrichplot.html)                                   | Unprocessed |
 | [ensembldb](https://bioconductor.org/packages/3.20/bioc/html/ensembldb.html)                                     | Unprocessed |
-| [epiNEM](https://bioconductor.org/packages/3.20/bioc/html/epiNEM.html)                                           | Unprocessed |
 | [epialleleR](https://bioconductor.org/packages/3.20/bioc/html/epialleleR.html)                                   | Unprocessed |
 | [epidecodeR](https://bioconductor.org/packages/3.20/bioc/html/epidecodeR.html)                                   | Unprocessed |
 | [epigenomix](https://bioconductor.org/packages/3.20/bioc/html/epigenomix.html)                                   | Unprocessed |
@@ -2102,7 +2103,6 @@
 | [scanMiRApp](https://bioconductor.org/packages/3.20/bioc/html/scanMiRApp.html)                                   | Unprocessed |
 | [scater](https://bioconductor.org/packages/3.20/bioc/html/scater.html)                                           | Unprocessed |
 | [sccomp](https://bioconductor.org/packages/3.20/bioc/html/sccomp.html)                                           | Unprocessed |
-| [scde](https://bioconductor.org/packages/3.20/bioc/html/scde.html)                                               | Unprocessed |
 | [scds](https://bioconductor.org/packages/3.20/bioc/html/scds.html)                                               | Unprocessed |
 | [schex](https://bioconductor.org/packages/3.20/bioc/html/schex.html)                                             | Unprocessed |
 | [scider](https://bioconductor.org/packages/3.20/bioc/html/scider.html)                                           | Unprocessed |

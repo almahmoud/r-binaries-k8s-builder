@@ -2352,7 +2352,6 @@
     "AnnotationDbi",
     "GSEABase",
     "KEGGREST",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
@@ -2830,7 +2829,6 @@
     "ExperimentHub",
     "KEGGREST",
     "GSEABase",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
@@ -6276,7 +6274,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "SPIA": [],
   "SPIAT": [
     "SpatialExperiment",
     "dittoSeq",
@@ -8118,7 +8115,6 @@
     "Biostrings"
   ],
   "bnem": [
-    "epiNEM",
     "sva",
     "genefilter",
     "AnnotationDbi",
@@ -9229,7 +9225,6 @@
     "ScaledMatrix"
   ],
   "dce": [
-    "epiNEM",
     "graphite",
     "AnnotationDbi",
     "KEGGREST",
@@ -9561,7 +9556,6 @@
     "GenomicRanges",
     "EnrichmentBrowser",
     "KEGGREST",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
@@ -9684,7 +9678,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "epiNEM": [],
   "epialleleR": [
     "GenomicRanges"
   ],
@@ -12357,9 +12350,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "nempi": [
-    "epiNEM"
-  ],
+  "nempi": [],
   "netSmooth": [
     "scater",
     "clusterExperiment",
@@ -14142,7 +14133,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "scde": [],
   "scds": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -15739,7 +15729,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "KEGGREST",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",

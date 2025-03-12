@@ -341,6 +341,7 @@ SNAGEE
 SNPRelate
 SNPediaR
 SPEM
+SPIA
 SRAdb
 STATegRa
 STRINGdb
@@ -472,6 +473,7 @@ ecolitk
 edgeR
 eds
 eiR
+epiNEM
 epistasisGA
 epivizrServer
 erccdashboard
@@ -701,6 +703,7 @@ scRecover
 scShapes
 scTHI
 scatterHatch
+scde
 seahtrue
 semisup
 seq.hotSPOT
