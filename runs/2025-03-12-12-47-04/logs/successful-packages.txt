@@ -523,3 +523,6 @@ anota
 decoupleR
 metabomxtr
 metapone
+affy
+IHW
+TPP2D

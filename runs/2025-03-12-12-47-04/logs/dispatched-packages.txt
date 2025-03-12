@@ -617,3 +617,16 @@ scMitoMut
 trio
 CRImage
 progeny
+AffyRNADegradation
+Cormotif
+ExiMiR
+GEOsubmission
+TurboNorm
+affyContam
+frmaTools
+makecdfenv
+panp
+plier
+pvac
+qpcrNorm
+vsn

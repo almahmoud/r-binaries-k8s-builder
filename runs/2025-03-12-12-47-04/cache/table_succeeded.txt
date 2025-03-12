@@ -523,3 +523,6 @@
 ['[decoupleR](https://bioconductor.org/packages/3.20/bioc/html/decoupleR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/decoupleR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/decoupleR)']
 ['[metabomxtr](https://bioconductor.org/packages/3.20/bioc/html/metabomxtr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/metabomxtr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/metabomxtr)']
 ['[metapone](https://bioconductor.org/packages/3.20/bioc/html/metapone.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/metapone/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/metapone)']
+['[IHW](https://bioconductor.org/packages/3.20/bioc/html/IHW.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/IHW/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/IHW)']
+['[TPP2D](https://bioconductor.org/packages/3.20/bioc/html/TPP2D.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/TPP2D/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TPP2D)']
+['[affy](https://bioconductor.org/packages/3.20/bioc/html/affy.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/affy/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/affy)']

@@ -121,6 +121,7 @@ HilbertVis
 HilbertVisGUI
 HubPub
 HybridMTest
+IHW
 INDEED
 INPower
 INTACT
@@ -225,6 +226,7 @@ SpeCond
 SwathXtend
 TMixClust
 TPP
+TPP2D
 TSAR
 TargetScore
 TargetSearch
@@ -241,6 +243,7 @@ aCGH
 abseqR
 acde
 affxparser
+affy
 affycomp
 affyio
 agilp

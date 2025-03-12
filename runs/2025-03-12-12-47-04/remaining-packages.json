@@ -69,7 +69,6 @@
   "ADaCGH2": [
     "GLAD",
     "tilingArray",
-    "affy",
     "vsn",
     "genefilter",
     "AnnotationDbi",
@@ -375,11 +374,8 @@
     "UCSC.utils",
     "XVector"
   ],
-  "AffyRNADegradation": [
-    "affy"
-  ],
+  "AffyRNADegradation": [],
   "AgiMicroRna": [
-    "affy",
     "affycoretools",
     "GOstats",
     "gcrma",
@@ -1355,7 +1351,6 @@
     "GenomicRanges",
     "IRanges",
     "ggbio",
-    "affy",
     "annotate",
     "AnnotationDbi",
     "S4Vectors",
@@ -1466,7 +1461,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "GenomicRanges",
@@ -2282,7 +2276,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "affy",
     "BiocIO",
     "VariantAnnotation",
     "AnnotationFilter",
@@ -2338,7 +2331,6 @@
   "ChIPXpress": [
     "GEOquery",
     "frma",
-    "affy",
     "oligo",
     "oligoClasses",
     "SummarizedExperiment",
@@ -2641,7 +2633,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "QFeatures",
@@ -2801,9 +2792,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "Cormotif": [
-    "affy"
-  ],
+  "Cormotif": [],
   "CoverageView": [
     "Rsamtools",
     "rtracklayer",
@@ -2963,7 +2952,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "QFeatures",
@@ -3049,7 +3037,6 @@
     "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
-    "affy",
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -3658,8 +3645,7 @@
     "GenomicAlignments"
   ],
   "Doscheda": [
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "DropletUtils": [
     "SingleCellExperiment",
@@ -3680,7 +3666,6 @@
     "UCSC.utils"
   ],
   "DrugVsDisease": [
-    "affy",
     "biomaRt",
     "ArrayExpress",
     "GEOquery",
@@ -4137,9 +4122,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "ExiMiR": [
-    "affy"
-  ],
+  "ExiMiR": [],
   "ExperimentHub": [
     "AnnotationHub",
     "S4Vectors",
@@ -4562,9 +4545,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "GEOsubmission": [
-    "affy"
-  ],
+  "GEOsubmission": [],
   "GEWIST": [],
   "GGPA": [],
   "GLAD": [],
@@ -5553,7 +5534,6 @@
     "Biostrings"
   ],
   "Harshlight": [
-    "affy",
     "altcdfenvs",
     "S4Vectors",
     "makecdfenv",
@@ -5805,7 +5785,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "IHW": [],
   "ILoReg": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -5907,7 +5886,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "GenomicRanges",
@@ -6240,7 +6218,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "GenomicRanges",
@@ -6476,7 +6453,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "GenomicRanges",
@@ -6642,7 +6618,6 @@
     "SparseArray",
     "annotate",
     "UCSC.utils",
-    "affy",
     "KEGGREST",
     "rtracklayer",
     "Rsamtools",
@@ -7049,7 +7024,6 @@
     "MsCoreUtils",
     "PSMatch",
     "vsn",
-    "affy",
     "impute",
     "UCSC.utils",
     "QFeatures",
@@ -7069,7 +7043,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "QFeatures",
@@ -7115,7 +7088,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "QFeatures",
@@ -7141,7 +7113,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "QFeatures",
@@ -7223,7 +7194,6 @@
     "DelayedArray",
     "genefilter",
     "edgeR",
-    "affy",
     "AnnotationDbi",
     "SparseArray",
     "annotate",
@@ -7557,7 +7527,6 @@
     "Category",
     "RBGL",
     "AnnotationForge",
-    "affy",
     "methylumi",
     "GenomicFeatures",
     "GenomicRanges",
@@ -8163,7 +8132,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "affy",
     "SparseArray",
     "UCSC.utils",
     "XVector"
@@ -8489,7 +8457,6 @@
   ],
   "PECA": [
     "ROTS",
-    "affy",
     "genefilter",
     "AnnotationDbi",
     "annotate",
@@ -8667,7 +8634,6 @@
     "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
-    "affy",
     "impute",
     "mzID",
     "DESeq2",
@@ -8906,7 +8872,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "QFeatures",
@@ -8931,7 +8896,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "QFeatures",
@@ -9422,7 +9386,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "QFeatures",
@@ -9633,7 +9596,6 @@
     "UCSC.utils"
   ],
   "RPA": [
-    "affy",
     "phyloseq",
     "biomformat",
     "Biostrings",
@@ -10237,7 +10199,6 @@
     "BSgenome"
   ],
   "Rnits": [
-    "affy",
     "impute"
   ],
   "RolDE": [
@@ -10370,7 +10331,6 @@
     "oligo",
     "Biostrings",
     "GEOquery",
-    "affy",
     "sva",
     "IRanges",
     "S4Vectors",
@@ -10782,8 +10742,7 @@
     "graph"
   ],
   "STATegRa": [
-    "edgeR",
-    "affy"
+    "edgeR"
   ],
   "SVMDO": [
     "DOSE",
@@ -11850,7 +11809,6 @@
     "UCSC.utils",
     "Biostrings"
   ],
-  "TPP2D": [],
   "TREG": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -12058,9 +12016,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "TurboNorm": [
-    "affy"
-  ],
+  "TurboNorm": [],
   "UCSC.utils": [
     "S4Vectors"
   ],
@@ -12629,14 +12585,10 @@
     "XVector"
   ],
   "affxparser": [],
-  "affy": [],
-  "affyContam": [
-    "affy"
-  ],
+  "affyContam": [],
   "affyILM": [
     "gcrma",
     "affxparser",
-    "affy",
     "XVector",
     "Biostrings",
     "S4Vectors",
@@ -12645,7 +12597,6 @@
     "UCSC.utils"
   ],
   "affyPLM": [
-    "affy",
     "gcrma",
     "XVector",
     "Biostrings",
@@ -12655,7 +12606,6 @@
     "UCSC.utils"
   ],
   "affycoretools": [
-    "affy",
     "GOstats",
     "gcrma",
     "AnnotationDbi",
@@ -12701,7 +12651,6 @@
     "biomaRt"
   ],
   "affylmGUI": [
-    "affy",
     "affyPLM",
     "gcrma",
     "AnnotationDbi",
@@ -12933,7 +12882,6 @@
   ],
   "altcdfenvs": [
     "S4Vectors",
-    "affy",
     "makecdfenv",
     "Biostrings",
     "hypergraph",
@@ -13101,7 +13049,6 @@
     "biomaRt"
   ],
   "arrayMvout": [
-    "affy",
     "affyContam",
     "lumi",
     "methylumi",
@@ -13132,7 +13079,6 @@
     "SparseArray"
   ],
   "arrayQualityMetrics": [
-    "affy",
     "affyPLM",
     "beadarray",
     "genefilter",
@@ -13236,7 +13182,6 @@
     "IRanges",
     "GenomeInfoDb",
     "S4Arrays",
-    "affy",
     "SparseArray",
     "UCSC.utils",
     "XVector"
@@ -13315,7 +13260,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "MLInterfaces",
@@ -13537,7 +13481,6 @@
     "SparseArray",
     "UCSC.utils",
     "rtracklayer",
-    "affy",
     "Rsamtools",
     "GenomicAlignments",
     "BiocIO"
@@ -13788,7 +13731,6 @@
     "epiNEM",
     "mnem",
     "graph",
-    "affy",
     "sva",
     "vsn",
     "RBGL",
@@ -14577,7 +14519,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "SummarizedExperiment",
@@ -15009,7 +14950,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "GenomicRanges",
@@ -16911,7 +16851,6 @@
     "graph"
   ],
   "ffpe": [
-    "affy",
     "lumi",
     "methylumi",
     "GenomicFeatures",
@@ -16988,7 +16927,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "GenomicRanges",
@@ -17147,7 +17085,6 @@
   ],
   "fobitools": [],
   "frma": [
-    "affy",
     "oligo",
     "oligoClasses",
     "Biostrings",
@@ -17163,9 +17100,7 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "frmaTools": [
-    "affy"
-  ],
+  "frmaTools": [],
   "funOmics": [
     "KEGGREST",
     "AnnotationDbi",
@@ -17389,7 +17324,6 @@
     "SparseArray"
   ],
   "gcrma": [
-    "affy",
     "XVector",
     "Biostrings",
     "S4Vectors",
@@ -18191,7 +18125,6 @@
   ],
   "iCheck": [
     "lumi",
-    "affy",
     "methylumi",
     "GenomicFeatures",
     "GenomicRanges",
@@ -18466,7 +18399,6 @@
     "GenomicRanges",
     "IRanges",
     "S4Vectors",
-    "IHW",
     "goseq",
     "GOstats",
     "AnnotationDbi",
@@ -18973,7 +18905,6 @@
     "Rgraphviz"
   ],
   "lumi": [
-    "affy",
     "methylumi",
     "GenomicFeatures",
     "GenomicRanges",
@@ -19091,7 +19022,6 @@
     "txdbmaker"
   ],
   "maPredictDSC": [
-    "affy",
     "gcrma",
     "AnnotationDbi",
     "IRanges",
@@ -19137,9 +19067,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "makecdfenv": [
-    "affy"
-  ],
+  "makecdfenv": [],
   "mariner": [
     "S4Vectors",
     "GenomicRanges",
@@ -19203,7 +19131,6 @@
   ],
   "maskBAD": [
     "gcrma",
-    "affy",
     "XVector",
     "Biostrings",
     "S4Vectors",
@@ -19320,7 +19247,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "GenomicRanges",
@@ -19397,7 +19323,6 @@
     "BiocIO",
     "S4Arrays",
     "DelayedArray",
-    "affy",
     "KEGGREST",
     "DelayedMatrixStats",
     "BSgenome",
@@ -20024,7 +19949,6 @@
   ],
   "mimager": [
     "S4Vectors",
-    "affy",
     "affyPLM",
     "oligo",
     "oligoClasses",
@@ -20485,7 +20409,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "QFeatures",
@@ -20511,7 +20434,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "QFeatures",
@@ -20786,7 +20708,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "GenomicRanges",
@@ -21123,7 +21044,6 @@
     "MsCoreUtils",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "DelayedArray",
@@ -21361,7 +21281,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "KEGGREST",
@@ -21387,7 +21306,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "MLInterfaces",
@@ -21510,9 +21428,7 @@
     "XVector",
     "Biostrings"
   ],
-  "panp": [
-    "affy"
-  ],
+  "panp": [],
   "parglms": [],
   "partCNV": [
     "SingleCellExperiment",
@@ -21636,7 +21552,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "QFeatures",
@@ -21845,9 +21760,7 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "plier": [
-    "affy"
-  ],
+  "plier": [],
   "plotgardener": [
     "GenomeInfoDb",
     "GenomicRanges",
@@ -21995,7 +21908,6 @@
   ],
   "prebs": [
     "GenomicAlignments",
-    "affy",
     "RPA",
     "GenomicRanges",
     "IRanges",
@@ -22019,7 +21931,6 @@
     "rCGH",
     "GenomeInfoDb",
     "XVector",
-    "affy",
     "GenomicFeatures",
     "AnnotationDbi",
     "KEGGREST",
@@ -22173,7 +22084,6 @@
     "genefilter",
     "AnnotationDbi",
     "annotate",
-    "affy",
     "IRanges",
     "S4Vectors",
     "KEGGREST",
@@ -22221,7 +22131,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "QFeatures",
@@ -22239,7 +22148,6 @@
   "puma": [
     "oligo",
     "oligoClasses",
-    "affy",
     "Biostrings",
     "affxparser",
     "IRanges",
@@ -22253,12 +22161,9 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "pvac": [
-    "affy"
-  ],
+  "pvac": [],
   "pvca": [
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "pwalign": [
     "S4Vectors",
@@ -22280,7 +22185,6 @@
     "MsCoreUtils",
     "PSMatch",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "UCSC.utils",
@@ -22309,9 +22213,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "qpcrNorm": [
-    "affy"
-  ],
+  "qpcrNorm": [],
   "qpgraph": [
     "annotate",
     "graph",
@@ -22457,7 +22359,6 @@
     "UCSC.utils"
   ],
   "rCGH": [
-    "affy",
     "GenomicFeatures",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -24018,7 +23919,6 @@
   ],
   "scp": [
     "QFeatures",
-    "IHW",
     "metapod",
     "MsCoreUtils",
     "MultiAssayExperiment",
@@ -24680,7 +24580,6 @@
     "SparseArray",
     "UCSC.utils",
     "rtracklayer",
-    "affy",
     "Rsamtools",
     "GenomicAlignments",
     "BiocIO"
@@ -25041,7 +24940,6 @@
     "MsCoreUtils",
     "PSMatch",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "MsFeatures",
@@ -25325,7 +25223,6 @@
     "MsCoreUtils",
     "PSMatch",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "UCSC.utils",
@@ -25664,7 +25561,6 @@
     "UCSC.utils"
   ],
   "tilingArray": [
-    "affy",
     "vsn",
     "genefilter",
     "AnnotationDbi",
@@ -25712,7 +25608,6 @@
     "GenomeInfoDb",
     "MsCoreUtils",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "QFeatures",
@@ -26175,9 +26070,7 @@
     "XVector",
     "UCSC.utils"
   ],
-  "vsn": [
-    "affy"
-  ],
+  "vsn": [],
   "vtpnet": [
     "graph",
     "GenomicRanges",
@@ -26261,7 +26154,6 @@
     "methylumi",
     "lumi",
     "minfi",
-    "affy",
     "GenomicFeatures",
     "GenomicRanges",
     "annotate",
@@ -26308,7 +26200,6 @@
     "SparseArray"
   ],
   "webbioc": [
-    "affy",
     "annaffy",
     "vsn",
     "gcrma",
@@ -26381,7 +26272,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "impute",
     "mzID",
     "GenomicRanges",
