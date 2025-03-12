@@ -1614,7 +1614,6 @@
   "MotifDb": [
     "rtracklayer"
   ],
-  "MouseFM": [],
   "MsDataHub": [],
   "MsExperiment": [
     "QFeatures",
@@ -1749,7 +1748,6 @@
     "topGO"
   ],
   "OmicCircos": [],
-  "OncoScore": [],
   "Organism.dplyr": [
     "AnnotationFilter",
     "GenomicFeatures",
@@ -1855,7 +1853,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "ProteoMM": [],
   "PureCN": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -3787,7 +3784,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "h5vc": [],
   "hdxmsqc": [
     "QFeatures",
     "MultiAssayExperiment",
@@ -4787,9 +4783,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "rTRM": [],
   "rTRMui": [
-    "rTRM",
     "MotifDb",
     "rtracklayer"
   ],

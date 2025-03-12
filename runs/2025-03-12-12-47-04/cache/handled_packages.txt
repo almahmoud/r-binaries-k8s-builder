@@ -336,6 +336,7 @@ MiPP
 MiRaGE
 ModCon
 Modstrings
+MouseFM
 MsBackendMassbank
 MsBackendMetaboLights
 MsBackendMgf
@@ -364,6 +365,7 @@ OSAT
 OmicsMLRepoR
 Omixer
 OmnipathR
+OncoScore
 OncoSimulR
 OpenStats
 OrderedList
@@ -388,6 +390,7 @@ PhenStat
 PhenoGeneRanker
 PoDCall
 ProtGenerics
+ProteoMM
 QUBIC
 Qtlizer
 QuaternaryProd
@@ -776,6 +779,7 @@ graph
 graphite
 gtrellis
 gypsum
+h5vc
 hapFabia
 hca
 heatmaps
@@ -960,6 +964,7 @@ rGenomeTracks
 rRDP
 rSWeeP
 rScudo
+rTRM
 rWikiPathways
 rain
 ramr
