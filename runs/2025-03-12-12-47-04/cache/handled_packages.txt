@@ -210,6 +210,7 @@ GeneNetworkBuilder
 GeneOverlap
 GeneSelectMMD
 GeneticsPed
+GenomAutomorphism
 GenomeInfoDb
 GenomicAlignments
 GenomicDataCommons
@@ -498,6 +499,8 @@ SynExtend
 SynMut
 TDbasedUFE
 TDbasedUFEadv
+TEQC
+TFutils
 TIN
 TMSig
 TMixClust

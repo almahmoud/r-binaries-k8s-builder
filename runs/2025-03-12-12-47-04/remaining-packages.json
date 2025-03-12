@@ -1124,7 +1124,6 @@
     "txdbmaker"
   ],
   "GeneticsPed": [],
-  "GenomAutomorphism": [],
   "GenomicDistributions": [],
   "GenomicFeatures": [
     "rtracklayer"
@@ -2464,7 +2463,6 @@
   "TENxIO": [
     "SingleCellExperiment"
   ],
-  "TEQC": [],
   "TFARM": [],
   "TFBSTools": [
     "BSgenome",
@@ -2483,7 +2481,6 @@
     "rtracklayer",
     "txdbmaker"
   ],
-  "TFutils": [],
   "TOP": [
     "ClassifyR",
     "MultiAssayExperiment"

@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1079 packages built successfully
+- 1082 packages built successfully
 - 17 packages failed to build
-- 1137 packages not yet processed
+- 1134 packages not yet processed
 
 ## Failed Builds (17)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -29,7 +29,7 @@
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)       | Build failed with unknown error     |
 | [GeneGeneInteR](https://bioconductor.org/packages/3.20/bioc/html/GeneGeneInteR.html) | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GeneGeneInteR/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneGeneInteR) | Build failed with unknown error     |
 
-## Successfully Built (1079)
+## Successfully Built (1082)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1111,8 +1111,11 @@
 | [lionessR](https://bioconductor.org/packages/3.20/bioc/html/lionessR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/lionessR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lionessR)                  |
 | [miRNAtap](https://bioconductor.org/packages/3.20/bioc/html/miRNAtap.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/miRNAtap/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miRNAtap)                  |
 | [mirIntegrator](https://bioconductor.org/packages/3.20/bioc/html/mirIntegrator.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/mirIntegrator/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mirIntegrator)             |
+| [GenomAutomorphism](https://bioconductor.org/packages/3.20/bioc/html/GenomAutomorphism.html)                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/GenomAutomorphism/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomAutomorphism)         |
+| [TEQC](https://bioconductor.org/packages/3.20/bioc/html/TEQC.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/TEQC/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TEQC)                      |
+| [TFutils](https://bioconductor.org/packages/3.20/bioc/html/TFutils.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/TFutils/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TFutils)                   |
 
-## Not Yet Processed (1137)
+## Not Yet Processed (1134)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1330,7 +1333,6 @@
 | [GeneRegionScan](https://bioconductor.org/packages/3.20/bioc/html/GeneRegionScan.html)                           | Unprocessed |
 | [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)                   | Unprocessed |
 | [GeneTonic](https://bioconductor.org/packages/3.20/bioc/html/GeneTonic.html)                                     | Unprocessed |
-| [GenomAutomorphism](https://bioconductor.org/packages/3.20/bioc/html/GenomAutomorphism.html)                     | Unprocessed |
 | [GenomicDistributions](https://bioconductor.org/packages/3.20/bioc/html/GenomicDistributions.html)               | Unprocessed |
 | [GenomicFeatures](https://bioconductor.org/packages/3.20/bioc/html/GenomicFeatures.html)                         | Unprocessed |
 | [GenomicFiles](https://bioconductor.org/packages/3.20/bioc/html/GenomicFiles.html)                               | Unprocessed |
@@ -1618,12 +1620,10 @@
 | [TCseq](https://bioconductor.org/packages/3.20/bioc/html/TCseq.html)                                             | Unprocessed |
 | [TEKRABber](https://bioconductor.org/packages/3.20/bioc/html/TEKRABber.html)                                     | Unprocessed |
 | [TENxIO](https://bioconductor.org/packages/3.20/bioc/html/TENxIO.html)                                           | Unprocessed |
-| [TEQC](https://bioconductor.org/packages/3.20/bioc/html/TEQC.html)                                               | Unprocessed |
 | [TFARM](https://bioconductor.org/packages/3.20/bioc/html/TFARM.html)                                             | Unprocessed |
 | [TFBSTools](https://bioconductor.org/packages/3.20/bioc/html/TFBSTools.html)                                     | Unprocessed |
 | [TFEA.ChIP](https://bioconductor.org/packages/3.20/bioc/html/TFEA.ChIP.html)                                     | Unprocessed |
 | [TFHAZ](https://bioconductor.org/packages/3.20/bioc/html/TFHAZ.html)                                             | Unprocessed |
-| [TFutils](https://bioconductor.org/packages/3.20/bioc/html/TFutils.html)                                         | Unprocessed |
 | [TOP](https://bioconductor.org/packages/3.20/bioc/html/TOP.html)                                                 | Unprocessed |
 | [TREG](https://bioconductor.org/packages/3.20/bioc/html/TREG.html)                                               | Unprocessed |
 | [TRESS](https://bioconductor.org/packages/3.20/bioc/html/TRESS.html)                                             | Unprocessed |
