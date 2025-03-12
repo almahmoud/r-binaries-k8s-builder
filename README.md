@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 930 packages built successfully
+- 932 packages built successfully
 - 16 packages failed to build
-- 1287 packages not yet processed
+- 1285 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (930)
+## Successfully Built (932)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -961,8 +961,10 @@
 | [struct](https://bioconductor.org/packages/3.20/bioc/html/struct.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/struct/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/struct)                    |
 | [tidySummarizedExperiment](https://bioconductor.org/packages/3.20/bioc/html/tidySummarizedExperiment.html)   | Built    | [Log](runs/2025-03-12-12-47-04/logs/tidySummarizedExperiment/build-success.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tidySummarizedExperiment)  |
 | [tomoda](https://bioconductor.org/packages/3.20/bioc/html/tomoda.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/tomoda/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tomoda)                    |
+| [satuRn](https://bioconductor.org/packages/3.20/bioc/html/satuRn.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/satuRn/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/satuRn)                    |
+| [survtype](https://bioconductor.org/packages/3.20/bioc/html/survtype.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/survtype/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/survtype)                  |
 
-## Not Yet Processed (1287)
+## Not Yet Processed (1285)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -2094,7 +2096,6 @@
 | [sangeranalyseR](https://bioconductor.org/packages/3.20/bioc/html/sangeranalyseR.html)                           | Unprocessed |
 | [sangerseqR](https://bioconductor.org/packages/3.20/bioc/html/sangerseqR.html)                                   | Unprocessed |
 | [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                             | Unprocessed |
-| [satuRn](https://bioconductor.org/packages/3.20/bioc/html/satuRn.html)                                           | Unprocessed |
 | [scAnnotatR](https://bioconductor.org/packages/3.20/bioc/html/scAnnotatR.html)                                   | Unprocessed |
 | [scBFA](https://bioconductor.org/packages/3.20/bioc/html/scBFA.html)                                             | Unprocessed |
 | [scCB2](https://bioconductor.org/packages/3.20/bioc/html/scCB2.html)                                             | Unprocessed |
@@ -2186,7 +2187,6 @@
 | [supersigs](https://bioconductor.org/packages/3.20/bioc/html/supersigs.html)                                     | Unprocessed |
 | [surfaltr](https://bioconductor.org/packages/3.20/bioc/html/surfaltr.html)                                       | Unprocessed |
 | [survClust](https://bioconductor.org/packages/3.20/bioc/html/survClust.html)                                     | Unprocessed |
-| [survtype](https://bioconductor.org/packages/3.20/bioc/html/survtype.html)                                       | Unprocessed |
 | [sva](https://bioconductor.org/packages/3.20/bioc/html/sva.html)                                                 | Unprocessed |
 | [svaNUMT](https://bioconductor.org/packages/3.20/bioc/html/svaNUMT.html)                                         | Unprocessed |
 | [svaRetro](https://bioconductor.org/packages/3.20/bioc/html/svaRetro.html)                                       | Unprocessed |

@@ -847,6 +847,7 @@ runibic
 sSeq
 sagenhaft
 sarks
+satuRn
 scBubbletree
 scFeatureFilter
 scMitoMut
@@ -899,6 +900,7 @@ stepNorm
 struct
 subSeq
 survcomp
+survtype
 swfdr
 switchBox
 synapsis

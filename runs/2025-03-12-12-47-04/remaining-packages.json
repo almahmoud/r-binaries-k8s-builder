@@ -1688,7 +1688,6 @@
   "IsoBayes": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
-    "satuRn",
     "sva",
     "BSgenome",
     "rtracklayer",
@@ -6287,7 +6286,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "satuRn": [],
   "scAnnotatR": [
     "SingleCellExperiment"
   ],
@@ -6853,7 +6851,6 @@
   "survClust": [
     "MultiAssayExperiment"
   ],
-  "survtype": [],
   "sva": [
     "genefilter"
   ],
