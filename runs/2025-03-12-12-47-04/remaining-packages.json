@@ -178,7 +178,6 @@
     "rtracklayer",
     "VariantAnnotation",
     "Rsamtools",
-    "HybridMTest",
     "S4Vectors",
     "IRanges",
     "GenomeInfoDb",
@@ -480,7 +479,6 @@
     "impute"
   ],
   "AnVIL": [],
-  "AnVILAz": [],
   "AnVILGCP": [],
   "AnVILPublish": [
     "AnVIL",
@@ -1562,7 +1560,6 @@
   "CATALYST": [
     "SingleCellExperiment",
     "ComplexHeatmap",
-    "ConsensusClusterPlus",
     "flowCore",
     "FlowSOM",
     "SummarizedExperiment",
@@ -1783,7 +1780,6 @@
   "CNVPanelizer": [
     "GenomicRanges",
     "S4Vectors",
-    "NOISeq",
     "IRanges",
     "Rsamtools",
     "GenomeInfoDb",
@@ -2654,7 +2650,6 @@
     "Rsamtools",
     "scran",
     "scater",
-    "ConsensusClusterPlus",
     "GenomicRanges",
     "IRanges",
     "edgeR",
@@ -2912,7 +2907,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "ConsensusClusterPlus": [],
   "CopyNumberPlots": [
     "karyoploteR",
     "regioneR",
@@ -3191,7 +3185,6 @@
   ],
   "DEGreport": [
     "ComplexHeatmap",
-    "ConsensusClusterPlus",
     "DESeq2",
     "edgeR",
     "S4Vectors",
@@ -3379,7 +3372,6 @@
     "XVector",
     "Biostrings"
   ],
-  "DFP": [],
   "DFplyr": [
     "S4Vectors"
   ],
@@ -3984,10 +3976,7 @@
     "UCSC.utils"
   ],
   "EBSeq": [],
-  "EBarrays": [],
-  "EBcoexpress": [
-    "EBarrays"
-  ],
+  "EBcoexpress": [],
   "EDASeq": [
     "ShortRead",
     "IRanges",
@@ -4649,7 +4638,6 @@
     "Rhtslib"
   ],
   "FlowSOM": [
-    "ConsensusClusterPlus",
     "flowCore",
     "cytolib",
     "S4Vectors",
@@ -4722,7 +4710,6 @@
     "EDASeq",
     "sva",
     "edgeR",
-    "sSeq",
     "GenomicRanges",
     "S4Vectors",
     "IRanges",
@@ -5824,7 +5811,6 @@
     "XVector"
   ],
   "HDTD": [],
-  "HELP": [],
   "HEM": [],
   "HERON": [
     "SummarizedExperiment",
@@ -6162,7 +6148,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "HybridMTest": [],
   "IFAA": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -6525,7 +6510,6 @@
     "DEXSeq",
     "satuRn",
     "sva",
-    "pfamAnalyzeR",
     "BSgenome",
     "Biostrings",
     "IRanges",
@@ -7294,7 +7278,6 @@
     "DESeq2",
     "edgeR",
     "SummarizedExperiment",
-    "sSeq",
     "S4Vectors",
     "IRanges",
     "GenomicRanges",
@@ -7326,8 +7309,7 @@
   ],
   "MMUPHin": [
     "Maaslin2",
-    "edgeR",
-    "metagenomeSeq"
+    "edgeR"
   ],
   "MODA": [
     "impute",
@@ -7675,8 +7657,7 @@
     "UCSC.utils"
   ],
   "Maaslin2": [
-    "edgeR",
-    "metagenomeSeq"
+    "edgeR"
   ],
   "Macarron": [
     "SummarizedExperiment",
@@ -7687,7 +7668,6 @@
     "S4Arrays",
     "SparseArray",
     "edgeR",
-    "metagenomeSeq",
     "GenomicRanges",
     "GenomeInfoDb",
     "impute",
@@ -7698,7 +7678,6 @@
     "XVector",
     "Biostrings"
   ],
-  "MantelCorr": [],
   "MassArray": [],
   "MatrixQCvis": [
     "SummarizedExperiment",
@@ -7821,7 +7800,6 @@
     "FlowSOM",
     "cytolib",
     "S4Vectors",
-    "ConsensusClusterPlus",
     "Rhdf5lib"
   ],
   "MetaNeighbor": [
@@ -8019,7 +7997,6 @@
     "tkWidgets",
     "DynDoc"
   ],
-  "MiChip": [],
   "MiPP": [],
   "MiRaGE": [
     "S4Vectors",
@@ -8390,7 +8367,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "Mulcom": [],
   "MultiAssayExperiment": [
     "SummarizedExperiment",
     "DelayedArray",
@@ -8584,7 +8560,6 @@
     "RCy3",
     "Rgraphviz"
   ],
-  "NOISeq": [],
   "NPARC": [],
   "NanoMethViz": [
     "S4Vectors",
@@ -8616,7 +8591,6 @@
     "Rhdf5lib",
     "GenomicAlignments"
   ],
-  "NanoStringDiff": [],
   "NanoStringNCTools": [
     "S4Vectors",
     "Biostrings",
@@ -9329,7 +9303,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "Path2PPI": [],
   "PathNet": [],
   "PathoStat": [
     "phyloseq",
@@ -10565,7 +10538,6 @@
     "UCSC.utils"
   ],
   "ReadqPCR": [],
-  "RedisParam": [],
   "RegEnrich": [
     "S4Vectors",
     "BiocSet",
@@ -11051,7 +11023,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "SBMLR": [],
   "SC3": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -11897,7 +11868,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "SpaceMarkers": [],
   "Spaniel": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -12186,7 +12156,6 @@
     "UCSC.utils",
     "XVector",
     "cytolib",
-    "ConsensusClusterPlus",
     "Rhdf5lib"
   ],
   "Streamer": [
@@ -13398,7 +13367,6 @@
   ],
   "a4": [
     "a4Base",
-    "a4Preproc",
     "a4Classif",
     "annaffy",
     "genefilter",
@@ -13413,7 +13381,6 @@
     "UCSC.utils"
   ],
   "a4Base": [
-    "a4Preproc",
     "annaffy",
     "genefilter",
     "AnnotationDbi",
@@ -13426,10 +13393,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "a4Classif": [
-    "a4Preproc"
-  ],
-  "a4Preproc": [],
+  "a4Classif": [],
   "aCGH": [],
   "abseqR": [],
   "adSplit": [
@@ -13994,7 +13958,6 @@
     "biomaRt"
   ],
   "arrayMvout": [
-    "parody",
     "affy",
     "mdqc",
     "affyContam",
@@ -14387,9 +14350,7 @@
     "SummarizedExperiment",
     "MAST",
     "microbiome",
-    "NOISeq",
     "Maaslin2",
-    "metagenomeSeq",
     "GenomicRanges",
     "IRanges",
     "S4Vectors",
@@ -14492,7 +14453,6 @@
     "TCGAutils",
     "enrichplot",
     "GOSemSim",
-    "EBarrays",
     "minet",
     "graphite",
     "UCSC.utils",
@@ -14830,7 +14790,6 @@
     "DELocal",
     "EBSeq",
     "DESeq2",
-    "NOISeq",
     "genefilter",
     "clusterProfiler",
     "sechm",
@@ -14997,7 +14956,6 @@
     "S4Vectors",
     "SummarizedExperiment",
     "TCGAutils",
-    "EBarrays",
     "minet",
     "annotate",
     "graph",
@@ -15047,7 +15005,6 @@
   "casper": [
     "IRanges",
     "GenomicRanges",
-    "EBarrays",
     "gaga",
     "GenomeInfoDb",
     "GenomicFeatures",
@@ -15231,7 +15188,6 @@
     "DelayedArray",
     "SparseArray",
     "cytolib",
-    "ConsensusClusterPlus",
     "UCSC.utils",
     "XVector",
     "Rhdf5lib"
@@ -15663,7 +15619,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "clusterStab": [],
   "clustifyr": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -16529,7 +16484,6 @@
     "SummarizedExperiment",
     "S4Vectors",
     "ComplexHeatmap",
-    "ConsensusClusterPlus",
     "FlowSOM",
     "scater",
     "cytolib",
@@ -17056,7 +17010,6 @@
     "ComplexHeatmap",
     "IRanges",
     "cytolib",
-    "ConsensusClusterPlus",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -18412,7 +18365,6 @@
     "preprocessCore"
   ],
   "funOmics": [
-    "pathifier",
     "KEGGREST",
     "AnnotationDbi",
     "IRanges",
@@ -18600,9 +18552,7 @@
     "BiocIO",
     "Rhtslib"
   ],
-  "gaga": [
-    "EBarrays"
-  ],
+  "gaga": [],
   "gage": [
     "graph",
     "KEGGREST",
@@ -18660,7 +18610,6 @@
     "UCSC.utils"
   ],
   "geNetClassifier": [
-    "EBarrays",
     "minet"
   ],
   "gemma.R": [
@@ -18697,7 +18646,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "geneClassifiers": [],
   "geneRecommender": [],
   "geneRxCluster": [
     "GenomicRanges",
@@ -19299,7 +19247,6 @@
     "Rhdf5lib",
     "rhdf5filters"
   ],
-  "hapFabia": [],
   "hdxmsqc": [
     "QFeatures",
     "S4Vectors",
@@ -19408,7 +19355,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "hierinf": [],
   "hipathia": [
     "AnnotationHub",
     "MultiAssayExperiment",
@@ -19477,7 +19423,6 @@
   "hypergraph": [
     "graph"
   ],
-  "iASeq": [],
   "iBBiG": [],
   "iCARE": [],
   "iCNV": [
@@ -19538,7 +19483,6 @@
     "Rhtslib"
   ],
   "iClusterPlus": [],
-  "iGC": [],
   "iNETgrate": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -20045,7 +19989,6 @@
     "S4Vectors",
     "KEGGREST",
     "ComplexHeatmap",
-    "ConsensusClusterPlus",
     "edgeR",
     "GenomeInfoDb",
     "XVector",
@@ -20616,9 +20559,7 @@
   "matter": [
     "ProtGenerics"
   ],
-  "mbQTL": [
-    "metagenomeSeq"
-  ],
+  "mbQTL": [],
   "mbkmeans": [
     "DelayedArray",
     "S4Vectors",
@@ -20721,9 +20662,7 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "metaSeq": [
-    "NOISeq"
-  ],
+  "metaSeq": [],
   "metabCombiner": [
     "S4Vectors"
   ],
@@ -20761,7 +20700,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "metagenomeSeq": [],
   "metahdep": [],
   "metapod": [],
   "metapone": [],
@@ -21400,7 +21338,6 @@
   ],
   "microbiomeDASim": [
     "phyloseq",
-    "metagenomeSeq",
     "biomformat",
     "Biostrings",
     "rhdf5",
@@ -21413,7 +21350,6 @@
     "rhdf5filters"
   ],
   "microbiomeExplorer": [
-    "metagenomeSeq",
     "DESeq2",
     "biomformat",
     "rhdf5",
@@ -21433,7 +21369,6 @@
   "microbiomeMarker": [
     "phyloseq",
     "IRanges",
-    "metagenomeSeq",
     "DESeq2",
     "edgeR",
     "Biostrings",
@@ -23072,7 +23007,6 @@
     "preprocessCore"
   ],
   "parglms": [],
-  "parody": [],
   "partCNV": [
     "SingleCellExperiment",
     "AnnotationHub",
@@ -23102,7 +23036,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "pathifier": [],
   "pathlinkR": [
     "clusterProfiler",
     "ComplexHeatmap",
@@ -23241,7 +23174,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "pepXMLTab": [],
   "periodicDNA": [
     "Biostrings",
     "GenomicRanges",
@@ -23261,8 +23193,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "pfamAnalyzeR": [],
-  "pgca": [],
   "pgxRpi": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -23352,7 +23282,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "phosphonormalizer": [],
   "phyloseq": [
     "biomformat",
     "Biostrings",
@@ -23366,7 +23295,6 @@
     "rhdf5filters"
   ],
   "piano": [],
-  "pickgene": [],
   "pipeComp": [
     "S4Vectors",
     "ComplexHeatmap",
@@ -24873,7 +24801,6 @@
     "XVector",
     "Biostrings"
   ],
-  "sSeq": [],
   "safe": [
     "AnnotationDbi",
     "IRanges",
@@ -24884,7 +24811,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "sagenhaft": [],
   "sampleClassifier": [
     "MGFM",
     "MGFR",
@@ -26740,7 +26666,6 @@
     "S4Vectors",
     "SingleCellExperiment",
     "ComplexHeatmap",
-    "ConsensusClusterPlus",
     "flowCore",
     "FlowSOM",
     "scater",
@@ -27764,7 +27689,6 @@
     "XVector",
     "SparseArray",
     "cytolib",
-    "ConsensusClusterPlus",
     "UCSC.utils",
     "Rhdf5lib"
   ],
@@ -27783,7 +27707,6 @@
     "S4Arrays",
     "SparseArray",
     "cytolib",
-    "ConsensusClusterPlus",
     "GenomeInfoDb",
     "XVector",
     "Rhdf5lib",
