@@ -1785,7 +1785,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MGFM": [],
   "MGFR": [
     "biomaRt"
   ],
@@ -2831,7 +2830,6 @@
   ],
   "Scale4C": [],
   "ScaledMatrix": [],
-  "SemDist": [],
   "SeqGSEA": [
     "DESeq2",
     "biomaRt"
@@ -2970,8 +2968,7 @@
   "Statial": [
     "SingleCellExperiment",
     "SpatialExperiment",
-    "treekoR",
-    "diffcyt"
+    "treekoR"
   ],
   "StructuralVariantAnnotation": [
     "rtracklayer",
@@ -3707,9 +3704,7 @@
   "cellity": [
     "topGO"
   ],
-  "censcyt": [
-    "diffcyt"
-  ],
+  "censcyt": [],
   "cfDNAPro": [
     "GenomicAlignments",
     "plyranges",
@@ -3830,7 +3825,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "codelink": [],
   "comapr": [
     "Gviz",
     "rtracklayer",
@@ -4194,7 +4188,6 @@
     "AnnotationFilter",
     "GenomicAlignments"
   ],
-  "diffcyt": [],
   "distinct": [
     "SingleCellExperiment",
     "scater",
@@ -6049,7 +6042,6 @@
   ],
   "safe": [],
   "sampleClassifier": [
-    "MGFM",
     "MGFR",
     "biomaRt"
   ],
@@ -6798,12 +6790,10 @@
   ],
   "treeclimbR": [
     "TreeSummarizedExperiment",
-    "diffcyt",
     "SingleCellExperiment"
   ],
   "treekoR": [
-    "SingleCellExperiment",
-    "diffcyt"
+    "SingleCellExperiment"
   ],
   "tricycle": [
     "SingleCellExperiment",

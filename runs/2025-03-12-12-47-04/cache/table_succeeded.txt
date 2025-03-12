@@ -989,3 +989,7 @@
 ['[eisaR](https://bioconductor.org/packages/3.20/bioc/html/eisaR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/eisaR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/eisaR)']
 ['[PREDA](https://bioconductor.org/packages/3.20/bioc/html/PREDA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/PREDA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PREDA)']
 ['[pathRender](https://bioconductor.org/packages/3.20/bioc/html/pathRender.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/pathRender/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pathRender)']
+['[MGFM](https://bioconductor.org/packages/3.20/bioc/html/MGFM.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MGFM/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MGFM)']
+['[SemDist](https://bioconductor.org/packages/3.20/bioc/html/SemDist.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SemDist/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SemDist)']
+['[codelink](https://bioconductor.org/packages/3.20/bioc/html/codelink.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/codelink/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/codelink)']
+['[diffcyt](https://bioconductor.org/packages/3.20/bioc/html/diffcyt.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/diffcyt/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/diffcyt)']

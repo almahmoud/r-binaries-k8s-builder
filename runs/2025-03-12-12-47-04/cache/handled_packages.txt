@@ -257,6 +257,7 @@ MBttest
 MCbiclust
 MEDME
 MEIGOR
+MGFM
 MLP
 MMUPHin
 MODA
@@ -434,6 +435,7 @@ SVMDO
 SamSPECTRAL
 Sconify
 ScreenR
+SemDist
 SeqArray
 SharedObject
 SigFuge
@@ -558,6 +560,7 @@ cmapR
 cnvGSA
 coGPS
 coRdon
+codelink
 cogena
 cogeqc
 cola
@@ -590,6 +593,7 @@ densvis
 derfinderHelper
 diffGeneAnalysis
 diffcoexp
+diffcyt
 diffuStats
 diggit
 dinoR
