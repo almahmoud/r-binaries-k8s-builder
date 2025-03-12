@@ -707,3 +707,4 @@
 ['[NCIgraph](https://bioconductor.org/packages/3.20/bioc/html/NCIgraph.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/NCIgraph/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/NCIgraph)']
 ['[BiocPkgTools](https://bioconductor.org/packages/3.20/bioc/html/BiocPkgTools.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/BiocPkgTools/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BiocPkgTools)']
 ['[CCPlotR](https://bioconductor.org/packages/3.20/bioc/html/CCPlotR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CCPlotR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CCPlotR)']
+['[BioQC](https://bioconductor.org/packages/3.20/bioc/html/BioQC.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/BioQC/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BioQC)']

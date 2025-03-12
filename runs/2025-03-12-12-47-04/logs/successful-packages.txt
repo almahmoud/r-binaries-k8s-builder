@@ -707,3 +707,4 @@ CNORode
 NCIgraph
 BiocPkgTools
 CCPlotR
+BioQC
