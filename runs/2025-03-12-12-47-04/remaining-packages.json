@@ -1227,8 +1227,7 @@
     "DESeq2",
     "clusterProfiler",
     "biomaRt",
-    "pathview",
-    "GenomicDataCommons"
+    "pathview"
   ],
   "GDSArray": [],
   "GENESIS": [
@@ -1249,7 +1248,6 @@
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -1381,7 +1379,6 @@
   "GeneticsPed": [],
   "GenomAutomorphism": [],
   "GenomicAlignments": [],
-  "GenomicDataCommons": [],
   "GenomicDistributions": [],
   "GenomicFeatures": [
     "rtracklayer",
@@ -2529,15 +2526,11 @@
     "RaggedExperiment",
     "TCGAutils",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "MultiAssayExperiment",
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RTNduals": [],
-  "RTNsurvival": [
-    "RTNduals"
-  ],
+  "RTNsurvival": [],
   "RUVSeq": [
     "EDASeq",
     "ShortRead",
@@ -3003,7 +2996,6 @@
   ],
   "TCGAutils": [
     "GenomicFeatures",
-    "GenomicDataCommons",
     "MultiAssayExperiment",
     "RaggedExperiment",
     "rtracklayer",
@@ -3503,7 +3495,6 @@
     "TCGAutils",
     "graphite",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -3613,7 +3604,6 @@
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -3646,7 +3636,6 @@
     "biomaRt",
     "genefilter",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -3676,7 +3665,6 @@
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -4634,7 +4622,6 @@
     "MultiAssayExperiment",
     "TCGAutils",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "RaggedExperiment",
     "rtracklayer",
     "GenomicAlignments"
@@ -5078,7 +5065,6 @@
     "methrix",
     "TCGAutils",
     "AnnotationHubData",
-    "GenomicDataCommons",
     "MultiAssayExperiment",
     "RaggedExperiment",
     "OrganismDbi",
@@ -6697,7 +6683,6 @@
     "RaggedExperiment",
     "TCGAutils",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -6713,10 +6698,8 @@
     "tidySingleCellExperiment",
     "SingleCellExperiment"
   ],
-  "tidybulk": [],
   "tidyomics": [
     "tidySingleCellExperiment",
-    "tidybulk",
     "plyranges",
     "nullranges",
     "InteractionSet",

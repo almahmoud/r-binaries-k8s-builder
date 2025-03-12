@@ -190,6 +190,7 @@ GeneOverlap
 GeneSelectMMD
 GeneticsPed
 GenomeInfoDb
+GenomicDataCommons
 GenomicRanges
 GenomicScores
 GenomicTuples
@@ -378,6 +379,7 @@ RSeqAn
 RTCA
 RTCGA
 RTN
+RTNduals
 RTopper
 RUVcorr
 RUVnormalize
@@ -973,6 +975,7 @@ target
 ternarynet
 tidyFlowCore
 tidySummarizedExperiment
+tidybulk
 tidysbml
 tidytof
 timeOmics
