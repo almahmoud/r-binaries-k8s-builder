@@ -877,3 +877,6 @@ flowCut
 SeqArray
 cyanoFilter
 maskBAD
+LRBaseDbi
+procoil
+SummarizedExperiment

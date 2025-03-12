@@ -222,6 +222,7 @@ KinSwingR
 LBE
 LEA
 LPE
+LRBaseDbi
 LedPred
 Linnorm
 M3C
@@ -403,6 +404,7 @@ Spectra
 SpectraQL
 Streamer
 Structstrings
+SummarizedExperiment
 Summix
 SwathXtend
 SynExtend
@@ -552,6 +554,7 @@ fabia
 factDesign
 faers
 fastreeR
+fastseg
 fdrame
 fedup
 fenr
@@ -758,6 +761,7 @@ powerTCR
 ppcseq
 pqsfinder
 preprocessCore
+procoil
 profileScoreDist
 progeny
 projectR

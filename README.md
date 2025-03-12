@@ -4,11 +4,11 @@
 
 ## Summary
 
-- 879 packages built successfully
-- 15 packages failed to build
-- 1339 packages not yet processed
+- 882 packages built successfully
+- 16 packages failed to build
+- 1335 packages not yet processed
 
-## Failed Builds (15)
+## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
 |------------------------------------------------------------------------------------|----------|------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
 | [CytoGLMM](https://bioconductor.org/packages/3.20/bioc/html/CytoGLMM.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/CytoGLMM/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CytoGLMM)     | Build failed with unknown error     |
@@ -26,8 +26,9 @@
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 | [immunoClust](https://bioconductor.org/packages/3.20/bioc/html/immunoClust.html)   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/immunoClust/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunoClust)  | Build failed with unknown error     |
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
+| [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (879)
+## Successfully Built (882)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -909,8 +910,11 @@
 | [flowCut](https://bioconductor.org/packages/3.20/bioc/html/flowCut.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowCut/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowCut)                   |
 | [cyanoFilter](https://bioconductor.org/packages/3.20/bioc/html/cyanoFilter.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/cyanoFilter/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cyanoFilter)               |
 | [maskBAD](https://bioconductor.org/packages/3.20/bioc/html/maskBAD.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/maskBAD/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/maskBAD)                   |
+| [LRBaseDbi](https://bioconductor.org/packages/3.20/bioc/html/LRBaseDbi.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/LRBaseDbi/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/LRBaseDbi)                 |
+| [SummarizedExperiment](https://bioconductor.org/packages/3.20/bioc/html/SummarizedExperiment.html)           | Built    | [Log](runs/2025-03-12-12-47-04/logs/SummarizedExperiment/build-success.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SummarizedExperiment)      |
+| [procoil](https://bioconductor.org/packages/3.20/bioc/html/procoil.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/procoil/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/procoil)                   |
 
-## Not Yet Processed (1339)
+## Not Yet Processed (1335)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1229,7 +1233,6 @@
 | [LACE](https://bioconductor.org/packages/3.20/bioc/html/LACE.html)                                               | Unprocessed |
 | [LOBSTAHS](https://bioconductor.org/packages/3.20/bioc/html/LOBSTAHS.html)                                       | Unprocessed |
 | [LOLA](https://bioconductor.org/packages/3.20/bioc/html/LOLA.html)                                               | Unprocessed |
-| [LRBaseDbi](https://bioconductor.org/packages/3.20/bioc/html/LRBaseDbi.html)                                     | Unprocessed |
 | [LRcell](https://bioconductor.org/packages/3.20/bioc/html/LRcell.html)                                           | Unprocessed |
 | [LinTInd](https://bioconductor.org/packages/3.20/bioc/html/LinTInd.html)                                         | Unprocessed |
 | [LinkHD](https://bioconductor.org/packages/3.20/bioc/html/LinkHD.html)                                           | Unprocessed |
@@ -1495,7 +1498,6 @@
 | [Statial](https://bioconductor.org/packages/3.20/bioc/html/Statial.html)                                         | Unprocessed |
 | [StructuralVariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/StructuralVariantAnnotation.html) | Unprocessed |
 | [SubCellBarCode](https://bioconductor.org/packages/3.20/bioc/html/SubCellBarCode.html)                           | Unprocessed |
-| [SummarizedExperiment](https://bioconductor.org/packages/3.20/bioc/html/SummarizedExperiment.html)               | Unprocessed |
 | [SurfR](https://bioconductor.org/packages/3.20/bioc/html/SurfR.html)                                             | Unprocessed |
 | [SynMut](https://bioconductor.org/packages/3.20/bioc/html/SynMut.html)                                           | Unprocessed |
 | [TADCompare](https://bioconductor.org/packages/3.20/bioc/html/TADCompare.html)                                   | Unprocessed |
@@ -1762,7 +1764,6 @@
 | [factR](https://bioconductor.org/packages/3.20/bioc/html/factR.html)                                             | Unprocessed |
 | [famat](https://bioconductor.org/packages/3.20/bioc/html/famat.html)                                             | Unprocessed |
 | [fastLiquidAssociation](https://bioconductor.org/packages/3.20/bioc/html/fastLiquidAssociation.html)             | Unprocessed |
-| [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)                                         | Unprocessed |
 | [fcScan](https://bioconductor.org/packages/3.20/bioc/html/fcScan.html)                                           | Unprocessed |
 | [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                               | Unprocessed |
 | [findIPs](https://bioconductor.org/packages/3.20/bioc/html/findIPs.html)                                         | Unprocessed |
@@ -2026,7 +2027,6 @@
 | [proActiv](https://bioconductor.org/packages/3.20/bioc/html/proActiv.html)                                       | Unprocessed |
 | [proBAMr](https://bioconductor.org/packages/3.20/bioc/html/proBAMr.html)                                         | Unprocessed |
 | [proDA](https://bioconductor.org/packages/3.20/bioc/html/proDA.html)                                             | Unprocessed |
-| [procoil](https://bioconductor.org/packages/3.20/bioc/html/procoil.html)                                         | Unprocessed |
 | [profileplyr](https://bioconductor.org/packages/3.20/bioc/html/profileplyr.html)                                 | Unprocessed |
 | [protGear](https://bioconductor.org/packages/3.20/bioc/html/protGear.html)                                       | Unprocessed |
 | [psichomics](https://bioconductor.org/packages/3.20/bioc/html/psichomics.html)                                   | Unprocessed |
