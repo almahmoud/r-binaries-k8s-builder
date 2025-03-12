@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1082 packages built successfully
+- 1086 packages built successfully
 - 17 packages failed to build
-- 1134 packages not yet processed
+- 1130 packages not yet processed
 
 ## Failed Builds (17)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -29,7 +29,7 @@
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)       | Build failed with unknown error     |
 | [GeneGeneInteR](https://bioconductor.org/packages/3.20/bioc/html/GeneGeneInteR.html) | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GeneGeneInteR/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneGeneInteR) | Build failed with unknown error     |
 
-## Successfully Built (1082)
+## Successfully Built (1086)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1114,8 +1114,12 @@
 | [GenomAutomorphism](https://bioconductor.org/packages/3.20/bioc/html/GenomAutomorphism.html)                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/GenomAutomorphism/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomAutomorphism)         |
 | [TEQC](https://bioconductor.org/packages/3.20/bioc/html/TEQC.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/TEQC/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TEQC)                      |
 | [TFutils](https://bioconductor.org/packages/3.20/bioc/html/TFutils.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/TFutils/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TFutils)                   |
+| [FilterFFPE](https://bioconductor.org/packages/3.20/bioc/html/FilterFFPE.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/FilterFFPE/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/FilterFFPE)                |
+| [eudysbiome](https://bioconductor.org/packages/3.20/bioc/html/eudysbiome.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/eudysbiome/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/eudysbiome)                |
+| [graphite](https://bioconductor.org/packages/3.20/bioc/html/graphite.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/graphite/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/graphite)                  |
+| [riboSeqR](https://bioconductor.org/packages/3.20/bioc/html/riboSeqR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/riboSeqR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/riboSeqR)                  |
 
-## Not Yet Processed (1134)
+## Not Yet Processed (1130)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1301,7 +1305,6 @@
 | [FRASER](https://bioconductor.org/packages/3.20/bioc/html/FRASER.html)                                           | Unprocessed |
 | [FastqCleaner](https://bioconductor.org/packages/3.20/bioc/html/FastqCleaner.html)                               | Unprocessed |
 | [FeatSeekR](https://bioconductor.org/packages/3.20/bioc/html/FeatSeekR.html)                                     | Unprocessed |
-| [FilterFFPE](https://bioconductor.org/packages/3.20/bioc/html/FilterFFPE.html)                                   | Unprocessed |
 | [FindIT2](https://bioconductor.org/packages/3.20/bioc/html/FindIT2.html)                                         | Unprocessed |
 | [FuseSOM](https://bioconductor.org/packages/3.20/bioc/html/FuseSOM.html)                                         | Unprocessed |
 | [GA4GHclient](https://bioconductor.org/packages/3.20/bioc/html/GA4GHclient.html)                                 | Unprocessed |
@@ -1825,7 +1828,6 @@
 | [esATAC](https://bioconductor.org/packages/3.20/bioc/html/esATAC.html)                                           | Unprocessed |
 | [escape](https://bioconductor.org/packages/3.20/bioc/html/escape.html)                                           | Unprocessed |
 | [escheR](https://bioconductor.org/packages/3.20/bioc/html/escheR.html)                                           | Unprocessed |
-| [eudysbiome](https://bioconductor.org/packages/3.20/bioc/html/eudysbiome.html)                                   | Unprocessed |
 | [evaluomeR](https://bioconductor.org/packages/3.20/bioc/html/evaluomeR.html)                                     | Unprocessed |
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                                   | Unprocessed |
 | [fCCAC](https://bioconductor.org/packages/3.20/bioc/html/fCCAC.html)                                             | Unprocessed |
@@ -1871,7 +1873,6 @@
 | [goSorensen](https://bioconductor.org/packages/3.20/bioc/html/goSorensen.html)                                   | Unprocessed |
 | [goTools](https://bioconductor.org/packages/3.20/bioc/html/goTools.html)                                         | Unprocessed |
 | [goseq](https://bioconductor.org/packages/3.20/bioc/html/goseq.html)                                             | Unprocessed |
-| [graphite](https://bioconductor.org/packages/3.20/bioc/html/graphite.html)                                       | Unprocessed |
 | [groHMM](https://bioconductor.org/packages/3.20/bioc/html/groHMM.html)                                           | Unprocessed |
 | [gscreend](https://bioconductor.org/packages/3.20/bioc/html/gscreend.html)                                       | Unprocessed |
 | [gsean](https://bioconductor.org/packages/3.20/bioc/html/gsean.html)                                             | Unprocessed |
@@ -2096,7 +2097,6 @@
 | [rfPred](https://bioconductor.org/packages/3.20/bioc/html/rfPred.html)                                           | Unprocessed |
 | [rgsepd](https://bioconductor.org/packages/3.20/bioc/html/rgsepd.html)                                           | Unprocessed |
 | [rhdf5client](https://bioconductor.org/packages/3.20/bioc/html/rhdf5client.html)                                 | Unprocessed |
-| [riboSeqR](https://bioconductor.org/packages/3.20/bioc/html/riboSeqR.html)                                       | Unprocessed |
 | [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)                 | Unprocessed |
 | [rifi](https://bioconductor.org/packages/3.20/bioc/html/rifi.html)                                               | Unprocessed |
 | [rifiComparative](https://bioconductor.org/packages/3.20/bioc/html/rifiComparative.html)                         | Unprocessed |

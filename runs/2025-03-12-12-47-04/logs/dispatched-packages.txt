@@ -1329,3 +1329,9 @@ oposSOM
 ramwas
 seq2pathway
 tRNA
+CBNplot
+ReactomePA
+dce
+mogsa
+multiGSEA
+sSNAPPY

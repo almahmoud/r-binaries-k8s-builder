@@ -321,9 +321,7 @@
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "CBNplot": [
-    "graphite"
-  ],
+  "CBNplot": [],
   "CCPROMISE": [
     "PROMISE"
   ],
@@ -892,7 +890,6 @@
   ],
   "EnrichedHeatmap": [],
   "EnrichmentBrowser": [
-    "graphite",
     "safe"
   ],
   "EpiCompare": [
@@ -977,7 +974,6 @@
     "ShortRead"
   ],
   "FeatSeekR": [],
-  "FilterFFPE": [],
   "FindIT2": [
     "rtracklayer",
     "GenomicFeatures",
@@ -1052,7 +1048,6 @@
   "GRmetrics": [],
   "GSEABenchmarkeR": [
     "EnrichmentBrowser",
-    "graphite",
     "safe"
   ],
   "GSRI": [],
@@ -1472,8 +1467,7 @@
   ],
   "MIRit": [
     "MultiAssayExperiment",
-    "DESeq2",
-    "graphite"
+    "DESeq2"
   ],
   "MLInterfaces": [],
   "MLSeq": [
@@ -1488,7 +1482,6 @@
   ],
   "MOSClip": [
     "MultiAssayExperiment",
-    "graphite",
     "qpgraph",
     "GenomicFeatures",
     "rtracklayer"
@@ -1846,8 +1839,7 @@
   "PhosR": [],
   "PhyloProfile": [],
   "Pigengene": [
-    "ReactomePA",
-    "graphite"
+    "ReactomePA"
   ],
   "Pirat": [],
   "PolySTest": [],
@@ -2087,9 +2079,7 @@
   "RcisTarget": [
     "AUCell"
   ],
-  "ReactomePA": [
-    "graphite"
-  ],
+  "ReactomePA": [],
   "RegEnrich": [
     "DESeq2"
   ],
@@ -2852,7 +2842,6 @@
     "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
-    "graphite",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -3316,9 +3305,7 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "dce": [
-    "graphite"
-  ],
+  "dce": [],
   "ddPCRclust": [
     "flowPeaks"
   ],
@@ -3443,7 +3430,6 @@
     "zenith",
     "beachmat",
     "EnrichmentBrowser",
-    "graphite",
     "safe"
   ],
   "drugTargetInteractions": [
@@ -3599,7 +3585,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "eudysbiome": [],
   "evaluomeR": [
     "MultiAssayExperiment"
   ],
@@ -3714,8 +3699,7 @@
     "MultiAssayExperiment",
     "GenomicFeatures",
     "ReactomePA",
-    "rtracklayer",
-    "graphite"
+    "rtracklayer"
   ],
   "gage": [],
   "gcapc": [
@@ -3807,7 +3791,6 @@
   ],
   "gpuMagic": [],
   "graper": [],
-  "graphite": [],
   "groHMM": [
     "rtracklayer"
   ],
@@ -3882,8 +3865,7 @@
     "GEOquery",
     "ReactomePA",
     "rtracklayer",
-    "txdbmaker",
-    "graphite"
+    "txdbmaker"
   ],
   "iSEE": [
     "SingleCellExperiment"
@@ -4243,13 +4225,11 @@
   "miRNAmeConverter": [],
   "miRSM": [
     "BicARE",
-    "ReactomePA",
-    "graphite"
+    "ReactomePA"
   ],
   "miRspongeR": [
     "SPONGE",
-    "ReactomePA",
-    "graphite"
+    "ReactomePA"
   ],
   "mia": [
     "MultiAssayExperiment",
@@ -4334,9 +4314,7 @@
     "DESeq2",
     "rtracklayer"
   ],
-  "mogsa": [
-    "graphite"
-  ],
+  "mogsa": [],
   "monaLisa": [
     "TFBSTools",
     "BSgenome",
@@ -4423,9 +4401,7 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "multiGSEA": [
-    "graphite"
-  ],
+  "multiGSEA": [],
   "multiHiCcompare": [
     "HiCcompare",
     "InteractionSet"
@@ -4918,7 +4894,6 @@
     "txdbmaker"
   ],
   "rhdf5client": [],
-  "riboSeqR": [],
   "ribosomeProfilingQC": [
     "BSgenome",
     "EDASeq",
@@ -4959,9 +4934,7 @@
   ],
   "rtracklayer": [],
   "sRACIPE": [],
-  "sSNAPPY": [
-    "graphite"
-  ],
+  "sSNAPPY": [],
   "safe": [],
   "sampleClassifier": [
     "MGFR"
@@ -5110,8 +5083,7 @@
     "meshr",
     "GOstats",
     "ReactomePA",
-    "schex",
-    "graphite"
+    "schex"
   ],
   "scTreeViz": [
     "epivizr",
@@ -5739,7 +5711,6 @@
   ],
   "zenith": [
     "EnrichmentBrowser",
-    "graphite",
     "safe"
   ],
   "zinbwave": [

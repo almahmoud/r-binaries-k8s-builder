@@ -1,0 +1,6 @@
+CBNplot
+ReactomePA
+dce
+mogsa
+multiGSEA
+sSNAPPY
