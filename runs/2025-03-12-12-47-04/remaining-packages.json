@@ -3421,7 +3421,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "MsBackendMetaboLights": [],
   "MsBackendRawFileReader": [],
   "MsBackendSql": [],
   "MsDataHub": [
@@ -4028,7 +4027,6 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "R4RNA": [],
   "RAIDS": [
     "GENESIS",
     "GenomicRanges",
@@ -7854,9 +7852,7 @@
     "SeqArray",
     "GenomicRanges"
   ],
-  "ggmsa": [
-    "R4RNA"
-  ],
+  "ggmsa": [],
   "ggsc": [
     "SingleCellExperiment",
     "SummarizedExperiment",

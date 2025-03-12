@@ -243,6 +243,7 @@ MiChip
 MiPP
 ModCon
 MsBackendMassbank
+MsBackendMetaboLights
 MsBackendMgf
 MsBackendMsp
 MsCoreUtils
@@ -283,6 +284,7 @@ PoDCall
 ProtGenerics
 QUBIC
 QuaternaryProd
+R4RNA
 RAREsim
 RBGL
 RBM
