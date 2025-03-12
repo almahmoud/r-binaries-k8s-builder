@@ -69,7 +69,6 @@
   "ADaCGH2": [
     "GLAD",
     "tilingArray",
-    "aCGH",
     "affy",
     "vsn",
     "genefilter",
@@ -1927,9 +1926,7 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "CRImage": [
-    "aCGH"
-  ],
+  "CRImage": [],
   "CSAR": [
     "S4Vectors",
     "IRanges",
@@ -12599,7 +12596,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "aCGH": [],
   "adSplit": [
     "AnnotationDbi",
     "KEGGREST",
@@ -13035,7 +13031,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "anota": [],
   "anota2seq": [
     "DESeq2",
     "edgeR",
@@ -15029,7 +15024,6 @@
   ],
   "cosmosR": [
     "GSEABase",
-    "decoupleR",
     "annotate",
     "graph",
     "AnnotationDbi",
@@ -15722,7 +15716,6 @@
     "BiocIO",
     "KEGGREST"
   ],
-  "decoupleR": [],
   "deepSNV": [
     "IRanges",
     "GenomicRanges",
@@ -16159,7 +16152,6 @@
   "dupRadar": [],
   "easier": [
     "progeny",
-    "decoupleR",
     "quantiseqr",
     "DESeq2",
     "S4Vectors",
@@ -19358,7 +19350,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "metabomxtr": [],
   "metagene2": [
     "GenomicRanges",
     "rtracklayer",
@@ -19378,7 +19369,6 @@
   ],
   "metahdep": [],
   "metapod": [],
-  "metapone": [],
   "metaseqR2": [
     "DESeq2",
     "biomaRt",
@@ -22032,7 +22022,6 @@
     "affy",
     "GenomicFeatures",
     "AnnotationDbi",
-    "aCGH",
     "KEGGREST",
     "UCSC.utils",
     "Biostrings",
@@ -22178,9 +22167,7 @@
     "GOSemSim",
     "pwalign"
   ],
-  "progeny": [
-    "decoupleR"
-  ],
+  "progeny": [],
   "protGear": [
     "vsn",
     "genefilter",
@@ -22476,7 +22463,6 @@
     "GenomicRanges",
     "AnnotationDbi",
     "IRanges",
-    "aCGH",
     "S4Vectors",
     "KEGGREST",
     "UCSC.utils",
@@ -25466,7 +25452,6 @@
     "SparseArray"
   ],
   "tRanslatome": [
-    "anota",
     "DESeq2",
     "edgeR",
     "topGO",

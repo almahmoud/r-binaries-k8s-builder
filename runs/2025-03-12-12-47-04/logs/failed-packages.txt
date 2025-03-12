@@ -6,3 +6,4 @@ CytoGLMM
 affxparser
 ternarynet
 eiR
+flowPeaks

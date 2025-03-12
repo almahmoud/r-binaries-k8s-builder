@@ -237,6 +237,7 @@ a4Classif
 a4Core
 a4Preproc
 a4Reporting
+aCGH
 abseqR
 acde
 affxparser
@@ -246,6 +247,7 @@ agilp
 alabaster.schemas
 alevinQC
 annotationTools
+anota
 antiProfiles
 aroma.light
 arrayQuality
@@ -299,6 +301,7 @@ dcanr
 ddCt
 dearseq
 decontam
+decoupleR
 deltaGseg
 demuxmix
 densvis
@@ -325,6 +328,7 @@ fenr
 fgsea
 flowCyBar
 flowGraph
+flowPeaks
 flowPlots
 flowcatchR
 fmcsR
@@ -398,7 +402,9 @@ messina
 metaCCA
 metaSeq
 metabinR
+metabomxtr
 metagenomeSeq
+metapone
 mfa
 mgsa
 miRBaseConverter

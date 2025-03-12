@@ -1,7 +1,2 @@
-GSCA
-KCsmart
-MSstatsBig
-MSstatsTMT
-biomformat
-scMitoMut
-trio
+CRImage
+progeny
