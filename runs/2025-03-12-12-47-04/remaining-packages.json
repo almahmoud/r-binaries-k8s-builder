@@ -8265,9 +8265,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "NormqPCR": [
-    "ReadqPCR"
-  ],
+  "NormqPCR": [],
   "OCplus": [],
   "OGRE": [
     "S4Vectors",
@@ -9502,7 +9500,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "RIVER": [],
   "RImmPort": [],
   "RJMCMCNucleosomes": [
     "IRanges",
@@ -9862,7 +9859,6 @@
     "SparseArray"
   ],
   "RUVcorr": [],
-  "RVS": [],
   "RadioGx": [
     "CoreGx",
     "SummarizedExperiment",
@@ -10014,7 +10010,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "ReadqPCR": [],
   "RegEnrich": [
     "S4Vectors",
     "BiocSet",
@@ -19547,7 +19542,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "messina": [],
   "metaMS": [
     "CAMERA",
     "xcms",
@@ -20348,7 +20342,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "mirTarRnaSeq": [],
   "missMethyl": [
     "AnnotationDbi",
     "GenomicRanges",

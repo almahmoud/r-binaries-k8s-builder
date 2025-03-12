@@ -168,6 +168,7 @@ RAREsim
 RBM
 REBET
 RGSEA
+RIVER
 RLMM
 RNASeqPower
 RNAdecay
@@ -177,12 +178,14 @@ RRHO
 RSeqAn
 RTCGA
 RUVnormalize
+RVS
 RankProd
 Rbowtie
 Rbwa
 Rcollectl
 Rdisop
 ReactomeGSA
+ReadqPCR
 RedeR
 RedisParam
 Rfastp
@@ -374,6 +377,7 @@ massiR
 matchBox
 mbQTL
 mdqc
+messina
 metaCCA
 metaSeq
 metabinR
@@ -385,6 +389,7 @@ miRNApath
 miRcomp
 mina
 minet
+mirTarRnaSeq
 mistyR
 mixOmics
 multiClust
