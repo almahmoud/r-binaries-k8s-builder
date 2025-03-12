@@ -180,6 +180,7 @@ MeasurementError.cor
 Mergeomics
 MetID
 MethPed
+MethylMix
 Mfuzz
 MiChip
 MiPP
@@ -208,6 +209,7 @@ PCAN
 PLPE
 PROcess
 Path2PPI
+PathNet
 PepsNMR
 PhenStat
 PhenoGeneRanker
@@ -256,6 +258,7 @@ Rhtslib
 Rmagpie
 Rsubread
 Rtpca
+S4Vectors
 SANTA
 SBMLR
 SCBN
@@ -282,6 +285,7 @@ TPP2D
 TSAR
 TargetScore
 TargetSearch
+TrajectoryGeometry
 TreeAndLeaf
 UNDO
 VERSO
@@ -488,6 +492,7 @@ mixOmics
 multiClust
 multiscan
 multtest
+mzID
 nethet
 netprioR
 nnNorm
@@ -581,6 +586,7 @@ spkTools
 splots
 ssize
 ssrch
+statTarget
 stepNorm
 subSeq
 survcomp

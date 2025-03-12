@@ -605,3 +605,9 @@ FGNet
 GGPA
 mdp
 PepsNMR
+MethylMix
+mzID
+PathNet
+S4Vectors
+statTarget
+TrajectoryGeometry
