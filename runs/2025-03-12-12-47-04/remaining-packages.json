@@ -334,13 +334,11 @@
     "annotate"
   ],
   "BioGA": [],
-  "BioNAR": [],
   "BioNERO": [
     "sva",
     "genefilter",
     "annotate"
   ],
-  "BioNet": [],
   "BioTIP": [
     "scran",
     "SingleCellExperiment",
@@ -812,7 +810,6 @@
   "ClusterFoldSimilarity": [
     "SingleCellExperiment"
   ],
-  "CoCiteStats": [],
   "CoGAPS": [
     "SingleCellExperiment"
   ],
@@ -1823,7 +1820,6 @@
     "AnnotationFilter",
     "annotate"
   ],
-  "KEGGlincs": [],
   "KnowSeq": [
     "sva",
     "genefilter",
@@ -1852,7 +1848,6 @@
   "LinkHD": [
     "MultiAssayExperiment"
   ],
-  "LiquidAssociation": [],
   "LoomExperiment": [
     "SingleCellExperiment"
   ],
@@ -2029,8 +2024,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MODA": [],
-  "MOFA2": [],
   "MOMA": [
     "MultiAssayExperiment"
   ],
@@ -2116,7 +2109,6 @@
     "GenomicAlignments",
     "annotate"
   ],
-  "MeSHDbi": [],
   "Melissa": [
     "BPRMeth"
   ],
@@ -3085,7 +3077,6 @@
     "annotate"
   ],
   "SMITE": [
-    "BioNet",
     "goseq",
     "rtracklayer",
     "GenomicFeatures",
@@ -3479,7 +3470,6 @@
     "AnnotationFilter",
     "plyranges"
   ],
-  "UniProt.ws": [],
   "Uniquorn": [
     "VariantAnnotation",
     "rtracklayer",
@@ -4507,7 +4497,6 @@
     "GenomicAlignments"
   ],
   "dagLogo": [
-    "UniProt.ws",
     "biomaRt",
     "motifStack",
     "TFBSTools",
@@ -4700,7 +4689,6 @@
     "safe"
   ],
   "drugTargetInteractions": [
-    "UniProt.ws",
     "biomaRt",
     "ensembldb",
     "AnnotationFilter",
@@ -4955,9 +4943,7 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "fastLiquidAssociation": [
-    "LiquidAssociation"
-  ],
+  "fastLiquidAssociation": [],
   "fastseg": [],
   "fcScan": [
     "VariantAnnotation",
@@ -5067,9 +5053,7 @@
     "GenomicAlignments"
   ],
   "gage": [],
-  "gatom": [
-    "BioNet"
-  ],
+  "gatom": [],
   "gcapc": [
     "BSgenome",
     "GenomicAlignments",
@@ -5145,9 +5129,7 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "ginmappeR": [
-    "UniProt.ws"
-  ],
+  "ginmappeR": [],
   "girafe": [
     "ShortRead",
     "GenomicAlignments"
@@ -5408,9 +5390,7 @@
     "SingleCellExperiment"
   ],
   "immunoClust": [],
-  "immunogenViewer": [
-    "UniProt.ws"
-  ],
+  "immunogenViewer": [],
   "infercnv": [
     "SingleCellExperiment"
   ],
@@ -5551,7 +5531,6 @@
     "AnnotationFilter",
     "txdbmaker"
   ],
-  "maPredictDSC": [],
   "made4": [],
   "magpie": [
     "rtracklayer",
@@ -5596,11 +5575,9 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "AnnotationHub",
-    "MeSHDbi"
+    "AnnotationHub"
   ],
   "meshr": [
-    "MeSHDbi",
     "Category",
     "GSEABase",
     "genefilter",
@@ -6897,7 +6874,6 @@
   "scTensor": [
     "SingleCellExperiment",
     "AnnotationHub",
-    "MeSHDbi",
     "Category",
     "meshr",
     "GOstats",

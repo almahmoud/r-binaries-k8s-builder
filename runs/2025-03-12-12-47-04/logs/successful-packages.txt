@@ -880,3 +880,13 @@ maskBAD
 LRBaseDbi
 procoil
 SummarizedExperiment
+BioNAR
+BioNet
+CoCiteStats
+KEGGlincs
+LiquidAssociation
+maPredictDSC
+MeSHDbi
+MODA
+MOFA2
+UniProt.ws
