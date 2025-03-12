@@ -28,6 +28,7 @@ AnnotationHub
 AssessORF
 BADER
 BAGS
+BANDITS
 BCRANK
 BEclear
 BG2
@@ -194,6 +195,7 @@ GenomeInfoDb
 GenomicDataCommons
 GenomicRanges
 GenomicScores
+GenomicSuperSignature
 GenomicTuples
 GeomxTools
 GladiaTOX
@@ -333,6 +335,7 @@ PADOG
 PANR
 PCAN
 PIPETS
+PIUMA
 PLPE
 PREDA
 PROPER
@@ -575,6 +578,7 @@ copa
 covEB
 cqn
 crisprBase
+crisprScore
 ctc
 ctsGE
 customCMPdb
@@ -693,6 +697,7 @@ ggtreeExtra
 ggtreeSpace
 ginmappeR
 globalSeq
+goProfiles
 gpls
 gpuMagic
 granulator
@@ -982,6 +987,7 @@ tidySummarizedExperiment
 tidybulk
 tidysbml
 tidytof
+tigre
 timeOmics
 timecourse
 timescape

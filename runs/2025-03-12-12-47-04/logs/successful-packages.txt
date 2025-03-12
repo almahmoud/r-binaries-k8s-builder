@@ -1000,3 +1000,9 @@ BiocSet
 oligoClasses
 scifer
 ssviz
+BANDITS
+crisprScore
+GenomicSuperSignature
+goProfiles
+PIUMA
+tigre

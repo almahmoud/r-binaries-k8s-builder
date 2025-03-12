@@ -150,7 +150,6 @@
     "oligo",
     "affxparser"
   ],
-  "BANDITS": [],
   "BASiCS": [
     "SingleCellExperiment",
     "scran",
@@ -961,7 +960,6 @@
     "ShortRead"
   ],
   "DifferentialRegulation": [
-    "BANDITS",
     "SingleCellExperiment"
   ],
   "Dino": [
@@ -1428,7 +1426,6 @@
     "BSgenome",
     "biomaRt"
   ],
-  "GenomicSuperSignature": [],
   "GeoDiff": [],
   "GeoTcgaData": [],
   "Glimma": [
@@ -2208,7 +2205,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "PIUMA": [],
   "PLSDAbatch": [
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
@@ -3916,7 +3912,6 @@
   "crisprDesign": [
     "BSgenome",
     "crisprBowtie",
-    "crisprScore",
     "GenomicFeatures",
     "rtracklayer",
     "txdbmaker",
@@ -3924,11 +3919,9 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "crisprScore": [],
   "crisprShiny": [
     "BSgenome",
     "crisprDesign",
-    "crisprScore",
     "crisprViz",
     "rtracklayer",
     "crisprBowtie",
@@ -3944,7 +3937,6 @@
   ],
   "crisprVerse": [
     "crisprBowtie",
-    "crisprScore",
     "crisprDesign",
     "crisprViz",
     "BSgenome",
@@ -3967,7 +3959,6 @@
     "txdbmaker",
     "rtracklayer",
     "crisprBowtie",
-    "crisprScore",
     "VariantAnnotation",
     "biomaRt",
     "ensembldb",
@@ -4622,13 +4613,11 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "goProfiles": [],
   "goSTAG": [
     "biomaRt"
   ],
   "goSorensen": [
-    "clusterProfiler",
-    "goProfiles"
+    "clusterProfiler"
   ],
   "goTools": [],
   "goseq": [
@@ -6680,7 +6669,6 @@
     "GenomicAlignments",
     "SingleCellExperiment"
   ],
-  "tigre": [],
   "tilingArray": [
     "genefilter"
   ],
