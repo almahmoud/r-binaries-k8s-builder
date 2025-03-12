@@ -1098,3 +1098,7 @@
 ['[ProteoMM](https://bioconductor.org/packages/3.20/bioc/html/ProteoMM.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ProteoMM/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ProteoMM)']
 ['[h5vc](https://bioconductor.org/packages/3.20/bioc/html/h5vc.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/h5vc/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/h5vc)']
 ['[rTRM](https://bioconductor.org/packages/3.20/bioc/html/rTRM.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rTRM/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rTRM)']
+['[MBQN](https://bioconductor.org/packages/3.20/bioc/html/MBQN.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MBQN/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MBQN)']
+['[MICSQTL](https://bioconductor.org/packages/3.20/bioc/html/MICSQTL.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MICSQTL/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MICSQTL)']
+['[RepViz](https://bioconductor.org/packages/3.20/bioc/html/RepViz.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/RepViz/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RepViz)']
+['[SWATH2stats](https://bioconductor.org/packages/3.20/bioc/html/SWATH2stats.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SWATH2stats/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SWATH2stats)']

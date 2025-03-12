@@ -1098,3 +1098,7 @@ MouseFM
 OncoScore
 ProteoMM
 rTRM
+MBQN
+MICSQTL
+RepViz
+SWATH2stats

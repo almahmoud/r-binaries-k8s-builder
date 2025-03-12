@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1100 packages built successfully
+- 1104 packages built successfully
 - 18 packages failed to build
-- 1115 packages not yet processed
+- 1111 packages not yet processed
 
 ## Failed Builds (18)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -30,7 +30,7 @@
 | [GeneGeneInteR](https://bioconductor.org/packages/3.20/bioc/html/GeneGeneInteR.html) | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GeneGeneInteR/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneGeneInteR) | Build failed with unknown error     |
 | [microRNA](https://bioconductor.org/packages/3.20/bioc/html/microRNA.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/microRNA/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/microRNA)      | Build failed with unknown error     |
 
-## Successfully Built (1100)
+## Successfully Built (1104)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1133,8 +1133,12 @@
 | [ProteoMM](https://bioconductor.org/packages/3.20/bioc/html/ProteoMM.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/ProteoMM/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ProteoMM)                  |
 | [h5vc](https://bioconductor.org/packages/3.20/bioc/html/h5vc.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/h5vc/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/h5vc)                      |
 | [rTRM](https://bioconductor.org/packages/3.20/bioc/html/rTRM.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/rTRM/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rTRM)                      |
+| [MBQN](https://bioconductor.org/packages/3.20/bioc/html/MBQN.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/MBQN/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MBQN)                      |
+| [MICSQTL](https://bioconductor.org/packages/3.20/bioc/html/MICSQTL.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/MICSQTL/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MICSQTL)                   |
+| [RepViz](https://bioconductor.org/packages/3.20/bioc/html/RepViz.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/RepViz/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RepViz)                    |
+| [SWATH2stats](https://bioconductor.org/packages/3.20/bioc/html/SWATH2stats.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/SWATH2stats/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SWATH2stats)               |
 
-## Not Yet Processed (1115)
+## Not Yet Processed (1111)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1412,13 +1416,11 @@
 | [MANOR](https://bioconductor.org/packages/3.20/bioc/html/MANOR.html)                                             | Unprocessed |
 | [MAST](https://bioconductor.org/packages/3.20/bioc/html/MAST.html)                                               | Unprocessed |
 | [MBASED](https://bioconductor.org/packages/3.20/bioc/html/MBASED.html)                                           | Unprocessed |
-| [MBQN](https://bioconductor.org/packages/3.20/bioc/html/MBQN.html)                                               | Unprocessed |
 | [MEAL](https://bioconductor.org/packages/3.20/bioc/html/MEAL.html)                                               | Unprocessed |
 | [MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)                                               | Unprocessed |
 | [MEB](https://bioconductor.org/packages/3.20/bioc/html/MEB.html)                                                 | Unprocessed |
 | [MEDIPS](https://bioconductor.org/packages/3.20/bioc/html/MEDIPS.html)                                           | Unprocessed |
 | [MGnifyR](https://bioconductor.org/packages/3.20/bioc/html/MGnifyR.html)                                         | Unprocessed |
-| [MICSQTL](https://bioconductor.org/packages/3.20/bioc/html/MICSQTL.html)                                         | Unprocessed |
 | [MIRA](https://bioconductor.org/packages/3.20/bioc/html/MIRA.html)                                               | Unprocessed |
 | [MIRit](https://bioconductor.org/packages/3.20/bioc/html/MIRit.html)                                             | Unprocessed |
 | [MLInterfaces](https://bioconductor.org/packages/3.20/bioc/html/MLInterfaces.html)                               | Unprocessed |
@@ -1552,7 +1554,6 @@
 | [ReactomePA](https://bioconductor.org/packages/3.20/bioc/html/ReactomePA.html)                                   | Unprocessed |
 | [RegEnrich](https://bioconductor.org/packages/3.20/bioc/html/RegEnrich.html)                                     | Unprocessed |
 | [RegionalST](https://bioconductor.org/packages/3.20/bioc/html/RegionalST.html)                                   | Unprocessed |
-| [RepViz](https://bioconductor.org/packages/3.20/bioc/html/RepViz.html)                                           | Unprocessed |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)                                     | Unprocessed |
 | [ReportingTools](https://bioconductor.org/packages/3.20/bioc/html/ReportingTools.html)                           | Unprocessed |
 | [RgnTX](https://bioconductor.org/packages/3.20/bioc/html/RgnTX.html)                                             | Unprocessed |
@@ -1587,7 +1588,6 @@
 | [SPONGE](https://bioconductor.org/packages/3.20/bioc/html/SPONGE.html)                                           | Unprocessed |
 | [SPOTlight](https://bioconductor.org/packages/3.20/bioc/html/SPOTlight.html)                                     | Unprocessed |
 | [SPsimSeq](https://bioconductor.org/packages/3.20/bioc/html/SPsimSeq.html)                                       | Unprocessed |
-| [SWATH2stats](https://bioconductor.org/packages/3.20/bioc/html/SWATH2stats.html)                                 | Unprocessed |
 | [Scale4C](https://bioconductor.org/packages/3.20/bioc/html/Scale4C.html)                                         | Unprocessed |
 | [ScaledMatrix](https://bioconductor.org/packages/3.20/bioc/html/ScaledMatrix.html)                               | Unprocessed |
 | [SeqGSEA](https://bioconductor.org/packages/3.20/bioc/html/SeqGSEA.html)                                         | Unprocessed |

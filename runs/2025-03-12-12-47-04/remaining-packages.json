@@ -1399,7 +1399,6 @@
     "SingleCellExperiment"
   ],
   "MBASED": [],
-  "MBQN": [],
   "MEAL": [
     "MultiDataSet",
     "minfi",
@@ -1449,7 +1448,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "MICSQTL": [],
   "MIRA": [
     "bsseq",
     "BSgenome",
@@ -2080,7 +2078,6 @@
     "beachmat",
     "ScaledMatrix"
   ],
-  "RepViz": [],
   "Repitools": [
     "rtracklayer",
     "BSgenome"
@@ -2271,7 +2268,6 @@
   "SPsimSeq": [
     "SingleCellExperiment"
   ],
-  "SWATH2stats": [],
   "Scale4C": [],
   "ScaledMatrix": [],
   "SeqGSEA": [

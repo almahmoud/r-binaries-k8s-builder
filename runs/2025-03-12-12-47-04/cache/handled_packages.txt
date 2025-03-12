@@ -288,6 +288,7 @@ MAPFX
 MBAmethyl
 MBCB
 MBECS
+MBQN
 MBttest
 MCbiclust
 MDTS
@@ -295,6 +296,7 @@ MEDME
 MEIGOR
 MGFM
 MGFR
+MICSQTL
 MLP
 MMUPHin
 MODA
@@ -446,6 +448,7 @@ ReactomeGSA
 ReadqPCR
 RedeR
 RedisParam
+RepViz
 ResidualMatrix
 Rfastp
 Rgraphviz
@@ -484,6 +487,7 @@ STATegRa
 STRINGdb
 SUITOR
 SVMDO
+SWATH2stats
 SamSPECTRAL
 Sconify
 ScreenR
