@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1045 packages built successfully
+- 1046 packages built successfully
 - 16 packages failed to build
-- 1172 packages not yet processed
+- 1171 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (1045)
+## Successfully Built (1046)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1076,8 +1076,9 @@
 | [alabaster.files](https://bioconductor.org/packages/3.20/bioc/html/alabaster.files.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/alabaster.files/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.files)           |
 | [annmap](https://bioconductor.org/packages/3.20/bioc/html/annmap.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/annmap/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/annmap)                    |
 | [lefser](https://bioconductor.org/packages/3.20/bioc/html/lefser.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/lefser/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lefser)                    |
+| [TissueEnrich](https://bioconductor.org/packages/3.20/bioc/html/TissueEnrich.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/TissueEnrich/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TissueEnrich)              |
 
-## Not Yet Processed (1172)
+## Not Yet Processed (1171)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1621,7 +1622,6 @@
 | [TSCAN](https://bioconductor.org/packages/3.20/bioc/html/TSCAN.html)                                             | Unprocessed |
 | [TTMap](https://bioconductor.org/packages/3.20/bioc/html/TTMap.html)                                             | Unprocessed |
 | [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                               | Unprocessed |
-| [TissueEnrich](https://bioconductor.org/packages/3.20/bioc/html/TissueEnrich.html)                               | Unprocessed |
 | [TitanCNA](https://bioconductor.org/packages/3.20/bioc/html/TitanCNA.html)                                       | Unprocessed |
 | [ToxicoGx](https://bioconductor.org/packages/3.20/bioc/html/ToxicoGx.html)                                       | Unprocessed |
 | [TrajectoryUtils](https://bioconductor.org/packages/3.20/bioc/html/TrajectoryUtils.html)                         | Unprocessed |

@@ -1043,3 +1043,4 @@
 ['[alabaster.files](https://bioconductor.org/packages/3.20/bioc/html/alabaster.files.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/alabaster.files/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.files)']
 ['[annmap](https://bioconductor.org/packages/3.20/bioc/html/annmap.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/annmap/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/annmap)']
 ['[lefser](https://bioconductor.org/packages/3.20/bioc/html/lefser.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/lefser/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lefser)']
+['[TissueEnrich](https://bioconductor.org/packages/3.20/bioc/html/TissueEnrich.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/TissueEnrich/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TissueEnrich)']
