@@ -175,6 +175,7 @@ GenomicRanges
 GenomicTuples
 GeomxTools
 GladiaTOX
+GrafGen
 GraphAT
 GraphAlignment
 HDF5Array
@@ -627,6 +628,7 @@ iGC
 iPath
 iSeq
 ibh
+idpr
 idr2d
 igvShiny
 illuminaio

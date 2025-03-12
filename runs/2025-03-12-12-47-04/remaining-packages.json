@@ -6580,7 +6580,6 @@
   "idiogram": [
     "annotate"
   ],
-  "idpr": [],
   "igvR": [
     "GenomicAlignments",
     "rtracklayer",

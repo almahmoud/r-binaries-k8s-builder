@@ -4,11 +4,11 @@
 
 ## Summary
 
-- 868 packages built successfully
-- 14 packages failed to build
-- 1351 packages not yet processed
+- 869 packages built successfully
+- 15 packages failed to build
+- 1349 packages not yet processed
 
-## Failed Builds (14)
+## Failed Builds (15)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
 |------------------------------------------------------------------------------------|----------|------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
 | [CytoGLMM](https://bioconductor.org/packages/3.20/bioc/html/CytoGLMM.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/CytoGLMM/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CytoGLMM)     | Build failed with unknown error     |
@@ -25,8 +25,9 @@
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 | [immunoClust](https://bioconductor.org/packages/3.20/bioc/html/immunoClust.html)   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/immunoClust/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunoClust)  | Build failed with unknown error     |
+| [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 
-## Successfully Built (868)
+## Successfully Built (869)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -897,8 +898,9 @@
 | [pepStat](https://bioconductor.org/packages/3.20/bioc/html/pepStat.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/pepStat/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pepStat)                   |
 | [pqsfinder](https://bioconductor.org/packages/3.20/bioc/html/pqsfinder.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/pqsfinder/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pqsfinder)                 |
 | [kebabs](https://bioconductor.org/packages/3.20/bioc/html/kebabs.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/kebabs/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/kebabs)                    |
+| [idpr](https://bioconductor.org/packages/3.20/bioc/html/idpr.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/idpr/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/idpr)                      |
 
-## Not Yet Processed (1351)
+## Not Yet Processed (1349)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1174,7 +1176,6 @@
 | [GloScope](https://bioconductor.org/packages/3.20/bioc/html/GloScope.html)                                       | Unprocessed |
 | [GlobalAncova](https://bioconductor.org/packages/3.20/bioc/html/GlobalAncova.html)                               | Unprocessed |
 | [GmicR](https://bioconductor.org/packages/3.20/bioc/html/GmicR.html)                                             | Unprocessed |
-| [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)                                         | Unprocessed |
 | [GreyListChIP](https://bioconductor.org/packages/3.20/bioc/html/GreyListChIP.html)                               | Unprocessed |
 | [Guitar](https://bioconductor.org/packages/3.20/bioc/html/Guitar.html)                                           | Unprocessed |
 | [Gviz](https://bioconductor.org/packages/3.20/bioc/html/Gviz.html)                                               | Unprocessed |
@@ -1844,7 +1845,6 @@
 | [icetea](https://bioconductor.org/packages/3.20/bioc/html/icetea.html)                                           | Unprocessed |
 | [ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)                                             | Unprocessed |
 | [idiogram](https://bioconductor.org/packages/3.20/bioc/html/idiogram.html)                                       | Unprocessed |
-| [idpr](https://bioconductor.org/packages/3.20/bioc/html/idpr.html)                                               | Unprocessed |
 | [igvR](https://bioconductor.org/packages/3.20/bioc/html/igvR.html)                                               | Unprocessed |
 | [imcRtools](https://bioconductor.org/packages/3.20/bioc/html/imcRtools.html)                                     | Unprocessed |
 | [immApex](https://bioconductor.org/packages/3.20/bioc/html/immApex.html)                                         | Unprocessed |
