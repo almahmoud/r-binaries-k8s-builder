@@ -107,7 +107,7 @@ EOF
 
 echo "Waiting for indexing to complete..."
 # Wait for init container to finish
-kubectl wait --for=condition=ready pod \
+kubectl wait wait --for=condition=initialized=true pod \
   -l job-name=index-packages-${RUN_ID} \
   -n ${NAMESPACE} --timeout=7200s
 
