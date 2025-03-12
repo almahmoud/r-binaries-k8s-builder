@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1105 packages built successfully
+- 1107 packages built successfully
 - 18 packages failed to build
-- 1110 packages not yet processed
+- 1108 packages not yet processed
 
 ## Failed Builds (18)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -30,7 +30,7 @@
 | [GeneGeneInteR](https://bioconductor.org/packages/3.20/bioc/html/GeneGeneInteR.html) | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GeneGeneInteR/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneGeneInteR) | Build failed with unknown error     |
 | [microRNA](https://bioconductor.org/packages/3.20/bioc/html/microRNA.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/microRNA/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/microRNA)      | Build failed with unknown error     |
 
-## Successfully Built (1105)
+## Successfully Built (1107)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1138,8 +1138,10 @@
 | [RepViz](https://bioconductor.org/packages/3.20/bioc/html/RepViz.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/RepViz/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RepViz)                    |
 | [SWATH2stats](https://bioconductor.org/packages/3.20/bioc/html/SWATH2stats.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/SWATH2stats/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SWATH2stats)               |
 | [motifTestR](https://bioconductor.org/packages/3.20/bioc/html/motifTestR.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/motifTestR/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifTestR)                |
+| [LACE](https://bioconductor.org/packages/3.20/bioc/html/LACE.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/LACE/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/LACE)                      |
+| [VegaMC](https://bioconductor.org/packages/3.20/bioc/html/VegaMC.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/VegaMC/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VegaMC)                    |
 
-## Not Yet Processed (1110)
+## Not Yet Processed (1108)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1401,7 +1403,6 @@
 | [InteractionSet](https://bioconductor.org/packages/3.20/bioc/html/InteractionSet.html)                           | Unprocessed |
 | [IsoBayes](https://bioconductor.org/packages/3.20/bioc/html/IsoBayes.html)                                       | Unprocessed |
 | [IsoformSwitchAnalyzeR](https://bioconductor.org/packages/3.20/bioc/html/IsoformSwitchAnalyzeR.html)             | Unprocessed |
-| [LACE](https://bioconductor.org/packages/3.20/bioc/html/LACE.html)                                               | Unprocessed |
 | [LOBSTAHS](https://bioconductor.org/packages/3.20/bioc/html/LOBSTAHS.html)                                       | Unprocessed |
 | [LOLA](https://bioconductor.org/packages/3.20/bioc/html/LOLA.html)                                               | Unprocessed |
 | [LRcell](https://bioconductor.org/packages/3.20/bioc/html/LRcell.html)                                           | Unprocessed |
@@ -1659,7 +1660,6 @@
 | [VariantExperiment](https://bioconductor.org/packages/3.20/bioc/html/VariantExperiment.html)                     | Unprocessed |
 | [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)                       | Unprocessed |
 | [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                               | Unprocessed |
-| [VegaMC](https://bioconductor.org/packages/3.20/bioc/html/VegaMC.html)                                           | Unprocessed |
 | [VisiumIO](https://bioconductor.org/packages/3.20/bioc/html/VisiumIO.html)                                       | Unprocessed |
 | [Voyager](https://bioconductor.org/packages/3.20/bioc/html/Voyager.html)                                         | Unprocessed |
 | [VplotR](https://bioconductor.org/packages/3.20/bioc/html/VplotR.html)                                           | Unprocessed |

@@ -273,6 +273,7 @@ KEGGgraph
 KEGGlincs
 KinSwingR
 KnowSeq
+LACE
 LBE
 LEA
 LPE
@@ -537,6 +538,7 @@ UCSC.utils
 UNDO
 UniProt.ws
 VERSO
+VegaMC
 VennDetail
 Wrench
 XINA

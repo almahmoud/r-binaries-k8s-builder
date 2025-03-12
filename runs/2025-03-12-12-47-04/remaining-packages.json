@@ -1333,7 +1333,6 @@
     "ensembldb",
     "AnnotationFilter"
   ],
-  "LACE": [],
   "LOBSTAHS": [
     "xcms",
     "CAMERA",
@@ -2579,7 +2578,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "VegaMC": [],
   "VisiumIO": [
     "TENxIO",
     "SingleCellExperiment",
