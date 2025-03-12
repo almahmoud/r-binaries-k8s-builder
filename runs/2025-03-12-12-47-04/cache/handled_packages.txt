@@ -131,6 +131,7 @@ FISHalyseR
 FRGEpistasis
 FamAgg
 FitHiC
+FlowSOM
 GAprediction
 GEM
 GENIE3
@@ -351,7 +352,9 @@ Sconify
 ScreenR
 SharedObject
 SpaceMarkers
+SparseArray
 SpeCond
+Spectra
 Streamer
 Summix
 SwathXtend
@@ -437,6 +440,7 @@ coGPS
 cogena
 cola
 compSPOT
+compcodeR
 consensus
 convert
 copa
@@ -491,6 +495,7 @@ flowAI
 flowBeads
 flowCHIC
 flowClean
+flowClust
 flowCore
 flowCyBar
 flowGraph
@@ -611,6 +616,7 @@ mistyR
 mitch
 mixOmics
 mnem
+monocle
 mosbi
 msPurity
 multiClust
@@ -620,6 +626,7 @@ mzID
 mzR
 ncdfFlow
 ndexr
+nempi
 nethet
 netprioR
 netresponse

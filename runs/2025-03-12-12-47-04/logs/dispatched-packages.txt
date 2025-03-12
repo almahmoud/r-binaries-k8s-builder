@@ -784,3 +784,16 @@ SparseArray
 flowDensity
 flowFP
 nempi
+DelayedArray
+MetCirc
+MetaCyto
+MsBackendMassbank
+MsBackendMetaboLights
+MsBackendMgf
+MsBackendMsp
+MsBackendRawFileReader
+MsBackendSql
+SpectraQL
+flowMerge
+flowTrans
+uSORT

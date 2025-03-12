@@ -759,3 +759,10 @@ SIMD
 epiNEM
 scde
 SPIA
+compcodeR
+flowClust
+FlowSOM
+monocle
+nempi
+SparseArray
+Spectra
