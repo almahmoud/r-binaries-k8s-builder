@@ -1,0 +1,2 @@
+['[GLAD](https://bioconductor.org/packages/3.20/bioc/html/GLAD.html)', 'Failed', '[Log](runs/2025-03-12-12-47-04/logs/GLAD/build-fail.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GLAD)', 'Compilation failed:  ‘GLAD’']
+['[GeneticsPed](https://bioconductor.org/packages/3.20/bioc/html/GeneticsPed.html)', 'Failed', '[Log](runs/2025-03-12-12-47-04/logs/GeneticsPed/build-fail.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneticsPed)', 'Compilation failed:  ‘GeneticsPed’']
