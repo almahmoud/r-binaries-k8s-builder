@@ -101,6 +101,7 @@ GPA
 GRENITS
 GSALightning
 GSAR
+GSCA
 GSEAmining
 GSgalgoR
 GWAS.BAYES
@@ -140,9 +141,12 @@ LBE
 LPE
 LedPred
 Linnorm
+M3C
+MACSQuantifyR
 MBAmethyl
 MBCB
 MBttest
+MPFE
 MSstats
 MSstatsBig
 MSstatsConvert
@@ -396,6 +400,7 @@ ibh
 illuminaio
 immunotation
 interacCircos
+interactiveDisplayBase
 iterativeBMA
 iterativeBMAsurv
 koinar
@@ -425,6 +430,7 @@ metaSeq
 metabinR
 metabomxtr
 metagenomeSeq
+metahdep
 metapone
 mfa
 mgsa

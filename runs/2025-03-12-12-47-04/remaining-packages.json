@@ -4715,7 +4715,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "GSCA": [],
   "GSEABase": [
     "annotate",
     "graph",
@@ -6305,7 +6304,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "M3C": [],
   "M3Drop": [
     "scater",
     "SingleCellExperiment",
@@ -6324,7 +6322,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "MACSQuantifyR": [],
   "MACSr": [
     "S4Vectors",
     "ExperimentHub",
@@ -6951,7 +6948,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "MPFE": [],
   "MPRAnalyze": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -18537,7 +18533,6 @@
     "biomaRt"
   ],
   "interactiveDisplay": [
-    "interactiveDisplayBase",
     "Category",
     "AnnotationDbi",
     "IRanges",
@@ -18553,7 +18548,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "interactiveDisplayBase": [],
   "ipdDb": [
     "AnnotationDbi",
     "AnnotationHub",
@@ -19242,7 +19236,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "metahdep": [],
   "metapod": [],
   "metaseqR2": [
     "DESeq2",

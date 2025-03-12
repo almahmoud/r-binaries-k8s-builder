@@ -550,3 +550,9 @@ koinar
 piano
 RTopper
 SharedObject
+GSCA
+interactiveDisplayBase
+M3C
+MACSQuantifyR
+metahdep
+MPFE
