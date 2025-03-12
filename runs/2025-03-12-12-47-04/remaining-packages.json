@@ -4305,7 +4305,6 @@
     "CNEr",
     "rtracklayer"
   ],
-  "motifTestR": [],
   "motifbreakR": [
     "MotifDb",
     "BSgenome",

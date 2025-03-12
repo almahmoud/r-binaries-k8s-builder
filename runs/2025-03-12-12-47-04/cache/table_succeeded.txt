@@ -1102,3 +1102,4 @@
 ['[MICSQTL](https://bioconductor.org/packages/3.20/bioc/html/MICSQTL.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MICSQTL/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MICSQTL)']
 ['[RepViz](https://bioconductor.org/packages/3.20/bioc/html/RepViz.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/RepViz/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RepViz)']
 ['[SWATH2stats](https://bioconductor.org/packages/3.20/bioc/html/SWATH2stats.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SWATH2stats/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SWATH2stats)']
+['[motifTestR](https://bioconductor.org/packages/3.20/bioc/html/motifTestR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/motifTestR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifTestR)']

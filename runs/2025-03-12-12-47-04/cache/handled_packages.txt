@@ -885,6 +885,7 @@ mixOmics
 mnem
 monocle
 mosbi
+motifTestR
 motifcounter
 msPurity
 mslp
