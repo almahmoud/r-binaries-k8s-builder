@@ -165,6 +165,7 @@ GeneOverlap
 GeneSelectMMD
 GeneticsPed
 GenomeInfoDb
+GenomicRanges
 GladiaTOX
 GraphAT
 GraphAlignment
@@ -310,6 +311,7 @@ RNAseqCovarImpute
 ROC
 ROSeq
 ROTS
+ROntoTools
 RProtoBufLib
 RRHO
 RSeqAn
@@ -374,6 +376,7 @@ SpectraQL
 Streamer
 Summix
 SwathXtend
+SynExtend
 TMixClust
 TPP
 TPP2D
@@ -548,6 +551,7 @@ genoCN
 genomes
 geva
 ggkegg
+ggmsa
 ggtree
 ggtreeDendro
 ggtreeExtra
@@ -723,12 +727,14 @@ rmelting
 rnaseqcomp
 roastgsa
 rols
+rprimer
 rpx
 rqubic
 rsbml
 rsemmed
 sSeq
 sagenhaft
+sarks
 scBubbletree
 scFeatureFilter
 scMitoMut
@@ -737,6 +743,7 @@ scShapes
 scTHI
 scatterHatch
 scde
+scoup
 seahtrue
 semisup
 seq.hotSPOT
@@ -785,6 +792,7 @@ timescape
 tkWidgets
 tomoseqr
 topconfects
+transomics2cytoscape
 treeio
 trio
 tripr

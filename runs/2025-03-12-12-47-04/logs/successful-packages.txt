@@ -793,3 +793,11 @@ rfaRm
 rhinotypeR
 rSWeeP
 rRDP
+GenomicRanges
+ggmsa
+ROntoTools
+rprimer
+sarks
+scoup
+SynExtend
+transomics2cytoscape
