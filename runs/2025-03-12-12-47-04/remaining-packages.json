@@ -191,7 +191,6 @@
   "BUSseq": [
     "SingleCellExperiment"
   ],
-  "BaalChIP": [],
   "BadRegionFinder": [
     "VariantAnnotation",
     "biomaRt",
@@ -207,7 +206,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "BasicSTARRseq": [],
   "BatchQC": [
     "DESeq2",
     "EBSeq",
@@ -927,7 +925,6 @@
     "SingleCellExperiment",
     "orthogene"
   ],
-  "EasyCellType": [],
   "EnrichedHeatmap": [],
   "EnrichmentBrowser": [
     "graphite",
@@ -1270,7 +1267,6 @@
   "HTSFilter": [
     "DESeq2"
   ],
-  "HarmonizR": [],
   "Harshlight": [],
   "HelloRanges": [
     "BSgenome",
@@ -1413,7 +1409,6 @@
     "ensembldb",
     "AnnotationFilter"
   ],
-  "KnowSeq": [],
   "LACE": [
     "biomaRt"
   ],

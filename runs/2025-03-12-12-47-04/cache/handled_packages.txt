@@ -40,7 +40,9 @@ BPRMeth
 BRAIN
 BUS
 BUScorrect
+BaalChIP
 BaseSpaceR
+BasicSTARRseq
 BayesKnockdown
 BeadDataPackR
 BiFET
@@ -155,6 +157,7 @@ EBSeq
 EBarrays
 EBcoexpress
 EMDomics
+EasyCellType
 EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
@@ -225,6 +228,7 @@ HMMcopy
 HPAanalyze
 HPiP
 Harman
+HarmonizR
 Heatplus
 Herper
 HiCBricks
@@ -256,6 +260,7 @@ KEGGREST
 KEGGgraph
 KEGGlincs
 KinSwingR
+KnowSeq
 LBE
 LEA
 LPE
