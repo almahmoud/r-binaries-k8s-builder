@@ -475,6 +475,7 @@ fmrs
 fobitools
 frenchFISH
 frmaTools
+gDRstyle
 gaga
 garfield
 gcatest
