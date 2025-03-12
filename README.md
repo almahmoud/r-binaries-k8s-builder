@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 827 packages built successfully
+- 832 packages built successfully
 - 14 packages failed to build
-- 1392 packages not yet processed
+- 1387 packages not yet processed
 
 ## Failed Builds (14)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -26,7 +26,7 @@
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 | [immunoClust](https://bioconductor.org/packages/3.20/bioc/html/immunoClust.html)   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/immunoClust/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunoClust)  | Build failed with unknown error     |
 
-## Successfully Built (827)
+## Successfully Built (832)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -856,8 +856,13 @@
 | [bamsignals](https://bioconductor.org/packages/3.20/bioc/html/bamsignals.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/bamsignals/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bamsignals)                |
 | [NanoStringNCTools](https://bioconductor.org/packages/3.20/bioc/html/NanoStringNCTools.html)                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/NanoStringNCTools/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/NanoStringNCTools)         |
 | [scanMiR](https://bioconductor.org/packages/3.20/bioc/html/scanMiR.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/scanMiR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scanMiR)                   |
+| [Structstrings](https://bioconductor.org/packages/3.20/bioc/html/Structstrings.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/Structstrings/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Structstrings)             |
+| [clusterSeq](https://bioconductor.org/packages/3.20/bioc/html/clusterSeq.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/clusterSeq/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/clusterSeq)                |
+| [crisprBase](https://bioconductor.org/packages/3.20/bioc/html/crisprBase.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/crisprBase/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/crisprBase)                |
+| [geneRxCluster](https://bioconductor.org/packages/3.20/bioc/html/geneRxCluster.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/geneRxCluster/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/geneRxCluster)             |
+| [genomeIntervals](https://bioconductor.org/packages/3.20/bioc/html/genomeIntervals.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/genomeIntervals/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/genomeIntervals)           |
 
-## Not Yet Processed (1392)
+## Not Yet Processed (1387)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1457,7 +1462,6 @@
 | [SpotSweeper](https://bioconductor.org/packages/3.20/bioc/html/SpotSweeper.html)                                 | Unprocessed |
 | [StabMap](https://bioconductor.org/packages/3.20/bioc/html/StabMap.html)                                         | Unprocessed |
 | [Statial](https://bioconductor.org/packages/3.20/bioc/html/Statial.html)                                         | Unprocessed |
-| [Structstrings](https://bioconductor.org/packages/3.20/bioc/html/Structstrings.html)                             | Unprocessed |
 | [StructuralVariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/StructuralVariantAnnotation.html) | Unprocessed |
 | [SubCellBarCode](https://bioconductor.org/packages/3.20/bioc/html/SubCellBarCode.html)                           | Unprocessed |
 | [SummarizedExperiment](https://bioconductor.org/packages/3.20/bioc/html/SummarizedExperiment.html)               | Unprocessed |
@@ -1627,7 +1631,6 @@
 | [cliqueMS](https://bioconductor.org/packages/3.20/bioc/html/cliqueMS.html)                                       | Unprocessed |
 | [clusterExperiment](https://bioconductor.org/packages/3.20/bioc/html/clusterExperiment.html)                     | Unprocessed |
 | [clusterProfiler](https://bioconductor.org/packages/3.20/bioc/html/clusterProfiler.html)                         | Unprocessed |
-| [clusterSeq](https://bioconductor.org/packages/3.20/bioc/html/clusterSeq.html)                                   | Unprocessed |
 | [clustifyr](https://bioconductor.org/packages/3.20/bioc/html/clustifyr.html)                                     | Unprocessed |
 | [cmapR](https://bioconductor.org/packages/3.20/bioc/html/cmapR.html)                                             | Unprocessed |
 | [cn.farms](https://bioconductor.org/packages/3.20/bioc/html/cn.farms.html)                                       | Unprocessed |
@@ -1652,7 +1655,6 @@
 | [countsimQC](https://bioconductor.org/packages/3.20/bioc/html/countsimQC.html)                                   | Unprocessed |
 | [covRNA](https://bioconductor.org/packages/3.20/bioc/html/covRNA.html)                                           | Unprocessed |
 | [cpvSNP](https://bioconductor.org/packages/3.20/bioc/html/cpvSNP.html)                                           | Unprocessed |
-| [crisprBase](https://bioconductor.org/packages/3.20/bioc/html/crisprBase.html)                                   | Unprocessed |
 | [crisprBowtie](https://bioconductor.org/packages/3.20/bioc/html/crisprBowtie.html)                               | Unprocessed |
 | [crisprBwa](https://bioconductor.org/packages/3.20/bioc/html/crisprBwa.html)                                     | Unprocessed |
 | [crisprDesign](https://bioconductor.org/packages/3.20/bioc/html/crisprDesign.html)                               | Unprocessed |
@@ -1765,12 +1767,10 @@
 | [gcrma](https://bioconductor.org/packages/3.20/bioc/html/gcrma.html)                                             | Unprocessed |
 | [gemma.R](https://bioconductor.org/packages/3.20/bioc/html/gemma.R.html)                                         | Unprocessed |
 | [geneAttribution](https://bioconductor.org/packages/3.20/bioc/html/geneAttribution.html)                         | Unprocessed |
-| [geneRxCluster](https://bioconductor.org/packages/3.20/bioc/html/geneRxCluster.html)                             | Unprocessed |
 | [geneXtendeR](https://bioconductor.org/packages/3.20/bioc/html/geneXtendeR.html)                                 | Unprocessed |
 | [genefilter](https://bioconductor.org/packages/3.20/bioc/html/genefilter.html)                                   | Unprocessed |
 | [geneplotter](https://bioconductor.org/packages/3.20/bioc/html/geneplotter.html)                                 | Unprocessed |
 | [genomation](https://bioconductor.org/packages/3.20/bioc/html/genomation.html)                                   | Unprocessed |
-| [genomeIntervals](https://bioconductor.org/packages/3.20/bioc/html/genomeIntervals.html)                         | Unprocessed |
 | [genomicInstability](https://bioconductor.org/packages/3.20/bioc/html/genomicInstability.html)                   | Unprocessed |
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                                     | Unprocessed |
 | [gep2pep](https://bioconductor.org/packages/3.20/bioc/html/gep2pep.html)                                         | Unprocessed |

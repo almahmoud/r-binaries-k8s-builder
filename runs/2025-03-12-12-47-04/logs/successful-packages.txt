@@ -825,3 +825,8 @@ FELLA
 IMMAN
 NanoStringNCTools
 scanMiR
+clusterSeq
+crisprBase
+geneRxCluster
+genomeIntervals
+Structstrings

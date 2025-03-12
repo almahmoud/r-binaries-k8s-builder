@@ -1605,7 +1605,6 @@
     "txdbmaker",
     "tRNAdbImport",
     "rtracklayer",
-    "Structstrings",
     "tRNA",
     "biomaRt",
     "Rsamtools",
@@ -4402,7 +4401,6 @@
     "treekoR",
     "diffcyt"
   ],
-  "Structstrings": [],
   "StructuralVariantAnnotation": [
     "rtracklayer",
     "VariantAnnotation",
@@ -5687,7 +5685,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "clusterSeq": [],
   "clustifyr": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -5862,10 +5859,8 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "crisprBase": [],
   "crisprBowtie": [
     "BSgenome",
-    "crisprBase",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -5873,14 +5868,12 @@
   ],
   "crisprBwa": [
     "BSgenome",
-    "crisprBase",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
   "crisprDesign": [
-    "crisprBase",
     "AnnotationDbi",
     "BSgenome",
     "crisprBowtie",
@@ -5903,7 +5896,6 @@
   ],
   "crisprShiny": [
     "BSgenome",
-    "crisprBase",
     "crisprDesign",
     "crisprScore",
     "crisprViz",
@@ -5925,7 +5917,6 @@
     "AnnotationFilter"
   ],
   "crisprVerse": [
-    "crisprBase",
     "crisprBowtie",
     "crisprScore",
     "crisprDesign",
@@ -5948,7 +5939,6 @@
     "AnnotationFilter"
   ],
   "crisprViz": [
-    "crisprBase",
     "crisprDesign",
     "BSgenome",
     "GenomicFeatures",
@@ -6330,7 +6320,6 @@
   ],
   "easyRNASeq": [
     "biomaRt",
-    "genomeIntervals",
     "GenomicAlignments",
     "SummarizedExperiment",
     "Rsamtools",
@@ -6812,7 +6801,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "geneRxCluster": [],
   "geneXtendeR": [
     "rtracklayer",
     "AnnotationDbi",
@@ -6836,7 +6824,6 @@
     "rtracklayer",
     "SummarizedExperiment"
   ],
-  "genomeIntervals": [],
   "genomicInstability": [
     "SummarizedExperiment"
   ],
@@ -6909,7 +6896,6 @@
   "girafe": [
     "Rsamtools",
     "ShortRead",
-    "genomeIntervals",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
@@ -8027,7 +8013,6 @@
     "SummarizedExperiment",
     "rtracklayer",
     "biomaRt",
-    "genomeIntervals",
     "ShortRead",
     "AnnotationDbi",
     "biovizBase",
@@ -9941,17 +9926,14 @@
     "GenomicAlignments"
   ],
   "tRNA": [
-    "Structstrings",
     "Modstrings"
   ],
   "tRNAdbImport": [
     "Modstrings",
-    "Structstrings",
     "tRNA"
   ],
   "tRNAscanImport": [
     "tRNA",
-    "Structstrings",
     "rtracklayer",
     "BSgenome",
     "Rsamtools",

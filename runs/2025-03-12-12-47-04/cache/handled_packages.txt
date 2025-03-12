@@ -385,6 +385,7 @@ SpeCond
 Spectra
 SpectraQL
 Streamer
+Structstrings
 Summix
 SwathXtend
 SynExtend
@@ -472,6 +473,7 @@ clippda
 clst
 clstutils
 clustComp
+clusterSeq
 clusterStab
 coGPS
 coRdon
@@ -484,6 +486,7 @@ convert
 copa
 covEB
 cqn
+crisprBase
 ctc
 ctsGE
 cycle
@@ -565,8 +568,10 @@ gemini
 genArise
 geneClassifiers
 geneRecommender
+geneRxCluster
 geneplast
 genoCN
+genomeIntervals
 genomes
 geva
 ggkegg
