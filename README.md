@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 706 packages built successfully
+- 707 packages built successfully
 - 12 packages failed to build
-- 1515 packages not yet processed
+- 1514 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [graper](https://bioconductor.org/packages/3.20/bioc/html/graper.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/graper/build-fail.log)       | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/graper)    | Build failed with unknown error     |
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 
-## Successfully Built (706)
+## Successfully Built (707)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -733,8 +733,9 @@
 | [CNORfeeder](https://bioconductor.org/packages/3.20/bioc/html/CNORfeeder.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/CNORfeeder/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNORfeeder)              |
 | [CNORfuzzy](https://bioconductor.org/packages/3.20/bioc/html/CNORfuzzy.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/CNORfuzzy/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNORfuzzy)               |
 | [CNORode](https://bioconductor.org/packages/3.20/bioc/html/CNORode.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/CNORode/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNORode)                 |
+| [NCIgraph](https://bioconductor.org/packages/3.20/bioc/html/NCIgraph.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/NCIgraph/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/NCIgraph)                |
 
-## Not Yet Processed (1515)
+## Not Yet Processed (1514)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1190,7 +1191,6 @@
 | [MutationalPatterns](https://bioconductor.org/packages/3.20/bioc/html/MutationalPatterns.html)                   | Unprocessed |
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                     | Unprocessed |
 | [NBAMSeq](https://bioconductor.org/packages/3.20/bioc/html/NBAMSeq.html)                                         | Unprocessed |
-| [NCIgraph](https://bioconductor.org/packages/3.20/bioc/html/NCIgraph.html)                                       | Unprocessed |
 | [NanoMethViz](https://bioconductor.org/packages/3.20/bioc/html/NanoMethViz.html)                                 | Unprocessed |
 | [NanoStringNCTools](https://bioconductor.org/packages/3.20/bioc/html/NanoStringNCTools.html)                     | Unprocessed |
 | [Nebulosa](https://bioconductor.org/packages/3.20/bioc/html/Nebulosa.html)                                       | Unprocessed |

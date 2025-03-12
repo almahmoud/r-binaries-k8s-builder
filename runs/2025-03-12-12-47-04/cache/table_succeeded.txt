@@ -704,3 +704,4 @@
 ['[CNORfeeder](https://bioconductor.org/packages/3.20/bioc/html/CNORfeeder.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CNORfeeder/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNORfeeder)']
 ['[CNORfuzzy](https://bioconductor.org/packages/3.20/bioc/html/CNORfuzzy.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CNORfuzzy/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNORfuzzy)']
 ['[CNORode](https://bioconductor.org/packages/3.20/bioc/html/CNORode.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CNORode/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNORode)']
+['[NCIgraph](https://bioconductor.org/packages/3.20/bioc/html/NCIgraph.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/NCIgraph/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/NCIgraph)']

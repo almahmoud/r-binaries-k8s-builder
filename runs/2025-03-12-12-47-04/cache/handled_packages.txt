@@ -224,6 +224,7 @@ ModCon
 MsCoreUtils
 Mulcom
 MultiMed
+NCIgraph
 NOISeq
 NPARC
 NTW

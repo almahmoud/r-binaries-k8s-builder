@@ -2190,9 +2190,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "DEGraph": [
-    "NCIgraph"
-  ],
+  "DEGraph": [],
   "DEGreport": [
     "DESeq2",
     "SummarizedExperiment",
@@ -5896,7 +5894,6 @@
     "XVector",
     "Biostrings"
   ],
-  "NCIgraph": [],
   "NanoMethViz": [
     "SummarizedExperiment",
     "BiocSingular",

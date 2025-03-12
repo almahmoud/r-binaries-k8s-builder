@@ -775,3 +775,4 @@ cola
 gDRstyle
 simona
 MEIGOR
+DEGraph
