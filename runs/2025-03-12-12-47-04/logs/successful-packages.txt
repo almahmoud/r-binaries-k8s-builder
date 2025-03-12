@@ -859,3 +859,9 @@ cogeqc
 TDbasedUFE
 AnnotationDbi
 seqPattern
+alabaster.ranges
+gcrma
+GenomicTuples
+pepStat
+pqsfinder
+TnT

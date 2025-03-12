@@ -992,3 +992,6 @@ rTRM
 safe
 simplifyEnrichment
 topGO
+affyPLM
+maPredictDSC
+maskBAD

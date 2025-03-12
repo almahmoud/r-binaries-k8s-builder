@@ -172,6 +172,7 @@ GeneSelectMMD
 GeneticsPed
 GenomeInfoDb
 GenomicRanges
+GenomicTuples
 GeomxTools
 GladiaTOX
 GraphAT
@@ -409,6 +410,7 @@ TargetDecoy
 TargetScore
 TargetSearch
 TileDBArray
+TnT
 TrajectoryGeometry
 TreeAndLeaf
 TurboNorm
@@ -434,6 +436,7 @@ affyio
 agilp
 alabaster.base
 alabaster.bumpy
+alabaster.ranges
 alabaster.schemas
 alabaster.string
 alevinQC
@@ -576,6 +579,7 @@ gDRstyle
 gaga
 garfield
 gcatest
+gcrma
 gdsfmt
 geNetClassifier
 gemini
@@ -723,6 +727,7 @@ pathifier
 pathwayPCA
 pcaMethods
 pengls
+pepStat
 pepXMLTab
 pfamAnalyzeR
 pgca
@@ -738,6 +743,7 @@ plotGrouper
 pmm
 powerTCR
 ppcseq
+pqsfinder
 preprocessCore
 profileScoreDist
 progeny
