@@ -921,8 +921,10 @@ oncoscanR
 onlineFDR
 ontoProc
 openPrimeR
+oposSOM
 oppti
 optimalFlow
+orthos
 packFinder
 paircompviz
 pandaR

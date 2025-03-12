@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1114 packages built successfully
+- 1116 packages built successfully
 - 18 packages failed to build
-- 1101 packages not yet processed
+- 1099 packages not yet processed
 
 ## Failed Builds (18)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -30,7 +30,7 @@
 | [GeneGeneInteR](https://bioconductor.org/packages/3.20/bioc/html/GeneGeneInteR.html) | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GeneGeneInteR/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneGeneInteR) | Build failed with unknown error     |
 | [microRNA](https://bioconductor.org/packages/3.20/bioc/html/microRNA.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/microRNA/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/microRNA)      | Build failed with unknown error     |
 
-## Successfully Built (1114)
+## Successfully Built (1116)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1147,8 +1147,10 @@
 | [combi](https://bioconductor.org/packages/3.20/bioc/html/combi.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/combi/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/combi)                     |
 | [goSTAG](https://bioconductor.org/packages/3.20/bioc/html/goSTAG.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/goSTAG/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/goSTAG)                    |
 | [sampleClassifier](https://bioconductor.org/packages/3.20/bioc/html/sampleClassifier.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/sampleClassifier/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sampleClassifier)          |
+| [oposSOM](https://bioconductor.org/packages/3.20/bioc/html/oposSOM.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/oposSOM/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/oposSOM)                   |
+| [orthos](https://bioconductor.org/packages/3.20/bioc/html/orthos.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/orthos/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/orthos)                    |
 
-## Not Yet Processed (1101)
+## Not Yet Processed (1099)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -2027,10 +2029,8 @@
 | [omicsViewer](https://bioconductor.org/packages/3.20/bioc/html/omicsViewer.html)                                 | Unprocessed |
 | [oncomix](https://bioconductor.org/packages/3.20/bioc/html/oncomix.html)                                         | Unprocessed |
 | [openCyto](https://bioconductor.org/packages/3.20/bioc/html/openCyto.html)                                       | Unprocessed |
-| [oposSOM](https://bioconductor.org/packages/3.20/bioc/html/oposSOM.html)                                         | Unprocessed |
 | [oppar](https://bioconductor.org/packages/3.20/bioc/html/oppar.html)                                             | Unprocessed |
 | [orthogene](https://bioconductor.org/packages/3.20/bioc/html/orthogene.html)                                     | Unprocessed |
-| [orthos](https://bioconductor.org/packages/3.20/bioc/html/orthos.html)                                           | Unprocessed |
 | [pRoloc](https://bioconductor.org/packages/3.20/bioc/html/pRoloc.html)                                           | Unprocessed |
 | [pRolocGUI](https://bioconductor.org/packages/3.20/bioc/html/pRolocGUI.html)                                     | Unprocessed |
 | [padma](https://bioconductor.org/packages/3.20/bioc/html/padma.html)                                             | Unprocessed |

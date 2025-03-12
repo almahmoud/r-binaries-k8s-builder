@@ -4521,7 +4521,6 @@
   "openCyto": [
     "flowWorkspace"
   ],
-  "oposSOM": [],
   "oppar": [
     "GSVA",
     "SingleCellExperiment",
@@ -4531,7 +4530,6 @@
     "beachmat"
   ],
   "orthogene": [],
-  "orthos": [],
   "pRoloc": [
     "MSnbase",
     "MLInterfaces",

@@ -1112,3 +1112,5 @@ combi
 CoSIA
 goSTAG
 sampleClassifier
+oposSOM
+orthos
