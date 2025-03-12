@@ -5,3 +5,4 @@ NetPathMiner
 CytoGLMM
 affxparser
 ternarynet
+eiR

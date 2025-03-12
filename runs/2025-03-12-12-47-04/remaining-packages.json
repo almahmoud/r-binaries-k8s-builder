@@ -7182,7 +7182,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedArray",
     "DelayedMatrixStats",
     "DirichletMultinomial",
@@ -12853,7 +12852,6 @@
     "XVector"
   ],
   "TurboNorm": [
-    "convert",
     "affy",
     "preprocessCore"
   ],
@@ -15775,7 +15773,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "cogena": [],
   "cogeqc": [
     "Biostrings",
     "S4Vectors",
@@ -16009,8 +16006,6 @@
     "Rhtslib",
     "KEGGREST"
   ],
-  "convert": [],
-  "copa": [],
   "corral": [
     "MultiAssayExperiment",
     "SingleCellExperiment",
@@ -16104,7 +16099,6 @@
     "XVector",
     "Biostrings"
   ],
-  "covEB": [],
   "covRNA": [
     "genefilter",
     "AnnotationDbi",
@@ -16658,7 +16652,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedArray",
     "DelayedMatrixStats",
     "DirichletMultinomial",
@@ -16699,7 +16692,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "ddCt": [],
   "ddPCRclust": [
     "flowCore",
     "flowDensity",
@@ -16797,7 +16789,6 @@
     "bluster",
     "metapod"
   ],
-  "decontam": [],
   "deconvR": [
     "S4Vectors",
     "methylKit",
@@ -17089,7 +17080,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "discordant": [],
   "distinct": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -18020,7 +18010,6 @@
     "SparseArray"
   ],
   "fCI": [],
-  "fabia": [],
   "factDesign": [],
   "factR": [
     "Biostrings",
@@ -19310,9 +19299,7 @@
     "Rhdf5lib",
     "rhdf5filters"
   ],
-  "hapFabia": [
-    "fabia"
-  ],
+  "hapFabia": [],
   "hdxmsqc": [
     "QFeatures",
     "S4Vectors",
@@ -19725,7 +19712,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedArray",
     "DelayedMatrixStats",
     "DirichletMultinomial",
@@ -21263,7 +21249,6 @@
     "UCSC.utils"
   ],
   "miRSM": [
-    "fabia",
     "iBBiG",
     "BicARE",
     "SummarizedExperiment",
@@ -21319,7 +21304,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedArray",
     "DelayedMatrixStats",
     "DirichletMultinomial",
@@ -21368,7 +21352,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedMatrixStats",
     "scuttle",
     "beachmat",
@@ -21747,7 +21730,6 @@
     "SparseArray"
   ],
   "mosbi": [
-    "fabia",
     "QUBIC"
   ],
   "mosdef": [
@@ -23758,7 +23740,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "profileScoreDist": [],
   "profileplyr": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -24296,7 +24277,6 @@
     "rawrr"
   ],
   "rawrr": [],
-  "rcellminer": [],
   "rebook": [
     "graph"
   ],

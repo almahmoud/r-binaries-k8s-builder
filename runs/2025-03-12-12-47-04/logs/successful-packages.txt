@@ -319,3 +319,13 @@ rain
 cancerclass
 clippda
 subSeq
+cogena
+convert
+copa
+covEB
+ddCt
+decontam
+discordant
+fabia
+profileScoreDist
+rcellminer
