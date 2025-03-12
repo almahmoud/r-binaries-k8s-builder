@@ -630,3 +630,5 @@ ExiMiR
 parglms
 Rnits
 metabCombiner
+RcwlPipelines
+sevenbridges

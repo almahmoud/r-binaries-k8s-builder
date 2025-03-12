@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 632 packages built successfully
+- 634 packages built successfully
 - 11 packages failed to build
-- 1590 packages not yet processed
+- 1588 packages not yet processed
 
 ## Failed Builds (11)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -23,7 +23,7 @@
 | [gpuMagic](https://bioconductor.org/packages/3.20/bioc/html/gpuMagic.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/gpuMagic/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gpuMagic)     | Compilation failed:  ‘gpuMagic’     |
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
 
-## Successfully Built (632)
+## Successfully Built (634)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -658,8 +658,10 @@
 | [Rnits](https://bioconductor.org/packages/3.20/bioc/html/Rnits.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/Rnits/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rnits)                   |
 | [parglms](https://bioconductor.org/packages/3.20/bioc/html/parglms.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/parglms/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/parglms)                 |
 | [metabCombiner](https://bioconductor.org/packages/3.20/bioc/html/metabCombiner.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/metabCombiner/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/metabCombiner)           |
+| [RcwlPipelines](https://bioconductor.org/packages/3.20/bioc/html/RcwlPipelines.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/RcwlPipelines/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RcwlPipelines)           |
+| [sevenbridges](https://bioconductor.org/packages/3.20/bioc/html/sevenbridges.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/sevenbridges/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sevenbridges)            |
 
-## Not Yet Processed (1590)
+## Not Yet Processed (1588)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1254,7 +1256,6 @@
 | [Rbowtie2](https://bioconductor.org/packages/3.20/bioc/html/Rbowtie2.html)                                       | Unprocessed |
 | [RcisTarget](https://bioconductor.org/packages/3.20/bioc/html/RcisTarget.html)                                   | Unprocessed |
 | [Rcpi](https://bioconductor.org/packages/3.20/bioc/html/Rcpi.html)                                               | Unprocessed |
-| [RcwlPipelines](https://bioconductor.org/packages/3.20/bioc/html/RcwlPipelines.html)                             | Unprocessed |
 | [ReUseData](https://bioconductor.org/packages/3.20/bioc/html/ReUseData.html)                                     | Unprocessed |
 | [ReactomePA](https://bioconductor.org/packages/3.20/bioc/html/ReactomePA.html)                                   | Unprocessed |
 | [RegEnrich](https://bioconductor.org/packages/3.20/bioc/html/RegEnrich.html)                                     | Unprocessed |
@@ -2126,7 +2127,6 @@
 | [seqsetvis](https://bioconductor.org/packages/3.20/bioc/html/seqsetvis.html)                                     | Unprocessed |
 | [sesame](https://bioconductor.org/packages/3.20/bioc/html/sesame.html)                                           | Unprocessed |
 | [sevenC](https://bioconductor.org/packages/3.20/bioc/html/sevenC.html)                                           | Unprocessed |
-| [sevenbridges](https://bioconductor.org/packages/3.20/bioc/html/sevenbridges.html)                               | Unprocessed |
 | [shinyMethyl](https://bioconductor.org/packages/3.20/bioc/html/shinyMethyl.html)                                 | Unprocessed |
 | [shinyepico](https://bioconductor.org/packages/3.20/bioc/html/shinyepico.html)                                   | Unprocessed |
 | [sigFeature](https://bioconductor.org/packages/3.20/bioc/html/sigFeature.html)                                   | Unprocessed |

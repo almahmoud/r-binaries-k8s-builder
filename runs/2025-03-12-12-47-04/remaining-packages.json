@@ -8378,10 +8378,7 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "RcwlPipelines": [],
-  "ReUseData": [
-    "RcwlPipelines"
-  ],
+  "ReUseData": [],
   "ReactomePA": [
     "AnnotationDbi",
     "DOSE",
@@ -20850,7 +20847,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "sevenbridges": [],
   "shinyMethyl": [
     "minfi",
     "GenomicRanges",

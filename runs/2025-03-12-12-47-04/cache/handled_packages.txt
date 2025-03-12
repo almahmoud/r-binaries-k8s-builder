@@ -259,6 +259,7 @@ Rbowtie
 Rbwa
 Rcollectl
 Rcwl
+RcwlPipelines
 Rdisop
 ReactomeGSA
 ReadqPCR
@@ -585,6 +586,7 @@ seq.hotSPOT
 seqLogo
 seqTools
 seqcombo
+sevenbridges
 shiny.gosling
 siggenes
 sights
