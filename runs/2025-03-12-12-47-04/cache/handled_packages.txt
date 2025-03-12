@@ -475,6 +475,7 @@ flowMeans
 flowPeaks
 flowPloidy
 flowPlots
+flowSpecs
 flowcatchR
 fmcsR
 fmrs

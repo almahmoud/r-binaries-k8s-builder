@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 721 packages built successfully
+- 722 packages built successfully
 - 13 packages failed to build
-- 1499 packages not yet processed
+- 1498 packages not yet processed
 
 ## Failed Builds (13)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -25,7 +25,7 @@
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 
-## Successfully Built (721)
+## Successfully Built (722)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -749,8 +749,9 @@
 | [flowMeans](https://bioconductor.org/packages/3.20/bioc/html/flowMeans.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowMeans/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowMeans)               |
 | [MEIGOR](https://bioconductor.org/packages/3.20/bioc/html/MEIGOR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/MEIGOR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MEIGOR)                  |
 | [flowPloidy](https://bioconductor.org/packages/3.20/bioc/html/flowPloidy.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowPloidy/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowPloidy)              |
+| [flowSpecs](https://bioconductor.org/packages/3.20/bioc/html/flowSpecs.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowSpecs/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowSpecs)               |
 
-## Not Yet Processed (1499)
+## Not Yet Processed (1498)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1709,7 +1710,6 @@
 | [flowFP](https://bioconductor.org/packages/3.20/bioc/html/flowFP.html)                                           | Unprocessed |
 | [flowGate](https://bioconductor.org/packages/3.20/bioc/html/flowGate.html)                                       | Unprocessed |
 | [flowMerge](https://bioconductor.org/packages/3.20/bioc/html/flowMerge.html)                                     | Unprocessed |
-| [flowSpecs](https://bioconductor.org/packages/3.20/bioc/html/flowSpecs.html)                                     | Unprocessed |
 | [flowStats](https://bioconductor.org/packages/3.20/bioc/html/flowStats.html)                                     | Unprocessed |
 | [flowTime](https://bioconductor.org/packages/3.20/bioc/html/flowTime.html)                                       | Unprocessed |
 | [flowTrans](https://bioconductor.org/packages/3.20/bioc/html/flowTrans.html)                                     | Unprocessed |

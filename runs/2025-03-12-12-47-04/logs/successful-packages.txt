@@ -719,3 +719,4 @@ flowMatch
 flowMeans
 flowPloidy
 MEIGOR
+flowSpecs
