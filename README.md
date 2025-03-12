@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1024 packages built successfully
+- 1027 packages built successfully
 - 16 packages failed to build
-- 1193 packages not yet processed
+- 1190 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (1024)
+## Successfully Built (1027)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1055,8 +1055,11 @@
 | [clusterProfiler](https://bioconductor.org/packages/3.20/bioc/html/clusterProfiler.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/clusterProfiler/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/clusterProfiler)           |
 | [mBPCR](https://bioconductor.org/packages/3.20/bioc/html/mBPCR.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/mBPCR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mBPCR)                     |
 | [tracktables](https://bioconductor.org/packages/3.20/bioc/html/tracktables.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/tracktables/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tracktables)               |
+| [DeepTarget](https://bioconductor.org/packages/3.20/bioc/html/DeepTarget.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/DeepTarget/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DeepTarget)                |
+| [covRNA](https://bioconductor.org/packages/3.20/bioc/html/covRNA.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/covRNA/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/covRNA)                    |
+| [crlmm](https://bioconductor.org/packages/3.20/bioc/html/crlmm.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/crlmm/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/crlmm)                     |
 
-## Not Yet Processed (1193)
+## Not Yet Processed (1190)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1217,7 +1220,6 @@
 | [DaMiRseq](https://bioconductor.org/packages/3.20/bioc/html/DaMiRseq.html)                                       | Unprocessed |
 | [Damsel](https://bioconductor.org/packages/3.20/bioc/html/Damsel.html)                                           | Unprocessed |
 | [DeMixT](https://bioconductor.org/packages/3.20/bioc/html/DeMixT.html)                                           | Unprocessed |
-| [DeepTarget](https://bioconductor.org/packages/3.20/bioc/html/DeepTarget.html)                                   | Unprocessed |
 | [DegCre](https://bioconductor.org/packages/3.20/bioc/html/DegCre.html)                                           | Unprocessed |
 | [DegNorm](https://bioconductor.org/packages/3.20/bioc/html/DegNorm.html)                                         | Unprocessed |
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html)                             | Unprocessed |
@@ -1749,7 +1751,6 @@
 | [cosmiq](https://bioconductor.org/packages/3.20/bioc/html/cosmiq.html)                                           | Unprocessed |
 | [cosmosR](https://bioconductor.org/packages/3.20/bioc/html/cosmosR.html)                                         | Unprocessed |
 | [countsimQC](https://bioconductor.org/packages/3.20/bioc/html/countsimQC.html)                                   | Unprocessed |
-| [covRNA](https://bioconductor.org/packages/3.20/bioc/html/covRNA.html)                                           | Unprocessed |
 | [cpvSNP](https://bioconductor.org/packages/3.20/bioc/html/cpvSNP.html)                                           | Unprocessed |
 | [crisprBowtie](https://bioconductor.org/packages/3.20/bioc/html/crisprBowtie.html)                               | Unprocessed |
 | [crisprBwa](https://bioconductor.org/packages/3.20/bioc/html/crisprBwa.html)                                     | Unprocessed |
@@ -1757,7 +1758,6 @@
 | [crisprShiny](https://bioconductor.org/packages/3.20/bioc/html/crisprShiny.html)                                 | Unprocessed |
 | [crisprVerse](https://bioconductor.org/packages/3.20/bioc/html/crisprVerse.html)                                 | Unprocessed |
 | [crisprViz](https://bioconductor.org/packages/3.20/bioc/html/crisprViz.html)                                     | Unprocessed |
-| [crlmm](https://bioconductor.org/packages/3.20/bioc/html/crlmm.html)                                             | Unprocessed |
 | [csaw](https://bioconductor.org/packages/3.20/bioc/html/csaw.html)                                               | Unprocessed |
 | [csdR](https://bioconductor.org/packages/3.20/bioc/html/csdR.html)                                               | Unprocessed |
 | [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                                   | Unprocessed |

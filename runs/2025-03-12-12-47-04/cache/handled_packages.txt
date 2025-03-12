@@ -130,6 +130,7 @@ DTA
 DeMAND
 DeconRNASeq
 DeepPINCS
+DeepTarget
 DelayedArray
 DelayedDataFrame
 DelayedMatrixStats
@@ -583,9 +584,11 @@ consensus
 convert
 copa
 covEB
+covRNA
 cqn
 crisprBase
 crisprScore
+crlmm
 ctc
 ctsGE
 customCMPdb
