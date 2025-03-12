@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 757 packages built successfully
+- 758 packages built successfully
 - 13 packages failed to build
-- 1463 packages not yet processed
+- 1462 packages not yet processed
 
 ## Failed Builds (13)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -25,7 +25,7 @@
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 
-## Successfully Built (757)
+## Successfully Built (758)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -785,8 +785,9 @@
 | [tidyFlowCore](https://bioconductor.org/packages/3.20/bioc/html/tidyFlowCore.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/tidyFlowCore/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tidyFlowCore)              |
 | [tidytof](https://bioconductor.org/packages/3.20/bioc/html/tidytof.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/tidytof/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tidytof)                   |
 | [tweeDEseq](https://bioconductor.org/packages/3.20/bioc/html/tweeDEseq.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/tweeDEseq/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tweeDEseq)                 |
+| [SIMD](https://bioconductor.org/packages/3.20/bioc/html/SIMD.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/SIMD/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SIMD)                      |
 
-## Not Yet Processed (1463)
+## Not Yet Processed (1462)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1367,7 +1368,6 @@
 | [SIAMCAT](https://bioconductor.org/packages/3.20/bioc/html/SIAMCAT.html)                                         | Unprocessed |
 | [SICtools](https://bioconductor.org/packages/3.20/bioc/html/SICtools.html)                                       | Unprocessed |
 | [SIM](https://bioconductor.org/packages/3.20/bioc/html/SIM.html)                                                 | Unprocessed |
-| [SIMD](https://bioconductor.org/packages/3.20/bioc/html/SIMD.html)                                               | Unprocessed |
 | [SMITE](https://bioconductor.org/packages/3.20/bioc/html/SMITE.html)                                             | Unprocessed |
 | [SNPhood](https://bioconductor.org/packages/3.20/bioc/html/SNPhood.html)                                         | Unprocessed |
 | [SOMNiBUS](https://bioconductor.org/packages/3.20/bioc/html/SOMNiBUS.html)                                       | Unprocessed |

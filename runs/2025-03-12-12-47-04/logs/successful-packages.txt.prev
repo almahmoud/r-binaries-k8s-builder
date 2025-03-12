@@ -755,3 +755,4 @@ tidyFlowCore
 tidytof
 tweeDEseq
 XVector
+SIMD
