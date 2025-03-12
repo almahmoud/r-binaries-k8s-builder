@@ -214,7 +214,6 @@
     "GenomicAlignments"
   ],
   "BUMHMM": [],
-  "BUScorrect": [],
   "BUSpaRse": [
     "AnnotationFilter",
     "biomaRt",
@@ -1892,7 +1891,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "MSstatsShiny": [],
   "MWASTools": [],
   "MatrixQCvis": [
     "proDA",
@@ -2542,12 +2540,8 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RTN": [],
-  "RTNduals": [
-    "RTN"
-  ],
+  "RTNduals": [],
   "RTNsurvival": [
-    "RTN",
     "RTNduals"
   ],
   "RUVSeq": [
