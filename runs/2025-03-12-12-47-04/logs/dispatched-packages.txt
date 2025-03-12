@@ -600,3 +600,9 @@ Rfastp
 geNetClassifier
 maftools
 rhdf5
+EMDomics
+IHW
+MBCB
+MSstats
+affy
+gcatest
