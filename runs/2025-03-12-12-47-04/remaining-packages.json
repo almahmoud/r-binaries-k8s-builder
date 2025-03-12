@@ -13,7 +13,6 @@
   "ADaCGH2": [
     "GLAD"
   ],
-  "AGDEX": [],
   "AHMassBank": [
     "AnnotationHubData",
     "GenomicFeatures",
@@ -350,7 +349,6 @@
   "CDI": [
     "SingleCellExperiment"
   ],
-  "CEMiTool": [],
   "CHETAH": [
     "SingleCellExperiment"
   ],
@@ -770,7 +768,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "DNAshapeR": [],
   "DSS": [
     "bsseq",
     "BSgenome",
@@ -2821,10 +2818,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "a4": [
-    "a4Base"
-  ],
-  "a4Base": [],
+  "a4": [],
   "adductomicsR": [],
   "adverSCarial": [],
   "affxparser": [],
@@ -2943,7 +2937,6 @@
     "bumphunter",
     "GEOquery"
   ],
-  "arrayQualityMetrics": [],
   "atSNP": [
     "BSgenome",
     "motifStack",
@@ -5029,7 +5022,6 @@
     "chipseq",
     "ShortRead"
   ],
-  "protGear": [],
   "psichomics": [
     "recount",
     "derfinder",

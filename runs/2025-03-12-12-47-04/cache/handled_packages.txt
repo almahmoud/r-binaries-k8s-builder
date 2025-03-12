@@ -1,6 +1,7 @@
 ABSSeq
 ABarray
 ACME
+AGDEX
 AIMS
 AMOUNTAIN
 ANCOMBC
@@ -72,6 +73,7 @@ BufferedMatrixMethods
 BumpyMatrix
 CARNIVAL
 CCPlotR
+CEMiTool
 CFAssay
 CGEN
 CGHbase
@@ -124,6 +126,7 @@ DMRcaller
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
+DNAshapeR
 DOSE
 DRIMSeq
 DTA
@@ -491,6 +494,7 @@ VennDetail
 Wrench
 XINA
 XVector
+a4Base
 a4Classif
 a4Core
 a4Preproc
@@ -521,6 +525,7 @@ antiProfiles
 apComplex
 aroma.light
 arrayQuality
+arrayQualityMetrics
 artMS
 assorthead
 bacon
@@ -881,6 +886,7 @@ procoil
 profileScoreDist
 progeny
 projectR
+protGear
 proteinProfiles
 pvac
 pvca
