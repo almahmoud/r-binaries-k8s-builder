@@ -1160,3 +1160,7 @@ fastLiquidAssociation
 gatom
 ginmappeR
 immunogenViewer
+BLMA
+DOSE
+Rcpi
+rrvgo

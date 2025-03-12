@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 892 packages built successfully
+- 896 packages built successfully
 - 16 packages failed to build
-- 1325 packages not yet processed
+- 1321 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (892)
+## Successfully Built (896)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -923,8 +923,12 @@
 | [MeSHDbi](https://bioconductor.org/packages/3.20/bioc/html/MeSHDbi.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/MeSHDbi/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MeSHDbi)                   |
 | [UniProt.ws](https://bioconductor.org/packages/3.20/bioc/html/UniProt.ws.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/UniProt.ws/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/UniProt.ws)                |
 | [maPredictDSC](https://bioconductor.org/packages/3.20/bioc/html/maPredictDSC.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/maPredictDSC/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/maPredictDSC)              |
+| [GOSemSim](https://bioconductor.org/packages/3.20/bioc/html/GOSemSim.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/GOSemSim/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GOSemSim)                  |
+| [PADOG](https://bioconductor.org/packages/3.20/bioc/html/PADOG.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/PADOG/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PADOG)                     |
+| [SubCellBarCode](https://bioconductor.org/packages/3.20/bioc/html/SubCellBarCode.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/SubCellBarCode/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SubCellBarCode)            |
+| [TIN](https://bioconductor.org/packages/3.20/bioc/html/TIN.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/TIN/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TIN)                       |
 
-## Not Yet Processed (1325)
+## Not Yet Processed (1321)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1156,7 +1160,6 @@
 | [GMRP](https://bioconductor.org/packages/3.20/bioc/html/GMRP.html)                                               | Unprocessed |
 | [GNET2](https://bioconductor.org/packages/3.20/bioc/html/GNET2.html)                                             | Unprocessed |
 | [GNOSIS](https://bioconductor.org/packages/3.20/bioc/html/GNOSIS.html)                                           | Unprocessed |
-| [GOSemSim](https://bioconductor.org/packages/3.20/bioc/html/GOSemSim.html)                                       | Unprocessed |
 | [GOTHiC](https://bioconductor.org/packages/3.20/bioc/html/GOTHiC.html)                                           | Unprocessed |
 | [GOexpress](https://bioconductor.org/packages/3.20/bioc/html/GOexpress.html)                                     | Unprocessed |
 | [GOfuncR](https://bioconductor.org/packages/3.20/bioc/html/GOfuncR.html)                                         | Unprocessed |
@@ -1348,7 +1351,6 @@
 | [Oscope](https://bioconductor.org/packages/3.20/bioc/html/Oscope.html)                                           | Unprocessed |
 | [OutSplice](https://bioconductor.org/packages/3.20/bioc/html/OutSplice.html)                                     | Unprocessed |
 | [PAA](https://bioconductor.org/packages/3.20/bioc/html/PAA.html)                                                 | Unprocessed |
-| [PADOG](https://bioconductor.org/packages/3.20/bioc/html/PADOG.html)                                             | Unprocessed |
 | [PAIRADISE](https://bioconductor.org/packages/3.20/bioc/html/PAIRADISE.html)                                     | Unprocessed |
 | [PAST](https://bioconductor.org/packages/3.20/bioc/html/PAST.html)                                               | Unprocessed |
 | [PCAtools](https://bioconductor.org/packages/3.20/bioc/html/PCAtools.html)                                       | Unprocessed |
@@ -1499,7 +1501,6 @@
 | [StabMap](https://bioconductor.org/packages/3.20/bioc/html/StabMap.html)                                         | Unprocessed |
 | [Statial](https://bioconductor.org/packages/3.20/bioc/html/Statial.html)                                         | Unprocessed |
 | [StructuralVariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/StructuralVariantAnnotation.html) | Unprocessed |
-| [SubCellBarCode](https://bioconductor.org/packages/3.20/bioc/html/SubCellBarCode.html)                           | Unprocessed |
 | [SurfR](https://bioconductor.org/packages/3.20/bioc/html/SurfR.html)                                             | Unprocessed |
 | [SynMut](https://bioconductor.org/packages/3.20/bioc/html/SynMut.html)                                           | Unprocessed |
 | [TADCompare](https://bioconductor.org/packages/3.20/bioc/html/TADCompare.html)                                   | Unprocessed |
@@ -1517,7 +1518,6 @@
 | [TFEA.ChIP](https://bioconductor.org/packages/3.20/bioc/html/TFEA.ChIP.html)                                     | Unprocessed |
 | [TFHAZ](https://bioconductor.org/packages/3.20/bioc/html/TFHAZ.html)                                             | Unprocessed |
 | [TFutils](https://bioconductor.org/packages/3.20/bioc/html/TFutils.html)                                         | Unprocessed |
-| [TIN](https://bioconductor.org/packages/3.20/bioc/html/TIN.html)                                                 | Unprocessed |
 | [TMSig](https://bioconductor.org/packages/3.20/bioc/html/TMSig.html)                                             | Unprocessed |
 | [TOAST](https://bioconductor.org/packages/3.20/bioc/html/TOAST.html)                                             | Unprocessed |
 | [TOP](https://bioconductor.org/packages/3.20/bioc/html/TOP.html)                                                 | Unprocessed |
