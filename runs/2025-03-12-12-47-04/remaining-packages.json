@@ -2813,7 +2813,6 @@
     "GSEABase",
     "annotate"
   ],
-  "Rcpi": [],
   "ReactomePA": [
     "DOSE",
     "enrichplot",
@@ -4636,7 +4635,6 @@
     "GenomicAlignments"
   ],
   "easier": [
-    "quantiseqr",
     "DESeq2",
     "ExperimentHub",
     "AnnotationHub"
@@ -6414,7 +6412,6 @@
     "genefilter",
     "annotate"
   ],
-  "quantiseqr": [],
   "quantro": [
     "minfi",
     "bumphunter",

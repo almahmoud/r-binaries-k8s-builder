@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 908 packages built successfully
+- 910 packages built successfully
 - 16 packages failed to build
-- 1309 packages not yet processed
+- 1307 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (908)
+## Successfully Built (910)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -939,8 +939,10 @@
 | [GOfuncR](https://bioconductor.org/packages/3.20/bioc/html/GOfuncR.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/GOfuncR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GOfuncR)                   |
 | [immunogenViewer](https://bioconductor.org/packages/3.20/bioc/html/immunogenViewer.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/immunogenViewer/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunogenViewer)           |
 | [regsplice](https://bioconductor.org/packages/3.20/bioc/html/regsplice.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/regsplice/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/regsplice)                 |
+| [Rcpi](https://bioconductor.org/packages/3.20/bioc/html/Rcpi.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/Rcpi/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rcpi)                      |
+| [quantiseqr](https://bioconductor.org/packages/3.20/bioc/html/quantiseqr.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/quantiseqr/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/quantiseqr)                |
 
-## Not Yet Processed (1309)
+## Not Yet Processed (1307)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1431,7 +1433,6 @@
 | [Rbec](https://bioconductor.org/packages/3.20/bioc/html/Rbec.html)                                               | Unprocessed |
 | [Rbowtie2](https://bioconductor.org/packages/3.20/bioc/html/Rbowtie2.html)                                       | Unprocessed |
 | [RcisTarget](https://bioconductor.org/packages/3.20/bioc/html/RcisTarget.html)                                   | Unprocessed |
-| [Rcpi](https://bioconductor.org/packages/3.20/bioc/html/Rcpi.html)                                               | Unprocessed |
 | [ReactomePA](https://bioconductor.org/packages/3.20/bioc/html/ReactomePA.html)                                   | Unprocessed |
 | [RegEnrich](https://bioconductor.org/packages/3.20/bioc/html/RegEnrich.html)                                     | Unprocessed |
 | [RegionalST](https://bioconductor.org/packages/3.20/bioc/html/RegionalST.html)                                   | Unprocessed |
@@ -2041,7 +2042,6 @@
 | [qsea](https://bioconductor.org/packages/3.20/bioc/html/qsea.html)                                               | Unprocessed |
 | [qsmooth](https://bioconductor.org/packages/3.20/bioc/html/qsmooth.html)                                         | Unprocessed |
 | [qsvaR](https://bioconductor.org/packages/3.20/bioc/html/qsvaR.html)                                             | Unprocessed |
-| [quantiseqr](https://bioconductor.org/packages/3.20/bioc/html/quantiseqr.html)                                   | Unprocessed |
 | [quantro](https://bioconductor.org/packages/3.20/bioc/html/quantro.html)                                         | Unprocessed |
 | [r3Cseq](https://bioconductor.org/packages/3.20/bioc/html/r3Cseq.html)                                           | Unprocessed |
 | [rCGH](https://bioconductor.org/packages/3.20/bioc/html/rCGH.html)                                               | Unprocessed |

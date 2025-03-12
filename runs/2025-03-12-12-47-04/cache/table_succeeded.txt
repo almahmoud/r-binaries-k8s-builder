@@ -906,3 +906,5 @@
 ['[GOfuncR](https://bioconductor.org/packages/3.20/bioc/html/GOfuncR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GOfuncR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GOfuncR)']
 ['[immunogenViewer](https://bioconductor.org/packages/3.20/bioc/html/immunogenViewer.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/immunogenViewer/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunogenViewer)']
 ['[regsplice](https://bioconductor.org/packages/3.20/bioc/html/regsplice.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/regsplice/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/regsplice)']
+['[Rcpi](https://bioconductor.org/packages/3.20/bioc/html/Rcpi.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Rcpi/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rcpi)']
+['[quantiseqr](https://bioconductor.org/packages/3.20/bioc/html/quantiseqr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/quantiseqr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/quantiseqr)']

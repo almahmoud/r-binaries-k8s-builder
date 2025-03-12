@@ -361,6 +361,7 @@ RbcBook1
 Rbowtie
 Rbwa
 Rcollectl
+Rcpi
 Rcwl
 RcwlPipelines
 Rdisop
@@ -795,6 +796,7 @@ qckitfastq
 qcmetrics
 qmtools
 qpcrNorm
+quantiseqr
 quantsmooth
 qusage
 qvalue
