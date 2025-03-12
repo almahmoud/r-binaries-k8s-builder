@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 671 packages built successfully
+- 672 packages built successfully
 - 12 packages failed to build
-- 1550 packages not yet processed
+- 1549 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
 | [Rtreemix](https://bioconductor.org/packages/3.20/bioc/html/Rtreemix.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Rtreemix/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rtreemix)     | Build failed with unknown error     |
 
-## Successfully Built (671)
+## Successfully Built (672)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -698,8 +698,9 @@
 | [hmdbQuery](https://bioconductor.org/packages/3.20/bioc/html/hmdbQuery.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/hmdbQuery/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hmdbQuery)               |
 | [rawrr](https://bioconductor.org/packages/3.20/bioc/html/rawrr.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/rawrr/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rawrr)                   |
 | [BioMVCClass](https://bioconductor.org/packages/3.20/bioc/html/BioMVCClass.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/BioMVCClass/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BioMVCClass)             |
+| [RBGL](https://bioconductor.org/packages/3.20/bioc/html/RBGL.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/RBGL/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RBGL)                    |
 
-## Not Yet Processed (1550)
+## Not Yet Processed (1549)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1243,7 +1244,6 @@
 | [R453Plus1Toolbox](https://bioconductor.org/packages/3.20/bioc/html/R453Plus1Toolbox.html)                       | Unprocessed |
 | [R4RNA](https://bioconductor.org/packages/3.20/bioc/html/R4RNA.html)                                             | Unprocessed |
 | [RAIDS](https://bioconductor.org/packages/3.20/bioc/html/RAIDS.html)                                             | Unprocessed |
-| [RBGL](https://bioconductor.org/packages/3.20/bioc/html/RBGL.html)                                               | Unprocessed |
 | [RCAS](https://bioconductor.org/packages/3.20/bioc/html/RCAS.html)                                               | Unprocessed |
 | [RCM](https://bioconductor.org/packages/3.20/bioc/html/RCM.html)                                                 | Unprocessed |
 | [RCSL](https://bioconductor.org/packages/3.20/bioc/html/RCSL.html)                                               | Unprocessed |

@@ -241,6 +241,7 @@ ProtGenerics
 QUBIC
 QuaternaryProd
 RAREsim
+RBGL
 RBM
 RBioFormats
 RBioinf

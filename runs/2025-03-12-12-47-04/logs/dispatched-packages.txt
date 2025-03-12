@@ -704,3 +704,7 @@ mnem
 netresponse
 paircompviz
 rawDiag
+CellNOptR
+Streamer
+biocViews
+fgga
