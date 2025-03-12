@@ -58,6 +58,7 @@ BiocIO
 BiocNeighbors
 BiocParallel
 BiocPkgTools
+BiocSet
 BiocStyle
 BiocVersion
 BiocWorkflowTools
@@ -811,6 +812,7 @@ normalize450K
 nuCpos
 nucleoSim
 occugene
+oligoClasses
 omada
 ompBAM
 oncoscanR
@@ -917,6 +919,7 @@ scTHI
 scanMiR
 scatterHatch
 scde
+scifer
 scoup
 screenCounter
 seahtrue
@@ -955,6 +958,7 @@ ssPATHS
 sscu
 ssize
 ssrch
+ssviz
 stageR
 statTarget
 stepNorm

@@ -100,7 +100,6 @@
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
-    "oligoClasses",
     "ReportingTools",
     "Glimma",
     "DESeq2",
@@ -149,7 +148,6 @@
   ],
   "ArrayExpress": [
     "oligo",
-    "oligoClasses",
     "affxparser"
   ],
   "BANDITS": [],
@@ -313,7 +311,6 @@
     "ScaledMatrix"
   ],
   "BiocHubsShiny": [],
-  "BiocSet": [],
   "BiocSingular": [
     "ScaledMatrix",
     "beachmat"
@@ -395,7 +392,6 @@
     "ScaledMatrix"
   ],
   "CBEA": [
-    "BiocSet",
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
   ],
@@ -622,7 +618,6 @@
     "GEOquery",
     "frma",
     "oligo",
-    "oligoClasses",
     "affxparser"
   ],
   "ChIPanalyser": [
@@ -996,7 +991,6 @@
     "ArrayExpress",
     "GEOquery",
     "oligo",
-    "oligoClasses",
     "affxparser"
   ],
   "Dune": [],
@@ -1586,8 +1580,7 @@
   "ITALICS": [
     "GLAD",
     "oligo",
-    "affxparser",
-    "oligoClasses"
+    "affxparser"
   ],
   "IVAS": [
     "GenomicFeatures",
@@ -1695,7 +1688,6 @@
   "MAGAR": [
     "RnBeads",
     "crlmm",
-    "oligoClasses",
     "methylumi",
     "minfi",
     "genefilter",
@@ -1969,7 +1961,6 @@
   ],
   "MinimumDistance": [
     "VanillaICE",
-    "oligoClasses",
     "crlmm",
     "BSgenome",
     "rtracklayer",
@@ -2565,7 +2556,6 @@
     "graphite"
   ],
   "RegEnrich": [
-    "BiocSet",
     "DESeq2"
   ],
   "RegionalST": [
@@ -2714,7 +2704,6 @@
     "oligo",
     "GEOquery",
     "sva",
-    "oligoClasses",
     "affxparser",
     "genefilter"
   ],
@@ -3159,7 +3148,6 @@
     "genefilter"
   ],
   "VanillaICE": [
-    "oligoClasses",
     "crlmm",
     "BSgenome",
     "rtracklayer",
@@ -3268,7 +3256,6 @@
   ],
   "affycoretools": [
     "GOstats",
-    "oligoClasses",
     "ReportingTools",
     "Glimma",
     "DESeq2",
@@ -3802,7 +3789,6 @@
     "SingleCellExperiment"
   ],
   "cn.farms": [
-    "oligoClasses",
     "affxparser",
     "oligo"
   ],
@@ -3989,9 +3975,7 @@
     "GenomicAlignments",
     "AnnotationFilter"
   ],
-  "crlmm": [
-    "oligoClasses"
-  ],
+  "crlmm": [],
   "csaw": [],
   "csdR": [],
   "cummeRbund": [
@@ -4490,7 +4474,6 @@
   "flowWorkspace": [],
   "frma": [
     "oligo",
-    "oligoClasses",
     "affxparser"
   ],
   "funOmics": [],
@@ -4955,9 +4938,7 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "mBPCR": [
-    "oligoClasses"
-  ],
+  "mBPCR": [],
   "mCSEA": [
     "biomaRt",
     "GenomicFeatures",
@@ -5234,7 +5215,6 @@
   ],
   "mimager": [
     "oligo",
-    "oligoClasses",
     "affxparser"
   ],
   "minfi": [
@@ -5536,10 +5516,8 @@
     "msa"
   ],
   "oligo": [
-    "oligoClasses",
     "affxparser"
   ],
-  "oligoClasses": [],
   "omXplore": [
     "MSnbase",
     "PSMatch",
@@ -5652,8 +5630,7 @@
   ],
   "pdInfoBuilder": [
     "affxparser",
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "peakPantheR": [
     "MSnbase",
@@ -5815,7 +5792,6 @@
   ],
   "puma": [
     "oligo",
-    "oligoClasses",
     "affxparser"
   ],
   "qPLEXanalyzer": [
@@ -6242,7 +6218,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "scifer": [],
   "scmap": [
     "SingleCellExperiment"
   ],
@@ -6490,7 +6465,6 @@
     "SingleCellExperiment"
   ],
   "sparrow": [
-    "BiocSet",
     "GSEABase"
   ],
   "spatialDE": [
@@ -6571,7 +6545,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "ssviz": [],
   "stJoincount": [
     "SpatialExperiment",
     "SingleCellExperiment"

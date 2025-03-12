@@ -996,3 +996,7 @@ SemDist
 GenomicDataCommons
 RTNduals
 tidybulk
+BiocSet
+oligoClasses
+scifer
+ssviz
