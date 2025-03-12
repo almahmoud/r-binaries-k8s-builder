@@ -855,3 +855,8 @@ flowWorkspace
 orthogene
 rhdf5client
 sketchR
+AnnotationDbi
+FELLA
+ROntoTools
+SynExtend
+transomics2cytoscape

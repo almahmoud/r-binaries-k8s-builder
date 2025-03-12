@@ -24,8 +24,10 @@ AnVILPublish
 AnVILWorkflow
 BADER
 BAGS
+BCRANK
 BEclear
 BG2
+BRAIN
 BUS
 BaseSpaceR
 BayesKnockdown
@@ -95,6 +97,7 @@ CytoDx
 CytoGLMM
 DART
 DCATS
+DECIPHER
 DEGraph
 DEGseq
 DEqMS
@@ -198,6 +201,7 @@ IsoCorrectoR
 IsoCorrectoRGUI
 KBoost
 KCsmart
+KEGGREST
 KEGGgraph
 KinSwingR
 LBE
@@ -230,6 +234,7 @@ MeasurementError.cor
 Mergeomics
 MetCirc
 MetID
+MetaCyto
 MetaboCoreUtils
 MethPed
 MethylMix
