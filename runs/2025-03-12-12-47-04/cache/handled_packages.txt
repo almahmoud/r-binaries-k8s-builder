@@ -83,6 +83,7 @@ ChemmineOB
 ChemmineR
 Chicago
 Clomial
+ClustAll
 ClusterJudge
 ClusterSignificance
 ComPrAn

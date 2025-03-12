@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 710 packages built successfully
+- 711 packages built successfully
 - 12 packages failed to build
-- 1511 packages not yet processed
+- 1510 packages not yet processed
 
 ## Failed Builds (12)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -24,7 +24,7 @@
 | [graper](https://bioconductor.org/packages/3.20/bioc/html/graper.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/graper/build-fail.log)       | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/graper)    | Build failed with unknown error     |
 | [ternarynet](https://bioconductor.org/packages/3.20/bioc/html/ternarynet.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/ternarynet/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ternarynet)   | Build failed with unknown error     |
 
-## Successfully Built (710)
+## Successfully Built (711)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -737,8 +737,9 @@
 | [BiocPkgTools](https://bioconductor.org/packages/3.20/bioc/html/BiocPkgTools.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/BiocPkgTools/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BiocPkgTools)            |
 | [CCPlotR](https://bioconductor.org/packages/3.20/bioc/html/CCPlotR.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/CCPlotR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CCPlotR)                 |
 | [BioQC](https://bioconductor.org/packages/3.20/bioc/html/BioQC.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/BioQC/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BioQC)                   |
+| [ClustAll](https://bioconductor.org/packages/3.20/bioc/html/ClustAll.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/ClustAll/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ClustAll)                |
 
-## Not Yet Processed (1511)
+## Not Yet Processed (1510)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -879,7 +880,6 @@
 | [ClassifyR](https://bioconductor.org/packages/3.20/bioc/html/ClassifyR.html)                                     | Unprocessed |
 | [CleanUpRNAseq](https://bioconductor.org/packages/3.20/bioc/html/CleanUpRNAseq.html)                             | Unprocessed |
 | [CluMSID](https://bioconductor.org/packages/3.20/bioc/html/CluMSID.html)                                         | Unprocessed |
-| [ClustAll](https://bioconductor.org/packages/3.20/bioc/html/ClustAll.html)                                       | Unprocessed |
 | [ClustIRR](https://bioconductor.org/packages/3.20/bioc/html/ClustIRR.html)                                       | Unprocessed |
 | [ClusterFoldSimilarity](https://bioconductor.org/packages/3.20/bioc/html/ClusterFoldSimilarity.html)             | Unprocessed |
 | [CoCiteStats](https://bioconductor.org/packages/3.20/bioc/html/CoCiteStats.html)                                 | Unprocessed |
