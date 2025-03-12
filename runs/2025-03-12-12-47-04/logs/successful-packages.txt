@@ -429,3 +429,9 @@ geneRecommender
 GeneSelectMMD
 MiPP
 Rbwa
+compSPOT
+fdrame
+FISHalyseR
+Mfuzz
+Rhdf5lib
+seahtrue

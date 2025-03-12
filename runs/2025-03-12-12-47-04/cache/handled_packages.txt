@@ -76,6 +76,7 @@ EBarrays
 EBcoexpress
 EmpiricalBrownsMethod
 EnhancedVolcano
+FISHalyseR
 FitHiC
 GAprediction
 GEM
@@ -125,6 +126,7 @@ MatrixGenerics
 MeasurementError.cor
 Mergeomics
 MetID
+Mfuzz
 MiChip
 MiPP
 ModCon
@@ -165,6 +167,7 @@ Rcollectl
 Rdisop
 RedeR
 RedisParam
+Rhdf5lib
 Rsubread
 SBMLR
 SCBN
@@ -232,6 +235,7 @@ clustComp
 clusterStab
 coGPS
 cogena
+compSPOT
 convert
 copa
 covEB
@@ -263,6 +267,7 @@ fabia
 factDesign
 faers
 fastreeR
+fdrame
 fenr
 fgsea
 flowCyBar
@@ -384,6 +389,7 @@ scRecover
 scShapes
 scTHI
 scatterHatch
+seahtrue
 seq.hotSPOT
 seqLogo
 seqTools

@@ -587,3 +587,6 @@ dupRadar
 FISHalyseR
 flowcatchR
 synapsis
+cycle
+cytolib
+rhdf5filters
