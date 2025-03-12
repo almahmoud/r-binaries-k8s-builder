@@ -1060,3 +1060,9 @@ MAGeCKFlute
 MDTS
 PAA
 PROPS
+AneuFinder
+CrispRVariants
+MBECS
+MSPrep
+PICS
+SQLDataFrame

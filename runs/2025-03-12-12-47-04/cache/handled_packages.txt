@@ -24,6 +24,7 @@ AnVILBilling
 AnVILGCP
 AnVILPublish
 AnVILWorkflow
+AneuFinder
 AnnotationDbi
 AnnotationForge
 AnnotationHub
@@ -116,6 +117,7 @@ ComPrAn
 ComplexHeatmap
 ConsensusClusterPlus
 Cormotif
+CrispRVariants
 CytoDx
 CytoGLMM
 DART
@@ -276,6 +278,7 @@ MAGeCKFlute
 MAPFX
 MBAmethyl
 MBCB
+MBECS
 MBttest
 MCbiclust
 MDTS
@@ -289,6 +292,7 @@ MOFA2
 MOGAMUN
 MPFE
 MSA2dist
+MSPrep
 MSstats
 MSstatsBig
 MSstatsConvert
@@ -355,6 +359,7 @@ PAA
 PADOG
 PANR
 PCAN
+PICS
 PIPETS
 PIUMA
 PLPE
@@ -458,6 +463,7 @@ SNPRelate
 SNPediaR
 SPEM
 SPIA
+SQLDataFrame
 SRAdb
 STATegRa
 STRINGdb

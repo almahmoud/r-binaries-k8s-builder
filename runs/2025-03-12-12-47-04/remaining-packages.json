@@ -114,7 +114,6 @@
   "Anaquin": [
     "DESeq2"
   ],
-  "AneuFinder": [],
   "AnnotationFilter": [],
   "AnnotationHubData": [
     "GenomicFeatures",
@@ -645,7 +644,6 @@
   "CoverageView": [
     "rtracklayer"
   ],
-  "CrispRVariants": [],
   "CuratedAtlasQueryR": [
     "SingleCellExperiment"
   ],
@@ -1475,7 +1473,6 @@
     "SingleCellExperiment"
   ],
   "MBASED": [],
-  "MBECS": [],
   "MBQN": [],
   "MEAL": [
     "MultiDataSet",
@@ -1580,7 +1577,6 @@
     "scuttle"
   ],
   "MPRAnalyze": [],
-  "MSPrep": [],
   "MSnID": [
     "MSnbase",
     "msmsTests",
@@ -1882,9 +1878,7 @@
     "ScaledMatrix"
   ],
   "PECA": [],
-  "PICS": [],
   "PING": [
-    "PICS",
     "Gviz",
     "BSgenome",
     "rtracklayer",
@@ -2418,7 +2412,6 @@
   "SPsimSeq": [
     "SingleCellExperiment"
   ],
-  "SQLDataFrame": [],
   "SWATH2stats": [
     "biomaRt"
   ],
