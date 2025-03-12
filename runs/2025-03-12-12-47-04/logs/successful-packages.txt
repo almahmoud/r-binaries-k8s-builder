@@ -818,3 +818,8 @@ target
 DelayedMatrixStats
 TileDBArray
 transite
+alabaster.string
+bamsignals
+DelayedDataFrame
+FELLA
+IMMAN

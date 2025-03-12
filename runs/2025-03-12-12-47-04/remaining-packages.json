@@ -200,7 +200,6 @@
   ],
   "AneuFinder": [
     "Rsamtools",
-    "bamsignals",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
@@ -660,7 +659,6 @@
     "rtracklayer",
     "biovizBase",
     "GenomicFeatures",
-    "bamsignals",
     "AnnotationDbi",
     "BSgenome",
     "GenomicAlignments",
@@ -678,7 +676,6 @@
     "rtracklayer",
     "biovizBase",
     "GenomicFeatures",
-    "bamsignals",
     "AnnotationDbi",
     "GenomicAlignments",
     "ensembldb",
@@ -1097,7 +1094,6 @@
     "rtracklayer",
     "biovizBase",
     "GenomicFeatures",
-    "bamsignals",
     "AnnotationDbi",
     "BSgenome",
     "GenomicAlignments",
@@ -1280,7 +1276,6 @@
     "annotate"
   ],
   "DNAfusion": [
-    "bamsignals",
     "Rsamtools",
     "GenomicAlignments",
     "GenomicFeatures",
@@ -1379,7 +1374,6 @@
     "rtracklayer",
     "biomaRt"
   ],
-  "DelayedDataFrame": [],
   "DelayedTensor": [
     "HDF5Array",
     "BiocSingular",
@@ -1675,7 +1669,6 @@
     "SC3",
     "TrajectoryUtils"
   ],
-  "FELLA": [],
   "FLAMES": [
     "bambu",
     "DropletUtils",
@@ -2301,7 +2294,6 @@
     "SummarizedExperiment",
     "rtracklayer"
   ],
-  "IMMAN": [],
   "INSPEcT": [
     "GenomicFeatures",
     "GenomicAlignments",
@@ -4750,7 +4742,6 @@
   "VariantExperiment": [
     "SummarizedExperiment",
     "GDSArray",
-    "DelayedDataFrame",
     "SeqArray"
   ],
   "VariantFiltering": [
@@ -4938,7 +4929,6 @@
     "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
-    "alabaster.string",
     "alabaster.vcf",
     "alabaster.mae",
     "MultiAssayExperiment",
@@ -4993,11 +4983,9 @@
     "alabaster.matrix",
     "HDF5Array"
   ],
-  "alabaster.string": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "alabaster.se",
-    "alabaster.string",
     "Rsamtools",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -5153,7 +5141,6 @@
     "rtracklayer",
     "AnnotationDbi"
   ],
-  "bamsignals": [],
   "bandle": [
     "MSnbase",
     "pRoloc",
@@ -5621,7 +5608,6 @@
   "chromstaR": [
     "Rsamtools",
     "GenomicAlignments",
-    "bamsignals",
     "SummarizedExperiment"
   ],
   "cicero": [
@@ -6422,7 +6408,6 @@
     "SummarizedExperiment",
     "rtracklayer",
     "Rsamtools",
-    "bamsignals",
     "csaw",
     "GreyListChIP",
     "GenomicAlignments",
@@ -7336,7 +7321,6 @@
     "rtracklayer",
     "biovizBase",
     "GenomicFeatures",
-    "bamsignals",
     "AnnotationDbi",
     "VariantAnnotation",
     "SummarizedExperiment",
@@ -8113,7 +8097,6 @@
     "AnnotationDbi",
     "regioneR",
     "biovizBase",
-    "bamsignals",
     "VariantAnnotation",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -8249,7 +8232,6 @@
     "SummarizedExperiment"
   ],
   "normr": [
-    "bamsignals",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -9481,7 +9463,6 @@
   "segmenter": [
     "ChIPseeker",
     "SummarizedExperiment",
-    "bamsignals",
     "AnnotationDbi",
     "enrichplot",
     "GenomicFeatures",

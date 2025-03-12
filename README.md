@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 820 packages built successfully
+- 825 packages built successfully
 - 14 packages failed to build
-- 1399 packages not yet processed
+- 1394 packages not yet processed
 
 ## Failed Builds (14)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -26,7 +26,7 @@
 | [HIBAG](https://bioconductor.org/packages/3.20/bioc/html/HIBAG.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/HIBAG/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HIBAG)        | Build failed with unknown error     |
 | [immunoClust](https://bioconductor.org/packages/3.20/bioc/html/immunoClust.html)   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/immunoClust/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immunoClust)  | Build failed with unknown error     |
 
-## Successfully Built (820)
+## Successfully Built (825)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -849,8 +849,13 @@
 | [DelayedMatrixStats](https://bioconductor.org/packages/3.20/bioc/html/DelayedMatrixStats.html)               | Built    | [Log](runs/2025-03-12-12-47-04/logs/DelayedMatrixStats/build-success.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedMatrixStats)        |
 | [TileDBArray](https://bioconductor.org/packages/3.20/bioc/html/TileDBArray.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/TileDBArray/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TileDBArray)               |
 | [transite](https://bioconductor.org/packages/3.20/bioc/html/transite.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/transite/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/transite)                  |
+| [DelayedDataFrame](https://bioconductor.org/packages/3.20/bioc/html/DelayedDataFrame.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/DelayedDataFrame/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DelayedDataFrame)          |
+| [FELLA](https://bioconductor.org/packages/3.20/bioc/html/FELLA.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/FELLA/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/FELLA)                     |
+| [IMMAN](https://bioconductor.org/packages/3.20/bioc/html/IMMAN.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/IMMAN/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/IMMAN)                     |
+| [alabaster.string](https://bioconductor.org/packages/3.20/bioc/html/alabaster.string.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/alabaster.string/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.string)          |
+| [bamsignals](https://bioconductor.org/packages/3.20/bioc/html/bamsignals.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/bamsignals/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bamsignals)                |
 
-## Not Yet Processed (1399)
+## Not Yet Processed (1394)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1033,7 +1038,6 @@
 | [DeepTarget](https://bioconductor.org/packages/3.20/bioc/html/DeepTarget.html)                                   | Unprocessed |
 | [DegCre](https://bioconductor.org/packages/3.20/bioc/html/DegCre.html)                                           | Unprocessed |
 | [DegNorm](https://bioconductor.org/packages/3.20/bioc/html/DegNorm.html)                                         | Unprocessed |
-| [DelayedDataFrame](https://bioconductor.org/packages/3.20/bioc/html/DelayedDataFrame.html)                       | Unprocessed |
 | [DelayedTensor](https://bioconductor.org/packages/3.20/bioc/html/DelayedTensor.html)                             | Unprocessed |
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)                                       | Unprocessed |
 | [DifferentialRegulation](https://bioconductor.org/packages/3.20/bioc/html/DifferentialRegulation.html)           | Unprocessed |
@@ -1068,7 +1072,6 @@
 | [ExperimentSubset](https://bioconductor.org/packages/3.20/bioc/html/ExperimentSubset.html)                       | Unprocessed |
 | [ExpressionAtlas](https://bioconductor.org/packages/3.20/bioc/html/ExpressionAtlas.html)                         | Unprocessed |
 | [FEAST](https://bioconductor.org/packages/3.20/bioc/html/FEAST.html)                                             | Unprocessed |
-| [FELLA](https://bioconductor.org/packages/3.20/bioc/html/FELLA.html)                                             | Unprocessed |
 | [FLAMES](https://bioconductor.org/packages/3.20/bioc/html/FLAMES.html)                                           | Unprocessed |
 | [FRASER](https://bioconductor.org/packages/3.20/bioc/html/FRASER.html)                                           | Unprocessed |
 | [FastqCleaner](https://bioconductor.org/packages/3.20/bioc/html/FastqCleaner.html)                               | Unprocessed |
@@ -1158,7 +1161,6 @@
 | [IFAA](https://bioconductor.org/packages/3.20/bioc/html/IFAA.html)                                               | Unprocessed |
 | [ILoReg](https://bioconductor.org/packages/3.20/bioc/html/ILoReg.html)                                           | Unprocessed |
 | [IMAS](https://bioconductor.org/packages/3.20/bioc/html/IMAS.html)                                               | Unprocessed |
-| [IMMAN](https://bioconductor.org/packages/3.20/bioc/html/IMMAN.html)                                             | Unprocessed |
 | [INSPEcT](https://bioconductor.org/packages/3.20/bioc/html/INSPEcT.html)                                         | Unprocessed |
 | [IONiseR](https://bioconductor.org/packages/3.20/bioc/html/IONiseR.html)                                         | Unprocessed |
 | [IPO](https://bioconductor.org/packages/3.20/bioc/html/IPO.html)                                                 | Unprocessed |
@@ -1536,7 +1538,6 @@
 | [alabaster.sce](https://bioconductor.org/packages/3.20/bioc/html/alabaster.sce.html)                             | Unprocessed |
 | [alabaster.se](https://bioconductor.org/packages/3.20/bioc/html/alabaster.se.html)                               | Unprocessed |
 | [alabaster.spatial](https://bioconductor.org/packages/3.20/bioc/html/alabaster.spatial.html)                     | Unprocessed |
-| [alabaster.string](https://bioconductor.org/packages/3.20/bioc/html/alabaster.string.html)                       | Unprocessed |
 | [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                             | Unprocessed |
 | [altcdfenvs](https://bioconductor.org/packages/3.20/bioc/html/altcdfenvs.html)                                   | Unprocessed |
 | [amplican](https://bioconductor.org/packages/3.20/bioc/html/amplican.html)                                       | Unprocessed |
@@ -1559,7 +1560,6 @@
 | [awst](https://bioconductor.org/packages/3.20/bioc/html/awst.html)                                               | Unprocessed |
 | [ballgown](https://bioconductor.org/packages/3.20/bioc/html/ballgown.html)                                       | Unprocessed |
 | [bambu](https://bioconductor.org/packages/3.20/bioc/html/bambu.html)                                             | Unprocessed |
-| [bamsignals](https://bioconductor.org/packages/3.20/bioc/html/bamsignals.html)                                   | Unprocessed |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)                                           | Unprocessed |
 | [barcodetrackR](https://bioconductor.org/packages/3.20/bioc/html/barcodetrackR.html)                             | Unprocessed |
 | [basecallQC](https://bioconductor.org/packages/3.20/bioc/html/basecallQC.html)                                   | Unprocessed |

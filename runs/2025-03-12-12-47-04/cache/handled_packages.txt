@@ -112,6 +112,7 @@ DeMAND
 DeconRNASeq
 DeepPINCS
 DelayedArray
+DelayedDataFrame
 DelayedMatrixStats
 DelayedRandomArray
 DepInfeR
@@ -133,6 +134,7 @@ EnhancedVolcano
 EpiDISH
 ExiMiR
 ExploreModelMatrix
+FELLA
 FGNet
 FISHalyseR
 FRGEpistasis
@@ -190,6 +192,7 @@ HuBMAPR
 HubPub
 HybridMTest
 IHW
+IMMAN
 IMPCdata
 INDEED
 INPower
@@ -419,6 +422,7 @@ agilp
 alabaster.base
 alabaster.bumpy
 alabaster.schemas
+alabaster.string
 alevinQC
 annotationTools
 anota
@@ -427,6 +431,7 @@ aroma.light
 arrayQuality
 assorthead
 bacon
+bamsignals
 banocc
 basilisk
 basilisk.utils
