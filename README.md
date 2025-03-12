@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 631 packages built successfully
+- 632 packages built successfully
 - 11 packages failed to build
-- 1591 packages not yet processed
+- 1590 packages not yet processed
 
 ## Failed Builds (11)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -23,7 +23,7 @@
 | [gpuMagic](https://bioconductor.org/packages/3.20/bioc/html/gpuMagic.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/gpuMagic/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gpuMagic)     | Compilation failed:  ‘gpuMagic’     |
 | [EBSeq](https://bioconductor.org/packages/3.20/bioc/html/EBSeq.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EBSeq/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EBSeq)        | Build failed with unknown error     |
 
-## Successfully Built (631)
+## Successfully Built (632)
 | Package                                                                                                  | Status   | Log                                                                            | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)               |
@@ -657,8 +657,9 @@
 | [ExiMiR](https://bioconductor.org/packages/3.20/bioc/html/ExiMiR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/ExiMiR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ExiMiR)                  |
 | [Rnits](https://bioconductor.org/packages/3.20/bioc/html/Rnits.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/Rnits/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rnits)                   |
 | [parglms](https://bioconductor.org/packages/3.20/bioc/html/parglms.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/parglms/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/parglms)                 |
+| [metabCombiner](https://bioconductor.org/packages/3.20/bioc/html/metabCombiner.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/metabCombiner/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/metabCombiner)           |
 
-## Not Yet Processed (1591)
+## Not Yet Processed (1590)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1828,7 +1829,6 @@
 | [meshes](https://bioconductor.org/packages/3.20/bioc/html/meshes.html)                                           | Unprocessed |
 | [meshr](https://bioconductor.org/packages/3.20/bioc/html/meshr.html)                                             | Unprocessed |
 | [metaMS](https://bioconductor.org/packages/3.20/bioc/html/metaMS.html)                                           | Unprocessed |
-| [metabCombiner](https://bioconductor.org/packages/3.20/bioc/html/metabCombiner.html)                             | Unprocessed |
 | [metabolomicsWorkbenchR](https://bioconductor.org/packages/3.20/bioc/html/metabolomicsWorkbenchR.html)           | Unprocessed |
 | [metagene2](https://bioconductor.org/packages/3.20/bioc/html/metagene2.html)                                     | Unprocessed |
 | [metapod](https://bioconductor.org/packages/3.20/bioc/html/metapod.html)                                         | Unprocessed |

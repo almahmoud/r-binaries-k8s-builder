@@ -489,6 +489,7 @@ mdqc
 messina
 metaCCA
 metaSeq
+metabCombiner
 metabinR
 metabomxtr
 metagenomeSeq

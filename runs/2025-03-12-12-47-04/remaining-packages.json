@@ -16524,7 +16524,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "metabCombiner": [],
   "metabolomicsWorkbenchR": [
     "MultiAssayExperiment",
     "struct",

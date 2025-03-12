@@ -629,3 +629,4 @@
 ['[ExiMiR](https://bioconductor.org/packages/3.20/bioc/html/ExiMiR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ExiMiR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ExiMiR)']
 ['[Rnits](https://bioconductor.org/packages/3.20/bioc/html/Rnits.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Rnits/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rnits)']
 ['[parglms](https://bioconductor.org/packages/3.20/bioc/html/parglms.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/parglms/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/parglms)']
+['[metabCombiner](https://bioconductor.org/packages/3.20/bioc/html/metabCombiner.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/metabCombiner/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/metabCombiner)']
