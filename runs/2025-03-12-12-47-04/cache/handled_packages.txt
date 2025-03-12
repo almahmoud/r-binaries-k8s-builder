@@ -157,6 +157,7 @@ GeneNetworkBuilder
 GeneOverlap
 GeneSelectMMD
 GeneticsPed
+GenomeInfoDb
 GladiaTOX
 GraphAT
 GraphAlignment

@@ -714,3 +714,4 @@
 ['[DEGraph](https://bioconductor.org/packages/3.20/bioc/html/DEGraph.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/DEGraph/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DEGraph)']
 ['[RNAseqCovarImpute](https://bioconductor.org/packages/3.20/bioc/html/RNAseqCovarImpute.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/RNAseqCovarImpute/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RNAseqCovarImpute)']
 ['[gDRstyle](https://bioconductor.org/packages/3.20/bioc/html/gDRstyle.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/gDRstyle/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gDRstyle)']
+['[GenomeInfoDb](https://bioconductor.org/packages/3.20/bioc/html/GenomeInfoDb.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GenomeInfoDb/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomeInfoDb)']

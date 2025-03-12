@@ -714,3 +714,4 @@ alabaster.bumpy
 DEGraph
 RNAseqCovarImpute
 gDRstyle
+GenomeInfoDb
