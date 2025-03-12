@@ -388,8 +388,7 @@
     "SingleCellExperiment"
   ],
   "CBNplot": [
-    "graphite",
-    "clusterProfiler"
+    "graphite"
   ],
   "CCPROMISE": [
     "PROMISE",
@@ -398,9 +397,7 @@
   "CDI": [
     "SingleCellExperiment"
   ],
-  "CEMiTool": [
-    "clusterProfiler"
-  ],
+  "CEMiTool": [],
   "CHETAH": [
     "SingleCellExperiment"
   ],
@@ -480,7 +477,6 @@
     "MAGeCKFlute",
     "PCAtools",
     "SingleCellExperiment",
-    "clusterProfiler",
     "BiocSingular",
     "beachmat",
     "ScaledMatrix"
@@ -506,9 +502,7 @@
     "SingleCellExperiment"
   ],
   "CaDrA": [],
-  "CaMutQC": [
-    "clusterProfiler"
-  ],
+  "CaMutQC": [],
   "Category": [
     "GSEABase"
   ],
@@ -517,7 +511,6 @@
     "SpatialExperiment"
   ],
   "CeTF": [
-    "clusterProfiler",
     "DESeq2"
   ],
   "CellBarcode": [
@@ -840,7 +833,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "DMRcaller": [],
   "DMRcate": [
     "bsseq",
     "minfi",
@@ -1044,12 +1036,8 @@
     "SingleCellExperiment",
     "orthogene"
   ],
-  "EasyCellType": [
-    "clusterProfiler"
-  ],
-  "EnrichDO": [
-    "clusterProfiler"
-  ],
+  "EasyCellType": [],
+  "EnrichDO": [],
   "EnrichedHeatmap": [],
   "EnrichmentBrowser": [
     "GSEABase",
@@ -1191,7 +1179,6 @@
   "GBScleanR": [],
   "GDCRNATools": [
     "DESeq2",
-    "clusterProfiler",
     "biomaRt"
   ],
   "GDSArray": [],
@@ -1287,7 +1274,6 @@
     "DESeq2",
     "mosdef",
     "topGO",
-    "clusterProfiler",
     "goseq",
     "rtracklayer",
     "GenomicFeatures",
@@ -1327,7 +1313,6 @@
     "DESeq2",
     "mosdef",
     "topGO",
-    "clusterProfiler",
     "goseq",
     "rtracklayer",
     "GenomicFeatures",
@@ -1654,9 +1639,7 @@
     "GEOquery",
     "GenomicAlignments"
   ],
-  "MAGeCKFlute": [
-    "clusterProfiler"
-  ],
+  "MAGeCKFlute": [],
   "MAI": [],
   "MAIT": [
     "CAMERA",
@@ -1754,8 +1737,7 @@
   "MIRit": [
     "MultiAssayExperiment",
     "DESeq2",
-    "graphite",
-    "clusterProfiler"
+    "graphite"
   ],
   "MLInterfaces": [],
   "MLSeq": [
@@ -1844,9 +1826,7 @@
   "MetaNeighbor": [
     "SingleCellExperiment"
   ],
-  "MetaPhOR": [
-    "clusterProfiler"
-  ],
+  "MetaPhOR": [],
   "MetaboAnnotation": [
     "QFeatures",
     "CompoundDb",
@@ -1888,9 +1868,7 @@
     "geneplotter",
     "GenomicAlignments"
   ],
-  "MicrobiomeProfiler": [
-    "clusterProfiler"
-  ],
+  "MicrobiomeProfiler": [],
   "MicrobiotaProcess": [],
   "MineICA": [
     "biomaRt",
@@ -1919,7 +1897,6 @@
     "SingleCellExperiment"
   ],
   "Moonlight2R": [
-    "clusterProfiler",
     "GEOquery",
     "rtracklayer",
     "EpiMix",
@@ -1928,7 +1905,6 @@
     "GenomicAlignments"
   ],
   "MoonlightR": [
-    "clusterProfiler",
     "TCGAbiolinks",
     "GEOquery",
     "biomaRt"
@@ -2188,7 +2164,6 @@
     "AnnotationFilter"
   ],
   "PanomiR": [
-    "clusterProfiler",
     "GSEABase"
   ],
   "PathoStat": [
@@ -2206,7 +2181,6 @@
   "PhosR": [],
   "PhyloProfile": [],
   "Pigengene": [
-    "clusterProfiler",
     "ReactomePA",
     "graphite"
   ],
@@ -2764,7 +2738,6 @@
     "GenomicFeatures"
   ],
   "SimBu": [],
-  "SimFFPE": [],
   "SingleCellAlleleExperiment": [
     "SingleCellExperiment"
   ],
@@ -2919,7 +2892,6 @@
   "TCseq": [
     "GenomicAlignments"
   ],
-  "TDbasedUFEadv": [],
   "TEKRABber": [
     "apeglm",
     "biomaRt",
@@ -3381,7 +3353,6 @@
   ],
   "bioCancer": [
     "cBioPortalData",
-    "clusterProfiler",
     "ReactomePA",
     "MultiAssayExperiment",
     "RaggedExperiment",
@@ -3472,8 +3443,7 @@
   "broadSeq": [
     "DELocal",
     "EBSeq",
-    "DESeq2",
-    "clusterProfiler"
+    "DESeq2"
   ],
   "bsseq": [
     "BSgenome",
@@ -3679,7 +3649,6 @@
     "ScaledMatrix",
     "beachmat"
   ],
-  "clusterProfiler": [],
   "clustifyr": [
     "SingleCellExperiment"
   ],
@@ -3944,7 +3913,6 @@
   "debCAM": [],
   "debrowser": [
     "DESeq2",
-    "clusterProfiler",
     "sva",
     "apeglm"
   ],
@@ -4173,7 +4141,6 @@
   "epiregulon.extra": [
     "SingleCellExperiment",
     "scran",
-    "clusterProfiler",
     "scater",
     "scuttle",
     "beachmat",
@@ -4244,7 +4211,6 @@
     "Rbowtie2",
     "rtracklayer",
     "ChIPseeker",
-    "clusterProfiler",
     "BSgenome",
     "GenomicAlignments",
     "GenomicFeatures",
@@ -4298,9 +4264,7 @@
     "wiggleplotr",
     "GenomicAlignments"
   ],
-  "famat": [
-    "clusterProfiler"
-  ],
+  "famat": [],
   "fastseg": [],
   "fcScan": [
     "VariantAnnotation",
@@ -4393,7 +4357,6 @@
     "MultiAssayExperiment",
     "GenomicFeatures",
     "ReactomePA",
-    "clusterProfiler",
     "rtracklayer",
     "graphite",
     "GenomicAlignments"
@@ -4496,9 +4459,7 @@
   "goSTAG": [
     "biomaRt"
   ],
-  "goSorensen": [
-    "clusterProfiler"
-  ],
+  "goSorensen": [],
   "goTools": [],
   "goseq": [
     "rtracklayer",
@@ -4592,7 +4553,6 @@
     "GenomicFeatures",
     "bumphunter",
     "GEOquery",
-    "clusterProfiler",
     "ReactomePA",
     "rtracklayer",
     "txdbmaker",
@@ -4668,7 +4628,6 @@
     "rtracklayer",
     "GenomicFeatures",
     "Category",
-    "clusterProfiler",
     "GSEABase",
     "txdbmaker",
     "GenomicAlignments",
@@ -4801,7 +4760,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "mBPCR": [],
   "mCSEA": [
     "biomaRt",
     "GenomicFeatures",
@@ -4931,7 +4889,6 @@
     "GenomicAlignments"
   ],
   "methylGSA": [
-    "clusterProfiler",
     "missMethyl",
     "minfi",
     "methylumi",
@@ -5009,13 +4966,11 @@
   "miRSM": [
     "BicARE",
     "GSEABase",
-    "clusterProfiler",
     "ReactomePA",
     "graphite"
   ],
   "miRspongeR": [
     "SPONGE",
-    "clusterProfiler",
     "ReactomePA",
     "graphite",
     "biomaRt"
@@ -5124,7 +5079,6 @@
   ],
   "mosdef": [
     "topGO",
-    "clusterProfiler",
     "goseq",
     "DESeq2",
     "rtracklayer",
@@ -5454,9 +5408,7 @@
   "partCNV": [
     "SingleCellExperiment"
   ],
-  "pathlinkR": [
-    "clusterProfiler"
-  ],
+  "pathlinkR": [],
   "pcaExplorer": [
     "DESeq2",
     "mosdef",
@@ -5464,7 +5416,6 @@
     "GOstats",
     "biomaRt",
     "Category",
-    "clusterProfiler",
     "goseq",
     "GSEABase",
     "rtracklayer",
@@ -6154,7 +6105,6 @@
   "seqArchRplus": [
     "BSgenome",
     "ChIPseeker",
-    "clusterProfiler",
     "rtracklayer",
     "GenomicFeatures",
     "GenomicAlignments"
@@ -6193,7 +6143,6 @@
     "GenomicFeatures"
   ],
   "signatureSearch": [
-    "clusterProfiler",
     "GSEABase"
   ],
   "signeR": [
@@ -6531,7 +6480,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "tracktables": [],
   "tradeSeq": [
     "SingleCellExperiment",
     "slingshot",

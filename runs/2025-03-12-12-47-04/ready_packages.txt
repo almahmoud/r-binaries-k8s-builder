@@ -1,5 +1,10 @@
-SBGNview
-SIM
-arrayQualityMetrics
-blima
-epigenomix
+CEMiTool
+CaMutQC
+EasyCellType
+EnrichDO
+MAGeCKFlute
+MetaPhOR
+MicrobiomeProfiler
+famat
+goSorensen
+pathlinkR
