@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 963 packages built successfully
+- 966 packages built successfully
 - 16 packages failed to build
-- 1254 packages not yet processed
+- 1251 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (963)
+## Successfully Built (966)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -994,8 +994,11 @@
 | [genomicInstability](https://bioconductor.org/packages/3.20/bioc/html/genomicInstability.html)               | Built    | [Log](runs/2025-03-12-12-47-04/logs/genomicInstability/build-success.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/genomicInstability)        |
 | [idiogram](https://bioconductor.org/packages/3.20/bioc/html/idiogram.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/idiogram/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/idiogram)                  |
 | [rrvgo](https://bioconductor.org/packages/3.20/bioc/html/rrvgo.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/rrvgo/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rrvgo)                     |
+| [LinTInd](https://bioconductor.org/packages/3.20/bioc/html/LinTInd.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/LinTInd/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/LinTInd)                   |
+| [cmapR](https://bioconductor.org/packages/3.20/bioc/html/cmapR.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/cmapR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cmapR)                     |
+| [ggseqalign](https://bioconductor.org/packages/3.20/bioc/html/ggseqalign.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/ggseqalign/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ggseqalign)                |
 
-## Not Yet Processed (1254)
+## Not Yet Processed (1251)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1304,7 +1307,6 @@
 | [LOBSTAHS](https://bioconductor.org/packages/3.20/bioc/html/LOBSTAHS.html)                                       | Unprocessed |
 | [LOLA](https://bioconductor.org/packages/3.20/bioc/html/LOLA.html)                                               | Unprocessed |
 | [LRcell](https://bioconductor.org/packages/3.20/bioc/html/LRcell.html)                                           | Unprocessed |
-| [LinTInd](https://bioconductor.org/packages/3.20/bioc/html/LinTInd.html)                                         | Unprocessed |
 | [LinkHD](https://bioconductor.org/packages/3.20/bioc/html/LinkHD.html)                                           | Unprocessed |
 | [LoomExperiment](https://bioconductor.org/packages/3.20/bioc/html/LoomExperiment.html)                           | Unprocessed |
 | [LymphoSeq](https://bioconductor.org/packages/3.20/bioc/html/LymphoSeq.html)                                     | Unprocessed |
@@ -1706,7 +1708,6 @@
 | [clusterExperiment](https://bioconductor.org/packages/3.20/bioc/html/clusterExperiment.html)                     | Unprocessed |
 | [clusterProfiler](https://bioconductor.org/packages/3.20/bioc/html/clusterProfiler.html)                         | Unprocessed |
 | [clustifyr](https://bioconductor.org/packages/3.20/bioc/html/clustifyr.html)                                     | Unprocessed |
-| [cmapR](https://bioconductor.org/packages/3.20/bioc/html/cmapR.html)                                             | Unprocessed |
 | [cn.farms](https://bioconductor.org/packages/3.20/bioc/html/cn.farms.html)                                       | Unprocessed |
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)                                         | Unprocessed |
 | [coMethDMR](https://bioconductor.org/packages/3.20/bioc/html/coMethDMR.html)                                     | Unprocessed |
@@ -1833,7 +1834,6 @@
 | [ggcyto](https://bioconductor.org/packages/3.20/bioc/html/ggcyto.html)                                           | Unprocessed |
 | [ggmanh](https://bioconductor.org/packages/3.20/bioc/html/ggmanh.html)                                           | Unprocessed |
 | [ggsc](https://bioconductor.org/packages/3.20/bioc/html/ggsc.html)                                               | Unprocessed |
-| [ggseqalign](https://bioconductor.org/packages/3.20/bioc/html/ggseqalign.html)                                   | Unprocessed |
 | [ggspavis](https://bioconductor.org/packages/3.20/bioc/html/ggspavis.html)                                       | Unprocessed |
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)                                           | Unprocessed |
 | [glmGamPoi](https://bioconductor.org/packages/3.20/bioc/html/glmGamPoi.html)                                     | Unprocessed |

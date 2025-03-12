@@ -1687,7 +1687,6 @@
   ],
   "LOLA": [],
   "LRcell": [],
-  "LinTInd": [],
   "LinkHD": [
     "MultiAssayExperiment"
   ],
@@ -3869,7 +3868,6 @@
   "clustifyr": [
     "SingleCellExperiment"
   ],
-  "cmapR": [],
   "cn.farms": [
     "oligoClasses",
     "affxparser",
@@ -4681,7 +4679,6 @@
   "ggsc": [
     "SingleCellExperiment"
   ],
-  "ggseqalign": [],
   "ggspavis": [
     "SpatialExperiment",
     "SingleCellExperiment"

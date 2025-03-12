@@ -235,6 +235,7 @@ LEA
 LPE
 LRBaseDbi
 LedPred
+LinTInd
 Linnorm
 LiquidAssociation
 M3C
@@ -534,6 +535,7 @@ clstutils
 clustComp
 clusterSeq
 clusterStab
+cmapR
 cnvGSA
 coGPS
 coRdon
@@ -656,6 +658,7 @@ getDEE2
 geva
 ggkegg
 ggmsa
+ggseqalign
 ggtree
 ggtreeDendro
 ggtreeExtra
