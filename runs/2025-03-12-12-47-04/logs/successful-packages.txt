@@ -950,3 +950,7 @@ dinoR
 divergence
 enrichplot
 SVMDO
+diffcoexp
+doseR
+findIPs
+wpm

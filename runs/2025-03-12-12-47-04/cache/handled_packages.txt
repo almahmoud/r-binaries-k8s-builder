@@ -568,6 +568,7 @@ demuxmix
 densvis
 derfinderHelper
 diffGeneAnalysis
+diffcoexp
 diffuStats
 diggit
 dinoR
@@ -575,6 +576,7 @@ dir.expiry
 discordant
 divergence
 dks
+doseR
 drawProteins
 dupRadar
 dyebias
@@ -601,6 +603,7 @@ fedup
 fenr
 fgga
 fgsea
+findIPs
 flowAI
 flowBeads
 flowBin
@@ -963,6 +966,7 @@ vsn
 weaver
 weitrix
 widgetTools
+wpm
 wppi
 xmapbridge
 zlibbioc

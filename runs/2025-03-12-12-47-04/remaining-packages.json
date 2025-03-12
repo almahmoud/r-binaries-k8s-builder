@@ -4249,7 +4249,6 @@
     "AnnotationFilter",
     "GenomicAlignments"
   ],
-  "diffcoexp": [],
   "diffcyt": [],
   "distinct": [
     "SingleCellExperiment",
@@ -4280,7 +4279,6 @@
     "sva",
     "genefilter"
   ],
-  "doseR": [],
   "doubletrouble": [
     "syntenet",
     "GenomicFeatures",
@@ -4539,7 +4537,6 @@
     "GEOquery",
     "GenomicAlignments"
   ],
-  "findIPs": [],
   "fishpond": [
     "SingleCellExperiment"
   ],
@@ -7013,7 +7010,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "wpm": [],
   "xcms": [
     "MSnbase",
     "MsFeatures",

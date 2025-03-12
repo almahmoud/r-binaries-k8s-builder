@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 952 packages built successfully
+- 956 packages built successfully
 - 16 packages failed to build
-- 1265 packages not yet processed
+- 1261 packages not yet processed
 
 ## Failed Builds (16)
 | Package                                                                            | Status   | Log                                                              | BBS Status                                                                | Failure Reasons                     |
@@ -28,7 +28,7 @@
 | [GrafGen](https://bioconductor.org/packages/3.20/bioc/html/GrafGen.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/GrafGen/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GrafGen)      | Build failed with unknown error     |
 | [fastseg](https://bioconductor.org/packages/3.20/bioc/html/fastseg.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/fastseg/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fastseg)      | Build failed with unknown error     |
 
-## Successfully Built (952)
+## Successfully Built (956)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -983,8 +983,12 @@
 | [dinoR](https://bioconductor.org/packages/3.20/bioc/html/dinoR.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/dinoR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dinoR)                     |
 | [divergence](https://bioconductor.org/packages/3.20/bioc/html/divergence.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/divergence/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/divergence)                |
 | [enrichplot](https://bioconductor.org/packages/3.20/bioc/html/enrichplot.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/enrichplot/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/enrichplot)                |
+| [diffcoexp](https://bioconductor.org/packages/3.20/bioc/html/diffcoexp.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/diffcoexp/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/diffcoexp)                 |
+| [doseR](https://bioconductor.org/packages/3.20/bioc/html/doseR.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/doseR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/doseR)                     |
+| [findIPs](https://bioconductor.org/packages/3.20/bioc/html/findIPs.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/findIPs/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/findIPs)                   |
+| [wpm](https://bioconductor.org/packages/3.20/bioc/html/wpm.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/wpm/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/wpm)                       |
 
-## Not Yet Processed (1265)
+## Not Yet Processed (1261)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1752,14 +1756,12 @@
 | [destiny](https://bioconductor.org/packages/3.20/bioc/html/destiny.html)                                         | Unprocessed |
 | [diffHic](https://bioconductor.org/packages/3.20/bioc/html/diffHic.html)                                         | Unprocessed |
 | [diffUTR](https://bioconductor.org/packages/3.20/bioc/html/diffUTR.html)                                         | Unprocessed |
-| [diffcoexp](https://bioconductor.org/packages/3.20/bioc/html/diffcoexp.html)                                     | Unprocessed |
 | [diffcyt](https://bioconductor.org/packages/3.20/bioc/html/diffcyt.html)                                         | Unprocessed |
 | [distinct](https://bioconductor.org/packages/3.20/bioc/html/distinct.html)                                       | Unprocessed |
 | [dittoSeq](https://bioconductor.org/packages/3.20/bioc/html/dittoSeq.html)                                       | Unprocessed |
 | [dmrseq](https://bioconductor.org/packages/3.20/bioc/html/dmrseq.html)                                           | Unprocessed |
 | [dominoSignal](https://bioconductor.org/packages/3.20/bioc/html/dominoSignal.html)                               | Unprocessed |
 | [doppelgangR](https://bioconductor.org/packages/3.20/bioc/html/doppelgangR.html)                                 | Unprocessed |
-| [doseR](https://bioconductor.org/packages/3.20/bioc/html/doseR.html)                                             | Unprocessed |
 | [doubletrouble](https://bioconductor.org/packages/3.20/bioc/html/doubletrouble.html)                             | Unprocessed |
 | [dreamlet](https://bioconductor.org/packages/3.20/bioc/html/dreamlet.html)                                       | Unprocessed |
 | [drugTargetInteractions](https://bioconductor.org/packages/3.20/bioc/html/drugTargetInteractions.html)           | Unprocessed |
@@ -1795,7 +1797,6 @@
 | [famat](https://bioconductor.org/packages/3.20/bioc/html/famat.html)                                             | Unprocessed |
 | [fcScan](https://bioconductor.org/packages/3.20/bioc/html/fcScan.html)                                           | Unprocessed |
 | [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                               | Unprocessed |
-| [findIPs](https://bioconductor.org/packages/3.20/bioc/html/findIPs.html)                                         | Unprocessed |
 | [fishpond](https://bioconductor.org/packages/3.20/bioc/html/fishpond.html)                                       | Unprocessed |
 | [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                                           | Unprocessed |
 | [flowGate](https://bioconductor.org/packages/3.20/bioc/html/flowGate.html)                                       | Unprocessed |
@@ -2241,7 +2242,6 @@
 | [wavClusteR](https://bioconductor.org/packages/3.20/bioc/html/wavClusteR.html)                                   | Unprocessed |
 | [webbioc](https://bioconductor.org/packages/3.20/bioc/html/webbioc.html)                                         | Unprocessed |
 | [wiggleplotr](https://bioconductor.org/packages/3.20/bioc/html/wiggleplotr.html)                                 | Unprocessed |
-| [wpm](https://bioconductor.org/packages/3.20/bioc/html/wpm.html)                                                 | Unprocessed |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                                               | Unprocessed |
 | [xcore](https://bioconductor.org/packages/3.20/bioc/html/xcore.html)                                             | Unprocessed |
 | [xenLite](https://bioconductor.org/packages/3.20/bioc/html/xenLite.html)                                         | Unprocessed |
