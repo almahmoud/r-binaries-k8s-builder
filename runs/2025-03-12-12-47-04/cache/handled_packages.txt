@@ -19,6 +19,7 @@ BiRewire
 BioCartaImage
 BiocBaseUtils
 BiocFileCache
+BiocGenerics
 BiocNeighbors
 BiocParallel
 BiocStyle
@@ -43,6 +44,7 @@ DNABarcodes
 DNAcopy
 DTA
 DeMAND
+DepecheR
 DiffLogo
 DriverNet
 EmpiricalBrownsMethod
@@ -63,8 +65,11 @@ HPAanalyze
 HPiP
 Heatplus
 INTACT
+Icens
+KBoost
 LPE
 MVCClass
+MassSpecWavelet
 MeasurementError.cor
 Mergeomics
 ModCon
@@ -77,6 +82,8 @@ OSAT
 Omixer
 RBM
 REBET
+RLMM
+RNASeqPower
 ROC
 RProtoBufLib
 RRHO
@@ -84,6 +91,7 @@ RSeqAn
 RankProd
 Rbowtie
 RedeR
+SCBN
 SLqPCR
 SMAD
 SNAGEE
@@ -97,12 +105,14 @@ TargetSearch
 VennDetail
 a4Reporting
 acde
+affxparser
 affyio
 agilp
 alabaster.schemas
 alevinQC
 antiProfiles
 aroma.light
+arrayQuality
 assorthead
 basilisk.utils
 biocthis
@@ -118,6 +128,7 @@ ccrepe
 ceRNAnetsim
 cellmigRation
 cellscape
+cellxgenedp
 clustComp
 coGPS
 deltaGseg
@@ -150,6 +161,7 @@ globalSeq
 granulator
 graper
 gypsum
+hca
 hierGWAS
 hypeR
 iCOBRA
@@ -161,11 +173,13 @@ limma
 limmaGUI
 lmdme
 logicFS
+maCorrPlot
 magrene
 marray
 mgsa
 mina
 mixOmics
+nnNorm
 ompBAM
 onlineFDR
 oppti
@@ -178,6 +192,7 @@ quantsmooth
 qvalue
 rBiopaxParser
 rpx
+scBubbletree
 scRecover
 scShapes
 scTHI
@@ -197,6 +212,7 @@ spikeLI
 splots
 ssize
 ssrch
+stepNorm
 survcomp
 swfdr
 switchBox

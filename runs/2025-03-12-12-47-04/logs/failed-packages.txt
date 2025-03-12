@@ -3,3 +3,4 @@ GLAD
 graper
 NetPathMiner
 CytoGLMM
+affxparser
