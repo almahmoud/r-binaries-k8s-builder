@@ -170,7 +170,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "BUMHMM": [],
   "BUSpaRse": [
     "AnnotationFilter",
     "BSgenome",
@@ -322,9 +321,7 @@
     "SingleCellExperiment"
   ],
   "CBNplot": [],
-  "CCPROMISE": [
-    "PROMISE"
-  ],
+  "CCPROMISE": [],
   "CDI": [
     "SingleCellExperiment"
   ],
@@ -1002,7 +999,6 @@
   "GDCRNATools": [
     "DESeq2"
   ],
-  "GENESIS": [],
   "GEOexplorer": [
     "GEOquery"
   ],
@@ -1792,7 +1788,6 @@
     "MAST"
   ],
   "PPInfer": [],
-  "PROMISE": [],
   "PRONE": [
     "MSnbase",
     "POMA",
@@ -1900,7 +1895,6 @@
     "GenomicFeatures"
   ],
   "RAIDS": [
-    "GENESIS",
     "ensembldb",
     "BSgenome",
     "AnnotationFilter",
@@ -2955,7 +2949,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "cellbaseR": [],
   "cellity": [
     "topGO"
   ],
@@ -3377,7 +3370,6 @@
     "BSgenome",
     "beachmat"
   ],
-  "dominoSignal": [],
   "doppelgangR": [],
   "doubletrouble": [
     "syntenet",

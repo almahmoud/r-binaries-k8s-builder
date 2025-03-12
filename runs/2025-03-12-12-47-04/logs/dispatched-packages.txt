@@ -1339,3 +1339,4 @@ GENESIS
 VariantExperiment
 alabaster.se
 sampleClassifier
+CCPROMISE

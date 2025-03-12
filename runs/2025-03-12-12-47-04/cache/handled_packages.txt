@@ -39,6 +39,7 @@ BG2
 BLMA
 BPRMeth
 BRAIN
+BUMHMM
 BUS
 BUScorrect
 BaalChIP
@@ -183,6 +184,7 @@ GAprediction
 GBScleanR
 GDSArray
 GEM
+GENESIS
 GENIE3
 GEOfastq
 GEOmetadb
@@ -383,6 +385,7 @@ PIPETS
 PIUMA
 PLPE
 PREDA
+PROMISE
 PROPER
 PROPS
 PROcess
@@ -620,6 +623,7 @@ cancerclass
 cbpManager
 ccrepe
 ceRNAnetsim
+cellbaseR
 cellmigRation
 cellscape
 cellxgenedp
@@ -638,6 +642,7 @@ clusterProfiler
 clusterSeq
 clusterStab
 cmapR
+cn.mops
 cnvGSA
 coGPS
 coRdon
@@ -688,6 +693,7 @@ dir.expiry
 discordant
 divergence
 dks
+dominoSignal
 doseR
 drawProteins
 dupRadar
