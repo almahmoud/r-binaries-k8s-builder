@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1732 packages built successfully
+- 1733 packages built successfully
 - 27 packages failed to build
-- 474 packages not yet processed
+- 473 packages not yet processed
 
 ## Failed Builds (27)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -39,7 +39,7 @@
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 
-## Successfully Built (1732)
+## Successfully Built (1733)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1774,8 +1774,9 @@
 | [diffUTR](https://bioconductor.org/packages/3.20/bioc/html/diffUTR.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/diffUTR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/diffUTR)                    |
 | [transmogR](https://bioconductor.org/packages/3.20/bioc/html/transmogR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/transmogR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/transmogR)                  |
 | [GenomicFiles](https://bioconductor.org/packages/3.20/bioc/html/GenomicFiles.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/GenomicFiles/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicFiles)               |
+| [TitanCNA](https://bioconductor.org/packages/3.20/bioc/html/TitanCNA.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/TitanCNA/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TitanCNA)                   |
 
-## Not Yet Processed (474)
+## Not Yet Processed (473)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1982,7 +1983,6 @@
 | [TFHAZ](https://bioconductor.org/packages/3.20/bioc/html/TFHAZ.html)                                             | Unprocessed |
 | [TRESS](https://bioconductor.org/packages/3.20/bioc/html/TRESS.html)                                             | Unprocessed |
 | [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                               | Unprocessed |
-| [TitanCNA](https://bioconductor.org/packages/3.20/bioc/html/TitanCNA.html)                                       | Unprocessed |
 | [UMI4Cats](https://bioconductor.org/packages/3.20/bioc/html/UMI4Cats.html)                                       | Unprocessed |
 | [UPDhmm](https://bioconductor.org/packages/3.20/bioc/html/UPDhmm.html)                                           | Unprocessed |
 | [Ularcirc](https://bioconductor.org/packages/3.20/bioc/html/Ularcirc.html)                                       | Unprocessed |

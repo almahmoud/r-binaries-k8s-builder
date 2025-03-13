@@ -1730,3 +1730,4 @@
 ['[diffUTR](https://bioconductor.org/packages/3.20/bioc/html/diffUTR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/diffUTR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/diffUTR)']
 ['[transmogR](https://bioconductor.org/packages/3.20/bioc/html/transmogR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/transmogR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/transmogR)']
 ['[GenomicFiles](https://bioconductor.org/packages/3.20/bioc/html/GenomicFiles.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GenomicFiles/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicFiles)']
+['[TitanCNA](https://bioconductor.org/packages/3.20/bioc/html/TitanCNA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/TitanCNA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TitanCNA)']

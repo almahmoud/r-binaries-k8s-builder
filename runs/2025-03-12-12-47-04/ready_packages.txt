@@ -1,4 +1,0 @@
-Rqc
-VCFArray
-derfinder
-gDNAx

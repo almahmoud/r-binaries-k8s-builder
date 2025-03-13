@@ -1730,3 +1730,4 @@ R453Plus1Toolbox
 SNPhood
 transmogR
 GenomicFiles
+TitanCNA

@@ -822,6 +822,7 @@ TargetScore
 TargetSearch
 TileDBArray
 TissueEnrich
+TitanCNA
 TnT
 ToxicoGx
 TrajectoryGeometry
