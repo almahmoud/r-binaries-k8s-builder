@@ -1594,3 +1594,5 @@
 ['[scRNAseqApp](https://bioconductor.org/packages/3.20/bioc/html/scRNAseqApp.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scRNAseqApp/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scRNAseqApp)']
 ['[seqsetvis](https://bioconductor.org/packages/3.20/bioc/html/seqsetvis.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/seqsetvis/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/seqsetvis)']
 ['[tradeSeq](https://bioconductor.org/packages/3.20/bioc/html/tradeSeq.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/tradeSeq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tradeSeq)']
+['[LOLA](https://bioconductor.org/packages/3.20/bioc/html/LOLA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/LOLA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/LOLA)']
+['[SpectralTAD](https://bioconductor.org/packages/3.20/bioc/html/SpectralTAD.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SpectralTAD/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SpectralTAD)']

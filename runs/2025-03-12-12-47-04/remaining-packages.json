@@ -660,7 +660,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "LOLA": [],
   "LinkHD": [],
   "LymphoSeq": [],
   "M3Drop": [
@@ -1163,7 +1162,6 @@
     "SpatialExperiment",
     "scuttle"
   ],
-  "SpectralTAD": [],
   "SplicingGraphs": [
     "GenomicFeatures"
   ],

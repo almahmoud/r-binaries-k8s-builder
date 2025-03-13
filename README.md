@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1596 packages built successfully
+- 1598 packages built successfully
 - 24 packages failed to build
-- 613 packages not yet processed
+- 611 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1596)
+## Successfully Built (1598)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1635,8 +1635,10 @@
 | [scRNAseqApp](https://bioconductor.org/packages/3.20/bioc/html/scRNAseqApp.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/scRNAseqApp/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scRNAseqApp)                |
 | [seqsetvis](https://bioconductor.org/packages/3.20/bioc/html/seqsetvis.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/seqsetvis/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/seqsetvis)                  |
 | [tradeSeq](https://bioconductor.org/packages/3.20/bioc/html/tradeSeq.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/tradeSeq/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tradeSeq)                   |
+| [LOLA](https://bioconductor.org/packages/3.20/bioc/html/LOLA.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/LOLA/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/LOLA)                       |
+| [SpectralTAD](https://bioconductor.org/packages/3.20/bioc/html/SpectralTAD.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/SpectralTAD/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SpectralTAD)                |
 
-## Not Yet Processed (613)
+## Not Yet Processed (611)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1788,7 +1790,6 @@
 | [IntEREst](https://bioconductor.org/packages/3.20/bioc/html/IntEREst.html)                                       | Unprocessed |
 | [IsoformSwitchAnalyzeR](https://bioconductor.org/packages/3.20/bioc/html/IsoformSwitchAnalyzeR.html)             | Unprocessed |
 | [LOBSTAHS](https://bioconductor.org/packages/3.20/bioc/html/LOBSTAHS.html)                                       | Unprocessed |
-| [LOLA](https://bioconductor.org/packages/3.20/bioc/html/LOLA.html)                                               | Unprocessed |
 | [LinkHD](https://bioconductor.org/packages/3.20/bioc/html/LinkHD.html)                                           | Unprocessed |
 | [LymphoSeq](https://bioconductor.org/packages/3.20/bioc/html/LymphoSeq.html)                                     | Unprocessed |
 | [M3Drop](https://bioconductor.org/packages/3.20/bioc/html/M3Drop.html)                                           | Unprocessed |
@@ -1897,7 +1898,6 @@
 | [SpatialCPie](https://bioconductor.org/packages/3.20/bioc/html/SpatialCPie.html)                                 | Unprocessed |
 | [SpatialExperiment](https://bioconductor.org/packages/3.20/bioc/html/SpatialExperiment.html)                     | Unprocessed |
 | [SpatialFeatureExperiment](https://bioconductor.org/packages/3.20/bioc/html/SpatialFeatureExperiment.html)       | Unprocessed |
-| [SpectralTAD](https://bioconductor.org/packages/3.20/bioc/html/SpectralTAD.html)                                 | Unprocessed |
 | [SplicingGraphs](https://bioconductor.org/packages/3.20/bioc/html/SplicingGraphs.html)                           | Unprocessed |
 | [SpotClean](https://bioconductor.org/packages/3.20/bioc/html/SpotClean.html)                                     | Unprocessed |
 | [SpotSweeper](https://bioconductor.org/packages/3.20/bioc/html/SpotSweeper.html)                                 | Unprocessed |

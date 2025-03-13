@@ -387,6 +387,7 @@ KnowSeq
 LACE
 LBE
 LEA
+LOLA
 LPE
 LRBaseDbi
 LRcell
@@ -715,6 +716,7 @@ SpatialOmicsOverlay
 SpeCond
 Spectra
 SpectraQL
+SpectralTAD
 SpliceWiz
 SplicingFactory
 Streamer
