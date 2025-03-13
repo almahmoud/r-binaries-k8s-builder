@@ -12,7 +12,6 @@
     "oligo",
     "affxparser"
   ],
-  "BASiCStan": [],
   "BatchQC": [
     "EBSeq"
   ],
@@ -302,7 +301,6 @@
     "oligo",
     "affxparser"
   ],
-  "regioneReloaded": [],
   "ribosomeProfilingQC": [],
   "scDD": [
     "EBSeq"

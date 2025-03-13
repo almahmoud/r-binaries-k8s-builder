@@ -51,6 +51,7 @@ BADER
 BAGS
 BANDITS
 BASiCS
+BASiCStan
 BBCAnalyzer
 BCRANK
 BEAT
@@ -1813,6 +1814,7 @@ recoup
 regionReport
 regionalpcs
 regioneR
+regioneReloaded
 regsplice
 regutools
 retrofit

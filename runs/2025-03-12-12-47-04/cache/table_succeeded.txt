@@ -2062,3 +2062,5 @@
 ['[BOBaFIT](https://bioconductor.org/packages/3.20/bioc/html/BOBaFIT.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/BOBaFIT/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BOBaFIT)']
 ['[cageminer](https://bioconductor.org/packages/3.20/bioc/html/cageminer.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/cageminer/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cageminer)']
 ['[distinct](https://bioconductor.org/packages/3.20/bioc/html/distinct.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/distinct/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/distinct)']
+['[BASiCStan](https://bioconductor.org/packages/3.20/bioc/html/BASiCStan.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/BASiCStan/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BASiCStan)']
+['[regioneReloaded](https://bioconductor.org/packages/3.20/bioc/html/regioneReloaded.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/regioneReloaded/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/regioneReloaded)']
