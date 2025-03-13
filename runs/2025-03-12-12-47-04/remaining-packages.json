@@ -614,9 +614,7 @@
   "ExperimentSubset": [
     "SpatialExperiment"
   ],
-  "FEAST": [
-    "TSCAN"
-  ],
+  "FEAST": [],
   "FLAMES": [
     "bambu",
     "DropletUtils",
@@ -1646,7 +1644,6 @@
   "TRESS": [
     "GenomicFeatures"
   ],
-  "TSCAN": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -1864,7 +1861,6 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "biocGraph": [],
   "biomvRCNS": [
     "Gviz",
     "GenomicFeatures",
@@ -1957,7 +1953,6 @@
     "GenomicFeatures"
   ],
   "ccmap": [],
-  "celaref": [],
   "celda": [
     "scater",
     "scran",
@@ -3486,7 +3481,6 @@
     "celda",
     "DropletUtils",
     "scDblFinder",
-    "TSCAN",
     "scuttle",
     "BiocSingular",
     "GenomicFeatures",

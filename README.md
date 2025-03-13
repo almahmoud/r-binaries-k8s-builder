@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1392 packages built successfully
+- 1395 packages built successfully
 - 22 packages failed to build
-- 819 packages not yet processed
+- 816 packages not yet processed
 
 ## Failed Builds (22)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -34,7 +34,7 @@
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 
-## Successfully Built (1392)
+## Successfully Built (1395)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1429,8 +1429,11 @@
 | [schex](https://bioconductor.org/packages/3.20/bioc/html/schex.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/schex/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/schex)                      |
 | [ballgown](https://bioconductor.org/packages/3.20/bioc/html/ballgown.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/ballgown/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ballgown)                   |
 | [basecallQC](https://bioconductor.org/packages/3.20/bioc/html/basecallQC.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/basecallQC/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/basecallQC)                 |
+| [TSCAN](https://bioconductor.org/packages/3.20/bioc/html/TSCAN.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/TSCAN/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TSCAN)                      |
+| [biocGraph](https://bioconductor.org/packages/3.20/bioc/html/biocGraph.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/biocGraph/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biocGraph)                  |
+| [celaref](https://bioconductor.org/packages/3.20/bioc/html/celaref.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/celaref/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/celaref)                    |
 
-## Not Yet Processed (819)
+## Not Yet Processed (816)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1790,7 +1793,6 @@
 | [TFEA.ChIP](https://bioconductor.org/packages/3.20/bioc/html/TFEA.ChIP.html)                                     | Unprocessed |
 | [TFHAZ](https://bioconductor.org/packages/3.20/bioc/html/TFHAZ.html)                                             | Unprocessed |
 | [TRESS](https://bioconductor.org/packages/3.20/bioc/html/TRESS.html)                                             | Unprocessed |
-| [TSCAN](https://bioconductor.org/packages/3.20/bioc/html/TSCAN.html)                                             | Unprocessed |
 | [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                               | Unprocessed |
 | [TitanCNA](https://bioconductor.org/packages/3.20/bioc/html/TitanCNA.html)                                       | Unprocessed |
 | [ToxicoGx](https://bioconductor.org/packages/3.20/bioc/html/ToxicoGx.html)                                       | Unprocessed |
@@ -1833,7 +1835,6 @@
 | [benchdamic](https://bioconductor.org/packages/3.20/bioc/html/benchdamic.html)                                   | Unprocessed |
 | [bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)                                       | Unprocessed |
 | [bioCancer](https://bioconductor.org/packages/3.20/bioc/html/bioCancer.html)                                     | Unprocessed |
-| [biocGraph](https://bioconductor.org/packages/3.20/bioc/html/biocGraph.html)                                     | Unprocessed |
 | [biomvRCNS](https://bioconductor.org/packages/3.20/bioc/html/biomvRCNS.html)                                     | Unprocessed |
 | [biosigner](https://bioconductor.org/packages/3.20/bioc/html/biosigner.html)                                     | Unprocessed |
 | [biovizBase](https://bioconductor.org/packages/3.20/bioc/html/biovizBase.html)                                   | Unprocessed |
@@ -1852,7 +1853,6 @@
 | [categoryCompare](https://bioconductor.org/packages/3.20/bioc/html/categoryCompare.html)                         | Unprocessed |
 | [cbaf](https://bioconductor.org/packages/3.20/bioc/html/cbaf.html)                                               | Unprocessed |
 | [ccmap](https://bioconductor.org/packages/3.20/bioc/html/ccmap.html)                                             | Unprocessed |
-| [celaref](https://bioconductor.org/packages/3.20/bioc/html/celaref.html)                                         | Unprocessed |
 | [celda](https://bioconductor.org/packages/3.20/bioc/html/celda.html)                                             | Unprocessed |
 | [cellity](https://bioconductor.org/packages/3.20/bioc/html/cellity.html)                                         | Unprocessed |
 | [cfDNAPro](https://bioconductor.org/packages/3.20/bioc/html/cfDNAPro.html)                                       | Unprocessed |

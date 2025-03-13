@@ -661,6 +661,7 @@ TPP2D
 TREG
 TRONCO
 TSAR
+TSCAN
 TTMap
 TargetDecoy
 TargetScore
@@ -757,6 +758,7 @@ bioDist
 bioassayR
 biobroom
 biobtreeR
+biocGraph
 biocViews
 biocroxytest
 biocthis
@@ -784,6 +786,7 @@ ccImpute
 ccfindR
 ccrepe
 ceRNAnetsim
+celaref
 cellbaseR
 cellmigRation
 cellscape

@@ -1390,3 +1390,6 @@
 ['[schex](https://bioconductor.org/packages/3.20/bioc/html/schex.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/schex/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/schex)']
 ['[ballgown](https://bioconductor.org/packages/3.20/bioc/html/ballgown.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ballgown/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ballgown)']
 ['[basecallQC](https://bioconductor.org/packages/3.20/bioc/html/basecallQC.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/basecallQC/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/basecallQC)']
+['[TSCAN](https://bioconductor.org/packages/3.20/bioc/html/TSCAN.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/TSCAN/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TSCAN)']
+['[biocGraph](https://bioconductor.org/packages/3.20/bioc/html/biocGraph.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/biocGraph/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biocGraph)']
+['[celaref](https://bioconductor.org/packages/3.20/bioc/html/celaref.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/celaref/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/celaref)']
