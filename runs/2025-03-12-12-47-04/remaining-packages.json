@@ -91,7 +91,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "BSgenomeForge": [],
   "BUSpaRse": [
     "ensembldb",
     "GenomicFeatures",
@@ -273,7 +272,6 @@
     "oligo",
     "affxparser"
   ],
-  "ChIPanalyser": [],
   "ChIPexoQual": [
     "biovizBase",
     "GenomicFeatures",
@@ -2464,8 +2462,6 @@
   "nnSVG": [
     "SpatialExperiment"
   ],
-  "normr": [],
-  "nucleR": [],
   "nullranges": [
     "plyranges"
   ],

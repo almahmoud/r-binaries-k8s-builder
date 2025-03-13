@@ -1508,3 +1508,7 @@ qsea
 rGADEM
 m6Aboost
 traseR
+BSgenomeForge
+ChIPanalyser
+normr
+nucleR

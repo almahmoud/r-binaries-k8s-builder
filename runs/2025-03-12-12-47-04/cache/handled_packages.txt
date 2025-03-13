@@ -54,6 +54,7 @@ BPRMeth
 BRAIN
 BREW3R.r
 BSgenome
+BSgenomeForge
 BUMHMM
 BUS
 BUScorrect
@@ -147,6 +148,7 @@ CellNOptR
 CellScore
 CellTrails
 Cepo
+ChIPanalyser
 ChemmineOB
 ChemmineR
 Chicago
@@ -1234,8 +1236,10 @@ ngsReports
 nipalsMCIA
 nnNorm
 normalize450K
+normr
 npGSEA
 nuCpos
+nucleR
 nucleoSim
 occugene
 oligoClasses
