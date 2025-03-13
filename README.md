@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1842 packages built successfully
+- 1844 packages built successfully
 - 28 packages failed to build
-- 363 packages not yet processed
+- 361 packages not yet processed
 
 ## Failed Builds (28)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -40,7 +40,7 @@
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 
-## Successfully Built (1842)
+## Successfully Built (1844)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1885,8 +1885,10 @@
 | [InTAD](https://bioconductor.org/packages/3.20/bioc/html/InTAD.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/InTAD/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/InTAD)                       |
 | [Uniquorn](https://bioconductor.org/packages/3.20/bioc/html/Uniquorn.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/Uniquorn/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Uniquorn)                    |
 | [attract](https://bioconductor.org/packages/3.20/bioc/html/attract.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/attract/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/attract)                     |
+| [hoodscanR](https://bioconductor.org/packages/3.20/bioc/html/hoodscanR.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/hoodscanR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hoodscanR)                   |
+| [txdbmaker](https://bioconductor.org/packages/3.20/bioc/html/txdbmaker.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/txdbmaker/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/txdbmaker)                   |
 
-## Not Yet Processed (363)
+## Not Yet Processed (361)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2127,7 +2129,6 @@
 | [gmapR](https://bioconductor.org/packages/3.20/bioc/html/gmapR.html)                                           | Unprocessed |
 | [goseq](https://bioconductor.org/packages/3.20/bioc/html/goseq.html)                                           | Unprocessed |
 | [gwascat](https://bioconductor.org/packages/3.20/bioc/html/gwascat.html)                                       | Unprocessed |
-| [hoodscanR](https://bioconductor.org/packages/3.20/bioc/html/hoodscanR.html)                                   | Unprocessed |
 | [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                                         | Unprocessed |
 | [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                                   | Unprocessed |
 | [iSEEtree](https://bioconductor.org/packages/3.20/bioc/html/iSEEtree.html)                                     | Unprocessed |
@@ -2242,7 +2243,6 @@
 | [trackViewer](https://bioconductor.org/packages/3.20/bioc/html/trackViewer.html)                               | Unprocessed |
 | [tricycle](https://bioconductor.org/packages/3.20/bioc/html/tricycle.html)                                     | Unprocessed |
 | [txcutr](https://bioconductor.org/packages/3.20/bioc/html/txcutr.html)                                         | Unprocessed |
-| [txdbmaker](https://bioconductor.org/packages/3.20/bioc/html/txdbmaker.html)                                   | Unprocessed |
 | [tximeta](https://bioconductor.org/packages/3.20/bioc/html/tximeta.html)                                       | Unprocessed |
 | [uncoverappLib](https://bioconductor.org/packages/3.20/bioc/html/uncoverappLib.html)                           | Unprocessed |
 | [velociraptor](https://bioconductor.org/packages/3.20/bioc/html/velociraptor.html)                             | Unprocessed |

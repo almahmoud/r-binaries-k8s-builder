@@ -1840,3 +1840,5 @@
 ['[InTAD](https://bioconductor.org/packages/3.20/bioc/html/InTAD.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/InTAD/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/InTAD)']
 ['[Uniquorn](https://bioconductor.org/packages/3.20/bioc/html/Uniquorn.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Uniquorn/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Uniquorn)']
 ['[attract](https://bioconductor.org/packages/3.20/bioc/html/attract.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/attract/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/attract)']
+['[hoodscanR](https://bioconductor.org/packages/3.20/bioc/html/hoodscanR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/hoodscanR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hoodscanR)']
+['[txdbmaker](https://bioconductor.org/packages/3.20/bioc/html/txdbmaker.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/txdbmaker/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/txdbmaker)']
