@@ -24,7 +24,6 @@
   ],
   "AgiMicroRna": [
     "affycoretools",
-    "GOstats",
     "ReportingTools",
     "ggbio",
     "OrganismDbi",
@@ -282,7 +281,6 @@
   "GNOSIS": [
     "cBioPortalData"
   ],
-  "GOstats": [],
   "GSReg": [
     "OrganismDbi",
     "txdbmaker"
@@ -323,9 +321,7 @@
     "RCAS",
     "txdbmaker"
   ],
-  "GmicR": [
-    "GOstats"
-  ],
+  "GmicR": [],
   "GrafGen": [],
   "Gviz": [],
   "HIBAG": [],
@@ -430,7 +426,6 @@
     "GEOquery"
   ],
   "MineICA": [
-    "GOstats",
     "lumi",
     "methylumi",
     "minfi",
@@ -534,7 +529,6 @@
   ],
   "Repitools": [],
   "ReportingTools": [
-    "GOstats",
     "ggbio",
     "OrganismDbi",
     "txdbmaker"
@@ -577,9 +571,7 @@
   "SCArray.sat": [
     "SCArray"
   ],
-  "SGCP": [
-    "GOstats"
-  ],
+  "SGCP": [],
   "SIAMCAT": [],
   "SMITE": [
     "goseq",
@@ -667,7 +659,6 @@
     "affxparser"
   ],
   "affycoretools": [
-    "GOstats",
     "ReportingTools",
     "ggbio",
     "OrganismDbi",
@@ -698,9 +689,7 @@
     "motifStack",
     "TFBSTools"
   ],
-  "attract": [
-    "GOstats"
-  ],
+  "attract": [],
   "bandle": [
     "pRoloc"
   ],
@@ -741,9 +730,7 @@
     "phenoTest"
   ],
   "casper": [],
-  "categoryCompare": [
-    "GOstats"
-  ],
+  "categoryCompare": [],
   "cbaf": [
     "cBioPortalData"
   ],
@@ -995,7 +982,6 @@
   "ideal": [
     "mosdef",
     "goseq",
-    "GOstats",
     "txdbmaker"
   ],
   "imcRtools": [
@@ -1083,9 +1069,7 @@
     "minfi",
     "GEOquery"
   ],
-  "miRLAB": [
-    "GOstats"
-  ],
+  "miRLAB": [],
   "mia": [
     "scater",
     "scuttle"
@@ -1168,7 +1152,6 @@
   ],
   "netZooR": [
     "yarn",
-    "GOstats",
     "quantro",
     "minfi",
     "GEOquery"
@@ -1200,7 +1183,6 @@
   "pathlinkR": [],
   "pcaExplorer": [
     "mosdef",
-    "GOstats",
     "goseq",
     "txdbmaker"
   ],
@@ -1325,8 +1307,7 @@
     "scuttle"
   ],
   "scTensor": [
-    "meshr",
-    "GOstats"
+    "meshr"
   ],
   "scTreeViz": [
     "epivizr",

@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1784 packages built successfully
+- 1785 packages built successfully
 - 27 packages failed to build
-- 422 packages not yet processed
+- 421 packages not yet processed
 
 ## Failed Builds (27)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -39,7 +39,7 @@
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 
-## Successfully Built (1784)
+## Successfully Built (1785)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1826,8 +1826,9 @@
 | [spatialSimGP](https://bioconductor.org/packages/3.20/bioc/html/spatialSimGP.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/spatialSimGP/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spatialSimGP)                |
 | [stJoincount](https://bioconductor.org/packages/3.20/bioc/html/stJoincount.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/stJoincount/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/stJoincount)                 |
 | [transformGamPoi](https://bioconductor.org/packages/3.20/bioc/html/transformGamPoi.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/transformGamPoi/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/transformGamPoi)             |
+| [GOstats](https://bioconductor.org/packages/3.20/bioc/html/GOstats.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/GOstats/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GOstats)                     |
 
-## Not Yet Processed (422)
+## Not Yet Processed (421)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -1912,7 +1913,6 @@
 | [GEOexplorer](https://bioconductor.org/packages/3.20/bioc/html/GEOexplorer.html)                               | Unprocessed |
 | [GEOquery](https://bioconductor.org/packages/3.20/bioc/html/GEOquery.html)                                     | Unprocessed |
 | [GNOSIS](https://bioconductor.org/packages/3.20/bioc/html/GNOSIS.html)                                         | Unprocessed |
-| [GOstats](https://bioconductor.org/packages/3.20/bioc/html/GOstats.html)                                       | Unprocessed |
 | [GSReg](https://bioconductor.org/packages/3.20/bioc/html/GSReg.html)                                           | Unprocessed |
 | [GSVA](https://bioconductor.org/packages/3.20/bioc/html/GSVA.html)                                             | Unprocessed |
 | [GUIDEseq](https://bioconductor.org/packages/3.20/bioc/html/GUIDEseq.html)                                     | Unprocessed |

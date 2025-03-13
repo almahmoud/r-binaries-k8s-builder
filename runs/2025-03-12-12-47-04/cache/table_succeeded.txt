@@ -1782,3 +1782,4 @@
 ['[spatialSimGP](https://bioconductor.org/packages/3.20/bioc/html/spatialSimGP.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/spatialSimGP/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spatialSimGP)']
 ['[stJoincount](https://bioconductor.org/packages/3.20/bioc/html/stJoincount.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/stJoincount/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/stJoincount)']
 ['[transformGamPoi](https://bioconductor.org/packages/3.20/bioc/html/transformGamPoi.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/transformGamPoi/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/transformGamPoi)']
+['[GOstats](https://bioconductor.org/packages/3.20/bioc/html/GOstats.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GOstats/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GOstats)']

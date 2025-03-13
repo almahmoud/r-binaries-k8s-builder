@@ -307,6 +307,7 @@ GOTHiC
 GOexpress
 GOfuncR
 GOpro
+GOstats
 GPA
 GRENITS
 GRaNIE
