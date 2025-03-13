@@ -1360,3 +1360,13 @@ yamss
 zellkonverter
 zFPKM
 zinbwave
+alabaster.mae
+BiocHubsShiny
+gage
+iasva
+metabolomicsWorkbenchR
+safe
+scDiagnostics
+scmap
+sesame
+switchde

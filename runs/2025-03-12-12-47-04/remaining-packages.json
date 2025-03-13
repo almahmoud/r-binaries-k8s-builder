@@ -164,7 +164,6 @@
     "BiocSingular",
     "beachmat"
   ],
-  "BiocHubsShiny": [],
   "BiocSingular": [
     "beachmat"
   ],
@@ -590,9 +589,7 @@
     "GEOquery"
   ],
   "EGSEA": [
-    "gage",
     "GSVA",
-    "safe",
     "SpatialExperiment",
     "BiocSingular",
     "beachmat"
@@ -615,9 +612,7 @@
     "DESeq2"
   ],
   "EWCE": [],
-  "EnrichmentBrowser": [
-    "safe"
-  ],
+  "EnrichmentBrowser": [],
   "EpiCompare": [
     "ChIPseeker",
     "genomation",
@@ -724,8 +719,7 @@
     "GenomicFeatures"
   ],
   "GSEABenchmarkeR": [
-    "EnrichmentBrowser",
-    "safe"
+    "EnrichmentBrowser"
   ],
   "GSRI": [],
   "GSReg": [
@@ -1074,7 +1068,6 @@
     "txdbmaker"
   ],
   "MethReg": [
-    "sesame",
     "TFBSTools",
     "BSgenome",
     "CNEr"
@@ -1845,13 +1838,11 @@
   "alabaster": [
     "alabaster.spatial",
     "alabaster.vcf",
-    "alabaster.mae",
     "SpatialExperiment",
     "VariantAnnotation",
     "BSgenome",
     "GenomicFeatures"
   ],
-  "alabaster.mae": [],
   "alabaster.spatial": [
     "SpatialExperiment"
   ],
@@ -2364,8 +2355,7 @@
   "dreamlet": [
     "zenith",
     "beachmat",
-    "EnrichmentBrowser",
-    "safe"
+    "EnrichmentBrowser"
   ],
   "drugTargetInteractions": [
     "ensembldb",
@@ -2561,7 +2551,6 @@
   "gINTomics": [
     "GenomicFeatures"
   ],
-  "gage": [],
   "gcapc": [
     "BSgenome"
   ],
@@ -2696,7 +2685,6 @@
   "iSEEu": [
     "iSEEhex"
   ],
-  "iasva": [],
   "icetea": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -2836,7 +2824,6 @@
     "QFeatures",
     "PSMatch"
   ],
-  "metabolomicsWorkbenchR": [],
   "metagene2": [],
   "metaseqR2": [
     "DESeq2",
@@ -3408,7 +3395,6 @@
   ],
   "roar": [],
   "rqt": [],
-  "safe": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -3448,7 +3434,6 @@
     "scuttle",
     "beachmat"
   ],
-  "scDiagnostics": [],
   "scDotPlot": [
     "scater",
     "scuttle",
@@ -3524,7 +3509,6 @@
   "scider": [
     "SpatialExperiment"
   ],
-  "scmap": [],
   "scmeth": [
     "bsseq",
     "BSgenome",
@@ -3598,7 +3582,6 @@
     "GenomicFeatures"
   ],
   "seqsetvis": [],
-  "sesame": [],
   "sevenC": [],
   "shinyMethyl": [
     "minfi",
@@ -3742,7 +3725,6 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "switchde": [],
   "synapter": [
     "MSnbase",
     "PSMatch",
@@ -3909,8 +3891,7 @@
     "GenomicFeatures"
   ],
   "zenith": [
-    "EnrichmentBrowser",
-    "safe"
+    "EnrichmentBrowser"
   ],
   "zitools": [
     "DESeq2"

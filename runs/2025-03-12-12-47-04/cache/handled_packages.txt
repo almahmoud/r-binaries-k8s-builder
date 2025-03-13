@@ -76,6 +76,7 @@ BiocCheck
 BiocFHIR
 BiocFileCache
 BiocGenerics
+BiocHubsShiny
 BiocIO
 BiocNeighbors
 BiocParallel
@@ -700,6 +701,7 @@ agilp
 alabaster.base
 alabaster.bumpy
 alabaster.files
+alabaster.mae
 alabaster.matrix
 alabaster.ranges
 alabaster.sce
@@ -915,6 +917,7 @@ frmaTools
 gCrisprTools
 gDRstyle
 gaga
+gage
 garfield
 gatom
 gcatest
@@ -983,6 +986,7 @@ iGC
 iPath
 iSEE
 iSeq
+iasva
 ibh
 idiogram
 idpr
@@ -1049,6 +1053,7 @@ metaCCA
 metaSeq
 metabCombiner
 metabinR
+metabolomicsWorkbenchR
 metabomxtr
 metagenomeSeq
 metahdep
@@ -1232,6 +1237,7 @@ runibic
 sRACIPE
 sSNAPPY
 sSeq
+safe
 sagenhaft
 sampleClassifier
 sangeranalyseR
@@ -1242,6 +1248,7 @@ scBubbletree
 scClassify
 scDataviz
 scDesign3
+scDiagnostics
 scFeatureFilter
 scHOT
 scMET
@@ -1258,6 +1265,7 @@ sccomp
 scde
 scds
 scifer
+scmap
 scoup
 screenCounter
 seahtrue
@@ -1270,6 +1278,7 @@ seqLogo
 seqPattern
 seqTools
 seqcombo
+sesame
 sevenbridges
 shiny.gosling
 sigFeature
@@ -1319,6 +1328,7 @@ survtype
 sva
 swfdr
 switchBox
+switchde
 synapsis
 synergyfinder
 synlet

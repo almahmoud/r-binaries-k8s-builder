@@ -1558,3 +1558,4 @@ tidyCoverage
 transcriptogramer
 treeclimbR
 wiggleplotr
+EnrichmentBrowser
