@@ -1567,3 +1567,5 @@ VarCon
 rTRMui
 surfaltr
 plyxp
+hiReadsProcessor
+kmcut

@@ -1929,7 +1929,6 @@
   ],
   "hdxmsqc": [],
   "hermes": [],
-  "hiReadsProcessor": [],
   "hicVennDiagram": [],
   "hoodscanR": [
     "SpatialExperiment"
@@ -2010,7 +2009,6 @@
   "kissDE": [
     "DSS"
   ],
-  "kmcut": [],
   "lemur": [
     "glmGamPoi"
   ],

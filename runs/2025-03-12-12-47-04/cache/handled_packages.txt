@@ -1105,6 +1105,7 @@ hapFabia
 hca
 heatmaps
 hiAnnotator
+hiReadsProcessor
 hierGWAS
 hierinf
 hipathia
@@ -1154,6 +1155,7 @@ iterativeBMA
 iterativeBMAsurv
 kebabs
 keggorthology
+kmcut
 knowYourCG
 koinar
 lapmix
