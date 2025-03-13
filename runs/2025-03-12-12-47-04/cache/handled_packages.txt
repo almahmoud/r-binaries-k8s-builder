@@ -210,6 +210,7 @@ DEGraph
 DEGreport
 DEGseq
 DELocal
+DEP
 DESeq2
 DESpace
 DEWSeq
@@ -497,6 +498,7 @@ MSstatsConvert
 MSstatsLOBD
 MSstatsLiP
 MSstatsPTM
+MSstatsQC
 MSstatsShiny
 MSstatsTMT
 MVCClass
@@ -636,6 +638,7 @@ Pigengene
 Pirat
 PoDCall
 PolySTest
+PrInCE
 ProtGenerics
 ProteoDisco
 ProteoMM
@@ -811,6 +814,7 @@ SpliceWiz
 SplicingFactory
 SplicingGraphs
 SpotClean
+SpotSweeper
 StabMap
 Statial
 Streamer
@@ -1079,6 +1083,7 @@ cytoKernel
 cytoMEM
 cytolib
 cytomapper
+cytoviewer
 dStruct
 daMA
 dada2
@@ -1359,6 +1364,7 @@ maPredictDSC
 maSigPro
 made4
 maftools
+magpie
 magrene
 makecdfenv
 mapscape

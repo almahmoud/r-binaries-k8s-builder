@@ -1803,3 +1803,9 @@ pathlinkR
 Statial
 lisaClust
 concordexR
+cytoviewer
+DEP
+magpie
+MSstatsQC
+PrInCE
+SpotSweeper

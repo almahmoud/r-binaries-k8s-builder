@@ -176,7 +176,6 @@
     "CytoPipeline"
   ],
   "DAPAR": [],
-  "DEP": [],
   "DEScan2": [
     "ChIPpeakAnno",
     "regioneR"
@@ -392,10 +391,7 @@
     "msmsTests",
     "msmsEDA"
   ],
-  "MSstatsQC": [],
-  "MSstatsQCgui": [
-    "MSstatsQC"
-  ],
+  "MSstatsQCgui": [],
   "MatrixRider": [
     "TFBSTools"
   ],
@@ -457,7 +453,6 @@
   ],
   "PRONE": [],
   "PharmacoGx": [],
-  "PrInCE": [],
   "Prostar": [
     "DAPAR"
   ],
@@ -604,7 +599,6 @@
     "DropletUtils",
     "scuttle"
   ],
-  "SpotSweeper": [],
   "TFBSTools": [],
   "TFHAZ": [
     "ORFik",
@@ -798,7 +792,6 @@
     "scater",
     "scuttle"
   ],
-  "cytoviewer": [],
   "dagLogo": [
     "motifStack",
     "TFBSTools"
@@ -993,7 +986,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "magpie": [],
   "maser": [
     "Gviz"
   ],
