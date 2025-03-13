@@ -2000,3 +2000,6 @@ Xeva
 gDRimport
 alabaster
 saseR
+SpatialFeatureExperiment
+scCB2
+scPipe

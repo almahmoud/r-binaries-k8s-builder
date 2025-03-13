@@ -261,6 +261,7 @@ DiscoRhythm
 DominoEffect
 Doscheda
 DriverNet
+DropletUtils
 Dune
 DuplexDiscovereR
 DynDoc
@@ -1631,6 +1632,7 @@ rScudo
 rTRM
 rTRMui
 rWikiPathways
+raer
 rain
 ramr
 ramwas

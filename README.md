@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1874 packages built successfully
+- 1876 packages built successfully
 - 28 packages failed to build
-- 331 packages not yet processed
+- 329 packages not yet processed
 
 ## Failed Builds (28)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -40,7 +40,7 @@
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 
-## Successfully Built (1874)
+## Successfully Built (1876)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1917,8 +1917,10 @@
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/ASpli/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ASpli)                       |
 | [DeMixT](https://bioconductor.org/packages/3.20/bioc/html/DeMixT.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/DeMixT/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DeMixT)                      |
 | [DuplexDiscovereR](https://bioconductor.org/packages/3.20/bioc/html/DuplexDiscovereR.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/DuplexDiscovereR/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DuplexDiscovereR)            |
+| [DropletUtils](https://bioconductor.org/packages/3.20/bioc/html/DropletUtils.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/DropletUtils/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DropletUtils)                |
+| [raer](https://bioconductor.org/packages/3.20/bioc/html/raer.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/raer/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/raer)                        |
 
-## Not Yet Processed (331)
+## Not Yet Processed (329)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -1968,7 +1970,6 @@
 | [Damsel](https://bioconductor.org/packages/3.20/bioc/html/Damsel.html)                                         | Unprocessed |
 | [DegNorm](https://bioconductor.org/packages/3.20/bioc/html/DegNorm.html)                                       | Unprocessed |
 | [Dino](https://bioconductor.org/packages/3.20/bioc/html/Dino.html)                                             | Unprocessed |
-| [DropletUtils](https://bioconductor.org/packages/3.20/bioc/html/DropletUtils.html)                             | Unprocessed |
 | [DrugVsDisease](https://bioconductor.org/packages/3.20/bioc/html/DrugVsDisease.html)                           | Unprocessed |
 | [EGSEA](https://bioconductor.org/packages/3.20/bioc/html/EGSEA.html)                                           | Unprocessed |
 | [ELMER](https://bioconductor.org/packages/3.20/bioc/html/ELMER.html)                                           | Unprocessed |
@@ -2201,7 +2202,6 @@
 | [puma](https://bioconductor.org/packages/3.20/bioc/html/puma.html)                                             | Unprocessed |
 | [quantro](https://bioconductor.org/packages/3.20/bioc/html/quantro.html)                                       | Unprocessed |
 | [rCGH](https://bioconductor.org/packages/3.20/bioc/html/rCGH.html)                                             | Unprocessed |
-| [raer](https://bioconductor.org/packages/3.20/bioc/html/raer.html)                                             | Unprocessed |
 | [recount](https://bioconductor.org/packages/3.20/bioc/html/recount.html)                                       | Unprocessed |
 | [recountmethylation](https://bioconductor.org/packages/3.20/bioc/html/recountmethylation.html)                 | Unprocessed |
 | [recoup](https://bioconductor.org/packages/3.20/bioc/html/recoup.html)                                         | Unprocessed |
