@@ -132,6 +132,7 @@ CODEX
 COMPASS
 CONSTANd
 COSNet
+CRISPRseek
 CRImage
 CSAR
 CTDquerier
@@ -673,6 +674,7 @@ SingleCellAlleleExperiment
 SingleCellExperiment
 SpaceMarkers
 SparseArray
+SparseSignatures
 SpatialDecon
 SpatialOmicsOverlay
 SpeCond
@@ -728,6 +730,7 @@ UNDO
 UniProt.ws
 VDJdive
 VERSO
+VanillaICE
 VariantExperiment
 VegaMC
 VennDetail
@@ -735,6 +738,7 @@ VplotR
 Wrench
 XDE
 XINA
+XNAString
 XVector
 a4
 a4Base

@@ -217,7 +217,6 @@
     "PCAtools",
     "BiocSingular"
   ],
-  "CRISPRseek": [],
   "CSSQ": [
     "GenomicFeatures"
   ],
@@ -584,7 +583,6 @@
     "BiocSingular"
   ],
   "GUIDEseq": [
-    "CRISPRseek",
     "ChIPpeakAnno",
     "GenomicFeatures",
     "regioneR",
@@ -880,9 +878,7 @@
     "bumphunter",
     "GEOquery"
   ],
-  "MinimumDistance": [
-    "VanillaICE"
-  ],
+  "MinimumDistance": [],
   "MoleculeExperiment": [
     "SpatialExperiment"
   ],
@@ -1308,7 +1304,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "SparseSignatures": [],
   "SpatialCPie": [],
   "SpatialExperiment": [],
   "SpatialFeatureExperiment": [
@@ -1405,7 +1400,6 @@
     "GenomicFeatures"
   ],
   "VaSP": [],
-  "VanillaICE": [],
   "VarCon": [],
   "VariantAnnotation": [
     "GenomicFeatures"
@@ -1430,7 +1424,6 @@
     "DropletUtils",
     "scuttle"
   ],
-  "XNAString": [],
   "Xeva": [
     "PharmacoGx"
   ],
@@ -2430,7 +2423,6 @@
   ],
   "multiMiR": [],
   "multicrispr": [
-    "CRISPRseek",
     "GenomicFeatures",
     "karyoploteR",
     "plyranges",

@@ -1670,3 +1670,4 @@ pairedGSEA
 dreamlet
 iCNV
 iSEEfier
+MinimumDistance

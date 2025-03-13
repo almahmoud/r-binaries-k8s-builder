@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1491 packages built successfully
+- 1495 packages built successfully
 - 23 packages failed to build
-- 719 packages not yet processed
+- 715 packages not yet processed
 
 ## Failed Builds (23)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -35,7 +35,7 @@
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 
-## Successfully Built (1491)
+## Successfully Built (1495)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1529,8 +1529,12 @@
 | [ORFhunteR](https://bioconductor.org/packages/3.20/bioc/html/ORFhunteR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/ORFhunteR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ORFhunteR)                  |
 | [Motif2Site](https://bioconductor.org/packages/3.20/bioc/html/Motif2Site.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/Motif2Site/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Motif2Site)                 |
 | [Pigengene](https://bioconductor.org/packages/3.20/bioc/html/Pigengene.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/Pigengene/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Pigengene)                  |
+| [CRISPRseek](https://bioconductor.org/packages/3.20/bioc/html/CRISPRseek.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/CRISPRseek/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CRISPRseek)                 |
+| [SparseSignatures](https://bioconductor.org/packages/3.20/bioc/html/SparseSignatures.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/SparseSignatures/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SparseSignatures)           |
+| [VanillaICE](https://bioconductor.org/packages/3.20/bioc/html/VanillaICE.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/VanillaICE/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VanillaICE)                 |
+| [XNAString](https://bioconductor.org/packages/3.20/bioc/html/XNAString.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/XNAString/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/XNAString)                  |
 
-## Not Yet Processed (719)
+## Not Yet Processed (715)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1575,7 +1579,6 @@
 | [CONFESS](https://bioconductor.org/packages/3.20/bioc/html/CONFESS.html)                                         | Unprocessed |
 | [COTAN](https://bioconductor.org/packages/3.20/bioc/html/COTAN.html)                                             | Unprocessed |
 | [CRISPRball](https://bioconductor.org/packages/3.20/bioc/html/CRISPRball.html)                                   | Unprocessed |
-| [CRISPRseek](https://bioconductor.org/packages/3.20/bioc/html/CRISPRseek.html)                                   | Unprocessed |
 | [CSSQ](https://bioconductor.org/packages/3.20/bioc/html/CSSQ.html)                                               | Unprocessed |
 | [CTSV](https://bioconductor.org/packages/3.20/bioc/html/CTSV.html)                                               | Unprocessed |
 | [CTdata](https://bioconductor.org/packages/3.20/bioc/html/CTdata.html)                                           | Unprocessed |
@@ -1824,7 +1827,6 @@
 | [SomaticSignatures](https://bioconductor.org/packages/3.20/bioc/html/SomaticSignatures.html)                     | Unprocessed |
 | [SpaNorm](https://bioconductor.org/packages/3.20/bioc/html/SpaNorm.html)                                         | Unprocessed |
 | [Spaniel](https://bioconductor.org/packages/3.20/bioc/html/Spaniel.html)                                         | Unprocessed |
-| [SparseSignatures](https://bioconductor.org/packages/3.20/bioc/html/SparseSignatures.html)                       | Unprocessed |
 | [SpatialCPie](https://bioconductor.org/packages/3.20/bioc/html/SpatialCPie.html)                                 | Unprocessed |
 | [SpatialExperiment](https://bioconductor.org/packages/3.20/bioc/html/SpatialExperiment.html)                     | Unprocessed |
 | [SpatialFeatureExperiment](https://bioconductor.org/packages/3.20/bioc/html/SpatialFeatureExperiment.html)       | Unprocessed |
@@ -1853,14 +1855,12 @@
 | [VAExprs](https://bioconductor.org/packages/3.20/bioc/html/VAExprs.html)                                         | Unprocessed |
 | [VCFArray](https://bioconductor.org/packages/3.20/bioc/html/VCFArray.html)                                       | Unprocessed |
 | [VaSP](https://bioconductor.org/packages/3.20/bioc/html/VaSP.html)                                               | Unprocessed |
-| [VanillaICE](https://bioconductor.org/packages/3.20/bioc/html/VanillaICE.html)                                   | Unprocessed |
 | [VarCon](https://bioconductor.org/packages/3.20/bioc/html/VarCon.html)                                           | Unprocessed |
 | [VariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/VariantAnnotation.html)                     | Unprocessed |
 | [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)                       | Unprocessed |
 | [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                               | Unprocessed |
 | [VisiumIO](https://bioconductor.org/packages/3.20/bioc/html/VisiumIO.html)                                       | Unprocessed |
 | [Voyager](https://bioconductor.org/packages/3.20/bioc/html/Voyager.html)                                         | Unprocessed |
-| [XNAString](https://bioconductor.org/packages/3.20/bioc/html/XNAString.html)                                     | Unprocessed |
 | [Xeva](https://bioconductor.org/packages/3.20/bioc/html/Xeva.html)                                               | Unprocessed |
 | [YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)                                             | Unprocessed |
 | [ZygosityPredictor](https://bioconductor.org/packages/3.20/bioc/html/ZygosityPredictor.html)                     | Unprocessed |
