@@ -1,1 +1,5 @@
-multicrispr
+AHMassBank
+ExperimentHubData
+RNAAgeCalc
+RnaSeqSampleSize
+psichomics

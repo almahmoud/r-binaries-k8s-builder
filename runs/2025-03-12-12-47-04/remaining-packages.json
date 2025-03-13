@@ -2,9 +2,7 @@
   "ADaCGH2": [
     "GLAD"
   ],
-  "AHMassBank": [
-    "AnnotationHubData"
-  ],
+  "AHMassBank": [],
   "ATACseqQC": [
     "motifStack"
   ],
@@ -16,7 +14,6 @@
     "ReportingTools",
     "ggbio"
   ],
-  "AnnotationHubData": [],
   "ArrayExpress": [
     "oligo",
     "affxparser"
@@ -118,9 +115,7 @@
   "EventPointer": [
     "affxparser"
   ],
-  "ExperimentHubData": [
-    "AnnotationHubData"
-  ],
+  "ExperimentHubData": [],
   "FLAMES": [
     "ggbio",
     "scater"
@@ -220,10 +215,7 @@
   ],
   "REDseq": [],
   "REMP": [],
-  "RNAAgeCalc": [
-    "recount"
-  ],
-  "RNAmodR.AlkAnilineSeq": [],
+  "RNAAgeCalc": [],
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
   "RegionalST": [
@@ -241,9 +233,7 @@
   "RnBeads": [
     "methylumi"
   ],
-  "RnaSeqSampleSize": [
-    "recount"
-  ],
+  "RnaSeqSampleSize": [],
   "Rtreemix": [],
   "SAIGEgds": [],
   "SCAN.UPC": [
@@ -464,8 +454,7 @@
   ],
   "methodical": [
     "annotatr",
-    "ExperimentHubData",
-    "AnnotationHubData"
+    "ExperimentHubData"
   ],
   "methylCC": [],
   "methylGSA": [
@@ -480,8 +469,7 @@
     "fastseg"
   ],
   "methylclock": [
-    "ExperimentHubData",
-    "AnnotationHubData"
+    "ExperimentHubData"
   ],
   "methylumi": [],
   "mia": [
@@ -552,15 +540,12 @@
   ],
   "preciseTAD": [],
   "primirTSS": [],
-  "psichomics": [
-    "recount"
-  ],
+  "psichomics": [],
   "puma": [
     "oligo",
     "affxparser"
   ],
   "quantro": [],
-  "recount": [],
   "recountmethylation": [],
   "regioneReloaded": [],
   "rgsepd": [],

@@ -2077,3 +2077,8 @@ SPIAT
 CytoMDS
 CytoPipelineGUI
 multicrispr
+AHMassBank
+ExperimentHubData
+RNAAgeCalc
+RnaSeqSampleSize
+psichomics
