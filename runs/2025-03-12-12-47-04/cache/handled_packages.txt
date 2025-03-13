@@ -681,6 +681,7 @@ SpatialOmicsOverlay
 SpeCond
 Spectra
 SpectraQL
+SpliceWiz
 SplicingFactory
 Streamer
 Structstrings

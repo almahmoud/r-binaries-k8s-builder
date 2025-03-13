@@ -1502,3 +1502,4 @@ crisprBwa
 genomation
 hiAnnotator
 scGPS
+SpliceWiz

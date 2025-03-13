@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1504 packages built successfully
+- 1505 packages built successfully
 - 23 packages failed to build
-- 706 packages not yet processed
+- 705 packages not yet processed
 
 ## Failed Builds (23)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -35,7 +35,7 @@
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 
-## Successfully Built (1504)
+## Successfully Built (1505)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1542,8 +1542,9 @@
 | [genomation](https://bioconductor.org/packages/3.20/bioc/html/genomation.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/genomation/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/genomation)                 |
 | [hiAnnotator](https://bioconductor.org/packages/3.20/bioc/html/hiAnnotator.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/hiAnnotator/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hiAnnotator)                |
 | [scGPS](https://bioconductor.org/packages/3.20/bioc/html/scGPS.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/scGPS/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scGPS)                      |
+| [SpliceWiz](https://bioconductor.org/packages/3.20/bioc/html/SpliceWiz.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/SpliceWiz/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SpliceWiz)                  |
 
-## Not Yet Processed (706)
+## Not Yet Processed (705)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1839,7 +1840,6 @@
 | [SpatialExperiment](https://bioconductor.org/packages/3.20/bioc/html/SpatialExperiment.html)                     | Unprocessed |
 | [SpatialFeatureExperiment](https://bioconductor.org/packages/3.20/bioc/html/SpatialFeatureExperiment.html)       | Unprocessed |
 | [SpectralTAD](https://bioconductor.org/packages/3.20/bioc/html/SpectralTAD.html)                                 | Unprocessed |
-| [SpliceWiz](https://bioconductor.org/packages/3.20/bioc/html/SpliceWiz.html)                                     | Unprocessed |
 | [SplicingGraphs](https://bioconductor.org/packages/3.20/bioc/html/SplicingGraphs.html)                           | Unprocessed |
 | [SpotClean](https://bioconductor.org/packages/3.20/bioc/html/SpotClean.html)                                     | Unprocessed |
 | [SpotSweeper](https://bioconductor.org/packages/3.20/bioc/html/SpotSweeper.html)                                 | Unprocessed |
