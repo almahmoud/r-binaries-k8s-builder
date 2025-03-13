@@ -434,6 +434,7 @@ LinkHD
 Linnorm
 LiquidAssociation
 LoomExperiment
+LymphoSeq
 M3C
 MACSQuantifyR
 MACSr
@@ -842,6 +843,7 @@ UCell
 UNDO
 UPDhmm
 UniProt.ws
+VCFArray
 VDJdive
 VERSO
 VaSP

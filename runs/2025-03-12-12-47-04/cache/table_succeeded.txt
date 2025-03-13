@@ -1749,3 +1749,5 @@
 ['[ProteoDisco](https://bioconductor.org/packages/3.20/bioc/html/ProteoDisco.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ProteoDisco/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ProteoDisco)']
 ['[Rqc](https://bioconductor.org/packages/3.20/bioc/html/Rqc.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Rqc/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rqc)']
 ['[coMethDMR](https://bioconductor.org/packages/3.20/bioc/html/coMethDMR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/coMethDMR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/coMethDMR)']
+['[LymphoSeq](https://bioconductor.org/packages/3.20/bioc/html/LymphoSeq.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/LymphoSeq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/LymphoSeq)']
+['[VCFArray](https://bioconductor.org/packages/3.20/bioc/html/VCFArray.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/VCFArray/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VCFArray)']

@@ -375,7 +375,6 @@
     "CAMERA",
     "MSnbase"
   ],
-  "LymphoSeq": [],
   "M3Drop": [
     "scater",
     "scuttle"
@@ -687,7 +686,6 @@
     "scater",
     "scuttle"
   ],
-  "VCFArray": [],
   "VariantFiltering": [
     "Gviz"
   ],
