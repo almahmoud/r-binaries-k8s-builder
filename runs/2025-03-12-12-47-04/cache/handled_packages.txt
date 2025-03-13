@@ -60,6 +60,7 @@ BUScorrect
 BUSseq
 BaalChIP
 BaseSpaceR
+Basic4Cseq
 BasicSTARRseq
 BayesKnockdown
 BeadDataPackR
@@ -583,6 +584,7 @@ Rbec
 Rbowtie
 Rbowtie2
 Rbwa
+RcisTarget
 Rcollectl
 Rcpi
 Rcwl
@@ -762,6 +764,7 @@ alabaster.string
 alevinQC
 altcdfenvs
 amplican
+animalcules
 annaffy
 annmap
 annotate
@@ -817,6 +820,7 @@ blima
 bluster
 bnbc
 bnem
+branchpointer
 breakpointR
 brendaDb
 bugsigdbr

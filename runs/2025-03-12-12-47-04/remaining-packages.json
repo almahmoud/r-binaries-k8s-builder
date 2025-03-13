@@ -104,7 +104,6 @@
   "Banksy": [
     "SpatialExperiment"
   ],
-  "Basic4Cseq": [],
   "BatchQC": [
     "EBSeq",
     "scran",
@@ -1144,7 +1143,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "RcisTarget": [],
   "RegionalST": [
     "scater",
     "BayesSpace",
@@ -1491,7 +1489,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "animalcules": [],
   "annotatr": [
     "GenomicFeatures",
     "regioneR"
@@ -1582,7 +1579,6 @@
     "bsseq",
     "DSS"
   ],
-  "branchpointer": [],
   "broadSeq": [
     "EBSeq"
   ],
