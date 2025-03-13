@@ -91,8 +91,7 @@
     "GenomicInteractions"
   ],
   "CAMERA": [
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "CATALYST": [
     "scater",
@@ -111,19 +110,13 @@
     "cn.mops"
   ],
   "CNVrd2": [],
-  "COCOA": [],
   "CONFESS": [
     "flowPeaks"
   ],
   "CRISPRball": [
     "dittoSeq"
   ],
-  "CTSV": [],
-  "CTdata": [],
-  "CTexploreR": [
-    "CTdata"
-  ],
-  "CatsCradle": [],
+  "CTexploreR": [],
   "CellMixS": [
     "scater",
     "scuttle"
@@ -172,10 +165,7 @@
     "scran",
     "scuttle"
   ],
-  "CluMSID": [
-    "MSnbase"
-  ],
-  "Cogito": [],
+  "CluMSID": [],
   "CompoundDb": [],
   "CopyNumberPlots": [
     "karyoploteR",
@@ -192,17 +182,12 @@
     "CytoPipeline"
   ],
   "DAMEfinder": [],
-  "DAPAR": [
-    "MSnbase"
-  ],
-  "DEP": [
-    "MSnbase"
-  ],
+  "DAPAR": [],
+  "DEP": [],
   "DEScan2": [
     "ChIPpeakAnno",
     "regioneR"
   ],
-  "DESpace": [],
   "DEsubs": [
     "EBSeq"
   ],
@@ -265,7 +250,6 @@
   "EventPointer": [
     "affxparser"
   ],
-  "ExCluster": [],
   "ExperimentHubData": [
     "AnnotationHubData",
     "OrganismDbi",
@@ -299,7 +283,6 @@
     "cBioPortalData"
   ],
   "GOstats": [],
-  "GRaNIE": [],
   "GSReg": [
     "OrganismDbi",
     "txdbmaker"
@@ -350,12 +333,10 @@
     "GenomicInteractions",
     "Gviz"
   ],
-  "HiLDA": [],
   "IMAS": [],
   "IPO": [
     "xcms",
-    "CAMERA",
-    "MSnbase"
+    "CAMERA"
   ],
   "ITALICS": [
     "GLAD",
@@ -372,8 +353,7 @@
   ],
   "LOBSTAHS": [
     "xcms",
-    "CAMERA",
-    "MSnbase"
+    "CAMERA"
   ],
   "M3Drop": [
     "scater",
@@ -388,8 +368,7 @@
   ],
   "MAIT": [
     "CAMERA",
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "MANOR": [
     "GLAD"
@@ -426,17 +405,12 @@
     "scuttle"
   ],
   "MSnID": [
-    "MSnbase",
     "msmsTests",
     "msmsEDA"
   ],
-  "MSnbase": [],
-  "MSstatsQC": [
-    "MSnbase"
-  ],
+  "MSstatsQC": [],
   "MSstatsQCgui": [
-    "MSstatsQC",
-    "MSnbase"
+    "MSstatsQC"
   ],
   "MatrixRider": [
     "TFBSTools"
@@ -462,14 +436,12 @@
     "minfi",
     "GEOquery"
   ],
-  "MoleculeExperiment": [],
   "Moonlight2R": [
     "GEOquery"
   ],
   "MoonlightR": [
     "GEOquery"
   ],
-  "MsQuality": [],
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
@@ -500,16 +472,11 @@
   "PING": [
     "Gviz"
   ],
-  "PRONE": [
-    "MSnbase"
-  ],
+  "PRONE": [],
   "PharmacoGx": [],
-  "PrInCE": [
-    "MSnbase"
-  ],
+  "PrInCE": [],
   "Prostar": [
-    "DAPAR",
-    "MSnbase"
+    "DAPAR"
   ],
   "Pviz": [
     "Gviz"
@@ -534,12 +501,9 @@
     "GEOquery"
   ],
   "RESOLVE": [],
-  "RMassBank": [
-    "MSnbase"
-  ],
+  "RMassBank": [],
   "RNAAgeCalc": [
     "recount",
-    "derfinder",
     "GEOquery"
   ],
   "RNAmodR": [
@@ -600,7 +564,6 @@
   ],
   "RnaSeqSampleSize": [
     "recount",
-    "derfinder",
     "GEOquery"
   ],
   "Rtreemix": [],
@@ -661,10 +624,7 @@
     "DropletUtils",
     "scuttle"
   ],
-  "SpotClean": [],
-  "SpotSweeper": [
-    "escheR"
-  ],
+  "SpotSweeper": [],
   "Statial": [],
   "TFBSTools": [],
   "TFEA.ChIP": [],
@@ -672,7 +632,6 @@
     "ORFik",
     "txdbmaker"
   ],
-  "TRESS": [],
   "TVTB": [
     "Gviz"
   ],
@@ -719,10 +678,8 @@
     "scuttle"
   ],
   "alabaster": [
-    "alabaster.spatial",
     "alabaster.vcf"
   ],
-  "alabaster.spatial": [],
   "alabaster.vcf": [],
   "annotatr": [
     "regioneR"
@@ -745,7 +702,6 @@
     "GOstats"
   ],
   "bandle": [
-    "MSnbase",
     "pRoloc"
   ],
   "batchelor": [
@@ -771,7 +727,6 @@
     "regioneR",
     "txdbmaker"
   ],
-  "borealis": [],
   "broadSeq": [
     "EBSeq"
   ],
@@ -810,8 +765,7 @@
     "gwascat"
   ],
   "cliqueMS": [
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "cn.farms": [
     "affxparser",
@@ -839,8 +793,7 @@
     "GEOquery"
   ],
   "cosmiq": [
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "crisprDesign": [
     "txdbmaker"
@@ -873,10 +826,7 @@
     "scater",
     "scuttle"
   ],
-  "cytomapper": [],
-  "cytoviewer": [
-    "cytomapper"
-  ],
+  "cytoviewer": [],
   "dagLogo": [
     "motifStack",
     "TFBSTools"
@@ -901,9 +851,7 @@
     "fastseg",
     "GEOquery"
   ],
-  "derfinder": [],
   "derfinderPlot": [
-    "derfinder",
     "ggbio",
     "OrganismDbi",
     "txdbmaker"
@@ -974,7 +922,6 @@
   "escape": [
     "GSVA"
   ],
-  "escheR": [],
   "extraChIPs": [
     "GenomicInteractions",
     "Gviz"
@@ -989,8 +936,7 @@
   ],
   "flagme": [
     "xcms",
-    "CAMERA",
-    "MSnbase"
+    "CAMERA"
   ],
   "flowPeaks": [],
   "frma": [
@@ -1053,8 +999,7 @@
     "txdbmaker"
   ],
   "imcRtools": [
-    "scuttle",
-    "cytomapper"
+    "scuttle"
   ],
   "immunoClust": [],
   "intansv": [
@@ -1062,12 +1007,9 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "interactiveDisplay": [],
   "karyoploteR": [
     "regioneR"
   ],
-  "kissDE": [],
-  "lemur": [],
   "lisaClust": [
     "spicyR"
   ],
@@ -1085,17 +1027,14 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "magpie": [
-    "TRESS"
-  ],
+  "magpie": [],
   "maser": [
     "Gviz"
   ],
   "meshr": [],
   "metaMS": [
     "CAMERA",
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "metaseqR2": [
     "txdbmaker"
@@ -1132,7 +1071,6 @@
   "methylPipe": [
     "Gviz"
   ],
-  "methylSig": [],
   "methylclock": [
     "minfi",
     "ExperimentHubData",
@@ -1199,11 +1137,8 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "msmsEDA": [
-    "MSnbase"
-  ],
+  "msmsEDA": [],
   "msmsTests": [
-    "MSnbase",
     "msmsEDA"
   ],
   "multicrispr": [
@@ -1225,8 +1160,7 @@
     "txdbmaker"
   ],
   "ncGTW": [
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "netSmooth": [
     "scater",
@@ -1247,19 +1181,14 @@
   "oligo": [
     "affxparser"
   ],
-  "omXplore": [
-    "MSnbase"
-  ],
+  "omXplore": [],
   "omicRexposome": [],
   "oppar": [
     "GSVA"
   ],
-  "pRoloc": [
-    "MSnbase"
-  ],
+  "pRoloc": [],
   "pRolocGUI": [
-    "pRoloc",
-    "MSnbase"
+    "pRoloc"
   ],
   "pageRank": [
     "motifmatchr",
@@ -1279,9 +1208,7 @@
     "affxparser",
     "oligo"
   ],
-  "peakPantheR": [
-    "MSnbase"
-  ],
+  "peakPantheR": [],
   "peco": [
     "scater",
     "scuttle"
@@ -1311,19 +1238,14 @@
   "profileplyr": [],
   "psichomics": [
     "recount",
-    "derfinder",
     "GEOquery"
   ],
-  "ptairMS": [
-    "MSnbase"
-  ],
+  "ptairMS": [],
   "puma": [
     "oligo",
     "affxparser"
   ],
-  "qPLEXanalyzer": [
-    "MSnbase"
-  ],
+  "qPLEXanalyzer": [],
   "quantro": [
     "minfi",
     "GEOquery"
@@ -1331,7 +1253,6 @@
   "rCGH": [],
   "raer": [],
   "recount": [
-    "derfinder",
     "GEOquery"
   ],
   "recountmethylation": [
@@ -1341,10 +1262,7 @@
   "recoup": [
     "txdbmaker"
   ],
-  "regionReport": [
-    "derfinder"
-  ],
-  "regionalpcs": [],
+  "regionReport": [],
   "regioneR": [],
   "regioneReloaded": [
     "regioneR"
@@ -1446,9 +1364,7 @@
     "scater",
     "scuttle"
   ],
-  "selectKSigs": [
-    "HiLDA"
-  ],
+  "selectKSigs": [],
   "shinyMethyl": [
     "minfi",
     "GEOquery"
@@ -1460,9 +1376,7 @@
   "simPIC": [
     "scuttle"
   ],
-  "simpleSeg": [
-    "cytomapper"
-  ],
+  "simpleSeg": [],
   "singleCellTK": [
     "batchelor",
     "GSVA",
@@ -1487,8 +1401,6 @@
   ],
   "smoothclust": [],
   "spaSim": [],
-  "spatialDE": [],
-  "spatialSimGP": [],
   "spatzie": [
     "GenomicInteractions",
     "motifmatchr",
@@ -1509,34 +1421,27 @@
     "scuttle"
   ],
   "squallms": [
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
-  "stJoincount": [],
   "standR": [
     "RUVSeq"
   ],
   "svaNUMT": [],
   "svaRetro": [],
-  "synapter": [
-    "MSnbase"
-  ],
+  "synapter": [],
   "tadar": [
     "Gviz"
   ],
   "ternarynet": [],
   "tidySpatialExperiment": [],
   "tidyomics": [],
-  "topdownr": [
-    "MSnbase"
-  ],
+  "topdownr": [],
   "tpSVG": [],
   "trackViewer": [
     "Gviz",
     "txdbmaker"
   ],
   "transcriptR": [],
-  "transformGamPoi": [],
   "tricycle": [
     "scater",
     "scuttle"
@@ -1570,9 +1475,7 @@
     "minfi",
     "GEOquery"
   ],
-  "xcms": [
-    "MSnbase"
-  ],
+  "xcms": [],
   "xcore": [],
   "xenLite": [],
   "yarn": [
