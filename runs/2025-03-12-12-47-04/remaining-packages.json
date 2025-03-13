@@ -1877,7 +1877,6 @@
     "syntenet",
     "GenomicFeatures"
   ],
-  "dreamlet": [],
   "drugTargetInteractions": [
     "ensembldb",
     "GenomicFeatures"

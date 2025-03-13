@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1486 packages built successfully
+- 1487 packages built successfully
 - 23 packages failed to build
-- 724 packages not yet processed
+- 723 packages not yet processed
 
 ## Failed Builds (23)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -35,7 +35,7 @@
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 
-## Successfully Built (1486)
+## Successfully Built (1487)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1524,8 +1524,9 @@
 | [vidger](https://bioconductor.org/packages/3.20/bioc/html/vidger.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/vidger/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/vidger)                     |
 | [tRanslatome](https://bioconductor.org/packages/3.20/bioc/html/tRanslatome.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/tRanslatome/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tRanslatome)                |
 | [zitools](https://bioconductor.org/packages/3.20/bioc/html/zitools.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/zitools/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/zitools)                    |
+| [dreamlet](https://bioconductor.org/packages/3.20/bioc/html/dreamlet.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/dreamlet/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dreamlet)                   |
 
-## Not Yet Processed (724)
+## Not Yet Processed (723)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1948,7 +1949,6 @@
 | [dittoSeq](https://bioconductor.org/packages/3.20/bioc/html/dittoSeq.html)                                       | Unprocessed |
 | [dmrseq](https://bioconductor.org/packages/3.20/bioc/html/dmrseq.html)                                           | Unprocessed |
 | [doubletrouble](https://bioconductor.org/packages/3.20/bioc/html/doubletrouble.html)                             | Unprocessed |
-| [dreamlet](https://bioconductor.org/packages/3.20/bioc/html/dreamlet.html)                                       | Unprocessed |
 | [drugTargetInteractions](https://bioconductor.org/packages/3.20/bioc/html/drugTargetInteractions.html)           | Unprocessed |
 | [edge](https://bioconductor.org/packages/3.20/bioc/html/edge.html)                                               | Unprocessed |
 | [enhancerHomologSearch](https://bioconductor.org/packages/3.20/bioc/html/enhancerHomologSearch.html)             | Unprocessed |

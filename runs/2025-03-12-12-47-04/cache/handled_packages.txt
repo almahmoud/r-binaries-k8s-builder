@@ -930,6 +930,7 @@ dominoSignal
 doppelgangR
 doseR
 drawProteins
+dreamlet
 dupRadar
 dyebias
 easier

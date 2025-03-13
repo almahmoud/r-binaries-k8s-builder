@@ -1484,3 +1484,4 @@
 ['[vidger](https://bioconductor.org/packages/3.20/bioc/html/vidger.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/vidger/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/vidger)']
 ['[tRanslatome](https://bioconductor.org/packages/3.20/bioc/html/tRanslatome.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/tRanslatome/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tRanslatome)']
 ['[zitools](https://bioconductor.org/packages/3.20/bioc/html/zitools.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/zitools/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/zitools)']
+['[dreamlet](https://bioconductor.org/packages/3.20/bioc/html/dreamlet.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/dreamlet/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dreamlet)']
