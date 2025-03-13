@@ -288,10 +288,7 @@
     "txdbmaker"
   ],
   "FastqCleaner": [],
-  "GA4GHclient": [],
-  "GA4GHshiny": [
-    "GA4GHclient"
-  ],
+  "GA4GHshiny": [],
   "GARS": [
     "DaMiRseq"
   ],
@@ -321,7 +318,6 @@
     "goseq",
     "txdbmaker"
   ],
-  "GenVisR": [],
   "GeneGeneInteR": [],
   "GeneRegionScan": [
     "affxparser"
@@ -354,7 +350,6 @@
   "GrafGen": [],
   "Gviz": [],
   "HIBAG": [],
-  "HelloRanges": [],
   "HiCDCPlus": [
     "GenomicInteractions",
     "Gviz"
@@ -482,7 +477,6 @@
   ],
   "MsQuality": [],
   "MungeSumstats": [],
-  "MutationalPatterns": [],
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
@@ -497,9 +491,7 @@
   "OGRE": [
     "Gviz"
   ],
-  "OMICsPCA": [
-    "HelloRanges"
-  ],
+  "OMICsPCA": [],
   "ORFik": [
     "txdbmaker"
   ],
@@ -540,7 +532,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "R453Plus1Toolbox": [],
   "RCAS": [
     "txdbmaker"
   ],
@@ -552,9 +543,7 @@
     "minfi",
     "GEOquery"
   ],
-  "RESOLVE": [
-    "MutationalPatterns"
-  ],
+  "RESOLVE": [],
   "RMassBank": [
     "MSnbase"
   ],
@@ -650,7 +639,6 @@
     "goseq",
     "txdbmaker"
   ],
-  "SNPhood": [],
   "SOMNiBUS": [
     "annotatr",
     "regioneR"
@@ -959,7 +947,6 @@
     "txdbmaker"
   ],
   "diffHic": [],
-  "diffUTR": [],
   "distinct": [
     "scater",
     "scuttle"
@@ -1610,7 +1597,6 @@
   ],
   "transcriptR": [],
   "transformGamPoi": [],
-  "transmogR": [],
   "tricycle": [
     "scater",
     "scuttle"

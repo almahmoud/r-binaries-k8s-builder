@@ -278,6 +278,7 @@ FindIT2
 FitHiC
 FlowSOM
 FuseSOM
+GA4GHclient
 GAprediction
 GBScleanR
 GDCRNATools
@@ -316,6 +317,7 @@ GWASTools
 GWENA
 GateFinder
 GenProSeq
+GenVisR
 GeneBreak
 GeneExpressionSignature
 GeneGA
@@ -365,6 +367,7 @@ Harman
 HarmonizR
 Harshlight
 Heatplus
+HelloRanges
 Herper
 HiCBricks
 HiCDOC
@@ -531,6 +534,7 @@ MultiDataSet
 MultiMed
 MultiRNAflow
 MultimodalExperiment
+MutationalPatterns
 NBAMSeq
 NCIgraph
 NOISeq
@@ -617,6 +621,7 @@ QTLExperiment
 QUBIC
 Qtlizer
 QuaternaryProd
+R453Plus1Toolbox
 R4RNA
 RAIDS
 RAREsim
@@ -729,6 +734,7 @@ SMAD
 SNAGEE
 SNPRelate
 SNPediaR
+SNPhood
 SPEM
 SPIA
 SPONGE
@@ -1048,6 +1054,7 @@ densvis
 derfinderHelper
 destiny
 diffGeneAnalysis
+diffUTR
 diffcoexp
 diffcyt
 diffuStats
@@ -1705,6 +1712,7 @@ tracktables
 tradeSeq
 transcriptogramer
 transite
+transmogR
 transomics2cytoscape
 traseR
 treeclimbR

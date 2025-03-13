@@ -1873,3 +1873,6 @@ profileplyr
 BubbleTree
 ChIPexoQual
 Gviz
+GA4GHshiny
+OMICsPCA
+RESOLVE
