@@ -209,7 +209,6 @@
     "BiocSingular"
   ],
   "CBEA": [],
-  "CHETAH": [],
   "CNEr": [],
   "CNVfilteR": [
     "regioneR",
@@ -1735,7 +1734,6 @@
     "DropletUtils",
     "scuttle"
   ],
-  "XDE": [],
   "XNAString": [
     "BSgenome"
   ],

@@ -108,6 +108,7 @@ CGHbase
 CGHcall
 CGHnormaliter
 CGHregions
+CHETAH
 CHRONOS
 CIMICE
 CINdex
@@ -681,6 +682,7 @@ VegaMC
 VennDetail
 VplotR
 Wrench
+XDE
 XINA
 XVector
 a4

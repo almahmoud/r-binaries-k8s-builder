@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1380 packages built successfully
+- 1382 packages built successfully
 - 21 packages failed to build
-- 832 packages not yet processed
+- 830 packages not yet processed
 
 ## Failed Builds (21)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -33,7 +33,7 @@
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 
-## Successfully Built (1380)
+## Successfully Built (1382)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1416,8 +1416,10 @@
 | [ASICS](https://bioconductor.org/packages/3.20/bioc/html/ASICS.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/ASICS/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ASICS)                      |
 | [MsDataHub](https://bioconductor.org/packages/3.20/bioc/html/MsDataHub.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/MsDataHub/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MsDataHub)                  |
 | [speckle](https://bioconductor.org/packages/3.20/bioc/html/speckle.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/speckle/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/speckle)                    |
+| [CHETAH](https://bioconductor.org/packages/3.20/bioc/html/CHETAH.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/CHETAH/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CHETAH)                     |
+| [XDE](https://bioconductor.org/packages/3.20/bioc/html/XDE.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/XDE/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/XDE)                        |
 
-## Not Yet Processed (832)
+## Not Yet Processed (830)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1460,7 +1462,6 @@
 | [CAMERA](https://bioconductor.org/packages/3.20/bioc/html/CAMERA.html)                                           | Unprocessed |
 | [CATALYST](https://bioconductor.org/packages/3.20/bioc/html/CATALYST.html)                                       | Unprocessed |
 | [CBEA](https://bioconductor.org/packages/3.20/bioc/html/CBEA.html)                                               | Unprocessed |
-| [CHETAH](https://bioconductor.org/packages/3.20/bioc/html/CHETAH.html)                                           | Unprocessed |
 | [CNEr](https://bioconductor.org/packages/3.20/bioc/html/CNEr.html)                                               | Unprocessed |
 | [CNVfilteR](https://bioconductor.org/packages/3.20/bioc/html/CNVfilteR.html)                                     | Unprocessed |
 | [CNViz](https://bioconductor.org/packages/3.20/bioc/html/CNViz.html)                                             | Unprocessed |
@@ -1799,7 +1800,6 @@
 | [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                               | Unprocessed |
 | [VisiumIO](https://bioconductor.org/packages/3.20/bioc/html/VisiumIO.html)                                       | Unprocessed |
 | [Voyager](https://bioconductor.org/packages/3.20/bioc/html/Voyager.html)                                         | Unprocessed |
-| [XDE](https://bioconductor.org/packages/3.20/bioc/html/XDE.html)                                                 | Unprocessed |
 | [XNAString](https://bioconductor.org/packages/3.20/bioc/html/XNAString.html)                                     | Unprocessed |
 | [Xeva](https://bioconductor.org/packages/3.20/bioc/html/Xeva.html)                                               | Unprocessed |
 | [YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)                                             | Unprocessed |
