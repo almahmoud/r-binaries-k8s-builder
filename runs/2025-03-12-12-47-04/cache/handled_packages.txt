@@ -50,6 +50,7 @@ AssessORF
 BADER
 BAGS
 BANDITS
+BASiCS
 BBCAnalyzer
 BCRANK
 BEAT
@@ -118,6 +119,7 @@ BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
 CAEN
+CAGEfightR
 CARNIVAL
 CBEA
 CBNplot
@@ -227,12 +229,14 @@ DEGreport
 DEGseq
 DELocal
 DEP
+DEScan2
 DESeq2
 DESpace
 DEWSeq
 DEXSeq
 DEqMS
 DEsingle
+DExMA
 DFP
 DFplyr
 DMCFB
@@ -265,6 +269,7 @@ DepecheR
 DiffBind
 DiffLogo
 DifferentialRegulation
+Dino
 Director
 DirichletMultinomial
 DiscoRhythm
@@ -364,6 +369,7 @@ GSRI
 GSReg
 GSVA
 GSgalgoR
+GUIDEseq
 GWAS.BAYES
 GWASTools
 GWENA
@@ -530,6 +536,7 @@ MOFA2
 MOGAMUN
 MOMA
 MOSClip
+MPAC
 MPFE
 MPRAnalyze
 MSA2dist
@@ -741,6 +748,7 @@ RNAdecay
 RNAmodR
 RNAmodR.AlkAnilineSeq
 RNAmodR.ML
+RNAmodR.RiboMethSeq
 RNAsense
 RNAseqCovarImpute
 ROC
@@ -868,11 +876,14 @@ ShortRead
 SiPSiC
 SigCheck
 SigFuge
+SigsPack
 SimBu
 SimFFPE
 SingleCellAlleleExperiment
 SingleCellExperiment
+SingleCellSignalR
 SingleR
+SpaNorm
 SpaceMarkers
 SparseArray
 SparseSignatures
@@ -1021,6 +1032,7 @@ anota2seq
 antiProfiles
 apComplex
 apeglm
+appreci8R
 aroma.light
 arrayQuality
 arrayQualityMetrics
@@ -1034,6 +1046,7 @@ bacon
 ballgown
 bambu
 bamsignals
+bandle
 banocc
 barcodetrackR
 basecallQC
@@ -1145,11 +1158,13 @@ cogeqc
 cola
 comapr
 combi
+compEpiTools
 compSPOT
 compcodeR
 concordexR
 consICA
 consensus
+consensusDE
 consensusSeekeR
 conumee
 convert
@@ -1246,8 +1261,11 @@ epialleleR
 epidecodeR
 epigenomix
 epigraHMM
+epimutacions
 epistack
 epistasisGA
+epivizr
+epivizrChart
 epivizrData
 epivizrServer
 erccdashboard
@@ -1312,6 +1330,7 @@ funtooNorm
 gCrisprTools
 gDNAx
 gDRcore
+gDRimport
 gDRstyle
 gDRutils
 gINTomics
@@ -1345,6 +1364,7 @@ gep2pep
 getDEE2
 geva
 gg4way
+ggbio
 ggcyto
 ggkegg
 ggmanh
@@ -1519,10 +1539,12 @@ metaseqR2
 methimpute
 methrix
 methyLImp2
+methylCC
 methylMnM
 methylPipe
 methylSig
 methylscaper
+methylumi
 mfa
 mgsa
 miQC
@@ -1560,9 +1582,12 @@ mogsa
 monocle
 mosaics
 mosbi
+mosdef
+motifStack
 motifTestR
 motifcounter
 mpra
+msImpute
 msPurity
 msa
 mslp
@@ -1605,6 +1630,7 @@ nucleR
 nucleoSim
 nullranges
 occugene
+octad
 odseq
 oligoClasses
 omXplore
@@ -1683,6 +1709,7 @@ pqsfinder
 pram
 prebs
 preprocessCore
+primirTSS
 proActiv
 proBAMr
 proDA
@@ -1707,6 +1734,7 @@ qsea
 qsmooth
 qsvaR
 quantiseqr
+quantro
 quantsmooth
 qusage
 qvalue
@@ -1738,6 +1766,7 @@ receptLoss
 reconsi
 recount
 recount3
+recountmethylation
 recoup
 regionReport
 regionalpcs
@@ -1749,6 +1778,7 @@ rexposome
 rfPred
 rfaRm
 rgoslin
+rgsepd
 rhdf5
 rhdf5client
 rhdf5filters
@@ -1808,8 +1838,10 @@ scRepertoire
 scShapes
 scTGIF
 scTHI
+scTensor
 scanMiR
 scanMiRApp
+scater
 scatterHatch
 sccomp
 scde
@@ -1846,6 +1878,7 @@ sesame
 sevenC
 sevenbridges
 shiny.gosling
+shinyMethyl
 sigFeature
 siggenes
 sights
@@ -1979,6 +2012,7 @@ txcutr
 txdbmaker
 tximport
 uSORT
+uncoverappLib
 unifiedWMWqPCR
 universalmotif
 updateObject
