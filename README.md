@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1868 packages built successfully
+- 1869 packages built successfully
 - 28 packages failed to build
-- 337 packages not yet processed
+- 336 packages not yet processed
 
 ## Failed Builds (28)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -40,7 +40,7 @@
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 
-## Successfully Built (1868)
+## Successfully Built (1869)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1911,8 +1911,9 @@
 | [svaRetro](https://bioconductor.org/packages/3.20/bioc/html/svaRetro.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/svaRetro/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/svaRetro)                    |
 | [xcore](https://bioconductor.org/packages/3.20/bioc/html/xcore.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/xcore/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcore)                       |
 | [musicatk](https://bioconductor.org/packages/3.20/bioc/html/musicatk.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/musicatk/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/musicatk)                    |
+| [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/alabaster.vcf/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.vcf)               |
 
-## Not Yet Processed (337)
+## Not Yet Processed (336)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2070,7 +2071,6 @@
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                           | Unprocessed |
 | [airpart](https://bioconductor.org/packages/3.20/bioc/html/airpart.html)                                       | Unprocessed |
 | [alabaster](https://bioconductor.org/packages/3.20/bioc/html/alabaster.html)                                   | Unprocessed |
-| [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                           | Unprocessed |
 | [annotatr](https://bioconductor.org/packages/3.20/bioc/html/annotatr.html)                                     | Unprocessed |
 | [appreci8R](https://bioconductor.org/packages/3.20/bioc/html/appreci8R.html)                                   | Unprocessed |
 | [arrayMvout](https://bioconductor.org/packages/3.20/bioc/html/arrayMvout.html)                                 | Unprocessed |

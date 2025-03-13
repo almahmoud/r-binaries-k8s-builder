@@ -948,6 +948,7 @@ alabaster.schemas
 alabaster.se
 alabaster.spatial
 alabaster.string
+alabaster.vcf
 alevinQC
 altcdfenvs
 amplican

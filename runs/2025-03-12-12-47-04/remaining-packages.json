@@ -458,10 +458,7 @@
   "airpart": [
     "scater"
   ],
-  "alabaster": [
-    "alabaster.vcf"
-  ],
-  "alabaster.vcf": [],
+  "alabaster": [],
   "annotatr": [],
   "appreci8R": [
     "OrganismDbi"
