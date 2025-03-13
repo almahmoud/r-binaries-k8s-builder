@@ -400,7 +400,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "Cepo": [],
   "CexoR": [
     "rtracklayer",
     "genomation",
@@ -439,7 +438,6 @@
     "ShortRead",
     "systemPipeR",
     "DESeq2",
-    "apeglm",
     "GreyListChIP",
     "rtracklayer",
     "BSgenome"
@@ -708,7 +706,6 @@
   "DiffBind": [
     "systemPipeR",
     "DESeq2",
-    "apeglm",
     "GreyListChIP",
     "BSgenome",
     "rtracklayer",
@@ -791,8 +788,7 @@
     "rtracklayer"
   ],
   "ERSSA": [
-    "DESeq2",
-    "apeglm"
+    "DESeq2"
   ],
   "EWCE": [
     "orthogene"
@@ -1931,7 +1927,6 @@
   ],
   "Rmmquant": [
     "DESeq2",
-    "apeglm",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -2187,7 +2182,6 @@
   ],
   "TCseq": [],
   "TEKRABber": [
-    "apeglm",
     "DESeq2",
     "rtracklayer"
   ],
@@ -2390,7 +2384,6 @@
   "affylmGUI": [],
   "airpart": [
     "scater",
-    "apeglm",
     "scuttle",
     "beachmat",
     "BiocSingular",
@@ -2431,7 +2424,6 @@
   "anota2seq": [
     "DESeq2"
   ],
-  "apeglm": [],
   "appreci8R": [
     "VariantAnnotation",
     "BSgenome",
@@ -2953,8 +2945,7 @@
     "flowPeaks"
   ],
   "debrowser": [
-    "DESeq2",
-    "apeglm"
+    "DESeq2"
   ],
   "decompTumor2Sig": [
     "GenomicFeatures",
@@ -3235,7 +3226,6 @@
     "rtracklayer",
     "wiggleplotr"
   ],
-  "famat": [],
   "fastseg": [],
   "fcScan": [
     "VariantAnnotation",
@@ -4078,7 +4068,6 @@
   "omicade4": [
     "made4"
   ],
-  "omicplotR": [],
   "omicsPrint": [
     "RaggedExperiment"
   ],
@@ -4164,7 +4153,6 @@
   "phantasus": [
     "GEOquery",
     "DESeq2",
-    "apeglm",
     "rhdf5client",
     "phantasusLite"
   ],
@@ -4456,9 +4444,7 @@
     "beachmat",
     "scuttle"
   ],
-  "scClassify": [
-    "Cepo"
-  ],
+  "scClassify": [],
   "scDD": [
     "EBSeq",
     "scran",
@@ -5038,7 +5024,6 @@
     "rtracklayer",
     "ensembldb",
     "systemPipeR",
-    "apeglm",
     "GreyListChIP",
     "AnnotationFilter",
     "BSgenome",

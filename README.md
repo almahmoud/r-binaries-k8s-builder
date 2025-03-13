@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1182 packages built successfully
+- 1186 packages built successfully
 - 20 packages failed to build
-- 1031 packages not yet processed
+- 1027 packages not yet processed
 
 ## Failed Builds (20)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -32,7 +32,7 @@
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/cn.mops/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cn.mops)       | Build failed with unknown error     |
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 
-## Successfully Built (1182)
+## Successfully Built (1186)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1217,8 +1217,12 @@
 | [Pirat](https://bioconductor.org/packages/3.20/bioc/html/Pirat.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/Pirat/build-success.log)                     | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Pirat)                  |
 | [EnrichedHeatmap](https://bioconductor.org/packages/3.20/bioc/html/EnrichedHeatmap.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/EnrichedHeatmap/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EnrichedHeatmap)           |
 | [miRNAmeConverter](https://bioconductor.org/packages/3.20/bioc/html/miRNAmeConverter.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/miRNAmeConverter/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miRNAmeConverter)          |
+| [Cepo](https://bioconductor.org/packages/3.20/bioc/html/Cepo.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/Cepo/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Cepo)                      |
+| [apeglm](https://bioconductor.org/packages/3.20/bioc/html/apeglm.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/apeglm/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/apeglm)                    |
+| [famat](https://bioconductor.org/packages/3.20/bioc/html/famat.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/famat/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/famat)                     |
+| [omicplotR](https://bioconductor.org/packages/3.20/bioc/html/omicplotR.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/omicplotR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/omicplotR)                 |
 
-## Not Yet Processed (1031)
+## Not Yet Processed (1027)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1304,7 +1308,6 @@
 | [CellMixS](https://bioconductor.org/packages/3.20/bioc/html/CellMixS.html)                                       | Unprocessed |
 | [CellTrails](https://bioconductor.org/packages/3.20/bioc/html/CellTrails.html)                                   | Unprocessed |
 | [CelliD](https://bioconductor.org/packages/3.20/bioc/html/CelliD.html)                                           | Unprocessed |
-| [Cepo](https://bioconductor.org/packages/3.20/bioc/html/Cepo.html)                                               | Unprocessed |
 | [CexoR](https://bioconductor.org/packages/3.20/bioc/html/CexoR.html)                                             | Unprocessed |
 | [ChAMP](https://bioconductor.org/packages/3.20/bioc/html/ChAMP.html)                                             | Unprocessed |
 | [ChIPComp](https://bioconductor.org/packages/3.20/bioc/html/ChIPComp.html)                                       | Unprocessed |
@@ -1711,7 +1714,6 @@
 | [animalcules](https://bioconductor.org/packages/3.20/bioc/html/animalcules.html)                                 | Unprocessed |
 | [annotatr](https://bioconductor.org/packages/3.20/bioc/html/annotatr.html)                                       | Unprocessed |
 | [anota2seq](https://bioconductor.org/packages/3.20/bioc/html/anota2seq.html)                                     | Unprocessed |
-| [apeglm](https://bioconductor.org/packages/3.20/bioc/html/apeglm.html)                                           | Unprocessed |
 | [appreci8R](https://bioconductor.org/packages/3.20/bioc/html/appreci8R.html)                                     | Unprocessed |
 | [arrayMvout](https://bioconductor.org/packages/3.20/bioc/html/arrayMvout.html)                                   | Unprocessed |
 | [atSNP](https://bioconductor.org/packages/3.20/bioc/html/atSNP.html)                                             | Unprocessed |
@@ -1854,7 +1856,6 @@
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                                   | Unprocessed |
 | [fCCAC](https://bioconductor.org/packages/3.20/bioc/html/fCCAC.html)                                             | Unprocessed |
 | [factR](https://bioconductor.org/packages/3.20/bioc/html/factR.html)                                             | Unprocessed |
-| [famat](https://bioconductor.org/packages/3.20/bioc/html/famat.html)                                             | Unprocessed |
 | [fcScan](https://bioconductor.org/packages/3.20/bioc/html/fcScan.html)                                           | Unprocessed |
 | [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                               | Unprocessed |
 | [fishpond](https://bioconductor.org/packages/3.20/bioc/html/fishpond.html)                                       | Unprocessed |
@@ -2030,7 +2031,6 @@
 | [omXplore](https://bioconductor.org/packages/3.20/bioc/html/omXplore.html)                                       | Unprocessed |
 | [omicRexposome](https://bioconductor.org/packages/3.20/bioc/html/omicRexposome.html)                             | Unprocessed |
 | [omicade4](https://bioconductor.org/packages/3.20/bioc/html/omicade4.html)                                       | Unprocessed |
-| [omicplotR](https://bioconductor.org/packages/3.20/bioc/html/omicplotR.html)                                     | Unprocessed |
 | [omicsPrint](https://bioconductor.org/packages/3.20/bioc/html/omicsPrint.html)                                   | Unprocessed |
 | [omicsViewer](https://bioconductor.org/packages/3.20/bioc/html/omicsViewer.html)                                 | Unprocessed |
 | [oncomix](https://bioconductor.org/packages/3.20/bioc/html/oncomix.html)                                         | Unprocessed |

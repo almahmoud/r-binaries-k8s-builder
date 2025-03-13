@@ -115,6 +115,7 @@ CausalR
 CellMapper
 CellNOptR
 CellScore
+Cepo
 ChemmineOB
 ChemmineR
 Chicago
@@ -627,6 +628,7 @@ annotationTools
 anota
 antiProfiles
 apComplex
+apeglm
 aroma.light
 arrayQuality
 arrayQualityMetrics
@@ -765,6 +767,7 @@ fCI
 fabia
 factDesign
 faers
+famat
 fastLiquidAssociation
 fastreeR
 fastseg
@@ -978,6 +981,7 @@ nucleoSim
 occugene
 oligoClasses
 omada
+omicplotR
 ompBAM
 oncoscanR
 onlineFDR

@@ -1441,3 +1441,4 @@ HiCExperiment
 HiCcompare
 gsean
 omicplotR
+scClassify
