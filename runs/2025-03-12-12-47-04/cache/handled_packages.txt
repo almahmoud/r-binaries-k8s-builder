@@ -219,6 +219,7 @@ DeMAND
 DeconRNASeq
 DeepPINCS
 DeepTarget
+DegCre
 DelayedArray
 DelayedDataFrame
 DelayedMatrixStats
@@ -323,6 +324,7 @@ GenomicAlignments
 GenomicDataCommons
 GenomicDistributions
 GenomicFeatures
+GenomicInteractionNodes
 GenomicRanges
 GenomicScores
 GenomicSuperSignature

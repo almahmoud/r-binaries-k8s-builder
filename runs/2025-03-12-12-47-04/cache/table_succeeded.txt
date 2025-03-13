@@ -1659,3 +1659,5 @@
 ['[sevenC](https://bioconductor.org/packages/3.20/bioc/html/sevenC.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/sevenC/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sevenC)']
 ['[IVAS](https://bioconductor.org/packages/3.20/bioc/html/IVAS.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/IVAS/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/IVAS)']
 ['[INSPEcT](https://bioconductor.org/packages/3.20/bioc/html/INSPEcT.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/INSPEcT/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/INSPEcT)']
+['[DegCre](https://bioconductor.org/packages/3.20/bioc/html/DegCre.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/DegCre/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DegCre)']
+['[GenomicInteractionNodes](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractionNodes.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GenomicInteractionNodes/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicInteractionNodes)']

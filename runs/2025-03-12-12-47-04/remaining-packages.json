@@ -298,7 +298,6 @@
     "txdbmaker"
   ],
   "DeMixT": [],
-  "DegCre": [],
   "DegNorm": [
     "txdbmaker"
   ],
@@ -441,7 +440,6 @@
   "GenomicFiles": [
     "VariantAnnotation"
   ],
-  "GenomicInteractionNodes": [],
   "GenomicInteractions": [
     "Gviz",
     "ensembldb",
