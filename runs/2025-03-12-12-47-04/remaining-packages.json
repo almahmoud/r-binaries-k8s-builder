@@ -215,7 +215,6 @@
     "SpatialExperiment"
   ],
   "CellBarcode": [],
-  "CellBench": [],
   "CellMixS": [
     "scater",
     "scuttle"
@@ -440,7 +439,6 @@
     "GEOquery",
     "GenomicFeatures"
   ],
-  "EWCE": [],
   "EpiCompare": [
     "ChIPseeker",
     "GenomicFeatures"
@@ -776,7 +774,6 @@
     "TFBSTools",
     "CNEr"
   ],
-  "Melissa": [],
   "MetaPhOR": [],
   "MetaboAnnotation": [
     "CompoundDb"

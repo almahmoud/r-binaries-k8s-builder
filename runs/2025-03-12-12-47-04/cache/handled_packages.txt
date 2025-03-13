@@ -146,6 +146,7 @@ Cardinal
 CardinalIO
 CausalR
 CeTF
+CellBench
 CellMapper
 CellNOptR
 CellScore
@@ -229,6 +230,7 @@ EBcoexpress
 EDIRquery
 EMDomics
 ERSSA
+EWCE
 EasyCellType
 EmpiricalBrownsMethod
 EnMCB
@@ -441,6 +443,7 @@ MassSpecWavelet
 MatrixGenerics
 MeSHDbi
 MeasurementError.cor
+Melissa
 Mergeomics
 MesKit
 MetCirc

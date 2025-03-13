@@ -1558,3 +1558,6 @@ BioCor
 OmaDB
 plyranges
 tidyCoverage
+CellBench
+EWCE
+Melissa

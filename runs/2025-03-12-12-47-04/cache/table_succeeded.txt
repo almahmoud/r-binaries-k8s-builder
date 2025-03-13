@@ -1558,3 +1558,6 @@
 ['[OmaDB](https://bioconductor.org/packages/3.20/bioc/html/OmaDB.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/OmaDB/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OmaDB)']
 ['[plyranges](https://bioconductor.org/packages/3.20/bioc/html/plyranges.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/plyranges/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/plyranges)']
 ['[tidyCoverage](https://bioconductor.org/packages/3.20/bioc/html/tidyCoverage.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/tidyCoverage/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tidyCoverage)']
+['[CellBench](https://bioconductor.org/packages/3.20/bioc/html/CellBench.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CellBench/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CellBench)']
+['[EWCE](https://bioconductor.org/packages/3.20/bioc/html/EWCE.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/EWCE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EWCE)']
+['[Melissa](https://bioconductor.org/packages/3.20/bioc/html/Melissa.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Melissa/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Melissa)']

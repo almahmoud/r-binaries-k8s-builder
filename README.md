@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1560 packages built successfully
+- 1563 packages built successfully
 - 24 packages failed to build
-- 649 packages not yet processed
+- 646 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1560)
+## Successfully Built (1563)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1599,8 +1599,11 @@
 | [OmaDB](https://bioconductor.org/packages/3.20/bioc/html/OmaDB.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/OmaDB/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OmaDB)                      |
 | [plyranges](https://bioconductor.org/packages/3.20/bioc/html/plyranges.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/plyranges/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/plyranges)                  |
 | [tidyCoverage](https://bioconductor.org/packages/3.20/bioc/html/tidyCoverage.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/tidyCoverage/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tidyCoverage)               |
+| [CellBench](https://bioconductor.org/packages/3.20/bioc/html/CellBench.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/CellBench/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CellBench)                  |
+| [EWCE](https://bioconductor.org/packages/3.20/bioc/html/EWCE.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/EWCE/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EWCE)                       |
+| [Melissa](https://bioconductor.org/packages/3.20/bioc/html/Melissa.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/Melissa/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Melissa)                    |
 
-## Not Yet Processed (649)
+## Not Yet Processed (646)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1648,7 +1651,6 @@
 | [Category](https://bioconductor.org/packages/3.20/bioc/html/Category.html)                                       | Unprocessed |
 | [CatsCradle](https://bioconductor.org/packages/3.20/bioc/html/CatsCradle.html)                                   | Unprocessed |
 | [CellBarcode](https://bioconductor.org/packages/3.20/bioc/html/CellBarcode.html)                                 | Unprocessed |
-| [CellBench](https://bioconductor.org/packages/3.20/bioc/html/CellBench.html)                                     | Unprocessed |
 | [CellMixS](https://bioconductor.org/packages/3.20/bioc/html/CellMixS.html)                                       | Unprocessed |
 | [CelliD](https://bioconductor.org/packages/3.20/bioc/html/CelliD.html)                                           | Unprocessed |
 | [ChAMP](https://bioconductor.org/packages/3.20/bioc/html/ChAMP.html)                                             | Unprocessed |
@@ -1700,7 +1702,6 @@
 | [EGSEA](https://bioconductor.org/packages/3.20/bioc/html/EGSEA.html)                                             | Unprocessed |
 | [ELMER](https://bioconductor.org/packages/3.20/bioc/html/ELMER.html)                                             | Unprocessed |
 | [ENmix](https://bioconductor.org/packages/3.20/bioc/html/ENmix.html)                                             | Unprocessed |
-| [EWCE](https://bioconductor.org/packages/3.20/bioc/html/EWCE.html)                                               | Unprocessed |
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)                                   | Unprocessed |
 | [EpiMix](https://bioconductor.org/packages/3.20/bioc/html/EpiMix.html)                                           | Unprocessed |
 | [EpiTxDb](https://bioconductor.org/packages/3.20/bioc/html/EpiTxDb.html)                                         | Unprocessed |
@@ -1781,7 +1782,6 @@
 | [MSstatsQCgui](https://bioconductor.org/packages/3.20/bioc/html/MSstatsQCgui.html)                               | Unprocessed |
 | [MatrixQCvis](https://bioconductor.org/packages/3.20/bioc/html/MatrixQCvis.html)                                 | Unprocessed |
 | [MatrixRider](https://bioconductor.org/packages/3.20/bioc/html/MatrixRider.html)                                 | Unprocessed |
-| [Melissa](https://bioconductor.org/packages/3.20/bioc/html/Melissa.html)                                         | Unprocessed |
 | [MetaPhOR](https://bioconductor.org/packages/3.20/bioc/html/MetaPhOR.html)                                       | Unprocessed |
 | [MetaboAnnotation](https://bioconductor.org/packages/3.20/bioc/html/MetaboAnnotation.html)                       | Unprocessed |
 | [MetaboSignal](https://bioconductor.org/packages/3.20/bioc/html/MetaboSignal.html)                               | Unprocessed |
