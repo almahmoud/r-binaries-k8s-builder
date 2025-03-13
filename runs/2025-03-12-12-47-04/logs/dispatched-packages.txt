@@ -2006,3 +2006,6 @@ scPipe
 CAGEfightR
 HiCDCPlus
 extraChIPs
+RNAmodR.AlkAnilineSeq
+RNAmodR.ML
+RNAmodR.RiboMethSeq

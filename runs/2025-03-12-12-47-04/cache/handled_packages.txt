@@ -709,6 +709,7 @@ RLassoCox
 RMassBank
 RNASeqPower
 RNAdecay
+RNAmodR
 RNAsense
 RNAseqCovarImpute
 ROC
@@ -804,6 +805,7 @@ SNPediaR
 SNPhood
 SPEM
 SPIA
+SPLINTER
 SPONGE
 SPOTlight
 SPsimSeq
@@ -889,6 +891,7 @@ TRONCO
 TSAR
 TSCAN
 TTMap
+TVTB
 TargetDecoy
 TargetScore
 TargetSearch
@@ -1019,6 +1022,7 @@ biodbNci
 biodbUniprot
 biomaRt
 biomformat
+biomvRCNS
 biosigner
 biotmle
 biovizBase
@@ -1041,6 +1045,7 @@ cancerclass
 cardelino
 casper
 categoryCompare
+cbaf
 cbpManager
 ccImpute
 ccfindR
@@ -1065,6 +1070,7 @@ chopsticks
 chromDraw
 chromPlot
 chromstaR
+cicero
 cisPath
 cleanUpdTSeq
 cleaver
@@ -1090,6 +1096,7 @@ codelink
 cogena
 cogeqc
 cola
+comapr
 combi
 compSPOT
 compcodeR
@@ -1116,6 +1123,7 @@ csaw
 csdR
 ctc
 ctsGE
+cummeRbund
 customCMPdb
 cyanoFilter
 cycle
@@ -1701,6 +1709,7 @@ satuRn
 scAnnotatR
 scBFA
 scBubbletree
+scCB2
 scClassify
 scDataviz
 scDesign3

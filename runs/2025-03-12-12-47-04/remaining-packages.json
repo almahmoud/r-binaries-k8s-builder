@@ -326,16 +326,9 @@
   "RNAAgeCalc": [
     "recount"
   ],
-  "RNAmodR": [],
-  "RNAmodR.AlkAnilineSeq": [
-    "RNAmodR"
-  ],
-  "RNAmodR.ML": [
-    "RNAmodR"
-  ],
-  "RNAmodR.RiboMethSeq": [
-    "RNAmodR"
-  ],
+  "RNAmodR.AlkAnilineSeq": [],
+  "RNAmodR.ML": [],
+  "RNAmodR.RiboMethSeq": [],
   "RUVSeq": [],
   "RegionalST": [
     "scater",
@@ -383,7 +376,6 @@
   "SPIAT": [
     "dittoSeq"
   ],
-  "SPLINTER": [],
   "SigsPack": [],
   "SingleCellSignalR": [
     "scran"
@@ -408,7 +400,6 @@
   "TFHAZ": [
     "ORFik"
   ],
-  "TVTB": [],
   "UMI4Cats": [],
   "VAExprs": [
     "scater"
@@ -458,7 +449,6 @@
     "lumi"
   ],
   "bioCancer": [],
-  "biomvRCNS": [],
   "biscuiteer": [
     "dmrseq",
     "annotatr",
@@ -473,7 +463,6 @@
   ],
   "canceR": [],
   "casper": [],
-  "cbaf": [],
   "celda": [
     "scater",
     "scran"
@@ -482,7 +471,6 @@
   "chromVAR": [
     "TFBSTools"
   ],
-  "cicero": [],
   "circRNAprofiler": [
     "gwascat"
   ],
@@ -494,7 +482,6 @@
     "oligo"
   ],
   "cn.mops": [],
-  "comapr": [],
   "compEpiTools": [
     "methylPipe"
   ],
@@ -523,7 +510,6 @@
   "crisprViz": [
     "crisprDesign"
   ],
-  "cummeRbund": [],
   "customProDB": [],
   "cytofQC": [
     "CATALYST",
@@ -847,7 +833,6 @@
     "TFBSTools"
   ],
   "saseR": [],
-  "scCB2": [],
   "scDD": [
     "EBSeq",
     "scran"
