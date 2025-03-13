@@ -108,6 +108,7 @@ Biostrings
 BloodGen3Module
 BridgeDbR
 BrowserViz
+BubbleTree
 BufferedMatrix
 BufferedMatrixMethods
 BumpyMatrix
@@ -291,6 +292,7 @@ FGNet
 FISHalyseR
 FRGEpistasis
 FamAgg
+FastqCleaner
 FeatSeekR
 FilterFFPE
 FindIT2
@@ -375,6 +377,7 @@ GraphAT
 GraphAlignment
 GreyListChIP
 Guitar
+Gviz
 HDF5Array
 HDTD
 HELP
@@ -592,6 +595,7 @@ NuPoP
 OCplus
 OLIN
 OLINgui
+OMICsPCA
 OPWeight
 ORFhunteR
 OSAT
@@ -677,6 +681,7 @@ RCy3
 RCyjs
 RDRToolbox
 REBET
+RESOLVE
 RGSEA
 RGraph2js
 RITAN
@@ -898,6 +903,7 @@ VariantExperiment
 VariantTools
 VegaMC
 VennDetail
+VisiumIO
 VplotR
 Wrench
 XDE
@@ -1009,6 +1015,7 @@ brendaDb
 bsseq
 bugsigdbr
 bumphunter
+cBioPortalData
 cTRAP
 calm
 cancerclass
@@ -1123,6 +1130,7 @@ derfinder
 derfinderHelper
 destiny
 diffGeneAnalysis
+diffHic
 diffUTR
 diffcoexp
 diffcyt
@@ -1147,6 +1155,7 @@ easyRNASeq
 easylift
 easyreporting
 ecolitk
+edge
 edgeR
 eds
 eiR
@@ -1698,6 +1707,7 @@ scp
 scrapper
 screenCounter
 scry
+scuttle
 seahtrue
 sechm
 segmentSeq

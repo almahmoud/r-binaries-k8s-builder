@@ -6,9 +6,7 @@
     "AnnotationHubData",
     "OrganismDbi"
   ],
-  "ASpli": [
-    "Gviz"
-  ],
+  "ASpli": [],
   "ATACseqQC": [
     "ChIPpeakAnno",
     "motifStack",
@@ -24,9 +22,7 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "AllelicImbalance": [
-    "Gviz"
-  ],
+  "AllelicImbalance": [],
   "AnnotationHubData": [
     "OrganismDbi"
   ],
@@ -35,13 +31,11 @@
     "affxparser"
   ],
   "BASiCS": [
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "BASiCStan": [
     "BASiCS",
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "BBCAnalyzer": [],
   "BOBaFIT": [
@@ -50,39 +44,32 @@
   ],
   "BatchQC": [
     "EBSeq",
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "BayesSpace": [
     "scater",
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "BgeeCall": [],
   "BioTIP": [
-    "scran",
-    "scuttle"
+    "scran"
   ],
-  "BubbleTree": [],
   "CAFE": [
     "ggbio",
     "OrganismDbi"
   ],
   "CAGEfightR": [
-    "Gviz",
     "GenomicInteractions"
   ],
   "CAGEr": [
     "CAGEfightR",
-    "Gviz",
     "GenomicInteractions"
   ],
   "CAMERA": [
     "xcms"
   ],
   "CATALYST": [
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "CNVfilteR": [
     "karyoploteR",
@@ -101,12 +88,10 @@
     "dittoSeq"
   ],
   "CellMixS": [
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "CelliD": [
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "ChAMP": [
     "minfi",
@@ -114,7 +99,6 @@
     "wateRmelon",
     "goseq",
     "missMethyl",
-    "Gviz",
     "methylumi",
     "lumi"
   ],
@@ -132,15 +116,13 @@
   "ChromSCape": [
     "batchelor",
     "scran",
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "CircSeqAlignTk": [
     "Rhisat2"
   ],
   "CiteFuse": [
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "CompoundDb": [],
   "CopyNumberPlots": [
@@ -165,7 +147,6 @@
   "DMRcate": [
     "minfi",
     "missMethyl",
-    "Gviz",
     "methylumi"
   ],
   "Damsel": [
@@ -177,26 +158,19 @@
   "DegNorm": [],
   "DiffBind": [],
   "Dino": [
-    "scran",
-    "scuttle"
+    "scran"
   ],
-  "DropletUtils": [
-    "scuttle"
-  ],
+  "DropletUtils": [],
   "DrugVsDisease": [
     "ArrayExpress",
     "oligo",
     "affxparser"
   ],
-  "DuplexDiscovereR": [
-    "Gviz"
-  ],
+  "DuplexDiscovereR": [],
   "EBSeq": [],
   "EGAD": [],
   "EGSEA": [],
-  "ELMER": [
-    "Gviz"
-  ],
+  "ELMER": [],
   "ENmix": [
     "minfi"
   ],
@@ -214,21 +188,17 @@
     "DropletUtils",
     "ggbio",
     "scater",
-    "scuttle",
     "scran",
     "OrganismDbi"
   ],
   "FRASER": [
     "OUTRIDER"
   ],
-  "FastqCleaner": [],
   "GA4GHshiny": [],
   "GARS": [],
   "GEOexplorer": [],
   "GLAD": [],
-  "GNOSIS": [
-    "cBioPortalData"
-  ],
+  "GNOSIS": [],
   "GSReg": [
     "OrganismDbi"
   ],
@@ -244,17 +214,13 @@
   "GeneRegionScan": [
     "affxparser"
   ],
-  "GeneStructureTools": [
-    "Gviz"
-  ],
+  "GeneStructureTools": [],
   "GeneTonic": [
     "mosdef",
     "goseq"
   ],
   "GeneticsPed": [],
-  "GenomicInteractions": [
-    "Gviz"
-  ],
+  "GenomicInteractions": [],
   "GenomicOZone": [
     "ggbio",
     "OrganismDbi"
@@ -263,11 +229,9 @@
     "RCAS"
   ],
   "GrafGen": [],
-  "Gviz": [],
   "HIBAG": [],
   "HiCDCPlus": [
-    "GenomicInteractions",
-    "Gviz"
+    "GenomicInteractions"
   ],
   "IPO": [
     "xcms",
@@ -287,8 +251,7 @@
     "CAMERA"
   ],
   "M3Drop": [
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "MAGAR": [
     "RnBeads",
@@ -304,7 +267,6 @@
   ],
   "MEAL": [
     "minfi",
-    "Gviz",
     "missMethyl",
     "methylumi"
   ],
@@ -315,21 +277,17 @@
     "lumi"
   ],
   "MEB": [
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "MGnifyR": [
     "mia",
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "MOSim": [
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "MPAC": [
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "MSnID": [
     "msmsTests"
@@ -361,28 +319,20 @@
     "ATACseqQC",
     "ChIPpeakAnno",
     "motifStack",
-    "Gviz",
     "TFBSTools"
   ],
   "NetPathMiner": [],
-  "OGRE": [
-    "Gviz"
-  ],
-  "OMICsPCA": [],
+  "OGRE": [],
   "ORFik": [],
   "OUTRIDER": [],
   "OrganismDbi": [],
   "Oscope": [
     "EBSeq"
   ],
-  "PING": [
-    "Gviz"
-  ],
+  "PING": [],
   "PharmacoGx": [],
   "Prostar": [],
-  "Pviz": [
-    "Gviz"
-  ],
+  "Pviz": [],
   "QuasR": [],
   "R3CPET": [
     "ggbio",
@@ -395,31 +345,24 @@
   "REMP": [
     "minfi"
   ],
-  "RESOLVE": [],
   "RNAAgeCalc": [
     "recount"
   ],
-  "RNAmodR": [
-    "Gviz"
-  ],
+  "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
-    "RNAmodR",
-    "Gviz"
+    "RNAmodR"
   ],
   "RNAmodR.ML": [
-    "RNAmodR",
-    "Gviz"
+    "RNAmodR"
   ],
   "RNAmodR.RiboMethSeq": [
-    "RNAmodR",
-    "Gviz"
+    "RNAmodR"
   ],
   "RUVSeq": [],
   "RegionalST": [
     "scater",
     "BayesSpace",
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "Repitools": [],
   "ReportingTools": [
@@ -463,13 +406,10 @@
   "SPIAT": [
     "dittoSeq"
   ],
-  "SPLINTER": [
-    "Gviz"
-  ],
+  "SPLINTER": [],
   "SigsPack": [],
   "SingleCellSignalR": [
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "SingleMoleculeFootprinting": [
     "QuasR"
@@ -479,41 +419,31 @@
     "OrganismDbi"
   ],
   "SpaNorm": [
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "Spaniel": [
     "scater",
     "scran",
-    "DropletUtils",
-    "scuttle"
+    "DropletUtils"
   ],
   "SpatialCPie": [],
   "SpatialFeatureExperiment": [
-    "DropletUtils",
-    "scuttle"
+    "DropletUtils"
   ],
   "TFBSTools": [],
   "TFHAZ": [
     "ORFik"
   ],
-  "TVTB": [
-    "Gviz"
-  ],
+  "TVTB": [],
   "UMI4Cats": [],
   "Ularcirc": [],
   "VAExprs": [
-    "scater",
-    "scuttle"
+    "scater"
   ],
-  "VariantFiltering": [
-    "Gviz"
-  ],
-  "VisiumIO": [],
+  "VariantFiltering": [],
   "Voyager": [
     "SpatialFeatureExperiment",
-    "DropletUtils",
-    "scuttle"
+    "DropletUtils"
   ],
   "Xeva": [
     "PharmacoGx"
@@ -533,8 +463,7 @@
     "OrganismDbi"
   ],
   "airpart": [
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "alabaster": [
     "alabaster.vcf"
@@ -554,21 +483,15 @@
     "TFBSTools"
   ],
   "bandle": [],
-  "batchelor": [
-    "scuttle"
-  ],
+  "batchelor": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
     "methylumi",
     "lumi"
   ],
-  "bioCancer": [
-    "cBioPortalData"
-  ],
-  "biomvRCNS": [
-    "Gviz"
-  ],
+  "bioCancer": [],
+  "biomvRCNS": [],
   "biscuiteer": [
     "dmrseq",
     "annotatr",
@@ -577,32 +500,22 @@
   "broadSeq": [
     "EBSeq"
   ],
-  "cBioPortalData": [],
   "cageminer": [
     "ggbio",
     "OrganismDbi"
   ],
-  "canceR": [
-    "cBioPortalData"
-  ],
+  "canceR": [],
   "casper": [],
-  "cbaf": [
-    "cBioPortalData"
-  ],
+  "cbaf": [],
   "celda": [
     "scater",
-    "scran",
-    "scuttle"
+    "scran"
   ],
-  "chimeraviz": [
-    "Gviz"
-  ],
+  "chimeraviz": [],
   "chromVAR": [
     "TFBSTools"
   ],
-  "cicero": [
-    "Gviz"
-  ],
+  "cicero": [],
   "circRNAprofiler": [
     "gwascat"
   ],
@@ -614,17 +527,13 @@
     "oligo"
   ],
   "cn.mops": [],
-  "comapr": [
-    "Gviz"
-  ],
+  "comapr": [],
   "compEpiTools": [
-    "methylPipe",
-    "Gviz"
+    "methylPipe"
   ],
   "condiments": [
     "distinct",
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "consensusDE": [
     "RUVSeq"
@@ -638,26 +547,20 @@
   "crisprDesign": [],
   "crisprShiny": [
     "crisprDesign",
-    "crisprViz",
-    "Gviz"
+    "crisprViz"
   ],
   "crisprVerse": [
     "crisprDesign",
-    "crisprViz",
-    "Gviz"
+    "crisprViz"
   ],
   "crisprViz": [
-    "crisprDesign",
-    "Gviz"
+    "crisprDesign"
   ],
-  "cummeRbund": [
-    "Gviz"
-  ],
+  "cummeRbund": [],
   "customProDB": [],
   "cytofQC": [
     "CATALYST",
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "dagLogo": [
     "motifStack",
@@ -665,8 +568,7 @@
   ],
   "dar": [
     "mia",
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "ddPCRclust": [
     "flowPeaks"
@@ -674,8 +576,7 @@
   "decontX": [
     "celda",
     "scater",
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "deconvR": [
     "methylKit",
@@ -686,16 +587,13 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "diffHic": [],
   "distinct": [
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "dittoSeq": [],
   "dmrseq": [
     "annotatr"
   ],
-  "edge": [],
   "eiR": [],
   "enhancerHomologSearch": [
     "motifmatchr",
@@ -704,19 +602,16 @@
   "epigraHMM": [],
   "epimutacions": [
     "minfi",
-    "Gviz",
     "OrganismDbi"
   ],
   "epiregulon": [
     "scran",
-    "scuttle",
     "motifmatchr",
     "TFBSTools"
   ],
   "epiregulon.extra": [
     "scran",
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "epivizr": [
     "epivizrData",
@@ -743,8 +638,7 @@
   ],
   "escape": [],
   "extraChIPs": [
-    "GenomicInteractions",
-    "Gviz"
+    "GenomicInteractions"
   ],
   "fastseg": [],
   "ffpe": [
@@ -772,8 +666,7 @@
     "PharmacoGx"
   ],
   "geomeTriD": [
-    "trackViewer",
-    "Gviz"
+    "trackViewer"
   ],
   "ggbio": [
     "OrganismDbi"
@@ -798,16 +691,13 @@
   "iSEEtree": [
     "miaViz",
     "mia",
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "ideal": [
     "mosdef",
     "goseq"
   ],
-  "imcRtools": [
-    "scuttle"
-  ],
+  "imcRtools": [],
   "immunoClust": [],
   "intansv": [
     "ggbio",
@@ -819,16 +709,12 @@
     "minfi"
   ],
   "lute": [
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "mCSEA": [
-    "Gviz",
     "OrganismDbi"
   ],
-  "maser": [
-    "Gviz"
-  ],
+  "maser": [],
   "meshr": [],
   "metaMS": [
     "CAMERA",
@@ -860,9 +746,7 @@
   "methylKit": [
     "fastseg"
   ],
-  "methylPipe": [
-    "Gviz"
-  ],
+  "methylPipe": [],
   "methylclock": [
     "minfi",
     "ExperimentHubData",
@@ -873,13 +757,11 @@
     "minfi"
   ],
   "mia": [
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "miaViz": [
     "mia",
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "microRNA": [],
   "microSTASIS": [],
@@ -904,15 +786,13 @@
   ],
   "motifbreakR": [
     "motifStack",
-    "Gviz",
     "TFBSTools"
   ],
   "motifmatchr": [
     "TFBSTools"
   ],
   "msImpute": [
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "msgbsR": [
     "ggbio",
@@ -923,13 +803,11 @@
     "karyoploteR"
   ],
   "mumosa": [
-    "scuttle",
     "scran",
     "batchelor"
   ],
   "muscat": [
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "muscle": [],
   "musicatk": [],
@@ -938,8 +816,7 @@
     "xcms"
   ],
   "netSmooth": [
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "netZooR": [
     "yarn",
@@ -972,20 +849,17 @@
     "oligo"
   ],
   "peco": [
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "phantasus": [],
   "pipeComp": [
     "scran",
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "preciseTAD": [
     "rCGH"
   ],
   "primirTSS": [
-    "Gviz",
     "TFBSTools"
   ],
   "proActiv": [],
@@ -1009,9 +883,7 @@
   ],
   "recoup": [],
   "regioneReloaded": [],
-  "regutools": [
-    "Gviz"
-  ],
+  "regutools": [],
   "rgsepd": [
     "goseq"
   ],
@@ -1021,17 +893,14 @@
     "TFBSTools"
   ],
   "saseR": [
-    "ASpli",
-    "Gviz"
+    "ASpli"
   ],
   "scCB2": [
-    "DropletUtils",
-    "scuttle"
+    "DropletUtils"
   ],
   "scDD": [
     "EBSeq",
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "scDDboost": [
     "EBSeq",
@@ -1039,28 +908,23 @@
   ],
   "scDblFinder": [
     "scran",
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "scDotPlot": [
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "scFeatures": [
     "SingleCellSignalR",
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "scMerge": [
     "M3Drop",
     "scater",
     "batchelor",
-    "scran",
-    "scuttle"
+    "scran"
   ],
   "scPipe": [
-    "DropletUtils",
-    "scuttle"
+    "DropletUtils"
   ],
   "scTensor": [
     "meshr"
@@ -1070,30 +934,23 @@
     "scran",
     "epivizrData",
     "scater",
-    "OrganismDbi",
-    "scuttle"
+    "OrganismDbi"
   ],
   "scanMiRApp": [],
-  "scater": [
-    "scuttle"
-  ],
+  "scater": [],
   "scmeth": [
     "annotatr"
   ],
   "scone": [
     "RUVSeq"
   ],
-  "scran": [
-    "scuttle"
-  ],
+  "scran": [],
   "scruff": [
     "ggbio",
     "OrganismDbi"
   ],
-  "scuttle": [],
   "scviR": [
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "shinyMethyl": [
     "minfi"
@@ -1101,9 +958,7 @@
   "shinyepico": [
     "minfi"
   ],
-  "simPIC": [
-    "scuttle"
-  ],
+  "simPIC": [],
   "singleCellTK": [
     "batchelor",
     "scater",
@@ -1112,7 +967,6 @@
     "celda",
     "DropletUtils",
     "scDblFinder",
-    "scuttle",
     "M3Drop"
   ],
   "sitadela": [],
@@ -1126,20 +980,15 @@
   "spatzie": [
     "GenomicInteractions",
     "motifmatchr",
-    "TFBSTools",
-    "Gviz"
+    "TFBSTools"
   ],
   "spillR": [
     "CATALYST",
-    "scater",
-    "scuttle"
+    "scater"
   ],
-  "splatter": [
-    "scuttle"
-  ],
+  "splatter": [],
   "spoon": [
-    "nnSVG",
-    "scuttle"
+    "nnSVG"
   ],
   "squallms": [
     "xcms"
@@ -1149,26 +998,18 @@
   ],
   "svaNUMT": [],
   "svaRetro": [],
-  "tadar": [
-    "Gviz"
-  ],
+  "tadar": [],
   "ternarynet": [],
-  "trackViewer": [
-    "Gviz"
-  ],
+  "trackViewer": [],
   "tricycle": [
-    "scater",
-    "scuttle"
+    "scater"
   ],
   "txcutr": [],
   "tximeta": [],
   "uncoverappLib": [
-    "Gviz",
     "OrganismDbi"
   ],
-  "velociraptor": [
-    "scuttle"
-  ],
+  "velociraptor": [],
   "vtpnet": [
     "gwascat"
   ],
