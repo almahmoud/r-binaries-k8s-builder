@@ -405,11 +405,14 @@ PathNet
 Pedixplorer
 PepSetTest
 PepsNMR
+PhIPData
 PhenStat
 PhenoGeneRanker
 PoDCall
+PolySTest
 ProtGenerics
 ProteoMM
+QTLExperiment
 QUBIC
 Qtlizer
 QuaternaryProd
@@ -511,6 +514,7 @@ Sconify
 ScreenR
 SemDist
 SeqArray
+SeqGate
 SeqVarTools
 SharedObject
 SigFuge
@@ -541,6 +545,7 @@ TMixClust
 TOAST
 TPP
 TPP2D
+TREG
 TRONCO
 TSAR
 TargetDecoy

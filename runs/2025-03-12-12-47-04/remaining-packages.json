@@ -1717,7 +1717,6 @@
   "PeacoQC": [
     "flowWorkspace"
   ],
-  "PhIPData": [],
   "PharmacoGx": [
     "CoreGx",
     "MultiAssayExperiment"
@@ -1728,7 +1727,6 @@
     "ReactomePA"
   ],
   "Pirat": [],
-  "PolySTest": [],
   "PrInCE": [
     "MSnbase",
     "PSMatch",
@@ -1772,7 +1770,6 @@
     "AnnotationFilter"
   ],
   "QSutils": [],
-  "QTLExperiment": [],
   "QuasR": [
     "BSgenome",
     "GenomicFeatures",
@@ -2155,7 +2152,6 @@
   "SeqGSEA": [
     "DESeq2"
   ],
-  "SeqGate": [],
   "SeqSQC": [],
   "ShortRead": [],
   "SiPSiC": [],
@@ -2322,7 +2318,6 @@
     "ClassifyR",
     "MultiAssayExperiment"
   ],
-  "TREG": [],
   "TRESS": [
     "rtracklayer",
     "GenomicFeatures"
@@ -2620,9 +2615,7 @@
   "beachmat.hdf5": [
     "beachmat"
   ],
-  "beer": [
-    "PhIPData"
-  ],
+  "beer": [],
   "benchdamic": [
     "TreeSummarizedExperiment",
     "zinbwave",
@@ -4147,9 +4140,7 @@
     "ensembldb",
     "AnnotationFilter"
   ],
-  "multistateQTL": [
-    "QTLExperiment"
-  ],
+  "multistateQTL": [],
   "mumosa": [
     "BiocSingular",
     "ScaledMatrix",

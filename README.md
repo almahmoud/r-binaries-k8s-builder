@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1137 packages built successfully
+- 1142 packages built successfully
 - 19 packages failed to build
-- 1077 packages not yet processed
+- 1072 packages not yet processed
 
 ## Failed Builds (19)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -31,7 +31,7 @@
 | [microRNA](https://bioconductor.org/packages/3.20/bioc/html/microRNA.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/microRNA/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/microRNA)      | Build failed with unknown error     |
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/cn.mops/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cn.mops)       | Build failed with unknown error     |
 
-## Successfully Built (1137)
+## Successfully Built (1142)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1171,8 +1171,13 @@
 | [PAIRADISE](https://bioconductor.org/packages/3.20/bioc/html/PAIRADISE.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/PAIRADISE/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PAIRADISE)                 |
 | [PepSetTest](https://bioconductor.org/packages/3.20/bioc/html/PepSetTest.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/PepSetTest/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PepSetTest)                |
 | [ramwas](https://bioconductor.org/packages/3.20/bioc/html/ramwas.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/ramwas/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ramwas)                    |
+| [PhIPData](https://bioconductor.org/packages/3.20/bioc/html/PhIPData.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/PhIPData/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PhIPData)                  |
+| [PolySTest](https://bioconductor.org/packages/3.20/bioc/html/PolySTest.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/PolySTest/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PolySTest)                 |
+| [QTLExperiment](https://bioconductor.org/packages/3.20/bioc/html/QTLExperiment.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/QTLExperiment/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/QTLExperiment)             |
+| [SeqGate](https://bioconductor.org/packages/3.20/bioc/html/SeqGate.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/SeqGate/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SeqGate)                   |
+| [TREG](https://bioconductor.org/packages/3.20/bioc/html/TREG.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/TREG/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TREG)                      |
 
-## Not Yet Processed (1077)
+## Not Yet Processed (1072)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1522,13 +1527,11 @@
 | [PanomiR](https://bioconductor.org/packages/3.20/bioc/html/PanomiR.html)                                         | Unprocessed |
 | [PathoStat](https://bioconductor.org/packages/3.20/bioc/html/PathoStat.html)                                     | Unprocessed |
 | [PeacoQC](https://bioconductor.org/packages/3.20/bioc/html/PeacoQC.html)                                         | Unprocessed |
-| [PhIPData](https://bioconductor.org/packages/3.20/bioc/html/PhIPData.html)                                       | Unprocessed |
 | [PharmacoGx](https://bioconductor.org/packages/3.20/bioc/html/PharmacoGx.html)                                   | Unprocessed |
 | [PhosR](https://bioconductor.org/packages/3.20/bioc/html/PhosR.html)                                             | Unprocessed |
 | [PhyloProfile](https://bioconductor.org/packages/3.20/bioc/html/PhyloProfile.html)                               | Unprocessed |
 | [Pigengene](https://bioconductor.org/packages/3.20/bioc/html/Pigengene.html)                                     | Unprocessed |
 | [Pirat](https://bioconductor.org/packages/3.20/bioc/html/Pirat.html)                                             | Unprocessed |
-| [PolySTest](https://bioconductor.org/packages/3.20/bioc/html/PolySTest.html)                                     | Unprocessed |
 | [PrInCE](https://bioconductor.org/packages/3.20/bioc/html/PrInCE.html)                                           | Unprocessed |
 | [Prostar](https://bioconductor.org/packages/3.20/bioc/html/Prostar.html)                                         | Unprocessed |
 | [ProteoDisco](https://bioconductor.org/packages/3.20/bioc/html/ProteoDisco.html)                                 | Unprocessed |
@@ -1537,7 +1540,6 @@
 | [QDNAseq](https://bioconductor.org/packages/3.20/bioc/html/QDNAseq.html)                                         | Unprocessed |
 | [QFeatures](https://bioconductor.org/packages/3.20/bioc/html/QFeatures.html)                                     | Unprocessed |
 | [QSutils](https://bioconductor.org/packages/3.20/bioc/html/QSutils.html)                                         | Unprocessed |
-| [QTLExperiment](https://bioconductor.org/packages/3.20/bioc/html/QTLExperiment.html)                             | Unprocessed |
 | [QuasR](https://bioconductor.org/packages/3.20/bioc/html/QuasR.html)                                             | Unprocessed |
 | [R3CPET](https://bioconductor.org/packages/3.20/bioc/html/R3CPET.html)                                           | Unprocessed |
 | [R453Plus1Toolbox](https://bioconductor.org/packages/3.20/bioc/html/R453Plus1Toolbox.html)                       | Unprocessed |
@@ -1607,7 +1609,6 @@
 | [Scale4C](https://bioconductor.org/packages/3.20/bioc/html/Scale4C.html)                                         | Unprocessed |
 | [ScaledMatrix](https://bioconductor.org/packages/3.20/bioc/html/ScaledMatrix.html)                               | Unprocessed |
 | [SeqGSEA](https://bioconductor.org/packages/3.20/bioc/html/SeqGSEA.html)                                         | Unprocessed |
-| [SeqGate](https://bioconductor.org/packages/3.20/bioc/html/SeqGate.html)                                         | Unprocessed |
 | [SeqSQC](https://bioconductor.org/packages/3.20/bioc/html/SeqSQC.html)                                           | Unprocessed |
 | [ShortRead](https://bioconductor.org/packages/3.20/bioc/html/ShortRead.html)                                     | Unprocessed |
 | [SiPSiC](https://bioconductor.org/packages/3.20/bioc/html/SiPSiC.html)                                           | Unprocessed |
@@ -1648,7 +1649,6 @@
 | [TFEA.ChIP](https://bioconductor.org/packages/3.20/bioc/html/TFEA.ChIP.html)                                     | Unprocessed |
 | [TFHAZ](https://bioconductor.org/packages/3.20/bioc/html/TFHAZ.html)                                             | Unprocessed |
 | [TOP](https://bioconductor.org/packages/3.20/bioc/html/TOP.html)                                                 | Unprocessed |
-| [TREG](https://bioconductor.org/packages/3.20/bioc/html/TREG.html)                                               | Unprocessed |
 | [TRESS](https://bioconductor.org/packages/3.20/bioc/html/TRESS.html)                                             | Unprocessed |
 | [TSCAN](https://bioconductor.org/packages/3.20/bioc/html/TSCAN.html)                                             | Unprocessed |
 | [TTMap](https://bioconductor.org/packages/3.20/bioc/html/TTMap.html)                                             | Unprocessed |
