@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1981 packages built successfully
+- 1984 packages built successfully
 - 29 packages failed to build
-- 223 packages not yet processed
+- 220 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -41,7 +41,7 @@
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 
-## Successfully Built (1981)
+## Successfully Built (1984)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2025,8 +2025,11 @@
 | [epivizrData](https://bioconductor.org/packages/3.20/bioc/html/epivizrData.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/epivizrData/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epivizrData)                 |
 | [erma](https://bioconductor.org/packages/3.20/bioc/html/erma.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/erma/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/erma)                        |
 | [funtooNorm](https://bioconductor.org/packages/3.20/bioc/html/funtooNorm.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/funtooNorm/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/funtooNorm)                  |
+| [CytoMDS](https://bioconductor.org/packages/3.20/bioc/html/CytoMDS.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/CytoMDS/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CytoMDS)                     |
+| [REMP](https://bioconductor.org/packages/3.20/bioc/html/REMP.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/REMP/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/REMP)                        |
+| [multicrispr](https://bioconductor.org/packages/3.20/bioc/html/multicrispr.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/multicrispr/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multicrispr)                 |
 
-## Not Yet Processed (223)
+## Not Yet Processed (220)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2059,7 +2062,6 @@
 | [CircSeqAlignTk](https://bioconductor.org/packages/3.20/bioc/html/CircSeqAlignTk.html)                         | Unprocessed |
 | [CiteFuse](https://bioconductor.org/packages/3.20/bioc/html/CiteFuse.html)                                     | Unprocessed |
 | [CopyNumberPlots](https://bioconductor.org/packages/3.20/bioc/html/CopyNumberPlots.html)                       | Unprocessed |
-| [CytoMDS](https://bioconductor.org/packages/3.20/bioc/html/CytoMDS.html)                                       | Unprocessed |
 | [DEScan2](https://bioconductor.org/packages/3.20/bioc/html/DEScan2.html)                                       | Unprocessed |
 | [DEsubs](https://bioconductor.org/packages/3.20/bioc/html/DEsubs.html)                                         | Unprocessed |
 | [DExMA](https://bioconductor.org/packages/3.20/bioc/html/DExMA.html)                                           | Unprocessed |
@@ -2101,7 +2103,6 @@
 | [QuasR](https://bioconductor.org/packages/3.20/bioc/html/QuasR.html)                                           | Unprocessed |
 | [R3CPET](https://bioconductor.org/packages/3.20/bioc/html/R3CPET.html)                                         | Unprocessed |
 | [REDseq](https://bioconductor.org/packages/3.20/bioc/html/REDseq.html)                                         | Unprocessed |
-| [REMP](https://bioconductor.org/packages/3.20/bioc/html/REMP.html)                                             | Unprocessed |
 | [RNAAgeCalc](https://bioconductor.org/packages/3.20/bioc/html/RNAAgeCalc.html)                                 | Unprocessed |
 | [RNAmodR.RiboMethSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.RiboMethSeq.html)               | Unprocessed |
 | [RegionalST](https://bioconductor.org/packages/3.20/bioc/html/RegionalST.html)                                 | Unprocessed |
@@ -2200,7 +2201,6 @@
 | [motifmatchr](https://bioconductor.org/packages/3.20/bioc/html/motifmatchr.html)                               | Unprocessed |
 | [msImpute](https://bioconductor.org/packages/3.20/bioc/html/msImpute.html)                                     | Unprocessed |
 | [msgbsR](https://bioconductor.org/packages/3.20/bioc/html/msgbsR.html)                                         | Unprocessed |
-| [multicrispr](https://bioconductor.org/packages/3.20/bioc/html/multicrispr.html)                               | Unprocessed |
 | [mumosa](https://bioconductor.org/packages/3.20/bioc/html/mumosa.html)                                         | Unprocessed |
 | [muscat](https://bioconductor.org/packages/3.20/bioc/html/muscat.html)                                         | Unprocessed |
 | [ncGTW](https://bioconductor.org/packages/3.20/bioc/html/ncGTW.html)                                           | Unprocessed |

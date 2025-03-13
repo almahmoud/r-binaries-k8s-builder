@@ -212,6 +212,7 @@ CrispRVariants
 CuratedAtlasQueryR
 CytoDx
 CytoGLMM
+CytoMDS
 CytoML
 CytoPipeline
 CytoPipelineGUI
@@ -724,6 +725,7 @@ RCy3
 RCyjs
 RDRToolbox
 REBET
+REMP
 RESOLVE
 RGSEA
 RGraph2js
@@ -1572,6 +1574,7 @@ multiGSEA
 multiHiCcompare
 multiMiR
 multiWGCNA
+multicrispr
 multiscan
 multistateQTL
 multtest

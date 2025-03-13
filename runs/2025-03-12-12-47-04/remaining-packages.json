@@ -87,7 +87,6 @@
     "cn.mops"
   ],
   "CytoGLMM": [],
-  "CytoMDS": [],
   "DEScan2": [],
   "DEsubs": [
     "EBSeq"
@@ -207,7 +206,6 @@
     "ggbio"
   ],
   "REDseq": [],
-  "REMP": [],
   "RNAAgeCalc": [],
   "RNAmodR.RiboMethSeq": [],
   "RegionalST": [
@@ -477,7 +475,6 @@
   "msgbsR": [
     "ggbio"
   ],
-  "multicrispr": [],
   "mumosa": [],
   "muscat": [
     "scater"

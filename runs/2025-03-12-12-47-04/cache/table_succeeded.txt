@@ -1979,3 +1979,6 @@
 ['[epivizrData](https://bioconductor.org/packages/3.20/bioc/html/epivizrData.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/epivizrData/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epivizrData)']
 ['[erma](https://bioconductor.org/packages/3.20/bioc/html/erma.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/erma/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/erma)']
 ['[funtooNorm](https://bioconductor.org/packages/3.20/bioc/html/funtooNorm.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/funtooNorm/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/funtooNorm)']
+['[CytoMDS](https://bioconductor.org/packages/3.20/bioc/html/CytoMDS.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CytoMDS/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CytoMDS)']
+['[REMP](https://bioconductor.org/packages/3.20/bioc/html/REMP.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/REMP/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/REMP)']
+['[multicrispr](https://bioconductor.org/packages/3.20/bioc/html/multicrispr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/multicrispr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multicrispr)']
