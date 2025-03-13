@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1489 packages built successfully
+- 1491 packages built successfully
 - 23 packages failed to build
-- 721 packages not yet processed
+- 719 packages not yet processed
 
 ## Failed Builds (23)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -35,7 +35,7 @@
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 
-## Successfully Built (1489)
+## Successfully Built (1491)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1527,8 +1527,10 @@
 | [dreamlet](https://bioconductor.org/packages/3.20/bioc/html/dreamlet.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/dreamlet/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dreamlet)                   |
 | [MethylSeekR](https://bioconductor.org/packages/3.20/bioc/html/MethylSeekR.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/MethylSeekR/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MethylSeekR)                |
 | [ORFhunteR](https://bioconductor.org/packages/3.20/bioc/html/ORFhunteR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/ORFhunteR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ORFhunteR)                  |
+| [Motif2Site](https://bioconductor.org/packages/3.20/bioc/html/Motif2Site.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/Motif2Site/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Motif2Site)                 |
+| [Pigengene](https://bioconductor.org/packages/3.20/bioc/html/Pigengene.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/Pigengene/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Pigengene)                  |
 
-## Not Yet Processed (721)
+## Not Yet Processed (719)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1732,7 +1734,6 @@
 | [MoleculeExperiment](https://bioconductor.org/packages/3.20/bioc/html/MoleculeExperiment.html)                   | Unprocessed |
 | [Moonlight2R](https://bioconductor.org/packages/3.20/bioc/html/Moonlight2R.html)                                 | Unprocessed |
 | [MoonlightR](https://bioconductor.org/packages/3.20/bioc/html/MoonlightR.html)                                   | Unprocessed |
-| [Motif2Site](https://bioconductor.org/packages/3.20/bioc/html/Motif2Site.html)                                   | Unprocessed |
 | [MotifDb](https://bioconductor.org/packages/3.20/bioc/html/MotifDb.html)                                         | Unprocessed |
 | [MsExperiment](https://bioconductor.org/packages/3.20/bioc/html/MsExperiment.html)                               | Unprocessed |
 | [MsQuality](https://bioconductor.org/packages/3.20/bioc/html/MsQuality.html)                                     | Unprocessed |
@@ -1762,7 +1763,6 @@
 | [PSMatch](https://bioconductor.org/packages/3.20/bioc/html/PSMatch.html)                                         | Unprocessed |
 | [PeacoQC](https://bioconductor.org/packages/3.20/bioc/html/PeacoQC.html)                                         | Unprocessed |
 | [PharmacoGx](https://bioconductor.org/packages/3.20/bioc/html/PharmacoGx.html)                                   | Unprocessed |
-| [Pigengene](https://bioconductor.org/packages/3.20/bioc/html/Pigengene.html)                                     | Unprocessed |
 | [PrInCE](https://bioconductor.org/packages/3.20/bioc/html/PrInCE.html)                                           | Unprocessed |
 | [Prostar](https://bioconductor.org/packages/3.20/bioc/html/Prostar.html)                                         | Unprocessed |
 | [ProteoDisco](https://bioconductor.org/packages/3.20/bioc/html/ProteoDisco.html)                                 | Unprocessed |

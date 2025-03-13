@@ -894,7 +894,6 @@
   "MoonlightR": [
     "GEOquery"
   ],
-  "Motif2Site": [],
   "MotifDb": [],
   "MsExperiment": [
     "QFeatures"
@@ -997,7 +996,6 @@
   ],
   "PeacoQC": [],
   "PharmacoGx": [],
-  "Pigengene": [],
   "PrInCE": [
     "MSnbase",
     "PSMatch",
@@ -2122,7 +2120,6 @@
     "GEOquery"
   ],
   "iNETgrate": [
-    "Pigengene",
     "minfi",
     "OrganismDbi",
     "GenomicFeatures",

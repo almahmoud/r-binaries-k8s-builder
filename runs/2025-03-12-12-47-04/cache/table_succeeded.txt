@@ -1487,3 +1487,5 @@
 ['[dreamlet](https://bioconductor.org/packages/3.20/bioc/html/dreamlet.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/dreamlet/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dreamlet)']
 ['[MethylSeekR](https://bioconductor.org/packages/3.20/bioc/html/MethylSeekR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MethylSeekR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MethylSeekR)']
 ['[ORFhunteR](https://bioconductor.org/packages/3.20/bioc/html/ORFhunteR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ORFhunteR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ORFhunteR)']
+['[Motif2Site](https://bioconductor.org/packages/3.20/bioc/html/Motif2Site.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Motif2Site/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Motif2Site)']
+['[Pigengene](https://bioconductor.org/packages/3.20/bioc/html/Pigengene.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Pigengene/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Pigengene)']

@@ -450,6 +450,7 @@ MicrobiomeProfiler
 MicrobiotaProcess
 ModCon
 Modstrings
+Motif2Site
 MouseFM
 MsBackendMassbank
 MsBackendMetaboLights
@@ -527,6 +528,7 @@ PhenStat
 PhenoGeneRanker
 PhosR
 PhyloProfile
+Pigengene
 Pirat
 PoDCall
 PolySTest
