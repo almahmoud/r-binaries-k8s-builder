@@ -1472,3 +1472,13 @@ animalcules
 Basic4Cseq
 branchpointer
 RcisTarget
+CODEX
+crisprBowtie
+debrowser
+IONiseR
+iSEEde
+iSEEu
+microbiomeExplorer
+mobileRNA
+scBFA
+vidger

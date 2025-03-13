@@ -206,7 +206,6 @@
     "MIRA",
     "bsseq"
   ],
-  "CODEX": [],
   "CONFESS": [
     "flowPeaks"
   ],
@@ -697,7 +696,6 @@
   "INSPEcT": [
     "GenomicFeatures"
   ],
-  "IONiseR": [],
   "IPO": [
     "xcms",
     "CAMERA",
@@ -1734,10 +1732,8 @@
   "cpvSNP": [
     "GenomicFeatures"
   ],
-  "crisprBowtie": [],
   "crisprBwa": [],
   "crisprDesign": [
-    "crisprBowtie",
     "GenomicFeatures",
     "txdbmaker",
     "VariantAnnotation"
@@ -1745,7 +1741,6 @@
   "crisprShiny": [
     "crisprDesign",
     "crisprViz",
-    "crisprBowtie",
     "GenomicFeatures",
     "txdbmaker",
     "VariantAnnotation",
@@ -1754,7 +1749,6 @@
     "biovizBase"
   ],
   "crisprVerse": [
-    "crisprBowtie",
     "crisprDesign",
     "crisprViz",
     "GenomicFeatures",
@@ -1769,7 +1763,6 @@
     "GenomicFeatures",
     "Gviz",
     "txdbmaker",
-    "crisprBowtie",
     "VariantAnnotation",
     "ensembldb",
     "biovizBase"
@@ -1814,7 +1807,6 @@
   "ddPCRclust": [
     "flowPeaks"
   ],
-  "debrowser": [],
   "decompTumor2Sig": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -2123,9 +2115,7 @@
   ],
   "hpar": [],
   "hummingbird": [],
-  "iCNV": [
-    "CODEX"
-  ],
+  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi",
@@ -2143,10 +2133,7 @@
     "GEOquery",
     "txdbmaker"
   ],
-  "iSEEde": [],
-  "iSEEfier": [
-    "iSEEu"
-  ],
+  "iSEEfier": [],
   "iSEEtree": [
     "miaViz",
     "mia",
@@ -2154,7 +2141,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "iSEEu": [],
   "icetea": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -2363,7 +2349,6 @@
   "microRNA": [],
   "microSTASIS": [],
   "microbiome": [],
-  "microbiomeExplorer": [],
   "microbiomeMarker": [],
   "miloR": [
     "BiocSingular"
@@ -2390,7 +2375,6 @@
     "GenomicFeatures"
   ],
   "moanin": [],
-  "mobileRNA": [],
   "monaLisa": [
     "TFBSTools",
     "CNEr"
@@ -2769,7 +2753,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scBFA": [],
   "scCB2": [
     "DropletUtils",
     "scuttle"
@@ -3134,7 +3117,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "vidger": [],
   "vtpnet": [
     "gwascat",
     "GenomicFeatures",
