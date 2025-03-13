@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1647 packages built successfully
+- 1648 packages built successfully
 - 24 packages failed to build
-- 562 packages not yet processed
+- 561 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1647)
+## Successfully Built (1648)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1686,8 +1686,9 @@
 | [VaSP](https://bioconductor.org/packages/3.20/bioc/html/VaSP.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/VaSP/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VaSP)                       |
 | [iCNV](https://bioconductor.org/packages/3.20/bioc/html/iCNV.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/iCNV/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iCNV)                       |
 | [chromstaR](https://bioconductor.org/packages/3.20/bioc/html/chromstaR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/chromstaR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/chromstaR)                  |
+| [HicAggR](https://bioconductor.org/packages/3.20/bioc/html/HicAggR.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/HicAggR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HicAggR)                    |
 
-## Not Yet Processed (562)
+## Not Yet Processed (561)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1814,7 +1815,6 @@
 | [HelloRanges](https://bioconductor.org/packages/3.20/bioc/html/HelloRanges.html)                                 | Unprocessed |
 | [HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)                                     | Unprocessed |
 | [HiLDA](https://bioconductor.org/packages/3.20/bioc/html/HiLDA.html)                                             | Unprocessed |
-| [HicAggR](https://bioconductor.org/packages/3.20/bioc/html/HicAggR.html)                                         | Unprocessed |
 | [IMAS](https://bioconductor.org/packages/3.20/bioc/html/IMAS.html)                                               | Unprocessed |
 | [INSPEcT](https://bioconductor.org/packages/3.20/bioc/html/INSPEcT.html)                                         | Unprocessed |
 | [IPO](https://bioconductor.org/packages/3.20/bioc/html/IPO.html)                                                 | Unprocessed |
