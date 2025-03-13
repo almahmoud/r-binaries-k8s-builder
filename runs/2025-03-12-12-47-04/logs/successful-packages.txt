@@ -1596,3 +1596,16 @@ TADCompare
 tradeSeq
 LOLA
 SpectralTAD
+cfTools
+corral
+DMCFB
+DMCHMM
+HoloFoodR
+hpar
+ivygapSE
+LinkHD
+multiHiCcompare
+PCAtools
+PSMatch
+scry
+StabMap

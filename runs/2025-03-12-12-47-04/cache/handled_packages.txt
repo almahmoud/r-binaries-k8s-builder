@@ -197,6 +197,8 @@ DEqMS
 DEsingle
 DFP
 DFplyr
+DMCFB
+DMCHMM
 DMRScan
 DMRcaller
 DNABarcodeCompatibility
@@ -349,6 +351,7 @@ HiTC
 HilbertCurve
 HilbertVis
 HilbertVisGUI
+HoloFoodR
 HuBMAPR
 HubPub
 HybridExpress
@@ -393,6 +396,7 @@ LRBaseDbi
 LRcell
 LedPred
 LinTInd
+LinkHD
 Linnorm
 LiquidAssociation
 LoomExperiment
@@ -531,6 +535,7 @@ PAIRADISE
 PANR
 PAST
 PCAN
+PCAtools
 PECA
 PICS
 PIPETS
@@ -545,6 +550,7 @@ PROMISE
 PROPER
 PROPS
 PROcess
+PSMatch
 PWMEnrich
 PanomiR
 Path2PPI
@@ -719,6 +725,7 @@ SpectraQL
 SpectralTAD
 SpliceWiz
 SplicingFactory
+StabMap
 Streamer
 Structstrings
 SubCellBarCode
@@ -893,6 +900,7 @@ cellscape
 cellxgenedp
 censcyt
 cfDNAPro
+cfTools
 cfdnakit
 cghMCR
 chihaya
@@ -931,6 +939,7 @@ consensus
 consensusSeekeR
 convert
 copa
+corral
 coseq
 cosmosR
 countsimQC
@@ -1128,6 +1137,7 @@ hierinf
 hipathia
 hmdbQuery
 hopach
+hpar
 hummingbird
 hypeR
 hyperdraw
@@ -1171,6 +1181,7 @@ isobar
 isomiRs
 iterativeBMA
 iterativeBMAsurv
+ivygapSE
 kebabs
 keggorthology
 kmcut
@@ -1271,6 +1282,7 @@ msa
 mslp
 multiClust
 multiGSEA
+multiHiCcompare
 multiWGCNA
 multiscan
 multistateQTL
@@ -1477,6 +1489,7 @@ scmap
 scoup
 scrapper
 screenCounter
+scry
 seahtrue
 sechm
 segmentSeq

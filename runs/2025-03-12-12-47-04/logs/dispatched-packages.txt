@@ -1720,3 +1720,6 @@ meshr
 methylSig
 phenoTest
 tidyomics
+HiCDOC
+MSnbase
+regionalpcs
