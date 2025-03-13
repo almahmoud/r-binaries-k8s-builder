@@ -262,9 +262,7 @@
     "minfi"
   ],
   "Moonlight2R": [],
-  "MoonlightR": [],
   "NADfinder": [
-    "trackViewer",
     "ATACseqQC",
     "motifStack"
   ],
@@ -543,9 +541,7 @@
     "gDRimport"
   ],
   "gDRimport": [],
-  "geomeTriD": [
-    "trackViewer"
-  ],
+  "geomeTriD": [],
   "ggbio": [
     "OrganismDbi"
   ],
@@ -815,7 +811,6 @@
   "standR": [],
   "tadar": [],
   "ternarynet": [],
-  "trackViewer": [],
   "tricycle": [
     "scater"
   ],
@@ -824,7 +819,6 @@
   "uncoverappLib": [
     "OrganismDbi"
   ],
-  "velociraptor": [],
   "vtpnet": [
     "gwascat"
   ],

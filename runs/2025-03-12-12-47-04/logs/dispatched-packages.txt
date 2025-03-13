@@ -2036,3 +2036,4 @@ SpaNorm
 lute
 msImpute
 mumosa
+geomeTriD

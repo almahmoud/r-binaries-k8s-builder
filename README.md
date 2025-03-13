@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1914 packages built successfully
+- 1917 packages built successfully
 - 29 packages failed to build
-- 290 packages not yet processed
+- 287 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -41,7 +41,7 @@
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 
-## Successfully Built (1914)
+## Successfully Built (1917)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1958,8 +1958,11 @@
 | [scran](https://bioconductor.org/packages/3.20/bioc/html/scran.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/scran/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scran)                       |
 | [splatter](https://bioconductor.org/packages/3.20/bioc/html/splatter.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/splatter/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/splatter)                    |
 | [GARS](https://bioconductor.org/packages/3.20/bioc/html/GARS.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/GARS/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GARS)                        |
+| [MoonlightR](https://bioconductor.org/packages/3.20/bioc/html/MoonlightR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/MoonlightR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MoonlightR)                  |
+| [trackViewer](https://bioconductor.org/packages/3.20/bioc/html/trackViewer.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/trackViewer/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/trackViewer)                 |
+| [velociraptor](https://bioconductor.org/packages/3.20/bioc/html/velociraptor.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/velociraptor/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/velociraptor)                |
 
-## Not Yet Processed (290)
+## Not Yet Processed (287)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2046,7 +2049,6 @@
 | [MethylAid](https://bioconductor.org/packages/3.20/bioc/html/MethylAid.html)                                   | Unprocessed |
 | [MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)                                       | Unprocessed |
 | [Moonlight2R](https://bioconductor.org/packages/3.20/bioc/html/Moonlight2R.html)                               | Unprocessed |
-| [MoonlightR](https://bioconductor.org/packages/3.20/bioc/html/MoonlightR.html)                                 | Unprocessed |
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                   | Unprocessed |
 | [ORFik](https://bioconductor.org/packages/3.20/bioc/html/ORFik.html)                                           | Unprocessed |
 | [OUTRIDER](https://bioconductor.org/packages/3.20/bioc/html/OUTRIDER.html)                                     | Unprocessed |
@@ -2242,12 +2244,10 @@
 | [squallms](https://bioconductor.org/packages/3.20/bioc/html/squallms.html)                                     | Unprocessed |
 | [standR](https://bioconductor.org/packages/3.20/bioc/html/standR.html)                                         | Unprocessed |
 | [tadar](https://bioconductor.org/packages/3.20/bioc/html/tadar.html)                                           | Unprocessed |
-| [trackViewer](https://bioconductor.org/packages/3.20/bioc/html/trackViewer.html)                               | Unprocessed |
 | [tricycle](https://bioconductor.org/packages/3.20/bioc/html/tricycle.html)                                     | Unprocessed |
 | [txcutr](https://bioconductor.org/packages/3.20/bioc/html/txcutr.html)                                         | Unprocessed |
 | [tximeta](https://bioconductor.org/packages/3.20/bioc/html/tximeta.html)                                       | Unprocessed |
 | [uncoverappLib](https://bioconductor.org/packages/3.20/bioc/html/uncoverappLib.html)                           | Unprocessed |
-| [velociraptor](https://bioconductor.org/packages/3.20/bioc/html/velociraptor.html)                             | Unprocessed |
 | [vtpnet](https://bioconductor.org/packages/3.20/bioc/html/vtpnet.html)                                         | Unprocessed |
 | [vulcan](https://bioconductor.org/packages/3.20/bioc/html/vulcan.html)                                         | Unprocessed |
 | [wateRmelon](https://bioconductor.org/packages/3.20/bioc/html/wateRmelon.html)                                 | Unprocessed |

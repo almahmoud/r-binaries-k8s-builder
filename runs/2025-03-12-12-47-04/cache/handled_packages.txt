@@ -566,6 +566,7 @@ MinimumDistance
 ModCon
 Modstrings
 MoleculeExperiment
+MoonlightR
 Motif2Site
 MotifDb
 MouseFM
@@ -1887,6 +1888,7 @@ topGO
 topconfects
 topdownr
 tpSVG
+trackViewer
 tracktables
 tradeSeq
 transcriptR
@@ -1915,6 +1917,7 @@ universalmotif
 updateObject
 variancePartition
 vbmp
+velociraptor
 veloviz
 vidger
 viper
