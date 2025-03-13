@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1640 packages built successfully
+- 1642 packages built successfully
 - 24 packages failed to build
-- 569 packages not yet processed
+- 567 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1640)
+## Successfully Built (1642)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1679,8 +1679,10 @@
 | [tRNAscanImport](https://bioconductor.org/packages/3.20/bioc/html/tRNAscanImport.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/tRNAscanImport/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tRNAscanImport)             |
 | [SpatialExperiment](https://bioconductor.org/packages/3.20/bioc/html/SpatialExperiment.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/SpatialExperiment/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SpatialExperiment)          |
 | [AffiXcan](https://bioconductor.org/packages/3.20/bioc/html/AffiXcan.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AffiXcan/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AffiXcan)                   |
+| [CBEA](https://bioconductor.org/packages/3.20/bioc/html/CBEA.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/CBEA/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CBEA)                       |
+| [microbiomeMarker](https://bioconductor.org/packages/3.20/bioc/html/microbiomeMarker.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/microbiomeMarker/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/microbiomeMarker)           |
 
-## Not Yet Processed (569)
+## Not Yet Processed (567)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1711,7 +1713,6 @@
 | [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)                                             | Unprocessed |
 | [CAMERA](https://bioconductor.org/packages/3.20/bioc/html/CAMERA.html)                                           | Unprocessed |
 | [CATALYST](https://bioconductor.org/packages/3.20/bioc/html/CATALYST.html)                                       | Unprocessed |
-| [CBEA](https://bioconductor.org/packages/3.20/bioc/html/CBEA.html)                                               | Unprocessed |
 | [CNVfilteR](https://bioconductor.org/packages/3.20/bioc/html/CNVfilteR.html)                                     | Unprocessed |
 | [CNViz](https://bioconductor.org/packages/3.20/bioc/html/CNViz.html)                                             | Unprocessed |
 | [CNVrd2](https://bioconductor.org/packages/3.20/bioc/html/CNVrd2.html)                                           | Unprocessed |
@@ -2103,7 +2104,6 @@
 | [miaViz](https://bioconductor.org/packages/3.20/bioc/html/miaViz.html)                                           | Unprocessed |
 | [microSTASIS](https://bioconductor.org/packages/3.20/bioc/html/microSTASIS.html)                                 | Unprocessed |
 | [microbiome](https://bioconductor.org/packages/3.20/bioc/html/microbiome.html)                                   | Unprocessed |
-| [microbiomeMarker](https://bioconductor.org/packages/3.20/bioc/html/microbiomeMarker.html)                       | Unprocessed |
 | [mimager](https://bioconductor.org/packages/3.20/bioc/html/mimager.html)                                         | Unprocessed |
 | [minfi](https://bioconductor.org/packages/3.20/bioc/html/minfi.html)                                             | Unprocessed |
 | [missMethyl](https://bioconductor.org/packages/3.20/bioc/html/missMethyl.html)                                   | Unprocessed |

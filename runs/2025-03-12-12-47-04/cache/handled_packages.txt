@@ -108,6 +108,7 @@ BufferedMatrixMethods
 BumpyMatrix
 CAEN
 CARNIVAL
+CBEA
 CBNplot
 CCPROMISE
 CCPlotR
@@ -1280,6 +1281,7 @@ miRspongeR
 microRNA
 microbiomeDASim
 microbiomeExplorer
+microbiomeMarker
 midasHLA
 miloR
 mina

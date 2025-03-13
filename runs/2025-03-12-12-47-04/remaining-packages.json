@@ -136,7 +136,6 @@
     "scater",
     "scuttle"
   ],
-  "CBEA": [],
   "CNVfilteR": [
     "regioneR",
     "karyoploteR",
@@ -1676,7 +1675,6 @@
   "microRNA": [],
   "microSTASIS": [],
   "microbiome": [],
-  "microbiomeMarker": [],
   "mimager": [
     "oligo",
     "affxparser"
