@@ -89,9 +89,7 @@
   "ChromSCape": [
     "scater"
   ],
-  "CircSeqAlignTk": [
-    "Rhisat2"
-  ],
+  "CircSeqAlignTk": [],
   "CiteFuse": [],
   "CopyNumberPlots": [
     "karyoploteR",
@@ -249,7 +247,6 @@
   "ReportingTools": [
     "ggbio"
   ],
-  "Rhisat2": [],
   "RiboCrypt": [],
   "RiboProfiling": [
     "ggbio"
@@ -290,7 +287,6 @@
     "scater"
   ],
   "TFHAZ": [],
-  "UMI4Cats": [],
   "VAExprs": [
     "scater"
   ],
@@ -576,9 +572,7 @@
   "pipeComp": [
     "scater"
   ],
-  "preciseTAD": [
-    "rCGH"
-  ],
+  "preciseTAD": [],
   "primirTSS": [],
   "psichomics": [
     "recount"
@@ -588,7 +582,6 @@
     "affxparser"
   ],
   "quantro": [],
-  "rCGH": [],
   "recount": [],
   "recountmethylation": [],
   "regioneReloaded": [],

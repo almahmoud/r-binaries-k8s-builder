@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1950 packages built successfully
+- 1953 packages built successfully
 - 29 packages failed to build
-- 254 packages not yet processed
+- 251 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -41,7 +41,7 @@
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 
-## Successfully Built (1950)
+## Successfully Built (1953)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1994,8 +1994,11 @@
 | [spoon](https://bioconductor.org/packages/3.20/bioc/html/spoon.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/spoon/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spoon)                       |
 | [tadar](https://bioconductor.org/packages/3.20/bioc/html/tadar.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/tadar/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tadar)                       |
 | [txcutr](https://bioconductor.org/packages/3.20/bioc/html/txcutr.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/txcutr/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/txcutr)                      |
+| [Rhisat2](https://bioconductor.org/packages/3.20/bioc/html/Rhisat2.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/Rhisat2/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rhisat2)                     |
+| [UMI4Cats](https://bioconductor.org/packages/3.20/bioc/html/UMI4Cats.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/UMI4Cats/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/UMI4Cats)                    |
+| [rCGH](https://bioconductor.org/packages/3.20/bioc/html/rCGH.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/rCGH/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rCGH)                        |
 
-## Not Yet Processed (254)
+## Not Yet Processed (251)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2089,7 +2092,6 @@
 | [RNAmodR.RiboMethSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.RiboMethSeq.html)               | Unprocessed |
 | [RegionalST](https://bioconductor.org/packages/3.20/bioc/html/RegionalST.html)                                 | Unprocessed |
 | [ReportingTools](https://bioconductor.org/packages/3.20/bioc/html/ReportingTools.html)                         | Unprocessed |
-| [Rhisat2](https://bioconductor.org/packages/3.20/bioc/html/Rhisat2.html)                                       | Unprocessed |
 | [RiboCrypt](https://bioconductor.org/packages/3.20/bioc/html/RiboCrypt.html)                                   | Unprocessed |
 | [RiboProfiling](https://bioconductor.org/packages/3.20/bioc/html/RiboProfiling.html)                           | Unprocessed |
 | [RnBeads](https://bioconductor.org/packages/3.20/bioc/html/RnBeads.html)                                       | Unprocessed |
@@ -2106,7 +2108,6 @@
 | [SpaNorm](https://bioconductor.org/packages/3.20/bioc/html/SpaNorm.html)                                       | Unprocessed |
 | [Spaniel](https://bioconductor.org/packages/3.20/bioc/html/Spaniel.html)                                       | Unprocessed |
 | [TFHAZ](https://bioconductor.org/packages/3.20/bioc/html/TFHAZ.html)                                           | Unprocessed |
-| [UMI4Cats](https://bioconductor.org/packages/3.20/bioc/html/UMI4Cats.html)                                     | Unprocessed |
 | [VAExprs](https://bioconductor.org/packages/3.20/bioc/html/VAExprs.html)                                       | Unprocessed |
 | [Voyager](https://bioconductor.org/packages/3.20/bioc/html/Voyager.html)                                       | Unprocessed |
 | [YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)                                           | Unprocessed |
@@ -2216,7 +2217,6 @@
 | [psichomics](https://bioconductor.org/packages/3.20/bioc/html/psichomics.html)                                 | Unprocessed |
 | [puma](https://bioconductor.org/packages/3.20/bioc/html/puma.html)                                             | Unprocessed |
 | [quantro](https://bioconductor.org/packages/3.20/bioc/html/quantro.html)                                       | Unprocessed |
-| [rCGH](https://bioconductor.org/packages/3.20/bioc/html/rCGH.html)                                             | Unprocessed |
 | [recount](https://bioconductor.org/packages/3.20/bioc/html/recount.html)                                       | Unprocessed |
 | [recountmethylation](https://bioconductor.org/packages/3.20/bioc/html/recountmethylation.html)                 | Unprocessed |
 | [regioneReloaded](https://bioconductor.org/packages/3.20/bioc/html/regioneReloaded.html)                       | Unprocessed |

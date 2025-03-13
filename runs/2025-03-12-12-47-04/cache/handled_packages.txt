@@ -778,6 +778,7 @@ Rfastp
 RgnTX
 Rgraphviz
 Rhdf5lib
+Rhisat2
 Rhtslib
 RiboDiPA
 Rmagpie
@@ -929,6 +930,7 @@ Trendy
 TurboNorm
 UCSC.utils
 UCell
+UMI4Cats
 UNDO
 UPDhmm
 Ularcirc
@@ -1683,6 +1685,7 @@ qvalue
 r3Cseq
 rBLAST
 rBiopaxParser
+rCGH
 rGADEM
 rGREAT
 rGenomeTracks
