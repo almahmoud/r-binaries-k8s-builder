@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1142 packages built successfully
+- 1145 packages built successfully
 - 19 packages failed to build
-- 1072 packages not yet processed
+- 1069 packages not yet processed
 
 ## Failed Builds (19)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -31,7 +31,7 @@
 | [microRNA](https://bioconductor.org/packages/3.20/bioc/html/microRNA.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/microRNA/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/microRNA)      | Build failed with unknown error     |
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/cn.mops/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cn.mops)       | Build failed with unknown error     |
 
-## Successfully Built (1142)
+## Successfully Built (1145)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1176,8 +1176,11 @@
 | [QTLExperiment](https://bioconductor.org/packages/3.20/bioc/html/QTLExperiment.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/QTLExperiment/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/QTLExperiment)             |
 | [SeqGate](https://bioconductor.org/packages/3.20/bioc/html/SeqGate.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/SeqGate/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SeqGate)                   |
 | [TREG](https://bioconductor.org/packages/3.20/bioc/html/TREG.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/TREG/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TREG)                      |
+| [MicrobiotaProcess](https://bioconductor.org/packages/3.20/bioc/html/MicrobiotaProcess.html)                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/MicrobiotaProcess/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MicrobiotaProcess)         |
+| [QSutils](https://bioconductor.org/packages/3.20/bioc/html/QSutils.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/QSutils/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/QSutils)                   |
+| [SimBu](https://bioconductor.org/packages/3.20/bioc/html/SimBu.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/SimBu/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SimBu)                     |
 
-## Not Yet Processed (1072)
+## Not Yet Processed (1069)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1475,7 +1478,6 @@
 | [MethylAid](https://bioconductor.org/packages/3.20/bioc/html/MethylAid.html)                                     | Unprocessed |
 | [MethylSeekR](https://bioconductor.org/packages/3.20/bioc/html/MethylSeekR.html)                                 | Unprocessed |
 | [MicrobiomeProfiler](https://bioconductor.org/packages/3.20/bioc/html/MicrobiomeProfiler.html)                   | Unprocessed |
-| [MicrobiotaProcess](https://bioconductor.org/packages/3.20/bioc/html/MicrobiotaProcess.html)                     | Unprocessed |
 | [MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)                                         | Unprocessed |
 | [MinimumDistance](https://bioconductor.org/packages/3.20/bioc/html/MinimumDistance.html)                         | Unprocessed |
 | [MoleculeExperiment](https://bioconductor.org/packages/3.20/bioc/html/MoleculeExperiment.html)                   | Unprocessed |
@@ -1539,7 +1541,6 @@
 | [Pviz](https://bioconductor.org/packages/3.20/bioc/html/Pviz.html)                                               | Unprocessed |
 | [QDNAseq](https://bioconductor.org/packages/3.20/bioc/html/QDNAseq.html)                                         | Unprocessed |
 | [QFeatures](https://bioconductor.org/packages/3.20/bioc/html/QFeatures.html)                                     | Unprocessed |
-| [QSutils](https://bioconductor.org/packages/3.20/bioc/html/QSutils.html)                                         | Unprocessed |
 | [QuasR](https://bioconductor.org/packages/3.20/bioc/html/QuasR.html)                                             | Unprocessed |
 | [R3CPET](https://bioconductor.org/packages/3.20/bioc/html/R3CPET.html)                                           | Unprocessed |
 | [R453Plus1Toolbox](https://bioconductor.org/packages/3.20/bioc/html/R453Plus1Toolbox.html)                       | Unprocessed |
@@ -1614,7 +1615,6 @@
 | [SiPSiC](https://bioconductor.org/packages/3.20/bioc/html/SiPSiC.html)                                           | Unprocessed |
 | [SigCheck](https://bioconductor.org/packages/3.20/bioc/html/SigCheck.html)                                       | Unprocessed |
 | [SigsPack](https://bioconductor.org/packages/3.20/bioc/html/SigsPack.html)                                       | Unprocessed |
-| [SimBu](https://bioconductor.org/packages/3.20/bioc/html/SimBu.html)                                             | Unprocessed |
 | [SingleCellAlleleExperiment](https://bioconductor.org/packages/3.20/bioc/html/SingleCellAlleleExperiment.html)   | Unprocessed |
 | [SingleCellSignalR](https://bioconductor.org/packages/3.20/bioc/html/SingleCellSignalR.html)                     | Unprocessed |
 | [SingleMoleculeFootprinting](https://bioconductor.org/packages/3.20/bioc/html/SingleMoleculeFootprinting.html)   | Unprocessed |

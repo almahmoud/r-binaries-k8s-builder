@@ -348,6 +348,7 @@ Mfuzz
 MiChip
 MiPP
 MiRaGE
+MicrobiotaProcess
 ModCon
 Modstrings
 MouseFM
@@ -412,6 +413,7 @@ PoDCall
 PolySTest
 ProtGenerics
 ProteoMM
+QSutils
 QTLExperiment
 QUBIC
 Qtlizer
@@ -518,6 +520,7 @@ SeqGate
 SeqVarTools
 SharedObject
 SigFuge
+SimBu
 SimFFPE
 SingleCellExperiment
 SpaceMarkers

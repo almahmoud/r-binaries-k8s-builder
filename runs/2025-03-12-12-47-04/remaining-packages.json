@@ -1485,7 +1485,6 @@
     "geneplotter"
   ],
   "MicrobiomeProfiler": [],
-  "MicrobiotaProcess": [],
   "MineICA": [
     "GOstats",
     "lumi",
@@ -1769,7 +1768,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "QSutils": [],
   "QuasR": [
     "BSgenome",
     "GenomicFeatures",
@@ -2164,7 +2162,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "SimBu": [],
   "SingleCellAlleleExperiment": [],
   "SingleCellSignalR": [
     "scran",
