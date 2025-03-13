@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1733 packages built successfully
+- 1736 packages built successfully
 - 27 packages failed to build
-- 473 packages not yet processed
+- 470 packages not yet processed
 
 ## Failed Builds (27)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -39,7 +39,7 @@
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 
-## Successfully Built (1733)
+## Successfully Built (1736)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1775,8 +1775,11 @@
 | [transmogR](https://bioconductor.org/packages/3.20/bioc/html/transmogR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/transmogR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/transmogR)                  |
 | [GenomicFiles](https://bioconductor.org/packages/3.20/bioc/html/GenomicFiles.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/GenomicFiles/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicFiles)               |
 | [TitanCNA](https://bioconductor.org/packages/3.20/bioc/html/TitanCNA.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/TitanCNA/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TitanCNA)                   |
+| [PureCN](https://bioconductor.org/packages/3.20/bioc/html/PureCN.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/PureCN/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PureCN)                     |
+| [RTCGAToolbox](https://bioconductor.org/packages/3.20/bioc/html/RTCGAToolbox.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/RTCGAToolbox/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RTCGAToolbox)               |
+| [ZygosityPredictor](https://bioconductor.org/packages/3.20/bioc/html/ZygosityPredictor.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/ZygosityPredictor/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ZygosityPredictor)          |
 
-## Not Yet Processed (473)
+## Not Yet Processed (470)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1931,7 +1934,6 @@
 | [PrInCE](https://bioconductor.org/packages/3.20/bioc/html/PrInCE.html)                                           | Unprocessed |
 | [Prostar](https://bioconductor.org/packages/3.20/bioc/html/Prostar.html)                                         | Unprocessed |
 | [ProteoDisco](https://bioconductor.org/packages/3.20/bioc/html/ProteoDisco.html)                                 | Unprocessed |
-| [PureCN](https://bioconductor.org/packages/3.20/bioc/html/PureCN.html)                                           | Unprocessed |
 | [Pviz](https://bioconductor.org/packages/3.20/bioc/html/Pviz.html)                                               | Unprocessed |
 | [QuasR](https://bioconductor.org/packages/3.20/bioc/html/QuasR.html)                                             | Unprocessed |
 | [R3CPET](https://bioconductor.org/packages/3.20/bioc/html/R3CPET.html)                                           | Unprocessed |
@@ -1945,7 +1947,6 @@
 | [RNAmodR.AlkAnilineSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.AlkAnilineSeq.html)             | Unprocessed |
 | [RNAmodR.ML](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.ML.html)                                   | Unprocessed |
 | [RNAmodR.RiboMethSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.RiboMethSeq.html)                 | Unprocessed |
-| [RTCGAToolbox](https://bioconductor.org/packages/3.20/bioc/html/RTCGAToolbox.html)                               | Unprocessed |
 | [RUVSeq](https://bioconductor.org/packages/3.20/bioc/html/RUVSeq.html)                                           | Unprocessed |
 | [RareVariantVis](https://bioconductor.org/packages/3.20/bioc/html/RareVariantVis.html)                           | Unprocessed |
 | [RegionalST](https://bioconductor.org/packages/3.20/bioc/html/RegionalST.html)                                   | Unprocessed |
@@ -1995,7 +1996,6 @@
 | [Voyager](https://bioconductor.org/packages/3.20/bioc/html/Voyager.html)                                         | Unprocessed |
 | [Xeva](https://bioconductor.org/packages/3.20/bioc/html/Xeva.html)                                               | Unprocessed |
 | [YAPSA](https://bioconductor.org/packages/3.20/bioc/html/YAPSA.html)                                             | Unprocessed |
-| [ZygosityPredictor](https://bioconductor.org/packages/3.20/bioc/html/ZygosityPredictor.html)                     | Unprocessed |
 | [affyILM](https://bioconductor.org/packages/3.20/bioc/html/affyILM.html)                                         | Unprocessed |
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                             | Unprocessed |
 | [airpart](https://bioconductor.org/packages/3.20/bioc/html/airpart.html)                                         | Unprocessed |

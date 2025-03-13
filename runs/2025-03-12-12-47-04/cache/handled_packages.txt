@@ -615,6 +615,7 @@ PoDCall
 PolySTest
 ProtGenerics
 ProteoMM
+PureCN
 QDNAseq
 QFeatures
 QSutils
@@ -662,6 +663,7 @@ RSVSim
 RSeqAn
 RTCA
 RTCGA
+RTCGAToolbox
 RTN
 RTNduals
 RTNsurvival
@@ -850,6 +852,7 @@ XDE
 XINA
 XNAString
 XVector
+ZygosityPredictor
 a4
 a4Base
 a4Classif

@@ -296,8 +296,7 @@
   "GEOquery": [],
   "GLAD": [],
   "GNOSIS": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "GOstats": [],
   "GRaNIE": [],
@@ -515,7 +514,6 @@
     "MSnbase"
   ],
   "ProteoDisco": [],
-  "PureCN": [],
   "Pviz": [
     "Gviz"
   ],
@@ -566,7 +564,6 @@
     "Gviz",
     "txdbmaker"
   ],
-  "RTCGAToolbox": [],
   "RUVSeq": [],
   "RareVariantVis": [],
   "RegionalST": [
@@ -715,7 +712,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "ZygosityPredictor": [],
   "affxparser": [],
   "affyILM": [
     "affxparser"
@@ -772,8 +768,7 @@
     "lumi"
   ],
   "bioCancer": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "biomvRCNS": [
     "Gviz"
@@ -789,9 +784,7 @@
   "broadSeq": [
     "EBSeq"
   ],
-  "cBioPortalData": [
-    "RTCGAToolbox"
-  ],
+  "cBioPortalData": [],
   "cageminer": [
     "ggbio",
     "OrganismDbi",
@@ -799,8 +792,7 @@
   ],
   "canceR": [
     "cBioPortalData",
-    "phenoTest",
-    "RTCGAToolbox"
+    "phenoTest"
   ],
   "cardelino": [],
   "casper": [],
@@ -808,8 +800,7 @@
     "GOstats"
   ],
   "cbaf": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "celda": [
     "scater",

@@ -1731,3 +1731,6 @@ SNPhood
 transmogR
 GenomicFiles
 TitanCNA
+PureCN
+RTCGAToolbox
+ZygosityPredictor
