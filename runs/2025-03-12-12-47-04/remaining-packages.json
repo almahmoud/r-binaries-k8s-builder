@@ -222,8 +222,7 @@
   ],
   "CircSeqAlignTk": [
     "Rhisat2",
-    "txdbmaker",
-    "SGSeq"
+    "txdbmaker"
   ],
   "CiteFuse": [
     "scran",
@@ -350,7 +349,6 @@
     "txdbmaker"
   ],
   "EventPointer": [
-    "SGSeq",
     "affxparser"
   ],
   "ExCluster": [],
@@ -663,7 +661,6 @@
   "Oscope": [
     "EBSeq"
   ],
-  "OutSplice": [],
   "PING": [
     "Gviz",
     "ensembldb",
@@ -803,8 +800,7 @@
     "regioneR"
   ],
   "Rhisat2": [
-    "txdbmaker",
-    "SGSeq"
+    "txdbmaker"
   ],
   "RiboCrypt": [
     "ORFik",
@@ -857,7 +853,6 @@
   "SGCP": [
     "GOstats"
   ],
-  "SGSeq": [],
   "SIAMCAT": [],
   "SMITE": [
     "goseq",

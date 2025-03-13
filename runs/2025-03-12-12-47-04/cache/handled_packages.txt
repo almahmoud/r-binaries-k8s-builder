@@ -555,6 +555,7 @@ OncoScore
 OncoSimulR
 OpenStats
 OrderedList
+OutSplice
 PAA
 PADOG
 PAIRADISE
@@ -699,6 +700,7 @@ SCnorm
 SDAMS
 SELEX
 SEtools
+SGSeq
 SICtools
 SIM
 SIMAT

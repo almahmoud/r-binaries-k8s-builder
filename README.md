@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1663 packages built successfully
+- 1665 packages built successfully
 - 24 packages failed to build
-- 546 packages not yet processed
+- 544 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1663)
+## Successfully Built (1665)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1702,8 +1702,10 @@
 | [INSPEcT](https://bioconductor.org/packages/3.20/bioc/html/INSPEcT.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/INSPEcT/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/INSPEcT)                    |
 | [DegCre](https://bioconductor.org/packages/3.20/bioc/html/DegCre.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/DegCre/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DegCre)                     |
 | [GenomicInteractionNodes](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractionNodes.html)       | Built    | [Log](runs/2025-03-12-12-47-04/logs/GenomicInteractionNodes/build-success.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicInteractionNodes)    |
+| [OutSplice](https://bioconductor.org/packages/3.20/bioc/html/OutSplice.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/OutSplice/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OutSplice)                  |
+| [SGSeq](https://bioconductor.org/packages/3.20/bioc/html/SGSeq.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/SGSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SGSeq)                      |
 
-## Not Yet Processed (546)
+## Not Yet Processed (544)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1869,7 +1871,6 @@
 | [Organism.dplyr](https://bioconductor.org/packages/3.20/bioc/html/Organism.dplyr.html)                           | Unprocessed |
 | [OrganismDbi](https://bioconductor.org/packages/3.20/bioc/html/OrganismDbi.html)                                 | Unprocessed |
 | [Oscope](https://bioconductor.org/packages/3.20/bioc/html/Oscope.html)                                           | Unprocessed |
-| [OutSplice](https://bioconductor.org/packages/3.20/bioc/html/OutSplice.html)                                     | Unprocessed |
 | [PING](https://bioconductor.org/packages/3.20/bioc/html/PING.html)                                               | Unprocessed |
 | [PRONE](https://bioconductor.org/packages/3.20/bioc/html/PRONE.html)                                             | Unprocessed |
 | [PharmacoGx](https://bioconductor.org/packages/3.20/bioc/html/PharmacoGx.html)                                   | Unprocessed |
@@ -1913,7 +1914,6 @@
 | [SCArray](https://bioconductor.org/packages/3.20/bioc/html/SCArray.html)                                         | Unprocessed |
 | [SCArray.sat](https://bioconductor.org/packages/3.20/bioc/html/SCArray.sat.html)                                 | Unprocessed |
 | [SGCP](https://bioconductor.org/packages/3.20/bioc/html/SGCP.html)                                               | Unprocessed |
-| [SGSeq](https://bioconductor.org/packages/3.20/bioc/html/SGSeq.html)                                             | Unprocessed |
 | [SIAMCAT](https://bioconductor.org/packages/3.20/bioc/html/SIAMCAT.html)                                         | Unprocessed |
 | [SMITE](https://bioconductor.org/packages/3.20/bioc/html/SMITE.html)                                             | Unprocessed |
 | [SNPhood](https://bioconductor.org/packages/3.20/bioc/html/SNPhood.html)                                         | Unprocessed |
