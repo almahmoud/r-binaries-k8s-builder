@@ -252,6 +252,7 @@ ExiMiR
 ExperimentHub
 ExploreModelMatrix
 ExpressionAtlas
+FEAST
 FELLA
 FGNet
 FISHalyseR
@@ -313,6 +314,7 @@ GenomeInfoDb
 GenomicAlignments
 GenomicDataCommons
 GenomicDistributions
+GenomicFeatures
 GenomicRanges
 GenomicScores
 GenomicSuperSignature
@@ -350,6 +352,7 @@ HiCBricks
 HiCDOC
 HiCExperiment
 HiCcompare
+HiContacts
 HiTC
 HilbertCurve
 HilbertVis
@@ -497,6 +500,7 @@ MsFeatures
 MuData
 Mulcom
 MultiAssayExperiment
+MultiBaC
 MultiDataSet
 MultiMed
 MultiRNAflow
@@ -771,6 +775,7 @@ TargetSearch
 TileDBArray
 TissueEnrich
 TnT
+ToxicoGx
 TrajectoryGeometry
 TrajectoryUtils
 TreeAndLeaf
@@ -1141,6 +1146,7 @@ hdxmsqc
 heatmaps
 hiAnnotator
 hiReadsProcessor
+hicVennDiagram
 hierGWAS
 hierinf
 hipathia
