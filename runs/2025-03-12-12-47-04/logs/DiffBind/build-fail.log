@@ -1,0 +1,524 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''DiffBind'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.20 (BiocManager 1.30.25), R 4.4.2 (2024-10-31)
+Installing package(s) 'DiffBind'
+also installing the dependencies ‘bit’, ‘data.table’, ‘cowplot’, ‘fastmatch’, ‘tweenr’, ‘polyclip’, ‘deldir’, ‘bit64’, ‘blob’, ‘plogr’, ‘gridGraphics’, ‘fgsea’, ‘qvalue’, ‘ggforce’, ‘ape’, ‘tidytree’, ‘treeio’, ‘lazyeval’, ‘jpeg’, ‘interp’, ‘formatR’, ‘numDeriv’, ‘bdsmatrix’, ‘mvtnorm’, ‘RSQLite’, ‘KEGGREST’, ‘ggfun’, ‘ggplotify’, ‘patchwork’, ‘DOSE’, ‘ggnewscale’, ‘ggtangle’, ‘igraph’, ‘scatterpie’, ‘GOSemSim’, ‘ggtree’, ‘crosstalk’, ‘hms’, ‘iterators’, ‘abind’, ‘SparseArray’, ‘pwalign’, ‘hwriter’, ‘latticeExtra’, ‘farver’, ‘labeling’, ‘munsell’, ‘viridisLite’, ‘lambda.r’, ‘futile.options’, ‘plyr’, ‘coda’, ‘bbmle’, ‘irlba’, ‘reshape2’, ‘chipseq’, ‘R.oo’, ‘R.methodsS3’, ‘AnnotationDbi’, ‘aplot’, ‘enrichplot’, ‘plotrix’, ‘yulab.utils’, ‘DBI’, ‘GetoptLong’, ‘RCurl’, ‘GlobalOptions’, ‘DT’, ‘GO.db’, ‘progress’, ‘foreach’, ‘doParallel’, ‘colorspace’, ‘clue’, ‘png’, ‘shape’, ‘BiocGenerics’, ‘XVector’, ‘MatrixGenerics’, ‘Biobase’, ‘S4Arrays’, ‘DelayedArray’, ‘gtools’, ‘caTools’, ‘statmod’, ‘Biostrings’, ‘ShortRead’, ‘generics’, ‘tidyselect’, ‘gtable’, ‘isoband’, ‘scales’, ‘futile.logger’, ‘snow’, ‘BH’, ‘zlibbioc’, ‘bitops’, ‘matrixStats’, ‘RcppArmadillo’, ‘emdbook’, ‘RcppEigen’, ‘RcppNumerical’, ‘truncnorm’, ‘mixsqp’, ‘SQUAREM’, ‘etrunct’, ‘invgamma’, ‘bookdown’, ‘rJava’, ‘metapod’, ‘BiocIO’, ‘UCSC.utils’, ‘GenomeInfoDbData’, ‘soGGi’, ‘R.utils’, ‘tidyr’, ‘rjson’, ‘ChIPseeker’, ‘GenomicFeatures’, ‘TxDb.Hsapiens.UCSC.hg19.knownGene’, ‘TxDb.Hsapiens.UCSC.hg38.knownGene’, ‘TxDb.Mmusculus.UCSC.mm10.knownGene’, ‘TxDb.Mmusculus.UCSC.mm9.knownGene’, ‘org.Hs.eg.db’, ‘org.Mm.eg.db’, ‘rGREAT’, ‘pheatmap’, ‘EnrichedHeatmap’, ‘ComplexHeatmap’, ‘circlize’, ‘tiff’, ‘XML’, ‘httr’, ‘restfulr’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘RColorBrewer’, ‘amap’, ‘gplots’, ‘limma’, ‘GenomicAlignments’, ‘locfit’, ‘IRanges’, ‘systemPipeR’, ‘dplyr’, ‘ggplot2’, ‘BiocParallel’, ‘S4Vectors’, ‘Rsamtools’, ‘DESeq2’, ‘ggrepel’, ‘apeglm’, ‘ashr’, ‘GreyListChIP’, ‘Rhtslib’, ‘BiocStyle’, ‘rgl’, ‘XLConnect’, ‘edgeR’, ‘csaw’, ‘BSgenome’, ‘GenomeInfoDb’, ‘profileplyr’, ‘rtracklayer’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bit_4.6.0.tar.gz'
+Content type 'binary/octet-stream' length 628153 bytes (613 KB)
+==================================================
+downloaded 613 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/data.table_1.17.0.tar.gz'
+Content type 'binary/octet-stream' length 2695704 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/cowplot_1.1.3.tar.gz'
+Content type 'binary/octet-stream' length 1380686 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fastmatch_1.1-6.tar.gz'
+Content type 'binary/octet-stream' length 35901 bytes (35 KB)
+==================================================
+downloaded 35 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tweenr_2.0.3.tar.gz'
+Content type 'binary/octet-stream' length 461782 bytes (450 KB)
+==================================================
+downloaded 450 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/polyclip_1.10-7.tar.gz'
+Content type 'binary/octet-stream' length 119913 bytes (117 KB)
+==================================================
+downloaded 117 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/deldir_2.0-4.tar.gz'
+Content type 'binary/octet-stream' length 278864 bytes (272 KB)
+==================================================
+downloaded 272 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bit64_4.6.0-1.tar.gz'
+Content type 'binary/octet-stream' length 491805 bytes (480 KB)
+==================================================
+downloaded 480 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/blob_1.2.4.tar.gz'
+Content type 'binary/octet-stream' length 47325 bytes (46 KB)
+==================================================
+downloaded 46 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/plogr_0.2.0.tar.gz'
+Content type 'binary/octet-stream' length 13108 bytes (12 KB)
+==================================================
+downloaded 12 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gridGraphics_0.5-1.tar.gz'
+Content type 'binary/octet-stream' length 249372 bytes (243 KB)
+==================================================
+downloaded 243 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/fgsea_1.32.2.tar.gz'
+Content type 'application/x-gzip' length 4980260 bytes (4.7 MB)
+==================================================
+downloaded 4.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/qvalue_2.38.0.tar.gz'
+Content type 'application/x-gzip' length 2775130 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggforce_0.4.2.tar.gz'
+Content type 'binary/octet-stream' length 1860686 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ape_5.8-1.tar.gz'
+Content type 'binary/octet-stream' length 2968524 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidytree_0.4.6.tar.gz'
+Content type 'binary/octet-stream' length 341867 bytes (333 KB)
+==================================================
+downloaded 333 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/treeio_1.30.0.tar.gz'
+Content type 'application/x-gzip' length 701622 bytes (685 KB)
+==================================================
+downloaded 685 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lazyeval_0.2.2.tar.gz'
+Content type 'binary/octet-stream' length 157375 bytes (153 KB)
+==================================================
+downloaded 153 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/jpeg_0.1-10.tar.gz'
+Content type 'binary/octet-stream' length 29252 bytes (28 KB)
+==================================================
+downloaded 28 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/interp_1.1-6.tar.gz'
+Content type 'binary/octet-stream' length 1611701 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/formatR_1.14.tar.gz'
+Content type 'binary/octet-stream' length 151517 bytes (147 KB)
+==================================================
+downloaded 147 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/numDeriv_2016.8-1.1.tar.gz'
+Content type 'binary/octet-stream' length 114340 bytes (111 KB)
+==================================================
+downloaded 111 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bdsmatrix_1.3-7.tar.gz'
+Content type 'binary/octet-stream' length 294473 bytes (287 KB)
+==================================================
+downloaded 287 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mvtnorm_1.3-3.tar.gz'
+Content type 'binary/octet-stream' length 952249 bytes (929 KB)
+==================================================
+downloaded 929 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RSQLite_2.3.9.tar.gz'
+Content type 'binary/octet-stream' length 1342920 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/KEGGREST_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 239655 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggfun_0.1.8.tar.gz'
+Content type 'binary/octet-stream' length 223532 bytes (218 KB)
+==================================================
+downloaded 218 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggplotify_0.1.2.tar.gz'
+Content type 'binary/octet-stream' length 140239 bytes (136 KB)
+==================================================
+downloaded 136 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/patchwork_1.3.0.tar.gz'
+Content type 'binary/octet-stream' length 3345779 bytes (3.2 MB)
+==================================================
+downloaded 3.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DOSE_4.0.0.tar.gz'
+Content type 'application/x-gzip' length 5747842 bytes (5.5 MB)
+==================================================
+downloaded 5.5 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggnewscale_0.5.1.tar.gz'
+Content type 'binary/octet-stream' length 350186 bytes (341 KB)
+==================================================
+downloaded 341 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggtangle_0.0.6.tar.gz'
+Content type 'binary/octet-stream' length 263278 bytes (257 KB)
+==================================================
+downloaded 257 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/igraph_2.1.4.tar.gz'
+Content type 'binary/octet-stream' length 5555697 bytes (5.3 MB)
+==================================================
+downloaded 5.3 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/scatterpie_0.2.4.tar.gz'
+Content type 'binary/octet-stream' length 150284 bytes (146 KB)
+==================================================
+downloaded 146 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GOSemSim_2.32.0.tar.gz'
+Content type 'application/x-gzip' length 610829 bytes (596 KB)
+==================================================
+downloaded 596 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ggtree_3.14.0.tar.gz'
+Content type 'application/x-gzip' length 366978 bytes (358 KB)
+==================================================
+downloaded 358 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/crosstalk_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 410648 bytes (401 KB)
+==================================================
+downloaded 401 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/hms_1.1.3.tar.gz'
+Content type 'binary/octet-stream' length 99678 bytes (97 KB)
+==================================================
+downloaded 97 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/iterators_1.0.14.tar.gz'
+Content type 'binary/octet-stream' length 346510 bytes (338 KB)
+==================================================
+downloaded 338 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/abind_1.4-8.tar.gz'
+Content type 'binary/octet-stream' length 64944 bytes (63 KB)
+==================================================
+downloaded 63 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/SparseArray_1.6.2.tar.gz'
+Content type 'application/x-gzip' length 468696 bytes (457 KB)
+==================================================
+downloaded 457 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/pwalign_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 355962 bytes (347 KB)
+==================================================
+downloaded 347 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/hwriter_1.3.2.1.tar.gz'
+Content type 'binary/octet-stream' length 107325 bytes (104 KB)
+==================================================
+downloaded 104 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/latticeExtra_0.6-30.tar.gz'
+Content type 'binary/octet-stream' length 2181958 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/farver_2.1.2.tar.gz'
+Content type 'binary/octet-stream' length 1466627 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/labeling_0.4.3.tar.gz'
+Content type 'binary/octet-stream' length 60952 bytes (59 KB)
+==================================================
+downloaded 59 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/munsell_0.5.1.tar.gz'
+Content type 'binary/octet-stream' length 243099 bytes (237 KB)
+==================================================
+downloaded 237 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/viridisLite_0.4.2.tar.gz'
+Content type 'binary/octet-stream' length 1297555 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lambda.r_1.2.4.tar.gz'
+Content type 'binary/octet-stream' length 110485 bytes (107 KB)
+==================================================
+downloaded 107 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/futile.options_1.0.1.tar.gz'
+Content type 'binary/octet-stream' length 18448 bytes (18 KB)
+==================================================
+downloaded 18 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/plyr_1.8.9.tar.gz'
+Content type 'binary/octet-stream' length 788070 bytes (769 KB)
+==================================================
+downloaded 769 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/coda_0.19-4.1.tar.gz'
+Content type 'binary/octet-stream' length 328552 bytes (320 KB)
+==================================================
+downloaded 320 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bbmle_1.0.25.1.tar.gz'
+Content type 'binary/octet-stream' length 885867 bytes (865 KB)
+==================================================
+downloaded 865 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/irlba_2.3.5.1.tar.gz'
+Content type 'binary/octet-stream' length 292157 bytes (285 KB)
+==================================================
+downloaded 285 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/reshape2_1.4.4.tar.gz'
+Content type 'binary/octet-stream' length 123102 bytes (120 KB)
+==================================================
+downloaded 120 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/chipseq_1.56.0.tar.gz'
+Content type 'application/x-gzip' length 2577757 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/R.oo_1.27.0.tar.gz'
+Content type 'binary/octet-stream' length 998703 bytes (975 KB)
+==================================================
+downloaded 975 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/R.methodsS3_1.8.2.tar.gz'
+Content type 'binary/octet-stream' length 82535 bytes (80 KB)
+==================================================
+downloaded 80 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/AnnotationDbi_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 4378038 bytes (4.2 MB)
+==================================================
+downloaded 4.2 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/aplot_0.2.5.tar.gz'
+Content type 'binary/octet-stream' length 75498 bytes (73 KB)
+==================================================
+downloaded 73 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/enrichplot_1.26.6.tar.gz'
+Content type 'application/x-gzip' length 102899 bytes (100 KB)
+==================================================
+downloaded 100 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/plotrix_3.8-4.tar.gz'
+Content type 'binary/octet-stream' length 1159693 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/yulab.utils_0.2.0.tar.gz'
+Content type 'binary/octet-stream' length 117174 bytes (114 KB)
+==================================================
+downloaded 114 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DBI_1.2.3.tar.gz'
+Content type 'binary/octet-stream' length 914707 bytes (893 KB)
+==================================================
+downloaded 893 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/GetoptLong_1.0.5.tar.gz'
+Content type 'binary/octet-stream' length 1071911 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RCurl_1.98-1.16.tar.gz'
+Content type 'binary/octet-stream' length 1078371 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/GlobalOptions_0.1.2.tar.gz'
+Content type 'binary/octet-stream' length 469700 bytes (458 KB)
+==================================================
+downloaded 458 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DT_0.33.tar.gz'
+Content type 'binary/octet-stream' length 1792445 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/data/annotation/src/contrib/GO.db_3.20.0.tar.gz'
+Content type 'application/x-gzip' length 26341489 bytes (25.1 MB)
+==================================================
+downloaded 25.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/progress_1.2.3.tar.gz'
+Content type 'binary/octet-stream' length 86326 bytes (84 KB)
+==================================================
+downloaded 84 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/foreach_1.5.2.tar.gz'
+Content type 'binary/octet-stream' length 139753 bytes (136 KB)
+==================================================
+downloaded 136 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/doParallel_1.0.17.tar.gz'
+Content type 'binary/octet-stream' length 188136 bytes (183 KB)
+==================================================
+downloaded 183 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/colorspace_2.1-1.tar.gz'
+Content type 'binary/octet-stream' length 2626614 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/clue_0.3-66.tar.gz'
+Content type 'binary/octet-stream' length 998169 bytes (974 KB)
+==================================================
+downloaded 974 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/png_0.1-8.tar.gz'
+Content type 'binary/octet-stream' length 40602 bytes (39 KB)
+==================================================
+downloaded 39 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/shape_1.4.6.1.tar.gz'
+Content type 'binary/octet-stream' length 750076 bytes (732 KB)
+==================================================
+downloaded 732 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/BiocGenerics_0.52.0.tar.gz'
+Content type 'application/x-gzip' length 57066 bytes (55 KB)
+==================================================
+downloaded 55 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/x-gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/MatrixGenerics_1.18.1.tar.gz'
+Content type 'application/x-gzip' length 34631 bytes (33 KB)
+==================================================
+downloaded 33 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biobase_2.66.0.tar.gz'
+Content type 'application/x-gzip' length 1978998 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/S4Arrays_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 288435 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/DelayedArray_0.32.0.tar.gz'
+Content type 'application/x-gzip' length 825598 bytes (806 KB)
+==================================================
+downloaded 806 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gtools_3.9.5.tar.gz'
+Content type 'binary/octet-stream' length 361081 bytes (352 KB)
+==================================================
+downloaded 352 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/caTools_1.18.3.tar.gz'
+Content type 'binary/octet-stream' length 205153 bytes (200 KB)
+==================================================
+downloaded 200 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/statmod_1.5.0.tar.gz'
+Content type 'binary/octet-stream' length 315370 bytes (307 KB)
+==================================================
+downloaded 307 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biostrings_2.74.1.tar.gz'
+Content type 'application/x-gzip' length 12823307 bytes (12.2 MB)
+==================================================
+downloaded 12.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/ShortRead_1.64.0.tar.gz'
+Content type 'application/x-gzip' length 5321116 bytes (5.1 MB)
+==================================================
+downloaded 5.1 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/generics_0.1.3.tar.gz'
+Content type 'binary/octet-stream' length 81013 bytes (79 KB)
+==================================================
+downloaded 79 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidyselect_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 225331 bytes (220 KB)
+==================================================
+downloaded 220 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gtable_0.3.6.tar.gz'
+Content type 'binary/octet-stream' length 222627 bytes (217 KB)
+==================================================
+downloaded 217 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/isoband_0.2.7.tar.gz'
+Content type 'binary/octet-stream' length 1644325 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/scales_1.3.0.tar.gz'
+Content type 'binary/octet-stream' length 710365 bytes (693 KB)
+==================================================
+downloaded 693 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/futile.logger_1.4.3.tar.gz'
+Content type 'binary/octet-stream' length 97342 bytes (95 KB)
+==================================================
+downloaded 95 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/snow_0.4-4.tar.gz'
+Content type 'binary/octet-stream' length 96930 bytes (94 KB)
+==================================================
+downloaded 94 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/BH_1.87.0-1.tar.gz'
+Content type 'binary/octet-stream' length 13349384 bytes (12.7 MB)
+==================================================
+downloaded 12.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/zlibbioc_1.52.0.tar.gz'
+Content type 'application/x-gzip' length 384828 bytes (375 KB)
+==================================================
+downloaded 375 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bitops_1.0-9.tar.gz'
+Content type 'binary/octet-stream' length 25879 bytes (25 KB)
+==================================================
+downloaded 25 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/matrixStats_1.5.0.tar.gz'
+Content type 'binary/octet-stream' length 475041 bytes (463 KB)
+==================================================
+downloaded 463 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RcppArmadillo_14.2.3-1.tar.gz'
+Content type 'binary/octet-stream' length 1066881 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/emdbook_1.3.13.tar.gz'
+Content type 'binary/octet-stream' length 206352 bytes (201 KB)
+==================================================
+downloaded 201 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RcppEigen_0.3.4.0.2.tar.gz'
+Content type 'binary/octet-stream' length 1853114 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RcppNumerical_0.6-0.tar.gz'
+Content type 'binary/octet-stream' length 230235 bytes (224 KB)
+==================================================
+downloaded 224 KB
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/truncnorm_1.0-9.tar.gz'

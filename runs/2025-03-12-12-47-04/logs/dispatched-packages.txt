@@ -1856,3 +1856,13 @@ signeR
 tLOH
 terraTCGAdata
 transmogR
+BUSpaRse
+CleanUpRNAseq
+GRaNIE
+RAIDS
+RITAN
+benchdamic
+biovizBase
+demuxSNP
+diffUTR
+drugTargetInteractions

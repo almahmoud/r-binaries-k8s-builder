@@ -1680,3 +1680,11 @@ TCGAutils
 VariantAnnotation
 bambu
 gmoviz
+CellBarcode
+cpvSNP
+ensembldb
+microbiome
+nearBynding
+NoRCE
+segmenter
+strandCheckR

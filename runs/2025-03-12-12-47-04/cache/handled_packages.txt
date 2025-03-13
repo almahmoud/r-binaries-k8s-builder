@@ -153,6 +153,7 @@ CardinalIO
 Category
 CausalR
 CeTF
+CellBarcode
 CellBench
 CellMapper
 CellNOptR
@@ -228,6 +229,7 @@ DelayedRandomArray
 DelayedTensor
 DepInfeR
 DepecheR
+DiffBind
 DiffLogo
 DifferentialRegulation
 Director
@@ -538,6 +540,7 @@ NetActivity
 NetPathMiner
 NetSAM
 NewWave
+NoRCE
 NormalyzerDE
 NormqPCR
 NuPoP
@@ -994,6 +997,7 @@ cosmosR
 countsimQC
 covEB
 covRNA
+cpvSNP
 cqn
 crisprBase
 crisprBowtie
@@ -1059,6 +1063,7 @@ eiR
 eisaR
 enrichViewNet
 enrichplot
+ensembldb
 epiNEM
 epialleleR
 epidecodeR
@@ -1316,6 +1321,7 @@ miRSM
 miRcomp
 miRspongeR
 microRNA
+microbiome
 microbiomeDASim
 microbiomeExplorer
 microbiomeMarker
@@ -1356,6 +1362,7 @@ mzR
 ncRNAtools
 ncdfFlow
 ndexr
+nearBynding
 nempi
 netboost
 nethet
@@ -1561,6 +1568,7 @@ scry
 seahtrue
 sechm
 segmentSeq
+segmenter
 semisup
 seq.hotSPOT
 seq2pathway
@@ -1615,6 +1623,7 @@ ssviz
 stageR
 statTarget
 stepNorm
+strandCheckR
 struct
 structToolbox
 subSeq
