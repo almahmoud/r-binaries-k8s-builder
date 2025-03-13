@@ -107,9 +107,7 @@
     "oligo",
     "affxparser"
   ],
-  "IsoformSwitchAnalyzeR": [
-    "tximeta"
-  ],
+  "IsoformSwitchAnalyzeR": [],
   "LOBSTAHS": [
     "xcms",
     "CAMERA"
@@ -151,9 +149,7 @@
   "Oscope": [
     "EBSeq"
   ],
-  "QuasR": [],
   "R3CPET": [],
-  "REDseq": [],
   "RNAAgeCalc": [],
   "RegionalST": [
     "BayesSpace"
@@ -178,9 +174,7 @@
     "annotatr"
   ],
   "SPIAT": [],
-  "SingleMoleculeFootprinting": [
-    "QuasR"
-  ],
+  "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [],
   "Spaniel": [],
   "TFHAZ": [],
@@ -306,7 +300,6 @@
   "intansv": [],
   "lumi": [],
   "lute": [],
-  "mCSEA": [],
   "metaMS": [
     "CAMERA",
     "xcms"
@@ -398,7 +391,6 @@
   "scmeth": [
     "annotatr"
   ],
-  "scone": [],
   "scruff": [],
   "scviR": [],
   "shinyepico": [],
@@ -424,7 +416,6 @@
   "standR": [],
   "ternarynet": [],
   "tricycle": [],
-  "tximeta": [],
   "vtpnet": [],
   "vulcan": [
     "DiffBind"

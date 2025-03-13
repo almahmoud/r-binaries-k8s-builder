@@ -2140,3 +2140,5 @@ scruff
 scviR
 tricycle
 yarn
+IsoformSwitchAnalyzeR
+SingleMoleculeFootprinting

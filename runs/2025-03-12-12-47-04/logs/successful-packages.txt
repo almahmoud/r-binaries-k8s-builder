@@ -2015,3 +2015,8 @@ SigsPack
 SingleCellSignalR
 SpaNorm
 uncoverappLib
+mCSEA
+QuasR
+REDseq
+scone
+tximeta

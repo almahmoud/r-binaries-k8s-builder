@@ -714,6 +714,7 @@ QSutils
 QTLExperiment
 QUBIC
 Qtlizer
+QuasR
 QuaternaryProd
 R453Plus1Toolbox
 R4RNA
@@ -732,6 +733,7 @@ RCy3
 RCyjs
 RDRToolbox
 REBET
+REDseq
 REMP
 RESOLVE
 RGSEA
@@ -1496,6 +1498,7 @@ lpNet
 lpsymphony
 m6Aboost
 mBPCR
+mCSEA
 maCorrPlot
 maPredictDSC
 maSigPro
@@ -1850,6 +1853,7 @@ schex
 scider
 scifer
 scmap
+scone
 scoreInvHap
 scoup
 scp
@@ -2010,6 +2014,7 @@ twilight
 twoddpcr
 txcutr
 txdbmaker
+tximeta
 tximport
 uSORT
 uncoverappLib
