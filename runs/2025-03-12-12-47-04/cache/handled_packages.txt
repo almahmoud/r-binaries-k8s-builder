@@ -502,6 +502,7 @@ NCIgraph
 NOISeq
 NPARC
 NTW
+NanoMethViz
 NanoStringDiff
 NanoStringNCTools
 NanoTube
@@ -714,6 +715,7 @@ SimBu
 SimFFPE
 SingleCellAlleleExperiment
 SingleCellExperiment
+SingleR
 SpaceMarkers
 SparseArray
 SparseSignatures

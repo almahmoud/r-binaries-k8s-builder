@@ -795,7 +795,6 @@
     "TFBSTools",
     "VariantAnnotation"
   ],
-  "NanoMethViz": [],
   "NetPathMiner": [],
   "NoRCE": [
     "GenomicFeatures"
@@ -1108,7 +1107,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "SingleR": [],
   "SomaticSignatures": [
     "VariantAnnotation",
     "ggbio",
@@ -2492,7 +2490,6 @@
     "scater",
     "scMerge",
     "scran",
-    "SingleR",
     "celda",
     "DropletUtils",
     "scDblFinder",
