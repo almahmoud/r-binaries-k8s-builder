@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1669 packages built successfully
+- 1671 packages built successfully
 - 24 packages failed to build
-- 540 packages not yet processed
+- 538 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1669)
+## Successfully Built (1671)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1708,8 +1708,10 @@
 | [EpiMix](https://bioconductor.org/packages/3.20/bioc/html/EpiMix.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/EpiMix/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiMix)                     |
 | [Rmmquant](https://bioconductor.org/packages/3.20/bioc/html/Rmmquant.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/Rmmquant/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rmmquant)                   |
 | [TAPseq](https://bioconductor.org/packages/3.20/bioc/html/TAPseq.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/TAPseq/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TAPseq)                     |
+| [Organism.dplyr](https://bioconductor.org/packages/3.20/bioc/html/Organism.dplyr.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/Organism.dplyr/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Organism.dplyr)             |
+| [atena](https://bioconductor.org/packages/3.20/bioc/html/atena.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/atena/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/atena)                      |
 
-## Not Yet Processed (540)
+## Not Yet Processed (538)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1870,7 +1872,6 @@
 | [OMICsPCA](https://bioconductor.org/packages/3.20/bioc/html/OMICsPCA.html)                                       | Unprocessed |
 | [ORFik](https://bioconductor.org/packages/3.20/bioc/html/ORFik.html)                                             | Unprocessed |
 | [OUTRIDER](https://bioconductor.org/packages/3.20/bioc/html/OUTRIDER.html)                                       | Unprocessed |
-| [Organism.dplyr](https://bioconductor.org/packages/3.20/bioc/html/Organism.dplyr.html)                           | Unprocessed |
 | [OrganismDbi](https://bioconductor.org/packages/3.20/bioc/html/OrganismDbi.html)                                 | Unprocessed |
 | [Oscope](https://bioconductor.org/packages/3.20/bioc/html/Oscope.html)                                           | Unprocessed |
 | [PING](https://bioconductor.org/packages/3.20/bioc/html/PING.html)                                               | Unprocessed |
@@ -1965,7 +1966,6 @@
 | [appreci8R](https://bioconductor.org/packages/3.20/bioc/html/appreci8R.html)                                     | Unprocessed |
 | [arrayMvout](https://bioconductor.org/packages/3.20/bioc/html/arrayMvout.html)                                   | Unprocessed |
 | [atSNP](https://bioconductor.org/packages/3.20/bioc/html/atSNP.html)                                             | Unprocessed |
-| [atena](https://bioconductor.org/packages/3.20/bioc/html/atena.html)                                             | Unprocessed |
 | [attract](https://bioconductor.org/packages/3.20/bioc/html/attract.html)                                         | Unprocessed |
 | [bambu](https://bioconductor.org/packages/3.20/bioc/html/bambu.html)                                             | Unprocessed |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)                                           | Unprocessed |

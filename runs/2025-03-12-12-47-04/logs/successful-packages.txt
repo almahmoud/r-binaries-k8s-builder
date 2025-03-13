@@ -1667,3 +1667,5 @@ ChIPseeker
 EpiMix
 Rmmquant
 TAPseq
+atena
+Organism.dplyr

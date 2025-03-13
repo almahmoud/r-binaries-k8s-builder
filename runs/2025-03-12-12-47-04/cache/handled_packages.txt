@@ -557,6 +557,7 @@ OncoScore
 OncoSimulR
 OpenStats
 OrderedList
+Organism.dplyr
 OutSplice
 PAA
 PADOG
@@ -873,6 +874,7 @@ arrayQuality
 arrayQualityMetrics
 artMS
 assorthead
+atena
 autonomics
 awst
 bacon
