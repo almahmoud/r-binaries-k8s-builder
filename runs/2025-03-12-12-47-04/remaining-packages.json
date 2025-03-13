@@ -896,7 +896,6 @@
   "ddPCRclust": [
     "flowPeaks"
   ],
-  "decompTumor2Sig": [],
   "decontX": [
     "celda",
     "scater",
@@ -1218,7 +1217,6 @@
     "MSnbase",
     "msmsEDA"
   ],
-  "multiMiR": [],
   "multicrispr": [
     "karyoploteR",
     "regioneR"
@@ -1233,9 +1231,7 @@
     "scuttle"
   ],
   "muscle": [],
-  "musicatk": [
-    "decompTumor2Sig"
-  ],
+  "musicatk": [],
   "mygene": [
     "txdbmaker"
   ],

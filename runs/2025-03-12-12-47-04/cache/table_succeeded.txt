@@ -1740,3 +1740,5 @@
 ['[RareVariantVis](https://bioconductor.org/packages/3.20/bioc/html/RareVariantVis.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/RareVariantVis/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RareVariantVis)']
 ['[rqt](https://bioconductor.org/packages/3.20/bioc/html/rqt.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rqt/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rqt)']
 ['[deepSNV](https://bioconductor.org/packages/3.20/bioc/html/deepSNV.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/deepSNV/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/deepSNV)']
+['[decompTumor2Sig](https://bioconductor.org/packages/3.20/bioc/html/decompTumor2Sig.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/decompTumor2Sig/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/decompTumor2Sig)']
+['[multiMiR](https://bioconductor.org/packages/3.20/bioc/html/multiMiR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/multiMiR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multiMiR)']

@@ -1053,6 +1053,7 @@ ddCt
 dearseq
 debCAM
 debrowser
+decompTumor2Sig
 decontam
 decoupleR
 deepSNV
@@ -1392,6 +1393,7 @@ msqrob2
 multiClust
 multiGSEA
 multiHiCcompare
+multiMiR
 multiWGCNA
 multiscan
 multistateQTL

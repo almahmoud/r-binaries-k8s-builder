@@ -1740,3 +1740,5 @@ StructuralVariantAnnotation
 RareVariantVis
 rqt
 deepSNV
+decompTumor2Sig
+multiMiR
