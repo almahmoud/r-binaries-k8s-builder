@@ -300,6 +300,7 @@ FitHiC
 FlowSOM
 FuseSOM
 GA4GHclient
+GA4GHshiny
 GAprediction
 GBScleanR
 GDCRNATools
@@ -774,6 +775,7 @@ SELEX
 SEtools
 SGCP
 SGSeq
+SIAMCAT
 SICtools
 SIM
 SIMAT
@@ -890,6 +892,7 @@ UCSC.utils
 UCell
 UNDO
 UPDhmm
+Ularcirc
 UniProt.ws
 Uniquorn
 VCFArray

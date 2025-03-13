@@ -194,7 +194,6 @@
   "FRASER": [
     "OUTRIDER"
   ],
-  "GA4GHshiny": [],
   "GARS": [],
   "GEOexplorer": [],
   "GLAD": [],
@@ -396,7 +395,6 @@
   "SCArray.sat": [
     "SCArray"
   ],
-  "SIAMCAT": [],
   "SMITE": [
     "goseq"
   ],
@@ -436,7 +434,6 @@
   ],
   "TVTB": [],
   "UMI4Cats": [],
-  "Ularcirc": [],
   "VAExprs": [
     "scater"
   ],

@@ -1852,3 +1852,6 @@
 ['[diffHic](https://bioconductor.org/packages/3.20/bioc/html/diffHic.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/diffHic/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/diffHic)']
 ['[edge](https://bioconductor.org/packages/3.20/bioc/html/edge.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/edge/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/edge)']
 ['[scuttle](https://bioconductor.org/packages/3.20/bioc/html/scuttle.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scuttle/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scuttle)']
+['[GA4GHshiny](https://bioconductor.org/packages/3.20/bioc/html/GA4GHshiny.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GA4GHshiny/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GA4GHshiny)']
+['[SIAMCAT](https://bioconductor.org/packages/3.20/bioc/html/SIAMCAT.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SIAMCAT/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SIAMCAT)']
+['[Ularcirc](https://bioconductor.org/packages/3.20/bioc/html/Ularcirc.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Ularcirc/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Ularcirc)']
