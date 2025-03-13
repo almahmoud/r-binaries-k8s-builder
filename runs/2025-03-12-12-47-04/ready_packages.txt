@@ -1,4 +1,0 @@
-AgiMicroRna
-crisprShiny
-crisprVerse
-decontX
