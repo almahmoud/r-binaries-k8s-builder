@@ -1536,3 +1536,7 @@ scPCA
 segmentSeq
 systemPipeTools
 tenXplore
+ChIPsim
+gsean
+odseq
+recount3

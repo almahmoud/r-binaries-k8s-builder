@@ -283,7 +283,6 @@
   "ChIPseeker": [
     "GenomicFeatures"
   ],
-  "ChIPsim": [],
   "ChromHeatMap": [],
   "ChromSCape": [
     "batchelor",
@@ -2052,7 +2051,6 @@
   ],
   "gpuMagic": [],
   "graper": [],
-  "gsean": [],
   "gwascat": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -2460,7 +2458,6 @@
     "SpatialExperiment",
     "BiocSingular"
   ],
-  "odseq": [],
   "oligo": [
     "affxparser"
   ],
@@ -2622,7 +2619,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "recount3": [],
   "recountmethylation": [
     "minfi",
     "bumphunter",

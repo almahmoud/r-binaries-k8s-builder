@@ -153,6 +153,7 @@ CexoR
 ChIPComp
 ChIPanalyser
 ChIPseqR
+ChIPsim
 ChemmineOB
 ChemmineR
 Chicago
@@ -1078,6 +1079,7 @@ graph
 graphite
 groHMM
 gscreend
+gsean
 gtrellis
 gypsum
 h5vc
@@ -1254,6 +1256,7 @@ nuCpos
 nucleR
 nucleoSim
 occugene
+odseq
 oligoClasses
 omada
 omicade4
@@ -1355,6 +1358,7 @@ rcellminer
 rebook
 receptLoss
 reconsi
+recount3
 regsplice
 retrofit
 rexposome
