@@ -1002,7 +1002,6 @@
     "minfi",
     "GEOquery"
   ],
-  "gDNAx": [],
   "gDR": [
     "gDRimport",
     "PharmacoGx"
@@ -1019,7 +1018,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "ggsc": [],
   "ggspavis": [],
   "girafe": [],
   "gmapR": [],

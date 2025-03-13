@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1753 packages built successfully
+- 1755 packages built successfully
 - 27 packages failed to build
-- 453 packages not yet processed
+- 451 packages not yet processed
 
 ## Failed Builds (27)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -39,7 +39,7 @@
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 
-## Successfully Built (1753)
+## Successfully Built (1755)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1795,8 +1795,10 @@
 | [coMethDMR](https://bioconductor.org/packages/3.20/bioc/html/coMethDMR.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/coMethDMR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/coMethDMR)                   |
 | [LymphoSeq](https://bioconductor.org/packages/3.20/bioc/html/LymphoSeq.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/LymphoSeq/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/LymphoSeq)                   |
 | [VCFArray](https://bioconductor.org/packages/3.20/bioc/html/VCFArray.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/VCFArray/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VCFArray)                    |
+| [gDNAx](https://bioconductor.org/packages/3.20/bioc/html/gDNAx.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/gDNAx/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gDNAx)                       |
+| [ggsc](https://bioconductor.org/packages/3.20/bioc/html/ggsc.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/ggsc/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ggsc)                        |
 
-## Not Yet Processed (453)
+## Not Yet Processed (451)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2083,12 +2085,10 @@
 | [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                                         | Unprocessed |
 | [frma](https://bioconductor.org/packages/3.20/bioc/html/frma.html)                                             | Unprocessed |
 | [funtooNorm](https://bioconductor.org/packages/3.20/bioc/html/funtooNorm.html)                                 | Unprocessed |
-| [gDNAx](https://bioconductor.org/packages/3.20/bioc/html/gDNAx.html)                                           | Unprocessed |
 | [gDR](https://bioconductor.org/packages/3.20/bioc/html/gDR.html)                                               | Unprocessed |
 | [gDRimport](https://bioconductor.org/packages/3.20/bioc/html/gDRimport.html)                                   | Unprocessed |
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                                   | Unprocessed |
 | [ggbio](https://bioconductor.org/packages/3.20/bioc/html/ggbio.html)                                           | Unprocessed |
-| [ggsc](https://bioconductor.org/packages/3.20/bioc/html/ggsc.html)                                             | Unprocessed |
 | [ggspavis](https://bioconductor.org/packages/3.20/bioc/html/ggspavis.html)                                     | Unprocessed |
 | [gmapR](https://bioconductor.org/packages/3.20/bioc/html/gmapR.html)                                           | Unprocessed |
 | [goseq](https://bioconductor.org/packages/3.20/bioc/html/goseq.html)                                           | Unprocessed |

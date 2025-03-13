@@ -1751,3 +1751,5 @@
 ['[coMethDMR](https://bioconductor.org/packages/3.20/bioc/html/coMethDMR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/coMethDMR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/coMethDMR)']
 ['[LymphoSeq](https://bioconductor.org/packages/3.20/bioc/html/LymphoSeq.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/LymphoSeq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/LymphoSeq)']
 ['[VCFArray](https://bioconductor.org/packages/3.20/bioc/html/VCFArray.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/VCFArray/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VCFArray)']
+['[gDNAx](https://bioconductor.org/packages/3.20/bioc/html/gDNAx.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/gDNAx/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gDNAx)']
+['[ggsc](https://bioconductor.org/packages/3.20/bioc/html/ggsc.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ggsc/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ggsc)']
