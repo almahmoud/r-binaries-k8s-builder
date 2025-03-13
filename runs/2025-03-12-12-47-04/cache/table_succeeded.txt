@@ -1572,3 +1572,5 @@
 ['[SigCheck](https://bioconductor.org/packages/3.20/bioc/html/SigCheck.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SigCheck/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SigCheck)']
 ['[fCCAC](https://bioconductor.org/packages/3.20/bioc/html/fCCAC.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/fCCAC/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fCCAC)']
 ['[syntenet](https://bioconductor.org/packages/3.20/bioc/html/syntenet.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/syntenet/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/syntenet)']
+['[funOmics](https://bioconductor.org/packages/3.20/bioc/html/funOmics.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/funOmics/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/funOmics)']
+['[pram](https://bioconductor.org/packages/3.20/bioc/html/pram.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/pram/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pram)']

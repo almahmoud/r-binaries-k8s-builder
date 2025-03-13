@@ -1843,7 +1843,6 @@
     "oligo",
     "affxparser"
   ],
-  "funOmics": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
@@ -2354,7 +2353,6 @@
   "planttfhunter": [],
   "plotgardener": [],
   "plyinteractions": [],
-  "pram": [],
   "prebs": [],
   "preciseTAD": [
     "rCGH",

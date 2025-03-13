@@ -1045,6 +1045,7 @@ fmrs
 fobitools
 frenchFISH
 frmaTools
+funOmics
 gCrisprTools
 gDRstyle
 gaga
@@ -1340,6 +1341,7 @@ pogos
 powerTCR
 ppcseq
 pqsfinder
+pram
 preprocessCore
 proDA
 procoil
