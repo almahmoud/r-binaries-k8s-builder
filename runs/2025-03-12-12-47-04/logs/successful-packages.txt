@@ -1569,3 +1569,6 @@ surfaltr
 plyxp
 hiReadsProcessor
 kmcut
+fCCAC
+SigCheck
+syntenet

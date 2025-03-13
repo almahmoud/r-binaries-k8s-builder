@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1571 packages built successfully
+- 1574 packages built successfully
 - 24 packages failed to build
-- 638 packages not yet processed
+- 635 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1571)
+## Successfully Built (1574)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1610,8 +1610,11 @@
 | [plyxp](https://bioconductor.org/packages/3.20/bioc/html/plyxp.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/plyxp/build-success.log)                      | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/plyxp)                   |
 | [hiReadsProcessor](https://bioconductor.org/packages/3.20/bioc/html/hiReadsProcessor.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/hiReadsProcessor/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hiReadsProcessor)           |
 | [kmcut](https://bioconductor.org/packages/3.20/bioc/html/kmcut.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/kmcut/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/kmcut)                      |
+| [SigCheck](https://bioconductor.org/packages/3.20/bioc/html/SigCheck.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/SigCheck/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SigCheck)                   |
+| [fCCAC](https://bioconductor.org/packages/3.20/bioc/html/fCCAC.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/fCCAC/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/fCCAC)                      |
+| [syntenet](https://bioconductor.org/packages/3.20/bioc/html/syntenet.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/syntenet/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/syntenet)                   |
 
-## Not Yet Processed (638)
+## Not Yet Processed (635)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1870,7 +1873,6 @@
 | [SOMNiBUS](https://bioconductor.org/packages/3.20/bioc/html/SOMNiBUS.html)                                       | Unprocessed |
 | [SPIAT](https://bioconductor.org/packages/3.20/bioc/html/SPIAT.html)                                             | Unprocessed |
 | [SPLINTER](https://bioconductor.org/packages/3.20/bioc/html/SPLINTER.html)                                       | Unprocessed |
-| [SigCheck](https://bioconductor.org/packages/3.20/bioc/html/SigCheck.html)                                       | Unprocessed |
 | [SigsPack](https://bioconductor.org/packages/3.20/bioc/html/SigsPack.html)                                       | Unprocessed |
 | [SingleCellSignalR](https://bioconductor.org/packages/3.20/bioc/html/SingleCellSignalR.html)                     | Unprocessed |
 | [SingleMoleculeFootprinting](https://bioconductor.org/packages/3.20/bioc/html/SingleMoleculeFootprinting.html)   | Unprocessed |
@@ -2010,7 +2012,6 @@
 | [escape](https://bioconductor.org/packages/3.20/bioc/html/escape.html)                                           | Unprocessed |
 | [escheR](https://bioconductor.org/packages/3.20/bioc/html/escheR.html)                                           | Unprocessed |
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                                   | Unprocessed |
-| [fCCAC](https://bioconductor.org/packages/3.20/bioc/html/fCCAC.html)                                             | Unprocessed |
 | [factR](https://bioconductor.org/packages/3.20/bioc/html/factR.html)                                             | Unprocessed |
 | [fcScan](https://bioconductor.org/packages/3.20/bioc/html/fcScan.html)                                           | Unprocessed |
 | [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                               | Unprocessed |
@@ -2222,7 +2223,6 @@
 | [svaNUMT](https://bioconductor.org/packages/3.20/bioc/html/svaNUMT.html)                                         | Unprocessed |
 | [svaRetro](https://bioconductor.org/packages/3.20/bioc/html/svaRetro.html)                                       | Unprocessed |
 | [synapter](https://bioconductor.org/packages/3.20/bioc/html/synapter.html)                                       | Unprocessed |
-| [syntenet](https://bioconductor.org/packages/3.20/bioc/html/syntenet.html)                                       | Unprocessed |
 | [tLOH](https://bioconductor.org/packages/3.20/bioc/html/tLOH.html)                                               | Unprocessed |
 | [tRNAscanImport](https://bioconductor.org/packages/3.20/bioc/html/tRNAscanImport.html)                           | Unprocessed |
 | [tadar](https://bioconductor.org/packages/3.20/bioc/html/tadar.html)                                             | Unprocessed |

@@ -1152,7 +1152,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SigCheck": [],
   "SigsPack": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -1711,7 +1710,6 @@
     "regioneR"
   ],
   "doubletrouble": [
-    "syntenet",
     "GenomicFeatures"
   ],
   "drugTargetInteractions": [
@@ -1817,7 +1815,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "fCCAC": [],
   "factR": [
     "GenomicFeatures"
   ],
@@ -2737,7 +2734,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "syntenet": [],
   "tLOH": [
     "VariantAnnotation",
     "GenomicFeatures"

@@ -693,6 +693,7 @@ SeqVarTools
 SharedObject
 ShortRead
 SiPSiC
+SigCheck
 SigFuge
 SimBu
 SimFFPE
@@ -996,6 +997,7 @@ erccdashboard
 esetVis
 eudysbiome
 evaluomeR
+fCCAC
 fCI
 fabia
 factDesign
@@ -1523,6 +1525,7 @@ switchde
 synapsis
 synergyfinder
 synlet
+syntenet
 systemPipeR
 systemPipeShiny
 systemPipeTools
