@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1654 packages built successfully
+- 1657 packages built successfully
 - 24 packages failed to build
-- 555 packages not yet processed
+- 552 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1654)
+## Successfully Built (1657)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1693,8 +1693,11 @@
 | [PeacoQC](https://bioconductor.org/packages/3.20/bioc/html/PeacoQC.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/PeacoQC/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PeacoQC)                    |
 | [BindingSiteFinder](https://bioconductor.org/packages/3.20/bioc/html/BindingSiteFinder.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/BindingSiteFinder/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BindingSiteFinder)          |
 | [openCyto](https://bioconductor.org/packages/3.20/bioc/html/openCyto.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/openCyto/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/openCyto)                   |
+| [FindIT2](https://bioconductor.org/packages/3.20/bioc/html/FindIT2.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/FindIT2/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/FindIT2)                    |
+| [Guitar](https://bioconductor.org/packages/3.20/bioc/html/Guitar.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/Guitar/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Guitar)                     |
+| [prebs](https://bioconductor.org/packages/3.20/bioc/html/prebs.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/prebs/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/prebs)                      |
 
-## Not Yet Processed (555)
+## Not Yet Processed (552)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1790,7 +1793,6 @@
 | [FLAMES](https://bioconductor.org/packages/3.20/bioc/html/FLAMES.html)                                           | Unprocessed |
 | [FRASER](https://bioconductor.org/packages/3.20/bioc/html/FRASER.html)                                           | Unprocessed |
 | [FastqCleaner](https://bioconductor.org/packages/3.20/bioc/html/FastqCleaner.html)                               | Unprocessed |
-| [FindIT2](https://bioconductor.org/packages/3.20/bioc/html/FindIT2.html)                                         | Unprocessed |
 | [GA4GHclient](https://bioconductor.org/packages/3.20/bioc/html/GA4GHclient.html)                                 | Unprocessed |
 | [GA4GHshiny](https://bioconductor.org/packages/3.20/bioc/html/GA4GHshiny.html)                                   | Unprocessed |
 | [GARS](https://bioconductor.org/packages/3.20/bioc/html/GARS.html)                                               | Unprocessed |
@@ -1813,7 +1815,6 @@
 | [GenomicOZone](https://bioconductor.org/packages/3.20/bioc/html/GenomicOZone.html)                               | Unprocessed |
 | [GenomicPlot](https://bioconductor.org/packages/3.20/bioc/html/GenomicPlot.html)                                 | Unprocessed |
 | [GmicR](https://bioconductor.org/packages/3.20/bioc/html/GmicR.html)                                             | Unprocessed |
-| [Guitar](https://bioconductor.org/packages/3.20/bioc/html/Guitar.html)                                           | Unprocessed |
 | [Gviz](https://bioconductor.org/packages/3.20/bioc/html/Gviz.html)                                               | Unprocessed |
 | [HelloRanges](https://bioconductor.org/packages/3.20/bioc/html/HelloRanges.html)                                 | Unprocessed |
 | [HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)                                     | Unprocessed |
@@ -2149,7 +2150,6 @@
 | [phenoTest](https://bioconductor.org/packages/3.20/bioc/html/phenoTest.html)                                     | Unprocessed |
 | [pipeComp](https://bioconductor.org/packages/3.20/bioc/html/pipeComp.html)                                       | Unprocessed |
 | [pipeFrame](https://bioconductor.org/packages/3.20/bioc/html/pipeFrame.html)                                     | Unprocessed |
-| [prebs](https://bioconductor.org/packages/3.20/bioc/html/prebs.html)                                             | Unprocessed |
 | [preciseTAD](https://bioconductor.org/packages/3.20/bioc/html/preciseTAD.html)                                   | Unprocessed |
 | [primirTSS](https://bioconductor.org/packages/3.20/bioc/html/primirTSS.html)                                     | Unprocessed |
 | [proActiv](https://bioconductor.org/packages/3.20/bioc/html/proActiv.html)                                       | Unprocessed |

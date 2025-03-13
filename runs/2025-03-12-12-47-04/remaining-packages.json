@@ -382,7 +382,6 @@
     "txdbmaker"
   ],
   "FastqCleaner": [],
-  "FindIT2": [],
   "GA4GHclient": [
     "VariantAnnotation"
   ],
@@ -469,7 +468,6 @@
     "GOstats"
   ],
   "GrafGen": [],
-  "Guitar": [],
   "Gviz": [
     "ensembldb",
     "biovizBase",
@@ -1820,7 +1818,6 @@
     "scuttle"
   ],
   "pipeFrame": [],
-  "prebs": [],
   "preciseTAD": [
     "rCGH"
   ],

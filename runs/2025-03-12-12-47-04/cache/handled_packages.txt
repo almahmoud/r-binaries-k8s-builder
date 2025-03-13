@@ -265,6 +265,7 @@ FRGEpistasis
 FamAgg
 FeatSeekR
 FilterFFPE
+FindIT2
 FitHiC
 FlowSOM
 FuseSOM
@@ -336,6 +337,7 @@ GrafGen
 GraphAT
 GraphAlignment
 GreyListChIP
+Guitar
 HDF5Array
 HDTD
 HELP
@@ -1412,6 +1414,7 @@ powerTCR
 ppcseq
 pqsfinder
 pram
+prebs
 preprocessCore
 proDA
 procoil
