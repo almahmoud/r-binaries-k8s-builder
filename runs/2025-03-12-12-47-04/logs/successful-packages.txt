@@ -1395,3 +1395,9 @@ celaref
 TSCAN
 BSgenome
 miRSM
+biosigner
+cellity
+consensusSeekeR
+dada2
+DESeq2
+scTGIF

@@ -168,6 +168,7 @@ DCATS
 DECIPHER
 DEGraph
 DEGseq
+DESeq2
 DEqMS
 DEsingle
 DFP
@@ -771,6 +772,7 @@ biodbNci
 biodbUniprot
 biomaRt
 biomformat
+biosigner
 biotmle
 blima
 bluster
@@ -789,6 +791,7 @@ ccrepe
 ceRNAnetsim
 celaref
 cellbaseR
+cellity
 cellmigRation
 cellscape
 cellxgenedp
@@ -823,6 +826,7 @@ combi
 compSPOT
 compcodeR
 consensus
+consensusSeekeR
 convert
 copa
 cosmosR
@@ -844,6 +848,7 @@ cytoMEM
 cytolib
 dStruct
 daMA
+dada2
 dcGSA
 dcanr
 dce
@@ -1282,6 +1287,7 @@ scReClassify
 scRecover
 scRepertoire
 scShapes
+scTGIF
 scTHI
 scanMiR
 scatterHatch
