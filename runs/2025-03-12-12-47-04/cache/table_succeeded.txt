@@ -1915,3 +1915,5 @@
 ['[MoonlightR](https://bioconductor.org/packages/3.20/bioc/html/MoonlightR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MoonlightR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MoonlightR)']
 ['[trackViewer](https://bioconductor.org/packages/3.20/bioc/html/trackViewer.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/trackViewer/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/trackViewer)']
 ['[velociraptor](https://bioconductor.org/packages/3.20/bioc/html/velociraptor.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/velociraptor/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/velociraptor)']
+['[RgnTX](https://bioconductor.org/packages/3.20/bioc/html/RgnTX.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/RgnTX/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RgnTX)']
+['[oppar](https://bioconductor.org/packages/3.20/bioc/html/oppar.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/oppar/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/oppar)']

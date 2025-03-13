@@ -765,6 +765,7 @@ RepViz
 Repitools
 ResidualMatrix
 Rfastp
+RgnTX
 Rgraphviz
 Rhdf5lib
 Rhtslib
@@ -1568,6 +1569,7 @@ ontoProc
 openCyto
 openPrimeR
 oposSOM
+oppar
 oppti
 optimalFlow
 orthogene

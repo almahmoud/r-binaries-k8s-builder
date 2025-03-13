@@ -299,7 +299,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "RgnTX": [],
   "Rhisat2": [],
   "RiboCrypt": [
     "ORFik"
@@ -682,7 +681,6 @@
   "oligo": [
     "affxparser"
   ],
-  "oppar": [],
   "pRolocGUI": [],
   "pageRank": [
     "motifmatchr"
