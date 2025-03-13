@@ -1789,3 +1789,5 @@
 ['[tidyomics](https://bioconductor.org/packages/3.20/bioc/html/tidyomics.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/tidyomics/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tidyomics)']
 ['[tpSVG](https://bioconductor.org/packages/3.20/bioc/html/tpSVG.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/tpSVG/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tpSVG)']
 ['[transcriptR](https://bioconductor.org/packages/3.20/bioc/html/transcriptR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/transcriptR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/transcriptR)']
+['[smoothclust](https://bioconductor.org/packages/3.20/bioc/html/smoothclust.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/smoothclust/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/smoothclust)']
+['[xenLite](https://bioconductor.org/packages/3.20/bioc/html/xenLite.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/xenLite/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xenLite)']

@@ -1687,6 +1687,7 @@ sketchR
 slalom
 slingshot
 smartid
+smoothclust
 snapcount
 snifter
 snm
@@ -1808,6 +1809,7 @@ widgetTools
 wiggleplotr
 wpm
 wppi
+xenLite
 xmapbridge
 yamss
 zFPKM

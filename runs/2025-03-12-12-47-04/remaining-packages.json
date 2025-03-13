@@ -1377,7 +1377,6 @@
     "GEOquery",
     "lumi"
   ],
-  "smoothclust": [],
   "spaSim": [],
   "spatzie": [
     "GenomicInteractions",
@@ -1450,7 +1449,6 @@
   ],
   "xcms": [],
   "xcore": [],
-  "xenLite": [],
   "yarn": [
     "quantro",
     "minfi",
