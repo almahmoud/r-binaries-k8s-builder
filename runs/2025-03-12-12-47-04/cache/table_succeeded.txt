@@ -1692,3 +1692,5 @@
 ['[qpgraph](https://bioconductor.org/packages/3.20/bioc/html/qpgraph.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/qpgraph/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/qpgraph)']
 ['[wavClusteR](https://bioconductor.org/packages/3.20/bioc/html/wavClusteR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/wavClusteR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/wavClusteR)']
 ['[RadioGx](https://bioconductor.org/packages/3.20/bioc/html/RadioGx.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/RadioGx/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RadioGx)']
+['[MatrixQCvis](https://bioconductor.org/packages/3.20/bioc/html/MatrixQCvis.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MatrixQCvis/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MatrixQCvis)']
+['[seqArchRplus](https://bioconductor.org/packages/3.20/bioc/html/seqArchRplus.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/seqArchRplus/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/seqArchRplus)']

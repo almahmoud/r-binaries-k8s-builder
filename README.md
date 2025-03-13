@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1694 packages built successfully
+- 1696 packages built successfully
 - 26 packages failed to build
-- 513 packages not yet processed
+- 511 packages not yet processed
 
 ## Failed Builds (26)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -38,7 +38,7 @@
 | [SCArray](https://bioconductor.org/packages/3.20/bioc/html/SCArray.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SCArray/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SCArray)       | Build failed with unknown error     |
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 
-## Successfully Built (1694)
+## Successfully Built (1696)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1735,8 +1735,10 @@
 | [qpgraph](https://bioconductor.org/packages/3.20/bioc/html/qpgraph.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/qpgraph/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/qpgraph)                    |
 | [wavClusteR](https://bioconductor.org/packages/3.20/bioc/html/wavClusteR.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/wavClusteR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/wavClusteR)                 |
 | [RadioGx](https://bioconductor.org/packages/3.20/bioc/html/RadioGx.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/RadioGx/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RadioGx)                    |
+| [MatrixQCvis](https://bioconductor.org/packages/3.20/bioc/html/MatrixQCvis.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/MatrixQCvis/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MatrixQCvis)                |
+| [seqArchRplus](https://bioconductor.org/packages/3.20/bioc/html/seqArchRplus.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/seqArchRplus/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/seqArchRplus)               |
 
-## Not Yet Processed (513)
+## Not Yet Processed (511)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1875,7 +1877,6 @@
 | [MSnbase](https://bioconductor.org/packages/3.20/bioc/html/MSnbase.html)                                         | Unprocessed |
 | [MSstatsQC](https://bioconductor.org/packages/3.20/bioc/html/MSstatsQC.html)                                     | Unprocessed |
 | [MSstatsQCgui](https://bioconductor.org/packages/3.20/bioc/html/MSstatsQCgui.html)                               | Unprocessed |
-| [MatrixQCvis](https://bioconductor.org/packages/3.20/bioc/html/MatrixQCvis.html)                                 | Unprocessed |
 | [MatrixRider](https://bioconductor.org/packages/3.20/bioc/html/MatrixRider.html)                                 | Unprocessed |
 | [MetaboAnnotation](https://bioconductor.org/packages/3.20/bioc/html/MetaboAnnotation.html)                       | Unprocessed |
 | [MetaboSignal](https://bioconductor.org/packages/3.20/bioc/html/MetaboSignal.html)                               | Unprocessed |
@@ -2203,7 +2204,6 @@
 | [scuttle](https://bioconductor.org/packages/3.20/bioc/html/scuttle.html)                                         | Unprocessed |
 | [scviR](https://bioconductor.org/packages/3.20/bioc/html/scviR.html)                                             | Unprocessed |
 | [selectKSigs](https://bioconductor.org/packages/3.20/bioc/html/selectKSigs.html)                                 | Unprocessed |
-| [seqArchRplus](https://bioconductor.org/packages/3.20/bioc/html/seqArchRplus.html)                               | Unprocessed |
 | [seqCAT](https://bioconductor.org/packages/3.20/bioc/html/seqCAT.html)                                           | Unprocessed |
 | [shinyMethyl](https://bioconductor.org/packages/3.20/bioc/html/shinyMethyl.html)                                 | Unprocessed |
 | [shinyepico](https://bioconductor.org/packages/3.20/bioc/html/shinyepico.html)                                   | Unprocessed |

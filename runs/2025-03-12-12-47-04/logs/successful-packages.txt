@@ -1692,3 +1692,5 @@ gDRutils
 qpgraph
 wavClusteR
 RadioGx
+MatrixQCvis
+seqArchRplus

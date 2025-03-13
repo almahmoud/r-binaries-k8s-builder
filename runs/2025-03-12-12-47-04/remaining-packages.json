@@ -480,7 +480,6 @@
     "MSstatsQC",
     "MSnbase"
   ],
-  "MatrixQCvis": [],
   "MatrixRider": [
     "TFBSTools"
   ],
@@ -1617,7 +1616,6 @@
   "selectKSigs": [
     "HiLDA"
   ],
-  "seqArchRplus": [],
   "seqCAT": [],
   "shinyMethyl": [
     "minfi",

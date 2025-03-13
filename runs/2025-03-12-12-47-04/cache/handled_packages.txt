@@ -479,6 +479,7 @@ MantelCorr
 MassArray
 MassSpecWavelet
 MatrixGenerics
+MatrixQCvis
 MeSHDbi
 MeasurementError.cor
 Melissa
@@ -1576,6 +1577,7 @@ semisup
 seq.hotSPOT
 seq2pathway
 seqArchR
+seqArchRplus
 seqLogo
 seqPattern
 seqTools
