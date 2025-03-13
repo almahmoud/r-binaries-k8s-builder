@@ -1137,7 +1137,6 @@
   "HybridExpress": [
     "DESeq2"
   ],
-  "IFAA": [],
   "ILoReg": [],
   "IMAS": [
     "GenomicFeatures",
@@ -1260,7 +1259,6 @@
     "GLAD"
   ],
   "MAST": [],
-  "MBASED": [],
   "MEAL": [
     "MultiDataSet",
     "minfi",
@@ -4036,7 +4034,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "netboost": [],
   "ngsReports": [],
   "nipalsMCIA": [],
   "nnSVG": [
@@ -4439,7 +4436,6 @@
   ],
   "rtracklayer": [],
   "sRACIPE": [],
-  "sSNAPPY": [],
   "safe": [],
   "saseR": [
     "ASpli",

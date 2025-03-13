@@ -1171,3 +1171,7 @@ trigger
 ALDEx2
 ClusterFoldSimilarity
 mogsa
+IFAA
+MBASED
+netboost
+sSNAPPY

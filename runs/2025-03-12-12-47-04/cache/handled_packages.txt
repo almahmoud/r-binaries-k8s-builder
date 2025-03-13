@@ -265,6 +265,7 @@ HilbertVisGUI
 HuBMAPR
 HubPub
 HybridMTest
+IFAA
 IHW
 IMMAN
 IMPCdata
@@ -305,6 +306,7 @@ M3C
 MACSQuantifyR
 MAGeCKFlute
 MAPFX
+MBASED
 MBAmethyl
 MBCB
 MBECS
@@ -960,6 +962,7 @@ ncRNAtools
 ncdfFlow
 ndexr
 nempi
+netboost
 nethet
 netprioR
 netresponse
@@ -1069,6 +1072,7 @@ rrvgo
 rsbml
 rsemmed
 runibic
+sSNAPPY
 sSeq
 sagenhaft
 sampleClassifier
