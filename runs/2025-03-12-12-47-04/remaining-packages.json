@@ -484,7 +484,6 @@
     "oligo",
     "affxparser"
   ],
-  "InPAS": [],
   "InTAD": [],
   "IntEREst": [
     "GenomicFiles",
@@ -903,7 +902,6 @@
     "DropletUtils",
     "scuttle"
   ],
-  "SplicingGraphs": [],
   "SpotClean": [],
   "SpotSweeper": [
     "escheR"

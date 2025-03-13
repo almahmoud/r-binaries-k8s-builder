@@ -1669,3 +1669,5 @@
 ['[TAPseq](https://bioconductor.org/packages/3.20/bioc/html/TAPseq.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/TAPseq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TAPseq)']
 ['[Organism.dplyr](https://bioconductor.org/packages/3.20/bioc/html/Organism.dplyr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Organism.dplyr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Organism.dplyr)']
 ['[atena](https://bioconductor.org/packages/3.20/bioc/html/atena.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/atena/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/atena)']
+['[InPAS](https://bioconductor.org/packages/3.20/bioc/html/InPAS.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/InPAS/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/InPAS)']
+['[SplicingGraphs](https://bioconductor.org/packages/3.20/bioc/html/SplicingGraphs.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SplicingGraphs/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SplicingGraphs)']
