@@ -299,7 +299,6 @@
     "rtracklayer"
   ],
   "CNTools": [],
-  "CNVPanelizer": [],
   "CNVRanger": [
     "RaggedExperiment"
   ],
@@ -2408,7 +2407,6 @@
     "ScaledMatrix"
   ],
   "alabaster": [
-    "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
     "alabaster.mae",
@@ -2419,10 +2417,8 @@
     "GenomicFeatures"
   ],
   "alabaster.mae": [],
-  "alabaster.sce": [],
   "alabaster.spatial": [
-    "SpatialExperiment",
-    "alabaster.sce"
+    "SpatialExperiment"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
@@ -3886,7 +3882,6 @@
     "rtracklayer",
     "CNEr"
   ],
-  "mosaics": [],
   "mosdef": [
     "topGO",
     "goseq",
@@ -3966,7 +3961,6 @@
     "HiCcompare"
   ],
   "multiMiR": [],
-  "multiWGCNA": [],
   "multicrispr": [
     "BSgenome",
     "CRISPRseek",
@@ -4184,7 +4178,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "pgxRpi": [],
   "phantasus": [
     "GEOquery",
     "DESeq2",
@@ -4761,8 +4754,7 @@
     "AnnotationFilter",
     "rtracklayer",
     "SpatialExperiment",
-    "M3Drop",
-    "alabaster.sce"
+    "M3Drop"
   ],
   "singscore": [],
   "sitadela": [

@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1162 packages built successfully
+- 1167 packages built successfully
 - 20 packages failed to build
-- 1051 packages not yet processed
+- 1046 packages not yet processed
 
 ## Failed Builds (20)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -32,7 +32,7 @@
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/cn.mops/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cn.mops)       | Build failed with unknown error     |
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 
-## Successfully Built (1162)
+## Successfully Built (1167)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1197,8 +1197,13 @@
 | [beer](https://bioconductor.org/packages/3.20/bioc/html/beer.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/beer/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/beer)                      |
 | [multistateQTL](https://bioconductor.org/packages/3.20/bioc/html/multistateQTL.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/multistateQTL/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multistateQTL)             |
 | [rfPred](https://bioconductor.org/packages/3.20/bioc/html/rfPred.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/rfPred/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rfPred)                    |
+| [CNVPanelizer](https://bioconductor.org/packages/3.20/bioc/html/CNVPanelizer.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/CNVPanelizer/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNVPanelizer)              |
+| [alabaster.sce](https://bioconductor.org/packages/3.20/bioc/html/alabaster.sce.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/alabaster.sce/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.sce)             |
+| [mosaics](https://bioconductor.org/packages/3.20/bioc/html/mosaics.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/mosaics/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mosaics)                   |
+| [multiWGCNA](https://bioconductor.org/packages/3.20/bioc/html/multiWGCNA.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/multiWGCNA/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multiWGCNA)                |
+| [pgxRpi](https://bioconductor.org/packages/3.20/bioc/html/pgxRpi.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/pgxRpi/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pgxRpi)                    |
 
-## Not Yet Processed (1051)
+## Not Yet Processed (1046)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1263,7 +1268,6 @@
 | [CINdex](https://bioconductor.org/packages/3.20/bioc/html/CINdex.html)                                           | Unprocessed |
 | [CNEr](https://bioconductor.org/packages/3.20/bioc/html/CNEr.html)                                               | Unprocessed |
 | [CNTools](https://bioconductor.org/packages/3.20/bioc/html/CNTools.html)                                         | Unprocessed |
-| [CNVPanelizer](https://bioconductor.org/packages/3.20/bioc/html/CNVPanelizer.html)                               | Unprocessed |
 | [CNVRanger](https://bioconductor.org/packages/3.20/bioc/html/CNVRanger.html)                                     | Unprocessed |
 | [CNVfilteR](https://bioconductor.org/packages/3.20/bioc/html/CNVfilteR.html)                                     | Unprocessed |
 | [CNViz](https://bioconductor.org/packages/3.20/bioc/html/CNViz.html)                                             | Unprocessed |
@@ -1696,7 +1700,6 @@
 | [airpart](https://bioconductor.org/packages/3.20/bioc/html/airpart.html)                                         | Unprocessed |
 | [alabaster](https://bioconductor.org/packages/3.20/bioc/html/alabaster.html)                                     | Unprocessed |
 | [alabaster.mae](https://bioconductor.org/packages/3.20/bioc/html/alabaster.mae.html)                             | Unprocessed |
-| [alabaster.sce](https://bioconductor.org/packages/3.20/bioc/html/alabaster.sce.html)                             | Unprocessed |
 | [alabaster.spatial](https://bioconductor.org/packages/3.20/bioc/html/alabaster.spatial.html)                     | Unprocessed |
 | [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                             | Unprocessed |
 | [amplican](https://bioconductor.org/packages/3.20/bioc/html/amplican.html)                                       | Unprocessed |
@@ -1986,7 +1989,6 @@
 | [mobileRNA](https://bioconductor.org/packages/3.20/bioc/html/mobileRNA.html)                                     | Unprocessed |
 | [mogsa](https://bioconductor.org/packages/3.20/bioc/html/mogsa.html)                                             | Unprocessed |
 | [monaLisa](https://bioconductor.org/packages/3.20/bioc/html/monaLisa.html)                                       | Unprocessed |
-| [mosaics](https://bioconductor.org/packages/3.20/bioc/html/mosaics.html)                                         | Unprocessed |
 | [mosdef](https://bioconductor.org/packages/3.20/bioc/html/mosdef.html)                                           | Unprocessed |
 | [motifStack](https://bioconductor.org/packages/3.20/bioc/html/motifStack.html)                                   | Unprocessed |
 | [motifbreakR](https://bioconductor.org/packages/3.20/bioc/html/motifbreakR.html)                                 | Unprocessed |
@@ -2001,7 +2003,6 @@
 | [multiGSEA](https://bioconductor.org/packages/3.20/bioc/html/multiGSEA.html)                                     | Unprocessed |
 | [multiHiCcompare](https://bioconductor.org/packages/3.20/bioc/html/multiHiCcompare.html)                         | Unprocessed |
 | [multiMiR](https://bioconductor.org/packages/3.20/bioc/html/multiMiR.html)                                       | Unprocessed |
-| [multiWGCNA](https://bioconductor.org/packages/3.20/bioc/html/multiWGCNA.html)                                   | Unprocessed |
 | [multicrispr](https://bioconductor.org/packages/3.20/bioc/html/multicrispr.html)                                 | Unprocessed |
 | [mumosa](https://bioconductor.org/packages/3.20/bioc/html/mumosa.html)                                           | Unprocessed |
 | [muscat](https://bioconductor.org/packages/3.20/bioc/html/muscat.html)                                           | Unprocessed |
@@ -2048,7 +2049,6 @@
 | [peakPantheR](https://bioconductor.org/packages/3.20/bioc/html/peakPantheR.html)                                 | Unprocessed |
 | [peco](https://bioconductor.org/packages/3.20/bioc/html/peco.html)                                               | Unprocessed |
 | [periodicDNA](https://bioconductor.org/packages/3.20/bioc/html/periodicDNA.html)                                 | Unprocessed |
-| [pgxRpi](https://bioconductor.org/packages/3.20/bioc/html/pgxRpi.html)                                           | Unprocessed |
 | [phantasus](https://bioconductor.org/packages/3.20/bioc/html/phantasus.html)                                     | Unprocessed |
 | [phantasusLite](https://bioconductor.org/packages/3.20/bioc/html/phantasusLite.html)                             | Unprocessed |
 | [phenoTest](https://bioconductor.org/packages/3.20/bioc/html/phenoTest.html)                                     | Unprocessed |

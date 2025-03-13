@@ -99,6 +99,7 @@ CNORfeeder
 CNORfuzzy
 CNORode
 CNVMetrics
+CNVPanelizer
 COMPASS
 CONSTANd
 COSNet
@@ -603,6 +604,7 @@ alabaster.bumpy
 alabaster.files
 alabaster.matrix
 alabaster.ranges
+alabaster.sce
 alabaster.schemas
 alabaster.se
 alabaster.string
@@ -936,12 +938,14 @@ mitch
 mixOmics
 mnem
 monocle
+mosaics
 mosbi
 motifTestR
 motifcounter
 msPurity
 mslp
 multiClust
+multiWGCNA
 multiscan
 multistateQTL
 multtest
@@ -986,6 +990,7 @@ pepStat
 pepXMLTab
 pfamAnalyzeR
 pgca
+pgxRpi
 philr
 phosphonormalizer
 phyloseq
