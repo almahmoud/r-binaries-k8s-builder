@@ -281,6 +281,7 @@ GOSemSim
 GOTHiC
 GOexpress
 GOfuncR
+GOpro
 GPA
 GRENITS
 GRmetrics
@@ -1016,6 +1017,7 @@ enrichViewNet
 enrichplot
 epiNEM
 epialleleR
+epidecodeR
 epigenomix
 epistack
 epistasisGA

@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1620 packages built successfully
+- 1622 packages built successfully
 - 24 packages failed to build
-- 589 packages not yet processed
+- 587 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1620)
+## Successfully Built (1622)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1659,8 +1659,10 @@
 | [OTUbase](https://bioconductor.org/packages/3.20/bioc/html/OTUbase.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/OTUbase/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OTUbase)                    |
 | [mariner](https://bioconductor.org/packages/3.20/bioc/html/mariner.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/mariner/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mariner)                    |
 | [planttfhunter](https://bioconductor.org/packages/3.20/bioc/html/planttfhunter.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/planttfhunter/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/planttfhunter)              |
+| [GOpro](https://bioconductor.org/packages/3.20/bioc/html/GOpro.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/GOpro/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GOpro)                      |
+| [epidecodeR](https://bioconductor.org/packages/3.20/bioc/html/epidecodeR.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/epidecodeR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epidecodeR)                 |
 
-## Not Yet Processed (589)
+## Not Yet Processed (587)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1770,7 +1772,6 @@
 | [GEOexplorer](https://bioconductor.org/packages/3.20/bioc/html/GEOexplorer.html)                                 | Unprocessed |
 | [GEOquery](https://bioconductor.org/packages/3.20/bioc/html/GEOquery.html)                                       | Unprocessed |
 | [GNOSIS](https://bioconductor.org/packages/3.20/bioc/html/GNOSIS.html)                                           | Unprocessed |
-| [GOpro](https://bioconductor.org/packages/3.20/bioc/html/GOpro.html)                                             | Unprocessed |
 | [GOstats](https://bioconductor.org/packages/3.20/bioc/html/GOstats.html)                                         | Unprocessed |
 | [GRaNIE](https://bioconductor.org/packages/3.20/bioc/html/GRaNIE.html)                                           | Unprocessed |
 | [GSRI](https://bioconductor.org/packages/3.20/bioc/html/GSRI.html)                                               | Unprocessed |
@@ -2017,7 +2018,6 @@
 | [edge](https://bioconductor.org/packages/3.20/bioc/html/edge.html)                                               | Unprocessed |
 | [enhancerHomologSearch](https://bioconductor.org/packages/3.20/bioc/html/enhancerHomologSearch.html)             | Unprocessed |
 | [ensembldb](https://bioconductor.org/packages/3.20/bioc/html/ensembldb.html)                                     | Unprocessed |
-| [epidecodeR](https://bioconductor.org/packages/3.20/bioc/html/epidecodeR.html)                                   | Unprocessed |
 | [epigraHMM](https://bioconductor.org/packages/3.20/bioc/html/epigraHMM.html)                                     | Unprocessed |
 | [epimutacions](https://bioconductor.org/packages/3.20/bioc/html/epimutacions.html)                               | Unprocessed |
 | [epiregulon](https://bioconductor.org/packages/3.20/bioc/html/epiregulon.html)                                   | Unprocessed |

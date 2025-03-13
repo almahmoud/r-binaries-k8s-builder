@@ -494,7 +494,6 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "GOpro": [],
   "GOstats": [],
   "GRaNIE": [
     "ensembldb",
@@ -1635,7 +1634,6 @@
   "ensembldb": [
     "GenomicFeatures"
   ],
-  "epidecodeR": [],
   "epigraHMM": [],
   "epimutacions": [
     "minfi",
