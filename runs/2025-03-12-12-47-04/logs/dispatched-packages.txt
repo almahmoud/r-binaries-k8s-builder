@@ -2084,3 +2084,5 @@ RnaSeqSampleSize
 psichomics
 circRNAprofiler
 vtpnet
+epivizr
+epivizrChart

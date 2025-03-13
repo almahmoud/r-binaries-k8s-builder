@@ -214,6 +214,7 @@ CytoDx
 CytoGLMM
 CytoML
 CytoPipeline
+CytoPipelineGUI
 DAMEfinder
 DAPAR
 DART
@@ -309,6 +310,7 @@ FEAST
 FELLA
 FGNet
 FISHalyseR
+FRASER
 FRGEpistasis
 FamAgg
 FastqCleaner
@@ -567,6 +569,7 @@ MetaboAnnotation
 MetaboCoreUtils
 MethPed
 MethTargetedNGS
+MethylAid
 MethylMix
 MethylSeekR
 Mfuzz
@@ -829,6 +832,7 @@ SIMD
 SIMLR
 SLqPCR
 SMAD
+SMITE
 SNAGEE
 SNPRelate
 SNPediaR
@@ -1145,6 +1149,7 @@ concordexR
 consICA
 consensus
 consensusSeekeR
+conumee
 convert
 copa
 corral
@@ -1241,8 +1246,10 @@ epigenomix
 epigraHMM
 epistack
 epistasisGA
+epivizrData
 epivizrServer
 erccdashboard
+erma
 escape
 escheR
 esetVis
@@ -1299,6 +1306,7 @@ fobitools
 frenchFISH
 frmaTools
 funOmics
+funtooNorm
 gCrisprTools
 gDNAx
 gDRcore
