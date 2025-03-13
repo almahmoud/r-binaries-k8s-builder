@@ -2090,3 +2090,4 @@
 ['[muscat](https://bioconductor.org/packages/3.20/bioc/html/muscat.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/muscat/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscat)']
 ['[spillR](https://bioconductor.org/packages/3.20/bioc/html/spillR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/spillR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spillR)']
 ['[biscuiteer](https://bioconductor.org/packages/3.20/bioc/html/biscuiteer.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/biscuiteer/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biscuiteer)']
+['[msgbsR](https://bioconductor.org/packages/3.20/bioc/html/msgbsR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/msgbsR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/msgbsR)']
