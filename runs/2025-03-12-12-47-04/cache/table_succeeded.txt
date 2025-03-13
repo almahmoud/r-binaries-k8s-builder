@@ -1952,3 +1952,4 @@
 ['[UMI4Cats](https://bioconductor.org/packages/3.20/bioc/html/UMI4Cats.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/UMI4Cats/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/UMI4Cats)']
 ['[rCGH](https://bioconductor.org/packages/3.20/bioc/html/rCGH.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rCGH/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rCGH)']
 ['[ExperimentSubset](https://bioconductor.org/packages/3.20/bioc/html/ExperimentSubset.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ExperimentSubset/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ExperimentSubset)']
+['[saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/saseR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/saseR)']
