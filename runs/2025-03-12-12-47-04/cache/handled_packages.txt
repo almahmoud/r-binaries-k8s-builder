@@ -862,6 +862,7 @@ cisPath
 cleanUpdTSeq
 cleaver
 clevRvis
+cliProfiler
 clippda
 clst
 clstutils
@@ -1456,6 +1457,7 @@ switchde
 synapsis
 synergyfinder
 synlet
+systemPipeR
 systemPipeShiny
 tRNA
 tRNAdbImport

@@ -1496,3 +1496,5 @@ XNAString
 cleanUpdTSeq
 methrix
 SCOPE
+cliProfiler
+systemPipeR

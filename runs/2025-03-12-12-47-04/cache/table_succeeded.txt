@@ -1496,3 +1496,5 @@
 ['[SCOPE](https://bioconductor.org/packages/3.20/bioc/html/SCOPE.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SCOPE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SCOPE)']
 ['[cleanUpdTSeq](https://bioconductor.org/packages/3.20/bioc/html/cleanUpdTSeq.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/cleanUpdTSeq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cleanUpdTSeq)']
 ['[methrix](https://bioconductor.org/packages/3.20/bioc/html/methrix.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/methrix/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methrix)']
+['[cliProfiler](https://bioconductor.org/packages/3.20/bioc/html/cliProfiler.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/cliProfiler/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cliProfiler)']
+['[systemPipeR](https://bioconductor.org/packages/3.20/bioc/html/systemPipeR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/systemPipeR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/systemPipeR)']
