@@ -1370,3 +1370,4 @@ scDiagnostics
 scmap
 sesame
 switchde
+GloScope

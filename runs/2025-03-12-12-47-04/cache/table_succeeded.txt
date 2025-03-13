@@ -1370,3 +1370,4 @@
 ['[scmap](https://bioconductor.org/packages/3.20/bioc/html/scmap.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scmap/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scmap)']
 ['[sesame](https://bioconductor.org/packages/3.20/bioc/html/sesame.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/sesame/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sesame)']
 ['[switchde](https://bioconductor.org/packages/3.20/bioc/html/switchde.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/switchde/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/switchde)']
+['[GloScope](https://bioconductor.org/packages/3.20/bioc/html/GloScope.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GloScope/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GloScope)']

@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1372 packages built successfully
+- 1373 packages built successfully
 - 21 packages failed to build
-- 840 packages not yet processed
+- 839 packages not yet processed
 
 ## Failed Builds (21)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -33,7 +33,7 @@
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 
-## Successfully Built (1372)
+## Successfully Built (1373)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1408,8 +1408,9 @@
 | [scmap](https://bioconductor.org/packages/3.20/bioc/html/scmap.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/scmap/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scmap)                      |
 | [sesame](https://bioconductor.org/packages/3.20/bioc/html/sesame.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/sesame/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sesame)                     |
 | [switchde](https://bioconductor.org/packages/3.20/bioc/html/switchde.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/switchde/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/switchde)                   |
+| [GloScope](https://bioconductor.org/packages/3.20/bioc/html/GloScope.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/GloScope/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GloScope)                   |
 
-## Not Yet Processed (840)
+## Not Yet Processed (839)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADAMgui](https://bioconductor.org/packages/3.20/bioc/html/ADAMgui.html)                                         | Unprocessed |
@@ -1580,7 +1581,6 @@
 | [GenomicOZone](https://bioconductor.org/packages/3.20/bioc/html/GenomicOZone.html)                               | Unprocessed |
 | [GenomicPlot](https://bioconductor.org/packages/3.20/bioc/html/GenomicPlot.html)                                 | Unprocessed |
 | [Glimma](https://bioconductor.org/packages/3.20/bioc/html/Glimma.html)                                           | Unprocessed |
-| [GloScope](https://bioconductor.org/packages/3.20/bioc/html/GloScope.html)                                       | Unprocessed |
 | [GmicR](https://bioconductor.org/packages/3.20/bioc/html/GmicR.html)                                             | Unprocessed |
 | [GreyListChIP](https://bioconductor.org/packages/3.20/bioc/html/GreyListChIP.html)                               | Unprocessed |
 | [Guitar](https://bioconductor.org/packages/3.20/bioc/html/Guitar.html)                                           | Unprocessed |

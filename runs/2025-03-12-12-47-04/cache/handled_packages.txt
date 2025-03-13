@@ -277,6 +277,7 @@ GeoDiff
 GeoTcgaData
 GeomxTools
 GladiaTOX
+GloScope
 GlobalAncova
 GrafGen
 GraphAT
