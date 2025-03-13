@@ -938,6 +938,7 @@ bumphunter
 cTRAP
 calm
 cancerclass
+casper
 cbpManager
 ccImpute
 ccfindR
@@ -1128,8 +1129,10 @@ frenchFISH
 frmaTools
 funOmics
 gCrisprTools
+gDRcore
 gDRstyle
 gDRutils
+gINTomics
 gaga
 gage
 garfield
@@ -1188,6 +1191,7 @@ groHMM
 gscreend
 gsean
 gtrellis
+gwasurvivr
 gypsum
 h5vc
 hapFabia
@@ -1229,9 +1233,11 @@ iSEEu
 iSeq
 iasva
 ibh
+icetea
 idiogram
 idpr
 idr2d
+igvR
 igvShiny
 illuminaio
 immApex
@@ -1249,6 +1255,7 @@ isomiRs
 iterativeBMA
 iterativeBMAsurv
 ivygapSE
+katdetectr
 kebabs
 keggorthology
 kmcut
@@ -1263,6 +1270,7 @@ lfa
 limma
 limmaGUI
 limpca
+lineagespot
 lionessR
 lipidr
 lmdme
@@ -1323,6 +1331,7 @@ miRNAtap
 miRSM
 miRcomp
 miRspongeR
+miaSim
 microRNA
 microbiome
 microbiomeDASim
@@ -1360,6 +1369,7 @@ multiscan
 multistateQTL
 multtest
 muscle
+myvariant
 mzID
 mzR
 ncRNAtools
@@ -1477,6 +1487,7 @@ r3Cseq
 rBLAST
 rBiopaxParser
 rGADEM
+rGREAT
 rGenomeTracks
 rRDP
 rSWeeP
@@ -1513,6 +1524,7 @@ rifi
 rifiComparative
 rmelting
 rmspc
+rnaEditr
 rnaseqcomp
 roar
 roastgsa
@@ -1565,6 +1577,7 @@ scds
 schex
 scifer
 scmap
+scoreInvHap
 scoup
 scrapper
 screenCounter
@@ -1578,6 +1591,7 @@ seq.hotSPOT
 seq2pathway
 seqArchR
 seqArchRplus
+seqCAT
 seqLogo
 seqPattern
 seqTools
@@ -1591,6 +1605,7 @@ sigFeature
 siggenes
 sights
 signatureSearch
+signeR
 sigsquared
 similaRpeak
 simona
@@ -1648,6 +1663,7 @@ syntenet
 systemPipeR
 systemPipeShiny
 systemPipeTools
+tLOH
 tRNA
 tRNAdbImport
 tRNAscanImport
@@ -1656,6 +1672,7 @@ tanggle
 target
 tenXplore
 ternarynet
+terraTCGAdata
 tidyCoverage
 tidyFlowCore
 tidySingleCellExperiment

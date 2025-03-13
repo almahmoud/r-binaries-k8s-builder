@@ -11,3 +11,4 @@ girafe
 Repitools
 SCArray
 DiffBind
+casper

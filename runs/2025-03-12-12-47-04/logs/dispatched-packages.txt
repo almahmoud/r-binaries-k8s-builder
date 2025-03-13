@@ -1869,3 +1869,4 @@ drugTargetInteractions
 MOSClip
 clipper
 gDRcore
+profileplyr

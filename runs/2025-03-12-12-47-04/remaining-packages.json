@@ -1127,15 +1127,12 @@
     "GenomicFiles"
   ],
   "gDR": [
-    "gDRcore",
     "gDRimport",
     "PharmacoGx"
   ],
-  "gDRcore": [],
   "gDRimport": [
     "PharmacoGx"
   ],
-  "gINTomics": [],
   "geomeTriD": [
     "trackViewer",
     "Gviz",
@@ -1158,7 +1155,6 @@
   "gpuMagic": [],
   "graper": [],
   "gwascat": [],
-  "gwasurvivr": [],
   "hoodscanR": [],
   "hummingbird": [],
   "iCheck": [
@@ -1179,14 +1175,12 @@
     "scater",
     "scuttle"
   ],
-  "icetea": [],
   "ideal": [
     "mosdef",
     "goseq",
     "GOstats",
     "txdbmaker"
   ],
-  "igvR": [],
   "imcRtools": [
     "scuttle",
     "cytomapper"
@@ -1203,10 +1197,8 @@
     "regioneR",
     "biovizBase"
   ],
-  "katdetectr": [],
   "kissDE": [],
   "lemur": [],
-  "lineagespot": [],
   "lisaClust": [
     "spicyR"
   ],
@@ -1294,7 +1286,6 @@
     "scater",
     "scuttle"
   ],
-  "miaSim": [],
   "miaViz": [
     "mia",
     "scater",
@@ -1375,7 +1366,6 @@
   "mygene": [
     "txdbmaker"
   ],
-  "myvariant": [],
   "ncGTW": [
     "xcms",
     "MSnbase"
@@ -1462,9 +1452,7 @@
   "proBAMr": [
     "txdbmaker"
   ],
-  "profileplyr": [
-    "rGREAT"
-  ],
+  "profileplyr": [],
   "psichomics": [
     "recount",
     "derfinder",
@@ -1486,7 +1474,6 @@
     "GEOquery"
   ],
   "rCGH": [],
-  "rGREAT": [],
   "raer": [],
   "recount": [
     "derfinder",
@@ -1523,7 +1510,6 @@
     "txdbmaker",
     "TFBSTools"
   ],
-  "rnaEditr": [],
   "rqt": [],
   "saseR": [
     "ASpli",
@@ -1597,7 +1583,6 @@
   "scone": [
     "RUVSeq"
   ],
-  "scoreInvHap": [],
   "scp": [],
   "scran": [
     "scuttle"
@@ -1616,7 +1601,6 @@
   "selectKSigs": [
     "HiLDA"
   ],
-  "seqCAT": [],
   "shinyMethyl": [
     "minfi",
     "GEOquery"
@@ -1625,7 +1609,6 @@
     "minfi",
     "GEOquery"
   ],
-  "signeR": [],
   "simPIC": [
     "scuttle"
   ],
@@ -1695,13 +1678,11 @@
   "synapter": [
     "MSnbase"
   ],
-  "tLOH": [],
   "tadar": [
     "Gviz",
     "biovizBase"
   ],
   "ternarynet": [],
-  "terraTCGAdata": [],
   "tidySpatialExperiment": [],
   "tidyomics": [],
   "topdownr": [
