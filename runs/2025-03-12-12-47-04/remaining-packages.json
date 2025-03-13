@@ -287,9 +287,7 @@
     "methylumi",
     "VariantAnnotation"
   ],
-  "DaMiRseq": [
-    "EDASeq"
-  ],
+  "DaMiRseq": [],
   "Damsel": [
     "ggbio",
     "goseq",
@@ -328,7 +326,6 @@
     "VariantAnnotation"
   ],
   "EBSeq": [],
-  "EDASeq": [],
   "EGAD": [
     "GEOquery"
   ],
@@ -390,8 +387,7 @@
     "VariantAnnotation"
   ],
   "GARS": [
-    "DaMiRseq",
-    "EDASeq"
+    "DaMiRseq"
   ],
   "GEOexplorer": [
     "GEOquery"
@@ -788,9 +784,7 @@
   "RTCGAToolbox": [
     "TCGAutils"
   ],
-  "RUVSeq": [
-    "EDASeq"
-  ],
+  "RUVSeq": [],
   "RadioGx": [],
   "RareVariantVis": [
     "VariantAnnotation"
@@ -1192,7 +1186,6 @@
     "scuttle"
   ],
   "consensusDE": [
-    "EDASeq",
     "ensembldb",
     "RUVSeq"
   ],
@@ -1585,7 +1578,6 @@
     "MSnbase"
   ],
   "metaseqR2": [
-    "EDASeq",
     "txdbmaker"
   ],
   "methInheritSim": [
@@ -1763,7 +1755,6 @@
   "nnSVG": [],
   "octad": [
     "RUVSeq",
-    "EDASeq",
     "GSVA"
   ],
   "oligo": [
@@ -1902,7 +1893,6 @@
     "txdbmaker"
   ],
   "ribosomeProfilingQC": [
-    "EDASeq",
     "motifStack",
     "RUVSeq",
     "txdbmaker",
@@ -1988,8 +1978,7 @@
     "regioneR"
   ],
   "scone": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "scoreInvHap": [
     "VariantAnnotation"
@@ -2023,7 +2012,6 @@
   "seqCAT": [
     "VariantAnnotation"
   ],
-  "sevenC": [],
   "shinyMethyl": [
     "minfi",
     "bumphunter",
@@ -2099,8 +2087,7 @@
   ],
   "stJoincount": [],
   "standR": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "strandCheckR": [],
   "svaNUMT": [

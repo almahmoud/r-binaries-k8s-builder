@@ -240,6 +240,7 @@ EBSEA
 EBSeq
 EBarrays
 EBcoexpress
+EDASeq
 EDIRquery
 EMDomics
 ERSSA
@@ -1546,6 +1547,7 @@ seqTools
 seqcombo
 seqsetvis
 sesame
+sevenC
 sevenbridges
 shiny.gosling
 sigFeature

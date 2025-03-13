@@ -1655,3 +1655,5 @@ openCyto
 FindIT2
 Guitar
 prebs
+EDASeq
+sevenC
