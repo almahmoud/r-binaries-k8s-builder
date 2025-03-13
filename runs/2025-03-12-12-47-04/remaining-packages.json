@@ -14,7 +14,6 @@
   "ATACseqQC": [
     "ChIPpeakAnno",
     "motifStack",
-    "regioneR",
     "TFBSTools"
   ],
   "ATACseqTFEA": [
@@ -94,7 +93,6 @@
     "scuttle"
   ],
   "CNVfilteR": [
-    "regioneR",
     "karyoploteR",
     "CopyNumberPlots",
     "cn.mops"
@@ -102,7 +100,6 @@
   "CNViz": [
     "karyoploteR",
     "CopyNumberPlots",
-    "regioneR",
     "cn.mops"
   ],
   "CNVrd2": [],
@@ -127,7 +124,6 @@
     "goseq",
     "missMethyl",
     "Gviz",
-    "GEOquery",
     "methylumi",
     "lumi",
     "txdbmaker"
@@ -136,15 +132,12 @@
     "DiffBind"
   ],
   "ChIPXpress": [
-    "GEOquery",
     "frma",
     "oligo",
     "affxparser"
   ],
   "ChIPexoQual": [],
-  "ChIPpeakAnno": [
-    "regioneR"
-  ],
+  "ChIPpeakAnno": [],
   "ChromHeatMap": [],
   "ChromSCape": [
     "batchelor",
@@ -160,11 +153,9 @@
     "scran",
     "scuttle"
   ],
-  "CluMSID": [],
   "CompoundDb": [],
   "CopyNumberPlots": [
     "karyoploteR",
-    "regioneR",
     "cn.mops"
   ],
   "CytoGLMM": [],
@@ -175,22 +166,17 @@
   "CytoPipelineGUI": [
     "CytoPipeline"
   ],
-  "DAPAR": [],
   "DEScan2": [
-    "ChIPpeakAnno",
-    "regioneR"
+    "ChIPpeakAnno"
   ],
   "DEsubs": [
     "EBSeq"
   ],
-  "DExMA": [
-    "GEOquery"
-  ],
+  "DExMA": [],
   "DMRcate": [
     "minfi",
     "missMethyl",
     "Gviz",
-    "GEOquery",
     "methylumi"
   ],
   "Damsel": [
@@ -213,7 +199,6 @@
   ],
   "DrugVsDisease": [
     "ArrayExpress",
-    "GEOquery",
     "oligo",
     "affxparser"
   ],
@@ -221,16 +206,13 @@
     "Gviz"
   ],
   "EBSeq": [],
-  "EGAD": [
-    "GEOquery"
-  ],
+  "EGAD": [],
   "EGSEA": [],
   "ELMER": [
     "Gviz"
   ],
   "ENmix": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "EpiCompare": [],
   "EpiTxDb": [
@@ -261,10 +243,7 @@
   "FastqCleaner": [],
   "GA4GHshiny": [],
   "GARS": [],
-  "GEOexplorer": [
-    "GEOquery"
-  ],
-  "GEOquery": [],
+  "GEOexplorer": [],
   "GLAD": [],
   "GNOSIS": [
     "cBioPortalData"
@@ -274,8 +253,7 @@
     "txdbmaker"
   ],
   "GUIDEseq": [
-    "ChIPpeakAnno",
-    "regioneR"
+    "ChIPpeakAnno"
   ],
   "GeDi": [
     "GeneTonic",
@@ -308,7 +286,6 @@
     "RCAS",
     "txdbmaker"
   ],
-  "GmicR": [],
   "GrafGen": [],
   "Gviz": [],
   "HIBAG": [],
@@ -316,7 +293,6 @@
     "GenomicInteractions",
     "Gviz"
   ],
-  "IMAS": [],
   "IPO": [
     "xcms",
     "CAMERA"
@@ -342,12 +318,10 @@
     "scater",
     "scuttle"
   ],
-  "MADSEQ": [],
   "MAGAR": [
     "RnBeads",
     "methylumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "MAIT": [
     "CAMERA",
@@ -360,13 +334,11 @@
     "minfi",
     "Gviz",
     "missMethyl",
-    "GEOquery",
     "methylumi"
   ],
   "MEAT": [
     "minfi",
     "wateRmelon",
-    "GEOquery",
     "methylumi",
     "lumi"
   ],
@@ -388,10 +360,8 @@
     "scuttle"
   ],
   "MSnID": [
-    "msmsTests",
-    "msmsEDA"
+    "msmsTests"
   ],
-  "MSstatsQCgui": [],
   "MatrixRider": [
     "TFBSTools"
   ],
@@ -406,21 +376,15 @@
     "TFBSTools"
   ],
   "MethylAid": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "MineICA": [
     "lumi",
     "methylumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
-  "Moonlight2R": [
-    "GEOquery"
-  ],
-  "MoonlightR": [
-    "GEOquery"
-  ],
+  "Moonlight2R": [],
+  "MoonlightR": [],
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
@@ -428,7 +392,6 @@
     "motifStack",
     "Gviz",
     "txdbmaker",
-    "regioneR",
     "TFBSTools"
   ],
   "NetPathMiner": [],
@@ -451,11 +414,8 @@
   "PING": [
     "Gviz"
   ],
-  "PRONE": [],
   "PharmacoGx": [],
-  "Prostar": [
-    "DAPAR"
-  ],
+  "Prostar": [],
   "Pviz": [
     "Gviz"
   ],
@@ -471,18 +431,14 @@
     "txdbmaker"
   ],
   "REDseq": [
-    "ChIPpeakAnno",
-    "regioneR"
+    "ChIPpeakAnno"
   ],
   "REMP": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "RESOLVE": [],
-  "RMassBank": [],
   "RNAAgeCalc": [
-    "recount",
-    "GEOquery"
+    "recount"
   ],
   "RNAmodR": [
     "txdbmaker",
@@ -516,9 +472,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "RgnTX": [
-    "regioneR"
-  ],
+  "RgnTX": [],
   "Rhisat2": [
     "txdbmaker"
   ],
@@ -536,33 +490,28 @@
   ],
   "RnBeads": [
     "methylumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "RnaSeqSampleSize": [
-    "recount",
-    "GEOquery"
+    "recount"
   ],
   "Rtreemix": [],
   "SAIGEgds": [],
   "SCAN.UPC": [
     "oligo",
-    "GEOquery",
     "affxparser"
   ],
   "SCArray": [],
   "SCArray.sat": [
     "SCArray"
   ],
-  "SGCP": [],
   "SIAMCAT": [],
   "SMITE": [
     "goseq",
     "txdbmaker"
   ],
   "SOMNiBUS": [
-    "annotatr",
-    "regioneR"
+    "annotatr"
   ],
   "SPIAT": [
     "dittoSeq"
@@ -607,9 +556,7 @@
   "TVTB": [
     "Gviz"
   ],
-  "UMI4Cats": [
-    "regioneR"
-  ],
+  "UMI4Cats": [],
   "Ularcirc": [],
   "Uniquorn": [],
   "VAExprs": [
@@ -652,9 +599,7 @@
     "alabaster.vcf"
   ],
   "alabaster.vcf": [],
-  "annotatr": [
-    "regioneR"
-  ],
+  "annotatr": [],
   "appreci8R": [
     "OrganismDbi",
     "txdbmaker"
@@ -662,17 +607,14 @@
   "arrayMvout": [
     "lumi",
     "methylumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "atSNP": [
     "motifStack",
     "TFBSTools"
   ],
   "attract": [],
-  "bandle": [
-    "pRoloc"
-  ],
+  "bandle": [],
   "batchelor": [
     "scuttle"
   ],
@@ -680,7 +622,6 @@
     "wateRmelon",
     "minfi",
     "methylumi",
-    "GEOquery",
     "lumi"
   ],
   "bioCancer": [
@@ -693,7 +634,6 @@
     "dmrseq",
     "annotatr",
     "OrganismDbi",
-    "regioneR",
     "txdbmaker"
   ],
   "broadSeq": [
@@ -706,11 +646,9 @@
     "txdbmaker"
   ],
   "canceR": [
-    "cBioPortalData",
-    "phenoTest"
+    "cBioPortalData"
   ],
   "casper": [],
-  "categoryCompare": [],
   "cbaf": [
     "cBioPortalData"
   ],
@@ -755,8 +693,7 @@
     "RUVSeq"
   ],
   "conumee": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "cosmiq": [
     "xcms"
@@ -813,8 +750,7 @@
   "deconvR": [
     "methylKit",
     "minfi",
-    "fastseg",
-    "GEOquery"
+    "fastseg"
   ],
   "derfinderPlot": [
     "ggbio",
@@ -828,8 +764,7 @@
   ],
   "dittoSeq": [],
   "dmrseq": [
-    "annotatr",
-    "regioneR"
+    "annotatr"
   ],
   "edge": [],
   "eiR": [],
@@ -842,7 +777,6 @@
     "minfi",
     "Gviz",
     "OrganismDbi",
-    "GEOquery",
     "txdbmaker"
   ],
   "epiregulon": [
@@ -890,12 +824,10 @@
     "Gviz"
   ],
   "fastseg": [],
-  "fcScan": [],
   "ffpe": [
     "lumi",
     "methylumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "flagme": [
     "xcms",
@@ -907,8 +839,7 @@
     "affxparser"
   ],
   "funtooNorm": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "gDR": [
     "gDRimport",
@@ -940,13 +871,11 @@
   "iCheck": [
     "lumi",
     "methylumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "iNETgrate": [
     "minfi",
     "OrganismDbi",
-    "GEOquery",
     "txdbmaker"
   ],
   "iSEEtree": [
@@ -969,13 +898,10 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "karyoploteR": [
-    "regioneR"
-  ],
+  "karyoploteR": [],
   "lumi": [
     "methylumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "lute": [
     "scran",
@@ -1003,21 +929,18 @@
   ],
   "methodical": [
     "annotatr",
-    "regioneR",
     "ExperimentHubData",
     "AnnotationHubData",
     "OrganismDbi",
     "txdbmaker"
   ],
   "methylCC": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "methylGSA": [
     "missMethyl",
     "minfi",
-    "methylumi",
-    "GEOquery"
+    "methylumi"
   ],
   "methylInheritance": [
     "methylKit",
@@ -1032,16 +955,13 @@
   "methylclock": [
     "minfi",
     "ExperimentHubData",
-    "GEOquery",
     "AnnotationHubData",
     "OrganismDbi",
     "txdbmaker"
   ],
   "methylumi": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
-  "miRLAB": [],
   "mia": [
     "scater",
     "scuttle"
@@ -1057,13 +977,10 @@
     "oligo",
     "affxparser"
   ],
-  "minfi": [
-    "GEOquery"
-  ],
+  "minfi": [],
   "missMethyl": [
     "methylumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "mitoClone2": [],
   "monaLisa": [
@@ -1093,13 +1010,9 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "msmsEDA": [],
-  "msmsTests": [
-    "msmsEDA"
-  ],
+  "msmsTests": [],
   "multicrispr": [
-    "karyoploteR",
-    "regioneR"
+    "karyoploteR"
   ],
   "mumosa": [
     "scuttle",
@@ -1125,8 +1038,7 @@
   "netZooR": [
     "yarn",
     "quantro",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "nnSVG": [],
   "octad": [
@@ -1135,13 +1047,9 @@
   "oligo": [
     "affxparser"
   ],
-  "omXplore": [],
   "omicRexposome": [],
   "oppar": [],
-  "pRoloc": [],
-  "pRolocGUI": [
-    "pRoloc"
-  ],
+  "pRolocGUI": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools"
@@ -1158,15 +1066,11 @@
     "affxparser",
     "oligo"
   ],
-  "peakPantheR": [],
   "peco": [
     "scater",
     "scuttle"
   ],
-  "phantasus": [
-    "GEOquery"
-  ],
-  "phenoTest": [],
+  "phantasus": [],
   "pipeComp": [
     "scran",
     "scater",
@@ -1187,36 +1091,25 @@
   ],
   "profileplyr": [],
   "psichomics": [
-    "recount",
-    "GEOquery"
+    "recount"
   ],
-  "ptairMS": [],
   "puma": [
     "oligo",
     "affxparser"
   ],
-  "qPLEXanalyzer": [],
   "quantro": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "rCGH": [],
   "raer": [],
-  "recount": [
-    "GEOquery"
-  ],
+  "recount": [],
   "recountmethylation": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "recoup": [
     "txdbmaker"
   ],
-  "regionReport": [],
-  "regioneR": [],
-  "regioneReloaded": [
-    "regioneR"
-  ],
+  "regioneReloaded": [],
   "regutools": [
     "Gviz"
   ],
@@ -1291,10 +1184,8 @@
   "scater": [
     "scuttle"
   ],
-  "scider": [],
   "scmeth": [
-    "annotatr",
-    "regioneR"
+    "annotatr"
   ],
   "scone": [
     "RUVSeq"
@@ -1312,19 +1203,15 @@
     "scater",
     "scuttle"
   ],
-  "selectKSigs": [],
   "shinyMethyl": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "shinyepico": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "simPIC": [
     "scuttle"
   ],
-  "simpleSeg": [],
   "singleCellTK": [
     "batchelor",
     "scater",
@@ -1343,7 +1230,6 @@
     "methylumi",
     "wateRmelon",
     "minfi",
-    "GEOquery",
     "lumi"
   ],
   "spaSim": [],
@@ -1373,12 +1259,10 @@
   ],
   "svaNUMT": [],
   "svaRetro": [],
-  "synapter": [],
   "tadar": [
     "Gviz"
   ],
   "ternarynet": [],
-  "topdownr": [],
   "trackViewer": [
     "Gviz",
     "txdbmaker"
@@ -1407,20 +1291,17 @@
   ],
   "vulcan": [
     "ChIPpeakAnno",
-    "DiffBind",
-    "regioneR"
+    "DiffBind"
   ],
   "wateRmelon": [
     "methylumi",
     "lumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "xcms": [],
   "xcore": [],
   "yarn": [
     "quantro",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ]
 }

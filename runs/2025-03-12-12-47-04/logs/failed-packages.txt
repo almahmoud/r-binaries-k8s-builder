@@ -12,3 +12,4 @@ Repitools
 SCArray
 DiffBind
 casper
+EpiCompare

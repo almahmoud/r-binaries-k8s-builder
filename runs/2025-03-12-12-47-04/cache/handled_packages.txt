@@ -181,6 +181,7 @@ Chicago
 ClassifyR
 CleanUpRNAseq
 Clomial
+CluMSID
 ClustAll
 ClustIRR
 ClusterFoldSimilarity
@@ -202,6 +203,7 @@ CytoDx
 CytoGLMM
 CytoML
 DAMEfinder
+DAPAR
 DART
 DCATS
 DECIPHER
@@ -273,6 +275,7 @@ EnhancedVolcano
 EnrichDO
 EnrichedHeatmap
 EnrichmentBrowser
+EpiCompare
 EpiDISH
 EpiMix
 EpipwR
@@ -303,6 +306,7 @@ GENESIS
 GENIE3
 GEOfastq
 GEOmetadb
+GEOquery
 GEOsubmission
 GEWIST
 GGPA
@@ -364,6 +368,7 @@ GladiaTOX
 Glimma
 GloScope
 GlobalAncova
+GmicR
 GrafGen
 GraphAT
 GraphAlignment
@@ -408,6 +413,7 @@ HybridMTest
 IFAA
 IHW
 ILoReg
+IMAS
 IMMAN
 IMPCdata
 INDEED
@@ -457,6 +463,7 @@ LymphoSeq
 M3C
 MACSQuantifyR
 MACSr
+MADSEQ
 MAGeCKFlute
 MAI
 MAPFX
@@ -499,6 +506,7 @@ MSstatsLOBD
 MSstatsLiP
 MSstatsPTM
 MSstatsQC
+MSstatsQCgui
 MSstatsShiny
 MSstatsTMT
 MVCClass
@@ -616,6 +624,7 @@ POWSC
 PPInfer
 PREDA
 PROMISE
+PRONE
 PROPER
 PROPS
 PROcess
@@ -674,6 +683,7 @@ RImmPort
 RJMCMCNucleosomes
 RLMM
 RLassoCox
+RMassBank
 RNASeqPower
 RNAdecay
 RNAsense
@@ -755,6 +765,7 @@ SCnorm
 SDAMS
 SELEX
 SEtools
+SGCP
 SGSeq
 SICtools
 SIM
@@ -999,6 +1010,7 @@ calm
 cancerclass
 cardelino
 casper
+categoryCompare
 cbpManager
 ccImpute
 ccfindR
@@ -1160,6 +1172,7 @@ famat
 fastLiquidAssociation
 fastreeR
 fastseg
+fcScan
 fdrame
 fedup
 fenr
@@ -1406,6 +1419,7 @@ mfa
 mgsa
 miQC
 miRBaseConverter
+miRLAB
 miRNAmeConverter
 miRNApath
 miRNAtap
@@ -1441,6 +1455,7 @@ mpra
 msPurity
 msa
 mslp
+msmsEDA
 msqrob2
 multiClust
 multiGSEA
@@ -1476,6 +1491,7 @@ nullranges
 occugene
 odseq
 oligoClasses
+omXplore
 omada
 omicade4
 omicplotR
@@ -1493,6 +1509,7 @@ oppti
 optimalFlow
 orthogene
 orthos
+pRoloc
 packFinder
 padma
 paircompviz
@@ -1509,6 +1526,7 @@ pathlinkR
 pathview
 pathwayPCA
 pcaMethods
+peakPantheR
 pengls
 pepStat
 pepXMLTab
@@ -1517,6 +1535,7 @@ pfamAnalyzeR
 pgca
 pgxRpi
 phantasusLite
+phenoTest
 phenomis
 phenopath
 philr
@@ -1552,9 +1571,11 @@ progeny
 projectR
 protGear
 proteinProfiles
+ptairMS
 pvac
 pvca
 pwalign
+qPLEXanalyzer
 qckitfastq
 qcmetrics
 qmtools
@@ -1592,7 +1613,9 @@ rebook
 receptLoss
 reconsi
 recount3
+regionReport
 regionalpcs
+regioneR
 regsplice
 retrofit
 rexposome
@@ -1661,6 +1684,7 @@ sccomp
 scde
 scds
 schex
+scider
 scifer
 scmap
 scoreInvHap
@@ -1673,6 +1697,7 @@ seahtrue
 sechm
 segmentSeq
 segmenter
+selectKSigs
 semisup
 seq.hotSPOT
 seq2pathway
@@ -1696,6 +1721,7 @@ signeR
 sigsquared
 similaRpeak
 simona
+simpleSeg
 simplifyEnrichment
 sincell
 singscore
@@ -1749,6 +1775,7 @@ swfdr
 switchBox
 switchde
 synapsis
+synapter
 synergyfinder
 synlet
 syntenet
@@ -1784,6 +1811,7 @@ tomoda
 tomoseqr
 topGO
 topconfects
+topdownr
 tpSVG
 tracktables
 tradeSeq
