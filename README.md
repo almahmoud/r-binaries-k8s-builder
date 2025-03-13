@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1403 packages built successfully
+- 1407 packages built successfully
 - 22 packages failed to build
-- 808 packages not yet processed
+- 804 packages not yet processed
 
 ## Failed Builds (22)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -34,7 +34,7 @@
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 
-## Successfully Built (1403)
+## Successfully Built (1407)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1440,8 +1440,12 @@
 | [consensusSeekeR](https://bioconductor.org/packages/3.20/bioc/html/consensusSeekeR.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/consensusSeekeR/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/consensusSeekeR)            |
 | [dada2](https://bioconductor.org/packages/3.20/bioc/html/dada2.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/dada2/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dada2)                      |
 | [scTGIF](https://bioconductor.org/packages/3.20/bioc/html/scTGIF.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/scTGIF/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scTGIF)                     |
+| [chipseq](https://bioconductor.org/packages/3.20/bioc/html/chipseq.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/chipseq/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/chipseq)                    |
+| [consICA](https://bioconductor.org/packages/3.20/bioc/html/consICA.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/consICA/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/consICA)                    |
+| [easyRNASeq](https://bioconductor.org/packages/3.20/bioc/html/easyRNASeq.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/easyRNASeq/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/easyRNASeq)                 |
+| [easylift](https://bioconductor.org/packages/3.20/bioc/html/easylift.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/easylift/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/easylift)                   |
 
-## Not Yet Processed (808)
+## Not Yet Processed (804)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1863,7 +1867,6 @@
 | [cfTools](https://bioconductor.org/packages/3.20/bioc/html/cfTools.html)                                         | Unprocessed |
 | [chimeraviz](https://bioconductor.org/packages/3.20/bioc/html/chimeraviz.html)                                   | Unprocessed |
 | [chipenrich](https://bioconductor.org/packages/3.20/bioc/html/chipenrich.html)                                   | Unprocessed |
-| [chipseq](https://bioconductor.org/packages/3.20/bioc/html/chipseq.html)                                         | Unprocessed |
 | [chromVAR](https://bioconductor.org/packages/3.20/bioc/html/chromVAR.html)                                       | Unprocessed |
 | [chromstaR](https://bioconductor.org/packages/3.20/bioc/html/chromstaR.html)                                     | Unprocessed |
 | [cicero](https://bioconductor.org/packages/3.20/bioc/html/cicero.html)                                           | Unprocessed |
@@ -1879,7 +1882,6 @@
 | [compEpiTools](https://bioconductor.org/packages/3.20/bioc/html/compEpiTools.html)                               | Unprocessed |
 | [concordexR](https://bioconductor.org/packages/3.20/bioc/html/concordexR.html)                                   | Unprocessed |
 | [condiments](https://bioconductor.org/packages/3.20/bioc/html/condiments.html)                                   | Unprocessed |
-| [consICA](https://bioconductor.org/packages/3.20/bioc/html/consICA.html)                                         | Unprocessed |
 | [consensusDE](https://bioconductor.org/packages/3.20/bioc/html/consensusDE.html)                                 | Unprocessed |
 | [conumee](https://bioconductor.org/packages/3.20/bioc/html/conumee.html)                                         | Unprocessed |
 | [corral](https://bioconductor.org/packages/3.20/bioc/html/corral.html)                                           | Unprocessed |
@@ -1921,8 +1923,6 @@
 | [dreamlet](https://bioconductor.org/packages/3.20/bioc/html/dreamlet.html)                                       | Unprocessed |
 | [drugTargetInteractions](https://bioconductor.org/packages/3.20/bioc/html/drugTargetInteractions.html)           | Unprocessed |
 | [easier](https://bioconductor.org/packages/3.20/bioc/html/easier.html)                                           | Unprocessed |
-| [easyRNASeq](https://bioconductor.org/packages/3.20/bioc/html/easyRNASeq.html)                                   | Unprocessed |
-| [easylift](https://bioconductor.org/packages/3.20/bioc/html/easylift.html)                                       | Unprocessed |
 | [edge](https://bioconductor.org/packages/3.20/bioc/html/edge.html)                                               | Unprocessed |
 | [enhancerHomologSearch](https://bioconductor.org/packages/3.20/bioc/html/enhancerHomologSearch.html)             | Unprocessed |
 | [ensembldb](https://bioconductor.org/packages/3.20/bioc/html/ensembldb.html)                                     | Unprocessed |

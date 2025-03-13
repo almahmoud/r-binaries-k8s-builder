@@ -799,6 +799,7 @@ censcyt
 cfdnakit
 cghMCR
 chihaya
+chipseq
 chopsticks
 chromDraw
 chromPlot
@@ -825,6 +826,7 @@ cola
 combi
 compSPOT
 compcodeR
+consICA
 consensus
 consensusSeekeR
 convert
@@ -878,6 +880,8 @@ doseR
 drawProteins
 dupRadar
 dyebias
+easyRNASeq
+easylift
 easyreporting
 ecolitk
 edgeR

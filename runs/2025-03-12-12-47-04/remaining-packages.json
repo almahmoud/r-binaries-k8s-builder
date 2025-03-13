@@ -274,7 +274,6 @@
   "ChIPComp": [],
   "ChIPQC": [
     "DiffBind",
-    "chipseq",
     "GenomicFeatures",
     "systemPipeR",
     "GreyListChIP"
@@ -1705,7 +1704,6 @@
     "VariantAnnotation"
   ],
   "chipenrich": [],
-  "chipseq": [],
   "chromVAR": [
     "TFBSTools",
     "CNEr"
@@ -1774,7 +1772,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "consICA": [],
   "consensusDE": [
     "EDASeq",
     "ensembldb",
@@ -1965,8 +1962,6 @@
     "GenomicFeatures"
   ],
   "easier": [],
-  "easyRNASeq": [],
-  "easylift": [],
   "edge": [],
   "eiR": [],
   "enhancerHomologSearch": [
@@ -2525,7 +2520,6 @@
     "BiocSingular"
   ],
   "msgbsR": [
-    "easyRNASeq",
     "GenomicFeatures",
     "ggbio",
     "biovizBase",
@@ -2753,8 +2747,7 @@
     "soGGi",
     "ChIPseeker",
     "GenomicFeatures",
-    "rGREAT",
-    "chipseq"
+    "rGREAT"
   ],
   "psichomics": [
     "recount",
@@ -3078,9 +3071,7 @@
   "smoothclust": [
     "SpatialExperiment"
   ],
-  "soGGi": [
-    "chipseq"
-  ],
+  "soGGi": [],
   "spaSim": [
     "SpatialExperiment"
   ],
@@ -3204,7 +3195,6 @@
     "slingshot"
   ],
   "transcriptR": [
-    "chipseq",
     "GenomicFeatures"
   ],
   "transcriptogramer": [],
