@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1953 packages built successfully
+- 1954 packages built successfully
 - 29 packages failed to build
-- 251 packages not yet processed
+- 250 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -41,7 +41,7 @@
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 
-## Successfully Built (1953)
+## Successfully Built (1954)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1997,8 +1997,9 @@
 | [Rhisat2](https://bioconductor.org/packages/3.20/bioc/html/Rhisat2.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/Rhisat2/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rhisat2)                     |
 | [UMI4Cats](https://bioconductor.org/packages/3.20/bioc/html/UMI4Cats.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/UMI4Cats/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/UMI4Cats)                    |
 | [rCGH](https://bioconductor.org/packages/3.20/bioc/html/rCGH.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/rCGH/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rCGH)                        |
+| [ExperimentSubset](https://bioconductor.org/packages/3.20/bioc/html/ExperimentSubset.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/ExperimentSubset/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ExperimentSubset)            |
 
-## Not Yet Processed (251)
+## Not Yet Processed (250)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2047,7 +2048,6 @@
 | [ENmix](https://bioconductor.org/packages/3.20/bioc/html/ENmix.html)                                           | Unprocessed |
 | [EventPointer](https://bioconductor.org/packages/3.20/bioc/html/EventPointer.html)                             | Unprocessed |
 | [ExperimentHubData](https://bioconductor.org/packages/3.20/bioc/html/ExperimentHubData.html)                   | Unprocessed |
-| [ExperimentSubset](https://bioconductor.org/packages/3.20/bioc/html/ExperimentSubset.html)                     | Unprocessed |
 | [FLAMES](https://bioconductor.org/packages/3.20/bioc/html/FLAMES.html)                                         | Unprocessed |
 | [FRASER](https://bioconductor.org/packages/3.20/bioc/html/FRASER.html)                                         | Unprocessed |
 | [GSReg](https://bioconductor.org/packages/3.20/bioc/html/GSReg.html)                                           | Unprocessed |

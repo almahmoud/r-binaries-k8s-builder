@@ -298,6 +298,7 @@ EpipwR
 ExCluster
 ExiMiR
 ExperimentHub
+ExperimentSubset
 ExploreModelMatrix
 ExpressionAtlas
 FEAST
