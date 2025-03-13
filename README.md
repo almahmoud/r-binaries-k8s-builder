@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1646 packages built successfully
+- 1647 packages built successfully
 - 24 packages failed to build
-- 563 packages not yet processed
+- 562 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1646)
+## Successfully Built (1647)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1685,8 +1685,9 @@
 | [transcriptogramer](https://bioconductor.org/packages/3.20/bioc/html/transcriptogramer.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/transcriptogramer/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/transcriptogramer)          |
 | [VaSP](https://bioconductor.org/packages/3.20/bioc/html/VaSP.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/VaSP/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VaSP)                       |
 | [iCNV](https://bioconductor.org/packages/3.20/bioc/html/iCNV.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/iCNV/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iCNV)                       |
+| [chromstaR](https://bioconductor.org/packages/3.20/bioc/html/chromstaR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/chromstaR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/chromstaR)                  |
 
-## Not Yet Processed (563)
+## Not Yet Processed (562)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1984,7 +1985,6 @@
 | [celda](https://bioconductor.org/packages/3.20/bioc/html/celda.html)                                             | Unprocessed |
 | [chimeraviz](https://bioconductor.org/packages/3.20/bioc/html/chimeraviz.html)                                   | Unprocessed |
 | [chromVAR](https://bioconductor.org/packages/3.20/bioc/html/chromVAR.html)                                       | Unprocessed |
-| [chromstaR](https://bioconductor.org/packages/3.20/bioc/html/chromstaR.html)                                     | Unprocessed |
 | [cicero](https://bioconductor.org/packages/3.20/bioc/html/cicero.html)                                           | Unprocessed |
 | [circRNAprofiler](https://bioconductor.org/packages/3.20/bioc/html/circRNAprofiler.html)                         | Unprocessed |
 | [clipper](https://bioconductor.org/packages/3.20/bioc/html/clipper.html)                                         | Unprocessed |

@@ -1644,3 +1644,4 @@
 ['[transcriptogramer](https://bioconductor.org/packages/3.20/bioc/html/transcriptogramer.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/transcriptogramer/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/transcriptogramer)']
 ['[VaSP](https://bioconductor.org/packages/3.20/bioc/html/VaSP.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/VaSP/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VaSP)']
 ['[iCNV](https://bioconductor.org/packages/3.20/bioc/html/iCNV.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/iCNV/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iCNV)']
+['[chromstaR](https://bioconductor.org/packages/3.20/bioc/html/chromstaR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/chromstaR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/chromstaR)']

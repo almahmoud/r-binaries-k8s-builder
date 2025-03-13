@@ -928,6 +928,7 @@ chipseq
 chopsticks
 chromDraw
 chromPlot
+chromstaR
 cisPath
 cleanUpdTSeq
 cleaver
