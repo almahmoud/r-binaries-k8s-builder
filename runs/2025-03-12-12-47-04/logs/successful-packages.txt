@@ -2037,3 +2037,5 @@ CellMixS
 CircSeqAlignTk
 CiteFuse
 Voyager
+CAGEr
+ChromSCape

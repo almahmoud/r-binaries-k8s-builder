@@ -18,7 +18,6 @@
   "BatchQC": [
     "EBSeq"
   ],
-  "CAGEr": [],
   "CAMERA": [
     "xcms"
   ],
@@ -49,7 +48,6 @@
     "oligo",
     "affxparser"
   ],
-  "ChromSCape": [],
   "CopyNumberPlots": [
     "cn.mops"
   ],

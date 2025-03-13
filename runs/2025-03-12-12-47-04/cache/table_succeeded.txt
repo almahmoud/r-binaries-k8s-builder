@@ -2037,3 +2037,5 @@
 ['[CircSeqAlignTk](https://bioconductor.org/packages/3.20/bioc/html/CircSeqAlignTk.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CircSeqAlignTk/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CircSeqAlignTk)']
 ['[CiteFuse](https://bioconductor.org/packages/3.20/bioc/html/CiteFuse.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CiteFuse/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CiteFuse)']
 ['[Voyager](https://bioconductor.org/packages/3.20/bioc/html/Voyager.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Voyager/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Voyager)']
+['[CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CAGEr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CAGEr)']
+['[ChromSCape](https://bioconductor.org/packages/3.20/bioc/html/ChromSCape.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ChromSCape/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ChromSCape)']

@@ -123,6 +123,7 @@ BumpyMatrix
 CAEN
 CAFE
 CAGEfightR
+CAGEr
 CARNIVAL
 CBEA
 CBNplot
@@ -195,6 +196,7 @@ ChemmineOB
 ChemmineR
 Chicago
 ChromHeatMap
+ChromSCape
 CircSeqAlignTk
 CiteFuse
 ClassifyR

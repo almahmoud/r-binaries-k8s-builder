@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2039 packages built successfully
+- 2041 packages built successfully
 - 30 packages failed to build
-- 164 packages not yet processed
+- 162 packages not yet processed
 
 ## Failed Builds (30)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -42,7 +42,7 @@
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/bandle/build-fail.log)        | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bandle)     | Build failed with unknown error     |
 
-## Successfully Built (2039)
+## Successfully Built (2041)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2084,8 +2084,10 @@
 | [CircSeqAlignTk](https://bioconductor.org/packages/3.20/bioc/html/CircSeqAlignTk.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/CircSeqAlignTk/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CircSeqAlignTk)              |
 | [CiteFuse](https://bioconductor.org/packages/3.20/bioc/html/CiteFuse.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/CiteFuse/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CiteFuse)                    |
 | [Voyager](https://bioconductor.org/packages/3.20/bioc/html/Voyager.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/Voyager/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Voyager)                     |
+| [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/CAGEr/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CAGEr)                       |
+| [ChromSCape](https://bioconductor.org/packages/3.20/bioc/html/ChromSCape.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/ChromSCape/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ChromSCape)                  |
 
-## Not Yet Processed (164)
+## Not Yet Processed (162)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2097,7 +2099,6 @@
 | [BASiCStan](https://bioconductor.org/packages/3.20/bioc/html/BASiCStan.html)                                   | Unprocessed |
 | [BOBaFIT](https://bioconductor.org/packages/3.20/bioc/html/BOBaFIT.html)                                       | Unprocessed |
 | [BatchQC](https://bioconductor.org/packages/3.20/bioc/html/BatchQC.html)                                       | Unprocessed |
-| [CAGEr](https://bioconductor.org/packages/3.20/bioc/html/CAGEr.html)                                           | Unprocessed |
 | [CAMERA](https://bioconductor.org/packages/3.20/bioc/html/CAMERA.html)                                         | Unprocessed |
 | [CATALYST](https://bioconductor.org/packages/3.20/bioc/html/CATALYST.html)                                     | Unprocessed |
 | [CNVfilteR](https://bioconductor.org/packages/3.20/bioc/html/CNVfilteR.html)                                   | Unprocessed |
@@ -2107,7 +2108,6 @@
 | [ChAMP](https://bioconductor.org/packages/3.20/bioc/html/ChAMP.html)                                           | Unprocessed |
 | [ChIPQC](https://bioconductor.org/packages/3.20/bioc/html/ChIPQC.html)                                         | Unprocessed |
 | [ChIPXpress](https://bioconductor.org/packages/3.20/bioc/html/ChIPXpress.html)                                 | Unprocessed |
-| [ChromSCape](https://bioconductor.org/packages/3.20/bioc/html/ChromSCape.html)                                 | Unprocessed |
 | [CopyNumberPlots](https://bioconductor.org/packages/3.20/bioc/html/CopyNumberPlots.html)                       | Unprocessed |
 | [DEsubs](https://bioconductor.org/packages/3.20/bioc/html/DEsubs.html)                                         | Unprocessed |
 | [DMRcate](https://bioconductor.org/packages/3.20/bioc/html/DMRcate.html)                                       | Unprocessed |
