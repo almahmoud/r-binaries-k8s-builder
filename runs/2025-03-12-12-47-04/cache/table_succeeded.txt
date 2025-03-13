@@ -1648,3 +1648,5 @@
 ['[HicAggR](https://bioconductor.org/packages/3.20/bioc/html/HicAggR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/HicAggR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HicAggR)']
 ['[CSSQ](https://bioconductor.org/packages/3.20/bioc/html/CSSQ.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CSSQ/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CSSQ)']
 ['[goSorensen](https://bioconductor.org/packages/3.20/bioc/html/goSorensen.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/goSorensen/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/goSorensen)']
+['[DNAfusion](https://bioconductor.org/packages/3.20/bioc/html/DNAfusion.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/DNAfusion/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DNAfusion)']
+['[PeacoQC](https://bioconductor.org/packages/3.20/bioc/html/PeacoQC.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/PeacoQC/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PeacoQC)']

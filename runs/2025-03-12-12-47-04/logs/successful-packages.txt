@@ -1648,3 +1648,5 @@ chromstaR
 HicAggR
 CSSQ
 goSorensen
+DNAfusion
+PeacoQC

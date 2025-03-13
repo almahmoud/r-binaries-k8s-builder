@@ -208,6 +208,7 @@ DMRcaller
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
+DNAfusion
 DNAshapeR
 DOSE
 DRIMSeq
@@ -573,6 +574,7 @@ PanomiR
 Path2PPI
 PathNet
 PathoStat
+PeacoQC
 Pedixplorer
 PepSetTest
 PepsNMR

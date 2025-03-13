@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1650 packages built successfully
+- 1652 packages built successfully
 - 24 packages failed to build
-- 559 packages not yet processed
+- 557 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1650)
+## Successfully Built (1652)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1689,8 +1689,10 @@
 | [HicAggR](https://bioconductor.org/packages/3.20/bioc/html/HicAggR.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/HicAggR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HicAggR)                    |
 | [CSSQ](https://bioconductor.org/packages/3.20/bioc/html/CSSQ.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/CSSQ/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CSSQ)                       |
 | [goSorensen](https://bioconductor.org/packages/3.20/bioc/html/goSorensen.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/goSorensen/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/goSorensen)                 |
+| [DNAfusion](https://bioconductor.org/packages/3.20/bioc/html/DNAfusion.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/DNAfusion/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DNAfusion)                  |
+| [PeacoQC](https://bioconductor.org/packages/3.20/bioc/html/PeacoQC.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/PeacoQC/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PeacoQC)                    |
 
-## Not Yet Processed (559)
+## Not Yet Processed (557)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1761,7 +1763,6 @@
 | [DEsubs](https://bioconductor.org/packages/3.20/bioc/html/DEsubs.html)                                           | Unprocessed |
 | [DExMA](https://bioconductor.org/packages/3.20/bioc/html/DExMA.html)                                             | Unprocessed |
 | [DMRcate](https://bioconductor.org/packages/3.20/bioc/html/DMRcate.html)                                         | Unprocessed |
-| [DNAfusion](https://bioconductor.org/packages/3.20/bioc/html/DNAfusion.html)                                     | Unprocessed |
 | [DaMiRseq](https://bioconductor.org/packages/3.20/bioc/html/DaMiRseq.html)                                       | Unprocessed |
 | [Damsel](https://bioconductor.org/packages/3.20/bioc/html/Damsel.html)                                           | Unprocessed |
 | [DeMixT](https://bioconductor.org/packages/3.20/bioc/html/DeMixT.html)                                           | Unprocessed |
@@ -1868,7 +1869,6 @@
 | [OutSplice](https://bioconductor.org/packages/3.20/bioc/html/OutSplice.html)                                     | Unprocessed |
 | [PING](https://bioconductor.org/packages/3.20/bioc/html/PING.html)                                               | Unprocessed |
 | [PRONE](https://bioconductor.org/packages/3.20/bioc/html/PRONE.html)                                             | Unprocessed |
-| [PeacoQC](https://bioconductor.org/packages/3.20/bioc/html/PeacoQC.html)                                         | Unprocessed |
 | [PharmacoGx](https://bioconductor.org/packages/3.20/bioc/html/PharmacoGx.html)                                   | Unprocessed |
 | [PrInCE](https://bioconductor.org/packages/3.20/bioc/html/PrInCE.html)                                           | Unprocessed |
 | [Prostar](https://bioconductor.org/packages/3.20/bioc/html/Prostar.html)                                         | Unprocessed |

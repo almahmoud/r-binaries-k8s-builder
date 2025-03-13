@@ -248,18 +248,14 @@
   ],
   "CytoGLMM": [],
   "CytoMDS": [
-    "CytoPipeline",
-    "PeacoQC"
+    "CytoPipeline"
   ],
   "CytoML": [
     "openCyto"
   ],
-  "CytoPipeline": [
-    "PeacoQC"
-  ],
+  "CytoPipeline": [],
   "CytoPipelineGUI": [
-    "CytoPipeline",
-    "PeacoQC"
+    "CytoPipeline"
   ],
   "DAMEfinder": [
     "VariantAnnotation",
@@ -294,7 +290,6 @@
     "methylumi",
     "VariantAnnotation"
   ],
-  "DNAfusion": [],
   "DaMiRseq": [
     "EDASeq"
   ],
@@ -693,7 +688,6 @@
   "PRONE": [
     "MSnbase"
   ],
-  "PeacoQC": [],
   "PharmacoGx": [],
   "PrInCE": [
     "MSnbase"
