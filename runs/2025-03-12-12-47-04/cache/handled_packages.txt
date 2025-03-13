@@ -73,6 +73,7 @@ BiGGR
 BiRewire
 BiSeq
 BicARE
+BindingSiteFinder
 BioCartaImage
 BioCor
 BioGA
@@ -1356,6 +1357,7 @@ oncomix
 oncoscanR
 onlineFDR
 ontoProc
+openCyto
 openPrimeR
 oposSOM
 oppti

@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1652 packages built successfully
+- 1654 packages built successfully
 - 24 packages failed to build
-- 557 packages not yet processed
+- 555 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1652)
+## Successfully Built (1654)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1691,8 +1691,10 @@
 | [goSorensen](https://bioconductor.org/packages/3.20/bioc/html/goSorensen.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/goSorensen/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/goSorensen)                 |
 | [DNAfusion](https://bioconductor.org/packages/3.20/bioc/html/DNAfusion.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/DNAfusion/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DNAfusion)                  |
 | [PeacoQC](https://bioconductor.org/packages/3.20/bioc/html/PeacoQC.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/PeacoQC/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PeacoQC)                    |
+| [BindingSiteFinder](https://bioconductor.org/packages/3.20/bioc/html/BindingSiteFinder.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/BindingSiteFinder/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BindingSiteFinder)          |
+| [openCyto](https://bioconductor.org/packages/3.20/bioc/html/openCyto.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/openCyto/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/openCyto)                   |
 
-## Not Yet Processed (557)
+## Not Yet Processed (555)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1715,7 +1717,6 @@
 | [BatchQC](https://bioconductor.org/packages/3.20/bioc/html/BatchQC.html)                                         | Unprocessed |
 | [BayesSpace](https://bioconductor.org/packages/3.20/bioc/html/BayesSpace.html)                                   | Unprocessed |
 | [BgeeCall](https://bioconductor.org/packages/3.20/bioc/html/BgeeCall.html)                                       | Unprocessed |
-| [BindingSiteFinder](https://bioconductor.org/packages/3.20/bioc/html/BindingSiteFinder.html)                     | Unprocessed |
 | [BioTIP](https://bioconductor.org/packages/3.20/bioc/html/BioTIP.html)                                           | Unprocessed |
 | [BubbleTree](https://bioconductor.org/packages/3.20/bioc/html/BubbleTree.html)                                   | Unprocessed |
 | [CAFE](https://bioconductor.org/packages/3.20/bioc/html/CAFE.html)                                               | Unprocessed |
@@ -2134,7 +2135,6 @@
 | [oligo](https://bioconductor.org/packages/3.20/bioc/html/oligo.html)                                             | Unprocessed |
 | [omXplore](https://bioconductor.org/packages/3.20/bioc/html/omXplore.html)                                       | Unprocessed |
 | [omicRexposome](https://bioconductor.org/packages/3.20/bioc/html/omicRexposome.html)                             | Unprocessed |
-| [openCyto](https://bioconductor.org/packages/3.20/bioc/html/openCyto.html)                                       | Unprocessed |
 | [oppar](https://bioconductor.org/packages/3.20/bioc/html/oppar.html)                                             | Unprocessed |
 | [pRoloc](https://bioconductor.org/packages/3.20/bioc/html/pRoloc.html)                                           | Unprocessed |
 | [pRolocGUI](https://bioconductor.org/packages/3.20/bioc/html/pRolocGUI.html)                                     | Unprocessed |

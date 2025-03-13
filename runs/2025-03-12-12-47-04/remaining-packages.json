@@ -93,7 +93,6 @@
   "BgeeCall": [
     "txdbmaker"
   ],
-  "BindingSiteFinder": [],
   "BioTIP": [
     "scran",
     "scuttle"
@@ -250,9 +249,7 @@
   "CytoMDS": [
     "CytoPipeline"
   ],
-  "CytoML": [
-    "openCyto"
-  ],
+  "CytoML": [],
   "CytoPipeline": [],
   "CytoPipelineGUI": [
     "CytoPipeline"
@@ -1778,7 +1775,6 @@
     "MSnbase"
   ],
   "omicRexposome": [],
-  "openCyto": [],
   "oppar": [
     "GSVA"
   ],
