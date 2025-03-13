@@ -1175,3 +1175,6 @@ IFAA
 MBASED
 netboost
 sSNAPPY
+AMARETTO
+MACSr
+Pirat

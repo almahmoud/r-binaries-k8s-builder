@@ -4,6 +4,7 @@ ACME
 AGDEX
 AIMS
 ALDEx2
+AMARETTO
 AMOUNTAIN
 ANCOMBC
 ANF
@@ -304,6 +305,7 @@ Linnorm
 LiquidAssociation
 M3C
 MACSQuantifyR
+MACSr
 MAGeCKFlute
 MAPFX
 MBASED
@@ -423,6 +425,7 @@ PepsNMR
 PhIPData
 PhenStat
 PhenoGeneRanker
+Pirat
 PoDCall
 PolySTest
 ProtGenerics
