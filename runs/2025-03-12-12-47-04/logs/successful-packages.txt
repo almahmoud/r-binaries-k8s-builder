@@ -1393,3 +1393,5 @@ basecallQC
 biocGraph
 celaref
 TSCAN
+BSgenome
+miRSM

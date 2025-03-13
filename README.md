@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1395 packages built successfully
+- 1397 packages built successfully
 - 22 packages failed to build
-- 816 packages not yet processed
+- 814 packages not yet processed
 
 ## Failed Builds (22)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -34,7 +34,7 @@
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 
-## Successfully Built (1395)
+## Successfully Built (1397)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1432,8 +1432,10 @@
 | [TSCAN](https://bioconductor.org/packages/3.20/bioc/html/TSCAN.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/TSCAN/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TSCAN)                      |
 | [biocGraph](https://bioconductor.org/packages/3.20/bioc/html/biocGraph.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/biocGraph/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biocGraph)                  |
 | [celaref](https://bioconductor.org/packages/3.20/bioc/html/celaref.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/celaref/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/celaref)                    |
+| [BSgenome](https://bioconductor.org/packages/3.20/bioc/html/BSgenome.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/BSgenome/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BSgenome)                   |
+| [miRSM](https://bioconductor.org/packages/3.20/bioc/html/miRSM.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/miRSM/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miRSM)                      |
 
-## Not Yet Processed (816)
+## Not Yet Processed (814)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1454,7 +1456,6 @@
 | [BBCAnalyzer](https://bioconductor.org/packages/3.20/bioc/html/BBCAnalyzer.html)                                 | Unprocessed |
 | [BEAT](https://bioconductor.org/packages/3.20/bioc/html/BEAT.html)                                               | Unprocessed |
 | [BOBaFIT](https://bioconductor.org/packages/3.20/bioc/html/BOBaFIT.html)                                         | Unprocessed |
-| [BSgenome](https://bioconductor.org/packages/3.20/bioc/html/BSgenome.html)                                       | Unprocessed |
 | [BSgenomeForge](https://bioconductor.org/packages/3.20/bioc/html/BSgenomeForge.html)                             | Unprocessed |
 | [BUSpaRse](https://bioconductor.org/packages/3.20/bioc/html/BUSpaRse.html)                                       | Unprocessed |
 | [BadRegionFinder](https://bioconductor.org/packages/3.20/bioc/html/BadRegionFinder.html)                         | Unprocessed |
@@ -2035,7 +2036,6 @@
 | [methylumi](https://bioconductor.org/packages/3.20/bioc/html/methylumi.html)                                     | Unprocessed |
 | [miQC](https://bioconductor.org/packages/3.20/bioc/html/miQC.html)                                               | Unprocessed |
 | [miRLAB](https://bioconductor.org/packages/3.20/bioc/html/miRLAB.html)                                           | Unprocessed |
-| [miRSM](https://bioconductor.org/packages/3.20/bioc/html/miRSM.html)                                             | Unprocessed |
 | [miRspongeR](https://bioconductor.org/packages/3.20/bioc/html/miRspongeR.html)                                   | Unprocessed |
 | [mia](https://bioconductor.org/packages/3.20/bioc/html/mia.html)                                                 | Unprocessed |
 | [miaSim](https://bioconductor.org/packages/3.20/bioc/html/miaSim.html)                                           | Unprocessed |

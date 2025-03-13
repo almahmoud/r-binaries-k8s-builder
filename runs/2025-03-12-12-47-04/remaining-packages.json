@@ -11,8 +11,7 @@
   "APAlyzer": [
     "GenomicFeatures",
     "DESeq2",
-    "VariantAnnotation",
-    "BSgenome"
+    "VariantAnnotation"
   ],
   "APL": [],
   "ASpli": [
@@ -20,12 +19,10 @@
     "Gviz",
     "txdbmaker",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
   "ATACseqQC": [
-    "BSgenome",
     "ChIPpeakAnno",
     "motifStack",
     "GenomicFeatures",
@@ -37,7 +34,6 @@
   "ATACseqTFEA": [
     "motifmatchr",
     "TFBSTools",
-    "BSgenome",
     "CNEr"
   ],
   "AffiXcan": [],
@@ -50,7 +46,6 @@
     "Category",
     "ggbio",
     "biovizBase",
-    "BSgenome",
     "VariantAnnotation",
     "GenomicFeatures",
     "OrganismDbi",
@@ -58,7 +53,6 @@
     "txdbmaker"
   ],
   "AllelicImbalance": [
-    "BSgenome",
     "VariantAnnotation",
     "GenomicFeatures",
     "Gviz",
@@ -91,44 +85,33 @@
   ],
   "BBCAnalyzer": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
-  "BEAT": [
-    "BSgenome"
-  ],
+  "BEAT": [],
   "BOBaFIT": [
     "ggbio",
     "plyranges",
     "biovizBase",
-    "BSgenome",
     "VariantAnnotation",
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
     "txdbmaker"
   ],
-  "BSgenome": [],
-  "BSgenomeForge": [
-    "BSgenome"
-  ],
+  "BSgenomeForge": [],
   "BUSpaRse": [
-    "BSgenome",
     "ensembldb",
     "GenomicFeatures",
     "plyranges"
   ],
   "BadRegionFinder": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "Banksy": [
     "SpatialExperiment"
   ],
-  "Basic4Cseq": [
-    "BSgenome"
-  ],
+  "Basic4Cseq": [],
   "BatchQC": [
     "DESeq2",
     "EBSeq",
@@ -160,8 +143,7 @@
     "biovizBase",
     "GenomicFeatures",
     "VariantAnnotation",
-    "ensembldb",
-    "BSgenome"
+    "ensembldb"
   ],
   "CAFE": [
     "biovizBase",
@@ -169,7 +151,6 @@
     "GenomicFeatures",
     "VariantAnnotation",
     "ensembldb",
-    "BSgenome",
     "OrganismDbi",
     "txdbmaker"
   ],
@@ -180,11 +161,9 @@
     "GenomicInteractions",
     "VariantAnnotation",
     "ensembldb",
-    "BSgenome",
     "biovizBase"
   ],
   "CAGEr": [
-    "BSgenome",
     "CAGEfightR",
     "GenomicFeatures",
     "GenomicFiles",
@@ -216,7 +195,6 @@
     "cn.mops",
     "biovizBase",
     "GenomicFeatures",
-    "BSgenome",
     "ensembldb"
   ],
   "CNViz": [
@@ -227,22 +205,17 @@
     "cn.mops",
     "biovizBase",
     "GenomicFeatures",
-    "ensembldb",
-    "BSgenome"
+    "ensembldb"
   ],
   "CNVrd2": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "COCOA": [
     "MIRA",
-    "bsseq",
-    "BSgenome"
+    "bsseq"
   ],
-  "CODEX": [
-    "BSgenome"
-  ],
+  "CODEX": [],
   "CONFESS": [
     "flowPeaks"
   ],
@@ -254,9 +227,7 @@
     "PCAtools",
     "BiocSingular"
   ],
-  "CRISPRseek": [
-    "BSgenome"
-  ],
+  "CRISPRseek": [],
   "CSSQ": [
     "GenomicFeatures"
   ],
@@ -287,8 +258,7 @@
     "BiocSingular"
   ],
   "CexoR": [
-    "genomation",
-    "BSgenome"
+    "genomation"
   ],
   "ChAMP": [
     "minfi",
@@ -303,23 +273,19 @@
     "GEOquery",
     "methylumi",
     "lumi",
-    "BSgenome",
     "txdbmaker",
     "ensembldb",
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ChIPComp": [
-    "BSgenome"
-  ],
+  "ChIPComp": [],
   "ChIPQC": [
     "DiffBind",
     "chipseq",
     "GenomicFeatures",
     "systemPipeR",
     "DESeq2",
-    "GreyListChIP",
-    "BSgenome"
+    "GreyListChIP"
   ],
   "ChIPXpress": [
     "GEOquery",
@@ -327,21 +293,17 @@
     "oligo",
     "affxparser"
   ],
-  "ChIPanalyser": [
-    "BSgenome"
-  ],
+  "ChIPanalyser": [],
   "ChIPexoQual": [
     "biovizBase",
     "GenomicFeatures",
     "VariantAnnotation",
-    "ensembldb",
-    "BSgenome"
+    "ensembldb"
   ],
   "ChIPpeakAnno": [
     "GenomicFeatures",
     "regioneR",
-    "ensembldb",
-    "BSgenome"
+    "ensembldb"
   ],
   "ChIPseeker": [
     "GenomicFeatures"
@@ -368,7 +330,6 @@
     "BiocSingular"
   ],
   "CleanUpRNAseq": [
-    "BSgenome",
     "DESeq2",
     "ensembldb",
     "GenomicFeatures"
@@ -389,7 +350,6 @@
     "cn.mops",
     "biovizBase",
     "GenomicFeatures",
-    "BSgenome",
     "ensembldb"
   ],
   "CoverageView": [],
@@ -415,8 +375,7 @@
   "DAMEfinder": [
     "VariantAnnotation",
     "bumphunter",
-    "GenomicFeatures",
-    "BSgenome"
+    "GenomicFeatures"
   ],
   "DAPAR": [
     "MSnbase",
@@ -441,8 +400,7 @@
     "ChIPpeakAnno",
     "GenomicFeatures",
     "regioneR",
-    "ensembldb",
-    "BSgenome"
+    "ensembldb"
   ],
   "DESeq2": [],
   "DESpace": [
@@ -468,7 +426,6 @@
     "minfi",
     "missMethyl",
     "Gviz",
-    "BSgenome",
     "GenomicFeatures",
     "ensembldb",
     "biovizBase",
@@ -481,8 +438,7 @@
     "GenomicFeatures"
   ],
   "DSS": [
-    "bsseq",
-    "BSgenome"
+    "bsseq"
   ],
   "DaMiRseq": [
     "DESeq2",
@@ -495,7 +451,6 @@
     "goseq",
     "plyranges",
     "biovizBase",
-    "BSgenome",
     "VariantAnnotation",
     "OrganismDbi",
     "ensembldb",
@@ -503,8 +458,7 @@
   ],
   "DeMixT": [
     "DSS",
-    "bsseq",
-    "BSgenome"
+    "bsseq"
   ],
   "DegCre": [
     "plotgardener",
@@ -521,8 +475,7 @@
   "DiffBind": [
     "systemPipeR",
     "DESeq2",
-    "GreyListChIP",
-    "BSgenome"
+    "GreyListChIP"
   ],
   "Dino": [
     "BiocSingular",
@@ -531,7 +484,6 @@
   ],
   "DominoEffect": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "DropletUtils": [
@@ -547,7 +499,6 @@
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
@@ -570,7 +521,6 @@
     "GenomicFeatures",
     "Gviz",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
@@ -588,8 +538,7 @@
   "EpiCompare": [
     "ChIPseeker",
     "genomation",
-    "GenomicFeatures",
-    "BSgenome"
+    "GenomicFeatures"
   ],
   "EpiMix": [
     "GenomicFeatures"
@@ -601,8 +550,7 @@
   "EventPointer": [
     "SGSeq",
     "GenomicFeatures",
-    "affxparser",
-    "BSgenome"
+    "affxparser"
   ],
   "ExCluster": [],
   "ExperimentHubData": [
@@ -625,7 +573,6 @@
     "scater",
     "scuttle",
     "scran",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation",
     "OrganismDbi",
@@ -633,7 +580,6 @@
     "BiocSingular"
   ],
   "FRASER": [
-    "BSgenome",
     "GenomicFeatures",
     "OUTRIDER",
     "DESeq2",
@@ -645,14 +591,12 @@
   ],
   "GA4GHclient": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "GA4GHshiny": [
     "GA4GHclient",
     "GenomicFeatures",
-    "VariantAnnotation",
-    "BSgenome"
+    "VariantAnnotation"
   ],
   "GARS": [
     "DaMiRseq",
@@ -675,9 +619,7 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "GOTHiC": [
-    "BSgenome"
-  ],
+  "GOTHiC": [],
   "GOpro": [],
   "GOstats": [
     "Category"
@@ -703,7 +645,6 @@
   "GUIDEseq": [
     "CRISPRseek",
     "ChIPpeakAnno",
-    "BSgenome",
     "GenomicFeatures",
     "regioneR",
     "ensembldb"
@@ -718,7 +659,6 @@
   ],
   "GenVisR": [
     "GenomicFeatures",
-    "BSgenome",
     "VariantAnnotation"
   ],
   "GeneGeneInteR": [],
@@ -727,7 +667,6 @@
   ],
   "GeneStructureTools": [
     "Gviz",
-    "BSgenome",
     "GenomicFeatures",
     "ensembldb",
     "biovizBase",
@@ -744,7 +683,6 @@
   "GenomicFeatures": [],
   "GenomicFiles": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "GenomicInteractionNodes": [
@@ -754,14 +692,12 @@
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
   "GenomicOZone": [
     "ggbio",
     "biovizBase",
-    "BSgenome",
     "VariantAnnotation",
     "GenomicFeatures",
     "OrganismDbi",
@@ -773,8 +709,7 @@
     "RCAS",
     "GenomicFeatures",
     "genomation",
-    "txdbmaker",
-    "BSgenome"
+    "txdbmaker"
   ],
   "Glimma": [
     "DESeq2"
@@ -784,16 +719,13 @@
     "GOstats"
   ],
   "GrafGen": [],
-  "GreyListChIP": [
-    "BSgenome"
-  ],
+  "GreyListChIP": [],
   "Guitar": [
     "GenomicFeatures"
   ],
   "Gviz": [
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
@@ -802,13 +734,11 @@
     "DESeq2"
   ],
   "HelloRanges": [
-    "BSgenome",
     "GenomicFeatures",
     "VariantAnnotation"
   ],
   "HiCDCPlus": [
     "GenomicInteractions",
-    "BSgenome",
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
@@ -823,8 +753,7 @@
   "HiContacts": [],
   "HiCool": [],
   "HiLDA": [
-    "GenomicFeatures",
-    "BSgenome"
+    "GenomicFeatures"
   ],
   "HiTC": [],
   "HicAggR": [],
@@ -859,7 +788,6 @@
   ],
   "IdeoViz": [],
   "InPAS": [
-    "BSgenome",
     "cleanUpdTSeq",
     "GenomicFeatures",
     "plyranges"
@@ -871,12 +799,10 @@
     "txdbmaker",
     "DEXSeq",
     "DESeq2",
-    "VariantAnnotation",
-    "BSgenome"
+    "VariantAnnotation"
   ],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
-    "BSgenome",
     "tximeta",
     "DESeq2",
     "GenomicFeatures",
@@ -900,7 +826,6 @@
     "BiocSingular"
   ],
   "MADSEQ": [
-    "BSgenome",
     "VariantAnnotation",
     "GenomicFeatures"
   ],
@@ -929,7 +854,6 @@
     "missMethyl",
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "bumphunter",
     "GEOquery",
@@ -950,9 +874,7 @@
     "scuttle",
     "BiocSingular"
   ],
-  "MEDIPS": [
-    "BSgenome"
-  ],
+  "MEDIPS": [],
   "MGnifyR": [
     "mia",
     "scater",
@@ -960,8 +882,7 @@
     "BiocSingular"
   ],
   "MIRA": [
-    "bsseq",
-    "BSgenome"
+    "bsseq"
   ],
   "MIRit": [
     "DESeq2"
@@ -970,9 +891,7 @@
   "MLSeq": [
     "DESeq2"
   ],
-  "MMDiff2": [
-    "BSgenome"
-  ],
+  "MMDiff2": [],
   "MOSClip": [
     "qpgraph",
     "GenomicFeatures"
@@ -1012,7 +931,6 @@
   "MatrixQCvis": [],
   "MatrixRider": [
     "TFBSTools",
-    "BSgenome",
     "CNEr"
   ],
   "Melissa": [],
@@ -1030,7 +948,6 @@
   ],
   "MethReg": [
     "TFBSTools",
-    "BSgenome",
     "CNEr"
   ],
   "MethylAid": [
@@ -1039,9 +956,7 @@
     "GEOquery",
     "GenomicFeatures"
   ],
-  "MethylSeekR": [
-    "BSgenome"
-  ],
+  "MethylSeekR": [],
   "MineICA": [
     "GOstats",
     "lumi",
@@ -1053,8 +968,7 @@
     "GEOquery"
   ],
   "MinimumDistance": [
-    "VanillaICE",
-    "BSgenome"
+    "VanillaICE"
   ],
   "MoleculeExperiment": [
     "SpatialExperiment"
@@ -1067,9 +981,7 @@
   "MoonlightR": [
     "GEOquery"
   ],
-  "Motif2Site": [
-    "BSgenome"
-  ],
+  "Motif2Site": [],
   "MotifDb": [],
   "MsExperiment": [
     "QFeatures"
@@ -1083,12 +995,10 @@
     "DESeq2"
   ],
   "MungeSumstats": [
-    "BSgenome",
     "VariantAnnotation",
     "GenomicFeatures"
   ],
   "MutationalPatterns": [
-    "BSgenome",
     "VariantAnnotation",
     "GenomicFeatures"
   ],
@@ -1096,7 +1006,6 @@
     "trackViewer",
     "ATACseqQC",
     "csaw",
-    "BSgenome",
     "ChIPpeakAnno",
     "motifStack",
     "GenomicFeatures",
@@ -1114,8 +1023,7 @@
   ],
   "NanoMethViz": [
     "BiocSingular",
-    "bsseq",
-    "BSgenome"
+    "bsseq"
   ],
   "NetActivity": [
     "DESeq2"
@@ -1131,21 +1039,16 @@
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
   "OMICsPCA": [
     "HelloRanges",
-    "BSgenome",
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "ORFhunteR": [
-    "BSgenome"
-  ],
+  "ORFhunteR": [],
   "ORFik": [
-    "BSgenome",
     "DESeq2",
     "GenomicFeatures",
     "txdbmaker"
@@ -1176,7 +1079,6 @@
   ],
   "PING": [
     "Gviz",
-    "BSgenome",
     "GenomicFeatures",
     "ensembldb",
     "biovizBase",
@@ -1216,25 +1118,21 @@
   ],
   "ProteoDisco": [
     "GenomicFeatures",
-    "VariantAnnotation",
-    "BSgenome"
+    "VariantAnnotation"
   ],
   "PureCN": [
     "VariantAnnotation",
-    "GenomicFeatures",
-    "BSgenome"
+    "GenomicFeatures"
   ],
   "Pviz": [
     "Gviz",
     "biovizBase",
     "GenomicFeatures",
     "VariantAnnotation",
-    "ensembldb",
-    "BSgenome"
+    "ensembldb"
   ],
   "QFeatures": [],
   "QuasR": [
-    "BSgenome",
     "GenomicFeatures",
     "txdbmaker",
     "GenomicFiles",
@@ -1243,7 +1141,6 @@
   "R3CPET": [
     "ggbio",
     "biovizBase",
-    "BSgenome",
     "VariantAnnotation",
     "GenomicFeatures",
     "OrganismDbi",
@@ -1252,24 +1149,20 @@
   ],
   "R453Plus1Toolbox": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "RAIDS": [
     "ensembldb",
-    "BSgenome",
     "VariantAnnotation",
     "GenomicFeatures"
   ],
   "RCAS": [
-    "BSgenome",
     "GenomicFeatures",
     "txdbmaker",
     "genomation"
   ],
   "RCM": [],
   "REDseq": [
-    "BSgenome",
     "ChIPpeakAnno",
     "GenomicFeatures",
     "regioneR",
@@ -1277,13 +1170,11 @@
   ],
   "REMP": [
     "minfi",
-    "BSgenome",
     "bumphunter",
     "GEOquery",
     "GenomicFeatures"
   ],
   "RESOLVE": [
-    "BSgenome",
     "MutationalPatterns",
     "VariantAnnotation",
     "GenomicFeatures"
@@ -1307,13 +1198,11 @@
     "bumphunter",
     "GenomicFeatures",
     "GenomicFiles",
-    "VariantAnnotation",
-    "BSgenome"
+    "VariantAnnotation"
   ],
   "RNAmodR": [
     "txdbmaker",
     "GenomicFeatures",
-    "BSgenome",
     "Gviz",
     "ensembldb",
     "biovizBase",
@@ -1324,7 +1213,6 @@
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "txdbmaker",
     "VariantAnnotation"
@@ -1333,7 +1221,6 @@
     "RNAmodR",
     "txdbmaker",
     "GenomicFeatures",
-    "BSgenome",
     "Gviz",
     "ensembldb",
     "biovizBase",
@@ -1344,7 +1231,6 @@
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "txdbmaker",
     "VariantAnnotation"
@@ -1361,8 +1247,7 @@
   "RadioGx": [],
   "RareVariantVis": [
     "VariantAnnotation",
-    "GenomicFeatures",
-    "BSgenome"
+    "GenomicFeatures"
   ],
   "Rbec": [
     "dada2"
@@ -1378,16 +1263,13 @@
     "BiocSingular",
     "scuttle"
   ],
-  "Repitools": [
-    "BSgenome"
-  ],
+  "Repitools": [],
   "ReportingTools": [
     "Category",
     "GOstats",
     "DESeq2",
     "ggbio",
     "biovizBase",
-    "BSgenome",
     "VariantAnnotation",
     "GenomicFeatures",
     "OrganismDbi",
@@ -1396,8 +1278,7 @@
   ],
   "RgnTX": [
     "GenomicFeatures",
-    "regioneR",
-    "BSgenome"
+    "regioneR"
   ],
   "Rhisat2": [
     "txdbmaker",
@@ -1407,7 +1288,6 @@
   "RiboCrypt": [
     "ORFik",
     "GenomicFeatures",
-    "BSgenome",
     "DESeq2",
     "txdbmaker"
   ],
@@ -1420,7 +1300,6 @@
     "GenomicFeatures",
     "ggbio",
     "biovizBase",
-    "BSgenome",
     "VariantAnnotation",
     "OrganismDbi",
     "ensembldb",
@@ -1444,16 +1323,14 @@
     "bumphunter",
     "GenomicFeatures",
     "GenomicFiles",
-    "VariantAnnotation",
-    "BSgenome"
+    "VariantAnnotation"
   ],
   "Rqc": [
     "biovizBase",
     "GenomicFiles",
     "GenomicFeatures",
     "VariantAnnotation",
-    "ensembldb",
-    "BSgenome"
+    "ensembldb"
   ],
   "Rtreemix": [],
   "SAIGEgds": [],
@@ -1474,9 +1351,7 @@
     "SCArray",
     "BiocSingular"
   ],
-  "SCOPE": [
-    "BSgenome"
-  ],
+  "SCOPE": [],
   "SEtools": [
     "DESeq2"
   ],
@@ -1496,15 +1371,13 @@
   "SNPhood": [
     "DESeq2",
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "SOMNiBUS": [
     "annotatr",
     "bsseq",
     "GenomicFeatures",
-    "regioneR",
-    "BSgenome"
+    "regioneR"
   ],
   "SPIAT": [
     "SpatialExperiment",
@@ -1513,7 +1386,6 @@
   "SPLINTER": [
     "GenomicFeatures",
     "Gviz",
-    "BSgenome",
     "ensembldb",
     "biovizBase",
     "VariantAnnotation"
@@ -1526,7 +1398,6 @@
     "MLInterfaces"
   ],
   "SigsPack": [
-    "BSgenome",
     "VariantAnnotation",
     "GenomicFeatures"
   ],
@@ -1536,7 +1407,6 @@
     "BiocSingular"
   ],
   "SingleMoleculeFootprinting": [
-    "BSgenome",
     "plyranges",
     "QuasR",
     "GenomicFeatures",
@@ -1551,7 +1421,6 @@
     "VariantAnnotation",
     "ggbio",
     "biovizBase",
-    "BSgenome",
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
@@ -1570,9 +1439,7 @@
     "scuttle",
     "BiocSingular"
   ],
-  "SparseSignatures": [
-    "BSgenome"
-  ],
+  "SparseSignatures": [],
   "SpatialCPie": [],
   "SpatialExperiment": [],
   "SpatialFeatureExperiment": [
@@ -1583,9 +1450,7 @@
   "SpectralTAD": [
     "HiCcompare"
   ],
-  "SpliceWiz": [
-    "BSgenome"
-  ],
+  "SpliceWiz": [],
   "SplicingGraphs": [
     "GenomicFeatures"
   ],
@@ -1605,8 +1470,7 @@
   ],
   "StructuralVariantAnnotation": [
     "VariantAnnotation",
-    "GenomicFeatures",
-    "BSgenome"
+    "GenomicFeatures"
   ],
   "SurfR": [
     "DESeq2"
@@ -1615,7 +1479,6 @@
     "HiCcompare"
   ],
   "TAPseq": [
-    "BSgenome",
     "GenomicFeatures"
   ],
   "TCC": [
@@ -1628,7 +1491,6 @@
     "DESeq2"
   ],
   "TFBSTools": [
-    "BSgenome",
     "CNEr"
   ],
   "TFEA.ChIP": [
@@ -1636,7 +1498,6 @@
   ],
   "TFHAZ": [
     "ORFik",
-    "BSgenome",
     "DESeq2",
     "GenomicFeatures",
     "txdbmaker"
@@ -1649,28 +1510,23 @@
     "Gviz",
     "VariantAnnotation",
     "GenomicFeatures",
-    "BSgenome",
     "biovizBase"
   ],
   "TitanCNA": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "ToxicoGx": [],
   "UMI4Cats": [
     "regioneR",
-    "BSgenome",
     "DESeq2",
     "GenomicFeatures"
   ],
   "UPDhmm": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "Ularcirc": [
-    "BSgenome",
     "GenomicFeatures",
     "Organism.dplyr",
     "plotgardener",
@@ -1678,7 +1534,6 @@
   ],
   "Uniquorn": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "VAExprs": [
@@ -1689,32 +1544,24 @@
   "VCFArray": [
     "VariantAnnotation",
     "GenomicFiles",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "VaSP": [],
-  "VanillaICE": [
-    "BSgenome"
-  ],
-  "VarCon": [
-    "BSgenome"
-  ],
+  "VanillaICE": [],
+  "VarCon": [],
   "VariantAnnotation": [
-    "BSgenome",
     "GenomicFeatures"
   ],
   "VariantFiltering": [
     "VariantAnnotation",
     "GenomicFeatures",
-    "BSgenome",
     "Gviz",
     "ensembldb",
     "biovizBase"
   ],
   "VariantTools": [
     "VariantAnnotation",
-    "GenomicFeatures",
-    "BSgenome"
+    "GenomicFeatures"
   ],
   "VisiumIO": [
     "SpatialExperiment"
@@ -1725,16 +1572,13 @@
     "DropletUtils",
     "scuttle"
   ],
-  "XNAString": [
-    "BSgenome"
-  ],
+  "XNAString": [],
   "Xeva": [
     "PharmacoGx"
   ],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
-    "BSgenome",
     "ggbio",
     "GenomicFeatures",
     "biovizBase",
@@ -1744,7 +1588,6 @@
   ],
   "ZygosityPredictor": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "affxparser": [],
@@ -1759,7 +1602,6 @@
     "Category",
     "ggbio",
     "biovizBase",
-    "BSgenome",
     "VariantAnnotation",
     "GenomicFeatures",
     "OrganismDbi",
@@ -1776,7 +1618,6 @@
     "alabaster.vcf",
     "SpatialExperiment",
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "alabaster.spatial": [
@@ -1784,7 +1625,6 @@
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "animalcules": [
@@ -1792,15 +1632,13 @@
   ],
   "annotatr": [
     "GenomicFeatures",
-    "regioneR",
-    "BSgenome"
+    "regioneR"
   ],
   "anota2seq": [
     "DESeq2"
   ],
   "appreci8R": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures",
     "OrganismDbi",
     "txdbmaker"
@@ -1814,7 +1652,6 @@
     "GEOquery"
   ],
   "atSNP": [
-    "BSgenome",
     "motifStack",
     "TFBSTools",
     "CNEr"
@@ -1827,7 +1664,6 @@
     "Category"
   ],
   "bambu": [
-    "BSgenome",
     "GenomicFeatures"
   ],
   "bandle": [
@@ -1865,7 +1701,6 @@
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
@@ -1873,14 +1708,12 @@
   "biovizBase": [
     "GenomicFeatures",
     "VariantAnnotation",
-    "ensembldb",
-    "BSgenome"
+    "ensembldb"
   ],
   "biscuiteer": [
     "bsseq",
     "VariantAnnotation",
     "dmrseq",
-    "BSgenome",
     "bumphunter",
     "annotatr",
     "OrganismDbi",
@@ -1894,20 +1727,15 @@
   ],
   "borealis": [
     "bsseq",
-    "DSS",
-    "BSgenome"
+    "DSS"
   ],
-  "branchpointer": [
-    "BSgenome"
-  ],
+  "branchpointer": [],
   "broadSeq": [
     "DELocal",
     "EBSeq",
     "DESeq2"
   ],
-  "bsseq": [
-    "BSgenome"
-  ],
+  "bsseq": [],
   "bumphunter": [
     "GenomicFeatures"
   ],
@@ -1919,7 +1747,6 @@
   "cageminer": [
     "ggbio",
     "biovizBase",
-    "BSgenome",
     "VariantAnnotation",
     "GenomicFeatures",
     "OrganismDbi",
@@ -1936,7 +1763,6 @@
   ],
   "cardelino": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "casper": [
@@ -1961,15 +1787,13 @@
   ],
   "cellity": [],
   "cfDNAPro": [
-    "plyranges",
-    "BSgenome"
+    "plyranges"
   ],
   "cfTools": [],
   "chimeraviz": [
     "Gviz",
     "ensembldb",
     "GenomicFeatures",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
@@ -1977,7 +1801,6 @@
   "chipseq": [],
   "chromVAR": [
     "TFBSTools",
-    "BSgenome",
     "CNEr"
   ],
   "chromstaR": [],
@@ -1985,23 +1808,17 @@
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
   "circRNAprofiler": [
     "DESeq2",
     "gwascat",
-    "BSgenome",
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "cleanUpdTSeq": [
-    "BSgenome"
-  ],
-  "cliProfiler": [
-    "BSgenome"
-  ],
+  "cleanUpdTSeq": [],
+  "cliProfiler": [],
   "clipper": [
     "qpgraph",
     "GenomicFeatures"
@@ -2030,7 +1847,6 @@
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
@@ -2039,7 +1855,6 @@
     "methylPipe",
     "Gviz",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
@@ -2086,21 +1901,15 @@
   "cpvSNP": [
     "GenomicFeatures"
   ],
-  "crisprBowtie": [
-    "BSgenome"
-  ],
-  "crisprBwa": [
-    "BSgenome"
-  ],
+  "crisprBowtie": [],
+  "crisprBwa": [],
   "crisprDesign": [
-    "BSgenome",
     "crisprBowtie",
     "GenomicFeatures",
     "txdbmaker",
     "VariantAnnotation"
   ],
   "crisprShiny": [
-    "BSgenome",
     "crisprDesign",
     "crisprViz",
     "crisprBowtie",
@@ -2115,7 +1924,6 @@
     "crisprBowtie",
     "crisprDesign",
     "crisprViz",
-    "BSgenome",
     "GenomicFeatures",
     "txdbmaker",
     "VariantAnnotation",
@@ -2125,7 +1933,6 @@
   ],
   "crisprViz": [
     "crisprDesign",
-    "BSgenome",
     "GenomicFeatures",
     "Gviz",
     "txdbmaker",
@@ -2139,15 +1946,13 @@
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
   "customProDB": [
     "GenomicFeatures",
     "VariantAnnotation",
-    "txdbmaker",
-    "BSgenome"
+    "txdbmaker"
   ],
   "cypress": [
     "DESeq2"
@@ -2169,7 +1974,6 @@
   "dagLogo": [
     "motifStack",
     "TFBSTools",
-    "BSgenome",
     "CNEr"
   ],
   "dar": [
@@ -2186,8 +1990,7 @@
   ],
   "decompTumor2Sig": [
     "GenomicFeatures",
-    "VariantAnnotation",
-    "BSgenome"
+    "VariantAnnotation"
   ],
   "decontX": [
     "celda",
@@ -2206,7 +2009,6 @@
   ],
   "deepSNV": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "deltaCaptureC": [
@@ -2215,15 +2017,13 @@
   "demuxSNP": [
     "VariantAnnotation",
     "ensembldb",
-    "GenomicFeatures",
-    "BSgenome"
+    "GenomicFeatures"
   ],
   "derfinder": [
     "bumphunter",
     "GenomicFeatures",
     "GenomicFiles",
-    "VariantAnnotation",
-    "BSgenome"
+    "VariantAnnotation"
   ],
   "derfinderPlot": [
     "derfinder",
@@ -2232,14 +2032,12 @@
     "bumphunter",
     "GenomicFiles",
     "biovizBase",
-    "BSgenome",
     "VariantAnnotation",
     "OrganismDbi",
     "ensembldb",
     "txdbmaker"
   ],
   "diffHic": [
-    "BSgenome",
     "csaw"
   ],
   "diffUTR": [
@@ -2259,8 +2057,7 @@
     "bumphunter",
     "annotatr",
     "GenomicFeatures",
-    "regioneR",
-    "BSgenome"
+    "regioneR"
   ],
   "doubletrouble": [
     "syntenet",
@@ -2282,7 +2079,6 @@
   "edge": [],
   "eiR": [],
   "enhancerHomologSearch": [
-    "BSgenome",
     "motifmatchr",
     "TFBSTools",
     "CNEr"
@@ -2293,8 +2089,7 @@
   "epidecodeR": [],
   "epigraHMM": [
     "csaw",
-    "GreyListChIP",
-    "BSgenome"
+    "GreyListChIP"
   ],
   "epimutacions": [
     "minfi",
@@ -2302,7 +2097,6 @@
     "GenomicFeatures",
     "Gviz",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "OrganismDbi",
     "GEOquery",
@@ -2313,7 +2107,6 @@
     "scran",
     "scuttle",
     "motifmatchr",
-    "BSgenome",
     "TFBSTools",
     "BiocSingular",
     "CNEr"
@@ -2359,13 +2152,11 @@
     "VariantAnnotation",
     "OrganismDbi",
     "GenomicFeatures",
-    "txdbmaker",
-    "BSgenome"
+    "txdbmaker"
   ],
   "esATAC": [
     "pipeFrame",
     "ChIPseeker",
-    "BSgenome",
     "GenomicFeatures",
     "TFBSTools",
     "motifmatchr",
@@ -2385,13 +2176,11 @@
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
   "fCCAC": [
-    "genomation",
-    "BSgenome"
+    "genomation"
   ],
   "factR": [
     "GenomicFeatures",
@@ -2400,7 +2189,6 @@
   "fastseg": [],
   "fcScan": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "ffpe": [
@@ -2441,8 +2229,7 @@
   "gDNAx": [
     "GenomicFiles",
     "GenomicFeatures",
-    "VariantAnnotation",
-    "BSgenome"
+    "VariantAnnotation"
   ],
   "gDR": [
     "gDRcore",
@@ -2461,23 +2248,18 @@
   "gINTomics": [
     "GenomicFeatures"
   ],
-  "gcapc": [
-    "BSgenome"
-  ],
+  "gcapc": [],
   "geneAttribution": [
     "GenomicFeatures"
   ],
   "geneXtendeR": [],
-  "genomation": [
-    "BSgenome"
-  ],
+  "genomation": [],
   "geomeTriD": [
     "trackViewer",
     "GenomicFeatures",
     "Gviz",
     "txdbmaker",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
@@ -2486,7 +2268,6 @@
   ],
   "ggbio": [
     "biovizBase",
-    "BSgenome",
     "VariantAnnotation",
     "GenomicFeatures",
     "OrganismDbi",
@@ -2506,8 +2287,7 @@
   ],
   "gmapR": [
     "GenomicFeatures",
-    "VariantAnnotation",
-    "BSgenome"
+    "VariantAnnotation"
   ],
   "gmoviz": [
     "GenomicFeatures"
@@ -2523,12 +2303,10 @@
   "gsean": [],
   "gwascat": [
     "GenomicFeatures",
-    "VariantAnnotation",
-    "BSgenome"
+    "VariantAnnotation"
   ],
   "gwasurvivr": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "hdxmsqc": [
@@ -2537,12 +2315,9 @@
   "hermes": [
     "DESeq2"
   ],
-  "hiAnnotator": [
-    "BSgenome"
-  ],
+  "hiAnnotator": [],
   "hiReadsProcessor": [
-    "hiAnnotator",
-    "BSgenome"
+    "hiAnnotator"
   ],
   "hicVennDiagram": [],
   "hoodscanR": [
@@ -2551,8 +2326,7 @@
   "hpar": [],
   "hummingbird": [],
   "iCNV": [
-    "CODEX",
-    "BSgenome"
+    "CODEX"
   ],
   "iCheck": [
     "lumi",
@@ -2596,8 +2370,7 @@
     "GenomicFeatures",
     "VariantAnnotation",
     "csaw",
-    "DESeq2",
-    "BSgenome"
+    "DESeq2"
   ],
   "ideal": [
     "DESeq2",
@@ -2610,7 +2383,6 @@
   ],
   "igvR": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "imcRtools": [
@@ -2622,7 +2394,6 @@
   "intansv": [
     "ggbio",
     "biovizBase",
-    "BSgenome",
     "VariantAnnotation",
     "GenomicFeatures",
     "OrganismDbi",
@@ -2642,11 +2413,9 @@
     "biovizBase",
     "GenomicFeatures",
     "VariantAnnotation",
-    "ensembldb",
-    "BSgenome"
+    "ensembldb"
   ],
   "katdetectr": [
-    "BSgenome",
     "plyranges",
     "VariantAnnotation",
     "GenomicFeatures"
@@ -2654,8 +2423,7 @@
   "kissDE": [
     "DESeq2",
     "DSS",
-    "bsseq",
-    "BSgenome"
+    "bsseq"
   ],
   "kmcut": [],
   "lemur": [
@@ -2663,7 +2431,6 @@
   ],
   "lineagespot": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "lipidr": [],
@@ -2683,14 +2450,11 @@
     "scuttle",
     "BiocSingular"
   ],
-  "m6Aboost": [
-    "BSgenome"
-  ],
+  "m6Aboost": [],
   "mCSEA": [
     "GenomicFeatures",
     "Gviz",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "OrganismDbi",
     "VariantAnnotation",
@@ -2709,7 +2473,6 @@
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
@@ -2732,8 +2495,7 @@
     "EDASeq",
     "GenomicFeatures",
     "txdbmaker",
-    "bsseq",
-    "BSgenome"
+    "bsseq"
   ],
   "methInheritSim": [
     "methylKit",
@@ -2741,7 +2503,6 @@
   ],
   "methodical": [
     "annotatr",
-    "BSgenome",
     "GenomicFeatures",
     "regioneR",
     "ExperimentHubData",
@@ -2751,15 +2512,12 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "methrix": [
-    "BSgenome"
-  ],
+  "methrix": [],
   "methylCC": [
     "minfi",
     "bsseq",
     "plyranges",
     "bumphunter",
-    "BSgenome",
     "GenomicFeatures",
     "GEOquery"
   ],
@@ -2782,14 +2540,12 @@
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
   "methylSig": [
     "bsseq",
-    "DSS",
-    "BSgenome"
+    "DSS"
   ],
   "methylclock": [
     "minfi",
@@ -2812,7 +2568,6 @@
     "Category",
     "GOstats"
   ],
-  "miRSM": [],
   "miRspongeR": [],
   "mia": [
     "scater",
@@ -2857,7 +2612,6 @@
   "mitoClone2": [
     "deepSNV",
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "moanin": [],
@@ -2866,7 +2620,6 @@
   ],
   "monaLisa": [
     "TFBSTools",
-    "BSgenome",
     "CNEr"
   ],
   "mosdef": [
@@ -2877,12 +2630,10 @@
   ],
   "motifStack": [
     "TFBSTools",
-    "BSgenome",
     "CNEr"
   ],
   "motifbreakR": [
     "MotifDb",
-    "BSgenome",
     "VariantAnnotation",
     "motifStack",
     "Gviz",
@@ -2894,7 +2645,6 @@
   ],
   "motifmatchr": [
     "TFBSTools",
-    "BSgenome",
     "CNEr"
   ],
   "msImpute": [
@@ -2903,7 +2653,6 @@
     "BiocSingular"
   ],
   "msgbsR": [
-    "BSgenome",
     "easyRNASeq",
     "GenomicFeatures",
     "ggbio",
@@ -2932,7 +2681,6 @@
   ],
   "multiMiR": [],
   "multicrispr": [
-    "BSgenome",
     "CRISPRseek",
     "GenomicFeatures",
     "karyoploteR",
@@ -2957,7 +2705,6 @@
   "muscle": [],
   "musicatk": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures",
     "decompTumor2Sig"
   ],
@@ -2967,7 +2714,6 @@
   ],
   "myvariant": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "ncGTW": [
@@ -3051,7 +2797,6 @@
   "pageRank": [
     "motifmatchr",
     "TFBSTools",
-    "BSgenome",
     "CNEr"
   ],
   "pairedGSEA": [
@@ -3086,9 +2831,7 @@
     "scuttle",
     "BiocSingular"
   ],
-  "periodicDNA": [
-    "BSgenome"
-  ],
+  "periodicDNA": [],
   "phantasus": [
     "GEOquery",
     "DESeq2",
@@ -3105,9 +2848,7 @@
     "scuttle",
     "BiocSingular"
   ],
-  "pipeFrame": [
-    "BSgenome"
-  ],
+  "pipeFrame": [],
   "planttfhunter": [],
   "plotgardener": [
     "plyranges"
@@ -3117,9 +2858,7 @@
   ],
   "plyranges": [],
   "plyxp": [],
-  "podkat": [
-    "BSgenome"
-  ],
+  "podkat": [],
   "pram": [],
   "prebs": [],
   "preciseTAD": [
@@ -3129,7 +2868,6 @@
   "primirTSS": [
     "Gviz",
     "TFBSTools",
-    "BSgenome",
     "GenomicFeatures",
     "ensembldb",
     "biovizBase",
@@ -3159,8 +2897,7 @@
     "bumphunter",
     "GenomicFeatures",
     "GenomicFiles",
-    "VariantAnnotation",
-    "BSgenome"
+    "VariantAnnotation"
   ],
   "ptairMS": [
     "MSnbase",
@@ -3179,9 +2916,7 @@
   "qpgraph": [
     "GenomicFeatures"
   ],
-  "qsea": [
-    "BSgenome"
-  ],
+  "qsea": [],
   "quantro": [
     "minfi",
     "bumphunter",
@@ -3192,9 +2927,7 @@
   "rCGH": [
     "GenomicFeatures"
   ],
-  "rGADEM": [
-    "BSgenome"
-  ],
+  "rGADEM": [],
   "rGREAT": [
     "GenomicFeatures"
   ],
@@ -3202,7 +2935,6 @@
     "MotifDb"
   ],
   "raer": [
-    "BSgenome",
     "GenomicFeatures"
   ],
   "recount": [
@@ -3211,8 +2943,7 @@
     "bumphunter",
     "GenomicFeatures",
     "GenomicFiles",
-    "VariantAnnotation",
-    "BSgenome"
+    "VariantAnnotation"
   ],
   "recount3": [],
   "recountmethylation": [
@@ -3232,25 +2963,20 @@
     "bumphunter",
     "GenomicFeatures",
     "GenomicFiles",
-    "VariantAnnotation",
-    "BSgenome"
+    "VariantAnnotation"
   ],
   "regionalpcs": [
     "PCAtools",
     "BiocSingular"
   ],
-  "regioneR": [
-    "BSgenome"
-  ],
+  "regioneR": [],
   "regioneReloaded": [
-    "regioneR",
-    "BSgenome"
+    "regioneR"
   ],
   "regutools": [
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
@@ -3261,7 +2987,6 @@
     "txdbmaker"
   ],
   "ribosomeProfilingQC": [
-    "BSgenome",
     "EDASeq",
     "GenomicFeatures",
     "motifStack",
@@ -3287,7 +3012,6 @@
     "Gviz",
     "txdbmaker",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
@@ -3381,7 +3105,6 @@
   ],
   "scmeth": [
     "bsseq",
-    "BSgenome",
     "annotatr",
     "GenomicFeatures",
     "regioneR"
@@ -3393,7 +3116,6 @@
   ],
   "scoreInvHap": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "scp": [
@@ -3409,7 +3131,6 @@
     "txdbmaker",
     "ggbio",
     "biovizBase",
-    "BSgenome",
     "VariantAnnotation",
     "OrganismDbi",
     "ensembldb"
@@ -3430,17 +3151,14 @@
   ],
   "selectKSigs": [
     "HiLDA",
-    "GenomicFeatures",
-    "BSgenome"
+    "GenomicFeatures"
   ],
   "seqArchRplus": [
-    "BSgenome",
     "ChIPseeker",
     "GenomicFeatures"
   ],
   "seqCAT": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "seqsetvis": [],
@@ -3459,7 +3177,6 @@
   ],
   "signeR": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
   "simPIC": [
@@ -3517,7 +3234,6 @@
     "SpatialExperiment"
   ],
   "spatzie": [
-    "BSgenome",
     "GenomicFeatures",
     "GenomicInteractions",
     "motifmatchr",
@@ -3531,9 +3247,7 @@
   "spicyR": [
     "SpatialExperiment"
   ],
-  "spiky": [
-    "BSgenome"
-  ],
+  "spiky": [],
   "spillR": [
     "CATALYST",
     "scater",
@@ -3571,14 +3285,12 @@
   "svaNUMT": [
     "VariantAnnotation",
     "StructuralVariantAnnotation",
-    "GenomicFeatures",
-    "BSgenome"
+    "GenomicFeatures"
   ],
   "svaRetro": [
     "StructuralVariantAnnotation",
     "VariantAnnotation",
-    "GenomicFeatures",
-    "BSgenome"
+    "GenomicFeatures"
   ],
   "synapter": [
     "MSnbase",
@@ -3592,12 +3304,9 @@
   ],
   "tLOH": [
     "VariantAnnotation",
-    "BSgenome",
     "GenomicFeatures"
   ],
-  "tRNAscanImport": [
-    "BSgenome"
-  ],
+  "tRNAscanImport": [],
   "tRanslatome": [
     "DESeq2"
   ],
@@ -3606,7 +3315,6 @@
     "VariantAnnotation",
     "GenomicFeatures",
     "ensembldb",
-    "BSgenome",
     "biovizBase"
   ],
   "tenXplore": [],
@@ -3636,7 +3344,6 @@
     "Gviz",
     "txdbmaker",
     "ensembldb",
-    "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
@@ -3652,13 +3359,10 @@
     "glmGamPoi"
   ],
   "transmogR": [
-    "BSgenome",
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "traseR": [
-    "BSgenome"
-  ],
+  "traseR": [],
   "treeclimbR": [],
   "treekoR": [],
   "tricycle": [
@@ -3683,7 +3387,6 @@
     "OrganismDbi",
     "ensembldb",
     "GenomicFeatures",
-    "BSgenome",
     "biovizBase",
     "txdbmaker",
     "VariantAnnotation"
@@ -3698,8 +3401,7 @@
   "vtpnet": [
     "gwascat",
     "GenomicFeatures",
-    "VariantAnnotation",
-    "BSgenome"
+    "VariantAnnotation"
   ],
   "vulcan": [
     "ChIPpeakAnno",
@@ -3710,8 +3412,7 @@
     "regioneR",
     "ensembldb",
     "systemPipeR",
-    "GreyListChIP",
-    "BSgenome"
+    "GreyListChIP"
   ],
   "wateRmelon": [
     "methylumi",

@@ -51,6 +51,7 @@ BLMA
 BPRMeth
 BRAIN
 BREW3R.r
+BSgenome
 BUMHMM
 BUS
 BUScorrect
@@ -1090,6 +1091,7 @@ miRBaseConverter
 miRNAmeConverter
 miRNApath
 miRNAtap
+miRSM
 miRcomp
 microRNA
 microbiomeDASim

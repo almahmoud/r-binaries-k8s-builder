@@ -1393,3 +1393,5 @@
 ['[TSCAN](https://bioconductor.org/packages/3.20/bioc/html/TSCAN.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/TSCAN/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TSCAN)']
 ['[biocGraph](https://bioconductor.org/packages/3.20/bioc/html/biocGraph.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/biocGraph/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biocGraph)']
 ['[celaref](https://bioconductor.org/packages/3.20/bioc/html/celaref.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/celaref/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/celaref)']
+['[BSgenome](https://bioconductor.org/packages/3.20/bioc/html/BSgenome.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/BSgenome/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BSgenome)']
+['[miRSM](https://bioconductor.org/packages/3.20/bioc/html/miRSM.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/miRSM/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miRSM)']
