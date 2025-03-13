@@ -1876,3 +1876,7 @@ Gviz
 GA4GHshiny
 OMICsPCA
 RESOLVE
+Rqc
+VCFArray
+derfinder
+gDNAx

@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1731 packages built successfully
+- 1732 packages built successfully
 - 27 packages failed to build
-- 475 packages not yet processed
+- 474 packages not yet processed
 
 ## Failed Builds (27)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -39,7 +39,7 @@
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 
-## Successfully Built (1731)
+## Successfully Built (1732)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1773,8 +1773,9 @@
 | [SNPhood](https://bioconductor.org/packages/3.20/bioc/html/SNPhood.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/SNPhood/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SNPhood)                    |
 | [diffUTR](https://bioconductor.org/packages/3.20/bioc/html/diffUTR.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/diffUTR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/diffUTR)                    |
 | [transmogR](https://bioconductor.org/packages/3.20/bioc/html/transmogR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/transmogR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/transmogR)                  |
+| [GenomicFiles](https://bioconductor.org/packages/3.20/bioc/html/GenomicFiles.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/GenomicFiles/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicFiles)               |
 
-## Not Yet Processed (475)
+## Not Yet Processed (474)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1875,7 +1876,6 @@
 | [GeneRegionScan](https://bioconductor.org/packages/3.20/bioc/html/GeneRegionScan.html)                           | Unprocessed |
 | [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)                   | Unprocessed |
 | [GeneTonic](https://bioconductor.org/packages/3.20/bioc/html/GeneTonic.html)                                     | Unprocessed |
-| [GenomicFiles](https://bioconductor.org/packages/3.20/bioc/html/GenomicFiles.html)                               | Unprocessed |
 | [GenomicInteractions](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractions.html)                 | Unprocessed |
 | [GenomicOZone](https://bioconductor.org/packages/3.20/bioc/html/GenomicOZone.html)                               | Unprocessed |
 | [GenomicPlot](https://bioconductor.org/packages/3.20/bioc/html/GenomicPlot.html)                                 | Unprocessed |

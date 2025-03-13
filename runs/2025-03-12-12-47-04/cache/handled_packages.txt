@@ -333,6 +333,7 @@ GenomicAlignments
 GenomicDataCommons
 GenomicDistributions
 GenomicFeatures
+GenomicFiles
 GenomicInteractionNodes
 GenomicRanges
 GenomicScores
