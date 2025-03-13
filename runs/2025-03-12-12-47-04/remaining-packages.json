@@ -39,7 +39,6 @@
     "affycoretools",
     "GOstats",
     "ReportingTools",
-    "Glimma",
     "Category",
     "ggbio",
     "biovizBase",
@@ -653,7 +652,6 @@
     "genomation",
     "txdbmaker"
   ],
-  "Glimma": [],
   "GmicR": [
     "Category",
     "GOstats"
@@ -811,7 +809,6 @@
   "MIRA": [
     "bsseq"
   ],
-  "MIRit": [],
   "MLInterfaces": [],
   "MOSClip": [
     "qpgraph",
@@ -1355,7 +1352,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "SurfR": [],
   "TADCompare": [
     "HiCcompare"
   ],
@@ -1365,7 +1361,6 @@
   "TCGAutils": [
     "GenomicFeatures"
   ],
-  "TEKRABber": [],
   "TFBSTools": [
     "CNEr"
   ],
@@ -1471,7 +1466,6 @@
   "affycoretools": [
     "GOstats",
     "ReportingTools",
-    "Glimma",
     "Category",
     "ggbio",
     "biovizBase",
@@ -1505,7 +1499,6 @@
     "GenomicFeatures",
     "regioneR"
   ],
-  "anota2seq": [],
   "appreci8R": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -1588,7 +1581,6 @@
     "regioneR",
     "txdbmaker"
   ],
-  "blacksheepr": [],
   "borealis": [
     "bsseq",
     "DSS"
@@ -1746,7 +1738,6 @@
     "QFeatures",
     "PSMatch"
   ],
-  "countsimQC": [],
   "cpvSNP": [
     "GenomicFeatures"
   ],
@@ -1803,7 +1794,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "cypress": [],
   "cytofQC": [
     "CATALYST",
     "scater",
@@ -1855,7 +1845,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "deltaCaptureC": [],
   "demuxSNP": [
     "VariantAnnotation",
     "ensembldb",
@@ -1908,7 +1897,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "easier": [],
   "edge": [],
   "eiR": [],
   "enhancerHomologSearch": [
@@ -2039,9 +2027,7 @@
     "QFeatures",
     "PSMatch"
   ],
-  "flowGate": [],
   "flowPeaks": [],
-  "flowVS": [],
   "frma": [
     "oligo",
     "affxparser"
@@ -2897,7 +2883,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "scrapper": [],
   "scruff": [
     "GenomicFeatures",
     "txdbmaker",

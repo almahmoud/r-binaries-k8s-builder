@@ -298,6 +298,7 @@ GeoDiff
 GeoTcgaData
 GeomxTools
 GladiaTOX
+Glimma
 GloScope
 GlobalAncova
 GrafGen
@@ -393,6 +394,7 @@ MEIGOR
 MGFM
 MGFR
 MICSQTL
+MIRit
 MLP
 MLSeq
 MMDiff2
@@ -671,6 +673,7 @@ Structstrings
 SubCellBarCode
 SummarizedExperiment
 Summix
+SurfR
 SwathXtend
 SynExtend
 SynMut
@@ -679,6 +682,7 @@ TCGAbiolinks
 TCseq
 TDbasedUFE
 TDbasedUFEadv
+TEKRABber
 TENxIO
 TEQC
 TFARM
@@ -760,6 +764,7 @@ annmap
 annotate
 annotationTools
 anota
+anota2seq
 antiProfiles
 apComplex
 apeglm
@@ -804,6 +809,7 @@ biomaRt
 biomformat
 biosigner
 biotmle
+blacksheepr
 blima
 bluster
 bnbc
@@ -864,6 +870,7 @@ convert
 copa
 coseq
 cosmosR
+countsimQC
 covEB
 covRNA
 cqn
@@ -877,6 +884,7 @@ customCMPdb
 cyanoFilter
 cycle
 cydar
+cypress
 cytoKernel
 cytoMEM
 cytolib
@@ -891,6 +899,7 @@ dearseq
 debCAM
 decontam
 decoupleR
+deltaCaptureC
 deltaGseg
 demuxmix
 densvis
@@ -912,6 +921,7 @@ doseR
 drawProteins
 dupRadar
 dyebias
+easier
 easyRNASeq
 easylift
 easyreporting
@@ -958,6 +968,7 @@ flowCut
 flowCyBar
 flowDensity
 flowFP
+flowGate
 flowGraph
 flowMatch
 flowMeans
@@ -969,6 +980,7 @@ flowSpecs
 flowStats
 flowTime
 flowTrans
+flowVS
 flowViz
 flowWorkspace
 flowcatchR
@@ -1345,6 +1357,7 @@ schex
 scifer
 scmap
 scoup
+scrapper
 screenCounter
 seahtrue
 sechm

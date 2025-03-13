@@ -1450,3 +1450,16 @@ SEtools
 TCC
 coseq
 zenith
+anota2seq
+blacksheepr
+countsimQC
+cypress
+deltaCaptureC
+easier
+flowGate
+flowVS
+Glimma
+MIRit
+scrapper
+SurfR
+TEKRABber
