@@ -1961,3 +1961,4 @@
 ['[CytoPipeline](https://bioconductor.org/packages/3.20/bioc/html/CytoPipeline.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CytoPipeline/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CytoPipeline)']
 ['[metaseqR2](https://bioconductor.org/packages/3.20/bioc/html/metaseqR2.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/metaseqR2/build-success.log)', '[ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/metaseqR2)']
 ['[HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/HiCDCPlus/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HiCDCPlus)']
+['[karyoploteR](https://bioconductor.org/packages/3.20/bioc/html/karyoploteR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/karyoploteR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/karyoploteR)']

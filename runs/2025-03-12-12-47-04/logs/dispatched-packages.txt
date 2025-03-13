@@ -2076,3 +2076,4 @@ CRISPRball
 SPIAT
 CytoMDS
 CytoPipelineGUI
+multicrispr

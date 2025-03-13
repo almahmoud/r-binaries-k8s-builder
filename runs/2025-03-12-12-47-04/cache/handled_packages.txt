@@ -1429,6 +1429,7 @@ isomiRs
 iterativeBMA
 iterativeBMAsurv
 ivygapSE
+karyoploteR
 katdetectr
 kebabs
 keggorthology

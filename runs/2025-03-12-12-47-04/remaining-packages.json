@@ -49,12 +49,10 @@
     "scater"
   ],
   "CNVfilteR": [
-    "karyoploteR",
     "CopyNumberPlots",
     "cn.mops"
   ],
   "CNViz": [
-    "karyoploteR",
     "CopyNumberPlots",
     "cn.mops"
   ],
@@ -89,7 +87,6 @@
   "CircSeqAlignTk": [],
   "CiteFuse": [],
   "CopyNumberPlots": [
-    "karyoploteR",
     "cn.mops"
   ],
   "CytoGLMM": [],
@@ -452,7 +449,6 @@
   "intansv": [
     "ggbio"
   ],
-  "karyoploteR": [],
   "lumi": [
     "methylumi"
   ],
@@ -514,9 +510,7 @@
   "msgbsR": [
     "ggbio"
   ],
-  "multicrispr": [
-    "karyoploteR"
-  ],
+  "multicrispr": [],
   "mumosa": [],
   "muscat": [
     "scater"
