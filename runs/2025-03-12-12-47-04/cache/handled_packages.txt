@@ -201,6 +201,7 @@ CoSIA
 Cogito
 ComPrAn
 ComplexHeatmap
+CompoundDb
 ConsensusClusterPlus
 CoreGx
 Cormotif
@@ -623,6 +624,7 @@ ORFhunteR
 ORFik
 OSAT
 OTUbase
+OUTRIDER
 OVESEG
 OmaDB
 OmicCircos
@@ -634,6 +636,7 @@ OncoSimulR
 OpenStats
 OrderedList
 Organism.dplyr
+OrganismDbi
 OutSplice
 PAA
 PADOG
@@ -950,6 +953,7 @@ XDE
 XINA
 XNAString
 XVector
+Xeva
 ZygosityPredictor
 a4
 a4Base
@@ -1140,6 +1144,7 @@ cqn
 crisprBase
 crisprBowtie
 crisprBwa
+crisprDesign
 crisprScore
 crlmm
 csaw
@@ -1310,6 +1315,7 @@ genomation
 genomeIntervals
 genomes
 genomicInstability
+geomeTriD
 gep2pep
 getDEE2
 geva
@@ -1337,6 +1343,7 @@ goProfiles
 goSTAG
 goSorensen
 goTools
+goseq
 gpls
 gpuMagic
 granulator
@@ -1455,6 +1462,7 @@ mariner
 marr
 marray
 martini
+maser
 maskBAD
 massiR
 mastR
@@ -1467,6 +1475,7 @@ mdqc
 megadepth
 memes
 meshes
+meshr
 messina
 metaCCA
 metaSeq
@@ -1508,6 +1517,7 @@ midasHLA
 miloR
 mina
 minet
+minfi
 mirIntegrator
 mirTarRnaSeq
 missRows
@@ -1643,6 +1653,7 @@ pqsfinder
 pram
 prebs
 preprocessCore
+proActiv
 proBAMr
 proDA
 procoil
@@ -1695,6 +1706,7 @@ rebook
 receptLoss
 reconsi
 recount3
+recoup
 regionReport
 regionalpcs
 regioneR
@@ -1813,6 +1825,7 @@ simpleSeg
 simplifyEnrichment
 sincell
 singscore
+sitadela
 sitePath
 sizepower
 sketchR
@@ -1841,6 +1854,7 @@ spkTools
 splatter
 splineTimeR
 splots
+spoon
 spqn
 ssPATHS
 sscu
@@ -1879,6 +1893,7 @@ tRNA
 tRNAdbImport
 tRNAscanImport
 tRanslatome
+tadar
 tanggle
 target
 tenXplore
@@ -1926,6 +1941,7 @@ ttgsea
 tweeDEseq
 twilight
 twoddpcr
+txcutr
 txdbmaker
 tximport
 uSORT
