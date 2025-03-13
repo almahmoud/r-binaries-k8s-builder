@@ -1328,6 +1328,7 @@ plgem
 plier
 plotGrouper
 plyranges
+plyxp
 pmm
 pmp
 podkat

@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1568 packages built successfully
+- 1569 packages built successfully
 - 24 packages failed to build
-- 641 packages not yet processed
+- 640 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1568)
+## Successfully Built (1569)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1607,8 +1607,9 @@
 | [slingshot](https://bioconductor.org/packages/3.20/bioc/html/slingshot.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/slingshot/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/slingshot)                  |
 | [rTRMui](https://bioconductor.org/packages/3.20/bioc/html/rTRMui.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/rTRMui/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rTRMui)                     |
 | [surfaltr](https://bioconductor.org/packages/3.20/bioc/html/surfaltr.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/surfaltr/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/surfaltr)                   |
+| [plyxp](https://bioconductor.org/packages/3.20/bioc/html/plyxp.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/plyxp/build-success.log)                      | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/plyxp)                   |
 
-## Not Yet Processed (641)
+## Not Yet Processed (640)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -2138,7 +2139,6 @@
 | [planttfhunter](https://bioconductor.org/packages/3.20/bioc/html/planttfhunter.html)                             | Unprocessed |
 | [plotgardener](https://bioconductor.org/packages/3.20/bioc/html/plotgardener.html)                               | Unprocessed |
 | [plyinteractions](https://bioconductor.org/packages/3.20/bioc/html/plyinteractions.html)                         | Unprocessed |
-| [plyxp](https://bioconductor.org/packages/3.20/bioc/html/plyxp.html)                                             | Unprocessed |
 | [pram](https://bioconductor.org/packages/3.20/bioc/html/pram.html)                                               | Unprocessed |
 | [prebs](https://bioconductor.org/packages/3.20/bioc/html/prebs.html)                                             | Unprocessed |
 | [preciseTAD](https://bioconductor.org/packages/3.20/bioc/html/preciseTAD.html)                                   | Unprocessed |

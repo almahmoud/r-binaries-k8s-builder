@@ -1566,3 +1566,4 @@
 ['[slingshot](https://bioconductor.org/packages/3.20/bioc/html/slingshot.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/slingshot/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/slingshot)']
 ['[rTRMui](https://bioconductor.org/packages/3.20/bioc/html/rTRMui.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rTRMui/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rTRMui)']
 ['[surfaltr](https://bioconductor.org/packages/3.20/bioc/html/surfaltr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/surfaltr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/surfaltr)']
+['[plyxp](https://bioconductor.org/packages/3.20/bioc/html/plyxp.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/plyxp/build-success.log)', '[ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/plyxp)']
