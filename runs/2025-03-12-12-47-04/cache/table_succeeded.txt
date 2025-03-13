@@ -1865,3 +1865,4 @@
 ['[epigraHMM](https://bioconductor.org/packages/3.20/bioc/html/epigraHMM.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/epigraHMM/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epigraHMM)']
 ['[svaRetro](https://bioconductor.org/packages/3.20/bioc/html/svaRetro.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/svaRetro/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/svaRetro)']
 ['[xcore](https://bioconductor.org/packages/3.20/bioc/html/xcore.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/xcore/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcore)']
+['[musicatk](https://bioconductor.org/packages/3.20/bioc/html/musicatk.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/musicatk/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/musicatk)']

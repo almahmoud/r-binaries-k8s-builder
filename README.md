@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1867 packages built successfully
+- 1868 packages built successfully
 - 28 packages failed to build
-- 338 packages not yet processed
+- 337 packages not yet processed
 
 ## Failed Builds (28)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -40,7 +40,7 @@
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 
-## Successfully Built (1867)
+## Successfully Built (1868)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1910,8 +1910,9 @@
 | [epigraHMM](https://bioconductor.org/packages/3.20/bioc/html/epigraHMM.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/epigraHMM/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epigraHMM)                   |
 | [svaRetro](https://bioconductor.org/packages/3.20/bioc/html/svaRetro.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/svaRetro/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/svaRetro)                    |
 | [xcore](https://bioconductor.org/packages/3.20/bioc/html/xcore.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/xcore/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcore)                       |
+| [musicatk](https://bioconductor.org/packages/3.20/bioc/html/musicatk.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/musicatk/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/musicatk)                    |
 
-## Not Yet Processed (338)
+## Not Yet Processed (337)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2177,7 +2178,6 @@
 | [multicrispr](https://bioconductor.org/packages/3.20/bioc/html/multicrispr.html)                               | Unprocessed |
 | [mumosa](https://bioconductor.org/packages/3.20/bioc/html/mumosa.html)                                         | Unprocessed |
 | [muscat](https://bioconductor.org/packages/3.20/bioc/html/muscat.html)                                         | Unprocessed |
-| [musicatk](https://bioconductor.org/packages/3.20/bioc/html/musicatk.html)                                     | Unprocessed |
 | [mygene](https://bioconductor.org/packages/3.20/bioc/html/mygene.html)                                         | Unprocessed |
 | [ncGTW](https://bioconductor.org/packages/3.20/bioc/html/ncGTW.html)                                           | Unprocessed |
 | [netSmooth](https://bioconductor.org/packages/3.20/bioc/html/netSmooth.html)                                   | Unprocessed |

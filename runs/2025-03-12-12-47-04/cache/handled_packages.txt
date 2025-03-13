@@ -1487,6 +1487,7 @@ multiscan
 multistateQTL
 multtest
 muscle
+musicatk
 myvariant
 mzID
 mzR
