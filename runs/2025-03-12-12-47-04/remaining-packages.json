@@ -102,7 +102,6 @@
     "CopyNumberPlots",
     "cn.mops"
   ],
-  "CNVrd2": [],
   "CONFESS": [
     "flowPeaks"
   ],
@@ -302,7 +301,6 @@
     "oligo",
     "affxparser"
   ],
-  "InTAD": [],
   "IntEREst": [
     "txdbmaker"
   ],
@@ -558,7 +556,6 @@
   ],
   "UMI4Cats": [],
   "Ularcirc": [],
-  "Uniquorn": [],
   "VAExprs": [
     "scater",
     "scuttle"
@@ -613,7 +610,6 @@
     "motifStack",
     "TFBSTools"
   ],
-  "attract": [],
   "bandle": [],
   "batchelor": [
     "scuttle"

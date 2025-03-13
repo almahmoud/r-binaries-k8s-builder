@@ -140,6 +140,7 @@ CNTools
 CNVMetrics
 CNVPanelizer
 CNVRanger
+CNVrd2
 COCOA
 CODEX
 COMPASS
@@ -431,6 +432,7 @@ Icens
 IdeoViz
 IgGeneUsage
 InPAS
+InTAD
 Informeasure
 InterCellar
 InteractionSet
@@ -884,6 +886,7 @@ UCell
 UNDO
 UPDhmm
 UniProt.ws
+Uniquorn
 VCFArray
 VDJdive
 VERSO
@@ -953,6 +956,7 @@ arrayQualityMetrics
 artMS
 assorthead
 atena
+attract
 autonomics
 awst
 bacon
