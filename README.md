@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2156 packages built successfully
+- 2157 packages built successfully
 - 30 packages failed to build
-- 47 packages not yet processed
+- 46 packages not yet processed
 
 ## Failed Builds (30)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -42,7 +42,7 @@
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/bandle/build-fail.log)        | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bandle)     | Build failed with unknown error     |
 
-## Successfully Built (2156)
+## Successfully Built (2157)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2201,8 +2201,9 @@
 | [iSEEtree](https://bioconductor.org/packages/3.20/bioc/html/iSEEtree.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/iSEEtree/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iSEEtree)                    |
 | [methylGSA](https://bioconductor.org/packages/3.20/bioc/html/methylGSA.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/methylGSA/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methylGSA)                   |
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/skewr/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/skewr)                       |
+| [bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/bigmelon/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bigmelon)                    |
 
-## Not Yet Processed (47)
+## Not Yet Processed (46)
 | Package                                                                                      | Status      |
 |----------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                     | Unprocessed |
@@ -2229,7 +2230,6 @@
 | [SCAN.UPC](https://bioconductor.org/packages/3.20/bioc/html/SCAN.UPC.html)                   | Unprocessed |
 | [SCArray.sat](https://bioconductor.org/packages/3.20/bioc/html/SCArray.sat.html)             | Unprocessed |
 | [affyILM](https://bioconductor.org/packages/3.20/bioc/html/affyILM.html)                     | Unprocessed |
-| [bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)                   | Unprocessed |
 | [broadSeq](https://bioconductor.org/packages/3.20/bioc/html/broadSeq.html)                   | Unprocessed |
 | [cliqueMS](https://bioconductor.org/packages/3.20/bioc/html/cliqueMS.html)                   | Unprocessed |
 | [cn.farms](https://bioconductor.org/packages/3.20/bioc/html/cn.farms.html)                   | Unprocessed |
