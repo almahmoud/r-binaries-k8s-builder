@@ -180,6 +180,7 @@ ChIPsim
 ChemmineOB
 ChemmineR
 Chicago
+ChromHeatMap
 ClassifyR
 CleanUpRNAseq
 Clomial
