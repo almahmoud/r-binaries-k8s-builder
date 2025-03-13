@@ -1165,3 +1165,6 @@ CNVPanelizer
 mosaics
 multiWGCNA
 pgxRpi
+SplicingFactory
+Trendy
+trigger

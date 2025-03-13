@@ -541,6 +541,7 @@ SpatialOmicsOverlay
 SpeCond
 Spectra
 SpectraQL
+SplicingFactory
 Streamer
 Structstrings
 SubCellBarCode
@@ -571,6 +572,7 @@ TissueEnrich
 TnT
 TrajectoryGeometry
 TreeAndLeaf
+Trendy
 TurboNorm
 UCSC.utils
 UNDO
@@ -1161,6 +1163,7 @@ tracktables
 transite
 transomics2cytoscape
 treeio
+trigger
 trio
 triplex
 tripr

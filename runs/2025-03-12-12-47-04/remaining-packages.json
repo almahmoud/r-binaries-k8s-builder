@@ -2147,7 +2147,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "SplicingFactory": [],
   "SplicingGraphs": [
     "GenomicFeatures",
     "rtracklayer"
@@ -2251,7 +2250,6 @@
   ],
   "TrajectoryUtils": [],
   "TreeSummarizedExperiment": [],
-  "Trendy": [],
   "UCell": [],
   "UMI4Cats": [
     "ShortRead",
@@ -5000,7 +4998,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "trigger": [],
   "txcutr": [
     "GenomicFeatures",
     "txdbmaker",
