@@ -7,6 +7,7 @@ ADAMgui
 ADAPT
 ADImpute
 AGDEX
+AHMassBank
 AIMS
 ALDEx2
 AMARETTO
@@ -25,6 +26,7 @@ ASSIGN
 ASURAT
 ASpli
 ATACseqQC
+ATACseqTFEA
 AUCell
 AWFisher
 AffiXcan
@@ -837,6 +839,7 @@ Rgraphviz
 Rhdf5lib
 Rhisat2
 Rhtslib
+RiboCrypt
 RiboDiPA
 RiboProfiling
 Rmagpie
@@ -1336,6 +1339,7 @@ escheR
 esetVis
 eudysbiome
 evaluomeR
+extraChIPs
 fCCAC
 fCI
 fabia
@@ -1729,6 +1733,7 @@ pRoloc
 pRolocGUI
 packFinder
 padma
+pageRank
 paircompviz
 pairedGSEA
 pairkat
@@ -1761,6 +1766,7 @@ phosphonormalizer
 phyloseq
 piano
 pickgene
+pipeComp
 pipeFrame
 planet
 planttfhunter
@@ -1917,6 +1923,7 @@ scShapes
 scTGIF
 scTHI
 scTensor
+scTreeViz
 scanMiR
 scanMiRApp
 scater
@@ -1994,6 +2001,7 @@ sparsenetgls
 spatialDE
 spatialHeatmap
 spatialSimGP
+spatzie
 specL
 speckle
 spicyR

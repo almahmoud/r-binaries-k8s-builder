@@ -2102,3 +2102,11 @@ scDblFinder
 scDotPlot
 tricycle
 motifbreakR
+AHMassBank
+ATACseqTFEA
+extraChIPs
+pageRank
+pipeComp
+RiboCrypt
+scTreeViz
+spatzie

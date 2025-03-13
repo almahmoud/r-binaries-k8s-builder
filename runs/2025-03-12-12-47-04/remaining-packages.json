@@ -2,8 +2,6 @@
   "ADaCGH2": [
     "GLAD"
   ],
-  "AHMassBank": [],
-  "ATACseqTFEA": [],
   "AgiMicroRna": [],
   "ArrayExpress": [
     "oligo",
@@ -112,7 +110,6 @@
   ],
   "R3CPET": [],
   "Repitools": [],
-  "RiboCrypt": [],
   "Rtreemix": [],
   "SAIGEgds": [],
   "SCAN.UPC": [
@@ -169,7 +166,6 @@
   "enhancerHomologSearch": [],
   "epiregulon": [],
   "esATAC": [],
-  "extraChIPs": [],
   "fastseg": [],
   "ffpe": [
     "lumi"
@@ -238,7 +234,6 @@
   "oligo": [
     "affxparser"
   ],
-  "pageRank": [],
   "panelcn.mops": [
     "cn.mops"
   ],
@@ -248,7 +243,6 @@
     "oligo"
   ],
   "peco": [],
-  "pipeComp": [],
   "preciseTAD": [],
   "puma": [
     "oligo",
@@ -263,7 +257,6 @@
   ],
   "scFeatures": [],
   "scMerge": [],
-  "scTreeViz": [],
   "scviR": [],
   "singleCellTK": [
     "scMerge"
@@ -272,7 +265,6 @@
     "wateRmelon",
     "lumi"
   ],
-  "spatzie": [],
   "squallms": [
     "xcms"
   ],
