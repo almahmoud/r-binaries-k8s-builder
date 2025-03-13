@@ -2074,3 +2074,5 @@ CircSeqAlignTk
 preciseTAD
 CRISPRball
 SPIAT
+CytoMDS
+CytoPipelineGUI

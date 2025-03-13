@@ -93,13 +93,8 @@
     "cn.mops"
   ],
   "CytoGLMM": [],
-  "CytoMDS": [
-    "CytoPipeline"
-  ],
-  "CytoPipeline": [],
-  "CytoPipelineGUI": [
-    "CytoPipeline"
-  ],
+  "CytoMDS": [],
+  "CytoPipelineGUI": [],
   "DEScan2": [],
   "DEsubs": [
     "EBSeq"
@@ -468,7 +463,6 @@
     "CAMERA",
     "xcms"
   ],
-  "metaseqR2": [],
   "methInheritSim": [
     "methylKit",
     "fastseg"

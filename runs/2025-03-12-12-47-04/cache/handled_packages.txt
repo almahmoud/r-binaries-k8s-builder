@@ -212,6 +212,7 @@ CuratedAtlasQueryR
 CytoDx
 CytoGLMM
 CytoML
+CytoPipeline
 DAMEfinder
 DAPAR
 DART
@@ -1494,6 +1495,7 @@ metagenomeSeq
 metahdep
 metapod
 metapone
+metaseqR2
 methimpute
 methrix
 methyLImp2
