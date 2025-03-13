@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1508 packages built successfully
+- 1510 packages built successfully
 - 23 packages failed to build
-- 702 packages not yet processed
+- 700 packages not yet processed
 
 ## Failed Builds (23)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -35,7 +35,7 @@
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 
-## Successfully Built (1508)
+## Successfully Built (1510)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1546,8 +1546,10 @@
 | [omicade4](https://bioconductor.org/packages/3.20/bioc/html/omicade4.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/omicade4/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/omicade4)                   |
 | [qsea](https://bioconductor.org/packages/3.20/bioc/html/qsea.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/qsea/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/qsea)                       |
 | [rGADEM](https://bioconductor.org/packages/3.20/bioc/html/rGADEM.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/rGADEM/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rGADEM)                     |
+| [m6Aboost](https://bioconductor.org/packages/3.20/bioc/html/m6Aboost.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/m6Aboost/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/m6Aboost)                   |
+| [traseR](https://bioconductor.org/packages/3.20/bioc/html/traseR.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/traseR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/traseR)                     |
 
-## Not Yet Processed (702)
+## Not Yet Processed (700)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -2031,7 +2033,6 @@
 | [lisaClust](https://bioconductor.org/packages/3.20/bioc/html/lisaClust.html)                                     | Unprocessed |
 | [lumi](https://bioconductor.org/packages/3.20/bioc/html/lumi.html)                                               | Unprocessed |
 | [lute](https://bioconductor.org/packages/3.20/bioc/html/lute.html)                                               | Unprocessed |
-| [m6Aboost](https://bioconductor.org/packages/3.20/bioc/html/m6Aboost.html)                                       | Unprocessed |
 | [mCSEA](https://bioconductor.org/packages/3.20/bioc/html/mCSEA.html)                                             | Unprocessed |
 | [magpie](https://bioconductor.org/packages/3.20/bioc/html/magpie.html)                                           | Unprocessed |
 | [mariner](https://bioconductor.org/packages/3.20/bioc/html/mariner.html)                                         | Unprocessed |
@@ -2234,7 +2235,6 @@
 | [transcriptogramer](https://bioconductor.org/packages/3.20/bioc/html/transcriptogramer.html)                     | Unprocessed |
 | [transformGamPoi](https://bioconductor.org/packages/3.20/bioc/html/transformGamPoi.html)                         | Unprocessed |
 | [transmogR](https://bioconductor.org/packages/3.20/bioc/html/transmogR.html)                                     | Unprocessed |
-| [traseR](https://bioconductor.org/packages/3.20/bioc/html/traseR.html)                                           | Unprocessed |
 | [treeclimbR](https://bioconductor.org/packages/3.20/bioc/html/treeclimbR.html)                                   | Unprocessed |
 | [treekoR](https://bioconductor.org/packages/3.20/bioc/html/treekoR.html)                                         | Unprocessed |
 | [tricycle](https://bioconductor.org/packages/3.20/bioc/html/tricycle.html)                                       | Unprocessed |

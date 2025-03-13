@@ -2184,7 +2184,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "m6Aboost": [],
   "mCSEA": [
     "GenomicFeatures",
     "Gviz",
@@ -3040,7 +3039,6 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "traseR": [],
   "treeclimbR": [],
   "treekoR": [],
   "tricycle": [

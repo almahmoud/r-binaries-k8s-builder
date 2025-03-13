@@ -1141,6 +1141,7 @@ loci2path
 logicFS
 lpNet
 lpsymphony
+m6Aboost
 mBPCR
 maCorrPlot
 maPredictDSC
@@ -1492,6 +1493,7 @@ topconfects
 tracktables
 transite
 transomics2cytoscape
+traseR
 treeio
 trigger
 trio
