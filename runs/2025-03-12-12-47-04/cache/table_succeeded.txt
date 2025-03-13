@@ -1678,3 +1678,5 @@
 ['[doubletrouble](https://bioconductor.org/packages/3.20/bioc/html/doubletrouble.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/doubletrouble/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/doubletrouble)']
 ['[factR](https://bioconductor.org/packages/3.20/bioc/html/factR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/factR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/factR)']
 ['[geneAttribution](https://bioconductor.org/packages/3.20/bioc/html/geneAttribution.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/geneAttribution/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/geneAttribution)']
+['[bambu](https://bioconductor.org/packages/3.20/bioc/html/bambu.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/bambu/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bambu)']
+['[gmoviz](https://bioconductor.org/packages/3.20/bioc/html/gmoviz.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/gmoviz/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gmoviz)']

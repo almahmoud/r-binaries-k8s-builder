@@ -885,6 +885,7 @@ autonomics
 awst
 bacon
 ballgown
+bambu
 bamsignals
 banocc
 barcodetrackR
@@ -1164,6 +1165,7 @@ girafe
 glmGamPoi
 globalSeq
 globaltest
+gmoviz
 goProfiles
 goSTAG
 goSorensen

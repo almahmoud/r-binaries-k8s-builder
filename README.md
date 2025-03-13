@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1680 packages built successfully
+- 1682 packages built successfully
 - 25 packages failed to build
-- 528 packages not yet processed
+- 526 packages not yet processed
 
 ## Failed Builds (25)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -37,7 +37,7 @@
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 | [SCArray](https://bioconductor.org/packages/3.20/bioc/html/SCArray.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SCArray/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SCArray)       | Build failed with unknown error     |
 
-## Successfully Built (1680)
+## Successfully Built (1682)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1720,8 +1720,10 @@
 | [doubletrouble](https://bioconductor.org/packages/3.20/bioc/html/doubletrouble.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/doubletrouble/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/doubletrouble)              |
 | [factR](https://bioconductor.org/packages/3.20/bioc/html/factR.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/factR/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/factR)                      |
 | [geneAttribution](https://bioconductor.org/packages/3.20/bioc/html/geneAttribution.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/geneAttribution/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/geneAttribution)            |
+| [bambu](https://bioconductor.org/packages/3.20/bioc/html/bambu.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/bambu/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bambu)                      |
+| [gmoviz](https://bioconductor.org/packages/3.20/bioc/html/gmoviz.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/gmoviz/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gmoviz)                     |
 
-## Not Yet Processed (528)
+## Not Yet Processed (526)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1971,7 +1973,6 @@
 | [arrayMvout](https://bioconductor.org/packages/3.20/bioc/html/arrayMvout.html)                                   | Unprocessed |
 | [atSNP](https://bioconductor.org/packages/3.20/bioc/html/atSNP.html)                                             | Unprocessed |
 | [attract](https://bioconductor.org/packages/3.20/bioc/html/attract.html)                                         | Unprocessed |
-| [bambu](https://bioconductor.org/packages/3.20/bioc/html/bambu.html)                                             | Unprocessed |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)                                           | Unprocessed |
 | [batchelor](https://bioconductor.org/packages/3.20/bioc/html/batchelor.html)                                     | Unprocessed |
 | [benchdamic](https://bioconductor.org/packages/3.20/bioc/html/benchdamic.html)                                   | Unprocessed |
@@ -2064,7 +2065,6 @@
 | [ggspavis](https://bioconductor.org/packages/3.20/bioc/html/ggspavis.html)                                       | Unprocessed |
 | [glmSparseNet](https://bioconductor.org/packages/3.20/bioc/html/glmSparseNet.html)                               | Unprocessed |
 | [gmapR](https://bioconductor.org/packages/3.20/bioc/html/gmapR.html)                                             | Unprocessed |
-| [gmoviz](https://bioconductor.org/packages/3.20/bioc/html/gmoviz.html)                                           | Unprocessed |
 | [goseq](https://bioconductor.org/packages/3.20/bioc/html/goseq.html)                                             | Unprocessed |
 | [gwascat](https://bioconductor.org/packages/3.20/bioc/html/gwascat.html)                                         | Unprocessed |
 | [gwasurvivr](https://bioconductor.org/packages/3.20/bioc/html/gwasurvivr.html)                                   | Unprocessed |

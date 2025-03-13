@@ -322,7 +322,6 @@
   ],
   "ExperimentSubset": [],
   "FLAMES": [
-    "bambu",
     "DropletUtils",
     "txdbmaker",
     "ggbio",
@@ -899,7 +898,6 @@
   "attract": [
     "GOstats"
   ],
-  "bambu": [],
   "bandle": [
     "MSnbase",
     "pRoloc"
@@ -1258,7 +1256,6 @@
   "girafe": [],
   "glmSparseNet": [],
   "gmapR": [],
-  "gmoviz": [],
   "goseq": [
     "txdbmaker"
   ],
