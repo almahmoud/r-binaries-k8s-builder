@@ -1326,6 +1326,7 @@ epidecodeR
 epigenomix
 epigraHMM
 epimutacions
+epiregulon
 epiregulon.extra
 epistack
 epistasisGA
