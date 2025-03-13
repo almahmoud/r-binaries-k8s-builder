@@ -694,10 +694,12 @@ S4Arrays
 S4Vectors
 SAIGEgds
 SANTA
+SARC
 SBGNview
 SBMLR
 SC3
 SCANVIS
+SCArray
 SCBN
 SCFA
 SCOPE
@@ -776,6 +778,7 @@ TADCompare
 TAPseq
 TCC
 TCGAbiolinks
+TCGAutils
 TCseq
 TDbasedUFE
 TDbasedUFEadv
@@ -818,6 +821,7 @@ VERSO
 VaSP
 VanillaICE
 VarCon
+VariantAnnotation
 VariantExperiment
 VegaMC
 VennDetail
@@ -924,6 +928,7 @@ breakpointR
 brendaDb
 bsseq
 bugsigdbr
+bumphunter
 cTRAP
 calm
 cancerclass
@@ -1037,6 +1042,7 @@ dks
 dominoSignal
 doppelgangR
 doseR
+doubletrouble
 drawProteins
 dreamlet
 dupRadar
@@ -1067,6 +1073,7 @@ fCCAC
 fCI
 fabia
 factDesign
+factR
 faers
 famat
 fastLiquidAssociation
@@ -1126,6 +1133,7 @@ geNetClassifier
 gemini
 gemma.R
 genArise
+geneAttribution
 geneClassifiers
 geneRecommender
 geneRxCluster
