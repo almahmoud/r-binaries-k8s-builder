@@ -1869,3 +1869,6 @@ musicatk
 alabaster.vcf
 ChromHeatMap
 ggspavis
+ASpli
+DeMixT
+DuplexDiscovereR

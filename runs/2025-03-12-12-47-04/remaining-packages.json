@@ -6,7 +6,6 @@
     "AnnotationHubData",
     "OrganismDbi"
   ],
-  "ASpli": [],
   "ATACseqQC": [
     "ChIPpeakAnno",
     "motifStack",
@@ -153,7 +152,6 @@
     "goseq",
     "OrganismDbi"
   ],
-  "DeMixT": [],
   "DegNorm": [],
   "DiffBind": [],
   "Dino": [
@@ -165,7 +163,6 @@
     "oligo",
     "affxparser"
   ],
-  "DuplexDiscovereR": [],
   "EBSeq": [],
   "EGSEA": [],
   "ELMER": [],
@@ -871,9 +868,7 @@
     "RUVSeq",
     "TFBSTools"
   ],
-  "saseR": [
-    "ASpli"
-  ],
+  "saseR": [],
   "scCB2": [
     "DropletUtils"
   ],

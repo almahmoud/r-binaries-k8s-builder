@@ -23,6 +23,7 @@ ASICS
 ASSET
 ASSIGN
 ASURAT
+ASpli
 AUCell
 AWFisher
 AffiXcan
@@ -239,6 +240,7 @@ DSS
 DTA
 DaMiRseq
 DeMAND
+DeMixT
 DeconRNASeq
 DeepPINCS
 DeepTarget
@@ -260,6 +262,7 @@ DominoEffect
 Doscheda
 DriverNet
 Dune
+DuplexDiscovereR
 DynDoc
 EBImage
 EBSEA
