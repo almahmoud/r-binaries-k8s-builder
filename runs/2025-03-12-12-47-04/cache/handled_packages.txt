@@ -847,6 +847,7 @@ VanillaICE
 VarCon
 VariantAnnotation
 VariantExperiment
+VariantTools
 VegaMC
 VennDetail
 VplotR

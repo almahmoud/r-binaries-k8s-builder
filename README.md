@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1745 packages built successfully
+- 1746 packages built successfully
 - 27 packages failed to build
-- 461 packages not yet processed
+- 460 packages not yet processed
 
 ## Failed Builds (27)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -39,7 +39,7 @@
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 
-## Successfully Built (1745)
+## Successfully Built (1746)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1787,8 +1787,9 @@
 | [decompTumor2Sig](https://bioconductor.org/packages/3.20/bioc/html/decompTumor2Sig.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/decompTumor2Sig/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/decompTumor2Sig)             |
 | [multiMiR](https://bioconductor.org/packages/3.20/bioc/html/multiMiR.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/multiMiR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multiMiR)                    |
 | [pipeFrame](https://bioconductor.org/packages/3.20/bioc/html/pipeFrame.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/pipeFrame/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pipeFrame)                   |
+| [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/VariantTools/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VariantTools)                |
 
-## Not Yet Processed (461)
+## Not Yet Processed (460)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -1997,7 +1998,6 @@
 | [VAExprs](https://bioconductor.org/packages/3.20/bioc/html/VAExprs.html)                                       | Unprocessed |
 | [VCFArray](https://bioconductor.org/packages/3.20/bioc/html/VCFArray.html)                                     | Unprocessed |
 | [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)                     | Unprocessed |
-| [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                             | Unprocessed |
 | [VisiumIO](https://bioconductor.org/packages/3.20/bioc/html/VisiumIO.html)                                     | Unprocessed |
 | [Voyager](https://bioconductor.org/packages/3.20/bioc/html/Voyager.html)                                       | Unprocessed |
 | [Xeva](https://bioconductor.org/packages/3.20/bioc/html/Xeva.html)                                             | Unprocessed |

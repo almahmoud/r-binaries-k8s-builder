@@ -1743,3 +1743,4 @@ deepSNV
 decompTumor2Sig
 multiMiR
 pipeFrame
+VariantTools

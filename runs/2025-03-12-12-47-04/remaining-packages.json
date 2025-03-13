@@ -693,7 +693,6 @@
   "VariantFiltering": [
     "Gviz"
   ],
-  "VariantTools": [],
   "VisiumIO": [],
   "Voyager": [
     "SpatialFeatureExperiment",
