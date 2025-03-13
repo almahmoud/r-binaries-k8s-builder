@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1484 packages built successfully
+- 1486 packages built successfully
 - 23 packages failed to build
-- 726 packages not yet processed
+- 724 packages not yet processed
 
 ## Failed Builds (23)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -35,7 +35,7 @@
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 
-## Successfully Built (1484)
+## Successfully Built (1486)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1522,8 +1522,10 @@
 | [mobileRNA](https://bioconductor.org/packages/3.20/bioc/html/mobileRNA.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/mobileRNA/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mobileRNA)                  |
 | [scBFA](https://bioconductor.org/packages/3.20/bioc/html/scBFA.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/scBFA/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scBFA)                      |
 | [vidger](https://bioconductor.org/packages/3.20/bioc/html/vidger.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/vidger/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/vidger)                     |
+| [tRanslatome](https://bioconductor.org/packages/3.20/bioc/html/tRanslatome.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/tRanslatome/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tRanslatome)                |
+| [zitools](https://bioconductor.org/packages/3.20/bioc/html/zitools.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/zitools/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/zitools)                    |
 
-## Not Yet Processed (726)
+## Not Yet Processed (724)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -2218,7 +2220,6 @@
 | [systemPipeTools](https://bioconductor.org/packages/3.20/bioc/html/systemPipeTools.html)                         | Unprocessed |
 | [tLOH](https://bioconductor.org/packages/3.20/bioc/html/tLOH.html)                                               | Unprocessed |
 | [tRNAscanImport](https://bioconductor.org/packages/3.20/bioc/html/tRNAscanImport.html)                           | Unprocessed |
-| [tRanslatome](https://bioconductor.org/packages/3.20/bioc/html/tRanslatome.html)                                 | Unprocessed |
 | [tadar](https://bioconductor.org/packages/3.20/bioc/html/tadar.html)                                             | Unprocessed |
 | [tenXplore](https://bioconductor.org/packages/3.20/bioc/html/tenXplore.html)                                     | Unprocessed |
 | [terraTCGAdata](https://bioconductor.org/packages/3.20/bioc/html/terraTCGAdata.html)                             | Unprocessed |
@@ -2251,4 +2252,3 @@
 | [xcore](https://bioconductor.org/packages/3.20/bioc/html/xcore.html)                                             | Unprocessed |
 | [xenLite](https://bioconductor.org/packages/3.20/bioc/html/xenLite.html)                                         | Unprocessed |
 | [yarn](https://bioconductor.org/packages/3.20/bioc/html/yarn.html)                                               | Unprocessed |
-| [zitools](https://bioconductor.org/packages/3.20/bioc/html/zitools.html)                                         | Unprocessed |

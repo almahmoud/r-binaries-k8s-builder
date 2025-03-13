@@ -1482,3 +1482,5 @@
 ['[mobileRNA](https://bioconductor.org/packages/3.20/bioc/html/mobileRNA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/mobileRNA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mobileRNA)']
 ['[scBFA](https://bioconductor.org/packages/3.20/bioc/html/scBFA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scBFA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scBFA)']
 ['[vidger](https://bioconductor.org/packages/3.20/bioc/html/vidger.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/vidger/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/vidger)']
+['[tRanslatome](https://bioconductor.org/packages/3.20/bioc/html/tRanslatome.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/tRanslatome/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tRanslatome)']
+['[zitools](https://bioconductor.org/packages/3.20/bioc/html/zitools.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/zitools/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/zitools)']

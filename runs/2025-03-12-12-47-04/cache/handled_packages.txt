@@ -1447,6 +1447,7 @@ synlet
 systemPipeShiny
 tRNA
 tRNAdbImport
+tRanslatome
 tanggle
 target
 ternarynet
@@ -1504,4 +1505,5 @@ zFPKM
 zellkonverter
 zenith
 zinbwave
+zitools
 zlibbioc
