@@ -2136,3 +2136,4 @@ SingleMoleculeFootprinting
 NADfinder
 crisprShiny
 methylclock
+MAGAR
