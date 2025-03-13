@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1639 packages built successfully
+- 1640 packages built successfully
 - 24 packages failed to build
-- 570 packages not yet processed
+- 569 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1639)
+## Successfully Built (1640)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1678,8 +1678,9 @@
 | [hermes](https://bioconductor.org/packages/3.20/bioc/html/hermes.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/hermes/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hermes)                     |
 | [tRNAscanImport](https://bioconductor.org/packages/3.20/bioc/html/tRNAscanImport.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/tRNAscanImport/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tRNAscanImport)             |
 | [SpatialExperiment](https://bioconductor.org/packages/3.20/bioc/html/SpatialExperiment.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/SpatialExperiment/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SpatialExperiment)          |
+| [AffiXcan](https://bioconductor.org/packages/3.20/bioc/html/AffiXcan.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AffiXcan/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AffiXcan)                   |
 
-## Not Yet Processed (570)
+## Not Yet Processed (569)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1688,7 +1689,6 @@
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                             | Unprocessed |
 | [ATACseqQC](https://bioconductor.org/packages/3.20/bioc/html/ATACseqQC.html)                                     | Unprocessed |
 | [ATACseqTFEA](https://bioconductor.org/packages/3.20/bioc/html/ATACseqTFEA.html)                                 | Unprocessed |
-| [AffiXcan](https://bioconductor.org/packages/3.20/bioc/html/AffiXcan.html)                                       | Unprocessed |
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                                 | Unprocessed |
 | [AllelicImbalance](https://bioconductor.org/packages/3.20/bioc/html/AllelicImbalance.html)                       | Unprocessed |
 | [AnnotationHubData](https://bioconductor.org/packages/3.20/bioc/html/AnnotationHubData.html)                     | Unprocessed |

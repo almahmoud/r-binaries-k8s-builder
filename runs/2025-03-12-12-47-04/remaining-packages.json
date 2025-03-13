@@ -28,7 +28,6 @@
     "motifmatchr",
     "TFBSTools"
   ],
-  "AffiXcan": [],
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",

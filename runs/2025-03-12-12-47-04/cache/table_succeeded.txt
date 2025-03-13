@@ -1637,3 +1637,4 @@
 ['[hermes](https://bioconductor.org/packages/3.20/bioc/html/hermes.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/hermes/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hermes)']
 ['[tRNAscanImport](https://bioconductor.org/packages/3.20/bioc/html/tRNAscanImport.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/tRNAscanImport/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tRNAscanImport)']
 ['[SpatialExperiment](https://bioconductor.org/packages/3.20/bioc/html/SpatialExperiment.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SpatialExperiment/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SpatialExperiment)']
+['[AffiXcan](https://bioconductor.org/packages/3.20/bioc/html/AffiXcan.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/AffiXcan/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AffiXcan)']

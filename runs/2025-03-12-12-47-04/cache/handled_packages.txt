@@ -24,6 +24,7 @@ ASSIGN
 ASURAT
 AUCell
 AWFisher
+AffiXcan
 AffyRNADegradation
 AlphaBeta
 AlphaMissenseR
