@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1208 packages built successfully
+- 1209 packages built successfully
 - 20 packages failed to build
-- 1005 packages not yet processed
+- 1004 packages not yet processed
 
 ## Failed Builds (20)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -32,7 +32,7 @@
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/cn.mops/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cn.mops)       | Build failed with unknown error     |
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 
-## Successfully Built (1208)
+## Successfully Built (1209)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1243,8 +1243,9 @@
 | [CNTools](https://bioconductor.org/packages/3.20/bioc/html/CNTools.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/CNTools/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNTools)                   |
 | [immApex](https://bioconductor.org/packages/3.20/bioc/html/immApex.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/immApex/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immApex)                   |
 | [scClassify](https://bioconductor.org/packages/3.20/bioc/html/scClassify.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/scClassify/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scClassify)                |
+| [infercnv](https://bioconductor.org/packages/3.20/bioc/html/infercnv.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/infercnv/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/infercnv)                  |
 
-## Not Yet Processed (1005)
+## Not Yet Processed (1004)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1935,7 +1936,6 @@
 | [ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)                                             | Unprocessed |
 | [igvR](https://bioconductor.org/packages/3.20/bioc/html/igvR.html)                                               | Unprocessed |
 | [imcRtools](https://bioconductor.org/packages/3.20/bioc/html/imcRtools.html)                                     | Unprocessed |
-| [infercnv](https://bioconductor.org/packages/3.20/bioc/html/infercnv.html)                                       | Unprocessed |
 | [intansv](https://bioconductor.org/packages/3.20/bioc/html/intansv.html)                                         | Unprocessed |
 | [interactiveDisplay](https://bioconductor.org/packages/3.20/bioc/html/interactiveDisplay.html)                   | Unprocessed |
 | [isomiRs](https://bioconductor.org/packages/3.20/bioc/html/isomiRs.html)                                         | Unprocessed |

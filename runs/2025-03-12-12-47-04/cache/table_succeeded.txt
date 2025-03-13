@@ -1206,3 +1206,4 @@
 ['[CNTools](https://bioconductor.org/packages/3.20/bioc/html/CNTools.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CNTools/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNTools)']
 ['[immApex](https://bioconductor.org/packages/3.20/bioc/html/immApex.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/immApex/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immApex)']
 ['[scClassify](https://bioconductor.org/packages/3.20/bioc/html/scClassify.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scClassify/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scClassify)']
+['[infercnv](https://bioconductor.org/packages/3.20/bioc/html/infercnv.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/infercnv/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/infercnv)']
