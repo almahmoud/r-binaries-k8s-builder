@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1514 packages built successfully
+- 1517 packages built successfully
 - 23 packages failed to build
-- 696 packages not yet processed
+- 693 packages not yet processed
 
 ## Failed Builds (23)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -35,7 +35,7 @@
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 
-## Successfully Built (1514)
+## Successfully Built (1517)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1552,8 +1552,11 @@
 | [ChIPanalyser](https://bioconductor.org/packages/3.20/bioc/html/ChIPanalyser.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/ChIPanalyser/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ChIPanalyser)               |
 | [normr](https://bioconductor.org/packages/3.20/bioc/html/normr.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/normr/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/normr)                      |
 | [nucleR](https://bioconductor.org/packages/3.20/bioc/html/nucleR.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/nucleR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/nucleR)                     |
+| [phantasusLite](https://bioconductor.org/packages/3.20/bioc/html/phantasusLite.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/phantasusLite/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/phantasusLite)              |
+| [phenomis](https://bioconductor.org/packages/3.20/bioc/html/phenomis.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/phenomis/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/phenomis)                   |
+| [spiky](https://bioconductor.org/packages/3.20/bioc/html/spiky.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/spiky/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spiky)                      |
 
-## Not Yet Processed (696)
+## Not Yet Processed (693)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -2112,9 +2115,7 @@
 | [peakPantheR](https://bioconductor.org/packages/3.20/bioc/html/peakPantheR.html)                                 | Unprocessed |
 | [peco](https://bioconductor.org/packages/3.20/bioc/html/peco.html)                                               | Unprocessed |
 | [phantasus](https://bioconductor.org/packages/3.20/bioc/html/phantasus.html)                                     | Unprocessed |
-| [phantasusLite](https://bioconductor.org/packages/3.20/bioc/html/phantasusLite.html)                             | Unprocessed |
 | [phenoTest](https://bioconductor.org/packages/3.20/bioc/html/phenoTest.html)                                     | Unprocessed |
-| [phenomis](https://bioconductor.org/packages/3.20/bioc/html/phenomis.html)                                       | Unprocessed |
 | [pipeComp](https://bioconductor.org/packages/3.20/bioc/html/pipeComp.html)                                       | Unprocessed |
 | [pipeFrame](https://bioconductor.org/packages/3.20/bioc/html/pipeFrame.html)                                     | Unprocessed |
 | [planttfhunter](https://bioconductor.org/packages/3.20/bioc/html/planttfhunter.html)                             | Unprocessed |
@@ -2205,7 +2206,6 @@
 | [spatialSimGP](https://bioconductor.org/packages/3.20/bioc/html/spatialSimGP.html)                               | Unprocessed |
 | [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                                         | Unprocessed |
 | [spicyR](https://bioconductor.org/packages/3.20/bioc/html/spicyR.html)                                           | Unprocessed |
-| [spiky](https://bioconductor.org/packages/3.20/bioc/html/spiky.html)                                             | Unprocessed |
 | [spillR](https://bioconductor.org/packages/3.20/bioc/html/spillR.html)                                           | Unprocessed |
 | [splatter](https://bioconductor.org/packages/3.20/bioc/html/splatter.html)                                       | Unprocessed |
 | [spoon](https://bioconductor.org/packages/3.20/bioc/html/spoon.html)                                             | Unprocessed |

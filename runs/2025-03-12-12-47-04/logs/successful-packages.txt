@@ -1512,3 +1512,6 @@ BSgenomeForge
 ChIPanalyser
 normr
 nucleR
+phantasusLite
+phenomis
+spiky

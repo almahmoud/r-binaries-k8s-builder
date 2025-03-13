@@ -1512,3 +1512,6 @@
 ['[ChIPanalyser](https://bioconductor.org/packages/3.20/bioc/html/ChIPanalyser.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ChIPanalyser/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ChIPanalyser)']
 ['[normr](https://bioconductor.org/packages/3.20/bioc/html/normr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/normr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/normr)']
 ['[nucleR](https://bioconductor.org/packages/3.20/bioc/html/nucleR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/nucleR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/nucleR)']
+['[phantasusLite](https://bioconductor.org/packages/3.20/bioc/html/phantasusLite.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/phantasusLite/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/phantasusLite)']
+['[phenomis](https://bioconductor.org/packages/3.20/bioc/html/phenomis.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/phenomis/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/phenomis)']
+['[spiky](https://bioconductor.org/packages/3.20/bioc/html/spiky.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/spiky/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spiky)']

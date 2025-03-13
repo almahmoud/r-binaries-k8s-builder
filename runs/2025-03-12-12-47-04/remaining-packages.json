@@ -2536,14 +2536,11 @@
     "BiocSingular"
   ],
   "phantasus": [
-    "GEOquery",
-    "phantasusLite"
+    "GEOquery"
   ],
-  "phantasusLite": [],
   "phenoTest": [
     "Category"
   ],
-  "phenomis": [],
   "pipeComp": [
     "scran",
     "scater",
@@ -2927,7 +2924,6 @@
   "spicyR": [
     "SpatialExperiment"
   ],
-  "spiky": [],
   "spillR": [
     "CATALYST",
     "scater",

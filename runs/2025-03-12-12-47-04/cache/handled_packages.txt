@@ -1279,6 +1279,8 @@ periodicDNA
 pfamAnalyzeR
 pgca
 pgxRpi
+phantasusLite
+phenomis
 phenopath
 philr
 phosphonormalizer
@@ -1444,6 +1446,7 @@ spatialHeatmap
 specL
 speckle
 spikeLI
+spiky
 spkTools
 splineTimeR
 splots
