@@ -66,15 +66,13 @@
   ],
   "BASiCS": [
     "scran",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "BASiCStan": [
     "BASiCS",
     "glmGamPoi",
     "scran",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "BBCAnalyzer": [
     "VariantAnnotation",
@@ -105,13 +103,11 @@
   "BatchQC": [
     "EBSeq",
     "scran",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "BayesSpace": [
     "scater",
     "scran",
-    "BiocSingular",
     "scuttle"
   ],
   "BgeeCall": [
@@ -124,10 +120,8 @@
   "BioCor": [],
   "BioTIP": [
     "scran",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
-  "BiocSingular": [],
   "BubbleTree": [
     "biovizBase",
     "GenomicFeatures",
@@ -166,13 +160,11 @@
     "xcms",
     "MSnbase",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "CATALYST": [
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "CBEA": [],
   "CNEr": [],
@@ -201,19 +193,15 @@
     "GenomicFeatures"
   ],
   "COCOA": [
-    "MIRA",
-    "bsseq"
+    "MIRA"
   ],
   "CONFESS": [
     "flowPeaks"
   ],
-  "COTAN": [
-    "BiocSingular"
-  ],
+  "COTAN": [],
   "CRISPRball": [
     "dittoSeq",
-    "PCAtools",
-    "BiocSingular"
+    "PCAtools"
   ],
   "CSSQ": [
     "GenomicFeatures"
@@ -233,13 +221,11 @@
   "CellBench": [],
   "CellMixS": [
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "CelliD": [
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "ChAMP": [
     "minfi",
@@ -249,7 +235,6 @@
     "missMethyl",
     "bumphunter",
     "GenomicFeatures",
-    "bsseq",
     "Gviz",
     "GEOquery",
     "methylumi",
@@ -288,7 +273,6 @@
     "batchelor",
     "scran",
     "scater",
-    "BiocSingular",
     "scuttle"
   ],
   "CircSeqAlignTk": [
@@ -299,8 +283,7 @@
   ],
   "CiteFuse": [
     "scran",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "CleanUpRNAseq": [
     "ensembldb",
@@ -308,8 +291,7 @@
   ],
   "CluMSID": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "Cogito": [
     "GenomicFeatures"
@@ -347,13 +329,11 @@
   ],
   "DAPAR": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "DEP": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "DEScan2": [
     "ChIPpeakAnno",
@@ -373,7 +353,6 @@
   "DMCFB": [],
   "DMCHMM": [],
   "DMRcate": [
-    "bsseq",
     "minfi",
     "missMethyl",
     "Gviz",
@@ -388,9 +367,7 @@
   "DNAfusion": [
     "GenomicFeatures"
   ],
-  "DSS": [
-    "bsseq"
-  ],
+  "DSS": [],
   "DaMiRseq": [
     "EDASeq",
     "GenomicFeatures"
@@ -407,8 +384,7 @@
     "txdbmaker"
   ],
   "DeMixT": [
-    "DSS",
-    "bsseq"
+    "DSS"
   ],
   "DegCre": [
     "plotgardener",
@@ -419,12 +395,9 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "DelayedTensor": [
-    "BiocSingular"
-  ],
+  "DelayedTensor": [],
   "DiffBind": [],
   "Dino": [
-    "BiocSingular",
     "scran",
     "scuttle"
   ],
@@ -457,8 +430,7 @@
   ],
   "EGSEA": [
     "GSVA",
-    "SpatialExperiment",
-    "BiocSingular"
+    "SpatialExperiment"
   ],
   "ELMER": [
     "GenomicFeatures",
@@ -514,8 +486,7 @@
     "biovizBase",
     "VariantAnnotation",
     "OrganismDbi",
-    "ensembldb",
-    "BiocSingular"
+    "ensembldb"
   ],
   "FRASER": [
     "GenomicFeatures",
@@ -566,8 +537,7 @@
     "txdbmaker"
   ],
   "GSVA": [
-    "SpatialExperiment",
-    "BiocSingular"
+    "SpatialExperiment"
   ],
   "GUIDEseq": [
     "ChIPpeakAnno",
@@ -662,10 +632,8 @@
     "VariantAnnotation"
   ],
   "HiCDOC": [
-    "multiHiCcompare",
-    "HiCcompare"
+    "multiHiCcompare"
   ],
-  "HiCcompare": [],
   "HiContacts": [],
   "HiCool": [],
   "HiLDA": [
@@ -685,7 +653,6 @@
     "CAMERA",
     "MSnbase",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "ITALICS": [
@@ -719,7 +686,6 @@
     "CAMERA",
     "MSnbase",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "LOLA": [],
@@ -727,8 +693,7 @@
   "LymphoSeq": [],
   "M3Drop": [
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "MADSEQ": [
     "VariantAnnotation",
@@ -747,7 +712,6 @@
     "xcms",
     "MSnbase",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "MANOR": [
@@ -776,29 +740,23 @@
   ],
   "MEB": [
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "MGnifyR": [
     "mia",
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
-  "MIRA": [
-    "bsseq"
-  ],
+  "MIRA": [],
   "MOSClip": [
     "qpgraph",
     "GenomicFeatures"
   ],
   "MOSim": [
     "scran",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "MPAC": [
-    "BiocSingular",
     "scran",
     "scuttle"
   ],
@@ -806,23 +764,19 @@
     "MSnbase",
     "msmsTests",
     "msmsEDA",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "MSnbase": [
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "MSstatsQC": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "MSstatsQCgui": [
     "MSstatsQC",
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "MatrixQCvis": [],
   "MatrixRider": [
@@ -832,7 +786,6 @@
   "Melissa": [],
   "MetaPhOR": [],
   "MetaboAnnotation": [
-    "QFeatures",
     "CompoundDb"
   ],
   "MetaboSignal": [
@@ -873,12 +826,9 @@
   "MoonlightR": [
     "GEOquery"
   ],
-  "MsExperiment": [
-    "QFeatures"
-  ],
+  "MsExperiment": [],
   "MsQuality": [
-    "MsExperiment",
-    "QFeatures"
+    "MsExperiment"
   ],
   "MultiBaC": [],
   "MungeSumstats": [
@@ -905,14 +855,9 @@
     "VariantAnnotation",
     "CNEr"
   ],
-  "NanoMethViz": [
-    "BiocSingular",
-    "bsseq"
-  ],
+  "NanoMethViz": [],
   "NetPathMiner": [],
-  "NewWave": [
-    "BiocSingular"
-  ],
+  "NewWave": [],
   "NoRCE": [
     "GenomicFeatures"
   ],
@@ -951,10 +896,7 @@
   "OutSplice": [
     "GenomicFeatures"
   ],
-  "PAST": [],
-  "PCAtools": [
-    "BiocSingular"
-  ],
+  "PCAtools": [],
   "PING": [
     "Gviz",
     "GenomicFeatures",
@@ -962,27 +904,21 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "PLSDAbatch": [],
   "PRONE": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
-  "PSMatch": [
-    "QFeatures"
-  ],
+  "PSMatch": [],
   "PeacoQC": [],
   "PharmacoGx": [],
   "PrInCE": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "Prostar": [
     "DAPAR",
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "ProteoDisco": [
     "GenomicFeatures",
@@ -999,7 +935,6 @@
     "VariantAnnotation",
     "ensembldb"
   ],
-  "QFeatures": [],
   "QuasR": [
     "GenomicFeatures",
     "txdbmaker",
@@ -1028,7 +963,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "RCM": [],
   "REDseq": [
     "ChIPpeakAnno",
     "GenomicFeatures",
@@ -1052,8 +986,7 @@
   ],
   "RMassBank": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "RNAAgeCalc": [
     "recount",
@@ -1099,7 +1032,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils",
     "GenomicFeatures"
@@ -1117,7 +1049,6 @@
     "scater",
     "BayesSpace",
     "scran",
-    "BiocSingular",
     "scuttle"
   ],
   "Repitools": [],
@@ -1196,12 +1127,9 @@
     "GEOquery",
     "affxparser"
   ],
-  "SCArray": [
-    "BiocSingular"
-  ],
+  "SCArray": [],
   "SCArray.sat": [
-    "SCArray",
-    "BiocSingular"
+    "SCArray"
   ],
   "SGCP": [
     "GOstats",
@@ -1222,7 +1150,6 @@
   ],
   "SOMNiBUS": [
     "annotatr",
-    "bsseq",
     "GenomicFeatures",
     "regioneR"
   ],
@@ -1237,7 +1164,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SPOTlight": [],
   "SigCheck": [],
   "SigsPack": [
     "VariantAnnotation",
@@ -1245,8 +1171,7 @@
   ],
   "SingleCellSignalR": [
     "scran",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "SingleMoleculeFootprinting": [
     "plyranges",
@@ -1256,9 +1181,7 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "SingleR": [
-    "BiocSingular"
-  ],
+  "SingleR": [],
   "SomaticSignatures": [
     "VariantAnnotation",
     "ggbio",
@@ -1271,15 +1194,13 @@
   "SpaNorm": [
     "scran",
     "SpatialExperiment",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "Spaniel": [
     "scater",
     "scran",
     "DropletUtils",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "SpatialCPie": [],
   "SpatialExperiment": [],
@@ -1288,9 +1209,7 @@
     "SpatialExperiment",
     "scuttle"
   ],
-  "SpectralTAD": [
-    "HiCcompare"
-  ],
+  "SpectralTAD": [],
   "SplicingGraphs": [
     "GenomicFeatures"
   ],
@@ -1301,9 +1220,7 @@
     "SpatialExperiment",
     "escheR"
   ],
-  "StabMap": [
-    "BiocSingular"
-  ],
+  "StabMap": [],
   "Statial": [
     "SpatialExperiment",
     "treekoR"
@@ -1312,9 +1229,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "TADCompare": [
-    "HiCcompare"
-  ],
+  "TADCompare": [],
   "TAPseq": [
     "GenomicFeatures"
   ],
@@ -1367,8 +1282,7 @@
   ],
   "VAExprs": [
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "VCFArray": [
     "VariantAnnotation",
@@ -1435,8 +1349,7 @@
   ],
   "airpart": [
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "alabaster": [
     "alabaster.spatial",
@@ -1488,11 +1401,9 @@
   "bandle": [
     "MSnbase",
     "pRoloc",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "batchelor": [
-    "BiocSingular",
     "scuttle"
   ],
   "benchdamic": [
@@ -1526,7 +1437,6 @@
     "ensembldb"
   ],
   "biscuiteer": [
-    "bsseq",
     "VariantAnnotation",
     "dmrseq",
     "bumphunter",
@@ -1537,13 +1447,11 @@
     "txdbmaker"
   ],
   "borealis": [
-    "bsseq",
     "DSS"
   ],
   "broadSeq": [
     "EBSeq"
   ],
-  "bsseq": [],
   "bumphunter": [
     "GenomicFeatures"
   ],
@@ -1590,8 +1498,7 @@
   "celda": [
     "scater",
     "scran",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "cfDNAPro": [
     "plyranges"
@@ -1629,11 +1536,9 @@
     "xcms",
     "MSnbase",
     "PSMatch",
-    "MsExperiment",
-    "QFeatures"
+    "MsExperiment"
   ],
   "clusterExperiment": [
-    "BiocSingular",
     "mbkmeans"
   ],
   "cn.farms": [
@@ -1667,8 +1572,7 @@
     "slingshot",
     "distinct",
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "consensusDE": [
     "EDASeq",
@@ -1687,7 +1591,6 @@
     "xcms",
     "MSnbase",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "cpvSNP": [
@@ -1743,8 +1646,7 @@
   "cytofQC": [
     "CATALYST",
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "cytomapper": [
     "SpatialExperiment"
@@ -1761,8 +1663,7 @@
   "dar": [
     "mia",
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "ddPCRclust": [
     "flowPeaks"
@@ -1775,8 +1676,7 @@
     "celda",
     "scater",
     "scran",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "deconvR": [
     "methylKit",
@@ -1822,12 +1722,10 @@
   ],
   "distinct": [
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "dittoSeq": [],
   "dmrseq": [
-    "bsseq",
     "bumphunter",
     "annotatr",
     "GenomicFeatures",
@@ -1872,14 +1770,12 @@
     "scuttle",
     "motifmatchr",
     "TFBSTools",
-    "BiocSingular",
     "CNEr"
   ],
   "epiregulon.extra": [
     "scran",
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "epivizr": [
     "epivizrData",
@@ -1928,8 +1824,7 @@
   ],
   "escape": [
     "GSVA",
-    "SpatialExperiment",
-    "BiocSingular"
+    "SpatialExperiment"
   ],
   "escheR": [
     "SpatialExperiment"
@@ -1965,7 +1860,6 @@
     "CAMERA",
     "MSnbase",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "flowPeaks": [],
@@ -2054,9 +1948,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "hdxmsqc": [
-    "QFeatures"
-  ],
+  "hdxmsqc": [],
   "hermes": [],
   "hiReadsProcessor": [],
   "hicVennDiagram": [],
@@ -2087,8 +1979,7 @@
     "miaViz",
     "mia",
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "icetea": [
     "GenomicFeatures",
@@ -2139,8 +2030,7 @@
     "GenomicFeatures"
   ],
   "kissDE": [
-    "DSS",
-    "bsseq"
+    "DSS"
   ],
   "kmcut": [],
   "lemur": [
@@ -2163,8 +2053,7 @@
   ],
   "lute": [
     "scran",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "mCSEA": [
     "GenomicFeatures",
@@ -2199,15 +2088,13 @@
     "xcms",
     "MSnbase",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "metaseqR2": [
     "DSS",
     "EDASeq",
     "GenomicFeatures",
-    "txdbmaker",
-    "bsseq"
+    "txdbmaker"
   ],
   "methInheritSim": [
     "methylKit",
@@ -2225,7 +2112,6 @@
   ],
   "methylCC": [
     "minfi",
-    "bsseq",
     "plyranges",
     "bumphunter",
     "GenomicFeatures",
@@ -2254,7 +2140,6 @@
     "VariantAnnotation"
   ],
   "methylSig": [
-    "bsseq",
     "DSS"
   ],
   "methylclock": [
@@ -2280,23 +2165,19 @@
   "miRspongeR": [],
   "mia": [
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "miaSim": [],
   "miaViz": [
     "mia",
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "microRNA": [],
   "microSTASIS": [],
   "microbiome": [],
   "microbiomeMarker": [],
-  "miloR": [
-    "BiocSingular"
-  ],
+  "miloR": [],
   "mimager": [
     "oligo",
     "affxparser"
@@ -2347,8 +2228,7 @@
   ],
   "msImpute": [
     "scran",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "msgbsR": [
     "GenomicFeatures",
@@ -2361,21 +2241,15 @@
   ],
   "msmsEDA": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "msmsTests": [
     "MSnbase",
     "msmsEDA",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
-  "msqrob2": [
-    "QFeatures"
-  ],
-  "multiHiCcompare": [
-    "HiCcompare"
-  ],
+  "msqrob2": [],
+  "multiHiCcompare": [],
   "multiMiR": [],
   "multicrispr": [
     "GenomicFeatures",
@@ -2387,15 +2261,13 @@
     "ensembldb"
   ],
   "mumosa": [
-    "BiocSingular",
     "scuttle",
     "scran",
     "batchelor"
   ],
   "muscat": [
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "muscle": [],
   "musicatk": [
@@ -2415,7 +2287,6 @@
     "xcms",
     "MSnbase",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "nearBynding": [
@@ -2425,7 +2296,6 @@
   "netSmooth": [
     "scater",
     "clusterExperiment",
-    "BiocSingular",
     "mbkmeans",
     "scuttle"
   ],
@@ -2450,42 +2320,36 @@
     "EDASeq",
     "GSVA",
     "GenomicFeatures",
-    "SpatialExperiment",
-    "BiocSingular"
+    "SpatialExperiment"
   ],
   "oligo": [
     "affxparser"
   ],
   "omXplore": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "omicRexposome": [],
   "omicsPrint": [],
   "openCyto": [],
   "oppar": [
     "GSVA",
-    "SpatialExperiment",
-    "BiocSingular"
+    "SpatialExperiment"
   ],
   "pRoloc": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "pRolocGUI": [
     "pRoloc",
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "pageRank": [
     "motifmatchr",
     "TFBSTools",
     "CNEr"
   ],
-  "pairkat": [],
   "panelcn.mops": [
     "cn.mops"
   ],
@@ -2504,13 +2368,11 @@
   ],
   "peakPantheR": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "peco": [
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "phantasus": [
     "GEOquery"
@@ -2521,8 +2383,7 @@
   "pipeComp": [
     "scran",
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "pipeFrame": [],
   "planttfhunter": [],
@@ -2573,8 +2434,7 @@
   ],
   "ptairMS": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "puma": [
     "oligo",
@@ -2582,8 +2442,7 @@
   ],
   "qPLEXanalyzer": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "qpgraph": [
     "GenomicFeatures"
@@ -2630,8 +2489,7 @@
     "VariantAnnotation"
   ],
   "regionalpcs": [
-    "PCAtools",
-    "BiocSingular"
+    "PCAtools"
   ],
   "regioneR": [],
   "regioneReloaded": [
@@ -2680,23 +2538,20 @@
   "scDD": [
     "EBSeq",
     "scran",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "scDDboost": [
     "EBSeq",
     "Oscope"
   ],
   "scDblFinder": [
-    "BiocSingular",
     "scran",
     "scater",
     "scuttle"
   ],
   "scDotPlot": [
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "scFeatures": [
     "GSVA",
@@ -2704,12 +2559,10 @@
     "SingleCellSignalR",
     "GenomicFeatures",
     "SpatialExperiment",
-    "BiocSingular",
     "scran",
     "scuttle"
   ],
   "scMerge": [
-    "BiocSingular",
     "M3Drop",
     "scater",
     "batchelor",
@@ -2738,7 +2591,6 @@
     "GenomicFeatures",
     "ensembldb",
     "scuttle",
-    "BiocSingular",
     "txdbmaker"
   ],
   "scanMiRApp": [
@@ -2747,14 +2599,12 @@
     "txdbmaker"
   ],
   "scater": [
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "scider": [
     "SpatialExperiment"
   ],
   "scmeth": [
-    "bsseq",
     "annotatr",
     "GenomicFeatures",
     "regioneR"
@@ -2768,12 +2618,9 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "scp": [
-    "QFeatures"
-  ],
+  "scp": [],
   "scran": [
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "scruff": [
     "GenomicFeatures",
@@ -2784,14 +2631,11 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "scry": [
-    "BiocSingular"
-  ],
+  "scry": [],
   "scuttle": [],
   "scviR": [
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "segmenter": [
     "ChIPseeker",
@@ -2846,7 +2690,6 @@
     "DropletUtils",
     "scDblFinder",
     "scuttle",
-    "BiocSingular",
     "GenomicFeatures",
     "SpatialExperiment",
     "M3Drop"
@@ -2894,8 +2737,7 @@
   "spillR": [
     "CATALYST",
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "splatter": [
     "scuttle"
@@ -2909,7 +2751,6 @@
     "xcms",
     "MSnbase",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "stJoincount": [
@@ -2937,8 +2778,7 @@
   ],
   "synapter": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "syntenet": [],
   "tLOH": [
@@ -2968,8 +2808,7 @@
   ],
   "topdownr": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "tpSVG": [
     "SpatialExperiment"
@@ -2999,8 +2838,7 @@
   "treekoR": [],
   "tricycle": [
     "scater",
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "txcutr": [
     "GenomicFeatures",
@@ -3024,8 +2862,7 @@
     "VariantAnnotation"
   ],
   "velociraptor": [
-    "scuttle",
-    "BiocSingular"
+    "scuttle"
   ],
   "vtpnet": [
     "gwascat",
@@ -3054,7 +2891,6 @@
   "xcms": [
     "MSnbase",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "xcore": [],

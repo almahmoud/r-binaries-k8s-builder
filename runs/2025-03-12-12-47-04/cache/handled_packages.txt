@@ -92,6 +92,7 @@ BiocNeighbors
 BiocParallel
 BiocPkgTools
 BiocSet
+BiocSingular
 BiocSklearn
 BiocStyle
 BiocVersion
@@ -335,6 +336,7 @@ Heatplus
 Herper
 HiCBricks
 HiCExperiment
+HiCcompare
 HiTC
 HilbertCurve
 HilbertVis
@@ -513,12 +515,14 @@ PAA
 PADOG
 PAIRADISE
 PANR
+PAST
 PCAN
 PECA
 PICS
 PIPETS
 PIUMA
 PLPE
+PLSDAbatch
 POMA
 POWSC
 PPInfer
@@ -547,6 +551,7 @@ PolySTest
 ProtGenerics
 ProteoMM
 QDNAseq
+QFeatures
 QSutils
 QTLExperiment
 QUBIC
@@ -559,6 +564,7 @@ RBM
 RBioFormats
 RBioinf
 RCASPAR
+RCM
 RCSL
 RCX
 RCy3
@@ -584,6 +590,7 @@ ROntoTools
 RPA
 RProtoBufLib
 RRHO
+RSVSim
 RSeqAn
 RTCA
 RTCGA
@@ -616,6 +623,7 @@ RedeR
 RedisParam
 RegEnrich
 RepViz
+Repitools
 ResidualMatrix
 Rfastp
 Rgraphviz
@@ -657,6 +665,7 @@ SNPediaR
 SPEM
 SPIA
 SPONGE
+SPOTlight
 SPsimSeq
 SQLDataFrame
 SRAdb
@@ -847,6 +856,7 @@ bnem
 branchpointer
 breakpointR
 brendaDb
+bsseq
 bugsigdbr
 cTRAP
 calm
@@ -1278,6 +1288,7 @@ packFinder
 padma
 paircompviz
 pairedGSEA
+pairkat
 pandaR
 panp
 parglms
