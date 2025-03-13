@@ -15,7 +15,6 @@
     "BSgenome"
   ],
   "APL": [],
-  "ASICS": [],
   "ASpli": [
     "GenomicFeatures",
     "Gviz",
@@ -1077,7 +1076,6 @@
     "BSgenome"
   ],
   "MotifDb": [],
-  "MsDataHub": [],
   "MsExperiment": [
     "QFeatures"
   ],
@@ -3554,7 +3552,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "speckle": [],
   "spicyR": [
     "SpatialExperiment"
   ],

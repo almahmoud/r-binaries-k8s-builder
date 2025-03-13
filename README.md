@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1377 packages built successfully
+- 1380 packages built successfully
 - 21 packages failed to build
-- 835 packages not yet processed
+- 832 packages not yet processed
 
 ## Failed Builds (21)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -33,7 +33,7 @@
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 
-## Successfully Built (1377)
+## Successfully Built (1380)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1413,15 +1413,17 @@
 | [MuData](https://bioconductor.org/packages/3.20/bioc/html/MuData.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/MuData/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MuData)                     |
 | [RPA](https://bioconductor.org/packages/3.20/bioc/html/RPA.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/RPA/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RPA)                        |
 | [beachmat](https://bioconductor.org/packages/3.20/bioc/html/beachmat.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/beachmat/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/beachmat)                   |
+| [ASICS](https://bioconductor.org/packages/3.20/bioc/html/ASICS.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/ASICS/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ASICS)                      |
+| [MsDataHub](https://bioconductor.org/packages/3.20/bioc/html/MsDataHub.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/MsDataHub/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MsDataHub)                  |
+| [speckle](https://bioconductor.org/packages/3.20/bioc/html/speckle.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/speckle/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/speckle)                    |
 
-## Not Yet Processed (835)
+## Not Yet Processed (832)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
 | [AHMassBank](https://bioconductor.org/packages/3.20/bioc/html/AHMassBank.html)                                   | Unprocessed |
 | [APAlyzer](https://bioconductor.org/packages/3.20/bioc/html/APAlyzer.html)                                       | Unprocessed |
 | [APL](https://bioconductor.org/packages/3.20/bioc/html/APL.html)                                                 | Unprocessed |
-| [ASICS](https://bioconductor.org/packages/3.20/bioc/html/ASICS.html)                                             | Unprocessed |
 | [ASpli](https://bioconductor.org/packages/3.20/bioc/html/ASpli.html)                                             | Unprocessed |
 | [ATACseqQC](https://bioconductor.org/packages/3.20/bioc/html/ATACseqQC.html)                                     | Unprocessed |
 | [ATACseqTFEA](https://bioconductor.org/packages/3.20/bioc/html/ATACseqTFEA.html)                                 | Unprocessed |
@@ -1653,7 +1655,6 @@
 | [MoonlightR](https://bioconductor.org/packages/3.20/bioc/html/MoonlightR.html)                                   | Unprocessed |
 | [Motif2Site](https://bioconductor.org/packages/3.20/bioc/html/Motif2Site.html)                                   | Unprocessed |
 | [MotifDb](https://bioconductor.org/packages/3.20/bioc/html/MotifDb.html)                                         | Unprocessed |
-| [MsDataHub](https://bioconductor.org/packages/3.20/bioc/html/MsDataHub.html)                                     | Unprocessed |
 | [MsExperiment](https://bioconductor.org/packages/3.20/bioc/html/MsExperiment.html)                               | Unprocessed |
 | [MsQuality](https://bioconductor.org/packages/3.20/bioc/html/MsQuality.html)                                     | Unprocessed |
 | [MultiBaC](https://bioconductor.org/packages/3.20/bioc/html/MultiBaC.html)                                       | Unprocessed |
@@ -2197,7 +2198,6 @@
 | [spatialDE](https://bioconductor.org/packages/3.20/bioc/html/spatialDE.html)                                     | Unprocessed |
 | [spatialSimGP](https://bioconductor.org/packages/3.20/bioc/html/spatialSimGP.html)                               | Unprocessed |
 | [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                                         | Unprocessed |
-| [speckle](https://bioconductor.org/packages/3.20/bioc/html/speckle.html)                                         | Unprocessed |
 | [spicyR](https://bioconductor.org/packages/3.20/bioc/html/spicyR.html)                                           | Unprocessed |
 | [spiky](https://bioconductor.org/packages/3.20/bioc/html/spiky.html)                                             | Unprocessed |
 | [spillR](https://bioconductor.org/packages/3.20/bioc/html/spillR.html)                                           | Unprocessed |

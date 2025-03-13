@@ -1375,3 +1375,6 @@ ADAMgui
 beachmat
 MuData
 RPA
+ASICS
+MsDataHub
+speckle

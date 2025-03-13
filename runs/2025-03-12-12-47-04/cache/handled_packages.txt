@@ -17,6 +17,7 @@ ARRmNormalization
 ASAFE
 ASEB
 ASGSCA
+ASICS
 ASSET
 ASSIGN
 ASURAT
@@ -425,6 +426,7 @@ MsBackendMsp
 MsBackendRawFileReader
 MsBackendSql
 MsCoreUtils
+MsDataHub
 MsFeatures
 MuData
 Mulcom
@@ -1310,6 +1312,7 @@ sparseMatrixStats
 sparsenetgls
 spatialHeatmap
 specL
+speckle
 spikeLI
 spkTools
 splineTimeR

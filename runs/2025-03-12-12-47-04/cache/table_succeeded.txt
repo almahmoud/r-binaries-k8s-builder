@@ -1375,3 +1375,6 @@
 ['[MuData](https://bioconductor.org/packages/3.20/bioc/html/MuData.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MuData/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MuData)']
 ['[RPA](https://bioconductor.org/packages/3.20/bioc/html/RPA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/RPA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RPA)']
 ['[beachmat](https://bioconductor.org/packages/3.20/bioc/html/beachmat.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/beachmat/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/beachmat)']
+['[ASICS](https://bioconductor.org/packages/3.20/bioc/html/ASICS.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ASICS/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ASICS)']
+['[MsDataHub](https://bioconductor.org/packages/3.20/bioc/html/MsDataHub.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MsDataHub/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MsDataHub)']
+['[speckle](https://bioconductor.org/packages/3.20/bioc/html/speckle.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/speckle/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/speckle)']
