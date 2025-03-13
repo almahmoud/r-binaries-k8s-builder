@@ -33,7 +33,6 @@
   "CONFESS": [
     "flowPeaks"
   ],
-  "CRISPRball": [],
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
@@ -58,7 +57,6 @@
   "DMRcate": [
     "missMethyl"
   ],
-  "Damsel": [],
   "DegNorm": [],
   "DiffBind": [],
   "DrugVsDisease": [
@@ -74,16 +72,12 @@
   "ExperimentHubData": [],
   "FLAMES": [],
   "GLAD": [],
-  "GeDi": [
-    "GeneTonic"
-  ],
+  "GeDi": [],
   "GeneGeneInteR": [],
   "GeneRegionScan": [
     "affxparser"
   ],
-  "GeneTonic": [],
   "GeneticsPed": [],
-  "GenomicOZone": [],
   "GrafGen": [],
   "HIBAG": [],
   "IPO": [
@@ -100,7 +94,6 @@
     "xcms",
     "CAMERA"
   ],
-  "M3Drop": [],
   "MAGAR": [
     "RnBeads"
   ],
@@ -348,9 +341,7 @@
   "scDblFinder": [],
   "scDotPlot": [],
   "scFeatures": [],
-  "scMerge": [
-    "M3Drop"
-  ],
+  "scMerge": [],
   "scTreeViz": [],
   "scmeth": [],
   "scruff": [],
@@ -359,8 +350,7 @@
   "singleCellTK": [
     "scMerge",
     "celda",
-    "scDblFinder",
-    "M3Drop"
+    "scDblFinder"
   ],
   "skewr": [
     "wateRmelon",

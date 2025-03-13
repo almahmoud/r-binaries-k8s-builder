@@ -2152,3 +2152,5 @@ SOMNiBUS
 dmrseq
 scmeth
 RegionalST
+GeDi
+scMerge

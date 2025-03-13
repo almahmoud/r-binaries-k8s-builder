@@ -159,6 +159,7 @@ COMPASS
 CONSTANd
 COSNet
 COTAN
+CRISPRball
 CRISPRseek
 CRImage
 CSAR
@@ -262,6 +263,7 @@ DRIMSeq
 DSS
 DTA
 DaMiRseq
+Damsel
 DeMAND
 DeMixT
 DeconRNASeq
@@ -394,6 +396,7 @@ GeneNetworkBuilder
 GeneOverlap
 GeneSelectMMD
 GeneStructureTools
+GeneTonic
 GeneticsPed
 GenomAutomorphism
 GenomeInfoDb
@@ -404,6 +407,7 @@ GenomicFeatures
 GenomicFiles
 GenomicInteractionNodes
 GenomicInteractions
+GenomicOZone
 GenomicPlot
 GenomicRanges
 GenomicScores
@@ -513,6 +517,7 @@ LiquidAssociation
 LoomExperiment
 LymphoSeq
 M3C
+M3Drop
 MACSQuantifyR
 MACSr
 MADSEQ
