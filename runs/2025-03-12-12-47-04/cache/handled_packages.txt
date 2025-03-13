@@ -193,6 +193,7 @@ CellTrails
 CelliD
 Cepo
 CexoR
+ChAMP
 ChIPComp
 ChIPanalyser
 ChIPexoQual

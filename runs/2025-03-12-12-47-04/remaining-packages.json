@@ -23,7 +23,6 @@
   "CONFESS": [
     "flowPeaks"
   ],
-  "ChAMP": [],
   "ChIPQC": [
     "DiffBind"
   ],

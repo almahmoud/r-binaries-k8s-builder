@@ -2155,3 +2155,4 @@
 ['[methylGSA](https://bioconductor.org/packages/3.20/bioc/html/methylGSA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/methylGSA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methylGSA)']
 ['[skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/skewr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/skewr)']
 ['[bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/bigmelon/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bigmelon)']
+['[ChAMP](https://bioconductor.org/packages/3.20/bioc/html/ChAMP.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ChAMP/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ChAMP)']
