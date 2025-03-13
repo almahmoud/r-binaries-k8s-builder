@@ -176,6 +176,7 @@ DEGseq
 DELocal
 DESeq2
 DEWSeq
+DEXSeq
 DEqMS
 DEsingle
 DFP
@@ -642,6 +643,7 @@ Sconify
 ScreenR
 SemDist
 SeqArray
+SeqGSEA
 SeqGate
 SeqSQC
 SeqVarTools

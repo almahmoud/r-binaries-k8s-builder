@@ -1665,3 +1665,5 @@ isomiRs
 zenith
 iSEEu
 coseq
+blacksheepr
+pairedGSEA

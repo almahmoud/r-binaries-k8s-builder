@@ -378,7 +378,6 @@
   "DESpace": [
     "SpatialExperiment"
   ],
-  "DEXSeq": [],
   "DEsubs": [
     "EBSeq"
   ],
@@ -731,11 +730,9 @@
     "GenomicFiles",
     "GenomicFeatures",
     "txdbmaker",
-    "DEXSeq",
     "VariantAnnotation"
   ],
   "IsoformSwitchAnalyzeR": [
-    "DEXSeq",
     "tximeta",
     "GenomicFeatures",
     "txdbmaker",
@@ -1283,7 +1280,6 @@
     "VariantAnnotation"
   ],
   "SPOTlight": [],
-  "SeqGSEA": [],
   "SigCheck": [
     "MLInterfaces"
   ],
@@ -1596,9 +1592,7 @@
     "regioneR",
     "txdbmaker"
   ],
-  "blacksheepr": [
-    "DEXSeq"
-  ],
+  "blacksheepr": [],
   "borealis": [
     "bsseq",
     "DSS"
@@ -1894,7 +1888,6 @@
     "csaw"
   ],
   "diffUTR": [
-    "DEXSeq",
     "ensembldb",
     "GenomicFeatures"
   ],
@@ -2605,9 +2598,7 @@
     "TFBSTools",
     "CNEr"
   ],
-  "pairedGSEA": [
-    "DEXSeq"
-  ],
+  "pairedGSEA": [],
   "pairkat": [],
   "panelcn.mops": [
     "cn.mops"
@@ -2803,7 +2794,6 @@
   "saseR": [
     "ASpli",
     "GenomicFeatures",
-    "DEXSeq",
     "Gviz",
     "txdbmaker",
     "ensembldb",

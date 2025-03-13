@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1443 packages built successfully
+- 1445 packages built successfully
 - 22 packages failed to build
-- 768 packages not yet processed
+- 766 packages not yet processed
 
 ## Failed Builds (22)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -34,7 +34,7 @@
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 
-## Successfully Built (1443)
+## Successfully Built (1445)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1480,8 +1480,10 @@
 | [PathoStat](https://bioconductor.org/packages/3.20/bioc/html/PathoStat.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/PathoStat/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PathoStat)                  |
 | [periodicDNA](https://bioconductor.org/packages/3.20/bioc/html/periodicDNA.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/periodicDNA/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/periodicDNA)                |
 | [Rbec](https://bioconductor.org/packages/3.20/bioc/html/Rbec.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/Rbec/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rbec)                       |
+| [DEXSeq](https://bioconductor.org/packages/3.20/bioc/html/DEXSeq.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/DEXSeq/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DEXSeq)                     |
+| [SeqGSEA](https://bioconductor.org/packages/3.20/bioc/html/SeqGSEA.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/SeqGSEA/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SeqGSEA)                    |
 
-## Not Yet Processed (768)
+## Not Yet Processed (766)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1569,7 +1571,6 @@
 | [DEP](https://bioconductor.org/packages/3.20/bioc/html/DEP.html)                                                 | Unprocessed |
 | [DEScan2](https://bioconductor.org/packages/3.20/bioc/html/DEScan2.html)                                         | Unprocessed |
 | [DESpace](https://bioconductor.org/packages/3.20/bioc/html/DESpace.html)                                         | Unprocessed |
-| [DEXSeq](https://bioconductor.org/packages/3.20/bioc/html/DEXSeq.html)                                           | Unprocessed |
 | [DEsubs](https://bioconductor.org/packages/3.20/bioc/html/DEsubs.html)                                           | Unprocessed |
 | [DExMA](https://bioconductor.org/packages/3.20/bioc/html/DExMA.html)                                             | Unprocessed |
 | [DMCFB](https://bioconductor.org/packages/3.20/bioc/html/DMCFB.html)                                             | Unprocessed |
@@ -1784,7 +1785,6 @@
 | [SPIAT](https://bioconductor.org/packages/3.20/bioc/html/SPIAT.html)                                             | Unprocessed |
 | [SPLINTER](https://bioconductor.org/packages/3.20/bioc/html/SPLINTER.html)                                       | Unprocessed |
 | [SPOTlight](https://bioconductor.org/packages/3.20/bioc/html/SPOTlight.html)                                     | Unprocessed |
-| [SeqGSEA](https://bioconductor.org/packages/3.20/bioc/html/SeqGSEA.html)                                         | Unprocessed |
 | [SigCheck](https://bioconductor.org/packages/3.20/bioc/html/SigCheck.html)                                       | Unprocessed |
 | [SigsPack](https://bioconductor.org/packages/3.20/bioc/html/SigsPack.html)                                       | Unprocessed |
 | [SingleCellSignalR](https://bioconductor.org/packages/3.20/bioc/html/SingleCellSignalR.html)                     | Unprocessed |

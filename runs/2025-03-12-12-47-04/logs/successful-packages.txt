@@ -1441,3 +1441,5 @@ GDCRNATools
 PathoStat
 periodicDNA
 Rbec
+DEXSeq
+SeqGSEA
