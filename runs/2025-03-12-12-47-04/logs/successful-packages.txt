@@ -1187,3 +1187,5 @@ omicplotR
 Rbowtie2
 seq2pathway
 slalom
+RaggedExperiment
+ReactomePA

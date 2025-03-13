@@ -297,9 +297,7 @@
     "rtracklayer"
   ],
   "CNTools": [],
-  "CNVRanger": [
-    "RaggedExperiment"
-  ],
+  "CNVRanger": [],
   "CNVfilteR": [
     "regioneR",
     "karyoploteR",
@@ -909,7 +907,6 @@
   "GMRP": [],
   "GNOSIS": [
     "cBioPortalData",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
@@ -1630,9 +1627,7 @@
   ],
   "PhosR": [],
   "PhyloProfile": [],
-  "Pigengene": [
-    "ReactomePA"
-  ],
+  "Pigengene": [],
   "PrInCE": [
     "MSnbase",
     "PSMatch",
@@ -1825,7 +1820,6 @@
     "ShortRead"
   ],
   "RTCGAToolbox": [
-    "RaggedExperiment",
     "TCGAutils",
     "GenomicFeatures",
     "rtracklayer"
@@ -1839,7 +1833,6 @@
   "RadioGx": [
     "CoreGx"
   ],
-  "RaggedExperiment": [],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -1853,7 +1846,6 @@
   "RcisTarget": [
     "AUCell"
   ],
-  "ReactomePA": [],
   "RegEnrich": [
     "DESeq2"
   ],
@@ -1961,7 +1953,6 @@
   "Rtreemix": [],
   "SAIGEgds": [],
   "SARC": [
-    "RaggedExperiment",
     "plyranges",
     "GenomicFeatures",
     "rtracklayer"
@@ -2175,7 +2166,6 @@
   ],
   "TCGAutils": [
     "GenomicFeatures",
-    "RaggedExperiment",
     "rtracklayer"
   ],
   "TCseq": [],
@@ -2503,8 +2493,6 @@
   ],
   "bioCancer": [
     "cBioPortalData",
-    "ReactomePA",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
@@ -2585,7 +2573,6 @@
     "rtracklayer"
   ],
   "cBioPortalData": [
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
@@ -2606,7 +2593,6 @@
   "canceR": [
     "cBioPortalData",
     "phenoTest",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "Category",
@@ -2629,7 +2615,6 @@
   ],
   "cbaf": [
     "cBioPortalData",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
@@ -3298,7 +3283,6 @@
   "gDRutils": [],
   "gINTomics": [
     "GenomicFeatures",
-    "ReactomePA",
     "rtracklayer"
   ],
   "gage": [],
@@ -3361,7 +3345,6 @@
   "glmSparseNet": [
     "TCGAutils",
     "GenomicFeatures",
-    "RaggedExperiment",
     "rtracklayer"
   ],
   "gmapR": [
@@ -3446,7 +3429,6 @@
     "GenomicFeatures",
     "bumphunter",
     "GEOquery",
-    "ReactomePA",
     "rtracklayer",
     "txdbmaker"
   ],
@@ -3692,7 +3674,6 @@
     "methrix",
     "TCGAutils",
     "AnnotationHubData",
-    "RaggedExperiment",
     "OrganismDbi",
     "txdbmaker"
   ],
@@ -3771,12 +3752,8 @@
     "Category",
     "GOstats"
   ],
-  "miRSM": [
-    "ReactomePA"
-  ],
-  "miRspongeR": [
-    "ReactomePA"
-  ],
+  "miRSM": [],
+  "miRspongeR": [],
   "mia": [
     "TreeSummarizedExperiment",
     "scater",
@@ -4064,9 +4041,7 @@
   "omicade4": [
     "made4"
   ],
-  "omicsPrint": [
-    "RaggedExperiment"
-  ],
+  "omicsPrint": [],
   "omicsViewer": [],
   "oncomix": [],
   "openCyto": [
@@ -4525,7 +4500,6 @@
     "Category",
     "meshr",
     "GOstats",
-    "ReactomePA",
     "schex"
   ],
   "scTreeViz": [
@@ -4883,7 +4857,6 @@
   "tenXplore": [],
   "ternarynet": [],
   "terraTCGAdata": [
-    "RaggedExperiment",
     "TCGAutils",
     "GenomicFeatures",
     "rtracklayer"

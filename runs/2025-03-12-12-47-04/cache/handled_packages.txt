@@ -474,6 +474,7 @@ RTopper
 RUVcorr
 RUVnormalize
 RVS
+RaggedExperiment
 RankProd
 Rarr
 RbcBook1
@@ -487,6 +488,7 @@ RcwlPipelines
 Rdisop
 ReUseData
 ReactomeGSA
+ReactomePA
 ReadqPCR
 RedeR
 RedisParam

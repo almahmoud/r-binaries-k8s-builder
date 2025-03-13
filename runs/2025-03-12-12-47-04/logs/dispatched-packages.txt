@@ -1442,3 +1442,8 @@ HiCcompare
 gsean
 omicplotR
 scClassify
+CNVRanger
+Pigengene
+miRSM
+miRspongeR
+omicsPrint

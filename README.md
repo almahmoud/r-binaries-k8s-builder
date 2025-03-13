@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1189 packages built successfully
+- 1191 packages built successfully
 - 20 packages failed to build
-- 1024 packages not yet processed
+- 1022 packages not yet processed
 
 ## Failed Builds (20)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -32,7 +32,7 @@
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/cn.mops/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cn.mops)       | Build failed with unknown error     |
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 
-## Successfully Built (1189)
+## Successfully Built (1191)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1224,8 +1224,10 @@
 | [Rbowtie2](https://bioconductor.org/packages/3.20/bioc/html/Rbowtie2.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/Rbowtie2/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rbowtie2)                  |
 | [seq2pathway](https://bioconductor.org/packages/3.20/bioc/html/seq2pathway.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/seq2pathway/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/seq2pathway)               |
 | [slalom](https://bioconductor.org/packages/3.20/bioc/html/slalom.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/slalom/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/slalom)                    |
+| [RaggedExperiment](https://bioconductor.org/packages/3.20/bioc/html/RaggedExperiment.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/RaggedExperiment/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RaggedExperiment)          |
+| [ReactomePA](https://bioconductor.org/packages/3.20/bioc/html/ReactomePA.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/ReactomePA/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ReactomePA)                |
 
-## Not Yet Processed (1024)
+## Not Yet Processed (1022)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1592,11 +1594,9 @@
 | [RTCGAToolbox](https://bioconductor.org/packages/3.20/bioc/html/RTCGAToolbox.html)                               | Unprocessed |
 | [RUVSeq](https://bioconductor.org/packages/3.20/bioc/html/RUVSeq.html)                                           | Unprocessed |
 | [RadioGx](https://bioconductor.org/packages/3.20/bioc/html/RadioGx.html)                                         | Unprocessed |
-| [RaggedExperiment](https://bioconductor.org/packages/3.20/bioc/html/RaggedExperiment.html)                       | Unprocessed |
 | [RareVariantVis](https://bioconductor.org/packages/3.20/bioc/html/RareVariantVis.html)                           | Unprocessed |
 | [Rbec](https://bioconductor.org/packages/3.20/bioc/html/Rbec.html)                                               | Unprocessed |
 | [RcisTarget](https://bioconductor.org/packages/3.20/bioc/html/RcisTarget.html)                                   | Unprocessed |
-| [ReactomePA](https://bioconductor.org/packages/3.20/bioc/html/ReactomePA.html)                                   | Unprocessed |
 | [RegEnrich](https://bioconductor.org/packages/3.20/bioc/html/RegEnrich.html)                                     | Unprocessed |
 | [RegionalST](https://bioconductor.org/packages/3.20/bioc/html/RegionalST.html)                                   | Unprocessed |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)                                     | Unprocessed |
