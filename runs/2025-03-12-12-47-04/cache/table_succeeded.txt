@@ -2096,3 +2096,4 @@
 ['[ExperimentHubData](https://bioconductor.org/packages/3.20/bioc/html/ExperimentHubData.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ExperimentHubData/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ExperimentHubData)']
 ['[RnBeads](https://bioconductor.org/packages/3.20/bioc/html/RnBeads.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/RnBeads/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RnBeads)']
 ['[atSNP](https://bioconductor.org/packages/3.20/bioc/html/atSNP.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/atSNP/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/atSNP)']
+['[scruff](https://bioconductor.org/packages/3.20/bioc/html/scruff.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scruff/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scruff)']
