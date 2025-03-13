@@ -1604,6 +1604,7 @@ optimalFlow
 orthogene
 orthos
 pRoloc
+pRolocGUI
 packFinder
 padma
 paircompviz
