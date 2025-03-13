@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1439 packages built successfully
+- 1442 packages built successfully
 - 22 packages failed to build
-- 772 packages not yet processed
+- 769 packages not yet processed
 
 ## Failed Builds (22)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -34,7 +34,7 @@
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 
-## Successfully Built (1439)
+## Successfully Built (1442)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1476,8 +1476,11 @@
 | [NetActivity](https://bioconductor.org/packages/3.20/bioc/html/NetActivity.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/NetActivity/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/NetActivity)                |
 | [POMA](https://bioconductor.org/packages/3.20/bioc/html/POMA.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/POMA/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/POMA)                       |
 | [RJMCMCNucleosomes](https://bioconductor.org/packages/3.20/bioc/html/RJMCMCNucleosomes.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/RJMCMCNucleosomes/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RJMCMCNucleosomes)          |
+| [GDCRNATools](https://bioconductor.org/packages/3.20/bioc/html/GDCRNATools.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/GDCRNATools/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GDCRNATools)                |
+| [PathoStat](https://bioconductor.org/packages/3.20/bioc/html/PathoStat.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/PathoStat/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PathoStat)                  |
+| [periodicDNA](https://bioconductor.org/packages/3.20/bioc/html/periodicDNA.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/periodicDNA/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/periodicDNA)                |
 
-## Not Yet Processed (772)
+## Not Yet Processed (769)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1606,7 +1609,6 @@
 | [GA4GHclient](https://bioconductor.org/packages/3.20/bioc/html/GA4GHclient.html)                                 | Unprocessed |
 | [GA4GHshiny](https://bioconductor.org/packages/3.20/bioc/html/GA4GHshiny.html)                                   | Unprocessed |
 | [GARS](https://bioconductor.org/packages/3.20/bioc/html/GARS.html)                                               | Unprocessed |
-| [GDCRNATools](https://bioconductor.org/packages/3.20/bioc/html/GDCRNATools.html)                                 | Unprocessed |
 | [GEOexplorer](https://bioconductor.org/packages/3.20/bioc/html/GEOexplorer.html)                                 | Unprocessed |
 | [GEOquery](https://bioconductor.org/packages/3.20/bioc/html/GEOquery.html)                                       | Unprocessed |
 | [GNOSIS](https://bioconductor.org/packages/3.20/bioc/html/GNOSIS.html)                                           | Unprocessed |
@@ -1721,7 +1723,6 @@
 | [POWSC](https://bioconductor.org/packages/3.20/bioc/html/POWSC.html)                                             | Unprocessed |
 | [PRONE](https://bioconductor.org/packages/3.20/bioc/html/PRONE.html)                                             | Unprocessed |
 | [PSMatch](https://bioconductor.org/packages/3.20/bioc/html/PSMatch.html)                                         | Unprocessed |
-| [PathoStat](https://bioconductor.org/packages/3.20/bioc/html/PathoStat.html)                                     | Unprocessed |
 | [PeacoQC](https://bioconductor.org/packages/3.20/bioc/html/PeacoQC.html)                                         | Unprocessed |
 | [PharmacoGx](https://bioconductor.org/packages/3.20/bioc/html/PharmacoGx.html)                                   | Unprocessed |
 | [Pigengene](https://bioconductor.org/packages/3.20/bioc/html/Pigengene.html)                                     | Unprocessed |
@@ -2099,7 +2100,6 @@
 | [pdInfoBuilder](https://bioconductor.org/packages/3.20/bioc/html/pdInfoBuilder.html)                             | Unprocessed |
 | [peakPantheR](https://bioconductor.org/packages/3.20/bioc/html/peakPantheR.html)                                 | Unprocessed |
 | [peco](https://bioconductor.org/packages/3.20/bioc/html/peco.html)                                               | Unprocessed |
-| [periodicDNA](https://bioconductor.org/packages/3.20/bioc/html/periodicDNA.html)                                 | Unprocessed |
 | [phantasus](https://bioconductor.org/packages/3.20/bioc/html/phantasus.html)                                     | Unprocessed |
 | [phantasusLite](https://bioconductor.org/packages/3.20/bioc/html/phantasusLite.html)                             | Unprocessed |
 | [phenoTest](https://bioconductor.org/packages/3.20/bioc/html/phenoTest.html)                                     | Unprocessed |

@@ -1437,3 +1437,6 @@ HTSFilter
 NetActivity
 POMA
 RJMCMCNucleosomes
+GDCRNATools
+PathoStat
+periodicDNA

@@ -241,6 +241,7 @@ FlowSOM
 FuseSOM
 GAprediction
 GBScleanR
+GDCRNATools
 GDSArray
 GEM
 GENESIS
@@ -506,6 +507,7 @@ PWMEnrich
 PanomiR
 Path2PPI
 PathNet
+PathoStat
 Pedixplorer
 PepSetTest
 PepsNMR
@@ -1211,6 +1213,7 @@ pcaMethods
 pengls
 pepStat
 pepXMLTab
+periodicDNA
 pfamAnalyzeR
 pgca
 pgxRpi
