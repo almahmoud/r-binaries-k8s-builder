@@ -23,9 +23,7 @@
   "CONFESS": [
     "flowPeaks"
   ],
-  "ChAMP": [
-    "DMRcate"
-  ],
+  "ChAMP": [],
   "ChIPQC": [
     "DiffBind"
   ],
@@ -41,7 +39,6 @@
   "DEsubs": [
     "EBSeq"
   ],
-  "DMRcate": [],
   "DiffBind": [],
   "DrugVsDisease": [
     "ArrayExpress",
@@ -81,8 +78,6 @@
   "MANOR": [
     "GLAD"
   ],
-  "MEAL": [],
-  "MEAT": [],
   "NetPathMiner": [],
   "Oscope": [
     "EBSeq"
@@ -141,7 +136,6 @@
   "gpuMagic": [],
   "graper": [],
   "hummingbird": [],
-  "iSEEtree": [],
   "immunoClust": [],
   "metaMS": [
     "CAMERA",
@@ -151,7 +145,6 @@
     "methylKit",
     "fastseg"
   ],
-  "methylGSA": [],
   "methylInheritance": [
     "methylKit",
     "fastseg"
@@ -189,7 +182,6 @@
     "EBSeq",
     "Oscope"
   ],
-  "skewr": [],
   "squallms": [
     "xcms"
   ],

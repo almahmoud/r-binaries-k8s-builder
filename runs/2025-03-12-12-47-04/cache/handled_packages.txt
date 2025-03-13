@@ -260,6 +260,7 @@ DMCFB
 DMCHMM
 DMRScan
 DMRcaller
+DMRcate
 DNABarcodeCompatibility
 DNABarcodes
 DNAcopy
@@ -546,6 +547,8 @@ MBQN
 MBttest
 MCbiclust
 MDTS
+MEAL
+MEAT
 MEB
 MEDIPS
 MEDME
@@ -1526,6 +1529,7 @@ iSEEhex
 iSEEhub
 iSEEindex
 iSEEpathways
+iSEEtree
 iSEEu
 iSeq
 iasva
@@ -1633,6 +1637,7 @@ methodical
 methrix
 methyLImp2
 methylCC
+methylGSA
 methylMnM
 methylPipe
 methylSig
@@ -2021,6 +2026,7 @@ sitadela
 sitePath
 sizepower
 sketchR
+skewr
 slalom
 slingshot
 smartid
