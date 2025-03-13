@@ -52,7 +52,6 @@
     "rtracklayer",
     "motifStack",
     "GenomicFeatures",
-    "InteractionSet",
     "regioneR",
     "ensembldb",
     "TFBSTools",
@@ -253,7 +252,6 @@
     "GenomicFeatures",
     "GenomicFiles",
     "Gviz",
-    "InteractionSet",
     "GenomicInteractions",
     "VariantAnnotation",
     "ensembldb",
@@ -268,7 +266,6 @@
     "rtracklayer",
     "GenomicFiles",
     "Gviz",
-    "InteractionSet",
     "GenomicInteractions",
     "VariantAnnotation",
     "ensembldb",
@@ -471,7 +468,6 @@
   ],
   "ChIPpeakAnno": [
     "GenomicFeatures",
-    "InteractionSet",
     "regioneR",
     "rtracklayer",
     "ensembldb",
@@ -535,7 +531,6 @@
   ],
   "ClustIRR": [],
   "ClusterFoldSimilarity": [],
-  "CoGAPS": [],
   "Cogito": [
     "GenomicFeatures",
     "rtracklayer"
@@ -559,7 +554,6 @@
   "CoverageView": [
     "rtracklayer"
   ],
-  "CuratedAtlasQueryR": [],
   "CytoGLMM": [],
   "CytoMDS": [
     "CytoPipeline",
@@ -615,7 +609,6 @@
     "ChIPpeakAnno",
     "rtracklayer",
     "GenomicFeatures",
-    "InteractionSet",
     "regioneR",
     "ensembldb",
     "AnnotationFilter",
@@ -701,7 +694,6 @@
     "rtracklayer"
   ],
   "DegCre": [
-    "InteractionSet",
     "plotgardener",
     "plyranges",
     "GenomicFeatures",
@@ -752,7 +744,6 @@
   ],
   "Dune": [],
   "DuplexDiscovereR": [
-    "InteractionSet",
     "Gviz",
     "rtracklayer",
     "GenomicFeatures",
@@ -771,9 +762,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "EDIRquery": [
-    "InteractionSet"
-  ],
+  "EDIRquery": [],
   "EGAD": [
     "GEOquery"
   ],
@@ -977,7 +966,6 @@
     "BSgenome",
     "GenomicFeatures",
     "rtracklayer",
-    "InteractionSet",
     "regioneR",
     "ensembldb",
     "AnnotationFilter"
@@ -1041,7 +1029,6 @@
     "rtracklayer"
   ],
   "GenomicInteractions": [
-    "InteractionSet",
     "rtracklayer",
     "Gviz",
     "GenomicFeatures",
@@ -1101,7 +1088,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "HERON": [],
   "HIBAG": [],
   "HIPPO": [],
   "HTSFilter": [
@@ -1115,7 +1101,6 @@
     "rtracklayer"
   ],
   "HiCDCPlus": [
-    "InteractionSet",
     "GenomicInteractions",
     "BSgenome",
     "rtracklayer",
@@ -1127,23 +1112,16 @@
     "AnnotationFilter"
   ],
   "HiCDOC": [
-    "InteractionSet",
     "multiHiCcompare",
     "HiCcompare"
   ],
-  "HiCExperiment": [
-    "InteractionSet"
-  ],
-  "HiCcompare": [
-    "InteractionSet"
-  ],
+  "HiCExperiment": [],
+  "HiCcompare": [],
   "HiContacts": [
-    "HiCExperiment",
-    "InteractionSet"
+    "HiCExperiment"
   ],
   "HiCool": [
-    "HiCExperiment",
-    "InteractionSet"
+    "HiCExperiment"
   ],
   "HiLDA": [
     "GenomicFeatures",
@@ -1154,7 +1132,6 @@
     "rtracklayer"
   ],
   "HicAggR": [
-    "InteractionSet",
     "rtracklayer"
   ],
   "HoloFoodR": [
@@ -1221,7 +1198,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "InteractionSet": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
     "BSgenome",
@@ -1523,7 +1499,6 @@
     "motifStack",
     "GenomicFeatures",
     "Gviz",
-    "InteractionSet",
     "txdbmaker",
     "regioneR",
     "ensembldb",
@@ -1644,7 +1619,6 @@
   "POWSC": [
     "MAST"
   ],
-  "PPInfer": [],
   "PRONE": [
     "MSnbase",
     "POMA",
@@ -1762,7 +1736,6 @@
     "ChIPpeakAnno",
     "rtracklayer",
     "GenomicFeatures",
-    "InteractionSet",
     "regioneR",
     "ensembldb",
     "AnnotationFilter"
@@ -2169,8 +2142,7 @@
     "scuttle"
   ],
   "SpectralTAD": [
-    "HiCcompare",
-    "InteractionSet"
+    "HiCcompare"
   ],
   "SpliceWiz": [
     "BSgenome",
@@ -2208,8 +2180,7 @@
     "DESeq2"
   ],
   "TADCompare": [
-    "HiCcompare",
-    "InteractionSet"
+    "HiCcompare"
   ],
   "TAPseq": [
     "BSgenome",
@@ -2538,7 +2509,6 @@
   "beachmat.hdf5": [
     "beachmat"
   ],
-  "beer": [],
   "benchdamic": [
     "TreeSummarizedExperiment",
     "zinbwave",
@@ -3067,7 +3037,6 @@
   ],
   "destiny": [],
   "diffHic": [
-    "InteractionSet",
     "BSgenome",
     "csaw",
     "rtracklayer"
@@ -3262,7 +3231,6 @@
   "extraChIPs": [
     "csaw",
     "GenomicInteractions",
-    "InteractionSet",
     "rtracklayer",
     "Gviz",
     "GenomicFeatures",
@@ -3380,7 +3348,6 @@
     "rtracklayer"
   ],
   "geomeTriD": [
-    "InteractionSet",
     "trackViewer",
     "GenomicFeatures",
     "Gviz",
@@ -3449,9 +3416,7 @@
     "rtracklayer"
   ],
   "gscreend": [],
-  "gsean": [
-    "PPInfer"
-  ],
+  "gsean": [],
   "gwascat": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -3481,7 +3446,6 @@
     "BSgenome"
   ],
   "hicVennDiagram": [
-    "InteractionSet",
     "rtracklayer"
   ],
   "hipathia": [],
@@ -3694,7 +3658,6 @@
     "TRESS"
   ],
   "mariner": [
-    "InteractionSet",
     "plyranges",
     "plotgardener",
     "rtracklayer"
@@ -4000,8 +3963,7 @@
   ],
   "multiGSEA": [],
   "multiHiCcompare": [
-    "HiCcompare",
-    "InteractionSet"
+    "HiCcompare"
   ],
   "multiMiR": [],
   "multiWGCNA": [],
@@ -4018,7 +3980,6 @@
     "ensembldb",
     "AnnotationFilter"
   ],
-  "multistateQTL": [],
   "mumosa": [
     "BiocSingular",
     "ScaledMatrix",
@@ -4102,7 +4063,6 @@
     "ShortRead"
   ],
   "nullranges": [
-    "InteractionSet",
     "plyranges",
     "rtracklayer"
   ],
@@ -4261,7 +4221,6 @@
     "rtracklayer"
   ],
   "plyinteractions": [
-    "InteractionSet",
     "plyranges",
     "rtracklayer"
   ],
@@ -4450,7 +4409,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "rfPred": [],
   "rgsepd": [
     "DESeq2",
     "goseq",
@@ -4746,7 +4704,6 @@
   ],
   "sesame": [],
   "sevenC": [
-    "InteractionSet",
     "rtracklayer"
   ],
   "shinyMethyl": [
@@ -4853,7 +4810,6 @@
     "motifmatchr",
     "TFBSTools",
     "rtracklayer",
-    "InteractionSet",
     "Gviz",
     "CNEr",
     "ensembldb",
@@ -4991,7 +4947,6 @@
     "tidySingleCellExperiment",
     "plyranges",
     "nullranges",
-    "InteractionSet",
     "rtracklayer"
   ],
   "topGO": [],
@@ -5008,7 +4963,6 @@
     "GenomicFeatures",
     "Gviz",
     "rtracklayer",
-    "InteractionSet",
     "txdbmaker",
     "ensembldb",
     "BSgenome",
@@ -5108,7 +5062,6 @@
     "csaw",
     "DESeq2",
     "GenomicFeatures",
-    "InteractionSet",
     "regioneR",
     "rtracklayer",
     "ensembldb",

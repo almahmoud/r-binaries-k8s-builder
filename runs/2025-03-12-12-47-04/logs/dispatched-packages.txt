@@ -1436,3 +1436,7 @@ padma
 survClust
 vsclust
 xcore
+EDIRquery
+HiCExperiment
+HiCcompare
+gsean

@@ -120,12 +120,14 @@ ClustAll
 ClusterJudge
 ClusterSignificance
 CoCiteStats
+CoGAPS
 CoSIA
 ComPrAn
 ComplexHeatmap
 ConsensusClusterPlus
 Cormotif
 CrispRVariants
+CuratedAtlasQueryR
 CytoDx
 CytoGLMM
 DART
@@ -242,6 +244,7 @@ HDF5Array
 HDTD
 HELP
 HEM
+HERON
 HGC
 HIBAG
 HIREewas
@@ -273,6 +276,7 @@ Icens
 IgGeneUsage
 Informeasure
 InterCellar
+InteractionSet
 InteractiveComplexHeatmap
 IntramiRExploreR
 IsoBayes
@@ -399,6 +403,7 @@ PICS
 PIPETS
 PIUMA
 PLPE
+PPInfer
 PREDA
 PROMISE
 PROPER
@@ -625,6 +630,7 @@ bayNorm
 baySeq
 bcSeq
 beadarray
+beer
 betaHMM
 bettr
 bioDist
@@ -937,6 +943,7 @@ msPurity
 mslp
 multiClust
 multiscan
+multistateQTL
 multtest
 mzID
 mzR
@@ -1033,6 +1040,7 @@ receptLoss
 regsplice
 retrofit
 rexposome
+rfPred
 rfaRm
 rgoslin
 rhdf5
