@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2136 packages built successfully
+- 2138 packages built successfully
 - 30 packages failed to build
-- 67 packages not yet processed
+- 65 packages not yet processed
 
 ## Failed Builds (30)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -42,7 +42,7 @@
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/bandle/build-fail.log)        | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bandle)     | Build failed with unknown error     |
 
-## Successfully Built (2136)
+## Successfully Built (2138)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2181,8 +2181,10 @@
 | [scFeatures](https://bioconductor.org/packages/3.20/bioc/html/scFeatures.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/scFeatures/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scFeatures)                  |
 | [scviR](https://bioconductor.org/packages/3.20/bioc/html/scviR.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/scviR/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scviR)                       |
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/NADfinder/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/NADfinder)                   |
+| [crisprShiny](https://bioconductor.org/packages/3.20/bioc/html/crisprShiny.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/crisprShiny/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/crisprShiny)                 |
+| [methylclock](https://bioconductor.org/packages/3.20/bioc/html/methylclock.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/methylclock/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methylclock)                 |
 
-## Not Yet Processed (67)
+## Not Yet Processed (65)
 | Package                                                                                      | Status      |
 |----------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                     | Unprocessed |
@@ -2221,7 +2223,6 @@
 | [cliqueMS](https://bioconductor.org/packages/3.20/bioc/html/cliqueMS.html)                   | Unprocessed |
 | [cn.farms](https://bioconductor.org/packages/3.20/bioc/html/cn.farms.html)                   | Unprocessed |
 | [cosmiq](https://bioconductor.org/packages/3.20/bioc/html/cosmiq.html)                       | Unprocessed |
-| [crisprShiny](https://bioconductor.org/packages/3.20/bioc/html/crisprShiny.html)             | Unprocessed |
 | [dar](https://bioconductor.org/packages/3.20/bioc/html/dar.html)                             | Unprocessed |
 | [ddPCRclust](https://bioconductor.org/packages/3.20/bioc/html/ddPCRclust.html)               | Unprocessed |
 | [deconvR](https://bioconductor.org/packages/3.20/bioc/html/deconvR.html)                     | Unprocessed |
@@ -2236,7 +2237,6 @@
 | [methylGSA](https://bioconductor.org/packages/3.20/bioc/html/methylGSA.html)                 | Unprocessed |
 | [methylInheritance](https://bioconductor.org/packages/3.20/bioc/html/methylInheritance.html) | Unprocessed |
 | [methylKit](https://bioconductor.org/packages/3.20/bioc/html/methylKit.html)                 | Unprocessed |
-| [methylclock](https://bioconductor.org/packages/3.20/bioc/html/methylclock.html)             | Unprocessed |
 | [miaViz](https://bioconductor.org/packages/3.20/bioc/html/miaViz.html)                       | Unprocessed |
 | [mimager](https://bioconductor.org/packages/3.20/bioc/html/mimager.html)                     | Unprocessed |
 | [ncGTW](https://bioconductor.org/packages/3.20/bioc/html/ncGTW.html)                         | Unprocessed |

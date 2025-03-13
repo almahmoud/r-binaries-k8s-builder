@@ -128,7 +128,6 @@
   "cosmiq": [
     "xcms"
   ],
-  "crisprShiny": [],
   "dar": [],
   "ddPCRclust": [
     "flowPeaks"
@@ -175,7 +174,6 @@
   "methylKit": [
     "fastseg"
   ],
-  "methylclock": [],
   "miaViz": [],
   "microRNA": [],
   "mimager": [
