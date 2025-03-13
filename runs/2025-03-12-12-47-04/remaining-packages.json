@@ -427,7 +427,6 @@
   "crisprViz": [
     "crisprDesign"
   ],
-  "customProDB": [],
   "cytofQC": [
     "CATALYST",
     "scater"

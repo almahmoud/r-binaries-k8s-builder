@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1933 packages built successfully
+- 1934 packages built successfully
 - 29 packages failed to build
-- 271 packages not yet processed
+- 270 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -41,7 +41,7 @@
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 
-## Successfully Built (1933)
+## Successfully Built (1934)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1977,8 +1977,9 @@
 | [RCAS](https://bioconductor.org/packages/3.20/bioc/html/RCAS.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/RCAS/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RCAS)                        |
 | [mygene](https://bioconductor.org/packages/3.20/bioc/html/mygene.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/mygene/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mygene)                      |
 | [proBAMr](https://bioconductor.org/packages/3.20/bioc/html/proBAMr.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/proBAMr/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/proBAMr)                     |
+| [customProDB](https://bioconductor.org/packages/3.20/bioc/html/customProDB.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/customProDB/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/customProDB)                 |
 
-## Not Yet Processed (271)
+## Not Yet Processed (270)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2124,7 +2125,6 @@
 | [crisprShiny](https://bioconductor.org/packages/3.20/bioc/html/crisprShiny.html)                               | Unprocessed |
 | [crisprVerse](https://bioconductor.org/packages/3.20/bioc/html/crisprVerse.html)                               | Unprocessed |
 | [crisprViz](https://bioconductor.org/packages/3.20/bioc/html/crisprViz.html)                                   | Unprocessed |
-| [customProDB](https://bioconductor.org/packages/3.20/bioc/html/customProDB.html)                               | Unprocessed |
 | [cytofQC](https://bioconductor.org/packages/3.20/bioc/html/cytofQC.html)                                       | Unprocessed |
 | [dagLogo](https://bioconductor.org/packages/3.20/bioc/html/dagLogo.html)                                       | Unprocessed |
 | [dar](https://bioconductor.org/packages/3.20/bioc/html/dar.html)                                               | Unprocessed |
