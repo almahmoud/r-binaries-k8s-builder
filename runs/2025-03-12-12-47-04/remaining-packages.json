@@ -293,7 +293,6 @@
   "CNEr": [
     "rtracklayer"
   ],
-  "CNTools": [],
   "CNVRanger": [],
   "CNVfilteR": [
     "regioneR",
@@ -2631,9 +2630,7 @@
   ],
   "cfTools": [],
   "cfdnakit": [],
-  "cghMCR": [
-    "CNTools"
-  ],
+  "cghMCR": [],
   "chihaya": [],
   "chimeraviz": [
     "Gviz",
@@ -3486,7 +3483,6 @@
     "cytomapper",
     "beachmat"
   ],
-  "immApex": [],
   "immunoClust": [],
   "infercnv": [],
   "intansv": [
@@ -4394,7 +4390,6 @@
     "beachmat",
     "scuttle"
   ],
-  "scClassify": [],
   "scDD": [
     "EBSeq",
     "scran",

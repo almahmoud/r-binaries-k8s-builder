@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1205 packages built successfully
+- 1208 packages built successfully
 - 20 packages failed to build
-- 1008 packages not yet processed
+- 1005 packages not yet processed
 
 ## Failed Builds (20)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -32,7 +32,7 @@
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/cn.mops/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cn.mops)       | Build failed with unknown error     |
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 
-## Successfully Built (1205)
+## Successfully Built (1208)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1240,8 +1240,11 @@
 | [PhosR](https://bioconductor.org/packages/3.20/bioc/html/PhosR.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/PhosR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PhosR)                     |
 | [ngsReports](https://bioconductor.org/packages/3.20/bioc/html/ngsReports.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/ngsReports/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ngsReports)                |
 | [npGSEA](https://bioconductor.org/packages/3.20/bioc/html/npGSEA.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/npGSEA/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/npGSEA)                    |
+| [CNTools](https://bioconductor.org/packages/3.20/bioc/html/CNTools.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/CNTools/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNTools)                   |
+| [immApex](https://bioconductor.org/packages/3.20/bioc/html/immApex.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/immApex/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immApex)                   |
+| [scClassify](https://bioconductor.org/packages/3.20/bioc/html/scClassify.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/scClassify/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scClassify)                |
 
-## Not Yet Processed (1008)
+## Not Yet Processed (1005)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1302,7 +1305,6 @@
 | [CHETAH](https://bioconductor.org/packages/3.20/bioc/html/CHETAH.html)                                           | Unprocessed |
 | [CINdex](https://bioconductor.org/packages/3.20/bioc/html/CINdex.html)                                           | Unprocessed |
 | [CNEr](https://bioconductor.org/packages/3.20/bioc/html/CNEr.html)                                               | Unprocessed |
-| [CNTools](https://bioconductor.org/packages/3.20/bioc/html/CNTools.html)                                         | Unprocessed |
 | [CNVRanger](https://bioconductor.org/packages/3.20/bioc/html/CNVRanger.html)                                     | Unprocessed |
 | [CNVfilteR](https://bioconductor.org/packages/3.20/bioc/html/CNVfilteR.html)                                     | Unprocessed |
 | [CNViz](https://bioconductor.org/packages/3.20/bioc/html/CNViz.html)                                             | Unprocessed |
@@ -1933,7 +1935,6 @@
 | [ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)                                             | Unprocessed |
 | [igvR](https://bioconductor.org/packages/3.20/bioc/html/igvR.html)                                               | Unprocessed |
 | [imcRtools](https://bioconductor.org/packages/3.20/bioc/html/imcRtools.html)                                     | Unprocessed |
-| [immApex](https://bioconductor.org/packages/3.20/bioc/html/immApex.html)                                         | Unprocessed |
 | [infercnv](https://bioconductor.org/packages/3.20/bioc/html/infercnv.html)                                       | Unprocessed |
 | [intansv](https://bioconductor.org/packages/3.20/bioc/html/intansv.html)                                         | Unprocessed |
 | [interactiveDisplay](https://bioconductor.org/packages/3.20/bioc/html/interactiveDisplay.html)                   | Unprocessed |
@@ -2119,7 +2120,6 @@
 | [scAnnotatR](https://bioconductor.org/packages/3.20/bioc/html/scAnnotatR.html)                                   | Unprocessed |
 | [scBFA](https://bioconductor.org/packages/3.20/bioc/html/scBFA.html)                                             | Unprocessed |
 | [scCB2](https://bioconductor.org/packages/3.20/bioc/html/scCB2.html)                                             | Unprocessed |
-| [scClassify](https://bioconductor.org/packages/3.20/bioc/html/scClassify.html)                                   | Unprocessed |
 | [scDD](https://bioconductor.org/packages/3.20/bioc/html/scDD.html)                                               | Unprocessed |
 | [scDDboost](https://bioconductor.org/packages/3.20/bioc/html/scDDboost.html)                                     | Unprocessed |
 | [scDataviz](https://bioconductor.org/packages/3.20/bioc/html/scDataviz.html)                                     | Unprocessed |

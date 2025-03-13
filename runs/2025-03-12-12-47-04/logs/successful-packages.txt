@@ -1203,3 +1203,6 @@ sRACIPE
 ngsReports
 npGSEA
 PhosR
+CNTools
+immApex
+scClassify

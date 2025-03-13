@@ -101,6 +101,7 @@ CNORdt
 CNORfeeder
 CNORfuzzy
 CNORode
+CNTools
 CNVMetrics
 CNVPanelizer
 COMPASS
@@ -887,6 +888,7 @@ idpr
 idr2d
 igvShiny
 illuminaio
+immApex
 immunoClust
 immunogenViewer
 immunotation
@@ -1106,6 +1108,7 @@ sangerseqR
 sarks
 satuRn
 scBubbletree
+scClassify
 scFeatureFilter
 scMitoMut
 scMultiSim

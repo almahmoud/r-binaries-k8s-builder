@@ -1203,3 +1203,6 @@
 ['[PhosR](https://bioconductor.org/packages/3.20/bioc/html/PhosR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/PhosR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PhosR)']
 ['[ngsReports](https://bioconductor.org/packages/3.20/bioc/html/ngsReports.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ngsReports/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ngsReports)']
 ['[npGSEA](https://bioconductor.org/packages/3.20/bioc/html/npGSEA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/npGSEA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/npGSEA)']
+['[CNTools](https://bioconductor.org/packages/3.20/bioc/html/CNTools.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CNTools/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CNTools)']
+['[immApex](https://bioconductor.org/packages/3.20/bioc/html/immApex.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/immApex/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immApex)']
+['[scClassify](https://bioconductor.org/packages/3.20/bioc/html/scClassify.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scClassify/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scClassify)']
