@@ -2159,3 +2159,4 @@ biscuiteer
 cytofQC
 spillR
 affycoretools
+condiments

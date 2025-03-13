@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2061 packages built successfully
+- 2064 packages built successfully
 - 30 packages failed to build
-- 142 packages not yet processed
+- 139 packages not yet processed
 
 ## Failed Builds (30)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -42,7 +42,7 @@
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/bandle/build-fail.log)        | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bandle)     | Build failed with unknown error     |
 
-## Successfully Built (2061)
+## Successfully Built (2064)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2106,8 +2106,11 @@
 | [shinyepico](https://bioconductor.org/packages/3.20/bioc/html/shinyepico.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/shinyepico/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/shinyepico)                  |
 | [ReportingTools](https://bioconductor.org/packages/3.20/bioc/html/ReportingTools.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/ReportingTools/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ReportingTools)              |
 | [Spaniel](https://bioconductor.org/packages/3.20/bioc/html/Spaniel.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/Spaniel/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Spaniel)                     |
+| [BOBaFIT](https://bioconductor.org/packages/3.20/bioc/html/BOBaFIT.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/BOBaFIT/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BOBaFIT)                     |
+| [cageminer](https://bioconductor.org/packages/3.20/bioc/html/cageminer.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/cageminer/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cageminer)                   |
+| [distinct](https://bioconductor.org/packages/3.20/bioc/html/distinct.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/distinct/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/distinct)                    |
 
-## Not Yet Processed (142)
+## Not Yet Processed (139)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2117,7 +2120,6 @@
 | [AgiMicroRna](https://bioconductor.org/packages/3.20/bioc/html/AgiMicroRna.html)                               | Unprocessed |
 | [ArrayExpress](https://bioconductor.org/packages/3.20/bioc/html/ArrayExpress.html)                             | Unprocessed |
 | [BASiCStan](https://bioconductor.org/packages/3.20/bioc/html/BASiCStan.html)                                   | Unprocessed |
-| [BOBaFIT](https://bioconductor.org/packages/3.20/bioc/html/BOBaFIT.html)                                       | Unprocessed |
 | [BatchQC](https://bioconductor.org/packages/3.20/bioc/html/BatchQC.html)                                       | Unprocessed |
 | [CAMERA](https://bioconductor.org/packages/3.20/bioc/html/CAMERA.html)                                         | Unprocessed |
 | [CNVfilteR](https://bioconductor.org/packages/3.20/bioc/html/CNVfilteR.html)                                   | Unprocessed |
@@ -2169,7 +2171,6 @@
 | [bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)                                     | Unprocessed |
 | [biscuiteer](https://bioconductor.org/packages/3.20/bioc/html/biscuiteer.html)                                 | Unprocessed |
 | [broadSeq](https://bioconductor.org/packages/3.20/bioc/html/broadSeq.html)                                     | Unprocessed |
-| [cageminer](https://bioconductor.org/packages/3.20/bioc/html/cageminer.html)                                   | Unprocessed |
 | [celda](https://bioconductor.org/packages/3.20/bioc/html/celda.html)                                           | Unprocessed |
 | [chromVAR](https://bioconductor.org/packages/3.20/bioc/html/chromVAR.html)                                     | Unprocessed |
 | [circRNAprofiler](https://bioconductor.org/packages/3.20/bioc/html/circRNAprofiler.html)                       | Unprocessed |
@@ -2186,7 +2187,6 @@
 | [decontX](https://bioconductor.org/packages/3.20/bioc/html/decontX.html)                                       | Unprocessed |
 | [deconvR](https://bioconductor.org/packages/3.20/bioc/html/deconvR.html)                                       | Unprocessed |
 | [derfinderPlot](https://bioconductor.org/packages/3.20/bioc/html/derfinderPlot.html)                           | Unprocessed |
-| [distinct](https://bioconductor.org/packages/3.20/bioc/html/distinct.html)                                     | Unprocessed |
 | [enhancerHomologSearch](https://bioconductor.org/packages/3.20/bioc/html/enhancerHomologSearch.html)           | Unprocessed |
 | [epiregulon](https://bioconductor.org/packages/3.20/bioc/html/epiregulon.html)                                 | Unprocessed |
 | [epiregulon.extra](https://bioconductor.org/packages/3.20/bioc/html/epiregulon.extra.html)                     | Unprocessed |

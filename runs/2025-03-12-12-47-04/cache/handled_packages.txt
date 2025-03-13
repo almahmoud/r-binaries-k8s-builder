@@ -58,6 +58,7 @@ BERT
 BEclear
 BG2
 BLMA
+BOBaFIT
 BPRMeth
 BRAIN
 BREW3R.r
@@ -1130,6 +1131,7 @@ bugsigdbr
 bumphunter
 cBioPortalData
 cTRAP
+cageminer
 calm
 canceR
 cancerclass
@@ -1264,6 +1266,7 @@ diggit
 dinoR
 dir.expiry
 discordant
+distinct
 dittoSeq
 divergence
 dks

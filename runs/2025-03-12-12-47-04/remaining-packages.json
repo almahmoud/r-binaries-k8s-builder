@@ -13,7 +13,6 @@
     "affxparser"
   ],
   "BASiCStan": [],
-  "BOBaFIT": [],
   "BatchQC": [
     "EBSeq"
   ],
@@ -162,7 +161,6 @@
   "broadSeq": [
     "EBSeq"
   ],
-  "cageminer": [],
   "casper": [],
   "celda": [],
   "chromVAR": [],
@@ -175,9 +173,7 @@
     "oligo"
   ],
   "cn.mops": [],
-  "condiments": [
-    "distinct"
-  ],
+  "condiments": [],
   "cosmiq": [
     "xcms"
   ],
@@ -203,7 +199,6 @@
     "fastseg"
   ],
   "derfinderPlot": [],
-  "distinct": [],
   "eiR": [],
   "enhancerHomologSearch": [],
   "epiregulon": [],
