@@ -441,6 +441,7 @@ MetaboCoreUtils
 MethPed
 MethTargetedNGS
 MethylMix
+MethylSeekR
 Mfuzz
 MiChip
 MiPP
@@ -484,6 +485,7 @@ OCplus
 OLIN
 OLINgui
 OPWeight
+ORFhunteR
 OSAT
 OVESEG
 OmicCircos

@@ -870,7 +870,6 @@
     "GEOquery",
     "GenomicFeatures"
   ],
-  "MethylSeekR": [],
   "MineICA": [
     "GOstats",
     "lumi",
@@ -953,7 +952,6 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "ORFhunteR": [],
   "ORFik": [
     "GenomicFeatures",
     "txdbmaker"

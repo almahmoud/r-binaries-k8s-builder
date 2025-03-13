@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1487 packages built successfully
+- 1489 packages built successfully
 - 23 packages failed to build
-- 723 packages not yet processed
+- 721 packages not yet processed
 
 ## Failed Builds (23)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -35,7 +35,7 @@
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 
-## Successfully Built (1487)
+## Successfully Built (1489)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1525,8 +1525,10 @@
 | [tRanslatome](https://bioconductor.org/packages/3.20/bioc/html/tRanslatome.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/tRanslatome/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tRanslatome)                |
 | [zitools](https://bioconductor.org/packages/3.20/bioc/html/zitools.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/zitools/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/zitools)                    |
 | [dreamlet](https://bioconductor.org/packages/3.20/bioc/html/dreamlet.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/dreamlet/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dreamlet)                   |
+| [MethylSeekR](https://bioconductor.org/packages/3.20/bioc/html/MethylSeekR.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/MethylSeekR/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MethylSeekR)                |
+| [ORFhunteR](https://bioconductor.org/packages/3.20/bioc/html/ORFhunteR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/ORFhunteR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ORFhunteR)                  |
 
-## Not Yet Processed (723)
+## Not Yet Processed (721)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1725,7 +1727,6 @@
 | [MetaboSignal](https://bioconductor.org/packages/3.20/bioc/html/MetaboSignal.html)                               | Unprocessed |
 | [MethReg](https://bioconductor.org/packages/3.20/bioc/html/MethReg.html)                                         | Unprocessed |
 | [MethylAid](https://bioconductor.org/packages/3.20/bioc/html/MethylAid.html)                                     | Unprocessed |
-| [MethylSeekR](https://bioconductor.org/packages/3.20/bioc/html/MethylSeekR.html)                                 | Unprocessed |
 | [MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)                                         | Unprocessed |
 | [MinimumDistance](https://bioconductor.org/packages/3.20/bioc/html/MinimumDistance.html)                         | Unprocessed |
 | [MoleculeExperiment](https://bioconductor.org/packages/3.20/bioc/html/MoleculeExperiment.html)                   | Unprocessed |
@@ -1745,7 +1746,6 @@
 | [NoRCE](https://bioconductor.org/packages/3.20/bioc/html/NoRCE.html)                                             | Unprocessed |
 | [OGRE](https://bioconductor.org/packages/3.20/bioc/html/OGRE.html)                                               | Unprocessed |
 | [OMICsPCA](https://bioconductor.org/packages/3.20/bioc/html/OMICsPCA.html)                                       | Unprocessed |
-| [ORFhunteR](https://bioconductor.org/packages/3.20/bioc/html/ORFhunteR.html)                                     | Unprocessed |
 | [ORFik](https://bioconductor.org/packages/3.20/bioc/html/ORFik.html)                                             | Unprocessed |
 | [OTUbase](https://bioconductor.org/packages/3.20/bioc/html/OTUbase.html)                                         | Unprocessed |
 | [OUTRIDER](https://bioconductor.org/packages/3.20/bioc/html/OUTRIDER.html)                                       | Unprocessed |
