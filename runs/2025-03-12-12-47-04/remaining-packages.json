@@ -95,7 +95,6 @@
   "GeneTonic": [],
   "GeneticsPed": [],
   "GenomicOZone": [],
-  "GenomicPlot": [],
   "GrafGen": [],
   "HIBAG": [],
   "IPO": [
@@ -299,7 +298,6 @@
   "immunoClust": [],
   "intansv": [],
   "lumi": [],
-  "lute": [],
   "metaMS": [
     "CAMERA",
     "xcms"

@@ -395,6 +395,7 @@ GenomicFeatures
 GenomicFiles
 GenomicInteractionNodes
 GenomicInteractions
+GenomicPlot
 GenomicRanges
 GenomicScores
 GenomicSuperSignature
@@ -1496,6 +1497,7 @@ loci2path
 logicFS
 lpNet
 lpsymphony
+lute
 m6Aboost
 mBPCR
 mCSEA

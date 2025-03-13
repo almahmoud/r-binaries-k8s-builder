@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2022 packages built successfully
+- 2024 packages built successfully
 - 30 packages failed to build
-- 181 packages not yet processed
+- 179 packages not yet processed
 
 ## Failed Builds (30)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -42,7 +42,7 @@
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/bandle/build-fail.log)        | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bandle)     | Build failed with unknown error     |
 
-## Successfully Built (2022)
+## Successfully Built (2024)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2067,8 +2067,10 @@
 | [mCSEA](https://bioconductor.org/packages/3.20/bioc/html/mCSEA.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/mCSEA/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mCSEA)                       |
 | [scone](https://bioconductor.org/packages/3.20/bioc/html/scone.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/scone/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scone)                       |
 | [tximeta](https://bioconductor.org/packages/3.20/bioc/html/tximeta.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/tximeta/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tximeta)                     |
+| [GenomicPlot](https://bioconductor.org/packages/3.20/bioc/html/GenomicPlot.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/GenomicPlot/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicPlot)                 |
+| [lute](https://bioconductor.org/packages/3.20/bioc/html/lute.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/lute/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lute)                        |
 
-## Not Yet Processed (181)
+## Not Yet Processed (179)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2111,7 +2113,6 @@
 | [GeneRegionScan](https://bioconductor.org/packages/3.20/bioc/html/GeneRegionScan.html)                         | Unprocessed |
 | [GeneTonic](https://bioconductor.org/packages/3.20/bioc/html/GeneTonic.html)                                   | Unprocessed |
 | [GenomicOZone](https://bioconductor.org/packages/3.20/bioc/html/GenomicOZone.html)                             | Unprocessed |
-| [GenomicPlot](https://bioconductor.org/packages/3.20/bioc/html/GenomicPlot.html)                               | Unprocessed |
 | [IPO](https://bioconductor.org/packages/3.20/bioc/html/IPO.html)                                               | Unprocessed |
 | [ITALICS](https://bioconductor.org/packages/3.20/bioc/html/ITALICS.html)                                       | Unprocessed |
 | [IsoformSwitchAnalyzeR](https://bioconductor.org/packages/3.20/bioc/html/IsoformSwitchAnalyzeR.html)           | Unprocessed |
@@ -2196,7 +2197,6 @@
 | [ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)                                           | Unprocessed |
 | [intansv](https://bioconductor.org/packages/3.20/bioc/html/intansv.html)                                       | Unprocessed |
 | [lumi](https://bioconductor.org/packages/3.20/bioc/html/lumi.html)                                             | Unprocessed |
-| [lute](https://bioconductor.org/packages/3.20/bioc/html/lute.html)                                             | Unprocessed |
 | [metaMS](https://bioconductor.org/packages/3.20/bioc/html/metaMS.html)                                         | Unprocessed |
 | [methInheritSim](https://bioconductor.org/packages/3.20/bioc/html/methInheritSim.html)                         | Unprocessed |
 | [methodical](https://bioconductor.org/packages/3.20/bioc/html/methodical.html)                                 | Unprocessed |
