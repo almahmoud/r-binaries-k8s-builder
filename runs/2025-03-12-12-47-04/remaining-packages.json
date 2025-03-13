@@ -626,7 +626,6 @@
   "IVAS": [
     "GenomicFeatures"
   ],
-  "IdeoViz": [],
   "InPAS": [
     "GenomicFeatures"
   ],
@@ -1439,7 +1438,6 @@
     "xcms",
     "MSnbase"
   ],
-  "clusterExperiment": [],
   "cn.farms": [
     "affxparser",
     "oligo"
@@ -2136,7 +2134,6 @@
   ],
   "netSmooth": [
     "scater",
-    "clusterExperiment",
     "scuttle"
   ],
   "netZooR": [

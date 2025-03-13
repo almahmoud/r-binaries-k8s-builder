@@ -371,6 +371,7 @@ ISLET
 ISoLDE
 IWTomics
 Icens
+IdeoViz
 IgGeneUsage
 Informeasure
 InterCellar
@@ -920,6 +921,7 @@ clippda
 clst
 clstutils
 clustComp
+clusterExperiment
 clusterProfiler
 clusterSeq
 clusterStab

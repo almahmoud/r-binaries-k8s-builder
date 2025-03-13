@@ -1613,3 +1613,5 @@ msqrob2
 omicsPrint
 NanoMethViz
 SingleR
+clusterExperiment
+IdeoViz
