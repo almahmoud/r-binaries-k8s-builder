@@ -787,6 +787,7 @@ SplicingGraphs
 StabMap
 Streamer
 Structstrings
+StructuralVariantAnnotation
 SubCellBarCode
 SummarizedExperiment
 Summix
@@ -958,6 +959,7 @@ bumphunter
 cTRAP
 calm
 cancerclass
+cardelino
 casper
 cbpManager
 ccImpute

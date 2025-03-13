@@ -671,7 +671,6 @@
     "escheR"
   ],
   "Statial": [],
-  "StructuralVariantAnnotation": [],
   "TFBSTools": [],
   "TFEA.ChIP": [],
   "TFHAZ": [
@@ -793,7 +792,6 @@
     "cBioPortalData",
     "phenoTest"
   ],
-  "cardelino": [],
   "casper": [],
   "categoryCompare": [
     "GOstats"
@@ -1540,12 +1538,8 @@
   "standR": [
     "RUVSeq"
   ],
-  "svaNUMT": [
-    "StructuralVariantAnnotation"
-  ],
-  "svaRetro": [
-    "StructuralVariantAnnotation"
-  ],
+  "svaNUMT": [],
+  "svaRetro": [],
   "synapter": [
     "MSnbase"
   ],
