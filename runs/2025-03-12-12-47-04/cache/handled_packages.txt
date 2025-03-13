@@ -738,9 +738,11 @@ assorthead
 autonomics
 awst
 bacon
+ballgown
 bamsignals
 banocc
 barcodetrackR
+basecallQC
 basilisk
 basilisk.utils
 bayNorm

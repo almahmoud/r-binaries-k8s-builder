@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1390 packages built successfully
+- 1392 packages built successfully
 - 22 packages failed to build
-- 821 packages not yet processed
+- 819 packages not yet processed
 
 ## Failed Builds (22)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -34,7 +34,7 @@
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 
-## Successfully Built (1390)
+## Successfully Built (1392)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1427,8 +1427,10 @@
 | [amplican](https://bioconductor.org/packages/3.20/bioc/html/amplican.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/amplican/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/amplican)                   |
 | [autonomics](https://bioconductor.org/packages/3.20/bioc/html/autonomics.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/autonomics/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/autonomics)                 |
 | [schex](https://bioconductor.org/packages/3.20/bioc/html/schex.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/schex/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/schex)                      |
+| [ballgown](https://bioconductor.org/packages/3.20/bioc/html/ballgown.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/ballgown/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ballgown)                   |
+| [basecallQC](https://bioconductor.org/packages/3.20/bioc/html/basecallQC.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/basecallQC/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/basecallQC)                 |
 
-## Not Yet Processed (821)
+## Not Yet Processed (819)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1824,10 +1826,8 @@
 | [atSNP](https://bioconductor.org/packages/3.20/bioc/html/atSNP.html)                                             | Unprocessed |
 | [atena](https://bioconductor.org/packages/3.20/bioc/html/atena.html)                                             | Unprocessed |
 | [attract](https://bioconductor.org/packages/3.20/bioc/html/attract.html)                                         | Unprocessed |
-| [ballgown](https://bioconductor.org/packages/3.20/bioc/html/ballgown.html)                                       | Unprocessed |
 | [bambu](https://bioconductor.org/packages/3.20/bioc/html/bambu.html)                                             | Unprocessed |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)                                           | Unprocessed |
-| [basecallQC](https://bioconductor.org/packages/3.20/bioc/html/basecallQC.html)                                   | Unprocessed |
 | [batchelor](https://bioconductor.org/packages/3.20/bioc/html/batchelor.html)                                     | Unprocessed |
 | [beachmat.hdf5](https://bioconductor.org/packages/3.20/bioc/html/beachmat.hdf5.html)                             | Unprocessed |
 | [benchdamic](https://bioconductor.org/packages/3.20/bioc/html/benchdamic.html)                                   | Unprocessed |

@@ -1388,3 +1388,5 @@
 ['[amplican](https://bioconductor.org/packages/3.20/bioc/html/amplican.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/amplican/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/amplican)']
 ['[autonomics](https://bioconductor.org/packages/3.20/bioc/html/autonomics.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/autonomics/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/autonomics)']
 ['[schex](https://bioconductor.org/packages/3.20/bioc/html/schex.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/schex/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/schex)']
+['[ballgown](https://bioconductor.org/packages/3.20/bioc/html/ballgown.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ballgown/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ballgown)']
+['[basecallQC](https://bioconductor.org/packages/3.20/bioc/html/basecallQC.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/basecallQC/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/basecallQC)']

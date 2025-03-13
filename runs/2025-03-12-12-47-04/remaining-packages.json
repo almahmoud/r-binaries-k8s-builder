@@ -1695,9 +1695,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "VaSP": [
-    "ballgown"
-  ],
+  "VaSP": [],
   "VanillaICE": [
     "BSgenome"
   ],
@@ -1831,7 +1829,6 @@
     "GOstats",
     "Category"
   ],
-  "ballgown": [],
   "bambu": [
     "BSgenome",
     "GenomicFeatures"
@@ -1843,7 +1840,6 @@
     "MLInterfaces",
     "QFeatures"
   ],
-  "basecallQC": [],
   "batchelor": [
     "BiocSingular",
     "scuttle"
