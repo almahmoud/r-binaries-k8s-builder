@@ -1,7 +1,5 @@
 {
-  "ACE": [
-    "QDNAseq"
-  ],
+  "ACE": [],
   "ADAM": [],
   "ADAMgui": [
     "ADAM"
@@ -288,7 +286,6 @@
   "CBEA": [
     "TreeSummarizedExperiment"
   ],
-  "CBNplot": [],
   "CCPROMISE": [],
   "CDI": [],
   "CHETAH": [],
@@ -521,7 +518,6 @@
     "QFeatures",
     "AnnotationFilter"
   ],
-  "ClustIRR": [],
   "Cogito": [
     "GenomicFeatures",
     "rtracklayer"
@@ -973,9 +969,7 @@
     "VariantAnnotation",
     "rtracklayer"
   ],
-  "GeneBreak": [
-    "QDNAseq"
-  ],
+  "GeneBreak": [],
   "GeneGeneInteR": [],
   "GeneMeta": [],
   "GeneRegionScan": [
@@ -1663,7 +1657,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "QDNAseq": [],
   "QFeatures": [
     "AnnotationFilter"
   ],
@@ -2527,7 +2520,6 @@
     "bsseq",
     "VariantAnnotation",
     "rtracklayer",
-    "QDNAseq",
     "dmrseq",
     "BSgenome",
     "beachmat",
@@ -2557,7 +2549,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "breakpointR": [],
   "broadSeq": [
     "DELocal",
     "EBSeq",
@@ -2642,9 +2633,7 @@
     "rtracklayer"
   ],
   "cfTools": [],
-  "cfdnakit": [
-    "QDNAseq"
-  ],
+  "cfdnakit": [],
   "cghMCR": [
     "CNTools"
   ],
@@ -3314,7 +3303,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "gep2pep": [],
   "gg4way": [
     "DESeq2"
   ],
@@ -4281,7 +4269,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "reconsi": [],
   "recount": [
     "derfinder",
     "GEOquery",

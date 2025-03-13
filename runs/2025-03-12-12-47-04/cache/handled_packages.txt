@@ -84,6 +84,7 @@ BufferedMatrixMethods
 BumpyMatrix
 CAEN
 CARNIVAL
+CBNplot
 CCPlotR
 CEMiTool
 CFAssay
@@ -121,6 +122,7 @@ ChemmineR
 Chicago
 Clomial
 ClustAll
+ClustIRR
 ClusterFoldSimilarity
 ClusterJudge
 ClusterSignificance
@@ -432,6 +434,7 @@ PoDCall
 PolySTest
 ProtGenerics
 ProteoMM
+QDNAseq
 QSutils
 QTLExperiment
 QUBIC
@@ -667,6 +670,7 @@ biomaRt
 biomformat
 biotmle
 bluster
+breakpointR
 brendaDb
 bugsigdbr
 cTRAP
@@ -829,6 +833,7 @@ genoCN
 genomeIntervals
 genomes
 genomicInstability
+gep2pep
 getDEE2
 geva
 ggkegg
@@ -1062,6 +1067,7 @@ rbsurv
 rcellminer
 rebook
 receptLoss
+reconsi
 regsplice
 retrofit
 rexposome

@@ -1189,3 +1189,9 @@ seq2pathway
 slalom
 RaggedExperiment
 ReactomePA
+breakpointR
+CBNplot
+ClustIRR
+gep2pep
+QDNAseq
+reconsi
