@@ -1445,6 +1445,7 @@ miRcomp
 miRspongeR
 miaSim
 microRNA
+microSTASIS
 microbiome
 microbiomeDASim
 microbiomeExplorer
@@ -1586,6 +1587,7 @@ preprocessCore
 proDA
 procoil
 profileScoreDist
+profileplyr
 progeny
 projectR
 protGear

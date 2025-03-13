@@ -761,7 +761,6 @@
     "scater"
   ],
   "microRNA": [],
-  "microSTASIS": [],
   "mimager": [
     "oligo",
     "affxparser"
@@ -859,7 +858,6 @@
   ],
   "proActiv": [],
   "proBAMr": [],
-  "profileplyr": [],
   "psichomics": [
     "recount"
   ],

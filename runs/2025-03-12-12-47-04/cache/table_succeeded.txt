@@ -1858,3 +1858,5 @@
 ['[nnSVG](https://bioconductor.org/packages/3.20/bioc/html/nnSVG.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/nnSVG/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/nnSVG)']
 ['[omicRexposome](https://bioconductor.org/packages/3.20/bioc/html/omicRexposome.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/omicRexposome/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/omicRexposome)']
 ['[svaNUMT](https://bioconductor.org/packages/3.20/bioc/html/svaNUMT.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/svaNUMT/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/svaNUMT)']
+['[microSTASIS](https://bioconductor.org/packages/3.20/bioc/html/microSTASIS.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/microSTASIS/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/microSTASIS)']
+['[profileplyr](https://bioconductor.org/packages/3.20/bioc/html/profileplyr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/profileplyr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/profileplyr)']

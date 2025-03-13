@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1860 packages built successfully
+- 1862 packages built successfully
 - 28 packages failed to build
-- 345 packages not yet processed
+- 343 packages not yet processed
 
 ## Failed Builds (28)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -40,7 +40,7 @@
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 
-## Successfully Built (1860)
+## Successfully Built (1862)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1903,8 +1903,10 @@
 | [nnSVG](https://bioconductor.org/packages/3.20/bioc/html/nnSVG.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/nnSVG/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/nnSVG)                       |
 | [omicRexposome](https://bioconductor.org/packages/3.20/bioc/html/omicRexposome.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/omicRexposome/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/omicRexposome)               |
 | [svaNUMT](https://bioconductor.org/packages/3.20/bioc/html/svaNUMT.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/svaNUMT/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/svaNUMT)                     |
+| [microSTASIS](https://bioconductor.org/packages/3.20/bioc/html/microSTASIS.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/microSTASIS/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/microSTASIS)                 |
+| [profileplyr](https://bioconductor.org/packages/3.20/bioc/html/profileplyr.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/profileplyr/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/profileplyr)                 |
 
-## Not Yet Processed (345)
+## Not Yet Processed (343)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2158,7 +2160,6 @@
 | [methylumi](https://bioconductor.org/packages/3.20/bioc/html/methylumi.html)                                   | Unprocessed |
 | [mia](https://bioconductor.org/packages/3.20/bioc/html/mia.html)                                               | Unprocessed |
 | [miaViz](https://bioconductor.org/packages/3.20/bioc/html/miaViz.html)                                         | Unprocessed |
-| [microSTASIS](https://bioconductor.org/packages/3.20/bioc/html/microSTASIS.html)                               | Unprocessed |
 | [mimager](https://bioconductor.org/packages/3.20/bioc/html/mimager.html)                                       | Unprocessed |
 | [minfi](https://bioconductor.org/packages/3.20/bioc/html/minfi.html)                                           | Unprocessed |
 | [missMethyl](https://bioconductor.org/packages/3.20/bioc/html/missMethyl.html)                                 | Unprocessed |
@@ -2194,7 +2195,6 @@
 | [primirTSS](https://bioconductor.org/packages/3.20/bioc/html/primirTSS.html)                                   | Unprocessed |
 | [proActiv](https://bioconductor.org/packages/3.20/bioc/html/proActiv.html)                                     | Unprocessed |
 | [proBAMr](https://bioconductor.org/packages/3.20/bioc/html/proBAMr.html)                                       | Unprocessed |
-| [profileplyr](https://bioconductor.org/packages/3.20/bioc/html/profileplyr.html)                               | Unprocessed |
 | [psichomics](https://bioconductor.org/packages/3.20/bioc/html/psichomics.html)                                 | Unprocessed |
 | [puma](https://bioconductor.org/packages/3.20/bioc/html/puma.html)                                             | Unprocessed |
 | [quantro](https://bioconductor.org/packages/3.20/bioc/html/quantro.html)                                       | Unprocessed |
