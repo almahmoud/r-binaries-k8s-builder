@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1969 packages built successfully
+- 1973 packages built successfully
 - 29 packages failed to build
-- 235 packages not yet processed
+- 231 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -41,7 +41,7 @@
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 
-## Successfully Built (1969)
+## Successfully Built (1973)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2013,8 +2013,12 @@
 | [recount](https://bioconductor.org/packages/3.20/bioc/html/recount.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/recount/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/recount)                     |
 | [gwascat](https://bioconductor.org/packages/3.20/bioc/html/gwascat.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/gwascat/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gwascat)                     |
 | [IntEREst](https://bioconductor.org/packages/3.20/bioc/html/IntEREst.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/IntEREst/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/IntEREst)                    |
+| [ENmix](https://bioconductor.org/packages/3.20/bioc/html/ENmix.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/ENmix/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ENmix)                       |
+| [GSReg](https://bioconductor.org/packages/3.20/bioc/html/GSReg.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/GSReg/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSReg)                       |
+| [MetaboAnnotation](https://bioconductor.org/packages/3.20/bioc/html/MetaboAnnotation.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/MetaboAnnotation/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MetaboAnnotation)            |
+| [RNAmodR.ML](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.ML.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/RNAmodR.ML/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RNAmodR.ML)                  |
 
-## Not Yet Processed (235)
+## Not Yet Processed (231)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2057,12 +2061,10 @@
 | [DegNorm](https://bioconductor.org/packages/3.20/bioc/html/DegNorm.html)                                       | Unprocessed |
 | [Dino](https://bioconductor.org/packages/3.20/bioc/html/Dino.html)                                             | Unprocessed |
 | [DrugVsDisease](https://bioconductor.org/packages/3.20/bioc/html/DrugVsDisease.html)                           | Unprocessed |
-| [ENmix](https://bioconductor.org/packages/3.20/bioc/html/ENmix.html)                                           | Unprocessed |
 | [EventPointer](https://bioconductor.org/packages/3.20/bioc/html/EventPointer.html)                             | Unprocessed |
 | [ExperimentHubData](https://bioconductor.org/packages/3.20/bioc/html/ExperimentHubData.html)                   | Unprocessed |
 | [FLAMES](https://bioconductor.org/packages/3.20/bioc/html/FLAMES.html)                                         | Unprocessed |
 | [FRASER](https://bioconductor.org/packages/3.20/bioc/html/FRASER.html)                                         | Unprocessed |
-| [GSReg](https://bioconductor.org/packages/3.20/bioc/html/GSReg.html)                                           | Unprocessed |
 | [GUIDEseq](https://bioconductor.org/packages/3.20/bioc/html/GUIDEseq.html)                                     | Unprocessed |
 | [GeDi](https://bioconductor.org/packages/3.20/bioc/html/GeDi.html)                                             | Unprocessed |
 | [GeneRegionScan](https://bioconductor.org/packages/3.20/bioc/html/GeneRegionScan.html)                         | Unprocessed |
@@ -2085,7 +2087,6 @@
 | [MPAC](https://bioconductor.org/packages/3.20/bioc/html/MPAC.html)                                             | Unprocessed |
 | [MSnID](https://bioconductor.org/packages/3.20/bioc/html/MSnID.html)                                           | Unprocessed |
 | [MatrixRider](https://bioconductor.org/packages/3.20/bioc/html/MatrixRider.html)                               | Unprocessed |
-| [MetaboAnnotation](https://bioconductor.org/packages/3.20/bioc/html/MetaboAnnotation.html)                     | Unprocessed |
 | [MetaboSignal](https://bioconductor.org/packages/3.20/bioc/html/MetaboSignal.html)                             | Unprocessed |
 | [MethReg](https://bioconductor.org/packages/3.20/bioc/html/MethReg.html)                                       | Unprocessed |
 | [MethylAid](https://bioconductor.org/packages/3.20/bioc/html/MethylAid.html)                                   | Unprocessed |
@@ -2097,7 +2098,6 @@
 | [REDseq](https://bioconductor.org/packages/3.20/bioc/html/REDseq.html)                                         | Unprocessed |
 | [REMP](https://bioconductor.org/packages/3.20/bioc/html/REMP.html)                                             | Unprocessed |
 | [RNAAgeCalc](https://bioconductor.org/packages/3.20/bioc/html/RNAAgeCalc.html)                                 | Unprocessed |
-| [RNAmodR.ML](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.ML.html)                                 | Unprocessed |
 | [RNAmodR.RiboMethSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.RiboMethSeq.html)               | Unprocessed |
 | [RegionalST](https://bioconductor.org/packages/3.20/bioc/html/RegionalST.html)                                 | Unprocessed |
 | [ReportingTools](https://bioconductor.org/packages/3.20/bioc/html/ReportingTools.html)                         | Unprocessed |

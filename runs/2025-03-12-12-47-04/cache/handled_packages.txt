@@ -284,6 +284,7 @@ EGAD
 EGSEA
 ELMER
 EMDomics
+ENmix
 ERSSA
 EWCE
 EasyCellType
@@ -357,6 +358,7 @@ GSEABenchmarkeR
 GSEAlm
 GSEAmining
 GSRI
+GSReg
 GSVA
 GSgalgoR
 GWAS.BAYES
@@ -561,6 +563,7 @@ MetNet
 MetaCyto
 MetaNeighbor
 MetaPhOR
+MetaboAnnotation
 MetaboCoreUtils
 MethPed
 MethTargetedNGS
@@ -732,6 +735,7 @@ RNASeqPower
 RNAdecay
 RNAmodR
 RNAmodR.AlkAnilineSeq
+RNAmodR.ML
 RNAsense
 RNAseqCovarImpute
 ROC

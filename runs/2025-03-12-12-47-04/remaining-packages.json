@@ -110,7 +110,6 @@
     "affxparser"
   ],
   "EBSeq": [],
-  "ENmix": [],
   "EpiCompare": [],
   "EventPointer": [
     "affxparser"
@@ -122,7 +121,6 @@
   ],
   "FRASER": [],
   "GLAD": [],
-  "GSReg": [],
   "GUIDEseq": [],
   "GeDi": [
     "GeneTonic",
@@ -192,7 +190,6 @@
   "MPAC": [],
   "MSnID": [],
   "MatrixRider": [],
-  "MetaboAnnotation": [],
   "MetaboSignal": [],
   "MethReg": [],
   "MethylAid": [],
@@ -215,7 +212,6 @@
   "REDseq": [],
   "REMP": [],
   "RNAAgeCalc": [],
-  "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
   "RegionalST": [
     "scater",
