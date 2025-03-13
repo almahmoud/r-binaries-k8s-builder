@@ -80,7 +80,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "BEAT": [],
   "BOBaFIT": [
     "ggbio",
     "plyranges",
@@ -242,7 +241,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "CexoR": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -261,7 +259,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ChIPComp": [],
   "ChIPQC": [
     "DiffBind",
     "GenomicFeatures"
@@ -286,7 +283,6 @@
   "ChIPseeker": [
     "GenomicFeatures"
   ],
-  "ChIPseqR": [],
   "ChIPsim": [],
   "ChromHeatMap": [],
   "ChromSCape": [
@@ -868,7 +864,6 @@
     "bumphunter",
     "GEOquery"
   ],
-  "MinimumDistance": [],
   "MoleculeExperiment": [
     "SpatialExperiment"
   ],
@@ -880,7 +875,6 @@
   "MoonlightR": [
     "GEOquery"
   ],
-  "MotifDb": [],
   "MsExperiment": [
     "QFeatures"
   ],
@@ -913,7 +907,6 @@
     "VariantAnnotation",
     "CNEr"
   ],
-  "NBAMSeq": [],
   "NanoMethViz": [
     "BiocSingular",
     "bsseq"
@@ -1507,7 +1500,6 @@
     "BiocSingular",
     "scuttle"
   ],
-  "beachmat.hdf5": [],
   "benchdamic": [
     "microbiome"
   ],
@@ -2016,7 +2008,6 @@
   "gINTomics": [
     "GenomicFeatures"
   ],
-  "gcapc": [],
   "geneAttribution": [
     "GenomicFeatures"
   ],
@@ -2218,7 +2209,6 @@
     "QFeatures",
     "PSMatch"
   ],
-  "metagene2": [],
   "metaseqR2": [
     "DSS",
     "EDASeq",
@@ -2290,7 +2280,6 @@
     "bumphunter",
     "GEOquery"
   ],
-  "miQC": [],
   "miRLAB": [
     "Category",
     "GOstats"
@@ -2336,7 +2325,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "moanin": [],
   "monaLisa": [
     "TFBSTools",
     "CNEr"
@@ -2351,7 +2339,6 @@
     "CNEr"
   ],
   "motifbreakR": [
-    "MotifDb",
     "VariantAnnotation",
     "motifStack",
     "Gviz",
@@ -2557,7 +2544,6 @@
   ],
   "plyranges": [],
   "plyxp": [],
-  "podkat": [],
   "pram": [],
   "prebs": [],
   "preciseTAD": [
@@ -2618,16 +2604,13 @@
     "GEOquery",
     "GenomicFeatures"
   ],
-  "r3Cseq": [],
   "rCGH": [
     "GenomicFeatures"
   ],
   "rGREAT": [
     "GenomicFeatures"
   ],
-  "rTRMui": [
-    "MotifDb"
-  ],
+  "rTRMui": [],
   "raer": [
     "GenomicFeatures"
   ],
@@ -2686,14 +2669,11 @@
     "TFBSTools",
     "CNEr"
   ],
-  "rifi": [],
   "rifiComparative": [],
-  "rmspc": [],
   "rnaEditr": [
     "bumphunter",
     "GenomicFeatures"
   ],
-  "roar": [],
   "rqt": [],
   "saseR": [
     "ASpli",
@@ -2747,7 +2727,6 @@
     "scran",
     "scuttle"
   ],
-  "scPCA": [],
   "scPipe": [
     "DropletUtils",
     "scuttle"
@@ -2825,7 +2804,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "segmentSeq": [],
   "segmenter": [
     "ChIPseeker",
     "GenomicFeatures"
@@ -2974,7 +2952,6 @@
     "QFeatures"
   ],
   "syntenet": [],
-  "systemPipeTools": [],
   "tLOH": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -2987,7 +2964,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "tenXplore": [],
   "ternarynet": [],
   "terraTCGAdata": [
     "TCGAutils",

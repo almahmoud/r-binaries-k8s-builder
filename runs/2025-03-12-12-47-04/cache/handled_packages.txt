@@ -46,6 +46,7 @@ BADER
 BAGS
 BANDITS
 BCRANK
+BEAT
 BERT
 BEclear
 BG2
@@ -148,7 +149,10 @@ CellNOptR
 CellScore
 CellTrails
 Cepo
+CexoR
+ChIPComp
 ChIPanalyser
+ChIPseqR
 ChemmineOB
 ChemmineR
 Chicago
@@ -451,9 +455,11 @@ MiPP
 MiRaGE
 MicrobiomeProfiler
 MicrobiotaProcess
+MinimumDistance
 ModCon
 Modstrings
 Motif2Site
+MotifDb
 MouseFM
 MsBackendMassbank
 MsBackendMetaboLights
@@ -471,6 +477,7 @@ MultiDataSet
 MultiMed
 MultiRNAflow
 MultimodalExperiment
+NBAMSeq
 NCIgraph
 NOISeq
 NPARC
@@ -807,6 +814,7 @@ bayNorm
 baySeq
 bcSeq
 beachmat
+beachmat.hdf5
 beadarray
 beer
 betaHMM
@@ -1022,6 +1030,7 @@ gaga
 gage
 garfield
 gatom
+gcapc
 gcatest
 gcrma
 gdsfmt
@@ -1174,6 +1183,7 @@ metabCombiner
 metabinR
 metabolomicsWorkbenchR
 metabomxtr
+metagene2
 metagenomeSeq
 metahdep
 metapod
@@ -1185,6 +1195,7 @@ methylMnM
 methylscaper
 mfa
 mgsa
+miQC
 miRBaseConverter
 miRNAmeConverter
 miRNApath
@@ -1204,6 +1215,7 @@ mistyR
 mitch
 mixOmics
 mnem
+moanin
 mobileRNA
 mogsa
 monocle
@@ -1294,6 +1306,7 @@ plier
 plotGrouper
 pmm
 pmp
+podkat
 pogos
 powerTCR
 ppcseq
@@ -1320,6 +1333,7 @@ quantiseqr
 quantsmooth
 qusage
 qvalue
+r3Cseq
 rBLAST
 rBiopaxParser
 rGADEM
@@ -1353,8 +1367,11 @@ rhdf5filters
 rhinotypeR
 riboSeqR
 ribor
+rifi
 rmelting
+rmspc
 rnaseqcomp
+roar
 roastgsa
 rols
 ropls
@@ -1389,6 +1406,7 @@ scHOT
 scMET
 scMitoMut
 scMultiSim
+scPCA
 scReClassify
 scRecover
 scRepertoire
@@ -1408,6 +1426,7 @@ scrapper
 screenCounter
 seahtrue
 sechm
+segmentSeq
 semisup
 seq.hotSPOT
 seq2pathway
@@ -1475,11 +1494,13 @@ synergyfinder
 synlet
 systemPipeR
 systemPipeShiny
+systemPipeTools
 tRNA
 tRNAdbImport
 tRanslatome
 tanggle
 target
+tenXplore
 ternarynet
 tidyFlowCore
 tidySingleCellExperiment
