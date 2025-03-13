@@ -794,6 +794,7 @@ UNDO
 UniProt.ws
 VDJdive
 VERSO
+VaSP
 VanillaICE
 VarCon
 VariantExperiment
@@ -1169,6 +1170,7 @@ iASeq
 iBBiG
 iBMQ
 iCARE
+iCNV
 iCOBRA
 iChip
 iClusterPlus

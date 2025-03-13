@@ -987,7 +987,6 @@
     "VariantAnnotation",
     "GenomicFiles"
   ],
-  "VaSP": [],
   "VariantAnnotation": [],
   "VariantFiltering": [
     "VariantAnnotation",
@@ -1504,7 +1503,6 @@
   ],
   "hoodscanR": [],
   "hummingbird": [],
-  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi",

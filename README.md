@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1644 packages built successfully
+- 1646 packages built successfully
 - 24 packages failed to build
-- 565 packages not yet processed
+- 563 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1644)
+## Successfully Built (1646)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1683,8 +1683,10 @@
 | [microbiomeMarker](https://bioconductor.org/packages/3.20/bioc/html/microbiomeMarker.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/microbiomeMarker/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/microbiomeMarker)           |
 | [GSRI](https://bioconductor.org/packages/3.20/bioc/html/GSRI.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/GSRI/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSRI)                       |
 | [transcriptogramer](https://bioconductor.org/packages/3.20/bioc/html/transcriptogramer.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/transcriptogramer/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/transcriptogramer)          |
+| [VaSP](https://bioconductor.org/packages/3.20/bioc/html/VaSP.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/VaSP/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VaSP)                       |
+| [iCNV](https://bioconductor.org/packages/3.20/bioc/html/iCNV.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/iCNV/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iCNV)                       |
 
-## Not Yet Processed (565)
+## Not Yet Processed (563)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1940,7 +1942,6 @@
 | [Uniquorn](https://bioconductor.org/packages/3.20/bioc/html/Uniquorn.html)                                       | Unprocessed |
 | [VAExprs](https://bioconductor.org/packages/3.20/bioc/html/VAExprs.html)                                         | Unprocessed |
 | [VCFArray](https://bioconductor.org/packages/3.20/bioc/html/VCFArray.html)                                       | Unprocessed |
-| [VaSP](https://bioconductor.org/packages/3.20/bioc/html/VaSP.html)                                               | Unprocessed |
 | [VariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/VariantAnnotation.html)                     | Unprocessed |
 | [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)                       | Unprocessed |
 | [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                               | Unprocessed |
@@ -2065,7 +2066,6 @@
 | [gwascat](https://bioconductor.org/packages/3.20/bioc/html/gwascat.html)                                         | Unprocessed |
 | [gwasurvivr](https://bioconductor.org/packages/3.20/bioc/html/gwasurvivr.html)                                   | Unprocessed |
 | [hoodscanR](https://bioconductor.org/packages/3.20/bioc/html/hoodscanR.html)                                     | Unprocessed |
-| [iCNV](https://bioconductor.org/packages/3.20/bioc/html/iCNV.html)                                               | Unprocessed |
 | [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                                           | Unprocessed |
 | [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                                     | Unprocessed |
 | [iSEEtree](https://bioconductor.org/packages/3.20/bioc/html/iSEEtree.html)                                       | Unprocessed |
