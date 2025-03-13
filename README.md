@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1744 packages built successfully
+- 1745 packages built successfully
 - 27 packages failed to build
-- 462 packages not yet processed
+- 461 packages not yet processed
 
 ## Failed Builds (27)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -39,7 +39,7 @@
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 
-## Successfully Built (1744)
+## Successfully Built (1745)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1786,8 +1786,9 @@
 | [deepSNV](https://bioconductor.org/packages/3.20/bioc/html/deepSNV.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/deepSNV/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/deepSNV)                     |
 | [decompTumor2Sig](https://bioconductor.org/packages/3.20/bioc/html/decompTumor2Sig.html)                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/decompTumor2Sig/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/decompTumor2Sig)             |
 | [multiMiR](https://bioconductor.org/packages/3.20/bioc/html/multiMiR.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/multiMiR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multiMiR)                    |
+| [pipeFrame](https://bioconductor.org/packages/3.20/bioc/html/pipeFrame.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/pipeFrame/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pipeFrame)                   |
 
-## Not Yet Processed (462)
+## Not Yet Processed (461)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2164,7 +2165,6 @@
 | [phantasus](https://bioconductor.org/packages/3.20/bioc/html/phantasus.html)                                   | Unprocessed |
 | [phenoTest](https://bioconductor.org/packages/3.20/bioc/html/phenoTest.html)                                   | Unprocessed |
 | [pipeComp](https://bioconductor.org/packages/3.20/bioc/html/pipeComp.html)                                     | Unprocessed |
-| [pipeFrame](https://bioconductor.org/packages/3.20/bioc/html/pipeFrame.html)                                   | Unprocessed |
 | [preciseTAD](https://bioconductor.org/packages/3.20/bioc/html/preciseTAD.html)                                 | Unprocessed |
 | [primirTSS](https://bioconductor.org/packages/3.20/bioc/html/primirTSS.html)                                   | Unprocessed |
 | [proActiv](https://bioconductor.org/packages/3.20/bioc/html/proActiv.html)                                     | Unprocessed |

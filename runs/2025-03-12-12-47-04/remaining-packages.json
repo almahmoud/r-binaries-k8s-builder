@@ -975,7 +975,6 @@
     "txdbmaker"
   ],
   "esATAC": [
-    "pipeFrame",
     "TFBSTools",
     "motifmatchr"
   ],
@@ -1306,7 +1305,6 @@
     "scater",
     "scuttle"
   ],
-  "pipeFrame": [],
   "preciseTAD": [
     "rCGH"
   ],

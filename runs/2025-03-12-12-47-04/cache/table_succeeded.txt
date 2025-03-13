@@ -1742,3 +1742,4 @@
 ['[deepSNV](https://bioconductor.org/packages/3.20/bioc/html/deepSNV.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/deepSNV/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/deepSNV)']
 ['[decompTumor2Sig](https://bioconductor.org/packages/3.20/bioc/html/decompTumor2Sig.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/decompTumor2Sig/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/decompTumor2Sig)']
 ['[multiMiR](https://bioconductor.org/packages/3.20/bioc/html/multiMiR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/multiMiR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multiMiR)']
+['[pipeFrame](https://bioconductor.org/packages/3.20/bioc/html/pipeFrame.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/pipeFrame/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pipeFrame)']

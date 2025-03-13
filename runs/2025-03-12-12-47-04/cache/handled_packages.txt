@@ -1471,6 +1471,7 @@ phosphonormalizer
 phyloseq
 piano
 pickgene
+pipeFrame
 planet
 planttfhunter
 plasmut
