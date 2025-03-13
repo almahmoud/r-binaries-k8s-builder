@@ -2097,7 +2097,6 @@
     "MSnbase",
     "msmsEDA"
   ],
-  "msqrob2": [],
   "multiMiR": [],
   "multicrispr": [
     "GenomicFeatures",
@@ -2168,7 +2167,6 @@
     "MSnbase"
   ],
   "omicRexposome": [],
-  "omicsPrint": [],
   "openCyto": [],
   "oppar": [
     "GSVA",

@@ -1280,6 +1280,7 @@ mpra
 msPurity
 msa
 mslp
+msqrob2
 multiClust
 multiGSEA
 multiHiCcompare
@@ -1314,6 +1315,7 @@ oligoClasses
 omada
 omicade4
 omicplotR
+omicsPrint
 omicsViewer
 ompBAM
 oncomix
