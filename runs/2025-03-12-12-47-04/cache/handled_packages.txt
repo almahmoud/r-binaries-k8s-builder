@@ -820,6 +820,7 @@ RegEnrich
 RegionalST
 RepViz
 Repitools
+ReportingTools
 ResidualMatrix
 Rfastp
 RgnTX
@@ -911,6 +912,7 @@ SingleR
 SomaticSignatures
 SpaNorm
 SpaceMarkers
+Spaniel
 SparseArray
 SparseSignatures
 SpatialCPie

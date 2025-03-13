@@ -2158,3 +2158,4 @@ YAPSA
 biscuiteer
 cytofQC
 spillR
+affycoretools

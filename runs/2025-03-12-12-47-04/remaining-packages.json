@@ -6,8 +6,7 @@
   "ATACseqQC": [],
   "ATACseqTFEA": [],
   "AgiMicroRna": [
-    "affycoretools",
-    "ReportingTools"
+    "affycoretools"
   ],
   "ArrayExpress": [
     "oligo",
@@ -128,7 +127,6 @@
   "R3CPET": [],
   "RNAAgeCalc": [],
   "Repitools": [],
-  "ReportingTools": [],
   "RiboCrypt": [],
   "RnBeads": [],
   "RnaSeqSampleSize": [],
@@ -144,16 +142,13 @@
   ],
   "SPIAT": [],
   "SingleMoleculeFootprinting": [],
-  "Spaniel": [],
   "TFHAZ": [],
   "YAPSA": [],
   "affxparser": [],
   "affyILM": [
     "affxparser"
   ],
-  "affycoretools": [
-    "ReportingTools"
-  ],
+  "affycoretools": [],
   "arrayMvout": [
     "lumi"
   ],
