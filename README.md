@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1617 packages built successfully
+- 1618 packages built successfully
 - 24 packages failed to build
-- 592 packages not yet processed
+- 591 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1617)
+## Successfully Built (1618)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1656,8 +1656,9 @@
 | [SingleR](https://bioconductor.org/packages/3.20/bioc/html/SingleR.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/SingleR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SingleR)                    |
 | [IdeoViz](https://bioconductor.org/packages/3.20/bioc/html/IdeoViz.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/IdeoViz/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/IdeoViz)                    |
 | [clusterExperiment](https://bioconductor.org/packages/3.20/bioc/html/clusterExperiment.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/clusterExperiment/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/clusterExperiment)          |
+| [OTUbase](https://bioconductor.org/packages/3.20/bioc/html/OTUbase.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/OTUbase/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OTUbase)                    |
 
-## Not Yet Processed (592)
+## Not Yet Processed (591)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1842,7 +1843,6 @@
 | [OGRE](https://bioconductor.org/packages/3.20/bioc/html/OGRE.html)                                               | Unprocessed |
 | [OMICsPCA](https://bioconductor.org/packages/3.20/bioc/html/OMICsPCA.html)                                       | Unprocessed |
 | [ORFik](https://bioconductor.org/packages/3.20/bioc/html/ORFik.html)                                             | Unprocessed |
-| [OTUbase](https://bioconductor.org/packages/3.20/bioc/html/OTUbase.html)                                         | Unprocessed |
 | [OUTRIDER](https://bioconductor.org/packages/3.20/bioc/html/OUTRIDER.html)                                       | Unprocessed |
 | [Organism.dplyr](https://bioconductor.org/packages/3.20/bioc/html/Organism.dplyr.html)                           | Unprocessed |
 | [OrganismDbi](https://bioconductor.org/packages/3.20/bioc/html/OrganismDbi.html)                                 | Unprocessed |

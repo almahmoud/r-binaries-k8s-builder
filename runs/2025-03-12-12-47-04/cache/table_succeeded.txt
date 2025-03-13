@@ -1615,3 +1615,4 @@
 ['[SingleR](https://bioconductor.org/packages/3.20/bioc/html/SingleR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SingleR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SingleR)']
 ['[IdeoViz](https://bioconductor.org/packages/3.20/bioc/html/IdeoViz.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/IdeoViz/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/IdeoViz)']
 ['[clusterExperiment](https://bioconductor.org/packages/3.20/bioc/html/clusterExperiment.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/clusterExperiment/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/clusterExperiment)']
+['[OTUbase](https://bioconductor.org/packages/3.20/bioc/html/OTUbase.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/OTUbase/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OTUbase)']
