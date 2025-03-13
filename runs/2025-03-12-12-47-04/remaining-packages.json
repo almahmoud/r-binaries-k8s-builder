@@ -3893,7 +3893,6 @@
     "QFeatures",
     "AnnotationFilter"
   ],
-  "multiGSEA": [],
   "multiHiCcompare": [
     "HiCcompare"
   ],

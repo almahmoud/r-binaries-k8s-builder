@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1197 packages built successfully
+- 1198 packages built successfully
 - 20 packages failed to build
-- 1016 packages not yet processed
+- 1015 packages not yet processed
 
 ## Failed Builds (20)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -32,7 +32,7 @@
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/cn.mops/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cn.mops)       | Build failed with unknown error     |
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 
-## Successfully Built (1197)
+## Successfully Built (1198)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1232,8 +1232,9 @@
 | [breakpointR](https://bioconductor.org/packages/3.20/bioc/html/breakpointR.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/breakpointR/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/breakpointR)               |
 | [gep2pep](https://bioconductor.org/packages/3.20/bioc/html/gep2pep.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/gep2pep/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gep2pep)                   |
 | [reconsi](https://bioconductor.org/packages/3.20/bioc/html/reconsi.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/reconsi/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/reconsi)                   |
+| [multiGSEA](https://bioconductor.org/packages/3.20/bioc/html/multiGSEA.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/multiGSEA/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multiGSEA)                 |
 
-## Not Yet Processed (1016)
+## Not Yet Processed (1015)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -2007,7 +2008,6 @@
 | [msmsEDA](https://bioconductor.org/packages/3.20/bioc/html/msmsEDA.html)                                         | Unprocessed |
 | [msmsTests](https://bioconductor.org/packages/3.20/bioc/html/msmsTests.html)                                     | Unprocessed |
 | [msqrob2](https://bioconductor.org/packages/3.20/bioc/html/msqrob2.html)                                         | Unprocessed |
-| [multiGSEA](https://bioconductor.org/packages/3.20/bioc/html/multiGSEA.html)                                     | Unprocessed |
 | [multiHiCcompare](https://bioconductor.org/packages/3.20/bioc/html/multiHiCcompare.html)                         | Unprocessed |
 | [multiMiR](https://bioconductor.org/packages/3.20/bioc/html/multiMiR.html)                                       | Unprocessed |
 | [multicrispr](https://bioconductor.org/packages/3.20/bioc/html/multicrispr.html)                                 | Unprocessed |

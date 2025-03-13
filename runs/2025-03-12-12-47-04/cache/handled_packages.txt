@@ -968,6 +968,7 @@ motifcounter
 msPurity
 mslp
 multiClust
+multiGSEA
 multiWGCNA
 multiscan
 multistateQTL

@@ -1195,3 +1195,4 @@
 ['[breakpointR](https://bioconductor.org/packages/3.20/bioc/html/breakpointR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/breakpointR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/breakpointR)']
 ['[gep2pep](https://bioconductor.org/packages/3.20/bioc/html/gep2pep.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/gep2pep/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gep2pep)']
 ['[reconsi](https://bioconductor.org/packages/3.20/bioc/html/reconsi.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/reconsi/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/reconsi)']
+['[multiGSEA](https://bioconductor.org/packages/3.20/bioc/html/multiGSEA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/multiGSEA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multiGSEA)']
