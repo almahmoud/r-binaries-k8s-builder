@@ -573,6 +573,7 @@ RaggedExperiment
 RankProd
 Rarr
 RbcBook1
+Rbec
 Rbowtie
 Rbowtie2
 Rbwa

@@ -1440,3 +1440,4 @@
 ['[GDCRNATools](https://bioconductor.org/packages/3.20/bioc/html/GDCRNATools.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GDCRNATools/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GDCRNATools)']
 ['[PathoStat](https://bioconductor.org/packages/3.20/bioc/html/PathoStat.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/PathoStat/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PathoStat)']
 ['[periodicDNA](https://bioconductor.org/packages/3.20/bioc/html/periodicDNA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/periodicDNA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/periodicDNA)']
+['[Rbec](https://bioconductor.org/packages/3.20/bioc/html/Rbec.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Rbec/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rbec)']
