@@ -536,6 +536,7 @@ MultiDataSet
 MultiMed
 MultiRNAflow
 MultimodalExperiment
+MungeSumstats
 MutationalPatterns
 NBAMSeq
 NCIgraph

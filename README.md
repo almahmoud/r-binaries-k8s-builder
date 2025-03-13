@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1755 packages built successfully
+- 1756 packages built successfully
 - 27 packages failed to build
-- 451 packages not yet processed
+- 450 packages not yet processed
 
 ## Failed Builds (27)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -39,7 +39,7 @@
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 
-## Successfully Built (1755)
+## Successfully Built (1756)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1797,8 +1797,9 @@
 | [VCFArray](https://bioconductor.org/packages/3.20/bioc/html/VCFArray.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/VCFArray/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VCFArray)                    |
 | [gDNAx](https://bioconductor.org/packages/3.20/bioc/html/gDNAx.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/gDNAx/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gDNAx)                       |
 | [ggsc](https://bioconductor.org/packages/3.20/bioc/html/ggsc.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/ggsc/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ggsc)                        |
+| [MungeSumstats](https://bioconductor.org/packages/3.20/bioc/html/MungeSumstats.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/MungeSumstats/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MungeSumstats)               |
 
-## Not Yet Processed (451)
+## Not Yet Processed (450)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -1938,7 +1939,6 @@
 | [Moonlight2R](https://bioconductor.org/packages/3.20/bioc/html/Moonlight2R.html)                               | Unprocessed |
 | [MoonlightR](https://bioconductor.org/packages/3.20/bioc/html/MoonlightR.html)                                 | Unprocessed |
 | [MsQuality](https://bioconductor.org/packages/3.20/bioc/html/MsQuality.html)                                   | Unprocessed |
-| [MungeSumstats](https://bioconductor.org/packages/3.20/bioc/html/MungeSumstats.html)                           | Unprocessed |
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                   | Unprocessed |
 | [OGRE](https://bioconductor.org/packages/3.20/bioc/html/OGRE.html)                                             | Unprocessed |
 | [OMICsPCA](https://bioconductor.org/packages/3.20/bioc/html/OMICsPCA.html)                                     | Unprocessed |
