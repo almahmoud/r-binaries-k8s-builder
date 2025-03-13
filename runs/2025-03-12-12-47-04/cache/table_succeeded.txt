@@ -2139,3 +2139,7 @@
 ['[MAGAR](https://bioconductor.org/packages/3.20/bioc/html/MAGAR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MAGAR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MAGAR)']
 ['[methodical](https://bioconductor.org/packages/3.20/bioc/html/methodical.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/methodical/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methodical)']
 ['[netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/netZooR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/netZooR)']
+['[MGnifyR](https://bioconductor.org/packages/3.20/bioc/html/MGnifyR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MGnifyR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MGnifyR)']
+['[ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ffpe/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ffpe)']
+['[iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/iCheck/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iCheck)']
+['[miaViz](https://bioconductor.org/packages/3.20/bioc/html/miaViz.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/miaViz/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miaViz)']

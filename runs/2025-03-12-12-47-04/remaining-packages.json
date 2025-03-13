@@ -86,7 +86,6 @@
   "MEAT": [
     "wateRmelon"
   ],
-  "MGnifyR": [],
   "MineICA": [],
   "NetPathMiner": [],
   "Oscope": [
@@ -137,7 +136,6 @@
   ],
   "eiR": [],
   "fastseg": [],
-  "ffpe": [],
   "flagme": [
     "xcms",
     "CAMERA"
@@ -151,10 +149,7 @@
   "gpuMagic": [],
   "graper": [],
   "hummingbird": [],
-  "iCheck": [],
-  "iSEEtree": [
-    "miaViz"
-  ],
+  "iSEEtree": [],
   "immunoClust": [],
   "metaMS": [
     "CAMERA",
@@ -172,7 +167,6 @@
   "methylKit": [
     "fastseg"
   ],
-  "miaViz": [],
   "microRNA": [],
   "mimager": [
     "oligo",

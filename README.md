@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2141 packages built successfully
+- 2145 packages built successfully
 - 30 packages failed to build
-- 62 packages not yet processed
+- 58 packages not yet processed
 
 ## Failed Builds (30)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -42,7 +42,7 @@
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/bandle/build-fail.log)        | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bandle)     | Build failed with unknown error     |
 
-## Successfully Built (2141)
+## Successfully Built (2145)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2186,8 +2186,12 @@
 | [MAGAR](https://bioconductor.org/packages/3.20/bioc/html/MAGAR.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/MAGAR/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MAGAR)                       |
 | [methodical](https://bioconductor.org/packages/3.20/bioc/html/methodical.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/methodical/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methodical)                  |
 | [netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/netZooR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/netZooR)                     |
+| [MGnifyR](https://bioconductor.org/packages/3.20/bioc/html/MGnifyR.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/MGnifyR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MGnifyR)                     |
+| [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/ffpe/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ffpe)                        |
+| [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/iCheck/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iCheck)                      |
+| [miaViz](https://bioconductor.org/packages/3.20/bioc/html/miaViz.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/miaViz/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miaViz)                      |
 
-## Not Yet Processed (62)
+## Not Yet Processed (58)
 | Package                                                                                      | Status      |
 |----------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                     | Unprocessed |
@@ -2213,7 +2217,6 @@
 | [MANOR](https://bioconductor.org/packages/3.20/bioc/html/MANOR.html)                         | Unprocessed |
 | [MEAL](https://bioconductor.org/packages/3.20/bioc/html/MEAL.html)                           | Unprocessed |
 | [MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)                           | Unprocessed |
-| [MGnifyR](https://bioconductor.org/packages/3.20/bioc/html/MGnifyR.html)                     | Unprocessed |
 | [MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)                     | Unprocessed |
 | [Oscope](https://bioconductor.org/packages/3.20/bioc/html/Oscope.html)                       | Unprocessed |
 | [SCAN.UPC](https://bioconductor.org/packages/3.20/bioc/html/SCAN.UPC.html)                   | Unprocessed |
@@ -2228,17 +2231,14 @@
 | [dar](https://bioconductor.org/packages/3.20/bioc/html/dar.html)                             | Unprocessed |
 | [ddPCRclust](https://bioconductor.org/packages/3.20/bioc/html/ddPCRclust.html)               | Unprocessed |
 | [deconvR](https://bioconductor.org/packages/3.20/bioc/html/deconvR.html)                     | Unprocessed |
-| [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                           | Unprocessed |
 | [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                       | Unprocessed |
 | [frma](https://bioconductor.org/packages/3.20/bioc/html/frma.html)                           | Unprocessed |
-| [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                       | Unprocessed |
 | [iSEEtree](https://bioconductor.org/packages/3.20/bioc/html/iSEEtree.html)                   | Unprocessed |
 | [metaMS](https://bioconductor.org/packages/3.20/bioc/html/metaMS.html)                       | Unprocessed |
 | [methInheritSim](https://bioconductor.org/packages/3.20/bioc/html/methInheritSim.html)       | Unprocessed |
 | [methylGSA](https://bioconductor.org/packages/3.20/bioc/html/methylGSA.html)                 | Unprocessed |
 | [methylInheritance](https://bioconductor.org/packages/3.20/bioc/html/methylInheritance.html) | Unprocessed |
 | [methylKit](https://bioconductor.org/packages/3.20/bioc/html/methylKit.html)                 | Unprocessed |
-| [miaViz](https://bioconductor.org/packages/3.20/bioc/html/miaViz.html)                       | Unprocessed |
 | [mimager](https://bioconductor.org/packages/3.20/bioc/html/mimager.html)                     | Unprocessed |
 | [ncGTW](https://bioconductor.org/packages/3.20/bioc/html/ncGTW.html)                         | Unprocessed |
 | [oligo](https://bioconductor.org/packages/3.20/bioc/html/oligo.html)                         | Unprocessed |

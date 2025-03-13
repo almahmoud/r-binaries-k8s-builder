@@ -2139,3 +2139,7 @@ methylclock
 MAGAR
 methodical
 netZooR
+ffpe
+iCheck
+MGnifyR
+miaViz
