@@ -49,6 +49,7 @@ AssessORF
 BADER
 BAGS
 BANDITS
+BBCAnalyzer
 BCRANK
 BEAT
 BERT
@@ -176,6 +177,7 @@ Cepo
 CexoR
 ChIPComp
 ChIPanalyser
+ChIPpeakAnno
 ChIPseeker
 ChIPseqR
 ChIPsim
@@ -316,6 +318,7 @@ GDSArray
 GEM
 GENESIS
 GENIE3
+GEOexplorer
 GEOfastq
 GEOmetadb
 GEOquery
@@ -729,6 +732,7 @@ RTN
 RTNduals
 RTNsurvival
 RTopper
+RUVSeq
 RUVcorr
 RUVnormalize
 RVS
@@ -840,8 +844,10 @@ SingleR
 SpaceMarkers
 SparseArray
 SparseSignatures
+SpatialCPie
 SpatialDecon
 SpatialExperiment
+SpatialFeatureExperiment
 SpatialOmicsOverlay
 SpeCond
 Spectra
@@ -876,6 +882,7 @@ TEKRABber
 TENxIO
 TEQC
 TFARM
+TFBSTools
 TFEA.ChIP
 TFutils
 TIN
@@ -921,6 +928,7 @@ VanillaICE
 VarCon
 VariantAnnotation
 VariantExperiment
+VariantFiltering
 VariantTools
 VegaMC
 VennDetail
@@ -996,6 +1004,7 @@ barcodetrackR
 basecallQC
 basilisk
 basilisk.utils
+batchelor
 bayNorm
 baySeq
 bcSeq
@@ -1006,6 +1015,7 @@ beer
 benchdamic
 betaHMM
 bettr
+bioCancer
 bioDist
 bioassayR
 biobroom
@@ -1065,6 +1075,7 @@ cfTools
 cfdnakit
 cghMCR
 chihaya
+chimeraviz
 chipenrich
 chipseq
 chopsticks
@@ -1372,6 +1383,7 @@ idr2d
 igvR
 igvShiny
 illuminaio
+imcRtools
 immApex
 immunoClust
 immunogenViewer
@@ -1457,6 +1469,7 @@ methimpute
 methrix
 methyLImp2
 methylMnM
+methylPipe
 methylSig
 methylscaper
 mfa
@@ -1667,6 +1680,7 @@ regionReport
 regionalpcs
 regioneR
 regsplice
+regutools
 retrofit
 rexposome
 rfPred
@@ -1722,6 +1736,7 @@ scMET
 scMitoMut
 scMultiSim
 scPCA
+scPipe
 scRNAseqApp
 scReClassify
 scRecover
@@ -1771,6 +1786,7 @@ sights
 signatureSearch
 signeR
 sigsquared
+simPIC
 similaRpeak
 simona
 simpleSeg
@@ -1789,6 +1805,7 @@ snifter
 snm
 snpStats
 soGGi
+spaSim
 sparrow
 sparseMatrixStats
 sparsenetgls
@@ -1910,6 +1927,7 @@ widgetTools
 wiggleplotr
 wpm
 wppi
+xcms
 xcore
 xenLite
 xmapbridge

@@ -13,3 +13,4 @@ SCArray
 DiffBind
 casper
 EpiCompare
+xcms

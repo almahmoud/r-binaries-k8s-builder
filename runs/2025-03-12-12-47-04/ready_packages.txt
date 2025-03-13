@@ -1,0 +1,16 @@
+DEScan2
+GUIDEseq
+MatrixRider
+MethReg
+REDseq
+Voyager
+chromVAR
+compEpiTools
+consensusDE
+monaLisa
+motifStack
+motifmatchr
+octad
+primirTSS
+scone
+standR
