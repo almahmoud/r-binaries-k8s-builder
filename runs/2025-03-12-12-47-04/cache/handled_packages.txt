@@ -1239,6 +1239,7 @@ nucleoSim
 occugene
 oligoClasses
 omada
+omicade4
 omicplotR
 omicsViewer
 ompBAM
@@ -1305,6 +1306,7 @@ qckitfastq
 qcmetrics
 qmtools
 qpcrNorm
+qsea
 qsmooth
 qsvaR
 quantiseqr
@@ -1313,6 +1315,7 @@ qusage
 qvalue
 rBLAST
 rBiopaxParser
+rGADEM
 rGenomeTracks
 rRDP
 rSWeeP

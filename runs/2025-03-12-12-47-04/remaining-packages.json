@@ -2487,10 +2487,7 @@
     "PSMatch",
     "QFeatures"
   ],
-  "omicRexposome": [
-    "omicade4"
-  ],
-  "omicade4": [],
+  "omicRexposome": [],
   "omicsPrint": [],
   "openCyto": [],
   "oppar": [
@@ -2623,7 +2620,6 @@
   "qpgraph": [
     "GenomicFeatures"
   ],
-  "qsea": [],
   "quantro": [
     "minfi",
     "bumphunter",
@@ -2634,7 +2630,6 @@
   "rCGH": [
     "GenomicFeatures"
   ],
-  "rGADEM": [],
   "rGREAT": [
     "GenomicFeatures"
   ],

@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1505 packages built successfully
+- 1508 packages built successfully
 - 23 packages failed to build
-- 705 packages not yet processed
+- 702 packages not yet processed
 
 ## Failed Builds (23)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -35,7 +35,7 @@
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 
-## Successfully Built (1505)
+## Successfully Built (1508)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1543,8 +1543,11 @@
 | [hiAnnotator](https://bioconductor.org/packages/3.20/bioc/html/hiAnnotator.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/hiAnnotator/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hiAnnotator)                |
 | [scGPS](https://bioconductor.org/packages/3.20/bioc/html/scGPS.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/scGPS/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scGPS)                      |
 | [SpliceWiz](https://bioconductor.org/packages/3.20/bioc/html/SpliceWiz.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/SpliceWiz/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SpliceWiz)                  |
+| [omicade4](https://bioconductor.org/packages/3.20/bioc/html/omicade4.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/omicade4/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/omicade4)                   |
+| [qsea](https://bioconductor.org/packages/3.20/bioc/html/qsea.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/qsea/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/qsea)                       |
+| [rGADEM](https://bioconductor.org/packages/3.20/bioc/html/rGADEM.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/rGADEM/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rGADEM)                     |
 
-## Not Yet Processed (705)
+## Not Yet Processed (702)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -2094,7 +2097,6 @@
 | [oligo](https://bioconductor.org/packages/3.20/bioc/html/oligo.html)                                             | Unprocessed |
 | [omXplore](https://bioconductor.org/packages/3.20/bioc/html/omXplore.html)                                       | Unprocessed |
 | [omicRexposome](https://bioconductor.org/packages/3.20/bioc/html/omicRexposome.html)                             | Unprocessed |
-| [omicade4](https://bioconductor.org/packages/3.20/bioc/html/omicade4.html)                                       | Unprocessed |
 | [omicsPrint](https://bioconductor.org/packages/3.20/bioc/html/omicsPrint.html)                                   | Unprocessed |
 | [openCyto](https://bioconductor.org/packages/3.20/bioc/html/openCyto.html)                                       | Unprocessed |
 | [oppar](https://bioconductor.org/packages/3.20/bioc/html/oppar.html)                                             | Unprocessed |
@@ -2132,11 +2134,9 @@
 | [puma](https://bioconductor.org/packages/3.20/bioc/html/puma.html)                                               | Unprocessed |
 | [qPLEXanalyzer](https://bioconductor.org/packages/3.20/bioc/html/qPLEXanalyzer.html)                             | Unprocessed |
 | [qpgraph](https://bioconductor.org/packages/3.20/bioc/html/qpgraph.html)                                         | Unprocessed |
-| [qsea](https://bioconductor.org/packages/3.20/bioc/html/qsea.html)                                               | Unprocessed |
 | [quantro](https://bioconductor.org/packages/3.20/bioc/html/quantro.html)                                         | Unprocessed |
 | [r3Cseq](https://bioconductor.org/packages/3.20/bioc/html/r3Cseq.html)                                           | Unprocessed |
 | [rCGH](https://bioconductor.org/packages/3.20/bioc/html/rCGH.html)                                               | Unprocessed |
-| [rGADEM](https://bioconductor.org/packages/3.20/bioc/html/rGADEM.html)                                           | Unprocessed |
 | [rGREAT](https://bioconductor.org/packages/3.20/bioc/html/rGREAT.html)                                           | Unprocessed |
 | [rTRMui](https://bioconductor.org/packages/3.20/bioc/html/rTRMui.html)                                           | Unprocessed |
 | [raer](https://bioconductor.org/packages/3.20/bioc/html/raer.html)                                               | Unprocessed |
