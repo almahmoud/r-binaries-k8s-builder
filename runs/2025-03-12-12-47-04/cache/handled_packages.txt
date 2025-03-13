@@ -13,6 +13,7 @@ AMARETTO
 AMOUNTAIN
 ANCOMBC
 ANF
+APL
 ARRmNormalization
 ASAFE
 ASEB
@@ -34,6 +35,7 @@ AnVILBilling
 AnVILGCP
 AnVILPublish
 AnVILWorkflow
+Anaquin
 AneuFinder
 AnnotationDbi
 AnnotationFilter
@@ -166,9 +168,13 @@ CytoGLMM
 DART
 DCATS
 DECIPHER
+DEFormats
 DEGraph
+DEGreport
 DEGseq
+DELocal
 DESeq2
+DEWSeq
 DEqMS
 DEsingle
 DFP
@@ -202,6 +208,7 @@ DriverNet
 Dune
 DynDoc
 EBImage
+EBSEA
 EBSeq
 EBarrays
 EBcoexpress
@@ -213,6 +220,7 @@ EnMCB
 EnhancedVolcano
 EnrichDO
 EnrichedHeatmap
+EnrichmentBrowser
 EpiDISH
 EpipwR
 ExiMiR
@@ -245,6 +253,7 @@ GLAD
 GMRP
 GNET2
 GOSemSim
+GOTHiC
 GOexpress
 GOfuncR
 GPA
@@ -289,6 +298,7 @@ GlobalAncova
 GrafGen
 GraphAT
 GraphAlignment
+GreyListChIP
 HDF5Array
 HDTD
 HELP
@@ -370,12 +380,14 @@ MBQN
 MBttest
 MCbiclust
 MDTS
+MEDIPS
 MEDME
 MEIGOR
 MGFM
 MGFR
 MICSQTL
 MLP
+MMDiff2
 MMUPHin
 MODA
 MOFA2
@@ -799,6 +811,7 @@ censcyt
 cfdnakit
 cghMCR
 chihaya
+chipenrich
 chipseq
 chopsticks
 chromDraw
@@ -934,6 +947,7 @@ flowPeaks
 flowPloidy
 flowPlots
 flowSpecs
+flowStats
 flowTime
 flowTrans
 flowViz
@@ -970,6 +984,7 @@ genomicInstability
 gep2pep
 getDEE2
 geva
+ggcyto
 ggkegg
 ggmanh
 ggmsa
@@ -990,6 +1005,7 @@ granulator
 graper
 graph
 graphite
+groHMM
 gscreend
 gtrellis
 gypsum
@@ -1016,6 +1032,8 @@ iClusterPlus
 iGC
 iPath
 iSEE
+iSEEhub
+iSEEindex
 iSeq
 iasva
 ibh
@@ -1051,6 +1069,7 @@ limma
 limmaGUI
 limpca
 lionessR
+lipidr
 lmdme
 loci2path
 logicFS
@@ -1335,6 +1354,7 @@ snapcount
 snifter
 snm
 snpStats
+soGGi
 sparrow
 sparseMatrixStats
 sparsenetgls

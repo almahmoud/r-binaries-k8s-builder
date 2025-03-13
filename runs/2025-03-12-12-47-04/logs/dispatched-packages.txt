@@ -1658,3 +1658,8 @@ tRanslatome
 vidger
 zitools
 soGGi
+GSEABenchmarkeR
+flowGate
+flowVS
+isomiRs
+zenith

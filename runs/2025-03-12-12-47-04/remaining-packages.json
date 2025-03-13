@@ -12,7 +12,6 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "APL": [],
   "ASpli": [
     "GenomicFeatures",
     "Gviz",
@@ -57,7 +56,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "Anaquin": [],
   "AnnotationHubData": [
     "GenomicFeatures",
     "OrganismDbi",
@@ -275,8 +273,7 @@
   "ChIPQC": [
     "DiffBind",
     "GenomicFeatures",
-    "systemPipeR",
-    "GreyListChIP"
+    "systemPipeR"
   ],
   "ChIPXpress": [
     "GEOquery",
@@ -346,20 +343,16 @@
   "CytoGLMM": [],
   "CytoMDS": [
     "CytoPipeline",
-    "ggcyto",
     "PeacoQC"
   ],
   "CytoML": [
-    "openCyto",
-    "ggcyto"
+    "openCyto"
   ],
   "CytoPipeline": [
-    "ggcyto",
     "PeacoQC"
   ],
   "CytoPipelineGUI": [
     "CytoPipeline",
-    "ggcyto",
     "PeacoQC"
   ],
   "DAMEfinder": [
@@ -372,9 +365,6 @@
     "PSMatch",
     "QFeatures"
   ],
-  "DEFormats": [],
-  "DEGreport": [],
-  "DELocal": [],
   "DEP": [
     "MSnbase",
     "PSMatch",
@@ -389,7 +379,6 @@
   "DESpace": [
     "SpatialExperiment"
   ],
-  "DEWSeq": [],
   "DEXSeq": [],
   "DEsubs": [
     "EBSeq"
@@ -450,8 +439,7 @@
     "BiocSingular"
   ],
   "DiffBind": [
-    "systemPipeR",
-    "GreyListChIP"
+    "systemPipeR"
   ],
   "Dino": [
     "BiocSingular",
@@ -478,7 +466,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "EBSEA": [],
   "EBSeq": [],
   "EDASeq": [
     "GenomicFeatures"
@@ -506,7 +493,6 @@
   ],
   "ERSSA": [],
   "EWCE": [],
-  "EnrichmentBrowser": [],
   "EpiCompare": [
     "ChIPseeker",
     "genomation",
@@ -587,7 +573,6 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "GOTHiC": [],
   "GOpro": [],
   "GOstats": [
     "Category"
@@ -596,9 +581,7 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "GSEABenchmarkeR": [
-    "EnrichmentBrowser"
-  ],
+  "GSEABenchmarkeR": [],
   "GSRI": [],
   "GSReg": [
     "GenomicFeatures",
@@ -682,7 +665,6 @@
     "GOstats"
   ],
   "GrafGen": [],
-  "GreyListChIP": [],
   "Guitar": [
     "GenomicFeatures"
   ],
@@ -830,7 +812,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "MEDIPS": [],
   "MGnifyR": [
     "mia",
     "scater",
@@ -843,7 +824,6 @@
   "MIRit": [],
   "MLInterfaces": [],
   "MLSeq": [],
-  "MMDiff2": [],
   "MOSClip": [
     "qpgraph",
     "GenomicFeatures"
@@ -1639,7 +1619,6 @@
   ],
   "branchpointer": [],
   "broadSeq": [
-    "DELocal",
     "EBSeq"
   ],
   "bsseq": [],
@@ -1703,7 +1682,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "chipenrich": [],
   "chromVAR": [
     "TFBSTools",
     "CNEr"
@@ -1954,8 +1932,7 @@
     "GenomicFeatures"
   ],
   "dreamlet": [
-    "zenith",
-    "EnrichmentBrowser"
+    "zenith"
   ],
   "drugTargetInteractions": [
     "ensembldb",
@@ -1974,8 +1951,7 @@
   ],
   "epidecodeR": [],
   "epigraHMM": [
-    "csaw",
-    "GreyListChIP"
+    "csaw"
   ],
   "epimutacions": [
     "minfi",
@@ -2093,14 +2069,9 @@
     "QFeatures",
     "PSMatch"
   ],
-  "flowGate": [
-    "ggcyto"
-  ],
+  "flowGate": [],
   "flowPeaks": [],
-  "flowStats": [],
-  "flowVS": [
-    "flowStats"
-  ],
+  "flowVS": [],
   "frma": [
     "oligo",
     "affxparser"
@@ -2158,7 +2129,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "ggcyto": [],
   "ggsc": [],
   "ggspavis": [
     "SpatialExperiment"
@@ -2183,7 +2153,6 @@
   ],
   "gpuMagic": [],
   "graper": [],
-  "groHMM": [],
   "gsean": [],
   "gwascat": [
     "GenomicFeatures",
@@ -2233,8 +2202,6 @@
     "iSEEhex"
   ],
   "iSEEhex": [],
-  "iSEEhub": [],
-  "iSEEindex": [],
   "iSEEpathways": [],
   "iSEEtree": [
     "miaViz",
@@ -2281,9 +2248,7 @@
   "interactiveDisplay": [
     "Category"
   ],
-  "isomiRs": [
-    "DEGreport"
-  ],
+  "isomiRs": [],
   "ivygapSE": [],
   "karyoploteR": [
     "regioneR",
@@ -2309,7 +2274,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "lipidr": [],
   "lisaClust": [
     "spicyR",
     "SpatialExperiment"
@@ -2744,7 +2708,6 @@
     "txdbmaker"
   ],
   "profileplyr": [
-    "soGGi",
     "ChIPseeker",
     "GenomicFeatures",
     "rGREAT"
@@ -2817,7 +2780,6 @@
   ],
   "regionReport": [
     "derfinder",
-    "DEFormats",
     "bumphunter",
     "GenomicFeatures",
     "GenomicFiles",
@@ -3071,7 +3033,6 @@
   "smoothclust": [
     "SpatialExperiment"
   ],
-  "soGGi": [],
   "spaSim": [
     "SpatialExperiment"
   ],
@@ -3251,8 +3212,7 @@
     "GenomicFeatures",
     "regioneR",
     "ensembldb",
-    "systemPipeR",
-    "GreyListChIP"
+    "systemPipeR"
   ],
   "wateRmelon": [
     "methylumi",
@@ -3283,8 +3243,6 @@
     "GEOquery",
     "GenomicFeatures"
   ],
-  "zenith": [
-    "EnrichmentBrowser"
-  ],
+  "zenith": [],
   "zitools": []
 }
