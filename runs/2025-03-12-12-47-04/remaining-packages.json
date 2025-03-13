@@ -21,7 +21,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "AllelicImbalance": [],
   "AnnotationHubData": [
     "OrganismDbi"
   ],
@@ -57,12 +56,9 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "CAGEfightR": [
-    "GenomicInteractions"
-  ],
+  "CAGEfightR": [],
   "CAGEr": [
-    "CAGEfightR",
-    "GenomicInteractions"
+    "CAGEfightR"
   ],
   "CAMERA": [
     "xcms"
@@ -190,7 +186,6 @@
   "GARS": [],
   "GEOexplorer": [],
   "GLAD": [],
-  "GNOSIS": [],
   "GSReg": [
     "OrganismDbi"
   ],
@@ -206,13 +201,11 @@
   "GeneRegionScan": [
     "affxparser"
   ],
-  "GeneStructureTools": [],
   "GeneTonic": [
     "mosdef",
     "goseq"
   ],
   "GeneticsPed": [],
-  "GenomicInteractions": [],
   "GenomicOZone": [
     "ggbio",
     "OrganismDbi"
@@ -222,9 +215,7 @@
   ],
   "GrafGen": [],
   "HIBAG": [],
-  "HiCDCPlus": [
-    "GenomicInteractions"
-  ],
+  "HiCDCPlus": [],
   "IPO": [
     "xcms",
     "CAMERA"
@@ -314,7 +305,6 @@
     "TFBSTools"
   ],
   "NetPathMiner": [],
-  "OGRE": [],
   "ORFik": [],
   "OUTRIDER": [],
   "OrganismDbi": [],
@@ -616,9 +606,7 @@
     "motifmatchr"
   ],
   "escape": [],
-  "extraChIPs": [
-    "GenomicInteractions"
-  ],
+  "extraChIPs": [],
   "fastseg": [],
   "ffpe": [
     "lumi",
@@ -940,7 +928,6 @@
   ],
   "spaSim": [],
   "spatzie": [
-    "GenomicInteractions",
     "motifmatchr",
     "TFBSTools"
   ],

@@ -28,6 +28,7 @@ AUCell
 AWFisher
 AffiXcan
 AffyRNADegradation
+AllelicImbalance
 AlphaBeta
 AlphaMissenseR
 AlpsNMR
@@ -324,6 +325,7 @@ GIGSEA
 GLAD
 GMRP
 GNET2
+GNOSIS
 GOSemSim
 GOTHiC
 GOexpress
@@ -358,6 +360,7 @@ GeneMeta
 GeneNetworkBuilder
 GeneOverlap
 GeneSelectMMD
+GeneStructureTools
 GeneticsPed
 GenomAutomorphism
 GenomeInfoDb
@@ -367,6 +370,7 @@ GenomicDistributions
 GenomicFeatures
 GenomicFiles
 GenomicInteractionNodes
+GenomicInteractions
 GenomicRanges
 GenomicScores
 GenomicSuperSignature
@@ -600,6 +604,7 @@ NormalyzerDE
 NormqPCR
 NuPoP
 OCplus
+OGRE
 OLIN
 OLINgui
 OMICsPCA

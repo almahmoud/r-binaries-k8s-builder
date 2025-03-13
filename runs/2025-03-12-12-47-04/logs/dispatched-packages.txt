@@ -2003,3 +2003,6 @@ saseR
 SpatialFeatureExperiment
 scCB2
 scPipe
+CAGEfightR
+HiCDCPlus
+extraChIPs
