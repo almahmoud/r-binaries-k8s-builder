@@ -1663,3 +1663,7 @@ DegCre
 GenomicInteractionNodes
 OutSplice
 SGSeq
+ChIPseeker
+EpiMix
+Rmmquant
+TAPseq

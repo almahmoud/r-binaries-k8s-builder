@@ -162,6 +162,7 @@ Cepo
 CexoR
 ChIPComp
 ChIPanalyser
+ChIPseeker
 ChIPseqR
 ChIPsim
 ChemmineOB
@@ -254,6 +255,7 @@ EnrichDO
 EnrichedHeatmap
 EnrichmentBrowser
 EpiDISH
+EpiMix
 EpipwR
 ExiMiR
 ExperimentHub
@@ -678,6 +680,7 @@ Rgraphviz
 Rhdf5lib
 Rhtslib
 Rmagpie
+Rmmquant
 Rnits
 RolDE
 Rsamtools
@@ -767,6 +770,7 @@ SwathXtend
 SynExtend
 SynMut
 TADCompare
+TAPseq
 TCC
 TCGAbiolinks
 TCseq

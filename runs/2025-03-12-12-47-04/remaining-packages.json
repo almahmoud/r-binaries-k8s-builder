@@ -212,7 +212,6 @@
     "regioneR",
     "ensembldb"
   ],
-  "ChIPseeker": [],
   "ChromHeatMap": [],
   "ChromSCape": [
     "batchelor",
@@ -341,10 +340,7 @@
     "bumphunter",
     "GEOquery"
   ],
-  "EpiCompare": [
-    "ChIPseeker"
-  ],
-  "EpiMix": [],
+  "EpiCompare": [],
   "EpiTxDb": [
     "txdbmaker"
   ],
@@ -610,8 +606,7 @@
   ],
   "MoleculeExperiment": [],
   "Moonlight2R": [
-    "GEOquery",
-    "EpiMix"
+    "GEOquery"
   ],
   "MoonlightR": [
     "GEOquery"
@@ -817,7 +812,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "Rmmquant": [],
   "RnBeads": [
     "methylumi",
     "minfi",
@@ -919,7 +913,6 @@
   "StructuralVariantAnnotation": [
     "VariantAnnotation"
   ],
-  "TAPseq": [],
   "TCGAutils": [],
   "TFBSTools": [],
   "TFEA.ChIP": [],
@@ -1370,7 +1363,6 @@
   ],
   "esATAC": [
     "pipeFrame",
-    "ChIPseeker",
     "TFBSTools",
     "motifmatchr"
   ],
@@ -1815,7 +1807,6 @@
     "txdbmaker"
   ],
   "profileplyr": [
-    "ChIPseeker",
     "rGREAT"
   ],
   "psichomics": [
@@ -1989,15 +1980,11 @@
     "scater",
     "scuttle"
   ],
-  "segmenter": [
-    "ChIPseeker"
-  ],
+  "segmenter": [],
   "selectKSigs": [
     "HiLDA"
   ],
-  "seqArchRplus": [
-    "ChIPseeker"
-  ],
+  "seqArchRplus": [],
   "seqCAT": [
     "VariantAnnotation"
   ],

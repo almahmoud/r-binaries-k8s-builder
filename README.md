@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1665 packages built successfully
+- 1669 packages built successfully
 - 24 packages failed to build
-- 544 packages not yet processed
+- 540 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1665)
+## Successfully Built (1669)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1704,8 +1704,12 @@
 | [GenomicInteractionNodes](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractionNodes.html)       | Built    | [Log](runs/2025-03-12-12-47-04/logs/GenomicInteractionNodes/build-success.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicInteractionNodes)    |
 | [OutSplice](https://bioconductor.org/packages/3.20/bioc/html/OutSplice.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/OutSplice/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OutSplice)                  |
 | [SGSeq](https://bioconductor.org/packages/3.20/bioc/html/SGSeq.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/SGSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SGSeq)                      |
+| [ChIPseeker](https://bioconductor.org/packages/3.20/bioc/html/ChIPseeker.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/ChIPseeker/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ChIPseeker)                 |
+| [EpiMix](https://bioconductor.org/packages/3.20/bioc/html/EpiMix.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/EpiMix/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiMix)                     |
+| [Rmmquant](https://bioconductor.org/packages/3.20/bioc/html/Rmmquant.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/Rmmquant/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rmmquant)                   |
+| [TAPseq](https://bioconductor.org/packages/3.20/bioc/html/TAPseq.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/TAPseq/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TAPseq)                     |
 
-## Not Yet Processed (544)
+## Not Yet Processed (540)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1753,7 +1757,6 @@
 | [ChIPXpress](https://bioconductor.org/packages/3.20/bioc/html/ChIPXpress.html)                                   | Unprocessed |
 | [ChIPexoQual](https://bioconductor.org/packages/3.20/bioc/html/ChIPexoQual.html)                                 | Unprocessed |
 | [ChIPpeakAnno](https://bioconductor.org/packages/3.20/bioc/html/ChIPpeakAnno.html)                               | Unprocessed |
-| [ChIPseeker](https://bioconductor.org/packages/3.20/bioc/html/ChIPseeker.html)                                   | Unprocessed |
 | [ChromHeatMap](https://bioconductor.org/packages/3.20/bioc/html/ChromHeatMap.html)                               | Unprocessed |
 | [ChromSCape](https://bioconductor.org/packages/3.20/bioc/html/ChromSCape.html)                                   | Unprocessed |
 | [CircSeqAlignTk](https://bioconductor.org/packages/3.20/bioc/html/CircSeqAlignTk.html)                           | Unprocessed |
@@ -1790,7 +1793,6 @@
 | [ELMER](https://bioconductor.org/packages/3.20/bioc/html/ELMER.html)                                             | Unprocessed |
 | [ENmix](https://bioconductor.org/packages/3.20/bioc/html/ENmix.html)                                             | Unprocessed |
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)                                   | Unprocessed |
-| [EpiMix](https://bioconductor.org/packages/3.20/bioc/html/EpiMix.html)                                           | Unprocessed |
 | [EpiTxDb](https://bioconductor.org/packages/3.20/bioc/html/EpiTxDb.html)                                         | Unprocessed |
 | [EventPointer](https://bioconductor.org/packages/3.20/bioc/html/EventPointer.html)                               | Unprocessed |
 | [ExCluster](https://bioconductor.org/packages/3.20/bioc/html/ExCluster.html)                                     | Unprocessed |
@@ -1905,7 +1907,6 @@
 | [RiboCrypt](https://bioconductor.org/packages/3.20/bioc/html/RiboCrypt.html)                                     | Unprocessed |
 | [RiboDiPA](https://bioconductor.org/packages/3.20/bioc/html/RiboDiPA.html)                                       | Unprocessed |
 | [RiboProfiling](https://bioconductor.org/packages/3.20/bioc/html/RiboProfiling.html)                             | Unprocessed |
-| [Rmmquant](https://bioconductor.org/packages/3.20/bioc/html/Rmmquant.html)                                       | Unprocessed |
 | [RnBeads](https://bioconductor.org/packages/3.20/bioc/html/RnBeads.html)                                         | Unprocessed |
 | [RnaSeqSampleSize](https://bioconductor.org/packages/3.20/bioc/html/RnaSeqSampleSize.html)                       | Unprocessed |
 | [Rqc](https://bioconductor.org/packages/3.20/bioc/html/Rqc.html)                                                 | Unprocessed |
@@ -1933,7 +1934,6 @@
 | [SpotSweeper](https://bioconductor.org/packages/3.20/bioc/html/SpotSweeper.html)                                 | Unprocessed |
 | [Statial](https://bioconductor.org/packages/3.20/bioc/html/Statial.html)                                         | Unprocessed |
 | [StructuralVariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/StructuralVariantAnnotation.html) | Unprocessed |
-| [TAPseq](https://bioconductor.org/packages/3.20/bioc/html/TAPseq.html)                                           | Unprocessed |
 | [TCGAutils](https://bioconductor.org/packages/3.20/bioc/html/TCGAutils.html)                                     | Unprocessed |
 | [TFBSTools](https://bioconductor.org/packages/3.20/bioc/html/TFBSTools.html)                                     | Unprocessed |
 | [TFEA.ChIP](https://bioconductor.org/packages/3.20/bioc/html/TFEA.ChIP.html)                                     | Unprocessed |

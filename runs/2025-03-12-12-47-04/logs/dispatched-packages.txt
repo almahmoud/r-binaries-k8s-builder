@@ -1804,3 +1804,6 @@ CytoML
 DaMiRseq
 RUVSeq
 IMAS
+EpiCompare
+segmenter
+seqArchRplus
