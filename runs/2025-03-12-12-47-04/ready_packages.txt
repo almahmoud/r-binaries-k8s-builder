@@ -1,0 +1,15 @@
+COCOA
+DeMixT
+GOstats
+MsQuality
+TFBSTools
+borealis
+diffHic
+epigraHMM
+interactiveDisplay
+kissDE
+mariner
+meshr
+methylSig
+phenoTest
+tidyomics

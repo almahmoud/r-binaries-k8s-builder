@@ -124,6 +124,7 @@ CIMICE
 CINdex
 CMA
 CNAnorm
+CNEr
 CNORdt
 CNORfeeder
 CNORfuzzy
@@ -136,6 +137,7 @@ CODEX
 COMPASS
 CONSTANd
 COSNet
+COTAN
 CRISPRseek
 CRImage
 CSAR
@@ -144,6 +146,7 @@ CaDrA
 CaMutQC
 Cardinal
 CardinalIO
+Category
 CausalR
 CeTF
 CellBench
@@ -202,6 +205,7 @@ DNAcopy
 DNAshapeR
 DOSE
 DRIMSeq
+DSS
 DTA
 DeMAND
 DeconRNASeq
@@ -211,6 +215,7 @@ DelayedArray
 DelayedDataFrame
 DelayedMatrixStats
 DelayedRandomArray
+DelayedTensor
 DepInfeR
 DepecheR
 DiffLogo
@@ -411,6 +416,7 @@ MEIGOR
 MGFM
 MGFR
 MICSQTL
+MIRA
 MIRit
 MLInterfaces
 MLP
@@ -477,6 +483,7 @@ MsBackendRawFileReader
 MsBackendSql
 MsCoreUtils
 MsDataHub
+MsExperiment
 MsFeatures
 MuData
 Mulcom
@@ -497,6 +504,7 @@ Nebulosa
 NetActivity
 NetPathMiner
 NetSAM
+NewWave
 NormalyzerDE
 NormqPCR
 NuPoP
@@ -718,6 +726,7 @@ SurfR
 SwathXtend
 SynExtend
 SynMut
+TADCompare
 TCC
 TCGAbiolinks
 TCseq
@@ -881,6 +890,7 @@ cellmigRation
 cellscape
 cellxgenedp
 censcyt
+cfDNAPro
 cfdnakit
 cghMCR
 chihaya
@@ -930,6 +940,7 @@ crisprBowtie
 crisprBwa
 crisprScore
 crlmm
+csaw
 csdR
 ctc
 ctsGE
@@ -1106,6 +1117,7 @@ gypsum
 h5vc
 hapFabia
 hca
+hdxmsqc
 heatmaps
 hiAnnotator
 hiReadsProcessor
@@ -1229,6 +1241,7 @@ miRNApath
 miRNAtap
 miRSM
 miRcomp
+miRspongeR
 microRNA
 microbiomeDASim
 microbiomeExplorer
@@ -1280,6 +1293,7 @@ npGSEA
 nuCpos
 nucleR
 nucleoSim
+nullranges
 occugene
 odseq
 oligoClasses
@@ -1333,6 +1347,8 @@ plasmut
 plgem
 plier
 plotGrouper
+plotgardener
+plyinteractions
 plyranges
 plyxp
 pmm
@@ -1441,6 +1457,7 @@ scMET
 scMitoMut
 scMultiSim
 scPCA
+scRNAseqApp
 scReClassify
 scRecover
 scRepertoire
@@ -1469,6 +1486,7 @@ seqLogo
 seqPattern
 seqTools
 seqcombo
+seqsetvis
 sesame
 sevenbridges
 shiny.gosling
@@ -1557,6 +1575,7 @@ tomoseqr
 topGO
 topconfects
 tracktables
+tradeSeq
 transite
 transomics2cytoscape
 traseR
