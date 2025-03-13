@@ -1,4 +1,0 @@
-EGSEA
-GARS
-escape
-oppar

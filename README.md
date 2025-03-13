@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1803 packages built successfully
+- 1804 packages built successfully
 - 27 packages failed to build
-- 403 packages not yet processed
+- 402 packages not yet processed
 
 ## Failed Builds (27)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -39,7 +39,7 @@
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 
-## Successfully Built (1803)
+## Successfully Built (1804)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1845,8 +1845,9 @@
 | [GSVA](https://bioconductor.org/packages/3.20/bioc/html/GSVA.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/GSVA/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSVA)                        |
 | [Statial](https://bioconductor.org/packages/3.20/bioc/html/Statial.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/Statial/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Statial)                     |
 | [pathlinkR](https://bioconductor.org/packages/3.20/bioc/html/pathlinkR.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/pathlinkR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pathlinkR)                   |
+| [lisaClust](https://bioconductor.org/packages/3.20/bioc/html/lisaClust.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/lisaClust/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lisaClust)                   |
 
-## Not Yet Processed (403)
+## Not Yet Processed (402)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2118,7 +2119,6 @@
 | [imcRtools](https://bioconductor.org/packages/3.20/bioc/html/imcRtools.html)                                   | Unprocessed |
 | [intansv](https://bioconductor.org/packages/3.20/bioc/html/intansv.html)                                       | Unprocessed |
 | [karyoploteR](https://bioconductor.org/packages/3.20/bioc/html/karyoploteR.html)                               | Unprocessed |
-| [lisaClust](https://bioconductor.org/packages/3.20/bioc/html/lisaClust.html)                                   | Unprocessed |
 | [lumi](https://bioconductor.org/packages/3.20/bioc/html/lumi.html)                                             | Unprocessed |
 | [lute](https://bioconductor.org/packages/3.20/bioc/html/lute.html)                                             | Unprocessed |
 | [mCSEA](https://bioconductor.org/packages/3.20/bioc/html/mCSEA.html)                                           | Unprocessed |

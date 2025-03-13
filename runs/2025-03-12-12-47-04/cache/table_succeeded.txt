@@ -1801,3 +1801,4 @@
 ['[GSVA](https://bioconductor.org/packages/3.20/bioc/html/GSVA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GSVA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSVA)']
 ['[Statial](https://bioconductor.org/packages/3.20/bioc/html/Statial.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Statial/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Statial)']
 ['[pathlinkR](https://bioconductor.org/packages/3.20/bioc/html/pathlinkR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/pathlinkR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pathlinkR)']
+['[lisaClust](https://bioconductor.org/packages/3.20/bioc/html/lisaClust.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/lisaClust/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lisaClust)']
