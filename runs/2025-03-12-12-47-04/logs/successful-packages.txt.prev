@@ -1143,3 +1143,8 @@ TREG
 MicrobiotaProcess
 QSutils
 SimBu
+aggregateBioVar
+ccfindR
+isobar
+MultiAssayExperiment
+TCGAbiolinks
