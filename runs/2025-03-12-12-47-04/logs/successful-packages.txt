@@ -1855,3 +1855,6 @@ VisiumIO
 GA4GHshiny
 SIAMCAT
 Ularcirc
+nnSVG
+omicRexposome
+svaNUMT

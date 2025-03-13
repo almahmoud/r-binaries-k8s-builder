@@ -820,14 +820,12 @@
     "quantro",
     "minfi"
   ],
-  "nnSVG": [],
   "octad": [
     "RUVSeq"
   ],
   "oligo": [
     "affxparser"
   ],
-  "omicRexposome": [],
   "oppar": [],
   "pRolocGUI": [],
   "pageRank": [
@@ -984,16 +982,13 @@
     "scater"
   ],
   "splatter": [],
-  "spoon": [
-    "nnSVG"
-  ],
+  "spoon": [],
   "squallms": [
     "xcms"
   ],
   "standR": [
     "RUVSeq"
   ],
-  "svaNUMT": [],
   "svaRetro": [],
   "tadar": [],
   "ternarynet": [],

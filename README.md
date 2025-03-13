@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1857 packages built successfully
+- 1860 packages built successfully
 - 28 packages failed to build
-- 348 packages not yet processed
+- 345 packages not yet processed
 
 ## Failed Builds (28)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -40,7 +40,7 @@
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 
-## Successfully Built (1857)
+## Successfully Built (1860)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1900,8 +1900,11 @@
 | [GA4GHshiny](https://bioconductor.org/packages/3.20/bioc/html/GA4GHshiny.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/GA4GHshiny/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GA4GHshiny)                  |
 | [SIAMCAT](https://bioconductor.org/packages/3.20/bioc/html/SIAMCAT.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/SIAMCAT/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SIAMCAT)                     |
 | [Ularcirc](https://bioconductor.org/packages/3.20/bioc/html/Ularcirc.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/Ularcirc/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Ularcirc)                    |
+| [nnSVG](https://bioconductor.org/packages/3.20/bioc/html/nnSVG.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/nnSVG/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/nnSVG)                       |
+| [omicRexposome](https://bioconductor.org/packages/3.20/bioc/html/omicRexposome.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/omicRexposome/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/omicRexposome)               |
+| [svaNUMT](https://bioconductor.org/packages/3.20/bioc/html/svaNUMT.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/svaNUMT/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/svaNUMT)                     |
 
-## Not Yet Processed (348)
+## Not Yet Processed (345)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2176,10 +2179,8 @@
 | [ncGTW](https://bioconductor.org/packages/3.20/bioc/html/ncGTW.html)                                           | Unprocessed |
 | [netSmooth](https://bioconductor.org/packages/3.20/bioc/html/netSmooth.html)                                   | Unprocessed |
 | [netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)                                       | Unprocessed |
-| [nnSVG](https://bioconductor.org/packages/3.20/bioc/html/nnSVG.html)                                           | Unprocessed |
 | [octad](https://bioconductor.org/packages/3.20/bioc/html/octad.html)                                           | Unprocessed |
 | [oligo](https://bioconductor.org/packages/3.20/bioc/html/oligo.html)                                           | Unprocessed |
-| [omicRexposome](https://bioconductor.org/packages/3.20/bioc/html/omicRexposome.html)                           | Unprocessed |
 | [oppar](https://bioconductor.org/packages/3.20/bioc/html/oppar.html)                                           | Unprocessed |
 | [pRolocGUI](https://bioconductor.org/packages/3.20/bioc/html/pRolocGUI.html)                                   | Unprocessed |
 | [pageRank](https://bioconductor.org/packages/3.20/bioc/html/pageRank.html)                                     | Unprocessed |
@@ -2237,7 +2238,6 @@
 | [spoon](https://bioconductor.org/packages/3.20/bioc/html/spoon.html)                                           | Unprocessed |
 | [squallms](https://bioconductor.org/packages/3.20/bioc/html/squallms.html)                                     | Unprocessed |
 | [standR](https://bioconductor.org/packages/3.20/bioc/html/standR.html)                                         | Unprocessed |
-| [svaNUMT](https://bioconductor.org/packages/3.20/bioc/html/svaNUMT.html)                                       | Unprocessed |
 | [svaRetro](https://bioconductor.org/packages/3.20/bioc/html/svaRetro.html)                                     | Unprocessed |
 | [tadar](https://bioconductor.org/packages/3.20/bioc/html/tadar.html)                                           | Unprocessed |
 | [trackViewer](https://bioconductor.org/packages/3.20/bioc/html/trackViewer.html)                               | Unprocessed |

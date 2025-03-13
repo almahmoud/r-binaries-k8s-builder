@@ -1498,6 +1498,7 @@ netresponse
 ngsReports
 nipalsMCIA
 nnNorm
+nnSVG
 normalize450K
 normr
 npGSEA
@@ -1510,6 +1511,7 @@ odseq
 oligoClasses
 omXplore
 omada
+omicRexposome
 omicade4
 omicplotR
 omicsPrint
@@ -1789,6 +1791,7 @@ survClust
 survcomp
 survtype
 sva
+svaNUMT
 swfdr
 switchBox
 switchde
