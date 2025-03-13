@@ -1870,3 +1870,6 @@ MOSClip
 clipper
 gDRcore
 profileplyr
+BubbleTree
+ChIPexoQual
+Gviz

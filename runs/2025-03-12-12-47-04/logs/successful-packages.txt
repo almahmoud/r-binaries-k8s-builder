@@ -1710,3 +1710,14 @@ seqCAT
 signeR
 terraTCGAdata
 tLOH
+benchdamic
+biovizBase
+BUSpaRse
+CleanUpRNAseq
+clipper
+demuxSNP
+DominoEffect
+drugTargetInteractions
+MOSClip
+RAIDS
+RITAN

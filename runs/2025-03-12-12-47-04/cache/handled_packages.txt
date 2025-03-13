@@ -60,6 +60,7 @@ BSgenomeForge
 BUMHMM
 BUS
 BUScorrect
+BUSpaRse
 BUSseq
 BaalChIP
 BaseSpaceR
@@ -170,6 +171,7 @@ ChemmineOB
 ChemmineR
 Chicago
 ClassifyR
+CleanUpRNAseq
 Clomial
 ClustAll
 ClustIRR
@@ -235,6 +237,7 @@ DifferentialRegulation
 Director
 DirichletMultinomial
 DiscoRhythm
+DominoEffect
 Doscheda
 DriverNet
 Dune
@@ -459,6 +462,7 @@ MODA
 MOFA2
 MOGAMUN
 MOMA
+MOSClip
 MPFE
 MPRAnalyze
 MSA2dist
@@ -614,6 +618,7 @@ QUBIC
 Qtlizer
 QuaternaryProd
 R4RNA
+RAIDS
 RAREsim
 RBGL
 RBM
@@ -629,6 +634,7 @@ RDRToolbox
 REBET
 RGSEA
 RGraph2js
+RITAN
 RIVER
 RImmPort
 RJMCMCNucleosomes
@@ -904,6 +910,7 @@ beachmat
 beachmat.hdf5
 beadarray
 beer
+benchdamic
 betaHMM
 bettr
 bioDist
@@ -924,6 +931,7 @@ biomaRt
 biomformat
 biosigner
 biotmle
+biovizBase
 blacksheepr
 blima
 bluster
@@ -969,6 +977,7 @@ cleaver
 clevRvis
 cliProfiler
 clippda
+clipper
 clst
 clstutils
 clustComp
@@ -1033,6 +1042,7 @@ decontam
 decoupleR
 deltaCaptureC
 deltaGseg
+demuxSNP
 demuxmix
 densvis
 derfinderHelper
@@ -1053,6 +1063,7 @@ doseR
 doubletrouble
 drawProteins
 dreamlet
+drugTargetInteractions
 dupRadar
 dyebias
 easier
