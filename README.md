@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1495 packages built successfully
+- 1498 packages built successfully
 - 23 packages failed to build
-- 715 packages not yet processed
+- 712 packages not yet processed
 
 ## Failed Builds (23)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -35,7 +35,7 @@
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 
-## Successfully Built (1495)
+## Successfully Built (1498)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1533,8 +1533,11 @@
 | [SparseSignatures](https://bioconductor.org/packages/3.20/bioc/html/SparseSignatures.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/SparseSignatures/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SparseSignatures)           |
 | [VanillaICE](https://bioconductor.org/packages/3.20/bioc/html/VanillaICE.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/VanillaICE/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VanillaICE)                 |
 | [XNAString](https://bioconductor.org/packages/3.20/bioc/html/XNAString.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/XNAString/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/XNAString)                  |
+| [SCOPE](https://bioconductor.org/packages/3.20/bioc/html/SCOPE.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/SCOPE/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SCOPE)                      |
+| [cleanUpdTSeq](https://bioconductor.org/packages/3.20/bioc/html/cleanUpdTSeq.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/cleanUpdTSeq/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cleanUpdTSeq)               |
+| [methrix](https://bioconductor.org/packages/3.20/bioc/html/methrix.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/methrix/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/methrix)                    |
 
-## Not Yet Processed (715)
+## Not Yet Processed (712)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1809,7 +1812,6 @@
 | [SCAN.UPC](https://bioconductor.org/packages/3.20/bioc/html/SCAN.UPC.html)                                       | Unprocessed |
 | [SCArray](https://bioconductor.org/packages/3.20/bioc/html/SCArray.html)                                         | Unprocessed |
 | [SCArray.sat](https://bioconductor.org/packages/3.20/bioc/html/SCArray.sat.html)                                 | Unprocessed |
-| [SCOPE](https://bioconductor.org/packages/3.20/bioc/html/SCOPE.html)                                             | Unprocessed |
 | [SGCP](https://bioconductor.org/packages/3.20/bioc/html/SGCP.html)                                               | Unprocessed |
 | [SGSeq](https://bioconductor.org/packages/3.20/bioc/html/SGSeq.html)                                             | Unprocessed |
 | [SIAMCAT](https://bioconductor.org/packages/3.20/bioc/html/SIAMCAT.html)                                         | Unprocessed |
@@ -1906,7 +1908,6 @@
 | [chromstaR](https://bioconductor.org/packages/3.20/bioc/html/chromstaR.html)                                     | Unprocessed |
 | [cicero](https://bioconductor.org/packages/3.20/bioc/html/cicero.html)                                           | Unprocessed |
 | [circRNAprofiler](https://bioconductor.org/packages/3.20/bioc/html/circRNAprofiler.html)                         | Unprocessed |
-| [cleanUpdTSeq](https://bioconductor.org/packages/3.20/bioc/html/cleanUpdTSeq.html)                               | Unprocessed |
 | [cliProfiler](https://bioconductor.org/packages/3.20/bioc/html/cliProfiler.html)                                 | Unprocessed |
 | [clipper](https://bioconductor.org/packages/3.20/bioc/html/clipper.html)                                         | Unprocessed |
 | [cliqueMS](https://bioconductor.org/packages/3.20/bioc/html/cliqueMS.html)                                       | Unprocessed |
@@ -2037,7 +2038,6 @@
 | [metaseqR2](https://bioconductor.org/packages/3.20/bioc/html/metaseqR2.html)                                     | Unprocessed |
 | [methInheritSim](https://bioconductor.org/packages/3.20/bioc/html/methInheritSim.html)                           | Unprocessed |
 | [methodical](https://bioconductor.org/packages/3.20/bioc/html/methodical.html)                                   | Unprocessed |
-| [methrix](https://bioconductor.org/packages/3.20/bioc/html/methrix.html)                                         | Unprocessed |
 | [methylCC](https://bioconductor.org/packages/3.20/bioc/html/methylCC.html)                                       | Unprocessed |
 | [methylGSA](https://bioconductor.org/packages/3.20/bioc/html/methylGSA.html)                                     | Unprocessed |
 | [methylInheritance](https://bioconductor.org/packages/3.20/bioc/html/methylInheritance.html)                     | Unprocessed |

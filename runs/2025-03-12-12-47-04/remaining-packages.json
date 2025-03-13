@@ -712,7 +712,6 @@
   ],
   "IdeoViz": [],
   "InPAS": [
-    "cleanUpdTSeq",
     "GenomicFeatures",
     "plyranges"
   ],
@@ -1223,7 +1222,6 @@
     "SCArray",
     "BiocSingular"
   ],
-  "SCOPE": [],
   "SGCP": [
     "GOstats",
     "Category"
@@ -1647,7 +1645,6 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "cleanUpdTSeq": [],
   "cliProfiler": [],
   "clipper": [
     "qpgraph",
@@ -2258,13 +2255,11 @@
     "GenomicFeatures",
     "regioneR",
     "ExperimentHubData",
-    "methrix",
     "TCGAutils",
     "AnnotationHubData",
     "OrganismDbi",
     "txdbmaker"
   ],
-  "methrix": [],
   "methylCC": [
     "minfi",
     "bsseq",

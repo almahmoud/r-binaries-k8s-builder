@@ -1493,3 +1493,6 @@ CRISPRseek
 SparseSignatures
 VanillaICE
 XNAString
+cleanUpdTSeq
+methrix
+SCOPE

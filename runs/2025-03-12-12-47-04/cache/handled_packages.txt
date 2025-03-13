@@ -628,6 +628,7 @@ SC3
 SCANVIS
 SCBN
 SCFA
+SCOPE
 SCnorm
 SDAMS
 SELEX
@@ -858,6 +859,7 @@ chopsticks
 chromDraw
 chromPlot
 cisPath
+cleanUpdTSeq
 cleaver
 clevRvis
 clippda
@@ -1169,6 +1171,7 @@ metahdep
 metapod
 metapone
 methimpute
+methrix
 methyLImp2
 methylMnM
 methylscaper
