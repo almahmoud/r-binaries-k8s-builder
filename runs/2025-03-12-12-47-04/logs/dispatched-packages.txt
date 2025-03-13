@@ -1699,3 +1699,7 @@ multiHiCcompare
 scp
 scry
 clusterExperiment
+cfDNAPro
+nullranges
+plotgardener
+plyinteractions

@@ -73,6 +73,7 @@ BiRewire
 BiSeq
 BicARE
 BioCartaImage
+BioCor
 BioGA
 BioMVCClass
 BioNAR
@@ -503,6 +504,7 @@ OPWeight
 ORFhunteR
 OSAT
 OVESEG
+OmaDB
 OmicCircos
 OmicsMLRepoR
 Omixer
@@ -1320,6 +1322,7 @@ plasmut
 plgem
 plier
 plotGrouper
+plyranges
 pmm
 pmp
 podkat
@@ -1519,6 +1522,7 @@ tanggle
 target
 tenXplore
 ternarynet
+tidyCoverage
 tidyFlowCore
 tidySingleCellExperiment
 tidySummarizedExperiment

@@ -1554,3 +1554,7 @@ RCM
 RSVSim
 SPOTlight
 mbkmeans
+BioCor
+OmaDB
+plyranges
+tidyCoverage

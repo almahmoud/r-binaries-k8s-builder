@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1556 packages built successfully
+- 1560 packages built successfully
 - 24 packages failed to build
-- 653 packages not yet processed
+- 649 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1556)
+## Successfully Built (1560)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1595,8 +1595,12 @@
 | [bsseq](https://bioconductor.org/packages/3.20/bioc/html/bsseq.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/bsseq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bsseq)                      |
 | [pairkat](https://bioconductor.org/packages/3.20/bioc/html/pairkat.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/pairkat/build-success.log)                    | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pairkat)                 |
 | [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/mbkmeans/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)                   |
+| [BioCor](https://bioconductor.org/packages/3.20/bioc/html/BioCor.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/BioCor/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BioCor)                     |
+| [OmaDB](https://bioconductor.org/packages/3.20/bioc/html/OmaDB.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/OmaDB/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OmaDB)                      |
+| [plyranges](https://bioconductor.org/packages/3.20/bioc/html/plyranges.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/plyranges/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/plyranges)                  |
+| [tidyCoverage](https://bioconductor.org/packages/3.20/bioc/html/tidyCoverage.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/tidyCoverage/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tidyCoverage)               |
 
-## Not Yet Processed (653)
+## Not Yet Processed (649)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1621,7 +1625,6 @@
 | [BayesSpace](https://bioconductor.org/packages/3.20/bioc/html/BayesSpace.html)                                   | Unprocessed |
 | [BgeeCall](https://bioconductor.org/packages/3.20/bioc/html/BgeeCall.html)                                       | Unprocessed |
 | [BindingSiteFinder](https://bioconductor.org/packages/3.20/bioc/html/BindingSiteFinder.html)                     | Unprocessed |
-| [BioCor](https://bioconductor.org/packages/3.20/bioc/html/BioCor.html)                                           | Unprocessed |
 | [BioTIP](https://bioconductor.org/packages/3.20/bioc/html/BioTIP.html)                                           | Unprocessed |
 | [BubbleTree](https://bioconductor.org/packages/3.20/bioc/html/BubbleTree.html)                                   | Unprocessed |
 | [CAFE](https://bioconductor.org/packages/3.20/bioc/html/CAFE.html)                                               | Unprocessed |
@@ -1802,7 +1805,6 @@
 | [ORFik](https://bioconductor.org/packages/3.20/bioc/html/ORFik.html)                                             | Unprocessed |
 | [OTUbase](https://bioconductor.org/packages/3.20/bioc/html/OTUbase.html)                                         | Unprocessed |
 | [OUTRIDER](https://bioconductor.org/packages/3.20/bioc/html/OUTRIDER.html)                                       | Unprocessed |
-| [OmaDB](https://bioconductor.org/packages/3.20/bioc/html/OmaDB.html)                                             | Unprocessed |
 | [Organism.dplyr](https://bioconductor.org/packages/3.20/bioc/html/Organism.dplyr.html)                           | Unprocessed |
 | [OrganismDbi](https://bioconductor.org/packages/3.20/bioc/html/OrganismDbi.html)                                 | Unprocessed |
 | [Oscope](https://bioconductor.org/packages/3.20/bioc/html/Oscope.html)                                           | Unprocessed |
@@ -2133,7 +2135,6 @@
 | [planttfhunter](https://bioconductor.org/packages/3.20/bioc/html/planttfhunter.html)                             | Unprocessed |
 | [plotgardener](https://bioconductor.org/packages/3.20/bioc/html/plotgardener.html)                               | Unprocessed |
 | [plyinteractions](https://bioconductor.org/packages/3.20/bioc/html/plyinteractions.html)                         | Unprocessed |
-| [plyranges](https://bioconductor.org/packages/3.20/bioc/html/plyranges.html)                                     | Unprocessed |
 | [plyxp](https://bioconductor.org/packages/3.20/bioc/html/plyxp.html)                                             | Unprocessed |
 | [pram](https://bioconductor.org/packages/3.20/bioc/html/pram.html)                                               | Unprocessed |
 | [prebs](https://bioconductor.org/packages/3.20/bioc/html/prebs.html)                                             | Unprocessed |
@@ -2226,7 +2227,6 @@
 | [tRNAscanImport](https://bioconductor.org/packages/3.20/bioc/html/tRNAscanImport.html)                           | Unprocessed |
 | [tadar](https://bioconductor.org/packages/3.20/bioc/html/tadar.html)                                             | Unprocessed |
 | [terraTCGAdata](https://bioconductor.org/packages/3.20/bioc/html/terraTCGAdata.html)                             | Unprocessed |
-| [tidyCoverage](https://bioconductor.org/packages/3.20/bioc/html/tidyCoverage.html)                               | Unprocessed |
 | [tidySpatialExperiment](https://bioconductor.org/packages/3.20/bioc/html/tidySpatialExperiment.html)             | Unprocessed |
 | [tidyomics](https://bioconductor.org/packages/3.20/bioc/html/tidyomics.html)                                     | Unprocessed |
 | [topdownr](https://bioconductor.org/packages/3.20/bioc/html/topdownr.html)                                       | Unprocessed |

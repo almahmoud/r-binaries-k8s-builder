@@ -80,7 +80,6 @@
   ],
   "BOBaFIT": [
     "ggbio",
-    "plyranges",
     "biovizBase",
     "VariantAnnotation",
     "GenomicFeatures",
@@ -90,8 +89,7 @@
   ],
   "BUSpaRse": [
     "ensembldb",
-    "GenomicFeatures",
-    "plyranges"
+    "GenomicFeatures"
   ],
   "BadRegionFinder": [
     "VariantAnnotation",
@@ -117,7 +115,6 @@
   "BindingSiteFinder": [
     "GenomicFeatures"
   ],
-  "BioCor": [],
   "BioTIP": [
     "scran",
     "scuttle"
@@ -376,7 +373,6 @@
     "GenomicFeatures",
     "ggbio",
     "goseq",
-    "plyranges",
     "biovizBase",
     "VariantAnnotation",
     "OrganismDbi",
@@ -388,7 +384,6 @@
   ],
   "DegCre": [
     "plotgardener",
-    "plyranges",
     "GenomicFeatures"
   ],
   "DegNorm": [
@@ -599,7 +594,6 @@
     "txdbmaker"
   ],
   "GenomicPlot": [
-    "plyranges",
     "RCAS",
     "GenomicFeatures",
     "txdbmaker"
@@ -665,8 +659,7 @@
   ],
   "IdeoViz": [],
   "InPAS": [
-    "GenomicFeatures",
-    "plyranges"
+    "GenomicFeatures"
   ],
   "InTAD": [],
   "IntEREst": [
@@ -882,7 +875,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "OmaDB": [],
   "Organism.dplyr": [
     "GenomicFeatures"
   ],
@@ -1119,7 +1111,6 @@
   "Rtreemix": [],
   "SAIGEgds": [],
   "SARC": [
-    "plyranges",
     "GenomicFeatures"
   ],
   "SCAN.UPC": [
@@ -1174,7 +1165,6 @@
     "scuttle"
   ],
   "SingleMoleculeFootprinting": [
-    "plyranges",
     "QuasR",
     "GenomicFeatures",
     "txdbmaker",
@@ -1273,8 +1263,7 @@
   "Ularcirc": [
     "GenomicFeatures",
     "Organism.dplyr",
-    "plotgardener",
-    "plyranges"
+    "plotgardener"
   ],
   "Uniquorn": [
     "VariantAnnotation",
@@ -1500,9 +1489,7 @@
     "scran",
     "scuttle"
   ],
-  "cfDNAPro": [
-    "plyranges"
-  ],
+  "cfDNAPro": [],
   "cfTools": [],
   "chimeraviz": [
     "Gviz",
@@ -2023,7 +2010,6 @@
     "ensembldb"
   ],
   "katdetectr": [
-    "plyranges",
     "VariantAnnotation",
     "GenomicFeatures"
   ],
@@ -2067,7 +2053,6 @@
     "TRESS"
   ],
   "mariner": [
-    "plyranges",
     "plotgardener"
   ],
   "maser": [
@@ -2109,7 +2094,6 @@
   ],
   "methylCC": [
     "minfi",
-    "plyranges",
     "bumphunter",
     "GenomicFeatures",
     "GEOquery"
@@ -2251,7 +2235,6 @@
   "multicrispr": [
     "GenomicFeatures",
     "karyoploteR",
-    "plyranges",
     "regioneR",
     "biovizBase",
     "VariantAnnotation",
@@ -2287,7 +2270,6 @@
     "PSMatch"
   ],
   "nearBynding": [
-    "plyranges",
     "GenomicFeatures"
   ],
   "netSmooth": [
@@ -2308,9 +2290,7 @@
   "nnSVG": [
     "SpatialExperiment"
   ],
-  "nullranges": [
-    "plyranges"
-  ],
+  "nullranges": [],
   "octad": [
     "RUVSeq",
     "EDASeq",
@@ -2383,13 +2363,8 @@
   ],
   "pipeFrame": [],
   "planttfhunter": [],
-  "plotgardener": [
-    "plyranges"
-  ],
-  "plyinteractions": [
-    "plyranges"
-  ],
-  "plyranges": [],
+  "plotgardener": [],
+  "plyinteractions": [],
   "plyxp": [],
   "pram": [],
   "prebs": [],
@@ -2794,12 +2769,10 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "tidyCoverage": [],
   "tidySpatialExperiment": [
     "SpatialExperiment"
   ],
   "tidyomics": [
-    "plyranges",
     "nullranges"
   ],
   "topdownr": [
