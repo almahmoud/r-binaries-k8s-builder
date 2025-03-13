@@ -27,7 +27,6 @@
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
-    "missMethyl",
     "lumi"
   ],
   "ChIPQC": [
@@ -45,9 +44,7 @@
   "DEsubs": [
     "EBSeq"
   ],
-  "DMRcate": [
-    "missMethyl"
-  ],
+  "DMRcate": [],
   "DiffBind": [],
   "DrugVsDisease": [
     "ArrayExpress",
@@ -89,9 +86,7 @@
   "MANOR": [
     "GLAD"
   ],
-  "MEAL": [
-    "missMethyl"
-  ],
+  "MEAL": [],
   "MEAT": [
     "wateRmelon",
     "lumi"
@@ -108,7 +103,6 @@
   "Oscope": [
     "EBSeq"
   ],
-  "R3CPET": [],
   "Repitools": [],
   "Rtreemix": [],
   "SAIGEgds": [],
@@ -163,9 +157,7 @@
     "fastseg"
   ],
   "eiR": [],
-  "enhancerHomologSearch": [],
   "epiregulon": [],
-  "esATAC": [],
   "fastseg": [],
   "ffpe": [
     "lumi"
@@ -203,9 +195,7 @@
     "fastseg"
   ],
   "methodical": [],
-  "methylGSA": [
-    "missMethyl"
-  ],
+  "methylGSA": [],
   "methylInheritance": [
     "methylKit",
     "fastseg"
@@ -223,14 +213,11 @@
     "oligo",
     "affxparser"
   ],
-  "missMethyl": [],
   "muscle": [],
   "ncGTW": [
     "xcms"
   ],
-  "netZooR": [
-    "yarn"
-  ],
+  "netZooR": [],
   "oligo": [
     "affxparser"
   ],
@@ -256,11 +243,8 @@
     "Oscope"
   ],
   "scFeatures": [],
-  "scMerge": [],
   "scviR": [],
-  "singleCellTK": [
-    "scMerge"
-  ],
+  "singleCellTK": [],
   "skewr": [
     "wateRmelon",
     "lumi"
@@ -275,6 +259,5 @@
   "wateRmelon": [
     "lumi"
   ],
-  "xcms": [],
-  "yarn": []
+  "xcms": []
 }

@@ -746,6 +746,7 @@ QUBIC
 Qtlizer
 QuasR
 QuaternaryProd
+R3CPET
 R453Plus1Toolbox
 R4RNA
 RAIDS
@@ -1315,6 +1316,7 @@ edgeR
 eds
 eiR
 eisaR
+enhancerHomologSearch
 enrichViewNet
 enrichplot
 ensembldb
@@ -1334,6 +1336,7 @@ epivizrServer
 epivizrStandalone
 erccdashboard
 erma
+esATAC
 escape
 escheR
 esetVis
@@ -1639,6 +1642,7 @@ minet
 minfi
 mirIntegrator
 mirTarRnaSeq
+missMethyl
 missRows
 mistyR
 mitch
@@ -1911,6 +1915,7 @@ scFeatureFilter
 scGPS
 scHOT
 scMET
+scMerge
 scMitoMut
 scMultiSim
 scPCA
@@ -2134,6 +2139,7 @@ xcore
 xenLite
 xmapbridge
 yamss
+yarn
 zFPKM
 zellkonverter
 zenith

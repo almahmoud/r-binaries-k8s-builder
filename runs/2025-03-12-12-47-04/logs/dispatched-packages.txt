@@ -2168,3 +2168,8 @@ decontX
 MAGAR
 methodical
 methylclock
+DMRcate
+MEAL
+methylGSA
+netZooR
+singleCellTK

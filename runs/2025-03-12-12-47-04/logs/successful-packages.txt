@@ -2110,3 +2110,9 @@ pipeComp
 RiboCrypt
 scTreeViz
 spatzie
+enhancerHomologSearch
+esATAC
+missMethyl
+R3CPET
+scMerge
+yarn
