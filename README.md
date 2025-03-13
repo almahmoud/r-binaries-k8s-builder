@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2093 packages built successfully
+- 2094 packages built successfully
 - 30 packages failed to build
-- 110 packages not yet processed
+- 109 packages not yet processed
 
 ## Failed Builds (30)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -42,7 +42,7 @@
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/bandle/build-fail.log)        | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bandle)     | Build failed with unknown error     |
 
-## Successfully Built (2093)
+## Successfully Built (2094)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2138,8 +2138,9 @@
 | [spillR](https://bioconductor.org/packages/3.20/bioc/html/spillR.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/spillR/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spillR)                      |
 | [biscuiteer](https://bioconductor.org/packages/3.20/bioc/html/biscuiteer.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/biscuiteer/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/biscuiteer)                  |
 | [msgbsR](https://bioconductor.org/packages/3.20/bioc/html/msgbsR.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/msgbsR/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/msgbsR)                      |
+| [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/ribosomeProfilingQC/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ribosomeProfilingQC)         |
 
-## Not Yet Processed (110)
+## Not Yet Processed (109)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2234,7 +2235,6 @@
 | [pipeComp](https://bioconductor.org/packages/3.20/bioc/html/pipeComp.html)                                     | Unprocessed |
 | [preciseTAD](https://bioconductor.org/packages/3.20/bioc/html/preciseTAD.html)                                 | Unprocessed |
 | [puma](https://bioconductor.org/packages/3.20/bioc/html/puma.html)                                             | Unprocessed |
-| [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)               | Unprocessed |
 | [scDD](https://bioconductor.org/packages/3.20/bioc/html/scDD.html)                                             | Unprocessed |
 | [scDDboost](https://bioconductor.org/packages/3.20/bioc/html/scDDboost.html)                                   | Unprocessed |
 | [scDblFinder](https://bioconductor.org/packages/3.20/bioc/html/scDblFinder.html)                               | Unprocessed |

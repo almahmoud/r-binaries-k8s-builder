@@ -1854,6 +1854,7 @@ rhdf5filters
 rhinotypeR
 riboSeqR
 ribor
+ribosomeProfilingQC
 rifi
 rifiComparative
 rmelting
