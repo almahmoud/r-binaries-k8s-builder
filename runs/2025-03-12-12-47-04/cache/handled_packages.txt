@@ -634,6 +634,7 @@ PCAN
 PCAtools
 PECA
 PICS
+PING
 PIPETS
 PIUMA
 PLPE
@@ -672,6 +673,7 @@ ProtGenerics
 ProteoDisco
 ProteoMM
 PureCN
+Pviz
 QDNAseq
 QFeatures
 QSutils
