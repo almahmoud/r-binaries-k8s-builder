@@ -343,6 +343,7 @@ MSstatsPTM
 MSstatsShiny
 MSstatsTMT
 MVCClass
+MWASTools
 Maaslin2
 Macarron
 MantelCorr
@@ -731,6 +732,7 @@ dStruct
 daMA
 dcGSA
 dcanr
+dce
 ddCt
 dearseq
 debCAM
@@ -1091,6 +1093,7 @@ rrvgo
 rsbml
 rsemmed
 runibic
+sRACIPE
 sSNAPPY
 sSeq
 sagenhaft
@@ -1141,6 +1144,7 @@ snapcount
 snifter
 snm
 snpStats
+sparrow
 sparseMatrixStats
 sparsenetgls
 specL

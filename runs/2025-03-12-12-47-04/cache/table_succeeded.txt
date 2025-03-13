@@ -1196,3 +1196,7 @@
 ['[gep2pep](https://bioconductor.org/packages/3.20/bioc/html/gep2pep.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/gep2pep/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gep2pep)']
 ['[reconsi](https://bioconductor.org/packages/3.20/bioc/html/reconsi.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/reconsi/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/reconsi)']
 ['[multiGSEA](https://bioconductor.org/packages/3.20/bioc/html/multiGSEA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/multiGSEA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multiGSEA)']
+['[MWASTools](https://bioconductor.org/packages/3.20/bioc/html/MWASTools.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MWASTools/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MWASTools)']
+['[dce](https://bioconductor.org/packages/3.20/bioc/html/dce.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/dce/build-success.log)', '[ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dce)']
+['[sRACIPE](https://bioconductor.org/packages/3.20/bioc/html/sRACIPE.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/sRACIPE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sRACIPE)']
+['[sparrow](https://bioconductor.org/packages/3.20/bioc/html/sparrow.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/sparrow/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sparrow)']

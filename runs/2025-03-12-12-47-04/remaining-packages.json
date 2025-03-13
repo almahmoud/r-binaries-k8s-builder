@@ -1351,7 +1351,6 @@
     "QFeatures",
     "AnnotationFilter"
   ],
-  "MWASTools": [],
   "MatrixQCvis": [
     "proDA"
   ],
@@ -1371,7 +1370,6 @@
   ],
   "MetaboSignal": [
     "hpar",
-    "MWASTools",
     "mygene",
     "ensembldb",
     "GenomicFeatures",
@@ -2911,7 +2909,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "dce": [],
   "ddPCRclust": [
     "flowPeaks"
   ],
@@ -4374,7 +4371,6 @@
     "MultiDataSet"
   ],
   "rtracklayer": [],
-  "sRACIPE": [],
   "safe": [],
   "saseR": [
     "ASpli",
@@ -4708,7 +4704,6 @@
   "spaSim": [
     "SpatialExperiment"
   ],
-  "sparrow": [],
   "spatialDE": [
     "SpatialExperiment"
   ],
