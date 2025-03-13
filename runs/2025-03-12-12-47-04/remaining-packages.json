@@ -491,7 +491,6 @@
     "GEOquery",
     "GenomicFeatures"
   ],
-  "ERSSA": [],
   "EWCE": [],
   "EpiCompare": [
     "ChIPseeker",
@@ -2202,7 +2201,6 @@
     "iSEEhex"
   ],
   "iSEEhex": [],
-  "iSEEpathways": [],
   "iSEEtree": [
     "miaViz",
     "mia",

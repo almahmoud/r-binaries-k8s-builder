@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1427 packages built successfully
+- 1429 packages built successfully
 - 22 packages failed to build
-- 784 packages not yet processed
+- 782 packages not yet processed
 
 ## Failed Builds (22)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -34,7 +34,7 @@
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 
-## Successfully Built (1427)
+## Successfully Built (1429)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1464,8 +1464,10 @@
 | [iSEEindex](https://bioconductor.org/packages/3.20/bioc/html/iSEEindex.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/iSEEindex/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iSEEindex)                  |
 | [lipidr](https://bioconductor.org/packages/3.20/bioc/html/lipidr.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/lipidr/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lipidr)                     |
 | [soGGi](https://bioconductor.org/packages/3.20/bioc/html/soGGi.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/soGGi/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/soGGi)                      |
+| [ERSSA](https://bioconductor.org/packages/3.20/bioc/html/ERSSA.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/ERSSA/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ERSSA)                      |
+| [iSEEpathways](https://bioconductor.org/packages/3.20/bioc/html/iSEEpathways.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/iSEEpathways/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iSEEpathways)               |
 
-## Not Yet Processed (784)
+## Not Yet Processed (782)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1579,7 +1581,6 @@
 | [EGSEA](https://bioconductor.org/packages/3.20/bioc/html/EGSEA.html)                                             | Unprocessed |
 | [ELMER](https://bioconductor.org/packages/3.20/bioc/html/ELMER.html)                                             | Unprocessed |
 | [ENmix](https://bioconductor.org/packages/3.20/bioc/html/ENmix.html)                                             | Unprocessed |
-| [ERSSA](https://bioconductor.org/packages/3.20/bioc/html/ERSSA.html)                                             | Unprocessed |
 | [EWCE](https://bioconductor.org/packages/3.20/bioc/html/EWCE.html)                                               | Unprocessed |
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)                                   | Unprocessed |
 | [EpiMix](https://bioconductor.org/packages/3.20/bioc/html/EpiMix.html)                                           | Unprocessed |
@@ -1995,7 +1996,6 @@
 | [iSEEde](https://bioconductor.org/packages/3.20/bioc/html/iSEEde.html)                                           | Unprocessed |
 | [iSEEfier](https://bioconductor.org/packages/3.20/bioc/html/iSEEfier.html)                                       | Unprocessed |
 | [iSEEhex](https://bioconductor.org/packages/3.20/bioc/html/iSEEhex.html)                                         | Unprocessed |
-| [iSEEpathways](https://bioconductor.org/packages/3.20/bioc/html/iSEEpathways.html)                               | Unprocessed |
 | [iSEEtree](https://bioconductor.org/packages/3.20/bioc/html/iSEEtree.html)                                       | Unprocessed |
 | [iSEEu](https://bioconductor.org/packages/3.20/bioc/html/iSEEu.html)                                             | Unprocessed |
 | [icetea](https://bioconductor.org/packages/3.20/bioc/html/icetea.html)                                           | Unprocessed |

@@ -1425,3 +1425,5 @@
 ['[iSEEindex](https://bioconductor.org/packages/3.20/bioc/html/iSEEindex.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/iSEEindex/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iSEEindex)']
 ['[lipidr](https://bioconductor.org/packages/3.20/bioc/html/lipidr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/lipidr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lipidr)']
 ['[soGGi](https://bioconductor.org/packages/3.20/bioc/html/soGGi.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/soGGi/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/soGGi)']
+['[ERSSA](https://bioconductor.org/packages/3.20/bioc/html/ERSSA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ERSSA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ERSSA)']
+['[iSEEpathways](https://bioconductor.org/packages/3.20/bioc/html/iSEEpathways.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/iSEEpathways/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iSEEpathways)']

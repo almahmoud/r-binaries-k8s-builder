@@ -214,6 +214,7 @@ EBarrays
 EBcoexpress
 EDIRquery
 EMDomics
+ERSSA
 EasyCellType
 EmpiricalBrownsMethod
 EnMCB
@@ -1034,6 +1035,7 @@ iPath
 iSEE
 iSEEhub
 iSEEindex
+iSEEpathways
 iSeq
 iasva
 ibh
