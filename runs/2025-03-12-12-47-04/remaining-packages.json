@@ -18,8 +18,6 @@
   "BatchQC": [
     "EBSeq"
   ],
-  "BayesSpace": [],
-  "CAFE": [],
   "CAGEr": [],
   "CAMERA": [
     "xcms"
@@ -37,8 +35,6 @@
     "flowPeaks"
   ],
   "CRISPRball": [],
-  "CellMixS": [],
-  "CelliD": [],
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
@@ -54,8 +50,6 @@
     "affxparser"
   ],
   "ChromSCape": [],
-  "CircSeqAlignTk": [],
-  "CiteFuse": [],
   "CopyNumberPlots": [
     "cn.mops"
   ],
@@ -145,9 +139,7 @@
   ],
   "R3CPET": [],
   "RNAAgeCalc": [],
-  "RegionalST": [
-    "BayesSpace"
-  ],
+  "RegionalST": [],
   "Repitools": [],
   "ReportingTools": [],
   "RiboCrypt": [],
@@ -171,7 +163,6 @@
   "Spaniel": [],
   "TFHAZ": [],
   "VAExprs": [],
-  "Voyager": [],
   "YAPSA": [
     "SomaticSignatures"
   ],
