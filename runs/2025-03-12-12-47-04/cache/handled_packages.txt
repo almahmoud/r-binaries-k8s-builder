@@ -50,6 +50,7 @@ BeadDataPackR
 BiFET
 BiGGR
 BiRewire
+BicARE
 BioCartaImage
 BioMVCClass
 BioNAR
@@ -269,6 +270,7 @@ ISAnalytics
 ISoLDE
 IWTomics
 Icens
+IgGeneUsage
 Informeasure
 InterCellar
 InteractiveComplexHeatmap
@@ -380,6 +382,7 @@ OLIN
 OLINgui
 OPWeight
 OSAT
+OVESEG
 OmicsMLRepoR
 Omixer
 OmnipathR
@@ -487,6 +490,7 @@ Rtreemix
 Rvisdiff
 S4Arrays
 S4Vectors
+SAIGEgds
 SANTA
 SBGNview
 SBMLR
@@ -617,6 +621,7 @@ banocc
 barcodetrackR
 basilisk
 basilisk.utils
+bayNorm
 baySeq
 bcSeq
 beadarray

@@ -209,7 +209,6 @@
   "BiSeq": [
     "rtracklayer"
   ],
-  "BicARE": [],
   "BindingSiteFinder": [
     "rtracklayer",
     "GenomicFeatures"
@@ -1201,7 +1200,6 @@
   "IdeoViz": [
     "rtracklayer"
   ],
-  "IgGeneUsage": [],
   "InPAS": [
     "BSgenome",
     "cleanUpdTSeq",
@@ -1597,7 +1595,6 @@
     "txdbmaker",
     "rtracklayer"
   ],
-  "OVESEG": [],
   "OmaDB": [
     "topGO"
   ],
@@ -2537,7 +2534,6 @@
     "ScaledMatrix",
     "beachmat"
   ],
-  "bayNorm": [],
   "beachmat": [],
   "beachmat.hdf5": [
     "beachmat"
@@ -3843,7 +3839,6 @@
   ],
   "miRNAmeConverter": [],
   "miRSM": [
-    "BicARE",
     "ReactomePA"
   ],
   "miRspongeR": [

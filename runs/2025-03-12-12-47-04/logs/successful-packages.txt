@@ -1148,3 +1148,7 @@ ccfindR
 isobar
 MultiAssayExperiment
 TCGAbiolinks
+bayNorm
+BicARE
+IgGeneUsage
+OVESEG
