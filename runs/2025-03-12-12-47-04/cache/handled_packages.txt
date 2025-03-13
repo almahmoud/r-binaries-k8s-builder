@@ -1041,6 +1041,7 @@ bumphunter
 cBioPortalData
 cTRAP
 calm
+canceR
 cancerclass
 cardelino
 casper

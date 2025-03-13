@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1893 packages built successfully
+- 1894 packages built successfully
 - 28 packages failed to build
-- 312 packages not yet processed
+- 311 packages not yet processed
 
 ## Failed Builds (28)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -40,7 +40,7 @@
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 
-## Successfully Built (1893)
+## Successfully Built (1894)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1936,8 +1936,9 @@
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/comapr/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/comapr)                      |
 | [cummeRbund](https://bioconductor.org/packages/3.20/bioc/html/cummeRbund.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/cummeRbund/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cummeRbund)                  |
 | [scCB2](https://bioconductor.org/packages/3.20/bioc/html/scCB2.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/scCB2/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scCB2)                       |
+| [canceR](https://bioconductor.org/packages/3.20/bioc/html/canceR.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/canceR/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/canceR)                      |
 
-## Not Yet Processed (312)
+## Not Yet Processed (311)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2090,7 +2091,6 @@
 | [biscuiteer](https://bioconductor.org/packages/3.20/bioc/html/biscuiteer.html)                                 | Unprocessed |
 | [broadSeq](https://bioconductor.org/packages/3.20/bioc/html/broadSeq.html)                                     | Unprocessed |
 | [cageminer](https://bioconductor.org/packages/3.20/bioc/html/cageminer.html)                                   | Unprocessed |
-| [canceR](https://bioconductor.org/packages/3.20/bioc/html/canceR.html)                                         | Unprocessed |
 | [celda](https://bioconductor.org/packages/3.20/bioc/html/celda.html)                                           | Unprocessed |
 | [chimeraviz](https://bioconductor.org/packages/3.20/bioc/html/chimeraviz.html)                                 | Unprocessed |
 | [chromVAR](https://bioconductor.org/packages/3.20/bioc/html/chromVAR.html)                                     | Unprocessed |
