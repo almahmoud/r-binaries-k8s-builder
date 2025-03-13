@@ -1996,3 +1996,5 @@ tadar
 trackViewer
 velociraptor
 spoon
+Xeva
+gDRimport

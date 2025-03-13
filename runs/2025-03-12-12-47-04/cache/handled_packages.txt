@@ -267,6 +267,7 @@ EBarrays
 EBcoexpress
 EDASeq
 EDIRquery
+EGAD
 EMDomics
 ERSSA
 EWCE
@@ -646,6 +647,7 @@ Pedixplorer
 PepSetTest
 PepsNMR
 PhIPData
+PharmacoGx
 PhenStat
 PhenoGeneRanker
 PhosR
@@ -1170,6 +1172,7 @@ epiNEM
 epialleleR
 epidecodeR
 epigenomix
+epigraHMM
 epistack
 epistasisGA
 epivizrServer
@@ -1794,6 +1797,7 @@ survcomp
 survtype
 sva
 svaNUMT
+svaRetro
 swfdr
 switchBox
 switchde
@@ -1879,6 +1883,7 @@ widgetTools
 wiggleplotr
 wpm
 wppi
+xcore
 xenLite
 xmapbridge
 yamss

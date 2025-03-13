@@ -168,7 +168,6 @@
   ],
   "DuplexDiscovereR": [],
   "EBSeq": [],
-  "EGAD": [],
   "EGSEA": [],
   "ELMER": [],
   "ENmix": [
@@ -329,7 +328,6 @@
     "EBSeq"
   ],
   "PING": [],
-  "PharmacoGx": [],
   "Prostar": [],
   "Pviz": [],
   "QuasR": [],
@@ -442,9 +440,7 @@
     "SpatialFeatureExperiment",
     "DropletUtils"
   ],
-  "Xeva": [
-    "PharmacoGx"
-  ],
+  "Xeva": [],
   "YAPSA": [
     "SomaticSignatures",
     "ggbio",
@@ -596,7 +592,6 @@
     "motifmatchr",
     "TFBSTools"
   ],
-  "epigraHMM": [],
   "epimutacions": [
     "minfi",
     "OrganismDbi"
@@ -656,12 +651,9 @@
     "minfi"
   ],
   "gDR": [
-    "gDRimport",
-    "PharmacoGx"
+    "gDRimport"
   ],
-  "gDRimport": [
-    "PharmacoGx"
-  ],
+  "gDRimport": [],
   "geomeTriD": [
     "trackViewer"
   ],
@@ -987,7 +979,6 @@
   "standR": [
     "RUVSeq"
   ],
-  "svaRetro": [],
   "tadar": [],
   "ternarynet": [],
   "trackViewer": [],
@@ -1013,7 +1004,6 @@
     "minfi"
   ],
   "xcms": [],
-  "xcore": [],
   "yarn": [
     "quantro",
     "minfi"

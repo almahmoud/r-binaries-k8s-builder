@@ -1860,3 +1860,8 @@ omicRexposome
 svaNUMT
 microSTASIS
 profileplyr
+EGAD
+epigraHMM
+PharmacoGx
+svaRetro
+xcore
