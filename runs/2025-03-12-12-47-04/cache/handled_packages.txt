@@ -1651,6 +1651,7 @@ mosbi
 mosdef
 motifStack
 motifTestR
+motifbreakR
 motifcounter
 motifmatchr
 mpra

@@ -2101,3 +2101,4 @@ IsoformSwitchAnalyzeR
 scDblFinder
 scDotPlot
 tricycle
+motifbreakR

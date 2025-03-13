@@ -2101,3 +2101,4 @@
 ['[scDblFinder](https://bioconductor.org/packages/3.20/bioc/html/scDblFinder.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scDblFinder/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scDblFinder)']
 ['[scDotPlot](https://bioconductor.org/packages/3.20/bioc/html/scDotPlot.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scDotPlot/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scDotPlot)']
 ['[tricycle](https://bioconductor.org/packages/3.20/bioc/html/tricycle.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/tricycle/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tricycle)']
+['[motifbreakR](https://bioconductor.org/packages/3.20/bioc/html/motifbreakR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/motifbreakR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifbreakR)']
