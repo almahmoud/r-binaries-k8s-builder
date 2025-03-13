@@ -1920,3 +1920,4 @@
 ['[Moonlight2R](https://bioconductor.org/packages/3.20/bioc/html/Moonlight2R.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Moonlight2R/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Moonlight2R)']
 ['[gmapR](https://bioconductor.org/packages/3.20/bioc/html/gmapR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/gmapR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gmapR)']
 ['[mitoClone2](https://bioconductor.org/packages/3.20/bioc/html/mitoClone2.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/mitoClone2/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mitoClone2)']
+['[escape](https://bioconductor.org/packages/3.20/bioc/html/escape.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/escape/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/escape)']

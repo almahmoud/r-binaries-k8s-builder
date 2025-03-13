@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1922 packages built successfully
+- 1923 packages built successfully
 - 29 packages failed to build
-- 282 packages not yet processed
+- 281 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -41,7 +41,7 @@
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 
-## Successfully Built (1922)
+## Successfully Built (1923)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1966,8 +1966,9 @@
 | [Moonlight2R](https://bioconductor.org/packages/3.20/bioc/html/Moonlight2R.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/Moonlight2R/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Moonlight2R)                 |
 | [gmapR](https://bioconductor.org/packages/3.20/bioc/html/gmapR.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/gmapR/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gmapR)                       |
 | [mitoClone2](https://bioconductor.org/packages/3.20/bioc/html/mitoClone2.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/mitoClone2/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mitoClone2)                  |
+| [escape](https://bioconductor.org/packages/3.20/bioc/html/escape.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/escape/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/escape)                      |
 
-## Not Yet Processed (282)
+## Not Yet Processed (281)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2141,7 +2142,6 @@
 | [epivizrStandalone](https://bioconductor.org/packages/3.20/bioc/html/epivizrStandalone.html)                   | Unprocessed |
 | [erma](https://bioconductor.org/packages/3.20/bioc/html/erma.html)                                             | Unprocessed |
 | [esATAC](https://bioconductor.org/packages/3.20/bioc/html/esATAC.html)                                         | Unprocessed |
-| [escape](https://bioconductor.org/packages/3.20/bioc/html/escape.html)                                         | Unprocessed |
 | [extraChIPs](https://bioconductor.org/packages/3.20/bioc/html/extraChIPs.html)                                 | Unprocessed |
 | [ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)                                             | Unprocessed |
 | [flagme](https://bioconductor.org/packages/3.20/bioc/html/flagme.html)                                         | Unprocessed |
