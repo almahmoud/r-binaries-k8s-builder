@@ -1267,6 +1267,7 @@ microRNA
 microbiomeDASim
 microbiomeExplorer
 midasHLA
+miloR
 mina
 minet
 mirIntegrator
@@ -1443,6 +1444,7 @@ rhinotypeR
 riboSeqR
 ribor
 rifi
+rifiComparative
 rmelting
 rmspc
 rnaseqcomp

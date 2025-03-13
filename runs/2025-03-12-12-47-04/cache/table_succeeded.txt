@@ -1620,3 +1620,5 @@
 ['[planttfhunter](https://bioconductor.org/packages/3.20/bioc/html/planttfhunter.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/planttfhunter/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/planttfhunter)']
 ['[GOpro](https://bioconductor.org/packages/3.20/bioc/html/GOpro.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GOpro/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GOpro)']
 ['[epidecodeR](https://bioconductor.org/packages/3.20/bioc/html/epidecodeR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/epidecodeR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epidecodeR)']
+['[miloR](https://bioconductor.org/packages/3.20/bioc/html/miloR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/miloR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miloR)']
+['[rifiComparative](https://bioconductor.org/packages/3.20/bioc/html/rifiComparative.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rifiComparative/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rifiComparative)']

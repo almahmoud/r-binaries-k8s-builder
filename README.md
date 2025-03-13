@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1622 packages built successfully
+- 1624 packages built successfully
 - 24 packages failed to build
-- 587 packages not yet processed
+- 585 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1622)
+## Successfully Built (1624)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1661,8 +1661,10 @@
 | [planttfhunter](https://bioconductor.org/packages/3.20/bioc/html/planttfhunter.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/planttfhunter/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/planttfhunter)              |
 | [GOpro](https://bioconductor.org/packages/3.20/bioc/html/GOpro.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/GOpro/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GOpro)                      |
 | [epidecodeR](https://bioconductor.org/packages/3.20/bioc/html/epidecodeR.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/epidecodeR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/epidecodeR)                 |
+| [miloR](https://bioconductor.org/packages/3.20/bioc/html/miloR.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/miloR/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miloR)                      |
+| [rifiComparative](https://bioconductor.org/packages/3.20/bioc/html/rifiComparative.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/rifiComparative/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rifiComparative)            |
 
-## Not Yet Processed (587)
+## Not Yet Processed (585)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -2100,7 +2102,6 @@
 | [microSTASIS](https://bioconductor.org/packages/3.20/bioc/html/microSTASIS.html)                                 | Unprocessed |
 | [microbiome](https://bioconductor.org/packages/3.20/bioc/html/microbiome.html)                                   | Unprocessed |
 | [microbiomeMarker](https://bioconductor.org/packages/3.20/bioc/html/microbiomeMarker.html)                       | Unprocessed |
-| [miloR](https://bioconductor.org/packages/3.20/bioc/html/miloR.html)                                             | Unprocessed |
 | [mimager](https://bioconductor.org/packages/3.20/bioc/html/mimager.html)                                         | Unprocessed |
 | [minfi](https://bioconductor.org/packages/3.20/bioc/html/minfi.html)                                             | Unprocessed |
 | [missMethyl](https://bioconductor.org/packages/3.20/bioc/html/missMethyl.html)                                   | Unprocessed |
@@ -2170,7 +2171,6 @@
 | [regutools](https://bioconductor.org/packages/3.20/bioc/html/regutools.html)                                     | Unprocessed |
 | [rgsepd](https://bioconductor.org/packages/3.20/bioc/html/rgsepd.html)                                           | Unprocessed |
 | [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)                 | Unprocessed |
-| [rifiComparative](https://bioconductor.org/packages/3.20/bioc/html/rifiComparative.html)                         | Unprocessed |
 | [rnaEditr](https://bioconductor.org/packages/3.20/bioc/html/rnaEditr.html)                                       | Unprocessed |
 | [rqt](https://bioconductor.org/packages/3.20/bioc/html/rqt.html)                                                 | Unprocessed |
 | [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                             | Unprocessed |

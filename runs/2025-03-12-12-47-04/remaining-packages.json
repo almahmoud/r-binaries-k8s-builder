@@ -2024,7 +2024,6 @@
   "microSTASIS": [],
   "microbiome": [],
   "microbiomeMarker": [],
-  "miloR": [],
   "mimager": [
     "oligo",
     "affxparser"
@@ -2319,7 +2318,6 @@
     "txdbmaker",
     "TFBSTools"
   ],
-  "rifiComparative": [],
   "rnaEditr": [
     "bumphunter",
     "GenomicFeatures"
