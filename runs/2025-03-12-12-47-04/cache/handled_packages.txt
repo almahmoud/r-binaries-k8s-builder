@@ -3,6 +3,7 @@ ABarray
 ACE
 ACME
 ADAM
+ADAMgui
 ADAPT
 ADImpute
 AGDEX
@@ -425,6 +426,7 @@ MsBackendRawFileReader
 MsBackendSql
 MsCoreUtils
 MsFeatures
+MuData
 Mulcom
 MultiAssayExperiment
 MultiDataSet
@@ -524,6 +526,7 @@ ROCpAI
 ROSeq
 ROTS
 ROntoTools
+RPA
 RProtoBufLib
 RRHO
 RSeqAn
@@ -734,6 +737,7 @@ basilisk.utils
 bayNorm
 baySeq
 bcSeq
+beachmat
 beadarray
 beer
 betaHMM

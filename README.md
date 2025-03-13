@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1373 packages built successfully
+- 1377 packages built successfully
 - 21 packages failed to build
-- 839 packages not yet processed
+- 835 packages not yet processed
 
 ## Failed Builds (21)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -33,7 +33,7 @@
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 
-## Successfully Built (1373)
+## Successfully Built (1377)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1409,11 +1409,14 @@
 | [sesame](https://bioconductor.org/packages/3.20/bioc/html/sesame.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/sesame/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sesame)                     |
 | [switchde](https://bioconductor.org/packages/3.20/bioc/html/switchde.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/switchde/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/switchde)                   |
 | [GloScope](https://bioconductor.org/packages/3.20/bioc/html/GloScope.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/GloScope/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GloScope)                   |
+| [ADAMgui](https://bioconductor.org/packages/3.20/bioc/html/ADAMgui.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/ADAMgui/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ADAMgui)                    |
+| [MuData](https://bioconductor.org/packages/3.20/bioc/html/MuData.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/MuData/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MuData)                     |
+| [RPA](https://bioconductor.org/packages/3.20/bioc/html/RPA.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/RPA/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RPA)                        |
+| [beachmat](https://bioconductor.org/packages/3.20/bioc/html/beachmat.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/beachmat/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/beachmat)                   |
 
-## Not Yet Processed (839)
+## Not Yet Processed (835)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
-| [ADAMgui](https://bioconductor.org/packages/3.20/bioc/html/ADAMgui.html)                                         | Unprocessed |
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
 | [AHMassBank](https://bioconductor.org/packages/3.20/bioc/html/AHMassBank.html)                                   | Unprocessed |
 | [APAlyzer](https://bioconductor.org/packages/3.20/bioc/html/APAlyzer.html)                                       | Unprocessed |
@@ -1653,7 +1656,6 @@
 | [MsDataHub](https://bioconductor.org/packages/3.20/bioc/html/MsDataHub.html)                                     | Unprocessed |
 | [MsExperiment](https://bioconductor.org/packages/3.20/bioc/html/MsExperiment.html)                               | Unprocessed |
 | [MsQuality](https://bioconductor.org/packages/3.20/bioc/html/MsQuality.html)                                     | Unprocessed |
-| [MuData](https://bioconductor.org/packages/3.20/bioc/html/MuData.html)                                           | Unprocessed |
 | [MultiBaC](https://bioconductor.org/packages/3.20/bioc/html/MultiBaC.html)                                       | Unprocessed |
 | [MultiRNAflow](https://bioconductor.org/packages/3.20/bioc/html/MultiRNAflow.html)                               | Unprocessed |
 | [MungeSumstats](https://bioconductor.org/packages/3.20/bioc/html/MungeSumstats.html)                             | Unprocessed |
@@ -1710,7 +1712,6 @@
 | [RNAmodR.AlkAnilineSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.AlkAnilineSeq.html)             | Unprocessed |
 | [RNAmodR.ML](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.ML.html)                                   | Unprocessed |
 | [RNAmodR.RiboMethSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.RiboMethSeq.html)                 | Unprocessed |
-| [RPA](https://bioconductor.org/packages/3.20/bioc/html/RPA.html)                                                 | Unprocessed |
 | [RSVSim](https://bioconductor.org/packages/3.20/bioc/html/RSVSim.html)                                           | Unprocessed |
 | [RTCGAToolbox](https://bioconductor.org/packages/3.20/bioc/html/RTCGAToolbox.html)                               | Unprocessed |
 | [RUVSeq](https://bioconductor.org/packages/3.20/bioc/html/RUVSeq.html)                                           | Unprocessed |
@@ -1823,7 +1824,6 @@
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)                                           | Unprocessed |
 | [basecallQC](https://bioconductor.org/packages/3.20/bioc/html/basecallQC.html)                                   | Unprocessed |
 | [batchelor](https://bioconductor.org/packages/3.20/bioc/html/batchelor.html)                                     | Unprocessed |
-| [beachmat](https://bioconductor.org/packages/3.20/bioc/html/beachmat.html)                                       | Unprocessed |
 | [beachmat.hdf5](https://bioconductor.org/packages/3.20/bioc/html/beachmat.hdf5.html)                             | Unprocessed |
 | [benchdamic](https://bioconductor.org/packages/3.20/bioc/html/benchdamic.html)                                   | Unprocessed |
 | [bigmelon](https://bioconductor.org/packages/3.20/bioc/html/bigmelon.html)                                       | Unprocessed |

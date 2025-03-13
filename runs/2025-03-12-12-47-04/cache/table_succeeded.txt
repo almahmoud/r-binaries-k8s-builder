@@ -1371,3 +1371,7 @@
 ['[sesame](https://bioconductor.org/packages/3.20/bioc/html/sesame.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/sesame/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sesame)']
 ['[switchde](https://bioconductor.org/packages/3.20/bioc/html/switchde.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/switchde/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/switchde)']
 ['[GloScope](https://bioconductor.org/packages/3.20/bioc/html/GloScope.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GloScope/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GloScope)']
+['[ADAMgui](https://bioconductor.org/packages/3.20/bioc/html/ADAMgui.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ADAMgui/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ADAMgui)']
+['[MuData](https://bioconductor.org/packages/3.20/bioc/html/MuData.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MuData/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MuData)']
+['[RPA](https://bioconductor.org/packages/3.20/bioc/html/RPA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/RPA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RPA)']
+['[beachmat](https://bioconductor.org/packages/3.20/bioc/html/beachmat.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/beachmat/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/beachmat)']

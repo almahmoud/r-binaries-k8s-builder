@@ -1559,3 +1559,10 @@ transcriptogramer
 treeclimbR
 wiggleplotr
 EnrichmentBrowser
+BiocSingular
+beachmat.hdf5
+glmGamPoi
+mbkmeans
+prebs
+scrapper
+scuttle

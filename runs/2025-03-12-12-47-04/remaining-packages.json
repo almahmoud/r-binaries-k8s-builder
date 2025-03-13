@@ -1,5 +1,4 @@
 {
-  "ADAMgui": [],
   "ADaCGH2": [
     "GLAD"
   ],
@@ -82,15 +81,13 @@
   "BASiCS": [
     "scran",
     "scuttle",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "BASiCStan": [
     "BASiCS",
     "glmGamPoi",
     "scran",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "BBCAnalyzer": [
@@ -138,14 +135,12 @@
     "EBSeq",
     "scran",
     "scuttle",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "BayesSpace": [
     "scater",
     "scran",
     "BiocSingular",
-    "beachmat",
     "scuttle"
   ],
   "BgeeCall": [
@@ -161,12 +156,9 @@
   "BioTIP": [
     "scran",
     "scuttle",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
-  "BiocSingular": [
-    "beachmat"
-  ],
+  "BiocSingular": [],
   "BubbleTree": [
     "biovizBase",
     "GenomicFeatures",
@@ -215,7 +207,6 @@
   "CATALYST": [
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "CBEA": [],
@@ -251,8 +242,7 @@
   "COCOA": [
     "MIRA",
     "bsseq",
-    "BSgenome",
-    "beachmat"
+    "BSgenome"
   ],
   "CODEX": [
     "BSgenome"
@@ -261,14 +251,12 @@
     "flowPeaks"
   ],
   "COTAN": [
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "CRISPRball": [
     "dittoSeq",
     "PCAtools",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "CRISPRseek": [
     "BSgenome"
@@ -295,13 +283,11 @@
   "CellMixS": [
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "CelliD": [
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "CexoR": [
@@ -322,7 +308,6 @@
     "methylumi",
     "lumi",
     "BSgenome",
-    "beachmat",
     "txdbmaker",
     "ensembldb",
     "biovizBase",
@@ -373,8 +358,7 @@
     "scran",
     "scater",
     "BiocSingular",
-    "scuttle",
-    "beachmat"
+    "scuttle"
   ],
   "CircSeqAlignTk": [
     "Rhisat2",
@@ -385,8 +369,7 @@
   "CiteFuse": [
     "scran",
     "scuttle",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "CleanUpRNAseq": [
     "BSgenome",
@@ -490,7 +473,6 @@
     "missMethyl",
     "Gviz",
     "BSgenome",
-    "beachmat",
     "GenomicFeatures",
     "ensembldb",
     "biovizBase",
@@ -504,8 +486,7 @@
   ],
   "DSS": [
     "bsseq",
-    "BSgenome",
-    "beachmat"
+    "BSgenome"
   ],
   "DaMiRseq": [
     "DESeq2",
@@ -527,8 +508,7 @@
   "DeMixT": [
     "DSS",
     "bsseq",
-    "BSgenome",
-    "beachmat"
+    "BSgenome"
   ],
   "DegCre": [
     "plotgardener",
@@ -540,8 +520,7 @@
     "txdbmaker"
   ],
   "DelayedTensor": [
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "DiffBind": [
     "systemPipeR",
@@ -552,7 +531,6 @@
   "Dino": [
     "BiocSingular",
     "scran",
-    "beachmat",
     "scuttle"
   ],
   "DominoEffect": [
@@ -561,7 +539,6 @@
     "GenomicFeatures"
   ],
   "DropletUtils": [
-    "beachmat",
     "scuttle"
   ],
   "DrugVsDisease": [
@@ -591,8 +568,7 @@
   "EGSEA": [
     "GSVA",
     "SpatialExperiment",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "ELMER": [
     "GenomicFeatures",
@@ -656,7 +632,6 @@
     "scuttle",
     "scran",
     "BSgenome",
-    "beachmat",
     "biovizBase",
     "VariantAnnotation",
     "OrganismDbi",
@@ -729,8 +704,7 @@
   ],
   "GSVA": [
     "SpatialExperiment",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "GUIDEseq": [
     "CRISPRseek",
@@ -929,7 +903,6 @@
   "M3Drop": [
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "MADSEQ": [
@@ -981,7 +954,6 @@
   "MEB": [
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "MEDIPS": [
@@ -991,13 +963,11 @@
     "mia",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "MIRA": [
     "bsseq",
-    "BSgenome",
-    "beachmat"
+    "BSgenome"
   ],
   "MIRit": [
     "DESeq2"
@@ -1016,13 +986,11 @@
   "MOSim": [
     "scran",
     "scuttle",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "MPAC": [
     "BiocSingular",
     "scran",
-    "beachmat",
     "scuttle"
   ],
   "MSnID": [
@@ -1117,7 +1085,6 @@
     "MsExperiment",
     "QFeatures"
   ],
-  "MuData": [],
   "MultiBaC": [],
   "MultiRNAflow": [
     "DESeq2"
@@ -1155,7 +1122,6 @@
   "NanoMethViz": [
     "BiocSingular",
     "bsseq",
-    "beachmat",
     "BSgenome"
   ],
   "NetActivity": [
@@ -1163,8 +1129,7 @@
   ],
   "NetPathMiner": [],
   "NewWave": [
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "NoRCE": [
     "GenomicFeatures"
@@ -1214,8 +1179,7 @@
   ],
   "PAST": [],
   "PCAtools": [
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "PING": [
     "Gviz",
@@ -1393,7 +1357,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RPA": [],
   "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils",
@@ -1421,8 +1384,7 @@
     "BayesSpace",
     "scran",
     "BiocSingular",
-    "scuttle",
-    "beachmat"
+    "scuttle"
   ],
   "Repitools": [
     "BSgenome"
@@ -1514,13 +1476,11 @@
   ],
   "SCANVIS": [],
   "SCArray": [
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "SCArray.sat": [
     "SCArray",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "SCOPE": [
     "BSgenome"
@@ -1552,8 +1512,7 @@
     "bsseq",
     "GenomicFeatures",
     "regioneR",
-    "BSgenome",
-    "beachmat"
+    "BSgenome"
   ],
   "SPIAT": [
     "SpatialExperiment",
@@ -1582,8 +1541,7 @@
   "SingleCellSignalR": [
     "scran",
     "scuttle",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "SingleMoleculeFootprinting": [
     "BSgenome",
@@ -1595,8 +1553,7 @@
     "VariantAnnotation"
   ],
   "SingleR": [
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "SomaticSignatures": [
     "VariantAnnotation",
@@ -1612,14 +1569,12 @@
     "scran",
     "SpatialExperiment",
     "scuttle",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "Spaniel": [
     "scater",
     "scran",
     "DropletUtils",
-    "beachmat",
     "scuttle",
     "BiocSingular"
   ],
@@ -1631,7 +1586,6 @@
   "SpatialFeatureExperiment": [
     "DropletUtils",
     "SpatialExperiment",
-    "beachmat",
     "scuttle"
   ],
   "SpectralTAD": [
@@ -1651,8 +1605,7 @@
     "escheR"
   ],
   "StabMap": [
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "Statial": [
     "SpatialExperiment",
@@ -1741,7 +1694,6 @@
   "VAExprs": [
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "VCFArray": [
@@ -1783,7 +1735,6 @@
     "SpatialFeatureExperiment",
     "SpatialExperiment",
     "DropletUtils",
-    "beachmat",
     "scuttle"
   ],
   "XDE": [],
@@ -1831,7 +1782,6 @@
   "airpart": [
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "alabaster": [
@@ -1906,13 +1856,9 @@
   "basecallQC": [],
   "batchelor": [
     "BiocSingular",
-    "scuttle",
-    "beachmat"
+    "scuttle"
   ],
-  "beachmat": [],
-  "beachmat.hdf5": [
-    "beachmat"
-  ],
+  "beachmat.hdf5": [],
   "benchdamic": [
     "DESeq2",
     "microbiome"
@@ -1953,7 +1899,6 @@
     "VariantAnnotation",
     "dmrseq",
     "BSgenome",
-    "beachmat",
     "bumphunter",
     "annotatr",
     "OrganismDbi",
@@ -1969,8 +1914,7 @@
   "borealis": [
     "bsseq",
     "DSS",
-    "BSgenome",
-    "beachmat"
+    "BSgenome"
   ],
   "branchpointer": [
     "BSgenome"
@@ -1981,8 +1925,7 @@
     "DESeq2"
   ],
   "bsseq": [
-    "BSgenome",
-    "beachmat"
+    "BSgenome"
   ],
   "bumphunter": [
     "GenomicFeatures"
@@ -2034,7 +1977,6 @@
     "scater",
     "scran",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "cellity": [],
@@ -2093,8 +2035,7 @@
   ],
   "clusterExperiment": [
     "BiocSingular",
-    "mbkmeans",
-    "beachmat"
+    "mbkmeans"
   ],
   "cn.farms": [
     "affxparser",
@@ -2130,7 +2071,6 @@
     "distinct",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "consICA": [],
@@ -2236,7 +2176,6 @@
     "CATALYST",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "cytomapper": [
@@ -2257,7 +2196,6 @@
     "mia",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "ddPCRclust": [
@@ -2276,7 +2214,6 @@
     "scater",
     "scran",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "deconvR": [
@@ -2334,7 +2271,6 @@
   "distinct": [
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "dittoSeq": [],
@@ -2344,8 +2280,7 @@
     "annotatr",
     "GenomicFeatures",
     "regioneR",
-    "BSgenome",
-    "beachmat"
+    "BSgenome"
   ],
   "doubletrouble": [
     "syntenet",
@@ -2353,7 +2288,6 @@
   ],
   "dreamlet": [
     "zenith",
-    "beachmat",
     "EnrichmentBrowser"
   ],
   "drugTargetInteractions": [
@@ -2399,7 +2333,6 @@
     "scran",
     "scuttle",
     "motifmatchr",
-    "beachmat",
     "BSgenome",
     "TFBSTools",
     "BiocSingular",
@@ -2409,7 +2342,6 @@
     "scran",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "epivizr": [
@@ -2462,8 +2394,7 @@
   "escape": [
     "GSVA",
     "SpatialExperiment",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "escheR": [
     "SpatialExperiment"
@@ -2588,9 +2519,7 @@
     "SpatialExperiment"
   ],
   "girafe": [],
-  "glmGamPoi": [
-    "beachmat"
-  ],
+  "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils",
     "GenomicFeatures"
@@ -2678,7 +2607,6 @@
     "mia",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "iSEEu": [
@@ -2708,8 +2636,7 @@
   "imcRtools": [
     "SpatialExperiment",
     "scuttle",
-    "cytomapper",
-    "beachmat"
+    "cytomapper"
   ],
   "immunoClust": [],
   "intansv": [
@@ -2748,13 +2675,11 @@
     "DESeq2",
     "DSS",
     "bsseq",
-    "BSgenome",
-    "beachmat"
+    "BSgenome"
   ],
   "kmcut": [],
   "lemur": [
-    "glmGamPoi",
-    "beachmat"
+    "glmGamPoi"
   ],
   "lineagespot": [
     "VariantAnnotation",
@@ -2776,8 +2701,7 @@
   "lute": [
     "scran",
     "scuttle",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "m6Aboost": [
     "BSgenome"
@@ -2809,9 +2733,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "mbkmeans": [
-    "beachmat"
-  ],
+  "mbkmeans": [],
   "meshr": [
     "Category"
   ],
@@ -2831,8 +2753,7 @@
     "GenomicFeatures",
     "txdbmaker",
     "bsseq",
-    "BSgenome",
-    "beachmat"
+    "BSgenome"
   ],
   "methInheritSim": [
     "methylKit",
@@ -2859,7 +2780,6 @@
     "plyranges",
     "bumphunter",
     "BSgenome",
-    "beachmat",
     "GenomicFeatures",
     "GEOquery"
   ],
@@ -2889,8 +2809,7 @@
   "methylSig": [
     "bsseq",
     "DSS",
-    "BSgenome",
-    "beachmat"
+    "BSgenome"
   ],
   "methylclock": [
     "minfi",
@@ -2918,7 +2837,6 @@
   "mia": [
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "miaSim": [],
@@ -2926,7 +2844,6 @@
     "mia",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "microRNA": [],
@@ -2939,8 +2856,7 @@
     "DESeq2"
   ],
   "miloR": [
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "mimager": [
     "oligo",
@@ -3004,8 +2920,7 @@
   "msImpute": [
     "scran",
     "scuttle",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "msgbsR": [
     "BSgenome",
@@ -3049,7 +2964,6 @@
   ],
   "mumosa": [
     "BiocSingular",
-    "beachmat",
     "scuttle",
     "scran",
     "batchelor"
@@ -3058,7 +2972,6 @@
     "DESeq2",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "muscle": [],
@@ -3093,8 +3006,7 @@
     "clusterExperiment",
     "BiocSingular",
     "mbkmeans",
-    "scuttle",
-    "beachmat"
+    "scuttle"
   ],
   "netZooR": [
     "yarn",
@@ -3121,8 +3033,7 @@
     "GSVA",
     "GenomicFeatures",
     "SpatialExperiment",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "odseq": [],
   "oligo": [
@@ -3142,8 +3053,7 @@
   "oppar": [
     "GSVA",
     "SpatialExperiment",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "pRoloc": [
     "MSnbase",
@@ -3194,7 +3104,6 @@
   "peco": [
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "periodicDNA": [
@@ -3214,7 +3123,6 @@
     "scran",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "pipeFrame": [
@@ -3233,9 +3141,7 @@
     "BSgenome"
   ],
   "pram": [],
-  "prebs": [
-    "RPA"
-  ],
+  "prebs": [],
   "preciseTAD": [
     "rCGH",
     "GenomicFeatures"
@@ -3351,8 +3257,7 @@
   ],
   "regionalpcs": [
     "PCAtools",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "regioneR": [
     "BSgenome"
@@ -3412,15 +3317,13 @@
   ],
   "scCB2": [
     "DropletUtils",
-    "beachmat",
     "scuttle"
   ],
   "scDD": [
     "EBSeq",
     "scran",
     "scuttle",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "scDDboost": [
     "EBSeq",
@@ -3430,13 +3333,11 @@
     "BiocSingular",
     "scran",
     "scater",
-    "scuttle",
-    "beachmat"
+    "scuttle"
   ],
   "scDotPlot": [
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "scFeatures": [
@@ -3447,7 +3348,6 @@
     "SpatialExperiment",
     "BiocSingular",
     "scran",
-    "beachmat",
     "scuttle"
   ],
   "scGPS": [
@@ -3459,13 +3359,11 @@
     "scater",
     "batchelor",
     "scran",
-    "scuttle",
-    "beachmat"
+    "scuttle"
   ],
   "scPCA": [],
   "scPipe": [
     "DropletUtils",
-    "beachmat",
     "scuttle"
   ],
   "scRNAseqApp": [
@@ -3490,7 +3388,6 @@
     "GenomicFeatures",
     "ensembldb",
     "scuttle",
-    "beachmat",
     "BiocSingular",
     "txdbmaker"
   ],
@@ -3501,7 +3398,6 @@
   ],
   "scater": [
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "schex": [],
@@ -3513,8 +3409,7 @@
     "BSgenome",
     "annotatr",
     "GenomicFeatures",
-    "regioneR",
-    "beachmat"
+    "regioneR"
   ],
   "scone": [
     "RUVSeq",
@@ -3531,12 +3426,9 @@
   ],
   "scran": [
     "scuttle",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
-  "scrapper": [
-    "beachmat"
-  ],
+  "scrapper": [],
   "scruff": [
     "GenomicFeatures",
     "txdbmaker",
@@ -3548,16 +3440,12 @@
     "ensembldb"
   ],
   "scry": [
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
-  "scuttle": [
-    "beachmat"
-  ],
+  "scuttle": [],
   "scviR": [
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "segmentSeq": [],
@@ -3600,8 +3488,7 @@
     "GenomicFeatures"
   ],
   "simPIC": [
-    "scuttle",
-    "beachmat"
+    "scuttle"
   ],
   "simpleSeg": [
     "cytomapper",
@@ -3622,7 +3509,6 @@
     "TSCAN",
     "scuttle",
     "BiocSingular",
-    "beachmat",
     "GenomicFeatures",
     "SpatialExperiment",
     "M3Drop"
@@ -3679,18 +3565,15 @@
     "CATALYST",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "splatter": [
-    "scuttle",
-    "beachmat"
+    "scuttle"
   ],
   "spoon": [
     "SpatialExperiment",
     "nnSVG",
-    "scuttle",
-    "beachmat"
+    "scuttle"
   ],
   "squallms": [
     "xcms",
@@ -3793,8 +3676,7 @@
   ],
   "transcriptogramer": [],
   "transformGamPoi": [
-    "glmGamPoi",
-    "beachmat"
+    "glmGamPoi"
   ],
   "transmogR": [
     "BSgenome",
@@ -3809,7 +3691,6 @@
   "tricycle": [
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "txcutr": [
@@ -3836,8 +3717,7 @@
   ],
   "velociraptor": [
     "scuttle",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "vidger": [
     "DESeq2"
