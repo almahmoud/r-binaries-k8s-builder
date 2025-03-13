@@ -1928,3 +1928,6 @@
 ['[Prostar](https://bioconductor.org/packages/3.20/bioc/html/Prostar.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Prostar/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Prostar)']
 ['[RiboDiPA](https://bioconductor.org/packages/3.20/bioc/html/RiboDiPA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/RiboDiPA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RiboDiPA)']
 ['[msmsTests](https://bioconductor.org/packages/3.20/bioc/html/msmsTests.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/msmsTests/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/msmsTests)']
+['[RCAS](https://bioconductor.org/packages/3.20/bioc/html/RCAS.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/RCAS/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RCAS)']
+['[mygene](https://bioconductor.org/packages/3.20/bioc/html/mygene.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/mygene/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mygene)']
+['[proBAMr](https://bioconductor.org/packages/3.20/bioc/html/proBAMr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/proBAMr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/proBAMr)']

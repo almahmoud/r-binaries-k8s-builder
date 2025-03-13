@@ -700,6 +700,7 @@ RBGL
 RBM
 RBioFormats
 RBioinf
+RCAS
 RCASPAR
 RCM
 RCSL
@@ -1539,6 +1540,7 @@ multistateQTL
 multtest
 muscle
 musicatk
+mygene
 myvariant
 mzID
 mzR
@@ -1640,6 +1642,7 @@ pqsfinder
 pram
 prebs
 preprocessCore
+proBAMr
 proDA
 procoil
 profileScoreDist

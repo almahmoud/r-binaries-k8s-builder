@@ -181,9 +181,7 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "GenomicPlot": [
-    "RCAS"
-  ],
+  "GenomicPlot": [],
   "GrafGen": [],
   "HIBAG": [],
   "HiCDCPlus": [],
@@ -244,9 +242,7 @@
   "MetaboAnnotation": [
     "CompoundDb"
   ],
-  "MetaboSignal": [
-    "mygene"
-  ],
+  "MetaboSignal": [],
   "MethReg": [],
   "MethylAid": [
     "minfi"
@@ -271,7 +267,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "RCAS": [],
   "REDseq": [],
   "REMP": [
     "minfi"
@@ -648,7 +643,6 @@
     "scater"
   ],
   "muscle": [],
-  "mygene": [],
   "ncGTW": [
     "xcms"
   ],
@@ -691,7 +685,6 @@
   ],
   "primirTSS": [],
   "proActiv": [],
-  "proBAMr": [],
   "psichomics": [
     "recount"
   ],

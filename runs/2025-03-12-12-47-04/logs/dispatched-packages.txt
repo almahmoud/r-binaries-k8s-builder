@@ -2040,3 +2040,5 @@ geomeTriD
 MSnID
 RiboCrypt
 TFHAZ
+GenomicPlot
+MetaboSignal
