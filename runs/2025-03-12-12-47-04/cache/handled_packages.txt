@@ -1092,6 +1092,7 @@ apComplex
 apeglm
 appreci8R
 aroma.light
+arrayMvout
 arrayQuality
 arrayQualityMetrics
 artMS
@@ -1272,6 +1273,7 @@ dStruct
 daMA
 dada2
 dagLogo
+dar
 dcGSA
 dcanr
 dce

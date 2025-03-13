@@ -2143,3 +2143,5 @@
 ['[ffpe](https://bioconductor.org/packages/3.20/bioc/html/ffpe.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ffpe/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ffpe)']
 ['[iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/iCheck/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iCheck)']
 ['[miaViz](https://bioconductor.org/packages/3.20/bioc/html/miaViz.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/miaViz/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miaViz)']
+['[arrayMvout](https://bioconductor.org/packages/3.20/bioc/html/arrayMvout.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/arrayMvout/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/arrayMvout)']
+['[dar](https://bioconductor.org/packages/3.20/bioc/html/dar.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/dar/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dar)']
