@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1170 packages built successfully
+- 1173 packages built successfully
 - 20 packages failed to build
-- 1043 packages not yet processed
+- 1040 packages not yet processed
 
 ## Failed Builds (20)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -32,7 +32,7 @@
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/cn.mops/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cn.mops)       | Build failed with unknown error     |
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 
-## Successfully Built (1170)
+## Successfully Built (1173)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1205,8 +1205,11 @@
 | [SplicingFactory](https://bioconductor.org/packages/3.20/bioc/html/SplicingFactory.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/SplicingFactory/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SplicingFactory)           |
 | [Trendy](https://bioconductor.org/packages/3.20/bioc/html/Trendy.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/Trendy/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Trendy)                    |
 | [trigger](https://bioconductor.org/packages/3.20/bioc/html/trigger.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/trigger/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/trigger)                   |
+| [ALDEx2](https://bioconductor.org/packages/3.20/bioc/html/ALDEx2.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/ALDEx2/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ALDEx2)                    |
+| [ClusterFoldSimilarity](https://bioconductor.org/packages/3.20/bioc/html/ClusterFoldSimilarity.html)         | Built    | [Log](runs/2025-03-12-12-47-04/logs/ClusterFoldSimilarity/build-success.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ClusterFoldSimilarity)     |
+| [mogsa](https://bioconductor.org/packages/3.20/bioc/html/mogsa.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/mogsa/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mogsa)                     |
 
-## Not Yet Processed (1043)
+## Not Yet Processed (1040)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1216,7 +1219,6 @@
 | [ADImpute](https://bioconductor.org/packages/3.20/bioc/html/ADImpute.html)                                       | Unprocessed |
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
 | [AHMassBank](https://bioconductor.org/packages/3.20/bioc/html/AHMassBank.html)                                   | Unprocessed |
-| [ALDEx2](https://bioconductor.org/packages/3.20/bioc/html/ALDEx2.html)                                           | Unprocessed |
 | [AMARETTO](https://bioconductor.org/packages/3.20/bioc/html/AMARETTO.html)                                       | Unprocessed |
 | [APAlyzer](https://bioconductor.org/packages/3.20/bioc/html/APAlyzer.html)                                       | Unprocessed |
 | [APL](https://bioconductor.org/packages/3.20/bioc/html/APL.html)                                                 | Unprocessed |
@@ -1314,7 +1316,6 @@
 | [CleanUpRNAseq](https://bioconductor.org/packages/3.20/bioc/html/CleanUpRNAseq.html)                             | Unprocessed |
 | [CluMSID](https://bioconductor.org/packages/3.20/bioc/html/CluMSID.html)                                         | Unprocessed |
 | [ClustIRR](https://bioconductor.org/packages/3.20/bioc/html/ClustIRR.html)                                       | Unprocessed |
-| [ClusterFoldSimilarity](https://bioconductor.org/packages/3.20/bioc/html/ClusterFoldSimilarity.html)             | Unprocessed |
 | [Cogito](https://bioconductor.org/packages/3.20/bioc/html/Cogito.html)                                           | Unprocessed |
 | [CompoundDb](https://bioconductor.org/packages/3.20/bioc/html/CompoundDb.html)                                   | Unprocessed |
 | [CopyNumberPlots](https://bioconductor.org/packages/3.20/bioc/html/CopyNumberPlots.html)                         | Unprocessed |
@@ -1988,7 +1989,6 @@
 | [mitoClone2](https://bioconductor.org/packages/3.20/bioc/html/mitoClone2.html)                                   | Unprocessed |
 | [moanin](https://bioconductor.org/packages/3.20/bioc/html/moanin.html)                                           | Unprocessed |
 | [mobileRNA](https://bioconductor.org/packages/3.20/bioc/html/mobileRNA.html)                                     | Unprocessed |
-| [mogsa](https://bioconductor.org/packages/3.20/bioc/html/mogsa.html)                                             | Unprocessed |
 | [monaLisa](https://bioconductor.org/packages/3.20/bioc/html/monaLisa.html)                                       | Unprocessed |
 | [mosdef](https://bioconductor.org/packages/3.20/bioc/html/mosdef.html)                                           | Unprocessed |
 | [motifStack](https://bioconductor.org/packages/3.20/bioc/html/motifStack.html)                                   | Unprocessed |

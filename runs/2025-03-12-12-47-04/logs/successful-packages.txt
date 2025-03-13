@@ -1168,3 +1168,6 @@ pgxRpi
 SplicingFactory
 Trendy
 trigger
+ALDEx2
+ClusterFoldSimilarity
+mogsa

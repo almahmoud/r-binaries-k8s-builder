@@ -3,6 +3,7 @@ ABarray
 ACME
 AGDEX
 AIMS
+ALDEx2
 AMOUNTAIN
 ANCOMBC
 ANF
@@ -118,6 +119,7 @@ ChemmineR
 Chicago
 Clomial
 ClustAll
+ClusterFoldSimilarity
 ClusterJudge
 ClusterSignificance
 CoCiteStats
@@ -939,6 +941,7 @@ mistyR
 mitch
 mixOmics
 mnem
+mogsa
 monocle
 mosaics
 mosbi
