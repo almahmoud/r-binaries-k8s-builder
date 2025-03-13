@@ -325,6 +325,7 @@ EpipwR
 ExCluster
 ExiMiR
 ExperimentHub
+ExperimentHubData
 ExperimentSubset
 ExploreModelMatrix
 ExpressionAtlas
@@ -839,6 +840,7 @@ RiboDiPA
 RiboProfiling
 Rmagpie
 Rmmquant
+RnBeads
 RnaSeqSampleSize
 Rnits
 RolDE
@@ -1082,6 +1084,7 @@ arrayQuality
 arrayQualityMetrics
 artMS
 assorthead
+atSNP
 atena
 attract
 autonomics

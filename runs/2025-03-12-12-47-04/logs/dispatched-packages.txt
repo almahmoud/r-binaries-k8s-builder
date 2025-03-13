@@ -2165,3 +2165,6 @@ AgiMicroRna
 crisprShiny
 crisprVerse
 decontX
+MAGAR
+methodical
+methylclock

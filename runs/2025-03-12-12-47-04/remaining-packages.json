@@ -61,7 +61,6 @@
   "EventPointer": [
     "affxparser"
   ],
-  "ExperimentHubData": [],
   "GLAD": [],
   "GeDi": [],
   "GeneGeneInteR": [],
@@ -85,9 +84,7 @@
     "xcms",
     "CAMERA"
   ],
-  "MAGAR": [
-    "RnBeads"
-  ],
+  "MAGAR": [],
   "MAIT": [
     "CAMERA",
     "xcms"
@@ -117,7 +114,6 @@
   "R3CPET": [],
   "Repitools": [],
   "RiboCrypt": [],
-  "RnBeads": [],
   "Rtreemix": [],
   "SAIGEgds": [],
   "SCAN.UPC": [
@@ -136,7 +132,6 @@
   "arrayMvout": [
     "lumi"
   ],
-  "atSNP": [],
   "bandle": [],
   "bigmelon": [
     "wateRmelon",
@@ -212,9 +207,7 @@
     "methylKit",
     "fastseg"
   ],
-  "methodical": [
-    "ExperimentHubData"
-  ],
+  "methodical": [],
   "methylGSA": [
     "missMethyl"
   ],
@@ -225,9 +218,7 @@
   "methylKit": [
     "fastseg"
   ],
-  "methylclock": [
-    "ExperimentHubData"
-  ],
+  "methylclock": [],
   "mia": [],
   "miaViz": [
     "mia"
