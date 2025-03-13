@@ -1953,3 +1953,5 @@
 ['[rCGH](https://bioconductor.org/packages/3.20/bioc/html/rCGH.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rCGH/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rCGH)']
 ['[ExperimentSubset](https://bioconductor.org/packages/3.20/bioc/html/ExperimentSubset.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ExperimentSubset/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ExperimentSubset)']
 ['[saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/saseR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/saseR)']
+['[alabaster](https://bioconductor.org/packages/3.20/bioc/html/alabaster.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/alabaster/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster)']
+['[dittoSeq](https://bioconductor.org/packages/3.20/bioc/html/dittoSeq.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/dittoSeq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dittoSeq)']

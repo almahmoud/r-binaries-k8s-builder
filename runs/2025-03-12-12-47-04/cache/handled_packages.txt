@@ -979,6 +979,7 @@ affyio
 affylmGUI
 aggregateBioVar
 agilp
+alabaster
 alabaster.base
 alabaster.bumpy
 alabaster.files
@@ -1198,6 +1199,7 @@ diggit
 dinoR
 dir.expiry
 discordant
+dittoSeq
 divergence
 dks
 dominoSignal

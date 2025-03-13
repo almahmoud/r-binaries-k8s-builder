@@ -61,9 +61,7 @@
   "CONFESS": [
     "flowPeaks"
   ],
-  "CRISPRball": [
-    "dittoSeq"
-  ],
+  "CRISPRball": [],
   "CellMixS": [
     "scater"
   ],
@@ -270,9 +268,7 @@
   "SOMNiBUS": [
     "annotatr"
   ],
-  "SPIAT": [
-    "dittoSeq"
-  ],
+  "SPIAT": [],
   "SigsPack": [],
   "SingleCellSignalR": [],
   "SingleMoleculeFootprinting": [
@@ -305,7 +301,6 @@
   "airpart": [
     "scater"
   ],
-  "alabaster": [],
   "annotatr": [],
   "appreci8R": [],
   "arrayMvout": [
@@ -392,7 +387,6 @@
   "distinct": [
     "scater"
   ],
-  "dittoSeq": [],
   "dmrseq": [
     "annotatr"
   ],

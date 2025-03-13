@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1955 packages built successfully
+- 1957 packages built successfully
 - 29 packages failed to build
-- 249 packages not yet processed
+- 247 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -41,7 +41,7 @@
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 
-## Successfully Built (1955)
+## Successfully Built (1957)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1999,8 +1999,10 @@
 | [rCGH](https://bioconductor.org/packages/3.20/bioc/html/rCGH.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/rCGH/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rCGH)                        |
 | [ExperimentSubset](https://bioconductor.org/packages/3.20/bioc/html/ExperimentSubset.html)                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/ExperimentSubset/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ExperimentSubset)            |
 | [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/saseR/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/saseR)                       |
+| [alabaster](https://bioconductor.org/packages/3.20/bioc/html/alabaster.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/alabaster/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster)                   |
+| [dittoSeq](https://bioconductor.org/packages/3.20/bioc/html/dittoSeq.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/dittoSeq/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dittoSeq)                    |
 
-## Not Yet Processed (249)
+## Not Yet Processed (247)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2115,7 +2117,6 @@
 | [affyILM](https://bioconductor.org/packages/3.20/bioc/html/affyILM.html)                                       | Unprocessed |
 | [affycoretools](https://bioconductor.org/packages/3.20/bioc/html/affycoretools.html)                           | Unprocessed |
 | [airpart](https://bioconductor.org/packages/3.20/bioc/html/airpart.html)                                       | Unprocessed |
-| [alabaster](https://bioconductor.org/packages/3.20/bioc/html/alabaster.html)                                   | Unprocessed |
 | [annotatr](https://bioconductor.org/packages/3.20/bioc/html/annotatr.html)                                     | Unprocessed |
 | [appreci8R](https://bioconductor.org/packages/3.20/bioc/html/appreci8R.html)                                   | Unprocessed |
 | [arrayMvout](https://bioconductor.org/packages/3.20/bioc/html/arrayMvout.html)                                 | Unprocessed |
@@ -2146,7 +2147,6 @@
 | [deconvR](https://bioconductor.org/packages/3.20/bioc/html/deconvR.html)                                       | Unprocessed |
 | [derfinderPlot](https://bioconductor.org/packages/3.20/bioc/html/derfinderPlot.html)                           | Unprocessed |
 | [distinct](https://bioconductor.org/packages/3.20/bioc/html/distinct.html)                                     | Unprocessed |
-| [dittoSeq](https://bioconductor.org/packages/3.20/bioc/html/dittoSeq.html)                                     | Unprocessed |
 | [dmrseq](https://bioconductor.org/packages/3.20/bioc/html/dmrseq.html)                                         | Unprocessed |
 | [enhancerHomologSearch](https://bioconductor.org/packages/3.20/bioc/html/enhancerHomologSearch.html)           | Unprocessed |
 | [epimutacions](https://bioconductor.org/packages/3.20/bioc/html/epimutacions.html)                             | Unprocessed |
