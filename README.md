@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1748 packages built successfully
+- 1751 packages built successfully
 - 27 packages failed to build
-- 458 packages not yet processed
+- 455 packages not yet processed
 
 ## Failed Builds (27)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -39,7 +39,7 @@
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 
-## Successfully Built (1748)
+## Successfully Built (1751)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1790,8 +1790,11 @@
 | [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/VariantTools/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VariantTools)                |
 | [glmSparseNet](https://bioconductor.org/packages/3.20/bioc/html/glmSparseNet.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/glmSparseNet/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/glmSparseNet)                |
 | [scp](https://bioconductor.org/packages/3.20/bioc/html/scp.html)                                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/scp/build-success.log)                         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scp)                         |
+| [ProteoDisco](https://bioconductor.org/packages/3.20/bioc/html/ProteoDisco.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/ProteoDisco/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ProteoDisco)                 |
+| [Rqc](https://bioconductor.org/packages/3.20/bioc/html/Rqc.html)                                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/Rqc/build-success.log)                         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Rqc)                         |
+| [coMethDMR](https://bioconductor.org/packages/3.20/bioc/html/coMethDMR.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/coMethDMR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/coMethDMR)                   |
 
-## Not Yet Processed (458)
+## Not Yet Processed (455)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -1945,7 +1948,6 @@
 | [PharmacoGx](https://bioconductor.org/packages/3.20/bioc/html/PharmacoGx.html)                                 | Unprocessed |
 | [PrInCE](https://bioconductor.org/packages/3.20/bioc/html/PrInCE.html)                                         | Unprocessed |
 | [Prostar](https://bioconductor.org/packages/3.20/bioc/html/Prostar.html)                                       | Unprocessed |
-| [ProteoDisco](https://bioconductor.org/packages/3.20/bioc/html/ProteoDisco.html)                               | Unprocessed |
 | [Pviz](https://bioconductor.org/packages/3.20/bioc/html/Pviz.html)                                             | Unprocessed |
 | [QuasR](https://bioconductor.org/packages/3.20/bioc/html/QuasR.html)                                           | Unprocessed |
 | [R3CPET](https://bioconductor.org/packages/3.20/bioc/html/R3CPET.html)                                         | Unprocessed |
@@ -1969,7 +1971,6 @@
 | [RiboProfiling](https://bioconductor.org/packages/3.20/bioc/html/RiboProfiling.html)                           | Unprocessed |
 | [RnBeads](https://bioconductor.org/packages/3.20/bioc/html/RnBeads.html)                                       | Unprocessed |
 | [RnaSeqSampleSize](https://bioconductor.org/packages/3.20/bioc/html/RnaSeqSampleSize.html)                     | Unprocessed |
-| [Rqc](https://bioconductor.org/packages/3.20/bioc/html/Rqc.html)                                               | Unprocessed |
 | [SCAN.UPC](https://bioconductor.org/packages/3.20/bioc/html/SCAN.UPC.html)                                     | Unprocessed |
 | [SCArray.sat](https://bioconductor.org/packages/3.20/bioc/html/SCArray.sat.html)                               | Unprocessed |
 | [SGCP](https://bioconductor.org/packages/3.20/bioc/html/SGCP.html)                                             | Unprocessed |
@@ -2035,7 +2036,6 @@
 | [circRNAprofiler](https://bioconductor.org/packages/3.20/bioc/html/circRNAprofiler.html)                       | Unprocessed |
 | [cliqueMS](https://bioconductor.org/packages/3.20/bioc/html/cliqueMS.html)                                     | Unprocessed |
 | [cn.farms](https://bioconductor.org/packages/3.20/bioc/html/cn.farms.html)                                     | Unprocessed |
-| [coMethDMR](https://bioconductor.org/packages/3.20/bioc/html/coMethDMR.html)                                   | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                                         | Unprocessed |
 | [compEpiTools](https://bioconductor.org/packages/3.20/bioc/html/compEpiTools.html)                             | Unprocessed |
 | [concordexR](https://bioconductor.org/packages/3.20/bioc/html/concordexR.html)                                 | Unprocessed |

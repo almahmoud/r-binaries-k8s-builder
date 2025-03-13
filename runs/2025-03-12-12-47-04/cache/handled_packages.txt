@@ -614,6 +614,7 @@ Pirat
 PoDCall
 PolySTest
 ProtGenerics
+ProteoDisco
 ProteoMM
 PureCN
 QDNAseq
@@ -705,6 +706,7 @@ Rmagpie
 Rmmquant
 Rnits
 RolDE
+Rqc
 Rsamtools
 Rsubread
 Rtpca
@@ -1006,6 +1008,7 @@ cmapR
 cn.mops
 cnvGSA
 coGPS
+coMethDMR
 coRdon
 codelink
 cogena

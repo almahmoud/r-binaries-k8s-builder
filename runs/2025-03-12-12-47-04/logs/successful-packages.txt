@@ -1746,3 +1746,6 @@ pipeFrame
 VariantTools
 glmSparseNet
 scp
+coMethDMR
+ProteoDisco
+Rqc

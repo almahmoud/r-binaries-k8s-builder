@@ -513,7 +513,6 @@
     "DAPAR",
     "MSnbase"
   ],
-  "ProteoDisco": [],
   "Pviz": [
     "Gviz"
   ],
@@ -606,7 +605,6 @@
     "derfinder",
     "GEOquery"
   ],
-  "Rqc": [],
   "Rtreemix": [],
   "SAIGEgds": [],
   "SCAN.UPC": [
@@ -823,7 +821,6 @@
     "oligo"
   ],
   "cn.mops": [],
-  "coMethDMR": [],
   "comapr": [
     "Gviz"
   ],
