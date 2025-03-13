@@ -233,7 +233,6 @@
     "ScaledMatrix",
     "beachmat"
   ],
-  "BiocSklearn": [],
   "BubbleTree": [
     "biovizBase",
     "GenomicFeatures",
@@ -286,7 +285,6 @@
   "CAMERA": [
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -912,13 +910,11 @@
   "FastqCleaner": [
     "ShortRead"
   ],
-  "FeatSeekR": [],
   "FindIT2": [
     "rtracklayer",
     "GenomicFeatures",
     "MultiAssayExperiment"
   ],
-  "FuseSOM": [],
   "GA4GHclient": [
     "VariantAnnotation",
     "rtracklayer",
@@ -1208,7 +1204,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -1252,7 +1247,6 @@
     "BSgenome"
   ],
   "InteractionSet": [],
-  "IsoBayes": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
     "BSgenome",
@@ -1269,7 +1263,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -1313,7 +1306,6 @@
     "CAMERA",
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -1536,7 +1528,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "MsFeatures": [],
   "MsQuality": [
     "MsExperiment",
     "QFeatures",
@@ -1607,7 +1598,6 @@
     "DESeq2"
   ],
   "NetPathMiner": [],
-  "NetSAM": [],
   "NewWave": [
     "BiocSingular",
     "ScaledMatrix",
@@ -1677,7 +1667,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "PAIRADISE": [],
   "PAST": [
     "rtracklayer"
   ],
@@ -1728,7 +1717,6 @@
   "PeacoQC": [
     "flowWorkspace"
   ],
-  "PepSetTest": [],
   "PhIPData": [],
   "PharmacoGx": [
     "CoreGx",
@@ -2880,7 +2868,6 @@
     "xcms",
     "MSnbase",
     "PSMatch",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "MultiAssayExperiment",
@@ -2972,7 +2959,6 @@
   "cosmiq": [
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -3416,7 +3402,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -3851,7 +3836,6 @@
     "CAMERA",
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -4204,7 +4188,6 @@
   "ncGTW": [
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -4549,7 +4532,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "ramwas": [],
   "reconsi": [],
   "recount": [
     "derfinder",
@@ -5062,7 +5044,6 @@
     "MsExperiment",
     "QFeatures",
     "PSMatch",
-    "MsFeatures",
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
@@ -5315,7 +5296,6 @@
   ],
   "xcms": [
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",

@@ -68,6 +68,7 @@ BiocNeighbors
 BiocParallel
 BiocPkgTools
 BiocSet
+BiocSklearn
 BiocStyle
 BiocVersion
 BiocWorkflowTools
@@ -180,9 +181,11 @@ FGNet
 FISHalyseR
 FRGEpistasis
 FamAgg
+FeatSeekR
 FilterFFPE
 FitHiC
 FlowSOM
+FuseSOM
 GAprediction
 GBScleanR
 GDSArray
@@ -270,6 +273,7 @@ Informeasure
 InterCellar
 InteractiveComplexHeatmap
 IntramiRExploreR
+IsoBayes
 IsoCorrectoR
 IsoCorrectoRGUI
 KBoost
@@ -354,6 +358,7 @@ MsBackendMsp
 MsBackendRawFileReader
 MsBackendSql
 MsCoreUtils
+MsFeatures
 Mulcom
 MultiMed
 NCIgraph
@@ -364,6 +369,7 @@ NanoStringDiff
 NanoStringNCTools
 NanoTube
 NetPathMiner
+NetSAM
 NormalyzerDE
 NormqPCR
 NuPoP
@@ -381,6 +387,7 @@ OpenStats
 OrderedList
 PAA
 PADOG
+PAIRADISE
 PANR
 PCAN
 PICS
@@ -396,6 +403,7 @@ PWMEnrich
 Path2PPI
 PathNet
 Pedixplorer
+PepSetTest
 PepsNMR
 PhenStat
 PhenoGeneRanker
@@ -995,6 +1003,7 @@ rTRM
 rWikiPathways
 rain
 ramr
+ramwas
 randPack
 randRotation
 rawDiag

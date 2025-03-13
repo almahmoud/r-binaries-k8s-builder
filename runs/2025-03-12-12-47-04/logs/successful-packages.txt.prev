@@ -1126,3 +1126,12 @@ SPONGE
 CellScore
 SingleCellExperiment
 tRNA
+BiocSklearn
+FeatSeekR
+FuseSOM
+IsoBayes
+MsFeatures
+NetSAM
+PAIRADISE
+PepSetTest
+ramwas
