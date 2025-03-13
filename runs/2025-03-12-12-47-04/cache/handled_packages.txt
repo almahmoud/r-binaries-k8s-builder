@@ -674,6 +674,7 @@ RVS
 RadioGx
 RaggedExperiment
 RankProd
+RareVariantVis
 Rarr
 RbcBook1
 Rbec
@@ -1558,6 +1559,7 @@ rols
 ropls
 rprimer
 rpx
+rqt
 rqubic
 rrvgo
 rsbml

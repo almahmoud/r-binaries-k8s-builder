@@ -565,7 +565,6 @@
     "txdbmaker"
   ],
   "RUVSeq": [],
-  "RareVariantVis": [],
   "RegionalST": [
     "scater",
     "BayesSpace",
@@ -1382,7 +1381,6 @@
     "txdbmaker",
     "TFBSTools"
   ],
-  "rqt": [],
   "saseR": [
     "ASpli",
     "Gviz",

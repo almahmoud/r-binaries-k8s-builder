@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1739 packages built successfully
+- 1741 packages built successfully
 - 27 packages failed to build
-- 467 packages not yet processed
+- 465 packages not yet processed
 
 ## Failed Builds (27)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -39,7 +39,7 @@
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 
-## Successfully Built (1739)
+## Successfully Built (1741)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1781,8 +1781,10 @@
 | [UPDhmm](https://bioconductor.org/packages/3.20/bioc/html/UPDhmm.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/UPDhmm/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/UPDhmm)                      |
 | [StructuralVariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/StructuralVariantAnnotation.html) | Built    | [Log](runs/2025-03-12-12-47-04/logs/StructuralVariantAnnotation/build-success.log) | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/StructuralVariantAnnotation) |
 | [cardelino](https://bioconductor.org/packages/3.20/bioc/html/cardelino.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/cardelino/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cardelino)                   |
+| [RareVariantVis](https://bioconductor.org/packages/3.20/bioc/html/RareVariantVis.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/RareVariantVis/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RareVariantVis)              |
+| [rqt](https://bioconductor.org/packages/3.20/bioc/html/rqt.html)                                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/rqt/build-success.log)                         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rqt)                         |
 
-## Not Yet Processed (467)
+## Not Yet Processed (465)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -1951,7 +1953,6 @@
 | [RNAmodR.ML](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.ML.html)                                 | Unprocessed |
 | [RNAmodR.RiboMethSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.RiboMethSeq.html)               | Unprocessed |
 | [RUVSeq](https://bioconductor.org/packages/3.20/bioc/html/RUVSeq.html)                                         | Unprocessed |
-| [RareVariantVis](https://bioconductor.org/packages/3.20/bioc/html/RareVariantVis.html)                         | Unprocessed |
 | [RegionalST](https://bioconductor.org/packages/3.20/bioc/html/RegionalST.html)                                 | Unprocessed |
 | [ReportingTools](https://bioconductor.org/packages/3.20/bioc/html/ReportingTools.html)                         | Unprocessed |
 | [RgnTX](https://bioconductor.org/packages/3.20/bioc/html/RgnTX.html)                                           | Unprocessed |
@@ -2186,7 +2187,6 @@
 | [regutools](https://bioconductor.org/packages/3.20/bioc/html/regutools.html)                                   | Unprocessed |
 | [rgsepd](https://bioconductor.org/packages/3.20/bioc/html/rgsepd.html)                                         | Unprocessed |
 | [ribosomeProfilingQC](https://bioconductor.org/packages/3.20/bioc/html/ribosomeProfilingQC.html)               | Unprocessed |
-| [rqt](https://bioconductor.org/packages/3.20/bioc/html/rqt.html)                                               | Unprocessed |
 | [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                           | Unprocessed |
 | [scCB2](https://bioconductor.org/packages/3.20/bioc/html/scCB2.html)                                           | Unprocessed |
 | [scDD](https://bioconductor.org/packages/3.20/bioc/html/scDD.html)                                             | Unprocessed |
