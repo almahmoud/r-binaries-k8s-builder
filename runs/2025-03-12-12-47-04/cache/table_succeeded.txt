@@ -1956,3 +1956,5 @@
 ['[alabaster](https://bioconductor.org/packages/3.20/bioc/html/alabaster.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/alabaster/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster)']
 ['[dittoSeq](https://bioconductor.org/packages/3.20/bioc/html/dittoSeq.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/dittoSeq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dittoSeq)']
 ['[pRolocGUI](https://bioconductor.org/packages/3.20/bioc/html/pRolocGUI.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/pRolocGUI/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pRolocGUI)']
+['[ChIPexoQual](https://bioconductor.org/packages/3.20/bioc/html/ChIPexoQual.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ChIPexoQual/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ChIPexoQual)']
+['[scanMiRApp](https://bioconductor.org/packages/3.20/bioc/html/scanMiRApp.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scanMiRApp/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scanMiRApp)']

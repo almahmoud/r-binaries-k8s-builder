@@ -178,6 +178,7 @@ Cepo
 CexoR
 ChIPComp
 ChIPanalyser
+ChIPexoQual
 ChIPpeakAnno
 ChIPseeker
 ChIPseqR
@@ -1784,6 +1785,7 @@ scShapes
 scTGIF
 scTHI
 scanMiR
+scanMiRApp
 scatterHatch
 sccomp
 scde

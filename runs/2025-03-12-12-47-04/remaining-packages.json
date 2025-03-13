@@ -83,7 +83,6 @@
     "oligo",
     "affxparser"
   ],
-  "ChIPexoQual": [],
   "ChromSCape": [
     "scater"
   ],
@@ -607,7 +606,6 @@
     "epivizrData",
     "scater"
   ],
-  "scanMiRApp": [],
   "scater": [],
   "scmeth": [
     "annotatr"
