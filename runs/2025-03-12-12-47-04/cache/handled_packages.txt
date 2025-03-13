@@ -31,6 +31,7 @@ AUCell
 AWFisher
 AffiXcan
 AffyRNADegradation
+AgiMicroRna
 AllelicImbalance
 AlphaBeta
 AlphaMissenseR
@@ -394,6 +395,7 @@ GWAS.BAYES
 GWASTools
 GWENA
 GateFinder
+GeDi
 GenProSeq
 GenVisR
 GeneBreak
@@ -606,6 +608,7 @@ MetaboAnnotation
 MetaboCoreUtils
 MetaboSignal
 MethPed
+MethReg
 MethTargetedNGS
 MethylAid
 MethylMix
@@ -924,6 +927,7 @@ SimFFPE
 SingleCellAlleleExperiment
 SingleCellExperiment
 SingleCellSignalR
+SingleMoleculeFootprinting
 SingleR
 SomaticSignatures
 SpaNorm
@@ -1219,6 +1223,7 @@ compEpiTools
 compSPOT
 compcodeR
 concordexR
+condiments
 consICA
 consensus
 consensusDE
@@ -1239,6 +1244,7 @@ crisprBowtie
 crisprBwa
 crisprDesign
 crisprScore
+crisprVerse
 crisprViz
 crlmm
 csaw
@@ -1270,6 +1276,7 @@ dearseq
 debCAM
 debrowser
 decompTumor2Sig
+decontX
 decontam
 decoupleR
 deepSNV
@@ -1398,6 +1405,7 @@ funOmics
 funtooNorm
 gCrisprTools
 gDNAx
+gDR
 gDRcore
 gDRimport
 gDRstyle
@@ -1514,6 +1522,7 @@ iSeq
 iasva
 ibh
 icetea
+ideal
 idiogram
 idpr
 idr2d
@@ -1565,6 +1574,7 @@ loci2path
 logicFS
 lpNet
 lpsymphony
+lumi
 lute
 m6Aboost
 mBPCR
@@ -1629,6 +1639,7 @@ miRNAtap
 miRSM
 miRcomp
 miRspongeR
+mia
 miaSim
 microRNA
 microSTASIS
@@ -1752,8 +1763,10 @@ pathifier
 pathlinkR
 pathview
 pathwayPCA
+pcaExplorer
 pcaMethods
 peakPantheR
+peco
 pengls
 pepStat
 pepXMLTab
@@ -1914,6 +1927,7 @@ scDesign3
 scDiagnostics
 scDotPlot
 scFeatureFilter
+scFeatures
 scGPS
 scHOT
 scMET
@@ -1953,6 +1967,7 @@ screenCounter
 scruff
 scry
 scuttle
+scviR
 seahtrue
 sechm
 segmentSeq
