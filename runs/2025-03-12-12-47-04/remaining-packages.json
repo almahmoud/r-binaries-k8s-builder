@@ -151,7 +151,6 @@
     "oligo",
     "affxparser"
   ],
-  "IntEREst": [],
   "IsoformSwitchAnalyzeR": [
     "tximeta"
   ],

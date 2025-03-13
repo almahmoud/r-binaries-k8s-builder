@@ -1966,3 +1966,4 @@
 ['[RNAmodR.AlkAnilineSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.AlkAnilineSeq.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/RNAmodR.AlkAnilineSeq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RNAmodR.AlkAnilineSeq)']
 ['[recount](https://bioconductor.org/packages/3.20/bioc/html/recount.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/recount/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/recount)']
 ['[gwascat](https://bioconductor.org/packages/3.20/bioc/html/gwascat.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/gwascat/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gwascat)']
+['[IntEREst](https://bioconductor.org/packages/3.20/bioc/html/IntEREst.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/IntEREst/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/IntEREst)']

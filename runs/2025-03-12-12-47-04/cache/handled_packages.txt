@@ -462,6 +462,7 @@ IgGeneUsage
 InPAS
 InTAD
 Informeasure
+IntEREst
 InterCellar
 InteractionSet
 InteractiveComplexHeatmap

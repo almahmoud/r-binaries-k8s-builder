@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1968 packages built successfully
+- 1969 packages built successfully
 - 29 packages failed to build
-- 236 packages not yet processed
+- 235 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -41,7 +41,7 @@
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 
-## Successfully Built (1968)
+## Successfully Built (1969)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2012,8 +2012,9 @@
 | [RNAmodR.AlkAnilineSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.AlkAnilineSeq.html)             | Built    | [Log](runs/2025-03-12-12-47-04/logs/RNAmodR.AlkAnilineSeq/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RNAmodR.AlkAnilineSeq)       |
 | [recount](https://bioconductor.org/packages/3.20/bioc/html/recount.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/recount/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/recount)                     |
 | [gwascat](https://bioconductor.org/packages/3.20/bioc/html/gwascat.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/gwascat/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gwascat)                     |
+| [IntEREst](https://bioconductor.org/packages/3.20/bioc/html/IntEREst.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/IntEREst/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/IntEREst)                    |
 
-## Not Yet Processed (236)
+## Not Yet Processed (235)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2070,7 +2071,6 @@
 | [GenomicPlot](https://bioconductor.org/packages/3.20/bioc/html/GenomicPlot.html)                               | Unprocessed |
 | [IPO](https://bioconductor.org/packages/3.20/bioc/html/IPO.html)                                               | Unprocessed |
 | [ITALICS](https://bioconductor.org/packages/3.20/bioc/html/ITALICS.html)                                       | Unprocessed |
-| [IntEREst](https://bioconductor.org/packages/3.20/bioc/html/IntEREst.html)                                     | Unprocessed |
 | [IsoformSwitchAnalyzeR](https://bioconductor.org/packages/3.20/bioc/html/IsoformSwitchAnalyzeR.html)           | Unprocessed |
 | [LOBSTAHS](https://bioconductor.org/packages/3.20/bioc/html/LOBSTAHS.html)                                     | Unprocessed |
 | [M3Drop](https://bioconductor.org/packages/3.20/bioc/html/M3Drop.html)                                         | Unprocessed |
