@@ -4,9 +4,7 @@
   ],
   "AHMassBank": [],
   "ATACseqTFEA": [],
-  "AgiMicroRna": [
-    "affycoretools"
-  ],
+  "AgiMicroRna": [],
   "ArrayExpress": [
     "oligo",
     "affxparser"
@@ -107,7 +105,6 @@
   "MGnifyR": [
     "mia"
   ],
-  "MetaboSignal": [],
   "MethReg": [],
   "MineICA": [
     "lumi"
@@ -121,7 +118,6 @@
   "Repitools": [],
   "RiboCrypt": [],
   "RnBeads": [],
-  "RnaSeqSampleSize": [],
   "Rtreemix": [],
   "SAIGEgds": [],
   "SCAN.UPC": [
@@ -133,13 +129,10 @@
     "SCArray"
   ],
   "SingleMoleculeFootprinting": [],
-  "TFHAZ": [],
-  "YAPSA": [],
   "affxparser": [],
   "affyILM": [
     "affxparser"
   ],
-  "affycoretools": [],
   "arrayMvout": [
     "lumi"
   ],
@@ -154,8 +147,6 @@
     "EBSeq"
   ],
   "casper": [],
-  "celda": [],
-  "chromVAR": [],
   "cliqueMS": [
     "xcms"
   ],
@@ -168,23 +159,15 @@
   "cosmiq": [
     "xcms"
   ],
-  "crisprShiny": [
-    "crisprViz"
-  ],
-  "crisprVerse": [
-    "crisprViz"
-  ],
-  "crisprViz": [],
-  "cytofQC": [],
+  "crisprShiny": [],
+  "crisprVerse": [],
   "dar": [
     "mia"
   ],
   "ddPCRclust": [
     "flowPeaks"
   ],
-  "decontX": [
-    "celda"
-  ],
+  "decontX": [],
   "deconvR": [
     "methylKit",
     "fastseg"
@@ -192,8 +175,6 @@
   "eiR": [],
   "enhancerHomologSearch": [],
   "epiregulon": [],
-  "epiregulon.extra": [],
-  "epivizrStandalone": [],
   "esATAC": [],
   "extraChIPs": [],
   "fastseg": [],
@@ -217,14 +198,12 @@
   "iCheck": [
     "lumi"
   ],
-  "iNETgrate": [],
   "iSEEtree": [
     "miaViz",
     "mia"
   ],
   "ideal": [],
   "immunoClust": [],
-  "intansv": [],
   "lumi": [],
   "metaMS": [
     "CAMERA",
@@ -260,10 +239,8 @@
     "affxparser"
   ],
   "missMethyl": [],
-  "monaLisa": [],
   "motifbreakR": [],
   "msgbsR": [],
-  "muscat": [],
   "muscle": [],
   "ncGTW": [
     "xcms"
@@ -308,7 +285,6 @@
   "scviR": [],
   "singleCellTK": [
     "scMerge",
-    "celda",
     "scDblFinder"
   ],
   "skewr": [
@@ -316,7 +292,6 @@
     "lumi"
   ],
   "spatzie": [],
-  "spillR": [],
   "squallms": [
     "xcms"
   ],

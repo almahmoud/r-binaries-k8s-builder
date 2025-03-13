@@ -2161,3 +2161,7 @@ spillR
 affycoretools
 condiments
 NADfinder
+AgiMicroRna
+crisprShiny
+crisprVerse
+decontX

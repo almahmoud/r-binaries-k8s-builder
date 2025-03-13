@@ -600,6 +600,7 @@ MetaNeighbor
 MetaPhOR
 MetaboAnnotation
 MetaboCoreUtils
+MetaboSignal
 MethPed
 MethTargetedNGS
 MethylAid
@@ -838,6 +839,7 @@ RiboDiPA
 RiboProfiling
 Rmagpie
 Rmmquant
+RnaSeqSampleSize
 Rnits
 RolDE
 Rqc
@@ -962,6 +964,7 @@ TEQC
 TFARM
 TFBSTools
 TFEA.ChIP
+TFHAZ
 TFutils
 TIN
 TMSig
@@ -1021,6 +1024,7 @@ XINA
 XNAString
 XVector
 Xeva
+YAPSA
 ZygosityPredictor
 a4
 a4Base
@@ -1039,6 +1043,7 @@ affy
 affyContam
 affyPLM
 affycomp
+affycoretools
 affyio
 affylmGUI
 aggregateBioVar
@@ -1152,6 +1157,7 @@ ccmap
 ccrepe
 ceRNAnetsim
 celaref
+celda
 cellbaseR
 cellity
 cellmigRation
@@ -1169,6 +1175,7 @@ chipseq
 chopsticks
 chromDraw
 chromPlot
+chromVAR
 chromstaR
 cicero
 circRNAprofiler
@@ -1223,6 +1230,7 @@ crisprBowtie
 crisprBwa
 crisprDesign
 crisprScore
+crisprViz
 crlmm
 csaw
 csdR
@@ -1237,6 +1245,7 @@ cydar
 cypress
 cytoKernel
 cytoMEM
+cytofQC
 cytolib
 cytomapper
 cytoviewer
@@ -1307,12 +1316,14 @@ epidecodeR
 epigenomix
 epigraHMM
 epimutacions
+epiregulon.extra
 epistack
 epistasisGA
 epivizr
 epivizrChart
 epivizrData
 epivizrServer
+epivizrStandalone
 erccdashboard
 erma
 escape
@@ -1476,6 +1487,7 @@ iCOBRA
 iChip
 iClusterPlus
 iGC
+iNETgrate
 iPath
 iSEE
 iSEEde
@@ -1503,6 +1515,7 @@ immunotation
 impute
 infercnv
 infinityFlow
+intansv
 interacCircos
 interactiveDisplay
 interactiveDisplayBase
@@ -1626,6 +1639,7 @@ mnem
 moanin
 mobileRNA
 mogsa
+monaLisa
 monocle
 mosaics
 mosbi
@@ -1652,6 +1666,7 @@ multiscan
 multistateQTL
 multtest
 mumosa
+muscat
 muscle
 musicatk
 mygene
@@ -1972,6 +1987,7 @@ speckle
 spicyR
 spikeLI
 spiky
+spillR
 spkTools
 splatter
 splineTimeR
