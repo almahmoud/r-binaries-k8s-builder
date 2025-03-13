@@ -731,6 +731,7 @@ SpaceMarkers
 SparseArray
 SparseSignatures
 SpatialDecon
+SpatialExperiment
 SpatialOmicsOverlay
 SpeCond
 Spectra

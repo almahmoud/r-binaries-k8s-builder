@@ -80,9 +80,7 @@
   "BadRegionFinder": [
     "VariantAnnotation"
   ],
-  "Banksy": [
-    "SpatialExperiment"
-  ],
+  "Banksy": [],
   "BatchQC": [
     "EBSeq",
     "scran",
@@ -169,16 +167,12 @@
     "dittoSeq"
   ],
   "CSSQ": [],
-  "CTSV": [
-    "SpatialExperiment"
-  ],
+  "CTSV": [],
   "CTdata": [],
   "CTexploreR": [
     "CTdata"
   ],
-  "CatsCradle": [
-    "SpatialExperiment"
-  ],
+  "CatsCradle": [],
   "CellBarcode": [],
   "CellMixS": [
     "scater",
@@ -285,9 +279,7 @@
     "regioneR",
     "ensembldb"
   ],
-  "DESpace": [
-    "SpatialExperiment"
-  ],
+  "DESpace": [],
   "DEsubs": [
     "EBSeq"
   ],
@@ -352,8 +344,7 @@
     "GEOquery"
   ],
   "EGSEA": [
-    "GSVA",
-    "SpatialExperiment"
+    "GSVA"
   ],
   "ELMER": [
     "Gviz",
@@ -383,15 +374,12 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "ExperimentSubset": [
-    "SpatialExperiment"
-  ],
+  "ExperimentSubset": [],
   "FLAMES": [
     "bambu",
     "DropletUtils",
     "txdbmaker",
     "ggbio",
-    "SpatialExperiment",
     "scater",
     "scuttle",
     "scran",
@@ -436,9 +424,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "GSVA": [
-    "SpatialExperiment"
-  ],
+  "GSVA": [],
   "GUIDEseq": [
     "ChIPpeakAnno",
     "regioneR",
@@ -649,9 +635,7 @@
     "bumphunter",
     "GEOquery"
   ],
-  "MoleculeExperiment": [
-    "SpatialExperiment"
-  ],
+  "MoleculeExperiment": [],
   "Moonlight2R": [
     "GEOquery",
     "EpiMix"
@@ -915,7 +899,6 @@
     "regioneR"
   ],
   "SPIAT": [
-    "SpatialExperiment",
     "dittoSeq"
   ],
   "SPLINTER": [
@@ -947,7 +930,6 @@
   ],
   "SpaNorm": [
     "scran",
-    "SpatialExperiment",
     "scuttle"
   ],
   "Spaniel": [
@@ -957,23 +939,16 @@
     "scuttle"
   ],
   "SpatialCPie": [],
-  "SpatialExperiment": [],
   "SpatialFeatureExperiment": [
     "DropletUtils",
-    "SpatialExperiment",
     "scuttle"
   ],
   "SplicingGraphs": [],
-  "SpotClean": [
-    "SpatialExperiment"
-  ],
+  "SpotClean": [],
   "SpotSweeper": [
-    "SpatialExperiment",
     "escheR"
   ],
-  "Statial": [
-    "SpatialExperiment"
-  ],
+  "Statial": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation"
   ],
@@ -1026,12 +1001,9 @@
   "VariantTools": [
     "VariantAnnotation"
   ],
-  "VisiumIO": [
-    "SpatialExperiment"
-  ],
+  "VisiumIO": [],
   "Voyager": [
     "SpatialFeatureExperiment",
-    "SpatialExperiment",
     "DropletUtils",
     "scuttle"
   ],
@@ -1071,12 +1043,9 @@
   "alabaster": [
     "alabaster.spatial",
     "alabaster.vcf",
-    "SpatialExperiment",
     "VariantAnnotation"
   ],
-  "alabaster.spatial": [
-    "SpatialExperiment"
-  ],
+  "alabaster.spatial": [],
   "alabaster.vcf": [
     "VariantAnnotation"
   ],
@@ -1234,9 +1203,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "concordexR": [
-    "SpatialExperiment"
-  ],
+  "concordexR": [],
   "condiments": [
     "distinct",
     "scater",
@@ -1302,12 +1269,9 @@
     "scater",
     "scuttle"
   ],
-  "cytomapper": [
-    "SpatialExperiment"
-  ],
+  "cytomapper": [],
   "cytoviewer": [
-    "cytomapper",
-    "SpatialExperiment"
+    "cytomapper"
   ],
   "dagLogo": [
     "motifStack",
@@ -1447,12 +1411,9 @@
     "motifmatchr"
   ],
   "escape": [
-    "GSVA",
-    "SpatialExperiment"
+    "GSVA"
   ],
-  "escheR": [
-    "SpatialExperiment"
-  ],
+  "escheR": [],
   "extraChIPs": [
     "GenomicInteractions",
     "Gviz",
@@ -1523,9 +1484,7 @@
     "txdbmaker"
   ],
   "ggsc": [],
-  "ggspavis": [
-    "SpatialExperiment"
-  ],
+  "ggspavis": [],
   "girafe": [],
   "glmSparseNet": [
     "TCGAutils"
@@ -1546,9 +1505,7 @@
   "gwasurvivr": [
     "VariantAnnotation"
   ],
-  "hoodscanR": [
-    "SpatialExperiment"
-  ],
+  "hoodscanR": [],
   "hummingbird": [],
   "iCNV": [],
   "iCheck": [
@@ -1584,7 +1541,6 @@
     "VariantAnnotation"
   ],
   "imcRtools": [
-    "SpatialExperiment",
     "scuttle",
     "cytomapper"
   ],
@@ -1613,8 +1569,7 @@
     "VariantAnnotation"
   ],
   "lisaClust": [
-    "spicyR",
-    "SpatialExperiment"
+    "spicyR"
   ],
   "lumi": [
     "methylumi",
@@ -1826,14 +1781,11 @@
     "bumphunter",
     "GEOquery"
   ],
-  "nnSVG": [
-    "SpatialExperiment"
-  ],
+  "nnSVG": [],
   "octad": [
     "RUVSeq",
     "EDASeq",
-    "GSVA",
-    "SpatialExperiment"
+    "GSVA"
   ],
   "oligo": [
     "affxparser"
@@ -1844,8 +1796,7 @@
   "omicRexposome": [],
   "openCyto": [],
   "oppar": [
-    "GSVA",
-    "SpatialExperiment"
+    "GSVA"
   ],
   "pRoloc": [
     "MSnbase"
@@ -2018,7 +1969,6 @@
     "GSVA",
     "ensembldb",
     "SingleCellSignalR",
-    "SpatialExperiment",
     "scran",
     "scuttle"
   ],
@@ -2055,9 +2005,7 @@
   "scater": [
     "scuttle"
   ],
-  "scider": [
-    "SpatialExperiment"
-  ],
+  "scider": [],
   "scmeth": [
     "annotatr",
     "regioneR"
@@ -2116,8 +2064,7 @@
     "scuttle"
   ],
   "simpleSeg": [
-    "cytomapper",
-    "SpatialExperiment"
+    "cytomapper"
   ],
   "singleCellTK": [
     "batchelor",
@@ -2130,7 +2077,6 @@
     "DropletUtils",
     "scDblFinder",
     "scuttle",
-    "SpatialExperiment",
     "M3Drop"
   ],
   "sitadela": [
@@ -2144,18 +2090,10 @@
     "GEOquery",
     "lumi"
   ],
-  "smoothclust": [
-    "SpatialExperiment"
-  ],
-  "spaSim": [
-    "SpatialExperiment"
-  ],
-  "spatialDE": [
-    "SpatialExperiment"
-  ],
-  "spatialSimGP": [
-    "SpatialExperiment"
-  ],
+  "smoothclust": [],
+  "spaSim": [],
+  "spatialDE": [],
+  "spatialSimGP": [],
   "spatzie": [
     "GenomicInteractions",
     "motifmatchr",
@@ -2165,9 +2103,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "spicyR": [
-    "SpatialExperiment"
-  ],
+  "spicyR": [],
   "spillR": [
     "CATALYST",
     "scater",
@@ -2177,7 +2113,6 @@
     "scuttle"
   ],
   "spoon": [
-    "SpatialExperiment",
     "nnSVG",
     "scuttle"
   ],
@@ -2185,11 +2120,8 @@
     "xcms",
     "MSnbase"
   ],
-  "stJoincount": [
-    "SpatialExperiment"
-  ],
+  "stJoincount": [],
   "standR": [
-    "SpatialExperiment",
     "RUVSeq",
     "EDASeq"
   ],
@@ -2218,16 +2150,12 @@
   "terraTCGAdata": [
     "TCGAutils"
   ],
-  "tidySpatialExperiment": [
-    "SpatialExperiment"
-  ],
+  "tidySpatialExperiment": [],
   "tidyomics": [],
   "topdownr": [
     "MSnbase"
   ],
-  "tpSVG": [
-    "SpatialExperiment"
-  ],
+  "tpSVG": [],
   "trackViewer": [
     "Gviz",
     "txdbmaker",
@@ -2286,9 +2214,7 @@
     "MSnbase"
   ],
   "xcore": [],
-  "xenLite": [
-    "SpatialExperiment"
-  ],
+  "xenLite": [],
   "yarn": [
     "quantro",
     "minfi",
