@@ -19,7 +19,6 @@
     "EBSeq"
   ],
   "BayesSpace": [],
-  "BioTIP": [],
   "CAFE": [],
   "CAGEr": [],
   "CAMERA": [
@@ -131,9 +130,7 @@
   "MGnifyR": [
     "mia"
   ],
-  "MOSim": [],
   "MSnID": [],
-  "MatrixRider": [],
   "MetaboSignal": [],
   "MethReg": [],
   "MineICA": [
@@ -343,7 +340,6 @@
     "oligo"
   ],
   "peco": [],
-  "phantasus": [],
   "pipeComp": [],
   "preciseTAD": [],
   "psichomics": [],
@@ -388,7 +384,6 @@
   "squallms": [
     "xcms"
   ],
-  "standR": [],
   "ternarynet": [],
   "tricycle": [],
   "vtpnet": [],

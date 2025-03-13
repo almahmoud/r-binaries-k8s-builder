@@ -92,6 +92,7 @@ BioNAR
 BioNERO
 BioNet
 BioQC
+BioTIP
 Biobase
 BiocBaseUtils
 BiocBook
@@ -537,6 +538,7 @@ MOFA2
 MOGAMUN
 MOMA
 MOSClip
+MOSim
 MPAC
 MPFE
 MPRAnalyze
@@ -562,6 +564,7 @@ MassArray
 MassSpecWavelet
 MatrixGenerics
 MatrixQCvis
+MatrixRider
 MeSHDbi
 MeasurementError.cor
 Melissa
@@ -1687,6 +1690,7 @@ periodicDNA
 pfamAnalyzeR
 pgca
 pgxRpi
+phantasus
 phantasusLite
 phenoTest
 phenomis
@@ -1939,6 +1943,7 @@ ssrch
 ssviz
 stJoincount
 stageR
+standR
 statTarget
 stepNorm
 strandCheckR
