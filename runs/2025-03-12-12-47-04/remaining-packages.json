@@ -21,7 +21,6 @@
   "CAMERA": [
     "xcms"
   ],
-  "CATALYST": [],
   "CNVfilteR": [
     "CopyNumberPlots",
     "cn.mops"
@@ -70,7 +69,6 @@
     "affxparser"
   ],
   "ExperimentHubData": [],
-  "FLAMES": [],
   "GLAD": [],
   "GeDi": [],
   "GeneGeneInteR": [],
@@ -129,11 +127,9 @@
   ],
   "R3CPET": [],
   "RNAAgeCalc": [],
-  "RegionalST": [],
   "Repitools": [],
   "ReportingTools": [],
   "RiboCrypt": [],
-  "RiboProfiling": [],
   "RnBeads": [],
   "RnaSeqSampleSize": [],
   "Rtreemix": [],
@@ -146,16 +142,11 @@
   "SCArray.sat": [
     "SCArray"
   ],
-  "SOMNiBUS": [],
   "SPIAT": [],
   "SingleMoleculeFootprinting": [],
-  "SomaticSignatures": [],
   "Spaniel": [],
   "TFHAZ": [],
-  "VAExprs": [],
-  "YAPSA": [
-    "SomaticSignatures"
-  ],
+  "YAPSA": [],
   "affxparser": [],
   "affyILM": [
     "affxparser"
@@ -163,7 +154,6 @@
   "affycoretools": [
     "ReportingTools"
   ],
-  "airpart": [],
   "arrayMvout": [
     "lumi"
   ],
@@ -173,9 +163,7 @@
     "wateRmelon",
     "lumi"
   ],
-  "biscuiteer": [
-    "dmrseq"
-  ],
+  "biscuiteer": [],
   "broadSeq": [
     "EBSeq"
   ],
@@ -205,10 +193,7 @@
     "crisprViz"
   ],
   "crisprViz": [],
-  "cytofQC": [
-    "CATALYST"
-  ],
-  "dagLogo": [],
+  "cytofQC": [],
   "dar": [
     "mia"
   ],
@@ -224,7 +209,6 @@
   ],
   "derfinderPlot": [],
   "distinct": [],
-  "dmrseq": [],
   "eiR": [],
   "enhancerHomologSearch": [],
   "epiregulon": [],
@@ -342,10 +326,8 @@
   "scFeatures": [],
   "scMerge": [],
   "scTreeViz": [],
-  "scmeth": [],
   "scruff": [],
   "scviR": [],
-  "shinyepico": [],
   "singleCellTK": [
     "scMerge",
     "celda",
@@ -356,9 +338,7 @@
     "lumi"
   ],
   "spatzie": [],
-  "spillR": [
-    "CATALYST"
-  ],
+  "spillR": [],
   "squallms": [
     "xcms"
   ],

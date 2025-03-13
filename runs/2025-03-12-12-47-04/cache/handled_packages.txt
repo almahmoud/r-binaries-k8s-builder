@@ -125,6 +125,7 @@ CAFE
 CAGEfightR
 CAGEr
 CARNIVAL
+CATALYST
 CBEA
 CBNplot
 CCPROMISE
@@ -327,6 +328,7 @@ FEAST
 FELLA
 FGNet
 FISHalyseR
+FLAMES
 FRASER
 FRGEpistasis
 FamAgg
@@ -815,6 +817,7 @@ ReadqPCR
 RedeR
 RedisParam
 RegEnrich
+RegionalST
 RepViz
 Repitools
 ResidualMatrix
@@ -825,6 +828,7 @@ Rhdf5lib
 Rhisat2
 Rhtslib
 RiboDiPA
+RiboProfiling
 Rmagpie
 Rmmquant
 Rnits
@@ -867,6 +871,7 @@ SNAGEE
 SNPRelate
 SNPediaR
 SNPhood
+SOMNiBUS
 SPEM
 SPIA
 SPLINTER
@@ -903,6 +908,7 @@ SingleCellAlleleExperiment
 SingleCellExperiment
 SingleCellSignalR
 SingleR
+SomaticSignatures
 SpaNorm
 SpaceMarkers
 SparseArray
@@ -984,6 +990,7 @@ UPDhmm
 Ularcirc
 UniProt.ws
 Uniquorn
+VAExprs
 VCFArray
 VDJdive
 VERSO
@@ -1027,6 +1034,7 @@ affyio
 affylmGUI
 aggregateBioVar
 agilp
+airpart
 alabaster
 alabaster.base
 alabaster.bumpy
@@ -1224,6 +1232,7 @@ cytoviewer
 dStruct
 daMA
 dada2
+dagLogo
 dcGSA
 dcanr
 dce
@@ -1256,6 +1265,7 @@ discordant
 dittoSeq
 divergence
 dks
+dmrseq
 dominoSignal
 doppelgangR
 doseR
@@ -1877,6 +1887,7 @@ schex
 scider
 scifer
 scmap
+scmeth
 scone
 scoreInvHap
 scoup
@@ -1907,6 +1918,7 @@ sevenC
 sevenbridges
 shiny.gosling
 shinyMethyl
+shinyepico
 sigFeature
 siggenes
 sights

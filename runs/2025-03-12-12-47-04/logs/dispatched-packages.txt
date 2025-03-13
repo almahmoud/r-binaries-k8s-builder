@@ -2154,3 +2154,7 @@ scmeth
 RegionalST
 GeDi
 scMerge
+YAPSA
+biscuiteer
+cytofQC
+spillR
