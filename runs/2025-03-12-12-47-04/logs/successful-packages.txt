@@ -2023,3 +2023,5 @@ tximeta
 GenomicPlot
 lute
 motifmatchr
+annotatr
+mumosa

@@ -167,9 +167,7 @@
   "SCArray.sat": [
     "SCArray"
   ],
-  "SOMNiBUS": [
-    "annotatr"
-  ],
+  "SOMNiBUS": [],
   "SPIAT": [],
   "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [],
@@ -188,7 +186,6 @@
     "ReportingTools"
   ],
   "airpart": [],
-  "annotatr": [],
   "arrayMvout": [
     "lumi"
   ],
@@ -199,8 +196,7 @@
     "lumi"
   ],
   "biscuiteer": [
-    "dmrseq",
-    "annotatr"
+    "dmrseq"
   ],
   "broadSeq": [
     "EBSeq"
@@ -250,9 +246,7 @@
   ],
   "derfinderPlot": [],
   "distinct": [],
-  "dmrseq": [
-    "annotatr"
-  ],
+  "dmrseq": [],
   "eiR": [],
   "enhancerHomologSearch": [],
   "epiregulon": [],
@@ -299,7 +293,6 @@
     "fastseg"
   ],
   "methodical": [
-    "annotatr",
     "ExperimentHubData"
   ],
   "methylGSA": [
@@ -328,7 +321,6 @@
   "monaLisa": [],
   "motifbreakR": [],
   "msgbsR": [],
-  "mumosa": [],
   "muscat": [],
   "muscle": [],
   "ncGTW": [
@@ -375,9 +367,7 @@
     "M3Drop"
   ],
   "scTreeViz": [],
-  "scmeth": [
-    "annotatr"
-  ],
+  "scmeth": [],
   "scruff": [],
   "scviR": [],
   "shinyepico": [],

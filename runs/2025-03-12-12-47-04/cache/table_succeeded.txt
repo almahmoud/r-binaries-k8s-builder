@@ -2023,3 +2023,5 @@
 ['[GenomicPlot](https://bioconductor.org/packages/3.20/bioc/html/GenomicPlot.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GenomicPlot/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicPlot)']
 ['[lute](https://bioconductor.org/packages/3.20/bioc/html/lute.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/lute/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lute)']
 ['[motifmatchr](https://bioconductor.org/packages/3.20/bioc/html/motifmatchr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/motifmatchr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifmatchr)']
+['[annotatr](https://bioconductor.org/packages/3.20/bioc/html/annotatr.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/annotatr/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/annotatr)']
+['[mumosa](https://bioconductor.org/packages/3.20/bioc/html/mumosa.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/mumosa/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mumosa)']

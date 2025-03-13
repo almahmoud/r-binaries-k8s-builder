@@ -1030,6 +1030,7 @@ annaffy
 annmap
 annotate
 annotationTools
+annotatr
 anota
 anota2seq
 antiProfiles
@@ -1609,6 +1610,7 @@ multicrispr
 multiscan
 multistateQTL
 multtest
+mumosa
 muscle
 musicatk
 mygene
