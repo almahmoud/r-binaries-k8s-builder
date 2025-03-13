@@ -24,6 +24,7 @@ ASSET
 ASSIGN
 ASURAT
 ASpli
+ATACseqQC
 AUCell
 AWFisher
 AffiXcan
@@ -273,6 +274,7 @@ DeconRNASeq
 DeepPINCS
 DeepTarget
 DegCre
+DegNorm
 DelayedArray
 DelayedDataFrame
 DelayedMatrixStats
@@ -562,6 +564,7 @@ MPFE
 MPRAnalyze
 MSA2dist
 MSPrep
+MSnID
 MSnbase
 MSstats
 MSstatsBig
@@ -767,6 +770,7 @@ RJMCMCNucleosomes
 RLMM
 RLassoCox
 RMassBank
+RNAAgeCalc
 RNASeqPower
 RNAdecay
 RNAmodR
@@ -877,6 +881,7 @@ SNPhood
 SOMNiBUS
 SPEM
 SPIA
+SPIAT
 SPLINTER
 SPONGE
 SPOTlight
@@ -1166,6 +1171,7 @@ chromDraw
 chromPlot
 chromstaR
 cicero
+circRNAprofiler
 cisPath
 cleanUpdTSeq
 cleaver
@@ -1256,6 +1262,7 @@ demuxmix
 densvis
 derfinder
 derfinderHelper
+derfinderPlot
 destiny
 diffGeneAnalysis
 diffHic
@@ -1763,6 +1770,7 @@ progeny
 projectR
 protGear
 proteinProfiles
+psichomics
 ptairMS
 pvac
 pvca
@@ -2074,6 +2082,7 @@ viper
 vissE
 vsclust
 vsn
+vtpnet
 waddR
 wavClusteR
 weaver

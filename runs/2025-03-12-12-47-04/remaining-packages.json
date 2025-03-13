@@ -3,7 +3,6 @@
     "GLAD"
   ],
   "AHMassBank": [],
-  "ATACseqQC": [],
   "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools"
@@ -53,7 +52,6 @@
   "DMRcate": [
     "missMethyl"
   ],
-  "DegNorm": [],
   "DiffBind": [],
   "DrugVsDisease": [
     "ArrayExpress",
@@ -109,21 +107,17 @@
   "MGnifyR": [
     "mia"
   ],
-  "MSnID": [],
   "MetaboSignal": [],
   "MethReg": [],
   "MineICA": [
     "lumi"
   ],
-  "NADfinder": [
-    "ATACseqQC"
-  ],
+  "NADfinder": [],
   "NetPathMiner": [],
   "Oscope": [
     "EBSeq"
   ],
   "R3CPET": [],
-  "RNAAgeCalc": [],
   "Repitools": [],
   "RiboCrypt": [],
   "RnBeads": [],
@@ -138,7 +132,6 @@
   "SCArray.sat": [
     "SCArray"
   ],
-  "SPIAT": [],
   "SingleMoleculeFootprinting": [],
   "TFHAZ": [],
   "YAPSA": [],
@@ -163,7 +156,6 @@
   "casper": [],
   "celda": [],
   "chromVAR": [],
-  "circRNAprofiler": [],
   "cliqueMS": [
     "xcms"
   ],
@@ -197,7 +189,6 @@
     "methylKit",
     "fastseg"
   ],
-  "derfinderPlot": [],
   "eiR": [],
   "enhancerHomologSearch": [],
   "epiregulon": [],
@@ -296,7 +287,6 @@
   "peco": [],
   "pipeComp": [],
   "preciseTAD": [],
-  "psichomics": [],
   "puma": [
     "oligo",
     "affxparser"
@@ -332,7 +322,6 @@
   ],
   "ternarynet": [],
   "tricycle": [],
-  "vtpnet": [],
   "vulcan": [
     "DiffBind"
   ],
