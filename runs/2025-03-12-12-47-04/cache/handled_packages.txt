@@ -380,6 +380,7 @@ IMMAN
 IMPCdata
 INDEED
 INPower
+INSPEcT
 INTACT
 IONiseR
 IRanges
