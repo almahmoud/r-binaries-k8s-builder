@@ -1561,3 +1561,6 @@
 ['[CellBench](https://bioconductor.org/packages/3.20/bioc/html/CellBench.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CellBench/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CellBench)']
 ['[EWCE](https://bioconductor.org/packages/3.20/bioc/html/EWCE.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/EWCE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EWCE)']
 ['[Melissa](https://bioconductor.org/packages/3.20/bioc/html/Melissa.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/Melissa/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Melissa)']
+['[VarCon](https://bioconductor.org/packages/3.20/bioc/html/VarCon.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/VarCon/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VarCon)']
+['[ccmap](https://bioconductor.org/packages/3.20/bioc/html/ccmap.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ccmap/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ccmap)']
+['[slingshot](https://bioconductor.org/packages/3.20/bioc/html/slingshot.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/slingshot/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/slingshot)']

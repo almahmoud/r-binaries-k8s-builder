@@ -758,6 +758,7 @@ UniProt.ws
 VDJdive
 VERSO
 VanillaICE
+VarCon
 VariantExperiment
 VegaMC
 VennDetail
@@ -869,6 +870,7 @@ cancerclass
 cbpManager
 ccImpute
 ccfindR
+ccmap
 ccrepe
 ceRNAnetsim
 celaref
@@ -1475,6 +1477,7 @@ sitePath
 sizepower
 sketchR
 slalom
+slingshot
 smartid
 snapcount
 snifter

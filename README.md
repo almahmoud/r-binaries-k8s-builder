@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1563 packages built successfully
+- 1566 packages built successfully
 - 24 packages failed to build
-- 646 packages not yet processed
+- 643 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1563)
+## Successfully Built (1566)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1602,8 +1602,11 @@
 | [CellBench](https://bioconductor.org/packages/3.20/bioc/html/CellBench.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/CellBench/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CellBench)                  |
 | [EWCE](https://bioconductor.org/packages/3.20/bioc/html/EWCE.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/EWCE/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EWCE)                       |
 | [Melissa](https://bioconductor.org/packages/3.20/bioc/html/Melissa.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/Melissa/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Melissa)                    |
+| [VarCon](https://bioconductor.org/packages/3.20/bioc/html/VarCon.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/VarCon/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VarCon)                     |
+| [ccmap](https://bioconductor.org/packages/3.20/bioc/html/ccmap.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/ccmap/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ccmap)                      |
+| [slingshot](https://bioconductor.org/packages/3.20/bioc/html/slingshot.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/slingshot/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/slingshot)                  |
 
-## Not Yet Processed (646)
+## Not Yet Processed (643)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1897,7 +1900,6 @@
 | [VAExprs](https://bioconductor.org/packages/3.20/bioc/html/VAExprs.html)                                         | Unprocessed |
 | [VCFArray](https://bioconductor.org/packages/3.20/bioc/html/VCFArray.html)                                       | Unprocessed |
 | [VaSP](https://bioconductor.org/packages/3.20/bioc/html/VaSP.html)                                               | Unprocessed |
-| [VarCon](https://bioconductor.org/packages/3.20/bioc/html/VarCon.html)                                           | Unprocessed |
 | [VariantAnnotation](https://bioconductor.org/packages/3.20/bioc/html/VariantAnnotation.html)                     | Unprocessed |
 | [VariantFiltering](https://bioconductor.org/packages/3.20/bioc/html/VariantFiltering.html)                       | Unprocessed |
 | [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                               | Unprocessed |
@@ -1937,7 +1939,6 @@
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)                                           | Unprocessed |
 | [categoryCompare](https://bioconductor.org/packages/3.20/bioc/html/categoryCompare.html)                         | Unprocessed |
 | [cbaf](https://bioconductor.org/packages/3.20/bioc/html/cbaf.html)                                               | Unprocessed |
-| [ccmap](https://bioconductor.org/packages/3.20/bioc/html/ccmap.html)                                             | Unprocessed |
 | [celda](https://bioconductor.org/packages/3.20/bioc/html/celda.html)                                             | Unprocessed |
 | [cfDNAPro](https://bioconductor.org/packages/3.20/bioc/html/cfDNAPro.html)                                       | Unprocessed |
 | [cfTools](https://bioconductor.org/packages/3.20/bioc/html/cfTools.html)                                         | Unprocessed |
@@ -2204,7 +2205,6 @@
 | [singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)                               | Unprocessed |
 | [sitadela](https://bioconductor.org/packages/3.20/bioc/html/sitadela.html)                                       | Unprocessed |
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                             | Unprocessed |
-| [slingshot](https://bioconductor.org/packages/3.20/bioc/html/slingshot.html)                                     | Unprocessed |
 | [smoothclust](https://bioconductor.org/packages/3.20/bioc/html/smoothclust.html)                                 | Unprocessed |
 | [spaSim](https://bioconductor.org/packages/3.20/bioc/html/spaSim.html)                                           | Unprocessed |
 | [spatialDE](https://bioconductor.org/packages/3.20/bioc/html/spatialDE.html)                                     | Unprocessed |

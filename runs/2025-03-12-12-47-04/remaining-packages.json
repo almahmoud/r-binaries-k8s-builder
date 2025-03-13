@@ -1276,7 +1276,6 @@
     "GenomicFeatures"
   ],
   "VaSP": [],
-  "VarCon": [],
   "VariantAnnotation": [
     "GenomicFeatures"
   ],
@@ -1480,7 +1479,6 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "ccmap": [],
   "celda": [
     "scater",
     "scran",
@@ -1551,7 +1549,6 @@
     "SpatialExperiment"
   ],
   "condiments": [
-    "slingshot",
     "distinct",
     "scater",
     "scuttle"
@@ -2541,9 +2538,7 @@
     "DropletUtils",
     "scuttle"
   ],
-  "scRNAseqApp": [
-    "slingshot"
-  ],
+  "scRNAseqApp": [],
   "scTensor": [
     "Category",
     "meshr",
@@ -2675,7 +2670,6 @@
     "GEOquery",
     "lumi"
   ],
-  "slingshot": [],
   "smoothclust": [
     "SpatialExperiment"
   ],
@@ -2787,9 +2781,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tradeSeq": [
-    "slingshot"
-  ],
+  "tradeSeq": [],
   "transcriptR": [
     "GenomicFeatures"
   ],

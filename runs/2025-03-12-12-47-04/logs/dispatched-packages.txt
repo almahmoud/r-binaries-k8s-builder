@@ -1703,3 +1703,5 @@ cfDNAPro
 nullranges
 plotgardener
 plyinteractions
+scRNAseqApp
+tradeSeq
