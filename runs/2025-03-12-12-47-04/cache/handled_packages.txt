@@ -1275,6 +1275,7 @@ ggmanh
 ggmsa
 ggsc
 ggseqalign
+ggspavis
 ggtree
 ggtreeDendro
 ggtreeExtra

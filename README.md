@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1870 packages built successfully
+- 1871 packages built successfully
 - 28 packages failed to build
-- 335 packages not yet processed
+- 334 packages not yet processed
 
 ## Failed Builds (28)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -40,7 +40,7 @@
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 
-## Successfully Built (1870)
+## Successfully Built (1871)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1913,8 +1913,9 @@
 | [musicatk](https://bioconductor.org/packages/3.20/bioc/html/musicatk.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/musicatk/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/musicatk)                    |
 | [alabaster.vcf](https://bioconductor.org/packages/3.20/bioc/html/alabaster.vcf.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/alabaster.vcf/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/alabaster.vcf)               |
 | [ChromHeatMap](https://bioconductor.org/packages/3.20/bioc/html/ChromHeatMap.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/ChromHeatMap/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ChromHeatMap)                |
+| [ggspavis](https://bioconductor.org/packages/3.20/bioc/html/ggspavis.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/ggspavis/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ggspavis)                    |
 
-## Not Yet Processed (335)
+## Not Yet Processed (334)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2134,7 +2135,6 @@
 | [gDRimport](https://bioconductor.org/packages/3.20/bioc/html/gDRimport.html)                                   | Unprocessed |
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                                   | Unprocessed |
 | [ggbio](https://bioconductor.org/packages/3.20/bioc/html/ggbio.html)                                           | Unprocessed |
-| [ggspavis](https://bioconductor.org/packages/3.20/bioc/html/ggspavis.html)                                     | Unprocessed |
 | [gmapR](https://bioconductor.org/packages/3.20/bioc/html/gmapR.html)                                           | Unprocessed |
 | [goseq](https://bioconductor.org/packages/3.20/bioc/html/goseq.html)                                           | Unprocessed |
 | [gwascat](https://bioconductor.org/packages/3.20/bioc/html/gwascat.html)                                       | Unprocessed |
