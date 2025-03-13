@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1125 packages built successfully
+- 1128 packages built successfully
 - 19 packages failed to build
-- 1089 packages not yet processed
+- 1086 packages not yet processed
 
 ## Failed Builds (19)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -31,7 +31,7 @@
 | [microRNA](https://bioconductor.org/packages/3.20/bioc/html/microRNA.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/microRNA/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/microRNA)      | Build failed with unknown error     |
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/cn.mops/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cn.mops)       | Build failed with unknown error     |
 
-## Successfully Built (1125)
+## Successfully Built (1128)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1159,8 +1159,11 @@
 | [CAEN](https://bioconductor.org/packages/3.20/bioc/html/CAEN.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/CAEN/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CAEN)                      |
 | [CaDrA](https://bioconductor.org/packages/3.20/bioc/html/CaDrA.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/CaDrA/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CaDrA)                     |
 | [SPONGE](https://bioconductor.org/packages/3.20/bioc/html/SPONGE.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/SPONGE/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SPONGE)                    |
+| [CellScore](https://bioconductor.org/packages/3.20/bioc/html/CellScore.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/CellScore/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CellScore)                 |
+| [SingleCellExperiment](https://bioconductor.org/packages/3.20/bioc/html/SingleCellExperiment.html)           | Built    | [Log](runs/2025-03-12-12-47-04/logs/SingleCellExperiment/build-success.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SingleCellExperiment)      |
+| [tRNA](https://bioconductor.org/packages/3.20/bioc/html/tRNA.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/tRNA/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tRNA)                      |
 
-## Not Yet Processed (1089)
+## Not Yet Processed (1086)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1249,7 +1252,6 @@
 | [CellBarcode](https://bioconductor.org/packages/3.20/bioc/html/CellBarcode.html)                                 | Unprocessed |
 | [CellBench](https://bioconductor.org/packages/3.20/bioc/html/CellBench.html)                                     | Unprocessed |
 | [CellMixS](https://bioconductor.org/packages/3.20/bioc/html/CellMixS.html)                                       | Unprocessed |
-| [CellScore](https://bioconductor.org/packages/3.20/bioc/html/CellScore.html)                                     | Unprocessed |
 | [CellTrails](https://bioconductor.org/packages/3.20/bioc/html/CellTrails.html)                                   | Unprocessed |
 | [CelliD](https://bioconductor.org/packages/3.20/bioc/html/CelliD.html)                                           | Unprocessed |
 | [Cepo](https://bioconductor.org/packages/3.20/bioc/html/Cepo.html)                                               | Unprocessed |
@@ -1612,7 +1614,6 @@
 | [SigsPack](https://bioconductor.org/packages/3.20/bioc/html/SigsPack.html)                                       | Unprocessed |
 | [SimBu](https://bioconductor.org/packages/3.20/bioc/html/SimBu.html)                                             | Unprocessed |
 | [SingleCellAlleleExperiment](https://bioconductor.org/packages/3.20/bioc/html/SingleCellAlleleExperiment.html)   | Unprocessed |
-| [SingleCellExperiment](https://bioconductor.org/packages/3.20/bioc/html/SingleCellExperiment.html)               | Unprocessed |
 | [SingleCellSignalR](https://bioconductor.org/packages/3.20/bioc/html/SingleCellSignalR.html)                     | Unprocessed |
 | [SingleMoleculeFootprinting](https://bioconductor.org/packages/3.20/bioc/html/SingleMoleculeFootprinting.html)   | Unprocessed |
 | [SingleR](https://bioconductor.org/packages/3.20/bioc/html/SingleR.html)                                         | Unprocessed |
@@ -2202,7 +2203,6 @@
 | [systemPipeR](https://bioconductor.org/packages/3.20/bioc/html/systemPipeR.html)                                 | Unprocessed |
 | [systemPipeTools](https://bioconductor.org/packages/3.20/bioc/html/systemPipeTools.html)                         | Unprocessed |
 | [tLOH](https://bioconductor.org/packages/3.20/bioc/html/tLOH.html)                                               | Unprocessed |
-| [tRNA](https://bioconductor.org/packages/3.20/bioc/html/tRNA.html)                                               | Unprocessed |
 | [tRNAdbImport](https://bioconductor.org/packages/3.20/bioc/html/tRNAdbImport.html)                               | Unprocessed |
 | [tRNAscanImport](https://bioconductor.org/packages/3.20/bioc/html/tRNAscanImport.html)                           | Unprocessed |
 | [tRanslatome](https://bioconductor.org/packages/3.20/bioc/html/tRanslatome.html)                                 | Unprocessed |

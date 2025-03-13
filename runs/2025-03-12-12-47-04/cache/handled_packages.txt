@@ -109,6 +109,7 @@ CardinalIO
 CausalR
 CellMapper
 CellNOptR
+CellScore
 ChemmineOB
 ChemmineR
 Chicago
@@ -506,6 +507,7 @@ SeqVarTools
 SharedObject
 SigFuge
 SimFFPE
+SingleCellExperiment
 SpaceMarkers
 SparseArray
 SpatialDecon
@@ -1097,6 +1099,7 @@ synapsis
 synergyfinder
 synlet
 systemPipeShiny
+tRNA
 tanggle
 target
 ternarynet

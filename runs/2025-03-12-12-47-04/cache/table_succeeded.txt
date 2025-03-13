@@ -1123,3 +1123,6 @@
 ['[CAEN](https://bioconductor.org/packages/3.20/bioc/html/CAEN.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CAEN/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CAEN)']
 ['[CaDrA](https://bioconductor.org/packages/3.20/bioc/html/CaDrA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CaDrA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CaDrA)']
 ['[SPONGE](https://bioconductor.org/packages/3.20/bioc/html/SPONGE.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SPONGE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SPONGE)']
+['[CellScore](https://bioconductor.org/packages/3.20/bioc/html/CellScore.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CellScore/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CellScore)']
+['[SingleCellExperiment](https://bioconductor.org/packages/3.20/bioc/html/SingleCellExperiment.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SingleCellExperiment/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SingleCellExperiment)']
+['[tRNA](https://bioconductor.org/packages/3.20/bioc/html/tRNA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/tRNA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tRNA)']
