@@ -1184,3 +1184,6 @@ apeglm
 Cepo
 famat
 omicplotR
+Rbowtie2
+seq2pathway
+slalom

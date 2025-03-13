@@ -478,6 +478,7 @@ RankProd
 Rarr
 RbcBook1
 Rbowtie
+Rbowtie2
 Rbwa
 Rcollectl
 Rcpi
@@ -1106,6 +1107,7 @@ seahtrue
 sechm
 semisup
 seq.hotSPOT
+seq2pathway
 seqArchR
 seqLogo
 seqPattern
@@ -1124,6 +1126,7 @@ sincell
 sitePath
 sizepower
 sketchR
+slalom
 smartid
 snapcount
 snifter

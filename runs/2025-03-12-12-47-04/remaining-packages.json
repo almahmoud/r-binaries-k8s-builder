@@ -494,7 +494,6 @@
   ],
   "CircSeqAlignTk": [
     "ShortRead",
-    "Rbowtie2",
     "Rhisat2",
     "txdbmaker",
     "SGSeq",
@@ -1851,7 +1850,6 @@
     "dada2",
     "ShortRead"
   ],
-  "Rbowtie2": [],
   "RcisTarget": [
     "AUCell"
   ],
@@ -2242,7 +2240,6 @@
     "regioneR",
     "BSgenome",
     "DESeq2",
-    "Rbowtie2",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -3182,7 +3179,6 @@
   "esATAC": [
     "ShortRead",
     "pipeFrame",
-    "Rbowtie2",
     "rtracklayer",
     "ChIPseeker",
     "BSgenome",
@@ -4646,7 +4642,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "seq2pathway": [],
   "seqArchRplus": [
     "BSgenome",
     "ChIPseeker",
@@ -4739,7 +4734,6 @@
     "lumi",
     "rtracklayer"
   ],
-  "slalom": [],
   "slingshot": [
     "TrajectoryUtils"
   ],
