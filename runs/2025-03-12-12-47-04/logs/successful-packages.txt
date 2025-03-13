@@ -1200,3 +1200,6 @@ dce
 MWASTools
 sparrow
 sRACIPE
+ngsReports
+npGSEA
+PhosR

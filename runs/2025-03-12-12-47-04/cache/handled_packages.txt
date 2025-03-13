@@ -430,6 +430,7 @@ PepsNMR
 PhIPData
 PhenStat
 PhenoGeneRanker
+PhosR
 Pirat
 PoDCall
 PolySTest
@@ -985,8 +986,10 @@ netboost
 nethet
 netprioR
 netresponse
+ngsReports
 nnNorm
 normalize450K
+npGSEA
 nuCpos
 nucleoSim
 occugene

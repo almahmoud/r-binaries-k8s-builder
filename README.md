@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1202 packages built successfully
+- 1205 packages built successfully
 - 20 packages failed to build
-- 1011 packages not yet processed
+- 1008 packages not yet processed
 
 ## Failed Builds (20)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -32,7 +32,7 @@
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/cn.mops/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cn.mops)       | Build failed with unknown error     |
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 
-## Successfully Built (1202)
+## Successfully Built (1205)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1237,8 +1237,11 @@
 | [dce](https://bioconductor.org/packages/3.20/bioc/html/dce.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/dce/build-success.log)                       | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dce)                    |
 | [sRACIPE](https://bioconductor.org/packages/3.20/bioc/html/sRACIPE.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/sRACIPE/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sRACIPE)                   |
 | [sparrow](https://bioconductor.org/packages/3.20/bioc/html/sparrow.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/sparrow/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sparrow)                   |
+| [PhosR](https://bioconductor.org/packages/3.20/bioc/html/PhosR.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/PhosR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PhosR)                     |
+| [ngsReports](https://bioconductor.org/packages/3.20/bioc/html/ngsReports.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/ngsReports/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ngsReports)                |
+| [npGSEA](https://bioconductor.org/packages/3.20/bioc/html/npGSEA.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/npGSEA/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/npGSEA)                    |
 
-## Not Yet Processed (1011)
+## Not Yet Processed (1008)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1567,7 +1570,6 @@
 | [PathoStat](https://bioconductor.org/packages/3.20/bioc/html/PathoStat.html)                                     | Unprocessed |
 | [PeacoQC](https://bioconductor.org/packages/3.20/bioc/html/PeacoQC.html)                                         | Unprocessed |
 | [PharmacoGx](https://bioconductor.org/packages/3.20/bioc/html/PharmacoGx.html)                                   | Unprocessed |
-| [PhosR](https://bioconductor.org/packages/3.20/bioc/html/PhosR.html)                                             | Unprocessed |
 | [PhyloProfile](https://bioconductor.org/packages/3.20/bioc/html/PhyloProfile.html)                               | Unprocessed |
 | [Pigengene](https://bioconductor.org/packages/3.20/bioc/html/Pigengene.html)                                     | Unprocessed |
 | [PrInCE](https://bioconductor.org/packages/3.20/bioc/html/PrInCE.html)                                           | Unprocessed |
@@ -2023,11 +2025,9 @@
 | [nearBynding](https://bioconductor.org/packages/3.20/bioc/html/nearBynding.html)                                 | Unprocessed |
 | [netSmooth](https://bioconductor.org/packages/3.20/bioc/html/netSmooth.html)                                     | Unprocessed |
 | [netZooR](https://bioconductor.org/packages/3.20/bioc/html/netZooR.html)                                         | Unprocessed |
-| [ngsReports](https://bioconductor.org/packages/3.20/bioc/html/ngsReports.html)                                   | Unprocessed |
 | [nipalsMCIA](https://bioconductor.org/packages/3.20/bioc/html/nipalsMCIA.html)                                   | Unprocessed |
 | [nnSVG](https://bioconductor.org/packages/3.20/bioc/html/nnSVG.html)                                             | Unprocessed |
 | [normr](https://bioconductor.org/packages/3.20/bioc/html/normr.html)                                             | Unprocessed |
-| [npGSEA](https://bioconductor.org/packages/3.20/bioc/html/npGSEA.html)                                           | Unprocessed |
 | [nucleR](https://bioconductor.org/packages/3.20/bioc/html/nucleR.html)                                           | Unprocessed |
 | [nullranges](https://bioconductor.org/packages/3.20/bioc/html/nullranges.html)                                   | Unprocessed |
 | [octad](https://bioconductor.org/packages/3.20/bioc/html/octad.html)                                             | Unprocessed |

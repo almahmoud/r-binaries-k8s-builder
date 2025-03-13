@@ -1200,3 +1200,6 @@
 ['[dce](https://bioconductor.org/packages/3.20/bioc/html/dce.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/dce/build-success.log)', '[ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dce)']
 ['[sRACIPE](https://bioconductor.org/packages/3.20/bioc/html/sRACIPE.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/sRACIPE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sRACIPE)']
 ['[sparrow](https://bioconductor.org/packages/3.20/bioc/html/sparrow.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/sparrow/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/sparrow)']
+['[PhosR](https://bioconductor.org/packages/3.20/bioc/html/PhosR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/PhosR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/PhosR)']
+['[ngsReports](https://bioconductor.org/packages/3.20/bioc/html/ngsReports.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ngsReports/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ngsReports)']
+['[npGSEA](https://bioconductor.org/packages/3.20/bioc/html/npGSEA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/npGSEA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/npGSEA)']

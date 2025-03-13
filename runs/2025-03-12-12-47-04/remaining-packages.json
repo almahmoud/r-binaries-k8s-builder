@@ -1617,7 +1617,6 @@
   "PharmacoGx": [
     "CoreGx"
   ],
-  "PhosR": [],
   "PhyloProfile": [],
   "Pigengene": [],
   "PrInCE": [
@@ -3976,7 +3975,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "ngsReports": [],
   "nipalsMCIA": [],
   "nnSVG": [
     "SpatialExperiment"
@@ -3984,7 +3982,6 @@
   "normr": [
     "rtracklayer"
   ],
-  "npGSEA": [],
   "nucleR": [
     "ShortRead"
   ],
