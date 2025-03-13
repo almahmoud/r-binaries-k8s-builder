@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1435 packages built successfully
+- 1439 packages built successfully
 - 22 packages failed to build
-- 776 packages not yet processed
+- 772 packages not yet processed
 
 ## Failed Builds (22)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -34,7 +34,7 @@
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 
-## Successfully Built (1435)
+## Successfully Built (1439)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1472,8 +1472,12 @@
 | [iSEEhex](https://bioconductor.org/packages/3.20/bioc/html/iSEEhex.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/iSEEhex/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iSEEhex)                    |
 | [MultiRNAflow](https://bioconductor.org/packages/3.20/bioc/html/MultiRNAflow.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/MultiRNAflow/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MultiRNAflow)               |
 | [geneXtendeR](https://bioconductor.org/packages/3.20/bioc/html/geneXtendeR.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/geneXtendeR/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/geneXtendeR)                |
+| [HTSFilter](https://bioconductor.org/packages/3.20/bioc/html/HTSFilter.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/HTSFilter/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HTSFilter)                  |
+| [NetActivity](https://bioconductor.org/packages/3.20/bioc/html/NetActivity.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/NetActivity/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/NetActivity)                |
+| [POMA](https://bioconductor.org/packages/3.20/bioc/html/POMA.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/POMA/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/POMA)                       |
+| [RJMCMCNucleosomes](https://bioconductor.org/packages/3.20/bioc/html/RJMCMCNucleosomes.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/RJMCMCNucleosomes/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RJMCMCNucleosomes)          |
 
-## Not Yet Processed (776)
+## Not Yet Processed (772)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1629,7 +1633,6 @@
 | [GmicR](https://bioconductor.org/packages/3.20/bioc/html/GmicR.html)                                             | Unprocessed |
 | [Guitar](https://bioconductor.org/packages/3.20/bioc/html/Guitar.html)                                           | Unprocessed |
 | [Gviz](https://bioconductor.org/packages/3.20/bioc/html/Gviz.html)                                               | Unprocessed |
-| [HTSFilter](https://bioconductor.org/packages/3.20/bioc/html/HTSFilter.html)                                     | Unprocessed |
 | [HelloRanges](https://bioconductor.org/packages/3.20/bioc/html/HelloRanges.html)                                 | Unprocessed |
 | [HiCDCPlus](https://bioconductor.org/packages/3.20/bioc/html/HiCDCPlus.html)                                     | Unprocessed |
 | [HiCDOC](https://bioconductor.org/packages/3.20/bioc/html/HiCDOC.html)                                           | Unprocessed |
@@ -1698,7 +1701,6 @@
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                     | Unprocessed |
 | [NBAMSeq](https://bioconductor.org/packages/3.20/bioc/html/NBAMSeq.html)                                         | Unprocessed |
 | [NanoMethViz](https://bioconductor.org/packages/3.20/bioc/html/NanoMethViz.html)                                 | Unprocessed |
-| [NetActivity](https://bioconductor.org/packages/3.20/bioc/html/NetActivity.html)                                 | Unprocessed |
 | [NewWave](https://bioconductor.org/packages/3.20/bioc/html/NewWave.html)                                         | Unprocessed |
 | [NoRCE](https://bioconductor.org/packages/3.20/bioc/html/NoRCE.html)                                             | Unprocessed |
 | [OGRE](https://bioconductor.org/packages/3.20/bioc/html/OGRE.html)                                               | Unprocessed |
@@ -1716,7 +1718,6 @@
 | [PCAtools](https://bioconductor.org/packages/3.20/bioc/html/PCAtools.html)                                       | Unprocessed |
 | [PING](https://bioconductor.org/packages/3.20/bioc/html/PING.html)                                               | Unprocessed |
 | [PLSDAbatch](https://bioconductor.org/packages/3.20/bioc/html/PLSDAbatch.html)                                   | Unprocessed |
-| [POMA](https://bioconductor.org/packages/3.20/bioc/html/POMA.html)                                               | Unprocessed |
 | [POWSC](https://bioconductor.org/packages/3.20/bioc/html/POWSC.html)                                             | Unprocessed |
 | [PRONE](https://bioconductor.org/packages/3.20/bioc/html/PRONE.html)                                             | Unprocessed |
 | [PSMatch](https://bioconductor.org/packages/3.20/bioc/html/PSMatch.html)                                         | Unprocessed |
@@ -1740,7 +1741,6 @@
 | [REMP](https://bioconductor.org/packages/3.20/bioc/html/REMP.html)                                               | Unprocessed |
 | [RESOLVE](https://bioconductor.org/packages/3.20/bioc/html/RESOLVE.html)                                         | Unprocessed |
 | [RITAN](https://bioconductor.org/packages/3.20/bioc/html/RITAN.html)                                             | Unprocessed |
-| [RJMCMCNucleosomes](https://bioconductor.org/packages/3.20/bioc/html/RJMCMCNucleosomes.html)                     | Unprocessed |
 | [RMassBank](https://bioconductor.org/packages/3.20/bioc/html/RMassBank.html)                                     | Unprocessed |
 | [RNAAgeCalc](https://bioconductor.org/packages/3.20/bioc/html/RNAAgeCalc.html)                                   | Unprocessed |
 | [RNAmodR](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.html)                                         | Unprocessed |

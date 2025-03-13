@@ -672,7 +672,6 @@
     "VariantAnnotation"
   ],
   "HIBAG": [],
-  "HTSFilter": [],
   "HelloRanges": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -947,7 +946,6 @@
     "BiocSingular",
     "bsseq"
   ],
-  "NetActivity": [],
   "NetPathMiner": [],
   "NewWave": [
     "BiocSingular"
@@ -1003,11 +1001,9 @@
     "VariantAnnotation"
   ],
   "PLSDAbatch": [],
-  "POMA": [],
   "POWSC": [],
   "PRONE": [
     "MSnbase",
-    "POMA",
     "PSMatch",
     "QFeatures"
   ],
@@ -1096,7 +1092,6 @@
     "GenomicFeatures",
     "ensembldb"
   ],
-  "RJMCMCNucleosomes": [],
   "RMassBank": [
     "MSnbase",
     "PSMatch",
@@ -1757,9 +1752,7 @@
     "GenomicFeatures"
   ],
   "corral": [],
-  "coseq": [
-    "HTSFilter"
-  ],
+  "coseq": [],
   "cosmiq": [
     "xcms",
     "MSnbase",

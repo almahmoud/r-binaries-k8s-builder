@@ -313,6 +313,7 @@ HIREewas
 HMMcopy
 HPAanalyze
 HPiP
+HTSFilter
 Harman
 HarmonizR
 Harshlight
@@ -464,6 +465,7 @@ NanoStringDiff
 NanoStringNCTools
 NanoTube
 Nebulosa
+NetActivity
 NetPathMiner
 NetSAM
 NormalyzerDE
@@ -493,6 +495,7 @@ PICS
 PIPETS
 PIUMA
 PLPE
+POMA
 PPInfer
 PREDA
 PROMISE
@@ -539,6 +542,7 @@ RGSEA
 RGraph2js
 RIVER
 RImmPort
+RJMCMCNucleosomes
 RLMM
 RLassoCox
 RNASeqPower
