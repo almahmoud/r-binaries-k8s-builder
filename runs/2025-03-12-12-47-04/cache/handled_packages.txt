@@ -179,6 +179,7 @@ EmpiricalBrownsMethod
 EnMCB
 EnhancedVolcano
 EnrichDO
+EnrichedHeatmap
 EpiDISH
 ExiMiR
 ExperimentHub
@@ -934,6 +935,7 @@ methylMnM
 mfa
 mgsa
 miRBaseConverter
+miRNAmeConverter
 miRNApath
 miRNAtap
 miRcomp

@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1180 packages built successfully
+- 1182 packages built successfully
 - 20 packages failed to build
-- 1033 packages not yet processed
+- 1031 packages not yet processed
 
 ## Failed Builds (20)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -32,7 +32,7 @@
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/cn.mops/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cn.mops)       | Build failed with unknown error     |
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 
-## Successfully Built (1180)
+## Successfully Built (1182)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1215,8 +1215,10 @@
 | [AMARETTO](https://bioconductor.org/packages/3.20/bioc/html/AMARETTO.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMARETTO/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMARETTO)                  |
 | [MACSr](https://bioconductor.org/packages/3.20/bioc/html/MACSr.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/MACSr/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MACSr)                     |
 | [Pirat](https://bioconductor.org/packages/3.20/bioc/html/Pirat.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/Pirat/build-success.log)                     | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Pirat)                  |
+| [EnrichedHeatmap](https://bioconductor.org/packages/3.20/bioc/html/EnrichedHeatmap.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/EnrichedHeatmap/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EnrichedHeatmap)           |
+| [miRNAmeConverter](https://bioconductor.org/packages/3.20/bioc/html/miRNAmeConverter.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/miRNAmeConverter/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miRNAmeConverter)          |
 
-## Not Yet Processed (1033)
+## Not Yet Processed (1031)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
@@ -1372,7 +1374,6 @@
 | [ENmix](https://bioconductor.org/packages/3.20/bioc/html/ENmix.html)                                             | Unprocessed |
 | [ERSSA](https://bioconductor.org/packages/3.20/bioc/html/ERSSA.html)                                             | Unprocessed |
 | [EWCE](https://bioconductor.org/packages/3.20/bioc/html/EWCE.html)                                               | Unprocessed |
-| [EnrichedHeatmap](https://bioconductor.org/packages/3.20/bioc/html/EnrichedHeatmap.html)                         | Unprocessed |
 | [EnrichmentBrowser](https://bioconductor.org/packages/3.20/bioc/html/EnrichmentBrowser.html)                     | Unprocessed |
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)                                   | Unprocessed |
 | [EpiMix](https://bioconductor.org/packages/3.20/bioc/html/EpiMix.html)                                           | Unprocessed |
@@ -1971,7 +1972,6 @@
 | [methylumi](https://bioconductor.org/packages/3.20/bioc/html/methylumi.html)                                     | Unprocessed |
 | [miQC](https://bioconductor.org/packages/3.20/bioc/html/miQC.html)                                               | Unprocessed |
 | [miRLAB](https://bioconductor.org/packages/3.20/bioc/html/miRLAB.html)                                           | Unprocessed |
-| [miRNAmeConverter](https://bioconductor.org/packages/3.20/bioc/html/miRNAmeConverter.html)                       | Unprocessed |
 | [miRSM](https://bioconductor.org/packages/3.20/bioc/html/miRSM.html)                                             | Unprocessed |
 | [miRspongeR](https://bioconductor.org/packages/3.20/bioc/html/miRspongeR.html)                                   | Unprocessed |
 | [mia](https://bioconductor.org/packages/3.20/bioc/html/mia.html)                                                 | Unprocessed |

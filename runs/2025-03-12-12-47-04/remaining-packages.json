@@ -797,7 +797,6 @@
   "EWCE": [
     "orthogene"
   ],
-  "EnrichedHeatmap": [],
   "EnrichmentBrowser": [
     "safe"
   ],
@@ -3786,7 +3785,6 @@
     "Category",
     "GOstats"
   ],
-  "miRNAmeConverter": [],
   "miRSM": [
     "ReactomePA"
   ],
@@ -4252,7 +4250,6 @@
     "ChIPseeker",
     "GenomicFeatures",
     "rGREAT",
-    "EnrichedHeatmap",
     "rtracklayer",
     "chipseq",
     "ShortRead"
