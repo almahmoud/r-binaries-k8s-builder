@@ -1770,3 +1770,5 @@ strandCheckR
 transcriptR
 txdbmaker
 wavClusteR
+lemur
+transformGamPoi

@@ -353,6 +353,7 @@ HiCDOC
 HiCExperiment
 HiCcompare
 HiContacts
+HiCool
 HiTC
 HilbertCurve
 HilbertVis
@@ -470,6 +471,7 @@ MetMashR
 MetNet
 MetaCyto
 MetaNeighbor
+MetaPhOR
 MetaboCoreUtils
 MethPed
 MethTargetedNGS
@@ -1123,6 +1125,7 @@ ggtreeExtra
 ggtreeSpace
 ginmappeR
 girafe
+glmGamPoi
 globalSeq
 globaltest
 goProfiles
@@ -1144,6 +1147,7 @@ hapFabia
 hca
 hdxmsqc
 heatmaps
+hermes
 hiAnnotator
 hiReadsProcessor
 hicVennDiagram
@@ -1588,6 +1592,7 @@ systemPipeShiny
 systemPipeTools
 tRNA
 tRNAdbImport
+tRNAscanImport
 tRanslatome
 tanggle
 target

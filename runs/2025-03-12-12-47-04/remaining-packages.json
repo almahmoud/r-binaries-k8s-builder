@@ -60,7 +60,6 @@
   ],
   "BASiCStan": [
     "BASiCS",
-    "glmGamPoi",
     "scran",
     "scuttle"
   ],
@@ -513,7 +512,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiCool": [],
   "HiLDA": [],
   "HicAggR": [],
   "IMAS": [
@@ -627,7 +625,6 @@
   "MatrixRider": [
     "TFBSTools"
   ],
-  "MetaPhOR": [],
   "MetaboAnnotation": [
     "CompoundDb"
   ],
@@ -1530,7 +1527,6 @@
     "SpatialExperiment"
   ],
   "girafe": [],
-  "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils"
   ],
@@ -1550,7 +1546,6 @@
   "gwasurvivr": [
     "VariantAnnotation"
   ],
-  "hermes": [],
   "hoodscanR": [
     "SpatialExperiment"
   ],
@@ -1613,9 +1608,7 @@
     "VariantAnnotation"
   ],
   "kissDE": [],
-  "lemur": [
-    "glmGamPoi"
-  ],
+  "lemur": [],
   "lineagespot": [
     "VariantAnnotation"
   ],
@@ -2215,7 +2208,6 @@
   "tLOH": [
     "VariantAnnotation"
   ],
-  "tRNAscanImport": [],
   "tadar": [
     "Gviz",
     "VariantAnnotation",
@@ -2245,9 +2237,7 @@
   ],
   "transcriptR": [],
   "transcriptogramer": [],
-  "transformGamPoi": [
-    "glmGamPoi"
-  ],
+  "transformGamPoi": [],
   "transmogR": [
     "VariantAnnotation"
   ],
