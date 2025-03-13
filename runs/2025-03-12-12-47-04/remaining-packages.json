@@ -24,8 +24,7 @@
     "flowPeaks"
   ],
   "ChAMP": [
-    "DMRcate",
-    "wateRmelon"
+    "DMRcate"
   ],
   "ChIPQC": [
     "DiffBind"
@@ -83,10 +82,7 @@
     "GLAD"
   ],
   "MEAL": [],
-  "MEAT": [
-    "wateRmelon"
-  ],
-  "MineICA": [],
+  "MEAT": [],
   "NetPathMiner": [],
   "Oscope": [
     "EBSeq"
@@ -107,9 +103,7 @@
     "affxparser"
   ],
   "bandle": [],
-  "bigmelon": [
-    "wateRmelon"
-  ],
+  "bigmelon": [],
   "broadSeq": [
     "EBSeq"
   ],
@@ -195,10 +189,7 @@
     "EBSeq",
     "Oscope"
   ],
-  "singleCellTK": [],
-  "skewr": [
-    "wateRmelon"
-  ],
+  "skewr": [],
   "squallms": [
     "xcms"
   ],
@@ -206,6 +197,5 @@
   "vulcan": [
     "DiffBind"
   ],
-  "wateRmelon": [],
   "xcms": []
 }

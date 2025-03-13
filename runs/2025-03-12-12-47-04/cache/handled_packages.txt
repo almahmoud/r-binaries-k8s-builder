@@ -621,6 +621,7 @@ MiPP
 MiRaGE
 MicrobiomeProfiler
 MicrobiotaProcess
+MineICA
 MinimumDistance
 ModCon
 Modstrings
@@ -2014,6 +2015,7 @@ simona
 simpleSeg
 simplifyEnrichment
 sincell
+singleCellTK
 singscore
 sitadela
 sitePath
@@ -2155,6 +2157,7 @@ vsclust
 vsn
 vtpnet
 waddR
+wateRmelon
 wavClusteR
 weaver
 webbioc

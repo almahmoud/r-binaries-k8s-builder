@@ -2145,3 +2145,6 @@
 ['[miaViz](https://bioconductor.org/packages/3.20/bioc/html/miaViz.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/miaViz/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miaViz)']
 ['[arrayMvout](https://bioconductor.org/packages/3.20/bioc/html/arrayMvout.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/arrayMvout/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/arrayMvout)']
 ['[dar](https://bioconductor.org/packages/3.20/bioc/html/dar.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/dar/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dar)']
+['[MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MineICA/build-success.log)', '[ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MineICA)']
+['[singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/singleCellTK/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/singleCellTK)']
+['[wateRmelon](https://bioconductor.org/packages/3.20/bioc/html/wateRmelon.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/wateRmelon/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/wateRmelon)']

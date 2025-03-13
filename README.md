@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2147 packages built successfully
+- 2150 packages built successfully
 - 30 packages failed to build
-- 56 packages not yet processed
+- 53 packages not yet processed
 
 ## Failed Builds (30)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -42,7 +42,7 @@
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/bandle/build-fail.log)        | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bandle)     | Build failed with unknown error     |
 
-## Successfully Built (2147)
+## Successfully Built (2150)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2192,8 +2192,11 @@
 | [miaViz](https://bioconductor.org/packages/3.20/bioc/html/miaViz.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/miaViz/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/miaViz)                      |
 | [arrayMvout](https://bioconductor.org/packages/3.20/bioc/html/arrayMvout.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/arrayMvout/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/arrayMvout)                  |
 | [dar](https://bioconductor.org/packages/3.20/bioc/html/dar.html)                                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/dar/build-success.log)                         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/dar)                         |
+| [MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/MineICA/build-success.log)                     | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MineICA)                  |
+| [singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/singleCellTK/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/singleCellTK)                |
+| [wateRmelon](https://bioconductor.org/packages/3.20/bioc/html/wateRmelon.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/wateRmelon/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/wateRmelon)                  |
 
-## Not Yet Processed (56)
+## Not Yet Processed (53)
 | Package                                                                                      | Status      |
 |----------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                     | Unprocessed |
@@ -2219,7 +2222,6 @@
 | [MANOR](https://bioconductor.org/packages/3.20/bioc/html/MANOR.html)                         | Unprocessed |
 | [MEAL](https://bioconductor.org/packages/3.20/bioc/html/MEAL.html)                           | Unprocessed |
 | [MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)                           | Unprocessed |
-| [MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)                     | Unprocessed |
 | [Oscope](https://bioconductor.org/packages/3.20/bioc/html/Oscope.html)                       | Unprocessed |
 | [SCAN.UPC](https://bioconductor.org/packages/3.20/bioc/html/SCAN.UPC.html)                   | Unprocessed |
 | [SCArray.sat](https://bioconductor.org/packages/3.20/bioc/html/SCArray.sat.html)             | Unprocessed |
@@ -2247,8 +2249,6 @@
 | [puma](https://bioconductor.org/packages/3.20/bioc/html/puma.html)                           | Unprocessed |
 | [scDD](https://bioconductor.org/packages/3.20/bioc/html/scDD.html)                           | Unprocessed |
 | [scDDboost](https://bioconductor.org/packages/3.20/bioc/html/scDDboost.html)                 | Unprocessed |
-| [singleCellTK](https://bioconductor.org/packages/3.20/bioc/html/singleCellTK.html)           | Unprocessed |
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                         | Unprocessed |
 | [squallms](https://bioconductor.org/packages/3.20/bioc/html/squallms.html)                   | Unprocessed |
 | [vulcan](https://bioconductor.org/packages/3.20/bioc/html/vulcan.html)                       | Unprocessed |
-| [wateRmelon](https://bioconductor.org/packages/3.20/bioc/html/wateRmelon.html)               | Unprocessed |
