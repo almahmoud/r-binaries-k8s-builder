@@ -1538,9 +1538,7 @@
     "PSMatch",
     "MsExperiment"
   ],
-  "clusterExperiment": [
-    "mbkmeans"
-  ],
+  "clusterExperiment": [],
   "cn.farms": [
     "affxparser",
     "oligo"
@@ -2079,7 +2077,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "mbkmeans": [],
   "meshr": [
     "Category"
   ],
@@ -2296,7 +2293,6 @@
   "netSmooth": [
     "scater",
     "clusterExperiment",
-    "mbkmeans",
     "scuttle"
   ],
   "netZooR": [

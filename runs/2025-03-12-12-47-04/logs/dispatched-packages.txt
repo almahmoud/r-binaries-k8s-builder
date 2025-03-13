@@ -1698,3 +1698,4 @@ msqrob2
 multiHiCcompare
 scp
 scry
+clusterExperiment

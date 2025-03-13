@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1555 packages built successfully
+- 1556 packages built successfully
 - 24 packages failed to build
-- 654 packages not yet processed
+- 653 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1555)
+## Successfully Built (1556)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1594,8 +1594,9 @@
 | [SPOTlight](https://bioconductor.org/packages/3.20/bioc/html/SPOTlight.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/SPOTlight/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SPOTlight)                  |
 | [bsseq](https://bioconductor.org/packages/3.20/bioc/html/bsseq.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/bsseq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bsseq)                      |
 | [pairkat](https://bioconductor.org/packages/3.20/bioc/html/pairkat.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/pairkat/build-success.log)                    | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pairkat)                 |
+| [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/mbkmeans/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)                   |
 
-## Not Yet Processed (654)
+## Not Yet Processed (653)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -2059,7 +2060,6 @@
 | [magpie](https://bioconductor.org/packages/3.20/bioc/html/magpie.html)                                           | Unprocessed |
 | [mariner](https://bioconductor.org/packages/3.20/bioc/html/mariner.html)                                         | Unprocessed |
 | [maser](https://bioconductor.org/packages/3.20/bioc/html/maser.html)                                             | Unprocessed |
-| [mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)                                       | Unprocessed |
 | [meshr](https://bioconductor.org/packages/3.20/bioc/html/meshr.html)                                             | Unprocessed |
 | [metaMS](https://bioconductor.org/packages/3.20/bioc/html/metaMS.html)                                           | Unprocessed |
 | [metaseqR2](https://bioconductor.org/packages/3.20/bioc/html/metaseqR2.html)                                     | Unprocessed |

@@ -1184,6 +1184,7 @@ mastR
 matchBox
 matter
 mbQTL
+mbkmeans
 mdp
 mdqc
 megadepth

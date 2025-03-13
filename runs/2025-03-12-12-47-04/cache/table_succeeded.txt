@@ -1553,3 +1553,4 @@
 ['[SPOTlight](https://bioconductor.org/packages/3.20/bioc/html/SPOTlight.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SPOTlight/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SPOTlight)']
 ['[bsseq](https://bioconductor.org/packages/3.20/bioc/html/bsseq.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/bsseq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bsseq)']
 ['[pairkat](https://bioconductor.org/packages/3.20/bioc/html/pairkat.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/pairkat/build-success.log)', '[ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pairkat)']
+['[mbkmeans](https://bioconductor.org/packages/3.20/bioc/html/mbkmeans.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/mbkmeans/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mbkmeans)']
