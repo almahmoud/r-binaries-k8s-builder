@@ -862,6 +862,7 @@ consensus
 consensusSeekeR
 convert
 copa
+coseq
 cosmosR
 covEB
 covRNA
@@ -1468,5 +1469,6 @@ xmapbridge
 yamss
 zFPKM
 zellkonverter
+zenith
 zinbwave
 zlibbioc

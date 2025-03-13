@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1450 packages built successfully
+- 1452 packages built successfully
 - 22 packages failed to build
-- 761 packages not yet processed
+- 759 packages not yet processed
 
 ## Failed Builds (22)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -34,7 +34,7 @@
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 
-## Successfully Built (1450)
+## Successfully Built (1452)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1487,8 +1487,10 @@
 | [SEtools](https://bioconductor.org/packages/3.20/bioc/html/SEtools.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/SEtools/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SEtools)                    |
 | [TCC](https://bioconductor.org/packages/3.20/bioc/html/TCC.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/TCC/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TCC)                        |
 | [isomiRs](https://bioconductor.org/packages/3.20/bioc/html/isomiRs.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/isomiRs/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/isomiRs)                    |
+| [coseq](https://bioconductor.org/packages/3.20/bioc/html/coseq.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/coseq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/coseq)                      |
+| [zenith](https://bioconductor.org/packages/3.20/bioc/html/zenith.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/zenith/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/zenith)                     |
 
-## Not Yet Processed (761)
+## Not Yet Processed (759)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1897,7 +1899,6 @@
 | [consensusDE](https://bioconductor.org/packages/3.20/bioc/html/consensusDE.html)                                 | Unprocessed |
 | [conumee](https://bioconductor.org/packages/3.20/bioc/html/conumee.html)                                         | Unprocessed |
 | [corral](https://bioconductor.org/packages/3.20/bioc/html/corral.html)                                           | Unprocessed |
-| [coseq](https://bioconductor.org/packages/3.20/bioc/html/coseq.html)                                             | Unprocessed |
 | [cosmiq](https://bioconductor.org/packages/3.20/bioc/html/cosmiq.html)                                           | Unprocessed |
 | [countsimQC](https://bioconductor.org/packages/3.20/bioc/html/countsimQC.html)                                   | Unprocessed |
 | [cpvSNP](https://bioconductor.org/packages/3.20/bioc/html/cpvSNP.html)                                           | Unprocessed |
@@ -2250,5 +2251,4 @@
 | [xcore](https://bioconductor.org/packages/3.20/bioc/html/xcore.html)                                             | Unprocessed |
 | [xenLite](https://bioconductor.org/packages/3.20/bioc/html/xenLite.html)                                         | Unprocessed |
 | [yarn](https://bioconductor.org/packages/3.20/bioc/html/yarn.html)                                               | Unprocessed |
-| [zenith](https://bioconductor.org/packages/3.20/bioc/html/zenith.html)                                           | Unprocessed |
 | [zitools](https://bioconductor.org/packages/3.20/bioc/html/zitools.html)                                         | Unprocessed |

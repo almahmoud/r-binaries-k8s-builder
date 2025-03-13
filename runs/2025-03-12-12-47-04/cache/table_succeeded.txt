@@ -1448,3 +1448,5 @@
 ['[SEtools](https://bioconductor.org/packages/3.20/bioc/html/SEtools.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SEtools/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SEtools)']
 ['[TCC](https://bioconductor.org/packages/3.20/bioc/html/TCC.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/TCC/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TCC)']
 ['[isomiRs](https://bioconductor.org/packages/3.20/bioc/html/isomiRs.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/isomiRs/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/isomiRs)']
+['[coseq](https://bioconductor.org/packages/3.20/bioc/html/coseq.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/coseq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/coseq)']
+['[zenith](https://bioconductor.org/packages/3.20/bioc/html/zenith.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/zenith/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/zenith)']

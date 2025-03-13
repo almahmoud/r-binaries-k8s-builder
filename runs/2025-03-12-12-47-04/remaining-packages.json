@@ -1739,7 +1739,6 @@
     "GenomicFeatures"
   ],
   "corral": [],
-  "coseq": [],
   "cosmiq": [
     "xcms",
     "MSnbase",
@@ -1904,9 +1903,7 @@
     "syntenet",
     "GenomicFeatures"
   ],
-  "dreamlet": [
-    "zenith"
-  ],
+  "dreamlet": [],
   "drugTargetInteractions": [
     "ensembldb",
     "GenomicFeatures"
@@ -3205,6 +3202,5 @@
     "GEOquery",
     "GenomicFeatures"
   ],
-  "zenith": [],
   "zitools": []
 }
