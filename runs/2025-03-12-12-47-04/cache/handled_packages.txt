@@ -566,6 +566,7 @@ MinimumDistance
 ModCon
 Modstrings
 MoleculeExperiment
+Moonlight2R
 MoonlightR
 Motif2Site
 MotifDb
@@ -1321,6 +1322,7 @@ glmGamPoi
 glmSparseNet
 globalSeq
 globaltest
+gmapR
 gmoviz
 goProfiles
 goSTAG
@@ -1502,6 +1504,7 @@ mirTarRnaSeq
 missRows
 mistyR
 mitch
+mitoClone2
 mixOmics
 mnem
 moanin

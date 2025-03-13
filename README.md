@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1919 packages built successfully
+- 1922 packages built successfully
 - 29 packages failed to build
-- 285 packages not yet processed
+- 282 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -41,7 +41,7 @@
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 
-## Successfully Built (1919)
+## Successfully Built (1922)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1963,8 +1963,11 @@
 | [velociraptor](https://bioconductor.org/packages/3.20/bioc/html/velociraptor.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/velociraptor/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/velociraptor)                |
 | [RgnTX](https://bioconductor.org/packages/3.20/bioc/html/RgnTX.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/RgnTX/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RgnTX)                       |
 | [oppar](https://bioconductor.org/packages/3.20/bioc/html/oppar.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/oppar/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/oppar)                       |
+| [Moonlight2R](https://bioconductor.org/packages/3.20/bioc/html/Moonlight2R.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/Moonlight2R/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Moonlight2R)                 |
+| [gmapR](https://bioconductor.org/packages/3.20/bioc/html/gmapR.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/gmapR/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gmapR)                       |
+| [mitoClone2](https://bioconductor.org/packages/3.20/bioc/html/mitoClone2.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/mitoClone2/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mitoClone2)                  |
 
-## Not Yet Processed (285)
+## Not Yet Processed (282)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2050,7 +2053,6 @@
 | [MethReg](https://bioconductor.org/packages/3.20/bioc/html/MethReg.html)                                       | Unprocessed |
 | [MethylAid](https://bioconductor.org/packages/3.20/bioc/html/MethylAid.html)                                   | Unprocessed |
 | [MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)                                       | Unprocessed |
-| [Moonlight2R](https://bioconductor.org/packages/3.20/bioc/html/Moonlight2R.html)                               | Unprocessed |
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                   | Unprocessed |
 | [ORFik](https://bioconductor.org/packages/3.20/bioc/html/ORFik.html)                                           | Unprocessed |
 | [OUTRIDER](https://bioconductor.org/packages/3.20/bioc/html/OUTRIDER.html)                                     | Unprocessed |
@@ -2149,7 +2151,6 @@
 | [gDRimport](https://bioconductor.org/packages/3.20/bioc/html/gDRimport.html)                                   | Unprocessed |
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                                   | Unprocessed |
 | [ggbio](https://bioconductor.org/packages/3.20/bioc/html/ggbio.html)                                           | Unprocessed |
-| [gmapR](https://bioconductor.org/packages/3.20/bioc/html/gmapR.html)                                           | Unprocessed |
 | [goseq](https://bioconductor.org/packages/3.20/bioc/html/goseq.html)                                           | Unprocessed |
 | [gwascat](https://bioconductor.org/packages/3.20/bioc/html/gwascat.html)                                       | Unprocessed |
 | [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                                         | Unprocessed |
@@ -2178,7 +2179,6 @@
 | [mimager](https://bioconductor.org/packages/3.20/bioc/html/mimager.html)                                       | Unprocessed |
 | [minfi](https://bioconductor.org/packages/3.20/bioc/html/minfi.html)                                           | Unprocessed |
 | [missMethyl](https://bioconductor.org/packages/3.20/bioc/html/missMethyl.html)                                 | Unprocessed |
-| [mitoClone2](https://bioconductor.org/packages/3.20/bioc/html/mitoClone2.html)                                 | Unprocessed |
 | [monaLisa](https://bioconductor.org/packages/3.20/bioc/html/monaLisa.html)                                     | Unprocessed |
 | [mosdef](https://bioconductor.org/packages/3.20/bioc/html/mosdef.html)                                         | Unprocessed |
 | [motifStack](https://bioconductor.org/packages/3.20/bioc/html/motifStack.html)                                 | Unprocessed |

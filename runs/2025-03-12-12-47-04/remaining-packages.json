@@ -261,7 +261,6 @@
     "methylumi",
     "minfi"
   ],
-  "Moonlight2R": [],
   "NADfinder": [
     "ATACseqQC",
     "motifStack"
@@ -545,7 +544,6 @@
     "OrganismDbi"
   ],
   "girafe": [],
-  "gmapR": [],
   "goseq": [],
   "gpuMagic": [],
   "graper": [],
@@ -641,7 +639,6 @@
     "methylumi",
     "minfi"
   ],
-  "mitoClone2": [],
   "monaLisa": [],
   "mosdef": [
     "goseq"
