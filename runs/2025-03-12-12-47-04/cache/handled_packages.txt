@@ -267,6 +267,7 @@ GSALightning
 GSAR
 GSCA
 GSEABase
+GSEABenchmarkeR
 GSEAlm
 GSEAmining
 GSgalgoR
@@ -589,6 +590,7 @@ ReactomePA
 ReadqPCR
 RedeR
 RedisParam
+RegEnrich
 RepViz
 ResidualMatrix
 Rfastp
@@ -615,6 +617,7 @@ SCFA
 SCnorm
 SDAMS
 SELEX
+SEtools
 SICtools
 SIM
 SIMAT
@@ -671,6 +674,7 @@ Summix
 SwathXtend
 SynExtend
 SynMut
+TCC
 TCGAbiolinks
 TCseq
 TDbasedUFE
@@ -1070,6 +1074,7 @@ interacCircos
 interactiveDisplayBase
 ipdDb
 isobar
+isomiRs
 iterativeBMA
 iterativeBMAsurv
 kebabs

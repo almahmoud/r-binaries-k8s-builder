@@ -576,7 +576,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "GSEABenchmarkeR": [],
   "GSRI": [],
   "GSReg": [
     "GenomicFeatures",
@@ -1151,7 +1150,6 @@
     "GenomicFeatures"
   ],
   "RcisTarget": [],
-  "RegEnrich": [],
   "RegionalST": [
     "scater",
     "BayesSpace",
@@ -1244,7 +1242,6 @@
     "BiocSingular"
   ],
   "SCOPE": [],
-  "SEtools": [],
   "SGCP": [
     "GOstats",
     "Category"
@@ -1365,7 +1362,6 @@
   "TAPseq": [
     "GenomicFeatures"
   ],
-  "TCC": [],
   "TCGAutils": [
     "GenomicFeatures"
   ],
@@ -2219,7 +2215,6 @@
   "interactiveDisplay": [
     "Category"
   ],
-  "isomiRs": [],
   "ivygapSE": [],
   "karyoploteR": [
     "regioneR",
