@@ -1230,7 +1230,6 @@
     "GEOquery",
     "affxparser"
   ],
-  "SCANVIS": [],
   "SCArray": [
     "BiocSingular"
   ],
@@ -2075,7 +2074,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "gg4way": [],
   "ggbio": [
     "biovizBase",
     "VariantAnnotation",
@@ -2576,7 +2574,6 @@
     "TFBSTools",
     "CNEr"
   ],
-  "pairedGSEA": [],
   "pairkat": [],
   "panelcn.mops": [
     "cn.mops"

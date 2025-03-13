@@ -1463,3 +1463,6 @@
 ['[flowGate](https://bioconductor.org/packages/3.20/bioc/html/flowGate.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/flowGate/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowGate)']
 ['[flowVS](https://bioconductor.org/packages/3.20/bioc/html/flowVS.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/flowVS/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowVS)']
 ['[scrapper](https://bioconductor.org/packages/3.20/bioc/html/scrapper.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scrapper/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scrapper)']
+['[SCANVIS](https://bioconductor.org/packages/3.20/bioc/html/SCANVIS.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SCANVIS/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SCANVIS)']
+['[gg4way](https://bioconductor.org/packages/3.20/bioc/html/gg4way.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/gg4way/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gg4way)']
+['[pairedGSEA](https://bioconductor.org/packages/3.20/bioc/html/pairedGSEA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/pairedGSEA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pairedGSEA)']

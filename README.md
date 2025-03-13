@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1465 packages built successfully
+- 1468 packages built successfully
 - 22 packages failed to build
-- 746 packages not yet processed
+- 743 packages not yet processed
 
 ## Failed Builds (22)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -34,7 +34,7 @@
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 
-## Successfully Built (1465)
+## Successfully Built (1468)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1502,8 +1502,11 @@
 | [flowGate](https://bioconductor.org/packages/3.20/bioc/html/flowGate.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowGate/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowGate)                   |
 | [flowVS](https://bioconductor.org/packages/3.20/bioc/html/flowVS.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/flowVS/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/flowVS)                     |
 | [scrapper](https://bioconductor.org/packages/3.20/bioc/html/scrapper.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/scrapper/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scrapper)                   |
+| [SCANVIS](https://bioconductor.org/packages/3.20/bioc/html/SCANVIS.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/SCANVIS/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SCANVIS)                    |
+| [gg4way](https://bioconductor.org/packages/3.20/bioc/html/gg4way.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/gg4way/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gg4way)                     |
+| [pairedGSEA](https://bioconductor.org/packages/3.20/bioc/html/pairedGSEA.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/pairedGSEA/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pairedGSEA)                 |
 
-## Not Yet Processed (746)
+## Not Yet Processed (743)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1787,7 +1790,6 @@
 | [Rqc](https://bioconductor.org/packages/3.20/bioc/html/Rqc.html)                                                 | Unprocessed |
 | [SARC](https://bioconductor.org/packages/3.20/bioc/html/SARC.html)                                               | Unprocessed |
 | [SCAN.UPC](https://bioconductor.org/packages/3.20/bioc/html/SCAN.UPC.html)                                       | Unprocessed |
-| [SCANVIS](https://bioconductor.org/packages/3.20/bioc/html/SCANVIS.html)                                         | Unprocessed |
 | [SCArray](https://bioconductor.org/packages/3.20/bioc/html/SCArray.html)                                         | Unprocessed |
 | [SCArray.sat](https://bioconductor.org/packages/3.20/bioc/html/SCArray.sat.html)                                 | Unprocessed |
 | [SCOPE](https://bioconductor.org/packages/3.20/bioc/html/SCOPE.html)                                             | Unprocessed |
@@ -1974,7 +1976,6 @@
 | [geneAttribution](https://bioconductor.org/packages/3.20/bioc/html/geneAttribution.html)                         | Unprocessed |
 | [genomation](https://bioconductor.org/packages/3.20/bioc/html/genomation.html)                                   | Unprocessed |
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                                     | Unprocessed |
-| [gg4way](https://bioconductor.org/packages/3.20/bioc/html/gg4way.html)                                           | Unprocessed |
 | [ggbio](https://bioconductor.org/packages/3.20/bioc/html/ggbio.html)                                             | Unprocessed |
 | [ggsc](https://bioconductor.org/packages/3.20/bioc/html/ggsc.html)                                               | Unprocessed |
 | [ggspavis](https://bioconductor.org/packages/3.20/bioc/html/ggspavis.html)                                       | Unprocessed |
@@ -2094,7 +2095,6 @@
 | [pRoloc](https://bioconductor.org/packages/3.20/bioc/html/pRoloc.html)                                           | Unprocessed |
 | [pRolocGUI](https://bioconductor.org/packages/3.20/bioc/html/pRolocGUI.html)                                     | Unprocessed |
 | [pageRank](https://bioconductor.org/packages/3.20/bioc/html/pageRank.html)                                       | Unprocessed |
-| [pairedGSEA](https://bioconductor.org/packages/3.20/bioc/html/pairedGSEA.html)                                   | Unprocessed |
 | [pairkat](https://bioconductor.org/packages/3.20/bioc/html/pairkat.html)                                         | Unprocessed |
 | [panelcn.mops](https://bioconductor.org/packages/3.20/bioc/html/panelcn.mops.html)                               | Unprocessed |
 | [pathlinkR](https://bioconductor.org/packages/3.20/bioc/html/pathlinkR.html)                                     | Unprocessed |

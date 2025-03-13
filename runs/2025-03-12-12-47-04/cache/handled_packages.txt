@@ -614,6 +614,7 @@ SANTA
 SBGNview
 SBMLR
 SC3
+SCANVIS
 SCBN
 SCFA
 SCnorm
@@ -1016,6 +1017,7 @@ genomicInstability
 gep2pep
 getDEE2
 geva
+gg4way
 ggcyto
 ggkegg
 ggmanh
@@ -1221,6 +1223,7 @@ orthos
 packFinder
 padma
 paircompviz
+pairedGSEA
 pandaR
 panp
 parglms
