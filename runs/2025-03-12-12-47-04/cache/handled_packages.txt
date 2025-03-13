@@ -764,6 +764,7 @@ biomformat
 biotmle
 blima
 bluster
+bnbc
 bnem
 breakpointR
 brendaDb

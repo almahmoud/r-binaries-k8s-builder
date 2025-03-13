@@ -1380,3 +1380,4 @@
 ['[speckle](https://bioconductor.org/packages/3.20/bioc/html/speckle.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/speckle/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/speckle)']
 ['[CHETAH](https://bioconductor.org/packages/3.20/bioc/html/CHETAH.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CHETAH/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CHETAH)']
 ['[XDE](https://bioconductor.org/packages/3.20/bioc/html/XDE.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/XDE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/XDE)']
+['[bnbc](https://bioconductor.org/packages/3.20/bioc/html/bnbc.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/bnbc/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bnbc)']

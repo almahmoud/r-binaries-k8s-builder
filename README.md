@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1382 packages built successfully
+- 1383 packages built successfully
 - 21 packages failed to build
-- 830 packages not yet processed
+- 829 packages not yet processed
 
 ## Failed Builds (21)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -33,7 +33,7 @@
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 
-## Successfully Built (1382)
+## Successfully Built (1383)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1418,8 +1418,9 @@
 | [speckle](https://bioconductor.org/packages/3.20/bioc/html/speckle.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/speckle/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/speckle)                    |
 | [CHETAH](https://bioconductor.org/packages/3.20/bioc/html/CHETAH.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/CHETAH/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CHETAH)                     |
 | [XDE](https://bioconductor.org/packages/3.20/bioc/html/XDE.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/XDE/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/XDE)                        |
+| [bnbc](https://bioconductor.org/packages/3.20/bioc/html/bnbc.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/bnbc/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bnbc)                       |
 
-## Not Yet Processed (830)
+## Not Yet Processed (829)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1835,7 +1836,6 @@
 | [biovizBase](https://bioconductor.org/packages/3.20/bioc/html/biovizBase.html)                                   | Unprocessed |
 | [biscuiteer](https://bioconductor.org/packages/3.20/bioc/html/biscuiteer.html)                                   | Unprocessed |
 | [blacksheepr](https://bioconductor.org/packages/3.20/bioc/html/blacksheepr.html)                                 | Unprocessed |
-| [bnbc](https://bioconductor.org/packages/3.20/bioc/html/bnbc.html)                                               | Unprocessed |
 | [borealis](https://bioconductor.org/packages/3.20/bioc/html/borealis.html)                                       | Unprocessed |
 | [branchpointer](https://bioconductor.org/packages/3.20/bioc/html/branchpointer.html)                             | Unprocessed |
 | [broadSeq](https://bioconductor.org/packages/3.20/bioc/html/broadSeq.html)                                       | Unprocessed |
