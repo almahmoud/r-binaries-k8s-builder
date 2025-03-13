@@ -1616,3 +1616,5 @@ SingleR
 clusterExperiment
 IdeoViz
 OTUbase
+mariner
+planttfhunter

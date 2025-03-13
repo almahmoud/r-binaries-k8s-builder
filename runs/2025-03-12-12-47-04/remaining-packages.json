@@ -1932,7 +1932,6 @@
     "GenomicFeatures",
     "TRESS"
   ],
-  "mariner": [],
   "maser": [
     "Gviz",
     "GenomicFeatures",
@@ -2209,7 +2208,6 @@
     "scuttle"
   ],
   "pipeFrame": [],
-  "planttfhunter": [],
   "prebs": [],
   "preciseTAD": [
     "rCGH",

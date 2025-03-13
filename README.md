@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1618 packages built successfully
+- 1620 packages built successfully
 - 24 packages failed to build
-- 591 packages not yet processed
+- 589 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1618)
+## Successfully Built (1620)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1657,8 +1657,10 @@
 | [IdeoViz](https://bioconductor.org/packages/3.20/bioc/html/IdeoViz.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/IdeoViz/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/IdeoViz)                    |
 | [clusterExperiment](https://bioconductor.org/packages/3.20/bioc/html/clusterExperiment.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/clusterExperiment/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/clusterExperiment)          |
 | [OTUbase](https://bioconductor.org/packages/3.20/bioc/html/OTUbase.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/OTUbase/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OTUbase)                    |
+| [mariner](https://bioconductor.org/packages/3.20/bioc/html/mariner.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/mariner/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/mariner)                    |
+| [planttfhunter](https://bioconductor.org/packages/3.20/bioc/html/planttfhunter.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/planttfhunter/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/planttfhunter)              |
 
-## Not Yet Processed (591)
+## Not Yet Processed (589)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -2077,7 +2079,6 @@
 | [lute](https://bioconductor.org/packages/3.20/bioc/html/lute.html)                                               | Unprocessed |
 | [mCSEA](https://bioconductor.org/packages/3.20/bioc/html/mCSEA.html)                                             | Unprocessed |
 | [magpie](https://bioconductor.org/packages/3.20/bioc/html/magpie.html)                                           | Unprocessed |
-| [mariner](https://bioconductor.org/packages/3.20/bioc/html/mariner.html)                                         | Unprocessed |
 | [maser](https://bioconductor.org/packages/3.20/bioc/html/maser.html)                                             | Unprocessed |
 | [meshr](https://bioconductor.org/packages/3.20/bioc/html/meshr.html)                                             | Unprocessed |
 | [metaMS](https://bioconductor.org/packages/3.20/bioc/html/metaMS.html)                                           | Unprocessed |
@@ -2144,7 +2145,6 @@
 | [phenoTest](https://bioconductor.org/packages/3.20/bioc/html/phenoTest.html)                                     | Unprocessed |
 | [pipeComp](https://bioconductor.org/packages/3.20/bioc/html/pipeComp.html)                                       | Unprocessed |
 | [pipeFrame](https://bioconductor.org/packages/3.20/bioc/html/pipeFrame.html)                                     | Unprocessed |
-| [planttfhunter](https://bioconductor.org/packages/3.20/bioc/html/planttfhunter.html)                             | Unprocessed |
 | [prebs](https://bioconductor.org/packages/3.20/bioc/html/prebs.html)                                             | Unprocessed |
 | [preciseTAD](https://bioconductor.org/packages/3.20/bioc/html/preciseTAD.html)                                   | Unprocessed |
 | [primirTSS](https://bioconductor.org/packages/3.20/bioc/html/primirTSS.html)                                     | Unprocessed |

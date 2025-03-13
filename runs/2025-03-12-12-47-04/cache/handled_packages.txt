@@ -1218,6 +1218,7 @@ maftools
 magrene
 makecdfenv
 mapscape
+mariner
 marr
 marray
 martini
@@ -1364,6 +1365,7 @@ phyloseq
 piano
 pickgene
 planet
+planttfhunter
 plasmut
 plgem
 plier
