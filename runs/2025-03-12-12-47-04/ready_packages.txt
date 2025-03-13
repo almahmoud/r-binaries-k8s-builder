@@ -1,5 +1,0 @@
-DMRcate
-MEAL
-methylGSA
-netZooR
-singleCellTK
