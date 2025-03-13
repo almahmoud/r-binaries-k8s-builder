@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1741 packages built successfully
+- 1742 packages built successfully
 - 27 packages failed to build
-- 465 packages not yet processed
+- 464 packages not yet processed
 
 ## Failed Builds (27)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -39,7 +39,7 @@
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 
-## Successfully Built (1741)
+## Successfully Built (1742)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1783,8 +1783,9 @@
 | [cardelino](https://bioconductor.org/packages/3.20/bioc/html/cardelino.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/cardelino/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cardelino)                   |
 | [RareVariantVis](https://bioconductor.org/packages/3.20/bioc/html/RareVariantVis.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/RareVariantVis/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RareVariantVis)              |
 | [rqt](https://bioconductor.org/packages/3.20/bioc/html/rqt.html)                                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/rqt/build-success.log)                         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rqt)                         |
+| [deepSNV](https://bioconductor.org/packages/3.20/bioc/html/deepSNV.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/deepSNV/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/deepSNV)                     |
 
-## Not Yet Processed (465)
+## Not Yet Processed (464)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2052,7 +2053,6 @@
 | [decompTumor2Sig](https://bioconductor.org/packages/3.20/bioc/html/decompTumor2Sig.html)                       | Unprocessed |
 | [decontX](https://bioconductor.org/packages/3.20/bioc/html/decontX.html)                                       | Unprocessed |
 | [deconvR](https://bioconductor.org/packages/3.20/bioc/html/deconvR.html)                                       | Unprocessed |
-| [deepSNV](https://bioconductor.org/packages/3.20/bioc/html/deepSNV.html)                                       | Unprocessed |
 | [derfinder](https://bioconductor.org/packages/3.20/bioc/html/derfinder.html)                                   | Unprocessed |
 | [derfinderPlot](https://bioconductor.org/packages/3.20/bioc/html/derfinderPlot.html)                           | Unprocessed |
 | [diffHic](https://bioconductor.org/packages/3.20/bioc/html/diffHic.html)                                       | Unprocessed |

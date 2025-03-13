@@ -1739,3 +1739,4 @@
 ['[cardelino](https://bioconductor.org/packages/3.20/bioc/html/cardelino.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/cardelino/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cardelino)']
 ['[RareVariantVis](https://bioconductor.org/packages/3.20/bioc/html/RareVariantVis.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/RareVariantVis/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RareVariantVis)']
 ['[rqt](https://bioconductor.org/packages/3.20/bioc/html/rqt.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/rqt/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rqt)']
+['[deepSNV](https://bioconductor.org/packages/3.20/bioc/html/deepSNV.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/deepSNV/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/deepSNV)']

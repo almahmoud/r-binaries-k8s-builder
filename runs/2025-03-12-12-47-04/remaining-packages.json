@@ -909,7 +909,6 @@
     "fastseg",
     "GEOquery"
   ],
-  "deepSNV": [],
   "derfinder": [],
   "derfinderPlot": [
     "derfinder",
@@ -1184,9 +1183,7 @@
     "minfi",
     "GEOquery"
   ],
-  "mitoClone2": [
-    "deepSNV"
-  ],
+  "mitoClone2": [],
   "monaLisa": [
     "TFBSTools"
   ],
