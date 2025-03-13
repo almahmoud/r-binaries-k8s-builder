@@ -1914,3 +1914,7 @@ attract
 categoryCompare
 miRLAB
 lisaClust
+EGSEA
+GARS
+escape
+oppar

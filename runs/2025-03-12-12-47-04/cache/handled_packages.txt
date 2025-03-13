@@ -13,6 +13,7 @@ AMARETTO
 AMOUNTAIN
 ANCOMBC
 ANF
+APAlyzer
 APL
 ARRmNormalization
 ASAFE
@@ -63,6 +64,8 @@ BUScorrect
 BUSpaRse
 BUSseq
 BaalChIP
+BadRegionFinder
+Banksy
 BaseSpaceR
 Basic4Cseq
 BasicSTARRseq
@@ -150,6 +153,7 @@ CSSQ
 CTDquerier
 CTSV
 CTdata
+CTexploreR
 CaDrA
 CaMutQC
 Cardinal
@@ -196,6 +200,8 @@ CrispRVariants
 CuratedAtlasQueryR
 CytoDx
 CytoGLMM
+CytoML
+DAMEfinder
 DART
 DCATS
 DECIPHER
@@ -225,6 +231,7 @@ DOSE
 DRIMSeq
 DSS
 DTA
+DaMiRseq
 DeMAND
 DeconRNASeq
 DeepPINCS
@@ -320,6 +327,7 @@ GSEABenchmarkeR
 GSEAlm
 GSEAmining
 GSRI
+GSVA
 GSgalgoR
 GWAS.BAYES
 GWASTools
@@ -804,6 +812,7 @@ SplicingFactory
 SplicingGraphs
 SpotClean
 StabMap
+Statial
 Streamer
 Structstrings
 StructuralVariantAnnotation
@@ -1488,6 +1497,7 @@ parody
 partCNV
 pathRender
 pathifier
+pathlinkR
 pathview
 pathwayPCA
 pcaMethods

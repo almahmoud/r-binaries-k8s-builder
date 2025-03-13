@@ -7,7 +7,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "APAlyzer": [],
   "ASpli": [
     "Gviz",
     "txdbmaker"
@@ -55,8 +54,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "BadRegionFinder": [],
-  "Banksy": [],
   "BatchQC": [
     "EBSeq",
     "scran",
@@ -115,7 +112,6 @@
   "CRISPRball": [
     "dittoSeq"
   ],
-  "CTexploreR": [],
   "CellMixS": [
     "scater",
     "scuttle"
@@ -175,12 +171,10 @@
   "CytoMDS": [
     "CytoPipeline"
   ],
-  "CytoML": [],
   "CytoPipeline": [],
   "CytoPipelineGUI": [
     "CytoPipeline"
   ],
-  "DAMEfinder": [],
   "DAPAR": [],
   "DEP": [],
   "DEScan2": [
@@ -200,7 +194,6 @@
     "GEOquery",
     "methylumi"
   ],
-  "DaMiRseq": [],
   "Damsel": [
     "ggbio",
     "goseq",
@@ -232,9 +225,7 @@
   "EGAD": [
     "GEOquery"
   ],
-  "EGSEA": [
-    "GSVA"
-  ],
+  "EGSEA": [],
   "ELMER": [
     "Gviz"
   ],
@@ -270,9 +261,7 @@
   ],
   "FastqCleaner": [],
   "GA4GHshiny": [],
-  "GARS": [
-    "DaMiRseq"
-  ],
+  "GARS": [],
   "GEOexplorer": [
     "GEOquery"
   ],
@@ -285,7 +274,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "GSVA": [],
   "GUIDEseq": [
     "ChIPpeakAnno",
     "regioneR"
@@ -617,7 +605,6 @@
     "scuttle"
   ],
   "SpotSweeper": [],
-  "Statial": [],
   "TFBSTools": [],
   "TFHAZ": [
     "ORFik",
@@ -905,9 +892,7 @@
     "TFBSTools",
     "motifmatchr"
   ],
-  "escape": [
-    "GSVA"
-  ],
+  "escape": [],
   "extraChIPs": [
     "GenomicInteractions",
     "Gviz"
@@ -1155,17 +1140,14 @@
   ],
   "nnSVG": [],
   "octad": [
-    "RUVSeq",
-    "GSVA"
+    "RUVSeq"
   ],
   "oligo": [
     "affxparser"
   ],
   "omXplore": [],
   "omicRexposome": [],
-  "oppar": [
-    "GSVA"
-  ],
+  "oppar": [],
   "pRoloc": [],
   "pRolocGUI": [
     "pRoloc"
@@ -1177,7 +1159,6 @@
   "panelcn.mops": [
     "cn.mops"
   ],
-  "pathlinkR": [],
   "pcaExplorer": [
     "mosdef",
     "goseq",
@@ -1287,7 +1268,6 @@
     "scuttle"
   ],
   "scFeatures": [
-    "GSVA",
     "SingleCellSignalR",
     "scran",
     "scuttle"
@@ -1357,7 +1337,6 @@
   "simpleSeg": [],
   "singleCellTK": [
     "batchelor",
-    "GSVA",
     "scater",
     "scMerge",
     "scran",

@@ -1791,3 +1791,13 @@ tpSVG
 transcriptR
 smoothclust
 xenLite
+APAlyzer
+BadRegionFinder
+Banksy
+CTexploreR
+CytoML
+DAMEfinder
+DaMiRseq
+GSVA
+pathlinkR
+Statial
