@@ -1498,3 +1498,7 @@ methrix
 SCOPE
 cliProfiler
 systemPipeR
+crisprBwa
+genomation
+hiAnnotator
+scGPS

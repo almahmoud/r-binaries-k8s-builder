@@ -896,6 +896,7 @@ covRNA
 cqn
 crisprBase
 crisprBowtie
+crisprBwa
 crisprScore
 crlmm
 csdR
@@ -1033,6 +1034,7 @@ genefilter
 geneplast
 geneplotter
 genoCN
+genomation
 genomeIntervals
 genomes
 genomicInstability
@@ -1070,6 +1072,7 @@ h5vc
 hapFabia
 hca
 heatmaps
+hiAnnotator
 hierGWAS
 hierinf
 hipathia
@@ -1370,6 +1373,7 @@ scDataviz
 scDesign3
 scDiagnostics
 scFeatureFilter
+scGPS
 scHOT
 scMET
 scMitoMut

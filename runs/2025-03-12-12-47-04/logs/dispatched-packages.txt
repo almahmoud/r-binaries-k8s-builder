@@ -1672,3 +1672,6 @@ iCNV
 iSEEfier
 MinimumDistance
 DiffBind
+CexoR
+fCCAC
+hiReadsProcessor
