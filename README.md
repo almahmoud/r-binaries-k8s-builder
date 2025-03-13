@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1429 packages built successfully
+- 1433 packages built successfully
 - 22 packages failed to build
-- 782 packages not yet processed
+- 778 packages not yet processed
 
 ## Failed Builds (22)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -34,7 +34,7 @@
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 
-## Successfully Built (1429)
+## Successfully Built (1433)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1466,8 +1466,12 @@
 | [soGGi](https://bioconductor.org/packages/3.20/bioc/html/soGGi.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/soGGi/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/soGGi)                      |
 | [ERSSA](https://bioconductor.org/packages/3.20/bioc/html/ERSSA.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/ERSSA/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ERSSA)                      |
 | [iSEEpathways](https://bioconductor.org/packages/3.20/bioc/html/iSEEpathways.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/iSEEpathways/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iSEEpathways)               |
+| [CeTF](https://bioconductor.org/packages/3.20/bioc/html/CeTF.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/CeTF/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CeTF)                       |
+| [HybridExpress](https://bioconductor.org/packages/3.20/bioc/html/HybridExpress.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/HybridExpress/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HybridExpress)              |
+| [MLSeq](https://bioconductor.org/packages/3.20/bioc/html/MLSeq.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/MLSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MLSeq)                      |
+| [iSEEhex](https://bioconductor.org/packages/3.20/bioc/html/iSEEhex.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/iSEEhex/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iSEEhex)                    |
 
-## Not Yet Processed (782)
+## Not Yet Processed (778)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1521,7 +1525,6 @@
 | [CTexploreR](https://bioconductor.org/packages/3.20/bioc/html/CTexploreR.html)                                   | Unprocessed |
 | [Category](https://bioconductor.org/packages/3.20/bioc/html/Category.html)                                       | Unprocessed |
 | [CatsCradle](https://bioconductor.org/packages/3.20/bioc/html/CatsCradle.html)                                   | Unprocessed |
-| [CeTF](https://bioconductor.org/packages/3.20/bioc/html/CeTF.html)                                               | Unprocessed |
 | [CellBarcode](https://bioconductor.org/packages/3.20/bioc/html/CellBarcode.html)                                 | Unprocessed |
 | [CellBench](https://bioconductor.org/packages/3.20/bioc/html/CellBench.html)                                     | Unprocessed |
 | [CellMixS](https://bioconductor.org/packages/3.20/bioc/html/CellMixS.html)                                       | Unprocessed |
@@ -1635,7 +1638,6 @@
 | [HiTC](https://bioconductor.org/packages/3.20/bioc/html/HiTC.html)                                               | Unprocessed |
 | [HicAggR](https://bioconductor.org/packages/3.20/bioc/html/HicAggR.html)                                         | Unprocessed |
 | [HoloFoodR](https://bioconductor.org/packages/3.20/bioc/html/HoloFoodR.html)                                     | Unprocessed |
-| [HybridExpress](https://bioconductor.org/packages/3.20/bioc/html/HybridExpress.html)                             | Unprocessed |
 | [IMAS](https://bioconductor.org/packages/3.20/bioc/html/IMAS.html)                                               | Unprocessed |
 | [INSPEcT](https://bioconductor.org/packages/3.20/bioc/html/INSPEcT.html)                                         | Unprocessed |
 | [IONiseR](https://bioconductor.org/packages/3.20/bioc/html/IONiseR.html)                                         | Unprocessed |
@@ -1663,7 +1665,6 @@
 | [MIRA](https://bioconductor.org/packages/3.20/bioc/html/MIRA.html)                                               | Unprocessed |
 | [MIRit](https://bioconductor.org/packages/3.20/bioc/html/MIRit.html)                                             | Unprocessed |
 | [MLInterfaces](https://bioconductor.org/packages/3.20/bioc/html/MLInterfaces.html)                               | Unprocessed |
-| [MLSeq](https://bioconductor.org/packages/3.20/bioc/html/MLSeq.html)                                             | Unprocessed |
 | [MOSClip](https://bioconductor.org/packages/3.20/bioc/html/MOSClip.html)                                         | Unprocessed |
 | [MOSim](https://bioconductor.org/packages/3.20/bioc/html/MOSim.html)                                             | Unprocessed |
 | [MPAC](https://bioconductor.org/packages/3.20/bioc/html/MPAC.html)                                               | Unprocessed |
@@ -1995,7 +1996,6 @@
 | [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                                     | Unprocessed |
 | [iSEEde](https://bioconductor.org/packages/3.20/bioc/html/iSEEde.html)                                           | Unprocessed |
 | [iSEEfier](https://bioconductor.org/packages/3.20/bioc/html/iSEEfier.html)                                       | Unprocessed |
-| [iSEEhex](https://bioconductor.org/packages/3.20/bioc/html/iSEEhex.html)                                         | Unprocessed |
 | [iSEEtree](https://bioconductor.org/packages/3.20/bioc/html/iSEEtree.html)                                       | Unprocessed |
 | [iSEEu](https://bioconductor.org/packages/3.20/bioc/html/iSEEu.html)                                             | Unprocessed |
 | [icetea](https://bioconductor.org/packages/3.20/bioc/html/icetea.html)                                           | Unprocessed |

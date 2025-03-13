@@ -138,6 +138,7 @@ CaMutQC
 Cardinal
 CardinalIO
 CausalR
+CeTF
 CellMapper
 CellNOptR
 CellScore
@@ -324,6 +325,7 @@ HilbertVis
 HilbertVisGUI
 HuBMAPR
 HubPub
+HybridExpress
 HybridMTest
 IFAA
 IHW
@@ -388,6 +390,7 @@ MGFM
 MGFR
 MICSQTL
 MLP
+MLSeq
 MMDiff2
 MMUPHin
 MODA
@@ -1033,6 +1036,7 @@ iClusterPlus
 iGC
 iPath
 iSEE
+iSEEhex
 iSEEhub
 iSEEindex
 iSEEpathways

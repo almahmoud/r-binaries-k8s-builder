@@ -235,7 +235,6 @@
   "CatsCradle": [
     "SpatialExperiment"
   ],
-  "CeTF": [],
   "CellBarcode": [],
   "CellBench": [],
   "CellMixS": [
@@ -556,7 +555,6 @@
   ],
   "GARS": [
     "DaMiRseq",
-    "MLSeq",
     "EDASeq",
     "GenomicFeatures"
   ],
@@ -700,7 +698,6 @@
   "HiTC": [],
   "HicAggR": [],
   "HoloFoodR": [],
-  "HybridExpress": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS"
@@ -822,7 +819,6 @@
   ],
   "MIRit": [],
   "MLInterfaces": [],
-  "MLSeq": [],
   "MOSClip": [
     "qpgraph",
     "GenomicFeatures"
@@ -2197,10 +2193,8 @@
   ],
   "iSEEde": [],
   "iSEEfier": [
-    "iSEEu",
-    "iSEEhex"
+    "iSEEu"
   ],
-  "iSEEhex": [],
   "iSEEtree": [
     "miaViz",
     "mia",
@@ -2208,9 +2202,7 @@
     "scuttle",
     "BiocSingular"
   ],
-  "iSEEu": [
-    "iSEEhex"
-  ],
+  "iSEEu": [],
   "icetea": [
     "GenomicFeatures",
     "VariantAnnotation",
