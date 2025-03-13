@@ -79,7 +79,6 @@
     "oligo",
     "affxparser"
   ],
-  "IsoformSwitchAnalyzeR": [],
   "LOBSTAHS": [
     "xcms",
     "CAMERA"
@@ -263,15 +262,12 @@
     "EBSeq",
     "Oscope"
   ],
-  "scDblFinder": [],
-  "scDotPlot": [],
   "scFeatures": [],
   "scMerge": [],
   "scTreeViz": [],
   "scviR": [],
   "singleCellTK": [
-    "scMerge",
-    "scDblFinder"
+    "scMerge"
   ],
   "skewr": [
     "wateRmelon",
@@ -282,7 +278,6 @@
     "xcms"
   ],
   "ternarynet": [],
-  "tricycle": [],
   "vulcan": [
     "DiffBind"
   ],

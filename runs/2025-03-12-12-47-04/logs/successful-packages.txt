@@ -2097,3 +2097,7 @@ atSNP
 ExperimentHubData
 RnBeads
 scruff
+IsoformSwitchAnalyzeR
+scDblFinder
+scDotPlot
+tricycle

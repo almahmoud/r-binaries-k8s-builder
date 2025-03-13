@@ -502,6 +502,7 @@ IntramiRExploreR
 IsoBayes
 IsoCorrectoR
 IsoCorrectoRGUI
+IsoformSwitchAnalyzeR
 KBoost
 KCsmart
 KEGGREST
@@ -1895,8 +1896,10 @@ scBubbletree
 scCB2
 scClassify
 scDataviz
+scDblFinder
 scDesign3
 scDiagnostics
+scDotPlot
 scFeatureFilter
 scGPS
 scHOT
@@ -2080,6 +2083,7 @@ traseR
 treeclimbR
 treeio
 treekoR
+tricycle
 trigger
 trio
 triplex
