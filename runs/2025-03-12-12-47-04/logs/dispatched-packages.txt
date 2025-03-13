@@ -2082,3 +2082,5 @@ ExperimentHubData
 RNAAgeCalc
 RnaSeqSampleSize
 psichomics
+circRNAprofiler
+vtpnet

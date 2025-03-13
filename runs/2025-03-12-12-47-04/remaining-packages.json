@@ -311,9 +311,7 @@
     "scater"
   ],
   "chromVAR": [],
-  "circRNAprofiler": [
-    "gwascat"
-  ],
+  "circRNAprofiler": [],
   "cliqueMS": [
     "xcms"
   ],
@@ -420,7 +418,6 @@
   "girafe": [],
   "gpuMagic": [],
   "graper": [],
-  "gwascat": [],
   "hummingbird": [],
   "iCheck": [
     "lumi",
@@ -620,9 +617,7 @@
   ],
   "tximeta": [],
   "uncoverappLib": [],
-  "vtpnet": [
-    "gwascat"
-  ],
+  "vtpnet": [],
   "vulcan": [
     "DiffBind"
   ],

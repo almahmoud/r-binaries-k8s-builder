@@ -1364,6 +1364,7 @@ groHMM
 gscreend
 gsean
 gtrellis
+gwascat
 gwasurvivr
 gypsum
 h5vc

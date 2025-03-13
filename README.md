@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1967 packages built successfully
+- 1968 packages built successfully
 - 29 packages failed to build
-- 237 packages not yet processed
+- 236 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -41,7 +41,7 @@
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 
-## Successfully Built (1967)
+## Successfully Built (1968)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2011,8 +2011,9 @@
 | [AnnotationHubData](https://bioconductor.org/packages/3.20/bioc/html/AnnotationHubData.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AnnotationHubData/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AnnotationHubData)           |
 | [RNAmodR.AlkAnilineSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.AlkAnilineSeq.html)             | Built    | [Log](runs/2025-03-12-12-47-04/logs/RNAmodR.AlkAnilineSeq/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RNAmodR.AlkAnilineSeq)       |
 | [recount](https://bioconductor.org/packages/3.20/bioc/html/recount.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/recount/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/recount)                     |
+| [gwascat](https://bioconductor.org/packages/3.20/bioc/html/gwascat.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/gwascat/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gwascat)                     |
 
-## Not Yet Processed (237)
+## Not Yet Processed (236)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2171,7 +2172,6 @@
 | [gDR](https://bioconductor.org/packages/3.20/bioc/html/gDR.html)                                               | Unprocessed |
 | [gDRimport](https://bioconductor.org/packages/3.20/bioc/html/gDRimport.html)                                   | Unprocessed |
 | [ggbio](https://bioconductor.org/packages/3.20/bioc/html/ggbio.html)                                           | Unprocessed |
-| [gwascat](https://bioconductor.org/packages/3.20/bioc/html/gwascat.html)                                       | Unprocessed |
 | [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                                         | Unprocessed |
 | [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                                   | Unprocessed |
 | [iSEEtree](https://bioconductor.org/packages/3.20/bioc/html/iSEEtree.html)                                     | Unprocessed |
