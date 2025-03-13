@@ -656,6 +656,7 @@ RTopper
 RUVcorr
 RUVnormalize
 RVS
+RadioGx
 RaggedExperiment
 RankProd
 Rarr

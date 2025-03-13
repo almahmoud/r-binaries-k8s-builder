@@ -1691,3 +1691,4 @@
 ['[gDRutils](https://bioconductor.org/packages/3.20/bioc/html/gDRutils.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/gDRutils/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gDRutils)']
 ['[qpgraph](https://bioconductor.org/packages/3.20/bioc/html/qpgraph.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/qpgraph/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/qpgraph)']
 ['[wavClusteR](https://bioconductor.org/packages/3.20/bioc/html/wavClusteR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/wavClusteR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/wavClusteR)']
+['[RadioGx](https://bioconductor.org/packages/3.20/bioc/html/RadioGx.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/RadioGx/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RadioGx)']

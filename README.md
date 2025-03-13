@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1693 packages built successfully
+- 1694 packages built successfully
 - 26 packages failed to build
-- 514 packages not yet processed
+- 513 packages not yet processed
 
 ## Failed Builds (26)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -38,7 +38,7 @@
 | [SCArray](https://bioconductor.org/packages/3.20/bioc/html/SCArray.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SCArray/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SCArray)       | Build failed with unknown error     |
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 
-## Successfully Built (1693)
+## Successfully Built (1694)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1734,8 +1734,9 @@
 | [gDRutils](https://bioconductor.org/packages/3.20/bioc/html/gDRutils.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/gDRutils/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gDRutils)                   |
 | [qpgraph](https://bioconductor.org/packages/3.20/bioc/html/qpgraph.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/qpgraph/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/qpgraph)                    |
 | [wavClusteR](https://bioconductor.org/packages/3.20/bioc/html/wavClusteR.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/wavClusteR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/wavClusteR)                 |
+| [RadioGx](https://bioconductor.org/packages/3.20/bioc/html/RadioGx.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/RadioGx/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/RadioGx)                    |
 
-## Not Yet Processed (514)
+## Not Yet Processed (513)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1919,7 +1920,6 @@
 | [RNAmodR.RiboMethSeq](https://bioconductor.org/packages/3.20/bioc/html/RNAmodR.RiboMethSeq.html)                 | Unprocessed |
 | [RTCGAToolbox](https://bioconductor.org/packages/3.20/bioc/html/RTCGAToolbox.html)                               | Unprocessed |
 | [RUVSeq](https://bioconductor.org/packages/3.20/bioc/html/RUVSeq.html)                                           | Unprocessed |
-| [RadioGx](https://bioconductor.org/packages/3.20/bioc/html/RadioGx.html)                                         | Unprocessed |
 | [RareVariantVis](https://bioconductor.org/packages/3.20/bioc/html/RareVariantVis.html)                           | Unprocessed |
 | [RegionalST](https://bioconductor.org/packages/3.20/bioc/html/RegionalST.html)                                   | Unprocessed |
 | [ReportingTools](https://bioconductor.org/packages/3.20/bioc/html/ReportingTools.html)                           | Unprocessed |
