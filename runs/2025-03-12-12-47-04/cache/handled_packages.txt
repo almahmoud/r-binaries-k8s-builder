@@ -421,6 +421,7 @@ Heatplus
 HelloRanges
 Herper
 HiCBricks
+HiCDCPlus
 HiCDOC
 HiCExperiment
 HiCcompare
