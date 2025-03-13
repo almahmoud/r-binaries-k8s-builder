@@ -1756,6 +1756,7 @@ scmap
 scoreInvHap
 scoup
 scp
+scran
 scrapper
 screenCounter
 scry
@@ -1818,6 +1819,7 @@ spicyR
 spikeLI
 spiky
 spkTools
+splatter
 splineTimeR
 splots
 spqn

@@ -1909,3 +1909,5 @@
 ['[scPipe](https://bioconductor.org/packages/3.20/bioc/html/scPipe.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scPipe/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scPipe)']
 ['[simPIC](https://bioconductor.org/packages/3.20/bioc/html/simPIC.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/simPIC/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/simPIC)']
 ['[spaSim](https://bioconductor.org/packages/3.20/bioc/html/spaSim.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/spaSim/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spaSim)']
+['[scran](https://bioconductor.org/packages/3.20/bioc/html/scran.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scran/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scran)']
+['[splatter](https://bioconductor.org/packages/3.20/bioc/html/splatter.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/splatter/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/splatter)']

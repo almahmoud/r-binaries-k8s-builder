@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1911 packages built successfully
+- 1913 packages built successfully
 - 29 packages failed to build
-- 293 packages not yet processed
+- 291 packages not yet processed
 
 ## Failed Builds (29)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -41,7 +41,7 @@
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 
-## Successfully Built (1911)
+## Successfully Built (1913)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1955,8 +1955,10 @@
 | [scPipe](https://bioconductor.org/packages/3.20/bioc/html/scPipe.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/scPipe/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scPipe)                      |
 | [simPIC](https://bioconductor.org/packages/3.20/bioc/html/simPIC.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/simPIC/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/simPIC)                      |
 | [spaSim](https://bioconductor.org/packages/3.20/bioc/html/spaSim.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/spaSim/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/spaSim)                      |
+| [scran](https://bioconductor.org/packages/3.20/bioc/html/scran.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/scran/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scran)                       |
+| [splatter](https://bioconductor.org/packages/3.20/bioc/html/splatter.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/splatter/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/splatter)                    |
 
-## Not Yet Processed (293)
+## Not Yet Processed (291)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2227,7 +2229,6 @@
 | [scater](https://bioconductor.org/packages/3.20/bioc/html/scater.html)                                         | Unprocessed |
 | [scmeth](https://bioconductor.org/packages/3.20/bioc/html/scmeth.html)                                         | Unprocessed |
 | [scone](https://bioconductor.org/packages/3.20/bioc/html/scone.html)                                           | Unprocessed |
-| [scran](https://bioconductor.org/packages/3.20/bioc/html/scran.html)                                           | Unprocessed |
 | [scruff](https://bioconductor.org/packages/3.20/bioc/html/scruff.html)                                         | Unprocessed |
 | [scviR](https://bioconductor.org/packages/3.20/bioc/html/scviR.html)                                           | Unprocessed |
 | [shinyMethyl](https://bioconductor.org/packages/3.20/bioc/html/shinyMethyl.html)                               | Unprocessed |
@@ -2237,7 +2238,6 @@
 | [skewr](https://bioconductor.org/packages/3.20/bioc/html/skewr.html)                                           | Unprocessed |
 | [spatzie](https://bioconductor.org/packages/3.20/bioc/html/spatzie.html)                                       | Unprocessed |
 | [spillR](https://bioconductor.org/packages/3.20/bioc/html/spillR.html)                                         | Unprocessed |
-| [splatter](https://bioconductor.org/packages/3.20/bioc/html/splatter.html)                                     | Unprocessed |
 | [spoon](https://bioconductor.org/packages/3.20/bioc/html/spoon.html)                                           | Unprocessed |
 | [squallms](https://bioconductor.org/packages/3.20/bioc/html/squallms.html)                                     | Unprocessed |
 | [standR](https://bioconductor.org/packages/3.20/bioc/html/standR.html)                                         | Unprocessed |

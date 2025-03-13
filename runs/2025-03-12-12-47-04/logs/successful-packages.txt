@@ -1909,3 +1909,5 @@ SpatialCPie
 SpatialFeatureExperiment
 TFBSTools
 VariantFiltering
+scran
+splatter
