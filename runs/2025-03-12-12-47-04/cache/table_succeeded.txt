@@ -1646,3 +1646,4 @@
 ['[iCNV](https://bioconductor.org/packages/3.20/bioc/html/iCNV.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/iCNV/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iCNV)']
 ['[chromstaR](https://bioconductor.org/packages/3.20/bioc/html/chromstaR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/chromstaR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/chromstaR)']
 ['[HicAggR](https://bioconductor.org/packages/3.20/bioc/html/HicAggR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/HicAggR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HicAggR)']
+['[CSSQ](https://bioconductor.org/packages/3.20/bioc/html/CSSQ.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/CSSQ/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CSSQ)']

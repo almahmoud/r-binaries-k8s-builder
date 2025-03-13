@@ -143,6 +143,7 @@ COTAN
 CRISPRseek
 CRImage
 CSAR
+CSSQ
 CTDquerier
 CaDrA
 CaMutQC
