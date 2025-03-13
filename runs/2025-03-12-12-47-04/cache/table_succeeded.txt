@@ -2044,3 +2044,4 @@
 ['[GeneTonic](https://bioconductor.org/packages/3.20/bioc/html/GeneTonic.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GeneTonic/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneTonic)']
 ['[GenomicOZone](https://bioconductor.org/packages/3.20/bioc/html/GenomicOZone.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GenomicOZone/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicOZone)']
 ['[M3Drop](https://bioconductor.org/packages/3.20/bioc/html/M3Drop.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/M3Drop/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/M3Drop)']
+['[MEB](https://bioconductor.org/packages/3.20/bioc/html/MEB.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MEB/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MEB)']

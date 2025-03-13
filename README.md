@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2046 packages built successfully
+- 2047 packages built successfully
 - 30 packages failed to build
-- 157 packages not yet processed
+- 156 packages not yet processed
 
 ## Failed Builds (30)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -42,7 +42,7 @@
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/bandle/build-fail.log)        | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bandle)     | Build failed with unknown error     |
 
-## Successfully Built (2046)
+## Successfully Built (2047)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2091,8 +2091,9 @@
 | [GeneTonic](https://bioconductor.org/packages/3.20/bioc/html/GeneTonic.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/GeneTonic/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneTonic)                   |
 | [GenomicOZone](https://bioconductor.org/packages/3.20/bioc/html/GenomicOZone.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/GenomicOZone/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicOZone)                |
 | [M3Drop](https://bioconductor.org/packages/3.20/bioc/html/M3Drop.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/M3Drop/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/M3Drop)                      |
+| [MEB](https://bioconductor.org/packages/3.20/bioc/html/MEB.html)                                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/MEB/build-success.log)                         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MEB)                         |
 
-## Not Yet Processed (157)
+## Not Yet Processed (156)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2131,7 +2132,6 @@
 | [MANOR](https://bioconductor.org/packages/3.20/bioc/html/MANOR.html)                                           | Unprocessed |
 | [MEAL](https://bioconductor.org/packages/3.20/bioc/html/MEAL.html)                                             | Unprocessed |
 | [MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)                                             | Unprocessed |
-| [MEB](https://bioconductor.org/packages/3.20/bioc/html/MEB.html)                                               | Unprocessed |
 | [MGnifyR](https://bioconductor.org/packages/3.20/bioc/html/MGnifyR.html)                                       | Unprocessed |
 | [MSnID](https://bioconductor.org/packages/3.20/bioc/html/MSnID.html)                                           | Unprocessed |
 | [MetaboSignal](https://bioconductor.org/packages/3.20/bioc/html/MetaboSignal.html)                             | Unprocessed |
