@@ -1879,3 +1879,4 @@
 ['[GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GeneStructureTools/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneStructureTools)']
 ['[GenomicInteractions](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractions.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/GenomicInteractions/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicInteractions)']
 ['[OGRE](https://bioconductor.org/packages/3.20/bioc/html/OGRE.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/OGRE/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OGRE)']
+['[ELMER](https://bioconductor.org/packages/3.20/bioc/html/ELMER.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/ELMER/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ELMER)']

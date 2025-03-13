@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1881 packages built successfully
+- 1882 packages built successfully
 - 28 packages failed to build
-- 324 packages not yet processed
+- 323 packages not yet processed
 
 ## Failed Builds (28)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -40,7 +40,7 @@
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 | [EpiCompare](https://bioconductor.org/packages/3.20/bioc/html/EpiCompare.html)       | Failed   | [Log](runs/2025-03-12-12-47-04/logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/EpiCompare)    | Build failed with unknown error     |
 
-## Successfully Built (1881)
+## Successfully Built (1882)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1924,8 +1924,9 @@
 | [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/GeneStructureTools/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneStructureTools)          |
 | [GenomicInteractions](https://bioconductor.org/packages/3.20/bioc/html/GenomicInteractions.html)                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/GenomicInteractions/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicInteractions)         |
 | [OGRE](https://bioconductor.org/packages/3.20/bioc/html/OGRE.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/OGRE/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/OGRE)                        |
+| [ELMER](https://bioconductor.org/packages/3.20/bioc/html/ELMER.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/ELMER/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ELMER)                       |
 
-## Not Yet Processed (324)
+## Not Yet Processed (323)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -1976,7 +1977,6 @@
 | [Dino](https://bioconductor.org/packages/3.20/bioc/html/Dino.html)                                             | Unprocessed |
 | [DrugVsDisease](https://bioconductor.org/packages/3.20/bioc/html/DrugVsDisease.html)                           | Unprocessed |
 | [EGSEA](https://bioconductor.org/packages/3.20/bioc/html/EGSEA.html)                                           | Unprocessed |
-| [ELMER](https://bioconductor.org/packages/3.20/bioc/html/ELMER.html)                                           | Unprocessed |
 | [ENmix](https://bioconductor.org/packages/3.20/bioc/html/ENmix.html)                                           | Unprocessed |
 | [EpiTxDb](https://bioconductor.org/packages/3.20/bioc/html/EpiTxDb.html)                                       | Unprocessed |
 | [EventPointer](https://bioconductor.org/packages/3.20/bioc/html/EventPointer.html)                             | Unprocessed |
