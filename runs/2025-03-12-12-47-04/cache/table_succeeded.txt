@@ -1431,3 +1431,5 @@
 ['[HybridExpress](https://bioconductor.org/packages/3.20/bioc/html/HybridExpress.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/HybridExpress/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HybridExpress)']
 ['[MLSeq](https://bioconductor.org/packages/3.20/bioc/html/MLSeq.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MLSeq/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MLSeq)']
 ['[iSEEhex](https://bioconductor.org/packages/3.20/bioc/html/iSEEhex.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/iSEEhex/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iSEEhex)']
+['[MultiRNAflow](https://bioconductor.org/packages/3.20/bioc/html/MultiRNAflow.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/MultiRNAflow/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MultiRNAflow)']
+['[geneXtendeR](https://bioconductor.org/packages/3.20/bioc/html/geneXtendeR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/geneXtendeR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/geneXtendeR)']

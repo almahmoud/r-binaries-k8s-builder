@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1433 packages built successfully
+- 1435 packages built successfully
 - 22 packages failed to build
-- 778 packages not yet processed
+- 776 packages not yet processed
 
 ## Failed Builds (22)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -34,7 +34,7 @@
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 
-## Successfully Built (1433)
+## Successfully Built (1435)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1470,8 +1470,10 @@
 | [HybridExpress](https://bioconductor.org/packages/3.20/bioc/html/HybridExpress.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/HybridExpress/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HybridExpress)              |
 | [MLSeq](https://bioconductor.org/packages/3.20/bioc/html/MLSeq.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/MLSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MLSeq)                      |
 | [iSEEhex](https://bioconductor.org/packages/3.20/bioc/html/iSEEhex.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/iSEEhex/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iSEEhex)                    |
+| [MultiRNAflow](https://bioconductor.org/packages/3.20/bioc/html/MultiRNAflow.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/MultiRNAflow/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MultiRNAflow)               |
+| [geneXtendeR](https://bioconductor.org/packages/3.20/bioc/html/geneXtendeR.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/geneXtendeR/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/geneXtendeR)                |
 
-## Not Yet Processed (778)
+## Not Yet Processed (776)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1691,7 +1693,6 @@
 | [MsExperiment](https://bioconductor.org/packages/3.20/bioc/html/MsExperiment.html)                               | Unprocessed |
 | [MsQuality](https://bioconductor.org/packages/3.20/bioc/html/MsQuality.html)                                     | Unprocessed |
 | [MultiBaC](https://bioconductor.org/packages/3.20/bioc/html/MultiBaC.html)                                       | Unprocessed |
-| [MultiRNAflow](https://bioconductor.org/packages/3.20/bioc/html/MultiRNAflow.html)                               | Unprocessed |
 | [MungeSumstats](https://bioconductor.org/packages/3.20/bioc/html/MungeSumstats.html)                             | Unprocessed |
 | [MutationalPatterns](https://bioconductor.org/packages/3.20/bioc/html/MutationalPatterns.html)                   | Unprocessed |
 | [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                     | Unprocessed |
@@ -1967,7 +1968,6 @@
 | [gINTomics](https://bioconductor.org/packages/3.20/bioc/html/gINTomics.html)                                     | Unprocessed |
 | [gcapc](https://bioconductor.org/packages/3.20/bioc/html/gcapc.html)                                             | Unprocessed |
 | [geneAttribution](https://bioconductor.org/packages/3.20/bioc/html/geneAttribution.html)                         | Unprocessed |
-| [geneXtendeR](https://bioconductor.org/packages/3.20/bioc/html/geneXtendeR.html)                                 | Unprocessed |
 | [genomation](https://bioconductor.org/packages/3.20/bioc/html/genomation.html)                                   | Unprocessed |
 | [geomeTriD](https://bioconductor.org/packages/3.20/bioc/html/geomeTriD.html)                                     | Unprocessed |
 | [gg4way](https://bioconductor.org/packages/3.20/bioc/html/gg4way.html)                                           | Unprocessed |

@@ -454,6 +454,7 @@ Mulcom
 MultiAssayExperiment
 MultiDataSet
 MultiMed
+MultiRNAflow
 MultimodalExperiment
 NCIgraph
 NOISeq
@@ -978,6 +979,7 @@ genArise
 geneClassifiers
 geneRecommender
 geneRxCluster
+geneXtendeR
 genefilter
 geneplast
 geneplotter

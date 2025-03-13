@@ -918,7 +918,6 @@
     "QFeatures"
   ],
   "MultiBaC": [],
-  "MultiRNAflow": [],
   "MungeSumstats": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -2104,7 +2103,6 @@
   "geneAttribution": [
     "GenomicFeatures"
   ],
-  "geneXtendeR": [],
   "genomation": [],
   "geomeTriD": [
     "trackViewer",
