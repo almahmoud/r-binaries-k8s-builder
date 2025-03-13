@@ -1,5 +1,6 @@
 ABSSeq
 ABarray
+ACE
 ACME
 AGDEX
 AIMS
@@ -229,6 +230,7 @@ GWASTools
 GWENA
 GateFinder
 GenProSeq
+GeneBreak
 GeneExpressionSignature
 GeneGA
 GeneGeneInteR
@@ -381,6 +383,7 @@ MsCoreUtils
 MsFeatures
 Mulcom
 MultiAssayExperiment
+MultiDataSet
 MultiMed
 NCIgraph
 NOISeq
@@ -688,6 +691,7 @@ cellmigRation
 cellscape
 cellxgenedp
 censcyt
+cfdnakit
 chopsticks
 chromDraw
 chromPlot
@@ -1110,6 +1114,7 @@ sarks
 satuRn
 scBubbletree
 scClassify
+scDesign3
 scFeatureFilter
 scMitoMut
 scMultiSim

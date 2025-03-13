@@ -1,5 +1,4 @@
 {
-  "ACE": [],
   "ADAM": [],
   "ADAMgui": [
     "ADAM"
@@ -27,8 +26,7 @@
     "topGO"
   ],
   "ASICS": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
   "ASURAT": [],
   "ASpli": [
@@ -968,7 +966,6 @@
     "VariantAnnotation",
     "rtracklayer"
   ],
-  "GeneBreak": [],
   "GeneGeneInteR": [],
   "GeneMeta": [],
   "GeneRegionScan": [
@@ -1242,7 +1239,6 @@
   ],
   "MAST": [],
   "MEAL": [
-    "MultiDataSet",
     "minfi",
     "Gviz",
     "missMethyl",
@@ -1444,10 +1440,8 @@
   ],
   "MuData": [],
   "MultiBaC": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
-  "MultiDataSet": [],
   "MultiRNAflow": [
     "DESeq2"
   ],
@@ -2501,7 +2495,6 @@
     "AnnotationFilter"
   ],
   "biosigner": [
-    "MultiDataSet",
     "ropls"
   ],
   "biovizBase": [
@@ -2629,7 +2622,6 @@
     "rtracklayer"
   ],
   "cfTools": [],
-  "cfdnakit": [],
   "cghMCR": [],
   "chihaya": [],
   "chimeraviz": [
@@ -3543,8 +3535,7 @@
     "GenomicFeatures"
   ],
   "lipidr": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
   "lisaClust": [
     "spicyR",
@@ -4011,7 +4002,6 @@
   ],
   "omicRexposome": [
     "omicade4",
-    "MultiDataSet",
     "made4"
   ],
   "omicade4": [
@@ -4110,7 +4100,6 @@
     "Category"
   ],
   "phenomis": [
-    "MultiDataSet",
     "ropls"
   ],
   "phenopath": [],
@@ -4355,12 +4344,9 @@
   "roar": [
     "rtracklayer"
   ],
-  "ropls": [
-    "MultiDataSet"
-  ],
+  "ropls": [],
   "rqt": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
   "rtracklayer": [],
   "safe": [],
@@ -4411,7 +4397,6 @@
     "ScaledMatrix",
     "beachmat"
   ],
-  "scDesign3": [],
   "scDiagnostics": [],
   "scDotPlot": [
     "scater",

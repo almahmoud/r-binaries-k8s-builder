@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1209 packages built successfully
+- 1214 packages built successfully
 - 20 packages failed to build
-- 1004 packages not yet processed
+- 999 packages not yet processed
 
 ## Failed Builds (20)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -32,7 +32,7 @@
 | [cn.mops](https://bioconductor.org/packages/3.20/bioc/html/cn.mops.html)             | Failed   | [Log](runs/2025-03-12-12-47-04/logs/cn.mops/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cn.mops)       | Build failed with unknown error     |
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 
-## Successfully Built (1209)
+## Successfully Built (1214)
 | Package                                                                                                      | Status   | Log                                                                              | BBS Status                                                                             |
 |--------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                 |
@@ -1244,11 +1244,15 @@
 | [immApex](https://bioconductor.org/packages/3.20/bioc/html/immApex.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/immApex/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/immApex)                   |
 | [scClassify](https://bioconductor.org/packages/3.20/bioc/html/scClassify.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/scClassify/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scClassify)                |
 | [infercnv](https://bioconductor.org/packages/3.20/bioc/html/infercnv.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/infercnv/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/infercnv)                  |
+| [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/ACE/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ACE)                       |
+| [GeneBreak](https://bioconductor.org/packages/3.20/bioc/html/GeneBreak.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/GeneBreak/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GeneBreak)                 |
+| [MultiDataSet](https://bioconductor.org/packages/3.20/bioc/html/MultiDataSet.html)                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/MultiDataSet/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MultiDataSet)              |
+| [cfdnakit](https://bioconductor.org/packages/3.20/bioc/html/cfdnakit.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/cfdnakit/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/cfdnakit)                  |
+| [scDesign3](https://bioconductor.org/packages/3.20/bioc/html/scDesign3.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/scDesign3/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scDesign3)                 |
 
-## Not Yet Processed (1004)
+## Not Yet Processed (999)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
-| [ACE](https://bioconductor.org/packages/3.20/bioc/html/ACE.html)                                                 | Unprocessed |
 | [ADAM](https://bioconductor.org/packages/3.20/bioc/html/ADAM.html)                                               | Unprocessed |
 | [ADAMgui](https://bioconductor.org/packages/3.20/bioc/html/ADAMgui.html)                                         | Unprocessed |
 | [ADAPT](https://bioconductor.org/packages/3.20/bioc/html/ADAPT.html)                                             | Unprocessed |
@@ -1432,7 +1436,6 @@
 | [GUIDEseq](https://bioconductor.org/packages/3.20/bioc/html/GUIDEseq.html)                                       | Unprocessed |
 | [GeDi](https://bioconductor.org/packages/3.20/bioc/html/GeDi.html)                                               | Unprocessed |
 | [GenVisR](https://bioconductor.org/packages/3.20/bioc/html/GenVisR.html)                                         | Unprocessed |
-| [GeneBreak](https://bioconductor.org/packages/3.20/bioc/html/GeneBreak.html)                                     | Unprocessed |
 | [GeneMeta](https://bioconductor.org/packages/3.20/bioc/html/GeneMeta.html)                                       | Unprocessed |
 | [GeneRegionScan](https://bioconductor.org/packages/3.20/bioc/html/GeneRegionScan.html)                           | Unprocessed |
 | [GeneStructureTools](https://bioconductor.org/packages/3.20/bioc/html/GeneStructureTools.html)                   | Unprocessed |
@@ -1536,7 +1539,6 @@
 | [MsQuality](https://bioconductor.org/packages/3.20/bioc/html/MsQuality.html)                                     | Unprocessed |
 | [MuData](https://bioconductor.org/packages/3.20/bioc/html/MuData.html)                                           | Unprocessed |
 | [MultiBaC](https://bioconductor.org/packages/3.20/bioc/html/MultiBaC.html)                                       | Unprocessed |
-| [MultiDataSet](https://bioconductor.org/packages/3.20/bioc/html/MultiDataSet.html)                               | Unprocessed |
 | [MultiRNAflow](https://bioconductor.org/packages/3.20/bioc/html/MultiRNAflow.html)                               | Unprocessed |
 | [MultimodalExperiment](https://bioconductor.org/packages/3.20/bioc/html/MultimodalExperiment.html)               | Unprocessed |
 | [MungeSumstats](https://bioconductor.org/packages/3.20/bioc/html/MungeSumstats.html)                             | Unprocessed |
@@ -1773,7 +1775,6 @@
 | [cellity](https://bioconductor.org/packages/3.20/bioc/html/cellity.html)                                         | Unprocessed |
 | [cfDNAPro](https://bioconductor.org/packages/3.20/bioc/html/cfDNAPro.html)                                       | Unprocessed |
 | [cfTools](https://bioconductor.org/packages/3.20/bioc/html/cfTools.html)                                         | Unprocessed |
-| [cfdnakit](https://bioconductor.org/packages/3.20/bioc/html/cfdnakit.html)                                       | Unprocessed |
 | [cghMCR](https://bioconductor.org/packages/3.20/bioc/html/cghMCR.html)                                           | Unprocessed |
 | [chihaya](https://bioconductor.org/packages/3.20/bioc/html/chihaya.html)                                         | Unprocessed |
 | [chimeraviz](https://bioconductor.org/packages/3.20/bioc/html/chimeraviz.html)                                   | Unprocessed |
@@ -2124,7 +2125,6 @@
 | [scDDboost](https://bioconductor.org/packages/3.20/bioc/html/scDDboost.html)                                     | Unprocessed |
 | [scDataviz](https://bioconductor.org/packages/3.20/bioc/html/scDataviz.html)                                     | Unprocessed |
 | [scDblFinder](https://bioconductor.org/packages/3.20/bioc/html/scDblFinder.html)                                 | Unprocessed |
-| [scDesign3](https://bioconductor.org/packages/3.20/bioc/html/scDesign3.html)                                     | Unprocessed |
 | [scDiagnostics](https://bioconductor.org/packages/3.20/bioc/html/scDiagnostics.html)                             | Unprocessed |
 | [scDotPlot](https://bioconductor.org/packages/3.20/bioc/html/scDotPlot.html)                                     | Unprocessed |
 | [scFeatures](https://bioconductor.org/packages/3.20/bioc/html/scFeatures.html)                                   | Unprocessed |
