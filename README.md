@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1576 packages built successfully
+- 1577 packages built successfully
 - 24 packages failed to build
-- 633 packages not yet processed
+- 632 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1576)
+## Successfully Built (1577)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1615,8 +1615,9 @@
 | [syntenet](https://bioconductor.org/packages/3.20/bioc/html/syntenet.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/syntenet/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/syntenet)                   |
 | [funOmics](https://bioconductor.org/packages/3.20/bioc/html/funOmics.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/funOmics/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/funOmics)                   |
 | [pram](https://bioconductor.org/packages/3.20/bioc/html/pram.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/pram/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pram)                       |
+| [iSEEfier](https://bioconductor.org/packages/3.20/bioc/html/iSEEfier.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/iSEEfier/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iSEEfier)                   |
 
-## Not Yet Processed (633)
+## Not Yet Processed (632)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -2047,7 +2048,6 @@
 | [iCNV](https://bioconductor.org/packages/3.20/bioc/html/iCNV.html)                                               | Unprocessed |
 | [iCheck](https://bioconductor.org/packages/3.20/bioc/html/iCheck.html)                                           | Unprocessed |
 | [iNETgrate](https://bioconductor.org/packages/3.20/bioc/html/iNETgrate.html)                                     | Unprocessed |
-| [iSEEfier](https://bioconductor.org/packages/3.20/bioc/html/iSEEfier.html)                                       | Unprocessed |
 | [iSEEtree](https://bioconductor.org/packages/3.20/bioc/html/iSEEtree.html)                                       | Unprocessed |
 | [icetea](https://bioconductor.org/packages/3.20/bioc/html/icetea.html)                                           | Unprocessed |
 | [ideal](https://bioconductor.org/packages/3.20/bioc/html/ideal.html)                                             | Unprocessed |

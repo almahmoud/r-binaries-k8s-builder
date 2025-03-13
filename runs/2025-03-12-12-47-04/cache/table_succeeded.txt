@@ -1574,3 +1574,4 @@
 ['[syntenet](https://bioconductor.org/packages/3.20/bioc/html/syntenet.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/syntenet/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/syntenet)']
 ['[funOmics](https://bioconductor.org/packages/3.20/bioc/html/funOmics.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/funOmics/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/funOmics)']
 ['[pram](https://bioconductor.org/packages/3.20/bioc/html/pram.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/pram/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pram)']
+['[iSEEfier](https://bioconductor.org/packages/3.20/bioc/html/iSEEfier.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/iSEEfier/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/iSEEfier)']
