@@ -788,7 +788,6 @@
   "MIRA": [
     "bsseq"
   ],
-  "MLInterfaces": [],
   "MOSClip": [
     "qpgraph",
     "GenomicFeatures"
@@ -1239,9 +1238,7 @@
     "VariantAnnotation"
   ],
   "SPOTlight": [],
-  "SigCheck": [
-    "MLInterfaces"
-  ],
+  "SigCheck": [],
   "SigsPack": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -1492,7 +1489,6 @@
     "MSnbase",
     "pRoloc",
     "PSMatch",
-    "MLInterfaces",
     "QFeatures"
   ],
   "batchelor": [
@@ -1949,8 +1945,7 @@
   ],
   "fCCAC": [],
   "factR": [
-    "GenomicFeatures",
-    "wiggleplotr"
+    "GenomicFeatures"
   ],
   "fastseg": [],
   "fcScan": [
@@ -2476,7 +2471,6 @@
   ],
   "pRoloc": [
     "MSnbase",
-    "MLInterfaces",
     "PSMatch",
     "QFeatures"
   ],
@@ -2484,7 +2478,6 @@
     "pRoloc",
     "MSnbase",
     "PSMatch",
-    "MLInterfaces",
     "QFeatures"
   ],
   "pageRank": [
@@ -3003,7 +2996,6 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "treeclimbR": [],
   "treekoR": [],
   "tricycle": [
     "scater",
@@ -3059,7 +3051,6 @@
   "wavClusteR": [
     "GenomicFeatures"
   ],
-  "wiggleplotr": [],
   "xcms": [
     "MSnbase",
     "MsExperiment",

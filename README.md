@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1542 packages built successfully
+- 1545 packages built successfully
 - 23 packages failed to build
-- 668 packages not yet processed
+- 665 packages not yet processed
 
 ## Failed Builds (23)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -35,7 +35,7 @@
 | [hummingbird](https://bioconductor.org/packages/3.20/bioc/html/hummingbird.html)     | Failed   | [Log](runs/2025-03-12-12-47-04/logs/hummingbird/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/hummingbird)   | Build failed with unknown error     |
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 
-## Successfully Built (1542)
+## Successfully Built (1545)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1580,8 +1580,11 @@
 | [gsean](https://bioconductor.org/packages/3.20/bioc/html/gsean.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/gsean/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gsean)                      |
 | [odseq](https://bioconductor.org/packages/3.20/bioc/html/odseq.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/odseq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/odseq)                      |
 | [recount3](https://bioconductor.org/packages/3.20/bioc/html/recount3.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/recount3/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/recount3)                   |
+| [MLInterfaces](https://bioconductor.org/packages/3.20/bioc/html/MLInterfaces.html)                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/MLInterfaces/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/MLInterfaces)               |
+| [treeclimbR](https://bioconductor.org/packages/3.20/bioc/html/treeclimbR.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/treeclimbR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/treeclimbR)                 |
+| [wiggleplotr](https://bioconductor.org/packages/3.20/bioc/html/wiggleplotr.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/wiggleplotr/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/wiggleplotr)                |
 
-## Not Yet Processed (668)
+## Not Yet Processed (665)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1756,7 +1759,6 @@
 | [MEB](https://bioconductor.org/packages/3.20/bioc/html/MEB.html)                                                 | Unprocessed |
 | [MGnifyR](https://bioconductor.org/packages/3.20/bioc/html/MGnifyR.html)                                         | Unprocessed |
 | [MIRA](https://bioconductor.org/packages/3.20/bioc/html/MIRA.html)                                               | Unprocessed |
-| [MLInterfaces](https://bioconductor.org/packages/3.20/bioc/html/MLInterfaces.html)                               | Unprocessed |
 | [MOSClip](https://bioconductor.org/packages/3.20/bioc/html/MOSClip.html)                                         | Unprocessed |
 | [MOSim](https://bioconductor.org/packages/3.20/bioc/html/MOSim.html)                                             | Unprocessed |
 | [MPAC](https://bioconductor.org/packages/3.20/bioc/html/MPAC.html)                                               | Unprocessed |
@@ -2235,7 +2237,6 @@
 | [transcriptogramer](https://bioconductor.org/packages/3.20/bioc/html/transcriptogramer.html)                     | Unprocessed |
 | [transformGamPoi](https://bioconductor.org/packages/3.20/bioc/html/transformGamPoi.html)                         | Unprocessed |
 | [transmogR](https://bioconductor.org/packages/3.20/bioc/html/transmogR.html)                                     | Unprocessed |
-| [treeclimbR](https://bioconductor.org/packages/3.20/bioc/html/treeclimbR.html)                                   | Unprocessed |
 | [treekoR](https://bioconductor.org/packages/3.20/bioc/html/treekoR.html)                                         | Unprocessed |
 | [tricycle](https://bioconductor.org/packages/3.20/bioc/html/tricycle.html)                                       | Unprocessed |
 | [txcutr](https://bioconductor.org/packages/3.20/bioc/html/txcutr.html)                                           | Unprocessed |
@@ -2247,7 +2248,6 @@
 | [vulcan](https://bioconductor.org/packages/3.20/bioc/html/vulcan.html)                                           | Unprocessed |
 | [wateRmelon](https://bioconductor.org/packages/3.20/bioc/html/wateRmelon.html)                                   | Unprocessed |
 | [wavClusteR](https://bioconductor.org/packages/3.20/bioc/html/wavClusteR.html)                                   | Unprocessed |
-| [wiggleplotr](https://bioconductor.org/packages/3.20/bioc/html/wiggleplotr.html)                                 | Unprocessed |
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                                               | Unprocessed |
 | [xcore](https://bioconductor.org/packages/3.20/bioc/html/xcore.html)                                             | Unprocessed |
 | [xenLite](https://bioconductor.org/packages/3.20/bioc/html/xenLite.html)                                         | Unprocessed |

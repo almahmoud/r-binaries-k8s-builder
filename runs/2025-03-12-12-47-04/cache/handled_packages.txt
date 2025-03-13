@@ -407,6 +407,7 @@ MGFM
 MGFR
 MICSQTL
 MIRit
+MLInterfaces
 MLP
 MLSeq
 MMDiff2
@@ -1526,6 +1527,7 @@ tracktables
 transite
 transomics2cytoscape
 traseR
+treeclimbR
 treeio
 trigger
 trio
@@ -1553,6 +1555,7 @@ weaver
 webbioc
 weitrix
 widgetTools
+wiggleplotr
 wpm
 wppi
 xmapbridge

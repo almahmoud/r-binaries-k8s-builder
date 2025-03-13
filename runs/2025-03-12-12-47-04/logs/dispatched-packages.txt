@@ -1677,3 +1677,4 @@ fCCAC
 hiReadsProcessor
 omicRexposome
 rTRMui
+SigCheck
