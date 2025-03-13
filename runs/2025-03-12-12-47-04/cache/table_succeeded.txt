@@ -2133,3 +2133,4 @@
 ['[peco](https://bioconductor.org/packages/3.20/bioc/html/peco.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/peco/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/peco)']
 ['[scFeatures](https://bioconductor.org/packages/3.20/bioc/html/scFeatures.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scFeatures/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scFeatures)']
 ['[scviR](https://bioconductor.org/packages/3.20/bioc/html/scviR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scviR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scviR)']
+['[NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/NADfinder/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/NADfinder)']

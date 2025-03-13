@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2135 packages built successfully
+- 2136 packages built successfully
 - 30 packages failed to build
-- 68 packages not yet processed
+- 67 packages not yet processed
 
 ## Failed Builds (30)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -42,7 +42,7 @@
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/bandle/build-fail.log)        | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bandle)     | Build failed with unknown error     |
 
-## Successfully Built (2135)
+## Successfully Built (2136)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2180,8 +2180,9 @@
 | [peco](https://bioconductor.org/packages/3.20/bioc/html/peco.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/peco/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/peco)                        |
 | [scFeatures](https://bioconductor.org/packages/3.20/bioc/html/scFeatures.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/scFeatures/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scFeatures)                  |
 | [scviR](https://bioconductor.org/packages/3.20/bioc/html/scviR.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/scviR/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scviR)                       |
+| [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/NADfinder/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/NADfinder)                   |
 
-## Not Yet Processed (68)
+## Not Yet Processed (67)
 | Package                                                                                      | Status      |
 |----------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                     | Unprocessed |
@@ -2210,7 +2211,6 @@
 | [MEAT](https://bioconductor.org/packages/3.20/bioc/html/MEAT.html)                           | Unprocessed |
 | [MGnifyR](https://bioconductor.org/packages/3.20/bioc/html/MGnifyR.html)                     | Unprocessed |
 | [MineICA](https://bioconductor.org/packages/3.20/bioc/html/MineICA.html)                     | Unprocessed |
-| [NADfinder](https://bioconductor.org/packages/3.20/bioc/html/NADfinder.html)                 | Unprocessed |
 | [Oscope](https://bioconductor.org/packages/3.20/bioc/html/Oscope.html)                       | Unprocessed |
 | [SCAN.UPC](https://bioconductor.org/packages/3.20/bioc/html/SCAN.UPC.html)                   | Unprocessed |
 | [SCArray.sat](https://bioconductor.org/packages/3.20/bioc/html/SCArray.sat.html)             | Unprocessed |

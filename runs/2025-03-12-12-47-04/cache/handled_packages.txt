@@ -649,6 +649,7 @@ MultiRNAflow
 MultimodalExperiment
 MungeSumstats
 MutationalPatterns
+NADfinder
 NBAMSeq
 NCIgraph
 NOISeq
