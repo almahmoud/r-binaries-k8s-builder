@@ -1792,7 +1792,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "amplican": [],
   "animalcules": [
     "DESeq2"
   ],
@@ -1832,7 +1831,6 @@
     "GOstats",
     "Category"
   ],
-  "autonomics": [],
   "ballgown": [],
   "bambu": [
     "BSgenome",
@@ -3359,14 +3357,11 @@
   "scRNAseqApp": [
     "slingshot"
   ],
-  "scTGIF": [
-    "schex"
-  ],
+  "scTGIF": [],
   "scTensor": [
     "Category",
     "meshr",
-    "GOstats",
-    "schex"
+    "GOstats"
   ],
   "scTreeViz": [
     "epivizr",
@@ -3390,7 +3385,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "schex": [],
   "scider": [
     "SpatialExperiment"
   ],

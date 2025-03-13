@@ -721,6 +721,7 @@ alabaster.se
 alabaster.string
 alevinQC
 altcdfenvs
+amplican
 annaffy
 annmap
 annotate
@@ -734,6 +735,7 @@ arrayQuality
 arrayQualityMetrics
 artMS
 assorthead
+autonomics
 awst
 bacon
 bamsignals
@@ -985,6 +987,7 @@ hierinf
 hipathia
 hmdbQuery
 hopach
+hummingbird
 hypeR
 hyperdraw
 hypergraph
@@ -1278,6 +1281,7 @@ scatterHatch
 sccomp
 scde
 scds
+schex
 scifer
 scmap
 scoup
