@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1566 packages built successfully
+- 1568 packages built successfully
 - 24 packages failed to build
-- 643 packages not yet processed
+- 641 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1566)
+## Successfully Built (1568)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1605,8 +1605,10 @@
 | [VarCon](https://bioconductor.org/packages/3.20/bioc/html/VarCon.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/VarCon/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VarCon)                     |
 | [ccmap](https://bioconductor.org/packages/3.20/bioc/html/ccmap.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/ccmap/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/ccmap)                      |
 | [slingshot](https://bioconductor.org/packages/3.20/bioc/html/slingshot.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/slingshot/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/slingshot)                  |
+| [rTRMui](https://bioconductor.org/packages/3.20/bioc/html/rTRMui.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/rTRMui/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/rTRMui)                     |
+| [surfaltr](https://bioconductor.org/packages/3.20/bioc/html/surfaltr.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/surfaltr/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/surfaltr)                   |
 
-## Not Yet Processed (643)
+## Not Yet Processed (641)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -2152,7 +2154,6 @@
 | [quantro](https://bioconductor.org/packages/3.20/bioc/html/quantro.html)                                         | Unprocessed |
 | [rCGH](https://bioconductor.org/packages/3.20/bioc/html/rCGH.html)                                               | Unprocessed |
 | [rGREAT](https://bioconductor.org/packages/3.20/bioc/html/rGREAT.html)                                           | Unprocessed |
-| [rTRMui](https://bioconductor.org/packages/3.20/bioc/html/rTRMui.html)                                           | Unprocessed |
 | [raer](https://bioconductor.org/packages/3.20/bioc/html/raer.html)                                               | Unprocessed |
 | [recount](https://bioconductor.org/packages/3.20/bioc/html/recount.html)                                         | Unprocessed |
 | [recountmethylation](https://bioconductor.org/packages/3.20/bioc/html/recountmethylation.html)                   | Unprocessed |
@@ -2218,7 +2219,6 @@
 | [stJoincount](https://bioconductor.org/packages/3.20/bioc/html/stJoincount.html)                                 | Unprocessed |
 | [standR](https://bioconductor.org/packages/3.20/bioc/html/standR.html)                                           | Unprocessed |
 | [strandCheckR](https://bioconductor.org/packages/3.20/bioc/html/strandCheckR.html)                               | Unprocessed |
-| [surfaltr](https://bioconductor.org/packages/3.20/bioc/html/surfaltr.html)                                       | Unprocessed |
 | [svaNUMT](https://bioconductor.org/packages/3.20/bioc/html/svaNUMT.html)                                         | Unprocessed |
 | [svaRetro](https://bioconductor.org/packages/3.20/bioc/html/svaRetro.html)                                       | Unprocessed |
 | [synapter](https://bioconductor.org/packages/3.20/bioc/html/synapter.html)                                       | Unprocessed |

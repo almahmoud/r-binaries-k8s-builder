@@ -1366,6 +1366,7 @@ rRDP
 rSWeeP
 rScudo
 rTRM
+rTRMui
 rWikiPathways
 rain
 ramr
@@ -1508,6 +1509,7 @@ struct
 structToolbox
 subSeq
 supersigs
+surfaltr
 survClust
 survcomp
 survtype

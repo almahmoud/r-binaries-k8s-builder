@@ -2424,7 +2424,6 @@
   "rGREAT": [
     "GenomicFeatures"
   ],
-  "rTRMui": [],
   "raer": [
     "GenomicFeatures"
   ],
@@ -2727,7 +2726,6 @@
   "strandCheckR": [
     "GenomicFeatures"
   ],
-  "surfaltr": [],
   "svaNUMT": [
     "VariantAnnotation",
     "StructuralVariantAnnotation",
