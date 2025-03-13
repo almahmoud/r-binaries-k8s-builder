@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2024 packages built successfully
+- 2025 packages built successfully
 - 30 packages failed to build
-- 179 packages not yet processed
+- 178 packages not yet processed
 
 ## Failed Builds (30)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -42,7 +42,7 @@
 | [xcms](https://bioconductor.org/packages/3.20/bioc/html/xcms.html)                   | Failed   | [Log](runs/2025-03-12-12-47-04/logs/xcms/build-fail.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/xcms)          | Build failed with unknown error     |
 | [bandle](https://bioconductor.org/packages/3.20/bioc/html/bandle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/bandle/build-fail.log)        | [ERROR](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bandle)     | Build failed with unknown error     |
 
-## Successfully Built (2024)
+## Successfully Built (2025)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -2069,8 +2069,9 @@
 | [tximeta](https://bioconductor.org/packages/3.20/bioc/html/tximeta.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/tximeta/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/tximeta)                     |
 | [GenomicPlot](https://bioconductor.org/packages/3.20/bioc/html/GenomicPlot.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/GenomicPlot/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GenomicPlot)                 |
 | [lute](https://bioconductor.org/packages/3.20/bioc/html/lute.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/lute/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lute)                        |
+| [motifmatchr](https://bioconductor.org/packages/3.20/bioc/html/motifmatchr.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/motifmatchr/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/motifmatchr)                 |
 
-## Not Yet Processed (179)
+## Not Yet Processed (178)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2210,7 +2211,6 @@
 | [missMethyl](https://bioconductor.org/packages/3.20/bioc/html/missMethyl.html)                                 | Unprocessed |
 | [monaLisa](https://bioconductor.org/packages/3.20/bioc/html/monaLisa.html)                                     | Unprocessed |
 | [motifbreakR](https://bioconductor.org/packages/3.20/bioc/html/motifbreakR.html)                               | Unprocessed |
-| [motifmatchr](https://bioconductor.org/packages/3.20/bioc/html/motifmatchr.html)                               | Unprocessed |
 | [msgbsR](https://bioconductor.org/packages/3.20/bioc/html/msgbsR.html)                                         | Unprocessed |
 | [mumosa](https://bioconductor.org/packages/3.20/bioc/html/mumosa.html)                                         | Unprocessed |
 | [muscat](https://bioconductor.org/packages/3.20/bioc/html/muscat.html)                                         | Unprocessed |

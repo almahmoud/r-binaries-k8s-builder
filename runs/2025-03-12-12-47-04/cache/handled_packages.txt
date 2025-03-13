@@ -1591,6 +1591,7 @@ mosdef
 motifStack
 motifTestR
 motifcounter
+motifmatchr
 mpra
 msImpute
 msPurity

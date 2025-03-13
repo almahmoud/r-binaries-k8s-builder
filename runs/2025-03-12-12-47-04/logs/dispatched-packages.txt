@@ -2142,3 +2142,9 @@ tricycle
 yarn
 IsoformSwitchAnalyzeR
 SingleMoleculeFootprinting
+ATACseqTFEA
+enhancerHomologSearch
+epiregulon
+esATAC
+pageRank
+spatzie

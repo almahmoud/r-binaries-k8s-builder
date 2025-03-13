@@ -4,9 +4,7 @@
   ],
   "AHMassBank": [],
   "ATACseqQC": [],
-  "ATACseqTFEA": [
-    "motifmatchr"
-  ],
+  "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools"
@@ -256,17 +254,11 @@
     "annotatr"
   ],
   "eiR": [],
-  "enhancerHomologSearch": [
-    "motifmatchr"
-  ],
-  "epiregulon": [
-    "motifmatchr"
-  ],
+  "enhancerHomologSearch": [],
+  "epiregulon": [],
   "epiregulon.extra": [],
   "epivizrStandalone": [],
-  "esATAC": [
-    "motifmatchr"
-  ],
+  "esATAC": [],
   "extraChIPs": [],
   "fastseg": [],
   "ffpe": [
@@ -335,7 +327,6 @@
   "missMethyl": [],
   "monaLisa": [],
   "motifbreakR": [],
-  "motifmatchr": [],
   "msgbsR": [],
   "mumosa": [],
   "muscat": [],
@@ -350,9 +341,7 @@
   "oligo": [
     "affxparser"
   ],
-  "pageRank": [
-    "motifmatchr"
-  ],
+  "pageRank": [],
   "panelcn.mops": [
     "cn.mops"
   ],
@@ -402,9 +391,7 @@
     "wateRmelon",
     "lumi"
   ],
-  "spatzie": [
-    "motifmatchr"
-  ],
+  "spatzie": [],
   "spillR": [
     "CATALYST"
   ],
