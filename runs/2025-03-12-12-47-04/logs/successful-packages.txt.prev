@@ -1744,3 +1744,5 @@ decompTumor2Sig
 multiMiR
 pipeFrame
 VariantTools
+glmSparseNet
+scp

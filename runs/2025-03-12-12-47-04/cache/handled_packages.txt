@@ -1204,6 +1204,7 @@ ggtreeSpace
 ginmappeR
 girafe
 glmGamPoi
+glmSparseNet
 globalSeq
 globaltest
 gmoviz
@@ -1612,6 +1613,7 @@ scifer
 scmap
 scoreInvHap
 scoup
+scp
 scrapper
 screenCounter
 scry

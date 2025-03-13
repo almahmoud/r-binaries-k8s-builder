@@ -1744,3 +1744,5 @@
 ['[multiMiR](https://bioconductor.org/packages/3.20/bioc/html/multiMiR.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/multiMiR/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multiMiR)']
 ['[pipeFrame](https://bioconductor.org/packages/3.20/bioc/html/pipeFrame.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/pipeFrame/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pipeFrame)']
 ['[VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/VariantTools/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VariantTools)']
+['[glmSparseNet](https://bioconductor.org/packages/3.20/bioc/html/glmSparseNet.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/glmSparseNet/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/glmSparseNet)']
+['[scp](https://bioconductor.org/packages/3.20/bioc/html/scp.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/scp/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scp)']

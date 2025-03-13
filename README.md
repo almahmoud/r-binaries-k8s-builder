@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1746 packages built successfully
+- 1748 packages built successfully
 - 27 packages failed to build
-- 460 packages not yet processed
+- 458 packages not yet processed
 
 ## Failed Builds (27)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -39,7 +39,7 @@
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 
-## Successfully Built (1746)
+## Successfully Built (1748)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1788,8 +1788,10 @@
 | [multiMiR](https://bioconductor.org/packages/3.20/bioc/html/multiMiR.html)                                       | Built    | [Log](runs/2025-03-12-12-47-04/logs/multiMiR/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/multiMiR)                    |
 | [pipeFrame](https://bioconductor.org/packages/3.20/bioc/html/pipeFrame.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/pipeFrame/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pipeFrame)                   |
 | [VariantTools](https://bioconductor.org/packages/3.20/bioc/html/VariantTools.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/VariantTools/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/VariantTools)                |
+| [glmSparseNet](https://bioconductor.org/packages/3.20/bioc/html/glmSparseNet.html)                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/glmSparseNet/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/glmSparseNet)                |
+| [scp](https://bioconductor.org/packages/3.20/bioc/html/scp.html)                                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/scp/build-success.log)                         | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scp)                         |
 
-## Not Yet Processed (460)
+## Not Yet Processed (458)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2088,7 +2090,6 @@
 | [ggbio](https://bioconductor.org/packages/3.20/bioc/html/ggbio.html)                                           | Unprocessed |
 | [ggsc](https://bioconductor.org/packages/3.20/bioc/html/ggsc.html)                                             | Unprocessed |
 | [ggspavis](https://bioconductor.org/packages/3.20/bioc/html/ggspavis.html)                                     | Unprocessed |
-| [glmSparseNet](https://bioconductor.org/packages/3.20/bioc/html/glmSparseNet.html)                             | Unprocessed |
 | [gmapR](https://bioconductor.org/packages/3.20/bioc/html/gmapR.html)                                           | Unprocessed |
 | [goseq](https://bioconductor.org/packages/3.20/bioc/html/goseq.html)                                           | Unprocessed |
 | [gwascat](https://bioconductor.org/packages/3.20/bioc/html/gwascat.html)                                       | Unprocessed |
@@ -2203,7 +2204,6 @@
 | [scider](https://bioconductor.org/packages/3.20/bioc/html/scider.html)                                         | Unprocessed |
 | [scmeth](https://bioconductor.org/packages/3.20/bioc/html/scmeth.html)                                         | Unprocessed |
 | [scone](https://bioconductor.org/packages/3.20/bioc/html/scone.html)                                           | Unprocessed |
-| [scp](https://bioconductor.org/packages/3.20/bioc/html/scp.html)                                               | Unprocessed |
 | [scran](https://bioconductor.org/packages/3.20/bioc/html/scran.html)                                           | Unprocessed |
 | [scruff](https://bioconductor.org/packages/3.20/bioc/html/scruff.html)                                         | Unprocessed |
 | [scuttle](https://bioconductor.org/packages/3.20/bioc/html/scuttle.html)                                       | Unprocessed |
