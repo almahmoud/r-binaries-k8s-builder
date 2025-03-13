@@ -386,6 +386,7 @@ IRanges
 ISAnalytics
 ISLET
 ISoLDE
+IVAS
 IWTomics
 Icens
 IdeoViz

@@ -481,9 +481,7 @@
     "VariantAnnotation"
   ],
   "HiLDA": [],
-  "IMAS": [
-    "IVAS"
-  ],
+  "IMAS": [],
   "INSPEcT": [],
   "IPO": [
     "xcms",
@@ -495,7 +493,6 @@
     "oligo",
     "affxparser"
   ],
-  "IVAS": [],
   "InPAS": [],
   "InTAD": [],
   "IntEREst": [

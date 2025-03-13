@@ -1,2 +1,1 @@
-DaMiRseq
-RUVSeq
+IMAS
