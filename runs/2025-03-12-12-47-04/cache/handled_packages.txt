@@ -74,6 +74,7 @@ Basic4Cseq
 BasicSTARRseq
 BayesKnockdown
 BeadDataPackR
+BgeeCall
 BgeeDB
 BiFET
 BiGGR
@@ -276,6 +277,7 @@ EBcoexpress
 EDASeq
 EDIRquery
 EGAD
+EGSEA
 ELMER
 EMDomics
 ERSSA
@@ -290,6 +292,7 @@ EnrichmentBrowser
 EpiCompare
 EpiDISH
 EpiMix
+EpiTxDb
 EpipwR
 ExCluster
 ExiMiR
@@ -617,6 +620,7 @@ OLINgui
 OMICsPCA
 OPWeight
 ORFhunteR
+ORFik
 OSAT
 OTUbase
 OVESEG
@@ -675,6 +679,7 @@ Pirat
 PoDCall
 PolySTest
 PrInCE
+Prostar
 ProtGenerics
 ProteoDisco
 ProteoMM
@@ -770,6 +775,7 @@ RgnTX
 Rgraphviz
 Rhdf5lib
 Rhtslib
+RiboDiPA
 Rmagpie
 Rmmquant
 Rnits
@@ -1521,6 +1527,7 @@ msPurity
 msa
 mslp
 msmsEDA
+msmsTests
 msqrob2
 multiClust
 multiGSEA

@@ -39,7 +39,6 @@
   "BayesSpace": [
     "scater"
   ],
-  "BgeeCall": [],
   "BioTIP": [],
   "CAFE": [
     "ggbio",
@@ -139,12 +138,10 @@
     "affxparser"
   ],
   "EBSeq": [],
-  "EGSEA": [],
   "ENmix": [
     "minfi"
   ],
   "EpiCompare": [],
-  "EpiTxDb": [],
   "EventPointer": [
     "affxparser"
   ],
@@ -242,9 +239,7 @@
   ],
   "MOSim": [],
   "MPAC": [],
-  "MSnID": [
-    "msmsTests"
-  ],
+  "MSnID": [],
   "MatrixRider": [],
   "MetaboAnnotation": [
     "CompoundDb"
@@ -266,13 +261,11 @@
     "motifStack"
   ],
   "NetPathMiner": [],
-  "ORFik": [],
   "OUTRIDER": [],
   "OrganismDbi": [],
   "Oscope": [
     "EBSeq"
   ],
-  "Prostar": [],
   "QuasR": [],
   "R3CPET": [
     "ggbio",
@@ -299,10 +292,7 @@
     "OrganismDbi"
   ],
   "Rhisat2": [],
-  "RiboCrypt": [
-    "ORFik"
-  ],
-  "RiboDiPA": [],
+  "RiboCrypt": [],
   "RiboProfiling": [
     "ggbio",
     "OrganismDbi"
@@ -346,9 +336,7 @@
   "Spaniel": [
     "scater"
   ],
-  "TFHAZ": [
-    "ORFik"
-  ],
+  "TFHAZ": [],
   "UMI4Cats": [],
   "VAExprs": [
     "scater"
@@ -652,7 +640,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "msmsTests": [],
   "multicrispr": [
     "karyoploteR"
   ],
