@@ -290,7 +290,6 @@
     "GenomicFeatures",
     "ensembldb"
   ],
-  "CoverageView": [],
   "CytoGLMM": [],
   "CytoMDS": [
     "CytoPipeline",
@@ -598,7 +597,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiCDOC": [],
   "HiContacts": [],
   "HiCool": [],
   "HiLDA": [
@@ -1142,8 +1140,7 @@
     "escheR"
   ],
   "Statial": [
-    "SpatialExperiment",
-    "treekoR"
+    "SpatialExperiment"
   ],
   "StructuralVariantAnnotation": [
     "VariantAnnotation",
@@ -2614,7 +2611,6 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "treekoR": [],
   "tricycle": [
     "scater",
     "scuttle"

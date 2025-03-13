@@ -178,6 +178,7 @@ ComplexHeatmap
 ConsensusClusterPlus
 CoreGx
 Cormotif
+CoverageView
 CrispRVariants
 CuratedAtlasQueryR
 CytoDx
@@ -346,6 +347,7 @@ Harshlight
 Heatplus
 Herper
 HiCBricks
+HiCDOC
 HiCExperiment
 HiCcompare
 HiTC
@@ -1609,6 +1611,7 @@ transomics2cytoscape
 traseR
 treeclimbR
 treeio
+treekoR
 trigger
 trio
 triplex
