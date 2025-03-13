@@ -296,6 +296,7 @@ GSEABase
 GSEABenchmarkeR
 GSEAlm
 GSEAmining
+GSRI
 GSgalgoR
 GWAS.BAYES
 GWASTools
@@ -1621,6 +1622,7 @@ topGO
 topconfects
 tracktables
 tradeSeq
+transcriptogramer
 transite
 transomics2cytoscape
 traseR

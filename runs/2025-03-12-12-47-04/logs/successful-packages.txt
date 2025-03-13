@@ -1640,3 +1640,5 @@ SpatialExperiment
 AffiXcan
 CBEA
 microbiomeMarker
+GSRI
+transcriptogramer

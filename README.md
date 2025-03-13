@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1642 packages built successfully
+- 1644 packages built successfully
 - 24 packages failed to build
-- 567 packages not yet processed
+- 565 packages not yet processed
 
 ## Failed Builds (24)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -36,7 +36,7 @@
 | [girafe](https://bioconductor.org/packages/3.20/bioc/html/girafe.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/girafe/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/girafe)        | Build failed with unknown error     |
 | [Repitools](https://bioconductor.org/packages/3.20/bioc/html/Repitools.html)         | Failed   | [Log](runs/2025-03-12-12-47-04/logs/Repitools/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Repitools)     | Build failed with unknown error     |
 
-## Successfully Built (1642)
+## Successfully Built (1644)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1681,8 +1681,10 @@
 | [AffiXcan](https://bioconductor.org/packages/3.20/bioc/html/AffiXcan.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AffiXcan/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AffiXcan)                   |
 | [CBEA](https://bioconductor.org/packages/3.20/bioc/html/CBEA.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/CBEA/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CBEA)                       |
 | [microbiomeMarker](https://bioconductor.org/packages/3.20/bioc/html/microbiomeMarker.html)                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/microbiomeMarker/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/microbiomeMarker)           |
+| [GSRI](https://bioconductor.org/packages/3.20/bioc/html/GSRI.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/GSRI/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/GSRI)                       |
+| [transcriptogramer](https://bioconductor.org/packages/3.20/bioc/html/transcriptogramer.html)                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/transcriptogramer/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/transcriptogramer)          |
 
-## Not Yet Processed (567)
+## Not Yet Processed (565)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1790,7 +1792,6 @@
 | [GNOSIS](https://bioconductor.org/packages/3.20/bioc/html/GNOSIS.html)                                           | Unprocessed |
 | [GOstats](https://bioconductor.org/packages/3.20/bioc/html/GOstats.html)                                         | Unprocessed |
 | [GRaNIE](https://bioconductor.org/packages/3.20/bioc/html/GRaNIE.html)                                           | Unprocessed |
-| [GSRI](https://bioconductor.org/packages/3.20/bioc/html/GSRI.html)                                               | Unprocessed |
 | [GSReg](https://bioconductor.org/packages/3.20/bioc/html/GSReg.html)                                             | Unprocessed |
 | [GSVA](https://bioconductor.org/packages/3.20/bioc/html/GSVA.html)                                               | Unprocessed |
 | [GUIDEseq](https://bioconductor.org/packages/3.20/bioc/html/GUIDEseq.html)                                       | Unprocessed |
@@ -2235,7 +2236,6 @@
 | [tpSVG](https://bioconductor.org/packages/3.20/bioc/html/tpSVG.html)                                             | Unprocessed |
 | [trackViewer](https://bioconductor.org/packages/3.20/bioc/html/trackViewer.html)                                 | Unprocessed |
 | [transcriptR](https://bioconductor.org/packages/3.20/bioc/html/transcriptR.html)                                 | Unprocessed |
-| [transcriptogramer](https://bioconductor.org/packages/3.20/bioc/html/transcriptogramer.html)                     | Unprocessed |
 | [transformGamPoi](https://bioconductor.org/packages/3.20/bioc/html/transformGamPoi.html)                         | Unprocessed |
 | [transmogR](https://bioconductor.org/packages/3.20/bioc/html/transmogR.html)                                     | Unprocessed |
 | [tricycle](https://bioconductor.org/packages/3.20/bioc/html/tricycle.html)                                       | Unprocessed |
