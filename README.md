@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1804 packages built successfully
+- 1805 packages built successfully
 - 27 packages failed to build
-- 402 packages not yet processed
+- 401 packages not yet processed
 
 ## Failed Builds (27)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -39,7 +39,7 @@
 | [DiffBind](https://bioconductor.org/packages/3.20/bioc/html/DiffBind.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/DiffBind/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/DiffBind)      | Build failed with unknown error     |
 | [casper](https://bioconductor.org/packages/3.20/bioc/html/casper.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/casper/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/casper)        | Build failed with unknown error     |
 
-## Successfully Built (1804)
+## Successfully Built (1805)
 | Package                                                                                                          | Status   | Log                                                                                | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                   |
@@ -1846,8 +1846,9 @@
 | [Statial](https://bioconductor.org/packages/3.20/bioc/html/Statial.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/Statial/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/Statial)                     |
 | [pathlinkR](https://bioconductor.org/packages/3.20/bioc/html/pathlinkR.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/pathlinkR/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pathlinkR)                   |
 | [lisaClust](https://bioconductor.org/packages/3.20/bioc/html/lisaClust.html)                                     | Built    | [Log](runs/2025-03-12-12-47-04/logs/lisaClust/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/lisaClust)                   |
+| [concordexR](https://bioconductor.org/packages/3.20/bioc/html/concordexR.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/concordexR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/concordexR)                  |
 
-## Not Yet Processed (402)
+## Not Yet Processed (401)
 | Package                                                                                                        | Status      |
 |----------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                       | Unprocessed |
@@ -2061,7 +2062,6 @@
 | [cn.farms](https://bioconductor.org/packages/3.20/bioc/html/cn.farms.html)                                     | Unprocessed |
 | [comapr](https://bioconductor.org/packages/3.20/bioc/html/comapr.html)                                         | Unprocessed |
 | [compEpiTools](https://bioconductor.org/packages/3.20/bioc/html/compEpiTools.html)                             | Unprocessed |
-| [concordexR](https://bioconductor.org/packages/3.20/bioc/html/concordexR.html)                                 | Unprocessed |
 | [condiments](https://bioconductor.org/packages/3.20/bioc/html/condiments.html)                                 | Unprocessed |
 | [consensusDE](https://bioconductor.org/packages/3.20/bioc/html/consensusDE.html)                               | Unprocessed |
 | [conumee](https://bioconductor.org/packages/3.20/bioc/html/conumee.html)                                       | Unprocessed |

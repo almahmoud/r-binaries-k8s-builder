@@ -1047,6 +1047,7 @@ cola
 combi
 compSPOT
 compcodeR
+concordexR
 consICA
 consensus
 consensusSeekeR

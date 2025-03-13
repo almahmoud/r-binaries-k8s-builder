@@ -752,7 +752,6 @@
     "methylPipe",
     "Gviz"
   ],
-  "concordexR": [],
   "condiments": [
     "distinct",
     "scater",
