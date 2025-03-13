@@ -689,7 +689,6 @@
   "HiLDA": [
     "GenomicFeatures"
   ],
-  "HiTC": [],
   "HicAggR": [],
   "HoloFoodR": [],
   "IMAS": [
@@ -993,7 +992,6 @@
     "VariantAnnotation"
   ],
   "PLSDAbatch": [],
-  "POWSC": [],
   "PRONE": [
     "MSnbase",
     "PSMatch",

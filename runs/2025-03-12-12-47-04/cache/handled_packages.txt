@@ -325,6 +325,7 @@ Heatplus
 Herper
 HiCBricks
 HiCExperiment
+HiTC
 HilbertCurve
 HilbertVis
 HilbertVisGUI
@@ -501,6 +502,7 @@ PIPETS
 PIUMA
 PLPE
 POMA
+POWSC
 PPInfer
 PREDA
 PROMISE
@@ -1028,6 +1030,7 @@ ggtreeDendro
 ggtreeExtra
 ggtreeSpace
 ginmappeR
+girafe
 globalSeq
 globaltest
 goProfiles

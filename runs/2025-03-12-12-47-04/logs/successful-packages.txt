@@ -1466,3 +1466,5 @@ TEKRABber
 gg4way
 pairedGSEA
 SCANVIS
+HiTC
+POWSC

@@ -1466,3 +1466,5 @@
 ['[SCANVIS](https://bioconductor.org/packages/3.20/bioc/html/SCANVIS.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/SCANVIS/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SCANVIS)']
 ['[gg4way](https://bioconductor.org/packages/3.20/bioc/html/gg4way.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/gg4way/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/gg4way)']
 ['[pairedGSEA](https://bioconductor.org/packages/3.20/bioc/html/pairedGSEA.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/pairedGSEA/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/pairedGSEA)']
+['[HiTC](https://bioconductor.org/packages/3.20/bioc/html/HiTC.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/HiTC/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/HiTC)']
+['[POWSC](https://bioconductor.org/packages/3.20/bioc/html/POWSC.html)', 'Built', '[Log](runs/2025-03-12-12-47-04/logs/POWSC/build-success.log)', '[OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/POWSC)']
