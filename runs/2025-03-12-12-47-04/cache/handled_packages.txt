@@ -1138,6 +1138,7 @@ globalSeq
 globaltest
 goProfiles
 goSTAG
+goSorensen
 goTools
 gpls
 gpuMagic
