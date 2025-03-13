@@ -458,9 +458,7 @@
     "scater",
     "scuttle"
   ],
-  "MOSClip": [
-    "qpgraph"
-  ],
+  "MOSClip": [],
   "MOSim": [
     "scran",
     "scuttle"
@@ -914,9 +912,7 @@
   "circRNAprofiler": [
     "gwascat"
   ],
-  "clipper": [
-    "qpgraph"
-  ],
+  "clipper": [],
   "cliqueMS": [
     "xcms",
     "MSnbase"
@@ -1135,17 +1131,12 @@
   "gDR": [
     "gDRcore",
     "gDRimport",
-    "gDRutils",
     "PharmacoGx"
   ],
-  "gDRcore": [
-    "gDRutils"
-  ],
+  "gDRcore": [],
   "gDRimport": [
-    "PharmacoGx",
-    "gDRutils"
+    "PharmacoGx"
   ],
-  "gDRutils": [],
   "gINTomics": [],
   "geomeTriD": [
     "trackViewer",
@@ -1492,7 +1483,6 @@
   "qPLEXanalyzer": [
     "MSnbase"
   ],
-  "qpgraph": [],
   "quantro": [
     "minfi",
     "GEOquery"
@@ -1763,7 +1753,6 @@
     "minfi",
     "GEOquery"
   ],
-  "wavClusteR": [],
   "xcms": [
     "MSnbase"
   ],

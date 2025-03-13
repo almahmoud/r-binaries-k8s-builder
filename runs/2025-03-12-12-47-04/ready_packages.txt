@@ -1,10 +1,3 @@
-BUSpaRse
-CleanUpRNAseq
-GRaNIE
-RAIDS
-RITAN
-benchdamic
-biovizBase
-demuxSNP
-diffUTR
-drugTargetInteractions
+MOSClip
+clipper
+gDRcore

@@ -1866,3 +1866,6 @@ biovizBase
 demuxSNP
 diffUTR
 drugTargetInteractions
+MOSClip
+clipper
+gDRcore

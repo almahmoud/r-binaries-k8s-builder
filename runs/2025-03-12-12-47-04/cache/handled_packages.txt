@@ -1127,6 +1127,7 @@ frmaTools
 funOmics
 gCrisprTools
 gDRstyle
+gDRutils
 gaga
 gage
 garfield
@@ -1462,6 +1463,7 @@ qckitfastq
 qcmetrics
 qmtools
 qpcrNorm
+qpgraph
 qsea
 qsmooth
 qsvaR
@@ -1699,6 +1701,7 @@ vissE
 vsclust
 vsn
 waddR
+wavClusteR
 weaver
 webbioc
 weitrix

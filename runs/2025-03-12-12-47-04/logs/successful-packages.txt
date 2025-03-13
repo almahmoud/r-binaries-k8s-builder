@@ -1688,3 +1688,6 @@ nearBynding
 NoRCE
 segmenter
 strandCheckR
+gDRutils
+qpgraph
+wavClusteR
