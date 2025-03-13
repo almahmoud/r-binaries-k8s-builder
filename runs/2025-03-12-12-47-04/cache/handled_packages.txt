@@ -60,9 +60,11 @@ BaseSpaceR
 BasicSTARRseq
 BayesKnockdown
 BeadDataPackR
+BgeeDB
 BiFET
 BiGGR
 BiRewire
+BiSeq
 BicARE
 BioCartaImage
 BioGA
@@ -653,6 +655,7 @@ TIN
 TMSig
 TMixClust
 TOAST
+TOP
 TPP
 TPP2D
 TREG
@@ -1254,6 +1257,7 @@ sangeranalyseR
 sangerseqR
 sarks
 satuRn
+scAnnotatR
 scBubbletree
 scClassify
 scDataviz

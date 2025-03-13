@@ -146,8 +146,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "BgeeDB": [],
-  "BiSeq": [],
   "BindingSiteFinder": [
     "GenomicFeatures"
   ],
@@ -1293,7 +1291,6 @@
     "GenomicFeatures"
   ],
   "RITAN": [
-    "BgeeDB",
     "GenomicFeatures",
     "ensembldb"
   ],
@@ -1646,7 +1643,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "TOP": [],
   "TRESS": [
     "GenomicFeatures"
   ],
@@ -3306,7 +3302,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scAnnotatR": [],
   "scBFA": [
     "DESeq2"
   ],

@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 1383 packages built successfully
+- 1387 packages built successfully
 - 21 packages failed to build
-- 829 packages not yet processed
+- 825 packages not yet processed
 
 ## Failed Builds (21)
 | Package                                                                              | Status   | Log                                                               | BBS Status                                                                 | Failure Reasons                     |
@@ -33,7 +33,7 @@
 | [SAIGEgds](https://bioconductor.org/packages/3.20/bioc/html/SAIGEgds.html)           | Failed   | [Log](runs/2025-03-12-12-47-04/logs/SAIGEgds/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/SAIGEgds)      | Build failed with unknown error     |
 | [muscle](https://bioconductor.org/packages/3.20/bioc/html/muscle.html)               | Failed   | [Log](runs/2025-03-12-12-47-04/logs/muscle/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/muscle)        | Build failed with unknown error     |
 
-## Successfully Built (1383)
+## Successfully Built (1387)
 | Package                                                                                                        | Status   | Log                                                                               | BBS Status                                                                              |
 |----------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [AMOUNTAIN](https://bioconductor.org/packages/3.20/bioc/html/AMOUNTAIN.html)                                   | Built    | [Log](runs/2025-03-12-12-47-04/logs/AMOUNTAIN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/AMOUNTAIN)                  |
@@ -1419,8 +1419,12 @@
 | [CHETAH](https://bioconductor.org/packages/3.20/bioc/html/CHETAH.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/CHETAH/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/CHETAH)                     |
 | [XDE](https://bioconductor.org/packages/3.20/bioc/html/XDE.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/XDE/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/XDE)                        |
 | [bnbc](https://bioconductor.org/packages/3.20/bioc/html/bnbc.html)                                             | Built    | [Log](runs/2025-03-12-12-47-04/logs/bnbc/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/bnbc)                       |
+| [BgeeDB](https://bioconductor.org/packages/3.20/bioc/html/BgeeDB.html)                                         | Built    | [Log](runs/2025-03-12-12-47-04/logs/BgeeDB/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BgeeDB)                     |
+| [BiSeq](https://bioconductor.org/packages/3.20/bioc/html/BiSeq.html)                                           | Built    | [Log](runs/2025-03-12-12-47-04/logs/BiSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/BiSeq)                      |
+| [TOP](https://bioconductor.org/packages/3.20/bioc/html/TOP.html)                                               | Built    | [Log](runs/2025-03-12-12-47-04/logs/TOP/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/TOP)                        |
+| [scAnnotatR](https://bioconductor.org/packages/3.20/bioc/html/scAnnotatR.html)                                 | Built    | [Log](runs/2025-03-12-12-47-04/logs/scAnnotatR/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.20/bioc-LATEST/scAnnotatR)                 |
 
-## Not Yet Processed (829)
+## Not Yet Processed (825)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ADaCGH2](https://bioconductor.org/packages/3.20/bioc/html/ADaCGH2.html)                                         | Unprocessed |
@@ -1450,8 +1454,6 @@
 | [BatchQC](https://bioconductor.org/packages/3.20/bioc/html/BatchQC.html)                                         | Unprocessed |
 | [BayesSpace](https://bioconductor.org/packages/3.20/bioc/html/BayesSpace.html)                                   | Unprocessed |
 | [BgeeCall](https://bioconductor.org/packages/3.20/bioc/html/BgeeCall.html)                                       | Unprocessed |
-| [BgeeDB](https://bioconductor.org/packages/3.20/bioc/html/BgeeDB.html)                                           | Unprocessed |
-| [BiSeq](https://bioconductor.org/packages/3.20/bioc/html/BiSeq.html)                                             | Unprocessed |
 | [BindingSiteFinder](https://bioconductor.org/packages/3.20/bioc/html/BindingSiteFinder.html)                     | Unprocessed |
 | [BioCor](https://bioconductor.org/packages/3.20/bioc/html/BioCor.html)                                           | Unprocessed |
 | [BioTIP](https://bioconductor.org/packages/3.20/bioc/html/BioTIP.html)                                           | Unprocessed |
@@ -1781,7 +1783,6 @@
 | [TFBSTools](https://bioconductor.org/packages/3.20/bioc/html/TFBSTools.html)                                     | Unprocessed |
 | [TFEA.ChIP](https://bioconductor.org/packages/3.20/bioc/html/TFEA.ChIP.html)                                     | Unprocessed |
 | [TFHAZ](https://bioconductor.org/packages/3.20/bioc/html/TFHAZ.html)                                             | Unprocessed |
-| [TOP](https://bioconductor.org/packages/3.20/bioc/html/TOP.html)                                                 | Unprocessed |
 | [TRESS](https://bioconductor.org/packages/3.20/bioc/html/TRESS.html)                                             | Unprocessed |
 | [TSCAN](https://bioconductor.org/packages/3.20/bioc/html/TSCAN.html)                                             | Unprocessed |
 | [TVTB](https://bioconductor.org/packages/3.20/bioc/html/TVTB.html)                                               | Unprocessed |
@@ -2146,7 +2147,6 @@
 | [roar](https://bioconductor.org/packages/3.20/bioc/html/roar.html)                                               | Unprocessed |
 | [rqt](https://bioconductor.org/packages/3.20/bioc/html/rqt.html)                                                 | Unprocessed |
 | [saseR](https://bioconductor.org/packages/3.20/bioc/html/saseR.html)                                             | Unprocessed |
-| [scAnnotatR](https://bioconductor.org/packages/3.20/bioc/html/scAnnotatR.html)                                   | Unprocessed |
 | [scBFA](https://bioconductor.org/packages/3.20/bioc/html/scBFA.html)                                             | Unprocessed |
 | [scCB2](https://bioconductor.org/packages/3.20/bioc/html/scCB2.html)                                             | Unprocessed |
 | [scDD](https://bioconductor.org/packages/3.20/bioc/html/scDD.html)                                               | Unprocessed |

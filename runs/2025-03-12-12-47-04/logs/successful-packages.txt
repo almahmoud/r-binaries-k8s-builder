@@ -1381,3 +1381,7 @@ speckle
 CHETAH
 XDE
 bnbc
+BgeeDB
+BiSeq
+scAnnotatR
+TOP
