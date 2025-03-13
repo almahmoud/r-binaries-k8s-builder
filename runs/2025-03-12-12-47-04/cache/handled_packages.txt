@@ -826,6 +826,7 @@ TEKRABber
 TENxIO
 TEQC
 TFARM
+TFEA.ChIP
 TFutils
 TIN
 TMSig
@@ -1699,6 +1700,7 @@ spatialHeatmap
 spatialSimGP
 specL
 speckle
+spicyR
 spikeLI
 spiky
 spkTools
@@ -1747,8 +1749,10 @@ terraTCGAdata
 tidyCoverage
 tidyFlowCore
 tidySingleCellExperiment
+tidySpatialExperiment
 tidySummarizedExperiment
 tidybulk
+tidyomics
 tidysbml
 tidytof
 tigre
@@ -1761,8 +1765,10 @@ tomoda
 tomoseqr
 topGO
 topconfects
+tpSVG
 tracktables
 tradeSeq
+transcriptR
 transcriptogramer
 transformGamPoi
 transite

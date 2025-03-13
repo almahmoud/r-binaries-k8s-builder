@@ -619,7 +619,6 @@
   "SpotSweeper": [],
   "Statial": [],
   "TFBSTools": [],
-  "TFEA.ChIP": [],
   "TFHAZ": [
     "ORFik",
     "txdbmaker"
@@ -996,9 +995,7 @@
   "karyoploteR": [
     "regioneR"
   ],
-  "lisaClust": [
-    "spicyR"
-  ],
+  "lisaClust": [],
   "lumi": [
     "methylumi",
     "minfi",
@@ -1388,7 +1385,6 @@
     "TFBSTools",
     "Gviz"
   ],
-  "spicyR": [],
   "spillR": [
     "CATALYST",
     "scater",
@@ -1414,15 +1410,11 @@
     "Gviz"
   ],
   "ternarynet": [],
-  "tidySpatialExperiment": [],
-  "tidyomics": [],
   "topdownr": [],
-  "tpSVG": [],
   "trackViewer": [
     "Gviz",
     "txdbmaker"
   ],
-  "transcriptR": [],
   "tricycle": [
     "scater",
     "scuttle"
