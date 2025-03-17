@@ -1,2 +1,8 @@
 ['[HilbertVis](https://bioconductor.org/packages/3.21/bioc/html/HilbertVis.html)', 'Failed', '[Log](runs/2025-03-17-15-34-20/logs/HilbertVis/build-fail.log)', 'Not Found', 'Compilation failed:  ‘HilbertVis’']
 ['[cisPath](https://bioconductor.org/packages/3.21/bioc/html/cisPath.html)', 'Failed', '[Log](runs/2025-03-17-15-34-20/logs/cisPath/build-fail.log)', 'Not Found', 'Compilation failed:  ‘cisPath’']
+['[HilbertVis](https://bioconductor.org/packages/3.21/bioc/html/HilbertVis.html)', 'Failed', '[Log](runs/2025-03-17-15-34-20/logs/HilbertVis/build-fail.log)', 'Not Found', 'Compilation failed:  ‘HilbertVis’']
+['[REBET](https://bioconductor.org/packages/3.21/bioc/html/REBET.html)', 'Failed', '[Log](runs/2025-03-17-15-34-20/logs/REBET/build-fail.log)', 'Not Found', 'Build failed with unknown error']
+['[chopsticks](https://bioconductor.org/packages/3.21/bioc/html/chopsticks.html)', 'Failed', '[Log](runs/2025-03-17-15-34-20/logs/chopsticks/build-fail.log)', 'Not Found', 'Compilation failed:  ‘chopsticks’']
+['[cisPath](https://bioconductor.org/packages/3.21/bioc/html/cisPath.html)', 'Failed', '[Log](runs/2025-03-17-15-34-20/logs/cisPath/build-fail.log)', 'Not Found', 'Compilation failed:  ‘cisPath’']
+['[genoCN](https://bioconductor.org/packages/3.21/bioc/html/genoCN.html)', 'Failed', '[Log](runs/2025-03-17-15-34-20/logs/genoCN/build-fail.log)', 'Not Found', 'Compilation failed:  ‘genoCN’']
+['[graper](https://bioconductor.org/packages/3.21/bioc/html/graper.html)', 'Failed', '[Log](runs/2025-03-17-15-34-20/logs/graper/build-fail.log)', 'Not Found', 'Build failed with unknown error']
