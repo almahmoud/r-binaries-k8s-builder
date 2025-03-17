@@ -389,3 +389,7 @@ scShapes
 scTHI
 ternarynet
 tomoseqr
+DeepPINCS
+clst
+ggtree
+synlet
