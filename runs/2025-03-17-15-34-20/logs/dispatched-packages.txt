@@ -343,3 +343,11 @@ weaver
 widgetTools
 xmapbridge
 zlibbioc
+AnVIL
+AnVILAz
+AnVILGCP
+BUS
+BiocWorkflowTools
+COMPASS
+REBET
+hypeR
