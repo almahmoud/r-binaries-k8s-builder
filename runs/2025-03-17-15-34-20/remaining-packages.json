@@ -2312,9 +2312,6 @@
     "CoreGx",
     "SummarizedExperiment"
   ],
-  "PhosR": [
-    "SummarizedExperiment"
-  ],
   "PhyloProfile": [
     "ExperimentHub",
     "AnnotationDbi"
