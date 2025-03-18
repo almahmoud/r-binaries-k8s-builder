@@ -277,7 +277,8 @@ def main(run_id):
     for pkg in sorted(successful):
         pkg_url = f"https://bioconductor.org/packages/{bioc_version}/bioc/html/{pkg}.html"
         pkg_link = f"[{pkg}]({pkg_url})"
-        log_path = f"runs/{run_id}/logs/{pkg}/build-success.log"
+        # Use relative path since README is already in runs/{run_id}/
+        log_path = f"logs/{pkg}/build-success.log"
         log_link = f"[Log]({log_path})"
         
         # Check if we have a cached BBS status that's verified
@@ -295,7 +296,8 @@ def main(run_id):
     for pkg in sorted(failed):
         pkg_url = f"https://bioconductor.org/packages/{bioc_version}/bioc/html/{pkg}.html"
         pkg_link = f"[{pkg}]({pkg_url})"
-        log_path = f"runs/{run_id}/logs/{pkg}/build-fail.log"
+        # Use relative path since README is already in runs/{run_id}/
+        log_path = f"logs/{pkg}/build-fail.log"
         log_link = f"[Log]({log_path})"
         
         # Check if we have a cached BBS status that's verified
