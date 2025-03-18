@@ -116,6 +116,9 @@ jobs:
 
             # Setup Kubernetes resources
             bash ./.github/scripts/setup_k8s.sh "nfs" "500Gi" "${RUN_ID}"
+            
+            # Initialize null push counter
+            echo "0" > "runs/${RUN_ID}/null_push_counter"
           else
             RUN_ID=$(cat runid)
             CONTAINER=$(cat "runs/${RUN_ID}/CONTAINER_BASE_IMAGE.bioc")
@@ -146,26 +149,26 @@ jobs:
           git add runs/
           ACTIVITY_CHECK=$(git diff --staged --name-status | grep -q "runs/${RUN_ID}/logs/.*packages.txt" && echo "true" || echo "false")
           echo "had_activity=${ACTIVITY_CHECK}" >> $GITHUB_OUTPUT
-
-          # After dispatching jobs, check if cycle is complete
-          RUNNING_JOBS=$(kubectl get jobs -n "ns-${RUN_ID}" -l app=bioc-builder -o name | wc -l)
-          DISPATCHED_COUNT=$(wc -l < "runs/${RUN_ID}/logs/dispatched-packages.txt" || echo "0")
-          PROCESSED_COUNT=$(( $(wc -l < "runs/${RUN_ID}/logs/successful-packages.txt" || echo "0") + $(wc -l < "runs/${RUN_ID}/logs/failed-packages.txt" || echo "0") ))
-          READY_COUNT=$(wc -l < "runs/${RUN_ID}/ready_packages.txt" || echo "0")
-
-          if [[ "${RUNNING_JOBS}" == "0" && "${DISPATCHED_COUNT}" == "${PROCESSED_COUNT}" && "${READY_COUNT}" == "0" ]]; then
-            echo "No more jobs running, all dispatched packages processed, and no new packages ready."
-            echo "Running repository indexing..."
+          
+          # Check null push counter to see if we need to finish the cycle
+          NULL_PUSH_COUNTER_FILE="runs/${RUN_ID}/null_push_counter"
+          NULL_PUSH_COUNT=$(cat "${NULL_PUSH_COUNTER_FILE}" 2>/dev/null || echo "0")
+          
+          # If counter is high enough, check if we can finish the cycle
+          if [[ "${NULL_PUSH_COUNT}" -ge 10 ]]; then
+            echo "Null push counter reached ${NULL_PUSH_COUNT}, checking if cycle can be completed..."
             
-            BIOC_VERSION=$(cat "runs/${RUN_ID}/bioc_version")
-            OLD_PACKAGES_URL="https://storage.googleapis.com/bioconductor-packages/${BIOC_VERSION}/container-binaries/bioconductor_docker/src/contrib/PACKAGES"
-            bash ./.github/scripts/finish_cycle.sh "${RUN_ID}" "${OLD_PACKAGES_URL}" "${CONTAINER}"
-          else
-            echo "Cycle continues:"
-            echo "- Running jobs: ${RUNNING_JOBS}"
-            echo "- Dispatched packages: ${DISPATCHED_COUNT}"
-            echo "- Processed packages: ${PROCESSED_COUNT}"
-            echo "- Ready packages: ${READY_COUNT}"
+            # Check for running jobs, if none - finish the cycle
+            RUNNING_JOBS=$(kubectl get jobs -n "ns-${RUN_ID}" -l app=bioc-builder -o name | wc -l)
+            
+            if [[ "${RUNNING_JOBS}" == "0" ]]; then
+              echo "No running jobs and null push counter reached threshold. Finishing cycle..."
+              BIOC_VERSION=$(cat "runs/${RUN_ID}/bioc_version")
+              OLD_PACKAGES_URL="https://storage.googleapis.com/bioconductor-packages/${BIOC_VERSION}/container-binaries/bioconductor_docker/src/contrib/PACKAGES"
+              bash ./.github/scripts/finish_cycle.sh "${RUN_ID}" "${OLD_PACKAGES_URL}" "${CONTAINER}"
+              # Reset counter after finishing
+              echo "0" > "${NULL_PUSH_COUNTER_FILE}"
+            fi
           fi
 
           mkdir -p /tmp/restore
@@ -174,11 +177,37 @@ jobs:
 
       - name: Commit and push results
         if: steps.cycle_check.outputs.skip != 'true'
+        id: repo_changes
         run: |
           git pull origin main && git reset --hard origin/main || git reset --hard origin/main
           cp -r /tmp/restore/* ./ || true
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
           git add runs/ runid || true
-          git commit -m "Build state update: ${{ github.run_id }}"
-          git push || (git pull --rebase && git push)
+          
+          # Check if there are actual changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            # If no changes, increment the null push counter
+            RUN_ID=$(cat runid)
+            NULL_PUSH_COUNTER_FILE="runs/${RUN_ID}/null_push_counter"
+            NULL_PUSH_COUNT=$(cat "${NULL_PUSH_COUNTER_FILE}" 2>/dev/null || echo "0")
+            NEW_COUNT=$((NULL_PUSH_COUNT + 1))
+            echo "${NEW_COUNT}" > "${NULL_PUSH_COUNTER_FILE}"
+            
+            # Commit just the counter change
+            git add "${NULL_PUSH_COUNTER_FILE}"
+            git commit -m "Increment null push counter to ${NEW_COUNT}"
+            git push || (git pull --rebase && git push)
+            echo "pushed=false" >> $GITHUB_OUTPUT
+          else
+            # Reset null push counter on meaningful changes
+            RUN_ID=$(cat runid)
+            echo "0" > "runs/${RUN_ID}/null_push_counter"
+            git add "runs/${RUN_ID}/null_push_counter"
+            
+            # Commit all changes
+            git commit -m "Build state update: ${{ github.run_id }}"
+            git push || (git pull --rebase && git push)
+            echo "pushed=true" >> $GITHUB_OUTPUT
+          fi
