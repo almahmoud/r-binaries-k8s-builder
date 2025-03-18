@@ -2653,7 +2653,6 @@
     "genefilter",
     "GenomicFeatures"
   ],
-  "corral": [],
   "coseq": [
     "HTSFilter"
   ],
@@ -4280,7 +4279,6 @@
     "scater",
     "scuttle"
   ],
-  "segmentSeq": [],
   "segmenter": [
     "ChIPseeker",
     "enrichplot",

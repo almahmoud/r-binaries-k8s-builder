@@ -1237,3 +1237,5 @@ nucleR
 basecallQC
 easyRNASeq
 girafe
+corral
+segmentSeq
