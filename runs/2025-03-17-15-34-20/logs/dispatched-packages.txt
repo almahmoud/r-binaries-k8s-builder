@@ -1438,3 +1438,16 @@ webbioc
 xcore
 zellkonverter
 zitools
+MetaboAnnotation
+MsExperiment
+POWSC
+PSMatch
+RTNsurvival
+TSCAN
+celaref
+hdxmsqc
+mspms
+msqrob2
+regionalpcs
+scp
+slingshot
