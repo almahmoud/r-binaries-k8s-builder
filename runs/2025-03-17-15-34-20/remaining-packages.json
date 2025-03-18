@@ -1855,10 +1855,7 @@
   "SCANVIS": [
     "rtracklayer"
   ],
-  "SCArray": [],
-  "SCArray.sat": [
-    "SCArray"
-  ],
+  "SCArray.sat": [],
   "SCOPE": [
     "BSgenome",
     "rtracklayer"
@@ -2267,7 +2264,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "aggregateBioVar": [],
   "airpart": [
     "scater",
     "scuttle"
