@@ -2,11 +2,6 @@
 
 A scalable Kubernetes-based system for building Bioconductor package binaries automatically. This system resolves dependencies, schedules builds efficiently, and creates a standard R package repository structure.
 
-<!-- CYCLES_TABLE_START -->
-| Run ID | Start Time | End Time | Bioconductor | Successful | Failed | Total Packages | Status |
-|--------|------------|----------|--------------|------------|--------|----------------|--------|
-<!-- CYCLES_TABLE_END -->
-
 ## How To Use
 
 ### Prerequisites
