@@ -22,3 +22,17 @@ DEsubs
 DifferentialRegulation
 EBSEA
 EDIRquery
+ASURAT
+CellTrails
+ClusterFoldSimilarity
+CNVRanger
+CytoPipeline
+DelayedTensor
+DOSE
+EGAD
+ERSSA
+ExperimentHub
+GloScope
+GOexpress
+HiCParser
+HybridExpress
