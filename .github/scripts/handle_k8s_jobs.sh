@@ -68,7 +68,7 @@ echo "${JOBS}" | while read -r JOB_NAME PKG; do
         fi
 
         # Determine final status
-        if [ "$SUCCEEDED" = "True" ] && [ $TARBALL_EXISTS -eq 1]; then
+        if [ "$SUCCEEDED" = "True" ] && [ $TARBALL_EXISTS -eq 1 ]; then
             mv "${TMP_LOG}" "${LOG_DIR}/build-success.log"
             echo "  Build succeeded with verified packaging"
             echo "$PKG" >> "${SUCCESS_PKGS}"
