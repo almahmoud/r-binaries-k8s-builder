@@ -4,3 +4,5 @@ Anaquin
 BasicSTARRseq
 BUSseq
 CHETAH
+BaalChIP
+CellBench
