@@ -10,6 +10,9 @@ import re
 from datetime import datetime
 import subprocess
 
+# Track the last successful BBS node
+CURRENT_BBS_NODE = "nebbiolo2"  # Default starting node
+
 def check_cran_archived(pkg):
     """Checks if a package has been archived on CRAN"""
     cranurl = f"https://cran.r-project.org/web/packages/{pkg}/index.html"
@@ -31,16 +34,43 @@ def check_cran_archived(pkg):
     return None
 
 def get_bbs_status(pkg, bioc_version):
-    """Get current BBS build status for package"""
+    """Get current BBS build status for package, trying different BBS nodes if needed"""
+    global CURRENT_BBS_NODE
+    
+    # Define both possible BBS nodes
+    bbs_nodes = ["nebbiolo1", "nebbiolo2"]
+    
+    # Try the current node first
     bbsurl = f"https://bioconductor.org/checkResults/{bioc_version}/bioc-LATEST/{pkg}"
-    statusurl = f"{bbsurl}/raw-results/nebbiolo2/buildsrc-summary.dcf"
+    statusurl = f"{bbsurl}/raw-results/{CURRENT_BBS_NODE}/buildsrc-summary.dcf"
+    
     try:
         r = requests.get(statusurl, timeout=10)
+        # If we get a 404, try the other node
+        if r.status_code == 404:
+            print(f"  404 from {CURRENT_BBS_NODE}, trying alternate BBS node")
+            # Get the alternate node
+            alt_node = [node for node in bbs_nodes if node != CURRENT_BBS_NODE][0]
+            alt_url = f"{bbsurl}/raw-results/{alt_node}/buildsrc-summary.dcf"
+            alt_r = requests.get(alt_url, timeout=10)
+            
+            if alt_r.status_code == 200:
+                # Remember this successful node for future requests
+                CURRENT_BBS_NODE = alt_node
+                print(f"  Switching to {CURRENT_BBS_NODE} for BBS status checks")
+                r = alt_r  # Use the successful response
+            else:
+                # Both nodes failed, use original response
+                print(f"  Both BBS nodes failed for {pkg}")
+                return "Not Found"
+        
+        # Continue with retries if needed
         retries = 0
         while retries <= 5 and r.status_code != 200:
             r = requests.get(statusurl, timeout=10)
             retries += 1
             time.sleep(2)
+            
         if r.status_code == 200:
             try:
                 bbs_summary = r.content.decode("utf-8")
@@ -52,6 +82,7 @@ def get_bbs_status(pkg, bioc_version):
                 pass
     except (requests.exceptions.RequestException, UnicodeDecodeError):
         pass
+    
     return "Not Found"
 
 def check_failure_reason(log_content):
@@ -250,6 +281,16 @@ def main(run_id):
     bioc_version = get_bioc_version(run_id)
     cache = load_table_cache(run_id)
     
+    # Try to load previously used BBS node if available
+    bbs_node_file = f"runs/{run_id}/cache/bbs_node.txt"
+    if os.path.exists(bbs_node_file):
+        with open(bbs_node_file, 'r') as f:
+            node = f.read().strip()
+            if node in ["nebbiolo1", "nebbiolo2"]:
+                global CURRENT_BBS_NODE
+                CURRENT_BBS_NODE = node
+                print(f"Using previously successful BBS node: {CURRENT_BBS_NODE}")
+    
     print(f"Found {len(packages)} total packages in Bioconductor {bioc_version}")
     print(f"Previously documented {len(cache['handled_packages'])} packages")
     print(f"Packages with verified BBS status: {len(cache['verified_bbs'])}")
@@ -334,6 +375,12 @@ def main(run_id):
     
     # Save updated cache
     save_table_cache(run_id, cache)
+    
+    # Save the current BBS node for future runs
+    bbs_node_file = f"runs/{run_id}/cache/bbs_node.txt"
+    with open(bbs_node_file, 'w') as f:
+        f.write(CURRENT_BBS_NODE)
+    print(f"Saved current BBS node ({CURRENT_BBS_NODE}) for future runs")
     
     # Build final tables including cached entries
     tables = {
