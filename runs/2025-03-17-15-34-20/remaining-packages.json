@@ -688,7 +688,6 @@
   ],
   "ELMER": [
     "GenomicFeatures",
-    "TCGAbiolinks",
     "Gviz",
     "rtracklayer",
     "ensembldb",
@@ -1339,7 +1338,6 @@
   "MoonlightR": [
     "clusterProfiler",
     "DOSE",
-    "TCGAbiolinks",
     "enrichplot"
   ],
   "Motif2Site": [
@@ -1832,7 +1830,6 @@
   "SCANVIS": [
     "rtracklayer"
   ],
-  "SCArray.sat": [],
   "SCOPE": [
     "BSgenome",
     "rtracklayer"
@@ -1982,8 +1979,7 @@
     "BSgenome"
   ],
   "SurfR": [
-    "SPsimSeq",
-    "TCGAbiolinks"
+    "SPsimSeq"
   ],
   "TADCompare": [
     "HiCcompare"
@@ -2002,7 +1998,6 @@
     "genefilter"
   ],
   "TCC": [],
-  "TCGAbiolinks": [],
   "TCGAutils": [
     "GenomicFeatures",
     "rtracklayer"
@@ -2016,7 +2011,6 @@
     "rtracklayer"
   ],
   "TENET": [
-    "TCGAbiolinks",
     "sesame",
     "ExperimentHub",
     "rtracklayer",
@@ -3560,7 +3554,6 @@
   ],
   "miQC": [],
   "miRLAB": [
-    "TCGAbiolinks",
     "Category",
     "GOstats",
     "GSEABase",

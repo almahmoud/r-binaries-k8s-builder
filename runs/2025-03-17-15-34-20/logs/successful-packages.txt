@@ -1243,3 +1243,5 @@ epigenomix
 UCell
 censcyt
 ginmappeR
+SCArray.sat
+TCGAbiolinks
