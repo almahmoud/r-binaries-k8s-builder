@@ -45,3 +45,13 @@ LoomExperiment
 MDTS
 MGFM
 MGFR
+COTAN
+GenomicScores
+InterCellar
+LinkHD
+MetaNeighbor
+MICSQTL
+MLSeq
+MouseFM
+MultimodalExperiment
+OncoScore
