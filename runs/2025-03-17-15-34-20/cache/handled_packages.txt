@@ -109,7 +109,6 @@ CompoundDb
 ConsensusClusterPlus
 Cormotif
 CytoDx
-CytoGLMM
 DART
 DCATS
 DECIPHER
@@ -218,12 +217,10 @@ HMMcopy
 HPAanalyze
 HPiP
 Harman
-Harshlight
 Heatplus
 Herper
 HiCBricks
 HilbertCurve
-HilbertVis
 HuBMAPR
 HubPub
 HybridMTest
@@ -365,7 +362,6 @@ RCX
 RCy3
 RCyjs
 RDRToolbox
-REBET
 RGSEA
 RGraph2js
 RIVER
@@ -551,9 +547,7 @@ cellbaseR
 cellmigRation
 cellscape
 cellxgenedp
-chopsticks
 chromDraw
-cisPath
 cleaver
 clevRvis
 clippda
@@ -562,7 +556,6 @@ clstutils
 clustComp
 clusterSeq
 clusterStab
-cn.mops
 cnvGSA
 coGPS
 coRdon
@@ -669,7 +662,6 @@ geneClassifiers
 geneRecommender
 geneRxCluster
 geneplast
-genoCN
 genomeIntervals
 genomes
 geva
@@ -683,9 +675,7 @@ ggtreeExtra
 ggtreeSpace
 globalSeq
 gpls
-gpuMagic
 granulator
-graper
 graph
 gtrellis
 gypsum
@@ -698,7 +688,6 @@ hierGWAS
 hierinf
 hmdbQuery
 hopach
-hypeR
 hyperdraw
 hypergraph
 iASeq
@@ -891,7 +880,6 @@ rols
 rprimer
 rpx
 rqubic
-rsbml
 rsemmed
 sSeq
 sagenhaft
