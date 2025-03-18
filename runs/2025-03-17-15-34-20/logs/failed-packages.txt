@@ -17,3 +17,8 @@ DEFormats
 DEGreport
 DELocal
 DEWSeq
+CytoML
+DEsubs
+DifferentialRegulation
+EBSEA
+EDIRquery
