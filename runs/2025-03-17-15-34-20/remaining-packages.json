@@ -2161,7 +2161,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "ViSEAGO": [],
   "VisiumIO": [
     "TENxIO"
   ],
