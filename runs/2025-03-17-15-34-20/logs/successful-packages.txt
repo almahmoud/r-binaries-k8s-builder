@@ -1232,3 +1232,5 @@ dada2
 SingleCellAlleleExperiment
 SPONGE
 ReactomeGSA
+chipseq
+nucleR

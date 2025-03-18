@@ -419,7 +419,6 @@
   ],
   "ChIPQC": [
     "DiffBind",
-    "chipseq",
     "GenomicFeatures",
     "systemPipeR",
     "GreyListChIP",
@@ -2543,7 +2542,6 @@
   "chipenrich": [
     "rtracklayer"
   ],
-  "chipseq": [],
   "chopsticks": [],
   "chromPlot": [],
   "chromVAR": [
@@ -3782,7 +3780,6 @@
   "npGSEA": [
     "GSEABase"
   ],
-  "nucleR": [],
   "nullranges": [
     "plyranges",
     "rtracklayer"
@@ -3956,7 +3953,6 @@
     "rGREAT",
     "rtracklayer",
     "enrichplot",
-    "chipseq",
     "DOSE"
   ],
   "protGear": [
@@ -4418,8 +4414,7 @@
   "smoothclust": [],
   "smoppix": [],
   "soGGi": [
-    "rtracklayer",
-    "chipseq"
+    "rtracklayer"
   ],
   "sosta": [],
   "spaSim": [],
@@ -4593,7 +4588,6 @@
     "slingshot"
   ],
   "transcriptR": [
-    "chipseq",
     "GenomicFeatures",
     "rtracklayer"
   ],
