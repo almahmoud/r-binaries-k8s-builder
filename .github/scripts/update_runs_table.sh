@@ -9,6 +9,13 @@ if [ ! -f "README.md" ]; then
   echo "<!-- RUNS_TABLE_END -->" >> README.md
 fi
 
+# Make sure the markers exist in the README
+if ! grep -q "<!-- RUNS_TABLE_START -->" README.md; then
+  # Add markers at the top if they don't exist
+  sed -i '1i <!-- RUNS_TABLE_END -->' README.md
+  sed -i '1i <!-- RUNS_TABLE_START -->' README.md
+fi
+
 # Create runs table
 echo "Generating runs table..."
 echo "| Run ID | Start Time | Container Image | Status | Success | Failed | Total |" > runs-table.md
@@ -42,7 +49,19 @@ find runs -maxdepth 1 -mindepth 1 -type d | sort -r | while read -r run_dir; do
   echo "| [${run_id}](${run_dir}/README.md) | ${start_time} | \`${container_img}\` | ${status} | ${success_count} | ${failed_count} | ${total_count} |" >> runs-table.md
 done
 
-# Replace table in README.md
-sed -i '/<!-- RUNS_TABLE_START -->/,/<!-- RUNS_TABLE_END -->/c\<!-- RUNS_TABLE_START -->\n'"$(cat runs-table.md)"'\n<!-- RUNS_TABLE_END -->' README.md
+# Create temporary file for new README content
+TEMP_README=$(mktemp)
+
+# Use grep to extract parts before and after the table markers and combine with the new table
+grep -B100000 "<!-- RUNS_TABLE_START -->" README.md > "${TEMP_README}" 2>/dev/null || echo "# R Binaries Kubernetes Builder" > "${TEMP_README}"
+echo "" >> "${TEMP_README}"
+echo "<!-- RUNS_TABLE_START -->" >> "${TEMP_README}"
+cat runs-table.md >> "${TEMP_README}"
+echo "" >> "${TEMP_README}"
+echo "<!-- RUNS_TABLE_END -->" >> "${TEMP_README}"
+grep -A100000 "<!-- RUNS_TABLE_END -->" README.md | tail -n +2 >> "${TEMP_README}" 2>/dev/null
+
+# Replace README with new content
+mv "${TEMP_README}" README.md
 
 echo "Runs table updated in README.md"

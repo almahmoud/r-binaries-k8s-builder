@@ -5,6 +5,16 @@ A scalable Kubernetes-based system for building Bioconductor package binaries au
 ## Runs Summary
 
 <!-- RUNS_TABLE_START -->
+
+<!-- RUNS_TABLE_START -->
+| Run ID | Start Time | Container Image | Status | Success | Failed | Total |
+|--------|------------|-----------------|--------|---------|--------|-------|
+| [2025-03-17-15-34-20](runs/2025-03-17-15-34-20/README.md) | 2025-03-17 15:34:20 | `devel` | In Progress | 1194 | 6 | 1200 |
+| [2025-03-12-12-47-04](runs/2025-03-12-12-47-04/README.md) | 2025-03-12 12:47:04 | `3.20` | In Progress | 2158 | 30 | 2188 |
+| [2025-03-10-14-09-30](runs/2025-03-10-14-09-30/README.md) | 2025-03-10 14:09:30 | `3.20` | Complete | 1177 | 0 | 1177 |
+| [2025-03-07-19-33-47](runs/2025-03-07-19-33-47/README.md) | 2025-03-07 19:33:47 | `3.20` | In Progress | 2233 | 0 | 2233 |
+| [2025-02-28-13-08-23](runs/2025-02-28-13-08-23/README.md) | 2025-02-28 13:08:23 | `3.20` | In Progress | 2196 | 0 | 2196 |
+
 <!-- RUNS_TABLE_END -->
 
 ## How To Use
