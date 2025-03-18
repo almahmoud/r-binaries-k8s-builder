@@ -6,3 +6,5 @@ graper
 REBET
 CytoGLMM
 gpuMagic
+hypeR
+rsbml
