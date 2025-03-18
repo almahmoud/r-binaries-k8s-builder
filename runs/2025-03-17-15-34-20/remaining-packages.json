@@ -3060,7 +3060,6 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "flowVS": [],
   "frma": [
     "oligo"
   ],
@@ -3619,7 +3618,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "mosaics": [],
   "mosdef": [
     "clusterProfiler",
     "goseq",
