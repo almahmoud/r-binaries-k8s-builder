@@ -2483,7 +2483,6 @@
     "scran",
     "scuttle"
   ],
-  "censcyt": [],
   "cfDNAPro": [
     "plyranges",
     "BSgenome",
@@ -3161,7 +3160,6 @@
   ],
   "ggsc": [],
   "ggspavis": [],
-  "ginmappeR": [],
   "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils",
