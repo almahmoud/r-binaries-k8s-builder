@@ -46,7 +46,7 @@ find runs -maxdepth 1 -mindepth 1 -type d | sort -r | while read -r run_dir; do
   total_count=$((success_count + failed_count))
   
   # Add row to table
-  echo "| [${run_id}](${run_dir}/README.md) | ${start_time} | \`${container_img}\` | ${status} | ${success_count} | ${failed_count} | ${total_count} |" >> runs-table.md
+  echo "| [${run_id}](${run_dir}/) | ${start_time} | \`${container_img}\` | ${status} | ${success_count} | ${failed_count} | ${total_count} |" >> runs-table.md
 done
 
 # Create temporary file for new README content
