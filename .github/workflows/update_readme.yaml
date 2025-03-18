@@ -38,12 +38,16 @@ jobs:
         run: |
           pip install tabulate requests pyyaml
           python .github/scripts/update_readme.py "${{ steps.runid.outputs.id }}"
+          # Also update the main README with runs table
+          chmod +x .github/scripts/update_runs_table.sh
+          bash ./.github/scripts/update_runs_table.sh
 
       - name: Commit and push results
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
           git add runs/${{ steps.runid.outputs.id }}/README.md
+          git add README.md runs-table.md
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0

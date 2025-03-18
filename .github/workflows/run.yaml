@@ -96,6 +96,10 @@ jobs:
             CONTAINER=$(cat CONTAINER_BASE_IMAGE.bioc)
             cp CONTAINER_BASE_IMAGE.bioc "runs/${RUN_ID}/CONTAINER_BASE_IMAGE.bioc"
             
+            # Update runs table in main README
+            chmod +x .github/scripts/update_runs_table.sh
+            bash ./.github/scripts/update_runs_table.sh
+            
             # Generate dependency files in Docker container
             docker run -d --rm --name bioc-gen-${RUN_ID} \
               ${CONTAINER} sleep infinity
