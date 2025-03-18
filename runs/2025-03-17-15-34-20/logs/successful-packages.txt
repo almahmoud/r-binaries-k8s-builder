@@ -1214,3 +1214,9 @@ VegaMC
 ShortRead
 aggregateBioVar
 SCArray
+alabaster.se
+beer
+ccfindR
+Nebulosa
+SpatialExperiment
+VplotR
