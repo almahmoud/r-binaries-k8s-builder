@@ -1234,3 +1234,6 @@ SPONGE
 ReactomeGSA
 chipseq
 nucleR
+basecallQC
+easyRNASeq
+girafe

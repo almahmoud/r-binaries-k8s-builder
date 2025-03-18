@@ -2312,7 +2312,6 @@
     "MLInterfaces",
     "genefilter"
   ],
-  "basecallQC": [],
   "batchelor": [
     "scuttle"
   ],
@@ -2901,7 +2900,6 @@
   "easier": [
     "ExperimentHub"
   ],
-  "easyRNASeq": [],
   "easylift": [
     "rtracklayer"
   ],
@@ -3168,7 +3166,6 @@
   "ggsc": [],
   "ggspavis": [],
   "ginmappeR": [],
-  "girafe": [],
   "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils",
@@ -3688,7 +3685,6 @@
   ],
   "msgbsR": [
     "BSgenome",
-    "easyRNASeq",
     "GenomicFeatures",
     "ggbio",
     "rtracklayer",
