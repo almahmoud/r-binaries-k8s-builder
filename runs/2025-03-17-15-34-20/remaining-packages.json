@@ -1715,7 +1715,6 @@
     "AUCell",
     "GSEABase"
   ],
-  "ReactomeGSA": [],
   "ReactomePA": [
     "DOSE",
     "enrichplot"
