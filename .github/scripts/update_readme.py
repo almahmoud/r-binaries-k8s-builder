@@ -7,6 +7,8 @@ import time
 import argparse
 import yaml
 import re
+from datetime import datetime
+import subprocess
 
 def check_cran_archived(pkg):
     """Checks if a package has been archived on CRAN"""
@@ -180,6 +182,49 @@ def get_bioc_version(run_id):
     with open(f"runs/{run_id}/bioc_version", "r") as f:
         return f.read().strip()
 
+def save_cycle_summary(run_id, bioc_version, success_count, failed_count, unprocessed_count):
+    """
+    Save a summary of the cycle to a dedicated file
+    
+    Args:
+        run_id: The run identifier
+        bioc_version: Bioconductor version
+        success_count: Number of successful packages
+        failed_count: Number of failed packages
+        unprocessed_count: Number of unprocessed packages
+    """
+    summary_path = f"runs/{run_id}/summary.md"
+    
+    # Get cycle timing information
+    start_time = run_id.replace("-", " ", 2).replace("-", ":")
+    end_time = "In Progress"
+    status = "In Progress"
+    
+    # Update with completion time if available
+    if os.path.exists(f"runs/{run_id}/cycle_complete_time"):
+        with open(f"runs/{run_id}/cycle_complete_time") as tf:
+            end_time = tf.read().strip()
+            status = "Complete"
+    
+    # Get total packages in repo index if available
+    total_packages = ""
+    if os.path.exists(f"runs/{run_id}/indexed_packages_count"):
+        with open(f"runs/{run_id}/indexed_packages_count") as f:
+            total_packages = f.read().strip()
+    
+    # Write summary
+    with open(summary_path, "w") as f:
+        f.write(f"run_id: {run_id}\n")
+        f.write(f"start_time: {start_time}\n")
+        f.write(f"end_time: {end_time}\n")
+        f.write(f"bioc_version: {bioc_version}\n")
+        f.write(f"successful: {success_count}\n")
+        f.write(f"failed: {failed_count}\n")
+        f.write(f"total_packages: {total_packages}\n")
+        f.write(f"status: {status}\n")
+    
+    print(f"Cycle summary saved to {summary_path}")
+
 def main(run_id):
     print(f"Starting README update for run {run_id}")
     
@@ -268,7 +313,8 @@ def main(run_id):
     
     # Write README
     print("\nWriting README.md...")
-    with open("README.md", "w") as f:
+    readme_path = f"runs/{run_id}/README.md"
+    with open(readme_path, "w") as f:
         f.write(f"# Bioconductor {bioc_version} Binary Building Status\n\n")
         f.write(f"**Run ID:** {run_id}\n\n")
         
@@ -308,7 +354,16 @@ def main(run_id):
                 ["Package", "Status"], 
                 tablefmt="github"))
 
-    print("\nREADME update complete")
+    # Save cycle summary for this run
+    save_cycle_summary(
+        run_id,
+        bioc_version,
+        len(tables['succeeded']),
+        len(tables['failed']),
+        len(tables['unprocessed'])
+    )
+
+    print(f"\nREADME written to {readme_path}")
     print(f"Summary:")
     print(f"- {len(tables['succeeded'])} built")
     print(f"- {len(tables['failed'])} failed")
