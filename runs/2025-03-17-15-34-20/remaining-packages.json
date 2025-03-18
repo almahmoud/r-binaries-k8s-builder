@@ -3051,7 +3051,6 @@
     "rtracklayer",
     "bumphunter"
   ],
-  "fishpond": [],
   "flagme": [
     "xcms",
     "CAMERA",
@@ -3095,7 +3094,6 @@
     "enrichplot",
     "rtracklayer"
   ],
-  "gatom": [],
   "gcapc": [
     "BSgenome",
     "rtracklayer"
@@ -3690,7 +3688,6 @@
     "VariantAnnotation",
     "ensembldb"
   ],
-  "multistateQTL": [],
   "mumosa": [
     "scuttle",
     "scran",
