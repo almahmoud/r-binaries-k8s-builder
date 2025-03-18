@@ -64,8 +64,6 @@ BiocManager::install("PackageName")
 
 ### Architecture Overview
 
-![Architecture Diagram](https://mermaid.ink/img/pako:eNp1ksFqwzAMhl_F6NRC8wI5lEHHoGNQaNeyQw-KrSYmsc3kpKPJu09OmrI02YlY-vX_kr3HylqCCtYkzQCvEwYvQ9dFasHOHYYHimMEvdsBG1uXY4uDmmF_c5mtCNBFpYLACoNZaPBHxT_RJcONyUBImO_TRKkT3gv-eTJdbyDTwQL_5UmAXnIIJa_QIPOc2uwFGcK0aSsSUVOpa-JZ00jQ1BIS6TJTnp_BaIxWEhhhvGDKahk4nmXzqnNI1CmoW1KQqBfQ9CS8J859cbWFyusLZmJ2aeELZYrFGYfgsNNgfdTWLGXrOd9D4K279H4JZ1ryHQRrwuK4kiXrYD6RPIP7lm2F49Z_pOLY_QG-5b4l)
-
 The system consists of several key components:
 
 1. **GitHub Actions Workflows**:
