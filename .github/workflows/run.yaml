@@ -117,8 +117,9 @@ jobs:
             # Setup Kubernetes resources
             bash ./.github/scripts/setup_k8s.sh "nfs" "500Gi" "${RUN_ID}"
             
-            # Initialize null push counter
+            # Initialize counters
             echo "0" > "runs/${RUN_ID}/null_push_counter"
+            echo "0" > "runs/${RUN_ID}/reset_attempts_counter"
           else
             RUN_ID=$(cat runid)
             CONTAINER=$(cat "runs/${RUN_ID}/CONTAINER_BASE_IMAGE.bioc")
@@ -150,12 +151,29 @@ jobs:
           ACTIVITY_CHECK=$(git diff --staged --name-status | grep -q "runs/${RUN_ID}/logs/.*packages.txt" && echo "true" || echo "false")
           echo "had_activity=${ACTIVITY_CHECK}" >> $GITHUB_OUTPUT
           
-          # Check null push counter to see if we need to finish the cycle
+          # Get counter values
           NULL_PUSH_COUNTER_FILE="runs/${RUN_ID}/null_push_counter"
           NULL_PUSH_COUNT=$(cat "${NULL_PUSH_COUNTER_FILE}" 2>/dev/null || echo "0")
+          RESET_ATTEMPTS_FILE="runs/${RUN_ID}/reset_attempts_counter"
+          RESET_ATTEMPTS=$(cat "${RESET_ATTEMPTS_FILE}" 2>/dev/null || echo "0")
           
-          # If counter is high enough, check if we can finish the cycle
-          if [[ "${NULL_PUSH_COUNT}" -ge 10 ]]; then
+          # Check if we need to reset failed packages
+          if [[ "${NULL_PUSH_COUNT}" -ge 5 ]] && [[ "${RESET_ATTEMPTS}" -lt 3 ]]; then
+            echo "Null push counter reached ${NULL_PUSH_COUNT}, attempting to reset failed packages..."
+            
+            # Run the reset_failed script
+            if bash ./.github/scripts/reset_failed.sh "${RUN_ID}"; then
+              # Increment reset attempts counter
+              RESET_ATTEMPTS=$((RESET_ATTEMPTS + 1))
+              echo "${RESET_ATTEMPTS}" > "${RESET_ATTEMPTS_FILE}"
+              
+              # Reset null push counter
+              echo "0" > "${NULL_PUSH_COUNTER_FILE}"
+              
+              echo "Failed packages reset. Reset attempts: ${RESET_ATTEMPTS}/3"
+            fi
+          # If counter is high enough (10), check if we can finish the cycle
+          elif [[ "${NULL_PUSH_COUNT}" -ge 10 ]]; then
             echo "Null push counter reached ${NULL_PUSH_COUNT}, checking if cycle can be completed..."
             
             # Check for running jobs, if none - finish the cycle
@@ -201,10 +219,12 @@ jobs:
             git push || (git pull --rebase && git push)
             echo "pushed=false" >> $GITHUB_OUTPUT
           else
-            # Reset null push counter on meaningful changes
+            # Reset both counters on meaningful changes
             RUN_ID=$(cat runid)
             echo "0" > "runs/${RUN_ID}/null_push_counter"
+            echo "0" > "runs/${RUN_ID}/reset_attempts_counter"
             git add "runs/${RUN_ID}/null_push_counter"
+            git add "runs/${RUN_ID}/reset_attempts_counter"
             
             # Commit all changes
             git commit -m "Build state update: ${{ github.run_id }}"
