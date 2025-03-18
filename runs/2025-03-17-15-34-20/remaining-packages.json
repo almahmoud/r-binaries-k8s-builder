@@ -2080,7 +2080,6 @@
     "CoreGx"
   ],
   "TreeSummarizedExperiment": [],
-  "UCell": [],
   "UMI4Cats": [
     "regioneR",
     "BSgenome",
@@ -2926,7 +2925,6 @@
   "epidecodeR": [
     "rtracklayer"
   ],
-  "epigenomix": [],
   "epigraHMM": [
     "rtracklayer",
     "GreyListChIP",
@@ -3024,8 +3022,7 @@
   "escape": [
     "AUCell",
     "GSEABase",
-    "GSVA",
-    "UCell"
+    "GSVA"
   ],
   "escheR": [],
   "esetVis": [
