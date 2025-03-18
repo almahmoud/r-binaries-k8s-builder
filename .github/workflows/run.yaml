@@ -16,7 +16,7 @@ on:
       - 'runs/*/logs/successful-packages.txt'
 
 concurrency:
-  group: build-r-packages-${{ github.ref }}
+  group: build-r-packages
   cancel-in-progress: false
 
 jobs:
@@ -168,13 +168,9 @@ jobs:
             echo "- Ready packages: ${READY_COUNT}"
           fi
 
-          # Update README
-          pip install tabulate requests pyyaml
-          python ./.github/scripts/update_readme.py "${RUN_ID}"
           mkdir -p /tmp/restore
           cp -r runs /tmp/restore/
           cp runid /tmp/restore/
-          cp README.md /tmp/restore/
 
       - name: Commit and push results
         if: steps.cycle_check.outputs.skip != 'true'
@@ -183,6 +179,6 @@ jobs:
           cp -r /tmp/restore/* ./ || true
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-          git add runs/ runid README.md || true
+          git add runs/ runid || true
           git commit -m "Build state update: ${{ github.run_id }}"
           git push || (git pull --rebase && git push)
