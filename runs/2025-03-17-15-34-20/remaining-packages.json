@@ -1710,9 +1710,7 @@
     "GenomicScores",
     "rtracklayer"
   ],
-  "Rbec": [
-    "dada2"
-  ],
+  "Rbec": [],
   "RcisTarget": [
     "AUCell",
     "GSEABase"
@@ -1890,7 +1888,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SPONGE": [],
   "SPsimSeq": [],
   "SVMDO": [
     "DOSE"
@@ -1909,7 +1906,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "SingleCellAlleleExperiment": [],
   "SingleCellSignalR": [
     "scran",
     "scuttle"
@@ -2253,8 +2249,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "amplican": [],
-  "animalcules": [],
   "annmap": [
     "genefilter"
   ],
@@ -2493,7 +2487,6 @@
     "scran",
     "scuttle"
   ],
-  "cellity": [],
   "censcyt": [],
   "cfDNAPro": [
     "plyranges",
@@ -2781,7 +2774,6 @@
   "cytoviewer": [
     "cytomapper"
   ],
-  "dada2": [],
   "dagLogo": [
     "motifStack",
     "TFBSTools",
@@ -3595,7 +3587,6 @@
     "enrichplot"
   ],
   "miRspongeR": [
-    "SPONGE",
     "clusterProfiler",
     "ReactomePA",
     "DOSE",

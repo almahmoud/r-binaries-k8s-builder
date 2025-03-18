@@ -1225,3 +1225,9 @@ VDJdive
 ViSEAGO
 customCMPdb
 SPOTlight
+amplican
+animalcules
+cellity
+dada2
+SingleCellAlleleExperiment
+SPONGE
