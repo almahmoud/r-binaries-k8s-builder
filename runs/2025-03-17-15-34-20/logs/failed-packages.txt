@@ -4,3 +4,5 @@ chopsticks
 genoCN
 graper
 REBET
+CytoGLMM
+gpuMagic

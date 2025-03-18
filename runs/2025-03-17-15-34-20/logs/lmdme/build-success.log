@@ -1,0 +1,126 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''lmdme'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R Under development (unstable)
+  (2025-03-08 r87910)
+Installing package(s) 'lmdme'
+also installing the dependencies ‘statmod’, ‘pls’, ‘stemHypoxia’, ‘limma’
+
+trying URL 'https://cloud.r-project.org/src/contrib/statmod_1.5.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/pls_2.8-5.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/experiment/src/contrib/stemHypoxia_1.43.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/limma_3.63.9.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/lmdme_1.49.0.tar.gz'
+* installing *source* package ‘statmod’ ...
+** this is package ‘statmod’ version ‘1.5.0’
+** package ‘statmod’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c expectedDeviance.c -o expectedDeviance.o
+gfortran  -fpic  -g -O2  -c gaussq2.f -o gaussq2.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o statmod.so expectedDeviance.o gaussq2.o init.o -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-statmod/00new/statmod/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘statmod’ as ‘statmod_1.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (statmod)
+* installing *source* package ‘pls’ ...
+** this is package ‘pls’ version ‘2.8-5’
+** package ‘pls’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pls’ as ‘pls_2.8-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pls)
+* installing *source* package ‘stemHypoxia’ ...
+** this is package ‘stemHypoxia’ version ‘1.43.0’
+** using staged installation
+** data
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘stemHypoxia’ as ‘stemHypoxia_1.43.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (stemHypoxia)
+* installing *source* package ‘limma’ ...
+** this is package ‘limma’ version ‘3.63.9’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c normexp.c -o normexp.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c weighted_lowess.c -o weighted_lowess.o
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o limma.so init.o normexp.o weighted_lowess.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-limma/00new/limma/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘limma’ as ‘limma_3.63.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (limma)
+* installing *source* package ‘lmdme’ ...
+** this is package ‘lmdme’ version ‘1.49.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘p.adjust’ in package ‘lmdme’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘lmdme’ as ‘lmdme_1.49.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lmdme)
+
+The downloaded source packages are in
+	‘/tmp/RtmpUf0Hal/downloaded_packages’
+Old packages: 'commonmark', 'knitr', 'mime', 'xml2'
+
+real	0m24.665s
+user	0m21.324s
+sys	0m5.205s
