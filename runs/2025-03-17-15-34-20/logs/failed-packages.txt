@@ -6,3 +6,14 @@ BUSseq
 CHETAH
 BaalChIP
 CellBench
+ADAMgui
+BLMA
+CDI
+CHRONOS
+CoGAPS
+CoreGx
+CrispRVariants
+DEFormats
+DEGreport
+DELocal
+DEWSeq
