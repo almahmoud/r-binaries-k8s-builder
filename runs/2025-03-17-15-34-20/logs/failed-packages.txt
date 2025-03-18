@@ -8,3 +8,5 @@ CytoGLMM
 gpuMagic
 hypeR
 rsbml
+cn.mops
+Harshlight
