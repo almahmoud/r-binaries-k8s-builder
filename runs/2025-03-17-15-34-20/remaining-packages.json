@@ -420,7 +420,6 @@
   "ChIPQC": [
     "DiffBind",
     "GenomicFeatures",
-    "systemPipeR",
     "GreyListChIP",
     "rtracklayer",
     "BSgenome"
@@ -642,7 +641,6 @@
   ],
   "DelayedTensor": [],
   "DiffBind": [
-    "systemPipeR",
     "GreyListChIP",
     "BSgenome",
     "rtracklayer"
@@ -1462,8 +1460,7 @@
     "rtracklayer"
   ],
   "PDATK": [
-    "CoreGx",
-    "genefu"
+    "CoreGx"
   ],
   "PECA": [
     "genefilter"
@@ -2632,7 +2629,6 @@
   ],
   "consensusOV": [
     "GSVA",
-    "genefu",
     "GSEABase"
   ],
   "consensusSeekeR": [
@@ -3086,19 +3082,14 @@
   "gDR": [
     "gDRcore",
     "gDRimport",
-    "gDRutils",
     "CoreGx",
     "PharmacoGx"
   ],
-  "gDRcore": [
-    "gDRutils"
-  ],
+  "gDRcore": [],
   "gDRimport": [
     "CoreGx",
-    "PharmacoGx",
-    "gDRutils"
+    "PharmacoGx"
   ],
-  "gDRutils": [],
   "gINTomics": [
     "GenomicFeatures",
     "ReactomePA",
@@ -3120,7 +3111,6 @@
     "rtracklayer"
   ],
   "genefilter": [],
-  "genefu": [],
   "geneplotter": [],
   "genoCN": [],
   "genomation": [
@@ -3331,7 +3321,6 @@
     "GSEABase",
     "genefilter"
   ],
-  "ipdDb": [],
   "isobar": [],
   "isomiRs": [
     "DEGreport"
@@ -4336,7 +4325,6 @@
     "consensusOV",
     "ensembldb",
     "GSVA",
-    "genefu",
     "GenomicFeatures",
     "rtracklayer",
     "GSEABase"
@@ -4503,7 +4491,6 @@
   "syntenet": [
     "rtracklayer"
   ],
-  "systemPipeR": [],
   "systemPipeTools": [],
   "tLOH": [
     "VariantAnnotation",
@@ -4656,7 +4643,6 @@
     "regioneR",
     "rtracklayer",
     "ensembldb",
-    "systemPipeR",
     "GreyListChIP",
     "BSgenome"
   ],
