@@ -3060,7 +3060,6 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "flowGate": [],
   "flowVS": [],
   "frma": [
     "oligo"
@@ -3203,7 +3202,6 @@
   "hicVennDiagram": [
     "rtracklayer"
   ],
-  "hipathia": [],
   "hoodscanR": [],
   "hpar": [
     "ExperimentHub"

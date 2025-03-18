@@ -1251,3 +1251,5 @@ ipdDb
 systemPipeR
 idiogram
 immunogenViewer
+flowGate
+hipathia
