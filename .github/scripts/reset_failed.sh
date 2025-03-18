@@ -16,57 +16,92 @@ if [ ! -d "runs/${RUN_ID}" ]; then
     exit 1
 fi
 
-# Get list of failed packages
-FAILED_PKGS="runs/${RUN_ID}/logs/failed-packages.txt"
+# Reset counters
+RESET_COUNT=0
+FIXED_COUNT=0
+
+# Get paths to status files
 SUCCESS_PKGS="runs/${RUN_ID}/logs/successful-packages.txt"
+FAILED_PKGS="runs/${RUN_ID}/logs/failed-packages.txt"
 DISPATCHED_PKGS="runs/${RUN_ID}/logs/dispatched-packages.txt"
 
 # Create files if they don't exist
-touch "${FAILED_PKGS}" "${SUCCESS_PKGS}" "${DISPATCHED_PKGS}"
+mkdir -p "runs/${RUN_ID}/logs"
+touch "${SUCCESS_PKGS}" "${FAILED_PKGS}" "${DISPATCHED_PKGS}"
 
-# Create temporary files for tracking updates
-TEMP_FAILED=$(mktemp)
+# Create temporary files for tracking packages
 TEMP_SUCCESS=$(mktemp)
+TEMP_FAILED=$(mktemp)
 TEMP_DISPATCH=$(mktemp)
+TEMP_RESET=$(mktemp)
 
-# Function to check and mark package status
-check_package_status() {
-    local pkg="$1"
-    local log_dir="runs/${RUN_ID}/logs/${pkg}"
-    local status="unknown"
-    
-    # If package has no log directory, mark as dispatched but no status
-    if [ ! -d "${log_dir}" ]; then
-        echo "Package ${pkg} has no log directory but was dispatched"
-        status="missing"
-    # Check for success log
-    elif [ -f "${log_dir}/build-success.log" ]; then
-        echo "Package ${pkg} has successful build log"
-        status="success"
-    # Check for fail log
-    elif [ -f "${log_dir}/build-fail.log" ]; then
-        echo "Package ${pkg} has failed build log"
-        status="failed"
-    # No status logs found
-    else
-        echo "Package ${pkg} has log directory but no status logs"
-        status="incomplete"
+# Backup the original files
+cp "${SUCCESS_PKGS}" "${SUCCESS_PKGS}.bak" 2>/dev/null
+cp "${FAILED_PKGS}" "${FAILED_PKGS}.bak" 2>/dev/null
+cp "${DISPATCHED_PKGS}" "${DISPATCHED_PKGS}.bak" 2>/dev/null
+
+echo "Scanning log directories for package build status..."
+
+# Quickly find packages with build-success.log files
+echo "Finding successful builds..."
+find "runs/${RUN_ID}/logs" -name "build-success.log" | while read success_log; do
+    # Extract package name from path
+    pkg=$(echo "${success_log}" | sed -E 's|runs/'${RUN_ID}'/logs/([^/]+)/build-success.log|\1|')
+    if [ -n "${pkg}" ]; then
+        echo "${pkg}" >> "${TEMP_SUCCESS}"
     fi
-    
-    echo "${status}"
-}
+done
 
-# Copy existing files to temporary files
-cat "${FAILED_PKGS}" > "${TEMP_FAILED}"
-cat "${SUCCESS_PKGS}" > "${TEMP_SUCCESS}"
-cat "${DISPATCHED_PKGS}" > "${TEMP_DISPATCH}"
+# Sort and deduplicate
+sort -u "${TEMP_SUCCESS}" > "${SUCCESS_PKGS}"
+SUCCESS_COUNT=$(wc -l < "${SUCCESS_PKGS}")
+echo "Found ${SUCCESS_COUNT} packages with successful builds"
 
-# Process known failed packages first
-if [ -s "${FAILED_PKGS}" ]; then
-    echo "Processing known failed packages..."
+# Find packages with build-fail.log files
+echo "Finding failed builds..."
+find "runs/${RUN_ID}/logs" -name "build-fail.log" | while read fail_log; do
+    # Extract package name from path
+    pkg=$(echo "${fail_log}" | sed -E 's|runs/'${RUN_ID}'/logs/([^/]+)/build-fail.log|\1|')
+    if [ -n "${pkg}" ]; then
+        echo "${pkg}" >> "${TEMP_FAILED}"
+    fi
+done
+
+# Sort and deduplicate failed packages
+sort -u "${TEMP_FAILED}" > "${TEMP_RESET}"
+sort -u "${TEMP_FAILED}" > "${FAILED_PKGS}"
+FAILED_COUNT=$(wc -l < "${FAILED_PKGS}")
+echo "Found ${FAILED_COUNT} packages with failed builds"
+
+# Now find all packages that are dispatched but have no status
+echo "Finding dispatched packages without status..."
+if [ -s "${DISPATCHED_PKGS}" ]; then
+    # Put all dispatched packages into temp file
+    sort -u "${DISPATCHED_PKGS}" > "${TEMP_DISPATCH}"
     
-    # Make a backup of the failed packages list
-    cp "${FAILED_PKGS}" "${FAILED_PKGS}.bak"
+    # Find packages that are dispatched but not in success or failed lists
+    grep -v -f "${SUCCESS_PKGS}" "${TEMP_DISPATCH}" | grep -v -f "${FAILED_PKGS}" > "${TEMP_DISPATCH}.unknown"
+    
+    # Check each unknown package
+    UNKNOWN_COUNT=$(wc -l < "${TEMP_DISPATCH}.unknown")
+    if [ "${UNKNOWN_COUNT}" -gt 0 ]; then
+        echo "Found ${UNKNOWN_COUNT} dispatched packages with unknown status"
+        
+        while read pkg; do
+            # First check if the package log directory exists
+            if [ -d "runs/${RUN_ID}/logs/${pkg}" ]; then
+                echo "Package ${pkg} has log directory but no status"
+                # Add to reset list
+                echo "${pkg}" >> "${TEMP_RESET}"
+            fi
+        done < "${TEMP_DISPATCH}.unknown"
+    fi
+fi
+
+# Process failed and stalled packages for reset
+if [ -s "${TEMP_RESET}" ]; then
+    RESET_COUNT=$(wc -l < "${TEMP_RESET}")
+    echo "Resetting ${RESET_COUNT} failed or stalled packages"
     
     while read pkg; do
         if [ -z "${pkg}" ]; then
@@ -83,9 +118,12 @@ if [ -s "${FAILED_PKGS}" ]; then
             sed -i "\:^${pkg}$:d" "runs/${RUN_ID}/cache/handled_packages.txt" 2>/dev/null
         fi
         
-        # Remove from table cache
+        # Remove from table caches
         if [ -f "runs/${RUN_ID}/cache/table_failed.txt" ]; then
             sed -i "\:\[${pkg}\]:d" "runs/${RUN_ID}/cache/table_failed.txt" 2>/dev/null
+        fi
+        if [ -f "runs/${RUN_ID}/cache/table_succeeded.txt" ]; then
+            sed -i "\:\[${pkg}\]:d" "runs/${RUN_ID}/cache/table_succeeded.txt" 2>/dev/null
         fi
         
         # Remove from verified BBS cache
@@ -93,85 +131,42 @@ if [ -s "${FAILED_PKGS}" ]; then
             sed -i "\:^${pkg}$:d" "runs/${RUN_ID}/cache/verified_bbs.txt" 2>/dev/null
         fi
         
-        # Add package back to ready packages to be dispatched
+        # Add back to ready packages for dispatch
         echo "${pkg}" >> "runs/${RUN_ID}/ready_packages.txt"
         
         echo "Reset complete for ${pkg}"
-    done < "${FAILED_PKGS}"
+    done < "${TEMP_RESET}"
+    
+    # Clear failed packages file as they've been reset
+    > "${FAILED_PKGS}"
 fi
 
-echo "Looking for dispatched packages with missing or incomplete status..."
-
-# Process all dispatched packages
-while read pkg; do
-    if [ -z "${pkg}" ]; then
-        continue
+# Check for differences between original and new status files
+if [ -f "${SUCCESS_PKGS}.bak" ]; then
+    DIFF_SUCCESS=$(diff "${SUCCESS_PKGS}.bak" "${SUCCESS_PKGS}" | wc -l)
+    if [ "${DIFF_SUCCESS}" -gt 0 ]; then
+        FIXED_COUNT=$((FIXED_COUNT + DIFF_SUCCESS))
     fi
-    
-    # Skip packages already in success list
-    if grep -q "^${pkg}$" "${SUCCESS_PKGS}"; then
-        continue
-    fi
-    
-    # Check status for packages that are dispatched but not in the success or failed lists
-    if ! grep -q "^${pkg}$" "${FAILED_PKGS}"; then
-        status=$(check_package_status "${pkg}")
-        
-        case "${status}" in
-            "success")
-                echo "Adding ${pkg} to success list"
-                echo "${pkg}" >> "${TEMP_SUCCESS}"
-                ;;
-            "failed" | "missing" | "incomplete")
-                echo "Package ${pkg} needs reset (status: ${status})"
-                
-                # Remove package log directory if it exists
-                if [ -d "runs/${RUN_ID}/logs/${pkg}" ]; then
-                    rm -rf "runs/${RUN_ID}/logs/${pkg}"
-                fi
-                
-                # Remove from handled packages cache
-                if [ -f "runs/${RUN_ID}/cache/handled_packages.txt" ]; then
-                    sed -i "\:^${pkg}$:d" "runs/${RUN_ID}/cache/handled_packages.txt" 2>/dev/null
-                fi
-                
-                # Remove from table caches
-                if [ -f "runs/${RUN_ID}/cache/table_failed.txt" ]; then
-                    sed -i "\:\[${pkg}\]:d" "runs/${RUN_ID}/cache/table_failed.txt" 2>/dev/null
-                fi
-                if [ -f "runs/${RUN_ID}/cache/table_succeeded.txt" ]; then
-                    sed -i "\:\[${pkg}\]:d" "runs/${RUN_ID}/cache/table_succeeded.txt" 2>/dev/null
-                fi
-                
-                # Remove from verified BBS cache
-                if [ -f "runs/${RUN_ID}/cache/verified_bbs.txt" ]; then
-                    sed -i "\:^${pkg}$:d" "runs/${RUN_ID}/cache/verified_bbs.txt" 2>/dev/null
-                fi
-                
-                # Add back to ready packages
-                echo "${pkg}" >> "runs/${RUN_ID}/ready_packages.txt"
-                
-                echo "Reset complete for ${pkg} (previously ${status})"
-                ;;
-            *)
-                echo "Unknown status for ${pkg}: ${status}"
-                ;;
-        esac
-    fi
-done < "${DISPATCHED_PKGS}"
+fi
 
-# Update the files with our processed lists
-sort -u "${TEMP_SUCCESS}" > "${SUCCESS_PKGS}"
-# Clear failed packages file as we've reset them all
-> "${FAILED_PKGS}"
+if [ -f "${FAILED_PKGS}.bak" ]; then
+    DIFF_FAILED=$(diff "${FAILED_PKGS}.bak" "${FAILED_PKGS}" | wc -l)
+    if [ "${DIFF_FAILED}" -gt 0 ]; then
+        FIXED_COUNT=$((FIXED_COUNT + DIFF_FAILED))
+    fi
+fi
 
-# Clean up temp files
-rm -f "${TEMP_FAILED}" "${TEMP_SUCCESS}" "${TEMP_DISPATCH}"
+# Clean up temporary files
+rm -f "${TEMP_SUCCESS}" "${TEMP_FAILED}" "${TEMP_DISPATCH}" "${TEMP_RESET}" "${TEMP_DISPATCH}.unknown"
 
 # Force regeneration of dependency graph by updating the remaining-packages.json timestamp
 if [ -f "runs/${RUN_ID}/remaining-packages.json" ]; then
     touch "runs/${RUN_ID}/remaining-packages.json"
 fi
 
-echo "All failed and stalled packages have been reset"
+echo "Reset completed:"
+echo "- ${RESET_COUNT} packages reset for retry"
+echo "- ${FIXED_COUNT} inconsistent status entries fixed"
+echo "- ${SUCCESS_COUNT} valid successful package entries"
+
 exit 0
