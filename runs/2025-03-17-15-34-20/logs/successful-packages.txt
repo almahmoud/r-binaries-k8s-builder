@@ -1249,3 +1249,5 @@ gDRutils
 genefu
 ipdDb
 systemPipeR
+idiogram
+immunogenViewer

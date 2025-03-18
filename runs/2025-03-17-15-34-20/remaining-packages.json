@@ -3291,7 +3291,6 @@
     "enrichplot",
     "txdbmaker"
   ],
-  "idiogram": [],
   "igvR": [
     "rtracklayer",
     "VariantAnnotation",
@@ -3303,7 +3302,6 @@
     "cytomapper"
   ],
   "immApex": [],
-  "immunogenViewer": [],
   "infercnv": [],
   "intansv": [
     "ggbio",
