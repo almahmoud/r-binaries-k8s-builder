@@ -125,11 +125,13 @@ def load_table_cache(run_id):
     cache_dir = f"runs/{run_id}/cache"
     succeeded_file = f"{cache_dir}/table_succeeded.txt"
     failed_file = f"{cache_dir}/table_failed.txt"
+    verified_bbs_file = f"{cache_dir}/verified_bbs.txt"
     
     cache = {
         "succeeded": [],
         "failed": [],
-        "handled_packages": set()  # Only packages with valid BBS status
+        "handled_packages": set(),  # Only packages with valid BBS status
+        "verified_bbs": set()       # Packages with verified BBS status
     }
     
     os.makedirs(cache_dir, exist_ok=True)
@@ -141,8 +143,8 @@ def load_table_cache(run_id):
                     entry = eval(line.strip())
                     cache["succeeded"].append(entry)
                     # Only consider handled if BBS status was found
+                    pkg_name = entry[0][1:entry[0].find(']')]  # Extract name from markdown link
                     if entry[3] != "Not Found":
-                        pkg_name = entry[0][1:entry[0].find(']')]  # Extract name from markdown link
                         cache["handled_packages"].add(pkg_name)
     
     if os.path.exists(failed_file):
@@ -152,9 +154,14 @@ def load_table_cache(run_id):
                     entry = eval(line.strip())
                     cache["failed"].append(entry)
                     # Only consider handled if BBS status was found
+                    pkg_name = entry[0][1:entry[0].find(']')]  # Extract name from markdown link
                     if entry[3] != "Not Found":
-                        pkg_name = entry[0][1:entry[0].find(']')]
                         cache["handled_packages"].add(pkg_name)
+    
+    # Load packages with verified BBS status
+    if os.path.exists(verified_bbs_file):
+        with open(verified_bbs_file) as f:
+            cache["verified_bbs"] = set(line.strip() for line in f if line.strip())
     
     return cache
 
@@ -164,6 +171,7 @@ def save_table_cache(run_id, cache):
     succeeded_file = f"{cache_dir}/table_succeeded.txt"
     failed_file = f"{cache_dir}/table_failed.txt"
     handled_file = f"{cache_dir}/handled_packages.txt"
+    verified_bbs_file = f"{cache_dir}/verified_bbs.txt"
     
     with open(succeeded_file, 'w') as f:
         for entry in cache["succeeded"]:
@@ -176,6 +184,14 @@ def save_table_cache(run_id, cache):
     with open(handled_file, 'w') as f:
         for pkg in sorted(cache["handled_packages"]):
             f.write(f"{pkg}\n")
+    
+    with open(verified_bbs_file, 'w') as f:
+        for pkg in sorted(cache["verified_bbs"]):
+            f.write(f"{pkg}\n")
+
+def extract_pkg_name(entry):
+    """Extract package name from markdown link in table entry"""
+    return entry[0][1:entry[0].find(']')]
 
 def get_bioc_version(run_id):
     """Gets bioc version from version file"""
@@ -236,6 +252,7 @@ def main(run_id):
     
     print(f"Found {len(packages)} total packages in Bioconductor {bioc_version}")
     print(f"Previously documented {len(cache['handled_packages'])} packages")
+    print(f"Packages with verified BBS status: {len(cache['verified_bbs'])}")
     
     # Get current status of all packages
     success_log = f"runs/{run_id}/logs/successful-packages.txt"
@@ -248,27 +265,44 @@ def main(run_id):
     failed = {pkg for pkg in packages if os.path.exists(f"{failed_dir}/{pkg}/build-fail.log")}
     
     # Process only unhandled packages
-    new_packages = (successful | failed) - cache["handled_packages"]
+    new_packages = (successful | failed) - {
+        extract_pkg_name(entry) for entries in [cache["succeeded"], cache["failed"]]
+        for entry in entries
+    }
     print(f"Found {len(new_packages)} new packages to document")
     
-    # Process new packages and retry BBS status for cached packages with "Not Found"
-    need_bbs_check = new_packages | {
-        pkg[0][1:pkg[0].find(']')] for pkg in cache["succeeded"] + cache["failed"]
-        if pkg[3] == "Not Found"
-    }
+    # Only check BBS status for:
+    # 1. New packages
+    # 2. Packages with previous "Not Found" status that weren't verified
+    need_bbs_check = set()
+    
+    # Add new packages
+    need_bbs_check.update(new_packages)
+    
+    # Add packages with "Not Found" that aren't verified
+    for entries in [cache["succeeded"], cache["failed"]]:
+        for entry in entries:
+            pkg = extract_pkg_name(entry)
+            if entry[3] == "Not Found" and pkg not in cache["verified_bbs"]:
+                need_bbs_check.add(pkg)
     
     print(f"Found {len(need_bbs_check)} packages needing BBS status check")
     
     # Update existing entries that need BBS recheck
     for entries in [cache["succeeded"], cache["failed"]]:
         for entry in entries:
-            pkg = entry[0][1:entry[0].find(']')]
+            pkg = extract_pkg_name(entry)
             if pkg in need_bbs_check and pkg not in new_packages:
-                print(f"Rechecking BBS status for {pkg}...")
+                print(f"Checking BBS status for {pkg}...")
                 bbs = get_bbs_status(pkg, bioc_version)
                 if bbs != "Not Found":
                     entry[3] = bbs  # Update BBS status
                     cache["handled_packages"].add(pkg)
+                    cache["verified_bbs"].add(pkg)  # Mark as verified
+                elif pkg in cache["verified_bbs"]:
+                    # If previously verified but now not found, keep it verified
+                    # but update the status to current "Not Found"
+                    entry[3] = bbs
     
     # Process new packages
     for pkg in sorted(new_packages):
@@ -281,7 +315,9 @@ def main(run_id):
             log_link = f"[Log]({log_path})"
             bbs = get_bbs_status(pkg, bioc_version)
             cache["succeeded"].append([pkg_link, "Built", log_link, bbs])
-            cache["handled_packages"].add(pkg)
+            if bbs != "Not Found":
+                cache["handled_packages"].add(pkg)
+                cache["verified_bbs"].add(pkg)  # Mark as verified
         
         elif pkg in failed:
             print(f"Analyzing failure for {pkg}...")
@@ -292,7 +328,9 @@ def main(run_id):
             bbs = get_bbs_status(pkg, bioc_version)
             reasons = check_failure_reason(log_content)
             cache["failed"].append([pkg_link, "Failed", log_link, bbs, "\n".join(reasons)])
-            cache["handled_packages"].add(pkg)
+            if bbs != "Not Found":
+                cache["handled_packages"].add(pkg)
+                cache["verified_bbs"].add(pkg)  # Mark as verified
     
     # Save updated cache
     save_table_cache(run_id, cache)
@@ -305,8 +343,14 @@ def main(run_id):
     }
     
     # Add remaining packages as unprocessed
+    existing_pkgs = {
+        extract_pkg_name(entry) 
+        for entries in [tables["succeeded"], tables["failed"]]
+        for entry in entries
+    }
+    
     for pkg in sorted(packages):
-        if pkg not in cache["handled_packages"]:
+        if pkg not in existing_pkgs:
             pkg_url = f"https://bioconductor.org/packages/{bioc_version}/bioc/html/{pkg}.html"
             pkg_link = f"[{pkg}]({pkg_url})"
             tables["unprocessed"].append([pkg_link, "Unprocessed"])
@@ -368,6 +412,7 @@ def main(run_id):
     print(f"- {len(tables['succeeded'])} built")
     print(f"- {len(tables['failed'])} failed")
     print(f"- {len(tables['unprocessed'])} unprocessed")
+    print(f"- {len(cache['verified_bbs'])} packages have verified BBS status")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
