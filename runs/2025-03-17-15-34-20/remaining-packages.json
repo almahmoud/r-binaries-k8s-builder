@@ -218,7 +218,6 @@
   "GenomicOZone": [
     "ggbio"
   ],
-  "GenomicPlot": [],
   "GenomicScores": [],
   "GloScope": [],
   "HTSFilter": [],
@@ -313,7 +312,6 @@
   "NewWave": [],
   "OmaDB": [],
   "OncoScore": [],
-  "OutSplice": [],
   "PDATK": [
     "CoreGx"
   ],
@@ -465,10 +463,7 @@
   "cfTools": [
     "ExperimentHub"
   ],
-  "chevreulPlot": [],
-  "chevreulShiny": [
-    "chevreulPlot"
-  ],
+  "chevreulShiny": [],
   "chopsticks": [],
   "cisPath": [],
   "clusterProfiler": [
@@ -481,7 +476,6 @@
     "ExperimentHub"
   ],
   "compEpiTools": [],
-  "consensusDE": [],
   "coseq": [
     "HTSFilter"
   ],
@@ -509,7 +503,6 @@
     "crisprScore",
     "ExperimentHub"
   ],
-  "dagLogo": [],
   "debrowser": [
     "DOSE",
     "clusterProfiler",
@@ -523,7 +516,6 @@
   "easier": [
     "ExperimentHub"
   ],
-  "enhancerHomologSearch": [],
   "enrichViewNet": [
     "enrichplot",
     "DOSE"
@@ -600,7 +592,6 @@
   "gsean": [
     "PPInfer"
   ],
-  "gwasurvivr": [],
   "hpar": [
     "ExperimentHub"
   ],
@@ -655,7 +646,6 @@
   "methodical": [
     "ExperimentHub"
   ],
-  "methylCC": [],
   "methylGSA": [
     "clusterProfiler",
     "DOSE",
@@ -700,7 +690,6 @@
     "HiCcompare"
   ],
   "multicrispr": [],
-  "ncGTW": [],
   "octad": [
     "ExperimentHub"
   ],
@@ -745,7 +734,6 @@
   "rgsepd": [
     "goseq"
   ],
-  "ribosomeProfilingQC": [],
   "rsbml": [],
   "sampleClassifier": [
     "MGFM",
@@ -762,7 +750,6 @@
     "epivizrData"
   ],
   "scanMiRApp": [],
-  "scmeth": [],
   "scone": [],
   "scruff": [
     "ggbio"
@@ -791,7 +778,6 @@
   "singleCellTK": [
     "ExperimentHub"
   ],
-  "sitadela": [],
   "spatialFDA": [
     "ExperimentHub"
   ],

@@ -1946,3 +1946,15 @@ TRESS
 mygene
 OUTRIDER
 RiboCrypt
+chevreulPlot
+consensusDE
+dagLogo
+enhancerHomologSearch
+GenomicPlot
+gwasurvivr
+methylCC
+ncGTW
+OutSplice
+ribosomeProfilingQC
+scmeth
+sitadela

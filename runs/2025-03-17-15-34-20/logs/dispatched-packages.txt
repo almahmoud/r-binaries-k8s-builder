@@ -2102,3 +2102,4 @@ COCOA
 msmsTests
 magpie
 FRASER
+chevreulShiny
