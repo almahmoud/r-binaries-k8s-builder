@@ -48,12 +48,9 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "CAGEfightR": [
-    "GenomicInteractions"
-  ],
+  "CAGEfightR": [],
   "CAGEr": [
-    "CAGEfightR",
-    "GenomicInteractions"
+    "CAGEfightR"
   ],
   "CBNplot": [
     "clusterProfiler",
@@ -244,7 +241,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "GenomicInteractions": [],
   "GenomicOZone": [
     "ggbio",
     "OrganismDbi"
@@ -256,9 +252,7 @@
   "GloScope": [],
   "HTSFilter": [],
   "Harshlight": [],
-  "HiCDCPlus": [
-    "GenomicInteractions"
-  ],
+  "HiCDCPlus": [],
   "HiCDOC": [
     "multiHiCcompare",
     "HiCcompare"
@@ -938,9 +932,7 @@
   "spatialFDA": [
     "ExperimentHub"
   ],
-  "spatzie": [
-    "GenomicInteractions"
-  ],
+  "spatzie": [],
   "srnadiff": [],
   "standR": [],
   "tadar": [],
