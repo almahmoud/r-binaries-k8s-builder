@@ -508,7 +508,6 @@
   "MultiRNAflow": [],
   "MultimodalExperiment": [],
   "MungeSumstats": [],
-  "MutationalPatterns": [],
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
@@ -597,9 +596,7 @@
     "ChIPpeakAnno"
   ],
   "REMP": [],
-  "RESOLVE": [
-    "MutationalPatterns"
-  ],
+  "RESOLVE": [],
   "RITAN": [],
   "RMassBank": [],
   "RNAAgeCalc": [
