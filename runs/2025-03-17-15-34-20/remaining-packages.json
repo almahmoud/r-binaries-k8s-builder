@@ -1791,7 +1791,6 @@
   ],
   "profileplyr": [
     "ChIPseeker",
-    "rGREAT",
     "enrichplot",
     "DOSE"
   ],
@@ -1813,7 +1812,6 @@
   ],
   "rCGH": [],
   "rGADEM": [],
-  "rGREAT": [],
   "rTRMui": [],
   "raer": [],
   "recount": [
