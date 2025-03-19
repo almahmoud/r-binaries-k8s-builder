@@ -1551,3 +1551,7 @@ syntenet
 tidyCoverage
 MSnbase
 systemPipeTools
+ChIPanalyser
+ChIPComp
+fastLiquidAssociation
+geneXtendeR

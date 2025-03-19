@@ -227,12 +227,10 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ChIPComp": [],
   "ChIPQC": [
     "DiffBind",
     "GreyListChIP"
   ],
-  "ChIPanalyser": [],
   "ChIPexoQual": [
     "biovizBase",
     "VariantAnnotation",
@@ -1611,7 +1609,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "fastLiquidAssociation": [],
   "fcScan": [
     "VariantAnnotation"
   ],
@@ -1650,7 +1647,6 @@
   ],
   "gcapc": [],
   "geneAttribution": [],
-  "geneXtendeR": [],
   "genoCN": [],
   "genomation": [],
   "geomeTriD": [
