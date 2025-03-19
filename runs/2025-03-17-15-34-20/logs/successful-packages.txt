@@ -1482,3 +1482,4 @@ seqsetvis
 CCPROMISE
 jazzPanda
 SemDist
+GenomicFeatures
