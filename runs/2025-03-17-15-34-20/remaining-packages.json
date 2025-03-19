@@ -1616,7 +1616,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "RTNsurvival": [],
   "RUVSeq": [
     "EDASeq",
     "GenomicFeatures",
@@ -2352,7 +2351,6 @@
     "rtracklayer"
   ],
   "ccImpute": [],
-  "celaref": [],
   "celda": [
     "scater",
     "scran",
@@ -3389,7 +3387,6 @@
     "bumphunter",
     "rtracklayer"
   ],
-  "missRows": [],
   "mist": [
     "rtracklayer"
   ],
