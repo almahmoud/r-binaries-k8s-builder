@@ -1864,3 +1864,8 @@ DiffBind
 epigraHMM
 lisaClust
 signifinder
+CAMERA
+cliqueMS
+cosmiq
+ncGTW
+squallms

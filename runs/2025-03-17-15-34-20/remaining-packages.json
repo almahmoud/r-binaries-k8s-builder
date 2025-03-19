@@ -114,9 +114,7 @@
     "VariantAnnotation",
     "biovizBase"
   ],
-  "CAMERA": [
-    "xcms"
-  ],
+  "CAMERA": [],
   "CBNplot": [
     "clusterProfiler",
     "enrichplot",
@@ -488,7 +486,6 @@
     "IVAS"
   ],
   "IPO": [
-    "xcms",
     "CAMERA"
   ],
   "IVAS": [],
@@ -510,7 +507,6 @@
   ],
   "LACE": [],
   "LOBSTAHS": [
-    "xcms",
     "CAMERA"
   ],
   "LRcell": [
@@ -532,8 +528,7 @@
     "bumphunter"
   ],
   "MAIT": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "MDTS": [],
   "MEAL": [
@@ -1161,9 +1156,7 @@
   "clipper": [
     "qpgraph"
   ],
-  "cliqueMS": [
-    "xcms"
-  ],
+  "cliqueMS": [],
   "clusterExperiment": [],
   "clusterProfiler": [
     "DOSE",
@@ -1199,9 +1192,7 @@
   "coseq": [
     "HTSFilter"
   ],
-  "cosmiq": [
-    "xcms"
-  ],
+  "cosmiq": [],
   "crisprDesign": [
     "crisprScore",
     "txdbmaker",
@@ -1303,7 +1294,6 @@
     "annotatr",
     "regioneR"
   ],
-  "dreamlet": [],
   "drugTargetInteractions": [],
   "easier": [
     "ExperimentHub"
@@ -1398,7 +1388,6 @@
     "bumphunter"
   ],
   "flagme": [
-    "xcms",
     "CAMERA"
   ],
   "funtooNorm": [
@@ -1582,8 +1571,7 @@
     "enrichplot"
   ],
   "metaMS": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "metagene2": [],
   "metaseqR2": [
@@ -1716,9 +1704,7 @@
   "myvariant": [
     "VariantAnnotation"
   ],
-  "ncGTW": [
-    "xcms"
-  ],
+  "ncGTW": [],
   "nearBynding": [
     "plyranges"
   ],
@@ -1971,9 +1957,7 @@
   "spillR": [],
   "splatter": [],
   "spoon": [],
-  "squallms": [
-    "xcms"
-  ],
+  "squallms": [],
   "srnadiff": [
     "Gviz",
     "biovizBase",
@@ -1991,7 +1975,6 @@
     "StructuralVariantAnnotation",
     "VariantAnnotation"
   ],
-  "synapter": [],
   "tLOH": [
     "VariantAnnotation"
   ],
@@ -2058,7 +2041,6 @@
   ],
   "wavClusteR": [],
   "wiggleplotr": [],
-  "xcms": [],
   "yarn": [
     "quantro",
     "minfi",
