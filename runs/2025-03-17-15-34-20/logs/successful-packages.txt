@@ -2013,3 +2013,6 @@ uncoverappLib
 COCOA
 epivizrData
 SMITE
+CircSeqAlignTk
+mCSEA
+msmsTests

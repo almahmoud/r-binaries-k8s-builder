@@ -89,7 +89,6 @@
   "ChIPseqR": [
     "HilbertVis"
   ],
-  "CircSeqAlignTk": [],
   "ClusterFoldSimilarity": [],
   "CoGAPS": [],
   "CoSIA": [
@@ -226,9 +225,7 @@
   ],
   "MLP": [],
   "MLSeq": [],
-  "MSnID": [
-    "msmsTests"
-  ],
+  "MSnID": [],
   "MatrixQCvis": [
     "ExperimentHub"
   ],
@@ -538,7 +535,6 @@
   "m6Aboost": [
     "ExperimentHub"
   ],
-  "mCSEA": [],
   "mastR": [
     "ExperimentHub"
   ],
@@ -578,7 +574,6 @@
     "enrichplot"
   ],
   "msgbsR": [],
-  "msmsTests": [],
   "multiHiCcompare": [
     "HiCcompare"
   ],
