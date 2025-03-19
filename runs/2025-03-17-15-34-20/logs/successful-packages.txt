@@ -1468,3 +1468,6 @@ rqt
 HiTC
 phenomis
 terapadog
+IdeoViz
+MotifDb
+xenLite

@@ -716,7 +716,6 @@
   "IVAS": [
     "GenomicFeatures"
   ],
-  "IdeoViz": [],
   "InPAS": [
     "cleanUpdTSeq",
     "GenomicFeatures",
@@ -904,7 +903,6 @@
     "enrichplot"
   ],
   "Motif2Site": [],
-  "MotifDb": [],
   "MotifPeeker": [],
   "MouseFM": [],
   "MsDataHub": [
@@ -2412,7 +2410,6 @@
     "TFBSTools"
   ],
   "motifbreakR": [
-    "MotifDb",
     "VariantAnnotation",
     "motifStack",
     "Gviz",
@@ -2625,9 +2622,7 @@
   "rGREAT": [
     "GenomicFeatures"
   ],
-  "rTRMui": [
-    "MotifDb"
-  ],
+  "rTRMui": [],
   "raer": [
     "GenomicFeatures"
   ],
@@ -3032,7 +3027,6 @@
     "MSnbase",
     "MsExperiment"
   ],
-  "xenLite": [],
   "yarn": [
     "quantro",
     "minfi",
