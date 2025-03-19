@@ -2031,3 +2031,6 @@ kissDE
 metaseqR2
 chevreulShiny
 GenomicOZone
+intansv
+RiboProfiling
+SomaticSignatures

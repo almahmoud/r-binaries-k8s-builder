@@ -313,7 +313,6 @@
     "DOSE"
   ],
   "ReportingTools": [],
-  "RiboProfiling": [],
   "RnaSeqSampleSize": [],
   "SVMDO": [
     "DOSE"
@@ -321,7 +320,6 @@
   "SeqSQC": [
     "ExperimentHub"
   ],
-  "SomaticSignatures": [],
   "SpectralTAD": [
     "HiCcompare"
   ],
@@ -350,9 +348,7 @@
     "PharmacoGx",
     "CoreGx"
   ],
-  "YAPSA": [
-    "SomaticSignatures"
-  ],
+  "YAPSA": [],
   "adductomicsR": [
     "ExperimentHub"
   ],
@@ -513,7 +509,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "intansv": [],
   "isomiRs": [
     "DEGreport"
   ],
