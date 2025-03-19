@@ -263,7 +263,6 @@
   "HybridExpress": [],
   "ILoReg": [],
   "IPO": [],
-  "InPAS": [],
   "IntEREst": [],
   "InterCellar": [],
   "IsoformSwitchAnalyzeR": [
@@ -279,7 +278,6 @@
   "MACSr": [
     "ExperimentHub"
   ],
-  "MAGAR": [],
   "MAIT": [],
   "MDTS": [],
   "MGFM": [],
@@ -536,7 +534,6 @@
   "chopsticks": [],
   "circRNAprofiler": [],
   "cisPath": [],
-  "cliqueMS": [],
   "clusterProfiler": [
     "DOSE",
     "enrichplot"
