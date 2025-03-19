@@ -1542,3 +1542,4 @@ normr
 imcRtools
 RJMCMCNucleosomes
 roar
+SplineDV
