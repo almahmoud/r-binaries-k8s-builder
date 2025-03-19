@@ -62,7 +62,6 @@
   "BBCAnalyzer": [
     "VariantAnnotation"
   ],
-  "BERT": [],
   "BLMA": [],
   "BOBaFIT": [
     "ggbio",
@@ -389,7 +388,6 @@
   "EpipwR": [
     "ExperimentHub"
   ],
-  "EventPointer": [],
   "ExperimentHub": [],
   "ExperimentHubData": [
     "AnnotationHubData",
@@ -964,7 +962,6 @@
   "SigsPack": [
     "VariantAnnotation"
   ],
-  "SingleCellSignalR": [],
   "SingleMoleculeFootprinting": [
     "plyranges",
     "QuasR",
@@ -1063,7 +1060,6 @@
   "Voyager": [
     "SpatialFeatureExperiment"
   ],
-  "XDE": [],
   "XNAString": [],
   "Xeva": [
     "PharmacoGx",
@@ -2015,8 +2011,7 @@
   "scDD": [],
   "scDotPlot": [],
   "scFeatures": [
-    "ensembldb",
-    "SingleCellSignalR"
+    "ensembldb"
   ],
   "scMerge": [
     "M3Drop"
