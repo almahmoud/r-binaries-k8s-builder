@@ -13,7 +13,6 @@
   "ATACseqQC": [
     "GenomicScores"
   ],
-  "ATACseqTFEA": [],
   "AffiXcan": [],
   "AgiMicroRna": [
     "affycoretools",
@@ -283,7 +282,6 @@
   "MAGAR": [],
   "MAIT": [],
   "MDTS": [],
-  "MEAL": [],
   "MGFM": [],
   "MGFR": [],
   "MICSQTL": [],
@@ -554,7 +552,6 @@
   "coseq": [
     "HTSFilter"
   ],
-  "cosmiq": [],
   "crisprDesign": [
     "crisprScore",
     "ExperimentHub"

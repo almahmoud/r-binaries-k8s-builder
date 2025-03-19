@@ -1906,3 +1906,6 @@ epidecodeR
 ggspavis
 MEAT
 skewr
+ATACseqTFEA
+cosmiq
+MEAL
