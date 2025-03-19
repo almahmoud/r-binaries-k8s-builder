@@ -512,7 +512,6 @@
   ],
   "LinkHD": [],
   "LoomExperiment": [],
-  "M3Drop": [],
   "MACSr": [
     "ExperimentHub"
   ],
@@ -1275,7 +1274,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "diffHic": [],
   "diffUTR": [
     "DEXSeq"
   ],
@@ -1839,9 +1837,7 @@
   ],
   "scDotPlot": [],
   "scFeatures": [],
-  "scMerge": [
-    "M3Drop"
-  ],
+  "scMerge": [],
   "scPipe": [],
   "scTensor": [
     "ReactomePA",
@@ -1916,8 +1912,7 @@
   "singleCellTK": [
     "ExperimentHub",
     "scMerge",
-    "celda",
-    "M3Drop"
+    "celda"
   ],
   "sitadela": [
     "txdbmaker"

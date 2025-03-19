@@ -1661,3 +1661,5 @@ cliProfiler
 pRoloc
 branchpointer
 distinct
+diffHic
+M3Drop
