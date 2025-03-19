@@ -1559,3 +1559,4 @@ alabaster.spatial
 GOTHiC
 sevenC
 SparseSignatures
+GlobalAncova
