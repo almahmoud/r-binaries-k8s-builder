@@ -1733,3 +1733,6 @@ recountmethylation
 MADSEQ
 MethylAid
 MutationalPatterns
+decontX
+SigsPack
+TitanCNA

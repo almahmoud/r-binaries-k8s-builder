@@ -699,7 +699,6 @@
   "SeqSQC": [
     "ExperimentHub"
   ],
-  "SigsPack": [],
   "SingleMoleculeFootprinting": [
     "QuasR",
     "txdbmaker"
@@ -741,7 +740,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "TitanCNA": [],
   "ToxicoGx": [
     "CoreGx"
   ],
@@ -973,7 +971,6 @@
     "enrichplot"
   ],
   "decompTumor2Sig": [],
-  "decontX": [],
   "deepSNV": [],
   "demuxSNP": [],
   "derfinder": [],
