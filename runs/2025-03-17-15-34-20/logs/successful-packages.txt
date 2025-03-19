@@ -1880,3 +1880,5 @@ TFutils
 AllelicImbalance
 GeneStructureTools
 GenomicInteractions
+GRaNIE
+scMerge

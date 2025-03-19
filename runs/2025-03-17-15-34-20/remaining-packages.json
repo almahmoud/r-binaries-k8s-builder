@@ -218,7 +218,6 @@
   "GNOSIS": [],
   "GOexpress": [],
   "GOpro": [],
-  "GRaNIE": [],
   "GSEABenchmarkeR": [
     "ExperimentHub"
   ],
@@ -884,7 +883,6 @@
     "MGFR"
   ],
   "saseR": [],
-  "scMerge": [],
   "scTensor": [
     "ReactomePA",
     "DOSE",
@@ -924,8 +922,7 @@
     "enrichplot"
   ],
   "singleCellTK": [
-    "ExperimentHub",
-    "scMerge"
+    "ExperimentHub"
   ],
   "sitadela": [],
   "skewr": [],
