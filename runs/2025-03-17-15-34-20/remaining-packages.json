@@ -154,7 +154,6 @@
     "MIRA",
     "bsseq"
   ],
-  "CODEX": [],
   "COTAN": [],
   "CSSQ": [],
   "CTdata": [
@@ -856,8 +855,6 @@
   "SARC": [
     "plyranges"
   ],
-  "SCOPE": [],
-  "SEtools": [],
   "SMITE": [
     "goseq",
     "txdbmaker"
@@ -959,7 +956,6 @@
   "Uniquorn": [
     "VariantAnnotation"
   ],
-  "VAExprs": [],
   "VCFArray": [
     "VariantAnnotation",
     "GenomicFiles"
@@ -1450,9 +1446,7 @@
     "ExperimentHub"
   ],
   "hypeR": [],
-  "iCNV": [
-    "CODEX"
-  ],
+  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi",
