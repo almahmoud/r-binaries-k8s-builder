@@ -1211,7 +1211,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "MetaboAnnotation": [],
   "MetaboSignal": [
     "hpar",
     "mygene",
