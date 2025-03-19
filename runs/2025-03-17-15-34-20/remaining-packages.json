@@ -21,7 +21,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "AllelicImbalance": [],
   "Anaquin": [],
   "AneuFinder": [],
   "AnnotationHubData": [
@@ -238,7 +237,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "GeneStructureTools": [],
   "GeneTonic": [
     "mosdef",
     "clusterProfiler",

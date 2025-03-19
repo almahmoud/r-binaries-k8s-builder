@@ -1877,3 +1877,5 @@ mumosa
 DuplexDiscovereR
 lefser
 TFutils
+AllelicImbalance
+GeneStructureTools
