@@ -1,7 +1,6 @@
 {
   "ADAMgui": [],
   "ADImpute": [],
-  "AHMassBank": [],
   "AMARETTO": [
     "ExperimentHub"
   ],
@@ -118,7 +117,6 @@
   ],
   "DOSE": [],
   "Damsel": [],
-  "DeMixT": [],
   "DeepTarget": [
     "ExperimentHub"
   ],
