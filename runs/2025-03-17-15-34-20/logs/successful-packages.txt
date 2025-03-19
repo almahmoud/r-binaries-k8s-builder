@@ -1527,3 +1527,5 @@ MSPrep
 SigCheck
 scran
 SCAN.UPC
+ballgown
+KnowSeq
