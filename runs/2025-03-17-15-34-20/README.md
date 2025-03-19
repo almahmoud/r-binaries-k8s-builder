@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2051 packages built successfully
+- 2052 packages built successfully
 - 10 packages failed to build
-- 213 packages not yet processed
+- 212 packages not yet processed
 
 ## Failed Builds (10)
 | Package                                                                          | Status   | Log                                    | BBS Status                                                                | Failure Reasons                 |
@@ -22,7 +22,7 @@
 | [rGADEM](https://bioconductor.org/packages/3.21/bioc/html/rGADEM.html)           | Failed   | [Log](logs/rGADEM/build-fail.log)      | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/rGADEM)    | Build failed with unknown error |
 | [trigger](https://bioconductor.org/packages/3.21/bioc/html/trigger.html)         | Failed   | [Log](logs/trigger/build-fail.log)     | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/trigger)   | Build failed with unknown error |
 
-## Successfully Built (2051)
+## Successfully Built (2052)
 | Package                                                                                                          | Status   | Log                                                       | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.21/bioc/html/ABSSeq.html)                                           | Built    | [Log](logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ABSSeq)                      |
@@ -1268,6 +1268,7 @@
 | [epivizrChart](https://bioconductor.org/packages/3.21/bioc/html/epivizrChart.html)                               | Built    | [Log](logs/epivizrChart/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/epivizrChart)                |
 | [epivizrData](https://bioconductor.org/packages/3.21/bioc/html/epivizrData.html)                                 | Built    | [Log](logs/epivizrData/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/epivizrData)                 |
 | [epivizrServer](https://bioconductor.org/packages/3.21/bioc/html/epivizrServer.html)                             | Built    | [Log](logs/epivizrServer/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/epivizrServer)               |
+| [epivizrStandalone](https://bioconductor.org/packages/3.21/bioc/html/epivizrStandalone.html)                     | Built    | [Log](logs/epivizrStandalone/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/epivizrStandalone)           |
 | [erccdashboard](https://bioconductor.org/packages/3.21/bioc/html/erccdashboard.html)                             | Built    | [Log](logs/erccdashboard/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/erccdashboard)               |
 | [erma](https://bioconductor.org/packages/3.21/bioc/html/erma.html)                                               | Built    | [Log](logs/erma/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/erma)                        |
 | [escape](https://bioconductor.org/packages/3.21/bioc/html/escape.html)                                           | Built    | [Log](logs/escape/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/escape)                      |
@@ -2077,7 +2078,7 @@
 | [zitools](https://bioconductor.org/packages/3.21/bioc/html/zitools.html)                                         | Built    | [Log](logs/zitools/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/zitools)                     |
 | [zlibbioc](https://bioconductor.org/packages/3.21/bioc/html/zlibbioc.html)                                       | Built    | [Log](logs/zlibbioc/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/zlibbioc)                    |
 
-## Not Yet Processed (213)
+## Not Yet Processed (212)
 | Package                                                                                                | Status      |
 |--------------------------------------------------------------------------------------------------------|-------------|
 | [ADAMgui](https://bioconductor.org/packages/3.21/bioc/html/ADAMgui.html)                               | Unprocessed |
@@ -2244,7 +2245,6 @@
 | [epimutacions](https://bioconductor.org/packages/3.21/bioc/html/epimutacions.html)                     | Unprocessed |
 | [epiregulon](https://bioconductor.org/packages/3.21/bioc/html/epiregulon.html)                         | Unprocessed |
 | [epiregulon.extra](https://bioconductor.org/packages/3.21/bioc/html/epiregulon.extra.html)             | Unprocessed |
-| [epivizrStandalone](https://bioconductor.org/packages/3.21/bioc/html/epivizrStandalone.html)           | Unprocessed |
 | [esATAC](https://bioconductor.org/packages/3.21/bioc/html/esATAC.html)                                 | Unprocessed |
 | [esetVis](https://bioconductor.org/packages/3.21/bioc/html/esetVis.html)                               | Unprocessed |
 | [famat](https://bioconductor.org/packages/3.21/bioc/html/famat.html)                                   | Unprocessed |
