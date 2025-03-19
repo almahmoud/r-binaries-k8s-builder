@@ -1517,3 +1517,4 @@ cytoviewer
 HarmonizR
 crlmm
 EGSEA
+simpleSeg

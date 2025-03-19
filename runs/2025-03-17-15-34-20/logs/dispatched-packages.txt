@@ -1775,3 +1775,4 @@ scCB2
 scPipe
 TBSignatureProfiler
 VanillaICE
+spicyR

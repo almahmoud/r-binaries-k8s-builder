@@ -1901,8 +1901,7 @@
     "VariantAnnotation"
   ],
   "lisaClust": [
-    "spicyR",
-    "simpleSeg"
+    "spicyR"
   ],
   "lumi": [
     "methylumi",
@@ -2421,7 +2420,6 @@
     "consensusOV",
     "ensembldb"
   ],
-  "simpleSeg": [],
   "singleCellTK": [
     "batchelor",
     "ExperimentHub",
@@ -2457,9 +2455,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "spicyR": [
-    "simpleSeg"
-  ],
+  "spicyR": [],
   "spiky": [],
   "spillR": [
     "CATALYST",
