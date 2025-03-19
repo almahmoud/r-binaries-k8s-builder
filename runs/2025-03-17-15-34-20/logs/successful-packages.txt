@@ -1678,3 +1678,6 @@ FindIT2
 bumphunter
 interactiveDisplay
 wavClusteR
+iCNV
+Repitools
+TFEA.ChIP

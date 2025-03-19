@@ -790,7 +790,6 @@
     "DOSE"
   ],
   "RegionalST": [],
-  "Repitools": [],
   "ReportingTools": [
     "ggbio",
     "biovizBase",
@@ -902,7 +901,6 @@
     "sesame",
     "ExperimentHub"
   ],
-  "TFEA.ChIP": [],
   "TFHAZ": [
     "ORFik",
     "txdbmaker"
@@ -1409,7 +1407,6 @@
     "ExperimentHub"
   ],
   "hypeR": [],
-  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi",
