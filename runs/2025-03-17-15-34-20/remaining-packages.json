@@ -2038,7 +2038,6 @@
     "minfi",
     "bumphunter"
   ],
-  "r3Cseq": [],
   "rCGH": [],
   "rGADEM": [],
   "rGREAT": [],
@@ -2103,7 +2102,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scBFA": [],
   "scCB2": [],
   "scDD": [],
   "scDblFinder": [],

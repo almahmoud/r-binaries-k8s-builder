@@ -1581,3 +1581,5 @@ benchdamic
 edge
 CATALYST
 crisprBwa
+r3Cseq
+scBFA
