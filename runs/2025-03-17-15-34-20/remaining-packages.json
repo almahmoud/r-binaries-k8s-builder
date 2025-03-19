@@ -399,7 +399,6 @@
   "EDASeq": [],
   "EDIRquery": [],
   "EGAD": [],
-  "EGSEA": [],
   "ELMER": [
     "Gviz",
     "ensembldb",
@@ -651,7 +650,6 @@
   ],
   "MAGAR": [
     "RnBeads",
-    "crlmm",
     "methylumi",
     "minfi",
     "bumphunter"
@@ -767,8 +765,7 @@
     "bumphunter"
   ],
   "MinimumDistance": [
-    "VanillaICE",
-    "crlmm"
+    "VanillaICE"
   ],
   "Moonlight2R": [
     "clusterProfiler",
@@ -1202,9 +1199,7 @@
   "VaSP": [
     "ballgown"
   ],
-  "VanillaICE": [
-    "crlmm"
-  ],
+  "VanillaICE": [],
   "VarCon": [],
   "VariantAnnotation": [],
   "VariantFiltering": [
@@ -1541,7 +1536,6 @@
     "biovizBase",
     "ExperimentHub"
   ],
-  "crlmm": [],
   "cummeRbund": [
     "Gviz",
     "ensembldb",
