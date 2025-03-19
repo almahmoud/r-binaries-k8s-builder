@@ -762,7 +762,6 @@
   "ToxicoGx": [
     "CoreGx"
   ],
-  "UMI4Cats": [],
   "UPDhmm": [],
   "Ularcirc": [
     "Organism.dplyr",
@@ -1099,7 +1098,6 @@
   "flagme": [
     "CAMERA"
   ],
-  "funtooNorm": [],
   "gDNAx": [],
   "gDR": [
     "gDRimport",
@@ -1409,7 +1407,6 @@
   "puma": [],
   "qpgraph": [],
   "qsea": [],
-  "quantro": [],
   "rCGH": [],
   "rGADEM": [],
   "raer": [],
@@ -1593,7 +1590,5 @@
     "lumi"
   ],
   "wiggleplotr": [],
-  "yarn": [
-    "quantro"
-  ]
+  "yarn": []
 }
