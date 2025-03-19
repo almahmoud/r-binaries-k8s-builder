@@ -1521,3 +1521,7 @@ simpleSeg
 DExMA
 doppelgangR
 PAA
+biocGraph
+MBECS
+MSPrep
+SigCheck
