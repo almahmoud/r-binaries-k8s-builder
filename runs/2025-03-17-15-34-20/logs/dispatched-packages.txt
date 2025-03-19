@@ -1966,3 +1966,8 @@ REDseq
 svaNUMT
 svaRetro
 musicatk
+MineICA
+arrayMvout
+ffpe
+iCheck
+wateRmelon

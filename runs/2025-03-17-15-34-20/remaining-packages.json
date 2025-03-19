@@ -149,7 +149,6 @@
     "ExperimentHub",
     "bsseq",
     "Gviz",
-    "lumi",
     "txdbmaker",
     "biovizBase"
   ],
@@ -425,8 +424,7 @@
     "biovizBase"
   ],
   "MEAT": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "MEB": [],
   "MGFM": [],
@@ -479,9 +477,7 @@
     "enrichplot",
     "DOSE"
   ],
-  "MineICA": [
-    "lumi"
-  ],
+  "MineICA": [],
   "MinimumDistance": [],
   "Moonlight2R": [
     "clusterProfiler",
@@ -773,17 +769,14 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "arrayMvout": [
-    "lumi"
-  ],
+  "arrayMvout": [],
   "atSNP": [
     "motifStack"
   ],
   "bambu": [],
   "bandle": [],
   "bigmelon": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "bioCancer": [
     "cBioPortalData",
@@ -839,7 +832,6 @@
     "RTCGAToolbox",
     "TCGAutils"
   ],
-  "cfDNAPro": [],
   "cfTools": [
     "ExperimentHub"
   ],
@@ -1040,9 +1032,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "ffpe": [
-    "lumi"
-  ],
+  "ffpe": [],
   "flagme": [
     "CAMERA"
   ],
@@ -1102,9 +1092,7 @@
     "ExperimentHub"
   ],
   "hypeR": [],
-  "iCheck": [
-    "lumi"
-  ],
+  "iCheck": [],
   "iNETgrate": [
     "Pigengene",
     "OrganismDbi",
@@ -1156,7 +1144,6 @@
   ],
   "lineagespot": [],
   "lisaClust": [],
-  "lumi": [],
   "m6Aboost": [
     "ExperimentHub"
   ],
@@ -1442,8 +1429,7 @@
     "txdbmaker"
   ],
   "skewr": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "spatialFDA": [
     "ExperimentHub"
@@ -1512,8 +1498,6 @@
   "vulcan": [
     "DiffBind"
   ],
-  "wateRmelon": [
-    "lumi"
-  ],
+  "wateRmelon": [],
   "wiggleplotr": []
 }

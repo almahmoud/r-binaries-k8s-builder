@@ -1752,3 +1752,5 @@ ZygosityPredictor
 cardelino
 decompTumor2Sig
 VariantTools
+cfDNAPro
+lumi
