@@ -338,7 +338,6 @@
   "DominoEffect": [
     "VariantAnnotation"
   ],
-  "DrugVsDisease": [],
   "DuplexDiscovereR": [
     "Gviz",
     "ensembldb",
@@ -529,7 +528,6 @@
   ],
   "HiCParser": [],
   "HiCcompare": [],
-  "HiLDA": [],
   "HilbertVis": [],
   "HilbertVisGUI": [
     "HilbertVis"
@@ -999,7 +997,6 @@
   "TADCompare": [
     "HiCcompare"
   ],
-  "TBSignatureProfiler": [],
   "TCGAutils": [],
   "TDbasedUFEadv": [
     "enrichplot",
@@ -2068,9 +2065,7 @@
     "enrichplot",
     "DOSE"
   ],
-  "selectKSigs": [
-    "HiLDA"
-  ],
+  "selectKSigs": [],
   "seqArchRplus": [
     "ChIPseeker",
     "clusterProfiler",
