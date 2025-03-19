@@ -1657,3 +1657,5 @@ synapter
 xcms
 CRISPRseek
 qPLEXanalyzer
+cliProfiler
+pRoloc

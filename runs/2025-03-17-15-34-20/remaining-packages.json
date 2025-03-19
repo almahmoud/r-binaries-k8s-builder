@@ -1034,9 +1034,7 @@
     "motifStack"
   ],
   "bambu": [],
-  "bandle": [
-    "pRoloc"
-  ],
+  "bandle": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -1150,7 +1148,6 @@
   ],
   "cisPath": [],
   "cleanUpdTSeq": [],
-  "cliProfiler": [],
   "clipper": [
     "qpgraph"
   ],
@@ -1719,10 +1716,7 @@
   "orthos": [
     "ExperimentHub"
   ],
-  "pRoloc": [],
-  "pRolocGUI": [
-    "pRoloc"
-  ],
+  "pRolocGUI": [],
   "pageRank": [
     "motifmatchr"
   ],
