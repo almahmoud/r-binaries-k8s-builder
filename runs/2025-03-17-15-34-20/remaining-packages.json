@@ -243,8 +243,7 @@
   "ChromSCape": [],
   "CircSeqAlignTk": [
     "Rhisat2",
-    "txdbmaker",
-    "SGSeq"
+    "txdbmaker"
   ],
   "CiteFuse": [],
   "CleanUpRNAseq": [
@@ -396,9 +395,7 @@
   "EpipwR": [
     "ExperimentHub"
   ],
-  "EventPointer": [
-    "SGSeq"
-  ],
+  "EventPointer": [],
   "ExperimentHub": [],
   "ExperimentHubData": [
     "AnnotationHubData",
@@ -917,8 +914,7 @@
     "regioneR"
   ],
   "Rhisat2": [
-    "txdbmaker",
-    "SGSeq"
+    "txdbmaker"
   ],
   "RiboCrypt": [
     "ORFik",
@@ -959,7 +955,6 @@
   ],
   "SCOPE": [],
   "SEtools": [],
-  "SGSeq": [],
   "SMITE": [
     "goseq",
     "txdbmaker"
@@ -1805,7 +1800,6 @@
     "minfi",
     "bumphunter"
   ],
-  "miRLAB": [],
   "miRSM": [
     "clusterProfiler",
     "ReactomePA",

@@ -1601,3 +1601,5 @@ SGCP
 surfaltr
 Cogito
 hiAnnotator
+miRLAB
+SGSeq

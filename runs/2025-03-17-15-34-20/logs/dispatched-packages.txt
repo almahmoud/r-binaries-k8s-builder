@@ -1843,3 +1843,4 @@ motifmatchr
 ChromSCape
 mumosa
 hiReadsProcessor
+EventPointer
