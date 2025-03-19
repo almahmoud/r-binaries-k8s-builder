@@ -441,7 +441,6 @@
     "goseq"
   ],
   "SOMNiBUS": [],
-  "SPLINTER": [],
   "SVMDO": [
     "DOSE"
   ],
@@ -476,7 +475,6 @@
     "ORFik"
   ],
   "TRESS": [],
-  "TVTB": [],
   "ToxicoGx": [
     "CoreGx"
   ],
@@ -516,7 +514,6 @@
     "ReactomePA",
     "enrichplot"
   ],
-  "biomvRCNS": [],
   "biscuiteer": [
     "dmrseq",
     "ExperimentHub",
