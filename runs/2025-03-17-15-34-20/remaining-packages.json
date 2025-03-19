@@ -513,7 +513,6 @@
   ],
   "GenomicScores": [],
   "GloScope": [],
-  "GmicR": [],
   "GreyListChIP": [],
   "Guitar": [],
   "Gviz": [
@@ -961,7 +960,6 @@
   ],
   "SCOPE": [],
   "SEtools": [],
-  "SGCP": [],
   "SGSeq": [],
   "SMITE": [
     "goseq",
@@ -1149,7 +1147,6 @@
   "atSNP": [
     "motifStack"
   ],
-  "attract": [],
   "bambu": [],
   "bandle": [
     "pRoloc"
@@ -2196,7 +2193,6 @@
     "EDASeq"
   ],
   "strandCheckR": [],
-  "surfaltr": [],
   "svaNUMT": [
     "VariantAnnotation",
     "StructuralVariantAnnotation"

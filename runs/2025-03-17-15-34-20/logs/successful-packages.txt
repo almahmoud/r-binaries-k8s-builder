@@ -1595,3 +1595,7 @@ soGGi
 batchelor
 Motif2Site
 qsvaR
+attract
+GmicR
+SGCP
+surfaltr
