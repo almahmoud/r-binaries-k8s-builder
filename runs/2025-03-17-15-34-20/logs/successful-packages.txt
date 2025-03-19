@@ -1616,3 +1616,4 @@ meshr
 MotifPeeker
 SpatialExperimentIO
 TAPseq
+dandelionR
