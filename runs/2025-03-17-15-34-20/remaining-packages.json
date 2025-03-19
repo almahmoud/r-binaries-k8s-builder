@@ -847,7 +847,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "blacksheepr": [],
   "borealis": [
     "bsseq",
     "DSS"
@@ -937,7 +936,6 @@
   "consensusDE": [
     "RUVSeq"
   ],
-  "conumee": [],
   "coseq": [
     "HTSFilter"
   ],
