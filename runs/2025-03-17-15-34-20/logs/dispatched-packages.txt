@@ -1623,3 +1623,5 @@ omicRexposome
 qsmooth
 qsvaR
 trigger
+DEXSeq
+biocGraph

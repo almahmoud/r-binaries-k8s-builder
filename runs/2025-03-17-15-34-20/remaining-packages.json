@@ -477,9 +477,7 @@
     "BSgenome"
   ],
   "DEWSeq": [],
-  "DEXSeq": [
-    "geneplotter"
-  ],
+  "DEXSeq": [],
   "DEsubs": [],
   "DExMA": [],
   "DMCFB": [
@@ -601,7 +599,6 @@
     "rtracklayer"
   ],
   "ENmix": [
-    "geneplotter",
     "minfi",
     "ExperimentHub",
     "bumphunter",
@@ -933,7 +930,6 @@
     "GenomicFeatures",
     "txdbmaker",
     "DEXSeq",
-    "geneplotter",
     "rtracklayer",
     "VariantAnnotation",
     "BSgenome"
@@ -944,7 +940,6 @@
     "BSgenome",
     "rtracklayer",
     "tximeta",
-    "geneplotter",
     "GenomicFeatures",
     "txdbmaker",
     "ensembldb"
@@ -1106,8 +1101,7 @@
   ],
   "MethylSeekR": [
     "rtracklayer",
-    "BSgenome",
-    "geneplotter"
+    "BSgenome"
   ],
   "MicrobiomeProfiler": [
     "clusterProfiler",
@@ -1998,9 +1992,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "biocGraph": [
-    "geneplotter"
-  ],
+  "biocGraph": [],
   "biomvRCNS": [
     "Gviz",
     "rtracklayer",
@@ -2035,8 +2027,7 @@
     "txdbmaker"
   ],
   "blacksheepr": [
-    "DEXSeq",
-    "geneplotter"
+    "DEXSeq"
   ],
   "bnbc": [],
   "bnem": [],
@@ -2442,7 +2433,6 @@
     "DEXSeq",
     "rtracklayer",
     "ensembldb",
-    "geneplotter",
     "GenomicFeatures"
   ],
   "distinct": [
@@ -2674,7 +2664,6 @@
   "geneXtendeR": [
     "rtracklayer"
   ],
-  "geneplotter": [],
   "genoCN": [],
   "genomation": [
     "BSgenome",
@@ -3228,8 +3217,7 @@
     "rtracklayer"
   ],
   "pairedGSEA": [
-    "DEXSeq",
-    "geneplotter"
+    "DEXSeq"
   ],
   "panelcn.mops": [
     "cn.mops"
@@ -3483,7 +3471,6 @@
     "DEXSeq",
     "Gviz",
     "txdbmaker",
-    "geneplotter",
     "rtracklayer",
     "ensembldb",
     "BSgenome",
