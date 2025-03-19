@@ -2110,13 +2110,11 @@
   "alabaster": [
     "alabaster.spatial",
     "alabaster.vcf",
-    "alabaster.mae",
     "VariantAnnotation",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures"
   ],
-  "alabaster.mae": [],
   "alabaster.spatial": [],
   "alabaster.vcf": [
     "VariantAnnotation",
