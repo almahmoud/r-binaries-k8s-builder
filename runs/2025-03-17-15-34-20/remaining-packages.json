@@ -431,7 +431,6 @@
     "enrichplot"
   ],
   "biscuiteer": [
-    "dmrseq",
     "ExperimentHub"
   ],
   "borealis": [
@@ -499,7 +498,6 @@
   "derfinderPlot": [
     "ggbio"
   ],
-  "dmrseq": [],
   "easier": [
     "ExperimentHub"
   ],

@@ -1974,3 +1974,4 @@ motifbreakR
 SingleMoleculeFootprinting
 spatzie
 HiCDCPlus
+dmrseq
