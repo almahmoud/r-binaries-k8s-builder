@@ -1532,9 +1532,7 @@
     "annotatr",
     "regioneR"
   ],
-  "doubletrouble": [
-    "syntenet"
-  ],
+  "doubletrouble": [],
   "dreamlet": [],
   "drugTargetInteractions": [
     "ensembldb"
@@ -1727,7 +1725,6 @@
     "hiAnnotator"
   ],
   "hicVennDiagram": [],
-  "hoodscanR": [],
   "hpar": [
     "ExperimentHub"
   ],
@@ -2177,7 +2174,6 @@
     "txdbmaker",
     "TFBSTools"
   ],
-  "rifi": [],
   "rnaEditr": [
     "bumphunter"
   ],
@@ -2359,7 +2355,6 @@
   "synapter": [
     "MSnbase"
   ],
-  "syntenet": [],
   "systemPipeTools": [],
   "tLOH": [
     "VariantAnnotation"
@@ -2375,7 +2370,6 @@
   "terraTCGAdata": [
     "TCGAutils"
   ],
-  "tidyCoverage": [],
   "tidyomics": [
     "plyranges",
     "nullranges"
