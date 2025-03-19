@@ -735,7 +735,6 @@
     "Organism.dplyr",
     "plotgardener"
   ],
-  "Uniquorn": [],
   "VCFArray": [],
   "VaSP": [],
   "VarCon": [],
@@ -1437,7 +1436,6 @@
   "sesame": [
     "ExperimentHub"
   ],
-  "shinyepico": [],
   "signatureSearch": [
     "ExperimentHub",
     "clusterProfiler",
