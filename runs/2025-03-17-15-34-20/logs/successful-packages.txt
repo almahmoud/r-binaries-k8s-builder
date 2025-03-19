@@ -1841,3 +1841,7 @@ CleanUpRNAseq
 biovizBase
 scviR
 OMICsPCA
+alabaster.vcf
+BASiCStan
+ChromSCape
+strandCheckR

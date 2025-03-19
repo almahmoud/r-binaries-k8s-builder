@@ -33,7 +33,6 @@
   "AnnotationHubData": [
     "OrganismDbi"
   ],
-  "BASiCStan": [],
   "BLMA": [],
   "BOBaFIT": [
     "ggbio",
@@ -132,7 +131,6 @@
   "ChIPseqR": [
     "HilbertVis"
   ],
-  "ChromSCape": [],
   "CircSeqAlignTk": [
     "Rhisat2"
   ],
@@ -575,10 +573,7 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "alabaster": [
-    "alabaster.vcf"
-  ],
-  "alabaster.vcf": [],
+  "alabaster": [],
   "appreci8R": [
     "GenomicScores",
     "OrganismDbi"
@@ -1090,7 +1085,6 @@
   "standR": [
     "RUVSeq"
   ],
-  "strandCheckR": [],
   "tLOH": [],
   "tadar": [
     "Gviz"

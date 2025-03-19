@@ -2035,3 +2035,4 @@ ChIPexoQual
 Gviz
 Rqc
 karyoploteR
+alabaster
