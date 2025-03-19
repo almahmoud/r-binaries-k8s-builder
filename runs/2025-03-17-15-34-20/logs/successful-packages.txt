@@ -1435,3 +1435,8 @@ scMET
 slingshot
 ClassifyR
 TENxIO
+CTSV
+iSEEde
+rtracklayer
+vsclust
+zinbwave
