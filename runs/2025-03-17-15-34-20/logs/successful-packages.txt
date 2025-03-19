@@ -1640,3 +1640,5 @@ genomation
 INSPEcT
 methylKit
 Dino
+chipenrich
+msImpute
