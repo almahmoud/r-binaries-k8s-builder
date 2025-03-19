@@ -814,7 +814,6 @@
     "VariantAnnotation",
     "rtracklayer"
   ],
-  "GeneMeta": [],
   "GeneStructureTools": [
     "Gviz",
     "rtracklayer",
@@ -1969,9 +1968,7 @@
     "DropletUtils",
     "scuttle"
   ],
-  "XDE": [
-    "GeneMeta"
-  ],
+  "XDE": [],
   "XNAString": [
     "BSgenome",
     "rtracklayer"
