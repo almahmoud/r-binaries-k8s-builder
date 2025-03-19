@@ -1642,3 +1642,6 @@ methylKit
 Dino
 chipenrich
 msImpute
+GreyListChIP
+spicyR
+transcriptR

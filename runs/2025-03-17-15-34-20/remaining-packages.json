@@ -199,8 +199,7 @@
     "VariantAnnotation"
   ],
   "ChIPQC": [
-    "DiffBind",
-    "GreyListChIP"
+    "DiffBind"
   ],
   "ChIPexoQual": [
     "biovizBase",
@@ -300,9 +299,7 @@
     "txdbmaker"
   ],
   "DelayedTensor": [],
-  "DiffBind": [
-    "GreyListChIP"
-  ],
+  "DiffBind": [],
   "DifferentialRegulation": [],
   "DominoEffect": [
     "VariantAnnotation"
@@ -460,7 +457,6 @@
   ],
   "GenomicScores": [],
   "GloScope": [],
-  "GreyListChIP": [],
   "Guitar": [],
   "Gviz": [
     "biovizBase",
@@ -1326,9 +1322,7 @@
     "DOSE"
   ],
   "epidecodeR": [],
-  "epigraHMM": [
-    "GreyListChIP"
-  ],
+  "epigraHMM": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -1555,9 +1549,7 @@
   "lineagespot": [
     "VariantAnnotation"
   ],
-  "lisaClust": [
-    "spicyR"
-  ],
+  "lisaClust": [],
   "lumi": [
     "methylumi",
     "minfi",
@@ -1985,7 +1977,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "spicyR": [],
   "spiky": [],
   "spillR": [],
   "splatter": [],
@@ -2034,7 +2025,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "transcriptR": [],
   "transmogR": [
     "VariantAnnotation"
   ],
@@ -2068,8 +2058,7 @@
   "vulcan": [
     "ChIPpeakAnno",
     "DiffBind",
-    "regioneR",
-    "GreyListChIP"
+    "regioneR"
   ],
   "wateRmelon": [
     "methylumi",

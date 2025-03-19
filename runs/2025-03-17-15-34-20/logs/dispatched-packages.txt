@@ -1860,3 +1860,6 @@ fCCAC
 methInheritSim
 methylInheritance
 scFeatures
+DiffBind
+epigraHMM
+lisaClust
