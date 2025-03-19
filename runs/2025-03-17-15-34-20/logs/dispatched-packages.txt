@@ -2106,3 +2106,8 @@ chevreulShiny
 mitoClone2
 IsoformSwitchAnalyzeR
 CAGEr
+DeMixT
+borealis
+kissDE
+metaseqR2
+methylSig

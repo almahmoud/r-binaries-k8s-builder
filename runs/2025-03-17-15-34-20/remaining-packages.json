@@ -129,14 +129,11 @@
     "ExperimentHub"
   ],
   "DOSE": [],
-  "DSS": [],
   "Damsel": [
     "ggbio",
     "goseq"
   ],
-  "DeMixT": [
-    "DSS"
-  ],
+  "DeMixT": [],
   "DeepTarget": [
     "ExperimentHub"
   ],
@@ -432,9 +429,7 @@
   "biscuiteer": [
     "ExperimentHub"
   ],
-  "borealis": [
-    "DSS"
-  ],
+  "borealis": [],
   "broadSeq": [
     "DELocal",
     "clusterProfiler",
@@ -602,9 +597,7 @@
   "isomiRs": [
     "DEGreport"
   ],
-  "kissDE": [
-    "DSS"
-  ],
+  "kissDE": [],
   "knowYourCG": [
     "ExperimentHub"
   ],
@@ -621,9 +614,7 @@
     "enrichplot"
   ],
   "metaMS": [],
-  "metaseqR2": [
-    "DSS"
-  ],
+  "metaseqR2": [],
   "methInheritSim": [],
   "methodical": [
     "ExperimentHub"
@@ -634,9 +625,7 @@
     "enrichplot"
   ],
   "methylInheritance": [],
-  "methylSig": [
-    "DSS"
-  ],
+  "methylSig": [],
   "methylclock": [
     "ExperimentHub",
     "ExperimentHubData",
@@ -654,7 +643,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "mitoClone2": [],
   "mosdef": [
     "clusterProfiler",
     "goseq",
@@ -726,7 +714,6 @@
     "epivizr",
     "epivizrData"
   ],
-  "scanMiRApp": [],
   "scruff": [
     "ggbio"
   ],
