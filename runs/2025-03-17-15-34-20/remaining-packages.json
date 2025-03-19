@@ -216,7 +216,6 @@
   ],
   "MLP": [],
   "MLSeq": [],
-  "MSnID": [],
   "MatrixQCvis": [
     "ExperimentHub"
   ],
@@ -413,7 +412,6 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "derfinderPlot": [],
   "easier": [
     "ExperimentHub"
   ],

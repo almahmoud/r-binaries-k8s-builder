@@ -2041,3 +2041,5 @@ msgbsR
 ReportingTools
 RNAAgeCalc
 RnaSeqSampleSize
+derfinderPlot
+MSnID
