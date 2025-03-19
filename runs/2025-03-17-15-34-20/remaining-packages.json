@@ -847,7 +847,6 @@
     "OrganismDbi"
   ],
   "esATAC": [
-    "pipeFrame",
     "ChIPseeker",
     "clusterProfiler",
     "enrichplot",
@@ -1083,7 +1082,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "pipeFrame": [],
   "preciseTAD": [],
   "primirTSS": [
     "GenomicScores",

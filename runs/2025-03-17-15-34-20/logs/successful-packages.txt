@@ -1819,3 +1819,4 @@ UPDhmm
 DaMiRseq
 igvR
 MPAC
+pipeFrame
