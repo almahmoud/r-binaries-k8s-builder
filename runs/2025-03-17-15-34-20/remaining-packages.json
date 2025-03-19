@@ -1762,7 +1762,6 @@
     "enrichplot",
     "txdbmaker"
   ],
-  "peakPantheR": [],
   "periodicDNA": [],
   "phenoTest": [],
   "pipeFrame": [],
@@ -1773,7 +1772,6 @@
     "plyranges"
   ],
   "plyranges": [],
-  "podkat": [],
   "preciseTAD": [
     "rCGH"
   ],
@@ -1801,7 +1799,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "ptairMS": [],
   "puma": [],
   "qPLEXanalyzer": [],
   "qpgraph": [],
