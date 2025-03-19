@@ -10,9 +10,7 @@
   ],
   "APL": [],
   "ASURAT": [],
-  "ASpli": [
-    "Gviz"
-  ],
+  "ASpli": [],
   "ATACseqQC": [
     "GenomicScores",
     "motifStack"
@@ -25,9 +23,7 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "AllelicImbalance": [
-    "Gviz"
-  ],
+  "AllelicImbalance": [],
   "Anaquin": [],
   "AneuFinder": [],
   "AnnotationHubData": [
@@ -56,12 +52,10 @@
     "OrganismDbi"
   ],
   "CAGEfightR": [
-    "Gviz",
     "GenomicInteractions"
   ],
   "CAGEr": [
     "CAGEfightR",
-    "Gviz",
     "GenomicInteractions"
   ],
   "CBNplot": [
@@ -118,8 +112,7 @@
   "ChAMP": [
     "DMRcate",
     "goseq",
-    "ExperimentHub",
-    "Gviz"
+    "ExperimentHub"
   ],
   "ChIPQC": [],
   "ChIPseeker": [
@@ -158,8 +151,7 @@
   "DEWSeq": [],
   "DEsubs": [],
   "DMRcate": [
-    "ExperimentHub",
-    "Gviz"
+    "ExperimentHub"
   ],
   "DOSE": [],
   "DSS": [],
@@ -178,15 +170,11 @@
   "DegNorm": [],
   "DelayedTensor": [],
   "DifferentialRegulation": [],
-  "DuplexDiscovereR": [
-    "Gviz"
-  ],
+  "DuplexDiscovereR": [],
   "EBSEA": [],
   "EDIRquery": [],
   "EGAD": [],
-  "ELMER": [
-    "Gviz"
-  ],
+  "ELMER": [],
   "ELViS": [],
   "ENmix": [
     "ExperimentHub"
@@ -257,9 +245,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "GeneStructureTools": [
-    "Gviz"
-  ],
+  "GeneStructureTools": [],
   "GeneTonic": [
     "mosdef",
     "clusterProfiler",
@@ -267,9 +253,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "GenomicInteractions": [
-    "Gviz"
-  ],
+  "GenomicInteractions": [],
   "GenomicOZone": [
     "ggbio",
     "OrganismDbi"
@@ -279,12 +263,10 @@
   ],
   "GenomicScores": [],
   "GloScope": [],
-  "Gviz": [],
   "HTSFilter": [],
   "Harshlight": [],
   "HiCDCPlus": [
-    "GenomicInteractions",
-    "Gviz"
+    "GenomicInteractions"
   ],
   "HiCDOC": [
     "multiHiCcompare",
@@ -319,9 +301,7 @@
   "MAGAR": [],
   "MAIT": [],
   "MDTS": [],
-  "MEAL": [
-    "Gviz"
-  ],
+  "MEAL": [],
   "MEAT": [],
   "MGFM": [],
   "MGFR": [],
@@ -384,14 +364,11 @@
     "trackViewer",
     "ATACseqQC",
     "GenomicScores",
-    "motifStack",
-    "Gviz"
+    "motifStack"
   ],
   "NanoMethViz": [],
   "NewWave": [],
-  "OGRE": [
-    "Gviz"
-  ],
+  "OGRE": [],
   "ORFik": [],
   "OUTRIDER": [],
   "OmaDB": [],
@@ -403,8 +380,7 @@
   ],
   "PICS": [],
   "PING": [
-    "PICS",
-    "Gviz"
+    "PICS"
   ],
   "PPInfer": [],
   "PREDA": [],
@@ -425,9 +401,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "Pviz": [
-    "Gviz"
-  ],
+  "Pviz": [],
   "QuasR": [],
   "R3CPET": [
     "ggbio",
@@ -439,20 +413,15 @@
   "RNAAgeCalc": [
     "recount"
   ],
-  "RNAmodR": [
-    "Gviz"
-  ],
+  "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
-    "RNAmodR",
-    "Gviz"
+    "RNAmodR"
   ],
   "RNAmodR.ML": [
-    "RNAmodR",
-    "Gviz"
+    "RNAmodR"
   ],
   "RNAmodR.RiboMethSeq": [
-    "RNAmodR",
-    "Gviz"
+    "RNAmodR"
   ],
   "RUVSeq": [],
   "RadioGx": [
@@ -490,14 +459,11 @@
   "RnaSeqSampleSize": [
     "recount"
   ],
-  "Rqc": [],
   "SMITE": [
     "goseq"
   ],
   "SOMNiBUS": [],
-  "SPLINTER": [
-    "Gviz"
-  ],
+  "SPLINTER": [],
   "SVMDO": [
     "DOSE"
   ],
@@ -533,16 +499,13 @@
   ],
   "TFutils": [],
   "TRESS": [],
-  "TVTB": [
-    "Gviz"
-  ],
+  "TVTB": [],
   "ToxicoGx": [
     "CoreGx"
   ],
   "Ularcirc": [],
   "VariantFiltering": [
-    "GenomicScores",
-    "Gviz"
+    "GenomicScores"
   ],
   "XNAString": [],
   "Xeva": [
@@ -578,9 +541,7 @@
     "ReactomePA",
     "enrichplot"
   ],
-  "biomvRCNS": [
-    "Gviz"
-  ],
+  "biomvRCNS": [],
   "biscuiteer": [
     "dmrseq",
     "ExperimentHub",
@@ -613,13 +574,9 @@
     "chevreulProcess",
     "chevreulPlot"
   ],
-  "chimeraviz": [
-    "Gviz"
-  ],
+  "chimeraviz": [],
   "chopsticks": [],
-  "cicero": [
-    "Gviz"
-  ],
+  "cicero": [],
   "circRNAprofiler": [],
   "cisPath": [],
   "cliqueMS": [],
@@ -632,12 +589,9 @@
   "coMethDMR": [
     "ExperimentHub"
   ],
-  "comapr": [
-    "Gviz"
-  ],
+  "comapr": [],
   "compEpiTools": [
-    "methylPipe",
-    "Gviz"
+    "methylPipe"
   ],
   "condiments": [],
   "consensusDE": [
@@ -658,25 +612,20 @@
     "crisprDesign",
     "crisprScore",
     "crisprViz",
-    "Gviz",
     "ExperimentHub"
   ],
   "crisprVerse": [
     "crisprScore",
     "crisprDesign",
     "crisprViz",
-    "ExperimentHub",
-    "Gviz"
+    "ExperimentHub"
   ],
   "crisprViz": [
     "crisprDesign",
-    "Gviz",
     "crisprScore",
     "ExperimentHub"
   ],
-  "cummeRbund": [
-    "Gviz"
-  ],
+  "cummeRbund": [],
   "customProDB": [],
   "cytofQC": [],
   "dagLogo": [
@@ -707,7 +656,6 @@
   ],
   "epidecodeR": [],
   "epimutacions": [
-    "Gviz",
     "ExperimentHub",
     "OrganismDbi"
   ],
@@ -774,8 +722,7 @@
   "geneAttribution": [],
   "genoCN": [],
   "geomeTriD": [
-    "trackViewer",
-    "Gviz"
+    "trackViewer"
   ],
   "ggbio": [
     "OrganismDbi"
@@ -839,16 +786,13 @@
     "ExperimentHub"
   ],
   "mCSEA": [
-    "Gviz",
     "OrganismDbi"
   ],
   "magpie": [
     "TRESS"
   ],
   "mariner": [],
-  "maser": [
-    "Gviz"
-  ],
+  "maser": [],
   "mastR": [
     "ExperimentHub"
   ],
@@ -871,9 +815,7 @@
     "enrichplot"
   ],
   "methylInheritance": [],
-  "methylPipe": [
-    "Gviz"
-  ],
+  "methylPipe": [],
   "methylSig": [
     "DSS"
   ],
@@ -908,8 +850,7 @@
   ],
   "motifStack": [],
   "motifbreakR": [
-    "motifStack",
-    "Gviz"
+    "motifStack"
   ],
   "msgbsR": [
     "ggbio",
@@ -953,8 +894,7 @@
   ],
   "preciseTAD": [],
   "primirTSS": [
-    "GenomicScores",
-    "Gviz"
+    "GenomicScores"
   ],
   "proActiv": [],
   "proBAMr": [],
@@ -974,9 +914,7 @@
   "regionReport": [
     "DEFormats"
   ],
-  "regutools": [
-    "Gviz"
-  ],
+  "regutools": [],
   "rgsepd": [
     "goseq"
   ],
@@ -990,8 +928,7 @@
     "MGFR"
   ],
   "saseR": [
-    "ASpli",
-    "Gviz"
+    "ASpli"
   ],
   "scFeatures": [],
   "scMerge": [],
@@ -1045,28 +982,19 @@
     "ExperimentHub"
   ],
   "spatzie": [
-    "GenomicInteractions",
-    "Gviz"
+    "GenomicInteractions"
   ],
-  "squallms": [],
-  "srnadiff": [
-    "Gviz"
-  ],
+  "srnadiff": [],
   "standR": [
     "RUVSeq"
   ],
-  "tadar": [
-    "Gviz"
-  ],
+  "tadar": [],
   "tidyomics": [],
-  "trackViewer": [
-    "Gviz"
-  ],
+  "trackViewer": [],
   "trigger": [],
   "txcutr": [],
   "tximeta": [],
   "uncoverappLib": [
-    "Gviz",
     "OrganismDbi"
   ],
   "visiumStitched": [
