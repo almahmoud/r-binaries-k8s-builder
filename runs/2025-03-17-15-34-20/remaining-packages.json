@@ -2119,7 +2119,6 @@
     "scuttle"
   ],
   "alabaster": [
-    "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
     "alabaster.mae",
@@ -2129,10 +2128,7 @@
     "GenomicFeatures"
   ],
   "alabaster.mae": [],
-  "alabaster.sce": [],
-  "alabaster.spatial": [
-    "alabaster.sce"
-  ],
+  "alabaster.spatial": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "rtracklayer",
@@ -3569,7 +3565,6 @@
     "genefilter"
   ],
   "omicade4": [],
-  "omicplotR": [],
   "oposSOM": [],
   "oppar": [],
   "orthos": [
@@ -4107,7 +4102,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "M3Drop",
-    "alabaster.sce",
     "genefilter"
   ],
   "sitadela": [

@@ -1354,3 +1354,5 @@ slalom
 PICB
 npGSEA
 RSVSim
+alabaster.sce
+omicplotR
