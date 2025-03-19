@@ -2105,3 +2105,4 @@ FRASER
 chevreulShiny
 mitoClone2
 IsoformSwitchAnalyzeR
+CAGEr

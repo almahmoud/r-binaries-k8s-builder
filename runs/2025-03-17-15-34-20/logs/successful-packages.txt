@@ -1968,3 +1968,8 @@ recoup
 Ularcirc
 scone
 tximeta
+CAGEfightR
+GNOSIS
+motifbreakR
+SingleMoleculeFootprinting
+spatzie
