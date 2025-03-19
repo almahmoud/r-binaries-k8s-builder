@@ -1766,3 +1766,5 @@ svaNUMT
 plyinteractions
 demuxSNP
 plotgardener
+nullranges
+transmogR

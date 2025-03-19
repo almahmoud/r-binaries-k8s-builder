@@ -1,2 +1,1 @@
-DegCre
-mariner
+tidyomics

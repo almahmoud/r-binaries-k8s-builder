@@ -1257,7 +1257,6 @@
   "ncGTW": [],
   "nearBynding": [],
   "netSmooth": [],
-  "nullranges": [],
   "octad": [
     "RUVSeq",
     "ExperimentHub"
@@ -1442,15 +1441,12 @@
   "terraTCGAdata": [
     "TCGAutils"
   ],
-  "tidyomics": [
-    "nullranges"
-  ],
+  "tidyomics": [],
   "trackViewer": [
     "Gviz",
     "txdbmaker",
     "biovizBase"
   ],
-  "transmogR": [],
   "traseR": [],
   "tricycle": [],
   "trigger": [],
