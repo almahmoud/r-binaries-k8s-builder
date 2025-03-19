@@ -1688,3 +1688,5 @@ signifinder
 VariantAnnotation
 spiky
 SplicingGraphs
+MSstatsQCgui
+splatter

@@ -501,7 +501,6 @@
     "msmsTests",
     "msmsEDA"
   ],
-  "MSstatsQCgui": [],
   "MatrixQCvis": [
     "ExperimentHub"
   ],
@@ -1654,7 +1653,6 @@
     "biovizBase"
   ],
   "spillR": [],
-  "splatter": [],
   "spoon": [],
   "squallms": [],
   "srnadiff": [
