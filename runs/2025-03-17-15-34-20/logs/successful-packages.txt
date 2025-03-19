@@ -2025,3 +2025,6 @@ vulcan
 BOBaFIT
 CAGEr
 FRASER
+borealis
+Damsel
+kissDE

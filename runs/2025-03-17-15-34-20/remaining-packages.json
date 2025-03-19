@@ -113,7 +113,6 @@
     "ExperimentHub"
   ],
   "DOSE": [],
-  "Damsel": [],
   "DeepTarget": [
     "ExperimentHub"
   ],
@@ -374,7 +373,6 @@
   "biscuiteer": [
     "ExperimentHub"
   ],
-  "borealis": [],
   "broadSeq": [
     "DELocal",
     "clusterProfiler",
@@ -521,7 +519,6 @@
   "isomiRs": [
     "DEGreport"
   ],
-  "kissDE": [],
   "knowYourCG": [
     "ExperimentHub"
   ],
