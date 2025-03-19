@@ -423,7 +423,6 @@
   "RNAmodR.RiboMethSeq": [
     "RNAmodR"
   ],
-  "RUVSeq": [],
   "RadioGx": [
     "CoreGx"
   ],
@@ -594,9 +593,7 @@
     "methylPipe"
   ],
   "condiments": [],
-  "consensusDE": [
-    "RUVSeq"
-  ],
+  "consensusDE": [],
   "coseq": [
     "HTSFilter"
   ],
@@ -627,7 +624,6 @@
   ],
   "cummeRbund": [],
   "customProDB": [],
-  "cytofQC": [],
   "dagLogo": [
     "motifStack"
   ],
@@ -781,7 +777,6 @@
     "ExperimentHub"
   ],
   "lefser": [],
-  "lisaClust": [],
   "m6Aboost": [
     "ExperimentHub"
   ],
@@ -870,7 +865,6 @@
   "mygene": [],
   "ncGTW": [],
   "octad": [
-    "RUVSeq",
     "ExperimentHub"
   ],
   "orthos": [
@@ -919,8 +913,7 @@
     "goseq"
   ],
   "ribosomeProfilingQC": [
-    "motifStack",
-    "RUVSeq"
+    "motifStack"
   ],
   "rsbml": [],
   "sampleClassifier": [
@@ -944,9 +937,7 @@
   ],
   "scanMiRApp": [],
   "scmeth": [],
-  "scone": [
-    "RUVSeq"
-  ],
+  "scone": [],
   "scruff": [
     "ggbio",
     "OrganismDbi"
@@ -985,9 +976,7 @@
     "GenomicInteractions"
   ],
   "srnadiff": [],
-  "standR": [
-    "RUVSeq"
-  ],
+  "standR": [],
   "tadar": [],
   "tidyomics": [],
   "trackViewer": [],

@@ -1860,3 +1860,6 @@ wiggleplotr
 Gviz
 Rqc
 squallms
+cytofQC
+lisaClust
+RUVSeq
