@@ -1809,3 +1809,10 @@ Organism.dplyr
 RITAN
 qpgraph
 TCGAutils
+CAMERA
+DiffBind
+drugTargetInteractions
+nearBynding
+pRolocGUI
+txdbmaker
+UPDhmm
