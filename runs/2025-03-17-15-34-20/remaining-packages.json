@@ -155,7 +155,6 @@
   "DeepTarget": [
     "ExperimentHub"
   ],
-  "DegCre": [],
   "DegNorm": [],
   "DelayedTensor": [],
   "DifferentialRegulation": [],
@@ -406,7 +405,6 @@
   "RegEnrich": [
     "DOSE"
   ],
-  "RegionalST": [],
   "ReportingTools": [
     "ggbio",
     "OrganismDbi"
@@ -532,7 +530,6 @@
     "chevreulPlot"
   ],
   "chopsticks": [],
-  "circRNAprofiler": [],
   "cisPath": [],
   "clusterProfiler": [
     "DOSE",
@@ -813,7 +810,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "preciseTAD": [],
   "primirTSS": [
     "GenomicScores"
   ],
