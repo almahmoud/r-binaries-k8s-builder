@@ -1677,3 +1677,9 @@ soGGi
 syntenet
 tidyCoverage
 wiggleplotr
+ASICS
+MultiBaC
+biosigner
+lipidr
+phenomis
+rqt

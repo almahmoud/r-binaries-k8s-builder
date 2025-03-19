@@ -17,9 +17,7 @@
     "BSgenome"
   ],
   "APL": [],
-  "ASICS": [
-    "ropls"
-  ],
+  "ASICS": [],
   "ASSIGN": [],
   "ASURAT": [],
   "ASpli": [
@@ -1013,9 +1011,7 @@
     "MsExperiment"
   ],
   "MuData": [],
-  "MultiBaC": [
-    "ropls"
-  ],
+  "MultiBaC": [],
   "MultiRNAflow": [],
   "MultimodalExperiment": [],
   "MungeSumstats": [
@@ -1744,9 +1740,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "biosigner": [
-    "ropls"
-  ],
+  "biosigner": [],
   "biovizBase": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -2496,9 +2490,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "lipidr": [
-    "ropls"
-  ],
+  "lipidr": [],
   "lisaClust": [
     "spicyR",
     "simpleSeg"
@@ -2721,7 +2713,6 @@
     "MSnbase",
     "msmsEDA"
   ],
-  "mspms": [],
   "multiHiCcompare": [
     "HiCcompare"
   ],
@@ -2771,7 +2762,6 @@
     "scater",
     "clusterExperiment"
   ],
-  "nipalsMCIA": [],
   "normr": [],
   "nullranges": [
     "plyranges"
@@ -2833,9 +2823,7 @@
     "BSgenome"
   ],
   "phenoTest": [],
-  "phenomis": [
-    "ropls"
-  ],
+  "phenomis": [],
   "pipeComp": [
     "scran",
     "scater"
@@ -2995,10 +2983,7 @@
     "GenomicFeatures"
   ],
   "roar": [],
-  "ropls": [],
-  "rqt": [
-    "ropls"
-  ],
+  "rqt": [],
   "rrvgo": [],
   "rsbml": [],
   "sampleClassifier": [
@@ -3186,10 +3171,8 @@
     "bumphunter",
     "lumi"
   ],
-  "smoothclust": [],
   "smoppix": [],
   "soGGi": [],
-  "spaSim": [],
   "spatialDE": [],
   "spatialFDA": [
     "ExperimentHub"
