@@ -2099,3 +2099,4 @@ mCSEA
 uncoverappLib
 SingleMoleculeFootprinting
 COCOA
+msmsTests

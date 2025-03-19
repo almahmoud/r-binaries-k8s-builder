@@ -267,8 +267,7 @@
   "MLP": [],
   "MLSeq": [],
   "MSnID": [
-    "msmsTests",
-    "msmsEDA"
+    "msmsTests"
   ],
   "MatrixQCvis": [
     "ExperimentHub"
@@ -707,10 +706,7 @@
   "msgbsR": [
     "ggbio"
   ],
-  "msmsEDA": [],
-  "msmsTests": [
-    "msmsEDA"
-  ],
+  "msmsTests": [],
   "multiHiCcompare": [
     "HiCcompare"
   ],
@@ -723,7 +719,6 @@
   "orthos": [
     "ExperimentHub"
   ],
-  "pageRank": [],
   "panelcn.mops": [
     "cn.mops"
   ],
