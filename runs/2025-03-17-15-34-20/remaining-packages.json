@@ -18,7 +18,6 @@
     "biovizBase"
   ],
   "ATACseqQC": [
-    "ChIPpeakAnno",
     "GenomicScores",
     "motifStack"
   ],
@@ -160,7 +159,6 @@
   "ChIPexoQual": [
     "biovizBase"
   ],
-  "ChIPpeakAnno": [],
   "ChIPseeker": [
     "enrichplot",
     "DOSE"
@@ -198,9 +196,7 @@
   "DEFormats": [],
   "DEGreport": [],
   "DELocal": [],
-  "DEScan2": [
-    "ChIPpeakAnno"
-  ],
+  "DEScan2": [],
   "DEWSeq": [],
   "DEsubs": [],
   "DMRcate": [
@@ -326,9 +322,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "GUIDEseq": [
-    "ChIPpeakAnno"
-  ],
+  "GUIDEseq": [],
   "GeDi": [
     "GeneTonic",
     "mosdef",
@@ -511,7 +505,6 @@
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
-    "ChIPpeakAnno",
     "GenomicScores",
     "motifStack",
     "Gviz",
@@ -572,7 +565,6 @@
   ],
   "Prostar": [],
   "ProteoDisco": [],
-  "PureCN": [],
   "Pviz": [
     "Gviz",
     "biovizBase"
@@ -586,16 +578,12 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "R453Plus1Toolbox": [],
   "RAIDS": [],
   "RCAS": [
     "txdbmaker"
   ],
   "REBET": [],
-  "REDseq": [
-    "ChIPpeakAnno"
-  ],
-  "REMP": [],
+  "REDseq": [],
   "RESOLVE": [],
   "RITAN": [],
   "RMassBank": [],
@@ -685,7 +673,6 @@
     "goseq",
     "txdbmaker"
   ],
-  "SNPhood": [],
   "SOMNiBUS": [
     "bsseq"
   ],
@@ -1539,7 +1526,6 @@
     "gwascat"
   ],
   "vulcan": [
-    "ChIPpeakAnno",
     "DiffBind"
   ],
   "wateRmelon": [

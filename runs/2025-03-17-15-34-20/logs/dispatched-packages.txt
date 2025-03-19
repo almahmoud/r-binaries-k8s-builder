@@ -1960,3 +1960,6 @@ lumi
 missMethyl
 OMICsPCA
 RESOLVE
+DEScan2
+GUIDEseq
+REDseq
