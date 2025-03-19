@@ -164,7 +164,6 @@
   "DegNorm": [],
   "DelayedTensor": [],
   "DifferentialRegulation": [],
-  "DuplexDiscovereR": [],
   "EBSEA": [],
   "EDIRquery": [],
   "EGAD": [],
@@ -488,7 +487,6 @@
   "TFHAZ": [
     "ORFik"
   ],
-  "TFutils": [],
   "TRESS": [],
   "TVTB": [],
   "ToxicoGx": [
@@ -760,7 +758,6 @@
   "knowYourCG": [
     "ExperimentHub"
   ],
-  "lefser": [],
   "m6Aboost": [
     "ExperimentHub"
   ],

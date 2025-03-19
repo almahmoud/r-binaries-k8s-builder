@@ -1874,3 +1874,6 @@ ASpli
 MGnifyR
 miaViz
 mumosa
+DuplexDiscovereR
+lefser
+TFutils
