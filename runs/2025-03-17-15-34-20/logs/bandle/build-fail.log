@@ -1,0 +1,343 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''bandle'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R Under development (unstable)
+  (2025-03-08 r87910)
+Installing package(s) 'bandle'
+also installing the dependencies ‘listenv’, ‘parallelly’, ‘future’, ‘globals’, ‘future.apply’, ‘numDeriv’, ‘progressr’, ‘SQUAREM’, ‘diagram’, ‘lava’, ‘bit’, ‘BiocBaseUtils’, ‘matrixStats’, ‘modeltools’, ‘XVector’, ‘UCSC.utils’, ‘GenomeInfoDbData’, ‘abind’, ‘SparseArray’, ‘tzdb’, ‘prodlim’, ‘timechange’, ‘bit64’, ‘blob’, ‘plogr’, ‘png’, ‘Biostrings’, ‘MultiAssayExperiment’, ‘AnnotationFilter’, ‘statmod’, ‘DBI’, ‘httr’, ‘MatrixGenerics’, ‘flexmix’, ‘prabclus’, ‘diptest’, ‘assertthat’, ‘crosstalk’, ‘GenomicRanges’, ‘GenomeInfoDb’, ‘S4Arrays’, ‘DelayedArray’, ‘data.table’, ‘clock’, ‘gower’, ‘hardhat’, ‘ipred’, ‘lubridate’, ‘sparsevctrs’, ‘timeDate’, ‘RSQLite’, ‘KEGGREST’, ‘hms’, ‘dbplyr’, ‘filelock’, ‘formatR’, ‘ncdf4’, ‘Rhdf5lib’, ‘clue’, ‘igraph’, ‘QFeatures’, ‘limma’, ‘affyio’, ‘XML’, ‘doParallel’, ‘foreach’, ‘iterators’, ‘farver’, ‘labeling’, ‘munsell’, ‘annotate’, ‘gdata’, ‘pls’, ‘sfsmisc’, ‘genefilter’, ‘fpc’, ‘ggvis’, ‘gbm’, ‘hwriter’, ‘threejs’, ‘mlbench’, ‘SummarizedExperiment’, ‘ModelMetrics’, ‘pROC’, ‘recipes’, ‘reshape2’, ‘lpSolve’, ‘plotly’, ‘segmented’, ‘AnnotationDbi’, ‘progress’, ‘BiocFileCache’, ‘lambda.r’, ‘futile.options’, ‘dotCall64’, ‘BiocGenerics’, ‘mzR’, ‘ProtGenerics’, ‘MsCoreUtils’, ‘PSMatch’, ‘IRanges’, ‘vsn’, ‘affy’, ‘impute’, ‘pcaMethods’, ‘MALDIquant’, ‘mzID’, ‘scales’, ‘MLInterfaces’, ‘mclust’, ‘caret’, ‘e1071’, ‘sampling’, ‘kernlab’, ‘randomForest’, ‘proxy’, ‘FNN’, ‘hexbin’, ‘dendextend’, ‘mvtnorm’, ‘LaplacesDemon’, ‘mixtools’, ‘biomaRt’, ‘gtable’, ‘isoband’, ‘generics’, ‘tidyselect’, ‘futile.logger’, ‘snow’, ‘DEoptimR’, ‘bookdown’, ‘lazyeval’, ‘GlobalOptions’, ‘shape’, ‘colorspace’, ‘deldir’, ‘RcppEigen’, ‘spam’, ‘viridisLite’, ‘maps’, ‘hunspell’, ‘S4Vectors’, ‘Biobase’, ‘MSnbase’, ‘pRoloc’, ‘pRolocdata’, ‘lbfgs’, ‘ggplot2’, ‘dplyr’, ‘plyr’, ‘BiocParallel’, ‘robustbase’, ‘BiocStyle’, ‘ggalluvial’, ‘ggrepel’, ‘tidyr’, ‘circlize’, ‘RColorBrewer’, ‘gtools’, ‘gridExtra’, ‘coda’, ‘RcppArmadillo’, ‘BH’, ‘interp’, ‘fields’, ‘pheatmap’, ‘viridis’, ‘spelling’
+
+trying URL 'https://cloud.r-project.org/src/contrib/listenv_0.9.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/parallelly_1.42.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/future_1.34.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/globals_0.16.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/future.apply_1.11.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/numDeriv_2016.8-1.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/progressr_0.15.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/SQUAREM_2021.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/diagram_1.6.5.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/lava_1.8.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/bit_4.6.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocBaseUtils_1.9.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/matrixStats_1.5.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/modeltools_0.2-23.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/XVector_0.47.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/UCSC.utils_1.3.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/GenomeInfoDbData_1.2.14.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/abind_1.4-8.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/SparseArray_1.7.6.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/tzdb_0.5.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/prodlim_2024.06.25.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/timechange_0.3.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/bit64_4.6.0-1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/blob_1.2.4.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/plogr_0.2.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/png_0.1-8.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/Biostrings_2.75.4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/MultiAssayExperiment_1.33.9.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/AnnotationFilter_1.31.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/statmod_1.5.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/DBI_1.2.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/httr_1.4.7.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/MatrixGenerics_1.19.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/flexmix_2.3-20.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/prabclus_2.3-4.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/diptest_0.77-1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/assertthat_0.2.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/crosstalk_1.2.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/GenomicRanges_1.59.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/GenomeInfoDb_1.43.4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/S4Arrays_1.7.3.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/DelayedArray_0.33.6.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/data.table_1.17.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/clock_0.7.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/gower_1.0.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/hardhat_1.4.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/ipred_0.9-15.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/lubridate_1.9.4.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/sparsevctrs_0.3.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/timeDate_4041.110.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/RSQLite_2.3.9.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/KEGGREST_1.47.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/hms_1.1.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/dbplyr_2.5.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/filelock_1.0.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/formatR_1.14.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/ncdf4_1.23.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/Rhdf5lib_1.29.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/clue_0.3-66.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/igraph_2.1.4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/QFeatures_1.17.4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/limma_3.63.9.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/affyio_1.77.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/XML_3.99-0.18.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/doParallel_1.0.17.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/foreach_1.5.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/iterators_1.0.14.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/farver_2.1.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/labeling_0.4.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/munsell_0.5.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/annotate_1.85.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/gdata_3.0.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/pls_2.8-5.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/sfsmisc_1.1-20.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/genefilter_1.89.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/fpc_2.2-13.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/ggvis_0.4.9.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/gbm_2.2.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/hwriter_1.3.2.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/threejs_0.3.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/mlbench_2.1-6.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/SummarizedExperiment_1.37.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/ModelMetrics_1.2.2.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/pROC_1.18.5.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/recipes_1.2.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/reshape2_1.4.4.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/lpSolve_5.6.23.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/plotly_4.10.4.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/segmented_2.1-4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/AnnotationDbi_1.69.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/progress_1.2.3.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocFileCache_2.15.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/lambda.r_1.2.4.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/futile.options_1.0.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/dotCall64_1.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocGenerics_0.53.6.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/mzR_2.41.4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/ProtGenerics_1.39.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/MsCoreUtils_1.19.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/PSMatch_1.11.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/IRanges_2.41.3.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/vsn_3.75.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/affy_1.85.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/impute_1.81.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/pcaMethods_1.99.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/MALDIquant_1.22.3.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/mzID_1.45.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/scales_1.3.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/MLInterfaces_1.87.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/mclust_6.1.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/caret_7.0-1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/e1071_1.7-16.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/sampling_2.10.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/kernlab_0.9-33.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/randomForest_4.7-1.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/proxy_0.4-27.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/FNN_1.1.4.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/hexbin_1.28.5.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/dendextend_1.19.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/mvtnorm_1.3-3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/LaplacesDemon_16.1.6.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/mixtools_2.0.0.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/biomaRt_2.63.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/gtable_0.3.6.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/isoband_0.2.7.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/generics_0.1.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/tidyselect_1.2.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/futile.logger_1.4.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/snow_0.4-4.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/DEoptimR_1.1-3-1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/bookdown_0.42.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/lazyeval_0.2.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/GlobalOptions_0.1.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/shape_1.4.6.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/colorspace_2.1-1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/deldir_2.0-4.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/RcppEigen_0.3.4.0.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/spam_2.11-1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/viridisLite_0.4.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/maps_3.4.2.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/hunspell_3.0.5.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/S4Vectors_0.45.4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/Biobase_2.67.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/MSnbase_2.33.4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/pRoloc_1.47.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/experiment/src/contrib/pRolocdata_1.45.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/lbfgs_1.2.1.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/ggplot2_3.5.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/dplyr_1.1.4.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/plyr_1.8.9.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocParallel_1.41.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/robustbase_0.99-4-1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocStyle_2.35.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/ggalluvial_0.12.5.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/ggrepel_0.9.6.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/tidyr_1.3.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/circlize_0.4.16.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/RColorBrewer_1.1-3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/gtools_3.9.5.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/gridExtra_2.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/coda_0.19-4.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/RcppArmadillo_14.4.0-1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/BH_1.87.0-1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/interp_1.1-6.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/fields_16.3.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/pheatmap_1.0.12.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/viridis_0.6.5.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/spelling_2.3.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/bandle_1.11.0.tar.gz'
+* installing *source* package ‘listenv’ ...
+** this is package ‘listenv’ version ‘0.9.1’
+** package ‘listenv’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘listenv’ as ‘listenv_0.9.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (listenv)
+* installing *source* package ‘parallelly’ ...
+** this is package ‘parallelly’ version ‘1.42.0’
+** package ‘parallelly’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c 000.init.c -o 000.init.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c calc-serialized-size.c -o calc-serialized-size.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c test_tcp_port.c -o test_tcp_port.o
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o parallelly.so 000.init.o calc-serialized-size.o test_tcp_port.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-parallelly/00new/parallelly/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘parallelly’ as ‘parallelly_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (parallelly)
+* installing *source* package ‘globals’ ...
+** this is package ‘globals’ version ‘0.16.3’
+** package ‘globals’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘globals’ as ‘globals_0.16.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (globals)
+* installing *source* package ‘numDeriv’ ...
+** this is package ‘numDeriv’ version ‘2016.8-1.1’
+** package ‘numDeriv’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘numDeriv’ as ‘numDeriv_2016.8-1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (numDeriv)
+* installing *source* package ‘progressr’ ...
+** this is package ‘progressr’ version ‘0.15.1’
+** package ‘progressr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘progressr’ as ‘progressr_0.15.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (progressr)
+* installing *source* package ‘SQUAREM’ ...
+** this is package ‘SQUAREM’ version ‘2021.1’
+** package ‘SQUAREM’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SQUAREM’ as ‘SQUAREM_2021.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SQUAREM)
+* installing *source* package ‘bit’ ...
+** this is package ‘bit’ version ‘4.6.0’
+** package ‘bit’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c attrutil.c -o attrutil.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bit.c -o bit.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c chunkutil.c -o chunkutil.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c clone.c -o clone.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c integerutil.c -o integerutil.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c merge.c -o merge.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rle.c -o rle.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sort.c -o sort.o
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o bit.so attrutil.o bit.o chunkutil.o clone.o init.o integerutil.o merge.o rle.o sort.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-bit/00new/bit/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bit’ as ‘bit_4.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bit)
+* installing *source* package ‘BiocBaseUtils’ ...
+** this is package ‘BiocBaseUtils’ version ‘1.9.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocBaseUtils’ as ‘BiocBaseUtils_1.9.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocBaseUtils)
