@@ -230,7 +230,6 @@
   ],
   "HybridExpress": [],
   "ILoReg": [],
-  "IPO": [],
   "IntEREst": [],
   "InterCellar": [],
   "IsoformSwitchAnalyzeR": [],
@@ -445,8 +444,6 @@
   "cageminer": [
     "ggbio"
   ],
-  "canceR": [],
-  "cbaf": [],
   "cfTools": [
     "ExperimentHub"
   ],

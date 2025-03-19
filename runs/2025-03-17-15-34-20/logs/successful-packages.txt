@@ -1975,3 +1975,6 @@ SingleMoleculeFootprinting
 spatzie
 HiCDCPlus
 dmrseq
+canceR
+cbaf
+IPO
