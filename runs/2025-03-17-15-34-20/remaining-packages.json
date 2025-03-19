@@ -46,7 +46,6 @@
     "txdbmaker"
   ],
   "BASiCStan": [],
-  "BBCAnalyzer": [],
   "BLMA": [],
   "BOBaFIT": [
     "ggbio",
@@ -150,7 +149,6 @@
   "CellTrails": [],
   "CexoR": [],
   "ChAMP": [
-    "minfi",
     "DMRcate",
     "wateRmelon",
     "goseq",
@@ -216,7 +214,6 @@
   "DMRcate": [
     "ExperimentHub",
     "bsseq",
-    "minfi",
     "missMethyl",
     "Gviz",
     "biovizBase",
@@ -266,7 +263,6 @@
     "txdbmaker"
   ],
   "ENmix": [
-    "minfi",
     "ExperimentHub"
   ],
   "ERSSA": [],
@@ -442,22 +438,19 @@
   "MADSEQ": [],
   "MAGAR": [
     "RnBeads",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "MAIT": [
     "CAMERA"
   ],
   "MDTS": [],
   "MEAL": [
-    "minfi",
     "Gviz",
     "missMethyl",
     "biovizBase",
     "methylumi"
   ],
   "MEAT": [
-    "minfi",
     "wateRmelon",
     "methylumi",
     "lumi"
@@ -508,9 +501,7 @@
     "sesame",
     "ExperimentHub"
   ],
-  "MethylAid": [
-    "minfi"
-  ],
+  "MethylAid": [],
   "MicrobiomeProfiler": [
     "clusterProfiler",
     "enrichplot",
@@ -518,8 +509,7 @@
   ],
   "MineICA": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "MinimumDistance": [],
   "Moonlight2R": [
@@ -632,9 +622,7 @@
   "REDseq": [
     "ChIPpeakAnno"
   ],
-  "REMP": [
-    "minfi"
-  ],
+  "REMP": [],
   "RESOLVE": [
     "MutationalPatterns"
   ],
@@ -716,8 +704,7 @@
   ],
   "Rmmquant": [],
   "RnBeads": [
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "RnaSeqSampleSize": [
     "recount",
@@ -853,8 +840,7 @@
   ],
   "arrayMvout": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "atSNP": [
     "motifStack"
@@ -863,7 +849,6 @@
   "bandle": [],
   "bigmelon": [
     "wateRmelon",
-    "minfi",
     "methylumi",
     "lumi"
   ],
@@ -924,7 +909,6 @@
     "RTCGAToolbox",
     "TCGAutils"
   ],
-  "celda": [],
   "cfDNAPro": [],
   "cfTools": [
     "ExperimentHub"
@@ -981,9 +965,7 @@
   "consensusDE": [
     "RUVSeq"
   ],
-  "conumee": [
-    "minfi"
-  ],
+  "conumee": [],
   "coseq": [
     "HTSFilter"
   ],
@@ -1042,12 +1024,8 @@
     "enrichplot"
   ],
   "decompTumor2Sig": [],
-  "decontX": [
-    "celda"
-  ],
-  "deconvR": [
-    "minfi"
-  ],
+  "decontX": [],
+  "deconvR": [],
   "deepSNV": [],
   "demuxSNP": [],
   "derfinder": [
@@ -1083,7 +1061,6 @@
   "epidecodeR": [],
   "epigraHMM": [],
   "epimutacions": [
-    "minfi",
     "Gviz",
     "ExperimentHub",
     "biovizBase",
@@ -1148,15 +1125,12 @@
   "fcScan": [],
   "ffpe": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "flagme": [
     "CAMERA"
   ],
-  "funtooNorm": [
-    "minfi"
-  ],
+  "funtooNorm": [],
   "gDNAx": [
     "GenomicFiles"
   ],
@@ -1217,12 +1191,10 @@
   "hypeR": [],
   "iCheck": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "iNETgrate": [
     "Pigengene",
-    "minfi",
     "OrganismDbi",
     "clusterProfiler",
     "ReactomePA",
@@ -1273,8 +1245,7 @@
   "lineagespot": [],
   "lisaClust": [],
   "lumi": [
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "m6Aboost": [
     "ExperimentHub"
@@ -1317,7 +1288,6 @@
     "ExperimentHub"
   ],
   "methylCC": [
-    "minfi",
     "bsseq"
   ],
   "methylGSA": [
@@ -1325,7 +1295,6 @@
     "missMethyl",
     "DOSE",
     "enrichplot",
-    "minfi",
     "methylumi"
   ],
   "methylInheritance": [],
@@ -1339,15 +1308,12 @@
   ],
   "methylclock": [
     "ExperimentHub",
-    "minfi",
     "ExperimentHubData",
     "AnnotationHubData",
     "OrganismDbi",
     "txdbmaker"
   ],
-  "methylumi": [
-    "minfi"
-  ],
+  "methylumi": [],
   "miRSM": [
     "clusterProfiler",
     "ReactomePA",
@@ -1364,10 +1330,8 @@
   "miaViz": [
     "mia"
   ],
-  "minfi": [],
   "missMethyl": [
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "mist": [],
   "mitoClone2": [
@@ -1481,9 +1445,7 @@
   "puma": [],
   "qpgraph": [],
   "qsea": [],
-  "quantro": [
-    "minfi"
-  ],
+  "quantro": [],
   "rCGH": [],
   "rGADEM": [],
   "rTRMui": [],
@@ -1492,9 +1454,7 @@
     "derfinder",
     "GenomicFiles"
   ],
-  "recountmethylation": [
-    "minfi"
-  ],
+  "recountmethylation": [],
   "recoup": [
     "txdbmaker"
   ],
@@ -1576,12 +1536,8 @@
   "sesame": [
     "ExperimentHub"
   ],
-  "shinyMethyl": [
-    "minfi"
-  ],
-  "shinyepico": [
-    "minfi"
-  ],
+  "shinyMethyl": [],
+  "shinyepico": [],
   "signatureSearch": [
     "ExperimentHub",
     "clusterProfiler",
@@ -1591,8 +1547,7 @@
   "signeR": [],
   "singleCellTK": [
     "ExperimentHub",
-    "scMerge",
-    "celda"
+    "scMerge"
   ],
   "sitadela": [
     "txdbmaker"
@@ -1600,7 +1555,6 @@
   "skewr": [
     "methylumi",
     "wateRmelon",
-    "minfi",
     "lumi"
   ],
   "spatialFDA": [
@@ -1678,12 +1632,10 @@
   ],
   "wateRmelon": [
     "methylumi",
-    "lumi",
-    "minfi"
+    "lumi"
   ],
   "wiggleplotr": [],
   "yarn": [
-    "quantro",
-    "minfi"
+    "quantro"
   ]
 }

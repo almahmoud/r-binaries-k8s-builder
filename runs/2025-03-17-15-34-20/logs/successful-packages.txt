@@ -1697,3 +1697,6 @@ rnaEditr
 DEXSeq
 regioneR
 topdownr
+BBCAnalyzer
+celda
+minfi

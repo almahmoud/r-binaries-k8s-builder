@@ -1,5 +1,11 @@
-ChIPpeakAnno
-RgnTX
-UMI4Cats
-annotatr
-regioneReloaded
+MethylAid
+REMP
+conumee
+decontX
+deconvR
+funtooNorm
+methylumi
+quantro
+recountmethylation
+shinyMethyl
+shinyepico
