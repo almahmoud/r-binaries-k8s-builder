@@ -654,10 +654,7 @@
     "msmsTests",
     "msmsEDA"
   ],
-  "MSstatsQC": [],
-  "MSstatsQCgui": [
-    "MSstatsQC"
-  ],
+  "MSstatsQCgui": [],
   "MatrixQCvis": [
     "ExperimentHub"
   ],
@@ -807,7 +804,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "PrInCE": [],
   "Prostar": [
     "DAPAR"
   ],
@@ -1176,7 +1172,6 @@
     "motifStack",
     "TFBSTools"
   ],
-  "atena": [],
   "attract": [],
   "bambu": [],
   "bandle": [

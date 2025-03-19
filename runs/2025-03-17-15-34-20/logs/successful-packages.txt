@@ -1568,3 +1568,6 @@ peco
 GOstats
 MMDiff2
 tenXplore
+atena
+MSstatsQC
+PrInCE
