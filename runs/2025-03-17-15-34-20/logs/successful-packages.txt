@@ -1394,3 +1394,5 @@ oposSOM
 Rbec
 regionalpcs
 msqrob2
+autonomics
+xcore

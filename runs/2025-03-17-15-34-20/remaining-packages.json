@@ -2085,7 +2085,6 @@
     "GOstats",
     "Category"
   ],
-  "autonomics": [],
   "ballgown": [
     "sva",
     "rtracklayer"
@@ -4178,7 +4177,6 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "xcore": [],
   "xenLite": [
     "TENxIO"
   ],
