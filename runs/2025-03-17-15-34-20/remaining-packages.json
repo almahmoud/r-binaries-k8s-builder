@@ -1469,7 +1469,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "ProteoMM": [],
   "PureCN": [
     "VariantAnnotation",
     "GenomicFeatures",
