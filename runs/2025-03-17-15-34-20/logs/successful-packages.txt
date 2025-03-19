@@ -1730,3 +1730,5 @@ methylumi
 pairedGSEA
 HelloRanges
 recountmethylation
+MADSEQ
+MethylAid
