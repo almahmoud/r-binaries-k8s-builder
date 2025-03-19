@@ -472,7 +472,6 @@
     "enrichplot",
     "DOSE"
   ],
-  "MineICA": [],
   "MinimumDistance": [],
   "Moonlight2R": [
     "clusterProfiler",
@@ -1075,7 +1074,6 @@
     "ExperimentHub"
   ],
   "hypeR": [],
-  "iCheck": [],
   "iNETgrate": [
     "Pigengene",
     "OrganismDbi",
@@ -1236,7 +1234,6 @@
     "biovizBase"
   ],
   "mumosa": [],
-  "musicatk": [],
   "mygene": [
     "txdbmaker"
   ],

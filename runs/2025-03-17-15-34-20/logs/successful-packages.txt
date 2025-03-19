@@ -1779,3 +1779,6 @@ ffpe
 metagene2
 missMethyl
 signeR
+iCheck
+MineICA
+musicatk
