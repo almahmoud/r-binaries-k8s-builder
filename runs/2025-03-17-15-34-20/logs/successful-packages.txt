@@ -2007,3 +2007,6 @@ AnnotationHubData
 ggbio
 magpie
 RNAmodR.RiboMethSeq
+iSEEtree
+recount
+uncoverappLib

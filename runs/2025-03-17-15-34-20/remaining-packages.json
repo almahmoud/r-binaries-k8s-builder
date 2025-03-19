@@ -305,9 +305,7 @@
   ],
   "R3CPET": [],
   "REBET": [],
-  "RNAAgeCalc": [
-    "recount"
-  ],
+  "RNAAgeCalc": [],
   "RadioGx": [
     "CoreGx"
   ],
@@ -328,9 +326,7 @@
   ],
   "ReportingTools": [],
   "RiboProfiling": [],
-  "RnaSeqSampleSize": [
-    "recount"
-  ],
+  "RnaSeqSampleSize": [],
   "SMITE": [],
   "SOMNiBUS": [],
   "SVMDO": [
@@ -533,7 +529,6 @@
   "iSEEhub": [
     "ExperimentHub"
   ],
-  "iSEEtree": [],
   "ideal": [
     "mosdef",
     "clusterProfiler",
@@ -623,12 +618,9 @@
     "enrichplot",
     "DOSE"
   ],
-  "psichomics": [
-    "recount"
-  ],
+  "psichomics": [],
   "puma": [],
   "rGADEM": [],
-  "recount": [],
   "regionReport": [
     "DEFormats"
   ],
@@ -674,7 +666,6 @@
     "ExperimentHub"
   ],
   "trigger": [],
-  "uncoverappLib": [],
   "visiumStitched": [
     "ExperimentHub"
   ],
