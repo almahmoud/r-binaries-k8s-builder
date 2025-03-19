@@ -143,7 +143,6 @@
   "CexoR": [],
   "ChAMP": [
     "DMRcate",
-    "wateRmelon",
     "goseq",
     "ExperimentHub",
     "bsseq",
@@ -384,9 +383,7 @@
     "CAMERA"
   ],
   "IVAS": [],
-  "InPAS": [
-    "cleanUpdTSeq"
-  ],
+  "InPAS": [],
   "IntEREst": [
     "txdbmaker"
   ],
@@ -416,9 +413,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "MEAT": [
-    "wateRmelon"
-  ],
+  "MEAT": [],
   "MEB": [],
   "MGFM": [],
   "MGFR": [],
@@ -760,9 +755,7 @@
   ],
   "bambu": [],
   "bandle": [],
-  "bigmelon": [
-    "wateRmelon"
-  ],
+  "bigmelon": [],
   "bioCancer": [
     "cBioPortalData",
     "DOSE",
@@ -841,7 +834,6 @@
   ],
   "circRNAprofiler": [],
   "cisPath": [],
-  "cleanUpdTSeq": [],
   "clipper": [
     "qpgraph"
   ],
@@ -1388,9 +1380,7 @@
   "sitadela": [
     "txdbmaker"
   ],
-  "skewr": [
-    "wateRmelon"
-  ],
+  "skewr": [],
   "spatialFDA": [
     "ExperimentHub"
   ],
@@ -1451,6 +1441,5 @@
   "vulcan": [
     "DiffBind"
   ],
-  "wateRmelon": [],
   "wiggleplotr": []
 }
