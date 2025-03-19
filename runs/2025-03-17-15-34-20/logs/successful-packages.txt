@@ -1801,3 +1801,7 @@ Rmmquant
 tRNAscanImport
 MOSim
 tricycle
+epigraHMM
+periodicDNA
+qsea
+rCGH

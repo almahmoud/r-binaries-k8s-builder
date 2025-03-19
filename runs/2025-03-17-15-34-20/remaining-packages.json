@@ -912,7 +912,6 @@
     "DOSE"
   ],
   "epidecodeR": [],
-  "epigraHMM": [],
   "epimutacions": [
     "Gviz",
     "ExperimentHub",
@@ -1213,11 +1212,8 @@
     "enrichplot",
     "txdbmaker"
   ],
-  "periodicDNA": [],
   "pipeFrame": [],
-  "preciseTAD": [
-    "rCGH"
-  ],
+  "preciseTAD": [],
   "primirTSS": [
     "GenomicScores",
     "Gviz",
@@ -1240,8 +1236,6 @@
   ],
   "puma": [],
   "qpgraph": [],
-  "qsea": [],
-  "rCGH": [],
   "rGADEM": [],
   "raer": [],
   "recount": [
