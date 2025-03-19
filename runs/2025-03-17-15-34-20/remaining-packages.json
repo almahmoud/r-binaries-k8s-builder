@@ -731,7 +731,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "ExperimentSubset": [],
   "FEAST": [
     "TSCAN"
   ],
@@ -3193,7 +3192,6 @@
     "scater",
     "scuttle"
   ],
-  "lemur": [],
   "lineagespot": [
     "VariantAnnotation",
     "rtracklayer",
@@ -3922,7 +3920,6 @@
     "scuttle",
     "rtracklayer"
   ],
-  "scDiagnostics": [],
   "scDotPlot": [
     "scater",
     "scuttle"

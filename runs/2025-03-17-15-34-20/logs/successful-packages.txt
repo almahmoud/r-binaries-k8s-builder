@@ -1343,3 +1343,6 @@ tidySingleCellExperiment
 TissueEnrich
 TMSig
 zellkonverter
+ExperimentSubset
+lemur
+scDiagnostics
