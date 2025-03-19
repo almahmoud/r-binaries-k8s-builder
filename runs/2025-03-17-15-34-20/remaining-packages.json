@@ -17,7 +17,6 @@
   "Anaquin": [],
   "AneuFinder": [],
   "BLMA": [],
-  "BOBaFIT": [],
   "BUSseq": [],
   "BaalChIP": [],
   "BasicSTARRseq": [],
@@ -30,7 +29,6 @@
   "BloodGen3Module": [
     "ExperimentHub"
   ],
-  "CAGEr": [],
   "CBNplot": [
     "clusterProfiler",
     "enrichplot",
@@ -157,7 +155,6 @@
     "ExperimentHub"
   ],
   "FLAMES": [],
-  "FRASER": [],
   "GARS": [
     "MLSeq"
   ],
