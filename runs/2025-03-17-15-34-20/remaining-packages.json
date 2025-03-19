@@ -238,9 +238,7 @@
   "IPO": [],
   "IntEREst": [],
   "InterCellar": [],
-  "IsoformSwitchAnalyzeR": [
-    "tximeta"
-  ],
+  "IsoformSwitchAnalyzeR": [],
   "LACE": [],
   "LOBSTAHS": [],
   "LRcell": [
@@ -741,7 +739,6 @@
     "epivizrData"
   ],
   "scanMiRApp": [],
-  "scone": [],
   "scruff": [
     "ggbio"
   ],
@@ -775,7 +772,6 @@
   "spatzie": [],
   "standR": [],
   "trigger": [],
-  "tximeta": [],
   "uncoverappLib": [],
   "visiumStitched": [
     "ExperimentHub"

@@ -2104,3 +2104,4 @@ magpie
 FRASER
 chevreulShiny
 mitoClone2
+IsoformSwitchAnalyzeR

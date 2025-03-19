@@ -1966,3 +1966,5 @@ bigmelon
 deepSNV
 recoup
 Ularcirc
+scone
+tximeta
