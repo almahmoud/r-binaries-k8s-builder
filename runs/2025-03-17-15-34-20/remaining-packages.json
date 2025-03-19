@@ -698,7 +698,6 @@
     "enrichplot",
     "DOSE"
   ],
-  "selectKSigs": [],
   "seqArchRplus": [
     "ChIPseeker",
     "clusterProfiler",
@@ -720,7 +719,6 @@
   "spatialFDA": [
     "ExperimentHub"
   ],
-  "standR": [],
   "trigger": [],
   "uncoverappLib": [],
   "visiumStitched": [

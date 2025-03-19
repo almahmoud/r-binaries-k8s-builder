@@ -1994,3 +1994,5 @@ LOBSTAHS
 BgeeCall
 geneAttribution
 methInheritSim
+selectKSigs
+standR
