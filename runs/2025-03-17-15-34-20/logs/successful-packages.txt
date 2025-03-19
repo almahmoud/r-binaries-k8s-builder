@@ -1928,3 +1928,5 @@ RCAS
 OrganismDbi
 Rhisat2
 RiboDiPA
+MAIT
+QuasR

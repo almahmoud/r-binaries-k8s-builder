@@ -259,7 +259,6 @@
   "MACSr": [
     "ExperimentHub"
   ],
-  "MAIT": [],
   "MDTS": [],
   "MGFM": [],
   "MGFR": [],
@@ -352,7 +351,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "QuasR": [],
   "R3CPET": [
     "ggbio"
   ],
@@ -402,9 +400,7 @@
   "SeqSQC": [
     "ExperimentHub"
   ],
-  "SingleMoleculeFootprinting": [
-    "QuasR"
-  ],
+  "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [
     "ggbio"
   ],

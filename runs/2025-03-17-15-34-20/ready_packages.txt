@@ -1,8 +1,1 @@
-AnnotationHubData
-CircSeqAlignTk
-GSReg
-epivizrData
-erma
-ggbio
-mCSEA
-uncoverappLib
+SingleMoleculeFootprinting
