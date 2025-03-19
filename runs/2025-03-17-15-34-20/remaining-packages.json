@@ -12,8 +12,7 @@
   "ASURAT": [],
   "ASpli": [],
   "ATACseqQC": [
-    "GenomicScores",
-    "motifStack"
+    "GenomicScores"
   ],
   "ATACseqTFEA": [],
   "AffiXcan": [],
@@ -106,7 +105,6 @@
   "CellBarcode": [],
   "CellBench": [],
   "CellTrails": [],
-  "CexoR": [],
   "ChAMP": [
     "DMRcate",
     "goseq",
@@ -360,8 +358,7 @@
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
-    "GenomicScores",
-    "motifStack"
+    "GenomicScores"
   ],
   "NanoMethViz": [],
   "NewWave": [],
@@ -526,9 +523,7 @@
     "GenomicScores",
     "OrganismDbi"
   ],
-  "atSNP": [
-    "motifStack"
-  ],
+  "atSNP": [],
   "bandle": [],
   "bigmelon": [],
   "bioCancer": [
@@ -621,9 +616,7 @@
   ],
   "cummeRbund": [],
   "customProDB": [],
-  "dagLogo": [
-    "motifStack"
-  ],
+  "dagLogo": [],
   "dar": [],
   "debrowser": [
     "DOSE",
@@ -838,10 +831,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "motifStack": [],
-  "motifbreakR": [
-    "motifStack"
-  ],
+  "motifbreakR": [],
   "msgbsR": [
     "ggbio",
     "OrganismDbi"
@@ -905,9 +895,7 @@
   "rgsepd": [
     "goseq"
   ],
-  "ribosomeProfilingQC": [
-    "motifStack"
-  ],
+  "ribosomeProfilingQC": [],
   "rsbml": [],
   "sampleClassifier": [
     "MGFM",

@@ -1865,3 +1865,5 @@ lisaClust
 RUVSeq
 karyoploteR
 mariner
+CexoR
+motifStack

@@ -2071,3 +2071,7 @@ consensusDE
 scone
 standR
 multicrispr
+atSNP
+dagLogo
+motifbreakR
+ribosomeProfilingQC

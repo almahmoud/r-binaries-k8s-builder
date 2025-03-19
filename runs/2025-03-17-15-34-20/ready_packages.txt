@@ -1,1 +1,4 @@
-multicrispr
+atSNP
+dagLogo
+motifbreakR
+ribosomeProfilingQC
