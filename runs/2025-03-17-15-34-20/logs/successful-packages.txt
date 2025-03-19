@@ -2003,3 +2003,7 @@ gDNAx
 GSReg
 rgsepd
 metaMS
+AnnotationHubData
+ggbio
+magpie
+RNAmodR.RiboMethSeq

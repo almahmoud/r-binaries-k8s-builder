@@ -1,9 +1,7 @@
 {
   "ADAMgui": [],
   "ADImpute": [],
-  "AHMassBank": [
-    "AnnotationHubData"
-  ],
+  "AHMassBank": [],
   "AMARETTO": [
     "ExperimentHub"
   ],
@@ -15,16 +13,12 @@
   "AffiXcan": [],
   "AgiMicroRna": [
     "affycoretools",
-    "ReportingTools",
-    "ggbio"
+    "ReportingTools"
   ],
   "Anaquin": [],
   "AneuFinder": [],
-  "AnnotationHubData": [],
   "BLMA": [],
-  "BOBaFIT": [
-    "ggbio"
-  ],
+  "BOBaFIT": [],
   "BUSseq": [],
   "BaalChIP": [],
   "BasicSTARRseq": [],
@@ -37,9 +31,7 @@
   "BloodGen3Module": [
     "ExperimentHub"
   ],
-  "CAFE": [
-    "ggbio"
-  ],
+  "CAFE": [],
   "CAGEr": [],
   "CBNplot": [
     "clusterProfiler",
@@ -127,9 +119,7 @@
     "ExperimentHub"
   ],
   "DOSE": [],
-  "Damsel": [
-    "ggbio"
-  ],
+  "Damsel": [],
   "DeMixT": [],
   "DeepTarget": [
     "ExperimentHub"
@@ -169,12 +159,9 @@
   ],
   "ExperimentHub": [],
   "ExperimentHubData": [
-    "AnnotationHubData",
     "ExperimentHub"
   ],
-  "FLAMES": [
-    "ggbio"
-  ],
+  "FLAMES": [],
   "FRASER": [],
   "GARS": [
     "MLSeq"
@@ -202,9 +189,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "GenomicOZone": [
-    "ggbio"
-  ],
+  "GenomicOZone": [],
   "GenomicScores": [],
   "GloScope": [],
   "HTSFilter": [],
@@ -318,14 +303,11 @@
     "DOSE",
     "enrichplot"
   ],
-  "R3CPET": [
-    "ggbio"
-  ],
+  "R3CPET": [],
   "REBET": [],
   "RNAAgeCalc": [
     "recount"
   ],
-  "RNAmodR.RiboMethSeq": [],
   "RadioGx": [
     "CoreGx"
   ],
@@ -344,12 +326,8 @@
   "RegEnrich": [
     "DOSE"
   ],
-  "ReportingTools": [
-    "ggbio"
-  ],
-  "RiboProfiling": [
-    "ggbio"
-  ],
+  "ReportingTools": [],
+  "RiboProfiling": [],
   "RnaSeqSampleSize": [
     "recount"
   ],
@@ -361,9 +339,7 @@
   "SeqSQC": [
     "ExperimentHub"
   ],
-  "SomaticSignatures": [
-    "ggbio"
-  ],
+  "SomaticSignatures": [],
   "SpectralTAD": [
     "HiCcompare"
   ],
@@ -393,15 +369,13 @@
     "CoreGx"
   ],
   "YAPSA": [
-    "SomaticSignatures",
-    "ggbio"
+    "SomaticSignatures"
   ],
   "adductomicsR": [
     "ExperimentHub"
   ],
   "affycoretools": [
-    "ReportingTools",
-    "ggbio"
+    "ReportingTools"
   ],
   "appreci8R": [
     "GenomicScores"
@@ -423,9 +397,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "cageminer": [
-    "ggbio"
-  ],
+  "cageminer": [],
   "cfTools": [
     "ExperimentHub"
   ],
@@ -473,9 +445,7 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "derfinderPlot": [
-    "ggbio"
-  ],
+  "derfinderPlot": [],
   "easier": [
     "ExperimentHub"
   ],
@@ -538,7 +508,6 @@
     "enrichplot"
   ],
   "genoCN": [],
-  "ggbio": [],
   "gmapR": [],
   "goSorensen": [
     "clusterProfiler",
@@ -571,9 +540,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "intansv": [
-    "ggbio"
-  ],
+  "intansv": [],
   "isomiRs": [
     "DEGreport"
   ],
@@ -585,7 +552,6 @@
     "ExperimentHub"
   ],
   "mCSEA": [],
-  "magpie": [],
   "mastR": [
     "ExperimentHub"
   ],
@@ -605,8 +571,7 @@
   "methylSig": [],
   "methylclock": [
     "ExperimentHub",
-    "ExperimentHubData",
-    "AnnotationHubData"
+    "ExperimentHubData"
   ],
   "miRSM": [
     "clusterProfiler",
@@ -625,9 +590,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "msgbsR": [
-    "ggbio"
-  ],
+  "msgbsR": [],
   "msmsTests": [],
   "multiHiCcompare": [
     "HiCcompare"
@@ -683,9 +646,7 @@
     "epivizr",
     "epivizrData"
   ],
-  "scruff": [
-    "ggbio"
-  ],
+  "scruff": [],
   "segmenter": [
     "ChIPseeker",
     "enrichplot",
