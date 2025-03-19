@@ -699,7 +699,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "FEAST": [],
   "FLAMES": [
     "bambu",
     "DropletUtils",
@@ -781,7 +780,6 @@
   "GSEABenchmarkeR": [
     "ExperimentHub"
   ],
-  "GSRI": [],
   "GSReg": [
     "GenomicFeatures",
     "rtracklayer",
@@ -3587,7 +3585,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "ramwas": [],
   "recount": [
     "derfinder",
     "rtracklayer",
@@ -3923,7 +3920,6 @@
   "soGGi": [
     "rtracklayer"
   ],
-  "sosta": [],
   "spaSim": [],
   "spatialDE": [],
   "spatialFDA": [
