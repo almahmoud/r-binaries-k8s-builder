@@ -1387,3 +1387,5 @@ alabaster.mae
 hdxmsqc
 concordexR
 MoleculeExperiment
+genefilter
+oligo
