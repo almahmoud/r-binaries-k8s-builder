@@ -787,7 +787,6 @@
   "SpliceWiz": [
     "ExperimentHub"
   ],
-  "SplicingGraphs": [],
   "StructuralVariantAnnotation": [],
   "TADCompare": [
     "HiCcompare"
@@ -1654,7 +1653,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "spiky": [],
   "spillR": [],
   "splatter": [],
   "spoon": [],

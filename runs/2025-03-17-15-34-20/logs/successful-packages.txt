@@ -1686,3 +1686,5 @@ GenomicInteractionNodes
 plyranges
 signifinder
 VariantAnnotation
+spiky
+SplicingGraphs
