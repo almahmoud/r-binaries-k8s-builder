@@ -1655,3 +1655,5 @@ ptairMS
 dreamlet
 synapter
 xcms
+CRISPRseek
+qPLEXanalyzer

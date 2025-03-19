@@ -156,7 +156,6 @@
   ],
   "CODEX": [],
   "COTAN": [],
-  "CRISPRseek": [],
   "CSSQ": [],
   "CTdata": [
     "ExperimentHub"
@@ -402,7 +401,6 @@
     "txdbmaker"
   ],
   "GUIDEseq": [
-    "CRISPRseek",
     "ChIPpeakAnno",
     "regioneR"
   ],
@@ -1685,7 +1683,6 @@
     "HiCcompare"
   ],
   "multicrispr": [
-    "CRISPRseek",
     "karyoploteR",
     "plyranges",
     "regioneR",
@@ -1786,7 +1783,6 @@
     "VariantAnnotation"
   ],
   "puma": [],
-  "qPLEXanalyzer": [],
   "qpgraph": [],
   "qsea": [],
   "quantro": [
