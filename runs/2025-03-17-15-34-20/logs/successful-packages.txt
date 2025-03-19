@@ -1453,3 +1453,9 @@ MultiBaC
 scp
 smoppix
 VisiumIO
+ASICS
+BSgenome
+ChromHeatMap
+scider
+spatialHeatmap
+TOP
