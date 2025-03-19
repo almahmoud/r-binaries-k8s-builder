@@ -1592,3 +1592,6 @@ bnbc
 categoryCompare
 ORFhunteR
 soGGi
+batchelor
+Motif2Site
+qsvaR

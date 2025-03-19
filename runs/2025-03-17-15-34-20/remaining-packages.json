@@ -240,9 +240,7 @@
   "ChIPseqR": [
     "HilbertVis"
   ],
-  "ChromSCape": [
-    "batchelor"
-  ],
+  "ChromSCape": [],
   "CircSeqAlignTk": [
     "Rhisat2",
     "txdbmaker",
@@ -699,7 +697,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "Motif2Site": [],
   "MotifPeeker": [],
   "MouseFM": [],
   "MsDataHub": [
@@ -1157,7 +1154,6 @@
   "bandle": [
     "pRoloc"
   ],
-  "batchelor": [],
   "bedbaser": [],
   "bigmelon": [
     "wateRmelon",
@@ -1251,18 +1247,15 @@
   "chevreulPlot": [
     "chevreulProcess",
     "wiggleplotr",
-    "batchelor",
     "ensembldb"
   ],
   "chevreulProcess": [
-    "batchelor",
     "ensembldb"
   ],
   "chevreulShiny": [
     "chevreulProcess",
     "chevreulPlot",
     "wiggleplotr",
-    "batchelor",
     "ensembldb"
   ],
   "chimeraviz": [
@@ -1892,9 +1885,7 @@
     "VariantAnnotation",
     "ensembldb"
   ],
-  "mumosa": [
-    "batchelor"
-  ],
+  "mumosa": [],
   "muscat": [],
   "musicatk": [
     "VariantAnnotation",
@@ -1999,7 +1990,6 @@
   "qPLEXanalyzer": [],
   "qpgraph": [],
   "qsea": [],
-  "qsvaR": [],
   "quantro": [
     "minfi",
     "bumphunter"
@@ -2075,8 +2065,7 @@
     "SingleCellSignalR"
   ],
   "scMerge": [
-    "M3Drop",
-    "batchelor"
+    "M3Drop"
   ],
   "scPipe": [],
   "scRNAseqApp": [],
@@ -2161,7 +2150,6 @@
     "ensembldb"
   ],
   "singleCellTK": [
-    "batchelor",
     "ExperimentHub",
     "ensembldb",
     "scMerge",
