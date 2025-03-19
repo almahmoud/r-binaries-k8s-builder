@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2050 packages built successfully
+- 2051 packages built successfully
 - 10 packages failed to build
-- 214 packages not yet processed
+- 213 packages not yet processed
 
 ## Failed Builds (10)
 | Package                                                                          | Status   | Log                                    | BBS Status                                                                | Failure Reasons                 |
@@ -22,7 +22,7 @@
 | [rGADEM](https://bioconductor.org/packages/3.21/bioc/html/rGADEM.html)           | Failed   | [Log](logs/rGADEM/build-fail.log)      | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/rGADEM)    | Build failed with unknown error |
 | [trigger](https://bioconductor.org/packages/3.21/bioc/html/trigger.html)         | Failed   | [Log](logs/trigger/build-fail.log)     | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/trigger)   | Build failed with unknown error |
 
-## Successfully Built (2050)
+## Successfully Built (2051)
 | Package                                                                                                          | Status   | Log                                                       | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.21/bioc/html/ABSSeq.html)                                           | Built    | [Log](logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ABSSeq)                      |
@@ -989,6 +989,7 @@
 | [affyILM](https://bioconductor.org/packages/3.21/bioc/html/affyILM.html)                                         | Built    | [Log](logs/affyILM/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/affyILM)                     |
 | [affyPLM](https://bioconductor.org/packages/3.21/bioc/html/affyPLM.html)                                         | Built    | [Log](logs/affyPLM/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/affyPLM)                     |
 | [affycomp](https://bioconductor.org/packages/3.21/bioc/html/affycomp.html)                                       | Built    | [Log](logs/affycomp/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/affycomp)                    |
+| [affycoretools](https://bioconductor.org/packages/3.21/bioc/html/affycoretools.html)                             | Built    | [Log](logs/affycoretools/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/affycoretools)               |
 | [affyio](https://bioconductor.org/packages/3.21/bioc/html/affyio.html)                                           | Built    | [Log](logs/affyio/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/affyio)                      |
 | [affylmGUI](https://bioconductor.org/packages/3.21/bioc/html/affylmGUI.html)                                     | Built    | [Log](logs/affylmGUI/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/affylmGUI)                   |
 | [aggregateBioVar](https://bioconductor.org/packages/3.21/bioc/html/aggregateBioVar.html)                         | Built    | [Log](logs/aggregateBioVar/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/aggregateBioVar)             |
@@ -2076,7 +2077,7 @@
 | [zitools](https://bioconductor.org/packages/3.21/bioc/html/zitools.html)                                         | Built    | [Log](logs/zitools/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/zitools)                     |
 | [zlibbioc](https://bioconductor.org/packages/3.21/bioc/html/zlibbioc.html)                                       | Built    | [Log](logs/zlibbioc/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/zlibbioc)                    |
 
-## Not Yet Processed (214)
+## Not Yet Processed (213)
 | Package                                                                                                | Status      |
 |--------------------------------------------------------------------------------------------------------|-------------|
 | [ADAMgui](https://bioconductor.org/packages/3.21/bioc/html/ADAMgui.html)                               | Unprocessed |
@@ -2220,7 +2221,6 @@
 | [VariantFiltering](https://bioconductor.org/packages/3.21/bioc/html/VariantFiltering.html)             | Unprocessed |
 | [Xeva](https://bioconductor.org/packages/3.21/bioc/html/Xeva.html)                                     | Unprocessed |
 | [adductomicsR](https://bioconductor.org/packages/3.21/bioc/html/adductomicsR.html)                     | Unprocessed |
-| [affycoretools](https://bioconductor.org/packages/3.21/bioc/html/affycoretools.html)                   | Unprocessed |
 | [appreci8R](https://bioconductor.org/packages/3.21/bioc/html/appreci8R.html)                           | Unprocessed |
 | [bioCancer](https://bioconductor.org/packages/3.21/bioc/html/bioCancer.html)                           | Unprocessed |
 | [biscuiteer](https://bioconductor.org/packages/3.21/bioc/html/biscuiteer.html)                         | Unprocessed |
