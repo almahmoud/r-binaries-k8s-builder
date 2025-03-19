@@ -184,9 +184,7 @@
   "FLAMES": [
     "ggbio"
   ],
-  "FRASER": [
-    "OUTRIDER"
-  ],
+  "FRASER": [],
   "GARS": [
     "MLSeq"
   ],
@@ -279,7 +277,6 @@
   ],
   "MetaboSignal": [
     "hpar",
-    "mygene",
     "ExperimentHub"
   ],
   "MethReg": [
@@ -314,7 +311,6 @@
     "GenomicScores"
   ],
   "NewWave": [],
-  "OUTRIDER": [],
   "OmaDB": [],
   "OncoScore": [],
   "OutSplice": [],
@@ -375,7 +371,6 @@
   "ReportingTools": [
     "ggbio"
   ],
-  "RiboCrypt": [],
   "RiboProfiling": [
     "ggbio"
   ],
@@ -705,7 +700,6 @@
     "HiCcompare"
   ],
   "multicrispr": [],
-  "mygene": [],
   "ncGTW": [],
   "octad": [
     "ExperimentHub"
