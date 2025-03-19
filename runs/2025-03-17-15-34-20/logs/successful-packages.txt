@@ -1511,3 +1511,4 @@ simPIC
 xCell2
 HiCool
 tidySpatialExperiment
+ChIPXpress
