@@ -1837,3 +1837,4 @@ netSmooth
 gmoviz
 MatrixRider
 traseR
+CleanUpRNAseq
