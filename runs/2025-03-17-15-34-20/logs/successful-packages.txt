@@ -1543,3 +1543,5 @@ imcRtools
 RJMCMCNucleosomes
 roar
 SplineDV
+rifiComparative
+scater
