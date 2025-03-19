@@ -262,7 +262,6 @@
   "CNEr": [
     "rtracklayer"
   ],
-  "CNTools": [],
   "CNVRanger": [],
   "CNVfilteR": [
     "regioneR",
@@ -2263,9 +2262,7 @@
   "cfTools": [
     "ExperimentHub"
   ],
-  "cghMCR": [
-    "CNTools"
-  ],
+  "cghMCR": [],
   "chevreulPlot": [
     "chevreulProcess",
     "scater",
@@ -3382,7 +3379,6 @@
     "scuttle"
   ],
   "nipalsMCIA": [],
-  "nnSVG": [],
   "normr": [
     "rtracklayer"
   ],
@@ -3971,7 +3967,6 @@
     "scuttle"
   ],
   "spoon": [
-    "nnSVG",
     "scuttle"
   ],
   "squallms": [
@@ -4058,7 +4053,6 @@
     "nullranges",
     "rtracklayer"
   ],
-  "tigre": [],
   "tilingArray": [],
   "topdownr": [
     "MSnbase",
