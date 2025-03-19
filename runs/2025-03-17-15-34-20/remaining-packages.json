@@ -1077,7 +1077,6 @@
     "bsseq",
     "DSS"
   ],
-  "branchpointer": [],
   "broadSeq": [
     "DELocal",
     "clusterProfiler",
@@ -1174,9 +1173,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "condiments": [
-    "distinct"
-  ],
+  "condiments": [],
   "consensusDE": [
     "RUVSeq"
   ],
@@ -1282,7 +1279,6 @@
   "diffUTR": [
     "DEXSeq"
   ],
-  "distinct": [],
   "dmrseq": [
     "bsseq",
     "bumphunter",
