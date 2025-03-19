@@ -250,7 +250,6 @@
     "OrganismDbi"
   ],
   "FLAMES": [
-    "bambu",
     "ggbio",
     "biovizBase",
     "OrganismDbi"
@@ -258,7 +257,6 @@
   "FRASER": [
     "OUTRIDER"
   ],
-  "GA4GHshiny": [],
   "GARS": [
     "MLSeq"
   ],
@@ -268,8 +266,7 @@
     "enrichplot"
   ],
   "GNOSIS": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "GOexpress": [],
   "GOpro": [],
@@ -433,7 +430,6 @@
   ],
   "NanoMethViz": [],
   "NewWave": [],
-  "NoRCE": [],
   "OGRE": [
     "Gviz",
     "biovizBase"
@@ -488,7 +484,6 @@
   "REBET": [],
   "REDseq": [],
   "RESOLVE": [],
-  "RMassBank": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder"
@@ -512,7 +507,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "RTCGAToolbox": [],
   "RUVSeq": [],
   "RadioGx": [
     "CoreGx"
@@ -555,7 +549,6 @@
   "Rqc": [
     "biovizBase"
   ],
-  "SARC": [],
   "SMITE": [
     "goseq"
   ],
@@ -609,7 +602,6 @@
     "CoreGx"
   ],
   "Ularcirc": [],
-  "VCFArray": [],
   "VariantFiltering": [
     "GenomicScores",
     "Gviz",
@@ -646,7 +638,6 @@
   "atSNP": [
     "motifStack"
   ],
-  "bambu": [],
   "bandle": [],
   "bigmelon": [],
   "bioCancer": [
@@ -654,7 +645,6 @@
     "DOSE",
     "clusterProfiler",
     "ReactomePA",
-    "RTCGAToolbox",
     "enrichplot"
   ],
   "biomvRCNS": [
@@ -676,22 +666,18 @@
     "DOSE",
     "enrichplot"
   ],
-  "cBioPortalData": [
-    "RTCGAToolbox"
-  ],
+  "cBioPortalData": [],
   "cageminer": [
     "ggbio",
     "biovizBase",
     "OrganismDbi"
   ],
   "canceR": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "casper": [],
   "cbaf": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "cfTools": [
     "ExperimentHub"
@@ -717,7 +703,6 @@
   ],
   "circRNAprofiler": [],
   "cisPath": [],
-  "clipper": [],
   "cliqueMS": [],
   "clusterProfiler": [
     "DOSE",
@@ -1166,7 +1151,6 @@
     "enrichplot",
     "DOSE"
   ],
-  "seqCAT": [],
   "sesame": [
     "ExperimentHub"
   ],
@@ -1204,7 +1188,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "terraTCGAdata": [],
   "tidyomics": [],
   "trackViewer": [
     "Gviz",

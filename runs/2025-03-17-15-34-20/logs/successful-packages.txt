@@ -1820,3 +1820,13 @@ DaMiRseq
 igvR
 MPAC
 pipeFrame
+bambu
+clipper
+GA4GHshiny
+NoRCE
+RMassBank
+RTCGAToolbox
+SARC
+seqCAT
+terraTCGAdata
+VCFArray
