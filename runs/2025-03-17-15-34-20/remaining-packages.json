@@ -497,7 +497,6 @@
   ],
   "MultiRNAflow": [],
   "MultimodalExperiment": [],
-  "MungeSumstats": [],
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
@@ -1142,7 +1141,6 @@
   "lefser": [
     "mia"
   ],
-  "lineagespot": [],
   "lisaClust": [],
   "m6Aboost": [
     "ExperimentHub"
