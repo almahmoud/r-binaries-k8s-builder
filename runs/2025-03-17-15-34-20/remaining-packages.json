@@ -380,7 +380,6 @@
   "MatrixQCvis": [
     "ExperimentHub"
   ],
-  "MatrixRider": [],
   "MetaNeighbor": [],
   "MetaPhOR": [
     "clusterProfiler",
@@ -874,7 +873,6 @@
   ],
   "ggspavis": [],
   "gmapR": [],
-  "gmoviz": [],
   "goSorensen": [
     "clusterProfiler",
     "DOSE",
@@ -1182,7 +1180,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "traseR": [],
   "trigger": [],
   "txcutr": [],
   "tximeta": [],
