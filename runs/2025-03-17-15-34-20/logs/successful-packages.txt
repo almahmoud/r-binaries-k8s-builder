@@ -1465,3 +1465,6 @@ DMCHMM
 biosigner
 ExCluster
 rqt
+HiTC
+phenomis
+terapadog

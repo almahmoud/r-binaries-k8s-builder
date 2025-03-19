@@ -693,7 +693,6 @@
   "HiLDA": [
     "GenomicFeatures"
   ],
-  "HiTC": [],
   "HicAggR": [],
   "HilbertVis": [],
   "HilbertVisGUI": [
@@ -2548,7 +2547,6 @@
   ],
   "periodicDNA": [],
   "phenoTest": [],
-  "phenomis": [],
   "pipeComp": [
     "scran",
     "scater"
@@ -2940,7 +2938,6 @@
     "biovizBase"
   ],
   "tenXplore": [],
-  "terapadog": [],
   "terraTCGAdata": [
     "TCGAutils",
     "GenomicFeatures"
