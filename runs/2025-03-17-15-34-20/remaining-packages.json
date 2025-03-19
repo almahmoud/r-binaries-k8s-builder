@@ -284,7 +284,6 @@
   "MAIT": [],
   "MDTS": [],
   "MEAL": [],
-  "MEAT": [],
   "MGFM": [],
   "MGFR": [],
   "MICSQTL": [],
@@ -673,7 +672,6 @@
   "ggbio": [
     "OrganismDbi"
   ],
-  "ggspavis": [],
   "gmapR": [],
   "goSorensen": [
     "clusterProfiler",
@@ -895,7 +893,6 @@
     "ExperimentHub"
   ],
   "sitadela": [],
-  "skewr": [],
   "spatialFDA": [
     "ExperimentHub"
   ],
