@@ -30,7 +30,6 @@
   "BloodGen3Module": [
     "ExperimentHub"
   ],
-  "CAFE": [],
   "CAGEr": [],
   "CBNplot": [
     "clusterProfiler",
@@ -321,7 +320,6 @@
   "ReportingTools": [],
   "RiboProfiling": [],
   "RnaSeqSampleSize": [],
-  "SOMNiBUS": [],
   "SVMDO": [
     "DOSE"
   ],
@@ -549,7 +547,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "methylSig": [],
   "methylclock": [
     "ExperimentHub",
     "ExperimentHubData"
@@ -655,6 +652,5 @@
   ],
   "vissE": [
     "ExperimentHub"
-  ],
-  "vulcan": []
+  ]
 }
