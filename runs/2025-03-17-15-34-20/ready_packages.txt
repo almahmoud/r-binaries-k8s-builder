@@ -1,4 +1,0 @@
-SpatialExperimentIO
-SpatialFeatureExperiment
-scCB2
-scPipe

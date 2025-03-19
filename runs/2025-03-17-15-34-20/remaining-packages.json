@@ -597,7 +597,6 @@
   "HiCParser": [],
   "HiCcompare": [],
   "HiContacts": [],
-  "HiCool": [],
   "HiLDA": [],
   "HilbertVis": [],
   "HilbertVisGUI": [
@@ -2524,7 +2523,6 @@
     "TCGAutils"
   ],
   "tidyCoverage": [],
-  "tidySpatialExperiment": [],
   "tidyomics": [
     "plyranges",
     "nullranges"

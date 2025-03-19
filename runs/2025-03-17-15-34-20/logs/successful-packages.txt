@@ -1509,3 +1509,5 @@ microbiomeExplorer
 DropletUtils
 simPIC
 xCell2
+HiCool
+tidySpatialExperiment
