@@ -335,7 +335,6 @@
   ],
   "MLP": [],
   "MLSeq": [],
-  "MOSClip": [],
   "MSnID": [
     "msmsTests",
     "msmsEDA"
@@ -607,14 +606,12 @@
     "ExperimentHub"
   ],
   "chevreulPlot": [
-    "chevreulProcess",
-    "wiggleplotr"
+    "chevreulProcess"
   ],
   "chevreulProcess": [],
   "chevreulShiny": [
     "chevreulProcess",
-    "chevreulPlot",
-    "wiggleplotr"
+    "chevreulPlot"
   ],
   "chimeraviz": [
     "Gviz"
@@ -750,9 +747,7 @@
   "esetVis": [
     "MLP"
   ],
-  "factR": [
-    "wiggleplotr"
-  ],
+  "factR": [],
   "famat": [
     "clusterProfiler",
     "DOSE",
@@ -937,7 +932,6 @@
     "RUVSeq",
     "ExperimentHub"
   ],
-  "omXplore": [],
   "orthos": [
     "ExperimentHub"
   ],
@@ -1061,7 +1055,6 @@
   "standR": [
     "RUVSeq"
   ],
-  "tLOH": [],
   "tadar": [
     "Gviz"
   ],
@@ -1083,6 +1076,5 @@
     "ExperimentHub"
   ],
   "vtpnet": [],
-  "vulcan": [],
-  "wiggleplotr": []
+  "vulcan": []
 }
