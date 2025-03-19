@@ -1749,3 +1749,6 @@ StructuralVariantAnnotation
 fcScan
 RAIDS
 ZygosityPredictor
+cardelino
+decompTumor2Sig
+VariantTools

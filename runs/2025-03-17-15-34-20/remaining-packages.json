@@ -741,7 +741,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "VariantTools": [],
   "XNAString": [],
   "Xeva": [
     "PharmacoGx",
@@ -834,7 +833,6 @@
     "RTCGAToolbox",
     "TCGAutils"
   ],
-  "cardelino": [],
   "casper": [],
   "cbaf": [
     "cBioPortalData",
@@ -953,7 +951,6 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "decompTumor2Sig": [],
   "deepSNV": [],
   "demuxSNP": [],
   "derfinder": [],
@@ -1279,9 +1276,7 @@
     "biovizBase"
   ],
   "mumosa": [],
-  "musicatk": [
-    "decompTumor2Sig"
-  ],
+  "musicatk": [],
   "mygene": [
     "txdbmaker"
   ],
