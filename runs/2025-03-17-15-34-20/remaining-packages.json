@@ -269,8 +269,7 @@
   ],
   "CiteFuse": [],
   "CleanUpRNAseq": [
-    "ensembldb",
-    "qsmooth"
+    "ensembldb"
   ],
   "CluMSID": [
     "MSnbase"
@@ -2181,7 +2180,6 @@
   ],
   "qpgraph": [],
   "qsea": [],
-  "qsmooth": [],
   "qsvaR": [],
   "quantro": [
     "minfi",
