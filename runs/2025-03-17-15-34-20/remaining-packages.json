@@ -604,7 +604,6 @@
   "enrichplot": [
     "DOSE"
   ],
-  "epidecodeR": [],
   "epimutacions": [
     "ExperimentHub",
     "OrganismDbi"
