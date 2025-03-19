@@ -1389,3 +1389,7 @@ concordexR
 MoleculeExperiment
 genefilter
 oligo
+BulkSignalR
+oposSOM
+Rbec
+regionalpcs

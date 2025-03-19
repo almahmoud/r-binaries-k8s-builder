@@ -199,7 +199,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "BulkSignalR": [],
   "CAFE": [
     "biovizBase",
     "ggbio",
@@ -1570,7 +1569,6 @@
     "GenomicScores",
     "rtracklayer"
   ],
-  "Rbec": [],
   "RcisTarget": [],
   "ReactomePA": [
     "DOSE",
@@ -3408,7 +3406,6 @@
   "omicRexposome": [
     "sva"
   ],
-  "oposSOM": [],
   "oppar": [],
   "orthos": [
     "ExperimentHub"
@@ -3636,7 +3633,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "regionalpcs": [],
   "regioneR": [
     "BSgenome",
     "rtracklayer"
