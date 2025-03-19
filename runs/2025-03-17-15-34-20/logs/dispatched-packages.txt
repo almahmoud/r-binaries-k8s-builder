@@ -1546,3 +1546,4 @@ tidySpatialExperiment
 xCell2
 zenith
 scClassify
+iSEEu

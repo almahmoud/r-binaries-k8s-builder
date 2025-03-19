@@ -1348,3 +1348,6 @@ lemur
 scDiagnostics
 Cepo
 iSEEpathways
+IONiseR
+iSEEhex
+slalom

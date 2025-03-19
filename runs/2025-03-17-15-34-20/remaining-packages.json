@@ -1001,7 +1001,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "IONiseR": [],
   "IPO": [
     "xcms",
     "CAMERA",
@@ -3096,10 +3095,8 @@
   ],
   "iSEEde": [],
   "iSEEfier": [
-    "iSEEu",
-    "iSEEhex"
+    "iSEEu"
   ],
-  "iSEEhex": [],
   "iSEEhub": [
     "ExperimentHub"
   ],
@@ -3109,9 +3106,7 @@
     "scater",
     "scuttle"
   ],
-  "iSEEu": [
-    "iSEEhex"
-  ],
+  "iSEEu": [],
   "icetea": [
     "GenomicFeatures",
     "rtracklayer",
@@ -4133,7 +4128,6 @@
     "lumi",
     "rtracklayer"
   ],
-  "slalom": [],
   "slingshot": [],
   "smoothclust": [],
   "smoppix": [],
