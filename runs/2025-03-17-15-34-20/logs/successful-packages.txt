@@ -2036,3 +2036,7 @@ RiboProfiling
 SomaticSignatures
 R3CPET
 scruff
+cageminer
+msgbsR
+ReportingTools
+RNAAgeCalc

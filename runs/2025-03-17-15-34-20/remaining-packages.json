@@ -11,8 +11,7 @@
   ],
   "AffiXcan": [],
   "AgiMicroRna": [
-    "affycoretools",
-    "ReportingTools"
+    "affycoretools"
   ],
   "Anaquin": [],
   "AneuFinder": [],
@@ -292,7 +291,6 @@
     "enrichplot"
   ],
   "REBET": [],
-  "RNAAgeCalc": [],
   "RadioGx": [
     "CoreGx"
   ],
@@ -311,7 +309,6 @@
   "RegEnrich": [
     "DOSE"
   ],
-  "ReportingTools": [],
   "RnaSeqSampleSize": [],
   "SVMDO": [
     "DOSE"
@@ -351,9 +348,7 @@
   "adductomicsR": [
     "ExperimentHub"
   ],
-  "affycoretools": [
-    "ReportingTools"
-  ],
+  "affycoretools": [],
   "appreci8R": [
     "GenomicScores"
   ],
@@ -373,7 +368,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "cageminer": [],
   "cfTools": [
     "ExperimentHub"
   ],
@@ -553,7 +547,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "msgbsR": [],
   "multiHiCcompare": [
     "HiCcompare"
   ],
