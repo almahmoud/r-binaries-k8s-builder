@@ -1151,7 +1151,6 @@
   ],
   "SplicingGraphs": [],
   "SplineDV": [],
-  "StabMap": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation"
   ],
@@ -1401,7 +1400,6 @@
     "RTCGAToolbox",
     "TCGAutils"
   ],
-  "ccImpute": [],
   "celda": [
     "scater",
     "scran"
@@ -2330,7 +2328,6 @@
     "bumphunter"
   ],
   "roar": [],
-  "rrvgo": [],
   "rsbml": [],
   "sampleClassifier": [
     "MGFM",

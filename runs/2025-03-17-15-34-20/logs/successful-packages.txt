@@ -1494,3 +1494,6 @@ RcisTarget
 scTGIF
 SpotClean
 cghMCR
+ccImpute
+rrvgo
+StabMap
