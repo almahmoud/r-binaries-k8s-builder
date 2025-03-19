@@ -255,7 +255,6 @@
   "CoSIA": [
     "ExperimentHub"
   ],
-  "Cogito": [],
   "CopyNumberPlots": [
     "karyoploteR",
     "regioneR",
@@ -1621,10 +1620,7 @@
   "gwasurvivr": [
     "VariantAnnotation"
   ],
-  "hiAnnotator": [],
-  "hiReadsProcessor": [
-    "hiAnnotator"
-  ],
+  "hiReadsProcessor": [],
   "hpar": [
     "ExperimentHub"
   ],
