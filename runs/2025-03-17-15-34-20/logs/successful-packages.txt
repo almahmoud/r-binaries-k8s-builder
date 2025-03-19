@@ -1816,3 +1816,6 @@ nearBynding
 pRolocGUI
 txdbmaker
 UPDhmm
+DaMiRseq
+igvR
+MPAC

@@ -186,7 +186,6 @@
   ],
   "DOSE": [],
   "DSS": [],
-  "DaMiRseq": [],
   "Damsel": [
     "ggbio",
     "goseq",
@@ -261,7 +260,6 @@
   ],
   "GA4GHshiny": [],
   "GARS": [
-    "DaMiRseq",
     "MLSeq"
   ],
   "GDCRNATools": [
@@ -379,7 +377,6 @@
   "MLP": [],
   "MLSeq": [],
   "MOSClip": [],
-  "MPAC": [],
   "MSnID": [
     "msmsTests",
     "msmsEDA"
@@ -938,7 +935,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "igvR": [],
   "intansv": [
     "ggbio",
     "biovizBase",
