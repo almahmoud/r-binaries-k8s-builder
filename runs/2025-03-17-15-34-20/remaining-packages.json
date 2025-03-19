@@ -1887,7 +1887,6 @@
     "escheR"
   ],
   "StabMap": [],
-  "Statial": [],
   "StructuralVariantAnnotation": [
     "rtracklayer",
     "VariantAnnotation",
@@ -4295,7 +4294,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "treeclimbR": [],
   "tricycle": [
     "scater",
     "scuttle"
