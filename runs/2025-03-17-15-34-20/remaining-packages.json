@@ -10,7 +10,6 @@
   ],
   "APL": [],
   "ASURAT": [],
-  "ASpli": [],
   "ATACseqQC": [
     "GenomicScores"
   ],
@@ -300,7 +299,6 @@
   "MEAT": [],
   "MGFM": [],
   "MGFR": [],
-  "MGnifyR": [],
   "MICSQTL": [],
   "MIRA": [],
   "MIRit": [
@@ -741,9 +739,7 @@
   "iSEEhub": [
     "ExperimentHub"
   ],
-  "iSEEtree": [
-    "miaViz"
-  ],
+  "iSEEtree": [],
   "ideal": [
     "mosdef",
     "goseq",
@@ -819,7 +815,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "miaViz": [],
   "mitoClone2": [
     "deepSNV"
   ],
@@ -843,7 +838,6 @@
     "HiCcompare"
   ],
   "multicrispr": [],
-  "mumosa": [],
   "mygene": [],
   "ncGTW": [],
   "octad": [
@@ -900,9 +894,7 @@
     "MGFM",
     "MGFR"
   ],
-  "saseR": [
-    "ASpli"
-  ],
+  "saseR": [],
   "scMerge": [],
   "scTensor": [
     "ReactomePA",

@@ -1870,3 +1870,7 @@ motifStack
 casper
 scFeatures
 tidyomics
+ASpli
+MGnifyR
+miaViz
+mumosa
