@@ -14,7 +14,6 @@
     "VariantAnnotation"
   ],
   "APL": [],
-  "ASSIGN": [],
   "ASURAT": [],
   "ASpli": [
     "Gviz",
@@ -577,7 +576,6 @@
     "VariantAnnotation"
   ],
   "HTSFilter": [],
-  "HarmonizR": [],
   "Harshlight": [],
   "HelloRanges": [
     "VariantAnnotation"
@@ -1146,9 +1144,7 @@
     "HiCcompare"
   ],
   "TAPseq": [],
-  "TBSignatureProfiler": [
-    "ASSIGN"
-  ],
+  "TBSignatureProfiler": [],
   "TCGAutils": [],
   "TDbasedUFEadv": [
     "enrichplot",
@@ -1560,7 +1556,6 @@
     "CATALYST",
     "scater"
   ],
-  "cytoviewer": [],
   "dagLogo": [
     "motifStack",
     "TFBSTools"
