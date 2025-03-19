@@ -2029,3 +2029,4 @@ borealis
 Damsel
 kissDE
 metaseqR2
+chevreulShiny
