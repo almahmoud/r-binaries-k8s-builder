@@ -59,7 +59,6 @@
   "BUSseq": [],
   "BaalChIP": [],
   "BadRegionFinder": [],
-  "Basic4Cseq": [],
   "BasicSTARRseq": [],
   "BgeeCall": [
     "txdbmaker"
@@ -475,7 +474,6 @@
     "lumi"
   ],
   "MEB": [],
-  "MEDIPS": [],
   "MGFM": [],
   "MGFR": [],
   "MGnifyR": [
@@ -1346,7 +1344,6 @@
     "ExperimentHub",
     "regioneR"
   ],
-  "methrix": [],
   "methylCC": [
     "minfi",
     "bsseq"
@@ -1554,7 +1551,6 @@
     "RUVSeq",
     "txdbmaker"
   ],
-  "rnaEditr": [],
   "rsbml": [],
   "sampleClassifier": [
     "MGFM",
