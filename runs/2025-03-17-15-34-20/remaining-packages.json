@@ -37,7 +37,6 @@
   "AffiXcan": [],
   "AgiMicroRna": [
     "affycoretools",
-    "GOstats",
     "ReportingTools",
     "ggbio",
     "biovizBase",
@@ -456,7 +455,6 @@
   ],
   "GOexpress": [],
   "GOpro": [],
-  "GOstats": [],
   "GRaNIE": [
     "ensembldb"
   ],
@@ -525,9 +523,7 @@
   ],
   "GenomicScores": [],
   "GloScope": [],
-  "GmicR": [
-    "GOstats"
-  ],
+  "GmicR": [],
   "GreyListChIP": [],
   "Guitar": [],
   "Gviz": [
@@ -649,7 +645,6 @@
   ],
   "MLP": [],
   "MLSeq": [],
-  "MMDiff2": [],
   "MOSClip": [
     "qpgraph"
   ],
@@ -698,7 +693,6 @@
     "DOSE"
   ],
   "MineICA": [
-    "GOstats",
     "lumi",
     "methylumi",
     "minfi",
@@ -939,7 +933,6 @@
   ],
   "Repitools": [],
   "ReportingTools": [
-    "GOstats",
     "ggbio",
     "biovizBase",
     "VariantAnnotation",
@@ -993,9 +986,7 @@
   ],
   "SCOPE": [],
   "SEtools": [],
-  "SGCP": [
-    "GOstats"
-  ],
+  "SGCP": [],
   "SGSeq": [],
   "SMITE": [
     "goseq",
@@ -1150,7 +1141,6 @@
     "ExperimentHub"
   ],
   "affycoretools": [
-    "GOstats",
     "ReportingTools",
     "ggbio",
     "biovizBase",
@@ -1187,9 +1177,7 @@
     "TFBSTools"
   ],
   "atena": [],
-  "attract": [
-    "GOstats"
-  ],
+  "attract": [],
   "bambu": [],
   "bandle": [
     "pRoloc"
@@ -1275,9 +1263,7 @@
     "VariantAnnotation"
   ],
   "casper": [],
-  "categoryCompare": [
-    "GOstats"
-  ],
+  "categoryCompare": [],
   "cbaf": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -1726,7 +1712,6 @@
   "ideal": [
     "mosdef",
     "goseq",
-    "GOstats",
     "clusterProfiler",
     "DOSE",
     "enrichplot",
@@ -1873,9 +1858,7 @@
     "minfi",
     "bumphunter"
   ],
-  "miRLAB": [
-    "GOstats"
-  ],
+  "miRLAB": [],
   "miRSM": [
     "clusterProfiler",
     "ReactomePA",
@@ -2011,7 +1994,6 @@
   ],
   "pcaExplorer": [
     "mosdef",
-    "GOstats",
     "clusterProfiler",
     "goseq",
     "DOSE",
@@ -2154,7 +2136,6 @@
   "scRNAseqApp": [],
   "scTensor": [
     "meshr",
-    "GOstats",
     "ReactomePA",
     "DOSE",
     "enrichplot"
@@ -2307,7 +2288,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "tenXplore": [],
   "terraTCGAdata": [
     "TCGAutils"
   ],

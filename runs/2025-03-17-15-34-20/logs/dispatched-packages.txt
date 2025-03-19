@@ -1825,3 +1825,8 @@ qPLEXanalyzer
 synapter
 topdownr
 xcms
+GmicR
+SGCP
+attract
+categoryCompare
+miRLAB
