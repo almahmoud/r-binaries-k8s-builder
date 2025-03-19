@@ -1675,3 +1675,6 @@ Guitar
 muscat
 scDotPlot
 FindIT2
+bumphunter
+interactiveDisplay
+wavClusteR
