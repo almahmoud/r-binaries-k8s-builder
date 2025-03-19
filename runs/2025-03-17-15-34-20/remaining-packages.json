@@ -84,7 +84,6 @@
   ],
   "Basic4Cseq": [],
   "BasicSTARRseq": [],
-  "BatchQC": [],
   "BgeeCall": [
     "txdbmaker"
   ],
