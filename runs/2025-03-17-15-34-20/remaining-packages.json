@@ -912,9 +912,7 @@
   "RITAN": [
     "ensembldb"
   ],
-  "RJMCMCNucleosomes": [
-    "consensusSeekeR"
-  ],
+  "RJMCMCNucleosomes": [],
   "RMassBank": [
     "MSnbase"
   ],
@@ -1437,7 +1435,6 @@
     "RUVSeq"
   ],
   "consensusOV": [],
-  "consensusSeekeR": [],
   "conumee": [
     "minfi",
     "bumphunter"

@@ -1529,3 +1529,4 @@ scran
 SCAN.UPC
 ballgown
 KnowSeq
+consensusSeekeR
