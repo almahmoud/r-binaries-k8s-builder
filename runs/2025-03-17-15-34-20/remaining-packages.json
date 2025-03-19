@@ -149,10 +149,8 @@
   ],
   "CAMERA": [
     "xcms",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
-  "CARDspa": [],
   "CATALYST": [
     "scater"
   ],
@@ -618,8 +616,7 @@
   "IPO": [
     "xcms",
     "CAMERA",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "IVAS": [],
   "InPAS": [
@@ -644,8 +641,7 @@
   "LOBSTAHS": [
     "xcms",
     "CAMERA",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "LRcell": [
     "ExperimentHub"
@@ -671,8 +667,7 @@
   "MAIT": [
     "CAMERA",
     "xcms",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "MBECS": [],
   "MDTS": [],
@@ -801,10 +796,7 @@
   "MsDataHub": [
     "ExperimentHub"
   ],
-  "MsExperiment": [],
-  "MsQuality": [
-    "MsExperiment"
-  ],
+  "MsQuality": [],
   "MultiRNAflow": [],
   "MultimodalExperiment": [],
   "MungeSumstats": [
@@ -1011,7 +1003,6 @@
     "VariantAnnotation",
     "GenomicScores"
   ],
-  "RcisTarget": [],
   "ReactomePA": [
     "DOSE",
     "enrichplot"
@@ -1160,7 +1151,6 @@
   ],
   "SplicingGraphs": [],
   "SplineDV": [],
-  "SpotClean": [],
   "StabMap": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation"
@@ -1475,8 +1465,7 @@
   ],
   "cliqueMS": [
     "xcms",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "clusterExperiment": [],
   "clusterProfiler": [
@@ -1522,8 +1511,7 @@
   ],
   "cosmiq": [
     "xcms",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "cpvSNP": [],
   "crisprBowtie": [],
@@ -1781,8 +1769,7 @@
   "flagme": [
     "xcms",
     "CAMERA",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "funtooNorm": [
     "minfi",
@@ -1995,8 +1982,7 @@
   "metaMS": [
     "CAMERA",
     "xcms",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "metagene2": [],
   "metaseqR2": [
@@ -2167,8 +2153,7 @@
   ],
   "ncGTW": [
     "xcms",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "nearBynding": [
     "plyranges"
@@ -2190,7 +2175,6 @@
     "MSnbase"
   ],
   "omicRexposome": [],
-  "oppar": [],
   "orthos": [
     "ExperimentHub"
   ],
@@ -2246,7 +2230,6 @@
   ],
   "plyranges": [],
   "podkat": [],
-  "pogos": [],
   "pram": [],
   "preciseTAD": [
     "rCGH"
@@ -2392,7 +2375,6 @@
     "DropletUtils"
   ],
   "scRNAseqApp": [],
-  "scTGIF": [],
   "scTensor": [
     "meshr",
     "GOstats",
@@ -2531,8 +2513,7 @@
   "spoon": [],
   "squallms": [
     "xcms",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "srnadiff": [
     "Gviz",
@@ -2646,8 +2627,7 @@
   "wiggleplotr": [],
   "xCell2": [],
   "xcms": [
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "yarn": [
     "quantro",

@@ -1486,3 +1486,10 @@ GenomicFeatures
 BgeeDB
 SpotSweeper
 SIM
+CARDspa
+MsExperiment
+oppar
+pogos
+RcisTarget
+scTGIF
+SpotClean
