@@ -1,5 +1,0 @@
-GA4GHshiny
-TFutils
-VCFArray
-derfinder
-gDNAx
