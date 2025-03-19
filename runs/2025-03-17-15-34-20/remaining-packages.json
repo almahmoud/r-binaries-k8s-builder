@@ -407,9 +407,7 @@
   "MACSr": [
     "ExperimentHub"
   ],
-  "MAGAR": [
-    "RnBeads"
-  ],
+  "MAGAR": [],
   "MAIT": [
     "CAMERA"
   ],
@@ -472,7 +470,6 @@
     "enrichplot",
     "DOSE"
   ],
-  "MinimumDistance": [],
   "Moonlight2R": [
     "clusterProfiler",
     "DOSE",
@@ -648,7 +645,6 @@
     "txdbmaker"
   ],
   "Rmmquant": [],
-  "RnBeads": [],
   "RnaSeqSampleSize": [
     "recount",
     "derfinder"

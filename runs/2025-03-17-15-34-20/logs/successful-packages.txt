@@ -1782,3 +1782,5 @@ signeR
 iCheck
 MineICA
 musicatk
+MinimumDistance
+RnBeads

@@ -1976,3 +1976,4 @@ vtpnet
 DegCre
 mariner
 tidyomics
+MAGAR
