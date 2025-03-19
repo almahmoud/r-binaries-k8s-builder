@@ -1746,3 +1746,6 @@ yarn
 shinyepico
 Uniquorn
 StructuralVariantAnnotation
+fcScan
+RAIDS
+ZygosityPredictor

@@ -578,7 +578,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "RAIDS": [],
   "RCAS": [
     "txdbmaker"
   ],
@@ -755,7 +754,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "ZygosityPredictor": [],
   "adductomicsR": [
     "ExperimentHub"
   ],
@@ -1045,7 +1043,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "fcScan": [],
   "ffpe": [
     "lumi"
   ],
