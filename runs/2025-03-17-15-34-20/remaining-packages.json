@@ -81,7 +81,6 @@
   "BiGGR": [
     "rsbml"
   ],
-  "BindingSiteFinder": [],
   "BioNERO": [],
   "BiocHubsShiny": [
     "ExperimentHub"
@@ -692,7 +691,6 @@
   ],
   "PPInfer": [],
   "PREDA": [],
-  "PRONE": [],
   "PROPS": [],
   "PanomiR": [
     "clusterProfiler",
@@ -1194,7 +1192,6 @@
   "consensusDE": [
     "RUVSeq"
   ],
-  "consensusOV": [],
   "conumee": [
     "minfi",
     "bumphunter"
@@ -1948,9 +1945,7 @@
   "signeR": [
     "VariantAnnotation"
   ],
-  "signifinder": [
-    "consensusOV"
-  ],
+  "signifinder": [],
   "singleCellTK": [
     "ExperimentHub",
     "scMerge",

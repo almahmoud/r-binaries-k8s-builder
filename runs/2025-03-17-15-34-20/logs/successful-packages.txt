@@ -1645,3 +1645,6 @@ msImpute
 GreyListChIP
 spicyR
 transcriptR
+BindingSiteFinder
+consensusOV
+PRONE
