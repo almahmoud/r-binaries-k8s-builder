@@ -3876,7 +3876,6 @@
     "scran",
     "scuttle"
   ],
-  "scDataviz": [],
   "scDblFinder": [
     "scran",
     "scater",
@@ -3908,12 +3907,10 @@
     "rtracklayer",
     "scuttle"
   ],
-  "scQTLtools": [],
   "scRNAseqApp": [
     "rtracklayer",
     "slingshot"
   ],
-  "scReClassify": [],
   "scTGIF": [],
   "scTensor": [
     "Category",
@@ -3946,7 +3943,6 @@
   "scater": [
     "scuttle"
   ],
-  "sccomp": [],
   "scds": [],
   "scider": [],
   "scmeth": [

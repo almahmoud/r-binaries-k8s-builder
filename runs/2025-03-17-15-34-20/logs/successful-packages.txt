@@ -1378,3 +1378,7 @@ missRows
 RTNsurvival
 stJoincount
 TSCAN
+sccomp
+scDataviz
+scQTLtools
+scReClassify
