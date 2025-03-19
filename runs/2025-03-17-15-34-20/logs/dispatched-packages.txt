@@ -1545,3 +1545,4 @@ tenXplore
 tidySpatialExperiment
 xCell2
 zenith
+scClassify

@@ -1346,3 +1346,5 @@ zellkonverter
 ExperimentSubset
 lemur
 scDiagnostics
+Cepo
+iSEEpathways

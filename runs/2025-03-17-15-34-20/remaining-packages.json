@@ -359,7 +359,6 @@
     "scater",
     "scuttle"
   ],
-  "Cepo": [],
   "CexoR": [
     "rtracklayer",
     "genomation",
@@ -3104,7 +3103,6 @@
   "iSEEhub": [
     "ExperimentHub"
   ],
-  "iSEEpathways": [],
   "iSEEtree": [
     "miaViz",
     "mia",
@@ -3906,9 +3904,7 @@
     "DropletUtils",
     "scuttle"
   ],
-  "scClassify": [
-    "Cepo"
-  ],
+  "scClassify": [],
   "scDD": [
     "scran",
     "scuttle"
