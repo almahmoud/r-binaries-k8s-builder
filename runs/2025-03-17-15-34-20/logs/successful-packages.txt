@@ -1868,3 +1868,4 @@ mariner
 CexoR
 motifStack
 casper
+scFeatures
