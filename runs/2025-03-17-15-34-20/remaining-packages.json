@@ -1412,7 +1412,6 @@
   "cfTools": [
     "ExperimentHub"
   ],
-  "cghMCR": [],
   "chevreulPlot": [
     "chevreulProcess",
     "scater",
