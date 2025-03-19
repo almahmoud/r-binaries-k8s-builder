@@ -1807,3 +1807,5 @@ qsea
 rCGH
 Organism.dplyr
 RITAN
+qpgraph
+TCGAutils

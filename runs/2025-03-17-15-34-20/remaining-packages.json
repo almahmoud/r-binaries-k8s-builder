@@ -295,8 +295,7 @@
   ],
   "GNOSIS": [
     "cBioPortalData",
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "GOexpress": [],
   "GOpro": [],
@@ -417,9 +416,7 @@
   ],
   "MLP": [],
   "MLSeq": [],
-  "MOSClip": [
-    "qpgraph"
-  ],
+  "MOSClip": [],
   "MPAC": [],
   "MSnID": [
     "msmsTests",
@@ -573,9 +570,7 @@
     "biovizBase",
     "txdbmaker"
   ],
-  "RTCGAToolbox": [
-    "TCGAutils"
-  ],
+  "RTCGAToolbox": [],
   "RUVSeq": [],
   "RadioGx": [
     "CoreGx"
@@ -661,7 +656,6 @@
   "TADCompare": [
     "HiCcompare"
   ],
-  "TCGAutils": [],
   "TDbasedUFEadv": [
     "enrichplot",
     "DOSE"
@@ -734,7 +728,6 @@
     "clusterProfiler",
     "ReactomePA",
     "RTCGAToolbox",
-    "TCGAutils",
     "enrichplot"
   ],
   "biomvRCNS": [
@@ -758,8 +751,7 @@
     "enrichplot"
   ],
   "cBioPortalData": [
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "cageminer": [
     "ggbio",
@@ -769,14 +761,12 @@
   ],
   "canceR": [
     "cBioPortalData",
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "casper": [],
   "cbaf": [
     "cBioPortalData",
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "cfTools": [
     "ExperimentHub"
@@ -802,9 +792,7 @@
   ],
   "circRNAprofiler": [],
   "cisPath": [],
-  "clipper": [
-    "qpgraph"
-  ],
+  "clipper": [],
   "cliqueMS": [],
   "clusterProfiler": [
     "DOSE",
@@ -999,9 +987,7 @@
     "txdbmaker"
   ],
   "ggspavis": [],
-  "glmSparseNet": [
-    "TCGAutils"
-  ],
+  "glmSparseNet": [],
   "gmapR": [],
   "gmoviz": [],
   "goSorensen": [
@@ -1231,7 +1217,6 @@
     "derfinder"
   ],
   "puma": [],
-  "qpgraph": [],
   "rGADEM": [],
   "raer": [],
   "recount": [
@@ -1347,9 +1332,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "terraTCGAdata": [
-    "TCGAutils"
-  ],
+  "terraTCGAdata": [],
   "tidyomics": [],
   "trackViewer": [
     "Gviz",

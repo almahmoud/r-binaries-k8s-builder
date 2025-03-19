@@ -1994,3 +1994,8 @@ pageRank
 scmeth
 preciseTAD
 Ularcirc
+MOSClip
+RTCGAToolbox
+clipper
+glmSparseNet
+terraTCGAdata
