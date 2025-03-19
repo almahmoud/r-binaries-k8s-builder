@@ -420,7 +420,6 @@
   "MOSClip": [
     "qpgraph"
   ],
-  "MOSim": [],
   "MPAC": [],
   "MSnID": [
     "msmsTests",
@@ -1368,7 +1367,6 @@
     "biovizBase"
   ],
   "traseR": [],
-  "tricycle": [],
   "trigger": [],
   "txcutr": [
     "txdbmaker"
