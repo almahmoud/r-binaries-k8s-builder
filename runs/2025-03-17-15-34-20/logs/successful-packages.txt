@@ -1986,3 +1986,7 @@ IntEREst
 methylInheritance
 multicrispr
 RNAmodR.AlkAnilineSeq
+compEpiTools
+IsoformSwitchAnalyzeR
+proBAMr
+RNAmodR.ML

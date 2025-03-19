@@ -224,7 +224,6 @@
   "HybridExpress": [],
   "ILoReg": [],
   "InterCellar": [],
-  "IsoformSwitchAnalyzeR": [],
   "LACE": [],
   "LOBSTAHS": [],
   "LRcell": [
@@ -329,7 +328,6 @@
   "RNAAgeCalc": [
     "recount"
   ],
-  "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
   "RadioGx": [
     "CoreGx"
@@ -446,7 +444,6 @@
   "coMethDMR": [
     "ExperimentHub"
   ],
-  "compEpiTools": [],
   "coseq": [
     "HTSFilter"
   ],
@@ -667,7 +664,6 @@
   "primirTSS": [
     "GenomicScores"
   ],
-  "proBAMr": [],
   "profileplyr": [
     "ChIPseeker",
     "enrichplot",
