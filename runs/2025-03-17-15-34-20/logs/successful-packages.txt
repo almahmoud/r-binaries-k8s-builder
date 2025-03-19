@@ -1471,3 +1471,9 @@ terapadog
 IdeoViz
 MotifDb
 xenLite
+DMCFB
+HicAggR
+MuData
+PAST
+SCANVIS
+XeniumIO

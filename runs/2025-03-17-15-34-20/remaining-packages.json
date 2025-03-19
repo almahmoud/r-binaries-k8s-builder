@@ -378,7 +378,6 @@
   "DEXSeq": [],
   "DEsubs": [],
   "DExMA": [],
-  "DMCFB": [],
   "DMRcate": [
     "ExperimentHub",
     "bsseq",
@@ -693,7 +692,6 @@
   "HiLDA": [
     "GenomicFeatures"
   ],
-  "HicAggR": [],
   "HilbertVis": [],
   "HilbertVisGUI": [
     "HilbertVis"
@@ -912,7 +910,6 @@
   "MsQuality": [
     "MsExperiment"
   ],
-  "MuData": [],
   "MultiRNAflow": [],
   "MultimodalExperiment": [],
   "MungeSumstats": [
@@ -980,7 +977,6 @@
     "GenomicFeatures"
   ],
   "PAA": [],
-  "PAST": [],
   "PDATK": [
     "CoreGx"
   ],
@@ -1241,7 +1237,6 @@
     "GenomicFeatures"
   ],
   "SCAN.UPC": [],
-  "SCANVIS": [],
   "SCOPE": [],
   "SEtools": [],
   "SGCP": [
@@ -1444,7 +1439,6 @@
   ],
   "XDE": [],
   "XNAString": [],
-  "XeniumIO": [],
   "Xeva": [
     "PharmacoGx",
     "CoreGx"
