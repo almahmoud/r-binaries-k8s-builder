@@ -1833,3 +1833,10 @@ miRLAB
 MSstatsQCgui
 cytofQC
 spillR
+MatrixRider
+Prostar
+RegionalST
+chromVAR
+monaLisa
+motifStack
+motifmatchr

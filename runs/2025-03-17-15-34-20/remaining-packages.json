@@ -27,12 +27,10 @@
     "GenomicScores",
     "motifStack",
     "regioneR",
-    "ensembldb",
-    "TFBSTools"
+    "ensembldb"
   ],
   "ATACseqTFEA": [
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "AffiXcan": [],
   "AgiMicroRna": [
@@ -89,7 +87,6 @@
   "Basic4Cseq": [],
   "BasicSTARRseq": [],
   "BatchQC": [],
-  "BayesSpace": [],
   "BgeeCall": [
     "txdbmaker"
   ],
@@ -284,7 +281,6 @@
     "VariantAnnotation",
     "bumphunter"
   ],
-  "DAPAR": [],
   "DEFormats": [],
   "DEGreport": [],
   "DELocal": [],
@@ -654,9 +650,7 @@
   "MatrixQCvis": [
     "ExperimentHub"
   ],
-  "MatrixRider": [
-    "TFBSTools"
-  ],
+  "MatrixRider": [],
   "MetaNeighbor": [],
   "MetaPhOR": [
     "clusterProfiler",
@@ -672,8 +666,7 @@
   ],
   "MethReg": [
     "sesame",
-    "ExperimentHub",
-    "TFBSTools"
+    "ExperimentHub"
   ],
   "MethylAid": [
     "minfi",
@@ -712,7 +705,6 @@
   "MsDataHub": [
     "ExperimentHub"
   ],
-  "MsQuality": [],
   "MultiRNAflow": [],
   "MultimodalExperiment": [],
   "MungeSumstats": [
@@ -732,7 +724,6 @@
     "regioneR",
     "ensembldb",
     "biovizBase",
-    "TFBSTools",
     "VariantAnnotation"
   ],
   "NBAMSeq": [],
@@ -800,9 +791,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "Prostar": [
-    "DAPAR"
-  ],
+  "Prostar": [],
   "ProteoDisco": [
     "VariantAnnotation"
   ],
@@ -920,9 +909,7 @@
   "RegEnrich": [
     "DOSE"
   ],
-  "RegionalST": [
-    "BayesSpace"
-  ],
+  "RegionalST": [],
   "Repitools": [],
   "ReportingTools": [
     "ggbio",
@@ -1052,7 +1039,6 @@
     "sesame",
     "ExperimentHub"
   ],
-  "TFBSTools": [],
   "TFEA.ChIP": [],
   "TFHAZ": [
     "ORFik",
@@ -1165,8 +1151,7 @@
     "bumphunter"
   ],
   "atSNP": [
-    "motifStack",
-    "TFBSTools"
+    "motifStack"
   ],
   "attract": [],
   "bambu": [],
@@ -1291,9 +1276,7 @@
   ],
   "chipenrich": [],
   "chopsticks": [],
-  "chromVAR": [
-    "TFBSTools"
-  ],
+  "chromVAR": [],
   "cicero": [
     "Gviz",
     "ensembldb",
@@ -1415,8 +1398,7 @@
   ],
   "cytofQC": [],
   "dagLogo": [
-    "motifStack",
-    "TFBSTools"
+    "motifStack"
   ],
   "dandelionR": [],
   "dar": [
@@ -1481,8 +1463,7 @@
     "ExperimentHub"
   ],
   "enhancerHomologSearch": [
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "enrichViewNet": [
     "enrichplot",
@@ -1509,8 +1490,7 @@
   ],
   "epiregulon": [
     "ExperimentHub",
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "epiregulon.extra": [
     "clusterProfiler",
@@ -1553,7 +1533,6 @@
     "pipeFrame",
     "ChIPseeker",
     "clusterProfiler",
-    "TFBSTools",
     "motifmatchr",
     "enrichplot",
     "DOSE"
@@ -1874,9 +1853,7 @@
     "VariantAnnotation"
   ],
   "mobileRNA": [],
-  "monaLisa": [
-    "TFBSTools"
-  ],
+  "monaLisa": [],
   "mosdef": [
     "clusterProfiler",
     "goseq",
@@ -1884,20 +1861,15 @@
     "enrichplot",
     "txdbmaker"
   ],
-  "motifStack": [
-    "TFBSTools"
-  ],
+  "motifStack": [],
   "motifbreakR": [
     "VariantAnnotation",
     "motifStack",
     "Gviz",
     "ensembldb",
-    "biovizBase",
-    "TFBSTools"
+    "biovizBase"
   ],
-  "motifmatchr": [
-    "TFBSTools"
-  ],
+  "motifmatchr": [],
   "msImpute": [],
   "msgbsR": [
     "ggbio",
@@ -1963,8 +1935,7 @@
     "pRoloc"
   ],
   "pageRank": [
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "pairedGSEA": [
     "DEXSeq"
@@ -2003,7 +1974,6 @@
   "primirTSS": [
     "GenomicScores",
     "Gviz",
-    "TFBSTools",
     "ensembldb",
     "biovizBase",
     "VariantAnnotation"
@@ -2082,8 +2052,7 @@
     "EDASeq",
     "motifStack",
     "RUVSeq",
-    "txdbmaker",
-    "TFBSTools"
+    "txdbmaker"
   ],
   "rnaEditr": [
     "bumphunter"
@@ -2104,7 +2073,6 @@
   ],
   "scCB2": [],
   "scDD": [],
-  "scDblFinder": [],
   "scDotPlot": [],
   "scFeatures": [
     "ensembldb",
@@ -2202,7 +2170,6 @@
     "ensembldb",
     "scMerge",
     "celda",
-    "scDblFinder",
     "M3Drop"
   ],
   "sitadela": [
@@ -2222,7 +2189,6 @@
   "spatzie": [
     "GenomicInteractions",
     "motifmatchr",
-    "TFBSTools",
     "Gviz",
     "ensembldb",
     "biovizBase",

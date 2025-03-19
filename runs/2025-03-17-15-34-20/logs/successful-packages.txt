@@ -1583,3 +1583,8 @@ CATALYST
 crisprBwa
 r3Cseq
 scBFA
+BayesSpace
+DAPAR
+MsQuality
+scDblFinder
+TFBSTools
