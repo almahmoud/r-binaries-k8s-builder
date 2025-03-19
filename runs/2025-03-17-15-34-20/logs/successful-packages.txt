@@ -1798,3 +1798,4 @@ PROPS
 phenoTest
 Prostar
 Rmmquant
+tRNAscanImport
