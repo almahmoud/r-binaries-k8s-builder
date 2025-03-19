@@ -3025,7 +3025,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "hdxmsqc": [],
   "hiAnnotator": [
     "rtracklayer",
     "BSgenome"

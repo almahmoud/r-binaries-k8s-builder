@@ -1384,3 +1384,4 @@ scQTLtools
 scReClassify
 MetaboAnnotation
 alabaster.mae
+hdxmsqc
