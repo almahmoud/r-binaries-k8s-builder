@@ -407,7 +407,6 @@
   "CiteFuse": [
     "scran"
   ],
-  "ClassifyR": [],
   "CleanUpRNAseq": [
     "BSgenome",
     "ensembldb",
@@ -1725,7 +1724,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "TENxIO": [],
   "TFBSTools": [
     "BSgenome",
     "rtracklayer"
@@ -1748,9 +1746,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "TOP": [
-    "ClassifyR"
-  ],
+  "TOP": [],
   "TRESS": [
     "rtracklayer",
     "GenomicFeatures"
@@ -1843,9 +1839,7 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "VisiumIO": [
-    "TENxIO"
-  ],
+  "VisiumIO": [],
   "Voyager": [
     "SpatialFeatureExperiment",
     "DropletUtils"
@@ -1856,7 +1850,6 @@
     "rtracklayer"
   ],
   "XeniumIO": [
-    "TENxIO",
     "VisiumIO"
   ],
   "Xeva": [
@@ -2866,8 +2859,7 @@
   ],
   "lisaClust": [
     "spicyR",
-    "simpleSeg",
-    "ClassifyR"
+    "simpleSeg"
   ],
   "lumi": [
     "methylumi",
@@ -3696,7 +3688,6 @@
     "VariantAnnotation"
   ],
   "spicyR": [
-    "ClassifyR",
     "simpleSeg"
   ],
   "spiky": [
@@ -3897,9 +3888,7 @@
     "MSnbase",
     "MsExperiment"
   ],
-  "xenLite": [
-    "TENxIO"
-  ],
+  "xenLite": [],
   "yarn": [
     "quantro",
     "minfi",
