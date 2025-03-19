@@ -94,7 +94,6 @@
   ],
   "BindingSiteFinder": [],
   "BioNERO": [],
-  "BioTIP": [],
   "BiocHubsShiny": [
     "ExperimentHub"
   ],

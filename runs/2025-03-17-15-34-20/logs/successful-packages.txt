@@ -1623,3 +1623,4 @@ scRNAseqApp
 DrugVsDisease
 HiLDA
 TBSignatureProfiler
+BioTIP
