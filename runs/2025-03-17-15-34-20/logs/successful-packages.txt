@@ -1960,3 +1960,9 @@ scmeth
 sitadela
 saseR
 tadar
+alabaster
+atSNP
+bigmelon
+deepSNV
+recoup
+Ularcirc

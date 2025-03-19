@@ -2103,3 +2103,4 @@ msmsTests
 magpie
 FRASER
 chevreulShiny
+mitoClone2
