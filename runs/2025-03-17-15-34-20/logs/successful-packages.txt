@@ -1560,3 +1560,6 @@ GOTHiC
 sevenC
 SparseSignatures
 GlobalAncova
+CellMixS
+extraChIPs
+tradeSeq

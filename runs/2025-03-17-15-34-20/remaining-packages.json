@@ -204,7 +204,6 @@
   ],
   "CellBarcode": [],
   "CellBench": [],
-  "CellMixS": [],
   "CellTrails": [],
   "CelliD": [],
   "CexoR": [
@@ -1592,7 +1591,6 @@
   "esetVis": [
     "MLP"
   ],
-  "extraChIPs": [],
   "fCCAC": [
     "genomation"
   ],
@@ -2327,7 +2325,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tradeSeq": [],
   "transcriptR": [],
   "transmogR": [
     "VariantAnnotation"
