@@ -1896,3 +1896,6 @@ chimeraviz
 cicero
 dar
 methylPipe
+gcapc
+regutools
+srnadiff
