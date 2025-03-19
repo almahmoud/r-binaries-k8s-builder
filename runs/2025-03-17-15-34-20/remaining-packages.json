@@ -181,7 +181,6 @@
     "ExperimentHub",
     "DOSE"
   ],
-  "CCPROMISE": [],
   "CDI": [],
   "CEMiTool": [
     "clusterProfiler",
@@ -1271,7 +1270,6 @@
   "SVMDO": [
     "DOSE"
   ],
-  "SemDist": [],
   "SeqSQC": [
     "ExperimentHub"
   ],
@@ -2200,7 +2198,6 @@
   "isomiRs": [
     "DEGreport"
   ],
-  "jazzPanda": [],
   "karyoploteR": [
     "regioneR",
     "biovizBase",

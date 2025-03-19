@@ -1479,3 +1479,6 @@ SCANVIS
 XeniumIO
 InTAD
 seqsetvis
+CCPROMISE
+jazzPanda
+SemDist
