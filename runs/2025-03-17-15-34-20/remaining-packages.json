@@ -75,12 +75,10 @@
   "CNEr": [],
   "CNVRanger": [],
   "CNVfilteR": [
-    "karyoploteR",
     "CopyNumberPlots",
     "cn.mops"
   ],
   "CNViz": [
-    "karyoploteR",
     "CopyNumberPlots",
     "cn.mops"
   ],
@@ -131,7 +129,6 @@
     "ExperimentHub"
   ],
   "CopyNumberPlots": [
-    "karyoploteR",
     "cn.mops"
   ],
   "CoreGx": [],
@@ -769,7 +766,6 @@
   "isomiRs": [
     "DEGreport"
   ],
-  "karyoploteR": [],
   "kissDE": [
     "DSS"
   ],
@@ -786,7 +782,6 @@
   "magpie": [
     "TRESS"
   ],
-  "mariner": [],
   "maser": [],
   "mastR": [
     "ExperimentHub"
@@ -858,9 +853,7 @@
   "multiHiCcompare": [
     "HiCcompare"
   ],
-  "multicrispr": [
-    "karyoploteR"
-  ],
+  "multicrispr": [],
   "mumosa": [],
   "mygene": [],
   "ncGTW": [],
