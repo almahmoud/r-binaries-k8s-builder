@@ -1929,3 +1929,6 @@ seqCAT
 signeR
 tLOH
 transmogR
+blacksheepr
+diffUTR
+pairedGSEA

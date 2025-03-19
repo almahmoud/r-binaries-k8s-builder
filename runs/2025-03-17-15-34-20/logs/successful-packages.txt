@@ -1694,3 +1694,4 @@ Basic4Cseq
 MEDIPS
 methrix
 rnaEditr
+DEXSeq
