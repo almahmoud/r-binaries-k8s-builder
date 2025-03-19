@@ -538,9 +538,7 @@
     "chevreulProcess",
     "chevreulPlot"
   ],
-  "chimeraviz": [],
   "chopsticks": [],
-  "cicero": [],
   "circRNAprofiler": [],
   "cisPath": [],
   "cliqueMS": [],
@@ -553,9 +551,7 @@
   "coMethDMR": [
     "ExperimentHub"
   ],
-  "compEpiTools": [
-    "methylPipe"
-  ],
+  "compEpiTools": [],
   "condiments": [],
   "consensusDE": [],
   "coseq": [
@@ -588,7 +584,6 @@
   ],
   "customProDB": [],
   "dagLogo": [],
-  "dar": [],
   "debrowser": [
     "DOSE",
     "clusterProfiler",
@@ -765,7 +760,6 @@
     "enrichplot"
   ],
   "methylInheritance": [],
-  "methylPipe": [],
   "methylSig": [
     "DSS"
   ],

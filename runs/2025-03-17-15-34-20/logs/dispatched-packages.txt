@@ -2083,3 +2083,4 @@ spatzie
 RNAmodR.AlkAnilineSeq
 RNAmodR.ML
 RNAmodR.RiboMethSeq
+compEpiTools
