@@ -2231,7 +2231,6 @@
     "VariantAnnotation"
   ],
   "condiments": [
-    "slingshot",
     "distinct",
     "scater"
   ],
@@ -3498,7 +3497,6 @@
     "rtracklayer",
     "scran"
   ],
-  "scMET": [],
   "scMerge": [
     "M3Drop",
     "scater",
@@ -3510,8 +3508,7 @@
     "rtracklayer"
   ],
   "scRNAseqApp": [
-    "rtracklayer",
-    "slingshot"
+    "rtracklayer"
   ],
   "scTGIF": [],
   "scTensor": [
@@ -3675,7 +3672,6 @@
     "lumi",
     "rtracklayer"
   ],
-  "slingshot": [],
   "smoothclust": [],
   "smoppix": [],
   "soGGi": [
@@ -3807,9 +3803,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tradeSeq": [
-    "slingshot"
-  ],
+  "tradeSeq": [],
   "transcriptR": [
     "GenomicFeatures",
     "rtracklayer"
