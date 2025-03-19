@@ -57,7 +57,6 @@
     "CopyNumberPlots",
     "cn.mops"
   ],
-  "COCOA": [],
   "COTAN": [],
   "CTdata": [
     "ExperimentHub"
@@ -327,7 +326,6 @@
   "ReportingTools": [],
   "RiboProfiling": [],
   "RnaSeqSampleSize": [],
-  "SMITE": [],
   "SOMNiBUS": [],
   "SVMDO": [
     "DOSE"
@@ -463,16 +461,10 @@
     "DOSE",
     "enrichplot"
   ],
-  "epivizr": [
-    "epivizrData"
-  ],
-  "epivizrChart": [
-    "epivizrData"
-  ],
-  "epivizrData": [],
+  "epivizr": [],
+  "epivizrChart": [],
   "epivizrStandalone": [
-    "epivizr",
-    "epivizrData"
+    "epivizr"
   ],
   "esATAC": [
     "ChIPseeker",
@@ -635,8 +627,7 @@
     "enrichplot"
   ],
   "scTreeViz": [
-    "epivizr",
-    "epivizrData"
+    "epivizr"
   ],
   "scruff": [],
   "segmenter": [

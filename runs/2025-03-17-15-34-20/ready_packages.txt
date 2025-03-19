@@ -1,3 +1,2 @@
-RNAAgeCalc
-RnaSeqSampleSize
-psichomics
+epivizr
+epivizrChart

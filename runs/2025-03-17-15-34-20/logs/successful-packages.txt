@@ -2010,3 +2010,6 @@ RNAmodR.RiboMethSeq
 iSEEtree
 recount
 uncoverappLib
+COCOA
+epivizrData
+SMITE
