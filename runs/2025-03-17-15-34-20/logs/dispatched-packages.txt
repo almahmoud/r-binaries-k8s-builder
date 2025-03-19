@@ -1847,3 +1847,4 @@ EventPointer
 DaMiRseq
 MinimumDistance
 RUVSeq
+PRONE

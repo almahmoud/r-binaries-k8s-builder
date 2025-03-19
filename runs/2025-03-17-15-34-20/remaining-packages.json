@@ -660,7 +660,6 @@
     "minfi",
     "bumphunter"
   ],
-  "MethylSeekR": [],
   "MicrobiomeProfiler": [
     "clusterProfiler",
     "enrichplot",
@@ -750,12 +749,9 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "POMA": [],
   "PPInfer": [],
   "PREDA": [],
-  "PRONE": [
-    "POMA"
-  ],
+  "PRONE": [],
   "PROPS": [],
   "PanomiR": [
     "clusterProfiler",

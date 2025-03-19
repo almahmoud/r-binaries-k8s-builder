@@ -1610,3 +1610,5 @@ cpvSNP
 EDASeq
 recount3
 VanillaICE
+MethylSeekR
+POMA
