@@ -1634,3 +1634,8 @@ lute
 scDD
 BASiCS
 crisprBowtie
+CiteFuse
+ensembldb
+genomation
+INSPEcT
+methylKit

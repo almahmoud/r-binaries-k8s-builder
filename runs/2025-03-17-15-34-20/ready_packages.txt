@@ -1,1 +1,10 @@
-BASiCStan
+CexoR
+CleanUpRNAseq
+GRaNIE
+RITAN
+chevreulProcess
+drugTargetInteractions
+fCCAC
+methInheritSim
+methylInheritance
+scFeatures
