@@ -1776,3 +1776,15 @@ scPipe
 TBSignatureProfiler
 VanillaICE
 spicyR
+BASiCS
+BatchQC
+BioTIP
+CiteFuse
+Dino
+MOSim
+MPAC
+SingleCellSignalR
+SpaNorm
+lute
+msImpute
+scDD
