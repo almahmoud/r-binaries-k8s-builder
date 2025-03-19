@@ -1838,3 +1838,5 @@ gmoviz
 MatrixRider
 traseR
 CleanUpRNAseq
+biovizBase
+scviR

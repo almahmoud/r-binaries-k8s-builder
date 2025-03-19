@@ -2030,3 +2030,8 @@ tximeta
 vulcan
 cBioPortalData
 recount
+BubbleTree
+ChIPexoQual
+Gviz
+Rqc
+karyoploteR
