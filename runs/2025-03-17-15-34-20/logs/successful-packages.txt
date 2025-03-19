@@ -1681,3 +1681,8 @@ wavClusteR
 iCNV
 Repitools
 TFEA.ChIP
+BSgenomeForge
+GenomicInteractionNodes
+plyranges
+signifinder
+VariantAnnotation
