@@ -2084,3 +2084,4 @@ RNAmodR.AlkAnilineSeq
 RNAmodR.ML
 RNAmodR.RiboMethSeq
 compEpiTools
+geomeTriD

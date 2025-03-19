@@ -342,7 +342,6 @@
   "MultiRNAflow": [],
   "MultimodalExperiment": [],
   "NADfinder": [
-    "trackViewer",
     "ATACseqQC",
     "GenomicScores"
   ],
@@ -671,9 +670,7 @@
   ],
   "geneAttribution": [],
   "genoCN": [],
-  "geomeTriD": [
-    "trackViewer"
-  ],
+  "geomeTriD": [],
   "ggbio": [
     "OrganismDbi"
   ],
@@ -906,7 +903,6 @@
   "spatzie": [],
   "standR": [],
   "tadar": [],
-  "trackViewer": [],
   "trigger": [],
   "txcutr": [],
   "tximeta": [],
