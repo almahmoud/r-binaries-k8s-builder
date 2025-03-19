@@ -1795,3 +1795,6 @@ MEB
 motifmatchr
 VarCon
 PROPS
+phenoTest
+Prostar
+Rmmquant

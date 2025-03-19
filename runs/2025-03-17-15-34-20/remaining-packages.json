@@ -527,7 +527,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "Prostar": [],
   "ProteoDisco": [],
   "Pviz": [
     "Gviz",
@@ -622,7 +621,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "Rmmquant": [],
   "RnaSeqSampleSize": [
     "recount",
     "derfinder"
@@ -776,7 +774,6 @@
   ],
   "canceR": [
     "cBioPortalData",
-    "phenoTest",
     "RTCGAToolbox",
     "TCGAutils"
   ],
@@ -1218,7 +1215,6 @@
     "txdbmaker"
   ],
   "periodicDNA": [],
-  "phenoTest": [],
   "pipeFrame": [],
   "preciseTAD": [
     "rCGH"
