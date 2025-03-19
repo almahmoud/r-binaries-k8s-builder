@@ -62,7 +62,6 @@
   "BBCAnalyzer": [
     "VariantAnnotation"
   ],
-  "BEAT": [],
   "BERT": [],
   "BLMA": [],
   "BOBaFIT": [
@@ -718,7 +717,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "NBAMSeq": [],
   "NanoMethViz": [
     "bsseq"
   ],
@@ -1186,7 +1184,6 @@
   "blacksheepr": [
     "DEXSeq"
   ],
-  "bnem": [],
   "borealis": [
     "bsseq",
     "DSS"

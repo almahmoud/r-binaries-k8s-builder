@@ -1603,3 +1603,6 @@ Cogito
 hiAnnotator
 miRLAB
 SGSeq
+BEAT
+bnem
+NBAMSeq
