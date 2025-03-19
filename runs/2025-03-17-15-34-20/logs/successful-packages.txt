@@ -1805,3 +1805,5 @@ epigraHMM
 periodicDNA
 qsea
 rCGH
+Organism.dplyr
+RITAN

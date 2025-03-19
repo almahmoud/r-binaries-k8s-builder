@@ -493,7 +493,6 @@
   ],
   "OmaDB": [],
   "OncoScore": [],
-  "Organism.dplyr": [],
   "OrganismDbi": [
     "txdbmaker"
   ],
@@ -546,7 +545,6 @@
   "REBET": [],
   "REDseq": [],
   "RESOLVE": [],
-  "RITAN": [],
   "RMassBank": [],
   "RNAAgeCalc": [
     "recount",
@@ -686,9 +684,7 @@
     "CoreGx"
   ],
   "UPDhmm": [],
-  "Ularcirc": [
-    "Organism.dplyr"
-  ],
+  "Ularcirc": [],
   "VCFArray": [],
   "VariantFiltering": [
     "GenomicScores",
