@@ -1035,7 +1035,6 @@
     "enrichplot",
     "DOSE"
   ],
-  "escape": [],
   "esetVis": [
     "MLP"
   ],
@@ -1531,6 +1530,5 @@
   "wateRmelon": [
     "lumi"
   ],
-  "wiggleplotr": [],
-  "yarn": []
+  "wiggleplotr": []
 }
