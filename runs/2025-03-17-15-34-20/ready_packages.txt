@@ -1,1 +1,15 @@
-doubletrouble
+CluMSID
+DAPAR
+DEP
+MSstatsQC
+PrInCE
+RMassBank
+msmsEDA
+omXplore
+pRoloc
+peakPantheR
+ptairMS
+qPLEXanalyzer
+synapter
+topdownr
+xcms

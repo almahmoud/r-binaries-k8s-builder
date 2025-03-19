@@ -137,8 +137,7 @@
     "biovizBase"
   ],
   "CAMERA": [
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "CATALYST": [],
   "CBNplot": [
@@ -262,9 +261,7 @@
   "CleanUpRNAseq": [
     "ensembldb"
   ],
-  "CluMSID": [
-    "MSnbase"
-  ],
+  "CluMSID": [],
   "ClusterFoldSimilarity": [],
   "CoGAPS": [],
   "CoSIA": [
@@ -294,15 +291,11 @@
     "VariantAnnotation",
     "bumphunter"
   ],
-  "DAPAR": [
-    "MSnbase"
-  ],
+  "DAPAR": [],
   "DEFormats": [],
   "DEGreport": [],
   "DELocal": [],
-  "DEP": [
-    "MSnbase"
-  ],
+  "DEP": [],
   "DEScan2": [
     "ChIPpeakAnno",
     "regioneR",
@@ -578,8 +571,7 @@
   "INSPEcT": [],
   "IPO": [
     "xcms",
-    "CAMERA",
-    "MSnbase"
+    "CAMERA"
   ],
   "IVAS": [],
   "InPAS": [
@@ -602,8 +594,7 @@
   "LACE": [],
   "LOBSTAHS": [
     "xcms",
-    "CAMERA",
-    "MSnbase"
+    "CAMERA"
   ],
   "LRcell": [
     "ExperimentHub"
@@ -625,8 +616,7 @@
   ],
   "MAIT": [
     "CAMERA",
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "MDTS": [],
   "MEAL": [
@@ -671,17 +661,12 @@
   "MOSim": [],
   "MPAC": [],
   "MSnID": [
-    "MSnbase",
     "msmsTests",
     "msmsEDA"
   ],
-  "MSnbase": [],
-  "MSstatsQC": [
-    "MSnbase"
-  ],
+  "MSstatsQC": [],
   "MSstatsQCgui": [
-    "MSstatsQC",
-    "MSnbase"
+    "MSstatsQC"
   ],
   "MatrixQCvis": [
     "ExperimentHub"
@@ -813,7 +798,6 @@
   "PPInfer": [],
   "PREDA": [],
   "PRONE": [
-    "MSnbase",
     "POMA"
   ],
   "PROPS": [],
@@ -834,12 +818,9 @@
     "DOSE",
     "enrichplot"
   ],
-  "PrInCE": [
-    "MSnbase"
-  ],
+  "PrInCE": [],
   "Prostar": [
-    "DAPAR",
-    "MSnbase"
+    "DAPAR"
   ],
   "ProteoDisco": [
     "VariantAnnotation"
@@ -894,9 +875,7 @@
   "RITAN": [
     "ensembldb"
   ],
-  "RMassBank": [
-    "MSnbase"
-  ],
+  "RMassBank": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -1221,7 +1200,6 @@
   ],
   "bambu": [],
   "bandle": [
-    "MSnbase",
     "pRoloc"
   ],
   "batchelor": [],
@@ -1365,8 +1343,7 @@
     "qpgraph"
   ],
   "cliqueMS": [
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "clusterExperiment": [],
   "clusterProfiler": [
@@ -1409,8 +1386,7 @@
     "HTSFilter"
   ],
   "cosmiq": [
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "cpvSNP": [],
   "crisprBowtie": [],
@@ -1647,8 +1623,7 @@
   ],
   "flagme": [
     "xcms",
-    "CAMERA",
-    "MSnbase"
+    "CAMERA"
   ],
   "funtooNorm": [
     "minfi",
@@ -1850,8 +1825,7 @@
   "meshr": [],
   "metaMS": [
     "CAMERA",
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "metagene2": [],
   "metaseqR2": [
@@ -1977,11 +1951,8 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "msmsEDA": [
-    "MSnbase"
-  ],
+  "msmsEDA": [],
   "msmsTests": [
-    "MSnbase",
     "msmsEDA"
   ],
   "multiHiCcompare": [
@@ -2011,8 +1982,7 @@
     "VariantAnnotation"
   ],
   "ncGTW": [
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "nearBynding": [
     "plyranges"
@@ -2028,18 +1998,13 @@
     "ExperimentHub",
     "EDASeq"
   ],
-  "omXplore": [
-    "MSnbase"
-  ],
+  "omXplore": [],
   "orthos": [
     "ExperimentHub"
   ],
-  "pRoloc": [
-    "MSnbase"
-  ],
+  "pRoloc": [],
   "pRolocGUI": [
-    "pRoloc",
-    "MSnbase"
+    "pRoloc"
   ],
   "pageRank": [
     "motifmatchr",
@@ -2065,9 +2030,7 @@
     "enrichplot",
     "txdbmaker"
   ],
-  "peakPantheR": [
-    "MSnbase"
-  ],
+  "peakPantheR": [],
   "peco": [],
   "periodicDNA": [],
   "phenoTest": [],
@@ -2112,13 +2075,9 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "ptairMS": [
-    "MSnbase"
-  ],
+  "ptairMS": [],
   "puma": [],
-  "qPLEXanalyzer": [
-    "MSnbase"
-  ],
+  "qPLEXanalyzer": [],
   "qpgraph": [],
   "qsea": [],
   "qsvaR": [],
@@ -2329,8 +2288,7 @@
   "splatter": [],
   "spoon": [],
   "squallms": [
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "srnadiff": [
     "Gviz",
@@ -2352,10 +2310,7 @@
     "StructuralVariantAnnotation",
     "VariantAnnotation"
   ],
-  "synapter": [
-    "MSnbase"
-  ],
-  "systemPipeTools": [],
+  "synapter": [],
   "tLOH": [
     "VariantAnnotation"
   ],
@@ -2374,9 +2329,7 @@
     "plyranges",
     "nullranges"
   ],
-  "topdownr": [
-    "MSnbase"
-  ],
+  "topdownr": [],
   "trackViewer": [
     "Gviz",
     "txdbmaker",
@@ -2433,9 +2386,7 @@
   ],
   "wavClusteR": [],
   "wiggleplotr": [],
-  "xcms": [
-    "MSnbase"
-  ],
+  "xcms": [],
   "yarn": [
     "quantro",
     "minfi",
