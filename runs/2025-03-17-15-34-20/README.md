@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2054 packages built successfully
+- 2053 packages built successfully
 - 10 packages failed to build
-- 210 packages not yet processed
+- 211 packages not yet processed
 
 ## Failed Builds (10)
 | Package                                                                          | Status   | Log                                    | BBS Status                                                                | Failure Reasons                 |
@@ -22,7 +22,7 @@
 | [rGADEM](https://bioconductor.org/packages/3.21/bioc/html/rGADEM.html)           | Failed   | [Log](logs/rGADEM/build-fail.log)      | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/rGADEM)    | Build failed with unknown error |
 | [trigger](https://bioconductor.org/packages/3.21/bioc/html/trigger.html)         | Failed   | [Log](logs/trigger/build-fail.log)     | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/trigger)   | Build failed with unknown error |
 
-## Successfully Built (2054)
+## Successfully Built (2053)
 | Package                                                                                                          | Status   | Log                                                       | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.21/bioc/html/ABSSeq.html)                                           | Built    | [Log](logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ABSSeq)                      |
@@ -1856,7 +1856,6 @@
 | [scShapes](https://bioconductor.org/packages/3.21/bioc/html/scShapes.html)                                       | Built    | [Log](logs/scShapes/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/scShapes)                    |
 | [scTGIF](https://bioconductor.org/packages/3.21/bioc/html/scTGIF.html)                                           | Built    | [Log](logs/scTGIF/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/scTGIF)                      |
 | [scTHI](https://bioconductor.org/packages/3.21/bioc/html/scTHI.html)                                             | Built    | [Log](logs/scTHI/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/scTHI)                       |
-| [scTreeViz](https://bioconductor.org/packages/3.21/bioc/html/scTreeViz.html)                                     | Built    | [Log](logs/scTreeViz/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/scTreeViz)                   |
 | [scanMiR](https://bioconductor.org/packages/3.21/bioc/html/scanMiR.html)                                         | Built    | [Log](logs/scanMiR/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/scanMiR)                     |
 | [scanMiRApp](https://bioconductor.org/packages/3.21/bioc/html/scanMiRApp.html)                                   | Built    | [Log](logs/scanMiRApp/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/scanMiRApp)                  |
 | [scater](https://bioconductor.org/packages/3.21/bioc/html/scater.html)                                           | Built    | [Log](logs/scater/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/scater)                      |
@@ -2080,7 +2079,7 @@
 | [zitools](https://bioconductor.org/packages/3.21/bioc/html/zitools.html)                                         | Built    | [Log](logs/zitools/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/zitools)                     |
 | [zlibbioc](https://bioconductor.org/packages/3.21/bioc/html/zlibbioc.html)                                       | Built    | [Log](logs/zlibbioc/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/zlibbioc)                    |
 
-## Not Yet Processed (210)
+## Not Yet Processed (211)
 | Package                                                                                                | Status      |
 |--------------------------------------------------------------------------------------------------------|-------------|
 | [ADAMgui](https://bioconductor.org/packages/3.21/bioc/html/ADAMgui.html)                               | Unprocessed |
@@ -2285,6 +2284,7 @@
 | [rsbml](https://bioconductor.org/packages/3.21/bioc/html/rsbml.html)                                   | Unprocessed |
 | [sampleClassifier](https://bioconductor.org/packages/3.21/bioc/html/sampleClassifier.html)             | Unprocessed |
 | [scTensor](https://bioconductor.org/packages/3.21/bioc/html/scTensor.html)                             | Unprocessed |
+| [scTreeViz](https://bioconductor.org/packages/3.21/bioc/html/scTreeViz.html)                           | Unprocessed |
 | [segmenter](https://bioconductor.org/packages/3.21/bioc/html/segmenter.html)                           | Unprocessed |
 | [seqArchRplus](https://bioconductor.org/packages/3.21/bioc/html/seqArchRplus.html)                     | Unprocessed |
 | [sesame](https://bioconductor.org/packages/3.21/bioc/html/sesame.html)                                 | Unprocessed |
