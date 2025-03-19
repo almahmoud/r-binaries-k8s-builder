@@ -1830,3 +1830,7 @@ SARC
 seqCAT
 terraTCGAdata
 VCFArray
+ADaCGH2
+derfinder
+glmSparseNet
+netSmooth

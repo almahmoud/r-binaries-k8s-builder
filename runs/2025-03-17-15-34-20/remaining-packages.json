@@ -1,7 +1,6 @@
 {
   "ADAMgui": [],
   "ADImpute": [],
-  "ADaCGH2": [],
   "AHMassBank": [
     "AnnotationHubData",
     "OrganismDbi"
@@ -485,8 +484,7 @@
   "REDseq": [],
   "RESOLVE": [],
   "RNAAgeCalc": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "RNAmodR": [
     "Gviz",
@@ -543,8 +541,7 @@
     "OrganismDbi"
   ],
   "RnaSeqSampleSize": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "Rqc": [
     "biovizBase"
@@ -778,9 +775,7 @@
     "enrichplot"
   ],
   "deepSNV": [],
-  "derfinder": [],
   "derfinderPlot": [
-    "derfinder",
     "ggbio",
     "biovizBase",
     "OrganismDbi"
@@ -878,7 +873,6 @@
     "OrganismDbi"
   ],
   "ggspavis": [],
-  "glmSparseNet": [],
   "gmapR": [],
   "gmoviz": [],
   "goSorensen": [
@@ -1042,7 +1036,6 @@
   "mumosa": [],
   "mygene": [],
   "ncGTW": [],
-  "netSmooth": [],
   "octad": [
     "RUVSeq",
     "ExperimentHub"
@@ -1081,18 +1074,14 @@
     "DOSE"
   ],
   "psichomics": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "puma": [],
   "rGADEM": [],
   "raer": [],
-  "recount": [
-    "derfinder"
-  ],
+  "recount": [],
   "recoup": [],
   "regionReport": [
-    "derfinder",
     "DEFormats"
   ],
   "regutools": [
