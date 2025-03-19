@@ -1500,3 +1500,6 @@ StabMap
 SPIAT
 zenith
 ChIPsim
+destiny
+iSEEu
+transformGamPoi

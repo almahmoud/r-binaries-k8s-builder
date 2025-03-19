@@ -1576,9 +1576,7 @@
     "motifStack",
     "TFBSTools"
   ],
-  "dandelionR": [
-    "destiny"
-  ],
+  "dandelionR": [],
   "dar": [
     "mia",
     "scater"
@@ -1624,7 +1622,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "destiny": [],
   "diffHic": [],
   "diffUTR": [
     "DEXSeq",
@@ -1864,9 +1861,7 @@
     "enrichplot",
     "txdbmaker"
   ],
-  "iSEEfier": [
-    "iSEEu"
-  ],
+  "iSEEfier": [],
   "iSEEhub": [
     "ExperimentHub"
   ],
@@ -1875,7 +1870,6 @@
     "mia",
     "scater"
   ],
-  "iSEEu": [],
   "icetea": [
     "VariantAnnotation"
   ],
@@ -2564,7 +2558,6 @@
   ],
   "tradeSeq": [],
   "transcriptR": [],
-  "transformGamPoi": [],
   "transmogR": [
     "VariantAnnotation"
   ],
