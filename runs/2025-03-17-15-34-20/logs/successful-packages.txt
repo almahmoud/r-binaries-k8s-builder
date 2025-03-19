@@ -1695,3 +1695,5 @@ MEDIPS
 methrix
 rnaEditr
 DEXSeq
+regioneR
+topdownr

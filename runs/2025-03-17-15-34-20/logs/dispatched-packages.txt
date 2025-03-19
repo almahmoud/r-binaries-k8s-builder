@@ -1932,3 +1932,8 @@ transmogR
 blacksheepr
 diffUTR
 pairedGSEA
+ChIPpeakAnno
+RgnTX
+UMI4Cats
+annotatr
+regioneReloaded
