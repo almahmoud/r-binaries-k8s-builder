@@ -1445,3 +1445,11 @@ nipalsMCIA
 ropls
 smoothclust
 spaSim
+BiSeq
+CoverageView
+escheR
+gDRcore
+MultiBaC
+scp
+smoppix
+VisiumIO

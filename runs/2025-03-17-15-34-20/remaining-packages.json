@@ -137,7 +137,6 @@
   "BiGGR": [
     "rsbml"
   ],
-  "BiSeq": [],
   "BindingSiteFinder": [
     "GenomicFeatures"
   ],
@@ -386,7 +385,6 @@
     "ensembldb"
   ],
   "CoreGx": [],
-  "CoverageView": [],
   "CrispRVariants": [],
   "CytoGLMM": [],
   "CytoMDS": [
@@ -1011,7 +1009,6 @@
     "MsExperiment"
   ],
   "MuData": [],
-  "MultiBaC": [],
   "MultiRNAflow": [],
   "MultimodalExperiment": [],
   "MungeSumstats": [
@@ -1477,9 +1474,7 @@
   ],
   "SplineDV": [],
   "SpotClean": [],
-  "SpotSweeper": [
-    "escheR"
-  ],
+  "SpotSweeper": [],
   "StabMap": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation",
@@ -1606,7 +1601,6 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "VisiumIO": [],
   "Voyager": [
     "SpatialFeatureExperiment",
     "DropletUtils"
@@ -1615,9 +1609,7 @@
   "XNAString": [
     "BSgenome"
   ],
-  "XeniumIO": [
-    "VisiumIO"
-  ],
+  "XeniumIO": [],
   "Xeva": [
     "PharmacoGx",
     "CoreGx"
@@ -2242,7 +2234,6 @@
     "DOSE"
   ],
   "escape": [],
-  "escheR": [],
   "esetVis": [
     "MLP"
   ],
@@ -2291,12 +2282,10 @@
     "BSgenome"
   ],
   "gDR": [
-    "gDRcore",
     "gDRimport",
     "CoreGx",
     "PharmacoGx"
   ],
-  "gDRcore": [],
   "gDRimport": [
     "CoreGx",
     "PharmacoGx"
@@ -3074,7 +3063,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "scp": [],
   "scran": [],
   "scruff": [
     "GenomicFeatures",
@@ -3171,7 +3159,6 @@
     "bumphunter",
     "lumi"
   ],
-  "smoppix": [],
   "soGGi": [],
   "spatialDE": [],
   "spatialFDA": [

@@ -1683,3 +1683,5 @@ biosigner
 lipidr
 phenomis
 rqt
+SpotSweeper
+XeniumIO
