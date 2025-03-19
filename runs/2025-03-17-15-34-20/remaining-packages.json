@@ -428,7 +428,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "epivizrStandalone": [],
   "esATAC": [
     "ChIPseeker",
     "clusterProfiler",

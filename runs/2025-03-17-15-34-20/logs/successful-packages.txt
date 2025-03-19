@@ -2049,3 +2049,4 @@ FLAMES
 psichomics
 YAPSA
 affycoretools
+epivizrStandalone
