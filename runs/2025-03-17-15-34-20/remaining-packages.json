@@ -742,7 +742,6 @@
     "HelloRanges",
     "VariantAnnotation"
   ],
-  "ORFhunteR": [],
   "ORFik": [
     "txdbmaker"
   ],
@@ -1200,7 +1199,6 @@
   "blacksheepr": [
     "DEXSeq"
   ],
-  "bnbc": [],
   "bnem": [],
   "borealis": [
     "bsseq",
@@ -1238,7 +1236,6 @@
     "VariantAnnotation"
   ],
   "casper": [],
-  "categoryCompare": [],
   "cbaf": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -1985,7 +1982,6 @@
     "txdbmaker"
   ],
   "profileplyr": [
-    "soGGi",
     "ChIPseeker",
     "rGREAT",
     "enrichplot",
@@ -2182,7 +2178,6 @@
     "bumphunter",
     "lumi"
   ],
-  "soGGi": [],
   "spatialFDA": [
     "ExperimentHub"
   ],

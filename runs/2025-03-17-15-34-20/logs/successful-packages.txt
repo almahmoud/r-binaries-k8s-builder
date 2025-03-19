@@ -1588,3 +1588,7 @@ DAPAR
 MsQuality
 scDblFinder
 TFBSTools
+bnbc
+categoryCompare
+ORFhunteR
+soGGi
