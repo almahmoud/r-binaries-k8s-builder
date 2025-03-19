@@ -1618,7 +1618,6 @@
     "enrichplot",
     "txdbmaker"
   ],
-  "iSEEfier": [],
   "iSEEhub": [
     "ExperimentHub"
   ],
@@ -2017,7 +2016,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scCB2": [],
   "scDD": [],
   "scDotPlot": [],
   "scFeatures": [
@@ -2028,7 +2026,6 @@
     "M3Drop"
   ],
   "scPipe": [],
-  "scRNAseqApp": [],
   "scTensor": [
     "ReactomePA",
     "DOSE",
