@@ -1506,3 +1506,6 @@ transformGamPoi
 midasHLA
 CRISPRball
 microbiomeExplorer
+DropletUtils
+simPIC
+xCell2

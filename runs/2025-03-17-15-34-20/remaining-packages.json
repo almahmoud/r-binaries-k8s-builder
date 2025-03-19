@@ -390,7 +390,6 @@
   "DominoEffect": [
     "VariantAnnotation"
   ],
-  "DropletUtils": [],
   "DrugVsDisease": [],
   "DuplexDiscovereR": [
     "Gviz",
@@ -458,7 +457,6 @@
   ],
   "FLAMES": [
     "bambu",
-    "DropletUtils",
     "txdbmaker",
     "ggbio",
     "scater",
@@ -1130,16 +1128,11 @@
   ],
   "Spaniel": [
     "scater",
-    "scran",
-    "DropletUtils"
+    "scran"
   ],
   "SparseSignatures": [],
-  "SpatialExperimentIO": [
-    "DropletUtils"
-  ],
-  "SpatialFeatureExperiment": [
-    "DropletUtils"
-  ],
+  "SpatialExperimentIO": [],
+  "SpatialFeatureExperiment": [],
   "SpectralTAD": [
     "HiCcompare"
   ],
@@ -1231,8 +1224,7 @@
     "VariantAnnotation"
   ],
   "Voyager": [
-    "SpatialFeatureExperiment",
-    "DropletUtils"
+    "SpatialFeatureExperiment"
   ],
   "XDE": [],
   "XNAString": [],
@@ -2330,9 +2322,7 @@
     "VariantAnnotation"
   ],
   "scBFA": [],
-  "scCB2": [
-    "DropletUtils"
-  ],
+  "scCB2": [],
   "scDD": [
     "scran"
   ],
@@ -2354,9 +2344,7 @@
     "batchelor",
     "scran"
   ],
-  "scPipe": [
-    "DropletUtils"
-  ],
+  "scPipe": [],
   "scRNAseqApp": [],
   "scTensor": [
     "meshr",
@@ -2446,7 +2434,6 @@
     "consensusOV",
     "ensembldb"
   ],
-  "simPIC": [],
   "simpleSeg": [],
   "singleCellTK": [
     "batchelor",
@@ -2456,7 +2443,6 @@
     "scMerge",
     "scran",
     "celda",
-    "DropletUtils",
     "scDblFinder",
     "M3Drop"
   ],
@@ -2581,7 +2567,6 @@
   ],
   "velociraptor": [],
   "visiumStitched": [
-    "DropletUtils",
     "scater",
     "ExperimentHub"
   ],
@@ -2607,7 +2592,6 @@
   ],
   "wavClusteR": [],
   "wiggleplotr": [],
-  "xCell2": [],
   "xcms": [
     "MSnbase"
   ],

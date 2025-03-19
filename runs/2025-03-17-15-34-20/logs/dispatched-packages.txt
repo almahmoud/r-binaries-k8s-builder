@@ -1769,3 +1769,7 @@ MsQuality
 dreamlet
 dandelionR
 iSEEfier
+SpatialExperimentIO
+SpatialFeatureExperiment
+scCB2
+scPipe
