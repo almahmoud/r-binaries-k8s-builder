@@ -511,7 +511,6 @@
     "SGSeq",
     "GenomicFeatures"
   ],
-  "ExCluster": [],
   "ExperimentHub": [],
   "ExperimentHubData": [
     "AnnotationHubData",
@@ -1561,7 +1560,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "biosigner": [],
   "biovizBase": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -2691,7 +2689,6 @@
     "GenomicFeatures"
   ],
   "roar": [],
-  "rqt": [],
   "rrvgo": [],
   "rsbml": [],
   "sampleClassifier": [
