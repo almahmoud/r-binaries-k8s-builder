@@ -1963,3 +1963,5 @@ RESOLVE
 DEScan2
 GUIDEseq
 REDseq
+svaNUMT
+svaRetro

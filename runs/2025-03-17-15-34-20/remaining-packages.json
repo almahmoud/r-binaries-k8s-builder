@@ -703,7 +703,6 @@
   "SpliceWiz": [
     "ExperimentHub"
   ],
-  "StructuralVariantAnnotation": [],
   "TADCompare": [
     "HiCcompare"
   ],
@@ -1473,12 +1472,8 @@
     "RUVSeq"
   ],
   "strandCheckR": [],
-  "svaNUMT": [
-    "StructuralVariantAnnotation"
-  ],
-  "svaRetro": [
-    "StructuralVariantAnnotation"
-  ],
+  "svaNUMT": [],
+  "svaRetro": [],
   "tLOH": [],
   "tRNAscanImport": [],
   "tadar": [
