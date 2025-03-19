@@ -1991,3 +1991,6 @@ IsoformSwitchAnalyzeR
 proBAMr
 RNAmodR.ML
 LOBSTAHS
+BgeeCall
+geneAttribution
+methInheritSim
