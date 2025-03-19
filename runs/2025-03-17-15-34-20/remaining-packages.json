@@ -332,7 +332,6 @@
   "DEWSeq": [],
   "DEXSeq": [],
   "DEsubs": [],
-  "DExMA": [],
   "DMRcate": [
     "ExperimentHub",
     "bsseq",
@@ -838,7 +837,6 @@
     "txdbmaker"
   ],
   "OutSplice": [],
-  "PAA": [],
   "PDATK": [
     "CoreGx"
   ],
@@ -1614,7 +1612,6 @@
     "annotatr",
     "regioneR"
   ],
-  "doppelgangR": [],
   "doubletrouble": [
     "syntenet"
   ],

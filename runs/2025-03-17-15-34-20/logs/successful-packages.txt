@@ -1518,3 +1518,6 @@ HarmonizR
 crlmm
 EGSEA
 simpleSeg
+DExMA
+doppelgangR
+PAA
