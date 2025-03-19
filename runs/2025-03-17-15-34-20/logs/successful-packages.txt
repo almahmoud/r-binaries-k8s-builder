@@ -1555,3 +1555,7 @@ ChIPanalyser
 ChIPComp
 fastLiquidAssociation
 geneXtendeR
+alabaster.spatial
+GOTHiC
+sevenC
+SparseSignatures

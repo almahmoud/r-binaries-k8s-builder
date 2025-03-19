@@ -455,7 +455,6 @@
     "RTCGAToolbox",
     "TCGAutils"
   ],
-  "GOTHiC": [],
   "GOexpress": [],
   "GOpro": [],
   "GOstats": [],
@@ -1045,7 +1044,6 @@
   ],
   "SpaNorm": [],
   "Spaniel": [],
-  "SparseSignatures": [],
   "SpatialExperimentIO": [],
   "SpatialFeatureExperiment": [],
   "SpectralTAD": [
@@ -1165,11 +1163,9 @@
   ],
   "airpart": [],
   "alabaster": [
-    "alabaster.spatial",
     "alabaster.vcf",
     "VariantAnnotation"
   ],
-  "alabaster.spatial": [],
   "alabaster.vcf": [
     "VariantAnnotation"
   ],
@@ -2221,7 +2217,6 @@
   "sesame": [
     "ExperimentHub"
   ],
-  "sevenC": [],
   "shinyMethyl": [
     "minfi",
     "bumphunter"
