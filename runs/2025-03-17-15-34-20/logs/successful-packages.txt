@@ -1704,3 +1704,8 @@ APAlyzer
 BadRegionFinder
 clusterExperiment
 CNVrd2
+BUSpaRse
+DAMEfinder
+DominoEffect
+SpaNorm
+spillR

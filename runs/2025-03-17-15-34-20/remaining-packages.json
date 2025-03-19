@@ -52,7 +52,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "BUSpaRse": [],
   "BUSseq": [],
   "BaalChIP": [],
   "BasicSTARRseq": [],
@@ -199,7 +198,6 @@
   "CytoPipelineGUI": [
     "CytoPipeline"
   ],
-  "DAMEfinder": [],
   "DEFormats": [],
   "DEGreport": [],
   "DELocal": [],
@@ -244,7 +242,6 @@
   "DelayedTensor": [],
   "DiffBind": [],
   "DifferentialRegulation": [],
-  "DominoEffect": [],
   "DuplexDiscovereR": [
     "Gviz",
     "biovizBase"
@@ -744,7 +741,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "SpaNorm": [],
   "Spaniel": [],
   "SpectralTAD": [
     "HiCcompare"
@@ -1560,7 +1556,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "spillR": [],
   "spoon": [],
   "squallms": [],
   "srnadiff": [
