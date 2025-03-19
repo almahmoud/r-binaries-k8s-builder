@@ -1503,3 +1503,4 @@ ChIPsim
 destiny
 iSEEu
 transformGamPoi
+midasHLA
