@@ -10,7 +10,6 @@
   "AMARETTO": [
     "ExperimentHub"
   ],
-  "APAlyzer": [],
   "APL": [],
   "ASURAT": [],
   "ASpli": [
@@ -56,7 +55,6 @@
   "BUSpaRse": [],
   "BUSseq": [],
   "BaalChIP": [],
-  "BadRegionFinder": [],
   "BasicSTARRseq": [],
   "BgeeCall": [
     "txdbmaker"
@@ -121,7 +119,6 @@
     "cn.mops",
     "biovizBase"
   ],
-  "CNVrd2": [],
   "COCOA": [
     "MIRA",
     "bsseq"
@@ -942,7 +939,6 @@
     "qpgraph"
   ],
   "cliqueMS": [],
-  "clusterExperiment": [],
   "clusterProfiler": [
     "DOSE",
     "enrichplot"
@@ -1380,9 +1376,7 @@
   "myvariant": [],
   "ncGTW": [],
   "nearBynding": [],
-  "netSmooth": [
-    "clusterExperiment"
-  ],
+  "netSmooth": [],
   "nullranges": [],
   "octad": [
     "RUVSeq",

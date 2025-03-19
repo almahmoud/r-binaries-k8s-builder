@@ -1948,3 +1948,4 @@ quantro
 recountmethylation
 shinyMethyl
 shinyepico
+netSmooth

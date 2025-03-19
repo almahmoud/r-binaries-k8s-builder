@@ -1700,3 +1700,7 @@ topdownr
 BBCAnalyzer
 celda
 minfi
+APAlyzer
+BadRegionFinder
+clusterExperiment
+CNVrd2
