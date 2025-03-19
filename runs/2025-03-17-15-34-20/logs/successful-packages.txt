@@ -2048,3 +2048,4 @@ epivizrChart
 FLAMES
 psichomics
 YAPSA
+affycoretools

@@ -10,9 +10,7 @@
     "GenomicScores"
   ],
   "AffiXcan": [],
-  "AgiMicroRna": [
-    "affycoretools"
-  ],
+  "AgiMicroRna": [],
   "Anaquin": [],
   "AneuFinder": [],
   "BLMA": [],
@@ -344,7 +342,6 @@
   "adductomicsR": [
     "ExperimentHub"
   ],
-  "affycoretools": [],
   "appreci8R": [
     "GenomicScores"
   ],
