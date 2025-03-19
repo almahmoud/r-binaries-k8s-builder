@@ -88,7 +88,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "ArrayExpress": [],
   "BASiCS": [
     "scran",
     "scuttle"
@@ -606,9 +605,7 @@
   "DropletUtils": [
     "scuttle"
   ],
-  "DrugVsDisease": [
-    "ArrayExpress"
-  ],
+  "DrugVsDisease": [],
   "DuplexDiscovereR": [
     "Gviz",
     "rtracklayer",
@@ -3936,7 +3933,6 @@
     "ExperimentHub"
   ],
   "spatialHeatmap": [],
-  "spatialSimGP": [],
   "spatzie": [
     "BSgenome",
     "GenomicFeatures",
