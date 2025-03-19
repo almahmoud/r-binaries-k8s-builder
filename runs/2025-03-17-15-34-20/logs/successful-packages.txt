@@ -1789,3 +1789,8 @@ wateRmelon
 airpart
 IVAS
 spoon
+bsseq
+fCCAC
+MEB
+motifmatchr
+VarCon

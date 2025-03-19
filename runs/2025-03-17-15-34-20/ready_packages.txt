@@ -1,1 +1,10 @@
-IMAS
+ATACseqTFEA
+DSS
+MIRA
+NanoMethViz
+SOMNiBUS
+dmrseq
+enhancerHomologSearch
+methylCC
+pageRank
+scmeth

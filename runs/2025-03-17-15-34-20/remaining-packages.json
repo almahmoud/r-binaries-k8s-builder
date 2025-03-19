@@ -21,9 +21,7 @@
     "GenomicScores",
     "motifStack"
   ],
-  "ATACseqTFEA": [
-    "motifmatchr"
-  ],
+  "ATACseqTFEA": [],
   "AffiXcan": [],
   "AgiMicroRna": [
     "affycoretools",
@@ -116,8 +114,7 @@
     "biovizBase"
   ],
   "COCOA": [
-    "MIRA",
-    "bsseq"
+    "MIRA"
   ],
   "COTAN": [],
   "CTdata": [
@@ -145,7 +142,6 @@
     "DMRcate",
     "goseq",
     "ExperimentHub",
-    "bsseq",
     "Gviz",
     "txdbmaker",
     "biovizBase"
@@ -198,14 +194,11 @@
   "DEsubs": [],
   "DMRcate": [
     "ExperimentHub",
-    "bsseq",
     "Gviz",
     "biovizBase"
   ],
   "DOSE": [],
-  "DSS": [
-    "bsseq"
-  ],
+  "DSS": [],
   "DaMiRseq": [],
   "Damsel": [
     "ggbio",
@@ -215,8 +208,7 @@
     "txdbmaker"
   ],
   "DeMixT": [
-    "DSS",
-    "bsseq"
+    "DSS"
   ],
   "DeepTarget": [
     "ExperimentHub"
@@ -411,16 +403,13 @@
     "biovizBase"
   ],
   "MEAT": [],
-  "MEB": [],
   "MGFM": [],
   "MGFR": [],
   "MGnifyR": [
     "mia"
   ],
   "MICSQTL": [],
-  "MIRA": [
-    "bsseq"
-  ],
+  "MIRA": [],
   "MIRit": [
     "clusterProfiler",
     "DOSE",
@@ -489,9 +478,7 @@
     "txdbmaker",
     "biovizBase"
   ],
-  "NanoMethViz": [
-    "bsseq"
-  ],
+  "NanoMethViz": [],
   "NewWave": [],
   "NoRCE": [],
   "OGRE": [
@@ -649,9 +636,7 @@
     "goseq",
     "txdbmaker"
   ],
-  "SOMNiBUS": [
-    "bsseq"
-  ],
+  "SOMNiBUS": [],
   "SPLINTER": [
     "Gviz",
     "biovizBase"
@@ -709,7 +694,6 @@
     "Organism.dplyr"
   ],
   "VCFArray": [],
-  "VarCon": [],
   "VariantFiltering": [
     "GenomicScores",
     "Gviz",
@@ -767,14 +751,12 @@
   ],
   "biovizBase": [],
   "biscuiteer": [
-    "bsseq",
     "dmrseq",
     "ExperimentHub",
     "OrganismDbi",
     "txdbmaker"
   ],
   "borealis": [
-    "bsseq",
     "DSS"
   ],
   "broadSeq": [
@@ -783,7 +765,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "bsseq": [],
   "cBioPortalData": [
     "RTCGAToolbox",
     "TCGAutils"
@@ -922,16 +903,12 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "dmrseq": [
-    "bsseq"
-  ],
+  "dmrseq": [],
   "drugTargetInteractions": [],
   "easier": [
     "ExperimentHub"
   ],
-  "enhancerHomologSearch": [
-    "motifmatchr"
-  ],
+  "enhancerHomologSearch": [],
   "enrichViewNet": [
     "enrichplot",
     "DOSE"
@@ -949,8 +926,7 @@
     "txdbmaker"
   ],
   "epiregulon": [
-    "ExperimentHub",
-    "motifmatchr"
+    "ExperimentHub"
   ],
   "epiregulon.extra": [
     "clusterProfiler",
@@ -985,14 +961,12 @@
     "pipeFrame",
     "ChIPseeker",
     "clusterProfiler",
-    "motifmatchr",
     "enrichplot",
     "DOSE"
   ],
   "esetVis": [
     "MLP"
   ],
-  "fCCAC": [],
   "factR": [
     "wiggleplotr"
   ],
@@ -1096,8 +1070,7 @@
     "biovizBase"
   ],
   "kissDE": [
-    "DSS",
-    "bsseq"
+    "DSS"
   ],
   "knowYourCG": [
     "ExperimentHub"
@@ -1135,16 +1108,13 @@
   ],
   "metaseqR2": [
     "DSS",
-    "txdbmaker",
-    "bsseq"
+    "txdbmaker"
   ],
   "methInheritSim": [],
   "methodical": [
     "ExperimentHub"
   ],
-  "methylCC": [
-    "bsseq"
-  ],
+  "methylCC": [],
   "methylGSA": [
     "clusterProfiler",
     "DOSE",
@@ -1156,7 +1126,6 @@
     "biovizBase"
   ],
   "methylSig": [
-    "bsseq",
     "DSS"
   ],
   "methylclock": [
@@ -1199,7 +1168,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "motifmatchr": [],
   "msgbsR": [
     "ggbio",
     "biovizBase",
@@ -1233,9 +1201,7 @@
     "ExperimentHub"
   ],
   "pRolocGUI": [],
-  "pageRank": [
-    "motifmatchr"
-  ],
+  "pageRank": [],
   "panelcn.mops": [
     "cn.mops"
   ],
@@ -1334,9 +1300,7 @@
   "scanMiRApp": [
     "txdbmaker"
   ],
-  "scmeth": [
-    "bsseq"
-  ],
+  "scmeth": [],
   "scone": [
     "RUVSeq"
   ],
@@ -1382,7 +1346,6 @@
   ],
   "spatzie": [
     "GenomicInteractions",
-    "motifmatchr",
     "Gviz",
     "biovizBase"
   ],
