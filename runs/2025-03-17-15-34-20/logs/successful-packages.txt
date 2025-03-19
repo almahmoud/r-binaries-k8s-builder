@@ -1939,3 +1939,7 @@ txcutr
 msmsEDA
 pageRank
 vtpnet
+factR
+GUIDEseq
+TFHAZ
+TRESS

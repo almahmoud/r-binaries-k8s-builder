@@ -202,7 +202,6 @@
     "ExperimentHub"
   ],
   "GSReg": [],
-  "GUIDEseq": [],
   "GeDi": [
     "GeneTonic",
     "mosdef",
@@ -414,8 +413,6 @@
     "sesame",
     "ExperimentHub"
   ],
-  "TFHAZ": [],
-  "TRESS": [],
   "ToxicoGx": [
     "CoreGx"
   ],
@@ -571,7 +568,6 @@
   "esetVis": [
     "MLP"
   ],
-  "factR": [],
   "famat": [
     "clusterProfiler",
     "DOSE",
@@ -648,9 +644,7 @@
     "ExperimentHub"
   ],
   "mCSEA": [],
-  "magpie": [
-    "TRESS"
-  ],
+  "magpie": [],
   "mastR": [
     "ExperimentHub"
   ],

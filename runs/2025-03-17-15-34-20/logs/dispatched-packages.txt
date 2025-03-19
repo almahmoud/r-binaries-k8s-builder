@@ -2100,3 +2100,4 @@ uncoverappLib
 SingleMoleculeFootprinting
 COCOA
 msmsTests
+magpie
