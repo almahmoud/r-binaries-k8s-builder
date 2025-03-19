@@ -1505,3 +1505,4 @@ iSEEu
 transformGamPoi
 midasHLA
 CRISPRball
+microbiomeExplorer
