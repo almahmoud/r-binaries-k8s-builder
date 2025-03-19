@@ -1616,7 +1616,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils",
     "GenomicFeatures",
@@ -3548,7 +3547,6 @@
   "normr": [
     "rtracklayer"
   ],
-  "npGSEA": [],
   "nullranges": [
     "plyranges",
     "rtracklayer"
