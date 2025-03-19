@@ -1108,7 +1108,6 @@
     "miaViz",
     "mia"
   ],
-  "icetea": [],
   "ideal": [
     "mosdef",
     "goseq",
@@ -1265,7 +1264,6 @@
   "mygene": [
     "txdbmaker"
   ],
-  "myvariant": [],
   "ncGTW": [],
   "nearBynding": [],
   "netSmooth": [],
