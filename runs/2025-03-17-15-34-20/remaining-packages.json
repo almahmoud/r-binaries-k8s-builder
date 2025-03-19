@@ -145,7 +145,6 @@
     "DMRcate",
     "wateRmelon",
     "goseq",
-    "missMethyl",
     "ExperimentHub",
     "bsseq",
     "Gviz",
@@ -201,7 +200,6 @@
   "DMRcate": [
     "ExperimentHub",
     "bsseq",
-    "missMethyl",
     "Gviz",
     "biovizBase"
   ],
@@ -418,7 +416,6 @@
   "MDTS": [],
   "MEAL": [
     "Gviz",
-    "missMethyl",
     "biovizBase"
   ],
   "MEAT": [
@@ -763,7 +760,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "arrayMvout": [],
   "atSNP": [
     "motifStack"
   ],
@@ -1022,7 +1018,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "ffpe": [],
   "flagme": [
     "CAMERA"
   ],
@@ -1156,7 +1151,6 @@
   "metaMS": [
     "CAMERA"
   ],
-  "metagene2": [],
   "metaseqR2": [
     "DSS",
     "txdbmaker",
@@ -1171,7 +1165,6 @@
   ],
   "methylGSA": [
     "clusterProfiler",
-    "missMethyl",
     "DOSE",
     "enrichplot"
   ],
@@ -1207,7 +1200,6 @@
   "miaViz": [
     "mia"
   ],
-  "missMethyl": [],
   "mitoClone2": [
     "deepSNV"
   ],
@@ -1396,7 +1388,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "signeR": [],
   "singleCellTK": [
     "ExperimentHub",
     "scMerge"
