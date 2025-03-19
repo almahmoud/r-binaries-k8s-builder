@@ -304,9 +304,7 @@
   "DSS": [
     "bsseq"
   ],
-  "DaMiRseq": [
-    "EDASeq"
-  ],
+  "DaMiRseq": [],
   "Damsel": [
     "ggbio",
     "goseq",
@@ -348,7 +346,6 @@
     "VariantAnnotation"
   ],
   "EBSEA": [],
-  "EDASeq": [],
   "EDIRquery": [],
   "EGAD": [],
   "ELMER": [
@@ -425,8 +422,7 @@
   ],
   "GARS": [
     "DaMiRseq",
-    "MLSeq",
-    "EDASeq"
+    "MLSeq"
   ],
   "GDCRNATools": [
     "clusterProfiler",
@@ -676,9 +672,7 @@
     "minfi",
     "bumphunter"
   ],
-  "MinimumDistance": [
-    "VanillaICE"
-  ],
+  "MinimumDistance": [],
   "Moonlight2R": [
     "clusterProfiler",
     "DOSE",
@@ -876,9 +870,7 @@
   "RTCGAToolbox": [
     "TCGAutils"
   ],
-  "RUVSeq": [
-    "EDASeq"
-  ],
+  "RUVSeq": [],
   "RadioGx": [
     "CoreGx"
   ],
@@ -1067,7 +1059,6 @@
     "GenomicFiles"
   ],
   "VaSP": [],
-  "VanillaICE": [],
   "VarCon": [],
   "VariantAnnotation": [],
   "VariantFiltering": [
@@ -1302,7 +1293,6 @@
     "distinct"
   ],
   "consensusDE": [
-    "EDASeq",
     "ensembldb",
     "RUVSeq"
   ],
@@ -1317,7 +1307,6 @@
   "cosmiq": [
     "xcms"
   ],
-  "cpvSNP": [],
   "crisprBowtie": [],
   "crisprDesign": [
     "crisprBowtie",
@@ -1742,7 +1731,6 @@
   "metagene2": [],
   "metaseqR2": [
     "DSS",
-    "EDASeq",
     "txdbmaker",
     "bsseq"
   ],
@@ -1895,8 +1883,7 @@
   ],
   "octad": [
     "RUVSeq",
-    "ExperimentHub",
-    "EDASeq"
+    "ExperimentHub"
   ],
   "omXplore": [],
   "orthos": [
@@ -1989,7 +1976,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "recount3": [],
   "recountmethylation": [
     "minfi",
     "bumphunter"
@@ -2019,7 +2005,6 @@
     "txdbmaker"
   ],
   "ribosomeProfilingQC": [
-    "EDASeq",
     "motifStack",
     "RUVSeq",
     "txdbmaker"
@@ -2077,8 +2062,7 @@
     "regioneR"
   ],
   "scone": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "scoreInvHap": [
     "VariantAnnotation"
@@ -2176,8 +2160,7 @@
     "VariantAnnotation"
   ],
   "standR": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "strandCheckR": [],
   "svaNUMT": [

@@ -1606,3 +1606,7 @@ SGSeq
 BEAT
 bnem
 NBAMSeq
+cpvSNP
+EDASeq
+recount3
+VanillaICE

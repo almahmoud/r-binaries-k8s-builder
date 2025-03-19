@@ -1844,3 +1844,6 @@ ChromSCape
 mumosa
 hiReadsProcessor
 EventPointer
+DaMiRseq
+MinimumDistance
+RUVSeq
