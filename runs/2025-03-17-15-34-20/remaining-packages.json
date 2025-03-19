@@ -342,7 +342,6 @@
   "Category": [
     "genefilter"
   ],
-  "CatsCradle": [],
   "CeTF": [
     "clusterProfiler",
     "DOSE",
@@ -1422,7 +1421,6 @@
     "sva",
     "genefilter"
   ],
-  "POWSC": [],
   "PPInfer": [],
   "PREDA": [],
   "PRONE": [
@@ -3882,7 +3880,6 @@
     "DropletUtils",
     "scuttle"
   ],
-  "scClassify": [],
   "scDD": [
     "scran",
     "scuttle"
@@ -4222,7 +4219,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "tRanslatome": [],
   "tadar": [
     "Gviz",
     "VariantAnnotation",

@@ -1366,3 +1366,7 @@ omicade4
 OTUbase
 ProteoMM
 sparrow
+CatsCradle
+POWSC
+scClassify
+tRanslatome
