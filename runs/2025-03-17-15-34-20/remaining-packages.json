@@ -684,7 +684,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "MotifPeeker": [],
   "MouseFM": [],
   "MsDataHub": [
     "ExperimentHub"
@@ -986,7 +985,6 @@
   ],
   "SpaNorm": [],
   "Spaniel": [],
-  "SpatialExperimentIO": [],
   "SpatialFeatureExperiment": [],
   "SpectralTAD": [
     "HiCcompare"
@@ -1001,7 +999,6 @@
   "TADCompare": [
     "HiCcompare"
   ],
-  "TAPseq": [],
   "TBSignatureProfiler": [],
   "TCGAutils": [],
   "TDbasedUFEadv": [
@@ -1719,7 +1716,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "meshr": [],
   "metaMS": [
     "CAMERA",
     "xcms"
@@ -2035,7 +2031,6 @@
   "scPipe": [],
   "scRNAseqApp": [],
   "scTensor": [
-    "meshr",
     "ReactomePA",
     "DOSE",
     "enrichplot"

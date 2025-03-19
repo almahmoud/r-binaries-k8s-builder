@@ -1612,3 +1612,7 @@ recount3
 VanillaICE
 MethylSeekR
 POMA
+meshr
+MotifPeeker
+SpatialExperimentIO
+TAPseq
