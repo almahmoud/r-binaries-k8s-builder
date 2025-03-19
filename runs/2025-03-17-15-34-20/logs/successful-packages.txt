@@ -1728,3 +1728,5 @@ shinyMethyl
 deconvR
 methylumi
 pairedGSEA
+HelloRanges
+recountmethylation
