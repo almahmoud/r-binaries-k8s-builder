@@ -1672,7 +1672,6 @@
     "minfi",
     "bumphunter"
   ],
-  "lute": [],
   "m6Aboost": [
     "ExperimentHub"
   ],
@@ -2006,7 +2005,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scDD": [],
   "scDotPlot": [],
   "scFeatures": [
     "ensembldb"
