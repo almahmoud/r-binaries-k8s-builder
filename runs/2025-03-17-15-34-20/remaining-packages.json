@@ -152,7 +152,6 @@
   "ExperimentHubData": [
     "ExperimentHub"
   ],
-  "FLAMES": [],
   "GARS": [
     "MLSeq"
   ],
@@ -342,7 +341,6 @@
     "PharmacoGx",
     "CoreGx"
   ],
-  "YAPSA": [],
   "adductomicsR": [
     "ExperimentHub"
   ],
@@ -433,11 +431,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "epivizr": [],
-  "epivizrChart": [],
-  "epivizrStandalone": [
-    "epivizr"
-  ],
+  "epivizrStandalone": [],
   "esATAC": [
     "ChIPseeker",
     "clusterProfiler",
@@ -575,7 +569,6 @@
     "enrichplot",
     "DOSE"
   ],
-  "psichomics": [],
   "puma": [],
   "rGADEM": [],
   "regionReport": [
@@ -591,9 +584,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "scTreeViz": [
-    "epivizr"
-  ],
+  "scTreeViz": [],
   "segmenter": [
     "ChIPseeker",
     "enrichplot",

@@ -2136,3 +2136,5 @@ epivizrChart
 MSnID
 YAPSA
 affycoretools
+epivizrStandalone
+scTreeViz

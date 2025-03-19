@@ -2043,3 +2043,8 @@ RNAAgeCalc
 RnaSeqSampleSize
 derfinderPlot
 MSnID
+epivizr
+epivizrChart
+FLAMES
+psichomics
+YAPSA
