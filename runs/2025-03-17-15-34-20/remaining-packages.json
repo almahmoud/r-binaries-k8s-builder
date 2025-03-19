@@ -263,7 +263,6 @@
   ],
   "HybridExpress": [],
   "ILoReg": [],
-  "IMAS": [],
   "IPO": [],
   "InPAS": [],
   "IntEREst": [],
@@ -783,7 +782,6 @@
   "mitoClone2": [
     "deepSNV"
   ],
-  "mobileRNA": [],
   "mosdef": [
     "clusterProfiler",
     "goseq",
