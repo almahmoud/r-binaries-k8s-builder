@@ -103,7 +103,6 @@
   "BgeeCall": [
     "txdbmaker"
   ],
-  "BgeeDB": [],
   "BiGGR": [
     "rsbml"
   ],
@@ -953,7 +952,6 @@
     "VariantAnnotation"
   ],
   "RITAN": [
-    "BgeeDB",
     "ensembldb"
   ],
   "RJMCMCNucleosomes": [
@@ -1164,7 +1162,6 @@
   "SplicingGraphs": [],
   "SplineDV": [],
   "SpotClean": [],
-  "SpotSweeper": [],
   "StabMap": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation"

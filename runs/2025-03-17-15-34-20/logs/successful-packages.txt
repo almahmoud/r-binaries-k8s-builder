@@ -1483,3 +1483,5 @@ CCPROMISE
 jazzPanda
 SemDist
 GenomicFeatures
+BgeeDB
+SpotSweeper
