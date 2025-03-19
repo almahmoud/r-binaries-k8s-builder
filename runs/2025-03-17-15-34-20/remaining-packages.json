@@ -526,7 +526,6 @@
     "ensembldb",
     "BSgenome"
   ],
-  "DESpace": [],
   "DEWSeq": [],
   "DEXSeq": [
     "geneplotter",
@@ -4251,7 +4250,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "tpSVG": [],
   "trackViewer": [
     "GenomicFeatures",
     "Gviz",
