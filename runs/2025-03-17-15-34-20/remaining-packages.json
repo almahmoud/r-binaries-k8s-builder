@@ -2,8 +2,7 @@
   "ADAMgui": [],
   "ADImpute": [],
   "AHMassBank": [
-    "AnnotationHubData",
-    "OrganismDbi"
+    "AnnotationHubData"
   ],
   "AMARETTO": [
     "ExperimentHub"
@@ -17,18 +16,14 @@
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
   "Anaquin": [],
   "AneuFinder": [],
-  "AnnotationHubData": [
-    "OrganismDbi"
-  ],
+  "AnnotationHubData": [],
   "BLMA": [],
   "BOBaFIT": [
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
   "BUSseq": [],
   "BaalChIP": [],
@@ -44,8 +39,7 @@
     "ExperimentHub"
   ],
   "CAFE": [
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
   "CAGEfightR": [],
   "CAGEr": [
@@ -111,9 +105,7 @@
   "ChIPseqR": [
     "HilbertVis"
   ],
-  "CircSeqAlignTk": [
-    "Rhisat2"
-  ],
+  "CircSeqAlignTk": [],
   "ClusterFoldSimilarity": [],
   "CoGAPS": [],
   "CoSIA": [
@@ -145,8 +137,7 @@
   "DSS": [],
   "Damsel": [
     "ggbio",
-    "goseq",
-    "OrganismDbi"
+    "goseq"
   ],
   "DeMixT": [
     "DSS"
@@ -192,12 +183,10 @@
   "ExperimentHub": [],
   "ExperimentHubData": [
     "AnnotationHubData",
-    "ExperimentHub",
-    "OrganismDbi"
+    "ExperimentHub"
   ],
   "FLAMES": [
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
   "FRASER": [
     "OUTRIDER"
@@ -216,9 +205,7 @@
   "GSEABenchmarkeR": [
     "ExperimentHub"
   ],
-  "GSReg": [
-    "OrganismDbi"
-  ],
+  "GSReg": [],
   "GUIDEseq": [],
   "GeDi": [
     "GeneTonic",
@@ -236,8 +223,7 @@
     "enrichplot"
   ],
   "GenomicOZone": [
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
   "GenomicPlot": [],
   "GenomicScores": [],
@@ -339,7 +325,6 @@
   "OUTRIDER": [],
   "OmaDB": [],
   "OncoScore": [],
-  "OrganismDbi": [],
   "OutSplice": [],
   "PDATK": [
     "CoreGx"
@@ -369,8 +354,7 @@
   ],
   "QuasR": [],
   "R3CPET": [
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
   "REBET": [],
   "RESOLVE": [],
@@ -399,15 +383,11 @@
     "DOSE"
   ],
   "ReportingTools": [
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
-  "Rhisat2": [],
   "RiboCrypt": [],
-  "RiboDiPA": [],
   "RiboProfiling": [
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
   "RnaSeqSampleSize": [
     "recount"
@@ -426,8 +406,7 @@
     "QuasR"
   ],
   "SomaticSignatures": [
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
   "SpectralTAD": [
     "HiCcompare"
@@ -462,21 +441,18 @@
   ],
   "YAPSA": [
     "SomaticSignatures",
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
   "adductomicsR": [
     "ExperimentHub"
   ],
   "affycoretools": [
     "ReportingTools",
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
   "alabaster": [],
   "appreci8R": [
-    "GenomicScores",
-    "OrganismDbi"
+    "GenomicScores"
   ],
   "atSNP": [],
   "bandle": [],
@@ -489,8 +465,7 @@
   ],
   "biscuiteer": [
     "dmrseq",
-    "ExperimentHub",
-    "OrganismDbi"
+    "ExperimentHub"
   ],
   "borealis": [
     "DSS"
@@ -502,8 +477,7 @@
     "enrichplot"
   ],
   "cageminer": [
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
   "canceR": [],
   "cbaf": [],
@@ -562,8 +536,7 @@
   ],
   "deepSNV": [],
   "derfinderPlot": [
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
   "dmrseq": [],
   "easier": [
@@ -578,8 +551,7 @@
     "DOSE"
   ],
   "epimutacions": [
-    "ExperimentHub",
-    "OrganismDbi"
+    "ExperimentHub"
   ],
   "epiregulon": [
     "ExperimentHub"
@@ -590,24 +562,17 @@
     "enrichplot"
   ],
   "epivizr": [
-    "epivizrData",
-    "OrganismDbi"
+    "epivizrData"
   ],
   "epivizrChart": [
-    "epivizrData",
-    "OrganismDbi"
+    "epivizrData"
   ],
-  "epivizrData": [
-    "OrganismDbi"
-  ],
+  "epivizrData": [],
   "epivizrStandalone": [
     "epivizr",
-    "epivizrData",
-    "OrganismDbi"
+    "epivizrData"
   ],
-  "erma": [
-    "OrganismDbi"
-  ],
+  "erma": [],
   "esATAC": [
     "ChIPseeker",
     "clusterProfiler",
@@ -643,9 +608,7 @@
   "geneAttribution": [],
   "genoCN": [],
   "geomeTriD": [],
-  "ggbio": [
-    "OrganismDbi"
-  ],
+  "ggbio": [],
   "gmapR": [],
   "goSorensen": [
     "clusterProfiler",
@@ -665,7 +628,6 @@
   "hypeR": [],
   "iNETgrate": [
     "Pigengene",
-    "OrganismDbi",
     "clusterProfiler",
     "ReactomePA",
     "DOSE",
@@ -683,8 +645,7 @@
     "enrichplot"
   ],
   "intansv": [
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
   "isomiRs": [
     "DEGreport"
@@ -698,9 +659,7 @@
   "m6Aboost": [
     "ExperimentHub"
   ],
-  "mCSEA": [
-    "OrganismDbi"
-  ],
+  "mCSEA": [],
   "magpie": [
     "TRESS"
   ],
@@ -732,8 +691,7 @@
   "methylclock": [
     "ExperimentHub",
     "ExperimentHubData",
-    "AnnotationHubData",
-    "OrganismDbi"
+    "AnnotationHubData"
   ],
   "miRSM": [
     "clusterProfiler",
@@ -758,8 +716,7 @@
   ],
   "motifbreakR": [],
   "msgbsR": [
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
   "msmsEDA": [],
   "msmsTests": [
@@ -830,15 +787,13 @@
   ],
   "scTreeViz": [
     "epivizr",
-    "epivizrData",
-    "OrganismDbi"
+    "epivizrData"
   ],
   "scanMiRApp": [],
   "scmeth": [],
   "scone": [],
   "scruff": [
-    "ggbio",
-    "OrganismDbi"
+    "ggbio"
   ],
   "segmenter": [
     "ChIPseeker",
@@ -874,9 +829,7 @@
   "trigger": [],
   "txcutr": [],
   "tximeta": [],
-  "uncoverappLib": [
-    "OrganismDbi"
-  ],
+  "uncoverappLib": [],
   "visiumStitched": [
     "ExperimentHub"
   ],
