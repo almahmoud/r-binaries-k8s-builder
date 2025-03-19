@@ -291,7 +291,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "R3CPET": [],
   "REBET": [],
   "RNAAgeCalc": [],
   "RadioGx": [
@@ -605,7 +604,6 @@
   "scTreeViz": [
     "epivizr"
   ],
-  "scruff": [],
   "segmenter": [
     "ChIPseeker",
     "enrichplot",
