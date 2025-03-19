@@ -2241,7 +2241,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "lipidr": [],
   "lisaClust": [
     "spicyR",
     "simpleSeg"
@@ -2566,7 +2565,6 @@
   ],
   "plyranges": [],
   "podkat": [],
-  "poem": [],
   "pogos": [],
   "pram": [],
   "preciseTAD": [
