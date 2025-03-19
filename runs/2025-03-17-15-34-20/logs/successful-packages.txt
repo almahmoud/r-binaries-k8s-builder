@@ -1385,3 +1385,5 @@ scReClassify
 MetaboAnnotation
 alabaster.mae
 hdxmsqc
+concordexR
+MoleculeExperiment
