@@ -224,9 +224,7 @@
   "DeepTarget": [
     "ExperimentHub"
   ],
-  "DegCre": [
-    "plotgardener"
-  ],
+  "DegCre": [],
   "DegNorm": [
     "txdbmaker"
   ],
@@ -725,8 +723,7 @@
   ],
   "UPDhmm": [],
   "Ularcirc": [
-    "Organism.dplyr",
-    "plotgardener"
+    "Organism.dplyr"
   ],
   "VCFArray": [],
   "VaSP": [],
@@ -1148,9 +1145,7 @@
   "magpie": [
     "TRESS"
   ],
-  "mariner": [
-    "plotgardener"
-  ],
+  "mariner": [],
   "maser": [
     "Gviz",
     "biovizBase"
@@ -1294,7 +1289,6 @@
   "periodicDNA": [],
   "phenoTest": [],
   "pipeFrame": [],
-  "plotgardener": [],
   "preciseTAD": [
     "rCGH"
   ],
