@@ -703,7 +703,6 @@
     "enrichplot",
     "DOSE"
   ],
-  "TEKRABber": [],
   "TENET": [
     "sesame",
     "ExperimentHub"
@@ -846,7 +845,6 @@
     "biovizBase"
   ],
   "chopsticks": [],
-  "chromVAR": [],
   "cicero": [
     "Gviz",
     "biovizBase"
@@ -1216,7 +1214,6 @@
     "deepSNV"
   ],
   "mobileRNA": [],
-  "monaLisa": [],
   "mosdef": [
     "clusterProfiler",
     "goseq",
