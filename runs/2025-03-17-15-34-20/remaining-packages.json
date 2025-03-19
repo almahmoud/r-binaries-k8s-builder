@@ -189,7 +189,6 @@
   "GSEABenchmarkeR": [
     "ExperimentHub"
   ],
-  "GSReg": [],
   "GeDi": [
     "GeneTonic",
     "mosdef",
@@ -509,7 +508,6 @@
     "epivizr",
     "epivizrData"
   ],
-  "erma": [],
   "esATAC": [
     "ChIPseeker",
     "clusterProfiler",
@@ -524,7 +522,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "gDNAx": [],
   "gDR": [
     "gDRimport",
     "CoreGx",
@@ -673,7 +670,6 @@
   "regionReport": [
     "DEFormats"
   ],
-  "rgsepd": [],
   "rsbml": [],
   "sampleClassifier": [
     "MGFM",
