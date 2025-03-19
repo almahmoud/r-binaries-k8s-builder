@@ -1847,3 +1847,4 @@ ChromSCape
 strandCheckR
 cBioPortalData
 Spaniel
+REDseq
