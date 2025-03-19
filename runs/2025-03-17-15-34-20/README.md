@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2052 packages built successfully
+- 2053 packages built successfully
 - 10 packages failed to build
-- 212 packages not yet processed
+- 211 packages not yet processed
 
 ## Failed Builds (10)
 | Package                                                                          | Status   | Log                                    | BBS Status                                                                | Failure Reasons                 |
@@ -22,7 +22,7 @@
 | [rGADEM](https://bioconductor.org/packages/3.21/bioc/html/rGADEM.html)           | Failed   | [Log](logs/rGADEM/build-fail.log)      | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/rGADEM)    | Build failed with unknown error |
 | [trigger](https://bioconductor.org/packages/3.21/bioc/html/trigger.html)         | Failed   | [Log](logs/trigger/build-fail.log)     | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/trigger)   | Build failed with unknown error |
 
-## Successfully Built (2052)
+## Successfully Built (2053)
 | Package                                                                                                          | Status   | Log                                                       | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.21/bioc/html/ABSSeq.html)                                           | Built    | [Log](logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ABSSeq)                      |
@@ -52,6 +52,7 @@
 | [AUCell](https://bioconductor.org/packages/3.21/bioc/html/AUCell.html)                                           | Built    | [Log](logs/AUCell/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/AUCell)                      |
 | [AWFisher](https://bioconductor.org/packages/3.21/bioc/html/AWFisher.html)                                       | Built    | [Log](logs/AWFisher/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/AWFisher)                    |
 | [AffyRNADegradation](https://bioconductor.org/packages/3.21/bioc/html/AffyRNADegradation.html)                   | Built    | [Log](logs/AffyRNADegradation/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/AffyRNADegradation)          |
+| [AgiMicroRna](https://bioconductor.org/packages/3.21/bioc/html/AgiMicroRna.html)                                 | Built    | [Log](logs/AgiMicroRna/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/AgiMicroRna)                 |
 | [AllelicImbalance](https://bioconductor.org/packages/3.21/bioc/html/AllelicImbalance.html)                       | Built    | [Log](logs/AllelicImbalance/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/AllelicImbalance)            |
 | [AlphaBeta](https://bioconductor.org/packages/3.21/bioc/html/AlphaBeta.html)                                     | Built    | [Log](logs/AlphaBeta/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/AlphaBeta)                   |
 | [AlphaMissenseR](https://bioconductor.org/packages/3.21/bioc/html/AlphaMissenseR.html)                           | Built    | [Log](logs/AlphaMissenseR/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/AlphaMissenseR)              |
@@ -2078,7 +2079,7 @@
 | [zitools](https://bioconductor.org/packages/3.21/bioc/html/zitools.html)                                         | Built    | [Log](logs/zitools/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/zitools)                     |
 | [zlibbioc](https://bioconductor.org/packages/3.21/bioc/html/zlibbioc.html)                                       | Built    | [Log](logs/zlibbioc/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/zlibbioc)                    |
 
-## Not Yet Processed (212)
+## Not Yet Processed (211)
 | Package                                                                                                | Status      |
 |--------------------------------------------------------------------------------------------------------|-------------|
 | [ADAMgui](https://bioconductor.org/packages/3.21/bioc/html/ADAMgui.html)                               | Unprocessed |
@@ -2088,7 +2089,6 @@
 | [ASURAT](https://bioconductor.org/packages/3.21/bioc/html/ASURAT.html)                                 | Unprocessed |
 | [ATACseqQC](https://bioconductor.org/packages/3.21/bioc/html/ATACseqQC.html)                           | Unprocessed |
 | [AffiXcan](https://bioconductor.org/packages/3.21/bioc/html/AffiXcan.html)                             | Unprocessed |
-| [AgiMicroRna](https://bioconductor.org/packages/3.21/bioc/html/AgiMicroRna.html)                       | Unprocessed |
 | [Anaquin](https://bioconductor.org/packages/3.21/bioc/html/Anaquin.html)                               | Unprocessed |
 | [AneuFinder](https://bioconductor.org/packages/3.21/bioc/html/AneuFinder.html)                         | Unprocessed |
 | [BLMA](https://bioconductor.org/packages/3.21/bioc/html/BLMA.html)                                     | Unprocessed |
