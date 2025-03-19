@@ -1845,3 +1845,5 @@ alabaster.vcf
 BASiCStan
 ChromSCape
 strandCheckR
+cBioPortalData
+Spaniel

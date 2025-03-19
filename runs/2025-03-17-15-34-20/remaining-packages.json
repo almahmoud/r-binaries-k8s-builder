@@ -241,9 +241,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "GNOSIS": [
-    "cBioPortalData"
-  ],
+  "GNOSIS": [],
   "GOexpress": [],
   "GOpro": [],
   "GRaNIE": [],
@@ -521,7 +519,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "Spaniel": [],
   "SpectralTAD": [
     "HiCcompare"
   ],
@@ -584,7 +581,6 @@
   "bandle": [],
   "bigmelon": [],
   "bioCancer": [
-    "cBioPortalData",
     "DOSE",
     "clusterProfiler",
     "ReactomePA",
@@ -607,18 +603,13 @@
     "DOSE",
     "enrichplot"
   ],
-  "cBioPortalData": [],
   "cageminer": [
     "ggbio",
     "OrganismDbi"
   ],
-  "canceR": [
-    "cBioPortalData"
-  ],
+  "canceR": [],
   "casper": [],
-  "cbaf": [
-    "cBioPortalData"
-  ],
+  "cbaf": [],
   "cfTools": [
     "ExperimentHub"
   ],
