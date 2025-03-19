@@ -204,7 +204,6 @@
   "CellBarcode": [],
   "CellBench": [],
   "CellTrails": [],
-  "CelliD": [],
   "CexoR": [
     "genomation"
   ],
@@ -257,7 +256,6 @@
   "CleanUpRNAseq": [
     "ensembldb"
   ],
-  "CluMSID": [],
   "ClusterFoldSimilarity": [],
   "CoGAPS": [],
   "CoSIA": [
@@ -1667,7 +1665,6 @@
   "hiReadsProcessor": [
     "hiAnnotator"
   ],
-  "hicVennDiagram": [],
   "hpar": [
     "ExperimentHub"
   ],

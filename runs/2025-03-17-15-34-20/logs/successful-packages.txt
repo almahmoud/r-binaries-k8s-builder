@@ -1574,3 +1574,6 @@ PrInCE
 DEP
 pipeComp
 spatialDE
+CelliD
+CluMSID
+hicVennDiagram
