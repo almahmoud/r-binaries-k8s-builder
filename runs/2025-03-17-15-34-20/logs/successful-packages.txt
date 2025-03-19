@@ -1632,3 +1632,5 @@ bedbaser
 BatchQC
 lute
 scDD
+BASiCS
+crisprBowtie

@@ -55,10 +55,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "BASiCS": [],
-  "BASiCStan": [
-    "BASiCS"
-  ],
+  "BASiCStan": [],
   "BBCAnalyzer": [
     "VariantAnnotation"
   ],
@@ -1290,9 +1287,7 @@
   "cosmiq": [
     "xcms"
   ],
-  "crisprBowtie": [],
   "crisprDesign": [
-    "crisprBowtie",
     "crisprScore",
     "txdbmaker",
     "VariantAnnotation",
@@ -1305,7 +1300,6 @@
     "crisprDesign",
     "crisprScore",
     "crisprViz",
-    "crisprBowtie",
     "txdbmaker",
     "VariantAnnotation",
     "Gviz",
@@ -1314,7 +1308,6 @@
     "biovizBase"
   ],
   "crisprVerse": [
-    "crisprBowtie",
     "crisprScore",
     "crisprDesign",
     "crisprViz",
@@ -1329,7 +1322,6 @@
     "crisprDesign",
     "Gviz",
     "txdbmaker",
-    "crisprBowtie",
     "crisprScore",
     "VariantAnnotation",
     "ensembldb",
