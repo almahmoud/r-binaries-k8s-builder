@@ -854,9 +854,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "circRNAprofiler": [
-    "gwascat"
-  ],
+  "circRNAprofiler": [],
   "cisPath": [],
   "cleanUpdTSeq": [],
   "clipper": [
@@ -1084,7 +1082,6 @@
   "gsean": [
     "PPInfer"
   ],
-  "gwascat": [],
   "gwasurvivr": [],
   "hiReadsProcessor": [],
   "hpar": [
@@ -1444,7 +1441,6 @@
     "RUVSeq"
   ],
   "strandCheckR": [],
-  "svaNUMT": [],
   "tLOH": [],
   "tRNAscanImport": [],
   "tadar": [
@@ -1485,9 +1481,7 @@
   "vissE": [
     "ExperimentHub"
   ],
-  "vtpnet": [
-    "gwascat"
-  ],
+  "vtpnet": [],
   "vulcan": [
     "DiffBind"
   ],

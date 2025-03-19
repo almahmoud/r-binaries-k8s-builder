@@ -1761,3 +1761,5 @@ myvariant
 katdetectr
 scoreInvHap
 svaRetro
+gwascat
+svaNUMT

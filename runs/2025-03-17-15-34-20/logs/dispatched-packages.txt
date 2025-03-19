@@ -1971,3 +1971,5 @@ arrayMvout
 ffpe
 iCheck
 wateRmelon
+circRNAprofiler
+vtpnet
