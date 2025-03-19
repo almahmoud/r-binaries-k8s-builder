@@ -469,7 +469,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "GEOexplorer": [],
   "GNOSIS": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -576,7 +575,6 @@
   ],
   "HiCParser": [],
   "HiCcompare": [],
-  "HiContacts": [],
   "HiLDA": [],
   "HilbertVis": [],
   "HilbertVisGUI": [
@@ -1580,7 +1578,6 @@
   "easier": [
     "ExperimentHub"
   ],
-  "easylift": [],
   "edge": [],
   "enhancerHomologSearch": [
     "motifmatchr",
@@ -2084,7 +2081,6 @@
   "omXplore": [
     "MSnbase"
   ],
-  "omicRexposome": [],
   "orthos": [
     "ExperimentHub"
   ],
@@ -2485,7 +2481,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "velociraptor": [],
   "visiumStitched": [
     "scater",
     "ExperimentHub"

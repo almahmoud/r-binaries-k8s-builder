@@ -1531,3 +1531,8 @@ ballgown
 KnowSeq
 consensusSeekeR
 qsmooth
+easylift
+GEOexplorer
+HiContacts
+omicRexposome
+velociraptor
