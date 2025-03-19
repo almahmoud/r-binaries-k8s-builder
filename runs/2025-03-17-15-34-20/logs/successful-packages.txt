@@ -1497,3 +1497,5 @@ cghMCR
 ccImpute
 rrvgo
 StabMap
+SPIAT
+zenith

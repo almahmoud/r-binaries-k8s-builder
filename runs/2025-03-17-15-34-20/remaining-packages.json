@@ -1093,7 +1093,6 @@
     "bsseq",
     "regioneR"
   ],
-  "SPIAT": [],
   "SPLINTER": [
     "Gviz",
     "ensembldb",
@@ -1645,9 +1644,7 @@
   "doubletrouble": [
     "syntenet"
   ],
-  "dreamlet": [
-    "zenith"
-  ],
+  "dreamlet": [],
   "drugTargetInteractions": [
     "ensembldb"
   ],
@@ -2629,6 +2626,5 @@
     "quantro",
     "minfi",
     "bumphunter"
-  ],
-  "zenith": []
+  ]
 }
