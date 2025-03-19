@@ -1579,3 +1579,5 @@ CluMSID
 hicVennDiagram
 benchdamic
 edge
+CATALYST
+crisprBwa

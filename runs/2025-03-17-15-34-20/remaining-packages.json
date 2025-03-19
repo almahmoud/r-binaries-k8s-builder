@@ -138,7 +138,6 @@
   "CAMERA": [
     "xcms"
   ],
-  "CATALYST": [],
   "CBNplot": [
     "clusterProfiler",
     "enrichplot",
@@ -1359,7 +1358,6 @@
   ],
   "cpvSNP": [],
   "crisprBowtie": [],
-  "crisprBwa": [],
   "crisprDesign": [
     "crisprBowtie",
     "crisprScore",
@@ -1415,9 +1413,7 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "cytofQC": [
-    "CATALYST"
-  ],
+  "cytofQC": [],
   "dagLogo": [
     "motifStack",
     "TFBSTools"
@@ -2236,9 +2232,7 @@
   ],
   "spicyR": [],
   "spiky": [],
-  "spillR": [
-    "CATALYST"
-  ],
+  "spillR": [],
   "splatter": [],
   "spoon": [],
   "squallms": [
