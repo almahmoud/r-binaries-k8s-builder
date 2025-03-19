@@ -1,9 +1,7 @@
 {
   "ADAMgui": [],
   "ADImpute": [],
-  "ADaCGH2": [
-    "tilingArray"
-  ],
+  "ADaCGH2": [],
   "AHMassBank": [
     "AnnotationHubData",
     "GenomicFeatures",
@@ -24,9 +22,7 @@
   "ASICS": [
     "ropls"
   ],
-  "ASSIGN": [
-    "sva"
-  ],
+  "ASSIGN": [],
   "ASURAT": [],
   "ASpli": [
     "GenomicFeatures",
@@ -104,9 +100,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "BERT": [
-    "sva"
-  ],
+  "BERT": [],
   "BLMA": [],
   "BOBaFIT": [
     "ggbio",
@@ -148,8 +142,7 @@
   ],
   "BasicSTARRseq": [],
   "BatchQC": [
-    "scran",
-    "sva"
+    "scran"
   ],
   "BayesSpace": [
     "scater",
@@ -171,9 +164,7 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "BioNERO": [
-    "sva"
-  ],
+  "BioNERO": [],
   "BioTIP": [
     "scran"
   ],
@@ -339,7 +330,6 @@
   "ChAMP": [
     "minfi",
     "DMRcate",
-    "sva",
     "wateRmelon",
     "goseq",
     "missMethyl",
@@ -423,8 +413,7 @@
     "ensembldb",
     "qsmooth",
     "rtracklayer",
-    "GenomicFeatures",
-    "sva"
+    "GenomicFeatures"
   ],
   "CluMSID": [
     "MSnbase"
@@ -492,9 +481,7 @@
     "geneplotter"
   ],
   "DEsubs": [],
-  "DExMA": [
-    "sva"
-  ],
+  "DExMA": [],
   "DMCFB": [
     "rtracklayer"
   ],
@@ -528,7 +515,6 @@
   ],
   "DaMiRseq": [
     "EDASeq",
-    "sva",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -547,7 +533,6 @@
   ],
   "DeMixT": [
     "DSS",
-    "sva",
     "bsseq",
     "BSgenome",
     "rtracklayer"
@@ -721,7 +706,6 @@
     "DaMiRseq",
     "MLSeq",
     "EDASeq",
-    "sva",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -730,9 +714,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "GEOexplorer": [
-    "sva"
-  ],
+  "GEOexplorer": [],
   "GNOSIS": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -871,9 +853,7 @@
     "VariantAnnotation"
   ],
   "HTSFilter": [],
-  "HarmonizR": [
-    "sva"
-  ],
+  "HarmonizR": [],
   "Harshlight": [],
   "HelloRanges": [
     "BSgenome",
@@ -961,7 +941,6 @@
   "InterCellar": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
-    "sva",
     "BSgenome",
     "rtracklayer",
     "tximeta",
@@ -970,9 +949,7 @@
     "txdbmaker",
     "ensembldb"
   ],
-  "KnowSeq": [
-    "sva"
-  ],
+  "KnowSeq": [],
   "LACE": [],
   "LOBSTAHS": [
     "xcms",
@@ -1012,9 +989,7 @@
     "MSnbase",
     "MsExperiment"
   ],
-  "MBECS": [
-    "sva"
-  ],
+  "MBECS": [],
   "MDTS": [],
   "MEAL": [
     "minfi",
@@ -1027,7 +1002,6 @@
     "biovizBase",
     "bumphunter",
     "methylumi",
-    "sva",
     "VariantAnnotation"
   ],
   "MEAT": [
@@ -1063,7 +1037,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "MLInterfaces": [],
   "MLP": [],
   "MLSeq": [],
   "MMDiff2": [
@@ -1081,9 +1054,7 @@
   "MPAC": [
     "scran"
   ],
-  "MSPrep": [
-    "sva"
-  ],
+  "MSPrep": [],
   "MSnID": [
     "MSnbase",
     "msmsTests",
@@ -1098,8 +1069,7 @@
     "MSnbase"
   ],
   "MatrixQCvis": [
-    "ExperimentHub",
-    "sva"
+    "ExperimentHub"
   ],
   "MatrixRider": [
     "TFBSTools",
@@ -1284,9 +1254,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "PAA": [
-    "sva"
-  ],
+  "PAA": [],
   "PAST": [
     "rtracklayer"
   ],
@@ -1304,19 +1272,14 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "POMA": [
-    "sva"
-  ],
+  "POMA": [],
   "PPInfer": [],
   "PREDA": [],
   "PRONE": [
     "MSnbase",
-    "POMA",
-    "sva"
+    "POMA"
   ],
-  "PROPS": [
-    "sva"
-  ],
+  "PROPS": [],
   "PanomiR": [
     "clusterProfiler",
     "DOSE",
@@ -1614,9 +1577,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SCAN.UPC": [
-    "sva"
-  ],
+  "SCAN.UPC": [],
   "SCANVIS": [
     "rtracklayer"
   ],
@@ -1624,9 +1585,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "SEtools": [
-    "sva"
-  ],
+  "SEtools": [],
   "SGCP": [
     "GOstats"
   ],
@@ -1672,9 +1631,7 @@
   "SeqSQC": [
     "ExperimentHub"
   ],
-  "SigCheck": [
-    "MLInterfaces"
-  ],
+  "SigCheck": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
@@ -1756,8 +1713,7 @@
     "rtracklayer"
   ],
   "TBSignatureProfiler": [
-    "ASSIGN",
-    "sva"
+    "ASSIGN"
   ],
   "TCGAutils": [
     "GenomicFeatures",
@@ -1862,7 +1818,6 @@
   ],
   "VaSP": [
     "ballgown",
-    "sva",
     "rtracklayer"
   ],
   "VanillaICE": [
@@ -1968,7 +1923,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "annmap": [],
   "annotatr": [
     "GenomicFeatures",
     "regioneR",
@@ -2006,7 +1960,6 @@
     "GOstats"
   ],
   "ballgown": [
-    "sva",
     "rtracklayer"
   ],
   "bambu": [
@@ -2016,8 +1969,7 @@
   ],
   "bandle": [
     "MSnbase",
-    "pRoloc",
-    "MLInterfaces"
+    "pRoloc"
   ],
   "batchelor": [],
   "bedbaser": [
@@ -2086,12 +2038,8 @@
     "DEXSeq",
     "geneplotter"
   ],
-  "bnbc": [
-    "sva"
-  ],
-  "bnem": [
-    "sva"
-  ],
+  "bnbc": [],
+  "bnem": [],
   "borealis": [
     "bsseq",
     "DSS",
@@ -2126,7 +2074,6 @@
   "cageminer": [
     "ggbio",
     "BioNERO",
-    "sva",
     "biovizBase",
     "BSgenome",
     "VariantAnnotation",
@@ -2431,7 +2378,6 @@
   "debrowser": [
     "DOSE",
     "clusterProfiler",
-    "sva",
     "enrichplot"
   ],
   "decompTumor2Sig": [
@@ -2511,9 +2457,7 @@
     "regioneR",
     "BSgenome"
   ],
-  "doppelgangR": [
-    "sva"
-  ],
+  "doppelgangR": [],
   "doubletrouble": [
     "syntenet",
     "GenomicFeatures",
@@ -2533,9 +2477,7 @@
   "easylift": [
     "rtracklayer"
   ],
-  "edge": [
-    "sva"
-  ],
+  "edge": [],
   "enhancerHomologSearch": [
     "BSgenome",
     "motifmatchr",
@@ -3267,21 +3209,17 @@
   "omXplore": [
     "MSnbase"
   ],
-  "omicRexposome": [
-    "sva"
-  ],
+  "omicRexposome": [],
   "oppar": [],
   "orthos": [
     "ExperimentHub"
   ],
   "pRoloc": [
-    "MSnbase",
-    "MLInterfaces"
+    "MSnbase"
   ],
   "pRolocGUI": [
     "pRoloc",
-    "MSnbase",
-    "MLInterfaces"
+    "MSnbase"
   ],
   "pageRank": [
     "motifmatchr",
@@ -3291,7 +3229,6 @@
   ],
   "pairedGSEA": [
     "DEXSeq",
-    "sva",
     "geneplotter"
   ],
   "panelcn.mops": [
@@ -3416,12 +3353,8 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "qsmooth": [
-    "sva"
-  ],
-  "qsvaR": [
-    "sva"
-  ],
+  "qsmooth": [],
+  "qsvaR": [],
   "quantro": [
     "minfi",
     "bumphunter",
@@ -3736,7 +3669,6 @@
     "scater",
     "scMerge",
     "scran",
-    "sva",
     "celda",
     "DropletUtils",
     "zinbwave",
@@ -3822,7 +3754,6 @@
     "rtracklayer"
   ],
   "surfaltr": [],
-  "sva": [],
   "svaNUMT": [
     "rtracklayer",
     "VariantAnnotation",
@@ -3879,7 +3810,6 @@
     "nullranges",
     "rtracklayer"
   ],
-  "tilingArray": [],
   "topdownr": [
     "MSnbase"
   ],
@@ -3914,9 +3844,7 @@
   "tricycle": [
     "scater"
   ],
-  "trigger": [
-    "sva"
-  ],
+  "trigger": [],
   "txcutr": [
     "GenomicFeatures",
     "txdbmaker",
