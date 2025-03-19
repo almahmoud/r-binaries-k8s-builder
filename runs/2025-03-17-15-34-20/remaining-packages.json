@@ -1374,7 +1374,6 @@
     "rtracklayer",
     "txdbmaker"
   ],
-  "OTUbase": [],
   "OUTRIDER": [
     "GenomicFeatures",
     "txdbmaker",
@@ -2269,7 +2268,6 @@
     "geneplotter",
     "genefilter"
   ],
-  "blima": [],
   "bnbc": [
     "sva",
     "genefilter"
@@ -3259,7 +3257,6 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "metabolomicsWorkbenchR": [],
   "metagene2": [
     "rtracklayer"
   ],
@@ -3373,7 +3370,6 @@
     "scater",
     "scuttle"
   ],
-  "miaSim": [],
   "miaViz": [
     "mia",
     "scater",
@@ -3560,10 +3556,8 @@
   ],
   "omicRexposome": [
     "sva",
-    "omicade4",
     "genefilter"
   ],
-  "omicade4": [],
   "oposSOM": [],
   "oppar": [],
   "orthos": [
