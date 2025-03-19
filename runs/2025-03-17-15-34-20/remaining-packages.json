@@ -328,9 +328,7 @@
   "MEAT": [],
   "MGFM": [],
   "MGFR": [],
-  "MGnifyR": [
-    "mia"
-  ],
+  "MGnifyR": [],
   "MICSQTL": [],
   "MIRA": [],
   "MIRit": [
@@ -691,9 +689,7 @@
   "dagLogo": [
     "motifStack"
   ],
-  "dar": [
-    "mia"
-  ],
+  "dar": [],
   "debrowser": [
     "DOSE",
     "clusterProfiler",
@@ -823,8 +819,7 @@
     "ExperimentHub"
   ],
   "iSEEtree": [
-    "miaViz",
-    "mia"
+    "miaViz"
   ],
   "ideal": [
     "mosdef",
@@ -847,9 +842,7 @@
   "knowYourCG": [
     "ExperimentHub"
   ],
-  "lefser": [
-    "mia"
-  ],
+  "lefser": [],
   "lisaClust": [],
   "m6Aboost": [
     "ExperimentHub"
@@ -911,10 +904,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "mia": [],
-  "miaViz": [
-    "mia"
-  ],
+  "miaViz": [],
   "mitoClone2": [
     "deepSNV"
   ],

@@ -2039,3 +2039,7 @@ alabaster
 GNOSIS
 canceR
 cbaf
+MGnifyR
+dar
+lefser
+miaViz
