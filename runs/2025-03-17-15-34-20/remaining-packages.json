@@ -155,7 +155,6 @@
     "bsseq"
   ],
   "COTAN": [],
-  "CSSQ": [],
   "CTdata": [
     "ExperimentHub"
   ],
@@ -264,7 +263,6 @@
     "methylumi",
     "VariantAnnotation"
   ],
-  "DNAfusion": [],
   "DOSE": [],
   "DSS": [
     "bsseq"
@@ -897,7 +895,6 @@
   ],
   "SpaNorm": [],
   "Spaniel": [],
-  "SpatialFeatureExperiment": [],
   "SpectralTAD": [
     "HiCcompare"
   ],
@@ -972,9 +969,7 @@
   "VariantTools": [
     "VariantAnnotation"
   ],
-  "Voyager": [
-    "SpatialFeatureExperiment"
-  ],
+  "Voyager": [],
   "XNAString": [],
   "Xeva": [
     "PharmacoGx",
