@@ -725,7 +725,6 @@
     "Organism.dplyr"
   ],
   "VCFArray": [],
-  "VaSP": [],
   "VarCon": [],
   "VariantFiltering": [
     "GenomicScores",
@@ -1209,7 +1208,6 @@
     "mia"
   ],
   "missMethyl": [],
-  "mist": [],
   "mitoClone2": [
     "deepSNV"
   ],
