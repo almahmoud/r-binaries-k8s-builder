@@ -681,7 +681,6 @@
     "rtracklayer",
     "txdbmaker"
   ],
-  "FastqCleaner": [],
   "FindIT2": [
     "rtracklayer",
     "GenomicFeatures"
@@ -2041,7 +2040,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "breakpointR": [],
   "broadSeq": [
     "DELocal",
     "clusterProfiler",
