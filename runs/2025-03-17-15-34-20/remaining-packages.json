@@ -150,7 +150,6 @@
     "ExperimentHub",
     "bsseq",
     "Gviz",
-    "methylumi",
     "lumi",
     "txdbmaker",
     "biovizBase"
@@ -209,8 +208,7 @@
     "bsseq",
     "missMethyl",
     "Gviz",
-    "biovizBase",
-    "methylumi"
+    "biovizBase"
   ],
   "DOSE": [],
   "DSS": [
@@ -423,8 +421,7 @@
   ],
   "MADSEQ": [],
   "MAGAR": [
-    "RnBeads",
-    "methylumi"
+    "RnBeads"
   ],
   "MAIT": [
     "CAMERA"
@@ -433,12 +430,10 @@
   "MEAL": [
     "Gviz",
     "missMethyl",
-    "biovizBase",
-    "methylumi"
+    "biovizBase"
   ],
   "MEAT": [
     "wateRmelon",
-    "methylumi",
     "lumi"
   ],
   "MEB": [],
@@ -494,8 +489,7 @@
     "DOSE"
   ],
   "MineICA": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "MinimumDistance": [],
   "Moonlight2R": [
@@ -686,9 +680,7 @@
     "txdbmaker"
   ],
   "Rmmquant": [],
-  "RnBeads": [
-    "methylumi"
-  ],
+  "RnBeads": [],
   "RnaSeqSampleSize": [
     "recount",
     "derfinder"
@@ -810,8 +802,7 @@
     "txdbmaker"
   ],
   "arrayMvout": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "atSNP": [
     "motifStack"
@@ -820,7 +811,6 @@
   "bandle": [],
   "bigmelon": [
     "wateRmelon",
-    "methylumi",
     "lumi"
   ],
   "bioCancer": [
@@ -992,7 +982,6 @@
   ],
   "decompTumor2Sig": [],
   "decontX": [],
-  "deconvR": [],
   "deepSNV": [],
   "demuxSNP": [],
   "derfinder": [],
@@ -1085,8 +1074,7 @@
   ],
   "fcScan": [],
   "ffpe": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "flagme": [
     "CAMERA"
@@ -1148,8 +1136,7 @@
   ],
   "hypeR": [],
   "iCheck": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "iNETgrate": [
     "Pigengene",
@@ -1202,9 +1189,7 @@
   ],
   "lineagespot": [],
   "lisaClust": [],
-  "lumi": [
-    "methylumi"
-  ],
+  "lumi": [],
   "m6Aboost": [
     "ExperimentHub"
   ],
@@ -1251,8 +1236,7 @@
     "clusterProfiler",
     "missMethyl",
     "DOSE",
-    "enrichplot",
-    "methylumi"
+    "enrichplot"
   ],
   "methylInheritance": [],
   "methylPipe": [
@@ -1270,7 +1254,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "methylumi": [],
   "miRSM": [
     "clusterProfiler",
     "ReactomePA",
@@ -1287,9 +1270,7 @@
   "miaViz": [
     "mia"
   ],
-  "missMethyl": [
-    "methylumi"
-  ],
+  "missMethyl": [],
   "mist": [],
   "mitoClone2": [
     "deepSNV"
@@ -1351,7 +1332,6 @@
   "pageRank": [
     "motifmatchr"
   ],
-  "pairedGSEA": [],
   "panelcn.mops": [
     "cn.mops"
   ],
@@ -1499,7 +1479,6 @@
     "txdbmaker"
   ],
   "skewr": [
-    "methylumi",
     "wateRmelon",
     "lumi"
   ],
@@ -1576,7 +1555,6 @@
     "DiffBind"
   ],
   "wateRmelon": [
-    "methylumi",
     "lumi"
   ],
   "wiggleplotr": [],

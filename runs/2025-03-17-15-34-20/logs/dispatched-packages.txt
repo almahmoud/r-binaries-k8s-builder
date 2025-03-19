@@ -1955,3 +1955,6 @@ VCFArray
 derfinder
 gDNAx
 yarn
+RnBeads
+lumi
+missMethyl

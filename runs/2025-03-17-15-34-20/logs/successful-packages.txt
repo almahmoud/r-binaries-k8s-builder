@@ -1725,3 +1725,6 @@ conumee
 annotatr
 diffUTR
 shinyMethyl
+deconvR
+methylumi
+pairedGSEA
