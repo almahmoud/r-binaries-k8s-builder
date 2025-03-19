@@ -69,9 +69,7 @@
     "CopyNumberPlots",
     "cn.mops"
   ],
-  "COCOA": [
-    "MIRA"
-  ],
+  "COCOA": [],
   "COTAN": [],
   "CTdata": [
     "ExperimentHub"
@@ -145,7 +143,6 @@
   "DeepTarget": [
     "ExperimentHub"
   ],
-  "DegNorm": [],
   "DelayedTensor": [],
   "DifferentialRegulation": [],
   "EBSEA": [],
@@ -176,7 +173,6 @@
   "EpiMix": [
     "ExperimentHub"
   ],
-  "EpiTxDb": [],
   "EpipwR": [
     "ExperimentHub"
   ],
@@ -263,7 +259,6 @@
   "MGFM": [],
   "MGFR": [],
   "MICSQTL": [],
-  "MIRA": [],
   "MIRit": [
     "clusterProfiler",
     "DOSE",
@@ -355,7 +350,6 @@
     "ggbio"
   ],
   "REBET": [],
-  "RESOLVE": [],
   "RNAAgeCalc": [
     "recount"
   ],
@@ -584,7 +578,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "flagme": [],
   "gDNAx": [],
   "gDR": [
     "gDRimport",
@@ -823,7 +816,6 @@
   "standR": [],
   "tadar": [],
   "trigger": [],
-  "txcutr": [],
   "tximeta": [],
   "uncoverappLib": [],
   "visiumStitched": [

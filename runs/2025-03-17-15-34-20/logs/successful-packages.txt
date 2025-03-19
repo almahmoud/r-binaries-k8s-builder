@@ -1930,3 +1930,9 @@ Rhisat2
 RiboDiPA
 MAIT
 QuasR
+DegNorm
+EpiTxDb
+flagme
+MIRA
+RESOLVE
+txcutr
