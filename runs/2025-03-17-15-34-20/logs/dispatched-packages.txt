@@ -1949,3 +1949,8 @@ recountmethylation
 shinyMethyl
 shinyepico
 netSmooth
+GA4GHshiny
+TFutils
+VCFArray
+derfinder
+gDNAx

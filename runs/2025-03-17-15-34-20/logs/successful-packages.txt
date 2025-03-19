@@ -1709,3 +1709,11 @@ DAMEfinder
 DominoEffect
 SpaNorm
 spillR
+GA4GHclient
+GenomicFiles
+GenVisR
+regioneReloaded
+RgnTX
+rTRMui
+scPipe
+Voyager

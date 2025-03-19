@@ -77,14 +77,12 @@
     "txdbmaker"
   ],
   "CAGEfightR": [
-    "GenomicFiles",
     "Gviz",
     "GenomicInteractions",
     "biovizBase"
   ],
   "CAGEr": [
     "CAGEfightR",
-    "GenomicFiles",
     "Gviz",
     "GenomicInteractions",
     "biovizBase"
@@ -305,10 +303,7 @@
     "OUTRIDER",
     "txdbmaker"
   ],
-  "GA4GHclient": [],
-  "GA4GHshiny": [
-    "GA4GHclient"
-  ],
+  "GA4GHshiny": [],
   "GARS": [
     "DaMiRseq",
     "MLSeq"
@@ -345,7 +340,6 @@
     "enrichplot",
     "txdbmaker"
   ],
-  "GenVisR": [],
   "GeneStructureTools": [
     "Gviz",
     "biovizBase"
@@ -358,7 +352,6 @@
     "enrichplot",
     "txdbmaker"
   ],
-  "GenomicFiles": [],
   "GenomicInteractions": [
     "Gviz",
     "biovizBase"
@@ -409,7 +402,6 @@
     "cleanUpdTSeq"
   ],
   "IntEREst": [
-    "GenomicFiles",
     "txdbmaker"
   ],
   "InterCellar": [],
@@ -598,8 +590,7 @@
     "biovizBase"
   ],
   "QuasR": [
-    "txdbmaker",
-    "GenomicFiles"
+    "txdbmaker"
   ],
   "R3CPET": [
     "ggbio",
@@ -624,8 +615,7 @@
   "RMassBank": [],
   "RNAAgeCalc": [
     "recount",
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "RNAmodR": [
     "txdbmaker",
@@ -679,7 +669,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "RgnTX": [],
   "Rhisat2": [
     "txdbmaker"
   ],
@@ -702,12 +691,10 @@
   ],
   "RnaSeqSampleSize": [
     "recount",
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "Rqc": [
-    "biovizBase",
-    "GenomicFiles"
+    "biovizBase"
   ],
   "SARC": [],
   "SMITE": [
@@ -732,8 +719,7 @@
   "SigsPack": [],
   "SingleMoleculeFootprinting": [
     "QuasR",
-    "txdbmaker",
-    "GenomicFiles"
+    "txdbmaker"
   ],
   "SomaticSignatures": [
     "ggbio",
@@ -766,9 +752,7 @@
     "ORFik",
     "txdbmaker"
   ],
-  "TFutils": [
-    "GenomicFiles"
-  ],
+  "TFutils": [],
   "TRESS": [],
   "TVTB": [
     "Gviz",
@@ -785,9 +769,7 @@
     "plotgardener"
   ],
   "Uniquorn": [],
-  "VCFArray": [
-    "GenomicFiles"
-  ],
+  "VCFArray": [],
   "VaSP": [],
   "VarCon": [],
   "VariantFiltering": [
@@ -796,7 +778,6 @@
     "biovizBase"
   ],
   "VariantTools": [],
-  "Voyager": [],
   "XNAString": [],
   "Xeva": [
     "PharmacoGx",
@@ -1020,13 +1001,10 @@
   "deconvR": [],
   "deepSNV": [],
   "demuxSNP": [],
-  "derfinder": [
-    "GenomicFiles"
-  ],
+  "derfinder": [],
   "derfinderPlot": [
     "derfinder",
     "ggbio",
-    "GenomicFiles",
     "biovizBase",
     "OrganismDbi",
     "txdbmaker"
@@ -1089,7 +1067,6 @@
     "txdbmaker"
   ],
   "erma": [
-    "GenomicFiles",
     "OrganismDbi",
     "txdbmaker"
   ],
@@ -1123,9 +1100,7 @@
     "CAMERA"
   ],
   "funtooNorm": [],
-  "gDNAx": [
-    "GenomicFiles"
-  ],
+  "gDNAx": [],
   "gDR": [
     "gDRimport",
     "CoreGx",
@@ -1429,8 +1404,7 @@
   ],
   "psichomics": [
     "recount",
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "puma": [],
   "qpgraph": [],
@@ -1438,11 +1412,9 @@
   "quantro": [],
   "rCGH": [],
   "rGADEM": [],
-  "rTRMui": [],
   "raer": [],
   "recount": [
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "recountmethylation": [],
   "recoup": [
@@ -1450,10 +1422,8 @@
   ],
   "regionReport": [
     "derfinder",
-    "DEFormats",
-    "GenomicFiles"
+    "DEFormats"
   ],
-  "regioneReloaded": [],
   "regutools": [
     "Gviz",
     "biovizBase"
@@ -1480,7 +1450,6 @@
   ],
   "scFeatures": [],
   "scMerge": [],
-  "scPipe": [],
   "scTensor": [
     "ReactomePA",
     "DOSE",
