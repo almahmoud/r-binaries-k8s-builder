@@ -1916,3 +1916,12 @@ circRNAprofiler
 DegCre
 preciseTAD
 RegionalST
+chevreulProcess
+ChIPQC
+condiments
+customProDB
+ELViS
+NanoMethViz
+ORFik
+proActiv
+RCAS

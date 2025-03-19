@@ -104,7 +104,6 @@
     "goseq",
     "ExperimentHub"
   ],
-  "ChIPQC": [],
   "ChIPseeker": [
     "enrichplot",
     "DOSE"
@@ -161,7 +160,6 @@
   "EBSEA": [],
   "EDIRquery": [],
   "EGAD": [],
-  "ELViS": [],
   "ENmix": [
     "ExperimentHub"
   ],
@@ -241,9 +239,7 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "GenomicPlot": [
-    "RCAS"
-  ],
+  "GenomicPlot": [],
   "GenomicScores": [],
   "GloScope": [],
   "HTSFilter": [],
@@ -339,9 +335,7 @@
     "ATACseqQC",
     "GenomicScores"
   ],
-  "NanoMethViz": [],
   "NewWave": [],
-  "ORFik": [],
   "OUTRIDER": [],
   "OmaDB": [],
   "OncoScore": [],
@@ -378,7 +372,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "RCAS": [],
   "REBET": [],
   "RESOLVE": [],
   "RNAAgeCalc": [
@@ -410,9 +403,7 @@
     "OrganismDbi"
   ],
   "Rhisat2": [],
-  "RiboCrypt": [
-    "ORFik"
-  ],
+  "RiboCrypt": [],
   "RiboDiPA": [],
   "RiboProfiling": [
     "ggbio",
@@ -455,9 +446,7 @@
     "sesame",
     "ExperimentHub"
   ],
-  "TFHAZ": [
-    "ORFik"
-  ],
+  "TFHAZ": [],
   "TRESS": [],
   "ToxicoGx": [
     "CoreGx"
@@ -521,12 +510,8 @@
   "cfTools": [
     "ExperimentHub"
   ],
-  "chevreulPlot": [
-    "chevreulProcess"
-  ],
-  "chevreulProcess": [],
+  "chevreulPlot": [],
   "chevreulShiny": [
-    "chevreulProcess",
     "chevreulPlot"
   ],
   "chopsticks": [],
@@ -541,7 +526,6 @@
     "ExperimentHub"
   ],
   "compEpiTools": [],
-  "condiments": [],
   "consensusDE": [],
   "coseq": [
     "HTSFilter"
@@ -570,7 +554,6 @@
     "crisprScore",
     "ExperimentHub"
   ],
-  "customProDB": [],
   "dagLogo": [],
   "debrowser": [
     "DOSE",
@@ -813,7 +796,6 @@
   "primirTSS": [
     "GenomicScores"
   ],
-  "proActiv": [],
   "proBAMr": [],
   "profileplyr": [
     "ChIPseeker",

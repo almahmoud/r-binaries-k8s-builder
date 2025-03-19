@@ -2085,3 +2085,7 @@ RNAmodR.ML
 RNAmodR.RiboMethSeq
 compEpiTools
 geomeTriD
+GenomicPlot
+RiboCrypt
+TFHAZ
+chevreulPlot
