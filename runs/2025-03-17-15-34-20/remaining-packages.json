@@ -719,7 +719,6 @@
     "GenomicFeatures",
     "plyranges"
   ],
-  "InTAD": [],
   "IntEREst": [
     "GenomicFiles",
     "GenomicFeatures",
@@ -2796,7 +2795,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "seqsetvis": [],
   "sesame": [
     "ExperimentHub"
   ],
