@@ -81,7 +81,6 @@
   "BiGGR": [
     "rsbml"
   ],
-  "BioNERO": [],
   "BiocHubsShiny": [
     "ExperimentHub"
   ],
@@ -449,7 +448,6 @@
   ],
   "GenomicScores": [],
   "GloScope": [],
-  "Guitar": [],
   "Gviz": [
     "biovizBase",
     "VariantAnnotation"
@@ -1081,7 +1079,6 @@
   ],
   "cageminer": [
     "ggbio",
-    "BioNERO",
     "biovizBase",
     "VariantAnnotation",
     "OrganismDbi",
@@ -1670,7 +1667,6 @@
     "VariantAnnotation"
   ],
   "mumosa": [],
-  "muscat": [],
   "musicatk": [
     "VariantAnnotation",
     "decompTumor2Sig"
@@ -1824,7 +1820,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scDotPlot": [],
   "scFeatures": [],
   "scMerge": [],
   "scPipe": [],

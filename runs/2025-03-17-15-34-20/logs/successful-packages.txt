@@ -1670,3 +1670,7 @@ VAExprs
 CSSQ
 DNAfusion
 SpatialFeatureExperiment
+BioNERO
+Guitar
+muscat
+scDotPlot
