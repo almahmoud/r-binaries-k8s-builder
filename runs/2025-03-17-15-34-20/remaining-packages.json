@@ -90,7 +90,6 @@
   "CellTrails": [],
   "ChAMP": [
     "DMRcate",
-    "goseq",
     "ExperimentHub"
   ],
   "ChIPseeker": [
@@ -130,8 +129,7 @@
   ],
   "DOSE": [],
   "Damsel": [
-    "ggbio",
-    "goseq"
+    "ggbio"
   ],
   "DeMixT": [],
   "DeepTarget": [
@@ -197,14 +195,12 @@
     "GeneTonic",
     "mosdef",
     "clusterProfiler",
-    "goseq",
     "DOSE",
     "enrichplot"
   ],
   "GeneTonic": [
     "mosdef",
     "clusterProfiler",
-    "goseq",
     "DOSE",
     "enrichplot"
   ],
@@ -227,7 +223,6 @@
   ],
   "HybridExpress": [],
   "ILoReg": [],
-  "IntEREst": [],
   "InterCellar": [],
   "IsoformSwitchAnalyzeR": [],
   "LACE": [],
@@ -334,7 +329,6 @@
   "RNAAgeCalc": [
     "recount"
   ],
-  "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
   "RadioGx": [
@@ -364,9 +358,7 @@
   "RnaSeqSampleSize": [
     "recount"
   ],
-  "SMITE": [
-    "goseq"
-  ],
+  "SMITE": [],
   "SOMNiBUS": [],
   "SVMDO": [
     "DOSE"
@@ -563,7 +555,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "goseq": [],
   "gpuMagic": [],
   "graper": [],
   "gsean": [
@@ -586,7 +577,6 @@
   "iSEEtree": [],
   "ideal": [
     "mosdef",
-    "goseq",
     "clusterProfiler",
     "DOSE",
     "enrichplot"
@@ -624,7 +614,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "methylInheritance": [],
   "methylSig": [],
   "methylclock": [
     "ExperimentHub",
@@ -645,7 +634,6 @@
   ],
   "mosdef": [
     "clusterProfiler",
-    "goseq",
     "DOSE",
     "enrichplot"
   ],
@@ -656,7 +644,6 @@
   "multiHiCcompare": [
     "HiCcompare"
   ],
-  "multicrispr": [],
   "octad": [
     "ExperimentHub"
   ],
@@ -674,7 +661,6 @@
   "pcaExplorer": [
     "mosdef",
     "clusterProfiler",
-    "goseq",
     "DOSE",
     "enrichplot"
   ],
@@ -697,9 +683,7 @@
   "regionReport": [
     "DEFormats"
   ],
-  "rgsepd": [
-    "goseq"
-  ],
+  "rgsepd": [],
   "rsbml": [],
   "sampleClassifier": [
     "MGFM",

@@ -1981,3 +1981,8 @@ IPO
 DSS
 mitoClone2
 scanMiRApp
+goseq
+IntEREst
+methylInheritance
+multicrispr
+RNAmodR.AlkAnilineSeq

@@ -2111,3 +2111,5 @@ borealis
 kissDE
 metaseqR2
 methylSig
+SMITE
+rgsepd
