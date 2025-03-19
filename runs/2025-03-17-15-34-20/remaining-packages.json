@@ -1195,7 +1195,6 @@
   "ZygosityPredictor": [
     "VariantAnnotation"
   ],
-  "a4": [],
   "adductomicsR": [
     "ExperimentHub"
   ],
@@ -2135,7 +2134,6 @@
   ],
   "plyranges": [],
   "podkat": [],
-  "pram": [],
   "preciseTAD": [
     "rCGH"
   ],
