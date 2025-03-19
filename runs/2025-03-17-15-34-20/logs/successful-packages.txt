@@ -1722,3 +1722,6 @@ quantro
 UMI4Cats
 blacksheepr
 conumee
+annotatr
+diffUTR
+shinyMethyl

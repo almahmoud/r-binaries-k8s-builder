@@ -703,7 +703,6 @@
   ],
   "SNPhood": [],
   "SOMNiBUS": [
-    "annotatr",
     "bsseq"
   ],
   "SPLINTER": [
@@ -805,7 +804,6 @@
     "alabaster.vcf"
   ],
   "alabaster.vcf": [],
-  "annotatr": [],
   "appreci8R": [
     "GenomicScores",
     "OrganismDbi",
@@ -843,7 +841,6 @@
     "bsseq",
     "dmrseq",
     "ExperimentHub",
-    "annotatr",
     "OrganismDbi",
     "txdbmaker"
   ],
@@ -1006,10 +1003,8 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "diffUTR": [],
   "dmrseq": [
-    "bsseq",
-    "annotatr"
+    "bsseq"
   ],
   "drugTargetInteractions": [],
   "easier": [
@@ -1247,7 +1242,6 @@
   ],
   "methInheritSim": [],
   "methodical": [
-    "annotatr",
     "ExperimentHub"
   ],
   "methylCC": [
@@ -1460,8 +1454,7 @@
     "txdbmaker"
   ],
   "scmeth": [
-    "bsseq",
-    "annotatr"
+    "bsseq"
   ],
   "scone": [
     "RUVSeq"
@@ -1490,7 +1483,6 @@
   "sesame": [
     "ExperimentHub"
   ],
-  "shinyMethyl": [],
   "shinyepico": [],
   "signatureSearch": [
     "ExperimentHub",
