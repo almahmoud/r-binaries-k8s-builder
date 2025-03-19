@@ -1,4 +1,0 @@
-atSNP
-dagLogo
-motifbreakR
-ribosomeProfilingQC
