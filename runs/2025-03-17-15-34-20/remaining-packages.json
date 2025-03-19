@@ -376,13 +376,10 @@
   ],
   "HybridExpress": [],
   "ILoReg": [],
-  "IMAS": [
-    "IVAS"
-  ],
+  "IMAS": [],
   "IPO": [
     "CAMERA"
   ],
-  "IVAS": [],
   "InPAS": [],
   "IntEREst": [
     "txdbmaker"
@@ -740,7 +737,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "airpart": [],
   "alabaster": [
     "alabaster.vcf"
   ],
@@ -1390,7 +1386,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "spoon": [],
   "squallms": [],
   "srnadiff": [
     "Gviz",
