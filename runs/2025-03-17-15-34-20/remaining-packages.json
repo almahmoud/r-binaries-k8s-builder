@@ -941,7 +941,6 @@
     "enrichplot"
   ],
   "deepSNV": [],
-  "demuxSNP": [],
   "derfinder": [],
   "derfinderPlot": [
     "derfinder",
