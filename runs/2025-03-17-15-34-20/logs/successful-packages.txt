@@ -1758,3 +1758,6 @@ lineagespot
 MungeSumstats
 icetea
 myvariant
+katdetectr
+scoreInvHap
+svaRetro

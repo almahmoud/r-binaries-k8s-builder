@@ -1129,7 +1129,6 @@
   "karyoploteR": [
     "biovizBase"
   ],
-  "katdetectr": [],
   "kissDE": [
     "DSS",
     "bsseq"
@@ -1386,7 +1385,6 @@
   "scone": [
     "RUVSeq"
   ],
-  "scoreInvHap": [],
   "scruff": [
     "txdbmaker",
     "ggbio",
@@ -1447,7 +1445,6 @@
   ],
   "strandCheckR": [],
   "svaNUMT": [],
-  "svaRetro": [],
   "tLOH": [],
   "tRNAscanImport": [],
   "tadar": [
