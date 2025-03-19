@@ -51,7 +51,6 @@
   "BloodGen3Module": [
     "ExperimentHub"
   ],
-  "BubbleTree": [],
   "CAFE": [
     "ggbio",
     "OrganismDbi"
@@ -123,7 +122,6 @@
     "Gviz"
   ],
   "ChIPQC": [],
-  "ChIPexoQual": [],
   "ChIPseeker": [
     "enrichplot",
     "DOSE"
@@ -428,7 +426,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "ProteoDisco": [],
   "Pviz": [
     "Gviz"
   ],
