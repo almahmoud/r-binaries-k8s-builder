@@ -728,9 +728,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "FEAST": [
-    "TSCAN"
-  ],
+  "FEAST": [],
   "FLAMES": [
     "bambu",
     "DropletUtils",
@@ -1948,7 +1946,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "TSCAN": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -4080,7 +4077,6 @@
     "scds",
     "zinbwave",
     "scDblFinder",
-    "TSCAN",
     "scuttle",
     "GenomicFeatures",
     "rtracklayer",

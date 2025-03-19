@@ -1548,3 +1548,4 @@ zenith
 scClassify
 iSEEu
 alabaster.spatial
+FEAST
