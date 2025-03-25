@@ -93,3 +93,7 @@ Rbowtie
 Rbwa
 Rcollectl
 RProtoBufLib
+Heatplus
+HIBAG
+M3C
+MatrixGenerics
