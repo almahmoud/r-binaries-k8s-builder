@@ -223,12 +223,20 @@ jobs:
             git push || (git pull --rebase && git push)
             echo "pushed=false" >> $GITHUB_OUTPUT
           else
-            # Reset both counters on meaningful changes
+            # Check for new successful packages
             RUN_ID=$(cat runid)
+            NEW_SUCCESS=$(git diff --staged -- "runs/${RUN_ID}/logs/successful-packages.txt" | grep -c "^\+" | grep -v "^\+\+\+" || echo "0")
+            
+            # Always reset null push counter on meaningful changes
             echo "0" > "runs/${RUN_ID}/null_push_counter"
-            echo "0" > "runs/${RUN_ID}/reset_attempts_counter"
             git add "runs/${RUN_ID}/null_push_counter"
-            git add "runs/${RUN_ID}/reset_attempts_counter"
+            
+            # Only reset attempts counter if we have new successful packages
+            if [ "${NEW_SUCCESS}" -gt 0 ]; then
+              echo "New successful packages detected (${NEW_SUCCESS}), resetting attempts counter"
+              echo "0" > "runs/${RUN_ID}/reset_attempts_counter"
+              git add "runs/${RUN_ID}/reset_attempts_counter"
+            fi
             
             # Commit all changes
             git commit -m "Build state update: ${{ github.run_id }}"
