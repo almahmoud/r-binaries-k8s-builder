@@ -114,3 +114,4 @@ plotGrouper
 BiocBaseUtils
 Harman
 RLassoCox
+globalSeq

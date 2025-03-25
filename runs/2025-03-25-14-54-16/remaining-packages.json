@@ -23426,7 +23426,6 @@
     "BiocIO",
     "BiocParallel"
   ],
-  "globalSeq": [],
   "globaltest": [
     "Biobase",
     "AnnotationDbi",
