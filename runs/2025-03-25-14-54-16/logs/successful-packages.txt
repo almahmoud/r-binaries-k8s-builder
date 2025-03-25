@@ -129,3 +129,7 @@ pickgene
 pmm
 BADER
 DNABarcodes
+banocc
+gypsum
+Path2PPI
+treeio
