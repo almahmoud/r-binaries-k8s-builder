@@ -159,3 +159,5 @@ rsemmed
 ttgsea
 VennDetail
 widgetTools
+BridgeDbR
+QuaternaryProd

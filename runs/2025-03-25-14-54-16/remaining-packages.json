@@ -1635,7 +1635,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "BridgeDbR": [],
   "BrowserViz": [
     "BiocGenerics"
   ],
@@ -11318,7 +11317,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "QuaternaryProd": [],
   "R3CPET": [
     "BiocGenerics",
     "S4Vectors",
