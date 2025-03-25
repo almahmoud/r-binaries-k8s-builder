@@ -30,3 +30,9 @@ sizepower
 spikeLI
 survcomp
 swfdr
+minet
+ompBAM
+rBiopaxParser
+SANTA
+snm
+timescape

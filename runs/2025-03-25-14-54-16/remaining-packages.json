@@ -1107,9 +1107,7 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "BUS": [
-    "minet"
-  ],
+  "BUS": [],
   "BUScorrect": [
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -1558,7 +1556,6 @@
     "sva",
     "ComplexHeatmap",
     "BiocParallel",
-    "minet",
     "GENIE3",
     "SummarizedExperiment",
     "IRanges",
@@ -13194,7 +13191,6 @@
     "BiocParallel"
   ],
   "RTN": [
-    "minet",
     "viper",
     "limma",
     "IRanges",
@@ -13213,7 +13209,6 @@
   ],
   "RTNduals": [
     "RTN",
-    "minet",
     "viper",
     "limma",
     "IRanges",
@@ -13233,7 +13228,6 @@
   "RTNsurvival": [
     "RTN",
     "RTNduals",
-    "minet",
     "viper",
     "limma",
     "IRanges",
@@ -14111,7 +14105,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "SANTA": [],
   "SARC": [
     "RaggedExperiment",
     "GenomicRanges",
@@ -15478,7 +15471,6 @@
     "SparseArray"
   ],
   "SpliceWiz": [
-    "ompBAM",
     "AnnotationHub",
     "BiocFileCache",
     "BiocGenerics",
@@ -18811,7 +18803,6 @@
     "BiocParallel",
     "fgsea",
     "EBarrays",
-    "minet",
     "graphite",
     "AnVILBase",
     "ggtree",
@@ -19161,7 +19152,6 @@
     "affyio",
     "preprocessCore",
     "RBGL",
-    "minet",
     "Linnorm",
     "genefilter",
     "BiocParallel",
@@ -19416,7 +19406,6 @@
     "sva",
     "ComplexHeatmap",
     "BiocParallel",
-    "minet",
     "GENIE3",
     "SummarizedExperiment",
     "BiocGenerics",
@@ -19476,7 +19465,6 @@
     "SummarizedExperiment",
     "TCGAutils",
     "EBarrays",
-    "minet",
     "annotate",
     "graph",
     "AnnotationDbi",
@@ -21788,7 +21776,6 @@
     "graphite",
     "Rgraphviz",
     "limma",
-    "minet",
     "BiocGenerics",
     "AnnotationDbi",
     "Linnorm",
@@ -22775,7 +22762,6 @@
     "SparseArray"
   ],
   "epiNEM": [
-    "minet",
     "graph",
     "mnem",
     "BiocGenerics",
@@ -24272,7 +24258,6 @@
   "geNetClassifier": [
     "Biobase",
     "EBarrays",
-    "minet",
     "BiocGenerics"
   ],
   "gemini": [],
@@ -27953,7 +27938,6 @@
     "UCSC.utils"
   ],
   "mina": [],
-  "minet": [],
   "minfi": [
     "BiocGenerics",
     "GenomicRanges",
@@ -29021,7 +29005,6 @@
   "nempi": [
     "mnem",
     "epiNEM",
-    "minet",
     "graph",
     "Rgraphviz",
     "Linnorm",
@@ -29093,7 +29076,6 @@
   "netresponse": [
     "BiocStyle",
     "Rgraphviz",
-    "minet",
     "graph",
     "BiocGenerics"
   ],
@@ -29477,7 +29459,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "ompBAM": [],
   "oncomix": [
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -31218,7 +31199,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "rBiopaxParser": [],
   "rCGH": [
     "DNAcopy",
     "limma",
@@ -34401,7 +34381,6 @@
     "dir.expiry",
     "basilisk.utils"
   ],
-  "snm": [],
   "snpStats": [
     "BiocGenerics",
     "zlibbioc"
@@ -35733,7 +35712,6 @@
     "marray",
     "BiocGenerics"
   ],
-  "timescape": [],
   "tkWidgets": [
     "widgetTools",
     "DynDoc"
