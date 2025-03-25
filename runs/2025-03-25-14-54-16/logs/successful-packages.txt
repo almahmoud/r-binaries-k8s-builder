@@ -81,3 +81,15 @@ MPFE
 MSstatsConvert
 MVCClass
 PROcess
+HuBMAPR
+Informeasure
+IsoCorrectoR
+Mergeomics
+ModCon
+MSstatsLOBD
+ProtGenerics
+RankProd
+Rbowtie
+Rbwa
+Rcollectl
+RProtoBufLib

@@ -375,7 +375,6 @@
     "BiocFileCache",
     "VariantAnnotation",
     "AnnotationFilter",
-    "ProtGenerics",
     "MatrixGenerics",
     "S4Arrays",
     "DelayedArray",
@@ -426,7 +425,6 @@
     "S4Arrays",
     "SparseArray",
     "AnnotationFilter",
-    "ProtGenerics",
     "h5mread",
     "DirichletMultinomial",
     "seqLogo"
@@ -560,7 +558,6 @@
     "DelayedArray",
     "BiocIO",
     "SparseArray",
-    "ProtGenerics",
     "UCSC.utils",
     "txdbmaker",
     "biomaRt",
@@ -596,8 +593,7 @@
     "DelayedArray",
     "BiocFileCache",
     "AnnotationFilter",
-    "SparseArray",
-    "ProtGenerics"
+    "SparseArray"
   ],
   "AlphaBeta": [
     "BiocParallel"
@@ -1002,7 +998,6 @@
     "AnnotationFilter",
     "KEGGREST",
     "BiocIO",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "graph",
@@ -1138,7 +1133,6 @@
     "BiocIO",
     "rtracklayer",
     "Rsamtools",
-    "ProtGenerics",
     "UCSC.utils",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -1789,7 +1783,6 @@
     "XVector",
     "KEGGREST",
     "rtracklayer",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "MatrixGenerics",
@@ -1874,7 +1867,6 @@
     "OrganismDbi",
     "KEGGREST",
     "BiocIO",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "graph",
@@ -1920,8 +1912,7 @@
     "KEGGREST",
     "BiocFileCache",
     "AnnotationFilter",
-    "SparseArray",
-    "ProtGenerics"
+    "SparseArray"
   ],
   "CAGEr": [
     "MultiAssayExperiment",
@@ -1959,8 +1950,7 @@
     "ensembldb",
     "biovizBase",
     "BiocFileCache",
-    "AnnotationFilter",
-    "ProtGenerics"
+    "AnnotationFilter"
   ],
   "CAMERA": [
     "Biobase",
@@ -1971,7 +1961,6 @@
     "BiocParallel",
     "MSnbase",
     "mzR",
-    "ProtGenerics",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -2035,7 +2024,6 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "RProtoBufLib",
     "scuttle",
     "MatrixGenerics",
     "SparseArray",
@@ -2377,8 +2365,7 @@
     "ensembldb",
     "AnnotationFilter",
     "BiocIO",
-    "SparseArray",
-    "ProtGenerics"
+    "SparseArray"
   ],
   "CNViz": [
     "karyoploteR",
@@ -2414,8 +2401,7 @@
     "MatrixGenerics",
     "S4Arrays",
     "DelayedArray",
-    "SparseArray",
-    "ProtGenerics"
+    "SparseArray"
   ],
   "CNVrd2": [
     "VariantAnnotation",
@@ -2516,7 +2502,6 @@
     "graph",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "Rgraphviz"
   ],
   "COSNet": [],
@@ -2760,7 +2745,6 @@
   "Cardinal": [
     "BiocParallel",
     "BiocGenerics",
-    "ProtGenerics",
     "S4Vectors",
     "CardinalIO",
     "Biobase",
@@ -2771,8 +2755,7 @@
     "BiocParallel",
     "matter",
     "S4Vectors",
-    "BiocGenerics",
-    "ProtGenerics"
+    "BiocGenerics"
   ],
   "Category": [
     "BiocGenerics",
@@ -3093,8 +3076,7 @@
     "multtest",
     "affyio",
     "VariantAnnotation",
-    "AnnotationFilter",
-    "ProtGenerics"
+    "AnnotationFilter"
   ],
   "ChIPComp": [
     "GenomicRanges",
@@ -3222,7 +3204,6 @@
     "Biobase",
     "KEGGREST",
     "rtracklayer",
-    "ProtGenerics",
     "MatrixGenerics",
     "S4Arrays",
     "DelayedArray",
@@ -3257,7 +3238,6 @@
     "BiocFileCache",
     "XVector",
     "AnnotationFilter",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "BSgenome",
@@ -3521,7 +3501,6 @@
     "MatrixGenerics",
     "GenomicFeatures",
     "AnnotationDbi",
-    "ProtGenerics",
     "UCSC.utils",
     "sva",
     "S4Arrays",
@@ -3539,7 +3518,6 @@
     "Biobase",
     "MSnbase",
     "BiocGenerics",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -3674,7 +3652,6 @@
     "BiocGenerics",
     "ChemmineR",
     "Biobase",
-    "ProtGenerics",
     "IRanges",
     "Spectra",
     "MsCoreUtils",
@@ -3722,8 +3699,7 @@
     "ensembldb",
     "AnnotationFilter",
     "BiocIO",
-    "SparseArray",
-    "ProtGenerics"
+    "SparseArray"
   ],
   "CoreGx": [
     "BiocGenerics",
@@ -3822,8 +3798,7 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "CytoGLMM": [
     "BiocParallel"
@@ -3840,7 +3815,6 @@
     "flowAI",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "ncdfFlow",
     "flowWorkspace",
     "ComplexHeatmap",
@@ -3864,7 +3838,6 @@
     "Biobase",
     "graph",
     "ggcyto",
-    "RProtoBufLib",
     "BiocGenerics",
     "S4Vectors",
     "ncdfFlow",
@@ -3888,7 +3861,6 @@
     "BiocGenerics",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "ncdfFlow",
     "flowWorkspace",
     "ComplexHeatmap",
@@ -3914,7 +3886,6 @@
     "BiocGenerics",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "ncdfFlow",
     "flowWorkspace",
     "ComplexHeatmap",
@@ -3962,7 +3933,6 @@
     "BiocGenerics",
     "mzR",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -4078,7 +4048,6 @@
     "Biobase",
     "mzR",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -4134,7 +4103,6 @@
     "Biobase",
     "BiocFileCache",
     "AnnotationFilter",
-    "ProtGenerics",
     "BSgenome"
   ],
   "DESeq2": [
@@ -4405,7 +4373,6 @@
     "AnnotationFilter",
     "BiocIO",
     "sparseMatrixStats",
-    "ProtGenerics",
     "annotate",
     "h5mread",
     "multtest"
@@ -4581,7 +4548,6 @@
     "AnnotationFilter",
     "BiocParallel",
     "BiocIO",
-    "ProtGenerics",
     "txdbmaker",
     "graph",
     "RBGL",
@@ -5017,7 +4983,6 @@
     "BiocFileCache",
     "VariantAnnotation",
     "AnnotationFilter",
-    "ProtGenerics",
     "UCSC.utils",
     "MatrixGenerics",
     "S4Arrays",
@@ -5197,7 +5162,6 @@
     "KEGGREST",
     "VariantAnnotation",
     "AnnotationFilter",
-    "ProtGenerics",
     "BiocParallel"
   ],
   "ELViS": [
@@ -5783,7 +5747,6 @@
     "assorthead",
     "ScaledMatrix",
     "sparseMatrixStats",
-    "ProtGenerics",
     "h5mread",
     "graph",
     "RBGL"
@@ -5909,8 +5872,7 @@
     "BiocGenerics",
     "Biobase",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "FuseSOM": [
     "SummarizedExperiment",
@@ -6363,7 +6325,6 @@
     "AnnotationFilter",
     "rtracklayer",
     "Rsamtools",
-    "ProtGenerics",
     "UCSC.utils",
     "S4Arrays",
     "DelayedArray",
@@ -6567,8 +6528,7 @@
     "MatrixGenerics",
     "S4Arrays",
     "SparseArray",
-    "AnnotationFilter",
-    "ProtGenerics"
+    "AnnotationFilter"
   ],
   "GWAS.BAYES": [
     "limma"
@@ -6606,7 +6566,6 @@
     "BiocGenerics",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "flowViz"
   ],
   "GeDi": [
@@ -6787,7 +6746,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "AnnotationFilter",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "MatrixGenerics",
@@ -6992,7 +6950,6 @@
     "BiocFileCache",
     "VariantAnnotation",
     "AnnotationFilter",
-    "ProtGenerics",
     "MatrixGenerics",
     "S4Arrays",
     "DelayedArray",
@@ -7025,7 +6982,6 @@
     "AnnotationFilter",
     "KEGGREST",
     "BiocIO",
-    "ProtGenerics",
     "BiocParallel",
     "graph",
     "RBGL",
@@ -7330,7 +7286,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "BiocIO",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "MatrixGenerics",
@@ -7525,8 +7480,7 @@
     "BiocFileCache",
     "VariantAnnotation",
     "AnnotationFilter",
-    "SparseArray",
-    "ProtGenerics"
+    "SparseArray"
   ],
   "HiCDOC": [
     "InteractionSet",
@@ -7750,7 +7704,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "HuBMAPR": [],
   "HubPub": [
     "biocthis"
   ],
@@ -7905,7 +7858,6 @@
     "MSnbase",
     "mzR",
     "BiocGenerics",
-    "ProtGenerics",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -8100,7 +8052,6 @@
     "UCSC.utils",
     "BiocParallel"
   ],
-  "Informeasure": [],
   "IntEREst": [
     "GenomicRanges",
     "Rsamtools",
@@ -8193,10 +8144,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "IsoCorrectoR": [],
-  "IsoCorrectoRGUI": [
-    "IsoCorrectoR"
-  ],
+  "IsoCorrectoRGUI": [],
   "IsoformSwitchAnalyzeR": [
     "limma",
     "DEXSeq",
@@ -8240,7 +8188,6 @@
     "BiocVersion",
     "SparseArray",
     "AnnotationFilter",
-    "ProtGenerics",
     "annotate"
   ],
   "KCsmart": [
@@ -8332,7 +8279,6 @@
     "MSnbase",
     "mzR",
     "BiocGenerics",
-    "ProtGenerics",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -8643,7 +8589,6 @@
     "MSnbase",
     "mzR",
     "BiocGenerics",
-    "ProtGenerics",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -8684,8 +8629,7 @@
     "BiocGenerics",
     "IRanges",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "MAST": [
     "SingleCellExperiment",
@@ -8844,7 +8788,6 @@
     "BiocIO",
     "SparseArray",
     "sparseMatrixStats",
-    "ProtGenerics",
     "annotate",
     "UCSC.utils",
     "h5mread",
@@ -9408,7 +9351,6 @@
     "MSnbase",
     "mzID",
     "Biobase",
-    "ProtGenerics",
     "mzR",
     "BiocStyle",
     "msmsTests",
@@ -9452,7 +9394,6 @@
     "Biobase",
     "mzR",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -9499,7 +9440,6 @@
     "BiocGenerics",
     "graph"
   ],
-  "MSstatsLOBD": [],
   "MSstatsLiP": [
     "MSstats",
     "Biostrings",
@@ -9536,7 +9476,6 @@
     "Biobase",
     "mzR",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -9571,7 +9510,6 @@
     "Biobase",
     "mzR",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -9761,7 +9699,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "Mergeomics": [],
   "MesKit": [
     "Biostrings",
     "AnnotationDbi",
@@ -9781,7 +9718,6 @@
     "S4Vectors",
     "BiocGenerics",
     "BiocParallel",
-    "ProtGenerics",
     "IRanges",
     "MetaboCoreUtils"
   ],
@@ -9830,7 +9766,6 @@
     "BiocGenerics",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "ConsensusClusterPlus"
   ],
   "MetaNeighbor": [
@@ -9875,7 +9810,6 @@
     "BiocGenerics",
     "MsCoreUtils",
     "MetaboCoreUtils",
-    "ProtGenerics",
     "S4Vectors",
     "Spectra",
     "BiocParallel",
@@ -9954,7 +9888,6 @@
     "AnnotationFilter",
     "rtracklayer",
     "Rsamtools",
-    "ProtGenerics",
     "AnnotationHub",
     "MatrixGenerics",
     "S4Arrays",
@@ -10232,7 +10165,6 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "ModCon": [],
   "Modstrings": [
     "Biostrings",
     "BiocGenerics",
@@ -10426,14 +10358,12 @@
     "BiocParallel",
     "S4Vectors",
     "IRanges",
-    "ProtGenerics",
     "MsCoreUtils",
     "BiocGenerics",
     "MetaboCoreUtils"
   ],
   "MsBackendMetaboLights": [
     "Spectra",
-    "ProtGenerics",
     "BiocFileCache",
     "S4Vectors",
     "BiocGenerics",
@@ -10444,7 +10374,6 @@
   ],
   "MsBackendMgf": [
     "Spectra",
-    "ProtGenerics",
     "BiocParallel",
     "S4Vectors",
     "IRanges",
@@ -10454,7 +10383,6 @@
   ],
   "MsBackendMsp": [
     "Spectra",
-    "ProtGenerics",
     "BiocParallel",
     "S4Vectors",
     "IRanges",
@@ -10464,7 +10392,6 @@
   ],
   "MsBackendRawFileReader": [
     "Spectra",
-    "ProtGenerics",
     "MsCoreUtils",
     "S4Vectors",
     "IRanges",
@@ -10476,7 +10403,6 @@
     "Spectra",
     "BiocParallel",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "IRanges",
     "BiocGenerics",
@@ -10503,7 +10429,6 @@
     "UCSC.utils"
   ],
   "MsExperiment": [
-    "ProtGenerics",
     "S4Vectors",
     "IRanges",
     "Spectra",
@@ -10527,7 +10452,6 @@
     "BiocBaseUtils"
   ],
   "MsFeatures": [
-    "ProtGenerics",
     "MsCoreUtils",
     "SummarizedExperiment",
     "S4Vectors",
@@ -10546,7 +10470,6 @@
   "MsQuality": [
     "BiocParallel",
     "MsExperiment",
-    "ProtGenerics",
     "Spectra",
     "S4Vectors",
     "IRanges",
@@ -10789,7 +10712,6 @@
     "BiocVersion",
     "VariantAnnotation",
     "AnnotationFilter",
-    "ProtGenerics",
     "h5mread",
     "DirichletMultinomial",
     "seqLogo"
@@ -11048,7 +10970,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "AnnotationFilter",
-    "ProtGenerics",
     "BiocParallel",
     "MatrixGenerics",
     "S4Arrays",
@@ -11567,7 +11488,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "AnnotationFilter",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "MatrixGenerics",
@@ -11632,7 +11552,6 @@
     "impute",
     "limma",
     "mixOmics",
-    "RankProd",
     "SummarizedExperiment",
     "sva",
     "IRanges",
@@ -11737,7 +11656,6 @@
     "BiocGenerics",
     "IRanges",
     "mzR",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -11748,7 +11666,6 @@
     "DESeq2",
     "fgsea",
     "mixOmics",
-    "RankProd",
     "sva",
     "MatrixGenerics",
     "GenomicRanges",
@@ -11796,7 +11713,6 @@
     "S4Vectors",
     "BiocParallel",
     "BiocGenerics",
-    "ProtGenerics",
     "QFeatures",
     "MsCoreUtils",
     "MultiAssayExperiment",
@@ -11887,7 +11803,6 @@
     "BiocGenerics",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "graph",
     "RBGL",
     "Rgraphviz",
@@ -12073,7 +11988,6 @@
     "BiocGenerics",
     "mzR",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -12107,7 +12021,6 @@
     "MSnbase",
     "mzR",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -12134,7 +12047,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "ProtGenerics": [],
   "ProteoDisco": [
     "BiocGenerics",
     "BiocParallel",
@@ -12229,7 +12141,6 @@
     "KEGGREST",
     "BiocFileCache",
     "BiocIO",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "MatrixGenerics",
@@ -12262,7 +12173,6 @@
     "IRanges",
     "SummarizedExperiment",
     "BiocGenerics",
-    "ProtGenerics",
     "AnnotationFilter",
     "Biobase",
     "MsCoreUtils",
@@ -12313,7 +12223,6 @@
   ],
   "QuasR": [
     "GenomicRanges",
-    "Rbowtie",
     "BiocGenerics",
     "S4Vectors",
     "IRanges",
@@ -12370,7 +12279,6 @@
     "AnnotationFilter",
     "KEGGREST",
     "BiocIO",
-    "ProtGenerics",
     "BiocParallel",
     "graph",
     "RBGL",
@@ -12444,7 +12352,6 @@
     "XVector",
     "Rsamtools",
     "GenomicFeatures",
-    "ProtGenerics",
     "BiocParallel",
     "GWASTools",
     "SeqArray",
@@ -12584,7 +12491,6 @@
     "ensembldb",
     "BiocFileCache",
     "AnnotationFilter",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "MatrixGenerics",
@@ -12689,7 +12595,6 @@
     "S4Vectors",
     "Rsamtools",
     "IRanges",
-    "ProtGenerics",
     "Biostrings",
     "XVector",
     "KEGGREST",
@@ -12745,7 +12650,6 @@
     "mzR",
     "S4Vectors",
     "BiocGenerics",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -12837,7 +12741,6 @@
     "BiocFileCache",
     "VariantAnnotation",
     "AnnotationFilter",
-    "ProtGenerics",
     "MatrixGenerics",
     "S4Arrays",
     "DelayedArray",
@@ -12872,7 +12775,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "BiocIO",
-    "ProtGenerics",
     "UCSC.utils",
     "MatrixGenerics",
     "S4Arrays",
@@ -12909,7 +12811,6 @@
     "BiocFileCache",
     "VariantAnnotation",
     "AnnotationFilter",
-    "ProtGenerics",
     "MatrixGenerics",
     "S4Arrays",
     "DelayedArray",
@@ -12944,7 +12845,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "BiocIO",
-    "ProtGenerics",
     "UCSC.utils",
     "MatrixGenerics",
     "S4Arrays",
@@ -13029,7 +12929,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "RProtoBufLib": [],
   "RRHO": [],
   "RSVSim": [
     "Biostrings",
@@ -13232,7 +13131,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RankProd": [],
   "RareVariantVis": [
     "BiocGenerics",
     "VariantAnnotation",
@@ -13303,7 +13201,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "Rbowtie": [],
   "Rbowtie2": [
     "Rsamtools",
     "GenomeInfoDb",
@@ -13316,7 +13213,6 @@
     "BiocParallel",
     "UCSC.utils"
   ],
-  "Rbwa": [],
   "RcisTarget": [
     "AUCell",
     "BiocGenerics",
@@ -13341,7 +13237,6 @@
     "sparseMatrixStats",
     "Biostrings"
   ],
-  "Rcollectl": [],
   "Rcpi": [
     "Biostrings",
     "GOSemSim",
@@ -13608,7 +13503,6 @@
     "Rgraphviz",
     "XVector",
     "BiocIO",
-    "ProtGenerics",
     "UCSC.utils",
     "txdbmaker",
     "S4Arrays",
@@ -13772,7 +13666,6 @@
     "AnnotationFilter",
     "BiocIO",
     "KEGGREST",
-    "ProtGenerics",
     "graph",
     "RBGL",
     "txdbmaker",
@@ -13946,7 +13839,6 @@
     "Biobase",
     "pwalign",
     "KEGGREST",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocIO",
     "S4Arrays",
@@ -14353,8 +14245,7 @@
   "SIMAT": [
     "mzR",
     "Biobase",
-    "BiocGenerics",
-    "ProtGenerics"
+    "BiocGenerics"
   ],
   "SIMD": [
     "edgeR",
@@ -14524,7 +14415,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "BiocIO",
-    "ProtGenerics",
     "MatrixGenerics",
     "S4Arrays",
     "DelayedArray",
@@ -14708,8 +14598,7 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "ScreenR": [
     "limma",
@@ -15018,7 +14907,6 @@
     "Rsamtools",
     "UCSC.utils",
     "GenomicAlignments",
-    "Rbowtie",
     "Biobase",
     "GenomicFeatures",
     "txdbmaker",
@@ -15085,7 +14973,6 @@
     "MatrixGenerics",
     "KEGGREST",
     "BiocIO",
-    "ProtGenerics",
     "BiocParallel",
     "graph",
     "RBGL",
@@ -15319,14 +15206,12 @@
   "Spectra": [
     "S4Vectors",
     "BiocParallel",
-    "ProtGenerics",
     "IRanges",
     "MsCoreUtils",
     "BiocGenerics",
     "MetaboCoreUtils"
   ],
   "SpectraQL": [
-    "ProtGenerics",
     "Spectra",
     "MsCoreUtils",
     "S4Vectors",
@@ -15542,7 +15427,6 @@
     "XVector",
     "treeio",
     "cytolib",
-    "RProtoBufLib",
     "ConsensusClusterPlus"
   ],
   "Streamer": [
@@ -16282,7 +16166,6 @@
     "Biobase",
     "AnnotationDbi",
     "rtracklayer",
-    "ProtGenerics",
     "UCSC.utils",
     "biomaRt",
     "BSgenome",
@@ -16299,7 +16182,6 @@
   "TargetDecoy": [
     "mzID",
     "mzR",
-    "ProtGenerics",
     "Biobase",
     "BiocGenerics"
   ],
@@ -16853,7 +16735,6 @@
     "BiocVersion",
     "AnnotationFilter",
     "SparseArray",
-    "ProtGenerics",
     "h5mread"
   ],
   "VariantTools": [
@@ -17147,7 +17028,6 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "ProtGenerics",
     "graph",
     "RBGL",
     "txdbmaker",
@@ -17271,7 +17151,6 @@
     "AnnotationDbi",
     "S4Vectors",
     "Biobase",
-    "ProtGenerics",
     "IRanges",
     "KEGGREST",
     "Biostrings",
@@ -17384,7 +17263,6 @@
     "DelayedArray",
     "BiocIO",
     "SparseArray",
-    "ProtGenerics",
     "UCSC.utils",
     "txdbmaker",
     "biomaRt",
@@ -18270,7 +18148,6 @@
     "BiocStyle",
     "BiocGenerics",
     "mzR",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
@@ -18780,7 +18657,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "BiocIO",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "MatrixGenerics",
@@ -18844,7 +18720,6 @@
     "KEGGREST",
     "XVector",
     "rtracklayer",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "MatrixGenerics",
@@ -19275,7 +19150,6 @@
     "AnnotationFilter",
     "KEGGREST",
     "BiocIO",
-    "ProtGenerics",
     "graph",
     "RBGL",
     "txdbmaker",
@@ -19609,7 +19483,6 @@
     "DelayedArray",
     "SparseArray",
     "cytolib",
-    "RProtoBufLib",
     "ConsensusClusterPlus",
     "UCSC.utils",
     "XVector"
@@ -19735,7 +19608,6 @@
     "Biobase",
     "AnnotationDbi",
     "Rsamtools",
-    "ProtGenerics",
     "Biostrings",
     "UCSC.utils",
     "XVector",
@@ -19775,7 +19647,6 @@
     "rtracklayer",
     "Rsamtools",
     "IRanges",
-    "ProtGenerics",
     "Biostrings",
     "XVector",
     "MatrixGenerics",
@@ -19830,7 +19701,6 @@
     "Biobase",
     "AnnotationDbi",
     "Rsamtools",
-    "ProtGenerics",
     "Biostrings",
     "UCSC.utils",
     "XVector",
@@ -19876,7 +19746,6 @@
     "XVector",
     "GenomicFeatures",
     "rtracklayer",
-    "ProtGenerics",
     "UCSC.utils",
     "SummarizedExperiment",
     "BiocParallel",
@@ -20016,7 +19885,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "BiocIO",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "MatrixGenerics",
@@ -20156,7 +20024,6 @@
     "Biobase",
     "mzR",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -20290,7 +20157,6 @@
     "BiocGenerics",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "MatrixGenerics",
     "GenomicRanges",
     "IRanges",
@@ -20452,8 +20318,7 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "BiocIO",
-    "SparseArray",
-    "ProtGenerics"
+    "SparseArray"
   ],
   "combi": [
     "phyloseq",
@@ -20511,8 +20376,7 @@
     "BiocFileCache",
     "VariantAnnotation",
     "AnnotationFilter",
-    "SparseArray",
-    "ProtGenerics"
+    "SparseArray"
   ],
   "compSPOT": [],
   "compcodeR": [
@@ -20621,7 +20485,6 @@
     "biomaRt",
     "AnnotationFilter",
     "rtracklayer",
-    "ProtGenerics",
     "S4Arrays",
     "DelayedArray",
     "BiocFileCache",
@@ -20786,7 +20649,6 @@
     "mzR",
     "Biobase",
     "BiocGenerics",
-    "ProtGenerics",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -20924,7 +20786,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "IRanges",
-    "Rbowtie",
     "S4Vectors",
     "XVector",
     "BiocIO",
@@ -20945,7 +20806,6 @@
     "BSgenome",
     "crisprBase",
     "GenomeInfoDb",
-    "Rbwa",
     "S4Vectors",
     "IRanges",
     "GenomicRanges",
@@ -20986,7 +20846,6 @@
     "XVector",
     "BiocIO",
     "Rsamtools",
-    "Rbowtie",
     "basilisk",
     "basilisk.utils",
     "UCSC.utils",
@@ -21052,7 +20911,6 @@
     "Biobase",
     "KEGGREST",
     "dir.expiry",
-    "Rbowtie",
     "ExperimentHub",
     "AnnotationHub",
     "biomaRt",
@@ -21064,7 +20922,6 @@
     "BiocFileCache",
     "BiocVersion",
     "AnnotationFilter",
-    "ProtGenerics",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -21082,7 +20939,6 @@
     "S4Vectors",
     "BSgenome",
     "GenomeInfoDb",
-    "Rbowtie",
     "AnnotationDbi",
     "GenomicFeatures",
     "MatrixGenerics",
@@ -21109,7 +20965,6 @@
     "GenomicAlignments",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "ProtGenerics",
     "BiocParallel",
     "S4Arrays",
     "DelayedArray",
@@ -21147,10 +21002,8 @@
     "BiocFileCache",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "Rbowtie",
     "basilisk",
     "basilisk.utils",
-    "ProtGenerics",
     "BiocParallel",
     "dir.expiry",
     "ExperimentHub",
@@ -21245,7 +21098,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "AnnotationFilter",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "MatrixGenerics",
@@ -21307,7 +21159,6 @@
     "graph",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "flowViz"
   ],
   "cycle": [
@@ -21329,7 +21180,6 @@
     "BiocNeighbors",
     "assorthead",
     "cytolib",
-    "RProtoBufLib",
     "GenomicRanges",
     "DelayedArray",
     "MatrixGenerics",
@@ -21385,8 +21235,7 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "cytofQC": [
     "CATALYST",
@@ -21402,7 +21251,6 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "RProtoBufLib",
     "GenomicRanges",
     "DelayedArray",
     "MatrixGenerics",
@@ -21420,9 +21268,7 @@
     "assorthead",
     "ScaledMatrix"
   ],
-  "cytolib": [
-    "RProtoBufLib"
-  ],
+  "cytolib": [],
   "cytomapper": [
     "EBImage",
     "SingleCellExperiment",
@@ -21639,7 +21485,6 @@
     "BiocGenerics",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "flowViz"
   ],
   "dearseq": [],
@@ -21861,7 +21706,6 @@
     "rtracklayer",
     "S4Vectors",
     "Rsamtools",
-    "ProtGenerics",
     "Biostrings",
     "UCSC.utils",
     "DelayedArray",
@@ -21946,7 +21790,6 @@
     "AnnotationFilter",
     "KEGGREST",
     "BiocIO",
-    "ProtGenerics",
     "MatrixGenerics",
     "graph",
     "RBGL",
@@ -22026,7 +21869,6 @@
     "genefilter",
     "GenomicFeatures",
     "AnnotationFilter",
-    "ProtGenerics",
     "Biostrings",
     "UCSC.utils",
     "XVector",
@@ -22074,7 +21916,6 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "RProtoBufLib",
     "ConsensusClusterPlus",
     "MatrixGenerics",
     "GenomicRanges",
@@ -22351,7 +22192,6 @@
     "rtracklayer",
     "Rsamtools",
     "IRanges",
-    "ProtGenerics",
     "Biostrings",
     "AnVILBase",
     "BiocBaseUtils",
@@ -22579,7 +22419,6 @@
     "S4Vectors",
     "Rsamtools",
     "IRanges",
-    "ProtGenerics",
     "Biostrings",
     "KEGGREST",
     "XVector",
@@ -22711,7 +22550,6 @@
     "limma",
     "AnnotationFilter",
     "Rsamtools",
-    "ProtGenerics",
     "Biostrings",
     "UCSC.utils",
     "XVector",
@@ -22880,7 +22718,6 @@
     "AnnotationFilter",
     "rtracklayer",
     "Rsamtools",
-    "ProtGenerics",
     "Biostrings",
     "graph",
     "RBGL",
@@ -22912,7 +22749,6 @@
     "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
-    "ProtGenerics",
     "Biostrings",
     "UCSC.utils",
     "XVector",
@@ -22946,7 +22782,6 @@
     "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
-    "ProtGenerics",
     "Biostrings",
     "UCSC.utils",
     "XVector",
@@ -22991,7 +22826,6 @@
     "GenomicAlignments",
     "BiocIO",
     "AnnotationFilter",
-    "ProtGenerics",
     "BiocParallel",
     "graph",
     "RBGL",
@@ -23443,7 +23277,6 @@
     "MSnbase",
     "mzR",
     "BiocGenerics",
-    "ProtGenerics",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -23479,16 +23312,14 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowBeads": [
     "Biobase",
     "flowCore",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowBin": [
     "flowCore",
@@ -23498,7 +23329,6 @@
     "Biobase",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "flowViz"
   ],
   "flowCHIC": [
@@ -23507,16 +23337,14 @@
     "BiocGenerics",
     "Biobase",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowClean": [
     "flowCore",
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowClust": [
     "BiocGenerics",
@@ -23524,15 +23352,13 @@
     "graph",
     "flowCore",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowCore": [
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowCut": [
     "flowCore",
@@ -23541,7 +23367,6 @@
     "BiocGenerics",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "flowViz"
   ],
   "flowCyBar": [],
@@ -23551,8 +23376,7 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowFP": [
     "flowCore",
@@ -23560,8 +23384,7 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowGate": [
     "flowWorkspace",
@@ -23571,7 +23394,6 @@
     "BiocGenerics",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "graph",
     "RBGL",
     "Rgraphviz",
@@ -23589,16 +23411,14 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowMeans": [
     "Biobase",
     "flowCore",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowMerge": [
     "graph",
@@ -23608,8 +23428,7 @@
     "BiocGenerics",
     "Biobase",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowPeaks": [],
   "flowPloidy": [
@@ -23617,8 +23436,7 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowPlots": [],
   "flowSpecs": [
@@ -23627,8 +23445,7 @@
     "Biobase",
     "flowCore",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowStats": [
     "BiocGenerics",
@@ -23639,7 +23456,6 @@
     "Biobase",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "graph",
     "RBGL",
     "Rgraphviz",
@@ -23655,8 +23471,7 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowTrans": [
     "flowCore",
@@ -23666,8 +23481,7 @@
     "Biobase",
     "graph",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowVS": [
     "flowCore",
@@ -23677,7 +23491,6 @@
     "BiocGenerics",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "flowWorkspace",
     "ncdfFlow",
     "graph",
@@ -23695,8 +23508,7 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "flowWorkspace": [
     "Biobase",
@@ -23705,7 +23517,6 @@
     "graph",
     "RBGL",
     "Rgraphviz",
-    "RProtoBufLib",
     "flowCore",
     "ncdfFlow",
     "DelayedArray",
@@ -24296,8 +24107,7 @@
     "BiocFileCache",
     "VariantAnnotation",
     "AnnotationFilter",
-    "SparseArray",
-    "ProtGenerics"
+    "SparseArray"
   ],
   "gep2pep": [
     "GSEABase",
@@ -24390,7 +24200,6 @@
     "KEGGREST",
     "XVector",
     "BiocIO",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "graph",
@@ -24411,7 +24220,6 @@
     "BiocGenerics",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "graph",
     "RBGL",
     "Rgraphviz",
@@ -24920,7 +24728,6 @@
     "IRanges",
     "SummarizedExperiment",
     "BiocGenerics",
-    "ProtGenerics",
     "AnnotationFilter",
     "Biobase",
     "BiocParallel",
@@ -25697,8 +25504,7 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "immunogenViewer": [
     "UniProt.ws",
@@ -25741,8 +25547,7 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "intansv": [
     "ggbio",
@@ -25768,7 +25573,6 @@
     "AnnotationFilter",
     "KEGGREST",
     "BiocIO",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "graph",
@@ -25928,7 +25732,6 @@
     "BiocParallel",
     "BiocIO",
     "MatrixGenerics",
-    "ProtGenerics",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -26414,7 +26217,6 @@
     "AnnotationFilter",
     "BiocIO",
     "SparseArray",
-    "ProtGenerics",
     "UCSC.utils",
     "graph",
     "RBGL",
@@ -26595,7 +26397,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "AnnotationFilter",
-    "ProtGenerics",
     "BiocParallel",
     "MatrixGenerics",
     "S4Arrays",
@@ -26651,8 +26452,7 @@
   "matchBox": [],
   "matter": [
     "BiocParallel",
-    "BiocGenerics",
-    "ProtGenerics"
+    "BiocGenerics"
   ],
   "mbQTL": [
     "metagenomeSeq",
@@ -26759,7 +26559,6 @@
     "BiocParallel",
     "MSnbase",
     "mzR",
-    "ProtGenerics",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -27201,8 +27000,7 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "BiocIO",
-    "SparseArray",
-    "ProtGenerics"
+    "SparseArray"
   ],
   "methylSig": [
     "bsseq",
@@ -28144,7 +27942,6 @@
     "KEGGREST",
     "AnnotationFilter",
     "SparseArray",
-    "ProtGenerics",
     "DirichletMultinomial",
     "seqLogo"
   ],
@@ -28230,8 +28027,7 @@
   "msPurity": [
     "mzR",
     "Biobase",
-    "BiocGenerics",
-    "ProtGenerics"
+    "BiocGenerics"
   ],
   "msa": [
     "Biostrings",
@@ -28279,14 +28075,12 @@
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
-    "ProtGenerics",
     "graph",
     "RBGL",
     "txdbmaker",
     "pwalign"
   ],
   "mslp": [
-    "RankProd",
     "AnnotationDbi",
     "BiocGenerics",
     "Biobase",
@@ -28304,7 +28098,6 @@
     "Biobase",
     "mzR",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -28340,7 +28133,6 @@
     "Biobase",
     "mzR",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -28373,7 +28165,6 @@
     "S4Vectors",
     "IRanges",
     "BiocGenerics",
-    "ProtGenerics",
     "AnnotationFilter",
     "Biobase",
     "MsCoreUtils",
@@ -28400,7 +28191,6 @@
     "GenomicRanges",
     "IRanges",
     "S4Vectors",
-    "ProtGenerics",
     "AnnotationFilter",
     "MsCoreUtils",
     "MatrixGenerics",
@@ -28497,7 +28287,6 @@
     "GenomicRanges",
     "karyoploteR",
     "plyranges",
-    "Rbowtie",
     "rtracklayer",
     "S4Vectors",
     "IRanges",
@@ -28522,8 +28311,7 @@
     "MatrixGenerics",
     "S4Arrays",
     "SparseArray",
-    "BiocParallel",
-    "ProtGenerics"
+    "BiocParallel"
   ],
   "multiscan": [
     "Biobase",
@@ -28704,13 +28492,10 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "mzID": [
-    "ProtGenerics"
-  ],
+  "mzID": [],
   "mzR": [
     "Biobase",
-    "BiocGenerics",
-    "ProtGenerics"
+    "BiocGenerics"
   ],
   "ncGTW": [
     "BiocParallel",
@@ -28719,7 +28504,6 @@
     "mzR",
     "Biobase",
     "BiocGenerics",
-    "ProtGenerics",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -28764,8 +28548,7 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "ndexr": [
     "RCX"
@@ -29125,7 +28908,6 @@
     "Biobase",
     "mzR",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "BiocParallel",
     "IRanges",
@@ -29311,7 +29093,6 @@
     "graph",
     "cytolib",
     "S4Vectors",
-    "RProtoBufLib",
     "Rgraphviz",
     "DelayedArray",
     "MatrixGenerics",
@@ -29391,8 +29172,7 @@
     "flowCore",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "orthogene": [
     "DelayedArray",
@@ -29449,7 +29229,6 @@
     "SummarizedExperiment",
     "mzR",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
@@ -29483,7 +29262,6 @@
     "BiocGenerics",
     "mzR",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -29808,7 +29586,6 @@
     "BiocGenerics",
     "Biobase",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -30431,7 +30208,6 @@
     "MatrixGenerics",
     "S4Arrays",
     "SparseArray",
-    "ProtGenerics",
     "UCSC.utils",
     "h5mread"
   ],
@@ -30647,7 +30423,6 @@
     "BiocGenerics",
     "mzR",
     "S4Vectors",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -30733,7 +30508,6 @@
     "XVector",
     "GenomeInfoDb",
     "mzR",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -31526,7 +31300,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "BiocIO",
-    "ProtGenerics",
     "UCSC.utils",
     "BiocParallel",
     "MatrixGenerics",
@@ -32053,8 +31826,7 @@
     "biovizBase",
     "BiocIO",
     "VariantAnnotation",
-    "AnnotationFilter",
-    "ProtGenerics"
+    "AnnotationFilter"
   ],
   "satuRn": [
     "SummarizedExperiment",
@@ -32238,7 +32010,6 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "RProtoBufLib",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
@@ -32373,7 +32144,6 @@
     "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
-    "ProtGenerics",
     "Biostrings",
     "SingleCellExperiment",
     "SpatialExperiment",
@@ -32757,7 +32527,6 @@
     "AnnotationFilter",
     "rtracklayer",
     "Rsamtools",
-    "ProtGenerics",
     "Biostrings",
     "UCSC.utils",
     "XVector",
@@ -32805,7 +32574,6 @@
     "BiocVersion",
     "XVector",
     "Rsamtools",
-    "ProtGenerics",
     "UCSC.utils",
     "GenomicAlignments",
     "BiocIO",
@@ -32931,7 +32699,6 @@
     "GenomeInfoDb",
     "Biobase",
     "cytolib",
-    "RProtoBufLib",
     "pwalign",
     "UCSC.utils"
   ],
@@ -33080,7 +32847,6 @@
     "DelayedArray",
     "GenomicRanges",
     "IRanges",
-    "ProtGenerics",
     "AnnotationFilter",
     "MatrixGenerics",
     "GenomeInfoDb",
@@ -33184,7 +32950,6 @@
     "biomaRt",
     "BiocFileCache",
     "SparseArray",
-    "ProtGenerics",
     "graph",
     "RBGL"
   ],
@@ -33725,7 +33490,6 @@
     "GenomeInfoDb",
     "rtracklayer",
     "Rsamtools",
-    "ProtGenerics",
     "Biostrings",
     "GSEABase",
     "SingleCellExperiment",
@@ -33884,7 +33648,6 @@
     "GenomeInfoDb",
     "rtracklayer",
     "Rsamtools",
-    "ProtGenerics",
     "Biostrings",
     "treeio",
     "annotate",
@@ -34354,8 +34117,7 @@
     "GenomicAlignments",
     "BiocFileCache",
     "VariantAnnotation",
-    "AnnotationFilter",
-    "ProtGenerics"
+    "AnnotationFilter"
   ],
   "speckle": [
     "limma",
@@ -34451,7 +34213,6 @@
     "DelayedArray",
     "SparseArray",
     "cytolib",
-    "RProtoBufLib",
     "UCSC.utils",
     "XVector",
     "scuttle",
@@ -34546,7 +34307,6 @@
     "xcms",
     "MSnbase",
     "MsExperiment",
-    "ProtGenerics",
     "S4Vectors",
     "IRanges",
     "Spectra",
@@ -34614,8 +34374,7 @@
     "BiocFileCache",
     "VariantAnnotation",
     "AnnotationFilter",
-    "SparseArray",
-    "ProtGenerics"
+    "SparseArray"
   ],
   "ssPATHS": [
     "SummarizedExperiment",
@@ -34959,7 +34718,6 @@
     "XVector",
     "GenomeInfoDb",
     "mzR",
-    "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
     "BiocParallel",
@@ -34983,9 +34741,7 @@
     "S4Arrays",
     "SparseArray"
   ],
-  "synlet": [
-    "RankProd"
-  ],
+  "synlet": [],
   "syntenet": [
     "BiocParallel",
     "GenomicRanges",
@@ -35128,7 +34884,6 @@
     "anota",
     "DESeq2",
     "edgeR",
-    "RankProd",
     "topGO",
     "GOSemSim",
     "Heatplus",
@@ -35180,7 +34935,6 @@
     "BiocFileCache",
     "AnnotationFilter",
     "BiocIO",
-    "ProtGenerics",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -35309,8 +35063,7 @@
     "flowCore",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "tidySingleCellExperiment": [
     "SingleCellExperiment",
@@ -35412,8 +35165,7 @@
     "Biobase",
     "BiocGenerics",
     "cytolib",
-    "S4Vectors",
-    "RProtoBufLib"
+    "S4Vectors"
   ],
   "tigre": [
     "BiocGenerics",
@@ -35496,7 +35248,6 @@
   "topconfects": [],
   "topdownr": [
     "BiocGenerics",
-    "ProtGenerics",
     "Biostrings",
     "S4Vectors",
     "Biobase",
@@ -35577,7 +35328,6 @@
     "BiocFileCache",
     "VariantAnnotation",
     "AnnotationFilter",
-    "ProtGenerics",
     "MatrixGenerics",
     "S4Arrays",
     "DelayedArray",
@@ -35780,7 +35530,6 @@
     "XVector",
     "SparseArray",
     "cytolib",
-    "RProtoBufLib",
     "ConsensusClusterPlus",
     "UCSC.utils"
   ],
@@ -35807,7 +35556,6 @@
     "S4Arrays",
     "SparseArray",
     "cytolib",
-    "RProtoBufLib",
     "ConsensusClusterPlus",
     "GenomeInfoDb",
     "XVector",
@@ -35965,7 +35713,6 @@
     "AnnotationFilter",
     "rtracklayer",
     "Rsamtools",
-    "ProtGenerics",
     "UCSC.utils",
     "MatrixGenerics",
     "S4Arrays",
@@ -36016,7 +35763,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "BiocIO",
-    "ProtGenerics",
     "UCSC.utils",
     "MatrixGenerics",
     "S4Arrays",
@@ -36262,7 +36008,6 @@
     "XVector",
     "BiocFileCache",
     "AnnotationFilter",
-    "ProtGenerics",
     "UCSC.utils",
     "BSgenome",
     "BiocIO",
@@ -36473,7 +36218,6 @@
     "mzR",
     "Biobase",
     "BiocGenerics",
-    "ProtGenerics",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -36558,7 +36302,6 @@
     "mzR",
     "limma",
     "Biobase",
-    "ProtGenerics",
     "MatrixGenerics",
     "GenomicRanges",
     "GenomeInfoDb",
