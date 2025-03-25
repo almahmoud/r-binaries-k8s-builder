@@ -29357,7 +29357,6 @@
     "AnnotationFilter",
     "limma"
   ],
-  "omada": [],
   "omicRexposome": [
     "Biobase",
     "rexposome",
@@ -33875,7 +33874,6 @@
     "multtest",
     "BiocGenerics"
   ],
-  "sights": [],
   "signatureSearch": [
     "SummarizedExperiment",
     "AnnotationDbi",

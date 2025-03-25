@@ -44,3 +44,5 @@ specL
 splots
 tidysbml
 DEGseq
+omada
+sights
