@@ -731,7 +731,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "BADER": [],
   "BAGS": [
     "Biobase",
     "BiocGenerics"
@@ -4077,7 +4076,6 @@
     "multtest"
   ],
   "DNABarcodeCompatibility": [],
-  "DNABarcodes": [],
   "DNAcopy": [],
   "DNAcycP2": [
     "basilisk",
