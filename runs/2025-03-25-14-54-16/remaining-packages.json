@@ -609,7 +609,6 @@
   "AlpsNMR": [
     "mixOmics",
     "BiocParallel",
-    "MassSpecWavelet",
     "impute"
   ],
   "AnVIL": [
@@ -1521,7 +1520,6 @@
     "XVector"
   ],
   "BioMVCClass": [
-    "MVCClass",
     "Biobase",
     "graph",
     "Rgraphviz",
@@ -1974,7 +1972,6 @@
     "MSnbase",
     "mzR",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -7172,7 +7169,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "GladiaTOX": [],
   "Glimma": [
     "edgeR",
     "DESeq2",
@@ -7380,7 +7376,6 @@
     "UCSC.utils",
     "multtest"
   ],
-  "HGC": [],
   "HIBAG": [],
   "HIPPO": [
     "SingleCellExperiment",
@@ -7852,7 +7847,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "INDEED": [],
   "INSPEcT": [
     "Biobase",
     "BiocParallel",
@@ -7879,7 +7873,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "INTACT": [],
   "IONiseR": [
     "rhdf5",
     "ShortRead",
@@ -7913,7 +7906,6 @@
     "mzR",
     "BiocGenerics",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -8251,7 +8243,6 @@
     "ProtGenerics",
     "annotate"
   ],
-  "KBoost": [],
   "KCsmart": [
     "siggenes",
     "multtest",
@@ -8331,7 +8322,6 @@
     "Biostrings"
   ],
   "LBE": [],
-  "LEA": [],
   "LOBSTAHS": [
     "xcms",
     "CAMERA",
@@ -8343,7 +8333,6 @@
     "mzR",
     "BiocGenerics",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -8383,7 +8372,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "LPE": [],
   "LRBaseDbi": [
     "AnnotationDbi",
     "Biobase",
@@ -8656,7 +8644,6 @@
     "mzR",
     "BiocGenerics",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -8732,7 +8719,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "MBAmethyl": [],
   "MBCB": [
     "preprocessCore"
   ],
@@ -9365,7 +9351,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "MPFE": [],
   "MPRAnalyze": [
     "BiocParallel",
     "SummarizedExperiment",
@@ -9495,14 +9480,12 @@
     "XVector"
   ],
   "MSstats": [
-    "MSstatsConvert",
     "limma",
     "preprocessCore",
     "marray"
   ],
   "MSstatsBig": [
     "MSstats",
-    "MSstatsConvert",
     "limma",
     "preprocessCore",
     "marray"
@@ -9510,18 +9493,15 @@
   "MSstatsBioNet": [
     "MSstats",
     "RCy3",
-    "MSstatsConvert",
     "limma",
     "preprocessCore",
     "marray",
     "BiocGenerics",
     "graph"
   ],
-  "MSstatsConvert": [],
   "MSstatsLOBD": [],
   "MSstatsLiP": [
     "MSstats",
-    "MSstatsConvert",
     "Biostrings",
     "MSstatsPTM",
     "BiocGenerics",
@@ -9537,7 +9517,6 @@
   ],
   "MSstatsPTM": [
     "MSstatsTMT",
-    "MSstatsConvert",
     "MSstats",
     "Biostrings",
     "BiocGenerics",
@@ -9623,7 +9602,6 @@
     "MSstats",
     "MSstatsTMT",
     "MSstatsPTM",
-    "MSstatsConvert",
     "marray",
     "limma",
     "preprocessCore",
@@ -9638,11 +9616,9 @@
   "MSstatsTMT": [
     "limma",
     "MSstats",
-    "MSstatsConvert",
     "preprocessCore",
     "marray"
   ],
-  "MVCClass": [],
   "MWASTools": [
     "SummarizedExperiment",
     "KEGGgraph",
@@ -9699,8 +9675,6 @@
     "Biostrings"
   ],
   "MantelCorr": [],
-  "MassArray": [],
-  "MassSpecWavelet": [],
   "MatrixGenerics": [],
   "MatrixQCvis": [
     "SummarizedExperiment",
@@ -9776,7 +9750,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "MeasurementError.cor": [],
   "Melissa": [
     "BPRMeth",
     "GenomicRanges",
@@ -11628,7 +11601,6 @@
   ],
   "PLPE": [
     "Biobase",
-    "LPE",
     "BiocGenerics"
   ],
   "PLSDAbatch": [
@@ -11820,7 +11792,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "PROcess": [],
   "PSMatch": [
     "S4Vectors",
     "BiocParallel",
@@ -18098,7 +18069,6 @@
     "IRanges",
     "S4Vectors",
     "KEGGREST",
-    "MSstatsConvert",
     "preprocessCore",
     "marray",
     "Biostrings",
@@ -20196,7 +20166,6 @@
     "impute",
     "pcaMethods",
     "mzID",
-    "MassSpecWavelet",
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
@@ -20812,7 +20781,6 @@
   ],
   "cosmiq": [
     "xcms",
-    "MassSpecWavelet",
     "BiocParallel",
     "MSnbase",
     "mzR",
@@ -23476,7 +23444,6 @@
     "mzR",
     "BiocGenerics",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -26793,7 +26760,6 @@
     "MSnbase",
     "mzR",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -28754,7 +28720,6 @@
     "Biobase",
     "BiocGenerics",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -34598,7 +34563,6 @@
     "impute",
     "pcaMethods",
     "mzID",
-    "MassSpecWavelet",
     "MsFeatures",
     "MetaboCoreUtils",
     "affyio",
@@ -36510,7 +36474,6 @@
     "Biobase",
     "BiocGenerics",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
