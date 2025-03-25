@@ -4260,9 +4260,7 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "DeepPINCS": [
-    "ttgsea"
-  ],
+  "DeepPINCS": [],
   "DeepTarget": [
     "fgsea",
     "ExperimentHub",
@@ -6124,8 +6122,7 @@
     "biomaRt"
   ],
   "GenProSeq": [
-    "DeepPINCS",
-    "ttgsea"
+    "DeepPINCS"
   ],
   "GenVisR": [
     "AnnotationDbi",
@@ -6580,7 +6577,6 @@
     "UCSC.utils"
   ],
   "GeoTcgaData": [
-    "cqn",
     "topconfects",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -6691,7 +6687,6 @@
     "graph",
     "BiocGenerics"
   ],
-  "GraphAlignment": [],
   "GreyListChIP": [
     "GenomicRanges",
     "GenomicAlignments",
@@ -7623,7 +7618,6 @@
   ],
   "KinSwingR": [],
   "KnowSeq": [
-    "cqn",
     "sva",
     "edgeR",
     "limma",
@@ -8899,7 +8893,6 @@
     "Wrench",
     "Biostrings"
   ],
-  "MantelCorr": [],
   "MatrixQCvis": [
     "SummarizedExperiment",
     "ComplexHeatmap",
@@ -9277,7 +9270,6 @@
     "Biobase",
     "tkWidgets",
     "BiocGenerics",
-    "widgetTools",
     "DynDoc"
   ],
   "MiChip": [
@@ -9794,7 +9786,6 @@
     "SparseArray",
     "UCSC.utils",
     "XVector",
-    "widgetTools",
     "DynDoc"
   ],
   "MultimodalExperiment": [
@@ -10162,7 +10153,6 @@
     "OLIN",
     "marray",
     "tkWidgets",
-    "widgetTools",
     "limma",
     "DynDoc"
   ],
@@ -12275,7 +12265,6 @@
     "dir.expiry",
     "basilisk.utils"
   ],
-  "Rdisop": [],
   "ReUseData": [
     "Rcwl",
     "RcwlPipelines",
@@ -15264,7 +15253,6 @@
     "SummarizedExperiment",
     "scater",
     "DeepPINCS",
-    "ttgsea",
     "scuttle",
     "BiocGenerics",
     "S4Vectors",
@@ -15516,7 +15504,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "VennDetail": [],
   "ViSEAGO": [
     "AnnotationDbi",
     "AnnotationForge",
@@ -19229,7 +19216,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "cqn": [],
   "crisprBase": [
     "BiocGenerics",
     "Biostrings",
@@ -19607,7 +19593,6 @@
     "Biobase",
     "BiocGenerics",
     "tkWidgets",
-    "widgetTools",
     "DynDoc"
   ],
   "cydar": [
@@ -23373,7 +23358,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "iSeq": [],
   "iasva": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -23732,7 +23716,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "iterativeBMAsurv": [],
   "ivygapSE": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -27525,7 +27508,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "philr": [],
   "phyloseq": [
     "Biobase",
     "BiocGenerics",
@@ -29245,7 +29227,6 @@
     "BiocGenerics",
     "graph"
   ],
-  "rsemmed": [],
   "rtracklayer": [
     "GenomicRanges",
     "BiocGenerics",
@@ -32506,7 +32487,6 @@
     "BiocGenerics"
   ],
   "tkWidgets": [
-    "widgetTools",
     "DynDoc"
   ],
   "tomoda": [
@@ -32885,11 +32865,9 @@
     "UCSC.utils"
   ],
   "tripr": [],
-  "ttgsea": [],
   "tweeDEseq": [
     "limma",
-    "edgeR",
-    "cqn"
+    "edgeR"
   ],
   "twilight": [
     "Biobase",
@@ -33369,7 +33347,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "widgetTools": [],
   "wiggleplotr": [
     "GenomicRanges",
     "rtracklayer",

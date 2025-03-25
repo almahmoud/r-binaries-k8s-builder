@@ -148,3 +148,14 @@ powerTCR
 metapod
 aroma.light
 scBubbletree
+cqn
+GraphAlignment
+iSeq
+iterativeBMAsurv
+MantelCorr
+philr
+Rdisop
+rsemmed
+ttgsea
+VennDetail
+widgetTools

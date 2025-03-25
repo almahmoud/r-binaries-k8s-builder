@@ -394,3 +394,4 @@ philr
 scBubbletree
 sitePath
 tanggle
+DeepPINCS
