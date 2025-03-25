@@ -36,3 +36,10 @@ rBiopaxParser
 SANTA
 snm
 timescape
+BUS
+randRotation
+similaRpeak
+sparsenetgls
+specL
+splots
+tidysbml

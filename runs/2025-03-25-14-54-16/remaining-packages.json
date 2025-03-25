@@ -1107,7 +1107,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "BUS": [],
   "BUScorrect": [
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -31429,7 +31428,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "randRotation": [],
   "rawDiag": [
     "BiocParallel"
   ],
@@ -34018,7 +34016,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "similaRpeak": [],
   "simona": [
     "S4Vectors",
     "ComplexHeatmap",
@@ -34477,7 +34474,6 @@
   "sparseMatrixStats": [
     "MatrixGenerics"
   ],
-  "sparsenetgls": [],
   "spatialDE": [
     "basilisk",
     "SpatialExperiment",
@@ -34604,7 +34600,6 @@
     "AnnotationFilter",
     "ProtGenerics"
   ],
-  "specL": [],
   "speckle": [
     "limma",
     "edgeR",
@@ -34753,7 +34748,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "splots": [],
   "spoon": [
     "SpatialExperiment",
     "nnSVG",
@@ -35660,7 +35654,6 @@
     "S4Arrays",
     "SparseArray"
   ],
-  "tidysbml": [],
   "tidytof": [
     "flowCore",
     "Biobase",
