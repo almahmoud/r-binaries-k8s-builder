@@ -53,3 +53,4 @@ rhdf5filters
 sincell
 DCATS
 systemPipeShiny
+synergyfinder
