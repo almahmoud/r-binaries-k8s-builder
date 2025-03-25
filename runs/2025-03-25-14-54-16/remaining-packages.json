@@ -27822,7 +27822,6 @@
     "XVector",
     "Biostrings"
   ],
-  "powerTCR": [],
   "ppcseq": [
     "edgeR",
     "limma"

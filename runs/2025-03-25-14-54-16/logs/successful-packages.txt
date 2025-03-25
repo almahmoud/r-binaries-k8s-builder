@@ -144,3 +144,4 @@ mdp
 mzID
 sitePath
 tanggle
+powerTCR
