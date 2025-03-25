@@ -6838,7 +6838,6 @@
     "biomaRt",
     "BiocFileCache"
   ],
-  "GeneticsPed": [],
   "GenomAutomorphism": [
     "Biostrings",
     "BiocGenerics",
@@ -7399,8 +7398,6 @@
     "Biobase",
     "UCSC.utils"
   ],
-  "HIREewas": [],
-  "HMMcopy": [],
   "HPAanalyze": [],
   "HPiP": [],
   "HTSFilter": [
@@ -15166,7 +15163,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "SpaceMarkers": [],
   "Spaniel": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -30866,7 +30862,6 @@
   ],
   "qsea": [
     "Biostrings",
-    "HMMcopy",
     "rtracklayer",
     "BSgenome",
     "GenomicRanges",
