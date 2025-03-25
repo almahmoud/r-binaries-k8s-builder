@@ -28818,7 +28818,6 @@
     "affyio",
     "preprocessCore"
   ],
-  "plotGrouper": [],
   "plotgardener": [
     "GenomeInfoDb",
     "GenomicRanges",

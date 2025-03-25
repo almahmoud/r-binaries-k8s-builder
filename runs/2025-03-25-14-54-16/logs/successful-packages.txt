@@ -110,3 +110,4 @@ pgca
 phosphonormalizer
 pfamAnalyzeR
 RTCGA
+plotGrouper
