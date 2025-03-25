@@ -7085,7 +7085,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "Harman": [],
   "HarmonizR": [
     "sva",
     "limma",
@@ -12147,7 +12146,6 @@
     "SparseArray"
   ],
   "RLMM": [],
-  "RLassoCox": [],
   "RMassBank": [
     "Biobase",
     "ChemmineR",
@@ -20670,7 +20668,6 @@
     "clusterProfiler",
     "sva",
     "enrichplot",
-    "Harman",
     "pathview",
     "apeglm",
     "Biobase",

@@ -112,3 +112,5 @@ pfamAnalyzeR
 RTCGA
 plotGrouper
 BiocBaseUtils
+Harman
+RLassoCox
