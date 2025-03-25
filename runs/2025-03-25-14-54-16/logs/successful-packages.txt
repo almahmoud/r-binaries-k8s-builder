@@ -115,3 +115,6 @@ BiocBaseUtils
 Harman
 RLassoCox
 globalSeq
+decontam
+flowGraph
+seqLogo

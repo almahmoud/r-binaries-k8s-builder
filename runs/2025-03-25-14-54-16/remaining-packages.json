@@ -409,8 +409,7 @@
     "SparseArray",
     "AnnotationFilter",
     "h5mread",
-    "DirichletMultinomial",
-    "seqLogo"
+    "DirichletMultinomial"
   ],
   "ATACseqTFEA": [
     "BiocGenerics",
@@ -436,7 +435,6 @@
     "DelayedArray",
     "pwalign",
     "DirichletMultinomial",
-    "seqLogo",
     "SparseArray"
   ],
   "AUCell": [
@@ -6750,7 +6748,6 @@
     "BiocParallel",
     "AnnotationDbi",
     "XVector",
-    "seqLogo",
     "BiocIO",
     "Biobase",
     "biomaRt",
@@ -7743,7 +7740,6 @@
     "edgeR",
     "S4Vectors",
     "GenomicFiles",
-    "seqLogo",
     "Biostrings",
     "GenomicFeatures",
     "txdbmaker",
@@ -8604,7 +8600,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedArray",
     "DelayedMatrixStats",
     "DirichletMultinomial",
@@ -9283,7 +9278,6 @@
     "DirichletMultinomial",
     "GenomicRanges",
     "rtracklayer",
-    "seqLogo",
     "BiocIO",
     "Rsamtools",
     "UCSC.utils",
@@ -9538,7 +9532,6 @@
     "BSgenome",
     "DirichletMultinomial",
     "rtracklayer",
-    "seqLogo",
     "KEGGREST",
     "BiocIO",
     "Rsamtools",
@@ -10290,8 +10283,7 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "h5mread",
-    "DirichletMultinomial",
-    "seqLogo"
+    "DirichletMultinomial"
   ],
   "NBAMSeq": [
     "SummarizedExperiment",
@@ -11270,7 +11262,6 @@
   "PWMEnrich": [
     "BiocGenerics",
     "Biostrings",
-    "seqLogo",
     "S4Vectors",
     "IRanges",
     "XVector",
@@ -11906,7 +11897,6 @@
     "genomation",
     "BiocGenerics",
     "S4Vectors",
-    "seqLogo",
     "XVector",
     "BiocIO",
     "Rsamtools",
@@ -13825,7 +13815,6 @@
     "XVector"
   ],
   "SPLINTER": [
-    "seqLogo",
     "Biostrings",
     "pwalign",
     "biomaRt",
@@ -15166,7 +15155,6 @@
     "S4Vectors",
     "GenomicRanges",
     "IRanges",
-    "seqLogo",
     "Biostrings",
     "TCGAbiolinks",
     "MultiAssayExperiment",
@@ -15248,7 +15236,6 @@
     "GenomicRanges",
     "IRanges",
     "rtracklayer",
-    "seqLogo",
     "S4Vectors",
     "XVector",
     "BiocIO",
@@ -17268,7 +17255,6 @@
     "Biobase",
     "pwalign",
     "DirichletMultinomial",
-    "seqLogo",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -19065,7 +19051,6 @@
     "DelayedArray",
     "pwalign",
     "DirichletMultinomial",
-    "seqLogo",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -20524,7 +20509,6 @@
     "DirichletMultinomial",
     "GenomicRanges",
     "rtracklayer",
-    "seqLogo",
     "BiocIO",
     "Rsamtools",
     "GenomicAlignments",
@@ -20574,7 +20558,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedArray",
     "DelayedMatrixStats",
     "DirichletMultinomial",
@@ -20745,7 +20728,6 @@
     "bluster",
     "metapod"
   ],
-  "decontam": [],
   "deconvR": [
     "S4Vectors",
     "methylKit",
@@ -21479,7 +21461,6 @@
     "S4Arrays",
     "DelayedArray",
     "DirichletMultinomial",
-    "seqLogo",
     "SparseArray"
   ],
   "enrichViewNet": [
@@ -21739,7 +21720,6 @@
     "h5mread",
     "pwalign",
     "DirichletMultinomial",
-    "seqLogo",
     "alabaster.schemas",
     "GenomicAlignments"
   ],
@@ -22004,7 +21984,6 @@
     "BiocParallel",
     "pwalign",
     "DirichletMultinomial",
-    "seqLogo",
     "fgsea",
     "ggtree",
     "S4Arrays",
@@ -22475,7 +22454,6 @@
     "SparseArray",
     "XVector"
   ],
-  "flowGraph": [],
   "flowMatch": [
     "flowCore",
     "Biobase",
@@ -24230,7 +24208,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedArray",
     "DelayedMatrixStats",
     "DirichletMultinomial",
@@ -24833,7 +24810,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedArray",
     "DelayedMatrixStats",
     "DirichletMultinomial",
@@ -26209,7 +26185,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedArray",
     "DelayedMatrixStats",
     "DirichletMultinomial",
@@ -26270,7 +26245,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedMatrixStats",
     "scuttle",
     "beachmat",
@@ -26672,7 +26646,6 @@
     "DelayedArray",
     "pwalign",
     "DirichletMultinomial",
-    "seqLogo",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -26759,7 +26732,6 @@
     "DirichletMultinomial",
     "GenomicRanges",
     "rtracklayer",
-    "seqLogo",
     "BiocIO",
     "Rsamtools",
     "UCSC.utils",
@@ -26814,8 +26786,7 @@
     "KEGGREST",
     "AnnotationFilter",
     "SparseArray",
-    "DirichletMultinomial",
-    "seqLogo"
+    "DirichletMultinomial"
   ],
   "motifcounter": [
     "Biostrings",
@@ -26847,7 +26818,6 @@
     "DelayedArray",
     "pwalign",
     "DirichletMultinomial",
-    "seqLogo",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -28156,7 +28126,6 @@
     "DelayedArray",
     "pwalign",
     "DirichletMultinomial",
-    "seqLogo",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -28972,7 +28941,6 @@
     "pwalign",
     "BiocParallel",
     "DirichletMultinomial",
-    "seqLogo",
     "KEGGREST",
     "BiocVersion",
     "SummarizedExperiment",
@@ -29537,7 +29505,6 @@
     "Biostrings",
     "IRanges",
     "BSgenome",
-    "seqLogo",
     "GenomicRanges",
     "BiocGenerics",
     "S4Vectors",
@@ -30122,7 +30089,6 @@
     "S4Vectors",
     "baySeq",
     "GenomeInfoDb",
-    "seqLogo",
     "edgeR",
     "BiocGenerics",
     "UCSC.utils",
@@ -30171,7 +30137,6 @@
     "S4Arrays",
     "DelayedArray",
     "DirichletMultinomial",
-    "seqLogo",
     "SparseArray"
   ],
   "rifi": [
@@ -31227,7 +31192,6 @@
     "BiocParallel",
     "GenomeInfoDb",
     "S4Vectors",
-    "seqLogo",
     "BiocGenerics",
     "XVector",
     "UCSC.utils"
@@ -31258,7 +31222,6 @@
     "GenomicAlignments",
     "BiocIO",
     "pwalign",
-    "seqLogo",
     "biomaRt",
     "SummarizedExperiment",
     "S4Arrays",
@@ -31867,7 +31830,6 @@
     "SparseArray",
     "BiocParallel"
   ],
-  "seqLogo": [],
   "seqPattern": [
     "Biostrings",
     "GenomicRanges",
@@ -32718,7 +32680,6 @@
     "pwalign",
     "BiocParallel",
     "DirichletMultinomial",
-    "seqLogo",
     "KEGGREST",
     "SparseArray",
     "biomaRt",
