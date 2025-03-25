@@ -12508,7 +12508,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "RTCGA": [],
   "RTCGAToolbox": [
     "BiocGenerics",
     "DelayedArray",
@@ -15183,7 +15182,6 @@
     "TDbasedUFE",
     "Biobase",
     "GenomicRanges",
-    "RTCGA",
     "enrichplot",
     "DOSE",
     "STRINGdb",
