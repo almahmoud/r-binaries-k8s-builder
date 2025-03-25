@@ -121,3 +121,9 @@ seqLogo
 eds
 GSALightning
 sagenhaft
+BiocParallel
+cellmigRation
+iASeq
+levi
+pickgene
+pmm
