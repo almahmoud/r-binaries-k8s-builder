@@ -561,15 +561,9 @@
   "AlpsNMR": [
     "mixOmics"
   ],
-  "AnVIL": [],
-  "AnVILAz": [],
   "AnVILBilling": [],
-  "AnVILPublish": [
-    "AnVIL"
-  ],
-  "AnVILWorkflow": [
-    "AnVIL"
-  ],
+  "AnVILPublish": [],
+  "AnVILWorkflow": [],
   "Anaquin": [
     "DESeq2",
     "S4Vectors",
@@ -5661,7 +5655,6 @@
   "GNOSIS": [
     "maftools",
     "cBioPortalData",
-    "AnVIL",
     "MultiAssayExperiment",
     "BiocFileCache",
     "GenomeInfoDb",
@@ -16889,7 +16882,6 @@
     "Biostrings"
   ],
   "bedbaser": [
-    "AnVIL",
     "BiocFileCache",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -17050,7 +17042,6 @@
     "IRanges",
     "S4Vectors",
     "KEGGREST",
-    "AnVIL",
     "MultiAssayExperiment",
     "BiocFileCache",
     "GenomeInfoDb",
@@ -17558,7 +17549,6 @@
     "SparseArray"
   ],
   "cBioPortalData": [
-    "AnVIL",
     "MultiAssayExperiment",
     "BiocFileCache",
     "GenomeInfoDb",
@@ -17655,7 +17645,6 @@
     "Biobase",
     "phenoTest",
     "BiocGenerics",
-    "AnVIL",
     "MultiAssayExperiment",
     "BiocFileCache",
     "GenomeInfoDb",
@@ -17771,7 +17760,6 @@
     "BiocFileCache",
     "cBioPortalData",
     "genefilter",
-    "AnVIL",
     "MultiAssayExperiment",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -20260,7 +20248,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "dks": [],
   "dmrseq": [
     "bsseq",
     "GenomicRanges",
@@ -21676,7 +21663,6 @@
     "affyio"
   ],
   "funOmics": [
-    "pathifier",
     "KEGGREST",
     "AnnotationDbi",
     "BiocGenerics",
@@ -21971,7 +21957,6 @@
     "EBarrays",
     "BiocGenerics"
   ],
-  "gemini": [],
   "gemma.R": [
     "SummarizedExperiment",
     "Biobase",
@@ -27085,7 +27070,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "pathifier": [],
   "pathlinkR": [
     "clusterProfiler",
     "ComplexHeatmap",
@@ -32156,7 +32140,6 @@
   "ternarynet": [],
   "terraTCGAdata": [
     "MultiAssayExperiment",
-    "AnVIL",
     "BiocFileCache",
     "GenomicRanges",
     "RaggedExperiment",
