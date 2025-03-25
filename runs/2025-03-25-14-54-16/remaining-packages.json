@@ -3992,7 +3992,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "DCATS": [],
   "DECIPHER": [
     "Biostrings",
     "S4Vectors",
@@ -35081,7 +35080,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "systemPipeShiny": [],
   "systemPipeTools": [
     "DESeq2",
     "SummarizedExperiment",
