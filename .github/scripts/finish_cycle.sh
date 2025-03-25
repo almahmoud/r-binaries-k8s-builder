@@ -109,7 +109,7 @@ echo "Waiting for indexing to complete..."
 # Wait for init container to finish
 kubectl wait --for=condition=initialized=true pod \
   -l job-name=index-packages-${RUN_ID} \
-  -n ${NAMESPACE} --timeout=7200s
+  -n ${NAMESPACE} --timeout=7200s || ( echo 'Error waiting for init container' && exit 1 )
 
 # Copy PACKAGES file and save stats
 echo "Copying PACKAGES and saving stats..."

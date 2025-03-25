@@ -198,9 +198,22 @@ jobs:
             fi
           fi
 
+          # Optimized backup - only copy changed files instead of entire runs/ directory
           mkdir -p /tmp/restore
-          cp -r runs /tmp/restore/
           cp runid /tmp/restore/
+          
+          # Stage all changes to identify modified files
+          git add runs/
+          
+          # Only copy new or modified files to restore directory
+          git diff --staged --name-only | grep "^runs/" | while read -r file; do
+            # Create directory structure in /tmp/restore
+            mkdir -p "/tmp/restore/$(dirname "$file")"
+            # Copy the changed file
+            cp "$file" "/tmp/restore/$file"
+          done
+          
+          echo "Optimized backup complete - only copied changed files"
 
       - name: Commit and push results
         if: steps.cycle_check.outputs.skip != 'true'
