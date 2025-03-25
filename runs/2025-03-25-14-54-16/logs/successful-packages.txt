@@ -97,3 +97,5 @@ Heatplus
 HIBAG
 M3C
 MatrixGenerics
+IsoCorrectoRGUI
+sparseMatrixStats
