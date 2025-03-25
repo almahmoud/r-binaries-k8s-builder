@@ -101,3 +101,5 @@ IsoCorrectoRGUI
 sparseMatrixStats
 ISAnalytics
 QUBIC
+HPiP
+parody

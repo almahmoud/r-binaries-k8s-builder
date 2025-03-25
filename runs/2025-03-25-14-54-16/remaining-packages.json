@@ -7104,7 +7104,6 @@
     "Biobase",
     "UCSC.utils"
   ],
-  "HPiP": [],
   "HTSFilter": [
     "edgeR",
     "DESeq2",
@@ -17253,7 +17252,6 @@
   ],
   "aroma.light": [],
   "arrayMvout": [
-    "parody",
     "Biobase",
     "affy",
     "mdqc",
@@ -28427,7 +28425,6 @@
   "parglms": [
     "BiocGenerics"
   ],
-  "parody": [],
   "partCNV": [
     "SingleCellExperiment",
     "AnnotationHub",
