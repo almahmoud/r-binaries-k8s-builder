@@ -4,15 +4,16 @@
 
 ## Summary
 
-- 113 packages built successfully
+- 117 packages built successfully
 - 0 packages failed to build
-- 2168 packages not yet processed
+- 2164 packages not yet processed
 
 
-## Successfully Built (113)
+## Successfully Built (117)
 | Package                                                                                              | Status   | Log                                                 | BBS Status                                                                         |
 |------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------|------------------------------------------------------------------------------------|
 | [BUS](https://bioconductor.org/packages/3.21/bioc/html/BUS.html)                                     | Built    | [Log](logs/BUS/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/BUS)                   |
+| [BiocBaseUtils](https://bioconductor.org/packages/3.21/bioc/html/BiocBaseUtils.html)                 | Built    | [Log](logs/BiocBaseUtils/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/BiocBaseUtils)         |
 | [CGEN](https://bioconductor.org/packages/3.21/bioc/html/CGEN.html)                                   | Built    | [Log](logs/CGEN/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/CGEN)                  |
 | [CONSTANd](https://bioconductor.org/packages/3.21/bioc/html/CONSTANd.html)                           | Built    | [Log](logs/CONSTANd/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/CONSTANd)              |
 | [ClusterJudge](https://bioconductor.org/packages/3.21/bioc/html/ClusterJudge.html)                   | Built    | [Log](logs/ClusterJudge/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ClusterJudge)          |
@@ -33,6 +34,7 @@
 | [HMMcopy](https://bioconductor.org/packages/3.21/bioc/html/HMMcopy.html)                             | Built    | [Log](logs/HMMcopy/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/HMMcopy)               |
 | [HPAanalyze](https://bioconductor.org/packages/3.21/bioc/html/HPAanalyze.html)                       | Built    | [Log](logs/HPAanalyze/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/HPAanalyze)            |
 | [HPiP](https://bioconductor.org/packages/3.21/bioc/html/HPiP.html)                                   | Built    | [Log](logs/HPiP/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/HPiP)                  |
+| [Harman](https://bioconductor.org/packages/3.21/bioc/html/Harman.html)                               | Built    | [Log](logs/Harman/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/Harman)                |
 | [Heatplus](https://bioconductor.org/packages/3.21/bioc/html/Heatplus.html)                           | Built    | [Log](logs/Heatplus/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/Heatplus)              |
 | [Herper](https://bioconductor.org/packages/3.21/bioc/html/Herper.html)                               | Built    | [Log](logs/Herper/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/Herper)                |
 | [HuBMAPR](https://bioconductor.org/packages/3.21/bioc/html/HuBMAPR.html)                             | Built    | [Log](logs/HuBMAPR/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/HuBMAPR)               |
@@ -65,6 +67,7 @@
 | [PROcess](https://bioconductor.org/packages/3.21/bioc/html/PROcess.html)                             | Built    | [Log](logs/PROcess/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/PROcess)               |
 | [ProtGenerics](https://bioconductor.org/packages/3.21/bioc/html/ProtGenerics.html)                   | Built    | [Log](logs/ProtGenerics/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ProtGenerics)          |
 | [QUBIC](https://bioconductor.org/packages/3.21/bioc/html/QUBIC.html)                                 | Built    | [Log](logs/QUBIC/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/QUBIC)                 |
+| [RLassoCox](https://bioconductor.org/packages/3.21/bioc/html/RLassoCox.html)                         | Built    | [Log](logs/RLassoCox/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/RLassoCox)             |
 | [RProtoBufLib](https://bioconductor.org/packages/3.21/bioc/html/RProtoBufLib.html)                   | Built    | [Log](logs/RProtoBufLib/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/RProtoBufLib)          |
 | [RSeqAn](https://bioconductor.org/packages/3.21/bioc/html/RSeqAn.html)                               | Built    | [Log](logs/RSeqAn/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/RSeqAn)                |
 | [RTCGA](https://bioconductor.org/packages/3.21/bioc/html/RTCGA.html)                                 | Built    | [Log](logs/RTCGA/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/RTCGA)                 |
@@ -83,6 +86,7 @@
 | [cytolib](https://bioconductor.org/packages/3.21/bioc/html/cytolib.html)                             | Built    | [Log](logs/cytolib/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/cytolib)               |
 | [dupRadar](https://bioconductor.org/packages/3.21/bioc/html/dupRadar.html)                           | Built    | [Log](logs/dupRadar/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/dupRadar)              |
 | [fastreeR](https://bioconductor.org/packages/3.21/bioc/html/fastreeR.html)                           | Built    | [Log](logs/fastreeR/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/fastreeR)              |
+| [globalSeq](https://bioconductor.org/packages/3.21/bioc/html/globalSeq.html)                         | Built    | [Log](logs/globalSeq/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/globalSeq)             |
 | [hierGWAS](https://bioconductor.org/packages/3.21/bioc/html/hierGWAS.html)                           | Built    | [Log](logs/hierGWAS/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/hierGWAS)              |
 | [hierinf](https://bioconductor.org/packages/3.21/bioc/html/hierinf.html)                             | Built    | [Log](logs/hierinf/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/hierinf)               |
 | [les](https://bioconductor.org/packages/3.21/bioc/html/les.html)                                     | Built    | [Log](logs/les/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/les)                   |
@@ -126,7 +130,7 @@
 | [tidysbml](https://bioconductor.org/packages/3.21/bioc/html/tidysbml.html)                           | Built    | [Log](logs/tidysbml/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/tidysbml)              |
 | [timescape](https://bioconductor.org/packages/3.21/bioc/html/timescape.html)                         | Built    | [Log](logs/timescape/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/timescape)             |
 
-## Not Yet Processed (2168)
+## Not Yet Processed (2164)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ABSSeq](https://bioconductor.org/packages/3.21/bioc/html/ABSSeq.html)                                           | Unprocessed |
@@ -234,7 +238,6 @@
 | [BioQC](https://bioconductor.org/packages/3.21/bioc/html/BioQC.html)                                             | Unprocessed |
 | [BioTIP](https://bioconductor.org/packages/3.21/bioc/html/BioTIP.html)                                           | Unprocessed |
 | [Biobase](https://bioconductor.org/packages/3.21/bioc/html/Biobase.html)                                         | Unprocessed |
-| [BiocBaseUtils](https://bioconductor.org/packages/3.21/bioc/html/BiocBaseUtils.html)                             | Unprocessed |
 | [BiocBook](https://bioconductor.org/packages/3.21/bioc/html/BiocBook.html)                                       | Unprocessed |
 | [BiocCheck](https://bioconductor.org/packages/3.21/bioc/html/BiocCheck.html)                                     | Unprocessed |
 | [BiocFHIR](https://bioconductor.org/packages/3.21/bioc/html/BiocFHIR.html)                                       | Unprocessed |
@@ -583,7 +586,6 @@
 | [HERON](https://bioconductor.org/packages/3.21/bioc/html/HERON.html)                                             | Unprocessed |
 | [HIPPO](https://bioconductor.org/packages/3.21/bioc/html/HIPPO.html)                                             | Unprocessed |
 | [HTSFilter](https://bioconductor.org/packages/3.21/bioc/html/HTSFilter.html)                                     | Unprocessed |
-| [Harman](https://bioconductor.org/packages/3.21/bioc/html/Harman.html)                                           | Unprocessed |
 | [HarmonizR](https://bioconductor.org/packages/3.21/bioc/html/HarmonizR.html)                                     | Unprocessed |
 | [Harshlight](https://bioconductor.org/packages/3.21/bioc/html/Harshlight.html)                                   | Unprocessed |
 | [HelloRanges](https://bioconductor.org/packages/3.21/bioc/html/HelloRanges.html)                                 | Unprocessed |
@@ -897,7 +899,6 @@
 | [RImmPort](https://bioconductor.org/packages/3.21/bioc/html/RImmPort.html)                                       | Unprocessed |
 | [RJMCMCNucleosomes](https://bioconductor.org/packages/3.21/bioc/html/RJMCMCNucleosomes.html)                     | Unprocessed |
 | [RLMM](https://bioconductor.org/packages/3.21/bioc/html/RLMM.html)                                               | Unprocessed |
-| [RLassoCox](https://bioconductor.org/packages/3.21/bioc/html/RLassoCox.html)                                     | Unprocessed |
 | [RMassBank](https://bioconductor.org/packages/3.21/bioc/html/RMassBank.html)                                     | Unprocessed |
 | [RNAAgeCalc](https://bioconductor.org/packages/3.21/bioc/html/RNAAgeCalc.html)                                   | Unprocessed |
 | [RNASeqPower](https://bioconductor.org/packages/3.21/bioc/html/RNASeqPower.html)                                 | Unprocessed |
@@ -1596,7 +1597,6 @@
 | [girafe](https://bioconductor.org/packages/3.21/bioc/html/girafe.html)                                           | Unprocessed |
 | [glmGamPoi](https://bioconductor.org/packages/3.21/bioc/html/glmGamPoi.html)                                     | Unprocessed |
 | [glmSparseNet](https://bioconductor.org/packages/3.21/bioc/html/glmSparseNet.html)                               | Unprocessed |
-| [globalSeq](https://bioconductor.org/packages/3.21/bioc/html/globalSeq.html)                                     | Unprocessed |
 | [globaltest](https://bioconductor.org/packages/3.21/bioc/html/globaltest.html)                                   | Unprocessed |
 | [gmapR](https://bioconductor.org/packages/3.21/bioc/html/gmapR.html)                                             | Unprocessed |
 | [gmoviz](https://bioconductor.org/packages/3.21/bioc/html/gmoviz.html)                                           | Unprocessed |
