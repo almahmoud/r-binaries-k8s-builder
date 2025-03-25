@@ -561,25 +561,16 @@
   "AlpsNMR": [
     "mixOmics"
   ],
-  "AnVIL": [
-    "AnVILBase"
-  ],
-  "AnVILAz": [
-    "AnVILBase"
-  ],
-  "AnVILBase": [],
+  "AnVIL": [],
+  "AnVILAz": [],
   "AnVILBilling": [],
-  "AnVILGCP": [
-    "AnVILBase"
-  ],
+  "AnVILGCP": [],
   "AnVILPublish": [
     "AnVIL",
-    "AnVILGCP",
-    "AnVILBase"
+    "AnVILGCP"
   ],
   "AnVILWorkflow": [
     "AnVILGCP",
-    "AnVILBase",
     "AnVIL"
   ],
   "Anaquin": [
@@ -5687,7 +5678,6 @@
     "TCGAutils",
     "DNAcopy",
     "zlibbioc",
-    "AnVILBase",
     "BiocGenerics",
     "UCSC.utils",
     "XVector",
@@ -15149,7 +15139,6 @@
   ],
   "UniProt.ws": [
     "AnnotationDbi",
-    "AnVILBase",
     "BiocFileCache",
     "BiocGenerics",
     "Biobase",
@@ -16914,7 +16903,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "rtracklayer",
-    "AnVILBase",
     "BiocGenerics",
     "S4Vectors",
     "IRanges",
@@ -17085,7 +17073,6 @@
     "fgsea",
     "EBarrays",
     "graphite",
-    "AnVILBase",
     "UCSC.utils",
     "XVector",
     "graph",
@@ -17591,7 +17578,6 @@
     "S4Vectors",
     "SummarizedExperiment",
     "TCGAutils",
-    "AnVILBase",
     "BiocGenerics",
     "UCSC.utils",
     "XVector",
@@ -17699,7 +17685,6 @@
     "biomaRt",
     "genefilter",
     "KEGGREST",
-    "AnVILBase",
     "RBGL",
     "UCSC.utils",
     "XVector",
@@ -17810,7 +17795,6 @@
     "Biobase",
     "BiocGenerics",
     "KEGGREST",
-    "AnVILBase",
     "UCSC.utils",
     "XVector",
     "DelayedArray",
@@ -19691,7 +19675,6 @@
     "XVector",
     "GenomeInfoDb",
     "TFBSTools",
-    "AnVILBase",
     "Biobase",
     "KEGGREST",
     "UCSC.utils",
@@ -20456,7 +20439,6 @@
     "Rsamtools",
     "IRanges",
     "Biostrings",
-    "AnVILBase",
     "KEGGREST",
     "XVector",
     "UCSC.utils",
@@ -22384,7 +22366,6 @@
     "UniProt.ws",
     "Biostrings",
     "AnnotationDbi",
-    "AnVILBase",
     "BiocFileCache",
     "BiocGenerics",
     "Biobase",
@@ -23481,7 +23462,6 @@
   "immunogenViewer": [
     "UniProt.ws",
     "AnnotationDbi",
-    "AnVILBase",
     "BiocFileCache",
     "BiocGenerics",
     "Biobase",
@@ -32194,7 +32174,6 @@
     "RaggedExperiment",
     "S4Vectors",
     "TCGAutils",
-    "AnVILBase",
     "BiocGenerics",
     "IRanges",
     "GenomeInfoDb",
