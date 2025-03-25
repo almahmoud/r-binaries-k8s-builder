@@ -6099,7 +6099,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "GSALightning": [],
   "GSAR": [],
   "GSCA": [
     "rhdf5"
@@ -21416,7 +21415,6 @@
   "edgeR": [
     "limma"
   ],
-  "eds": [],
   "eiR": [
     "ChemmineR",
     "BiocGenerics"
@@ -30416,7 +30414,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "sagenhaft": [],
   "sampleClassifier": [
     "MGFM",
     "MGFR",
@@ -32213,7 +32210,6 @@
     "DropletUtils",
     "scds",
     "tximport",
-    "eds",
     "GSEABase",
     "zinbwave",
     "scDblFinder",

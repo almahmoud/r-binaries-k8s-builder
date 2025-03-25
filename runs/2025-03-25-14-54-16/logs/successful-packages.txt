@@ -118,3 +118,6 @@ globalSeq
 decontam
 flowGraph
 seqLogo
+eds
+GSALightning
+sagenhaft
