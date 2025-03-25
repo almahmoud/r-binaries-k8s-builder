@@ -4,16 +4,16 @@
 
 ## Summary
 
-- 136 packages built successfully
+- 138 packages built successfully
 - 1 packages failed to build
-- 2144 packages not yet processed
+- 2142 packages not yet processed
 
 ## Failed Builds (1)
 | Package                                                                | Status   | Log                               | BBS Status                                                             | Failure Reasons               |
 |------------------------------------------------------------------------|----------|-----------------------------------|------------------------------------------------------------------------|-------------------------------|
 | [genoCN](https://bioconductor.org/packages/3.21/bioc/html/genoCN.html) | Failed   | [Log](logs/genoCN/build-fail.log) | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/genoCN) | Compilation failed:  ‘genoCN’ |
 
-## Successfully Built (136)
+## Successfully Built (138)
 | Package                                                                                              | Status   | Log                                                 | BBS Status                                                                         |
 |------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------|------------------------------------------------------------------------------------|
 | [BADER](https://bioconductor.org/packages/3.21/bioc/html/BADER.html)                                 | Built    | [Log](logs/BADER/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/BADER)                 |
@@ -97,10 +97,12 @@
 | [cellmigRation](https://bioconductor.org/packages/3.21/bioc/html/cellmigRation.html)                 | Built    | [Log](logs/cellmigRation/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/cellmigRation)         |
 | [cytolib](https://bioconductor.org/packages/3.21/bioc/html/cytolib.html)                             | Built    | [Log](logs/cytolib/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/cytolib)               |
 | [decontam](https://bioconductor.org/packages/3.21/bioc/html/decontam.html)                           | Built    | [Log](logs/decontam/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/decontam)              |
+| [demuxmix](https://bioconductor.org/packages/3.21/bioc/html/demuxmix.html)                           | Built    | [Log](logs/demuxmix/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/demuxmix)              |
 | [dupRadar](https://bioconductor.org/packages/3.21/bioc/html/dupRadar.html)                           | Built    | [Log](logs/dupRadar/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/dupRadar)              |
 | [eds](https://bioconductor.org/packages/3.21/bioc/html/eds.html)                                     | Built    | [Log](logs/eds/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/eds)                   |
 | [fastreeR](https://bioconductor.org/packages/3.21/bioc/html/fastreeR.html)                           | Built    | [Log](logs/fastreeR/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/fastreeR)              |
 | [flowGraph](https://bioconductor.org/packages/3.21/bioc/html/flowGraph.html)                         | Built    | [Log](logs/flowGraph/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/flowGraph)             |
+| [ggtree](https://bioconductor.org/packages/3.21/bioc/html/ggtree.html)                               | Built    | [Log](logs/ggtree/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ggtree)                |
 | [globalSeq](https://bioconductor.org/packages/3.21/bioc/html/globalSeq.html)                         | Built    | [Log](logs/globalSeq/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/globalSeq)             |
 | [gypsum](https://bioconductor.org/packages/3.21/bioc/html/gypsum.html)                               | Built    | [Log](logs/gypsum/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/gypsum)                |
 | [hierGWAS](https://bioconductor.org/packages/3.21/bioc/html/hierGWAS.html)                           | Built    | [Log](logs/hierGWAS/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/hierGWAS)              |
@@ -153,7 +155,7 @@
 | [timescape](https://bioconductor.org/packages/3.21/bioc/html/timescape.html)                         | Built    | [Log](logs/timescape/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/timescape)             |
 | [treeio](https://bioconductor.org/packages/3.21/bioc/html/treeio.html)                               | Built    | [Log](logs/treeio/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/treeio)                |
 
-## Not Yet Processed (2144)
+## Not Yet Processed (2142)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ABSSeq](https://bioconductor.org/packages/3.21/bioc/html/ABSSeq.html)                                           | Unprocessed |
@@ -1434,7 +1436,6 @@
 | [deltaCaptureC](https://bioconductor.org/packages/3.21/bioc/html/deltaCaptureC.html)                             | Unprocessed |
 | [deltaGseg](https://bioconductor.org/packages/3.21/bioc/html/deltaGseg.html)                                     | Unprocessed |
 | [demuxSNP](https://bioconductor.org/packages/3.21/bioc/html/demuxSNP.html)                                       | Unprocessed |
-| [demuxmix](https://bioconductor.org/packages/3.21/bioc/html/demuxmix.html)                                       | Unprocessed |
 | [densvis](https://bioconductor.org/packages/3.21/bioc/html/densvis.html)                                         | Unprocessed |
 | [derfinder](https://bioconductor.org/packages/3.21/bioc/html/derfinder.html)                                     | Unprocessed |
 | [derfinderHelper](https://bioconductor.org/packages/3.21/bioc/html/derfinderHelper.html)                         | Unprocessed |
@@ -1600,7 +1601,6 @@
 | [ggsc](https://bioconductor.org/packages/3.21/bioc/html/ggsc.html)                                               | Unprocessed |
 | [ggseqalign](https://bioconductor.org/packages/3.21/bioc/html/ggseqalign.html)                                   | Unprocessed |
 | [ggspavis](https://bioconductor.org/packages/3.21/bioc/html/ggspavis.html)                                       | Unprocessed |
-| [ggtree](https://bioconductor.org/packages/3.21/bioc/html/ggtree.html)                                           | Unprocessed |
 | [ggtreeDendro](https://bioconductor.org/packages/3.21/bioc/html/ggtreeDendro.html)                               | Unprocessed |
 | [ggtreeExtra](https://bioconductor.org/packages/3.21/bioc/html/ggtreeExtra.html)                                 | Unprocessed |
 | [ggtreeSpace](https://bioconductor.org/packages/3.21/bioc/html/ggtreeSpace.html)                                 | Unprocessed |
