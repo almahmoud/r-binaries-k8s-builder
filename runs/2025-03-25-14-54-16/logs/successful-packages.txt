@@ -161,3 +161,7 @@ VennDetail
 widgetTools
 BridgeDbR
 QuaternaryProd
+EpiDISH
+frenchFISH
+impute
+lfa
