@@ -24307,7 +24307,6 @@
     "XVector",
     "Biostrings"
   ],
-  "matchBox": [],
   "matter": [
     "BiocGenerics"
   ],
@@ -30323,7 +30322,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "seahtrue": [],
   "sechm": [
     "SummarizedExperiment",
     "ComplexHeatmap",
