@@ -564,13 +564,10 @@
   "AnVIL": [],
   "AnVILAz": [],
   "AnVILBilling": [],
-  "AnVILGCP": [],
   "AnVILPublish": [
-    "AnVIL",
-    "AnVILGCP"
+    "AnVIL"
   ],
   "AnVILWorkflow": [
-    "AnVILGCP",
     "AnVIL"
   ],
   "Anaquin": [
@@ -4235,7 +4232,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "DeepPINCS": [],
   "DeepTarget": [
     "fgsea",
     "ExperimentHub",
@@ -6088,9 +6084,7 @@
     "BiocIO",
     "biomaRt"
   ],
-  "GenProSeq": [
-    "DeepPINCS"
-  ],
+  "GenProSeq": [],
   "GenVisR": [
     "AnnotationDbi",
     "biomaRt",
@@ -11622,7 +11616,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RLMM": [],
   "RMassBank": [
     "Biobase",
     "ChemmineR",
@@ -14816,7 +14809,6 @@
     "graph",
     "BiocGenerics"
   ],
-  "TSAR": [],
   "TSCAN": [
     "SingleCellExperiment",
     "TrajectoryUtils",
@@ -15178,7 +15170,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "scater",
-    "DeepPINCS",
     "scuttle",
     "BiocGenerics",
     "S4Vectors",
@@ -21961,7 +21952,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "gcatest": [],
   "gcrma": [
     "affy",
     "Biobase",
@@ -28960,7 +28950,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "rmelting": [],
   "rmspc": [
     "rtracklayer",
     "GenomicRanges",
@@ -32166,7 +32155,6 @@
   ],
   "ternarynet": [],
   "terraTCGAdata": [
-    "AnVILGCP",
     "MultiAssayExperiment",
     "AnVIL",
     "BiocFileCache",
@@ -33177,7 +33165,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "weaver": [],
   "webbioc": [
     "Biobase",
     "affy",

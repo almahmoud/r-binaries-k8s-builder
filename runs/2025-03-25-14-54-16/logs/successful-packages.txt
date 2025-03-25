@@ -166,3 +166,10 @@ frenchFISH
 impute
 lfa
 AnVILBase
+AnVILGCP
+DeepPINCS
+gcatest
+RLMM
+rmelting
+TSAR
+weaver
