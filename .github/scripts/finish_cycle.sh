@@ -76,7 +76,7 @@ spec:
         - "--verbose"
         - "--progress"
         - "/mnt/tarballs/"
-        - "final:/bioconductor-packages/$(cat /bioc-version)/container-binaries/bioconductor_docker/src/contrib/"
+        - "final:/bioconductor-packages/$(cat runs/$RUN_ID/bioc_version)/container-binaries/bioconductor_docker/src/contrib/"
         volumeMounts:
         - name: bioc-data
           mountPath: /mnt
@@ -107,7 +107,7 @@ EOF
 
 echo "Waiting for indexing to complete..."
 # Wait for init container to finish
-kubectl wait wait --for=condition=initialized=true pod \
+kubectl wait --for=condition=initialized=true pod \
   -l job-name=index-packages-${RUN_ID} \
   -n ${NAMESPACE} --timeout=7200s
 
