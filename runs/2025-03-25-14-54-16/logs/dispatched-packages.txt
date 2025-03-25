@@ -352,3 +352,4 @@ dupRadar
 rhdf5filters
 sights
 BUS
+rhdf5

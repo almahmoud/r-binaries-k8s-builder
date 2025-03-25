@@ -46,3 +46,8 @@ tidysbml
 DEGseq
 omada
 sights
+dupRadar
+netprioR
+OPWeight
+rhdf5filters
+sincell
