@@ -343,3 +343,11 @@ weaver
 widgetTools
 xmapbridge
 zlibbioc
+DEGseq
+OPWeight
+PANR
+SpaceMarkers
+TreeAndLeaf
+dupRadar
+rhdf5filters
+sights
