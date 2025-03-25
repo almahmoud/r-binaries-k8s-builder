@@ -43,3 +43,4 @@ sparsenetgls
 specL
 splots
 tidysbml
+DEGseq

@@ -4068,7 +4068,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "DEGseq": [],
   "DELocal": [
     "DESeq2",
     "limma",
