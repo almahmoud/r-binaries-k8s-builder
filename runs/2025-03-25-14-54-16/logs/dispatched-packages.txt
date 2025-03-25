@@ -387,3 +387,10 @@ scShapes
 scTHI
 ternarynet
 ggtree
+ggtreeDendro
+ggtreeExtra
+ggtreeSpace
+philr
+scBubbletree
+sitePath
+tanggle
