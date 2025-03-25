@@ -24,3 +24,9 @@ SCBN
 ssize
 ssrch
 switchBox
+rawrr
+rWikiPathways
+sizepower
+spikeLI
+survcomp
+swfdr

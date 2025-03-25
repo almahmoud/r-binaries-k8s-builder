@@ -10561,7 +10561,6 @@
     "MsCoreUtils",
     "S4Vectors",
     "IRanges",
-    "rawrr",
     "BiocParallel",
     "BiocGenerics",
     "MetaboCoreUtils"
@@ -11064,7 +11063,6 @@
     "GenomeInfoDb",
     "S4Vectors",
     "SummarizedExperiment",
-    "rWikiPathways",
     "zlibbioc",
     "biomaRt",
     "rtracklayer",
@@ -11556,7 +11554,6 @@
     "MatrixGenerics",
     "BiocParallel",
     "piano",
-    "survcomp",
     "genefu",
     "Biobase",
     "BumpyMatrix",
@@ -20810,7 +20807,6 @@
     "limma",
     "BiocParallel",
     "BiocGenerics",
-    "survcomp",
     "biomaRt",
     "AIMS",
     "impute",
@@ -23461,7 +23457,6 @@
   ],
   "famat": [
     "KEGGREST",
-    "rWikiPathways",
     "clusterProfiler",
     "AnnotationDbi",
     "DOSE",
@@ -24377,7 +24372,6 @@
     "UCSC.utils"
   ],
   "genefu": [
-    "survcomp",
     "biomaRt",
     "AIMS",
     "impute",
@@ -27090,7 +27084,6 @@
     "rtracklayer",
     "S4Vectors",
     "SummarizedExperiment",
-    "survcomp",
     "txdbmaker",
     "vsn",
     "AnnotationDbi",
@@ -31389,7 +31382,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "rWikiPathways": [],
   "raer": [
     "GenomicRanges",
     "IRanges",
@@ -31459,10 +31451,8 @@
   ],
   "randRotation": [],
   "rawDiag": [
-    "BiocParallel",
-    "rawrr"
+    "BiocParallel"
   ],
-  "rawrr": [],
   "rbsurv": [
     "Biobase",
     "BiocGenerics"
@@ -34012,7 +34002,6 @@
     "assorthead",
     "XVector",
     "SparseArray",
-    "survcomp",
     "biomaRt",
     "AIMS",
     "impute",
@@ -34239,7 +34228,6 @@
     "ggtree",
     "treeio"
   ],
-  "sizepower": [],
   "sketchR": [
     "basilisk",
     "Biobase",
@@ -34691,7 +34679,6 @@
     "rhdf5filters",
     "Biostrings"
   ],
-  "spikeLI": [],
   "spiky": [
     "Rsamtools",
     "GenomicRanges",
@@ -35123,7 +35110,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "survcomp": [],
   "survtype": [
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -35213,7 +35199,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "swfdr": [],
   "switchde": [
     "SingleCellExperiment",
     "SummarizedExperiment",
