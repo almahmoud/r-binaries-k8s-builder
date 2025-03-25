@@ -7398,7 +7398,6 @@
     "Biobase",
     "UCSC.utils"
   ],
-  "HPAanalyze": [],
   "HPiP": [],
   "HTSFilter": [
     "edgeR",
@@ -7488,7 +7487,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "Herper": [],
   "HiCBricks": [
     "rhdf5",
     "GenomeInfoDb",
@@ -7854,9 +7852,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "IMPCdata": [],
   "INDEED": [],
-  "INPower": [],
   "INSPEcT": [
     "Biobase",
     "BiocParallel",
@@ -7969,7 +7965,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "ISoLDE": [],
   "ITALICS": [
     "GLAD",
     "oligo",
@@ -8025,7 +8020,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "Icens": [],
   "IdeoViz": [
     "Biobase",
     "IRanges",
@@ -11826,9 +11820,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "PROcess": [
-    "Icens"
-  ],
+  "PROcess": [],
   "PSMatch": [
     "S4Vectors",
     "BiocParallel",
@@ -27834,7 +27826,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "mirTarRnaSeq": [],
   "missMethyl": [
     "AnnotationDbi",
     "Biobase",
