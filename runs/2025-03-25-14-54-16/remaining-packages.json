@@ -7862,7 +7862,6 @@
     "DEXSeq",
     "satuRn",
     "sva",
-    "pfamAnalyzeR",
     "BSgenome",
     "Biostrings",
     "IRanges",
@@ -28607,7 +28606,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "pfamAnalyzeR": [],
   "pgxRpi": [
     "GenomicRanges",
     "SummarizedExperiment",
