@@ -7626,7 +7626,6 @@
     "BiocGenerics",
     "S4Vectors"
   ],
-  "ISAnalytics": [],
   "ISLET": [
     "BiocParallel",
     "SummarizedExperiment",
@@ -11801,7 +11800,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "QUBIC": [],
   "Qtlizer": [
     "GenomicRanges",
     "BiocGenerics",
@@ -26879,7 +26877,6 @@
   ],
   "mosbi": [
     "fabia",
-    "QUBIC",
     "Biobase",
     "BiocGenerics"
   ],

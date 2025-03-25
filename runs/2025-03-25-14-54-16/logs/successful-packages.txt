@@ -99,3 +99,5 @@ M3C
 MatrixGenerics
 IsoCorrectoRGUI
 sparseMatrixStats
+ISAnalytics
+QUBIC
