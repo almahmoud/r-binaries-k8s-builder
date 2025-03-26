@@ -1468,11 +1468,9 @@
   ],
   "DelayedDataFrame": [],
   "DelayedMatrixStats": [],
-  "DelayedRandomArray": [],
   "DelayedTensor": [
     "HDF5Array",
     "BiocSingular",
-    "DelayedRandomArray",
     "ScaledMatrix",
     "beachmat"
   ],
