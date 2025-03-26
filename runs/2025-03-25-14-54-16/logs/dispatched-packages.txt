@@ -830,3 +830,6 @@ SpectraQL
 affyILM
 affyPLM
 maskBAD
+DelayedArray
+GeomxTools
+h5mread

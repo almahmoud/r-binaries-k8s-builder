@@ -737,3 +737,6 @@ cogeqc
 ggmsa
 GeneRegionScan
 MsBackendMassbank
+NanoStringNCTools
+ReUseData
+SparseArray
