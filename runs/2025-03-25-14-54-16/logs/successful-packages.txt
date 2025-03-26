@@ -548,3 +548,9 @@ interactiveDisplayBase
 progeny
 snpStats
 TargetDecoy
+ChemmineOB
+Cormotif
+GEOsubmission
+graph
+Maaslin2
+SNPRelate
