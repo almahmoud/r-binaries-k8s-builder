@@ -961,3 +961,6 @@ immApex
 UCell
 HiContacts
 treeclimbR
+censcyt
+CuratedAtlasQueryR
+MoleculeExperiment

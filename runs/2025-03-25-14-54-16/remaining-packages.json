@@ -793,7 +793,6 @@
     "GenomicAlignments",
     "Rsamtools"
   ],
-  "CuratedAtlasQueryR": [],
   "CytoGLMM": [],
   "CytoMDS": [
     "CytoPipeline",
@@ -2115,7 +2114,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "MoleculeExperiment": [],
   "Moonlight2R": [
     "clusterProfiler",
     "DOSE",
@@ -3988,7 +3986,6 @@
   "cellity": [
     "topGO"
   ],
-  "censcyt": [],
   "cfDNAPro": [
     "GenomicAlignments",
     "plyranges",
