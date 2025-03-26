@@ -888,3 +888,12 @@ MultimodalExperiment
 SpatialCPie
 CoreGx
 MultiDataSet
+ALDEx2
+evaluomeR
+LinkHD
+MOMA
+PhosR
+RNAsense
+SIAMCAT
+SingleCellExperiment
+zFPKM
