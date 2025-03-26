@@ -3187,7 +3187,6 @@
   ],
   "microSTASIS": [],
   "microbiomeExplorer": [],
-  "mimager": [],
   "minfi": [
     "bumphunter",
     "genefilter",
@@ -3357,7 +3356,6 @@
     "AnnotationHub"
   ],
   "openCyto": [],
-  "openPrimeR": [],
   "oposSOM": [
     "biomaRt"
   ],

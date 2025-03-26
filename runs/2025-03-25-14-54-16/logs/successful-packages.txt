@@ -1331,3 +1331,5 @@ frma
 pdInfoBuilder
 phenopath
 spoon
+mimager
+openPrimeR
