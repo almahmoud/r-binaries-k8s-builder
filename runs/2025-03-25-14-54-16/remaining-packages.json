@@ -1477,7 +1477,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "GenomAutomorphism": [],
   "GenomicAlignments": [
     "Rsamtools"
   ],
@@ -3511,7 +3510,6 @@
     "BiocSingular"
   ],
   "alabaster": [
-    "alabaster.matrix",
     "alabaster.ranges",
     "alabaster.se",
     "alabaster.sce",
@@ -3530,19 +3528,15 @@
   ],
   "alabaster.mae": [
     "alabaster.se",
-    "alabaster.ranges",
-    "alabaster.matrix"
+    "alabaster.ranges"
   ],
-  "alabaster.matrix": [],
   "alabaster.ranges": [],
   "alabaster.sce": [
     "alabaster.se",
-    "alabaster.ranges",
-    "alabaster.matrix"
+    "alabaster.ranges"
   ],
   "alabaster.se": [
-    "alabaster.ranges",
-    "alabaster.matrix"
+    "alabaster.ranges"
   ],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
@@ -3551,21 +3545,18 @@
     "alabaster.se",
     "DropletUtils",
     "alabaster.ranges",
-    "alabaster.matrix",
     "scuttle"
   ],
   "alabaster.spatial": [
     "alabaster.sce",
     "alabaster.se",
-    "alabaster.ranges",
-    "alabaster.matrix"
+    "alabaster.ranges"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
     "alabaster.se",
     "Rsamtools",
     "alabaster.ranges",
-    "alabaster.matrix",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -3693,7 +3684,6 @@
   ],
   "baySeq": [],
   "beachmat.hdf5": [],
-  "beachmat.tiledb": [],
   "beadarray": [],
   "bedbaser": [
     "rtracklayer",
@@ -4691,7 +4681,6 @@
     "BSgenome",
     "TFBSTools",
     "Rsamtools",
-    "alabaster.matrix",
     "BiocSingular",
     "rtracklayer",
     "annotate",
@@ -5970,7 +5959,6 @@
   "omicade4": [
     "made4"
   ],
-  "omicsPrint": [],
   "omicsViewer": [],
   "oncomix": [],
   "oncoscanR": [],
@@ -6086,7 +6074,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "pepStat": [],
   "periodicDNA": [
     "BSgenome",
     "rtracklayer",
@@ -6887,7 +6874,6 @@
     "scuttle",
     "zellkonverter",
     "BiocSingular",
-    "alabaster.matrix",
     "alabaster.se",
     "GenomicFeatures",
     "AnnotationFilter",

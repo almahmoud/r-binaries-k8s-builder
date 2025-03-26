@@ -1016,3 +1016,8 @@ OVESEG
 scds
 vsclust
 xcore
+alabaster.matrix
+beachmat.tiledb
+GenomAutomorphism
+omicsPrint
+pepStat
