@@ -95,7 +95,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "BEAT": [],
   "BERT": [
     "sva",
     "genefilter"
@@ -163,7 +162,6 @@
     "AnnotationHub",
     "ExperimentHub"
   ],
-  "BiocSet": [],
   "BloodGen3Module": [
     "ExperimentHub",
     "AnnotationHub"
@@ -345,7 +343,6 @@
   ],
   "ChIPsim": [],
   "ChromHeatMap": [],
-  "ChromSCape": [],
   "CircSeqAlignTk": [
     "Rhisat2",
     "txdbmaker",
@@ -500,7 +497,6 @@
     "systemPipeR",
     "GreyListChIP"
   ],
-  "Dino": [],
   "DiscoRhythm": [],
   "DominoEffect": [
     "biomaRt",
@@ -970,8 +966,6 @@
     "qpgraph",
     "GenomicFeatures"
   ],
-  "MOSim": [],
-  "MPAC": [],
   "MSPrep": [
     "sva",
     "genefilter"
@@ -1370,9 +1364,7 @@
   "ReducedExperiment": [
     "biomaRt"
   ],
-  "RegEnrich": [
-    "BiocSet"
-  ],
+  "RegEnrich": [],
   "RegionalST": [
     "BayesSpace",
     "TOAST"
@@ -1547,7 +1539,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "SpaNorm": [],
   "Spaniel": [],
   "SparseSignatures": [],
   "SpatialExperimentIO": [],
@@ -2426,7 +2417,6 @@
     "GSEABase",
     "GSVA"
   ],
-  "extraChIPs": [],
   "fCCAC": [
     "genomation"
   ],
@@ -2538,7 +2528,6 @@
   "goSTAG": [
     "biomaRt"
   ],
-  "goSorensen": [],
   "goseq": [
     "GenomicFeatures",
     "txdbmaker",
@@ -2695,7 +2684,6 @@
     "genefilter",
     "bumphunter"
   ],
-  "lute": [],
   "m6Aboost": [
     "ExperimentHub",
     "AnnotationHub"
@@ -3259,7 +3247,6 @@
     "Cepo",
     "GSEABase"
   ],
-  "scDD": [],
   "scDataviz": [],
   "scDblFinder": [],
   "scDiagnostics": [],
@@ -3443,7 +3430,6 @@
     "chipseq"
   ],
   "sparrow": [
-    "BiocSet",
     "GSEABase"
   ],
   "spatialFDA": [

@@ -1370,3 +1370,14 @@ BioNAR
 geneXtendeR
 sevenC
 SingleCellSignalR
+BEAT
+BiocSet
+ChromSCape
+Dino
+extraChIPs
+goSorensen
+lute
+MOSim
+MPAC
+scDD
+SpaNorm
