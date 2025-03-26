@@ -445,3 +445,4 @@ densvis
 snifter
 CNAnorm
 maftools
+BiocNeighbors
