@@ -1247,3 +1247,5 @@ LimROTS
 nempi
 tidySpatialExperiment
 TIN
+RadioGx
+scifer

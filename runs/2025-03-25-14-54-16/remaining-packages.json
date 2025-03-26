@@ -1893,7 +1893,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "RadioGx": [],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -4685,7 +4684,6 @@
     "scuttle"
   ],
   "schex": [],
-  "scifer": [],
   "scmeth": [
     "bsseq",
     "AnnotationHub",
