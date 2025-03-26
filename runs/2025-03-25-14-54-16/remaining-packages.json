@@ -599,7 +599,6 @@
     "oligo",
     "oligoClasses",
     "Biostrings",
-    "affxparser",
     "S4Vectors",
     "IRanges",
     "XVector",
@@ -1423,7 +1422,6 @@
     "BiocIO",
     "SparseArray"
   ],
-  "BufferedMatrixMethods": [],
   "BulkSignalR": [
     "multtest",
     "orthogene",
@@ -2522,7 +2520,6 @@
     "SummarizedExperiment",
     "S4Vectors",
     "Biostrings",
-    "affxparser",
     "IRanges",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -3956,7 +3953,6 @@
     "KEGGREST",
     "oligoClasses",
     "Biostrings",
-    "affxparser",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -4419,7 +4415,6 @@
     "GenomeInfoDb",
     "RBGL",
     "graph",
-    "affxparser",
     "GenomicRanges",
     "S4Vectors",
     "IRanges",
@@ -5393,7 +5388,6 @@
     "Biobase",
     "Biostrings",
     "S4Vectors",
-    "affxparser",
     "IRanges",
     "XVector",
     "GenomeInfoDb",
@@ -6392,7 +6386,6 @@
   ],
   "ITALICS": [
     "oligo",
-    "affxparser",
     "oligoClasses",
     "Biobase",
     "Biostrings",
@@ -11245,7 +11238,6 @@
     "GenomeInfoDb",
     "SummarizedExperiment",
     "oligoClasses",
-    "affxparser",
     "genefilter",
     "edgeR",
     "AnnotationDbi",
@@ -13845,7 +13837,6 @@
     "SparseArray",
     "XVector"
   ],
-  "affxparser": [],
   "affy": [
     "Biobase"
   ],
@@ -13855,7 +13846,6 @@
   ],
   "affyILM": [
     "gcrma",
-    "affxparser",
     "affy",
     "Biobase",
     "XVector",
@@ -16206,7 +16196,6 @@
   "cn.farms": [
     "Biobase",
     "oligoClasses",
-    "affxparser",
     "oligo",
     "Biostrings",
     "IRanges",
@@ -18915,7 +18904,6 @@
     "oligo",
     "oligoClasses",
     "Biostrings",
-    "affxparser",
     "IRanges",
     "GenomicRanges",
     "SummarizedExperiment",
@@ -22102,7 +22090,6 @@
     "oligoClasses",
     "gcrma",
     "Biostrings",
-    "affxparser",
     "IRanges",
     "GenomicRanges",
     "SummarizedExperiment",
@@ -23195,7 +23182,6 @@
     "oligoClasses",
     "Biobase",
     "Biostrings",
-    "affxparser",
     "S4Vectors",
     "IRanges",
     "XVector",
@@ -23754,7 +23740,6 @@
   ],
   "pdInfoBuilder": [
     "Biobase",
-    "affxparser",
     "oligo",
     "Biostrings",
     "IRanges",
@@ -24459,7 +24444,6 @@
     "Biobase",
     "affy",
     "Biostrings",
-    "affxparser",
     "IRanges",
     "GenomicRanges",
     "SummarizedExperiment",

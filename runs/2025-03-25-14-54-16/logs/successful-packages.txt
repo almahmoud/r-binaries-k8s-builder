@@ -402,3 +402,5 @@ GIGSEA
 GLAD
 multiClust
 PathNet
+affxparser
+BufferedMatrixMethods
