@@ -2052,11 +2052,9 @@
     "BSgenome"
   ],
   "XeniumIO": [],
-  "Xeva": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
-    "gtrellis",
     "BSgenome",
     "ggbio",
     "GenomicFeatures",
@@ -2807,7 +2805,6 @@
   ],
   "epialleleR": [],
   "epidecodeR": [],
-  "epigenomix": [],
   "epigraHMM": [
     "GreyListChIP",
     "BSgenome"
@@ -3055,7 +3052,6 @@
     "PPInfer",
     "biomaRt"
   ],
-  "gtrellis": [],
   "gwascat": [
     "GenomicFeatures",
     "VariantAnnotation",

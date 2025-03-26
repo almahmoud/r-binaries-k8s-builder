@@ -1309,3 +1309,6 @@ systemPipeTools
 iSEEhex
 MODA
 receptLoss
+epigenomix
+gtrellis
+Xeva
