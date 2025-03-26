@@ -435,7 +435,6 @@
     "GSEABase",
     "annotate"
   ],
-  "CDI": [],
   "CEMiTool": [
     "clusterProfiler",
     "DOSE",
@@ -2056,7 +2055,6 @@
     "struct"
   ],
   "MetNet": [],
-  "MetaNeighbor": [],
   "MetaPhOR": [
     "clusterProfiler",
     "DOSE",

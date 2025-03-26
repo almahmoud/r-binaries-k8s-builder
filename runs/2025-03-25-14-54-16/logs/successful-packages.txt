@@ -928,3 +928,5 @@ CoGAPS
 DifferentialRegulation
 HIPPO
 LoomExperiment
+CDI
+MetaNeighbor
