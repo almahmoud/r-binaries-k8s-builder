@@ -604,3 +604,5 @@ garfield
 GEOmetadb
 TreeAndLeaf
 pvca
+fgsea
+frmaTools
