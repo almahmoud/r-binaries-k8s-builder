@@ -1429,3 +1429,6 @@ genefu
 hermes
 miaSim
 oposSOM
+CAEN
+easyRNASeq
+seq2pathway
