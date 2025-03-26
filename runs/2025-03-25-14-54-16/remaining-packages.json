@@ -1329,7 +1329,6 @@
     "AnnotationHub",
     "annotate"
   ],
-  "KEGGlincs": [],
   "KnowSeq": [
     "sva",
     "genefilter",
@@ -1510,7 +1509,6 @@
   "Macarron": [],
   "MatrixQCvis": [
     "ExperimentHub",
-    "proDA",
     "sva",
     "AnnotationHub",
     "genefilter",
@@ -4759,7 +4757,6 @@
     "rtracklayer",
     "biomaRt"
   ],
-  "proDA": [],
   "profileplyr": [
     "soGGi",
     "ChIPseeker",
@@ -5409,7 +5406,6 @@
   "structToolbox": [
     "struct"
   ],
-  "supersigs": [],
   "surfaltr": [
     "biomaRt"
   ],
