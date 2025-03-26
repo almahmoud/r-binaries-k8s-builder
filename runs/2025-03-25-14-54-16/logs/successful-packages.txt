@@ -1441,3 +1441,7 @@ beachmat.hdf5
 ccImpute
 isobar
 SeqGSEA
+baySeq
+IONiseR
+MethTargetedNGS
+rifi

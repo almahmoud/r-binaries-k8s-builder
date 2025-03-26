@@ -1683,3 +1683,6 @@ crisprBowtie
 crisprBwa
 PDATK
 decontX
+clusterSeq
+riboSeqR
+segmentSeq

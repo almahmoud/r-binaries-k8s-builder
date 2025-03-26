@@ -763,7 +763,6 @@
   "INSPEcT": [
     "GenomicFeatures"
   ],
-  "IONiseR": [],
   "IPO": [
     "xcms",
     "CAMERA",
@@ -932,7 +931,6 @@
     "ExperimentHub",
     "TFBSTools"
   ],
-  "MethTargetedNGS": [],
   "MethylAid": [
     "minfi",
     "bumphunter",
@@ -1665,7 +1663,6 @@
     "genefilter"
   ],
   "basecallQC": [],
-  "baySeq": [],
   "beer": [
     "PhIPData"
   ],
@@ -1868,9 +1865,7 @@
     "zinbwave",
     "genefilter"
   ],
-  "clusterSeq": [
-    "baySeq"
-  ],
+  "clusterSeq": [],
   "cn.farms": [],
   "cn.mops": [],
   "coMethDMR": [
@@ -2899,9 +2894,7 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "riboSeqR": [
-    "baySeq"
-  ],
+  "riboSeqR": [],
   "ribosomeProfilingQC": [
     "EDASeq",
     "GenomicFeatures",
@@ -2910,7 +2903,6 @@
     "txdbmaker",
     "TFBSTools"
   ],
-  "rifi": [],
   "rnaEditr": [
     "bumphunter",
     "GenomicFeatures"
@@ -3021,9 +3013,7 @@
     "ensembldb"
   ],
   "scviR": [],
-  "segmentSeq": [
-    "baySeq"
-  ],
+  "segmentSeq": [],
   "segmenter": [
     "ChIPseeker",
     "GenomicFeatures"
