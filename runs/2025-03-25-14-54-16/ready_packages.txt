@@ -1,2 +1,3 @@
-CGHcall
-CGHregions
+CGHnormaliter
+Maaslin2
+mbQTL

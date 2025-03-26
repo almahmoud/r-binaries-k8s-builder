@@ -6,7 +6,6 @@
     "IRanges",
     "GenomeInfoDb",
     "XVector",
-    "CGHcall",
     "Rsamtools",
     "UCSC.utils",
     "Biostrings"
@@ -1564,10 +1563,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "CGHcall": [],
-  "CGHnormaliter": [
-    "CGHcall"
-  ],
+  "CGHnormaliter": [],
   "CGHregions": [],
   "CHETAH": [
     "SingleCellExperiment",
@@ -4956,7 +4952,6 @@
   ],
   "GeneBreak": [
     "QDNAseq",
-    "CGHcall",
     "GenomicRanges",
     "S4Vectors",
     "IRanges",
@@ -5003,7 +4998,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "GeneSelectMMD": [],
   "GeneStructureTools": [
     "Biostrings",
     "GenomicRanges",
@@ -6838,8 +6832,7 @@
     "SparseArray"
   ],
   "MMUPHin": [
-    "Maaslin2",
-    "metagenomeSeq"
+    "Maaslin2"
   ],
   "MODA": [
     "AMOUNTAIN",
@@ -7127,9 +7120,7 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "Maaslin2": [
-    "metagenomeSeq"
-  ],
+  "Maaslin2": [],
   "Macarron": [
     "SummarizedExperiment",
     "DelayedArray",
@@ -7138,7 +7129,6 @@
     "IRanges",
     "S4Arrays",
     "SparseArray",
-    "metagenomeSeq",
     "GenomicRanges",
     "GenomeInfoDb",
     "AnnotationDbi",
@@ -9022,7 +9012,6 @@
     "SparseArray"
   ],
   "QDNAseq": [
-    "CGHcall",
     "GenomicRanges",
     "IRanges",
     "Rsamtools",
@@ -13684,7 +13673,6 @@
     "microbiome",
     "NOISeq",
     "Maaslin2",
-    "metagenomeSeq",
     "GenomicRanges",
     "IRanges",
     "S4Vectors",
@@ -13932,7 +13920,6 @@
     "AnnotationDbi",
     "OrganismDbi",
     "GenomicFeatures",
-    "CGHcall",
     "GenomicAlignments",
     "BiocIO",
     "KEGGREST",
@@ -14506,7 +14493,6 @@
     "S4Vectors",
     "UCSC.utils",
     "XVector",
-    "CGHcall",
     "Biostrings"
   ],
   "cghMCR": [
@@ -16485,7 +16471,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "dyebias": [],
   "easier": [
     "progeny",
     "quantiseqr",
@@ -18530,7 +18515,6 @@
   "iCheck": [
     "lumi",
     "affy",
-    "GeneSelectMMD",
     "methylumi",
     "GenomicFeatures",
     "GenomicRanges",
@@ -19631,9 +19615,7 @@
     "Biostrings"
   ],
   "matter": [],
-  "mbQTL": [
-    "metagenomeSeq"
-  ],
+  "mbQTL": [],
   "mbkmeans": [
     "DelayedArray",
     "S4Vectors",
@@ -19766,7 +19748,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "metagenomeSeq": [],
   "metahdep": [],
   "metapone": [
     "fgsea"
@@ -20347,7 +20328,6 @@
   ],
   "microbiomeDASim": [
     "phyloseq",
-    "metagenomeSeq",
     "Biostrings",
     "S4Vectors",
     "IRanges",
@@ -20356,7 +20336,6 @@
     "UCSC.utils"
   ],
   "microbiomeExplorer": [
-    "metagenomeSeq",
     "DESeq2",
     "S4Vectors",
     "IRanges",
