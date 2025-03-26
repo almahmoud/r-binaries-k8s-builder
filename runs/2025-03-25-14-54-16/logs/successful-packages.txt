@@ -994,3 +994,5 @@ SVP
 concordexR
 missRows
 smoppix
+omicplotR
+tpSVG

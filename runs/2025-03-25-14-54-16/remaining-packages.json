@@ -5992,7 +5992,6 @@
   "omicade4": [
     "made4"
   ],
-  "omicplotR": [],
   "omicsPrint": [],
   "omicsViewer": [],
   "oncomix": [],
@@ -7211,7 +7210,6 @@
     "QFeatures",
     "AnnotationFilter"
   ],
-  "tpSVG": [],
   "trackViewer": [
     "GenomicAlignments",
     "GenomicFeatures",
