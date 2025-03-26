@@ -11143,7 +11143,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "RImmPort": [],
   "RJMCMCNucleosomes": [
     "IRanges",
     "GenomicRanges",
