@@ -2995,7 +2995,6 @@
     "AnnotationDbi",
     "biomaRt"
   ],
-  "RCM": [],
   "RCSL": [
     "SingleCellExperiment"
   ],
@@ -3375,7 +3374,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "RolDE": [],
   "Rqc": [
     "ShortRead",
     "biovizBase",
@@ -7823,7 +7821,6 @@
     "scuttle"
   ],
   "scMultiSim": [],
-  "scPCA": [],
   "scPipe": [
     "SingleCellExperiment",
     "AnnotationDbi",

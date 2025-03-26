@@ -873,3 +873,6 @@ RaggedExperiment
 Scale4C
 SDAMS
 SeqGate
+RCM
+RolDE
+scPCA
