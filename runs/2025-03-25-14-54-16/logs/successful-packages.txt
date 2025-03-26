@@ -560,3 +560,4 @@ AlpsNMR
 epistasisGA
 ExiMiR
 RGSEA
+RNAseqCovarImpute

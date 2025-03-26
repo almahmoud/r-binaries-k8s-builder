@@ -9378,7 +9378,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "RNAseqCovarImpute": [],
   "ROCpAI": [
     "SummarizedExperiment",
     "GenomicRanges",
