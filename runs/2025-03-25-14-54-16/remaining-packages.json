@@ -1526,7 +1526,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "ClustAll": [],
   "ClusterFoldSimilarity": [
     "SingleCellExperiment",
     "SummarizedExperiment",
