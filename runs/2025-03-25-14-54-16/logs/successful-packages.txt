@@ -564,3 +564,5 @@ RNAseqCovarImpute
 GWASTools
 S4Vectors
 veloviz
+BiocIO
+Rnits
