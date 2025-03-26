@@ -5046,7 +5046,6 @@
     "SeqArray"
   ],
   "ggseqalign": [],
-  "ggspavis": [],
   "ginmappeR": [
     "UniProt.ws"
   ],
@@ -5942,7 +5941,6 @@
   ],
   "netboost": [],
   "nipalsMCIA": [],
-  "nnSVG": [],
   "normr": [
     "rtracklayer",
     "Rsamtools",
@@ -6713,7 +6711,6 @@
   "sccomp": [],
   "scds": [],
   "schex": [],
-  "scider": [],
   "scifer": [
     "sangerseqR"
   ],
@@ -7042,7 +7039,6 @@
     "annotate"
   ],
   "spoon": [
-    "nnSVG",
     "scuttle"
   ],
   "spqn": [],

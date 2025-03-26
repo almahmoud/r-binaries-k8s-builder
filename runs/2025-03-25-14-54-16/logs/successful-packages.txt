@@ -980,3 +980,6 @@ spaSim
 SpotClean
 spatialDE
 spatialSimGP
+ggspavis
+nnSVG
+scider
