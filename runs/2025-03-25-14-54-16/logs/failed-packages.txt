@@ -5,3 +5,4 @@ REBET
 cisPath
 chopsticks
 CytoGLMM
+gpuMagic

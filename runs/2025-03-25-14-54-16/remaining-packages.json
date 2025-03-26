@@ -1175,7 +1175,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "BioQC": [],
   "BioTIP": [
     "GenomicRanges",
     "scran",
@@ -1442,7 +1441,6 @@
     "RBGL",
     "graph",
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -2623,7 +2621,6 @@
     "annotate"
   ],
   "CluMSID": [
-    "mzR",
     "S4Vectors",
     "MSnbase",
     "MsCoreUtils",
@@ -2938,7 +2935,6 @@
   ],
   "DAPAR": [
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "PSMatch",
@@ -3020,7 +3016,6 @@
     "vsn",
     "ComplexHeatmap",
     "IRanges",
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "PSMatch",
@@ -5913,7 +5908,6 @@
     "RBGL",
     "graph",
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -6171,7 +6165,6 @@
     "AnnotationFilter",
     "annotate"
   ],
-  "KCsmart": [],
   "KEGGREST": [
     "Biostrings",
     "S4Vectors",
@@ -6232,7 +6225,6 @@
     "RBGL",
     "graph",
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -6460,7 +6452,6 @@
     "RBGL",
     "graph",
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -7014,7 +7005,6 @@
   ],
   "MSnID": [
     "MSnbase",
-    "mzR",
     "msmsTests",
     "Biostrings",
     "AnnotationHub",
@@ -7041,7 +7031,6 @@
     "SparseArray"
   ],
   "MSnbase": [
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "PSMatch",
@@ -7072,11 +7061,9 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "MSstatsTMT",
     "UCSC.utils"
   ],
   "MSstatsPTM": [
-    "MSstatsTMT",
     "Biostrings",
     "S4Vectors",
     "IRanges",
@@ -7087,7 +7074,6 @@
   "MSstatsQC": [
     "MSnbase",
     "qcmetrics",
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "PSMatch",
@@ -7110,7 +7096,6 @@
     "MSstatsQC",
     "MSnbase",
     "qcmetrics",
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "PSMatch",
@@ -7130,7 +7115,6 @@
     "XVector"
   ],
   "MSstatsShiny": [
-    "MSstatsTMT",
     "MSstatsPTM",
     "Biostrings",
     "S4Vectors",
@@ -7139,7 +7123,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "MSstatsTMT": [],
   "MWASTools": [
     "SummarizedExperiment",
     "KEGGgraph",
@@ -8706,7 +8689,6 @@
     "vsn",
     "POMA",
     "IRanges",
-    "mzR",
     "MsCoreUtils",
     "PSMatch",
     "affy",
@@ -8934,7 +8916,6 @@
   "Polytect": [],
   "PrInCE": [
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "PSMatch",
@@ -8956,7 +8937,6 @@
   "Prostar": [
     "DAPAR",
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "PSMatch",
@@ -9438,7 +9418,6 @@
   ],
   "RMassBank": [
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "PSMatch",
@@ -9736,7 +9715,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "RTopper": [],
   "RUVSeq": [
     "EDASeq",
     "ShortRead",
@@ -10633,9 +10611,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "SIMAT": [
-    "mzR"
-  ],
+  "SIMAT": [],
   "SMITE": [
     "GenomicRanges",
     "AnnotationDbi",
@@ -12087,9 +12063,7 @@
     "BiocIO",
     "SparseArray"
   ],
-  "TargetDecoy": [
-    "mzR"
-  ],
+  "TargetDecoy": [],
   "TileDBArray": [
     "SparseArray",
     "DelayedArray",
@@ -12817,7 +12791,6 @@
   "adductomicsR": [
     "ExperimentHub",
     "AnnotationHub",
-    "mzR",
     "BiocVersion",
     "AnnotationDbi",
     "S4Vectors",
@@ -13549,7 +13522,6 @@
     "S4Vectors",
     "MSnbase",
     "pRoloc",
-    "mzR",
     "MsCoreUtils",
     "PSMatch",
     "IRanges",
@@ -14933,7 +14905,6 @@
   "cliqueMS": [
     "xcms",
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "PSMatch",
@@ -15378,7 +15349,6 @@
   "cosmiq": [
     "xcms",
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -17338,7 +17308,6 @@
     "RBGL",
     "graph",
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -17803,7 +17772,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "geneClassifiers": [],
   "geneRecommender": [],
   "geneRxCluster": [
     "GenomicRanges",
@@ -18394,7 +18362,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "hapFabia": [],
   "hdxmsqc": [
     "QFeatures",
     "S4Vectors",
@@ -19542,7 +19509,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "maSigPro": [],
   "maaslin3": [
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
@@ -19769,7 +19735,6 @@
     "RBGL",
     "graph",
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -20854,9 +20819,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "msPurity": [
-    "mzR"
-  ],
+  "msPurity": [],
   "msa": [
     "Biostrings",
     "IRanges",
@@ -20912,7 +20875,6 @@
   ],
   "msmsEDA": [
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "PSMatch",
@@ -20934,7 +20896,6 @@
   "msmsTests": [
     "MSnbase",
     "msmsEDA",
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "PSMatch",
@@ -21202,11 +21163,9 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "mzR": [],
   "ncGTW": [
     "xcms",
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -21506,7 +21465,6 @@
     "PSMatch",
     "SummarizedExperiment",
     "MultiAssayExperiment",
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "IRanges",
@@ -21744,7 +21702,6 @@
     "annotate",
     "genefilter",
     "SummarizedExperiment",
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "PSMatch",
@@ -21767,7 +21724,6 @@
   "pRolocGUI": [
     "pRoloc",
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "PSMatch",
@@ -22009,7 +21965,6 @@
   ],
   "peakPantheR": [
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "PSMatch",
@@ -22616,7 +22571,6 @@
   ],
   "ptairMS": [
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "MsCoreUtils",
     "PSMatch",
@@ -22673,7 +22627,6 @@
     "S4Vectors",
     "XVector",
     "GenomeInfoDb",
-    "mzR",
     "MsCoreUtils",
     "PSMatch",
     "vsn",
@@ -25529,7 +25482,6 @@
     "Spectra",
     "SummarizedExperiment",
     "QFeatures",
-    "mzR",
     "MsCoreUtils",
     "PSMatch",
     "vsn",
@@ -25838,7 +25790,6 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "mzR",
     "MsCoreUtils",
     "PSMatch",
     "vsn",
@@ -26237,7 +26188,6 @@
     "S4Vectors",
     "MSnbase",
     "PSMatch",
-    "mzR",
     "IRanges",
     "XVector",
     "GenomeInfoDb",
@@ -26950,7 +26900,6 @@
   ],
   "xcms": [
     "MSnbase",
-    "mzR",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -27010,7 +26959,6 @@
     "IRanges",
     "S4Vectors",
     "EBImage",
-    "mzR",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",

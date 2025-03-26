@@ -488,3 +488,11 @@ metabomxtr
 rqubic
 rols
 siggenes
+BioQC
+geneClassifiers
+hapFabia
+KCsmart
+maSigPro
+MSstatsTMT
+mzR
+RTopper
