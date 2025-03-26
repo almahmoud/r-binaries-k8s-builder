@@ -1363,3 +1363,6 @@ rifiComparative
 imcRtools
 r3Cseq
 syntenet
+chipenrich
+recount3
+seqsetvis

@@ -2022,7 +2022,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "chipenrich": [],
   "chipseq": [],
   "chopsticks": [],
   "chromPlot": [
@@ -3175,7 +3174,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "recount3": [],
   "recountmethylation": [
     "minfi",
     "bumphunter",
@@ -3372,7 +3370,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "seqsetvis": [],
   "sesame": [
     "ExperimentHub",
     "AnnotationHub"
