@@ -3435,7 +3435,6 @@
     "h5mread",
     "GenomicAlignments"
   ],
-  "DeconRNASeq": [],
   "DeepTarget": [
     "fgsea",
     "ExperimentHub",
@@ -8185,7 +8184,6 @@
   "NormqPCR": [
     "ReadqPCR"
   ],
-  "OCplus": [],
   "OGRE": [
     "S4Vectors",
     "GenomicRanges",
@@ -13291,7 +13289,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "anota": [],
   "anota2seq": [
     "DESeq2",
     "SummarizedExperiment",
@@ -16013,7 +16010,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "ddCt": [],
   "ddPCRclust": [
     "flowCore",
     "flowDensity",
@@ -23048,7 +23044,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "rain": [],
   "ramr": [
     "GenomeInfoDb",
     "GenomicRanges",
@@ -26024,7 +26019,6 @@
     "SparseArray"
   ],
   "tRanslatome": [
-    "anota",
     "DESeq2",
     "topGO",
     "GOSemSim",

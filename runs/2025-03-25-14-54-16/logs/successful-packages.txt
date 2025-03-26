@@ -477,3 +477,8 @@ MSstats
 pandaR
 RUVnormalize
 timeOmics
+anota
+ddCt
+DeconRNASeq
+OCplus
+rain
