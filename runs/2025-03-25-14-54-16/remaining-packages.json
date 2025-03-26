@@ -4558,7 +4558,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "divergence": [],
   "dmrseq": [
     "bsseq",
     "bumphunter",
@@ -5621,7 +5620,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "miQC": [],
   "miRLAB": [
     "TCGAbiolinks",
     "Category",
@@ -7045,7 +7043,6 @@
   "ssviz": [
     "Rsamtools"
   ],
-  "stJoincount": [],
   "stageR": [],
   "standR": [
     "RUVSeq",

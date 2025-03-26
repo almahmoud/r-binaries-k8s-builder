@@ -1002,3 +1002,6 @@ simpleSeg
 survClust
 cycle
 FuseSOM
+divergence
+miQC
+stJoincount
