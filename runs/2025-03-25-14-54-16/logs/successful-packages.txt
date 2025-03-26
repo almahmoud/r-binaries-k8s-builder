@@ -1021,3 +1021,5 @@ beachmat.tiledb
 GenomAutomorphism
 omicsPrint
 pepStat
+awst
+xenLite

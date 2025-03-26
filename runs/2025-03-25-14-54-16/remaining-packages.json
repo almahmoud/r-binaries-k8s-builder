@@ -3645,7 +3645,6 @@
     "GSEABase",
     "genefilter"
   ],
-  "awst": [],
   "ballgown": [
     "sva",
     "rtracklayer",
@@ -7367,7 +7366,6 @@
     "PSMatch",
     "AnnotationFilter"
   ],
-  "xenLite": [],
   "yamss": [],
   "yarn": [
     "biomaRt",
