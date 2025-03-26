@@ -1175,3 +1175,7 @@ rTRM
 safe
 simplifyEnrichment
 topGO
+PharmacoGx
+RadioGx
+ToxicoGx
+ropls

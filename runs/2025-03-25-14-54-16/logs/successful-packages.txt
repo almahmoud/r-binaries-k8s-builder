@@ -886,3 +886,5 @@ TTMap
 AffiXcan
 MultimodalExperiment
 SpatialCPie
+CoreGx
+MultiDataSet

@@ -51,8 +51,7 @@
     "topGO"
   ],
   "ASICS": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
   "ASSIGN": [
     "sva",
@@ -852,7 +851,6 @@
     "ensembldb",
     "AnnotationFilter"
   ],
-  "CoreGx": [],
   "CoverageView": [
     "Rsamtools",
     "rtracklayer",
@@ -1992,7 +1990,6 @@
     "Rsamtools"
   ],
   "MEAL": [
-    "MultiDataSet",
     "minfi",
     "Gviz",
     "missMethyl",
@@ -2339,10 +2336,8 @@
     "SingleCellExperiment"
   ],
   "MultiBaC": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
-  "MultiDataSet": [],
   "MultiRNAflow": [
     "DESeq2"
   ],
@@ -2518,7 +2513,6 @@
     "BiocSingular"
   ],
   "PDATK": [
-    "CoreGx",
     "genefu",
     "biomaRt"
   ],
@@ -2610,9 +2604,7 @@
   ],
   "PepSetTest": [],
   "PhIPData": [],
-  "PharmacoGx": [
-    "CoreGx"
-  ],
+  "PharmacoGx": [],
   "PhosR": [],
   "PhyloProfile": [
     "ExperimentHub",
@@ -2907,9 +2899,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RadioGx": [
-    "CoreGx"
-  ],
+  "RadioGx": [],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -3574,9 +3564,7 @@
     "GenomicAlignments"
   ],
   "TnT": [],
-  "ToxicoGx": [
-    "CoreGx"
-  ],
+  "ToxicoGx": [],
   "TrajectoryUtils": [
     "SingleCellExperiment"
   ],
@@ -3746,8 +3734,7 @@
     "VisiumIO"
   ],
   "Xeva": [
-    "PharmacoGx",
-    "CoreGx"
+    "PharmacoGx"
   ],
   "YAPSA": [
     "SomaticSignatures",
@@ -4094,7 +4081,6 @@
     "AnnotationFilter"
   ],
   "biosigner": [
-    "MultiDataSet",
     "ropls"
   ],
   "biotmle": [],
@@ -5330,14 +5316,12 @@
     "gDRcore",
     "gDRimport",
     "gDRutils",
-    "CoreGx",
     "PharmacoGx"
   ],
   "gDRcore": [
     "gDRutils"
   ],
   "gDRimport": [
-    "CoreGx",
     "PharmacoGx",
     "gDRutils"
   ],
@@ -5824,8 +5808,7 @@
   ],
   "lionessR": [],
   "lipidr": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
   "lisaClust": [
     "spicyR",
@@ -6488,7 +6471,6 @@
   "omicRexposome": [
     "sva",
     "omicade4",
-    "MultiDataSet",
     "made4",
     "genefilter",
     "annotate"
@@ -6642,7 +6624,6 @@
     "genefilter"
   ],
   "phenomis": [
-    "MultiDataSet",
     "ropls"
   ],
   "phenopath": [],
@@ -7024,12 +7005,9 @@
     "rtracklayer",
     "Rsamtools"
   ],
-  "ropls": [
-    "MultiDataSet"
-  ],
+  "ropls": [],
   "rqt": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
   "rrvgo": [
     "GOSemSim"
