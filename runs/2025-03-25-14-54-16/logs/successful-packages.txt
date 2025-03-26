@@ -1437,3 +1437,7 @@ ramwas
 transcriptogramer
 dominoSignal
 surfaltr
+beachmat.hdf5
+ccImpute
+isobar
+SeqGSEA

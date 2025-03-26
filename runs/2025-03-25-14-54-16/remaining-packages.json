@@ -1371,7 +1371,6 @@
   "SPONGE": [],
   "SWATH2stats": [],
   "SemDist": [],
-  "SeqGSEA": [],
   "SeqSQC": [
     "ExperimentHub",
     "AnnotationHub"
@@ -1667,7 +1666,6 @@
   ],
   "basecallQC": [],
   "baySeq": [],
-  "beachmat.hdf5": [],
   "beer": [
     "PhIPData"
   ],
@@ -1800,7 +1798,6 @@
     "GenomicFeatures",
     "GenomicDataCommons"
   ],
-  "ccImpute": [],
   "celaref": [],
   "cfDNAPro": [
     "plyranges"
@@ -2391,7 +2388,6 @@
   "ipdDb": [
     "AnnotationHub"
   ],
-  "isobar": [],
   "karyoploteR": [
     "regioneR",
     "biovizBase",
