@@ -427,3 +427,7 @@ erccdashboard
 ScreenR
 SIMD
 tweeDEseq
+COSNet
+IntramiRExploreR
+ppcseq
+Rvisdiff

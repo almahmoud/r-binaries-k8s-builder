@@ -1974,7 +1974,6 @@
     "S4Vectors",
     "Rgraphviz"
   ],
-  "COSNet": [],
   "COTAN": [
     "BiocSingular",
     "ComplexHeatmap",
@@ -6514,7 +6513,6 @@
     "S4Vectors",
     "IRanges"
   ],
-  "IntramiRExploreR": [],
   "IsoBayes": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -11058,7 +11056,6 @@
     "graph",
     "Biobase"
   ],
-  "Rvisdiff": [],
   "S4Arrays": [
     "S4Vectors",
     "IRanges"
@@ -23928,7 +23925,6 @@
     "XVector",
     "Biostrings"
   ],
-  "ppcseq": [],
   "pqsfinder": [
     "Biostrings",
     "GenomicRanges",
