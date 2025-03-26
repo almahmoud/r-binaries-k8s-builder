@@ -1228,3 +1228,7 @@ flowBin
 GateFinder
 multistateQTL
 sigFeature
+clusterProfiler
+GeneBreak
+GenomicSuperSignature
+ggseqalign

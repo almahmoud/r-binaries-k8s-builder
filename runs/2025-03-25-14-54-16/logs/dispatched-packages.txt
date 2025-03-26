@@ -1456,3 +1456,11 @@ ginmappeR
 immunogenViewer
 sangeranalyseR
 scifer
+CEMiTool
+CeTF
+EasyCellType
+EnrichDO
+MetaPhOR
+MicrobiomeProfiler
+famat
+pathlinkR
