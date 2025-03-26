@@ -7,3 +7,4 @@ chopsticks
 CytoGLMM
 gpuMagic
 hypeR
+rsbml

@@ -635,3 +635,7 @@ spkTools
 timecourse
 clippda
 Rgraphviz
+BumpyMatrix
+hmdbQuery
+Rcwl
+viper
