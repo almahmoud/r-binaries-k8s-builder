@@ -594,3 +594,6 @@ plier
 qpcrNorm
 tkWidgets
 TurboNorm
+affyContam
+ldblock
+panp

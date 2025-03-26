@@ -11483,7 +11483,6 @@
     "SparseArray",
     "XVector"
   ],
-  "affyContam": [],
   "affyILM": [
     "gcrma",
     "XVector",
@@ -11939,7 +11938,6 @@
     "biomaRt"
   ],
   "arrayMvout": [
-    "affyContam",
     "lumi",
     "methylumi",
     "GenomicFeatures",
@@ -17273,7 +17271,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "ldblock": [],
   "lefser": [
     "SummarizedExperiment",
     "mia",
@@ -19633,7 +19630,6 @@
     "XVector",
     "Biostrings"
   ],
-  "panp": [],
   "partCNV": [
     "SingleCellExperiment",
     "AnnotationHub",
