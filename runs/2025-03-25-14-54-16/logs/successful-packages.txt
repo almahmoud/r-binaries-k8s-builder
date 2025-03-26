@@ -774,3 +774,4 @@ rebook
 ResidualMatrix
 simona
 tidyFlowCore
+flowCHIC
