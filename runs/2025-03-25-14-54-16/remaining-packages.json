@@ -141,7 +141,6 @@
     "UCSC.utils",
     "Biostrings"
   ],
-  "AMOUNTAIN": [],
   "ANF": [],
   "APAlyzer": [
     "GenomicRanges",
@@ -6111,7 +6110,6 @@
   ],
   "MMUPHin": [],
   "MODA": [
-    "AMOUNTAIN",
     "AnnotationDbi",
     "IRanges",
     "KEGGREST",
