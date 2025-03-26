@@ -5050,7 +5050,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "GSCA": [],
   "GSEABase": [
     "Biobase",
     "annotate",
@@ -7730,7 +7729,6 @@
     "IRanges",
     "MetaboCoreUtils"
   ],
-  "MetID": [],
   "MetMashR": [
     "struct",
     "SummarizedExperiment",
@@ -18685,7 +18683,6 @@
   "flowcatchR": [
     "EBImage"
   ],
-  "fmcsR": [],
   "fobitools": [
     "fgsea"
   ],
