@@ -5205,7 +5205,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "R4RNA": [],
   "RAIDS": [
     "GENESIS",
     "GenomicRanges",
@@ -5990,7 +5989,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "SELEX": [],
   "SEtools": [
     "SummarizedExperiment",
     "sechm",
@@ -6585,7 +6583,6 @@
   "SynExtend": [
     "DECIPHER"
   ],
-  "SynMut": [],
   "TADCompare": [
     "HiCcompare",
     "InteractionSet",
@@ -6816,9 +6813,7 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "TPP": [
-    "biobroom"
-  ],
+  "TPP": [],
   "TREG": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -7874,7 +7869,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "biobroom": [],
   "biocGraph": [
     "geneplotter",
     "annotate",
@@ -10353,9 +10347,7 @@
     "SeqArray",
     "GenomicRanges"
   ],
-  "ggmsa": [
-    "R4RNA"
-  ],
+  "ggmsa": [],
   "ggsc": [
     "SingleCellExperiment",
     "SummarizedExperiment",

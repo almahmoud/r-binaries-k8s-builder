@@ -710,3 +710,7 @@ SpeCond
 alabaster.base
 MetaboCoreUtils
 OrderedList
+biobroom
+R4RNA
+SELEX
+SynMut
