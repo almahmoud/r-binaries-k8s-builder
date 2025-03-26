@@ -1279,7 +1279,6 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "ISLET": [],
   "ITALICS": [
     "oligo",
     "oligoClasses"
@@ -1399,7 +1398,6 @@
     "genefilter",
     "annotate"
   ],
-  "MBQN": [],
   "MCbiclust": [],
   "MDTS": [],
   "MEAL": [
@@ -1493,7 +1491,6 @@
     "scran",
     "scuttle"
   ],
-  "MPRAnalyze": [],
   "MSPrep": [
     "sva",
     "genefilter",
@@ -3026,7 +3023,6 @@
     "scran",
     "scuttle"
   ],
-  "cellbaseR": [],
   "cellity": [
     "topGO"
   ],

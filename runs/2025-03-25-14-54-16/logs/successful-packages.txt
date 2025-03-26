@@ -1093,3 +1093,7 @@ IFAA
 IMMAN
 IsoBayes
 SCArray
+cellbaseR
+ISLET
+MBQN
+MPRAnalyze
