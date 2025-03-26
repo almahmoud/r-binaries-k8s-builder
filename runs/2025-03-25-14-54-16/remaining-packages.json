@@ -3838,7 +3838,6 @@
     "GSEABase",
     "annotate"
   ],
-  "geyser": [],
   "gg4way": [],
   "ggbio": [
     "biovizBase",
@@ -4000,7 +3999,6 @@
   "iSEEu": [
     "iSEEhex"
   ],
-  "iasva": [],
   "icetea": [
     "GenomicFeatures",
     "ShortRead",
@@ -4071,7 +4069,6 @@
   "isomiRs": [
     "DEGreport"
   ],
-  "ivygapSE": [],
   "karyoploteR": [
     "regioneR",
     "rtracklayer",
@@ -4459,7 +4456,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "mpra": [],
   "msImpute": [
     "scran",
     "scuttle"

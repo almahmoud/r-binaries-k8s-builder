@@ -1108,3 +1108,7 @@ marr
 CNVRanger
 flowTrans
 ReactomeGSA
+geyser
+iasva
+ivygapSE
+mpra
