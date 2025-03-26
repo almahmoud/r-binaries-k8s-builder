@@ -748,3 +748,8 @@ MSstatsLiP
 cytoMEM
 FlowSOM
 flowAI
+affyPLM
+flowBeads
+GenomicRanges
+maskBAD
+MetCirc
