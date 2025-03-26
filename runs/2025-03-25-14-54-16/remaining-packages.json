@@ -544,7 +544,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "CoCiteStats": [],
   "CoSIA": [
     "ExperimentHub",
     "biomaRt",
@@ -938,9 +937,7 @@
     "pathview",
     "GenomicDataCommons"
   ],
-  "GENESIS": [
-    "SeqVarTools"
-  ],
+  "GENESIS": [],
   "GEOexplorer": [
     "sva",
     "genefilter",
@@ -1797,8 +1794,7 @@
     "BSgenome",
     "VariantAnnotation",
     "rtracklayer",
-    "GenomicFeatures",
-    "SeqVarTools"
+    "GenomicFeatures"
   ],
   "RCAS": [
     "BSgenome",
@@ -2151,7 +2147,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "SeqVarTools": [],
   "ShortRead": [],
   "SigCheck": [
     "MLInterfaces",
@@ -2980,7 +2975,6 @@
     "scater",
     "scuttle"
   ],
-  "consICA": [],
   "consensusDE": [
     "EDASeq",
     "ensembldb",
