@@ -1438,7 +1438,6 @@
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "flowAI",
     "ncdfFlow",
     "flowWorkspace",
     "RBGL",
@@ -1457,7 +1456,6 @@
   "CytoPipeline": [
     "ggcyto",
     "PeacoQC",
-    "flowAI",
     "ncdfFlow",
     "flowWorkspace",
     "RBGL",
@@ -1467,7 +1465,6 @@
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "flowAI",
     "ncdfFlow",
     "flowWorkspace",
     "RBGL",
@@ -8757,7 +8754,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "flowAI": [],
   "flowBeads": [],
   "flowBin": [
     "flowFP",
