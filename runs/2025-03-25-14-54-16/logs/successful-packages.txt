@@ -755,3 +755,5 @@ maskBAD
 MetCirc
 affyILM
 MsBackendMetaboLights
+DelayedArray
+SpectraQL
