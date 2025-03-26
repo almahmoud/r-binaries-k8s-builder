@@ -1,8 +1,0 @@
-CRImage
-FISHalyseR
-RBioFormats
-SPIA
-flowCHIC
-flowcatchR
-lpNet
-synapsis

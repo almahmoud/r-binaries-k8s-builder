@@ -12066,7 +12066,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "mapscape": [],
   "mariner": [
     "GenomicRanges",
     "InteractionSet",
