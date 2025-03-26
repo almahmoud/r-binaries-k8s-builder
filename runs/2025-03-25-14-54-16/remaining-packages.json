@@ -1401,7 +1401,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "Macarron": [],
   "MatrixQCvis": [
     "ExperimentHub",
     "sva",
@@ -3099,9 +3098,7 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "cyanoFilter": [
-    "flowDensity"
-  ],
+  "cyanoFilter": [],
   "cypress": [
     "TOAST"
   ],
@@ -3129,9 +3126,7 @@
   "dce": [
     "graphite"
   ],
-  "ddPCRclust": [
-    "flowDensity"
-  ],
+  "ddPCRclust": [],
   "debCAM": [],
   "debrowser": [
     "annotate",
@@ -3429,10 +3424,7 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "flowCut": [
-    "flowDensity"
-  ],
-  "flowDensity": [],
+  "flowCut": [],
   "flowGate": [
     "flowWorkspace",
     "ggcyto"
@@ -3948,7 +3940,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "methylscaper": [],
   "methylumi": [
     "minfi",
     "annotate",
@@ -4641,7 +4632,6 @@
     "scran",
     "scuttle"
   ],
-  "scMultiSim": [],
   "scPipe": [
     "biomaRt",
     "DropletUtils",

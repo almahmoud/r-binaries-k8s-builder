@@ -1237,3 +1237,7 @@ ssPATHS
 cfdnakit
 sangeranalyseR
 scrapper
+flowDensity
+Macarron
+methylscaper
+scMultiSim

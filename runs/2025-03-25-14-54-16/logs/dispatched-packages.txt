@@ -1464,3 +1464,6 @@ MetaPhOR
 MicrobiomeProfiler
 famat
 pathlinkR
+cyanoFilter
+ddPCRclust
+flowCut
