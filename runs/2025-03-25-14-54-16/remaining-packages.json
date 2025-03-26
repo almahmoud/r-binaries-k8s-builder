@@ -1423,10 +1423,7 @@
     "BiocIO",
     "SparseArray"
   ],
-  "BufferedMatrix": [],
-  "BufferedMatrixMethods": [
-    "BufferedMatrix"
-  ],
+  "BufferedMatrixMethods": [],
   "BulkSignalR": [
     "multtest",
     "orthogene",
@@ -3382,7 +3379,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "DEqMS": [],
   "DEsubs": [
     "graph",
     "RBGL",
@@ -4929,8 +4925,6 @@
     "affy",
     "Biobase"
   ],
-  "GIGSEA": [],
-  "GLAD": [],
   "GMRP": [
     "GenomicRanges",
     "S4Vectors",
@@ -6397,7 +6391,6 @@
     "XVector"
   ],
   "ITALICS": [
-    "GLAD",
     "oligo",
     "affxparser",
     "oligoClasses",
@@ -6971,9 +6964,7 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "MANOR": [
-    "GLAD"
-  ],
+  "MANOR": [],
   "MAPFX": [
     "flowCore",
     "Biobase",
@@ -9393,7 +9384,6 @@
     "vsn",
     "Biobase",
     "POMA",
-    "DEqMS",
     "IRanges",
     "mzR",
     "MsCoreUtils",
@@ -9483,7 +9473,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "PathNet": [],
   "PathoStat": [
     "phyloseq",
     "edgeR",
@@ -22670,7 +22659,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "multiClust": [],
   "multiGSEA": [
     "graphite",
     "AnnotationDbi",

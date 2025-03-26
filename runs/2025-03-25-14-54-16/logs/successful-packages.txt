@@ -396,3 +396,9 @@ limpa
 Linnorm
 MethylMix
 TPP2D
+BufferedMatrix
+DEqMS
+GIGSEA
+GLAD
+multiClust
+PathNet
