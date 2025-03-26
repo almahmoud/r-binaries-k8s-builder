@@ -1524,3 +1524,4 @@ tidyCoverage
 wiggleplotr
 MSnbase
 goSorensen
+ADAMgui

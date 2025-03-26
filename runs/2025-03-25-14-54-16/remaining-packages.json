@@ -1,8 +1,5 @@
 {
-  "ADAM": [],
-  "ADAMgui": [
-    "ADAM"
-  ],
+  "ADAMgui": [],
   "ADaCGH2": [
     "tilingArray",
     "genefilter",
@@ -1321,7 +1318,6 @@
   ],
   "MsQuality": [],
   "MuData": [],
-  "MultiRNAflow": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",
@@ -2210,7 +2206,6 @@
     "BSgenome"
   ],
   "anota2seq": [],
-  "apComplex": [],
   "appreci8R": [
     "VariantAnnotation",
     "BSgenome",
