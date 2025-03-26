@@ -1406,3 +1406,6 @@ SCArray.sat
 dandelionR
 fastLiquidAssociation
 gatom
+DOSE
+Rcpi
+rrvgo

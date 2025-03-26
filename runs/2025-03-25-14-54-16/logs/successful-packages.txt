@@ -1138,3 +1138,6 @@ yamss
 KEGGlincs
 proDA
 supersigs
+GOSemSim
+PADOG
+weitrix

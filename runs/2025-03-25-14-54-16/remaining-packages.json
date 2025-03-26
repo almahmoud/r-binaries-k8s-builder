@@ -157,8 +157,7 @@
     "annotate"
   ],
   "BLMA": [
-    "ROntoTools",
-    "PADOG"
+    "ROntoTools"
   ],
   "BOBaFIT": [
     "ggbio",
@@ -330,7 +329,6 @@
     "enrichplot",
     "ExperimentHub",
     "DOSE",
-    "GOSemSim",
     "AnnotationHub"
   ],
   "CCPROMISE": [
@@ -341,8 +339,7 @@
   "CEMiTool": [
     "clusterProfiler",
     "DOSE",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "CHRONOS": [
     "biomaRt"
@@ -422,8 +419,7 @@
     "clusterProfiler",
     "MesKit",
     "DOSE",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "Category": [
     "GSEABase",
@@ -433,8 +429,7 @@
   "CeTF": [
     "clusterProfiler",
     "DOSE",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "CellBarcode": [
     "ShortRead"
@@ -527,8 +522,7 @@
     "enrichplot",
     "GenomicFeatures",
     "rtracklayer",
-    "DOSE",
-    "GOSemSim"
+    "DOSE"
   ],
   "ChIPseqR": [
     "HilbertVis",
@@ -702,9 +696,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "DOSE": [
-    "GOSemSim"
-  ],
+  "DOSE": [],
   "DSS": [
     "bsseq",
     "BSgenome",
@@ -810,7 +802,6 @@
     "gage",
     "topGO",
     "pathview",
-    "PADOG",
     "GSVA",
     "globaltest",
     "safe",
@@ -853,14 +844,12 @@
   "EasyCellType": [
     "clusterProfiler",
     "DOSE",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "EnrichDO": [
     "clusterProfiler",
     "DOSE",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "EnrichedHeatmap": [],
   "EnrichmentBrowser": [
@@ -878,8 +867,7 @@
     "enrichplot",
     "GenomicFeatures",
     "BSgenome",
-    "DOSE",
-    "GOSemSim"
+    "DOSE"
   ],
   "EpiMix": [
     "AnnotationHub",
@@ -991,8 +979,7 @@
     "biomaRt",
     "pathview",
     "GenomicDataCommons",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "GENESIS": [
     "SeqVarTools"
@@ -1010,7 +997,6 @@
     "GenomicDataCommons",
     "rtracklayer"
   ],
-  "GOSemSim": [],
   "GOTHiC": [
     "BSgenome",
     "ShortRead",
@@ -1081,7 +1067,6 @@
     "flowFP"
   ],
   "GeDi": [
-    "GOSemSim",
     "GeneTonic",
     "mosdef",
     "topGO",
@@ -1123,7 +1108,6 @@
     "goseq",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "rtracklayer",
     "GenomicFeatures",
     "txdbmaker",
@@ -1453,8 +1437,7 @@
     "graphite",
     "clusterProfiler",
     "DOSE",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "MLInterfaces": [
     "annotate",
@@ -1527,8 +1510,7 @@
   "MetaPhOR": [
     "clusterProfiler",
     "DOSE",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "MetaboAnnotation": [
     "AnnotationHub"
@@ -1571,8 +1553,7 @@
   "MicrobiomeProfiler": [
     "clusterProfiler",
     "enrichplot",
-    "DOSE",
-    "GOSemSim"
+    "DOSE"
   ],
   "MineICA": [
     "biomaRt",
@@ -1604,7 +1585,6 @@
     "EpiMix",
     "ExperimentHub",
     "enrichplot",
-    "GOSemSim",
     "biomaRt",
     "GenomicFeatures"
   ],
@@ -1613,7 +1593,6 @@
     "DOSE",
     "TCGAbiolinks",
     "enrichplot",
-    "GOSemSim",
     "biomaRt"
   ],
   "Motif2Site": [
@@ -1759,7 +1738,6 @@
     "genefilter",
     "annotate"
   ],
-  "PADOG": [],
   "PAST": [
     "rtracklayer"
   ],
@@ -1821,7 +1799,6 @@
     "GSEABase",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "annotate"
   ],
   "PathoStat": [],
@@ -1840,7 +1817,6 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "graphite"
   ],
   "PrInCE": [
@@ -2065,26 +2041,21 @@
     "GSEABase",
     "annotate"
   ],
-  "Rcpi": [
-    "GOSemSim"
-  ],
+  "Rcpi": [],
   "ReactomePA": [
     "DOSE",
     "enrichplot",
-    "graphite",
-    "GOSemSim"
+    "graphite"
   ],
   "ReducedExperiment": [
     "clusterProfiler",
     "biomaRt",
     "DOSE",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "RegEnrich": [
     "BiocSet",
-    "DOSE",
-    "GOSemSim"
+    "DOSE"
   ],
   "RegionalST": [
     "scater",
@@ -2273,8 +2244,7 @@
     "biomaRt"
   ],
   "SVMDO": [
-    "DOSE",
-    "GOSemSim"
+    "DOSE"
   ],
   "SWATH2stats": [
     "biomaRt"
@@ -2409,8 +2379,7 @@
   "TDbasedUFEadv": [
     "TDbasedUFE",
     "enrichplot",
-    "DOSE",
-    "GOSemSim"
+    "DOSE"
   ],
   "TEKRABber": [
     "biomaRt",
@@ -2577,7 +2546,6 @@
   "ViSEAGO": [
     "AnnotationForge",
     "biomaRt",
-    "GOSemSim",
     "topGO"
   ],
   "Voyager": [
@@ -2833,7 +2801,6 @@
     "RTCGAToolbox",
     "TCGAutils",
     "enrichplot",
-    "GOSemSim",
     "graphite",
     "GenomicFeatures",
     "GenomicDataCommons",
@@ -2920,7 +2887,6 @@
     "sechm",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "annotate"
   ],
   "bsseq": [
@@ -3132,8 +3098,7 @@
   ],
   "clusterProfiler": [
     "DOSE",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "clusterSeq": [
     "baySeq"
@@ -3389,7 +3354,6 @@
     "sva",
     "enrichplot",
     "pathview",
-    "GOSemSim",
     "genefilter"
   ],
   "decompTumor2Sig": [
@@ -3533,12 +3497,10 @@
   ],
   "enrichViewNet": [
     "enrichplot",
-    "DOSE",
-    "GOSemSim"
+    "DOSE"
   ],
   "enrichplot": [
-    "DOSE",
-    "GOSemSim"
+    "DOSE"
   ],
   "ensembldb": [
     "GenomicFeatures",
@@ -3593,7 +3555,6 @@
     "scater",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "scuttle"
   ],
   "epivizr": [
@@ -3655,8 +3616,7 @@
     "TFBSTools",
     "motifmatchr",
     "enrichplot",
-    "DOSE",
-    "GOSemSim"
+    "DOSE"
   ],
   "escape": [
     "AUCell",
@@ -3683,8 +3643,7 @@
   "famat": [
     "clusterProfiler",
     "DOSE",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "fastLiquidAssociation": [],
   "fcScan": [
@@ -3771,7 +3730,6 @@
     "clusterProfiler",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "rtracklayer",
     "graphite"
   ],
@@ -3870,8 +3828,7 @@
     "clusterProfiler",
     "goProfiles",
     "DOSE",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "goTools": [],
   "goseq": [
@@ -3952,7 +3909,6 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "annotate",
     "rtracklayer",
     "txdbmaker",
@@ -4002,7 +3958,6 @@
     "genefilter",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "txdbmaker",
     "biomaRt"
   ],
@@ -4169,7 +4124,6 @@
   "meshes": [
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "AnnotationHub"
   ],
   "meshr": [
@@ -4239,7 +4193,6 @@
     "missMethyl",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "minfi",
     "methylumi",
     "annotate",
@@ -4316,7 +4269,6 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "annotate",
     "graphite"
   ],
@@ -4326,7 +4278,6 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "graphite",
     "biomaRt"
   ],
@@ -4400,7 +4351,6 @@
     "goseq",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "rtracklayer",
     "GenomicFeatures",
     "txdbmaker",
@@ -4641,8 +4591,7 @@
   "pathlinkR": [
     "clusterProfiler",
     "DOSE",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "pathview": [],
   "pcaExplorer": [
@@ -4659,7 +4608,6 @@
     "GSEABase",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "rtracklayer",
     "GenomicFeatures",
     "txdbmaker"
@@ -4767,8 +4715,7 @@
     "enrichplot",
     "chipseq",
     "ShortRead",
-    "DOSE",
-    "GOSemSim"
+    "DOSE"
   ],
   "projectR": [],
   "protGear": [
@@ -4962,9 +4909,7 @@
   "rqt": [
     "ropls"
   ],
-  "rrvgo": [
-    "GOSemSim"
-  ],
+  "rrvgo": [],
   "rsbml": [],
   "rtracklayer": [],
   "sSNAPPY": [
@@ -5060,8 +5005,7 @@
     "scuttle"
   ],
   "scQTLtools": [
-    "biomaRt",
-    "GOSemSim"
+    "biomaRt"
   ],
   "scRNAseqApp": [
     "rtracklayer",
@@ -5085,7 +5029,6 @@
     "GSEABase",
     "genefilter",
     "annotate",
-    "GOSemSim",
     "AnnotationForge",
     "enrichplot",
     "graphite"
@@ -5176,8 +5119,7 @@
     "enrichplot",
     "GenomicFeatures",
     "rtracklayer",
-    "DOSE",
-    "GOSemSim"
+    "DOSE"
   ],
   "selectKSigs": [
     "HiLDA",
@@ -5195,8 +5137,7 @@
     "rtracklayer",
     "enrichplot",
     "GenomicFeatures",
-    "DOSE",
-    "GOSemSim"
+    "DOSE"
   ],
   "seqCAT": [
     "VariantAnnotation",
@@ -5237,7 +5178,6 @@
     "DOSE",
     "GSEABase",
     "enrichplot",
-    "GOSemSim",
     "AnnotationHub",
     "annotate"
   ],
@@ -5451,8 +5391,7 @@
     "BSgenome"
   ],
   "tRanslatome": [
-    "topGO",
-    "GOSemSim"
+    "topGO"
   ],
   "tadar": [
     "Gviz",
@@ -5648,7 +5587,6 @@
   "webbioc": [
     "annaffy"
   ],
-  "weitrix": [],
   "wiggleplotr": [
     "rtracklayer"
   ],
