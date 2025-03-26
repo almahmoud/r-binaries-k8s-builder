@@ -1686,3 +1686,4 @@ decontX
 clusterSeq
 riboSeqR
 segmentSeq
+FEAST

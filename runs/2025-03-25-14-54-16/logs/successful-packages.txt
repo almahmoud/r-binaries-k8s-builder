@@ -1456,3 +1456,7 @@ TADCompare
 PLSDAbatch
 plyxp
 tidySummarizedExperiment
+celaref
+cytoKernel
+IWTomics
+TSCAN

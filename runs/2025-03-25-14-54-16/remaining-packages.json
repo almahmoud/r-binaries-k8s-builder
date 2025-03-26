@@ -551,9 +551,7 @@
     "txdbmaker"
   ],
   "ExpressionAtlas": [],
-  "FEAST": [
-    "TSCAN"
-  ],
+  "FEAST": [],
   "FLAMES": [
     "bambu",
     "GenomicFeatures",
@@ -769,7 +767,6 @@
   "IVAS": [
     "GenomicFeatures"
   ],
-  "IWTomics": [],
   "IdeoViz": [],
   "IgGeneUsage": [],
   "InPAS": [
@@ -1464,7 +1461,6 @@
   "TRESS": [
     "GenomicFeatures"
   ],
-  "TSCAN": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -1788,7 +1784,6 @@
     "GenomicFeatures",
     "GenomicDataCommons"
   ],
-  "celaref": [],
   "cfDNAPro": [
     "plyranges"
   ],
@@ -1991,7 +1986,6 @@
   "cypress": [
     "TOAST"
   ],
-  "cytoKernel": [],
   "cytofQC": [
     "CATALYST"
   ],
@@ -3061,7 +3055,6 @@
     "sva",
     "GSEABase",
     "zinbwave",
-    "TSCAN",
     "GenomicFeatures",
     "M3Drop",
     "alabaster.sce",
