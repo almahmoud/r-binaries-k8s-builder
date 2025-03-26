@@ -1802,12 +1802,9 @@
   ],
   "Cardinal": [
     "CardinalIO",
-    "EBImage",
-    "matter"
+    "EBImage"
   ],
-  "CardinalIO": [
-    "matter"
-  ],
+  "CardinalIO": [],
   "Category": [
     "AnnotationDbi",
     "RBGL",
@@ -4974,7 +4971,6 @@
   ],
   "Harshlight": [
     "altcdfenvs",
-    "makecdfenv",
     "Biostrings",
     "hypergraph",
     "IRanges",
@@ -11798,7 +11794,6 @@
     "h5mread"
   ],
   "altcdfenvs": [
-    "makecdfenv",
     "Biostrings",
     "hypergraph",
     "IRanges",
@@ -17585,7 +17580,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "makecdfenv": [],
   "mapscape": [],
   "mariner": [
     "GenomicRanges",
@@ -17670,7 +17664,6 @@
     "XVector",
     "Biostrings"
   ],
-  "matter": [],
   "mbkmeans": [
     "DelayedArray",
     "SingleCellExperiment",
@@ -23833,7 +23826,6 @@
     "UCSC.utils"
   ],
   "twilight": [],
-  "twoddpcr": [],
   "txcutr": [
     "AnnotationDbi",
     "GenomicFeatures",
