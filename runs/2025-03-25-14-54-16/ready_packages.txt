@@ -1,3 +1,5 @@
-Harshlight
-MSstatsLiP
-MSstatsShiny
+AnnotationDbi
+FELLA
+ROntoTools
+SynExtend
+transomics2cytoscape

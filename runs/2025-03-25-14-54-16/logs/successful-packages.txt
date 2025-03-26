@@ -720,3 +720,9 @@ bcSeq
 altcdfenvs
 BRAIN
 MSstatsPTM
+alabaster.bumpy
+alabaster.string
+DECIPHER
+KEGGREST
+PWMEnrich
+rexposome
