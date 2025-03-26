@@ -1078,3 +1078,5 @@ NewWave
 SimFFPE
 TEQC
 VariantExperiment
+GenomicAlignments
+QFeatures
