@@ -1210,7 +1210,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "ExperimentSubset": [],
   "ExpressionAtlas": [],
   "FEAST": [
     "TSCAN"
@@ -3140,7 +3139,6 @@
   "SplineDV": [
     "scuttle"
   ],
-  "SpotClean": [],
   "SpotSweeper": [
     "escheR"
   ],
@@ -4420,10 +4418,7 @@
     "scuttle",
     "BiocSingular"
   ],
-  "cytomapper": [],
-  "cytoviewer": [
-    "cytomapper"
-  ],
+  "cytoviewer": [],
   "dada2": [
     "ShortRead",
     "Rsamtools",
@@ -5284,8 +5279,7 @@
   ],
   "igvShiny": [],
   "imcRtools": [
-    "scuttle",
-    "cytomapper"
+    "scuttle"
   ],
   "immunogenViewer": [
     "UniProt.ws"
@@ -5381,7 +5375,6 @@
   "lisaClust": [
     "spicyR",
     "simpleSeg",
-    "cytomapper",
     "ClassifyR",
     "genefilter",
     "annotate"
@@ -6914,9 +6907,7 @@
   "simPIC": [
     "scuttle"
   ],
-  "simpleSeg": [
-    "cytomapper"
-  ],
+  "simpleSeg": [],
   "simplifyEnrichment": [],
   "singleCellTK": [
     "AnnotationHub",
@@ -6995,7 +6986,6 @@
     "ShortRead"
   ],
   "sosta": [],
-  "spaSim": [],
   "sparrow": [
     "BiocSet",
     "GSEABase",
@@ -7032,7 +7022,6 @@
     "ClassifyR",
     "simpleSeg",
     "genefilter",
-    "cytomapper",
     "annotate"
   ],
   "spiky": [
