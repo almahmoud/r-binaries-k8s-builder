@@ -356,7 +356,6 @@
     "ensembldb"
   ],
   "CoverageView": [],
-  "CrispRVariants": [],
   "CytoGLMM": [],
   "CytoMDS": [
     "CytoPipeline",
@@ -1708,7 +1707,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "biotmle": [],
   "biovizBase": [
     "GenomicFeatures",
     "VariantAnnotation",
