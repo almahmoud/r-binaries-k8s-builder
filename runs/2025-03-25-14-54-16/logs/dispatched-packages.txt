@@ -510,3 +510,4 @@ erccdashboard
 methylMnM
 ppcseq
 tweeDEseq
+SIMD
