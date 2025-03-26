@@ -1425,3 +1425,9 @@ Xeva
 gDRimport
 SVMDO
 enrichplot
+ASICS
+MultiBaC
+biosigner
+lipidr
+phenomis
+rqt

@@ -34,9 +34,7 @@
     "BSgenome"
   ],
   "APL": [],
-  "ASICS": [
-    "ropls"
-  ],
+  "ASICS": [],
   "ASSIGN": [
     "sva",
     "genefilter",
@@ -1316,7 +1314,6 @@
   ],
   "MAGAR": [
     "RnBeads",
-    "crlmm",
     "methylumi",
     "minfi",
     "annotate",
@@ -1529,7 +1526,6 @@
   ],
   "MinimumDistance": [
     "VanillaICE",
-    "crlmm",
     "BSgenome",
     "rtracklayer"
   ],
@@ -1574,9 +1570,7 @@
     "MsExperiment"
   ],
   "MuData": [],
-  "MultiBaC": [
-    "ropls"
-  ],
+  "MultiBaC": [],
   "MultiRNAflow": [],
   "MungeSumstats": [
     "BSgenome",
@@ -1666,7 +1660,6 @@
     "rtracklayer",
     "biomaRt"
   ],
-  "OmaDB": [],
   "OmicCircos": [],
   "OncoScore": [
     "biomaRt"
@@ -2442,7 +2435,6 @@
     "annotate"
   ],
   "VanillaICE": [
-    "crlmm",
     "BSgenome",
     "rtracklayer"
   ],
@@ -2735,9 +2727,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "biosigner": [
-    "ropls"
-  ],
+  "biosigner": [],
   "biotmle": [],
   "biovizBase": [
     "GenomicFeatures",
@@ -3188,7 +3178,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "crlmm": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -3921,9 +3910,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "lipidr": [
-    "ropls"
-  ],
+  "lipidr": [],
   "lisaClust": [
     "spicyR",
     "ClassifyR",
@@ -4485,9 +4472,7 @@
     "GSEABase",
     "genefilter"
   ],
-  "phenomis": [
-    "ropls"
-  ],
+  "phenomis": [],
   "phenopath": [],
   "pipeComp": [
     "scran",
@@ -4752,10 +4737,7 @@
   "roar": [
     "rtracklayer"
   ],
-  "ropls": [],
-  "rqt": [
-    "ropls"
-  ],
+  "rqt": [],
   "rrvgo": [],
   "rsbml": [],
   "rtracklayer": [],
