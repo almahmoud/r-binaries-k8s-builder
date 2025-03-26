@@ -1286,3 +1286,6 @@ DEWSeq
 BiocCheck
 ccfindR
 animalcules
+MLSeq
+MsQuality
+phantasus

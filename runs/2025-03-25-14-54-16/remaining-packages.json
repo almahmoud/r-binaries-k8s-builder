@@ -790,7 +790,6 @@
   ],
   "GARS": [
     "DaMiRseq",
-    "MLSeq",
     "EDASeq",
     "sva",
     "biomaRt",
@@ -1179,7 +1178,6 @@
     "annotate",
     "genefilter"
   ],
-  "MLSeq": [],
   "MMDiff2": [
     "BSgenome"
   ],
@@ -1309,7 +1307,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "MsQuality": [],
   "MuData": [],
   "MungeSumstats": [
     "BSgenome",
@@ -3749,7 +3746,6 @@
   "periodicDNA": [
     "BSgenome"
   ],
-  "phantasus": [],
   "phenoTest": [
     "annotate",
     "Category",
