@@ -33,9 +33,7 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "APL": [
-    "topGO"
-  ],
+  "APL": [],
   "ASICS": [
     "ropls"
   ],
@@ -215,7 +213,6 @@
     "txdbmaker"
   ],
   "BgeeDB": [
-    "topGO",
     "zellkonverter"
   ],
   "BiGGR": [
@@ -432,7 +429,6 @@
     "scater",
     "scuttle"
   ],
-  "CellScore": [],
   "CelliD": [
     "scater",
     "scuttle"
@@ -791,8 +787,6 @@
   ],
   "EGAD": [],
   "EGSEA": [
-    "gage",
-    "topGO",
     "pathview",
     "GSVA",
     "globaltest",
@@ -1005,7 +999,6 @@
   ],
   "GRaNIE": [
     "biomaRt",
-    "topGO",
     "AnnotationHub",
     "ensembldb",
     "GenomicFeatures",
@@ -1058,7 +1051,6 @@
   "GeDi": [
     "GeneTonic",
     "mosdef",
-    "topGO",
     "clusterProfiler",
     "goseq",
     "DOSE",
@@ -1092,7 +1084,6 @@
   ],
   "GeneTonic": [
     "mosdef",
-    "topGO",
     "clusterProfiler",
     "goseq",
     "DOSE",
@@ -1427,7 +1418,6 @@
     "annotate",
     "genefilter"
   ],
-  "MLP": [],
   "MLSeq": [],
   "MMDiff2": [
     "BSgenome",
@@ -1694,9 +1684,7 @@
     "rtracklayer",
     "biomaRt"
   ],
-  "OmaDB": [
-    "topGO"
-  ],
+  "OmaDB": [],
   "OmicCircos": [],
   "OncoScore": [
     "biomaRt"
@@ -1915,7 +1903,6 @@
     "BgeeDB",
     "GenomicFeatures",
     "ensembldb",
-    "topGO",
     "zellkonverter",
     "rtracklayer"
   ],
@@ -2519,8 +2506,7 @@
     "biomaRt"
   ],
   "ViSEAGO": [
-    "biomaRt",
-    "topGO"
+    "biomaRt"
   ],
   "Voyager": [
     "SpatialFeatureExperiment",
@@ -2600,7 +2586,6 @@
     "scuttle"
   ],
   "alabaster": [
-    "alabaster.ranges",
     "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
@@ -2612,35 +2597,27 @@
     "GenomicFeatures"
   ],
   "alabaster.mae": [
-    "alabaster.se",
-    "alabaster.ranges"
+    "alabaster.se"
   ],
-  "alabaster.ranges": [],
   "alabaster.sce": [
-    "alabaster.se",
-    "alabaster.ranges"
+    "alabaster.se"
   ],
-  "alabaster.se": [
-    "alabaster.ranges"
-  ],
+  "alabaster.se": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
     "alabaster.sce",
     "alabaster.spatial",
     "alabaster.se",
     "DropletUtils",
-    "alabaster.ranges",
     "scuttle"
   ],
   "alabaster.spatial": [
     "alabaster.sce",
-    "alabaster.se",
-    "alabaster.ranges"
+    "alabaster.se"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
     "alabaster.se",
-    "alabaster.ranges",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures"
@@ -2941,9 +2918,7 @@
     "scran",
     "scuttle"
   ],
-  "cellity": [
-    "topGO"
-  ],
+  "cellity": [],
   "cfDNAPro": [
     "plyranges",
     "BSgenome",
@@ -3095,7 +3070,6 @@
     "VariantAnnotation"
   ],
   "compEpiTools": [
-    "topGO",
     "GenomicFeatures",
     "methylPipe",
     "rtracklayer",
@@ -3112,9 +3086,7 @@
     "scater",
     "scuttle"
   ],
-  "consICA": [
-    "topGO"
-  ],
+  "consICA": [],
   "consensusDE": [
     "EDASeq",
     "ensembldb",
@@ -3585,9 +3557,7 @@
     "GSVA",
     "annotate"
   ],
-  "esetVis": [
-    "MLP"
-  ],
+  "esetVis": [],
   "extraChIPs": [
     "rtracklayer"
   ],
@@ -3692,7 +3662,6 @@
     "rtracklayer",
     "graphite"
   ],
-  "gage": [],
   "gatom": [],
   "gcapc": [
     "BSgenome",
@@ -3903,7 +3872,6 @@
     "BSgenome"
   ],
   "ideal": [
-    "topGO",
     "mosdef",
     "goseq",
     "GOstats",
@@ -4277,9 +4245,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "moanin": [
-    "topGO"
-  ],
+  "moanin": [],
   "mobileRNA": [
     "rtracklayer"
   ],
@@ -4296,7 +4262,6 @@
   ],
   "mosaics": [],
   "mosdef": [
-    "topGO",
     "clusterProfiler",
     "goseq",
     "DOSE",
@@ -4542,7 +4507,6 @@
   "pcaExplorer": [
     "mosdef",
     "genefilter",
-    "topGO",
     "GOstats",
     "biomaRt",
     "annotate",
@@ -5167,8 +5131,7 @@
     "annotate",
     "M3Drop",
     "alabaster.sce",
-    "genefilter",
-    "alabaster.ranges"
+    "genefilter"
   ],
   "singscore": [
     "GSEABase",
@@ -5308,7 +5271,6 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "switchde": [],
   "synapter": [
     "MSnbase",
     "PSMatch"
@@ -5331,9 +5293,7 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "tRanslatome": [
-    "topGO"
-  ],
+  "tRanslatome": [],
   "tadar": [
     "Gviz",
     "VariantAnnotation",
@@ -5383,7 +5343,6 @@
     "annotate"
   ],
   "tomoda": [],
-  "topGO": [],
   "topdownr": [
     "MSnbase",
     "PSMatch"
@@ -5410,8 +5369,7 @@
     "ShortRead"
   ],
   "transcriptogramer": [
-    "biomaRt",
-    "topGO"
+    "biomaRt"
   ],
   "transformGamPoi": [],
   "transite": [],
@@ -5453,7 +5411,6 @@
     "rtracklayer",
     "biomaRt"
   ],
-  "uSORT": [],
   "uncoverappLib": [
     "Gviz",
     "OrganismDbi",
