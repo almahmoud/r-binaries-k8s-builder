@@ -33,7 +33,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "APL": [],
   "ASSIGN": [
     "sva",
     "genefilter",
@@ -1014,7 +1013,6 @@
     "ensembldb"
   ],
   "GWENA": [],
-  "GateFinder": [],
   "GeDi": [
     "GeneTonic",
     "mosdef",
@@ -3310,7 +3308,6 @@
     "rtracklayer",
     "TFBSTools"
   ],
-  "enrichViewNet": [],
   "ensembldb": [
     "GenomicFeatures",
     "rtracklayer"
@@ -3467,7 +3464,6 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "flowBin": [],
   "flowCut": [
     "flowDensity"
   ],
@@ -4165,7 +4161,6 @@
     "VariantAnnotation",
     "ensembldb"
   ],
-  "multistateQTL": [],
   "mumosa": [
     "scuttle",
     "scran",
@@ -4858,7 +4853,6 @@
     "GenomicFeatures",
     "annotate"
   ],
-  "sigFeature": [],
   "signatureSearch": [
     "ExperimentHub",
     "clusterProfiler",

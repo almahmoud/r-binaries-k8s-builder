@@ -1222,3 +1222,9 @@ goTools
 reconsi
 sangerseqR
 smartid
+APL
+enrichViewNet
+flowBin
+GateFinder
+multistateQTL
+sigFeature
