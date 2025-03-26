@@ -1241,3 +1241,9 @@ flowDensity
 Macarron
 methylscaper
 scMultiSim
+BaalChIP
+BasicSTARRseq
+LimROTS
+nempi
+tidySpatialExperiment
+TIN

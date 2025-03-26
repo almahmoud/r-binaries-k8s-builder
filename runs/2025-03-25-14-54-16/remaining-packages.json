@@ -173,7 +173,6 @@
     "plyranges",
     "rtracklayer"
   ],
-  "BaalChIP": [],
   "BadRegionFinder": [
     "VariantAnnotation",
     "biomaRt",
@@ -186,7 +185,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "BasicSTARRseq": [],
   "BatchQC": [
     "scran",
     "sva",
@@ -1252,7 +1250,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "LimROTS": [],
   "LinTInd": [],
   "LymphoSeq": [],
   "M3Drop": [
@@ -2275,7 +2272,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "TIN": [],
   "TMSig": [
     "GSEABase",
     "annotate"
@@ -4147,7 +4143,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "nempi": [],
   "netSmooth": [
     "scater",
     "clusterExperiment",
@@ -5024,7 +5019,6 @@
   "tidyCoverage": [
     "rtracklayer"
   ],
-  "tidySpatialExperiment": [],
   "tidySummarizedExperiment": [],
   "tidyomics": [
     "tidySummarizedExperiment",
