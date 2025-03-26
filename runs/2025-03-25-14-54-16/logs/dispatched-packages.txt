@@ -1467,3 +1467,16 @@ pathlinkR
 cyanoFilter
 ddPCRclust
 flowCut
+CellBarcode
+ChIPsim
+FastqCleaner
+IONiseR
+OTUbase
+RSVSim
+amplican
+basecallQC
+chipseq
+dada2
+girafe
+nucleR
+systemPipeR

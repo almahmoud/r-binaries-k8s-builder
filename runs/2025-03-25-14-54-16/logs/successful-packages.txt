@@ -1254,3 +1254,7 @@ mosaics
 netboost
 PICB
 TCseq
+hdxmsqc
+ShortRead
+VplotR
+waddR
