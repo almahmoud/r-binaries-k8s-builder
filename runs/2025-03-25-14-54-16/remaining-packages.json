@@ -3146,7 +3146,6 @@
   ],
   "RNAsense": [],
   "ROntoTools": [],
-  "RPA": [],
   "RSVSim": [
     "ShortRead",
     "Rsamtools",
@@ -3687,7 +3686,6 @@
     "ExperimentHub",
     "GenomicAlignments"
   ],
-  "SplicingFactory": [],
   "SplicingGraphs": [
     "GenomicFeatures",
     "GenomicAlignments",
@@ -3922,7 +3920,6 @@
   "TreeSummarizedExperiment": [
     "SingleCellExperiment"
   ],
-  "Trendy": [],
   "UCell": [
     "SingleCellExperiment"
   ],
@@ -7315,7 +7312,6 @@
   ],
   "prebs": [
     "GenomicAlignments",
-    "RPA",
     "Rsamtools"
   ],
   "preciseTAD": [

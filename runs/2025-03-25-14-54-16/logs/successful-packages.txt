@@ -876,3 +876,6 @@ SeqGate
 RCM
 RolDE
 scPCA
+RPA
+SplicingFactory
+Trendy
