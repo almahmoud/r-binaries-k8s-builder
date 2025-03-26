@@ -760,7 +760,6 @@
   ],
   "CONFESS": [
     "flowClust",
-    "flowMeans",
     "flowMerge"
   ],
   "COTAN": [
@@ -3980,7 +3979,6 @@
     "HDF5Array",
     "GenomicAlignments"
   ],
-  "Rarr": [],
   "Rbec": [
     "dada2",
     "ShortRead",
@@ -7188,7 +7186,6 @@
     "RBGL",
     "ncdfFlow"
   ],
-  "flowMeans": [],
   "flowMerge": [
     "flowClust"
   ],
@@ -8923,9 +8920,7 @@
     "ScaledMatrix",
     "beachmat"
   ],
-  "optimalFlow": [
-    "flowMeans"
-  ],
+  "optimalFlow": [],
   "orthogene": [],
   "orthos": [
     "SummarizedExperiment",
