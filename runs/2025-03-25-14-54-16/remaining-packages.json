@@ -326,7 +326,6 @@
     "SGSeq",
     "GenomicFeatures"
   ],
-  "CiteFuse": [],
   "ClassifyR": [
     "genefilter"
   ],
@@ -1543,7 +1542,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "VegaMC": [],
   "ViSEAGO": [],
   "Voyager": [
     "SpatialFeatureExperiment"
@@ -2163,7 +2161,6 @@
     "GSEABase",
     "TFBSTools"
   ],
-  "epiregulon.extra": [],
   "epivizr": [
     "epivizrData",
     "bumphunter",
@@ -2291,7 +2288,6 @@
   "gep2pep": [
     "GSEABase"
   ],
-  "gg4way": [],
   "ggbio": [
     "biovizBase",
     "VariantAnnotation",
@@ -2474,7 +2470,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "maaslin3": [],
   "made4": [],
   "magpie": [
     "GenomicFeatures",
