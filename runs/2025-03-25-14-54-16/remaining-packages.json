@@ -7,7 +7,6 @@
   "ADAMgui": [
     "ADAM"
   ],
-  "ADImpute": [],
   "ADaCGH2": [
     "tilingArray",
     "genefilter",
@@ -443,11 +442,9 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "CHETAH": [],
   "CHRONOS": [
     "biomaRt"
   ],
-  "CINdex": [],
   "CNEr": [
     "rtracklayer",
     "GenomicAlignments",
@@ -585,7 +582,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "CellBench": [],
   "CellMixS": [
     "scater",
     "scuttle",
@@ -1088,7 +1084,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "EDIRquery": [],
   "EGAD": [
     "GEOquery"
   ],

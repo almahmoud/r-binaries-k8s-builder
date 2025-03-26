@@ -915,3 +915,8 @@ BREW3R.r
 HiCBricks
 PIUMA
 runibic
+ADImpute
+CellBench
+CHETAH
+CINdex
+EDIRquery
