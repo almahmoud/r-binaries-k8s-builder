@@ -1005,3 +1005,7 @@ FuseSOM
 divergence
 miQC
 stJoincount
+apeglm
+bettr
+padma
+sccomp

@@ -636,7 +636,6 @@
     "ShortRead",
     "systemPipeR",
     "DESeq2",
-    "apeglm",
     "GreyListChIP",
     "rtracklayer",
     "BSgenome"
@@ -1006,7 +1005,6 @@
     "systemPipeR",
     "Rsamtools",
     "DESeq2",
-    "apeglm",
     "GreyListChIP",
     "BSgenome",
     "rtracklayer",
@@ -1115,8 +1113,7 @@
     "GenomicAlignments"
   ],
   "ERSSA": [
-    "DESeq2",
-    "apeglm"
+    "DESeq2"
   ],
   "EWCE": [
     "ExperimentHub",
@@ -2853,7 +2850,6 @@
   ],
   "Rmmquant": [
     "DESeq2",
-    "apeglm",
     "Rsamtools",
     "GenomicFeatures",
     "rtracklayer",
@@ -3199,7 +3195,6 @@
     "GOSemSim"
   ],
   "TEKRABber": [
-    "apeglm",
     "biomaRt",
     "DESeq2",
     "rtracklayer",
@@ -3515,7 +3510,6 @@
   "affylmGUI": [],
   "airpart": [
     "scater",
-    "apeglm",
     "scuttle",
     "BiocSingular"
   ],
@@ -3608,7 +3602,6 @@
     "DESeq2"
   ],
   "apComplex": [],
-  "apeglm": [],
   "appreci8R": [
     "VariantAnnotation",
     "BSgenome",
@@ -3721,7 +3714,6 @@
     "annotate"
   ],
   "betaHMM": [],
-  "bettr": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -4450,7 +4442,6 @@
     "sva",
     "enrichplot",
     "pathview",
-    "apeglm",
     "GOSemSim",
     "genefilter"
   ],
@@ -6029,7 +6020,6 @@
     "AnnotationFilter"
   ],
   "packFinder": [],
-  "padma": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools",
@@ -6110,8 +6100,7 @@
   "pgxRpi": [],
   "phantasus": [
     "GEOquery",
-    "DESeq2",
-    "apeglm"
+    "DESeq2"
   ],
   "phenoTest": [
     "annotate",
@@ -6688,7 +6677,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "sccomp": [],
   "scds": [],
   "schex": [],
   "scifer": [
@@ -7351,7 +7339,6 @@
     "universalmotif",
     "ensembldb",
     "systemPipeR",
-    "apeglm",
     "GreyListChIP",
     "AnnotationFilter",
     "BSgenome",
