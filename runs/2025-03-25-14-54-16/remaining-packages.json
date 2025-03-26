@@ -24929,7 +24929,6 @@
     "BiocGenerics",
     "S4Vectors"
   ],
-  "ndexr": [],
   "nearBynding": [
     "plyranges",
     "Rsamtools",
