@@ -1802,7 +1802,6 @@
   ],
   "ccImpute": [],
   "celaref": [],
-  "celda": [],
   "cfDNAPro": [
     "plyranges"
   ],
@@ -2031,9 +2030,7 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "decontX": [
-    "celda"
-  ],
+  "decontX": [],
   "deconvR": [
     "minfi",
     "bumphunter",
@@ -2866,7 +2863,6 @@
   "raer": [
     "GenomicFeatures"
   ],
-  "ramwas": [],
   "recount": [
     "derfinder",
     "bumphunter",
@@ -3089,7 +3085,6 @@
     "GSVA",
     "scMerge",
     "sva",
-    "celda",
     "GSEABase",
     "zinbwave",
     "TSCAN",
@@ -3241,7 +3236,6 @@
     "chipseq",
     "GenomicFeatures"
   ],
-  "transcriptogramer": [],
   "transformGamPoi": [],
   "transite": [],
   "transmogR": [

@@ -1432,3 +1432,6 @@ oposSOM
 CAEN
 easyRNASeq
 seq2pathway
+celda
+ramwas
+transcriptogramer
