@@ -1282,3 +1282,4 @@ apComplex
 MultiRNAflow
 multiHiCcompare
 RTNduals
+DEWSeq

@@ -542,7 +542,6 @@
     "scater",
     "scuttle"
   ],
-  "DEWSeq": [],
   "DEXSeq": [
     "biomaRt",
     "geneplotter",
