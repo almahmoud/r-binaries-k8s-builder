@@ -8116,9 +8116,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "NormqPCR": [
-    "ReadqPCR"
-  ],
+  "NormqPCR": [],
   "OGRE": [
     "S4Vectors",
     "GenomicRanges",
@@ -9355,7 +9353,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "RIVER": [],
   "RJMCMCNucleosomes": [
     "IRanges",
     "GenomicRanges",
@@ -9869,7 +9866,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "ReadqPCR": [],
   "ReducedExperiment": [
     "SummarizedExperiment",
     "clusterProfiler",
@@ -10140,7 +10136,6 @@
     "SparseArray",
     "biomaRt"
   ],
-  "Rmagpie": [],
   "Rmmquant": [
     "S4Vectors",
     "GenomicRanges",
@@ -10650,7 +10645,6 @@
     "S4Arrays",
     "h5mread"
   ],
-  "SPEM": [],
   "SPIA": [
     "KEGGgraph",
     "graph",
@@ -11893,9 +11887,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "TMixClust": [
-    "SPEM"
-  ],
+  "TMixClust": [],
   "TOAST": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -20596,7 +20588,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "mosbi": [],
   "mosdef": [
     "AnnotationDbi",
     "topGO",

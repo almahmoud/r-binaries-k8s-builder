@@ -634,3 +634,5 @@ CGHnormaliter
 Maaslin2
 mbQTL
 metaSeq
+NormqPCR
+TMixClust

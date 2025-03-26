@@ -522,3 +522,8 @@ mfa
 NanoStringDiff
 PLPE
 RTCA
+mosbi
+ReadqPCR
+RIVER
+Rmagpie
+SPEM
