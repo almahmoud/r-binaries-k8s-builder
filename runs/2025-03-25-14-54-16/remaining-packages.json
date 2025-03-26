@@ -442,7 +442,6 @@
     "flowMerge"
   ],
   "COTAN": [],
-  "CPSM": [],
   "CRISPRball": [
     "PCAtools"
   ],
@@ -1911,7 +1910,6 @@
     "rtracklayer",
     "trackViewer",
     "ATACseqQC",
-    "csaw",
     "BSgenome",
     "ChIPpeakAnno",
     "GenomicScores",
@@ -3796,7 +3794,6 @@
   "crlmm": [
     "oligoClasses"
   ],
-  "csaw": [],
   "csdR": [],
   "cummeRbund": [
     "rtracklayer",
@@ -3942,7 +3939,6 @@
   ],
   "diffHic": [
     "BSgenome",
-    "csaw",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -4057,7 +4053,6 @@
   ],
   "epigraHMM": [
     "rtracklayer",
-    "csaw",
     "GreyListChIP",
     "GenomicAlignments",
     "BSgenome"
@@ -4183,7 +4178,6 @@
     "MLP"
   ],
   "extraChIPs": [
-    "csaw",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -4554,7 +4548,6 @@
     "GenomicAlignments",
     "rtracklayer",
     "VariantAnnotation",
-    "csaw",
     "DESeq2",
     "BSgenome"
   ],
@@ -6426,7 +6419,6 @@
   "vulcan": [
     "ChIPpeakAnno",
     "DiffBind",
-    "csaw",
     "DESeq2",
     "GenomicAlignments",
     "GenomicFeatures",
