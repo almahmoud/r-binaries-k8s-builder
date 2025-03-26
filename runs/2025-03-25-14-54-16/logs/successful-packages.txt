@@ -346,3 +346,4 @@ CNAnorm
 assorthead
 epivizrServer
 RCX
+BiocNeighbors
