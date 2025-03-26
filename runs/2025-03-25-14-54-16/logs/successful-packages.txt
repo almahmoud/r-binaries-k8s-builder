@@ -1422,3 +1422,6 @@ cmapR
 goSTAG
 rTRM
 zitools
+chromPlot
+crisprBowtie
+TEKRABber

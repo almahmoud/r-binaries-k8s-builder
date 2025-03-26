@@ -1442,7 +1442,6 @@
     "GenomicDataCommons"
   ],
   "TDbasedUFEadv": [],
-  "TEKRABber": [],
   "TENET": [
     "TCGAbiolinks",
     "sesame",
@@ -1845,7 +1844,6 @@
   ],
   "chipseq": [],
   "chopsticks": [],
-  "chromPlot": [],
   "chromVAR": [
     "TFBSTools"
   ],
@@ -1944,10 +1942,8 @@
     "GenomicFeatures",
     "GSEABase"
   ],
-  "crisprBowtie": [],
   "crisprBwa": [],
   "crisprDesign": [
-    "crisprBowtie",
     "crisprScore",
     "GenomicFeatures",
     "txdbmaker",
@@ -1963,7 +1959,6 @@
     "crisprDesign",
     "crisprScore",
     "crisprViz",
-    "crisprBowtie",
     "GenomicFeatures",
     "txdbmaker",
     "VariantAnnotation",
@@ -1974,7 +1969,6 @@
     "biovizBase"
   ],
   "crisprVerse": [
-    "crisprBowtie",
     "crisprScore",
     "crisprDesign",
     "crisprViz",
@@ -1992,7 +1986,6 @@
     "GenomicFeatures",
     "Gviz",
     "txdbmaker",
-    "crisprBowtie",
     "crisprScore",
     "VariantAnnotation",
     "ensembldb",
