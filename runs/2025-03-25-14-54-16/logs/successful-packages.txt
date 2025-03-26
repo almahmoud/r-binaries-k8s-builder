@@ -991,3 +991,6 @@ scmap
 smoothclust
 sosta
 SVP
+concordexR
+missRows
+smoppix

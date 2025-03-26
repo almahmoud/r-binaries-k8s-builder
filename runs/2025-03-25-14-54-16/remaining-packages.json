@@ -4187,7 +4187,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "concordexR": [],
   "condiments": [
     "slingshot",
     "distinct",
@@ -5712,7 +5711,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "missRows": [],
   "mist": [
     "rtracklayer",
     "Rsamtools",
@@ -6963,7 +6961,6 @@
   ],
   "slingshot": [],
   "smartid": [],
-  "smoppix": [],
   "snapcount": [],
   "soGGi": [
     "Rsamtools",
