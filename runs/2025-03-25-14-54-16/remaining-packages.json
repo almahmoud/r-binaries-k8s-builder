@@ -1229,14 +1229,11 @@
     "biomaRt"
   ],
   "ExperimentSubset": [
-    "SpatialExperiment",
-    "TreeSummarizedExperiment"
+    "SpatialExperiment"
   ],
   "ExpressionAtlas": [],
   "FEAST": [
-    "TSCAN",
-    "SC3",
-    "TrajectoryUtils"
+    "TSCAN"
   ],
   "FLAMES": [
     "bambu",
@@ -1679,9 +1676,7 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "HoloFoodR": [
-    "TreeSummarizedExperiment"
-  ],
+  "HoloFoodR": [],
   "HybridExpress": [
     "DESeq2"
   ],
@@ -1930,7 +1925,6 @@
     "annotate"
   ],
   "MGnifyR": [
-    "TreeSummarizedExperiment",
     "mia",
     "scater",
     "scuttle",
@@ -2409,9 +2403,7 @@
     "AnnotationFilter"
   ],
   "PIPETS": [],
-  "PLSDAbatch": [
-    "TreeSummarizedExperiment"
-  ],
+  "PLSDAbatch": [],
   "POMA": [
     "DESeq2",
     "sva",
@@ -2954,7 +2946,6 @@
   "SBGNview": [
     "pathview"
   ],
-  "SC3": [],
   "SCAN.UPC": [
     "oligo",
     "GEOquery",
@@ -3342,9 +3333,7 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "TSCAN": [
-    "TrajectoryUtils"
-  ],
+  "TSCAN": [],
   "TVTB": [
     "AnnotationFilter",
     "ensembldb",
@@ -3372,8 +3361,6 @@
   ],
   "TnT": [],
   "ToxicoGx": [],
-  "TrajectoryUtils": [],
-  "TreeSummarizedExperiment": [],
   "UCell": [],
   "UMI4Cats": [
     "ShortRead",
@@ -3803,7 +3790,6 @@
     "PhIPData"
   ],
   "benchdamic": [
-    "TreeSummarizedExperiment",
     "zinbwave",
     "DESeq2",
     "MAST",
@@ -4288,7 +4274,6 @@
   ],
   "condiments": [
     "slingshot",
-    "TrajectoryUtils",
     "distinct",
     "scater",
     "scuttle",
@@ -4544,7 +4529,6 @@
   ],
   "dar": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle",
     "BiocSingular"
@@ -5356,7 +5340,6 @@
     "iSEE",
     "miaViz",
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle",
     "BiocSingular"
@@ -5494,7 +5477,6 @@
   ],
   "lefser": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle",
     "BiocSingular"
@@ -5569,9 +5551,7 @@
     "txdbmaker"
   ],
   "maPredictDSC": [],
-  "maaslin3": [
-    "TreeSummarizedExperiment"
-  ],
+  "maaslin3": [],
   "made4": [],
   "magpie": [
     "rtracklayer",
@@ -5816,24 +5796,18 @@
     "biomaRt"
   ],
   "mia": [
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle",
     "BiocSingular"
   ],
-  "miaSim": [
-    "TreeSummarizedExperiment"
-  ],
+  "miaSim": [],
   "miaViz": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle",
     "BiocSingular"
   ],
-  "microSTASIS": [
-    "TreeSummarizedExperiment"
-  ],
+  "microSTASIS": [],
   "microbiome": [],
   "microbiomeDASim": [],
   "microbiomeExplorer": [
@@ -6809,8 +6783,7 @@
     "Rsamtools",
     "rtracklayer",
     "slingshot",
-    "GenomicAlignments",
-    "TrajectoryUtils"
+    "GenomicAlignments"
   ],
   "scReClassify": [],
   "scRepertoire": [],
@@ -7095,7 +7068,6 @@
     "zinbwave",
     "scDblFinder",
     "TSCAN",
-    "TrajectoryUtils",
     "scuttle",
     "zellkonverter",
     "BiocSingular",
@@ -7143,9 +7115,7 @@
     "GSEABase",
     "annotate"
   ],
-  "slingshot": [
-    "TrajectoryUtils"
-  ],
+  "slingshot": [],
   "smartid": [],
   "smoothclust": [
     "SpatialExperiment"
@@ -7445,8 +7415,7 @@
     "Rsamtools"
   ],
   "tradeSeq": [
-    "slingshot",
-    "TrajectoryUtils"
+    "slingshot"
   ],
   "transcriptR": [
     "chipseq",
@@ -7479,7 +7448,6 @@
     "GenomicAlignments"
   ],
   "treeclimbR": [
-    "TreeSummarizedExperiment",
     "diffcyt"
   ],
   "treekoR": [

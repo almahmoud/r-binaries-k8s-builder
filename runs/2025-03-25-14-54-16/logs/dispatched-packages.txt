@@ -1260,3 +1260,10 @@ multiHiCcompare
 tRNAdbImport
 HiContacts
 HiCool
+HoloFoodR
+PLSDAbatch
+TSCAN
+maaslin3
+miaSim
+microSTASIS
+slingshot

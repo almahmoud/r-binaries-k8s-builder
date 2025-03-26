@@ -937,3 +937,6 @@ autonomics
 ILoReg
 SiPSiC
 RCSL
+SC3
+TrajectoryUtils
+TreeSummarizedExperiment
