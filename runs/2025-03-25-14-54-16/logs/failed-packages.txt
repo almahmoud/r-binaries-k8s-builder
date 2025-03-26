@@ -6,3 +6,4 @@ cisPath
 chopsticks
 CytoGLMM
 gpuMagic
+hypeR

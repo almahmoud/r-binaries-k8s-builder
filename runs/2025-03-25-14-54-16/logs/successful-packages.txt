@@ -607,3 +607,13 @@ pvca
 fgsea
 frmaTools
 Doscheda
+BAGS
+ExploreModelMatrix
+hypergraph
+iPath
+metapone
+rawDiag
+RBioinf
+rbsurv
+RCyjs
+Rtreemix

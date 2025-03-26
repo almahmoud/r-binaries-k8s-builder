@@ -504,7 +504,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "BAGS": [],
   "BANDITS": [
     "DRIMSeq",
     "GenomicRanges",
@@ -939,7 +938,6 @@
   "BiGGR": [
     "rsbml",
     "hyperdraw",
-    "hypergraph",
     "Rgraphviz"
   ],
   "BiSeq": [
@@ -3736,7 +3734,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "ExploreModelMatrix": [],
   "ExpressionAtlas": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -4945,7 +4942,6 @@
   "Harshlight": [
     "altcdfenvs",
     "Biostrings",
-    "hypergraph",
     "IRanges",
     "XVector",
     "GenomeInfoDb",
@@ -8206,7 +8202,6 @@
   "RBioFormats": [
     "EBImage"
   ],
-  "RBioinf": [],
   "RCAS": [
     "GenomicRanges",
     "IRanges",
@@ -8251,7 +8246,6 @@
     "UCSC.utils"
   ],
   "RCy3": [],
-  "RCyjs": [],
   "REBET": [],
   "REDseq": [
     "Biostrings",
@@ -9177,7 +9171,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "Rtreemix": [],
   "S4Arrays": [
     "IRanges"
   ],
@@ -11722,7 +11715,6 @@
   ],
   "altcdfenvs": [
     "Biostrings",
-    "hypergraph",
     "IRanges",
     "XVector",
     "GenomeInfoDb",
@@ -16543,10 +16535,8 @@
   ],
   "hypeR": [],
   "hyperdraw": [
-    "hypergraph",
     "Rgraphviz"
   ],
-  "hypergraph": [],
   "iCNV": [
     "CODEX",
     "Rsamtools",
@@ -16631,7 +16621,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "iPath": [],
   "iSEE": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -17667,7 +17656,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "metapone": [],
   "metaseqR2": [
     "DESeq2",
     "biomaRt",
@@ -20509,8 +20497,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "rawDiag": [],
-  "rbsurv": [],
   "rebook": [],
   "receptLoss": [
     "SummarizedExperiment",
