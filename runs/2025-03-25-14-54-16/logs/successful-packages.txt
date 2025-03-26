@@ -1009,3 +1009,10 @@ apeglm
 bettr
 padma
 sccomp
+BUScorrect
+findIPs
+GMRP
+OVESEG
+scds
+vsclust
+xcore

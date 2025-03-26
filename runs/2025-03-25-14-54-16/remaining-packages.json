@@ -226,7 +226,6 @@
     "GenomicAlignments"
   ],
   "BUMHMM": [],
-  "BUScorrect": [],
   "BUSpaRse": [
     "AnnotationFilter",
     "biomaRt",
@@ -1317,7 +1316,6 @@
     "annotate"
   ],
   "GEOquery": [],
-  "GMRP": [],
   "GNET2": [],
   "GNOSIS": [
     "cBioPortalData",
@@ -2294,7 +2292,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "OVESEG": [],
   "OmaDB": [
     "topGO"
   ],
@@ -4855,7 +4852,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "findIPs": [],
   "fishpond": [],
   "flagme": [
     "xcms",
@@ -6677,7 +6673,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "scds": [],
   "schex": [],
   "scifer": [
     "sangerseqR"
@@ -6885,7 +6880,6 @@
     "sva",
     "celda",
     "DropletUtils",
-    "scds",
     "GSEABase",
     "zinbwave",
     "scDblFinder",
@@ -7314,7 +7308,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "vsclust": [],
   "vtpnet": [
     "gwascat",
     "GenomicFeatures",
@@ -7388,7 +7381,6 @@
     "PSMatch",
     "AnnotationFilter"
   ],
-  "xcore": [],
   "xenLite": [],
   "yamss": [],
   "yarn": [
