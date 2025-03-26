@@ -1195,3 +1195,8 @@ tRanslatome
 lipidr
 methyLImp2
 tidybulk
+enrichplot
+fishpond
+odseq
+PepSetTest
+tidySingleCellExperiment
