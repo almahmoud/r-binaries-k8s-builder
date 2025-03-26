@@ -1,2 +1,2 @@
-TDbasedUFEadv
-coseq
+crisprBowtie
+crisprBwa

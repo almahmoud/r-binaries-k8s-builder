@@ -576,7 +576,6 @@
     "txdbmaker"
   ],
   "FastqCleaner": [],
-  "FeatSeekR": [],
   "FindIT2": [
     "GenomicFeatures"
   ],
@@ -774,7 +773,6 @@
     "CAMERA",
     "MSnbase"
   ],
-  "ITALICS": [],
   "IVAS": [
     "GenomicFeatures"
   ],
@@ -1952,15 +1950,9 @@
     "GenomicFeatures",
     "GSEABase"
   ],
-  "crisprBase": [],
-  "crisprBowtie": [
-    "crisprBase"
-  ],
-  "crisprBwa": [
-    "crisprBase"
-  ],
+  "crisprBowtie": [],
+  "crisprBwa": [],
   "crisprDesign": [
-    "crisprBase",
     "crisprBowtie",
     "crisprScore",
     "GenomicFeatures",
@@ -1974,7 +1966,6 @@
     "AnnotationHub"
   ],
   "crisprShiny": [
-    "crisprBase",
     "crisprDesign",
     "crisprScore",
     "crisprViz",
@@ -1989,7 +1980,6 @@
     "biovizBase"
   ],
   "crisprVerse": [
-    "crisprBase",
     "crisprBowtie",
     "crisprScore",
     "crisprDesign",
@@ -2004,7 +1994,6 @@
     "biovizBase"
   ],
   "crisprViz": [
-    "crisprBase",
     "crisprDesign",
     "GenomicFeatures",
     "Gviz",
@@ -2050,7 +2039,6 @@
   ],
   "dce": [],
   "ddPCRclust": [],
-  "debCAM": [],
   "debrowser": [
     "sva",
     "pathview",
@@ -3363,7 +3351,6 @@
     "annaffy"
   ],
   "wiggleplotr": [],
-  "wpm": [],
   "xCell2": [
     "singscore",
     "AnnotationHub",

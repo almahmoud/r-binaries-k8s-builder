@@ -1679,3 +1679,5 @@ terapadog
 transcriptogramer
 TDbasedUFEadv
 coseq
+crisprBowtie
+crisprBwa

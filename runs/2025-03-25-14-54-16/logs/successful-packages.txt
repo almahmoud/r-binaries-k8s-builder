@@ -1402,3 +1402,8 @@ miRNAtap
 motifTestR
 mspms
 TDbasedUFE
+crisprBase
+debCAM
+FeatSeekR
+ITALICS
+wpm
