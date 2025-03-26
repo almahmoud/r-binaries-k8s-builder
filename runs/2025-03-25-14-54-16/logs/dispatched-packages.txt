@@ -1677,3 +1677,5 @@ seq2pathway
 surfaltr
 terapadog
 transcriptogramer
+TDbasedUFEadv
+coseq

@@ -1397,3 +1397,8 @@ Motif2Site
 biomaRt
 memes
 scReClassify
+HTSFilter
+miRNAtap
+motifTestR
+mspms
+TDbasedUFE

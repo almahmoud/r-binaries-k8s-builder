@@ -733,7 +733,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HTSFilter": [],
   "HarmonizR": [
     "sva",
     "genefilter"
@@ -1447,10 +1446,7 @@
     "GenomicFeatures",
     "GenomicDataCommons"
   ],
-  "TDbasedUFE": [],
-  "TDbasedUFEadv": [
-    "TDbasedUFE"
-  ],
+  "TDbasedUFEadv": [],
   "TEKRABber": [],
   "TENET": [
     "TCGAbiolinks",
@@ -1938,9 +1934,7 @@
     "GenomicFeatures"
   ],
   "corral": [],
-  "coseq": [
-    "HTSFilter"
-  ],
+  "coseq": [],
   "cosmiq": [
     "xcms",
     "MSnbase"
@@ -2598,7 +2592,6 @@
     "genefilter"
   ],
   "miRNAmeConverter": [],
-  "miRNAtap": [],
   "miRSM": [
     "BicARE",
     "GSEABase",
@@ -2651,7 +2644,6 @@
   "motifStack": [
     "TFBSTools"
   ],
-  "motifTestR": [],
   "motifbreakR": [
     "MotifDb",
     "VariantAnnotation",
@@ -2682,7 +2674,6 @@
     "MSnbase",
     "msmsEDA"
   ],
-  "mspms": [],
   "multiGSEA": [
     "AnnotationHub"
   ],
