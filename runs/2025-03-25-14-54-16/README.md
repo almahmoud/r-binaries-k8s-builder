@@ -4,22 +4,24 @@
 
 ## Summary
 
-- 182 packages built successfully
+- 185 packages built successfully
 - 1 packages failed to build
-- 2098 packages not yet processed
+- 2095 packages not yet processed
 
 ## Failed Builds (1)
 | Package                                                                | Status   | Log                               | BBS Status                                                             | Failure Reasons               |
 |------------------------------------------------------------------------|----------|-----------------------------------|------------------------------------------------------------------------|-------------------------------|
 | [genoCN](https://bioconductor.org/packages/3.21/bioc/html/genoCN.html) | Failed   | [Log](logs/genoCN/build-fail.log) | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/genoCN) | Compilation failed:  ‘genoCN’ |
 
-## Successfully Built (182)
+## Successfully Built (185)
 | Package                                                                                              | Status   | Log                                                 | BBS Status                                                                         |
 |------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------|------------------------------------------------------------------------------------|
 | [AnVIL](https://bioconductor.org/packages/3.21/bioc/html/AnVIL.html)                                 | Built    | [Log](logs/AnVIL/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/AnVIL)                 |
 | [AnVILAz](https://bioconductor.org/packages/3.21/bioc/html/AnVILAz.html)                             | Built    | [Log](logs/AnVILAz/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/AnVILAz)               |
 | [AnVILBase](https://bioconductor.org/packages/3.21/bioc/html/AnVILBase.html)                         | Built    | [Log](logs/AnVILBase/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/AnVILBase)             |
 | [AnVILGCP](https://bioconductor.org/packages/3.21/bioc/html/AnVILGCP.html)                           | Built    | [Log](logs/AnVILGCP/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/AnVILGCP)              |
+| [AnVILPublish](https://bioconductor.org/packages/3.21/bioc/html/AnVILPublish.html)                   | Built    | [Log](logs/AnVILPublish/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/AnVILPublish)          |
+| [AnVILWorkflow](https://bioconductor.org/packages/3.21/bioc/html/AnVILWorkflow.html)                 | Built    | [Log](logs/AnVILWorkflow/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/AnVILWorkflow)         |
 | [BADER](https://bioconductor.org/packages/3.21/bioc/html/BADER.html)                                 | Built    | [Log](logs/BADER/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/BADER)                 |
 | [BUS](https://bioconductor.org/packages/3.21/bioc/html/BUS.html)                                     | Built    | [Log](logs/BUS/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/BUS)                   |
 | [BiocBaseUtils](https://bioconductor.org/packages/3.21/bioc/html/BiocBaseUtils.html)                 | Built    | [Log](logs/BiocBaseUtils/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/BiocBaseUtils)         |
@@ -107,6 +109,7 @@
 | [SpaceMarkers](https://bioconductor.org/packages/3.21/bioc/html/SpaceMarkers.html)                   | Built    | [Log](logs/SpaceMarkers/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/SpaceMarkers)          |
 | [TSAR](https://bioconductor.org/packages/3.21/bioc/html/TSAR.html)                                   | Built    | [Log](logs/TSAR/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/TSAR)                  |
 | [VennDetail](https://bioconductor.org/packages/3.21/bioc/html/VennDetail.html)                       | Built    | [Log](logs/VennDetail/build-success.log)            | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/VennDetail)         |
+| [affyio](https://bioconductor.org/packages/3.21/bioc/html/affyio.html)                               | Built    | [Log](logs/affyio/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/affyio)                |
 | [aroma.light](https://bioconductor.org/packages/3.21/bioc/html/aroma.light.html)                     | Built    | [Log](logs/aroma.light/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/aroma.light)           |
 | [banocc](https://bioconductor.org/packages/3.21/bioc/html/banocc.html)                               | Built    | [Log](logs/banocc/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/banocc)                |
 | [cellmigRation](https://bioconductor.org/packages/3.21/bioc/html/cellmigRation.html)                 | Built    | [Log](logs/cellmigRation/build-success.log)         | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/cellmigRation)         |
@@ -199,7 +202,7 @@
 | [weaver](https://bioconductor.org/packages/3.21/bioc/html/weaver.html)                               | Built    | [Log](logs/weaver/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/weaver)                |
 | [widgetTools](https://bioconductor.org/packages/3.21/bioc/html/widgetTools.html)                     | Built    | [Log](logs/widgetTools/build-success.log)           | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/widgetTools)           |
 
-## Not Yet Processed (2098)
+## Not Yet Processed (2095)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ABSSeq](https://bioconductor.org/packages/3.21/bioc/html/ABSSeq.html)                                           | Unprocessed |
@@ -242,8 +245,6 @@
 | [AlphaMissenseR](https://bioconductor.org/packages/3.21/bioc/html/AlphaMissenseR.html)                           | Unprocessed |
 | [AlpsNMR](https://bioconductor.org/packages/3.21/bioc/html/AlpsNMR.html)                                         | Unprocessed |
 | [AnVILBilling](https://bioconductor.org/packages/3.21/bioc/html/AnVILBilling.html)                               | Unprocessed |
-| [AnVILPublish](https://bioconductor.org/packages/3.21/bioc/html/AnVILPublish.html)                               | Unprocessed |
-| [AnVILWorkflow](https://bioconductor.org/packages/3.21/bioc/html/AnVILWorkflow.html)                             | Unprocessed |
 | [Anaquin](https://bioconductor.org/packages/3.21/bioc/html/Anaquin.html)                                         | Unprocessed |
 | [AneuFinder](https://bioconductor.org/packages/3.21/bioc/html/AneuFinder.html)                                   | Unprocessed |
 | [AnnotationDbi](https://bioconductor.org/packages/3.21/bioc/html/AnnotationDbi.html)                             | Unprocessed |
@@ -1224,7 +1225,6 @@
 | [affyPLM](https://bioconductor.org/packages/3.21/bioc/html/affyPLM.html)                                         | Unprocessed |
 | [affycomp](https://bioconductor.org/packages/3.21/bioc/html/affycomp.html)                                       | Unprocessed |
 | [affycoretools](https://bioconductor.org/packages/3.21/bioc/html/affycoretools.html)                             | Unprocessed |
-| [affyio](https://bioconductor.org/packages/3.21/bioc/html/affyio.html)                                           | Unprocessed |
 | [affylmGUI](https://bioconductor.org/packages/3.21/bioc/html/affylmGUI.html)                                     | Unprocessed |
 | [aggregateBioVar](https://bioconductor.org/packages/3.21/bioc/html/aggregateBioVar.html)                         | Unprocessed |
 | [agilp](https://bioconductor.org/packages/3.21/bioc/html/agilp.html)                                             | Unprocessed |
