@@ -8198,7 +8198,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "coRdon": [],
   "codelink": [
     "annotate",
     "AnnotationDbi"
