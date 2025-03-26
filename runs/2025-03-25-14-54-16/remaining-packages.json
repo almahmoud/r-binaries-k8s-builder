@@ -293,7 +293,6 @@
     "AnnotationHub",
     "ExperimentHub"
   ],
-  "BiocPkgTools": [],
   "BiocSet": [],
   "BloodGen3Module": [
     "ExperimentHub",
@@ -666,7 +665,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "CompoundDb": [],
   "CopyNumberPlots": [
     "karyoploteR",
     "regioneR",
@@ -1769,8 +1767,7 @@
   ],
   "MetaboAnnotation": [
     "QFeatures",
-    "AnnotationHub",
-    "CompoundDb"
+    "AnnotationHub"
   ],
   "MetaboSignal": [
     "hpar",
@@ -2584,7 +2581,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SICtools": [],
   "SIM": [
     "globaltest",
     "annotate"
