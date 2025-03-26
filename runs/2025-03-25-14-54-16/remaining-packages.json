@@ -8735,7 +8735,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RVS": [],
   "RadioGx": [
     "CoreGx",
     "SummarizedExperiment",
