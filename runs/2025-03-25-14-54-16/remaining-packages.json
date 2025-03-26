@@ -481,9 +481,7 @@
     "AnnotationFilter",
     "SparseArray"
   ],
-  "AlpsNMR": [
-    "mixOmics"
-  ],
+  "AlpsNMR": [],
   "Anaquin": [
     "DESeq2",
     "S4Vectors",
@@ -1968,7 +1966,6 @@
     "flowClust",
     "flowMeans",
     "flowMerge",
-    "flowPeaks",
     "Biobase",
     "graph",
     "S4Vectors",
@@ -2649,7 +2646,6 @@
     "SparseArray"
   ],
   "ChemmineOB": [],
-  "ChemmineR": [],
   "ChromHeatMap": [
     "annotate",
     "AnnotationDbi",
@@ -2825,7 +2821,6 @@
     "IRanges",
     "S4Vectors"
   ],
-  "ClustIRR": [],
   "ClusterFoldSimilarity": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -2910,7 +2905,6 @@
   "CompoundDb": [
     "AnnotationFilter",
     "S4Vectors",
-    "ChemmineR",
     "Biobase",
     "IRanges",
     "Spectra",
@@ -3771,9 +3765,7 @@
     "h5mread",
     "XVector"
   ],
-  "DepecheR": [
-    "mixOmics"
-  ],
+  "DepecheR": [],
   "DiffBind": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -6594,7 +6586,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "KinSwingR": [],
   "KnowSeq": [
     "sva",
     "genefilter",
@@ -7739,9 +7730,7 @@
     "IRanges",
     "MetaboCoreUtils"
   ],
-  "MetID": [
-    "ChemmineR"
-  ],
+  "MetID": [],
   "MetMashR": [
     "struct",
     "SummarizedExperiment",
@@ -7821,7 +7810,6 @@
     "BiocVersion",
     "AnnotationDbi",
     "AnnotationFilter",
-    "ChemmineR",
     "Biobase",
     "IRanges",
     "MultiAssayExperiment",
@@ -9194,7 +9182,6 @@
     "Biobase"
   ],
   "PLSDAbatch": [
-    "mixOmics",
     "Biobase",
     "TreeSummarizedExperiment",
     "SingleCellExperiment",
@@ -9214,7 +9201,6 @@
     "ComplexHeatmap",
     "DESeq2",
     "fgsea",
-    "mixOmics",
     "SummarizedExperiment",
     "sva",
     "IRanges",
@@ -9307,7 +9293,6 @@
     "pcaMethods",
     "DESeq2",
     "fgsea",
-    "mixOmics",
     "sva",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -9325,7 +9310,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "PROPER": [],
   "PROPS": [
     "sva",
     "Biobase",
@@ -9544,9 +9528,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "Polytect": [
-    "flowPeaks"
-  ],
+  "Polytect": [],
   "PrInCE": [
     "Biobase",
     "MSnbase",
@@ -9901,7 +9883,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RCASPAR": [],
   "RCM": [
     "phyloseq",
     "Biobase",
@@ -10084,7 +10065,6 @@
   ],
   "RMassBank": [
     "Biobase",
-    "ChemmineR",
     "MSnbase",
     "mzR",
     "S4Vectors",
@@ -11394,7 +11374,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "SNAGEE": [],
   "SNPRelate": [],
   "SNPediaR": [],
   "SNPhood": [
@@ -14670,7 +14649,6 @@
     "SummarizedExperiment",
     "MAST",
     "microbiome",
-    "mixOmics",
     "NOISeq",
     "Maaslin2",
     "metagenomeSeq",
@@ -14794,9 +14772,7 @@
   "bioDist": [
     "Biobase"
   ],
-  "bioassayR": [
-    "ChemmineR"
-  ],
+  "bioassayR": [],
   "biobroom": [
     "Biobase"
   ],
@@ -16223,7 +16199,6 @@
     "AnnotationFilter",
     "SparseArray"
   ],
-  "compcodeR": [],
   "concordexR": [
     "bluster",
     "DelayedArray",
@@ -16803,7 +16778,6 @@
   ],
   "customCMPdb": [
     "AnnotationHub",
-    "ChemmineR",
     "BiocVersion",
     "AnnotationDbi",
     "S4Vectors",
@@ -16872,7 +16846,6 @@
   "cypress": [
     "TOAST",
     "SummarizedExperiment",
-    "PROPER",
     "DESeq2",
     "S4Vectors",
     "IRanges",
@@ -17089,7 +17062,6 @@
   "ddPCRclust": [
     "flowCore",
     "flowDensity",
-    "flowPeaks",
     "Biobase",
     "S4Vectors",
     "flowViz"
@@ -17755,9 +17727,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "eiR": [
-    "ChemmineR"
-  ],
+  "eiR": [],
   "eisaR": [
     "GenomicRanges",
     "S4Vectors",
@@ -18638,7 +18608,6 @@
     "Biobase",
     "S4Vectors"
   ],
-  "flowPeaks": [],
   "flowPloidy": [
     "flowCore",
     "Biobase",
@@ -18717,9 +18686,7 @@
   "flowcatchR": [
     "EBImage"
   ],
-  "fmcsR": [
-    "ChemmineR"
-  ],
+  "fmcsR": [],
   "fobitools": [
     "fgsea"
   ],
@@ -22039,7 +22006,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "mixOmics": [],
   "mnem": [
     "graph",
     "Rgraphviz"
@@ -28038,9 +28004,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "timeOmics": [
-    "mixOmics"
-  ],
+  "timeOmics": [],
   "timecourse": [
     "Biobase"
   ],

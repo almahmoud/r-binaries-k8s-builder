@@ -431,3 +431,12 @@ COSNet
 IntramiRExploreR
 ppcseq
 Rvisdiff
+ChemmineR
+ClustIRR
+compcodeR
+flowPeaks
+KinSwingR
+mixOmics
+PROPER
+RCASPAR
+SNAGEE
