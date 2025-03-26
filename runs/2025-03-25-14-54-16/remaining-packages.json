@@ -2381,7 +2381,6 @@
   "SplineDV": [
     "scuttle"
   ],
-  "StabMap": [],
   "Statial": [],
   "StructuralVariantAnnotation": [
     "rtracklayer",
@@ -3845,7 +3844,6 @@
     "GSEABase",
     "annotate"
   ],
-  "getDEE2": [],
   "geyser": [],
   "gg4way": [],
   "ggbio": [

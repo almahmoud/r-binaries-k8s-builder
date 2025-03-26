@@ -1097,3 +1097,5 @@ cellbaseR
 ISLET
 MBQN
 MPRAnalyze
+getDEE2
+StabMap
