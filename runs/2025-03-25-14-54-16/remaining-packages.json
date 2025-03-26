@@ -213,7 +213,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "BPRMeth": [],
   "BSgenome": [
     "rtracklayer",
     "Rsamtools",
@@ -894,7 +893,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "DMRcaller": [],
   "DMRcate": [
     "AnnotationHub",
     "ExperimentHub",
@@ -1256,7 +1254,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "G4SNVHunter": [],
   "GA4GHclient": [
     "VariantAnnotation",
     "Rsamtools",
@@ -2001,9 +1998,7 @@
     "GenomicAlignments"
   ],
   "MeSHDbi": [],
-  "Melissa": [
-    "BPRMeth"
-  ],
+  "Melissa": [],
   "MesKit": [],
   "MetMashR": [
     "struct"
@@ -5096,7 +5091,6 @@
     "QFeatures",
     "AnnotationFilter"
   ],
-  "heatmaps": [],
   "hermes": [
     "biomaRt",
     "DESeq2"
@@ -6757,7 +6751,6 @@
     "BSgenome",
     "ChIPseeker",
     "clusterProfiler",
-    "heatmaps",
     "seqPattern",
     "rtracklayer",
     "Rsamtools",
@@ -7219,7 +7212,6 @@
     "genefilter",
     "annotate"
   ],
-  "triplex": [],
   "txcutr": [
     "GenomicFeatures",
     "txdbmaker",

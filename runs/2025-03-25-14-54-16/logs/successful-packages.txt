@@ -1026,3 +1026,8 @@ xenLite
 cnvGSA
 jazzPanda
 scoup
+BPRMeth
+DMRcaller
+G4SNVHunter
+heatmaps
+triplex
