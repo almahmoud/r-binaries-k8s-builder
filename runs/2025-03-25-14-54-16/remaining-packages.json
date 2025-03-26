@@ -113,7 +113,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "BSgenomeForge": [],
   "BUMHMM": [],
   "BUSpaRse": [
     "biomaRt",
@@ -127,7 +126,6 @@
     "GenomicFeatures"
   ],
   "Banksy": [],
-  "Basic4Cseq": [],
   "BatchQC": [
     "sva",
     "genefilter"
@@ -255,7 +253,6 @@
     "MIRA",
     "bsseq"
   ],
-  "CODEX": [],
   "CONFESS": [
     "flowMerge"
   ],
@@ -2564,9 +2561,7 @@
     "AnnotationHub"
   ],
   "hypeR": [],
-  "iCNV": [
-    "CODEX"
-  ],
+  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi",
