@@ -933,3 +933,6 @@ MetaNeighbor
 HiCExperiment
 SCnorm
 SingleR
+autonomics
+ILoReg
+SiPSiC

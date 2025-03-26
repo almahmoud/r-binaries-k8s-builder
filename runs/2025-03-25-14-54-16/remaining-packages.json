@@ -1686,7 +1686,6 @@
     "DESeq2"
   ],
   "IFAA": [],
-  "ILoReg": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS",
@@ -3093,7 +3092,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "SiPSiC": [],
   "SigCheck": [
     "MLInterfaces",
     "annotate",
@@ -3755,7 +3753,6 @@
     "GSEABase",
     "genefilter"
   ],
-  "autonomics": [],
   "awst": [],
   "ballgown": [
     "sva",
