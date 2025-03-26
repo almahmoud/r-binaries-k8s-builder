@@ -399,8 +399,6 @@
   "CONFESS": [
     "flowMerge"
   ],
-  "COTAN": [],
-  "CRISPRball": [],
   "CRISPRseek": [
     "GenomicFeatures",
     "BSgenome",
@@ -2820,7 +2818,6 @@
   ],
   "benchdamic": [
     "zinbwave",
-    "microbiome",
     "genefilter",
     "annotate"
   ],
@@ -4359,8 +4356,6 @@
     "scuttle"
   ],
   "microSTASIS": [],
-  "microbiome": [],
-  "microbiomeDASim": [],
   "microbiomeExplorer": [],
   "mimager": [
     "oligo",
@@ -4700,7 +4695,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "pgxRpi": [],
   "phantasus": [],
   "phenoTest": [
     "annotate",
@@ -4991,7 +4985,6 @@
   ],
   "rsbml": [],
   "rtracklayer": [],
-  "sRACIPE": [],
   "sSNAPPY": [
     "graphite"
   ],
@@ -5131,9 +5124,7 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "scanMiR": [],
   "scanMiRApp": [
-    "scanMiR",
     "AnnotationHub",
     "ensembldb",
     "GenomicFeatures",
@@ -5345,7 +5336,6 @@
   ],
   "slingshot": [],
   "smartid": [],
-  "snapcount": [],
   "soGGi": [
     "rtracklayer",
     "chipseq",
@@ -5402,7 +5392,6 @@
   "spoon": [
     "scuttle"
   ],
-  "spqn": [],
   "squallms": [
     "xcms",
     "MSnbase",

@@ -1116,3 +1116,12 @@ gCrisprTools
 pmp
 procoil
 miloR
+COTAN
+CRISPRball
+microbiome
+microbiomeDASim
+pgxRpi
+scanMiR
+snapcount
+spqn
+sRACIPE
