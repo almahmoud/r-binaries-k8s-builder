@@ -1638,3 +1638,4 @@ methInheritSim
 methylInheritance
 RegEnrich
 iCNV
+epigraHMM

@@ -1384,3 +1384,6 @@ SpaNorm
 Basic4Cseq
 BSgenomeForge
 CODEX
+ChIPanalyser
+GreyListChIP
+Spaniel

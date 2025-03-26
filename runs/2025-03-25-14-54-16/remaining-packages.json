@@ -315,11 +315,9 @@
     "DiffBind",
     "chipseq",
     "GenomicFeatures",
-    "systemPipeR",
-    "GreyListChIP"
+    "systemPipeR"
   ],
   "ChIPXpress": [],
-  "ChIPanalyser": [],
   "ChIPexoQual": [
     "biovizBase",
     "GenomicFeatures",
@@ -491,8 +489,7 @@
     "biomaRt"
   ],
   "DiffBind": [
-    "systemPipeR",
-    "GreyListChIP"
+    "systemPipeR"
   ],
   "DiscoRhythm": [],
   "DominoEffect": [
@@ -779,7 +776,6 @@
     "GOstats",
     "genefilter"
   ],
-  "GreyListChIP": [],
   "Guitar": [
     "GenomicFeatures"
   ],
@@ -1536,7 +1532,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "Spaniel": [],
   "SparseSignatures": [],
   "SpatialExperimentIO": [],
   "SpatialFeatureExperiment": [],
@@ -2333,9 +2328,7 @@
     "GenomicFeatures"
   ],
   "epialleleR": [],
-  "epigraHMM": [
-    "GreyListChIP"
-  ],
+  "epigraHMM": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -3619,8 +3612,7 @@
     "biomaRt",
     "regioneR",
     "ensembldb",
-    "systemPipeR",
-    "GreyListChIP"
+    "systemPipeR"
   ],
   "wateRmelon": [
     "methylumi",
