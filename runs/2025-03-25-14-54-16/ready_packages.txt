@@ -1,6 +1,2 @@
-ASICS
-MultiBaC
-biosigner
-lipidr
-phenomis
-rqt
+blima
+epigenomix
