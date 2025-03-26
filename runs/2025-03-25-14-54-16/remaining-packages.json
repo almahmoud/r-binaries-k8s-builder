@@ -3433,7 +3433,6 @@
     "GOSemSim",
     "topGO"
   ],
-  "VisiumIO": [],
   "Voyager": [
     "SpatialFeatureExperiment",
     "DropletUtils",
@@ -3454,9 +3453,7 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "XeniumIO": [
-    "VisiumIO"
-  ],
+  "XeniumIO": [],
   "Xeva": [
     "PharmacoGx"
   ],
