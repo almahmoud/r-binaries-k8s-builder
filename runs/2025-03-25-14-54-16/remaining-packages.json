@@ -1260,7 +1260,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "FuseSOM": [],
   "G4SNVHunter": [],
   "GA4GHclient": [
     "VariantAnnotation",
@@ -4400,7 +4399,6 @@
   "cyanoFilter": [
     "flowDensity"
   ],
-  "cycle": [],
   "cypress": [
     "TOAST",
     "DESeq2"
