@@ -945,3 +945,7 @@ ClusterFoldSimilarity
 diffcyt
 gDRcore
 SPsimSeq
+aggregateBioVar
+bayNorm
+SpatialExperiment
+TENxIO
