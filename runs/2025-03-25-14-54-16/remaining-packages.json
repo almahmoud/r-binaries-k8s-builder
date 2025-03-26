@@ -740,7 +740,6 @@
   ],
   "CATALYST": [
     "SingleCellExperiment",
-    "FlowSOM",
     "SummarizedExperiment",
     "scater",
     "scuttle",
@@ -2251,7 +2250,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "FlowSOM": [],
   "FuseSOM": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -3636,9 +3634,7 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "MetaCyto": [
-    "FlowSOM"
-  ],
+  "MetaCyto": [],
   "MetaNeighbor": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -5718,8 +5714,7 @@
     "treekoR",
     "GenomicRanges",
     "DelayedArray",
-    "diffcyt",
-    "FlowSOM"
+    "diffcyt"
   ],
   "Streamer": [
     "RBGL"
@@ -7230,7 +7225,6 @@
   "censcyt": [
     "diffcyt",
     "SummarizedExperiment",
-    "FlowSOM",
     "GenomicRanges",
     "DelayedArray"
   ],
@@ -7933,12 +7927,10 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "cytoMEM": [],
   "cytofQC": [
     "CATALYST",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "FlowSOM",
     "scater",
     "GenomicRanges",
     "DelayedArray",
@@ -8205,7 +8197,6 @@
     "AnnotationDbi"
   ],
   "diffcyt": [
-    "FlowSOM",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray"
@@ -12821,7 +12812,6 @@
     "SummarizedExperiment",
     "CATALYST",
     "SingleCellExperiment",
-    "FlowSOM",
     "scater",
     "GenomicRanges",
     "DelayedArray",
@@ -13306,7 +13296,6 @@
     "TreeSummarizedExperiment",
     "SummarizedExperiment",
     "diffcyt",
-    "FlowSOM",
     "GenomicRanges",
     "DelayedArray",
     "SingleCellExperiment"
@@ -13314,7 +13303,6 @@
   "treekoR": [
     "SingleCellExperiment",
     "diffcyt",
-    "FlowSOM",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray"
