@@ -1042,7 +1042,6 @@
     "TCGAbiolinks",
     "biomaRt"
   ],
-  "Motif2Site": [],
   "MotifDb": [],
   "MotifPeeker": [
     "memes"
