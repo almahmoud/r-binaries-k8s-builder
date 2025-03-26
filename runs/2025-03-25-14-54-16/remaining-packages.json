@@ -10922,7 +10922,6 @@
     "Biobase",
     "UCSC.utils"
   ],
-  "RCX": [],
   "RCy3": [
     "BiocGenerics",
     "graph"
@@ -19858,7 +19857,6 @@
   ],
   "epistasisGA": [],
   "epivizr": [
-    "epivizrServer",
     "epivizrData",
     "GenomicRanges",
     "S4Vectors",
@@ -19892,7 +19890,6 @@
   ],
   "epivizrChart": [
     "epivizrData",
-    "epivizrServer",
     "BiocGenerics",
     "Biobase",
     "S4Vectors",
@@ -19922,7 +19919,6 @@
     "biomaRt"
   ],
   "epivizrData": [
-    "epivizrServer",
     "Biobase",
     "S4Vectors",
     "GenomicRanges",
@@ -19951,10 +19947,8 @@
     "BiocIO",
     "biomaRt"
   ],
-  "epivizrServer": [],
   "epivizrStandalone": [
     "epivizr",
-    "epivizrServer",
     "GenomeInfoDb",
     "BiocGenerics",
     "GenomicFeatures",
@@ -24997,9 +24991,7 @@
     "BiocGenerics",
     "S4Vectors"
   ],
-  "ndexr": [
-    "RCX"
-  ],
+  "ndexr": [],
   "nearBynding": [
     "plyranges",
     "Rsamtools",
@@ -28452,7 +28444,6 @@
     "S4Vectors",
     "scran",
     "epivizrData",
-    "epivizrServer",
     "scater",
     "SingleCellExperiment",
     "GenomicRanges",
