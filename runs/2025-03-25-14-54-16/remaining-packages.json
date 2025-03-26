@@ -1182,7 +1182,6 @@
   "BeadDataPackR": [],
   "BgeeCall": [
     "GenomicFeatures",
-    "tximport",
     "Biostrings",
     "rtracklayer",
     "biomaRt",
@@ -3120,7 +3119,6 @@
     "qsmooth",
     "Rsamtools",
     "SummarizedExperiment",
-    "tximport",
     "S4Vectors",
     "IRanges",
     "XVector",
@@ -4255,7 +4253,6 @@
     "BANDITS",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "tximport",
     "DRIMSeq",
     "S4Vectors",
     "BiocGenerics",
@@ -4899,7 +4896,6 @@
     "IRanges",
     "BSgenome",
     "Biostrings",
-    "tximport",
     "fgsea",
     "BiocGenerics",
     "XVector",
@@ -7267,7 +7263,6 @@
     "GenomicRanges",
     "rtracklayer",
     "GenomeInfoDb",
-    "tximport",
     "tximeta",
     "edgeR",
     "XVector",
@@ -12011,7 +12006,6 @@
     "SparseArray",
     "XVector"
   ],
-  "Rfastp": [],
   "RgnTX": [
     "GenomeInfoDb",
     "GenomicFeatures",
@@ -13990,7 +13984,6 @@
   ],
   "TDbasedUFE": [
     "GenomicRanges",
-    "tximport",
     "BiocGenerics",
     "S4Vectors",
     "IRanges",
@@ -14012,7 +14005,6 @@
     "IRanges",
     "GenomeInfoDb",
     "XVector",
-    "tximport",
     "KEGGREST",
     "UCSC.utils",
     "Biostrings"
@@ -15681,9 +15673,7 @@
     "GenomicAlignments",
     "h5mread"
   ],
-  "alevinQC": [
-    "tximport"
-  ],
+  "alevinQC": [],
   "altcdfenvs": [
     "BiocGenerics",
     "S4Vectors",
@@ -16909,7 +16899,6 @@
     "h5mread",
     "GenomicAlignments"
   ],
-  "bugsigdbr": [],
   "bumphunter": [
     "S4Vectors",
     "IRanges",
@@ -27076,7 +27065,6 @@
     "S4Arrays",
     "SparseArray"
   ],
-  "qckitfastq": [],
   "qcmetrics": [
     "Biobase",
     "S4Vectors",
@@ -29826,7 +29814,6 @@
     "celda",
     "DropletUtils",
     "scds",
-    "tximport",
     "GSEABase",
     "zinbwave",
     "scDblFinder",
@@ -31677,7 +31664,6 @@
   ],
   "tximeta": [
     "SummarizedExperiment",
-    "tximport",
     "S4Vectors",
     "IRanges",
     "GenomicRanges",
@@ -31704,7 +31690,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "tximport": [],
   "uSORT": [
     "Biobase",
     "BiocGenerics",
@@ -32110,7 +32095,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "wppi": [],
   "xCell2": [
     "SummarizedExperiment",
     "SingleCellExperiment",

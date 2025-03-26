@@ -263,3 +263,8 @@ Summix
 biodb
 brendaDb
 rpx
+bugsigdbr
+qckitfastq
+Rfastp
+tximport
+wppi
