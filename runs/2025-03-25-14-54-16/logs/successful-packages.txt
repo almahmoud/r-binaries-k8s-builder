@@ -496,3 +496,11 @@ maSigPro
 MSstatsTMT
 mzR
 RTopper
+arrayQuality
+CGHbase
+ConsensusClusterPlus
+DFP
+ecolitk
+factDesign
+Polytect
+rcellminer

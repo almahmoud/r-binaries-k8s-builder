@@ -6,7 +6,6 @@
     "IRanges",
     "GenomeInfoDb",
     "XVector",
-    "CGHbase",
     "CGHcall",
     "Rsamtools",
     "UCSC.utils",
@@ -1480,7 +1479,6 @@
   "CATALYST": [
     "SingleCellExperiment",
     "ComplexHeatmap",
-    "ConsensusClusterPlus",
     "flowCore",
     "FlowSOM",
     "SummarizedExperiment",
@@ -1566,17 +1564,11 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "CGHbase": [],
-  "CGHcall": [
-    "CGHbase"
-  ],
+  "CGHcall": [],
   "CGHnormaliter": [
-    "CGHcall",
-    "CGHbase"
+    "CGHcall"
   ],
-  "CGHregions": [
-    "CGHbase"
-  ],
+  "CGHregions": [],
   "CHETAH": [
     "SingleCellExperiment",
     "bioDist",
@@ -2505,7 +2497,6 @@
     "Rsamtools",
     "scran",
     "scater",
-    "ConsensusClusterPlus",
     "GenomicRanges",
     "IRanges",
     "S4Vectors",
@@ -2733,7 +2724,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "ConsensusClusterPlus": [],
   "CopyNumberPlots": [
     "karyoploteR",
     "regioneR",
@@ -2984,7 +2974,6 @@
   ],
   "DEGreport": [
     "ComplexHeatmap",
-    "ConsensusClusterPlus",
     "DESeq2",
     "S4Vectors",
     "SummarizedExperiment",
@@ -3168,7 +3157,6 @@
     "XVector",
     "Biostrings"
   ],
-  "DFP": [],
   "DFplyr": [
     "S4Vectors"
   ],
@@ -4378,7 +4366,6 @@
     "SparseArray"
   ],
   "FlowSOM": [
-    "ConsensusClusterPlus",
     "flowCore",
     "S4Vectors"
   ],
@@ -4970,7 +4957,6 @@
   "GeneBreak": [
     "QDNAseq",
     "CGHcall",
-    "CGHbase",
     "GenomicRanges",
     "S4Vectors",
     "IRanges",
@@ -7272,8 +7258,7 @@
   "MetaCyto": [
     "flowCore",
     "FlowSOM",
-    "S4Vectors",
-    "ConsensusClusterPlus"
+    "S4Vectors"
   ],
   "MetaNeighbor": [
     "SummarizedExperiment",
@@ -8478,7 +8463,6 @@
   "PDATK": [
     "SummarizedExperiment",
     "MultiAssayExperiment",
-    "ConsensusClusterPlus",
     "CoreGx",
     "S4Vectors",
     "piano",
@@ -8913,7 +8897,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "Polytect": [],
   "PrInCE": [
     "MSnbase",
     "S4Vectors",
@@ -9039,7 +9022,6 @@
     "SparseArray"
   ],
   "QDNAseq": [
-    "CGHbase",
     "CGHcall",
     "GenomicRanges",
     "IRanges",
@@ -11482,8 +11464,7 @@
     "FlowSOM",
     "ComplexHeatmap",
     "UCSC.utils",
-    "XVector",
-    "ConsensusClusterPlus"
+    "XVector"
   ],
   "Streamer": [
     "graph",
@@ -13348,7 +13329,6 @@
     "SparseArray",
     "h5mread"
   ],
-  "arrayQuality": [],
   "arrayQualityMetrics": [
     "affy",
     "affyPLM",
@@ -13952,7 +13932,6 @@
     "AnnotationDbi",
     "OrganismDbi",
     "GenomicFeatures",
-    "CGHbase",
     "CGHcall",
     "GenomicAlignments",
     "BiocIO",
@@ -14482,7 +14461,6 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "ConsensusClusterPlus",
     "UCSC.utils",
     "XVector"
   ],
@@ -14528,7 +14506,6 @@
     "S4Vectors",
     "UCSC.utils",
     "XVector",
-    "CGHbase",
     "CGHcall",
     "Biostrings"
   ],
@@ -15800,7 +15777,6 @@
     "SummarizedExperiment",
     "S4Vectors",
     "ComplexHeatmap",
-    "ConsensusClusterPlus",
     "FlowSOM",
     "scater",
     "GenomicRanges",
@@ -16292,7 +16268,6 @@
     "S4Vectors",
     "ComplexHeatmap",
     "IRanges",
-    "ConsensusClusterPlus",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -16571,7 +16546,6 @@
     "SparseArray"
   ],
   "easyreporting": [],
-  "ecolitk": [],
   "edge": [
     "sva",
     "genefilter",
@@ -17159,7 +17133,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "factDesign": [],
   "factR": [
     "Biostrings",
     "GenomeInfoDb",
@@ -19074,7 +19047,6 @@
     "S4Vectors",
     "KEGGREST",
     "ComplexHeatmap",
-    "ConsensusClusterPlus",
     "GenomeInfoDb",
     "XVector",
     "S4Arrays",
@@ -22982,7 +22954,6 @@
   ],
   "rawDiag": [],
   "rbsurv": [],
-  "rcellminer": [],
   "rebook": [
     "graph"
   ],
@@ -25398,7 +25369,6 @@
     "S4Vectors",
     "SingleCellExperiment",
     "ComplexHeatmap",
-    "ConsensusClusterPlus",
     "flowCore",
     "FlowSOM",
     "scater",
@@ -26403,7 +26373,6 @@
     "Biostrings",
     "XVector",
     "SparseArray",
-    "ConsensusClusterPlus",
     "UCSC.utils"
   ],
   "treekoR": [
@@ -26419,7 +26388,6 @@
     "IRanges",
     "S4Arrays",
     "SparseArray",
-    "ConsensusClusterPlus",
     "GenomeInfoDb",
     "XVector",
     "UCSC.utils"
