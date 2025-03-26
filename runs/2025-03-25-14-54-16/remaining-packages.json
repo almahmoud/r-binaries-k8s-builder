@@ -94,7 +94,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "ArrayExpress": [],
   "BASiCS": [
     "scran"
   ],
@@ -586,8 +585,7 @@
     "GenomicFeatures"
   ],
   "DrugVsDisease": [
-    "biomaRt",
-    "ArrayExpress"
+    "biomaRt"
   ],
   "DuplexDiscovereR": [
     "Gviz",
