@@ -389,7 +389,6 @@
     "XVector",
     "Biostrings"
   ],
-  "AWFisher": [],
   "AffiXcan": [
     "SummarizedExperiment",
     "MultiAssayExperiment",
@@ -10290,7 +10289,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "ROSeq": [],
   "ROTS": [
     "Biobase"
   ],
@@ -15437,7 +15435,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "ccrepe": [],
   "celaref": [
     "SummarizedExperiment",
     "MAST",
