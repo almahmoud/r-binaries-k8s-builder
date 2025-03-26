@@ -580,8 +580,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "DEGreport": [],
-  "DELocal": [],
   "DEP": [
     "MSnbase",
     "PSMatch"
@@ -773,7 +771,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "ERSSA": [],
   "EWCE": [
     "ExperimentHub",
     "AnnotationHub"
@@ -976,7 +973,6 @@
     "universalmotif",
     "ensembldb"
   ],
-  "GWENA": [],
   "GeDi": [
     "GeneTonic",
     "mosdef",
@@ -1138,7 +1134,6 @@
     "HilbertVis"
   ],
   "HoloFoodR": [],
-  "HybridExpress": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS",
@@ -2175,7 +2170,6 @@
     "annotate",
     "genefilter"
   ],
-  "TCC": [],
   "TCGAbiolinks": [
     "biomaRt"
   ],
@@ -2638,7 +2632,6 @@
     "BSgenome"
   ],
   "broadSeq": [
-    "DELocal",
     "genefilter",
     "annotate"
   ],
@@ -3648,9 +3641,7 @@
   "isobar": [
     "biomaRt"
   ],
-  "isomiRs": [
-    "DEGreport"
-  ],
+  "isomiRs": [],
   "karyoploteR": [
     "regioneR",
     "rtracklayer",
@@ -4249,7 +4240,6 @@
   "pram": [
     "rtracklayer"
   ],
-  "prebs": [],
   "preciseTAD": [
     "rCGH",
     "GenomicFeatures",
@@ -4912,7 +4902,6 @@
     "BSgenome",
     "biovizBase"
   ],
-  "target": [],
   "tenXplore": [
     "ontoProc",
     "AnnotationHub"
