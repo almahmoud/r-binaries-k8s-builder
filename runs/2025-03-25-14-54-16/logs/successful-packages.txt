@@ -1081,3 +1081,5 @@ VariantExperiment
 GenomicAlignments
 QFeatures
 GEOquery
+DESeq2
+GRmetrics
