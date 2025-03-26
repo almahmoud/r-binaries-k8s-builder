@@ -3230,7 +3230,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "Doscheda": [],
   "DropletUtils": [
     "SingleCellExperiment",
     "IRanges",
