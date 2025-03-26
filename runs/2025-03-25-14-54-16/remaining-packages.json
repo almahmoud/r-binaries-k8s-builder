@@ -1633,7 +1633,6 @@
   "HiCDOC": [
     "multiHiCcompare"
   ],
-  "HiContacts": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome",
@@ -7329,7 +7328,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "treeclimbR": [],
   "treekoR": [],
   "tricycle": [
     "scater",
