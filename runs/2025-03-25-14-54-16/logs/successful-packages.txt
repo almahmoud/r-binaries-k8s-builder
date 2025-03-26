@@ -903,3 +903,11 @@ Modstrings
 PAIRADISE
 pairkat
 XAItest
+BANDITS
+BUSseq
+CNORfuzzy
+combi
+doseR
+gDRutils
+midasHLA
+SimBu

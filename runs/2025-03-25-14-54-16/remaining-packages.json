@@ -163,7 +163,6 @@
     "oligo",
     "oligoClasses"
   ],
-  "BANDITS": [],
   "BASiCS": [
     "scran",
     "scuttle",
@@ -242,7 +241,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "BUSseq": [],
   "BaalChIP": [
     "Rsamtools",
     "GenomicAlignments"
@@ -459,7 +457,6 @@
   ],
   "CNORdt": [],
   "CNORfeeder": [],
-  "CNORfuzzy": [],
   "CNORode": [],
   "CNTools": [
     "genefilter",
@@ -1040,9 +1037,7 @@
     "rtracklayer",
     "ShortRead"
   ],
-  "DifferentialRegulation": [
-    "BANDITS"
-  ],
+  "DifferentialRegulation": [],
   "Dino": [
     "BiocSingular",
     "scran",
@@ -3137,7 +3132,6 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "SimBu": [],
   "SimFFPE": [
     "Rsamtools"
   ],
@@ -4309,7 +4303,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "combi": [],
   "compEpiTools": [
     "topGO",
     "Rsamtools",
@@ -4738,7 +4731,6 @@
     "genefilter",
     "annotate"
   ],
-  "doseR": [],
   "doubletrouble": [
     "syntenet",
     "GenomicFeatures",
@@ -5095,20 +5087,15 @@
   "gDR": [
     "gDRcore",
     "gDRimport",
-    "gDRutils",
     "PharmacoGx"
   ],
-  "gDRcore": [
-    "gDRutils"
-  ],
+  "gDRcore": [],
   "gDRimport": [
-    "PharmacoGx",
-    "gDRutils"
+    "PharmacoGx"
   ],
   "gDRstyle": [
     "BiocCheck"
   ],
-  "gDRutils": [],
   "gINTomics": [
     "biomaRt",
     "GenomicFeatures",
@@ -5887,7 +5874,6 @@
   "microbiomeExplorer": [
     "DESeq2"
   ],
-  "midasHLA": [],
   "miloR": [
     "BiocSingular"
   ],
