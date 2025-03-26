@@ -1297,3 +1297,6 @@ iSEEde
 metabolomicsWorkbenchR
 PathoStat
 SCArray.sat
+barcodetrackR
+Glimma
+loci2path

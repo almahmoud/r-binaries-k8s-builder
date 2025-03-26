@@ -67,7 +67,6 @@
     "affycoretools",
     "GOstats",
     "ReportingTools",
-    "Glimma",
     "Category",
     "annotate",
     "GSEABase",
@@ -943,7 +942,6 @@
   "GenomicScores": [
     "AnnotationHub"
   ],
-  "Glimma": [],
   "GlobalAncova": [
     "globaltest",
     "annotate",
@@ -2122,7 +2120,6 @@
   "affycoretools": [
     "GOstats",
     "ReportingTools",
-    "Glimma",
     "Category",
     "annotate",
     "GSEABase",
@@ -2237,7 +2234,6 @@
     "annotate",
     "genefilter"
   ],
-  "barcodetrackR": [],
   "basecallQC": [],
   "batchelor": [
     "scuttle"
@@ -3279,7 +3275,6 @@
     "genefilter",
     "annotate"
   ],
-  "loci2path": [],
   "lumi": [
     "methylumi",
     "GenomicFeatures",
