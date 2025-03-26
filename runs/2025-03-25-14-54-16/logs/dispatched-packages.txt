@@ -439,3 +439,7 @@ clstutils
 REBET
 Rigraphlib
 basilisk
+DNAcycP2
+cbpManager
+densvis
+snifter

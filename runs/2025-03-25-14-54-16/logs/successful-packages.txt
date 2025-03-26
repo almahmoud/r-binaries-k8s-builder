@@ -316,3 +316,6 @@ biocmake
 clstutils
 Rigraphlib
 tripr
+basilisk
+biobtreeR
+NTW
