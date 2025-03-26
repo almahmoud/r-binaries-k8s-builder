@@ -583,3 +583,4 @@ IHW
 OmicsMLRepoR
 diffGeneAnalysis
 easyreporting
+SharedObject

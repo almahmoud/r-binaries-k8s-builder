@@ -7274,7 +7274,6 @@
     "SingleCellExperiment",
     "DelayedArray",
     "BiocSingular",
-    "SharedObject",
     "ScaledMatrix",
     "beachmat",
     "IRanges",
@@ -9804,7 +9803,6 @@
     "Biostrings",
     "UCSC.utils"
   ],
-  "SharedObject": [],
   "ShortRead": [
     "Biostrings",
     "Rsamtools",
