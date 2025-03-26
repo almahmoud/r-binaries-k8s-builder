@@ -10,3 +10,4 @@ hypeR
 rsbml
 Harshlight
 cn.mops
+PICS

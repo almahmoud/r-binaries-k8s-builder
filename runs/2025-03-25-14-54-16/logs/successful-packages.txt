@@ -1316,3 +1316,8 @@ graphite
 MetMashR
 alabaster.mae
 diffcoexp
+annotate
+BgeeDB
+GENESIS
+nipalsMCIA
+SVMDO
