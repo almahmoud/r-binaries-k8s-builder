@@ -1125,3 +1125,9 @@ scanMiR
 snapcount
 spqn
 sRACIPE
+MOFA2
+quantiseqr
+regionalpcs
+satuRn
+stageR
+survtype

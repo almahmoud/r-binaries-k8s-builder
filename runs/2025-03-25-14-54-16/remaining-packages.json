@@ -1317,7 +1317,6 @@
   ],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
-    "satuRn",
     "sva",
     "BSgenome",
     "rtracklayer",
@@ -1471,7 +1470,6 @@
     "rtracklayer"
   ],
   "MODA": [],
-  "MOFA2": [],
   "MOSClip": [
     "graphite",
     "qpgraph",
@@ -3518,7 +3516,6 @@
     "rtracklayer"
   ],
   "easier": [
-    "quantiseqr",
     "ExperimentHub",
     "AnnotationHub"
   ],
@@ -4834,7 +4831,6 @@
     "genefilter",
     "annotate"
   ],
-  "quantiseqr": [],
   "quantro": [
     "minfi",
     "bumphunter",
@@ -4914,7 +4910,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "regionalpcs": [],
   "regioneR": [
     "BSgenome",
     "rtracklayer"
@@ -5015,7 +5010,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "satuRn": [],
   "scAnnotatR": [
     "AnnotationHub"
   ],
@@ -5410,7 +5404,6 @@
   ],
   "ssPATHS": [],
   "ssviz": [],
-  "stageR": [],
   "standR": [
     "RUVSeq",
     "EDASeq",
@@ -5431,7 +5424,6 @@
   "surfaltr": [
     "biomaRt"
   ],
-  "survtype": [],
   "sva": [
     "genefilter",
     "annotate"
