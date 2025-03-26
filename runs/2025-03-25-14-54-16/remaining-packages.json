@@ -22333,7 +22333,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "updateObject": [],
   "variancePartition": [],
   "velociraptor": [
     "SummarizedExperiment",
