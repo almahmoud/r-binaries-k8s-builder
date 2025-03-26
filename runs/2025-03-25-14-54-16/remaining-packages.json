@@ -18,7 +18,6 @@
     "XVector",
     "CGHbase",
     "CGHcall",
-    "DNAcopy",
     "Rsamtools",
     "marray",
     "UCSC.utils",
@@ -68,7 +67,6 @@
     "phyloseq",
     "Biobase",
     "BiocGenerics",
-    "biomformat",
     "Biostrings",
     "multtest",
     "S4Vectors",
@@ -93,7 +91,6 @@
     "XVector"
   ],
   "ADaCGH2": [
-    "DNAcopy",
     "tilingArray",
     "aCGH",
     "multtest",
@@ -560,7 +557,6 @@
     "IRanges",
     "Rsamtools",
     "bamsignals",
-    "DNAcopy",
     "Biostrings",
     "GenomicAlignments",
     "XVector",
@@ -1878,7 +1874,6 @@
     "limma"
   ],
   "CGHcall": [
-    "DNAcopy",
     "Biobase",
     "CGHbase",
     "BiocGenerics",
@@ -1891,7 +1886,6 @@
     "Biobase",
     "BiocGenerics",
     "marray",
-    "DNAcopy",
     "limma"
   ],
   "CGHregions": [
@@ -1933,8 +1927,7 @@
     "UCSC.utils"
   ],
   "CIMICE": [
-    "maftools",
-    "DNAcopy"
+    "maftools"
   ],
   "CINdex": [
     "GenomicRanges",
@@ -1949,9 +1942,7 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "CNAnorm": [
-    "DNAcopy"
-  ],
+  "CNAnorm": [],
   "CNEr": [
     "Biostrings",
     "pwalign",
@@ -2127,7 +2118,6 @@
   ],
   "CNVrd2": [
     "VariantAnnotation",
-    "DNAcopy",
     "IRanges",
     "Rsamtools",
     "BiocGenerics",
@@ -2300,7 +2290,6 @@
   ],
   "CRImage": [
     "EBImage",
-    "DNAcopy",
     "aCGH",
     "multtest",
     "Biobase",
@@ -2417,7 +2406,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "DNAcopy",
     "Biostrings",
     "IRanges",
     "ComplexHeatmap",
@@ -2477,7 +2465,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "CausalR": [],
   "CeTF": [
     "ComplexHeatmap",
     "clusterProfiler",
@@ -2675,7 +2662,6 @@
     "globaltest",
     "sva",
     "limma",
-    "DNAcopy",
     "marray",
     "wateRmelon",
     "goseq",
@@ -3880,7 +3866,6 @@
     "h5mread",
     "multtest"
   ],
-  "DNAcopy": [],
   "DNAfusion": [
     "bamsignals",
     "GenomicRanges",
@@ -5362,7 +5347,6 @@
     "SNPRelate",
     "GenomeInfoDb",
     "XVector",
-    "DNAcopy",
     "Biostrings",
     "UCSC.utils"
   ],
@@ -5448,7 +5432,6 @@
     "S4Vectors",
     "SummarizedExperiment",
     "TCGAutils",
-    "DNAcopy",
     "BiocGenerics",
     "UCSC.utils",
     "XVector",
@@ -5777,7 +5760,6 @@
   "GWASTools": [
     "Biobase",
     "gdsfmt",
-    "DNAcopy",
     "BiocGenerics"
   ],
   "GWENA": [
@@ -5875,7 +5857,6 @@
     "GenomicRanges",
     "Biobase",
     "marray",
-    "DNAcopy",
     "BiocGenerics",
     "S4Vectors",
     "IRanges",
@@ -5922,7 +5903,6 @@
     "RCy3",
     "BiocGenerics"
   ],
-  "GeneOverlap": [],
   "GeneRegionScan": [
     "Biobase",
     "Biostrings",
@@ -7668,7 +7648,6 @@
     "sva",
     "Biobase",
     "BiocGenerics",
-    "biomformat",
     "Biostrings",
     "multtest",
     "genefilter",
@@ -7714,7 +7693,6 @@
     "GenomicRanges",
     "IRanges",
     "Biostrings",
-    "DNAcopy",
     "Rsamtools",
     "BiocGenerics",
     "S4Vectors",
@@ -7840,7 +7818,6 @@
     "Biostrings",
     "IRanges",
     "edgeR",
-    "DNAcopy",
     "biomaRt",
     "rtracklayer",
     "AnnotationDbi",
@@ -8956,7 +8933,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "oligoClasses",
-    "DNAcopy",
     "UCSC.utils",
     "XVector",
     "Biostrings",
@@ -10071,7 +10047,6 @@
     "IRanges",
     "S4Vectors",
     "KEGGREST",
-    "DNAcopy",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -10398,7 +10373,6 @@
     "SummarizedExperiment",
     "BiocGenerics",
     "Biobase",
-    "biomformat",
     "Biostrings",
     "multtest",
     "XVector",
@@ -10664,7 +10638,6 @@
     "UCSC.utils"
   ],
   "PureCN": [
-    "DNAcopy",
     "VariantAnnotation",
     "GenomicRanges",
     "IRanges",
@@ -10721,7 +10694,6 @@
     "Biobase",
     "CGHbase",
     "CGHcall",
-    "DNAcopy",
     "GenomicRanges",
     "IRanges",
     "Rsamtools",
@@ -10909,7 +10881,6 @@
     "SeqVarTools",
     "SummarizedExperiment",
     "UCSC.utils",
-    "DNAcopy",
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
@@ -10966,7 +10937,6 @@
     "limma",
     "Biobase",
     "BiocGenerics",
-    "biomformat",
     "Biostrings",
     "multtest",
     "S4Vectors",
@@ -11403,7 +11373,6 @@
     "BiocStyle",
     "phyloseq",
     "Biobase",
-    "biomformat",
     "Biostrings",
     "multtest",
     "S4Vectors",
@@ -11863,7 +11832,6 @@
     "rtracklayer",
     "BSgenome",
     "edgeR",
-    "DNAcopy",
     "XVector",
     "BiocIO",
     "limma",
@@ -12410,7 +12378,6 @@
     "IRanges",
     "Rsamtools",
     "GenomeInfoDb",
-    "DNAcopy",
     "BSgenome",
     "Biostrings",
     "BiocGenerics",
@@ -12541,7 +12508,6 @@
     "phyloseq",
     "Biobase",
     "BiocGenerics",
-    "biomformat",
     "Biostrings",
     "multtest",
     "S4Vectors",
@@ -12771,7 +12737,6 @@
     "phyloseq",
     "Biobase",
     "BiocGenerics",
-    "biomformat",
     "Biostrings",
     "multtest",
     "SummarizedExperiment",
@@ -13075,7 +13040,6 @@
     "SummarizedExperiment",
     "Biobase",
     "BiocGenerics",
-    "biomformat",
     "Biostrings",
     "multtest",
     "GenomicRanges",
@@ -13714,7 +13678,6 @@
     "SparseArray",
     "UCSC.utils",
     "XVector",
-    "biomformat",
     "Biostrings",
     "multtest"
   ],
@@ -14120,7 +14083,6 @@
     "S4Vectors",
     "KEGGREST",
     "Biostrings",
-    "DNAcopy",
     "XVector",
     "GenomeInfoDb",
     "UCSC.utils"
@@ -16266,7 +16228,6 @@
     "SingleCellExperiment",
     "Wrench",
     "Biostrings",
-    "biomformat",
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
@@ -16429,7 +16390,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "biomformat": [],
   "biomvRCNS": [
     "IRanges",
     "GenomicRanges",
@@ -16554,7 +16514,6 @@
     "GenomicFeatures",
     "CGHbase",
     "CGHcall",
-    "DNAcopy",
     "GenomicAlignments",
     "BiocIO",
     "KEGGREST",
@@ -17222,7 +17181,6 @@
     "BiocGenerics",
     "UCSC.utils",
     "XVector",
-    "DNAcopy",
     "CGHbase",
     "CGHcall",
     "Biostrings",
@@ -17230,7 +17188,6 @@
     "limma"
   ],
   "cghMCR": [
-    "DNAcopy",
     "CNTools",
     "limma",
     "BiocGenerics",
@@ -17781,7 +17738,6 @@
     "oligoClasses",
     "affxparser",
     "oligo",
-    "DNAcopy",
     "BiocGenerics",
     "Biostrings",
     "IRanges",
@@ -17922,7 +17878,6 @@
     "Biobase",
     "SummarizedExperiment",
     "BiocGenerics",
-    "biomformat",
     "Biostrings",
     "multtest",
     "GenomicRanges",
@@ -17969,7 +17924,6 @@
     "AnnotationFilter",
     "SparseArray"
   ],
-  "compSPOT": [],
   "compcodeR": [
     "edgeR",
     "limma"
@@ -18126,7 +18080,6 @@
   ],
   "conumee": [
     "minfi",
-    "DNAcopy",
     "rtracklayer",
     "GenomicRanges",
     "IRanges",
@@ -18887,7 +18840,6 @@
     "scater",
     "scuttle",
     "Biobase",
-    "biomformat",
     "multtest",
     "XVector",
     "GenomeInfoDb",
@@ -21157,7 +21109,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "geneplast": [],
   "geneplotter": [
     "Biobase",
     "BiocGenerics",
@@ -21734,7 +21685,6 @@
     "SNPRelate",
     "Biobase",
     "gdsfmt",
-    "DNAcopy",
     "GenomicRanges",
     "BiocGenerics",
     "S4Vectors",
@@ -22705,7 +22655,6 @@
     "XVector",
     "Rsamtools",
     "UCSC.utils",
-    "DNAcopy",
     "GenomicAlignments",
     "SummarizedExperiment",
     "AnnotationDbi",
@@ -23071,7 +23020,6 @@
     "Biobase",
     "BiocGenerics",
     "gdsfmt",
-    "DNAcopy",
     "IRanges",
     "GenomicRanges",
     "SummarizedExperiment",
@@ -23169,9 +23117,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "maftools": [
-    "DNAcopy"
-  ],
+  "maftools": [],
   "magpie": [
     "rtracklayer",
     "S4Vectors",
@@ -23931,7 +23877,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "mgsa": [],
   "miQC": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -24171,7 +24116,6 @@
     "XVector",
     "GenomeInfoDb",
     "Biobase",
-    "biomformat",
     "multtest",
     "UCSC.utils"
   ],
@@ -24182,7 +24126,6 @@
     "BiocGenerics",
     "limma",
     "Wrench",
-    "biomformat",
     "Biostrings",
     "multtest",
     "S4Vectors",
@@ -24195,7 +24138,6 @@
     "metagenomeSeq",
     "Biobase",
     "DESeq2",
-    "biomformat",
     "limma",
     "BiocGenerics",
     "S4Vectors",
@@ -25067,7 +25009,6 @@
     "Rsamtools",
     "UCSC.utils",
     "AnnotationDbi",
-    "DNAcopy",
     "Biobase",
     "S4Arrays",
     "DelayedArray",
@@ -26266,7 +26207,6 @@
   "phyloseq": [
     "Biobase",
     "BiocGenerics",
-    "biomformat",
     "Biostrings",
     "multtest",
     "S4Vectors",
@@ -26553,7 +26493,6 @@
     "XVector",
     "BiocStyle",
     "phyloseq",
-    "biomformat",
     "multtest",
     "S4Arrays",
     "DelayedArray",
@@ -26567,7 +26506,6 @@
     "BiocGenerics",
     "GenomeInfoDb",
     "XVector",
-    "DNAcopy",
     "limma",
     "affy",
     "GenomicFeatures",
@@ -27095,7 +27033,6 @@
     "UCSC.utils"
   ],
   "rCGH": [
-    "DNAcopy",
     "limma",
     "affy",
     "GenomicFeatures",
@@ -27338,7 +27275,6 @@
     "phyloseq",
     "Biobase",
     "BiocGenerics",
-    "biomformat",
     "Biostrings",
     "multtest",
     "S4Vectors",
@@ -32117,7 +32053,6 @@
     "IRanges",
     "GenomicRanges",
     "Biobase",
-    "biomformat",
     "Biostrings",
     "multtest",
     "GenomeInfoDb",

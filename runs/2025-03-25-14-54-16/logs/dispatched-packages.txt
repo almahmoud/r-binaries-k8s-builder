@@ -443,3 +443,5 @@ DNAcycP2
 cbpManager
 densvis
 snifter
+CNAnorm
+maftools
