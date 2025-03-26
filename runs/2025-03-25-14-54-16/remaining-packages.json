@@ -2866,7 +2866,6 @@
   "motifmatchr": [
     "TFBSTools"
   ],
-  "msImpute": [],
   "msgbsR": [
     "easyRNASeq",
     "GenomicFeatures",
@@ -2899,7 +2898,6 @@
     "VariantAnnotation",
     "ensembldb"
   ],
-  "mumosa": [],
   "muscat": [],
   "musicatk": [
     "VariantAnnotation",
@@ -2959,7 +2957,6 @@
     "made4"
   ],
   "omicsViewer": [],
-  "oncoscanR": [],
   "ontoProc": [
     "AnnotationHub"
   ],

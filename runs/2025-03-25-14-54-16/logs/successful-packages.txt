@@ -1390,3 +1390,6 @@ Spaniel
 ChIPComp
 MMDiff2
 pipeComp
+msImpute
+mumosa
+oncoscanR
