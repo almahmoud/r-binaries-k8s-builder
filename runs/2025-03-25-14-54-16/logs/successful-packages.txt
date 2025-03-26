@@ -921,3 +921,6 @@ CHETAH
 CINdex
 EDIRquery
 HiCParser
+GloScope
+HiCcompare
+tRNA

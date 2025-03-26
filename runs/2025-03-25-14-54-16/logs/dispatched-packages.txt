@@ -1254,3 +1254,7 @@ HiCcompare
 tRNA
 DifferentialRegulation
 gDRcore
+SpectralTAD
+TADCompare
+multiHiCcompare
+tRNAdbImport

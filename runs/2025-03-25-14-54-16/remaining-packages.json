@@ -1193,7 +1193,6 @@
     "txdbmaker",
     "tRNAdbImport",
     "rtracklayer",
-    "tRNA",
     "biomaRt",
     "Rsamtools",
     "GenomicAlignments"
@@ -1587,7 +1586,6 @@
   "Glimma": [
     "DESeq2"
   ],
-  "GloScope": [],
   "GlobalAncova": [
     "globaltest",
     "annotate",
@@ -1659,11 +1657,9 @@
     "AnnotationFilter"
   ],
   "HiCDOC": [
-    "multiHiCcompare",
-    "HiCcompare"
+    "multiHiCcompare"
   ],
   "HiCExperiment": [],
-  "HiCcompare": [],
   "HiContacts": [
     "HiCExperiment"
   ],
@@ -3192,9 +3188,7 @@
     "SpatialExperiment",
     "scuttle"
   ],
-  "SpectralTAD": [
-    "HiCcompare"
-  ],
+  "SpectralTAD": [],
   "SpliceWiz": [
     "AnnotationHub",
     "BSgenome",
@@ -3244,9 +3238,7 @@
     "TCGAbiolinks",
     "biomaRt"
   ],
-  "TADCompare": [
-    "HiCcompare"
-  ],
+  "TADCompare": [],
   "TAPseq": [
     "GenomicAlignments",
     "BSgenome",
@@ -6035,9 +6027,7 @@
     "graphite",
     "AnnotationHub"
   ],
-  "multiHiCcompare": [
-    "HiCcompare"
-  ],
+  "multiHiCcompare": [],
   "multiMiR": [],
   "multiWGCNA": [],
   "multicrispr": [
@@ -7373,12 +7363,8 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "tRNA": [],
-  "tRNAdbImport": [
-    "tRNA"
-  ],
+  "tRNAdbImport": [],
   "tRNAscanImport": [
-    "tRNA",
     "rtracklayer",
     "BSgenome",
     "Rsamtools",
