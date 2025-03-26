@@ -4080,7 +4080,6 @@
     "XVector",
     "Biostrings"
   ],
-  "GEOmetadb": [],
   "GEOquery": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -10873,7 +10872,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "TreeAndLeaf": [],
   "TreeSummarizedExperiment": [
     "SingleCellExperiment",
     "Biostrings",
