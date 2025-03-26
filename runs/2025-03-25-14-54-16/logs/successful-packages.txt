@@ -1031,3 +1031,5 @@ DMRcaller
 G4SNVHunter
 heatmaps
 triplex
+epistack
+SPIA

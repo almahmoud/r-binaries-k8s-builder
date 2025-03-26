@@ -1131,7 +1131,6 @@
   "EnrichedHeatmap": [],
   "EnrichmentBrowser": [
     "GSEABase",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
@@ -1365,7 +1364,6 @@
     "EnrichmentBrowser",
     "ExperimentHub",
     "GSEABase",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
@@ -2983,7 +2981,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "SPIA": [],
   "SPIAT": [],
   "SPLINTER": [
     "biomaRt",
@@ -4561,7 +4558,6 @@
     "zenith",
     "annotate",
     "EnrichmentBrowser",
-    "SPIA",
     "graphite",
     "pathview",
     "safe"
@@ -4689,7 +4685,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "epistack": [],
   "epivizr": [
     "epivizrData",
     "bumphunter",
@@ -7373,7 +7368,6 @@
   "zenith": [
     "EnrichmentBrowser",
     "GSEABase",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
