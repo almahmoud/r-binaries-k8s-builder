@@ -154,7 +154,6 @@
   "BioCor": [
     "GSEABase"
   ],
-  "BioNAR": [],
   "BioNERO": [
     "sva",
     "genefilter"
@@ -2491,7 +2490,6 @@
   "geneAttribution": [
     "GenomicFeatures"
   ],
-  "geneXtendeR": [],
   "genefilter": [],
   "genefu": [
     "biomaRt"
@@ -3374,7 +3372,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "sevenC": [],
   "shinyMethyl": [
     "minfi",
     "bumphunter",
