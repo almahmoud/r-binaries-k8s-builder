@@ -103,7 +103,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "Anaquin": [],
   "AneuFinder": [],
   "AnnotationHub": [],
   "AnnotationHubData": [
@@ -584,7 +583,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "DEFormats": [],
   "DEGreport": [],
   "DELocal": [],
   "DEP": [
@@ -737,13 +735,11 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "EBSEA": [],
   "EDASeq": [
     "biomaRt",
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "EGAD": [],
   "EGSEA": [
     "pathview",
     "GSVA",
@@ -4421,7 +4417,6 @@
   ],
   "regionReport": [
     "derfinder",
-    "DEFormats",
     "bumphunter",
     "GenomicFeatures",
     "GenomicFiles",
@@ -4586,7 +4581,6 @@
   "scRepertoire": [],
   "scTGIF": [
     "GSEABase",
-    "schex",
     "annotate"
   ],
   "scTensor": [
@@ -4595,7 +4589,6 @@
     "meshr",
     "GOstats",
     "ReactomePA",
-    "schex",
     "GSEABase",
     "genefilter",
     "annotate",
@@ -4626,7 +4619,6 @@
   "scater": [
     "scuttle"
   ],
-  "schex": [],
   "scmeth": [
     "bsseq",
     "AnnotationHub",

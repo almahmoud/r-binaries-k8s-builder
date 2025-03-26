@@ -1258,3 +1258,8 @@ hdxmsqc
 ShortRead
 VplotR
 waddR
+Anaquin
+DEFormats
+EBSEA
+EGAD
+schex
