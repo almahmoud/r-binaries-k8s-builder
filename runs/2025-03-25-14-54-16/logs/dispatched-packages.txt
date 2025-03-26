@@ -616,3 +616,5 @@ anota
 metabomxtr
 rain
 siggenes
+DeconRNASeq
+scde

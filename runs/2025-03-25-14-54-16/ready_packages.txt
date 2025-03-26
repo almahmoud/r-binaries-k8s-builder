@@ -1,8 +1,2 @@
-ABarray
-OCplus
-RTopper
-aCGH
-anota
-metabomxtr
-rain
-siggenes
+DeconRNASeq
+scde
