@@ -1187,3 +1187,8 @@ cellity
 esetVis
 MultiBaC
 rrvgo
+ASICS
+oligo
+qmtools
+speckle
+tRanslatome

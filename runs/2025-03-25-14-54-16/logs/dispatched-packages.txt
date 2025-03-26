@@ -1436,3 +1436,10 @@ epigenomix
 BgeeDB
 alabaster.mae
 alabaster.sce
+ArrayExpress
+ITALICS
+cn.farms
+frma
+mimager
+pdInfoBuilder
+puma

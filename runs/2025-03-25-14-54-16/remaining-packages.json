@@ -34,7 +34,6 @@
     "BSgenome"
   ],
   "APL": [],
-  "ASICS": [],
   "ASSIGN": [
     "sva",
     "genefilter",
@@ -118,9 +117,7 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "ArrayExpress": [
-    "oligo"
-  ],
+  "ArrayExpress": [],
   "BASiCS": [
     "scran",
     "scuttle"
@@ -475,8 +472,7 @@
     "BSgenome"
   ],
   "ChIPXpress": [
-    "frma",
-    "oligo"
+    "frma"
   ],
   "ChIPanalyser": [
     "BSgenome",
@@ -755,8 +751,7 @@
   "DrugVsDisease": [
     "biomaRt",
     "ArrayExpress",
-    "annotate",
-    "oligo"
+    "annotate"
   ],
   "DuplexDiscovereR": [
     "Gviz",
@@ -1221,9 +1216,7 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "ITALICS": [
-    "oligo"
-  ],
+  "ITALICS": [],
   "IVAS": [
     "GenomicFeatures",
     "rtracklayer"
@@ -2102,7 +2095,6 @@
     "pathview"
   ],
   "SCAN.UPC": [
-    "oligo",
     "sva",
     "genefilter",
     "annotate"
@@ -2982,9 +2974,7 @@
     "baySeq"
   ],
   "cmapR": [],
-  "cn.farms": [
-    "oligo"
-  ],
+  "cn.farms": [],
   "cn.mops": [],
   "coMethDMR": [
     "AnnotationHub",
@@ -3548,9 +3538,7 @@
     "flowWorkspace"
   ],
   "flowWorkspace": [],
-  "frma": [
-    "oligo"
-  ],
+  "frma": [],
   "funOmics": [],
   "funtooNorm": [
     "minfi",
@@ -4125,9 +4113,7 @@
   ],
   "microSTASIS": [],
   "microbiomeExplorer": [],
-  "mimager": [
-    "oligo"
-  ],
+  "mimager": [],
   "minfi": [
     "bumphunter",
     "genefilter",
@@ -4332,7 +4318,6 @@
     "annotate"
   ],
   "odseq": [],
-  "oligo": [],
   "omXplore": [
     "MSnbase",
     "PSMatch"
@@ -4426,9 +4411,7 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "pdInfoBuilder": [
-    "oligo"
-  ],
+  "pdInfoBuilder": [],
   "peakPantheR": [
     "MSnbase",
     "PSMatch"
@@ -4547,14 +4530,11 @@
     "MSnbase",
     "PSMatch"
   ],
-  "puma": [
-    "oligo"
-  ],
+  "puma": [],
   "qPLEXanalyzer": [
     "MSnbase",
     "PSMatch"
   ],
-  "qmtools": [],
   "qpgraph": [
     "annotate",
     "GenomicFeatures",
@@ -5082,7 +5062,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "speckle": [],
   "spicyR": [
     "ClassifyR",
     "genefilter",
@@ -5184,7 +5163,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "tRanslatome": [],
   "tadar": [
     "Gviz",
     "VariantAnnotation",
