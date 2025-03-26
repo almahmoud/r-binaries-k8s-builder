@@ -917,3 +917,9 @@ scPCA
 GeoDiff
 SpatialDecon
 SpatialOmicsOverlay
+CellNOptR
+NCIgraph
+Streamer
+biocViews
+epiNEM
+fgga

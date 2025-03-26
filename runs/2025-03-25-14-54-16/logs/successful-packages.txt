@@ -783,3 +783,5 @@ flowSpecs
 gaga
 GeomxTools
 ROTS
+geNetClassifier
+RBGL

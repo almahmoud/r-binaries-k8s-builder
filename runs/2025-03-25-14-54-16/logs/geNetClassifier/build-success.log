@@ -1,0 +1,313 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''geNetClassifier'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R Under development (unstable)
+  (2025-03-08 r87910)
+Installing package(s) 'geNetClassifier'
+also installing the dependencies ‘infotheo’, ‘proxy’, ‘generics’, ‘Biobase’, ‘EBarrays’, ‘minet’, ‘e1071’, ‘leukemiasEset’, ‘RUnit’, ‘BiocGenerics’
+
+trying URL 'https://cloud.r-project.org/src/contrib/infotheo_1.2.0.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/proxy_0.4-27.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/generics_0.1.3.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/Biobase_2.67.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/EBarrays_2.71.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/minet_3.65.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/e1071_1.7-16.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/experiment/src/contrib/leukemiasEset_1.43.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/RUnit_0.4.33.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocGenerics_0.53.6.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/geNetClassifier_1.47.0.tar.gz'
+* installing *source* package ‘infotheo’ ...
+** this is package ‘infotheo’ version ‘1.2.0.1’
+** package ‘infotheo’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c discretize.cpp -o discretize.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c entropy.cpp -o entropy.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o infotheo.so discretize.o entropy.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-infotheo/00new/infotheo/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘infotheo’ as ‘infotheo_1.2.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (infotheo)
+* installing *source* package ‘proxy’ ...
+** this is package ‘proxy’ version ‘0.4-27’
+** package ‘proxy’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c apply.c -o apply.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c arrayIndex.c -o arrayIndex.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c distance.c -o distance.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c dll.c -o dll.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c util.c -o util.o
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o proxy.so apply.o arrayIndex.o distance.o dll.o util.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-proxy/00new/proxy/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘proxy’ as ‘proxy_0.4-27_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (proxy)
+* installing *source* package ‘generics’ ...
+** this is package ‘generics’ version ‘0.1.3’
+** package ‘generics’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘generics’ as ‘generics_0.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (generics)
+* installing *source* package ‘RUnit’ ...
+** this is package ‘RUnit’ version ‘0.4.33’
+** package ‘RUnit’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RUnit’ as ‘RUnit_0.4.33_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RUnit)
+* installing *source* package ‘minet’ ...
+** this is package ‘minet’ version ‘3.65.0’
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c aracne.cpp -o aracne.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c clr.cpp -o clr.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c minet.cpp -o minet.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c mrnet.cpp -o mrnet.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c validate.cpp -o validate.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o minet.so aracne.o clr.o minet.o mrnet.o validate.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-minet/00new/minet/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘minet’ as ‘minet_3.65.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (minet)
+* installing *source* package ‘e1071’ ...
+** this is package ‘e1071’ version ‘1.7-16’
+** package ‘e1071’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rsvm.c -o Rsvm.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c cmeans.c -o cmeans.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c cshell.c -o cshell.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c floyd.c -o floyd.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c svm.cpp -o svm.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o e1071.so Rsvm.o cmeans.o cshell.o floyd.o init.o svm.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-e1071/00new/e1071/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘e1071’ as ‘e1071_1.7-16_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (e1071)
+* installing *source* package ‘BiocGenerics’ ...
+** this is package ‘BiocGenerics’ version ‘0.53.6’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘aperm’ in package ‘BiocGenerics’
+Creating a new generic function for ‘append’ in package ‘BiocGenerics’
+Creating a new generic function for ‘as.data.frame’ in package ‘BiocGenerics’
+Creating a new generic function for ‘cbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘do.call’ in package ‘BiocGenerics’
+Creating a new generic function for ‘duplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘anyDuplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘eval’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Reduce’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Filter’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Find’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Map’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Position’ in package ‘BiocGenerics’
+Creating a new generic function for ‘get’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mget’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grep’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grepl’ in package ‘BiocGenerics’
+Creating a new generic function for ‘is.unsorted’ in package ‘BiocGenerics’
+Creating a new generic function for ‘lapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘match’ in package ‘BiocGenerics’
+Creating a new generic function for ‘order’ in package ‘BiocGenerics’
+Creating a new generic function for ‘paste’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rank’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rownames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘colnames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘saveRDS’ in package ‘BiocGenerics’
+Creating a new generic function for ‘table’ in package ‘BiocGenerics’
+Creating a new generic function for ‘tapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unique’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unsplit’ in package ‘BiocGenerics’
+Creating a new generic function for ‘var’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sd’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.min’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.max’ in package ‘BiocGenerics’
+Creating a new generic function for ‘IQR’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mad’ in package ‘BiocGenerics’
+Creating a new generic function for ‘xtabs’ in package ‘BiocGenerics’
+Creating a new generic function for ‘basename’ in package ‘BiocGenerics’
+Creating a new generic function for ‘dirname’ in package ‘BiocGenerics’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocGenerics’ as ‘BiocGenerics_0.53.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocGenerics)
+* installing *source* package ‘Biobase’ ...
+** this is package ‘Biobase’ version ‘2.67.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rinit.c -o Rinit.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c anyMissing.c -o anyMissing.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c envir.c -o envir.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c matchpt.c -o matchpt.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rowMedians.c -o rowMedians.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sublist_extract.c -o sublist_extract.o
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Biobase.so Rinit.o anyMissing.o envir.o matchpt.o rowMedians.o sublist_extract.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-Biobase/00new/Biobase/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Biobase’ as ‘Biobase_2.67.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Biobase)
+* installing *source* package ‘EBarrays’ ...
+** this is package ‘EBarrays’ version ‘2.71.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ebarrays.c -o ebarrays.o
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o EBarrays.so ebarrays.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-EBarrays/00new/EBarrays/libs
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EBarrays’ as ‘EBarrays_2.71.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EBarrays)
+* installing *source* package ‘leukemiasEset’ ...
+** this is package ‘leukemiasEset’ version ‘1.43.0’
+** using staged installation
+** data
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘leukemiasEset’ as ‘leukemiasEset_1.43.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (leukemiasEset)
+* installing *source* package ‘geNetClassifier’ ...
+** this is package ‘geNetClassifier’ version ‘1.47.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘geNetClassifier’ as ‘geNetClassifier_1.47.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (geNetClassifier)
+
+The downloaded source packages are in
+	‘/tmp/RtmpkmxVjZ/downloaded_packages’
+Old packages: 'commonmark', 'curl', 'docopt', 'gert', 'httr2', 'knitr',
+  'littler', 'mime', 'pkgbuild', 'xml2', 'foreign'
+
+real	0m45.835s
+user	0m38.260s
+sys	0m11.718s
