@@ -465,3 +465,15 @@ pcaMethods
 plgem
 qusage
 randPack
+ABarray
+aCGH
+affycomp
+clusterStab
+cogena
+covEB
+massiR
+metabinR
+MSstats
+pandaR
+RUVnormalize
+timeOmics

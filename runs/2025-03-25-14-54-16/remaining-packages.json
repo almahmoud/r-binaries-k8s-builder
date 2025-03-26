@@ -1,5 +1,4 @@
 {
-  "ABarray": [],
   "ACE": [
     "QDNAseq",
     "GenomicRanges",
@@ -69,7 +68,6 @@
   ],
   "ADaCGH2": [
     "tilingArray",
-    "aCGH",
     "affy",
     "vsn",
     "genefilter",
@@ -1918,8 +1916,7 @@
     "SummarizedExperiment"
   ],
   "CRImage": [
-    "EBImage",
-    "aCGH"
+    "EBImage"
   ],
   "CSAR": [
     "S4Vectors",
@@ -7072,17 +7069,12 @@
     "UCSC.utils",
     "XVector"
   ],
-  "MSstats": [],
-  "MSstatsBig": [
-    "MSstats"
-  ],
+  "MSstatsBig": [],
   "MSstatsBioNet": [
-    "MSstats",
     "RCy3",
     "graph"
   ],
   "MSstatsLiP": [
-    "MSstats",
     "Biostrings",
     "MSstatsPTM",
     "S4Vectors",
@@ -7094,7 +7086,6 @@
   ],
   "MSstatsPTM": [
     "MSstatsTMT",
-    "MSstats",
     "Biostrings",
     "S4Vectors",
     "IRanges",
@@ -7148,7 +7139,6 @@
     "XVector"
   ],
   "MSstatsShiny": [
-    "MSstats",
     "MSstatsTMT",
     "MSstatsPTM",
     "Biostrings",
@@ -7158,9 +7148,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "MSstatsTMT": [
-    "MSstats"
-  ],
+  "MSstatsTMT": [],
   "MWASTools": [
     "SummarizedExperiment",
     "KEGGgraph",
@@ -9790,7 +9778,6 @@
     "SparseArray"
   ],
   "RUVcorr": [],
-  "RUVnormalize": [],
   "RVS": [
     "snpStats"
   ],
@@ -12834,7 +12821,6 @@
   ],
   "a4Core": [],
   "a4Preproc": [],
-  "aCGH": [],
   "abseqR": [],
   "adSplit": [
     "AnnotationDbi",
@@ -12892,7 +12878,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "affycomp": [],
   "affycoretools": [
     "affy",
     "GOstats",
@@ -13431,7 +13416,6 @@
   ],
   "artMS": [
     "AnnotationDbi",
-    "MSstats",
     "IRanges",
     "S4Vectors",
     "KEGGREST",
@@ -15041,7 +15025,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "clusterStab": [],
   "clustifyr": [
     "fgsea",
     "SingleCellExperiment",
@@ -15145,7 +15128,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "cogena": [],
   "cogeqc": [
     "Biostrings",
     "S4Vectors",
@@ -15472,7 +15454,6 @@
     "XVector",
     "Biostrings"
   ],
-  "covEB": [],
   "covRNA": [
     "genefilter",
     "AnnotationDbi",
@@ -19723,7 +19704,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "massiR": [],
   "mastR": [
     "AnnotationDbi",
     "GSEABase",
@@ -19852,7 +19832,6 @@
   "metabCombiner": [
     "S4Vectors"
   ],
-  "metabinR": [],
   "metabolomicsWorkbenchR": [
     "MultiAssayExperiment",
     "struct",
@@ -21946,7 +21925,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "pandaR": [],
   "panelcn.mops": [
     "cn.mops",
     "GenomicRanges",
@@ -22477,7 +22455,6 @@
     "affy",
     "GenomicFeatures",
     "AnnotationDbi",
-    "aCGH",
     "KEGGREST",
     "UCSC.utils",
     "Biostrings",
@@ -22926,7 +22903,6 @@
     "GenomicRanges",
     "AnnotationDbi",
     "IRanges",
-    "aCGH",
     "S4Vectors",
     "KEGGREST",
     "UCSC.utils",
@@ -26289,7 +26265,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "timeOmics": [],
   "timecourse": [],
   "tkWidgets": [],
   "tomoda": [
