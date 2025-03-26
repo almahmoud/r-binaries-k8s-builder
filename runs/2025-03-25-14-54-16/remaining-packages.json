@@ -401,9 +401,7 @@
     "flowMerge"
   ],
   "COTAN": [],
-  "CRISPRball": [
-    "PCAtools"
-  ],
+  "CRISPRball": [],
   "CRISPRseek": [
     "GenomicFeatures",
     "BSgenome",
@@ -794,7 +792,6 @@
     "oligo",
     "oligoClasses"
   ],
-  "Dune": [],
   "DuplexDiscovereR": [
     "Gviz",
     "rtracklayer",
@@ -1785,7 +1782,6 @@
   "PAST": [
     "rtracklayer"
   ],
-  "PCAtools": [],
   "PDATK": [
     "genefu",
     "biomaRt"
@@ -4958,9 +4954,7 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "regionalpcs": [
-    "PCAtools"
-  ],
+  "regionalpcs": [],
   "regioneR": [
     "BSgenome",
     "rtracklayer"
@@ -5230,7 +5224,6 @@
     "ensembldb",
     "biomaRt"
   ],
-  "scry": [],
   "scuttle": [],
   "scviR": [
     "scater",
