@@ -216,7 +216,6 @@
     "biomaRt"
   ],
   "BPRMeth": [],
-  "BREW3R.r": [],
   "BSgenome": [
     "rtracklayer",
     "Rsamtools",
@@ -1650,7 +1649,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "HiCBricks": [],
   "HiCDCPlus": [
     "GenomicInteractions",
     "BSgenome",
@@ -2433,7 +2431,6 @@
     "AnnotationFilter"
   ],
   "PIPETS": [],
-  "PIUMA": [],
   "PLSDAbatch": [
     "TreeSummarizedExperiment"
   ],
@@ -3942,7 +3939,6 @@
   ],
   "bnbc": [
     "sva",
-    "HiCBricks",
     "genefilter",
     "annotate"
   ],
@@ -6721,7 +6717,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "runibic": [],
   "sRACIPE": [],
   "sSNAPPY": [
     "graphite"

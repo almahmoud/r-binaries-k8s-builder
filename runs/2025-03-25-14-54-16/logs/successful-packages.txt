@@ -911,3 +911,7 @@ doseR
 gDRutils
 midasHLA
 SimBu
+BREW3R.r
+HiCBricks
+PIUMA
+runibic
