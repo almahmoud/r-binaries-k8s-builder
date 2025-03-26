@@ -568,3 +568,4 @@ BiocIO
 Rnits
 DFplyr
 martini
+scShapes
