@@ -1,8 +1,0 @@
-AlpsNMR
-DepecheR
-MetID
-Polytect
-bioassayR
-eiR
-fmcsR
-timeOmics
