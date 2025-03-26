@@ -983,3 +983,11 @@ spatialSimGP
 ggspavis
 nnSVG
 scider
+escheR
+poem
+scDDboost
+scDesign3
+scmap
+smoothclust
+sosta
+SVP

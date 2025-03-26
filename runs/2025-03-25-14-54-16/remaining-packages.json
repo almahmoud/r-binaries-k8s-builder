@@ -860,7 +860,6 @@
   ],
   "DESeq2": [],
   "DESpace": [
-    "sosta",
     "muscat",
     "DESeq2",
     "scater",
@@ -3020,7 +3019,6 @@
     "DOSE",
     "GOSemSim"
   ],
-  "SVP": [],
   "SWATH2stats": [
     "biomaRt"
   ],
@@ -3139,9 +3137,7 @@
   "SplineDV": [
     "scuttle"
   ],
-  "SpotSweeper": [
-    "escheR"
-  ],
+  "SpotSweeper": [],
   "StabMap": [
     "BiocSingular"
   ],
@@ -4816,7 +4812,6 @@
     "annotate",
     "BiocSingular"
   ],
-  "escheR": [],
   "esetVis": [
     "MLP"
   ],
@@ -6179,7 +6174,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "poem": [],
   "pogos": [
     "ontoProc",
     "AnnotationHub"
@@ -6582,7 +6576,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "scDDboost": [],
   "scDataviz": [],
   "scDblFinder": [
     "BiocSingular",
@@ -6593,7 +6586,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "scDesign3": [],
   "scDiagnostics": [],
   "scDotPlot": [
     "scater",
@@ -6714,7 +6706,6 @@
   "scifer": [
     "sangerseqR"
   ],
-  "scmap": [],
   "scmeth": [
     "bsseq",
     "AnnotationHub",
@@ -6972,7 +6963,6 @@
   ],
   "slingshot": [],
   "smartid": [],
-  "smoothclust": [],
   "smoppix": [],
   "snapcount": [],
   "soGGi": [
@@ -6982,7 +6972,6 @@
     "chipseq",
     "ShortRead"
   ],
-  "sosta": [],
   "sparrow": [
     "BiocSet",
     "GSEABase",
