@@ -912,3 +912,5 @@ rhdf5client
 sketchR
 HDF5Array
 optimalFlow
+phantasusLite
+scPCA

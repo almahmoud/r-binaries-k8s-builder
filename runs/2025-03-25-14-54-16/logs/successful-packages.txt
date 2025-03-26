@@ -775,3 +775,6 @@ ResidualMatrix
 simona
 tidyFlowCore
 flowCHIC
+rhdf5client
+ScaledMatrix
+TileDBArray
