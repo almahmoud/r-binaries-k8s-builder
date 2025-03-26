@@ -1,3 +1,0 @@
-BgeeDB
-alabaster.mae
-alabaster.sce
