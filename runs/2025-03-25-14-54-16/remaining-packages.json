@@ -5264,7 +5264,6 @@
     "SparseArray",
     "AnnotationFilter"
   ],
-  "GWAS.BAYES": [],
   "GWASTools": [
     "Biobase"
   ],
@@ -6798,7 +6797,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "Linnorm": [],
   "LiquidAssociation": [
     "Biobase",
     "AnnotationDbi",
@@ -8051,7 +8049,6 @@
     "GenomicAlignments",
     "BiocIO"
   ],
-  "MethylMix": [],
   "MethylSeekR": [
     "rtracklayer",
     "IRanges",
@@ -12953,7 +12950,6 @@
     "Biobase",
     "biobroom"
   ],
-  "TPP2D": [],
   "TREG": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -14572,7 +14568,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "bacon": [],
   "ballgown": [
     "GenomicRanges",
     "IRanges",
@@ -15184,7 +15179,6 @@
     "sva",
     "vsn",
     "RBGL",
-    "Linnorm",
     "genefilter",
     "edgeR",
     "AnnotationDbi",
@@ -17253,7 +17247,6 @@
     "graphite",
     "Rgraphviz",
     "AnnotationDbi",
-    "Linnorm",
     "RBGL",
     "Biobase",
     "IRanges",
@@ -18046,7 +18039,6 @@
     "graph",
     "mnem",
     "Rgraphviz",
-    "Linnorm",
     "RBGL"
   ],
   "epialleleR": [
@@ -20086,7 +20078,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "iCOBRA": [],
   "iCheck": [
     "Biobase",
     "lumi",
@@ -20856,7 +20847,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "limpa": [],
   "limpca": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -22271,8 +22261,7 @@
   "mixOmics": [],
   "mnem": [
     "graph",
-    "Rgraphviz",
-    "Linnorm"
+    "Rgraphviz"
   ],
   "moanin": [
     "SummarizedExperiment",
@@ -22991,7 +22980,6 @@
     "epiNEM",
     "graph",
     "Rgraphviz",
-    "Linnorm",
     "RBGL"
   ],
   "netSmooth": [

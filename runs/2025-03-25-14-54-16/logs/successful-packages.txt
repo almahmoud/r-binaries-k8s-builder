@@ -389,3 +389,10 @@ iChip
 limmaGUI
 lmdme
 marray
+bacon
+GWAS.BAYES
+iCOBRA
+limpa
+Linnorm
+MethylMix
+TPP2D
