@@ -518,3 +518,7 @@ MSstatsBig
 Mulcom
 NOISeq
 scde
+mfa
+NanoStringDiff
+PLPE
+RTCA

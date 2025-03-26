@@ -8015,7 +8015,6 @@
     "h5mread",
     "GenomicAlignments"
   ],
-  "NanoStringDiff": [],
   "NanoStringNCTools": [
     "S4Vectors",
     "Biostrings",
@@ -8554,7 +8553,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "PLPE": [],
   "PLSDAbatch": [
     "TreeSummarizedExperiment",
     "SingleCellExperiment",
@@ -9608,7 +9606,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RTCA": [],
   "RTCGAToolbox": [
     "DelayedArray",
     "GenomicRanges",
@@ -20105,7 +20102,6 @@
     "GenomicAlignments",
     "BiocIO"
   ],
-  "mfa": [],
   "miQC": [
     "SingleCellExperiment",
     "SummarizedExperiment",
