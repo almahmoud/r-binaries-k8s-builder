@@ -1146,7 +1146,6 @@
     "GOSemSim",
     "KEGGREST"
   ],
-  "Cardinal": [],
   "Category": [
     "AnnotationDbi",
     "RBGL",
@@ -6463,7 +6462,6 @@
     "RBioFormats",
     "NanoStringNCTools"
   ],
-  "SpeCond": [],
   "Spectra": [
     "MetaboCoreUtils"
   ],
@@ -10705,7 +10703,6 @@
     "SparseArray",
     "h5mread"
   ],
-  "iGC": [],
   "iNETgrate": [
     "SummarizedExperiment",
     "GenomicRanges",

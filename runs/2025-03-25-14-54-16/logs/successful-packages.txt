@@ -704,3 +704,6 @@ LedPred
 MsCoreUtils
 OLINgui
 twilight
+Cardinal
+iGC
+SpeCond
