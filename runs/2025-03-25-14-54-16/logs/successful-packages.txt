@@ -1149,3 +1149,7 @@ GOpro
 Rcpi
 fastLiquidAssociation
 SubCellBarCode
+ccmap
+csdR
+keggorthology
+mslp

@@ -2948,7 +2948,6 @@
   ],
   "ccImpute": [],
   "ccfindR": [],
-  "ccmap": [],
   "celaref": [],
   "celda": [
     "scater",
@@ -3269,7 +3268,6 @@
   "crlmm": [
     "oligoClasses"
   ],
-  "csdR": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -3999,7 +3997,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "keggorthology": [],
   "kissDE": [
     "DSS",
     "bsseq",
@@ -4375,7 +4372,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "mslp": [],
   "msmsEDA": [
     "MSnbase",
     "PSMatch"
