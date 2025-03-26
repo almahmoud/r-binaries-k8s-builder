@@ -25354,7 +25354,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "nuCpos": [],
   "nucleR": [
     "Biobase",
     "BiocGenerics",
