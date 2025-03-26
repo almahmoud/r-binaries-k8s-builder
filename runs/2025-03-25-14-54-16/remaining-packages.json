@@ -197,7 +197,6 @@
     "XVector",
     "Biostrings"
   ],
-  "ASGSCA": [],
   "ASICS": [
     "ropls",
     "SummarizedExperiment",
