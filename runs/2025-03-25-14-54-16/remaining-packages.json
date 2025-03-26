@@ -556,7 +556,6 @@
     "genefilter",
     "annotate"
   ],
-  "CatsCradle": [],
   "CeTF": [
     "clusterProfiler",
     "DESeq2",
