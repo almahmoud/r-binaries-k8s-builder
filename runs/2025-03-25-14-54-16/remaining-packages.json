@@ -4849,7 +4849,6 @@
     "S4Arrays",
     "SparseArray"
   ],
-  "HubPub": [],
   "HybridExpress": [
     "DESeq2",
     "SummarizedExperiment",
@@ -7358,7 +7357,6 @@
     "SparseArray",
     "XVector"
   ],
-  "Pedixplorer": [],
   "PepSetTest": [
     "SummarizedExperiment",
     "GenomicRanges",
