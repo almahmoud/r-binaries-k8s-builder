@@ -12091,7 +12091,6 @@
     "SparseArray",
     "biomaRt"
   ],
-  "Rigraphlib": [],
   "Rmagpie": [
     "Biobase",
     "BiocGenerics"
@@ -17720,7 +17719,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "clstutils": [],
   "clusterExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -29046,7 +29044,6 @@
     "beachmat",
     "DelayedArray",
     "BiocNeighbors",
-    "Rigraphlib",
     "assorthead",
     "SparseArray",
     "BiocGenerics",
@@ -31456,7 +31453,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "tripr": [],
   "tweeDEseq": [
     "limma",
     "edgeR"
