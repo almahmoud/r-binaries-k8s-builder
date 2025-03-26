@@ -1394,3 +1394,6 @@ msImpute
 mumosa
 oncoscanR
 Motif2Site
+biomaRt
+memes
+scReClassify
