@@ -930,3 +930,6 @@ HIPPO
 LoomExperiment
 CDI
 MetaNeighbor
+HiCExperiment
+SCnorm
+SingleR

@@ -1655,13 +1655,8 @@
   "HiCDOC": [
     "multiHiCcompare"
   ],
-  "HiCExperiment": [],
-  "HiContacts": [
-    "HiCExperiment"
-  ],
-  "HiCool": [
-    "HiCExperiment"
-  ],
+  "HiContacts": [],
+  "HiCool": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome",
@@ -2988,7 +2983,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "SCnorm": [],
   "SEtools": [
     "sechm",
     "DESeq2",
@@ -3136,7 +3130,6 @@
     "VariantAnnotation",
     "biomaRt"
   ],
-  "SingleR": [],
   "SomaticSignatures": [
     "VariantAnnotation",
     "ggbio",
@@ -7098,7 +7091,6 @@
     "scater",
     "scMerge",
     "scran",
-    "SingleR",
     "sva",
     "celda",
     "DropletUtils",

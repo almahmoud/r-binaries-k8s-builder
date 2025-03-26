@@ -1258,3 +1258,5 @@ SpectralTAD
 TADCompare
 multiHiCcompare
 tRNAdbImport
+HiContacts
+HiCool
