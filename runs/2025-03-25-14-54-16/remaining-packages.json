@@ -106,7 +106,6 @@
     "GSEABase",
     "annotate"
   ],
-  "AffiXcan": [],
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
@@ -2347,7 +2346,6 @@
   "MultiRNAflow": [
     "DESeq2"
   ],
-  "MultimodalExperiment": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",
@@ -3347,7 +3345,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "SpatialCPie": [],
   "SpatialExperiment": [
     "SingleCellExperiment"
   ],

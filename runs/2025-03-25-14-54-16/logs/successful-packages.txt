@@ -883,3 +883,6 @@ AnnotationDbi
 RTN
 TREG
 TTMap
+AffiXcan
+MultimodalExperiment
+SpatialCPie
