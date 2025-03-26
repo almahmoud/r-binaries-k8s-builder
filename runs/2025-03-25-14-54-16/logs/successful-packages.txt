@@ -1289,3 +1289,6 @@ animalcules
 MLSeq
 MsQuality
 phantasus
+CaMutQC
+NetActivity
+universalmotif
