@@ -978,3 +978,5 @@ cytomapper
 ExperimentSubset
 spaSim
 SpotClean
+spatialDE
+spatialSimGP

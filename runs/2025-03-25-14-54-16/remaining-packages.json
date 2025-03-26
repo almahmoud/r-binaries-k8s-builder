@@ -6991,7 +6991,6 @@
     "GSEABase",
     "annotate"
   ],
-  "spatialDE": [],
   "spatialFDA": [
     "ExperimentHub",
     "AnnotationHub"
@@ -7000,7 +6999,6 @@
     "genefilter",
     "annotate"
   ],
-  "spatialSimGP": [],
   "spatzie": [
     "BSgenome",
     "GenomicFeatures",
