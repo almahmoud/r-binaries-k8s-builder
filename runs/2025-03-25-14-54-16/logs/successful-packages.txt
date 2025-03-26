@@ -1099,3 +1099,5 @@ MBQN
 MPRAnalyze
 getDEE2
 StabMap
+gemma.R
+hummingbird

@@ -3804,7 +3804,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "gemma.R": [],
   "geneAttribution": [
     "GenomicFeatures",
     "rtracklayer"
@@ -3951,7 +3950,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "hummingbird": [],
   "hypeR": [],
   "iCNV": [
     "CODEX",
