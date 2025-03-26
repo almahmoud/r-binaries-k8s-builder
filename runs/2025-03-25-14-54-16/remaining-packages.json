@@ -2593,7 +2593,6 @@
     "seqPattern",
     "biomaRt"
   ],
-  "RCSL": [],
   "REBET": [],
   "REDseq": [
     "BSgenome",
