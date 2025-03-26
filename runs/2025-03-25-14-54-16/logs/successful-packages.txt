@@ -561,3 +561,6 @@ epistasisGA
 ExiMiR
 RGSEA
 RNAseqCovarImpute
+GWASTools
+S4Vectors
+veloviz
