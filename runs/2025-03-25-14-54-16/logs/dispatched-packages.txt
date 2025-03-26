@@ -492,3 +492,9 @@ marray
 multiClust
 oppti
 unifiedWMWqPCR
+MSstats
+OLIN
+RBM
+arrayQuality
+nnNorm
+stepNorm

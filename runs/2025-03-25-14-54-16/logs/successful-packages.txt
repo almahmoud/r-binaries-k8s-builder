@@ -384,3 +384,8 @@ scRecover
 snifter
 SUITOR
 TrIdent
+ABSSeq
+iChip
+limmaGUI
+lmdme
+marray
