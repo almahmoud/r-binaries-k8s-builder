@@ -242,8 +242,7 @@
     "S4Arrays",
     "SparseArray",
     "AnnotationFilter",
-    "h5mread",
-    "DirichletMultinomial"
+    "h5mread"
   ],
   "ATACseqTFEA": [
     "GenomicRanges",
@@ -260,7 +259,6 @@
     "S4Arrays",
     "DelayedArray",
     "pwalign",
-    "DirichletMultinomial",
     "SparseArray"
   ],
   "AUCell": [
@@ -2792,7 +2790,6 @@
     "SparseArray",
     "XVector"
   ],
-  "DirichletMultinomial": [],
   "DiscoRhythm": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -5219,7 +5216,6 @@
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
-    "DirichletMultinomial",
     "scater",
     "scuttle",
     "GenomicRanges",
@@ -5580,7 +5576,6 @@
     "GenomeInfoDb",
     "pwalign",
     "BSgenome",
-    "DirichletMultinomial",
     "GenomicRanges",
     "rtracklayer",
     "Rsamtools",
@@ -5739,7 +5734,6 @@
     "Biostrings",
     "pwalign",
     "BSgenome",
-    "DirichletMultinomial",
     "rtracklayer",
     "KEGGREST",
     "Rsamtools",
@@ -6204,8 +6198,7 @@
     "TFBSTools",
     "VariantAnnotation",
     "AnnotationFilter",
-    "h5mread",
-    "DirichletMultinomial"
+    "h5mread"
   ],
   "NBAMSeq": [
     "SummarizedExperiment",
@@ -9165,7 +9158,6 @@
     "Biostrings",
     "pwalign",
     "BSgenome",
-    "DirichletMultinomial",
     "GenomeInfoDb",
     "GenomicRanges",
     "rtracklayer",
@@ -10378,7 +10370,6 @@
     "TFBSTools",
     "GenomicAlignments",
     "pwalign",
-    "DirichletMultinomial",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -11472,7 +11463,6 @@
     "S4Arrays",
     "DelayedArray",
     "pwalign",
-    "DirichletMultinomial",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -12363,7 +12353,6 @@
     "KEGGREST",
     "pwalign",
     "BSgenome",
-    "DirichletMultinomial",
     "GenomicRanges",
     "rtracklayer",
     "Rsamtools",
@@ -12402,7 +12391,6 @@
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
-    "DirichletMultinomial",
     "scater",
     "scuttle",
     "XVector",
@@ -12950,7 +12938,6 @@
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
-    "DirichletMultinomial",
     "SparseArray"
   ],
   "enrichViewNet": [
@@ -13114,7 +13101,6 @@
     "annotate",
     "h5mread",
     "pwalign",
-    "DirichletMultinomial",
     "GenomicAlignments"
   ],
   "epiregulon.extra": [
@@ -13292,7 +13278,6 @@
     "GOSemSim",
     "SummarizedExperiment",
     "pwalign",
-    "DirichletMultinomial",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -14609,7 +14594,6 @@
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
-    "DirichletMultinomial",
     "scater",
     "scuttle",
     "GenomicRanges",
@@ -14985,7 +14969,6 @@
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
-    "DirichletMultinomial",
     "scater",
     "scuttle",
     "GenomicRanges",
@@ -15802,7 +15785,6 @@
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
-    "DirichletMultinomial",
     "scater",
     "scuttle",
     "XVector",
@@ -15831,7 +15813,6 @@
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
     "DelayedArray",
-    "DirichletMultinomial",
     "scater",
     "SingleCellExperiment",
     "S4Arrays",
@@ -16078,7 +16059,6 @@
     "S4Arrays",
     "DelayedArray",
     "pwalign",
-    "DirichletMultinomial",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -16130,7 +16110,6 @@
     "GenomeInfoDb",
     "pwalign",
     "BSgenome",
-    "DirichletMultinomial",
     "GenomicRanges",
     "rtracklayer",
     "Rsamtools",
@@ -16172,8 +16151,7 @@
     "DelayedArray",
     "KEGGREST",
     "AnnotationFilter",
-    "SparseArray",
-    "DirichletMultinomial"
+    "SparseArray"
   ],
   "motifcounter": [
     "Biostrings",
@@ -16193,7 +16171,6 @@
     "S4Arrays",
     "DelayedArray",
     "pwalign",
-    "DirichletMultinomial",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -16975,7 +16952,6 @@
     "S4Arrays",
     "DelayedArray",
     "pwalign",
-    "DirichletMultinomial",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -17439,7 +17415,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "pwalign",
-    "DirichletMultinomial",
     "KEGGREST",
     "SummarizedExperiment",
     "VariantAnnotation",
@@ -18148,7 +18123,6 @@
     "pwalign",
     "S4Arrays",
     "DelayedArray",
-    "DirichletMultinomial",
     "SparseArray"
   ],
   "rifi": [
@@ -19744,7 +19718,6 @@
     "S4Arrays",
     "DelayedArray",
     "pwalign",
-    "DirichletMultinomial",
     "KEGGREST",
     "SparseArray",
     "biomaRt",

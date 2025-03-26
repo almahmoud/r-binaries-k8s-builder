@@ -639,3 +639,4 @@ BumpyMatrix
 hmdbQuery
 Rcwl
 viper
+DirichletMultinomial
