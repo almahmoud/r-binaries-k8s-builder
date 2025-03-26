@@ -861,3 +861,8 @@ Sconify
 CSAR
 QSutils
 ROCpAI
+ADAPT
+flowTime
+NormalyzerDE
+PolySTest
+ramr

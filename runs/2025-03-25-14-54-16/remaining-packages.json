@@ -10,7 +10,6 @@
     "ADAM",
     "AnnotationDbi"
   ],
-  "ADAPT": [],
   "ADImpute": [
     "SingleCellExperiment"
   ],
@@ -2687,7 +2686,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "NormalyzerDE": [],
   "OGRE": [
     "Gviz",
     "AnnotationHub",
@@ -2864,7 +2862,6 @@
     "AnnotationDbi"
   ],
   "PRONE": [
-    "NormalyzerDE",
     "MSnbase",
     "POMA",
     "PSMatch",
@@ -2924,7 +2921,6 @@
     "GOSemSim",
     "graphite"
   ],
-  "PolySTest": [],
   "PrInCE": [
     "MSnbase",
     "PSMatch",
@@ -5878,7 +5874,6 @@
   "flowStats": [
     "flowWorkspace"
   ],
-  "flowTime": [],
   "flowTrans": [],
   "flowVS": [
     "flowStats",
@@ -7650,7 +7645,6 @@
     "rtracklayer",
     "AnnotationDbi"
   ],
-  "ramr": [],
   "ramwas": [
     "GenomicAlignments",
     "Rsamtools",
