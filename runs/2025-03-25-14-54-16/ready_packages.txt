@@ -1,6 +1,0 @@
-MSstats
-OLIN
-RBM
-arrayQuality
-nnNorm
-stepNorm
