@@ -637,7 +637,6 @@
     "AnnotationDbi",
     "GenomicAlignments"
   ],
-  "CSAR": [],
   "CSSQ": [
     "rtracklayer",
     "GenomicAlignments",
@@ -2984,7 +2983,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "QSutils": [],
   "QTLExperiment": [],
   "Qtlizer": [],
   "QuasR": [
@@ -3205,7 +3203,6 @@
     "AnnotationFilter"
   ],
   "RNAsense": [],
-  "ROCpAI": [],
   "ROntoTools": [],
   "RPA": [],
   "RSVSim": [

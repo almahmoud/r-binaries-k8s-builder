@@ -858,3 +858,6 @@ SynExtend
 MSA2dist
 Pirat
 Sconify
+CSAR
+QSutils
+ROCpAI
