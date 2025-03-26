@@ -1247,7 +1247,6 @@
     "Rgraphviz",
     "BiocGenerics"
   ],
-  "BiRewire": [],
   "BiSeq": [
     "S4Vectors",
     "IRanges",
@@ -1888,7 +1887,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "CFAssay": [],
   "CGHbase": [
     "Biobase",
     "marray",
@@ -9544,7 +9542,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "NPARC": [],
   "NTW": [],
   "NanoMethViz": [
     "S4Vectors",
@@ -10976,7 +10973,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RAREsim": [],
   "RBGL": [
     "graph",
     "BiocGenerics"
@@ -14474,7 +14470,6 @@
     "fgsea"
   ],
   "TrIdent": [],
-  "TrajectoryGeometry": [],
   "TrajectoryUtils": [
     "SingleCellExperiment",
     "S4Vectors",
@@ -15391,7 +15386,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "agilp": [],
   "airpart": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -15673,7 +15667,6 @@
     "GenomicAlignments",
     "h5mread"
   ],
-  "alevinQC": [],
   "altcdfenvs": [
     "BiocGenerics",
     "S4Vectors",
@@ -16522,11 +16515,6 @@
   "biocmake": [
     "dir.expiry"
   ],
-  "biodbChebi": [],
-  "biodbHmdb": [],
-  "biodbNcbi": [],
-  "biodbNci": [],
-  "biodbUniprot": [],
   "biomaRt": [
     "AnnotationDbi",
     "BiocGenerics",
@@ -17269,7 +17257,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "cellscape": [],
   "censcyt": [
     "diffcyt",
     "edgeR",
@@ -18166,7 +18153,6 @@
     "XVector",
     "Biostrings"
   ],
-  "consensus": [],
   "consensusDE": [
     "BiocGenerics",
     "AnnotationDbi",
@@ -20586,7 +20572,6 @@
     "BiocGenerics",
     "graph"
   ],
-  "fenr": [],
   "ffpe": [
     "Biobase",
     "BiocGenerics",
@@ -21509,7 +21494,6 @@
     "SparseArray",
     "XVector"
   ],
-  "ggkegg": [],
   "ggmanh": [
     "gdsfmt",
     "SeqArray",
@@ -21931,7 +21915,6 @@
     "fabia",
     "BiocGenerics"
   ],
-  "hca": [],
   "hdxmsqc": [
     "QFeatures",
     "S4Vectors",
@@ -26398,7 +26381,6 @@
   "phenomis": [
     "SummarizedExperiment",
     "Biobase",
-    "biodbChebi",
     "limma",
     "MultiAssayExperiment",
     "MultiDataSet",
