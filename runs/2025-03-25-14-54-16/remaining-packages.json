@@ -268,8 +268,7 @@
   ],
   "CAMERA": [
     "xcms",
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "CARDspa": [],
   "CATALYST": [
@@ -475,8 +474,7 @@
     "annotate"
   ],
   "CluMSID": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "CoSIA": [
     "ExperimentHub",
@@ -528,12 +526,10 @@
     "BSgenome"
   ],
   "DAPAR": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "DEP": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "DEScan2": [
     "ChIPpeakAnno",
@@ -1036,8 +1032,7 @@
   "IPO": [
     "xcms",
     "CAMERA",
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "ITALICS": [],
   "IVAS": [
@@ -1093,8 +1088,7 @@
   "LOBSTAHS": [
     "xcms",
     "CAMERA",
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "LRcell": [
     "ExperimentHub",
@@ -1127,8 +1121,7 @@
   "MAIT": [
     "CAMERA",
     "xcms",
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "MBECS": [
     "sva",
@@ -1224,20 +1217,15 @@
     "MSnbase",
     "msmsTests",
     "AnnotationHub",
-    "msmsEDA",
-    "PSMatch"
+    "msmsEDA"
   ],
-  "MSnbase": [
-    "PSMatch"
-  ],
+  "MSnbase": [],
   "MSstatsQC": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "MSstatsQCgui": [
     "MSstatsQC",
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "MatrixQCvis": [
     "ExperimentHub",
@@ -1470,7 +1458,6 @@
   "PRONE": [
     "MSnbase",
     "POMA",
-    "PSMatch",
     "sva",
     "genefilter",
     "annotate"
@@ -1480,7 +1467,6 @@
     "genefilter",
     "annotate"
   ],
-  "PSMatch": [],
   "PanomiR": [
     "GSEABase",
     "annotate"
@@ -1499,13 +1485,11 @@
     "graphite"
   ],
   "PrInCE": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "Prostar": [
     "DAPAR",
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "ProteoDisco": [
     "GenomicFeatures",
@@ -1603,8 +1587,7 @@
     "consensusSeekeR"
   ],
   "RMassBank": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "RNAAgeCalc": [
     "recount",
@@ -2279,7 +2262,6 @@
   "bandle": [
     "MSnbase",
     "pRoloc",
-    "PSMatch",
     "MLInterfaces",
     "biomaRt",
     "annotate",
@@ -2556,8 +2538,7 @@
   ],
   "cliqueMS": [
     "xcms",
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "clusterExperiment": [
     "zinbwave",
@@ -2632,8 +2613,7 @@
   ],
   "cosmiq": [
     "xcms",
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "cosmosR": [
     "GSEABase",
@@ -3031,8 +3011,7 @@
   "flagme": [
     "xcms",
     "CAMERA",
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "flowCut": [],
   "flowGate": [
@@ -3146,13 +3125,10 @@
   "gmoviz": [
     "GenomicFeatures"
   ],
-  "goProfiles": [],
   "goSTAG": [
     "biomaRt"
   ],
-  "goSorensen": [
-    "goProfiles"
-  ],
+  "goSorensen": [],
   "goseq": [
     "GenomicFeatures",
     "txdbmaker",
@@ -3408,8 +3384,7 @@
   "metaMS": [
     "CAMERA",
     "xcms",
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "metabolomicsWorkbenchR": [],
   "metagene2": [],
@@ -3616,13 +3591,11 @@
     "txdbmaker"
   ],
   "msmsEDA": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "msmsTests": [
     "MSnbase",
-    "msmsEDA",
-    "PSMatch"
+    "msmsEDA"
   ],
   "mspms": [],
   "msqrob2": [],
@@ -3669,8 +3642,7 @@
   ],
   "ncGTW": [
     "xcms",
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "nearBynding": [
     "plyranges",
@@ -3706,8 +3678,7 @@
     "annotate"
   ],
   "omXplore": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "omicRexposome": [
     "sva",
@@ -3745,13 +3716,11 @@
     "MLInterfaces",
     "biomaRt",
     "annotate",
-    "genefilter",
-    "PSMatch"
+    "genefilter"
   ],
   "pRolocGUI": [
     "pRoloc",
     "MSnbase",
-    "PSMatch",
     "MLInterfaces",
     "biomaRt",
     "annotate",
@@ -3793,8 +3762,7 @@
   ],
   "pdInfoBuilder": [],
   "peakPantheR": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "peco": [
     "scater",
@@ -3888,13 +3856,11 @@
     "BSgenome"
   ],
   "ptairMS": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "puma": [],
   "qPLEXanalyzer": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "qpgraph": [
     "annotate",
@@ -4358,8 +4324,7 @@
   ],
   "squallms": [
     "xcms",
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "srnadiff": [
     "GenomicFeatures",
@@ -4400,8 +4365,7 @@
     "BSgenome"
   ],
   "synapter": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "syntenet": [],
   "systemPipeR": [],
@@ -4452,8 +4416,7 @@
   ],
   "tomoda": [],
   "topdownr": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "trackViewer": [
     "GenomicFeatures",
@@ -4583,8 +4546,7 @@
     "annotate"
   ],
   "xcms": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "yarn": [
     "biomaRt",

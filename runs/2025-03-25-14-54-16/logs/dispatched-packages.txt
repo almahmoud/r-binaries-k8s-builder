@@ -1522,3 +1522,5 @@ sevenC
 syntenet
 tidyCoverage
 wiggleplotr
+MSnbase
+goSorensen
