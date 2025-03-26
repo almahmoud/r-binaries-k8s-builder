@@ -569,3 +569,9 @@ Rnits
 DFplyr
 martini
 scShapes
+BiocVersion
+CellMapper
+COMPASS
+CTDquerier
+msPurity
+seq.hotSPOT
