@@ -1101,3 +1101,7 @@ getDEE2
 StabMap
 gemma.R
 hummingbird
+genomicInstability
+lionessR
+MAI
+marr

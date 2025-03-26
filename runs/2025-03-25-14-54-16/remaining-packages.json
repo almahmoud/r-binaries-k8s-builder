@@ -1385,7 +1385,6 @@
     "rtracklayer",
     "bumphunter"
   ],
-  "MAI": [],
   "MAIT": [
     "CAMERA",
     "xcms",
@@ -3826,7 +3825,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "genomicInstability": [],
   "geomeTriD": [
     "trackViewer",
     "GenomicFeatures",
@@ -4117,7 +4115,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "lionessR": [],
   "lipidr": [
     "ropls"
   ],
@@ -4175,7 +4172,6 @@
     "plotgardener",
     "rtracklayer"
   ],
-  "marr": [],
   "maser": [
     "rtracklayer",
     "Gviz",
