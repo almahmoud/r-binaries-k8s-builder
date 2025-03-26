@@ -3381,7 +3381,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "VDJdive": [],
   "VaSP": [
     "ballgown",
     "GenomicAlignments",
