@@ -1348,3 +1348,5 @@ InTAD
 isomiRs
 msqrob2
 scran
+BSgenome
+consensusSeekeR
