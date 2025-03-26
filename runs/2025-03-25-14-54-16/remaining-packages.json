@@ -8113,7 +8113,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "NormqPCR": [],
   "OGRE": [
     "S4Vectors",
     "GenomicRanges",
@@ -10265,7 +10264,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "Rtpca": [],
   "Rtreemix": [
     "graph"
   ],
@@ -11882,7 +11880,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "TMixClust": [],
   "TOAST": [
     "SummarizedExperiment",
     "GenomicRanges",

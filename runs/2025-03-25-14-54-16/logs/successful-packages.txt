@@ -533,3 +533,6 @@ GeneExpressionSignature
 mbQTL
 roastgsa
 SIMAT
+NormqPCR
+Rtpca
+TMixClust
