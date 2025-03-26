@@ -11472,7 +11472,6 @@
     "a4Core"
   ],
   "a4Core": [],
-  "abseqR": [],
   "adSplit": [
     "AnnotationDbi",
     "KEGGREST",
@@ -21660,7 +21659,6 @@
     "XVector",
     "Biostrings"
   ],
-  "scTHI": [],
   "scTensor": [
     "AnnotationDbi",
     "SummarizedExperiment",

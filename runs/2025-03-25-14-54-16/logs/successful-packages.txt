@@ -577,3 +577,5 @@ msPurity
 seq.hotSPOT
 metahdep
 RVS
+abseqR
+scTHI
