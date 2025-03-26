@@ -431,3 +431,5 @@ biodbNcbi
 biodbNci
 biodbUniprot
 alevinQC
+clst
+statTarget

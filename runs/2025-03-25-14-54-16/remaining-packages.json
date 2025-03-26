@@ -2724,7 +2724,6 @@
     "HDF5Array",
     "methylumi",
     "lumi",
-    "ROC",
     "KEGGREST",
     "BiocVersion",
     "BSgenome",
@@ -4719,7 +4718,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "EnMCB": [],
   "EnhancedVolcano": [],
   "EnrichDO": [
     "BiocGenerics",
@@ -7840,7 +7838,6 @@
     "S4Arrays",
     "methylumi",
     "lumi",
-    "ROC",
     "XVector",
     "GenomicFeatures",
     "AnnotationDbi",
@@ -9823,7 +9820,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "OSTA.data": [],
   "OTUbase": [
     "S4Vectors",
     "IRanges",
@@ -11280,7 +11276,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "RNAdecay": [],
   "RNAmodR": [
     "S4Vectors",
     "IRanges",
@@ -11428,7 +11423,6 @@
     "limma",
     "edgeR"
   ],
-  "ROC": [],
   "ROCpAI": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -13901,7 +13895,6 @@
   "TCC": [
     "DESeq2",
     "edgeR",
-    "ROC",
     "S4Vectors",
     "IRanges",
     "GenomicRanges",
@@ -16425,7 +16418,6 @@
     "DelayedArray",
     "HDF5Array",
     "lumi",
-    "ROC",
     "KEGGREST",
     "XVector",
     "S4Arrays",
@@ -17790,12 +17782,9 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "clst": [
-    "ROC"
-  ],
+  "clst": [],
   "clstutils": [
-    "clst",
-    "ROC"
+    "clst"
   ],
   "clustComp": [],
   "clusterExperiment": [
@@ -21412,7 +21401,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "geva": [],
   "geyser": [
     "BiocStyle",
     "ComplexHeatmap",
@@ -23260,7 +23248,6 @@
     "affy",
     "limma",
     "gcrma",
-    "ROC",
     "AnnotationDbi",
     "BiocGenerics",
     "Biobase",
@@ -29928,7 +29915,6 @@
     "DelayedArray",
     "HDF5Array",
     "lumi",
-    "ROC",
     "KEGGREST",
     "XVector",
     "S4Arrays",
@@ -30564,9 +30550,7 @@
     "pwalign",
     "BiocIO"
   ],
-  "statTarget": [
-    "ROC"
-  ],
+  "statTarget": [],
   "stepNorm": [
     "marray",
     "limma"
@@ -31955,7 +31939,6 @@
     "limma",
     "methylumi",
     "lumi",
-    "ROC",
     "BiocGenerics",
     "minfi",
     "affy",
