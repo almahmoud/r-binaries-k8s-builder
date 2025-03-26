@@ -879,3 +879,7 @@ scPCA
 RPA
 SplicingFactory
 Trendy
+AnnotationDbi
+RTN
+TREG
+TTMap
