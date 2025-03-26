@@ -517,7 +517,6 @@
   ],
   "CPSM": [],
   "CRISPRball": [
-    "dittoSeq",
     "PCAtools",
     "BiocSingular"
   ],
@@ -3002,9 +3001,7 @@
     "GenomicAlignments"
   ],
   "SPIA": [],
-  "SPIAT": [
-    "dittoSeq"
-  ],
+  "SPIAT": [],
   "SPLINTER": [
     "biomaRt",
     "GenomicAlignments",
@@ -4444,7 +4441,6 @@
     "GenomicAlignments"
   ],
   "dandelionR": [
-    "destiny",
     "miloR",
     "BiocSingular"
   ],
@@ -4549,7 +4545,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "destiny": [],
   "diffHic": [
     "Rsamtools",
     "BSgenome",
@@ -4578,7 +4573,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "dittoSeq": [],
   "divergence": [],
   "dmrseq": [
     "bsseq",

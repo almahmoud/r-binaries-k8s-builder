@@ -971,3 +971,5 @@ ggsc
 hoodscanR
 treekoR
 VisiumIO
+destiny
+dittoSeq
