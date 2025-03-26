@@ -27,7 +27,6 @@
     "sva",
     "genefilter"
   ],
-  "ASURAT": [],
   "ASpli": [
     "GenomicFeatures",
     "Gviz",
@@ -2352,7 +2351,6 @@
     "GenomicFeatures"
   ],
   "epialleleR": [],
-  "epidecodeR": [],
   "epigraHMM": [
     "GreyListChIP"
   ],
@@ -2757,7 +2755,6 @@
     "xcms",
     "MSnbase"
   ],
-  "metagene2": [],
   "metaseqR2": [
     "biomaRt",
     "DSS",
@@ -3241,7 +3238,6 @@
   ],
   "rifi": [],
   "rifiComparative": [],
-  "rmspc": [],
   "rnaEditr": [
     "bumphunter",
     "GenomicFeatures"
@@ -3496,7 +3492,6 @@
   "spillR": [
     "CATALYST"
   ],
-  "splatter": [],
   "splineTimeR": [
     "GSEABase"
   ],

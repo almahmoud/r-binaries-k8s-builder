@@ -1350,3 +1350,8 @@ msqrob2
 scran
 BSgenome
 consensusSeekeR
+ASURAT
+epidecodeR
+metagene2
+rmspc
+splatter
