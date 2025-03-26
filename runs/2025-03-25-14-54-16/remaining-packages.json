@@ -169,7 +169,6 @@
   ],
   "BASiCStan": [
     "BASiCS",
-    "glmGamPoi",
     "scran",
     "scuttle",
     "BiocSingular"
@@ -3321,7 +3320,6 @@
   ],
   "TnT": [],
   "ToxicoGx": [],
-  "UCell": [],
   "UMI4Cats": [
     "ShortRead",
     "regioneR",
@@ -4430,7 +4428,6 @@
     "flowDensity"
   ],
   "cycle": [],
-  "cydar": [],
   "cypress": [
     "TOAST",
     "DESeq2"
@@ -4843,7 +4840,6 @@
     "AUCell",
     "GSEABase",
     "GSVA",
-    "UCell",
     "annotate",
     "BiocSingular"
   ],
@@ -5087,7 +5083,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "glmGamPoi": [],
   "glmSparseNet": [
     "biomaRt",
     "TCGAutils",
@@ -5328,7 +5323,6 @@
     "scuttle",
     "cytomapper"
   ],
-  "immApex": [],
   "immunogenViewer": [
     "UniProt.ws"
   ],
@@ -5407,9 +5401,7 @@
     "scuttle",
     "BiocSingular"
   ],
-  "lemur": [
-    "glmGamPoi"
-  ],
+  "lemur": [],
   "limpca": [],
   "lineagespot": [
     "VariantAnnotation",
@@ -7321,9 +7313,7 @@
     "biomaRt",
     "topGO"
   ],
-  "transformGamPoi": [
-    "glmGamPoi"
-  ],
+  "transformGamPoi": [],
   "transite": [],
   "transmogR": [
     "BSgenome",

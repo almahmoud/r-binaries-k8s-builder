@@ -1298,3 +1298,5 @@ spatialSimGP
 stJoincount
 tpSVG
 xenLite
+lemur
+transformGamPoi

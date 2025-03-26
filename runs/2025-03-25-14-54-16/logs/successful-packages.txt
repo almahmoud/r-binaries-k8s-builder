@@ -955,3 +955,7 @@ HiCool
 SPOTlight
 Nebulosa
 SingleCellAlleleExperiment
+cydar
+glmGamPoi
+immApex
+UCell
