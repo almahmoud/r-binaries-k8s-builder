@@ -1067,3 +1067,6 @@ CompoundDb
 SICtools
 CNVPanelizer
 Rbowtie2
+GeneGeneInteR
+MEIGOR
+QDNAseq

@@ -1,7 +1,5 @@
 {
-  "ACE": [
-    "QDNAseq"
-  ],
+  "ACE": [],
   "ADAM": [],
   "ADAMgui": [
     "ADAM"
@@ -1256,10 +1254,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "GeneBreak": [
-    "QDNAseq"
-  ],
-  "GeneGeneInteR": [],
+  "GeneBreak": [],
   "GeneMeta": [
     "genefilter",
     "annotate"
@@ -1646,7 +1641,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MEIGOR": [],
   "MGFM": [
     "annotate"
   ],
@@ -2170,7 +2164,6 @@
     "biomaRt",
     "BSgenome"
   ],
-  "QDNAseq": [],
   "QFeatures": [],
   "Qtlizer": [],
   "QuasR": [
@@ -3299,7 +3292,6 @@
     "bsseq",
     "VariantAnnotation",
     "rtracklayer",
-    "QDNAseq",
     "dmrseq",
     "ExperimentHub",
     "AnnotationHub",
@@ -3468,9 +3460,7 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "cfdnakit": [
-    "QDNAseq"
-  ],
+  "cfdnakit": [],
   "cghMCR": [
     "CNTools",
     "genefilter",
