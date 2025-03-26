@@ -428,7 +428,6 @@
   "BPRMeth": [
     "GenomicRanges"
   ],
-  "BRAIN": [],
   "BREW3R.r": [
     "GenomicRanges"
   ],
@@ -3205,9 +3204,7 @@
     "annotate",
     "KEGGREST"
   ],
-  "Harshlight": [
-    "altcdfenvs"
-  ],
+  "Harshlight": [],
   "HelloRanges": [
     "GenomicRanges",
     "BSgenome",
@@ -4042,10 +4039,7 @@
     "SparseArray"
   ],
   "MSstatsBioNet": [],
-  "MSstatsLiP": [
-    "MSstatsPTM"
-  ],
-  "MSstatsPTM": [],
+  "MSstatsLiP": [],
   "MSstatsQC": [
     "MSnbase",
     "PSMatch",
@@ -4069,9 +4063,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "MSstatsShiny": [
-    "MSstatsPTM"
-  ],
+  "MSstatsShiny": [],
   "MWASTools": [
     "SummarizedExperiment",
     "KEGGREST",
@@ -7487,7 +7479,6 @@
     "GenomicAlignments",
     "h5mread"
   ],
-  "altcdfenvs": [],
   "amplican": [
     "pwalign",
     "ShortRead",
