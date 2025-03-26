@@ -1033,3 +1033,6 @@ heatmaps
 triplex
 epistack
 SPIA
+MsFeatures
+SeqArray
+SpotSweeper

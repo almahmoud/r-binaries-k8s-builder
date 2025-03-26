@@ -1312,3 +1312,8 @@ cytoviewer
 simpleSeg
 SpotSweeper
 Melissa
+GBScleanR
+GDSArray
+SAIGEgds
+SeqVarTools
+ggmanh

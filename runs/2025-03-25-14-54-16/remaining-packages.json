@@ -400,7 +400,6 @@
   "CAMERA": [
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -452,8 +451,7 @@
     "Rsamtools"
   ],
   "CNVRanger": [
-    "GDSArray",
-    "SeqArray"
+    "GDSArray"
   ],
   "CNVfilteR": [
     "regioneR",
@@ -1285,9 +1283,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "GBScleanR": [
-    "SeqArray"
-  ],
+  "GBScleanR": [],
   "GDCRNATools": [
     "DESeq2",
     "clusterProfiler",
@@ -1298,11 +1294,8 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "GDSArray": [
-    "SeqArray"
-  ],
+  "GDSArray": [],
   "GENESIS": [
-    "SeqArray",
     "SeqVarTools"
   ],
   "GEOexplorer": [
@@ -1667,7 +1660,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -1758,7 +1750,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -1810,7 +1801,6 @@
     "CAMERA",
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -2149,7 +2139,6 @@
     "QFeatures",
     "AnnotationFilter"
   ],
-  "MsFeatures": [],
   "MsQuality": [
     "MsExperiment",
     "QFeatures",
@@ -2522,7 +2511,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicFeatures",
-    "SeqArray",
     "SeqVarTools",
     "GenomicAlignments"
   ],
@@ -2884,9 +2872,7 @@
     "BSgenome"
   ],
   "Rsamtools": [],
-  "SAIGEgds": [
-    "SeqArray"
-  ],
+  "SAIGEgds": [],
   "SARC": [
     "plyranges",
     "GenomicFeatures",
@@ -3008,7 +2994,6 @@
   "SemDist": [
     "annotate"
   ],
-  "SeqArray": [],
   "SeqGSEA": [
     "DESeq2",
     "biomaRt"
@@ -3017,9 +3002,7 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "SeqVarTools": [
-    "SeqArray"
-  ],
+  "SeqVarTools": [],
   "ShortRead": [
     "Rsamtools",
     "GenomicAlignments"
@@ -3120,7 +3103,6 @@
   "SplineDV": [
     "scuttle"
   ],
-  "SpotSweeper": [],
   "StabMap": [
     "BiocSingular"
   ],
@@ -3370,8 +3352,7 @@
     "GenomicAlignments"
   ],
   "VariantExperiment": [
-    "GDSArray",
-    "SeqArray"
+    "GDSArray"
   ],
   "VariantFiltering": [
     "VariantAnnotation",
@@ -4087,7 +4068,6 @@
     "xcms",
     "MSnbase",
     "PSMatch",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "AnnotationFilter"
@@ -4209,7 +4189,6 @@
   "cosmiq": [
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -4834,7 +4813,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -4995,9 +4973,7 @@
   "ggcyto": [
     "flowWorkspace"
   ],
-  "ggmanh": [
-    "SeqArray"
-  ],
+  "ggmanh": [],
   "ggseqalign": [],
   "ginmappeR": [
     "UniProt.ws"
@@ -5432,7 +5408,6 @@
     "CAMERA",
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -5862,7 +5837,6 @@
   "ncGTW": [
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -6974,7 +6948,6 @@
     "MsExperiment",
     "QFeatures",
     "PSMatch",
-    "MsFeatures",
     "AnnotationFilter"
   ],
   "srnadiff": [
@@ -7344,7 +7317,6 @@
   ],
   "xcms": [
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
