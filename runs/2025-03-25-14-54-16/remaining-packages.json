@@ -1353,7 +1353,6 @@
   ],
   "LimROTS": [],
   "LinTInd": [],
-  "LiquidAssociation": [],
   "LymphoSeq": [],
   "M3Drop": [
     "scater",
@@ -3692,9 +3691,7 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "fastLiquidAssociation": [
-    "LiquidAssociation"
-  ],
+  "fastLiquidAssociation": [],
   "fcScan": [
     "VariantAnnotation",
     "rtracklayer",
