@@ -1072,3 +1072,9 @@ MEIGOR
 QDNAseq
 CPSM
 csaw
+DelayedTensor
+h5vc
+NewWave
+SimFFPE
+TEQC
+VariantExperiment

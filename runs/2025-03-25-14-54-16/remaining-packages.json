@@ -864,7 +864,6 @@
     "rtracklayer",
     "biomaRt"
   ],
-  "DelayedTensor": [],
   "DiffBind": [
     "GenomicAlignments",
     "systemPipeR",
@@ -1943,7 +1942,6 @@
   "NetSAM": [
     "biomaRt"
   ],
-  "NewWave": [],
   "NoRCE": [
     "biomaRt",
     "rtracklayer",
@@ -2649,7 +2647,6 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "SimFFPE": [],
   "SingleCellSignalR": [
     "scran",
     "scuttle"
@@ -2791,7 +2788,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "TEQC": [],
   "TFARM": [],
   "TFBSTools": [
     "BSgenome",
@@ -2938,7 +2934,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "VariantExperiment": [],
   "VariantFiltering": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -4448,7 +4443,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "h5vc": [],
   "hdxmsqc": [
     "QFeatures"
   ],
