@@ -14589,7 +14589,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "diffGeneAnalysis": [],
   "diffHic": [
     "GenomicRanges",
     "InteractionSet",
