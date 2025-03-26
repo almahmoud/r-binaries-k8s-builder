@@ -620,3 +620,5 @@ DeconRNASeq
 scde
 MSstatsBig
 MSstatsTMT
+hapFabia
+mosbi

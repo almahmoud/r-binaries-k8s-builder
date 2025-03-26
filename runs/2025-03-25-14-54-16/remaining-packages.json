@@ -16367,7 +16367,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "discordant": [],
   "distinct": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -17211,7 +17210,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "fabia": [],
   "factDesign": [],
   "factR": [
     "Biostrings",
@@ -18419,9 +18417,7 @@
     "XVector",
     "UCSC.utils"
   ],
-  "hapFabia": [
-    "fabia"
-  ],
+  "hapFabia": [],
   "hdxmsqc": [
     "QFeatures",
     "S4Vectors",
@@ -19843,7 +19839,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "metabomxtr": [],
   "metagene2": [
     "GenomicRanges",
     "rtracklayer",
@@ -20300,9 +20295,7 @@
     "UCSC.utils"
   ],
   "miRSM": [
-    "fabia",
     "BicARE",
-    "rqubic",
     "SummarizedExperiment",
     "GSEABase",
     "clusterProfiler",
@@ -20739,9 +20732,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "mosbi": [
-    "fabia"
-  ],
+  "mosbi": [],
   "mosdef": [
     "AnnotationDbi",
     "topGO",
@@ -23559,7 +23550,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "rqubic": [],
   "rrvgo": [
     "GOSemSim",
     "AnnotationDbi",

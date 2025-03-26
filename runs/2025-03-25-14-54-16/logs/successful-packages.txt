@@ -482,3 +482,7 @@ ddCt
 DeconRNASeq
 OCplus
 rain
+discordant
+fabia
+metabomxtr
+rqubic
