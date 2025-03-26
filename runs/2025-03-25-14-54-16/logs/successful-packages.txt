@@ -996,3 +996,7 @@ missRows
 smoppix
 omicplotR
 tpSVG
+cytoviewer
+mbkmeans
+simpleSeg
+survClust

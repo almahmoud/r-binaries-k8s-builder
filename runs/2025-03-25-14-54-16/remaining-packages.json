@@ -4126,7 +4126,6 @@
   "clusterExperiment": [
     "BiocSingular",
     "zinbwave",
-    "mbkmeans",
     "genefilter",
     "annotate"
   ],
@@ -4413,7 +4412,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "cytoviewer": [],
   "dada2": [
     "ShortRead",
     "Rsamtools",
@@ -5367,7 +5365,6 @@
   ],
   "lisaClust": [
     "spicyR",
-    "simpleSeg",
     "ClassifyR",
     "genefilter",
     "annotate"
@@ -5454,7 +5451,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "mbkmeans": [],
   "megadepth": [],
   "memes": [
     "universalmotif"
@@ -5927,7 +5923,6 @@
     "clusterExperiment",
     "BiocSingular",
     "zinbwave",
-    "mbkmeans",
     "scuttle",
     "genefilter",
     "annotate"
@@ -6892,7 +6887,6 @@
   "simPIC": [
     "scuttle"
   ],
-  "simpleSeg": [],
   "simplifyEnrichment": [],
   "singleCellTK": [
     "AnnotationHub",
@@ -7000,7 +6994,6 @@
   "speckle": [],
   "spicyR": [
     "ClassifyR",
-    "simpleSeg",
     "genefilter",
     "annotate"
   ],
@@ -7080,7 +7073,6 @@
   "surfaltr": [
     "biomaRt"
   ],
-  "survClust": [],
   "survtype": [],
   "sva": [
     "genefilter",
