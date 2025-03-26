@@ -536,3 +536,9 @@ SIMAT
 NormqPCR
 Rtpca
 TMixClust
+affy
+BrowserViz
+GSEAlm
+messina
+RUVcorr
+trio
