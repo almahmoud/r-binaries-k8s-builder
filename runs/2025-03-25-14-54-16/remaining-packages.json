@@ -3496,7 +3496,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "MsBackendMetaboLights": [],
   "MsBackendRawFileReader": [],
   "MsBackendSql": [],
   "MsDataHub": [
@@ -5769,7 +5768,6 @@
   "adverSCarial": [
     "DelayedArray"
   ],
-  "affyILM": [],
   "affycoretools": [
     "GOstats",
     "AnnotationDbi",
