@@ -928,7 +928,6 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "HoloFoodR": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS"
@@ -1749,7 +1748,6 @@
   "SplicingGraphs": [
     "GenomicFeatures"
   ],
-  "SplineDV": [],
   "Statial": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation",
