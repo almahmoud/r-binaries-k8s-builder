@@ -1206,3 +1206,9 @@ flowFP
 gscreend
 Melissa
 rqt
+ggmanh
+planttfhunter
+regsplice
+rfPred
+rScudo
+ssviz
