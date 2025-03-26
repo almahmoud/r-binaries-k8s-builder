@@ -527,3 +527,9 @@ ReadqPCR
 RIVER
 Rmagpie
 SPEM
+annotationTools
+bioDist
+GeneExpressionSignature
+mbQTL
+roastgsa
+SIMAT

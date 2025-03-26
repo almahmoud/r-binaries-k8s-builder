@@ -1564,7 +1564,6 @@
   ],
   "CHETAH": [
     "SingleCellExperiment",
-    "bioDist",
     "S4Vectors",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -2668,7 +2667,6 @@
     "ExperimentHub",
     "AnnotationDbi",
     "biomaRt",
-    "annotationTools",
     "IRanges",
     "S4Vectors",
     "KEGGREST",
@@ -4956,7 +4954,6 @@
     "UCSC.utils",
     "Biostrings"
   ],
-  "GeneExpressionSignature": [],
   "GeneGeneInteR": [
     "snpStats",
     "Rsamtools",
@@ -8816,7 +8813,6 @@
     "XVector"
   ],
   "PhyloProfile": [
-    "bioDist",
     "Biostrings",
     "ExperimentHub",
     "S4Vectors",
@@ -10563,7 +10559,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "SIMAT": [],
   "SMITE": [
     "GenomicRanges",
     "AnnotationDbi",
@@ -13169,7 +13164,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "annotationTools": [],
   "annotatr": [
     "AnnotationDbi",
     "AnnotationHub",
@@ -13759,7 +13753,6 @@
     "GenomicAlignments",
     "BiocIO"
   ],
-  "bioDist": [],
   "biobroom": [],
   "biocGraph": [
     "Rgraphviz",
@@ -19591,7 +19584,6 @@
     "Biostrings"
   ],
   "matter": [],
-  "mbQTL": [],
   "mbkmeans": [
     "DelayedArray",
     "S4Vectors",
@@ -23351,7 +23343,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "roastgsa": [],
   "ropls": [
     "MultiAssayExperiment",
     "MultiDataSet",
