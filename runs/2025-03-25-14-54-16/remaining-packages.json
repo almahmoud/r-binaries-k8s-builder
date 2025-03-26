@@ -6692,9 +6692,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "Mfuzz": [
-    "tkWidgets"
-  ],
+  "Mfuzz": [],
   "MiPP": [],
   "MiRaGE": [
     "AnnotationDbi",
@@ -7069,7 +7067,6 @@
     "SummarizedExperiment",
     "IRanges",
     "GenomicRanges",
-    "tkWidgets",
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
@@ -7336,9 +7333,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "OLINgui": [
-    "tkWidgets"
-  ],
+  "OLINgui": [],
   "OMICsPCA": [
     "HelloRanges",
     "MultiAssayExperiment",
@@ -10923,7 +10918,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "TurboNorm": [],
   "UCSC.utils": [],
   "UCell": [
     "SingleCellExperiment",
@@ -14143,8 +14137,7 @@
     "flowViz"
   ],
   "cycle": [
-    "Mfuzz",
-    "tkWidgets"
+    "Mfuzz"
   ],
   "cydar": [
     "SingleCellExperiment",
@@ -17749,7 +17742,6 @@
     "AnnotationFilter"
   ],
   "metaSeq": [],
-  "metabCombiner": [],
   "metabolomicsWorkbenchR": [
     "MultiAssayExperiment",
     "struct",
@@ -19940,7 +19932,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "plier": [],
   "plotgardener": [
     "GenomeInfoDb",
     "GenomicRanges",
@@ -20366,7 +20357,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "qpcrNorm": [],
   "qpgraph": [
     "annotate",
     "AnnotationDbi",
@@ -23546,7 +23536,6 @@
     "UCSC.utils"
   ],
   "timecourse": [],
-  "tkWidgets": [],
   "tomoda": [
     "SummarizedExperiment",
     "GenomicRanges",

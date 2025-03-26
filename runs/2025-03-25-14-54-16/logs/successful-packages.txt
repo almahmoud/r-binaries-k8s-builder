@@ -589,3 +589,8 @@ STATegRa
 makecdfenv
 matter
 twoddpcr
+metabCombiner
+plier
+qpcrNorm
+tkWidgets
+TurboNorm
