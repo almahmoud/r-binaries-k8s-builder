@@ -256,3 +256,5 @@ SMAD
 sSeq
 TargetScore
 zlibbioc
+SamSPECTRAL
+seqTools

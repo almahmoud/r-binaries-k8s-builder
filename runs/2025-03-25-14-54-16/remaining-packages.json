@@ -2229,7 +2229,6 @@
     "flowMerge",
     "flowPeaks",
     "limma",
-    "SamSPECTRAL",
     "BiocGenerics",
     "Biobase",
     "graph",
@@ -12951,7 +12950,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "SamSPECTRAL": [],
   "Scale4C": [
     "GenomicRanges",
     "IRanges",
@@ -19100,7 +19098,6 @@
   "ddPCRclust": [
     "flowCore",
     "flowDensity",
-    "SamSPECTRAL",
     "flowPeaks",
     "Biobase",
     "BiocGenerics",
@@ -27094,9 +27091,7 @@
     "S4Arrays",
     "SparseArray"
   ],
-  "qckitfastq": [
-    "seqTools"
-  ],
+  "qckitfastq": [],
   "qcmetrics": [
     "Biobase",
     "S4Vectors",
@@ -29510,7 +29505,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "seqTools": [],
   "seqcombo": [],
   "seqsetvis": [
     "GenomeInfoDb",

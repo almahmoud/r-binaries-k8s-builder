@@ -424,3 +424,4 @@ rpx
 seqTools
 tomoseqr
 wppi
+qckitfastq
