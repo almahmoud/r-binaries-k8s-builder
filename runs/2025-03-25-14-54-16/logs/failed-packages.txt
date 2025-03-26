@@ -8,3 +8,4 @@ CytoGLMM
 gpuMagic
 hypeR
 rsbml
+Harshlight

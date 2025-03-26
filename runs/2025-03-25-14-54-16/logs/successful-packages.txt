@@ -743,3 +743,5 @@ SparseArray
 a4Classif
 MsBackendMgf
 MsBackendMsp
+MEDME
+MSstatsLiP

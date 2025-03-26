@@ -3376,7 +3376,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "MEDME": [],
   "MEIGOR": [
     "CNORode",
     "CellNOptR",
@@ -3559,7 +3558,6 @@
     "DelayedArray"
   ],
   "MSstatsBioNet": [],
-  "MSstatsLiP": [],
   "MSstatsQC": [
     "MSnbase",
     "PSMatch",
