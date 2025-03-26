@@ -277,7 +277,6 @@
     "XVector",
     "limma"
   ],
-  "ASSET": [],
   "ASSIGN": [
     "sva",
     "genefilter",
@@ -11035,9 +11034,7 @@
     "graph",
     "BiocGenerics"
   ],
-  "REBET": [
-    "ASSET"
-  ],
+  "REBET": [],
   "REDseq": [
     "BiocGenerics",
     "multtest",
