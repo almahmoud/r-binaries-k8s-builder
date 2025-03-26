@@ -582,3 +582,4 @@ scTHI
 IHW
 OmicsMLRepoR
 diffGeneAnalysis
+easyreporting

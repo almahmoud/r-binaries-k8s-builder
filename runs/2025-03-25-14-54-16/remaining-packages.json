@@ -14908,7 +14908,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "easyreporting": [],
   "edge": [
     "sva",
     "genefilter",
