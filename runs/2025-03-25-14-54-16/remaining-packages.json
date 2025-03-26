@@ -394,7 +394,6 @@
     "genefilter",
     "annotate"
   ],
-  "CNVPanelizer": [],
   "CNVRanger": [],
   "CNVfilteR": [
     "regioneR",
@@ -620,7 +619,6 @@
   ],
   "CircSeqAlignTk": [
     "ShortRead",
-    "Rbowtie2",
     "Rhisat2",
     "txdbmaker",
     "SGSeq",
@@ -2380,7 +2378,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "Rbowtie2": [],
   "RcisTarget": [
     "AUCell",
     "GSEABase",
@@ -2882,7 +2879,6 @@
     "regioneR",
     "BSgenome",
     "DESeq2",
-    "Rbowtie2",
     "GenomicAlignments",
     "annotate",
     "GenomicFeatures",
@@ -4175,7 +4171,6 @@
   "esATAC": [
     "ShortRead",
     "pipeFrame",
-    "Rbowtie2",
     "rtracklayer",
     "ChIPseeker",
     "clusterProfiler",
