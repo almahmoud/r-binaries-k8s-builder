@@ -1049,3 +1049,8 @@ MetNet
 MWASTools
 packFinder
 rigvf
+BiocSingular
+BiocSklearn
+CNORdt
+CNORfeeder
+CNORode

@@ -1337,3 +1337,13 @@ h5vc
 rfPred
 ssviz
 tracktables
+COTAN
+DelayedTensor
+MEIGOR
+NewWave
+PCAtools
+ReactomeGSA
+SCArray
+StabMap
+miloR
+scry
