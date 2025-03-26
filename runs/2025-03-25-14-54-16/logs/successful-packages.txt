@@ -508,3 +508,13 @@ CGHcall
 dyebias
 GeneSelectMMD
 metagenomeSeq
+CGHnormaliter
+CGHregions
+CMA
+HEM
+HybridMTest
+MiChip
+MSstatsBig
+Mulcom
+NOISeq
+scde

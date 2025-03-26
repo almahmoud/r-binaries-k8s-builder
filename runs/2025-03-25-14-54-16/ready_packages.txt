@@ -1,3 +1,1 @@
-CGHnormaliter
-Maaslin2
-mbQTL
+metaSeq

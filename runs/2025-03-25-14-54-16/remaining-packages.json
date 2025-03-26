@@ -169,7 +169,6 @@
     "rtracklayer",
     "VariantAnnotation",
     "Rsamtools",
-    "HybridMTest",
     "S4Vectors",
     "IRanges",
     "GenomeInfoDb",
@@ -1563,8 +1562,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "CGHnormaliter": [],
-  "CGHregions": [],
   "CHETAH": [
     "SingleCellExperiment",
     "bioDist",
@@ -1600,7 +1597,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "CMA": [],
   "CNEr": [
     "Biostrings",
     "pwalign",
@@ -1669,7 +1665,6 @@
   "CNVPanelizer": [
     "GenomicRanges",
     "S4Vectors",
-    "NOISeq",
     "IRanges",
     "Rsamtools",
     "GenomeInfoDb",
@@ -5474,7 +5469,6 @@
     "XVector"
   ],
   "HELP": [],
-  "HEM": [],
   "HERON": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -5787,7 +5781,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "HybridMTest": [],
   "IFAA": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -7028,7 +7021,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "MSstatsBig": [],
   "MSstatsBioNet": [
     "RCy3",
     "graph"
@@ -7446,7 +7438,6 @@
   "Mfuzz": [
     "tkWidgets"
   ],
-  "MiChip": [],
   "MiPP": [],
   "MiRaGE": [
     "S4Vectors",
@@ -7814,7 +7805,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "Mulcom": [],
   "MultiAssayExperiment": [
     "SummarizedExperiment",
     "DelayedArray",
@@ -7998,7 +7988,6 @@
     "RCy3",
     "Rgraphviz"
   ],
-  "NOISeq": [],
   "NanoMethViz": [
     "S4Vectors",
     "SummarizedExperiment",
@@ -13671,7 +13660,6 @@
     "SummarizedExperiment",
     "MAST",
     "microbiome",
-    "NOISeq",
     "Maaslin2",
     "GenomicRanges",
     "IRanges",
@@ -14073,7 +14061,6 @@
     "SummarizedExperiment",
     "DELocal",
     "DESeq2",
-    "NOISeq",
     "genefilter",
     "clusterProfiler",
     "sechm",
@@ -19711,9 +19698,7 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "metaSeq": [
-    "NOISeq"
-  ],
+  "metaSeq": [],
   "metabCombiner": [
     "S4Vectors"
   ],
@@ -24164,7 +24149,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "scde": [],
   "scds": [
     "S4Vectors",
     "SingleCellExperiment",
