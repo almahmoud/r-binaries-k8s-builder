@@ -2340,7 +2340,6 @@
     "scuttle"
   ],
   "MPRAnalyze": [],
-  "MSA2dist": [],
   "MSPrep": [
     "sva",
     "genefilter",
@@ -2926,7 +2925,6 @@
     "GOSemSim",
     "graphite"
   ],
-  "Pirat": [],
   "PolySTest": [],
   "PrInCE": [
     "MSnbase",
@@ -3620,7 +3618,6 @@
     "AnnotationDbi"
   ],
   "Scale4C": [],
-  "Sconify": [],
   "SemDist": [
     "AnnotationDbi",
     "annotate"
@@ -5527,7 +5524,6 @@
   "doseR": [],
   "doubletrouble": [
     "syntenet",
-    "MSA2dist",
     "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",

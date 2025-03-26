@@ -855,3 +855,6 @@ motifcounter
 MSstatsBioNet
 synapsis
 SynExtend
+MSA2dist
+Pirat
+Sconify
