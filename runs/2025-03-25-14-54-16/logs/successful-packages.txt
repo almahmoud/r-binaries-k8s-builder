@@ -866,3 +866,10 @@ flowTime
 NormalyzerDE
 PolySTest
 ramr
+MetaCyto
+MultiAssayExperiment
+QTLExperiment
+RaggedExperiment
+Scale4C
+SDAMS
+SeqGate
