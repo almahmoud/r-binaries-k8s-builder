@@ -757,3 +757,7 @@ affyILM
 MsBackendMetaboLights
 DelayedArray
 SpectraQL
+h5mread
+MsBackendRawFileReader
+MsBackendSql
+RBioFormats

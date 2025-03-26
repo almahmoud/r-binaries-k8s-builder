@@ -1,14 +1,1 @@
-DelayedDataFrame
-DelayedMatrixStats
-DelayedRandomArray
-Rarr
-ResidualMatrix
-SQLDataFrame
-ScaledMatrix
-SummarizedExperiment
-TileDBArray
-adverSCarial
-beachmat
-orthogene
-rhdf5client
-sketchR
+HDF5Array
