@@ -622,3 +622,6 @@ MSstatsBig
 MSstatsTMT
 hapFabia
 mosbi
+KCsmart
+OmicsMLRepoR
+trio
