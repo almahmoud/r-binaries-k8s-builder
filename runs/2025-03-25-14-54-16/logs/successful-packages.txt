@@ -897,3 +897,9 @@ RNAsense
 SIAMCAT
 SingleCellExperiment
 zFPKM
+InteractionSet
+kmcut
+Modstrings
+PAIRADISE
+pairkat
+XAItest

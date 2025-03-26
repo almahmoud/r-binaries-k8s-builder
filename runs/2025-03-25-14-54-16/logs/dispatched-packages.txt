@@ -1247,3 +1247,8 @@ switchde
 tidySingleCellExperiment
 waddR
 zellkonverter
+EDIRquery
+HiCExperiment
+HiCParser
+HiCcompare
+tRNA
