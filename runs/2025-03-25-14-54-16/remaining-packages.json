@@ -3159,7 +3159,6 @@
     "h5mread",
     "XVector"
   ],
-  "DepecheR": [],
   "DiffBind": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -9674,7 +9673,6 @@
     "XVector"
   ],
   "SRAdb": [],
-  "STATegRa": [],
   "SVMDO": [
     "DOSE",
     "AnnotationDbi",

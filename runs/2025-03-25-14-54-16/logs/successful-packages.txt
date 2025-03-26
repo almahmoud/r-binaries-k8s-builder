@@ -584,3 +584,5 @@ OmicsMLRepoR
 diffGeneAnalysis
 easyreporting
 SharedObject
+DepecheR
+STATegRa
