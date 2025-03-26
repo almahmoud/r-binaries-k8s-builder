@@ -3022,7 +3022,6 @@
   "ggcyto": [
     "flowWorkspace"
   ],
-  "ginmappeR": [],
   "girafe": [],
   "glmSparseNet": [
     "biomaRt",
@@ -3161,7 +3160,6 @@
   ],
   "igvShiny": [],
   "imcRtools": [],
-  "immunogenViewer": [],
   "intansv": [
     "ggbio",
     "biovizBase",
@@ -3941,7 +3939,6 @@
     "scran",
     "annotate"
   ],
-  "scGPS": [],
   "scHOT": [],
   "scMerge": [
     "M3Drop",
@@ -4238,7 +4235,6 @@
   ],
   "syntenet": [],
   "systemPipeR": [],
-  "systemPipeTools": [],
   "tLOH": [
     "VariantAnnotation",
     "BSgenome",

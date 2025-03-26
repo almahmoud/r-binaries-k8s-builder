@@ -1302,3 +1302,7 @@ Glimma
 loci2path
 scuttle
 structToolbox
+ginmappeR
+immunogenViewer
+scGPS
+systemPipeTools
