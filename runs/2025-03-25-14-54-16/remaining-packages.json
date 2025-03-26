@@ -3762,7 +3762,6 @@
     "annotate",
     "rtracklayer"
   ],
-  "gCrisprTools": [],
   "gDNAx": [
     "GenomicFiles",
     "GenomicFeatures",
@@ -4739,7 +4738,6 @@
     "rtracklayer"
   ],
   "plyxp": [],
-  "pmp": [],
   "podkat": [
     "BSgenome",
     "rtracklayer"
@@ -4784,7 +4782,6 @@
     "biomaRt"
   ],
   "proDA": [],
-  "procoil": [],
   "profileplyr": [
     "soGGi",
     "ChIPseeker",
