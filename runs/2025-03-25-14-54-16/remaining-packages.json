@@ -1428,7 +1428,6 @@
     "GenomicFeatures",
     "GenomicDataCommons"
   ],
-  "TDbasedUFEadv": [],
   "TENET": [
     "TCGAbiolinks",
     "sesame",
@@ -1475,7 +1474,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "TnT": [],
   "ToxicoGx": [],
   "UMI4Cats": [
     "regioneR",
@@ -1898,7 +1896,6 @@
     "genefilter",
     "GenomicFeatures"
   ],
-  "corral": [],
   "cosmiq": [
     "xcms",
     "MSnbase"
@@ -2095,7 +2092,6 @@
   "ensembldb": [
     "GenomicFeatures"
   ],
-  "epialleleR": [],
   "epigraHMM": [],
   "epimutacions": [
     "minfi",
@@ -2933,7 +2929,6 @@
     "GSEABase",
     "GenomicFeatures"
   ],
-  "scHOT": [],
   "scMerge": [
     "M3Drop"
   ],
