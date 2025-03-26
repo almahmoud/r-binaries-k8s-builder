@@ -3151,9 +3151,7 @@
   "StabMap": [
     "BiocSingular"
   ],
-  "Statial": [
-    "treekoR"
-  ],
+  "Statial": [],
   "StructuralVariantAnnotation": [
     "rtracklayer",
     "VariantAnnotation",
@@ -5062,7 +5060,6 @@
   "ggmanh": [
     "SeqArray"
   ],
-  "ggsc": [],
   "ggseqalign": [],
   "ggspavis": [],
   "ginmappeR": [
@@ -5178,7 +5175,6 @@
   "hipathia": [
     "AnnotationHub"
   ],
-  "hoodscanR": [],
   "hpar": [
     "ExperimentHub",
     "AnnotationHub"
@@ -7305,7 +7301,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "treekoR": [],
   "tricycle": [
     "scater",
     "scuttle",

@@ -1,5 +1,1 @@
-POWSC
-celaref
-iSEEhex
-iSEEindex
-iSEEpathways
+Statial

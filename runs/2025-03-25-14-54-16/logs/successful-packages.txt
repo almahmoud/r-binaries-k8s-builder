@@ -967,3 +967,6 @@ MoleculeExperiment
 infercnv
 iSEE
 MAST
+ggsc
+hoodscanR
+treekoR
