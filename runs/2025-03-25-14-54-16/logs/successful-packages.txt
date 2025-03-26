@@ -292,3 +292,7 @@ RNAdecay
 ROC
 DiffLogo
 miRBaseConverter
+GSAR
+interacCircos
+metaCCA
+RDRToolbox

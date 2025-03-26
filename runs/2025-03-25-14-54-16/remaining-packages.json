@@ -5642,7 +5642,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "GSAR": [],
   "GSCA": [],
   "GSEABase": [
     "BiocGenerics",
@@ -11053,7 +11052,6 @@
     "graph",
     "BiocGenerics"
   ],
-  "RDRToolbox": [],
   "REBET": [
     "ASSET"
   ],
@@ -22674,7 +22672,6 @@
     "SparseArray",
     "biomaRt"
   ],
-  "interacCircos": [],
   "interactiveDisplay": [
     "BiocGenerics",
     "interactiveDisplayBase",
@@ -23531,7 +23528,6 @@
     "UCSC.utils"
   ],
   "messina": [],
-  "metaCCA": [],
   "metaMS": [
     "CAMERA",
     "xcms",
