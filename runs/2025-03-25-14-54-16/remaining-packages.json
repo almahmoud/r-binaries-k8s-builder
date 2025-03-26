@@ -1315,7 +1315,6 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "LRBaseDbi": [],
   "LRcell": [
     "ExperimentHub",
     "AnnotationHub"
@@ -1360,7 +1359,6 @@
     "genefilter",
     "annotate"
   ],
-  "MCbiclust": [],
   "MDTS": [],
   "MEAL": [
     "minfi",
@@ -4046,7 +4044,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "maPredictDSC": [],
   "maaslin3": [],
   "made4": [],
   "magpie": [

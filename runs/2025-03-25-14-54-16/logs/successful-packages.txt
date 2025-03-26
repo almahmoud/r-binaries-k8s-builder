@@ -1157,3 +1157,6 @@ dandelionR
 multiMiR
 oligoClasses
 TFARM
+LRBaseDbi
+maPredictDSC
+MCbiclust
