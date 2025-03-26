@@ -11370,7 +11370,6 @@
     "mzR",
     "Biobase"
   ],
-  "SIMD": [],
   "SMITE": [
     "GenomicRanges",
     "AnnotationDbi",
@@ -11643,7 +11642,6 @@
     "Biobase",
     "S4Vectors"
   ],
-  "ScreenR": [],
   "SemDist": [
     "AnnotationDbi",
     "annotate",
@@ -18176,7 +18174,6 @@
     "SparseArray",
     "biomaRt"
   ],
-  "erccdashboard": [],
   "erma": [
     "GenomicFiles",
     "rtracklayer",
@@ -28382,7 +28379,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "tweeDEseq": [],
   "twilight": [
     "Biobase"
   ],

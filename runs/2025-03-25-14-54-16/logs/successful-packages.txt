@@ -423,3 +423,7 @@ AWFisher
 ccrepe
 ROSeq
 methylMnM
+erccdashboard
+ScreenR
+SIMD
+tweeDEseq
