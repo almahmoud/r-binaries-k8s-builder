@@ -373,9 +373,7 @@
     "GreyListChIP",
     "BSgenome"
   ],
-  "ChIPXpress": [
-    "frma"
-  ],
+  "ChIPXpress": [],
   "ChIPanalyser": [
     "BSgenome"
   ],
@@ -2764,7 +2762,6 @@
   "flowVS": [
     "flowStats"
   ],
-  "frma": [],
   "funOmics": [],
   "funtooNorm": [
     "minfi",
@@ -3417,7 +3414,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "pdInfoBuilder": [],
   "peakPantheR": [
     "MSnbase"
   ],
@@ -3433,7 +3429,6 @@
     "GSEABase",
     "genefilter"
   ],
-  "phenopath": [],
   "pipeComp": [
     "scran",
     "scater"
@@ -3916,7 +3911,6 @@
   "splineTimeR": [
     "GSEABase"
   ],
-  "spoon": [],
   "squallms": [
     "xcms",
     "MSnbase"
