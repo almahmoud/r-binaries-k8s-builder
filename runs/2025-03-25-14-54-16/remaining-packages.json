@@ -5895,7 +5895,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "GeneGA": [],
   "GeneGeneInteR": [
     "snpStats",
     "Rsamtools",
@@ -6289,7 +6288,6 @@
     "UCSC.utils"
   ],
   "GeoTcgaData": [
-    "topconfects",
     "SummarizedExperiment",
     "GenomicRanges",
     "Biobase",
@@ -17096,7 +17094,6 @@
     "UCSC.utils"
   ],
   "ccrepe": [],
-  "ceRNAnetsim": [],
   "celaref": [
     "SummarizedExperiment",
     "MAST",
@@ -31071,7 +31068,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "topconfects": [],
   "topdownr": [
     "BiocGenerics",
     "Biostrings",
@@ -31853,7 +31849,6 @@
     "DelayedMatrixStats",
     "BiocGenerics",
     "limma",
-    "topconfects",
     "IRanges",
     "S4Arrays",
     "SparseArray",
