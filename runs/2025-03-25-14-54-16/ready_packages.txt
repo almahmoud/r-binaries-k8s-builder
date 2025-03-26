@@ -1,3 +1,0 @@
-clusterSeq
-riboSeqR
-segmentSeq

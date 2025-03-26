@@ -512,7 +512,6 @@
   ],
   "EasyCellType": [],
   "EnrichDO": [],
-  "EnrichedHeatmap": [],
   "EnrichmentBrowser": [
     "GSEABase",
     "pathview",
@@ -2796,7 +2795,6 @@
     "ChIPseeker",
     "GenomicFeatures",
     "rGREAT",
-    "EnrichedHeatmap",
     "chipseq"
   ],
   "projectR": [],
@@ -2954,7 +2952,6 @@
     "M3Drop"
   ],
   "scPipe": [],
-  "scQTLtools": [],
   "scRNAseqApp": [
     "slingshot"
   ],

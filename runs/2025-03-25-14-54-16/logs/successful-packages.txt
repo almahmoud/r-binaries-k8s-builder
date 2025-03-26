@@ -1445,3 +1445,5 @@ baySeq
 IONiseR
 MethTargetedNGS
 rifi
+EnrichedHeatmap
+scQTLtools
