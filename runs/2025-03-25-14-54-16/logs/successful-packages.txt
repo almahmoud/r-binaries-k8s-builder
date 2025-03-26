@@ -1036,3 +1036,7 @@ SPIA
 MsFeatures
 SeqArray
 SpotSweeper
+AnnotationFilter
+flowClean
+MBASED
+Rsamtools
