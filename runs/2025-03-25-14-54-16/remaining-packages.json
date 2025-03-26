@@ -281,7 +281,6 @@
     "GSEABase",
     "annotate"
   ],
-  "BioGA": [],
   "BioNAR": [],
   "BioNERO": [
     "sva",
@@ -831,7 +830,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "DNAshapeR": [],
   "DOSE": [
     "GOSemSim"
   ],
@@ -1783,7 +1781,6 @@
     "PSMatch",
     "QFeatures"
   ],
-  "MWASTools": [],
   "Macarron": [],
   "MatrixQCvis": [
     "ExperimentHub",
@@ -1805,7 +1802,6 @@
   "MetMashR": [
     "struct"
   ],
-  "MetNet": [],
   "MetaPhOR": [
     "clusterProfiler",
     "DOSE",
@@ -1817,11 +1813,9 @@
     "AnnotationHub",
     "CompoundDb"
   ],
-  "MetaboDynamics": [],
   "MetaboSignal": [
     "hpar",
     "biomaRt",
-    "MWASTools",
     "mygene",
     "ensembldb",
     "ExperimentHub",
@@ -3566,7 +3560,6 @@
     "batchelor",
     "ensembldb",
     "GenomicFeatures",
-    "megadepth",
     "BiocSingular",
     "rtracklayer",
     "GenomicAlignments"
@@ -3576,7 +3569,6 @@
     "batchelor",
     "ensembldb",
     "GenomicFeatures",
-    "megadepth",
     "scran",
     "scuttle",
     "BiocSingular",
@@ -3593,7 +3585,6 @@
     "batchelor",
     "ensembldb",
     "GenomicFeatures",
-    "megadepth",
     "rtracklayer",
     "BiocSingular",
     "GenomicAlignments"
@@ -4131,7 +4122,6 @@
     "genefilter",
     "annotate"
   ],
-  "eisaR": [],
   "enhancerHomologSearch": [
     "BSgenome",
     "motifmatchr",
@@ -4871,7 +4861,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "megadepth": [],
   "memes": [
     "universalmotif"
   ],
@@ -5401,7 +5390,6 @@
     "genefilter",
     "QFeatures"
   ],
-  "packFinder": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools",
@@ -5797,7 +5785,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "rigvf": [],
   "rmspc": [
     "rtracklayer",
     "GenomicAlignments"

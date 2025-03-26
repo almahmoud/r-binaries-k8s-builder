@@ -1040,3 +1040,12 @@ AnnotationFilter
 flowClean
 MBASED
 Rsamtools
+BioGA
+DNAshapeR
+eisaR
+megadepth
+MetaboDynamics
+MetNet
+MWASTools
+packFinder
+rigvf
