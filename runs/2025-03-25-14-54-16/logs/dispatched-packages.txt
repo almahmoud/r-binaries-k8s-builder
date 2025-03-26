@@ -1541,3 +1541,7 @@ splatter
 spoon
 velociraptor
 iSEEu
+MIRit
+ReactomePA
+dce
+sSNAPPY

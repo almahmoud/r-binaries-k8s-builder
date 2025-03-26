@@ -262,7 +262,6 @@
     "scater"
   ],
   "CBNplot": [
-    "graphite",
     "ExperimentHub",
     "AnnotationHub"
   ],
@@ -680,7 +679,6 @@
   "EnrichedHeatmap": [],
   "EnrichmentBrowser": [
     "GSEABase",
-    "graphite",
     "pathview",
     "safe",
     "annotate"
@@ -822,7 +820,6 @@
     "EnrichmentBrowser",
     "ExperimentHub",
     "GSEABase",
-    "graphite",
     "pathview",
     "safe",
     "annotate"
@@ -1146,9 +1143,7 @@
     "bsseq",
     "BSgenome"
   ],
-  "MIRit": [
-    "graphite"
-  ],
+  "MIRit": [],
   "MLInterfaces": [
     "annotate",
     "genefilter"
@@ -1157,7 +1152,6 @@
     "BSgenome"
   ],
   "MOSClip": [
-    "graphite",
     "qpgraph",
     "annotate",
     "GenomicFeatures"
@@ -1198,7 +1192,6 @@
     "TFBSTools",
     "BSgenome"
   ],
-  "MetMashR": [],
   "MetaPhOR": [],
   "MetaboAnnotation": [
     "AnnotationHub"
@@ -1435,8 +1428,7 @@
     "AnnotationHub"
   ],
   "Pigengene": [
-    "ReactomePA",
-    "graphite"
+    "ReactomePA"
   ],
   "PrInCE": [
     "MSnbase"
@@ -1622,9 +1614,7 @@
     "GSEABase",
     "annotate"
   ],
-  "ReactomePA": [
-    "graphite"
-  ],
+  "ReactomePA": [],
   "ReducedExperiment": [
     "biomaRt"
   ],
@@ -2228,7 +2218,6 @@
     "ReactomePA",
     "RTCGAToolbox",
     "TCGAutils",
-    "graphite",
     "GenomicFeatures",
     "GenomicDataCommons"
   ],
@@ -2668,9 +2657,7 @@
     "mia",
     "scater"
   ],
-  "dce": [
-    "graphite"
-  ],
+  "dce": [],
   "ddPCRclust": [],
   "debCAM": [],
   "debrowser": [
@@ -2773,7 +2760,6 @@
     "zenith",
     "annotate",
     "EnrichmentBrowser",
-    "graphite",
     "pathview",
     "safe"
   ],
@@ -2965,8 +2951,7 @@
   "gINTomics": [
     "biomaRt",
     "GenomicFeatures",
-    "ReactomePA",
-    "graphite"
+    "ReactomePA"
   ],
   "gatom": [],
   "gcapc": [
@@ -3047,7 +3032,6 @@
   ],
   "gpuMagic": [],
   "graper": [],
-  "graphite": [],
   "gsean": [
     "PPInfer",
     "biomaRt"
@@ -3105,7 +3089,6 @@
     "ReactomePA",
     "annotate",
     "txdbmaker",
-    "graphite",
     "biomaRt"
   ],
   "iSEEfier": [
@@ -3381,13 +3364,11 @@
     "BicARE",
     "GSEABase",
     "ReactomePA",
-    "annotate",
-    "graphite"
+    "annotate"
   ],
   "miRspongeR": [
     "SPONGE",
     "ReactomePA",
-    "graphite",
     "biomaRt"
   ],
   "mia": [
@@ -3427,7 +3408,6 @@
   ],
   "mobileRNA": [],
   "mogsa": [
-    "graphite",
     "genefilter",
     "GSEABase",
     "annotate"
@@ -3488,7 +3468,6 @@
   "mspms": [],
   "msqrob2": [],
   "multiGSEA": [
-    "graphite",
     "AnnotationHub"
   ],
   "multicrispr": [
@@ -3866,9 +3845,7 @@
   ],
   "roar": [],
   "rsbml": [],
-  "sSNAPPY": [
-    "graphite"
-  ],
+  "sSNAPPY": [],
   "safe": [],
   "sampleClassifier": [
     "MGFM",
@@ -3960,8 +3937,7 @@
     "ReactomePA",
     "GSEABase",
     "genefilter",
-    "annotate",
-    "graphite"
+    "annotate"
   ],
   "scTreeViz": [
     "epivizr",
@@ -4409,7 +4385,6 @@
   "zenith": [
     "EnrichmentBrowser",
     "GSEABase",
-    "graphite",
     "pathview",
     "safe",
     "annotate"
