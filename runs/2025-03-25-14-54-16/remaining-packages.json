@@ -3867,8 +3867,6 @@
     "AnnotationDbi"
   ],
   "MsBackendMetaboLights": [],
-  "MsBackendMgf": [],
-  "MsBackendMsp": [],
   "MsBackendRawFileReader": [],
   "MsBackendSql": [],
   "MsDataHub": [
@@ -6356,7 +6354,6 @@
   ],
   "a4": [
     "a4Base",
-    "a4Classif",
     "annaffy",
     "genefilter",
     "AnnotationDbi",
@@ -6368,7 +6365,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "a4Classif": [],
   "adSplit": [
     "AnnotationDbi"
   ],

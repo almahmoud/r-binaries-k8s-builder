@@ -740,3 +740,6 @@ MsBackendMassbank
 NanoStringNCTools
 ReUseData
 SparseArray
+a4Classif
+MsBackendMgf
+MsBackendMsp
