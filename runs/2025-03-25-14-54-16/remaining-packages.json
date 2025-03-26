@@ -293,7 +293,6 @@
   "CAMERA": [
     "xcms",
     "MSnbase",
-    "MsExperiment",
     "PSMatch"
   ],
   "CARDspa": [],
@@ -386,9 +385,7 @@
     "AnnotationHub"
   ],
   "CaDrA": [],
-  "CaMutQC": [
-    "MesKit"
-  ],
+  "CaMutQC": [],
   "Category": [
     "GSEABase",
     "genefilter",
@@ -1156,7 +1153,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsExperiment",
     "PSMatch"
   ],
   "ITALICS": [],
@@ -1222,7 +1218,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsExperiment",
     "PSMatch"
   ],
   "LRcell": [
@@ -1259,7 +1254,6 @@
     "CAMERA",
     "xcms",
     "MSnbase",
-    "MsExperiment",
     "PSMatch"
   ],
   "MBECS": [
@@ -1389,7 +1383,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "MesKit": [],
   "MetMashR": [],
   "MetaPhOR": [],
   "MetaboAnnotation": [
@@ -1482,10 +1475,7 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "MsExperiment": [],
-  "MsQuality": [
-    "MsExperiment"
-  ],
+  "MsQuality": [],
   "MuData": [],
   "MultiRNAflow": [],
   "MungeSumstats": [
@@ -2842,8 +2832,7 @@
   "cliqueMS": [
     "xcms",
     "MSnbase",
-    "PSMatch",
-    "MsExperiment"
+    "PSMatch"
   ],
   "clusterExperiment": [
     "zinbwave",
@@ -2926,7 +2915,6 @@
   "cosmiq": [
     "xcms",
     "MSnbase",
-    "MsExperiment",
     "PSMatch"
   ],
   "cosmosR": [
@@ -3368,7 +3356,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsExperiment",
     "PSMatch"
   ],
   "flowCut": [],
@@ -3785,7 +3772,6 @@
     "CAMERA",
     "xcms",
     "MSnbase",
-    "MsExperiment",
     "PSMatch"
   ],
   "metabolomicsWorkbenchR": [],
@@ -4079,7 +4065,6 @@
   "ncGTW": [
     "xcms",
     "MSnbase",
-    "MsExperiment",
     "PSMatch"
   ],
   "nearBynding": [
@@ -4852,7 +4837,6 @@
   "squallms": [
     "xcms",
     "MSnbase",
-    "MsExperiment",
     "PSMatch"
   ],
   "srnadiff": [
@@ -5108,7 +5092,6 @@
   ],
   "xcms": [
     "MSnbase",
-    "MsExperiment",
     "PSMatch"
   ],
   "yarn": [

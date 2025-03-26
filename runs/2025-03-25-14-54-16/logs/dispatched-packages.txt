@@ -1480,3 +1480,5 @@ dada2
 girafe
 nucleR
 systemPipeR
+CaMutQC
+MsQuality
