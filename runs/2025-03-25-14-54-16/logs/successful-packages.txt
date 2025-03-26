@@ -258,3 +258,5 @@ TargetScore
 zlibbioc
 SamSPECTRAL
 seqTools
+granulator
+Summix

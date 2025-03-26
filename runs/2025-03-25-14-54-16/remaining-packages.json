@@ -13784,7 +13784,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "Summix": [],
   "SurfR": [
     "SPsimSeq",
     "DESeq2",
@@ -21820,7 +21819,6 @@
   "gpuMagic": [
     "BiocGenerics"
   ],
-  "granulator": [],
   "graper": [],
   "graph": [
     "BiocGenerics"
