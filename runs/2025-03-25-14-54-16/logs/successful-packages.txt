@@ -1147,3 +1147,5 @@ monocle
 adSplit
 GOpro
 Rcpi
+fastLiquidAssociation
+SubCellBarCode
