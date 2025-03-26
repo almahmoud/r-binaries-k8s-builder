@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 350 packages built successfully
+- 352 packages built successfully
 - 5 packages failed to build
-- 1926 packages not yet processed
+- 1924 packages not yet processed
 
 ## Failed Builds (5)
 | Package                                                                        | Status   | Log                                   | BBS Status                                                                 | Failure Reasons                   |
@@ -17,7 +17,7 @@
 | [genoCN](https://bioconductor.org/packages/3.21/bioc/html/genoCN.html)         | Failed   | [Log](logs/genoCN/build-fail.log)     | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/genoCN)     | Compilation failed:  ‘genoCN’     |
 | [graper](https://bioconductor.org/packages/3.21/bioc/html/graper.html)         | Failed   | [Log](logs/graper/build-fail.log)     | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/graper)     | Build failed with unknown error   |
 
-## Successfully Built (350)
+## Successfully Built (352)
 | Package                                                                                                  | Status   | Log                                                   | BBS Status                                                                           |
 |----------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [ARRmNormalization](https://bioconductor.org/packages/3.21/bioc/html/ARRmNormalization.html)             | Built    | [Log](logs/ARRmNormalization/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ARRmNormalization)       |
@@ -258,6 +258,7 @@
 | [ggtreeExtra](https://bioconductor.org/packages/3.21/bioc/html/ggtreeExtra.html)                         | Built    | [Log](logs/ggtreeExtra/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ggtreeExtra)             |
 | [ggtreeSpace](https://bioconductor.org/packages/3.21/bioc/html/ggtreeSpace.html)                         | Built    | [Log](logs/ggtreeSpace/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ggtreeSpace)             |
 | [globalSeq](https://bioconductor.org/packages/3.21/bioc/html/globalSeq.html)                             | Built    | [Log](logs/globalSeq/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/globalSeq)               |
+| [gpls](https://bioconductor.org/packages/3.21/bioc/html/gpls.html)                                       | Built    | [Log](logs/gpls/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/gpls)                    |
 | [granulator](https://bioconductor.org/packages/3.21/bioc/html/granulator.html)                           | Built    | [Log](logs/granulator/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/granulator)              |
 | [gypsum](https://bioconductor.org/packages/3.21/bioc/html/gypsum.html)                                   | Built    | [Log](logs/gypsum/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/gypsum)                  |
 | [hca](https://bioconductor.org/packages/3.21/bioc/html/hca.html)                                         | Built    | [Log](logs/hca/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/hca)                     |
@@ -277,6 +278,7 @@
 | [lfa](https://bioconductor.org/packages/3.21/bioc/html/lfa.html)                                         | Built    | [Log](logs/lfa/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/lfa)                     |
 | [lpsymphony](https://bioconductor.org/packages/3.21/bioc/html/lpsymphony.html)                           | Built    | [Log](logs/lpsymphony/build-success.log)              | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/lpsymphony)           |
 | [maCorrPlot](https://bioconductor.org/packages/3.21/bioc/html/maCorrPlot.html)                           | Built    | [Log](logs/maCorrPlot/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/maCorrPlot)              |
+| [maftools](https://bioconductor.org/packages/3.21/bioc/html/maftools.html)                               | Built    | [Log](logs/maftools/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/maftools)                |
 | [matchBox](https://bioconductor.org/packages/3.21/bioc/html/matchBox.html)                               | Built    | [Log](logs/matchBox/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/matchBox)                |
 | [mdp](https://bioconductor.org/packages/3.21/bioc/html/mdp.html)                                         | Built    | [Log](logs/mdp/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/mdp)                     |
 | [metaCCA](https://bioconductor.org/packages/3.21/bioc/html/metaCCA.html)                                 | Built    | [Log](logs/metaCCA/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/metaCCA)                 |
@@ -371,7 +373,7 @@
 | [wppi](https://bioconductor.org/packages/3.21/bioc/html/wppi.html)                                       | Built    | [Log](logs/wppi/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/wppi)                    |
 | [zlibbioc](https://bioconductor.org/packages/3.21/bioc/html/zlibbioc.html)                               | Built    | [Log](logs/zlibbioc/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/zlibbioc)                |
 
-## Not Yet Processed (1926)
+## Not Yet Processed (1924)
 | Package                                                                                                          | Status      |
 |------------------------------------------------------------------------------------------------------------------|-------------|
 | [ABSSeq](https://bioconductor.org/packages/3.21/bioc/html/ABSSeq.html)                                           | Unprocessed |
@@ -1679,7 +1681,6 @@
 | [goSorensen](https://bioconductor.org/packages/3.21/bioc/html/goSorensen.html)                                   | Unprocessed |
 | [goTools](https://bioconductor.org/packages/3.21/bioc/html/goTools.html)                                         | Unprocessed |
 | [goseq](https://bioconductor.org/packages/3.21/bioc/html/goseq.html)                                             | Unprocessed |
-| [gpls](https://bioconductor.org/packages/3.21/bioc/html/gpls.html)                                               | Unprocessed |
 | [gpuMagic](https://bioconductor.org/packages/3.21/bioc/html/gpuMagic.html)                                       | Unprocessed |
 | [graph](https://bioconductor.org/packages/3.21/bioc/html/graph.html)                                             | Unprocessed |
 | [graphite](https://bioconductor.org/packages/3.21/bioc/html/graphite.html)                                       | Unprocessed |
@@ -1780,7 +1781,6 @@
 | [maSigPro](https://bioconductor.org/packages/3.21/bioc/html/maSigPro.html)                                       | Unprocessed |
 | [maaslin3](https://bioconductor.org/packages/3.21/bioc/html/maaslin3.html)                                       | Unprocessed |
 | [made4](https://bioconductor.org/packages/3.21/bioc/html/made4.html)                                             | Unprocessed |
-| [maftools](https://bioconductor.org/packages/3.21/bioc/html/maftools.html)                                       | Unprocessed |
 | [magpie](https://bioconductor.org/packages/3.21/bioc/html/magpie.html)                                           | Unprocessed |
 | [magrene](https://bioconductor.org/packages/3.21/bioc/html/magrene.html)                                         | Unprocessed |
 | [makecdfenv](https://bioconductor.org/packages/3.21/bioc/html/makecdfenv.html)                                   | Unprocessed |
