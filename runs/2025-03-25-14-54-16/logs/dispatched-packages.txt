@@ -819,3 +819,14 @@ FELLA
 ROntoTools
 SynExtend
 transomics2cytoscape
+MetCirc
+MsBackendMassbank
+MsBackendMetaboLights
+MsBackendMgf
+MsBackendMsp
+MsBackendRawFileReader
+MsBackendSql
+SpectraQL
+affyILM
+affyPLM
+maskBAD

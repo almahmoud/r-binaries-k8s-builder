@@ -202,7 +202,6 @@
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
-    "gcrma",
     "AnnotationDbi",
     "oligoClasses",
     "ReportingTools",
@@ -781,7 +780,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -1491,7 +1489,6 @@
   ],
   "CompoundDb": [
     "AnnotationFilter",
-    "Spectra",
     "GenomicRanges"
   ],
   "CopyNumberPlots": [
@@ -3249,7 +3246,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -3414,7 +3410,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -3532,7 +3527,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -3927,9 +3921,7 @@
   "MesKit": [
     "AnnotationDbi"
   ],
-  "MetCirc": [
-    "Spectra"
-  ],
+  "MetCirc": [],
   "MetMashR": [
     "struct",
     "SummarizedExperiment",
@@ -3961,7 +3953,6 @@
     "GOSemSim"
   ],
   "MetaboAnnotation": [
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "AnnotationHub",
@@ -4188,31 +4179,18 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "MsBackendMassbank": [
-    "Spectra"
-  ],
-  "MsBackendMetaboLights": [
-    "Spectra"
-  ],
-  "MsBackendMgf": [
-    "Spectra"
-  ],
-  "MsBackendMsp": [
-    "Spectra"
-  ],
-  "MsBackendRawFileReader": [
-    "Spectra"
-  ],
-  "MsBackendSql": [
-    "Spectra"
-  ],
+  "MsBackendMassbank": [],
+  "MsBackendMetaboLights": [],
+  "MsBackendMgf": [],
+  "MsBackendMsp": [],
+  "MsBackendRawFileReader": [],
+  "MsBackendSql": [],
   "MsDataHub": [
     "ExperimentHub",
     "AnnotationHub",
     "AnnotationDbi"
   ],
   "MsExperiment": [
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "MultiAssayExperiment",
@@ -4229,7 +4207,6 @@
   ],
   "MsQuality": [
     "MsExperiment",
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "MultiAssayExperiment",
@@ -6137,10 +6114,7 @@
     "RBioFormats",
     "NanoStringNCTools"
   ],
-  "Spectra": [],
-  "SpectraQL": [
-    "Spectra"
-  ],
+  "SpectraQL": [],
   "SpectralTAD": [
     "HiCcompare",
     "GenomicRanges",
@@ -6941,15 +6915,10 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "affyILM": [
-    "gcrma"
-  ],
-  "affyPLM": [
-    "gcrma"
-  ],
+  "affyILM": [],
+  "affyPLM": [],
   "affycoretools": [
     "GOstats",
-    "gcrma",
     "AnnotationDbi",
     "oligoClasses",
     "ReportingTools",
@@ -6981,7 +6950,6 @@
   ],
   "affylmGUI": [
     "affyPLM",
-    "gcrma",
     "AnnotationDbi"
   ],
   "aggregateBioVar": [
@@ -7237,7 +7205,6 @@
     "affyPLM",
     "beadarray",
     "genefilter",
-    "gcrma",
     "AnnotationDbi",
     "GenomicRanges",
     "annotate"
@@ -8121,7 +8088,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "GenomicRanges",
     "DelayedArray",
@@ -8369,7 +8335,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -9509,7 +9474,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -9714,7 +9678,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "gcrma": [],
   "geNetClassifier": [],
   "gemma.R": [
     "SummarizedExperiment",
@@ -10030,7 +9993,6 @@
   ],
   "hdxmsqc": [
     "QFeatures",
-    "Spectra",
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
@@ -10654,7 +10616,6 @@
     "txdbmaker"
   ],
   "maPredictDSC": [
-    "gcrma",
     "AnnotationDbi"
   ],
   "maaslin3": [
@@ -10722,9 +10683,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "maskBAD": [
-    "gcrma"
-  ],
+  "maskBAD": [],
   "mastR": [
     "AnnotationDbi",
     "GSEABase",
@@ -10777,7 +10736,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -11180,7 +11138,6 @@
     "affyPLM",
     "oligo",
     "oligoClasses",
-    "gcrma",
     "GenomicRanges",
     "SummarizedExperiment",
     "DelayedArray",
@@ -11593,7 +11550,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -13967,7 +13923,6 @@
     "xcms",
     "MSnbase",
     "MsExperiment",
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "PSMatch",
@@ -14699,7 +14654,6 @@
   ],
   "webbioc": [
     "annaffy",
-    "gcrma",
     "AnnotationDbi"
   ],
   "weitrix": [
@@ -14741,7 +14695,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
