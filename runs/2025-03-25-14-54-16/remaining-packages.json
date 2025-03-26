@@ -373,7 +373,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "BCRANK": [],
   "BEAT": [
     "GenomicRanges",
     "ShortRead",
@@ -7751,7 +7750,6 @@
   "baySeq": [
     "GenomicRanges"
   ],
-  "bcSeq": [],
   "beachmat": [
     "DelayedArray",
     "SparseArray"

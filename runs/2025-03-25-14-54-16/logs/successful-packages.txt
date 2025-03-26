@@ -715,3 +715,5 @@ R4RNA
 SELEX
 SynMut
 ClustAll
+BCRANK
+bcSeq
