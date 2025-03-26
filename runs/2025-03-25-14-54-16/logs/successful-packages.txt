@@ -778,3 +778,8 @@ flowCHIC
 rhdf5client
 ScaledMatrix
 TileDBArray
+cola
+flowSpecs
+gaga
+GeomxTools
+ROTS

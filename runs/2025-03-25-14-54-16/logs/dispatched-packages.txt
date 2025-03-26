@@ -914,3 +914,6 @@ HDF5Array
 optimalFlow
 phantasusLite
 scPCA
+GeoDiff
+SpatialDecon
+SpatialOmicsOverlay

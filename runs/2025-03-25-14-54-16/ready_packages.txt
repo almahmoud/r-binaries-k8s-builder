@@ -1,2 +1,3 @@
-phantasusLite
-scPCA
+GeoDiff
+SpatialDecon
+SpatialOmicsOverlay

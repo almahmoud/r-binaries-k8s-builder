@@ -2195,13 +2195,10 @@
     "SummarizedExperiment"
   ],
   "GenomicTuples": [],
-  "GeoDiff": [
-    "GeomxTools"
-  ],
+  "GeoDiff": [],
   "GeoTcgaData": [
     "SummarizedExperiment"
   ],
-  "GeomxTools": [],
   "Glimma": [
     "DESeq2",
     "SummarizedExperiment"
@@ -3385,7 +3382,6 @@
     "AnnotationDbi"
   ],
   "PECA": [
-    "ROTS",
     "genefilter",
     "AnnotationDbi",
     "annotate"
@@ -3454,7 +3450,6 @@
   "PRONE": [
     "SummarizedExperiment",
     "NormalyzerDE",
-    "ROTS",
     "MSnbase",
     "POMA",
     "PSMatch",
@@ -3853,7 +3848,6 @@
   "ROCpAI": [
     "SummarizedExperiment"
   ],
-  "ROTS": [],
   "ROntoTools": [],
   "RPA": [
     "phyloseq"
@@ -4126,7 +4120,6 @@
     "BSgenome"
   ],
   "RolDE": [
-    "ROTS",
     "SummarizedExperiment"
   ],
   "Rqc": [
@@ -4487,9 +4480,7 @@
   "SpatialCPie": [
     "SummarizedExperiment"
   ],
-  "SpatialDecon": [
-    "GeomxTools"
-  ],
+  "SpatialDecon": [],
   "SpatialExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -4512,9 +4503,7 @@
     "beachmat",
     "scuttle"
   ],
-  "SpatialOmicsOverlay": [
-    "GeomxTools"
-  ],
+  "SpatialOmicsOverlay": [],
   "SpectralTAD": [
     "HiCcompare",
     "InteractionSet",
@@ -5715,7 +5704,6 @@
     "GenomicAlignments"
   ],
   "casper": [
-    "gaga",
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
@@ -6034,7 +6022,6 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "cola": [],
   "comapr": [
     "SummarizedExperiment",
     "Gviz",
@@ -7063,7 +7050,6 @@
     "flowClust"
   ],
   "flowPloidy": [],
-  "flowSpecs": [],
   "flowStats": [
     "flowWorkspace",
     "ncdfFlow",
@@ -7171,7 +7157,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "gaga": [],
   "gage": [
     "AnnotationDbi"
   ],
