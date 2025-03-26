@@ -1,12 +1,4 @@
-CNEr
-ChromHeatMap
-GSEABase
-MGFM
-PREDA
-SemDist
-codelink
-genefilter
-geneplotter
-globaltest
-idiogram
-tigre
+PeacoQC
+flowStats
+ggcyto
+openCyto

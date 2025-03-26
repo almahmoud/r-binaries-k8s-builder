@@ -1557,3 +1557,7 @@ geneplotter
 globaltest
 idiogram
 tigre
+PeacoQC
+flowStats
+ggcyto
+openCyto

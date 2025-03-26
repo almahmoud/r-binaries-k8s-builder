@@ -1321,3 +1321,6 @@ BgeeDB
 GENESIS
 nipalsMCIA
 SVMDO
+flowWorkspace
+phenomis
+simPIC

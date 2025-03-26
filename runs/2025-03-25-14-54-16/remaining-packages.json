@@ -455,24 +455,20 @@
   "CytoMDS": [
     "CytoPipeline",
     "ggcyto",
-    "PeacoQC",
-    "flowWorkspace"
+    "PeacoQC"
   ],
   "CytoML": [
-    "flowWorkspace",
     "openCyto",
     "ggcyto"
   ],
   "CytoPipeline": [
     "ggcyto",
-    "PeacoQC",
-    "flowWorkspace"
+    "PeacoQC"
   ],
   "CytoPipelineGUI": [
     "CytoPipeline",
     "ggcyto",
-    "PeacoQC",
-    "flowWorkspace"
+    "PeacoQC"
   ],
   "DAMEfinder": [
     "VariantAnnotation",
@@ -1346,9 +1342,7 @@
   "PanomiR": [
     "GSEABase"
   ],
-  "PeacoQC": [
-    "flowWorkspace"
-  ],
+  "PeacoQC": [],
   "PhIPData": [],
   "PhyloProfile": [
     "ExperimentHub",
@@ -2775,18 +2769,13 @@
   ],
   "flowCut": [],
   "flowGate": [
-    "flowWorkspace",
     "ggcyto"
   ],
   "flowMerge": [],
-  "flowStats": [
-    "flowWorkspace"
-  ],
+  "flowStats": [],
   "flowVS": [
-    "flowStats",
-    "flowWorkspace"
+    "flowStats"
   ],
-  "flowWorkspace": [],
   "frma": [],
   "funOmics": [],
   "funtooNorm": [
@@ -2853,9 +2842,7 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "ggcyto": [
-    "flowWorkspace"
-  ],
+  "ggcyto": [],
   "girafe": [],
   "glmSparseNet": [
     "biomaRt",
@@ -3384,9 +3371,7 @@
   "ontoProc": [
     "AnnotationHub"
   ],
-  "openCyto": [
-    "flowWorkspace"
-  ],
+  "openCyto": [],
   "openPrimeR": [],
   "oposSOM": [
     "biomaRt"
@@ -3460,7 +3445,6 @@
     "GSEABase",
     "genefilter"
   ],
-  "phenomis": [],
   "phenopath": [],
   "pipeComp": [
     "scran",
@@ -3864,7 +3848,6 @@
     "GSEABase",
     "biomaRt"
   ],
-  "simPIC": [],
   "simplifyEnrichment": [],
   "singleCellTK": [
     "AnnotationHub",
