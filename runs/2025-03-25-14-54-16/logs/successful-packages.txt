@@ -1421,3 +1421,4 @@ CrispRVariants
 cmapR
 goSTAG
 rTRM
+zitools
