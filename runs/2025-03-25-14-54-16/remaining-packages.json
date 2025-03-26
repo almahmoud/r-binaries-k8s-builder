@@ -2238,7 +2238,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "Nebulosa": [],
   "NetActivity": [
     "DESeq2"
   ],
@@ -3072,7 +3071,6 @@
   "SimFFPE": [
     "Rsamtools"
   ],
-  "SingleCellAlleleExperiment": [],
   "SingleCellSignalR": [
     "scran",
     "scuttle",

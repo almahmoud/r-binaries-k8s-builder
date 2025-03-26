@@ -953,3 +953,5 @@ VDJdive
 clustifyr
 HiCool
 SPOTlight
+Nebulosa
+SingleCellAlleleExperiment
