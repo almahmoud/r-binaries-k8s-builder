@@ -198,10 +198,7 @@
     "oligo",
     "oligoClasses"
   ],
-  "AssessORF": [],
-  "BANDITS": [
-    "DRIMSeq"
-  ],
+  "BANDITS": [],
   "BASiCS": [
     "SingleCellExperiment",
     "scran",
@@ -351,7 +348,6 @@
     "AnnotationDbi",
     "SingleCellExperiment"
   ],
-  "BiFET": [],
   "BiGGR": [
     "rsbml"
   ],
@@ -556,7 +552,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "CNVMetrics": [],
   "CNVPanelizer": [
     "Rsamtools"
   ],
@@ -1078,7 +1073,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "DMRScan": [],
   "DMRcaller": [],
   "DMRcate": [
     "AnnotationHub",
@@ -1116,7 +1110,6 @@
     "AnnotationDbi",
     "GOSemSim"
   ],
-  "DRIMSeq": [],
   "DSS": [
     "bsseq",
     "BSgenome",
@@ -1208,8 +1201,7 @@
   ],
   "DifferentialRegulation": [
     "BANDITS",
-    "SingleCellExperiment",
-    "DRIMSeq"
+    "SingleCellExperiment"
   ],
   "Dino": [
     "BiocSingular",
@@ -1451,7 +1443,6 @@
     "SC3",
     "TrajectoryUtils"
   ],
-  "FELLA": [],
   "FLAMES": [
     "bambu",
     "DropletUtils",
@@ -1767,7 +1758,6 @@
     "Rsamtools"
   ],
   "GenomicDataCommons": [],
-  "GenomicDistributions": [],
   "GenomicFeatures": [
     "AnnotationDbi",
     "rtracklayer",
@@ -2374,7 +2364,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "MSstatsBioNet": [],
   "MSstatsQC": [
     "MSnbase",
     "PSMatch",
@@ -3821,7 +3810,6 @@
     "AnnotationDbi",
     "SingleCellExperiment"
   ],
-  "SynExtend": [],
   "TADCompare": [
     "HiCcompare",
     "InteractionSet"
@@ -6998,7 +6986,6 @@
     "TFBSTools",
     "AnnotationFilter"
   ],
-  "motifcounter": [],
   "motifmatchr": [
     "TFBSTools",
     "BSgenome",
@@ -8614,7 +8601,6 @@
   "switchde": [
     "SingleCellExperiment"
   ],
-  "synapsis": [],
   "synapter": [
     "MSnbase",
     "PSMatch",

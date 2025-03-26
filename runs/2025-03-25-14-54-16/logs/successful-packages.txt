@@ -844,3 +844,14 @@ Streamer
 SummarizedExperiment
 tidytof
 transomics2cytoscape
+AssessORF
+BiFET
+CNVMetrics
+DMRScan
+DRIMSeq
+FELLA
+GenomicDistributions
+motifcounter
+MSstatsBioNet
+synapsis
+SynExtend
