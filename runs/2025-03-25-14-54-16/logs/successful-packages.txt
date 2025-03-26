@@ -1054,3 +1054,11 @@ BiocSklearn
 CNORdt
 CNORfeeder
 CNORode
+DEGraph
+eudysbiome
+FilterFFPE
+GBScleanR
+GDSArray
+MicrobiotaProcess
+SAIGEgds
+seqPattern

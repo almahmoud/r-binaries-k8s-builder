@@ -396,9 +396,7 @@
     "annotate"
   ],
   "CNVPanelizer": [],
-  "CNVRanger": [
-    "GDSArray"
-  ],
+  "CNVRanger": [],
   "CNVfilteR": [
     "regioneR",
     "karyoploteR",
@@ -514,8 +512,7 @@
     "rtracklayer",
     "genomation",
     "BSgenome",
-    "GenomicAlignments",
-    "seqPattern"
+    "GenomicAlignments"
   ],
   "ChAMP": [
     "minfi",
@@ -728,7 +725,6 @@
   "DEFormats": [
     "DESeq2"
   ],
-  "DEGraph": [],
   "DEGreport": [
     "DESeq2"
   ],
@@ -1013,7 +1009,6 @@
     "GenomicFeatures",
     "BSgenome",
     "GenomicAlignments",
-    "seqPattern",
     "DOSE",
     "GOSemSim"
   ],
@@ -1101,7 +1096,6 @@
     "GenomicAlignments"
   ],
   "FeatSeekR": [],
-  "FilterFFPE": [],
   "FindIT2": [
     "rtracklayer",
     "GenomicFeatures",
@@ -1136,7 +1130,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "GBScleanR": [],
   "GDCRNATools": [
     "DESeq2",
     "clusterProfiler",
@@ -1147,7 +1140,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "GDSArray": [],
   "GENESIS": [
     "SeqVarTools"
   ],
@@ -1353,7 +1345,6 @@
     "genomation",
     "txdbmaker",
     "BSgenome",
-    "seqPattern",
     "biomaRt"
   ],
   "GenomicScores": [
@@ -1827,7 +1818,6 @@
     "DOSE",
     "GOSemSim"
   ],
-  "MicrobiotaProcess": [],
   "MineICA": [
     "biomaRt",
     "GOstats",
@@ -2238,7 +2228,6 @@
     "txdbmaker",
     "genomation",
     "GenomicAlignments",
-    "seqPattern",
     "biomaRt"
   ],
   "REBET": [],
@@ -2545,7 +2534,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "SAIGEgds": [],
   "SARC": [
     "plyranges",
     "GenomicFeatures",
@@ -2967,9 +2955,7 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "VariantExperiment": [
-    "GDSArray"
-  ],
+  "VariantExperiment": [],
   "VariantFiltering": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -4215,7 +4201,6 @@
   "esetVis": [
     "MLP"
   ],
-  "eudysbiome": [],
   "extraChIPs": [
     "csaw",
     "rtracklayer",
@@ -4225,7 +4210,6 @@
     "genomation",
     "BSgenome",
     "GenomicAlignments",
-    "seqPattern",
     "rtracklayer"
   ],
   "factR": [
@@ -4374,7 +4358,6 @@
   "genomation": [
     "BSgenome",
     "GenomicAlignments",
-    "seqPattern",
     "rtracklayer"
   ],
   "genomicInstability": [],
@@ -5979,7 +5962,6 @@
     "BSgenome",
     "ChIPseeker",
     "clusterProfiler",
-    "seqPattern",
     "rtracklayer",
     "enrichplot",
     "GenomicFeatures",
@@ -5994,7 +5976,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "seqPattern": [],
   "seqsetvis": [
     "GenomicAlignments",
     "rtracklayer"
