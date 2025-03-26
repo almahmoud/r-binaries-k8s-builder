@@ -1141,3 +1141,6 @@ supersigs
 GOSemSim
 PADOG
 weitrix
+affylmGUI
+AnnotationForge
+monocle
