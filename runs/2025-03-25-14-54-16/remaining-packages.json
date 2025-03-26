@@ -1017,9 +1017,7 @@
     "ensembldb"
   ],
   "GWENA": [],
-  "GateFinder": [
-    "flowFP"
-  ],
+  "GateFinder": [],
   "GeDi": [
     "GeneTonic",
     "mosdef",
@@ -1438,7 +1436,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "Melissa": [],
   "MesKit": [],
   "MetMashR": [
     "struct"
@@ -2584,7 +2581,6 @@
     "genefilter",
     "annotate"
   ],
-  "artMS": [],
   "atSNP": [
     "BSgenome",
     "motifStack",
@@ -2681,7 +2677,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "biosigner": [],
   "biotmle": [],
   "biovizBase": [
     "GenomicFeatures",
@@ -3483,14 +3478,11 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "flowBin": [
-    "flowFP"
-  ],
+  "flowBin": [],
   "flowCut": [
     "flowDensity"
   ],
   "flowDensity": [],
-  "flowFP": [],
   "flowGate": [
     "flowWorkspace",
     "ggcyto"
@@ -3641,7 +3633,6 @@
   "gpuMagic": [],
   "graper": [],
   "graphite": [],
-  "gscreend": [],
   "gsean": [
     "PPInfer",
     "biomaRt"
@@ -4645,7 +4636,6 @@
   "roar": [
     "rtracklayer"
   ],
-  "rqt": [],
   "rsbml": [],
   "rtracklayer": [],
   "sSNAPPY": [

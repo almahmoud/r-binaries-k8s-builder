@@ -1200,3 +1200,9 @@ fishpond
 odseq
 PepSetTest
 tidySingleCellExperiment
+artMS
+biosigner
+flowFP
+gscreend
+Melissa
+rqt
