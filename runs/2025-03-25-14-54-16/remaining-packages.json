@@ -537,7 +537,6 @@
     "SparseArray"
   ],
   "AlphaBeta": [],
-  "AlphaMissenseR": [],
   "AlpsNMR": [
     "mixOmics"
   ],
@@ -1222,7 +1221,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "KEGGREST",
-    "dir.expiry",
     "basilisk.utils",
     "GenomicRanges",
     "XVector",
@@ -1452,7 +1450,6 @@
   "BiocHail": [
     "basilisk",
     "BiocGenerics",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "BiocHubsShiny": [
@@ -1512,7 +1509,6 @@
   "BiocSklearn": [
     "SummarizedExperiment",
     "basilisk",
-    "dir.expiry",
     "basilisk.utils",
     "GenomicRanges",
     "Biobase",
@@ -3741,7 +3737,6 @@
   "DEqMS": [
     "limma"
   ],
-  "DEsingle": [],
   "DEsubs": [
     "graph",
     "RBGL",
@@ -3901,7 +3896,6 @@
   "DNAcopy": [],
   "DNAcycP2": [
     "basilisk",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "DNAfusion": [
@@ -4600,7 +4594,6 @@
     "GenomicRanges",
     "IRanges",
     "txdbmaker",
-    "dir.expiry",
     "basilisk.utils",
     "S4Vectors",
     "GenomeInfoDb",
@@ -5075,7 +5068,6 @@
     "scran",
     "IRanges",
     "BSgenome",
-    "dir.expiry",
     "basilisk.utils",
     "XVector",
     "S4Arrays",
@@ -5594,7 +5586,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "GPA": [],
   "GRENITS": [],
   "GRaNIE": [
     "GenomicRanges",
@@ -6749,7 +6740,6 @@
     "IRanges",
     "InteractionSet",
     "basilisk",
-    "dir.expiry",
     "basilisk.utils",
     "BiocGenerics",
     "GenomeInfoDb",
@@ -7357,7 +7347,6 @@
     "XVector",
     "Biostrings"
   ],
-  "LBE": [],
   "LOBSTAHS": [
     "xcms",
     "CAMERA",
@@ -7433,7 +7422,6 @@
     "limma",
     "basilisk.utils",
     "S4Vectors",
-    "dir.expiry",
     "BiocGenerics",
     "GenomicRanges",
     "Biobase",
@@ -7543,7 +7531,6 @@
     "BiocGenerics",
     "BiocVersion",
     "AnnotationDbi",
-    "dir.expiry",
     "basilisk.utils",
     "Biobase",
     "IRanges",
@@ -8141,7 +8128,6 @@
     "HDF5Array",
     "DelayedArray",
     "basilisk",
-    "dir.expiry",
     "basilisk.utils",
     "BiocGenerics",
     "S4Vectors",
@@ -9698,7 +9684,6 @@
     "ReadqPCR",
     "BiocGenerics"
   ],
-  "NuPoP": [],
   "OCplus": [
     "multtest",
     "BiocGenerics",
@@ -10065,7 +10050,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "PCAN": [],
   "PCAtools": [
     "DelayedMatrixStats",
     "DelayedArray",
@@ -10594,7 +10578,6 @@
     "basilisk",
     "SummarizedExperiment",
     "S4Vectors",
-    "dir.expiry",
     "basilisk.utils",
     "BiocGenerics",
     "GenomicRanges",
@@ -11188,7 +11171,6 @@
     "basilisk",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "RIVER": [
@@ -11763,7 +11745,6 @@
   "Rcwl": [
     "S4Vectors",
     "basilisk",
-    "dir.expiry",
     "basilisk.utils",
     "BiocGenerics"
   ],
@@ -11772,7 +11753,6 @@
     "S4Vectors",
     "basilisk",
     "BiocGenerics",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "ReUseData": [
@@ -11780,7 +11760,6 @@
     "RcwlPipelines",
     "S4Vectors",
     "basilisk",
-    "dir.expiry",
     "basilisk.utils",
     "BiocGenerics"
   ],
@@ -12132,8 +12111,7 @@
     "biomaRt"
   ],
   "Rigraphlib": [
-    "biocmake",
-    "dir.expiry"
+    "biocmake"
   ],
   "Rmagpie": [
     "Biobase",
@@ -13145,7 +13123,6 @@
     "basilisk",
     "phyloseq",
     "SummarizedExperiment",
-    "dir.expiry",
     "basilisk.utils",
     "Biobase",
     "BiocGenerics",
@@ -15219,7 +15196,6 @@
   "abseqR": [
     "BiocStyle"
   ],
-  "acde": [],
   "adSplit": [
     "AnnotationDbi",
     "Biobase",
@@ -16173,12 +16149,9 @@
     "SparseArray"
   ],
   "basilisk": [
-    "dir.expiry",
     "basilisk.utils"
   ],
-  "basilisk.utils": [
-    "dir.expiry"
-  ],
+  "basilisk.utils": [],
   "batchelor": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -16501,9 +16474,7 @@
     "RBGL",
     "BiocGenerics"
   ],
-  "biocmake": [
-    "dir.expiry"
-  ],
+  "biocmake": [],
   "biomaRt": [
     "AnnotationDbi",
     "BiocGenerics",
@@ -17131,7 +17102,6 @@
   ],
   "cbpManager": [
     "basilisk",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "ccImpute": [
@@ -17291,7 +17261,6 @@
   "cfTools": [
     "GenomicRanges",
     "basilisk",
-    "dir.expiry",
     "basilisk.utils",
     "ExperimentHub",
     "BiocGenerics",
@@ -17779,11 +17748,7 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "clst": [],
-  "clstutils": [
-    "clst"
-  ],
-  "clustComp": [],
+  "clstutils": [],
   "clusterExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -18493,7 +18458,6 @@
     "GenomicAlignments",
     "biomaRt",
     "SummarizedExperiment",
-    "dir.expiry",
     "ExperimentHub",
     "AnnotationHub",
     "S4Arrays",
@@ -18508,7 +18472,6 @@
     "Biostrings",
     "IRanges",
     "XVector",
-    "dir.expiry",
     "S4Vectors",
     "GenomeInfoDb",
     "ExperimentHub",
@@ -18547,7 +18510,6 @@
     "UCSC.utils",
     "Biobase",
     "KEGGREST",
-    "dir.expiry",
     "ExperimentHub",
     "AnnotationHub",
     "biomaRt",
@@ -18588,7 +18550,6 @@
     "Biobase",
     "KEGGREST",
     "BiocVersion",
-    "dir.expiry",
     "BiocIO",
     "Rsamtools",
     "UCSC.utils",
@@ -18634,7 +18595,6 @@
     "AnnotationFilter",
     "basilisk",
     "basilisk.utils",
-    "dir.expiry",
     "ExperimentHub",
     "AnnotationHub",
     "S4Arrays",
@@ -19256,7 +19216,6 @@
   ],
   "densvis": [
     "basilisk",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "derfinder": [
@@ -19466,7 +19425,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "dir.expiry": [],
   "discordant": [
     "Biobase",
     "BiocGenerics"
@@ -25757,7 +25715,6 @@
     "BiocGenerics",
     "BiocVersion",
     "AnnotationDbi",
-    "dir.expiry",
     "basilisk.utils",
     "GenomicRanges",
     "IRanges",
@@ -25874,7 +25831,6 @@
     "BiocGenerics",
     "BiocVersion",
     "AnnotationDbi",
-    "dir.expiry",
     "basilisk.utils",
     "IRanges",
     "S4Arrays",
@@ -26621,7 +26577,6 @@
     "BiocGenerics",
     "BiocVersion",
     "AnnotationDbi",
-    "dir.expiry",
     "basilisk.utils",
     "GenomicRanges",
     "IRanges",
@@ -27447,7 +27402,6 @@
     "BiocGenerics"
   ],
   "rebook": [
-    "dir.expiry",
     "BiocStyle",
     "graph",
     "BiocGenerics"
@@ -27534,7 +27488,6 @@
     "S4Vectors",
     "basilisk",
     "DelayedMatrixStats",
-    "dir.expiry",
     "basilisk.utils",
     "DelayedArray",
     "IRanges",
@@ -27730,7 +27683,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "retrofit": [],
   "rexposome": [
     "Biobase",
     "S4Vectors",
@@ -28623,7 +28575,6 @@
     "S4Vectors",
     "Biobase",
     "KEGGREST",
-    "dir.expiry",
     "basilisk.utils",
     "XVector",
     "GenomeInfoDb",
@@ -28964,7 +28915,6 @@
     "flowCore",
     "basilisk",
     "basilisk.utils",
-    "dir.expiry",
     "BiocGenerics",
     "S4Vectors",
     "IRanges",
@@ -29144,7 +29094,6 @@
     "IRanges",
     "S4Arrays",
     "biocmake",
-    "dir.expiry",
     "XVector"
   ],
   "screenCounter": [
@@ -29240,7 +29189,6 @@
     "S4Vectors",
     "limma",
     "scater",
-    "dir.expiry",
     "basilisk.utils",
     "BiocGenerics",
     "scuttle",
@@ -29818,7 +29766,6 @@
     "basilisk",
     "alabaster.ranges",
     "KEGGREST",
-    "dir.expiry",
     "basilisk.utils",
     "XVector",
     "UCSC.utils",
@@ -29876,7 +29823,6 @@
     "basilisk",
     "Biobase",
     "DelayedArray",
-    "dir.expiry",
     "basilisk.utils",
     "BiocGenerics",
     "S4Vectors",
@@ -30021,7 +29967,6 @@
   ],
   "snifter": [
     "basilisk",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "snpStats": [
@@ -30110,7 +30055,6 @@
     "basilisk",
     "SpatialExperiment",
     "SummarizedExperiment",
-    "dir.expiry",
     "basilisk.utils",
     "SingleCellExperiment",
     "S4Vectors",
@@ -30544,7 +30488,6 @@
     "pwalign",
     "BiocIO"
   ],
-  "statTarget": [],
   "stepNorm": [
     "marray",
     "limma"
@@ -30985,7 +30928,6 @@
     "S4Arrays",
     "DelayedArray",
     "BiocVersion",
-    "dir.expiry",
     "basilisk.utils",
     "SparseArray",
     "UCSC.utils",
@@ -31211,7 +31153,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "tomoseqr": [],
   "topGO": [
     "BiocGenerics",
     "graph",
@@ -31724,7 +31665,6 @@
     "scuttle",
     "SingleCellExperiment",
     "BiocSingular",
-    "dir.expiry",
     "basilisk.utils",
     "ScaledMatrix",
     "beachmat",
@@ -32221,7 +32161,6 @@
     "S4Vectors",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "dir.expiry",
     "basilisk.utils",
     "BiocGenerics",
     "IRanges",

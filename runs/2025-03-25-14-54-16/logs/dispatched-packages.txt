@@ -433,3 +433,6 @@ biodbUniprot
 alevinQC
 clst
 statTarget
+basilisk.utils
+biocmake
+clstutils

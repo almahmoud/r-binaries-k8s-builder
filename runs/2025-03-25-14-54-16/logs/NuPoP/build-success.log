@@ -1,0 +1,51 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''NuPoP'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R Under development (unstable)
+  (2025-03-08 r87910)
+Installing package(s) 'NuPoP'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/NuPoP_2.15.0.tar.gz'
+Content type 'application/x-gzip' length 6413705 bytes (6.1 MB)
+==================================================
+downloaded 6.1 MB
+
+* installing *source* package ‘NuPoP’ ...
+** this is package ‘NuPoP’ version ‘2.15.0’
+** using staged installation
+** libs
+using Fortran compiler: ‘GNU Fortran (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gfortran  -fpic  -g -O2  -c  cvtbfb.f90 -o cvtbfb.o
+gfortran  -fpic  -g -O2  -c  cvtbfbNL4.f90 -o cvtbfbNL4.o
+gfortran  -fpic  -g -O2  -c  vtbfb.f90 -o vtbfb.o
+gfortran  -fpic  -g -O2  -c  vtbfbNL4.f90 -o vtbfbNL4.o
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o NuPoP.so cvtbfb.o cvtbfbNL4.o vtbfb.o vtbfbNL4.o -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-NuPoP/00new/NuPoP/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘NuPoP’ as ‘NuPoP_2.15.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NuPoP)
+
+The downloaded source packages are in
+	‘/tmp/RtmpI8K5IG/downloaded_packages’
+Old packages: 'commonmark', 'curl', 'docopt', 'gert', 'knitr', 'littler',
+  'mime', 'pkgbuild', 'xml2', 'foreign'
+
+real	0m11.777s
+user	0m9.552s
+sys	0m1.742s

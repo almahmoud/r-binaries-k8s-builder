@@ -296,3 +296,16 @@ GSAR
 interacCircos
 metaCCA
 RDRToolbox
+acde
+AlphaMissenseR
+clst
+clustComp
+DEsingle
+dir.expiry
+GPA
+LBE
+NuPoP
+PCAN
+retrofit
+statTarget
+tomoseqr
