@@ -7370,8 +7370,7 @@
     "Maaslin2",
     "edgeR",
     "metagenomeSeq",
-    "Biobase",
-    "Wrench"
+    "Biobase"
   ],
   "MODA": [
     "AMOUNTAIN",
@@ -7700,8 +7699,7 @@
   "Maaslin2": [
     "edgeR",
     "metagenomeSeq",
-    "Biobase",
-    "Wrench"
+    "Biobase"
   ],
   "Macarron": [
     "SummarizedExperiment",
@@ -7720,7 +7718,6 @@
     "KEGGREST",
     "UCSC.utils",
     "XVector",
-    "Wrench",
     "Biostrings"
   ],
   "MatrixQCvis": [
@@ -13597,7 +13594,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "Wrench": [],
   "XAItest": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -14808,7 +14804,6 @@
     "multtest",
     "Biobase",
     "SingleCellExperiment",
-    "Wrench",
     "Biostrings",
     "GenomeInfoDb",
     "S4Arrays",
@@ -21242,8 +21237,7 @@
   "matter": [],
   "mbQTL": [
     "metagenomeSeq",
-    "Biobase",
-    "Wrench"
+    "Biobase"
   ],
   "mbkmeans": [
     "DelayedArray",
@@ -21393,8 +21387,7 @@
     "SparseArray"
   ],
   "metagenomeSeq": [
-    "Biobase",
-    "Wrench"
+    "Biobase"
   ],
   "metahdep": [],
   "metapone": [
@@ -22024,7 +22017,6 @@
     "phyloseq",
     "metagenomeSeq",
     "Biobase",
-    "Wrench",
     "Biostrings",
     "multtest",
     "S4Vectors",
@@ -22041,7 +22033,6 @@
     "IRanges",
     "GenomicRanges",
     "SummarizedExperiment",
-    "Wrench",
     "GenomeInfoDb",
     "XVector",
     "S4Arrays",
@@ -29155,7 +29146,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "xmapbridge": [],
   "yamss": [
     "SummarizedExperiment",
     "IRanges",
