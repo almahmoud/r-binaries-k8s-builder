@@ -93,7 +93,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "ANF": [],
   "APAlyzer": [
     "GenomicRanges",
     "GenomicFeatures",
@@ -939,7 +938,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "CCPlotR": [],
   "CDI": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -1227,10 +1225,7 @@
     "Biostrings",
     "KEGGREST"
   ],
-  "Cardinal": [
-    "CardinalIO"
-  ],
-  "CardinalIO": [],
+  "Cardinal": [],
   "Category": [
     "AnnotationDbi",
     "RBGL",
@@ -1251,7 +1246,6 @@
   "CeTF": [
     "clusterProfiler",
     "DESeq2",
-    "RCy3",
     "SummarizedExperiment",
     "AnnotationDbi",
     "DOSE",
@@ -1826,8 +1820,7 @@
   ],
   "DEGraph": [
     "RBGL",
-    "NCIgraph",
-    "RCy3"
+    "NCIgraph"
   ],
   "DEGreport": [
     "DESeq2",
@@ -1893,7 +1886,6 @@
     "scater",
     "scuttle",
     "SingleCellExperiment",
-    "variancePartition",
     "GenomicRanges",
     "DelayedArray",
     "SparseArray",
@@ -2300,7 +2292,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "EBcoexpress": [],
   "EDASeq": [
     "ShortRead",
     "Rsamtools",
@@ -3103,9 +3094,7 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "GeneNetworkBuilder": [
-    "RCy3"
-  ],
+  "GeneNetworkBuilder": [],
   "GeneRegionScan": [
     "Biostrings"
   ],
@@ -3349,7 +3338,6 @@
   "GrafGen": [
     "GenomicRanges"
   ],
-  "GraphAT": [],
   "GreyListChIP": [
     "GenomicRanges",
     "GenomicAlignments",
@@ -3992,7 +3980,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "MBCB": [],
   "MBECS": [
     "phyloseq",
     "sva",
@@ -4227,9 +4214,7 @@
     "SparseArray",
     "h5mread"
   ],
-  "MOGAMUN": [
-    "RCy3"
-  ],
+  "MOGAMUN": [],
   "MOMA": [
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -4332,9 +4317,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "MSstatsBioNet": [
-    "RCy3"
-  ],
+  "MSstatsBioNet": [],
   "MSstatsLiP": [
     "Biostrings",
     "MSstatsPTM"
@@ -4460,7 +4443,6 @@
   ],
   "MetaPhOR": [
     "clusterProfiler",
-    "RCy3",
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
@@ -4577,7 +4559,6 @@
     "SparseArray"
   ],
   "Mfuzz": [],
-  "MiPP": [],
   "MiRaGE": [
     "AnnotationDbi",
     "KEGGREST",
@@ -4926,8 +4907,7 @@
     "Biostrings"
   ],
   "NCIgraph": [
-    "RBGL",
-    "RCy3"
+    "RBGL"
   ],
   "NanoMethViz": [
     "SummarizedExperiment",
@@ -5411,7 +5391,6 @@
     "GenomicRanges",
     "SparseArray"
   ],
-  "PhenStat": [],
   "PhosR": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -5672,7 +5651,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RCy3": [],
   "REBET": [],
   "REDseq": [
     "Biostrings",
@@ -5736,7 +5714,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RGraph2js": [],
   "RITAN": [
     "BgeeDB",
     "GenomicFeatures",
@@ -6016,7 +5993,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RbcBook1": [],
   "Rbec": [
     "dada2",
     "Biostrings",
@@ -7488,7 +7464,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "UNDO": [],
   "UPDhmm": [
     "VariantAnnotation",
     "GenomicRanges",
@@ -8619,7 +8594,6 @@
   "bnem": [
     "CellNOptR",
     "epiNEM",
-    "mnem",
     "sva",
     "RBGL",
     "genefilter",
@@ -8792,7 +8766,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "cancerclass": [],
   "cardelino": [
     "GenomicRanges",
     "VariantAnnotation",
@@ -8828,7 +8801,6 @@
     "Category",
     "GOstats",
     "annotate",
-    "RCy3",
     "KEGGREST",
     "RBGL",
     "genefilter",
@@ -9860,7 +9832,6 @@
   ],
   "dce": [
     "epiNEM",
-    "mnem",
     "graphite",
     "AnnotationDbi",
     "RBGL",
@@ -10183,7 +10154,6 @@
     "SparseArray"
   ],
   "dreamlet": [
-    "variancePartition",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "DelayedMatrixStats",
@@ -10287,7 +10257,6 @@
     "SparseArray"
   ],
   "enrichViewNet": [
-    "RCy3",
     "enrichplot",
     "DOSE",
     "AnnotationDbi",
@@ -10317,7 +10286,6 @@
     "SparseArray"
   ],
   "epiNEM": [
-    "mnem",
     "RBGL"
   ],
   "epialleleR": [
@@ -10697,9 +10665,7 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "fedup": [
-    "RCy3"
-  ],
+  "fedup": [],
   "ffpe": [
     "lumi",
     "methylumi",
@@ -12489,7 +12455,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "miRNApath": [],
   "miRNAtap": [
     "AnnotationDbi",
     "KEGGREST",
@@ -12707,7 +12672,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "mnem": [],
   "moanin": [
     "SummarizedExperiment",
     "topGO",
@@ -13022,7 +12986,6 @@
     "scuttle",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "variancePartition",
     "GenomicRanges",
     "SparseArray",
     "DelayedArray",
@@ -13115,7 +13078,6 @@
     "SparseArray"
   ],
   "nempi": [
-    "mnem",
     "epiNEM",
     "RBGL"
   ],
@@ -13861,7 +13823,6 @@
     "kebabs",
     "Biostrings"
   ],
-  "profileScoreDist": [],
   "profileplyr": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -14298,7 +14259,6 @@
     "Biostrings",
     "GenomicRanges",
     "Gviz",
-    "RCy3",
     "KEGGREST",
     "rtracklayer",
     "biomaRt",
@@ -16268,7 +16228,6 @@
     "GenomicAlignments"
   ],
   "transomics2cytoscape": [
-    "RCy3",
     "KEGGREST",
     "Biostrings"
   ],
@@ -16409,7 +16368,6 @@
   "universalmotif": [
     "Biostrings"
   ],
-  "variancePartition": [],
   "velociraptor": [
     "SummarizedExperiment",
     "DelayedArray",
@@ -16681,7 +16639,6 @@
     "GenomicRanges"
   ],
   "zenith": [
-    "variancePartition",
     "EnrichmentBrowser",
     "GSEABase",
     "SummarizedExperiment",

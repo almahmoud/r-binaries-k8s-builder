@@ -760,3 +760,8 @@ flowCHIC
 flowcatchR
 lpNet
 synapsis
+Cardinal
+GeneNetworkBuilder
+MOGAMUN
+MSstatsBioNet
+fedup
