@@ -4803,7 +4803,6 @@
     "SparseArray"
   ],
   "ProteoDisco": [
-    "cleaver",
     "GenomicFeatures",
     "GenomicRanges",
     "VariantAnnotation",
@@ -8057,7 +8056,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "cleaver": [],
   "cliProfiler": [
     "rtracklayer",
     "GenomicRanges",
@@ -8168,7 +8166,6 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "cogeqc": [],
   "cola": [],
   "comapr": [
     "GenomicRanges",
@@ -9818,7 +9815,6 @@
     "SeqArray",
     "GenomicRanges"
   ],
-  "ggmsa": [],
   "ggsc": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -14088,7 +14084,6 @@
   "synapsis": [],
   "synapter": [
     "MSnbase",
-    "cleaver",
     "PSMatch",
     "QFeatures",
     "MultiAssayExperiment",
