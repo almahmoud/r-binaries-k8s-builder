@@ -566,3 +566,5 @@ S4Vectors
 veloviz
 BiocIO
 Rnits
+DFplyr
+martini

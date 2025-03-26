@@ -2849,7 +2849,6 @@
     "XVector",
     "Biostrings"
   ],
-  "DFplyr": [],
   "DMCFB": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -17706,7 +17705,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "martini": [],
   "maser": [
     "GenomicRanges",
     "rtracklayer",
