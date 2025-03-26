@@ -1161,7 +1161,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "BeadDataPackR": [],
   "BgeeCall": [
     "GenomicFeatures",
     "Biostrings",
@@ -1910,7 +1909,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "CIMICE": [],
   "CINdex": [
     "GenomicRanges",
     "S4Vectors",
@@ -15691,7 +15689,6 @@
     "vsn",
     "BiocGenerics",
     "gcrma",
-    "BeadDataPackR",
     "AnnotationDbi",
     "GenomicRanges",
     "IRanges",
@@ -16038,7 +16035,6 @@
   "beadarray": [
     "BiocGenerics",
     "Biobase",
-    "BeadDataPackR",
     "limma",
     "AnnotationDbi",
     "GenomicRanges",
@@ -16437,7 +16433,6 @@
     "beadarray",
     "Biobase",
     "BiocGenerics",
-    "BeadDataPackR",
     "limma",
     "AnnotationDbi",
     "GenomicRanges",
@@ -19623,7 +19618,6 @@
     "Rsamtools",
     "GenomeInfoDb",
     "beadarray",
-    "BeadDataPackR",
     "limma",
     "AnnotationDbi",
     "UCSC.utils",

@@ -350,3 +350,5 @@ BiocNeighbors
 ndexr
 gpls
 maftools
+BeadDataPackR
+CIMICE
