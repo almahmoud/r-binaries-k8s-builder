@@ -1292,3 +1292,8 @@ phantasus
 CaMutQC
 NetActivity
 universalmotif
+gDRstyle
+iSEEde
+metabolomicsWorkbenchR
+PathoStat
+SCArray.sat
