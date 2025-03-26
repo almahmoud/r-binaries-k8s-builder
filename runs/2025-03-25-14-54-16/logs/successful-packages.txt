@@ -445,3 +445,5 @@ fmcsR
 GSCA
 MetID
 eiR
+Biobase
+BiocWorkflowTools
