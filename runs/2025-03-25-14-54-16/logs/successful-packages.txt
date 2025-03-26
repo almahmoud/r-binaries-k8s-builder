@@ -1234,3 +1234,6 @@ GenomicSuperSignature
 ggseqalign
 ACE
 ssPATHS
+cfdnakit
+sangeranalyseR
+scrapper

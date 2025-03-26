@@ -2791,7 +2791,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "cfdnakit": [],
   "cghMCR": [
     "CNTools",
     "genefilter",
@@ -4572,7 +4571,6 @@
     "annotate",
     "biomaRt"
   ],
-  "sangeranalyseR": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -4730,7 +4728,6 @@
   "scran": [
     "scuttle"
   ],
-  "scrapper": [],
   "screenCounter": [],
   "scruff": [
     "GenomicFeatures",
