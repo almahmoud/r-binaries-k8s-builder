@@ -2958,7 +2958,6 @@
   "ChemmineR": [
     "BiocGenerics"
   ],
-  "Chicago": [],
   "ChromHeatMap": [
     "BiocGenerics",
     "annotate",
