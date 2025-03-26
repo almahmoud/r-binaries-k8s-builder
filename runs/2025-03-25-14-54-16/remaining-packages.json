@@ -2314,7 +2314,6 @@
     "genefilter"
   ],
   "doubletrouble": [
-    "syntenet",
     "GenomicFeatures"
   ],
   "dreamlet": [
@@ -2638,7 +2637,6 @@
     "GenomicFeatures"
   ],
   "igvShiny": [],
-  "imcRtools": [],
   "intansv": [
     "ggbio",
     "biovizBase",
@@ -3149,7 +3147,6 @@
     "genefilter",
     "GenomicFeatures"
   ],
-  "r3Cseq": [],
   "rCGH": [
     "GenomicFeatures"
   ],
@@ -3526,7 +3523,6 @@
   "synapter": [
     "MSnbase"
   ],
-  "syntenet": [],
   "systemPipeR": [],
   "tLOH": [
     "VariantAnnotation",

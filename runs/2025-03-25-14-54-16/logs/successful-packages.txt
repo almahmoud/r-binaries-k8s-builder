@@ -1360,3 +1360,6 @@ velociraptor
 bedbaser
 mist
 rifiComparative
+imcRtools
+r3Cseq
+syntenet
