@@ -542,3 +542,9 @@ GSEAlm
 messina
 RUVcorr
 trio
+a4Preproc
+densvis
+interactiveDisplayBase
+progeny
+snpStats
+TargetDecoy

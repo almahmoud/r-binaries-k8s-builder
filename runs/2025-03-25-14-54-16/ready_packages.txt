@@ -1,15 +1,2 @@
-AffyRNADegradation
-Cormotif
-ExiMiR
-GEOsubmission
-Rnits
-STATegRa
-TurboNorm
-affyContam
-frmaTools
-makecdfenv
-panp
-plier
-pvac
-qpcrNorm
-vsn
+RVS
+martini

@@ -2052,7 +2052,6 @@
     "GOSemSim",
     "IRanges",
     "GenomicRanges",
-    "snpStats",
     "graph",
     "GenomeInfoDb",
     "S4Arrays",
@@ -3114,7 +3113,6 @@
   ],
   "DExMA": [
     "GEOquery",
-    "snpStats",
     "sva",
     "SummarizedExperiment",
     "S4Vectors",
@@ -4934,7 +4932,6 @@
     "Biostrings"
   ],
   "GeneGeneInteR": [
-    "snpStats",
     "Rsamtools",
     "IRanges",
     "GenomicRanges",
@@ -6350,7 +6347,6 @@
   "MAGAR": [
     "HDF5Array",
     "RnBeads",
-    "snpStats",
     "crlmm",
     "oligoClasses",
     "SparseArray",
@@ -9648,9 +9644,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RVS": [
-    "snpStats"
-  ],
+  "RVS": [],
   "RadioGx": [
     "CoreGx",
     "SummarizedExperiment",
@@ -11957,7 +11951,6 @@
     "BiocIO",
     "SparseArray"
   ],
-  "TargetDecoy": [],
   "TileDBArray": [
     "SparseArray",
     "DelayedArray",
@@ -12633,7 +12626,6 @@
   ],
   "a4": [
     "a4Base",
-    "a4Preproc",
     "a4Classif",
     "a4Core",
     "annaffy",
@@ -12649,7 +12641,6 @@
     "UCSC.utils"
   ],
   "a4Base": [
-    "a4Preproc",
     "a4Core",
     "annaffy",
     "genefilter",
@@ -12664,11 +12655,9 @@
     "UCSC.utils"
   ],
   "a4Classif": [
-    "a4Core",
-    "a4Preproc"
+    "a4Core"
   ],
   "a4Core": [],
-  "a4Preproc": [],
   "abseqR": [],
   "adSplit": [
     "AnnotationDbi",
@@ -14156,7 +14145,6 @@
   "cardelino": [
     "GenomeInfoDb",
     "GenomicRanges",
-    "snpStats",
     "S4Vectors",
     "VariantAnnotation",
     "IRanges",
@@ -14690,7 +14678,6 @@
     "SummarizedExperiment",
     "UCSC.utils",
     "GenomicFeatures",
-    "snpStats",
     "VariantAnnotation",
     "GenomicAlignments",
     "KEGGREST",
@@ -16006,7 +15993,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "densvis": [],
   "derfinder": [
     "AnnotationDbi",
     "bumphunter",
@@ -16374,7 +16360,6 @@
     "SparseArray"
   ],
   "easier": [
-    "progeny",
     "quantiseqr",
     "DESeq2",
     "S4Vectors",
@@ -18158,7 +18143,6 @@
     "GenomicFeatures",
     "Biostrings",
     "AnnotationDbi",
-    "snpStats",
     "VariantAnnotation",
     "AnnotationHub",
     "KEGGREST",
@@ -18874,7 +18858,6 @@
     "biomaRt"
   ],
   "interactiveDisplay": [
-    "interactiveDisplayBase",
     "Category",
     "AnnotationDbi",
     "IRanges",
@@ -18890,7 +18873,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "interactiveDisplayBase": [],
   "ipdDb": [
     "AnnotationDbi",
     "AnnotationHub",
@@ -19442,9 +19424,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "martini": [
-    "snpStats"
-  ],
+  "martini": [],
   "maser": [
     "GenomicRanges",
     "rtracklayer",
@@ -22328,7 +22308,6 @@
     "fgsea",
     "pwalign"
   ],
-  "progeny": [],
   "projectR": [
     "SingleCellExperiment",
     "fgsea",
@@ -24144,7 +24123,6 @@
   ],
   "scoreInvHap": [
     "Biostrings",
-    "snpStats",
     "VariantAnnotation",
     "GenomicRanges",
     "SummarizedExperiment",
@@ -24970,7 +24948,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "snpStats": [],
   "soGGi": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -26495,7 +26472,6 @@
     "GenomicFeatures",
     "Biostrings",
     "AnnotationDbi",
-    "snpStats",
     "VariantAnnotation",
     "AnnotationHub",
     "KEGGREST",
