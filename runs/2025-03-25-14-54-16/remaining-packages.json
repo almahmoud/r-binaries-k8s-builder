@@ -3877,7 +3877,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "lipidr": [],
   "lisaClust": [
     "spicyR",
     "ClassifyR",
@@ -4001,7 +4000,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "methyLImp2": [],
   "methylCC": [
     "minfi",
     "bsseq",
@@ -5195,11 +5193,9 @@
     "tidySingleCellExperiment"
   ],
   "tidySummarizedExperiment": [],
-  "tidybulk": [],
   "tidyomics": [
     "tidySummarizedExperiment",
     "tidySingleCellExperiment",
-    "tidybulk",
     "plyranges",
     "nullranges",
     "rtracklayer"

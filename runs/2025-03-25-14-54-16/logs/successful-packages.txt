@@ -1192,3 +1192,6 @@ oligo
 qmtools
 speckle
 tRanslatome
+lipidr
+methyLImp2
+tidybulk
