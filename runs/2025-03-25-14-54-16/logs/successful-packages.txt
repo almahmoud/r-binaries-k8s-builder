@@ -1407,3 +1407,5 @@ debCAM
 FeatSeekR
 ITALICS
 wpm
+scDblFinder
+tracktables

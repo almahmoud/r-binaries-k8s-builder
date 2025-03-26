@@ -2987,7 +2987,6 @@
     "GSEABase"
   ],
   "scDataviz": [],
-  "scDblFinder": [],
   "scDiagnostics": [],
   "scDotPlot": [],
   "scFeatures": [
@@ -3125,7 +3124,6 @@
     "celda",
     "GSEABase",
     "zinbwave",
-    "scDblFinder",
     "TSCAN",
     "GenomicFeatures",
     "M3Drop",
@@ -3269,7 +3267,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tracktables": [],
   "tradeSeq": [
     "slingshot"
   ],
