@@ -827,7 +827,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -1568,7 +1567,6 @@
   "CompoundDb": [
     "AnnotationFilter",
     "Spectra",
-    "MetaboCoreUtils",
     "GenomicRanges"
   ],
   "CopyNumberPlots": [
@@ -3412,7 +3410,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -3587,7 +3584,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -3712,7 +3708,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -4133,8 +4128,7 @@
     "KEGGREST"
   ],
   "MetCirc": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MetMashR": [
     "struct",
@@ -4168,7 +4162,6 @@
     "KEGGREST"
   ],
   "MetaboAnnotation": [
-    "MetaboCoreUtils",
     "Spectra",
     "SummarizedExperiment",
     "QFeatures",
@@ -4182,7 +4175,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "MetaboCoreUtils": [],
   "MetaboDynamics": [
     "KEGGREST",
     "SummarizedExperiment",
@@ -4410,28 +4402,22 @@
     "KEGGREST"
   ],
   "MsBackendMassbank": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MsBackendMetaboLights": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MsBackendMgf": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MsBackendMsp": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MsBackendRawFileReader": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MsBackendSql": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MsDataHub": [
     "ExperimentHub",
@@ -4445,7 +4431,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "SparseArray"
@@ -4461,7 +4446,6 @@
     "Spectra",
     "SummarizedExperiment",
     "QFeatures",
-    "MetaboCoreUtils",
     "MultiAssayExperiment",
     "AnnotationFilter",
     "GenomicRanges",
@@ -4765,7 +4749,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "OrderedList": [],
   "Organism.dplyr": [
     "AnnotationFilter",
     "GenomicRanges",
@@ -6462,12 +6445,9 @@
     "RBioFormats",
     "NanoStringNCTools"
   ],
-  "Spectra": [
-    "MetaboCoreUtils"
-  ],
+  "Spectra": [],
   "SpectraQL": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "SpectralTAD": [
     "HiCcompare",
@@ -7383,7 +7363,6 @@
     "ScaledMatrix"
   ],
   "alabaster": [
-    "alabaster.base",
     "alabaster.matrix",
     "alabaster.ranges",
     "alabaster.se",
@@ -7411,18 +7390,13 @@
     "KEGGREST",
     "GenomicAlignments"
   ],
-  "alabaster.base": [],
-  "alabaster.bumpy": [
-    "alabaster.base"
-  ],
+  "alabaster.bumpy": [],
   "alabaster.files": [
-    "alabaster.base",
     "Rsamtools",
     "GenomicRanges"
   ],
   "alabaster.mae": [
     "MultiAssayExperiment",
-    "alabaster.base",
     "alabaster.se",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -7434,19 +7408,16 @@
     "h5mread"
   ],
   "alabaster.matrix": [
-    "alabaster.base",
     "DelayedArray",
     "SparseArray",
     "HDF5Array",
     "h5mread"
   ],
   "alabaster.ranges": [
-    "GenomicRanges",
-    "alabaster.base"
+    "GenomicRanges"
   ],
   "alabaster.sce": [
     "SingleCellExperiment",
-    "alabaster.base",
     "alabaster.se",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -7459,7 +7430,6 @@
   ],
   "alabaster.se": [
     "SummarizedExperiment",
-    "alabaster.base",
     "alabaster.ranges",
     "alabaster.matrix",
     "GenomicRanges",
@@ -7470,7 +7440,6 @@
   ],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
-    "alabaster.base",
     "alabaster.sce",
     "alabaster.spatial",
     "RBioFormats",
@@ -7492,7 +7461,6 @@
   ],
   "alabaster.spatial": [
     "SpatialExperiment",
-    "alabaster.base",
     "alabaster.sce",
     "SingleCellExperiment",
     "alabaster.se",
@@ -7505,11 +7473,8 @@
     "HDF5Array",
     "h5mread"
   ],
-  "alabaster.string": [
-    "alabaster.base"
-  ],
+  "alabaster.string": [],
   "alabaster.vcf": [
-    "alabaster.base",
     "VariantAnnotation",
     "alabaster.se",
     "alabaster.string",
@@ -8400,7 +8365,6 @@
     "SingleCellExperiment",
     "chevreulProcess",
     "chevreulPlot",
-    "alabaster.base",
     "wiggleplotr",
     "scater",
     "scran",
@@ -8577,7 +8541,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "GenomicRanges",
     "DelayedArray",
@@ -8837,7 +8800,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -9719,7 +9681,6 @@
     "HDF5Array",
     "alabaster.matrix",
     "BiocSingular",
-    "alabaster.base",
     "KEGGREST",
     "ScaledMatrix",
     "rtracklayer",
@@ -10033,7 +9994,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -10588,7 +10548,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "SparseArray"
@@ -11366,7 +11325,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -12214,7 +12172,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -14381,7 +14338,6 @@
     "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
-    "alabaster.base",
     "alabaster.matrix",
     "alabaster.se",
     "GenomicRanges",
@@ -14689,7 +14645,6 @@
     "QFeatures",
     "PSMatch",
     "MsFeatures",
-    "MetaboCoreUtils",
     "MultiAssayExperiment",
     "AnnotationFilter",
     "GenomicRanges",
@@ -15499,7 +15454,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",

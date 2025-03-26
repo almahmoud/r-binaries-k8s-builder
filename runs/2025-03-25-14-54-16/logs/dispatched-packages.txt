@@ -806,3 +806,6 @@ scoup
 seqArchR
 sscu
 universalmotif
+Spectra
+alabaster.bumpy
+alabaster.string
