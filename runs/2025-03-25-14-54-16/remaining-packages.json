@@ -1003,9 +1003,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiCDOC": [
-    "multiHiCcompare"
-  ],
+  "HiCDOC": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome"
@@ -1644,10 +1642,7 @@
     "GenomicFeatures",
     "GenomicDataCommons"
   ],
-  "RTNduals": [],
-  "RTNsurvival": [
-    "RTNduals"
-  ],
+  "RTNsurvival": [],
   "RUVSeq": [
     "EDASeq",
     "biomaRt",
@@ -3598,7 +3593,6 @@
     "graphite",
     "AnnotationHub"
   ],
-  "multiHiCcompare": [],
   "multicrispr": [
     "BSgenome",
     "CRISPRseek",

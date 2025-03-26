@@ -1525,3 +1525,5 @@ wiggleplotr
 MSnbase
 goSorensen
 ADAMgui
+HiCDOC
+RTNsurvival
