@@ -774,7 +774,6 @@
     "SummarizedExperiment"
   ],
   "CRISPRball": [
-    "InteractiveComplexHeatmap",
     "dittoSeq",
     "PCAtools",
     "SummarizedExperiment",
@@ -2528,7 +2527,6 @@
   "InteractionSet": [
     "SummarizedExperiment"
   ],
-  "InteractiveComplexHeatmap": [],
   "IsoBayes": [
     "SummarizedExperiment"
   ],
@@ -2671,7 +2669,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "MAPFX": [],
   "MAST": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -7193,7 +7190,6 @@
     "RBGL",
     "ncdfFlow"
   ],
-  "flowMatch": [],
   "flowMeans": [],
   "flowMerge": [
     "flowClust"
@@ -7300,7 +7296,6 @@
     "ReactomePA",
     "clusterProfiler",
     "AnnotationDbi",
-    "InteractiveComplexHeatmap",
     "DOSE",
     "enrichplot",
     "GOSemSim",
@@ -7968,7 +7963,6 @@
     "annotate"
   ],
   "loci2path": [],
-  "lpNet": [],
   "lumi": [
     "methylumi",
     "GenomicFeatures",

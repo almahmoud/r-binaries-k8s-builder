@@ -761,3 +761,7 @@ h5mread
 MsBackendRawFileReader
 MsBackendSql
 RBioFormats
+flowMatch
+InteractiveComplexHeatmap
+lpNet
+MAPFX
