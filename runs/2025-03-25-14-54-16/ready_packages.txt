@@ -1,2 +1,3 @@
-blima
-epigenomix
+BgeeDB
+alabaster.mae
+alabaster.sce

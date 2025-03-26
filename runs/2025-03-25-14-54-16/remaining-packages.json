@@ -210,9 +210,7 @@
     "biomaRt",
     "txdbmaker"
   ],
-  "BgeeDB": [
-    "zellkonverter"
-  ],
+  "BgeeDB": [],
   "BiGGR": [
     "rsbml"
   ],
@@ -1874,7 +1872,6 @@
     "BgeeDB",
     "GenomicFeatures",
     "ensembldb",
-    "zellkonverter",
     "rtracklayer"
   ],
   "RJMCMCNucleosomes": [
@@ -2547,7 +2544,6 @@
     "scuttle"
   ],
   "alabaster": [
-    "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
@@ -2557,28 +2553,20 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "alabaster.mae": [
-    "alabaster.se"
-  ],
-  "alabaster.sce": [
-    "alabaster.se"
-  ],
-  "alabaster.se": [],
+  "alabaster.mae": [],
+  "alabaster.sce": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
     "alabaster.sce",
     "alabaster.spatial",
-    "alabaster.se",
     "DropletUtils",
     "scuttle"
   ],
   "alabaster.spatial": [
-    "alabaster.sce",
-    "alabaster.se"
+    "alabaster.sce"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
-    "alabaster.se",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures"
@@ -3931,7 +3919,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "mBPCR": [],
   "mCSEA": [
     "biomaRt",
     "GenomicFeatures",
@@ -5035,8 +5022,6 @@
     "scDblFinder",
     "TSCAN",
     "scuttle",
-    "zellkonverter",
-    "alabaster.se",
     "GenomicFeatures",
     "rtracklayer",
     "annotate",
@@ -5336,7 +5321,6 @@
   ],
   "universalmotif": [],
   "velociraptor": [
-    "zellkonverter",
     "scuttle"
   ],
   "vidger": [],
@@ -5419,7 +5403,6 @@
     "annotate",
     "rtracklayer"
   ],
-  "zellkonverter": [],
   "zenith": [
     "EnrichmentBrowser",
     "GSEABase",
