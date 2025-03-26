@@ -1635,7 +1635,6 @@
     "multiHiCcompare"
   ],
   "HiContacts": [],
-  "HiCool": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome",
@@ -3030,7 +3029,6 @@
   "SPONGE": [
     "biomaRt"
   ],
-  "SPOTlight": [],
   "SVMDO": [
     "DOSE",
     "GOSemSim"
