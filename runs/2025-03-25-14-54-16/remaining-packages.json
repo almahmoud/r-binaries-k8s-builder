@@ -3885,7 +3885,6 @@
     "multtest"
   ],
   "DNAcopy": [],
-  "DNAcycP2": [],
   "DNAfusion": [
     "bamsignals",
     "GenomicRanges",
@@ -30860,7 +30859,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "ternarynet": [],
   "terraTCGAdata": [
     "MultiAssayExperiment",
     "GenomicRanges",

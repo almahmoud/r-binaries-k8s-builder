@@ -320,3 +320,5 @@ basilisk
 biobtreeR
 NTW
 Chicago
+DNAcycP2
+ternarynet
