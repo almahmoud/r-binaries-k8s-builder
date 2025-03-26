@@ -257,7 +257,6 @@
     "XVector",
     "Biostrings"
   ],
-  "ASEB": [],
   "ASGSCA": [],
   "ASICS": [
     "ropls",
@@ -1301,7 +1300,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "BioCartaImage": [],
   "BioCor": [
     "GSEABase",
     "BiocGenerics",
@@ -9935,7 +9933,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "Oscope": [],
   "OutSplice": [
     "AnnotationDbi",
     "GenomicRanges",
@@ -16899,7 +16896,6 @@
     "annotate",
     "biomaRt"
   ],
-  "calm": [],
   "canceR": [
     "cBioPortalData",
     "GSEABase",
@@ -28211,7 +28207,6 @@
   ],
   "scDDboost": [
     "SingleCellExperiment",
-    "Oscope",
     "SummarizedExperiment",
     "S4Vectors",
     "BiocGenerics",

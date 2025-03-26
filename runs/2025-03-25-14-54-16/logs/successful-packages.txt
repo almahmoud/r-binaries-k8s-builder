@@ -329,3 +329,7 @@ AlphaBeta
 SwathXtend
 RImmPort
 BG2
+ASEB
+BioCartaImage
+calm
+Oscope
