@@ -633,3 +633,5 @@ oppti
 sigsquared
 spkTools
 timecourse
+clippda
+Rgraphviz

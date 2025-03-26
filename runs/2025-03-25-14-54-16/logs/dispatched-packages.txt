@@ -709,3 +709,11 @@ XVector
 dStruct
 derfinderHelper
 nucleoSim
+BioMVCClass
+KEGGgraph
+OncoSimulR
+TRONCO
+hyperdraw
+mnem
+netresponse
+paircompviz

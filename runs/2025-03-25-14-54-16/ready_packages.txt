@@ -1,9 +1,8 @@
-BumpyMatrix
-ComplexHeatmap
-DirichletMultinomial
-GenomeInfoDb
-S4Arrays
-XVector
-dStruct
-derfinderHelper
-nucleoSim
+BioMVCClass
+KEGGgraph
+OncoSimulR
+TRONCO
+hyperdraw
+mnem
+netresponse
+paircompviz
