@@ -950,3 +950,4 @@ bayNorm
 SpatialExperiment
 TENxIO
 VDJdive
+clustifyr
