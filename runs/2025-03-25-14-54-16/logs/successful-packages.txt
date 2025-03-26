@@ -1105,3 +1105,6 @@ genomicInstability
 lionessR
 MAI
 marr
+CNVRanger
+flowTrans
+ReactomeGSA

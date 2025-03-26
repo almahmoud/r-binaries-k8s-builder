@@ -356,7 +356,6 @@
     "genefilter",
     "annotate"
   ],
-  "CNVRanger": [],
   "CNVfilteR": [
     "regioneR",
     "karyoploteR",
@@ -2078,7 +2077,6 @@
   "Rcpi": [
     "GOSemSim"
   ],
-  "ReactomeGSA": [],
   "ReactomePA": [
     "DOSE",
     "enrichplot",
@@ -3746,7 +3744,6 @@
   "flowStats": [
     "flowWorkspace"
   ],
-  "flowTrans": [],
   "flowVS": [
     "flowStats",
     "flowWorkspace"
