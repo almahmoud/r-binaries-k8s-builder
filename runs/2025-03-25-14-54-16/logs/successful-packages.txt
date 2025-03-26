@@ -671,3 +671,11 @@ SRAdb
 stepNorm
 subSeq
 XVector
+bluster
+EBImage
+geneRecommender
+KEGGgraph
+MMUPHin
+nnNorm
+OncoSimulR
+TRONCO

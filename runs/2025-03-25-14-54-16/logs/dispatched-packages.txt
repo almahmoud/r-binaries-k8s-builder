@@ -752,3 +752,11 @@ ncdfFlow
 simona
 tidyFlowCore
 tidytof
+CRImage
+FISHalyseR
+RBioFormats
+SPIA
+flowCHIC
+flowcatchR
+lpNet
+synapsis
