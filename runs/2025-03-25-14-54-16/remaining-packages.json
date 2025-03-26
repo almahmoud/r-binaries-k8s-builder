@@ -1942,7 +1942,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "CNAnorm": [],
   "CNEr": [
     "Biostrings",
     "pwalign",

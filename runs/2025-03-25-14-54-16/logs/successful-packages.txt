@@ -342,3 +342,4 @@ DNAcopy
 GeneOverlap
 geneplast
 mgsa
+CNAnorm
