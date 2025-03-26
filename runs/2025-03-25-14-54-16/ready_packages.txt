@@ -1,4 +1,3 @@
-PeacoQC
-flowStats
-ggcyto
-openCyto
+SpatialExperimentIO
+SpatialFeatureExperiment
+scCB2

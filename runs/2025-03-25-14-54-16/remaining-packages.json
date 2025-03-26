@@ -585,7 +585,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "DropletUtils": [],
   "DrugVsDisease": [
     "biomaRt",
     "ArrayExpress"
@@ -693,7 +692,6 @@
   ],
   "FLAMES": [
     "bambu",
-    "DropletUtils",
     "GenomicFeatures",
     "txdbmaker",
     "ggbio",
@@ -1036,7 +1034,6 @@
     "sva",
     "genefilter"
   ],
-  "MDTS": [],
   "MEAL": [
     "minfi",
     "Gviz",
@@ -1739,18 +1736,13 @@
   ],
   "Spaniel": [
     "scater",
-    "scran",
-    "DropletUtils"
+    "scran"
   ],
   "SparseSignatures": [
     "BSgenome"
   ],
-  "SpatialExperimentIO": [
-    "DropletUtils"
-  ],
-  "SpatialFeatureExperiment": [
-    "DropletUtils"
-  ],
+  "SpatialExperimentIO": [],
+  "SpatialFeatureExperiment": [],
   "SpectralTAD": [],
   "SpliceWiz": [
     "AnnotationHub",
@@ -1929,8 +1921,7 @@
     "biomaRt"
   ],
   "Voyager": [
-    "SpatialFeatureExperiment",
-    "DropletUtils"
+    "SpatialFeatureExperiment"
   ],
   "XDE": [
     "genefilter",
@@ -2001,8 +1992,7 @@
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
     "alabaster.sce",
-    "alabaster.spatial",
-    "DropletUtils"
+    "alabaster.spatial"
   ],
   "alabaster.spatial": [
     "alabaster.sce"
@@ -3671,9 +3661,7 @@
     "zinbwave",
     "genefilter"
   ],
-  "scCB2": [
-    "DropletUtils"
-  ],
+  "scCB2": [],
   "scClassify": [
     "Cepo",
     "GSEABase"
@@ -3707,8 +3695,7 @@
     "scran"
   ],
   "scPipe": [
-    "biomaRt",
-    "DropletUtils"
+    "biomaRt"
   ],
   "scQTLtools": [
     "biomaRt"
@@ -3860,7 +3847,6 @@
     "scran",
     "sva",
     "celda",
-    "DropletUtils",
     "GSEABase",
     "zinbwave",
     "scDblFinder",
@@ -4091,7 +4077,6 @@
   "velociraptor": [],
   "vidger": [],
   "visiumStitched": [
-    "DropletUtils",
     "AnnotationHub",
     "scater",
     "ExperimentHub"
