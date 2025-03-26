@@ -1880,7 +1880,6 @@
   "clusterSeq": [
     "baySeq"
   ],
-  "cmapR": [],
   "cn.farms": [],
   "cn.mops": [],
   "coMethDMR": [
@@ -2308,7 +2307,6 @@
   "gmoviz": [
     "GenomicFeatures"
   ],
-  "goSTAG": [],
   "goseq": [
     "GenomicFeatures",
     "txdbmaker"
@@ -2879,9 +2877,7 @@
   "rGenomeTracks": [
     "AnnotationHub"
   ],
-  "rTRM": [],
   "rTRMui": [
-    "rTRM",
     "MotifDb"
   ],
   "raer": [

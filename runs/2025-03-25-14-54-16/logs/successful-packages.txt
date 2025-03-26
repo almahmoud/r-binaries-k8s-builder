@@ -1418,3 +1418,6 @@ iSEEindex
 tRNAdbImport
 biotmle
 CrispRVariants
+cmapR
+goSTAG
+rTRM
