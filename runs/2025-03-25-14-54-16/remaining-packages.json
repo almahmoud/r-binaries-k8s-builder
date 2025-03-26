@@ -1,5 +1,4 @@
 {
-  "ACE": [],
   "ADAM": [],
   "ADAMgui": [
     "ADAM"
@@ -4955,7 +4954,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ssPATHS": [],
   "standR": [
     "RUVSeq",
     "EDASeq",
