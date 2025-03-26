@@ -3380,9 +3380,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "dandelionR": [
-    "miloR"
-  ],
+  "dandelionR": [],
   "dar": [
     "mia",
     "scater",
@@ -4364,7 +4362,6 @@
   "microbiome": [],
   "microbiomeDASim": [],
   "microbiomeExplorer": [],
-  "miloR": [],
   "mimager": [
     "oligo",
     "oligoClasses"
