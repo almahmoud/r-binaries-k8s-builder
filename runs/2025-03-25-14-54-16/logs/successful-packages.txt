@@ -1283,3 +1283,5 @@ MultiRNAflow
 multiHiCcompare
 RTNduals
 DEWSeq
+BiocCheck
+ccfindR

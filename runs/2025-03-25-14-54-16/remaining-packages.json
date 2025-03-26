@@ -13,7 +13,6 @@
     "AnnotationHubData",
     "AnnotationHub",
     "GenomicFeatures",
-    "BiocCheck",
     "OrganismDbi",
     "txdbmaker",
     "biomaRt"
@@ -98,7 +97,6 @@
   "AnnotationHubData": [
     "AnnotationHub",
     "GenomicFeatures",
-    "BiocCheck",
     "OrganismDbi",
     "txdbmaker",
     "biomaRt"
@@ -209,7 +207,6 @@
     "scran",
     "scuttle"
   ],
-  "BiocCheck": [],
   "BiocHubsShiny": [
     "AnnotationHub",
     "ExperimentHub"
@@ -744,7 +741,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "GenomicFeatures",
-    "BiocCheck",
     "OrganismDbi",
     "txdbmaker",
     "biomaRt"
@@ -2427,7 +2423,6 @@
     "GenomicDataCommons"
   ],
   "ccImpute": [],
-  "ccfindR": [],
   "celaref": [],
   "celda": [
     "scater",
@@ -3036,9 +3031,7 @@
     "gDRimport"
   ],
   "gDRimport": [],
-  "gDRstyle": [
-    "BiocCheck"
-  ],
+  "gDRstyle": [],
   "gINTomics": [
     "biomaRt",
     "GenomicFeatures",
@@ -3394,7 +3387,6 @@
   "methodical": [
     "AnnotationHub",
     "annotatr",
-    "BiocCheck",
     "BSgenome",
     "ExperimentHub",
     "GenomicFeatures",
@@ -3450,7 +3442,6 @@
     "GenomicFeatures",
     "AnnotationHubData",
     "annotate",
-    "BiocCheck",
     "OrganismDbi",
     "txdbmaker",
     "biomaRt"
