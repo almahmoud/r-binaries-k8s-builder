@@ -228,3 +228,4 @@ SIMLR
 STRINGdb
 synlet
 vbmp
+NetPathMiner
