@@ -410,3 +410,17 @@ MBCB
 XINA
 biomformat
 scMitoMut
+AlphaMissenseR
+EnMCB
+OSTA.data
+Rfastp
+biodb
+brendaDb
+bugsigdbr
+fenr
+ggkegg
+hca
+rpx
+seqTools
+tomoseqr
+wppi
