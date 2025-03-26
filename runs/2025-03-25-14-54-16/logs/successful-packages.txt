@@ -1339,3 +1339,8 @@ pqsfinder
 DMCHMM
 ExCluster
 DMCFB
+batchelor
+PAST
+SCANVIS
+scater
+scp
