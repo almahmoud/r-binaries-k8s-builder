@@ -1143,7 +1143,6 @@
     "AnnotationHub"
   ],
   "GenomicSuperSignature": [],
-  "GeoTcgaData": [],
   "Glimma": [],
   "GlobalAncova": [
     "globaltest",
@@ -1732,7 +1731,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "PIPETS": [],
   "PLSDAbatch": [],
   "POMA": [
     "sva",
@@ -1777,7 +1775,6 @@
   ],
   "PepSetTest": [],
   "PhIPData": [],
-  "PharmacoGx": [],
   "PhyloProfile": [
     "ExperimentHub",
     "AnnotationHub"
@@ -2524,9 +2521,7 @@
     "rtracklayer"
   ],
   "XeniumIO": [],
-  "Xeva": [
-    "PharmacoGx"
-  ],
+  "Xeva": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
@@ -3643,12 +3638,9 @@
     "BSgenome"
   ],
   "gDR": [
-    "gDRimport",
-    "PharmacoGx"
+    "gDRimport"
   ],
-  "gDRimport": [
-    "PharmacoGx"
-  ],
+  "gDRimport": [],
   "gDRstyle": [
     "BiocCheck"
   ],
@@ -4331,7 +4323,6 @@
     "AnnotationHub"
   ],
   "multiHiCcompare": [],
-  "multiWGCNA": [],
   "multicrispr": [
     "BSgenome",
     "CRISPRseek",

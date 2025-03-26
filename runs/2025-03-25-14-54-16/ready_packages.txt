@@ -1,8 +1,2 @@
-APL
-OmaDB
-alabaster.se
-cellity
-consICA
-esetVis
-moanin
-tRanslatome
+Xeva
+gDRimport

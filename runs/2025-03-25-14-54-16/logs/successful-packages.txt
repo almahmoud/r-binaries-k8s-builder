@@ -1167,3 +1167,7 @@ MLP
 switchde
 topGO
 uSORT
+GeoTcgaData
+multiWGCNA
+PharmacoGx
+PIPETS
