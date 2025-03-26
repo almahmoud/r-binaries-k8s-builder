@@ -406,3 +406,16 @@ affxparser
 BufferedMatrixMethods
 Wrench
 xmapbridge
+CARNIVAL
+ctsGE
+DepInfeR
+edgeR
+faers
+flowCyBar
+genArise
+GEOfastq
+GSEAmining
+magrene
+parglms
+pengls
+scatterHatch

@@ -1,0 +1,10 @@
+AWFisher
+PROPER
+ROSeq
+Rvisdiff
+ScreenR
+compcodeR
+erccdashboard
+methylMnM
+ppcseq
+tweeDEseq
