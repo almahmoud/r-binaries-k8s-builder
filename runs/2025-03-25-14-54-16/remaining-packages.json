@@ -533,8 +533,7 @@
   ],
   "EpiTxDb": [
     "GenomicFeatures",
-    "txdbmaker",
-    "tRNAdbImport"
+    "txdbmaker"
   ],
   "EpipwR": [
     "ExperimentHub",
@@ -2370,7 +2369,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "iSEEindex": [],
   "iSEEpathways": [],
   "iSEEtree": [
     "miaViz",
@@ -3220,7 +3218,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "tRNAdbImport": [],
   "tRNAscanImport": [],
   "tadar": [
     "Gviz",
