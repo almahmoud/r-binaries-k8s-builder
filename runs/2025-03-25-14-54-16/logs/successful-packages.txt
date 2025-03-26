@@ -965,3 +965,5 @@ censcyt
 CuratedAtlasQueryR
 MoleculeExperiment
 infercnv
+iSEE
+MAST

@@ -1300,3 +1300,8 @@ tpSVG
 xenLite
 lemur
 transformGamPoi
+POWSC
+celaref
+iSEEhex
+iSEEindex
+iSEEpathways

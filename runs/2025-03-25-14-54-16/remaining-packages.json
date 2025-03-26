@@ -1832,7 +1832,6 @@
     "PSMatch",
     "AnnotationFilter"
   ],
-  "MAST": [],
   "MBASED": [],
   "MBECS": [
     "sva",
@@ -2384,9 +2383,7 @@
     "genefilter",
     "annotate"
   ],
-  "POWSC": [
-    "MAST"
-  ],
+  "POWSC": [],
   "PPInfer": [
     "biomaRt"
   ],
@@ -3735,7 +3732,6 @@
   "benchdamic": [
     "zinbwave",
     "DESeq2",
-    "MAST",
     "microbiome",
     "genefilter",
     "annotate"
@@ -3971,9 +3967,7 @@
   "ccImpute": [],
   "ccfindR": [],
   "ccmap": [],
-  "celaref": [
-    "MAST"
-  ],
+  "celaref": [],
   "celda": [
     "scater",
     "scran",
@@ -5232,32 +5226,21 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "iSEE": [],
   "iSEEde": [
-    "iSEE",
     "DESeq2"
   ],
   "iSEEfier": [
-    "iSEE",
     "iSEEu",
     "iSEEhex"
   ],
-  "iSEEhex": [
-    "iSEE"
-  ],
+  "iSEEhex": [],
   "iSEEhub": [
     "ExperimentHub",
-    "AnnotationHub",
-    "iSEE"
+    "AnnotationHub"
   ],
-  "iSEEindex": [
-    "iSEE"
-  ],
-  "iSEEpathways": [
-    "iSEE"
-  ],
+  "iSEEindex": [],
+  "iSEEpathways": [],
   "iSEEtree": [
-    "iSEE",
     "miaViz",
     "mia",
     "scater",
@@ -5265,7 +5248,6 @@
     "BiocSingular"
   ],
   "iSEEu": [
-    "iSEE",
     "iSEEhex"
   ],
   "iasva": [],
@@ -6957,7 +6939,6 @@
     "ExperimentHub",
     "ensembldb",
     "GSVA",
-    "MAST",
     "scater",
     "scMerge",
     "scran",
