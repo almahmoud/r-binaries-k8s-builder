@@ -1841,7 +1841,6 @@
   "basecallQC": [],
   "baySeq": [],
   "beachmat.hdf5": [],
-  "bedbaser": [],
   "beer": [
     "PhIPData"
   ],
@@ -2862,7 +2861,6 @@
     "GenomicFeatures",
     "bumphunter"
   ],
-  "mist": [],
   "mitoClone2": [
     "deepSNV",
     "VariantAnnotation",
