@@ -5322,7 +5322,6 @@
   "immunogenViewer": [
     "UniProt.ws"
   ],
-  "infercnv": [],
   "intansv": [
     "ggbio",
     "biovizBase",
