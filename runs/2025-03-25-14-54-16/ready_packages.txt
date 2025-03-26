@@ -1,0 +1,9 @@
+BumpyMatrix
+ComplexHeatmap
+DirichletMultinomial
+GenomeInfoDb
+S4Arrays
+XVector
+dStruct
+derfinderHelper
+nucleoSim
