@@ -1249,3 +1249,8 @@ tidySpatialExperiment
 TIN
 RadioGx
 scifer
+breakpointR
+mosaics
+netboost
+PICB
+TCseq

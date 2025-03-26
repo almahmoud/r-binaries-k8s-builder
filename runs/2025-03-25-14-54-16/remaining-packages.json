@@ -1631,7 +1631,6 @@
     "genefilter",
     "annotate"
   ],
-  "PICB": [],
   "PICS": [],
   "PING": [
     "PICS",
@@ -2227,7 +2226,6 @@
     "GenomicDataCommons",
     "rtracklayer"
   ],
-  "TCseq": [],
   "TDbasedUFE": [],
   "TDbasedUFEadv": [
     "TDbasedUFE"
@@ -2687,7 +2685,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "breakpointR": [],
   "broadSeq": [
     "DELocal",
     "genefilter",
@@ -4023,7 +4020,6 @@
     "TFBSTools",
     "rtracklayer"
   ],
-  "mosaics": [],
   "mosdef": [
     "goseq",
     "rtracklayer",
@@ -4150,7 +4146,6 @@
     "genefilter",
     "annotate"
   ],
-  "netboost": [],
   "nipalsMCIA": [],
   "normr": [
     "rtracklayer"
