@@ -4122,7 +4122,6 @@
   "cn.mops": [
     "Rsamtools"
   ],
-  "cnvGSA": [],
   "coMethDMR": [
     "AnnotationHub",
     "bumphunter",
@@ -5279,7 +5278,6 @@
     "DESeq2"
   ],
   "ivygapSE": [],
-  "jazzPanda": [],
   "karyoploteR": [
     "regioneR",
     "Rsamtools",
@@ -6692,7 +6690,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "scoup": [],
   "scp": [
     "QFeatures",
     "AnnotationFilter"

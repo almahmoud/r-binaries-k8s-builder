@@ -1023,3 +1023,6 @@ omicsPrint
 pepStat
 awst
 xenLite
+cnvGSA
+jazzPanda
+scoup
