@@ -437,3 +437,5 @@ basilisk.utils
 biocmake
 clstutils
 REBET
+Rigraphlib
+basilisk

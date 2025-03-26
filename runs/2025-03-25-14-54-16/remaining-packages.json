@@ -828,7 +828,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "BEclear": [],
   "BG2": [],
   "BLMA": [
     "ROntoTools",
@@ -1220,7 +1219,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "KEGGREST",
-    "basilisk.utils",
     "GenomicRanges",
     "XVector",
     "GenomeInfoDb",
@@ -1448,8 +1446,7 @@
   "BiocGenerics": [],
   "BiocHail": [
     "basilisk",
-    "BiocGenerics",
-    "basilisk.utils"
+    "BiocGenerics"
   ],
   "BiocHubsShiny": [
     "AnnotationHub",
@@ -1508,7 +1505,6 @@
   "BiocSklearn": [
     "SummarizedExperiment",
     "basilisk",
-    "basilisk.utils",
     "GenomicRanges",
     "Biobase",
     "BiocGenerics",
@@ -3894,8 +3890,7 @@
   ],
   "DNAcopy": [],
   "DNAcycP2": [
-    "basilisk",
-    "basilisk.utils"
+    "basilisk"
   ],
   "DNAfusion": [
     "bamsignals",
@@ -4593,7 +4588,6 @@
     "GenomicRanges",
     "IRanges",
     "txdbmaker",
-    "basilisk.utils",
     "S4Vectors",
     "GenomeInfoDb",
     "AnnotationDbi",
@@ -5067,7 +5061,6 @@
     "scran",
     "IRanges",
     "BSgenome",
-    "basilisk.utils",
     "XVector",
     "S4Arrays",
     "SparseArray",
@@ -6739,7 +6732,6 @@
     "IRanges",
     "InteractionSet",
     "basilisk",
-    "basilisk.utils",
     "BiocGenerics",
     "GenomeInfoDb",
     "XVector",
@@ -7419,7 +7411,6 @@
   "LimROTS": [
     "SummarizedExperiment",
     "limma",
-    "basilisk.utils",
     "S4Vectors",
     "BiocGenerics",
     "GenomicRanges",
@@ -7530,7 +7521,6 @@
     "BiocGenerics",
     "BiocVersion",
     "AnnotationDbi",
-    "basilisk.utils",
     "Biobase",
     "IRanges",
     "KEGGREST",
@@ -8127,7 +8117,6 @@
     "HDF5Array",
     "DelayedArray",
     "basilisk",
-    "basilisk.utils",
     "BiocGenerics",
     "S4Vectors",
     "IRanges",
@@ -10577,7 +10566,6 @@
     "basilisk",
     "SummarizedExperiment",
     "S4Vectors",
-    "basilisk.utils",
     "BiocGenerics",
     "GenomicRanges",
     "Biobase",
@@ -11167,8 +11155,7 @@
     "BiocIO",
     "basilisk",
     "SingleCellExperiment",
-    "SummarizedExperiment",
-    "basilisk.utils"
+    "SummarizedExperiment"
   ],
   "RIVER": [
     "Biobase",
@@ -11742,22 +11729,19 @@
   "Rcwl": [
     "S4Vectors",
     "basilisk",
-    "basilisk.utils",
     "BiocGenerics"
   ],
   "RcwlPipelines": [
     "Rcwl",
     "S4Vectors",
     "basilisk",
-    "BiocGenerics",
-    "basilisk.utils"
+    "BiocGenerics"
   ],
   "ReUseData": [
     "Rcwl",
     "RcwlPipelines",
     "S4Vectors",
     "basilisk",
-    "basilisk.utils",
     "BiocGenerics"
   ],
   "ReactomeGSA": [
@@ -12107,9 +12091,7 @@
     "SparseArray",
     "biomaRt"
   ],
-  "Rigraphlib": [
-    "biocmake"
-  ],
+  "Rigraphlib": [],
   "Rmagpie": [
     "Biobase",
     "BiocGenerics"
@@ -13120,7 +13102,6 @@
     "basilisk",
     "phyloseq",
     "SummarizedExperiment",
-    "basilisk.utils",
     "Biobase",
     "BiocGenerics",
     "biomformat",
@@ -16145,10 +16126,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "basilisk": [
-    "basilisk.utils"
-  ],
-  "basilisk.utils": [],
+  "basilisk": [],
   "batchelor": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -16471,7 +16449,6 @@
     "RBGL",
     "BiocGenerics"
   ],
-  "biocmake": [],
   "biomaRt": [
     "AnnotationDbi",
     "BiocGenerics",
@@ -17098,8 +17075,7 @@
     "BiocIO"
   ],
   "cbpManager": [
-    "basilisk",
-    "basilisk.utils"
+    "basilisk"
   ],
   "ccImpute": [
     "SingleCellExperiment",
@@ -17258,7 +17234,6 @@
   "cfTools": [
     "GenomicRanges",
     "basilisk",
-    "basilisk.utils",
     "ExperimentHub",
     "BiocGenerics",
     "S4Vectors",
@@ -18450,7 +18425,6 @@
     "BiocIO",
     "Rsamtools",
     "basilisk",
-    "basilisk.utils",
     "UCSC.utils",
     "GenomicAlignments",
     "biomaRt",
@@ -18464,7 +18438,6 @@
   ],
   "crisprScore": [
     "basilisk",
-    "basilisk.utils",
     "BiocGenerics",
     "Biostrings",
     "IRanges",
@@ -18502,7 +18475,6 @@
     "txdbmaker",
     "VariantAnnotation",
     "basilisk",
-    "basilisk.utils",
     "Gviz",
     "UCSC.utils",
     "Biobase",
@@ -18539,7 +18511,6 @@
     "txdbmaker",
     "VariantAnnotation",
     "basilisk",
-    "basilisk.utils",
     "XVector",
     "ExperimentHub",
     "AnnotationHub",
@@ -18591,7 +18562,6 @@
     "SummarizedExperiment",
     "AnnotationFilter",
     "basilisk",
-    "basilisk.utils",
     "ExperimentHub",
     "AnnotationHub",
     "S4Arrays",
@@ -19212,8 +19182,7 @@
     "GenomicAlignments"
   ],
   "densvis": [
-    "basilisk",
-    "basilisk.utils"
+    "basilisk"
   ],
   "derfinder": [
     "BiocGenerics",
@@ -25712,7 +25681,6 @@
     "BiocGenerics",
     "BiocVersion",
     "AnnotationDbi",
-    "basilisk.utils",
     "GenomicRanges",
     "IRanges",
     "GenomeInfoDb",
@@ -25828,7 +25796,6 @@
     "BiocGenerics",
     "BiocVersion",
     "AnnotationDbi",
-    "basilisk.utils",
     "IRanges",
     "S4Arrays",
     "SparseArray",
@@ -26574,7 +26541,6 @@
     "BiocGenerics",
     "BiocVersion",
     "AnnotationDbi",
-    "basilisk.utils",
     "GenomicRanges",
     "IRanges",
     "GenomeInfoDb",
@@ -27485,7 +27451,6 @@
     "S4Vectors",
     "basilisk",
     "DelayedMatrixStats",
-    "basilisk.utils",
     "DelayedArray",
     "IRanges",
     "SparseArray",
@@ -28572,7 +28537,6 @@
     "S4Vectors",
     "Biobase",
     "KEGGREST",
-    "basilisk.utils",
     "XVector",
     "GenomeInfoDb",
     "SparseArray",
@@ -28911,7 +28875,6 @@
     "sangerseqR",
     "flowCore",
     "basilisk",
-    "basilisk.utils",
     "BiocGenerics",
     "S4Vectors",
     "IRanges",
@@ -29090,7 +29053,6 @@
     "S4Vectors",
     "IRanges",
     "S4Arrays",
-    "biocmake",
     "XVector"
   ],
   "screenCounter": [
@@ -29186,7 +29148,6 @@
     "S4Vectors",
     "limma",
     "scater",
-    "basilisk.utils",
     "BiocGenerics",
     "scuttle",
     "SparseArray",
@@ -29763,7 +29724,6 @@
     "basilisk",
     "alabaster.ranges",
     "KEGGREST",
-    "basilisk.utils",
     "XVector",
     "UCSC.utils",
     "h5mread",
@@ -29820,7 +29780,6 @@
     "basilisk",
     "Biobase",
     "DelayedArray",
-    "basilisk.utils",
     "BiocGenerics",
     "S4Vectors",
     "IRanges",
@@ -29963,8 +29922,7 @@
     "UCSC.utils"
   ],
   "snifter": [
-    "basilisk",
-    "basilisk.utils"
+    "basilisk"
   ],
   "snpStats": [
     "BiocGenerics"
@@ -30052,7 +30010,6 @@
     "basilisk",
     "SpatialExperiment",
     "SummarizedExperiment",
-    "basilisk.utils",
     "SingleCellExperiment",
     "S4Vectors",
     "BiocGenerics",
@@ -30925,7 +30882,6 @@
     "S4Arrays",
     "DelayedArray",
     "BiocVersion",
-    "basilisk.utils",
     "SparseArray",
     "UCSC.utils",
     "XVector",
@@ -31662,7 +31618,6 @@
     "scuttle",
     "SingleCellExperiment",
     "BiocSingular",
-    "basilisk.utils",
     "ScaledMatrix",
     "beachmat",
     "assorthead",
@@ -32158,7 +32113,6 @@
     "S4Vectors",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "basilisk.utils",
     "BiocGenerics",
     "IRanges",
     "S4Arrays",
