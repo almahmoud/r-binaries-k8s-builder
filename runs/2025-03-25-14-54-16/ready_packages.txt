@@ -1,4 +1,0 @@
-SpectralTAD
-TADCompare
-multiHiCcompare
-tRNAdbImport

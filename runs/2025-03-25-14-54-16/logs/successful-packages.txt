@@ -924,3 +924,7 @@ HiCParser
 GloScope
 HiCcompare
 tRNA
+CoGAPS
+DifferentialRegulation
+HIPPO
+LoomExperiment

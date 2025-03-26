@@ -770,7 +770,6 @@
   ],
   "ClusterFoldSimilarity": [],
   "CoCiteStats": [],
-  "CoGAPS": [],
   "CoSIA": [
     "ExperimentHub",
     "biomaRt",
@@ -1032,7 +1031,6 @@
     "rtracklayer",
     "ShortRead"
   ],
-  "DifferentialRegulation": [],
   "Dino": [
     "BiocSingular",
     "scran",
@@ -1624,7 +1622,6 @@
     "AnnotationFilter"
   ],
   "HERON": [],
-  "HIPPO": [],
   "HTSFilter": [
     "DESeq2"
   ],
@@ -1825,7 +1822,6 @@
   "LimROTS": [],
   "LinTInd": [],
   "LiquidAssociation": [],
-  "LoomExperiment": [],
   "LymphoSeq": [],
   "M3Drop": [
     "scater",
