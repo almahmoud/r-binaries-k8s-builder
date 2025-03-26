@@ -1216,3 +1216,5 @@ struct
 CoCiteStats
 consICA
 SeqVarTools
+geneRxCluster
+UniProt.ws

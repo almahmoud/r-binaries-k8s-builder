@@ -1452,3 +1452,5 @@ MetMashR
 metabolomicsWorkbenchR
 structToolbox
 GENESIS
+ginmappeR
+immunogenViewer

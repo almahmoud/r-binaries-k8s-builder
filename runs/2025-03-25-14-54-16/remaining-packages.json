@@ -2365,7 +2365,6 @@
     "rtracklayer",
     "plyranges"
   ],
-  "UniProt.ws": [],
   "Uniquorn": [
     "VariantAnnotation",
     "rtracklayer",
@@ -3148,7 +3147,6 @@
     "ShortRead"
   ],
   "dagLogo": [
-    "UniProt.ws",
     "biomaRt",
     "motifStack",
     "TFBSTools",
@@ -3285,7 +3283,6 @@
     "safe"
   ],
   "drugTargetInteractions": [
-    "UniProt.ws",
     "biomaRt",
     "ensembldb",
     "GenomicFeatures",
@@ -3530,7 +3527,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "geneRxCluster": [],
   "geneXtendeR": [
     "rtracklayer"
   ],
@@ -3580,9 +3576,7 @@
     "flowWorkspace"
   ],
   "ggseqalign": [],
-  "ginmappeR": [
-    "UniProt.ws"
-  ],
+  "ginmappeR": [],
   "girafe": [
     "ShortRead"
   ],
@@ -3752,9 +3746,7 @@
   "imcRtools": [
     "scuttle"
   ],
-  "immunogenViewer": [
-    "UniProt.ws"
-  ],
+  "immunogenViewer": [],
   "intansv": [
     "ggbio",
     "biovizBase",
