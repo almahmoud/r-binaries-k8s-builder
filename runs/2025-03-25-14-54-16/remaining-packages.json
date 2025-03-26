@@ -4594,7 +4594,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "EMDomics": [],
   "ENmix": [
     "SummarizedExperiment",
     "geneplotter",
