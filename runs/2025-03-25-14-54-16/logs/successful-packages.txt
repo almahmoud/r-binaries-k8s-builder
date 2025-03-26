@@ -447,3 +447,17 @@ MetID
 eiR
 Biobase
 BiocWorkflowTools
+BayesKnockdown
+bioassayR
+convert
+copa
+hopach
+iBMQ
+iterativeBMA
+miRcomp
+multiscan
+multtest
+normalize450K
+OLIN
+RBM
+seqcombo
