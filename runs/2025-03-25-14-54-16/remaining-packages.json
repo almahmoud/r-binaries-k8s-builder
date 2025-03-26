@@ -1156,7 +1156,6 @@
   "MMDiff2": [
     "BSgenome"
   ],
-  "MODA": [],
   "MOSClip": [
     "graphite",
     "qpgraph",
@@ -3114,10 +3113,8 @@
     "biomaRt"
   ],
   "iSEEfier": [
-    "iSEEu",
-    "iSEEhex"
+    "iSEEu"
   ],
-  "iSEEhex": [],
   "iSEEhub": [
     "ExperimentHub",
     "AnnotationHub"
@@ -3129,9 +3126,7 @@
     "mia",
     "scater"
   ],
-  "iSEEu": [
-    "iSEEhex"
-  ],
+  "iSEEu": [],
   "icetea": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -3801,7 +3796,6 @@
   "ramwas": [
     "biomaRt"
   ],
-  "receptLoss": [],
   "recount": [
     "derfinder",
     "bumphunter",

@@ -1306,3 +1306,6 @@ ginmappeR
 immunogenViewer
 scGPS
 systemPipeTools
+iSEEhex
+MODA
+receptLoss
