@@ -1568,7 +1568,6 @@
     "MsExperiment"
   ],
   "MuData": [],
-  "MultiBaC": [],
   "MultiRNAflow": [],
   "MungeSumstats": [
     "BSgenome",
@@ -2858,7 +2857,6 @@
     "scran",
     "scuttle"
   ],
-  "cellity": [],
   "cfDNAPro": [
     "plyranges",
     "BSgenome",
@@ -3487,7 +3485,6 @@
     "GSVA",
     "annotate"
   ],
-  "esetVis": [],
   "extraChIPs": [
     "rtracklayer"
   ],
@@ -4718,7 +4715,6 @@
     "rtracklayer"
   ],
   "rqt": [],
-  "rrvgo": [],
   "rsbml": [],
   "rtracklayer": [],
   "sSNAPPY": [
