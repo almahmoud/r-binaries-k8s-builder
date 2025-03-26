@@ -425,3 +425,8 @@ seqTools
 tomoseqr
 wppi
 qckitfastq
+biodbChebi
+biodbHmdb
+biodbNcbi
+biodbNci
+biodbUniprot

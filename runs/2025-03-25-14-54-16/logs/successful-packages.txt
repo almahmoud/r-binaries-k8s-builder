@@ -260,3 +260,6 @@ SamSPECTRAL
 seqTools
 granulator
 Summix
+biodb
+brendaDb
+rpx

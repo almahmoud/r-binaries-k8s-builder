@@ -16532,22 +16532,11 @@
   "biocmake": [
     "dir.expiry"
   ],
-  "biodb": [],
-  "biodbChebi": [
-    "biodb"
-  ],
-  "biodbHmdb": [
-    "biodb"
-  ],
-  "biodbNcbi": [
-    "biodb"
-  ],
-  "biodbNci": [
-    "biodb"
-  ],
-  "biodbUniprot": [
-    "biodb"
-  ],
+  "biodbChebi": [],
+  "biodbHmdb": [],
+  "biodbNcbi": [],
+  "biodbNci": [],
+  "biodbUniprot": [],
   "biomaRt": [
     "AnnotationDbi",
     "BiocGenerics",
@@ -16862,7 +16851,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "brendaDb": [],
   "broadSeq": [
     "SummarizedExperiment",
     "BiocStyle",
@@ -26421,7 +26409,6 @@
   "phenomis": [
     "SummarizedExperiment",
     "Biobase",
-    "biodb",
     "biodbChebi",
     "limma",
     "MultiAssayExperiment",
@@ -28060,7 +28047,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "rpx": [],
   "rqt": [
     "SummarizedExperiment",
     "ropls",
