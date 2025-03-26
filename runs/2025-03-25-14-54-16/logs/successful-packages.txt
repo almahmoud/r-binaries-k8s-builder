@@ -1453,3 +1453,6 @@ coseq
 CTSV
 ViSEAGO
 TADCompare
+PLSDAbatch
+plyxp
+tidySummarizedExperiment

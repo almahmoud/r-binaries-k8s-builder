@@ -1057,7 +1057,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "PLSDAbatch": [],
   "POMA": [
     "sva",
     "genefilter"
@@ -2755,7 +2754,6 @@
     "plyranges"
   ],
   "plyranges": [],
-  "plyxp": [],
   "podkat": [],
   "pogos": [
     "ontoProc",
@@ -3182,9 +3180,7 @@
     "GenomicDataCommons"
   ],
   "tidyCoverage": [],
-  "tidySummarizedExperiment": [],
   "tidyomics": [
-    "tidySummarizedExperiment",
     "plyranges",
     "nullranges"
   ],
