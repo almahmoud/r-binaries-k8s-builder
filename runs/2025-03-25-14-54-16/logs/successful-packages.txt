@@ -1435,3 +1435,5 @@ seq2pathway
 celda
 ramwas
 transcriptogramer
+dominoSignal
+surfaltr

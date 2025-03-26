@@ -2083,7 +2083,6 @@
     "GenomicFeatures",
     "regioneR"
   ],
-  "dominoSignal": [],
   "doppelgangR": [
     "sva",
     "genefilter"
@@ -3166,7 +3165,6 @@
   "strandCheckR": [
     "GenomicFeatures"
   ],
-  "surfaltr": [],
   "sva": [
     "genefilter"
   ],
