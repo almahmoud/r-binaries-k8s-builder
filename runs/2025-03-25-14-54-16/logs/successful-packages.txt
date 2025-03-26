@@ -1359,3 +1359,4 @@ methylKit
 velociraptor
 bedbaser
 mist
+rifiComparative
