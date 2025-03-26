@@ -2098,12 +2098,10 @@
     "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
-    "alabaster.mae",
     "VariantAnnotation",
     "BSgenome",
     "GenomicFeatures"
   ],
-  "alabaster.mae": [],
   "alabaster.sce": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
@@ -2729,7 +2727,6 @@
     "GenomicFeatures",
     "annotate"
   ],
-  "diffcoexp": [],
   "dinoR": [],
   "distinct": [
     "scater"
