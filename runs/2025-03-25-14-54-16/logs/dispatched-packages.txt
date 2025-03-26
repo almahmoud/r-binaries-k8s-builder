@@ -1634,3 +1634,5 @@ regioneR
 spiky
 tRNAscanImport
 traseR
+methInheritSim
+methylInheritance

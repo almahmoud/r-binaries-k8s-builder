@@ -2254,7 +2254,6 @@
     "celda"
   ],
   "deconvR": [
-    "methylKit",
     "minfi",
     "bumphunter",
     "genefilter",
@@ -2764,9 +2763,7 @@
     "txdbmaker",
     "bsseq"
   ],
-  "methInheritSim": [
-    "methylKit"
-  ],
+  "methInheritSim": [],
   "methodical": [
     "AnnotationHub",
     "annotatr",
@@ -2791,10 +2788,7 @@
     "GenomicFeatures",
     "bumphunter"
   ],
-  "methylInheritance": [
-    "methylKit"
-  ],
-  "methylKit": [],
+  "methylInheritance": [],
   "methylPipe": [
     "Gviz",
     "biomaRt",
@@ -3636,7 +3630,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "velociraptor": [],
   "vidger": [],
   "visiumStitched": [
     "AnnotationHub",

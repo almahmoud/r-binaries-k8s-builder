@@ -1355,3 +1355,5 @@ epidecodeR
 metagene2
 rmspc
 splatter
+methylKit
+velociraptor
