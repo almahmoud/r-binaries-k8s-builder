@@ -1447,3 +1447,8 @@ MethTargetedNGS
 rifi
 EnrichedHeatmap
 scQTLtools
+betaHMM
+branchpointer
+coseq
+CTSV
+ViSEAGO

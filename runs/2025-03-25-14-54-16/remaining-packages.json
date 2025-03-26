@@ -246,7 +246,6 @@
   "CSSQ": [
     "GenomicFeatures"
   ],
-  "CTSV": [],
   "CTdata": [
     "ExperimentHub",
     "AnnotationHub"
@@ -1532,7 +1531,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "ViSEAGO": [],
   "Voyager": [
     "SpatialFeatureExperiment"
   ],
@@ -1669,7 +1667,6 @@
     "zinbwave",
     "genefilter"
   ],
-  "betaHMM": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -1733,7 +1730,6 @@
     "bsseq",
     "DSS"
   ],
-  "branchpointer": [],
   "broadSeq": [
     "genefilter"
   ],
@@ -1910,7 +1906,6 @@
     "GenomicFeatures"
   ],
   "corral": [],
-  "coseq": [],
   "cosmiq": [
     "xcms",
     "MSnbase"
