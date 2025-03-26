@@ -920,3 +920,4 @@ CellBench
 CHETAH
 CINdex
 EDIRquery
+HiCParser
