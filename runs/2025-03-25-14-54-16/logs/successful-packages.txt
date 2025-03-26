@@ -1369,3 +1369,4 @@ seqsetvis
 BioNAR
 geneXtendeR
 sevenC
+SingleCellSignalR

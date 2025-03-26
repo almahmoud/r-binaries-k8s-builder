@@ -1528,7 +1528,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "SingleCellSignalR": [],
   "SingleMoleculeFootprinting": [
     "plyranges",
     "QuasR",
@@ -3269,7 +3268,6 @@
     "GSVA",
     "ensembldb",
     "AUCell",
-    "SingleCellSignalR",
     "GSEABase",
     "GenomicFeatures"
   ],
