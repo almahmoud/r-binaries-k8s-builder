@@ -1218,3 +1218,7 @@ consICA
 SeqVarTools
 geneRxCluster
 UniProt.ws
+goTools
+reconsi
+sangerseqR
+smartid

@@ -3608,7 +3608,6 @@
     "clusterProfiler",
     "goProfiles"
   ],
-  "goTools": [],
   "goseq": [
     "rtracklayer",
     "GenomicFeatures",
@@ -4517,7 +4516,6 @@
     "biomaRt"
   ],
   "receptLoss": [],
-  "reconsi": [],
   "recount": [
     "derfinder",
     "rtracklayer",
@@ -4625,10 +4623,7 @@
     "annotate",
     "biomaRt"
   ],
-  "sangeranalyseR": [
-    "sangerseqR"
-  ],
-  "sangerseqR": [],
+  "sangeranalyseR": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -4758,9 +4753,7 @@
     "scuttle"
   ],
   "schex": [],
-  "scifer": [
-    "sangerseqR"
-  ],
+  "scifer": [],
   "scmeth": [
     "bsseq",
     "AnnotationHub",
@@ -4944,7 +4937,6 @@
     "annotate"
   ],
   "slingshot": [],
-  "smartid": [],
   "soGGi": [
     "rtracklayer",
     "chipseq",
