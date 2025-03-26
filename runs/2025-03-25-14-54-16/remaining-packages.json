@@ -1437,9 +1437,7 @@
     "rtracklayer"
   ],
   "MesKit": [],
-  "MetMashR": [
-    "struct"
-  ],
+  "MetMashR": [],
   "MetaPhOR": [
     "clusterProfiler"
   ],
@@ -3914,9 +3912,7 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "metabolomicsWorkbenchR": [
-    "struct"
-  ],
+  "metabolomicsWorkbenchR": [],
   "metagene2": [
     "rtracklayer"
   ],
@@ -5047,10 +5043,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "struct": [],
-  "structToolbox": [
-    "struct"
-  ],
+  "structToolbox": [],
   "surfaltr": [
     "biomaRt"
   ],

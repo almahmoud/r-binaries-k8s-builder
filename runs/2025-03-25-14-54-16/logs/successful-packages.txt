@@ -1212,3 +1212,4 @@ regsplice
 rfPred
 rScudo
 ssviz
+struct

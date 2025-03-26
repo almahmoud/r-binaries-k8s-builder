@@ -1448,3 +1448,6 @@ enrichViewNet
 tidySpatialExperiment
 GateFinder
 flowBin
+MetMashR
+metabolomicsWorkbenchR
+structToolbox
