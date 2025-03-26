@@ -1086,3 +1086,10 @@ GRmetrics
 Dune
 PCAtools
 scry
+alabaster.files
+GNET2
+HERON
+IFAA
+IMMAN
+IsoBayes
+SCArray

@@ -1006,7 +1006,6 @@
     "genefilter",
     "annotate"
   ],
-  "GNET2": [],
   "GNOSIS": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -1216,7 +1215,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HERON": [],
   "HTSFilter": [],
   "HarmonizR": [
     "sva",
@@ -1262,13 +1260,11 @@
   ],
   "HoloFoodR": [],
   "HybridExpress": [],
-  "IFAA": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS",
     "rtracklayer"
   ],
-  "IMMAN": [],
   "INSPEcT": [
     "GenomicFeatures",
     "rtracklayer"
@@ -1323,7 +1319,6 @@
   "InterCellar": [
     "biomaRt"
   ],
-  "IsoBayes": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
     "satuRn",
@@ -2229,10 +2224,7 @@
   "SCANVIS": [
     "rtracklayer"
   ],
-  "SCArray": [],
-  "SCArray.sat": [
-    "SCArray"
-  ],
+  "SCArray.sat": [],
   "SCOPE": [
     "BSgenome",
     "rtracklayer"
@@ -2698,7 +2690,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "alabaster.files": [],
   "alabaster.mae": [
     "alabaster.se",
     "alabaster.ranges"
