@@ -1080,3 +1080,4 @@ TEQC
 VariantExperiment
 GenomicAlignments
 QFeatures
+GEOquery

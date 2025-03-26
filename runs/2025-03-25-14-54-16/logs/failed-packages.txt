@@ -9,3 +9,4 @@ gpuMagic
 hypeR
 rsbml
 Harshlight
+cn.mops
