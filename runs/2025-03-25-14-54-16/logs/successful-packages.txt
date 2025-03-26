@@ -1144,3 +1144,6 @@ weitrix
 affylmGUI
 AnnotationForge
 monocle
+adSplit
+GOpro
+Rcpi

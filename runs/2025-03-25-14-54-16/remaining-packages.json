@@ -1001,7 +1001,6 @@
     "biomaRt"
   ],
   "GOfuncR": [],
-  "GOpro": [],
   "GOstats": [
     "Category",
     "annotate",
@@ -2033,7 +2032,6 @@
     "GSEABase",
     "annotate"
   ],
-  "Rcpi": [],
   "ReactomePA": [
     "DOSE",
     "enrichplot",
@@ -2587,7 +2585,6 @@
     "genefilter",
     "annotate"
   ],
-  "adSplit": [],
   "adductomicsR": [
     "ExperimentHub",
     "AnnotationHub"
