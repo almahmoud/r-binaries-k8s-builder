@@ -290,3 +290,5 @@ geva
 OSTA.data
 RNAdecay
 ROC
+DiffLogo
+miRBaseConverter

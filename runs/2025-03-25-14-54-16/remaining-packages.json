@@ -4245,7 +4245,6 @@
     "UCSC.utils",
     "pwalign"
   ],
-  "DiffLogo": [],
   "DifferentialRegulation": [
     "BANDITS",
     "SingleCellExperiment",
@@ -24073,7 +24072,6 @@
     "Biobase",
     "UCSC.utils"
   ],
-  "miRBaseConverter": [],
   "miRLAB": [
     "limma",
     "TCGAbiolinks",
