@@ -1049,7 +1049,6 @@
     "SummarizedExperiment",
     "BiocSingular",
     "scuttle",
-    "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
     "GenomicAlignments"
@@ -4051,7 +4050,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "ResidualMatrix": [],
   "RgnTX": [
     "GenomicFeatures",
     "regioneR",
@@ -5441,7 +5439,6 @@
     "SummarizedExperiment",
     "BiocSingular",
     "scuttle",
-    "ResidualMatrix",
     "ScaledMatrix",
     "beachmat"
   ],
@@ -5869,7 +5866,6 @@
     "beachmat",
     "BiocSingular",
     "rtracklayer",
-    "ResidualMatrix",
     "ScaledMatrix",
     "AnnotationFilter",
     "AnnotationDbi",
@@ -5887,7 +5883,6 @@
     "scuttle",
     "SummarizedExperiment",
     "BiocSingular",
-    "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
     "AnnotationFilter",
@@ -5911,7 +5906,6 @@
     "SummarizedExperiment",
     "rtracklayer",
     "BiocSingular",
-    "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
     "AnnotationFilter",
@@ -8601,8 +8595,7 @@
     "beachmat",
     "scuttle",
     "scran",
-    "batchelor",
-    "ResidualMatrix"
+    "batchelor"
   ],
   "muscat": [
     "DESeq2",
@@ -9331,7 +9324,6 @@
     "AnnotationDbi",
     "SummarizedExperiment"
   ],
-  "rebook": [],
   "receptLoss": [
     "SummarizedExperiment"
   ],
@@ -9710,7 +9702,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "scuttle",
-    "ResidualMatrix",
     "ScaledMatrix",
     "beachmat"
   ],
@@ -10136,7 +10127,6 @@
     "scuttle",
     "beachmat"
   ],
-  "simona": [],
   "simpleSeg": [
     "SummarizedExperiment",
     "cytomapper",
@@ -10145,7 +10135,6 @@
     "HDF5Array"
   ],
   "simplifyEnrichment": [
-    "simona",
     "AnnotationDbi"
   ],
   "singleCellTK": [
@@ -10175,7 +10164,6 @@
     "zellkonverter",
     "AnnotationDbi",
     "BiocSingular",
-    "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
     "alabaster.matrix",
@@ -10606,7 +10594,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "tidyFlowCore": [],
   "tidySingleCellExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment"

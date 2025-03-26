@@ -770,3 +770,7 @@ flowMeans
 Rarr
 DelayedDataFrame
 DelayedMatrixStats
+rebook
+ResidualMatrix
+simona
+tidyFlowCore
