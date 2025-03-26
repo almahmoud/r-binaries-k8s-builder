@@ -358,7 +358,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "AffyRNADegradation": [],
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
@@ -429,7 +428,6 @@
     "AnnotationFilter",
     "SparseArray"
   ],
-  "AlpsNMR": [],
   "Anaquin": [
     "DESeq2",
     "S4Vectors",
@@ -4043,7 +4041,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "ExiMiR": [],
   "ExperimentHub": [
     "AnnotationHub",
     "S4Vectors",
@@ -9156,7 +9153,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RGSEA": [],
   "RGraph2js": [],
   "RITAN": [
     "BgeeDB",
@@ -16528,7 +16524,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "epistasisGA": [],
   "epivizr": [
     "epivizrData",
     "GenomicRanges",

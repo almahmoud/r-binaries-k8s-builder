@@ -555,3 +555,8 @@ graph
 Maaslin2
 SNPRelate
 ASGSCA
+AffyRNADegradation
+AlpsNMR
+epistasisGA
+ExiMiR
+RGSEA
