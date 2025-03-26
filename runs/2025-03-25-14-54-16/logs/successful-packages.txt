@@ -1387,3 +1387,6 @@ CODEX
 ChIPanalyser
 GreyListChIP
 Spaniel
+ChIPComp
+MMDiff2
+pipeComp

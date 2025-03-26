@@ -310,7 +310,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ChIPComp": [],
   "ChIPQC": [
     "DiffBind",
     "chipseq",
@@ -954,7 +953,6 @@
   "MLInterfaces": [
     "genefilter"
   ],
-  "MMDiff2": [],
   "MOSClip": [
     "qpgraph",
     "GenomicFeatures"
@@ -3032,7 +3030,6 @@
     "GSEABase",
     "genefilter"
   ],
-  "pipeComp": [],
   "pipeFrame": [],
   "plotgardener": [
     "plyranges"
