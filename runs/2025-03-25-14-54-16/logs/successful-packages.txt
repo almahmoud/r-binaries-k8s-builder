@@ -1336,3 +1336,5 @@ openPrimeR
 HoloFoodR
 SplineDV
 pqsfinder
+DMCHMM
+ExCluster

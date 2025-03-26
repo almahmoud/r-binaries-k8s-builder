@@ -501,7 +501,6 @@
     "genefilter"
   ],
   "DMCFB": [],
-  "DMCHMM": [],
   "DMRcate": [
     "AnnotationHub",
     "ExperimentHub",
@@ -669,7 +668,6 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "ExCluster": [],
   "ExperimentHub": [
     "AnnotationHub"
   ],
