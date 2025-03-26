@@ -348,3 +348,5 @@ epivizrServer
 RCX
 BiocNeighbors
 ndexr
+gpls
+maftools

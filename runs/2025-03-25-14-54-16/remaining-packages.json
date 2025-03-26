@@ -1910,9 +1910,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "CIMICE": [
-    "maftools"
-  ],
+  "CIMICE": [],
   "CINdex": [
     "GenomicRanges",
     "S4Vectors",
@@ -2381,7 +2379,6 @@
   "CaMutQC": [
     "clusterProfiler",
     "MesKit",
-    "maftools",
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
@@ -5380,7 +5377,6 @@
     "XVector"
   ],
   "GNOSIS": [
-    "maftools",
     "cBioPortalData",
     "MultiAssayExperiment",
     "GenomeInfoDb",
@@ -21434,7 +21430,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "gpls": [],
   "gpuMagic": [
     "BiocGenerics"
   ],
@@ -22483,7 +22478,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "IRanges",
-    "maftools",
     "plyranges",
     "S4Vectors",
     "VariantAnnotation",
@@ -22949,7 +22943,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "maftools": [],
   "magpie": [
     "rtracklayer",
     "S4Vectors",
@@ -24817,7 +24810,6 @@
     "S4Vectors",
     "decompTumor2Sig",
     "ComplexHeatmap",
-    "maftools",
     "BiocGenerics",
     "XVector",
     "BiocIO",
