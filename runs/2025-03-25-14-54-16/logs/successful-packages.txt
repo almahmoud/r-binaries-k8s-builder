@@ -1300,3 +1300,5 @@ SCArray.sat
 barcodetrackR
 Glimma
 loci2path
+scuttle
+structToolbox

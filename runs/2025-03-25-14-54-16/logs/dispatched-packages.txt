@@ -1530,3 +1530,13 @@ RTNsurvival
 gDRstyle
 memes
 motifTestR
+DropletUtils
+SplineDV
+batchelor
+imcRtools
+scater
+scran
+simPIC
+splatter
+spoon
+velociraptor
