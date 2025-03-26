@@ -14816,7 +14816,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "XINA": [],
   "XNAString": [
     "Biostrings",
     "pwalign",

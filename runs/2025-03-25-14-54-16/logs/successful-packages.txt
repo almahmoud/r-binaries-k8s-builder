@@ -352,3 +352,4 @@ gpls
 maftools
 BeadDataPackR
 CIMICE
+XINA
