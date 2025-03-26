@@ -2259,7 +2259,6 @@
     "GenomicRanges",
     "tRNAdbImport",
     "rtracklayer",
-    "Structstrings",
     "tRNA",
     "biomaRt",
     "Rsamtools",
@@ -2768,7 +2767,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "GeneNetworkBuilder": [],
   "GeneRegionScan": [],
   "GeneStructureTools": [
     "GenomicRanges",
@@ -6235,7 +6233,6 @@
   "Streamer": [
     "RBGL"
   ],
-  "Structstrings": [],
   "StructuralVariantAnnotation": [
     "GenomicRanges",
     "rtracklayer",
@@ -6489,7 +6486,6 @@
     "GenomicRanges",
     "SparseArray"
   ],
-  "TPP": [],
   "TREG": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -14189,19 +14185,16 @@
   ],
   "tRNA": [
     "GenomicRanges",
-    "Structstrings",
     "Modstrings"
   ],
   "tRNAdbImport": [
     "GenomicRanges",
     "Modstrings",
-    "Structstrings",
     "tRNA"
   ],
   "tRNAscanImport": [
     "GenomicRanges",
     "tRNA",
-    "Structstrings",
     "rtracklayer",
     "BSgenome",
     "Rsamtools",

@@ -1,5 +1,0 @@
-AnnotationDbi
-FELLA
-ROntoTools
-SynExtend
-transomics2cytoscape

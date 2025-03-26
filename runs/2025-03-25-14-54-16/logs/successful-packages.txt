@@ -726,3 +726,6 @@ DECIPHER
 KEGGREST
 PWMEnrich
 rexposome
+GeneNetworkBuilder
+Structstrings
+TPP
