@@ -1,7 +1,3 @@
-HoloFoodR
-PLSDAbatch
-TSCAN
-maaslin3
-miaSim
-microSTASIS
-slingshot
+censcyt
+treeclimbR
+treekoR

@@ -940,3 +940,8 @@ RCSL
 SC3
 TrajectoryUtils
 TreeSummarizedExperiment
+CellTrails
+ClusterFoldSimilarity
+diffcyt
+gDRcore
+SPsimSeq

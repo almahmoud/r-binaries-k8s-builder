@@ -587,7 +587,6 @@
     "BiocSingular"
   ],
   "CellScore": [],
-  "CellTrails": [],
   "CelliD": [
     "scater",
     "scuttle",
@@ -767,7 +766,6 @@
     "QFeatures",
     "AnnotationFilter"
   ],
-  "ClusterFoldSimilarity": [],
   "CoCiteStats": [],
   "CoSIA": [
     "ExperimentHub",
@@ -3052,7 +3050,6 @@
     "biomaRt"
   ],
   "SPOTlight": [],
-  "SPsimSeq": [],
   "SVMDO": [
     "DOSE",
     "GOSemSim"
@@ -3195,8 +3192,7 @@
   ],
   "Statial": [
     "SpatialExperiment",
-    "treekoR",
-    "diffcyt"
+    "treekoR"
   ],
   "StructuralVariantAnnotation": [
     "rtracklayer",
@@ -3208,7 +3204,6 @@
   ],
   "SubCellBarCode": [],
   "SurfR": [
-    "SPsimSeq",
     "DESeq2",
     "TCGAbiolinks",
     "biomaRt"
@@ -4043,9 +4038,7 @@
   "cellity": [
     "topGO"
   ],
-  "censcyt": [
-    "diffcyt"
-  ],
+  "censcyt": [],
   "cfDNAPro": [
     "GenomicAlignments",
     "plyranges",
@@ -4651,7 +4644,6 @@
     "annotate"
   ],
   "diffcoexp": [],
-  "diffcyt": [],
   "dinoR": [],
   "distinct": [
     "scater",
@@ -5034,11 +5026,9 @@
     "BSgenome"
   ],
   "gDR": [
-    "gDRcore",
     "gDRimport",
     "PharmacoGx"
   ],
-  "gDRcore": [],
   "gDRimport": [
     "PharmacoGx"
   ],
@@ -7447,12 +7437,8 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "treeclimbR": [
-    "diffcyt"
-  ],
-  "treekoR": [
-    "diffcyt"
-  ],
+  "treeclimbR": [],
+  "treekoR": [],
   "tricycle": [
     "scater",
     "scuttle",
