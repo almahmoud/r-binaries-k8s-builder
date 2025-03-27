@@ -2005,3 +2005,17 @@ vulcan
 attract
 GmicR
 SGCP
+BBCAnalyzer
+bumphunter
+cBioPortalData
+CleanUpRNAseq
+CNVrd2
+fCCAC
+IPO
+miRLAB
+rCGH
+SigsPack
+svaRetro
+transcriptR
+VCFArray
+visiumStitched

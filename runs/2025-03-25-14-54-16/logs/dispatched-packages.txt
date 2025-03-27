@@ -2129,3 +2129,14 @@ octad
 ribosomeProfilingQC
 scone
 standR
+DAMEfinder
+GNOSIS
+bioCancer
+canceR
+cbaf
+coMethDMR
+derfinder
+dmrseq
+minfi
+preciseTAD
+rnaEditr
