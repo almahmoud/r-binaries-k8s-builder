@@ -237,9 +237,7 @@
     "MIRA",
     "bsseq"
   ],
-  "CONFESS": [
-    "flowMerge"
-  ],
+  "CONFESS": [],
   "CRISPRseek": [
     "GenomicFeatures"
   ],
@@ -744,7 +742,6 @@
   "HiLDA": [
     "GenomicFeatures"
   ],
-  "HiTC": [],
   "HicAggR": [],
   "HilbertCurve": [],
   "HilbertVis": [],
@@ -2192,7 +2189,6 @@
   "flowGate": [
     "ggcyto"
   ],
-  "flowMerge": [],
   "flowStats": [],
   "flowVS": [
     "flowStats"
@@ -2386,7 +2382,6 @@
   "lefser": [
     "mia"
   ],
-  "lemur": [],
   "limpca": [],
   "lineagespot": [
     "VariantAnnotation",

@@ -1467,3 +1467,6 @@ TDbasedUFEadv
 TnT
 CoverageView
 XeniumIO
+flowMerge
+HiTC
+lemur

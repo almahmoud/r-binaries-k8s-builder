@@ -1687,3 +1687,4 @@ clusterSeq
 riboSeqR
 segmentSeq
 FEAST
+CONFESS
