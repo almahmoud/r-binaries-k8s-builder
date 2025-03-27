@@ -13,3 +13,4 @@ cn.mops
 PICS
 AneuFinder
 rGADEM
+CellBarcode

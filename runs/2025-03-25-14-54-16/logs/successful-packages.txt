@@ -1618,3 +1618,5 @@ Voyager
 alabaster.sfe
 famat
 microbiomeExplorer
+ProteoMM
+Qtlizer

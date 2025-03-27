@@ -854,7 +854,6 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "ProteoMM": [],
   "PureCN": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -866,7 +865,6 @@
     "VariantAnnotation",
     "ensembldb"
   ],
-  "Qtlizer": [],
   "QuasR": [
     "GenomicFeatures",
     "txdbmaker",
