@@ -61,14 +61,12 @@
     "txdbmaker"
   ],
   "CAGEfightR": [
-    "GenomicFiles",
     "Gviz",
     "GenomicInteractions",
     "biovizBase"
   ],
   "CAGEr": [
     "CAGEfightR",
-    "GenomicFiles",
     "Gviz",
     "GenomicInteractions",
     "biovizBase"
@@ -229,7 +227,6 @@
     "goseq",
     "txdbmaker"
   ],
-  "GenomicFiles": [],
   "GenomicInteractions": [
     "Gviz",
     "biovizBase"
@@ -262,7 +259,6 @@
   "IMAS": [],
   "IPO": [],
   "IntEREst": [
-    "GenomicFiles",
     "txdbmaker"
   ],
   "IsoformSwitchAnalyzeR": [
@@ -362,8 +358,7 @@
     "biovizBase"
   ],
   "QuasR": [
-    "txdbmaker",
-    "GenomicFiles"
+    "txdbmaker"
   ],
   "R3CPET": [
     "ggbio",
@@ -391,8 +386,7 @@
   "RNAAgeCalc": [
     "recount",
     "derfinder",
-    "bumphunter",
-    "GenomicFiles"
+    "bumphunter"
   ],
   "RNAmodR": [
     "txdbmaker",
@@ -452,12 +446,10 @@
   "RnaSeqSampleSize": [
     "recount",
     "derfinder",
-    "bumphunter",
-    "GenomicFiles"
+    "bumphunter"
   ],
   "Rqc": [
-    "biovizBase",
-    "GenomicFiles"
+    "biovizBase"
   ],
   "SGCP": [],
   "SMITE": [
@@ -475,8 +467,7 @@
   "SigsPack": [],
   "SingleMoleculeFootprinting": [
     "QuasR",
-    "txdbmaker",
-    "GenomicFiles"
+    "txdbmaker"
   ],
   "SomaticSignatures": [
     "ggbio",
@@ -497,9 +488,7 @@
     "ORFik",
     "txdbmaker"
   ],
-  "TFutils": [
-    "GenomicFiles"
-  ],
+  "TFutils": [],
   "TVTB": [
     "Gviz",
     "biovizBase"
@@ -508,9 +497,7 @@
   "UPDhmm": [],
   "Ularcirc": [],
   "Uniquorn": [],
-  "VCFArray": [
-    "GenomicFiles"
-  ],
+  "VCFArray": [],
   "VaSP": [],
   "VariantFiltering": [
     "Gviz",
@@ -692,14 +679,12 @@
   "deepSNV": [],
   "demuxSNP": [],
   "derfinder": [
-    "bumphunter",
-    "GenomicFiles"
+    "bumphunter"
   ],
   "derfinderPlot": [
     "derfinder",
     "ggbio",
     "bumphunter",
-    "GenomicFiles",
     "biovizBase",
     "OrganismDbi",
     "txdbmaker"
@@ -747,7 +732,6 @@
     "txdbmaker"
   ],
   "erma": [
-    "GenomicFiles",
     "OrganismDbi",
     "txdbmaker"
   ],
@@ -767,9 +751,7 @@
     "minfi",
     "bumphunter"
   ],
-  "gDNAx": [
-    "GenomicFiles"
-  ],
+  "gDNAx": [],
   "geneAttribution": [],
   "genoCN": [],
   "geomeTriD": [
@@ -952,8 +934,7 @@
   "psichomics": [
     "recount",
     "derfinder",
-    "bumphunter",
-    "GenomicFiles"
+    "bumphunter"
   ],
   "qpgraph": [],
   "quantro": [
@@ -965,8 +946,7 @@
   "raer": [],
   "recount": [
     "derfinder",
-    "bumphunter",
-    "GenomicFiles"
+    "bumphunter"
   ],
   "recountmethylation": [
     "minfi",
@@ -977,8 +957,7 @@
   ],
   "regionReport": [
     "derfinder",
-    "bumphunter",
-    "GenomicFiles"
+    "bumphunter"
   ],
   "regutools": [
     "Gviz",
