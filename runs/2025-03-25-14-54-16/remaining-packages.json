@@ -633,7 +633,6 @@
   ],
   "esATAC": [],
   "fCCAC": [],
-  "factR": [],
   "ffpe": [
     "lumi",
     "methylumi",
@@ -691,7 +690,6 @@
   ],
   "interactiveDisplay": [],
   "karyoploteR": [],
-  "katdetectr": [],
   "knowYourCG": [],
   "lisaClust": [
     "spicyR"

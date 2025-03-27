@@ -1938,3 +1938,5 @@ BUSpaRse
 scmeth
 SigCheck
 signeR
+factR
+katdetectr
