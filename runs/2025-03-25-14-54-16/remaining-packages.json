@@ -730,7 +730,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "TRESS": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -1231,9 +1230,7 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "magpie": [
-    "TRESS"
-  ],
+  "magpie": [],
   "mariner": [],
   "maser": [
     "Gviz",
