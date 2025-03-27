@@ -2098,3 +2098,5 @@ rgsepd
 ribosomeProfilingQC
 SpliceWiz
 TBSignatureProfiler
+enhancerHomologSearch
+raer
