@@ -628,7 +628,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "RgnTX": [],
   "Rhisat2": [
     "txdbmaker",
     "SGSeq"
