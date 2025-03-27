@@ -2151,3 +2151,6 @@ methylumi
 recountmethylation
 saseR
 shinyMethyl
+biomvRCNS
+conumee
+funtooNorm
