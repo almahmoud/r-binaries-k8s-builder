@@ -23,7 +23,6 @@
   "BiGGR": [
     "rsbml"
   ],
-  "BindingSiteFinder": [],
   "CAFE": [
     "ggbio",
     "OrganismDbi"
@@ -476,7 +475,6 @@
   "shinyepico": [
     "minfi"
   ],
-  "singleCellTK": [],
   "sitadela": [],
   "skewr": [
     "methylumi",
