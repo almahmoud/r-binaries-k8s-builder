@@ -150,7 +150,6 @@
   "CAMERA": [
     "xcms"
   ],
-  "CARDspa": [],
   "CBNplot": [
     "ExperimentHub"
   ],
@@ -2010,7 +2009,6 @@
     "zinbwave"
   ],
   "npGSEA": [],
-  "nullranges": [],
   "octad": [
     "RUVSeq",
     "ExperimentHub",
@@ -2385,9 +2383,7 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "tidyomics": [
-    "nullranges"
-  ],
+  "tidyomics": [],
   "tilingArray": [],
   "topdownr": [],
   "trackViewer": [
