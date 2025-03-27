@@ -58,10 +58,8 @@
     "ggbio"
   ],
   "EGSEA": [],
-  "ELMER": [],
   "ENmix": [],
   "EpiCompare": [],
-  "EpiTxDb": [],
   "ExperimentHubData": [
     "AnnotationHubData"
   ],
@@ -86,9 +84,7 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "IsoformSwitchAnalyzeR": [
-    "tximeta"
-  ],
+  "IsoformSwitchAnalyzeR": [],
   "MAGAR": [
     "RnBeads",
     "methylumi"
@@ -102,7 +98,6 @@
     "methylumi",
     "lumi"
   ],
-  "MetaboSignal": [],
   "MethReg": [],
   "MethylAid": [],
   "MineICA": [
@@ -190,17 +185,12 @@
   "cageminer": [
     "ggbio"
   ],
-  "cbaf": [],
   "chimeraviz": [],
   "chopsticks": [],
-  "cicero": [],
   "cisPath": [],
   "cn.farms": [],
   "cn.mops": [],
-  "comapr": [],
-  "compEpiTools": [
-    "methylPipe"
-  ],
+  "compEpiTools": [],
   "conumee": [],
   "crisprShiny": [
     "crisprViz"
@@ -260,7 +250,6 @@
     "missMethyl",
     "methylumi"
   ],
-  "methylPipe": [],
   "methylclock": [
     "ExperimentHubData",
     "AnnotationHubData"
@@ -273,7 +262,6 @@
   "msgbsR": [
     "ggbio"
   ],
-  "multicrispr": [],
   "panelcn.mops": [
     "cn.mops"
   ],
@@ -286,7 +274,6 @@
   "recount": [],
   "recountmethylation": [],
   "regionReport": [],
-  "regutools": [],
   "rsbml": [],
   "saseR": [],
   "scTreeViz": [
@@ -306,11 +293,8 @@
   "spatzie": [
     "GenomicInteractions"
   ],
-  "srnadiff": [],
-  "tadar": [],
   "trackViewer": [],
   "trigger": [],
-  "tximeta": [],
   "uncoverappLib": [],
   "wateRmelon": [
     "methylumi",

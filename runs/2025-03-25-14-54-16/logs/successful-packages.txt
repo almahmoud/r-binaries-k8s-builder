@@ -2126,3 +2126,15 @@ minfi
 OGRE
 Pviz
 TVTB
+cbaf
+cicero
+comapr
+ELMER
+EpiTxDb
+MetaboSignal
+methylPipe
+multicrispr
+regutools
+srnadiff
+tadar
+tximeta
