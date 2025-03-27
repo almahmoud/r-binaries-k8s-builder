@@ -418,7 +418,6 @@
   "INSPEcT": [],
   "IPO": [],
   "IVAS": [],
-  "IdeoViz": [],
   "IgGeneUsage": [],
   "InPAS": [],
   "IntEREst": [
@@ -1430,7 +1429,6 @@
     "clusterExperiment",
     "zinbwave"
   ],
-  "npGSEA": [],
   "octad": [
     "RUVSeq",
     "ExperimentHub",

@@ -1776,3 +1776,5 @@ scTGIF
 TissueEnrich
 muscat
 tilingArray
+IdeoViz
+npGSEA
