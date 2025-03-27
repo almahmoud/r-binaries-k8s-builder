@@ -1516,3 +1516,8 @@ riboSeqR
 systemPipeR
 EasyCellType
 made4
+BulkSignalR
+GOTHiC
+segmentSeq
+SpatialExperimentIO
+wiggleplotr
