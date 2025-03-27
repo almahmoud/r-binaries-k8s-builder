@@ -2058,3 +2058,9 @@ singleCellTK
 spatialFDA
 visiumStitched
 vissE
+GmicR
+SGCP
+attract
+categoryCompare
+miRLAB
+scTensor

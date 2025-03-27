@@ -1875,3 +1875,6 @@ MICSQTL
 multiGSEA
 rGREAT
 mariner
+doubletrouble
+GOstats
+pageRank
