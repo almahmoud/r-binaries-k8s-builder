@@ -1757,3 +1757,4 @@ microSTASIS
 partCNV
 kissDE
 sampleClassifier
+scDotPlot
