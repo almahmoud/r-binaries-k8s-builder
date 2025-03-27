@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2249 packages built successfully
+- 2250 packages built successfully
 - 23 packages failed to build
-- 9 packages not yet processed
+- 8 packages not yet processed
 
 ## Failed Builds (23)
 | Package                                                                          | Status   | Log                                    | BBS Status                                                                 | Failure Reasons                   |
@@ -35,7 +35,7 @@
 | [rsbml](https://bioconductor.org/packages/3.21/bioc/html/rsbml.html)             | Failed   | [Log](logs/rsbml/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/rsbml)         | Build failed with unknown error   |
 | [trigger](https://bioconductor.org/packages/3.21/bioc/html/trigger.html)         | Failed   | [Log](logs/trigger/build-fail.log)     | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/trigger)    | Build failed with unknown error   |
 
-## Successfully Built (2249)
+## Successfully Built (2250)
 | Package                                                                                                          | Status   | Log                                                       | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.21/bioc/html/ABSSeq.html)                                           | Built    | [Log](logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ABSSeq)                      |
@@ -237,6 +237,7 @@
 | [CelliD](https://bioconductor.org/packages/3.21/bioc/html/CelliD.html)                                           | Built    | [Log](logs/CelliD/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/CelliD)                      |
 | [Cepo](https://bioconductor.org/packages/3.21/bioc/html/Cepo.html)                                               | Built    | [Log](logs/Cepo/build-success.log)                        | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/Cepo)                        |
 | [CexoR](https://bioconductor.org/packages/3.21/bioc/html/CexoR.html)                                             | Built    | [Log](logs/CexoR/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/CexoR)                       |
+| [ChAMP](https://bioconductor.org/packages/3.21/bioc/html/ChAMP.html)                                             | Built    | [Log](logs/ChAMP/build-success.log)                       | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ChAMP)                       |
 | [ChIPComp](https://bioconductor.org/packages/3.21/bioc/html/ChIPComp.html)                                       | Built    | [Log](logs/ChIPComp/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ChIPComp)                    |
 | [ChIPQC](https://bioconductor.org/packages/3.21/bioc/html/ChIPQC.html)                                           | Built    | [Log](logs/ChIPQC/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ChIPQC)                      |
 | [ChIPXpress](https://bioconductor.org/packages/3.21/bioc/html/ChIPXpress.html)                                   | Built    | [Log](logs/ChIPXpress/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ChIPXpress)                  |
@@ -2288,13 +2289,12 @@
 | [zitools](https://bioconductor.org/packages/3.21/bioc/html/zitools.html)                                         | Built    | [Log](logs/zitools/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/zitools)                     |
 | [zlibbioc](https://bioconductor.org/packages/3.21/bioc/html/zlibbioc.html)                                       | Built    | [Log](logs/zlibbioc/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/zlibbioc)                    |
 
-## Not Yet Processed (9)
+## Not Yet Processed (8)
 | Package                                                                                  | Status      |
 |------------------------------------------------------------------------------------------|-------------|
 | [BiGGR](https://bioconductor.org/packages/3.21/bioc/html/BiGGR.html)                     | Unprocessed |
 | [CNVfilteR](https://bioconductor.org/packages/3.21/bioc/html/CNVfilteR.html)             | Unprocessed |
 | [CNViz](https://bioconductor.org/packages/3.21/bioc/html/CNViz.html)                     | Unprocessed |
-| [ChAMP](https://bioconductor.org/packages/3.21/bioc/html/ChAMP.html)                     | Unprocessed |
 | [ChIPseqR](https://bioconductor.org/packages/3.21/bioc/html/ChIPseqR.html)               | Unprocessed |
 | [CopyNumberPlots](https://bioconductor.org/packages/3.21/bioc/html/CopyNumberPlots.html) | Unprocessed |
 | [HilbertVisGUI](https://bioconductor.org/packages/3.21/bioc/html/HilbertVisGUI.html)     | Unprocessed |
