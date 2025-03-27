@@ -66,7 +66,6 @@
     "cn.mops"
   ],
   "CytoGLMM": [],
-  "CytoML": [],
   "DAMEfinder": [],
   "DMRcate": [
     "minfi",
@@ -87,7 +86,6 @@
   "EpiCompare": [],
   "EpiMix": [],
   "EpiTxDb": [],
-  "EpipwR": [],
   "ExperimentHubData": [
     "AnnotationHubData",
     "OrganismDbi"
@@ -154,7 +152,6 @@
   ],
   "MOSClip": [],
   "MetaboSignal": [
-    "hpar",
     "mygene"
   ],
   "MethReg": [],
@@ -218,7 +215,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "Rmmquant": [],
   "RnBeads": [
     "methylumi",
     "minfi"
@@ -378,7 +374,6 @@
   "goseq": [],
   "gpuMagic": [],
   "graper": [],
-  "hpar": [],
   "hypeR": [],
   "iCheck": [
     "lumi",
@@ -431,7 +426,6 @@
     "methylumi",
     "minfi"
   ],
-  "mitoClone2": [],
   "mosdef": [
     "goseq"
   ],
@@ -496,7 +490,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "seqArchRplus": [],
   "shinyMethyl": [
     "minfi"
   ],

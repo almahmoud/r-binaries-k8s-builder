@@ -2047,3 +2047,9 @@ RESOLVE
 spicyR
 TitanCNA
 DegNorm
+CytoML
+EpipwR
+hpar
+mitoClone2
+Rmmquant
+seqArchRplus
