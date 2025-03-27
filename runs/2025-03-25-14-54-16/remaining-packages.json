@@ -2195,7 +2195,6 @@
     "GenomicFeatures",
     "bumphunter"
   ],
-  "methylInheritance": [],
   "methylPipe": [
     "Gviz",
     "GenomicFeatures",

@@ -1538,3 +1538,4 @@ miRNAmeConverter
 alabaster.spatial
 iCNV
 tomoda
+methylInheritance
