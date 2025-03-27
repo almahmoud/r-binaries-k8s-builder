@@ -220,7 +220,6 @@
     "goseq",
     "txdbmaker"
   ],
-  "GenVisR": [],
   "GeneStructureTools": [
     "Gviz",
     "biovizBase"
@@ -272,7 +271,6 @@
   ],
   "LRcell": [],
   "MACSr": [],
-  "MADSEQ": [],
   "MAGAR": [
     "RnBeads",
     "methylumi",

@@ -1891,3 +1891,5 @@ RcisTarget
 SARC
 segmenter
 HelloRanges
+GenVisR
+MADSEQ
