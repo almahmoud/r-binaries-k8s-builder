@@ -673,7 +673,6 @@
   "gpuMagic": [],
   "graper": [],
   "gwascat": [],
-  "gwasurvivr": [],
   "hpar": [],
   "hypeR": [],
   "iCheck": [
@@ -926,7 +925,6 @@
   "tadar": [
     "Gviz"
   ],
-  "terraTCGAdata": [],
   "tidyomics": [],
   "trackViewer": [
     "Gviz",

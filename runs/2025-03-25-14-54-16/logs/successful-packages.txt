@@ -1926,3 +1926,5 @@ myvariant
 seqCAT
 chevreulProcess
 icetea
+gwasurvivr
+terraTCGAdata
