@@ -1530,7 +1530,6 @@
     "GeneMeta"
   ],
   "XNAString": [],
-  "XeniumIO": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
