@@ -19,8 +19,7 @@
   ],
   "CellBarcode": [],
   "ChAMP": [
-    "DMRcate",
-    "wateRmelon"
+    "DMRcate"
   ],
   "ChIPseqR": [
     "HilbertVis"
@@ -39,9 +38,7 @@
   ],
   "MAGAR": [],
   "MEAL": [],
-  "MEAT": [
-    "wateRmelon"
-  ],
+  "MEAT": [],
   "PICS": [],
   "PING": [
     "PICS"
@@ -49,7 +46,6 @@
   "R3CPET": [],
   "REBET": [],
   "ReportingTools": [],
-  "RiboProfiling": [],
   "RnaSeqSampleSize": [],
   "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [],
@@ -61,9 +57,7 @@
     "ReportingTools"
   ],
   "bandle": [],
-  "bigmelon": [
-    "wateRmelon"
-  ],
+  "bigmelon": [],
   "cageminer": [],
   "chopsticks": [],
   "cisPath": [],
@@ -90,9 +84,6 @@
   "rsbml": [],
   "scTreeViz": [],
   "scruff": [],
-  "skewr": [
-    "wateRmelon"
-  ],
-  "trigger": [],
-  "wateRmelon": []
+  "skewr": [],
+  "trigger": []
 }

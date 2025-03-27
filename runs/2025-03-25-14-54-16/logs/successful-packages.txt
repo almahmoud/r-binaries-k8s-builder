@@ -2217,3 +2217,5 @@ epivizrChart
 Damsel
 GenomicOZone
 RNAAgeCalc
+RiboProfiling
+wateRmelon
