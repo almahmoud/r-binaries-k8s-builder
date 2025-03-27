@@ -1815,3 +1815,4 @@ safe
 webbioc
 meshr
 qsvaR
+BatchQC
