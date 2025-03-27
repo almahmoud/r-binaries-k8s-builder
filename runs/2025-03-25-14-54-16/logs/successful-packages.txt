@@ -2070,3 +2070,4 @@ scanMiRApp
 standR
 vissE
 zenith
+MOSClip
