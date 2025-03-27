@@ -560,7 +560,6 @@
   "PhyloProfile": [
     "ExperimentHub"
   ],
-  "Pigengene": [],
   "ProteoDisco": [
     "VariantAnnotation"
   ],
@@ -760,7 +759,6 @@
   "StructuralVariantAnnotation": [
     "VariantAnnotation"
   ],
-  "SurfR": [],
   "TAPseq": [],
   "TBSignatureProfiler": [
     "ASSIGN"
@@ -1237,7 +1235,6 @@
     "bumphunter"
   ],
   "iNETgrate": [
-    "Pigengene",
     "minfi",
     "OrganismDbi",
     "bumphunter",
@@ -1624,7 +1621,6 @@
     "VariantAnnotation"
   ],
   "spicyR": [],
-  "splineTimeR": [],
   "srnadiff": [
     "Gviz",
     "ensembldb",
