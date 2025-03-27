@@ -271,7 +271,6 @@
   "CytoML": [
     "openCyto"
   ],
-  "CytoPipelineGUI": [],
   "DAMEfinder": [
     "VariantAnnotation",
     "bumphunter",
@@ -1463,7 +1462,6 @@
   "cosmiq": [
     "xcms"
   ],
-  "cosmosR": [],
   "countsimQC": [],
   "covRNA": [],
   "cpvSNP": [

@@ -1645,3 +1645,5 @@ MethylSeekR
 scviR
 biocGraph
 MSnbase
+cosmosR
+CytoPipelineGUI
