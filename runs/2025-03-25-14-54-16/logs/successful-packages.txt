@@ -2035,3 +2035,14 @@ scTensor
 sesame
 vtpnet
 tidyomics
+AMARETTO
+bambu
+circRNAprofiler
+ELViS
+esATAC
+interactiveDisplay
+musicatk
+OutSplice
+RESOLVE
+spicyR
+TitanCNA
