@@ -1056,7 +1056,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "customCMPdb": [],
   "customProDB": [
     "VariantAnnotation",
     "txdbmaker"
@@ -1187,7 +1186,6 @@
     "VariantAnnotation"
   ],
   "gINTomics": [],
-  "gatom": [],
   "geneAttribution": [],
   "genoCN": [],
   "geomeTriD": [
@@ -1429,7 +1427,6 @@
   "panelcn.mops": [
     "cn.mops"
   ],
-  "pathRender": [],
   "pcaExplorer": [
     "mosdef",
     "GOstats",
