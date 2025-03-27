@@ -1643,3 +1643,5 @@ SIM
 ddPCRclust
 MethylSeekR
 scviR
+biocGraph
+MSnbase

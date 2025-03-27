@@ -149,8 +149,7 @@
     "biovizBase"
   ],
   "CAMERA": [
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "CARDspa": [],
   "CBNplot": [
@@ -252,9 +251,7 @@
     "GenomicFeatures",
     "sva"
   ],
-  "CluMSID": [
-    "MSnbase"
-  ],
+  "CluMSID": [],
   "CoSIA": [
     "ExperimentHub"
   ],
@@ -280,12 +277,8 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "DAPAR": [
-    "MSnbase"
-  ],
-  "DEP": [
-    "MSnbase"
-  ],
+  "DAPAR": [],
+  "DEP": [],
   "DEScan2": [
     "ChIPpeakAnno",
     "GenomicFeatures",
@@ -584,8 +577,7 @@
   ],
   "IPO": [
     "xcms",
-    "CAMERA",
-    "MSnbase"
+    "CAMERA"
   ],
   "IVAS": [
     "GenomicFeatures"
@@ -617,8 +609,7 @@
   "LACE": [],
   "LOBSTAHS": [
     "xcms",
-    "CAMERA",
-    "MSnbase"
+    "CAMERA"
   ],
   "LRcell": [
     "ExperimentHub"
@@ -640,8 +631,7 @@
   ],
   "MAIT": [
     "CAMERA",
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "MBECS": [
     "sva"
@@ -678,17 +668,12 @@
     "sva"
   ],
   "MSnID": [
-    "MSnbase",
     "msmsTests",
     "msmsEDA"
   ],
-  "MSnbase": [],
-  "MSstatsQC": [
-    "MSnbase"
-  ],
+  "MSstatsQC": [],
   "MSstatsQCgui": [
-    "MSstatsQC",
-    "MSnbase"
+    "MSstatsQC"
   ],
   "MatrixQCvis": [
     "ExperimentHub",
@@ -816,7 +801,6 @@
     "sva"
   ],
   "PRONE": [
-    "MSnbase",
     "POMA",
     "sva"
   ],
@@ -830,12 +814,9 @@
   "Pigengene": [
     "ReactomePA"
   ],
-  "PrInCE": [
-    "MSnbase"
-  ],
+  "PrInCE": [],
   "Prostar": [
-    "DAPAR",
-    "MSnbase"
+    "DAPAR"
   ],
   "ProteoDisco": [
     "GenomicFeatures",
@@ -901,9 +882,7 @@
     "ensembldb"
   ],
   "RJMCMCNucleosomes": [],
-  "RMassBank": [
-    "MSnbase"
-  ],
+  "RMassBank": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -1283,7 +1262,6 @@
     "GenomicFeatures"
   ],
   "bandle": [
-    "MSnbase",
     "pRoloc",
     "MLInterfaces"
   ],
@@ -1307,7 +1285,6 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "biocGraph": [],
   "biomvRCNS": [
     "Gviz",
     "GenomicFeatures",
@@ -1439,8 +1416,7 @@
     "GenomicFeatures"
   ],
   "cliqueMS": [
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "clusterExperiment": [
     "zinbwave"
@@ -1485,8 +1461,7 @@
     "GenomicFeatures"
   ],
   "cosmiq": [
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "cosmosR": [],
   "countsimQC": [],
@@ -1718,8 +1693,7 @@
   ],
   "flagme": [
     "xcms",
-    "CAMERA",
-    "MSnbase"
+    "CAMERA"
   ],
   "funtooNorm": [
     "minfi",
@@ -1910,8 +1884,7 @@
   ],
   "metaMS": [
     "CAMERA",
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "metaseqR2": [
     "DSS",
@@ -2024,11 +1997,8 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "msmsEDA": [
-    "MSnbase"
-  ],
+  "msmsEDA": [],
   "msmsTests": [
-    "MSnbase",
     "msmsEDA"
   ],
   "multiGSEA": [],
@@ -2055,8 +2025,7 @@
     "GenomicFeatures"
   ],
   "ncGTW": [
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "nearBynding": [
     "GenomicFeatures"
@@ -2074,9 +2043,7 @@
     "GSVA",
     "GenomicFeatures"
   ],
-  "omXplore": [
-    "MSnbase"
-  ],
+  "omXplore": [],
   "omicRexposome": [
     "sva",
     "omicade4"
@@ -2091,12 +2058,10 @@
     "ExperimentHub"
   ],
   "pRoloc": [
-    "MSnbase",
     "MLInterfaces"
   ],
   "pRolocGUI": [
     "pRoloc",
-    "MSnbase",
     "MLInterfaces"
   ],
   "pageRank": [
@@ -2121,9 +2086,7 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "peakPantheR": [
-    "MSnbase"
-  ],
+  "peakPantheR": [],
   "phenoTest": [
     "Category"
   ],
@@ -2170,12 +2133,8 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "ptairMS": [
-    "MSnbase"
-  ],
-  "qPLEXanalyzer": [
-    "MSnbase"
-  ],
+  "ptairMS": [],
+  "qPLEXanalyzer": [],
   "qpgraph": [
     "GenomicFeatures"
   ],
@@ -2414,8 +2373,7 @@
   ],
   "splineTimeR": [],
   "squallms": [
-    "xcms",
-    "MSnbase"
+    "xcms"
   ],
   "srnadiff": [
     "GenomicFeatures",
@@ -2443,9 +2401,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "synapter": [
-    "MSnbase"
-  ],
+  "synapter": [],
   "tLOH": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -2468,9 +2424,7 @@
     "nullranges"
   ],
   "tilingArray": [],
-  "topdownr": [
-    "MSnbase"
-  ],
+  "topdownr": [],
   "trackViewer": [
     "GenomicFeatures",
     "Gviz",
@@ -2546,9 +2500,7 @@
   "xCell2": [
     "singscore"
   ],
-  "xcms": [
-    "MSnbase"
-  ],
+  "xcms": [],
   "yarn": [
     "quantro",
     "minfi",
