@@ -32,8 +32,7 @@
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
-    "missMethyl",
-    "lumi"
+    "missMethyl"
   ],
   "ChIPseqR": [
     "HilbertVis"
@@ -72,13 +71,10 @@
     "missMethyl"
   ],
   "MEAT": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "MethReg": [],
-  "MineICA": [
-    "lumi"
-  ],
+  "MineICA": [],
   "Moonlight2R": [],
   "NADfinder": [],
   "PICS": [],
@@ -125,13 +121,10 @@
     "ggbio"
   ],
   "appreci8R": [],
-  "arrayMvout": [
-    "lumi"
-  ],
+  "arrayMvout": [],
   "bandle": [],
   "bigmelon": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "biscuiteer": [],
   "cageminer": [
@@ -165,9 +158,7 @@
     "epivizrData"
   ],
   "erma": [],
-  "ffpe": [
-    "lumi"
-  ],
+  "ffpe": [],
   "genoCN": [],
   "geomeTriD": [],
   "ggbio": [],
@@ -175,13 +166,10 @@
   "gpuMagic": [],
   "graper": [],
   "hypeR": [],
-  "iCheck": [
-    "lumi"
-  ],
+  "iCheck": [],
   "intansv": [
     "ggbio"
   ],
-  "lumi": [],
   "mCSEA": [],
   "methylGSA": [
     "missMethyl"
@@ -212,13 +200,10 @@
     "ggbio"
   ],
   "skewr": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "spatzie": [],
   "trigger": [],
   "uncoverappLib": [],
-  "wateRmelon": [
-    "lumi"
-  ]
+  "wateRmelon": []
 }

@@ -2229,3 +2229,8 @@ RNAmodR.RiboMethSeq
 spatzie
 AHMassBank
 ExperimentHubData
+MineICA
+arrayMvout
+ffpe
+iCheck
+wateRmelon
