@@ -2399,7 +2399,6 @@
   "transcriptR": [
     "GenomicFeatures"
   ],
-  "transite": [],
   "transmogR": [
     "GenomicFeatures",
     "VariantAnnotation"
