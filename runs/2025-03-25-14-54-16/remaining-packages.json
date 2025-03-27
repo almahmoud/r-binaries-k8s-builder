@@ -237,7 +237,6 @@
   "Category": [
     "genefilter"
   ],
-  "CeTF": [],
   "CellBarcode": [],
   "CellMixS": [],
   "CelliD": [],
@@ -268,8 +267,7 @@
   ],
   "ChIPQC": [
     "DiffBind",
-    "GenomicFeatures",
-    "systemPipeR"
+    "GenomicFeatures"
   ],
   "ChIPexoQual": [
     "biovizBase",
@@ -421,9 +419,7 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "DiffBind": [
-    "systemPipeR"
-  ],
+  "DiffBind": [],
   "DominoEffect": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -2714,7 +2710,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "riboSeqR": [],
   "ribosomeProfilingQC": [
     "EDASeq",
     "GenomicFeatures",
@@ -2958,7 +2953,6 @@
   "synapter": [
     "MSnbase"
   ],
-  "systemPipeR": [],
   "tLOH": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -3060,8 +3054,7 @@
     "DiffBind",
     "GenomicFeatures",
     "regioneR",
-    "ensembldb",
-    "systemPipeR"
+    "ensembldb"
   ],
   "wateRmelon": [
     "methylumi",

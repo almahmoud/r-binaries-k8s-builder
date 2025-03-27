@@ -1511,3 +1511,6 @@ ChIPXpress
 clusterSeq
 alabaster.sce
 scCB2
+CeTF
+riboSeqR
+systemPipeR
