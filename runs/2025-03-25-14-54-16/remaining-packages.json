@@ -354,7 +354,6 @@
   ],
   "ELMER": [
     "GenomicFeatures",
-    "TCGAbiolinks",
     "Gviz",
     "ensembldb",
     "biovizBase",
@@ -713,9 +712,7 @@
     "ExperimentHub",
     "GenomicFeatures"
   ],
-  "MoonlightR": [
-    "TCGAbiolinks"
-  ],
+  "MoonlightR": [],
   "MotifPeeker": [],
   "MsDataHub": [
     "ExperimentHub"
@@ -1076,9 +1073,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "SurfR": [
-    "TCGAbiolinks"
-  ],
+  "SurfR": [],
   "TAPseq": [
     "GenomicFeatures"
   ],
@@ -1087,12 +1082,10 @@
     "singscore",
     "sva"
   ],
-  "TCGAbiolinks": [],
   "TCGAutils": [
     "GenomicFeatures"
   ],
   "TENET": [
-    "TCGAbiolinks",
     "sesame",
     "ExperimentHub"
   ],
@@ -1206,7 +1199,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "airpart": [],
   "alabaster": [
     "alabaster.vcf",
     "VariantAnnotation",
@@ -1920,7 +1912,6 @@
     "bumphunter"
   ],
   "miRLAB": [
-    "TCGAbiolinks",
     "Category",
     "GOstats"
   ],
