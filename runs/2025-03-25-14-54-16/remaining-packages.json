@@ -511,12 +511,8 @@
   ],
   "cfTools": [],
   "cghMCR": [],
-  "chevreulPlot": [
-    "chevreulProcess"
-  ],
-  "chevreulProcess": [],
+  "chevreulPlot": [],
   "chevreulShiny": [
-    "chevreulProcess",
     "chevreulPlot"
   ],
   "chimeraviz": [
@@ -693,7 +689,6 @@
     "txdbmaker"
   ],
   "iSEEhub": [],
-  "icetea": [],
   "ideal": [
     "mosdef",
     "goseq",

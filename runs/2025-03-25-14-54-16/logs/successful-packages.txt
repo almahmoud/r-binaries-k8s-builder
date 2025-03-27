@@ -1924,3 +1924,5 @@ igvR
 lineagespot
 myvariant
 seqCAT
+chevreulProcess
+icetea
