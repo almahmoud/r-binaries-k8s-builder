@@ -2191,3 +2191,4 @@ QuasR
 recount
 regionReport
 uncoverappLib
+compEpiTools
