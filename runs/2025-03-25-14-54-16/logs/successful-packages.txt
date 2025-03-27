@@ -1784,3 +1784,6 @@ zinbwave
 TMSig
 ADaCGH2
 MEDIPS
+consensusOV
+cTRAP
+oppar
