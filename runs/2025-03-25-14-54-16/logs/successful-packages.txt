@@ -2201,3 +2201,5 @@ RNAmodR.ML
 geomeTriD
 HiCDCPlus
 RNAmodR.RiboMethSeq
+FRASER
+spatzie
