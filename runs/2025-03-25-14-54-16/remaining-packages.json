@@ -717,7 +717,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "MethylSeekR": [],
   "MiRaGE": [],
   "MineICA": [
     "GOstats",
@@ -1559,7 +1558,6 @@
     "motifStack",
     "TFBSTools"
   ],
-  "ddPCRclust": [],
   "debrowser": [
     "sva"
   ],
@@ -2327,7 +2325,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "scviR": [],
   "segmenter": [
     "ChIPseeker",
     "GenomicFeatures"

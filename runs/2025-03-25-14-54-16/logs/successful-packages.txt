@@ -1640,3 +1640,6 @@ NetSAM
 ReducedExperiment
 BioTIP
 SIM
+ddPCRclust
+MethylSeekR
+scviR
