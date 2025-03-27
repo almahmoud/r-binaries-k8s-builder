@@ -1920,3 +1920,6 @@ MungeSumstats
 OMICsPCA
 diffUTR
 drugTargetInteractions
+igvR
+lineagespot
+myvariant

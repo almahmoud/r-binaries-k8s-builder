@@ -699,7 +699,6 @@
     "goseq",
     "txdbmaker"
   ],
-  "igvR": [],
   "intansv": [
     "ggbio",
     "OrganismDbi",
@@ -709,7 +708,6 @@
   "karyoploteR": [],
   "katdetectr": [],
   "knowYourCG": [],
-  "lineagespot": [],
   "lisaClust": [
     "spicyR"
   ],
@@ -788,7 +786,6 @@
   "mygene": [
     "txdbmaker"
   ],
-  "myvariant": [],
   "nearBynding": [],
   "netSmooth": [],
   "octad": [
