@@ -270,7 +270,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "DAPAR": [],
   "DEScan2": [
     "ChIPpeakAnno",
     "GenomicFeatures",
@@ -452,7 +451,6 @@
     "ExperimentHub",
     "safe"
   ],
-  "GSRI": [],
   "GSReg": [
     "GenomicFeatures",
     "OrganismDbi",
@@ -697,7 +695,6 @@
     "GenomicFeatures"
   ],
   "MoonlightR": [],
-  "MotifPeeker": [],
   "MsDataHub": [
     "ExperimentHub"
   ],
@@ -724,7 +721,6 @@
     "TFBSTools",
     "VariantAnnotation"
   ],
-  "NBAMSeq": [],
   "NanoMethViz": [],
   "NoRCE": [
     "GenomicFeatures"
@@ -791,9 +787,7 @@
   "Pigengene": [
     "ReactomePA"
   ],
-  "Prostar": [
-    "DAPAR"
-  ],
+  "Prostar": [],
   "ProteoDisco": [
     "GenomicFeatures",
     "VariantAnnotation"

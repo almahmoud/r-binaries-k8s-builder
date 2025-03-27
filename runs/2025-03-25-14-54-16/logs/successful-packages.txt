@@ -1685,3 +1685,7 @@ MetaPhOR
 xcms
 GeneMeta
 covRNA
+DAPAR
+GSRI
+MotifPeeker
+NBAMSeq
