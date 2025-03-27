@@ -316,7 +316,6 @@
   ],
   "MsDataHub": [],
   "MungeSumstats": [],
-  "MutationalPatterns": [],
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
@@ -366,7 +365,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "R453Plus1Toolbox": [],
   "RAIDS": [],
   "RCAS": [
     "txdbmaker"
@@ -379,9 +377,7 @@
     "minfi",
     "bumphunter"
   ],
-  "RESOLVE": [
-    "MutationalPatterns"
-  ],
+  "RESOLVE": [],
   "RITAN": [],
   "RNAAgeCalc": [
     "recount",
@@ -456,7 +452,6 @@
     "goseq",
     "txdbmaker"
   ],
-  "SNPhood": [],
   "SOMNiBUS": [],
   "SPLINTER": [
     "Gviz",
@@ -736,7 +731,6 @@
     "txdbmaker"
   ],
   "esATAC": [],
-  "escape": [],
   "fCCAC": [],
   "factR": [],
   "fcScan": [],

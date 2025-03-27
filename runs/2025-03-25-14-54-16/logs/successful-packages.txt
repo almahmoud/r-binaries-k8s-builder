@@ -1894,3 +1894,7 @@ HelloRanges
 GenVisR
 MADSEQ
 GenomicFiles
+escape
+MutationalPatterns
+R453Plus1Toolbox
+SNPhood
