@@ -350,8 +350,6 @@
     "POMA"
   ],
   "PhyloProfile": [],
-  "ProteoDisco": [],
-  "PureCN": [],
   "Pviz": [
     "Gviz",
     "biovizBase"
@@ -491,7 +489,6 @@
   "TitanCNA": [],
   "UPDhmm": [],
   "Ularcirc": [],
-  "Uniquorn": [],
   "VCFArray": [],
   "VaSP": [],
   "VariantFiltering": [
