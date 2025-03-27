@@ -1839,3 +1839,4 @@ qsmooth
 scMerge
 spatialHeatmap
 TOP
+LOBSTAHS
