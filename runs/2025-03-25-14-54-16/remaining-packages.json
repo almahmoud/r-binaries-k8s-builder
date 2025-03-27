@@ -889,7 +889,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "blacksheepr": [],
   "bnem": [],
   "bumphunter": [],
   "cBioPortalData": [
@@ -906,7 +905,6 @@
   ],
   "canceR": [
     "cBioPortalData",
-    "phenoTest",
     "RTCGAToolbox",
     "TCGAutils"
   ],
@@ -1197,7 +1195,6 @@
   "gwasurvivr": [
     "VariantAnnotation"
   ],
-  "hiReadsProcessor": [],
   "hpar": [
     "ExperimentHub"
   ],
@@ -1404,7 +1401,6 @@
     "goseq",
     "txdbmaker"
   ],
-  "phenoTest": [],
   "preciseTAD": [
     "rCGH"
   ],

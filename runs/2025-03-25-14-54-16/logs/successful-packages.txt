@@ -1817,3 +1817,6 @@ meshr
 qsvaR
 BatchQC
 bnbc
+blacksheepr
+hiReadsProcessor
+phenoTest
