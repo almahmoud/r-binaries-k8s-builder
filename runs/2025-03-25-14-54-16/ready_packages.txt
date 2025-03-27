@@ -1,3 +1,7 @@
-mitoClone2
-svaNUMT
-svaRetro
+BubbleTree
+ChIPexoQual
+Gviz
+Rqc
+alabaster
+karyoploteR
+musicatk

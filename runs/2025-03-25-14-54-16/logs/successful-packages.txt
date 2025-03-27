@@ -1910,3 +1910,8 @@ deepSNV
 RAIDS
 StructuralVariantAnnotation
 ZygosityPredictor
+alabaster.vcf
+biovizBase
+cardelino
+decompTumor2Sig
+SOMNiBUS
