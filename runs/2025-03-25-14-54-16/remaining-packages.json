@@ -20,7 +20,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "BgeeCall": [],
   "BiGGR": [
     "rsbml"
   ],
@@ -51,7 +50,6 @@
     "minfi",
     "DMRcate",
     "wateRmelon",
-    "goseq",
     "missMethyl",
     "methylumi",
     "lumi"
@@ -74,7 +72,6 @@
   ],
   "Damsel": [
     "ggbio",
-    "goseq",
     "OrganismDbi"
   ],
   "DuplexDiscovereR": [],
@@ -106,22 +103,18 @@
   ],
   "GeDi": [
     "GeneTonic",
-    "mosdef",
-    "goseq"
+    "mosdef"
   ],
   "GeneStructureTools": [],
   "GeneTonic": [
-    "mosdef",
-    "goseq"
+    "mosdef"
   ],
   "GenomicInteractions": [],
   "GenomicOZone": [
     "ggbio",
     "OrganismDbi"
   ],
-  "GenomicPlot": [
-    "RCAS"
-  ],
+  "GenomicPlot": [],
   "Harshlight": [],
   "HiCDCPlus": [
     "GenomicInteractions"
@@ -183,7 +176,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "RCAS": [],
   "REBET": [],
   "REMP": [
     "minfi"
@@ -224,9 +216,7 @@
     "derfinder"
   ],
   "Rqc": [],
-  "SMITE": [
-    "goseq"
-  ],
+  "SMITE": [],
   "SPLINTER": [],
   "SingleMoleculeFootprinting": [
     "QuasR"
@@ -361,7 +351,6 @@
   "funtooNorm": [
     "minfi"
   ],
-  "gDNAx": [],
   "geneAttribution": [],
   "genoCN": [],
   "geomeTriD": [
@@ -371,7 +360,6 @@
     "OrganismDbi"
   ],
   "gmapR": [],
-  "goseq": [],
   "gpuMagic": [],
   "graper": [],
   "hypeR": [],
@@ -385,8 +373,7 @@
     "OrganismDbi"
   ],
   "ideal": [
-    "mosdef",
-    "goseq"
+    "mosdef"
   ],
   "intansv": [
     "ggbio",
@@ -425,9 +412,7 @@
     "methylumi",
     "minfi"
   ],
-  "mosdef": [
-    "goseq"
-  ],
+  "mosdef": [],
   "motifbreakR": [],
   "msgbsR": [
     "ggbio",
@@ -442,8 +427,7 @@
     "cn.mops"
   ],
   "pcaExplorer": [
-    "mosdef",
-    "goseq"
+    "mosdef"
   ],
   "preciseTAD": [],
   "primirTSS": [],
@@ -469,9 +453,7 @@
     "derfinder"
   ],
   "regutools": [],
-  "rgsepd": [
-    "goseq"
-  ],
+  "rgsepd": [],
   "ribosomeProfilingQC": [],
   "rnaEditr": [],
   "rsbml": [],

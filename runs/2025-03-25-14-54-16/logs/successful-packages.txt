@@ -2054,3 +2054,7 @@ mitoClone2
 Rmmquant
 seqArchRplus
 iSEEhub
+BgeeCall
+gDNAx
+goseq
+RCAS

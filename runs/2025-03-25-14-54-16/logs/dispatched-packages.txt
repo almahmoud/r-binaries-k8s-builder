@@ -2170,3 +2170,7 @@ srnadiff
 tadar
 trackViewer
 lisaClust
+GenomicPlot
+SMITE
+mosdef
+rgsepd
