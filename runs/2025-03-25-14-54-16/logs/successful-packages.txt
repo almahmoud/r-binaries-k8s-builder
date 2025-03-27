@@ -2168,3 +2168,6 @@ SPLINTER
 epimutacions
 AnnotationHubData
 lisaClust
+chimeraviz
+GSReg
+iNETgrate
