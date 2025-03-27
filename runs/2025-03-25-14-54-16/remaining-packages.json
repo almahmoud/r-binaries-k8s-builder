@@ -384,7 +384,6 @@
     "minfi",
     "OrganismDbi"
   ],
-  "iSEEhub": [],
   "ideal": [
     "mosdef",
     "goseq"
