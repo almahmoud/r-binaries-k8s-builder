@@ -26,7 +26,6 @@
   ],
   "ATACseqQC": [
     "ChIPpeakAnno",
-    "GenomicScores",
     "motifStack",
     "GenomicFeatures",
     "ensembldb",
@@ -485,7 +484,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "GenomicScores": [],
   "GlobalAncova": [],
   "GmicR": [
     "GOstats"
@@ -655,7 +653,6 @@
     "trackViewer",
     "ATACseqQC",
     "ChIPpeakAnno",
-    "GenomicScores",
     "motifStack",
     "GenomicFeatures",
     "Gviz",
@@ -839,8 +836,7 @@
   ],
   "RareVariantVis": [
     "VariantAnnotation",
-    "GenomicFeatures",
-    "GenomicScores"
+    "GenomicFeatures"
   ],
   "RcisTarget": [
     "AUCell"
@@ -1053,7 +1049,6 @@
   "VariantFiltering": [
     "VariantAnnotation",
     "GenomicFeatures",
-    "GenomicScores",
     "Gviz",
     "ensembldb",
     "biovizBase"
@@ -1110,7 +1105,6 @@
   "appreci8R": [
     "VariantAnnotation",
     "GenomicFeatures",
-    "GenomicScores",
     "OrganismDbi",
     "txdbmaker"
   ],
@@ -1555,7 +1549,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "gep2pep": [],
   "ggbio": [
     "biovizBase",
     "VariantAnnotation",
@@ -1844,10 +1837,7 @@
     "EDASeq",
     "GenomicFeatures"
   ],
-  "omicRexposome": [
-    "omicade4"
-  ],
-  "omicade4": [],
+  "omicRexposome": [],
   "ontoProc": [],
   "openCyto": [],
   "oppar": [],
@@ -1889,7 +1879,6 @@
     "GenomicFeatures"
   ],
   "primirTSS": [
-    "GenomicScores",
     "Gviz",
     "TFBSTools",
     "GenomicFeatures",

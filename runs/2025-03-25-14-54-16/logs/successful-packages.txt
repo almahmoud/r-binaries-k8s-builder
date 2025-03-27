@@ -1718,3 +1718,6 @@ OncoScore
 squallms
 cfDNAPro
 MIRA
+GenomicScores
+gep2pep
+omicade4
