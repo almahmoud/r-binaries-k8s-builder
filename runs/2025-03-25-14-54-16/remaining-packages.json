@@ -48,9 +48,7 @@
   "ChIPseqR": [
     "HilbertVis"
   ],
-  "CircSeqAlignTk": [
-    "Rhisat2"
-  ],
+  "CircSeqAlignTk": [],
   "CopyNumberPlots": [
     "cn.mops"
   ],
@@ -171,7 +169,6 @@
   "ReportingTools": [
     "ggbio"
   ],
-  "Rhisat2": [],
   "RiboCrypt": [
     "ORFik"
   ],
