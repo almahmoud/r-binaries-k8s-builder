@@ -1,14 +1,11 @@
 {
-  "AHMassBank": [
-    "AnnotationHubData"
-  ],
+  "AHMassBank": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
     "ggbio"
   ],
   "AneuFinder": [],
-  "AnnotationHubData": [],
   "BOBaFIT": [
     "ggbio"
   ],
@@ -53,9 +50,7 @@
     "ggbio"
   ],
   "EpiCompare": [],
-  "ExperimentHubData": [
-    "AnnotationHubData"
-  ],
+  "ExperimentHubData": [],
   "FLAMES": [
     "ggbio"
   ],
@@ -189,15 +184,13 @@
   "intansv": [
     "ggbio"
   ],
-  "lisaClust": [],
   "lumi": [],
   "mCSEA": [],
   "methylGSA": [
     "missMethyl"
   ],
   "methylclock": [
-    "ExperimentHubData",
-    "AnnotationHubData"
+    "ExperimentHubData"
   ],
   "missMethyl": [],
   "msgbsR": [
