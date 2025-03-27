@@ -1,3 +1,2 @@
-condiments
-scRNAseqApp
-tradeSeq
+MSstatsQCgui
+msmsTests

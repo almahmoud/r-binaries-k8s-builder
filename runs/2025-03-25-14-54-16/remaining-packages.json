@@ -275,7 +275,6 @@
     "GenomicFeatures"
   ],
   "DAPAR": [],
-  "DEP": [],
   "DEScan2": [
     "ChIPpeakAnno",
     "GenomicFeatures",
@@ -662,13 +661,9 @@
     "sva"
   ],
   "MSnID": [
-    "msmsTests",
-    "msmsEDA"
+    "msmsTests"
   ],
-  "MSstatsQC": [],
-  "MSstatsQCgui": [
-    "MSstatsQC"
-  ],
+  "MSstatsQCgui": [],
   "MatrixQCvis": [
     "ExperimentHub",
     "sva"
@@ -1968,10 +1963,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "msmsEDA": [],
-  "msmsTests": [
-    "msmsEDA"
-  ],
+  "msmsTests": [],
   "multiGSEA": [],
   "multicrispr": [
     "CRISPRseek",

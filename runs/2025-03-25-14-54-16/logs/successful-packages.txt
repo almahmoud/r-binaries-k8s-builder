@@ -1666,3 +1666,6 @@ nullranges
 MiRaGE
 transite
 slingshot
+DEP
+msmsEDA
+MSstatsQC

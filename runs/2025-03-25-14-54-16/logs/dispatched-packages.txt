@@ -1813,3 +1813,5 @@ tidyomics
 condiments
 scRNAseqApp
 tradeSeq
+MSstatsQCgui
+msmsTests
