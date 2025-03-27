@@ -73,10 +73,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "BASiCS": [],
-  "BASiCStan": [
-    "BASiCS"
-  ],
+  "BASiCStan": [],
   "BBCAnalyzer": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -171,7 +168,6 @@
     "MSnbase"
   ],
   "CARDspa": [],
-  "CATALYST": [],
   "CBNplot": [
     "ExperimentHub",
     "AnnotationHub"
@@ -807,9 +803,7 @@
     "minfi",
     "bumphunter"
   ],
-  "MinimumDistance": [
-    "VanillaICE"
-  ],
+  "MinimumDistance": [],
   "Moonlight2R": [
     "AnnotationHub",
     "EpiMix",
@@ -1146,7 +1140,6 @@
   "SCAN.UPC": [
     "sva"
   ],
-  "SCOPE": [],
   "SEtools": [
     "sva"
   ],
@@ -1307,7 +1300,6 @@
     "ballgown",
     "sva"
   ],
-  "VanillaICE": [],
   "VarCon": [],
   "VariantAnnotation": [
     "GenomicFeatures"
@@ -1583,7 +1575,6 @@
     "VariantAnnotation"
   ],
   "cisPath": [],
-  "cliProfiler": [],
   "clipper": [
     "qpgraph",
     "GenomicFeatures"
@@ -1714,9 +1705,7 @@
   "cypress": [
     "TOAST"
   ],
-  "cytofQC": [
-    "CATALYST"
-  ],
+  "cytofQC": [],
   "dagLogo": [
     "motifStack",
     "TFBSTools"
@@ -1921,7 +1910,6 @@
     "ReactomePA"
   ],
   "gatom": [],
-  "gcapc": [],
   "geneAttribution": [
     "GenomicFeatures"
   ],
@@ -2664,9 +2652,7 @@
   "spicyR": [
     "ClassifyR"
   ],
-  "spillR": [
-    "CATALYST"
-  ],
+  "spillR": [],
   "splineTimeR": [],
   "squallms": [
     "xcms",

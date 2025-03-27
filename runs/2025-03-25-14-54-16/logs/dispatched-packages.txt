@@ -1757,3 +1757,7 @@ iSEEfier
 lefser
 miaViz
 rTRMui
+BASiCStan
+MinimumDistance
+cytofQC
+spillR

@@ -1570,3 +1570,9 @@ spiky
 terapadog
 ToxicoGx
 tricycle
+BASiCS
+CATALYST
+cliProfiler
+gcapc
+SCOPE
+VanillaICE
