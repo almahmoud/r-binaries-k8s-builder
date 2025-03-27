@@ -862,7 +862,6 @@
   "ReactomePA": [],
   "RegEnrich": [],
   "RegionalST": [],
-  "RepViz": [],
   "ReportingTools": [
     "GOstats",
     "ggbio",
