@@ -2221,3 +2221,9 @@ lumi
 missMethyl
 RiboCrypt
 TFHAZ
+CAGEfightR
+HiCDCPlus
+RNAmodR.AlkAnilineSeq
+RNAmodR.ML
+RNAmodR.RiboMethSeq
+spatzie

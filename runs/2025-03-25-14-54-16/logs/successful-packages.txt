@@ -2162,3 +2162,6 @@ REMP
 shinyepico
 TENET
 yarn
+GenomicInteractions
+RNAmodR
+SPLINTER
