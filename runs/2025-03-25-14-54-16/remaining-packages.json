@@ -69,7 +69,6 @@
   "FRASER": [],
   "GA4GHshiny": [],
   "GSReg": [],
-  "GeDi": [],
   "GenomicInteractions": [],
   "GenomicOZone": [
     "ggbio"
@@ -251,7 +250,6 @@
   "missMethyl": [
     "methylumi"
   ],
-  "motifbreakR": [],
   "msgbsR": [
     "ggbio"
   ],
@@ -262,7 +260,6 @@
   "psichomics": [
     "recount"
   ],
-  "quantro": [],
   "rGADEM": [],
   "recount": [],
   "recountmethylation": [],
@@ -292,7 +289,5 @@
     "methylumi",
     "lumi"
   ],
-  "yarn": [
-    "quantro"
-  ]
+  "yarn": []
 }
