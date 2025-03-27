@@ -1719,3 +1719,4 @@ sparrow
 splineTimeR
 BLMA
 mirIntegrator
+alabaster.spatial

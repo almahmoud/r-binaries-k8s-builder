@@ -1483,21 +1483,16 @@
   ],
   "airpart": [],
   "alabaster": [
-    "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "alabaster.sce": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
-    "alabaster.sce",
     "alabaster.spatial"
   ],
-  "alabaster.spatial": [
-    "alabaster.sce"
-  ],
+  "alabaster.spatial": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -2756,7 +2751,6 @@
     "zinbwave",
     "genefilter"
   ],
-  "scCB2": [],
   "scClassify": [
     "Cepo"
   ],
@@ -2883,7 +2877,6 @@
     "zinbwave",
     "GenomicFeatures",
     "M3Drop",
-    "alabaster.sce",
     "genefilter"
   ],
   "singscore": [],

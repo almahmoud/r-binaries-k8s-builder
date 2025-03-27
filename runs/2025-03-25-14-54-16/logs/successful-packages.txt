@@ -1509,3 +1509,5 @@ tigre
 ROntoTools
 ChIPXpress
 clusterSeq
+alabaster.sce
+scCB2
