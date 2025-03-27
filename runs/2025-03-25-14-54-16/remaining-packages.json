@@ -287,7 +287,6 @@
     "EpiMix"
   ],
   "MsDataHub": [],
-  "MungeSumstats": [],
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
@@ -298,7 +297,6 @@
   "OGRE": [
     "Gviz"
   ],
-  "OMICsPCA": [],
   "ORFik": [
     "txdbmaker"
   ],
@@ -650,7 +648,6 @@
   "esATAC": [],
   "fCCAC": [],
   "factR": [],
-  "fcScan": [],
   "ffpe": [
     "lumi",
     "methylumi",

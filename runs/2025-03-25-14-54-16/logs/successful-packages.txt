@@ -1915,3 +1915,6 @@ biovizBase
 cardelino
 decompTumor2Sig
 SOMNiBUS
+fcScan
+MungeSumstats
+OMICsPCA
