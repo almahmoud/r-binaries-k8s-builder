@@ -2232,3 +2232,13 @@ derfinderPlot
 msgbsR
 scruff
 FLAMES
+affycoretools
+bigmelon
+CAGEr
+epivizrStandalone
+MAGAR
+MEAT
+methylclock
+psichomics
+skewr
+YAPSA

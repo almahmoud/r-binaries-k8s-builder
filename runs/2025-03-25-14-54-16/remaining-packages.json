@@ -1,12 +1,9 @@
 {
-  "AgiMicroRna": [
-    "affycoretools"
-  ],
+  "AgiMicroRna": [],
   "AneuFinder": [],
   "BiGGR": [
     "rsbml"
   ],
-  "CAGEr": [],
   "CNEr": [],
   "CNVfilteR": [
     "CopyNumberPlots",
@@ -34,38 +31,29 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "MAGAR": [],
   "MEAL": [],
-  "MEAT": [],
   "PICS": [],
   "PING": [
     "PICS"
   ],
   "REBET": [],
   "XNAString": [],
-  "YAPSA": [],
-  "affycoretools": [],
   "bandle": [],
-  "bigmelon": [],
   "chopsticks": [],
   "cisPath": [],
   "cn.farms": [],
   "cn.mops": [],
-  "epivizrStandalone": [],
   "genoCN": [],
   "gmapR": [],
   "gpuMagic": [],
   "graper": [],
   "hypeR": [],
   "methylGSA": [],
-  "methylclock": [],
   "panelcn.mops": [
     "cn.mops"
   ],
-  "psichomics": [],
   "rGADEM": [],
   "rsbml": [],
   "scTreeViz": [],
-  "skewr": [],
   "trigger": []
 }
