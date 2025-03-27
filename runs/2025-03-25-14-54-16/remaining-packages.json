@@ -2064,10 +2064,7 @@
   "flowGate": [
     "ggcyto"
   ],
-  "flowStats": [],
-  "flowVS": [
-    "flowStats"
-  ],
+  "flowVS": [],
   "funOmics": [],
   "funtooNorm": [
     "minfi",
@@ -2244,7 +2241,6 @@
   "lefser": [
     "mia"
   ],
-  "limpca": [],
   "lineagespot": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -2987,7 +2983,6 @@
   "transcriptR": [
     "GenomicFeatures"
   ],
-  "transformGamPoi": [],
   "transite": [],
   "transmogR": [
     "GenomicFeatures",
