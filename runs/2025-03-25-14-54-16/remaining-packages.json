@@ -156,7 +156,6 @@
   "CCPROMISE": [],
   "CHRONOS": [],
   "CNEr": [],
-  "CNTools": [],
   "CNVfilteR": [
     "karyoploteR",
     "CopyNumberPlots",
@@ -1344,9 +1343,7 @@
   "cfTools": [
     "ExperimentHub"
   ],
-  "cghMCR": [
-    "CNTools"
-  ],
+  "cghMCR": [],
   "chevreulPlot": [
     "chevreulProcess",
     "ensembldb",
@@ -2043,7 +2040,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "peakPantheR": [],
   "phenoTest": [
     "Category"
   ],

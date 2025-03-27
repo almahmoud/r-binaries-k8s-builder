@@ -1671,3 +1671,5 @@ msmsEDA
 MSstatsQC
 crisprBwa
 PrInCE
+CNTools
+peakPantheR
