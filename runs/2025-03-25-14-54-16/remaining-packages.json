@@ -2,7 +2,6 @@
   "ADaCGH2": [
     "tilingArray"
   ],
-  "AGDEX": [],
   "AHMassBank": [
     "AnnotationHubData",
     "GenomicFeatures",
@@ -2187,7 +2186,6 @@
   "ptairMS": [
     "MSnbase"
   ],
-  "puma": [],
   "qPLEXanalyzer": [
     "MSnbase"
   ],
