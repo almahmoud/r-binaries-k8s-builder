@@ -1859,9 +1859,7 @@
     "ExperimentHub"
   ],
   "iSEEpathways": [],
-  "iSEEtree": [
-    "miaViz"
-  ],
+  "iSEEtree": [],
   "icetea": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -2022,7 +2020,6 @@
     "SPONGE",
     "ReactomePA"
   ],
-  "miaViz": [],
   "microSTASIS": [],
   "microbiomeExplorer": [],
   "minfi": [
@@ -2116,7 +2113,6 @@
     "zinbwave"
   ],
   "npGSEA": [],
-  "nucleR": [],
   "nullranges": [],
   "octad": [
     "RUVSeq",
@@ -2184,7 +2180,6 @@
   "pogos": [
     "ontoProc"
   ],
-  "pram": [],
   "preciseTAD": [
     "rCGH",
     "GenomicFeatures"
