@@ -245,9 +245,7 @@
     "VariantAnnotation"
   ],
   "EDASeq": [],
-  "EGSEA": [
-    "safe"
-  ],
+  "EGSEA": [],
   "ELMER": [
     "Gviz",
     "ensembldb",
@@ -265,9 +263,7 @@
   "EWCE": [
     "ExperimentHub"
   ],
-  "EnrichmentBrowser": [
-    "safe"
-  ],
+  "EnrichmentBrowser": [],
   "EpiCompare": [
     "ChIPseeker"
   ],
@@ -315,7 +311,6 @@
     "DaMiRseq",
     "EDASeq"
   ],
-  "GEOexplorer": [],
   "GNOSIS": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -327,8 +322,7 @@
   ],
   "GSEABenchmarkeR": [
     "EnrichmentBrowser",
-    "ExperimentHub",
-    "safe"
+    "ExperimentHub"
   ],
   "GSReg": [
     "OrganismDbi",
@@ -1090,8 +1084,7 @@
   "doubletrouble": [],
   "dreamlet": [
     "zenith",
-    "EnrichmentBrowser",
-    "safe"
+    "EnrichmentBrowser"
   ],
   "drugTargetInteractions": [
     "ensembldb"
@@ -1099,7 +1092,6 @@
   "easier": [
     "ExperimentHub"
   ],
-  "edge": [],
   "enhancerHomologSearch": [],
   "ensembldb": [],
   "epimutacions": [
@@ -1491,7 +1483,6 @@
     "bumphunter"
   ],
   "rsbml": [],
-  "safe": [],
   "saseR": [
     "ASpli",
     "Gviz",
@@ -1680,7 +1671,6 @@
     "bumphunter"
   ],
   "wavClusteR": [],
-  "webbioc": [],
   "xCell2": [],
   "yarn": [
     "quantro",
@@ -1688,7 +1678,6 @@
     "bumphunter"
   ],
   "zenith": [
-    "EnrichmentBrowser",
-    "safe"
+    "EnrichmentBrowser"
   ]
 }

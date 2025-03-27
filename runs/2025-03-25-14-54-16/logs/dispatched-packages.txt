@@ -1948,3 +1948,5 @@ SigCheck
 pRoloc
 VaSP
 netSmooth
+EGSEA
+EnrichmentBrowser
