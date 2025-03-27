@@ -693,7 +693,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "OncoScore": [],
   "Organism.dplyr": [
     "GenomicFeatures"
   ],
@@ -2141,7 +2140,6 @@
   ],
   "spicyR": [],
   "splineTimeR": [],
-  "squallms": [],
   "srnadiff": [
     "GenomicFeatures",
     "Gviz",

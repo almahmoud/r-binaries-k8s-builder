@@ -1714,3 +1714,5 @@ cosmiq
 countsimQC
 ncGTW
 Prostar
+OncoScore
+squallms
