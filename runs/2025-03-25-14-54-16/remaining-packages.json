@@ -623,9 +623,7 @@
     "GenomicFeatures"
   ],
   "MSPrep": [],
-  "MSnID": [
-    "msmsTests"
-  ],
+  "MSnID": [],
   "MatrixQCvis": [
     "ExperimentHub"
   ],
@@ -1874,7 +1872,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "msmsTests": [],
   "multiGSEA": [],
   "multicrispr": [
     "CRISPRseek",
