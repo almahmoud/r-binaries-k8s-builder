@@ -1950,7 +1950,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "mirIntegrator": [],
   "missMethyl": [
     "methylumi",
     "minfi",
@@ -2116,7 +2115,6 @@
     "txdbmaker"
   ],
   "profileplyr": [
-    "soGGi",
     "ChIPseeker",
     "GenomicFeatures",
     "rGREAT"
@@ -2350,7 +2348,6 @@
   ],
   "slalom": [],
   "slingshot": [],
-  "soGGi": [],
   "sparrow": [],
   "spatialFDA": [
     "ExperimentHub"

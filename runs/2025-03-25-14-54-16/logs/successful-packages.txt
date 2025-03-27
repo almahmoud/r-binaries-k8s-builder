@@ -1647,3 +1647,5 @@ biocGraph
 MSnbase
 cosmosR
 CytoPipelineGUI
+mirIntegrator
+soGGi
