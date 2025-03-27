@@ -1607,3 +1607,5 @@ FastqCleaner
 miaViz
 nucleR
 pram
+iSEEfier
+lefser

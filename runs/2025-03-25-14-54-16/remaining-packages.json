@@ -1854,7 +1854,6 @@
     "ReactomePA",
     "txdbmaker"
   ],
-  "iSEEfier": [],
   "iSEEhub": [
     "ExperimentHub"
   ],
@@ -1906,7 +1905,6 @@
   "knowYourCG": [
     "ExperimentHub"
   ],
-  "lefser": [],
   "lineagespot": [
     "VariantAnnotation",
     "GenomicFeatures"
