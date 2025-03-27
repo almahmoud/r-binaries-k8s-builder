@@ -1424,9 +1424,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "condiments": [
-    "slingshot"
-  ],
+  "condiments": [],
   "consensusDE": [
     "EDASeq",
     "ensembldb",
@@ -2203,9 +2201,7 @@
   "scMerge": [
     "M3Drop"
   ],
-  "scRNAseqApp": [
-    "slingshot"
-  ],
+  "scRNAseqApp": [],
   "scTGIF": [],
   "scTensor": [
     "Category",
@@ -2314,7 +2310,6 @@
     "lumi"
   ],
   "slalom": [],
-  "slingshot": [],
   "sparrow": [],
   "spatialFDA": [
     "ExperimentHub"
@@ -2393,9 +2388,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tradeSeq": [
-    "slingshot"
-  ],
+  "tradeSeq": [],
   "transcriptR": [
     "GenomicFeatures"
   ],

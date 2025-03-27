@@ -1810,3 +1810,6 @@ oppar
 MoonlightR
 SurfR
 tidyomics
+condiments
+scRNAseqApp
+tradeSeq
