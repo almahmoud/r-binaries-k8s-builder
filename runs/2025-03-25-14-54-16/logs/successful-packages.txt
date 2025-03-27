@@ -2225,3 +2225,7 @@ RnaSeqSampleSize
 SingleMoleculeFootprinting
 SomaticSignatures
 intansv
+cageminer
+crisprShiny
+crisprVerse
+derfinderPlot
