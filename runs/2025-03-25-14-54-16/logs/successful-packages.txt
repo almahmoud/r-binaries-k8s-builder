@@ -2024,3 +2024,12 @@ crisprScore
 omicRexposome
 ChIPexoQual
 TFutils
+alabaster
+EventPointer
+Gviz
+karyoploteR
+LRcell
+methodical
+orthos
+scTensor
+sesame
