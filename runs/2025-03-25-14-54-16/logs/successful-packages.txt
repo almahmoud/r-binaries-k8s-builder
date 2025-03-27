@@ -1948,3 +1948,5 @@ VaSP
 debrowser
 qpgraph
 signifinder
+cghMCR
+MBECS

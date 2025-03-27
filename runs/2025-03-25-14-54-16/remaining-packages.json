@@ -240,7 +240,6 @@
     "minfi",
     "bumphunter"
   ],
-  "MBECS": [],
   "MEAL": [
     "minfi",
     "Gviz",
@@ -499,7 +498,6 @@
     "cBioPortalData"
   ],
   "cfTools": [],
-  "cghMCR": [],
   "chevreulPlot": [],
   "chevreulShiny": [
     "chevreulPlot"
