@@ -2074,3 +2074,6 @@ MOSClip
 bioCancer
 ASSIGN
 proBAMr
+dmrseq
+EpiMix
+metaseqR2

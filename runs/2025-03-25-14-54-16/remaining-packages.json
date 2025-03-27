@@ -79,7 +79,6 @@
     "minfi"
   ],
   "EpiCompare": [],
-  "EpiMix": [],
   "EpiTxDb": [],
   "ExperimentHubData": [
     "AnnotationHubData",
@@ -153,9 +152,7 @@
     "methylumi",
     "minfi"
   ],
-  "Moonlight2R": [
-    "EpiMix"
-  ],
+  "Moonlight2R": [],
   "NADfinder": [
     "trackViewer"
   ],
@@ -258,7 +255,6 @@
   ],
   "biomvRCNS": [],
   "biscuiteer": [
-    "dmrseq",
     "OrganismDbi"
   ],
   "cageminer": [
@@ -305,7 +301,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "dmrseq": [],
   "dreamlet": [],
   "easier": [],
   "enhancerHomologSearch": [],
@@ -377,7 +372,6 @@
     "OrganismDbi"
   ],
   "maser": [],
-  "metaseqR2": [],
   "methylCC": [
     "minfi"
   ],
