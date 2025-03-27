@@ -226,8 +226,6 @@
   ],
   "Category": [],
   "CellBarcode": [],
-  "CellMixS": [],
-  "CelliD": [],
   "Cepo": [],
   "CexoR": [
     "genomation"
@@ -252,7 +250,6 @@
     "VariantAnnotation"
   ],
   "ChIPQC": [
-    "DiffBind",
     "GenomicFeatures"
   ],
   "ChIPexoQual": [
@@ -306,19 +303,14 @@
   ],
   "CytoGLMM": [],
   "CytoMDS": [
-    "CytoPipeline",
-    "ggcyto"
+    "CytoPipeline"
   ],
   "CytoML": [
-    "openCyto",
-    "ggcyto"
+    "openCyto"
   ],
-  "CytoPipeline": [
-    "ggcyto"
-  ],
+  "CytoPipeline": [],
   "CytoPipelineGUI": [
-    "CytoPipeline",
-    "ggcyto"
+    "CytoPipeline"
   ],
   "DAMEfinder": [
     "VariantAnnotation",
@@ -392,7 +384,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "DiffBind": [],
   "DominoEffect": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -524,7 +515,6 @@
     "GenomicDataCommons"
   ],
   "GOexpress": [],
-  "GOfuncR": [],
   "GOstats": [
     "Category"
   ],
@@ -669,7 +659,6 @@
   "IdeoViz": [],
   "IgGeneUsage": [],
   "InPAS": [
-    "cleanUpdTSeq",
     "GenomicFeatures"
   ],
   "IntEREst": [
@@ -702,8 +691,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "LinTInd": [],
-  "LymphoSeq": [],
   "M3Drop": [],
   "MACSr": [
     "ExperimentHub",
@@ -748,12 +735,9 @@
     "lumi",
     "GenomicFeatures"
   ],
-  "MEB": [],
   "MEDIPS": [],
   "MGFR": [],
-  "MGnifyR": [
-    "mia"
-  ],
+  "MGnifyR": [],
   "MICSQTL": [
     "TOAST"
   ],
@@ -814,7 +798,6 @@
   ],
   "MethylSeekR": [],
   "MiRaGE": [],
-  "MicrobiomeProfiler": [],
   "MineICA": [
     "GOstats",
     "lumi",
@@ -836,7 +819,6 @@
   "MoonlightR": [
     "TCGAbiolinks"
   ],
-  "MotifDb": [],
   "MotifPeeker": [],
   "MouseFM": [],
   "MsDataHub": [
@@ -892,7 +874,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "OTUbase": [],
   "OUTRIDER": [
     "GenomicFeatures",
     "txdbmaker"
@@ -1066,7 +1047,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils",
     "GenomicFeatures",
@@ -1083,9 +1063,7 @@
     "GenomicScores",
     "AnnotationHub"
   ],
-  "Rbec": [
-    "dada2"
-  ],
+  "Rbec": [],
   "RcisTarget": [
     "AUCell"
   ],
@@ -1097,7 +1075,6 @@
     "TOAST"
   ],
   "RepViz": [],
-  "Repitools": [],
   "ReportingTools": [
     "Category",
     "GOstats",
@@ -1234,7 +1211,6 @@
     "txdbmaker"
   ],
   "SparseSignatures": [],
-  "SpatialFeatureExperiment": [],
   "SpectralTAD": [],
   "SpliceWiz": [
     "AnnotationHub",
@@ -1304,7 +1280,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "ToxicoGx": [],
   "UMI4Cats": [
     "regioneR",
     "GenomicFeatures"
@@ -1350,9 +1325,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "Voyager": [
-    "SpatialFeatureExperiment"
-  ],
+  "Voyager": [],
   "XDE": [
     "GeneMeta"
   ],
@@ -1400,9 +1373,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "alabaster.sfe": [
-    "SpatialFeatureExperiment"
-  ],
+  "alabaster.sfe": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -1504,7 +1475,6 @@
   "blacksheepr": [
     "DEXSeq"
   ],
-  "blima": [],
   "bnbc": [
     "sva"
   ],
@@ -1588,7 +1558,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "chihaya": [],
   "chimeraviz": [
     "Gviz",
     "ensembldb",
@@ -1614,7 +1583,6 @@
     "VariantAnnotation"
   ],
   "cisPath": [],
-  "cleanUpdTSeq": [],
   "cliProfiler": [],
   "clipper": [
     "qpgraph",
@@ -1651,8 +1619,7 @@
     "VariantAnnotation"
   ],
   "condiments": [
-    "slingshot",
-    "distinct"
+    "slingshot"
   ],
   "consensusDE": [
     "EDASeq",
@@ -1744,21 +1711,17 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "cyanoFilter": [],
   "cypress": [
     "TOAST"
   ],
   "cytofQC": [
     "CATALYST"
   ],
-  "dada2": [],
   "dagLogo": [
     "motifStack",
     "TFBSTools"
   ],
-  "dar": [
-    "mia"
-  ],
+  "dar": [],
   "ddPCRclust": [],
   "debrowser": [
     "sva",
@@ -1768,7 +1731,6 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "decontX": [],
   "deconvR": [
     "minfi",
     "bumphunter",
@@ -1809,7 +1771,6 @@
     "GenomicFeatures"
   ],
   "dinoR": [],
-  "distinct": [],
   "dmrseq": [
     "bumphunter",
     "annotatr",
@@ -1942,10 +1903,7 @@
     "MSnbase"
   ],
   "flowCut": [],
-  "flowGate": [
-    "ggcyto"
-  ],
-  "flowVS": [],
+  "flowGate": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
@@ -1987,7 +1945,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "ggcyto": [],
   "glmSparseNet": [
     "TCGAutils",
     "GenomicFeatures",
@@ -2046,19 +2003,15 @@
     "ReactomePA",
     "txdbmaker"
   ],
-  "iSEEfier": [
-    "iSEEu"
-  ],
+  "iSEEfier": [],
   "iSEEhub": [
     "ExperimentHub",
     "AnnotationHub"
   ],
   "iSEEpathways": [],
   "iSEEtree": [
-    "miaViz",
-    "mia"
+    "miaViz"
   ],
-  "iSEEu": [],
   "icetea": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -2109,9 +2062,7 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "lefser": [
-    "mia"
-  ],
+  "lefser": [],
   "lineagespot": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -2174,7 +2125,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "methInheritSim": [],
   "methodical": [
     "AnnotationHub",
     "annotatr",
@@ -2182,7 +2132,6 @@
     "GenomicFeatures",
     "regioneR"
   ],
-  "methrix": [],
   "methylCC": [
     "minfi",
     "bumphunter",
@@ -2234,10 +2183,7 @@
     "SPONGE",
     "ReactomePA"
   ],
-  "mia": [],
-  "miaViz": [
-    "mia"
-  ],
+  "miaViz": [],
   "microSTASIS": [],
   "microbiomeExplorer": [],
   "minfi": [
@@ -2269,7 +2215,6 @@
     "TFBSTools"
   ],
   "motifbreakR": [
-    "MotifDb",
     "VariantAnnotation",
     "motifStack",
     "Gviz",
@@ -2401,7 +2346,6 @@
   "peakPantheR": [
     "MSnbase"
   ],
-  "peco": [],
   "periodicDNA": [],
   "phenoTest": [
     "Category"
@@ -2486,9 +2430,7 @@
   "rGenomeTracks": [
     "AnnotationHub"
   ],
-  "rTRMui": [
-    "MotifDb"
-  ],
+  "rTRMui": [],
   "raer": [
     "GenomicFeatures"
   ],
@@ -2722,7 +2664,6 @@
   "spicyR": [
     "ClassifyR"
   ],
-  "spiky": [],
   "spillR": [
     "CATALYST"
   ],
@@ -2776,7 +2717,6 @@
     "ontoProc",
     "AnnotationHub"
   ],
-  "terapadog": [],
   "terraTCGAdata": [
     "TCGAutils",
     "GenomicFeatures",
@@ -2810,7 +2750,6 @@
     "VariantAnnotation"
   ],
   "traseR": [],
-  "tricycle": [],
   "trigger": [
     "sva"
   ],
@@ -2853,7 +2792,6 @@
   ],
   "vulcan": [
     "ChIPpeakAnno",
-    "DiffBind",
     "GenomicFeatures",
     "regioneR",
     "ensembldb"

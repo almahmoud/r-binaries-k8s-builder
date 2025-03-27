@@ -1746,3 +1746,14 @@ zinbwave
 DSS
 MIRA
 NanoMethViz
+CytoPipeline
+MGnifyR
+Rbec
+Voyager
+alabaster.sfe
+dar
+flowGate
+iSEEfier
+lefser
+miaViz
+rTRMui
