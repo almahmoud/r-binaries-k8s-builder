@@ -116,7 +116,6 @@
     "minfi",
     "bumphunter"
   ],
-  "EWCE": [],
   "EpiCompare": [],
   "EpiMix": [],
   "EpiTxDb": [],
@@ -204,7 +203,6 @@
     "lumi"
   ],
   "MOSClip": [],
-  "MatrixQCvis": [],
   "MetaboSignal": [
     "hpar",
     "mygene"
@@ -626,7 +624,6 @@
   "musicatk": [],
   "mygene": [],
   "nearBynding": [],
-  "netSmooth": [],
   "octad": [
     "RUVSeq"
   ],
