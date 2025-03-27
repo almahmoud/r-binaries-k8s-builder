@@ -1956,3 +1956,6 @@ xCell2
 FindIT2
 flagme
 TFEA.ChIP
+dagLogo
+pRoloc
+scFeatures

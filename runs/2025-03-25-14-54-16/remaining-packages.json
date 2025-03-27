@@ -397,9 +397,7 @@
   ],
   "attract": [],
   "bambu": [],
-  "bandle": [
-    "pRoloc"
-  ],
+  "bandle": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -490,7 +488,6 @@
     "Gviz"
   ],
   "customProDB": [],
-  "dagLogo": [],
   "deconvR": [
     "minfi",
     "bumphunter"
@@ -669,10 +666,7 @@
   ],
   "omicRexposome": [],
   "orthos": [],
-  "pRoloc": [],
-  "pRolocGUI": [
-    "pRoloc"
-  ],
+  "pRolocGUI": [],
   "panelcn.mops": [
     "cn.mops"
   ],
@@ -731,7 +725,6 @@
     "ASpli",
     "Gviz"
   ],
-  "scFeatures": [],
   "scTensor": [],
   "scTreeViz": [
     "epivizr",
