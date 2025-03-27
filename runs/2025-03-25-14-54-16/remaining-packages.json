@@ -127,7 +127,6 @@
     "txdbmaker"
   ],
   "DeepTarget": [],
-  "DegCre": [],
   "DegNorm": [
     "txdbmaker"
   ],
@@ -214,7 +213,6 @@
     "txdbmaker"
   ],
   "GmicR": [],
-  "Guitar": [],
   "Gviz": [],
   "Harshlight": [],
   "HiCDCPlus": [
@@ -432,7 +430,6 @@
   "TitanCNA": [],
   "Ularcirc": [],
   "VCFArray": [],
-  "VaSP": [],
   "VariantFiltering": [
     "Gviz"
   ],
@@ -465,7 +462,6 @@
     "minfi",
     "bumphunter"
   ],
-  "atena": [],
   "attract": [],
   "bambu": [],
   "bandle": [
@@ -656,7 +652,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "glmSparseNet": [],
   "gmapR": [],
   "goseq": [
     "txdbmaker"

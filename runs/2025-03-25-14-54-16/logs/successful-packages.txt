@@ -1940,3 +1940,8 @@ SigCheck
 signeR
 factR
 katdetectr
+atena
+DegCre
+glmSparseNet
+Guitar
+VaSP
