@@ -63,7 +63,6 @@
     "ggbio"
   ],
   "FRASER": [],
-  "GA4GHshiny": [],
   "GSReg": [],
   "GenomicInteractions": [],
   "GenomicOZone": [
@@ -94,7 +93,6 @@
   ],
   "Moonlight2R": [],
   "NADfinder": [],
-  "ORFik": [],
   "PICS": [],
   "PING": [
     "PICS"
@@ -104,7 +102,6 @@
     "ggbio"
   ],
   "REBET": [],
-  "REMP": [],
   "RNAAgeCalc": [
     "recount"
   ],
@@ -121,9 +118,7 @@
   "ReportingTools": [
     "ggbio"
   ],
-  "RiboCrypt": [
-    "ORFik"
-  ],
+  "RiboCrypt": [],
   "RiboProfiling": [
     "ggbio"
   ],
@@ -138,10 +133,7 @@
   "SomaticSignatures": [
     "ggbio"
   ],
-  "TENET": [],
-  "TFHAZ": [
-    "ORFik"
-  ],
+  "TFHAZ": [],
   "VariantFiltering": [],
   "XNAString": [],
   "YAPSA": [
@@ -178,7 +170,6 @@
     "crisprViz"
   ],
   "crisprViz": [],
-  "deconvR": [],
   "derfinderPlot": [
     "ggbio"
   ],
@@ -216,7 +207,6 @@
   "lisaClust": [],
   "lumi": [],
   "mCSEA": [],
-  "maser": [],
   "methylGSA": [
     "missMethyl"
   ],
@@ -246,7 +236,6 @@
   "scruff": [
     "ggbio"
   ],
-  "shinyepico": [],
   "skewr": [
     "wateRmelon",
     "lumi"
@@ -258,6 +247,5 @@
   "uncoverappLib": [],
   "wateRmelon": [
     "lumi"
-  ],
-  "yarn": []
+  ]
 }
