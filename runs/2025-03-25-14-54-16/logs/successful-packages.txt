@@ -1904,3 +1904,5 @@ Uniquorn
 RareVariantVis
 RTCGAToolbox
 UPDhmm
+RITAN
+VariantTools

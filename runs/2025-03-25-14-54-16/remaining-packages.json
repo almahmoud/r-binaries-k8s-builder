@@ -375,7 +375,6 @@
     "bumphunter"
   ],
   "RESOLVE": [],
-  "RITAN": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -491,7 +490,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "VariantTools": [],
   "XNAString": [],
   "YAPSA": [
     "SomaticSignatures",
