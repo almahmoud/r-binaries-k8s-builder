@@ -466,7 +466,6 @@
     "lumi"
   ],
   "MICSQTL": [],
-  "MLInterfaces": [],
   "MOSClip": [
     "qpgraph"
   ],
@@ -737,9 +736,7 @@
   "SeqSQC": [
     "ExperimentHub"
   ],
-  "SigCheck": [
-    "MLInterfaces"
-  ],
+  "SigCheck": [],
   "SigsPack": [
     "VariantAnnotation"
   ],
@@ -878,8 +875,7 @@
   "ballgown": [],
   "bambu": [],
   "bandle": [
-    "pRoloc",
-    "MLInterfaces"
+    "pRoloc"
   ],
   "beer": [],
   "benchdamic": [],
@@ -1428,12 +1424,9 @@
   "orthos": [
     "ExperimentHub"
   ],
-  "pRoloc": [
-    "MLInterfaces"
-  ],
+  "pRoloc": [],
   "pRolocGUI": [
-    "pRoloc",
-    "MLInterfaces"
+    "pRoloc"
   ],
   "pageRank": [],
   "pairedGSEA": [],
