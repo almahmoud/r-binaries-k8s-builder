@@ -1797,3 +1797,6 @@ gatom
 pathRender
 BERT
 gINTomics
+HarmonizR
+iSEEpathways
+miRspongeR
