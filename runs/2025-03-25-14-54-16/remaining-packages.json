@@ -1286,7 +1286,6 @@
   "mastR": [
     "ExperimentHub"
   ],
-  "meshr": [],
   "metaMS": [],
   "metaseqR2": [
     "EDASeq",
@@ -1436,7 +1435,6 @@
   ],
   "qpgraph": [],
   "qsmooth": [],
-  "qsvaR": [],
   "quantro": [
     "minfi",
     "bumphunter"
@@ -1497,7 +1495,6 @@
   ],
   "scMerge": [],
   "scTensor": [
-    "meshr",
     "GOstats"
   ],
   "scTreeViz": [
