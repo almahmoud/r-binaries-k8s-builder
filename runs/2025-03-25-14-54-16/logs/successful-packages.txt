@@ -2082,3 +2082,7 @@ txcutr
 clipper
 proActiv
 rnaEditr
+consensusDE
+geneAttribution
+mosdef
+SMITE

@@ -99,13 +99,10 @@
     "OrganismDbi"
   ],
   "GeDi": [
-    "GeneTonic",
-    "mosdef"
+    "GeneTonic"
   ],
   "GeneStructureTools": [],
-  "GeneTonic": [
-    "mosdef"
-  ],
+  "GeneTonic": [],
   "GenomicInteractions": [],
   "GenomicOZone": [
     "ggbio",
@@ -208,7 +205,6 @@
     "recount",
     "derfinder"
   ],
-  "SMITE": [],
   "SPLINTER": [],
   "SingleMoleculeFootprinting": [
     "QuasR"
@@ -272,7 +268,6 @@
   "compEpiTools": [
     "methylPipe"
   ],
-  "consensusDE": [],
   "conumee": [
     "minfi"
   ],
@@ -333,7 +328,6 @@
   "funtooNorm": [
     "minfi"
   ],
-  "geneAttribution": [],
   "genoCN": [],
   "geomeTriD": [
     "trackViewer"
@@ -354,9 +348,7 @@
     "minfi",
     "OrganismDbi"
   ],
-  "ideal": [
-    "mosdef"
-  ],
+  "ideal": [],
   "intansv": [
     "ggbio",
     "OrganismDbi"
@@ -393,7 +385,6 @@
     "methylumi",
     "minfi"
   ],
-  "mosdef": [],
   "motifbreakR": [],
   "msgbsR": [
     "ggbio",
@@ -406,9 +397,7 @@
   "panelcn.mops": [
     "cn.mops"
   ],
-  "pcaExplorer": [
-    "mosdef"
-  ],
+  "pcaExplorer": [],
   "primirTSS": [],
   "psichomics": [
     "recount",
