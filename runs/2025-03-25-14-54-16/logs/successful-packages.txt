@@ -2022,3 +2022,4 @@ visiumStitched
 BubbleTree
 crisprScore
 omicRexposome
+ChIPexoQual
