@@ -1926,3 +1926,8 @@ transcriptR
 txdbmaker
 wavClusteR
 xCell2
+ATACseqTFEA
+atSNP
+dagLogo
+enhancerHomologSearch
+pageRank

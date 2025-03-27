@@ -23,12 +23,9 @@
   ],
   "ATACseqQC": [
     "ChIPpeakAnno",
-    "motifStack",
     "ensembldb"
   ],
-  "ATACseqTFEA": [
-    "motifmatchr"
-  ],
+  "ATACseqTFEA": [],
   "AUCell": [],
   "AgiMicroRna": [
     "affycoretools",
@@ -530,7 +527,6 @@
     "trackViewer",
     "ATACseqQC",
     "ChIPpeakAnno",
-    "motifStack",
     "Gviz",
     "txdbmaker",
     "ensembldb",
@@ -896,9 +892,7 @@
     "minfi",
     "bumphunter"
   ],
-  "atSNP": [
-    "motifStack"
-  ],
+  "atSNP": [],
   "atena": [],
   "attract": [
     "GOstats"
@@ -1105,9 +1099,7 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "dagLogo": [
-    "motifStack"
-  ],
+  "dagLogo": [],
   "debrowser": [],
   "decompTumor2Sig": [
     "VariantAnnotation"
@@ -1160,9 +1152,7 @@
     "ExperimentHub"
   ],
   "edge": [],
-  "enhancerHomologSearch": [
-    "motifmatchr"
-  ],
+  "enhancerHomologSearch": [],
   "ensembldb": [],
   "epimutacions": [
     "minfi",
@@ -1177,8 +1167,7 @@
   ],
   "epiregulon": [
     "ExperimentHub",
-    "AUCell",
-    "motifmatchr"
+    "AUCell"
   ],
   "epivizr": [
     "epivizrData",
@@ -1213,8 +1202,7 @@
     "txdbmaker"
   ],
   "esATAC": [
-    "ChIPseeker",
-    "motifmatchr"
+    "ChIPseeker"
   ],
   "escape": [
     "AUCell"
@@ -1435,20 +1423,16 @@
     "VariantAnnotation"
   ],
   "mogsa": [],
-  "monaLisa": [],
   "mosdef": [
     "goseq",
     "txdbmaker"
   ],
-  "motifStack": [],
   "motifbreakR": [
     "VariantAnnotation",
-    "motifStack",
     "Gviz",
     "ensembldb",
     "biovizBase"
   ],
-  "motifmatchr": [],
   "msgbsR": [
     "ggbio",
     "biovizBase",
@@ -1501,9 +1485,7 @@
     "pRoloc",
     "MLInterfaces"
   ],
-  "pageRank": [
-    "motifmatchr"
-  ],
+  "pageRank": [],
   "pairedGSEA": [],
   "panelcn.mops": [
     "cn.mops"
@@ -1591,7 +1573,6 @@
   ],
   "ribosomeProfilingQC": [
     "EDASeq",
-    "motifStack",
     "RUVSeq",
     "txdbmaker"
   ],
@@ -1715,7 +1696,6 @@
   "spatialHeatmap": [],
   "spatzie": [
     "GenomicInteractions",
-    "motifmatchr",
     "Gviz",
     "ensembldb",
     "biovizBase",

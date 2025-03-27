@@ -1744,3 +1744,6 @@ ExpressionAtlas
 hipathia
 meshes
 MetaboAnnotation
+monaLisa
+motifmatchr
+motifStack
