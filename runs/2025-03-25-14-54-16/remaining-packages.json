@@ -28,12 +28,10 @@
     "ChIPpeakAnno",
     "motifStack",
     "GenomicFeatures",
-    "ensembldb",
-    "TFBSTools"
+    "ensembldb"
   ],
   "ATACseqTFEA": [
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "AUCell": [],
   "AgiMicroRna": [
@@ -598,9 +596,7 @@
   "MatrixQCvis": [
     "ExperimentHub"
   ],
-  "MatrixRider": [
-    "TFBSTools"
-  ],
+  "MatrixRider": [],
   "MetaboAnnotation": [],
   "MetaboSignal": [
     "hpar",
@@ -612,8 +608,7 @@
   ],
   "MethReg": [
     "sesame",
-    "ExperimentHub",
-    "TFBSTools"
+    "ExperimentHub"
   ],
   "MethylAid": [
     "minfi",
@@ -656,7 +651,6 @@
     "txdbmaker",
     "ensembldb",
     "biovizBase",
-    "TFBSTools",
     "VariantAnnotation"
   ],
   "NanoMethViz": [],
@@ -904,7 +898,6 @@
   "SARC": [
     "GenomicFeatures"
   ],
-  "SBGNview": [],
   "SCAN.UPC": [],
   "SEtools": [],
   "SGCP": [
@@ -985,7 +978,6 @@
     "sesame",
     "ExperimentHub"
   ],
-  "TFBSTools": [],
   "TFEA.ChIP": [
     "GenomicFeatures"
   ],
@@ -1112,8 +1104,7 @@
     "bumphunter"
   ],
   "atSNP": [
-    "motifStack",
-    "TFBSTools"
+    "motifStack"
   ],
   "atena": [
     "GenomicFeatures"
@@ -1244,9 +1235,7 @@
     "VariantAnnotation"
   ],
   "chopsticks": [],
-  "chromVAR": [
-    "TFBSTools"
-  ],
+  "chromVAR": [],
   "cicero": [
     "Gviz",
     "GenomicFeatures",
@@ -1364,8 +1353,7 @@
   ],
   "cypress": [],
   "dagLogo": [
-    "motifStack",
-    "TFBSTools"
+    "motifStack"
   ],
   "debrowser": [],
   "decompTumor2Sig": [
@@ -1431,8 +1419,7 @@
   ],
   "edge": [],
   "enhancerHomologSearch": [
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "ensembldb": [
     "GenomicFeatures"
@@ -1452,8 +1439,7 @@
   "epiregulon": [
     "ExperimentHub",
     "AUCell",
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "epivizr": [
     "epivizrData",
@@ -1495,7 +1481,6 @@
   "esATAC": [
     "ChIPseeker",
     "GenomicFeatures",
-    "TFBSTools",
     "motifmatchr"
   ],
   "escape": [
@@ -1762,29 +1747,22 @@
     "GenomicFeatures"
   ],
   "mogsa": [],
-  "monaLisa": [
-    "TFBSTools"
-  ],
+  "monaLisa": [],
   "mosdef": [
     "goseq",
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "motifStack": [
-    "TFBSTools"
-  ],
+  "motifStack": [],
   "motifbreakR": [
     "VariantAnnotation",
     "motifStack",
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
-    "biovizBase",
-    "TFBSTools"
+    "biovizBase"
   ],
-  "motifmatchr": [
-    "TFBSTools"
-  ],
+  "motifmatchr": [],
   "msgbsR": [
     "GenomicFeatures",
     "ggbio",
@@ -1846,8 +1824,7 @@
     "MLInterfaces"
   ],
   "pageRank": [
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "pairedGSEA": [],
   "panelcn.mops": [
@@ -1873,7 +1850,6 @@
   ],
   "primirTSS": [
     "Gviz",
-    "TFBSTools",
     "GenomicFeatures",
     "ensembldb",
     "biovizBase",
@@ -1963,8 +1939,7 @@
     "GenomicFeatures",
     "motifStack",
     "RUVSeq",
-    "txdbmaker",
-    "TFBSTools"
+    "txdbmaker"
   ],
   "rnaEditr": [
     "bumphunter",
@@ -2110,7 +2085,6 @@
     "GenomicFeatures",
     "GenomicInteractions",
     "motifmatchr",
-    "TFBSTools",
     "Gviz",
     "ensembldb",
     "biovizBase",
@@ -2200,7 +2174,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "vidger": [],
   "visiumStitched": [
     "ExperimentHub"
   ],

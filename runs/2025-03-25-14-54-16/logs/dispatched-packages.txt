@@ -1870,3 +1870,8 @@ spicyR
 COCOA
 omicRexposome
 mariner
+MatrixRider
+chromVAR
+monaLisa
+motifStack
+motifmatchr

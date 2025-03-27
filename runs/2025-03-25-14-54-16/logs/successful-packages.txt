@@ -1724,3 +1724,6 @@ omicade4
 CexoR
 plotgardener
 LACE
+SBGNview
+TFBSTools
+vidger
