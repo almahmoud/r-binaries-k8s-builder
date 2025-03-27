@@ -48,7 +48,6 @@
   "BBCAnalyzer": [
     "VariantAnnotation"
   ],
-  "BLMA": [],
   "BOBaFIT": [
     "ggbio",
     "biovizBase",
@@ -69,7 +68,6 @@
   "BiGGR": [
     "rsbml"
   ],
-  "BicARE": [],
   "BindingSiteFinder": [],
   "BiocHubsShiny": [
     "ExperimentHub"
@@ -130,9 +128,7 @@
   "CNVrd2": [
     "VariantAnnotation"
   ],
-  "COCOA": [],
   "CRISPRseek": [],
-  "CSSQ": [],
   "CTdata": [
     "ExperimentHub"
   ],
@@ -176,13 +172,11 @@
     "SGSeq"
   ],
   "CleanUpRNAseq": [
-    "ensembldb",
-    "qsmooth"
+    "ensembldb"
   ],
   "CoSIA": [
     "ExperimentHub"
   ],
-  "Cogito": [],
   "CopyNumberPlots": [
     "karyoploteR",
     "VariantAnnotation",
@@ -202,7 +196,6 @@
     "ChIPpeakAnno",
     "ensembldb"
   ],
-  "DESpace": [],
   "DMRcate": [
     "ExperimentHub",
     "minfi",
@@ -214,7 +207,6 @@
     "methylumi",
     "VariantAnnotation"
   ],
-  "DNAfusion": [],
   "DaMiRseq": [
     "EDASeq"
   ],
@@ -395,7 +387,6 @@
     "VariantAnnotation"
   ],
   "HiLDA": [],
-  "HilbertCurve": [],
   "HilbertVis": [],
   "HilbertVisGUI": [
     "HilbertVis"
@@ -434,7 +425,6 @@
     "minfi",
     "bumphunter"
   ],
-  "MAIT": [],
   "MBECS": [],
   "MEAL": [
     "minfi",
@@ -457,8 +447,6 @@
   "MOSClip": [
     "qpgraph"
   ],
-  "MSPrep": [],
-  "MSnID": [],
   "MatrixQCvis": [
     "ExperimentHub"
   ],
@@ -762,7 +750,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "TOP": [],
   "TRESS": [],
   "TVTB": [
     "ensembldb",
@@ -856,7 +843,6 @@
   "bandle": [
     "pRoloc"
   ],
-  "beer": [],
   "benchdamic": [],
   "bigmelon": [
     "wateRmelon",
@@ -889,7 +875,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "bnem": [],
   "bumphunter": [],
   "cBioPortalData": [
     "RTCGAToolbox",
@@ -1281,7 +1266,6 @@
   "mastR": [
     "ExperimentHub"
   ],
-  "metaMS": [],
   "metaseqR2": [
     "EDASeq",
     "txdbmaker"
@@ -1322,9 +1306,7 @@
   "miRLAB": [
     "GOstats"
   ],
-  "miRSM": [
-    "BicARE"
-  ],
+  "miRSM": [],
   "minfi": [
     "bumphunter"
   ],
@@ -1391,7 +1373,6 @@
     "pRoloc"
   ],
   "pageRank": [],
-  "pairedGSEA": [],
   "panelcn.mops": [
     "cn.mops"
   ],
@@ -1428,7 +1409,6 @@
     "VariantAnnotation"
   ],
   "qpgraph": [],
-  "qsmooth": [],
   "quantro": [
     "minfi",
     "bumphunter"
@@ -1487,7 +1467,6 @@
   "scFeatures": [
     "ensembldb"
   ],
-  "scMerge": [],
   "scTensor": [
     "GOstats"
   ],
@@ -1556,8 +1535,7 @@
   "simplifyEnrichment": [],
   "singleCellTK": [
     "ExperimentHub",
-    "ensembldb",
-    "scMerge"
+    "ensembldb"
   ],
   "sitadela": [
     "txdbmaker"
@@ -1572,7 +1550,6 @@
   "spatialFDA": [
     "ExperimentHub"
   ],
-  "spatialHeatmap": [],
   "spatzie": [
     "GenomicInteractions",
     "Gviz",
