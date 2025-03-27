@@ -825,7 +825,6 @@
     "sva"
   ],
   "PPInfer": [],
-  "PREDA": [],
   "PROMISE": [],
   "PRONE": [
     "MSnbase",
@@ -1083,7 +1082,6 @@
   ],
   "SPONGE": [],
   "SWATH2stats": [],
-  "SemDist": [],
   "SeqSQC": [
     "ExperimentHub"
   ],
@@ -1657,7 +1655,6 @@
   "ensembldb": [
     "GenomicFeatures"
   ],
-  "epigraHMM": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -2308,7 +2305,6 @@
   "scRNAseqApp": [
     "slingshot"
   ],
-  "scRepertoire": [],
   "scTGIF": [],
   "scTensor": [
     "Category",

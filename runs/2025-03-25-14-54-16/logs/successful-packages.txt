@@ -1620,3 +1620,7 @@ famat
 microbiomeExplorer
 ProteoMM
 Qtlizer
+epigraHMM
+PREDA
+scRepertoire
+SemDist
