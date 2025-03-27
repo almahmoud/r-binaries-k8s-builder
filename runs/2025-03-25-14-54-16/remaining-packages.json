@@ -138,12 +138,10 @@
     "ensembldb",
     "biovizBase"
   ],
-  "CAMERA": [],
   "CBNplot": [
     "ExperimentHub"
   ],
   "CCPROMISE": [],
-  "CHRONOS": [],
   "CNEr": [],
   "CNVfilteR": [
     "karyoploteR",
@@ -228,7 +226,6 @@
     "SGSeq",
     "GenomicFeatures"
   ],
-  "ClassifyR": [],
   "CleanUpRNAseq": [
     "ensembldb",
     "qsmooth",
@@ -533,9 +530,7 @@
   "INSPEcT": [
     "GenomicFeatures"
   ],
-  "IPO": [
-    "CAMERA"
-  ],
+  "IPO": [],
   "IVAS": [
     "GenomicFeatures"
   ],
@@ -559,9 +554,7 @@
   ],
   "KnowSeq": [],
   "LACE": [],
-  "LOBSTAHS": [
-    "CAMERA"
-  ],
+  "LOBSTAHS": [],
   "LRcell": [
     "ExperimentHub"
   ],
@@ -579,9 +572,7 @@
     "GenomicFeatures",
     "bumphunter"
   ],
-  "MAIT": [
-    "CAMERA"
-  ],
+  "MAIT": [],
   "MBECS": [],
   "MEAL": [
     "minfi",
@@ -736,7 +727,6 @@
   "Pigengene": [
     "ReactomePA"
   ],
-  "Prostar": [],
   "ProteoDisco": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -1021,9 +1011,7 @@
     "GenomicFeatures"
   ],
   "TMSig": [],
-  "TOP": [
-    "ClassifyR"
-  ],
+  "TOP": [],
   "TRESS": [
     "GenomicFeatures"
   ],
@@ -1291,7 +1279,6 @@
     "qpgraph",
     "GenomicFeatures"
   ],
-  "cliqueMS": [],
   "clusterExperiment": [
     "zinbwave"
   ],
@@ -1329,8 +1316,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "cosmiq": [],
-  "countsimQC": [],
   "cpvSNP": [
     "GenomicFeatures"
   ],
@@ -1546,9 +1531,7 @@
     "minfi",
     "bumphunter"
   ],
-  "flagme": [
-    "CAMERA"
-  ],
+  "flagme": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
@@ -1684,8 +1667,7 @@
     "GenomicFeatures"
   ],
   "lisaClust": [
-    "spicyR",
-    "ClassifyR"
+    "spicyR"
   ],
   "lumi": [
     "methylumi",
@@ -1724,9 +1706,7 @@
   ],
   "meshes": [],
   "meshr": [],
-  "metaMS": [
-    "CAMERA"
-  ],
+  "metaMS": [],
   "metaseqR2": [
     "EDASeq",
     "GenomicFeatures",
@@ -1855,7 +1835,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "ncGTW": [],
   "nearBynding": [
     "GenomicFeatures"
   ],
@@ -2160,9 +2139,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "spicyR": [
-    "ClassifyR"
-  ],
+  "spicyR": [],
   "splineTimeR": [],
   "squallms": [],
   "srnadiff": [

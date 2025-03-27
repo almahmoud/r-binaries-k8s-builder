@@ -1706,3 +1706,11 @@ tradeSeq
 XDE
 DSS
 RepViz
+CAMERA
+CHRONOS
+ClassifyR
+cliqueMS
+cosmiq
+countsimQC
+ncGTW
+Prostar
