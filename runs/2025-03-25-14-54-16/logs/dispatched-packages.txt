@@ -2212,3 +2212,6 @@ shinyMethyl
 shinyepico
 IsoformSwitchAnalyzeR
 compEpiTools
+FRASER
+NADfinder
+geomeTriD

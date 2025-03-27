@@ -66,9 +66,7 @@
   "FLAMES": [
     "ggbio"
   ],
-  "FRASER": [
-    "OUTRIDER"
-  ],
+  "FRASER": [],
   "GA4GHshiny": [],
   "GSReg": [],
   "GeDi": [],
@@ -105,11 +103,8 @@
     "methylumi"
   ],
   "Moonlight2R": [],
-  "NADfinder": [
-    "trackViewer"
-  ],
+  "NADfinder": [],
   "ORFik": [],
-  "OUTRIDER": [],
   "PICS": [],
   "PING": [
     "PICS"
@@ -223,9 +218,7 @@
   ],
   "funtooNorm": [],
   "genoCN": [],
-  "geomeTriD": [
-    "trackViewer"
-  ],
+  "geomeTriD": [],
   "ggbio": [],
   "gmapR": [],
   "gpuMagic": [],
@@ -293,7 +286,6 @@
   "spatzie": [
     "GenomicInteractions"
   ],
-  "trackViewer": [],
   "trigger": [],
   "uncoverappLib": [],
   "wateRmelon": [

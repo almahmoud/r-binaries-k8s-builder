@@ -1,2 +1,3 @@
-IsoformSwitchAnalyzeR
-compEpiTools
+FRASER
+NADfinder
+geomeTriD
