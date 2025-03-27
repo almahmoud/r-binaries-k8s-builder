@@ -271,7 +271,6 @@
     "GenomicFeatures",
     "systemPipeR"
   ],
-  "ChIPXpress": [],
   "ChIPexoQual": [
     "biovizBase",
     "GenomicFeatures",
@@ -1750,7 +1749,6 @@
     "zinbwave",
     "genefilter"
   ],
-  "clusterSeq": [],
   "cn.farms": [],
   "cn.mops": [],
   "coMethDMR": [
