@@ -1501,3 +1501,8 @@ scPipe
 screenCounter
 sSNAPPY
 Statial
+CEMiTool
+CONFESS
+dce
+SPIAT
+tigre

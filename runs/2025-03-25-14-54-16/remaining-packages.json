@@ -188,7 +188,6 @@
   "CCPROMISE": [
     "PROMISE"
   ],
-  "CEMiTool": [],
   "CHRONOS": [],
   "CNEr": [],
   "CNTools": [
@@ -222,7 +221,6 @@
     "MIRA",
     "bsseq"
   ],
-  "CONFESS": [],
   "CRISPRseek": [
     "GenomicFeatures"
   ],
@@ -1278,7 +1276,6 @@
     "GenomicFeatures",
     "regioneR"
   ],
-  "SPIAT": [],
   "SPLINTER": [
     "GenomicFeatures",
     "Gviz",
@@ -1894,7 +1891,6 @@
   "dar": [
     "mia"
   ],
-  "dce": [],
   "ddPCRclust": [],
   "debrowser": [
     "sva",
@@ -3003,7 +2999,6 @@
   "tidyomics": [
     "nullranges"
   ],
-  "tigre": [],
   "tilingArray": [
     "genefilter"
   ],
