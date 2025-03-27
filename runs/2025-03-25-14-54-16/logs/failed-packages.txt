@@ -16,3 +16,4 @@ rGADEM
 CellBarcode
 cn.farms
 XNAString
+CNEr
