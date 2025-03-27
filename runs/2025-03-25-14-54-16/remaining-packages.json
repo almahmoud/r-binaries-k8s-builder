@@ -68,7 +68,6 @@
   "RnaSeqSampleSize": [],
   "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [],
-  "VariantFiltering": [],
   "XNAString": [],
   "YAPSA": [
     "SomaticSignatures"
