@@ -1957,3 +1957,8 @@ IMAS
 RUVSeq
 EventPointer
 magpie
+EpiCompare
+Ularcirc
+esATAC
+segmenter
+seqArchRplus

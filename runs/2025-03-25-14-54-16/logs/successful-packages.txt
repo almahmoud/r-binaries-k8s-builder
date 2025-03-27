@@ -1850,3 +1850,6 @@ NanoMethViz
 RgnTX
 SGSeq
 TRESS
+ChIPseeker
+CRISPRseek
+Organism.dplyr

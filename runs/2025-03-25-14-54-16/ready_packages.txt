@@ -1,1 +1,5 @@
-magpie
+EpiCompare
+Ularcirc
+esATAC
+segmenter
+seqArchRplus

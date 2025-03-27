@@ -128,7 +128,6 @@
   "CNVrd2": [
     "VariantAnnotation"
   ],
-  "CRISPRseek": [],
   "CTdata": [
     "ExperimentHub"
   ],
@@ -162,7 +161,6 @@
   "ChIPpeakAnno": [
     "ensembldb"
   ],
-  "ChIPseeker": [],
   "ChIPseqR": [
     "HilbertVis"
   ],
@@ -251,9 +249,7 @@
     "ExperimentHub"
   ],
   "EnrichmentBrowser": [],
-  "EpiCompare": [
-    "ChIPseeker"
-  ],
+  "EpiCompare": [],
   "EpiMix": [
     "ExperimentHub"
   ],
@@ -313,7 +309,6 @@
     "txdbmaker"
   ],
   "GUIDEseq": [
-    "CRISPRseek",
     "ChIPpeakAnno",
     "ensembldb"
   ],
@@ -498,7 +493,6 @@
   "OUTRIDER": [
     "txdbmaker"
   ],
-  "Organism.dplyr": [],
   "OrganismDbi": [
     "txdbmaker"
   ],
@@ -743,9 +737,7 @@
   "UPDhmm": [
     "VariantAnnotation"
   ],
-  "Ularcirc": [
-    "Organism.dplyr"
-  ],
+  "Ularcirc": [],
   "Uniquorn": [
     "VariantAnnotation"
   ],
@@ -1098,9 +1090,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "esATAC": [
-    "ChIPseeker"
-  ],
+  "esATAC": [],
   "escape": [],
   "fCCAC": [],
   "factR": [],
@@ -1314,7 +1304,6 @@
   ],
   "multiGSEA": [],
   "multicrispr": [
-    "CRISPRseek",
     "karyoploteR",
     "biovizBase",
     "VariantAnnotation",
@@ -1371,7 +1360,6 @@
     "txdbmaker"
   ],
   "profileplyr": [
-    "ChIPseeker",
     "rGREAT"
   ],
   "psichomics": [
@@ -1471,13 +1459,9 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "segmenter": [
-    "ChIPseeker"
-  ],
+  "segmenter": [],
   "selectKSigs": [],
-  "seqArchRplus": [
-    "ChIPseeker"
-  ],
+  "seqArchRplus": [],
   "seqCAT": [
     "VariantAnnotation"
   ],
