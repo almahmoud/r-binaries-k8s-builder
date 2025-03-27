@@ -2062,3 +2062,8 @@ tLOH
 canceR
 BindingSiteFinder
 singleCellTK
+coMethDMR
+preciseTAD
+pRolocGUI
+Rqc
+scanMiRApp

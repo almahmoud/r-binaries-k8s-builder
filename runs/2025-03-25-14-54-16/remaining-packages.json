@@ -214,7 +214,6 @@
     "recount",
     "derfinder"
   ],
-  "Rqc": [],
   "SMITE": [],
   "SPLINTER": [],
   "SingleMoleculeFootprinting": [
@@ -280,7 +279,6 @@
   "clipper": [],
   "cn.farms": [],
   "cn.mops": [],
-  "coMethDMR": [],
   "comapr": [],
   "compEpiTools": [
     "methylPipe"
@@ -420,14 +418,12 @@
   "mygene": [],
   "nearBynding": [],
   "octad": [],
-  "pRolocGUI": [],
   "panelcn.mops": [
     "cn.mops"
   ],
   "pcaExplorer": [
     "mosdef"
   ],
-  "preciseTAD": [],
   "primirTSS": [],
   "proActiv": [],
   "proBAMr": [],
@@ -463,7 +459,6 @@
     "epivizrData",
     "OrganismDbi"
   ],
-  "scanMiRApp": [],
   "scone": [],
   "scruff": [
     "ggbio",
