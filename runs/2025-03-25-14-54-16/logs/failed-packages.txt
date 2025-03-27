@@ -18,3 +18,4 @@ cn.farms
 XNAString
 CNEr
 trigger
+gmapR

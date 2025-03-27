@@ -9,7 +9,6 @@
     "Gviz"
   ],
   "ATACseqQC": [],
-  "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
@@ -99,7 +98,6 @@
     "bumphunter",
     "methylumi"
   ],
-  "DaMiRseq": [],
   "Damsel": [
     "ggbio",
     "goseq",
@@ -138,9 +136,7 @@
     "OUTRIDER"
   ],
   "GA4GHshiny": [],
-  "GARS": [
-    "DaMiRseq"
-  ],
+  "GARS": [],
   "GNOSIS": [
     "cBioPortalData"
   ],
@@ -342,7 +338,6 @@
     "Gviz"
   ],
   "TitanCNA": [],
-  "Ularcirc": [],
   "VCFArray": [],
   "VariantFiltering": [
     "Gviz"
