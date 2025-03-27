@@ -1750,3 +1750,8 @@ motifStack
 chromVAR
 CytoMDS
 ontoProc
+AUCell
+Cepo
+ipdDb
+microSTASIS
+partCNV

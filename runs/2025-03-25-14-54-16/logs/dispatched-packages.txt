@@ -1933,3 +1933,6 @@ enhancerHomologSearch
 pageRank
 pogos
 tenXplore
+RcisTarget
+escape
+scClassify

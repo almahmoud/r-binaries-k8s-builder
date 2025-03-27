@@ -26,7 +26,6 @@
     "ensembldb"
   ],
   "ATACseqTFEA": [],
-  "AUCell": [],
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
@@ -149,7 +148,6 @@
     "ExperimentHub"
   ],
   "CellBarcode": [],
-  "Cepo": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -676,9 +674,7 @@
   "RareVariantVis": [
     "VariantAnnotation"
   ],
-  "RcisTarget": [
-    "AUCell"
-  ],
+  "RcisTarget": [],
   "ReactomePA": [],
   "RegEnrich": [],
   "RegionalST": [],
@@ -1164,8 +1160,7 @@
     "txdbmaker"
   ],
   "epiregulon": [
-    "ExperimentHub",
-    "AUCell"
+    "ExperimentHub"
   ],
   "epivizr": [
     "epivizrData",
@@ -1202,9 +1197,7 @@
   "esATAC": [
     "ChIPseeker"
   ],
-  "escape": [
-    "AUCell"
-  ],
+  "escape": [],
   "fCCAC": [],
   "factR": [],
   "fcScan": [
@@ -1310,7 +1303,6 @@
     "txdbmaker"
   ],
   "interactiveDisplay": [],
-  "ipdDb": [],
   "karyoploteR": [
     "biovizBase",
     "VariantAnnotation",
@@ -1407,7 +1399,6 @@
   "miRspongeR": [
     "ReactomePA"
   ],
-  "microSTASIS": [],
   "minfi": [
     "bumphunter"
   ],
@@ -1487,7 +1478,6 @@
   "panelcn.mops": [
     "cn.mops"
   ],
-  "partCNV": [],
   "pathRender": [],
   "pathlinkR": [],
   "pcaExplorer": [
@@ -1589,13 +1579,10 @@
   "scBFA": [
     "zinbwave"
   ],
-  "scClassify": [
-    "Cepo"
-  ],
+  "scClassify": [],
   "scDotPlot": [],
   "scFeatures": [
-    "ensembldb",
-    "AUCell"
+    "ensembldb"
   ],
   "scMerge": [],
   "scTGIF": [],
