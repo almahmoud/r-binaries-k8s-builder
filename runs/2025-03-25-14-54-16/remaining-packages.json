@@ -165,9 +165,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "COCOA": [
-    "MIRA"
-  ],
+  "COCOA": [],
   "CRISPRseek": [
     "GenomicFeatures"
   ],
@@ -595,7 +593,6 @@
   ],
   "MEDIPS": [],
   "MICSQTL": [],
-  "MIRA": [],
   "MLInterfaces": [],
   "MOSClip": [
     "qpgraph",
@@ -1230,7 +1227,6 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "cfDNAPro": [],
   "cfTools": [
     "ExperimentHub"
   ],
