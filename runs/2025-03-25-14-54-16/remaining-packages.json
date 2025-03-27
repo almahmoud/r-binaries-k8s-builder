@@ -155,7 +155,6 @@
   "DegNorm": [
     "txdbmaker"
   ],
-  "DominoEffect": [],
   "DuplexDiscovereR": [
     "Gviz",
     "biovizBase"
@@ -799,7 +798,6 @@
   ],
   "glmSparseNet": [],
   "gmapR": [],
-  "gmoviz": [],
   "goseq": [
     "txdbmaker"
   ],
@@ -1058,7 +1056,6 @@
   "signatureSearch": [],
   "signeR": [],
   "signifinder": [],
-  "simplifyEnrichment": [],
   "singleCellTK": [],
   "sitadela": [
     "txdbmaker"

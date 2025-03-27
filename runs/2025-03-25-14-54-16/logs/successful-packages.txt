@@ -1880,3 +1880,6 @@ GOstats
 pageRank
 ChIPQC
 mogsa
+DominoEffect
+gmoviz
+simplifyEnrichment
