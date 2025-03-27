@@ -1869,3 +1869,8 @@ TCGAutils
 UMI4Cats
 VariantAnnotation
 wavClusteR
+doppelgangR
+ExperimentHub
+MICSQTL
+multiGSEA
+rGREAT
