@@ -305,7 +305,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "ExpressionAtlas": [],
   "FLAMES": [
     "bambu",
     "txdbmaker",
@@ -1282,7 +1281,6 @@
     "VariantAnnotation"
   ],
   "hiReadsProcessor": [],
-  "hipathia": [],
   "hpar": [
     "ExperimentHub"
   ],
@@ -1375,7 +1373,6 @@
   "mastR": [
     "ExperimentHub"
   ],
-  "meshes": [],
   "meshr": [],
   "metaMS": [],
   "metaseqR2": [
