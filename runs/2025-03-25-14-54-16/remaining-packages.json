@@ -800,7 +800,6 @@
     "VariantAnnotation",
     "biovizBase"
   ],
-  "TissueEnrich": [],
   "TitanCNA": [
     "VariantAnnotation"
   ],
@@ -1268,7 +1267,6 @@
     "ExperimentHub"
   ],
   "iSEEpathways": [],
-  "iSEEtree": [],
   "icetea": [
     "VariantAnnotation"
   ],
@@ -1562,7 +1560,6 @@
     "ensembldb"
   ],
   "scMerge": [],
-  "scTGIF": [],
   "scTensor": [
     "meshr",
     "GOstats"
