@@ -82,11 +82,8 @@
   "GNOSIS": [],
   "GSEABenchmarkeR": [],
   "GSReg": [],
-  "GeDi": [
-    "GeneTonic"
-  ],
+  "GeDi": [],
   "GeneStructureTools": [],
-  "GeneTonic": [],
   "GenomicInteractions": [],
   "GenomicOZone": [
     "ggbio"
@@ -118,9 +115,7 @@
     "methylumi",
     "lumi"
   ],
-  "MetaboSignal": [
-    "mygene"
-  ],
+  "MetaboSignal": [],
   "MethReg": [],
   "MethylAid": [
     "minfi"
@@ -200,7 +195,6 @@
     "SomaticSignatures",
     "ggbio"
   ],
-  "a4": [],
   "affycoretools": [
     "ReportingTools",
     "ggbio"
@@ -333,7 +327,6 @@
     "ggbio"
   ],
   "multicrispr": [],
-  "mygene": [],
   "panelcn.mops": [
     "cn.mops"
   ],
