@@ -561,7 +561,6 @@
     "POMA"
   ],
   "PROPS": [],
-  "PanomiR": [],
   "PhyloProfile": [
     "ExperimentHub"
   ],
@@ -886,9 +885,7 @@
     "MLInterfaces"
   ],
   "beer": [],
-  "benchdamic": [
-    "zinbwave"
-  ],
+  "benchdamic": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -993,9 +990,7 @@
   "clipper": [
     "qpgraph"
   ],
-  "clusterExperiment": [
-    "zinbwave"
-  ],
+  "clusterExperiment": [],
   "cn.farms": [],
   "cn.mops": [],
   "coMethDMR": [
@@ -1426,8 +1421,7 @@
   ],
   "nearBynding": [],
   "netSmooth": [
-    "clusterExperiment",
-    "zinbwave"
+    "clusterExperiment"
   ],
   "octad": [
     "RUVSeq",
@@ -1516,7 +1510,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "regioneReloaded": [],
   "regutools": [
     "Gviz",
     "ensembldb",
@@ -1545,9 +1538,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scBFA": [
-    "zinbwave"
-  ],
+  "scBFA": [],
   "scClassify": [],
   "scFeatures": [
     "ensembldb"
@@ -1624,8 +1615,7 @@
   "singleCellTK": [
     "ExperimentHub",
     "ensembldb",
-    "scMerge",
-    "zinbwave"
+    "scMerge"
   ],
   "sitadela": [
     "txdbmaker"
@@ -1741,6 +1731,5 @@
   "zenith": [
     "EnrichmentBrowser",
     "safe"
-  ],
-  "zinbwave": []
+  ]
 }

@@ -1941,3 +1941,6 @@ gINTomics
 miRspongeR
 ADaCGH2
 DESpace
+benchdamic
+clusterExperiment
+scBFA

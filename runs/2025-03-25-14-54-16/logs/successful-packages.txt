@@ -1778,3 +1778,6 @@ muscat
 tilingArray
 IdeoViz
 npGSEA
+PanomiR
+regioneReloaded
+zinbwave
