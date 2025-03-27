@@ -2245,3 +2245,4 @@ YAPSA
 DMRcate
 methylGSA
 scTreeViz
+MEAL
