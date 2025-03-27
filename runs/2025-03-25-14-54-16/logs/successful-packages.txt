@@ -1975,3 +1975,4 @@ SeqSQC
 ATACseqTFEA
 DaMiRseq
 Ularcirc
+CoSIA
