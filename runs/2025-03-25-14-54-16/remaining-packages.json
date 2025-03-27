@@ -35,7 +35,6 @@
     "GenomicScores",
     "motifStack",
     "GenomicFeatures",
-    "regioneR",
     "ensembldb",
     "AnnotationHub",
     "TFBSTools"
@@ -179,7 +178,6 @@
   "CNEr": [],
   "CNTools": [],
   "CNVfilteR": [
-    "regioneR",
     "karyoploteR",
     "CopyNumberPlots",
     "VariantAnnotation",
@@ -191,7 +189,6 @@
   "CNViz": [
     "karyoploteR",
     "CopyNumberPlots",
-    "regioneR",
     "VariantAnnotation",
     "cn.mops",
     "biovizBase",
@@ -223,9 +220,7 @@
   "Category": [],
   "CellBarcode": [],
   "Cepo": [],
-  "CexoR": [
-    "genomation"
-  ],
+  "CexoR": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -256,7 +251,6 @@
   ],
   "ChIPpeakAnno": [
     "GenomicFeatures",
-    "regioneR",
     "ensembldb"
   ],
   "ChIPseeker": [
@@ -290,7 +284,6 @@
   ],
   "CopyNumberPlots": [
     "karyoploteR",
-    "regioneR",
     "VariantAnnotation",
     "cn.mops",
     "biovizBase",
@@ -322,7 +315,6 @@
   "DEScan2": [
     "ChIPpeakAnno",
     "GenomicFeatures",
-    "regioneR",
     "ensembldb"
   ],
   "DESpace": [
@@ -430,7 +422,6 @@
   "EpiCompare": [
     "AnnotationHub",
     "ChIPseeker",
-    "genomation",
     "GenomicFeatures"
   ],
   "EpiMix": [
@@ -537,7 +528,6 @@
     "CRISPRseek",
     "ChIPpeakAnno",
     "GenomicFeatures",
-    "regioneR",
     "ensembldb"
   ],
   "GeDi": [
@@ -593,7 +583,6 @@
   "GenomicPlot": [
     "RCAS",
     "GenomicFeatures",
-    "genomation",
     "txdbmaker"
   ],
   "GenomicScores": [
@@ -837,7 +826,6 @@
     "GenomicFeatures",
     "Gviz",
     "txdbmaker",
-    "regioneR",
     "ensembldb",
     "AnnotationHub",
     "biovizBase",
@@ -969,14 +957,12 @@
   ],
   "RCAS": [
     "GenomicFeatures",
-    "txdbmaker",
-    "genomation"
+    "txdbmaker"
   ],
   "REBET": [],
   "REDseq": [
     "ChIPpeakAnno",
     "GenomicFeatures",
-    "regioneR",
     "ensembldb"
   ],
   "REMP": [
@@ -1081,8 +1067,7 @@
     "txdbmaker"
   ],
   "RgnTX": [
-    "GenomicFeatures",
-    "regioneR"
+    "GenomicFeatures"
   ],
   "Rhisat2": [
     "txdbmaker",
@@ -1163,8 +1148,7 @@
   "SOMNiBUS": [
     "annotatr",
     "AnnotationHub",
-    "GenomicFeatures",
-    "regioneR"
+    "GenomicFeatures"
   ],
   "SPLINTER": [
     "GenomicFeatures",
@@ -1274,7 +1258,6 @@
     "GenomicFeatures"
   ],
   "UMI4Cats": [
-    "regioneR",
     "GenomicFeatures"
   ],
   "UPDhmm": [
@@ -1374,8 +1357,7 @@
   "annmap": [],
   "annotatr": [
     "AnnotationHub",
-    "GenomicFeatures",
-    "regioneR"
+    "GenomicFeatures"
   ],
   "appreci8R": [
     "VariantAnnotation",
@@ -1461,7 +1443,6 @@
     "annotatr",
     "OrganismDbi",
     "GenomicFeatures",
-    "regioneR",
     "txdbmaker"
   ],
   "blacksheepr": [
@@ -1764,8 +1745,7 @@
     "bumphunter",
     "annotatr",
     "AnnotationHub",
-    "GenomicFeatures",
-    "regioneR"
+    "GenomicFeatures"
   ],
   "doppelgangR": [
     "sva"
@@ -1867,9 +1847,7 @@
     "AUCell",
     "GSVA"
   ],
-  "fCCAC": [
-    "genomation"
-  ],
+  "fCCAC": [],
   "factR": [
     "GenomicFeatures"
   ],
@@ -1914,7 +1892,6 @@
     "GenomicFeatures"
   ],
   "genoCN": [],
-  "genomation": [],
   "geomeTriD": [
     "trackViewer",
     "GenomicFeatures",
@@ -2033,7 +2010,6 @@
     "AnnotationHub"
   ],
   "karyoploteR": [
-    "regioneR",
     "biovizBase",
     "GenomicFeatures",
     "VariantAnnotation",
@@ -2117,8 +2093,7 @@
     "AnnotationHub",
     "annotatr",
     "ExperimentHub",
-    "GenomicFeatures",
-    "regioneR"
+    "GenomicFeatures"
   ],
   "methylCC": [
     "minfi",
@@ -2237,7 +2212,6 @@
     "CRISPRseek",
     "GenomicFeatures",
     "karyoploteR",
-    "regioneR",
     "biovizBase",
     "VariantAnnotation",
     "ensembldb"
@@ -2396,7 +2370,6 @@
   "qpgraph": [
     "GenomicFeatures"
   ],
-  "qsea": [],
   "qsmooth": [
     "sva"
   ],
@@ -2445,10 +2418,7 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "regioneR": [],
-  "regioneReloaded": [
-    "regioneR"
-  ],
+  "regioneReloaded": [],
   "regutools": [
     "AnnotationHub",
     "Gviz",
@@ -2539,8 +2509,7 @@
   "scmeth": [
     "AnnotationHub",
     "annotatr",
-    "GenomicFeatures",
-    "regioneR"
+    "GenomicFeatures"
   ],
   "scone": [
     "RUVSeq",
@@ -2779,7 +2748,6 @@
   "vulcan": [
     "ChIPpeakAnno",
     "GenomicFeatures",
-    "regioneR",
     "ensembldb"
   ],
   "wateRmelon": [

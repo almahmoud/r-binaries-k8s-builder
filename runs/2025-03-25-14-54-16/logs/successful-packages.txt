@@ -1576,3 +1576,6 @@ cliProfiler
 gcapc
 SCOPE
 VanillaICE
+genomation
+qsea
+regioneR

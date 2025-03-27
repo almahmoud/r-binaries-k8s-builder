@@ -1761,3 +1761,6 @@ BASiCStan
 MinimumDistance
 cytofQC
 spillR
+CexoR
+fCCAC
+regioneReloaded
