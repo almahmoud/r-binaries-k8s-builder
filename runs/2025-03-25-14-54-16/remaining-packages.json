@@ -1467,7 +1467,6 @@
     "cn.mops"
   ],
   "pathRender": [],
-  "pathlinkR": [],
   "pcaExplorer": [
     "mosdef",
     "GOstats",
@@ -1475,7 +1474,6 @@
     "txdbmaker"
   ],
   "phenoTest": [],
-  "pogos": [],
   "preciseTAD": [
     "rCGH"
   ],
@@ -1656,7 +1654,6 @@
     "bumphunter",
     "lumi"
   ],
-  "slalom": [],
   "spatialFDA": [
     "ExperimentHub"
   ],

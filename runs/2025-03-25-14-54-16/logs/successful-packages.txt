@@ -1760,3 +1760,6 @@ sampleClassifier
 scDotPlot
 CCPROMISE
 ReactomePA
+pathlinkR
+pogos
+slalom
