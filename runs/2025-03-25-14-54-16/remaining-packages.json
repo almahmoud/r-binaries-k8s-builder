@@ -207,9 +207,7 @@
     "methylumi",
     "VariantAnnotation"
   ],
-  "DaMiRseq": [
-    "EDASeq"
-  ],
+  "DaMiRseq": [],
   "Damsel": [
     "ggbio",
     "goseq",
@@ -235,7 +233,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "EDASeq": [],
   "EGSEA": [],
   "ELMER": [
     "Gviz",
@@ -299,8 +296,7 @@
     "VariantAnnotation"
   ],
   "GARS": [
-    "DaMiRseq",
-    "EDASeq"
+    "DaMiRseq"
   ],
   "GNOSIS": [
     "cBioPortalData",
@@ -347,7 +343,6 @@
   "GenomicFiles": [
     "VariantAnnotation"
   ],
-  "GenomicInteractionNodes": [],
   "GenomicInteractions": [
     "Gviz",
     "ensembldb",
@@ -390,12 +385,9 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "IMAS": [
-    "IVAS"
-  ],
+  "IMAS": [],
   "INSPEcT": [],
   "IPO": [],
-  "IVAS": [],
   "IgGeneUsage": [],
   "InPAS": [],
   "IntEREst": [
@@ -623,9 +615,7 @@
   "RTCGAToolbox": [
     "TCGAutils"
   ],
-  "RUVSeq": [
-    "EDASeq"
-  ],
+  "RUVSeq": [],
   "RareVariantVis": [
     "VariantAnnotation"
   ],
@@ -959,7 +949,6 @@
     "VariantAnnotation"
   ],
   "consensusDE": [
-    "EDASeq",
     "ensembldb",
     "RUVSeq"
   ],
@@ -1264,7 +1253,6 @@
     "ExperimentHub"
   ],
   "metaseqR2": [
-    "EDASeq",
     "txdbmaker"
   ],
   "methodical": [
@@ -1357,8 +1345,7 @@
   "netSmooth": [],
   "octad": [
     "RUVSeq",
-    "ExperimentHub",
-    "EDASeq"
+    "ExperimentHub"
   ],
   "omicRexposome": [],
   "openCyto": [],
@@ -1444,7 +1431,6 @@
     "txdbmaker"
   ],
   "ribosomeProfilingQC": [
-    "EDASeq",
     "RUVSeq",
     "txdbmaker"
   ],
@@ -1483,8 +1469,7 @@
     "annotatr"
   ],
   "scone": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "scoreInvHap": [
     "VariantAnnotation"
@@ -1560,8 +1545,7 @@
     "VariantAnnotation"
   ],
   "standR": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "strandCheckR": [],
   "svaNUMT": [
