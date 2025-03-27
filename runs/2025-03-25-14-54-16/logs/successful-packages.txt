@@ -1764,3 +1764,5 @@ pathlinkR
 pogos
 slalom
 rGenomeTracks
+broadSeq
+RegionalST

@@ -673,7 +673,6 @@
   ],
   "RcisTarget": [],
   "RegEnrich": [],
-  "RegionalST": [],
   "ReportingTools": [
     "GOstats",
     "ggbio",
@@ -932,7 +931,6 @@
   "blacksheepr": [],
   "bnbc": [],
   "bnem": [],
-  "broadSeq": [],
   "bumphunter": [],
   "cBioPortalData": [
     "RTCGAToolbox",
