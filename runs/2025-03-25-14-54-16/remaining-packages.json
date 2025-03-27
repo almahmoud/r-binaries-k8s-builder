@@ -925,7 +925,6 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "RTNsurvival": [],
   "RUVSeq": [
     "EDASeq",
     "GenomicFeatures"
@@ -1041,7 +1040,6 @@
     "VariantAnnotation"
   ],
   "SPONGE": [],
-  "SWATH2stats": [],
   "SeqSQC": [
     "ExperimentHub"
   ],
@@ -1657,7 +1655,6 @@
     "txdbmaker"
   ],
   "esATAC": [
-    "pipeFrame",
     "ChIPseeker",
     "GenomicFeatures",
     "TFBSTools",
@@ -2076,9 +2073,7 @@
   "phenoTest": [
     "Category"
   ],
-  "pipeFrame": [],
   "plotgardener": [],
-  "plyinteractions": [],
   "pogos": [
     "ontoProc"
   ],

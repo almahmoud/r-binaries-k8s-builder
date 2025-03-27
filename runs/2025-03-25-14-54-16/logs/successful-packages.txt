@@ -1652,3 +1652,7 @@ soGGi
 BioCor
 GSVA
 RJMCMCNucleosomes
+pipeFrame
+plyinteractions
+RTNsurvival
+SWATH2stats
