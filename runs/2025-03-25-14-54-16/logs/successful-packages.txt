@@ -1886,3 +1886,7 @@ simplifyEnrichment
 atSNP
 openCyto
 scClassify
+GA4GHclient
+RcisTarget
+SARC
+segmenter

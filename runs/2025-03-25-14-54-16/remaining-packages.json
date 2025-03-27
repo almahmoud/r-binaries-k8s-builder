@@ -195,10 +195,7 @@
     "txdbmaker"
   ],
   "FindIT2": [],
-  "GA4GHclient": [],
-  "GA4GHshiny": [
-    "GA4GHclient"
-  ],
+  "GA4GHshiny": [],
   "GARS": [
     "DaMiRseq"
   ],
@@ -428,7 +425,6 @@
   "RTCGAToolbox": [],
   "RUVSeq": [],
   "RareVariantVis": [],
-  "RcisTarget": [],
   "RegEnrich": [],
   "ReportingTools": [
     "ggbio",
@@ -468,7 +464,6 @@
     "biovizBase",
     "GenomicFiles"
   ],
-  "SARC": [],
   "SGCP": [],
   "SMITE": [
     "goseq",
@@ -1035,7 +1030,6 @@
     "biovizBase",
     "OrganismDbi"
   ],
-  "segmenter": [],
   "selectKSigs": [],
   "seqArchRplus": [],
   "seqCAT": [],
