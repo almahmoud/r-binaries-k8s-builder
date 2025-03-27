@@ -1800,3 +1800,12 @@ gINTomics
 HarmonizR
 iSEEpathways
 miRspongeR
+ballgown
+BioNERO
+clusterExperiment
+DExMA
+KnowSeq
+PAA
+PECA
+PROPS
+scBFA
