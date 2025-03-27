@@ -1849,3 +1849,7 @@ qsmooth
 qsvaR
 trigger
 MSnID
+GOstats
+interactiveDisplay
+meshr
+phenoTest

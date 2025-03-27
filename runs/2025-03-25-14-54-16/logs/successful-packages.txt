@@ -1694,3 +1694,7 @@ hiAnnotator
 MSstatsQCgui
 sva
 msmsTests
+annmap
+Category
+condiments
+protGear

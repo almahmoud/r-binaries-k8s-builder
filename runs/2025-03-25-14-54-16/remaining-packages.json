@@ -41,7 +41,6 @@
     "affycoretools",
     "GOstats",
     "ReportingTools",
-    "Category",
     "ggbio",
     "biovizBase",
     "VariantAnnotation",
@@ -184,7 +183,6 @@
     "CTdata",
     "ExperimentHub"
   ],
-  "Category": [],
   "CellBarcode": [],
   "Cepo": [],
   "CexoR": [],
@@ -422,9 +420,7 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "GOstats": [
-    "Category"
-  ],
+  "GOstats": [],
   "GRaNIE": [
     "ensembldb",
     "GenomicFeatures"
@@ -501,7 +497,6 @@
   "GenomicScores": [],
   "GlobalAncova": [],
   "GmicR": [
-    "Category",
     "GOstats"
   ],
   "Guitar": [
@@ -652,7 +647,6 @@
   "MineICA": [
     "GOstats",
     "lumi",
-    "Category",
     "methylumi",
     "GenomicFeatures",
     "minfi",
@@ -877,7 +871,6 @@
   "RegionalST": [],
   "RepViz": [],
   "ReportingTools": [
-    "Category",
     "GOstats",
     "ggbio",
     "biovizBase",
@@ -944,8 +937,7 @@
   "SCAN.UPC": [],
   "SEtools": [],
   "SGCP": [
-    "GOstats",
-    "Category"
+    "GOstats"
   ],
   "SGSeq": [
     "GenomicFeatures"
@@ -1120,7 +1112,6 @@
   "affycoretools": [
     "GOstats",
     "ReportingTools",
-    "Category",
     "ggbio",
     "biovizBase",
     "VariantAnnotation",
@@ -1138,7 +1129,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "annmap": [],
   "annotatr": [
     "GenomicFeatures"
   ],
@@ -1164,8 +1154,7 @@
     "GenomicFeatures"
   ],
   "attract": [
-    "GOstats",
-    "Category"
+    "GOstats"
   ],
   "ballgown": [],
   "bambu": [
@@ -1249,7 +1238,6 @@
     "phenoTest",
     "RTCGAToolbox",
     "TCGAutils",
-    "Category",
     "GenomicFeatures"
   ],
   "cardelino": [
@@ -1260,7 +1248,6 @@
     "GenomicFeatures"
   ],
   "categoryCompare": [
-    "Category",
     "GOstats"
   ],
   "cbaf": [
@@ -1343,7 +1330,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "condiments": [],
   "consensusDE": [
     "EDASeq",
     "ensembldb",
@@ -1676,7 +1662,6 @@
     "goseq",
     "GOstats",
     "GenomicFeatures",
-    "Category",
     "txdbmaker"
   ],
   "idr2d": [],
@@ -1693,9 +1678,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "interactiveDisplay": [
-    "Category"
-  ],
+  "interactiveDisplay": [],
   "ipdDb": [],
   "karyoploteR": [
     "biovizBase",
@@ -1757,9 +1740,7 @@
     "ExperimentHub"
   ],
   "meshes": [],
-  "meshr": [
-    "Category"
-  ],
+  "meshr": [],
   "metaMS": [
     "CAMERA"
   ],
@@ -1812,7 +1793,6 @@
     "bumphunter"
   ],
   "miRLAB": [
-    "Category",
     "GOstats"
   ],
   "miRSM": [
@@ -1943,14 +1923,11 @@
   "pcaExplorer": [
     "mosdef",
     "GOstats",
-    "Category",
     "goseq",
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "phenoTest": [
-    "Category"
-  ],
+  "phenoTest": [],
   "plotgardener": [],
   "pogos": [
     "ontoProc"
@@ -1982,7 +1959,6 @@
     "rGREAT"
   ],
   "projectR": [],
-  "protGear": [],
   "psichomics": [
     "recount",
     "derfinder",
@@ -2092,7 +2068,6 @@
   "scRNAseqApp": [],
   "scTGIF": [],
   "scTensor": [
-    "Category",
     "meshr",
     "GOstats",
     "ReactomePA"
