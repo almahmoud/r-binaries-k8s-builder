@@ -823,7 +823,6 @@
   "POMA": [
     "sva"
   ],
-  "PPInfer": [],
   "PROMISE": [],
   "PRONE": [
     "MSnbase",
@@ -1791,9 +1790,7 @@
   ],
   "gpuMagic": [],
   "graper": [],
-  "gsean": [
-    "PPInfer"
-  ],
+  "gsean": [],
   "gwascat": [
     "GenomicFeatures",
     "VariantAnnotation"
