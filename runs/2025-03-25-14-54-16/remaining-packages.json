@@ -100,7 +100,6 @@
   "BiGGR": [
     "rsbml"
   ],
-  "BiSeq": [],
   "BicARE": [],
   "BindingSiteFinder": [
     "GenomicFeatures"
@@ -767,7 +766,6 @@
   ],
   "NBAMSeq": [],
   "NanoMethViz": [],
-  "NetSAM": [],
   "NoRCE": [
     "GenomicFeatures"
   ],
@@ -969,7 +967,6 @@
     "AUCell"
   ],
   "ReactomePA": [],
-  "ReducedExperiment": [],
   "RegEnrich": [],
   "RegionalST": [],
   "RepViz": [],
@@ -1564,7 +1561,6 @@
     "motifStack",
     "TFBSTools"
   ],
-  "dar": [],
   "ddPCRclust": [],
   "debrowser": [
     "sva"
