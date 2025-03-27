@@ -386,7 +386,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiLDA": [],
   "HilbertVis": [],
   "HilbertVisGUI": [
     "HilbertVis"
@@ -842,7 +841,6 @@
   "bandle": [
     "pRoloc"
   ],
-  "benchdamic": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -1502,9 +1500,7 @@
   "segmenter": [
     "ChIPseeker"
   ],
-  "selectKSigs": [
-    "HiLDA"
-  ],
+  "selectKSigs": [],
   "seqArchRplus": [
     "ChIPseeker"
   ],
