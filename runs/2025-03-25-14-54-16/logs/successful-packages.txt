@@ -1918,3 +1918,5 @@ SOMNiBUS
 fcScan
 MungeSumstats
 OMICsPCA
+diffUTR
+drugTargetInteractions

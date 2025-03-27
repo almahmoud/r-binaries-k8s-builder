@@ -600,7 +600,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "diffUTR": [],
   "dmrseq": [
     "bumphunter"
   ],
@@ -608,7 +607,6 @@
     "zenith",
     "EnrichmentBrowser"
   ],
-  "drugTargetInteractions": [],
   "easier": [],
   "enhancerHomologSearch": [],
   "epimutacions": [
