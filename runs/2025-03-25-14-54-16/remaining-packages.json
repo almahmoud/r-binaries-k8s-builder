@@ -1395,7 +1395,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "VAExprs": [],
   "VCFArray": [
     "VariantAnnotation",
     "GenomicFiles",
@@ -2706,7 +2705,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "roar": [],
   "rsbml": [],
   "safe": [],
   "sampleClassifier": [
