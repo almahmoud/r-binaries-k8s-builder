@@ -1782,3 +1782,4 @@ PanomiR
 regioneReloaded
 zinbwave
 TMSig
+ADaCGH2
