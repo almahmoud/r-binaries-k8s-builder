@@ -386,7 +386,6 @@
     "HilbertVis"
   ],
   "IMAS": [],
-  "INSPEcT": [],
   "IPO": [],
   "IgGeneUsage": [],
   "InPAS": [],
@@ -485,7 +484,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "NanoMethViz": [],
   "NoRCE": [],
   "OGRE": [
     "Gviz",
