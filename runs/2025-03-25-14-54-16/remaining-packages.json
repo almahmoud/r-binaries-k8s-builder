@@ -108,7 +108,6 @@
   "BioNERO": [
     "sva"
   ],
-  "BioTIP": [],
   "BiocHubsShiny": [
     "ExperimentHub"
   ],
@@ -1048,7 +1047,6 @@
   "SGSeq": [
     "GenomicFeatures"
   ],
-  "SIM": [],
   "SMITE": [
     "goseq",
     "GenomicFeatures",
