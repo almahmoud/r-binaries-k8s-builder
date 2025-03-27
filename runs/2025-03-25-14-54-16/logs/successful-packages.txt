@@ -1737,3 +1737,5 @@ InterCellar
 MuData
 singscore
 sparrow
+borealis
+cypress

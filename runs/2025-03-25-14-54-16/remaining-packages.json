@@ -951,7 +951,6 @@
   "blacksheepr": [],
   "bnbc": [],
   "bnem": [],
-  "borealis": [],
   "broadSeq": [],
   "bumphunter": [],
   "cBioPortalData": [
@@ -1109,7 +1108,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "cypress": [],
   "dagLogo": [
     "motifStack"
   ],
