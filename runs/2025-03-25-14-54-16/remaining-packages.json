@@ -282,7 +282,6 @@
   "DNAfusion": [
     "GenomicFeatures"
   ],
-  "DSS": [],
   "DaMiRseq": [
     "EDASeq",
     "GenomicFeatures"
@@ -297,9 +296,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "DeMixT": [
-    "DSS"
-  ],
+  "DeMixT": [],
   "DeepTarget": [
     "ExperimentHub"
   ],
@@ -1203,9 +1200,7 @@
   "blacksheepr": [],
   "bnbc": [],
   "bnem": [],
-  "borealis": [
-    "DSS"
-  ],
+  "borealis": [],
   "broadSeq": [],
   "bumphunter": [
     "GenomicFeatures"
@@ -1681,9 +1676,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "kissDE": [
-    "DSS"
-  ],
+  "kissDE": [],
   "knowYourCG": [
     "ExperimentHub"
   ],
@@ -1736,7 +1729,6 @@
     "CAMERA"
   ],
   "metaseqR2": [
-    "DSS",
     "EDASeq",
     "GenomicFeatures",
     "txdbmaker"
@@ -1765,9 +1757,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "methylSig": [
-    "DSS"
-  ],
+  "methylSig": [],
   "methylclock": [
     "ExperimentHub",
     "minfi",
