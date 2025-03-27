@@ -1,7 +1,6 @@
 {
   "AgiMicroRna": [
-    "affycoretools",
-    "ReportingTools"
+    "affycoretools"
   ],
   "AneuFinder": [],
   "BiGGR": [
@@ -44,17 +43,9 @@
     "PICS"
   ],
   "REBET": [],
-  "ReportingTools": [],
-  "RnaSeqSampleSize": [],
-  "SingleMoleculeFootprinting": [],
-  "SomaticSignatures": [],
   "XNAString": [],
-  "YAPSA": [
-    "SomaticSignatures"
-  ],
-  "affycoretools": [
-    "ReportingTools"
-  ],
+  "YAPSA": [],
+  "affycoretools": [],
   "bandle": [],
   "bigmelon": [],
   "cageminer": [],

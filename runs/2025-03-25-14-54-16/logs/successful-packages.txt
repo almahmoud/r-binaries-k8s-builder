@@ -2220,3 +2220,7 @@ RNAAgeCalc
 RiboProfiling
 wateRmelon
 R3CPET
+ReportingTools
+RnaSeqSampleSize
+SingleMoleculeFootprinting
+SomaticSignatures
