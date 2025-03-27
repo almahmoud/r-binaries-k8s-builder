@@ -865,7 +865,6 @@
     "GenomicFeatures",
     "ensembldb"
   ],
-  "RMassBank": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
