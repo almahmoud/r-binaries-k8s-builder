@@ -2079,3 +2079,6 @@ EpiMix
 metaseqR2
 GenomicPlot
 txcutr
+clipper
+proActiv
+rnaEditr
