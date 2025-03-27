@@ -2214,3 +2214,6 @@ iCheck
 MineICA
 RNAmodR.AlkAnilineSeq
 epivizrChart
+Damsel
+GenomicOZone
+RNAAgeCalc
