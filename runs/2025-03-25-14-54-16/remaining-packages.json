@@ -15,9 +15,7 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "ASSIGN": [
-    "sva"
-  ],
+  "ASSIGN": [],
   "ASpli": [
     "GenomicFeatures",
     "Gviz",
@@ -69,9 +67,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "BERT": [
-    "sva"
-  ],
+  "BERT": [],
   "BLMA": [],
   "BOBaFIT": [
     "ggbio",
@@ -90,9 +86,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "BatchQC": [
-    "sva"
-  ],
+  "BatchQC": [],
   "BgeeCall": [
     "GenomicFeatures",
     "txdbmaker"
@@ -104,9 +98,7 @@
   "BindingSiteFinder": [
     "GenomicFeatures"
   ],
-  "BioNERO": [
-    "sva"
-  ],
+  "BioNERO": [],
   "BiocHubsShiny": [
     "ExperimentHub"
   ],
@@ -199,7 +191,6 @@
   "ChAMP": [
     "minfi",
     "DMRcate",
-    "sva",
     "wateRmelon",
     "goseq",
     "missMethyl",
@@ -243,8 +234,7 @@
   "CleanUpRNAseq": [
     "ensembldb",
     "qsmooth",
-    "GenomicFeatures",
-    "sva"
+    "GenomicFeatures"
   ],
   "CoSIA": [
     "ExperimentHub"
@@ -279,9 +269,7 @@
     "muscat"
   ],
   "DEXSeq": [],
-  "DExMA": [
-    "sva"
-  ],
+  "DExMA": [],
   "DMRcate": [
     "ExperimentHub",
     "minfi",
@@ -300,7 +288,6 @@
   "DSS": [],
   "DaMiRseq": [
     "EDASeq",
-    "sva",
     "GenomicFeatures"
   ],
   "Damsel": [
@@ -314,8 +301,7 @@
     "txdbmaker"
   ],
   "DeMixT": [
-    "DSS",
-    "sva"
+    "DSS"
   ],
   "DeepTarget": [
     "ExperimentHub"
@@ -426,13 +412,10 @@
   "GARS": [
     "DaMiRseq",
     "EDASeq",
-    "sva",
     "GenomicFeatures"
   ],
   "GDCRNATools": [],
-  "GEOexplorer": [
-    "sva"
-  ],
+  "GEOexplorer": [],
   "GNOSIS": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -530,9 +513,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HarmonizR": [
-    "sva"
-  ],
+  "HarmonizR": [],
   "Harshlight": [],
   "HelloRanges": [
     "GenomicFeatures",
@@ -582,15 +563,12 @@
   "InterCellar": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
-    "sva",
     "tximeta",
     "GenomicFeatures",
     "txdbmaker",
     "ensembldb"
   ],
-  "KnowSeq": [
-    "sva"
-  ],
+  "KnowSeq": [],
   "LACE": [],
   "LOBSTAHS": [
     "CAMERA"
@@ -616,9 +594,7 @@
   "MAIT": [
     "CAMERA"
   ],
-  "MBECS": [
-    "sva"
-  ],
+  "MBECS": [],
   "MEAL": [
     "minfi",
     "Gviz",
@@ -628,7 +604,6 @@
     "biovizBase",
     "bumphunter",
     "methylumi",
-    "sva",
     "VariantAnnotation"
   ],
   "MEAT": [
@@ -647,15 +622,12 @@
     "qpgraph",
     "GenomicFeatures"
   ],
-  "MSPrep": [
-    "sva"
-  ],
+  "MSPrep": [],
   "MSnID": [
     "msmsTests"
   ],
   "MatrixQCvis": [
-    "ExperimentHub",
-    "sva"
+    "ExperimentHub"
   ],
   "MatrixRider": [
     "TFBSTools"
@@ -756,9 +728,7 @@
   "OutSplice": [
     "GenomicFeatures"
   ],
-  "PAA": [
-    "sva"
-  ],
+  "PAA": [],
   "PECA": [],
   "PICS": [],
   "PING": [
@@ -769,16 +739,11 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "POMA": [
-    "sva"
-  ],
+  "POMA": [],
   "PRONE": [
-    "POMA",
-    "sva"
+    "POMA"
   ],
-  "PROPS": [
-    "sva"
-  ],
+  "PROPS": [],
   "PanomiR": [],
   "PhyloProfile": [
     "ExperimentHub"
@@ -978,12 +943,8 @@
     "GenomicFeatures"
   ],
   "SBGNview": [],
-  "SCAN.UPC": [
-    "sva"
-  ],
-  "SEtools": [
-    "sva"
-  ],
+  "SCAN.UPC": [],
+  "SEtools": [],
   "SGCP": [
     "GOstats",
     "Category"
@@ -1054,8 +1015,7 @@
   ],
   "TBSignatureProfiler": [
     "ASSIGN",
-    "singscore",
-    "sva"
+    "singscore"
   ],
   "TCGAutils": [
     "GenomicFeatures"
@@ -1119,8 +1079,7 @@
     "GenomicFeatures"
   ],
   "VaSP": [
-    "ballgown",
-    "sva"
+    "ballgown"
   ],
   "VariantAnnotation": [
     "GenomicFeatures"
@@ -1210,9 +1169,7 @@
     "GOstats",
     "Category"
   ],
-  "ballgown": [
-    "sva"
-  ],
+  "ballgown": [],
   "bambu": [
     "GenomicFeatures"
   ],
@@ -1264,12 +1221,8 @@
   "blacksheepr": [
     "DEXSeq"
   ],
-  "bnbc": [
-    "sva"
-  ],
-  "bnem": [
-    "sva"
-  ],
+  "bnbc": [],
+  "bnem": [],
   "borealis": [
     "DSS"
   ],
@@ -1286,7 +1239,6 @@
   "cageminer": [
     "ggbio",
     "BioNERO",
-    "sva",
     "biovizBase",
     "VariantAnnotation",
     "GenomicFeatures",
@@ -1474,9 +1426,7 @@
     "motifStack",
     "TFBSTools"
   ],
-  "debrowser": [
-    "sva"
-  ],
+  "debrowser": [],
   "decompTumor2Sig": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -1523,9 +1473,7 @@
     "annotatr",
     "GenomicFeatures"
   ],
-  "doppelgangR": [
-    "sva"
-  ],
+  "doppelgangR": [],
   "doubletrouble": [
     "GenomicFeatures"
   ],
@@ -1541,9 +1489,7 @@
   "easier": [
     "ExperimentHub"
   ],
-  "edge": [
-    "sva"
-  ],
+  "edge": [],
   "enhancerHomologSearch": [
     "motifmatchr",
     "TFBSTools"
@@ -1968,7 +1914,6 @@
     "GenomicFeatures"
   ],
   "omicRexposome": [
-    "sva",
     "omicade4"
   ],
   "omicade4": [],
@@ -1990,8 +1935,7 @@
     "TFBSTools"
   ],
   "pairedGSEA": [
-    "DEXSeq",
-    "sva"
+    "DEXSeq"
   ],
   "panelcn.mops": [
     "cn.mops"
@@ -2053,12 +1997,8 @@
   "qpgraph": [
     "GenomicFeatures"
   ],
-  "qsmooth": [
-    "sva"
-  ],
-  "qsvaR": [
-    "sva"
-  ],
+  "qsmooth": [],
+  "qsvaR": [],
   "quantro": [
     "minfi",
     "bumphunter",
@@ -2242,7 +2182,6 @@
     "ExperimentHub",
     "ensembldb",
     "scMerge",
-    "sva",
     "zinbwave",
     "GenomicFeatures",
     "M3Drop"
@@ -2296,7 +2235,6 @@
   "strandCheckR": [
     "GenomicFeatures"
   ],
-  "sva": [],
   "svaNUMT": [
     "VariantAnnotation",
     "StructuralVariantAnnotation",
@@ -2343,9 +2281,7 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "trigger": [
-    "sva"
-  ],
+  "trigger": [],
   "txcutr": [
     "GenomicFeatures",
     "txdbmaker"

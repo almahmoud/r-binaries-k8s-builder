@@ -1692,3 +1692,4 @@ NBAMSeq
 arrayQualityMetrics
 hiAnnotator
 MSstatsQCgui
+sva
