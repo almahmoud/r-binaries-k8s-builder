@@ -1934,3 +1934,7 @@ BadRegionFinder
 APAlyzer
 GRaNIE
 transmogR
+BUSpaRse
+scmeth
+SigCheck
+signeR

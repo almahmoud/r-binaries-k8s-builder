@@ -35,7 +35,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "BUSpaRse": [],
   "BgeeCall": [
     "txdbmaker"
   ],
@@ -404,7 +403,6 @@
     "Gviz"
   ],
   "SeqSQC": [],
-  "SigCheck": [],
   "SigsPack": [],
   "SingleMoleculeFootprinting": [
     "QuasR",
@@ -865,7 +863,6 @@
   "scanMiRApp": [
     "txdbmaker"
   ],
-  "scmeth": [],
   "scone": [
     "RUVSeq"
   ],
@@ -887,7 +884,6 @@
     "bumphunter"
   ],
   "signatureSearch": [],
-  "signeR": [],
   "signifinder": [],
   "singleCellTK": [],
   "sitadela": [
