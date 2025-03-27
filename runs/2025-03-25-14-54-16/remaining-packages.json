@@ -1,5 +1,4 @@
 {
-  "ADAMgui": [],
   "ADaCGH2": [
     "tilingArray"
   ],
@@ -1734,13 +1733,11 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "diffHic": [],
   "diffUTR": [
     "DEXSeq",
     "ensembldb",
     "GenomicFeatures"
   ],
-  "dinoR": [],
   "dmrseq": [
     "bumphunter",
     "annotatr",
@@ -2308,7 +2305,6 @@
   "peakPantheR": [
     "MSnbase"
   ],
-  "periodicDNA": [],
   "phenoTest": [
     "Category"
   ],

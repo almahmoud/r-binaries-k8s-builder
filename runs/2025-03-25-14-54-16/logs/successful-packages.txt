@@ -1579,3 +1579,7 @@ VanillaICE
 genomation
 qsea
 regioneR
+ADAMgui
+diffHic
+dinoR
+periodicDNA
