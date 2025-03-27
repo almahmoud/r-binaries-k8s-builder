@@ -362,7 +362,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "RAIDS": [],
   "RCAS": [
     "txdbmaker"
   ],
@@ -465,7 +464,6 @@
     "txdbmaker"
   ],
   "SpliceWiz": [],
-  "StructuralVariantAnnotation": [],
   "TBSignatureProfiler": [
     "ASSIGN"
   ],
@@ -498,7 +496,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "ZygosityPredictor": [],
   "a4": [
     "a4Base"
   ],
@@ -657,7 +654,6 @@
     "minfi",
     "bumphunter"
   ],
-  "deepSNV": [],
   "demuxSNP": [],
   "derfinder": [
     "bumphunter"
@@ -850,9 +846,7 @@
     "minfi",
     "bumphunter"
   ],
-  "mitoClone2": [
-    "deepSNV"
-  ],
+  "mitoClone2": [],
   "mosdef": [
     "goseq",
     "txdbmaker"
@@ -1024,12 +1018,8 @@
   "standR": [
     "RUVSeq"
   ],
-  "svaNUMT": [
-    "StructuralVariantAnnotation"
-  ],
-  "svaRetro": [
-    "StructuralVariantAnnotation"
-  ],
+  "svaNUMT": [],
+  "svaRetro": [],
   "tLOH": [],
   "tadar": [
     "Gviz",

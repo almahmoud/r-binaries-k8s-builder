@@ -1906,3 +1906,7 @@ RTCGAToolbox
 UPDhmm
 RITAN
 VariantTools
+deepSNV
+RAIDS
+StructuralVariantAnnotation
+ZygosityPredictor
