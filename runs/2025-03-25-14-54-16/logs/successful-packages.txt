@@ -1676,3 +1676,8 @@ peakPantheR
 basecallQC
 omXplore
 RMassBank
+CluMSID
+ptairMS
+qPLEXanalyzer
+synapter
+topdownr

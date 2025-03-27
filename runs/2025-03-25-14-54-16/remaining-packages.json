@@ -248,7 +248,6 @@
     "GenomicFeatures",
     "sva"
   ],
-  "CluMSID": [],
   "CoSIA": [
     "ExperimentHub"
   ],
@@ -2080,8 +2079,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "ptairMS": [],
-  "qPLEXanalyzer": [],
   "qpgraph": [
     "GenomicFeatures"
   ],
@@ -2341,7 +2338,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "synapter": [],
   "tLOH": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -2362,7 +2358,6 @@
   ],
   "tidyomics": [],
   "tilingArray": [],
-  "topdownr": [],
   "trackViewer": [
     "GenomicFeatures",
     "Gviz",
