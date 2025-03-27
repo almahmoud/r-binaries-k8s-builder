@@ -48,7 +48,6 @@
   "BBCAnalyzer": [
     "VariantAnnotation"
   ],
-  "BERT": [],
   "BLMA": [],
   "BOBaFIT": [
     "ggbio",
