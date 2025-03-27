@@ -2086,3 +2086,15 @@ consensusDE
 geneAttribution
 mosdef
 SMITE
+crisprDesign
+CTexploreR
+customProDB
+DAMEfinder
+easier
+octad
+OrganismDbi
+recoup
+rgsepd
+ribosomeProfilingQC
+SpliceWiz
+TBSignatureProfiler
