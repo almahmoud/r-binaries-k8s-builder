@@ -1878,3 +1878,5 @@ mariner
 doubletrouble
 GOstats
 pageRank
+ChIPQC
+mogsa

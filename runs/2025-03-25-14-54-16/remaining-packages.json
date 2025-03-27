@@ -106,7 +106,6 @@
     "txdbmaker",
     "biovizBase"
   ],
-  "ChIPQC": [],
   "ChIPexoQual": [
     "biovizBase"
   ],
@@ -907,7 +906,6 @@
   "mitoClone2": [
     "deepSNV"
   ],
-  "mogsa": [],
   "mosdef": [
     "goseq",
     "txdbmaker"
