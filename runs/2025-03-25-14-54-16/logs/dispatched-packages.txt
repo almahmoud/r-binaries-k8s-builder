@@ -2140,3 +2140,4 @@ dmrseq
 minfi
 preciseTAD
 rnaEditr
+crisprDesign

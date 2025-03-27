@@ -30,7 +30,6 @@
     "rsbml"
   ],
   "BindingSiteFinder": [],
-  "BubbleTree": [],
   "CAFE": [
     "ggbio",
     "OrganismDbi"
@@ -372,26 +371,20 @@
   "conumee": [
     "minfi"
   ],
-  "crisprDesign": [
-    "crisprScore"
-  ],
-  "crisprScore": [],
+  "crisprDesign": [],
   "crisprShiny": [
     "crisprDesign",
-    "crisprScore",
     "crisprViz",
     "Gviz"
   ],
   "crisprVerse": [
-    "crisprScore",
     "crisprDesign",
     "crisprViz",
     "Gviz"
   ],
   "crisprViz": [
     "crisprDesign",
-    "Gviz",
-    "crisprScore"
+    "Gviz"
   ],
   "cummeRbund": [
     "Gviz"
@@ -540,7 +533,6 @@
   "mygene": [],
   "nearBynding": [],
   "octad": [],
-  "omicRexposome": [],
   "orthos": [],
   "pRolocGUI": [],
   "panelcn.mops": [

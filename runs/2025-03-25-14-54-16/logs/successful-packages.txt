@@ -2019,3 +2019,6 @@ svaRetro
 transcriptR
 VCFArray
 visiumStitched
+BubbleTree
+crisprScore
+omicRexposome
