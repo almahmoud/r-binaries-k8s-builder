@@ -1748,3 +1748,5 @@ monaLisa
 motifmatchr
 motifStack
 chromVAR
+CytoMDS
+ontoProc

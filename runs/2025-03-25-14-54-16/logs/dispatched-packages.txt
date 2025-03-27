@@ -1931,3 +1931,5 @@ atSNP
 dagLogo
 enhancerHomologSearch
 pageRank
+pogos
+tenXplore

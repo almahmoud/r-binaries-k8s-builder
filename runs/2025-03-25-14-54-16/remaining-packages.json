@@ -200,7 +200,6 @@
     "ensembldb"
   ],
   "CytoGLMM": [],
-  "CytoMDS": [],
   "CytoML": [
     "openCyto"
   ],
@@ -1471,7 +1470,6 @@
     "EDASeq"
   ],
   "omicRexposome": [],
-  "ontoProc": [],
   "openCyto": [],
   "oppar": [],
   "orthos": [
@@ -1499,9 +1497,7 @@
     "txdbmaker"
   ],
   "phenoTest": [],
-  "pogos": [
-    "ontoProc"
-  ],
+  "pogos": [],
   "preciseTAD": [
     "rCGH"
   ],
@@ -1730,9 +1726,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "tenXplore": [
-    "ontoProc"
-  ],
+  "tenXplore": [],
   "terraTCGAdata": [
     "TCGAutils"
   ],
