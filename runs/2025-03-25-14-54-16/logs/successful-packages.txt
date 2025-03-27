@@ -2177,3 +2177,17 @@ erma
 primirTSS
 RiboCrypt
 TFHAZ
+AHMassBank
+CircSeqAlignTk
+crisprViz
+dreamlet
+ExperimentHubData
+ggbio
+IsoformSwitchAnalyzeR
+mCSEA
+MethReg
+Moonlight2R
+QuasR
+recount
+regionReport
+uncoverappLib

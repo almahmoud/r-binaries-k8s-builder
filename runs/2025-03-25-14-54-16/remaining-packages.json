@@ -1,20 +1,14 @@
 {
-  "AHMassBank": [],
   "AgiMicroRna": [
     "affycoretools",
-    "ReportingTools",
-    "ggbio"
+    "ReportingTools"
   ],
   "AneuFinder": [],
-  "BOBaFIT": [
-    "ggbio"
-  ],
+  "BOBaFIT": [],
   "BiGGR": [
     "rsbml"
   ],
-  "CAFE": [
-    "ggbio"
-  ],
+  "CAFE": [],
   "CAGEfightR": [],
   "CAGEr": [
     "CAGEfightR"
@@ -37,7 +31,6 @@
   "ChIPseqR": [
     "HilbertVis"
   ],
-  "CircSeqAlignTk": [],
   "CopyNumberPlots": [
     "cn.mops"
   ],
@@ -45,25 +38,17 @@
   "DMRcate": [
     "missMethyl"
   ],
-  "Damsel": [
-    "ggbio"
-  ],
+  "Damsel": [],
   "EpiCompare": [],
-  "ExperimentHubData": [],
-  "FLAMES": [
-    "ggbio"
-  ],
+  "FLAMES": [],
   "FRASER": [],
-  "GenomicOZone": [
-    "ggbio"
-  ],
+  "GenomicOZone": [],
   "Harshlight": [],
   "HiCDCPlus": [],
   "HilbertVis": [],
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "IsoformSwitchAnalyzeR": [],
   "MAGAR": [
     "RnBeads"
   ],
@@ -73,50 +58,31 @@
   "MEAT": [
     "wateRmelon"
   ],
-  "MethReg": [],
   "MineICA": [],
-  "Moonlight2R": [],
   "NADfinder": [],
   "PICS": [],
   "PING": [
     "PICS"
   ],
-  "QuasR": [],
-  "R3CPET": [
-    "ggbio"
-  ],
+  "R3CPET": [],
   "REBET": [],
-  "RNAAgeCalc": [
-    "recount"
-  ],
+  "RNAAgeCalc": [],
   "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
-  "ReportingTools": [
-    "ggbio"
-  ],
-  "RiboProfiling": [
-    "ggbio"
-  ],
+  "ReportingTools": [],
+  "RiboProfiling": [],
   "RnBeads": [],
-  "RnaSeqSampleSize": [
-    "recount"
-  ],
-  "SingleMoleculeFootprinting": [
-    "QuasR"
-  ],
-  "SomaticSignatures": [
-    "ggbio"
-  ],
+  "RnaSeqSampleSize": [],
+  "SingleMoleculeFootprinting": [],
+  "SomaticSignatures": [],
   "VariantFiltering": [],
   "XNAString": [],
   "YAPSA": [
-    "SomaticSignatures",
-    "ggbio"
+    "SomaticSignatures"
   ],
   "affycoretools": [
-    "ReportingTools",
-    "ggbio"
+    "ReportingTools"
   ],
   "appreci8R": [],
   "arrayMvout": [],
@@ -125,25 +91,15 @@
     "wateRmelon"
   ],
   "biscuiteer": [],
-  "cageminer": [
-    "ggbio"
-  ],
+  "cageminer": [],
   "chopsticks": [],
   "cisPath": [],
   "cn.farms": [],
   "cn.mops": [],
   "compEpiTools": [],
-  "crisprShiny": [
-    "crisprViz"
-  ],
-  "crisprVerse": [
-    "crisprViz"
-  ],
-  "crisprViz": [],
-  "derfinderPlot": [
-    "ggbio"
-  ],
-  "dreamlet": [],
+  "crisprShiny": [],
+  "crisprVerse": [],
+  "derfinderPlot": [],
   "epivizr": [],
   "epivizrChart": [],
   "epivizrStandalone": [
@@ -152,47 +108,32 @@
   "ffpe": [],
   "genoCN": [],
   "geomeTriD": [],
-  "ggbio": [],
   "gmapR": [],
   "gpuMagic": [],
   "graper": [],
   "hypeR": [],
   "iCheck": [],
-  "intansv": [
-    "ggbio"
-  ],
-  "mCSEA": [],
+  "intansv": [],
   "methylGSA": [
     "missMethyl"
   ],
-  "methylclock": [
-    "ExperimentHubData"
-  ],
+  "methylclock": [],
   "missMethyl": [],
-  "msgbsR": [
-    "ggbio"
-  ],
+  "msgbsR": [],
   "panelcn.mops": [
     "cn.mops"
   ],
-  "psichomics": [
-    "recount"
-  ],
+  "psichomics": [],
   "rGADEM": [],
-  "recount": [],
-  "regionReport": [],
   "rsbml": [],
   "scTreeViz": [
     "epivizr"
   ],
-  "scruff": [
-    "ggbio"
-  ],
+  "scruff": [],
   "skewr": [
     "wateRmelon"
   ],
   "spatzie": [],
   "trigger": [],
-  "uncoverappLib": [],
   "wateRmelon": []
 }
