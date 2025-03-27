@@ -8,9 +8,7 @@
   "ASpli": [
     "Gviz"
   ],
-  "ATACseqQC": [
-    "ChIPpeakAnno"
-  ],
+  "ATACseqQC": [],
   "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
@@ -76,7 +74,6 @@
     "lumi"
   ],
   "ChIPexoQual": [],
-  "ChIPpeakAnno": [],
   "ChIPseqR": [
     "HilbertVis"
   ],
@@ -94,9 +91,7 @@
   "DAMEfinder": [
     "bumphunter"
   ],
-  "DEScan2": [
-    "ChIPpeakAnno"
-  ],
+  "DEScan2": [],
   "DMRcate": [
     "minfi",
     "missMethyl",
@@ -156,9 +151,7 @@
   "GSReg": [
     "OrganismDbi"
   ],
-  "GUIDEseq": [
-    "ChIPpeakAnno"
-  ],
+  "GUIDEseq": [],
   "GeDi": [
     "GeneTonic",
     "mosdef",
@@ -244,7 +237,6 @@
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
-    "ChIPpeakAnno",
     "Gviz"
   ],
   "OGRE": [
@@ -271,9 +263,7 @@
   ],
   "RCAS": [],
   "REBET": [],
-  "REDseq": [
-    "ChIPpeakAnno"
-  ],
+  "REDseq": [],
   "REMP": [
     "minfi",
     "bumphunter"
@@ -782,9 +772,7 @@
   "visiumStitched": [],
   "vissE": [],
   "vtpnet": [],
-  "vulcan": [
-    "ChIPpeakAnno"
-  ],
+  "vulcan": [],
   "wateRmelon": [
     "methylumi",
     "lumi",
