@@ -1755,3 +1755,5 @@ Cepo
 ipdDb
 microSTASIS
 partCNV
+kissDE
+sampleClassifier
