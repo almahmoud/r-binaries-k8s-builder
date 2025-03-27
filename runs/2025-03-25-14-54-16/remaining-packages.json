@@ -1396,16 +1396,13 @@
   ],
   "airpart": [],
   "alabaster": [
-    "alabaster.spatial",
     "alabaster.vcf",
     "VariantAnnotation",
     "GenomicFeatures"
   ],
   "alabaster.sfe": [
-    "SpatialFeatureExperiment",
-    "alabaster.spatial"
+    "SpatialFeatureExperiment"
   ],
-  "alabaster.spatial": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -2033,7 +2030,6 @@
     "AnnotationHub"
   ],
   "hypeR": [],
-  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi",
@@ -2792,7 +2788,6 @@
     "nullranges"
   ],
   "tilingArray": [],
-  "tomoda": [],
   "topdownr": [
     "MSnbase"
   ],

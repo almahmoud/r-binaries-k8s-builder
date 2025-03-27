@@ -1535,3 +1535,6 @@ genefilter
 girafe
 bsseq
 miRNAmeConverter
+alabaster.spatial
+iCNV
+tomoda
