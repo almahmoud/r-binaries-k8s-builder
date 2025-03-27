@@ -1631,3 +1631,6 @@ PPInfer
 AGDEX
 puma
 VarCon
+Banksy
+PROMISE
+tRNAscanImport
