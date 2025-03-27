@@ -1901,3 +1901,6 @@ SNPhood
 ProteoDisco
 PureCN
 Uniquorn
+RareVariantVis
+RTCGAToolbox
+UPDhmm

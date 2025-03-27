@@ -198,8 +198,7 @@
     "DaMiRseq"
   ],
   "GNOSIS": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "GRaNIE": [],
   "GSEABenchmarkeR": [
@@ -405,9 +404,7 @@
     "biovizBase",
     "txdbmaker"
   ],
-  "RTCGAToolbox": [],
   "RUVSeq": [],
-  "RareVariantVis": [],
   "RegEnrich": [],
   "ReportingTools": [
     "ggbio",
@@ -487,7 +484,6 @@
     "biovizBase"
   ],
   "TitanCNA": [],
-  "UPDhmm": [],
   "Ularcirc": [],
   "VCFArray": [],
   "VaSP": [],
@@ -545,8 +541,7 @@
     "lumi"
   ],
   "bioCancer": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "biomvRCNS": [
     "Gviz",
@@ -560,9 +555,7 @@
     "txdbmaker"
   ],
   "bumphunter": [],
-  "cBioPortalData": [
-    "RTCGAToolbox"
-  ],
+  "cBioPortalData": [],
   "cageminer": [
     "ggbio",
     "biovizBase",
@@ -570,14 +563,12 @@
     "txdbmaker"
   ],
   "canceR": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "cardelino": [],
   "categoryCompare": [],
   "cbaf": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "cfTools": [],
   "cghMCR": [],
