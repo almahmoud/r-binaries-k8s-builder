@@ -116,7 +116,6 @@
   "CBNplot": [
     "ExperimentHub"
   ],
-  "CCPROMISE": [],
   "CNEr": [],
   "CNVfilteR": [
     "karyoploteR",
@@ -573,9 +572,7 @@
   "PhyloProfile": [
     "ExperimentHub"
   ],
-  "Pigengene": [
-    "ReactomePA"
-  ],
+  "Pigengene": [],
   "ProteoDisco": [
     "VariantAnnotation"
   ],
@@ -675,7 +672,6 @@
     "VariantAnnotation"
   ],
   "RcisTarget": [],
-  "ReactomePA": [],
   "RegEnrich": [],
   "RegionalST": [],
   "ReportingTools": [
@@ -911,7 +907,6 @@
   ],
   "bioCancer": [
     "cBioPortalData",
-    "ReactomePA",
     "RTCGAToolbox",
     "TCGAutils"
   ],
@@ -1218,9 +1213,7 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "gINTomics": [
-    "ReactomePA"
-  ],
+  "gINTomics": [],
   "gatom": [],
   "geneAttribution": [],
   "genoCN": [],
@@ -1274,7 +1267,6 @@
     "minfi",
     "OrganismDbi",
     "bumphunter",
-    "ReactomePA",
     "txdbmaker"
   ],
   "iSEEhub": [
@@ -1392,12 +1384,9 @@
     "GOstats"
   ],
   "miRSM": [
-    "BicARE",
-    "ReactomePA"
+    "BicARE"
   ],
-  "miRspongeR": [
-    "ReactomePA"
-  ],
+  "miRspongeR": [],
   "minfi": [
     "bumphunter"
   ],
@@ -1585,8 +1574,7 @@
   "scTGIF": [],
   "scTensor": [
     "meshr",
-    "GOstats",
-    "ReactomePA"
+    "GOstats"
   ],
   "scTreeViz": [
     "epivizr",

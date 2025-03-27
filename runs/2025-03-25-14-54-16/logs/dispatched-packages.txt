@@ -1936,3 +1936,6 @@ tenXplore
 RcisTarget
 escape
 scClassify
+Pigengene
+gINTomics
+miRspongeR

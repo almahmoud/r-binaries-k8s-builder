@@ -1758,3 +1758,5 @@ partCNV
 kissDE
 sampleClassifier
 scDotPlot
+CCPROMISE
+ReactomePA
