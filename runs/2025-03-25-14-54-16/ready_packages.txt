@@ -1,4 +1,3 @@
-GOstats
-interactiveDisplay
-meshr
-phenoTest
+blacksheepr
+pairedGSEA
+scMerge

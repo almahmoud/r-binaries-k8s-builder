@@ -266,7 +266,6 @@
   "DESpace": [
     "muscat"
   ],
-  "DEXSeq": [],
   "DExMA": [],
   "DMRcate": [
     "ExperimentHub",
@@ -552,12 +551,10 @@
     "GenomicFiles",
     "GenomicFeatures",
     "txdbmaker",
-    "DEXSeq",
     "VariantAnnotation"
   ],
   "InterCellar": [],
   "IsoformSwitchAnalyzeR": [
-    "DEXSeq",
     "tximeta",
     "GenomicFeatures",
     "txdbmaker",
@@ -571,7 +568,6 @@
   "LRcell": [
     "ExperimentHub"
   ],
-  "M3Drop": [],
   "MACSr": [
     "ExperimentHub"
   ],
@@ -1086,7 +1082,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "XDE": [],
   "XNAString": [],
   "YAPSA": [
     "SomaticSignatures",
@@ -1205,9 +1200,7 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "blacksheepr": [
-    "DEXSeq"
-  ],
+  "blacksheepr": [],
   "bnbc": [],
   "bnem": [],
   "borealis": [
@@ -1448,7 +1441,6 @@
     "txdbmaker"
   ],
   "diffUTR": [
-    "DEXSeq",
     "ensembldb",
     "GenomicFeatures"
   ],
@@ -1664,7 +1656,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "idr2d": [],
   "igvR": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -1911,9 +1902,7 @@
     "motifmatchr",
     "TFBSTools"
   ],
-  "pairedGSEA": [
-    "DEXSeq"
-  ],
+  "pairedGSEA": [],
   "panelcn.mops": [
     "cn.mops"
   ],
@@ -2042,7 +2031,6 @@
   "saseR": [
     "ASpli",
     "GenomicFeatures",
-    "DEXSeq",
     "Gviz",
     "txdbmaker",
     "ensembldb",
@@ -2062,10 +2050,7 @@
     "AUCell",
     "GenomicFeatures"
   ],
-  "scMerge": [
-    "M3Drop"
-  ],
-  "scRNAseqApp": [],
+  "scMerge": [],
   "scTGIF": [],
   "scTensor": [
     "meshr",
@@ -2155,8 +2140,7 @@
     "ensembldb",
     "scMerge",
     "zinbwave",
-    "GenomicFeatures",
-    "M3Drop"
+    "GenomicFeatures"
   ],
   "singscore": [],
   "sitadela": [
@@ -2245,7 +2229,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tradeSeq": [],
   "transcriptR": [
     "GenomicFeatures"
   ],

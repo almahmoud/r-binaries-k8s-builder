@@ -1698,3 +1698,9 @@ annmap
 Category
 condiments
 protGear
+DEXSeq
+idr2d
+M3Drop
+scRNAseqApp
+tradeSeq
+XDE
