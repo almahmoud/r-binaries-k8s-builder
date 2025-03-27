@@ -2034,3 +2034,4 @@ orthos
 scTensor
 sesame
 vtpnet
+tidyomics
