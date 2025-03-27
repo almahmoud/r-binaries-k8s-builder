@@ -1669,3 +1669,5 @@ slingshot
 DEP
 msmsEDA
 MSstatsQC
+crisprBwa
+PrInCE
