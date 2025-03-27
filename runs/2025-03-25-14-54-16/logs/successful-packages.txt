@@ -1774,3 +1774,5 @@ ORFhunteR
 iSEEtree
 scTGIF
 TissueEnrich
+muscat
+tilingArray

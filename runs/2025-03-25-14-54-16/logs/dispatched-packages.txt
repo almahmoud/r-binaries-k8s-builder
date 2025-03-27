@@ -1939,3 +1939,5 @@ scClassify
 Pigengene
 gINTomics
 miRspongeR
+ADaCGH2
+DESpace

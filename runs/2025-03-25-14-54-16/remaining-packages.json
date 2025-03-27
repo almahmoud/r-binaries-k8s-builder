@@ -1,7 +1,5 @@
 {
-  "ADaCGH2": [
-    "tilingArray"
-  ],
+  "ADaCGH2": [],
   "AHMassBank": [
     "AnnotationHubData",
     "OrganismDbi",
@@ -208,9 +206,7 @@
     "ChIPpeakAnno",
     "ensembldb"
   ],
-  "DESpace": [
-    "muscat"
-  ],
+  "DESpace": [],
   "DExMA": [],
   "DMRcate": [
     "ExperimentHub",
@@ -1419,7 +1415,6 @@
     "VariantAnnotation",
     "ensembldb"
   ],
-  "muscat": [],
   "musicatk": [
     "VariantAnnotation",
     "decompTumor2Sig"
@@ -1689,7 +1684,6 @@
     "TCGAutils"
   ],
   "tidyomics": [],
-  "tilingArray": [],
   "trackViewer": [
     "Gviz",
     "txdbmaker",
