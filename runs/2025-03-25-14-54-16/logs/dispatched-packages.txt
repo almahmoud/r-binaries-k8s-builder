@@ -1925,3 +1925,4 @@ strandCheckR
 transcriptR
 txdbmaker
 wavClusteR
+xCell2

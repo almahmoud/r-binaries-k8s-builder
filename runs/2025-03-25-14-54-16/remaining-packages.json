@@ -439,7 +439,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "InterCellar": [],
   "IsoformSwitchAnalyzeR": [
     "tximeta",
     "txdbmaker",
@@ -524,7 +523,6 @@
   "MsDataHub": [
     "ExperimentHub"
   ],
-  "MuData": [],
   "MungeSumstats": [
     "VariantAnnotation"
   ],
@@ -796,8 +794,7 @@
   "SurfR": [],
   "TAPseq": [],
   "TBSignatureProfiler": [
-    "ASSIGN",
-    "singscore"
+    "ASSIGN"
   ],
   "TCGAutils": [],
   "TENET": [
@@ -1708,7 +1705,6 @@
     "scMerge",
     "zinbwave"
   ],
-  "singscore": [],
   "sitadela": [
     "txdbmaker"
   ],
@@ -1821,9 +1817,7 @@
   ],
   "wavClusteR": [],
   "webbioc": [],
-  "xCell2": [
-    "singscore"
-  ],
+  "xCell2": [],
   "yarn": [
     "quantro",
     "minfi",

@@ -1733,3 +1733,6 @@ GenomicFeatures
 methylSig
 projectR
 SPONGE
+InterCellar
+MuData
+singscore
