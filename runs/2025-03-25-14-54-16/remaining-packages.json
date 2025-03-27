@@ -4,11 +4,9 @@
     "ReportingTools"
   ],
   "AneuFinder": [],
-  "BOBaFIT": [],
   "BiGGR": [
     "rsbml"
   ],
-  "CAFE": [],
   "CAGEr": [],
   "CNEr": [],
   "CNVfilteR": [
@@ -46,7 +44,6 @@
   "MEAT": [
     "wateRmelon"
   ],
-  "MineICA": [],
   "PICS": [],
   "PING": [
     "PICS"
@@ -54,7 +51,6 @@
   "R3CPET": [],
   "REBET": [],
   "RNAAgeCalc": [],
-  "RNAmodR.AlkAnilineSeq": [],
   "ReportingTools": [],
   "RiboProfiling": [],
   "RnaSeqSampleSize": [],
@@ -67,7 +63,6 @@
   "affycoretools": [
     "ReportingTools"
   ],
-  "arrayMvout": [],
   "bandle": [],
   "bigmelon": [
     "wateRmelon"
@@ -80,18 +75,13 @@
   "crisprShiny": [],
   "crisprVerse": [],
   "derfinderPlot": [],
-  "epivizr": [],
   "epivizrChart": [],
-  "epivizrStandalone": [
-    "epivizr"
-  ],
-  "ffpe": [],
+  "epivizrStandalone": [],
   "genoCN": [],
   "gmapR": [],
   "gpuMagic": [],
   "graper": [],
   "hypeR": [],
-  "iCheck": [],
   "intansv": [],
   "methylGSA": [],
   "methylclock": [],
@@ -102,9 +92,7 @@
   "psichomics": [],
   "rGADEM": [],
   "rsbml": [],
-  "scTreeViz": [
-    "epivizr"
-  ],
+  "scTreeViz": [],
   "scruff": [],
   "skewr": [
     "wateRmelon"
