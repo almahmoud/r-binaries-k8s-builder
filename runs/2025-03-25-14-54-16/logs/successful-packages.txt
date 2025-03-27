@@ -1527,3 +1527,6 @@ limpca
 transformGamPoi
 roar
 VAExprs
+anota2seq
+normr
+omicsViewer

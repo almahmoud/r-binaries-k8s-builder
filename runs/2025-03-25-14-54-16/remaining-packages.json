@@ -1496,7 +1496,6 @@
     "GenomicFeatures",
     "regioneR"
   ],
-  "anota2seq": [],
   "appreci8R": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -2481,7 +2480,6 @@
     "zinbwave",
     "genefilter"
   ],
-  "normr": [],
   "npGSEA": [],
   "nucleR": [],
   "nullranges": [],
@@ -2502,7 +2500,6 @@
     "genefilter"
   ],
   "omicade4": [],
-  "omicsViewer": [],
   "ontoProc": [
     "AnnotationHub"
   ],
