@@ -696,7 +696,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "MiRaGE": [],
   "MineICA": [
     "GOstats",
     "lumi",
