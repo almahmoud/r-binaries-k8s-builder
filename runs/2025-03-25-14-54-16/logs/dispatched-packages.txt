@@ -1816,3 +1816,8 @@ tradeSeq
 MSstatsQCgui
 msmsTests
 cghMCR
+CAMERA
+cliqueMS
+cosmiq
+ncGTW
+squallms

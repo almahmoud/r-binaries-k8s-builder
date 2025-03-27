@@ -147,9 +147,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "CAMERA": [
-    "xcms"
-  ],
+  "CAMERA": [],
   "CBNplot": [
     "ExperimentHub"
   ],
@@ -567,7 +565,6 @@
     "GenomicFeatures"
   ],
   "IPO": [
-    "xcms",
     "CAMERA"
   ],
   "IVAS": [
@@ -599,7 +596,6 @@
   ],
   "LACE": [],
   "LOBSTAHS": [
-    "xcms",
     "CAMERA"
   ],
   "LRcell": [
@@ -621,8 +617,7 @@
     "bumphunter"
   ],
   "MAIT": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "MBECS": [
     "sva"
@@ -669,7 +664,6 @@
   "MatrixRider": [
     "TFBSTools"
   ],
-  "MetaPhOR": [],
   "MetaboAnnotation": [],
   "MetaboSignal": [
     "hpar",
@@ -1384,9 +1378,7 @@
     "qpgraph",
     "GenomicFeatures"
   ],
-  "cliqueMS": [
-    "xcms"
-  ],
+  "cliqueMS": [],
   "clusterExperiment": [
     "zinbwave"
   ],
@@ -1425,9 +1417,7 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "cosmiq": [
-    "xcms"
-  ],
+  "cosmiq": [],
   "countsimQC": [],
   "covRNA": [],
   "cpvSNP": [
@@ -1653,7 +1643,6 @@
     "bumphunter"
   ],
   "flagme": [
-    "xcms",
     "CAMERA"
   ],
   "funtooNorm": [
@@ -1843,8 +1832,7 @@
     "Category"
   ],
   "metaMS": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "metaseqR2": [
     "DSS",
@@ -1979,9 +1967,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "ncGTW": [
-    "xcms"
-  ],
+  "ncGTW": [],
   "nearBynding": [
     "GenomicFeatures"
   ],
@@ -2309,9 +2295,7 @@
     "ClassifyR"
   ],
   "splineTimeR": [],
-  "squallms": [
-    "xcms"
-  ],
+  "squallms": [],
   "srnadiff": [
     "GenomicFeatures",
     "Gviz",
@@ -2429,7 +2413,6 @@
   "xCell2": [
     "singscore"
   ],
-  "xcms": [],
   "yarn": [
     "quantro",
     "minfi",
