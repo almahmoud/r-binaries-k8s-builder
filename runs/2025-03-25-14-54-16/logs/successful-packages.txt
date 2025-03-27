@@ -1530,3 +1530,6 @@ VAExprs
 anota2seq
 normr
 omicsViewer
+funOmics
+genefilter
+girafe
