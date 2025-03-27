@@ -95,7 +95,6 @@
   "ReportingTools": [
     "ggbio"
   ],
-  "RiboCrypt": [],
   "RiboProfiling": [
     "ggbio"
   ],
@@ -146,18 +145,11 @@
     "ggbio"
   ],
   "dreamlet": [],
-  "epivizr": [
-    "epivizrData"
-  ],
-  "epivizrChart": [
-    "epivizrData"
-  ],
-  "epivizrData": [],
+  "epivizr": [],
+  "epivizrChart": [],
   "epivizrStandalone": [
-    "epivizr",
-    "epivizrData"
+    "epivizr"
   ],
-  "erma": [],
   "ffpe": [],
   "genoCN": [],
   "geomeTriD": [],
@@ -184,7 +176,6 @@
   "panelcn.mops": [
     "cn.mops"
   ],
-  "primirTSS": [],
   "psichomics": [
     "recount"
   ],
@@ -193,8 +184,7 @@
   "regionReport": [],
   "rsbml": [],
   "scTreeViz": [
-    "epivizr",
-    "epivizrData"
+    "epivizr"
   ],
   "scruff": [
     "ggbio"
