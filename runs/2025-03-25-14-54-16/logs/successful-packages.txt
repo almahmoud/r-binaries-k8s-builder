@@ -1945,3 +1945,6 @@ DegCre
 glmSparseNet
 Guitar
 VaSP
+debrowser
+qpgraph
+signifinder

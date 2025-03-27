@@ -2085,3 +2085,5 @@ musicatk
 chevreulPlot
 circRNAprofiler
 vtpnet
+MOSClip
+clipper

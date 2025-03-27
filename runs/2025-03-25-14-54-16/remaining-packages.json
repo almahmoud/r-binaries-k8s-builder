@@ -255,9 +255,7 @@
     "methylumi",
     "lumi"
   ],
-  "MOSClip": [
-    "qpgraph"
-  ],
+  "MOSClip": [],
   "MatrixQCvis": [],
   "MetaboSignal": [
     "hpar",
@@ -515,9 +513,7 @@
   ],
   "circRNAprofiler": [],
   "cisPath": [],
-  "clipper": [
-    "qpgraph"
-  ],
+  "clipper": [],
   "cn.farms": [],
   "cn.mops": [],
   "coMethDMR": [
@@ -569,7 +565,6 @@
     "txdbmaker"
   ],
   "dagLogo": [],
-  "debrowser": [],
   "deconvR": [
     "minfi",
     "bumphunter"
@@ -801,7 +796,6 @@
     "derfinder",
     "bumphunter"
   ],
-  "qpgraph": [],
   "quantro": [
     "minfi",
     "bumphunter"
@@ -877,7 +871,6 @@
     "bumphunter"
   ],
   "signatureSearch": [],
-  "signifinder": [],
   "singleCellTK": [],
   "sitadela": [
     "txdbmaker"
