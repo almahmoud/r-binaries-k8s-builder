@@ -160,7 +160,6 @@
   "GenomicPlot": [
     "RCAS"
   ],
-  "GmicR": [],
   "Gviz": [],
   "Harshlight": [],
   "HiCDCPlus": [
@@ -294,7 +293,6 @@
     "bumphunter"
   ],
   "Rqc": [],
-  "SGCP": [],
   "SMITE": [
     "goseq"
   ],
@@ -350,7 +348,6 @@
     "minfi",
     "bumphunter"
   ],
-  "attract": [],
   "bambu": [],
   "bandle": [],
   "bigmelon": [

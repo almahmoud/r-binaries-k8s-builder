@@ -2002,3 +2002,6 @@ scoreInvHap
 signatureSearch
 spatialFDA
 vulcan
+attract
+GmicR
+SGCP
