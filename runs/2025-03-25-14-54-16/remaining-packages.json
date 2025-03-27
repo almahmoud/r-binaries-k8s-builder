@@ -1691,7 +1691,6 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "gDR": [],
   "gINTomics": [
     "GenomicFeatures",
     "ReactomePA"
