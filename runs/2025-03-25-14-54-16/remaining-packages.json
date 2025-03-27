@@ -2419,7 +2419,6 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "traseR": [],
   "trigger": [
     "sva"
   ],
