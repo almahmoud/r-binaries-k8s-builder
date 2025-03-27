@@ -2216,3 +2216,6 @@ FRASER
 NADfinder
 geomeTriD
 yarn
+RnBeads
+lumi
+missMethyl

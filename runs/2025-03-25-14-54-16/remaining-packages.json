@@ -39,7 +39,6 @@
     "DMRcate",
     "wateRmelon",
     "missMethyl",
-    "methylumi",
     "lumi"
   ],
   "ChIPseqR": [
@@ -51,13 +50,11 @@
   ],
   "CytoGLMM": [],
   "DMRcate": [
-    "missMethyl",
-    "methylumi"
+    "missMethyl"
   ],
   "Damsel": [
     "ggbio"
   ],
-  "ENmix": [],
   "EpiCompare": [],
   "ExperimentHubData": [
     "AnnotationHubData"
@@ -82,23 +79,18 @@
   ],
   "IsoformSwitchAnalyzeR": [],
   "MAGAR": [
-    "RnBeads",
-    "methylumi"
+    "RnBeads"
   ],
   "MEAL": [
-    "missMethyl",
-    "methylumi"
+    "missMethyl"
   ],
   "MEAT": [
     "wateRmelon",
-    "methylumi",
     "lumi"
   ],
   "MethReg": [],
-  "MethylAid": [],
   "MineICA": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "Moonlight2R": [],
   "NADfinder": [],
@@ -135,9 +127,7 @@
   "RiboProfiling": [
     "ggbio"
   ],
-  "RnBeads": [
-    "methylumi"
-  ],
+  "RnBeads": [],
   "RnaSeqSampleSize": [
     "recount"
   ],
@@ -164,13 +154,11 @@
   ],
   "appreci8R": [],
   "arrayMvout": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "bandle": [],
   "bigmelon": [
     "wateRmelon",
-    "methylumi",
     "lumi"
   ],
   "biomvRCNS": [],
@@ -211,8 +199,7 @@
   ],
   "erma": [],
   "ffpe": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "funtooNorm": [],
   "genoCN": [],
@@ -223,32 +210,24 @@
   "graper": [],
   "hypeR": [],
   "iCheck": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "iNETgrate": [],
   "intansv": [
     "ggbio"
   ],
   "lisaClust": [],
-  "lumi": [
-    "methylumi"
-  ],
+  "lumi": [],
   "mCSEA": [],
   "maser": [],
-  "methylCC": [],
   "methylGSA": [
-    "missMethyl",
-    "methylumi"
+    "missMethyl"
   ],
   "methylclock": [
     "ExperimentHubData",
     "AnnotationHubData"
   ],
-  "methylumi": [],
-  "missMethyl": [
-    "methylumi"
-  ],
+  "missMethyl": [],
   "msgbsR": [
     "ggbio"
   ],
@@ -261,10 +240,8 @@
   ],
   "rGADEM": [],
   "recount": [],
-  "recountmethylation": [],
   "regionReport": [],
   "rsbml": [],
-  "saseR": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData"
@@ -272,10 +249,8 @@
   "scruff": [
     "ggbio"
   ],
-  "shinyMethyl": [],
   "shinyepico": [],
   "skewr": [
-    "methylumi",
     "wateRmelon",
     "lumi"
   ],
@@ -285,7 +260,6 @@
   "trigger": [],
   "uncoverappLib": [],
   "wateRmelon": [
-    "methylumi",
     "lumi"
   ],
   "yarn": []

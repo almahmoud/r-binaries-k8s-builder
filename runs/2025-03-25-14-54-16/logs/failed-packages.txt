@@ -19,3 +19,4 @@ XNAString
 CNEr
 trigger
 gmapR
+EpiCompare

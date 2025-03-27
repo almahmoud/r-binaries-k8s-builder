@@ -2144,3 +2144,10 @@ GeDi
 motifbreakR
 quantro
 EGSEA
+ENmix
+MethylAid
+methylCC
+methylumi
+recountmethylation
+saseR
+shinyMethyl
