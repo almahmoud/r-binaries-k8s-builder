@@ -168,8 +168,7 @@
   ],
   "CircSeqAlignTk": [
     "Rhisat2",
-    "txdbmaker",
-    "SGSeq"
+    "txdbmaker"
   ],
   "CleanUpRNAseq": [
     "ensembldb"
@@ -264,9 +263,7 @@
   "EpipwR": [
     "ExperimentHub"
   ],
-  "EventPointer": [
-    "SGSeq"
-  ],
+  "EventPointer": [],
   "ExperimentHub": [],
   "ExperimentHubData": [
     "AnnotationHubData",
@@ -629,8 +626,7 @@
     "txdbmaker"
   ],
   "Rhisat2": [
-    "txdbmaker",
-    "SGSeq"
+    "txdbmaker"
   ],
   "RiboCrypt": [
     "ORFik",
@@ -672,7 +668,6 @@
   "SGCP": [
     "GOstats"
   ],
-  "SGSeq": [],
   "SMITE": [
     "goseq",
     "txdbmaker"
