@@ -1960,3 +1960,6 @@ dagLogo
 pRoloc
 scFeatures
 RegEnrich
+BiocHubsShiny
+IMAS
+POMA

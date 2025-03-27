@@ -35,7 +35,6 @@
     "rsbml"
   ],
   "BindingSiteFinder": [],
-  "BiocHubsShiny": [],
   "BloodGen3Module": [],
   "BubbleTree": [],
   "CAFE": [
@@ -197,7 +196,6 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "IMAS": [],
   "IPO": [],
   "IntEREst": [],
   "IsoformSwitchAnalyzeR": [
@@ -266,10 +264,7 @@
     "PICS",
     "Gviz"
   ],
-  "POMA": [],
-  "PRONE": [
-    "POMA"
-  ],
+  "PRONE": [],
   "PhyloProfile": [],
   "Pviz": [
     "Gviz"
