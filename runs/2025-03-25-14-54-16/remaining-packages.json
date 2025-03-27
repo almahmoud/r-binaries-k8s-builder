@@ -311,9 +311,7 @@
     "OrganismDbi"
   ],
   "dmrseq": [],
-  "dreamlet": [
-    "zenith"
-  ],
+  "dreamlet": [],
   "easier": [],
   "enhancerHomologSearch": [],
   "epimutacions": [
@@ -481,7 +479,6 @@
     "GenomicInteractions"
   ],
   "srnadiff": [],
-  "standR": [],
   "svaNUMT": [],
   "tadar": [],
   "trackViewer": [],
@@ -491,7 +488,6 @@
   "uncoverappLib": [
     "OrganismDbi"
   ],
-  "vissE": [],
   "wateRmelon": [
     "methylumi",
     "lumi",
@@ -500,6 +496,5 @@
   "yarn": [
     "quantro",
     "minfi"
-  ],
-  "zenith": []
+  ]
 }
