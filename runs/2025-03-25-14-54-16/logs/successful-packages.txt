@@ -1624,3 +1624,6 @@ epigraHMM
 PREDA
 scRepertoire
 SemDist
+DrugVsDisease
+easylift
+PhIPData

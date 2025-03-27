@@ -354,7 +354,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "DrugVsDisease": [],
   "DuplexDiscovereR": [
     "Gviz",
     "GenomicFeatures",
@@ -835,7 +834,6 @@
     "sva"
   ],
   "PanomiR": [],
-  "PhIPData": [],
   "PhyloProfile": [
     "ExperimentHub"
   ],
@@ -1303,9 +1301,7 @@
     "MLInterfaces"
   ],
   "basecallQC": [],
-  "beer": [
-    "PhIPData"
-  ],
+  "beer": [],
   "benchdamic": [
     "zinbwave"
   ],
@@ -1644,7 +1640,6 @@
   "easier": [
     "ExperimentHub"
   ],
-  "easylift": [],
   "edge": [
     "sva"
   ],
