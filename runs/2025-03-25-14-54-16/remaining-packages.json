@@ -9,10 +9,7 @@
     "rsbml"
   ],
   "CAFE": [],
-  "CAGEfightR": [],
-  "CAGEr": [
-    "CAGEfightR"
-  ],
+  "CAGEr": [],
   "CNEr": [],
   "CNVfilteR": [
     "CopyNumberPlots",
