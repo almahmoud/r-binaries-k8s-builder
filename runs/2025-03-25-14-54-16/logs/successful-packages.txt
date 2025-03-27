@@ -1856,3 +1856,16 @@ Organism.dplyr
 casper
 InPAS
 SplicingGraphs
+annotatr
+cpvSNP
+ensembldb
+IgGeneUsage
+NoRCE
+SCAN.UPC
+SEtools
+strandCheckR
+TAPseq
+TCGAutils
+UMI4Cats
+VariantAnnotation
+wavClusteR
