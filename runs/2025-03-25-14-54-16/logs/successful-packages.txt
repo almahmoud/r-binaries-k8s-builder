@@ -1656,3 +1656,4 @@ pipeFrame
 plyinteractions
 RTNsurvival
 SWATH2stats
+SparseSignatures
