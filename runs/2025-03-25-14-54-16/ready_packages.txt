@@ -1,0 +1,6 @@
+chevreulShiny
+consensusDE
+octad
+ribosomeProfilingQC
+scone
+standR
