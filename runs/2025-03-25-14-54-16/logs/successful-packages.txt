@@ -2111,3 +2111,5 @@ mygene
 GSEABenchmarkeR
 RiboDiPA
 pcaExplorer
+derfinder
+ideal

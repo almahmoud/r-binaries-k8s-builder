@@ -2193,3 +2193,5 @@ uncoverappLib
 CircSeqAlignTk
 GeDi
 MetaboSignal
+recount
+regionReport
