@@ -387,7 +387,6 @@
     "GenomicFeatures"
   ],
   "EGSEA": [
-    "pathview",
     "GSVA",
     "safe"
   ],
@@ -415,7 +414,6 @@
     "AnnotationHub"
   ],
   "EnrichmentBrowser": [
-    "pathview",
     "safe"
   ],
   "EpiCompare": [
@@ -487,7 +485,6 @@
     "GenomicFeatures"
   ],
   "GDCRNATools": [
-    "pathview",
     "GenomicDataCommons"
   ],
   "GEOexplorer": [
@@ -513,7 +510,6 @@
     "AnnotationHub",
     "EnrichmentBrowser",
     "ExperimentHub",
-    "pathview",
     "safe"
   ],
   "GSRI": [],
@@ -1118,9 +1114,7 @@
   "SARC": [
     "GenomicFeatures"
   ],
-  "SBGNview": [
-    "pathview"
-  ],
+  "SBGNview": [],
   "SCAN.UPC": [
     "sva"
   ],
@@ -1693,8 +1687,7 @@
   "dar": [],
   "ddPCRclust": [],
   "debrowser": [
-    "sva",
-    "pathview"
+    "sva"
   ],
   "decompTumor2Sig": [
     "GenomicFeatures",
@@ -1753,7 +1746,6 @@
   "dreamlet": [
     "zenith",
     "EnrichmentBrowser",
-    "pathview",
     "safe"
   ],
   "drugTargetInteractions": [
@@ -2293,7 +2285,6 @@
   ],
   "pathRender": [],
   "pathlinkR": [],
-  "pathview": [],
   "pcaExplorer": [
     "mosdef",
     "GOstats",
@@ -2774,7 +2765,6 @@
   ],
   "zenith": [
     "EnrichmentBrowser",
-    "pathview",
     "safe"
   ],
   "zinbwave": []

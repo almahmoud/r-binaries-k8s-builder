@@ -1764,3 +1764,4 @@ spillR
 CexoR
 fCCAC
 regioneReloaded
+SBGNview
