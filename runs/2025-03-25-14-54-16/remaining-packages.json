@@ -653,7 +653,6 @@
   "MSnID": [
     "msmsTests"
   ],
-  "MSstatsQCgui": [],
   "MatrixQCvis": [
     "ExperimentHub",
     "sva"
@@ -1200,7 +1199,6 @@
     "minfi",
     "bumphunter"
   ],
-  "arrayQualityMetrics": [],
   "atSNP": [
     "motifStack",
     "TFBSTools"
@@ -1698,10 +1696,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "hiAnnotator": [],
-  "hiReadsProcessor": [
-    "hiAnnotator"
-  ],
+  "hiReadsProcessor": [],
   "hipathia": [],
   "hpar": [
     "ExperimentHub"

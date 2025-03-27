@@ -1689,3 +1689,6 @@ DAPAR
 GSRI
 MotifPeeker
 NBAMSeq
+arrayQualityMetrics
+hiAnnotator
+MSstatsQCgui
