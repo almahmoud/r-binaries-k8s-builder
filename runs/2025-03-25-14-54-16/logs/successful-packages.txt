@@ -1728,3 +1728,8 @@ SBGNview
 TFBSTools
 vidger
 GlobalAncova
+DeMixT
+GenomicFeatures
+methylSig
+projectR
+SPONGE
