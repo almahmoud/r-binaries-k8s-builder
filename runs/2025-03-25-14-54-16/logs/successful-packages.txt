@@ -1766,3 +1766,7 @@ slalom
 rGenomeTracks
 broadSeq
 RegionalST
+GDCRNATools
+gsean
+scAnnotatR
+tenXplore

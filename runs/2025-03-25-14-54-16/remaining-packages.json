@@ -323,7 +323,6 @@
     "DaMiRseq",
     "EDASeq"
   ],
-  "GDCRNATools": [],
   "GEOexplorer": [],
   "GNOSIS": [
     "cBioPortalData",
@@ -1242,7 +1241,6 @@
   ],
   "gpuMagic": [],
   "graper": [],
-  "gsean": [],
   "gwascat": [
     "VariantAnnotation"
   ],
@@ -1557,7 +1555,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scAnnotatR": [],
   "scBFA": [
     "zinbwave"
   ],
@@ -1692,7 +1689,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "tenXplore": [],
   "terraTCGAdata": [
     "TCGAutils"
   ],
