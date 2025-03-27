@@ -454,9 +454,7 @@
     "sva",
     "GenomicFeatures"
   ],
-  "GDCRNATools": [
-    "GenomicDataCommons"
-  ],
+  "GDCRNATools": [],
   "GEOexplorer": [
     "sva"
   ],
@@ -464,8 +462,7 @@
     "cBioPortalData",
     "RTCGAToolbox",
     "TCGAutils",
-    "GenomicFeatures",
-    "GenomicDataCommons"
+    "GenomicFeatures"
   ],
   "GOstats": [
     "Category"
@@ -517,7 +514,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "GenomicDataCommons": [],
   "GenomicFeatures": [],
   "GenomicFiles": [
     "VariantAnnotation",
@@ -678,7 +674,6 @@
     "GenomicFeatures"
   ],
   "MEDIPS": [],
-  "MGFR": [],
   "MICSQTL": [],
   "MIRA": [],
   "MLInterfaces": [],
@@ -749,7 +744,6 @@
     "TCGAbiolinks"
   ],
   "MotifPeeker": [],
-  "MouseFM": [],
   "MsDataHub": [
     "ExperimentHub"
   ],
@@ -970,8 +964,7 @@
   ],
   "RTCGAToolbox": [
     "TCGAutils",
-    "GenomicFeatures",
-    "GenomicDataCommons"
+    "GenomicFeatures"
   ],
   "RTNsurvival": [],
   "RUVSeq": [
@@ -1144,8 +1137,7 @@
   ],
   "TCGAbiolinks": [],
   "TCGAutils": [
-    "GenomicFeatures",
-    "GenomicDataCommons"
+    "GenomicFeatures"
   ],
   "TENET": [
     "TCGAbiolinks",
@@ -1226,7 +1218,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "Voyager": [],
   "XDE": [
     "GeneMeta"
   ],
@@ -1336,8 +1327,7 @@
     "ReactomePA",
     "RTCGAToolbox",
     "TCGAutils",
-    "GenomicFeatures",
-    "GenomicDataCommons"
+    "GenomicFeatures"
   ],
   "biocGraph": [],
   "biomvRCNS": [
@@ -1381,8 +1371,7 @@
   "cBioPortalData": [
     "RTCGAToolbox",
     "TCGAutils",
-    "GenomicFeatures",
-    "GenomicDataCommons"
+    "GenomicFeatures"
   ],
   "cTRAP": [],
   "cageminer": [
@@ -1402,8 +1391,7 @@
     "RTCGAToolbox",
     "TCGAutils",
     "Category",
-    "GenomicFeatures",
-    "GenomicDataCommons"
+    "GenomicFeatures"
   ],
   "cardelino": [
     "VariantAnnotation",
@@ -1420,8 +1408,7 @@
     "cBioPortalData",
     "RTCGAToolbox",
     "TCGAutils",
-    "GenomicFeatures",
-    "GenomicDataCommons"
+    "GenomicFeatures"
   ],
   "cfDNAPro": [],
   "cfTools": [
@@ -1801,8 +1788,7 @@
   ],
   "glmSparseNet": [
     "TCGAutils",
-    "GenomicFeatures",
-    "GenomicDataCommons"
+    "GenomicFeatures"
   ],
   "gmapR": [
     "GenomicFeatures",
@@ -2296,9 +2282,7 @@
   ],
   "rsbml": [],
   "safe": [],
-  "sampleClassifier": [
-    "MGFR"
-  ],
+  "sampleClassifier": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -2512,10 +2496,8 @@
   ],
   "terraTCGAdata": [
     "TCGAutils",
-    "GenomicFeatures",
-    "GenomicDataCommons"
+    "GenomicFeatures"
   ],
-  "tidyCoverage": [],
   "tidyomics": [
     "nullranges"
   ],

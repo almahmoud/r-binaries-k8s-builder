@@ -1610,3 +1610,8 @@ pram
 iSEEfier
 lefser
 GOexpress
+GenomicDataCommons
+MGFR
+MouseFM
+tidyCoverage
+Voyager
