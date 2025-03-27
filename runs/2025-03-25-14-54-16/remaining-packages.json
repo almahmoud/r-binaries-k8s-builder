@@ -3,7 +3,6 @@
     "AnnotationHubData",
     "OrganismDbi"
   ],
-  "ASSIGN": [],
   "ASpli": [],
   "AgiMicroRna": [
     "affycoretools",
@@ -223,9 +222,7 @@
     "OrganismDbi"
   ],
   "SpliceWiz": [],
-  "TBSignatureProfiler": [
-    "ASSIGN"
-  ],
+  "TBSignatureProfiler": [],
   "TENET": [],
   "TFHAZ": [
     "ORFik"
