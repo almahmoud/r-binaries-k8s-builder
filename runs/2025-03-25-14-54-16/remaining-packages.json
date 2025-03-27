@@ -120,7 +120,6 @@
     "bumphunter"
   ],
   "EWCE": [],
-  "EnrichmentBrowser": [],
   "EpiCompare": [],
   "EpiMix": [],
   "EpiTxDb": [],
@@ -145,9 +144,7 @@
   "GNOSIS": [
     "cBioPortalData"
   ],
-  "GSEABenchmarkeR": [
-    "EnrichmentBrowser"
-  ],
+  "GSEABenchmarkeR": [],
   "GSReg": [
     "OrganismDbi"
   ],
@@ -322,7 +319,6 @@
   "SPLINTER": [
     "Gviz"
   ],
-  "SeqSQC": [],
   "SigsPack": [],
   "SingleMoleculeFootprinting": [
     "QuasR"
@@ -408,7 +404,6 @@
   "cbaf": [
     "cBioPortalData"
   ],
-  "cfTools": [],
   "chevreulPlot": [],
   "chevreulShiny": [
     "chevreulPlot"
@@ -484,8 +479,7 @@
     "bumphunter"
   ],
   "dreamlet": [
-    "zenith",
-    "EnrichmentBrowser"
+    "zenith"
   ],
   "easier": [],
   "enhancerHomologSearch": [],
@@ -784,7 +778,5 @@
     "minfi",
     "bumphunter"
   ],
-  "zenith": [
-    "EnrichmentBrowser"
-  ]
+  "zenith": []
 }
