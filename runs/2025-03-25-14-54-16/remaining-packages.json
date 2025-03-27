@@ -464,7 +464,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "EasyCellType": [],
   "EnrichmentBrowser": [
     "pathview",
     "safe"
@@ -2282,7 +2281,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "made4": [],
   "magpie": [
     "GenomicFeatures",
     "TRESS"
@@ -2513,12 +2511,9 @@
   "omicRexposome": [
     "sva",
     "omicade4",
-    "made4",
     "genefilter"
   ],
-  "omicade4": [
-    "made4"
-  ],
+  "omicade4": [],
   "omicsViewer": [],
   "ontoProc": [
     "AnnotationHub"

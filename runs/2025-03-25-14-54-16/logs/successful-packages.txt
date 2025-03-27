@@ -1514,3 +1514,5 @@ scCB2
 CeTF
 riboSeqR
 systemPipeR
+EasyCellType
+made4
