@@ -2117,3 +2117,12 @@ scone
 svaNUMT
 chevreulShiny
 GNOSIS
+AllelicImbalance
+ASpli
+cummeRbund
+DuplexDiscovereR
+GeneStructureTools
+minfi
+OGRE
+Pviz
+TVTB

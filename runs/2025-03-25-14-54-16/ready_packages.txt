@@ -1,0 +1,15 @@
+ENmix
+MethylAid
+REMP
+conumee
+deconvR
+epimutacions
+funtooNorm
+iNETgrate
+methylCC
+methylumi
+quantro
+recountmethylation
+saseR
+shinyMethyl
+shinyepico

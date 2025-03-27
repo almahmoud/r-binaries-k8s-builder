@@ -2,13 +2,11 @@
   "AHMassBank": [
     "AnnotationHubData"
   ],
-  "ASpli": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
     "ggbio"
   ],
-  "AllelicImbalance": [],
   "AneuFinder": [],
   "AnnotationHubData": [],
   "BOBaFIT": [
@@ -38,7 +36,6 @@
   ],
   "CellBarcode": [],
   "ChAMP": [
-    "minfi",
     "DMRcate",
     "wateRmelon",
     "missMethyl",
@@ -54,19 +51,15 @@
   ],
   "CytoGLMM": [],
   "DMRcate": [
-    "minfi",
     "missMethyl",
     "methylumi"
   ],
   "Damsel": [
     "ggbio"
   ],
-  "DuplexDiscovereR": [],
   "EGSEA": [],
   "ELMER": [],
-  "ENmix": [
-    "minfi"
-  ],
+  "ENmix": [],
   "EpiCompare": [],
   "EpiTxDb": [],
   "ExperimentHubData": [
@@ -81,7 +74,6 @@
   "GA4GHshiny": [],
   "GSReg": [],
   "GeDi": [],
-  "GeneStructureTools": [],
   "GenomicInteractions": [],
   "GenomicOZone": [
     "ggbio"
@@ -99,50 +91,40 @@
   ],
   "MAGAR": [
     "RnBeads",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "MEAL": [
-    "minfi",
     "missMethyl",
     "methylumi"
   ],
   "MEAT": [
-    "minfi",
     "wateRmelon",
     "methylumi",
     "lumi"
   ],
   "MetaboSignal": [],
   "MethReg": [],
-  "MethylAid": [
-    "minfi"
-  ],
+  "MethylAid": [],
   "MineICA": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "Moonlight2R": [],
   "NADfinder": [
     "trackViewer"
   ],
-  "OGRE": [],
   "ORFik": [],
   "OUTRIDER": [],
   "PICS": [],
   "PING": [
     "PICS"
   ],
-  "Pviz": [],
   "QuasR": [],
   "R3CPET": [
     "ggbio"
   ],
   "REBET": [],
-  "REMP": [
-    "minfi"
-  ],
+  "REMP": [],
   "RNAAgeCalc": [
     "recount"
   ],
@@ -166,8 +148,7 @@
     "ggbio"
   ],
   "RnBeads": [
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "RnaSeqSampleSize": [
     "recount"
@@ -183,7 +164,6 @@
   "TFHAZ": [
     "ORFik"
   ],
-  "TVTB": [],
   "VariantFiltering": [],
   "XNAString": [],
   "YAPSA": [
@@ -197,13 +177,11 @@
   "appreci8R": [],
   "arrayMvout": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "bandle": [],
   "bigmelon": [
     "wateRmelon",
-    "minfi",
     "methylumi",
     "lumi"
   ],
@@ -223,9 +201,7 @@
   "compEpiTools": [
     "methylPipe"
   ],
-  "conumee": [
-    "minfi"
-  ],
+  "conumee": [],
   "crisprShiny": [
     "crisprViz"
   ],
@@ -233,17 +209,12 @@
     "crisprViz"
   ],
   "crisprViz": [],
-  "cummeRbund": [],
-  "deconvR": [
-    "minfi"
-  ],
+  "deconvR": [],
   "derfinderPlot": [
     "ggbio"
   ],
   "dreamlet": [],
-  "epimutacions": [
-    "minfi"
-  ],
+  "epimutacions": [],
   "epivizr": [
     "epivizrData"
   ],
@@ -258,12 +229,9 @@
   "erma": [],
   "ffpe": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
-  "funtooNorm": [
-    "minfi"
-  ],
+  "funtooNorm": [],
   "genoCN": [],
   "geomeTriD": [
     "trackViewer"
@@ -275,43 +243,31 @@
   "hypeR": [],
   "iCheck": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
-  "iNETgrate": [
-    "minfi"
-  ],
+  "iNETgrate": [],
   "intansv": [
     "ggbio"
   ],
   "lisaClust": [],
   "lumi": [
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "mCSEA": [],
   "maser": [],
-  "methylCC": [
-    "minfi"
-  ],
+  "methylCC": [],
   "methylGSA": [
     "missMethyl",
-    "minfi",
     "methylumi"
   ],
   "methylPipe": [],
   "methylclock": [
-    "minfi",
     "ExperimentHubData",
     "AnnotationHubData"
   ],
-  "methylumi": [
-    "minfi"
-  ],
-  "minfi": [],
+  "methylumi": [],
   "missMethyl": [
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "motifbreakR": [],
   "msgbsR": [
@@ -325,20 +281,14 @@
   "psichomics": [
     "recount"
   ],
-  "quantro": [
-    "minfi"
-  ],
+  "quantro": [],
   "rGADEM": [],
   "recount": [],
-  "recountmethylation": [
-    "minfi"
-  ],
+  "recountmethylation": [],
   "regionReport": [],
   "regutools": [],
   "rsbml": [],
-  "saseR": [
-    "ASpli"
-  ],
+  "saseR": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData"
@@ -346,16 +296,11 @@
   "scruff": [
     "ggbio"
   ],
-  "shinyMethyl": [
-    "minfi"
-  ],
-  "shinyepico": [
-    "minfi"
-  ],
+  "shinyMethyl": [],
+  "shinyepico": [],
   "skewr": [
     "methylumi",
     "wateRmelon",
-    "minfi",
     "lumi"
   ],
   "spatzie": [
@@ -369,11 +314,9 @@
   "uncoverappLib": [],
   "wateRmelon": [
     "methylumi",
-    "lumi",
-    "minfi"
+    "lumi"
   ],
   "yarn": [
-    "quantro",
-    "minfi"
+    "quantro"
   ]
 }
