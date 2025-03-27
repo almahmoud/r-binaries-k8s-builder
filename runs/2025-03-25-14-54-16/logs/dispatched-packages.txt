@@ -2083,3 +2083,5 @@ alabaster
 karyoploteR
 musicatk
 chevreulPlot
+circRNAprofiler
+vtpnet

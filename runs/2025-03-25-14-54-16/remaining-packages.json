@@ -522,9 +522,7 @@
   "cicero": [
     "Gviz"
   ],
-  "circRNAprofiler": [
-    "gwascat"
-  ],
+  "circRNAprofiler": [],
   "cisPath": [],
   "clipper": [
     "qpgraph"
@@ -585,7 +583,6 @@
     "minfi",
     "bumphunter"
   ],
-  "demuxSNP": [],
   "derfinder": [
     "bumphunter"
   ],
@@ -672,7 +669,6 @@
   ],
   "gpuMagic": [],
   "graper": [],
-  "gwascat": [],
   "hpar": [],
   "hypeR": [],
   "iCheck": [
@@ -947,9 +943,7 @@
   ],
   "visiumStitched": [],
   "vissE": [],
-  "vtpnet": [
-    "gwascat"
-  ],
+  "vtpnet": [],
   "vulcan": [
     "ChIPpeakAnno"
   ],
