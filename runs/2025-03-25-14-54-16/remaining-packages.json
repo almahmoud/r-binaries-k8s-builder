@@ -345,7 +345,6 @@
     "epivizr",
     "epivizrData"
   ],
-  "scone": [],
   "scruff": [
     "ggbio"
   ],
@@ -365,7 +364,6 @@
     "GenomicInteractions"
   ],
   "srnadiff": [],
-  "svaNUMT": [],
   "tadar": [],
   "trackViewer": [],
   "trigger": [],
