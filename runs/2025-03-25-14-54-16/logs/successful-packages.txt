@@ -2229,3 +2229,5 @@ cageminer
 crisprShiny
 crisprVerse
 derfinderPlot
+msgbsR
+scruff

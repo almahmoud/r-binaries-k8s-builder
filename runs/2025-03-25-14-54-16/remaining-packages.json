@@ -60,7 +60,6 @@
   "hypeR": [],
   "methylGSA": [],
   "methylclock": [],
-  "msgbsR": [],
   "panelcn.mops": [
     "cn.mops"
   ],
@@ -68,7 +67,6 @@
   "rGADEM": [],
   "rsbml": [],
   "scTreeViz": [],
-  "scruff": [],
   "skewr": [],
   "trigger": []
 }
