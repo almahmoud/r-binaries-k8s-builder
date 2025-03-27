@@ -1855,3 +1855,4 @@ CRISPRseek
 Organism.dplyr
 casper
 InPAS
+SplicingGraphs
