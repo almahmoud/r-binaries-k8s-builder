@@ -2257,3 +2257,6 @@ methylclock
 msgbsR
 psichomics
 scruff
+DMRcate
+MEAL
+methylGSA

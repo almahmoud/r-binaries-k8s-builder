@@ -25,8 +25,7 @@
   "CellBarcode": [],
   "ChAMP": [
     "DMRcate",
-    "wateRmelon",
-    "missMethyl"
+    "wateRmelon"
   ],
   "ChIPseqR": [
     "HilbertVis"
@@ -35,9 +34,7 @@
     "cn.mops"
   ],
   "CytoGLMM": [],
-  "DMRcate": [
-    "missMethyl"
-  ],
+  "DMRcate": [],
   "Damsel": [],
   "EpiCompare": [],
   "FLAMES": [],
@@ -52,9 +49,7 @@
   "MAGAR": [
     "RnBeads"
   ],
-  "MEAL": [
-    "missMethyl"
-  ],
+  "MEAL": [],
   "MEAT": [
     "wateRmelon"
   ],
@@ -113,11 +108,8 @@
   "hypeR": [],
   "iCheck": [],
   "intansv": [],
-  "methylGSA": [
-    "missMethyl"
-  ],
+  "methylGSA": [],
   "methylclock": [],
-  "missMethyl": [],
   "msgbsR": [],
   "panelcn.mops": [
     "cn.mops"
