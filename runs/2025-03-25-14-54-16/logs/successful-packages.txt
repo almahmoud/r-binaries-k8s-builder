@@ -1930,3 +1930,4 @@ gwasurvivr
 terraTCGAdata
 demuxSNP
 gwascat
+BadRegionFinder
