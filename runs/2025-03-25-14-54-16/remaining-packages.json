@@ -80,7 +80,6 @@
   ],
   "GA4GHshiny": [],
   "GNOSIS": [],
-  "GSEABenchmarkeR": [],
   "GSReg": [],
   "GeDi": [],
   "GeneStructureTools": [],
@@ -165,7 +164,6 @@
   "RiboCrypt": [
     "ORFik"
   ],
-  "RiboDiPA": [],
   "RiboProfiling": [
     "ggbio"
   ],
