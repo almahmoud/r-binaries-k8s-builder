@@ -1649,3 +1649,6 @@ cosmosR
 CytoPipelineGUI
 mirIntegrator
 soGGi
+BioCor
+GSVA
+RJMCMCNucleosomes

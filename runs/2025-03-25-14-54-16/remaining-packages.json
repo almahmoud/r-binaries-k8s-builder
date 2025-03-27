@@ -104,7 +104,6 @@
   "BindingSiteFinder": [
     "GenomicFeatures"
   ],
-  "BioCor": [],
   "BioNERO": [
     "sva"
   ],
@@ -351,7 +350,6 @@
     "GenomicFeatures"
   ],
   "EGSEA": [
-    "GSVA",
     "safe"
   ],
   "ELMER": [
@@ -467,7 +465,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "GSVA": [],
   "GUIDEseq": [
     "CRISPRseek",
     "ChIPpeakAnno",
@@ -880,7 +877,6 @@
     "GenomicFeatures",
     "ensembldb"
   ],
-  "RJMCMCNucleosomes": [],
   "RMassBank": [],
   "RNAAgeCalc": [
     "recount",
@@ -1091,7 +1087,6 @@
   ],
   "TBSignatureProfiler": [
     "ASSIGN",
-    "GSVA",
     "singscore",
     "sva"
   ],
@@ -1451,9 +1446,7 @@
     "GenomicFeatures",
     "RUVSeq"
   ],
-  "consensusOV": [
-    "GSVA"
-  ],
+  "consensusOV": [],
   "conumee": [
     "minfi",
     "bumphunter",
@@ -1671,8 +1664,7 @@
     "motifmatchr"
   ],
   "escape": [
-    "AUCell",
-    "GSVA"
+    "AUCell"
   ],
   "fCCAC": [],
   "factR": [
@@ -2037,7 +2029,6 @@
     "RUVSeq",
     "ExperimentHub",
     "EDASeq",
-    "GSVA",
     "GenomicFeatures"
   ],
   "omXplore": [],
@@ -2048,9 +2039,7 @@
   "omicade4": [],
   "ontoProc": [],
   "openCyto": [],
-  "oppar": [
-    "GSVA"
-  ],
+  "oppar": [],
   "orthos": [
     "ExperimentHub"
   ],
@@ -2226,7 +2215,6 @@
   ],
   "scDotPlot": [],
   "scFeatures": [
-    "GSVA",
     "ensembldb",
     "AUCell",
     "GenomicFeatures"
@@ -2319,14 +2307,12 @@
   "signifinder": [
     "consensusOV",
     "ensembldb",
-    "GSVA",
     "GenomicFeatures"
   ],
   "simplifyEnrichment": [],
   "singleCellTK": [
     "ExperimentHub",
     "ensembldb",
-    "GSVA",
     "scMerge",
     "sva",
     "zinbwave",
