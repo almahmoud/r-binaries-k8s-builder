@@ -180,7 +180,6 @@
   ],
   "CellBarcode": [],
   "Cepo": [],
-  "CexoR": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -295,7 +294,6 @@
     "ExperimentHub"
   ],
   "DegCre": [
-    "plotgardener",
     "GenomicFeatures"
   ],
   "DegNorm": [
@@ -1028,8 +1026,7 @@
   ],
   "Ularcirc": [
     "GenomicFeatures",
-    "Organism.dplyr",
-    "plotgardener"
+    "Organism.dplyr"
   ],
   "Uniquorn": [
     "VariantAnnotation",
@@ -1679,9 +1676,7 @@
     "GenomicFeatures",
     "TRESS"
   ],
-  "mariner": [
-    "plotgardener"
-  ],
+  "mariner": [],
   "maser": [
     "Gviz",
     "GenomicFeatures",
@@ -1870,7 +1865,6 @@
     "txdbmaker"
   ],
   "phenoTest": [],
-  "plotgardener": [],
   "pogos": [
     "ontoProc"
   ],

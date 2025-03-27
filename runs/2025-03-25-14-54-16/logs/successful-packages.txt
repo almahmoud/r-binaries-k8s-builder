@@ -1721,3 +1721,5 @@ MIRA
 GenomicScores
 gep2pep
 omicade4
+CexoR
+plotgardener
