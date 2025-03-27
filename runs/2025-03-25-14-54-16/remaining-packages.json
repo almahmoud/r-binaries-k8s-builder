@@ -251,7 +251,6 @@
     "biovizBase"
   ],
   "Harshlight": [],
-  "HelloRanges": [],
   "HiCDCPlus": [
     "GenomicInteractions",
     "Gviz",
@@ -336,9 +335,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "OMICsPCA": [
-    "HelloRanges"
-  ],
+  "OMICsPCA": [],
   "ORFik": [
     "txdbmaker"
   ],
