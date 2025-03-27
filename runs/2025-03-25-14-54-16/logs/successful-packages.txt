@@ -2198,3 +2198,6 @@ VariantFiltering
 biscuiteer
 CAGEfightR
 RNAmodR.ML
+geomeTriD
+HiCDCPlus
+RNAmodR.RiboMethSeq
