@@ -14,9 +14,7 @@
     "cn.mops"
   ],
   "CellBarcode": [],
-  "ChAMP": [
-    "DMRcate"
-  ],
+  "ChAMP": [],
   "ChIPseqR": [
     "HilbertVis"
   ],
@@ -24,7 +22,6 @@
     "cn.mops"
   ],
   "CytoGLMM": [],
-  "DMRcate": [],
   "EpiCompare": [],
   "Harshlight": [],
   "HilbertVis": [],
@@ -48,12 +45,10 @@
   "gpuMagic": [],
   "graper": [],
   "hypeR": [],
-  "methylGSA": [],
   "panelcn.mops": [
     "cn.mops"
   ],
   "rGADEM": [],
   "rsbml": [],
-  "scTreeViz": [],
   "trigger": []
 }

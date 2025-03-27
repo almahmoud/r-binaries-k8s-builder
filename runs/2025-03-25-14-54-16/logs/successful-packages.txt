@@ -2242,3 +2242,6 @@ methylclock
 psichomics
 skewr
 YAPSA
+DMRcate
+methylGSA
+scTreeViz
