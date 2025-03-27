@@ -2077,3 +2077,5 @@ proBAMr
 dmrseq
 EpiMix
 metaseqR2
+GenomicPlot
+txcutr

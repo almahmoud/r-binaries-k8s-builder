@@ -111,7 +111,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "GenomicPlot": [],
   "Harshlight": [],
   "HiCDCPlus": [
     "GenomicInteractions"
@@ -471,7 +470,6 @@
   "tadar": [],
   "trackViewer": [],
   "trigger": [],
-  "txcutr": [],
   "tximeta": [],
   "uncoverappLib": [
     "OrganismDbi"
