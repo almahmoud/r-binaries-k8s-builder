@@ -1747,3 +1747,4 @@ MetaboAnnotation
 monaLisa
 motifmatchr
 motifStack
+chromVAR
