@@ -1931,3 +1931,6 @@ terraTCGAdata
 demuxSNP
 gwascat
 BadRegionFinder
+APAlyzer
+GRaNIE
+transmogR

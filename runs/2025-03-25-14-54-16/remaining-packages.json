@@ -5,7 +5,6 @@
     "txdbmaker"
   ],
   "AMARETTO": [],
-  "APAlyzer": [],
   "ASSIGN": [],
   "ASpli": [
     "Gviz",
@@ -179,7 +178,6 @@
   "GNOSIS": [
     "cBioPortalData"
   ],
-  "GRaNIE": [],
   "GSEABenchmarkeR": [
     "EnrichmentBrowser"
   ],
@@ -926,7 +924,6 @@
     "txdbmaker"
   ],
   "transcriptR": [],
-  "transmogR": [],
   "trigger": [],
   "txcutr": [
     "txdbmaker"
