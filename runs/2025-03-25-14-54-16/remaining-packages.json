@@ -148,7 +148,6 @@
   "FRASER": [
     "OUTRIDER"
   ],
-  "FindIT2": [],
   "GA4GHshiny": [],
   "GARS": [
     "DaMiRseq"
@@ -360,7 +359,6 @@
   "TENET": [
     "sesame"
   ],
-  "TFEA.ChIP": [],
   "TFHAZ": [
     "ORFik"
   ],
@@ -551,7 +549,6 @@
     "minfi",
     "bumphunter"
   ],
-  "flagme": [],
   "funtooNorm": [
     "minfi",
     "bumphunter"
