@@ -1673,3 +1673,5 @@ crisprBwa
 PrInCE
 CNTools
 peakPantheR
+basecallQC
+omXplore

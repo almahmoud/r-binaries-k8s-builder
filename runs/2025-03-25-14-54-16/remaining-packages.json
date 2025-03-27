@@ -1239,7 +1239,6 @@
     "pRoloc",
     "MLInterfaces"
   ],
-  "basecallQC": [],
   "beer": [],
   "benchdamic": [
     "zinbwave"
@@ -1999,7 +1998,6 @@
     "EDASeq",
     "GenomicFeatures"
   ],
-  "omXplore": [],
   "omicRexposome": [
     "sva",
     "omicade4"
