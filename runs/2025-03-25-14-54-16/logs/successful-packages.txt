@@ -1963,3 +1963,6 @@ RegEnrich
 BiocHubsShiny
 IMAS
 POMA
+CTdata
+magpie
+selectKSigs

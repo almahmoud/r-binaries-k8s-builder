@@ -63,10 +63,7 @@
     "cn.mops"
   ],
   "CNVrd2": [],
-  "CTdata": [],
-  "CTexploreR": [
-    "CTdata"
-  ],
+  "CTexploreR": [],
   "CellBarcode": [],
   "ChAMP": [
     "minfi",
@@ -596,7 +593,6 @@
     "Gviz",
     "OrganismDbi"
   ],
-  "magpie": [],
   "maser": [
     "Gviz"
   ],
@@ -735,7 +731,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "selectKSigs": [],
   "seqArchRplus": [],
   "sesame": [],
   "shinyMethyl": [
