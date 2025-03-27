@@ -125,9 +125,7 @@
     "biovizBase"
   ],
   "CytoGLMM": [],
-  "CytoML": [
-    "openCyto"
-  ],
+  "CytoML": [],
   "DAMEfinder": [
     "bumphunter"
   ],
@@ -564,7 +562,6 @@
     "minfi",
     "bumphunter"
   ],
-  "atSNP": [],
   "atena": [],
   "attract": [],
   "bambu": [],
@@ -935,7 +932,6 @@
     "RUVSeq"
   ],
   "omicRexposome": [],
-  "openCyto": [],
   "orthos": [],
   "pRoloc": [],
   "pRolocGUI": [
@@ -1016,7 +1012,6 @@
     "txdbmaker",
     "biovizBase"
   ],
-  "scClassify": [],
   "scFeatures": [],
   "scTensor": [],
   "scTreeViz": [

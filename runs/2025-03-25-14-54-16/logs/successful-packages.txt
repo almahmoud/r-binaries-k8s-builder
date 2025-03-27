@@ -1883,3 +1883,6 @@ mogsa
 DominoEffect
 gmoviz
 simplifyEnrichment
+atSNP
+openCyto
+scClassify
