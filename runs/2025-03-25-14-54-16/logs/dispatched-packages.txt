@@ -2260,3 +2260,4 @@ scruff
 DMRcate
 MEAL
 methylGSA
+MAGAR

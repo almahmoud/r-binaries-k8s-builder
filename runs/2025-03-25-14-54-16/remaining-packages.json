@@ -46,9 +46,7 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "MAGAR": [
-    "RnBeads"
-  ],
+  "MAGAR": [],
   "MEAL": [],
   "MEAT": [
     "wateRmelon"
@@ -67,7 +65,6 @@
   "RNAmodR.RiboMethSeq": [],
   "ReportingTools": [],
   "RiboProfiling": [],
-  "RnBeads": [],
   "RnaSeqSampleSize": [],
   "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [],
