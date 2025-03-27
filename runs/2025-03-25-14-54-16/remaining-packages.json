@@ -207,8 +207,7 @@
     "GenomicFeatures"
   ],
   "COCOA": [
-    "MIRA",
-    "bsseq"
+    "MIRA"
   ],
   "CRISPRseek": [
     "GenomicFeatures"
@@ -244,7 +243,6 @@
     "GenomicFeatures",
     "AnnotationHub",
     "ExperimentHub",
-    "bsseq",
     "Gviz",
     "methylumi",
     "lumi",
@@ -349,7 +347,6 @@
   "DMRcate": [
     "AnnotationHub",
     "ExperimentHub",
-    "bsseq",
     "minfi",
     "missMethyl",
     "Gviz",
@@ -363,9 +360,7 @@
   "DNAfusion": [
     "GenomicFeatures"
   ],
-  "DSS": [
-    "bsseq"
-  ],
+  "DSS": [],
   "DaMiRseq": [
     "EDASeq",
     "sva",
@@ -383,8 +378,7 @@
   ],
   "DeMixT": [
     "DSS",
-    "sva",
-    "bsseq"
+    "sva"
   ],
   "DeepTarget": [
     "ExperimentHub",
@@ -763,9 +757,7 @@
   "MICSQTL": [
     "TOAST"
   ],
-  "MIRA": [
-    "bsseq"
-  ],
+  "MIRA": [],
   "MLInterfaces": [],
   "MOSClip": [
     "qpgraph",
@@ -877,9 +869,7 @@
     "VariantAnnotation"
   ],
   "NBAMSeq": [],
-  "NanoMethViz": [
-    "bsseq"
-  ],
+  "NanoMethViz": [],
   "NetSAM": [],
   "NoRCE": [
     "GenomicFeatures"
@@ -1202,7 +1192,6 @@
   ],
   "SOMNiBUS": [
     "annotatr",
-    "bsseq",
     "AnnotationHub",
     "GenomicFeatures",
     "regioneR"
@@ -1504,7 +1493,6 @@
     "ensembldb"
   ],
   "biscuiteer": [
-    "bsseq",
     "VariantAnnotation",
     "dmrseq",
     "ExperimentHub",
@@ -1527,11 +1515,9 @@
     "sva"
   ],
   "borealis": [
-    "bsseq",
     "DSS"
   ],
   "broadSeq": [],
-  "bsseq": [],
   "bumphunter": [
     "GenomicFeatures"
   ],
@@ -1828,7 +1814,6 @@
   "dinoR": [],
   "distinct": [],
   "dmrseq": [
-    "bsseq",
     "bumphunter",
     "annotatr",
     "AnnotationHub",
@@ -2122,8 +2107,7 @@
     "GenomicFeatures"
   ],
   "kissDE": [
-    "DSS",
-    "bsseq"
+    "DSS"
   ],
   "knowYourCG": [
     "ExperimentHub",
@@ -2192,8 +2176,7 @@
     "DSS",
     "EDASeq",
     "GenomicFeatures",
-    "txdbmaker",
-    "bsseq"
+    "txdbmaker"
   ],
   "methInheritSim": [],
   "methodical": [
@@ -2206,7 +2189,6 @@
   "methrix": [],
   "methylCC": [
     "minfi",
-    "bsseq",
     "bumphunter",
     "GenomicFeatures"
   ],
@@ -2226,7 +2208,6 @@
     "VariantAnnotation"
   ],
   "methylSig": [
-    "bsseq",
     "DSS"
   ],
   "methylclock": [
@@ -2250,7 +2231,6 @@
     "Category",
     "GOstats"
   ],
-  "miRNAmeConverter": [],
   "miRSM": [
     "BicARE",
     "ReactomePA"
@@ -2632,7 +2612,6 @@
     "txdbmaker"
   ],
   "scmeth": [
-    "bsseq",
     "AnnotationHub",
     "annotatr",
     "GenomicFeatures",

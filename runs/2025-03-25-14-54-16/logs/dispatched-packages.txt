@@ -1743,3 +1743,6 @@ spatialHeatmap
 sva
 tilingArray
 zinbwave
+DSS
+MIRA
+NanoMethViz

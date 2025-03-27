@@ -1533,3 +1533,5 @@ omicsViewer
 funOmics
 genefilter
 girafe
+bsseq
+miRNAmeConverter
