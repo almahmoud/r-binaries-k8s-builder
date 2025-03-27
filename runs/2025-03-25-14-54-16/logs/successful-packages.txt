@@ -2203,3 +2203,5 @@ HiCDCPlus
 RNAmodR.RiboMethSeq
 FRASER
 spatzie
+appreci8R
+NADfinder
