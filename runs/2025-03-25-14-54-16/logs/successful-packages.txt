@@ -1959,3 +1959,4 @@ TFEA.ChIP
 dagLogo
 pRoloc
 scFeatures
+RegEnrich
