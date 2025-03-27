@@ -88,9 +88,7 @@
     "sva",
     "genefilter"
   ],
-  "BLMA": [
-    "ROntoTools"
-  ],
+  "BLMA": [],
   "BOBaFIT": [
     "ggbio",
     "biovizBase",
@@ -1139,7 +1137,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "ROntoTools": [],
   "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils",
@@ -2415,9 +2412,7 @@
     "genefilter",
     "GenomicFeatures"
   ],
-  "mirIntegrator": [
-    "ROntoTools"
-  ],
+  "mirIntegrator": [],
   "missMethyl": [
     "methylumi",
     "minfi",
