@@ -1615,3 +1615,6 @@ MGFR
 MouseFM
 tidyCoverage
 Voyager
+alabaster.sfe
+famat
+microbiomeExplorer

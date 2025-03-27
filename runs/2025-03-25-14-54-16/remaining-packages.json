@@ -1261,7 +1261,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "alabaster.sfe": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -1731,7 +1730,6 @@
   "factR": [
     "GenomicFeatures"
   ],
-  "famat": [],
   "fcScan": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -2004,7 +2002,6 @@
     "ReactomePA"
   ],
   "microSTASIS": [],
-  "microbiomeExplorer": [],
   "minfi": [
     "bumphunter",
     "GenomicFeatures"
