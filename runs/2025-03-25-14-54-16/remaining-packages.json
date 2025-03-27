@@ -353,7 +353,6 @@
     "GenomicFeatures",
     "ensembldb"
   ],
-  "CoverageView": [],
   "CytoGLMM": [],
   "CytoMDS": [
     "CytoPipeline",
