@@ -475,7 +475,6 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "GeneMeta": [],
   "GeneStructureTools": [
     "Gviz",
     "GenomicFeatures",
@@ -1145,9 +1144,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "XDE": [
-    "GeneMeta"
-  ],
+  "XDE": [],
   "XNAString": [],
   "YAPSA": [
     "SomaticSignatures",
