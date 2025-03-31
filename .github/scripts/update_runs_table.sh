@@ -55,7 +55,6 @@ TEMP_README=$(mktemp)
 # Use grep to extract parts before and after the table markers and combine with the new table
 grep -B100000 "<!-- RUNS_TABLE_START -->" README.md > "${TEMP_README}" 2>/dev/null || echo "# R Binaries Kubernetes Builder" > "${TEMP_README}"
 echo "" >> "${TEMP_README}"
-echo "<!-- RUNS_TABLE_START -->" >> "${TEMP_README}"
 cat runs-table.md >> "${TEMP_README}"
 echo "" >> "${TEMP_README}"
 echo "<!-- RUNS_TABLE_END -->" >> "${TEMP_README}"
