@@ -97,6 +97,20 @@ jobs:
           if [[ "${{ steps.check_state.outputs.reset }}" == "true" ]]; then
             RUN_ID=$(TZ=EST date '+%Y-%m-%d-%H-%M-%S')
             echo "${RUN_ID}" > runid
+            
+            # Archive old runs before creating new one
+            chmod +x .github/scripts/archive_runs.sh
+            bash ./.github/scripts/archive_runs.sh "${RUN_ID}"
+            
+            # Commit the changes to READMEs and removed logs
+            git config --global user.name 'GitHub Actions'
+            git config --global user.email 'actions@github.com'
+            git add runs/
+            if ! git diff --staged --quiet; then
+              git commit -m "Archive old runs before starting ${RUN_ID}"
+              git push || (git pull --rebase && git push)
+            fi
+            
             mkdir -p "runs/${RUN_ID}"
             CONTAINER=$(cat CONTAINER_BASE_IMAGE.bioc)
             cp CONTAINER_BASE_IMAGE.bioc "runs/${RUN_ID}/CONTAINER_BASE_IMAGE.bioc"
