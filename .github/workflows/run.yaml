@@ -206,12 +206,7 @@ jobs:
           git add runs/
           
           # Only copy new or modified files to restore directory
-          git diff --staged --name-only | grep "^runs/" | while read -r file; do
-            # Create directory structure in /tmp/restore
-            mkdir -p "/tmp/restore/$(dirname "$file")"
-            # Copy the changed file
-            cp "$file" "/tmp/restore/$file"
-          done
+          git diff --staged --name-only | grep "^runs/" | xargs -r -I{} bash -c 'mkdir -p "/tmp/restore/$(dirname "{}")" && cp "{}" "/tmp/restore/{}"'
           
           echo "Optimized backup complete - only copied changed files"
 
