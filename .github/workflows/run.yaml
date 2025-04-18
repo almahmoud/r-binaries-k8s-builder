@@ -23,6 +23,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Free root space
+        uses: almahmoud/free-root-space@main
+        with:
+          verbose: true
+    
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT }}
