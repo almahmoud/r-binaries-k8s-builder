@@ -1076,3 +1076,6 @@ Streamer
 biocViews
 fgga
 flowWorkspace
+CONFESS
+RadioGx
+ToxicoGx

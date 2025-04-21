@@ -784,3 +784,12 @@ Rcwl
 Rtpca
 scReClassify
 tRNAdbImport
+CoreGx
+flowMerge
+gCrisprTools
+Lheuristic
+scDDboost
+scmap
+scPCA
+switchde
+trio
