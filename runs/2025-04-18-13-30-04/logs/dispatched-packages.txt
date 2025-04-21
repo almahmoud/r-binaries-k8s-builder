@@ -747,3 +747,8 @@ transite
 triplex
 synlet
 Melissa
+DeepPINCS
+mbQTL
+memes
+motifTestR
+progeny

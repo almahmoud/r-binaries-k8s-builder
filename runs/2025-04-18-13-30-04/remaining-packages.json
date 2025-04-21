@@ -94,7 +94,6 @@
     "rtracklayer",
     "VariantAnnotation",
     "Rsamtools",
-    "HybridMTest",
     "AnnotationDbi",
     "DelayedArray",
     "BSgenome"
@@ -806,7 +805,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "CFAssay": [],
   "CGEN": [],
   "CGHbase": [
     "marray"
@@ -951,7 +949,6 @@
     "aCGH",
     "multtest"
   ],
-  "CSAR": [],
   "CSSQ": [
     "SummarizedExperiment",
     "rtracklayer",
@@ -1583,9 +1580,7 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "DeepPINCS": [
-    "ttgsea"
-  ],
+  "DeepPINCS": [],
   "DeepTarget": [
     "fgsea",
     "ExperimentHub",
@@ -1842,7 +1837,6 @@
     "GOSemSim",
     "fgsea"
   ],
-  "EnrichedHeatmap": [],
   "EnrichmentBrowser": [
     "SummarizedExperiment",
     "AnnotationDbi",
@@ -2250,8 +2244,7 @@
   ],
   "GateFinder": [],
   "GenProSeq": [
-    "DeepPINCS",
-    "ttgsea"
+    "DeepPINCS"
   ],
   "GeneBreak": [
     "QDNAseq",
@@ -2286,7 +2279,6 @@
     "AnnotationFilter",
     "DelayedArray"
   ],
-  "GenomAutomorphism": [],
   "GenomicAlignments": [
     "SummarizedExperiment",
     "Rsamtools",
@@ -2466,7 +2458,6 @@
     "DelayedArray",
     "h5mread"
   ],
-  "HDTD": [],
   "HELP": [],
   "HERON": [
     "SummarizedExperiment",
@@ -2603,7 +2594,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "HybridMTest": [],
   "IFAA": [
     "SummarizedExperiment",
     "DelayedArray"
@@ -2626,7 +2616,6 @@
     "rtracklayer",
     "DelayedArray"
   ],
-  "IMPCdata": [],
   "INDEED": [],
   "INSPEcT": [
     "GenomicFeatures",
@@ -2889,7 +2878,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "MBAmethyl": [],
   "MBECS": [
     "phyloseq",
     "sva",
@@ -3084,8 +3072,7 @@
   ],
   "MMUPHin": [
     "Maaslin2",
-    "edgeR",
-    "metagenomeSeq"
+    "edgeR"
   ],
   "MODA": [
     "AMOUNTAIN",
@@ -3259,15 +3246,13 @@
     "DelayedArray"
   ],
   "Maaslin2": [
-    "edgeR",
-    "metagenomeSeq"
+    "edgeR"
   ],
   "Macarron": [
     "SummarizedExperiment",
     "DelayedArray",
     "Maaslin2",
     "edgeR",
-    "metagenomeSeq",
     "AnnotationDbi"
   ],
   "MantelCorr": [],
@@ -3300,7 +3285,6 @@
     "AnnotationDbi"
   ],
   "Melissa": [],
-  "Mergeomics": [],
   "MesKit": [
     "AnnotationDbi"
   ],
@@ -3537,7 +3521,6 @@
   ],
   "MotifPeeker": [
     "BiocFileCache",
-    "universalmotif",
     "rtracklayer",
     "SummarizedExperiment",
     "Rsamtools",
@@ -4467,7 +4450,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "RTCA": [],
   "RTCGA": [],
   "RTCGAToolbox": [
     "DelayedArray",
@@ -5678,7 +5660,6 @@
     "SummarizedExperiment",
     "scater",
     "DeepPINCS",
-    "ttgsea",
     "scuttle",
     "DelayedArray",
     "beachmat",
@@ -5890,7 +5871,6 @@
   "aCGH": [
     "multtest"
   ],
-  "abseqR": [],
   "adSplit": [
     "AnnotationDbi",
     "multtest"
@@ -6885,7 +6865,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "chopsticks": [],
   "chromDraw": [],
   "chromPlot": [
     "biomaRt",
@@ -7191,7 +7170,6 @@
   ],
   "cosmosR": [
     "GSEABase",
-    "decoupleR",
     "annotate",
     "AnnotationDbi"
   ],
@@ -7579,7 +7557,6 @@
     "GenomicAlignments",
     "multtest"
   ],
-  "decoupleR": [],
   "deepSNV": [
     "SummarizedExperiment",
     "VariantAnnotation",
@@ -7792,7 +7769,6 @@
   ],
   "easier": [
     "progeny",
-    "decoupleR",
     "quantiseqr",
     "DESeq2",
     "SummarizedExperiment",
@@ -8157,7 +8133,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "faers": [],
   "famat": [
     "clusterProfiler",
     "AnnotationDbi",
@@ -8278,7 +8253,6 @@
     "Rgraphviz",
     "DelayedArray"
   ],
-  "flowcatchR": [],
   "fobitools": [
     "fgsea"
   ],
@@ -9200,7 +9174,6 @@
     "GenomicAlignments",
     "DelayedArray"
   ],
-  "magrene": [],
   "makecdfenv": [
     "affy"
   ],
@@ -9257,9 +9230,7 @@
     "BiocVersion"
   ],
   "matter": [],
-  "mbQTL": [
-    "metagenomeSeq"
-  ],
+  "mbQTL": [],
   "mbkmeans": [
     "DelayedArray",
     "SingleCellExperiment",
@@ -9267,9 +9238,7 @@
     "beachmat"
   ],
   "megadepth": [],
-  "memes": [
-    "universalmotif"
-  ],
+  "memes": [],
   "meshes": [
     "AnnotationDbi",
     "DOSE",
@@ -9319,7 +9288,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "metagenomeSeq": [],
   "metapod": [],
   "metapone": [
     "fgsea"
@@ -9660,11 +9628,9 @@
   ],
   "microbiomeDASim": [
     "phyloseq",
-    "metagenomeSeq",
     "multtest"
   ],
   "microbiomeExplorer": [
-    "metagenomeSeq",
     "DESeq2",
     "SummarizedExperiment",
     "DelayedArray"
@@ -9819,9 +9785,7 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "motifTestR": [
-    "universalmotif"
-  ],
+  "motifTestR": [],
   "motifbreakR": [
     "MotifDb",
     "BSgenome",
@@ -10341,7 +10305,6 @@
     "DelayedArray"
   ],
   "pathMED": [
-    "decoupleR",
     "GSVA",
     "singscore",
     "SummarizedExperiment",
@@ -10418,7 +10381,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "pgca": [],
   "pgxRpi": [
     "SummarizedExperiment",
     "DelayedArray"
@@ -10652,7 +10614,6 @@
     "ChIPseeker",
     "GenomicFeatures",
     "rGREAT",
-    "EnrichedHeatmap",
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
@@ -10665,9 +10626,7 @@
     "GOSemSim",
     "fgsea"
   ],
-  "progeny": [
-    "decoupleR"
-  ],
+  "progeny": [],
   "projectR": [
     "SingleCellExperiment",
     "fgsea",
@@ -11382,7 +11341,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "scShapes": [],
   "scTGIF": [
     "GSEABase",
     "SingleCellExperiment",
@@ -11603,7 +11561,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "seq.hotSPOT": [],
   "seq2pathway": [
     "biomaRt",
     "AnnotationDbi",
@@ -12502,7 +12459,6 @@
     "multtest"
   ],
   "triplex": [],
-  "ttgsea": [],
   "tweeDEseq": [
     "edgeR"
   ],
@@ -12570,7 +12526,6 @@
     "AnnotationFilter",
     "DelayedArray"
   ],
-  "universalmotif": [],
   "variancePartition": [],
   "velociraptor": [
     "SummarizedExperiment",
