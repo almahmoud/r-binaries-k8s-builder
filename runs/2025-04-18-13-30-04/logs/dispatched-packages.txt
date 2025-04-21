@@ -1088,3 +1088,6 @@ HiCExperiment
 HiCParser
 HiCcompare
 omicsPrint
+SpectralTAD
+TADCompare
+scHiCcompare

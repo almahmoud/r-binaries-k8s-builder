@@ -1608,11 +1608,9 @@
   ],
   "HiCDOC": [
     "multiHiCcompare",
-    "HiCcompare",
     "edgeR"
   ],
   "HiCExperiment": [],
-  "HiCcompare": [],
   "HiContacts": [
     "HiCExperiment"
   ],
@@ -2047,7 +2045,6 @@
   "MantelCorr": [],
   "MatrixQCvis": [
     "ExperimentHub",
-    "proDA",
     "sva",
     "vsn",
     "AnnotationHub",
@@ -2554,7 +2551,6 @@
     "GOSemSim",
     "graphite"
   ],
-  "PolySTest": [],
   "PrInCE": [
     "MSnbase",
     "PSMatch",
@@ -3292,9 +3288,7 @@
     "Spectra",
     "MetaboCoreUtils"
   ],
-  "SpectralTAD": [
-    "HiCcompare"
-  ],
+  "SpectralTAD": [],
   "SpliceWiz": [
     "AnnotationHub",
     "BSgenome",
@@ -3351,9 +3345,7 @@
   "SubCellBarCode": [
     "AnnotationDbi"
   ],
-  "TADCompare": [
-    "HiCcompare"
-  ],
+  "TADCompare": [],
   "TAPseq": [
     "GenomicAlignments",
     "BSgenome",
@@ -6294,7 +6286,6 @@
     "AnnotationHub"
   ],
   "multiHiCcompare": [
-    "HiCcompare",
     "edgeR"
   ],
   "multiMiR": [
@@ -6428,7 +6419,6 @@
     "ALDEx2"
   ],
   "omicsPrint": [],
-  "omicsViewer": [],
   "ontoProc": [
     "AnnotationHub",
     "AnnotationDbi"
@@ -6699,7 +6689,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "proDA": [],
   "profileplyr": [
     "soGGi",
     "ChIPseeker",
@@ -7131,9 +7120,7 @@
   "scGPS": [
     "DESeq2"
   ],
-  "scHiCcompare": [
-    "HiCcompare"
-  ],
+  "scHiCcompare": [],
   "scMerge": [
     "BiocSingular",
     "DelayedMatrixStats",

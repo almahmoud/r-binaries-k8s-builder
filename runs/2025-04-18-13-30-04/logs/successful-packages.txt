@@ -851,3 +851,7 @@ ClusterFoldSimilarity
 EDIRquery
 HiCParser
 Pirat
+HiCcompare
+omicsViewer
+PolySTest
+proDA
