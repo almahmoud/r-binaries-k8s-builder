@@ -4,7 +4,6 @@
   ],
   "ACE": [
     "QDNAseq",
-    "CGHcall",
     "Rsamtools"
   ],
   "ACME": [],
@@ -210,14 +209,8 @@
   "AlpsNMR": [
     "mixOmics"
   ],
-  "AnVIL": [],
-  "AnVILAz": [],
-  "AnVILPublish": [
-    "AnVIL"
-  ],
-  "AnVILWorkflow": [
-    "AnVIL"
-  ],
+  "AnVILPublish": [],
+  "AnVILWorkflow": [],
   "Anaquin": [
     "DESeq2",
     "SummarizedExperiment",
@@ -510,7 +503,6 @@
   ],
   "BioNERO": [
     "sva",
-    "GENIE3",
     "SummarizedExperiment",
     "DelayedArray",
     "genefilter",
@@ -542,7 +534,6 @@
     "biocViews",
     "RBGL"
   ],
-  "BiocFHIR": [],
   "BiocHubsShiny": [
     "AnnotationHub",
     "ExperimentHub",
@@ -744,11 +735,7 @@
     "GOSemSim"
   ],
   "CGEN": [],
-  "CGHcall": [],
-  "CGHnormaliter": [
-    "CGHcall"
-  ],
-  "CGHregions": [],
+  "CGHnormaliter": [],
   "CHETAH": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -882,7 +869,6 @@
     "AnnotationDbi",
     "DelayedArray"
   ],
-  "CTDquerier": [],
   "CTSV": [
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -1956,7 +1942,6 @@
     "SeqVarTools",
     "SNPRelate"
   ],
-  "GENIE3": [],
   "GEOexplorer": [
     "sva",
     "edgeR",
@@ -2084,7 +2069,6 @@
   "GenProSeq": [],
   "GeneBreak": [
     "QDNAseq",
-    "CGHcall",
     "Rsamtools"
   ],
   "GeneMeta": [
@@ -2555,7 +2539,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "IsoCorrectoRGUI": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
     "satuRn",
@@ -2966,17 +2949,12 @@
     "MetaboCoreUtils",
     "DelayedArray"
   ],
-  "MSstats": [],
-  "MSstatsBig": [
-    "MSstats"
-  ],
+  "MSstatsBig": [],
   "MSstatsBioNet": [
-    "MSstats",
     "RCy3"
   ],
   "MSstatsPTM": [
-    "MSstatsTMT",
-    "MSstats"
+    "MSstatsTMT"
   ],
   "MSstatsQC": [
     "MSnbase",
@@ -3006,13 +2984,10 @@
     "DelayedArray"
   ],
   "MSstatsShiny": [
-    "MSstats",
     "MSstatsTMT",
     "MSstatsPTM"
   ],
-  "MSstatsTMT": [
-    "MSstats"
-  ],
+  "MSstatsTMT": [],
   "MWASTools": [
     "SummarizedExperiment",
     "KEGGgraph",
@@ -3065,7 +3040,6 @@
   ],
   "MetNet": [
     "SummarizedExperiment",
-    "GENIE3",
     "DelayedArray"
   ],
   "MetaCyto": [
@@ -3473,7 +3447,6 @@
     "AnnotationFilter",
     "DelayedArray"
   ],
-  "OLINgui": [],
   "OMICsPCA": [
     "HelloRanges",
     "MultiAssayExperiment",
@@ -3746,7 +3719,6 @@
     "edgeR",
     "DelayedArray"
   ],
-  "PhenStat": [],
   "PhosR": [
     "SummarizedExperiment",
     "DelayedArray"
@@ -3834,7 +3806,6 @@
     "DelayedArray"
   ],
   "QDNAseq": [
-    "CGHcall",
     "Rsamtools"
   ],
   "QFeatures": [
@@ -5713,7 +5684,6 @@
     "GenomicAlignments",
     "multtest"
   ],
-  "arrayQuality": [],
   "arrayQualityMetrics": [
     "affy",
     "affyPLM",
@@ -5725,8 +5695,7 @@
     "annotate"
   ],
   "artMS": [
-    "AnnotationDbi",
-    "MSstats"
+    "AnnotationDbi"
   ],
   "atSNP": [
     "BSgenome",
@@ -5771,7 +5740,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "bacon": [],
   "ballgown": [
     "sva",
     "rtracklayer",
@@ -5860,7 +5828,6 @@
     "AnnotationDbi"
   ],
   "bedbaser": [
-    "AnVIL",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -5910,7 +5877,6 @@
     "DOSE",
     "clusterProfiler",
     "ReactomePA",
-    "AnVIL",
     "MultiAssayExperiment",
     "RaggedExperiment",
     "RTCGAToolbox",
@@ -6104,7 +6070,6 @@
     "DelayedArray"
   ],
   "cBioPortalData": [
-    "AnVIL",
     "MultiAssayExperiment",
     "RaggedExperiment",
     "RTCGAToolbox",
@@ -6126,7 +6091,6 @@
     "ggbio",
     "BioNERO",
     "sva",
-    "GENIE3",
     "SummarizedExperiment",
     "biovizBase",
     "Rsamtools",
@@ -6151,7 +6115,6 @@
     "cBioPortalData",
     "GSEABase",
     "phenoTest",
-    "AnVIL",
     "MultiAssayExperiment",
     "RaggedExperiment",
     "RTCGAToolbox",
@@ -6195,7 +6158,6 @@
   "cbaf": [
     "cBioPortalData",
     "genefilter",
-    "AnVIL",
     "MultiAssayExperiment",
     "RaggedExperiment",
     "RTCGAToolbox",
@@ -8167,7 +8129,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "iPath": [],
   "iSEE": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -9124,7 +9085,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "motifTestR": [],
   "motifbreakR": [
     "MotifDb",
     "BSgenome",
@@ -11443,7 +11403,6 @@
   "ternarynet": [],
   "terraTCGAdata": [
     "MultiAssayExperiment",
-    "AnVIL",
     "RaggedExperiment",
     "TCGAutils",
     "SummarizedExperiment",
@@ -11509,7 +11468,6 @@
   "timeOmics": [
     "mixOmics"
   ],
-  "timecourse": [],
   "tomoda": [
     "SummarizedExperiment",
     "DelayedArray"
