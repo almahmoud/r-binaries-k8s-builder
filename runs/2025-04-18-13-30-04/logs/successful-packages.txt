@@ -399,3 +399,9 @@ CytoDx
 flowMatch
 GenomeInfoDb
 simona
+cycle
+flowBeads
+flowCHIC
+flowClean
+flowMeans
+flowPloidy

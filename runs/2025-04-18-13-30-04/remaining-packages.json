@@ -1114,7 +1114,6 @@
   "COMPASS": [],
   "CONFESS": [
     "flowClust",
-    "flowMeans",
     "flowMerge",
     "Rgraphviz"
   ],
@@ -9114,7 +9113,6 @@
     "flowClust",
     "flowViz"
   ],
-  "cycle": [],
   "cydar": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -10118,13 +10116,10 @@
     "BiocBaseUtils"
   ],
   "flowAI": [],
-  "flowBeads": [],
   "flowBin": [
     "flowFP",
     "flowViz"
   ],
-  "flowCHIC": [],
-  "flowClean": [],
   "flowClust": [],
   "flowCut": [
     "flowDensity",
@@ -10144,12 +10139,10 @@
     "ncdfFlow",
     "DelayedArray"
   ],
-  "flowMeans": [],
   "flowMerge": [
     "flowClust",
     "Rgraphviz"
   ],
-  "flowPloidy": [],
   "flowSpecs": [],
   "flowStats": [
     "flowWorkspace",
@@ -12607,9 +12600,7 @@
     "BiocFileCache",
     "Biostrings"
   ],
-  "optimalFlow": [
-    "flowMeans"
-  ],
+  "optimalFlow": [],
   "orthogene": [
     "DelayedArray"
   ],
