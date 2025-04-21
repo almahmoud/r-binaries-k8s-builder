@@ -1,5 +1,1 @@
-DeepPINCS
-mbQTL
-memes
-motifTestR
-progeny
+a4Classif

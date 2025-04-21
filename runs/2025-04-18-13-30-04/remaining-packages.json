@@ -57,7 +57,6 @@
     "OrganismDbi",
     "AnnotationForge",
     "BiocFileCache",
-    "BiocVersion",
     "BiocBaseUtils",
     "RBGL",
     "txdbmaker",
@@ -80,7 +79,6 @@
     "SummarizedExperiment",
     "BiocBaseUtils",
     "DelayedArray",
-    "BiocVersion",
     "AnnotationDbi",
     "h5mread"
   ],
@@ -258,7 +256,6 @@
   ],
   "AnnotationHub": [
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "AnnotationHubData": [
@@ -272,7 +269,6 @@
     "OrganismDbi",
     "AnnotationForge",
     "BiocFileCache",
-    "BiocVersion",
     "BiocBaseUtils",
     "RBGL",
     "txdbmaker",
@@ -501,9 +497,7 @@
     "DelayedArray"
   ],
   "BiGGR": [
-    "rsbml",
     "hyperdraw",
-    "hypergraph",
     "Rgraphviz"
   ],
   "BiSeq": [
@@ -594,7 +588,6 @@
     "AnnotationHub",
     "ExperimentHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "BiocPkgTools": [
@@ -614,7 +607,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "BiocVersion": [],
   "BiocWorkflowTools": [],
   "BloodGen3Module": [
     "SummarizedExperiment",
@@ -622,7 +614,6 @@
     "AnnotationHub",
     "BiocFileCache",
     "DelayedArray",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "BreastSubtypeR": [
@@ -772,7 +763,6 @@
     "DOSE",
     "GOSemSim",
     "AnnotationHub",
-    "BiocVersion",
     "fgsea"
   ],
   "CCAFE": [
@@ -972,7 +962,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "CTexploreR": [
@@ -983,7 +972,6 @@
     "DelayedArray",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "CaDrA": [
@@ -1263,8 +1251,7 @@
     "AnnotationDbi",
     "biomaRt",
     "BiocFileCache",
-    "AnnotationHub",
-    "BiocVersion"
+    "AnnotationHub"
   ],
   "Cogito": [
     "GenomicFeatures",
@@ -1275,7 +1262,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "ComPrAn": [],
   "CompoundDb": [
     "AnnotationFilter",
     "Spectra",
@@ -1564,7 +1550,6 @@
     "scran",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "BiocVersion",
     "AnnotationDbi",
     "scuttle",
     "edgeR",
@@ -1586,7 +1571,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "DegCre": [
@@ -1782,7 +1766,6 @@
     "AnnotationHub",
     "genefilter",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "annotate",
     "bumphunter",
@@ -1813,7 +1796,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "EasyCellType": [
@@ -1858,7 +1840,6 @@
     "genomation",
     "rtracklayer",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "enrichplot",
     "GenomicFeatures",
@@ -1880,7 +1861,6 @@
     "GenomicFeatures",
     "SummarizedExperiment",
     "BiocFileCache",
-    "BiocVersion",
     "rtracklayer",
     "DelayedArray",
     "Rsamtools",
@@ -1905,7 +1885,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "EventPointer": [
@@ -1934,7 +1913,6 @@
   "ExperimentHub": [
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "ExperimentHubData": [
@@ -1950,7 +1928,6 @@
     "OrganismDbi",
     "AnnotationForge",
     "BiocFileCache",
-    "BiocVersion",
     "BiocBaseUtils",
     "RBGL",
     "txdbmaker",
@@ -2030,7 +2007,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "G4SNVHunter": [],
   "GA4GHclient": [
     "VariantAnnotation",
     "SummarizedExperiment",
@@ -2185,7 +2161,6 @@
     "edgeR",
     "EnrichmentBrowser",
     "ExperimentHub",
-    "BiocVersion",
     "GSEABase",
     "KEGGgraph",
     "Rgraphviz",
@@ -2242,7 +2217,6 @@
     "DelayedArray",
     "AnnotationDbi"
   ],
-  "GateFinder": [],
   "GenProSeq": [
     "DeepPINCS"
   ],
@@ -2376,7 +2350,6 @@
     "AnnotationHub",
     "DelayedArray",
     "HDF5Array",
-    "BiocVersion",
     "AnnotationDbi",
     "h5mread"
   ],
@@ -2464,7 +2437,6 @@
     "DelayedArray",
     "multtest"
   ],
-  "HGC": [],
   "HIPPO": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -2766,7 +2738,6 @@
     "ensembldb",
     "BiocFileCache",
     "AnnotationHub",
-    "BiocVersion",
     "AnnotationFilter",
     "annotate"
   ],
@@ -2803,7 +2774,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "Lheuristic": [
@@ -2848,7 +2818,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "MAI": [
@@ -3155,7 +3124,6 @@
     "AnnotationHub",
     "AnnotationDbi",
     "BiocFileCache",
-    "BiocVersion",
     "msmsEDA",
     "edgeR",
     "PSMatch",
@@ -3268,7 +3236,6 @@
     "genefilter",
     "edgeR",
     "affy",
-    "BiocVersion",
     "AnnotationDbi",
     "annotate"
   ],
@@ -3284,7 +3251,6 @@
   "MeSHDbi": [
     "AnnotationDbi"
   ],
-  "Melissa": [],
   "MesKit": [
     "AnnotationDbi"
   ],
@@ -3323,7 +3289,6 @@
     "AnnotationHub",
     "CompoundDb",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "AnnotationFilter",
     "MultiAssayExperiment",
@@ -3354,7 +3319,6 @@
     "Rsamtools",
     "AnnotationHub",
     "DelayedArray",
-    "BiocVersion",
     "GenomicAlignments"
   ],
   "MethReg": [
@@ -3365,7 +3329,6 @@
     "ExperimentHub",
     "TFBSTools",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "BSgenome",
     "rtracklayer",
@@ -3477,7 +3440,6 @@
     "EpiMix",
     "ExperimentHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
@@ -3563,7 +3525,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "MsExperiment": [
@@ -3720,7 +3681,6 @@
     "AnnotationHub",
     "rtracklayer",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "biomaRt",
     "GenomicFeatures",
@@ -4042,7 +4002,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "Pigengene": [
@@ -4250,7 +4209,6 @@
     "BSgenome",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "Rsamtools",
     "bumphunter",
@@ -4299,7 +4257,6 @@
     "fgsea",
     "h5mread"
   ],
-  "RGraph2js": [],
   "RIVER": [],
   "RJMCMCNucleosomes": [
     "consensusSeekeR",
@@ -4450,7 +4407,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "RTCGA": [],
   "RTCGAToolbox": [
     "DelayedArray",
     "RaggedExperiment",
@@ -4533,7 +4489,6 @@
     "AnnotationHub",
     "DelayedArray",
     "HDF5Array",
-    "BiocVersion",
     "h5mread",
     "GenomicAlignments"
   ],
@@ -4590,7 +4545,6 @@
     "fgsea",
     "GOSemSim"
   ],
-  "RedisParam": [],
   "RegEnrich": [
     "BiocSet",
     "SummarizedExperiment",
@@ -4846,7 +4800,6 @@
     "DelayedMatrixStats",
     "SingleCellExperiment"
   ],
-  "SCFA": [],
   "SCOPE": [
     "Rsamtools",
     "BSgenome",
@@ -5064,7 +5017,6 @@
     "gdsfmt",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "SeqVarTools": [
@@ -5236,7 +5188,6 @@
     "h5mread",
     "rtracklayer",
     "SummarizedExperiment",
-    "BiocVersion",
     "AnnotationDbi",
     "Rsamtools",
     "annotate",
@@ -5395,7 +5346,6 @@
   "TDbasedUFE": [],
   "TDbasedUFEadv": [
     "TDbasedUFE",
-    "RTCGA",
     "enrichplot",
     "DOSE",
     "AnnotationDbi",
@@ -5423,7 +5373,6 @@
     "ExperimentHub",
     "rtracklayer",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "BSgenome",
     "BiocBaseUtils",
@@ -5537,7 +5486,6 @@
   "TRONCO": [
     "Rgraphviz"
   ],
-  "TSAR": [],
   "TSCAN": [
     "SingleCellExperiment",
     "TrajectoryUtils",
@@ -5631,7 +5579,6 @@
     "Organism.dplyr",
     "plotgardener",
     "BiocFileCache",
-    "BiocVersion",
     "rtracklayer",
     "Rsamtools",
     "SummarizedExperiment",
@@ -5752,7 +5699,6 @@
     "ensembldb",
     "biovizBase",
     "GenomicAlignments",
-    "BiocVersion",
     "AnnotationFilter",
     "h5mread"
   ],
@@ -5849,7 +5795,6 @@
   "a4": [
     "a4Base",
     "a4Classif",
-    "a4Core",
     "annaffy",
     "genefilter",
     "multtest",
@@ -5857,17 +5802,13 @@
     "annotate"
   ],
   "a4Base": [
-    "a4Core",
     "annaffy",
     "genefilter",
     "multtest",
     "AnnotationDbi",
     "annotate"
   ],
-  "a4Classif": [
-    "a4Core"
-  ],
-  "a4Core": [],
+  "a4Classif": [],
   "aCGH": [
     "multtest"
   ],
@@ -5879,7 +5820,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "adverSCarial": [
@@ -6048,8 +5988,7 @@
   ],
   "altcdfenvs": [
     "affy",
-    "makecdfenv",
-    "hypergraph"
+    "makecdfenv"
   ],
   "amplican": [
     "ShortRead",
@@ -6110,7 +6049,6 @@
     "DelayedArray",
     "HDF5Array",
     "OrganismDbi",
-    "BiocVersion",
     "h5mread",
     "RBGL",
     "txdbmaker",
@@ -6177,7 +6115,6 @@
     "Rsamtools",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "rtracklayer",
     "DelayedArray"
@@ -6588,8 +6525,7 @@
     "AnnotationDbi",
     "AnnotationHub",
     "fgsea",
-    "BiocFileCache",
-    "BiocVersion"
+    "BiocFileCache"
   ],
   "cageminer": [
     "ggbio",
@@ -6737,7 +6673,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "cghMCR": [
@@ -7007,7 +6942,6 @@
     "bumphunter",
     "ExperimentHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
@@ -7182,7 +7116,6 @@
     "annotate",
     "DelayedArray"
   ],
-  "covEB": [],
   "covRNA": [
     "genefilter",
     "AnnotationDbi",
@@ -7235,14 +7168,12 @@
     "BiocFileCache",
     "ExperimentHub",
     "AnnotationHub",
-    "DelayedArray",
-    "BiocVersion"
+    "DelayedArray"
   ],
   "crisprScore": [
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "crisprShiny": [
@@ -7267,7 +7198,6 @@
     "GenomicAlignments",
     "SummarizedExperiment",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationFilter",
     "DelayedArray"
   ],
@@ -7287,7 +7217,6 @@
     "AnnotationHub",
     "Gviz",
     "BiocFileCache",
-    "BiocVersion",
     "Rsamtools",
     "biomaRt",
     "ensembldb",
@@ -7319,8 +7248,7 @@
     "AnnotationFilter",
     "ExperimentHub",
     "AnnotationHub",
-    "DelayedArray",
-    "BiocVersion"
+    "DelayedArray"
   ],
   "crlmm": [
     "oligoClasses",
@@ -7364,7 +7292,6 @@
   "customCMPdb": [
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "customProDB": [
@@ -7672,7 +7599,6 @@
     "ConsensusClusterPlus",
     "DelayedArray"
   ],
-  "diffuStats": [],
   "dinoR": [
     "SummarizedExperiment",
     "edgeR",
@@ -7775,7 +7701,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "DelayedArray"
   ],
@@ -7883,7 +7808,6 @@
     "ExperimentHub",
     "ensembldb",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationFilter",
     "Rsamtools",
     "BSgenome",
@@ -7915,7 +7839,6 @@
     "motifmatchr",
     "beachmat",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "DelayedArray",
     "DelayedMatrixStats",
@@ -7961,7 +7884,6 @@
     "DelayedArray"
   ],
   "epivizr": [
-    "epivizrServer",
     "epivizrData",
     "bumphunter",
     "GenomicFeatures",
@@ -7981,7 +7903,6 @@
   ],
   "epivizrChart": [
     "epivizrData",
-    "epivizrServer",
     "SummarizedExperiment",
     "OrganismDbi",
     "GenomicFeatures",
@@ -7998,7 +7919,6 @@
     "BiocFileCache"
   ],
   "epivizrData": [
-    "epivizrServer",
     "SummarizedExperiment",
     "OrganismDbi",
     "GenomicFeatures",
@@ -8014,10 +7934,8 @@
     "biomaRt",
     "BiocFileCache"
   ],
-  "epivizrServer": [],
   "epivizrStandalone": [
     "epivizr",
-    "epivizrServer",
     "GenomicFeatures",
     "epivizrData",
     "bumphunter",
@@ -8076,7 +7994,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "ScaledMatrix",
     "beachmat",
     "h5mread"
@@ -8577,7 +8494,6 @@
     "BiocFileCache",
     "DelayedArray"
   ],
-  "gpls": [],
   "graphite": [
     "AnnotationDbi"
   ],
@@ -8677,7 +8593,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "BiocBaseUtils"
   ],
@@ -8693,7 +8608,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "hummingbird": [
@@ -8701,10 +8615,8 @@
     "DelayedArray"
   ],
   "hyperdraw": [
-    "hypergraph",
     "Rgraphviz"
   ],
-  "hypergraph": [],
   "iCNV": [
     "CODEX",
     "Rsamtools",
@@ -8806,7 +8718,6 @@
     "AnnotationHub",
     "iSEE",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "DelayedArray"
   ],
@@ -8934,8 +8845,7 @@
   "ipdDb": [
     "AnnotationDbi",
     "AnnotationHub",
-    "BiocFileCache",
-    "BiocVersion"
+    "BiocFileCache"
   ],
   "isobar": [
     "biomaRt",
@@ -8989,7 +8899,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "lefser": [
@@ -9115,7 +9024,6 @@
     "AnnotationHub",
     "BiocFileCache",
     "GenomicAlignments",
-    "BiocVersion",
     "AnnotationDbi",
     "SummarizedExperiment",
     "DelayedArray"
@@ -9226,11 +9134,9 @@
     "ExperimentHub",
     "AnnotationHub",
     "DelayedArray",
-    "BiocFileCache",
-    "BiocVersion"
+    "BiocFileCache"
   ],
   "matter": [],
-  "mbQTL": [],
   "mbkmeans": [
     "DelayedArray",
     "SingleCellExperiment",
@@ -9247,7 +9153,6 @@
     "AnnotationHub",
     "MeSHDbi",
     "BiocFileCache",
-    "BiocVersion",
     "fgsea"
   ],
   "meshr": [
@@ -9461,7 +9366,6 @@
     "GEOquery",
     "DelayedArray",
     "HDF5Array",
-    "BiocVersion",
     "AnnotationDbi",
     "GenomicFeatures",
     "AnnotationHubData",
@@ -9911,7 +9815,6 @@
     "fgsea",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "multtest"
   ],
   "multiHiCcompare": [
@@ -10048,7 +9951,6 @@
   "nethet": [
     "multtest"
   ],
-  "netprioR": [],
   "netresponse": [
     "Rgraphviz"
   ],
@@ -10159,7 +10061,6 @@
     "Rgraphviz",
     "AnnotationHub",
     "SummarizedExperiment",
-    "BiocVersion",
     "AnnotationDbi",
     "DelayedArray"
   ],
@@ -10203,7 +10104,6 @@
     "ExperimentHub",
     "HDF5Array",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "h5mread"
   ],
@@ -10299,7 +10199,6 @@
     "SingleCellExperiment",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "SummarizedExperiment",
     "DelayedArray"
@@ -10518,7 +10417,6 @@
     "Rgraphviz",
     "AnnotationHub",
     "SummarizedExperiment",
-    "BiocVersion",
     "AnnotationDbi",
     "DelayedArray"
   ],
@@ -10573,7 +10471,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocVersion",
     "SummarizedExperiment",
     "VariantAnnotation",
     "AnnotationFilter",
@@ -10647,7 +10544,6 @@
     "edgeR",
     "recount",
     "SummarizedExperiment",
-    "BiocVersion",
     "derfinder",
     "GEOquery",
     "rtracklayer",
@@ -10803,7 +10699,6 @@
   "rGenomeTracks": [
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "rScudo": [
@@ -10948,7 +10843,6 @@
     "Gviz",
     "RCy3",
     "BiocFileCache",
-    "BiocVersion",
     "rtracklayer",
     "biomaRt",
     "GenomicFeatures",
@@ -11071,7 +10965,6 @@
     "GOSemSim",
     "AnnotationDbi"
   ],
-  "rsbml": [],
   "rtracklayer": [
     "Rsamtools",
     "GenomicAlignments",
@@ -11139,7 +11032,6 @@
     "SummarizedExperiment",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "DelayedArray"
   ],
@@ -11350,13 +11242,11 @@
     "AnnotationDbi",
     "DelayedArray"
   ],
-  "scTHI": [],
   "scTreeViz": [
     "epivizr",
     "SummarizedExperiment",
     "scran",
     "epivizrData",
-    "epivizrServer",
     "scater",
     "SingleCellExperiment",
     "bumphunter",
@@ -11392,7 +11282,6 @@
     "rtracklayer",
     "txdbmaker",
     "BiocFileCache",
-    "BiocVersion",
     "Rsamtools",
     "GenomicAlignments",
     "biomaRt",
@@ -11609,7 +11498,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "DelayedArray",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "sevenC": [
@@ -11629,7 +11517,6 @@
     "standR",
     "SummarizedExperiment",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "scuttle",
     "DelayedArray",
@@ -11709,8 +11596,7 @@
     "AnnotationHub",
     "BiocFileCache",
     "annotate",
-    "h5mread",
-    "BiocVersion"
+    "h5mread"
   ],
   "signeR": [
     "VariantAnnotation",
@@ -11908,7 +11794,6 @@
     "BiocFileCache",
     "SingleCellExperiment",
     "DelayedArray",
-    "BiocVersion",
     "AnnotationDbi"
   ],
   "spatialHeatmap": [
@@ -12232,8 +12117,7 @@
     "BiocFileCache",
     "Rgraphviz",
     "AnnotationHub",
-    "DelayedArray",
-    "BiocVersion"
+    "DelayedArray"
   ],
   "terapadog": [
     "DESeq2",
@@ -12493,7 +12377,6 @@
     "ensembldb",
     "BiocFileCache",
     "AnnotationHub",
-    "BiocVersion",
     "AnnotationFilter",
     "rtracklayer",
     "Rsamtools",
@@ -12549,8 +12432,7 @@
     "AnnotationDbi",
     "ExperimentHub",
     "AnnotationHub",
-    "BiocFileCache",
-    "BiocVersion"
+    "BiocFileCache"
   ],
   "vsclust": [
     "MultiAssayExperiment",
@@ -12629,7 +12511,6 @@
     "singscore",
     "AnnotationHub",
     "BiocFileCache",
-    "BiocVersion",
     "AnnotationDbi",
     "DelayedArray",
     "GSEABase",
