@@ -537,7 +537,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "CONFESS": [],
   "COTAN": [
     "BiocSingular",
     "beachmat"
@@ -646,9 +645,7 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "ChIPXpress": [
-    "frma"
-  ],
+  "ChIPXpress": [],
   "ChIPanalyser": [
     "BSgenome",
     "rtracklayer",
@@ -1162,7 +1159,6 @@
   ],
   "FEAST": [
     "TSCAN",
-    "SC3",
     "TrajectoryUtils"
   ],
   "FELLA": [],
@@ -1897,7 +1893,6 @@
     "edgeR",
     "AnnotationDbi"
   ],
-  "MantelCorr": [],
   "MatrixQCvis": [
     "ExperimentHub",
     "sva",
@@ -2827,7 +2822,6 @@
     "pathview",
     "AnnotationDbi"
   ],
-  "SC3": [],
   "SCAN.UPC": [
     "sva",
     "genefilter",
@@ -4595,7 +4589,6 @@
     "GenomicAlignments"
   ],
   "easier": [
-    "quantiseqr",
     "ExperimentHub",
     "AnnotationHub",
     "AnnotationDbi"
@@ -4894,7 +4887,6 @@
     "flowWorkspace"
   ],
   "flowWorkspace": [],
-  "frma": [],
   "frmaTools": [],
   "funOmics": [
     "AnnotationDbi"
@@ -6022,7 +6014,6 @@
     "QFeatures",
     "MetaboCoreUtils"
   ],
-  "padma": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools",
@@ -6303,7 +6294,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "quantiseqr": [],
   "quantro": [
     "minfi",
     "bumphunter",
@@ -6338,7 +6328,6 @@
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "rScudo": [],
   "rTRM": [
     "AnnotationDbi"
   ],
@@ -6626,7 +6615,6 @@
     "beachmat",
     "edgeR"
   ],
-  "scMultiSim": [],
   "scQTLtools": [
     "biomaRt",
     "GOSemSim",
@@ -7042,7 +7030,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ssPATHS": [],
   "ssviz": [
     "Rsamtools"
   ],
@@ -7182,7 +7169,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "tomoda": [],
   "topdownr": [
     "MSnbase",
     "PSMatch",

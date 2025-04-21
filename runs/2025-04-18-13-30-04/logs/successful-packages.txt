@@ -945,3 +945,13 @@ microbiome
 RUCova
 sechm
 transomics2cytoscape
+CONFESS
+frma
+MantelCorr
+padma
+quantiseqr
+rScudo
+SC3
+scMultiSim
+ssPATHS
+tomoda
