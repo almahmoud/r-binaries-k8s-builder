@@ -1147,7 +1147,6 @@
     "BiocSingular",
     "annotate"
   ],
-  "GWENA": [],
   "GeneBreak": [
     "QDNAseq",
     "Rsamtools"
@@ -1425,7 +1424,6 @@
     "annotate"
   ],
   "KCsmart": [],
-  "KEGGlincs": [],
   "KnowSeq": [
     "sva",
     "edgeR",
@@ -1569,7 +1567,6 @@
     "Maaslin2",
     "edgeR"
   ],
-  "MODA": [],
   "MOMA": [],
   "MOSClip": [
     "graphite",
@@ -1666,7 +1663,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "MeSHDbi": [],
   "MesKit": [],
   "MetCirc": [
     "Spectra",
@@ -4722,11 +4718,9 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "AnnotationHub",
-    "MeSHDbi"
+    "AnnotationHub"
   ],
   "meshr": [
-    "MeSHDbi",
     "Category",
     "GSEABase",
     "genefilter",
