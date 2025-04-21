@@ -1,5 +1,4 @@
 {
-  "ABarray": [],
   "ACE": [
     "QDNAseq",
     "Rsamtools"
@@ -442,7 +441,6 @@
     "biocViews",
     "RBGL"
   ],
-  "BioMVCClass": [],
   "BioNAR": [
     "AnnotationDbi"
   ],
@@ -1049,8 +1047,7 @@
   "ConsensusClusterPlus": [],
   "CoreGx": [
     "SummarizedExperiment",
-    "MultiAssayExperiment",
-    "piano"
+    "MultiAssayExperiment"
   ],
   "Cormotif": [
     "affy"
@@ -1488,7 +1485,6 @@
     "GOSemSim"
   ],
   "EnMCB": [],
-  "EnhancedVolcano": [],
   "EnrichDO": [
     "clusterProfiler",
     "AnnotationDbi",
@@ -1537,7 +1533,6 @@
   ],
   "EpiTxDb": [
     "AnnotationDbi",
-    "Modstrings",
     "GenomicFeatures",
     "txdbmaker",
     "tRNAdbImport",
@@ -2287,7 +2282,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "LOLA": [],
   "LRcell": [
     "ExperimentHub",
     "AnnotationHub",
@@ -2829,7 +2823,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "Modstrings": [],
   "MoleculeExperiment": [
     "SpatialExperiment",
     "SingleCellExperiment",
@@ -3009,7 +3002,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "NanoTube": [],
   "Nebulosa": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -3083,7 +3075,6 @@
     "SummarizedExperiment",
     "txdbmaker"
   ],
-  "OSTA.data": [],
   "OTUbase": [
     "ShortRead",
     "Rsamtools",
@@ -3169,7 +3160,6 @@
     "MultiAssayExperiment",
     "ConsensusClusterPlus",
     "CoreGx",
-    "piano",
     "survcomp",
     "genefu",
     "biomaRt",
@@ -3497,7 +3487,6 @@
     "AnnotationDbi",
     "clusterProfiler",
     "edgeR",
-    "EnhancedVolcano",
     "enrichplot",
     "mixOmics",
     "MOFA2",
@@ -3542,7 +3531,6 @@
     "BSgenome"
   ],
   "RNAmodR": [
-    "Modstrings",
     "txdbmaker",
     "GenomicFeatures",
     "GenomicAlignments",
@@ -3570,7 +3558,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "Modstrings",
     "txdbmaker",
     "SummarizedExperiment",
     "VariantAnnotation",
@@ -3578,7 +3565,6 @@
   ],
   "RNAmodR.ML": [
     "RNAmodR",
-    "Modstrings",
     "txdbmaker",
     "GenomicFeatures",
     "GenomicAlignments",
@@ -3606,7 +3592,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "Modstrings",
     "txdbmaker",
     "SummarizedExperiment",
     "VariantAnnotation",
@@ -3681,8 +3666,7 @@
   "RadioGx": [
     "CoreGx",
     "SummarizedExperiment",
-    "MultiAssayExperiment",
-    "piano"
+    "MultiAssayExperiment"
   ],
   "RaggedExperiment": [
     "SummarizedExperiment"
@@ -4038,7 +4022,6 @@
     "biomaRt",
     "SummarizedExperiment"
   ],
-  "SNAGEE": [],
   "SNPRelate": [],
   "SNPhood": [
     "Rsamtools",
@@ -4351,7 +4334,6 @@
     "AnnotationDbi"
   ],
   "SummarizedExperiment": [],
-  "SynExtend": [],
   "TADCompare": [
     "HiCcompare",
     "InteractionSet",
@@ -4563,8 +4545,7 @@
   "ToxicoGx": [
     "CoreGx",
     "SummarizedExperiment",
-    "MultiAssayExperiment",
-    "piano"
+    "MultiAssayExperiment"
   ],
   "TrajectoryUtils": [
     "SingleCellExperiment",
@@ -5213,7 +5194,6 @@
   "biocViews": [
     "RBGL"
   ],
-  "biodbUniprot": [],
   "biomaRt": [
     "AnnotationDbi"
   ],
@@ -5552,7 +5532,6 @@
     "SingleCellExperiment",
     "chevreulProcess",
     "chevreulPlot",
-    "EnhancedVolcano",
     "wiggleplotr",
     "scater",
     "scran",
@@ -6852,7 +6831,6 @@
     "rtracklayer",
     "SummarizedExperiment"
   ],
-  "gcatest": [],
   "gcrma": [
     "affy"
   ],
@@ -8562,7 +8540,6 @@
     "SummarizedExperiment"
   ],
   "phyloseq": [],
-  "piano": [],
   "pipeComp": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -10029,11 +10006,8 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "tRNA": [
-    "Modstrings"
-  ],
+  "tRNA": [],
   "tRNAdbImport": [
-    "Modstrings",
     "tRNA"
   ],
   "tRNAscanImport": [
@@ -10042,7 +10016,6 @@
     "BSgenome",
     "Rsamtools",
     "GenomicAlignments",
-    "Modstrings",
     "SummarizedExperiment"
   ],
   "tadar": [

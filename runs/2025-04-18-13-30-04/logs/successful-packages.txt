@@ -662,3 +662,15 @@ pqsfinder
 Rgraphviz
 ssrch
 topconfects
+ABarray
+biodbUniprot
+BioMVCClass
+EnhancedVolcano
+gcatest
+LOLA
+Modstrings
+NanoTube
+OSTA.data
+piano
+SNAGEE
+SynExtend
