@@ -870,3 +870,9 @@ MultiDataSet
 RTN
 SpatialExperiment
 VDJdive
+DiscoRhythm
+ExpressionAtlas
+GEOquery
+iSEEhex
+multistateQTL
+PhosR
