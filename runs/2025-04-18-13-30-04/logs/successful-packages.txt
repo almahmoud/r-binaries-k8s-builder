@@ -710,3 +710,10 @@ siggenes
 TileDBArray
 tRNA
 TRONCO
+AlphaMissenseR
+crisprBase
+genomeIntervals
+HDF5Array
+Icens
+oncoscanR
+TDbasedUFE
