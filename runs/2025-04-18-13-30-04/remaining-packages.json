@@ -503,7 +503,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "BiFET": [],
   "BiGGR": [
     "rsbml",
     "hyperdraw",
@@ -1269,7 +1268,6 @@
     "ExperimentHub",
     "AnnotationDbi",
     "biomaRt",
-    "annotationTools",
     "BiocFileCache",
     "AnnotationHub",
     "BiocVersion"
@@ -1907,7 +1905,6 @@
     "BiocFileCache",
     "tRNAdbImport",
     "rtracklayer",
-    "Structstrings",
     "tRNA",
     "biomaRt",
     "Rsamtools",
@@ -2636,7 +2633,6 @@
     "rtracklayer",
     "DelayedArray"
   ],
-  "IMMAN": [],
   "IMPCdata": [],
   "INDEED": [],
   "INSPEcT": [
@@ -2838,7 +2834,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "LinTInd": [],
   "LinkHD": [
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -2856,7 +2851,6 @@
     "HDF5Array",
     "h5mread"
   ],
-  "LymphoSeq": [],
   "M3Drop": [
     "scater",
     "SingleCellExperiment",
@@ -3958,7 +3952,6 @@
     "DESeq2",
     "fgsea",
     "mixOmics",
-    "RankProd",
     "SummarizedExperiment",
     "sva",
     "DelayedArray",
@@ -3996,7 +3989,6 @@
     "DESeq2",
     "fgsea",
     "mixOmics",
-    "RankProd",
     "sva",
     "DelayedArray",
     "Spectra",
@@ -4129,7 +4121,6 @@
     "DelayedArray"
   ],
   "ProteoDisco": [
-    "cleaver",
     "GenomicFeatures",
     "VariantAnnotation",
     "AnnotationDbi",
@@ -4557,7 +4548,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "RankProd": [],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -5340,7 +5330,6 @@
   "Streamer": [
     "RBGL"
   ],
-  "Structstrings": [],
   "StructuralVariantAnnotation": [
     "rtracklayer",
     "VariantAnnotation",
@@ -6001,7 +5990,6 @@
     "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
-    "alabaster.string",
     "alabaster.vcf",
     "alabaster.mae",
     "MultiAssayExperiment",
@@ -6072,11 +6060,9 @@
     "HDF5Array",
     "h5mread"
   ],
-  "alabaster.string": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "alabaster.se",
-    "alabaster.string",
     "Rsamtools",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -6121,7 +6107,6 @@
   "annotate": [
     "AnnotationDbi"
   ],
-  "annotationTools": [],
   "anota": [
     "multtest"
   ],
@@ -6954,7 +6939,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "cleaver": [],
   "clevRvis": [],
   "cliProfiler": [
     "rtracklayer",
@@ -8536,7 +8520,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "ggseqalign": [],
   "ggspavis": [
     "SpatialExperiment",
     "SingleCellExperiment",
@@ -9122,7 +9105,6 @@
   ],
   "lmdme": [],
   "loci2path": [],
-  "logicFS": [],
   "lpNet": [
     "KEGGgraph",
     "Rgraphviz"
@@ -9203,7 +9185,6 @@
     "RBGL",
     "txdbmaker"
   ],
-  "maCorrPlot": [],
   "maPredictDSC": [
     "affy",
     "gcrma",
@@ -9565,7 +9546,6 @@
     "GenomicAlignments",
     "multtest"
   ],
-  "mfa": [],
   "miQC": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -9610,7 +9590,6 @@
     "graphite",
     "DelayedArray"
   ],
-  "miRcomp": [],
   "miRspongeR": [
     "SPONGE",
     "clusterProfiler",
@@ -9925,7 +9904,6 @@
     "txdbmaker"
   ],
   "mslp": [
-    "RankProd",
     "AnnotationDbi"
   ],
   "msmsEDA": [
@@ -10159,7 +10137,6 @@
     "Rsamtools",
     "DelayedArray"
   ],
-  "odseq": [],
   "oligo": [
     "oligoClasses",
     "SummarizedExperiment",
@@ -10881,7 +10858,6 @@
     "BiocVersion",
     "AnnotationDbi"
   ],
-  "rSWeeP": [],
   "rScudo": [
     "SummarizedExperiment",
     "DelayedArray"
@@ -12237,9 +12213,7 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "synlet": [
-    "RankProd"
-  ],
+  "synlet": [],
   "syntenet": [
     "rtracklayer",
     "Rsamtools",
@@ -12271,17 +12245,14 @@
     "DelayedArray"
   ],
   "tRNA": [
-    "Structstrings",
     "Modstrings"
   ],
   "tRNAdbImport": [
     "Modstrings",
-    "Structstrings",
     "tRNA"
   ],
   "tRNAscanImport": [
     "tRNA",
-    "Structstrings",
     "rtracklayer",
     "BSgenome",
     "Rsamtools",
@@ -12386,7 +12357,6 @@
     "SingleCellExperiment",
     "DelayedArray"
   ],
-  "tidytof": [],
   "tigre": [
     "AnnotationDbi",
     "annotate"
@@ -12709,7 +12679,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "wppi": [],
   "xCell2": [
     "SummarizedExperiment",
     "SingleCellExperiment",
