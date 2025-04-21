@@ -156,7 +156,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "AssessORF": [],
   "BANDITS": [
     "DRIMSeq",
     "edgeR"
@@ -762,7 +761,6 @@
     "GenomicAlignments",
     "Rsamtools"
   ],
-  "CytoGLMM": [],
   "CytoMDS": [
     "CytoPipeline",
     "ggcyto",
@@ -1418,7 +1416,6 @@
     "AnnotationDbi"
   ],
   "GenomicTuples": [],
-  "GeoTcgaData": [],
   "Glimma": [
     "edgeR"
   ],
@@ -2322,7 +2319,6 @@
     "QFeatures",
     "MetaboCoreUtils"
   ],
-  "PWMEnrich": [],
   "PanomiR": [
     "clusterProfiler",
     "GSEABase",

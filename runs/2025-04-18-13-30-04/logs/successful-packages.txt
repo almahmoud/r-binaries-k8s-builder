@@ -986,3 +986,7 @@ LimROTS
 methylscaper
 TPP
 weitrix
+AssessORF
+CytoGLMM
+GeoTcgaData
+PWMEnrich
