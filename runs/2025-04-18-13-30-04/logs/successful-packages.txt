@@ -911,3 +911,9 @@ coRdon
 IgGeneUsage
 MACSQuantifyR
 MSA2dist
+crlmm
+DESeq2
+GNET2
+IHW
+mosbi
+MSstatsBig

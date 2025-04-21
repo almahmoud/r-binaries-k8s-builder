@@ -1145,3 +1145,15 @@ plier
 pvac
 qpcrNorm
 vsn
+Anaquin
+DELocal
+DEWSeq
+EBSEA
+HybridExpress
+MultiRNAflow
+animalcules
+deltaCaptureC
+microbiomeExplorer
+scGPS
+systemPipeTools
+zitools
