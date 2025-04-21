@@ -674,3 +674,14 @@ OSTA.data
 piano
 SNAGEE
 SynExtend
+AMOUNTAIN
+AnnotationFilter
+DelayedRandomArray
+EnMCB
+GenProSeq
+GWAS.BAYES
+IWTomics
+limpa
+OCplus
+Rarr
+RUVcorr
