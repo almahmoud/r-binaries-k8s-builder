@@ -1527,7 +1527,6 @@
     "multiHiCcompare",
     "edgeR"
   ],
-  "HiContacts": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome",
@@ -1709,7 +1708,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "MBQN": [],
   "MCbiclust": [
     "AnnotationDbi"
   ],
@@ -2293,7 +2291,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "PCAN": [],
   "PCAtools": [
     "DelayedMatrixStats",
     "BiocSingular",
@@ -2674,7 +2671,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RadioGx": [],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -3019,7 +3015,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "SiPSiC": [],
   "SigCheck": [
     "MLInterfaces",
     "annotate",
@@ -3306,7 +3301,6 @@
     "AnnotationDbi"
   ],
   "TnT": [],
-  "ToxicoGx": [],
   "TrajectoryUtils": [],
   "TreeSummarizedExperiment": [],
   "TurboNorm": [
@@ -7286,10 +7280,8 @@
     "GenomicAlignments"
   ],
   "tidySpatialExperiment": [],
-  "tidySummarizedExperiment": [],
   "tidybulk": [],
   "tidyomics": [
-    "tidySummarizedExperiment",
     "tidybulk",
     "plyranges",
     "nullranges",

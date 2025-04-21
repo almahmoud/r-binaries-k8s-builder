@@ -924,3 +924,10 @@ GenomicSuperSignature
 HiCBricks
 methyLImp2
 phenopath
+HiContacts
+MBQN
+PCAN
+RadioGx
+SiPSiC
+tidySummarizedExperiment
+ToxicoGx
