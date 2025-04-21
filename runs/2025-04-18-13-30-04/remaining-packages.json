@@ -24,7 +24,6 @@
     "biocViews",
     "BiocCheck",
     "OrganismDbi",
-    "AnnotationForge",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -89,7 +88,6 @@
     "Glimma",
     "Category",
     "annotate",
-    "AnnotationForge",
     "GSEABase",
     "ggbio",
     "genefilter",
@@ -119,7 +117,6 @@
   ],
   "AnVILPublish": [],
   "Anaquin": [],
-  "AnnotationForge": [],
   "AnnotationHub": [],
   "AnnotationHubData": [
     "AnnotationHub",
@@ -129,7 +126,6 @@
     "biocViews",
     "BiocCheck",
     "OrganismDbi",
-    "AnnotationForge",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -641,7 +637,6 @@
     "QFeatures",
     "MetaboCoreUtils"
   ],
-  "CoCiteStats": [],
   "CoSIA": [
     "ExperimentHub",
     "biomaRt",
@@ -1015,7 +1010,6 @@
     "biocViews",
     "BiocCheck",
     "OrganismDbi",
-    "AnnotationForge",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -1084,7 +1078,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "GBScleanR": [],
   "GDCRNATools": [
     "edgeR",
     "clusterProfiler",
@@ -1121,7 +1114,6 @@
   "GOstats": [
     "Category",
     "annotate",
-    "AnnotationForge",
     "GSEABase",
     "genefilter"
   ],
@@ -1259,8 +1251,7 @@
     "GSEABase",
     "GOstats",
     "genefilter",
-    "annotate",
-    "AnnotationForge"
+    "annotate"
   ],
   "GreyListChIP": [
     "GenomicAlignments",
@@ -1760,7 +1751,6 @@
     "annotate",
     "lumi",
     "Category",
-    "AnnotationForge",
     "methylumi",
     "GenomicFeatures",
     "GSEABase",
@@ -2400,7 +2390,6 @@
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationForge",
     "txdbmaker",
     "biomaRt"
   ],
@@ -2531,7 +2520,6 @@
     "genefilter",
     "GOstats",
     "Category",
-    "AnnotationForge",
     "GSEABase"
   ],
   "SGSeq": [
@@ -3031,7 +3019,6 @@
     "Glimma",
     "Category",
     "annotate",
-    "AnnotationForge",
     "GSEABase",
     "ggbio",
     "genefilter",
@@ -3152,7 +3139,6 @@
     "GOstats",
     "Category",
     "annotate",
-    "AnnotationForge",
     "GSEABase",
     "genefilter"
   ],
@@ -3395,8 +3381,7 @@
     "Category",
     "GOstats",
     "annotate",
-    "genefilter",
-    "AnnotationForge"
+    "genefilter"
   ],
   "cbaf": [
     "cBioPortalData",
@@ -4886,7 +4871,6 @@
     "biocViews",
     "BiocCheck",
     "OrganismDbi",
-    "AnnotationForge",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -4908,7 +4892,6 @@
     "GSEABase",
     "genefilter",
     "annotate",
-    "AnnotationForge",
     "biomaRt"
   ],
   "miRNAmeConverter": [],
@@ -6251,7 +6234,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "tidySpatialExperiment": [],
   "tidybulk": [],
   "tidyomics": [
     "tidybulk",
