@@ -937,7 +937,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "BUS": [],
   "BUScorrect": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -1800,7 +1799,6 @@
     "IRanges",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "scuttle",
     "SparseArray",
     "DelayedArray",
@@ -2183,7 +2181,6 @@
     "BiocGenerics",
     "Biobase",
     "graph",
-    "cytolib",
     "S4Vectors",
     "Rgraphviz"
   ],
@@ -3187,7 +3184,6 @@
     "flowCore",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "CytoGLMM": [
@@ -3203,7 +3199,6 @@
     "BiocFileCache",
     "PeacoQC",
     "flowAI",
-    "cytolib",
     "S4Vectors",
     "ncdfFlow",
     "flowWorkspace",
@@ -3218,7 +3213,6 @@
     "XVector"
   ],
   "CytoML": [
-    "cytolib",
     "flowCore",
     "flowWorkspace",
     "openCyto",
@@ -3247,7 +3241,6 @@
     "flowAI",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors",
     "ncdfFlow",
     "flowWorkspace",
@@ -3271,7 +3264,6 @@
     "flowAI",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors",
     "ncdfFlow",
     "flowWorkspace",
@@ -4911,7 +4903,6 @@
     "flowCore",
     "BiocGenerics",
     "Biobase",
-    "cytolib",
     "S4Vectors"
   ],
   "FuseSOM": [
@@ -5299,7 +5290,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "GSCA": [],
   "GSEABase": [
     "BiocGenerics",
     "Biobase",
@@ -5462,7 +5452,6 @@
     "flowFP",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors",
     "flowViz"
   ],
@@ -5492,7 +5481,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "GeneGA": [],
   "GeneMeta": [
     "Biobase",
     "genefilter",
@@ -6393,7 +6381,6 @@
     "UCSC.utils"
   ],
   "HuBMAPR": [],
-  "HubPub": [],
   "HybridExpress": [
     "DESeq2",
     "SummarizedExperiment",
@@ -7172,7 +7159,6 @@
     "ComplexHeatmap",
     "BiocGenerics",
     "IRanges",
-    "cytolib",
     "S4Vectors"
   ],
   "MBASED": [
@@ -8224,7 +8210,6 @@
     "FlowSOM",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors",
     "ConsensusClusterPlus"
   ],
@@ -9484,7 +9469,6 @@
     "Rgraphviz",
     "BiocGenerics"
   ],
-  "OpenStats": [],
   "OrderedList": [
     "Biobase",
     "twilight",
@@ -9615,9 +9599,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "PANR": [
-    "RedeR"
-  ],
+  "PANR": [],
   "PAST": [
     "qvalue",
     "rtracklayer",
@@ -10012,7 +9994,6 @@
     "IRanges",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors",
     "graph",
     "RBGL",
@@ -10587,7 +10568,6 @@
     "graph",
     "BiocGenerics"
   ],
-  "RDRToolbox": [],
   "REBET": [
     "ASSET"
   ],
@@ -10731,7 +10711,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RLMM": [],
   "RMassBank": [
     "Biobase",
     "ChemmineR",
@@ -11063,7 +11042,6 @@
     "BiocParallel"
   ],
   "RTN": [
-    "RedeR",
     "viper",
     "limma",
     "IRanges",
@@ -11081,7 +11059,6 @@
   ],
   "RTNduals": [
     "RTN",
-    "RedeR",
     "viper",
     "limma",
     "IRanges",
@@ -11100,7 +11077,6 @@
   "RTNsurvival": [
     "RTN",
     "RTNduals",
-    "RedeR",
     "viper",
     "limma",
     "IRanges",
@@ -11295,7 +11271,6 @@
     "BiocParallel",
     "UCSC.utils"
   ],
-  "Rbwa": [],
   "RcisTarget": [
     "AUCell",
     "BiocGenerics",
@@ -11405,7 +11380,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "RedeR": [],
   "RedisParam": [
     "BiocParallel"
   ],
@@ -12481,7 +12455,6 @@
     "flowCore",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "ScreenR": [
@@ -13164,7 +13137,6 @@
     "UCSC.utils",
     "XVector",
     "treeio",
-    "cytolib",
     "ConsensusClusterPlus"
   ],
   "Streamer": [
@@ -13932,9 +13904,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "TreeAndLeaf": [
-    "RedeR"
-  ],
+  "TreeAndLeaf": [],
   "TreeSummarizedExperiment": [
     "SingleCellExperiment",
     "S4Vectors",
@@ -15218,7 +15188,6 @@
   "arrayMvout": [
     "Biobase",
     "affy",
-    "mdqc",
     "affyContam",
     "lumi",
     "BiocGenerics",
@@ -16590,7 +16559,6 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "cytolib",
     "ConsensusClusterPlus",
     "UCSC.utils",
     "XVector"
@@ -17196,7 +17164,6 @@
     "SummarizedExperiment",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors",
     "GenomicRanges",
     "IRanges",
@@ -17736,7 +17703,6 @@
     "BSgenome",
     "crisprBase",
     "GenomeInfoDb",
-    "Rbwa",
     "S4Vectors",
     "IRanges",
     "GenomicRanges",
@@ -18096,7 +18062,6 @@
     "flowClust",
     "BiocGenerics",
     "graph",
-    "cytolib",
     "S4Vectors",
     "flowViz"
   ],
@@ -18117,7 +18082,6 @@
     "Biobase",
     "BiocNeighbors",
     "assorthead",
-    "cytolib",
     "GenomicRanges",
     "DelayedArray",
     "IRanges",
@@ -18168,7 +18132,6 @@
     "flowCore",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "cytofQC": [
@@ -18184,7 +18147,6 @@
     "BiocStyle",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "GenomicRanges",
     "DelayedArray",
     "IRanges",
@@ -18201,7 +18163,6 @@
     "assorthead",
     "ScaledMatrix"
   ],
-  "cytolib": [],
   "cytomapper": [
     "EBImage",
     "SingleCellExperiment",
@@ -18380,7 +18341,6 @@
     "flowPeaks",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors",
     "flowViz"
   ],
@@ -18795,7 +18755,6 @@
     "IRanges",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "ConsensusClusterPlus",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -20037,14 +19996,12 @@
     "flowCore",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "flowBeads": [
     "Biobase",
     "flowCore",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "flowBin": [
@@ -20053,7 +20010,6 @@
     "limma",
     "BiocGenerics",
     "Biobase",
-    "cytolib",
     "S4Vectors",
     "flowViz"
   ],
@@ -20062,14 +20018,12 @@
     "EBImage",
     "BiocGenerics",
     "Biobase",
-    "cytolib",
     "S4Vectors"
   ],
   "flowClean": [
     "flowCore",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "flowClust": [
@@ -20077,13 +20031,11 @@
     "Biobase",
     "graph",
     "flowCore",
-    "cytolib",
     "S4Vectors"
   ],
   "flowCore": [
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "flowCut": [
@@ -20091,7 +20043,6 @@
     "flowDensity",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors",
     "flowViz"
   ],
@@ -20100,7 +20051,6 @@
     "flowViz",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "flowFP": [
@@ -20108,7 +20058,6 @@
     "flowViz",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "flowGate": [
@@ -20117,7 +20066,6 @@
     "flowCore",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors",
     "graph",
     "RBGL",
@@ -20134,14 +20082,12 @@
     "flowCore",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "flowMeans": [
     "Biobase",
     "flowCore",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "flowMerge": [
@@ -20151,7 +20097,6 @@
     "flowCore",
     "BiocGenerics",
     "Biobase",
-    "cytolib",
     "S4Vectors"
   ],
   "flowPeaks": [],
@@ -20159,7 +20104,6 @@
     "flowCore",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "flowSpecs": [
@@ -20167,7 +20111,6 @@
     "BiocParallel",
     "Biobase",
     "flowCore",
-    "cytolib",
     "S4Vectors"
   ],
   "flowStats": [
@@ -20177,7 +20120,6 @@
     "ncdfFlow",
     "flowViz",
     "Biobase",
-    "cytolib",
     "S4Vectors",
     "graph",
     "RBGL",
@@ -20192,7 +20134,6 @@
     "flowCore",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "flowTrans": [
@@ -20202,7 +20143,6 @@
     "BiocGenerics",
     "Biobase",
     "graph",
-    "cytolib",
     "S4Vectors"
   ],
   "flowVS": [
@@ -20211,7 +20151,6 @@
     "flowStats",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors",
     "flowWorkspace",
     "ncdfFlow",
@@ -20228,13 +20167,11 @@
     "flowCore",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "flowWorkspace": [
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "graph",
     "RBGL",
     "Rgraphviz",
@@ -20256,12 +20193,10 @@
     "ChemmineR",
     "BiocGenerics"
   ],
-  "fmrs": [],
   "fobitools": [
     "fgsea",
     "BiocParallel"
   ],
-  "frenchFISH": [],
   "frma": [
     "Biobase",
     "affy",
@@ -20631,7 +20566,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "geneplast": [],
   "geneplotter": [
     "Biobase",
     "BiocGenerics",
@@ -20753,7 +20687,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "geva": [],
   "geyser": [
     "BiocStyle",
     "ComplexHeatmap",
@@ -20828,7 +20761,6 @@
     "flowWorkspace",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors",
     "graph",
     "RBGL",
@@ -21397,7 +21329,6 @@
     "SparseArray"
   ],
   "hierGWAS": [],
-  "hierinf": [],
   "hipathia": [
     "AnnotationHub",
     "MultiAssayExperiment",
@@ -21494,7 +21425,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "iCARE": [],
   "iCNV": [
     "CODEX",
     "Rsamtools",
@@ -21955,7 +21885,6 @@
     "flowCore",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "immunotation": [],
@@ -21980,7 +21909,6 @@
     "flowCore",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "intansv": [
@@ -22018,7 +21946,6 @@
     "biomaRt",
     "BiocFileCache"
   ],
-  "interacCircos": [],
   "interactiveDisplay": [
     "BiocGenerics",
     "interactiveDisplayBase",
@@ -22809,7 +22736,6 @@
     "XVector"
   ],
   "mdp": [],
-  "mdqc": [],
   "megadepth": [
     "GenomicRanges",
     "BiocGenerics",
@@ -24649,7 +24575,6 @@
     "flowCore",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "nearBynding": [
@@ -25100,7 +25025,6 @@
     "flowClust",
     "RBGL",
     "graph",
-    "cytolib",
     "S4Vectors",
     "Rgraphviz",
     "DelayedArray",
@@ -25161,7 +25085,6 @@
     "Biobase",
     "flowCore",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "orthogene": [
@@ -27130,7 +27053,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "retrofit": [],
   "rexposome": [
     "Biobase",
     "S4Vectors",
@@ -27774,7 +27696,6 @@
     "flowCore",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
@@ -28362,7 +28283,6 @@
     "XVector",
     "GenomeInfoDb",
     "Biobase",
-    "cytolib",
     "pwalign",
     "UCSC.utils"
   ],
@@ -29677,7 +29597,6 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "cytolib",
     "UCSC.utils",
     "XVector",
     "scuttle",
@@ -30405,7 +30324,6 @@
     "Biobase",
     "flowCore",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "tidySingleCellExperiment": [
@@ -30502,7 +30420,6 @@
     "flowCore",
     "Biobase",
     "BiocGenerics",
-    "cytolib",
     "S4Vectors"
   ],
   "tigre": [
@@ -30822,7 +30739,6 @@
     "BiocParallel",
     "XVector",
     "SparseArray",
-    "cytolib",
     "ConsensusClusterPlus",
     "UCSC.utils"
   ],
@@ -30847,7 +30763,6 @@
     "IRanges",
     "S4Arrays",
     "SparseArray",
-    "cytolib",
     "ConsensusClusterPlus",
     "GenomeInfoDb",
     "XVector",
