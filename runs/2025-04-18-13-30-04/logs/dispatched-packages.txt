@@ -353,3 +353,8 @@ rhdf5
 statTarget
 XINA
 cytolib
+GSCA
+IntramiRExploreR
+alevinQC
+biomformat
+scMitoMut

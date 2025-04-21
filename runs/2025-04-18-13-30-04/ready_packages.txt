@@ -1,2 +1,5 @@
-XINA
-cytolib
+GSCA
+IntramiRExploreR
+alevinQC
+biomformat
+scMitoMut
