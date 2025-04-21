@@ -96,3 +96,17 @@ sagenhaft
 SBMLR
 sparseMatrixStats
 Summix
+ccrepe
+DynDoc
+GEM
+LPE
+mistyR
+ModCon
+mzID
+rawrr
+RProtoBufLib
+statTarget
+STRINGdb
+switchBox
+TrIdent
+tripr

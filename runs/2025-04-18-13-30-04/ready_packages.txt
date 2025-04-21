@@ -1,6 +1,2 @@
-HubPub
-dupRadar
-multiClust
-mzID
-rhdf5
-statTarget
+XINA
+cytolib
