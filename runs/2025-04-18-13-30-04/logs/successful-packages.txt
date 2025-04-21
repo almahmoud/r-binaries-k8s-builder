@@ -968,3 +968,14 @@ pmp
 RNAsense
 TrajectoryUtils
 wpm
+CGEN
+iChip
+ITALICS
+limmaGUI
+Linnorm
+mBPCR
+mpra
+NetActivity
+omicplotR
+rmelting
+SingleCellAlleleExperiment

@@ -482,7 +482,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "CGEN": [],
   "CHRONOS": [
     "biomaRt",
     "AnnotationDbi"
@@ -1557,7 +1556,6 @@
     "PSMatch",
     "vsn"
   ],
-  "ITALICS": [],
   "IVAS": [
     "GenomicFeatures",
     "AnnotationDbi",
@@ -1648,7 +1646,6 @@
     "AnnotationDbi"
   ],
   "LimROTS": [],
-  "Linnorm": [],
   "LiquidAssociation": [
     "AnnotationDbi"
   ],
@@ -2146,7 +2143,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "NetActivity": [],
   "NetSAM": [
     "biomaRt",
     "AnnotationDbi"
@@ -2982,7 +2978,6 @@
   "SimFFPE": [
     "Rsamtools"
   ],
-  "SingleCellAlleleExperiment": [],
   "SingleCellSignalR": [
     "edgeR",
     "scran",
@@ -3757,7 +3752,6 @@
     "mnem",
     "sva",
     "vsn",
-    "Linnorm",
     "genefilter",
     "edgeR",
     "AnnotationDbi",
@@ -4626,8 +4620,7 @@
     "GenomicAlignments"
   ],
   "epiNEM": [
-    "mnem",
-    "Linnorm"
+    "mnem"
   ],
   "epialleleR": [],
   "epidecodeR": [
@@ -5148,7 +5141,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "iChip": [],
   "iNETgrate": [
     "Pigengene",
     "minfi",
@@ -5293,7 +5285,6 @@
     "glmGamPoi",
     "beachmat"
   ],
-  "limmaGUI": [],
   "lineagespot": [
     "VariantAnnotation",
     "Rsamtools",
@@ -5345,7 +5336,6 @@
     "GenomicAlignments",
     "AnnotationDbi"
   ],
-  "mBPCR": [],
   "mCSEA": [
     "biomaRt",
     "GenomicFeatures",
@@ -5708,9 +5698,7 @@
   "mitology": [
     "AnnotationDbi"
   ],
-  "mnem": [
-    "Linnorm"
-  ],
+  "mnem": [],
   "mobileRNA": [
     "edgeR",
     "rtracklayer",
@@ -5768,7 +5756,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "mpra": [],
   "msImpute": [
     "scran",
     "scuttle",
@@ -5889,8 +5876,7 @@
   ],
   "nempi": [
     "mnem",
-    "epiNEM",
-    "Linnorm"
+    "epiNEM"
   ],
   "netSmooth": [
     "scater",
@@ -5941,7 +5927,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "omicplotR": [],
   "omicsPrint": [],
   "ontoProc": [
     "AnnotationHub",
@@ -6450,7 +6435,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "rmelting": [],
   "rmspc": [
     "rtracklayer",
     "Rsamtools",

@@ -1,2 +1,1 @@
-TSCAN
-slingshot
+mnem
