@@ -567,3 +567,17 @@ RTCGA
 SCFA
 scTHI
 TSAR
+aroma.light
+BiocBaseUtils
+BiocFileCache
+DEsingle
+DNAshapeR
+EMDomics
+GenomicDataCommons
+IsoCorrectoR
+KBoost
+MiChip
+onlineFDR
+RIVER
+ROTS
+scatterHatch
