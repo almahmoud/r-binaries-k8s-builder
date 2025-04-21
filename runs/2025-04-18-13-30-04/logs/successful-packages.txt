@@ -843,3 +843,7 @@ oncomix
 pathwayPCA
 RaggedExperiment
 survtype
+iasva
+omicade4
+OVESEG
+PAIRADISE

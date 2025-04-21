@@ -2398,7 +2398,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "OVESEG": [],
   "OmicsMLRepoR": [],
   "OncoScore": [
     "biomaRt",
@@ -2437,7 +2436,6 @@
   "PADOG": [
     "AnnotationDbi"
   ],
-  "PAIRADISE": [],
   "PAST": [
     "rtracklayer",
     "Rsamtools",
@@ -5607,7 +5605,6 @@
   "iSEEu": [
     "iSEEhex"
   ],
-  "iasva": [],
   "icetea": [
     "GenomicFeatures",
     "ShortRead",
@@ -6425,14 +6422,12 @@
   ],
   "omicRexposome": [
     "sva",
-    "omicade4",
     "MultiDataSet",
     "genefilter",
     "edgeR",
     "AnnotationDbi",
     "annotate"
   ],
-  "omicade4": [],
   "omicplotR": [
     "ALDEx2"
   ],
