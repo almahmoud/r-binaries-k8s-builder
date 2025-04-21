@@ -411,14 +411,12 @@
   "BiocSingular": [
     "beachmat"
   ],
-  "BiocSklearn": [],
   "BiocWorkflowTools": [],
   "BloodGen3Module": [
     "ExperimentHub",
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "BreastSubtypeR": [],
   "BubbleTree": [
     "biovizBase",
     "Rsamtools",
@@ -3447,7 +3445,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "Scale4C": [],
   "ScreenR": [
     "edgeR"
   ],
@@ -3461,7 +3458,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "SeqGate": [],
   "SeqSQC": [
     "ExperimentHub",
     "SNPRelate",
@@ -3587,7 +3583,6 @@
     "ExperimentHub",
     "GenomicAlignments"
   ],
-  "SplicingFactory": [],
   "SplicingGraphs": [
     "GenomicFeatures",
     "GenomicAlignments",
@@ -4681,7 +4676,6 @@
     "GenomicAlignments",
     "edgeR"
   ],
-  "chihaya": [],
   "chimeraviz": [
     "Gviz",
     "ensembldb",

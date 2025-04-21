@@ -739,3 +739,9 @@ scanMiR
 SDAMS
 SigFuge
 timeOmics
+BiocSklearn
+BreastSubtypeR
+chihaya
+Scale4C
+SeqGate
+SplicingFactory
