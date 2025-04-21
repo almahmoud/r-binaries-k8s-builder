@@ -572,3 +572,10 @@ scShapes
 scTHI
 ternarynet
 variancePartition
+CCPlotR
+ClustAll
+InteractiveComplexHeatmap
+SparseArray
+cola
+simona
+tkWidgets
