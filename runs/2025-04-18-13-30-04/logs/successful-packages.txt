@@ -964,3 +964,7 @@ FELLA
 GenomicDistributions
 PepSetTest
 puma
+pmp
+RNAsense
+TrajectoryUtils
+wpm

@@ -1157,8 +1157,7 @@
     "TreeSummarizedExperiment"
   ],
   "FEAST": [
-    "TSCAN",
-    "TrajectoryUtils"
+    "TSCAN"
   ],
   "FRASER": [
     "Rsamtools",
@@ -2595,7 +2594,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RNAsense": [],
   "RNAseqCovarImpute": [
     "edgeR"
   ],
@@ -3226,9 +3224,7 @@
     "AnnotationDbi",
     "GenomicAlignments"
   ],
-  "TSCAN": [
-    "TrajectoryUtils"
-  ],
+  "TSCAN": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -3248,7 +3244,6 @@
     "AnnotationDbi"
   ],
   "TnT": [],
-  "TrajectoryUtils": [],
   "TreeSummarizedExperiment": [],
   "TurboNorm": [
     "convert"
@@ -4130,7 +4125,6 @@
   "concordexR": [],
   "condiments": [
     "slingshot",
-    "TrajectoryUtils",
     "distinct",
     "scater",
     "scuttle",
@@ -6125,7 +6119,6 @@
     "Rsamtools"
   ],
   "plyxp": [],
-  "pmp": [],
   "podkat": [
     "Rsamtools",
     "BSgenome",
@@ -6609,8 +6602,7 @@
     "Rsamtools",
     "rtracklayer",
     "slingshot",
-    "GenomicAlignments",
-    "TrajectoryUtils"
+    "GenomicAlignments"
   ],
   "scTGIF": [
     "GSEABase",
@@ -6895,9 +6887,7 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "slingshot": [
-    "TrajectoryUtils"
-  ],
+  "slingshot": [],
   "smartid": [],
   "smoothclust": [],
   "smoppix": [],
@@ -7182,8 +7172,7 @@
   ],
   "tradeSeq": [
     "edgeR",
-    "slingshot",
-    "TrajectoryUtils"
+    "slingshot"
   ],
   "transcriptR": [
     "chipseq",
@@ -7336,7 +7325,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "wpm": [],
   "xCell2": [
     "singscore",
     "AnnotationHub",
