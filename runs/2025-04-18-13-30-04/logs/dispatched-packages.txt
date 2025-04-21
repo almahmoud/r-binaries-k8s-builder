@@ -338,3 +338,7 @@ veloviz
 weaver
 widgetTools
 xmapbridge
+CNAnorm
+MANOR
+clst
+rhdf5filters
