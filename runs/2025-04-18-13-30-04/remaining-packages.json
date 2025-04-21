@@ -11148,9 +11148,7 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "gcatest": [
-    "lfa"
-  ],
+  "gcatest": [],
   "gcrma": [
     "affy",
     "Biostrings",
@@ -12087,7 +12085,6 @@
     "GenomicRanges",
     "GenomeInfoDb"
   ],
-  "lfa": [],
   "limmaGUI": [],
   "limpa": [],
   "limpca": [
@@ -12721,7 +12718,6 @@
     "multtest"
   ],
   "mfa": [],
-  "mgsa": [],
   "miQC": [
     "SingleCellExperiment",
     "SummarizedExperiment",
