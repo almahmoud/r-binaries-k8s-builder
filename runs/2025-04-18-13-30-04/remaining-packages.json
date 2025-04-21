@@ -476,7 +476,6 @@
     "BiocSingular"
   ],
   "CRISPRball": [
-    "dittoSeq",
     "PCAtools",
     "BiocSingular"
   ],
@@ -2578,9 +2577,7 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "SPIAT": [
-    "dittoSeq"
-  ],
+  "SPIAT": [],
   "SPLINTER": [
     "biomaRt",
     "GenomicAlignments",
@@ -3993,7 +3990,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "dittoSeq": [],
   "divergence": [],
   "dominoSignal": [
     "biomaRt"
@@ -4390,7 +4386,6 @@
     "GSEABase",
     "annotate"
   ],
-  "geyser": [],
   "gg4way": [
     "edgeR"
   ],
@@ -6078,7 +6073,6 @@
     "ShortRead"
   ],
   "sosta": [],
-  "spaSim": [],
   "sparrow": [
     "BiocSet",
     "edgeR",
