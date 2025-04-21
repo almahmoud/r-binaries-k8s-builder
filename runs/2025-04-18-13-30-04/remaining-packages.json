@@ -6066,7 +6066,6 @@
   "pathview": [
     "AnnotationDbi"
   ],
-  "pdInfoBuilder": [],
   "peakPantheR": [
     "MSnbase",
     "PSMatch",
@@ -7375,7 +7374,6 @@
   "xenLite": [
     "TENxIO"
   ],
-  "yamss": [],
   "yarn": [
     "biomaRt",
     "edgeR",
