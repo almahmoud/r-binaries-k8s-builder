@@ -344,3 +344,16 @@ TargetDecoy
 updateObject
 widgetTools
 XVector
+affyio
+alabaster.base
+ClusterSignificance
+dStruct
+GIGSEA
+HuBMAPR
+iBBiG
+LBE
+levi
+phosphonormalizer
+rWikiPathways
+SMAD
+tkWidgets

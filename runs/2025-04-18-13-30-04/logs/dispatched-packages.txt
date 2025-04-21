@@ -579,3 +579,6 @@ SparseArray
 cola
 simona
 tkWidgets
+Mfuzz
+affy
+alabaster.bumpy
