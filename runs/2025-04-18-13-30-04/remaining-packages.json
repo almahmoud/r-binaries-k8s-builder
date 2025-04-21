@@ -1545,7 +1545,6 @@
     "edgeR",
     "DESeq2"
   ],
-  "GloScope": [],
   "GlobalAncova": [
     "globaltest",
     "annotate",
@@ -7192,7 +7191,6 @@
     "BiocSingular",
     "beachmat"
   ],
-  "scDataviz": [],
   "scDblFinder": [
     "BiocSingular",
     "scran",
