@@ -860,3 +860,7 @@ MuData
 Nebulosa
 PIUMA
 QTLExperiment
+CAEN
+ccfindR
+HiCExperiment
+iSEEindex
