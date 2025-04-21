@@ -483,7 +483,6 @@
     "GOSemSim"
   ],
   "CGEN": [],
-  "CGHnormaliter": [],
   "CHRONOS": [
     "biomaRt",
     "AnnotationDbi"
@@ -1161,7 +1160,6 @@
     "TSCAN",
     "TrajectoryUtils"
   ],
-  "FELLA": [],
   "FRASER": [
     "Rsamtools",
     "AnnotationDbi",
@@ -1352,7 +1350,6 @@
   "GenomicAlignments": [
     "Rsamtools"
   ],
-  "GenomicDistributions": [],
   "GenomicFeatures": [
     "AnnotationDbi",
     "rtracklayer",
@@ -2347,7 +2344,6 @@
   "PeacoQC": [
     "flowWorkspace"
   ],
-  "PepSetTest": [],
   "PhIPData": [
     "edgeR"
   ],
@@ -3441,7 +3437,6 @@
   "affyPLM": [
     "gcrma"
   ],
-  "affycomp": [],
   "affycoretools": [
     "GOstats",
     "gcrma",
@@ -3479,7 +3474,6 @@
     "BiocSingular"
   ],
   "alabaster": [
-    "alabaster.ranges",
     "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
@@ -3497,27 +3491,20 @@
     "Rsamtools"
   ],
   "alabaster.mae": [
-    "alabaster.se",
-    "alabaster.ranges"
+    "alabaster.se"
   ],
-  "alabaster.ranges": [],
   "alabaster.sce": [
-    "alabaster.se",
-    "alabaster.ranges"
+    "alabaster.se"
   ],
-  "alabaster.se": [
-    "alabaster.ranges"
-  ],
+  "alabaster.se": [],
   "alabaster.spatial": [
     "alabaster.sce",
-    "alabaster.se",
-    "alabaster.ranges"
+    "alabaster.se"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
     "alabaster.se",
     "Rsamtools",
-    "alabaster.ranges",
     "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
@@ -6250,7 +6237,6 @@
     "QFeatures",
     "MetaboCoreUtils"
   ],
-  "puma": [],
   "pvac": [],
   "pvca": [
     "vsn"

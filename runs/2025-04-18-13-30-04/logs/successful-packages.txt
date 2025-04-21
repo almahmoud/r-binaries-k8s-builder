@@ -957,3 +957,10 @@ ssPATHS
 tomoda
 pdInfoBuilder
 yamss
+affycomp
+alabaster.ranges
+CGHnormaliter
+FELLA
+GenomicDistributions
+PepSetTest
+puma
