@@ -663,3 +663,6 @@ scoup
 seqArchR
 sscu
 universalmotif
+AnnotationDbi
+FELLA
+SynExtend
