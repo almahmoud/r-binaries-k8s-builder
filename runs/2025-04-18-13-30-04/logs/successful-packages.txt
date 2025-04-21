@@ -996,3 +996,12 @@ BaseSpaceR
 GSEAmining
 smartid
 TSCAN
+alabaster.mae
+alabaster.sce
+beachmat
+hopach
+mirTarRnaSeq
+mnem
+snapcount
+SpectralTAD
+TADCompare

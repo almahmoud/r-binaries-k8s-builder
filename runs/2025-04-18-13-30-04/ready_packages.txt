@@ -1,1 +1,10 @@
-FEAST
+BiocSingular
+SingleR
+alabaster.spatial
+beachmat.hdf5
+beachmat.tiledb
+epiNEM
+glmGamPoi
+mbkmeans
+scrapper
+scuttle
