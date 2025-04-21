@@ -313,3 +313,11 @@ ribor
 SCBN
 sevenbridges
 sights
+BiocNeighbors
+BiocParallel
+BumpyMatrix
+DirichletMultinomial
+islify
+iterativeBMA
+SIMAT
+twoddpcr
