@@ -429,7 +429,6 @@
     "GenomicAlignments",
     "GenomicFiles",
     "Gviz",
-    "InteractionSet",
     "GenomicInteractions",
     "Rsamtools",
     "AnnotationDbi",
@@ -448,7 +447,6 @@
     "rtracklayer",
     "GenomicFiles",
     "Gviz",
-    "InteractionSet",
     "GenomicInteractions",
     "AnnotationDbi",
     "VariantAnnotation",
@@ -1003,7 +1001,6 @@
     "AnnotationDbi"
   ],
   "DegCre": [
-    "InteractionSet",
     "plotgardener",
     "AnnotationDbi",
     "plyranges",
@@ -1065,7 +1062,6 @@
   ],
   "Dune": [],
   "DuplexDiscovereR": [
-    "InteractionSet",
     "Gviz",
     "rtracklayer",
     "GenomicAlignments",
@@ -1090,9 +1086,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "EDIRquery": [
-    "InteractionSet"
-  ],
+  "EDIRquery": [],
   "EGAD": [
     "GEOquery"
   ],
@@ -1161,7 +1155,6 @@
   "EnrichmentBrowser": [
     "AnnotationDbi",
     "GSEABase",
-    "SPIA",
     "edgeR",
     "graphite",
     "pathview",
@@ -1399,7 +1392,6 @@
     "EnrichmentBrowser",
     "ExperimentHub",
     "GSEABase",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
@@ -1485,7 +1477,6 @@
     "GenomicAlignments"
   ],
   "GenomicInteractions": [
-    "InteractionSet",
     "Rsamtools",
     "rtracklayer",
     "Gviz",
@@ -1606,7 +1597,6 @@
   ],
   "HiCBricks": [],
   "HiCDCPlus": [
-    "InteractionSet",
     "GenomicInteractions",
     "BSgenome",
     "rtracklayer",
@@ -1621,27 +1611,18 @@
     "VariantAnnotation"
   ],
   "HiCDOC": [
-    "InteractionSet",
     "multiHiCcompare",
     "HiCcompare",
     "edgeR"
   ],
-  "HiCExperiment": [
-    "InteractionSet"
-  ],
-  "HiCParser": [
-    "InteractionSet"
-  ],
-  "HiCcompare": [
-    "InteractionSet"
-  ],
+  "HiCExperiment": [],
+  "HiCParser": [],
+  "HiCcompare": [],
   "HiContacts": [
-    "HiCExperiment",
-    "InteractionSet"
+    "HiCExperiment"
   ],
   "HiCool": [
-    "HiCExperiment",
-    "InteractionSet"
+    "HiCExperiment"
   ],
   "HiLDA": [
     "GenomicFeatures",
@@ -1657,7 +1638,6 @@
     "GenomicAlignments"
   ],
   "HicAggR": [
-    "InteractionSet",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -1761,7 +1741,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "InteractionSet": [],
   "IsoBayes": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
@@ -3172,7 +3151,6 @@
     "GenomicAlignments"
   ],
   "SPEM": [],
-  "SPIA": [],
   "SPIAT": [
     "SpatialExperiment",
     "dittoSeq"
@@ -3326,8 +3304,7 @@
     "MetaboCoreUtils"
   ],
   "SpectralTAD": [
-    "HiCcompare",
-    "InteractionSet"
+    "HiCcompare"
   ],
   "SpliceWiz": [
     "AnnotationHub",
@@ -3386,8 +3363,7 @@
     "AnnotationDbi"
   ],
   "TADCompare": [
-    "HiCcompare",
-    "InteractionSet"
+    "HiCcompare"
   ],
   "TAPseq": [
     "GenomicAlignments",
@@ -4881,7 +4857,6 @@
   ],
   "destiny": [],
   "diffHic": [
-    "InteractionSet",
     "Rsamtools",
     "BSgenome",
     "edgeR",
@@ -4957,7 +4932,6 @@
     "annotate",
     "AnnotationDbi",
     "EnrichmentBrowser",
-    "SPIA",
     "graphite",
     "pathview",
     "safe"
@@ -5200,7 +5174,6 @@
   "extraChIPs": [
     "csaw",
     "edgeR",
-    "InteractionSet",
     "Rsamtools",
     "rtracklayer",
     "GenomicAlignments"
@@ -5384,7 +5357,6 @@
   ],
   "genomicInstability": [],
   "geomeTriD": [
-    "InteractionSet",
     "trackViewer",
     "GenomicAlignments",
     "GenomicFeatures",
@@ -5430,7 +5402,6 @@
   "ggmanh": [
     "SeqArray"
   ],
-  "ggsc": [],
   "ggspavis": [
     "SpatialExperiment"
   ],
@@ -5554,7 +5525,6 @@
     "BSgenome"
   ],
   "hicVennDiagram": [
-    "InteractionSet",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -5741,7 +5711,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "kmcut": [],
   "knowYourCG": [
     "ExperimentHub",
     "AnnotationHub",
@@ -5772,7 +5741,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "lionessR": [],
   "lipidr": [
     "ropls",
     "MultiDataSet"
@@ -5861,14 +5829,12 @@
     "affy"
   ],
   "mariner": [
-    "InteractionSet",
     "plyranges",
     "plotgardener",
     "rtracklayer",
     "GenomicAlignments",
     "Rsamtools"
   ],
-  "marr": [],
   "maser": [
     "rtracklayer",
     "Gviz",
@@ -6158,7 +6124,6 @@
     "TreeSummarizedExperiment"
   ],
   "microbiome": [],
-  "microbiomeDASim": [],
   "microbiomeExplorer": [
     "DESeq2"
   ],
@@ -6348,8 +6313,7 @@
   ],
   "multiHiCcompare": [
     "HiCcompare",
-    "edgeR",
-    "InteractionSet"
+    "edgeR"
   ],
   "multiMiR": [
     "AnnotationDbi"
@@ -6452,7 +6416,6 @@
     "GenomicAlignments"
   ],
   "nullranges": [
-    "InteractionSet",
     "plyranges",
     "rtracklayer",
     "GenomicAlignments",
@@ -6676,7 +6639,6 @@
     "Rsamtools"
   ],
   "plyinteractions": [
-    "InteractionSet",
     "plyranges",
     "rtracklayer",
     "GenomicAlignments",
@@ -6928,7 +6890,6 @@
   ],
   "rebook": [],
   "receptLoss": [],
-  "reconsi": [],
   "recount": [
     "derfinder",
     "GEOquery",
@@ -7195,8 +7156,7 @@
     "DESeq2"
   ],
   "scHiCcompare": [
-    "HiCcompare",
-    "InteractionSet"
+    "HiCcompare"
   ],
   "scMerge": [
     "BiocSingular",
@@ -7385,7 +7345,6 @@
     "AnnotationDbi"
   ],
   "sevenC": [
-    "InteractionSet",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -7588,7 +7547,6 @@
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
-    "InteractionSet",
     "Gviz",
     "biomaRt",
     "ensembldb",
@@ -7805,7 +7763,6 @@
     "tidybulk",
     "plyranges",
     "nullranges",
-    "InteractionSet",
     "rtracklayer",
     "GenomicAlignments",
     "Rsamtools"
@@ -7841,7 +7798,6 @@
     "Rsamtools",
     "rtracklayer",
     "AnnotationDbi",
-    "InteractionSet",
     "txdbmaker",
     "biomaRt",
     "ensembldb",
@@ -8062,13 +8018,11 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "zFPKM": [],
   "zenith": [
     "variancePartition",
     "EnrichmentBrowser",
     "GSEABase",
     "AnnotationDbi",
-    "SPIA",
     "edgeR",
     "graphite",
     "pathview",

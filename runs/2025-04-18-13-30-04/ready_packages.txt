@@ -1,4 +1,4 @@
-iSEEhex
-iSEEindex
-iSEEpathways
-omicade4
+EDIRquery
+HiCExperiment
+HiCParser
+HiCcompare

@@ -829,3 +829,12 @@ made4
 schex
 Site2Target
 SRAdb
+ggsc
+InteractionSet
+kmcut
+lionessR
+marr
+microbiomeDASim
+reconsi
+SPIA
+zFPKM
