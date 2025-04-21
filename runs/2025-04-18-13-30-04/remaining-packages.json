@@ -157,7 +157,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "AlpsNMR": [],
   "AnVILPublish": [],
   "AnVILWorkflow": [],
   "Anaquin": [
@@ -2072,9 +2071,7 @@
     "beachmat",
     "BiocSingular"
   ],
-  "MICSQTL": [
-    "TOAST"
-  ],
+  "MICSQTL": [],
   "MIRA": [
     "bsseq",
     "DelayedMatrixStats",
@@ -3425,7 +3422,6 @@
     "edgeR",
     "AnnotationDbi"
   ],
-  "SQLDataFrame": [],
   "SRAdb": [],
   "STATegRa": [
     "edgeR",
@@ -3767,7 +3763,6 @@
   "TMixClust": [
     "SPEM"
   ],
-  "TOAST": [],
   "TOP": [
     "ClassifyR",
     "MultiAssayExperiment",
@@ -3776,7 +3771,6 @@
     "annotate"
   ],
   "TPP": [],
-  "TREG": [],
   "TRESS": [
     "rtracklayer",
     "GenomicFeatures",
@@ -3788,7 +3782,6 @@
     "SingleCellExperiment",
     "TrajectoryUtils"
   ],
-  "TTMap": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -3818,7 +3811,6 @@
   "TreeSummarizedExperiment": [
     "SingleCellExperiment"
   ],
-  "Trendy": [],
   "TurboNorm": [
     "convert",
     "affy"
@@ -4078,7 +4070,6 @@
     "BiocSingular"
   ],
   "alabaster": [
-    "alabaster.matrix",
     "alabaster.ranges",
     "alabaster.se",
     "alabaster.sce",
@@ -4102,35 +4093,29 @@
   "alabaster.mae": [
     "MultiAssayExperiment",
     "alabaster.se",
-    "alabaster.ranges",
-    "alabaster.matrix"
+    "alabaster.ranges"
   ],
-  "alabaster.matrix": [],
   "alabaster.ranges": [],
   "alabaster.sce": [
     "SingleCellExperiment",
     "alabaster.se",
-    "alabaster.ranges",
-    "alabaster.matrix"
+    "alabaster.ranges"
   ],
   "alabaster.se": [
-    "alabaster.ranges",
-    "alabaster.matrix"
+    "alabaster.ranges"
   ],
   "alabaster.spatial": [
     "SpatialExperiment",
     "alabaster.sce",
     "SingleCellExperiment",
     "alabaster.se",
-    "alabaster.ranges",
-    "alabaster.matrix"
+    "alabaster.ranges"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
     "alabaster.se",
     "Rsamtools",
     "alabaster.ranges",
-    "alabaster.matrix",
     "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
@@ -5075,7 +5060,6 @@
     "SingleCellExperiment"
   ],
   "cypress": [
-    "TOAST",
     "PROPER",
     "edgeR",
     "DESeq2"
@@ -5452,7 +5436,6 @@
     "TFBSTools",
     "Rsamtools",
     "MultiAssayExperiment",
-    "alabaster.matrix",
     "edgeR",
     "BiocSingular",
     "rtracklayer",
@@ -7853,7 +7836,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "scifer": [],
   "scmap": [
     "SingleCellExperiment"
   ],

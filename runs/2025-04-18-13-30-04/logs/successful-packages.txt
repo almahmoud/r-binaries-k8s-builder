@@ -745,3 +745,11 @@ chihaya
 Scale4C
 SeqGate
 SplicingFactory
+alabaster.matrix
+AlpsNMR
+scifer
+SQLDataFrame
+TOAST
+TREG
+Trendy
+TTMap
