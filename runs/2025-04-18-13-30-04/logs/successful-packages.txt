@@ -814,3 +814,10 @@ fishpond
 HIPPO
 scRepertoire
 tidySingleCellExperiment
+CoGAPS
+dcGSA
+MetaNeighbor
+miQC
+planttfhunter
+scDiagnostics
+SNPRelate

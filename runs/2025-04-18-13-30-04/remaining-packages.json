@@ -540,7 +540,6 @@
   "CNVRanger": [
     "RaggedExperiment",
     "GDSArray",
-    "SNPRelate",
     "edgeR",
     "SeqArray"
   ],
@@ -788,7 +787,6 @@
   "CoCiteStats": [
     "AnnotationDbi"
   ],
-  "CoGAPS": [],
   "CoSIA": [
     "ExperimentHub",
     "AnnotationDbi",
@@ -1342,14 +1340,12 @@
     "GOSemSim"
   ],
   "GDSArray": [
-    "SNPRelate",
     "SeqArray"
   ],
   "GENESIS": [
     "GWASTools",
     "SeqArray",
-    "SeqVarTools",
-    "SNPRelate"
+    "SeqVarTools"
   ],
   "GEOexplorer": [
     "sva",
@@ -2111,7 +2107,6 @@
     "FlowSOM",
     "ConsensusClusterPlus"
   ],
-  "MetaNeighbor": [],
   "MetaPhOR": [
     "clusterProfiler",
     "AnnotationDbi",
@@ -2681,7 +2676,6 @@
     "GenomicFeatures"
   ],
   "RAIDS": [
-    "SNPRelate",
     "GENESIS",
     "Rsamtools",
     "ensembldb",
@@ -3169,7 +3163,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "SNPRelate": [],
   "SNPhood": [
     "Rsamtools",
     "DESeq2",
@@ -3241,7 +3234,6 @@
   ],
   "SeqSQC": [
     "ExperimentHub",
-    "SNPRelate",
     "AnnotationHub",
     "AnnotationDbi"
   ],
@@ -3655,7 +3647,6 @@
   ],
   "VariantExperiment": [
     "GDSArray",
-    "SNPRelate",
     "SeqArray"
   ],
   "VariantFiltering": [
@@ -4794,7 +4785,6 @@
     "beachmat",
     "BiocSingular"
   ],
-  "dcGSA": [],
   "ddPCRclust": [],
   "debrowser": [
     "annotate",
@@ -5531,7 +5521,6 @@
   "gwasurvivr": [
     "GWASTools",
     "VariantAnnotation",
-    "SNPRelate",
     "Rsamtools",
     "AnnotationDbi",
     "rtracklayer",
@@ -6112,7 +6101,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "miQC": [],
   "miRLAB": [
     "TCGAbiolinks",
     "Category",
@@ -6700,7 +6688,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "planttfhunter": [],
   "plier": [
     "affy"
   ],
@@ -7199,7 +7186,6 @@
     "GenomicAlignments",
     "edgeR"
   ],
-  "scDiagnostics": [],
   "scDotPlot": [
     "scater",
     "scuttle",
