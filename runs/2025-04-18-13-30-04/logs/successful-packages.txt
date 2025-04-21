@@ -1050,3 +1050,9 @@ GWENA
 KEGGlincs
 MeSHDbi
 MODA
+AnnotationHub
+ggmanh
+GOfuncR
+GOpro
+PADOG
+SPIAT

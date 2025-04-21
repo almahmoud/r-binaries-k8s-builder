@@ -1,0 +1,11 @@
+BLMA
+ExperimentHub
+GenomicScores
+cTRAP
+customCMPdb
+hipathia
+ipdDb
+ontoProc
+partCNV
+rGenomeTracks
+scAnnotatR

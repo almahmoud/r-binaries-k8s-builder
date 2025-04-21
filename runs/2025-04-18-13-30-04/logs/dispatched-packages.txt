@@ -1254,3 +1254,14 @@ SpotSweeper
 gatom
 VariantExperiment
 fastLiquidAssociation
+BLMA
+ExperimentHub
+GenomicScores
+cTRAP
+customCMPdb
+hipathia
+ipdDb
+ontoProc
+partCNV
+rGenomeTracks
+scAnnotatR
