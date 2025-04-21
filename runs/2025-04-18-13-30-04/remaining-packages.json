@@ -11,9 +11,7 @@
     "ADAM",
     "AnnotationDbi"
   ],
-  "ADAPT": [
-    "phyloseq"
-  ],
+  "ADAPT": [],
   "ADImpute": [
     "SingleCellExperiment"
   ],
@@ -198,8 +196,6 @@
     "scuttle",
     "edgeR",
     "BiocSingular",
-    "bluster",
-    "metapod",
     "beachmat"
   ],
   "BASiCStan": [
@@ -211,9 +207,7 @@
     "beachmat",
     "DelayedMatrixStats",
     "edgeR",
-    "BiocSingular",
-    "bluster",
-    "metapod"
+    "BiocSingular"
   ],
   "BBCAnalyzer": [
     "VariantAnnotation",
@@ -324,8 +318,6 @@
     "scuttle",
     "edgeR",
     "BiocSingular",
-    "bluster",
-    "metapod",
     "beachmat",
     "genefilter",
     "AnnotationDbi",
@@ -398,8 +390,6 @@
     "scuttle",
     "edgeR",
     "BiocSingular",
-    "bluster",
-    "metapod",
     "beachmat"
   ],
   "BiocCheck": [
@@ -445,7 +435,6 @@
     "BufferedMatrix"
   ],
   "BulkSignalR": [
-    "orthogene",
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
@@ -506,7 +495,6 @@
     "xcms",
     "RBGL",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
@@ -834,8 +822,6 @@
     "scuttle",
     "edgeR",
     "BiocSingular",
-    "bluster",
-    "metapod",
     "beachmat"
   ],
   "ClassifyR": [
@@ -1098,8 +1084,6 @@
     "scuttle",
     "edgeR",
     "BiocSingular",
-    "bluster",
-    "metapod",
     "beachmat",
     "SpatialExperiment",
     "scater",
@@ -1136,7 +1120,6 @@
     "BiocSingular",
     "beachmat"
   ],
-  "DepecheR": [],
   "DiffBind": [
     "GenomicAlignments",
     "systemPipeR",
@@ -1160,9 +1143,7 @@
     "scran",
     "beachmat",
     "scuttle",
-    "edgeR",
-    "bluster",
-    "metapod"
+    "edgeR"
   ],
   "DiscoRhythm": [],
   "DominoEffect": [
@@ -1259,7 +1240,6 @@
   ],
   "EWCE": [
     "SingleCellExperiment",
-    "orthogene",
     "ExperimentHub",
     "AnnotationHub",
     "AnnotationDbi"
@@ -1845,7 +1825,6 @@
     "CAMERA",
     "RBGL",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
@@ -1987,7 +1966,6 @@
     "xcms",
     "RBGL",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
@@ -1999,7 +1977,6 @@
   ],
   "MBASED": [],
   "MBECS": [
-    "phyloseq",
     "sva",
     "genefilter",
     "edgeR",
@@ -2091,7 +2068,6 @@
     "TreeSummarizedExperiment",
     "mia",
     "SingleCellExperiment",
-    "bluster",
     "DelayedMatrixStats",
     "scater",
     "scuttle",
@@ -2168,20 +2144,16 @@
     "SingleCellExperiment",
     "scuttle",
     "BiocSingular",
-    "bluster",
-    "metapod",
     "beachmat",
     "Rsamtools"
   ],
   "MPAC": [
     "BiocSingular",
     "SingleCellExperiment",
-    "bluster",
     "scran",
     "beachmat",
     "scuttle",
-    "edgeR",
-    "metapod"
+    "edgeR"
   ],
   "MPRAnalyze": [],
   "MSA2dist": [],
@@ -2489,7 +2461,6 @@
     "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
-  "MsFeatures": [],
   "MsQuality": [
     "MsExperiment",
     "Spectra",
@@ -2772,7 +2743,6 @@
     "annotate"
   ],
   "PathoStat": [
-    "phyloseq",
     "edgeR",
     "DESeq2"
   ],
@@ -2924,8 +2894,7 @@
     "biomaRt"
   ],
   "RCM": [
-    "edgeR",
-    "phyloseq"
+    "edgeR"
   ],
   "RCSL": [
     "SingleCellExperiment"
@@ -3067,8 +3036,7 @@
   ],
   "ROntoTools": [],
   "RPA": [
-    "affy",
-    "phyloseq"
+    "affy"
   ],
   "RSVSim": [
     "ShortRead",
@@ -3361,7 +3329,6 @@
   "SCnorm": [
     "SingleCellExperiment"
   ],
-  "SDAMS": [],
   "SEraster": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -3392,9 +3359,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SIAMCAT": [
-    "phyloseq"
-  ],
+  "SIAMCAT": [],
   "SICtools": [
     "Rsamtools"
   ],
@@ -3460,7 +3425,6 @@
   "SPsimSeq": [
     "SingleCellExperiment",
     "edgeR",
-    "phyloseq",
     "AnnotationDbi"
   ],
   "SQLDataFrame": [],
@@ -3520,7 +3484,6 @@
     "genefilter",
     "AnnotationDbi"
   ],
-  "SigFuge": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
@@ -3530,9 +3493,7 @@
     "AnnotationDbi",
     "GenomicFeatures"
   ],
-  "SimBu": [
-    "phyloseq"
-  ],
+  "SimBu": [],
   "SimFFPE": [
     "Rsamtools"
   ],
@@ -3546,8 +3507,6 @@
     "SingleCellExperiment",
     "scuttle",
     "BiocSingular",
-    "bluster",
-    "metapod",
     "beachmat"
   ],
   "SingleMoleculeFootprinting": [
@@ -3593,8 +3552,6 @@
     "SpatialExperiment",
     "scuttle",
     "BiocSingular",
-    "bluster",
-    "metapod",
     "beachmat"
   ],
   "SparseSignatures": [
@@ -4460,7 +4417,6 @@
     "beadarray",
     "AnnotationDbi"
   ],
-  "bluster": [],
   "bnbc": [
     "sva",
     "HiCBricks",
@@ -4637,9 +4593,7 @@
     "scuttle",
     "beachmat",
     "BiocSingular",
-    "edgeR",
-    "bluster",
-    "metapod"
+    "edgeR"
   ],
   "cellbaseR": [
     "Rsamtools"
@@ -4676,14 +4630,12 @@
     "scuttle",
     "wiggleplotr",
     "batchelor",
-    "bluster",
     "ensembldb",
     "GenomicFeatures",
     "megadepth",
     "beachmat",
     "BiocSingular",
     "edgeR",
-    "metapod",
     "rtracklayer",
     "DelayedMatrixStats",
     "AnnotationDbi",
@@ -4694,7 +4646,6 @@
     "SingleCellExperiment",
     "scater",
     "batchelor",
-    "bluster",
     "ensembldb",
     "GenomicFeatures",
     "megadepth",
@@ -4707,7 +4658,6 @@
     "rtracklayer",
     "Rsamtools",
     "edgeR",
-    "metapod",
     "GenomicAlignments"
   ],
   "chevreulShiny": [
@@ -4719,7 +4669,6 @@
     "scran",
     "scuttle",
     "batchelor",
-    "bluster",
     "ensembldb",
     "GenomicFeatures",
     "megadepth",
@@ -4730,8 +4679,7 @@
     "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
-    "edgeR",
-    "metapod"
+    "edgeR"
   ],
   "chihaya": [],
   "chimeraviz": [
@@ -4813,7 +4761,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "MsFeatures",
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
@@ -4822,7 +4769,6 @@
   ],
   "clustSIGNAL": [
     "SpatialExperiment",
-    "bluster",
     "scater",
     "SingleCellExperiment",
     "scuttle",
@@ -4886,15 +4832,11 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "combi": [
-    "phyloseq"
-  ],
-  "compSPOT": [],
+  "combi": [],
   "compcodeR": [
     "edgeR"
   ],
   "concordexR": [
-    "bluster",
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
@@ -4966,7 +4908,6 @@
   "cosmiq": [
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
@@ -5102,13 +5043,11 @@
   ],
   "csaw": [
     "Rsamtools",
-    "edgeR",
-    "metapod"
+    "edgeR"
   ],
   "csdR": [
     "AnnotationDbi"
   ],
-  "ctsGE": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -5184,7 +5123,6 @@
     "GenomicAlignments"
   ],
   "dandelionR": [
-    "bluster",
     "destiny",
     "miloR",
     "SingleCellExperiment",
@@ -5194,11 +5132,9 @@
   ],
   "dar": [
     "mia",
-    "phyloseq",
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
-    "bluster",
     "DelayedMatrixStats",
     "scater",
     "scuttle",
@@ -5239,9 +5175,7 @@
     "scuttle",
     "beachmat",
     "BiocSingular",
-    "edgeR",
-    "bluster",
-    "metapod"
+    "edgeR"
   ],
   "deconvR": [
     "methylKit",
@@ -5321,7 +5255,6 @@
     "edgeR",
     "csaw",
     "rtracklayer",
-    "metapod",
     "GenomicAlignments"
   ],
   "diffUTR": [
@@ -5513,7 +5446,6 @@
     "SingleCellExperiment",
     "AnnotationHub",
     "ExperimentHub",
-    "bluster",
     "scran",
     "scuttle",
     "AUCell",
@@ -5529,7 +5461,6 @@
     "alabaster.matrix",
     "edgeR",
     "BiocSingular",
-    "metapod",
     "rtracklayer",
     "annotate",
     "GenomicAlignments"
@@ -5546,9 +5477,7 @@
     "scuttle",
     "beachmat",
     "BiocSingular",
-    "edgeR",
-    "bluster",
-    "metapod"
+    "edgeR"
   ],
   "epistack": [],
   "epivizr": [
@@ -5661,7 +5590,6 @@
     "InteractionSet",
     "Rsamtools",
     "rtracklayer",
-    "metapod",
     "GenomicAlignments"
   ],
   "fCCAC": [
@@ -5730,7 +5658,6 @@
     "CAMERA",
     "RBGL",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
@@ -6157,7 +6084,6 @@
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
     "MultiAssayExperiment",
-    "bluster",
     "DelayedMatrixStats",
     "scater",
     "scuttle",
@@ -6180,7 +6106,6 @@
     "edgeR",
     "csaw",
     "DESeq2",
-    "metapod",
     "AnnotationDbi",
     "BSgenome"
   ],
@@ -6279,7 +6204,6 @@
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
-    "bluster",
     "DelayedMatrixStats",
     "scater",
     "scuttle",
@@ -6346,8 +6270,6 @@
     "scuttle",
     "edgeR",
     "BiocSingular",
-    "bluster",
-    "metapod",
     "beachmat"
   ],
   "m6Aboost": [
@@ -6465,7 +6387,6 @@
     "xcms",
     "RBGL",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
@@ -6480,7 +6401,6 @@
     "GenomicAlignments",
     "Rsamtools"
   ],
-  "metapod": [],
   "metaseqR2": [
     "DESeq2",
     "biomaRt",
@@ -6680,7 +6600,6 @@
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
-    "bluster",
     "DelayedMatrixStats",
     "scater",
     "scuttle",
@@ -6696,7 +6615,6 @@
     "TreeSummarizedExperiment",
     "miaViz",
     "MultiAssayExperiment",
-    "bluster",
     "DelayedMatrixStats",
     "scuttle",
     "beachmat",
@@ -6712,7 +6630,6 @@
     "scater",
     "SingleCellExperiment",
     "MultiAssayExperiment",
-    "bluster",
     "DelayedMatrixStats",
     "scuttle",
     "beachmat",
@@ -6722,12 +6639,8 @@
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "microbiome": [
-    "phyloseq"
-  ],
-  "microbiomeDASim": [
-    "phyloseq"
-  ],
+  "microbiome": [],
+  "microbiomeDASim": [],
   "microbiomeExplorer": [
     "DESeq2"
   ],
@@ -6870,8 +6783,6 @@
     "scuttle",
     "edgeR",
     "BiocSingular",
-    "bluster",
-    "metapod",
     "beachmat"
   ],
   "msgbsR": [
@@ -6951,11 +6862,9 @@
     "BiocSingular",
     "beachmat",
     "scuttle",
-    "metapod",
     "scran",
     "batchelor",
-    "edgeR",
-    "bluster"
+    "edgeR"
   ],
   "muscat": [
     "DESeq2",
@@ -6988,7 +6897,6 @@
   "ncGTW": [
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
@@ -7114,7 +7022,6 @@
     "beachmat"
   ],
   "optimalFlow": [],
-  "orthogene": [],
   "orthos": [
     "AnnotationHub",
     "ExperimentHub",
@@ -7151,7 +7058,6 @@
     "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
-  "packFinder": [],
   "padma": [
     "MultiAssayExperiment"
   ],
@@ -7270,7 +7176,6 @@
     "ropls"
   ],
   "phenopath": [],
-  "phyloseq": [],
   "pipeComp": [
     "SingleCellExperiment",
     "scran",
@@ -7278,9 +7183,7 @@
     "scuttle",
     "beachmat",
     "BiocSingular",
-    "edgeR",
-    "bluster",
-    "metapod"
+    "edgeR"
   ],
   "pipeFrame": [
     "BSgenome",
@@ -7319,7 +7222,6 @@
     "GenomicAlignments"
   ],
   "poem": [
-    "bluster",
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
@@ -7340,8 +7242,7 @@
     "GenomicAlignments",
     "affy",
     "RPA",
-    "Rsamtools",
-    "phyloseq"
+    "Rsamtools"
   ],
   "preciseTAD": [
     "rCGH",
@@ -7561,9 +7462,7 @@
   ],
   "rebook": [],
   "receptLoss": [],
-  "reconsi": [
-    "phyloseq"
-  ],
+  "reconsi": [],
   "recount": [
     "derfinder",
     "GEOquery",
@@ -7741,7 +7640,6 @@
     "AnnotationDbi",
     "biomaRt"
   ],
-  "sangeranalyseR": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -7794,8 +7692,6 @@
     "scuttle",
     "edgeR",
     "BiocSingular",
-    "bluster",
-    "metapod",
     "beachmat"
   ],
   "scDDboost": [
@@ -7810,20 +7706,17 @@
     "scran",
     "scater",
     "scuttle",
-    "bluster",
     "Rsamtools",
     "rtracklayer",
     "beachmat",
     "GenomicAlignments",
-    "edgeR",
-    "metapod"
+    "edgeR"
   ],
   "scDesign3": [
     "SingleCellExperiment"
   ],
   "scDiagnostics": [
-    "SingleCellExperiment",
-    "bluster"
+    "SingleCellExperiment"
   ],
   "scDotPlot": [
     "scater",
@@ -7852,9 +7745,7 @@
     "beachmat",
     "annotate",
     "GenomicAlignments",
-    "scuttle",
-    "bluster",
-    "metapod"
+    "scuttle"
   ],
   "scGPS": [
     "SingleCellExperiment",
@@ -7880,9 +7771,7 @@
     "SingleCellExperiment",
     "scuttle",
     "beachmat",
-    "edgeR",
-    "bluster",
-    "metapod"
+    "edgeR"
   ],
   "scMultiSim": [],
   "scPCA": [],
@@ -7929,8 +7818,6 @@
     "beachmat",
     "BiocSingular",
     "edgeR",
-    "bluster",
-    "metapod",
     "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
@@ -7939,9 +7826,7 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "scanMiR": [],
   "scanMiRApp": [
-    "scanMiR",
     "AnnotationDbi",
     "AnnotationHub",
     "ensembldb",
@@ -7995,7 +7880,6 @@
   "scp": [
     "QFeatures",
     "IHW",
-    "metapod",
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "lpsymphony"
@@ -8005,8 +7889,6 @@
     "scuttle",
     "edgeR",
     "BiocSingular",
-    "bluster",
-    "metapod",
     "beachmat"
   ],
   "scrapper": [
@@ -8391,7 +8273,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "MsFeatures",
     "MetaboCoreUtils",
     "MultiAssayExperiment"
   ],
@@ -8581,7 +8462,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "timeOmics": [],
   "tomoda": [],
   "topdownr": [
     "MSnbase",
@@ -8809,7 +8689,6 @@
   ],
   "xcms": [
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
@@ -8869,7 +8748,6 @@
     "annotate"
   ],
   "zitools": [
-    "phyloseq",
     "DESeq2"
   ]
 }

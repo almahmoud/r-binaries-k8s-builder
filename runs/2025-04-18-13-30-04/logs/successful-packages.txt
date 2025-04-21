@@ -725,3 +725,17 @@ PROcess
 RCy3
 SummarizedExperiment
 survcomp
+bluster
+compSPOT
+ctsGE
+DepecheR
+metapod
+MsFeatures
+orthogene
+packFinder
+phyloseq
+sangeranalyseR
+scanMiR
+SDAMS
+SigFuge
+timeOmics

@@ -986,3 +986,10 @@ transomics2cytoscape
 wpm
 yamss
 zFPKM
+ADAPT
+SIAMCAT
+SimBu
+combi
+microbiome
+microbiomeDASim
+reconsi
