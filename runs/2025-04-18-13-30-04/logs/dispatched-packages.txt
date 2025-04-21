@@ -1157,3 +1157,8 @@ microbiomeExplorer
 scGPS
 systemPipeTools
 zitools
+ITALICS
+frma
+omicplotR
+pdInfoBuilder
+puma

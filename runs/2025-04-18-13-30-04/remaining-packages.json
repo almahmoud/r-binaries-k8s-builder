@@ -38,7 +38,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "ALDEx2": [],
   "AMARETTO": [
     "AnnotationHub",
     "ExperimentHub",
@@ -653,8 +652,7 @@
     "BSgenome"
   ],
   "ChIPXpress": [
-    "frma",
-    "oligo"
+    "frma"
   ],
   "ChIPanalyser": [
     "BSgenome",
@@ -1194,7 +1192,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "FeatSeekR": [],
   "FilterFFPE": [
     "Rsamtools"
   ],
@@ -1581,9 +1578,7 @@
     "PSMatch",
     "vsn"
   ],
-  "ITALICS": [
-    "oligo"
-  ],
+  "ITALICS": [],
   "IVAS": [
     "GenomicFeatures",
     "AnnotationDbi",
@@ -2828,7 +2823,6 @@
     "BSgenome"
   ],
   "Rnits": [],
-  "RolDE": [],
   "Rqc": [
     "ShortRead",
     "biovizBase",
@@ -2863,7 +2857,6 @@
   ],
   "SC3": [],
   "SCAN.UPC": [
-    "oligo",
     "sva",
     "genefilter",
     "edgeR",
@@ -3439,7 +3432,6 @@
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
-    "gtrellis",
     "BSgenome",
     "ggbio",
     "Rsamtools",
@@ -4956,9 +4948,7 @@
     "flowWorkspace"
   ],
   "flowWorkspace": [],
-  "frma": [
-    "oligo"
-  ],
+  "frma": [],
   "frmaTools": [],
   "funOmics": [
     "AnnotationDbi"
@@ -5044,7 +5034,6 @@
     "seqPattern",
     "rtracklayer"
   ],
-  "genomicInstability": [],
   "geomeTriD": [
     "trackViewer",
     "GenomicAlignments",
@@ -5169,7 +5158,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "gtrellis": [],
   "gwasurvivr": [
     "GWASTools",
     "VariantAnnotation",
@@ -5396,7 +5384,6 @@
     "beachmat"
   ],
   "limmaGUI": [],
-  "limpca": [],
   "lineagespot": [
     "VariantAnnotation",
     "Rsamtools",
@@ -5779,7 +5766,6 @@
   ],
   "mimager": [
     "affyPLM",
-    "oligo",
     "gcrma"
   ],
   "minfi": [
@@ -5810,7 +5796,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "missRows": [],
   "mist": [
     "rtracklayer",
     "Rsamtools",
@@ -6048,7 +6033,6 @@
     "GenomicAlignments",
     "Rsamtools"
   ],
-  "oligo": [],
   "omXplore": [
     "MSnbase",
     "PSMatch",
@@ -6064,9 +6048,7 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "omicplotR": [
-    "ALDEx2"
-  ],
+  "omicplotR": [],
   "omicsPrint": [],
   "ontoProc": [
     "AnnotationHub",
@@ -6175,9 +6157,7 @@
   "pathview": [
     "AnnotationDbi"
   ],
-  "pdInfoBuilder": [
-    "oligo"
-  ],
+  "pdInfoBuilder": [],
   "peakPantheR": [
     "MSnbase",
     "PSMatch",
@@ -6362,9 +6342,7 @@
     "QFeatures",
     "MetaboCoreUtils"
   ],
-  "puma": [
-    "oligo"
-  ],
+  "puma": [],
   "pvac": [],
   "pvca": [
     "vsn"

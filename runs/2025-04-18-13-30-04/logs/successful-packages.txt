@@ -931,3 +931,11 @@ RadioGx
 SiPSiC
 tidySummarizedExperiment
 ToxicoGx
+ALDEx2
+FeatSeekR
+genomicInstability
+gtrellis
+limpca
+missRows
+oligo
+RolDE
