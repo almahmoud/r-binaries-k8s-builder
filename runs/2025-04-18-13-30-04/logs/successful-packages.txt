@@ -753,3 +753,14 @@ TOAST
 TREG
 Trendy
 TTMap
+apeglm
+barcodetrackR
+betaHMM
+bettr
+lpNet
+MicrobiotaProcess
+MultiAssayExperiment
+rigvf
+ROntoTools
+sketchR
+SpatialCPie

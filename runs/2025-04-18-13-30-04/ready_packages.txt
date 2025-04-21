@@ -1,1 +1,15 @@
-MICSQTL
+AffiXcan
+CoreGx
+Lheuristic
+LinkHD
+MOMA
+MultimodalExperiment
+QFeatures
+evaluomeR
+gDRutils
+midasHLA
+missRows
+nipalsMCIA
+padma
+survClust
+vsclust

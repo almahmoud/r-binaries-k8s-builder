@@ -46,7 +46,6 @@
   ],
   "ALDEx2": [],
   "AMARETTO": [
-    "MultiAssayExperiment",
     "AnnotationHub",
     "ExperimentHub",
     "AnnotationDbi"
@@ -63,7 +62,6 @@
   ],
   "ASICS": [
     "ropls",
-    "MultiAssayExperiment",
     "MultiDataSet"
   ],
   "ASSIGN": [
@@ -108,9 +106,7 @@
   "AWFisher": [
     "edgeR"
   ],
-  "AffiXcan": [
-    "MultiAssayExperiment"
-  ],
+  "AffiXcan": [],
   "AffyRNADegradation": [
     "affy"
   ],
@@ -232,7 +228,6 @@
     "annotate"
   ],
   "BLMA": [
-    "ROntoTools",
     "PADOG",
     "AnnotationDbi"
   ],
@@ -471,7 +466,6 @@
     "biovizBase"
   ],
   "CAGEr": [
-    "MultiAssayExperiment",
     "BSgenome",
     "CAGEfightR",
     "GenomicAlignments",
@@ -498,8 +492,7 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
-    "MultiAssayExperiment"
+    "affy"
   ],
   "CARDspa": [
     "SingleCellExperiment",
@@ -748,7 +741,6 @@
     "ShortRead",
     "systemPipeR",
     "DESeq2",
-    "apeglm",
     "GreyListChIP",
     "AnnotationDbi",
     "rtracklayer",
@@ -822,7 +814,6 @@
     "beachmat"
   ],
   "ClassifyR": [
-    "MultiAssayExperiment",
     "genefilter",
     "AnnotationDbi",
     "annotate"
@@ -849,7 +840,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "ClusterFoldSimilarity": [
@@ -879,9 +869,7 @@
     "MetaboCoreUtils"
   ],
   "ConsensusClusterPlus": [],
-  "CoreGx": [
-    "MultiAssayExperiment"
-  ],
+  "CoreGx": [],
   "Cormotif": [
     "affy"
   ],
@@ -942,7 +930,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "DEFormats": [
@@ -968,7 +955,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "DESeq2": [],
@@ -1122,7 +1108,6 @@
     "systemPipeR",
     "Rsamtools",
     "DESeq2",
-    "apeglm",
     "GreyListChIP",
     "BSgenome",
     "rtracklayer",
@@ -1194,7 +1179,6 @@
     "GenomicFeatures",
     "TCGAbiolinks",
     "Gviz",
-    "MultiAssayExperiment",
     "biomaRt",
     "rtracklayer",
     "AnnotationDbi",
@@ -1232,8 +1216,7 @@
   ],
   "ERSSA": [
     "edgeR",
-    "DESeq2",
-    "apeglm"
+    "DESeq2"
   ],
   "EWCE": [
     "SingleCellExperiment",
@@ -1382,7 +1365,6 @@
   "FindIT2": [
     "rtracklayer",
     "GenomicFeatures",
-    "MultiAssayExperiment",
     "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments"
@@ -1482,8 +1464,7 @@
     "AnnotationDbi"
   ],
   "GOpro": [
-    "AnnotationDbi",
-    "MultiAssayExperiment"
+    "AnnotationDbi"
   ],
   "GOstats": [
     "Category",
@@ -1782,7 +1763,6 @@
   ],
   "HilbertCurve": [],
   "HoloFoodR": [
-    "MultiAssayExperiment",
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
   ],
@@ -1828,8 +1808,7 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
-    "MultiAssayExperiment"
+    "affy"
   ],
   "ISLET": [],
   "ITALICS": [
@@ -1860,7 +1839,6 @@
     "GenomicAlignments"
   ],
   "InTAD": [
-    "MultiAssayExperiment",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -1930,13 +1908,9 @@
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "Lheuristic": [
-    "MultiAssayExperiment"
-  ],
+  "Lheuristic": [],
   "LimROTS": [],
-  "LinkHD": [
-    "MultiAssayExperiment"
-  ],
+  "LinkHD": [],
   "Linnorm": [],
   "LiquidAssociation": [
     "AnnotationDbi"
@@ -1969,8 +1943,7 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
-    "MultiAssayExperiment"
+    "affy"
   ],
   "MBASED": [],
   "MBECS": [
@@ -2061,7 +2034,6 @@
     "AnnotationDbi"
   ],
   "MGnifyR": [
-    "MultiAssayExperiment",
     "TreeSummarizedExperiment",
     "mia",
     "SingleCellExperiment",
@@ -2082,7 +2054,6 @@
     "GenomicAlignments"
   ],
   "MIRit": [
-    "MultiAssayExperiment",
     "AnnotationDbi",
     "DESeq2",
     "edgeR",
@@ -2119,11 +2090,8 @@
   ],
   "MOFA2": [],
   "MOGAMUN": [],
-  "MOMA": [
-    "MultiAssayExperiment"
-  ],
+  "MOMA": [],
   "MOSClip": [
-    "MultiAssayExperiment",
     "graphite",
     "AnnotationDbi",
     "qpgraph",
@@ -2171,7 +2139,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "MSnbase": [
@@ -2180,7 +2147,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "MSstatsBig": [],
@@ -2195,7 +2161,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "MSstatsQCgui": [
@@ -2206,7 +2171,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "MSstatsShiny": [
@@ -2274,8 +2238,7 @@
     "QFeatures",
     "AnnotationHub",
     "CompoundDb",
-    "AnnotationDbi",
-    "MultiAssayExperiment"
+    "AnnotationDbi"
   ],
   "MetaboCoreUtils": [],
   "MetaboDynamics": [],
@@ -2337,7 +2300,6 @@
     "DOSE",
     "GOSemSim"
   ],
-  "MicrobiotaProcess": [],
   "MineICA": [
     "biomaRt",
     "GOstats",
@@ -2453,23 +2415,18 @@
   "MsExperiment": [
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "MsQuality": [
     "MsExperiment",
     "Spectra",
     "QFeatures",
-    "MetaboCoreUtils",
-    "MultiAssayExperiment"
+    "MetaboCoreUtils"
   ],
   "MuData": [
-    "MultiAssayExperiment",
     "SingleCellExperiment"
   ],
-  "MultiAssayExperiment": [],
   "MultiBaC": [
-    "MultiAssayExperiment",
     "ropls",
     "MultiDataSet"
   ],
@@ -2477,9 +2434,7 @@
   "MultiRNAflow": [
     "DESeq2"
   ],
-  "MultimodalExperiment": [
-    "MultiAssayExperiment"
-  ],
+  "MultimodalExperiment": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",
@@ -2555,7 +2510,6 @@
   ],
   "OMICsPCA": [
     "HelloRanges",
-    "MultiAssayExperiment",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -2649,7 +2603,6 @@
     "beachmat"
   ],
   "PDATK": [
-    "MultiAssayExperiment",
     "ConsensusClusterPlus",
     "CoreGx",
     "genefu",
@@ -2708,7 +2661,6 @@
     "genefilter",
     "AnnotationDbi",
     "annotate",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "PROPER": [
@@ -2724,7 +2676,6 @@
   "PSMatch": [
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "PWMEnrich": [],
@@ -2773,7 +2724,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "Prostar": [
@@ -2784,7 +2734,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "ProteoDisco": [
@@ -2816,9 +2765,7 @@
   "QDNAseq": [
     "Rsamtools"
   ],
-  "QFeatures": [
-    "MultiAssayExperiment"
-  ],
+  "QFeatures": [],
   "QTLExperiment": [],
   "QuasR": [
     "BSgenome",
@@ -2920,7 +2867,6 @@
     "GenomicFeatures"
   ],
   "RFLOMICS": [
-    "MultiAssayExperiment",
     "coseq",
     "AnnotationDbi",
     "clusterProfiler",
@@ -2945,7 +2891,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "RNAAgeCalc": [
@@ -3029,7 +2974,6 @@
   "ROSeq": [
     "edgeR"
   ],
-  "ROntoTools": [],
   "RPA": [
     "affy"
   ],
@@ -3043,7 +2987,6 @@
     "TCGAutils",
     "AnnotationDbi",
     "GenomicFeatures",
-    "MultiAssayExperiment",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -3071,8 +3014,7 @@
     "GenomicAlignments"
   ],
   "RadioGx": [
-    "CoreGx",
-    "MultiAssayExperiment"
+    "CoreGx"
   ],
   "RaggedExperiment": [],
   "RareVariantVis": [
@@ -3208,7 +3150,6 @@
   "Rmagpie": [],
   "Rmmquant": [
     "DESeq2",
-    "apeglm",
     "AnnotationDbi",
     "Rsamtools",
     "GenomicFeatures",
@@ -3552,7 +3493,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "SpatialCPie": [],
   "SpatialExperiment": [
     "SingleCellExperiment"
   ],
@@ -3669,7 +3609,6 @@
   "TCGAutils": [
     "AnnotationDbi",
     "GenomicFeatures",
-    "MultiAssayExperiment",
     "RaggedExperiment",
     "rtracklayer",
     "Rsamtools",
@@ -3687,7 +3626,6 @@
     "GOSemSim"
   ],
   "TEKRABber": [
-    "apeglm",
     "biomaRt",
     "DESeq2",
     "rtracklayer",
@@ -3697,7 +3635,6 @@
   ],
   "TENET": [
     "TCGAbiolinks",
-    "MultiAssayExperiment",
     "sesame",
     "AnnotationHub",
     "ExperimentHub",
@@ -3765,7 +3702,6 @@
   ],
   "TOP": [
     "ClassifyR",
-    "MultiAssayExperiment",
     "genefilter",
     "AnnotationDbi",
     "annotate"
@@ -3802,8 +3738,7 @@
   ],
   "TnT": [],
   "ToxicoGx": [
-    "CoreGx",
-    "MultiAssayExperiment"
+    "CoreGx"
   ],
   "TrajectoryUtils": [
     "SingleCellExperiment"
@@ -4064,7 +3999,6 @@
   "airpart": [
     "SingleCellExperiment",
     "scater",
-    "apeglm",
     "scuttle",
     "beachmat",
     "BiocSingular"
@@ -4076,7 +4010,6 @@
     "alabaster.spatial",
     "alabaster.vcf",
     "alabaster.mae",
-    "MultiAssayExperiment",
     "SingleCellExperiment",
     "SpatialExperiment",
     "VariantAnnotation",
@@ -4091,7 +4024,6 @@
     "Rsamtools"
   ],
   "alabaster.mae": [
-    "MultiAssayExperiment",
     "alabaster.se",
     "alabaster.ranges"
   ],
@@ -4132,8 +4064,7 @@
     "GenomicAlignments"
   ],
   "animalcules": [
-    "DESeq2",
-    "MultiAssayExperiment"
+    "DESeq2"
   ],
   "annaffy": [
     "AnnotationDbi"
@@ -4155,7 +4086,6 @@
     "RBGL",
     "AnnotationDbi"
   ],
-  "apeglm": [],
   "appreci8R": [
     "VariantAnnotation",
     "BSgenome",
@@ -4229,7 +4159,6 @@
   ],
   "autonomics": [
     "edgeR",
-    "MultiAssayExperiment",
     "vsn",
     "affy"
   ],
@@ -4265,10 +4194,8 @@
     "genefilter",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
-  "barcodetrackR": [],
   "basecallQC": [
     "ShortRead",
     "Rsamtools",
@@ -4306,8 +4233,6 @@
     "PhIPData",
     "edgeR"
   ],
-  "betaHMM": [],
-  "bettr": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -4331,7 +4256,6 @@
     "DOSE",
     "clusterProfiler",
     "ReactomePA",
-    "MultiAssayExperiment",
     "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
@@ -4368,7 +4292,6 @@
     "VariantAnnotation"
   ],
   "biosigner": [
-    "MultiAssayExperiment",
     "MultiDataSet",
     "ropls"
   ],
@@ -4470,7 +4393,6 @@
     "GenomicAlignments"
   ],
   "cBioPortalData": [
-    "MultiAssayExperiment",
     "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
@@ -4509,7 +4431,6 @@
     "cBioPortalData",
     "GSEABase",
     "phenoTest",
-    "MultiAssayExperiment",
     "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
@@ -4546,7 +4467,6 @@
   "cbaf": [
     "cBioPortalData",
     "genefilter",
-    "MultiAssayExperiment",
     "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
@@ -4743,8 +4663,7 @@
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
-    "QFeatures",
-    "MultiAssayExperiment"
+    "QFeatures"
   ],
   "clustSIGNAL": [
     "SpatialExperiment",
@@ -4876,7 +4795,6 @@
   ],
   "convert": [],
   "corral": [
-    "MultiAssayExperiment",
     "SingleCellExperiment"
   ],
   "coseq": [
@@ -4893,8 +4811,7 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
-    "MultiAssayExperiment"
+    "affy"
   ],
   "cosmosR": [
     "GSEABase",
@@ -5110,7 +5027,6 @@
   ],
   "dar": [
     "mia",
-    "MultiAssayExperiment",
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
     "DelayedMatrixStats",
@@ -5132,7 +5048,6 @@
     "sva",
     "enrichplot",
     "pathview",
-    "apeglm",
     "GOSemSim",
     "genefilter"
   ],
@@ -5435,7 +5350,6 @@
     "BSgenome",
     "TFBSTools",
     "Rsamtools",
-    "MultiAssayExperiment",
     "edgeR",
     "BiocSingular",
     "rtracklayer",
@@ -5558,9 +5472,7 @@
   "eudysbiome": [
     "Rsamtools"
   ],
-  "evaluomeR": [
-    "MultiAssayExperiment"
-  ],
+  "evaluomeR": [],
   "extraChIPs": [
     "csaw",
     "edgeR",
@@ -5641,8 +5553,7 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
-    "MultiAssayExperiment"
+    "affy"
   ],
   "flowBin": [],
   "flowCut": [],
@@ -5691,21 +5602,17 @@
   ],
   "gCrisprTools": [],
   "gDRcore": [
-    "gDRutils",
-    "MultiAssayExperiment"
+    "gDRutils"
   ],
   "gDRstyle": [
     "BiocCheck",
     "biocViews",
     "RBGL"
   ],
-  "gDRutils": [
-    "MultiAssayExperiment"
-  ],
+  "gDRutils": [],
   "gINTomics": [
     "biomaRt",
     "edgeR",
-    "MultiAssayExperiment",
     "GenomicFeatures",
     "ReactomePA",
     "clusterProfiler",
@@ -5837,7 +5744,6 @@
   ],
   "glmSparseNet": [
     "biomaRt",
-    "MultiAssayExperiment",
     "TCGAutils",
     "AnnotationDbi",
     "GenomicFeatures",
@@ -5926,7 +5832,6 @@
   "hdxmsqc": [
     "QFeatures",
     "Spectra",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "heatmaps": [],
@@ -5934,7 +5839,6 @@
     "biomaRt",
     "DESeq2",
     "edgeR",
-    "MultiAssayExperiment",
     "AnnotationDbi"
   ],
   "hiAnnotator": [
@@ -5958,7 +5862,6 @@
   ],
   "hipathia": [
     "AnnotationHub",
-    "MultiAssayExperiment",
     "AnnotationDbi"
   ],
   "hoodscanR": [
@@ -6060,7 +5963,6 @@
     "mia",
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
-    "MultiAssayExperiment",
     "DelayedMatrixStats",
     "scater",
     "scuttle",
@@ -6178,7 +6080,6 @@
   ],
   "lefser": [
     "mia",
-    "MultiAssayExperiment",
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
     "DelayedMatrixStats",
@@ -6207,7 +6108,6 @@
   "lionessR": [],
   "lipidr": [
     "ropls",
-    "MultiAssayExperiment",
     "MultiDataSet"
   ],
   "lisaClust": [
@@ -6217,14 +6117,12 @@
     "simpleSeg",
     "cytomapper",
     "ClassifyR",
-    "MultiAssayExperiment",
     "genefilter",
     "AnnotationDbi",
     "annotate"
   ],
   "lmdme": [],
   "loci2path": [],
-  "lpNet": [],
   "lpsymphony": [],
   "lumi": [
     "affy",
@@ -6370,8 +6268,7 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
-    "MultiAssayExperiment"
+    "affy"
   ],
   "metagene2": [
     "rtracklayer",
@@ -6574,7 +6471,6 @@
     "biomaRt"
   ],
   "mia": [
-    "MultiAssayExperiment",
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
     "DelayedMatrixStats",
@@ -6591,7 +6487,6 @@
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
     "miaViz",
-    "MultiAssayExperiment",
     "DelayedMatrixStats",
     "scuttle",
     "beachmat",
@@ -6606,7 +6501,6 @@
     "TreeSummarizedExperiment",
     "scater",
     "SingleCellExperiment",
-    "MultiAssayExperiment",
     "DelayedMatrixStats",
     "scuttle",
     "beachmat",
@@ -6621,9 +6515,7 @@
   "microbiomeExplorer": [
     "DESeq2"
   ],
-  "midasHLA": [
-    "MultiAssayExperiment"
-  ],
+  "midasHLA": [],
   "miloR": [
     "edgeR",
     "SingleCellExperiment",
@@ -6650,7 +6542,6 @@
     "GenomicAlignments"
   ],
   "mirIntegrator": [
-    "ROntoTools",
     "AnnotationDbi"
   ],
   "mirTarRnaSeq": [],
@@ -6668,9 +6559,7 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "missRows": [
-    "MultiAssayExperiment"
-  ],
+  "missRows": [],
   "mist": [
     "rtracklayer",
     "SingleCellExperiment",
@@ -6791,7 +6680,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "msmsTests": [
@@ -6803,16 +6691,13 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "mspms": [
-    "QFeatures",
-    "MultiAssayExperiment"
+    "QFeatures"
   ],
   "msqrob2": [
-    "QFeatures",
-    "MultiAssayExperiment"
+    "QFeatures"
   ],
   "multiGSEA": [
     "graphite",
@@ -6880,8 +6765,7 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
-    "MultiAssayExperiment"
+    "affy"
   ],
   "ncRNAtools": [],
   "nearBynding": [
@@ -6915,9 +6799,7 @@
   "netboost": [
     "AnnotationDbi"
   ],
-  "nipalsMCIA": [
-    "MultiAssayExperiment"
-  ],
+  "nipalsMCIA": [],
   "nnSVG": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -6946,7 +6828,6 @@
   "omXplore": [
     "MSnbase",
     "PSMatch",
-    "MultiAssayExperiment",
     "vsn",
     "affy",
     "Spectra",
@@ -6970,7 +6851,6 @@
     "ALDEx2"
   ],
   "omicsPrint": [
-    "MultiAssayExperiment",
     "RaggedExperiment"
   ],
   "omicsViewer": [],
@@ -7016,7 +6896,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "pRolocGUI": [
@@ -7032,12 +6911,9 @@
     "genefilter",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
-  "padma": [
-    "MultiAssayExperiment"
-  ],
+  "padma": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools",
@@ -7109,7 +6985,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "peco": [
@@ -7132,7 +7007,6 @@
     "edgeR",
     "AnnotationDbi",
     "DESeq2",
-    "apeglm",
     "phantasusLite"
   ],
   "phantasusLite": [],
@@ -7148,7 +7022,6 @@
     "RBGL"
   ],
   "phenomis": [
-    "MultiAssayExperiment",
     "MultiDataSet",
     "ropls"
   ],
@@ -7314,7 +7187,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "puma": [
@@ -7336,7 +7208,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "qmtools": [],
@@ -7563,7 +7434,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "rigvf": [],
   "rmelting": [],
   "rmspc": [
     "rtracklayer",
@@ -7584,12 +7454,10 @@
     "Rsamtools"
   ],
   "ropls": [
-    "MultiAssayExperiment",
     "MultiDataSet"
   ],
   "rqt": [
     "ropls",
-    "MultiAssayExperiment",
     "MultiDataSet"
   ],
   "rrvgo": [
@@ -7856,7 +7724,6 @@
   "scp": [
     "QFeatures",
     "IHW",
-    "MultiAssayExperiment",
     "SingleCellExperiment",
     "lpsymphony"
   ],
@@ -8085,7 +7952,6 @@
     "AnnotationDbi",
     "GenomicAlignments"
   ],
-  "sketchR": [],
   "skewr": [
     "methylumi",
     "wateRmelon",
@@ -8199,7 +8065,6 @@
     "SpatialExperiment",
     "ClassifyR",
     "simpleSeg",
-    "MultiAssayExperiment",
     "genefilter",
     "cytomapper",
     "AnnotationDbi",
@@ -8249,8 +8114,7 @@
     "PSMatch",
     "vsn",
     "affy",
-    "MetaboCoreUtils",
-    "MultiAssayExperiment"
+    "MetaboCoreUtils"
   ],
   "srnadiff": [
     "rtracklayer",
@@ -8302,9 +8166,7 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "survClust": [
-    "MultiAssayExperiment"
-  ],
+  "survClust": [],
   "survtype": [],
   "sva": [
     "genefilter",
@@ -8391,7 +8253,6 @@
   ],
   "ternarynet": [],
   "terraTCGAdata": [
-    "MultiAssayExperiment",
     "RaggedExperiment",
     "TCGAutils",
     "AnnotationDbi",
@@ -8446,7 +8307,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "MultiAssayExperiment",
     "MetaboCoreUtils"
   ],
   "tpSVG": [
@@ -8606,9 +8466,7 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "vsclust": [
-    "MultiAssayExperiment"
-  ],
+  "vsclust": [],
   "vsn": [
     "affy"
   ],
@@ -8671,12 +8529,10 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
-    "MultiAssayExperiment"
+    "affy"
   ],
   "xcore": [
-    "edgeR",
-    "MultiAssayExperiment"
+    "edgeR"
   ],
   "xenLite": [
     "SpatialExperiment",
