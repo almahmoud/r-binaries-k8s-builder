@@ -802,3 +802,8 @@ ADImpute
 sccomp
 scds
 scHOT
+CellBench
+CHETAH
+projectR
+waddR
+zellkonverter

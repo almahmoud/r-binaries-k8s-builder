@@ -514,7 +514,6 @@
   ],
   "CGEN": [],
   "CGHnormaliter": [],
-  "CHETAH": [],
   "CHRONOS": [
     "biomaRt",
     "AnnotationDbi"
@@ -643,7 +642,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "CellBench": [],
   "CellMixS": [
     "scater",
     "scuttle",
@@ -6818,7 +6816,6 @@
     "DOSE",
     "GOSemSim"
   ],
-  "projectR": [],
   "protGear": [
     "vsn",
     "genefilter",
@@ -8012,7 +8009,6 @@
   ],
   "variancePartition": [],
   "velociraptor": [
-    "zellkonverter",
     "scuttle",
     "BiocSingular",
     "beachmat"
@@ -8032,7 +8028,6 @@
   "vsn": [
     "affy"
   ],
-  "waddR": [],
   "wateRmelon": [
     "methylumi",
     "lumi",
@@ -8115,7 +8110,6 @@
     "GenomicAlignments"
   ],
   "zFPKM": [],
-  "zellkonverter": [],
   "zenith": [
     "variancePartition",
     "EnrichmentBrowser",
