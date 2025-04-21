@@ -361,3 +361,10 @@ scMitoMut
 BUS
 PANR
 TreeAndLeaf
+BiocWorkflowTools
+COMPASS
+MBCB
+Polytect
+basilisk.utils
+biocmake
+ggtree
