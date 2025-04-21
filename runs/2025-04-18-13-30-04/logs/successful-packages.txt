@@ -896,3 +896,12 @@ Rmagpie
 ternarynet
 TMixClust
 UNDO
+ACME
+AnVILWorkflow
+ccImpute
+cydar
+HiCool
+MAI
+ncRNAtools
+ROCpAI
+scRecover

@@ -3,7 +3,6 @@
     "QDNAseq",
     "Rsamtools"
   ],
-  "ACME": [],
   "ADAM": [
     "AnnotationDbi"
   ],
@@ -143,7 +142,6 @@
     "biovizBase"
   ],
   "AnVILPublish": [],
-  "AnVILWorkflow": [],
   "Anaquin": [
     "DESeq2"
   ],
@@ -1581,7 +1579,6 @@
     "edgeR"
   ],
   "HiContacts": [],
-  "HiCool": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome",
@@ -1754,7 +1751,6 @@
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "MAI": [],
   "MAIT": [
     "CAMERA",
     "xcms",
@@ -2734,7 +2730,6 @@
   "RNAseqCovarImpute": [
     "edgeR"
   ],
-  "ROCpAI": [],
   "ROSeq": [
     "edgeR"
   ],
@@ -4103,7 +4098,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "ccImpute": [],
   "ccmap": [
     "AnnotationDbi"
   ],
@@ -4569,7 +4563,6 @@
     "BSgenome"
   ],
   "cyanoFilter": [],
-  "cydar": [],
   "cypress": [
     "PROPER",
     "edgeR",
@@ -6192,7 +6185,6 @@
     "vsn",
     "affy"
   ],
-  "ncRNAtools": [],
   "nearBynding": [
     "plyranges",
     "Rsamtools",
@@ -6972,7 +6964,6 @@
     "GenomicAlignments",
     "TrajectoryUtils"
   ],
-  "scRecover": [],
   "scTGIF": [
     "GSEABase",
     "annotate",
