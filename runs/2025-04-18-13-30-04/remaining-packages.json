@@ -1842,7 +1842,6 @@
     "MSstatsPTM"
   ],
   "MSstatsTMT": [],
-  "MWASTools": [],
   "Maaslin2": [
     "edgeR"
   ],
@@ -1904,7 +1903,6 @@
     "hpar",
     "biomaRt",
     "AnnotationDbi",
-    "MWASTools",
     "mygene",
     "ensembldb",
     "ExperimentHub",
@@ -2431,7 +2429,6 @@
   "RCM": [
     "edgeR"
   ],
-  "RCSL": [],
   "REMP": [
     "minfi",
     "rtracklayer",
@@ -4029,7 +4026,6 @@
   ],
   "concordexR": [],
   "condiments": [
-    "slingshot",
     "distinct",
     "scater",
     "scuttle",
@@ -6423,7 +6419,6 @@
     "scuttle"
   ],
   "scGPS": [],
-  "scHiCcompare": [],
   "scMerge": [
     "BiocSingular",
     "M3Drop",
@@ -6441,7 +6436,6 @@
   "scRNAseqApp": [
     "Rsamtools",
     "rtracklayer",
-    "slingshot",
     "GenomicAlignments"
   ],
   "scTGIF": [
@@ -6715,7 +6709,6 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "slingshot": [],
   "smoothclust": [],
   "smoppix": [],
   "snifter": [],
@@ -6994,8 +6987,7 @@
     "Rsamtools"
   ],
   "tradeSeq": [
-    "edgeR",
-    "slingshot"
+    "edgeR"
   ],
   "transcriptR": [
     "chipseq",

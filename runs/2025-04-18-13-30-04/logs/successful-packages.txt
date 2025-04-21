@@ -1008,3 +1008,7 @@ TADCompare
 rebook
 sRACIPE
 SVP
+MWASTools
+RCSL
+scHiCcompare
+slingshot
