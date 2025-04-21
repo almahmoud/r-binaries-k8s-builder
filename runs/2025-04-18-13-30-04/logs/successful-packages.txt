@@ -1012,3 +1012,8 @@ MWASTools
 RCSL
 scHiCcompare
 slingshot
+AnnotationDbi
+flowWorkspace
+hoodscanR
+RTNduals
+SeqArray
