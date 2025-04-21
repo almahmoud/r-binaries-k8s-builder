@@ -894,7 +894,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "DNABarcodes": [],
   "DOSE": [
     "AnnotationDbi",
     "GOSemSim"
@@ -1404,7 +1403,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "GeneNetworkBuilder": [],
   "GeneStructureTools": [
     "Gviz",
     "rtracklayer",
@@ -1609,10 +1607,7 @@
   "HybridExpress": [
     "DESeq2"
   ],
-  "IFAA": [],
-  "IHW": [
-    "lpsymphony"
-  ],
+  "IHW": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS",
@@ -1933,7 +1928,6 @@
     "scuttle",
     "edgeR"
   ],
-  "MPRAnalyze": [],
   "MSA2dist": [],
   "MSPrep": [
     "sva",
@@ -1965,7 +1959,6 @@
     "MetaboCoreUtils"
   ],
   "MSstatsBig": [],
-  "MSstatsBioNet": [],
   "MSstatsPTM": [
     "MSstatsTMT"
   ],
@@ -2406,7 +2399,6 @@
     "GenomicAlignments",
     "Rsamtools"
   ],
-  "PIPETS": [],
   "PLSDAbatch": [
     "TreeSummarizedExperiment"
   ],
@@ -2903,7 +2895,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "Rmagpie": [],
   "Rmmquant": [
     "DESeq2",
     "AnnotationDbi",
@@ -3390,7 +3381,6 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "TMixClust": [],
   "TOP": [
     "ClassifyR",
     "genefilter",
@@ -3435,7 +3425,6 @@
     "affy"
   ],
   "UCell": [],
-  "UNDO": [],
   "UPDhmm": [
     "VariantAnnotation",
     "Rsamtools",
@@ -4407,7 +4396,6 @@
     "annotate"
   ],
   "convert": [],
-  "corral": [],
   "coseq": [
     "edgeR",
     "DESeq2",
@@ -5196,7 +5184,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "geneRecommender": [],
   "geneXtendeR": [
     "rtracklayer",
     "AnnotationDbi",
@@ -5605,7 +5592,6 @@
   ],
   "lmdme": [],
   "loci2path": [],
-  "lpsymphony": [],
   "lumi": [
     "affy",
     "methylumi",
@@ -7047,8 +7033,7 @@
   ],
   "scp": [
     "QFeatures",
-    "IHW",
-    "lpsymphony"
+    "IHW"
   ],
   "scran": [
     "scuttle",
@@ -7512,7 +7497,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "ternarynet": [],
   "terraTCGAdata": [
     "TCGAutils",
     "AnnotationDbi",

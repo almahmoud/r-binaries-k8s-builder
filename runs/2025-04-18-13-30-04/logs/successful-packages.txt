@@ -883,3 +883,16 @@ MBASED
 MOGAMUN
 oligoClasses
 SPEM
+corral
+DNABarcodes
+GeneNetworkBuilder
+geneRecommender
+IFAA
+lpsymphony
+MPRAnalyze
+MSstatsBioNet
+PIPETS
+Rmagpie
+ternarynet
+TMixClust
+UNDO
