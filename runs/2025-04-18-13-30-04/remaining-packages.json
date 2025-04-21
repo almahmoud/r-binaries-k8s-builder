@@ -261,7 +261,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "BUSseq": [],
   "BaalChIP": [
     "Rsamtools",
     "GenomicAlignments"
