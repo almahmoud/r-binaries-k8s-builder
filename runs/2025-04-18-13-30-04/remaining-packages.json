@@ -498,7 +498,6 @@
     "Rgraphviz"
   ],
   "BioNAR": [
-    "fgsea",
     "AnnotationDbi"
   ],
   "BioNERO": [
@@ -701,8 +700,7 @@
     "AnnotationDbi",
     "DOSE",
     "GOSemSim",
-    "AnnotationHub",
-    "fgsea"
+    "AnnotationHub"
   ],
   "CCAFE": [
     "VariantAnnotation",
@@ -728,7 +726,6 @@
   ],
   "CEMiTool": [
     "clusterProfiler",
-    "fgsea",
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
@@ -817,7 +814,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "COMPASS": [],
   "CONFESS": [
     "flowClust",
     "flowMerge",
@@ -922,8 +918,7 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "DelayedArray",
-    "fgsea"
+    "DelayedArray"
   ],
   "CellBarcode": [
     "ShortRead",
@@ -960,7 +955,6 @@
     "SingleCellExperiment",
     "scater",
     "SummarizedExperiment",
-    "fgsea",
     "scuttle",
     "DelayedArray",
     "beachmat",
@@ -1052,7 +1046,6 @@
     "GOSemSim",
     "Rsamtools",
     "GenomicAlignments",
-    "fgsea",
     "SummarizedExperiment",
     "DelayedArray"
   ],
@@ -1152,7 +1145,6 @@
   "CoGAPS": [
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "fgsea",
     "DelayedArray"
   ],
   "CoSIA": [
@@ -1180,8 +1172,7 @@
     "SummarizedExperiment",
     "MultiAssayExperiment",
     "piano",
-    "DelayedArray",
-    "fgsea"
+    "DelayedArray"
   ],
   "Cormotif": [
     "affy"
@@ -1358,7 +1349,6 @@
   "DNABarcodes": [],
   "DOSE": [
     "AnnotationDbi",
-    "fgsea",
     "GOSemSim"
   ],
   "DRIMSeq": [
@@ -1456,7 +1446,6 @@
     "GenomicAlignments"
   ],
   "DeepTarget": [
-    "fgsea",
     "ExperimentHub",
     "AnnotationHub",
     "AnnotationDbi"
@@ -1677,8 +1666,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "fgsea"
+    "GOSemSim"
   ],
   "EnMCB": [],
   "EnhancedVolcano": [],
@@ -1688,8 +1676,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "fgsea"
+    "GOSemSim"
   ],
   "EnrichmentBrowser": [
     "SummarizedExperiment",
@@ -1720,7 +1707,6 @@
     "DOSE",
     "GOSemSim",
     "SummarizedExperiment",
-    "fgsea",
     "DelayedArray"
   ],
   "EpiMix": [
@@ -1760,7 +1746,6 @@
     "GenomicFeatures",
     "RBGL",
     "BSgenome",
-    "fgsea",
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
@@ -1924,7 +1909,6 @@
     "enrichplot",
     "GOSemSim",
     "SummarizedExperiment",
-    "fgsea",
     "KEGGgraph",
     "Rgraphviz",
     "DelayedArray"
@@ -2809,7 +2793,6 @@
     "AnnotationDbi",
     "DESeq2",
     "edgeR",
-    "fgsea",
     "graphite",
     "Rgraphviz",
     "SummarizedExperiment",
@@ -2896,7 +2879,6 @@
     "BiocSingular",
     "SingleCellExperiment",
     "bluster",
-    "fgsea",
     "scran",
     "DelayedArray",
     "ScaledMatrix",
@@ -3057,8 +3039,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "fgsea"
+    "GOSemSim"
   ],
   "MetaboAnnotation": [
     "MetaboCoreUtils",
@@ -3147,8 +3128,7 @@
     "enrichplot",
     "AnnotationDbi",
     "DOSE",
-    "GOSemSim",
-    "fgsea"
+    "GOSemSim"
   ],
   "MicrobiotaProcess": [
     "SummarizedExperiment",
@@ -3211,7 +3191,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "fgsea",
     "biomaRt",
     "GenomicFeatures",
     "SummarizedExperiment",
@@ -3228,7 +3207,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "fgsea",
     "DelayedArray",
     "biomaRt"
   ],
@@ -3395,9 +3373,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "NanoTube": [
-    "fgsea"
-  ],
+  "NanoTube": [],
   "Nebulosa": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -3585,7 +3561,6 @@
     "genefu",
     "biomaRt",
     "DelayedArray",
-    "fgsea",
     "AnnotationDbi"
   ],
   "PECA": [
@@ -3614,7 +3589,6 @@
   ],
   "POMA": [
     "DESeq2",
-    "fgsea",
     "mixOmics",
     "SummarizedExperiment",
     "sva",
@@ -3626,7 +3600,6 @@
   ],
   "PPInfer": [
     "biomaRt",
-    "fgsea",
     "AnnotationDbi"
   ],
   "PREDA": [
@@ -3649,7 +3622,6 @@
     "PSMatch",
     "affy",
     "DESeq2",
-    "fgsea",
     "mixOmics",
     "sva",
     "DelayedArray",
@@ -3693,7 +3665,6 @@
     "enrichplot",
     "GOSemSim",
     "annotate",
-    "fgsea",
     "multtest"
   ],
   "PathoStat": [
@@ -3736,7 +3707,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "fgsea",
     "graphite"
   ],
   "Pirat": [
@@ -3959,8 +3929,7 @@
     "DESeq2",
     "HTSFilter",
     "HDF5Array",
-    "DelayedArray",
-    "fgsea"
+    "DelayedArray"
   ],
   "RJMCMCNucleosomes": [
     "consensusSeekeR",
@@ -4153,14 +4122,12 @@
     "DelayedArray"
   ],
   "RUVcorr": [],
-  "RUVnormalize": [],
   "RadioGx": [
     "CoreGx",
     "SummarizedExperiment",
     "MultiAssayExperiment",
     "piano",
-    "DelayedArray",
-    "fgsea"
+    "DelayedArray"
   ],
   "RaggedExperiment": [
     "SummarizedExperiment",
@@ -4228,13 +4195,11 @@
     "DOSE",
     "enrichplot",
     "graphite",
-    "fgsea",
     "GOSemSim"
   ],
   "RegEnrich": [
     "BiocSet",
     "SummarizedExperiment",
-    "fgsea",
     "DOSE",
     "DESeq2",
     "AnnotationDbi",
@@ -4637,7 +4602,6 @@
     "DOSE",
     "AnnotationDbi",
     "SummarizedExperiment",
-    "fgsea",
     "GOSemSim",
     "DelayedArray"
   ],
@@ -5003,7 +4967,6 @@
     "enrichplot",
     "DOSE",
     "AnnotationDbi",
-    "fgsea",
     "GOSemSim"
   ],
   "TEKRABber": [
@@ -5171,8 +5134,7 @@
     "SummarizedExperiment",
     "MultiAssayExperiment",
     "piano",
-    "DelayedArray",
-    "fgsea"
+    "DelayedArray"
   ],
   "TrajectoryUtils": [
     "SingleCellExperiment",
@@ -5884,7 +5846,6 @@
     "TCGAutils",
     "enrichplot",
     "GOSemSim",
-    "fgsea",
     "graphite",
     "DelayedArray",
     "GenomicFeatures",
@@ -5901,22 +5862,11 @@
   "biocViews": [
     "RBGL"
   ],
-  "biodb": [],
-  "biodbChebi": [
-    "biodb"
-  ],
-  "biodbHmdb": [
-    "biodb"
-  ],
-  "biodbNcbi": [
-    "biodb"
-  ],
-  "biodbNci": [
-    "biodb"
-  ],
-  "biodbUniprot": [
-    "biodb"
-  ],
+  "biodbChebi": [],
+  "biodbHmdb": [],
+  "biodbNcbi": [],
+  "biodbNci": [],
+  "biodbUniprot": [],
   "biomaRt": [
     "AnnotationDbi"
   ],
@@ -6031,7 +5981,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "brendaDb": [],
   "broadSeq": [
     "SummarizedExperiment",
     "DELocal",
@@ -6045,8 +5994,7 @@
     "enrichplot",
     "GOSemSim",
     "annotate",
-    "DelayedArray",
-    "fgsea"
+    "DelayedArray"
   ],
   "bsseq": [
     "SummarizedExperiment",
@@ -6059,7 +6007,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "bugsigdbr": [],
   "bumphunter": [
     "GenomicFeatures",
     "AnnotationDbi",
@@ -6084,8 +6031,7 @@
   ],
   "cTRAP": [
     "AnnotationDbi",
-    "AnnotationHub",
-    "fgsea"
+    "AnnotationHub"
   ],
   "cageminer": [
     "ggbio",
@@ -6457,15 +6403,13 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "fgsea"
+    "GOSemSim"
   ],
   "clusterSeq": [
     "baySeq",
     "edgeR"
   ],
   "clustifyr": [
-    "fgsea",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "DelayedArray"
@@ -6945,7 +6889,6 @@
     "pathview",
     "apeglm",
     "GOSemSim",
-    "fgsea",
     "KEGGgraph",
     "Rgraphviz",
     "DelayedArray",
@@ -7197,9 +7140,7 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "dyebias": [],
   "easier": [
-    "progeny",
     "quantiseqr",
     "DESeq2",
     "SummarizedExperiment",
@@ -7255,14 +7196,12 @@
     "enrichplot",
     "DOSE",
     "AnnotationDbi",
-    "fgsea",
     "GOSemSim"
   ],
   "enrichplot": [
     "DOSE",
     "GOSemSim",
-    "AnnotationDbi",
-    "fgsea"
+    "AnnotationDbi"
   ],
   "ensembldb": [
     "GenomicFeatures",
@@ -7371,8 +7310,7 @@
     "edgeR",
     "bluster",
     "metapod",
-    "ScaledMatrix",
-    "fgsea"
+    "ScaledMatrix"
   ],
   "epistack": [
     "SummarizedExperiment",
@@ -7465,7 +7403,6 @@
     "DOSE",
     "GOSemSim",
     "SummarizedExperiment",
-    "fgsea",
     "DelayedArray"
   ],
   "escape": [
@@ -7542,8 +7479,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "fgsea"
+    "GOSemSim"
   ],
   "fastLiquidAssociation": [
     "LiquidAssociation",
@@ -7589,7 +7525,6 @@
   "fgga": [
     "RBGL"
   ],
-  "fgsea": [],
   "findIPs": [
     "SummarizedExperiment",
     "DelayedArray"
@@ -7652,9 +7587,7 @@
     "Rgraphviz",
     "DelayedArray"
   ],
-  "fobitools": [
-    "fgsea"
-  ],
+  "fobitools": [],
   "frma": [
     "affy",
     "oligo",
@@ -7721,7 +7654,6 @@
     "rtracklayer",
     "DelayedArray",
     "graphite",
-    "fgsea",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -7759,7 +7691,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "geneClassifiers": [],
   "geneRecommender": [],
   "geneRxCluster": [],
   "geneXtendeR": [
@@ -7938,8 +7869,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "fgsea"
+    "GOSemSim"
   ],
   "goTools": [
     "AnnotationDbi"
@@ -7970,7 +7900,6 @@
     "DelayedArray"
   ],
   "gsean": [
-    "fgsea",
     "PPInfer",
     "biomaRt",
     "AnnotationDbi"
@@ -8118,7 +8047,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "fgsea",
     "annotate",
     "rtracklayer",
     "RBGL",
@@ -8382,7 +8310,6 @@
   ],
   "lipidr": [
     "SummarizedExperiment",
-    "fgsea",
     "ropls",
     "MultiAssayExperiment",
     "MultiDataSet",
@@ -8463,7 +8390,6 @@
   ],
   "mCSEA": [
     "biomaRt",
-    "fgsea",
     "GenomicFeatures",
     "Gviz",
     "SummarizedExperiment",
@@ -8571,8 +8497,7 @@
     "enrichplot",
     "GOSemSim",
     "AnnotationHub",
-    "MeSHDbi",
-    "fgsea"
+    "MeSHDbi"
   ],
   "meshr": [
     "MeSHDbi",
@@ -8612,9 +8537,7 @@
     "DelayedArray"
   ],
   "metapod": [],
-  "metapone": [
-    "fgsea"
-  ],
+  "metapone": [],
   "metaseqR2": [
     "DESeq2",
     "biomaRt",
@@ -8697,7 +8620,6 @@
     "minfi",
     "methylumi",
     "SummarizedExperiment",
-    "fgsea",
     "annotate",
     "genefilter",
     "GenomicFeatures",
@@ -8850,7 +8772,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "fgsea",
     "annotate",
     "graphite",
     "DelayedArray"
@@ -8863,7 +8784,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "fgsea",
     "graphite",
     "biomaRt"
   ],
@@ -9201,7 +9121,6 @@
   "multiGSEA": [
     "graphite",
     "AnnotationDbi",
-    "fgsea",
     "AnnotationHub",
     "multtest"
   ],
@@ -9340,7 +9259,6 @@
     "Rgraphviz"
   ],
   "nipalsMCIA": [
-    "fgsea",
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "DelayedArray"
@@ -9424,7 +9342,6 @@
     "DelayedArray"
   ],
   "omicsViewer": [
-    "fgsea",
     "SummarizedExperiment",
     "DelayedArray"
   ],
@@ -9537,7 +9454,6 @@
   "pairedGSEA": [
     "DESeq2",
     "DEXSeq",
-    "fgsea",
     "sva",
     "SummarizedExperiment",
     "AnnotationDbi",
@@ -9590,7 +9506,6 @@
   ],
   "pathlinkR": [
     "clusterProfiler",
-    "fgsea",
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
@@ -9648,7 +9563,6 @@
   "phantasus": [
     "GEOquery",
     "edgeR",
-    "fgsea",
     "AnnotationDbi",
     "DESeq2",
     "apeglm",
@@ -9674,7 +9588,6 @@
   ],
   "phenomis": [
     "SummarizedExperiment",
-    "biodb",
     "biodbChebi",
     "MultiAssayExperiment",
     "MultiDataSet",
@@ -9688,9 +9601,7 @@
   "phyloseq": [
     "multtest"
   ],
-  "piano": [
-    "fgsea"
-  ],
+  "piano": [],
   "pipeComp": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -9871,13 +9782,10 @@
     "DelayedArray",
     "ShortRead",
     "DOSE",
-    "GOSemSim",
-    "fgsea"
+    "GOSemSim"
   ],
-  "progeny": [],
   "projectR": [
     "SingleCellExperiment",
-    "fgsea",
     "SummarizedExperiment",
     "DelayedArray"
   ],
@@ -10019,7 +9927,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "rBLAST": [],
   "rCGH": [
     "affy",
     "GenomicFeatures",
@@ -10282,7 +10189,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "rpx": [],
   "rqt": [
     "SummarizedExperiment",
     "ropls",
@@ -10781,7 +10687,6 @@
     "GenomicFeatures",
     "DOSE",
     "GOSemSim",
-    "fgsea",
     "GenomicAlignments",
     "SummarizedExperiment",
     "DelayedArray"
@@ -10894,7 +10799,6 @@
     "AnnotationDbi",
     "ExperimentHub",
     "HDF5Array",
-    "fgsea",
     "clusterProfiler",
     "DOSE",
     "GSEABase",

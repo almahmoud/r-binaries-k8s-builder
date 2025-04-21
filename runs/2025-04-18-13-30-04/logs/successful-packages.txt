@@ -615,3 +615,14 @@ MSstats
 OLINgui
 PhenStat
 timecourse
+biodb
+brendaDb
+bugsigdbr
+COMPASS
+dyebias
+fgsea
+geneClassifiers
+progeny
+rBLAST
+rpx
+RUVnormalize
