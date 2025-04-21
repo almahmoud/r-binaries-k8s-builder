@@ -1171,3 +1171,5 @@ alabaster.se
 TSCAN
 slingshot
 mnem
+alabaster.mae
+alabaster.sce

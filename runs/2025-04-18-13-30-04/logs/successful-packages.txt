@@ -979,3 +979,10 @@ NetActivity
 omicplotR
 rmelting
 SingleCellAlleleExperiment
+alabaster.se
+chromDraw
+getDEE2
+LimROTS
+methylscaper
+TPP
+weitrix

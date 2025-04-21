@@ -1645,7 +1645,6 @@
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "LimROTS": [],
   "LiquidAssociation": [
     "AnnotationDbi"
   ],
@@ -3211,7 +3210,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "TPP": [],
   "TRESS": [
     "rtracklayer",
     "GenomicFeatures",
@@ -3464,7 +3462,6 @@
     "BiocSingular"
   ],
   "alabaster": [
-    "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
@@ -3480,20 +3477,13 @@
   "alabaster.files": [
     "Rsamtools"
   ],
-  "alabaster.mae": [
-    "alabaster.se"
-  ],
-  "alabaster.sce": [
-    "alabaster.se"
-  ],
-  "alabaster.se": [],
+  "alabaster.mae": [],
+  "alabaster.sce": [],
   "alabaster.spatial": [
-    "alabaster.sce",
-    "alabaster.se"
+    "alabaster.sce"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
-    "alabaster.se",
     "Rsamtools",
     "AnnotationDbi",
     "rtracklayer",
@@ -3997,7 +3987,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "chromDraw": [],
   "chromPlot": [
     "biomaRt",
     "AnnotationDbi"
@@ -4965,7 +4954,6 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "getDEE2": [],
   "geyser": [],
   "gg4way": [
     "edgeR"
@@ -5560,7 +5548,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "methylscaper": [],
   "methylumi": [
     "minfi",
     "annotate",
@@ -7303,7 +7290,6 @@
     "gcrma",
     "AnnotationDbi"
   ],
-  "weitrix": [],
   "wiggleplotr": [
     "rtracklayer",
     "Rsamtools",
