@@ -1687,7 +1687,6 @@
     "BiocBaseUtils",
     "DelayedArray"
   ],
-  "DCATS": [],
   "DECIPHER": [
     "Biostrings"
   ],
@@ -5043,7 +5042,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "Polytect": [],
   "PrInCE": [
     "MSnbase",
     "PSMatch",
@@ -10992,7 +10990,6 @@
     "BiocFileCache",
     "h5mread"
   ],
-  "immunoClust": [],
   "infercnv": [
     "edgeR",
     "SummarizedExperiment",
@@ -11308,7 +11305,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "maSigPro": [],
   "maaslin3": [
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
@@ -11447,7 +11443,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "messina": [],
   "metaMS": [
     "CAMERA",
     "xcms",
