@@ -771,3 +771,16 @@ findIPs
 gemma.R
 SingleCellExperiment
 XAItest
+AffiXcan
+awst
+cmapR
+debCAM
+epistack
+MICSQTL
+MOFA2
+phantasusLite
+RBGL
+Rcwl
+Rtpca
+scReClassify
+tRNAdbImport

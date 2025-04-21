@@ -37,7 +37,6 @@
     "AnnotationDbi",
     "OrganismDbi",
     "AnnotationForge",
-    "RBGL",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -102,7 +101,6 @@
   "AWFisher": [
     "edgeR"
   ],
-  "AffiXcan": [],
   "AffyRNADegradation": [
     "affy"
   ],
@@ -118,7 +116,6 @@
     "Glimma",
     "DESeq2",
     "Category",
-    "RBGL",
     "annotate",
     "AnnotationForge",
     "GSEABase",
@@ -171,7 +168,6 @@
     "AnnotationDbi",
     "OrganismDbi",
     "AnnotationForge",
-    "RBGL",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -238,7 +234,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationDbi",
-    "RBGL",
     "txdbmaker",
     "biomaRt"
   ],
@@ -347,8 +342,7 @@
     "AnnotationDbi"
   ],
   "BioGA": [
-    "biocViews",
-    "RBGL"
+    "biocViews"
   ],
   "BioNAR": [
     "AnnotationDbi"
@@ -361,7 +355,6 @@
     "annotate"
   ],
   "BioNet": [
-    "RBGL",
     "AnnotationDbi"
   ],
   "BioQC": [
@@ -375,8 +368,7 @@
     "beachmat"
   ],
   "BiocCheck": [
-    "biocViews",
-    "RBGL"
+    "biocViews"
   ],
   "BiocHubsShiny": [
     "AnnotationHub",
@@ -384,8 +376,7 @@
     "AnnotationDbi"
   ],
   "BiocPkgTools": [
-    "biocViews",
-    "RBGL"
+    "biocViews"
   ],
   "BiocSet": [
     "AnnotationDbi"
@@ -432,7 +423,6 @@
     "BSgenome",
     "rtracklayer",
     "OrganismDbi",
-    "RBGL",
     "txdbmaker",
     "biomaRt"
   ],
@@ -471,7 +461,6 @@
   ],
   "CAMERA": [
     "xcms",
-    "RBGL",
     "MSnbase",
     "MsExperiment",
     "Spectra",
@@ -529,25 +518,20 @@
   "CGHnormaliter": [],
   "CHETAH": [],
   "CHRONOS": [
-    "RBGL",
     "biomaRt",
     "AnnotationDbi"
   ],
   "CNORdt": [
-    "CellNOptR",
-    "RBGL"
+    "CellNOptR"
   ],
   "CNORfeeder": [
-    "CellNOptR",
-    "RBGL"
+    "CellNOptR"
   ],
   "CNORfuzzy": [
-    "CellNOptR",
-    "RBGL"
+    "CellNOptR"
   ],
   "CNORode": [
-    "CellNOptR",
-    "RBGL"
+    "CellNOptR"
   ],
   "CNTools": [
     "genefilter",
@@ -643,7 +627,6 @@
   ],
   "Category": [
     "AnnotationDbi",
-    "RBGL",
     "GSEABase",
     "genefilter",
     "annotate"
@@ -671,9 +654,7 @@
     "beachmat",
     "BiocSingular"
   ],
-  "CellNOptR": [
-    "RBGL"
-  ],
+  "CellNOptR": [],
   "CellTrails": [],
   "CelliD": [
     "scater",
@@ -853,27 +834,23 @@
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "flowWorkspace",
-    "RBGL"
+    "flowWorkspace"
   ],
   "CytoML": [
     "flowWorkspace",
     "openCyto",
-    "RBGL",
     "ggcyto"
   ],
   "CytoPipeline": [
     "ggcyto",
     "PeacoQC",
-    "flowWorkspace",
-    "RBGL"
+    "flowWorkspace"
   ],
   "CytoPipelineGUI": [
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "flowWorkspace",
-    "RBGL"
+    "flowWorkspace"
   ],
   "DAMEfinder": [
     "GenomicAlignments",
@@ -899,7 +876,6 @@
     "edgeR"
   ],
   "DEGraph": [
-    "RBGL",
     "NCIgraph"
   ],
   "DEGreport": [
@@ -939,7 +915,6 @@
     "annotate"
   ],
   "DEsubs": [
-    "RBGL",
     "edgeR",
     "DESeq2"
   ],
@@ -1001,7 +976,6 @@
     "OrganismDbi",
     "ensembldb",
     "txdbmaker",
-    "RBGL",
     "biomaRt"
   ],
   "DeMixT": [
@@ -1234,7 +1208,6 @@
     "AnnotationDbi",
     "GenomicFeatures",
     "txdbmaker",
-    "tRNAdbImport",
     "rtracklayer",
     "biomaRt",
     "Rsamtools",
@@ -1248,7 +1221,6 @@
   "EventPointer": [
     "SGSeq",
     "GenomicFeatures",
-    "RBGL",
     "BSgenome",
     "rtracklayer",
     "Rsamtools",
@@ -1279,7 +1251,6 @@
     "AnnotationDbi",
     "OrganismDbi",
     "AnnotationForge",
-    "RBGL",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -1424,7 +1395,6 @@
   "GOstats": [
     "Category",
     "AnnotationDbi",
-    "RBGL",
     "annotate",
     "AnnotationForge",
     "GSEABase",
@@ -1460,7 +1430,6 @@
     "AnnotationDbi",
     "rtracklayer",
     "OrganismDbi",
-    "RBGL",
     "txdbmaker",
     "Rsamtools",
     "GenomicAlignments",
@@ -1524,7 +1493,6 @@
   "GenomicInteractionNodes": [
     "AnnotationDbi",
     "GenomicFeatures",
-    "RBGL",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -1556,7 +1524,6 @@
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
-    "RBGL",
     "txdbmaker"
   ],
   "GenomicPlot": [
@@ -1597,7 +1564,6 @@
     "Category",
     "GSEABase",
     "GOstats",
-    "RBGL",
     "genefilter",
     "annotate",
     "AnnotationForge"
@@ -1747,7 +1713,6 @@
   "IPO": [
     "xcms",
     "CAMERA",
-    "RBGL",
     "MSnbase",
     "MsExperiment",
     "Spectra",
@@ -1879,7 +1844,6 @@
   "MAIT": [
     "CAMERA",
     "xcms",
-    "RBGL",
     "MSnbase",
     "MsExperiment",
     "Spectra",
@@ -1964,8 +1928,7 @@
   ],
   "MEIGOR": [
     "CNORode",
-    "CellNOptR",
-    "RBGL"
+    "CellNOptR"
   ],
   "MGFM": [
     "AnnotationDbi",
@@ -1985,7 +1948,6 @@
     "beachmat",
     "BiocSingular"
   ],
-  "MICSQTL": [],
   "MIRA": [
     "bsseq",
     "DelayedMatrixStats",
@@ -2030,7 +1992,6 @@
   "MODA": [
     "AnnotationDbi"
   ],
-  "MOFA2": [],
   "MOGAMUN": [],
   "MOMA": [],
   "MOSClip": [
@@ -2245,7 +2206,6 @@
     "AnnotationDbi",
     "lumi",
     "Category",
-    "RBGL",
     "AnnotationForge",
     "affy",
     "methylumi",
@@ -2394,9 +2354,7 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "NCIgraph": [
-    "RBGL"
-  ],
+  "NCIgraph": [],
   "NPARC": [],
   "NanoMethViz": [
     "BiocSingular",
@@ -2498,7 +2456,6 @@
   "OrganismDbi": [
     "AnnotationDbi",
     "GenomicFeatures",
-    "RBGL",
     "txdbmaker",
     "rtracklayer",
     "biomaRt",
@@ -2624,8 +2581,7 @@
     "DESeq2"
   ],
   "PeacoQC": [
-    "flowWorkspace",
-    "RBGL"
+    "flowWorkspace"
   ],
   "PepSetTest": [],
   "PhIPData": [
@@ -2723,7 +2679,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationDbi",
-    "RBGL",
     "txdbmaker",
     "biomaRt"
   ],
@@ -2753,7 +2708,6 @@
     "SeqVarTools",
     "GenomicAlignments"
   ],
-  "RBGL": [],
   "RCAS": [
     "BSgenome",
     "rtracklayer",
@@ -2801,7 +2755,6 @@
     "clusterProfiler",
     "edgeR",
     "enrichplot",
-    "MOFA2",
     "DOSE",
     "GOSemSim",
     "DESeq2",
@@ -2976,12 +2929,8 @@
     "GOSemSim",
     "AnnotationDbi"
   ],
-  "Rcwl": [],
-  "RcwlPipelines": [
-    "Rcwl"
-  ],
+  "RcwlPipelines": [],
   "ReUseData": [
-    "Rcwl",
     "RcwlPipelines"
   ],
   "ReactomeGSA": [
@@ -3023,7 +2972,6 @@
     "GSEABase",
     "DESeq2",
     "ggbio",
-    "RBGL",
     "genefilter",
     "biovizBase",
     "Rsamtools",
@@ -3070,7 +3018,6 @@
     "VariantAnnotation",
     "OrganismDbi",
     "ensembldb",
-    "RBGL",
     "txdbmaker",
     "biomaRt"
   ],
@@ -3131,7 +3078,6 @@
     "BSgenome"
   ],
   "Rsamtools": [],
-  "Rtpca": [],
   "Rvisdiff": [
     "edgeR"
   ],
@@ -3204,7 +3150,6 @@
     "GOstats",
     "AnnotationDbi",
     "Category",
-    "RBGL",
     "AnnotationForge",
     "GSEABase"
   ],
@@ -3232,7 +3177,6 @@
     "AnnotationDbi",
     "BioNet",
     "goseq",
-    "RBGL",
     "rtracklayer",
     "GenomicFeatures",
     "txdbmaker",
@@ -3383,7 +3327,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationDbi",
-    "RBGL",
     "txdbmaker",
     "biomaRt"
   ],
@@ -3456,9 +3399,7 @@
     "FlowSOM",
     "ConsensusClusterPlus"
   ],
-  "Streamer": [
-    "RBGL"
-  ],
+  "Streamer": [],
   "StructuralVariantAnnotation": [
     "rtracklayer",
     "VariantAnnotation",
@@ -3736,7 +3677,6 @@
   ],
   "VariantFiltering": [
     "VariantAnnotation",
-    "RBGL",
     "AnnotationDbi",
     "GenomicFeatures",
     "Rsamtools",
@@ -3796,7 +3736,6 @@
     "GenomicAlignments",
     "OrganismDbi",
     "ensembldb",
-    "RBGL",
     "txdbmaker",
     "biomaRt"
   ],
@@ -3855,7 +3794,6 @@
     "Glimma",
     "DESeq2",
     "Category",
-    "RBGL",
     "annotate",
     "AnnotationForge",
     "GSEABase",
@@ -3963,7 +3901,6 @@
     "edgeR"
   ],
   "apComplex": [
-    "RBGL",
     "AnnotationDbi"
   ],
   "appreci8R": [
@@ -3976,7 +3913,6 @@
     "AnnotationDbi",
     "AnnotationHub",
     "OrganismDbi",
-    "RBGL",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -4031,7 +3967,6 @@
     "AnnotationDbi",
     "GOstats",
     "Category",
-    "RBGL",
     "annotate",
     "AnnotationForge",
     "GSEABase",
@@ -4042,7 +3977,6 @@
     "vsn",
     "affy"
   ],
-  "awst": [],
   "ballgown": [
     "sva",
     "rtracklayer",
@@ -4149,9 +4083,7 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "biocViews": [
-    "RBGL"
-  ],
+  "biocViews": [],
   "biomaRt": [
     "AnnotationDbi"
   ],
@@ -4211,7 +4143,6 @@
     "affy",
     "sva",
     "vsn",
-    "RBGL",
     "Linnorm",
     "genefilter",
     "edgeR",
@@ -4296,7 +4227,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationDbi",
-    "RBGL",
     "txdbmaker",
     "genefilter",
     "edgeR",
@@ -4317,7 +4247,6 @@
     "hopach",
     "biomaRt",
     "genefilter",
-    "RBGL",
     "GenomicFeatures",
     "rtracklayer",
     "Rsamtools",
@@ -4336,7 +4265,6 @@
     "Category",
     "GOstats",
     "annotate",
-    "RBGL",
     "genefilter",
     "AnnotationForge"
   ],
@@ -4498,7 +4426,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "biocViews",
-    "RBGL",
     "VariantAnnotation"
   ],
   "cleanUpdTSeq": [
@@ -4561,7 +4488,6 @@
     "edgeR"
   ],
   "clustifyr": [],
-  "cmapR": [],
   "cn.mops": [
     "Rsamtools"
   ],
@@ -4887,7 +4813,6 @@
   ],
   "dcGSA": [],
   "ddPCRclust": [],
-  "debCAM": [],
   "debrowser": [
     "annotate",
     "AnnotationDbi",
@@ -4982,7 +4907,6 @@
     "VariantAnnotation",
     "OrganismDbi",
     "ensembldb",
-    "RBGL",
     "txdbmaker",
     "biomaRt"
   ],
@@ -5139,8 +5063,7 @@
   ],
   "epiNEM": [
     "mnem",
-    "Linnorm",
-    "RBGL"
+    "Linnorm"
   ],
   "epialleleR": [],
   "epidecodeR": [
@@ -5174,7 +5097,6 @@
     "GEOquery",
     "VariantAnnotation",
     "annotate",
-    "RBGL",
     "txdbmaker"
   ],
   "epiregulon": [
@@ -5210,7 +5132,6 @@
     "BiocSingular",
     "edgeR"
   ],
-  "epistack": [],
   "epivizr": [
     "epivizrData",
     "bumphunter",
@@ -5220,7 +5141,6 @@
     "ensembldb",
     "rtracklayer",
     "Rsamtools",
-    "RBGL",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -5233,7 +5153,6 @@
     "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
-    "RBGL",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -5245,7 +5164,6 @@
     "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
-    "RBGL",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -5261,7 +5179,6 @@
     "ensembldb",
     "Rsamtools",
     "GenomicAlignments",
-    "RBGL",
     "txdbmaker",
     "biomaRt"
   ],
@@ -5372,14 +5289,11 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "fgga": [
-    "RBGL"
-  ],
+  "fgga": [],
   "fishpond": [],
   "flagme": [
     "xcms",
     "CAMERA",
-    "RBGL",
     "MSnbase",
     "MsExperiment",
     "Spectra",
@@ -5393,23 +5307,18 @@
   "flowCut": [],
   "flowGate": [
     "flowWorkspace",
-    "ggcyto",
-    "RBGL"
+    "ggcyto"
   ],
   "flowMerge": [],
   "flowStats": [
-    "flowWorkspace",
-    "RBGL"
+    "flowWorkspace"
   ],
   "flowTrans": [],
   "flowVS": [
     "flowStats",
-    "flowWorkspace",
-    "RBGL"
+    "flowWorkspace"
   ],
-  "flowWorkspace": [
-    "RBGL"
-  ],
+  "flowWorkspace": [],
   "frma": [
     "affy",
     "oligo",
@@ -5440,8 +5349,7 @@
   ],
   "gDRstyle": [
     "BiocCheck",
-    "biocViews",
-    "RBGL"
+    "biocViews"
   ],
   "gDRutils": [],
   "gINTomics": [
@@ -5464,7 +5372,6 @@
   ],
   "gatom": [
     "BioNet",
-    "RBGL",
     "AnnotationDbi"
   ],
   "gcapc": [
@@ -5548,13 +5455,11 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationDbi",
-    "RBGL",
     "txdbmaker",
     "biomaRt"
   ],
   "ggcyto": [
-    "flowWorkspace",
-    "RBGL"
+    "flowWorkspace"
   ],
   "ggmanh": [
     "SeqArray"
@@ -5744,7 +5649,6 @@
     "GOSemSim",
     "annotate",
     "rtracklayer",
-    "RBGL",
     "txdbmaker",
     "graphite",
     "Rsamtools",
@@ -5841,14 +5745,12 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationDbi",
-    "RBGL",
     "txdbmaker",
     "biomaRt"
   ],
   "interactiveDisplay": [
     "Category",
     "AnnotationDbi",
-    "RBGL",
     "GSEABase",
     "genefilter",
     "annotate"
@@ -5984,7 +5886,6 @@
     "GenomicAlignments",
     "OrganismDbi",
     "VariantAnnotation",
-    "RBGL",
     "txdbmaker"
   ],
   "maPredictDSC": [
@@ -6060,7 +5961,6 @@
     "MeSHDbi",
     "Category",
     "AnnotationDbi",
-    "RBGL",
     "GSEABase",
     "genefilter",
     "annotate"
@@ -6068,7 +5968,6 @@
   "metaMS": [
     "CAMERA",
     "xcms",
-    "RBGL",
     "MSnbase",
     "MsExperiment",
     "Spectra",
@@ -6215,7 +6114,6 @@
     "BiocCheck",
     "OrganismDbi",
     "AnnotationForge",
-    "RBGL",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -6240,7 +6138,6 @@
     "Category",
     "GOstats",
     "AnnotationDbi",
-    "RBGL",
     "GSEABase",
     "genefilter",
     "annotate",
@@ -6403,8 +6300,7 @@
     "GenomicAlignments"
   ],
   "monocle": [
-    "biocViews",
-    "RBGL"
+    "biocViews"
   ],
   "mosaics": [
     "GenomicAlignments",
@@ -6465,7 +6361,6 @@
     "VariantAnnotation",
     "OrganismDbi",
     "ensembldb",
-    "RBGL",
     "txdbmaker"
   ],
   "mslp": [
@@ -6575,8 +6470,7 @@
   "nempi": [
     "mnem",
     "epiNEM",
-    "Linnorm",
-    "RBGL"
+    "Linnorm"
   ],
   "netSmooth": [
     "scater",
@@ -6654,8 +6548,7 @@
     "AnnotationDbi"
   ],
   "openCyto": [
-    "flowWorkspace",
-    "RBGL"
+    "flowWorkspace"
   ],
   "oposSOM": [
     "biomaRt",
@@ -6796,10 +6689,8 @@
     "GEOquery",
     "edgeR",
     "AnnotationDbi",
-    "DESeq2",
-    "phantasusLite"
+    "DESeq2"
   ],
-  "phantasusLite": [],
   "phenoTest": [
     "annotate",
     "Heatplus",
@@ -6808,8 +6699,7 @@
     "hopach",
     "biomaRt",
     "GSEABase",
-    "genefilter",
-    "RBGL"
+    "genefilter"
   ],
   "phenomis": [
     "MultiDataSet",
@@ -7397,7 +7287,6 @@
     "GenomicAlignments",
     "TrajectoryUtils"
   ],
-  "scReClassify": [],
   "scRecover": [],
   "scRepertoire": [],
   "scTGIF": [
@@ -7422,7 +7311,6 @@
     "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
-    "RBGL",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -7495,8 +7383,7 @@
     "VariantAnnotation",
     "OrganismDbi",
     "ensembldb",
-    "biomaRt",
-    "RBGL"
+    "biomaRt"
   ],
   "scry": [
     "BiocSingular",
@@ -7620,8 +7507,7 @@
     "annotate"
   ],
   "sigFeature": [
-    "biocViews",
-    "RBGL"
+    "biocViews"
   ],
   "signatureSearch": [
     "AnnotationDbi",
@@ -7935,7 +7821,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "tRNAdbImport": [],
   "tRNAscanImport": [
     "rtracklayer",
     "BSgenome",
@@ -8133,8 +8018,7 @@
   ],
   "uSORT": [
     "monocle",
-    "biocViews",
-    "RBGL"
+    "biocViews"
   ],
   "uncoverappLib": [
     "Gviz",
@@ -8148,7 +8032,6 @@
     "BSgenome",
     "biovizBase",
     "GenomicAlignments",
-    "RBGL",
     "txdbmaker",
     "VariantAnnotation"
   ],

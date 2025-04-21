@@ -1069,3 +1069,10 @@ switchde
 tidySingleCellExperiment
 waddR
 zellkonverter
+CellNOptR
+NCIgraph
+RcwlPipelines
+Streamer
+biocViews
+fgga
+flowWorkspace
