@@ -1,4 +1,3 @@
-CNAnorm
-MANOR
-clst
-rhdf5filters
+clstutils
+ndexr
+sparseMatrixStats
