@@ -588,3 +588,14 @@ GraphAT
 marray
 RNASeqPower
 TPP2D
+a4Classif
+AnVILGCP
+CGHbase
+DeepPINCS
+h5mread
+memes
+nnNorm
+OLIN
+rawDiag
+RBM
+stepNorm
