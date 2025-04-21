@@ -86,7 +86,6 @@
     "BSgenome"
   ],
   "AUCell": [
-    "DelayedMatrixStats",
     "GSEABase",
     "annotate",
     "AnnotationDbi"
@@ -175,7 +174,6 @@
     "scran",
     "scuttle",
     "beachmat",
-    "DelayedMatrixStats",
     "edgeR",
     "BiocSingular"
   ],
@@ -527,7 +525,6 @@
   "COCOA": [
     "MIRA",
     "bsseq",
-    "DelayedMatrixStats",
     "BSgenome",
     "beachmat",
     "rtracklayer",
@@ -548,7 +545,6 @@
   "CRISPRball": [
     "dittoSeq",
     "PCAtools",
-    "DelayedMatrixStats",
     "BiocSingular",
     "beachmat"
   ],
@@ -620,7 +616,6 @@
   ],
   "Cepo": [
     "GSEABase",
-    "DelayedMatrixStats",
     "annotate",
     "AnnotationDbi"
   ],
@@ -868,7 +863,6 @@
   ],
   "DSS": [
     "bsseq",
-    "DelayedMatrixStats",
     "BSgenome",
     "beachmat",
     "rtracklayer",
@@ -913,7 +907,6 @@
     "bsseq",
     "genefilter",
     "edgeR",
-    "DelayedMatrixStats",
     "BSgenome",
     "beachmat",
     "AnnotationDbi",
@@ -959,7 +952,6 @@
     "rtracklayer",
     "biomaRt"
   ],
-  "DelayedMatrixStats": [],
   "DelayedTensor": [
     "BiocSingular",
     "beachmat"
@@ -1055,7 +1047,6 @@
     "AnnotationDbi",
     "annotate",
     "bumphunter",
-    "DelayedMatrixStats",
     "GenomicFeatures",
     "rtracklayer",
     "Rsamtools",
@@ -1180,7 +1171,6 @@
     "AnnotationDbi",
     "biomaRt",
     "BSgenome",
-    "DelayedMatrixStats",
     "GenomicAlignments",
     "GenomicFeatures",
     "OUTRIDER",
@@ -1258,7 +1248,6 @@
     "SeqArray"
   ],
   "GENESIS": [
-    "GWASTools",
     "SeqArray",
     "SeqVarTools"
   ],
@@ -1334,13 +1323,11 @@
   ],
   "GSVA": [
     "GSEABase",
-    "DelayedMatrixStats",
     "BiocSingular",
     "beachmat",
     "annotate",
     "AnnotationDbi"
   ],
-  "GWASTools": [],
   "GWENA": [
     "AnnotationDbi"
   ],
@@ -1724,7 +1711,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "methylumi",
     "sva",
@@ -1736,7 +1722,6 @@
     "minfi",
     "wateRmelon",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "methylumi",
     "lumi",
@@ -1779,7 +1764,6 @@
   "MGnifyR": [
     "TreeSummarizedExperiment",
     "mia",
-    "DelayedMatrixStats",
     "scater",
     "scuttle",
     "beachmat",
@@ -1787,7 +1771,6 @@
   ],
   "MIRA": [
     "bsseq",
-    "DelayedMatrixStats",
     "BSgenome",
     "beachmat",
     "rtracklayer",
@@ -1993,7 +1976,6 @@
   "MethylAid": [
     "minfi",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GenomicFeatures",
     "AnnotationDbi",
@@ -2036,7 +2018,6 @@
     "rtracklayer",
     "minfi",
     "bumphunter",
-    "DelayedMatrixStats",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -2170,14 +2151,11 @@
     "AnnotationDbi",
     "Rsamtools",
     "beachmat",
-    "DelayedMatrixStats",
     "BSgenome",
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "NetActivity": [
-    "DelayedMatrixStats"
-  ],
+  "NetActivity": [],
   "NetSAM": [
     "biomaRt",
     "AnnotationDbi"
@@ -2287,7 +2265,6 @@
     "GenomicAlignments"
   ],
   "PCAtools": [
-    "DelayedMatrixStats",
     "BiocSingular",
     "beachmat"
   ],
@@ -2488,7 +2465,6 @@
     "VariantAnnotation",
     "rtracklayer",
     "GenomicFeatures",
-    "GWASTools",
     "SeqArray",
     "SeqVarTools",
     "GenomicAlignments"
@@ -2517,7 +2493,6 @@
     "AnnotationDbi",
     "Rsamtools",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GenomicAlignments",
     "GenomicFeatures",
@@ -2654,7 +2629,6 @@
   "RTNsurvival": [
     "RTNduals"
   ],
-  "RUCova": [],
   "RUVSeq": [
     "EDASeq",
     "edgeR",
@@ -2690,7 +2664,6 @@
   "RcisTarget": [
     "AUCell",
     "GSEABase",
-    "DelayedMatrixStats",
     "annotate",
     "AnnotationDbi"
   ],
@@ -2803,7 +2776,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "bumphunter",
-    "DelayedMatrixStats",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -2869,15 +2841,13 @@
     "GenomicAlignments"
   ],
   "SCArray": [
-    "DelayedMatrixStats",
     "BiocSingular",
     "beachmat"
   ],
   "SCArray.sat": [
     "SCArray",
     "BiocSingular",
-    "beachmat",
-    "DelayedMatrixStats"
+    "beachmat"
   ],
   "SCOPE": [
     "Rsamtools",
@@ -2888,7 +2858,6 @@
   "SCnorm": [],
   "SEraster": [],
   "SEtools": [
-    "sechm",
     "edgeR",
     "sva",
     "genefilter",
@@ -2977,9 +2946,7 @@
     "AnnotationDbi",
     "GOSemSim"
   ],
-  "SVP": [
-    "DelayedMatrixStats"
-  ],
+  "SVP": [],
   "SWATH2stats": [
     "biomaRt",
     "AnnotationDbi"
@@ -3051,7 +3018,6 @@
     "biomaRt"
   ],
   "SingleR": [
-    "DelayedMatrixStats",
     "beachmat"
   ],
   "SomaticSignatures": [
@@ -3093,7 +3059,6 @@
   "SpliceWiz": [
     "AnnotationHub",
     "BSgenome",
-    "DelayedMatrixStats",
     "genefilter",
     "rtracklayer",
     "AnnotationDbi",
@@ -3158,7 +3123,6 @@
     "singscore",
     "sva",
     "GSEABase",
-    "DelayedMatrixStats",
     "BiocSingular",
     "beachmat",
     "annotate",
@@ -3618,7 +3582,6 @@
     "minfi",
     "genefilter",
     "bumphunter",
-    "DelayedMatrixStats",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -3702,7 +3665,6 @@
   ],
   "batchelor": [
     "BiocSingular",
-    "DelayedMatrixStats",
     "scuttle",
     "beachmat"
   ],
@@ -3737,7 +3699,6 @@
     "AnnotationDbi",
     "GenomicFeatures",
     "bumphunter",
-    "DelayedMatrixStats",
     "lumi",
     "rtracklayer",
     "Rsamtools",
@@ -3829,7 +3790,6 @@
   "borealis": [
     "bsseq",
     "DSS",
-    "DelayedMatrixStats",
     "BSgenome",
     "beachmat",
     "rtracklayer",
@@ -3852,7 +3812,6 @@
     "DELocal",
     "genefilter",
     "clusterProfiler",
-    "sechm",
     "edgeR",
     "AnnotationDbi",
     "DOSE",
@@ -3861,7 +3820,6 @@
     "annotate"
   ],
   "bsseq": [
-    "DelayedMatrixStats",
     "BSgenome",
     "beachmat",
     "rtracklayer",
@@ -4006,7 +3964,6 @@
     "BiocSingular",
     "edgeR",
     "rtracklayer",
-    "DelayedMatrixStats",
     "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments"
@@ -4020,7 +3977,6 @@
     "scran",
     "scuttle",
     "BiocSingular",
-    "DelayedMatrixStats",
     "beachmat",
     "AnnotationDbi",
     "rtracklayer",
@@ -4041,7 +3997,6 @@
     "megadepth",
     "rtracklayer",
     "BiocSingular",
-    "DelayedMatrixStats",
     "beachmat",
     "AnnotationDbi",
     "Rsamtools",
@@ -4219,7 +4174,6 @@
     "genefu",
     "biomaRt",
     "GSEABase",
-    "DelayedMatrixStats",
     "BiocSingular",
     "beachmat",
     "AnnotationDbi",
@@ -4234,7 +4188,6 @@
     "minfi",
     "rtracklayer",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "Rsamtools",
     "GenomicAlignments",
@@ -4455,7 +4408,6 @@
   "dar": [
     "mia",
     "TreeSummarizedExperiment",
-    "DelayedMatrixStats",
     "scater",
     "scuttle",
     "beachmat",
@@ -4499,7 +4451,6 @@
     "fastseg",
     "rtracklayer",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GenomicFeatures",
     "AnnotationDbi",
@@ -4623,7 +4574,6 @@
   "dreamlet": [
     "variancePartition",
     "edgeR",
-    "DelayedMatrixStats",
     "GSEABase",
     "zenith",
     "beachmat",
@@ -4732,7 +4682,6 @@
     "biovizBase",
     "GenomicAlignments",
     "OrganismDbi",
-    "DelayedMatrixStats",
     "genefilter",
     "VariantAnnotation",
     "annotate",
@@ -4747,7 +4696,6 @@
     "motifmatchr",
     "beachmat",
     "AnnotationDbi",
-    "DelayedMatrixStats",
     "GSEABase",
     "BSgenome",
     "TFBSTools",
@@ -4847,7 +4795,6 @@
     "GSEABase",
     "GSVA",
     "UCell",
-    "DelayedMatrixStats",
     "annotate",
     "AnnotationDbi",
     "BiocSingular",
@@ -4918,7 +4865,6 @@
     "genefilter",
     "rtracklayer",
     "bumphunter",
-    "DelayedMatrixStats",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -4956,7 +4902,6 @@
   "funtooNorm": [
     "minfi",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GenomicFeatures",
     "AnnotationDbi",
@@ -5085,8 +5030,7 @@
     "AnnotationDbi"
   ],
   "glmGamPoi": [
-    "beachmat",
-    "DelayedMatrixStats"
+    "beachmat"
   ],
   "glmSparseNet": [
     "biomaRt",
@@ -5159,7 +5103,6 @@
     "AnnotationDbi"
   ],
   "gwasurvivr": [
-    "GWASTools",
     "VariantAnnotation",
     "Rsamtools",
     "AnnotationDbi",
@@ -5229,7 +5172,6 @@
     "minfi",
     "genefilter",
     "bumphunter",
-    "DelayedMatrixStats",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -5241,7 +5183,6 @@
     "OrganismDbi",
     "GenomicFeatures",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "clusterProfiler",
     "ReactomePA",
@@ -5271,7 +5212,6 @@
     "miaViz",
     "mia",
     "TreeSummarizedExperiment",
-    "DelayedMatrixStats",
     "scater",
     "scuttle",
     "beachmat",
@@ -5357,7 +5297,6 @@
   "kissDE": [
     "DSS",
     "bsseq",
-    "DelayedMatrixStats",
     "BSgenome",
     "beachmat",
     "rtracklayer",
@@ -5372,7 +5311,6 @@
   "lefser": [
     "mia",
     "TreeSummarizedExperiment",
-    "DelayedMatrixStats",
     "scater",
     "scuttle",
     "beachmat",
@@ -5380,7 +5318,6 @@
   ],
   "lemur": [
     "glmGamPoi",
-    "DelayedMatrixStats",
     "beachmat"
   ],
   "limmaGUI": [],
@@ -5416,7 +5353,6 @@
     "minfi",
     "genefilter",
     "bumphunter",
-    "DelayedMatrixStats",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -5436,9 +5372,7 @@
     "GenomicAlignments",
     "AnnotationDbi"
   ],
-  "mBPCR": [
-    "GWASTools"
-  ],
+  "mBPCR": [],
   "mCSEA": [
     "biomaRt",
     "GenomicFeatures",
@@ -5555,7 +5489,6 @@
     "bsseq",
     "ShortRead",
     "annotate",
-    "DelayedMatrixStats",
     "BSgenome",
     "beachmat"
   ],
@@ -5570,7 +5503,6 @@
   "methrix": [
     "rtracklayer",
     "BSgenome",
-    "DelayedMatrixStats",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -5580,7 +5512,6 @@
     "plyranges",
     "bumphunter",
     "genefilter",
-    "DelayedMatrixStats",
     "BSgenome",
     "beachmat",
     "GenomicFeatures",
@@ -5603,7 +5534,6 @@
     "genefilter",
     "GenomicFeatures",
     "bumphunter",
-    "DelayedMatrixStats",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -5639,7 +5569,6 @@
   ],
   "methylSig": [
     "bsseq",
-    "DelayedMatrixStats",
     "DSS",
     "BSgenome",
     "beachmat",
@@ -5653,7 +5582,6 @@
     "AnnotationHub",
     "ExperimentHubData",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "AnnotationDbi",
     "GenomicFeatures",
@@ -5678,7 +5606,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "bumphunter",
-    "DelayedMatrixStats",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -5724,7 +5651,6 @@
   ],
   "mia": [
     "TreeSummarizedExperiment",
-    "DelayedMatrixStats",
     "scater",
     "scuttle",
     "beachmat",
@@ -5736,7 +5662,6 @@
     "scater",
     "TreeSummarizedExperiment",
     "miaViz",
-    "DelayedMatrixStats",
     "scuttle",
     "beachmat",
     "BiocSingular"
@@ -5748,7 +5673,6 @@
     "mia",
     "TreeSummarizedExperiment",
     "scater",
-    "DelayedMatrixStats",
     "scuttle",
     "beachmat",
     "BiocSingular"
@@ -5756,7 +5680,6 @@
   "microSTASIS": [
     "TreeSummarizedExperiment"
   ],
-  "microbiome": [],
   "microbiomeExplorer": [],
   "midasHLA": [],
   "miloR": [
@@ -5770,7 +5693,6 @@
   ],
   "minfi": [
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GenomicFeatures",
     "AnnotationDbi",
@@ -5791,7 +5713,6 @@
     "genefilter",
     "GenomicFeatures",
     "bumphunter",
-    "DelayedMatrixStats",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -5942,7 +5863,6 @@
     "AnnotationDbi"
   ],
   "mumosa": [
-    "DelayedMatrixStats",
     "BiocSingular",
     "beachmat",
     "scuttle",
@@ -6066,7 +5986,6 @@
     "GSVA",
     "annotate",
     "AnnotationDbi",
-    "DelayedMatrixStats",
     "BiocSingular",
     "beachmat"
   ],
@@ -6137,7 +6056,6 @@
     "GSVA",
     "singscore",
     "GSEABase",
-    "DelayedMatrixStats",
     "BiocSingular",
     "edgeR",
     "beachmat",
@@ -6389,7 +6307,6 @@
   "quantro": [
     "minfi",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GenomicFeatures",
     "AnnotationDbi",
@@ -6468,7 +6385,6 @@
   ],
   "recountmethylation": [
     "minfi",
-    "DelayedMatrixStats",
     "bumphunter",
     "genefilter",
     "GenomicFeatures",
@@ -6503,7 +6419,6 @@
   ],
   "regionalpcs": [
     "PCAtools",
-    "DelayedMatrixStats",
     "BiocSingular",
     "beachmat"
   ],
@@ -6653,7 +6568,6 @@
     "hopach",
     "Cepo",
     "GSEABase",
-    "DelayedMatrixStats",
     "annotate",
     "AnnotationDbi"
   ],
@@ -6683,7 +6597,6 @@
   ],
   "scFeatureFilter": [],
   "scFeatures": [
-    "DelayedMatrixStats",
     "GSVA",
     "ensembldb",
     "AUCell",
@@ -6705,7 +6618,6 @@
   "scHiCcompare": [],
   "scMerge": [
     "BiocSingular",
-    "DelayedMatrixStats",
     "M3Drop",
     "scater",
     "batchelor",
@@ -6775,7 +6687,6 @@
   "scone": [
     "edgeR",
     "RUVSeq",
-    "DelayedMatrixStats",
     "EDASeq",
     "ShortRead",
     "Rsamtools",
@@ -6827,7 +6738,6 @@
     "beachmat",
     "BiocSingular"
   ],
-  "sechm": [],
   "segmentSeq": [
     "baySeq",
     "ShortRead",
@@ -6910,7 +6820,6 @@
   "shinyMethyl": [
     "minfi",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GenomicFeatures",
     "AnnotationDbi",
@@ -6923,7 +6832,6 @@
     "minfi",
     "rtracklayer",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "Rsamtools",
     "GenomicAlignments",
@@ -6964,7 +6872,6 @@
     "rtracklayer",
     "Rsamtools",
     "GSEABase",
-    "DelayedMatrixStats",
     "BiocSingular",
     "beachmat",
     "biomaRt",
@@ -7005,7 +6912,6 @@
     "AnnotationDbi",
     "GenomicFeatures",
     "bumphunter",
-    "DelayedMatrixStats",
     "lumi",
     "rtracklayer",
     "Rsamtools",
@@ -7036,7 +6942,6 @@
   "spacexr": [],
   "sparrow": [
     "BiocSet",
-    "DelayedMatrixStats",
     "edgeR",
     "GSEABase",
     "AnnotationDbi",
@@ -7320,8 +7225,7 @@
   ],
   "transformGamPoi": [
     "glmGamPoi",
-    "beachmat",
-    "DelayedMatrixStats"
+    "beachmat"
   ],
   "transite": [],
   "transmogR": [
@@ -7333,7 +7237,6 @@
     "AnnotationDbi",
     "GenomicAlignments"
   ],
-  "transomics2cytoscape": [],
   "traseR": [
     "BSgenome",
     "rtracklayer",
@@ -7440,7 +7343,6 @@
     "genefilter",
     "rtracklayer",
     "bumphunter",
-    "DelayedMatrixStats",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -7457,9 +7359,7 @@
     "gcrma",
     "AnnotationDbi"
   ],
-  "weitrix": [
-    "DelayedMatrixStats"
-  ],
+  "weitrix": [],
   "wiggleplotr": [
     "rtracklayer",
     "Rsamtools",
@@ -7497,7 +7397,6 @@
     "AnnotationDbi",
     "minfi",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GenomicFeatures",
     "annotate",

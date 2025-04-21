@@ -939,3 +939,9 @@ limpca
 missRows
 oligo
 RolDE
+DelayedMatrixStats
+GWASTools
+microbiome
+RUCova
+sechm
+transomics2cytoscape
