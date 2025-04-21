@@ -992,3 +992,7 @@ GeoTcgaData
 PWMEnrich
 cnvGSA
 scBubbletree
+BaseSpaceR
+GSEAmining
+smartid
+TSCAN

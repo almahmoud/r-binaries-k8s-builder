@@ -258,7 +258,6 @@
     "GenomicAlignments"
   ],
   "Banksy": [],
-  "BaseSpaceR": [],
   "Basic4Cseq": [
     "GenomicAlignments",
     "BSgenome",
@@ -1153,9 +1152,7 @@
   "ExperimentSubset": [
     "TreeSummarizedExperiment"
   ],
-  "FEAST": [
-    "TSCAN"
-  ],
+  "FEAST": [],
   "FRASER": [
     "Rsamtools",
     "AnnotationDbi",
@@ -1294,7 +1291,6 @@
     "safe",
     "annotate"
   ],
-  "GSEAmining": [],
   "GSRI": [
     "genefilter",
     "GSEABase",
@@ -3213,7 +3209,6 @@
     "AnnotationDbi",
     "GenomicAlignments"
   ],
-  "TSCAN": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -6853,7 +6848,6 @@
     "AnnotationDbi"
   ],
   "slingshot": [],
-  "smartid": [],
   "smoothclust": [],
   "smoppix": [],
   "snapcount": [],
