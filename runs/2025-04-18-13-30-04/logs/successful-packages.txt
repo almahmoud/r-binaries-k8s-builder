@@ -1017,3 +1017,6 @@ flowWorkspace
 hoodscanR
 RTNduals
 SeqArray
+cytomapper
+heatmaps
+spacexr

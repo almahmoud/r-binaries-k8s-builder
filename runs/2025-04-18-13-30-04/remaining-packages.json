@@ -3842,10 +3842,7 @@
     "scuttle",
     "BiocSingular"
   ],
-  "cytomapper": [],
-  "cytoviewer": [
-    "cytomapper"
-  ],
+  "cytoviewer": [],
   "dada2": [
     "ShortRead",
     "Rsamtools",
@@ -4490,7 +4487,6 @@
     "Spectra",
     "MetaboCoreUtils"
   ],
-  "heatmaps": [],
   "hermes": [
     "biomaRt",
     "edgeR"
@@ -4602,8 +4598,7 @@
   ],
   "igvShiny": [],
   "imcRtools": [
-    "scuttle",
-    "cytomapper"
+    "scuttle"
   ],
   "infercnv": [
     "edgeR"
@@ -4679,7 +4674,6 @@
   "lisaClust": [
     "spicyR",
     "simpleSeg",
-    "cytomapper",
     "ClassifyR",
     "genefilter",
     "annotate"
@@ -5934,7 +5928,6 @@
     "BSgenome",
     "ChIPseeker",
     "clusterProfiler",
-    "heatmaps",
     "seqPattern",
     "rtracklayer",
     "Rsamtools",
@@ -6042,9 +6035,7 @@
   "simPIC": [
     "scuttle"
   ],
-  "simpleSeg": [
-    "cytomapper"
-  ],
+  "simpleSeg": [],
   "simplifyEnrichment": [],
   "singscore": [
     "GSEABase",
@@ -6088,7 +6079,6 @@
   ],
   "sosta": [],
   "spaSim": [],
-  "spacexr": [],
   "sparrow": [
     "BiocSet",
     "edgeR",
@@ -6128,7 +6118,6 @@
     "ClassifyR",
     "simpleSeg",
     "genefilter",
-    "cytomapper",
     "annotate"
   ],
   "spiky": [
