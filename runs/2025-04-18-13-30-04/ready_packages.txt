@@ -1,0 +1,16 @@
+AffyRNADegradation
+Cormotif
+ExiMiR
+GEOsubmission
+HTqPCR
+RPA
+Rnits
+affyContam
+frmaTools
+gcrma
+makecdfenv
+panp
+plier
+pvac
+qpcrNorm
+vsn

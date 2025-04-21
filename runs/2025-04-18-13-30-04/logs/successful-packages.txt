@@ -905,3 +905,9 @@ MAI
 ncRNAtools
 ROCpAI
 scRecover
+affy
+BiocWorkflowTools
+coRdon
+IgGeneUsage
+MACSQuantifyR
+MSA2dist

@@ -13,7 +13,6 @@
   "ADAPT": [],
   "ADaCGH2": [
     "tilingArray",
-    "affy",
     "vsn",
     "genefilter",
     "AnnotationDbi",
@@ -97,11 +96,8 @@
   "AWFisher": [
     "edgeR"
   ],
-  "AffyRNADegradation": [
-    "affy"
-  ],
+  "AffyRNADegradation": [],
   "AgiMicroRna": [
-    "affy",
     "affycoretools",
     "GOstats",
     "gcrma",
@@ -375,7 +371,6 @@
   "BiocSingular": [
     "beachmat"
   ],
-  "BiocWorkflowTools": [],
   "BloodGen3Module": [
     "ExperimentHub",
     "AnnotationHub",
@@ -400,7 +395,6 @@
   "CAFE": [
     "biovizBase",
     "ggbio",
-    "affy",
     "annotate",
     "AnnotationDbi",
     "Rsamtools",
@@ -453,8 +447,7 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "CARDspa": [],
   "CATALYST": [
@@ -669,7 +662,6 @@
   ],
   "ChIPXpress": [
     "frma",
-    "affy",
     "oligo"
   ],
   "ChIPanalyser": [
@@ -755,7 +747,6 @@
     "MSnbase",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -781,9 +772,7 @@
     "MetaboCoreUtils"
   ],
   "ConsensusClusterPlus": [],
-  "Cormotif": [
-    "affy"
-  ],
+  "Cormotif": [],
   "CoverageView": [
     "Rsamtools",
     "rtracklayer",
@@ -831,7 +820,6 @@
     "MSnbase",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -855,7 +843,6 @@
     "MSnbase",
     "vsn",
     "PSMatch",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -1031,8 +1018,7 @@
     "GenomicAlignments"
   ],
   "Doscheda": [
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "Dune": [],
   "DuplexDiscovereR": [
@@ -1184,9 +1170,7 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "ExiMiR": [
-    "affy"
-  ],
+  "ExiMiR": [],
   "ExperimentHub": [
     "AnnotationHub",
     "AnnotationDbi"
@@ -1314,9 +1298,7 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "GEOsubmission": [
-    "affy"
-  ],
+  "GEOsubmission": [],
   "GNET2": [],
   "GOSemSim": [
     "AnnotationDbi"
@@ -1539,9 +1521,7 @@
     "edgeR",
     "DESeq2"
   ],
-  "HTqPCR": [
-    "affy"
-  ],
+  "HTqPCR": [],
   "HarmonizR": [
     "sva",
     "genefilter",
@@ -1635,8 +1615,7 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "ITALICS": [
     "oligo"
@@ -1653,7 +1632,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "IgGeneUsage": [],
   "InPAS": [
     "AnnotationDbi",
     "BSgenome",
@@ -1745,7 +1723,6 @@
     "beachmat",
     "BiocSingular"
   ],
-  "MACSQuantifyR": [],
   "MACSr": [
     "ExperimentHub",
     "AnnotationHub",
@@ -1760,8 +1737,7 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "MBECS": [
     "sva",
@@ -1811,7 +1787,6 @@
     "GenomicFeatures",
     "AnnotationDbi",
     "annotate",
-    "affy",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -1924,7 +1899,6 @@
     "scuttle",
     "edgeR"
   ],
-  "MSA2dist": [],
   "MSPrep": [
     "sva",
     "genefilter",
@@ -1941,7 +1915,6 @@
     "edgeR",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -1949,7 +1922,6 @@
   "MSnbase": [
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -1962,7 +1934,6 @@
     "MSnbase",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -1972,7 +1943,6 @@
     "MSnbase",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -1999,7 +1969,6 @@
     "AnnotationHub",
     "genefilter",
     "edgeR",
-    "affy",
     "AnnotationDbi",
     "annotate"
   ],
@@ -2107,7 +2076,6 @@
     "lumi",
     "Category",
     "AnnotationForge",
-    "affy",
     "methylumi",
     "GenomicFeatures",
     "GSEABase",
@@ -2271,8 +2239,7 @@
     "beachmat"
   ],
   "NormalyzerDE": [
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "OGRE": [
     "Gviz",
@@ -2386,7 +2353,6 @@
     "AnnotationDbi"
   ],
   "PECA": [
-    "affy",
     "genefilter",
     "AnnotationDbi",
     "annotate"
@@ -2426,7 +2392,6 @@
     "vsn",
     "POMA",
     "PSMatch",
-    "affy",
     "DESeq2",
     "sva",
     "Spectra",
@@ -2490,7 +2455,6 @@
     "MSnbase",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -2500,7 +2464,6 @@
     "MSnbase",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -2649,7 +2612,6 @@
     "MSnbase",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -2733,9 +2695,7 @@
   "ROSeq": [
     "edgeR"
   ],
-  "RPA": [
-    "affy"
-  ],
+  "RPA": [],
   "RSVSim": [
     "ShortRead",
     "Rsamtools",
@@ -2926,9 +2886,7 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "Rnits": [
-    "affy"
-  ],
+  "Rnits": [],
   "RolDE": [],
   "Rqc": [
     "ShortRead",
@@ -2965,7 +2923,6 @@
   "SC3": [],
   "SCAN.UPC": [
     "oligo",
-    "affy",
     "sva",
     "genefilter",
     "edgeR",
@@ -3081,8 +3038,7 @@
     "AnnotationDbi"
   ],
   "STATegRa": [
-    "edgeR",
-    "affy"
+    "edgeR"
   ],
   "SVMDO": [
     "DOSE",
@@ -3416,8 +3372,7 @@
   "TrajectoryUtils": [],
   "TreeSummarizedExperiment": [],
   "TurboNorm": [
-    "convert",
-    "affy"
+    "convert"
   ],
   "UCell": [],
   "UPDhmm": [
@@ -3598,21 +3553,15 @@
     "AnnotationDbi"
   ],
   "adverSCarial": [],
-  "affy": [],
-  "affyContam": [
-    "affy"
-  ],
+  "affyContam": [],
   "affyILM": [
-    "gcrma",
-    "affy"
+    "gcrma"
   ],
   "affyPLM": [
-    "affy",
     "gcrma"
   ],
   "affycomp": [],
   "affycoretools": [
-    "affy",
     "GOstats",
     "gcrma",
     "AnnotationDbi",
@@ -3639,7 +3588,6 @@
     "biomaRt"
   ],
   "affylmGUI": [
-    "affy",
     "affyPLM",
     "gcrma",
     "AnnotationDbi"
@@ -3698,7 +3646,6 @@
     "GenomicAlignments"
   ],
   "altcdfenvs": [
-    "affy",
     "makecdfenv"
   ],
   "amplican": [
@@ -3743,7 +3690,6 @@
     "biomaRt"
   ],
   "arrayMvout": [
-    "affy",
     "affyContam",
     "lumi",
     "methylumi",
@@ -3759,7 +3705,6 @@
     "GenomicAlignments"
   ],
   "arrayQualityMetrics": [
-    "affy",
     "affyPLM",
     "beadarray",
     "genefilter",
@@ -3798,8 +3743,7 @@
   ],
   "autonomics": [
     "edgeR",
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "ballgown": [
     "sva",
@@ -3824,7 +3768,6 @@
     "pRoloc",
     "PSMatch",
     "vsn",
-    "affy",
     "MLInterfaces",
     "biomaRt",
     "AnnotationDbi",
@@ -3879,7 +3822,6 @@
     "DelayedMatrixStats",
     "lumi",
     "rtracklayer",
-    "affy",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -3960,7 +3902,6 @@
     "CellNOptR",
     "epiNEM",
     "mnem",
-    "affy",
     "sva",
     "vsn",
     "Linnorm",
@@ -4269,7 +4210,6 @@
     "MSnbase",
     "PSMatch",
     "vsn",
-    "affy",
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
@@ -4315,7 +4255,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "coRdon": [],
   "codelink": [
     "annotate",
     "AnnotationDbi"
@@ -4403,8 +4342,7 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "cosmosR": [
     "GSEABase",
@@ -4770,7 +4708,6 @@
   ],
   "doubletrouble": [
     "syntenet",
-    "MSA2dist",
     "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
@@ -5067,7 +5004,6 @@
     "GenomicFeatures"
   ],
   "ffpe": [
-    "affy",
     "lumi",
     "methylumi",
     "GenomicFeatures",
@@ -5091,8 +5027,7 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "flowBin": [],
   "flowCut": [],
@@ -5110,12 +5045,9 @@
   ],
   "flowWorkspace": [],
   "frma": [
-    "affy",
     "oligo"
   ],
-  "frmaTools": [
-    "affy"
-  ],
+  "frmaTools": [],
   "funOmics": [
     "AnnotationDbi"
   ],
@@ -5167,9 +5099,7 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "gcrma": [
-    "affy"
-  ],
+  "gcrma": [],
   "geneAttribution": [
     "GenomicFeatures",
     "rtracklayer",
@@ -5393,7 +5323,6 @@
   ],
   "iCheck": [
     "lumi",
-    "affy",
     "methylumi",
     "GenomicFeatures",
     "annotate",
@@ -5586,7 +5515,6 @@
   "lmdme": [],
   "loci2path": [],
   "lumi": [
-    "affy",
     "methylumi",
     "GenomicFeatures",
     "annotate",
@@ -5634,7 +5562,6 @@
     "txdbmaker"
   ],
   "maPredictDSC": [
-    "affy",
     "gcrma",
     "AnnotationDbi"
   ],
@@ -5650,9 +5577,7 @@
     "TRESS",
     "GenomicAlignments"
   ],
-  "makecdfenv": [
-    "affy"
-  ],
+  "makecdfenv": [],
   "mariner": [
     "plyranges",
     "plotgardener",
@@ -5674,8 +5599,7 @@
     "VariantAnnotation"
   ],
   "maskBAD": [
-    "gcrma",
-    "affy"
+    "gcrma"
   ],
   "massiR": [],
   "mastR": [
@@ -5716,8 +5640,7 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "metagene2": [
     "rtracklayer",
@@ -5741,7 +5664,6 @@
     "bsseq",
     "ShortRead",
     "annotate",
-    "affy",
     "DelayedMatrixStats",
     "BSgenome",
     "beachmat"
@@ -5955,7 +5877,6 @@
     "beachmat"
   ],
   "mimager": [
-    "affy",
     "affyPLM",
     "oligo",
     "gcrma"
@@ -6102,7 +6023,6 @@
     "MSnbase",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -6113,7 +6033,6 @@
     "edgeR",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -6182,8 +6101,7 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "nearBynding": [
     "plyranges",
@@ -6237,7 +6155,6 @@
     "MSnbase",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -6288,7 +6205,6 @@
     "genefilter",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -6298,7 +6214,6 @@
     "MSnbase",
     "PSMatch",
     "vsn",
-    "affy",
     "MLInterfaces",
     "biomaRt",
     "AnnotationDbi",
@@ -6334,9 +6249,7 @@
     "cn.mops",
     "Rsamtools"
   ],
-  "panp": [
-    "affy"
-  ],
+  "panp": [],
   "partCNV": [
     "AnnotationHub",
     "AnnotationDbi"
@@ -6372,7 +6285,6 @@
     "MSnbase",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -6424,9 +6336,7 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "plier": [
-    "affy"
-  ],
+  "plier": [],
   "plotgardener": [
     "plyranges",
     "rtracklayer",
@@ -6468,13 +6378,11 @@
   ],
   "prebs": [
     "GenomicAlignments",
-    "affy",
     "RPA",
     "Rsamtools"
   ],
   "preciseTAD": [
     "rCGH",
-    "affy",
     "GenomicFeatures",
     "AnnotationDbi",
     "rtracklayer",
@@ -6535,8 +6443,7 @@
     "vsn",
     "genefilter",
     "AnnotationDbi",
-    "annotate",
-    "affy"
+    "annotate"
   ],
   "psichomics": [
     "AnnotationDbi",
@@ -6557,35 +6464,27 @@
     "MSnbase",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
   ],
   "puma": [
-    "oligo",
-    "affy"
+    "oligo"
   ],
-  "pvac": [
-    "affy"
-  ],
+  "pvac": [],
   "pvca": [
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "qPLEXanalyzer": [
     "MSnbase",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
   ],
   "qmtools": [],
-  "qpcrNorm": [
-    "affy"
-  ],
+  "qpcrNorm": [],
   "qpgraph": [
     "annotate",
     "AnnotationDbi",
@@ -6633,7 +6532,6 @@
     "GenomicAlignments"
   ],
   "rCGH": [
-    "affy",
     "GenomicFeatures",
     "AnnotationDbi",
     "rtracklayer",
@@ -7246,7 +7144,6 @@
     "DelayedMatrixStats",
     "lumi",
     "rtracklayer",
-    "affy",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -7360,7 +7257,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "MetaboCoreUtils"
   ],
   "srnadiff": [
@@ -7518,7 +7414,6 @@
     "annotate"
   ],
   "tilingArray": [
-    "affy",
     "vsn",
     "genefilter",
     "AnnotationDbi",
@@ -7529,7 +7424,6 @@
     "MSnbase",
     "PSMatch",
     "vsn",
-    "affy",
     "Spectra",
     "QFeatures",
     "MetaboCoreUtils"
@@ -7678,14 +7572,11 @@
     "AnnotationHub"
   ],
   "vsclust": [],
-  "vsn": [
-    "affy"
-  ],
+  "vsn": [],
   "wateRmelon": [
     "methylumi",
     "lumi",
     "minfi",
-    "affy",
     "GenomicFeatures",
     "annotate",
     "AnnotationDbi",
@@ -7704,7 +7595,6 @@
     "GenomicAlignments"
   ],
   "webbioc": [
-    "affy",
     "annaffy",
     "vsn",
     "gcrma",
@@ -7734,8 +7624,7 @@
     "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "xcore": [
     "edgeR"
