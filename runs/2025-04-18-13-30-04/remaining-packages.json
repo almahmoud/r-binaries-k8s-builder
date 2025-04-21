@@ -12,7 +12,6 @@
     "AnnotationDbi"
   ],
   "ADAPT": [],
-  "ADImpute": [],
   "ADaCGH2": [
     "tilingArray",
     "affy",
@@ -7239,7 +7238,6 @@
   "scGPS": [
     "DESeq2"
   ],
-  "scHOT": [],
   "scHiCcompare": [
     "HiCcompare",
     "InteractionSet"
@@ -7313,11 +7311,9 @@
     "beachmat",
     "BiocSingular"
   ],
-  "sccomp": [],
   "scde": [
     "edgeR"
   ],
-  "scds": [],
   "schex": [],
   "scider": [
     "SpatialExperiment"
