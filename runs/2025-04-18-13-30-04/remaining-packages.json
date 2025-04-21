@@ -67,7 +67,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "ASURAT": [],
   "ASpli": [
     "edgeR",
     "AnnotationDbi",
@@ -1674,7 +1673,6 @@
   "IHW": [
     "lpsymphony"
   ],
-  "ILoReg": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS",
@@ -3201,7 +3199,6 @@
     "edgeR",
     "AnnotationDbi"
   ],
-  "SRAdb": [],
   "STATegRa": [
     "edgeR",
     "affy"
@@ -3291,7 +3288,6 @@
     "DelayedMatrixStats",
     "beachmat"
   ],
-  "Site2Target": [],
   "SomaticSignatures": [
     "VariantAnnotation",
     "ggbio",
@@ -5576,7 +5572,6 @@
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "hummingbird": [],
   "iCNV": [
     "CODEX",
     "Rsamtools",
@@ -5624,34 +5619,23 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "iSEE": [],
   "iSEEde": [
-    "iSEE",
     "DESeq2",
     "edgeR"
   ],
   "iSEEfier": [
-    "iSEE",
     "iSEEu",
     "iSEEhex"
   ],
-  "iSEEhex": [
-    "iSEE"
-  ],
+  "iSEEhex": [],
   "iSEEhub": [
     "ExperimentHub",
     "AnnotationHub",
-    "iSEE",
     "AnnotationDbi"
   ],
-  "iSEEindex": [
-    "iSEE"
-  ],
-  "iSEEpathways": [
-    "iSEE"
-  ],
+  "iSEEindex": [],
+  "iSEEpathways": [],
   "iSEEtree": [
-    "iSEE",
     "miaViz",
     "mia",
     "TreeSummarizedExperiment",
@@ -5662,7 +5646,6 @@
     "BiocSingular"
   ],
   "iSEEu": [
-    "iSEE",
     "iSEEhex"
   ],
   "iasva": [],
@@ -5865,7 +5848,6 @@
   "maaslin3": [
     "TreeSummarizedExperiment"
   ],
-  "made4": [],
   "magpie": [
     "rtracklayer",
     "GenomicFeatures",
@@ -6150,7 +6132,6 @@
     "BiocSingular"
   ],
   "miaDash": [
-    "iSEE",
     "iSEEtree",
     "mia",
     "scater",
@@ -6494,15 +6475,12 @@
     "sva",
     "omicade4",
     "MultiDataSet",
-    "made4",
     "genefilter",
     "edgeR",
     "AnnotationDbi",
     "annotate"
   ],
-  "omicade4": [
-    "made4"
-  ],
+  "omicade4": [],
   "omicplotR": [
     "ALDEx2"
   ],
@@ -7248,7 +7226,6 @@
   "scRecover": [],
   "scTGIF": [
     "GSEABase",
-    "schex",
     "annotate",
     "AnnotationDbi"
   ],
@@ -7291,7 +7268,6 @@
   "scde": [
     "edgeR"
   ],
-  "schex": [],
   "scider": [
     "SpatialExperiment"
   ],

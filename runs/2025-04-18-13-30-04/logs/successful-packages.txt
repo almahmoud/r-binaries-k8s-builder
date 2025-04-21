@@ -821,3 +821,11 @@ miQC
 planttfhunter
 scDiagnostics
 SNPRelate
+ASURAT
+hummingbird
+ILoReg
+iSEE
+made4
+schex
+Site2Target
+SRAdb
