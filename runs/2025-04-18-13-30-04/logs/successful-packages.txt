@@ -847,3 +847,7 @@ iasva
 omicade4
 OVESEG
 PAIRADISE
+ClusterFoldSimilarity
+EDIRquery
+HiCParser
+Pirat

@@ -778,7 +778,6 @@
     "QFeatures",
     "MetaboCoreUtils"
   ],
-  "ClusterFoldSimilarity": [],
   "CoCiteStats": [
     "AnnotationDbi"
   ],
@@ -1084,7 +1083,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "EDIRquery": [],
   "EGAD": [
     "GEOquery"
   ],
@@ -1614,7 +1612,6 @@
     "edgeR"
   ],
   "HiCExperiment": [],
-  "HiCParser": [],
   "HiCcompare": [],
   "HiContacts": [
     "HiCExperiment"
@@ -2557,7 +2554,6 @@
     "GOSemSim",
     "graphite"
   ],
-  "Pirat": [],
   "PolySTest": [],
   "PrInCE": [
     "MSnbase",
