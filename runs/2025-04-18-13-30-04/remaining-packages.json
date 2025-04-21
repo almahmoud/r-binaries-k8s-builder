@@ -4069,7 +4069,6 @@
   "cn.mops": [
     "Rsamtools"
   ],
-  "cnvGSA": [],
   "coMethDMR": [
     "AnnotationHub",
     "bumphunter",
@@ -6497,7 +6496,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "scBubbletree": [],
   "scClassify": [
     "hopach",
     "Cepo",

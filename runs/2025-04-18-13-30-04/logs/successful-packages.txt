@@ -990,3 +990,5 @@ AssessORF
 CytoGLMM
 GeoTcgaData
 PWMEnrich
+cnvGSA
+scBubbletree
