@@ -1818,7 +1818,6 @@
     "AnnotationDbi"
   ],
   "LimROTS": [],
-  "LinkHD": [],
   "Linnorm": [],
   "LiquidAssociation": [
     "AnnotationDbi"
@@ -6965,7 +6964,6 @@
     "rtracklayer",
     "AnnotationDbi"
   ],
-  "ramr": [],
   "ramwas": [
     "GenomicAlignments",
     "Rsamtools",
@@ -7211,7 +7209,6 @@
     "GenomicAlignments",
     "edgeR"
   ],
-  "scDesign3": [],
   "scDiagnostics": [],
   "scDotPlot": [
     "scater",
@@ -7248,7 +7245,6 @@
     "HiCcompare",
     "InteractionSet"
   ],
-  "scMET": [],
   "scMerge": [
     "BiocSingular",
     "DelayedMatrixStats",

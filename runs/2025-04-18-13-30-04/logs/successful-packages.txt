@@ -793,3 +793,7 @@ scmap
 scPCA
 switchde
 trio
+LinkHD
+ramr
+scDesign3
+scMET
