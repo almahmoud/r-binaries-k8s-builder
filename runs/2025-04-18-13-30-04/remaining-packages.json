@@ -3,10 +3,7 @@
     "QDNAseq",
     "Rsamtools"
   ],
-  "ADAM": [],
-  "ADAMgui": [
-    "ADAM"
-  ],
+  "ADAMgui": [],
   "ADAPT": [],
   "ADaCGH2": [
     "tilingArray",
@@ -4404,7 +4401,6 @@
   ],
   "ggcyto": [],
   "ggmanh": [],
-  "ggspavis": [],
   "ginmappeR": [
     "UniProt.ws"
   ],
@@ -5199,7 +5195,6 @@
   ],
   "netboost": [],
   "nipalsMCIA": [],
-  "nnSVG": [],
   "npGSEA": [
     "GSEABase",
     "annotate"
@@ -6137,7 +6132,6 @@
     "annotate"
   ],
   "spoon": [
-    "nnSVG",
     "scuttle"
   ],
   "spqn": [],

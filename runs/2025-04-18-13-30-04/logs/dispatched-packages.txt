@@ -1249,3 +1249,4 @@ simplifyEnrichment
 cytoviewer
 simpleSeg
 SPIAT
+ADAMgui

@@ -1023,3 +1023,6 @@ spacexr
 dittoSeq
 geyser
 spaSim
+ADAM
+ggspavis
+nnSVG
