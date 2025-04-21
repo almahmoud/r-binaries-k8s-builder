@@ -1125,3 +1125,6 @@ tidySpatialExperiment
 tpSVG
 EGAD
 iSEEu
+TMixClust
+crlmm
+oligo

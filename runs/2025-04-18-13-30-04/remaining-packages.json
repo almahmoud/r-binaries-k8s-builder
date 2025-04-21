@@ -107,7 +107,6 @@
     "GOstats",
     "gcrma",
     "AnnotationDbi",
-    "oligoClasses",
     "ReportingTools",
     "edgeR",
     "Glimma",
@@ -561,7 +560,6 @@
     "BiocSingular",
     "beachmat"
   ],
-  "CPSM": [],
   "CRISPRball": [
     "dittoSeq",
     "PCAtools",
@@ -674,8 +672,7 @@
   "ChIPXpress": [
     "frma",
     "affy",
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "ChIPanalyser": [
     "BSgenome",
@@ -799,7 +796,6 @@
     "GenomicAlignments",
     "Rsamtools"
   ],
-  "CuratedAtlasQueryR": [],
   "CytoGLMM": [],
   "CytoMDS": [
     "CytoPipeline",
@@ -1650,10 +1646,8 @@
     "vsn",
     "affy"
   ],
-  "ISLET": [],
   "ITALICS": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "IVAS": [
     "GenomicFeatures",
@@ -1778,7 +1772,6 @@
     "vsn",
     "affy"
   ],
-  "MBASED": [],
   "MBECS": [
     "sva",
     "genefilter",
@@ -1914,7 +1907,6 @@
   "MODA": [
     "AnnotationDbi"
   ],
-  "MOGAMUN": [],
   "MOMA": [],
   "MOSClip": [
     "graphite",
@@ -2140,7 +2132,6 @@
   ],
   "MinimumDistance": [
     "VanillaICE",
-    "oligoClasses",
     "crlmm",
     "BSgenome",
     "rtracklayer",
@@ -2990,7 +2981,6 @@
     "oligo",
     "affy",
     "sva",
-    "oligoClasses",
     "genefilter",
     "edgeR",
     "AnnotationDbi",
@@ -3079,7 +3069,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "SPEM": [],
   "SPIAT": [
     "dittoSeq"
   ],
@@ -3401,9 +3390,7 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "TMixClust": [
-    "SPEM"
-  ],
+  "TMixClust": [],
   "TOP": [
     "ClassifyR",
     "genefilter",
@@ -3510,7 +3497,6 @@
     "annotate"
   ],
   "VanillaICE": [
-    "oligoClasses",
     "crlmm",
     "BSgenome",
     "rtracklayer",
@@ -3646,7 +3632,6 @@
     "GOstats",
     "gcrma",
     "AnnotationDbi",
-    "oligoClasses",
     "ReportingTools",
     "edgeR",
     "Glimma",
@@ -4556,9 +4541,7 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "crlmm": [
-    "oligoClasses"
-  ],
+  "crlmm": [],
   "crumblr": [
     "variancePartition"
   ],
@@ -5147,8 +5130,7 @@
   "flowWorkspace": [],
   "frma": [
     "affy",
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "frmaTools": [
     "affy"
@@ -5655,7 +5637,6 @@
     "AnnotationDbi"
   ],
   "mBPCR": [
-    "oligoClasses",
     "GWASTools"
   ],
   "mCSEA": [
@@ -5998,7 +5979,6 @@
     "affy",
     "affyPLM",
     "oligo",
-    "oligoClasses",
     "gcrma"
   ],
   "minfi": [
@@ -6274,10 +6254,7 @@
     "GenomicAlignments",
     "Rsamtools"
   ],
-  "oligo": [
-    "oligoClasses"
-  ],
-  "oligoClasses": [],
+  "oligo": [],
   "omXplore": [
     "MSnbase",
     "PSMatch",
@@ -6411,8 +6388,7 @@
     "AnnotationDbi"
   ],
   "pdInfoBuilder": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "peakPantheR": [
     "MSnbase",
@@ -6610,7 +6586,6 @@
   ],
   "puma": [
     "oligo",
-    "oligoClasses",
     "affy"
   ],
   "pvac": [

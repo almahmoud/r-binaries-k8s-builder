@@ -876,3 +876,10 @@ GEOquery
 iSEEhex
 multistateQTL
 PhosR
+CPSM
+CuratedAtlasQueryR
+ISLET
+MBASED
+MOGAMUN
+oligoClasses
+SPEM
