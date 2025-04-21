@@ -378,3 +378,17 @@ TaxSEA
 vbmp
 veloviz
 weaver
+alabaster.bumpy
+banocc
+CCPlotR
+cellxgenedp
+deltaGseg
+gemini
+graph
+hierGWAS
+msPurity
+NormqPCR
+REBET
+RImmPort
+semisup
+SparseArray
