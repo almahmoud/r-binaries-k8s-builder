@@ -634,3 +634,12 @@ flowClust
 gdsfmt
 TFARM
 tomoseqr
+ANF
+biodbChebi
+biodbHmdb
+biodbNcbi
+biodbNci
+CINdex
+hca
+metapone
+OmicCircos

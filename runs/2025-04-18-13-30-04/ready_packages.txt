@@ -1,7 +1,0 @@
-GWASTools
-SNPRelate
-SeqArray
-cyanoFilter
-flowTrans
-hapFabia
-mosbi

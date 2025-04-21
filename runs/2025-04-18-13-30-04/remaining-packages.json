@@ -75,7 +75,6 @@
     "AnnotationDbi"
   ],
   "AMOUNTAIN": [],
-  "ANF": [],
   "APAlyzer": [
     "GenomicFeatures",
     "GenomicAlignments",
@@ -742,7 +741,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "CINdex": [],
   "CNORdt": [
     "CellNOptR",
     "RBGL",
@@ -3471,7 +3469,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "OmicCircos": [],
   "OmicsMLRepoR": [],
   "OncoScore": [
     "biomaRt",
@@ -5839,10 +5836,6 @@
   "biocViews": [
     "RBGL"
   ],
-  "biodbChebi": [],
-  "biodbHmdb": [],
-  "biodbNcbi": [],
-  "biodbNci": [],
   "biodbUniprot": [],
   "biomaRt": [
     "AnnotationDbi"
@@ -7889,7 +7882,6 @@
     "Rsamtools"
   ],
   "hapFabia": [],
-  "hca": [],
   "hdxmsqc": [
     "QFeatures",
     "Spectra",
@@ -8500,7 +8492,6 @@
     "DelayedArray"
   ],
   "metapod": [],
-  "metapone": [],
   "metaseqR2": [
     "DESeq2",
     "biomaRt",
@@ -9547,7 +9538,6 @@
   ],
   "phenomis": [
     "SummarizedExperiment",
-    "biodbChebi",
     "MultiAssayExperiment",
     "MultiDataSet",
     "ropls",
