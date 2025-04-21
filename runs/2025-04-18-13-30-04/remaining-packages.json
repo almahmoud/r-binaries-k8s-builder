@@ -279,7 +279,6 @@
   "BioGA": [
     "biocViews"
   ],
-  "BioNAR": [],
   "BioNERO": [
     "sva",
     "genefilter",
@@ -305,7 +304,6 @@
   "BiocPkgTools": [
     "biocViews"
   ],
-  "BiocSet": [],
   "BiocSingular": [],
   "BloodGen3Module": [
     "ExperimentHub",
@@ -438,7 +436,6 @@
     "Rsamtools"
   ],
   "CNVRanger": [
-    "GDSArray",
     "edgeR"
   ],
   "CNVrd2": [
@@ -1087,7 +1084,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "GDSArray": [],
   "GENESIS": [
     "SeqVarTools"
   ],
@@ -1443,7 +1439,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "LiquidAssociation": [],
   "LoomExperiment": [],
   "M3Drop": [
     "scater",
@@ -2358,7 +2353,6 @@
     "GOSemSim"
   ],
   "RegEnrich": [
-    "BiocSet",
     "DOSE",
     "GOSemSim"
   ],
@@ -2920,9 +2914,7 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "VariantExperiment": [
-    "GDSArray"
-  ],
+  "VariantExperiment": [],
   "VariantFiltering": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -3813,7 +3805,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "cytoviewer": [],
   "dada2": [
     "ShortRead",
     "Rsamtools",
@@ -4223,9 +4214,7 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "fastLiquidAssociation": [
-    "LiquidAssociation"
-  ],
+  "fastLiquidAssociation": [],
   "fastseg": [],
   "fcScan": [
     "VariantAnnotation",
@@ -4637,7 +4626,6 @@
   ],
   "lisaClust": [
     "spicyR",
-    "simpleSeg",
     "ClassifyR",
     "genefilter",
     "annotate"
@@ -5995,7 +5983,6 @@
   "simPIC": [
     "scuttle"
   ],
-  "simpleSeg": [],
   "simplifyEnrichment": [],
   "singscore": [
     "GSEABase",
@@ -6037,7 +6024,6 @@
     "ShortRead"
   ],
   "sparrow": [
-    "BiocSet",
     "edgeR",
     "GSEABase",
     "annotate"
@@ -6073,7 +6059,6 @@
   ],
   "spicyR": [
     "ClassifyR",
-    "simpleSeg",
     "genefilter",
     "annotate"
   ],
@@ -6129,7 +6114,6 @@
   "ssviz": [
     "Rsamtools"
   ],
-  "stJoincount": [],
   "stageR": [],
   "standR": [
     "edgeR",

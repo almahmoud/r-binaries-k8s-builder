@@ -1039,3 +1039,10 @@ AnnotationForge
 CoCiteStats
 GBScleanR
 tidySpatialExperiment
+BiocSet
+BioNAR
+cytoviewer
+GDSArray
+LiquidAssociation
+simpleSeg
+stJoincount
