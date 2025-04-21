@@ -127,3 +127,14 @@ sizepower
 swfdr
 tximport
 xmapbridge
+alabaster.schemas
+dearseq
+EBSeq
+minet
+multiClust
+NetPathMiner
+pickgene
+Rbowtie
+Rcollectl
+systemPipeShiny
+XINA

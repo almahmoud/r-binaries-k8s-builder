@@ -937,9 +937,7 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "BUS": [
-    "minet"
-  ],
+  "BUS": [],
   "BUScorrect": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -1102,7 +1100,6 @@
   ],
   "BatchQC": [
     "DESeq2",
-    "EBSeq",
     "limma",
     "scran",
     "SummarizedExperiment",
@@ -1329,7 +1326,6 @@
     "sva",
     "ComplexHeatmap",
     "BiocParallel",
-    "minet",
     "GENIE3",
     "SummarizedExperiment",
     "IRanges",
@@ -3547,7 +3543,6 @@
     "RBGL",
     "limma",
     "edgeR",
-    "EBSeq",
     "DESeq2",
     "S4Vectors",
     "IRanges",
@@ -4193,7 +4188,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "EBSeq": [],
   "EBarrays": [
     "Biobase",
     "BiocGenerics"
@@ -9198,7 +9192,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "NetPathMiner": [],
   "NetSAM": [
     "biomaRt",
     "AnnotationDbi",
@@ -9551,7 +9544,6 @@
     "SparseArray"
   ],
   "Oscope": [
-    "EBSeq",
     "BiocParallel"
   ],
   "OutSplice": [
@@ -10378,7 +10370,6 @@
   ],
   "QuasR": [
     "GenomicRanges",
-    "Rbowtie",
     "BiocGenerics",
     "S4Vectors",
     "IRanges",
@@ -11073,7 +11064,6 @@
   ],
   "RTN": [
     "RedeR",
-    "minet",
     "viper",
     "limma",
     "IRanges",
@@ -11092,7 +11082,6 @@
   "RTNduals": [
     "RTN",
     "RedeR",
-    "minet",
     "viper",
     "limma",
     "IRanges",
@@ -11112,7 +11101,6 @@
     "RTN",
     "RTNduals",
     "RedeR",
-    "minet",
     "viper",
     "limma",
     "IRanges",
@@ -11295,7 +11283,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "Rbowtie": [],
   "Rbowtie2": [
     "Rsamtools",
     "GenomeInfoDb",
@@ -11331,7 +11318,6 @@
     "SparseArray",
     "Biostrings"
   ],
-  "Rcollectl": [],
   "Rcpi": [
     "Biostrings",
     "GOSemSim",
@@ -12793,7 +12779,6 @@
     "Rsamtools",
     "UCSC.utils",
     "GenomicAlignments",
-    "Rbowtie",
     "Biobase",
     "GenomicFeatures",
     "txdbmaker",
@@ -14453,7 +14438,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "XINA": [],
   "XVector": [
     "BiocGenerics",
     "S4Vectors",
@@ -14819,7 +14803,6 @@
     "alabaster.vcf",
     "alabaster.bumpy",
     "alabaster.mae",
-    "alabaster.schemas",
     "S4Vectors",
     "assorthead",
     "BumpyMatrix",
@@ -14854,7 +14837,6 @@
     "GenomicAlignments"
   ],
   "alabaster.base": [
-    "alabaster.schemas",
     "S4Vectors",
     "assorthead",
     "BiocGenerics"
@@ -14865,7 +14847,6 @@
     "BiocGenerics",
     "S4Vectors",
     "IRanges",
-    "alabaster.schemas",
     "assorthead"
   ],
   "alabaster.files": [
@@ -14873,7 +14854,6 @@
     "S4Vectors",
     "BiocGenerics",
     "Rsamtools",
-    "alabaster.schemas",
     "assorthead",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -14888,7 +14868,6 @@
     "alabaster.base",
     "alabaster.se",
     "S4Vectors",
-    "alabaster.schemas",
     "assorthead",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -14915,7 +14894,6 @@
     "S4Arrays",
     "SparseArray",
     "HDF5Array",
-    "alabaster.schemas",
     "assorthead",
     "IRanges",
     "h5mread",
@@ -14928,7 +14906,6 @@
     "BiocGenerics",
     "IRanges",
     "GenomeInfoDb",
-    "alabaster.schemas",
     "assorthead",
     "UCSC.utils",
     "XVector"
@@ -14937,7 +14914,6 @@
     "SingleCellExperiment",
     "alabaster.base",
     "alabaster.se",
-    "alabaster.schemas",
     "S4Vectors",
     "assorthead",
     "SummarizedExperiment",
@@ -14956,7 +14932,6 @@
     "UCSC.utils",
     "h5mread"
   ],
-  "alabaster.schemas": [],
   "alabaster.se": [
     "SummarizedExperiment",
     "alabaster.base",
@@ -14966,7 +14941,6 @@
     "S4Vectors",
     "IRanges",
     "GenomicRanges",
-    "alabaster.schemas",
     "assorthead",
     "DelayedArray",
     "S4Arrays",
@@ -14983,7 +14957,6 @@
     "alabaster.base",
     "S4Vectors",
     "alabaster.sce",
-    "alabaster.schemas",
     "assorthead",
     "SingleCellExperiment",
     "alabaster.se",
@@ -15008,7 +14981,6 @@
     "Biostrings",
     "alabaster.base",
     "S4Vectors",
-    "alabaster.schemas",
     "assorthead",
     "BiocGenerics",
     "IRanges",
@@ -15023,7 +14995,6 @@
     "alabaster.se",
     "alabaster.string",
     "Rsamtools",
-    "alabaster.schemas",
     "assorthead",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -15829,7 +15800,6 @@
     "BiocParallel",
     "fgsea",
     "EBarrays",
-    "minet",
     "graphite",
     "ggtree",
     "UCSC.utils",
@@ -16105,7 +16075,6 @@
     "affyio",
     "preprocessCore",
     "RBGL",
-    "minet",
     "Linnorm",
     "genefilter",
     "BiocParallel",
@@ -16200,7 +16169,6 @@
     "SummarizedExperiment",
     "BiocStyle",
     "DELocal",
-    "EBSeq",
     "DESeq2",
     "NOISeq",
     "genefilter",
@@ -16345,7 +16313,6 @@
     "sva",
     "ComplexHeatmap",
     "BiocParallel",
-    "minet",
     "GENIE3",
     "SummarizedExperiment",
     "BiocGenerics",
@@ -16402,7 +16369,6 @@
     "SummarizedExperiment",
     "TCGAutils",
     "EBarrays",
-    "minet",
     "annotate",
     "graph",
     "AnnotationDbi",
@@ -16783,7 +16749,6 @@
     "EnhancedVolcano",
     "S4Vectors",
     "wiggleplotr",
-    "alabaster.schemas",
     "assorthead",
     "scater",
     "scran",
@@ -17752,7 +17717,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "IRanges",
-    "Rbowtie",
     "S4Vectors",
     "XVector",
     "BiocIO",
@@ -17811,7 +17775,6 @@
     "XVector",
     "BiocIO",
     "Rsamtools",
-    "Rbowtie",
     "basilisk",
     "basilisk.utils",
     "UCSC.utils",
@@ -17876,7 +17839,6 @@
     "Biobase",
     "KEGGREST",
     "dir.expiry",
-    "Rbowtie",
     "ExperimentHub",
     "AnnotationHub",
     "biomaRt",
@@ -17905,7 +17867,6 @@
     "S4Vectors",
     "BSgenome",
     "GenomeInfoDb",
-    "Rbowtie",
     "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
@@ -17967,7 +17928,6 @@
     "BiocFileCache",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "Rbowtie",
     "basilisk",
     "basilisk.utils",
     "BiocParallel",
@@ -18424,7 +18384,6 @@
     "S4Vectors",
     "flowViz"
   ],
-  "dearseq": [],
   "debCAM": [
     "BiocParallel",
     "Biobase",
@@ -19295,7 +19254,6 @@
     "SparseArray"
   ],
   "epiNEM": [
-    "minet",
     "graph",
     "mnem",
     "BiocGenerics",
@@ -19457,7 +19415,6 @@
     "BiocBaseUtils",
     "pwalign",
     "DirichletMultinomial",
-    "alabaster.schemas",
     "GenomicAlignments"
   ],
   "epiregulon.extra": [
@@ -20564,7 +20521,6 @@
   "geNetClassifier": [
     "Biobase",
     "EBarrays",
-    "minet",
     "BiocGenerics"
   ],
   "gemini": [],
@@ -23839,7 +23795,6 @@
     "UCSC.utils"
   ],
   "mina": [],
-  "minet": [],
   "minfi": [
     "BiocGenerics",
     "GenomicRanges",
@@ -24432,7 +24387,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "multiClust": [],
   "multiGSEA": [
     "graphite",
     "AnnotationDbi",
@@ -24725,7 +24679,6 @@
   "nempi": [
     "mnem",
     "epiNEM",
-    "minet",
     "graph",
     "Rgraphviz",
     "Linnorm",
@@ -24793,7 +24746,6 @@
   "netresponse": [
     "BiocStyle",
     "Rgraphviz",
-    "minet",
     "graph",
     "qvalue",
     "BiocGenerics"
@@ -25819,7 +25771,6 @@
     "BiocParallel",
     "limma"
   ],
-  "pickgene": [],
   "pipeComp": [
     "BiocParallel",
     "S4Vectors",
@@ -27775,7 +27726,6 @@
   ],
   "scDD": [
     "BiocParallel",
-    "EBSeq",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "S4Vectors",
@@ -27802,7 +27752,6 @@
     "XVector"
   ],
   "scDDboost": [
-    "EBSeq",
     "BiocParallel",
     "SingleCellExperiment",
     "Oscope",
@@ -30215,7 +30164,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "systemPipeShiny": [],
   "systemPipeTools": [
     "DESeq2",
     "SummarizedExperiment",
