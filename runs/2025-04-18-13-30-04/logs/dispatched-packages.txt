@@ -520,3 +520,4 @@ sights
 subSeq
 twoddpcr
 updateObject
+islify
