@@ -457,3 +457,11 @@ metaSeq
 ncdfFlow
 RCyjs
 Sconify
+a4Preproc
+cogeqc
+GSEAlm
+infinityFlow
+kebabs
+MAPFX
+microRNA
+muscle

@@ -2423,7 +2423,6 @@
     "DelayedArray",
     "annotate"
   ],
-  "GSEAlm": [],
   "GSEAmining": [],
   "GSRI": [
     "genefilter",
@@ -3204,7 +3203,6 @@
     "AnnotationFilter",
     "BiocBaseUtils"
   ],
-  "MAPFX": [],
   "MBASED": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -6493,7 +6491,6 @@
   ],
   "a4": [
     "a4Base",
-    "a4Preproc",
     "a4Classif",
     "a4Core",
     "annaffy",
@@ -6503,7 +6500,6 @@
     "annotate"
   ],
   "a4Base": [
-    "a4Preproc",
     "a4Core",
     "annaffy",
     "genefilter",
@@ -6512,11 +6508,9 @@
     "annotate"
   ],
   "a4Classif": [
-    "a4Core",
-    "a4Preproc"
+    "a4Core"
   ],
   "a4Core": [],
-  "a4Preproc": [],
   "aCGH": [
     "multtest"
   ],
@@ -7772,7 +7766,6 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "cogeqc": [],
   "comapr": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -9848,7 +9841,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "infinityFlow": [],
   "intansv": [
     "ggbio",
     "GenomicRanges",
@@ -9914,7 +9906,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "kebabs": [],
   "keggorthology": [
     "AnnotationDbi"
   ],
@@ -10635,7 +10626,6 @@
     "ScaledMatrix",
     "BiocBaseUtils"
   ],
-  "microRNA": [],
   "microSTASIS": [
     "TreeSummarizedExperiment",
     "SingleCellExperiment",
@@ -11028,7 +11018,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "muscle": [],
   "mygene": [
     "GenomicFeatures",
     "txdbmaker",
@@ -11168,8 +11157,7 @@
     "DelayedArray"
   ],
   "odseq": [
-    "msa",
-    "kebabs"
+    "msa"
   ],
   "oligo": [
     "oligoClasses",
@@ -11748,9 +11736,7 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "procoil": [
-    "kebabs"
-  ],
+  "procoil": [],
   "profileplyr": [
     "SummarizedExperiment",
     "GenomicRanges",

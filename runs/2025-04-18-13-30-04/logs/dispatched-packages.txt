@@ -666,3 +666,4 @@ universalmotif
 AnnotationDbi
 FELLA
 SynExtend
+procoil
