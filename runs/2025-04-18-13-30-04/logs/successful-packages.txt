@@ -1005,3 +1005,6 @@ mnem
 snapcount
 SpectralTAD
 TADCompare
+rebook
+sRACIPE
+SVP
