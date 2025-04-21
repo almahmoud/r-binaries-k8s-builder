@@ -764,3 +764,10 @@ rigvf
 ROntoTools
 sketchR
 SpatialCPie
+biotmle
+cytoKernel
+fedup
+findIPs
+gemma.R
+SingleCellExperiment
+XAItest
