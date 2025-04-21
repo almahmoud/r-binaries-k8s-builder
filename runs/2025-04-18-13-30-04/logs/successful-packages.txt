@@ -685,3 +685,14 @@ limpa
 OCplus
 Rarr
 RUVcorr
+aCGH
+AlphaBeta
+anota
+BADER
+DelayedDataFrame
+hyperdraw
+metabomxtr
+mixOmics
+paircompviz
+ResidualMatrix
+RTopper

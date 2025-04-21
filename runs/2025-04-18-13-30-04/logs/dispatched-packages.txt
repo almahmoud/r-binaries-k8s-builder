@@ -841,3 +841,8 @@ rhdf5client
 siggenes
 sketchR
 tRNA
+AlpsNMR
+BiGGR
+CRImage
+DepecheR
+timeOmics

@@ -22,7 +22,6 @@
   ],
   "ADaCGH2": [
     "tilingArray",
-    "aCGH",
     "affy",
     "vsn",
     "genefilter",
@@ -177,11 +176,8 @@
     "ensembldb",
     "biovizBase"
   ],
-  "AlphaBeta": [],
   "AlphaMissenseR": [],
-  "AlpsNMR": [
-    "mixOmics"
-  ],
+  "AlpsNMR": [],
   "AnVILPublish": [],
   "AnVILWorkflow": [],
   "Anaquin": [
@@ -212,7 +208,6 @@
     "biomaRt"
   ],
   "AssessORF": [],
-  "BADER": [],
   "BANDITS": [
     "DRIMSeq",
     "edgeR"
@@ -399,9 +394,7 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "BiGGR": [
-    "hyperdraw"
-  ],
+  "BiGGR": [],
   "BiSeq": [
     "SummarizedExperiment",
     "rtracklayer",
@@ -749,9 +742,7 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "CRImage": [
-    "aCGH"
-  ],
+  "CRImage": [],
   "CSSQ": [
     "SummarizedExperiment",
     "rtracklayer",
@@ -1295,7 +1286,6 @@
     "rtracklayer",
     "biomaRt"
   ],
-  "DelayedDataFrame": [],
   "DelayedMatrixStats": [],
   "DelayedTensor": [
     "HDF5Array",
@@ -1303,9 +1293,7 @@
     "ScaledMatrix",
     "beachmat"
   ],
-  "DepecheR": [
-    "mixOmics"
-  ],
+  "DepecheR": [],
   "DiffBind": [
     "SummarizedExperiment",
     "GenomicAlignments",
@@ -3133,14 +3121,12 @@
     "SummarizedExperiment"
   ],
   "PLSDAbatch": [
-    "mixOmics",
     "TreeSummarizedExperiment",
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
   "POMA": [
     "DESeq2",
-    "mixOmics",
     "SummarizedExperiment",
     "sva",
     "genefilter",
@@ -3171,7 +3157,6 @@
     "PSMatch",
     "affy",
     "DESeq2",
-    "mixOmics",
     "sva",
     "Spectra",
     "QFeatures",
@@ -3432,7 +3417,6 @@
     "clusterProfiler",
     "edgeR",
     "enrichplot",
-    "mixOmics",
     "MOFA2",
     "DOSE",
     "GOSemSim",
@@ -3584,7 +3568,6 @@
     "RTNduals",
     "SummarizedExperiment"
   ],
-  "RTopper": [],
   "RUCova": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -3712,7 +3695,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "ResidualMatrix": [],
   "Rhisat2": [
     "txdbmaker",
     "SGSeq",
@@ -4598,7 +4580,6 @@
   "VariantExperiment": [
     "SummarizedExperiment",
     "GDSArray",
-    "DelayedDataFrame",
     "SNPRelate",
     "SeqArray"
   ],
@@ -4706,7 +4687,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "aCGH": [],
   "adSplit": [
     "AnnotationDbi"
   ],
@@ -4880,7 +4860,6 @@
   "annotate": [
     "AnnotationDbi"
   ],
-  "anota": [],
   "anota2seq": [
     "DESeq2",
     "edgeR",
@@ -5033,7 +5012,6 @@
     "BiocSingular",
     "DelayedMatrixStats",
     "scuttle",
-    "ResidualMatrix",
     "ScaledMatrix",
     "beachmat"
   ],
@@ -5420,7 +5398,6 @@
     "metapod",
     "rtracklayer",
     "DelayedMatrixStats",
-    "ResidualMatrix",
     "ScaledMatrix",
     "AnnotationDbi",
     "Rsamtools",
@@ -5439,7 +5416,6 @@
     "SummarizedExperiment",
     "BiocSingular",
     "DelayedMatrixStats",
-    "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
     "AnnotationDbi",
@@ -5466,7 +5442,6 @@
     "rtracklayer",
     "BiocSingular",
     "DelayedMatrixStats",
-    "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
     "AnnotationDbi",
@@ -7008,7 +6983,6 @@
   "hummingbird": [
     "SummarizedExperiment"
   ],
-  "hyperdraw": [],
   "iCNV": [
     "CODEX",
     "Rsamtools",
@@ -7484,7 +7458,6 @@
     "affy",
     "MultiAssayExperiment"
   ],
-  "metabomxtr": [],
   "metagene2": [
     "rtracklayer",
     "GenomicAlignments",
@@ -7864,7 +7837,6 @@
   "mitology": [
     "AnnotationDbi"
   ],
-  "mixOmics": [],
   "mnem": [
     "Linnorm"
   ],
@@ -8040,7 +8012,6 @@
     "metapod",
     "scran",
     "batchelor",
-    "ResidualMatrix",
     "edgeR",
     "bluster"
   ],
@@ -8288,7 +8259,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "paircompviz": [],
   "pairedGSEA": [
     "DESeq2",
     "DEXSeq",
@@ -8513,7 +8483,6 @@
     "affy",
     "GenomicFeatures",
     "AnnotationDbi",
-    "aCGH",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -8707,7 +8676,6 @@
     "affy",
     "GenomicFeatures",
     "AnnotationDbi",
-    "aCGH",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -9133,7 +9101,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "scuttle",
-    "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
     "edgeR",
@@ -9968,9 +9935,7 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "timeOmics": [
-    "mixOmics"
-  ],
+  "timeOmics": [],
   "tomoda": [
     "SummarizedExperiment"
   ],
