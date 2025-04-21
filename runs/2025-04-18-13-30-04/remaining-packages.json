@@ -3489,7 +3489,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "LedPred": [],
   "Lheuristic": [
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -5131,7 +5130,6 @@
     "BiocBaseUtils",
     "DelayedArray"
   ],
-  "QRscore": [],
   "QSutils": [
     "Biostrings",
     "pwalign"
@@ -9131,7 +9129,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "cytoMEM": [],
   "cytofQC": [
     "CATALYST",
     "SingleCellExperiment",
@@ -10141,7 +10138,6 @@
     "flowClust",
     "Rgraphviz"
   ],
-  "flowSpecs": [],
   "flowStats": [
     "flowWorkspace",
     "ncdfFlow",
@@ -11336,7 +11332,6 @@
   "makecdfenv": [
     "affy"
   ],
-  "mapscape": [],
   "mariner": [
     "GenomicRanges",
     "InteractionSet",

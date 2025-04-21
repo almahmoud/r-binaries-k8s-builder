@@ -410,3 +410,8 @@ immunoClust
 maSigPro
 messina
 Polytect
+cytoMEM
+flowSpecs
+LedPred
+mapscape
+QRscore
