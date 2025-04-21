@@ -483,3 +483,13 @@ twilight
 unifiedWMWqPCR
 viper
 wppi
+DNAcycP2
+DeconRNASeq
+MetID
+OrderedList
+bioassayR
+cbpManager
+densvis
+eiR
+fmcsR
+snifter

@@ -1,5 +1,4 @@
 {
-  "ABSSeq": [],
   "ABarray": [
     "multtest"
   ],
@@ -1281,7 +1280,6 @@
   ],
   "BiocSklearn": [
     "SummarizedExperiment",
-    "basilisk",
     "GenomicRanges",
     "S4Vectors",
     "IRanges",
@@ -1520,7 +1518,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -2425,7 +2422,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "ChemmineR": [],
   "Chicago": [],
   "ChromHeatMap": [
     "annotate",
@@ -2562,7 +2558,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "Spectra",
     "QFeatures",
@@ -2669,7 +2664,6 @@
   "CompoundDb": [
     "AnnotationFilter",
     "S4Vectors",
-    "ChemmineR",
     "IRanges",
     "Spectra",
     "MsCoreUtils",
@@ -2876,7 +2870,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "Spectra",
     "QFeatures",
@@ -2965,7 +2958,6 @@
     "vsn",
     "ComplexHeatmap",
     "IRanges",
-    "pcaMethods",
     "mzR",
     "S4Vectors",
     "MsCoreUtils",
@@ -3136,9 +3128,7 @@
     "UCSC.utils"
   ],
   "DNABarcodes": [],
-  "DNAcycP2": [
-    "basilisk"
-  ],
+  "DNAcycP2": [],
   "DNAshapeR": [
     "GenomicRanges",
     "Biostrings",
@@ -3299,9 +3289,7 @@
     "h5mread",
     "GenomicAlignments"
   ],
-  "DeconRNASeq": [
-    "pcaMethods"
-  ],
+  "DeconRNASeq": [],
   "DeconvoBuddies": [
     "AnnotationHub",
     "BiocFileCache",
@@ -3723,7 +3711,6 @@
     "BiocParallel"
   ],
   "ELViS": [
-    "basilisk",
     "ComplexHeatmap",
     "GenomicFeatures",
     "GenomicRanges",
@@ -4175,7 +4162,6 @@
     "IRanges",
     "HDF5Array",
     "OUTRIDER",
-    "pcaMethods",
     "S4Vectors",
     "KEGGREST",
     "BiocFileCache",
@@ -4190,7 +4176,6 @@
     "DESeq2",
     "txdbmaker"
   ],
-  "FamAgg": [],
   "FastqCleaner": [
     "IRanges",
     "Biostrings",
@@ -4711,7 +4696,6 @@
     "XVector",
     "Biostrings"
   ],
-  "GSgalgoR": [],
   "GWAS.BAYES": [],
   "GWASTools": [
     "gdsfmt"
@@ -5451,7 +5435,6 @@
     "GenomicRanges",
     "IRanges",
     "InteractionSet",
-    "basilisk",
     "GenomeInfoDb",
     "XVector",
     "BiocParallel",
@@ -5634,7 +5617,6 @@
     "S4Vectors",
     "GenomeInfoDb",
     "DESeq2",
-    "plgem",
     "rtracklayer",
     "SummarizedExperiment",
     "UCSC.utils",
@@ -5686,7 +5668,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -5702,7 +5683,6 @@
   "IRanges": [
     "S4Vectors"
   ],
-  "ISAnalytics": [],
   "ISLET": [
     "BiocParallel",
     "SummarizedExperiment",
@@ -5901,7 +5881,6 @@
     "S4Vectors",
     "IRanges"
   ],
-  "IntramiRExploreR": [],
   "IsoBayes": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -6159,7 +6138,6 @@
   "MACSQuantifyR": [],
   "MACSr": [
     "S4Vectors",
-    "basilisk",
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
@@ -6173,7 +6151,6 @@
     "UCSC.utils"
   ],
   "MAI": [
-    "pcaMethods",
     "SummarizedExperiment",
     "S4Vectors",
     "GenomicRanges",
@@ -6205,7 +6182,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -6642,7 +6618,6 @@
   "MOFA2": [
     "HDF5Array",
     "DelayedArray",
-    "basilisk",
     "S4Vectors",
     "IRanges",
     "S4Arrays",
@@ -6778,7 +6753,6 @@
   "MSPrep": [
     "SummarizedExperiment",
     "S4Vectors",
-    "pcaMethods",
     "sva",
     "GenomicRanges",
     "IRanges",
@@ -6818,7 +6792,6 @@
     "BiocParallel",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "UCSC.utils",
     "Spectra",
@@ -6842,7 +6815,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "Spectra",
     "QFeatures",
@@ -6899,7 +6871,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "Spectra",
     "QFeatures",
@@ -6928,7 +6899,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "Spectra",
     "QFeatures",
@@ -7013,7 +6983,6 @@
     "SummarizedExperiment",
     "ComplexHeatmap",
     "ExperimentHub",
-    "pcaMethods",
     "proDA",
     "sva",
     "vsn",
@@ -7101,9 +7070,7 @@
     "IRanges",
     "MetaboCoreUtils"
   ],
-  "MetID": [
-    "ChemmineR"
-  ],
+  "MetID": [],
   "MetNet": [
     "S4Vectors",
     "SummarizedExperiment",
@@ -7170,7 +7137,6 @@
     "BiocVersion",
     "AnnotationDbi",
     "AnnotationFilter",
-    "ChemmineR",
     "IRanges",
     "MultiAssayExperiment",
     "GenomicRanges",
@@ -7370,7 +7336,6 @@
   "MicrobiotaProcess": [
     "Biostrings",
     "SummarizedExperiment",
-    "ggtreeExtra",
     "S4Vectors",
     "IRanges",
     "XVector",
@@ -7760,7 +7725,6 @@
   "MultiBaC": [
     "MultiAssayExperiment",
     "ropls",
-    "pcaMethods",
     "SummarizedExperiment",
     "BiocBaseUtils",
     "DelayedArray",
@@ -7973,7 +7937,6 @@
     "SingleCellExperiment",
     "DelayedArray",
     "BiocSingular",
-    "SharedObject",
     "S4Vectors",
     "BiocParallel",
     "ScaledMatrix",
@@ -8150,7 +8113,6 @@
     "DESeq2",
     "GenomicRanges",
     "IRanges",
-    "pcaMethods",
     "S4Vectors",
     "txdbmaker",
     "GenomeInfoDb",
@@ -8210,9 +8172,7 @@
     "graph",
     "Rgraphviz"
   ],
-  "OrderedList": [
-    "twilight"
-  ],
+  "OrderedList": [],
   "Organism.dplyr": [
     "AnnotationFilter",
     "S4Vectors",
@@ -8542,7 +8502,6 @@
     "PSMatch",
     "BiocParallel",
     "affy",
-    "pcaMethods",
     "DESeq2",
     "fgsea",
     "mixOmics",
@@ -8706,7 +8665,6 @@
   ],
   "PhenoGeneRanker": [],
   "PhosR": [
-    "pcaMethods",
     "SummarizedExperiment",
     "S4Vectors",
     "GenomicRanges",
@@ -8755,7 +8713,6 @@
     "UCSC.utils"
   ],
   "Pirat": [
-    "basilisk",
     "SummarizedExperiment",
     "S4Vectors",
     "GenomicRanges",
@@ -8791,7 +8748,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "Spectra",
     "QFeatures",
@@ -8819,7 +8775,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "Spectra",
     "QFeatures",
@@ -9242,7 +9197,6 @@
     "HTSFilter",
     "HDF5Array",
     "DelayedArray",
-    "basilisk",
     "BiocBaseUtils",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -9254,7 +9208,6 @@
     "h5mread",
     "Biostrings"
   ],
-  "RGSEA": [],
   "RGraph2js": [
     "graph"
   ],
@@ -9280,7 +9233,6 @@
     "SparseArray"
   ],
   "RMassBank": [
-    "ChemmineR",
     "MSnbase",
     "mzR",
     "S4Vectors",
@@ -9290,7 +9242,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "Spectra",
     "QFeatures",
@@ -9338,7 +9289,6 @@
     "BSgenome"
   ],
   "RNASeqPower": [],
-  "RNAdecay": [],
   "RNAmodR": [
     "S4Vectors",
     "IRanges",
@@ -9799,22 +9749,19 @@
   ],
   "Rcwl": [
     "S4Vectors",
-    "BiocParallel",
-    "basilisk"
+    "BiocParallel"
   ],
   "RcwlPipelines": [
     "Rcwl",
     "BiocFileCache",
     "S4Vectors",
-    "BiocParallel",
-    "basilisk"
+    "BiocParallel"
   ],
   "ReUseData": [
     "Rcwl",
     "RcwlPipelines",
     "BiocFileCache",
     "S4Vectors",
-    "basilisk",
     "BiocParallel"
   ],
   "ReactomeGSA": [
@@ -10051,7 +9998,6 @@
     "biomaRt",
     "BiocFileCache"
   ],
-  "Rigraphlib": [],
   "Rmagpie": [],
   "Rmmquant": [
     "S4Vectors",
@@ -10875,7 +10821,6 @@
     "Biostrings",
     "UCSC.utils"
   ],
-  "SharedObject": [],
   "ShortRead": [
     "BiocParallel",
     "Biostrings",
@@ -10957,7 +10902,6 @@
     "BiocParallel"
   ],
   "SimBu": [
-    "basilisk",
     "BiocParallel",
     "phyloseq",
     "SummarizedExperiment",
@@ -11099,7 +11043,6 @@
     "GenomeInfoDb",
     "Biostrings",
     "ggbio",
-    "pcaMethods",
     "XVector",
     "UCSC.utils",
     "biovizBase",
@@ -12551,7 +12494,6 @@
     "BSgenome",
     "UCSC.utils",
     "ggbio",
-    "pcaMethods",
     "SummarizedExperiment",
     "Rsamtools",
     "AnnotationDbi",
@@ -13412,7 +13354,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "MLInterfaces",
     "biomaRt",
     "affyio",
@@ -13468,7 +13409,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "basilisk": [],
   "batchelor": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -13706,9 +13646,7 @@
     "BiocIO"
   ],
   "bioDist": [],
-  "bioassayR": [
-    "ChemmineR"
-  ],
+  "bioassayR": [],
   "biobroom": [],
   "biocGraph": [
     "Rgraphviz",
@@ -14283,9 +14221,7 @@
     "BiocIO",
     "BiocParallel"
   ],
-  "cbpManager": [
-    "basilisk"
-  ],
+  "cbpManager": [],
   "ccImpute": [
     "BiocParallel",
     "SingleCellExperiment",
@@ -14323,7 +14259,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "ceRNAnetsim": [],
   "celda": [
     "SingleCellExperiment",
     "S4Vectors",
@@ -14404,7 +14339,6 @@
   ],
   "cfTools": [
     "GenomicRanges",
-    "basilisk",
     "ExperimentHub",
     "S4Vectors",
     "IRanges",
@@ -14798,7 +14732,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
@@ -15104,7 +15037,6 @@
     "edgeR",
     "GenomicAlignments",
     "GenomicFeatures",
-    "pcaMethods",
     "Rsamtools",
     "RUVSeq",
     "S4Vectors",
@@ -15262,7 +15194,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -15415,7 +15346,6 @@
     "XVector",
     "BiocIO",
     "Rsamtools",
-    "basilisk",
     "UCSC.utils",
     "GenomicAlignments",
     "biomaRt",
@@ -15430,7 +15360,6 @@
     "SparseArray"
   ],
   "crisprScore": [
-    "basilisk",
     "Biostrings",
     "IRanges",
     "XVector",
@@ -15465,7 +15394,6 @@
     "GenomicFeatures",
     "txdbmaker",
     "VariantAnnotation",
-    "basilisk",
     "Gviz",
     "UCSC.utils",
     "KEGGREST",
@@ -15501,7 +15429,6 @@
     "rtracklayer",
     "txdbmaker",
     "VariantAnnotation",
-    "basilisk",
     "XVector",
     "ExperimentHub",
     "AnnotationHub",
@@ -15552,7 +15479,6 @@
     "BiocFileCache",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "basilisk",
     "BiocParallel",
     "ExperimentHub",
     "AnnotationHub",
@@ -15650,7 +15576,6 @@
   ],
   "customCMPdb": [
     "AnnotationHub",
-    "ChemmineR",
     "BiocFileCache",
     "BiocVersion",
     "AnnotationDbi",
@@ -15877,7 +15802,6 @@
     "BiocParallel",
     "BiocNeighbors",
     "assorthead",
-    "pcaMethods",
     "edgeR",
     "BiocSingular",
     "GenomicRanges",
@@ -16131,9 +16055,7 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "densvis": [
-    "basilisk"
-  ],
+  "densvis": [],
   "derfinder": [
     "AnnotationDbi",
     "BiocParallel",
@@ -16204,7 +16126,6 @@
     "BiocFileCache"
   ],
   "destiny": [
-    "pcaMethods",
     "SummarizedExperiment",
     "SingleCellExperiment",
     "S4Vectors",
@@ -16275,7 +16196,6 @@
   "diffcoexp": [
     "SummarizedExperiment",
     "multtest",
-    "pcaMethods",
     "GenomicRanges",
     "S4Vectors",
     "IRanges",
@@ -16591,9 +16511,7 @@
     "UCSC.utils"
   ],
   "edgeR": [],
-  "eiR": [
-    "ChemmineR"
-  ],
+  "eiR": [],
   "eisaR": [
     "GenomicRanges",
     "S4Vectors",
@@ -17366,7 +17284,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -17526,9 +17443,7 @@
   "flowcatchR": [
     "BiocParallel"
   ],
-  "fmcsR": [
-    "ChemmineR"
-  ],
+  "fmcsR": [],
   "fobitools": [
     "fgsea",
     "BiocParallel"
@@ -18081,8 +17996,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "ggtreeDendro": [],
-  "ggtreeExtra": [],
   "ggtreeSpace": [],
   "ginmappeR": [
     "KEGGREST",
@@ -19035,7 +18948,6 @@
     "BiocFileCache"
   ],
   "interactiveDisplay": [
-    "interactiveDisplayBase",
     "Category",
     "AnnotationDbi",
     "IRanges",
@@ -19051,7 +18963,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "interactiveDisplayBase": [],
   "ipdDb": [
     "AnnotationDbi",
     "AnnotationHub",
@@ -19207,7 +19118,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "koinar": [],
   "ldblock": [],
   "lefser": [
     "SummarizedExperiment",
@@ -19317,7 +19227,6 @@
     "fgsea",
     "ropls",
     "BiocParallel",
-    "pcaMethods",
     "MultiAssayExperiment",
     "MultiDataSet",
     "GenomicRanges",
@@ -19785,7 +19694,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -19837,7 +19745,6 @@
   ],
   "metaseqR2": [
     "DESeq2",
-    "ABSSeq",
     "BiocParallel",
     "biomaRt",
     "Biostrings",
@@ -20279,7 +20186,6 @@
     "fabia",
     "iBBiG",
     "BicARE",
-    "rqubic",
     "SummarizedExperiment",
     "GSEABase",
     "clusterProfiler",
@@ -20993,7 +20899,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "Spectra",
     "QFeatures",
@@ -21023,7 +20928,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "Spectra",
     "QFeatures",
@@ -21275,7 +21179,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -21426,7 +21329,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "normalize450K": [],
   "npGSEA": [
     "GSEABase",
     "annotate",
@@ -21534,7 +21436,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "BiocBaseUtils",
     "DelayedArray",
     "GenomicRanges",
@@ -21572,7 +21473,6 @@
     "annotate",
     "UCSC.utils",
     "XVector",
-    "pcaMethods",
     "KEGGREST",
     "Biostrings"
   ],
@@ -21662,7 +21562,6 @@
     "Rgraphviz",
     "AnnotationHub",
     "SummarizedExperiment",
-    "basilisk",
     "BiocVersion",
     "AnnotationDbi",
     "GenomicRanges",
@@ -21751,7 +21650,6 @@
   "orthos": [
     "SummarizedExperiment",
     "AnnotationHub",
-    "basilisk",
     "BiocParallel",
     "DelayedArray",
     "ExperimentHub",
@@ -21788,7 +21686,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "KEGGREST",
     "Spectra",
@@ -21817,7 +21714,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "MLInterfaces",
     "biomaRt",
     "affyio",
@@ -21933,7 +21829,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "pandaR": [],
   "panelcn.mops": [
     "cn.mops",
     "GenomicRanges",
@@ -22047,7 +21942,6 @@
     "UCSC.utils"
   ],
   "pathwayPCA": [],
-  "pcaMethods": [],
   "pdInfoBuilder": [
     "oligo",
     "Biostrings",
@@ -22074,7 +21968,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "Spectra",
     "QFeatures",
@@ -22313,7 +22206,6 @@
     "UCSC.utils"
   ],
   "plasmut": [],
-  "plgem": [],
   "plier": [
     "affy",
     "affyio"
@@ -22389,7 +22281,6 @@
   ],
   "pmm": [],
   "pmp": [
-    "pcaMethods",
     "SummarizedExperiment",
     "S4Vectors",
     "GenomicRanges",
@@ -22447,7 +22338,6 @@
     "Rgraphviz",
     "AnnotationHub",
     "SummarizedExperiment",
-    "basilisk",
     "BiocVersion",
     "AnnotationDbi",
     "GenomicRanges",
@@ -22758,7 +22648,6 @@
     "IRanges",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "Spectra",
     "QFeatures",
@@ -22822,7 +22711,6 @@
     "BiocParallel",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "UCSC.utils",
     "Spectra",
@@ -22984,7 +22872,6 @@
     "GenomicAlignments",
     "BiocIO"
   ],
-  "qusage": [],
   "qvalue": [],
   "r3Cseq": [
     "GenomicRanges",
@@ -23188,12 +23075,10 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "randPack": [],
   "randRotation": [],
   "rawDiag": [
     "BiocParallel"
   ],
-  "rbsurv": [],
   "rcellminer": [],
   "rebook": [
     "graph"
@@ -23273,7 +23158,6 @@
     "HDF5Array",
     "S4Vectors",
     "BiocFileCache",
-    "basilisk",
     "DelayedMatrixStats",
     "DelayedArray",
     "IRanges",
@@ -23422,8 +23306,7 @@
     "SparseArray"
   ],
   "rexposome": [
-    "S4Vectors",
-    "pcaMethods"
+    "S4Vectors"
   ],
   "rfPred": [
     "GenomeInfoDb",
@@ -23444,7 +23327,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "rgoslin": [],
   "rgsepd": [
     "DESeq2",
     "goseq",
@@ -23686,7 +23568,6 @@
     "BiocBaseUtils",
     "multtest"
   ],
-  "rqubic": [],
   "rrvgo": [
     "GOSemSim",
     "AnnotationDbi",
@@ -24445,7 +24326,6 @@
   ],
   "scde": [
     "edgeR",
-    "pcaMethods",
     "BiocParallel"
   ],
   "scds": [
@@ -24494,7 +24374,6 @@
     "DECIPHER",
     "sangerseqR",
     "flowCore",
-    "basilisk",
     "S4Vectors",
     "IRanges",
     "XVector",
@@ -24602,7 +24481,6 @@
     "beachmat",
     "DelayedArray",
     "BiocNeighbors",
-    "Rigraphlib",
     "assorthead",
     "SparseArray",
     "S4Vectors",
@@ -24694,7 +24572,6 @@
     "UCSC.utils"
   ],
   "scviR": [
-    "basilisk",
     "SingleCellExperiment",
     "BiocFileCache",
     "SummarizedExperiment",
@@ -25145,7 +25022,6 @@
     "GenomicAlignments",
     "BiocIO"
   ],
-  "sigsquared": [],
   "simPIC": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -25243,9 +25119,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "sitePath": [],
   "sketchR": [
-    "basilisk",
     "DelayedArray",
     "S4Vectors",
     "IRanges",
@@ -25377,9 +25251,7 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "snifter": [
-    "basilisk"
-  ],
+  "snifter": [],
   "soGGi": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -25470,7 +25342,6 @@
     "UCSC.utils"
   ],
   "spatialDE": [
-    "basilisk",
     "SpatialExperiment",
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -25663,7 +25534,6 @@
     "assorthead",
     "ScaledMatrix"
   ],
-  "spkTools": [],
   "splatter": [
     "SingleCellExperiment",
     "BiocParallel",
@@ -25743,7 +25613,6 @@
     "BiocParallel",
     "vsn",
     "affy",
-    "pcaMethods",
     "MsFeatures",
     "MetaboCoreUtils",
     "affyio",
@@ -26209,7 +26078,6 @@
     "graph",
     "Rgraphviz",
     "AnnotationHub",
-    "basilisk",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -26440,7 +26308,6 @@
     "BiocParallel",
     "vsn",
     "affy",
-    "pcaMethods",
     "Spectra",
     "QFeatures",
     "affyio",
@@ -26718,7 +26585,6 @@
   "tweeDEseq": [
     "edgeR"
   ],
-  "twilight": [],
   "twoddpcr": [
     "S4Vectors"
   ],
@@ -26836,7 +26702,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "unifiedWMWqPCR": [],
   "universalmotif": [
     "IRanges",
     "Biostrings",
@@ -26856,7 +26721,6 @@
     "SummarizedExperiment",
     "S4Vectors",
     "DelayedArray",
-    "basilisk",
     "zellkonverter",
     "scuttle",
     "SingleCellExperiment",
@@ -27103,7 +26967,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -27212,7 +27075,6 @@
     "XVector"
   ],
   "zellkonverter": [
-    "basilisk",
     "DelayedArray",
     "S4Vectors",
     "SingleCellExperiment",
