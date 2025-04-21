@@ -1,1 +1,9 @@
-procoil
+IMMAN
+LinTInd
+LymphoSeq
+MethTargetedNGS
+QSutils
+ggseqalign
+metagenomeSeq
+odseq
+sangerseqR
