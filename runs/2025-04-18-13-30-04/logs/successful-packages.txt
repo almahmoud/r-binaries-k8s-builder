@@ -717,3 +717,11 @@ HDF5Array
 Icens
 oncoscanR
 TDbasedUFE
+Clomial
+fobitools
+ggmsa
+idr2d
+PROcess
+RCy3
+SummarizedExperiment
+survcomp
