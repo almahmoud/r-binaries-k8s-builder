@@ -696,3 +696,17 @@ mixOmics
 paircompviz
 ResidualMatrix
 RTopper
+BiGGR
+CRImage
+KEGGgraph
+nethet
+netresponse
+OncoSimulR
+Qtlizer
+rain
+rhdf5client
+ScaledMatrix
+siggenes
+TileDBArray
+tRNA
+TRONCO

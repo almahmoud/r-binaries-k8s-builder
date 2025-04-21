@@ -846,3 +846,11 @@ BiGGR
 CRImage
 DepecheR
 timeOmics
+KCsmart
+ROntoTools
+SPIA
+lpNet
+phantasusLite
+scPCA
+tRNAdbImport
+trio
