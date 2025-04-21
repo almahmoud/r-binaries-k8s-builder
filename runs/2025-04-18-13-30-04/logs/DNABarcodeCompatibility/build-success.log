@@ -1,0 +1,575 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''DNABarcodeCompatibility'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R Under development (unstable)
+  (2025-03-08 r87910)
+Installing package(s) 'DNABarcodeCompatibility'
+also installing the dependencies ‘generics’, ‘tidyselect’, ‘bookdown’, ‘dplyr’, ‘tidyr’, ‘numbers’, ‘BH’, ‘BiocStyle’
+
+trying URL 'https://cloud.r-project.org/src/contrib/generics_0.1.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/tidyselect_1.2.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/dplyr_1.1.4.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/tidyr_1.3.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/numbers_0.8-5.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/BH_1.87.0-1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocStyle_2.36.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/DNABarcodeCompatibility_1.24.0.tar.gz'
+* installing *source* package ‘generics’ ...
+** this is package ‘generics’ version ‘0.1.3’
+** package ‘generics’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘generics’ as ‘generics_0.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (generics)
+* installing *source* package ‘tidyselect’ ...
+** this is package ‘tidyselect’ version ‘1.2.1’
+** package ‘tidyselect’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tidyselect’ as ‘tidyselect_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyselect)
+* installing *source* package ‘bookdown’ ...
+** this is package ‘bookdown’ version ‘0.43’
+** package ‘bookdown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.43_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *source* package ‘numbers’ ...
+** this is package ‘numbers’ version ‘0.8-5’
+** package ‘numbers’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘numbers’ as ‘numbers_0.8-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (numbers)
+* installing *source* package ‘BH’ ...
+** this is package ‘BH’ version ‘1.87.0-1’
+** package ‘BH’ successfully unpacked and MD5 sums checked
+** using staged installation
+** inst
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BH’ as ‘BH_1.87.0-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BH)
+* installing *source* package ‘dplyr’ ...
+** this is package ‘dplyr’ version ‘1.1.4’
+** package ‘dplyr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c chop.cpp -o chop.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c filter.cpp -o filter.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c funs.cpp -o funs.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c group_by.cpp -o group_by.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c group_data.cpp -o group_data.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c imports.cpp -o imports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c init.cpp -o init.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c mask.cpp -o mask.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c mutate.cpp -o mutate.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c reconstruct.cpp -o reconstruct.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c slice.cpp -o slice.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c summarise.cpp -o summarise.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o dplyr.so chop.o filter.o funs.o group_by.o group_data.o imports.o init.o mask.o mutate.o reconstruct.o slice.o summarise.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-dplyr/00new/dplyr/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘dplyr’ as ‘dplyr_1.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dplyr)
+* installing *source* package ‘BiocStyle’ ...
+** this is package ‘BiocStyle’ version ‘2.36.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+* installing *source* package ‘tidyr’ ...
+** this is package ‘tidyr’ version ‘1.3.1’
+** package ‘tidyr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/cpp11/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c cpp11.cpp -o cpp11.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/cpp11/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c melt.cpp -o melt.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/cpp11/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c simplifyPieces.cpp -o simplifyPieces.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o tidyr.so cpp11.o melt.o simplifyPieces.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-tidyr/00new/tidyr/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tidyr’ as ‘tidyr_1.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyr)
+* installing *source* package ‘DNABarcodeCompatibility’ ...
+** this is package ‘DNABarcodeCompatibility’ version ‘1.24.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c DNABarcodes_init.c -o DNABarcodes_init.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c cachedistance.cpp -o cachedistance.o
+In file included from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /usr/local/lib/R/site-library/BH/include/boost/shared_ptr.hpp:17,
+                 from sequence.h:19,
+                 from cachedistance.cpp:7:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/shared_count.hpp:326:33: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  326 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/13/memory:78,
+                 from sequence.h:13:
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:354:31: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  354 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:365:22: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  365 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:423:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  423 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:430:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  430 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:432:38: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  432 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c create_distance_func.cpp -o create_distance_func.o
+In file included from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /usr/local/lib/R/site-library/BH/include/boost/shared_ptr.hpp:17,
+                 from sequence.h:19,
+                 from distance.h:14,
+                 from create_distance_func.cpp:5:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/shared_count.hpp:326:33: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  326 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/13/memory:78,
+                 from distance.h:11:
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:354:31: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  354 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:365:22: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  365 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:423:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  423 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:430:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  430 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:432:38: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  432 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c distance_for_R.cpp -o distance_for_R.o
+In file included from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /usr/local/lib/R/site-library/BH/include/boost/shared_ptr.hpp:17,
+                 from sequence.h:19,
+                 from distance.h:14,
+                 from distance_for_R.cpp:9:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/shared_count.hpp:326:33: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  326 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/13/memory:78,
+                 from distance.h:11:
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:354:31: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  354 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:365:22: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  365 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:423:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  423 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:430:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  430 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:432:38: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  432 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c hammingdistance.cpp -o hammingdistance.o
+In file included from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /usr/local/lib/R/site-library/BH/include/boost/shared_ptr.hpp:17,
+                 from sequence.h:19,
+                 from hammingdistance.cpp:7:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/shared_count.hpp:326:33: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  326 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/13/memory:78,
+                 from sequence.h:13:
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:354:31: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  354 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:365:22: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  365 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:423:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  423 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:430:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  430 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:432:38: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  432 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c levenshteindistance.cpp -o levenshteindistance.o
+In file included from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /usr/local/lib/R/site-library/BH/include/boost/shared_ptr.hpp:17,
+                 from sequence.h:19,
+                 from levenshteindistance.cpp:7:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/shared_count.hpp:326:33: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  326 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/13/memory:78,
+                 from sequence.h:13:
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:354:31: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  354 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:365:22: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  365 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:423:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  423 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:430:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  430 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:432:38: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  432 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c phaseshiftdist.cpp -o phaseshiftdist.o
+In file included from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /usr/local/lib/R/site-library/BH/include/boost/shared_ptr.hpp:17,
+                 from sequence.h:19,
+                 from phaseshiftdist.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/shared_count.hpp:326:33: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  326 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/13/memory:78,
+                 from sequence.h:13:
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:354:31: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  354 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:365:22: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  365 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:423:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  423 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:430:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  430 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:432:38: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  432 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c sequence.cpp -o sequence.o
+In file included from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /usr/local/lib/R/site-library/BH/include/boost/shared_ptr.hpp:17,
+                 from sequence.h:19,
+                 from sequence.cpp:13:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/shared_count.hpp:326:33: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  326 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/13/memory:78,
+                 from sequence.cpp:10:
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:354:31: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  354 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:365:22: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  365 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:423:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  423 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:430:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  430 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:432:38: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  432 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c sequencelevenshteindistance.cpp -o sequencelevenshteindistance.o
+In file included from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /usr/local/lib/R/site-library/BH/include/boost/shared_ptr.hpp:17,
+                 from sequence.h:19,
+                 from sequencelevenshteindistance.cpp:3:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/shared_count.hpp:326:33: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  326 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/13/memory:78,
+                 from sequence.h:13:
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:354:31: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  354 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:365:22: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  365 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:423:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  423 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:430:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  430 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:432:38: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  432 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o DNABarcodeCompatibility.so DNABarcodes_init.o RcppExports.o cachedistance.o create_distance_func.o distance_for_R.o hammingdistance.o levenshteindistance.o phaseshiftdist.o sequence.o sequencelevenshteindistance.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-DNABarcodeCompatibility/00new/DNABarcodeCompatibility/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DNABarcodeCompatibility’ as ‘DNABarcodeCompatibility_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DNABarcodeCompatibility)
+
+The downloaded source packages are in
+	‘/tmp/RtmpLiYSiR/downloaded_packages’
+Old packages: 'commonmark', 'curl', 'diffobj', 'docopt', 'fs', 'gert',
+  'httpuv', 'httr2', 'jsonlite', 'knitr', 'later', 'littler', 'mime', 'miniUI',
+  'pillar', 'pkgbuild', 'preprocessCore', 'ps', 'ragg', 'rlang', 'sass',
+  'stringi', 'systemfonts', 'tinytex', 'xfun', 'xml2', 'foreign', 'lattice',
+  'mgcv', 'nlme'
+
+real	1m28.266s
+user	1m13.131s
+sys	0m19.018s

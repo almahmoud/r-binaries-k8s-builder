@@ -345,3 +345,9 @@ rhdf5filters
 clstutils
 ndexr
 sparseMatrixStats
+HubPub
+dupRadar
+multiClust
+mzID
+rhdf5
+statTarget
