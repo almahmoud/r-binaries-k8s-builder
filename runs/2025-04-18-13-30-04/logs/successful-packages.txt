@@ -1028,3 +1028,10 @@ ggspavis
 nnSVG
 CatsCradle
 escheR
+BioNet
+BulkSignalR
+OmicsMLRepoR
+poem
+smoppix
+sosta
+UCell

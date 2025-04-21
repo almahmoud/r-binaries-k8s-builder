@@ -1251,3 +1251,4 @@ simpleSeg
 SPIAT
 ADAMgui
 SpotSweeper
+gatom

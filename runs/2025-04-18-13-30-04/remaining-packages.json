@@ -290,7 +290,6 @@
     "edgeR",
     "annotate"
   ],
-  "BioNet": [],
   "BioQC": [
     "edgeR"
   ],
@@ -330,7 +329,6 @@
   "BufferedMatrixMethods": [
     "BufferedMatrix"
   ],
-  "BulkSignalR": [],
   "CAFE": [
     "biovizBase",
     "ggbio",
@@ -1957,7 +1955,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "OmicsMLRepoR": [],
   "OncoScore": [
     "biomaRt"
   ],
@@ -2556,7 +2553,6 @@
     "methylMnM"
   ],
   "SMITE": [
-    "BioNet",
     "goseq",
     "rtracklayer",
     "GenomicFeatures",
@@ -2865,7 +2861,6 @@
   "TurboNorm": [
     "convert"
   ],
-  "UCell": [],
   "UPDhmm": [
     "VariantAnnotation",
     "Rsamtools",
@@ -4203,7 +4198,6 @@
     "AUCell",
     "GSEABase",
     "GSVA",
-    "UCell",
     "annotate",
     "BiocSingular",
     "ExperimentHub",
@@ -4324,9 +4318,7 @@
     "GenomicAlignments"
   ],
   "gage": [],
-  "gatom": [
-    "BioNet"
-  ],
+  "gatom": [],
   "gcapc": [
     "BSgenome",
     "Rsamtools",
@@ -5380,7 +5372,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "poem": [],
   "pogos": [
     "ontoProc",
     "AnnotationHub"
@@ -6054,7 +6045,6 @@
     "annotate"
   ],
   "smoothclust": [],
-  "smoppix": [],
   "snifter": [],
   "soGGi": [
     "Rsamtools",
@@ -6063,7 +6053,6 @@
     "chipseq",
     "ShortRead"
   ],
-  "sosta": [],
   "sparrow": [
     "BiocSet",
     "edgeR",
