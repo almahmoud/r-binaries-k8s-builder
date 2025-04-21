@@ -580,7 +580,6 @@
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "CaDrA": [],
   "Cardinal": [
     "CardinalIO",
     "matter"
@@ -1443,7 +1442,6 @@
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "GenomicSuperSignature": [],
   "GenomicTuples": [],
   "GeoTcgaData": [],
   "Glimma": [
@@ -1511,7 +1509,6 @@
     "rtracklayer",
     "AnnotationDbi"
   ],
-  "HiCBricks": [],
   "HiCDCPlus": [
     "GenomicInteractions",
     "BSgenome",
@@ -3531,7 +3528,6 @@
     "gcrma",
     "AnnotationDbi"
   ],
-  "aggregateBioVar": [],
   "airpart": [
     "scater",
     "scuttle",
@@ -3827,7 +3823,6 @@
   ],
   "bnbc": [
     "sva",
-    "HiCBricks",
     "genefilter",
     "edgeR",
     "AnnotationDbi",
@@ -4953,7 +4948,6 @@
     "PSMatch",
     "vsn"
   ],
-  "flowBin": [],
   "flowCut": [],
   "flowGate": [
     "flowWorkspace",
@@ -5599,7 +5593,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "methyLImp2": [],
   "methylCC": [
     "minfi",
     "bsseq",
@@ -6230,7 +6223,6 @@
   "phenomis": [
     "ropls"
   ],
-  "phenopath": [],
   "pipeComp": [
     "scran",
     "scater",
