@@ -515,3 +515,12 @@ rSWeeP
 Structstrings
 tidytof
 wppi
+BPRMeth
+BREW3R.r
+CNVMetrics
+DMRcaller
+DMRScan
+epistasisGA
+GMRP
+GrafGen
+MEDME

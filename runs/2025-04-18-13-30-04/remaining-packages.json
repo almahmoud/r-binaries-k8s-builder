@@ -377,8 +377,6 @@
     "biomaRt",
     "BiocFileCache"
   ],
-  "BPRMeth": [],
-  "BREW3R.r": [],
   "BSgenome": [
     "rtracklayer",
     "Rsamtools",
@@ -863,7 +861,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "CNVMetrics": [],
   "CNVPanelizer": [
     "Rsamtools"
   ],
@@ -1478,8 +1475,6 @@
     "GenomicAlignments",
     "DelayedArray"
   ],
-  "DMRScan": [],
-  "DMRcaller": [],
   "DNABarcodes": [],
   "DNAshapeR": [],
   "DOSE": [
@@ -2139,7 +2134,6 @@
   "GEOsubmission": [
     "affy"
   ],
-  "GMRP": [],
   "GNET2": [
     "SummarizedExperiment",
     "DelayedArray"
@@ -2434,7 +2428,6 @@
     "AnnotationForge",
     "Rgraphviz"
   ],
-  "GrafGen": [],
   "GraphAT": [],
   "GreyListChIP": [
     "GenomicAlignments",
@@ -2998,7 +2991,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "MEDME": [],
   "MEIGOR": [
     "CNORode",
     "CellNOptR",
@@ -3307,9 +3299,7 @@
   "MeSHDbi": [
     "AnnotationDbi"
   ],
-  "Melissa": [
-    "BPRMeth"
-  ],
+  "Melissa": [],
   "Mergeomics": [],
   "MesKit": [
     "AnnotationDbi"
@@ -7994,7 +7984,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "epistasisGA": [],
   "epivizr": [
     "epivizrServer",
     "epivizrData",
