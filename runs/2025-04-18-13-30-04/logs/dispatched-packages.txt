@@ -772,3 +772,13 @@ hca
 rBLAST
 rpx
 tomoseqr
+CGHbase
+MSstats
+OLIN
+RBM
+arrayQuality
+convert
+dyebias
+nnNorm
+stepNorm
+timecourse

@@ -581,3 +581,10 @@ onlineFDR
 RIVER
 ROTS
 scatterHatch
+clusterStab
+DepInfeR
+easyreporting
+GraphAT
+marray
+RNASeqPower
+TPP2D

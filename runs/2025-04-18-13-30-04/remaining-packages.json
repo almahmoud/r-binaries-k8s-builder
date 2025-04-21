@@ -6,8 +6,7 @@
     "QDNAseq",
     "CGHbase",
     "CGHcall",
-    "Rsamtools",
-    "marray"
+    "Rsamtools"
   ],
   "ACME": [],
   "ADAM": [
@@ -751,21 +750,16 @@
     "GOSemSim"
   ],
   "CGEN": [],
-  "CGHbase": [
-    "marray"
-  ],
+  "CGHbase": [],
   "CGHcall": [
-    "CGHbase",
-    "marray"
+    "CGHbase"
   ],
   "CGHnormaliter": [
     "CGHcall",
-    "CGHbase",
-    "marray"
+    "CGHbase"
   ],
   "CGHregions": [
-    "CGHbase",
-    "marray"
+    "CGHbase"
   ],
   "CHETAH": [
     "SingleCellExperiment",
@@ -1215,7 +1209,6 @@
     "MultiAssayExperiment",
     "piano",
     "DelayedArray",
-    "marray",
     "fgsea"
   ],
   "Cormotif": [
@@ -1542,7 +1535,6 @@
     "beachmat",
     "h5mread"
   ],
-  "DepInfeR": [],
   "DepecheR": [
     "mixOmics"
   ],
@@ -2118,7 +2110,6 @@
     "QDNAseq",
     "CGHcall",
     "CGHbase",
-    "marray",
     "Rsamtools"
   ],
   "GeneMeta": [
@@ -2280,7 +2271,6 @@
     "AnnotationForge",
     "Rgraphviz"
   ],
-  "GraphAT": [],
   "GreyListChIP": [
     "GenomicAlignments",
     "BSgenome",
@@ -3008,22 +2998,17 @@
     "MetaboCoreUtils",
     "DelayedArray"
   ],
-  "MSstats": [
-    "marray"
-  ],
+  "MSstats": [],
   "MSstatsBig": [
-    "MSstats",
-    "marray"
+    "MSstats"
   ],
   "MSstatsBioNet": [
     "MSstats",
-    "RCy3",
-    "marray"
+    "RCy3"
   ],
   "MSstatsPTM": [
     "MSstatsTMT",
-    "MSstats",
-    "marray"
+    "MSstats"
   ],
   "MSstatsQC": [
     "MSnbase",
@@ -3055,12 +3040,10 @@
   "MSstatsShiny": [
     "MSstats",
     "MSstatsTMT",
-    "MSstatsPTM",
-    "marray"
+    "MSstatsPTM"
   ],
   "MSstatsTMT": [
-    "MSstats",
-    "marray"
+    "MSstats"
   ],
   "MWASTools": [
     "SummarizedExperiment",
@@ -3233,7 +3216,6 @@
   "MineICA": [
     "biomaRt",
     "GOstats",
-    "marray",
     "Rgraphviz",
     "annotate",
     "AnnotationDbi",
@@ -3527,12 +3509,9 @@
     "AnnotationFilter",
     "DelayedArray"
   ],
-  "OLIN": [
-    "marray"
-  ],
+  "OLIN": [],
   "OLINgui": [
-    "OLIN",
-    "marray"
+    "OLIN"
   ],
   "OMICsPCA": [
     "HelloRanges",
@@ -3672,7 +3651,6 @@
     "genefu",
     "biomaRt",
     "DelayedArray",
-    "marray",
     "fgsea",
     "AnnotationDbi"
   ],
@@ -3897,8 +3875,7 @@
   "QDNAseq": [
     "CGHbase",
     "CGHcall",
-    "Rsamtools",
-    "marray"
+    "Rsamtools"
   ],
   "QFeatures": [
     "MultiAssayExperiment",
@@ -3978,9 +3955,7 @@
     "DelayedArray"
   ],
   "RBGL": [],
-  "RBM": [
-    "marray"
-  ],
+  "RBM": [],
   "RCAS": [
     "BSgenome",
     "rtracklayer",
@@ -4096,7 +4071,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "RNASeqPower": [],
   "RNAmodR": [
     "Modstrings",
     "txdbmaker",
@@ -4258,7 +4232,6 @@
     "MultiAssayExperiment",
     "piano",
     "DelayedArray",
-    "marray",
     "fgsea"
   ],
   "RaggedExperiment": [
@@ -5217,7 +5190,6 @@
     "DelayedArray"
   ],
   "TPP": [],
-  "TPP2D": [],
   "TREG": [
     "SummarizedExperiment",
     "DelayedArray"
@@ -5277,7 +5249,6 @@
     "MultiAssayExperiment",
     "piano",
     "DelayedArray",
-    "marray",
     "fgsea"
   ],
   "TrajectoryUtils": [
@@ -5296,7 +5267,6 @@
   ],
   "TurboNorm": [
     "convert",
-    "marray",
     "affy"
   ],
   "UCell": [
@@ -5806,9 +5776,7 @@
     "h5mread",
     "multtest"
   ],
-  "arrayQuality": [
-    "marray"
-  ],
+  "arrayQuality": [],
   "arrayQualityMetrics": [
     "affy",
     "affyPLM",
@@ -5821,8 +5789,7 @@
   ],
   "artMS": [
     "AnnotationDbi",
-    "MSstats",
-    "marray"
+    "MSstats"
   ],
   "atSNP": [
     "BSgenome",
@@ -6604,7 +6571,6 @@
     "baySeq",
     "edgeR"
   ],
-  "clusterStab": [],
   "clustifyr": [
     "fgsea",
     "SingleCellExperiment",
@@ -6744,9 +6710,7 @@
     "h5mread",
     "multtest"
   ],
-  "convert": [
-    "marray"
-  ],
+  "convert": [],
   "corral": [
     "MultiAssayExperiment",
     "SingleCellExperiment",
@@ -7345,9 +7309,7 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "dyebias": [
-    "marray"
-  ],
+  "dyebias": [],
   "easier": [
     "progeny",
     "quantiseqr",
@@ -7376,7 +7338,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "easyreporting": [],
   "ecolitk": [],
   "edge": [
     "sva",
@@ -8692,7 +8653,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "marray": [],
   "maser": [
     "rtracklayer",
     "Gviz",
@@ -8908,7 +8868,6 @@
   "methylPipe": [
     "SummarizedExperiment",
     "Rsamtools",
-    "marray",
     "Gviz",
     "GenomicAlignments",
     "rtracklayer",
@@ -9526,9 +9485,7 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "nnNorm": [
-    "marray"
-  ],
+  "nnNorm": [],
   "nnSVG": [
     "SpatialExperiment",
     "SingleCellExperiment",
@@ -9876,7 +9833,6 @@
     "multtest"
   ],
   "piano": [
-    "marray",
     "fgsea"
   ],
   "pipeComp": [
@@ -11459,9 +11415,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "stepNorm": [
-    "marray"
-  ],
+  "stepNorm": [],
   "strandCheckR": [
     "Rsamtools",
     "GenomicAlignments",
@@ -11674,9 +11628,7 @@
   "timeOmics": [
     "mixOmics"
   ],
-  "timecourse": [
-    "marray"
-  ],
+  "timecourse": [],
   "tomoda": [
     "SummarizedExperiment",
     "DelayedArray"
