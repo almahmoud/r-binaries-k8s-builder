@@ -504,7 +504,6 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "CDI": [],
   "CEMiTool": [
     "clusterProfiler",
     "AnnotationDbi",
@@ -1586,7 +1585,6 @@
     "VariantAnnotation"
   ],
   "HERON": [],
-  "HIPPO": [],
   "HTSFilter": [
     "edgeR",
     "DESeq2"
@@ -5275,7 +5273,6 @@
     "GenomicAlignments"
   ],
   "fgga": [],
-  "fishpond": [],
   "flagme": [
     "xcms",
     "CAMERA",
@@ -7263,7 +7260,6 @@
     "TrajectoryUtils"
   ],
   "scRecover": [],
-  "scRepertoire": [],
   "scTGIF": [
     "GSEABase",
     "schex",
@@ -7837,16 +7833,13 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "tidySingleCellExperiment": [],
   "tidySpatialExperiment": [
-    "SpatialExperiment",
-    "tidySingleCellExperiment"
+    "SpatialExperiment"
   ],
   "tidySummarizedExperiment": [],
   "tidybulk": [],
   "tidyomics": [
     "tidySummarizedExperiment",
-    "tidySingleCellExperiment",
     "tidybulk",
     "plyranges",
     "nullranges",

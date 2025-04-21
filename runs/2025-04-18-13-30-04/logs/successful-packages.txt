@@ -809,3 +809,8 @@ waddR
 zellkonverter
 GloScope
 scDataviz
+CDI
+fishpond
+HIPPO
+scRepertoire
+tidySingleCellExperiment
