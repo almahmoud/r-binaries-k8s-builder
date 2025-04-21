@@ -1250,3 +1250,4 @@ cytoviewer
 simpleSeg
 SPIAT
 ADAMgui
+SpotSweeper

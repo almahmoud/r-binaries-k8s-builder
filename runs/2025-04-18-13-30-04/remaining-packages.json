@@ -511,7 +511,6 @@
     "genefilter",
     "annotate"
   ],
-  "CatsCradle": [],
   "CeTF": [
     "clusterProfiler",
     "DOSE",
@@ -2713,9 +2712,7 @@
     "scuttle"
   ],
   "SpotClean": [],
-  "SpotSweeper": [
-    "escheR"
-  ],
+  "SpotSweeper": [],
   "StabMap": [
     "BiocSingular"
   ],
@@ -4212,7 +4209,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "escheR": [],
   "esetVis": [
     "MLP"
   ],
