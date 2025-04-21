@@ -306,3 +306,10 @@ Pedixplorer
 roastgsa
 UCSC.utils
 VERSO
+assorthead
+IRanges
+metabCombiner
+ribor
+SCBN
+sevenbridges
+sights

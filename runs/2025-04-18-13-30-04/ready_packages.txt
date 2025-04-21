@@ -1,0 +1,11 @@
+BiocNeighbors
+BumpyMatrix
+ComplexHeatmap
+DirichletMultinomial
+GenomeInfoDb
+S4Arrays
+XVector
+alabaster.base
+dStruct
+derfinderHelper
+nucleoSim
