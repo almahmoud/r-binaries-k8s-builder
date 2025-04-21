@@ -157,3 +157,11 @@ RDRToolbox
 RedeR
 retrofit
 RLMM
+calm
+DeMAND
+DiffLogo
+GRENITS
+HIREewas
+Omixer
+PANR
+plotGrouper

@@ -3765,7 +3765,6 @@
     "biomaRt",
     "BiocFileCache"
   ],
-  "DeMAND": [],
   "DeMixT": [
     "SummarizedExperiment",
     "DSS",
@@ -4008,7 +4007,6 @@
     "UCSC.utils",
     "pwalign"
   ],
-  "DiffLogo": [],
   "DifferentialRegulation": [
     "BANDITS",
     "SingleCellExperiment",
@@ -5275,7 +5273,6 @@
     "UCSC.utils"
   ],
   "GPA": [],
-  "GRENITS": [],
   "GRmetrics": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -6054,7 +6051,6 @@
     "Biobase",
     "UCSC.utils"
   ],
-  "HIREewas": [],
   "HMMcopy": [],
   "HPAanalyze": [],
   "HPiP": [],
@@ -9448,7 +9444,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "Omixer": [],
   "OmnipathR": [],
   "OncoScore": [
     "biomaRt",
@@ -9599,7 +9594,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "PANR": [],
   "PAST": [
     "qvalue",
     "rtracklayer",
@@ -16317,7 +16311,6 @@
     "biomaRt",
     "BiocFileCache"
   ],
-  "calm": [],
   "canceR": [
     "cBioPortalData",
     "GSEABase",
@@ -25772,7 +25765,6 @@
     "affyio",
     "preprocessCore"
   ],
-  "plotGrouper": [],
   "plotgardener": [
     "GenomeInfoDb",
     "GenomicRanges",
