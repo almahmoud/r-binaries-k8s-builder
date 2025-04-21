@@ -1,1 +1,2 @@
-gcatest
+Biostrings
+GenomicRanges

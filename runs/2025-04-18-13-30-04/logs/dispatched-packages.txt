@@ -620,3 +620,5 @@ hypergraph
 rebook
 rsbml
 gcatest
+Biostrings
+GenomicRanges
