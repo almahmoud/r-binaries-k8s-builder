@@ -155,7 +155,6 @@
     "SparseArray",
     "BiocBaseUtils"
   ],
-  "ASSET": [],
   "ASSIGN": [
     "sva",
     "genefilter",
@@ -1074,7 +1073,6 @@
   "CATALYST": [
     "SingleCellExperiment",
     "ConsensusClusterPlus",
-    "flowCore",
     "FlowSOM",
     "SummarizedExperiment",
     "scater",
@@ -1298,7 +1296,6 @@
   ],
   "COMPASS": [],
   "CONFESS": [
-    "flowCore",
     "flowClust",
     "flowMeans",
     "flowMerge",
@@ -1883,12 +1880,9 @@
     "GenomicRanges",
     "GenomeInfoDb"
   ],
-  "CytoDx": [
-    "flowCore"
-  ],
+  "CytoDx": [],
   "CytoGLMM": [],
   "CytoMDS": [
-    "flowCore",
     "CytoPipeline",
     "ggcyto",
     "BiocFileCache",
@@ -1903,7 +1897,6 @@
     "SparseArray"
   ],
   "CytoML": [
-    "flowCore",
     "flowWorkspace",
     "openCyto",
     "RBGL",
@@ -1919,7 +1912,6 @@
   "CytoPipeline": [
     "ggcyto",
     "BiocFileCache",
-    "flowCore",
     "PeacoQC",
     "flowAI",
     "ncdfFlow",
@@ -1932,7 +1924,6 @@
   ],
   "CytoPipelineGUI": [
     "CytoPipeline",
-    "flowCore",
     "ggcyto",
     "BiocFileCache",
     "PeacoQC",
@@ -2452,7 +2443,6 @@
   ],
   "EBSEA": [
     "DESeq2",
-    "EmpiricalBrownsMethod",
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
@@ -2607,7 +2597,6 @@
     "Biostrings",
     "GenomeInfoDb"
   ],
-  "EmpiricalBrownsMethod": [],
   "EnMCB": [
     "BiocFileCache"
   ],
@@ -2896,8 +2885,7 @@
     "SparseArray"
   ],
   "FlowSOM": [
-    "ConsensusClusterPlus",
-    "flowCore"
+    "ConsensusClusterPlus"
   ],
   "FuseSOM": [
     "SummarizedExperiment",
@@ -3229,7 +3217,6 @@
     "Biostrings"
   ],
   "GateFinder": [
-    "flowCore",
     "flowFP",
     "flowViz"
   ],
@@ -3588,8 +3575,6 @@
     "SparseArray",
     "GenomeInfoDb"
   ],
-  "HMMcopy": [],
-  "HPiP": [],
   "HTSFilter": [
     "edgeR",
     "DESeq2",
@@ -3633,7 +3618,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "Herper": [],
   "HiCBricks": [
     "GenomeInfoDb",
     "GenomicRanges"
@@ -4204,9 +4188,7 @@
     "AnnotationFilter",
     "BiocBaseUtils"
   ],
-  "MAPFX": [
-    "flowCore"
-  ],
+  "MAPFX": [],
   "MBASED": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -4215,7 +4197,6 @@
     "SparseArray"
   ],
   "MBAmethyl": [],
-  "MBCB": [],
   "MBECS": [
     "phyloseq",
     "sva",
@@ -4641,25 +4622,20 @@
     "SparseArray"
   ],
   "MSstats": [
-    "MSstatsConvert",
     "marray"
   ],
   "MSstatsBig": [
     "MSstats",
-    "MSstatsConvert",
     "marray"
   ],
   "MSstatsBioNet": [
     "MSstats",
     "RCy3",
-    "MSstatsConvert",
     "marray",
     "graph"
   ],
-  "MSstatsConvert": [],
   "MSstatsPTM": [
     "MSstatsTMT",
-    "MSstatsConvert",
     "MSstats",
     "Biostrings",
     "GenomeInfoDb",
@@ -4667,7 +4643,6 @@
   ],
   "MSstatsQC": [
     "MSnbase",
-    "qcmetrics",
     "PSMatch",
     "vsn",
     "affy",
@@ -4686,7 +4661,6 @@
   "MSstatsQCgui": [
     "MSstatsQC",
     "MSnbase",
-    "qcmetrics",
     "PSMatch",
     "vsn",
     "affy",
@@ -4706,14 +4680,12 @@
     "MSstats",
     "MSstatsTMT",
     "MSstatsPTM",
-    "MSstatsConvert",
     "marray",
     "Biostrings",
     "GenomeInfoDb"
   ],
   "MSstatsTMT": [
     "MSstats",
-    "MSstatsConvert",
     "marray"
   ],
   "MWASTools": [
@@ -4789,7 +4761,6 @@
     "Biostrings",
     "GenomeInfoDb"
   ],
-  "MeasurementError.cor": [],
   "Melissa": [
     "BPRMeth",
     "GenomicRanges",
@@ -4815,7 +4786,6 @@
     "SparseArray"
   ],
   "MetaCyto": [
-    "flowCore",
     "FlowSOM",
     "ConsensusClusterPlus"
   ],
@@ -4966,7 +4936,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "Mfuzz": [],
   "MiChip": [],
   "MiPP": [],
   "MiRaGE": [
@@ -5261,7 +5230,6 @@
     "SparseArray"
   ],
   "MultiRNAflow": [
-    "Mfuzz",
     "DESeq2",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -5402,9 +5370,7 @@
     "affy",
     "SparseArray"
   ],
-  "NormqPCR": [
-    "ReadqPCR"
-  ],
+  "NormqPCR": [],
   "OCplus": [
     "multtest"
   ],
@@ -5845,7 +5811,6 @@
     "SparseArray"
   ],
   "PeacoQC": [
-    "flowCore",
     "flowWorkspace",
     "graph",
     "RBGL",
@@ -6182,9 +6147,7 @@
   "RCyjs": [
     "graph"
   ],
-  "REBET": [
-    "ASSET"
-  ],
+  "REBET": [],
   "REMP": [
     "SummarizedExperiment",
     "minfi",
@@ -6662,7 +6625,6 @@
     "Biostrings",
     "GenomeInfoDb"
   ],
-  "ReadqPCR": [],
   "RedisParam": [],
   "RegEnrich": [
     "BiocSet",
@@ -7299,9 +7261,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "Sconify": [
-    "flowCore"
-  ],
+  "Sconify": [],
   "ScreenR": [
     "edgeR"
   ],
@@ -7685,7 +7645,6 @@
     "diffcyt",
     "edgeR",
     "SparseArray",
-    "flowCore",
     "FlowSOM",
     "ConsensusClusterPlus"
   ],
@@ -8095,7 +8054,6 @@
     "BiocFileCache",
     "SparseArray"
   ],
-  "TaxSEA": [],
   "TileDBArray": [
     "SparseArray",
     "DelayedArray"
@@ -8930,7 +8888,6 @@
     "AnnotationDbi",
     "MSstats",
     "KEGGREST",
-    "MSstatsConvert",
     "marray",
     "Biostrings",
     "GenomeInfoDb"
@@ -9712,7 +9669,6 @@
     "diffcyt",
     "edgeR",
     "SummarizedExperiment",
-    "flowCore",
     "FlowSOM",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -10091,7 +10047,6 @@
     "SparseArray"
   ],
   "cmapR": [
-    "flowCore",
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -10634,19 +10589,15 @@
     "SparseArray"
   ],
   "cyanoFilter": [
-    "flowCore",
     "flowDensity",
     "flowClust",
     "graph",
     "flowViz"
   ],
-  "cycle": [
-    "Mfuzz"
-  ],
+  "cycle": [],
   "cydar": [
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "flowCore",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -10670,12 +10621,9 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "cytoMEM": [
-    "flowCore"
-  ],
+  "cytoMEM": [],
   "cytofQC": [
     "CATALYST",
-    "flowCore",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "ConsensusClusterPlus",
@@ -10789,7 +10737,6 @@
   "dcGSA": [],
   "ddCt": [],
   "ddPCRclust": [
-    "flowCore",
     "flowDensity",
     "flowViz"
   ],
@@ -11037,7 +10984,6 @@
     "Biostrings"
   ],
   "diffcyt": [
-    "flowCore",
     "FlowSOM",
     "SummarizedExperiment",
     "edgeR",
@@ -11801,45 +11747,30 @@
     "AnnotationFilter",
     "BiocBaseUtils"
   ],
-  "flowAI": [
-    "flowCore"
-  ],
-  "flowBeads": [
-    "flowCore"
-  ],
+  "flowAI": [],
+  "flowBeads": [],
   "flowBin": [
-    "flowCore",
     "flowFP",
     "flowViz"
   ],
-  "flowCHIC": [
-    "flowCore"
-  ],
-  "flowClean": [
-    "flowCore"
-  ],
+  "flowCHIC": [],
+  "flowClean": [],
   "flowClust": [
-    "graph",
-    "flowCore"
+    "graph"
   ],
-  "flowCore": [],
   "flowCut": [
-    "flowCore",
     "flowDensity",
     "flowViz"
   ],
   "flowDensity": [
-    "flowCore",
     "flowViz"
   ],
   "flowFP": [
-    "flowCore",
     "flowViz"
   ],
   "flowGate": [
     "flowWorkspace",
     "ggcyto",
-    "flowCore",
     "graph",
     "RBGL",
     "Rgraphviz",
@@ -11847,26 +11778,16 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "flowMatch": [
-    "flowCore"
-  ],
-  "flowMeans": [
-    "flowCore"
-  ],
+  "flowMatch": [],
+  "flowMeans": [],
   "flowMerge": [
     "graph",
     "flowClust",
-    "Rgraphviz",
-    "flowCore"
+    "Rgraphviz"
   ],
-  "flowPloidy": [
-    "flowCore"
-  ],
-  "flowSpecs": [
-    "flowCore"
-  ],
+  "flowPloidy": [],
+  "flowSpecs": [],
   "flowStats": [
-    "flowCore",
     "flowWorkspace",
     "ncdfFlow",
     "flowViz",
@@ -11876,17 +11797,13 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "flowTime": [
-    "flowCore"
-  ],
+  "flowTime": [],
   "flowTrans": [
-    "flowCore",
     "flowViz",
     "flowClust",
     "graph"
   ],
   "flowVS": [
-    "flowCore",
     "flowViz",
     "flowStats",
     "flowWorkspace",
@@ -11897,14 +11814,11 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "flowViz": [
-    "flowCore"
-  ],
+  "flowViz": [],
   "flowWorkspace": [
     "graph",
     "RBGL",
     "Rgraphviz",
-    "flowCore",
     "ncdfFlow",
     "DelayedArray",
     "SparseArray"
@@ -12235,7 +12149,6 @@
     "BiocFileCache"
   ],
   "ggcyto": [
-    "flowCore",
     "ncdfFlow",
     "flowWorkspace",
     "graph",
@@ -12654,7 +12567,6 @@
     "multtest"
   ],
   "iChip": [],
-  "iClusterPlus": [],
   "iNETgrate": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -12882,10 +12794,7 @@
     "GenomeInfoDb",
     "h5mread"
   ],
-  "immunoClust": [
-    "flowCore"
-  ],
-  "immunotation": [],
+  "immunoClust": [],
   "infercnv": [
     "edgeR",
     "SummarizedExperiment",
@@ -12895,9 +12804,7 @@
     "GenomeInfoDb",
     "SparseArray"
   ],
-  "infinityFlow": [
-    "flowCore"
-  ],
+  "infinityFlow": [],
   "intansv": [
     "ggbio",
     "GenomicRanges",
@@ -14470,9 +14377,7 @@
     "GenomicRanges",
     "GenomeInfoDb"
   ],
-  "ncdfFlow": [
-    "flowCore"
-  ],
+  "ncdfFlow": [],
   "nearBynding": [
     "plyranges",
     "Rsamtools",
@@ -14716,7 +14621,6 @@
     "Biostrings"
   ],
   "openCyto": [
-    "flowCore",
     "flowViz",
     "ncdfFlow",
     "flowWorkspace",
@@ -14760,8 +14664,7 @@
     "Biostrings"
   ],
   "optimalFlow": [
-    "flowMeans",
-    "flowCore"
+    "flowMeans"
   ],
   "orthogene": [
     "DelayedArray",
@@ -15494,7 +15397,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "qcmetrics": [],
   "qmtools": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -15524,7 +15426,6 @@
   ],
   "qsea": [
     "Biostrings",
-    "HMMcopy",
     "rtracklayer",
     "BSgenome",
     "GenomicRanges",
@@ -15723,7 +15624,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "randRotation": [],
   "rawDiag": [],
   "rebook": [
     "graph"
@@ -16057,7 +15957,6 @@
   "rsbml": [
     "graph"
   ],
-  "rsemmed": [],
   "rtracklayer": [
     "GenomicRanges",
     "GenomeInfoDb",
@@ -16242,7 +16141,6 @@
   ],
   "scDataviz": [
     "SingleCellExperiment",
-    "flowCore",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
@@ -16393,7 +16291,6 @@
     "GenomicRanges",
     "GenomeInfoDb"
   ],
-  "scMitoMut": [],
   "scMultiSim": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -16588,7 +16485,6 @@
     "Biostrings",
     "DECIPHER",
     "sangerseqR",
-    "flowCore",
     "GenomeInfoDb",
     "pwalign"
   ],
@@ -17371,7 +17267,6 @@
     "CATALYST",
     "SingleCellExperiment",
     "ConsensusClusterPlus",
-    "flowCore",
     "FlowSOM",
     "scater",
     "GenomicRanges",
@@ -17799,9 +17694,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "tidyFlowCore": [
-    "flowCore"
-  ],
+  "tidyFlowCore": [],
   "tidySingleCellExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -17853,9 +17746,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "tidytof": [
-    "flowCore"
-  ],
+  "tidytof": [],
   "tigre": [
     "AnnotationDbi",
     "annotate",
@@ -18034,7 +17925,6 @@
     "edgeR",
     "SummarizedExperiment",
     "diffcyt",
-    "flowCore",
     "FlowSOM",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -18049,7 +17939,6 @@
     "SingleCellExperiment",
     "diffcyt",
     "edgeR",
-    "flowCore",
     "FlowSOM",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -18178,7 +18067,6 @@
     "GenomeInfoDb"
   ],
   "variancePartition": [],
-  "vbmp": [],
   "velociraptor": [
     "SummarizedExperiment",
     "DelayedArray",
@@ -18192,7 +18080,6 @@
     "GenomicRanges",
     "GenomeInfoDb"
   ],
-  "veloviz": [],
   "vidger": [
     "DESeq2",
     "edgeR",
@@ -18277,7 +18164,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "weaver": [],
   "webbioc": [
     "affy",
     "multtest",
