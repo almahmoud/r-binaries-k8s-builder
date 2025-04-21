@@ -864,3 +864,9 @@ CAEN
 ccfindR
 HiCExperiment
 iSEEindex
+clustifyr
+iSEEpathways
+MultiDataSet
+RTN
+SpatialExperiment
+VDJdive

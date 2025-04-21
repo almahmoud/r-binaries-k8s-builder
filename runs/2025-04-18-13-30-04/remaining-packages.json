@@ -57,8 +57,7 @@
     "BSgenome"
   ],
   "ASICS": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
   "ASSIGN": [
     "sva",
@@ -273,9 +272,7 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "Banksy": [
-    "SpatialExperiment"
-  ],
+  "Banksy": [],
   "BaseSpaceR": [],
   "Basic4Cseq": [
     "GenomicAlignments",
@@ -402,9 +399,7 @@
   "BufferedMatrixMethods": [
     "BufferedMatrix"
   ],
-  "BulkSignalR": [
-    "SpatialExperiment"
-  ],
+  "BulkSignalR": [],
   "CAFE": [
     "biovizBase",
     "ggbio",
@@ -464,9 +459,7 @@
     "vsn",
     "affy"
   ],
-  "CARDspa": [
-    "SpatialExperiment"
-  ],
+  "CARDspa": [],
   "CATALYST": [
     "ConsensusClusterPlus",
     "FlowSOM",
@@ -591,9 +584,7 @@
     "Rsamtools",
     "AnnotationDbi"
   ],
-  "CTSV": [
-    "SpatialExperiment"
-  ],
+  "CTSV": [],
   "CTdata": [
     "ExperimentHub",
     "AnnotationHub",
@@ -619,9 +610,7 @@
     "genefilter",
     "annotate"
   ],
-  "CatsCradle": [
-    "SpatialExperiment"
-  ],
+  "CatsCradle": [],
   "CeTF": [
     "clusterProfiler",
     "DESeq2",
@@ -881,7 +870,6 @@
   "DESeq2": [],
   "DESpace": [
     "edgeR",
-    "SpatialExperiment",
     "scuttle",
     "beachmat"
   ],
@@ -985,7 +973,6 @@
     "edgeR",
     "BiocSingular",
     "beachmat",
-    "SpatialExperiment",
     "scater",
     "rtracklayer",
     "Rsamtools",
@@ -1233,7 +1220,6 @@
     "biomaRt"
   ],
   "ExperimentSubset": [
-    "SpatialExperiment",
     "TreeSummarizedExperiment"
   ],
   "ExpressionAtlas": [],
@@ -1411,7 +1397,6 @@
   ],
   "GSVA": [
     "GSEABase",
-    "SpatialExperiment",
     "DelayedMatrixStats",
     "BiocSingular",
     "beachmat",
@@ -1818,7 +1803,6 @@
     "Rsamtools"
   ],
   "MEAL": [
-    "MultiDataSet",
     "minfi",
     "Gviz",
     "missMethyl",
@@ -2175,9 +2159,7 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "MoleculeExperiment": [
-    "SpatialExperiment"
-  ],
+  "MoleculeExperiment": [],
   "Moonlight2R": [
     "clusterProfiler",
     "DOSE",
@@ -2267,10 +2249,8 @@
     "MetaboCoreUtils"
   ],
   "MultiBaC": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
-  "MultiDataSet": [],
   "MultiRNAflow": [
     "DESeq2"
   ],
@@ -2808,12 +2788,8 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "RTN": [],
-  "RTNduals": [
-    "RTN"
-  ],
+  "RTNduals": [],
   "RTNsurvival": [
-    "RTN",
     "RTNduals"
   ],
   "RUCova": [],
@@ -3063,9 +3039,7 @@
     "GenomicAlignments"
   ],
   "SCnorm": [],
-  "SEraster": [
-    "SpatialExperiment"
-  ],
+  "SEraster": [],
   "SEtools": [
     "sechm",
     "DESeq2",
@@ -3127,7 +3101,6 @@
   ],
   "SPEM": [],
   "SPIAT": [
-    "SpatialExperiment",
     "dittoSeq"
   ],
   "SPLINTER": [
@@ -3162,7 +3135,6 @@
     "GOSemSim"
   ],
   "SVP": [
-    "SpatialExperiment",
     "DelayedMatrixStats"
   ],
   "SWATH2stats": [
@@ -3259,7 +3231,6 @@
   "SpaNorm": [
     "edgeR",
     "scran",
-    "SpatialExperiment",
     "scuttle",
     "BiocSingular",
     "beachmat"
@@ -3270,7 +3241,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "SpatialExperiment": [],
   "Spectra": [
     "MetaboCoreUtils"
   ],
@@ -3302,11 +3272,8 @@
     "scuttle",
     "beachmat"
   ],
-  "SpotClean": [
-    "SpatialExperiment"
-  ],
+  "SpotClean": [],
   "SpotSweeper": [
-    "SpatialExperiment",
     "escheR"
   ],
   "StabMap": [
@@ -3314,7 +3281,6 @@
     "beachmat"
   ],
   "Statial": [
-    "SpatialExperiment",
     "treekoR",
     "hopach",
     "diffcyt",
@@ -3352,7 +3318,6 @@
     "singscore",
     "sva",
     "GSEABase",
-    "SpatialExperiment",
     "DelayedMatrixStats",
     "BiocSingular",
     "beachmat",
@@ -3553,7 +3518,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "VDJdive": [],
   "VaSP": [
     "ballgown",
     "GenomicAlignments",
@@ -3620,8 +3584,7 @@
     "AnnotationDbi"
   ],
   "VisiumIO": [
-    "TENxIO",
-    "SpatialExperiment"
+    "TENxIO"
   ],
   "VplotR": [
     "GenomicAlignments",
@@ -3635,7 +3598,6 @@
   ],
   "XeniumIO": [
     "TENxIO",
-    "SpatialExperiment",
     "VisiumIO"
   ],
   "YAPSA": [
@@ -3747,7 +3709,6 @@
     "alabaster.spatial",
     "alabaster.vcf",
     "alabaster.mae",
-    "SpatialExperiment",
     "VariantAnnotation",
     "Rsamtools",
     "AnnotationDbi",
@@ -3772,7 +3733,6 @@
     "alabaster.ranges"
   ],
   "alabaster.spatial": [
-    "SpatialExperiment",
     "alabaster.sce",
     "alabaster.se",
     "alabaster.ranges"
@@ -4015,7 +3975,6 @@
     "VariantAnnotation"
   ],
   "biosigner": [
-    "MultiDataSet",
     "ropls"
   ],
   "biovizBase": [
@@ -4371,7 +4330,6 @@
     "QFeatures"
   ],
   "clustSIGNAL": [
-    "SpatialExperiment",
     "scater",
     "scuttle",
     "beachmat",
@@ -4397,7 +4355,6 @@
     "baySeq",
     "edgeR"
   ],
-  "clustifyr": [],
   "cn.mops": [
     "Rsamtools"
   ],
@@ -4434,9 +4391,7 @@
   "compcodeR": [
     "edgeR"
   ],
-  "concordexR": [
-    "SpatialExperiment"
-  ],
+  "concordexR": [],
   "condiments": [
     "slingshot",
     "TrajectoryUtils",
@@ -4465,7 +4420,6 @@
     "genefu",
     "biomaRt",
     "GSEABase",
-    "SpatialExperiment",
     "DelayedMatrixStats",
     "BiocSingular",
     "beachmat",
@@ -4682,12 +4636,9 @@
     "beachmat",
     "BiocSingular"
   ],
-  "cytomapper": [
-    "SpatialExperiment"
-  ],
+  "cytomapper": [],
   "cytoviewer": [
-    "cytomapper",
-    "SpatialExperiment"
+    "cytomapper"
   ],
   "dada2": [
     "ShortRead",
@@ -5118,15 +5069,12 @@
     "DelayedMatrixStats",
     "annotate",
     "AnnotationDbi",
-    "SpatialExperiment",
     "BiocSingular",
     "ExperimentHub",
     "AnnotationHub",
     "beachmat"
   ],
-  "escheR": [
-    "SpatialExperiment"
-  ],
+  "escheR": [],
   "esetVis": [
     "MLP",
     "AnnotationDbi"
@@ -5366,9 +5314,7 @@
   "ggmanh": [
     "SeqArray"
   ],
-  "ggspavis": [
-    "SpatialExperiment"
-  ],
+  "ggspavis": [],
   "ginmappeR": [
     "UniProt.ws",
     "AnnotationDbi"
@@ -5496,9 +5442,7 @@
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "hoodscanR": [
-    "SpatialExperiment"
-  ],
+  "hoodscanR": [],
   "hopach": [],
   "hpar": [
     "ExperimentHub",
@@ -5566,7 +5510,6 @@
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "iSEEpathways": [],
   "iSEEtree": [
     "miaViz",
     "mia",
@@ -5608,7 +5551,6 @@
   ],
   "igvShiny": [],
   "imcRtools": [
-    "SpatialExperiment",
     "scuttle",
     "cytomapper",
     "beachmat"
@@ -5655,9 +5597,7 @@
   ],
   "iterativeBMAsurv": [],
   "ivygapSE": [],
-  "jazzPanda": [
-    "SpatialExperiment"
-  ],
+  "jazzPanda": [],
   "keggorthology": [
     "AnnotationDbi"
   ],
@@ -5703,12 +5643,10 @@
     "GenomicAlignments"
   ],
   "lipidr": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
   "lisaClust": [
     "spicyR",
-    "SpatialExperiment",
     "simpleSeg",
     "cytomapper",
     "ClassifyR",
@@ -6360,9 +6298,7 @@
     "AnnotationDbi"
   ],
   "nipalsMCIA": [],
-  "nnSVG": [
-    "SpatialExperiment"
-  ],
+  "nnSVG": [],
   "npGSEA": [
     "GSEABase",
     "annotate",
@@ -6394,7 +6330,6 @@
   ],
   "omicRexposome": [
     "sva",
-    "MultiDataSet",
     "genefilter",
     "edgeR",
     "AnnotationDbi",
@@ -6420,7 +6355,6 @@
     "GSVA",
     "annotate",
     "AnnotationDbi",
-    "SpatialExperiment",
     "DelayedMatrixStats",
     "BiocSingular",
     "beachmat"
@@ -6497,7 +6431,6 @@
     "GSVA",
     "singscore",
     "GSEABase",
-    "SpatialExperiment",
     "DelayedMatrixStats",
     "BiocSingular",
     "edgeR",
@@ -6562,7 +6495,6 @@
     "genefilter"
   ],
   "phenomis": [
-    "MultiDataSet",
     "ropls"
   ],
   "phenopath": [],
@@ -6608,9 +6540,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "poem": [
-    "SpatialExperiment"
-  ],
+  "poem": [],
   "pogos": [
     "ontoProc",
     "AnnotationHub",
@@ -6982,12 +6912,9 @@
     "rtracklayer",
     "Rsamtools"
   ],
-  "ropls": [
-    "MultiDataSet"
-  ],
+  "ropls": [],
   "rqt": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
   "rrvgo": [
     "GOSemSim",
@@ -7093,7 +7020,6 @@
     "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
-    "SpatialExperiment",
     "BiocSingular",
     "edgeR",
     "scran",
@@ -7176,9 +7102,7 @@
   "scde": [
     "edgeR"
   ],
-  "scider": [
-    "SpatialExperiment"
-  ],
+  "scider": [],
   "scone": [
     "edgeR",
     "RUVSeq",
@@ -7307,7 +7231,6 @@
     "scuttle",
     "beachmat",
     "BiocSingular",
-    "SpatialExperiment",
     "RUVSeq",
     "EDASeq",
     "ShortRead",
@@ -7371,7 +7294,6 @@
     "consensusOV",
     "ensembldb",
     "GSVA",
-    "SpatialExperiment",
     "genefu",
     "GenomicFeatures",
     "rtracklayer",
@@ -7389,8 +7311,7 @@
     "beachmat"
   ],
   "simpleSeg": [
-    "cytomapper",
-    "SpatialExperiment"
+    "cytomapper"
   ],
   "simplifyEnrichment": [
     "AnnotationDbi"
@@ -7436,12 +7357,8 @@
     "TrajectoryUtils"
   ],
   "smartid": [],
-  "smoothclust": [
-    "SpatialExperiment"
-  ],
-  "smoppix": [
-    "SpatialExperiment"
-  ],
+  "smoothclust": [],
+  "smoppix": [],
   "snapcount": [],
   "snifter": [],
   "soGGi": [
@@ -7451,15 +7368,9 @@
     "chipseq",
     "ShortRead"
   ],
-  "sosta": [
-    "SpatialExperiment"
-  ],
-  "spaSim": [
-    "SpatialExperiment"
-  ],
-  "spacexr": [
-    "SpatialExperiment"
-  ],
+  "sosta": [],
+  "spaSim": [],
+  "spacexr": [],
   "sparrow": [
     "BiocSet",
     "DelayedMatrixStats",
@@ -7468,11 +7379,8 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "spatialDE": [
-    "SpatialExperiment"
-  ],
+  "spatialDE": [],
   "spatialFDA": [
-    "SpatialExperiment",
     "ExperimentHub",
     "AnnotationHub",
     "AnnotationDbi"
@@ -7483,9 +7391,7 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "spatialSimGP": [
-    "SpatialExperiment"
-  ],
+  "spatialSimGP": [],
   "spatzie": [
     "BSgenome",
     "GenomicFeatures",
@@ -7506,7 +7412,6 @@
     "edgeR"
   ],
   "spicyR": [
-    "SpatialExperiment",
     "ClassifyR",
     "simpleSeg",
     "genefilter",
@@ -7540,7 +7445,6 @@
     "AnnotationDbi"
   ],
   "spoon": [
-    "SpatialExperiment",
     "nnSVG",
     "scuttle",
     "beachmat"
@@ -7576,12 +7480,9 @@
   "ssviz": [
     "Rsamtools"
   ],
-  "stJoincount": [
-    "SpatialExperiment"
-  ],
+  "stJoincount": [],
   "stageR": [],
   "standR": [
-    "SpatialExperiment",
     "edgeR",
     "RUVSeq",
     "EDASeq",
@@ -7699,9 +7600,7 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "tidySpatialExperiment": [
-    "SpatialExperiment"
-  ],
+  "tidySpatialExperiment": [],
   "tidySummarizedExperiment": [],
   "tidybulk": [],
   "tidyomics": [
@@ -7734,9 +7633,7 @@
     "QFeatures",
     "MetaboCoreUtils"
   ],
-  "tpSVG": [
-    "SpatialExperiment"
-  ],
+  "tpSVG": [],
   "trackViewer": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -7944,7 +7841,6 @@
     "edgeR"
   ],
   "xenLite": [
-    "SpatialExperiment",
     "TENxIO"
   ],
   "yamss": [],
