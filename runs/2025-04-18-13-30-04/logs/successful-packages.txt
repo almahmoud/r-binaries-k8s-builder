@@ -838,3 +838,8 @@ microbiomeDASim
 reconsi
 SPIA
 zFPKM
+CellTrails
+oncomix
+pathwayPCA
+RaggedExperiment
+survtype

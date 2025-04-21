@@ -1,4 +1,1 @@
-EDIRquery
-HiCExperiment
-HiCParser
-HiCcompare
+omicsPrint

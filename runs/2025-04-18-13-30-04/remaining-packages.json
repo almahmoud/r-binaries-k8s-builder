@@ -535,7 +535,6 @@
     "Rsamtools"
   ],
   "CNVRanger": [
-    "RaggedExperiment",
     "GDSArray",
     "edgeR",
     "SeqArray"
@@ -644,7 +643,6 @@
     "BiocSingular"
   ],
   "CellNOptR": [],
-  "CellTrails": [],
   "CelliD": [
     "scater",
     "scuttle",
@@ -2823,7 +2821,6 @@
     "GenomicAlignments"
   ],
   "RTCGAToolbox": [
-    "RaggedExperiment",
     "TCGAutils",
     "AnnotationDbi",
     "GenomicFeatures",
@@ -2852,7 +2849,6 @@
     "GenomicAlignments"
   ],
   "RadioGx": [],
-  "RaggedExperiment": [],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -3041,7 +3037,6 @@
     "SeqArray"
   ],
   "SARC": [
-    "RaggedExperiment",
     "plyranges",
     "GenomicFeatures",
     "AnnotationDbi",
@@ -3400,7 +3395,6 @@
   "TCGAutils": [
     "AnnotationDbi",
     "GenomicFeatures",
-    "RaggedExperiment",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -4013,7 +4007,6 @@
     "DOSE",
     "clusterProfiler",
     "ReactomePA",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "enrichplot",
@@ -4146,7 +4139,6 @@
     "GenomicAlignments"
   ],
   "cBioPortalData": [
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "AnnotationDbi",
@@ -4183,7 +4175,6 @@
     "cBioPortalData",
     "GSEABase",
     "phenoTest",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "annotate",
@@ -4217,7 +4208,6 @@
   "cbaf": [
     "cBioPortalData",
     "genefilter",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "AnnotationDbi",
@@ -5418,7 +5408,6 @@
     "TCGAutils",
     "AnnotationDbi",
     "GenomicFeatures",
-    "RaggedExperiment",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -6447,11 +6436,8 @@
   "omicplotR": [
     "ALDEx2"
   ],
-  "omicsPrint": [
-    "RaggedExperiment"
-  ],
+  "omicsPrint": [],
   "omicsViewer": [],
-  "oncomix": [],
   "ontoProc": [
     "AnnotationHub",
     "AnnotationDbi"
@@ -6566,7 +6552,6 @@
   "pathview": [
     "AnnotationDbi"
   ],
-  "pathwayPCA": [],
   "pdInfoBuilder": [
     "oligo",
     "oligoClasses"
@@ -7658,7 +7643,6 @@
     "AnnotationDbi"
   ],
   "survClust": [],
-  "survtype": [],
   "sva": [
     "genefilter",
     "edgeR",
@@ -7740,7 +7724,6 @@
   ],
   "ternarynet": [],
   "terraTCGAdata": [
-    "RaggedExperiment",
     "TCGAutils",
     "AnnotationDbi",
     "GenomicFeatures",
