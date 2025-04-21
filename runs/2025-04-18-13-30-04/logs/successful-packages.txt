@@ -626,3 +626,11 @@ progeny
 rBLAST
 rpx
 RUVnormalize
+BEclear
+Chicago
+fabia
+fenr
+flowClust
+gdsfmt
+TFARM
+tomoseqr

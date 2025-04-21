@@ -306,7 +306,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "BEclear": [],
   "BLMA": [
     "ROntoTools",
     "PADOG",
@@ -778,7 +777,6 @@
     "SNPRelate",
     "SummarizedExperiment",
     "edgeR",
-    "gdsfmt",
     "DelayedArray",
     "SeqArray"
   ],
@@ -815,7 +813,6 @@
     "DelayedArray"
   ],
   "CONFESS": [
-    "flowClust",
     "flowMerge",
     "Rgraphviz"
   ],
@@ -1056,7 +1053,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "Chicago": [],
   "ChromHeatMap": [
     "annotate",
     "AnnotationDbi",
@@ -1213,8 +1209,7 @@
     "RBGL",
     "Rgraphviz",
     "ggcyto",
-    "DelayedArray",
-    "flowClust"
+    "DelayedArray"
   ],
   "CytoPipeline": [
     "ggcyto",
@@ -1895,8 +1890,7 @@
     "GenomicAlignments"
   ],
   "GBScleanR": [
-    "SeqArray",
-    "gdsfmt"
+    "SeqArray"
   ],
   "GDCRNATools": [
     "edgeR",
@@ -1914,14 +1908,12 @@
     "DelayedArray"
   ],
   "GDSArray": [
-    "gdsfmt",
     "DelayedArray",
     "SNPRelate",
     "SeqArray"
   ],
   "GENESIS": [
     "GWASTools",
-    "gdsfmt",
     "SeqArray",
     "SeqVarTools",
     "SNPRelate"
@@ -2042,9 +2034,7 @@
     "AnnotationDbi"
   ],
   "GWAS.BAYES": [],
-  "GWASTools": [
-    "gdsfmt"
-  ],
+  "GWASTools": [],
   "GWENA": [
     "SummarizedExperiment",
     "DelayedArray",
@@ -3837,7 +3827,6 @@
     "GenomicFeatures"
   ],
   "RAIDS": [
-    "gdsfmt",
     "SNPRelate",
     "GENESIS",
     "Rsamtools",
@@ -4373,7 +4362,6 @@
     "edgeR"
   ],
   "SAIGEgds": [
-    "gdsfmt",
     "SeqArray"
   ],
   "SARC": [
@@ -4422,7 +4410,6 @@
     "DelayedArray"
   ],
   "SCArray": [
-    "gdsfmt",
     "DelayedArray",
     "DelayedMatrixStats",
     "SummarizedExperiment",
@@ -4433,7 +4420,6 @@
   ],
   "SCArray.sat": [
     "SCArray",
-    "gdsfmt",
     "DelayedArray",
     "BiocSingular",
     "SummarizedExperiment",
@@ -4529,9 +4515,7 @@
     "DelayedArray"
   ],
   "SNAGEE": [],
-  "SNPRelate": [
-    "gdsfmt"
-  ],
+  "SNPRelate": [],
   "SNPhood": [
     "Rsamtools",
     "DESeq2",
@@ -4630,9 +4614,7 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "SeqArray": [
-    "gdsfmt"
-  ],
+  "SeqArray": [],
   "SeqGSEA": [
     "DESeq2",
     "biomaRt",
@@ -4647,13 +4629,11 @@
   "SeqSQC": [
     "ExperimentHub",
     "SNPRelate",
-    "gdsfmt",
     "AnnotationHub",
     "AnnotationDbi"
   ],
   "SeqVarTools": [
-    "SeqArray",
-    "gdsfmt"
+    "SeqArray"
   ],
   "ShortRead": [
     "Rsamtools",
@@ -5004,7 +4984,6 @@
   "TEQC": [
     "Rsamtools"
   ],
-  "TFARM": [],
   "TFBSTools": [
     "BSgenome",
     "rtracklayer",
@@ -5272,7 +5251,6 @@
     "SummarizedExperiment",
     "GDSArray",
     "DelayedDataFrame",
-    "gdsfmt",
     "SNPRelate",
     "SeqArray",
     "DelayedArray"
@@ -5812,7 +5790,6 @@
   ],
   "bigmelon": [
     "wateRmelon",
-    "gdsfmt",
     "minfi",
     "methylumi",
     "GEOquery",
@@ -6773,9 +6750,7 @@
     "BSgenome",
     "DelayedArray"
   ],
-  "cyanoFilter": [
-    "flowClust"
-  ],
+  "cyanoFilter": [],
   "cydar": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -7463,7 +7438,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "fabia": [],
   "factR": [
     "GenomicFeatures",
     "rtracklayer",
@@ -7500,7 +7474,6 @@
   "fedup": [
     "RCy3"
   ],
-  "fenr": [],
   "ffpe": [
     "affy",
     "lumi",
@@ -7553,7 +7526,6 @@
     "AnnotationFilter"
   ],
   "flowBin": [],
-  "flowClust": [],
   "flowCut": [],
   "flowGate": [
     "flowWorkspace",
@@ -7563,7 +7535,6 @@
     "DelayedArray"
   ],
   "flowMerge": [
-    "flowClust",
     "Rgraphviz"
   ],
   "flowStats": [
@@ -7572,9 +7543,7 @@
     "Rgraphviz",
     "DelayedArray"
   ],
-  "flowTrans": [
-    "flowClust"
-  ],
+  "flowTrans": [],
   "flowVS": [
     "flowStats",
     "flowWorkspace",
@@ -7677,7 +7646,6 @@
   "gcrma": [
     "affy"
   ],
-  "gdsfmt": [],
   "gemma.R": [
     "SummarizedExperiment",
     "DelayedArray"
@@ -7792,7 +7760,6 @@
   ],
   "ggkegg": [],
   "ggmanh": [
-    "gdsfmt",
     "SeqArray"
   ],
   "ggmsa": [],
@@ -7910,7 +7877,6 @@
     "VariantAnnotation",
     "SummarizedExperiment",
     "SNPRelate",
-    "gdsfmt",
     "DelayedArray",
     "Rsamtools",
     "AnnotationDbi",
@@ -7922,9 +7888,7 @@
   "h5vc": [
     "Rsamtools"
   ],
-  "hapFabia": [
-    "fabia"
-  ],
+  "hapFabia": [],
   "hca": [],
   "hdxmsqc": [
     "QFeatures",
@@ -8384,7 +8348,6 @@
   "mBPCR": [
     "oligoClasses",
     "GWASTools",
-    "gdsfmt",
     "SummarizedExperiment",
     "DelayedArray"
   ],
@@ -8761,7 +8724,6 @@
     "AnnotationDbi"
   ],
   "miRSM": [
-    "fabia",
     "BicARE",
     "SummarizedExperiment",
     "GSEABase",
@@ -8993,9 +8955,7 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "mosbi": [
-    "fabia"
-  ],
+  "mosbi": [],
   "motifStack": [
     "TFBSTools",
     "BSgenome",
@@ -9359,7 +9319,6 @@
   ],
   "openCyto": [
     "flowWorkspace",
-    "flowClust",
     "RBGL",
     "Rgraphviz",
     "DelayedArray"
@@ -11376,7 +11335,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "tomoseqr": [],
   "topconfects": [],
   "topdownr": [
     "MSnbase",

@@ -1,9 +1,7 @@
-NanoTube
-biodbChebi
-biodbHmdb
-biodbNcbi
-biodbNci
-biodbUniprot
-fobitools
-metapone
-piano
+GWASTools
+SNPRelate
+SeqArray
+cyanoFilter
+flowTrans
+hapFabia
+mosbi
