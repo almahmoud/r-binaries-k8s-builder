@@ -855,3 +855,8 @@ HiCcompare
 omicsViewer
 PolySTest
 proDA
+bayNorm
+MuData
+Nebulosa
+PIUMA
+QTLExperiment

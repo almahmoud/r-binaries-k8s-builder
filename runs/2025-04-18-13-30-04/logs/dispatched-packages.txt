@@ -1091,3 +1091,4 @@ omicsPrint
 SpectralTAD
 TADCompare
 scHiCcompare
+multistateQTL
