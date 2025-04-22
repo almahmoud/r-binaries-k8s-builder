@@ -1159,7 +1159,6 @@
   ],
   "SPsimSeq": [],
   "SVMDO": [],
-  "ScreenR": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
@@ -1380,7 +1379,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "airpart": [],
   "alabaster": [
     "alabaster.vcf",
     "VariantAnnotation",
@@ -1529,7 +1527,6 @@
   ],
   "canceR": [
     "cBioPortalData",
-    "phenoTest",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
@@ -2402,7 +2399,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "phenoTest": [],
   "pipeComp": [
     "scran"
   ],
@@ -2463,7 +2459,6 @@
     "enrichplot",
     "chipseq"
   ],
-  "protGear": [],
   "psichomics": [
     "recount",
     "derfinder",
@@ -2593,7 +2588,6 @@
     "rtracklayer"
   ],
   "rtracklayer": [],
-  "sampleClassifier": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -2752,7 +2746,6 @@
     "rtracklayer",
     "chipseq"
   ],
-  "spatialHeatmap": [],
   "spatzie": [
     "BSgenome",
     "GenomicFeatures",
@@ -2856,7 +2849,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tradeSeq": [],
   "transcriptR": [
     "chipseq",
     "GenomicFeatures",

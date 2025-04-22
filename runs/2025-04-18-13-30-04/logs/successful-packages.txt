@@ -1552,3 +1552,10 @@ easyRNASeq
 meshr
 nucleR
 speckle
+airpart
+phenoTest
+protGear
+sampleClassifier
+ScreenR
+spatialHeatmap
+tradeSeq
