@@ -1,1 +1,4 @@
-iCNV
+EpiCompare
+MOSClip
+clipper
+seqArchRplus

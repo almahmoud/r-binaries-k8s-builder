@@ -1878,3 +1878,5 @@ nearBynding
 pipeFrame
 Rmmquant
 soGGi
+ChIPseeker
+qpgraph

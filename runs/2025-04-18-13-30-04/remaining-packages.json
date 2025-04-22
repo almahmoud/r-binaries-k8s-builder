@@ -67,7 +67,6 @@
   "ChIPexoQual": [
     "biovizBase"
   ],
-  "ChIPseeker": [],
   "CircSeqAlignTk": [
     "Rhisat2",
     "SGSeq"
@@ -97,9 +96,7 @@
   "ENmix": [
     "minfi"
   ],
-  "EpiCompare": [
-    "ChIPseeker"
-  ],
+  "EpiCompare": [],
   "EpiTxDb": [],
   "EventPointer": [
     "SGSeq"
@@ -171,9 +168,7 @@
     "methylumi",
     "lumi"
   ],
-  "MOSClip": [
-    "qpgraph"
-  ],
+  "MOSClip": [],
   "MatrixRider": [],
   "MetaboSignal": [
     "mygene"
@@ -405,9 +400,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "clipper": [
-    "qpgraph"
-  ],
+  "clipper": [],
   "coMethDMR": [],
   "comapr": [
     "Gviz",
@@ -493,7 +486,6 @@
     "OrganismDbi"
   ],
   "esATAC": [
-    "ChIPseeker",
     "motifmatchr"
   ],
   "fcScan": [],
@@ -618,7 +610,6 @@
   "proActiv": [],
   "proBAMr": [],
   "profileplyr": [
-    "ChIPseeker",
     "rGREAT"
   ],
   "psichomics": [
@@ -626,7 +617,6 @@
     "derfinder",
     "GenomicFiles"
   ],
-  "qpgraph": [],
   "qsea": [],
   "quantro": [
     "minfi"
@@ -677,9 +667,7 @@
   "selectKSigs": [
     "HiLDA"
   ],
-  "seqArchRplus": [
-    "ChIPseeker"
-  ],
+  "seqArchRplus": [],
   "seqCAT": [],
   "shinyDSP": [
     "standR"
