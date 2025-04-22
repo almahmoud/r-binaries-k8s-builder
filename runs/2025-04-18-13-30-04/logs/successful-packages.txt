@@ -1581,3 +1581,7 @@ MSnID
 multiHiCcompare
 pRoloc
 xcore
+BERT
+FuseSOM
+HarmonizR
+XDE
