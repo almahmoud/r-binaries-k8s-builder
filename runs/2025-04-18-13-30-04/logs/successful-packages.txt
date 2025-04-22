@@ -1574,3 +1574,10 @@ enrichplot
 GeneMeta
 GSEABenchmarkeR
 RCM
+ASSIGN
+csaw
+Macarron
+MSnID
+multiHiCcompare
+pRoloc
+xcore

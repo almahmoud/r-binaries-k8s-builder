@@ -1683,3 +1683,6 @@ XDE
 clusterProfiler
 enrichViewNet
 meshes
+HiCDOC
+bandle
+pRolocGUI

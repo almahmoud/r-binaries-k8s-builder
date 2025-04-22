@@ -15,7 +15,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "ASSIGN": [],
   "ASpli": [
     "GenomicFeatures",
     "Gviz",
@@ -567,9 +566,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiCDOC": [
-    "multiHiCcompare"
-  ],
+  "HiCDOC": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome",
@@ -682,8 +679,6 @@
     "scran"
   ],
   "MSPrep": [],
-  "MSnID": [],
-  "Macarron": [],
   "MatrixQCvis": [],
   "MatrixRider": [
     "TFBSTools",
@@ -1156,7 +1151,6 @@
     "rtracklayer"
   ],
   "TBSignatureProfiler": [
-    "ASSIGN",
     "singscore"
   ],
   "TCC": [],
@@ -1358,9 +1352,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "bandle": [
-    "pRoloc"
-  ],
+  "bandle": [],
   "baySeq": [],
   "bedbaser": [
     "rtracklayer"
@@ -1628,7 +1620,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "csaw": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -1721,7 +1712,6 @@
   ],
   "diffHic": [
     "BSgenome",
-    "csaw",
     "rtracklayer"
   ],
   "diffUTR": [
@@ -1830,7 +1820,6 @@
     "motifmatchr"
   ],
   "extraChIPs": [
-    "csaw",
     "rtracklayer"
   ],
   "fCCAC": [
@@ -1985,7 +1974,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "VariantAnnotation",
-    "csaw",
     "BSgenome"
   ],
   "idiogram": [],
@@ -2236,7 +2224,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "multiHiCcompare": [],
   "mumosa": [
     "scran"
   ],
@@ -2263,10 +2250,7 @@
     "rtracklayer"
   ],
   "omicRexposome": [],
-  "pRoloc": [],
-  "pRolocGUI": [
-    "pRoloc"
-  ],
+  "pRolocGUI": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools",
@@ -2789,7 +2773,6 @@
   "xCell2": [
     "singscore"
   ],
-  "xcore": [],
   "yarn": [
     "quantro",
     "minfi",
