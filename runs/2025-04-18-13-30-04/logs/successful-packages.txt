@@ -1115,3 +1115,6 @@ maskBAD
 panp
 QFeatures
 screenCounter
+biomaRt
+frmaTools
+miRNAmeConverter
