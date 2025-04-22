@@ -1480,3 +1480,4 @@ Maaslin2
 msmsTests
 PhIPData
 prebs
+Rvisdiff
