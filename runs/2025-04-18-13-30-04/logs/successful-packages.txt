@@ -1930,3 +1930,7 @@ StructuralVariantAnnotation
 gmapR
 icetea
 seqCAT
+chevreulProcess
+DegNorm
+gwasurvivr
+quantro

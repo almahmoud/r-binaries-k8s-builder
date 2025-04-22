@@ -62,7 +62,6 @@
   ],
   "DeMixT": [],
   "DegCre": [],
-  "DegNorm": [],
   "DiffBind": [],
   "DuplexDiscovereR": [
     "Gviz"
@@ -274,12 +273,8 @@
     "cBioPortalData",
     "RTCGAToolbox"
   ],
-  "chevreulPlot": [
-    "chevreulProcess"
-  ],
-  "chevreulProcess": [],
+  "chevreulPlot": [],
   "chevreulShiny": [
-    "chevreulProcess",
     "chevreulPlot"
   ],
   "chimeraviz": [
@@ -368,7 +363,6 @@
   "glmSparseNet": [],
   "gmoviz": [],
   "goseq": [],
-  "gwasurvivr": [],
   "iCNV": [],
   "iCheck": [
     "lumi",
@@ -443,7 +437,6 @@
     "derfinder"
   ],
   "qsea": [],
-  "quantro": [],
   "rGREAT": [],
   "recount": [
     "derfinder"
@@ -525,7 +518,5 @@
     "methylumi",
     "lumi"
   ],
-  "yarn": [
-    "quantro"
-  ]
+  "yarn": []
 }

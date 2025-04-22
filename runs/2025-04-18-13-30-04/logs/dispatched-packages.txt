@@ -2036,3 +2036,5 @@ VCFArray
 derfinder
 svaNUMT
 svaRetro
+chevreulPlot
+yarn
