@@ -1901,3 +1901,5 @@ chromVAR
 monaLisa
 motifStack
 motifmatchr
+DiffBind
+MinimumDistance

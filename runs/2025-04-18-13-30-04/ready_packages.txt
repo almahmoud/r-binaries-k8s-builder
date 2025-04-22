@@ -1,6 +1,2 @@
-MatrixRider
-MethReg
-chromVAR
-monaLisa
-motifStack
-motifmatchr
+DiffBind
+MinimumDistance

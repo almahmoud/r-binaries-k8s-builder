@@ -106,8 +106,7 @@
     "genomation"
   ],
   "ChIPQC": [
-    "DiffBind",
-    "GreyListChIP"
+    "DiffBind"
   ],
   "ChIPexoQual": [
     "biovizBase",
@@ -153,9 +152,7 @@
   "DegNorm": [
     "txdbmaker"
   ],
-  "DiffBind": [
-    "GreyListChIP"
-  ],
+  "DiffBind": [],
   "DominoEffect": [
     "VariantAnnotation"
   ],
@@ -245,7 +242,6 @@
     "genomation",
     "txdbmaker"
   ],
-  "GreyListChIP": [],
   "Guitar": [],
   "Gviz": [
     "ensembldb",
@@ -323,13 +319,10 @@
     "minfi",
     "bumphunter"
   ],
-  "MinimumDistance": [
-    "VanillaICE"
-  ],
+  "MinimumDistance": [],
   "Moonlight2R": [
     "EpiMix"
   ],
-  "MotifPeeker": [],
   "MungeSumstats": [
     "VariantAnnotation"
   ],
@@ -533,7 +526,6 @@
   ],
   "TAPseq": [],
   "TCGAutils": [],
-  "TENET": [],
   "TFEA.ChIP": [],
   "TFHAZ": [
     "ORFik",
@@ -565,7 +557,6 @@
     "GenomicFiles"
   ],
   "VaSP": [],
-  "VanillaICE": [],
   "VariantAnnotation": [],
   "VariantFiltering": [
     "VariantAnnotation",
@@ -692,7 +683,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "chipenrich": [],
   "chromVAR": [],
   "cicero": [
     "Gviz",
@@ -701,7 +691,6 @@
     "VariantAnnotation"
   ],
   "cleanUpdTSeq": [],
-  "cliProfiler": [],
   "clipper": [
     "qpgraph"
   ],
@@ -773,7 +762,6 @@
   "dagLogo": [
     "motifStack"
   ],
-  "dar": [],
   "decompTumor2Sig": [
     "VariantAnnotation"
   ],

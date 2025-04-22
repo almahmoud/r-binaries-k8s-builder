@@ -1803,3 +1803,10 @@ lisaClust
 PRONE
 TFBSTools
 VarCon
+chipenrich
+cliProfiler
+dar
+GreyListChIP
+MotifPeeker
+TENET
+VanillaICE
