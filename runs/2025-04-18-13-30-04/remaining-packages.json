@@ -6,7 +6,6 @@
   "ADAPT": [],
   "ADaCGH2": [
     "tilingArray",
-    "vsn",
     "genefilter",
     "annotate"
   ],
@@ -322,8 +321,7 @@
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
-    "PSMatch",
-    "vsn"
+    "PSMatch"
   ],
   "CARDspa": [],
   "CATALYST": [
@@ -543,7 +541,6 @@
   "CluMSID": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
@@ -584,7 +581,6 @@
   "DAPAR": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
@@ -598,7 +594,6 @@
   "DELocal": [],
   "DEP": [
     "MSnbase",
-    "vsn",
     "PSMatch",
     "Spectra",
     "MetaboCoreUtils"
@@ -728,9 +723,7 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "Doscheda": [
-    "vsn"
-  ],
+  "Doscheda": [],
   "DuplexDiscovereR": [
     "Gviz",
     "rtracklayer",
@@ -1142,8 +1135,7 @@
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
-    "PSMatch",
-    "vsn"
+    "PSMatch"
   ],
   "IVAS": [
     "GenomicFeatures",
@@ -1180,7 +1172,6 @@
     "annotate",
     "BSgenome"
   ],
-  "InterCellar": [],
   "IsoBayes": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
@@ -1224,8 +1215,7 @@
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
-    "PSMatch",
-    "vsn"
+    "PSMatch"
   ],
   "MBECS": [
     "sva",
@@ -1357,13 +1347,11 @@
     "msmsEDA",
     "edgeR",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
   "MSnbase": [
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
@@ -1371,7 +1359,6 @@
   "MSstatsQC": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
@@ -1379,7 +1366,6 @@
     "MSstatsQC",
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
@@ -1396,7 +1382,6 @@
   "MatrixQCvis": [
     "ExperimentHub",
     "sva",
-    "vsn",
     "genefilter",
     "edgeR",
     "annotate"
@@ -1592,9 +1577,7 @@
   "NewWave": [
     "BiocSingular"
   ],
-  "NormalyzerDE": [
-    "vsn"
-  ],
+  "NormalyzerDE": [],
   "OGRE": [
     "Gviz",
     "rtracklayer",
@@ -1695,7 +1678,6 @@
     "NormalyzerDE",
     "edgeR",
     "MSnbase",
-    "vsn",
     "POMA",
     "PSMatch",
     "sva",
@@ -1745,7 +1727,6 @@
   "PrInCE": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
@@ -1753,7 +1734,6 @@
     "DAPAR",
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
@@ -1863,7 +1843,6 @@
   "RMassBank": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
@@ -2615,7 +2594,6 @@
   "arrayQualityMetrics": [
     "beadarray",
     "genefilter",
-    "vsn",
     "annotate"
   ],
   "artMS": [],
@@ -2639,8 +2617,7 @@
     "genefilter"
   ],
   "autonomics": [
-    "edgeR",
-    "vsn"
+    "edgeR"
   ],
   "ballgown": [
     "sva",
@@ -2660,7 +2637,6 @@
     "MSnbase",
     "pRoloc",
     "PSMatch",
-    "vsn",
     "MLInterfaces",
     "annotate",
     "genefilter",
@@ -2760,7 +2736,6 @@
     "CellNOptR",
     "epiNEM",
     "sva",
-    "vsn",
     "genefilter",
     "edgeR",
     "annotate"
@@ -2990,7 +2965,6 @@
     "xcms",
     "MSnbase",
     "PSMatch",
-    "vsn",
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils"
@@ -3088,8 +3062,7 @@
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
-    "PSMatch",
-    "vsn"
+    "PSMatch"
   ],
   "cosmosR": [
     "GSEABase",
@@ -3602,8 +3575,7 @@
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
-    "PSMatch",
-    "vsn"
+    "PSMatch"
   ],
   "flowCut": [],
   "flowTrans": [],
@@ -3996,8 +3968,7 @@
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
-    "PSMatch",
-    "vsn"
+    "PSMatch"
   ],
   "metagene2": [
     "rtracklayer",
@@ -4012,7 +3983,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "txdbmaker",
-    "vsn",
     "bsseq",
     "ShortRead",
     "annotate",
@@ -4270,7 +4240,6 @@
   "msmsEDA": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
@@ -4279,7 +4248,6 @@
     "msmsEDA",
     "edgeR",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
@@ -4326,8 +4294,7 @@
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
-    "PSMatch",
-    "vsn"
+    "PSMatch"
   ],
   "nearBynding": [
     "plyranges",
@@ -4349,7 +4316,6 @@
     "genefilter",
     "annotate"
   ],
-  "nipalsMCIA": [],
   "npGSEA": [
     "GSEABase",
     "annotate"
@@ -4366,7 +4332,6 @@
   "omXplore": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
@@ -4386,7 +4351,6 @@
     "annotate",
     "BiocSingular"
   ],
-  "optimalFlow": [],
   "orthos": [
     "ExperimentHub"
   ],
@@ -4396,7 +4360,6 @@
     "annotate",
     "genefilter",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
@@ -4404,7 +4367,6 @@
     "pRoloc",
     "MSnbase",
     "PSMatch",
-    "vsn",
     "MLInterfaces",
     "annotate",
     "genefilter",
@@ -4450,7 +4412,6 @@
   "peakPantheR": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
@@ -4567,7 +4528,6 @@
     "GOSemSim"
   ],
   "protGear": [
-    "vsn",
     "genefilter",
     "annotate"
   ],
@@ -4586,18 +4546,14 @@
   "ptairMS": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
   "pvac": [],
-  "pvca": [
-    "vsn"
-  ],
+  "pvca": [],
   "qPLEXanalyzer": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
@@ -5156,7 +5112,6 @@
     "MsExperiment",
     "Spectra",
     "PSMatch",
-    "vsn",
     "MetaboCoreUtils"
   ],
   "srnadiff": [
@@ -5215,7 +5170,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "systemPipeTools": [],
   "tLOH": [
     "VariantAnnotation",
     "rtracklayer",
@@ -5265,14 +5219,12 @@
     "annotate"
   ],
   "tilingArray": [
-    "vsn",
     "genefilter",
     "annotate"
   ],
   "topdownr": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "MetaboCoreUtils"
   ],
@@ -5383,7 +5335,6 @@
     "ExperimentHub"
   ],
   "vsclust": [],
-  "vsn": [],
   "wateRmelon": [
     "methylumi",
     "lumi",
@@ -5401,8 +5352,7 @@
     "GenomicAlignments"
   ],
   "webbioc": [
-    "annaffy",
-    "vsn"
+    "annaffy"
   ],
   "wiggleplotr": [
     "rtracklayer",
@@ -5419,8 +5369,7 @@
     "MsExperiment",
     "Spectra",
     "MetaboCoreUtils",
-    "PSMatch",
-    "vsn"
+    "PSMatch"
   ],
   "xcore": [
     "edgeR"

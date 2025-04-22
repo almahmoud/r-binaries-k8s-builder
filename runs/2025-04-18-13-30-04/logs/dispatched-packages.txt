@@ -1335,3 +1335,6 @@ TurboNorm
 maaslin3
 miaSim
 microSTASIS
+Doscheda
+NormalyzerDE
+pvca
