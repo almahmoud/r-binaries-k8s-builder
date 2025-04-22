@@ -100,7 +100,6 @@
   "BatchQC": [
     "scran"
   ],
-  "BatchSVG": [],
   "BgeeCall": [
     "GenomicFeatures",
     "txdbmaker"
@@ -486,7 +485,6 @@
     "txdbmaker",
     "ensembldb"
   ],
-  "LACE": [],
   "MEAL": [
     "minfi",
     "Gviz",
@@ -689,9 +687,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "RFLOMICS": [
-    "coseq"
-  ],
+  "RFLOMICS": [],
   "RJMCMCNucleosomes": [
     "consensusSeekeR"
   ],
@@ -1225,7 +1221,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "coseq": [],
   "cpvSNP": [
     "GenomicFeatures"
   ],
@@ -1884,7 +1879,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "regsplice": [],
   "regutools": [
     "Gviz",
     "GenomicFeatures",

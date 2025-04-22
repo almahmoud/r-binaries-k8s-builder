@@ -1654,3 +1654,7 @@ M3Drop
 scDotPlot
 scQTLtools
 tricycle
+BatchSVG
+coseq
+LACE
+regsplice
