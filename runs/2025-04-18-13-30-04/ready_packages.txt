@@ -1,1 +1,4 @@
-IsoformSwitchAnalyzeR
+MetaboSignal
+SMITE
+rgsepd
+selectKSigs

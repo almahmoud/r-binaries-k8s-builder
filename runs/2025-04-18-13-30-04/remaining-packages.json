@@ -21,7 +21,6 @@
     "ggbio"
   ],
   "BUSpaRse": [],
-  "BindingSiteFinder": [],
   "BubbleTree": [],
   "CAFE": [
     "ggbio"
@@ -45,8 +44,7 @@
   "CleanUpRNAseq": [],
   "DAMEfinder": [],
   "Damsel": [
-    "ggbio",
-    "goseq"
+    "ggbio"
   ],
   "DegCre": [],
   "DuplexDiscovereR": [
@@ -57,7 +55,6 @@
   ],
   "ENmix": [],
   "EpiCompare": [],
-  "EpiTxDb": [],
   "EventPointer": [],
   "ExperimentHubData": [
     "AnnotationHubData"
@@ -80,7 +77,6 @@
     "GenomicInteractions",
     "Gviz"
   ],
-  "HiLDA": [],
   "IMAS": [
     "IVAS"
   ],
@@ -97,9 +93,7 @@
     "methylumi",
     "lumi"
   ],
-  "MetaboSignal": [
-    "mygene"
-  ],
+  "MetaboSignal": [],
   "MethylAid": [],
   "MineICA": [
     "lumi",
@@ -165,9 +159,7 @@
     "derfinder"
   ],
   "Rqc": [],
-  "SMITE": [
-    "goseq"
-  ],
+  "SMITE": [],
   "SPLINTER": [
     "Gviz"
   ],
@@ -298,8 +290,6 @@
   "ggbio": [],
   "glmSparseNet": [],
   "gmoviz": [],
-  "goseq": [],
-  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi"
@@ -319,7 +309,6 @@
   "maser": [
     "Gviz"
   ],
-  "metaseqR2": [],
   "methylCC": [],
   "methylGSA": [
     "missMethyl",
@@ -346,7 +335,6 @@
   "msgbsR": [
     "ggbio"
   ],
-  "mygene": [],
   "nullranges": [],
   "pageRank": [],
   "preciseTAD": [],
@@ -354,7 +342,6 @@
     "Gviz"
   ],
   "proActiv": [],
-  "profileplyr": [],
   "psichomics": [
     "recount",
     "derfinder"
@@ -369,9 +356,7 @@
   "regutools": [
     "Gviz"
   ],
-  "rgsepd": [
-    "goseq"
-  ],
+  "rgsepd": [],
   "ribosomeProfilingQC": [],
   "saseR": [
     "ASpli",
@@ -386,9 +371,7 @@
   "scruff": [
     "ggbio"
   ],
-  "selectKSigs": [
-    "HiLDA"
-  ],
+  "selectKSigs": [],
   "shinyDSP": [
     "standR"
   ],

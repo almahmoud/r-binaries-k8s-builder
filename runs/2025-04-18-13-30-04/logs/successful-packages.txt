@@ -1966,3 +1966,11 @@ crisprDesign
 motifmatchr
 recoup
 tximeta
+BindingSiteFinder
+EpiTxDb
+goseq
+HiLDA
+iCNV
+metaseqR2
+mygene
+profileplyr

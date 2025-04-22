@@ -2054,3 +2054,7 @@ epiregulon
 esATAC
 pageRank
 IsoformSwitchAnalyzeR
+MetaboSignal
+SMITE
+rgsepd
+selectKSigs
