@@ -61,7 +61,6 @@
   "RiboProfiling": [
     "ggbio"
   ],
-  "RnBeads": [],
   "RnaSeqSampleSize": [
     "recount"
   ],
@@ -90,7 +89,6 @@
     "ggbio"
   ],
   "canceR": [],
-  "cbaf": [],
   "chevreulShiny": [],
   "crisprShiny": [],
   "crisprVerse": [],
@@ -131,7 +129,6 @@
     "ggbio"
   ],
   "nullranges": [],
-  "primirTSS": [],
   "psichomics": [
     "recount"
   ],
@@ -150,7 +147,6 @@
     "wateRmelon"
   ],
   "srnadiff": [],
-  "tadar": [],
   "tidyomics": [
     "nullranges"
   ],

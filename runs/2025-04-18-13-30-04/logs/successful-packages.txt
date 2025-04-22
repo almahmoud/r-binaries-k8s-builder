@@ -2065,3 +2065,7 @@ arrayMvout
 ffpe
 iCheck
 regutools
+cbaf
+primirTSS
+RnBeads
+tadar
