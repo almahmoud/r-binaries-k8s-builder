@@ -1105,3 +1105,13 @@ qmtools
 ReUseData
 Rsamtools
 scider
+affyILM
+affyPLM
+BufferedMatrix
+ChIPXpress
+Dune
+makecdfenv
+maskBAD
+panp
+QFeatures
+screenCounter

@@ -1293,3 +1293,10 @@ h5vc
 rfPred
 ssviz
 tracktables
+BufferedMatrixMethods
+affylmGUI
+altcdfenvs
+mimager
+mspms
+msqrob2
+scp
