@@ -75,8 +75,7 @@
   "R453Plus1Toolbox": [],
   "RESOLVE": [],
   "RNAAgeCalc": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
@@ -97,8 +96,7 @@
   ],
   "RnBeads": [],
   "RnaSeqSampleSize": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "SPLINTER": [],
   "SingleMoleculeFootprinting": [],
@@ -151,9 +149,7 @@
   "crisprViz": [],
   "cummeRbund": [],
   "demuxSNP": [],
-  "derfinder": [],
   "derfinderPlot": [
-    "derfinder",
     "ggbio"
   ],
   "epimutacions": [],
@@ -205,15 +201,10 @@
   "nullranges": [],
   "primirTSS": [],
   "psichomics": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
-  "recount": [
-    "derfinder"
-  ],
-  "regionReport": [
-    "derfinder"
-  ],
+  "recount": [],
+  "regionReport": [],
   "regutools": [],
   "saseR": [
     "ASpli"

@@ -2025,3 +2025,4 @@ ChIPexoQual
 QuasR
 TFutils
 yarn
+derfinder

@@ -2101,3 +2101,5 @@ lumi
 missMethyl
 mitoClone2
 SingleMoleculeFootprinting
+recount
+regionReport
