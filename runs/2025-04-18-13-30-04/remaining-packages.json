@@ -152,7 +152,6 @@
   "BioNERO": [
     "sva"
   ],
-  "BioQC": [],
   "BioTIP": [
     "scran"
   ],
@@ -247,7 +246,6 @@
     "rtracklayer"
   ],
   "COTAN": [],
-  "CRISPRball": [],
   "CRISPRseek": [
     "GenomicFeatures",
     "BSgenome",
@@ -358,7 +356,6 @@
   "DAPAR": [
     "MSnbase"
   ],
-  "DEGreport": [],
   "DEP": [
     "MSnbase"
   ],
@@ -931,7 +928,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "MsBackendSql": [],
   "MsDataHub": [],
   "MsQuality": [],
   "MungeSumstats": [
@@ -1007,7 +1003,6 @@
     "rtracklayer"
   ],
   "PDATK": [],
-  "PECA": [],
   "PICB": [],
   "POMA": [
     "sva"
@@ -2425,9 +2420,7 @@
   "interactiveDisplay": [
     "Category"
   ],
-  "isomiRs": [
-    "DEGreport"
-  ],
+  "isomiRs": [],
   "kissDE": [
     "DSS",
     "bsseq",

@@ -1393,3 +1393,8 @@ transformGamPoi
 AGDEX
 DEFormats
 globaltest
+BioQC
+CRISPRball
+DEGreport
+MsBackendSql
+PECA
