@@ -1744,3 +1744,7 @@ epiregulon.extra
 metagene2
 roar
 scDblFinder
+epidecodeR
+geneXtendeR
+methylKit
+TEKRABber

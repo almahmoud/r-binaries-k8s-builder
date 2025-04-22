@@ -711,7 +711,6 @@
   "TCGAutils": [
     "GenomicFeatures"
   ],
-  "TEKRABber": [],
   "TENET": [],
   "TFBSTools": [],
   "TFEA.ChIP": [
@@ -1034,7 +1033,6 @@
     "celda"
   ],
   "deconvR": [
-    "methylKit",
     "minfi",
     "bumphunter",
     "GenomicFeatures"
@@ -1087,7 +1085,6 @@
   "ensembldb": [
     "GenomicFeatures"
   ],
-  "epidecodeR": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -1171,7 +1168,6 @@
   "geneAttribution": [
     "GenomicFeatures"
   ],
-  "geneXtendeR": [],
   "genomation": [],
   "geomeTriD": [
     "trackViewer",
@@ -1297,9 +1293,7 @@
     "txdbmaker",
     "bsseq"
   ],
-  "methInheritSim": [
-    "methylKit"
-  ],
+  "methInheritSim": [],
   "methrix": [],
   "methylCC": [
     "minfi",
@@ -1315,10 +1309,7 @@
     "GenomicFeatures",
     "bumphunter"
   ],
-  "methylInheritance": [
-    "methylKit"
-  ],
-  "methylKit": [],
+  "methylInheritance": [],
   "methylPipe": [
     "Gviz",
     "GenomicFeatures",
