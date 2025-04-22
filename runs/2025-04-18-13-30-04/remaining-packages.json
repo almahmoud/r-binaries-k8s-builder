@@ -982,7 +982,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "PrInCE": [],
   "Prostar": [
     "DAPAR"
   ],
@@ -1259,7 +1258,6 @@
   ],
   "SICtools": [],
   "SIM": [],
-  "SIMD": [],
   "SMITE": [
     "goseq",
     "rtracklayer",
@@ -2406,7 +2404,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "mastR": [],
   "meshes": [
     "DOSE",
     "enrichplot"
@@ -2666,7 +2663,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "peakPantheR": [],
   "peco": [],
   "periodicDNA": [
     "BSgenome",
