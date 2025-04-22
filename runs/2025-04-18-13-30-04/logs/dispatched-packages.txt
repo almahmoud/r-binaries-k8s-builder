@@ -1799,3 +1799,4 @@ BASiCStan
 lisaClust
 scClassify
 Rbec
+iSEEtree

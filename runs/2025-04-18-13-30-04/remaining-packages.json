@@ -1442,9 +1442,7 @@
     "bumphunter",
     "txdbmaker"
   ],
-  "iSEEtree": [
-    "miaViz"
-  ],
+  "iSEEtree": [],
   "icetea": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -1575,10 +1573,8 @@
   ],
   "miRSM": [],
   "miaDash": [
-    "iSEEtree",
-    "miaViz"
+    "iSEEtree"
   ],
-  "miaViz": [],
   "minfi": [
     "bumphunter",
     "GenomicFeatures"
@@ -1782,7 +1778,6 @@
     "txdbmaker",
     "TFBSTools"
   ],
-  "rifi": [],
   "rifiComparative": [],
   "rmspc": [],
   "rnaEditr": [
@@ -1806,7 +1801,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "scMerge": [],
   "scRNAseqApp": [],
   "scTreeViz": [
     "epivizr",

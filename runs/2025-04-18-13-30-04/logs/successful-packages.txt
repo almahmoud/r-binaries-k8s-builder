@@ -1724,3 +1724,6 @@ blacksheepr
 ChromHeatMap
 famat
 pipeComp
+miaViz
+rifi
+scMerge
