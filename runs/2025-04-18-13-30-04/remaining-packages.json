@@ -80,7 +80,6 @@
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
-    "gcrma",
     "ReportingTools",
     "edgeR",
     "Glimma",
@@ -2916,15 +2915,10 @@
   ],
   "adverSCarial": [],
   "affyContam": [],
-  "affyILM": [
-    "gcrma"
-  ],
-  "affyPLM": [
-    "gcrma"
-  ],
+  "affyILM": [],
+  "affyPLM": [],
   "affycoretools": [
     "GOstats",
-    "gcrma",
     "ReportingTools",
     "edgeR",
     "Glimma",
@@ -2946,8 +2940,7 @@
     "biomaRt"
   ],
   "affylmGUI": [
-    "affyPLM",
-    "gcrma"
+    "affyPLM"
   ],
   "airpart": [
     "scater",
@@ -3026,7 +3019,6 @@
     "beadarray",
     "genefilter",
     "vsn",
-    "gcrma",
     "annotate"
   ],
   "artMS": [],
@@ -3738,7 +3730,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "ddPCRclust": [],
   "debrowser": [
     "annotate",
     "DOSE",
@@ -4188,7 +4179,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "gcrma": [],
   "geneAttribution": [
     "GenomicFeatures",
     "rtracklayer",
@@ -4543,9 +4533,7 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "maPredictDSC": [
-    "gcrma"
-  ],
+  "maPredictDSC": [],
   "maaslin3": [
     "TreeSummarizedExperiment"
   ],
@@ -4576,9 +4564,7 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "maskBAD": [
-    "gcrma"
-  ],
+  "maskBAD": [],
   "massiR": [],
   "mastR": [
     "edgeR",
@@ -4804,8 +4790,7 @@
     "BiocSingular"
   ],
   "mimager": [
-    "affyPLM",
-    "gcrma"
+    "affyPLM"
   ],
   "minfi": [
     "bumphunter",
@@ -5174,7 +5159,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "plier": [],
   "plotgardener": [
     "plyranges",
     "rtracklayer",
@@ -6223,8 +6207,7 @@
   ],
   "webbioc": [
     "annaffy",
-    "vsn",
-    "gcrma"
+    "vsn"
   ],
   "wiggleplotr": [
     "rtracklayer",

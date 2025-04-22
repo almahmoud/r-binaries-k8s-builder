@@ -1092,3 +1092,6 @@ microbiomeExplorer
 spatialSimGP
 stageR
 survClust
+ddPCRclust
+gcrma
+plier
