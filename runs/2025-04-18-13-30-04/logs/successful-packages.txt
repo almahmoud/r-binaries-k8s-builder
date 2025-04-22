@@ -1280,3 +1280,7 @@ microSTASIS
 mspms
 seq2pathway
 supersigs
+customCMPdb
+ivygapSE
+scuttle
+surfaltr
