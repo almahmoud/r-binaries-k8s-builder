@@ -1717,3 +1717,5 @@ scDD
 SIM
 tweeDEseq
 dada2
+annmap
+segmentSeq

@@ -958,7 +958,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "annmap": [],
   "anota2seq": [],
   "appreci8R": [
     "VariantAnnotation",
@@ -1843,7 +1842,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "segmentSeq": [],
   "selectKSigs": [
     "HiLDA",
     "GenomicFeatures",
