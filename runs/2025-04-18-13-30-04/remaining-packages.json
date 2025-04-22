@@ -3,7 +3,6 @@
     "affycoretools",
     "ReportingTools"
   ],
-  "BBCAnalyzer": [],
   "BOBaFIT": [],
   "CAFE": [],
   "CAGEr": [],
@@ -32,16 +31,10 @@
   "crisprVerse": [],
   "derfinderPlot": [],
   "epimutacions": [],
-  "epivizr": [
-    "epivizrData"
-  ],
-  "epivizrChart": [
-    "epivizrData"
-  ],
-  "epivizrData": [],
+  "epivizr": [],
+  "epivizrChart": [],
   "epivizrStandalone": [
-    "epivizr",
-    "epivizrData"
+    "epivizr"
   ],
   "geomeTriD": [],
   "iNETgrate": [],
@@ -51,13 +44,11 @@
   "nullranges": [],
   "psichomics": [],
   "scTreeViz": [
-    "epivizr",
-    "epivizrData"
+    "epivizr"
   ],
   "scruff": [],
   "skewr": [],
   "tidyomics": [
     "nullranges"
-  ],
-  "txcutr": []
+  ]
 }
