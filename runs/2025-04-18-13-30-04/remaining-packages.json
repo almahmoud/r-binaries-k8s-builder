@@ -87,7 +87,6 @@
   "CleanUpRNAseq": [],
   "Cogito": [],
   "DAMEfinder": [],
-  "DSS": [],
   "DaMiRseq": [],
   "Damsel": [
     "ggbio",
@@ -96,9 +95,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "DeMixT": [
-    "DSS"
-  ],
+  "DeMixT": [],
   "DegCre": [
     "plotgardener"
   ],
@@ -450,9 +447,7 @@
   ],
   "biovizBase": [],
   "bnem": [],
-  "borealis": [
-    "DSS"
-  ],
+  "borealis": [],
   "branchpointer": [],
   "cBioPortalData": [
     "RTCGAToolbox",
@@ -660,9 +655,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "kissDE": [
-    "DSS"
-  ],
+  "kissDE": [],
   "lineagespot": [],
   "lumi": [
     "methylumi",
@@ -684,7 +677,6 @@
     "biovizBase"
   ],
   "metaseqR2": [
-    "DSS",
     "txdbmaker"
   ],
   "methInheritSim": [],
@@ -701,9 +693,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "methylSig": [
-    "DSS"
-  ],
+  "methylSig": [],
   "methylclock": [
     "minfi",
     "ExperimentHubData",
@@ -903,7 +893,6 @@
     "txdbmaker",
     "biovizBase"
   ],
-  "transcriptR": [],
   "transmogR": [],
   "traseR": [],
   "txcutr": [

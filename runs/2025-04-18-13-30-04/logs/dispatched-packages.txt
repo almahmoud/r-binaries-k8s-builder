@@ -1963,3 +1963,7 @@ signeR
 signifinder
 tLOH
 transmogR
+DeMixT
+borealis
+kissDE
+methylSig
