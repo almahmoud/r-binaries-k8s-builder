@@ -618,7 +618,6 @@
     "txdbmaker",
     "ensembldb"
   ],
-  "KnowSeq": [],
   "LACE": [],
   "M3Drop": [],
   "MBECS": [],
@@ -2240,7 +2239,6 @@
     "GenomicFeatures"
   ],
   "netSmooth": [],
-  "npGSEA": [],
   "nullranges": [
     "plyranges",
     "rtracklayer"
@@ -2254,7 +2252,6 @@
     "rtracklayer"
   ],
   "pairedGSEA": [],
-  "partCNV": [],
   "pathMED": [
     "singscore"
   ],

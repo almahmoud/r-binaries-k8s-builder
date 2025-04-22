@@ -1585,3 +1585,6 @@ BERT
 FuseSOM
 HarmonizR
 XDE
+KnowSeq
+npGSEA
+partCNV
