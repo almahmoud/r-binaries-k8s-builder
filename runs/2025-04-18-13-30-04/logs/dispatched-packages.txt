@@ -2149,3 +2149,4 @@ epivizr
 epivizrChart
 tidyomics
 YAPSA
+affycoretools
