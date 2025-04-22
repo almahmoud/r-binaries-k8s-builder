@@ -1727,3 +1727,14 @@ pipeComp
 miaViz
 rifi
 scMerge
+BSgenome
+CoverageView
+cypress
+cytofQC
+DMCHMM
+groHMM
+MotifDb
+pathlinkR
+Rbec
+spillR
+tidyCoverage
