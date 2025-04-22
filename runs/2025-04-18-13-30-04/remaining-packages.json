@@ -991,7 +991,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "HoloFoodR": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS",
@@ -3637,7 +3636,6 @@
     "scater",
     "scuttle"
   ],
-  "microSTASIS": [],
   "midasHLA": [],
   "miloR": [
     "edgeR"
@@ -3745,7 +3743,6 @@
     "edgeR",
     "PSMatch"
   ],
-  "mspms": [],
   "msqrob2": [],
   "multiGSEA": [],
   "multiHiCcompare": [
@@ -4319,7 +4316,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "seq2pathway": [],
   "seqArchRplus": [
     "BSgenome",
     "ChIPseeker",
@@ -4520,7 +4516,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "supersigs": [],
   "surfaltr": [],
   "sva": [
     "genefilter",

@@ -1275,3 +1275,8 @@ goSTAG
 SeqVarTools
 TEQC
 zitools
+HoloFoodR
+microSTASIS
+mspms
+seq2pathway
+supersigs
