@@ -1501,3 +1501,6 @@ oppar
 sparrow
 GeneBreak
 infercnv
+compcodeR
+PICB
+sSNAPPY

@@ -880,7 +880,6 @@
     "rtracklayer"
   ],
   "PDATK": [],
-  "PICB": [],
   "POMA": [
     "sva"
   ],
@@ -1687,7 +1686,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "compcodeR": [],
   "condiments": [
     "distinct"
   ],
@@ -2669,7 +2667,6 @@
   ],
   "rrvgo": [],
   "rtracklayer": [],
-  "sSNAPPY": [],
   "sampleClassifier": [],
   "saseR": [
     "ASpli",
