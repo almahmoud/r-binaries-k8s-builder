@@ -755,7 +755,6 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "ExperimentSubset": [],
   "FRASER": [
     "BSgenome",
     "GenomicAlignments",
@@ -808,9 +807,7 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "GENESIS": [
-    "SeqVarTools"
-  ],
+  "GENESIS": [],
   "GEOexplorer": [
     "sva",
     "edgeR",
@@ -1561,7 +1558,6 @@
     "VariantAnnotation",
     "rtracklayer",
     "GenomicFeatures",
-    "SeqVarTools",
     "GenomicAlignments"
   ],
   "RCAS": [
@@ -1904,7 +1900,6 @@
   "SeqSQC": [
     "ExperimentHub"
   ],
-  "SeqVarTools": [],
   "ShortRead": [
     "GenomicAlignments"
   ],
@@ -2034,7 +2029,6 @@
     "GenomicAlignments"
   ],
   "TENxIO": [],
-  "TEQC": [],
   "TFBSTools": [
     "BSgenome",
     "rtracklayer",
@@ -2211,7 +2205,6 @@
   "adductomicsR": [
     "ExperimentHub"
   ],
-  "affyContam": [],
   "affycoretools": [
     "GOstats",
     "ReportingTools",
@@ -2273,7 +2266,6 @@
     "GenomicAlignments"
   ],
   "arrayMvout": [
-    "affyContam",
     "lumi",
     "methylumi",
     "GenomicFeatures",
@@ -2396,7 +2388,6 @@
     "geneplotter",
     "genefilter"
   ],
-  "blima": [],
   "bnbc": [
     "sva",
     "genefilter",
@@ -3257,7 +3248,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "goSTAG": [],
   "goSorensen": [
     "clusterProfiler",
     "DOSE",
@@ -4754,6 +4744,5 @@
   "zinbwave": [
     "genefilter",
     "edgeR"
-  ],
-  "zitools": []
+  ]
 }

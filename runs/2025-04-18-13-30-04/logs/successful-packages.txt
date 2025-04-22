@@ -1268,3 +1268,10 @@ OncoScore
 ProteoMM
 SEraster
 tenXplore
+affyContam
+blima
+ExperimentSubset
+goSTAG
+SeqVarTools
+TEQC
+zitools
