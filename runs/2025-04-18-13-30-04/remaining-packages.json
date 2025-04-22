@@ -103,9 +103,7 @@
   "canceR": [],
   "cbaf": [],
   "chevreulShiny": [],
-  "chimeraviz": [],
   "cicero": [],
-  "comapr": [],
   "crisprShiny": [
     "crisprViz"
   ],
@@ -113,7 +111,6 @@
     "crisprViz"
   ],
   "crisprViz": [],
-  "cummeRbund": [],
   "demuxSNP": [],
   "derfinderPlot": [
     "ggbio"
@@ -166,7 +163,6 @@
   "recount": [],
   "regionReport": [],
   "regutools": [],
-  "saseR": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData"
