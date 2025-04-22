@@ -1569,3 +1569,8 @@ sva
 systemPipeR
 clusterExperiment
 VisiumIO
+beer
+enrichplot
+GeneMeta
+GSEABenchmarkeR
+RCM

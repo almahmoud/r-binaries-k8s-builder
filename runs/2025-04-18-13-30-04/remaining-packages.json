@@ -181,8 +181,7 @@
   ],
   "CATALYST": [],
   "CBNplot": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "CCAFE": [
     "VariantAnnotation",
@@ -192,8 +191,7 @@
   ],
   "CCPROMISE": [],
   "CEMiTool": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "CNVrd2": [
     "VariantAnnotation",
@@ -221,8 +219,7 @@
     "GenomicFeatures"
   ],
   "CeTF": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "CellBarcode": [],
   "CelliD": [],
@@ -257,7 +254,6 @@
     "BSgenome"
   ],
   "ChIPseeker": [
-    "enrichplot",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -400,18 +396,15 @@
   ],
   "ERSSA": [],
   "EasyCellType": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "EnrichDO": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "EpiCompare": [
     "ChIPseeker",
     "genomation",
     "rtracklayer",
-    "enrichplot",
     "GenomicFeatures",
     "BSgenome"
   ],
@@ -473,8 +466,7 @@
     "rtracklayer"
   ],
   "GDCRNATools": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "GEOexplorer": [],
   "GOTHiC": [
@@ -482,14 +474,12 @@
     "rtracklayer"
   ],
   "GOstats": [],
-  "GSEABenchmarkeR": [],
   "GSReg": [
     "GenomicFeatures",
     "rtracklayer",
     "OrganismDbi",
     "txdbmaker"
   ],
-  "GeneMeta": [],
   "GeneStructureTools": [
     "Gviz",
     "rtracklayer",
@@ -673,8 +663,7 @@
     "rtracklayer"
   ],
   "MIRit": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "MMDiff2": [
     "BSgenome",
@@ -702,8 +691,7 @@
     "rtracklayer"
   ],
   "MetaPhOR": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "MetaboSignal": [
     "mygene",
@@ -728,8 +716,7 @@
     "BSgenome"
   ],
   "MicrobiomeProfiler": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "MineICA": [
     "GOstats",
@@ -749,12 +736,10 @@
     "clusterProfiler",
     "rtracklayer",
     "EpiMix",
-    "enrichplot",
     "GenomicFeatures"
   ],
   "MoonlightR": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "Motif2Site": [
     "BSgenome",
@@ -841,13 +826,11 @@
   "PROPER": [],
   "PROPS": [],
   "PanomiR": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "Pigengene": [
     "clusterProfiler",
-    "ReactomePA",
-    "enrichplot"
+    "ReactomePA"
   ],
   "Prostar": [],
   "ProteoDisco": [
@@ -904,7 +887,6 @@
     "txdbmaker",
     "genomation"
   ],
-  "RCM": [],
   "REMP": [
     "minfi",
     "rtracklayer",
@@ -921,8 +903,7 @@
   ],
   "RFLOMICS": [
     "coseq",
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "RJMCMCNucleosomes": [
     "consensusSeekeR",
@@ -1000,9 +981,7 @@
   "Rbec": [
     "dada2"
   ],
-  "ReactomePA": [
-    "enrichplot"
-  ],
+  "ReactomePA": [],
   "RegEnrich": [],
   "Repitools": [
     "rtracklayer",
@@ -1186,9 +1165,7 @@
     "rtracklayer"
   ],
   "TCseq": [],
-  "TDbasedUFEadv": [
-    "enrichplot"
-  ],
+  "TDbasedUFEadv": [],
   "TEKRABber": [
     "rtracklayer"
   ],
@@ -1293,9 +1270,7 @@
     "BSgenome"
   ],
   "VegaMC": [],
-  "XDE": [
-    "GeneMeta"
-  ],
+  "XDE": [],
   "XeniumIO": [],
   "YAPSA": [
     "SomaticSignatures",
@@ -1390,7 +1365,6 @@
   "bedbaser": [
     "rtracklayer"
   ],
-  "beer": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -1406,7 +1380,6 @@
     "ReactomePA",
     "RTCGAToolbox",
     "TCGAutils",
-    "enrichplot",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -1440,8 +1413,7 @@
     "BSgenome"
   ],
   "broadSeq": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "bsseq": [
     "BSgenome",
@@ -1562,9 +1534,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "clusterProfiler": [
-    "enrichplot"
-  ],
+  "clusterProfiler": [],
   "clusterSeq": [
     "baySeq"
   ],
@@ -1695,8 +1665,7 @@
     "mia"
   ],
   "debrowser": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "decompTumor2Sig": [
     "GenomicFeatures",
@@ -1784,10 +1753,7 @@
     "rtracklayer",
     "TFBSTools"
   ],
-  "enrichViewNet": [
-    "enrichplot"
-  ],
-  "enrichplot": [],
+  "enrichViewNet": [],
   "ensembldb": [
     "GenomicFeatures",
     "rtracklayer"
@@ -1817,8 +1783,7 @@
   ],
   "epiregulon.extra": [
     "scran",
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "epivizr": [
     "epivizrData",
@@ -1862,8 +1827,7 @@
     "BSgenome",
     "GenomicFeatures",
     "TFBSTools",
-    "motifmatchr",
-    "enrichplot"
+    "motifmatchr"
   ],
   "extraChIPs": [
     "csaw",
@@ -1880,8 +1844,7 @@
     "wiggleplotr"
   ],
   "famat": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "fcScan": [
     "VariantAnnotation",
@@ -1907,7 +1870,6 @@
     "GenomicFeatures",
     "ReactomePA",
     "clusterProfiler",
-    "enrichplot",
     "rtracklayer"
   ],
   "gcapc": [
@@ -1962,8 +1924,7 @@
     "rtracklayer"
   ],
   "goSorensen": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "goseq": [
     "rtracklayer",
@@ -2013,7 +1974,6 @@
     "bumphunter",
     "clusterProfiler",
     "ReactomePA",
-    "enrichplot",
     "rtracklayer",
     "txdbmaker"
   ],
@@ -2109,9 +2069,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "meshes": [
-    "enrichplot"
-  ],
+  "meshes": [],
   "metagene2": [
     "rtracklayer"
   ],
@@ -2144,7 +2102,6 @@
   "methylGSA": [
     "clusterProfiler",
     "missMethyl",
-    "enrichplot",
     "minfi",
     "methylumi",
     "GenomicFeatures",
@@ -2195,13 +2152,11 @@
   "miRSM": [
     "BicARE",
     "clusterProfiler",
-    "ReactomePA",
-    "enrichplot"
+    "ReactomePA"
   ],
   "miRspongeR": [
     "clusterProfiler",
-    "ReactomePA",
-    "enrichplot"
+    "ReactomePA"
   ],
   "mia": [],
   "miaDash": [
@@ -2324,8 +2279,7 @@
     "singscore"
   ],
   "pathlinkR": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "periodicDNA": [
     "BSgenome",
@@ -2388,7 +2342,6 @@
     "GenomicFeatures",
     "rGREAT",
     "rtracklayer",
-    "enrichplot",
     "chipseq"
   ],
   "psichomics": [
@@ -2605,7 +2558,6 @@
     "ChIPseeker",
     "clusterProfiler",
     "rtracklayer",
-    "enrichplot",
     "GenomicFeatures"
   ],
   "seqCAT": [
@@ -2640,8 +2592,7 @@
     "GenomicFeatures"
   ],
   "signatureSearch": [
-    "clusterProfiler",
-    "enrichplot"
+    "clusterProfiler"
   ],
   "signeR": [
     "VariantAnnotation",

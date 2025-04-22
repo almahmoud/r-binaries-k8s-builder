@@ -1677,3 +1677,9 @@ qsmooth
 qsvaR
 XeniumIO
 netSmooth
+ReactomePA
+TDbasedUFEadv
+XDE
+clusterProfiler
+enrichViewNet
+meshes
