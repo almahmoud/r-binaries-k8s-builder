@@ -234,7 +234,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "alabaster": [],
   "appreci8R": [
     "OrganismDbi"
   ],
@@ -497,7 +496,6 @@
   "trackViewer": [
     "Gviz"
   ],
-  "transmogR": [],
   "txcutr": [],
   "tximeta": [],
   "uncoverappLib": [
