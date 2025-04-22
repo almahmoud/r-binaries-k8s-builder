@@ -1499,3 +1499,5 @@ Glimma
 iSEEde
 oppar
 sparrow
+GeneBreak
+infercnv
