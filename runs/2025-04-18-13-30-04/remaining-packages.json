@@ -1092,7 +1092,6 @@
   "TBSignatureProfiler": [
     "singscore"
   ],
-  "TCC": [],
   "TCGAutils": [
     "GenomicFeatures",
     "rtracklayer"
