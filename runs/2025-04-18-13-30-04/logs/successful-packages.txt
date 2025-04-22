@@ -1836,3 +1836,8 @@ wavClusteR
 fCCAC
 DSS
 transcriptR
+bambu
+crisprBowtie
+crisprBwa
+RUVSeq
+txdbmaker
