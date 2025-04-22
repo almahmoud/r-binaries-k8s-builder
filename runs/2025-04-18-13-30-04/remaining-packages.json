@@ -42,7 +42,6 @@
   "BBCAnalyzer": [
     "VariantAnnotation"
   ],
-  "BEAT": [],
   "BOBaFIT": [
     "ggbio",
     "biovizBase",
@@ -545,7 +544,6 @@
   "SparseSignatures": [],
   "SpliceWiz": [],
   "SplicingGraphs": [],
-  "Statial": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation"
   ],
@@ -642,7 +640,6 @@
   ],
   "atena": [],
   "bambu": [],
-  "bedbaser": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -890,7 +887,6 @@
     "TFBSTools",
     "motifmatchr"
   ],
-  "extraChIPs": [],
   "fCCAC": [
     "genomation"
   ],
@@ -1194,7 +1190,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scClassify": [],
   "scFeatures": [
     "ensembldb"
   ],

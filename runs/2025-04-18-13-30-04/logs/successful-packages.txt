@@ -1781,3 +1781,8 @@ DMCFB
 dreamlet
 mosaics
 pathMED
+BEAT
+bedbaser
+extraChIPs
+scClassify
+Statial
