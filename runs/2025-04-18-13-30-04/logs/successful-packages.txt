@@ -1959,3 +1959,6 @@ kissDE
 OrganismDbi
 proBAMr
 RiboDiPA
+consensusDE
+OUTRIDER
+sitadela
