@@ -116,7 +116,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "Banksy": [],
   "Basic4Cseq": [
     "BSgenome",
     "rtracklayer"
@@ -1861,7 +1860,6 @@
   "doppelgangR": [
     "sva"
   ],
-  "doseR": [],
   "doubletrouble": [
     "syntenet",
     "GenomicFeatures",
