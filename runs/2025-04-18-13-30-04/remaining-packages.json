@@ -12,7 +12,6 @@
   "GenomicOZone": [],
   "GenomicPlot": [],
   "IMAS": [],
-  "MEAL": [],
   "MEAT": [],
   "R3CPET": [],
   "RNAAgeCalc": [],
@@ -47,17 +46,14 @@
   "geomeTriD": [],
   "iNETgrate": [],
   "intansv": [],
-  "methylGSA": [],
   "methylclock": [],
   "msgbsR": [],
   "nullranges": [],
   "psichomics": [],
-  "regionReport": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData"
   ],
-  "scone": [],
   "scruff": [],
   "skewr": [],
   "tidyomics": [
