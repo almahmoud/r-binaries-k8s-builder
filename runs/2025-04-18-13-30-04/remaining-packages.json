@@ -1703,7 +1703,6 @@
     "RUVSeq",
     "rtracklayer"
   ],
-  "consensusOV": [],
   "consensusSeekeR": [
     "rtracklayer"
   ],
@@ -2474,7 +2473,6 @@
   "pathMED": [
     "singscore"
   ],
-  "pathRender": [],
   "pathlinkR": [
     "clusterProfiler",
     "enrichplot"
@@ -2809,7 +2807,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "sigFeature": [],
   "signatureSearch": [
     "clusterProfiler",
     "enrichplot"
@@ -2821,7 +2818,6 @@
     "GenomicFeatures"
   ],
   "signifinder": [
-    "consensusOV",
     "ensembldb",
     "GenomicFeatures",
     "rtracklayer"
