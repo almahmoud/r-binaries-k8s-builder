@@ -1313,3 +1313,7 @@ edgeR
 GEOsubmission
 GOSemSim
 PPInfer
+epialleleR
+SeqGSEA
+SplineDV
+SPONGE

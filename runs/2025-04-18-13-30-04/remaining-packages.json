@@ -1734,7 +1734,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SPONGE": [],
   "SPsimSeq": [],
   "STATegRa": [],
   "SVMDO": [
@@ -1743,7 +1742,6 @@
   "SWATH2stats": [],
   "ScreenR": [],
   "SemDist": [],
-  "SeqGSEA": [],
   "SeqSQC": [
     "ExperimentHub"
   ],
@@ -1809,7 +1807,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "SplineDV": [],
   "SpotClean": [],
   "StabMap": [],
   "Statial": [
@@ -2756,7 +2753,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "epialleleR": [],
   "epidecodeR": [
     "rtracklayer",
     "GenomicAlignments"
@@ -3325,7 +3321,6 @@
     "enrichplot"
   ],
   "miRspongeR": [
-    "SPONGE",
     "clusterProfiler",
     "ReactomePA",
     "DOSE",
