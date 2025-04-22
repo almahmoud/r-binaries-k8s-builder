@@ -93,7 +93,6 @@
     "methylumi"
   ],
   "MungeSumstats": [],
-  "MutationalPatterns": [],
   "OGRE": [
     "Gviz"
   ],
@@ -110,9 +109,7 @@
   ],
   "R453Plus1Toolbox": [],
   "REMP": [],
-  "RESOLVE": [
-    "MutationalPatterns"
-  ],
+  "RESOLVE": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder"
