@@ -1266,3 +1266,6 @@ partCNV
 rGenomeTracks
 scAnnotatR
 esetVis
+CardinalIO
+DEGraph
+flowVS

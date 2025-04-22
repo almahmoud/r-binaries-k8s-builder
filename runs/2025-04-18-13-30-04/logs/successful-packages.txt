@@ -1071,3 +1071,12 @@ MLP
 PeacoQC
 SpotSweeper
 synlet
+divergence
+evaluomeR
+flowStats
+loci2path
+matter
+MesKit
+NCIgraph
+NPARC
+qpcrNorm

@@ -480,12 +480,9 @@
     "ExperimentHub"
   ],
   "Cardinal": [
-    "CardinalIO",
-    "matter"
+    "CardinalIO"
   ],
-  "CardinalIO": [
-    "matter"
-  ],
+  "CardinalIO": [],
   "Category": [
     "GSEABase",
     "genefilter",
@@ -683,9 +680,7 @@
   "DEFormats": [
     "edgeR"
   ],
-  "DEGraph": [
-    "NCIgraph"
-  ],
+  "DEGraph": [],
   "DEGreport": [
     "ConsensusClusterPlus",
     "edgeR"
@@ -1626,7 +1621,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "MesKit": [],
   "MetCirc": [
     "Spectra",
     "MetaboCoreUtils"
@@ -1824,8 +1818,6 @@
     "genefilter",
     "annotate"
   ],
-  "NCIgraph": [],
-  "NPARC": [],
   "NanoMethViz": [
     "BiocSingular",
     "bsseq",
@@ -3881,7 +3873,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "divergence": [],
   "dominoSignal": [
     "biomaRt"
   ],
@@ -4105,7 +4096,6 @@
   "eudysbiome": [
     "Rsamtools"
   ],
-  "evaluomeR": [],
   "extraChIPs": [
     "csaw",
     "edgeR",
@@ -4172,11 +4162,8 @@
   "flowGate": [
     "ggcyto"
   ],
-  "flowStats": [],
   "flowTrans": [],
-  "flowVS": [
-    "flowStats"
-  ],
+  "flowVS": [],
   "frmaTools": [],
   "funtooNorm": [
     "minfi",
@@ -4535,7 +4522,6 @@
     "genefilter",
     "annotate"
   ],
-  "loci2path": [],
   "lumi": [
     "methylumi",
     "GenomicFeatures",
@@ -4617,7 +4603,6 @@
     "annotate",
     "ExperimentHub"
   ],
-  "matter": [],
   "mbkmeans": [],
   "megadepth": [],
   "meshes": [
@@ -5339,7 +5324,6 @@
     "MetaboCoreUtils"
   ],
   "qmtools": [],
-  "qpcrNorm": [],
   "qpgraph": [
     "annotate",
     "GenomicFeatures",
