@@ -1,7 +1,5 @@
 {
-  "ACE": [
-    "QDNAseq"
-  ],
+  "ACE": [],
   "ADaCGH2": [
     "tilingArray",
     "genefilter"
@@ -172,9 +170,7 @@
     "sva",
     "genefilter"
   ],
-  "BatchSVG": [
-    "scry"
-  ],
+  "BatchSVG": [],
   "BgeeCall": [
     "GenomicFeatures",
     "rtracklayer",
@@ -197,7 +193,6 @@
   "BioCor": [
     "GSEABase"
   ],
-  "BioGA": [],
   "BioNERO": [
     "sva",
     "genefilter"
@@ -266,9 +261,7 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "CATALYST": [
-    "scater"
-  ],
+  "CATALYST": [],
   "CBNplot": [
     "clusterProfiler",
     "enrichplot",
@@ -360,13 +353,9 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "CellMixS": [
-    "scater"
-  ],
+  "CellMixS": [],
   "CellNOptR": [],
-  "CelliD": [
-    "scater"
-  ],
+  "CelliD": [],
   "Cepo": [
     "GSEABase"
   ],
@@ -465,7 +454,6 @@
   "CrispRVariants": [
     "GenomicAlignments"
   ],
-  "CytoML": [],
   "DAMEfinder": [
     "GenomicAlignments",
     "VariantAnnotation",
@@ -542,7 +530,6 @@
   "DeconvoBuddies": [
     "ExperimentHub",
     "scran",
-    "scater",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -595,7 +582,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "EBSEA": [],
   "EDASeq": [
     "ShortRead",
     "GenomicFeatures",
@@ -777,9 +763,7 @@
   "GSVA": [
     "GSEABase"
   ],
-  "GeneBreak": [
-    "QDNAseq"
-  ],
+  "GeneBreak": [],
   "GeneMeta": [
     "genefilter"
   ],
@@ -989,9 +973,7 @@
   "LRcell": [
     "ExperimentHub"
   ],
-  "M3Drop": [
-    "scater"
-  ],
+  "M3Drop": [],
   "MACSr": [
     "ExperimentHub"
   ],
@@ -1036,9 +1018,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MEB": [
-    "scater"
-  ],
+  "MEB": [],
   "MEDIPS": [
     "BSgenome",
     "rtracklayer",
@@ -1051,8 +1031,7 @@
   "MGFM": [],
   "MGFR": [],
   "MGnifyR": [
-    "mia",
-    "scater"
+    "mia"
   ],
   "MIRA": [
     "bsseq",
@@ -1190,7 +1169,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MoleculeExperiment": [],
   "Moonlight2R": [
     "clusterProfiler",
     "DOSE",
@@ -1397,7 +1375,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "QDNAseq": [],
   "QuasR": [
     "BSgenome",
     "GenomicFeatures",
@@ -1934,9 +1911,7 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "VAExprs": [
-    "scater"
-  ],
+  "VAExprs": [],
   "VCFArray": [
     "VariantAnnotation",
     "GenomicFiles",
@@ -2048,9 +2023,7 @@
     "txdbmaker"
   ],
   "affylmGUI": [],
-  "airpart": [
-    "scater"
-  ],
+  "airpart": [],
   "alabaster": [
     "alabaster.spatial",
     "alabaster.vcf",
@@ -2140,7 +2113,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "batchelor": [],
   "baySeq": [],
   "bedbaser": [
     "rtracklayer",
@@ -2294,7 +2266,6 @@
     "GenomicAlignments"
   ],
   "celda": [
-    "scater",
     "scran"
   ],
   "cellbaseR": [],
@@ -2316,18 +2287,14 @@
   ],
   "chevreulPlot": [
     "chevreulProcess",
-    "scater",
     "scran",
     "wiggleplotr",
-    "batchelor",
     "ensembldb",
     "GenomicFeatures",
     "rtracklayer",
     "GenomicAlignments"
   ],
   "chevreulProcess": [
-    "scater",
-    "batchelor",
     "ensembldb",
     "GenomicFeatures",
     "scran",
@@ -2338,9 +2305,7 @@
     "chevreulProcess",
     "chevreulPlot",
     "wiggleplotr",
-    "scater",
     "scran",
-    "batchelor",
     "ensembldb",
     "GenomicFeatures",
     "rtracklayer",
@@ -2364,7 +2329,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "chromPlot": [],
   "chromVAR": [
     "TFBSTools",
     "BSgenome",
@@ -2404,9 +2368,7 @@
     "PSMatch",
     "MsExperiment"
   ],
-  "clustSIGNAL": [
-    "scater"
-  ],
+  "clustSIGNAL": [],
   "clusterExperiment": [
     "zinbwave",
     "genefilter"
@@ -2439,8 +2401,7 @@
   ],
   "compcodeR": [],
   "condiments": [
-    "distinct",
-    "scater"
+    "distinct"
   ],
   "consensusDE": [
     "EDASeq",
@@ -2588,8 +2549,7 @@
     "PROPER"
   ],
   "cytofQC": [
-    "CATALYST",
-    "scater"
+    "CATALYST"
   ],
   "dada2": [
     "ShortRead",
@@ -2606,8 +2566,7 @@
     "miloR"
   ],
   "dar": [
-    "mia",
-    "scater"
+    "mia"
   ],
   "debrowser": [
     "DOSE",
@@ -2625,7 +2584,6 @@
   ],
   "decontX": [
     "celda",
-    "scater",
     "scran"
   ],
   "deconvR": [
@@ -2693,9 +2651,7 @@
   ],
   "diffcyt": [],
   "dinoR": [],
-  "distinct": [
-    "scater"
-  ],
+  "distinct": [],
   "doppelgangR": [
     "sva",
     "genefilter"
@@ -2787,7 +2743,6 @@
   "epiregulon.extra": [
     "scran",
     "clusterProfiler",
-    "scater",
     "DOSE",
     "enrichplot"
   ],
@@ -3066,8 +3021,7 @@
   ],
   "iSEEtree": [
     "miaViz",
-    "mia",
-    "scater"
+    "mia"
   ],
   "icetea": [
     "GenomicFeatures",
@@ -3119,8 +3073,7 @@
     "ExperimentHub"
   ],
   "lefser": [
-    "mia",
-    "scater"
+    "mia"
   ],
   "lemur": [],
   "lineagespot": [
@@ -3326,21 +3279,16 @@
     "DOSE",
     "enrichplot"
   ],
-  "mia": [
-    "scater"
-  ],
+  "mia": [],
   "miaDash": [
     "iSEEtree",
     "mia",
-    "scater",
     "miaViz"
   ],
   "miaViz": [
-    "mia",
-    "scater"
+    "mia"
   ],
   "miloR": [],
-  "mimager": [],
   "minfi": [
     "bumphunter",
     "genefilter",
@@ -3441,12 +3389,9 @@
   "multiGSEA": [],
   "multiHiCcompare": [],
   "mumosa": [
-    "scran",
-    "batchelor"
+    "scran"
   ],
-  "muscat": [
-    "scater"
-  ],
+  "muscat": [],
   "mygene": [
     "GenomicFeatures",
     "txdbmaker",
@@ -3473,7 +3418,6 @@
     "GenomicFeatures"
   ],
   "netSmooth": [
-    "scater",
     "clusterExperiment",
     "zinbwave",
     "genefilter"
@@ -3552,9 +3496,7 @@
     "MSnbase",
     "PSMatch"
   ],
-  "peco": [
-    "scater"
-  ],
+  "peco": [],
   "periodicDNA": [
     "BSgenome",
     "rtracklayer",
@@ -3567,8 +3509,7 @@
     "genefilter"
   ],
   "pipeComp": [
-    "scran",
-    "scater"
+    "scran"
   ],
   "pipeFrame": [
     "BSgenome",
@@ -3854,13 +3795,10 @@
   ],
   "scDblFinder": [
     "scran",
-    "scater",
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "scDotPlot": [
-    "scater"
-  ],
+  "scDotPlot": [],
   "scFeatureFilter": [],
   "scFeatures": [
     "GSVA",
@@ -3875,8 +3813,6 @@
   ],
   "scMerge": [
     "M3Drop",
-    "scater",
-    "batchelor",
     "scran"
   ],
   "scQTLtools": [],
@@ -3891,7 +3827,6 @@
     "epivizr",
     "scran",
     "epivizrData",
-    "scater",
     "bumphunter",
     "OrganismDbi",
     "GenomicFeatures",
@@ -3907,7 +3842,6 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "scater": [],
   "scde": [],
   "scone": [
     "RUVSeq",
@@ -3931,10 +3865,7 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "scry": [],
-  "scviR": [
-    "scater"
-  ],
+  "scviR": [],
   "segmentSeq": [
     "baySeq",
     "ShortRead",
@@ -3977,7 +3908,6 @@
   ],
   "shinyDSP": [
     "ExperimentHub",
-    "scater",
     "standR",
     "RUVSeq",
     "EDASeq",
@@ -4089,8 +4019,7 @@
     "rtracklayer"
   ],
   "spillR": [
-    "CATALYST",
-    "scater"
+    "CATALYST"
   ],
   "splatter": [],
   "splineTimeR": [
@@ -4237,9 +4166,7 @@
   "treekoR": [
     "diffcyt"
   ],
-  "tricycle": [
-    "scater"
-  ],
+  "tricycle": [],
   "tweeDEseq": [],
   "txcutr": [
     "GenomicFeatures",

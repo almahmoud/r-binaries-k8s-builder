@@ -1317,3 +1317,13 @@ epialleleR
 SeqGSEA
 SplineDV
 SPONGE
+batchelor
+BioGA
+chromPlot
+CytoML
+EBSEA
+mimager
+MoleculeExperiment
+QDNAseq
+scater
+scry
