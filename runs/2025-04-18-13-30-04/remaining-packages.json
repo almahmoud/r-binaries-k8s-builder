@@ -240,7 +240,6 @@
   "epimutacions": [
     "Gviz"
   ],
-  "epiregulon": [],
   "epivizr": [
     "epivizrData"
   ],
@@ -326,7 +325,6 @@
   "regutools": [
     "Gviz"
   ],
-  "ribosomeProfilingQC": [],
   "saseR": [
     "ASpli",
     "Gviz"

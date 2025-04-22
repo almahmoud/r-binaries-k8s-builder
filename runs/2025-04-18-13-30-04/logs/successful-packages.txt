@@ -1999,3 +1999,5 @@ esATAC
 glmSparseNet
 MetaboSignal
 MutationalPatterns
+epiregulon
+ribosomeProfilingQC
