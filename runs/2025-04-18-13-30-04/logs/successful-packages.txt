@@ -2016,3 +2016,7 @@ HelloRanges
 preciseTAD
 Rqc
 VCFArray
+BubbleTree
+deepSNV
+methylumi
+REMP

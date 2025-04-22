@@ -14,7 +14,6 @@
   "BOBaFIT": [
     "ggbio"
   ],
-  "BubbleTree": [],
   "CAFE": [
     "ggbio"
   ],
@@ -57,17 +56,14 @@
   "IntEREst": [],
   "IsoformSwitchAnalyzeR": [],
   "MEAL": [
-    "missMethyl",
-    "methylumi"
+    "missMethyl"
   ],
   "MEAT": [
     "wateRmelon",
-    "methylumi",
     "lumi"
   ],
   "MineICA": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "MungeSumstats": [],
   "OGRE": [],
@@ -79,7 +75,6 @@
     "ggbio"
   ],
   "R453Plus1Toolbox": [],
-  "REMP": [],
   "RESOLVE": [],
   "RNAAgeCalc": [
     "recount",
@@ -102,9 +97,7 @@
   "RiboProfiling": [
     "ggbio"
   ],
-  "RnBeads": [
-    "methylumi"
-  ],
+  "RnBeads": [],
   "RnaSeqSampleSize": [
     "recount",
     "derfinder"
@@ -132,13 +125,11 @@
   ],
   "appreci8R": [],
   "arrayMvout": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "atSNP": [],
   "bigmelon": [
     "wateRmelon",
-    "methylumi",
     "lumi"
   ],
   "bioCancer": [],
@@ -164,7 +155,6 @@
   ],
   "crisprViz": [],
   "cummeRbund": [],
-  "deepSNV": [],
   "demuxSNP": [],
   "derfinder": [],
   "derfinderPlot": [
@@ -184,8 +174,7 @@
     "epivizrData"
   ],
   "ffpe": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "funtooNorm": [],
   "geomeTriD": [
@@ -194,35 +183,26 @@
   "ggbio": [],
   "gmoviz": [],
   "iCheck": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "iNETgrate": [],
   "igvR": [],
   "intansv": [
     "ggbio"
   ],
-  "lumi": [
-    "methylumi"
-  ],
+  "lumi": [],
   "mCSEA": [],
   "maser": [],
   "methylGSA": [
-    "missMethyl",
-    "methylumi"
+    "missMethyl"
   ],
   "methylPipe": [],
   "methylclock": [
     "ExperimentHubData",
     "AnnotationHubData"
   ],
-  "methylumi": [],
-  "missMethyl": [
-    "methylumi"
-  ],
-  "mitoClone2": [
-    "deepSNV"
-  ],
+  "missMethyl": [],
+  "mitoClone2": [],
   "motifbreakR": [],
   "msgbsR": [
     "ggbio"
@@ -254,7 +234,6 @@
   ],
   "shinyDSP": [],
   "skewr": [
-    "methylumi",
     "wateRmelon",
     "lumi"
   ],
@@ -271,7 +250,6 @@
   "txcutr": [],
   "uncoverappLib": [],
   "wateRmelon": [
-    "methylumi",
     "lumi"
   ],
   "yarn": []
