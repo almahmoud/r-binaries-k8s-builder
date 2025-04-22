@@ -1708,3 +1708,11 @@ MGnifyR
 MOSim
 DifferentialRegulation
 SpaNorm
+clusterSeq
+miRLAB
+msImpute
+NBAMSeq
+riboSeqR
+scDD
+SIM
+tweeDEseq
