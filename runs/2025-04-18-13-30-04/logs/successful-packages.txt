@@ -2096,3 +2096,10 @@ MungeSumstats
 AHMassBank
 ExperimentHubData
 TFEA.ChIP
+ChIPQC
+igvR
+OMICsPCA
+shinyDSP
+SingleMoleculeFootprinting
+srnadiff
+trackViewer

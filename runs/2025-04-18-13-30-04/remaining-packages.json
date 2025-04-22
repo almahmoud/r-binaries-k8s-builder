@@ -7,7 +7,6 @@
   "BOBaFIT": [],
   "CAFE": [],
   "CAGEr": [],
-  "ChIPQC": [],
   "Damsel": [],
   "EpiCompare": [],
   "GenomicOZone": [],
@@ -18,7 +17,6 @@
   "IVAS": [],
   "MEAL": [],
   "MEAT": [],
-  "OMICsPCA": [],
   "R3CPET": [],
   "RESOLVE": [],
   "RNAAgeCalc": [
@@ -29,7 +27,6 @@
   "RnaSeqSampleSize": [
     "recount"
   ],
-  "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [],
   "YAPSA": [
     "SomaticSignatures"
@@ -55,12 +52,9 @@
     "epivizr",
     "epivizrData"
   ],
-  "geomeTriD": [
-    "trackViewer"
-  ],
+  "geomeTriD": [],
   "gmoviz": [],
   "iNETgrate": [],
-  "igvR": [],
   "intansv": [],
   "methylGSA": [],
   "methylclock": [],
@@ -77,12 +71,9 @@
   ],
   "scone": [],
   "scruff": [],
-  "shinyDSP": [],
   "skewr": [],
-  "srnadiff": [],
   "tidyomics": [
     "nullranges"
   ],
-  "trackViewer": [],
   "txcutr": []
 }
