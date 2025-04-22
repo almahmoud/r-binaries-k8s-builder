@@ -1686,3 +1686,6 @@ netSmooth
 bandle
 pRolocGUI
 SVMDO
+CelliD
+goSorensen
+signatureSearch

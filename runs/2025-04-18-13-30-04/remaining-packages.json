@@ -163,7 +163,6 @@
   "CSSQ": [
     "GenomicFeatures"
   ],
-  "CelliD": [],
   "Cepo": [],
   "CexoR": [
     "genomation",
@@ -1437,7 +1436,6 @@
   "gmoviz": [
     "GenomicFeatures"
   ],
-  "goSorensen": [],
   "goseq": [
     "GenomicFeatures",
     "txdbmaker"
@@ -1914,7 +1912,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "signatureSearch": [],
   "signeR": [
     "VariantAnnotation",
     "BSgenome",
