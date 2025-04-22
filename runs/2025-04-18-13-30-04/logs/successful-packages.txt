@@ -1298,3 +1298,9 @@ msqrob2
 safe
 CNVPanelizer
 fgga
+miaSim
+multiWGCNA
+simPIC
+smoothclust
+spoon
+TENxIO

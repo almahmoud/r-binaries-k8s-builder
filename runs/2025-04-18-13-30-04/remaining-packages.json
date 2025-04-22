@@ -2002,7 +2002,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "TENxIO": [],
   "TFBSTools": [
     "BSgenome",
     "rtracklayer",
@@ -2133,9 +2132,7 @@
     "GenomicAlignments"
   ],
   "VegaMC": [],
-  "VisiumIO": [
-    "TENxIO"
-  ],
+  "VisiumIO": [],
   "VplotR": [
     "GenomicAlignments"
   ],
@@ -2144,7 +2141,6 @@
     "GeneMeta"
   ],
   "XeniumIO": [
-    "TENxIO",
     "VisiumIO"
   ],
   "YAPSA": [
@@ -3572,7 +3568,6 @@
     "scater",
     "miaViz"
   ],
-  "miaSim": [],
   "miaViz": [
     "mia",
     "scater"
@@ -3686,7 +3681,6 @@
   "multiHiCcompare": [
     "edgeR"
   ],
-  "multiWGCNA": [],
   "mumosa": [
     "scran",
     "batchelor",
@@ -4319,7 +4313,6 @@
     "GSEABase",
     "GenomicAlignments"
   ],
-  "simPIC": [],
   "singscore": [
     "GSEABase",
     "edgeR"
@@ -4344,7 +4337,6 @@
   "slalom": [
     "GSEABase"
   ],
-  "smoothclust": [],
   "soGGi": [
     "GenomicAlignments",
     "rtracklayer",
@@ -4397,7 +4389,6 @@
   "splineTimeR": [
     "GSEABase"
   ],
-  "spoon": [],
   "squallms": [
     "xcms",
     "MSnbase",
@@ -4626,9 +4617,7 @@
   "xcore": [
     "edgeR"
   ],
-  "xenLite": [
-    "TENxIO"
-  ],
+  "xenLite": [],
   "yarn": [
     "edgeR",
     "quantro",
