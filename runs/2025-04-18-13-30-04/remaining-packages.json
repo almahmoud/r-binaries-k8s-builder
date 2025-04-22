@@ -48,7 +48,6 @@
   "ELMER": [
     "Gviz"
   ],
-  "ENmix": [],
   "EpiCompare": [],
   "ExperimentHubData": [
     "AnnotationHubData"
@@ -215,7 +214,6 @@
     "Gviz"
   ],
   "conumee": [],
-  "cpvSNP": [],
   "crisprShiny": [
     "crisprViz",
     "Gviz"
@@ -311,7 +309,6 @@
   "primirTSS": [
     "Gviz"
   ],
-  "proActiv": [],
   "psichomics": [
     "recount",
     "derfinder"
