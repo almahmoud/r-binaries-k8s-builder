@@ -2009,3 +2009,6 @@ cBioPortalData
 MethylAid
 methylSig
 Rhisat2
+conumee
+Gviz
+methylCC

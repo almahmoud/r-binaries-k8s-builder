@@ -2,17 +2,13 @@
   "AHMassBank": [
     "AnnotationHubData"
   ],
-  "ASpli": [
-    "Gviz"
-  ],
+  "ASpli": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
     "ggbio"
   ],
-  "AllelicImbalance": [
-    "Gviz"
-  ],
+  "AllelicImbalance": [],
   "AnnotationHubData": [],
   "BBCAnalyzer": [],
   "BOBaFIT": [
@@ -23,12 +19,10 @@
     "ggbio"
   ],
   "CAGEfightR": [
-    "Gviz",
     "GenomicInteractions"
   ],
   "CAGEr": [
     "CAGEfightR",
-    "Gviz",
     "GenomicInteractions"
   ],
   "COCOA": [],
@@ -39,33 +33,23 @@
   "Damsel": [
     "ggbio"
   ],
-  "DuplexDiscovereR": [
-    "Gviz"
-  ],
-  "ELMER": [
-    "Gviz"
-  ],
+  "DuplexDiscovereR": [],
+  "ELMER": [],
   "EpiCompare": [],
   "ExperimentHubData": [
     "AnnotationHubData"
   ],
   "FRASER": [],
   "GSReg": [],
-  "GeneStructureTools": [
-    "Gviz"
-  ],
-  "GenomicInteractions": [
-    "Gviz"
-  ],
+  "GeneStructureTools": [],
+  "GenomicInteractions": [],
   "GenomicOZone": [
     "ggbio"
   ],
   "GenomicPlot": [],
-  "Gviz": [],
   "HelloRanges": [],
   "HiCDCPlus": [
-    "GenomicInteractions",
-    "Gviz"
+    "GenomicInteractions"
   ],
   "IMAS": [
     "IVAS"
@@ -74,7 +58,6 @@
   "IntEREst": [],
   "IsoformSwitchAnalyzeR": [],
   "MEAL": [
-    "Gviz",
     "missMethyl",
     "methylumi"
   ],
@@ -88,16 +71,12 @@
     "methylumi"
   ],
   "MungeSumstats": [],
-  "OGRE": [
-    "Gviz"
-  ],
+  "OGRE": [],
   "OMICsPCA": [
     "HelloRanges"
   ],
   "ProteoDisco": [],
-  "Pviz": [
-    "Gviz"
-  ],
+  "Pviz": [],
   "QuasR": [],
   "R3CPET": [
     "ggbio"
@@ -109,20 +88,15 @@
     "recount",
     "derfinder"
   ],
-  "RNAmodR": [
-    "Gviz"
-  ],
+  "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
-    "RNAmodR",
-    "Gviz"
+    "RNAmodR"
   ],
   "RNAmodR.ML": [
-    "RNAmodR",
-    "Gviz"
+    "RNAmodR"
   ],
   "RNAmodR.RiboMethSeq": [
-    "RNAmodR",
-    "Gviz"
+    "RNAmodR"
   ],
   "RareVariantVis": [],
   "ReportingTools": [
@@ -139,9 +113,7 @@
     "derfinder"
   ],
   "Rqc": [],
-  "SPLINTER": [
-    "Gviz"
-  ],
+  "SPLINTER": [],
   "SingleMoleculeFootprinting": [
     "QuasR"
   ],
@@ -151,14 +123,10 @@
   "TFEA.ChIP": [],
   "TFHAZ": [],
   "TFutils": [],
-  "TVTB": [
-    "Gviz"
-  ],
+  "TVTB": [],
   "UPDhmm": [],
   "VCFArray": [],
-  "VariantFiltering": [
-    "Gviz"
-  ],
+  "VariantFiltering": [],
   "YAPSA": [
     "SomaticSignatures",
     "ggbio"
@@ -179,9 +147,7 @@
     "lumi"
   ],
   "bioCancer": [],
-  "biomvRCNS": [
-    "Gviz"
-  ],
+  "biomvRCNS": [],
   "bnem": [],
   "cageminer": [
     "ggbio"
@@ -192,30 +158,17 @@
   "chevreulShiny": [
     "chevreulPlot"
   ],
-  "chimeraviz": [
-    "Gviz"
-  ],
-  "cicero": [
-    "Gviz"
-  ],
-  "comapr": [
-    "Gviz"
-  ],
-  "conumee": [],
+  "chimeraviz": [],
+  "cicero": [],
+  "comapr": [],
   "crisprShiny": [
-    "crisprViz",
-    "Gviz"
+    "crisprViz"
   ],
   "crisprVerse": [
-    "crisprViz",
-    "Gviz"
+    "crisprViz"
   ],
-  "crisprViz": [
-    "Gviz"
-  ],
-  "cummeRbund": [
-    "Gviz"
-  ],
+  "crisprViz": [],
+  "cummeRbund": [],
   "deepSNV": [],
   "demuxSNP": [],
   "derfinder": [],
@@ -223,9 +176,7 @@
     "derfinder",
     "ggbio"
   ],
-  "epimutacions": [
-    "Gviz"
-  ],
+  "epimutacions": [],
   "epivizr": [
     "epivizrData"
   ],
@@ -243,8 +194,7 @@
   ],
   "funtooNorm": [],
   "geomeTriD": [
-    "trackViewer",
-    "Gviz"
+    "trackViewer"
   ],
   "ggbio": [],
   "gmoviz": [],
@@ -260,20 +210,13 @@
   "lumi": [
     "methylumi"
   ],
-  "mCSEA": [
-    "Gviz"
-  ],
-  "maser": [
-    "Gviz"
-  ],
-  "methylCC": [],
+  "mCSEA": [],
+  "maser": [],
   "methylGSA": [
     "missMethyl",
     "methylumi"
   ],
-  "methylPipe": [
-    "Gviz"
-  ],
+  "methylPipe": [],
   "methylclock": [
     "ExperimentHubData",
     "AnnotationHubData"
@@ -285,17 +228,13 @@
   "mitoClone2": [
     "deepSNV"
   ],
-  "motifbreakR": [
-    "Gviz"
-  ],
+  "motifbreakR": [],
   "msgbsR": [
     "ggbio"
   ],
   "nullranges": [],
   "preciseTAD": [],
-  "primirTSS": [
-    "Gviz"
-  ],
+  "primirTSS": [],
   "psichomics": [
     "recount",
     "derfinder"
@@ -306,12 +245,9 @@
   "regionReport": [
     "derfinder"
   ],
-  "regutools": [
-    "Gviz"
-  ],
+  "regutools": [],
   "saseR": [
-    "ASpli",
-    "Gviz"
+    "ASpli"
   ],
   "scFeatures": [],
   "scTreeViz": [
@@ -329,26 +265,17 @@
     "lumi"
   ],
   "spatzie": [
-    "GenomicInteractions",
-    "Gviz"
+    "GenomicInteractions"
   ],
-  "srnadiff": [
-    "Gviz"
-  ],
+  "srnadiff": [],
   "tLOH": [],
-  "tadar": [
-    "Gviz"
-  ],
+  "tadar": [],
   "tidyomics": [
     "nullranges"
   ],
-  "trackViewer": [
-    "Gviz"
-  ],
+  "trackViewer": [],
   "txcutr": [],
-  "uncoverappLib": [
-    "Gviz"
-  ],
+  "uncoverappLib": [],
   "wateRmelon": [
     "methylumi",
     "lumi"
