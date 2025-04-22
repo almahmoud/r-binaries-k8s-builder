@@ -1398,3 +1398,8 @@ CRISPRball
 DEGreport
 MsBackendSql
 PECA
+BaalChIP
+BasicSTARRseq
+BiocHubsShiny
+iSEEfier
+uSORT

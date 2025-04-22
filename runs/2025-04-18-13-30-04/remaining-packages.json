@@ -117,7 +117,6 @@
     "plyranges",
     "rtracklayer"
   ],
-  "BaalChIP": [],
   "BadRegionFinder": [
     "VariantAnnotation",
     "rtracklayer",
@@ -129,7 +128,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "BasicSTARRseq": [],
   "BatchQC": [
     "scran",
     "sva"
@@ -155,7 +153,6 @@
   "BioTIP": [
     "scran"
   ],
-  "BiocHubsShiny": [],
   "BloodGen3Module": [],
   "BubbleTree": [
     "biovizBase",
@@ -2384,7 +2381,6 @@
     "txdbmaker"
   ],
   "iSEEde": [],
-  "iSEEfier": [],
   "iSEEhub": [],
   "iSEEtree": [
     "miaViz",
@@ -3311,7 +3307,6 @@
     "ensembldb",
     "rtracklayer"
   ],
-  "uSORT": [],
   "uncoverappLib": [
     "Gviz",
     "OrganismDbi",
