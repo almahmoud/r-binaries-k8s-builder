@@ -464,7 +464,6 @@
   "GDCRNATools": [
     "clusterProfiler"
   ],
-  "GEOexplorer": [],
   "GOTHiC": [
     "BSgenome",
     "rtracklayer"
@@ -672,7 +671,6 @@
   "MPAC": [
     "scran"
   ],
-  "MSPrep": [],
   "MatrixQCvis": [],
   "MatrixRider": [
     "TFBSTools",
@@ -812,7 +810,6 @@
     "POMA"
   ],
   "PROPER": [],
-  "PROPS": [],
   "PanomiR": [
     "clusterProfiler"
   ],
@@ -1734,7 +1731,6 @@
     "rtracklayer",
     "TFBSTools"
   ],
-  "enrichViewNet": [],
   "ensembldb": [
     "GenomicFeatures",
     "rtracklayer"
@@ -2048,7 +2044,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "meshes": [],
   "metagene2": [
     "rtracklayer"
   ],
