@@ -1822,3 +1822,7 @@ SparseSignatures
 CSSQ
 EDASeq
 methylInheritance
+bumphunter
+SplicingGraphs
+TRESS
+VaSP

@@ -1,2 +1,4 @@
-DaMiRseq
-RUVSeq
+coMethDMR
+magpie
+minfi
+rnaEditr

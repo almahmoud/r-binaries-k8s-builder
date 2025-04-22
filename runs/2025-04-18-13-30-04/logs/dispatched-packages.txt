@@ -1913,3 +1913,7 @@ NanoMethViz
 miaDash
 DaMiRseq
 RUVSeq
+coMethDMR
+magpie
+minfi
+rnaEditr
