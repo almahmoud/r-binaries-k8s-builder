@@ -2080,3 +2080,7 @@ DAMEfinder
 uncoverappLib
 GSReg
 motifbreakR
+AnnotationHubData
+IntEREst
+IsoformSwitchAnalyzeR
+TFHAZ

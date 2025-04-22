@@ -1,13 +1,10 @@
 {
-  "AHMassBank": [
-    "AnnotationHubData"
-  ],
+  "AHMassBank": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
     "ggbio"
   ],
-  "AnnotationHubData": [],
   "BBCAnalyzer": [],
   "BOBaFIT": [
     "ggbio"
@@ -21,9 +18,7 @@
     "ggbio"
   ],
   "EpiCompare": [],
-  "ExperimentHubData": [
-    "AnnotationHubData"
-  ],
+  "ExperimentHubData": [],
   "FRASER": [],
   "GenomicOZone": [
     "ggbio"
@@ -33,8 +28,6 @@
     "IVAS"
   ],
   "IVAS": [],
-  "IntEREst": [],
-  "IsoformSwitchAnalyzeR": [],
   "MEAL": [],
   "MEAT": [],
   "MungeSumstats": [],
@@ -62,7 +55,6 @@
     "ggbio"
   ],
   "TFEA.ChIP": [],
-  "TFHAZ": [],
   "YAPSA": [
     "SomaticSignatures",
     "ggbio"
@@ -109,8 +101,7 @@
   ],
   "methylGSA": [],
   "methylclock": [
-    "ExperimentHubData",
-    "AnnotationHubData"
+    "ExperimentHubData"
   ],
   "msgbsR": [
     "ggbio"
