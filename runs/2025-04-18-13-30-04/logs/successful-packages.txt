@@ -1995,3 +1995,6 @@ ATACseqTFEA
 PAST
 SMITE
 terraTCGAdata
+esATAC
+glmSparseNet
+MetaboSignal

@@ -87,7 +87,6 @@
     "methylumi",
     "lumi"
   ],
-  "MetaboSignal": [],
   "MethylAid": [],
   "MineICA": [
     "lumi",
@@ -256,7 +255,6 @@
     "epivizr",
     "epivizrData"
   ],
-  "esATAC": [],
   "ffpe": [
     "lumi",
     "methylumi"
@@ -267,7 +265,6 @@
     "Gviz"
   ],
   "ggbio": [],
-  "glmSparseNet": [],
   "gmoviz": [],
   "iCheck": [
     "lumi",
