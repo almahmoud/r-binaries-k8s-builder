@@ -1,2 +1,6 @@
-Spectra
-ginmappeR
+BioGA
+BiocCheck
+BiocPkgTools
+monocle
+sigFeature
+webbioc

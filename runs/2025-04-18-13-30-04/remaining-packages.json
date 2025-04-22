@@ -16,7 +16,6 @@
     "AnnotationHubData",
     "GenomicFeatures",
     "rtracklayer",
-    "biocViews",
     "BiocCheck",
     "OrganismDbi",
     "txdbmaker",
@@ -99,7 +98,6 @@
   "AnnotationHubData": [
     "GenomicFeatures",
     "rtracklayer",
-    "biocViews",
     "BiocCheck",
     "OrganismDbi",
     "txdbmaker",
@@ -162,7 +160,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "BUMHMM": [],
   "BUScorrect": [],
   "BUSpaRse": [
     "BSgenome",
@@ -227,9 +224,7 @@
     "GSEABase",
     "annotate"
   ],
-  "BioGA": [
-    "biocViews"
-  ],
+  "BioGA": [],
   "BioNERO": [
     "sva",
     "genefilter",
@@ -244,15 +239,11 @@
     "scuttle",
     "edgeR"
   ],
-  "BiocCheck": [
-    "biocViews"
-  ],
+  "BiocCheck": [],
   "BiocHubsShiny": [
     "ExperimentHub"
   ],
-  "BiocPkgTools": [
-    "biocViews"
-  ],
+  "BiocPkgTools": [],
   "BloodGen3Module": [
     "ExperimentHub"
   ],
@@ -804,7 +795,6 @@
     "ExperimentHub",
     "GenomicFeatures",
     "rtracklayer",
-    "biocViews",
     "BiocCheck",
     "OrganismDbi",
     "txdbmaker",
@@ -1145,7 +1135,6 @@
     "ensembldb",
     "annotate"
   ],
-  "KCsmart": [],
   "KnowSeq": [
     "sva",
     "edgeR",
@@ -1839,7 +1828,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RTNsurvival": [],
   "RUVSeq": [
     "EDASeq",
     "edgeR",
@@ -2112,7 +2100,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "SingleR": [],
   "SomaticSignatures": [
     "VariantAnnotation",
     "ggbio",
@@ -2171,7 +2158,6 @@
     "GenomicAlignments",
     "BSgenome"
   ],
-  "SubCellBarCode": [],
   "TAPseq": [
     "GenomicAlignments",
     "BSgenome",
@@ -2396,12 +2382,10 @@
   ],
   "a4": [
     "a4Base",
-    "annaffy",
     "genefilter",
     "annotate"
   ],
   "a4Base": [
-    "annaffy",
     "genefilter",
     "annotate"
   ],
@@ -2458,7 +2442,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "annaffy": [],
   "annmap": [
     "genefilter",
     "annotate"
@@ -2590,7 +2573,6 @@
     "geneplotter",
     "annotate"
   ],
-  "biocViews": [],
   "biomvRCNS": [
     "Gviz",
     "rtracklayer",
@@ -2826,7 +2808,6 @@
     "BSgenome",
     "biovizBase",
     "GenomicAlignments",
-    "biocViews",
     "VariantAnnotation"
   ],
   "cleanUpdTSeq": [
@@ -2896,7 +2877,6 @@
   "compcodeR": [
     "edgeR"
   ],
-  "concordexR": [],
   "condiments": [
     "distinct",
     "scater",
@@ -3039,7 +3019,6 @@
   "csaw": [
     "edgeR"
   ],
-  "csdR": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -3450,8 +3429,7 @@
     "GenomicAlignments"
   ],
   "gDRstyle": [
-    "BiocCheck",
-    "biocViews"
+    "BiocCheck"
   ],
   "gINTomics": [
     "edgeR",
@@ -3907,7 +3885,6 @@
     "AnnotationHubData",
     "annotate",
     "rtracklayer",
-    "biocViews",
     "BiocCheck",
     "OrganismDbi",
     "txdbmaker",
@@ -4020,9 +3997,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "monocle": [
-    "biocViews"
-  ],
+  "monocle": [],
   "mosaics": [
     "GenomicAlignments"
   ],
@@ -4770,9 +4745,7 @@
     "GenomicFeatures",
     "annotate"
   ],
-  "sigFeature": [
-    "biocViews"
-  ],
+  "sigFeature": [],
   "signatureSearch": [
     "ExperimentHub",
     "clusterProfiler",
@@ -5086,8 +5059,7 @@
     "GenomicAlignments"
   ],
   "uSORT": [
-    "monocle",
-    "biocViews"
+    "monocle"
   ],
   "uncoverappLib": [
     "Gviz",
@@ -5130,9 +5102,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "webbioc": [
-    "annaffy"
-  ],
+  "webbioc": [],
   "wiggleplotr": [
     "rtracklayer",
     "GenomicAlignments"

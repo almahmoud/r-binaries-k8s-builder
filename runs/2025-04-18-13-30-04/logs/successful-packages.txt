@@ -1189,3 +1189,12 @@ SAIGEgds
 scrapper
 tidybulk
 UniProt.ws
+annaffy
+biocViews
+BUMHMM
+concordexR
+csdR
+KCsmart
+RTNsurvival
+SingleR
+SubCellBarCode
