@@ -1893,3 +1893,5 @@ strandCheckR
 transcriptR
 txdbmaker
 wavClusteR
+RJMCMCNucleosomes
+factR

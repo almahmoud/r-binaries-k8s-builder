@@ -1773,3 +1773,7 @@ dandelionR
 ExCluster
 HiTC
 InTAD
+anota2seq
+consensusSeekeR
+VegaMC
+wiggleplotr

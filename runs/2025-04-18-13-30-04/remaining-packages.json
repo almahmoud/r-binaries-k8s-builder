@@ -419,9 +419,7 @@
     "VariantAnnotation"
   ],
   "RFLOMICS": [],
-  "RJMCMCNucleosomes": [
-    "consensusSeekeR"
-  ],
+  "RJMCMCNucleosomes": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -600,7 +598,6 @@
   "VariantTools": [
     "VariantAnnotation"
   ],
-  "VegaMC": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
@@ -629,7 +626,6 @@
   "alabaster.vcf": [
     "VariantAnnotation"
   ],
-  "anota2seq": [],
   "appreci8R": [
     "VariantAnnotation",
     "OrganismDbi",
@@ -704,7 +700,6 @@
   "cfDNAPro": [],
   "chevreulPlot": [
     "chevreulProcess",
-    "wiggleplotr",
     "ensembldb"
   ],
   "chevreulProcess": [
@@ -713,7 +708,6 @@
   "chevreulShiny": [
     "chevreulProcess",
     "chevreulPlot",
-    "wiggleplotr",
     "ensembldb"
   ],
   "chimeraviz": [
@@ -751,7 +745,6 @@
     "ensembldb",
     "RUVSeq"
   ],
-  "consensusSeekeR": [],
   "conumee": [
     "minfi",
     "bumphunter"
@@ -903,9 +896,7 @@
   "fCCAC": [
     "genomation"
   ],
-  "factR": [
-    "wiggleplotr"
-  ],
+  "factR": [],
   "fcScan": [
     "VariantAnnotation"
   ],
@@ -1355,7 +1346,6 @@
     "bumphunter"
   ],
   "wavClusteR": [],
-  "wiggleplotr": [],
   "yarn": [
     "quantro",
     "minfi",
