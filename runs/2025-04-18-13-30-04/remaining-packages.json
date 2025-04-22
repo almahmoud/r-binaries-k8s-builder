@@ -60,7 +60,6 @@
   "CCAFE": [],
   "CNVrd2": [],
   "COCOA": [],
-  "CODEX": [],
   "CRISPRseek": [],
   "ChIPQC": [
     "DiffBind"
@@ -266,7 +265,6 @@
     "biovizBase",
     "OrganismDbi"
   ],
-  "Rmmquant": [],
   "RnBeads": [
     "methylumi",
     "minfi"
@@ -495,7 +493,6 @@
     "OrganismDbi"
   ],
   "esATAC": [
-    "pipeFrame",
     "ChIPseeker",
     "motifmatchr"
   ],
@@ -526,9 +523,7 @@
   "gmoviz": [],
   "goseq": [],
   "gwasurvivr": [],
-  "iCNV": [
-    "CODEX"
-  ],
+  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi",
@@ -563,7 +558,6 @@
     "biovizBase"
   ],
   "metaseqR2": [],
-  "methInheritSim": [],
   "methrix": [],
   "methylCC": [
     "minfi"
@@ -610,12 +604,10 @@
   ],
   "mygene": [],
   "myvariant": [],
-  "nearBynding": [],
   "nullranges": [],
   "pageRank": [
     "motifmatchr"
   ],
-  "pipeFrame": [],
   "preciseTAD": [
     "rCGH"
   ],
@@ -626,7 +618,6 @@
   "proActiv": [],
   "proBAMr": [],
   "profileplyr": [
-    "soGGi",
     "ChIPseeker",
     "rGREAT"
   ],
@@ -708,7 +699,6 @@
     "minfi",
     "lumi"
   ],
-  "soGGi": [],
   "spatzie": [
     "GenomicInteractions",
     "motifmatchr",
