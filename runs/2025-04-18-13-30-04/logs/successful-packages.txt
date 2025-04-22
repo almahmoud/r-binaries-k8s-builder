@@ -2144,3 +2144,4 @@ geomeTriD
 epivizr
 iNETgrate
 tidyomics
+epivizrChart
