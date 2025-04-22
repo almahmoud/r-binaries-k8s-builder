@@ -1974,3 +1974,9 @@ iCNV
 metaseqR2
 mygene
 profileplyr
+CleanUpRNAseq
+CNVrd2
+DegCre
+mariner
+ORFik
+Ularcirc

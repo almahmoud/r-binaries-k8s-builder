@@ -34,19 +34,16 @@
     "Gviz",
     "GenomicInteractions"
   ],
-  "CNVrd2": [],
   "COCOA": [],
   "ChIPQC": [],
   "ChIPexoQual": [],
   "CircSeqAlignTk": [
     "Rhisat2"
   ],
-  "CleanUpRNAseq": [],
   "DAMEfinder": [],
   "Damsel": [
     "ggbio"
   ],
-  "DegCre": [],
   "DuplexDiscovereR": [
     "Gviz"
   ],
@@ -107,7 +104,6 @@
   "OMICsPCA": [
     "HelloRanges"
   ],
-  "ORFik": [],
   "PAST": [],
   "ProteoDisco": [],
   "Pviz": [
@@ -170,15 +166,12 @@
     "ggbio"
   ],
   "TFEA.ChIP": [],
-  "TFHAZ": [
-    "ORFik"
-  ],
+  "TFHAZ": [],
   "TFutils": [],
   "TVTB": [
     "Gviz"
   ],
   "UPDhmm": [],
-  "Ularcirc": [],
   "VCFArray": [],
   "VariantFiltering": [
     "Gviz"
@@ -305,7 +298,6 @@
   "mCSEA": [
     "Gviz"
   ],
-  "mariner": [],
   "maser": [
     "Gviz"
   ],
