@@ -1646,3 +1646,6 @@ condiments
 cghMCR
 clusterExperiment
 scBFA
+SCArray.sat
+SigCheck
+pRoloc

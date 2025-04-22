@@ -706,7 +706,6 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "MLInterfaces": [],
   "MMDiff2": [
     "BSgenome",
     "rtracklayer"
@@ -1129,10 +1128,7 @@
   "SCANVIS": [
     "rtracklayer"
   ],
-  "SCArray": [],
-  "SCArray.sat": [
-    "SCArray"
-  ],
+  "SCArray.sat": [],
   "SCOPE": [
     "BSgenome",
     "rtracklayer"
@@ -1173,9 +1169,7 @@
   "SPsimSeq": [],
   "SVMDO": [],
   "ScreenR": [],
-  "SigCheck": [
-    "MLInterfaces"
-  ],
+  "SigCheck": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
@@ -1456,8 +1450,7 @@
     "rtracklayer"
   ],
   "bandle": [
-    "pRoloc",
-    "MLInterfaces"
+    "pRoloc"
   ],
   "basecallQC": [],
   "baySeq": [],
@@ -2409,12 +2402,9 @@
   "omicRexposome": [
     "sva"
   ],
-  "pRoloc": [
-    "MLInterfaces"
-  ],
+  "pRoloc": [],
   "pRolocGUI": [
-    "pRoloc",
-    "MLInterfaces"
+    "pRoloc"
   ],
   "pageRank": [
     "motifmatchr",
@@ -2583,7 +2573,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "regionalpcs": [],
   "regsplice": [],
   "regutools": [
     "Gviz",
