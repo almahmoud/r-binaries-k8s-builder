@@ -1293,13 +1293,10 @@
     "BSgenome"
   ],
   "VegaMC": [],
-  "VisiumIO": [],
   "XDE": [
     "GeneMeta"
   ],
-  "XeniumIO": [
-    "VisiumIO"
-  ],
+  "XeniumIO": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
@@ -1565,7 +1562,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "clusterExperiment": [],
   "clusterProfiler": [
     "enrichplot"
   ],
@@ -2305,9 +2301,7 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "netSmooth": [
-    "clusterExperiment"
-  ],
+  "netSmooth": [],
   "npGSEA": [],
   "nullranges": [
     "plyranges",

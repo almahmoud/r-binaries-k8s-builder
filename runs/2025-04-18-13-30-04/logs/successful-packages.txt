@@ -1567,3 +1567,5 @@ scBFA
 SICtools
 sva
 systemPipeR
+clusterExperiment
+VisiumIO

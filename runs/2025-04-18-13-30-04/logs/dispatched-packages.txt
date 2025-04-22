@@ -1675,3 +1675,5 @@ omicRexposome
 pairedGSEA
 qsmooth
 qsvaR
+XeniumIO
+netSmooth
