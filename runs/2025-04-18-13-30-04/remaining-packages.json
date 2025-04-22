@@ -3255,7 +3255,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "hipathia": [],
   "hpar": [
     "ExperimentHub"
   ],
@@ -3701,7 +3700,6 @@
   "multiHiCcompare": [
     "edgeR"
   ],
-  "multiMiR": [],
   "multiWGCNA": [],
   "mumosa": [
     "scran",

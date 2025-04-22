@@ -1,7 +1,0 @@
-SplineDV
-batchelor
-imcRtools
-scater
-simPIC
-spoon
-velociraptor
