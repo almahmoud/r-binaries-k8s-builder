@@ -2147,3 +2147,5 @@ tidyomics
 epivizrChart
 bigmelon
 YAPSA
+affycoretools
+epivizrStandalone

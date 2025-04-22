@@ -1,10 +1,6 @@
 {
-  "AgiMicroRna": [
-    "affycoretools"
-  ],
+  "AgiMicroRna": [],
   "EpiCompare": [],
-  "affycoretools": [],
   "bnem": [],
-  "epivizrStandalone": [],
   "scTreeViz": []
 }
