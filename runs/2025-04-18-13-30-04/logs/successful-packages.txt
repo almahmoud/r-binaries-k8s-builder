@@ -1241,3 +1241,6 @@ SimFFPE
 snifter
 SPOTlight
 ontoProc
+CompoundDb
+MsBackendMgf
+RPA

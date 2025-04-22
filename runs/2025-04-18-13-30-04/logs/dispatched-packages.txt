@@ -1396,3 +1396,4 @@ epigenomix
 MSstatsShiny
 pogos
 tenXplore
+MetaboAnnotation

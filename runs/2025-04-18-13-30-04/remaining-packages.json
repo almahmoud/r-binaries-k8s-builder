@@ -495,7 +495,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "CompoundDb": [],
   "CoverageView": [
     "rtracklayer",
     "GenomicAlignments"
@@ -1252,9 +1251,7 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "MetaboAnnotation": [
-    "CompoundDb"
-  ],
+  "MetaboAnnotation": [],
   "MetaboSignal": [
     "hpar",
     "mygene",
@@ -1349,7 +1346,6 @@
   "MouseFM": [],
   "MsBackendMassbank": [],
   "MsBackendMetaboLights": [],
-  "MsBackendMgf": [],
   "MsBackendMsp": [],
   "MsBackendRawFileReader": [],
   "MsBackendSql": [],
@@ -1693,7 +1689,6 @@
   "ROSeq": [
     "edgeR"
   ],
-  "RPA": [],
   "RSVSim": [
     "ShortRead",
     "GenomicAlignments"
@@ -3982,8 +3977,7 @@
     "rtracklayer"
   ],
   "prebs": [
-    "GenomicAlignments",
-    "RPA"
+    "GenomicAlignments"
   ],
   "preciseTAD": [
     "rCGH",
