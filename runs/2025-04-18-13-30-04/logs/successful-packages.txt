@@ -1671,3 +1671,7 @@ GOstats
 HiCDOC
 scran
 TOP
+edge
+SPsimSeq
+vidger
+XeniumIO

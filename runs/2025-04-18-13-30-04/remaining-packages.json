@@ -813,7 +813,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SPsimSeq": [],
   "SVMDO": [],
   "SigsPack": [
     "BSgenome",
@@ -947,7 +946,6 @@
     "BSgenome"
   ],
   "VegaMC": [],
-  "XeniumIO": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
@@ -1309,7 +1307,6 @@
     "GenomicFeatures"
   ],
   "easylift": [],
-  "edge": [],
   "enhancerHomologSearch": [
     "BSgenome",
     "motifmatchr",
@@ -2064,7 +2061,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "vidger": [],
   "wateRmelon": [
     "methylumi",
     "lumi",
