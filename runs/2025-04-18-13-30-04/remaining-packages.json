@@ -625,7 +625,6 @@
     "rtracklayer"
   ],
   "IONiseR": [],
-  "IPO": [],
   "IVAS": [
     "GenomicFeatures",
     "rtracklayer"
@@ -667,7 +666,6 @@
   ],
   "LACE": [],
   "M3Drop": [],
-  "MAIT": [],
   "MBECS": [
     "sva"
   ],
@@ -2221,7 +2219,6 @@
     "enrichplot"
   ],
   "meshr": [],
-  "metaMS": [],
   "metagene2": [
     "rtracklayer"
   ],
