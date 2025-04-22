@@ -831,7 +831,6 @@
     "rtracklayer"
   ],
   "MethReg": [
-    "sesame",
     "TFBSTools",
     "BSgenome",
     "rtracklayer"
@@ -1156,7 +1155,6 @@
     "dada2",
     "ShortRead"
   ],
-  "RcisTarget": [],
   "Rcpi": [],
   "ReactomePA": [
     "DOSE",
@@ -1383,7 +1381,6 @@
     "rtracklayer"
   ],
   "TENET": [
-    "sesame",
     "rtracklayer",
     "BSgenome"
   ],
@@ -3002,7 +2999,6 @@
   "seqsetvis": [
     "rtracklayer"
   ],
-  "sesame": [],
   "sevenC": [
     "rtracklayer"
   ],
