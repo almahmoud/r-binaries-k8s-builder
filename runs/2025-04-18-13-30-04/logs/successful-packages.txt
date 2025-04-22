@@ -1533,3 +1533,9 @@ zinbwave
 MLInterfaces
 regionalpcs
 SCArray
+ClassifyR
+DEXSeq
+MEB
+OTUbase
+ramwas
+scFeatureFilter

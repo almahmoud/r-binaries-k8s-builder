@@ -284,7 +284,6 @@
   "CiteFuse": [
     "scran"
   ],
-  "ClassifyR": [],
   "CleanUpRNAseq": [
     "BSgenome",
     "ensembldb",
@@ -308,7 +307,6 @@
     "BSgenome"
   ],
   "DESpace": [],
-  "DEXSeq": [],
   "DEsubs": [],
   "DMCFB": [
     "rtracklayer"
@@ -643,13 +641,11 @@
     "GenomicFiles",
     "GenomicFeatures",
     "txdbmaker",
-    "DEXSeq",
     "rtracklayer",
     "VariantAnnotation",
     "BSgenome"
   ],
   "IsoformSwitchAnalyzeR": [
-    "DEXSeq",
     "sva",
     "BSgenome",
     "rtracklayer",
@@ -689,7 +685,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "MEB": [],
   "MEDIPS": [
     "BSgenome",
     "rtracklayer"
@@ -846,7 +841,6 @@
     "rtracklayer",
     "txdbmaker"
   ],
-  "OTUbase": [],
   "OUTRIDER": [
     "GenomicFeatures",
     "txdbmaker",
@@ -1272,9 +1266,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "TOP": [
-    "ClassifyR"
-  ],
+  "TOP": [],
   "TRESS": [
     "rtracklayer",
     "GenomicFeatures"
@@ -1493,9 +1485,7 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "blacksheepr": [
-    "DEXSeq"
-  ],
+  "blacksheepr": [],
   "bnbc": [
     "sva"
   ],
@@ -1835,7 +1825,6 @@
     "rtracklayer"
   ],
   "diffUTR": [
-    "DEXSeq",
     "rtracklayer",
     "ensembldb",
     "GenomicFeatures"
@@ -2149,8 +2138,7 @@
     "GenomicFeatures"
   ],
   "lisaClust": [
-    "spicyR",
-    "ClassifyR"
+    "spicyR"
   ],
   "lumi": [
     "methylumi",
@@ -2413,7 +2401,6 @@
     "rtracklayer"
   ],
   "pairedGSEA": [
-    "DEXSeq",
     "sva"
   ],
   "partCNV": [],
@@ -2540,7 +2527,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "ramwas": [],
   "recount": [
     "derfinder",
     "rtracklayer",
@@ -2624,7 +2610,6 @@
   "saseR": [
     "ASpli",
     "GenomicFeatures",
-    "DEXSeq",
     "Gviz",
     "txdbmaker",
     "rtracklayer",
@@ -2645,7 +2630,6 @@
     "rtracklayer"
   ],
   "scDotPlot": [],
-  "scFeatureFilter": [],
   "scFeatures": [
     "ensembldb",
     "SingleCellSignalR",
@@ -2795,9 +2779,7 @@
     "VariantAnnotation"
   ],
   "speckle": [],
-  "spicyR": [
-    "ClassifyR"
-  ],
+  "spicyR": [],
   "spiky": [
     "BSgenome",
     "rtracklayer"
