@@ -905,7 +905,6 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "PathoStat": [],
   "Pigengene": [
     "clusterProfiler",
     "ReactomePA",
@@ -2449,7 +2448,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "ncGTW": [],
   "nearBynding": [
     "plyranges",
     "rtracklayer",
@@ -2857,7 +2855,6 @@
     "lumi",
     "rtracklayer"
   ],
-  "slalom": [],
   "soGGi": [
     "rtracklayer",
     "chipseq"

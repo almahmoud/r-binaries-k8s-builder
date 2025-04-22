@@ -1481,3 +1481,6 @@ msmsTests
 PhIPData
 prebs
 Rvisdiff
+ncGTW
+PathoStat
+slalom
