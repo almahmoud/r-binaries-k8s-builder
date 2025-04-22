@@ -1198,3 +1198,8 @@ KCsmart
 RTNsurvival
 SingleR
 SubCellBarCode
+gscreend
+hapFabia
+iterativeBMAsurv
+nempi
+rTRM

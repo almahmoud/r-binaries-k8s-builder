@@ -3540,7 +3540,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "gscreend": [],
   "gsean": [
     "PPInfer"
   ],
@@ -3551,7 +3550,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "hapFabia": [],
   "hdxmsqc": [
     "Spectra"
   ],
@@ -3677,7 +3675,6 @@
     "DEGreport",
     "edgeR"
   ],
-  "iterativeBMAsurv": [],
   "ivygapSE": [],
   "kissDE": [
     "DSS",
@@ -4106,7 +4103,6 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "nempi": [],
   "netSmooth": [
     "scater",
     "clusterExperiment",
@@ -4390,9 +4386,7 @@
     "GenomicAlignments"
   ],
   "rGenomeTracks": [],
-  "rTRM": [],
   "rTRMui": [
-    "rTRM",
     "MotifDb",
     "rtracklayer",
     "GenomicAlignments"

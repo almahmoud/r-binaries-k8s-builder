@@ -1,6 +1,0 @@
-BioGA
-BiocCheck
-BiocPkgTools
-monocle
-sigFeature
-webbioc
