@@ -106,7 +106,6 @@
   "CexoR": [
     "genomation"
   ],
-  "ChIPComp": [],
   "ChIPQC": [
     "DiffBind",
     "GreyListChIP"
@@ -413,7 +412,6 @@
     "MutationalPatterns",
     "VariantAnnotation"
   ],
-  "RFLOMICS": [],
   "RJMCMCNucleosomes": [],
   "RNAAgeCalc": [
     "recount",

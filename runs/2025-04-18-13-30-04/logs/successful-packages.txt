@@ -1791,3 +1791,5 @@ BSgenomeForge
 ChIPanalyser
 miRSM
 mumosa
+ChIPComp
+RFLOMICS
