@@ -1510,3 +1510,6 @@ dinoR
 gDRstyle
 hdxmsqc
 phantasus
+clustSIGNAL
+distinct
+peco
