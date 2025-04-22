@@ -1706,3 +1706,5 @@ SGCP
 lute
 MGnifyR
 MOSim
+DifferentialRegulation
+SpaNorm
