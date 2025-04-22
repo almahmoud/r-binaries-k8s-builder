@@ -1131,3 +1131,8 @@ pepStat
 rfPred
 ssviz
 tracktables
+convert
+GOexpress
+ipdDb
+maPredictDSC
+TreeSummarizedExperiment

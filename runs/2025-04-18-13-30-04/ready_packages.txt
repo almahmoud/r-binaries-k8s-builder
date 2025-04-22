@@ -1,4 +1,7 @@
-Cardinal
-CytoMDS
-CytoPipelineGUI
-gDRcore
+ExperimentSubset
+HoloFoodR
+PLSDAbatch
+TurboNorm
+maaslin3
+miaSim
+microSTASIS

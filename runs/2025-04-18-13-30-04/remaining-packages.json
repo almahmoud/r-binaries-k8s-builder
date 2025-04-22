@@ -857,9 +857,7 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "ExperimentSubset": [
-    "TreeSummarizedExperiment"
-  ],
+  "ExperimentSubset": [],
   "FEAST": [],
   "FRASER": [
     "BSgenome",
@@ -936,7 +934,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "GOexpress": [],
   "GOstats": [
     "Category",
     "annotate",
@@ -1124,9 +1121,7 @@
     "GenomicAlignments"
   ],
   "HilbertCurve": [],
-  "HoloFoodR": [
-    "TreeSummarizedExperiment"
-  ],
+  "HoloFoodR": [],
   "HybridExpress": [],
   "IMAS": [
     "GenomicFeatures",
@@ -1297,7 +1292,6 @@
     "annotate"
   ],
   "MGnifyR": [
-    "TreeSummarizedExperiment",
     "mia",
     "scater",
     "scuttle",
@@ -1685,9 +1679,7 @@
   "PICB": [
     "GenomicAlignments"
   ],
-  "PLSDAbatch": [
-    "TreeSummarizedExperiment"
-  ],
+  "PLSDAbatch": [],
   "POMA": [
     "sva",
     "genefilter",
@@ -2409,10 +2401,7 @@
     "annotate"
   ],
   "TnT": [],
-  "TreeSummarizedExperiment": [],
-  "TurboNorm": [
-    "convert"
-  ],
+  "TurboNorm": [],
   "UPDhmm": [
     "VariantAnnotation",
     "rtracklayer",
@@ -3095,7 +3084,6 @@
     "GenomicFeatures",
     "annotate"
   ],
-  "convert": [],
   "coseq": [
     "edgeR",
     "HTSFilter"
@@ -3258,7 +3246,6 @@
   ],
   "dar": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle",
     "BiocSingular"
@@ -3840,7 +3827,6 @@
   "iSEEtree": [
     "miaViz",
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle",
     "BiocSingular"
@@ -3890,7 +3876,6 @@
     "genefilter",
     "annotate"
   ],
-  "ipdDb": [],
   "isobar": [],
   "isomiRs": [
     "DEGreport",
@@ -3911,7 +3896,6 @@
   ],
   "lefser": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle",
     "BiocSingular"
@@ -3969,10 +3953,7 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "maPredictDSC": [],
-  "maaslin3": [
-    "TreeSummarizedExperiment"
-  ],
+  "maaslin3": [],
   "magpie": [
     "rtracklayer",
     "GenomicFeatures",
@@ -4168,7 +4149,6 @@
     "graphite"
   ],
   "mia": [
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle",
     "BiocSingular"
@@ -4177,24 +4157,18 @@
     "iSEEtree",
     "mia",
     "scater",
-    "TreeSummarizedExperiment",
     "miaViz",
     "scuttle",
     "BiocSingular"
   ],
-  "miaSim": [
-    "TreeSummarizedExperiment"
-  ],
+  "miaSim": [],
   "miaViz": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle",
     "BiocSingular"
   ],
-  "microSTASIS": [
-    "TreeSummarizedExperiment"
-  ],
+  "microSTASIS": [],
   "midasHLA": [],
   "miloR": [
     "edgeR",
@@ -5350,7 +5324,6 @@
     "GenomicAlignments"
   ],
   "treeclimbR": [
-    "TreeSummarizedExperiment",
     "edgeR",
     "diffcyt",
     "FlowSOM",
