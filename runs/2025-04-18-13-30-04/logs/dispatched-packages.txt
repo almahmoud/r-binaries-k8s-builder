@@ -1616,3 +1616,9 @@ dada2
 easyRNASeq
 nucleR
 systemPipeR
+BANDITS
+GOstats
+Prostar
+interactiveDisplay
+meshr
+phenoTest

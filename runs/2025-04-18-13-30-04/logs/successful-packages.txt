@@ -1465,3 +1465,9 @@ CrispRVariants
 panelcn.mops
 ShortRead
 TissueEnrich
+Category
+cosmosR
+DAPAR
+DRIMSeq
+gep2pep
+VplotR

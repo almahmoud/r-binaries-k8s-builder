@@ -39,7 +39,6 @@
     "GOstats",
     "ReportingTools",
     "Glimma",
-    "Category",
     "ggbio",
     "biovizBase",
     "BSgenome",
@@ -65,9 +64,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "BANDITS": [
-    "DRIMSeq"
-  ],
+  "BANDITS": [],
   "BASiCS": [
     "scran"
   ],
@@ -237,7 +234,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "Category": [],
   "CeTF": [
     "clusterProfiler",
     "DOSE",
@@ -320,7 +316,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "DAPAR": [],
   "DESpace": [],
   "DEXSeq": [],
   "DEsubs": [],
@@ -331,7 +326,6 @@
     "rtracklayer"
   ],
   "DOSE": [],
-  "DRIMSeq": [],
   "DSS": [
     "bsseq",
     "BSgenome",
@@ -386,8 +380,7 @@
     "rtracklayer"
   ],
   "DifferentialRegulation": [
-    "BANDITS",
-    "DRIMSeq"
+    "BANDITS"
   ],
   "Dino": [
     "scran"
@@ -523,9 +516,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "GOstats": [
-    "Category"
-  ],
+  "GOstats": [],
   "GSEABenchmarkeR": [
     "EnrichmentBrowser"
   ],
@@ -592,7 +583,6 @@
   "Glimma": [],
   "GlobalAncova": [],
   "GmicR": [
-    "Category",
     "GOstats"
   ],
   "GreyListChIP": [
@@ -820,7 +810,6 @@
   "MineICA": [
     "GOstats",
     "lumi",
-    "Category",
     "methylumi",
     "GenomicFeatures",
     "rtracklayer",
@@ -952,9 +941,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "Prostar": [
-    "DAPAR"
-  ],
+  "Prostar": [],
   "ProteoDisco": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -1123,7 +1110,6 @@
     "BSgenome"
   ],
   "ReportingTools": [
-    "Category",
     "GOstats",
     "ggbio",
     "biovizBase",
@@ -1211,8 +1197,7 @@
     "sva"
   ],
   "SGCP": [
-    "GOstats",
-    "Category"
+    "GOstats"
   ],
   "SGSeq": [
     "GenomicFeatures",
@@ -1436,7 +1421,6 @@
   ],
   "VegaMC": [],
   "VisiumIO": [],
-  "VplotR": [],
   "XDE": [
     "GeneMeta"
   ],
@@ -1469,7 +1453,6 @@
     "GOstats",
     "ReportingTools",
     "Glimma",
-    "Category",
     "ggbio",
     "biovizBase",
     "BSgenome",
@@ -1525,8 +1508,7 @@
     "rtracklayer"
   ],
   "attract": [
-    "GOstats",
-    "Category"
+    "GOstats"
   ],
   "autonomics": [],
   "ballgown": [
@@ -1643,7 +1625,6 @@
     "phenoTest",
     "RTCGAToolbox",
     "TCGAutils",
-    "Category",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -1652,7 +1633,6 @@
     "rtracklayer"
   ],
   "categoryCompare": [
-    "Category",
     "GOstats"
   ],
   "cbaf": [
@@ -1792,7 +1772,6 @@
     "HTSFilter"
   ],
   "cosmiq": [],
-  "cosmosR": [],
   "countsimQC": [],
   "covRNA": [],
   "cpvSNP": [
@@ -2159,7 +2138,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "gep2pep": [],
   "gg4way": [],
   "ggbio": [
     "biovizBase",
@@ -2277,9 +2255,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "interactiveDisplay": [
-    "Category"
-  ],
+  "interactiveDisplay": [],
   "kissDE": [
     "DSS",
     "bsseq",
@@ -2347,9 +2323,7 @@
     "DOSE",
     "enrichplot"
   ],
-  "meshr": [
-    "Category"
-  ],
+  "meshr": [],
   "metaMS": [
     "CAMERA"
   ],
@@ -2432,7 +2406,6 @@
     "bumphunter"
   ],
   "miRLAB": [
-    "Category",
     "GOstats"
   ],
   "miRSM": [
@@ -2599,9 +2572,7 @@
     "rtracklayer"
   ],
   "phantasus": [],
-  "phenoTest": [
-    "Category"
-  ],
+  "phenoTest": [],
   "pipeComp": [
     "scran"
   ],
