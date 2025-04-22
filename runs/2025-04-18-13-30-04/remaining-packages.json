@@ -15,10 +15,7 @@
   "CAFE": [
     "ggbio"
   ],
-  "CAGEfightR": [],
-  "CAGEr": [
-    "CAGEfightR"
-  ],
+  "CAGEr": [],
   "COCOA": [],
   "ChIPQC": [],
   "DAMEfinder": [],
@@ -137,7 +134,6 @@
   "methylGSA": [
     "missMethyl"
   ],
-  "methylPipe": [],
   "methylclock": [
     "ExperimentHubData",
     "AnnotationHubData"
