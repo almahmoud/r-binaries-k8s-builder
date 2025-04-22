@@ -1,3 +1,5 @@
-RNAmodR.AlkAnilineSeq
-RNAmodR.ML
-RNAmodR.RiboMethSeq
+MineICA
+arrayMvout
+ffpe
+iCheck
+wateRmelon

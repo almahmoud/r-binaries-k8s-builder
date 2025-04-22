@@ -46,12 +46,9 @@
     "missMethyl"
   ],
   "MEAT": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
-  "MineICA": [
-    "lumi"
-  ],
+  "MineICA": [],
   "MungeSumstats": [],
   "OMICsPCA": [],
   "ProteoDisco": [],
@@ -83,7 +80,6 @@
   ],
   "TFEA.ChIP": [],
   "TFHAZ": [],
-  "TVTB": [],
   "UPDhmm": [],
   "VariantFiltering": [],
   "YAPSA": [
@@ -95,16 +91,12 @@
     "ggbio"
   ],
   "appreci8R": [],
-  "arrayMvout": [
-    "lumi"
-  ],
+  "arrayMvout": [],
   "atSNP": [],
   "bigmelon": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "bioCancer": [],
-  "biomvRCNS": [],
   "bnem": [],
   "cageminer": [
     "ggbio"
@@ -139,24 +131,19 @@
     "epivizr",
     "epivizrData"
   ],
-  "ffpe": [
-    "lumi"
-  ],
+  "ffpe": [],
   "funtooNorm": [],
   "geomeTriD": [
     "trackViewer"
   ],
   "ggbio": [],
   "gmoviz": [],
-  "iCheck": [
-    "lumi"
-  ],
+  "iCheck": [],
   "iNETgrate": [],
   "igvR": [],
   "intansv": [
     "ggbio"
   ],
-  "lumi": [],
   "mCSEA": [],
   "maser": [],
   "methylGSA": [
@@ -191,8 +178,7 @@
   ],
   "shinyDSP": [],
   "skewr": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "spatzie": [],
   "srnadiff": [],
@@ -203,7 +189,5 @@
   "trackViewer": [],
   "txcutr": [],
   "uncoverappLib": [],
-  "wateRmelon": [
-    "lumi"
-  ]
+  "wateRmelon": []
 }

@@ -2040,3 +2040,6 @@ chevreulPlot
 ELMER
 RNAmodR
 SPLINTER
+biomvRCNS
+lumi
+TVTB
