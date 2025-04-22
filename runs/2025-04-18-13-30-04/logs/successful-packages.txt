@@ -1683,3 +1683,6 @@ scde
 BioTIP
 debrowser
 netSmooth
+bandle
+pRolocGUI
+SVMDO

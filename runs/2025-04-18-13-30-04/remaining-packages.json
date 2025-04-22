@@ -810,7 +810,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SVMDO": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
@@ -1011,7 +1010,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "bandle": [],
   "bedbaser": [],
   "bigmelon": [
     "wateRmelon",
@@ -1687,7 +1685,6 @@
   "nullranges": [
     "plyranges"
   ],
-  "pRolocGUI": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools",
