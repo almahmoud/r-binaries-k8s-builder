@@ -1355,3 +1355,5 @@ StabMap
 scry
 FlowSOM
 nempi
+lemur
+transformGamPoi

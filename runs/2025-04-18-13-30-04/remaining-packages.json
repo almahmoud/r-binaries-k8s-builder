@@ -3,7 +3,6 @@
     "QDNAseq"
   ],
   "ADAMgui": [],
-  "ADAPT": [],
   "ADaCGH2": [
     "tilingArray",
     "genefilter",
@@ -117,7 +116,6 @@
   ],
   "BASiCStan": [
     "BASiCS",
-    "glmGamPoi",
     "scran",
     "scuttle",
     "edgeR"
@@ -1164,7 +1162,6 @@
   "LRcell": [
     "ExperimentHub"
   ],
-  "LoomExperiment": [],
   "M3Drop": [
     "scater",
     "scuttle"
@@ -2637,7 +2634,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "biosigner": [],
   "biovizBase": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -3569,7 +3565,6 @@
   "ginmappeR": [
     "UniProt.ws"
   ],
-  "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils",
     "GenomicFeatures",
@@ -3764,9 +3759,7 @@
     "scater",
     "scuttle"
   ],
-  "lemur": [
-    "glmGamPoi"
-  ],
+  "lemur": [],
   "lineagespot": [
     "VariantAnnotation",
     "rtracklayer",
@@ -4313,7 +4306,6 @@
     "GSEABase",
     "genefilter"
   ],
-  "phenomis": [],
   "pipeComp": [
     "scran",
     "scater",
@@ -5104,9 +5096,7 @@
     "rtracklayer",
     "ShortRead"
   ],
-  "transformGamPoi": [
-    "glmGamPoi"
-  ],
+  "transformGamPoi": [],
   "transite": [],
   "transmogR": [
     "BSgenome",
