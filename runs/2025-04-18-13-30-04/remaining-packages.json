@@ -16,9 +16,7 @@
     "ggbio"
   ],
   "CAGEr": [],
-  "COCOA": [],
   "ChIPQC": [],
-  "DAMEfinder": [],
   "Damsel": [
     "ggbio"
   ],
@@ -140,6 +138,5 @@
     "nullranges"
   ],
   "trackViewer": [],
-  "txcutr": [],
-  "uncoverappLib": []
+  "txcutr": []
 }
