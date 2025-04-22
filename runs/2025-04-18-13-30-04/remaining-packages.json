@@ -11,7 +11,6 @@
     "AnnotationHubData",
     "GenomicFeatures",
     "rtracklayer",
-    "BiocCheck",
     "OrganismDbi",
     "txdbmaker",
     "GenomicAlignments"
@@ -84,7 +83,6 @@
   "AnnotationHubData": [
     "GenomicFeatures",
     "rtracklayer",
-    "BiocCheck",
     "OrganismDbi",
     "txdbmaker",
     "GenomicAlignments"
@@ -201,7 +199,6 @@
   "BioTIP": [
     "scran"
   ],
-  "BiocCheck": [],
   "BiocHubsShiny": [
     "ExperimentHub"
   ],
@@ -674,7 +671,6 @@
     "ExperimentHub",
     "GenomicFeatures",
     "rtracklayer",
-    "BiocCheck",
     "OrganismDbi",
     "txdbmaker",
     "GenomicAlignments"
@@ -1028,8 +1024,6 @@
     "CNORode",
     "CellNOptR"
   ],
-  "MGFM": [],
-  "MGFR": [],
   "MGnifyR": [
     "mia"
   ],
@@ -1105,7 +1099,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MetCirc": [],
   "MetaCyto": [],
   "MetaPhOR": [
     "clusterProfiler",
@@ -1198,7 +1191,6 @@
     "GenomicAlignments",
     "BSgenome"
   ],
-  "MsBackendMassbank": [],
   "MsBackendMetaboLights": [],
   "MsBackendMsp": [],
   "MsBackendRawFileReader": [],
@@ -1235,7 +1227,6 @@
   ],
   "NetSAM": [],
   "NewWave": [],
-  "NormalyzerDE": [],
   "OGRE": [
     "Gviz",
     "rtracklayer",
@@ -1300,9 +1291,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "PDATK": [
-    "genefu"
-  ],
+  "PDATK": [],
   "PECA": [
     "genefilter"
   ],
@@ -1319,7 +1308,6 @@
     "GSEABase"
   ],
   "PRONE": [
-    "NormalyzerDE",
     "MSnbase",
     "POMA",
     "PSMatch",
@@ -1716,7 +1704,6 @@
   "SVMDO": [
     "DOSE"
   ],
-  "SWATH2stats": [],
   "ScreenR": [],
   "SemDist": [],
   "SeqSQC": [
@@ -2217,7 +2204,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "cTRAP": [],
   "cageminer": [
     "ggbio",
     "BioNERO",
@@ -2414,7 +2400,6 @@
   ],
   "consensusOV": [
     "GSVA",
-    "genefu",
     "GSEABase"
   ],
   "consensusSeekeR": [
@@ -2544,7 +2529,6 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "cyanoFilter": [],
   "cypress": [
     "PROPER"
   ],
@@ -2860,9 +2844,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "gDRstyle": [
-    "BiocCheck"
-  ],
+  "gDRstyle": [],
   "gINTomics": [
     "GenomicFeatures",
     "ReactomePA",
@@ -2887,7 +2869,6 @@
     "GenomicAlignments"
   ],
   "genefilter": [],
-  "genefu": [],
   "geneplotter": [],
   "genomation": [
     "BSgenome",
@@ -3246,7 +3227,6 @@
     "GenomicFeatures",
     "AnnotationHubData",
     "rtracklayer",
-    "BiocCheck",
     "OrganismDbi",
     "txdbmaker",
     "GenomicAlignments"
@@ -3442,7 +3422,6 @@
     "sva",
     "genefilter"
   ],
-  "oposSOM": [],
   "oppar": [
     "GSEABase",
     "GSVA"
@@ -3763,10 +3742,7 @@
     "GenomicAlignments"
   ],
   "sSNAPPY": [],
-  "sampleClassifier": [
-    "MGFM",
-    "MGFR"
-  ],
+  "sampleClassifier": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -3951,7 +3927,6 @@
     "consensusOV",
     "ensembldb",
     "GSVA",
-    "genefu",
     "GenomicFeatures",
     "rtracklayer",
     "GSEABase",

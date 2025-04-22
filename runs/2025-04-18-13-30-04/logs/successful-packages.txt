@@ -1327,3 +1327,14 @@ MoleculeExperiment
 QDNAseq
 scater
 scry
+BiocCheck
+cTRAP
+cyanoFilter
+genefu
+MetCirc
+MGFM
+MGFR
+MsBackendMassbank
+NormalyzerDE
+oposSOM
+SWATH2stats
