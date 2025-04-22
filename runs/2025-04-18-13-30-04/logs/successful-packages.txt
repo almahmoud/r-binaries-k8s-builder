@@ -1852,3 +1852,13 @@ MMDiff2
 spiky
 traseR
 DaMiRseq
+cfDNAPro
+gcapc
+HicAggR
+miaDash
+MinimumDistance
+periodicDNA
+podkat
+rTRMui
+SCOPE
+scRNAseqApp
