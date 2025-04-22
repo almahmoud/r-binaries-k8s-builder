@@ -1,5 +1,4 @@
 {
-  "ACE": [],
   "ADaCGH2": [
     "tilingArray",
     "genefilter"
@@ -1298,12 +1297,10 @@
   "PICB": [
     "GenomicAlignments"
   ],
-  "PLSDAbatch": [],
   "POMA": [
     "sva",
     "genefilter"
   ],
-  "PREDA": [],
   "PROMISE": [
     "GSEABase"
   ],
@@ -2374,7 +2371,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "codelink": [],
   "comapr": [
     "Gviz",
     "rtracklayer",
@@ -3056,7 +3052,6 @@
   "lefser": [
     "mia"
   ],
-  "lemur": [],
   "lineagespot": [
     "VariantAnnotation",
     "rtracklayer",
@@ -4079,7 +4074,6 @@
     "GenomicAlignments"
   ],
   "target": [],
-  "terapadog": [],
   "terraTCGAdata": [
     "TCGAutils",
     "GenomicFeatures",

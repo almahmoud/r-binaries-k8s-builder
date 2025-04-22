@@ -1338,3 +1338,9 @@ MsBackendMassbank
 NormalyzerDE
 oposSOM
 SWATH2stats
+ACE
+codelink
+lemur
+PLSDAbatch
+PREDA
+terapadog
