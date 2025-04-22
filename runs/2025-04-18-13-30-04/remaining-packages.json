@@ -1190,7 +1190,6 @@
     "Maaslin2",
     "edgeR"
   ],
-  "MOMA": [],
   "MOSClip": [
     "qpgraph",
     "GenomicFeatures",
@@ -2017,7 +2016,6 @@
     "diffcyt",
     "edgeR"
   ],
-  "Streamer": [],
   "StructuralVariantAnnotation": [
     "rtracklayer",
     "VariantAnnotation",
@@ -2930,7 +2928,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "deltaCaptureC": [],
   "demuxSNP": [
     "VariantAnnotation",
     "ensembldb",
@@ -2986,7 +2983,6 @@
   "dinoR": [
     "edgeR"
   ],
-  "discordant": [],
   "distinct": [
     "scater",
     "scuttle"
@@ -4251,7 +4247,6 @@
   "rtracklayer": [
     "GenomicAlignments"
   ],
-  "runibic": [],
   "sSNAPPY": [
     "edgeR"
   ],
@@ -4499,7 +4494,6 @@
   "simPIC": [
     "scuttle"
   ],
-  "simplifyEnrichment": [],
   "singscore": [
     "GSEABase",
     "edgeR"

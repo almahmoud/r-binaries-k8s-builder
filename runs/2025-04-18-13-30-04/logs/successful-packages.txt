@@ -1216,3 +1216,9 @@ FlowSOM
 pgxRpi
 scGPS
 Spectra
+deltaCaptureC
+discordant
+MOMA
+runibic
+simplifyEnrichment
+Streamer
