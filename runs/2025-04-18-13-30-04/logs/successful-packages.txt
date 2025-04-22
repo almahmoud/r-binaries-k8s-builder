@@ -1953,3 +1953,9 @@ DeMixT
 DiffBind
 ELViS
 RCAS
+borealis
+customProDB
+kissDE
+OrganismDbi
+proBAMr
+RiboDiPA

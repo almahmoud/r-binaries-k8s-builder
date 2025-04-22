@@ -2041,3 +2041,9 @@ yarn
 profileplyr
 ChIPQC
 GenomicPlot
+AnnotationHubData
+GSReg
+appreci8R
+epivizrData
+ggbio
+iNETgrate
