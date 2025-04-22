@@ -50,10 +50,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "BASiCS": [],
-  "BASiCStan": [
-    "BASiCS"
-  ],
+  "BASiCStan": [],
   "BBCAnalyzer": [
     "VariantAnnotation",
     "BSgenome",
@@ -91,7 +88,6 @@
   "Basic4Cseq": [
     "BSgenome"
   ],
-  "BatchQC": [],
   "BgeeCall": [
     "GenomicFeatures",
     "txdbmaker"

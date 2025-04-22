@@ -1689,3 +1689,5 @@ SVMDO
 CelliD
 goSorensen
 signatureSearch
+BASiCS
+BatchQC
