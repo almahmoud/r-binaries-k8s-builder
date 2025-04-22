@@ -2036,3 +2036,5 @@ DuplexDiscovereR
 GenomicInteractions
 mitoClone2
 Pviz
+chevreulPlot
+ELMER

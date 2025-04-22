@@ -2107,3 +2107,4 @@ saseR
 CAGEfightR
 HiCDCPlus
 spatzie
+chevreulShiny
