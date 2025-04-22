@@ -457,9 +457,7 @@
   ],
   "DESpace": [],
   "DEWSeq": [],
-  "DEXSeq": [
-    "geneplotter"
-  ],
+  "DEXSeq": [],
   "DEsubs": [],
   "DMCFB": [
     "rtracklayer",
@@ -586,7 +584,6 @@
     "GenomicAlignments"
   ],
   "ENmix": [
-    "geneplotter",
     "minfi",
     "ExperimentHub",
     "bumphunter",
@@ -916,7 +913,6 @@
     "txdbmaker",
     "GenomicAlignments",
     "DEXSeq",
-    "geneplotter",
     "rtracklayer",
     "VariantAnnotation",
     "BSgenome"
@@ -927,7 +923,6 @@
     "BSgenome",
     "rtracklayer",
     "tximeta",
-    "geneplotter",
     "GenomicAlignments",
     "GenomicFeatures",
     "txdbmaker",
@@ -1098,7 +1093,6 @@
   "MethylSeekR": [
     "rtracklayer",
     "BSgenome",
-    "geneplotter",
     "GenomicAlignments"
   ],
   "MicrobiomeProfiler": [
@@ -1153,8 +1147,6 @@
     "GenomicAlignments",
     "BSgenome"
   ],
-  "MsBackendMsp": [],
-  "MsBackendRawFileReader": [],
   "MsBackendSql": [],
   "MsDataHub": [
     "ExperimentHub"
@@ -1701,7 +1693,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "SpectraQL": [],
   "SpliceWiz": [
     "BSgenome",
     "rtracklayer",
@@ -2056,9 +2047,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "biocGraph": [
-    "geneplotter"
-  ],
+  "biocGraph": [],
   "biomvRCNS": [
     "Gviz",
     "rtracklayer",
@@ -2078,8 +2067,7 @@
     "BSgenome"
   ],
   "blacksheepr": [
-    "DEXSeq",
-    "geneplotter"
+    "DEXSeq"
   ],
   "bnbc": [
     "sva"
@@ -2535,7 +2523,6 @@
     "DEXSeq",
     "rtracklayer",
     "ensembldb",
-    "geneplotter",
     "GenomicFeatures",
     "GenomicAlignments"
   ],
@@ -2769,7 +2756,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "geneplotter": [],
   "genomation": [
     "BSgenome",
     "GenomicAlignments",
@@ -3331,8 +3317,7 @@
   ],
   "pairedGSEA": [
     "DEXSeq",
-    "sva",
-    "geneplotter"
+    "sva"
   ],
   "pairkat": [],
   "panelcn.mops": [
@@ -3457,7 +3442,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "pvac": [],
   "pvca": [],
   "qPLEXanalyzer": [
     "MSnbase",
@@ -3622,7 +3606,6 @@
     "GenomicAlignments",
     "Gviz",
     "txdbmaker",
-    "geneplotter",
     "rtracklayer",
     "ensembldb",
     "BSgenome",
@@ -4035,7 +4018,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "velociraptor": [],
   "vidger": [],
   "vissE": [
     "GSEABase",
@@ -4055,7 +4037,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "webbioc": [],
   "wiggleplotr": [
     "rtracklayer",
     "GenomicAlignments"

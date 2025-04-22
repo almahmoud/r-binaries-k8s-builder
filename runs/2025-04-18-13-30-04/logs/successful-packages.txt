@@ -1348,3 +1348,10 @@ BiocPkgTools
 genefilter
 MsBackendMetaboLights
 RbcBook1
+geneplotter
+MsBackendMsp
+MsBackendRawFileReader
+pvac
+SpectraQL
+velociraptor
+webbioc

@@ -1506,3 +1506,5 @@ spatialHeatmap
 sva
 tilingArray
 zinbwave
+DEXSeq
+biocGraph
