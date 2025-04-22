@@ -2054,3 +2054,6 @@ maser
 VariantFiltering
 CAGEfightR
 methylPipe
+HiCDCPlus
+RNAmodR.AlkAnilineSeq
+spatzie

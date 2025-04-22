@@ -32,7 +32,6 @@
     "ggbio"
   ],
   "GenomicPlot": [],
-  "HiCDCPlus": [],
   "IMAS": [
     "IVAS"
   ],
@@ -57,7 +56,6 @@
   "RNAAgeCalc": [
     "recount"
   ],
-  "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
   "RareVariantVis": [],
@@ -163,7 +161,6 @@
   "skewr": [
     "wateRmelon"
   ],
-  "spatzie": [],
   "srnadiff": [],
   "tadar": [],
   "tidyomics": [
