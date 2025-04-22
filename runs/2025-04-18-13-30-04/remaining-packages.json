@@ -35,7 +35,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "AUCell": [],
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
@@ -153,7 +152,6 @@
   "BioTIP": [
     "scran"
   ],
-  "BloodGen3Module": [],
   "BubbleTree": [
     "biovizBase",
     "GenomicFeatures",
@@ -220,10 +218,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "CNORdt": [],
-  "CNORfeeder": [],
-  "CNORfuzzy": [],
-  "CNORode": [],
   "CNTools": [],
   "CNVRanger": [],
   "CNVrd2": [
@@ -252,10 +246,7 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "CTdata": [],
-  "CTexploreR": [
-    "CTdata"
-  ],
+  "CTexploreR": [],
   "Category": [],
   "CeTF": [
     "clusterProfiler",
@@ -788,9 +779,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "MEIGOR": [
-    "CNORode"
-  ],
+  "MEIGOR": [],
   "MGnifyR": [
     "mia"
   ],
@@ -945,7 +934,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "NetSAM": [],
   "OGRE": [
     "Gviz",
     "rtracklayer",
@@ -1199,9 +1187,7 @@
     "dada2",
     "ShortRead"
   ],
-  "RcisTarget": [
-    "AUCell"
-  ],
+  "RcisTarget": [],
   "Rcpi": [],
   "ReactomePA": [
     "DOSE",
@@ -2150,7 +2136,6 @@
   ],
   "epiregulon": [
     "scran",
-    "AUCell",
     "motifmatchr",
     "BSgenome",
     "TFBSTools",
@@ -2210,7 +2195,6 @@
     "DOSE"
   ],
   "escape": [
-    "AUCell",
     "GSVA"
   ],
   "extraChIPs": [
@@ -3002,7 +2986,6 @@
   "scFeatures": [
     "GSVA",
     "ensembldb",
-    "AUCell",
     "SingleCellSignalR",
     "GenomicFeatures",
     "rtracklayer",

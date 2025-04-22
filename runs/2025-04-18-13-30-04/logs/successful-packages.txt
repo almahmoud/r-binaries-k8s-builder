@@ -1403,3 +1403,11 @@ BasicSTARRseq
 BiocHubsShiny
 iSEEfier
 uSORT
+AUCell
+BloodGen3Module
+CNORdt
+CNORfeeder
+CNORfuzzy
+CNORode
+CTdata
+NetSAM

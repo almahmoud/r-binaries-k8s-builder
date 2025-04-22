@@ -1579,3 +1579,6 @@ vissE
 GlobalAncova
 SIM
 isomiRs
+CTexploreR
+MEIGOR
+RcisTarget
