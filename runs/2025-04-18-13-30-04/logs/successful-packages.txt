@@ -1364,3 +1364,12 @@ fastLiquidAssociation
 MsExperiment
 pairkat
 VariantExperiment
+adSplit
+alabaster.spatial
+cellbaseR
+CTSV
+monocle
+PSMatch
+pvca
+target
+TurboNorm

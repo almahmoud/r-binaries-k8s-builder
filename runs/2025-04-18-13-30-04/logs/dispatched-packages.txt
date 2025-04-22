@@ -1509,3 +1509,5 @@ zinbwave
 DEXSeq
 biocGraph
 MsQuality
+MSnbase
+uSORT
