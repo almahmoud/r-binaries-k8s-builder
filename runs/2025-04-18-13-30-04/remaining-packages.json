@@ -103,14 +103,8 @@
   "canceR": [],
   "cbaf": [],
   "chevreulShiny": [],
-  "cicero": [],
-  "crisprShiny": [
-    "crisprViz"
-  ],
-  "crisprVerse": [
-    "crisprViz"
-  ],
-  "crisprViz": [],
+  "crisprShiny": [],
+  "crisprVerse": [],
   "demuxSNP": [],
   "derfinderPlot": [
     "ggbio"
@@ -141,7 +135,6 @@
     "ggbio"
   ],
   "mCSEA": [],
-  "maser": [],
   "methylGSA": [
     "missMethyl"
   ],

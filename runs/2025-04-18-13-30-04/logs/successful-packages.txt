@@ -2048,3 +2048,6 @@ chimeraviz
 comapr
 cummeRbund
 saseR
+cicero
+crisprViz
+maser

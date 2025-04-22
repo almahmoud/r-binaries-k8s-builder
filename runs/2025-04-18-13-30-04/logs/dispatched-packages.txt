@@ -2116,3 +2116,5 @@ arrayMvout
 ffpe
 iCheck
 wateRmelon
+crisprShiny
+crisprVerse
