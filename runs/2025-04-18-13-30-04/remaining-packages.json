@@ -756,9 +756,7 @@
     "GenomicFiles",
     "GenomicFeatures"
   ],
-  "VaSP": [
-    "ballgown"
-  ],
+  "VaSP": [],
   "VanillaICE": [],
   "VarCon": [],
   "VariantAnnotation": [
@@ -830,7 +828,6 @@
   "atena": [
     "GenomicFeatures"
   ],
-  "ballgown": [],
   "bambu": [
     "GenomicFeatures"
   ],
@@ -1083,7 +1080,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "easylift": [],
   "enhancerHomologSearch": [
     "motifmatchr",
     "TFBSTools"
@@ -1107,7 +1103,6 @@
     "motifmatchr",
     "TFBSTools"
   ],
-  "epiregulon.extra": [],
   "epivizr": [
     "epivizrData",
     "bumphunter",
@@ -1295,7 +1290,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "metagene2": [],
   "metaseqR2": [
     "DSS",
     "EDASeq",
@@ -1536,7 +1530,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "roar": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -1547,7 +1540,6 @@
     "VariantAnnotation"
   ],
   "scClassify": [],
-  "scDblFinder": [],
   "scFeatures": [
     "ensembldb",
     "GenomicFeatures"

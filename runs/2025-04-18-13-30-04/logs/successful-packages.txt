@@ -1738,3 +1738,9 @@ pathlinkR
 Rbec
 spillR
 tidyCoverage
+ballgown
+easylift
+epiregulon.extra
+metagene2
+roar
+scDblFinder
