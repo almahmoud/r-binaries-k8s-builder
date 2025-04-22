@@ -1862,3 +1862,8 @@ podkat
 rTRMui
 SCOPE
 scRNAseqApp
+Cogito
+FindIT2
+Guitar
+NanoMethViz
+plyinteractions

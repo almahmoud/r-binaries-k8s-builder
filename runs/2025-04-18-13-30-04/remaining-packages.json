@@ -74,7 +74,6 @@
     "SGSeq"
   ],
   "CleanUpRNAseq": [],
-  "Cogito": [],
   "DAMEfinder": [],
   "Damsel": [
     "ggbio",
@@ -115,7 +114,6 @@
   "FRASER": [
     "OUTRIDER"
   ],
-  "FindIT2": [],
   "GA4GHclient": [],
   "GA4GHshiny": [
     "GA4GHclient"
@@ -143,7 +141,6 @@
   "GenomicPlot": [
     "RCAS"
   ],
-  "Guitar": [],
   "Gviz": [
     "biovizBase"
   ],
@@ -197,7 +194,6 @@
   "Moonlight2R": [],
   "MungeSumstats": [],
   "MutationalPatterns": [],
-  "NanoMethViz": [],
   "OGRE": [
     "Gviz",
     "biovizBase"
@@ -631,7 +627,6 @@
   ],
   "pipeFrame": [],
   "plotgardener": [],
-  "plyinteractions": [],
   "preciseTAD": [
     "rCGH"
   ],
