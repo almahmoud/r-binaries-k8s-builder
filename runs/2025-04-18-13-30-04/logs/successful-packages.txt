@@ -1751,3 +1751,8 @@ TEKRABber
 plyranges
 rifiComparative
 syntenet
+celda
+ChIPsim
+GenomicFeatures
+r3Cseq
+seqsetvis
