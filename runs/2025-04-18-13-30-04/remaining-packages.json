@@ -113,7 +113,6 @@
     "ggbio"
   ],
   "R453Plus1Toolbox": [],
-  "RAIDS": [],
   "REMP": [],
   "RESOLVE": [
     "MutationalPatterns"
@@ -245,7 +244,6 @@
   "cummeRbund": [
     "Gviz"
   ],
-  "dagLogo": [],
   "deepSNV": [],
   "demuxSNP": [],
   "derfinder": [],
@@ -360,7 +358,6 @@
   "scruff": [
     "ggbio"
   ],
-  "selectKSigs": [],
   "shinyDSP": [],
   "skewr": [
     "methylumi",
