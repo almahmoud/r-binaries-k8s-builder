@@ -1233,3 +1233,10 @@ rGenomeTracks
 TIN
 triplex
 vsclust
+ADAMgui
+MSstatsPTM
+omicsPrint
+Rbowtie2
+SimFFPE
+snifter
+SPOTlight

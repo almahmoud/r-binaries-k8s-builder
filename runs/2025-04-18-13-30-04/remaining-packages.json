@@ -2,7 +2,6 @@
   "ACE": [
     "QDNAseq"
   ],
-  "ADAMgui": [],
   "ADaCGH2": [
     "tilingArray",
     "genefilter"
@@ -458,7 +457,6 @@
   ],
   "CircSeqAlignTk": [
     "ShortRead",
-    "Rbowtie2",
     "Rhisat2",
     "txdbmaker",
     "SGSeq",
@@ -1217,7 +1215,6 @@
   "MSnbase": [
     "PSMatch"
   ],
-  "MSstatsPTM": [],
   "MSstatsQC": [
     "MSnbase",
     "PSMatch"
@@ -1227,9 +1224,7 @@
     "MSnbase",
     "PSMatch"
   ],
-  "MSstatsShiny": [
-    "MSstatsPTM"
-  ],
+  "MSstatsShiny": [],
   "Maaslin2": [
     "edgeR"
   ],
@@ -1731,7 +1726,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "Rbowtie2": [],
   "RcisTarget": [
     "AUCell",
     "GSEABase"
@@ -1914,7 +1908,6 @@
     "VariantAnnotation"
   ],
   "SPONGE": [],
-  "SPOTlight": [],
   "SPsimSeq": [
     "edgeR"
   ],
@@ -1949,7 +1942,6 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "SimFFPE": [],
   "SingleCellSignalR": [
     "edgeR",
     "scran",
@@ -3135,7 +3127,6 @@
   "esATAC": [
     "ShortRead",
     "pipeFrame",
-    "Rbowtie2",
     "rtracklayer",
     "ChIPseeker",
     "clusterProfiler",
@@ -3877,7 +3868,6 @@
     "genefilter",
     "edgeR"
   ],
-  "omicsPrint": [],
   "ontoProc": [],
   "oposSOM": [],
   "oppar": [
@@ -4503,7 +4493,6 @@
     "GSEABase"
   ],
   "smoothclust": [],
-  "snifter": [],
   "soGGi": [
     "GenomicAlignments",
     "rtracklayer",
