@@ -134,7 +134,6 @@
     "VariantAnnotation",
     "bumphunter"
   ],
-  "DMCFB": [],
   "DSS": [
     "bsseq"
   ],
@@ -837,7 +836,6 @@
     "ensembldb"
   ],
   "doubletrouble": [],
-  "dreamlet": [],
   "drugTargetInteractions": [
     "ensembldb"
   ],
@@ -1071,7 +1069,6 @@
   "monaLisa": [
     "TFBSTools"
   ],
-  "mosaics": [],
   "motifStack": [
     "TFBSTools"
   ],
@@ -1107,7 +1104,6 @@
     "motifmatchr",
     "TFBSTools"
   ],
-  "pathMED": [],
   "periodicDNA": [],
   "pipeFrame": [],
   "plotgardener": [],

@@ -1777,3 +1777,7 @@ anota2seq
 consensusSeekeR
 VegaMC
 wiggleplotr
+DMCFB
+dreamlet
+mosaics
+pathMED
