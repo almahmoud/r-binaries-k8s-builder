@@ -4188,7 +4188,6 @@
     "flowStats"
   ],
   "frmaTools": [],
-  "funOmics": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
@@ -4321,18 +4320,15 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "goProfiles": [],
   "goSTAG": [
     "biomaRt"
   ],
   "goSorensen": [
     "clusterProfiler",
-    "goProfiles",
     "DOSE",
     "enrichplot",
     "GOSemSim"
   ],
-  "goTools": [],
   "goseq": [
     "rtracklayer",
     "GenomicFeatures",
@@ -4513,7 +4509,6 @@
   "iterativeBMAsurv": [],
   "ivygapSE": [],
   "jazzPanda": [],
-  "keggorthology": [],
   "kissDE": [
     "DSS",
     "bsseq",

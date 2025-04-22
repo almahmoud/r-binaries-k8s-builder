@@ -1056,3 +1056,7 @@ GOfuncR
 GOpro
 PADOG
 SPIAT
+funOmics
+goProfiles
+goTools
+keggorthology
