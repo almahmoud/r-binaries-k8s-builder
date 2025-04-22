@@ -49,7 +49,6 @@
   "cageminer": [],
   "crisprShiny": [],
   "crisprVerse": [],
-  "demuxSNP": [],
   "derfinderPlot": [],
   "epimutacions": [],
   "epivizr": [
@@ -63,7 +62,6 @@
     "epivizr",
     "epivizrData"
   ],
-  "funtooNorm": [],
   "geomeTriD": [
     "trackViewer"
   ],

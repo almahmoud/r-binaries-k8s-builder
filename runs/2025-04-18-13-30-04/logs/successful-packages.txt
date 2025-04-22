@@ -2087,3 +2087,5 @@ TFHAZ
 atSNP
 ggbio
 R453Plus1Toolbox
+demuxSNP
+funtooNorm
