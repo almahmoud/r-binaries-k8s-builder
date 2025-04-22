@@ -201,7 +201,6 @@
   "ORFik": [],
   "OUTRIDER": [],
   "OrganismDbi": [],
-  "OutSplice": [],
   "PAST": [],
   "ProteoDisco": [],
   "Pviz": [
@@ -353,7 +352,6 @@
   "atSNP": [
     "motifStack"
   ],
-  "atena": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -387,7 +385,6 @@
     "RTCGAToolbox",
     "TCGAutils"
   ],
-  "casper": [],
   "cbaf": [
     "cBioPortalData",
     "RTCGAToolbox",
