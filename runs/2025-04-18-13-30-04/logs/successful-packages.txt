@@ -1060,3 +1060,14 @@ funOmics
 goProfiles
 goTools
 keggorthology
+gatom
+jazzPanda
+lmdme
+MCbiclust
+MiRaGE
+mirIntegrator
+miRNAtap
+MLP
+PeacoQC
+SpotSweeper
+synlet

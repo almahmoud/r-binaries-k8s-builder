@@ -650,21 +650,18 @@
   ],
   "CytoMDS": [
     "CytoPipeline",
-    "ggcyto",
-    "PeacoQC"
+    "ggcyto"
   ],
   "CytoML": [
     "openCyto",
     "ggcyto"
   ],
   "CytoPipeline": [
-    "ggcyto",
-    "PeacoQC"
+    "ggcyto"
   ],
   "CytoPipelineGUI": [
     "CytoPipeline",
-    "ggcyto",
-    "PeacoQC"
+    "ggcyto"
   ],
   "DAMEfinder": [
     "GenomicAlignments",
@@ -1434,7 +1431,6 @@
     "edgeR",
     "annotate"
   ],
-  "MCbiclust": [],
   "MDTS": [
     "GenomicAlignments",
     "Rsamtools"
@@ -1523,7 +1519,6 @@
     "annotate",
     "genefilter"
   ],
-  "MLP": [],
   "MLSeq": [
     "edgeR"
   ],
@@ -1694,7 +1689,6 @@
     "annotate",
     "GenomicAlignments"
   ],
-  "MiRaGE": [],
   "MicrobiomeProfiler": [
     "clusterProfiler",
     "enrichplot",
@@ -2006,7 +2000,6 @@
   "PathoStat": [
     "edgeR"
   ],
-  "PeacoQC": [],
   "PhIPData": [
     "edgeR"
   ],
@@ -2641,7 +2634,6 @@
     "scuttle"
   ],
   "SpotClean": [],
-  "SpotSweeper": [],
   "StabMap": [
     "BiocSingular"
   ],
@@ -4109,9 +4101,7 @@
     "BiocSingular",
     "ExperimentHub"
   ],
-  "esetVis": [
-    "MLP"
-  ],
+  "esetVis": [],
   "eudysbiome": [
     "Rsamtools"
   ],
@@ -4221,7 +4211,6 @@
     "GenomicAlignments"
   ],
   "gage": [],
-  "gatom": [],
   "gcapc": [
     "BSgenome",
     "Rsamtools",
@@ -4508,7 +4497,6 @@
   ],
   "iterativeBMAsurv": [],
   "ivygapSE": [],
-  "jazzPanda": [],
   "kissDE": [
     "DSS",
     "bsseq",
@@ -4547,7 +4535,6 @@
     "genefilter",
     "annotate"
   ],
-  "lmdme": [],
   "loci2path": [],
   "lumi": [
     "methylumi",
@@ -4794,7 +4781,6 @@
     "biomaRt"
   ],
   "miRNAmeConverter": [],
-  "miRNAtap": [],
   "miRSM": [
     "BicARE",
     "GSEABase",
@@ -4863,7 +4849,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "mirIntegrator": [],
   "missMethyl": [
     "methylumi",
     "minfi",
@@ -6052,7 +6037,6 @@
     "GenomicAlignments",
     "BSgenome"
   ],
-  "synlet": [],
   "syntenet": [
     "rtracklayer",
     "Rsamtools",
