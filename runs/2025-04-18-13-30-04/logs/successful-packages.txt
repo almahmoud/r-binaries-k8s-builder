@@ -1473,3 +1473,10 @@ gep2pep
 VplotR
 GSVA
 MSstatsQCgui
+DOSE
+EnrichmentBrowser
+HTSFilter
+Maaslin2
+msmsTests
+PhIPData
+prebs

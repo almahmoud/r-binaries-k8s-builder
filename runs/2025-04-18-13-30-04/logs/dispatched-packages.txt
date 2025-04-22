@@ -1625,3 +1625,13 @@ phenoTest
 consensusOV
 escape
 oppar
+GSEABenchmarkeR
+MMUPHin
+MSnID
+Macarron
+RegEnrich
+SVMDO
+beer
+coseq
+enrichplot
+zenith
