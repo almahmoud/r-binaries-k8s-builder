@@ -1699,7 +1699,6 @@
     "GOstats"
   ],
   "miRSM": [],
-  "miRspongeR": [],
   "miaDash": [
     "iSEEtree",
     "miaViz"
@@ -1964,7 +1963,6 @@
   ],
   "scQTLtools": [],
   "scRNAseqApp": [],
-  "scTGIF": [],
   "scTreeViz": [
     "epivizr",
     "scran",
@@ -2150,7 +2148,6 @@
   "traseR": [
     "BSgenome"
   ],
-  "treeclimbR": [],
   "treekoR": [],
   "tricycle": [],
   "tweeDEseq": [],
