@@ -1524,3 +1524,9 @@ MAIT
 metaMS
 Banksy
 doseR
+biocGraph
+CNTools
+MLSeq
+SpotClean
+STATegRa
+zinbwave
