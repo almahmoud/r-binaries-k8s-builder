@@ -406,8 +406,7 @@
     "rtracklayer",
     "genomation",
     "BSgenome",
-    "GenomicAlignments",
-    "seqPattern"
+    "GenomicAlignments"
   ],
   "ChIPComp": [
     "rtracklayer",
@@ -720,7 +719,6 @@
     "GenomicFeatures",
     "BSgenome",
     "GenomicAlignments",
-    "seqPattern",
     "DOSE",
     "GOSemSim"
   ],
@@ -921,8 +919,7 @@
     "GenomicFeatures",
     "genomation",
     "txdbmaker",
-    "BSgenome",
-    "seqPattern"
+    "BSgenome"
   ],
   "GenomicScores": [],
   "GenomicTuples": [],
@@ -1002,7 +999,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "HilbertCurve": [],
   "HoloFoodR": [],
   "IMAS": [
     "GenomicFeatures",
@@ -1584,8 +1580,7 @@
     "GenomicFeatures",
     "txdbmaker",
     "genomation",
-    "GenomicAlignments",
-    "seqPattern"
+    "GenomicAlignments"
   ],
   "RCM": [
     "edgeR"
@@ -1869,7 +1864,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SIAMCAT": [],
   "SICtools": [],
   "SIM": [
     "globaltest"
@@ -2265,7 +2259,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "alabaster.files": [],
   "alabaster.spatial": [],
   "alabaster.vcf": [
     "VariantAnnotation",
@@ -3038,7 +3031,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "epigenomix": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -3151,7 +3143,6 @@
     "genomation",
     "BSgenome",
     "GenomicAlignments",
-    "seqPattern",
     "rtracklayer"
   ],
   "factR": [
@@ -3236,7 +3227,6 @@
   "genomation": [
     "BSgenome",
     "GenomicAlignments",
-    "seqPattern",
     "rtracklayer"
   ],
   "geomeTriD": [
@@ -3492,7 +3482,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "maaslin3": [],
   "magpie": [
     "rtracklayer",
     "GenomicFeatures",
@@ -4374,7 +4363,6 @@
     "BSgenome",
     "ChIPseeker",
     "clusterProfiler",
-    "seqPattern",
     "rtracklayer",
     "enrichplot",
     "GenomicFeatures",
@@ -4389,7 +4377,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "seqPattern": [],
   "seqsetvis": [
     "GenomicAlignments",
     "rtracklayer"

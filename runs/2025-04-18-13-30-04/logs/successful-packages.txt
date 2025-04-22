@@ -1244,3 +1244,9 @@ ontoProc
 CompoundDb
 MsBackendMgf
 RPA
+alabaster.files
+epigenomix
+HilbertCurve
+maaslin3
+seqPattern
+SIAMCAT
