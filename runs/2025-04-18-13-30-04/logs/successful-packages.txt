@@ -1845,3 +1845,9 @@ diffHic
 MIRA
 raer
 SARC
+EpiMix
+InPAS
+m6Aboost
+MMDiff2
+spiky
+traseR

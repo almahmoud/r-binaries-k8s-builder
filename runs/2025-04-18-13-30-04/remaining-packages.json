@@ -105,7 +105,6 @@
   "EpiCompare": [
     "ChIPseeker"
   ],
-  "EpiMix": [],
   "EpiTxDb": [],
   "EventPointer": [
     "SGSeq"
@@ -164,7 +163,6 @@
   ],
   "INSPEcT": [],
   "IVAS": [],
-  "InPAS": [],
   "IntEREst": [
     "GenomicFiles"
   ],
@@ -184,7 +182,6 @@
     "methylumi",
     "lumi"
   ],
-  "MMDiff2": [],
   "MOSClip": [
     "qpgraph"
   ],
@@ -202,9 +199,7 @@
     "minfi"
   ],
   "MinimumDistance": [],
-  "Moonlight2R": [
-    "EpiMix"
-  ],
+  "Moonlight2R": [],
   "MungeSumstats": [],
   "MutationalPatterns": [],
   "NanoMethViz": [],
@@ -576,7 +571,6 @@
     "methylumi",
     "minfi"
   ],
-  "m6Aboost": [],
   "mCSEA": [
     "Gviz",
     "biovizBase",
@@ -750,7 +744,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "spiky": [],
   "srnadiff": [
     "Gviz",
     "biovizBase"
@@ -779,7 +772,6 @@
     "biovizBase"
   ],
   "transmogR": [],
-  "traseR": [],
   "txcutr": [],
   "tximeta": [],
   "uncoverappLib": [
