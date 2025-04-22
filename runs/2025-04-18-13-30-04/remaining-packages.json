@@ -2,7 +2,6 @@
   "AHMassBank": [
     "AnnotationHubData"
   ],
-  "ASpli": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
@@ -26,7 +25,6 @@
   ],
   "COCOA": [],
   "ChIPQC": [],
-  "CircSeqAlignTk": [],
   "DAMEfinder": [],
   "Damsel": [
     "ggbio"
@@ -206,10 +204,7 @@
   "recount": [],
   "regionReport": [],
   "regutools": [],
-  "saseR": [
-    "ASpli"
-  ],
-  "scFeatures": [],
+  "saseR": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData"

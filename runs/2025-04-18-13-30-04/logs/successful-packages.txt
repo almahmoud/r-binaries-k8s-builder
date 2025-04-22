@@ -2026,3 +2026,6 @@ QuasR
 TFutils
 yarn
 derfinder
+ASpli
+CircSeqAlignTk
+scFeatures
