@@ -166,7 +166,6 @@
   "MetaboSignal": [
     "mygene"
   ],
-  "MethReg": [],
   "MethylAid": [
     "minfi"
   ],
@@ -523,7 +522,6 @@
     "biovizBase"
   ],
   "metaseqR2": [],
-  "methrix": [],
   "methylCC": [
     "minfi"
   ],
