@@ -1763,3 +1763,8 @@ ADaCGH2
 mobileRNA
 recount3
 rmspc
+hicVennDiagram
+IdeoViz
+pram
+qsmooth
+xCell2

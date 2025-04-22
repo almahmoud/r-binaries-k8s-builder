@@ -127,8 +127,7 @@
     "SGSeq"
   ],
   "CleanUpRNAseq": [
-    "ensembldb",
-    "qsmooth"
+    "ensembldb"
   ],
   "Cogito": [],
   "DAMEfinder": [
@@ -279,7 +278,6 @@
   ],
   "INSPEcT": [],
   "IVAS": [],
-  "IdeoViz": [],
   "InPAS": [
     "cleanUpdTSeq"
   ],
@@ -961,7 +959,6 @@
   "hiReadsProcessor": [
     "hiAnnotator"
   ],
-  "hicVennDiagram": [],
   "iCNV": [
     "CODEX"
   ],
@@ -1130,7 +1127,6 @@
   "plotgardener": [],
   "plyinteractions": [],
   "podkat": [],
-  "pram": [],
   "preciseTAD": [
     "rCGH"
   ],
@@ -1161,7 +1157,6 @@
   ],
   "qpgraph": [],
   "qsea": [],
-  "qsmooth": [],
   "quantro": [
     "minfi",
     "bumphunter"
@@ -1366,7 +1361,6 @@
   ],
   "wavClusteR": [],
   "wiggleplotr": [],
-  "xCell2": [],
   "yarn": [
     "quantro",
     "minfi",
