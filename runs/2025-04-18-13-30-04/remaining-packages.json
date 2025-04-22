@@ -1,5 +1,4 @@
 {
-  "AHMassBank": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools"
@@ -11,7 +10,6 @@
   "ChIPQC": [],
   "Damsel": [],
   "EpiCompare": [],
-  "ExperimentHubData": [],
   "GenomicOZone": [],
   "GenomicPlot": [],
   "IMAS": [
@@ -66,9 +64,7 @@
   "igvR": [],
   "intansv": [],
   "methylGSA": [],
-  "methylclock": [
-    "ExperimentHubData"
-  ],
+  "methylclock": [],
   "msgbsR": [],
   "nullranges": [],
   "psichomics": [
