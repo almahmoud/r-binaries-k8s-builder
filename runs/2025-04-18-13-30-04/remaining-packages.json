@@ -1031,7 +1031,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "ROSeq": [],
   "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils",
@@ -1181,7 +1180,6 @@
   "STATegRa": [],
   "SVMDO": [],
   "ScreenR": [],
-  "SemDist": [],
   "SigCheck": [
     "MLInterfaces"
   ],
@@ -1699,7 +1697,6 @@
     "GenomicFeatures"
   ],
   "coseq": [],
-  "countsimQC": [],
   "covRNA": [],
   "cpvSNP": [
     "GenomicFeatures",
@@ -1975,7 +1972,6 @@
     "motifmatchr",
     "enrichplot"
   ],
-  "escape": [],
   "extraChIPs": [
     "csaw",
     "rtracklayer"
@@ -2008,7 +2004,6 @@
     "rtracklayer",
     "bumphunter"
   ],
-  "flagme": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
@@ -2651,7 +2646,6 @@
   "roar": [
     "rtracklayer"
   ],
-  "rrvgo": [],
   "rtracklayer": [],
   "sampleClassifier": [],
   "saseR": [

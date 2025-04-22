@@ -1513,3 +1513,9 @@ phantasus
 clustSIGNAL
 distinct
 peco
+countsimQC
+escape
+flagme
+ROSeq
+rrvgo
+SemDist
