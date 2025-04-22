@@ -7,14 +7,7 @@
   "affycoretools": [],
   "bigmelon": [],
   "bnem": [],
-  "epivizr": [],
   "epivizrChart": [],
-  "epivizrStandalone": [
-    "epivizr"
-  ],
-  "iNETgrate": [],
-  "scTreeViz": [
-    "epivizr"
-  ],
-  "tidyomics": []
+  "epivizrStandalone": [],
+  "scTreeViz": []
 }

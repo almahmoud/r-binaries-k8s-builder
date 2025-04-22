@@ -2150,3 +2150,5 @@ epivizrChart
 tidyomics
 YAPSA
 affycoretools
+epivizrStandalone
+scTreeViz

@@ -2141,3 +2141,6 @@ cageminer
 msgbsR
 psichomics
 geomeTriD
+epivizr
+iNETgrate
+tidyomics
