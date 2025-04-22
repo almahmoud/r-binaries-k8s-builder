@@ -1559,3 +1559,11 @@ sampleClassifier
 ScreenR
 spatialHeatmap
 tradeSeq
+a4Base
+GlobalAncova
+Rcpi
+SCArray.sat
+scBFA
+SICtools
+sva
+systemPipeR
