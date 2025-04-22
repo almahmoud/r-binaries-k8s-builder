@@ -82,9 +82,7 @@
     "OrganismDbi"
   ],
   "DeMixT": [],
-  "DegCre": [
-    "plotgardener"
-  ],
+  "DegCre": [],
   "DegNorm": [],
   "DiffBind": [],
   "DominoEffect": [],
@@ -128,7 +126,6 @@
     "biovizBase"
   ],
   "GenomicFiles": [],
-  "GenomicInteractionNodes": [],
   "GenomicInteractions": [
     "Gviz",
     "biovizBase"
@@ -318,9 +315,7 @@
     "biovizBase"
   ],
   "UPDhmm": [],
-  "Ularcirc": [
-    "plotgardener"
-  ],
+  "Ularcirc": [],
   "Uniquorn": [],
   "VCFArray": [
     "GenomicFiles"
@@ -565,9 +560,7 @@
     "OrganismDbi"
   ],
   "magpie": [],
-  "mariner": [
-    "plotgardener"
-  ],
+  "mariner": [],
   "maser": [
     "Gviz",
     "biovizBase"
@@ -626,7 +619,6 @@
     "motifmatchr"
   ],
   "pipeFrame": [],
-  "plotgardener": [],
   "preciseTAD": [
     "rCGH"
   ],
