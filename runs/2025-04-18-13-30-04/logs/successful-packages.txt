@@ -1841,3 +1841,7 @@ crisprBowtie
 crisprBwa
 RUVSeq
 txdbmaker
+diffHic
+MIRA
+raer
+SARC

@@ -59,9 +59,7 @@
   ],
   "CCAFE": [],
   "CNVrd2": [],
-  "COCOA": [
-    "MIRA"
-  ],
+  "COCOA": [],
   "CODEX": [],
   "CRISPRseek": [],
   "ChIPQC": [
@@ -186,7 +184,6 @@
     "methylumi",
     "lumi"
   ],
-  "MIRA": [],
   "MMDiff2": [],
   "MOSClip": [
     "qpgraph"
@@ -301,7 +298,6 @@
     "biovizBase",
     "GenomicFiles"
   ],
-  "SARC": [],
   "SCOPE": [],
   "SGSeq": [],
   "SMITE": [
@@ -491,7 +487,6 @@
     "biovizBase",
     "OrganismDbi"
   ],
-  "diffHic": [],
   "diffUTR": [],
   "doubletrouble": [],
   "drugTargetInteractions": [],
@@ -681,7 +676,6 @@
   "rCGH": [],
   "rGREAT": [],
   "rTRMui": [],
-  "raer": [],
   "recount": [
     "derfinder",
     "GenomicFiles"
