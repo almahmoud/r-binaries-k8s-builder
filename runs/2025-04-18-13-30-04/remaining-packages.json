@@ -546,7 +546,6 @@
   "CrispRVariants": [
     "GenomicAlignments"
   ],
-  "CytoMDS": [],
   "CytoML": [],
   "DAMEfinder": [
     "GenomicAlignments",
@@ -819,7 +818,6 @@
     "GenomicAlignments"
   ],
   "ExperimentSubset": [],
-  "FEAST": [],
   "FRASER": [
     "BSgenome",
     "GenomicAlignments",
@@ -2665,7 +2663,6 @@
   ],
   "bnem": [
     "CellNOptR",
-    "epiNEM",
     "sva",
     "genefilter",
     "edgeR",
@@ -3316,7 +3313,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "epiNEM": [],
   "epialleleR": [],
   "epidecodeR": [
     "rtracklayer",
@@ -4192,9 +4188,7 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "nempi": [
-    "epiNEM"
-  ],
+  "nempi": [],
   "netSmooth": [
     "scater",
     "clusterExperiment",
@@ -4605,7 +4599,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "rqt": [],
   "rrvgo": [
     "GOSemSim"
   ],

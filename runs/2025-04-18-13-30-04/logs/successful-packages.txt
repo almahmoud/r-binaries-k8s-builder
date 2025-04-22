@@ -1174,3 +1174,7 @@ gage
 gDRcore
 lipidr
 mbkmeans
+CytoMDS
+epiNEM
+FEAST
+rqt
