@@ -1209,3 +1209,10 @@ massiR
 pathview
 Rnits
 transite
+annotate
+artMS
+BUScorrect
+FlowSOM
+pgxRpi
+scGPS
+Spectra
