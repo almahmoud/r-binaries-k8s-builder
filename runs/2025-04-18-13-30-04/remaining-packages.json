@@ -92,7 +92,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "BiSeq": [],
   "BindingSiteFinder": [
     "GenomicFeatures"
   ],
@@ -186,7 +185,6 @@
     "GenomicFeatures"
   ],
   "ChIPsim": [],
-  "ChromHeatMap": [],
   "CircSeqAlignTk": [
     "Rhisat2",
     "txdbmaker",
@@ -1015,7 +1013,6 @@
     "ensembldb",
     "BSgenome"
   ],
-  "blacksheepr": [],
   "bnem": [],
   "borealis": [
     "bsseq",
@@ -1348,7 +1345,6 @@
     "GenomicFeatures",
     "wiggleplotr"
   ],
-  "famat": [],
   "fcScan": [
     "VariantAnnotation",
     "BSgenome",
@@ -1662,7 +1658,6 @@
   "periodicDNA": [
     "BSgenome"
   ],
-  "pipeComp": [],
   "pipeFrame": [
     "BSgenome"
   ],

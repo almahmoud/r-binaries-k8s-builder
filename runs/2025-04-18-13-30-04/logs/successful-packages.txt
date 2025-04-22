@@ -1719,3 +1719,8 @@ tweeDEseq
 dada2
 annmap
 segmentSeq
+BiSeq
+blacksheepr
+ChromHeatMap
+famat
+pipeComp
