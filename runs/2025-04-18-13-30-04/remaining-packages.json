@@ -463,7 +463,6 @@
   "INSPEcT": [
     "GenomicFeatures"
   ],
-  "IONiseR": [],
   "IVAS": [
     "GenomicFeatures"
   ],
@@ -961,7 +960,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "VAExprs": [],
   "VCFArray": [
     "VariantAnnotation",
     "GenomicFiles",
@@ -2062,7 +2060,6 @@
     "CATALYST"
   ],
   "splatter": [],
-  "splineTimeR": [],
   "srnadiff": [
     "GenomicFeatures",
     "Gviz",
