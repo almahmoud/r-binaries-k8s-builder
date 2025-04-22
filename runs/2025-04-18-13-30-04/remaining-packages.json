@@ -11,14 +11,10 @@
   "EpiCompare": [],
   "GenomicOZone": [],
   "GenomicPlot": [],
-  "IMAS": [
-    "IVAS"
-  ],
-  "IVAS": [],
+  "IMAS": [],
   "MEAL": [],
   "MEAT": [],
   "R3CPET": [],
-  "RESOLVE": [],
   "RNAAgeCalc": [
     "recount"
   ],
@@ -53,7 +49,6 @@
     "epivizrData"
   ],
   "geomeTriD": [],
-  "gmoviz": [],
   "iNETgrate": [],
   "intansv": [],
   "methylGSA": [],

@@ -2103,3 +2103,6 @@ shinyDSP
 SingleMoleculeFootprinting
 srnadiff
 trackViewer
+gmoviz
+IVAS
+RESOLVE
