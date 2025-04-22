@@ -2061,3 +2061,7 @@ RNAmodR.ML
 RNAmodR.RiboMethSeq
 mCSEA
 missMethyl
+arrayMvout
+ffpe
+iCheck
+regutools
