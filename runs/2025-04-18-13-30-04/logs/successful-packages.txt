@@ -2137,3 +2137,6 @@ SomaticSignatures
 derfinderPlot
 ReportingTools
 scruff
+cageminer
+msgbsR
+psichomics
