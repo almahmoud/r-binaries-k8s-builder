@@ -1360,3 +1360,7 @@ imcRtools
 MetaCyto
 multiGSEA
 RepViz
+fastLiquidAssociation
+MsExperiment
+pairkat
+VariantExperiment
