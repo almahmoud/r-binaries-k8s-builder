@@ -1895,3 +1895,9 @@ txdbmaker
 wavClusteR
 RJMCMCNucleosomes
 factR
+MatrixRider
+MethReg
+chromVAR
+monaLisa
+motifStack
+motifmatchr

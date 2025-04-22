@@ -1799,3 +1799,7 @@ Motif2Site
 ORFhunteR
 Repitools
 TBSignatureProfiler
+lisaClust
+PRONE
+TFBSTools
+VarCon

@@ -1,0 +1,6 @@
+MatrixRider
+MethReg
+chromVAR
+monaLisa
+motifStack
+motifmatchr
