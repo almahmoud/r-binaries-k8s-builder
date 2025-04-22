@@ -428,19 +428,15 @@
   ],
   "proActiv": [],
   "proBAMr": [],
-  "profileplyr": [
-    "rGREAT"
-  ],
+  "profileplyr": [],
   "psichomics": [
     "recount",
     "derfinder"
   ],
   "qsea": [],
-  "rGREAT": [],
   "recount": [
     "derfinder"
   ],
-  "recountmethylation": [],
   "recoup": [],
   "regionReport": [
     "derfinder"
@@ -474,7 +470,6 @@
     "standR"
   ],
   "shinyepico": [],
-  "signeR": [],
   "signifinder": [],
   "sitadela": [],
   "skewr": [
@@ -491,8 +486,6 @@
     "Gviz"
   ],
   "standR": [],
-  "svaNUMT": [],
-  "svaRetro": [],
   "tLOH": [],
   "tadar": [
     "Gviz"

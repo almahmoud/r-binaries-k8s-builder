@@ -1937,3 +1937,8 @@ quantro
 GA4GHshiny
 scanMiRApp
 shinyMethyl
+recountmethylation
+rGREAT
+signeR
+svaNUMT
+svaRetro
