@@ -2002,3 +2002,11 @@ EpiCompare
 MOSClip
 clipper
 seqArchRplus
+EventPointer
+RTCGAToolbox
+Rhisat2
+atSNP
+dagLogo
+glmSparseNet
+ribosomeProfilingQC
+terraTCGAdata

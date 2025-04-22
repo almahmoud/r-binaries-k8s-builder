@@ -1881,3 +1881,11 @@ soGGi
 ChIPseeker
 qpgraph
 branchpointer
+GARS
+INSPEcT
+MatrixRider
+Moonlight2R
+motifStack
+SGSeq
+TAPseq
+TCGAutils

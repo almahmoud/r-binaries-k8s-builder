@@ -68,8 +68,7 @@
     "biovizBase"
   ],
   "CircSeqAlignTk": [
-    "Rhisat2",
-    "SGSeq"
+    "Rhisat2"
   ],
   "CleanUpRNAseq": [],
   "DAMEfinder": [],
@@ -98,9 +97,7 @@
   ],
   "EpiCompare": [],
   "EpiTxDb": [],
-  "EventPointer": [
-    "SGSeq"
-  ],
+  "EventPointer": [],
   "ExperimentHubData": [
     "AnnotationHubData",
     "OrganismDbi"
@@ -112,7 +109,6 @@
   "GA4GHshiny": [
     "GA4GHclient"
   ],
-  "GARS": [],
   "GOTHiC": [],
   "GSReg": [
     "OrganismDbi"
@@ -147,7 +143,6 @@
   "IMAS": [
     "IVAS"
   ],
-  "INSPEcT": [],
   "IVAS": [],
   "IntEREst": [
     "GenomicFiles"
@@ -169,7 +164,6 @@
     "lumi"
   ],
   "MOSClip": [],
-  "MatrixRider": [],
   "MetaboSignal": [
     "mygene"
   ],
@@ -182,7 +176,6 @@
     "methylumi",
     "minfi"
   ],
-  "Moonlight2R": [],
   "MungeSumstats": [],
   "MutationalPatterns": [],
   "OGRE": [
@@ -242,18 +235,14 @@
     "Gviz",
     "biovizBase"
   ],
-  "RTCGAToolbox": [
-    "TCGAutils"
-  ],
+  "RTCGAToolbox": [],
   "RareVariantVis": [],
   "ReportingTools": [
     "ggbio",
     "biovizBase",
     "OrganismDbi"
   ],
-  "Rhisat2": [
-    "SGSeq"
-  ],
+  "Rhisat2": [],
   "RiboDiPA": [],
   "RiboProfiling": [
     "ggbio",
@@ -273,7 +262,6 @@
     "biovizBase",
     "GenomicFiles"
   ],
-  "SGSeq": [],
   "SMITE": [
     "goseq"
   ],
@@ -293,8 +281,6 @@
     "OrganismDbi"
   ],
   "StructuralVariantAnnotation": [],
-  "TAPseq": [],
-  "TCGAutils": [],
   "TFEA.ChIP": [],
   "TFHAZ": [
     "ORFik"
@@ -342,9 +328,7 @@
     "methylumi",
     "minfi"
   ],
-  "atSNP": [
-    "motifStack"
-  ],
+  "atSNP": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -353,8 +337,7 @@
   ],
   "bioCancer": [
     "cBioPortalData",
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "biomvRCNS": [
     "Gviz",
@@ -364,8 +347,7 @@
   "bnem": [],
   "borealis": [],
   "cBioPortalData": [
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "cageminer": [
     "ggbio",
@@ -374,13 +356,11 @@
   ],
   "canceR": [
     "cBioPortalData",
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "cbaf": [
     "cBioPortalData",
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "chevreulPlot": [
     "chevreulProcess"
@@ -433,9 +413,7 @@
     "biovizBase"
   ],
   "customProDB": [],
-  "dagLogo": [
-    "motifStack"
-  ],
+  "dagLogo": [],
   "decompTumor2Sig": [],
   "decontX": [],
   "deconvR": [
@@ -507,9 +485,7 @@
     "biovizBase",
     "OrganismDbi"
   ],
-  "glmSparseNet": [
-    "TCGAutils"
-  ],
+  "glmSparseNet": [],
   "gmapR": [],
   "gmoviz": [],
   "goseq": [],
@@ -581,9 +557,7 @@
     "deepSNV"
   ],
   "monaLisa": [],
-  "motifStack": [],
   "motifbreakR": [
-    "motifStack",
     "Gviz",
     "biovizBase"
   ],
@@ -641,9 +615,7 @@
   "rgsepd": [
     "goseq"
   ],
-  "ribosomeProfilingQC": [
-    "motifStack"
-  ],
+  "ribosomeProfilingQC": [],
   "rnaEditr": [],
   "saseR": [
     "ASpli",
@@ -709,9 +681,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "terraTCGAdata": [
-    "TCGAutils"
-  ],
+  "terraTCGAdata": [],
   "tidyomics": [
     "nullranges"
   ],
