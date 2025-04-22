@@ -1058,7 +1058,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MetaCyto": [],
   "MetaPhOR": [
     "clusterProfiler",
     "DOSE",
@@ -1486,7 +1485,6 @@
   "RegEnrich": [
     "DOSE"
   ],
-  "RepViz": [],
   "Repitools": [
     "GenomicAlignments",
     "rtracklayer",
@@ -1934,7 +1932,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "affylmGUI": [],
   "airpart": [],
   "alabaster": [
     "alabaster.spatial",
@@ -2905,7 +2902,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "imcRtools": [],
   "infercnv": [],
   "intansv": [
     "ggbio",
@@ -3236,7 +3232,6 @@
     "msmsEDA",
     "PSMatch"
   ],
-  "multiGSEA": [],
   "multiHiCcompare": [],
   "mumosa": [
     "scran"

@@ -1355,3 +1355,8 @@ pvac
 SpectraQL
 velociraptor
 webbioc
+affylmGUI
+imcRtools
+MetaCyto
+multiGSEA
+RepViz
