@@ -38,9 +38,7 @@
   "IVAS": [],
   "IntEREst": [],
   "IsoformSwitchAnalyzeR": [],
-  "MEAL": [
-    "missMethyl"
-  ],
+  "MEAL": [],
   "MEAT": [
     "wateRmelon"
   ],
@@ -126,15 +124,11 @@
   "intansv": [
     "ggbio"
   ],
-  "mCSEA": [],
-  "methylGSA": [
-    "missMethyl"
-  ],
+  "methylGSA": [],
   "methylclock": [
     "ExperimentHubData",
     "AnnotationHubData"
   ],
-  "missMethyl": [],
   "motifbreakR": [],
   "msgbsR": [
     "ggbio"
