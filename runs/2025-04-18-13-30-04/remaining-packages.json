@@ -551,7 +551,6 @@
   ],
   "CytoMDS": [],
   "CytoML": [],
-  "CytoPipelineGUI": [],
   "DAMEfinder": [
     "GenomicAlignments",
     "VariantAnnotation",
@@ -1513,7 +1512,6 @@
     "MetaboCoreUtils"
   ],
   "MultiBaC": [],
-  "MultiRNAflow": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",
@@ -2602,7 +2600,6 @@
     "edgeR"
   ],
   "beachmat.hdf5": [],
-  "beachmat.tiledb": [],
   "beadarray": [],
   "bedbaser": [
     "rtracklayer",
@@ -4940,7 +4937,6 @@
     "GSEABase",
     "annotate"
   ],
-  "spatialDE": [],
   "spatialFDA": [
     "ExperimentHub"
   ],
