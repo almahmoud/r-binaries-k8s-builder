@@ -2057,3 +2057,5 @@ methylPipe
 HiCDCPlus
 RNAmodR.AlkAnilineSeq
 spatzie
+RNAmodR.ML
+RNAmodR.RiboMethSeq
