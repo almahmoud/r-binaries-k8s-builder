@@ -63,16 +63,9 @@
   "RNAAgeCalc": [
     "recount"
   ],
-  "RNAmodR": [],
-  "RNAmodR.AlkAnilineSeq": [
-    "RNAmodR"
-  ],
-  "RNAmodR.ML": [
-    "RNAmodR"
-  ],
-  "RNAmodR.RiboMethSeq": [
-    "RNAmodR"
-  ],
+  "RNAmodR.AlkAnilineSeq": [],
+  "RNAmodR.ML": [],
+  "RNAmodR.RiboMethSeq": [],
   "RareVariantVis": [],
   "ReportingTools": [
     "ggbio"
@@ -84,7 +77,6 @@
   "RnaSeqSampleSize": [
     "recount"
   ],
-  "SPLINTER": [],
   "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [
     "ggbio"

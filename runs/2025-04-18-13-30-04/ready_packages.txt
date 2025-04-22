@@ -1,1 +1,3 @@
-chevreulShiny
+RNAmodR.AlkAnilineSeq
+RNAmodR.ML
+RNAmodR.RiboMethSeq

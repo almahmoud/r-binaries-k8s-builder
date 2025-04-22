@@ -2108,3 +2108,6 @@ CAGEfightR
 HiCDCPlus
 spatzie
 chevreulShiny
+RNAmodR.AlkAnilineSeq
+RNAmodR.ML
+RNAmodR.RiboMethSeq
