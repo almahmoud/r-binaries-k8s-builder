@@ -202,7 +202,6 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "CNVRanger": [],
   "CNVrd2": [
     "VariantAnnotation",
     "rtracklayer",
@@ -1161,7 +1160,6 @@
   "SPsimSeq": [],
   "SVMDO": [],
   "ScreenR": [],
-  "SigCheck": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
