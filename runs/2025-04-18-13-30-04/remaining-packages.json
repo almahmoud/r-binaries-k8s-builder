@@ -33,7 +33,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "ASICS": [],
   "ASSIGN": [
     "sva",
     "genefilter",
@@ -2902,7 +2901,6 @@
   "clusterExperiment": [
     "edgeR",
     "zinbwave",
-    "mbkmeans",
     "genefilter",
     "annotate"
   ],
@@ -3499,7 +3497,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "gDRcore": [],
   "gDRstyle": [
     "BiocCheck",
     "biocViews"
@@ -3516,7 +3513,6 @@
     "graphite",
     "GenomicAlignments"
   ],
-  "gage": [],
   "gcapc": [
     "BSgenome",
     "GenomicAlignments",
@@ -3782,7 +3778,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "lipidr": [],
   "lisaClust": [
     "spicyR",
     "ClassifyR",
@@ -3852,7 +3847,6 @@
     "annotate",
     "ExperimentHub"
   ],
-  "mbkmeans": [],
   "megadepth": [],
   "meshes": [
     "DOSE",
@@ -4206,7 +4200,6 @@
     "clusterExperiment",
     "edgeR",
     "zinbwave",
-    "mbkmeans",
     "scuttle",
     "genefilter",
     "annotate"
