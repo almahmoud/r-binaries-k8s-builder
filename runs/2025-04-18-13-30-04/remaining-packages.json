@@ -209,7 +209,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "CeTF": [],
   "CellBarcode": [],
   "CelliD": [],
   "Cepo": [],
@@ -676,7 +675,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "MicrobiomeProfiler": [],
   "MineICA": [
     "GOstats",
     "lumi",
