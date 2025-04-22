@@ -1225,3 +1225,11 @@ Streamer
 BLMA
 HERON
 tpSVG
+beadarray
+FilterFFPE
+IsoBayes
+megadepth
+rGenomeTracks
+TIN
+triplex
+vsclust

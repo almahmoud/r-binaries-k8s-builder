@@ -777,7 +777,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "FilterFFPE": [],
   "FindIT2": [
     "rtracklayer",
     "GenomicFeatures",
@@ -1064,7 +1063,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "IsoBayes": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
     "sva",
@@ -2095,7 +2093,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "TIN": [],
   "TMSig": [
     "GSEABase"
   ],
@@ -2323,7 +2320,6 @@
     "GenomicAlignments"
   ],
   "arrayQualityMetrics": [
-    "beadarray",
     "genefilter"
   ],
   "atSNP": [
@@ -2378,7 +2374,6 @@
     "edgeR"
   ],
   "beachmat.hdf5": [],
-  "beadarray": [],
   "bedbaser": [
     "rtracklayer",
     "GenomicAlignments"
@@ -2437,9 +2432,7 @@
     "geneplotter",
     "genefilter"
   ],
-  "blima": [
-    "beadarray"
-  ],
+  "blima": [],
   "bnbc": [
     "sva",
     "genefilter",
@@ -2573,7 +2566,6 @@
     "batchelor",
     "ensembldb",
     "GenomicFeatures",
-    "megadepth",
     "edgeR",
     "rtracklayer",
     "GenomicAlignments"
@@ -2583,7 +2575,6 @@
     "batchelor",
     "ensembldb",
     "GenomicFeatures",
-    "megadepth",
     "scran",
     "scuttle",
     "rtracklayer",
@@ -2600,7 +2591,6 @@
     "batchelor",
     "ensembldb",
     "GenomicFeatures",
-    "megadepth",
     "rtracklayer",
     "GenomicAlignments",
     "edgeR"
@@ -3061,9 +3051,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "epigenomix": [
-    "beadarray"
-  ],
+  "epigenomix": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -3546,7 +3534,6 @@
     "GSEABase",
     "ExperimentHub"
   ],
-  "megadepth": [],
   "meshes": [
     "DOSE",
     "enrichplot",
@@ -4121,7 +4108,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "rGenomeTracks": [],
   "rTRMui": [
     "MotifDb",
     "rtracklayer",
@@ -4733,7 +4719,6 @@
     "scater",
     "scuttle"
   ],
-  "triplex": [],
   "tweeDEseq": [
     "edgeR"
   ],
@@ -4781,7 +4766,6 @@
     "GSEABase",
     "ExperimentHub"
   ],
-  "vsclust": [],
   "wateRmelon": [
     "methylumi",
     "lumi",
