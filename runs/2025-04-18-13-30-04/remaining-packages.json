@@ -100,7 +100,6 @@
   "BindingSiteFinder": [
     "GenomicFeatures"
   ],
-  "BioTIP": [],
   "BubbleTree": [
     "biovizBase",
     "GenomicFeatures",
@@ -1242,7 +1241,6 @@
   ],
   "dandelionR": [],
   "dar": [],
-  "debrowser": [],
   "decompTumor2Sig": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -1686,7 +1684,6 @@
     "plyranges",
     "GenomicFeatures"
   ],
-  "netSmooth": [],
   "nullranges": [
     "plyranges"
   ],
