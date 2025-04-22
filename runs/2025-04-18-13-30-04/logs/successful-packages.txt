@@ -1826,3 +1826,10 @@ bumphunter
 SplicingGraphs
 TRESS
 VaSP
+CexoR
+ensembldb
+factR
+hiReadsProcessor
+Organism.dplyr
+VariantAnnotation
+wavClusteR
