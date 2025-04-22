@@ -1603,3 +1603,16 @@ cliqueMS
 cosmiq
 ncGTW
 squallms
+CellBarcode
+ChIPsim
+FastqCleaner
+IONiseR
+OTUbase
+RSVSim
+amplican
+basecallQC
+chipseq
+dada2
+easyRNASeq
+nucleR
+systemPipeR

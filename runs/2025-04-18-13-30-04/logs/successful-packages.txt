@@ -1460,3 +1460,8 @@ RMassBank
 TMSig
 topdownr
 xcms
+breakpointR
+CrispRVariants
+panelcn.mops
+ShortRead
+TissueEnrich
