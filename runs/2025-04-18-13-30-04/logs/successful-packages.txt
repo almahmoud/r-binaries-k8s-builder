@@ -1086,3 +1086,9 @@ Heatplus
 RcwlPipelines
 satuRn
 spqn
+GRmetrics
+MetNet
+microbiomeExplorer
+spatialSimGP
+stageR
+survClust

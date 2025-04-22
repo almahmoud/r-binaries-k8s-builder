@@ -1076,7 +1076,6 @@
     "GSEABase",
     "genefilter"
   ],
-  "GRmetrics": [],
   "GSEABase": [
     "annotate"
   ],
@@ -1618,7 +1617,6 @@
     "Spectra",
     "MetaboCoreUtils"
   ],
-  "MetNet": [],
   "MetaCyto": [
     "FlowSOM",
     "ConsensusClusterPlus"
@@ -4800,7 +4798,6 @@
   "microSTASIS": [
     "TreeSummarizedExperiment"
   ],
-  "microbiomeExplorer": [],
   "midasHLA": [],
   "miloR": [
     "edgeR",
@@ -5882,7 +5879,6 @@
     "genefilter",
     "annotate"
   ],
-  "spatialSimGP": [],
   "spatzie": [
     "BSgenome",
     "GenomicFeatures",
@@ -5957,7 +5953,6 @@
   "ssviz": [
     "Rsamtools"
   ],
-  "stageR": [],
   "standR": [
     "edgeR",
     "RUVSeq",
@@ -5979,7 +5974,6 @@
   "surfaltr": [
     "biomaRt"
   ],
-  "survClust": [],
   "sva": [
     "genefilter",
     "edgeR",
