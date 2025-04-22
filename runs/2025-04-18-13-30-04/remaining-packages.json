@@ -32,7 +32,6 @@
     "OrganismDbi"
   ],
   "BUSpaRse": [],
-  "BadRegionFinder": [],
   "BgeeCall": [],
   "BindingSiteFinder": [],
   "BubbleTree": [
@@ -59,7 +58,6 @@
   "CCAFE": [],
   "CNVrd2": [],
   "COCOA": [],
-  "CRISPRseek": [],
   "ChIPQC": [
     "DiffBind"
   ],
@@ -374,7 +372,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "clipper": [],
   "coMethDMR": [],
   "comapr": [
     "Gviz",
@@ -410,7 +407,6 @@
   "customProDB": [],
   "dagLogo": [],
   "decompTumor2Sig": [],
-  "decontX": [],
   "deconvR": [
     "minfi"
   ],
@@ -427,7 +423,6 @@
     "OrganismDbi"
   ],
   "diffUTR": [],
-  "doubletrouble": [],
   "drugTargetInteractions": [],
   "enhancerHomologSearch": [
     "motifmatchr"
@@ -512,7 +507,6 @@
     "biovizBase",
     "OrganismDbi"
   ],
-  "magpie": [],
   "mariner": [],
   "maser": [
     "Gviz",
@@ -608,7 +602,6 @@
     "goseq"
   ],
   "ribosomeProfilingQC": [],
-  "rnaEditr": [],
   "saseR": [
     "ASpli",
     "Gviz",
@@ -661,7 +654,6 @@
     "biovizBase"
   ],
   "standR": [],
-  "strandCheckR": [],
   "svaNUMT": [
     "StructuralVariantAnnotation"
   ],

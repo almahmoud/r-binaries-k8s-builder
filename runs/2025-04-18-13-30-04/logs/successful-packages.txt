@@ -1897,3 +1897,11 @@ methrix
 BASiCStan
 geneAttribution
 ZygosityPredictor
+BadRegionFinder
+clipper
+CRISPRseek
+decontX
+doubletrouble
+magpie
+rnaEditr
+strandCheckR
