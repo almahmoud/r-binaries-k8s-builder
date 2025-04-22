@@ -1647,3 +1647,10 @@ treekoR
 IONiseR
 splineTimeR
 VAExprs
+covRNA
+EasyCellType
+ERSSA
+M3Drop
+scDotPlot
+scQTLtools
+tricycle

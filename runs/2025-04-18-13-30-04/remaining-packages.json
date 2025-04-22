@@ -314,8 +314,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "ERSSA": [],
-  "EasyCellType": [],
   "EpiCompare": [
     "ChIPseeker",
     "genomation",
@@ -489,7 +487,6 @@
     "ensembldb"
   ],
   "LACE": [],
-  "M3Drop": [],
   "MEAL": [
     "minfi",
     "Gviz",
@@ -1229,7 +1226,6 @@
     "GenomicFeatures"
   ],
   "coseq": [],
-  "covRNA": [],
   "cpvSNP": [
     "GenomicFeatures"
   ],
@@ -1939,7 +1935,6 @@
   "scDblFinder": [
     "scran"
   ],
-  "scDotPlot": [],
   "scFeatures": [
     "ensembldb",
     "SingleCellSignalR",
@@ -1947,10 +1942,8 @@
     "scran"
   ],
   "scMerge": [
-    "M3Drop",
     "scran"
   ],
-  "scQTLtools": [],
   "scRNAseqApp": [],
   "scTreeViz": [
     "epivizr",
@@ -2135,7 +2128,6 @@
   "traseR": [
     "BSgenome"
   ],
-  "tricycle": [],
   "tweeDEseq": [],
   "txcutr": [
     "GenomicFeatures",
