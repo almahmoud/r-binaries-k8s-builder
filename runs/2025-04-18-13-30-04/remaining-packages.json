@@ -38,7 +38,6 @@
     "affycoretools",
     "GOstats",
     "ReportingTools",
-    "Glimma",
     "ggbio",
     "biovizBase",
     "BSgenome",
@@ -366,7 +365,6 @@
     "txdbmaker",
     "rtracklayer"
   ],
-  "DelayedTensor": [],
   "DiffBind": [
     "systemPipeR",
     "GreyListChIP",
@@ -566,7 +564,6 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "Glimma": [],
   "GlobalAncova": [],
   "GmicR": [
     "GOstats"
@@ -1405,7 +1402,6 @@
   "affycoretools": [
     "GOstats",
     "ReportingTools",
-    "Glimma",
     "ggbio",
     "biovizBase",
     "BSgenome",
@@ -2148,7 +2144,6 @@
     "rtracklayer",
     "txdbmaker"
   ],
-  "iSEEde": [],
   "iSEEtree": [
     "miaViz",
     "mia"
@@ -2451,7 +2446,6 @@
   "omicRexposome": [
     "sva"
   ],
-  "oppar": [],
   "pRoloc": [
     "MLInterfaces"
   ],
@@ -2841,7 +2835,6 @@
     "rtracklayer",
     "chipseq"
   ],
-  "sparrow": [],
   "spatialHeatmap": [],
   "spatzie": [
     "BSgenome",
