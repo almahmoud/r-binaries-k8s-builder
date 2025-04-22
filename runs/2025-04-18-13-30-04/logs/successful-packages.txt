@@ -1889,3 +1889,6 @@ motifStack
 SGSeq
 TAPseq
 TCGAutils
+chromVAR
+GOTHiC
+monaLisa
