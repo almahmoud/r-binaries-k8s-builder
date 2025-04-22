@@ -193,7 +193,6 @@
     "SGSeq",
     "GenomicFeatures"
   ],
-  "CiteFuse": [],
   "CleanUpRNAseq": [
     "BSgenome",
     "ensembldb",
@@ -487,7 +486,6 @@
     "GenomicFeatures"
   ],
   "MOSim": [],
-  "MPAC": [],
   "MatrixRider": [
     "TFBSTools",
     "BSgenome"
@@ -994,7 +992,6 @@
   "atena": [
     "GenomicFeatures"
   ],
-  "attract": [],
   "ballgown": [],
   "bambu": [
     "BSgenome",
