@@ -2032,3 +2032,7 @@ scFeatures
 AllelicImbalance
 GeneStructureTools
 OGRE
+DuplexDiscovereR
+GenomicInteractions
+mitoClone2
+Pviz

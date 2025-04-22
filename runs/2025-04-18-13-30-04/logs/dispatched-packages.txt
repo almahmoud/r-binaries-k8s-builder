@@ -2104,3 +2104,6 @@ SingleMoleculeFootprinting
 recount
 regionReport
 saseR
+CAGEfightR
+HiCDCPlus
+spatzie

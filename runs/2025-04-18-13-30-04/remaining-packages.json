@@ -15,12 +15,9 @@
   "CAFE": [
     "ggbio"
   ],
-  "CAGEfightR": [
-    "GenomicInteractions"
-  ],
+  "CAGEfightR": [],
   "CAGEr": [
-    "CAGEfightR",
-    "GenomicInteractions"
+    "CAGEfightR"
   ],
   "COCOA": [],
   "ChIPQC": [],
@@ -28,7 +25,6 @@
   "Damsel": [
     "ggbio"
   ],
-  "DuplexDiscovereR": [],
   "ELMER": [],
   "EpiCompare": [],
   "ExperimentHubData": [
@@ -36,14 +32,11 @@
   ],
   "FRASER": [],
   "GSReg": [],
-  "GenomicInteractions": [],
   "GenomicOZone": [
     "ggbio"
   ],
   "GenomicPlot": [],
-  "HiCDCPlus": [
-    "GenomicInteractions"
-  ],
+  "HiCDCPlus": [],
   "IMAS": [
     "IVAS"
   ],
@@ -63,7 +56,6 @@
   "MungeSumstats": [],
   "OMICsPCA": [],
   "ProteoDisco": [],
-  "Pviz": [],
   "R3CPET": [
     "ggbio"
   ],
@@ -188,7 +180,6 @@
     "AnnotationHubData"
   ],
   "missMethyl": [],
-  "mitoClone2": [],
   "motifbreakR": [],
   "msgbsR": [
     "ggbio"
@@ -215,9 +206,7 @@
     "wateRmelon",
     "lumi"
   ],
-  "spatzie": [
-    "GenomicInteractions"
-  ],
+  "spatzie": [],
   "srnadiff": [],
   "tadar": [],
   "tidyomics": [
