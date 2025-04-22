@@ -1428,3 +1428,9 @@ EWCE
 MEIGOR
 muscat
 xenLite
+adductomicsR
+CoSIA
+easier
+iSEEhub
+knowYourCG
+PhyloProfile

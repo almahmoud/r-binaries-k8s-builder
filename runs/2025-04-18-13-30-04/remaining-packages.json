@@ -320,7 +320,6 @@
     "sva"
   ],
   "CluMSID": [],
-  "CoSIA": [],
   "Cogito": [
     "GenomicFeatures",
     "rtracklayer"
@@ -985,7 +984,6 @@
   ],
   "PathoStat": [],
   "PhIPData": [],
-  "PhyloProfile": [],
   "Pigengene": [
     "clusterProfiler",
     "ReactomePA",
@@ -1521,7 +1519,6 @@
     "a4Base"
   ],
   "a4Base": [],
-  "adductomicsR": [],
   "affycoretools": [
     "GOstats",
     "ReportingTools",
@@ -2050,7 +2047,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "easier": [],
   "easyRNASeq": [
     "ShortRead"
   ],
@@ -2323,7 +2319,6 @@
     "txdbmaker"
   ],
   "iSEEde": [],
-  "iSEEhub": [],
   "iSEEtree": [
     "miaViz",
     "mia"
@@ -2364,7 +2359,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "knowYourCG": [],
   "lefser": [
     "mia"
   ],
