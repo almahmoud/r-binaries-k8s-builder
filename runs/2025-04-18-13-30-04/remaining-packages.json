@@ -1,7 +1,5 @@
 {
-  "ADaCGH2": [
-    "tilingArray"
-  ],
+  "ADaCGH2": [],
   "AHMassBank": [
     "AnnotationHubData",
     "GenomicFeatures",
@@ -176,7 +174,6 @@
   "CSSQ": [
     "GenomicFeatures"
   ],
-  "CellBarcode": [],
   "CelliD": [],
   "Cepo": [],
   "CexoR": [
@@ -344,7 +341,6 @@
     "OUTRIDER",
     "txdbmaker"
   ],
-  "FastqCleaner": [],
   "FindIT2": [
     "GenomicFeatures"
   ],
@@ -626,8 +622,6 @@
   ],
   "PAST": [],
   "PRONE": [],
-  "PROPER": [],
-  "Prostar": [],
   "ProteoDisco": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -1286,9 +1280,7 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "cypress": [
-    "PROPER"
-  ],
+  "cypress": [],
   "cytofQC": [
     "CATALYST"
   ],
@@ -2046,7 +2038,6 @@
   "spillR": [
     "CATALYST"
   ],
-  "splatter": [],
   "srnadiff": [
     "GenomicFeatures",
     "Gviz",
@@ -2101,7 +2092,6 @@
     "plyranges",
     "nullranges"
   ],
-  "tilingArray": [],
   "trackViewer": [
     "GenomicFeatures",
     "Gviz",

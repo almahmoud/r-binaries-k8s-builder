@@ -1658,3 +1658,9 @@ BatchSVG
 coseq
 LACE
 regsplice
+CellBarcode
+FastqCleaner
+PROPER
+Prostar
+splatter
+tilingArray
