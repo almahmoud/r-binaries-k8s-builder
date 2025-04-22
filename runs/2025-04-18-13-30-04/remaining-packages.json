@@ -20,7 +20,6 @@
   "BOBaFIT": [
     "ggbio"
   ],
-  "BUSpaRse": [],
   "BubbleTree": [],
   "CAFE": [
     "ggbio"
@@ -328,7 +327,6 @@
     "ggbio"
   ],
   "nullranges": [],
-  "pageRank": [],
   "preciseTAD": [],
   "primirTSS": [
     "Gviz"
