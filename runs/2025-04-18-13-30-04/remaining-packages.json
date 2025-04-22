@@ -208,9 +208,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "CCPROMISE": [
-    "PROMISE"
-  ],
+  "CCPROMISE": [],
   "CEMiTool": [
     "clusterProfiler",
     "DOSE",
@@ -550,7 +548,6 @@
   "GSEABenchmarkeR": [
     "EnrichmentBrowser"
   ],
-  "GSRI": [],
   "GSReg": [
     "GenomicFeatures",
     "rtracklayer",
@@ -731,7 +728,6 @@
   "MBECS": [
     "sva"
   ],
-  "MDTS": [],
   "MEAL": [
     "minfi",
     "Gviz",
@@ -960,7 +956,6 @@
   "POMA": [
     "sva"
   ],
-  "PROMISE": [],
   "PRONE": [
     "POMA",
     "sva"
@@ -2627,7 +2622,6 @@
     "plyranges",
     "rtracklayer"
   ],
-  "omXplore": [],
   "omicRexposome": [
     "sva"
   ],
@@ -2746,7 +2740,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "ptairMS": [],
   "qPLEXanalyzer": [],
   "qpgraph": [
     "GenomicFeatures",

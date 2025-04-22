@@ -1448,3 +1448,8 @@ mastR
 peakPantheR
 PrInCE
 SIMD
+GSRI
+MDTS
+omXplore
+PROMISE
+ptairMS
