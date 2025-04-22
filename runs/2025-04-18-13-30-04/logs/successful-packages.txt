@@ -1504,3 +1504,9 @@ infercnv
 compcodeR
 PICB
 sSNAPPY
+CellMixS
+diffcyt
+dinoR
+gDRstyle
+hdxmsqc
+phantasus

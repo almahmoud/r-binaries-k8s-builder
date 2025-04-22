@@ -235,7 +235,6 @@
     "enrichplot"
   ],
   "CellBarcode": [],
-  "CellMixS": [],
   "CelliD": [],
   "Cepo": [],
   "CexoR": [
@@ -1233,8 +1232,7 @@
   ],
   "SpotClean": [],
   "Statial": [
-    "treekoR",
-    "diffcyt"
+    "treekoR"
   ],
   "StructuralVariantAnnotation": [
     "rtracklayer",
@@ -1588,9 +1586,7 @@
   "celda": [
     "scran"
   ],
-  "censcyt": [
-    "diffcyt"
-  ],
+  "censcyt": [],
   "cfDNAPro": [
     "plyranges",
     "BSgenome",
@@ -1870,8 +1866,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "diffcyt": [],
-  "dinoR": [],
   "distinct": [],
   "doppelgangR": [
     "sva"
@@ -2025,7 +2019,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "gDRstyle": [],
   "gINTomics": [
     "GenomicFeatures",
     "ReactomePA",
@@ -2103,7 +2096,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "hdxmsqc": [],
   "hiAnnotator": [
     "rtracklayer",
     "BSgenome"
@@ -2472,7 +2464,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "phantasus": [],
   "phenoTest": [],
   "pipeComp": [
     "scran"
@@ -2953,12 +2944,8 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "treeclimbR": [
-    "diffcyt"
-  ],
-  "treekoR": [
-    "diffcyt"
-  ],
+  "treeclimbR": [],
+  "treekoR": [],
   "tricycle": [],
   "tweeDEseq": [],
   "txcutr": [
