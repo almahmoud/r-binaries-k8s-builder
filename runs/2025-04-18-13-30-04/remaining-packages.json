@@ -176,7 +176,6 @@
     "biovizBase"
   ],
   "CATALYST": [],
-  "CBNplot": [],
   "CCAFE": [
     "VariantAnnotation",
     "rtracklayer",
@@ -223,7 +222,6 @@
   ],
   "ChIPQC": [
     "DiffBind",
-    "chipseq",
     "GenomicFeatures",
     "GreyListChIP",
     "rtracklayer",
@@ -693,7 +691,6 @@
     "EpiMix",
     "GenomicFeatures"
   ],
-  "MoonlightR": [],
   "Motif2Site": [
     "BSgenome",
     "rtracklayer"
@@ -773,7 +770,6 @@
   ],
   "PRONE": [],
   "PROPER": [],
-  "PanomiR": [],
   "Pigengene": [],
   "Prostar": [],
   "ProteoDisco": [
@@ -1431,7 +1427,6 @@
   "chipenrich": [
     "rtracklayer"
   ],
-  "chipseq": [],
   "chromVAR": [
     "TFBSTools",
     "BSgenome",
@@ -1581,9 +1576,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "dandelionR": [
-    "miloR"
-  ],
+  "dandelionR": [],
   "dar": [],
   "debrowser": [],
   "decompTumor2Sig": [
@@ -1891,7 +1884,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "idiogram": [],
   "igvR": [
     "rtracklayer",
     "VariantAnnotation",
@@ -2057,7 +2049,6 @@
     "miaViz"
   ],
   "miaViz": [],
-  "miloR": [],
   "minfi": [
     "bumphunter",
     "GenomicFeatures",
@@ -2221,8 +2212,7 @@
     "ChIPseeker",
     "GenomicFeatures",
     "rGREAT",
-    "rtracklayer",
-    "chipseq"
+    "rtracklayer"
   ],
   "psichomics": [
     "recount",
@@ -2496,8 +2486,7 @@
     "rtracklayer"
   ],
   "soGGi": [
-    "rtracklayer",
-    "chipseq"
+    "rtracklayer"
   ],
   "spatzie": [
     "BSgenome",
@@ -2601,7 +2590,6 @@
     "VariantAnnotation"
   ],
   "transcriptR": [
-    "chipseq",
     "GenomicFeatures",
     "rtracklayer"
   ],

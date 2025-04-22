@@ -1621,3 +1621,9 @@ CeTF
 MicrobiomeProfiler
 GDCRNATools
 RegEnrich
+CBNplot
+chipseq
+idiogram
+miloR
+MoonlightR
+PanomiR
