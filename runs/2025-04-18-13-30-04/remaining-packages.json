@@ -39,10 +39,7 @@
   "IntEREst": [],
   "IsoformSwitchAnalyzeR": [],
   "MEAL": [],
-  "MEAT": [
-    "wateRmelon"
-  ],
-  "MineICA": [],
+  "MEAT": [],
   "MungeSumstats": [],
   "OMICsPCA": [],
   "ProteoDisco": [],
@@ -54,7 +51,6 @@
   "RNAAgeCalc": [
     "recount"
   ],
-  "RareVariantVis": [],
   "ReportingTools": [
     "ggbio"
   ],
@@ -81,9 +77,7 @@
   ],
   "appreci8R": [],
   "atSNP": [],
-  "bigmelon": [
-    "wateRmelon"
-  ],
+  "bigmelon": [],
   "bnem": [],
   "cageminer": [
     "ggbio"
@@ -143,15 +137,12 @@
     "ggbio"
   ],
   "shinyDSP": [],
-  "skewr": [
-    "wateRmelon"
-  ],
+  "skewr": [],
   "srnadiff": [],
   "tidyomics": [
     "nullranges"
   ],
   "trackViewer": [],
   "txcutr": [],
-  "uncoverappLib": [],
-  "wateRmelon": []
+  "uncoverappLib": []
 }
