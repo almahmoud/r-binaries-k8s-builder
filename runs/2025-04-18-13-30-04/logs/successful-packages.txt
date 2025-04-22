@@ -1914,3 +1914,5 @@ GA4GHclient
 MOSClip
 SigsPack
 Uniquorn
+alabaster.vcf
+SNPhood
