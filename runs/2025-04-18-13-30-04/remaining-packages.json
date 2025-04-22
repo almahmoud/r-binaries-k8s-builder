@@ -628,7 +628,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "MIRit": [],
   "MMDiff2": [
     "BSgenome",
     "rtracklayer"
@@ -770,7 +769,6 @@
   ],
   "PRONE": [],
   "PROPER": [],
-  "Pigengene": [],
   "Prostar": [],
   "ProteoDisco": [
     "GenomicFeatures",
@@ -1096,7 +1094,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "TCseq": [],
   "TEKRABber": [
     "rtracklayer"
   ],
@@ -1287,7 +1284,6 @@
     "rtracklayer"
   ],
   "bandle": [],
-  "baySeq": [],
   "bedbaser": [
     "rtracklayer"
   ],
@@ -1335,7 +1331,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "broadSeq": [],
   "bsseq": [
     "BSgenome",
     "rtracklayer"
@@ -1453,9 +1448,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "clusterSeq": [
-    "baySeq"
-  ],
+  "clusterSeq": [],
   "coMethDMR": [
     "bumphunter",
     "GenomicFeatures",
@@ -1833,7 +1826,6 @@
   "groHMM": [
     "rtracklayer"
   ],
-  "gsean": [],
   "gwasurvivr": [
     "VariantAnnotation",
     "rtracklayer",
@@ -1866,7 +1858,6 @@
     "bumphunter"
   ],
   "iNETgrate": [
-    "Pigengene",
     "minfi",
     "OrganismDbi",
     "GenomicFeatures",
@@ -2306,9 +2297,7 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "riboSeqR": [
-    "baySeq"
-  ],
+  "riboSeqR": [],
   "ribosomeProfilingQC": [
     "BSgenome",
     "EDASeq",
@@ -2411,9 +2400,7 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "segmentSeq": [
-    "baySeq"
-  ],
+  "segmentSeq": [],
   "selectKSigs": [
     "HiLDA",
     "GenomicFeatures",

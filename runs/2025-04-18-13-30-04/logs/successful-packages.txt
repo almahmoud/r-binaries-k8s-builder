@@ -1628,3 +1628,9 @@ miloR
 MoonlightR
 PanomiR
 TCC
+baySeq
+broadSeq
+gsean
+MIRit
+Pigengene
+TCseq

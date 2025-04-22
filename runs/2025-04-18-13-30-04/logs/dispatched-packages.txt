@@ -1712,3 +1712,6 @@ lefser
 miaViz
 PRONE
 dandelionR
+clusterSeq
+riboSeqR
+segmentSeq
