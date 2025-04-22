@@ -76,7 +76,6 @@
   "CleanUpRNAseq": [],
   "Cogito": [],
   "DAMEfinder": [],
-  "DaMiRseq": [],
   "Damsel": [
     "ggbio",
     "goseq",
@@ -121,9 +120,7 @@
   "GA4GHshiny": [
     "GA4GHclient"
   ],
-  "GARS": [
-    "DaMiRseq"
-  ],
+  "GARS": [],
   "GOTHiC": [],
   "GSReg": [
     "OrganismDbi"
