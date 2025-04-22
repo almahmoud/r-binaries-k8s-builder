@@ -702,9 +702,7 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "Rbec": [
-    "dada2"
-  ],
+  "Rbec": [],
   "Repitools": [
     "BSgenome"
   ],
@@ -1208,7 +1206,6 @@
   ],
   "cypress": [],
   "cytofQC": [],
-  "dada2": [],
   "dagLogo": [
     "motifStack",
     "TFBSTools",
