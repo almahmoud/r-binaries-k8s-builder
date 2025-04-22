@@ -2114,3 +2114,17 @@ scone
 BBCAnalyzer
 epivizrData
 txcutr
+BOBaFIT
+CAFE
+CAGEr
+crisprShiny
+crisprVerse
+Damsel
+epimutacions
+GenomicPlot
+IMAS
+methylclock
+nullranges
+RNAAgeCalc
+RnaSeqSampleSize
+skewr

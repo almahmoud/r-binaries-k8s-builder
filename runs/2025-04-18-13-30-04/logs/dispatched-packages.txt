@@ -2147,3 +2147,4 @@ RnaSeqSampleSize
 psichomics
 epivizr
 epivizrChart
+tidyomics

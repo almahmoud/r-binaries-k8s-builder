@@ -3,20 +3,12 @@
     "affycoretools",
     "ReportingTools"
   ],
-  "BOBaFIT": [],
-  "CAFE": [],
-  "CAGEr": [],
-  "Damsel": [],
   "EpiCompare": [],
   "GenomicOZone": [],
-  "GenomicPlot": [],
-  "IMAS": [],
   "MEAT": [],
   "R3CPET": [],
-  "RNAAgeCalc": [],
   "ReportingTools": [],
   "RiboProfiling": [],
-  "RnaSeqSampleSize": [],
   "SomaticSignatures": [],
   "YAPSA": [
     "SomaticSignatures"
@@ -27,10 +19,7 @@
   "bigmelon": [],
   "bnem": [],
   "cageminer": [],
-  "crisprShiny": [],
-  "crisprVerse": [],
   "derfinderPlot": [],
-  "epimutacions": [],
   "epivizr": [],
   "epivizrChart": [],
   "epivizrStandalone": [
@@ -39,16 +28,11 @@
   "geomeTriD": [],
   "iNETgrate": [],
   "intansv": [],
-  "methylclock": [],
   "msgbsR": [],
-  "nullranges": [],
   "psichomics": [],
   "scTreeViz": [
     "epivizr"
   ],
   "scruff": [],
-  "skewr": [],
-  "tidyomics": [
-    "nullranges"
-  ]
+  "tidyomics": []
 }
