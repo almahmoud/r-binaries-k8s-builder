@@ -2072,3 +2072,6 @@ tadar
 MineICA
 RareVariantVis
 wateRmelon
+canceR
+chevreulShiny
+UPDhmm

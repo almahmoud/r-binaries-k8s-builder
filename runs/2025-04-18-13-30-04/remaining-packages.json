@@ -66,7 +66,6 @@
   ],
   "TFEA.ChIP": [],
   "TFHAZ": [],
-  "UPDhmm": [],
   "YAPSA": [
     "SomaticSignatures",
     "ggbio"
@@ -82,8 +81,6 @@
   "cageminer": [
     "ggbio"
   ],
-  "canceR": [],
-  "chevreulShiny": [],
   "crisprShiny": [],
   "crisprVerse": [],
   "demuxSNP": [],
