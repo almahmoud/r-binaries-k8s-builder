@@ -2126,3 +2126,16 @@ bigmelon
 skewr
 AHMassBank
 ExperimentHubData
+BOBaFIT
+CAFE
+Damsel
+GenomicOZone
+R3CPET
+ReportingTools
+RiboProfiling
+SomaticSignatures
+cageminer
+derfinderPlot
+intansv
+msgbsR
+scruff

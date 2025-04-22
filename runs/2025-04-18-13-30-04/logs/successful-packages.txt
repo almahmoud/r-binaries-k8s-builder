@@ -2084,3 +2084,6 @@ AnnotationHubData
 IntEREst
 IsoformSwitchAnalyzeR
 TFHAZ
+atSNP
+ggbio
+R453Plus1Toolbox

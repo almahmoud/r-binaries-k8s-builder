@@ -2,27 +2,18 @@
   "AHMassBank": [],
   "AgiMicroRna": [
     "affycoretools",
-    "ReportingTools",
-    "ggbio"
+    "ReportingTools"
   ],
   "BBCAnalyzer": [],
-  "BOBaFIT": [
-    "ggbio"
-  ],
-  "CAFE": [
-    "ggbio"
-  ],
+  "BOBaFIT": [],
+  "CAFE": [],
   "CAGEr": [],
   "ChIPQC": [],
-  "Damsel": [
-    "ggbio"
-  ],
+  "Damsel": [],
   "EpiCompare": [],
   "ExperimentHubData": [],
   "FRASER": [],
-  "GenomicOZone": [
-    "ggbio"
-  ],
+  "GenomicOZone": [],
   "GenomicPlot": [],
   "IMAS": [
     "IVAS"
@@ -33,49 +24,33 @@
   "MungeSumstats": [],
   "OMICsPCA": [],
   "ProteoDisco": [],
-  "R3CPET": [
-    "ggbio"
-  ],
-  "R453Plus1Toolbox": [],
+  "R3CPET": [],
   "RESOLVE": [],
   "RNAAgeCalc": [
     "recount"
   ],
-  "ReportingTools": [
-    "ggbio"
-  ],
-  "RiboProfiling": [
-    "ggbio"
-  ],
+  "ReportingTools": [],
+  "RiboProfiling": [],
   "RnaSeqSampleSize": [
     "recount"
   ],
   "SingleMoleculeFootprinting": [],
-  "SomaticSignatures": [
-    "ggbio"
-  ],
+  "SomaticSignatures": [],
   "TFEA.ChIP": [],
   "YAPSA": [
-    "SomaticSignatures",
-    "ggbio"
+    "SomaticSignatures"
   ],
   "affycoretools": [
-    "ReportingTools",
-    "ggbio"
+    "ReportingTools"
   ],
   "appreci8R": [],
-  "atSNP": [],
   "bigmelon": [],
   "bnem": [],
-  "cageminer": [
-    "ggbio"
-  ],
+  "cageminer": [],
   "crisprShiny": [],
   "crisprVerse": [],
   "demuxSNP": [],
-  "derfinderPlot": [
-    "ggbio"
-  ],
+  "derfinderPlot": [],
   "epimutacions": [],
   "epivizr": [
     "epivizrData"
@@ -92,20 +67,15 @@
   "geomeTriD": [
     "trackViewer"
   ],
-  "ggbio": [],
   "gmoviz": [],
   "iNETgrate": [],
   "igvR": [],
-  "intansv": [
-    "ggbio"
-  ],
+  "intansv": [],
   "methylGSA": [],
   "methylclock": [
     "ExperimentHubData"
   ],
-  "msgbsR": [
-    "ggbio"
-  ],
+  "msgbsR": [],
   "nullranges": [],
   "psichomics": [
     "recount"
@@ -117,9 +87,7 @@
     "epivizrData"
   ],
   "scone": [],
-  "scruff": [
-    "ggbio"
-  ],
+  "scruff": [],
   "shinyDSP": [],
   "skewr": [],
   "srnadiff": [],
