@@ -51,7 +51,6 @@
   ],
   "ENmix": [],
   "EpiCompare": [],
-  "EventPointer": [],
   "ExperimentHubData": [
     "AnnotationHubData"
   ],
@@ -136,7 +135,6 @@
     "RNAmodR",
     "Gviz"
   ],
-  "RTCGAToolbox": [],
   "RareVariantVis": [],
   "ReportingTools": [
     "ggbio"
@@ -194,26 +192,21 @@
     "lumi"
   ],
   "bioCancer": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "biomvRCNS": [
     "Gviz"
   ],
   "bnem": [],
-  "cBioPortalData": [
-    "RTCGAToolbox"
-  ],
+  "cBioPortalData": [],
   "cageminer": [
     "ggbio"
   ],
   "canceR": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "cbaf": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "chevreulPlot": [],
   "chevreulShiny": [
@@ -251,7 +244,6 @@
     "derfinder",
     "ggbio"
   ],
-  "enhancerHomologSearch": [],
   "epimutacions": [
     "Gviz"
   ],
@@ -343,7 +335,6 @@
   "regutools": [
     "Gviz"
   ],
-  "rgsepd": [],
   "ribosomeProfilingQC": [],
   "saseR": [
     "ASpli",
