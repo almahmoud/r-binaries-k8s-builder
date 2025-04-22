@@ -1819,3 +1819,6 @@ cleanUpdTSeq
 iSEEtree
 RJMCMCNucleosomes
 SparseSignatures
+CSSQ
+EDASeq
+methylInheritance

@@ -100,7 +100,6 @@
   ],
   "CODEX": [],
   "CRISPRseek": [],
-  "CSSQ": [],
   "CexoR": [],
   "ChIPQC": [
     "DiffBind"
@@ -125,9 +124,7 @@
     "bumphunter"
   ],
   "DSS": [],
-  "DaMiRseq": [
-    "EDASeq"
-  ],
+  "DaMiRseq": [],
   "Damsel": [
     "ggbio",
     "goseq",
@@ -156,7 +153,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "EDASeq": [],
   "ELMER": [
     "Gviz",
     "ensembldb",
@@ -198,8 +194,7 @@
     "VariantAnnotation"
   ],
   "GARS": [
-    "DaMiRseq",
-    "EDASeq"
+    "DaMiRseq"
   ],
   "GOTHiC": [],
   "GSReg": [
@@ -421,9 +416,7 @@
   "RTCGAToolbox": [
     "TCGAutils"
   ],
-  "RUVSeq": [
-    "EDASeq"
-  ],
+  "RUVSeq": [],
   "RareVariantVis": [
     "VariantAnnotation"
   ],
@@ -683,7 +676,6 @@
     "VariantAnnotation"
   ],
   "consensusDE": [
-    "EDASeq",
     "ensembldb",
     "RUVSeq"
   ],
@@ -938,7 +930,6 @@
   ],
   "metaseqR2": [
     "DSS",
-    "EDASeq",
     "txdbmaker"
   ],
   "methInheritSim": [],
@@ -953,7 +944,6 @@
     "methylumi",
     "bumphunter"
   ],
-  "methylInheritance": [],
   "methylPipe": [
     "Gviz",
     "ensembldb",
@@ -1089,7 +1079,6 @@
     "txdbmaker"
   ],
   "ribosomeProfilingQC": [
-    "EDASeq",
     "motifStack",
     "RUVSeq",
     "txdbmaker"
@@ -1122,8 +1111,7 @@
     "txdbmaker"
   ],
   "scone": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "scruff": [
     "txdbmaker",
@@ -1144,8 +1132,7 @@
   ],
   "shinyDSP": [
     "standR",
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "shinyMethyl": [
     "minfi",
@@ -1188,8 +1175,7 @@
     "VariantAnnotation"
   ],
   "standR": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "strandCheckR": [],
   "svaNUMT": [
