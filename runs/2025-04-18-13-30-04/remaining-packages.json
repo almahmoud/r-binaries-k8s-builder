@@ -26,7 +26,6 @@
   ],
   "COCOA": [],
   "ChIPQC": [],
-  "ChIPexoQual": [],
   "CircSeqAlignTk": [],
   "DAMEfinder": [],
   "Damsel": [
@@ -70,7 +69,6 @@
   "OMICsPCA": [],
   "ProteoDisco": [],
   "Pviz": [],
-  "QuasR": [],
   "R3CPET": [
     "ggbio"
   ],
@@ -103,15 +101,12 @@
     "derfinder"
   ],
   "SPLINTER": [],
-  "SingleMoleculeFootprinting": [
-    "QuasR"
-  ],
+  "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [
     "ggbio"
   ],
   "TFEA.ChIP": [],
   "TFHAZ": [],
-  "TFutils": [],
   "TVTB": [],
   "UPDhmm": [],
   "VariantFiltering": [],
@@ -250,6 +245,5 @@
   "uncoverappLib": [],
   "wateRmelon": [
     "lumi"
-  ],
-  "yarn": []
+  ]
 }

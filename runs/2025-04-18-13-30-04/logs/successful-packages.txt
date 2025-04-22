@@ -2021,3 +2021,7 @@ deepSNV
 methylumi
 REMP
 tLOH
+ChIPexoQual
+QuasR
+TFutils
+yarn
