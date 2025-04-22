@@ -1296,3 +1296,5 @@ isobar
 midasHLA
 msqrob2
 safe
+CNVPanelizer
+fgga

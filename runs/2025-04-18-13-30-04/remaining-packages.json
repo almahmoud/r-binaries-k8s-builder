@@ -323,7 +323,6 @@
   "CNTools": [
     "genefilter"
   ],
-  "CNVPanelizer": [],
   "CNVRanger": [
     "edgeR"
   ],
@@ -3101,7 +3100,6 @@
     "bumphunter",
     "GenomicAlignments"
   ],
-  "fgga": [],
   "flagme": [
     "xcms",
     "CAMERA",
