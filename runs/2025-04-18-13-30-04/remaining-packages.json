@@ -45,9 +45,7 @@
   ],
   "CNVrd2": [],
   "COCOA": [],
-  "ChIPQC": [
-    "DiffBind"
-  ],
+  "ChIPQC": [],
   "ChIPexoQual": [],
   "CircSeqAlignTk": [
     "Rhisat2"
@@ -59,16 +57,13 @@
     "goseq",
     "OrganismDbi"
   ],
-  "DeMixT": [],
   "DegCre": [],
-  "DiffBind": [],
   "DuplexDiscovereR": [
     "Gviz"
   ],
   "ELMER": [
     "Gviz"
   ],
-  "ELViS": [],
   "ENmix": [],
   "EpiCompare": [],
   "EpiTxDb": [],
@@ -93,9 +88,7 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "GenomicPlot": [
-    "RCAS"
-  ],
+  "GenomicPlot": [],
   "Gviz": [],
   "HelloRanges": [],
   "HiCDCPlus": [
@@ -152,7 +145,6 @@
   ],
   "R453Plus1Toolbox": [],
   "RAIDS": [],
-  "RCAS": [],
   "REMP": [],
   "RESOLVE": [
     "MutationalPatterns"
@@ -280,7 +272,6 @@
   "cicero": [
     "Gviz"
   ],
-  "coMethDMR": [],
   "comapr": [
     "Gviz"
   ],

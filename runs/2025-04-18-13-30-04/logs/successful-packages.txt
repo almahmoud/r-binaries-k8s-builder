@@ -1948,3 +1948,8 @@ deconvR
 BgeeCall
 shinyepico
 signifinder
+coMethDMR
+DeMixT
+DiffBind
+ELViS
+RCAS
