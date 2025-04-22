@@ -131,7 +131,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "BioNERO": [],
   "BioTIP": [
     "scran"
   ],
@@ -620,7 +619,6 @@
   ],
   "LACE": [],
   "M3Drop": [],
-  "MBECS": [],
   "MEAL": [
     "minfi",
     "Gviz",
@@ -806,7 +804,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "PAA": [],
   "PAST": [
     "rtracklayer"
   ],
@@ -1418,7 +1415,6 @@
   ],
   "cageminer": [
     "ggbio",
-    "BioNERO",
     "biovizBase",
     "BSgenome",
     "VariantAnnotation",
