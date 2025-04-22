@@ -627,7 +627,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "Doscheda": [],
   "DuplexDiscovereR": [
     "Gviz",
     "rtracklayer",
@@ -693,8 +692,7 @@
   ],
   "EnrichmentBrowser": [
     "GSEABase",
-    "edgeR",
-    "safe"
+    "edgeR"
   ],
   "EpiCompare": [
     "ChIPseeker",
@@ -820,8 +818,7 @@
     "edgeR",
     "EnrichmentBrowser",
     "ExperimentHub",
-    "GSEABase",
-    "safe"
+    "GSEABase"
   ],
   "GSRI": [
     "genefilter",
@@ -2890,7 +2887,6 @@
   "distinct": [
     "scater"
   ],
-  "dominoSignal": [],
   "doppelgangR": [
     "sva",
     "genefilter",
@@ -2909,8 +2905,7 @@
     "edgeR",
     "GSEABase",
     "zenith",
-    "EnrichmentBrowser",
-    "safe"
+    "EnrichmentBrowser"
   ],
   "drugTargetInteractions": [
     "ensembldb",
@@ -3337,7 +3332,6 @@
     "GSEABase",
     "genefilter"
   ],
-  "isobar": [],
   "isomiRs": [
     "DEGreport",
     "edgeR"
@@ -3585,7 +3579,6 @@
     "mia",
     "scater"
   ],
-  "midasHLA": [],
   "miloR": [
     "edgeR"
   ],
@@ -3691,7 +3684,6 @@
     "edgeR",
     "PSMatch"
   ],
-  "msqrob2": [],
   "multiGSEA": [],
   "multiHiCcompare": [
     "edgeR"
@@ -4105,7 +4097,6 @@
   "sSNAPPY": [
     "edgeR"
   ],
-  "safe": [],
   "sampleClassifier": [
     "MGFM",
     "MGFR"
@@ -4653,8 +4644,7 @@
   "zenith": [
     "EnrichmentBrowser",
     "GSEABase",
-    "edgeR",
-    "safe"
+    "edgeR"
   ],
   "zinbwave": [
     "genefilter",
