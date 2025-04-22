@@ -889,7 +889,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "MsDataHub": [],
   "MsQuality": [],
   "MungeSumstats": [
     "BSgenome",
@@ -2647,7 +2646,6 @@
   "oppar": [
     "GSVA"
   ],
-  "orthos": [],
   "pRoloc": [
     "MLInterfaces"
   ],
@@ -3063,7 +3061,6 @@
     "ShortRead"
   ],
   "sparrow": [],
-  "spatialFDA": [],
   "spatialHeatmap": [],
   "spatzie": [
     "BSgenome",
