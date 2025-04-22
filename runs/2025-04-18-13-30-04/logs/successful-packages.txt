@@ -1945,3 +1945,6 @@ svaRetro
 alabaster
 transmogR
 deconvR
+BgeeCall
+shinyepico
+signifinder

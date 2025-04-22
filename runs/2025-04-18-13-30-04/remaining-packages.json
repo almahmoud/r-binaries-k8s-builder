@@ -28,7 +28,6 @@
     "OrganismDbi"
   ],
   "BUSpaRse": [],
-  "BgeeCall": [],
   "BindingSiteFinder": [],
   "BubbleTree": [],
   "CAFE": [
@@ -467,8 +466,6 @@
   "shinyDSP": [
     "standR"
   ],
-  "shinyepico": [],
-  "signifinder": [],
   "sitadela": [],
   "skewr": [
     "methylumi",
