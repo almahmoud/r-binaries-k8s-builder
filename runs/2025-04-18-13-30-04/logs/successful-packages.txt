@@ -1222,3 +1222,6 @@ MOMA
 runibic
 simplifyEnrichment
 Streamer
+BLMA
+HERON
+tpSVG

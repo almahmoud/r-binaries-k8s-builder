@@ -131,7 +131,6 @@
     "genefilter",
     "edgeR"
   ],
-  "BLMA": [],
   "BOBaFIT": [
     "ggbio",
     "plyranges",
@@ -963,7 +962,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "HERON": [],
   "HTSFilter": [
     "edgeR"
   ],
@@ -4689,7 +4687,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "tpSVG": [],
   "trackViewer": [
     "GenomicAlignments",
     "GenomicFeatures",
