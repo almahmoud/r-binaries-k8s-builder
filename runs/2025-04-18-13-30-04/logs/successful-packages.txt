@@ -1980,3 +1980,5 @@ DegCre
 mariner
 ORFik
 Ularcirc
+qsea
+standR

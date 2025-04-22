@@ -338,7 +338,6 @@
     "recount",
     "derfinder"
   ],
-  "qsea": [],
   "recount": [
     "derfinder"
   ],
@@ -364,9 +363,7 @@
     "ggbio"
   ],
   "selectKSigs": [],
-  "shinyDSP": [
-    "standR"
-  ],
+  "shinyDSP": [],
   "skewr": [
     "methylumi",
     "wateRmelon",
@@ -379,7 +376,6 @@
   "srnadiff": [
     "Gviz"
   ],
-  "standR": [],
   "tLOH": [],
   "tadar": [
     "Gviz"
