@@ -234,7 +234,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "COTAN": [],
   "CRISPRseek": [
     "GenomicFeatures",
     "BSgenome",
@@ -336,7 +335,6 @@
     "BSgenome"
   ],
   "DAPAR": [],
-  "DEP": [],
   "DESpace": [],
   "DEXSeq": [],
   "DEsubs": [],
@@ -799,13 +797,9 @@
     "sva"
   ],
   "MSnID": [
-    "msmsTests",
-    "msmsEDA"
+    "msmsTests"
   ],
-  "MSstatsQC": [],
-  "MSstatsQCgui": [
-    "MSstatsQC"
-  ],
+  "MSstatsQCgui": [],
   "Maaslin2": [],
   "Macarron": [
     "Maaslin2"
@@ -2600,10 +2594,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "msmsEDA": [],
-  "msmsTests": [
-    "msmsEDA"
-  ],
+  "msmsTests": [],
   "multiHiCcompare": [],
   "mumosa": [
     "scran"
@@ -3227,7 +3218,6 @@
     "VariantAnnotation"
   ],
   "vidger": [],
-  "vissE": [],
   "wateRmelon": [
     "methylumi",
     "lumi",

@@ -1595,3 +1595,5 @@ ptairMS
 qPLEXanalyzer
 topdownr
 xcms
+MSstatsQCgui
+msmsTests
