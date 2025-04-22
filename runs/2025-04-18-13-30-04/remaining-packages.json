@@ -366,7 +366,6 @@
     "OrganismDbi"
   ],
   "glmSparseNet": [],
-  "gmapR": [],
   "gmoviz": [],
   "goseq": [],
   "gwasurvivr": [],
@@ -378,7 +377,6 @@
   "iNETgrate": [
     "OrganismDbi"
   ],
-  "icetea": [],
   "igvR": [],
   "intansv": [
     "ggbio",
@@ -481,7 +479,6 @@
   "selectKSigs": [
     "HiLDA"
   ],
-  "seqCAT": [],
   "shinyDSP": [
     "standR"
   ],
