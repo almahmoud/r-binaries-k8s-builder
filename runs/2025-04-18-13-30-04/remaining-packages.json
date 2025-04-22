@@ -55,7 +55,6 @@
     "GenomicInteractions",
     "biovizBase"
   ],
-  "CCAFE": [],
   "CNVrd2": [],
   "COCOA": [],
   "ChIPQC": [
@@ -99,10 +98,7 @@
   "FRASER": [
     "OUTRIDER"
   ],
-  "GA4GHclient": [],
-  "GA4GHshiny": [
-    "GA4GHclient"
-  ],
+  "GA4GHshiny": [],
   "GSReg": [
     "OrganismDbi"
   ],
@@ -154,7 +150,6 @@
     "methylumi",
     "lumi"
   ],
-  "MOSClip": [],
   "MetaboSignal": [
     "mygene"
   ],
@@ -254,7 +249,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "SigsPack": [],
   "SingleMoleculeFootprinting": [
     "QuasR",
     "GenomicFiles"
@@ -278,7 +272,6 @@
   ],
   "UPDhmm": [],
   "Ularcirc": [],
-  "Uniquorn": [],
   "VCFArray": [
     "GenomicFiles"
   ],
