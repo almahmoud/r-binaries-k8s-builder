@@ -1991,3 +1991,7 @@ enhancerHomologSearch
 EventPointer
 rgsepd
 RTCGAToolbox
+ATACseqTFEA
+PAST
+SMITE
+terraTCGAdata

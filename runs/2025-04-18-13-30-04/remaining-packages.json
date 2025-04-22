@@ -6,7 +6,6 @@
   "ASpli": [
     "Gviz"
   ],
-  "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
@@ -102,7 +101,6 @@
   "OMICsPCA": [
     "HelloRanges"
   ],
-  "PAST": [],
   "ProteoDisco": [],
   "Pviz": [
     "Gviz"
@@ -151,7 +149,6 @@
     "derfinder"
   ],
   "Rqc": [],
-  "SMITE": [],
   "SPLINTER": [
     "Gviz"
   ],
@@ -366,7 +363,6 @@
   "tadar": [
     "Gviz"
   ],
-  "terraTCGAdata": [],
   "tidyomics": [
     "nullranges"
   ],
