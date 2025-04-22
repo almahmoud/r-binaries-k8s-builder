@@ -1664,3 +1664,10 @@ PROPER
 Prostar
 splatter
 tilingArray
+arrayQualityMetrics
+CATALYST
+DEsubs
+GOstats
+HiCDOC
+scran
+TOP
