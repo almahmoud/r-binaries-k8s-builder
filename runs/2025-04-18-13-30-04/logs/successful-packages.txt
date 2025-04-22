@@ -1419,3 +1419,6 @@ EpipwR
 LRcell
 MACSr
 SeqSQC
+hpar
+isomiRs
+MSnbase

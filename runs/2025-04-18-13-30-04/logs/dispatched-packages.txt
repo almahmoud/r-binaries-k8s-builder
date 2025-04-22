@@ -1582,3 +1582,16 @@ isomiRs
 CTexploreR
 MEIGOR
 RcisTarget
+CluMSID
+DAPAR
+DEP
+MSstatsQC
+PrInCE
+RMassBank
+msmsEDA
+omXplore
+peakPantheR
+ptairMS
+qPLEXanalyzer
+topdownr
+xcms
