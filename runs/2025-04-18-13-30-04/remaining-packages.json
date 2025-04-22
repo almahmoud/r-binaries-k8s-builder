@@ -1501,7 +1501,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "interactiveDisplay": [],
   "kissDE": [
     "DSS",
     "bsseq",
@@ -1872,7 +1871,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "scde": [],
   "scone": [
     "RUVSeq",
     "EDASeq",
