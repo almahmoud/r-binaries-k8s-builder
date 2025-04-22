@@ -1373,3 +1373,15 @@ PSMatch
 pvca
 target
 TurboNorm
+AWFisher
+cn.mops
+DEWSeq
+EGAD
+GenomicAlignments
+GenomicTuples
+GSEABase
+MetaboAnnotation
+methylMnM
+NewWave
+receptLoss
+StabMap
