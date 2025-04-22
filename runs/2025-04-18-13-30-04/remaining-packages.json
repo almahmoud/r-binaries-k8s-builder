@@ -3868,7 +3868,6 @@
     "genefilter",
     "edgeR"
   ],
-  "ontoProc": [],
   "oposSOM": [],
   "oppar": [
     "GSEABase",
@@ -3974,9 +3973,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "pogos": [
-    "ontoProc"
-  ],
+  "pogos": [],
   "ppcseq": [
     "edgeR"
   ],
@@ -4634,9 +4631,7 @@
     "GenomicAlignments"
   ],
   "target": [],
-  "tenXplore": [
-    "ontoProc"
-  ],
+  "tenXplore": [],
   "terapadog": [],
   "terraTCGAdata": [
     "TCGAutils",
