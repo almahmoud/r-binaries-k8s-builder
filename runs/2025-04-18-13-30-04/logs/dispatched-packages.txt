@@ -1703,3 +1703,5 @@ famat
 goSorensen
 pathlinkR
 signatureSearch
+Pigengene
+miRspongeR

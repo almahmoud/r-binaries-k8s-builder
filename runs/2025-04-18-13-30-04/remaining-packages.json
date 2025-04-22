@@ -283,7 +283,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "DESpace": [],
   "DEsubs": [],
   "DMCFB": [
     "rtracklayer"
@@ -657,7 +656,6 @@
   "MPAC": [
     "scran"
   ],
-  "MatrixQCvis": [],
   "MatrixRider": [
     "TFBSTools",
     "BSgenome",
@@ -790,9 +788,7 @@
   ],
   "PROPER": [],
   "PanomiR": [],
-  "Pigengene": [
-    "ReactomePA"
-  ],
+  "Pigengene": [],
   "Prostar": [],
   "ProteoDisco": [
     "GenomicFeatures",
@@ -941,7 +937,6 @@
   "Rbec": [
     "dada2"
   ],
-  "ReactomePA": [],
   "RegEnrich": [],
   "Repitools": [
     "rtracklayer",
@@ -1016,7 +1011,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SCAN.UPC": [],
   "SCANVIS": [
     "rtracklayer"
   ],
@@ -1024,7 +1018,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "SEtools": [],
   "SGCP": [
     "GOstats"
   ],
@@ -1124,7 +1117,6 @@
     "rtracklayer"
   ],
   "TCseq": [],
-  "TDbasedUFEadv": [],
   "TEKRABber": [
     "rtracklayer"
   ],
@@ -1332,7 +1324,6 @@
   ],
   "bioCancer": [
     "cBioPortalData",
-    "ReactomePA",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
@@ -1676,7 +1667,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "doppelgangR": [],
   "doubletrouble": [
     "syntenet",
     "GenomicFeatures",
@@ -1809,7 +1799,6 @@
   ],
   "gINTomics": [
     "GenomicFeatures",
-    "ReactomePA",
     "rtracklayer"
   ],
   "gcapc": [
@@ -1910,7 +1899,6 @@
     "OrganismDbi",
     "GenomicFeatures",
     "bumphunter",
-    "ReactomePA",
     "rtracklayer",
     "txdbmaker"
   ],
@@ -2084,12 +2072,9 @@
     "GOstats"
   ],
   "miRSM": [
-    "BicARE",
-    "ReactomePA"
+    "BicARE"
   ],
-  "miRspongeR": [
-    "ReactomePA"
-  ],
+  "miRspongeR": [],
   "mia": [],
   "miaDash": [
     "iSEEtree",
@@ -2287,7 +2272,6 @@
     "BSgenome"
   ],
   "qsmooth": [],
-  "qsvaR": [],
   "quantro": [
     "minfi",
     "bumphunter",
