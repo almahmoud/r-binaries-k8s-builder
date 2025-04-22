@@ -1422,3 +1422,9 @@ SeqSQC
 hpar
 isomiRs
 MSnbase
+crumblr
+CTexploreR
+EWCE
+MEIGOR
+muscat
+xenLite
