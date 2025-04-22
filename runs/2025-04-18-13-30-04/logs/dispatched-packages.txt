@@ -1761,3 +1761,7 @@ soGGi
 syntenet
 tidyCoverage
 wiggleplotr
+TBSignatureProfiler
+dreamlet
+pathMED
+xCell2

@@ -1640,3 +1640,5 @@ rtracklayer
 miRspongeR
 scTGIF
 treeclimbR
+singscore
+zenith

@@ -908,9 +908,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "TBSignatureProfiler": [
-    "singscore"
-  ],
+  "TBSignatureProfiler": [],
   "TCGAutils": [
     "GenomicFeatures"
   ],
@@ -1373,9 +1371,7 @@
     "syntenet",
     "GenomicFeatures"
   ],
-  "dreamlet": [
-    "zenith"
-  ],
+  "dreamlet": [],
   "drugTargetInteractions": [
     "ensembldb",
     "GenomicFeatures"
@@ -1786,9 +1782,7 @@
     "TFBSTools",
     "BSgenome"
   ],
-  "pathMED": [
-    "singscore"
-  ],
+  "pathMED": [],
   "pathlinkR": [],
   "periodicDNA": [
     "BSgenome"
@@ -2039,7 +2033,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "singscore": [],
   "sitadela": [
     "GenomicFeatures",
     "txdbmaker"
@@ -2185,14 +2178,11 @@
     "GenomicFeatures"
   ],
   "wiggleplotr": [],
-  "xCell2": [
-    "singscore"
-  ],
+  "xCell2": [],
   "yarn": [
     "quantro",
     "minfi",
     "bumphunter",
     "GenomicFeatures"
-  ],
-  "zenith": []
+  ]
 }
