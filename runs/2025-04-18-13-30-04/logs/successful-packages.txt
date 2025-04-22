@@ -1675,3 +1675,6 @@ edge
 SPsimSeq
 vidger
 XeniumIO
+CCPROMISE
+mogsa
+MsQuality

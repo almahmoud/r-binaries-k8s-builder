@@ -144,7 +144,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "CCPROMISE": [],
   "CNVrd2": [
     "VariantAnnotation",
     "BSgenome",
@@ -543,7 +542,6 @@
   "MotifPeeker": [
     "BSgenome"
   ],
-  "MsQuality": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",
@@ -1640,7 +1638,6 @@
     "GenomicFeatures"
   ],
   "mobileRNA": [],
-  "mogsa": [],
   "monaLisa": [
     "BSgenome",
     "TFBSTools"
