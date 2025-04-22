@@ -1484,3 +1484,10 @@ Rvisdiff
 ncGTW
 PathoStat
 slalom
+CAMERA
+cliqueMS
+cosmiq
+gg4way
+hermes
+RNAseqCovarImpute
+squallms

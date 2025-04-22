@@ -188,7 +188,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "CAMERA": [],
   "CATALYST": [],
   "CBNplot": [
     "clusterProfiler",
@@ -631,9 +630,7 @@
     "rtracklayer"
   ],
   "IONiseR": [],
-  "IPO": [
-    "CAMERA"
-  ],
+  "IPO": [],
   "IVAS": [
     "GenomicFeatures",
     "rtracklayer"
@@ -675,9 +672,7 @@
   ],
   "LACE": [],
   "M3Drop": [],
-  "MAIT": [
-    "CAMERA"
-  ],
+  "MAIT": [],
   "MBECS": [
     "sva"
   ],
@@ -1042,7 +1037,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RNAseqCovarImpute": [],
   "ROSeq": [],
   "RSVSim": [],
   "RTCGAToolbox": [
@@ -1674,7 +1668,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "cliqueMS": [],
   "clustSIGNAL": [],
   "clusterExperiment": [
     "zinbwave"
@@ -1721,7 +1714,6 @@
     "GenomicFeatures"
   ],
   "coseq": [],
-  "cosmiq": [],
   "countsimQC": [],
   "covRNA": [],
   "cpvSNP": [
@@ -2034,9 +2026,7 @@
     "rtracklayer",
     "bumphunter"
   ],
-  "flagme": [
-    "CAMERA"
-  ],
+  "flagme": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
@@ -2077,7 +2067,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "gg4way": [],
   "ggbio": [
     "biovizBase",
     "BSgenome",
@@ -2123,7 +2112,6 @@
     "GenomicFeatures"
   ],
   "hdxmsqc": [],
-  "hermes": [],
   "hiAnnotator": [
     "rtracklayer",
     "BSgenome"
@@ -2260,9 +2248,7 @@
     "enrichplot"
   ],
   "meshr": [],
-  "metaMS": [
-    "CAMERA"
-  ],
+  "metaMS": [],
   "metagene2": [
     "rtracklayer"
   ],
@@ -2886,7 +2872,6 @@
   ],
   "splatter": [],
   "splineTimeR": [],
-  "squallms": [],
   "srnadiff": [
     "rtracklayer",
     "GenomicFeatures",
