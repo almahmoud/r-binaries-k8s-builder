@@ -15,14 +15,10 @@
   "MEAL": [],
   "MEAT": [],
   "R3CPET": [],
-  "RNAAgeCalc": [
-    "recount"
-  ],
+  "RNAAgeCalc": [],
   "ReportingTools": [],
   "RiboProfiling": [],
-  "RnaSeqSampleSize": [
-    "recount"
-  ],
+  "RnaSeqSampleSize": [],
   "SomaticSignatures": [],
   "YAPSA": [
     "SomaticSignatures"
@@ -55,10 +51,7 @@
   "methylclock": [],
   "msgbsR": [],
   "nullranges": [],
-  "psichomics": [
-    "recount"
-  ],
-  "recount": [],
+  "psichomics": [],
   "regionReport": [],
   "scTreeViz": [
     "epivizr",

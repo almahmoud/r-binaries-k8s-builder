@@ -1,1 +1,3 @@
-IMAS
+RNAAgeCalc
+RnaSeqSampleSize
+psichomics
