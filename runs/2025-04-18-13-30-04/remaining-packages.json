@@ -60,7 +60,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "BANDITS": [],
   "BASiCS": [
     "scran"
   ],
@@ -339,9 +338,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "DifferentialRegulation": [
-    "BANDITS"
-  ],
+  "DifferentialRegulation": [],
   "Dino": [
     "scran"
   ],
@@ -1345,7 +1342,6 @@
     "BSgenome"
   ],
   "blacksheepr": [],
-  "bnbc": [],
   "bnem": [],
   "borealis": [
     "bsseq",
@@ -2184,7 +2180,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "pairedGSEA": [],
   "pathMED": [
     "singscore"
   ],

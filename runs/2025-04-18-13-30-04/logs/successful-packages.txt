@@ -1606,3 +1606,6 @@ SCAN.UPC
 SEtools
 TDbasedUFEadv
 autonomics
+BANDITS
+bnbc
+pairedGSEA
