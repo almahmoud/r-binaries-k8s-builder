@@ -917,7 +917,6 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "GenomicScores": [],
   "GenomicTuples": [],
   "Glimma": [
     "edgeR"
@@ -1334,7 +1333,6 @@
     "GenomicAlignments",
     "BSgenome"
   ],
-  "MouseFM": [],
   "MsBackendMassbank": [],
   "MsBackendMetaboLights": [],
   "MsBackendMsp": [],
@@ -1413,7 +1411,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "OncoScore": [],
   "Organism.dplyr": [
     "GenomicFeatures",
     "rtracklayer",
@@ -1516,7 +1513,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "ProteoMM": [],
   "Pviz": [
     "Gviz",
     "biovizBase",
@@ -1700,7 +1696,6 @@
     "VariantAnnotation",
     "GenomicFeatures",
     "BSgenome",
-    "GenomicScores",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -1841,7 +1836,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "SEraster": [],
   "SEtools": [
     "edgeR",
     "sva",
@@ -2158,7 +2152,6 @@
     "VariantAnnotation",
     "GenomicFeatures",
     "BSgenome",
-    "GenomicScores",
     "Gviz",
     "rtracklayer",
     "ensembldb",
@@ -2260,7 +2253,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "altcdfenvs": [],
   "amplican": [
     "ShortRead",
     "GenomicAlignments"
@@ -2275,7 +2267,6 @@
     "VariantAnnotation",
     "BSgenome",
     "GenomicFeatures",
-    "GenomicScores",
     "rtracklayer",
     "OrganismDbi",
     "txdbmaker",
@@ -3960,7 +3951,6 @@
   ],
   "primirTSS": [
     "rtracklayer",
-    "GenomicScores",
     "Gviz",
     "TFBSTools",
     "BSgenome",
@@ -4593,7 +4583,6 @@
     "GenomicAlignments"
   ],
   "target": [],
-  "tenXplore": [],
   "terapadog": [],
   "terraTCGAdata": [
     "TCGAutils",

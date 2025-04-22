@@ -1261,3 +1261,10 @@ variancePartition
 iSEEu
 PCAtools
 tigre
+altcdfenvs
+GenomicScores
+MouseFM
+OncoScore
+ProteoMM
+SEraster
+tenXplore
