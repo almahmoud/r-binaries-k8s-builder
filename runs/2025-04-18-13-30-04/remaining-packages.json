@@ -25,7 +25,6 @@
   "AnnotationHubData": [
     "OrganismDbi"
   ],
-  "BASiCStan": [],
   "BBCAnalyzer": [],
   "BOBaFIT": [
     "ggbio",
@@ -307,7 +306,6 @@
     "biovizBase",
     "OrganismDbi"
   ],
-  "ZygosityPredictor": [],
   "affycoretools": [
     "ReportingTools",
     "ggbio",
@@ -472,7 +470,6 @@
     "minfi"
   ],
   "gINTomics": [],
-  "geneAttribution": [],
   "geomeTriD": [
     "trackViewer",
     "Gviz",

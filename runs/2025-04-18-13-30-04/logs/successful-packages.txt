@@ -1894,3 +1894,6 @@ GOTHiC
 monaLisa
 MethReg
 methrix
+BASiCStan
+geneAttribution
+ZygosityPredictor
