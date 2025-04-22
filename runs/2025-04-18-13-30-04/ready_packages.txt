@@ -1,1 +1,5 @@
-FRASER
+ATACseqTFEA
+enhancerHomologSearch
+epiregulon
+esATAC
+pageRank

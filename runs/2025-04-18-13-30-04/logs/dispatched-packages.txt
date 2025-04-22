@@ -2048,3 +2048,8 @@ epivizrData
 ggbio
 iNETgrate
 FRASER
+ATACseqTFEA
+enhancerHomologSearch
+epiregulon
+esATAC
+pageRank

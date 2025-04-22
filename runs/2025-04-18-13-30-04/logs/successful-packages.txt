@@ -1962,3 +1962,6 @@ RiboDiPA
 consensusDE
 OUTRIDER
 sitadela
+crisprDesign
+motifmatchr
+recoup

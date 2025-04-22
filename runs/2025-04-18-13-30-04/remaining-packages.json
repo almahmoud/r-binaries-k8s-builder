@@ -6,9 +6,7 @@
   "ASpli": [
     "Gviz"
   ],
-  "ATACseqTFEA": [
-    "motifmatchr"
-  ],
+  "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
@@ -251,19 +249,15 @@
   ],
   "conumee": [],
   "cpvSNP": [],
-  "crisprDesign": [],
   "crisprShiny": [
-    "crisprDesign",
     "crisprViz",
     "Gviz"
   ],
   "crisprVerse": [
-    "crisprDesign",
     "crisprViz",
     "Gviz"
   ],
   "crisprViz": [
-    "crisprDesign",
     "Gviz"
   ],
   "cummeRbund": [
@@ -277,15 +271,11 @@
     "derfinder",
     "ggbio"
   ],
-  "enhancerHomologSearch": [
-    "motifmatchr"
-  ],
+  "enhancerHomologSearch": [],
   "epimutacions": [
     "Gviz"
   ],
-  "epiregulon": [
-    "motifmatchr"
-  ],
+  "epiregulon": [],
   "epivizr": [
     "epivizrData"
   ],
@@ -297,9 +287,7 @@
     "epivizr",
     "epivizrData"
   ],
-  "esATAC": [
-    "motifmatchr"
-  ],
+  "esATAC": [],
   "ffpe": [
     "lumi",
     "methylumi"
@@ -357,15 +345,12 @@
   "motifbreakR": [
     "Gviz"
   ],
-  "motifmatchr": [],
   "msgbsR": [
     "ggbio"
   ],
   "mygene": [],
   "nullranges": [],
-  "pageRank": [
-    "motifmatchr"
-  ],
+  "pageRank": [],
   "preciseTAD": [],
   "primirTSS": [
     "Gviz"
@@ -380,7 +365,6 @@
   "recount": [
     "derfinder"
   ],
-  "recoup": [],
   "regionReport": [
     "derfinder"
   ],
@@ -417,7 +401,6 @@
   ],
   "spatzie": [
     "GenomicInteractions",
-    "motifmatchr",
     "Gviz"
   ],
   "srnadiff": [
