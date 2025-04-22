@@ -212,7 +212,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "StructuralVariantAnnotation": [],
   "TFEA.ChIP": [],
   "TFHAZ": [
     "ORFik"
@@ -325,8 +324,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "diffUTR": [],
-  "drugTargetInteractions": [],
   "enhancerHomologSearch": [
     "motifmatchr"
   ],
@@ -388,7 +385,6 @@
     "OrganismDbi"
   ],
   "kissDE": [],
-  "lineagespot": [],
   "lumi": [
     "methylumi"
   ],
@@ -431,7 +427,6 @@
     "OrganismDbi"
   ],
   "mygene": [],
-  "myvariant": [],
   "nullranges": [],
   "pageRank": [
     "motifmatchr"
@@ -509,12 +504,8 @@
     "Gviz"
   ],
   "standR": [],
-  "svaNUMT": [
-    "StructuralVariantAnnotation"
-  ],
-  "svaRetro": [
-    "StructuralVariantAnnotation"
-  ],
+  "svaNUMT": [],
+  "svaRetro": [],
   "tLOH": [],
   "tadar": [
     "Gviz"

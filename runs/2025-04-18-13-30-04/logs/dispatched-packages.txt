@@ -2034,3 +2034,5 @@ Rqc
 TFutils
 VCFArray
 derfinder
+svaNUMT
+svaRetro

@@ -1,9 +1,2 @@
-BubbleTree
-ChIPexoQual
-Gviz
-IntEREst
-QuasR
-Rqc
-TFutils
-VCFArray
-derfinder
+svaNUMT
+svaRetro

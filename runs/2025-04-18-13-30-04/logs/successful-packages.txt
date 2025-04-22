@@ -1922,3 +1922,8 @@ fcScan
 GenomicFiles
 seqArchRplus
 VariantTools
+diffUTR
+drugTargetInteractions
+lineagespot
+myvariant
+StructuralVariantAnnotation
