@@ -1905,3 +1905,7 @@ doubletrouble
 magpie
 rnaEditr
 strandCheckR
+DominoEffect
+gINTomics
+minfi
+rCGH

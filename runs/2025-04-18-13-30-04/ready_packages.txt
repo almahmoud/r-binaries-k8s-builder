@@ -1,0 +1,13 @@
+ENmix
+MethylAid
+REMP
+conumee
+deconvR
+funtooNorm
+methylCC
+methylumi
+preciseTAD
+quantro
+recountmethylation
+shinyMethyl
+shinyepico
