@@ -86,9 +86,7 @@
   ],
   "IVAS": [],
   "IntEREst": [],
-  "IsoformSwitchAnalyzeR": [
-    "tximeta"
-  ],
+  "IsoformSwitchAnalyzeR": [],
   "MEAL": [
     "Gviz",
     "missMethyl",
@@ -419,7 +417,6 @@
     "Gviz"
   ],
   "txcutr": [],
-  "tximeta": [],
   "uncoverappLib": [
     "Gviz"
   ],

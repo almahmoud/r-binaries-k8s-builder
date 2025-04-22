@@ -2053,3 +2053,4 @@ enhancerHomologSearch
 epiregulon
 esATAC
 pageRank
+IsoformSwitchAnalyzeR

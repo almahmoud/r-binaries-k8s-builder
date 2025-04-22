@@ -1,5 +1,1 @@
-ATACseqTFEA
-enhancerHomologSearch
-epiregulon
-esATAC
-pageRank
+IsoformSwitchAnalyzeR
