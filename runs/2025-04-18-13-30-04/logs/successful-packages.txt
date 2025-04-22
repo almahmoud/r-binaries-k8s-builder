@@ -1203,3 +1203,9 @@ hapFabia
 iterativeBMAsurv
 nempi
 rTRM
+ginmappeR
+graphite
+massiR
+pathview
+Rnits
+transite

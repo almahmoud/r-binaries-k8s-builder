@@ -309,7 +309,6 @@
     "scuttle"
   ],
   "CBNplot": [
-    "graphite",
     "clusterProfiler",
     "enrichplot",
     "ExperimentHub",
@@ -746,8 +745,6 @@
   "EnrichmentBrowser": [
     "GSEABase",
     "edgeR",
-    "graphite",
-    "pathview",
     "safe",
     "annotate"
   ],
@@ -853,7 +850,6 @@
     "edgeR",
     "clusterProfiler",
     "DOSE",
-    "pathview",
     "enrichplot",
     "GOSemSim"
   ],
@@ -888,8 +884,6 @@
     "EnrichmentBrowser",
     "ExperimentHub",
     "GSEABase",
-    "graphite",
-    "pathview",
     "safe",
     "annotate"
   ],
@@ -1233,7 +1227,6 @@
   ],
   "MIRit": [
     "edgeR",
-    "graphite",
     "clusterProfiler",
     "DOSE",
     "enrichplot",
@@ -1257,7 +1250,6 @@
   ],
   "MOMA": [],
   "MOSClip": [
-    "graphite",
     "qpgraph",
     "annotate",
     "GenomicFeatures",
@@ -1631,8 +1623,7 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "graphite"
+    "GOSemSim"
   ],
   "PrInCE": [
     "MSnbase",
@@ -1863,7 +1854,6 @@
   "ReactomePA": [
     "DOSE",
     "enrichplot",
-    "graphite",
     "GOSemSim"
   ],
   "RegEnrich": [
@@ -1947,7 +1937,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "Rnits": [],
   "Rqc": [
     "ShortRead",
     "biovizBase",
@@ -1968,9 +1957,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "SBGNview": [
-    "pathview"
-  ],
+  "SBGNview": [],
   "SCAN.UPC": [
     "sva",
     "genefilter",
@@ -2564,7 +2551,6 @@
     "TCGAutils",
     "enrichplot",
     "GOSemSim",
-    "graphite",
     "GenomicFeatures",
     "rtracklayer",
     "GenomicAlignments"
@@ -3076,7 +3062,6 @@
     "clusterProfiler",
     "sva",
     "enrichplot",
-    "pathview",
     "GOSemSim",
     "genefilter"
   ],
@@ -3197,8 +3182,6 @@
     "zenith",
     "annotate",
     "EnrichmentBrowser",
-    "graphite",
-    "pathview",
     "safe"
   ],
   "drugTargetInteractions": [
@@ -3440,7 +3423,6 @@
     "enrichplot",
     "GOSemSim",
     "rtracklayer",
-    "graphite",
     "GenomicAlignments"
   ],
   "gcapc": [
@@ -3500,7 +3482,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "ginmappeR": [],
   "glmSparseNet": [
     "TCGAutils",
     "GenomicFeatures",
@@ -3535,7 +3516,6 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "graphite": [],
   "groHMM": [
     "GenomicAlignments",
     "rtracklayer"
@@ -3607,7 +3587,6 @@
     "annotate",
     "rtracklayer",
     "txdbmaker",
-    "graphite",
     "GenomicAlignments"
   ],
   "iSEEde": [
@@ -3761,7 +3740,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "massiR": [],
   "mastR": [
     "edgeR",
     "GSEABase",
@@ -3912,8 +3890,7 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "annotate",
-    "graphite"
+    "annotate"
   ],
   "miRspongeR": [
     "SPONGE",
@@ -3921,8 +3898,7 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "graphite"
+    "GOSemSim"
   ],
   "mia": [
     "scater",
@@ -3983,7 +3959,6 @@
     "GenomicAlignments"
   ],
   "mogsa": [
-    "graphite",
     "genefilter",
     "GSEABase",
     "annotate"
@@ -4057,9 +4032,7 @@
   ],
   "mspms": [],
   "msqrob2": [],
-  "multiGSEA": [
-    "graphite"
-  ],
+  "multiGSEA": [],
   "multiHiCcompare": [
     "edgeR"
   ],
@@ -4198,7 +4171,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "pathview": [],
   "peakPantheR": [
     "MSnbase",
     "PSMatch",
@@ -4512,7 +4484,6 @@
   ],
   "runibic": [],
   "sSNAPPY": [
-    "graphite",
     "edgeR"
   ],
   "safe": [],
@@ -5003,7 +4974,6 @@
     "ShortRead"
   ],
   "transformGamPoi": [],
-  "transite": [],
   "transmogR": [
     "BSgenome",
     "GenomicFeatures",
@@ -5135,8 +5105,6 @@
     "EnrichmentBrowser",
     "GSEABase",
     "edgeR",
-    "graphite",
-    "pathview",
     "safe",
     "annotate"
   ],
