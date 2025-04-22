@@ -58,7 +58,6 @@
   "AWFisher": [
     "edgeR"
   ],
-  "AffyRNADegradation": [],
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
@@ -2097,7 +2096,6 @@
   "TissueEnrich": [
     "GSEABase"
   ],
-  "TnT": [],
   "TurboNorm": [],
   "UPDhmm": [
     "VariantAnnotation",
@@ -2800,9 +2798,7 @@
     "GenomicAlignments",
     "ExperimentHub"
   ],
-  "crumblr": [
-    "variancePartition"
-  ],
+  "crumblr": [],
   "csaw": [
     "edgeR"
   ],
@@ -2969,7 +2965,6 @@
     "GenomicAlignments"
   ],
   "dreamlet": [
-    "variancePartition",
     "edgeR",
     "GSEABase",
     "zenith",
@@ -3792,8 +3787,7 @@
   "muscat": [
     "edgeR",
     "scater",
-    "scuttle",
-    "variancePartition"
+    "scuttle"
   ],
   "mygene": [
     "GenomicFeatures",
@@ -3954,7 +3948,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "pogos": [],
   "ppcseq": [
     "edgeR"
   ],
@@ -4222,7 +4215,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scAnnotatR": [],
   "scBFA": [
     "zinbwave",
     "genefilter",
@@ -4717,7 +4709,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "variancePartition": [],
   "velociraptor": [
     "scuttle"
   ],
@@ -4775,7 +4766,6 @@
     "GenomicAlignments"
   ],
   "zenith": [
-    "variancePartition",
     "EnrichmentBrowser",
     "GSEABase",
     "edgeR",
