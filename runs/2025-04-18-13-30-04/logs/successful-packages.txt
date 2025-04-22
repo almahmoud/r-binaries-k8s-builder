@@ -1471,3 +1471,5 @@ DAPAR
 DRIMSeq
 gep2pep
 VplotR
+GSVA
+MSstatsQCgui
