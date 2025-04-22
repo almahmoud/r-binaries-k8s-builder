@@ -1786,3 +1786,8 @@ bedbaser
 extraChIPs
 scClassify
 Statial
+Basic4Cseq
+BSgenomeForge
+ChIPanalyser
+miRSM
+mumosa

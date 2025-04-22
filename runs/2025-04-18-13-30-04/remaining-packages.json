@@ -50,14 +50,12 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "BSgenomeForge": [],
   "BUSpaRse": [
     "ensembldb"
   ],
   "BadRegionFinder": [
     "VariantAnnotation"
   ],
-  "Basic4Cseq": [],
   "BgeeCall": [
     "txdbmaker"
   ],
@@ -113,7 +111,6 @@
     "DiffBind",
     "GreyListChIP"
   ],
-  "ChIPanalyser": [],
   "ChIPexoQual": [
     "biovizBase",
     "VariantAnnotation",
@@ -1046,7 +1043,6 @@
     "minfi",
     "bumphunter"
   ],
-  "miRSM": [],
   "miaDash": [
     "iSEEtree"
   ],
@@ -1087,7 +1083,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "mumosa": [],
   "mygene": [
     "txdbmaker"
   ],
