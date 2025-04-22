@@ -1183,3 +1183,9 @@ biosigner
 glmGamPoi
 LoomExperiment
 phenomis
+fastseg
+MetaboCoreUtils
+SAIGEgds
+scrapper
+tidybulk
+UniProt.ws

@@ -309,7 +309,6 @@
     "MSnbase",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "PSMatch"
   ],
   "CARDspa": [],
@@ -522,8 +521,7 @@
   "CluMSID": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "CoSIA": [
     "ExperimentHub"
@@ -534,8 +532,7 @@
     "GenomicAlignments"
   ],
   "CompoundDb": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "CoverageView": [
     "rtracklayer",
@@ -556,8 +553,7 @@
   "DAPAR": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "DEFormats": [
     "edgeR"
@@ -568,8 +564,7 @@
   "DEP": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "DESpace": [
     "edgeR",
@@ -1097,7 +1092,6 @@
     "MSnbase",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "PSMatch"
   ],
   "IVAS": [
@@ -1175,7 +1169,6 @@
     "MSnbase",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "PSMatch"
   ],
   "MBECS": [
@@ -1304,27 +1297,23 @@
     "msmsEDA",
     "edgeR",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MSnbase": [
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MSstatsPTM": [],
   "MSstatsQC": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MSstatsQCgui": [
     "MSstatsQC",
     "MSnbase",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MSstatsShiny": [
     "MSstatsPTM"
@@ -1350,8 +1339,7 @@
     "GenomicAlignments"
   ],
   "MetCirc": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MetaCyto": [
     "FlowSOM"
@@ -1363,11 +1351,9 @@
     "GOSemSim"
   ],
   "MetaboAnnotation": [
-    "MetaboCoreUtils",
     "Spectra",
     "CompoundDb"
   ],
-  "MetaboCoreUtils": [],
   "MetaboSignal": [
     "hpar",
     "mygene",
@@ -1464,40 +1450,32 @@
   ],
   "MouseFM": [],
   "MsBackendMassbank": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MsBackendMetaboLights": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MsBackendMgf": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MsBackendMsp": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MsBackendRawFileReader": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MsBackendSql": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MsDataHub": [
     "ExperimentHub"
   ],
   "MsExperiment": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MsQuality": [
     "MsExperiment",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "MungeSumstats": [
     "BSgenome",
@@ -1628,8 +1606,7 @@
     "sva",
     "Spectra",
     "genefilter",
-    "annotate",
-    "MetaboCoreUtils"
+    "annotate"
   ],
   "PROPER": [
     "edgeR"
@@ -1641,8 +1618,7 @@
     "annotate"
   ],
   "PSMatch": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "PanomiR": [
     "clusterProfiler",
@@ -1672,15 +1648,13 @@
   "PrInCE": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "Prostar": [
     "DAPAR",
     "MSnbase",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "ProteoDisco": [
     "GenomicFeatures",
@@ -1788,8 +1762,7 @@
   "RMassBank": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "RNAAgeCalc": [
     "recount",
@@ -2001,7 +1974,6 @@
   "Rvisdiff": [
     "edgeR"
   ],
-  "SAIGEgds": [],
   "SARC": [
     "plyranges",
     "GenomicFeatures",
@@ -2163,12 +2135,9 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "Spectra": [
-    "MetaboCoreUtils"
-  ],
+  "Spectra": [],
   "SpectraQL": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "SpliceWiz": [
     "BSgenome",
@@ -2326,7 +2295,6 @@
     "rtracklayer",
     "plyranges"
   ],
-  "UniProt.ws": [],
   "Uniquorn": [
     "VariantAnnotation",
     "rtracklayer",
@@ -2570,8 +2538,7 @@
     "MLInterfaces",
     "annotate",
     "genefilter",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "basecallQC": [
     "ShortRead",
@@ -2884,8 +2851,7 @@
     "MSnbase",
     "PSMatch",
     "MsExperiment",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "clustSIGNAL": [
     "scater",
@@ -2974,7 +2940,6 @@
     "MSnbase",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "PSMatch"
   ],
   "cosmosR": [
@@ -3110,7 +3075,6 @@
     "GenomicAlignments"
   ],
   "dagLogo": [
-    "UniProt.ws",
     "motifStack",
     "TFBSTools",
     "BSgenome",
@@ -3154,7 +3118,6 @@
   "deconvR": [
     "methylKit",
     "minfi",
-    "fastseg",
     "rtracklayer",
     "bumphunter",
     "genefilter",
@@ -3260,7 +3223,6 @@
     "safe"
   ],
   "drugTargetInteractions": [
-    "UniProt.ws",
     "ensembldb",
     "GenomicFeatures",
     "rtracklayer",
@@ -3449,7 +3411,6 @@
     "GOSemSim"
   ],
   "fastLiquidAssociation": [],
-  "fastseg": [],
   "fcScan": [
     "VariantAnnotation",
     "rtracklayer",
@@ -3475,7 +3436,6 @@
     "MSnbase",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "PSMatch"
   ],
   "flowCut": [],
@@ -3562,9 +3522,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "ginmappeR": [
-    "UniProt.ws"
-  ],
+  "ginmappeR": [],
   "glmSparseNet": [
     "TCGAutils",
     "GenomicFeatures",
@@ -3617,8 +3575,7 @@
   ],
   "hapFabia": [],
   "hdxmsqc": [
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "hermes": [
     "edgeR"
@@ -3854,7 +3811,6 @@
     "MSnbase",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "PSMatch"
   ],
   "metagene2": [
@@ -3877,7 +3833,6 @@
   ],
   "methInheritSim": [
     "methylKit",
-    "fastseg",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -3915,12 +3870,10 @@
   ],
   "methylInheritance": [
     "methylKit",
-    "fastseg",
     "rtracklayer",
     "GenomicAlignments"
   ],
   "methylKit": [
-    "fastseg",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -4121,16 +4074,14 @@
   "msmsEDA": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "msmsTests": [
     "MSnbase",
     "msmsEDA",
     "edgeR",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "mspms": [],
   "msqrob2": [],
@@ -4172,7 +4123,6 @@
     "MSnbase",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "PSMatch"
   ],
   "nearBynding": [
@@ -4207,8 +4157,7 @@
   "omXplore": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "omicRexposome": [
     "sva",
@@ -4233,8 +4182,7 @@
     "annotate",
     "genefilter",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "pRolocGUI": [
     "pRoloc",
@@ -4243,8 +4191,7 @@
     "MLInterfaces",
     "annotate",
     "genefilter",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "pageRank": [
     "motifmatchr",
@@ -4284,8 +4231,7 @@
   "peakPantheR": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "peco": [
     "scater",
@@ -4413,16 +4359,14 @@
   "ptairMS": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "pvac": [],
   "pvca": [],
   "qPLEXanalyzer": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "qpgraph": [
     "annotate",
@@ -4731,7 +4675,6 @@
     "scuttle",
     "edgeR"
   ],
-  "scrapper": [],
   "scruff": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -4957,8 +4900,7 @@
     "MSnbase",
     "MsExperiment",
     "Spectra",
-    "PSMatch",
-    "MetaboCoreUtils"
+    "PSMatch"
   ],
   "srnadiff": [
     "rtracklayer",
@@ -5053,9 +4995,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "tidybulk": [],
   "tidyomics": [
-    "tidybulk",
     "plyranges",
     "nullranges",
     "rtracklayer",
@@ -5071,8 +5011,7 @@
   "topdownr": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "tpSVG": [],
   "trackViewer": [
@@ -5208,7 +5147,6 @@
     "MSnbase",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "PSMatch"
   ],
   "xcore": [
