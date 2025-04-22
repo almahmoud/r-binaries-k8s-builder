@@ -184,7 +184,6 @@
     "GenomicFeatures"
   ],
   "CCPROMISE": [],
-  "CEMiTool": [],
   "CNVrd2": [
     "VariantAnnotation",
     "rtracklayer",
@@ -383,7 +382,6 @@
   ],
   "ERSSA": [],
   "EasyCellType": [],
-  "EnrichDO": [],
   "EpiCompare": [
     "ChIPseeker",
     "genomation",
@@ -2433,7 +2431,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "scviR": [],
   "segmentSeq": [
     "baySeq"
   ],
