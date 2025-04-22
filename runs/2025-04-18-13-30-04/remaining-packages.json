@@ -472,7 +472,6 @@
   "MEDIPS": [
     "BSgenome"
   ],
-  "MGnifyR": [],
   "MIRA": [
     "bsseq",
     "BSgenome"
@@ -484,7 +483,6 @@
     "qpgraph",
     "GenomicFeatures"
   ],
-  "MOSim": [],
   "MatrixRider": [
     "TFBSTools",
     "BSgenome"
@@ -1498,7 +1496,6 @@
     "minfi",
     "bumphunter"
   ],
-  "lute": [],
   "m6Aboost": [
     "BSgenome"
   ],
