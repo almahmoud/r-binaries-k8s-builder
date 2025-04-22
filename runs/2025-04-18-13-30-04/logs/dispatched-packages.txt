@@ -1906,3 +1906,8 @@ MinimumDistance
 CexoR
 fCCAC
 hiReadsProcessor
+DSS
+InPAS
+MIRA
+NanoMethViz
+miaDash

@@ -1814,3 +1814,8 @@ genomation
 hiAnnotator
 SpliceWiz
 tRNAscanImport
+bsseq
+cleanUpdTSeq
+iSEEtree
+RJMCMCNucleosomes
+SparseSignatures

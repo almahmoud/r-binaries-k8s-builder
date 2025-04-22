@@ -96,8 +96,7 @@
     "VariantAnnotation"
   ],
   "COCOA": [
-    "MIRA",
-    "bsseq"
+    "MIRA"
   ],
   "CODEX": [],
   "CRISPRseek": [],
@@ -125,9 +124,7 @@
     "VariantAnnotation",
     "bumphunter"
   ],
-  "DSS": [
-    "bsseq"
-  ],
+  "DSS": [],
   "DaMiRseq": [
     "EDASeq"
   ],
@@ -141,8 +138,7 @@
     "txdbmaker"
   ],
   "DeMixT": [
-    "DSS",
-    "bsseq"
+    "DSS"
   ],
   "DegCre": [
     "plotgardener"
@@ -261,9 +257,7 @@
   ],
   "INSPEcT": [],
   "IVAS": [],
-  "InPAS": [
-    "cleanUpdTSeq"
-  ],
+  "InPAS": [],
   "IntEREst": [
     "GenomicFiles",
     "txdbmaker",
@@ -291,9 +285,7 @@
     "methylumi",
     "lumi"
   ],
-  "MIRA": [
-    "bsseq"
-  ],
+  "MIRA": [],
   "MMDiff2": [],
   "MOSClip": [
     "qpgraph"
@@ -325,9 +317,7 @@
   "MutationalPatterns": [
     "VariantAnnotation"
   ],
-  "NanoMethViz": [
-    "bsseq"
-  ],
+  "NanoMethViz": [],
   "OGRE": [
     "Gviz",
     "ensembldb",
@@ -390,7 +380,6 @@
     "MutationalPatterns",
     "VariantAnnotation"
   ],
-  "RJMCMCNucleosomes": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -513,7 +502,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "SparseSignatures": [],
   "SplicingGraphs": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation"
@@ -629,11 +617,9 @@
   ],
   "bnem": [],
   "borealis": [
-    "bsseq",
     "DSS"
   ],
   "branchpointer": [],
-  "bsseq": [],
   "bumphunter": [],
   "cBioPortalData": [
     "RTCGAToolbox",
@@ -684,7 +670,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "cleanUpdTSeq": [],
   "clipper": [
     "qpgraph"
   ],
@@ -905,7 +890,6 @@
     "bumphunter",
     "txdbmaker"
   ],
-  "iSEEtree": [],
   "icetea": [
     "VariantAnnotation"
   ],
@@ -921,8 +905,7 @@
     "txdbmaker"
   ],
   "kissDE": [
-    "DSS",
-    "bsseq"
+    "DSS"
   ],
   "lineagespot": [
     "VariantAnnotation"
@@ -956,14 +939,12 @@
   "metaseqR2": [
     "DSS",
     "EDASeq",
-    "txdbmaker",
-    "bsseq"
+    "txdbmaker"
   ],
   "methInheritSim": [],
   "methrix": [],
   "methylCC": [
     "minfi",
-    "bsseq",
     "bumphunter"
   ],
   "methylGSA": [
@@ -980,7 +961,6 @@
     "VariantAnnotation"
   ],
   "methylSig": [
-    "bsseq",
     "DSS"
   ],
   "methylclock": [
@@ -995,9 +975,7 @@
     "minfi",
     "bumphunter"
   ],
-  "miaDash": [
-    "iSEEtree"
-  ],
+  "miaDash": [],
   "minfi": [
     "bumphunter"
   ],
