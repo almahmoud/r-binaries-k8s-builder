@@ -865,7 +865,6 @@
   "PAST": [
     "rtracklayer"
   ],
-  "PDATK": [],
   "POMA": [
     "sva"
   ],
@@ -1018,7 +1017,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils",
     "GenomicFeatures",
@@ -1398,7 +1396,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "amplican": [],
   "annmap": [],
   "anota2seq": [],
   "appreci8R": [
@@ -1564,7 +1561,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "cghMCR": [],
   "chevreulPlot": [
     "chevreulProcess",
     "scran",
@@ -1649,7 +1645,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "condiments": [],
   "consensusDE": [
     "EDASeq",
     "ensembldb",
@@ -1852,7 +1847,6 @@
   "edge": [
     "sva"
   ],
-  "eisaR": [],
   "enhancerHomologSearch": [
     "BSgenome",
     "motifmatchr",
