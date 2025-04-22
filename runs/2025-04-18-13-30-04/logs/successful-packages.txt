@@ -2089,3 +2089,5 @@ ggbio
 R453Plus1Toolbox
 demuxSNP
 funtooNorm
+appreci8R
+ProteoDisco

@@ -23,7 +23,6 @@
   "MEAT": [],
   "MungeSumstats": [],
   "OMICsPCA": [],
-  "ProteoDisco": [],
   "R3CPET": [],
   "RESOLVE": [],
   "RNAAgeCalc": [
@@ -43,7 +42,6 @@
   "affycoretools": [
     "ReportingTools"
   ],
-  "appreci8R": [],
   "bigmelon": [],
   "bnem": [],
   "cageminer": [],
