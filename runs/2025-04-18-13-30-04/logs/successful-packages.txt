@@ -2029,3 +2029,6 @@ derfinder
 ASpli
 CircSeqAlignTk
 scFeatures
+AllelicImbalance
+GeneStructureTools
+OGRE

@@ -7,7 +7,6 @@
     "ReportingTools",
     "ggbio"
   ],
-  "AllelicImbalance": [],
   "AnnotationHubData": [],
   "BBCAnalyzer": [],
   "BOBaFIT": [
@@ -37,7 +36,6 @@
   ],
   "FRASER": [],
   "GSReg": [],
-  "GeneStructureTools": [],
   "GenomicInteractions": [],
   "GenomicOZone": [
     "ggbio"
@@ -63,7 +61,6 @@
     "lumi"
   ],
   "MungeSumstats": [],
-  "OGRE": [],
   "OMICsPCA": [],
   "ProteoDisco": [],
   "Pviz": [],
