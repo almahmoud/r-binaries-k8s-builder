@@ -1903,3 +1903,6 @@ motifStack
 motifmatchr
 DiffBind
 MinimumDistance
+CexoR
+fCCAC
+hiReadsProcessor

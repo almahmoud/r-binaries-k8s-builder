@@ -1810,3 +1810,7 @@ GreyListChIP
 MotifPeeker
 TENET
 VanillaICE
+genomation
+hiAnnotator
+SpliceWiz
+tRNAscanImport

@@ -102,9 +102,7 @@
   "CODEX": [],
   "CRISPRseek": [],
   "CSSQ": [],
-  "CexoR": [
-    "genomation"
-  ],
+  "CexoR": [],
   "ChIPQC": [
     "DiffBind"
   ],
@@ -177,8 +175,7 @@
     "bumphunter"
   ],
   "EpiCompare": [
-    "ChIPseeker",
-    "genomation"
+    "ChIPseeker"
   ],
   "EpiMix": [],
   "EpiTxDb": [
@@ -239,7 +236,6 @@
   ],
   "GenomicPlot": [
     "RCAS",
-    "genomation",
     "txdbmaker"
   ],
   "Guitar": [],
@@ -384,8 +380,7 @@
     "VariantAnnotation"
   ],
   "RCAS": [
-    "txdbmaker",
-    "genomation"
+    "txdbmaker"
   ],
   "REMP": [
     "minfi",
@@ -519,7 +514,6 @@
     "txdbmaker"
   ],
   "SparseSignatures": [],
-  "SpliceWiz": [],
   "SplicingGraphs": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation"
@@ -849,9 +843,7 @@
     "ChIPseeker",
     "motifmatchr"
   ],
-  "fCCAC": [
-    "genomation"
-  ],
+  "fCCAC": [],
   "factR": [],
   "fcScan": [
     "VariantAnnotation"
@@ -869,7 +861,6 @@
   "gINTomics": [],
   "gcapc": [],
   "geneAttribution": [],
-  "genomation": [],
   "geomeTriD": [
     "trackViewer",
     "Gviz",
@@ -898,10 +889,7 @@
   "gwasurvivr": [
     "VariantAnnotation"
   ],
-  "hiAnnotator": [],
-  "hiReadsProcessor": [
-    "hiAnnotator"
-  ],
+  "hiReadsProcessor": [],
   "iCNV": [
     "CODEX"
   ],
@@ -1237,7 +1225,6 @@
   "tLOH": [
     "VariantAnnotation"
   ],
-  "tRNAscanImport": [],
   "tadar": [
     "Gviz",
     "VariantAnnotation",
