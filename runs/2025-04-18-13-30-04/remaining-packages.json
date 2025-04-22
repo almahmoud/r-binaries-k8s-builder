@@ -654,7 +654,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "MetaPhOR": [],
   "MetaboSignal": [
     "mygene",
     "ensembldb",
@@ -775,10 +774,7 @@
   "PAST": [
     "rtracklayer"
   ],
-  "POMA": [],
-  "PRONE": [
-    "POMA"
-  ],
+  "PRONE": [],
   "PROPER": [],
   "PanomiR": [],
   "Pigengene": [],
@@ -2158,7 +2154,6 @@
     "plyranges",
     "rtracklayer"
   ],
-  "omicRexposome": [],
   "pRolocGUI": [],
   "pageRank": [
     "motifmatchr",
