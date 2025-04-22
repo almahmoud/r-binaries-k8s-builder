@@ -1439,7 +1439,6 @@
   "bandle": [
     "pRoloc"
   ],
-  "basecallQC": [],
   "baySeq": [],
   "bedbaser": [
     "rtracklayer"
@@ -1838,7 +1837,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "easyRNASeq": [],
   "easylift": [
     "rtracklayer"
   ],
@@ -2179,7 +2177,6 @@
   "meshes": [
     "enrichplot"
   ],
-  "meshr": [],
   "metagene2": [
     "rtracklayer"
   ],
@@ -2340,7 +2337,6 @@
   ],
   "msgbsR": [
     "BSgenome",
-    "easyRNASeq",
     "GenomicFeatures",
     "ggbio",
     "rtracklayer",
@@ -2374,7 +2370,6 @@
     "clusterExperiment"
   ],
   "npGSEA": [],
-  "nucleR": [],
   "nullranges": [
     "plyranges",
     "rtracklayer"
@@ -2770,7 +2765,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "speckle": [],
   "spicyR": [],
   "spiky": [
     "BSgenome",

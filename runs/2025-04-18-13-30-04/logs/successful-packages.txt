@@ -1547,3 +1547,8 @@ PDATK
 RSVSim
 CNVRanger
 SigCheck
+basecallQC
+easyRNASeq
+meshr
+nucleR
+speckle
