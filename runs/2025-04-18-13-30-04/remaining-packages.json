@@ -81,7 +81,6 @@
   "TFEA.ChIP": [],
   "TFHAZ": [],
   "UPDhmm": [],
-  "VariantFiltering": [],
   "YAPSA": [
     "SomaticSignatures",
     "ggbio"
