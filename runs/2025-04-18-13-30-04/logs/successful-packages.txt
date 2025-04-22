@@ -1916,3 +1916,9 @@ SigsPack
 Uniquorn
 alabaster.vcf
 SNPhood
+biovizBase
+decompTumor2Sig
+fcScan
+GenomicFiles
+seqArchRplus
+VariantTools

@@ -2025,3 +2025,12 @@ shinyMethyl
 shinyepico
 GA4GHshiny
 alabaster
+BubbleTree
+ChIPexoQual
+Gviz
+IntEREst
+QuasR
+Rqc
+TFutils
+VCFArray
+derfinder
