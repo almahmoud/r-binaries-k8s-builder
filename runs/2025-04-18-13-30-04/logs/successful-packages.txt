@@ -1080,3 +1080,9 @@ MesKit
 NCIgraph
 NPARC
 qpcrNorm
+ecolitk
+ggcyto
+Heatplus
+RcwlPipelines
+satuRn
+spqn

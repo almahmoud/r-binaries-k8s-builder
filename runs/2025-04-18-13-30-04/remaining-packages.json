@@ -646,19 +646,14 @@
     "Rsamtools"
   ],
   "CytoMDS": [
-    "CytoPipeline",
-    "ggcyto"
+    "CytoPipeline"
   ],
   "CytoML": [
-    "openCyto",
-    "ggcyto"
+    "openCyto"
   ],
-  "CytoPipeline": [
-    "ggcyto"
-  ],
+  "CytoPipeline": [],
   "CytoPipelineGUI": [
-    "CytoPipeline",
-    "ggcyto"
+    "CytoPipeline"
   ],
   "DAMEfinder": [
     "GenomicAlignments",
@@ -1247,7 +1242,6 @@
     "edgeR",
     "annotate"
   ],
-  "Heatplus": [],
   "HelloRanges": [
     "BSgenome",
     "GenomicFeatures",
@@ -1371,7 +1365,6 @@
   "IsoBayes": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
-    "satuRn",
     "sva",
     "BSgenome",
     "rtracklayer",
@@ -2278,10 +2271,7 @@
   "Rcpi": [
     "GOSemSim"
   ],
-  "RcwlPipelines": [],
-  "ReUseData": [
-    "RcwlPipelines"
-  ],
+  "ReUseData": [],
   "ReactomeGSA": [
     "BiocSingular"
   ],
@@ -3280,7 +3270,6 @@
     "RTCGAToolbox",
     "TCGAutils",
     "annotate",
-    "Heatplus",
     "Category",
     "biomaRt",
     "genefilter",
@@ -3927,7 +3916,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "ecolitk": [],
   "edge": [
     "sva",
     "genefilter",
@@ -4159,9 +4147,7 @@
     "vsn"
   ],
   "flowCut": [],
-  "flowGate": [
-    "ggcyto"
-  ],
+  "flowGate": [],
   "flowTrans": [],
   "flowVS": [],
   "frmaTools": [],
@@ -4266,7 +4252,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "ggcyto": [],
   "ginmappeR": [
     "UniProt.ws"
   ],
@@ -5171,7 +5156,6 @@
   ],
   "phenoTest": [
     "annotate",
-    "Heatplus",
     "Category",
     "biomaRt",
     "GSEABase",
@@ -5565,7 +5549,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "satuRn": [],
   "scAnnotatR": [],
   "scBFA": [
     "zinbwave",
@@ -5948,7 +5931,6 @@
   "spoon": [
     "scuttle"
   ],
-  "spqn": [],
   "squallms": [
     "xcms",
     "MSnbase",
