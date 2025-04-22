@@ -1411,3 +1411,11 @@ CNORfuzzy
 CNORode
 CTdata
 NetSAM
+AMARETTO
+cfTools
+crisprScore
+DeepTarget
+EpipwR
+LRcell
+MACSr
+SeqSQC

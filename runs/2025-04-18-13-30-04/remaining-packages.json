@@ -9,7 +9,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "AMARETTO": [],
   "APAlyzer": [
     "GenomicFeatures",
     "rtracklayer",
@@ -394,7 +393,6 @@
     "scran",
     "rtracklayer"
   ],
-  "DeepTarget": [],
   "DegCre": [
     "plotgardener",
     "plyranges",
@@ -492,7 +490,6 @@
     "txdbmaker",
     "rtracklayer"
   ],
-  "EpipwR": [],
   "EventPointer": [
     "SGSeq",
     "GenomicFeatures",
@@ -739,9 +736,7 @@
     "sva"
   ],
   "LACE": [],
-  "LRcell": [],
   "M3Drop": [],
-  "MACSr": [],
   "MAIT": [
     "CAMERA",
     "xcms",
@@ -1328,7 +1323,6 @@
   ],
   "ScreenR": [],
   "SemDist": [],
-  "SeqSQC": [],
   "ShortRead": [],
   "SigCheck": [
     "MLInterfaces"
@@ -1766,7 +1760,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "cfTools": [],
   "cghMCR": [
     "CNTools"
   ],
@@ -1913,17 +1906,14 @@
   "crisprDesign": [
     "BSgenome",
     "crisprBowtie",
-    "crisprScore",
     "GenomicFeatures",
     "rtracklayer",
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "crisprScore": [],
   "crisprShiny": [
     "BSgenome",
     "crisprDesign",
-    "crisprScore",
     "crisprViz",
     "rtracklayer",
     "crisprBowtie",
@@ -1936,7 +1926,6 @@
   ],
   "crisprVerse": [
     "crisprBowtie",
-    "crisprScore",
     "crisprDesign",
     "crisprViz",
     "BSgenome",
@@ -1956,7 +1945,6 @@
     "txdbmaker",
     "rtracklayer",
     "crisprBowtie",
-    "crisprScore",
     "VariantAnnotation",
     "ensembldb",
     "biovizBase"
