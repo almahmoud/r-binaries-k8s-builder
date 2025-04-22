@@ -1286,3 +1286,7 @@ scuttle
 surfaltr
 hipathia
 multiMiR
+beachmat.hdf5
+flowCut
+flowTrans
+ReactomeGSA

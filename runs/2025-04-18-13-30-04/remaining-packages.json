@@ -1691,7 +1691,6 @@
   "Rcpi": [
     "GOSemSim"
   ],
-  "ReactomeGSA": [],
   "ReactomePA": [
     "DOSE",
     "enrichplot",
@@ -2304,7 +2303,6 @@
   "baySeq": [
     "edgeR"
   ],
-  "beachmat.hdf5": [],
   "bedbaser": [
     "rtracklayer",
     "GenomicAlignments"
@@ -3116,8 +3114,6 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "flowCut": [],
-  "flowTrans": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
