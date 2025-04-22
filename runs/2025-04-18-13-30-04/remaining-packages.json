@@ -444,7 +444,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "GDCRNATools": [],
   "GOTHiC": [
     "BSgenome",
     "rtracklayer"
@@ -924,7 +923,6 @@
   "Rbec": [
     "dada2"
   ],
-  "RegEnrich": [],
   "Repitools": [
     "rtracklayer",
     "BSgenome"
