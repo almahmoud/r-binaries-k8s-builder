@@ -1338,3 +1338,9 @@ microSTASIS
 Doscheda
 NormalyzerDE
 pvca
+ASICS
+MultiBaC
+biosigner
+lipidr
+phenomis
+rqt

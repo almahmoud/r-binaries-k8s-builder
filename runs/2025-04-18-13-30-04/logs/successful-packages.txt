@@ -1150,3 +1150,13 @@ nipalsMCIA
 optimalFlow
 systemPipeTools
 vsn
+Cormotif
+DELocal
+diffcoexp
+ExiMiR
+flowVS
+HybridExpress
+methimpute
+MultimodalExperiment
+ropls
+SCnorm

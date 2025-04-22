@@ -33,9 +33,7 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "ASICS": [
-    "ropls"
-  ],
+  "ASICS": [],
   "ASSIGN": [
     "sva",
     "genefilter",
@@ -557,7 +555,6 @@
     "MetaboCoreUtils"
   ],
   "ConsensusClusterPlus": [],
-  "Cormotif": [],
   "CoverageView": [
     "rtracklayer",
     "GenomicAlignments"
@@ -591,7 +588,6 @@
     "ConsensusClusterPlus",
     "edgeR"
   ],
-  "DELocal": [],
   "DEP": [
     "MSnbase",
     "PSMatch",
@@ -834,7 +830,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "ExiMiR": [],
   "ExperimentHub": [],
   "ExperimentHubData": [
     "AnnotationHubData",
@@ -1112,7 +1107,6 @@
   ],
   "HilbertCurve": [],
   "HoloFoodR": [],
-  "HybridExpress": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS",
@@ -1543,11 +1537,8 @@
     "Spectra",
     "MetaboCoreUtils"
   ],
-  "MultiBaC": [
-    "ropls"
-  ],
+  "MultiBaC": [],
   "MultiRNAflow": [],
-  "MultimodalExperiment": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",
@@ -2090,7 +2081,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "SCnorm": [],
   "SEraster": [],
   "SEtools": [
     "edgeR",
@@ -2706,9 +2696,7 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "biosigner": [
-    "ropls"
-  ],
+  "biosigner": [],
   "biovizBase": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -2756,7 +2744,6 @@
     "GenomicAlignments"
   ],
   "broadSeq": [
-    "DELocal",
     "genefilter",
     "clusterProfiler",
     "edgeR",
@@ -3312,7 +3299,6 @@
     "GenomicAlignments",
     "annotate"
   ],
-  "diffcoexp": [],
   "diffcyt": [
     "FlowSOM",
     "edgeR",
@@ -3579,7 +3565,6 @@
   ],
   "flowCut": [],
   "flowTrans": [],
-  "flowVS": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
@@ -3875,9 +3860,7 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "lipidr": [
-    "ropls"
-  ],
+  "lipidr": [],
   "lisaClust": [
     "spicyR",
     "ClassifyR",
@@ -3994,7 +3977,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "methimpute": [],
   "methrix": [
     "rtracklayer",
     "BSgenome",
@@ -4435,9 +4417,7 @@
     "GSEABase",
     "genefilter"
   ],
-  "phenomis": [
-    "ropls"
-  ],
+  "phenomis": [],
   "pipeComp": [
     "scran",
     "scater",
@@ -4725,10 +4705,7 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "ropls": [],
-  "rqt": [
-    "ropls"
-  ],
+  "rqt": [],
   "rrvgo": [
     "GOSemSim"
   ],
