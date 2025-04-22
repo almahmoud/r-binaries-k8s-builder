@@ -1398,3 +1398,6 @@ pogos
 tenXplore
 MetaboAnnotation
 crumblr
+CRISPRball
+iSEEfier
+regionalpcs

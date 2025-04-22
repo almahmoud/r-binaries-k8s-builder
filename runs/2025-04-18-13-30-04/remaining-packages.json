@@ -352,9 +352,7 @@
     "GenomicAlignments"
   ],
   "COTAN": [],
-  "CRISPRball": [
-    "PCAtools"
-  ],
+  "CRISPRball": [],
   "CRISPRseek": [
     "GenomicFeatures",
     "BSgenome",
@@ -1441,7 +1439,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "PCAtools": [],
   "PDATK": [
     "genefu"
   ],
@@ -3354,9 +3351,7 @@
   "iSEEde": [
     "edgeR"
   ],
-  "iSEEfier": [
-    "iSEEu"
-  ],
+  "iSEEfier": [],
   "iSEEhub": [
     "ExperimentHub"
   ],
@@ -3366,7 +3361,6 @@
     "scater",
     "scuttle"
   ],
-  "iSEEu": [],
   "icetea": [
     "GenomicFeatures",
     "ShortRead",
@@ -4123,9 +4117,7 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "regionalpcs": [
-    "PCAtools"
-  ],
+  "regionalpcs": [],
   "regsplice": [
     "edgeR"
   ],
@@ -4619,7 +4611,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "tigre": [],
   "tilingArray": [
     "genefilter"
   ],

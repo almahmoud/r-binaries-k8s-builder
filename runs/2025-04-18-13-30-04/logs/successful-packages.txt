@@ -1258,3 +1258,6 @@ pogos
 scAnnotatR
 TnT
 variancePartition
+iSEEu
+PCAtools
+tigre
