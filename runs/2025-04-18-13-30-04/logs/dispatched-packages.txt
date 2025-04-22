@@ -1576,3 +1576,5 @@ orthos
 sesame
 spatialFDA
 vissE
+GlobalAncova
+SIM

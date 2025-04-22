@@ -2,7 +2,6 @@
   "ADaCGH2": [
     "tilingArray"
   ],
-  "AGDEX": [],
   "AHMassBank": [
     "AnnotationHubData",
     "GenomicFeatures",
@@ -142,8 +141,7 @@
     "txdbmaker"
   ],
   "BiSeq": [
-    "rtracklayer",
-    "globaltest"
+    "rtracklayer"
   ],
   "BicARE": [],
   "BindingSiteFinder": [
@@ -360,7 +358,6 @@
   "DAPAR": [
     "MSnbase"
   ],
-  "DEFormats": [],
   "DEGreport": [],
   "DEP": [
     "MSnbase"
@@ -645,9 +642,7 @@
     "BSgenome"
   ],
   "Glimma": [],
-  "GlobalAncova": [
-    "globaltest"
-  ],
+  "GlobalAncova": [],
   "GmicR": [
     "Category",
     "GOstats"
@@ -1325,9 +1320,7 @@
     "rtracklayer"
   ],
   "SICtools": [],
-  "SIM": [
-    "globaltest"
-  ],
+  "SIM": [],
   "SIMD": [],
   "SMITE": [
     "goseq",
@@ -2324,7 +2317,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "globaltest": [],
   "gmapR": [
     "rtracklayer",
     "GenomicFeatures",
@@ -2932,7 +2924,6 @@
   ],
   "regionReport": [
     "derfinder",
-    "DEFormats",
     "bumphunter",
     "GenomicFeatures",
     "GenomicFiles",
