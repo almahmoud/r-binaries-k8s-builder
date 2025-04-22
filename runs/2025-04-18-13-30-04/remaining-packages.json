@@ -197,7 +197,6 @@
   "EventPointer": [
     "SGSeq"
   ],
-  "ExCluster": [],
   "ExperimentHubData": [
     "AnnotationHubData",
     "OrganismDbi",
@@ -271,7 +270,6 @@
     "VariantAnnotation"
   ],
   "HiLDA": [],
-  "HiTC": [],
   "HicAggR": [],
   "IMAS": [
     "IVAS"
@@ -281,7 +279,6 @@
   "InPAS": [
     "cleanUpdTSeq"
   ],
-  "InTAD": [],
   "IntEREst": [
     "GenomicFiles",
     "txdbmaker",
@@ -810,7 +807,6 @@
     "motifStack",
     "TFBSTools"
   ],
-  "dandelionR": [],
   "dar": [],
   "decompTumor2Sig": [
     "VariantAnnotation"
