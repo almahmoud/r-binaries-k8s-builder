@@ -646,7 +646,6 @@
   "EGAD": [],
   "ELMER": [
     "GenomicFeatures",
-    "TCGAbiolinks",
     "Gviz",
     "rtracklayer",
     "ensembldb",
@@ -793,7 +792,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "GENESIS": [],
   "GEOexplorer": [
     "sva",
     "edgeR",
@@ -1290,7 +1288,6 @@
   "MoonlightR": [
     "clusterProfiler",
     "DOSE",
-    "TCGAbiolinks",
     "enrichplot",
     "GOSemSim"
   ],
@@ -1531,7 +1528,6 @@
     "GenomicFeatures"
   ],
   "RAIDS": [
-    "GENESIS",
     "ensembldb",
     "BSgenome",
     "VariantAnnotation",
@@ -1975,7 +1971,6 @@
   "TCC": [
     "edgeR"
   ],
-  "TCGAbiolinks": [],
   "TCGAutils": [
     "GenomicFeatures",
     "rtracklayer",
@@ -1995,7 +1990,6 @@
     "GenomicAlignments"
   ],
   "TENET": [
-    "TCGAbiolinks",
     "sesame",
     "ExperimentHub",
     "rtracklayer",
@@ -3536,7 +3530,6 @@
     "GenomicAlignments"
   ],
   "miRLAB": [
-    "TCGAbiolinks",
     "Category",
     "GOstats",
     "GSEABase",
@@ -3840,7 +3833,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "plyxp": [],
   "podkat": [
     "BSgenome",
     "rtracklayer",
@@ -4196,7 +4188,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "scp": [],
   "scran": [
     "edgeR"
   ],

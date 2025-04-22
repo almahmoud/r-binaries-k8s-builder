@@ -1304,3 +1304,7 @@ simPIC
 smoothclust
 spoon
 TENxIO
+GENESIS
+plyxp
+scp
+TCGAbiolinks
