@@ -300,7 +300,6 @@
     "methylumi",
     "lumi"
   ],
-  "MEDIPS": [],
   "MIRA": [
     "bsseq"
   ],
@@ -323,7 +322,6 @@
     "minfi",
     "bumphunter"
   ],
-  "MethylSeekR": [],
   "MineICA": [
     "lumi",
     "methylumi",
@@ -336,7 +334,6 @@
   "Moonlight2R": [
     "EpiMix"
   ],
-  "Motif2Site": [],
   "MotifPeeker": [],
   "MungeSumstats": [
     "VariantAnnotation"
@@ -357,7 +354,6 @@
     "HelloRanges",
     "VariantAnnotation"
   ],
-  "ORFhunteR": [],
   "ORFik": [
     "txdbmaker"
   ],
@@ -460,7 +456,6 @@
   "RareVariantVis": [
     "VariantAnnotation"
   ],
-  "Repitools": [],
   "ReportingTools": [
     "ggbio",
     "biovizBase",
@@ -543,7 +538,6 @@
     "VariantAnnotation"
   ],
   "TAPseq": [],
-  "TBSignatureProfiler": [],
   "TCGAutils": [],
   "TENET": [],
   "TFBSTools": [],

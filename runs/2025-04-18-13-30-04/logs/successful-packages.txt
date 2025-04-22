@@ -1793,3 +1793,9 @@ miRSM
 mumosa
 ChIPComp
 RFLOMICS
+MEDIPS
+MethylSeekR
+Motif2Site
+ORFhunteR
+Repitools
+TBSignatureProfiler
