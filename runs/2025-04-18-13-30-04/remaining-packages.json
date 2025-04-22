@@ -317,7 +317,6 @@
   ],
   "CARDspa": [],
   "CATALYST": [
-    "ConsensusClusterPlus",
     "FlowSOM",
     "scater",
     "scuttle"
@@ -541,7 +540,6 @@
     "Spectra",
     "MetaboCoreUtils"
   ],
-  "ConsensusClusterPlus": [],
   "CoverageView": [
     "rtracklayer",
     "GenomicAlignments"
@@ -569,7 +567,6 @@
     "edgeR"
   ],
   "DEGreport": [
-    "ConsensusClusterPlus",
     "edgeR"
   ],
   "DEP": [
@@ -842,9 +839,7 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "FlowSOM": [
-    "ConsensusClusterPlus"
-  ],
+  "FlowSOM": [],
   "FuseSOM": [],
   "GA4GHclient": [
     "VariantAnnotation",
@@ -1365,8 +1360,7 @@
     "MetaboCoreUtils"
   ],
   "MetaCyto": [
-    "FlowSOM",
-    "ConsensusClusterPlus"
+    "FlowSOM"
   ],
   "MetaPhOR": [
     "clusterProfiler",
@@ -1511,7 +1505,6 @@
     "Spectra",
     "MetaboCoreUtils"
   ],
-  "MultiBaC": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",
@@ -1608,7 +1601,6 @@
   ],
   "PCAtools": [],
   "PDATK": [
-    "ConsensusClusterPlus",
     "genefu"
   ],
   "PECA": [
@@ -2206,8 +2198,7 @@
     "treekoR",
     "diffcyt",
     "edgeR",
-    "FlowSOM",
-    "ConsensusClusterPlus"
+    "FlowSOM"
   ],
   "Streamer": [],
   "StructuralVariantAnnotation": [
@@ -2456,7 +2447,6 @@
   "adductomicsR": [
     "ExperimentHub"
   ],
-  "adverSCarial": [],
   "affyContam": [],
   "affycoretools": [
     "GOstats",
@@ -2786,8 +2776,7 @@
   "censcyt": [
     "diffcyt",
     "edgeR",
-    "FlowSOM",
-    "ConsensusClusterPlus"
+    "FlowSOM"
   ],
   "cfDNAPro": [
     "GenomicAlignments",
@@ -3121,7 +3110,6 @@
   ],
   "cytofQC": [
     "CATALYST",
-    "ConsensusClusterPlus",
     "FlowSOM",
     "scater",
     "scuttle"
@@ -3243,8 +3231,7 @@
   ],
   "diffcyt": [
     "FlowSOM",
-    "edgeR",
-    "ConsensusClusterPlus"
+    "edgeR"
   ],
   "dinoR": [
     "edgeR"
@@ -3766,7 +3753,6 @@
   "isobar": [],
   "isomiRs": [
     "DEGreport",
-    "ConsensusClusterPlus",
     "edgeR"
   ],
   "iterativeBMAsurv": [],
@@ -4973,7 +4959,6 @@
   ],
   "spillR": [
     "CATALYST",
-    "ConsensusClusterPlus",
     "FlowSOM",
     "scater",
     "scuttle"
@@ -5152,14 +5137,12 @@
   "treeclimbR": [
     "edgeR",
     "diffcyt",
-    "FlowSOM",
-    "ConsensusClusterPlus"
+    "FlowSOM"
   ],
   "treekoR": [
     "diffcyt",
     "edgeR",
-    "FlowSOM",
-    "ConsensusClusterPlus"
+    "FlowSOM"
   ],
   "tricycle": [
     "scater",
