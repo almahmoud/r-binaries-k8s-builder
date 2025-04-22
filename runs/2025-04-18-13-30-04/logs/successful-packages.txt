@@ -1118,3 +1118,16 @@ screenCounter
 biomaRt
 frmaTools
 miRNAmeConverter
+Anaquin
+CardinalIO
+CytoPipeline
+DEGraph
+destiny
+esetVis
+flowGate
+gDRutils
+HTqPCR
+pepStat
+rfPred
+ssviz
+tracktables

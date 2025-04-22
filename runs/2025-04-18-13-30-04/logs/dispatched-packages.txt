@@ -1324,3 +1324,7 @@ oposSOM
 seq2pathway
 surfaltr
 terapadog
+Cardinal
+CytoMDS
+CytoPipelineGUI
+gDRcore

@@ -102,7 +102,6 @@
     "biovizBase"
   ],
   "AnVILPublish": [],
-  "Anaquin": [],
   "AnnotationHubData": [
     "GenomicFeatures",
     "rtracklayer",
@@ -427,10 +426,7 @@
     "CTdata",
     "ExperimentHub"
   ],
-  "Cardinal": [
-    "CardinalIO"
-  ],
-  "CardinalIO": [],
+  "Cardinal": [],
   "Category": [
     "GSEABase",
     "genefilter",
@@ -575,16 +571,11 @@
   "CrispRVariants": [
     "GenomicAlignments"
   ],
-  "CytoMDS": [
-    "CytoPipeline"
-  ],
+  "CytoMDS": [],
   "CytoML": [
     "openCyto"
   ],
-  "CytoPipeline": [],
-  "CytoPipelineGUI": [
-    "CytoPipeline"
-  ],
+  "CytoPipelineGUI": [],
   "DAMEfinder": [
     "GenomicAlignments",
     "VariantAnnotation",
@@ -603,7 +594,6 @@
   "DEFormats": [
     "edgeR"
   ],
-  "DEGraph": [],
   "DEGreport": [
     "ConsensusClusterPlus",
     "edgeR"
@@ -1091,7 +1081,6 @@
   "HTSFilter": [
     "edgeR"
   ],
-  "HTqPCR": [],
   "HarmonizR": [
     "sva",
     "genefilter",
@@ -3263,7 +3252,6 @@
     "GenomicAlignments"
   ],
   "dandelionR": [
-    "destiny",
     "miloR",
     "edgeR",
     "BiocSingular"
@@ -3352,7 +3340,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "destiny": [],
   "diffHic": [
     "BSgenome",
     "edgeR",
@@ -3580,7 +3567,6 @@
     "BiocSingular",
     "ExperimentHub"
   ],
-  "esetVis": [],
   "eudysbiome": [],
   "extraChIPs": [
     "csaw",
@@ -3639,7 +3625,6 @@
     "vsn"
   ],
   "flowCut": [],
-  "flowGate": [],
   "flowTrans": [],
   "flowVS": [],
   "funtooNorm": [
@@ -3651,14 +3636,11 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "gDRcore": [
-    "gDRutils"
-  ],
+  "gDRcore": [],
   "gDRstyle": [
     "BiocCheck",
     "biocViews"
   ],
-  "gDRutils": [],
   "gINTomics": [
     "edgeR",
     "GenomicFeatures",
@@ -4512,7 +4494,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "pepStat": [],
   "periodicDNA": [
     "BSgenome",
     "rtracklayer",
@@ -4777,7 +4758,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "rfPred": [],
   "rgsepd": [
     "goseq",
     "rtracklayer",
@@ -5225,7 +5205,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ssviz": [],
   "standR": [
     "edgeR",
     "RUVSeq",
@@ -5344,7 +5323,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tracktables": [],
   "tradeSeq": [
     "edgeR"
   ],
