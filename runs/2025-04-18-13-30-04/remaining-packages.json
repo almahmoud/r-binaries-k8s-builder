@@ -47,7 +47,6 @@
     "ggbio"
   ],
   "GenomicPlot": [],
-  "HelloRanges": [],
   "HiCDCPlus": [
     "GenomicInteractions"
   ],
@@ -72,9 +71,7 @@
   ],
   "MungeSumstats": [],
   "OGRE": [],
-  "OMICsPCA": [
-    "HelloRanges"
-  ],
+  "OMICsPCA": [],
   "ProteoDisco": [],
   "Pviz": [],
   "QuasR": [],
@@ -112,7 +109,6 @@
     "recount",
     "derfinder"
   ],
-  "Rqc": [],
   "SPLINTER": [],
   "SingleMoleculeFootprinting": [
     "QuasR"
@@ -125,7 +121,6 @@
   "TFutils": [],
   "TVTB": [],
   "UPDhmm": [],
-  "VCFArray": [],
   "VariantFiltering": [],
   "YAPSA": [
     "SomaticSignatures",
@@ -233,7 +228,6 @@
     "ggbio"
   ],
   "nullranges": [],
-  "preciseTAD": [],
   "primirTSS": [],
   "psichomics": [
     "recount",

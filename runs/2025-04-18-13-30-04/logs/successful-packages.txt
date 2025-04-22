@@ -2012,3 +2012,7 @@ Rhisat2
 conumee
 Gviz
 methylCC
+HelloRanges
+preciseTAD
+Rqc
+VCFArray
