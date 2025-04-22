@@ -1692,3 +1692,9 @@ signatureSearch
 BASiCS
 BatchQC
 GmicR
+categoryCompare
+Cepo
+Dino
+MMUPHin
+SingleCellSignalR
+spicyR
