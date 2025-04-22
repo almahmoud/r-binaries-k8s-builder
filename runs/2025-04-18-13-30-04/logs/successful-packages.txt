@@ -1934,3 +1934,6 @@ chevreulProcess
 DegNorm
 gwasurvivr
 quantro
+GA4GHshiny
+scanMiRApp
+shinyMethyl
