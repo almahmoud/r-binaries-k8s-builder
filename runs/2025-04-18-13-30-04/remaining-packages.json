@@ -628,9 +628,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "MGnifyR": [
-    "mia"
-  ],
+  "MGnifyR": [],
   "MIRA": [
     "bsseq",
     "BSgenome",
@@ -1237,7 +1235,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "a4": [],
   "affycoretools": [
     "GOstats",
     "ReportingTools",
@@ -1597,9 +1594,7 @@
   "dandelionR": [
     "miloR"
   ],
-  "dar": [
-    "mia"
-  ],
+  "dar": [],
   "debrowser": [],
   "decompTumor2Sig": [
     "GenomicFeatures",
@@ -1898,8 +1893,7 @@
     "txdbmaker"
   ],
   "iSEEtree": [
-    "miaViz",
-    "mia"
+    "miaViz"
   ],
   "icetea": [
     "GenomicFeatures",
@@ -1932,9 +1926,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "lefser": [
-    "mia"
-  ],
+  "lefser": [],
   "lineagespot": [
     "VariantAnnotation",
     "rtracklayer",
@@ -2070,15 +2062,11 @@
     "BicARE"
   ],
   "miRspongeR": [],
-  "mia": [],
   "miaDash": [
     "iSEEtree",
-    "mia",
     "miaViz"
   ],
-  "miaViz": [
-    "mia"
-  ],
+  "miaViz": [],
   "miloR": [],
   "minfi": [
     "bumphunter",

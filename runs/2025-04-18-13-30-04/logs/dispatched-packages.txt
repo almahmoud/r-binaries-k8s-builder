@@ -1706,3 +1706,7 @@ signatureSearch
 Pigengene
 miRspongeR
 DifferentialRegulation
+MGnifyR
+dar
+lefser
+miaViz
