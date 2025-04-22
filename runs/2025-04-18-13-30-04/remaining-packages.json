@@ -286,7 +286,6 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "CARDspa": [],
   "CATALYST": [
     "scater",
     "scuttle"
@@ -1219,7 +1218,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "MSstatsShiny": [],
   "Maaslin2": [
     "edgeR"
   ],
@@ -3132,7 +3130,6 @@
     "GSVA",
     "ExperimentHub"
   ],
-  "eudysbiome": [],
   "extraChIPs": [
     "csaw",
     "edgeR",
