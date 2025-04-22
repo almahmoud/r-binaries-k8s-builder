@@ -519,7 +519,6 @@
     "ensembldb"
   ],
   "SARC": [],
-  "SCANVIS": [],
   "SCOPE": [],
   "SGSeq": [],
   "SMITE": [
@@ -1083,7 +1082,6 @@
     "minfi",
     "bumphunter"
   ],
-  "mist": [],
   "mitoClone2": [
     "deepSNV",
     "VariantAnnotation"
@@ -1261,7 +1259,6 @@
   "seqCAT": [
     "VariantAnnotation"
   ],
-  "sevenC": [],
   "shinyDSP": [
     "standR",
     "RUVSeq",
