@@ -1344,3 +1344,7 @@ lemur
 PLSDAbatch
 PREDA
 terapadog
+BiocPkgTools
+genefilter
+MsBackendMetaboLights
+RbcBook1

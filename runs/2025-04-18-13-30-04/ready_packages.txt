@@ -1,0 +1,16 @@
+CNTools
+ClassifyR
+GeneMeta
+MLInterfaces
+NBAMSeq
+PECA
+a4Base
+annmap
+arrayQualityMetrics
+countsimQC
+covRNA
+protGear
+spatialHeatmap
+sva
+tilingArray
+zinbwave
