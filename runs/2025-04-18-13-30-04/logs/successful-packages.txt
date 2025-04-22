@@ -1095,3 +1095,13 @@ survClust
 ddPCRclust
 gcrma
 plier
+animalcules
+combi
+igvShiny
+MetaboDynamics
+mitology
+MSstatsTMT
+qmtools
+ReUseData
+Rsamtools
+scider
