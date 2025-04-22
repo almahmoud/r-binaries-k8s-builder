@@ -1634,3 +1634,6 @@ gsean
 MIRit
 Pigengene
 TCseq
+BicARE
+censcyt
+rtracklayer
