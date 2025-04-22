@@ -1,6 +1,9 @@
-ASICS
-MultiBaC
-biosigner
-lipidr
-phenomis
-rqt
+COTAN
+CytoML
+DelayedTensor
+NewWave
+PCAtools
+ReactomeGSA
+SCArray
+StabMap
+scry
