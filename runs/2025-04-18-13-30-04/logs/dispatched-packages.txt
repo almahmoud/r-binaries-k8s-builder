@@ -1598,3 +1598,8 @@ xcms
 MSstatsQCgui
 msmsTests
 CCPROMISE
+CAMERA
+cliqueMS
+cosmiq
+ncGTW
+squallms

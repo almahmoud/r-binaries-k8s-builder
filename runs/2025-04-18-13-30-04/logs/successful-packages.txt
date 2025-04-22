@@ -1453,3 +1453,10 @@ MDTS
 omXplore
 PROMISE
 ptairMS
+BioCor
+CluMSID
+qPLEXanalyzer
+RMassBank
+TMSig
+topdownr
+xcms

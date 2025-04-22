@@ -144,7 +144,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "BioCor": [],
   "BioNERO": [
     "sva"
   ],
@@ -193,9 +192,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "CAMERA": [
-    "xcms"
-  ],
+  "CAMERA": [],
   "CATALYST": [],
   "CBNplot": [
     "clusterProfiler",
@@ -316,7 +313,6 @@
     "GenomicFeatures",
     "sva"
   ],
-  "CluMSID": [],
   "Cogito": [
     "GenomicFeatures",
     "rtracklayer"
@@ -677,7 +673,6 @@
     "ShortRead"
   ],
   "IPO": [
-    "xcms",
     "CAMERA"
   ],
   "IVAS": [
@@ -722,8 +717,7 @@
   "LACE": [],
   "M3Drop": [],
   "MAIT": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "MBECS": [
     "sva"
@@ -1062,7 +1056,6 @@
     "consensusSeekeR",
     "rtracklayer"
   ],
-  "RMassBank": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -1392,7 +1385,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "TMSig": [],
   "TOP": [
     "ClassifyR"
   ],
@@ -1783,9 +1775,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "cliqueMS": [
-    "xcms"
-  ],
+  "cliqueMS": [],
   "clustSIGNAL": [],
   "clusterExperiment": [
     "zinbwave"
@@ -1838,9 +1828,7 @@
   "coseq": [
     "HTSFilter"
   ],
-  "cosmiq": [
-    "xcms"
-  ],
+  "cosmiq": [],
   "cosmosR": [],
   "countsimQC": [],
   "covRNA": [],
@@ -2170,7 +2158,6 @@
     "bumphunter"
   ],
   "flagme": [
-    "xcms",
     "CAMERA"
   ],
   "funtooNorm": [
@@ -2407,8 +2394,7 @@
     "Category"
   ],
   "metaMS": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "metagene2": [
     "rtracklayer"
@@ -2602,9 +2588,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "ncGTW": [
-    "xcms"
-  ],
+  "ncGTW": [],
   "nearBynding": [
     "plyranges",
     "rtracklayer",
@@ -2740,7 +2724,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "qPLEXanalyzer": [],
   "qpgraph": [
     "GenomicFeatures",
     "rtracklayer"
@@ -3067,9 +3050,7 @@
   ],
   "splatter": [],
   "splineTimeR": [],
-  "squallms": [
-    "xcms"
-  ],
+  "squallms": [],
   "srnadiff": [
     "rtracklayer",
     "GenomicFeatures",
@@ -3144,7 +3125,6 @@
     "rtracklayer"
   ],
   "tilingArray": [],
-  "topdownr": [],
   "trackViewer": [
     "GenomicFeatures",
     "Gviz",
@@ -3225,7 +3205,6 @@
   "xCell2": [
     "singscore"
   ],
-  "xcms": [],
   "xcore": [],
   "yarn": [
     "quantro",
