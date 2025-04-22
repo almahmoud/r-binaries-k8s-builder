@@ -1385,3 +1385,8 @@ methylMnM
 NewWave
 receptLoss
 StabMap
+CellNOptR
+erccdashboard
+ExperimentHub
+SBGNview
+transformGamPoi
