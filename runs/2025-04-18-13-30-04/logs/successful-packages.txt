@@ -1759,3 +1759,7 @@ seqsetvis
 mist
 SCANVIS
 sevenC
+ADaCGH2
+mobileRNA
+recount3
+rmspc

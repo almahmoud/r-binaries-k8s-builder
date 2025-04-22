@@ -1,5 +1,4 @@
 {
-  "ADaCGH2": [],
   "AHMassBank": [
     "AnnotationHubData",
     "OrganismDbi",
@@ -1086,7 +1085,6 @@
     "deepSNV",
     "VariantAnnotation"
   ],
-  "mobileRNA": [],
   "monaLisa": [
     "TFBSTools"
   ],
@@ -1178,7 +1176,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "recount3": [],
   "recountmethylation": [
     "minfi",
     "bumphunter"
@@ -1209,7 +1206,6 @@
     "txdbmaker",
     "TFBSTools"
   ],
-  "rmspc": [],
   "rnaEditr": [
     "bumphunter"
   ],
