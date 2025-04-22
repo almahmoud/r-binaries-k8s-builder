@@ -2004,3 +2004,8 @@ ribosomeProfilingQC
 cpvSNP
 ENmix
 proActiv
+APAlyzer
+cBioPortalData
+MethylAid
+methylSig
+Rhisat2

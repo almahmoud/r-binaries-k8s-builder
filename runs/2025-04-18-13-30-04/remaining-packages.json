@@ -2,7 +2,6 @@
   "AHMassBank": [
     "AnnotationHubData"
   ],
-  "APAlyzer": [],
   "ASpli": [
     "Gviz"
   ],
@@ -35,9 +34,7 @@
   "COCOA": [],
   "ChIPQC": [],
   "ChIPexoQual": [],
-  "CircSeqAlignTk": [
-    "Rhisat2"
-  ],
+  "CircSeqAlignTk": [],
   "DAMEfinder": [],
   "Damsel": [
     "ggbio"
@@ -86,7 +83,6 @@
     "methylumi",
     "lumi"
   ],
-  "MethylAid": [],
   "MineICA": [
     "lumi",
     "methylumi"
@@ -132,7 +128,6 @@
   "ReportingTools": [
     "ggbio"
   ],
-  "Rhisat2": [],
   "RiboProfiling": [
     "ggbio"
   ],
@@ -183,23 +178,16 @@
     "methylumi",
     "lumi"
   ],
-  "bioCancer": [
-    "cBioPortalData"
-  ],
+  "bioCancer": [],
   "biomvRCNS": [
     "Gviz"
   ],
   "bnem": [],
-  "cBioPortalData": [],
   "cageminer": [
     "ggbio"
   ],
-  "canceR": [
-    "cBioPortalData"
-  ],
-  "cbaf": [
-    "cBioPortalData"
-  ],
+  "canceR": [],
+  "cbaf": [],
   "chevreulPlot": [],
   "chevreulShiny": [
     "chevreulPlot"
@@ -286,7 +274,6 @@
   "methylPipe": [
     "Gviz"
   ],
-  "methylSig": [],
   "methylclock": [
     "ExperimentHubData",
     "AnnotationHubData"

@@ -2062,3 +2062,7 @@ TFHAZ
 shinyDSP
 cBioPortalData
 RESOLVE
+CircSeqAlignTk
+bioCancer
+canceR
+cbaf
