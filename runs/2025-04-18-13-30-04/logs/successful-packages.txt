@@ -1136,3 +1136,12 @@ GOexpress
 ipdDb
 maPredictDSC
 TreeSummarizedExperiment
+AnVILPublish
+apComplex
+Cardinal
+ccmap
+CHRONOS
+h5vc
+mslp
+netboost
+SimBu

@@ -101,7 +101,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "AnVILPublish": [],
   "AnnotationHubData": [
     "GenomicFeatures",
     "rtracklayer",
@@ -360,7 +359,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "CHRONOS": [],
   "CNORdt": [
     "CellNOptR"
   ],
@@ -426,7 +424,6 @@
     "CTdata",
     "ExperimentHub"
   ],
-  "Cardinal": [],
   "Category": [
     "GSEABase",
     "genefilter",
@@ -2207,7 +2204,6 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "SimBu": [],
   "SimFFPE": [],
   "SingleCellSignalR": [
     "edgeR",
@@ -2594,7 +2590,6 @@
   "anota2seq": [
     "edgeR"
   ],
-  "apComplex": [],
   "appreci8R": [
     "VariantAnnotation",
     "BSgenome",
@@ -2865,7 +2860,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "ccmap": [],
   "celda": [
     "scater",
     "scran",
@@ -3752,7 +3746,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "h5vc": [],
   "hapFabia": [],
   "hdxmsqc": [
     "Spectra",
@@ -4274,7 +4267,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "mslp": [],
   "msmsEDA": [
     "MSnbase",
     "PSMatch",
@@ -4357,7 +4349,6 @@
     "genefilter",
     "annotate"
   ],
-  "netboost": [],
   "nipalsMCIA": [],
   "npGSEA": [
     "GSEABase",
