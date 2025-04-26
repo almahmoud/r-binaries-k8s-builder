@@ -417,8 +417,7 @@
   "COTAN": [],
   "CPSM": [],
   "CRISPRball": [
-    "dittoSeq",
-    "PCAtools"
+    "dittoSeq"
   ],
   "CRISPRseek": [
     "GenomicFeatures",
@@ -797,7 +796,6 @@
     "scuttle",
     "edgeR"
   ],
-  "DiscoRhythm": [],
   "DominoEffect": [
     "VariantAnnotation",
     "rtracklayer",
@@ -1303,7 +1301,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "IgGeneUsage": [],
   "InPAS": [
     "BSgenome",
     "cleanUpdTSeq",
@@ -1334,7 +1331,6 @@
   ],
   "InteractionSet": [],
   "IntramiRExploreR": [],
-  "IsoBayes": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
     "sva",
@@ -1488,8 +1484,7 @@
   ],
   "MMUPHin": [
     "Maaslin2",
-    "edgeR",
-    "metagenomeSeq"
+    "edgeR"
   ],
   "MOFA2": [],
   "MOMA": [
@@ -1574,13 +1569,11 @@
     "marray"
   ],
   "Maaslin2": [
-    "edgeR",
-    "metagenomeSeq"
+    "edgeR"
   ],
   "Macarron": [
     "Maaslin2",
-    "edgeR",
-    "metagenomeSeq"
+    "edgeR"
   ],
   "MatrixQCvis": [
     "sva",
@@ -1702,7 +1695,6 @@
     "GenomicAlignments",
     "BSgenome"
   ],
-  "MouseFM": [],
   "MsExperiment": [
     "QFeatures",
     "MultiAssayExperiment"
@@ -1841,7 +1833,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "PCAtools": [],
   "PDATK": [
     "MultiAssayExperiment",
     "CoreGx",
@@ -2760,7 +2751,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "VegaMC": [],
   "VisiumIO": [
     "TENxIO",
     "SpatialExperiment"
@@ -4397,9 +4387,7 @@
     "GSEABase",
     "annotate"
   ],
-  "mbQTL": [
-    "metagenomeSeq"
-  ],
+  "mbQTL": [],
   "mbkmeans": [],
   "meshes": [
     "enrichplot"
@@ -4424,7 +4412,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "metagenomeSeq": [],
   "metaseqR2": [
     "DESeq2",
     "DSS",
@@ -4591,11 +4578,9 @@
     "phyloseq"
   ],
   "microbiomeDASim": [
-    "phyloseq",
-    "metagenomeSeq"
+    "phyloseq"
   ],
   "microbiomeExplorer": [
-    "metagenomeSeq",
     "DESeq2"
   ],
   "midasHLA": [
@@ -5200,9 +5185,7 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "regionalpcs": [
-    "PCAtools"
-  ],
+  "regionalpcs": [],
   "regsplice": [
     "edgeR"
   ],

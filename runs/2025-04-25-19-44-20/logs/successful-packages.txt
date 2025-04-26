@@ -993,3 +993,10 @@ LBE
 Linnorm
 MWASTools
 SingleCellExperiment
+DiscoRhythm
+IgGeneUsage
+IsoBayes
+metagenomeSeq
+MouseFM
+PCAtools
+VegaMC
