@@ -30,7 +30,6 @@
     "Gviz"
   ],
   "AnVILPublish": [],
-  "Anaquin": [],
   "AnnotationHubData": [
     "OrganismDbi"
   ],
@@ -340,9 +339,7 @@
   "MGnifyR": [
     "mia"
   ],
-  "MICSQTL": [
-    "TOAST"
-  ],
+  "MICSQTL": [],
   "MIRA": [
     "bsseq"
   ],
@@ -598,7 +595,6 @@
   "TFutils": [
     "GenomicFiles"
   ],
-  "TOAST": [],
   "TOP": [
     "ClassifyR"
   ],
@@ -840,9 +836,7 @@
     "Gviz"
   ],
   "cydar": [],
-  "cypress": [
-    "TOAST"
-  ],
+  "cypress": [],
   "cytofQC": [
     "CATALYST"
   ],
@@ -910,7 +904,6 @@
   "epiregulon": [
     "motifmatchr"
   ],
-  "epiregulon.extra": [],
   "epivizr": [
     "epivizrData",
     "OrganismDbi"
