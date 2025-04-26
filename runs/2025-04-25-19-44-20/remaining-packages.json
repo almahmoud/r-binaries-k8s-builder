@@ -222,9 +222,7 @@
     "methylumi",
     "lumi"
   ],
-  "MGnifyR": [
-    "mia"
-  ],
+  "MGnifyR": [],
   "MLInterfaces": [],
   "MOSClip": [],
   "MOSim": [],
@@ -560,9 +558,7 @@
   "dagLogo": [
     "motifStack"
   ],
-  "dar": [
-    "mia"
-  ],
+  "dar": [],
   "debrowser": [
     "sva"
   ],
@@ -654,8 +650,7 @@
     "iSEEu"
   ],
   "iSEEtree": [
-    "miaViz",
-    "mia"
+    "miaViz"
   ],
   "iSEEu": [],
   "icetea": [],
@@ -671,9 +666,7 @@
   "kissDE": [
     "DSS"
   ],
-  "lefser": [
-    "mia"
-  ],
+  "lefser": [],
   "lisaClust": [
     "spicyR",
     "simpleSeg",
@@ -688,7 +681,6 @@
     "Gviz"
   ],
   "maPredictDSC": [],
-  "mariner": [],
   "maser": [
     "Gviz"
   ],
@@ -729,16 +721,12 @@
     "GOstats"
   ],
   "miRSM": [],
-  "mia": [],
   "miaDash": [
     "iSEEtree",
-    "mia",
     "miaViz"
   ],
   "miaSim": [],
-  "miaViz": [
-    "mia"
-  ],
+  "miaViz": [],
   "microSTASIS": [],
   "mimager": [
     "oligo"
@@ -772,7 +760,6 @@
     "clusterExperiment"
   ],
   "nnSVG": [],
-  "nullranges": [],
   "octad": [
     "GSVA"
   ],
@@ -944,9 +931,7 @@
   ],
   "tenXplore": [],
   "tidySpatialExperiment": [],
-  "tidyomics": [
-    "nullranges"
-  ],
+  "tidyomics": [],
   "topdownr": [],
   "tpSVG": [],
   "trackViewer": [
