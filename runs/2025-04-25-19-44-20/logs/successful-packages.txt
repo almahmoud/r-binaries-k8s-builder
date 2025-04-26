@@ -1373,3 +1373,6 @@ qusage
 sparrow
 tidySingleCellExperiment
 TrajectoryUtils
+phyloseq
+ProteoMM
+scDiagnostics

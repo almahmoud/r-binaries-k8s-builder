@@ -7,9 +7,7 @@
   "ADAMgui": [
     "ADAM"
   ],
-  "ADAPT": [
-    "phyloseq"
-  ],
+  "ADAPT": [],
   "ADImpute": [],
   "ADaCGH2": [
     "tilingArray"
@@ -566,7 +564,6 @@
     "PSMatch"
   ],
   "MBECS": [
-    "phyloseq",
     "sva"
   ],
   "MEAL": [
@@ -763,9 +760,7 @@
   "PanomiR": [
     "clusterProfiler"
   ],
-  "PathoStat": [
-    "phyloseq"
-  ],
+  "PathoStat": [],
   "Pigengene": [
     "clusterProfiler"
   ],
@@ -781,7 +776,6 @@
   "ProteoDisco": [
     "VariantAnnotation"
   ],
-  "ProteoMM": [],
   "PureCN": [
     "VariantAnnotation"
   ],
@@ -818,9 +812,7 @@
     "txdbmaker",
     "genomation"
   ],
-  "RCM": [
-    "phyloseq"
-  ],
+  "RCM": [],
   "RCSL": [],
   "REMP": [
     "minfi",
@@ -880,9 +872,7 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RPA": [
-    "phyloseq"
-  ],
+  "RPA": [],
   "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils"
@@ -972,9 +962,7 @@
     "Category"
   ],
   "SGSeq": [],
-  "SIAMCAT": [
-    "phyloseq"
-  ],
+  "SIAMCAT": [],
   "SIM": [
     "globaltest"
   ],
@@ -995,9 +983,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SPsimSeq": [
-    "phyloseq"
-  ],
+  "SPsimSeq": [],
   "SVP": [
     "SpatialExperiment"
   ],
@@ -1010,9 +996,7 @@
   "SigsPack": [
     "VariantAnnotation"
   ],
-  "SimBu": [
-    "phyloseq"
-  ],
+  "SimBu": [],
   "SingleCellSignalR": [],
   "SingleMoleculeFootprinting": [
     "QuasR",
@@ -1056,8 +1040,7 @@
     "VariantAnnotation"
   ],
   "SurfR": [
-    "SPsimSeq",
-    "phyloseq"
+    "SPsimSeq"
   ],
   "TAPseq": [],
   "TBSignatureProfiler": [
@@ -1392,9 +1375,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "combi": [
-    "phyloseq"
-  ],
+  "combi": [],
   "concordexR": [
     "SpatialExperiment"
   ],
@@ -1498,8 +1479,7 @@
   ],
   "dandelionR": [],
   "dar": [
-    "mia",
-    "phyloseq"
+    "mia"
   ],
   "debrowser": [
     "clusterProfiler",
@@ -1929,12 +1909,8 @@
     "mia"
   ],
   "microSTASIS": [],
-  "microbiome": [
-    "phyloseq"
-  ],
-  "microbiomeDASim": [
-    "phyloseq"
-  ],
+  "microbiome": [],
+  "microbiomeDASim": [],
   "mimager": [
     "affyPLM",
     "oligo",
@@ -2089,7 +2065,6 @@
   "phenomis": [
     "ropls"
   ],
-  "phyloseq": [],
   "pipeComp": [],
   "pipeFrame": [],
   "plotgardener": [],
@@ -2100,8 +2075,7 @@
   ],
   "pogos": [],
   "prebs": [
-    "RPA",
-    "phyloseq"
+    "RPA"
   ],
   "preciseTAD": [
     "rCGH"
@@ -2163,9 +2137,7 @@
   "rGREAT": [],
   "rTRMui": [],
   "raer": [],
-  "reconsi": [
-    "phyloseq"
-  ],
+  "reconsi": [],
   "recount": [
     "derfinder",
     "GEOquery",
@@ -2232,7 +2204,6 @@
   "scClassify": [],
   "scDD": [],
   "scDblFinder": [],
-  "scDiagnostics": [],
   "scDotPlot": [],
   "scFeatures": [
     "GSVA",
@@ -2526,7 +2497,5 @@
   "zellkonverter": [],
   "zenith": [],
   "zinbwave": [],
-  "zitools": [
-    "phyloseq"
-  ]
+  "zitools": []
 }
