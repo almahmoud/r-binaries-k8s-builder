@@ -1390,7 +1390,6 @@
     "annotate",
     "BSgenome"
   ],
-  "InterCellar": [],
   "InteractionSet": [],
   "IntramiRExploreR": [],
   "IsoBayes": [],
@@ -1997,13 +1996,11 @@
     "edgeR"
   ],
   "PhosR": [],
-  "PhyloProfile": [],
   "Pigengene": [
     "clusterProfiler",
     "ReactomePA",
     "enrichplot"
   ],
-  "Pirat": [],
   "PolySTest": [],
   "PrInCE": [
     "MSnbase",
@@ -4194,7 +4191,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "gatom": [],
   "gcapc": [
     "BSgenome",
     "GenomicAlignments",
@@ -4429,7 +4425,6 @@
     "iSEEhex",
     "SingleCellExperiment"
   ],
-  "iasva": [],
   "ibh": [],
   "icetea": [
     "GenomicFeatures",
@@ -5340,7 +5335,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "qpcrNorm": [],
   "qpgraph": [
     "annotate",
     "GenomicFeatures",
@@ -6159,10 +6153,8 @@
     "tidySingleCellExperiment",
     "SingleCellExperiment"
   ],
-  "tidybulk": [],
   "tidyomics": [
     "tidySingleCellExperiment",
-    "tidybulk",
     "plyranges",
     "nullranges",
     "InteractionSet",

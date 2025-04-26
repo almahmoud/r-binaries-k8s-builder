@@ -972,3 +972,10 @@ made4
 orthos
 sesame
 Wrench
+gatom
+iasva
+InterCellar
+PhyloProfile
+Pirat
+qpcrNorm
+tidybulk
