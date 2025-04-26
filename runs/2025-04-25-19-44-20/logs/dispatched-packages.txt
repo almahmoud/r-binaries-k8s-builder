@@ -946,3 +946,4 @@ roastgsa
 unifiedWMWqPCR
 variancePartition
 vsn
+fastLiquidAssociation

@@ -471,7 +471,6 @@
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
-  "CARNIVAL": [],
   "CATALYST": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -1295,7 +1294,6 @@
     "SummarizedExperiment",
     "fgsea"
   ],
-  "EpiDISH": [],
   "EpiMix": [
     "biomaRt",
     "ExperimentHub",
@@ -1506,7 +1504,6 @@
   "GRmetrics": [
     "SummarizedExperiment"
   ],
-  "GSCA": [],
   "GSEABase": [
     "annotate"
   ],
@@ -1644,7 +1641,6 @@
     "SummarizedExperiment"
   ],
   "GeoTcgaData": [
-    "topconfects",
     "SummarizedExperiment"
   ],
   "Glimma": [
@@ -1951,7 +1947,6 @@
     "SummarizedExperiment"
   ],
   "Linnorm": [],
-  "LiquidAssociation": [],
   "LoomExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -2087,8 +2082,7 @@
   ],
   "MICSQTL": [
     "SummarizedExperiment",
-    "TOAST",
-    "EpiDISH"
+    "TOAST"
   ],
   "MIRA": [
     "bsseq",
@@ -2277,7 +2271,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "MeSHDbi": [],
   "MesKit": [],
   "MetCirc": [],
   "MetNet": [
@@ -3806,7 +3799,6 @@
     "annotate"
   ],
   "TOAST": [
-    "EpiDISH",
     "SummarizedExperiment"
   ],
   "TOP": [
@@ -4992,7 +4984,6 @@
     "MultiAssayExperiment"
   ],
   "cosmosR": [
-    "CARNIVAL",
     "GSEABase",
     "annotate"
   ],
@@ -5145,8 +5136,7 @@
     "SummarizedExperiment",
     "PROPER",
     "edgeR",
-    "DESeq2",
-    "EpiDISH"
+    "DESeq2"
   ],
   "cytoKernel": [
     "SummarizedExperiment"
@@ -5673,9 +5663,7 @@
     "GOSemSim",
     "fgsea"
   ],
-  "fastLiquidAssociation": [
-    "LiquidAssociation"
-  ],
+  "fastLiquidAssociation": [],
   "fcScan": [
     "VariantAnnotation",
     "SummarizedExperiment",
@@ -6403,11 +6391,9 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "MeSHDbi",
     "fgsea"
   ],
   "meshr": [
-    "MeSHDbi",
     "Category",
     "GSEABase",
     "genefilter",
@@ -7169,7 +7155,6 @@
   "pairkat": [
     "SummarizedExperiment"
   ],
-  "parglms": [],
   "parody": [],
   "partCNV": [
     "SingleCellExperiment",
@@ -8636,7 +8621,6 @@
   "tomoda": [
     "SummarizedExperiment"
   ],
-  "topconfects": [],
   "topdownr": [
     "MSnbase",
     "PSMatch",
@@ -8847,8 +8831,7 @@
   ],
   "weitrix": [
     "SummarizedExperiment",
-    "DelayedMatrixStats",
-    "topconfects"
+    "DelayedMatrixStats"
   ],
   "wiggleplotr": [
     "rtracklayer",
