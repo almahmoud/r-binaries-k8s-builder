@@ -1595,3 +1595,6 @@ alabaster.bumpy
 dyebias
 FRASER
 goSorensen
+gINTomics
+miRspongeR
+NBAMSeq

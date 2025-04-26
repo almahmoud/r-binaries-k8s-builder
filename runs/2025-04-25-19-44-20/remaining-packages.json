@@ -402,7 +402,6 @@
     "MsExperiment"
   ],
   "MungeSumstats": [],
-  "NBAMSeq": [],
   "NanoMethViz": [
     "bsseq"
   ],
@@ -963,7 +962,6 @@
     "minfi",
     "GEOquery"
   ],
-  "gINTomics": [],
   "gcatest": [],
   "geomeTriD": [
     "trackViewer",
@@ -1131,7 +1129,6 @@
     "GOstats"
   ],
   "miRSM": [],
-  "miRspongeR": [],
   "mia": [],
   "miaDash": [
     "iSEE",
