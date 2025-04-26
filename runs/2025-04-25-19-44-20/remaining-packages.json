@@ -194,7 +194,6 @@
     "OrganismDbi"
   ],
   "FastqCleaner": [],
-  "FindIT2": [],
   "GA4GHshiny": [],
   "GARS": [
     "DaMiRseq",
@@ -320,8 +319,7 @@
     "minfi"
   ],
   "MinimumDistance": [
-    "VanillaICE",
-    "crlmm"
+    "VanillaICE"
   ],
   "MoleculeExperiment": [
     "SpatialExperiment"
@@ -340,7 +338,6 @@
   "PAA": [
     "sva"
   ],
-  "PECA": [],
   "POMA": [
     "sva"
   ],
@@ -519,9 +516,7 @@
     "ballgown",
     "sva"
   ],
-  "VanillaICE": [
-    "crlmm"
-  ],
+  "VanillaICE": [],
   "VariantFiltering": [
     "Gviz"
   ],
@@ -659,7 +654,6 @@
   "chimeraviz": [
     "Gviz"
   ],
-  "chromVAR": [],
   "cicero": [
     "Gviz"
   ],
@@ -708,7 +702,6 @@
   "crisprViz": [
     "Gviz"
   ],
-  "crlmm": [],
   "cummeRbund": [
     "Gviz"
   ],
@@ -887,7 +880,6 @@
     "OrganismDbi"
   ],
   "maPredictDSC": [],
-  "magpie": [],
   "mariner": [],
   "maser": [
     "Gviz"

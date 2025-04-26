@@ -1682,3 +1682,8 @@ spiky
 ssviz
 HelloRanges
 RESOLVE
+chromVAR
+crlmm
+FindIT2
+magpie
+PECA
