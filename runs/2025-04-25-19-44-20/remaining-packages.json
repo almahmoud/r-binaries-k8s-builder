@@ -320,7 +320,6 @@
   "ClusterFoldSimilarity": [],
   "CoSIA": [],
   "Cogito": [],
-  "CoreGx": [],
   "CuratedAtlasQueryR": [],
   "CytoMDS": [
     "CytoPipeline"
@@ -882,9 +881,7 @@
     "sva",
     "genefilter"
   ],
-  "PDATK": [
-    "CoreGx"
-  ],
+  "PDATK": [],
   "PECA": [
     "genefilter"
   ],
@@ -1047,9 +1044,7 @@
   "RUVSeq": [
     "EDASeq"
   ],
-  "RadioGx": [
-    "CoreGx"
-  ],
+  "RadioGx": [],
   "RareVariantVis": [
     "VariantAnnotation"
   ],
@@ -1288,9 +1283,7 @@
   "TissueEnrich": [
     "GSEABase"
   ],
-  "ToxicoGx": [
-    "CoreGx"
-  ],
+  "ToxicoGx": [],
   "TrajectoryUtils": [],
   "TurboNorm": [
     "convert"

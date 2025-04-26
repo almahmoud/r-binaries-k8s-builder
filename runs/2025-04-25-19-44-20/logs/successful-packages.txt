@@ -1292,3 +1292,4 @@ projectR
 scrapper
 TREG
 trio
+CoreGx
