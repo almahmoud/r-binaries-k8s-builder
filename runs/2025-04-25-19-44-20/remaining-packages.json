@@ -697,9 +697,7 @@
   "BiFET": [
     "GenomicRanges"
   ],
-  "BiGGR": [
-    "hyperdraw"
-  ],
+  "BiGGR": [],
   "BiSeq": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -985,7 +983,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "vsn",
@@ -1065,7 +1062,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "CCPlotR": [],
   "CDI": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -1383,7 +1379,6 @@
     "MatrixGenerics",
     "SparseArray"
   ],
-  "CellMapper": [],
   "CellMixS": [
     "BiocNeighbors",
     "scater",
@@ -1725,7 +1720,6 @@
     "pcaMethods",
     "affyio",
     "preprocessCore",
-    "Spectra",
     "QFeatures",
     "limma",
     "MultiAssayExperiment",
@@ -1786,7 +1780,6 @@
   ],
   "CompoundDb": [
     "AnnotationFilter",
-    "Spectra",
     "GenomicRanges"
   ],
   "ConsensusClusterPlus": [],
@@ -1913,7 +1906,6 @@
     "pcaMethods",
     "affyio",
     "preprocessCore",
-    "Spectra",
     "QFeatures",
     "limma",
     "MultiAssayExperiment",
@@ -1938,7 +1930,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "DEGraph": [],
   "DEGreport": [
     "ConsensusClusterPlus",
     "DESeq2",
@@ -1976,7 +1967,6 @@
     "affyio",
     "preprocessCore",
     "SparseArray",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "AnnotationFilter"
@@ -2041,7 +2031,6 @@
     "SparseArray"
   ],
   "DFP": [],
-  "DFplyr": [],
   "DMCFB": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -2634,7 +2623,6 @@
     "Biostrings"
   ],
   "EmpiricalBrownsMethod": [],
-  "EnMCB": [],
   "EnhancedVolcano": [],
   "EnrichDO": [
     "clusterProfiler",
@@ -3904,7 +3892,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "vsn",
@@ -4232,7 +4219,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "vsn",
@@ -4417,7 +4403,6 @@
   "MEDME": [
     "Biostrings"
   ],
-  "MEIGOR": [],
   "MGFM": [
     "AnnotationDbi",
     "annotate",
@@ -4681,7 +4666,6 @@
     "affyio",
     "preprocessCore",
     "limma",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -4698,7 +4682,6 @@
     "pcaMethods",
     "affyio",
     "preprocessCore",
-    "Spectra",
     "QFeatures",
     "limma",
     "MultiAssayExperiment",
@@ -4748,7 +4731,6 @@
     "pcaMethods",
     "affyio",
     "preprocessCore",
-    "Spectra",
     "QFeatures",
     "limma",
     "MultiAssayExperiment",
@@ -4768,7 +4750,6 @@
     "pcaMethods",
     "affyio",
     "preprocessCore",
-    "Spectra",
     "QFeatures",
     "limma",
     "MultiAssayExperiment",
@@ -4829,7 +4810,6 @@
     "Wrench",
     "Biostrings"
   ],
-  "MantelCorr": [],
   "MassArray": [],
   "MassSpecWavelet": [],
   "MatrixGenerics": [],
@@ -4886,9 +4866,7 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "MetCirc": [
-    "Spectra"
-  ],
+  "MetCirc": [],
   "MetNet": [
     "SummarizedExperiment",
     "GENIE3",
@@ -4921,7 +4899,6 @@
     "Biostrings"
   ],
   "MetaboAnnotation": [
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "AnnotationHub",
@@ -5233,25 +5210,14 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "MsBackendMassbank": [
-    "Spectra"
-  ],
-  "MsBackendMetaboLights": [
-    "Spectra"
-  ],
-  "MsBackendMgf": [
-    "Spectra"
-  ],
-  "MsBackendMsp": [
-    "Spectra"
-  ],
+  "MsBackendMassbank": [],
+  "MsBackendMetaboLights": [],
+  "MsBackendMgf": [],
+  "MsBackendMsp": [],
   "MsBackendRawFileReader": [
-    "Spectra",
     "rawrr"
   ],
-  "MsBackendSql": [
-    "Spectra"
-  ],
+  "MsBackendSql": [],
   "MsDataHub": [
     "ExperimentHub",
     "AnnotationHub",
@@ -5260,7 +5226,6 @@
     "Biostrings"
   ],
   "MsExperiment": [
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "MultiAssayExperiment",
@@ -5279,7 +5244,6 @@
   ],
   "MsQuality": [
     "MsExperiment",
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "MultiAssayExperiment",
@@ -5605,7 +5569,6 @@
   "OmicCircos": [
     "GenomicRanges"
   ],
-  "OmicsMLRepoR": [],
   "Omixer": [],
   "OmnipathR": [],
   "OncoScore": [
@@ -5844,7 +5807,6 @@
     "DelayedArray",
     "affyio",
     "SparseArray",
-    "Spectra",
     "QFeatures",
     "genefilter",
     "AnnotationDbi",
@@ -5870,7 +5832,6 @@
     "Biostrings"
   ],
   "PSMatch": [
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -5999,7 +5960,6 @@
     "pcaMethods",
     "affyio",
     "preprocessCore",
-    "Spectra",
     "QFeatures",
     "limma",
     "MultiAssayExperiment",
@@ -6019,7 +5979,6 @@
     "pcaMethods",
     "affyio",
     "preprocessCore",
-    "Spectra",
     "QFeatures",
     "limma",
     "MultiAssayExperiment",
@@ -6357,7 +6316,6 @@
     "pcaMethods",
     "affyio",
     "preprocessCore",
-    "Spectra",
     "QFeatures",
     "limma",
     "MultiAssayExperiment",
@@ -7202,7 +7160,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "SIMAT": [],
   "SIMD": [
     "edgeR",
     "methylMnM",
@@ -7701,10 +7658,7 @@
     "h5mread",
     "rhdf5filters"
   ],
-  "Spectra": [],
-  "SpectraQL": [
-    "Spectra"
-  ],
+  "SpectraQL": [],
   "SpectralTAD": [
     "HiCcompare",
     "GenomicRanges",
@@ -9299,7 +9253,6 @@
     "annotate",
     "genefilter",
     "SummarizedExperiment",
-    "Spectra",
     "QFeatures",
     "limma",
     "KEGGREST",
@@ -10284,7 +10237,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "affyio",
     "preprocessCore",
     "QFeatures",
@@ -10611,7 +10563,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "vsn",
@@ -12019,7 +11970,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "fedup": [],
   "fenr": [],
   "ffpe": [
     "affy",
@@ -12080,7 +12030,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "vsn",
@@ -12709,7 +12658,6 @@
   "hca": [],
   "hdxmsqc": [
     "QFeatures",
-    "Spectra",
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
@@ -12815,7 +12763,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "hyperdraw": [],
   "iASeq": [],
   "iBBiG": [],
   "iBMQ": [],
@@ -13653,7 +13600,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "vsn",
@@ -14550,7 +14496,6 @@
     "pcaMethods",
     "affyio",
     "preprocessCore",
-    "Spectra",
     "QFeatures",
     "limma",
     "MultiAssayExperiment",
@@ -14573,7 +14518,6 @@
     "pcaMethods",
     "affyio",
     "preprocessCore",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -14737,7 +14681,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "vsn",
@@ -14958,7 +14901,6 @@
     "pcaMethods",
     "DelayedArray",
     "GenomicRanges",
-    "Spectra",
     "QFeatures",
     "MatrixGenerics",
     "affyio",
@@ -15124,7 +15066,6 @@
     "preprocessCore",
     "KEGGREST",
     "MatrixGenerics",
-    "Spectra",
     "QFeatures",
     "GenomicRanges",
     "DelayedArray",
@@ -15149,7 +15090,6 @@
     "annotate",
     "genefilter",
     "SummarizedExperiment",
-    "Spectra",
     "QFeatures",
     "limma",
     "KEGGREST",
@@ -15317,7 +15257,6 @@
     "pcaMethods",
     "affyio",
     "preprocessCore",
-    "Spectra",
     "QFeatures",
     "limma",
     "MultiAssayExperiment",
@@ -15801,7 +15740,6 @@
     "rhdf5filters",
     "affyio",
     "preprocessCore",
-    "Spectra",
     "QFeatures",
     "limma",
     "MultiAssayExperiment",
@@ -15851,7 +15789,6 @@
     "affy",
     "pcaMethods",
     "affyio",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -17514,7 +17451,6 @@
     "beachmat"
   ],
   "similaRpeak": [],
-  "simona": [],
   "simpleSeg": [
     "SummarizedExperiment",
     "cytomapper",
@@ -17530,7 +17466,6 @@
     "rhdf5filters"
   ],
   "simplifyEnrichment": [
-    "simona",
     "AnnotationDbi",
     "KEGGREST",
     "Biostrings"
@@ -17662,7 +17597,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "snifter": [],
   "snm": [],
   "soGGi": [
     "SummarizedExperiment",
@@ -17906,7 +17840,6 @@
     "xcms",
     "MSnbase",
     "MsExperiment",
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "PSMatch",
@@ -18373,7 +18306,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "Spectra",
     "QFeatures",
     "affyio",
     "preprocessCore",
@@ -18565,7 +18497,6 @@
     "edgeR"
   ],
   "twilight": [],
-  "twoddpcr": [],
   "txcutr": [
     "AnnotationDbi",
     "GenomicFeatures",
@@ -18860,7 +18791,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "vsn",

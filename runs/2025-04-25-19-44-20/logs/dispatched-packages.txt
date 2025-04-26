@@ -618,3 +618,11 @@ infinityFlow
 ncdfFlow
 tidyFlowCore
 tidytof
+BiGGR
+MetCirc
+MsBackendMassbank
+MsBackendMetaboLights
+MsBackendMgf
+MsBackendMsp
+MsBackendSql
+SpectraQL
