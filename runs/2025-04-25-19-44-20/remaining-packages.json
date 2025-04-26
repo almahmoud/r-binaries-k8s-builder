@@ -774,10 +774,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "OLIN": [],
-  "OLINgui": [
-    "OLIN"
-  ],
+  "OLINgui": [],
   "OMICsPCA": [
     "HelloRanges",
     "VariantAnnotation"
@@ -2158,7 +2155,6 @@
   "nnSVG": [
     "SpatialExperiment"
   ],
-  "npGSEA": [],
   "nucleR": [],
   "nullranges": [],
   "octad": [
@@ -2674,7 +2670,6 @@
   "visiumStitched": [
     "SpatialExperiment"
   ],
-  "vissE": [],
   "vsclust": [],
   "waddR": [],
   "wateRmelon": [
@@ -2687,7 +2682,6 @@
   ],
   "wavClusteR": [],
   "webbioc": [],
-  "xCell2": [],
   "xcms": [
     "MSnbase",
     "MsExperiment",

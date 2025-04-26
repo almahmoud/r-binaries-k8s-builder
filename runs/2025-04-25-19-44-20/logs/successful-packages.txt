@@ -1348,3 +1348,7 @@ scDesign3
 slalom
 surfaltr
 timecourse
+npGSEA
+OLIN
+vissE
+xCell2
