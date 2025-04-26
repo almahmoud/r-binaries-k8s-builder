@@ -116,7 +116,6 @@
     "missMethyl",
     "bsseq",
     "Gviz",
-    "GEOquery",
     "methylumi",
     "lumi"
   ],
@@ -125,7 +124,6 @@
     "systemPipeR"
   ],
   "ChIPXpress": [
-    "GEOquery",
     "frma",
     "oligo"
   ],
@@ -161,7 +159,6 @@
     "minfi",
     "missMethyl",
     "Gviz",
-    "GEOquery",
     "methylumi"
   ],
   "DSS": [
@@ -190,15 +187,12 @@
   "DuplexDiscovereR": [
     "Gviz"
   ],
-  "EGAD": [
-    "GEOquery"
-  ],
+  "EGAD": [],
   "ELMER": [
     "Gviz"
   ],
   "ENmix": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "EasyCellType": [],
   "EpiCompare": [],
@@ -231,15 +225,12 @@
   ],
   "GDCRNATools": [],
   "GEOexplorer": [
-    "sva",
-    "GEOquery"
+    "sva"
   ],
-  "GEOquery": [],
   "GOTHiC": [],
   "GOstats": [
     "Category"
   ],
-  "GSEABenchmarkeR": [],
   "GSRI": [],
   "GSReg": [
     "OrganismDbi"
@@ -314,14 +305,12 @@
     "minfi",
     "Gviz",
     "missMethyl",
-    "GEOquery",
     "methylumi",
     "sva"
   ],
   "MEAT": [
     "minfi",
     "wateRmelon",
-    "GEOquery",
     "methylumi",
     "lumi"
   ],
@@ -356,16 +345,14 @@
   ],
   "MetaboSignal": [],
   "MethylAid": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "MineICA": [
     "GOstats",
     "lumi",
     "Category",
     "methylumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "MinimumDistance": [
     "VanillaICE",
@@ -374,12 +361,8 @@
   "MoleculeExperiment": [
     "SpatialExperiment"
   ],
-  "Moonlight2R": [
-    "GEOquery"
-  ],
-  "MoonlightR": [
-    "GEOquery"
-  ],
+  "Moonlight2R": [],
+  "MoonlightR": [],
   "MsExperiment": [],
   "MsQuality": [
     "MsExperiment"
@@ -434,8 +417,7 @@
   ],
   "R453Plus1Toolbox": [],
   "REMP": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "RESOLVE": [],
   "RMassBank": [
@@ -444,7 +426,6 @@
   "RNAAgeCalc": [
     "recount",
     "derfinder",
-    "GEOquery",
     "GenomicFiles"
   ],
   "RNAmodR": [
@@ -482,13 +463,11 @@
   ],
   "RnBeads": [
     "methylumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "RnaSeqSampleSize": [
     "recount",
     "derfinder",
-    "GEOquery",
     "GenomicFiles"
   ],
   "Rqc": [
@@ -496,7 +475,6 @@
   ],
   "SCAN.UPC": [
     "oligo",
-    "GEOquery",
     "sva"
   ],
   "SCArray.sat": [],
@@ -658,8 +636,7 @@
   "arrayMvout": [
     "lumi",
     "methylumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "arrayQualityMetrics": [
     "affyPLM"
@@ -685,7 +662,6 @@
     "wateRmelon",
     "minfi",
     "methylumi",
-    "GEOquery",
     "lumi"
   ],
   "bioCancer": [
@@ -781,8 +757,7 @@
     "SpatialExperiment"
   ],
   "conumee": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "cosmiq": [
     "xcms",
@@ -831,8 +806,7 @@
   ],
   "decontX": [],
   "deconvR": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "deepSNV": [],
   "derfinder": [
@@ -865,8 +839,7 @@
   "epimutacions": [
     "minfi",
     "Gviz",
-    "OrganismDbi",
-    "GEOquery"
+    "OrganismDbi"
   ],
   "epiregulon": [
     "motifmatchr"
@@ -903,8 +876,7 @@
   "ffpe": [
     "lumi",
     "methylumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "flagme": [
     "xcms",
@@ -917,8 +889,7 @@
     "oligo"
   ],
   "funtooNorm": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "gcatest": [],
   "geomeTriD": [
@@ -944,20 +915,17 @@
   "iCheck": [
     "lumi",
     "methylumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "iNETgrate": [
     "minfi",
-    "OrganismDbi",
-    "GEOquery"
+    "OrganismDbi"
   ],
   "iSEEfier": [
     "iSEEu",
     "iSEEhex"
   ],
   "iSEEhex": [],
-  "iSEEpathways": [],
   "iSEEtree": [
     "miaViz",
     "mia"
@@ -1001,8 +969,7 @@
   ],
   "lumi": [
     "methylumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "m6Aboost": [],
   "mBPCR": [],
@@ -1035,14 +1002,12 @@
   "methrix": [],
   "methylCC": [
     "minfi",
-    "bsseq",
-    "GEOquery"
+    "bsseq"
   ],
   "methylGSA": [
     "missMethyl",
     "minfi",
-    "methylumi",
-    "GEOquery"
+    "methylumi"
   ],
   "methylInheritance": [],
   "methylPipe": [
@@ -1055,13 +1020,11 @@
   "methylclock": [
     "minfi",
     "ExperimentHubData",
-    "GEOquery",
     "AnnotationHubData",
     "OrganismDbi"
   ],
   "methylumi": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "miRLAB": [
     "Category",
@@ -1083,13 +1046,10 @@
     "affyPLM",
     "oligo"
   ],
-  "minfi": [
-    "GEOquery"
-  ],
+  "minfi": [],
   "missMethyl": [
     "methylumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "mitoClone2": [
     "deepSNV"
@@ -1176,9 +1136,7 @@
     "MSnbase"
   ],
   "peco": [],
-  "phantasus": [
-    "GEOquery"
-  ],
+  "phantasus": [],
   "phenoTest": [
     "Category"
   ],
@@ -1203,7 +1161,6 @@
   "psichomics": [
     "recount",
     "derfinder",
-    "GEOquery",
     "GenomicFiles"
   ],
   "ptairMS": [
@@ -1222,20 +1179,17 @@
     "sva"
   ],
   "quantro": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "rCGH": [],
   "rGREAT": [],
   "raer": [],
   "recount": [
     "derfinder",
-    "GEOquery",
     "GenomicFiles"
   ],
   "recountmethylation": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "recoup": [],
   "regionReport": [
@@ -1296,12 +1250,10 @@
     "SpatialExperiment"
   ],
   "shinyMethyl": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "shinyepico": [
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "signatureSearch": [],
   "signeR": [],
@@ -1318,7 +1270,6 @@
     "methylumi",
     "wateRmelon",
     "minfi",
-    "GEOquery",
     "lumi"
   ],
   "slingshot": [],
@@ -1428,8 +1379,7 @@
   "wateRmelon": [
     "methylumi",
     "lumi",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "wavClusteR": [],
   "xcms": [
@@ -1441,8 +1391,7 @@
   ],
   "yarn": [
     "quantro",
-    "minfi",
-    "GEOquery"
+    "minfi"
   ],
   "zenith": [],
   "zinbwave": []

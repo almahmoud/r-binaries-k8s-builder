@@ -1636,3 +1636,6 @@ vidger
 iSEEindex
 mogsa
 tilingArray
+GEOquery
+GSEABenchmarkeR
+iSEEpathways
