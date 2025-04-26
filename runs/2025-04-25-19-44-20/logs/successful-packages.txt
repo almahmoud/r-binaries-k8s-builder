@@ -1810,3 +1810,6 @@ diffUTR
 hiReadsProcessor
 maPredictDSC
 sva
+gmapR
+icetea
+TFutils

@@ -273,7 +273,6 @@
     "ASSIGN",
     "GSVA"
   ],
-  "TFutils": [],
   "TVTB": [],
   "UCell": [],
   "VAExprs": [],
@@ -458,7 +457,6 @@
   "ggbio": [],
   "ggspavis": [],
   "globaltest": [],
-  "gmapR": [],
   "gwasurvivr": [],
   "hoodscanR": [],
   "iCNV": [],
@@ -474,7 +472,6 @@
   "iSEEtree": [
     "miaViz"
   ],
-  "icetea": [],
   "imcRtools": [
     "cytomapper"
   ],
