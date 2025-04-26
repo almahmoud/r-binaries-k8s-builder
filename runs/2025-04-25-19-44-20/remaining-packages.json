@@ -97,7 +97,6 @@
   "CeTF": [],
   "CellBench": [],
   "CellMixS": [],
-  "CexoR": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -358,7 +357,6 @@
     "DAPAR",
     "MSnbase"
   ],
-  "ProteoDisco": [],
   "PureCN": [],
   "Pviz": [
     "Gviz"
@@ -476,7 +474,6 @@
   "SpatialFeatureExperiment": [
     "SpatialExperiment"
   ],
-  "SpliceWiz": [],
   "SpotClean": [
     "SpatialExperiment"
   ],
@@ -620,7 +617,6 @@
   "borealis": [
     "DSS"
   ],
-  "broadSeq": [],
   "cBioPortalData": [
     "RTCGAToolbox"
   ],
@@ -642,7 +638,6 @@
     "cBioPortalData",
     "RTCGAToolbox"
   ],
-  "ccImpute": [],
   "cfdnakit": [],
   "cghMCR": [
     "CNTools"
@@ -862,7 +857,6 @@
   "lefser": [
     "mia"
   ],
-  "lemur": [],
   "lipidr": [],
   "lisaClust": [
     "spicyR",
@@ -1017,7 +1011,6 @@
     "GSVA",
     "SpatialExperiment"
   ],
-  "pathlinkR": [],
   "pdInfoBuilder": [
     "oligo"
   ],
@@ -1231,7 +1224,6 @@
     "Gviz"
   ],
   "tradeSeq": [],
-  "transformGamPoi": [],
   "traseR": [],
   "tricycle": [],
   "uncoverappLib": [

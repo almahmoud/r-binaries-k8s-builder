@@ -1687,3 +1687,11 @@ crlmm
 FindIT2
 magpie
 PECA
+broadSeq
+ccImpute
+CexoR
+lemur
+pathlinkR
+ProteoDisco
+SpliceWiz
+transformGamPoi
