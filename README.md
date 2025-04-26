@@ -8,7 +8,7 @@ A scalable Kubernetes-based system for building Bioconductor package binaries au
 
 | Run ID | Start Time | Container Image | Status | Success | Failed | Total |
 |--------|------------|-----------------|--------|---------|--------|-------|
-| [2025-04-25-19-44-20](runs/2025-04-25-19-44-20/) | 2025-04-25 19:44:20 | `devel` | In Progress | 907 | 0 | 907 |
+| [2025-04-25-19-44-20](runs/2025-04-25-19-44-20/) | 2025-04-25 19:44:20 | `devel` | In Progress | 920 | 0 | 920 |
 | [2025-04-18-13-30-04](runs/2025-04-18-13-30-04/) | 2025-04-18 13:30:04 | `devel` | In Progress | 2153 | 2 | 2155 |
 | [2025-04-08-19-01-32](runs/2025-04-08-19-01-32/) | 2025-04-08 19:01:32 | `devel` | In Progress | 0 | 0 | 0 |
 | [2025-04-01-19-01-56](runs/2025-04-01-19-01-56/) | 2025-04-01 19:01:56 | `devel` | In Progress | 0 | 0 | 0 |
