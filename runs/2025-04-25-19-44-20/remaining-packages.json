@@ -62,7 +62,6 @@
   "BioNERO": [
     "sva"
   ],
-  "BioTIP": [],
   "BiocHubsShiny": [],
   "BubbleTree": [],
   "BulkSignalR": [
@@ -455,7 +454,6 @@
     "GEOquery"
   ],
   "RESOLVE": [],
-  "RFLOMICS": [],
   "RJMCMCNucleosomes": [],
   "RMassBank": [
     "MSnbase"
@@ -995,34 +993,20 @@
     "OrganismDbi",
     "GEOquery"
   ],
-  "iSEE": [],
-  "iSEEde": [
-    "iSEE"
-  ],
+  "iSEEde": [],
   "iSEEfier": [
-    "iSEE",
     "iSEEu",
     "iSEEhex"
   ],
-  "iSEEhex": [
-    "iSEE"
-  ],
-  "iSEEhub": [
-    "iSEE"
-  ],
-  "iSEEindex": [
-    "iSEE"
-  ],
-  "iSEEpathways": [
-    "iSEE"
-  ],
+  "iSEEhex": [],
+  "iSEEhub": [],
+  "iSEEindex": [],
+  "iSEEpathways": [],
   "iSEEtree": [
-    "iSEE",
     "miaViz",
     "mia"
   ],
   "iSEEu": [
-    "iSEE",
     "iSEEhex"
   ],
   "icetea": [],
@@ -1131,7 +1115,6 @@
   "miRSM": [],
   "mia": [],
   "miaDash": [
-    "iSEE",
     "iSEEtree",
     "mia",
     "miaViz"
@@ -1357,7 +1340,6 @@
     "OrganismDbi"
   ],
   "selectKSigs": [],
-  "seqArchRplus": [],
   "seqCAT": [],
   "shinyDSP": [
     "standR",

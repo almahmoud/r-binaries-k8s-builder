@@ -1833,3 +1833,8 @@ FRASER
 MSstatsShiny
 CytoMDS
 CytoPipelineGUI
+iSEEde
+iSEEhex
+iSEEhub
+iSEEindex
+iSEEpathways

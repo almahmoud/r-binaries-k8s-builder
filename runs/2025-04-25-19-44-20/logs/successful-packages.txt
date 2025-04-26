@@ -1598,3 +1598,7 @@ goSorensen
 gINTomics
 miRspongeR
 NBAMSeq
+BioTIP
+iSEE
+RFLOMICS
+seqArchRplus
