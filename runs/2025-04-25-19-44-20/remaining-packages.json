@@ -1740,7 +1740,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "chipenrich": [],
   "chipseq": [],
   "chromVAR": [
     "TFBSTools"
@@ -2474,7 +2473,6 @@
     "bumphunter",
     "GEOquery"
   ],
-  "missRows": [],
   "mitoClone2": [
     "deepSNV",
     "VariantAnnotation"
@@ -2741,7 +2739,6 @@
     "GEOquery"
   ],
   "qusage": [],
-  "r3Cseq": [],
   "rCGH": [],
   "rGREAT": [],
   "rTRMui": [],
@@ -2756,7 +2753,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "recount3": [],
   "recountmethylation": [
     "minfi",
     "bumphunter",
@@ -2792,8 +2788,6 @@
     "txdbmaker",
     "TFBSTools"
   ],
-  "rifi": [],
-  "rifiComparative": [],
   "rnaEditr": [
     "bumphunter"
   ],
