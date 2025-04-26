@@ -1823,3 +1823,9 @@ ACE
 GeneBreak
 cfdnakit
 TFHAZ
+GenomicPlot
+MetaboSignal
+SMITE
+chevreulPlot
+magpie
+rgsepd

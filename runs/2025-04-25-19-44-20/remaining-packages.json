@@ -124,7 +124,6 @@
     "globaltest",
     "sva",
     "wateRmelon",
-    "goseq",
     "missMethyl",
     "bsseq",
     "Gviz",
@@ -190,7 +189,6 @@
   ],
   "Damsel": [
     "ggbio",
-    "goseq",
     "OrganismDbi"
   ],
   "DeMixT": [
@@ -288,9 +286,7 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "GenomicPlot": [
-    "RCAS"
-  ],
+  "GenomicPlot": [],
   "GlobalAncova": [
     "globaltest"
   ],
@@ -395,9 +391,7 @@
     "sva"
   ],
   "MetaPhOR": [],
-  "MetaboSignal": [
-    "mygene"
-  ],
+  "MetaboSignal": [],
   "MethylAid": [
     "minfi",
     "GEOquery"
@@ -481,7 +475,6 @@
     "OrganismDbi"
   ],
   "R453Plus1Toolbox": [],
-  "RCAS": [],
   "REMP": [
     "minfi",
     "GEOquery"
@@ -530,7 +523,6 @@
   "Rhisat2": [
     "SGSeq"
   ],
-  "RiboDiPA": [],
   "RiboProfiling": [
     "ggbio",
     "OrganismDbi"
@@ -571,9 +563,7 @@
   "SIM": [
     "globaltest"
   ],
-  "SMITE": [
-    "goseq"
-  ],
+  "SMITE": [],
   "SNPhood": [],
   "SPIAT": [
     "SpatialExperiment"
@@ -640,7 +630,6 @@
     "ClassifyR"
   ],
   "TPP": [],
-  "TRESS": [],
   "TSCAN": [],
   "TVTB": [
     "Gviz"
@@ -811,12 +800,8 @@
   "cghMCR": [
     "CNTools"
   ],
-  "chevreulPlot": [
-    "chevreulProcess"
-  ],
-  "chevreulProcess": [],
+  "chevreulPlot": [],
   "chevreulShiny": [
-    "chevreulProcess",
     "chevreulPlot"
   ],
   "chimeraviz": [
@@ -886,7 +871,6 @@
   "cummeRbund": [
     "Gviz"
   ],
-  "customProDB": [],
   "cydar": [],
   "cypress": [
     "TOAST"
@@ -1027,7 +1011,6 @@
   "globaltest": [],
   "gmapR": [],
   "goSorensen": [],
-  "goseq": [],
   "gwasurvivr": [],
   "hiReadsProcessor": [],
   "hoodscanR": [
@@ -1125,9 +1108,7 @@
     "OrganismDbi"
   ],
   "maPredictDSC": [],
-  "magpie": [
-    "TRESS"
-  ],
+  "magpie": [],
   "mariner": [],
   "maser": [
     "Gviz"
@@ -1235,7 +1216,6 @@
   ],
   "mumosa": [],
   "muscat": [],
-  "mygene": [],
   "myvariant": [],
   "ncGTW": [
     "xcms",
@@ -1306,7 +1286,6 @@
     "Category"
   ],
   "phenomis": [],
-  "pipeComp": [],
   "plyinteractions": [],
   "poem": [
     "SpatialExperiment"
@@ -1369,9 +1348,7 @@
   "regutools": [
     "Gviz"
   ],
-  "rgsepd": [
-    "goseq"
-  ],
+  "rgsepd": [],
   "riboSeqR": [],
   "ribosomeProfilingQC": [
     "motifStack"
@@ -1446,7 +1423,6 @@
     "cytomapper",
     "SpatialExperiment"
   ],
-  "sitadela": [],
   "skewr": [
     "methylumi",
     "wateRmelon",

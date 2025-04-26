@@ -1556,3 +1556,12 @@ QDNAseq
 SplicingGraphs
 ELViS
 ORFik
+chevreulProcess
+customProDB
+goseq
+mygene
+pipeComp
+RCAS
+RiboDiPA
+sitadela
+TRESS

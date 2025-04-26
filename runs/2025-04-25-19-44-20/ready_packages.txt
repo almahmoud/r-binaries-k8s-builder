@@ -1,1 +1,6 @@
-TFHAZ
+GenomicPlot
+MetaboSignal
+SMITE
+chevreulPlot
+magpie
+rgsepd
