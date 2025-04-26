@@ -1472,3 +1472,11 @@ LoomExperiment
 multistateQTL
 Rcpi
 txdbmaker
+clusterProfiler
+Cogito
+factR
+IONiseR
+MSstatsTMT
+Nebulosa
+regionalpcs
+SBGNview

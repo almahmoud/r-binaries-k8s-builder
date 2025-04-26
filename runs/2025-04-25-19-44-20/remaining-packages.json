@@ -115,14 +115,10 @@
     "SpatialExperiment"
   ],
   "CATALYST": [],
-  "CBNplot": [
-    "clusterProfiler"
-  ],
+  "CBNplot": [],
   "CCAFE": [],
   "CCPROMISE": [],
-  "CEMiTool": [
-    "clusterProfiler"
-  ],
+  "CEMiTool": [],
   "CGHnormaliter": [],
   "CGHregions": [],
   "CHRONOS": [],
@@ -145,9 +141,7 @@
   "CatsCradle": [
     "SpatialExperiment"
   ],
-  "CeTF": [
-    "clusterProfiler"
-  ],
+  "CeTF": [],
   "CellBench": [],
   "CellMixS": [],
   "CelliD": [],
@@ -195,7 +189,6 @@
     "MSnbase"
   ],
   "CoSIA": [],
-  "Cogito": [],
   "CytoMDS": [
     "CytoPipeline"
   ],
@@ -274,13 +267,9 @@
     "minfi",
     "GEOquery"
   ],
-  "EasyCellType": [
-    "clusterProfiler"
-  ],
+  "EasyCellType": [],
   "EmpiricalBrownsMethod": [],
-  "EnrichDO": [
-    "clusterProfiler"
-  ],
+  "EnrichDO": [],
   "EpiCompare": [],
   "EpiTxDb": [
     "tRNAdbImport"
@@ -321,9 +310,7 @@
     "EDASeq",
     "sva"
   ],
-  "GDCRNATools": [
-    "clusterProfiler"
-  ],
+  "GDCRNATools": [],
   "GEOexplorer": [
     "sva",
     "GEOquery"
@@ -387,7 +374,6 @@
   "IMAS": [],
   "IMPCdata": [],
   "INSPEcT": [],
-  "IONiseR": [],
   "IPO": [
     "xcms",
     "CAMERA",
@@ -450,9 +436,7 @@
   "MIRA": [
     "bsseq"
   ],
-  "MIRit": [
-    "clusterProfiler"
-  ],
+  "MIRit": [],
   "MLInterfaces": [],
   "MOSClip": [],
   "MOSim": [],
@@ -468,9 +452,7 @@
   "MSnbase": [],
   "MSstatsBig": [],
   "MSstatsBioNet": [],
-  "MSstatsPTM": [
-    "MSstatsTMT"
-  ],
+  "MSstatsPTM": [],
   "MSstatsQC": [
     "MSnbase"
   ],
@@ -479,17 +461,13 @@
     "MSnbase"
   ],
   "MSstatsShiny": [
-    "MSstatsTMT",
     "MSstatsPTM"
   ],
-  "MSstatsTMT": [],
   "MatrixQCvis": [
     "sva"
   ],
   "MatrixRider": [],
-  "MetaPhOR": [
-    "clusterProfiler"
-  ],
+  "MetaPhOR": [],
   "MetaboAnnotation": [],
   "MetaboSignal": [
     "mygene"
@@ -499,9 +477,7 @@
     "minfi",
     "GEOquery"
   ],
-  "MicrobiomeProfiler": [
-    "clusterProfiler"
-  ],
+  "MicrobiomeProfiler": [],
   "MineICA": [
     "GOstats",
     "lumi",
@@ -519,11 +495,9 @@
     "SpatialExperiment"
   ],
   "Moonlight2R": [
-    "clusterProfiler",
     "GEOquery"
   ],
   "MoonlightR": [
-    "clusterProfiler",
     "GEOquery"
   ],
   "MsExperiment": [],
@@ -539,7 +513,6 @@
   "NanoMethViz": [
     "bsseq"
   ],
-  "Nebulosa": [],
   "NormalyzerDE": [],
   "OGRE": [
     "Gviz",
@@ -570,12 +543,8 @@
   "PROPS": [
     "sva"
   ],
-  "PanomiR": [
-    "clusterProfiler"
-  ],
-  "Pigengene": [
-    "clusterProfiler"
-  ],
+  "PanomiR": [],
+  "Pigengene": [],
   "PrInCE": [
     "MSnbase"
   ],
@@ -609,9 +578,7 @@
   "RESOLVE": [
     "MutationalPatterns"
   ],
-  "RFLOMICS": [
-    "clusterProfiler"
-  ],
+  "RFLOMICS": [],
   "RJMCMCNucleosomes": [],
   "RMassBank": [
     "MSnbase"
@@ -691,7 +658,6 @@
     "GenomicFiles"
   ],
   "SARC": [],
-  "SBGNview": [],
   "SCAN.UPC": [
     "oligo",
     "GEOquery",
@@ -922,7 +888,6 @@
   ],
   "bioCancer": [
     "cBioPortalData",
-    "clusterProfiler",
     "RTCGAToolbox",
     "TCGAutils"
   ],
@@ -949,9 +914,7 @@
     "bsseq",
     "DSS"
   ],
-  "broadSeq": [
-    "clusterProfiler"
-  ],
+  "broadSeq": [],
   "bsseq": [],
   "cBioPortalData": [
     "RTCGAToolbox",
@@ -1021,7 +984,6 @@
     "zinbwave",
     "mbkmeans"
   ],
-  "clusterProfiler": [],
   "clusterSeq": [],
   "comapr": [
     "Gviz",
@@ -1104,7 +1066,6 @@
     "mia"
   ],
   "debrowser": [
-    "clusterProfiler",
     "sva"
   ],
   "decompTumor2Sig": [],
@@ -1161,9 +1122,7 @@
   "epiregulon": [
     "motifmatchr"
   ],
-  "epiregulon.extra": [
-    "clusterProfiler"
-  ],
+  "epiregulon.extra": [],
   "epivizr": [
     "epivizrData",
     "OrganismDbi"
@@ -1181,7 +1140,6 @@
     "OrganismDbi"
   ],
   "esATAC": [
-    "clusterProfiler",
     "motifmatchr"
   ],
   "escape": [
@@ -1193,10 +1151,7 @@
     "SpatialExperiment"
   ],
   "fCCAC": [],
-  "factR": [],
-  "famat": [
-    "clusterProfiler"
-  ],
+  "famat": [],
   "fcScan": [],
   "ffpe": [
     "lumi",
@@ -1219,9 +1174,7 @@
     "minfi",
     "GEOquery"
   ],
-  "gINTomics": [
-    "clusterProfiler"
-  ],
+  "gINTomics": [],
   "gcapc": [],
   "gcatest": [],
   "geomeTriD": [
@@ -1242,9 +1195,7 @@
   ],
   "globaltest": [],
   "gmapR": [],
-  "goSorensen": [
-    "clusterProfiler"
-  ],
+  "goSorensen": [],
   "goseq": [],
   "gwasurvivr": [],
   "hiAnnotator": [],
@@ -1268,8 +1219,7 @@
     "Pigengene",
     "minfi",
     "OrganismDbi",
-    "GEOquery",
-    "clusterProfiler"
+    "GEOquery"
   ],
   "iSEE": [],
   "iSEEde": [
@@ -1390,7 +1340,6 @@
     "GEOquery"
   ],
   "methylGSA": [
-    "clusterProfiler",
     "missMethyl",
     "minfi",
     "methylumi",
@@ -1420,12 +1369,8 @@
     "Category",
     "GOstats"
   ],
-  "miRSM": [
-    "clusterProfiler"
-  ],
-  "miRspongeR": [
-    "clusterProfiler"
-  ],
+  "miRSM": [],
+  "miRspongeR": [],
   "mia": [],
   "miaDash": [
     "iSEE",
@@ -1542,9 +1487,7 @@
     "GSVA",
     "SpatialExperiment"
   ],
-  "pathlinkR": [
-    "clusterProfiler"
-  ],
+  "pathlinkR": [],
   "pdInfoBuilder": [
     "oligo",
     "oligoClasses"
@@ -1624,7 +1567,6 @@
     "derfinder",
     "GenomicFiles"
   ],
-  "regionalpcs": [],
   "regutools": [
     "Gviz",
     "biovizBase"
@@ -1694,9 +1636,7 @@
   ],
   "scviR": [],
   "selectKSigs": [],
-  "seqArchRplus": [
-    "clusterProfiler"
-  ],
+  "seqArchRplus": [],
   "seqCAT": [],
   "shinyDSP": [
     "standR",
@@ -1712,9 +1652,7 @@
     "minfi",
     "GEOquery"
   ],
-  "signatureSearch": [
-    "clusterProfiler"
-  ],
+  "signatureSearch": [],
   "signeR": [],
   "signifinder": [
     "consensusOV",
