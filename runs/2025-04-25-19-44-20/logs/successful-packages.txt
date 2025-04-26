@@ -1000,3 +1000,15 @@ metagenomeSeq
 MouseFM
 PCAtools
 VegaMC
+adductomicsR
+adSplit
+cmapR
+enrichplot
+gsean
+GWAS.BAYES
+PepSetTest
+RepViz
+RNAsense
+Scale4C
+StabMap
+SVMDO
