@@ -1,7 +1,6 @@
 {
   "ACE": [
     "QDNAseq",
-    "CGHbase",
     "CGHcall"
   ],
   "ADAM": [],
@@ -209,17 +208,11 @@
   "CEMiTool": [
     "clusterProfiler"
   ],
-  "CGHbase": [],
-  "CGHcall": [
-    "CGHbase"
-  ],
+  "CGHcall": [],
   "CGHnormaliter": [
-    "CGHcall",
-    "CGHbase"
+    "CGHcall"
   ],
-  "CGHregions": [
-    "CGHbase"
-  ],
+  "CGHregions": [],
   "CHRONOS": [],
   "CNTools": [
     "genefilter"
@@ -486,8 +479,7 @@
   "EpiMix": [],
   "EpiTxDb": [
     "txdbmaker",
-    "tRNAdbImport",
-    "tRNA"
+    "tRNAdbImport"
   ],
   "EpipwR": [],
   "EventPointer": [
@@ -577,8 +569,7 @@
   ],
   "GeneBreak": [
     "QDNAseq",
-    "CGHcall",
-    "CGHbase"
+    "CGHcall"
   ],
   "GeneMeta": [
     "genefilter"
@@ -1006,7 +997,6 @@
     "ensembldb"
   ],
   "QDNAseq": [
-    "CGHbase",
     "CGHcall"
   ],
   "QuasR": [
@@ -1029,7 +1019,6 @@
     "ensembldb",
     "VariantAnnotation"
   ],
-  "RBM": [],
   "RCAS": [
     "txdbmaker",
     "genomation"
@@ -1332,7 +1321,6 @@
   "TCGAutils": [],
   "TEKRABber": [],
   "TENET": [],
-  "TENxIO": [],
   "TFBSTools": [],
   "TFEA.ChIP": [],
   "TFHAZ": [
@@ -1395,7 +1383,6 @@
     "VariantAnnotation",
     "GenomicFiles"
   ],
-  "VDJdive": [],
   "VaSP": [
     "ballgown",
     "sva",
@@ -1417,7 +1404,6 @@
     "VariantAnnotation"
   ],
   "VisiumIO": [
-    "TENxIO",
     "SpatialExperiment"
   ],
   "Voyager": [
@@ -1431,7 +1417,6 @@
     "GeneMeta"
   ],
   "XeniumIO": [
-    "TENxIO",
     "SpatialExperiment",
     "VisiumIO"
   ],
@@ -1675,7 +1660,6 @@
   "cfDNAPro": [],
   "cfdnakit": [
     "QDNAseq",
-    "CGHbase",
     "CGHcall"
   ],
   "cghMCR": [
@@ -2073,7 +2057,6 @@
   ],
   "flowBin": [],
   "flowGate": [],
-  "flowVS": [],
   "flowcatchR": [],
   "frma": [
     "oligo",
@@ -3053,13 +3036,8 @@
   "tLOH": [
     "VariantAnnotation"
   ],
-  "tRNA": [],
-  "tRNAdbImport": [
-    "tRNA"
-  ],
-  "tRNAscanImport": [
-    "tRNA"
-  ],
+  "tRNAdbImport": [],
+  "tRNAscanImport": [],
   "tadar": [
     "Gviz",
     "VariantAnnotation",
@@ -3175,8 +3153,7 @@
   ],
   "xcore": [],
   "xenLite": [
-    "SpatialExperiment",
-    "TENxIO"
+    "SpatialExperiment"
   ],
   "yarn": [
     "quantro",

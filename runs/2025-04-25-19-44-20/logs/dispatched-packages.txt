@@ -1552,3 +1552,7 @@ maPredictDSC
 maskBAD
 webbioc
 SBGNview
+CGHcall
+CGHregions
+tRNAdbImport
+tRNAscanImport

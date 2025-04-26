@@ -1251,3 +1251,9 @@ nipalsMCIA
 pathview
 scGPS
 SpatialCPie
+CGHbase
+flowVS
+RBM
+TENxIO
+tRNA
+VDJdive
