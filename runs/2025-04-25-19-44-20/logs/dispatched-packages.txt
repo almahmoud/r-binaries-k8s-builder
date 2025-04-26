@@ -395,3 +395,5 @@ scShapes
 scTHI
 statTarget
 ternarynet
+DeepPINCS
+multiClust

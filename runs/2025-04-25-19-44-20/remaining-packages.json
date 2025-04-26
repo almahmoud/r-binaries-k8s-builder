@@ -772,7 +772,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "BEclear": [],
   "BLMA": [
     "ROntoTools",
     "PADOG",
@@ -3915,9 +3914,7 @@
     "GenomicAlignments",
     "BiocIO"
   ],
-  "DeepPINCS": [
-    "ttgsea"
-  ],
+  "DeepPINCS": [],
   "DeepTarget": [
     "fgsea",
     "ExperimentHub",
@@ -5607,8 +5604,7 @@
     "flowViz"
   ],
   "GenProSeq": [
-    "DeepPINCS",
-    "ttgsea"
+    "DeepPINCS"
   ],
   "GeneBreak": [
     "QDNAseq",
@@ -5979,7 +5975,6 @@
     "XVector"
   ],
   "GeoTcgaData": [
-    "cqn",
     "topconfects",
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -7062,7 +7057,6 @@
   ],
   "KinSwingR": [],
   "KnowSeq": [
-    "cqn",
     "sva",
     "edgeR",
     "limma",
@@ -10131,7 +10125,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "Path2PPI": [],
   "PathNet": [],
   "PathoStat": [
     "limma",
@@ -10980,7 +10973,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "RNAdecay": [],
   "RNAmodR": [
     "S4Vectors",
     "IRanges",
@@ -11216,7 +11208,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "RTCGA": [],
   "RTCGAToolbox": [
     "BiocGenerics",
     "DelayedArray",
@@ -13744,7 +13735,6 @@
     "TDbasedUFE",
     "Biobase",
     "GenomicRanges",
-    "RTCGA",
     "enrichplot",
     "DOSE",
     "STRINGdb",
@@ -14418,7 +14408,6 @@
     "SummarizedExperiment",
     "scater",
     "DeepPINCS",
-    "ttgsea",
     "scuttle",
     "BiocGenerics",
     "S4Vectors",
@@ -17808,7 +17797,6 @@
     "UCSC.utils",
     "rhdf5filters"
   ],
-  "compSPOT": [],
   "compcodeR": [
     "edgeR",
     "limma"
@@ -18159,7 +18147,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "cqn": [],
   "crisprBase": [
     "BiocGenerics",
     "Biostrings",
@@ -18470,7 +18457,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "ctc": [],
   "ctsGE": [
     "limma"
   ],
@@ -18707,7 +18693,6 @@
     "S4Vectors",
     "BiocGenerics"
   ],
-  "daMA": [],
   "dada2": [
     "Biostrings",
     "ShortRead",
@@ -19029,7 +19014,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "deltaGseg": [],
   "demuxSNP": [
     "SingleCellExperiment",
     "VariantAnnotation",
@@ -23872,7 +23856,6 @@
     "limma",
     "TCGAbiolinks",
     "SummarizedExperiment",
-    "ctc",
     "Category",
     "GOstats",
     "BiocGenerics",
@@ -24859,9 +24842,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "multiClust": [
-    "ctc"
-  ],
+  "multiClust": [],
   "multiGSEA": [
     "graphite",
     "AnnotationDbi",
@@ -31525,11 +31506,9 @@
     "UCSC.utils"
   ],
   "tripr": [],
-  "ttgsea": [],
   "tweeDEseq": [
     "limma",
-    "edgeR",
-    "cqn"
+    "edgeR"
   ],
   "twilight": [
     "Biobase",

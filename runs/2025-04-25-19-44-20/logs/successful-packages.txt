@@ -82,3 +82,13 @@ RSeqAn
 SANTA
 treeio
 veloviz
+BEclear
+compSPOT
+cqn
+ctc
+daMA
+deltaGseg
+Path2PPI
+RNAdecay
+RTCGA
+ttgsea
