@@ -78,7 +78,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "AIMS": [],
   "ALDEx2": [
     "SummarizedExperiment",
     "multtest",
@@ -2359,7 +2358,6 @@
     "MatrixGenerics",
     "SparseArray"
   ],
-  "FitHiC": [],
   "FlowSOM": [
     "ConsensusClusterPlus"
   ],
@@ -2446,8 +2444,7 @@
   ],
   "GENESIS": [
     "GWASTools",
-    "SNPRelate",
-    "quantsmooth"
+    "SNPRelate"
   ],
   "GENIE3": [],
   "GEOexplorer": [
@@ -2600,9 +2597,7 @@
   "GWAS.BAYES": [
     "limma"
   ],
-  "GWASTools": [
-    "quantsmooth"
-  ],
+  "GWASTools": [],
   "GWENA": [
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -2625,7 +2620,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "GeneRegionScan": [],
   "GeneSelectMMD": [
     "limma"
   ],
@@ -2857,7 +2851,6 @@
     "SparseArray",
     "multtest"
   ],
-  "HGC": [],
   "HIBAG": [],
   "HIPPO": [
     "SingleCellExperiment",
@@ -3031,7 +3024,6 @@
     "SingleCellExperiment",
     "SparseArray"
   ],
-  "HuBMAPR": [],
   "HubPub": [],
   "HybridExpress": [
     "DESeq2",
@@ -3287,7 +3279,6 @@
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "LedPred": [],
   "Lheuristic": [
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -4152,7 +4143,6 @@
   "MsBackendMetaboLights": [],
   "MsBackendMgf": [],
   "MsBackendMsp": [],
-  "MsBackendRawFileReader": [],
   "MsBackendSql": [],
   "MsDataHub": [
     "ExperimentHub",
@@ -4531,7 +4521,6 @@
     "piano",
     "genefu",
     "biomaRt",
-    "AIMS",
     "limma",
     "DelayedArray",
     "marray",
@@ -4725,7 +4714,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "PoDCall": [],
   "PolySTest": [
     "limma",
     "SummarizedExperiment",
@@ -4904,7 +4892,6 @@
     "GenomicFeatures",
     "GWASTools",
     "SummarizedExperiment",
-    "quantsmooth",
     "GenomicAlignments",
     "DelayedArray",
     "SparseArray"
@@ -5703,7 +5690,6 @@
   ],
   "SIM": [
     "globaltest",
-    "quantsmooth",
     "AnnotationDbi",
     "annotate"
   ],
@@ -6019,7 +6005,6 @@
     "SparseArray",
     "ScaledMatrix"
   ],
-  "SpaceMarkers": [],
   "Spaniel": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -7227,7 +7212,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "antiProfiles": [],
   "apComplex": [
     "AnnotationDbi"
   ],
@@ -8377,7 +8361,6 @@
     "genefu",
     "limma",
     "biomaRt",
-    "AIMS",
     "SummarizedExperiment",
     "GSEABase",
     "SingleCellExperiment",
@@ -9812,7 +9795,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "geneRecommender": [],
   "geneXtendeR": [
     "rtracklayer",
     "AnnotationDbi",
@@ -9830,7 +9812,6 @@
   ],
   "genefu": [
     "biomaRt",
-    "AIMS",
     "limma",
     "AnnotationDbi"
   ],
@@ -10075,7 +10056,6 @@
     "VariantAnnotation",
     "SummarizedExperiment",
     "SNPRelate",
-    "quantsmooth",
     "MatrixGenerics",
     "DelayedArray",
     "Rsamtools",
@@ -10687,7 +10667,6 @@
   "mBPCR": [
     "oligoClasses",
     "GWASTools",
-    "quantsmooth",
     "SummarizedExperiment",
     "affyio",
     "MatrixGenerics",
@@ -12329,7 +12308,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "plasmut": [],
   "plier": [
     "affy",
     "affyio"
@@ -12718,7 +12696,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "quantsmooth": [],
   "qusage": [
     "limma"
   ],
@@ -12815,7 +12792,6 @@
     "SparseArray"
   ],
   "randPack": [],
-  "randRotation": [],
   "rbsurv": [],
   "rcellminer": [],
   "receptLoss": [
@@ -13772,7 +13748,6 @@
     "GenomicFeatures",
     "SparseArray"
   ],
-  "seqcombo": [],
   "seqsetvis": [
     "GenomicAlignments",
     "limma",
@@ -13948,7 +13923,6 @@
     "beachmat",
     "SparseArray",
     "biomaRt",
-    "AIMS",
     "annotate",
     "h5mread",
     "rhdf5",
@@ -14336,7 +14310,6 @@
     "SparseArray"
   ],
   "sscu": [],
-  "ssize": [],
   "ssrch": [],
   "ssviz": [
     "Rsamtools"
@@ -14391,7 +14364,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "subSeq": [],
   "supersigs": [
     "SummarizedExperiment",
     "MatrixGenerics",
