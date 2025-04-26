@@ -364,7 +364,6 @@
     "GSVA",
     "sva"
   ],
-  "TFHAZ": [],
   "TFutils": [],
   "TPP": [],
   "TVTB": [
@@ -597,7 +596,6 @@
   ],
   "ggbio": [],
   "ggspavis": [],
-  "glmSparseNet": [],
   "globaltest": [],
   "gmapR": [],
   "gwasurvivr": [],
@@ -748,7 +746,6 @@
     "oligo"
   ],
   "peakPantheR": [],
-  "peco": [],
   "phantasus": [],
   "phenoTest": [],
   "poem": [],
@@ -792,7 +789,6 @@
   "regutools": [
     "Gviz"
   ],
-  "rgsepd": [],
   "riboSeqR": [],
   "ribosomeProfilingQC": [
     "motifStack"
