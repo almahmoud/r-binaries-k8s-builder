@@ -7,7 +7,6 @@
   "ADAMgui": [
     "ADAM"
   ],
-  "ADImpute": [],
   "ADaCGH2": [
     "tilingArray"
   ],
@@ -196,9 +195,7 @@
   "CellBench": [],
   "CellMixS": [],
   "CelliD": [],
-  "CexoR": [
-    "genomation"
-  ],
+  "CexoR": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -361,8 +358,7 @@
     "clusterProfiler"
   ],
   "EpiCompare": [
-    "ChIPseeker",
-    "genomation"
+    "ChIPseeker"
   ],
   "EpiMix": [],
   "EpiTxDb": [
@@ -467,7 +463,6 @@
   ],
   "GenomicPlot": [
     "RCAS",
-    "genomation",
     "txdbmaker"
   ],
   "GeoTcgaData": [],
@@ -773,8 +768,7 @@
     "VariantAnnotation"
   ],
   "RCAS": [
-    "txdbmaker",
-    "genomation"
+    "txdbmaker"
   ],
   "RCSL": [],
   "REMP": [
@@ -953,7 +947,6 @@
   "SigsPack": [
     "VariantAnnotation"
   ],
-  "SimBu": [],
   "SingleCellSignalR": [],
   "SingleMoleculeFootprinting": [
     "QuasR",
@@ -1219,7 +1212,6 @@
     "bsseq",
     "DSS"
   ],
-  "branchpointer": [],
   "broadSeq": [
     "clusterProfiler"
   ],
@@ -1539,9 +1531,7 @@
   "escheR": [
     "SpatialExperiment"
   ],
-  "fCCAC": [
-    "genomation"
-  ],
+  "fCCAC": [],
   "factR": [],
   "famat": [
     "clusterProfiler"
@@ -1579,7 +1569,6 @@
   "gcapc": [],
   "gcatest": [],
   "geneAttribution": [],
-  "genomation": [],
   "geomeTriD": [
     "trackViewer",
     "Gviz",
@@ -1966,7 +1955,6 @@
     "MSnbase"
   ],
   "peco": [],
-  "periodicDNA": [],
   "phantasus": [
     "GEOquery"
   ],
@@ -2025,7 +2013,6 @@
     "MSnbase"
   ],
   "qpgraph": [],
-  "qsea": [],
   "qsmooth": [
     "sva"
   ],
@@ -2122,7 +2109,6 @@
     "slingshot"
   ],
   "scRepertoire": [],
-  "scTGIF": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData",
@@ -2385,6 +2371,5 @@
   ],
   "zellkonverter": [],
   "zenith": [],
-  "zinbwave": [],
-  "zitools": []
+  "zinbwave": []
 }

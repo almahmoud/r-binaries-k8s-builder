@@ -1409,3 +1409,11 @@ crisprBowtie
 pipeFrame
 SIAMCAT
 TFBSTools
+ADImpute
+branchpointer
+genomation
+periodicDNA
+qsea
+scTGIF
+SimBu
+zitools
