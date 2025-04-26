@@ -495,7 +495,6 @@
     "SparseArray",
     "ProtGenerics"
   ],
-  "AlphaBeta": [],
   "AlphaMissenseR": [],
   "AlpsNMR": [
     "mixOmics",
@@ -2820,7 +2819,6 @@
   "ChemmineR": [
     "BiocGenerics"
   ],
-  "Chicago": [],
   "ChromHeatMap": [
     "BiocGenerics",
     "annotate",
@@ -4042,7 +4040,6 @@
     "XVector",
     "rhdf5filters"
   ],
-  "DepInfeR": [],
   "DepecheR": [
     "mixOmics"
   ],
@@ -5431,7 +5428,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "GSAR": [],
   "GSCA": [
     "rhdf5",
     "rhdf5filters"
@@ -6975,7 +6971,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "IsoCorrectoRGUI": [],
   "IsoformSwitchAnalyzeR": [
     "limma",
     "DEXSeq",
@@ -7055,7 +7050,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "KinSwingR": [],
   "KnowSeq": [
     "sva",
     "edgeR",
@@ -9275,7 +9269,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "NPARC": [],
   "NTW": [],
   "NanoMethViz": [
     "S4Vectors",
@@ -10068,7 +10061,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "PROcess": [],
   "PSMatch": [
     "S4Vectors",
     "Spectra",
@@ -11579,7 +11571,6 @@
     "BiocGenerics"
   ],
   "RedeR": [],
-  "RedisParam": [],
   "RegEnrich": [
     "S4Vectors",
     "BiocSet",
@@ -17520,10 +17511,7 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "clst": [],
-  "clstutils": [
-    "clst"
-  ],
+  "clstutils": [],
   "clustComp": [],
   "clustSIGNAL": [
     "SpatialExperiment",
@@ -24238,7 +24226,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "mina": [],
   "minet": [],
   "minfi": [
     "BiocGenerics",
@@ -31505,7 +31492,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "tripr": [],
   "tweeDEseq": [
     "limma",
     "edgeR"

@@ -92,3 +92,15 @@ Path2PPI
 RNAdecay
 RTCGA
 ttgsea
+AlphaBeta
+Chicago
+clst
+DepInfeR
+GSAR
+IsoCorrectoRGUI
+KinSwingR
+mina
+NPARC
+PROcess
+RedisParam
+tripr
