@@ -1840,3 +1840,7 @@ iSEEindex
 iSEEpathways
 MICSQTL
 cypress
+cytofQC
+decontX
+scMerge
+spillR

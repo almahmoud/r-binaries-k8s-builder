@@ -89,7 +89,6 @@
   "CARDspa": [
     "SpatialExperiment"
   ],
-  "CATALYST": [],
   "CCAFE": [],
   "CGHregions": [],
   "CHRONOS": [],
@@ -111,7 +110,6 @@
   "CeTF": [],
   "CellBench": [],
   "CellMixS": [],
-  "CelliD": [],
   "CexoR": [],
   "ChAMP": [
     "minfi",
@@ -311,7 +309,6 @@
   "KnowSeq": [
     "sva"
   ],
-  "M3Drop": [],
   "MAIT": [
     "CAMERA",
     "xcms",
@@ -339,7 +336,6 @@
   "MGnifyR": [
     "mia"
   ],
-  "MICSQTL": [],
   "MIRA": [
     "bsseq"
   ],
@@ -559,7 +555,6 @@
   "SpaNorm": [
     "SpatialExperiment"
   ],
-  "Spaniel": [],
   "SpatialExperiment": [],
   "SpatialExperimentIO": [
     "SpatialExperiment"
@@ -753,7 +748,6 @@
     "RTCGAToolbox"
   ],
   "ccImpute": [],
-  "celda": [],
   "cfDNAPro": [],
   "cfdnakit": [],
   "cghMCR": [
@@ -830,10 +824,7 @@
     "Gviz"
   ],
   "cydar": [],
-  "cypress": [],
-  "cytofQC": [
-    "CATALYST"
-  ],
+  "cytofQC": [],
   "cytomapper": [
     "SpatialExperiment"
   ],
@@ -851,9 +842,7 @@
   "debrowser": [
     "sva"
   ],
-  "decontX": [
-    "celda"
-  ],
+  "decontX": [],
   "deconvR": [
     "minfi",
     "GEOquery"
@@ -876,7 +865,6 @@
   "doppelgangR": [
     "sva"
   ],
-  "doubletrouble": [],
   "dreamlet": [
     "zenith"
   ],
@@ -983,7 +971,6 @@
     "iSEEhex"
   ],
   "iSEEhex": [],
-  "iSEEhub": [],
   "iSEEindex": [],
   "iSEEpathways": [],
   "iSEEtree": [
@@ -1300,9 +1287,7 @@
     "SpatialExperiment"
   ],
   "scMET": [],
-  "scMerge": [
-    "M3Drop"
-  ],
+  "scMerge": [],
   "scRNAseqApp": [
     "slingshot"
   ],
@@ -1391,9 +1376,7 @@
     "cytomapper"
   ],
   "spiky": [],
-  "spillR": [
-    "CATALYST"
-  ],
+  "spillR": [],
   "spoon": [
     "SpatialExperiment",
     "nnSVG"
@@ -1426,7 +1409,6 @@
     "Gviz"
   ],
   "tenXplore": [],
-  "terapadog": [],
   "terraTCGAdata": [],
   "tidySpatialExperiment": [
     "SpatialExperiment"
