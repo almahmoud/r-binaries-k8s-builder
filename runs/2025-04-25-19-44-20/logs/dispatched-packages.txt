@@ -1151,3 +1151,7 @@ fobitools
 metapone
 multiGSEA
 omicsViewer
+PeacoQC
+flowStats
+ggcyto
+openCyto

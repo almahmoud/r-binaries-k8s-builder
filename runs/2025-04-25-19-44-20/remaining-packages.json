@@ -683,24 +683,20 @@
   "CytoMDS": [
     "CytoPipeline",
     "ggcyto",
-    "PeacoQC",
-    "flowWorkspace"
+    "PeacoQC"
   ],
   "CytoML": [
-    "flowWorkspace",
     "openCyto",
     "ggcyto"
   ],
   "CytoPipeline": [
     "ggcyto",
-    "PeacoQC",
-    "flowWorkspace"
+    "PeacoQC"
   ],
   "CytoPipelineGUI": [
     "CytoPipeline",
     "ggcyto",
-    "PeacoQC",
-    "flowWorkspace"
+    "PeacoQC"
   ],
   "DAMEfinder": [
     "GenomicAlignments",
@@ -2085,9 +2081,7 @@
     "edgeR",
     "DESeq2"
   ],
-  "PeacoQC": [
-    "flowWorkspace"
-  ],
+  "PeacoQC": [],
   "PepSetTest": [],
   "PhIPData": [
     "edgeR"
@@ -4346,17 +4340,12 @@
   ],
   "flowBin": [],
   "flowGate": [
-    "flowWorkspace",
     "ggcyto"
   ],
-  "flowStats": [
-    "flowWorkspace"
-  ],
+  "flowStats": [],
   "flowVS": [
-    "flowStats",
-    "flowWorkspace"
+    "flowStats"
   ],
-  "flowWorkspace": [],
   "flowcatchR": [],
   "fobitools": [],
   "frma": [
@@ -4459,9 +4448,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "ggcyto": [
-    "flowWorkspace"
-  ],
+  "ggcyto": [],
   "ggsc": [
     "SingleCellExperiment"
   ],
@@ -5366,9 +5353,7 @@
   "ompBAM": [],
   "oncomix": [],
   "ontoProc": [],
-  "openCyto": [
-    "flowWorkspace"
-  ],
+  "openCyto": [],
   "oposSOM": [],
   "oppar": [
     "GSEABase",
@@ -5463,7 +5448,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "pgxRpi": [],
   "phantasus": [
     "GEOquery",
     "edgeR",
@@ -5498,7 +5482,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "planttfhunter": [],
   "plier": [],
   "plotgardener": [
     "plyranges",
@@ -5516,7 +5499,6 @@
     "GenomicAlignments"
   ],
   "plyxp": [],
-  "pmp": [],
   "podkat": [
     "BSgenome",
     "rtracklayer",
@@ -6354,13 +6336,11 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ssPATHS": [],
   "ssviz": [],
   "stJoincount": [
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "stageR": [],
   "standR": [
     "SpatialExperiment",
     "SingleCellExperiment",
@@ -6385,7 +6365,6 @@
   "survClust": [
     "MultiAssayExperiment"
   ],
-  "survtype": [],
   "sva": [
     "genefilter",
     "edgeR",
@@ -6496,7 +6475,6 @@
   "timecourse": [
     "marray"
   ],
-  "tomoda": [],
   "topdownr": [
     "MSnbase",
     "PSMatch",
@@ -6706,7 +6684,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "zFPKM": [],
   "zellkonverter": [
     "SingleCellExperiment"
   ],

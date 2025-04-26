@@ -892,3 +892,12 @@ mfa
 phenopath
 satuRn
 tidySummarizedExperiment
+flowWorkspace
+pgxRpi
+planttfhunter
+pmp
+ssPATHS
+stageR
+survtype
+tomoda
+zFPKM
