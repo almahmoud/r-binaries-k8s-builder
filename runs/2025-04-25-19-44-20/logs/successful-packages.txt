@@ -1521,3 +1521,8 @@ Basic4Cseq
 BUSpaRse
 convert
 RUVSeq
+biovizBase
+drugTargetInteractions
+ExploreModelMatrix
+PLSDAbatch
+TCGAutils

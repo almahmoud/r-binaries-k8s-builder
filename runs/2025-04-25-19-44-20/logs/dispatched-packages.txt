@@ -1808,3 +1808,9 @@ GA4GHshiny
 TurboNorm
 consensusDE
 scone
+BubbleTree
+ChIPexoQual
+Gviz
+RTCGAToolbox
+glmSparseNet
+terraTCGAdata
