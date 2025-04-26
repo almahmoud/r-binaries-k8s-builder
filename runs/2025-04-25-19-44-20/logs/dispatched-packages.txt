@@ -1736,3 +1736,10 @@ seqCAT
 signeR
 tLOH
 transmogR
+BUSpaRse
+EpiCompare
+RAIDS
+biovizBase
+chevreulProcess
+demuxSNP
+drugTargetInteractions

@@ -1442,3 +1442,9 @@ qpgraph
 strandCheckR
 TFEA.ChIP
 VariantAnnotation
+ChIPseeker
+CRISPRseek
+Doscheda
+ensembldb
+MetaNeighbor
+scAnnotatR
