@@ -1637,3 +1637,4 @@ scDblFinder
 scDotPlot
 scviR
 tricycle
+xCell2
