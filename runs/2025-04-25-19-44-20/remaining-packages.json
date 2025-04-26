@@ -4384,7 +4384,6 @@
     "GSEABase",
     "annotate"
   ],
-  "geyser": [],
   "gg4way": [
     "DESeq2",
     "edgeR"
@@ -4675,7 +4674,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "lionessR": [],
   "lipidr": [
     "ropls",
     "MultiAssayExperiment",
@@ -5143,7 +5141,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "multiGSEA": [],
   "multiHiCcompare": [
     "HiCcompare",
     "edgeR",
@@ -5286,7 +5283,6 @@
     "MultiAssayExperiment",
     "RaggedExperiment"
   ],
-  "omicsViewer": [],
   "ompBAM": [],
   "ontoProc": [],
   "openCyto": [],

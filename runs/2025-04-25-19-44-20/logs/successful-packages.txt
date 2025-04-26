@@ -929,3 +929,7 @@ gscreend
 kmcut
 multiWGCNA
 PeacoQC
+geyser
+lionessR
+multiGSEA
+omicsViewer
