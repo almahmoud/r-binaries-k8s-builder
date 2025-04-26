@@ -1332,3 +1332,10 @@ breakpointR
 mosaics
 ramwas
 rtracklayer
+BLMA
+SpectralTAD
+TADCompare
+censcyt
+multiHiCcompare
+scHiCcompare
+treekoR

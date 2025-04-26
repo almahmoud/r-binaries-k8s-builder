@@ -1119,3 +1119,13 @@ MBQN
 MsFeatures
 PAIRADISE
 plyxp
+diffcyt
+EDIRquery
+ginmappeR
+HiCcompare
+HiCParser
+LACE
+LRcell
+MicrobiotaProcess
+PADOG
+scDDboost

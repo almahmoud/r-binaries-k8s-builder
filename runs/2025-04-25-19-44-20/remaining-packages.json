@@ -133,9 +133,7 @@
     "sva",
     "genefilter"
   ],
-  "BLMA": [
-    "PADOG"
-  ],
+  "BLMA": [],
   "BOBaFIT": [
     "ggbio",
     "plyranges",
@@ -664,7 +662,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "EDIRquery": [],
   "EGAD": [
     "GEOquery"
   ],
@@ -971,12 +968,9 @@
     "VariantAnnotation"
   ],
   "HiCDOC": [
-    "multiHiCcompare",
-    "HiCcompare"
+    "multiHiCcompare"
   ],
   "HiCExperiment": [],
-  "HiCParser": [],
-  "HiCcompare": [],
   "HiContacts": [
     "HiCExperiment"
   ],
@@ -1078,8 +1072,6 @@
     "sva",
     "genefilter"
   ],
-  "LACE": [],
-  "LRcell": [],
   "Lheuristic": [
     "MultiAssayExperiment"
   ],
@@ -1292,7 +1284,6 @@
   "MicrobiomeProfiler": [
     "clusterProfiler"
   ],
-  "MicrobiotaProcess": [],
   "MineICA": [
     "GOstats",
     "lumi",
@@ -1450,7 +1441,6 @@
     "sva",
     "genefilter"
   ],
-  "PADOG": [],
   "PAST": [
     "rtracklayer"
   ],
@@ -1967,9 +1957,7 @@
     "SpatialExperiment",
     "scuttle"
   ],
-  "SpectralTAD": [
-    "HiCcompare"
-  ],
+  "SpectralTAD": [],
   "SpliceWiz": [
     "BSgenome",
     "genefilter",
@@ -1992,8 +1980,7 @@
   ],
   "Statial": [
     "SpatialExperiment",
-    "treekoR",
-    "diffcyt"
+    "treekoR"
   ],
   "StructuralVariantAnnotation": [
     "rtracklayer",
@@ -2006,9 +1993,7 @@
     "DESeq2",
     "phyloseq"
   ],
-  "TADCompare": [
-    "HiCcompare"
-  ],
+  "TADCompare": [],
   "TAPseq": [
     "BSgenome",
     "GenomicFeatures",
@@ -2557,9 +2542,7 @@
     "scuttle"
   ],
   "cellbaseR": [],
-  "censcyt": [
-    "diffcyt"
-  ],
+  "censcyt": [],
   "cfDNAPro": [
     "plyranges",
     "BSgenome",
@@ -2946,7 +2929,6 @@
     "genefilter",
     "GenomicFeatures"
   ],
-  "diffcyt": [],
   "distinct": [
     "scater",
     "scuttle"
@@ -3219,7 +3201,6 @@
   "ggspavis": [
     "SpatialExperiment"
   ],
-  "ginmappeR": [],
   "glmGamPoi": [],
   "glmSparseNet": [
     "MultiAssayExperiment",
@@ -3760,9 +3741,7 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "multiHiCcompare": [
-    "HiCcompare"
-  ],
+  "multiHiCcompare": [],
   "multistateQTL": [],
   "mumosa": [
     "scuttle",
@@ -4224,7 +4203,6 @@
     "scran",
     "scuttle"
   ],
-  "scDDboost": [],
   "scDataviz": [],
   "scDblFinder": [
     "scran",
@@ -4254,9 +4232,7 @@
     "DESeq2"
   ],
   "scHOT": [],
-  "scHiCcompare": [
-    "HiCcompare"
-  ],
+  "scHiCcompare": [],
   "scMET": [],
   "scMerge": [
     "M3Drop",
@@ -4688,12 +4664,9 @@
     "rtracklayer"
   ],
   "treeclimbR": [
-    "TreeSummarizedExperiment",
-    "diffcyt"
+    "TreeSummarizedExperiment"
   ],
-  "treekoR": [
-    "diffcyt"
-  ],
+  "treekoR": [],
   "tricycle": [
     "scater",
     "scuttle"
