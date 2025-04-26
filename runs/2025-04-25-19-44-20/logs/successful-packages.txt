@@ -1639,3 +1639,6 @@ tilingArray
 GEOquery
 GSEABenchmarkeR
 iSEEpathways
+annmap
+iSEEhex
+SingleCellSignalR

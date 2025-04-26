@@ -509,7 +509,6 @@
     "MLInterfaces"
   ],
   "SigsPack": [],
-  "SingleCellSignalR": [],
   "SingleMoleculeFootprinting": [
     "QuasR",
     "GenomicFiles"
@@ -629,7 +628,6 @@
     "SpatialExperiment"
   ],
   "alabaster.vcf": [],
-  "annmap": [],
   "appreci8R": [
     "OrganismDbi"
   ],
@@ -922,17 +920,13 @@
     "OrganismDbi"
   ],
   "iSEEfier": [
-    "iSEEu",
-    "iSEEhex"
+    "iSEEu"
   ],
-  "iSEEhex": [],
   "iSEEtree": [
     "miaViz",
     "mia"
   ],
-  "iSEEu": [
-    "iSEEhex"
-  ],
+  "iSEEu": [],
   "icetea": [],
   "igvR": [],
   "imcRtools": [
@@ -1221,7 +1215,6 @@
   "scDblFinder": [],
   "scFeatures": [
     "GSVA",
-    "SingleCellSignalR",
     "SpatialExperiment"
   ],
   "scMET": [],
