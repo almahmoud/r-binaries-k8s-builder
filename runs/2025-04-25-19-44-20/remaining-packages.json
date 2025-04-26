@@ -15,9 +15,7 @@
     "tilingArray",
     "genefilter"
   ],
-  "AGDEX": [
-    "GSEABase"
-  ],
+  "AGDEX": [],
   "AHMassBank": [
     "AnnotationHubData",
     "OrganismDbi",
@@ -45,9 +43,7 @@
     "motifmatchr",
     "TFBSTools"
   ],
-  "AUCell": [
-    "GSEABase"
-  ],
+  "AUCell": [],
   "AffiXcan": [],
   "AgiMicroRna": [
     "affycoretools",
@@ -55,7 +51,6 @@
     "oligoClasses",
     "ReportingTools",
     "Category",
-    "GSEABase",
     "ggbio",
     "genefilter",
     "biovizBase",
@@ -124,13 +119,9 @@
   "BiSeq": [
     "globaltest"
   ],
-  "BicARE": [
-    "GSEABase"
-  ],
+  "BicARE": [],
   "BindingSiteFinder": [],
-  "BioCor": [
-    "GSEABase"
-  ],
+  "BioCor": [],
   "BioGA": [],
   "BioNERO": [
     "sva",
@@ -193,8 +184,7 @@
     "VariantAnnotation"
   ],
   "CCPROMISE": [
-    "PROMISE",
-    "GSEABase"
+    "PROMISE"
   ],
   "CDI": [],
   "CEMiTool": [
@@ -217,7 +207,6 @@
     "bsseq"
   ],
   "CODEX": [],
-  "COTAN": [],
   "CRISPRball": [
     "dittoSeq"
   ],
@@ -231,7 +220,6 @@
     "CTdata"
   ],
   "Category": [
-    "GSEABase",
     "genefilter"
   ],
   "CatsCradle": [
@@ -248,9 +236,7 @@
   "CelliD": [
     "scater"
   ],
-  "Cepo": [
-    "GSEABase"
-  ],
+  "Cepo": [],
   "CexoR": [
     "genomation"
   ],
@@ -319,7 +305,6 @@
   "ClusterFoldSimilarity": [],
   "CoSIA": [],
   "Cogito": [],
-  "CuratedAtlasQueryR": [],
   "CytoMDS": [
     "CytoPipeline"
   ],
@@ -443,9 +428,7 @@
   "EnrichDO": [
     "clusterProfiler"
   ],
-  "EnrichmentBrowser": [
-    "GSEABase"
-  ],
+  "EnrichmentBrowser": [],
   "EpiCompare": [
     "ChIPseeker",
     "genomation"
@@ -517,24 +500,19 @@
   "GOTHiC": [],
   "GOstats": [
     "Category",
-    "GSEABase",
     "genefilter"
   ],
-  "GSEABase": [],
   "GSEABenchmarkeR": [
-    "EnrichmentBrowser",
-    "GSEABase"
+    "EnrichmentBrowser"
   ],
   "GSRI": [
-    "genefilter",
-    "GSEABase"
+    "genefilter"
   ],
   "GSReg": [
     "OrganismDbi",
     "txdbmaker"
   ],
   "GSVA": [
-    "GSEABase",
     "SpatialExperiment"
   ],
   "GeneBreak": [
@@ -575,12 +553,10 @@
   ],
   "GeoTcgaData": [],
   "GlobalAncova": [
-    "globaltest",
-    "GSEABase"
+    "globaltest"
   ],
   "GmicR": [
     "Category",
-    "GSEABase",
     "GOstats",
     "genefilter"
   ],
@@ -793,7 +769,6 @@
     "lumi",
     "Category",
     "methylumi",
-    "GSEABase",
     "genefilter",
     "minfi",
     "bumphunter",
@@ -881,9 +856,7 @@
     "sva",
     "genefilter"
   ],
-  "PROMISE": [
-    "GSEABase"
-  ],
+  "PROMISE": [],
   "PRONE": [
     "NormalyzerDE",
     "MSnbase",
@@ -898,8 +871,7 @@
   ],
   "PSMatch": [],
   "PanomiR": [
-    "clusterProfiler",
-    "GSEABase"
+    "clusterProfiler"
   ],
   "PathoStat": [
     "phyloseq"
@@ -1042,15 +1014,13 @@
     "dada2"
   ],
   "RcisTarget": [
-    "AUCell",
-    "GSEABase"
+    "AUCell"
   ],
   "Rcpi": [],
   "Repitools": [],
   "ReportingTools": [
     "Category",
     "GOstats",
-    "GSEABase",
     "ggbio",
     "genefilter",
     "biovizBase",
@@ -1118,8 +1088,7 @@
   "SGCP": [
     "genefilter",
     "GOstats",
-    "Category",
-    "GSEABase"
+    "Category"
   ],
   "SGSeq": [],
   "SIAMCAT": [
@@ -1229,7 +1198,6 @@
     "GSVA",
     "singscore",
     "sva",
-    "GSEABase",
     "SpatialExperiment",
     "genefilter"
   ],
@@ -1243,13 +1211,10 @@
     "txdbmaker"
   ],
   "TFutils": [
-    "GSEABase",
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "TMSig": [
-    "GSEABase"
-  ],
+  "TMSig": [],
   "TOAST": [],
   "TOP": [
     "ClassifyR",
@@ -1266,9 +1231,7 @@
     "VariantAnnotation",
     "biovizBase"
   ],
-  "TissueEnrich": [
-    "GSEABase"
-  ],
+  "TissueEnrich": [],
   "ToxicoGx": [],
   "TrajectoryUtils": [],
   "TurboNorm": [
@@ -1353,7 +1316,6 @@
     "oligoClasses",
     "ReportingTools",
     "Category",
-    "GSEABase",
     "ggbio",
     "genefilter",
     "biovizBase",
@@ -1426,7 +1388,6 @@
   "attract": [
     "GOstats",
     "Category",
-    "GSEABase",
     "genefilter"
   ],
   "ballgown": [
@@ -1516,7 +1477,6 @@
   ],
   "canceR": [
     "cBioPortalData",
-    "GSEABase",
     "phenoTest",
     "RTCGAToolbox",
     "TCGAutils",
@@ -1525,7 +1485,6 @@
   ],
   "casper": [],
   "categoryCompare": [
-    "GSEABase",
     "Category",
     "GOstats",
     "genefilter"
@@ -1590,7 +1549,6 @@
   ],
   "cleanUpdTSeq": [],
   "cliProfiler": [],
-  "clippda": [],
   "clipper": [
     "qpgraph"
   ],
@@ -1641,7 +1599,6 @@
   ],
   "consensusOV": [
     "GSVA",
-    "GSEABase",
     "SpatialExperiment"
   ],
   "conumee": [
@@ -1660,18 +1617,14 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "cosmosR": [
-    "GSEABase"
-  ],
+  "cosmosR": [],
   "countsimQC": [
     "genefilter"
   ],
   "covRNA": [
     "genefilter"
   ],
-  "cpvSNP": [
-    "GSEABase"
-  ],
+  "cpvSNP": [],
   "crisprBowtie": [],
   "crisprBwa": [],
   "crisprDesign": [
@@ -1809,7 +1762,6 @@
   ],
   "doubletrouble": [],
   "dreamlet": [
-    "GSEABase",
     "zenith",
     "EnrichmentBrowser"
   ],
@@ -1844,7 +1796,6 @@
     "scran",
     "AUCell",
     "motifmatchr",
-    "GSEABase",
     "TFBSTools"
   ],
   "epiregulon.extra": [
@@ -1887,7 +1838,6 @@
   ],
   "escape": [
     "AUCell",
-    "GSEABase",
     "GSVA",
     "UCell",
     "SpatialExperiment"
@@ -1949,9 +1899,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "gep2pep": [
-    "GSEABase"
-  ],
+  "gep2pep": [],
   "ggbio": [
     "biovizBase",
     "VariantAnnotation",
@@ -2063,7 +2011,6 @@
   ],
   "interactiveDisplay": [
     "Category",
-    "GSEABase",
     "genefilter"
   ],
   "isomiRs": [],
@@ -2132,15 +2079,12 @@
     "VariantAnnotation"
   ],
   "maskBAD": [],
-  "mastR": [
-    "GSEABase"
-  ],
+  "mastR": [],
   "mbQTL": [],
   "mbkmeans": [],
   "meshes": [],
   "meshr": [
     "Category",
-    "GSEABase",
     "genefilter"
   ],
   "metaMS": [
@@ -2206,12 +2150,10 @@
   "miRLAB": [
     "Category",
     "GOstats",
-    "GSEABase",
     "genefilter"
   ],
   "miRSM": [
     "BicARE",
-    "GSEABase",
     "clusterProfiler"
   ],
   "miRspongeR": [
@@ -2262,8 +2204,7 @@
   ],
   "mobileRNA": [],
   "mogsa": [
-    "genefilter",
-    "GSEABase"
+    "genefilter"
   ],
   "monaLisa": [
     "TFBSTools"
@@ -2339,16 +2280,13 @@
   "nnSVG": [
     "SpatialExperiment"
   ],
-  "npGSEA": [
-    "GSEABase"
-  ],
+  "npGSEA": [],
   "nucleR": [],
   "nullranges": [],
   "octad": [
     "RUVSeq",
     "EDASeq",
     "GSVA",
-    "GSEABase",
     "SpatialExperiment"
   ],
   "oligo": [
@@ -2365,7 +2303,6 @@
   ],
   "omicplotR": [],
   "oppar": [
-    "GSEABase",
     "GSVA",
     "SpatialExperiment"
   ],
@@ -2395,7 +2332,6 @@
   "pathMED": [
     "GSVA",
     "singscore",
-    "GSEABase",
     "SpatialExperiment"
   ],
   "pathlinkR": [
@@ -2418,7 +2354,6 @@
   ],
   "phenoTest": [
     "Category",
-    "GSEABase",
     "genefilter"
   ],
   "phenomis": [
@@ -2558,7 +2493,6 @@
   "rqt": [
     "ropls"
   ],
-  "rrvgo": [],
   "sSNAPPY": [],
   "sampleClassifier": [
     "MGFR"
@@ -2580,8 +2514,7 @@
   ],
   "scCB2": [],
   "scClassify": [
-    "Cepo",
-    "GSEABase"
+    "Cepo"
   ],
   "scDD": [
     "scran"
@@ -2600,7 +2533,6 @@
     "ensembldb",
     "AUCell",
     "SingleCellSignalR",
-    "GSEABase",
     "SpatialExperiment",
     "scran"
   ],
@@ -2619,7 +2551,6 @@
   "scReClassify": [],
   "scRepertoire": [],
   "scTGIF": [
-    "GSEABase",
     "schex"
   ],
   "scTreeViz": [
@@ -2691,8 +2622,7 @@
     "GEOquery"
   ],
   "signatureSearch": [
-    "clusterProfiler",
-    "GSEABase"
+    "clusterProfiler"
   ],
   "signeR": [
     "VariantAnnotation"
@@ -2701,16 +2631,13 @@
     "consensusOV",
     "ensembldb",
     "GSVA",
-    "SpatialExperiment",
-    "GSEABase"
+    "SpatialExperiment"
   ],
   "simpleSeg": [
     "cytomapper",
     "SpatialExperiment"
   ],
-  "singscore": [
-    "GSEABase"
-  ],
+  "singscore": [],
   "sitadela": [
     "txdbmaker"
   ],
@@ -2723,9 +2650,7 @@
     "GEOquery",
     "lumi"
   ],
-  "slalom": [
-    "GSEABase"
-  ],
+  "slalom": [],
   "slingshot": [
     "TrajectoryUtils"
   ],
@@ -2747,9 +2672,7 @@
   "spacexr": [
     "SpatialExperiment"
   ],
-  "sparrow": [
-    "GSEABase"
-  ],
+  "sparrow": [],
   "spatialDE": [
     "SpatialExperiment"
   ],
@@ -2784,9 +2707,7 @@
     "scater"
   ],
   "splatter": [],
-  "splineTimeR": [
-    "GSEABase"
-  ],
+  "splineTimeR": [],
   "spoon": [
     "SpatialExperiment",
     "nnSVG"
@@ -2914,9 +2835,7 @@
     "SpatialExperiment",
     "scater"
   ],
-  "vissE": [
-    "GSEABase"
-  ],
+  "vissE": [],
   "vsclust": [],
   "waddR": [],
   "wateRmelon": [
@@ -2930,8 +2849,7 @@
   "wavClusteR": [],
   "webbioc": [],
   "xCell2": [
-    "singscore",
-    "GSEABase"
+    "singscore"
   ],
   "xcms": [
     "MSnbase",
@@ -2951,8 +2869,7 @@
   ],
   "zellkonverter": [],
   "zenith": [
-    "EnrichmentBrowser",
-    "GSEABase"
+    "EnrichmentBrowser"
   ],
   "zinbwave": [
     "genefilter"

@@ -1302,3 +1302,8 @@ limmaGUI
 OTUbase
 SIMD
 simPIC
+clippda
+COTAN
+CuratedAtlasQueryR
+GSEABase
+rrvgo
