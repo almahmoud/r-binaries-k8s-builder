@@ -1129,3 +1129,10 @@ LRcell
 MicrobiotaProcess
 PADOG
 scDDboost
+alabaster.matrix
+DelayedDataFrame
+DESeq2
+GenomicSuperSignature
+MetNet
+MultiAssayExperiment
+Rnits
