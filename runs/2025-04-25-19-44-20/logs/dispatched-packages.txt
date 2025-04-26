@@ -838,3 +838,9 @@ safe
 scMitoMut
 simplifyEnrichment
 tkWidgets
+DelayedArray
+FlowSOM
+GENESIS
+Mfuzz
+affy
+h5mread
