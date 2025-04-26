@@ -1830,3 +1830,4 @@ chevreulPlot
 magpie
 rgsepd
 FRASER
+MSstatsShiny

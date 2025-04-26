@@ -373,7 +373,6 @@
     "msmsEDA"
   ],
   "MSnbase": [],
-  "MSstatsPTM": [],
   "MSstatsQC": [
     "MSnbase"
   ],
@@ -381,9 +380,7 @@
     "MSstatsQC",
     "MSnbase"
   ],
-  "MSstatsShiny": [
-    "MSstatsPTM"
-  ],
+  "MSstatsShiny": [],
   "MatrixQCvis": [
     "sva"
   ],
@@ -633,7 +630,6 @@
   "TurboNorm": [],
   "UCell": [],
   "UPDhmm": [],
-  "Ularcirc": [],
   "Uniquorn": [],
   "VAExprs": [],
   "VCFArray": [
@@ -967,7 +963,6 @@
   "escheR": [
     "SpatialExperiment"
   ],
-  "fCCAC": [],
   "famat": [],
   "fcScan": [],
   "ffpe": [
@@ -1082,7 +1077,6 @@
   "lemur": [
     "glmGamPoi"
   ],
-  "lineagespot": [],
   "lipidr": [],
   "lisaClust": [
     "spicyR",
@@ -1218,7 +1212,6 @@
     "MSnbase",
     "MsExperiment"
   ],
-  "nearBynding": [],
   "nempi": [
     "epiNEM"
   ],
@@ -1382,7 +1375,6 @@
     "epivizrData",
     "OrganismDbi"
   ],
-  "scanMiRApp": [],
   "scider": [
     "SpatialExperiment"
   ],
@@ -1526,7 +1518,6 @@
   ],
   "traseR": [],
   "tricycle": [],
-  "uSORT": [],
   "uncoverappLib": [
     "Gviz",
     "OrganismDbi"
