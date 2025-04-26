@@ -1,2 +1,5 @@
-lemur
-transformGamPoi
+FEAST
+GOstats
+interactiveDisplay
+meshr
+phenoTest

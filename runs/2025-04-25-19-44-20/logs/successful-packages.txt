@@ -1664,3 +1664,12 @@ proActiv
 rGREAT
 SCArray.sat
 spillR
+BBCAnalyzer
+Category
+cliProfiler
+crisprDesign
+decontX
+scmap
+TSCAN
+UPDhmm
+VarCon

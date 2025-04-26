@@ -19,7 +19,6 @@
     "affycoretools",
     "GOstats",
     "ReportingTools",
-    "Category",
     "ggbio",
     "OrganismDbi"
   ],
@@ -33,7 +32,6 @@
   "BASiCStan": [
     "BASiCS"
   ],
-  "BBCAnalyzer": [],
   "BERT": [
     "sva"
   ],
@@ -95,7 +93,6 @@
   "CTSV": [
     "SpatialExperiment"
   ],
-  "Category": [],
   "CatsCradle": [
     "SpatialExperiment"
   ],
@@ -192,9 +189,7 @@
   "ExperimentSubset": [
     "SpatialExperiment"
   ],
-  "FEAST": [
-    "TSCAN"
-  ],
+  "FEAST": [],
   "FLAMES": [
     "ggbio",
     "SpatialExperiment",
@@ -212,9 +207,7 @@
     "sva"
   ],
   "GOTHiC": [],
-  "GOstats": [
-    "Category"
-  ],
+  "GOstats": [],
   "GSRI": [],
   "GSReg": [
     "OrganismDbi"
@@ -241,7 +234,6 @@
     "globaltest"
   ],
   "GmicR": [
-    "Category",
     "GOstats"
   ],
   "Gviz": [],
@@ -329,7 +321,6 @@
   "MineICA": [
     "GOstats",
     "lumi",
-    "Category",
     "methylumi",
     "minfi"
   ],
@@ -428,7 +419,6 @@
   ],
   "Repitools": [],
   "ReportingTools": [
-    "Category",
     "GOstats",
     "ggbio",
     "OrganismDbi"
@@ -460,8 +450,7 @@
     "sva"
   ],
   "SGCP": [
-    "GOstats",
-    "Category"
+    "GOstats"
   ],
   "SIM": [
     "globaltest"
@@ -527,13 +516,11 @@
   ],
   "TOP": [],
   "TPP": [],
-  "TSCAN": [],
   "TVTB": [
     "Gviz"
   ],
   "TurboNorm": [],
   "UCell": [],
-  "UPDhmm": [],
   "Uniquorn": [],
   "VAExprs": [],
   "VCFArray": [
@@ -546,7 +533,6 @@
   "VanillaICE": [
     "crlmm"
   ],
-  "VarCon": [],
   "VariantFiltering": [
     "Gviz"
   ],
@@ -578,7 +564,6 @@
   "affycoretools": [
     "GOstats",
     "ReportingTools",
-    "Category",
     "ggbio",
     "OrganismDbi"
   ],
@@ -615,8 +600,7 @@
     "motifStack"
   ],
   "attract": [
-    "GOstats",
-    "Category"
+    "GOstats"
   ],
   "ballgown": [
     "sva"
@@ -665,11 +649,9 @@
   "canceR": [
     "cBioPortalData",
     "phenoTest",
-    "RTCGAToolbox",
-    "Category"
+    "RTCGAToolbox"
   ],
   "categoryCompare": [
-    "Category",
     "GOstats"
   ],
   "cbaf": [
@@ -692,7 +674,6 @@
   "cicero": [
     "Gviz"
   ],
-  "cliProfiler": [],
   "clipper": [],
   "cliqueMS": [
     "xcms",
@@ -729,19 +710,15 @@
   ],
   "countsimQC": [],
   "covRNA": [],
-  "crisprDesign": [],
   "crisprShiny": [
-    "crisprDesign",
     "crisprViz",
     "Gviz"
   ],
   "crisprVerse": [
-    "crisprDesign",
     "crisprViz",
     "Gviz"
   ],
   "crisprViz": [
-    "crisprDesign",
     "Gviz"
   ],
   "crlmm": [],
@@ -766,7 +743,6 @@
   "debrowser": [
     "sva"
   ],
-  "decontX": [],
   "deconvR": [
     "minfi"
   ],
@@ -898,9 +874,7 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "interactiveDisplay": [
-    "Category"
-  ],
+  "interactiveDisplay": [],
   "jazzPanda": [
     "SpatialExperiment"
   ],
@@ -935,9 +909,7 @@
   ],
   "mbQTL": [],
   "mbkmeans": [],
-  "meshr": [
-    "Category"
-  ],
+  "meshr": [],
   "metaMS": [
     "CAMERA",
     "xcms",
@@ -974,7 +946,6 @@
     "minfi"
   ],
   "miRLAB": [
-    "Category",
     "GOstats"
   ],
   "miRSM": [],
@@ -1083,9 +1054,7 @@
   ],
   "peco": [],
   "phantasus": [],
-  "phenoTest": [
-    "Category"
-  ],
+  "phenoTest": [],
   "phenomis": [],
   "plyinteractions": [],
   "poem": [
@@ -1174,7 +1143,6 @@
   "scider": [
     "SpatialExperiment"
   ],
-  "scmap": [],
   "scone": [],
   "scruff": [
     "ggbio",
