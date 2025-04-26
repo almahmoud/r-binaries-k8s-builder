@@ -1023,3 +1023,16 @@ QTLExperiment
 rGenomeTracks
 RolDE
 Trendy
+apComplex
+ctsGE
+GeneSelectMMD
+HybridMTest
+iCOBRA
+IntramiRExploreR
+limpa
+nethet
+ReactomeGSA
+retrofit
+RTN
+RTopper
+TCGAbiolinks

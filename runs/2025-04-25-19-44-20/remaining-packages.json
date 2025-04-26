@@ -39,7 +39,6 @@
     "DESeq2",
     "rtracklayer",
     "VariantAnnotation",
-    "HybridMTest",
     "BSgenome"
   ],
   "ASICS": [
@@ -826,7 +825,6 @@
   ],
   "ELMER": [
     "GenomicFeatures",
-    "TCGAbiolinks",
     "Gviz",
     "MultiAssayExperiment",
     "rtracklayer",
@@ -1062,7 +1060,6 @@
     "genefilter",
     "annotate"
   ],
-  "GeneSelectMMD": [],
   "GeneStructureTools": [
     "Gviz",
     "rtracklayer",
@@ -1239,7 +1236,6 @@
   "HybridExpress": [
     "DESeq2"
   ],
-  "HybridMTest": [],
   "ILoReg": [],
   "IMAS": [
     "GenomicFeatures",
@@ -1311,7 +1307,6 @@
     "BSgenome"
   ],
   "InteractionSet": [],
-  "IntramiRExploreR": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
     "sva",
@@ -1644,7 +1639,6 @@
   ],
   "MoonlightR": [
     "clusterProfiler",
-    "TCGAbiolinks",
     "GEOquery"
   ],
   "Motif2Site": [
@@ -2089,15 +2083,10 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RTN": [],
-  "RTNduals": [
-    "RTN"
-  ],
+  "RTNduals": [],
   "RTNsurvival": [
-    "RTN",
     "RTNduals"
   ],
-  "RTopper": [],
   "RUCova": [],
   "RUVSeq": [
     "EDASeq",
@@ -2130,7 +2119,6 @@
     "annotate"
   ],
   "Rcpi": [],
-  "ReactomeGSA": [],
   "ReactomePA": [],
   "RegEnrich": [
     "DESeq2"
@@ -2477,7 +2465,6 @@
     "SPsimSeq",
     "DESeq2",
     "edgeR",
-    "TCGAbiolinks",
     "phyloseq"
   ],
   "TADCompare": [
@@ -2506,7 +2493,6 @@
     "DESeq2",
     "edgeR"
   ],
-  "TCGAbiolinks": [],
   "TCGAutils": [
     "GenomicFeatures",
     "MultiAssayExperiment",
@@ -2524,7 +2510,6 @@
     "GenomicAlignments"
   ],
   "TENET": [
-    "TCGAbiolinks",
     "MultiAssayExperiment",
     "rtracklayer",
     "BSgenome",
@@ -2857,7 +2842,6 @@
     "DESeq2",
     "edgeR"
   ],
-  "apComplex": [],
   "appreci8R": [
     "VariantAnnotation",
     "BSgenome",
@@ -3458,7 +3442,6 @@
   "csaw": [
     "edgeR"
   ],
-  "ctsGE": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -4048,10 +4031,8 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "iCOBRA": [],
   "iCheck": [
     "lumi",
-    "GeneSelectMMD",
     "methylumi",
     "GenomicFeatures",
     "annotate",
@@ -4194,7 +4175,6 @@
   ],
   "levi": [],
   "limmaGUI": [],
-  "limpa": [],
   "lineagespot": [
     "VariantAnnotation",
     "rtracklayer",
@@ -4426,7 +4406,6 @@
   ],
   "miQC": [],
   "miRLAB": [
-    "TCGAbiolinks",
     "Category",
     "GOstats",
     "GSEABase",
@@ -4682,7 +4661,6 @@
     "genefilter",
     "annotate"
   ],
-  "nethet": [],
   "nipalsMCIA": [
     "MultiAssayExperiment"
   ],
@@ -5088,7 +5066,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "retrofit": [],
   "rfPred": [],
   "rgsepd": [
     "DESeq2",
