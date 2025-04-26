@@ -1224,3 +1224,12 @@ DEFormats
 geneXtendeR
 midasHLA
 syntenet
+DEGreport
+DELocal
+extraChIPs
+lmdme
+padma
+seqsetvis
+sevenC
+systemPipeTools
+unifiedWMWqPCR

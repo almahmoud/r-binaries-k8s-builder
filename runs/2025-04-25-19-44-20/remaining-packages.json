@@ -365,8 +365,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "DEGreport": [],
-  "DELocal": [],
   "DEP": [
     "MSnbase",
     "PSMatch"
@@ -1648,7 +1646,6 @@
   ],
   "branchpointer": [],
   "broadSeq": [
-    "DELocal",
     "genefilter",
     "clusterProfiler"
   ],
@@ -2074,7 +2071,6 @@
   "escheR": [
     "SpatialExperiment"
   ],
-  "extraChIPs": [],
   "fCCAC": [
     "genomation"
   ],
@@ -2253,9 +2249,7 @@
     "GSEABase",
     "genefilter"
   ],
-  "isomiRs": [
-    "DEGreport"
-  ],
+  "isomiRs": [],
   "jazzPanda": [
     "SpatialExperiment"
   ],
@@ -2288,7 +2282,6 @@
     "ClassifyR",
     "genefilter"
   ],
-  "lmdme": [],
   "lumi": [
     "methylumi",
     "minfi",
@@ -2604,7 +2597,6 @@
     "MLInterfaces",
     "genefilter"
   ],
-  "padma": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools"
@@ -2931,8 +2923,6 @@
   "seqCAT": [
     "VariantAnnotation"
   ],
-  "seqsetvis": [],
-  "sevenC": [],
   "shinyDSP": [
     "scater",
     "standR",
@@ -3098,7 +3088,6 @@
     "VariantAnnotation"
   ],
   "systemPipeR": [],
-  "systemPipeTools": [],
   "tLOH": [
     "VariantAnnotation"
   ],
@@ -3187,7 +3176,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "unifiedWMWqPCR": [],
   "velociraptor": [
     "zellkonverter",
     "scuttle"
