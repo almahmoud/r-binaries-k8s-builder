@@ -1633,3 +1633,6 @@ iSEEde
 RJMCMCNucleosomes
 SGSeq
 vidger
+iSEEindex
+mogsa
+tilingArray

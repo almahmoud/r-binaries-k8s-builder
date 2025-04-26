@@ -1,8 +1,6 @@
 {
   "ACE": [],
-  "ADaCGH2": [
-    "tilingArray"
-  ],
+  "ADaCGH2": [],
   "AHMassBank": [
     "AnnotationHubData",
     "OrganismDbi"
@@ -959,7 +957,6 @@
     "iSEEhex"
   ],
   "iSEEhex": [],
-  "iSEEindex": [],
   "iSEEpathways": [],
   "iSEEtree": [
     "miaViz",
@@ -1097,7 +1094,6 @@
   "mitoClone2": [
     "deepSNV"
   ],
-  "mogsa": [],
   "monaLisa": [],
   "motifStack": [],
   "motifbreakR": [
@@ -1404,7 +1400,6 @@
   "tidyomics": [
     "nullranges"
   ],
-  "tilingArray": [],
   "topdownr": [
     "MSnbase"
   ],
