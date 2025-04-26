@@ -841,3 +841,13 @@ MetCirc
 Modstrings
 sarks
 scoup
+ABarray
+BufferedMatrixMethods
+covEB
+esetVis
+Heatplus
+phantasusLite
+procoil
+Rarr
+ribor
+SummarizedExperiment
