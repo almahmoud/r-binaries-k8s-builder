@@ -1813,3 +1813,6 @@ sva
 gmapR
 icetea
 TFutils
+epiNEM
+scone
+VAExprs

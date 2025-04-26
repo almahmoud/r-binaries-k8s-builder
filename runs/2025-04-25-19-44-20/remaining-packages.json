@@ -275,7 +275,6 @@
   ],
   "TVTB": [],
   "UCell": [],
-  "VAExprs": [],
   "VaSP": [
     "ballgown"
   ],
@@ -340,9 +339,7 @@
   ],
   "biomvRCNS": [],
   "bnbc": [],
-  "bnem": [
-    "epiNEM"
-  ],
+  "bnem": [],
   "borealis": [
     "DSS"
   ],
@@ -414,7 +411,6 @@
   "doppelgangR": [],
   "edge": [],
   "enhancerHomologSearch": [],
-  "epiNEM": [],
   "epimutacions": [
     "minfi"
   ],
@@ -554,9 +550,7 @@
   "ncGTW": [
     "xcms"
   ],
-  "nempi": [
-    "epiNEM"
-  ],
+  "nempi": [],
   "nnSVG": [],
   "octad": [
     "GSVA"
@@ -622,7 +616,6 @@
     "epivizrData"
   ],
   "scider": [],
-  "scone": [],
   "scruff": [
     "ggbio"
   ],
