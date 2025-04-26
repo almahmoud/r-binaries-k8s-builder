@@ -389,3 +389,17 @@ oncoscanR
 optimalFlow
 target
 TnT
+BiFET
+CNVMetrics
+DMRcaller
+EMDomics
+epialleleR
+flowDensity
+flowFP
+flowMerge
+GMRP
+heatmaps
+igvShiny
+OSTA.data
+packFinder
+transite

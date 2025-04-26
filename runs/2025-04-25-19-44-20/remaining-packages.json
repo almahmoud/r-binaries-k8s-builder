@@ -584,7 +584,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "BiFET": [],
   "BiGGR": [],
   "BiSeq": [
     "SummarizedExperiment",
@@ -960,7 +959,6 @@
     "annotate",
     "KEGGREST"
   ],
-  "CNVMetrics": [],
   "CNVPanelizer": [
     "Rsamtools"
   ],
@@ -1021,7 +1019,6 @@
     "SparseArray"
   ],
   "CONFESS": [
-    "flowMerge",
     "limma"
   ],
   "COSNet": [],
@@ -1750,7 +1747,6 @@
     "SparseArray"
   ],
   "DMRScan": [],
-  "DMRcaller": [],
   "DMRcate": [
     "AnnotationHub",
     "ExperimentHub",
@@ -2191,7 +2187,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "EMDomics": [],
   "ENmix": [
     "SummarizedExperiment",
     "geneplotter",
@@ -2672,7 +2667,6 @@
   "GGPA": [],
   "GIGSEA": [],
   "GLAD": [],
-  "GMRP": [],
   "GNET2": [
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -2816,9 +2810,7 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "GateFinder": [
-    "flowFP"
-  ],
+  "GateFinder": [],
   "GenProSeq": [],
   "GeneBreak": [
     "QDNAseq",
@@ -4755,7 +4747,6 @@
     "SparseArray"
   ],
   "OSAT": [],
-  "OSTA.data": [],
   "OTUbase": [
     "ShortRead",
     "Rsamtools",
@@ -9372,9 +9363,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "cyanoFilter": [
-    "flowDensity"
-  ],
+  "cyanoFilter": [],
   "cycle": [
     "Mfuzz",
     "tkWidgets",
@@ -9514,9 +9503,7 @@
   ],
   "dcanr": [],
   "ddCt": [],
-  "ddPCRclust": [
-    "flowDensity"
-  ],
+  "ddPCRclust": [],
   "debCAM": [
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -9982,7 +9969,6 @@
     "Linnorm",
     "limma"
   ],
-  "epialleleR": [],
   "epidecodeR": [
     "rtracklayer",
     "Rsamtools",
@@ -10400,14 +10386,9 @@
     "limma"
   ],
   "flowBin": [
-    "flowFP",
     "limma"
   ],
-  "flowCut": [
-    "flowDensity"
-  ],
-  "flowDensity": [],
-  "flowFP": [],
+  "flowCut": [],
   "flowGate": [
     "flowWorkspace",
     "ggcyto",
@@ -10415,7 +10396,6 @@
     "MatrixGenerics",
     "SparseArray"
   ],
-  "flowMerge": [],
   "flowStats": [
     "flowWorkspace",
     "DelayedArray",
@@ -10906,7 +10886,6 @@
     "MatrixGenerics",
     "SparseArray"
   ],
-  "heatmaps": [],
   "hermes": [
     "SummarizedExperiment",
     "biomaRt",
@@ -11217,7 +11196,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "igvShiny": [],
   "imcRtools": [
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -12999,7 +12977,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "packFinder": [],
   "padma": [
     "SummarizedExperiment",
     "MultiAssayExperiment",
@@ -14781,7 +14758,6 @@
     "BSgenome",
     "ChIPseeker",
     "clusterProfiler",
-    "heatmaps",
     "seqArchR",
     "seqPattern",
     "rtracklayer",
@@ -15842,7 +15818,6 @@
     "sparseMatrixStats",
     "rhdf5filters"
   ],
-  "transite": [],
   "transmogR": [
     "BSgenome",
     "GenomicFeatures",

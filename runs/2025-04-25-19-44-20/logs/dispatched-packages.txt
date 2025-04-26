@@ -727,3 +727,7 @@ AnVILWorkflow
 CompoundDb
 GenProSeq
 Melissa
+GateFinder
+cyanoFilter
+ddPCRclust
+flowCut
