@@ -2033,7 +2033,6 @@
     "edgeR",
     "annotate"
   ],
-  "PPInfer": [],
   "PREDA": [
     "annotate"
   ],
@@ -4500,9 +4499,7 @@
     "rtracklayer"
   ],
   "gscreend": [],
-  "gsean": [
-    "PPInfer"
-  ],
+  "gsean": [],
   "gwasurvivr": [
     "VariantAnnotation",
     "rtracklayer",
@@ -5608,7 +5605,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "qmtools": [],
   "qpcrNorm": [],
   "qpgraph": [
     "annotate",
@@ -6207,7 +6203,6 @@
     "TrajectoryUtils",
     "SingleCellExperiment"
   ],
-  "smartid": [],
   "smoothclust": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -6636,12 +6631,10 @@
     "vsn",
     "gcrma"
   ],
-  "weitrix": [],
   "wiggleplotr": [
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "wpm": [],
   "xCell2": [
     "SingleCellExperiment",
     "singscore",

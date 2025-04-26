@@ -905,3 +905,8 @@ metapone
 methyLImp2
 supersigs
 yamss
+PPInfer
+qmtools
+smartid
+weitrix
+wpm
