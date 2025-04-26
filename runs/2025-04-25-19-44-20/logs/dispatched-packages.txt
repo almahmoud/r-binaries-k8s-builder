@@ -735,3 +735,16 @@ DeconRNASeq
 OrderedList
 diggit
 rexposome
+DEGseq
+GBScleanR
+MsBackendRawFileReader
+OPWeight
+PLPE
+SAIGEgds
+SeqVarTools
+SpaceMarkers
+ggmanh
+netresponse
+rawDiag
+sights
+subSeq

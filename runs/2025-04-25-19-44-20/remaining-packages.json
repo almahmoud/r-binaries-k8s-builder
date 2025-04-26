@@ -274,7 +274,6 @@
   "AnVILPublish": [],
   "AnVILWorkflow": [],
   "Anaquin": [
-    "qvalue",
     "DESeq2",
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -865,7 +864,6 @@
     "AnnotationDbi",
     "DOSE",
     "GOSemSim",
-    "qvalue",
     "AnnotationHub",
     "KEGGREST",
     "fgsea"
@@ -905,7 +903,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "KEGGREST"
   ],
   "CFAssay": [],
@@ -962,7 +959,6 @@
     "edgeR",
     "limma",
     "DelayedArray",
-    "SeqArray",
     "MatrixGenerics",
     "SparseArray"
   ],
@@ -1076,7 +1072,6 @@
     "SparseArray"
   ],
   "CTSV": [
-    "qvalue",
     "SpatialExperiment",
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -1132,7 +1127,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "MatrixGenerics",
     "DelayedArray",
     "KEGGREST",
@@ -1211,7 +1205,6 @@
     "genomation",
     "BSgenome",
     "GenomicAlignments",
-    "seqPattern",
     "SummarizedExperiment",
     "MatrixGenerics",
     "DelayedArray",
@@ -1227,7 +1220,6 @@
     "wateRmelon",
     "goseq",
     "missMethyl",
-    "qvalue",
     "bumphunter",
     "GenomicFeatures",
     "AnnotationDbi",
@@ -1351,7 +1343,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "fgsea",
-    "qvalue",
     "SummarizedExperiment",
     "MatrixGenerics",
     "DelayedArray",
@@ -1635,9 +1626,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "DEGseq": [
-    "qvalue"
-  ],
+  "DEGseq": [],
   "DELocal": [
     "DESeq2",
     "limma",
@@ -1709,7 +1698,6 @@
     "DESeq2",
     "SummarizedExperiment",
     "MatrixGenerics",
-    "qvalue",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1778,7 +1766,6 @@
     "AnnotationDbi",
     "fgsea",
     "GOSemSim",
-    "qvalue",
     "KEGGREST"
   ],
   "DRIMSeq": [
@@ -1877,7 +1864,6 @@
     "rhdf5filters",
     "GenomicAlignments"
   ],
-  "DeconRNASeq": [],
   "DeconvoBuddies": [
     "AnnotationHub",
     "ExperimentHub",
@@ -1912,7 +1898,6 @@
   "DegCre": [
     "InteractionSet",
     "plotgardener",
-    "qvalue",
     "SummarizedExperiment",
     "AnnotationDbi",
     "plyranges",
@@ -2226,7 +2211,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "fgsea"
   ],
   "EmpiricalBrownsMethod": [],
@@ -2237,7 +2221,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "fgsea"
   ],
@@ -2267,13 +2250,11 @@
     "BSgenome",
     "GenomicAlignments",
     "Rsamtools",
-    "seqPattern",
     "KEGGREST",
     "DOSE",
     "GOSemSim",
     "SummarizedExperiment",
     "fgsea",
-    "qvalue",
     "MatrixGenerics",
     "DelayedArray",
     "SparseArray"
@@ -2325,7 +2306,6 @@
     "GenomicFeatures",
     "limma",
     "affxparser",
-    "qvalue",
     "rhdf5",
     "BSgenome",
     "fgsea",
@@ -2496,7 +2476,6 @@
   "FindIT2": [
     "rtracklayer",
     "GenomicFeatures",
-    "qvalue",
     "SummarizedExperiment",
     "MultiAssayExperiment",
     "AnnotationDbi",
@@ -2572,9 +2551,7 @@
     "GenomicAlignments",
     "pwalign"
   ],
-  "GBScleanR": [
-    "SeqArray"
-  ],
+  "GBScleanR": [],
   "GDCRNATools": [
     "limma",
     "edgeR",
@@ -2586,7 +2563,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "SummarizedExperiment",
     "MatrixGenerics",
     "fgsea",
@@ -2597,13 +2573,11 @@
   "GDSArray": [
     "DelayedArray",
     "SNPRelate",
-    "SeqArray",
     "MatrixGenerics",
     "SparseArray"
   ],
   "GENESIS": [
     "GWASTools",
-    "SeqArray",
     "SeqVarTools",
     "SNPRelate",
     "quantsmooth"
@@ -2783,7 +2757,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "GateFinder": [],
   "GenProSeq": [],
   "GeneBreak": [
     "QDNAseq",
@@ -2920,7 +2893,6 @@
     "txdbmaker",
     "limma",
     "BSgenome",
-    "seqPattern",
     "SummarizedExperiment",
     "AnnotationDbi",
     "biomaRt",
@@ -3070,7 +3042,6 @@
     "affy",
     "affyio"
   ],
-  "Harman": [],
   "HarmonizR": [
     "sva",
     "limma",
@@ -3381,7 +3352,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "rtracklayer",
-    "qvalue",
     "DelayedArray",
     "Rsamtools",
     "GenomicAlignments",
@@ -3490,7 +3460,6 @@
     "SparseArray"
   ],
   "LBE": [],
-  "LPE": [],
   "LRcell": [
     "ExperimentHub",
     "AnnotationHub",
@@ -3508,7 +3477,6 @@
   "LimROTS": [
     "SummarizedExperiment",
     "limma",
-    "qvalue",
     "MatrixGenerics",
     "DelayedArray",
     "SparseArray"
@@ -3649,7 +3617,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "qvalue",
     "bumphunter",
     "siggenes",
     "DelayedMatrixStats",
@@ -3805,7 +3772,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "SparseArray"
   ],
   "MLInterfaces": [
@@ -3864,7 +3830,6 @@
   ],
   "MOMA": [
     "MultiAssayExperiment",
-    "qvalue",
     "limma",
     "SummarizedExperiment",
     "DelayedArray",
@@ -3950,7 +3915,6 @@
     "KEGGREST",
     "msmsEDA",
     "edgeR",
-    "qvalue",
     "PSMatch",
     "vsn",
     "affy",
@@ -3977,27 +3941,22 @@
     "SparseArray"
   ],
   "MSstats": [
-    "MSstatsConvert",
     "limma",
     "marray"
   ],
   "MSstatsBig": [
     "MSstats",
-    "MSstatsConvert",
     "limma",
     "marray"
   ],
   "MSstatsBioNet": [
     "MSstats",
-    "MSstatsConvert",
     "limma",
     "marray"
   ],
-  "MSstatsConvert": [],
   "MSstatsLOBD": [],
   "MSstatsPTM": [
     "MSstatsTMT",
-    "MSstatsConvert",
     "MSstats",
     "limma",
     "marray"
@@ -4035,19 +3994,16 @@
     "MSstats",
     "MSstatsTMT",
     "MSstatsPTM",
-    "MSstatsConvert",
     "marray",
     "limma"
   ],
   "MSstatsTMT": [
     "limma",
     "MSstats",
-    "MSstatsConvert",
     "marray"
   ],
   "MVCClass": [],
   "MWASTools": [
-    "qvalue",
     "SummarizedExperiment",
     "KEGGREST",
     "MatrixGenerics",
@@ -4141,7 +4097,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "fgsea"
   ],
@@ -4173,7 +4128,6 @@
     "mygene",
     "ensembldb",
     "ExperimentHub",
-    "qvalue",
     "SummarizedExperiment",
     "GenomicFeatures",
     "txdbmaker",
@@ -4262,7 +4216,6 @@
     "AnnotationDbi",
     "DOSE",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "fgsea"
   ],
@@ -4345,7 +4298,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "fgsea",
     "biomaRt",
     "GenomicFeatures",
@@ -4368,7 +4320,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "fgsea",
     "MatrixGenerics",
     "DelayedArray",
@@ -4418,9 +4369,7 @@
   "MsBackendMetaboLights": [],
   "MsBackendMgf": [],
   "MsBackendMsp": [],
-  "MsBackendRawFileReader": [
-    "rawrr"
-  ],
+  "MsBackendRawFileReader": [],
   "MsBackendSql": [],
   "MsDataHub": [
     "ExperimentHub",
@@ -4614,7 +4563,6 @@
   "NormqPCR": [
     "ReadqPCR"
   ],
-  "NuPoP": [],
   "OCplus": [
     "multtest"
   ],
@@ -4664,9 +4612,7 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "OPWeight": [
-    "qvalue"
-  ],
+  "OPWeight": [],
   "ORFhunteR": [
     "rtracklayer",
     "BSgenome",
@@ -4734,7 +4680,6 @@
     "KEGGREST"
   ],
   "OpenStats": [],
-  "OrderedList": [],
   "Organism.dplyr": [
     "GenomicFeatures",
     "AnnotationDbi",
@@ -4801,7 +4746,6 @@
     "RedeR"
   ],
   "PAST": [
-    "qvalue",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -4863,9 +4807,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "PLPE": [
-    "LPE"
-  ],
+  "PLPE": [],
   "PLSDAbatch": [
     "mixOmics",
     "TreeSummarizedExperiment",
@@ -4966,7 +4908,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "annotate",
     "KEGGREST",
     "fgsea",
@@ -5030,7 +4971,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "fgsea",
     "graphite",
     "KEGGREST"
@@ -5044,7 +4984,6 @@
   "PoDCall": [],
   "PolySTest": [
     "limma",
-    "qvalue",
     "SummarizedExperiment",
     "MatrixGenerics",
     "DelayedArray",
@@ -5228,7 +5167,6 @@
     "rtracklayer",
     "GenomicFeatures",
     "GWASTools",
-    "SeqArray",
     "SeqVarTools",
     "SummarizedExperiment",
     "quantsmooth",
@@ -5248,7 +5186,6 @@
     "genomation",
     "Rsamtools",
     "GenomicAlignments",
-    "seqPattern",
     "AnnotationDbi",
     "biomaRt",
     "KEGGREST",
@@ -5257,7 +5194,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RCASPAR": [],
   "RCM": [
     "edgeR",
     "phyloseq",
@@ -5334,7 +5270,6 @@
     "KEGGREST",
     "DOSE",
     "GOSemSim",
-    "qvalue",
     "DESeq2",
     "HTSFilter",
     "rhdf5",
@@ -5385,7 +5320,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "GenomicFiles",
-    "qvalue",
     "Rsamtools",
     "limma",
     "VariantAnnotation",
@@ -5475,7 +5409,6 @@
     "SparseArray"
   ],
   "RNAsense": [
-    "qvalue",
     "SummarizedExperiment",
     "MatrixGenerics",
     "DelayedArray",
@@ -5647,7 +5580,6 @@
   "Rbowtie2": [
     "Rsamtools"
   ],
-  "Rbwa": [],
   "RcisTarget": [
     "AUCell",
     "GSEABase",
@@ -5686,8 +5618,7 @@
     "graphite",
     "KEGGREST",
     "fgsea",
-    "GOSemSim",
-    "qvalue"
+    "GOSemSim"
   ],
   "ReadqPCR": [],
   "RedeR": [],
@@ -5702,7 +5633,6 @@
     "KEGGREST",
     "MatrixGenerics",
     "GOSemSim",
-    "qvalue",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5777,7 +5707,6 @@
     "Rsamtools",
     "GenomicFeatures",
     "GenomicAlignments",
-    "qvalue",
     "DESeq2",
     "txdbmaker",
     "SummarizedExperiment",
@@ -5869,7 +5798,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "GenomicFiles",
-    "qvalue",
     "Rsamtools",
     "VariantAnnotation",
     "BSgenome"
@@ -5877,12 +5805,10 @@
   "Rnits": [
     "limma",
     "affy",
-    "qvalue",
     "affyio"
   ],
   "RolDE": [
     "SummarizedExperiment",
-    "qvalue",
     "MatrixGenerics",
     "DelayedArray",
     "SparseArray"
@@ -5912,9 +5838,7 @@
     "edgeR",
     "limma"
   ],
-  "SAIGEgds": [
-    "SeqArray"
-  ],
+  "SAIGEgds": [],
   "SARC": [
     "RaggedExperiment",
     "multtest",
@@ -6018,7 +5942,6 @@
   ],
   "SDAMS": [
     "SummarizedExperiment",
-    "qvalue",
     "MatrixGenerics",
     "DelayedArray",
     "SparseArray"
@@ -6203,7 +6126,6 @@
     "KEGGREST",
     "fgsea",
     "GOSemSim",
-    "qvalue",
     "MatrixGenerics",
     "DelayedArray",
     "SparseArray"
@@ -6243,7 +6165,6 @@
     "annotate",
     "KEGGREST"
   ],
-  "SeqArray": [],
   "SeqGSEA": [
     "DESeq2",
     "biomaRt",
@@ -6267,9 +6188,7 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "SeqVarTools": [
-    "SeqArray"
-  ],
+  "SeqVarTools": [],
   "ShortRead": [
     "Rsamtools",
     "GenomicAlignments",
@@ -6423,9 +6342,7 @@
     "SparseArray",
     "ScaledMatrix"
   ],
-  "SpaceMarkers": [
-    "qvalue"
-  ],
+  "SpaceMarkers": [],
   "Spaniel": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -6767,7 +6684,6 @@
     "AnnotationDbi",
     "fgsea",
     "GOSemSim",
-    "qvalue",
     "KEGGREST"
   ],
   "TEKRABber": [
@@ -7176,7 +7092,6 @@
     "GDSArray",
     "DelayedDataFrame",
     "SNPRelate",
-    "SeqArray",
     "DelayedArray",
     "MatrixGenerics",
     "SparseArray"
@@ -7336,7 +7251,6 @@
   ],
   "a4": [
     "a4Base",
-    "a4Reporting",
     "annaffy",
     "genefilter",
     "limma",
@@ -7356,7 +7270,6 @@
     "annotate",
     "KEGGREST"
   ],
-  "a4Reporting": [],
   "aCGH": [
     "multtest"
   ],
@@ -7449,7 +7362,6 @@
     "MatrixGenerics",
     "SparseArray"
   ],
-  "agilp": [],
   "airpart": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -7693,12 +7605,10 @@
     "KEGGREST"
   ],
   "anota": [
-    "qvalue",
     "multtest"
   ],
   "anota2seq": [
     "multtest",
-    "qvalue",
     "limma",
     "DESeq2",
     "edgeR",
@@ -7797,7 +7707,6 @@
     "limma",
     "MSstats",
     "KEGGREST",
-    "MSstatsConvert",
     "marray"
   ],
   "atSNP": [
@@ -8059,7 +7968,6 @@
     "TCGAutils",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "fgsea",
     "graphite",
     "DelayedArray",
@@ -8260,7 +8168,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "limma",
     "MatrixGenerics",
     "annotate",
@@ -8461,7 +8368,6 @@
     "Rsamtools"
   ],
   "cellmigRation": [],
-  "cellscape": [],
   "cellxgenedp": [],
   "censcyt": [
     "diffcyt",
@@ -8783,7 +8689,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "fgsea"
   ],
@@ -9074,7 +8979,6 @@
   ],
   "crisprBwa": [
     "BSgenome",
-    "Rbwa",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -9417,12 +9321,10 @@
     "clusterProfiler",
     "sva",
     "enrichplot",
-    "Harman",
     "pathview",
     "apeglm",
     "KEGGREST",
     "GOSemSim",
-    "qvalue",
     "MatrixGenerics",
     "fgsea",
     "DelayedArray",
@@ -9463,7 +9365,6 @@
   "deconvR": [
     "methylKit",
     "minfi",
-    "qvalue",
     "Rsamtools",
     "rtracklayer",
     "limma",
@@ -9533,7 +9434,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "GenomicFiles",
-    "qvalue",
     "Rsamtools",
     "rtracklayer",
     "KEGGREST",
@@ -9554,7 +9454,6 @@
     "bumphunter",
     "GenomicAlignments",
     "GenomicFiles",
-    "qvalue",
     "Rsamtools",
     "rtracklayer",
     "biovizBase",
@@ -9790,10 +9689,8 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "ecolitk": [],
   "edge": [
     "sva",
-    "qvalue",
     "genefilter",
     "limma",
     "edgeR",
@@ -9832,7 +9729,6 @@
     "AnnotationDbi",
     "fgsea",
     "GOSemSim",
-    "qvalue",
     "KEGGREST"
   ],
   "enrichplot": [
@@ -9840,7 +9736,6 @@
     "GOSemSim",
     "AnnotationDbi",
     "fgsea",
-    "qvalue",
     "KEGGREST"
   ],
   "ensembldb": [
@@ -9965,7 +9860,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "scuttle",
     "MatrixGenerics",
     "SparseArray",
@@ -10059,8 +9953,7 @@
   ],
   "erccdashboard": [
     "edgeR",
-    "limma",
-    "qvalue"
+    "limma"
   ],
   "esATAC": [
     "Rsamtools",
@@ -10080,7 +9973,6 @@
     "enrichplot",
     "DOSE",
     "GOSemSim",
-    "qvalue",
     "SummarizedExperiment",
     "pwalign",
     "fgsea",
@@ -10156,7 +10048,6 @@
     "BSgenome",
     "GenomicAlignments",
     "Rsamtools",
-    "seqPattern",
     "rtracklayer",
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -10184,7 +10075,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "fgsea"
   ],
   "fastLiquidAssociation": [
@@ -10245,7 +10135,6 @@
     "SparseArray"
   ],
   "fishpond": [
-    "qvalue",
     "SummarizedExperiment",
     "SingleCellExperiment",
     "DelayedArray",
@@ -10393,7 +10282,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "rtracklayer",
     "DelayedArray",
     "graphite",
@@ -10430,7 +10318,6 @@
     "affyio"
   ],
   "geNetClassifier": [],
-  "gemini": [],
   "gemma.R": [
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -10483,7 +10370,6 @@
     "BSgenome",
     "GenomicAlignments",
     "Rsamtools",
-    "seqPattern",
     "rtracklayer",
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -10576,9 +10462,7 @@
     "SparseArray"
   ],
   "ggkegg": [],
-  "ggmanh": [
-    "SeqArray"
-  ],
+  "ggmanh": [],
   "ggmsa": [
     "R4RNA"
   ],
@@ -10682,7 +10566,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "fgsea"
   ],
@@ -10813,7 +10696,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "hierGWAS": [],
   "hierinf": [],
   "hipathia": [
     "AnnotationHub",
@@ -10848,7 +10730,6 @@
   ],
   "iBBiG": [],
   "iBMQ": [],
-  "iCARE": [],
   "iCNV": [
     "CODEX",
     "Rsamtools",
@@ -10919,7 +10800,6 @@
     "KEGGREST",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "SparseArray",
     "sparseMatrixStats",
     "fgsea",
@@ -11540,8 +11420,7 @@
     "AnnotationHub",
     "MeSHDbi",
     "KEGGREST",
-    "fgsea",
-    "qvalue"
+    "fgsea"
   ],
   "meshr": [
     "MeSHDbi",
@@ -11604,7 +11483,6 @@
     "genefilter",
     "GenomicAlignments",
     "GenomicFeatures",
-    "qvalue",
     "Rsamtools",
     "rtracklayer",
     "SummarizedExperiment",
@@ -11633,7 +11511,6 @@
   ],
   "methInheritSim": [
     "methylKit",
-    "qvalue",
     "Rsamtools",
     "rtracklayer",
     "limma",
@@ -11703,7 +11580,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "minfi",
     "limma",
     "methylumi",
@@ -11731,7 +11607,6 @@
   ],
   "methylInheritance": [
     "methylKit",
-    "qvalue",
     "Rsamtools",
     "rtracklayer",
     "limma",
@@ -11742,7 +11617,6 @@
     "SparseArray"
   ],
   "methylKit": [
-    "qvalue",
     "Rsamtools",
     "rtracklayer",
     "limma",
@@ -11913,7 +11787,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "fgsea",
     "annotate",
     "graphite",
@@ -11930,7 +11803,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "fgsea",
     "graphite",
     "biomaRt",
@@ -12342,7 +12214,6 @@
     "MSnbase",
     "msmsEDA",
     "edgeR",
-    "qvalue",
     "limma",
     "PSMatch",
     "vsn",
@@ -12552,9 +12423,7 @@
     "multtest"
   ],
   "netprioR": [],
-  "netresponse": [
-    "qvalue"
-  ],
+  "netresponse": [],
   "ngsReports": [],
   "nipalsMCIA": [
     "fgsea",
@@ -12683,7 +12552,6 @@
     "omicade4",
     "MultiDataSet",
     "SummarizedExperiment",
-    "qvalue",
     "made4",
     "MatrixGenerics",
     "DelayedArray",
@@ -12939,7 +12807,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "KEGGREST"
   ],
   "pathview": [
@@ -13182,7 +13049,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "powerTCR": [],
   "ppcseq": [
     "edgeR",
     "limma"
@@ -13316,7 +13182,6 @@
     "DOSE",
     "GOSemSim",
     "fgsea",
-    "qvalue",
     "pwalign"
   ],
   "projectR": [
@@ -13357,7 +13222,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "GenomicFiles",
-    "qvalue",
     "Rsamtools",
     "VariantAnnotation",
     "BSgenome"
@@ -13512,11 +13376,9 @@
   "qusage": [
     "limma"
   ],
-  "qvalue": [],
   "r3Cseq": [
     "Rsamtools",
     "rtracklayer",
-    "qvalue",
     "GenomicAlignments",
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -13615,10 +13477,7 @@
   ],
   "randPack": [],
   "randRotation": [],
-  "rawDiag": [
-    "rawrr"
-  ],
-  "rawrr": [],
+  "rawDiag": [],
   "rbsurv": [],
   "rcellminer": [],
   "receptLoss": [
@@ -13644,7 +13503,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "GenomicFiles",
-    "qvalue",
     "Rsamtools",
     "limma",
     "MatrixGenerics",
@@ -13714,7 +13572,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "GenomicFiles",
-    "qvalue",
     "Rsamtools",
     "rtracklayer",
     "MatrixGenerics",
@@ -13947,7 +13804,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "sagenhaft": [],
   "sampleClassifier": [
     "MGFM",
     "MGFR",
@@ -14322,7 +14178,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "scTHI": [],
   "scTreeViz": [
     "epivizr",
     "SummarizedExperiment",
@@ -14384,7 +14239,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "scatterHatch": [],
   "sccomp": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -14592,7 +14446,6 @@
     "ChIPseeker",
     "clusterProfiler",
     "seqArchR",
-    "seqPattern",
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
@@ -14600,7 +14453,6 @@
     "GenomicFeatures",
     "DOSE",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "fgsea",
     "GenomicAlignments",
@@ -14623,7 +14475,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "seqPattern": [],
   "seqcombo": [],
   "seqsetvis": [
     "GenomicAlignments",
@@ -14748,16 +14599,13 @@
   "siggenes": [
     "multtest"
   ],
-  "sights": [
-    "qvalue"
-  ],
+  "sights": [],
   "signatureSearch": [
     "SummarizedExperiment",
     "AnnotationDbi",
     "ExperimentHub",
     "HDF5Array",
     "fgsea",
-    "qvalue",
     "clusterProfiler",
     "DOSE",
     "rhdf5",
@@ -14872,7 +14720,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "sizepower": [],
   "sketchR": [
     "DelayedArray",
     "MatrixGenerics",
@@ -14958,7 +14805,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "snm": [],
   "soGGi": [
     "SummarizedExperiment",
     "Rsamtools",
@@ -15272,9 +15118,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "subSeq": [
-    "qvalue"
-  ],
+  "subSeq": [],
   "supersigs": [
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -15856,7 +15700,6 @@
   ],
   "vsclust": [
     "limma",
-    "qvalue",
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "DelayedArray",
@@ -15923,7 +15766,6 @@
     "annaffy",
     "vsn",
     "gcrma",
-    "qvalue",
     "affyio",
     "AnnotationDbi",
     "limma",
