@@ -1156,3 +1156,5 @@ flowStats
 ggcyto
 openCyto
 gsean
+SVMDO
+enrichplot

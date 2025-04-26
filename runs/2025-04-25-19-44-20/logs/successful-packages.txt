@@ -910,3 +910,11 @@ qmtools
 smartid
 weitrix
 wpm
+CINdex
+cTRAP
+DeepTarget
+DOSE
+methylscaper
+mpra
+NanoTube
+oncomix
