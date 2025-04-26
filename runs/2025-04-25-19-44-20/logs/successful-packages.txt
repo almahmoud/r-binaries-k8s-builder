@@ -1492,3 +1492,12 @@ CytoML
 maaslin3
 ropls
 RTNduals
+biocGraph
+ChIPanalyser
+CODEX
+EpipwR
+maskBAD
+RCSL
+RSVSim
+TAPseq
+tigre

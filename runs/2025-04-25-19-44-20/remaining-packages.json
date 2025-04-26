@@ -123,7 +123,6 @@
     "MIRA",
     "bsseq"
   ],
-  "CODEX": [],
   "CRISPRball": [
     "dittoSeq"
   ],
@@ -166,7 +165,6 @@
     "oligo",
     "oligoClasses"
   ],
-  "ChIPanalyser": [],
   "ChIPexoQual": [
     "biovizBase"
   ],
@@ -268,7 +266,6 @@
   "EpiTxDb": [
     "tRNAdbImport"
   ],
-  "EpipwR": [],
   "EventPointer": [
     "SGSeq"
   ],
@@ -558,7 +555,6 @@
   "R453Plus1Toolbox": [],
   "RAIDS": [],
   "RCAS": [],
-  "RCSL": [],
   "REMP": [
     "minfi",
     "GEOquery"
@@ -596,7 +592,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils"
   ],
@@ -721,7 +716,6 @@
   ],
   "StructuralVariantAnnotation": [],
   "SurfR": [],
-  "TAPseq": [],
   "TBSignatureProfiler": [
     "ASSIGN",
     "GSVA",
@@ -874,7 +868,6 @@
     "RTCGAToolbox",
     "TCGAutils"
   ],
-  "biocGraph": [],
   "biomvRCNS": [
     "Gviz",
     "biovizBase"
@@ -1186,9 +1179,7 @@
     "SpatialExperiment"
   ],
   "hummingbird": [],
-  "iCNV": [
-    "CODEX"
-  ],
+  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi",
@@ -1291,7 +1282,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "maskBAD": [],
   "mbQTL": [],
   "mbkmeans": [],
   "meshes": [],
@@ -1734,7 +1724,6 @@
   "tidyomics": [
     "nullranges"
   ],
-  "tigre": [],
   "tilingArray": [],
   "topdownr": [
     "MSnbase"
