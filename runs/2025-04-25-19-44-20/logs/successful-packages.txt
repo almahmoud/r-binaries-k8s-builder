@@ -1800,3 +1800,8 @@ motifStack
 Rqc
 TPP
 VCFArray
+derfinder
+fcScan
+omicplotR
+QuasR
+SMITE

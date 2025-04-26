@@ -239,7 +239,6 @@
   ],
   "PureCN": [],
   "Pviz": [],
-  "QuasR": [],
   "R3CPET": [
     "ggbio"
   ],
@@ -248,8 +247,7 @@
   ],
   "RMassBank": [],
   "RNAAgeCalc": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
@@ -278,8 +276,7 @@
     "minfi"
   ],
   "RnaSeqSampleSize": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "SCAN.UPC": [
     "sva"
@@ -294,16 +291,13 @@
   "SIM": [
     "globaltest"
   ],
-  "SMITE": [],
   "SPIAT": [],
   "SPLINTER": [],
   "SVP": [],
   "SWATH2stats": [],
   "SigCheck": [],
   "SigsPack": [],
-  "SingleMoleculeFootprinting": [
-    "QuasR"
-  ],
+  "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [
     "ggbio"
   ],
@@ -465,9 +459,7 @@
   "deconvR": [
     "minfi"
   ],
-  "derfinder": [],
   "derfinderPlot": [
-    "derfinder",
     "ggbio"
   ],
   "diffHic": [],
@@ -502,7 +494,6 @@
   ],
   "escheR": [],
   "famat": [],
-  "fcScan": [],
   "ffpe": [
     "lumi",
     "methylumi",
@@ -635,7 +626,6 @@
   "omicRexposome": [
     "sva"
   ],
-  "omicplotR": [],
   "oppar": [
     "GSVA"
   ],
@@ -662,8 +652,7 @@
   "proBAMr": [],
   "profileplyr": [],
   "psichomics": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "ptairMS": [],
   "puma": [],
@@ -679,15 +668,11 @@
   ],
   "rCGH": [],
   "raer": [],
-  "recount": [
-    "derfinder"
-  ],
+  "recount": [],
   "recountmethylation": [
     "minfi"
   ],
-  "regionReport": [
-    "derfinder"
-  ],
+  "regionReport": [],
   "regutools": [],
   "riboSeqR": [],
   "ribosomeProfilingQC": [],
