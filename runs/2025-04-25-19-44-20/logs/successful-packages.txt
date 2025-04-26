@@ -1741,3 +1741,11 @@ myvariant
 scBFA
 StructuralVariantAnnotation
 ZygosityPredictor
+BadRegionFinder
+biosigner
+CiteFuse
+consensusDE
+covRNA
+EasyCellType
+lipidr
+RTNsurvival

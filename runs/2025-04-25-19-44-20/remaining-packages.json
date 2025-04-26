@@ -31,7 +31,6 @@
   "BOBaFIT": [
     "ggbio"
   ],
-  "BadRegionFinder": [],
   "Banksy": [],
   "BatchQC": [
     "sva"
@@ -93,7 +92,6 @@
     "oligo"
   ],
   "CircSeqAlignTk": [],
-  "CiteFuse": [],
   "CleanUpRNAseq": [
     "qsmooth",
     "sva"
@@ -139,7 +137,6 @@
   "ENmix": [
     "minfi"
   ],
-  "EasyCellType": [],
   "EpiCompare": [],
   "ExperimentHubData": [
     "AnnotationHubData"
@@ -318,7 +315,6 @@
     "Gviz"
   ],
   "RTCGAToolbox": [],
-  "RTNsurvival": [],
   "RareVariantVis": [],
   "Rbec": [
     "dada2"
@@ -478,7 +474,6 @@
   "biomvRCNS": [
     "Gviz"
   ],
-  "biosigner": [],
   "blacksheepr": [],
   "bnbc": [
     "sva"
@@ -533,7 +528,6 @@
   ],
   "concordexR": [],
   "condiments": [],
-  "consensusDE": [],
   "consensusOV": [
     "GSVA"
   ],
@@ -544,7 +538,6 @@
     "xcms"
   ],
   "countsimQC": [],
-  "covRNA": [],
   "crisprShiny": [
     "crisprViz",
     "Gviz"
@@ -681,7 +674,6 @@
   "lefser": [
     "mia"
   ],
-  "lipidr": [],
   "lisaClust": [
     "spicyR",
     "simpleSeg",
