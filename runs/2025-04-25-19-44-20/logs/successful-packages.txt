@@ -144,3 +144,17 @@ omada
 PCAN
 SCFA
 SUITOR
+ANCOMBC
+Biobase
+BiocBook
+BrowserViz
+EBImage
+flowGraph
+gdsfmt
+genArise
+ggtreeSpace
+globalSeq
+gpls
+rsemmed
+sitePath
+tanggle
