@@ -1815,3 +1815,6 @@ RTCGAToolbox
 glmSparseNet
 terraTCGAdata
 EBSEA
+RESOLVE
+hiReadsProcessor
+velociraptor

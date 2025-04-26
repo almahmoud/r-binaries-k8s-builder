@@ -1533,3 +1533,11 @@ EmpiricalBrownsMethod
 gcapc
 scRepertoire
 transcriptR
+CGHnormaliter
+hiAnnotator
+MatrixRider
+MutationalPatterns
+RAIDS
+scp
+scPipe
+zellkonverter

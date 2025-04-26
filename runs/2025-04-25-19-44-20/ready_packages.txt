@@ -1,1 +1,3 @@
-EBSEA
+RESOLVE
+hiReadsProcessor
+velociraptor
