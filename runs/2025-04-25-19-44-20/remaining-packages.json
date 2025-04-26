@@ -1316,7 +1316,6 @@
     "sva",
     "edgeR",
     "ShortRead",
-    "aroma.light",
     "Rsamtools",
     "biomaRt",
     "GenomicFeatures",
@@ -1524,7 +1523,6 @@
   ],
   "EDASeq": [
     "ShortRead",
-    "aroma.light",
     "Rsamtools",
     "biomaRt",
     "GenomicFeatures",
@@ -1855,7 +1853,6 @@
     "edgeR",
     "DelayedArray",
     "ShortRead",
-    "aroma.light",
     "Rsamtools",
     "biomaRt",
     "GenomicFeatures",
@@ -1902,7 +1899,6 @@
   "GEOsubmission": [
     "affy"
   ],
-  "GIGSEA": [],
   "GNET2": [
     "SummarizedExperiment",
     "DelayedArray"
@@ -2294,7 +2290,6 @@
     "GenomicAlignments",
     "DelayedArray"
   ],
-  "HilbertCurve": [],
   "HoloFoodR": [
     "MultiAssayExperiment",
     "TreeSummarizedExperiment",
@@ -3023,7 +3018,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "Mfuzz": [],
   "MiRaGE": [],
   "MicrobiomeProfiler": [
     "clusterProfiler",
@@ -3146,7 +3140,6 @@
     "biomaRt"
   ],
   "MsBackendMassbank": [],
-  "MsBackendMetaboLights": [],
   "MsBackendMgf": [],
   "MsBackendMsp": [],
   "MsBackendSql": [],
@@ -3196,7 +3189,6 @@
   ],
   "MultiMed": [],
   "MultiRNAflow": [
-    "Mfuzz",
     "DESeq2",
     "SummarizedExperiment",
     "DelayedArray"
@@ -3439,8 +3431,7 @@
     "limma",
     "affy",
     "genefilter",
-    "annotate",
-    "aroma.light"
+    "annotate"
   ],
   "PICB": [
     "GenomicAlignments",
@@ -3968,7 +3959,6 @@
     "EDASeq",
     "edgeR",
     "ShortRead",
-    "aroma.light",
     "Rsamtools",
     "biomaRt",
     "GenomicFeatures",
@@ -4135,7 +4125,6 @@
     "DelayedArray",
     "biomaRt"
   ],
-  "Rmagpie": [],
   "Rmmquant": [
     "SummarizedExperiment",
     "DESeq2",
@@ -4882,9 +4871,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "TIN": [
-    "aroma.light"
-  ],
+  "TIN": [],
   "TMSig": [
     "limma",
     "GSEABase",
@@ -5489,7 +5476,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "aroma.light": [],
   "arrayMvout": [
     "parody",
     "affy",
@@ -6023,7 +6009,6 @@
   "cfdnakit": [
     "QDNAseq",
     "Rsamtools",
-    "aroma.light",
     "CGHbase",
     "CGHcall",
     "marray",
@@ -6209,7 +6194,6 @@
     "limma",
     "MultiAssayExperiment"
   ],
-  "clustComp": [],
   "clustSIGNAL": [
     "SpatialExperiment",
     "scater",
@@ -6262,7 +6246,6 @@
   "cn.mops": [
     "Rsamtools"
   ],
-  "coGPS": [],
   "coMethDMR": [
     "AnnotationHub",
     "bumphunter",
@@ -6339,7 +6322,6 @@
     "RUVSeq",
     "SummarizedExperiment",
     "ShortRead",
-    "aroma.light",
     "biomaRt",
     "rtracklayer",
     "DelayedArray"
@@ -6600,9 +6582,7 @@
     "BSgenome",
     "DelayedArray"
   ],
-  "cycle": [
-    "Mfuzz"
-  ],
+  "cycle": [],
   "cydar": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -6699,7 +6679,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "ddCt": [],
   "debCAM": [
     "SummarizedExperiment",
     "DelayedArray"
@@ -6879,7 +6858,6 @@
     "limma",
     "DelayedArray"
   ],
-  "discordant": [],
   "distinct": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -8063,7 +8041,6 @@
   "lmdme": [
     "limma"
   ],
-  "loci2path": [],
   "logicFS": [],
   "lpsymphony": [],
   "lumi": [
@@ -8288,7 +8265,6 @@
     "vsn",
     "bsseq",
     "ShortRead",
-    "aroma.light",
     "annotate",
     "DelayedArray",
     "affy",
@@ -8495,7 +8471,6 @@
     "biomaRt"
   ],
   "miRNAmeConverter": [],
-  "miRNApath": [],
   "miRNAtap": [],
   "miRSM": [
     "BicARE",
@@ -9024,7 +8999,6 @@
     "GSVA",
     "SummarizedExperiment",
     "ShortRead",
-    "aroma.light",
     "Rsamtools",
     "biomaRt",
     "GenomicFeatures",
@@ -9208,7 +9182,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "pandaR": [],
   "panelcn.mops": [
     "cn.mops",
     "Rsamtools"
@@ -9669,7 +9642,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "rBiopaxParser": [],
   "rCGH": [
     "limma",
     "affy",
@@ -9873,7 +9845,6 @@
     "RUVSeq",
     "txdbmaker",
     "ShortRead",
-    "aroma.light",
     "biomaRt",
     "SummarizedExperiment",
     "TFBSTools",
@@ -10165,7 +10136,6 @@
     "edgeR",
     "limma"
   ],
-  "scMitoMut": [],
   "scMultiSim": [
     "SummarizedExperiment",
     "DelayedArray"
@@ -10299,7 +10269,6 @@
     "SingleCellExperiment",
     "DelayedArray"
   ],
-  "scifer": [],
   "scmap": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -10307,7 +10276,6 @@
   ],
   "scone": [
     "SummarizedExperiment",
-    "aroma.light",
     "edgeR",
     "limma",
     "RUVSeq",
@@ -10487,7 +10455,6 @@
     "ScaledMatrix",
     "EDASeq",
     "ShortRead",
-    "aroma.light",
     "Rsamtools",
     "biomaRt",
     "GenomicFeatures",
@@ -10895,7 +10862,6 @@
     "EDASeq",
     "DelayedArray",
     "ShortRead",
-    "aroma.light",
     "Rsamtools",
     "biomaRt",
     "GenomicFeatures",
@@ -11230,7 +11196,6 @@
     "siggenes",
     "multtest"
   ],
-  "triplex": [],
   "tweeDEseq": [
     "limma",
     "edgeR"

@@ -1,6 +1,2 @@
-DelayedArray
-FlowSOM
-GENESIS
-Mfuzz
-affy
-h5mread
+TIN
+cycle
