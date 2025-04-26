@@ -1167,3 +1167,6 @@ tenXplore
 PCAtools
 ReactomeGSA
 StabMap
+Doscheda
+NormalyzerDE
+pvca

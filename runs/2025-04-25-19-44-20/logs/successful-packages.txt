@@ -957,3 +957,10 @@ SDAMS
 SeqSQC
 TTMap
 XAItest
+barcodetrackR
+GOexpress
+knowYourCG
+RaggedExperiment
+SeqGate
+TPP2D
+vsn
