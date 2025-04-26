@@ -36,8 +36,7 @@
   ],
   "ALDEx2": [],
   "AMARETTO": [
-    "MultiAssayExperiment",
-    "ExperimentHub"
+    "MultiAssayExperiment"
   ],
   "APAlyzer": [
     "GenomicFeatures",
@@ -286,7 +285,6 @@
     "edgeR",
     "annotate"
   ],
-  "BioNet": [],
   "BioQC": [
     "edgeR"
   ],
@@ -297,14 +295,10 @@
     "edgeR",
     "BiocSingular"
   ],
-  "BiocHubsShiny": [
-    "ExperimentHub"
-  ],
+  "BiocHubsShiny": [],
   "BiocSingular": [],
   "BiocSklearn": [],
-  "BloodGen3Module": [
-    "ExperimentHub"
-  ],
+  "BloodGen3Module": [],
   "BreastSubtypeR": [],
   "BubbleTree": [
     "biovizBase",
@@ -385,7 +379,6 @@
   "CBNplot": [
     "clusterProfiler",
     "enrichplot",
-    "ExperimentHub",
     "DOSE",
     "fgsea"
   ],
@@ -486,13 +479,10 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "CTdata": [
-    "ExperimentHub"
-  ],
+  "CTdata": [],
   "CTexploreR": [
     "CTdata",
-    "SingleCellExperiment",
-    "ExperimentHub"
+    "SingleCellExperiment"
   ],
   "CaDrA": [],
   "Category": [
@@ -556,7 +546,6 @@
     "missMethyl",
     "bumphunter",
     "GenomicFeatures",
-    "ExperimentHub",
     "bsseq",
     "edgeR",
     "Gviz",
@@ -677,9 +666,7 @@
     "SingleCellExperiment",
     "fgsea"
   ],
-  "CoSIA": [
-    "ExperimentHub"
-  ],
+  "CoSIA": [],
   "Cogito": [
     "GenomicFeatures",
     "rtracklayer",
@@ -787,7 +774,6 @@
     "GenomicAlignments"
   ],
   "DMRcate": [
-    "ExperimentHub",
     "bsseq",
     "edgeR",
     "minfi",
@@ -858,7 +844,6 @@
     "GenomicAlignments"
   ],
   "DeconvoBuddies": [
-    "ExperimentHub",
     "scran",
     "SingleCellExperiment",
     "scuttle",
@@ -870,8 +855,7 @@
     "GenomicAlignments"
   ],
   "DeepTarget": [
-    "fgsea",
-    "ExperimentHub"
+    "fgsea"
   ],
   "DegCre": [
     "InteractionSet",
@@ -981,7 +965,6 @@
   "ENmix": [
     "geneplotter",
     "minfi",
-    "ExperimentHub",
     "genefilter",
     "annotate",
     "bumphunter",
@@ -998,8 +981,7 @@
   ],
   "EWCE": [
     "SingleCellExperiment",
-    "orthogene",
-    "ExperimentHub"
+    "orthogene"
   ],
   "EasyCellType": [
     "clusterProfiler",
@@ -1032,7 +1014,6 @@
     "fgsea"
   ],
   "EpiMix": [
-    "ExperimentHub",
     "GenomicFeatures",
     "rtracklayer",
     "GenomicAlignments"
@@ -1045,9 +1026,7 @@
     "tRNA",
     "GenomicAlignments"
   ],
-  "EpipwR": [
-    "ExperimentHub"
-  ],
+  "EpipwR": [],
   "EventPointer": [
     "SGSeq",
     "GenomicFeatures",
@@ -1061,10 +1040,8 @@
     "GenomicAlignments"
   ],
   "ExiMiR": [],
-  "ExperimentHub": [],
   "ExperimentHubData": [
     "AnnotationHubData",
-    "ExperimentHub",
     "GenomicFeatures",
     "rtracklayer",
     "OrganismDbi",
@@ -1196,7 +1173,6 @@
   "GSEABenchmarkeR": [
     "edgeR",
     "EnrichmentBrowser",
-    "ExperimentHub",
     "GSEABase",
     "pathview",
     "annotate"
@@ -1525,9 +1501,7 @@
   ],
   "LACE": [],
   "LBE": [],
-  "LRcell": [
-    "ExperimentHub"
-  ],
+  "LRcell": [],
   "Lheuristic": [
     "MultiAssayExperiment"
   ],
@@ -1545,9 +1519,7 @@
     "scuttle",
     "BiocSingular"
   ],
-  "MACSr": [
-    "ExperimentHub"
-  ],
+  "MACSr": [],
   "MAI": [],
   "MAIT": [
     "CAMERA",
@@ -1777,7 +1749,6 @@
     "Wrench"
   ],
   "MatrixQCvis": [
-    "ExperimentHub",
     "proDA",
     "sva",
     "vsn",
@@ -1813,7 +1784,6 @@
     "MWASTools",
     "mygene",
     "ensembldb",
-    "ExperimentHub",
     "GenomicFeatures",
     "txdbmaker",
     "rtracklayer",
@@ -1821,7 +1791,6 @@
   ],
   "MethReg": [
     "sesame",
-    "ExperimentHub",
     "TFBSTools",
     "BSgenome",
     "rtracklayer",
@@ -1888,7 +1857,6 @@
     "GEOquery",
     "rtracklayer",
     "EpiMix",
-    "ExperimentHub",
     "enrichplot",
     "fgsea",
     "GenomicFeatures",
@@ -1918,9 +1886,7 @@
     "BSgenome"
   ],
   "MouseFM": [],
-  "MsDataHub": [
-    "ExperimentHub"
-  ],
+  "MsDataHub": [],
   "MsExperiment": [
     "QFeatures",
     "MultiAssayExperiment"
@@ -2162,9 +2128,7 @@
     "edgeR"
   ],
   "PhosR": [],
-  "PhyloProfile": [
-    "ExperimentHub"
-  ],
+  "PhyloProfile": [],
   "Pigengene": [
     "clusterProfiler",
     "ReactomePA",
@@ -2646,7 +2610,6 @@
     "methylMnM"
   ],
   "SMITE": [
-    "BioNet",
     "goseq",
     "rtracklayer",
     "GenomicFeatures",
@@ -2709,9 +2672,7 @@
     "DESeq2"
   ],
   "SeqGate": [],
-  "SeqSQC": [
-    "ExperimentHub"
-  ],
+  "SeqSQC": [],
   "ShortRead": [
     "GenomicAlignments"
   ],
@@ -2820,7 +2781,6 @@
     "genefilter",
     "rtracklayer",
     "annotate",
-    "ExperimentHub",
     "GenomicAlignments"
   ],
   "SplicingFactory": [],
@@ -2922,7 +2882,6 @@
     "TCGAbiolinks",
     "MultiAssayExperiment",
     "sesame",
-    "ExperimentHub",
     "rtracklayer",
     "BSgenome",
     "GenomicAlignments"
@@ -3167,9 +3126,7 @@
     "annotate"
   ],
   "adSplit": [],
-  "adductomicsR": [
-    "ExperimentHub"
-  ],
+  "adductomicsR": [],
   "affyILM": [
     "gcrma"
   ],
@@ -3636,9 +3593,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "cfTools": [
-    "ExperimentHub"
-  ],
+  "cfTools": [],
   "cfdnakit": [
     "QDNAseq",
     "CGHbase",
@@ -3792,7 +3747,6 @@
   "cmapR": [],
   "coMethDMR": [
     "bumphunter",
-    "ExperimentHub",
     "GenomicFeatures",
     "rtracklayer",
     "GenomicAlignments"
@@ -3926,12 +3880,9 @@
     "rtracklayer",
     "txdbmaker",
     "VariantAnnotation",
-    "GenomicAlignments",
-    "ExperimentHub"
+    "GenomicAlignments"
   ],
-  "crisprScore": [
-    "ExperimentHub"
-  ],
+  "crisprScore": [],
   "crisprShiny": [
     "BSgenome",
     "crisprDesign",
@@ -3943,7 +3894,6 @@
     "txdbmaker",
     "VariantAnnotation",
     "Gviz",
-    "ExperimentHub",
     "ensembldb",
     "biovizBase",
     "GenomicAlignments"
@@ -3958,7 +3908,6 @@
     "rtracklayer",
     "txdbmaker",
     "VariantAnnotation",
-    "ExperimentHub",
     "Gviz",
     "ensembldb",
     "biovizBase",
@@ -3976,8 +3925,7 @@
     "VariantAnnotation",
     "ensembldb",
     "biovizBase",
-    "GenomicAlignments",
-    "ExperimentHub"
+    "GenomicAlignments"
   ],
   "crlmm": [
     "oligoClasses"
@@ -4018,7 +3966,6 @@
     "edgeR",
     "DESeq2"
   ],
-  "cytoKernel": [],
   "cytofQC": [
     "CATALYST",
     "SingleCellExperiment",
@@ -4224,8 +4171,7 @@
   ],
   "easier": [
     "quantiseqr",
-    "DESeq2",
-    "ExperimentHub"
+    "DESeq2"
   ],
   "easyRNASeq": [
     "edgeR",
@@ -4284,7 +4230,6 @@
     "GenomicFeatures",
     "Gviz",
     "rtracklayer",
-    "ExperimentHub",
     "ensembldb",
     "BSgenome",
     "biovizBase",
@@ -4299,7 +4244,6 @@
   ],
   "epiregulon": [
     "SingleCellExperiment",
-    "ExperimentHub",
     "scran",
     "scuttle",
     "AUCell",
@@ -4392,8 +4336,7 @@
     "UCell",
     "annotate",
     "SpatialExperiment",
-    "BiocSingular",
-    "ExperimentHub"
+    "BiocSingular"
   ],
   "escheR": [
     "SpatialExperiment",
@@ -4516,9 +4459,7 @@
     "fgsea",
     "GenomicAlignments"
   ],
-  "gatom": [
-    "BioNet"
-  ],
+  "gatom": [],
   "gcapc": [
     "BSgenome",
     "GenomicAlignments",
@@ -4681,9 +4622,7 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "hpar": [
-    "ExperimentHub"
-  ],
+  "hpar": [],
   "hummingbird": [],
   "iCNV": [
     "CODEX",
@@ -4747,7 +4686,6 @@
   ],
   "iSEEhub": [
     "SingleCellExperiment",
-    "ExperimentHub",
     "iSEE"
   ],
   "iSEEindex": [
@@ -4847,9 +4785,7 @@
     "GenomicAlignments"
   ],
   "kmcut": [],
-  "knowYourCG": [
-    "ExperimentHub"
-  ],
+  "knowYourCG": [],
   "lefser": [
     "mia",
     "MultiAssayExperiment",
@@ -4915,7 +4851,6 @@
   "m6Aboost": [
     "rtracklayer",
     "BSgenome",
-    "ExperimentHub",
     "GenomicAlignments"
   ],
   "mBPCR": [
@@ -4975,8 +4910,7 @@
     "edgeR",
     "GSEABase",
     "SingleCellExperiment",
-    "annotate",
-    "ExperimentHub"
+    "annotate"
   ],
   "mbQTL": [
     "metagenomeSeq",
@@ -5107,7 +5041,6 @@
     "GenomicAlignments"
   ],
   "methylclock": [
-    "ExperimentHub",
     "minfi",
     "ExperimentHubData",
     "bumphunter",
@@ -5467,7 +5400,6 @@
     "edgeR",
     "RUVSeq",
     "DESeq2",
-    "ExperimentHub",
     "EDASeq",
     "GSVA",
     "ShortRead",
@@ -5529,9 +5461,7 @@
     "BiocSingular"
   ],
   "orthogene": [],
-  "orthos": [
-    "ExperimentHub"
-  ],
+  "orthos": [],
   "pRoloc": [
     "MSnbase",
     "MLInterfaces",
@@ -5856,7 +5786,6 @@
   "ramwas": [
     "GenomicAlignments"
   ],
-  "receptLoss": [],
   "reconsi": [
     "phyloseq"
   ],
@@ -6281,9 +6210,7 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "sesame": [
-    "ExperimentHub"
-  ],
+  "sesame": [],
   "sevenC": [
     "InteractionSet",
     "rtracklayer",
@@ -6291,7 +6218,6 @@
   ],
   "shinyDSP": [
     "edgeR",
-    "ExperimentHub",
     "scater",
     "SingleCellExperiment",
     "standR",
@@ -6330,7 +6256,6 @@
   "sigFeature": [],
   "siggenes": [],
   "signatureSearch": [
-    "ExperimentHub",
     "fgsea",
     "clusterProfiler",
     "DOSE",
@@ -6442,7 +6367,6 @@
   ],
   "spatialFDA": [
     "SpatialExperiment",
-    "ExperimentHub",
     "SingleCellExperiment"
   ],
   "spatialHeatmap": [
@@ -6805,15 +6729,13 @@
     "edgeR",
     "scuttle",
     "scater",
-    "ExperimentHub",
     "rtracklayer",
     "GenomicAlignments",
     "BiocSingular"
   ],
   "vissE": [
     "GSEABase",
-    "annotate",
-    "ExperimentHub"
+    "annotate"
   ],
   "vsclust": [
     "MultiAssayExperiment"
