@@ -1360,3 +1360,16 @@ segmentSeq
 SemDist
 survClust
 waddR
+alabaster.mae
+Cepo
+genefilter
+hdxmsqc
+HiCDOC
+LimROTS
+miQC
+nucleR
+partCNV
+qusage
+sparrow
+tidySingleCellExperiment
+TrajectoryUtils
