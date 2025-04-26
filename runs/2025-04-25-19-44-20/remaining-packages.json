@@ -114,7 +114,6 @@
     "globaltest"
   ],
   "BindingSiteFinder": [],
-  "BioCor": [],
   "BioGA": [],
   "BioNERO": [
     "sva",
@@ -641,7 +640,6 @@
   ],
   "MEB": [],
   "MEDIPS": [],
-  "MGFR": [],
   "MGnifyR": [
     "mia"
   ],
@@ -775,7 +773,6 @@
     "bsseq"
   ],
   "Nebulosa": [],
-  "NetSAM": [],
   "NewWave": [],
   "NormalyzerDE": [],
   "OGRE": [
@@ -2380,9 +2377,7 @@
     "ropls"
   ],
   "sSNAPPY": [],
-  "sampleClassifier": [
-    "MGFR"
-  ],
+  "sampleClassifier": [],
   "saseR": [
     "ASpli",
     "DEXSeq",
@@ -2422,7 +2417,6 @@
     "slingshot",
     "TrajectoryUtils"
   ],
-  "scReClassify": [],
   "scRepertoire": [],
   "scTGIF": [
     "schex"

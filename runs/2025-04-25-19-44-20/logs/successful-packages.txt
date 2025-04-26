@@ -1332,3 +1332,7 @@ PDATK
 singscore
 splatter
 splineTimeR
+BioCor
+MGFR
+NetSAM
+scReClassify

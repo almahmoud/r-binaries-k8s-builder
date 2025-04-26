@@ -1,1 +1,1 @@
-xCell2
+sampleClassifier
