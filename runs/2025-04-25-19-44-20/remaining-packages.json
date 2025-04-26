@@ -83,8 +83,7 @@
     "systemPipeR"
   ],
   "ChIPXpress": [
-    "frma",
-    "oligo"
+    "frma"
   ],
   "CircSeqAlignTk": [],
   "CleanUpRNAseq": [
@@ -144,7 +143,6 @@
     "DaMiRseq",
     "sva"
   ],
-  "GDCRNATools": [],
   "GEOexplorer": [
     "sva"
   ],
@@ -182,9 +180,7 @@
     "xcms",
     "CAMERA"
   ],
-  "ITALICS": [
-    "oligo"
-  ],
+  "ITALICS": [],
   "InPAS": [],
   "IntEREst": [],
   "IsoformSwitchAnalyzeR": [
@@ -242,7 +238,6 @@
   ],
   "MinimumDistance": [],
   "MoleculeExperiment": [],
-  "Moonlight2R": [],
   "MungeSumstats": [],
   "OGRE": [
     "Gviz"
@@ -317,7 +312,6 @@
   ],
   "Rqc": [],
   "SCAN.UPC": [
-    "oligo",
     "sva"
   ],
   "SEraster": [],
@@ -399,15 +393,13 @@
   ],
   "affylmGUI": [],
   "alabaster": [
-    "alabaster.spatial",
-    "alabaster.vcf"
+    "alabaster.spatial"
   ],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
     "alabaster.spatial"
   ],
   "alabaster.spatial": [],
-  "alabaster.vcf": [],
   "appreci8R": [],
   "arrayMvout": [
     "lumi",
@@ -578,9 +570,7 @@
     "CAMERA"
   ],
   "flowGate": [],
-  "frma": [
-    "oligo"
-  ],
+  "frma": [],
   "funtooNorm": [
     "minfi"
   ],
@@ -609,7 +599,6 @@
     "miaViz"
   ],
   "icetea": [],
-  "igvR": [],
   "imcRtools": [
     "cytomapper"
   ],
@@ -680,9 +669,7 @@
     "miaViz"
   ],
   "miaViz": [],
-  "mimager": [
-    "oligo"
-  ],
+  "mimager": [],
   "minfi": [],
   "missMethyl": [
     "methylumi",
@@ -708,12 +695,10 @@
   "nempi": [
     "epiNEM"
   ],
-  "netSmooth": [],
   "nnSVG": [],
   "octad": [
     "GSVA"
   ],
-  "oligo": [],
   "omXplore": [],
   "omicRexposome": [
     "sva"
@@ -733,9 +718,7 @@
   "pathMED": [
     "GSVA"
   ],
-  "pdInfoBuilder": [
-    "oligo"
-  ],
+  "pdInfoBuilder": [],
   "peakPantheR": [],
   "phantasus": [],
   "phenoTest": [],
@@ -753,9 +736,7 @@
     "derfinder"
   ],
   "ptairMS": [],
-  "puma": [
-    "oligo"
-  ],
+  "puma": [],
   "qPLEXanalyzer": [],
   "qsmooth": [
     "sva"
@@ -815,7 +796,6 @@
   "shinyepico": [
     "minfi"
   ],
-  "signatureSearch": [],
   "signeR": [],
   "signifinder": [
     "consensusOV",

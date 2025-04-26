@@ -1968,3 +1968,8 @@ VCFArray
 derfinder
 SigCheck
 pRoloc
+ITALICS
+frma
+mimager
+pdInfoBuilder
+puma

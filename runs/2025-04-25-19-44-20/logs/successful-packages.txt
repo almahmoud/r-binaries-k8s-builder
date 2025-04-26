@@ -1787,3 +1787,10 @@ MLInterfaces
 PanomiR
 rqt
 sampleClassifier
+alabaster.vcf
+GDCRNATools
+igvR
+Moonlight2R
+netSmooth
+oligo
+signatureSearch
