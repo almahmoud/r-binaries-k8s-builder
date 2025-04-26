@@ -1480,3 +1480,9 @@ MSstatsTMT
 Nebulosa
 regionalpcs
 SBGNview
+amplican
+GeoTcgaData
+MEDIPS
+MSstatsBig
+MSstatsBioNet
+RUCova

@@ -350,7 +350,6 @@
   "GenomicPlot": [
     "RCAS"
   ],
-  "GeoTcgaData": [],
   "GlobalAncova": [
     "globaltest"
   ],
@@ -426,7 +425,6 @@
     "lumi"
   ],
   "MEB": [],
-  "MEDIPS": [],
   "MGnifyR": [
     "mia"
   ],
@@ -450,8 +448,6 @@
     "msmsEDA"
   ],
   "MSnbase": [],
-  "MSstatsBig": [],
-  "MSstatsBioNet": [],
   "MSstatsPTM": [],
   "MSstatsQC": [
     "MSnbase"
@@ -616,7 +612,6 @@
   "RTNsurvival": [
     "RTNduals"
   ],
-  "RUCova": [],
   "RUVSeq": [
     "EDASeq"
   ],
@@ -846,7 +841,6 @@
     "SpatialExperiment"
   ],
   "alabaster.vcf": [],
-  "amplican": [],
   "annmap": [],
   "appreci8R": [
     "OrganismDbi"
