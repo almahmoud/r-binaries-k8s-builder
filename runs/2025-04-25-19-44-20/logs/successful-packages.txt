@@ -377,3 +377,15 @@ survcomp
 TaxSEA
 TDbasedUFE
 TFARM
+AlphaMissenseR
+BREW3R.r
+cnvGSA
+genomeIntervals
+gtrellis
+idr2d
+methimpute
+ncRNAtools
+oncoscanR
+optimalFlow
+target
+TnT
