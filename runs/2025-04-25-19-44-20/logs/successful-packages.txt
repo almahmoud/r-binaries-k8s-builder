@@ -737,3 +737,14 @@ NetPathMiner
 OmnipathR
 specL
 tomoseqr
+altcdfenvs
+AnnotationHub
+FlowSOM
+frmaTools
+GENESIS
+IHW
+multtest
+paircompviz
+panelcn.mops
+synlet
+timescape

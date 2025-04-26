@@ -1,3 +1,13 @@
-odseq
-procoil
-wppi
+ABarray
+ExperimentHub
+MetaCyto
+OCplus
+aCGH
+adSplit
+anota
+customCMPdb
+ipdDb
+metabomxtr
+rGenomeTracks
+rain
+siggenes
