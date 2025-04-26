@@ -1315,3 +1315,8 @@ Macarron
 SIMD
 DifferentialRegulation
 omicplotR
+EDIRquery
+HiCExperiment
+HiCParser
+HiCcompare
+crumblr

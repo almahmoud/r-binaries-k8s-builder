@@ -1099,3 +1099,9 @@ compcodeR
 csaw
 FeatSeekR
 ppcseq
+CNVRanger
+InteractionSet
+MPRAnalyze
+speckle
+SPONGE
+variancePartition

@@ -1,1 +1,5 @@
-omicplotR
+EDIRquery
+HiCExperiment
+HiCParser
+HiCcompare
+crumblr
