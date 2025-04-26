@@ -1465,3 +1465,10 @@ ORFhunteR
 plotgardener
 SC3
 webbioc
+CellBarcode
+CGHcall
+coMethDMR
+LoomExperiment
+multistateQTL
+Rcpi
+txdbmaker
