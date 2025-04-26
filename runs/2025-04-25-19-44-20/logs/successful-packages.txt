@@ -320,3 +320,13 @@ flowMeans
 immunoClust
 msPurity
 occugene
+AnVILAz
+BiocNeighbors
+BiocWorkflowTools
+flowPloidy
+flowPlots
+InteractiveComplexHeatmap
+pepXMLTab
+phosphonormalizer
+rebook
+ternarynet
