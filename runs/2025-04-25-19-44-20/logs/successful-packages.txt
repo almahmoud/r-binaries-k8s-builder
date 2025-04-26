@@ -243,3 +243,14 @@ Rcwl
 RCy3
 RUVcorr
 SRAdb
+BumpyMatrix
+CellNOptR
+decoupleR
+KEGGgraph
+matter
+mzID
+OncoSimulR
+philr
+rsbml
+Streamer
+XINA

@@ -576,3 +576,12 @@ derfinderHelper
 fedup
 hyperdraw
 nucleoSim
+CNORdt
+CNORfeeder
+CNORfuzzy
+CNORode
+CardinalIO
+NCIgraph
+SPIA
+lpNet
+progeny

@@ -572,7 +572,6 @@
     "limma",
     "AnnotationDbi",
     "KEGGREST",
-    "KEGGgraph",
     "Biostrings",
     "XVector",
     "GenomeInfoDb"
@@ -847,7 +846,6 @@
     "XVector"
   ],
   "BiGGR": [
-    "rsbml",
     "hyperdraw"
   ],
   "BiSeq": [
@@ -1096,7 +1094,6 @@
     "SparseArray",
     "XVector"
   ],
-  "BumpyMatrix": [],
   "CAEN": [
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -1207,7 +1204,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "MatrixGenerics",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -1377,18 +1373,10 @@
   ],
   "CMA": [],
   "CNAnorm": [],
-  "CNORdt": [
-    "CellNOptR"
-  ],
-  "CNORfeeder": [
-    "CellNOptR"
-  ],
-  "CNORfuzzy": [
-    "CellNOptR"
-  ],
-  "CNORode": [
-    "CellNOptR"
-  ],
+  "CNORdt": [],
+  "CNORfeeder": [],
+  "CNORfuzzy": [],
+  "CNORode": [],
   "CNTools": [
     "genefilter",
     "MatrixGenerics",
@@ -1641,12 +1629,9 @@
     "XVector"
   ],
   "Cardinal": [
-    "CardinalIO",
-    "matter"
+    "CardinalIO"
   ],
-  "CardinalIO": [
-    "matter"
-  ],
+  "CardinalIO": [],
   "Category": [
     "AnnotationDbi",
     "GSEABase",
@@ -1735,7 +1720,6 @@
     "ScaledMatrix",
     "XVector"
   ],
-  "CellNOptR": [],
   "CellTrails": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -2113,7 +2097,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "affyio",
     "preprocessCore",
     "Spectra",
@@ -2207,7 +2190,6 @@
     "MultiAssayExperiment",
     "MatrixGenerics",
     "piano",
-    "BumpyMatrix",
     "DelayedArray",
     "GenomicRanges",
     "marray",
@@ -2357,7 +2339,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "affyio",
     "preprocessCore",
     "Spectra",
@@ -2395,7 +2376,6 @@
     "SparseArray"
   ],
   "DEGraph": [
-    "KEGGgraph",
     "NCIgraph"
   ],
   "DEGreport": [
@@ -2438,7 +2418,6 @@
     "mzR",
     "PSMatch",
     "affy",
-    "mzID",
     "MatrixGenerics",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -3257,7 +3236,6 @@
     "AnnotationDbi",
     "GSEABase",
     "KEGGREST",
-    "KEGGgraph",
     "SPIA",
     "edgeR",
     "graphite",
@@ -3728,7 +3706,6 @@
     "SummarizedExperiment",
     "MatrixGenerics",
     "fgsea",
-    "KEGGgraph",
     "KEGGREST",
     "GenomeInfoDb",
     "XVector",
@@ -3917,7 +3894,6 @@
     "KEGGREST",
     "limma",
     "GSEABase",
-    "KEGGgraph",
     "SPIA",
     "graphite",
     "pathview",
@@ -4793,7 +4769,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "MatrixGenerics",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -5029,10 +5004,8 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "KEGGgraph": [],
   "KEGGlincs": [
     "AnnotationDbi",
-    "KEGGgraph",
     "KEGGREST",
     "Biostrings",
     "XVector",
@@ -5207,7 +5180,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "MatrixGenerics",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -5421,8 +5393,7 @@
     "GenomeInfoDb"
   ],
   "MEIGOR": [
-    "CNORode",
-    "CellNOptR"
+    "CNORode"
   ],
   "MGFM": [
     "AnnotationDbi",
@@ -5728,7 +5699,6 @@
   ],
   "MSnID": [
     "MSnbase",
-    "mzID",
     "mzR",
     "msmsTests",
     "Biostrings",
@@ -5764,7 +5734,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "affyio",
     "preprocessCore",
     "Spectra",
@@ -5822,7 +5791,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "affyio",
     "preprocessCore",
     "Spectra",
@@ -5848,7 +5816,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "affyio",
     "preprocessCore",
     "Spectra",
@@ -5888,7 +5855,6 @@
   "MWASTools": [
     "qvalue",
     "SummarizedExperiment",
-    "KEGGgraph",
     "KEGGREST",
     "ComplexHeatmap",
     "Biostrings",
@@ -6072,7 +6038,6 @@
     "SparseArray"
   ],
   "MetaboSignal": [
-    "KEGGgraph",
     "hpar",
     "KEGGREST",
     "biomaRt",
@@ -6610,9 +6575,7 @@
     "XVector",
     "Biostrings"
   ],
-  "NCIgraph": [
-    "KEGGgraph"
-  ],
+  "NCIgraph": [],
   "NTW": [],
   "NanoMethViz": [
     "SummarizedExperiment",
@@ -6877,7 +6840,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "OncoSimulR": [],
   "OpenStats": [],
   "OrderedList": [
     "twilight"
@@ -7009,7 +6971,6 @@
     "piano",
     "survcomp",
     "genefu",
-    "BumpyMatrix",
     "biomaRt",
     "AIMS",
     "limma",
@@ -7149,7 +7110,6 @@
     "PSMatch",
     "affy",
     "pcaMethods",
-    "mzID",
     "DESeq2",
     "fgsea",
     "mixOmics",
@@ -7354,7 +7314,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "affyio",
     "preprocessCore",
     "Spectra",
@@ -7379,7 +7338,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "affyio",
     "preprocessCore",
     "Spectra",
@@ -7780,7 +7738,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "affyio",
     "preprocessCore",
     "Spectra",
@@ -7962,7 +7919,6 @@
   ],
   "ROntoTools": [
     "KEGGREST",
-    "KEGGgraph",
     "Biostrings",
     "XVector",
     "GenomeInfoDb"
@@ -8106,7 +8062,6 @@
     "MultiAssayExperiment",
     "MatrixGenerics",
     "piano",
-    "BumpyMatrix",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -8571,7 +8526,6 @@
     "AnnotationDbi",
     "KEGGREST",
     "Biostrings",
-    "KEGGgraph",
     "MatrixGenerics",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -8853,9 +8807,7 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "SPIA": [
-    "KEGGgraph"
-  ],
+  "SPIA": [],
   "SPIAT": [
     "SpatialExperiment",
     "dittoSeq",
@@ -9570,7 +9522,6 @@
     "XVector",
     "ConsensusClusterPlus"
   ],
-  "Streamer": [],
   "Structstrings": [
     "Biostrings",
     "XVector",
@@ -10082,7 +10033,6 @@
     "SparseArray"
   ],
   "TargetDecoy": [
-    "mzID",
     "mzR"
   ],
   "TaxSEA": [],
@@ -10120,7 +10070,6 @@
     "MultiAssayExperiment",
     "MatrixGenerics",
     "piano",
-    "BumpyMatrix",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -10536,7 +10485,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "XINA": [],
   "XVector": [],
   "XeniumIO": [
     "TENxIO",
@@ -10795,7 +10743,6 @@
     "alabaster.mae",
     "alabaster.schemas",
     "rhdf5",
-    "BumpyMatrix",
     "MultiAssayExperiment",
     "DelayedArray",
     "S4Arrays",
@@ -10826,7 +10773,6 @@
     "rhdf5filters"
   ],
   "alabaster.bumpy": [
-    "BumpyMatrix",
     "alabaster.base",
     "rhdf5",
     "alabaster.schemas",
@@ -11345,7 +11291,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "MLInterfaces",
     "biomaRt",
     "affyio",
@@ -11770,7 +11715,6 @@
     "Biostrings"
   ],
   "bnem": [
-    "CellNOptR",
     "epiNEM",
     "mnem",
     "affy",
@@ -12500,7 +12444,6 @@
   ],
   "clipper": [
     "qpgraph",
-    "KEGGgraph",
     "annotate",
     "AnnotationDbi",
     "GenomeInfoDb",
@@ -12526,7 +12469,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "MassSpecWavelet",
     "SummarizedExperiment",
     "MsFeatures",
@@ -12930,7 +12872,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "MatrixGenerics",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -12947,7 +12888,6 @@
   "cosmosR": [
     "CARNIVAL",
     "GSEABase",
-    "decoupleR",
     "annotate",
     "AnnotationDbi",
     "KEGGREST",
@@ -13527,7 +13467,6 @@
     "fgsea",
     "GenomeInfoDb",
     "XVector",
-    "KEGGgraph",
     "S4Arrays",
     "DelayedArray",
     "genefilter",
@@ -13612,7 +13551,6 @@
     "KEGGREST",
     "rhdf5filters"
   ],
-  "decoupleR": [],
   "deepSNV": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -13957,7 +13895,6 @@
     "GenomeInfoDb",
     "EnrichmentBrowser",
     "KEGGREST",
-    "KEGGgraph",
     "SPIA",
     "graphite",
     "pathview",
@@ -13992,7 +13929,6 @@
   ],
   "easier": [
     "progeny",
-    "decoupleR",
     "quantiseqr",
     "DESeq2",
     "GenomicRanges",
@@ -14690,7 +14626,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "MatrixGenerics",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -14890,7 +14825,6 @@
     "XVector"
   ],
   "gDRcore": [
-    "BumpyMatrix",
     "gDRutils",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -14907,7 +14841,6 @@
     "biocViews"
   ],
   "gDRutils": [
-    "BumpyMatrix",
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "DelayedArray",
@@ -16095,7 +16028,6 @@
     "XVector"
   ],
   "jazzPanda": [
-    "BumpyMatrix",
     "SpatialExperiment",
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -16314,9 +16246,7 @@
     "XVector"
   ],
   "logicFS": [],
-  "lpNet": [
-    "KEGGgraph"
-  ],
+  "lpNet": [],
   "lpsymphony": [],
   "lumi": [
     "affy",
@@ -16588,7 +16518,6 @@
     "Biostrings"
   ],
   "matchBox": [],
-  "matter": [],
   "mbQTL": [
     "metagenomeSeq",
     "limma",
@@ -16662,7 +16591,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "MatrixGenerics",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -17389,7 +17317,6 @@
     "ROntoTools",
     "AnnotationDbi",
     "KEGGREST",
-    "KEGGgraph",
     "Biostrings",
     "XVector",
     "GenomeInfoDb"
@@ -17719,7 +17646,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "affyio",
     "preprocessCore",
     "Spectra",
@@ -17747,7 +17673,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "affyio",
     "preprocessCore",
     "Spectra",
@@ -17945,7 +17870,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "mzID": [],
   "mzR": [],
   "ncGTW": [
     "xcms",
@@ -17961,7 +17885,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "MatrixGenerics",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -18220,7 +18143,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "DelayedArray",
     "GenomicRanges",
     "Spectra",
@@ -18426,7 +18348,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "affyio",
     "preprocessCore",
     "KEGGREST",
@@ -18452,7 +18373,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "MLInterfaces",
     "biomaRt",
     "affyio",
@@ -18581,7 +18501,6 @@
     "Biostrings"
   ],
   "pathMED": [
-    "decoupleR",
     "GSVA",
     "singscore",
     "SummarizedExperiment",
@@ -18634,7 +18553,6 @@
     "GenomeInfoDb"
   ],
   "pathview": [
-    "KEGGgraph",
     "AnnotationDbi",
     "KEGGREST",
     "Biostrings",
@@ -18666,7 +18584,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "affyio",
     "preprocessCore",
     "Spectra",
@@ -18808,7 +18725,6 @@
     "SparseArray",
     "XVector"
   ],
-  "philr": [],
   "phosphonormalizer": [],
   "phyloseq": [
     "biomformat",
@@ -19188,9 +19104,7 @@
     "qvalue",
     "pwalign"
   ],
-  "progeny": [
-    "decoupleR"
-  ],
+  "progeny": [],
   "projectR": [
     "SingleCellExperiment",
     "limma",
@@ -19256,7 +19170,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "rhdf5filters",
     "affyio",
     "preprocessCore",
@@ -19320,7 +19233,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "affyio",
     "Spectra",
     "QFeatures",
@@ -20053,7 +19965,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "rsbml": [],
   "rtracklayer": [
     "GenomicRanges",
     "XVector",
@@ -21831,7 +21742,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "MassSpecWavelet",
     "MsFeatures",
     "affyio",
@@ -22404,7 +22314,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "Spectra",
     "QFeatures",
     "affyio",
@@ -22994,7 +22903,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "mzID",
     "MatrixGenerics",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -23114,7 +23022,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "KEGGREST",
-    "KEGGgraph",
     "SPIA",
     "edgeR",
     "graphite",
