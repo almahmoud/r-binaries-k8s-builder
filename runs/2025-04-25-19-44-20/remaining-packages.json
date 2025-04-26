@@ -1277,7 +1277,6 @@
     "txdbmaker",
     "tRNAdbImport",
     "rtracklayer",
-    "Structstrings",
     "tRNA",
     "GenomicAlignments",
     "SummarizedExperiment"
@@ -1868,7 +1867,6 @@
   "KCsmart": [
     "siggenes"
   ],
-  "KEGGlincs": [],
   "KnowSeq": [
     "sva",
     "edgeR",
@@ -1940,7 +1938,6 @@
   "MBQN": [
     "SummarizedExperiment"
   ],
-  "MCbiclust": [],
   "MDTS": [
     "GenomicAlignments",
     "SummarizedExperiment"
@@ -2054,7 +2051,6 @@
     "genefilter",
     "SummarizedExperiment"
   ],
-  "MLP": [],
   "MLSeq": [
     "DESeq2",
     "edgeR",
@@ -2282,7 +2278,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "MiRaGE": [],
   "MicrobiomeProfiler": [
     "clusterProfiler",
     "enrichplot",
@@ -2650,7 +2645,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment"
   ],
-  "PWMEnrich": [],
   "PanomiR": [
     "clusterProfiler",
     "GSEABase",
@@ -3541,7 +3535,6 @@
     "diffcyt",
     "edgeR"
   ],
-  "Structstrings": [],
   "StructuralVariantAnnotation": [
     "rtracklayer",
     "VariantAnnotation",
@@ -5455,9 +5448,7 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "esetVis": [
-    "MLP"
-  ],
+  "esetVis": [],
   "evaluomeR": [
     "SummarizedExperiment",
     "MultiAssayExperiment"
@@ -5491,7 +5482,6 @@
     "GOSemSim",
     "fgsea"
   ],
-  "fastLiquidAssociation": [],
   "fcScan": [
     "VariantAnnotation",
     "SummarizedExperiment",
@@ -5601,7 +5591,6 @@
     "fgsea",
     "GenomicAlignments"
   ],
-  "gage": [],
   "gatom": [
     "BioNet"
   ],
@@ -6079,7 +6068,6 @@
     "annotate"
   ],
   "lmdme": [],
-  "logicFS": [],
   "lumi": [
     "methylumi",
     "GenomicFeatures",
@@ -6380,7 +6368,6 @@
     "GenomicAlignments"
   ],
   "mfa": [],
-  "mgsa": [],
   "miQC": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -6731,7 +6718,6 @@
     "vsn",
     "MultiAssayExperiment"
   ],
-  "ndexr": [],
   "nearBynding": [
     "plyranges",
     "rtracklayer",
@@ -7144,7 +7130,6 @@
     "SummarizedExperiment"
   ],
   "procoil": [],
-  "profileScoreDist": [],
   "profileplyr": [
     "SummarizedExperiment",
     "soGGi",
@@ -8245,7 +8230,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "synapsis": [],
   "syntenet": [
     "rtracklayer",
     "GenomicAlignments",
@@ -8269,17 +8253,14 @@
     "GenomicAlignments"
   ],
   "tRNA": [
-    "Structstrings",
     "Modstrings"
   ],
   "tRNAdbImport": [
     "Modstrings",
-    "Structstrings",
     "tRNA"
   ],
   "tRNAscanImport": [
     "tRNA",
-    "Structstrings",
     "rtracklayer",
     "BSgenome",
     "GenomicAlignments",
@@ -8387,7 +8368,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tracktables": [],
   "tradeSeq": [
     "edgeR",
     "SingleCellExperiment",

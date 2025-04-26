@@ -791,3 +791,17 @@ RCX
 rhinotypeR
 SubCellBarCode
 SynMut
+fastLiquidAssociation
+gage
+KEGGlincs
+logicFS
+MCbiclust
+mgsa
+MiRaGE
+MLP
+ndexr
+profileScoreDist
+PWMEnrich
+Structstrings
+synapsis
+tracktables

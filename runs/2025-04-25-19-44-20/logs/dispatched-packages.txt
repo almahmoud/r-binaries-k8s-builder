@@ -969,3 +969,4 @@ phyloseq
 seq2pathway
 surfaltr
 ndexr
+esetVis
