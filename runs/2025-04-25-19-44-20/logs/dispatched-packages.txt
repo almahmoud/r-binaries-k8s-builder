@@ -1563,3 +1563,13 @@ SCArray.sat
 artMS
 epiNEM
 ropls
+CoreGx
+DropletUtils
+SplineDV
+batchelor
+blima
+epigenomix
+scater
+scran
+simPIC
+splatter

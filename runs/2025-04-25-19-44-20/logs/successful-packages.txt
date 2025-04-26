@@ -1266,3 +1266,14 @@ nnNorm
 SCArray
 scHOT
 stepNorm
+beachmat.hdf5
+beadarray
+CellTrails
+enrichViewNet
+FuseSOM
+GloScope
+MBASED
+OVESEG
+piano
+scds
+scuttle
