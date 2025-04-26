@@ -1772,3 +1772,9 @@ tradeSeq
 ASICS
 condiments
 dreamlet
+CellMixS
+Dune
+GenomicFiles
+methInheritSim
+miaSim
+NanoMethViz

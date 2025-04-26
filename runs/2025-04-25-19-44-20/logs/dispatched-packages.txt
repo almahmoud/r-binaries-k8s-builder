@@ -1960,3 +1960,9 @@ tidyomics
 netSmooth
 iSEEfier
 profileplyr
+IntEREst
+QuasR
+Rqc
+TFutils
+VCFArray
+derfinder
