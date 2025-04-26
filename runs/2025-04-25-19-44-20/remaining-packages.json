@@ -1,5 +1,4 @@
 {
-  "ABSSeq": [],
   "ACE": [
     "QDNAseq",
     "CGHbase",
@@ -464,7 +463,6 @@
     "CTdata",
     "SingleCellExperiment"
   ],
-  "CaDrA": [],
   "Category": [
     "GSEABase",
     "genefilter",
@@ -1246,7 +1244,6 @@
     "edgeR",
     "DESeq2"
   ],
-  "HTqPCR": [],
   "HarmonizR": [
     "sva",
     "genefilter",
@@ -1320,7 +1317,6 @@
     "DESeq2"
   ],
   "HybridMTest": [],
-  "IFAA": [],
   "ILoReg": [
     "SingleCellExperiment"
   ],
@@ -1559,8 +1555,7 @@
   "MMUPHin": [
     "Maaslin2",
     "edgeR",
-    "metagenomeSeq",
-    "Wrench"
+    "metagenomeSeq"
   ],
   "MOFA2": [],
   "MOMA": [
@@ -1649,14 +1644,12 @@
   "MWASTools": [],
   "Maaslin2": [
     "edgeR",
-    "metagenomeSeq",
-    "Wrench"
+    "metagenomeSeq"
   ],
   "Macarron": [
     "Maaslin2",
     "edgeR",
-    "metagenomeSeq",
-    "Wrench"
+    "metagenomeSeq"
   ],
   "MatrixQCvis": [
     "sva",
@@ -1694,7 +1687,6 @@
     "GenomicAlignments"
   ],
   "MethReg": [
-    "sesame",
     "TFBSTools",
     "BSgenome",
     "rtracklayer",
@@ -2720,7 +2712,6 @@
   "TENET": [
     "TCGAbiolinks",
     "MultiAssayExperiment",
-    "sesame",
     "rtracklayer",
     "BSgenome",
     "GenomicAlignments"
@@ -2917,7 +2908,6 @@
   "VplotR": [
     "GenomicAlignments"
   ],
-  "Wrench": [],
   "XDE": [
     "genefilter",
     "GeneMeta",
@@ -4594,7 +4584,6 @@
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "made4": [],
   "magpie": [
     "rtracklayer",
     "GenomicFeatures",
@@ -4630,8 +4619,7 @@
     "annotate"
   ],
   "mbQTL": [
-    "metagenomeSeq",
-    "Wrench"
+    "metagenomeSeq"
   ],
   "mbkmeans": [
     "SingleCellExperiment"
@@ -4659,12 +4647,9 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "metagenomeSeq": [
-    "Wrench"
-  ],
+  "metagenomeSeq": [],
   "metaseqR2": [
     "DESeq2",
-    "ABSSeq",
     "DSS",
     "EDASeq",
     "edgeR",
@@ -4837,13 +4822,11 @@
   ],
   "microbiomeDASim": [
     "phyloseq",
-    "metagenomeSeq",
-    "Wrench"
+    "metagenomeSeq"
   ],
   "microbiomeExplorer": [
     "metagenomeSeq",
-    "DESeq2",
-    "Wrench"
+    "DESeq2"
   ],
   "midasHLA": [
     "MultiAssayExperiment"
@@ -5109,14 +5092,11 @@
     "sva",
     "omicade4",
     "MultiDataSet",
-    "made4",
     "genefilter",
     "edgeR",
     "annotate"
   ],
-  "omicade4": [
-    "made4"
-  ],
+  "omicade4": [],
   "omicplotR": [
     "ALDEx2"
   ],
@@ -5133,7 +5113,6 @@
     "SpatialExperiment"
   ],
   "orthogene": [],
-  "orthos": [],
   "pRoloc": [
     "MSnbase",
     "MLInterfaces",
@@ -5832,7 +5811,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "sesame": [],
   "sevenC": [
     "InteractionSet",
     "rtracklayer",
