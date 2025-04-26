@@ -748,3 +748,13 @@ paircompviz
 panelcn.mops
 synlet
 timescape
+COSNet
+FGNet
+h5vc
+ISAnalytics
+lfa
+limma
+MANOR
+memes
+motifTestR
+MsBackendSql
