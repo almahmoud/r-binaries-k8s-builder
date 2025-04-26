@@ -4864,7 +4864,6 @@
   "metagenomeSeq": [
     "Wrench"
   ],
-  "metapone": [],
   "metaseqR2": [
     "DESeq2",
     "ABSSeq",
@@ -4892,7 +4891,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "methyLImp2": [],
   "methylCC": [
     "minfi",
     "bsseq",
@@ -6360,7 +6358,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "supersigs": [],
   "surfaltr": [],
   "survClust": [
     "MultiAssayExperiment"
@@ -6670,7 +6667,6 @@
     "SingleCellExperiment",
     "TENxIO"
   ],
-  "yamss": [],
   "yarn": [
     "edgeR",
     "quantro",

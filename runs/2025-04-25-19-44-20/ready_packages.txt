@@ -1,4 +1,0 @@
-PeacoQC
-flowStats
-ggcyto
-openCyto

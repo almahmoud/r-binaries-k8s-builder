@@ -901,3 +901,7 @@ stageR
 survtype
 tomoda
 zFPKM
+metapone
+methyLImp2
+supersigs
+yamss
