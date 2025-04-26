@@ -1680,3 +1680,5 @@ MsExperiment
 phenomis
 spiky
 ssviz
+HelloRanges
+RESOLVE

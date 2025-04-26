@@ -238,7 +238,6 @@
   "HarmonizR": [
     "sva"
   ],
-  "HelloRanges": [],
   "HiCDCPlus": [
     "GenomicInteractions",
     "Gviz"
@@ -336,9 +335,7 @@
   "OGRE": [
     "Gviz"
   ],
-  "OMICsPCA": [
-    "HelloRanges"
-  ],
+  "OMICsPCA": [],
   "OrganismDbi": [],
   "PAA": [
     "sva"
@@ -380,7 +377,6 @@
   "REMP": [
     "minfi"
   ],
-  "RESOLVE": [],
   "RMassBank": [
     "MSnbase"
   ],
