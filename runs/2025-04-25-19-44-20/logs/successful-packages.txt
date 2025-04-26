@@ -1074,3 +1074,11 @@ MEDME
 ROSeq
 SingleR
 tweeDEseq
+annotate
+baySeq
+BioQC
+monocle
+PhIPData
+Rvisdiff
+scry
+STATegRa

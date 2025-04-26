@@ -1,1 +1,16 @@
-BANDITS
+BatchSVG
+GSEABase
+MGFM
+MGFR
+PREDA
+SemDist
+beer
+clusterSeq
+codelink
+genefilter
+geneplotter
+globaltest
+idiogram
+riboSeqR
+tigre
+uSORT
