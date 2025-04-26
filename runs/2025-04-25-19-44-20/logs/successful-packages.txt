@@ -1162,3 +1162,10 @@ scHiCcompare
 SeqGSEA
 TCC
 VariantExperiment
+alabaster.se
+anota2seq
+censcyt
+deltaCaptureC
+HiCool
+NetActivity
+QFeatures
