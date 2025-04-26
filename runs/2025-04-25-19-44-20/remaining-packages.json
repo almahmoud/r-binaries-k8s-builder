@@ -116,7 +116,6 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "BANDITS": [],
   "BASiCS": [
     "scran",
     "scuttle"
@@ -240,7 +239,6 @@
   ],
   "BiocHubsShiny": [],
   "BloodGen3Module": [],
-  "BreastSubtypeR": [],
   "BubbleTree": [
     "biovizBase",
     "GenomicAlignments",
@@ -699,9 +697,7 @@
     "rtracklayer",
     "ShortRead"
   ],
-  "DifferentialRegulation": [
-    "BANDITS"
-  ],
+  "DifferentialRegulation": [],
   "Dino": [
     "scran",
     "scuttle"
@@ -1665,7 +1661,6 @@
     "genefilter",
     "MultiAssayExperiment"
   ],
-  "PROPER": [],
   "PROPS": [
     "sva",
     "genefilter"
@@ -1876,7 +1871,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RNAseqCovarImpute": [],
   "RPA": [
     "phyloseq"
   ],
@@ -3146,7 +3140,6 @@
   "cydar": [],
   "cypress": [
     "TOAST",
-    "PROPER",
     "DESeq2"
   ],
   "cytofQC": [
@@ -3285,7 +3278,6 @@
     "sva",
     "genefilter"
   ],
-  "doseR": [],
   "doubletrouble": [
     "syntenet",
     "GenomicFeatures",
@@ -4591,7 +4583,6 @@
     "BSgenome"
   ],
   "regionalpcs": [],
-  "regsplice": [],
   "regutools": [
     "Gviz",
     "rtracklayer",

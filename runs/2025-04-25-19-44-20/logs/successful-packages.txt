@@ -1088,3 +1088,9 @@ erccdashboard
 Maaslin2
 methylMnM
 scde
+BANDITS
+BreastSubtypeR
+doseR
+PROPER
+regsplice
+RNAseqCovarImpute
