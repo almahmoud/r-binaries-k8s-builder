@@ -923,3 +923,9 @@ findIPs
 getDEE2
 pairkat
 proDA
+gemma.R
+genomicInstability
+gscreend
+kmcut
+multiWGCNA
+PeacoQC

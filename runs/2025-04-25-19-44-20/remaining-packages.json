@@ -676,21 +676,18 @@
   ],
   "CytoMDS": [
     "CytoPipeline",
-    "ggcyto",
-    "PeacoQC"
+    "ggcyto"
   ],
   "CytoML": [
     "openCyto",
     "ggcyto"
   ],
   "CytoPipeline": [
-    "ggcyto",
-    "PeacoQC"
+    "ggcyto"
   ],
   "CytoPipelineGUI": [
     "CytoPipeline",
-    "ggcyto",
-    "PeacoQC"
+    "ggcyto"
   ],
   "DAMEfinder": [
     "GenomicAlignments",
@@ -2060,7 +2057,6 @@
     "edgeR",
     "DESeq2"
   ],
-  "PeacoQC": [],
   "PepSetTest": [],
   "PhIPData": [
     "edgeR"
@@ -4350,7 +4346,6 @@
   ],
   "gcatest": [],
   "gcrma": [],
-  "gemma.R": [],
   "geneAttribution": [
     "GenomicFeatures",
     "rtracklayer",
@@ -4372,7 +4367,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "genomicInstability": [],
   "geomeTriD": [
     "InteractionSet",
     "trackViewer",
@@ -4456,7 +4450,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "gscreend": [],
   "gsean": [],
   "gwasurvivr": [
     "VariantAnnotation",
@@ -4657,7 +4650,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "kmcut": [],
   "knowYourCG": [],
   "lefser": [
     "mia",
@@ -5157,7 +5149,6 @@
     "edgeR",
     "InteractionSet"
   ],
-  "multiWGCNA": [],
   "multistateQTL": [
     "QTLExperiment"
   ],
