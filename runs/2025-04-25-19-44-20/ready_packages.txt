@@ -1,5 +1,12 @@
-EDIRquery
-HiCExperiment
-HiCParser
-HiCcompare
-crumblr
+BaalChIP
+BasicSTARRseq
+CrispRVariants
+MDTS
+PICB
+ShortRead
+TCseq
+VplotR
+breakpointR
+mosaics
+ramwas
+rtracklayer

@@ -1105,3 +1105,17 @@ MPRAnalyze
 speckle
 SPONGE
 variancePartition
+clusterStab
+CPSM
+eisaR
+GenomicAlignments
+GNET2
+GWENA
+HERON
+iChip
+infercnv
+MAI
+MBQN
+MsFeatures
+PAIRADISE
+plyxp
