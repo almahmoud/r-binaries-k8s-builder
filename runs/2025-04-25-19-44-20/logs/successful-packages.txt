@@ -979,3 +979,9 @@ PhyloProfile
 Pirat
 qpcrNorm
 tidybulk
+cycle
+MsDataHub
+omicade4
+PolySTest
+roastgsa
+ROCpAI

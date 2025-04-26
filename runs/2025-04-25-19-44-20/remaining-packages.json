@@ -1775,7 +1775,6 @@
     "BSgenome"
   ],
   "MouseFM": [],
-  "MsDataHub": [],
   "MsExperiment": [
     "QFeatures",
     "MultiAssayExperiment"
@@ -2001,7 +2000,6 @@
     "ReactomePA",
     "enrichplot"
   ],
-  "PolySTest": [],
   "PrInCE": [
     "MSnbase",
     "PSMatch",
@@ -2209,7 +2207,6 @@
   "RNAseqCovarImpute": [
     "edgeR"
   ],
-  "ROCpAI": [],
   "ROSeq": [
     "edgeR"
   ],
@@ -3733,7 +3730,6 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "cycle": [],
   "cydar": [
     "SingleCellExperiment"
   ],
@@ -5085,13 +5081,11 @@
   ],
   "omicRexposome": [
     "sva",
-    "omicade4",
     "MultiDataSet",
     "genefilter",
     "edgeR",
     "annotate"
   ],
-  "omicade4": [],
   "omicplotR": [
     "ALDEx2"
   ],
@@ -5513,7 +5507,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "roastgsa": [],
   "ropls": [
     "MultiAssayExperiment",
     "MultiDataSet"
