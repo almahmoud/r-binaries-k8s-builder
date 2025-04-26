@@ -1156,3 +1156,9 @@ MOMA
 MultimodalExperiment
 SpectralTAD
 TADCompare
+MultiRNAflow
+rtracklayer
+scHiCcompare
+SeqGSEA
+TCC
+VariantExperiment
