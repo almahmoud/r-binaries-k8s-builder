@@ -1417,3 +1417,6 @@ qsea
 scTGIF
 SimBu
 zitools
+clustifyr
+PathoStat
+prebs

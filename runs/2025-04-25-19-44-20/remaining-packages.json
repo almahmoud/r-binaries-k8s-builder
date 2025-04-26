@@ -721,7 +721,6 @@
   "PanomiR": [
     "clusterProfiler"
   ],
-  "PathoStat": [],
   "Pigengene": [
     "clusterProfiler"
   ],
@@ -1303,7 +1302,6 @@
   ],
   "clusterProfiler": [],
   "clusterSeq": [],
-  "clustifyr": [],
   "coMethDMR": [
     "bumphunter"
   ],
@@ -1972,7 +1970,6 @@
     "SpatialExperiment"
   ],
   "pogos": [],
-  "prebs": [],
   "preciseTAD": [
     "rCGH"
   ],
