@@ -64,7 +64,6 @@
   "CNTools": [],
   "CNVrd2": [],
   "COCOA": [],
-  "CRISPRball": [],
   "CTSV": [],
   "CatsCradle": [],
   "CellBench": [],
@@ -215,7 +214,6 @@
     "lumi"
   ],
   "MGnifyR": [],
-  "MLInterfaces": [],
   "MOSClip": [],
   "MOSim": [],
   "MSPrep": [
@@ -262,7 +260,6 @@
   "PROPS": [
     "sva"
   ],
-  "PanomiR": [],
   "PrInCE": [],
   "Prostar": [
     "DAPAR"
@@ -340,9 +337,7 @@
   ],
   "SVP": [],
   "SWATH2stats": [],
-  "SigCheck": [
-    "MLInterfaces"
-  ],
+  "SigCheck": [],
   "SigsPack": [],
   "SingleMoleculeFootprinting": [
     "QuasR"
@@ -430,8 +425,7 @@
     "sva"
   ],
   "bandle": [
-    "pRoloc",
-    "MLInterfaces"
+    "pRoloc"
   ],
   "bayNorm": [],
   "bigmelon": [
@@ -728,12 +722,9 @@
   "oppar": [
     "GSVA"
   ],
-  "pRoloc": [
-    "MLInterfaces"
-  ],
+  "pRoloc": [],
   "pRolocGUI": [
-    "pRoloc",
-    "MLInterfaces"
+    "pRoloc"
   ],
   "pageRank": [],
   "pairedGSEA": [
@@ -793,8 +784,6 @@
   "ribosomeProfilingQC": [
     "motifStack"
   ],
-  "rqt": [],
-  "sampleClassifier": [],
   "saseR": [
     "ASpli",
     "Gviz"

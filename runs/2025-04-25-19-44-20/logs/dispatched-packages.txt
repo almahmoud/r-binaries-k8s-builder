@@ -1966,3 +1966,5 @@ Rqc
 TFutils
 VCFArray
 derfinder
+SigCheck
+pRoloc

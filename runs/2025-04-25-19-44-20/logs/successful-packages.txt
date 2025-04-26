@@ -1782,3 +1782,8 @@ glmSparseNet
 peco
 rgsepd
 TFHAZ
+CRISPRball
+MLInterfaces
+PanomiR
+rqt
+sampleClassifier
