@@ -346,7 +346,6 @@
   "MLInterfaces": [],
   "MOSClip": [],
   "MOSim": [],
-  "MPAC": [],
   "MSPrep": [
     "sva"
   ],
@@ -482,7 +481,6 @@
   "Rbec": [
     "dada2"
   ],
-  "RcisTarget": [],
   "Repitools": [],
   "ReportingTools": [
     "Category",
@@ -688,7 +686,6 @@
   "atSNP": [
     "motifStack"
   ],
-  "atena": [],
   "attract": [
     "GOstats",
     "Category"
@@ -797,8 +794,7 @@
     "SpatialExperiment"
   ],
   "condiments": [
-    "slingshot",
-    "distinct"
+    "slingshot"
   ],
   "consensusDE": [],
   "consensusOV": [
@@ -878,7 +874,6 @@
   "diffUTR": [
     "DEXSeq"
   ],
-  "distinct": [],
   "dominoSignal": [],
   "doppelgangR": [
     "sva"
@@ -887,7 +882,6 @@
   "dreamlet": [
     "zenith"
   ],
-  "easyRNASeq": [],
   "edge": [
     "sva"
   ],
@@ -1041,7 +1035,6 @@
     "minfi",
     "GEOquery"
   ],
-  "lute": [],
   "m6Aboost": [],
   "mBPCR": [],
   "mCSEA": [
@@ -1140,9 +1133,7 @@
     "Gviz"
   ],
   "motifmatchr": [],
-  "msImpute": [],
   "msgbsR": [
-    "easyRNASeq",
     "ggbio",
     "OrganismDbi"
   ],

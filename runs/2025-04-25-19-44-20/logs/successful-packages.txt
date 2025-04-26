@@ -1605,3 +1605,10 @@ seqArchRplus
 Anaquin
 epiregulon.extra
 TOAST
+atena
+distinct
+easyRNASeq
+lute
+MPAC
+msImpute
+RcisTarget
