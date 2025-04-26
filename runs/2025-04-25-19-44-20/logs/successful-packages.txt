@@ -1046,3 +1046,13 @@ Rtpca
 seq2pathway
 SigFuge
 switchde
+bcSeq
+chromPlot
+DelayedRandomArray
+edgeR
+genefu
+goSTAG
+Herper
+ibh
+PhosR
+pvac
