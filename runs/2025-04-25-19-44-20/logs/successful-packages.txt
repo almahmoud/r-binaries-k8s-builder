@@ -1590,3 +1590,8 @@ MultiBaC
 Pigengene
 scviR
 VariantTools
+ADAMgui
+alabaster.bumpy
+dyebias
+FRASER
+goSorensen

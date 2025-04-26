@@ -1,6 +1,5 @@
 {
   "ACE": [],
-  "ADAMgui": [],
   "ADaCGH2": [
     "tilingArray"
   ],
@@ -235,7 +234,6 @@
     "SpatialExperiment",
     "OrganismDbi"
   ],
-  "FRASER": [],
   "FastqCleaner": [],
   "FindIT2": [],
   "GA4GHshiny": [],
@@ -670,10 +668,8 @@
   "alabaster": [
     "alabaster.spatial",
     "alabaster.vcf",
-    "alabaster.bumpy",
     "SpatialExperiment"
   ],
-  "alabaster.bumpy": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
     "alabaster.spatial",
@@ -900,7 +896,6 @@
   "dreamlet": [
     "zenith"
   ],
-  "dyebias": [],
   "easyRNASeq": [],
   "edge": [
     "sva"
@@ -984,7 +979,6 @@
   "glmSparseNet": [],
   "globaltest": [],
   "gmapR": [],
-  "goSorensen": [],
   "gwasurvivr": [],
   "hiReadsProcessor": [],
   "hoodscanR": [
