@@ -491,13 +491,10 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiLDA": [],
   "HoloFoodR": [],
   "HybridExpress": [],
   "ILoReg": [],
-  "IMAS": [
-    "IVAS"
-  ],
+  "IMAS": [],
   "IMPCdata": [],
   "INSPEcT": [],
   "IONiseR": [],
@@ -512,7 +509,6 @@
     "oligo",
     "oligoClasses"
   ],
-  "IVAS": [],
   "InPAS": [
     "cleanUpdTSeq"
   ],
@@ -2023,7 +2019,6 @@
   ],
   "rCGH": [],
   "rGREAT": [],
-  "rTRMui": [],
   "raer": [],
   "recount": [
     "derfinder",
@@ -2136,9 +2131,7 @@
     "ensembldb"
   ],
   "scviR": [],
-  "selectKSigs": [
-    "HiLDA"
-  ],
+  "selectKSigs": [],
   "seqArchRplus": [
     "ChIPseeker",
     "clusterProfiler"

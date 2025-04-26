@@ -1420,3 +1420,6 @@ zitools
 clustifyr
 PathoStat
 prebs
+HiLDA
+IVAS
+rTRMui
