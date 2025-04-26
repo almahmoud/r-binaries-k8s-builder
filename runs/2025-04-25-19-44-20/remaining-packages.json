@@ -141,7 +141,6 @@
   ],
   "EasyCellType": [],
   "EpiCompare": [],
-  "EpiTxDb": [],
   "ExperimentHubData": [
     "AnnotationHubData"
   ],
@@ -878,7 +877,6 @@
     "Gviz"
   ],
   "scBFA": [],
-  "scCB2": [],
   "scClassify": [],
   "scDD": [],
   "scDblFinder": [],
