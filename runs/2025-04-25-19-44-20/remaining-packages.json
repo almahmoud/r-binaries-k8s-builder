@@ -565,7 +565,6 @@
     "ShortRead",
     "systemPipeR",
     "DESeq2",
-    "apeglm",
     "GreyListChIP",
     "rtracklayer",
     "BSgenome"
@@ -675,19 +674,12 @@
     "SingleCellExperiment"
   ],
   "CytoMDS": [
-    "CytoPipeline",
-    "ggcyto"
+    "CytoPipeline"
   ],
-  "CytoML": [
-    "openCyto",
-    "ggcyto"
-  ],
-  "CytoPipeline": [
-    "ggcyto"
-  ],
+  "CytoML": [],
+  "CytoPipeline": [],
   "CytoPipelineGUI": [
-    "CytoPipeline",
-    "ggcyto"
+    "CytoPipeline"
   ],
   "DAMEfinder": [
     "GenomicAlignments",
@@ -853,7 +845,6 @@
     "GenomicAlignments",
     "systemPipeR",
     "DESeq2",
-    "apeglm",
     "GreyListChIP",
     "BSgenome",
     "rtracklayer",
@@ -948,8 +939,7 @@
   ],
   "ERSSA": [
     "edgeR",
-    "DESeq2",
-    "apeglm"
+    "DESeq2"
   ],
   "EWCE": [
     "SingleCellExperiment",
@@ -1480,7 +1470,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "MACSr": [],
   "MAI": [],
   "MAIT": [
     "CAMERA",
@@ -2408,7 +2397,6 @@
   ],
   "Rmmquant": [
     "DESeq2",
-    "apeglm",
     "GenomicFeatures",
     "rtracklayer",
     "GenomicAlignments"
@@ -2791,7 +2779,6 @@
     "enrichplot"
   ],
   "TEKRABber": [
-    "apeglm",
     "DESeq2",
     "rtracklayer",
     "GenomicAlignments"
@@ -3083,7 +3070,6 @@
   "airpart": [
     "SingleCellExperiment",
     "scater",
-    "apeglm",
     "scuttle",
     "BiocSingular"
   ],
@@ -3177,7 +3163,6 @@
     "edgeR"
   ],
   "apComplex": [],
-  "apeglm": [],
   "appreci8R": [
     "VariantAnnotation",
     "BSgenome",
@@ -3296,7 +3281,6 @@
     "edgeR"
   ],
   "betaHMM": [],
-  "bettr": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -3924,7 +3908,6 @@
     "sva",
     "enrichplot",
     "pathview",
-    "apeglm",
     "genefilter"
   ],
   "decompTumor2Sig": [
@@ -4295,15 +4278,9 @@
     "MultiAssayExperiment"
   ],
   "flowBin": [],
-  "flowGate": [
-    "ggcyto"
-  ],
-  "flowStats": [],
-  "flowVS": [
-    "flowStats"
-  ],
+  "flowGate": [],
+  "flowVS": [],
   "flowcatchR": [],
-  "fobitools": [],
   "frma": [
     "oligo",
     "oligoClasses"
@@ -4319,7 +4296,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "gCrisprTools": [],
   "gDRcore": [
     "gDRutils",
     "MultiAssayExperiment"
@@ -4399,7 +4375,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "ggcyto": [],
   "ggsc": [
     "SingleCellExperiment"
   ],
@@ -4635,7 +4610,6 @@
     "DESeq2",
     "edgeR"
   ],
-  "ivygapSE": [],
   "jazzPanda": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -4666,7 +4640,6 @@
   "levi": [],
   "limmaGUI": [],
   "limpa": [],
-  "limpca": [],
   "lineagespot": [
     "VariantAnnotation",
     "rtracklayer",
@@ -4752,7 +4725,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "marr": [],
   "marray": [],
   "maser": [
     "rtracklayer",
@@ -5284,8 +5256,6 @@
     "RaggedExperiment"
   ],
   "ompBAM": [],
-  "ontoProc": [],
-  "openCyto": [],
   "oposSOM": [],
   "oppar": [
     "GSEABase",
@@ -5381,8 +5351,7 @@
   "phantasus": [
     "GEOquery",
     "edgeR",
-    "DESeq2",
-    "apeglm"
+    "DESeq2"
   ],
   "phenoTest": [
     "annotate",
@@ -5438,9 +5407,7 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "pogos": [
-    "ontoProc"
-  ],
+  "pogos": [],
   "ppcseq": [
     "edgeR"
   ],
@@ -6350,9 +6317,7 @@
     "biovizBase",
     "GenomicAlignments"
   ],
-  "tenXplore": [
-    "ontoProc"
-  ],
+  "tenXplore": [],
   "terapadog": [
     "DESeq2"
   ],

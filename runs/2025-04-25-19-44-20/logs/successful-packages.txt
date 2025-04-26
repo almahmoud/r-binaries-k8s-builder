@@ -933,3 +933,15 @@ geyser
 lionessR
 multiGSEA
 omicsViewer
+apeglm
+bettr
+flowStats
+fobitools
+gCrisprTools
+ggcyto
+ivygapSE
+limpca
+MACSr
+marr
+ontoProc
+openCyto

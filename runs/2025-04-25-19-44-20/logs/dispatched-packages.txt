@@ -1158,3 +1158,9 @@ openCyto
 gsean
 SVMDO
 enrichplot
+CytoML
+CytoPipeline
+flowGate
+flowVS
+pogos
+tenXplore
