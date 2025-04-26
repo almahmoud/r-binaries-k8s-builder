@@ -1067,3 +1067,10 @@ ReactomePA
 rfPred
 siggenes
 TDbasedUFEadv
+BiocSklearn
+DRIMSeq
+isobar
+MEDME
+ROSeq
+SingleR
+tweeDEseq

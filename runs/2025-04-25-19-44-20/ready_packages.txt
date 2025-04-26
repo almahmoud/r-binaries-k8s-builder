@@ -1,3 +1,1 @@
-EWCE
-KCsmart
-trio
+BANDITS

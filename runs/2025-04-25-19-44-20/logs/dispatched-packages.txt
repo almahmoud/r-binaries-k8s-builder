@@ -1293,3 +1293,4 @@ tweeDEseq
 EWCE
 KCsmart
 trio
+BANDITS

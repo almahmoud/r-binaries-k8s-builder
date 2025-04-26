@@ -121,9 +121,7 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "BANDITS": [
-    "DRIMSeq"
-  ],
+  "BANDITS": [],
   "BASiCS": [
     "scran",
     "scuttle"
@@ -255,7 +253,6 @@
     "scuttle"
   ],
   "BiocHubsShiny": [],
-  "BiocSklearn": [],
   "BloodGen3Module": [],
   "BreastSubtypeR": [],
   "BubbleTree": [
@@ -656,7 +653,6 @@
     "VariantAnnotation",
     "annotate"
   ],
-  "DRIMSeq": [],
   "DSS": [
     "bsseq",
     "BSgenome",
@@ -732,8 +728,7 @@
     "ShortRead"
   ],
   "DifferentialRegulation": [
-    "BANDITS",
-    "DRIMSeq"
+    "BANDITS"
   ],
   "Dino": [
     "scran",
@@ -1343,7 +1338,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MEDME": [],
   "MGFM": [
     "annotate"
   ],
@@ -1959,7 +1953,6 @@
     "VariantAnnotation"
   ],
   "RNAseqCovarImpute": [],
-  "ROSeq": [],
   "RPA": [
     "phyloseq"
   ],
@@ -2248,7 +2241,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "SingleR": [],
   "SomaticSignatures": [
     "VariantAnnotation",
     "ggbio",
@@ -3929,7 +3921,6 @@
     "genefilter",
     "annotate"
   ],
-  "isobar": [],
   "isomiRs": [
     "DEGreport",
     "DESeq2"
@@ -5447,7 +5438,6 @@
     "scuttle"
   ],
   "trio": [],
-  "tweeDEseq": [],
   "txcutr": [
     "GenomicFeatures",
     "txdbmaker",
