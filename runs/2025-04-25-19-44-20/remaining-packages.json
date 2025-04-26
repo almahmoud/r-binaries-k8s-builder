@@ -94,7 +94,6 @@
   "BUSpaRse": [
     "ensembldb"
   ],
-  "BUSseq": [],
   "BadRegionFinder": [
     "VariantAnnotation"
   ],
@@ -535,7 +534,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HIPPO": [],
   "HTSFilter": [],
   "HarmonizR": [
     "sva",
@@ -652,7 +650,6 @@
     "genefilter"
   ],
   "MMDiff2": [],
-  "MMUPHin": [],
   "MOSClip": [
     "qpgraph"
   ],
@@ -1539,7 +1536,6 @@
   "covRNA": [
     "genefilter"
   ],
-  "cpvSNP": [],
   "crisprBowtie": [],
   "crisprBwa": [],
   "crisprDesign": [
@@ -2392,7 +2388,6 @@
   ],
   "scDD": [],
   "scDblFinder": [],
-  "scDesign3": [],
   "scDiagnostics": [],
   "scDotPlot": [],
   "scFeatures": [
@@ -2503,7 +2498,6 @@
     "GEOquery",
     "lumi"
   ],
-  "slalom": [],
   "slingshot": [
     "TrajectoryUtils"
   ],
@@ -2584,7 +2578,6 @@
     "EDASeq"
   ],
   "strandCheckR": [],
-  "surfaltr": [],
   "survClust": [],
   "sva": [
     "genefilter"
@@ -2627,7 +2620,6 @@
   "tilingArray": [
     "genefilter"
   ],
-  "timecourse": [],
   "topdownr": [
     "MSnbase",
     "PSMatch"

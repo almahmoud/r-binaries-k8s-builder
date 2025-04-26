@@ -1340,3 +1340,11 @@ EnrichmentBrowser
 KCsmart
 SingleCellAlleleExperiment
 SPOTlight
+BUSseq
+cpvSNP
+HIPPO
+MMUPHin
+scDesign3
+slalom
+surfaltr
+timecourse
