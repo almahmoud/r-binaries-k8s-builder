@@ -1170,3 +1170,11 @@ HiCool
 NetActivity
 QFeatures
 evaluomeR
+animalcules
+easier
+gDRutils
+gg4way
+hermes
+hipathia
+tidyCoverage
+treekoR

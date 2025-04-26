@@ -1612,8 +1612,7 @@
     "escheR"
   ],
   "Statial": [
-    "SpatialExperiment",
-    "treekoR"
+    "SpatialExperiment"
   ],
   "StructuralVariantAnnotation": [
     "VariantAnnotation",
@@ -1869,7 +1868,6 @@
     "GenomicFeatures"
   ],
   "amplican": [],
-  "animalcules": [],
   "annmap": [
     "genefilter"
   ],
@@ -2420,7 +2418,6 @@
     "GenomicFeatures"
   ],
   "dyebias": [],
-  "easier": [],
   "easyRNASeq": [],
   "easylift": [],
   "edge": [
@@ -2570,10 +2567,7 @@
     "GEOquery",
     "GenomicFeatures"
   ],
-  "gDRcore": [
-    "gDRutils"
-  ],
-  "gDRutils": [],
+  "gDRcore": [],
   "gINTomics": [
     "GenomicFeatures",
     "clusterProfiler"
@@ -2605,7 +2599,6 @@
   "gep2pep": [
     "GSEABase"
   ],
-  "gg4way": [],
   "ggbio": [
     "biovizBase",
     "BSgenome",
@@ -2647,7 +2640,6 @@
     "GenomicFeatures"
   ],
   "hdxmsqc": [],
-  "hermes": [],
   "hiAnnotator": [
     "BSgenome"
   ],
@@ -2656,7 +2648,6 @@
     "BSgenome"
   ],
   "hicVennDiagram": [],
-  "hipathia": [],
   "hoodscanR": [
     "SpatialExperiment"
   ],
@@ -3768,7 +3759,6 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "tidyCoverage": [],
   "tidySingleCellExperiment": [],
   "tidySpatialExperiment": [
     "SpatialExperiment",
@@ -3822,7 +3812,6 @@
   "treeclimbR": [
     "TreeSummarizedExperiment"
   ],
-  "treekoR": [],
   "tricycle": [
     "scater",
     "scuttle"
