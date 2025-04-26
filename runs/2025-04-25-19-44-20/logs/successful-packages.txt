@@ -1395,3 +1395,12 @@ Macarron
 Motif2Site
 RCM
 RPA
+ClusterFoldSimilarity
+combi
+microbiome
+microbiomeDASim
+MotifPeeker
+msqrob2
+reconsi
+SparseSignatures
+SPsimSeq

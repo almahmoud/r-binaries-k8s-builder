@@ -251,7 +251,6 @@
   "CluMSID": [
     "MSnbase"
   ],
-  "ClusterFoldSimilarity": [],
   "CoSIA": [],
   "Cogito": [],
   "CytoMDS": [
@@ -669,7 +668,6 @@
     "clusterProfiler",
     "GEOquery"
   ],
-  "MotifPeeker": [],
   "MsExperiment": [],
   "MsQuality": [
     "MsExperiment"
@@ -950,7 +948,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SPsimSeq": [],
   "SVP": [
     "SpatialExperiment"
   ],
@@ -983,7 +980,6 @@
     "SpatialExperiment"
   ],
   "Spaniel": [],
-  "SparseSignatures": [],
   "SpatialExperiment": [],
   "SpatialExperimentIO": [
     "SpatialExperiment"
@@ -1006,9 +1002,7 @@
   "StructuralVariantAnnotation": [
     "VariantAnnotation"
   ],
-  "SurfR": [
-    "SPsimSeq"
-  ],
+  "SurfR": [],
   "TAPseq": [],
   "TBSignatureProfiler": [
     "ASSIGN",
@@ -1339,7 +1333,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "combi": [],
   "concordexR": [
     "SpatialExperiment"
   ],
@@ -1867,8 +1860,6 @@
     "mia"
   ],
   "microSTASIS": [],
-  "microbiome": [],
-  "microbiomeDASim": [],
   "mimager": [
     "affyPLM",
     "oligo",
@@ -1925,7 +1916,6 @@
     "msmsEDA"
   ],
   "mspms": [],
-  "msqrob2": [],
   "multistateQTL": [],
   "mumosa": [],
   "muscat": [],
@@ -2083,7 +2073,6 @@
   "rGREAT": [],
   "rTRMui": [],
   "raer": [],
-  "reconsi": [],
   "recount": [
     "derfinder",
     "GEOquery",
