@@ -274,3 +274,14 @@ mzR
 NCIgraph
 Polytect
 S4Arrays
+Cardinal
+derfinderHelper
+dStruct
+flowCore
+GAprediction
+GeneNetworkBuilder
+GenomeInfoDb
+nucleoSim
+qcmetrics
+SPIA
+XVector
