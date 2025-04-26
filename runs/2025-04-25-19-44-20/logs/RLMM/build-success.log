@@ -1,0 +1,45 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''RLMM'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R Under development (unstable)
+  (2025-03-08 r87910)
+Installing package(s) 'RLMM'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/RLMM_1.70.0.tar.gz'
+Content type 'application/x-gzip' length 429905 bytes (419 KB)
+==================================================
+downloaded 419 KB
+
+* installing *source* package ‘RLMM’ ...
+** this is package ‘RLMM’ version ‘1.70.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RLMM’ as ‘RLMM_1.70.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RLMM)
+
+The downloaded source packages are in
+	‘/tmp/RtmpnLcJNa/downloaded_packages’
+Old packages: 'cli', 'commonmark', 'curl', 'diffobj', 'docopt', 'fs', 'gert',
+  'httpuv', 'httr2', 'jsonlite', 'knitr', 'later', 'littler', 'mime', 'miniUI',
+  'pillar', 'pkgbuild', 'preprocessCore', 'ps', 'ragg', 'rlang', 'sass',
+  'stringi', 'systemfonts', 'tinytex', 'xfun', 'xml2', 'foreign', 'lattice',
+  'mgcv', 'nlme'
+
+real	0m4.212s
+user	0m2.988s
+sys	0m1.368s
