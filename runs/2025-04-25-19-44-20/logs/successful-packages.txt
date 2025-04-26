@@ -1625,3 +1625,11 @@ M3Drop
 MICSQTL
 Spaniel
 terapadog
+BioGA
+cfDNAPro
+CTexploreR
+DifferentialRegulation
+iSEEde
+RJMCMCNucleosomes
+SGSeq
+vidger

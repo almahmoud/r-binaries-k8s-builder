@@ -1844,3 +1844,5 @@ cytofQC
 decontX
 scMerge
 spillR
+EventPointer
+Rhisat2

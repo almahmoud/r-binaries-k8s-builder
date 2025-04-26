@@ -57,7 +57,6 @@
     "globaltest"
   ],
   "BindingSiteFinder": [],
-  "BioGA": [],
   "BioNERO": [
     "sva"
   ],
@@ -102,7 +101,6 @@
   "CTSV": [
     "SpatialExperiment"
   ],
-  "CTexploreR": [],
   "Category": [],
   "CatsCradle": [
     "SpatialExperiment"
@@ -135,8 +133,7 @@
   ],
   "ChIPexoQual": [],
   "CircSeqAlignTk": [
-    "Rhisat2",
-    "SGSeq"
+    "Rhisat2"
   ],
   "CiteFuse": [],
   "ClassifyR": [],
@@ -190,7 +187,6 @@
   "DiffBind": [
     "systemPipeR"
   ],
-  "DifferentialRegulation": [],
   "DominoEffect": [],
   "Dune": [],
   "DuplexDiscovereR": [
@@ -211,9 +207,7 @@
   "EpiTxDb": [
     "tRNAdbImport"
   ],
-  "EventPointer": [
-    "SGSeq"
-  ],
+  "EventPointer": [],
   "ExperimentHubData": [
     "AnnotationHubData",
     "OrganismDbi"
@@ -446,7 +440,6 @@
     "GEOquery"
   ],
   "RESOLVE": [],
-  "RJMCMCNucleosomes": [],
   "RMassBank": [
     "MSnbase"
   ],
@@ -484,9 +477,7 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "Rhisat2": [
-    "SGSeq"
-  ],
+  "Rhisat2": [],
   "RiboProfiling": [
     "ggbio",
     "OrganismDbi"
@@ -522,7 +513,6 @@
     "GOstats",
     "Category"
   ],
-  "SGSeq": [],
   "SIM": [
     "globaltest"
   ],
@@ -748,7 +738,6 @@
     "RTCGAToolbox"
   ],
   "ccImpute": [],
-  "cfDNAPro": [],
   "cfdnakit": [],
   "cghMCR": [
     "CNTools"
@@ -965,7 +954,6 @@
     "OrganismDbi",
     "GEOquery"
   ],
-  "iSEEde": [],
   "iSEEfier": [
     "iSEEu",
     "iSEEhex"
@@ -1439,7 +1427,6 @@
     "OrganismDbi"
   ],
   "velociraptor": [],
-  "vidger": [],
   "visiumStitched": [
     "SpatialExperiment"
   ],
