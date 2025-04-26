@@ -167,7 +167,6 @@
     "Gviz"
   ],
   "GenomicFiles": [],
-  "GenomicInteractionNodes": [],
   "GenomicInteractions": [
     "Gviz"
   ],
@@ -384,7 +383,6 @@
     "escheR"
   ],
   "Statial": [],
-  "StructuralVariantAnnotation": [],
   "SurfR": [],
   "TBSignatureProfiler": [
     "ASSIGN",
@@ -426,7 +424,6 @@
     "SomaticSignatures",
     "ggbio"
   ],
-  "ZygosityPredictor": [],
   "a4": [
     "a4Base"
   ],
@@ -773,7 +770,6 @@
   ],
   "mumosa": [],
   "muscat": [],
-  "myvariant": [],
   "ncGTW": [
     "xcms"
   ],
@@ -876,7 +872,6 @@
     "ASpli",
     "Gviz"
   ],
-  "scBFA": [],
   "scClassify": [],
   "scDD": [],
   "scDblFinder": [],
@@ -949,12 +944,8 @@
   "stJoincount": [],
   "standR": [],
   "sva": [],
-  "svaNUMT": [
-    "StructuralVariantAnnotation"
-  ],
-  "svaRetro": [
-    "StructuralVariantAnnotation"
-  ],
+  "svaNUMT": [],
+  "svaRetro": [],
   "systemPipeR": [],
   "tadar": [
     "Gviz"

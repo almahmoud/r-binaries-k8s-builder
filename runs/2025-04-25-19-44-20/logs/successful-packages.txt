@@ -1736,3 +1736,8 @@ tricycle
 Uniquorn
 EpiTxDb
 scCB2
+GenomicInteractionNodes
+myvariant
+scBFA
+StructuralVariantAnnotation
+ZygosityPredictor
