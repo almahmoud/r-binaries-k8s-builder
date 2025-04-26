@@ -148,7 +148,6 @@
     "scuttle"
   ],
   "BiocHubsShiny": [],
-  "BloodGen3Module": [],
   "BubbleTree": [
     "biovizBase",
     "VariantAnnotation",
@@ -478,8 +477,7 @@
     "clusterProfiler"
   ],
   "EnrichmentBrowser": [
-    "GSEABase",
-    "pathview"
+    "GSEABase"
   ],
   "EpiCompare": [
     "ChIPseeker",
@@ -546,8 +544,7 @@
     "genefilter"
   ],
   "GDCRNATools": [
-    "clusterProfiler",
-    "pathview"
+    "clusterProfiler"
   ],
   "GEOexplorer": [
     "sva",
@@ -556,7 +553,6 @@
   ],
   "GEOquery": [],
   "GOTHiC": [],
-  "GOpro": [],
   "GOstats": [
     "Category",
     "GSEABase",
@@ -565,8 +561,7 @@
   "GSEABase": [],
   "GSEABenchmarkeR": [
     "EnrichmentBrowser",
-    "GSEABase",
-    "pathview"
+    "GSEABase"
   ],
   "GSRI": [
     "genefilter",
@@ -705,7 +700,6 @@
     "genefilter"
   ],
   "LimROTS": [],
-  "LinkHD": [],
   "LoomExperiment": [],
   "M3Drop": [
     "scater",
@@ -1184,9 +1178,7 @@
     "ensembldb"
   ],
   "SARC": [],
-  "SBGNview": [
-    "pathview"
-  ],
+  "SBGNview": [],
   "SC3": [],
   "SCAN.UPC": [
     "oligo",
@@ -1291,7 +1283,6 @@
     "scuttle"
   ],
   "SparseSignatures": [],
-  "SpatialCPie": [],
   "SpatialExperiment": [],
   "SpatialExperimentIO": [
     "DropletUtils",
@@ -1576,7 +1567,6 @@
   "beachmat.tiledb": [],
   "beadarray": [],
   "beer": [],
-  "betaHMM": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -1676,7 +1666,6 @@
     "TCGAutils"
   ],
   "ccImpute": [],
-  "ccfindR": [],
   "celda": [
     "scater",
     "scran",
@@ -1902,7 +1891,6 @@
   "debrowser": [
     "clusterProfiler",
     "sva",
-    "pathview",
     "genefilter"
   ],
   "decompTumor2Sig": [
@@ -1965,8 +1953,7 @@
   "dreamlet": [
     "GSEABase",
     "zenith",
-    "EnrichmentBrowser",
-    "pathview"
+    "EnrichmentBrowser"
   ],
   "drugTargetInteractions": [
     "ensembldb"
@@ -2528,7 +2515,6 @@
     "scuttle",
     "genefilter"
   ],
-  "nipalsMCIA": [],
   "nnNorm": [],
   "nnSVG": [
     "SpatialExperiment"
@@ -2597,7 +2583,6 @@
   "pathlinkR": [
     "clusterProfiler"
   ],
-  "pathview": [],
   "pdInfoBuilder": [
     "oligo",
     "oligoClasses"
@@ -2819,7 +2804,6 @@
     "scran",
     "scuttle"
   ],
-  "scGPS": [],
   "scHOT": [],
   "scMET": [],
   "scMerge": [
@@ -3204,8 +3188,7 @@
   "zellkonverter": [],
   "zenith": [
     "EnrichmentBrowser",
-    "GSEABase",
-    "pathview"
+    "GSEABase"
   ],
   "zinbwave": [
     "genefilter"

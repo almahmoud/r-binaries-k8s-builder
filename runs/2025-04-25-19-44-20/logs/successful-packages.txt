@@ -1242,3 +1242,12 @@ Lheuristic
 omicsPrint
 pvca
 scQTLtools
+betaHMM
+BloodGen3Module
+ccfindR
+GOpro
+LinkHD
+nipalsMCIA
+pathview
+scGPS
+SpatialCPie
