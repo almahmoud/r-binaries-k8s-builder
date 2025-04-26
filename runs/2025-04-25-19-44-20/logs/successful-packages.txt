@@ -1695,3 +1695,9 @@ pathlinkR
 ProteoDisco
 SpliceWiz
 transformGamPoi
+cydar
+GSRI
+INSPEcT
+mitoClone2
+NormalyzerDE
+sSNAPPY

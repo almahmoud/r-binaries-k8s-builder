@@ -204,7 +204,6 @@
   ],
   "GOTHiC": [],
   "GOstats": [],
-  "GSRI": [],
   "GSReg": [
     "OrganismDbi"
   ],
@@ -240,7 +239,6 @@
     "GenomicInteractions",
     "Gviz"
   ],
-  "INSPEcT": [],
   "IPO": [
     "xcms",
     "CAMERA",
@@ -328,7 +326,6 @@
   "MsQuality": [],
   "MungeSumstats": [],
   "NanoMethViz": [],
-  "NormalyzerDE": [],
   "OGRE": [
     "Gviz"
   ],
@@ -341,7 +338,6 @@
     "sva"
   ],
   "PRONE": [
-    "NormalyzerDE",
     "MSnbase",
     "POMA",
     "sva"
@@ -700,7 +696,6 @@
   "cummeRbund": [
     "Gviz"
   ],
-  "cydar": [],
   "cytomapper": [
     "SpatialExperiment"
   ],
@@ -938,7 +933,6 @@
     "methylumi",
     "minfi"
   ],
-  "mitoClone2": [],
   "monaLisa": [],
   "motifStack": [],
   "motifbreakR": [
@@ -1081,7 +1075,6 @@
     "motifStack"
   ],
   "rqt": [],
-  "sSNAPPY": [],
   "sampleClassifier": [],
   "saseR": [
     "ASpli",
