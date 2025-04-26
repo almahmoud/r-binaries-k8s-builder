@@ -1762,7 +1762,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MesKit": [],
   "MetNet": [],
   "MetaCyto": [],
   "MetaNeighbor": [
@@ -2579,7 +2578,6 @@
     "SingleCellExperiment"
   ],
   "SEtools": [
-    "sechm",
     "DESeq2",
     "edgeR",
     "sva",
@@ -2648,7 +2646,6 @@
     "edgeR",
     "phyloseq"
   ],
-  "SQLDataFrame": [],
   "STATegRa": [
     "edgeR"
   ],
@@ -3483,7 +3480,6 @@
     "DESeq2",
     "genefilter",
     "clusterProfiler",
-    "sechm",
     "edgeR",
     "DOSE",
     "enrichplot",
@@ -4010,7 +4006,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "debCAM": [],
   "debrowser": [
     "annotate",
     "DESeq2",
@@ -4118,7 +4113,6 @@
     "GenomicAlignments",
     "annotate"
   ],
-  "diffcoexp": [],
   "diffcyt": [
     "edgeR"
   ],
@@ -4170,7 +4164,6 @@
     "marray"
   ],
   "easier": [
-    "quantiseqr",
     "DESeq2"
   ],
   "easyRNASeq": [
@@ -5742,7 +5735,6 @@
     "edgeR",
     "annotate"
   ],
-  "quantiseqr": [],
   "quantro": [
     "minfi",
     "bumphunter",
@@ -5770,7 +5762,6 @@
     "GenomicAlignments"
   ],
   "rGenomeTracks": [],
-  "rScudo": [],
   "rTRMui": [
     "MotifDb",
     "rtracklayer",
@@ -5914,8 +5905,6 @@
   "rtracklayer": [
     "GenomicAlignments"
   ],
-  "runibic": [],
-  "sRACIPE": [],
   "sSNAPPY": [
     "edgeR"
   ],
@@ -6042,7 +6031,6 @@
     "scuttle",
     "edgeR"
   ],
-  "scMultiSim": [],
   "scPipe": [
     "SingleCellExperiment",
     "DropletUtils",
@@ -6145,7 +6133,6 @@
     "BiocSingular"
   ],
   "scrapper": [],
-  "screenCounter": [],
   "scruff": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -6173,7 +6160,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "sechm": [],
   "segmentSeq": [
     "baySeq",
     "ShortRead",
@@ -6253,7 +6239,6 @@
     "GenomicFeatures",
     "annotate"
   ],
-  "sigFeature": [],
   "siggenes": [],
   "signatureSearch": [
     "fgsea",
@@ -6304,7 +6289,6 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "sketchR": [],
   "skewr": [
     "methylumi",
     "wateRmelon",
@@ -6337,7 +6321,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "snapcount": [],
   "soGGi": [
     "GenomicAlignments",
     "rtracklayer",
@@ -6434,7 +6417,6 @@
     "scuttle",
     "SingleCellExperiment"
   ],
-  "spqn": [],
   "squallms": [
     "xcms",
     "MSnbase",
