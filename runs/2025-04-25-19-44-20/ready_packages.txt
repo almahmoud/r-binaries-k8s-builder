@@ -1,5 +1,0 @@
-BioMVCClass
-GeneRegionScan
-NormqPCR
-PANR
-TreeAndLeaf

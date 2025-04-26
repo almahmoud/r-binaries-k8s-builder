@@ -623,7 +623,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "BioMVCClass": [],
   "BioNAR": [
     "fgsea",
     "AnnotationDbi",
@@ -925,7 +924,6 @@
   ],
   "CHETAH": [
     "SingleCellExperiment",
-    "bioDist",
     "SummarizedExperiment",
     "DelayedArray",
     "MatrixGenerics",
@@ -1756,7 +1754,6 @@
   ],
   "DNABarcodeCompatibility": [],
   "DNABarcodes": [],
-  "DNAcycP2": [],
   "DOSE": [
     "AnnotationDbi",
     "fgsea",
@@ -2545,7 +2542,6 @@
     "GenomicAlignments",
     "pwalign"
   ],
-  "GBScleanR": [],
   "GDCRNATools": [
     "limma",
     "edgeR",
@@ -2691,7 +2687,6 @@
     "SparseArray",
     "annotate"
   ],
-  "GSEAlm": [],
   "GSRI": [
     "genefilter",
     "GSEABase",
@@ -3579,7 +3574,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "MBttest": [],
   "MCbiclust": [
     "AnnotationDbi",
     "KEGGREST"
@@ -4550,7 +4544,6 @@
     "affyio",
     "SparseArray"
   ],
-  "NormqPCR": [],
   "OCplus": [
     "multtest"
   ],
@@ -4600,7 +4593,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "OPWeight": [],
   "ORFhunteR": [
     "rtracklayer",
     "BSgenome",
@@ -4730,7 +4722,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "PANR": [],
   "PAST": [
     "rtracklayer",
     "Rsamtools",
@@ -4942,7 +4933,6 @@
     "SparseArray"
   ],
   "PhyloProfile": [
-    "bioDist",
     "ExperimentHub",
     "AnnotationHub",
     "AnnotationDbi",
@@ -7936,7 +7926,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "bioDist": [],
   "biobroom": [],
   "biocGraph": [
     "geneplotter",
@@ -8324,7 +8313,6 @@
   "cellbaseR": [
     "Rsamtools"
   ],
-  "cellmigRation": [],
   "cellxgenedp": [],
   "censcyt": [
     "diffcyt",
@@ -9122,7 +9110,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "cyanoFilter": [],
   "cycle": [
     "Mfuzz",
     "tkWidgets",
@@ -9431,7 +9418,6 @@
     "MatrixGenerics",
     "SparseArray"
   ],
-  "diffGeneAnalysis": [],
   "diffHic": [
     "InteractionSet",
     "SummarizedExperiment",
@@ -10412,7 +10398,6 @@
     "SparseArray"
   ],
   "ggkegg": [],
-  "ggmanh": [],
   "ggmsa": [
     "R4RNA"
   ],
@@ -11274,7 +11259,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "magrene": [],
   "makecdfenv": [
     "affyio",
     "affy"
@@ -12370,7 +12354,6 @@
     "limma",
     "multtest"
   ],
-  "netresponse": [],
   "ngsReports": [],
   "nipalsMCIA": [
     "fgsea",
@@ -12492,7 +12475,6 @@
     "limma"
   ],
   "omicRexposome": [
-    "rexposome",
     "limma",
     "sva",
     "omicade4",
@@ -13420,7 +13402,6 @@
   ],
   "randPack": [],
   "randRotation": [],
-  "rawDiag": [],
   "rbsurv": [],
   "rcellminer": [],
   "receptLoss": [
@@ -13564,7 +13545,6 @@
     "SparseArray"
   ],
   "retrofit": [],
-  "rexposome": [],
   "rfPred": [
     "Rsamtools"
   ],
