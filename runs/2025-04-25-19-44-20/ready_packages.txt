@@ -1,8 +1,0 @@
-BiGGR
-MetCirc
-MsBackendMassbank
-MsBackendMetaboLights
-MsBackendMgf
-MsBackendMsp
-MsBackendSql
-SpectraQL

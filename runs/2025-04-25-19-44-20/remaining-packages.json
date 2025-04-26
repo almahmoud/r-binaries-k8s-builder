@@ -1730,7 +1730,6 @@
     "MatrixGenerics",
     "SparseArray"
   ],
-  "ClustAll": [],
   "ClusterFoldSimilarity": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -8190,7 +8189,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "TargetDecoy": [],
   "TaxSEA": [],
   "TileDBArray": [
     "SparseArray",
@@ -11444,7 +11442,6 @@
     "limma"
   ],
   "easier": [
-    "progeny",
     "quantiseqr",
     "DESeq2",
     "GenomicRanges",
@@ -15681,7 +15678,6 @@
     "qvalue",
     "pwalign"
   ],
-  "progeny": [],
   "projectR": [
     "SingleCellExperiment",
     "limma",
@@ -18582,7 +18578,6 @@
     "Biostrings",
     "MatrixGenerics"
   ],
-  "updateObject": [],
   "variancePartition": [
     "limma"
   ],
