@@ -31,7 +31,6 @@
   "ATACseqTFEA": [
     "motifmatchr"
   ],
-  "AffiXcan": [],
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
@@ -262,9 +261,7 @@
   "DeconvoBuddies": [
     "SpatialExperiment"
   ],
-  "DegCre": [
-    "plotgardener"
-  ],
+  "DegCre": [],
   "DegNorm": [
     "txdbmaker"
   ],
@@ -305,7 +302,6 @@
     "clusterProfiler"
   ],
   "EpiCompare": [],
-  "EpiMix": [],
   "EpiTxDb": [
     "txdbmaker",
     "tRNAdbImport"
@@ -324,8 +320,7 @@
   ],
   "ExploreModelMatrix": [],
   "FEAST": [
-    "TSCAN",
-    "SC3"
+    "TSCAN"
   ],
   "FLAMES": [
     "bambu",
@@ -417,7 +412,6 @@
     "biovizBase"
   ],
   "HoloFoodR": [],
-  "ILoReg": [],
   "IMAS": [],
   "IMPCdata": [],
   "INSPEcT": [],
@@ -558,8 +552,7 @@
   ],
   "Moonlight2R": [
     "clusterProfiler",
-    "GEOquery",
-    "EpiMix"
+    "GEOquery"
   ],
   "MoonlightR": [
     "clusterProfiler",
@@ -588,7 +581,6 @@
   "OMICsPCA": [
     "HelloRanges"
   ],
-  "ORFhunteR": [],
   "ORFik": [
     "txdbmaker"
   ],
@@ -754,7 +746,6 @@
   ],
   "SARC": [],
   "SBGNview": [],
-  "SC3": [],
   "SCAN.UPC": [
     "oligo",
     "GEOquery",
@@ -870,8 +861,7 @@
   "UCell": [],
   "UPDhmm": [],
   "Ularcirc": [
-    "Organism.dplyr",
-    "plotgardener"
+    "Organism.dplyr"
   ],
   "Uniquorn": [],
   "VAExprs": [],
@@ -983,7 +973,6 @@
     "pRoloc",
     "MLInterfaces"
   ],
-  "basecallQC": [],
   "bayNorm": [],
   "bigmelon": [
     "wateRmelon",
@@ -1055,7 +1044,6 @@
   ],
   "ccImpute": [],
   "celda": [],
-  "cellbaseR": [],
   "cfDNAPro": [],
   "cfdnakit": [
     "QDNAseq",
@@ -1410,7 +1398,6 @@
   "interactiveDisplay": [
     "Category"
   ],
-  "isomiRs": [],
   "jazzPanda": [
     "SpatialExperiment"
   ],
@@ -1456,9 +1443,7 @@
   "magpie": [
     "TRESS"
   ],
-  "mariner": [
-    "plotgardener"
-  ],
+  "mariner": [],
   "maser": [
     "Gviz",
     "biovizBase"
@@ -1668,7 +1653,6 @@
     "ropls"
   ],
   "pipeComp": [],
-  "plotgardener": [],
   "plyinteractions": [],
   "poem": [
     "SpatialExperiment"
@@ -1997,7 +1981,6 @@
     "GEOquery"
   ],
   "wavClusteR": [],
-  "webbioc": [],
   "xcms": [
     "MSnbase",
     "MsExperiment"

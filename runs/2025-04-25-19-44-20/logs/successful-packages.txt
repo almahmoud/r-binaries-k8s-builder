@@ -1455,3 +1455,13 @@ pogos
 rnaEditr
 TENET
 xcore
+AffiXcan
+basecallQC
+cellbaseR
+EpiMix
+ILoReg
+isomiRs
+ORFhunteR
+plotgardener
+SC3
+webbioc
