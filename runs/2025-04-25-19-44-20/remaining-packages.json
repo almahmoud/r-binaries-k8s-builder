@@ -7,7 +7,6 @@
   "ADAMgui": [
     "ADAM"
   ],
-  "ADAPT": [],
   "ADImpute": [],
   "ADaCGH2": [
     "tilingArray"
@@ -617,7 +616,6 @@
     "MSstatsPTM"
   ],
   "MSstatsTMT": [],
-  "Macarron": [],
   "MatrixQCvis": [
     "sva"
   ],
@@ -671,7 +669,6 @@
     "clusterProfiler",
     "GEOquery"
   ],
-  "Motif2Site": [],
   "MotifPeeker": [],
   "MsExperiment": [],
   "MsQuality": [
@@ -786,7 +783,6 @@
     "txdbmaker",
     "genomation"
   ],
-  "RCM": [],
   "RCSL": [],
   "REMP": [
     "minfi",
@@ -844,7 +840,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RPA": [],
   "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils"
@@ -2030,9 +2025,7 @@
     "SpatialExperiment"
   ],
   "pogos": [],
-  "prebs": [
-    "RPA"
-  ],
+  "prebs": [],
   "preciseTAD": [
     "rCGH"
   ],

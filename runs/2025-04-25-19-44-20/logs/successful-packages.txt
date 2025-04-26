@@ -1390,3 +1390,8 @@ vsclust
 chipseq
 MMDiff2
 PSMatch
+ADAPT
+Macarron
+Motif2Site
+RCM
+RPA
