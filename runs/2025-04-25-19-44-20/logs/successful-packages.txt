@@ -1423,3 +1423,10 @@ prebs
 HiLDA
 IVAS
 rTRMui
+bumphunter
+casper
+flowcatchR
+gmoviz
+OutSplice
+podkat
+Rmmquant

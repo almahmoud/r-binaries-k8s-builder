@@ -204,7 +204,6 @@
     "wateRmelon",
     "goseq",
     "missMethyl",
-    "bumphunter",
     "bsseq",
     "Gviz",
     "GEOquery",
@@ -258,8 +257,7 @@
     "CytoPipeline"
   ],
   "DAMEfinder": [
-    "VariantAnnotation",
-    "bumphunter"
+    "VariantAnnotation"
   ],
   "DAPAR": [
     "MSnbase"
@@ -278,7 +276,6 @@
     "Gviz",
     "ensembldb",
     "biovizBase",
-    "bumphunter",
     "GEOquery",
     "methylumi",
     "VariantAnnotation"
@@ -347,7 +344,6 @@
   ],
   "ENmix": [
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "EasyCellType": [
@@ -545,7 +541,6 @@
     "missMethyl",
     "ensembldb",
     "biovizBase",
-    "bumphunter",
     "GEOquery",
     "methylumi",
     "sva",
@@ -554,7 +549,6 @@
   "MEAT": [
     "minfi",
     "wateRmelon",
-    "bumphunter",
     "GEOquery",
     "methylumi",
     "lumi"
@@ -622,7 +616,6 @@
   "MethReg": [],
   "MethylAid": [
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "MicrobiomeProfiler": [
@@ -634,7 +627,6 @@
     "Category",
     "methylumi",
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "MinimumDistance": [
@@ -696,7 +688,6 @@
   "OrganismDbi": [
     "txdbmaker"
   ],
-  "OutSplice": [],
   "PAA": [
     "sva"
   ],
@@ -768,7 +759,6 @@
   "RCSL": [],
   "REMP": [
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "RESOLVE": [
@@ -786,7 +776,6 @@
     "recount",
     "derfinder",
     "GEOquery",
-    "bumphunter",
     "GenomicFiles",
     "VariantAnnotation"
   ],
@@ -867,18 +856,15 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "Rmmquant": [],
   "RnBeads": [
     "methylumi",
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "RnaSeqSampleSize": [
     "recount",
     "derfinder",
     "GEOquery",
-    "bumphunter",
     "GenomicFiles",
     "VariantAnnotation"
   ],
@@ -1139,7 +1125,6 @@
     "lumi",
     "methylumi",
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "arrayQualityMetrics": [
@@ -1170,7 +1155,6 @@
     "minfi",
     "methylumi",
     "GEOquery",
-    "bumphunter",
     "lumi"
   ],
   "bioCancer": [
@@ -1211,7 +1195,6 @@
     "clusterProfiler"
   ],
   "bsseq": [],
-  "bumphunter": [],
   "cBioPortalData": [
     "RTCGAToolbox",
     "TCGAutils"
@@ -1233,7 +1216,6 @@
     "TCGAutils",
     "Category"
   ],
-  "casper": [],
   "categoryCompare": [
     "Category",
     "GOstats"
@@ -1298,9 +1280,7 @@
   ],
   "clusterProfiler": [],
   "clusterSeq": [],
-  "coMethDMR": [
-    "bumphunter"
-  ],
+  "coMethDMR": [],
   "codelink": [],
   "comapr": [
     "Gviz",
@@ -1326,7 +1306,6 @@
   ],
   "conumee": [
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "convert": [],
@@ -1415,7 +1394,6 @@
   ],
   "deconvR": [
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "deepSNV": [
@@ -1426,14 +1404,12 @@
     "ensembldb"
   ],
   "derfinder": [
-    "bumphunter",
     "GenomicFiles",
     "VariantAnnotation"
   ],
   "derfinderPlot": [
     "derfinder",
     "ggbio",
-    "bumphunter",
     "GenomicFiles",
     "biovizBase",
     "VariantAnnotation",
@@ -1471,7 +1447,6 @@
   "epiNEM": [],
   "epimutacions": [
     "minfi",
-    "bumphunter",
     "Gviz",
     "ensembldb",
     "biovizBase",
@@ -1488,7 +1463,6 @@
   ],
   "epivizr": [
     "epivizrData",
-    "bumphunter",
     "OrganismDbi",
     "ensembldb",
     "txdbmaker"
@@ -1507,7 +1481,6 @@
   "epivizrStandalone": [
     "epivizr",
     "epivizrData",
-    "bumphunter",
     "OrganismDbi",
     "ensembldb",
     "txdbmaker"
@@ -1537,7 +1510,6 @@
     "lumi",
     "methylumi",
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "flagme": [
@@ -1547,14 +1519,12 @@
     "MsExperiment"
   ],
   "flowGate": [],
-  "flowcatchR": [],
   "frma": [
     "oligo",
     "oligoClasses"
   ],
   "funtooNorm": [
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "gINTomics": [
@@ -1590,7 +1560,6 @@
   "gmapR": [
     "VariantAnnotation"
   ],
-  "gmoviz": [],
   "goSorensen": [
     "clusterProfiler"
   ],
@@ -1615,14 +1584,12 @@
     "lumi",
     "methylumi",
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "iNETgrate": [
     "Pigengene",
     "minfi",
     "OrganismDbi",
-    "bumphunter",
     "GEOquery",
     "clusterProfiler",
     "txdbmaker"
@@ -1709,7 +1676,6 @@
   "lumi": [
     "methylumi",
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "lute": [],
@@ -1763,7 +1729,6 @@
   "methylCC": [
     "minfi",
     "bsseq",
-    "bumphunter",
     "GEOquery"
   ],
   "methylGSA": [
@@ -1771,7 +1736,6 @@
     "missMethyl",
     "minfi",
     "methylumi",
-    "bumphunter",
     "GEOquery"
   ],
   "methylInheritance": [],
@@ -1788,7 +1752,6 @@
   "methylclock": [
     "minfi",
     "ExperimentHubData",
-    "bumphunter",
     "GEOquery",
     "AnnotationHubData",
     "OrganismDbi",
@@ -1796,7 +1759,6 @@
   ],
   "methylumi": [
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "miRLAB": [
@@ -1827,13 +1789,11 @@
     "oligoClasses"
   ],
   "minfi": [
-    "bumphunter",
     "GEOquery"
   ],
   "missMethyl": [
     "methylumi",
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "mitoClone2": [
@@ -1961,7 +1921,6 @@
   "pipeComp": [],
   "plotgardener": [],
   "plyinteractions": [],
-  "podkat": [],
   "poem": [
     "SpatialExperiment"
   ],
@@ -1991,7 +1950,6 @@
     "recount",
     "derfinder",
     "GEOquery",
-    "bumphunter",
     "GenomicFiles",
     "VariantAnnotation"
   ],
@@ -2014,7 +1972,6 @@
   ],
   "quantro": [
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "rCGH": [],
@@ -2023,13 +1980,11 @@
   "recount": [
     "derfinder",
     "GEOquery",
-    "bumphunter",
     "GenomicFiles",
     "VariantAnnotation"
   ],
   "recountmethylation": [
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "recoup": [
@@ -2037,7 +1992,6 @@
   ],
   "regionReport": [
     "derfinder",
-    "bumphunter",
     "GenomicFiles",
     "VariantAnnotation"
   ],
@@ -2059,9 +2013,7 @@
     "RUVSeq",
     "txdbmaker"
   ],
-  "rnaEditr": [
-    "bumphunter"
-  ],
+  "rnaEditr": [],
   "ropls": [],
   "rqt": [
     "ropls"
@@ -2104,7 +2056,6 @@
   "scTreeViz": [
     "epivizr",
     "epivizrData",
-    "bumphunter",
     "OrganismDbi",
     "ensembldb",
     "txdbmaker"
@@ -2147,12 +2098,10 @@
   ],
   "shinyMethyl": [
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "shinyepico": [
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "signatureSearch": [
@@ -2178,7 +2127,6 @@
     "methylumi",
     "wateRmelon",
     "minfi",
-    "bumphunter",
     "GEOquery",
     "lumi"
   ],
@@ -2340,7 +2288,6 @@
     "methylumi",
     "lumi",
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "wavClusteR": [],
@@ -2356,7 +2303,6 @@
   "yarn": [
     "quantro",
     "minfi",
-    "bumphunter",
     "GEOquery"
   ],
   "zellkonverter": [],

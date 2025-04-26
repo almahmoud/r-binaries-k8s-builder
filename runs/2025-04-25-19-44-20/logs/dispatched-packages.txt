@@ -1695,3 +1695,5 @@ CexoR
 fCCAC
 IMAS
 selectKSigs
+coMethDMR
+rnaEditr
