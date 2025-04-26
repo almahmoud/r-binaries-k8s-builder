@@ -24,7 +24,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "AMARETTO": [],
   "APAlyzer": [
     "VariantAnnotation"
   ],
@@ -55,7 +54,6 @@
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
-    "gcrma",
     "oligoClasses",
     "ReportingTools",
     "Glimma",
@@ -112,7 +110,6 @@
     "ensembldb"
   ],
   "BUSseq": [],
-  "BaalChIP": [],
   "BadRegionFinder": [
     "VariantAnnotation"
   ],
@@ -373,12 +370,10 @@
     "SpatialExperiment",
     "scuttle"
   ],
-  "DEWSeq": [],
   "DEXSeq": [
     "geneplotter",
     "genefilter"
   ],
-  "DEsubs": [],
   "DMRcate": [
     "bsseq",
     "minfi",
@@ -709,7 +704,6 @@
     "sva",
     "genefilter"
   ],
-  "Lheuristic": [],
   "LimROTS": [],
   "LinkHD": [],
   "LoomExperiment": [],
@@ -1469,15 +1463,10 @@
   "a4Base": [
     "genefilter"
   ],
-  "affyILM": [
-    "gcrma"
-  ],
-  "affyPLM": [
-    "gcrma"
-  ],
+  "affyILM": [],
+  "affyPLM": [],
   "affycoretools": [
     "GOstats",
-    "gcrma",
     "oligoClasses",
     "ReportingTools",
     "Glimma",
@@ -1492,8 +1481,7 @@
     "txdbmaker"
   ],
   "affylmGUI": [
-    "affyPLM",
-    "gcrma"
+    "affyPLM"
   ],
   "aggregateBioVar": [],
   "airpart": [
@@ -1551,8 +1539,7 @@
   "arrayQualityMetrics": [
     "affyPLM",
     "beadarray",
-    "genefilter",
-    "gcrma"
+    "genefilter"
   ],
   "artMS": [
     "MSstats"
@@ -2116,7 +2103,6 @@
   ],
   "gcapc": [],
   "gcatest": [],
-  "gcrma": [],
   "geneAttribution": [],
   "genefilter": [],
   "geneplotter": [],
@@ -2305,9 +2291,7 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "maPredictDSC": [
-    "gcrma"
-  ],
+  "maPredictDSC": [],
   "maaslin3": [
     "TreeSummarizedExperiment"
   ],
@@ -2323,9 +2307,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "maskBAD": [
-    "gcrma"
-  ],
+  "maskBAD": [],
   "mastR": [
     "GSEABase"
   ],
@@ -2446,8 +2428,7 @@
   "mimager": [
     "affyPLM",
     "oligo",
-    "oligoClasses",
-    "gcrma"
+    "oligoClasses"
   ],
   "minfi": [
     "bumphunter",
@@ -2578,7 +2559,6 @@
     "genefilter"
   ],
   "omicplotR": [],
-  "omicsPrint": [],
   "oppar": [
     "GSEABase",
     "GSVA",
@@ -2704,7 +2684,6 @@
     "oligo",
     "oligoClasses"
   ],
-  "pvca": [],
   "qPLEXanalyzer": [
     "MSnbase",
     "PSMatch"
@@ -2854,7 +2833,6 @@
     "DropletUtils",
     "scuttle"
   ],
-  "scQTLtools": [],
   "scRNAseqApp": [
     "slingshot",
     "TrajectoryUtils"
@@ -3201,9 +3179,7 @@
     "GEOquery"
   ],
   "wavClusteR": [],
-  "webbioc": [
-    "gcrma"
-  ],
+  "webbioc": [],
   "xCell2": [
     "singscore",
     "GSEABase"

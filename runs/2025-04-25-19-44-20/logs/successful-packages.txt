@@ -1233,3 +1233,12 @@ seqsetvis
 sevenC
 systemPipeTools
 unifiedWMWqPCR
+AMARETTO
+BaalChIP
+DEsubs
+DEWSeq
+gcrma
+Lheuristic
+omicsPrint
+pvca
+scQTLtools
