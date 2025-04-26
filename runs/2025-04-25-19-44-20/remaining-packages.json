@@ -318,7 +318,6 @@
     "PSMatch"
   ],
   "ClusterFoldSimilarity": [],
-  "CoGAPS": [],
   "CoSIA": [],
   "Cogito": [],
   "CoreGx": [],
@@ -706,7 +705,6 @@
     "scater"
   ],
   "MEDIPS": [],
-  "MGFM": [],
   "MGFR": [],
   "MGnifyR": [
     "mia",
@@ -775,7 +773,6 @@
   "MatrixRider": [
     "TFBSTools"
   ],
-  "MetaCyto": [],
   "MetaNeighbor": [],
   "MetaPhOR": [
     "clusterProfiler"
@@ -897,7 +894,6 @@
     "sva",
     "genefilter"
   ],
-  "PREDA": [],
   "PROMISE": [
     "GSEABase"
   ],
@@ -1279,7 +1275,6 @@
     "genefilter"
   ],
   "TPP": [],
-  "TREG": [],
   "TRESS": [],
   "TSCAN": [
     "TrajectoryUtils"
@@ -1474,7 +1469,6 @@
   "batchelor": [],
   "bayNorm": [],
   "beachmat.tiledb": [],
-  "beer": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -2501,7 +2495,6 @@
     "rGREAT",
     "chipseq"
   ],
-  "projectR": [],
   "protGear": [
     "genefilter"
   ],
@@ -2600,7 +2593,6 @@
   "rrvgo": [],
   "sSNAPPY": [],
   "sampleClassifier": [
-    "MGFM",
     "MGFR"
   ],
   "saseR": [
@@ -2694,7 +2686,6 @@
   ],
   "scp": [],
   "scran": [],
-  "scrapper": [],
   "scruff": [
     "txdbmaker",
     "ggbio",
@@ -2936,7 +2927,6 @@
   "tricycle": [
     "scater"
   ],
-  "trio": [],
   "txcutr": [
     "txdbmaker"
   ],

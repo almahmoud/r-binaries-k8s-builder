@@ -1283,3 +1283,12 @@ fishpond
 scDataviz
 SCnorm
 TreeSummarizedExperiment
+beer
+CoGAPS
+MetaCyto
+MGFM
+PREDA
+projectR
+scrapper
+TREG
+trio
