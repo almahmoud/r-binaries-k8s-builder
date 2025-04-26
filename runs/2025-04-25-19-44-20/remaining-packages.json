@@ -561,7 +561,6 @@
     "genefilter"
   ],
   "GreyListChIP": [],
-  "Guitar": [],
   "Gviz": [
     "ensembldb",
     "biovizBase",
@@ -1006,7 +1005,6 @@
   "RUVSeq": [
     "EDASeq"
   ],
-  "RadioGx": [],
   "RareVariantVis": [
     "VariantAnnotation"
   ],
@@ -1172,9 +1170,7 @@
   "SpliceWiz": [
     "genefilter"
   ],
-  "SplicingFactory": [],
   "SplicingGraphs": [],
-  "SplineDV": [],
   "SpotClean": [
     "SpatialExperiment"
   ],
@@ -1232,7 +1228,6 @@
     "biovizBase"
   ],
   "TissueEnrich": [],
-  "ToxicoGx": [],
   "TrajectoryUtils": [],
   "TurboNorm": [
     "convert"
@@ -1439,7 +1434,6 @@
     "DEXSeq",
     "genefilter"
   ],
-  "blima": [],
   "bnbc": [
     "sva",
     "genefilter"
@@ -1694,9 +1688,7 @@
     "motifStack",
     "TFBSTools"
   ],
-  "dandelionR": [
-    "destiny"
-  ],
+  "dandelionR": [],
   "dar": [
     "mia",
     "phyloseq",
@@ -1744,7 +1736,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "destiny": [],
   "diffHic": [],
   "diffUTR": [
     "DEXSeq",
