@@ -593,7 +593,6 @@
     "MultiAssayExperiment",
     "piano"
   ],
-  "Cormotif": [],
   "CoverageView": [
     "rtracklayer",
     "GenomicAlignments"
@@ -656,7 +655,6 @@
     "genefilter",
     "annotate"
   ],
-  "DEqMS": [],
   "DEsubs": [
     "edgeR",
     "DESeq2"
@@ -1461,7 +1459,6 @@
     "Maaslin2",
     "edgeR"
   ],
-  "MOFA2": [],
   "MOMA": [
     "MultiAssayExperiment"
   ],
@@ -1827,7 +1824,6 @@
     "edgeR",
     "MSnbase",
     "POMA",
-    "DEqMS",
     "PSMatch",
     "DESeq2",
     "sva",
@@ -1989,7 +1985,6 @@
     "coseq",
     "clusterProfiler",
     "edgeR",
-    "MOFA2",
     "DESeq2",
     "HTSFilter"
   ],
@@ -2217,7 +2212,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "Rtpca": [],
   "Rvisdiff": [
     "edgeR"
   ],
@@ -2347,7 +2341,6 @@
     "annotate",
     "genefilter"
   ],
-  "SigFuge": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
@@ -4173,7 +4166,6 @@
   "lemur": [
     "glmGamPoi"
   ],
-  "levi": [],
   "limmaGUI": [],
   "lineagespot": [
     "VariantAnnotation",
@@ -4719,7 +4711,6 @@
   "omicsPrint": [
     "MultiAssayExperiment"
   ],
-  "oposSOM": [],
   "oppar": [
     "GSEABase",
     "GSVA",
@@ -4827,7 +4818,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "plier": [],
   "plotgardener": [
     "plyranges",
     "rtracklayer",
@@ -5333,7 +5323,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "seq2pathway": [],
   "seqArchRplus": [
     "BSgenome",
     "ChIPseeker",
@@ -5612,7 +5601,6 @@
     "GenomicAlignments",
     "BSgenome"
   ],
-  "switchde": [],
   "syntenet": [
     "rtracklayer",
     "GenomicAlignments"

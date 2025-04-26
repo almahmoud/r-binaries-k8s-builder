@@ -1036,3 +1036,13 @@ retrofit
 RTN
 RTopper
 TCGAbiolinks
+Cormotif
+DEqMS
+levi
+MOFA2
+oposSOM
+plier
+Rtpca
+seq2pathway
+SigFuge
+switchde
