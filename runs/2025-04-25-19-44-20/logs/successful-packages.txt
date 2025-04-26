@@ -985,3 +985,11 @@ omicade4
 PolySTest
 roastgsa
 ROCpAI
+alabaster.ranges
+coRdon
+ExiMiR
+GRmetrics
+LBE
+Linnorm
+MWASTools
+SingleCellExperiment
