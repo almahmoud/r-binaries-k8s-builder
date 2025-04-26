@@ -27,8 +27,7 @@
     "VariantAnnotation"
   ],
   "ASICS": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
   "ASSIGN": [
     "sva",
@@ -55,7 +54,6 @@
     "GOstats",
     "oligoClasses",
     "ReportingTools",
-    "Glimma",
     "Category",
     "GSEABase",
     "ggbio",
@@ -604,7 +602,6 @@
     "txdbmaker"
   ],
   "GeoTcgaData": [],
-  "Glimma": [],
   "GloScope": [],
   "GlobalAncova": [
     "globaltest",
@@ -710,7 +707,6 @@
     "genefilter"
   ],
   "MEAL": [
-    "MultiDataSet",
     "minfi",
     "Gviz",
     "missMethyl",
@@ -783,16 +779,10 @@
   "MSnbase": [
     "PSMatch"
   ],
-  "MSstats": [],
-  "MSstatsBig": [
-    "MSstats"
-  ],
-  "MSstatsBioNet": [
-    "MSstats"
-  ],
+  "MSstatsBig": [],
+  "MSstatsBioNet": [],
   "MSstatsPTM": [
-    "MSstatsTMT",
-    "MSstats"
+    "MSstatsTMT"
   ],
   "MSstatsQC": [
     "MSnbase",
@@ -804,13 +794,10 @@
     "PSMatch"
   ],
   "MSstatsShiny": [
-    "MSstats",
     "MSstatsTMT",
     "MSstatsPTM"
   ],
-  "MSstatsTMT": [
-    "MSstats"
-  ],
+  "MSstatsTMT": [],
   "Macarron": [],
   "MatrixQCvis": [
     "sva",
@@ -880,10 +867,8 @@
     "MsExperiment"
   ],
   "MultiBaC": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
-  "MultiDataSet": [],
   "MungeSumstats": [
     "VariantAnnotation"
   ],
@@ -1176,10 +1161,7 @@
     "oligoClasses",
     "genefilter"
   ],
-  "SCArray": [],
-  "SCArray.sat": [
-    "SCArray"
-  ],
+  "SCArray.sat": [],
   "SCOPE": [],
   "SCnorm": [],
   "SEraster": [
@@ -1445,7 +1427,6 @@
     "GOstats",
     "oligoClasses",
     "ReportingTools",
-    "Glimma",
     "Category",
     "GSEABase",
     "ggbio",
@@ -1511,15 +1492,12 @@
     "bumphunter",
     "GEOquery"
   ],
-  "arrayQuality": [],
   "arrayQualityMetrics": [
     "affyPLM",
     "beadarray",
     "genefilter"
   ],
-  "artMS": [
-    "MSstats"
-  ],
+  "artMS": [],
   "atSNP": [
     "motifStack",
     "TFBSTools"
@@ -1577,7 +1555,6 @@
     "VariantAnnotation"
   ],
   "biosigner": [
-    "MultiDataSet",
     "ropls"
   ],
   "biovizBase": [
@@ -1598,7 +1575,6 @@
   ],
   "bnem": [
     "epiNEM",
-    "mnem",
     "sva",
     "genefilter"
   ],
@@ -1954,9 +1930,7 @@
   ],
   "enrichViewNet": [],
   "ensembldb": [],
-  "epiNEM": [
-    "mnem"
-  ],
+  "epiNEM": [],
   "epigenomix": [
     "beadarray"
   ],
@@ -2227,8 +2201,7 @@
     "VariantAnnotation"
   ],
   "lipidr": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
   "lisaClust": [
     "spicyR",
@@ -2416,7 +2389,6 @@
     "deepSNV",
     "VariantAnnotation"
   ],
-  "mnem": [],
   "mobileRNA": [],
   "mogsa": [
     "genefilter",
@@ -2487,7 +2459,6 @@
   ],
   "nearBynding": [],
   "nempi": [
-    "mnem",
     "epiNEM"
   ],
   "netSmooth": [
@@ -2498,7 +2469,6 @@
     "scuttle",
     "genefilter"
   ],
-  "nnNorm": [],
   "nnSVG": [
     "SpatialExperiment"
   ],
@@ -2524,7 +2494,6 @@
   ],
   "omicRexposome": [
     "sva",
-    "MultiDataSet",
     "genefilter"
   ],
   "omicplotR": [],
@@ -2588,7 +2557,6 @@
     "genefilter"
   ],
   "phenomis": [
-    "MultiDataSet",
     "ropls"
   ],
   "phyloseq": [],
@@ -2724,12 +2692,9 @@
   "rnaEditr": [
     "bumphunter"
   ],
-  "ropls": [
-    "MultiDataSet"
-  ],
+  "ropls": [],
   "rqt": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
   "rrvgo": [],
   "sSNAPPY": [],
@@ -2787,7 +2752,6 @@
     "scran",
     "scuttle"
   ],
-  "scHOT": [],
   "scMET": [],
   "scMerge": [
     "M3Drop",
@@ -3017,7 +2981,6 @@
     "RUVSeq",
     "EDASeq"
   ],
-  "stepNorm": [],
   "strandCheckR": [],
   "surfaltr": [],
   "survClust": [],

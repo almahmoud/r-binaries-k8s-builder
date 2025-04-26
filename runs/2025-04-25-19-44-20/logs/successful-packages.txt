@@ -1257,3 +1257,12 @@ RBM
 TENxIO
 tRNA
 VDJdive
+arrayQuality
+Glimma
+mnem
+MSstats
+MultiDataSet
+nnNorm
+SCArray
+scHOT
+stepNorm
