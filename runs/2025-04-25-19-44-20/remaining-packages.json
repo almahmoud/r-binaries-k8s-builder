@@ -365,7 +365,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "DEFormats": [],
   "DEGreport": [],
   "DELocal": [],
   "DEP": [
@@ -1978,9 +1977,7 @@
     "sva",
     "genefilter"
   ],
-  "doubletrouble": [
-    "syntenet"
-  ],
+  "doubletrouble": [],
   "dreamlet": [
     "GSEABase",
     "zenith",
@@ -2125,7 +2122,6 @@
   "gcatest": [],
   "gcrma": [],
   "geneAttribution": [],
-  "geneXtendeR": [],
   "genefilter": [],
   "geneplotter": [],
   "genomation": [],
@@ -2454,7 +2450,6 @@
   "microbiomeDASim": [
     "phyloseq"
   ],
-  "midasHLA": [],
   "mimager": [
     "affyPLM",
     "oligo",
@@ -2764,7 +2759,6 @@
   ],
   "regionReport": [
     "derfinder",
-    "DEFormats",
     "bumphunter",
     "GenomicFiles",
     "VariantAnnotation"
@@ -3103,7 +3097,6 @@
     "StructuralVariantAnnotation",
     "VariantAnnotation"
   ],
-  "syntenet": [],
   "systemPipeR": [],
   "systemPipeTools": [],
   "tLOH": [

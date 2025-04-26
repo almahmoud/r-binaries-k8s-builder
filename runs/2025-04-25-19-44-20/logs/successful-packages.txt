@@ -1220,3 +1220,7 @@ r3Cseq
 recount3
 rifi
 rifiComparative
+DEFormats
+geneXtendeR
+midasHLA
+syntenet
