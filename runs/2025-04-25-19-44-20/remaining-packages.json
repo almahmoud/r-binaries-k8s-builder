@@ -4,7 +4,6 @@
   ],
   "ASSIGN": [],
   "ASURAT": [],
-  "ASpli": [],
   "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
@@ -74,7 +73,6 @@
     "qsmooth"
   ],
   "CluMSID": [],
-  "CytoMDS": [],
   "CytoPipelineGUI": [],
   "DAMEfinder": [],
   "DAPAR": [],
@@ -128,7 +126,6 @@
   "GenomicOZone": [
     "ggbio"
   ],
-  "GenomicPlot": [],
   "GlobalAncova": [
     "globaltest"
   ],
@@ -144,7 +141,6 @@
     "CAMERA"
   ],
   "ITALICS": [],
-  "InPAS": [],
   "IsoformSwitchAnalyzeR": [],
   "KnowSeq": [],
   "MAIT": [
@@ -268,7 +264,6 @@
     "escheR"
   ],
   "Statial": [],
-  "SurfR": [],
   "TBSignatureProfiler": [
     "ASSIGN",
     "GSVA"
@@ -601,9 +596,7 @@
   "regutools": [],
   "riboSeqR": [],
   "ribosomeProfilingQC": [],
-  "saseR": [
-    "ASpli"
-  ],
+  "saseR": [],
   "scClassify": [],
   "scDD": [],
   "scDblFinder": [],
