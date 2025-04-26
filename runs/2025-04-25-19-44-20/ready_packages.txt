@@ -1,7 +1,0 @@
-BUSpaRse
-EpiCompare
-RAIDS
-biovizBase
-chevreulProcess
-demuxSNP
-drugTargetInteractions

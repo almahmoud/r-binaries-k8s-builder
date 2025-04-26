@@ -1448,3 +1448,10 @@ Doscheda
 ensembldb
 MetaNeighbor
 scAnnotatR
+alabaster.sce
+CAEN
+ggsc
+pogos
+rnaEditr
+TENET
+xcore
