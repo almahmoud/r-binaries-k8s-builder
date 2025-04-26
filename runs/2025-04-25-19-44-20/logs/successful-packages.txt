@@ -1082,3 +1082,9 @@ PhIPData
 Rvisdiff
 scry
 STATegRa
+DelayedTensor
+dinoR
+erccdashboard
+Maaslin2
+methylMnM
+scde

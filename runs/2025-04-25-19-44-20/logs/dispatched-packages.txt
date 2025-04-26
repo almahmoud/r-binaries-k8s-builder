@@ -1310,3 +1310,6 @@ idiogram
 riboSeqR
 tigre
 uSORT
+MMUPHin
+Macarron
+SIMD
