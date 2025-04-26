@@ -1673,3 +1673,10 @@ scmap
 TSCAN
 UPDhmm
 VarCon
+BubbleTree
+deepSNV
+methylInheritance
+MsExperiment
+phenomis
+spiky
+ssviz

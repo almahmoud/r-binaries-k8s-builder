@@ -54,7 +54,6 @@
     "sva"
   ],
   "BiocHubsShiny": [],
-  "BubbleTree": [],
   "BulkSignalR": [
     "SpatialExperiment"
   ],
@@ -75,8 +74,7 @@
   ],
   "CAMERA": [
     "xcms",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "CARDspa": [
     "SpatialExperiment"
@@ -249,8 +247,7 @@
   "IPO": [
     "xcms",
     "CAMERA",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "ITALICS": [
     "oligo"
@@ -268,8 +265,7 @@
   "MAIT": [
     "CAMERA",
     "xcms",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "MBECS": [
     "sva"
@@ -333,10 +329,7 @@
   ],
   "Moonlight2R": [],
   "MoonlightR": [],
-  "MsExperiment": [],
-  "MsQuality": [
-    "MsExperiment"
-  ],
+  "MsQuality": [],
   "MungeSumstats": [],
   "NanoMethViz": [],
   "NormalyzerDE": [],
@@ -677,8 +670,7 @@
   "clipper": [],
   "cliqueMS": [
     "xcms",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "clustSIGNAL": [
     "SpatialExperiment"
@@ -705,8 +697,7 @@
   ],
   "cosmiq": [
     "xcms",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "countsimQC": [],
   "covRNA": [],
@@ -746,7 +737,6 @@
   "deconvR": [
     "minfi"
   ],
-  "deepSNV": [],
   "derfinder": [
     "GenomicFiles"
   ],
@@ -817,8 +807,7 @@
   "flagme": [
     "xcms",
     "CAMERA",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "flowGate": [],
   "frma": [
@@ -913,8 +902,7 @@
   "metaMS": [
     "CAMERA",
     "xcms",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "metaseqR2": [
     "DSS"
@@ -929,7 +917,6 @@
     "minfi",
     "methylumi"
   ],
-  "methylInheritance": [],
   "methylPipe": [
     "Gviz"
   ],
@@ -969,9 +956,7 @@
     "methylumi",
     "minfi"
   ],
-  "mitoClone2": [
-    "deepSNV"
-  ],
+  "mitoClone2": [],
   "monaLisa": [],
   "motifStack": [],
   "motifbreakR": [
@@ -995,8 +980,7 @@
   "myvariant": [],
   "ncGTW": [
     "xcms",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "nempi": [
     "epiNEM"
@@ -1055,7 +1039,6 @@
   "peco": [],
   "phantasus": [],
   "phenoTest": [],
-  "phenomis": [],
   "plyinteractions": [],
   "poem": [
     "SpatialExperiment"
@@ -1213,20 +1196,17 @@
     "simpleSeg",
     "cytomapper"
   ],
-  "spiky": [],
   "spoon": [
     "SpatialExperiment",
     "nnSVG"
   ],
   "squallms": [
     "xcms",
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "srnadiff": [
     "Gviz"
   ],
-  "ssviz": [],
   "stJoincount": [
     "SpatialExperiment"
   ],
@@ -1280,8 +1260,7 @@
     "minfi"
   ],
   "xcms": [
-    "MSnbase",
-    "MsExperiment"
+    "MSnbase"
   ],
   "xenLite": [
     "SpatialExperiment"
