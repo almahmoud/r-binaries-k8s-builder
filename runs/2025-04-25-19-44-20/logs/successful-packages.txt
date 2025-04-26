@@ -1526,3 +1526,10 @@ drugTargetInteractions
 ExploreModelMatrix
 PLSDAbatch
 TCGAutils
+CCPROMISE
+CSSQ
+dandelionR
+EmpiricalBrownsMethod
+gcapc
+scRepertoire
+transcriptR

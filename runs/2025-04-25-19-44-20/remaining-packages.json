@@ -99,7 +99,6 @@
   "CATALYST": [],
   "CBNplot": [],
   "CCAFE": [],
-  "CCPROMISE": [],
   "CEMiTool": [],
   "CGHnormaliter": [],
   "CGHregions": [],
@@ -111,7 +110,6 @@
     "bsseq"
   ],
   "CRISPRball": [],
-  "CSSQ": [],
   "CTSV": [
     "SpatialExperiment"
   ],
@@ -220,9 +218,7 @@
   "DuplexDiscovereR": [
     "Gviz"
   ],
-  "EBSEA": [
-    "EmpiricalBrownsMethod"
-  ],
+  "EBSEA": [],
   "EGAD": [
     "GEOquery"
   ],
@@ -235,7 +231,6 @@
     "GEOquery"
   ],
   "EasyCellType": [],
-  "EmpiricalBrownsMethod": [],
   "EnrichDO": [],
   "EpiCompare": [],
   "EpiTxDb": [
@@ -938,7 +933,6 @@
   "dagLogo": [
     "motifStack"
   ],
-  "dandelionR": [],
   "dar": [
     "mia"
   ],
@@ -1047,7 +1041,6 @@
     "GEOquery"
   ],
   "gINTomics": [],
-  "gcapc": [],
   "gcatest": [],
   "geomeTriD": [
     "trackViewer",
@@ -1446,7 +1439,6 @@
   "scRNAseqApp": [
     "slingshot"
   ],
-  "scRepertoire": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData",
@@ -1593,7 +1585,6 @@
   "tradeSeq": [
     "slingshot"
   ],
-  "transcriptR": [],
   "transformGamPoi": [
     "glmGamPoi"
   ],
