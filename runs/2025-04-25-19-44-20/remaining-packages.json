@@ -744,7 +744,6 @@
   ],
   "GARS": [
     "DaMiRseq",
-    "MLSeq",
     "EDASeq",
     "sva",
     "GenomicFeatures",
@@ -1069,13 +1068,11 @@
   "MLInterfaces": [
     "genefilter"
   ],
-  "MLSeq": [],
   "MMDiff2": [
     "BSgenome",
     "rtracklayer"
   ],
   "MMUPHin": [],
-  "MOMA": [],
   "MOSClip": [
     "qpgraph",
     "GenomicFeatures",
@@ -1239,7 +1236,6 @@
   ],
   "MultiDataSet": [],
   "MultiRNAflow": [],
-  "MultimodalExperiment": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",
@@ -1800,7 +1796,6 @@
     "SpatialExperiment",
     "scuttle"
   ],
-  "SpectralTAD": [],
   "SpliceWiz": [
     "BSgenome",
     "genefilter",
@@ -1835,7 +1830,6 @@
     "SPsimSeq",
     "phyloseq"
   ],
-  "TADCompare": [],
   "TAPseq": [
     "BSgenome",
     "GenomicFeatures",

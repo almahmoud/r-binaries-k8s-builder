@@ -1151,3 +1151,8 @@ PICB
 ramwas
 ShortRead
 TCseq
+MLSeq
+MOMA
+MultimodalExperiment
+SpectralTAD
+TADCompare
