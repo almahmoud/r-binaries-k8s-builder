@@ -765,3 +765,13 @@ LiquidAssociation
 MeSHDbi
 parglms
 topconfects
+annaffy
+BiocSet
+biomaRt
+biomformat
+EnhancedVolcano
+HiCBricks
+MODA
+rSWeeP
+shiny.gosling
+UniProt.ws
