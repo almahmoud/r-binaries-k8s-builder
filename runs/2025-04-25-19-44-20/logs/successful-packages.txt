@@ -1387,3 +1387,6 @@ PIUMA
 sccomp
 schex
 vsclust
+chipseq
+MMDiff2
+PSMatch

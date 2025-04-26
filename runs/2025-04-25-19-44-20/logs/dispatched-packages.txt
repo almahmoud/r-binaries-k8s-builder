@@ -1680,3 +1680,6 @@ reconsi
 zitools
 coseq
 scTGIF
+MSnbase
+soGGi
+transcriptR

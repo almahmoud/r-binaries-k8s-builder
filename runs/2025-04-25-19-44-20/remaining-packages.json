@@ -147,8 +147,7 @@
   "CAMERA": [
     "xcms",
     "MSnbase",
-    "MsExperiment",
-    "PSMatch"
+    "MsExperiment"
   ],
   "CARDspa": [
     "SpatialExperiment"
@@ -223,7 +222,6 @@
   ],
   "ChIPQC": [
     "DiffBind",
-    "chipseq",
     "systemPipeR"
   ],
   "ChIPXpress": [
@@ -252,8 +250,7 @@
     "sva"
   ],
   "CluMSID": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "ClusterFoldSimilarity": [],
   "CoSIA": [],
@@ -271,12 +268,10 @@
     "bumphunter"
   ],
   "DAPAR": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "DEP": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "DESpace": [
     "SpatialExperiment"
@@ -518,8 +513,7 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsExperiment",
-    "PSMatch"
+    "MsExperiment"
   ],
   "ISLET": [],
   "ITALICS": [
@@ -552,8 +546,7 @@
     "CAMERA",
     "xcms",
     "MSnbase",
-    "MsExperiment",
-    "PSMatch"
+    "MsExperiment"
   ],
   "MBECS": [
     "sva"
@@ -593,7 +586,6 @@
     "clusterProfiler"
   ],
   "MLInterfaces": [],
-  "MMDiff2": [],
   "MOSClip": [
     "qpgraph"
   ],
@@ -605,25 +597,20 @@
   "MSnID": [
     "MSnbase",
     "msmsTests",
-    "msmsEDA",
-    "PSMatch"
+    "msmsEDA"
   ],
-  "MSnbase": [
-    "PSMatch"
-  ],
+  "MSnbase": [],
   "MSstatsBig": [],
   "MSstatsBioNet": [],
   "MSstatsPTM": [
     "MSstatsTMT"
   ],
   "MSstatsQC": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "MSstatsQCgui": [
     "MSstatsQC",
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "MSstatsShiny": [
     "MSstatsTMT",
@@ -741,13 +728,11 @@
     "NormalyzerDE",
     "MSnbase",
     "POMA",
-    "PSMatch",
     "sva"
   ],
   "PROPS": [
     "sva"
   ],
-  "PSMatch": [],
   "PanomiR": [
     "clusterProfiler"
   ],
@@ -756,13 +741,11 @@
     "clusterProfiler"
   ],
   "PrInCE": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "Prostar": [
     "DAPAR",
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "ProteoDisco": [
     "VariantAnnotation"
@@ -820,8 +803,7 @@
   ],
   "RJMCMCNucleosomes": [],
   "RMassBank": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "RNAAgeCalc": [
     "recount",
@@ -1211,7 +1193,6 @@
   "bandle": [
     "MSnbase",
     "pRoloc",
-    "PSMatch",
     "MLInterfaces"
   ],
   "basecallQC": [],
@@ -1324,7 +1305,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "chipseq": [],
   "chromVAR": [
     "TFBSTools"
   ],
@@ -1342,7 +1322,6 @@
   "cliqueMS": [
     "xcms",
     "MSnbase",
-    "PSMatch",
     "MsExperiment"
   ],
   "clustSIGNAL": [
@@ -1392,8 +1371,7 @@
   "cosmiq": [
     "xcms",
     "MSnbase",
-    "MsExperiment",
-    "PSMatch"
+    "MsExperiment"
   ],
   "countsimQC": [],
   "covRNA": [],
@@ -1616,8 +1594,7 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsExperiment",
-    "PSMatch"
+    "MsExperiment"
   ],
   "flowGate": [],
   "flowcatchR": [],
@@ -1824,8 +1801,7 @@
     "CAMERA",
     "xcms",
     "MSnbase",
-    "MsExperiment",
-    "PSMatch"
+    "MsExperiment"
   ],
   "metaseqR2": [
     "DSS",
@@ -1947,13 +1923,11 @@
     "txdbmaker"
   ],
   "msmsEDA": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "msmsTests": [
     "MSnbase",
-    "msmsEDA",
-    "PSMatch"
+    "msmsEDA"
   ],
   "mspms": [],
   "msqrob2": [],
@@ -1969,8 +1943,7 @@
   "ncGTW": [
     "xcms",
     "MSnbase",
-    "MsExperiment",
-    "PSMatch"
+    "MsExperiment"
   ],
   "nearBynding": [],
   "nempi": [
@@ -1996,8 +1969,7 @@
   ],
   "oligoClasses": [],
   "omXplore": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "omicRexposome": [
     "sva"
@@ -2009,13 +1981,11 @@
   ],
   "pRoloc": [
     "MSnbase",
-    "MLInterfaces",
-    "PSMatch"
+    "MLInterfaces"
   ],
   "pRolocGUI": [
     "pRoloc",
     "MSnbase",
-    "PSMatch",
     "MLInterfaces"
   ],
   "pageRank": [
@@ -2038,8 +2008,7 @@
     "oligoClasses"
   ],
   "peakPantheR": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "peco": [],
   "periodicDNA": [],
@@ -2083,8 +2052,7 @@
   "profileplyr": [
     "soGGi",
     "ChIPseeker",
-    "rGREAT",
-    "chipseq"
+    "rGREAT"
   ],
   "protGear": [],
   "psichomics": [
@@ -2096,16 +2064,14 @@
     "VariantAnnotation"
   ],
   "ptairMS": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "puma": [
     "oligo",
     "oligoClasses"
   ],
   "qPLEXanalyzer": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "qpgraph": [],
   "qsea": [],
@@ -2298,9 +2264,7 @@
   "smoppix": [
     "SpatialExperiment"
   ],
-  "soGGi": [
-    "chipseq"
-  ],
+  "soGGi": [],
   "sosta": [
     "SpatialExperiment"
   ],
@@ -2346,8 +2310,7 @@
   "squallms": [
     "xcms",
     "MSnbase",
-    "MsExperiment",
-    "PSMatch"
+    "MsExperiment"
   ],
   "srnadiff": [
     "Gviz",
@@ -2400,8 +2363,7 @@
   "tigre": [],
   "tilingArray": [],
   "topdownr": [
-    "MSnbase",
-    "PSMatch"
+    "MSnbase"
   ],
   "tpSVG": [
     "SpatialExperiment"
@@ -2416,9 +2378,7 @@
   "tradeSeq": [
     "slingshot"
   ],
-  "transcriptR": [
-    "chipseq"
-  ],
+  "transcriptR": [],
   "transformGamPoi": [
     "glmGamPoi"
   ],
@@ -2463,8 +2423,7 @@
   "webbioc": [],
   "xcms": [
     "MSnbase",
-    "MsExperiment",
-    "PSMatch"
+    "MsExperiment"
   ],
   "xcore": [],
   "xenLite": [
