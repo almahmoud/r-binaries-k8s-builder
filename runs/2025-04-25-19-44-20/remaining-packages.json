@@ -742,7 +742,6 @@
   "HiLDA": [
     "GenomicFeatures"
   ],
-  "HicAggR": [],
   "HoloFoodR": [
     "TreeSummarizedExperiment"
   ],
@@ -777,7 +776,6 @@
     "GenomicFeatures",
     "plyranges"
   ],
-  "InTAD": [],
   "IntEREst": [
     "GenomicFiles",
     "GenomicFeatures",
@@ -1064,7 +1062,6 @@
     "sva",
     "genefilter"
   ],
-  "PAST": [],
   "PDATK": [
     "CoreGx",
     "piano"
@@ -1187,9 +1184,7 @@
     "clusterProfiler",
     "HTSFilter"
   ],
-  "RJMCMCNucleosomes": [
-    "consensusSeekeR"
-  ],
+  "RJMCMCNucleosomes": [],
   "RMassBank": [
     "MSnbase",
     "PSMatch"
@@ -2018,7 +2013,6 @@
     "GSEABase",
     "SpatialExperiment"
   ],
-  "consensusSeekeR": [],
   "conumee": [
     "minfi",
     "bumphunter",
@@ -2221,7 +2215,6 @@
   ],
   "dyebias": [],
   "easyRNASeq": [],
-  "easylift": [],
   "edge": [
     "sva",
     "genefilter"
@@ -2237,7 +2230,6 @@
   "epiNEM": [
     "mnem"
   ],
-  "epidecodeR": [],
   "epigenomix": [
     "beadarray"
   ],
@@ -2624,7 +2616,6 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "metagene2": [],
   "metaseqR2": [
     "DSS",
     "EDASeq",

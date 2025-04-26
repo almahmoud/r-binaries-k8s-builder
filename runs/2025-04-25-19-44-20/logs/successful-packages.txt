@@ -1195,3 +1195,10 @@ HiTC
 IdeoViz
 MotifDb
 SCANVIS
+consensusSeekeR
+easylift
+epidecodeR
+HicAggR
+InTAD
+metagene2
+PAST
