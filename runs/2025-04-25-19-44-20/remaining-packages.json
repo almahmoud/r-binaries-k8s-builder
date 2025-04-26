@@ -298,13 +298,10 @@
   ],
   "AnVIL": [],
   "AnVILAz": [],
-  "AnVILGCP": [],
   "AnVILPublish": [
-    "AnVIL",
-    "AnVILGCP"
+    "AnVIL"
   ],
   "AnVILWorkflow": [
-    "AnVILGCP",
     "AnVIL"
   ],
   "Anaquin": [
@@ -1064,7 +1061,6 @@
     "GenomicRanges"
   ],
   "CMA": [],
-  "CNAnorm": [],
   "CNTools": [
     "genefilter",
     "MatrixGenerics",
@@ -1142,7 +1138,6 @@
   "COMPASS": [],
   "CONFESS": [
     "flowClust",
-    "flowMeans",
     "flowMerge",
     "limma",
     "SamSPECTRAL"
@@ -9858,7 +9853,6 @@
   ],
   "cogena": [],
   "cogeqc": [],
-  "cola": [],
   "comapr": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -11471,7 +11465,6 @@
     "limma",
     "flowViz"
   ],
-  "flowClean": [],
   "flowClust": [],
   "flowCut": [
     "flowDensity",
@@ -11491,8 +11484,6 @@
     "MatrixGenerics",
     "SparseArray"
   ],
-  "flowMatch": [],
-  "flowMeans": [],
   "flowMerge": [
     "flowClust"
   ],
@@ -12415,7 +12406,6 @@
     "h5mread",
     "rhdf5filters"
   ],
-  "immunoClust": [],
   "infercnv": [
     "edgeR",
     "SummarizedExperiment",
@@ -13744,7 +13734,6 @@
     "BiocNeighbors",
     "GenomicRanges"
   ],
-  "msPurity": [],
   "msa": [],
   "msgbsR": [
     "GenomicRanges",
@@ -14100,7 +14089,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "occugene": [],
   "octad": [
     "edgeR",
     "RUVSeq",
@@ -14293,9 +14281,7 @@
     "GenomicRanges",
     "rhdf5filters"
   ],
-  "optimalFlow": [
-    "flowMeans"
-  ],
+  "optimalFlow": [],
   "orthogene": [
     "DelayedArray",
     "MatrixGenerics",
@@ -17283,7 +17269,6 @@
   ],
   "ternarynet": [],
   "terraTCGAdata": [
-    "AnVILGCP",
     "MultiAssayExperiment",
     "AnVIL",
     "GenomicRanges",

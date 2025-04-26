@@ -311,3 +311,12 @@ flowAI
 flowBeads
 flowCHIC
 Sconify
+AnVILGCP
+CNAnorm
+cola
+flowClean
+flowMatch
+flowMeans
+immunoClust
+msPurity
+occugene
