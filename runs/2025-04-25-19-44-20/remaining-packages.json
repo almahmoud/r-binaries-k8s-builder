@@ -402,7 +402,6 @@
   "EnrichDO": [
     "clusterProfiler"
   ],
-  "EnrichmentBrowser": [],
   "EpiCompare": [
     "ChIPseeker",
     "genomation"
@@ -474,9 +473,7 @@
     "Category",
     "genefilter"
   ],
-  "GSEABenchmarkeR": [
-    "EnrichmentBrowser"
-  ],
+  "GSEABenchmarkeR": [],
   "GSRI": [
     "genefilter"
   ],
@@ -596,7 +593,6 @@
     "txdbmaker",
     "ensembldb"
   ],
-  "KCsmart": [],
   "KnowSeq": [
     "sva",
     "genefilter"
@@ -1068,7 +1064,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SPOTlight": [],
   "SPsimSeq": [
     "phyloseq"
   ],
@@ -1089,7 +1084,6 @@
   "SimBu": [
     "phyloseq"
   ],
-  "SingleCellAlleleExperiment": [],
   "SingleCellSignalR": [],
   "SingleMoleculeFootprinting": [
     "QuasR",
@@ -1674,8 +1668,7 @@
   ],
   "doubletrouble": [],
   "dreamlet": [
-    "zenith",
-    "EnrichmentBrowser"
+    "zenith"
   ],
   "drugTargetInteractions": [
     "ensembldb"
@@ -2720,9 +2713,7 @@
     "GEOquery"
   ],
   "zellkonverter": [],
-  "zenith": [
-    "EnrichmentBrowser"
-  ],
+  "zenith": [],
   "zinbwave": [
     "genefilter"
   ],

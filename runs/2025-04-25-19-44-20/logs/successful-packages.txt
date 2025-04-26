@@ -1336,3 +1336,7 @@ BioCor
 MGFR
 NetSAM
 scReClassify
+EnrichmentBrowser
+KCsmart
+SingleCellAlleleExperiment
+SPOTlight
