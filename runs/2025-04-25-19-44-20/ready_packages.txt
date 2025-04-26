@@ -1,0 +1,7 @@
+AnnotationDbi
+BiocCheck
+BiocPkgTools
+FELLA
+Oscope
+ROntoTools
+transomics2cytoscape

@@ -753,3 +753,10 @@ GeneRegionScan
 NormqPCR
 PANR
 TreeAndLeaf
+AnnotationDbi
+BiocCheck
+BiocPkgTools
+FELLA
+Oscope
+ROntoTools
+transomics2cytoscape
