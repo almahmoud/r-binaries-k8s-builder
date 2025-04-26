@@ -304,3 +304,10 @@ ClustAll
 progeny
 TargetDecoy
 updateObject
+Biostrings
+CytoDx
+cytoMEM
+flowAI
+flowBeads
+flowCHIC
+Sconify
