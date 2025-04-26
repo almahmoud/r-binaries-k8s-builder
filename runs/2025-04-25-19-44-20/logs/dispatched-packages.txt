@@ -1805,3 +1805,6 @@ mBPCR
 oligo
 CRISPRball
 GA4GHshiny
+TurboNorm
+consensusDE
+scone

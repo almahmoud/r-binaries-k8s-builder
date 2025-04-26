@@ -55,12 +55,10 @@
     "biovizBase",
     "OrganismDbi"
   ],
-  "BUSpaRse": [],
   "BadRegionFinder": [],
   "Banksy": [
     "SpatialExperiment"
   ],
-  "Basic4Cseq": [],
   "BatchQC": [
     "sva"
   ],
@@ -578,7 +576,6 @@
     "TCGAutils"
   ],
   "RTNsurvival": [],
-  "RUVSeq": [],
   "RareVariantVis": [],
   "Rbec": [
     "dada2"
@@ -719,9 +716,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "TurboNorm": [
-    "convert"
-  ],
+  "TurboNorm": [],
   "UCell": [],
   "UPDhmm": [],
   "Ularcirc": [
@@ -944,9 +939,7 @@
     "slingshot",
     "distinct"
   ],
-  "consensusDE": [
-    "RUVSeq"
-  ],
+  "consensusDE": [],
   "consensusOV": [
     "GSVA",
     "SpatialExperiment"
@@ -955,7 +948,6 @@
     "minfi",
     "GEOquery"
   ],
-  "convert": [],
   "cosmiq": [
     "xcms",
     "MSnbase",
@@ -1377,7 +1369,6 @@
   ],
   "nullranges": [],
   "octad": [
-    "RUVSeq",
     "GSVA",
     "SpatialExperiment"
   ],
@@ -1498,8 +1489,7 @@
   ],
   "riboSeqR": [],
   "ribosomeProfilingQC": [
-    "motifStack",
-    "RUVSeq"
+    "motifStack"
   ],
   "rqt": [],
   "sSNAPPY": [],
@@ -1542,9 +1532,7 @@
     "SpatialExperiment"
   ],
   "scmap": [],
-  "scone": [
-    "RUVSeq"
-  ],
+  "scone": [],
   "scp": [],
   "scruff": [
     "ggbio",
@@ -1557,8 +1545,7 @@
   "seqCAT": [],
   "shinyDSP": [
     "standR",
-    "SpatialExperiment",
-    "RUVSeq"
+    "SpatialExperiment"
   ],
   "shinyMethyl": [
     "minfi",
@@ -1648,8 +1635,7 @@
     "SpatialExperiment"
   ],
   "standR": [
-    "SpatialExperiment",
-    "RUVSeq"
+    "SpatialExperiment"
   ],
   "sva": [],
   "svaNUMT": [

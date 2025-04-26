@@ -1517,3 +1517,7 @@ GA4GHclient
 HoloFoodR
 tLOH
 transmogR
+Basic4Cseq
+BUSpaRse
+convert
+RUVSeq
