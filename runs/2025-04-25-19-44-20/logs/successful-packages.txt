@@ -1178,3 +1178,14 @@ hermes
 hipathia
 tidyCoverage
 treekoR
+ChromHeatMap
+corral
+CoverageView
+crumblr
+DMCHMM
+ExCluster
+HiContacts
+microbiomeExplorer
+MuData
+RegEnrich
+wiggleplotr

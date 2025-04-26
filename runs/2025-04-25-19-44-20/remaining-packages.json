@@ -383,7 +383,6 @@
     "GenomicFeatures"
   ],
   "ChIPsim": [],
-  "ChromHeatMap": [],
   "CircSeqAlignTk": [
     "Rhisat2",
     "txdbmaker",
@@ -418,7 +417,6 @@
   "CoreGx": [
     "piano"
   ],
-  "CoverageView": [],
   "CuratedAtlasQueryR": [],
   "CytoMDS": [
     "CytoPipeline"
@@ -456,7 +454,6 @@
   ],
   "DEsubs": [],
   "DMCFB": [],
-  "DMCHMM": [],
   "DMRcate": [
     "bsseq",
     "minfi",
@@ -607,7 +604,6 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "ExCluster": [],
   "ExperimentHubData": [
     "AnnotationHubData",
     "GenomicFeatures",
@@ -806,7 +802,6 @@
     "VariantAnnotation"
   ],
   "HiCDOC": [],
-  "HiContacts": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome"
@@ -1089,7 +1084,6 @@
   "MsQuality": [
     "MsExperiment"
   ],
-  "MuData": [],
   "MultiBaC": [
     "ropls",
     "MultiDataSet"
@@ -1385,7 +1379,6 @@
     "GSEABase"
   ],
   "Rcpi": [],
-  "RegEnrich": [],
   "Repitools": [
     "BSgenome"
   ],
@@ -2083,7 +2076,6 @@
     "scater",
     "scran",
     "scuttle",
-    "wiggleplotr",
     "batchelor",
     "ensembldb",
     "GenomicFeatures"
@@ -2099,7 +2091,6 @@
   "chevreulShiny": [
     "chevreulProcess",
     "chevreulPlot",
-    "wiggleplotr",
     "scater",
     "scran",
     "scuttle",
@@ -2205,7 +2196,6 @@
     "GenomicFeatures"
   ],
   "convert": [],
-  "corral": [],
   "coseq": [
     "HTSFilter"
   ],
@@ -2279,7 +2269,6 @@
   "crlmm": [
     "oligoClasses"
   ],
-  "crumblr": [],
   "cummeRbund": [
     "Gviz",
     "GenomicFeatures",
@@ -2524,8 +2513,7 @@
     "BSgenome"
   ],
   "factR": [
-    "GenomicFeatures",
-    "wiggleplotr"
+    "GenomicFeatures"
   ],
   "famat": [
     "clusterProfiler"
@@ -2968,7 +2956,6 @@
   "microbiomeDASim": [
     "phyloseq"
   ],
-  "microbiomeExplorer": [],
   "midasHLA": [],
   "mimager": [
     "affyPLM",
@@ -3872,7 +3859,6 @@
   "webbioc": [
     "gcrma"
   ],
-  "wiggleplotr": [],
   "xCell2": [
     "singscore",
     "GSEABase"
