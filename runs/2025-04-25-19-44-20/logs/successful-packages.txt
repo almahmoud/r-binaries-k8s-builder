@@ -886,3 +886,9 @@ snapcount
 spqn
 SQLDataFrame
 sRACIPE
+fgsea
+GenProSeq
+mfa
+phenopath
+satuRn
+tidySummarizedExperiment
