@@ -1503,3 +1503,12 @@ TAPseq
 tigre
 affyILM
 EDASeq
+BatchSVG
+cleanUpdTSeq
+meshes
+MetaboAnnotation
+mspms
+oligoClasses
+OLINgui
+treeclimbR
+tRNAscanImport

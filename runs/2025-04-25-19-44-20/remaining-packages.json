@@ -26,7 +26,6 @@
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
-    "oligoClasses",
     "ReportingTools",
     "Category",
     "ggbio",
@@ -65,7 +64,6 @@
   "BatchQC": [
     "sva"
   ],
-  "BatchSVG": [],
   "BgeeCall": [],
   "BiSeq": [
     "globaltest"
@@ -162,8 +160,7 @@
   "ChIPXpress": [
     "GEOquery",
     "frma",
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "ChIPexoQual": [
     "biovizBase"
@@ -368,12 +365,9 @@
     "MsExperiment"
   ],
   "ITALICS": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
-  "InPAS": [
-    "cleanUpdTSeq"
-  ],
+  "InPAS": [],
   "IntEREst": [
     "GenomicFiles",
     "DEXSeq"
@@ -452,7 +446,6 @@
   ],
   "MatrixRider": [],
   "MetaPhOR": [],
-  "MetaboAnnotation": [],
   "MetaboSignal": [
     "mygene"
   ],
@@ -472,7 +465,6 @@
   ],
   "MinimumDistance": [
     "VanillaICE",
-    "oligoClasses",
     "crlmm"
   ],
   "MoleculeExperiment": [
@@ -500,7 +492,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "OLINgui": [],
   "OMICsPCA": [
     "HelloRanges"
   ],
@@ -635,8 +626,7 @@
   "SCAN.UPC": [
     "oligo",
     "GEOquery",
-    "sva",
-    "oligoClasses"
+    "sva"
   ],
   "SCArray.sat": [],
   "SCOPE": [],
@@ -754,7 +744,6 @@
     "sva"
   ],
   "VanillaICE": [
-    "oligoClasses",
     "crlmm"
   ],
   "VarCon": [],
@@ -791,7 +780,6 @@
   "affyPLM": [],
   "affycoretools": [
     "GOstats",
-    "oligoClasses",
     "ReportingTools",
     "Category",
     "ggbio",
@@ -937,7 +925,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "cleanUpdTSeq": [],
   "cliProfiler": [],
   "clipper": [],
   "cliqueMS": [
@@ -1001,9 +988,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "crlmm": [
-    "oligoClasses"
-  ],
+  "crlmm": [],
   "cummeRbund": [
     "Gviz",
     "biovizBase"
@@ -1133,8 +1118,7 @@
   ],
   "flowGate": [],
   "frma": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "funtooNorm": [
     "minfi",
@@ -1258,9 +1242,7 @@
   ],
   "lute": [],
   "m6Aboost": [],
-  "mBPCR": [
-    "oligoClasses"
-  ],
+  "mBPCR": [],
   "mCSEA": [
     "Gviz",
     "biovizBase",
@@ -1277,7 +1259,6 @@
   ],
   "mbQTL": [],
   "mbkmeans": [],
-  "meshes": [],
   "meshr": [
     "Category"
   ],
@@ -1344,8 +1325,7 @@
   "microSTASIS": [],
   "mimager": [
     "affyPLM",
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "minfi": [
     "GEOquery"
@@ -1382,7 +1362,6 @@
     "MSnbase",
     "msmsEDA"
   ],
-  "mspms": [],
   "mumosa": [],
   "muscat": [],
   "mygene": [],
@@ -1410,10 +1389,7 @@
     "GSVA",
     "SpatialExperiment"
   ],
-  "oligo": [
-    "oligoClasses"
-  ],
-  "oligoClasses": [],
+  "oligo": [],
   "omXplore": [
     "MSnbase"
   ],
@@ -1447,8 +1423,7 @@
   ],
   "pathlinkR": [],
   "pdInfoBuilder": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "peakPantheR": [
     "MSnbase"
@@ -1490,8 +1465,7 @@
     "MSnbase"
   ],
   "puma": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "qPLEXanalyzer": [
     "MSnbase"
@@ -1695,7 +1669,6 @@
   "systemPipeR": [],
   "tLOH": [],
   "tRNAdbImport": [],
-  "tRNAscanImport": [],
   "tadar": [
     "Gviz",
     "biovizBase"
@@ -1731,7 +1704,6 @@
   ],
   "transmogR": [],
   "traseR": [],
-  "treeclimbR": [],
   "tricycle": [],
   "txcutr": [],
   "tximeta": [],

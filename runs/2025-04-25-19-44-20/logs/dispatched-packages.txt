@@ -1799,3 +1799,7 @@ phenomis
 rqt
 iCNV
 RUVSeq
+InPAS
+crlmm
+mBPCR
+oligo
