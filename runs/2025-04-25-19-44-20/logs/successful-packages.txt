@@ -1581,3 +1581,6 @@ EnrichDO
 MetaPhOR
 MicrobiomeProfiler
 scDotPlot
+CBNplot
+Dino
+MEB

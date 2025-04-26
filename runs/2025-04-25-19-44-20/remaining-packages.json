@@ -93,7 +93,6 @@
     "SpatialExperiment"
   ],
   "CATALYST": [],
-  "CBNplot": [],
   "CCAFE": [],
   "CGHregions": [],
   "CHRONOS": [],
@@ -197,7 +196,6 @@
     "systemPipeR"
   ],
   "DifferentialRegulation": [],
-  "Dino": [],
   "DominoEffect": [],
   "Dune": [],
   "DuplexDiscovereR": [
@@ -342,7 +340,6 @@
     "methylumi",
     "lumi"
   ],
-  "MEB": [],
   "MGnifyR": [
     "mia"
   ],
