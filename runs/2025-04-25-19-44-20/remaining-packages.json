@@ -112,7 +112,6 @@
     "SpatialExperiment"
   ],
   "Basic4Cseq": [],
-  "BasicSTARRseq": [],
   "BatchQC": [
     "scran",
     "sva",
@@ -224,7 +223,6 @@
     "dittoSeq"
   ],
   "CRISPRseek": [],
-  "CRImage": [],
   "CSSQ": [],
   "CTSV": [
     "SpatialExperiment"
@@ -473,8 +471,7 @@
     "txdbmaker"
   ],
   "ExperimentSubset": [
-    "SpatialExperiment",
-    "TreeSummarizedExperiment"
+    "SpatialExperiment"
   ],
   "ExploreModelMatrix": [],
   "ExpressionAtlas": [],
@@ -619,9 +616,7 @@
   ],
   "HiCDOC": [],
   "HiLDA": [],
-  "HoloFoodR": [
-    "TreeSummarizedExperiment"
-  ],
+  "HoloFoodR": [],
   "HybridExpress": [],
   "ILoReg": [],
   "IMAS": [
@@ -714,7 +709,6 @@
   "MGFM": [],
   "MGFR": [],
   "MGnifyR": [
-    "TreeSummarizedExperiment",
     "mia",
     "scater"
   ],
@@ -898,9 +892,7 @@
     "genefilter"
   ],
   "PIUMA": [],
-  "PLSDAbatch": [
-    "TreeSummarizedExperiment"
-  ],
+  "PLSDAbatch": [],
   "POMA": [
     "sva",
     "genefilter"
@@ -1135,7 +1127,6 @@
   ],
   "SCArray.sat": [],
   "SCOPE": [],
-  "SCnorm": [],
   "SEraster": [
     "SpatialExperiment"
   ],
@@ -1306,7 +1297,6 @@
     "CoreGx"
   ],
   "TrajectoryUtils": [],
-  "TreeSummarizedExperiment": [],
   "TurboNorm": [
     "convert"
   ],
@@ -1790,7 +1780,6 @@
   "dar": [
     "mia",
     "phyloseq",
-    "TreeSummarizedExperiment",
     "scater"
   ],
   "debrowser": [
@@ -1959,7 +1948,6 @@
     "bumphunter",
     "GEOquery"
   ],
-  "fishpond": [],
   "flagme": [
     "xcms",
     "CAMERA",
@@ -2084,7 +2072,6 @@
     "iSEE",
     "miaViz",
     "mia",
-    "TreeSummarizedExperiment",
     "scater"
   ],
   "iSEEu": [
@@ -2125,7 +2112,6 @@
   ],
   "lefser": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater"
   ],
   "lemur": [
@@ -2169,9 +2155,7 @@
     "txdbmaker"
   ],
   "maPredictDSC": [],
-  "maaslin3": [
-    "TreeSummarizedExperiment"
-  ],
+  "maaslin3": [],
   "magpie": [
     "TRESS"
   ],
@@ -2271,7 +2255,6 @@
     "clusterProfiler"
   ],
   "mia": [
-    "TreeSummarizedExperiment",
     "scater"
   ],
   "miaDash": [
@@ -2279,20 +2262,14 @@
     "iSEEtree",
     "mia",
     "scater",
-    "TreeSummarizedExperiment",
     "miaViz"
   ],
-  "miaSim": [
-    "TreeSummarizedExperiment"
-  ],
+  "miaSim": [],
   "miaViz": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater"
   ],
-  "microSTASIS": [
-    "TreeSummarizedExperiment"
-  ],
+  "microSTASIS": [],
   "microbiome": [
     "phyloseq"
   ],
@@ -2652,7 +2629,6 @@
   "scDD": [
     "scran"
   ],
-  "scDataviz": [],
   "scDblFinder": [
     "scran",
     "scater"
@@ -2956,9 +2932,7 @@
     "VariantAnnotation"
   ],
   "traseR": [],
-  "treeclimbR": [
-    "TreeSummarizedExperiment"
-  ],
+  "treeclimbR": [],
   "tricycle": [
     "scater"
   ],

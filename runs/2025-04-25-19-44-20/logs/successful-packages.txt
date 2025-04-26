@@ -1277,3 +1277,9 @@ OVESEG
 piano
 scds
 scuttle
+BasicSTARRseq
+CRImage
+fishpond
+scDataviz
+SCnorm
+TreeSummarizedExperiment

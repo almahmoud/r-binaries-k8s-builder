@@ -1,10 +1,6 @@
-CoreGx
-DropletUtils
-SplineDV
-batchelor
-blima
-epigenomix
-scater
-scran
-simPIC
-splatter
+HoloFoodR
+PLSDAbatch
+maaslin3
+miaSim
+microSTASIS
+treeclimbR
