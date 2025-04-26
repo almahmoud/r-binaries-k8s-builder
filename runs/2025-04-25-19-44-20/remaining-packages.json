@@ -167,9 +167,7 @@
   ],
   "EasyCellType": [],
   "EpiCompare": [],
-  "EpiTxDb": [
-    "tRNAdbImport"
-  ],
+  "EpiTxDb": [],
   "ExperimentHubData": [
     "AnnotationHubData",
     "OrganismDbi"
@@ -308,7 +306,6 @@
   "OGRE": [
     "Gviz"
   ],
-  "OMICsPCA": [],
   "OrganismDbi": [],
   "PAA": [
     "sva"
@@ -620,7 +617,6 @@
     "SpatialExperiment"
   ],
   "clusterExperiment": [
-    "zinbwave",
     "mbkmeans"
   ],
   "clusterSeq": [],
@@ -756,7 +752,6 @@
   "funtooNorm": [
     "minfi"
   ],
-  "gcatest": [],
   "geomeTriD": [
     "trackViewer",
     "Gviz"
@@ -918,7 +913,6 @@
   ],
   "netSmooth": [
     "clusterExperiment",
-    "zinbwave",
     "mbkmeans"
   ],
   "nnSVG": [
@@ -1024,9 +1018,7 @@
     "ASpli",
     "Gviz"
   ],
-  "scBFA": [
-    "zinbwave"
-  ],
+  "scBFA": [],
   "scCB2": [],
   "scClassify": [],
   "scDD": [],
@@ -1138,7 +1130,6 @@
     "StructuralVariantAnnotation"
   ],
   "systemPipeR": [],
-  "tRNAdbImport": [],
   "tadar": [
     "Gviz"
   ],
@@ -1158,7 +1149,6 @@
     "Gviz"
   ],
   "tradeSeq": [],
-  "traseR": [],
   "tricycle": [],
   "uncoverappLib": [
     "Gviz",
@@ -1181,6 +1171,5 @@
     "quantro",
     "minfi"
   ],
-  "zenith": [],
-  "zinbwave": []
+  "zenith": []
 }

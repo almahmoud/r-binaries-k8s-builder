@@ -1710,3 +1710,8 @@ R453Plus1Toolbox
 recoup
 TurboNorm
 VanillaICE
+gcatest
+OMICsPCA
+traseR
+tRNAdbImport
+zinbwave
