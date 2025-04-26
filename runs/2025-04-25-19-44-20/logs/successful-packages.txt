@@ -1318,3 +1318,10 @@ AGDEX
 BicARE
 MethylSeekR
 PROMISE
+AUCell
+batchelor
+CDI
+scater
+scran
+TissueEnrich
+TMSig
