@@ -1642,3 +1642,8 @@ iSEEpathways
 annmap
 iSEEhex
 SingleCellSignalR
+ADaCGH2
+bambu
+DEXSeq
+IMPCdata
+Rhisat2

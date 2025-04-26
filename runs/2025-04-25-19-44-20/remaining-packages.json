@@ -1,6 +1,5 @@
 {
   "ACE": [],
-  "ADaCGH2": [],
   "AHMassBank": [
     "AnnotationHubData",
     "OrganismDbi"
@@ -128,9 +127,7 @@
     "oligo"
   ],
   "ChIPexoQual": [],
-  "CircSeqAlignTk": [
-    "Rhisat2"
-  ],
+  "CircSeqAlignTk": [],
   "CiteFuse": [],
   "ClassifyR": [],
   "CleanUpRNAseq": [
@@ -153,7 +150,6 @@
   "DESpace": [
     "SpatialExperiment"
   ],
-  "DEXSeq": [],
   "DMRcate": [
     "bsseq",
     "minfi",
@@ -211,7 +207,6 @@
     "TSCAN"
   ],
   "FLAMES": [
-    "bambu",
     "ggbio",
     "SpatialExperiment",
     "OrganismDbi"
@@ -269,7 +264,6 @@
     "GenomicInteractions",
     "Gviz"
   ],
-  "IMPCdata": [],
   "INSPEcT": [],
   "IPO": [
     "xcms",
@@ -282,11 +276,9 @@
   ],
   "InPAS": [],
   "IntEREst": [
-    "GenomicFiles",
-    "DEXSeq"
+    "GenomicFiles"
   ],
   "IsoformSwitchAnalyzeR": [
-    "DEXSeq",
     "sva"
   ],
   "KnowSeq": [
@@ -456,7 +448,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "Rhisat2": [],
   "RiboProfiling": [
     "ggbio",
     "OrganismDbi"
@@ -649,7 +640,6 @@
   "ballgown": [
     "sva"
   ],
-  "bambu": [],
   "bandle": [
     "MSnbase",
     "pRoloc",
@@ -670,9 +660,7 @@
     "Gviz"
   ],
   "biosigner": [],
-  "blacksheepr": [
-    "DEXSeq"
-  ],
+  "blacksheepr": [],
   "bnbc": [
     "sva"
   ],
@@ -817,9 +805,7 @@
     "OrganismDbi"
   ],
   "diffHic": [],
-  "diffUTR": [
-    "DEXSeq"
-  ],
+  "diffUTR": [],
   "dominoSignal": [],
   "doppelgangR": [
     "sva"
@@ -1115,7 +1101,6 @@
     "motifmatchr"
   ],
   "pairedGSEA": [
-    "DEXSeq",
     "sva"
   ],
   "pathMED": [
@@ -1203,7 +1188,6 @@
   "sampleClassifier": [],
   "saseR": [
     "ASpli",
-    "DEXSeq",
     "Gviz"
   ],
   "scBFA": [
