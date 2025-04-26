@@ -2,8 +2,7 @@
   "ACE": [
     "QDNAseq",
     "CGHbase",
-    "CGHcall",
-    "marray"
+    "CGHcall"
   ],
   "ADAM": [],
   "ADAMgui": [
@@ -367,21 +366,16 @@
   "CEMiTool": [
     "clusterProfiler"
   ],
-  "CGHbase": [
-    "marray"
-  ],
+  "CGHbase": [],
   "CGHcall": [
-    "CGHbase",
-    "marray"
+    "CGHbase"
   ],
   "CGHnormaliter": [
     "CGHcall",
-    "CGHbase",
-    "marray"
+    "CGHbase"
   ],
   "CGHregions": [
-    "CGHbase",
-    "marray"
+    "CGHbase"
   ],
   "CHETAH": [],
   "CHRONOS": [],
@@ -477,7 +471,6 @@
     "DMRcate",
     "globaltest",
     "sva",
-    "marray",
     "wateRmelon",
     "goseq",
     "missMethyl",
@@ -599,8 +592,7 @@
   ],
   "CoreGx": [
     "MultiAssayExperiment",
-    "piano",
-    "marray"
+    "piano"
   ],
   "Cormotif": [],
   "CoverageView": [
@@ -1064,8 +1056,7 @@
   "GeneBreak": [
     "QDNAseq",
     "CGHcall",
-    "CGHbase",
-    "marray"
+    "CGHbase"
   ],
   "GeneMeta": [
     "genefilter",
@@ -1133,7 +1124,6 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "GenomicScores": [],
   "GenomicSuperSignature": [],
   "GeoTcgaData": [],
   "Glimma": [
@@ -1519,21 +1509,16 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "MSstats": [
-    "marray"
-  ],
+  "MSstats": [],
   "MSstatsBig": [
-    "MSstats",
-    "marray"
+    "MSstats"
   ],
   "MSstatsBioNet": [
-    "MSstats",
-    "marray"
+    "MSstats"
   ],
   "MSstatsPTM": [
     "MSstatsTMT",
-    "MSstats",
-    "marray"
+    "MSstats"
   ],
   "MSstatsQC": [
     "MSnbase",
@@ -1551,12 +1536,10 @@
   "MSstatsShiny": [
     "MSstats",
     "MSstatsTMT",
-    "MSstatsPTM",
-    "marray"
+    "MSstatsPTM"
   ],
   "MSstatsTMT": [
-    "MSstats",
-    "marray"
+    "MSstats"
   ],
   "Maaslin2": [
     "edgeR"
@@ -1613,7 +1596,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MethylMix": [],
   "MethylSeekR": [
     "rtracklayer",
     "BSgenome",
@@ -1627,7 +1609,6 @@
   "MicrobiotaProcess": [],
   "MineICA": [
     "GOstats",
-    "marray",
     "annotate",
     "lumi",
     "Category",
@@ -1749,12 +1730,9 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "OLIN": [
-    "marray"
-  ],
+  "OLIN": [],
   "OLINgui": [
-    "OLIN",
-    "marray"
+    "OLIN"
   ],
   "OMICsPCA": [
     "HelloRanges",
@@ -1823,8 +1801,7 @@
     "MultiAssayExperiment",
     "CoreGx",
     "piano",
-    "genefu",
-    "marray"
+    "genefu"
   ],
   "PECA": [
     "genefilter",
@@ -1936,13 +1913,11 @@
   ],
   "QDNAseq": [
     "CGHbase",
-    "CGHcall",
-    "marray"
+    "CGHcall"
   ],
   "QFeatures": [
     "MultiAssayExperiment"
   ],
-  "QTLExperiment": [],
   "QuasR": [
     "BSgenome",
     "GenomicFeatures",
@@ -1981,9 +1956,7 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "RBM": [
-    "marray"
-  ],
+  "RBM": [],
   "RCAS": [
     "BSgenome",
     "rtracklayer",
@@ -2137,14 +2110,12 @@
   "RadioGx": [
     "CoreGx",
     "MultiAssayExperiment",
-    "piano",
-    "marray"
+    "piano"
   ],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
     "BSgenome",
-    "GenomicScores",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -2247,7 +2218,6 @@
     "BSgenome"
   ],
   "Rnits": [],
-  "RolDE": [],
   "Rqc": [
     "ShortRead",
     "biovizBase",
@@ -2468,7 +2438,6 @@
     "InteractionSet"
   ],
   "SpliceWiz": [
-    "ompBAM",
     "BSgenome",
     "genefilter",
     "rtracklayer",
@@ -2629,15 +2598,12 @@
   "ToxicoGx": [
     "CoreGx",
     "MultiAssayExperiment",
-    "piano",
-    "marray"
+    "piano"
   ],
   "TrajectoryUtils": [],
   "TreeSummarizedExperiment": [],
-  "Trendy": [],
   "TurboNorm": [
-    "convert",
-    "marray"
+    "convert"
   ],
   "UCell": [],
   "UPDhmm": [
@@ -2710,7 +2676,6 @@
     "VariantAnnotation",
     "GenomicFeatures",
     "BSgenome",
-    "GenomicScores",
     "Gviz",
     "rtracklayer",
     "ensembldb",
@@ -2834,7 +2799,6 @@
     "GenomicAlignments"
   ],
   "alabaster.bumpy": [],
-  "alabaster.files": [],
   "alabaster.mae": [
     "MultiAssayExperiment",
     "alabaster.se",
@@ -2898,7 +2862,6 @@
     "VariantAnnotation",
     "BSgenome",
     "GenomicFeatures",
-    "GenomicScores",
     "rtracklayer",
     "OrganismDbi",
     "txdbmaker",
@@ -2917,9 +2880,7 @@
     "GEOquery",
     "GenomicAlignments"
   ],
-  "arrayQuality": [
-    "marray"
-  ],
+  "arrayQuality": [],
   "arrayQualityMetrics": [
     "affyPLM",
     "beadarray",
@@ -2928,8 +2889,7 @@
     "annotate"
   ],
   "artMS": [
-    "MSstats",
-    "marray"
+    "MSstats"
   ],
   "atSNP": [
     "BSgenome",
@@ -3195,8 +3155,7 @@
   "cfdnakit": [
     "QDNAseq",
     "CGHbase",
-    "CGHcall",
-    "marray"
+    "CGHcall"
   ],
   "cghMCR": [
     "CNTools",
@@ -3241,7 +3200,6 @@
     "GenomicAlignments",
     "edgeR"
   ],
-  "chihaya": [],
   "chimeraviz": [
     "Gviz",
     "ensembldb",
@@ -3392,9 +3350,7 @@
     "GenomicFeatures",
     "annotate"
   ],
-  "convert": [
-    "marray"
-  ],
+  "convert": [],
   "corral": [
     "MultiAssayExperiment"
   ],
@@ -3704,9 +3660,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "dyebias": [
-    "marray"
-  ],
+  "dyebias": [],
   "easier": [
     "DESeq2"
   ],
@@ -3944,7 +3898,6 @@
     "GenomicFeatures",
     "ReactomePA",
     "clusterProfiler",
-    "MethylMix",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -4211,7 +4164,6 @@
     "genefilter",
     "annotate"
   ],
-  "ipdDb": [],
   "isobar": [],
   "isomiRs": [
     "DEGreport",
@@ -4323,7 +4275,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "marray": [],
   "maser": [
     "rtracklayer",
     "Gviz",
@@ -4431,7 +4382,6 @@
     "edgeR"
   ],
   "methylPipe": [
-    "marray",
     "Gviz",
     "GenomicAlignments",
     "rtracklayer",
@@ -4676,9 +4626,7 @@
     "edgeR",
     "InteractionSet"
   ],
-  "multistateQTL": [
-    "QTLExperiment"
-  ],
+  "multistateQTL": [],
   "mumosa": [
     "scuttle",
     "scran",
@@ -4738,9 +4686,7 @@
   "nipalsMCIA": [
     "MultiAssayExperiment"
   ],
-  "nnNorm": [
-    "marray"
-  ],
+  "nnNorm": [],
   "nnSVG": [
     "SpatialExperiment"
   ],
@@ -4795,7 +4741,6 @@
   "omicsPrint": [
     "MultiAssayExperiment"
   ],
-  "ompBAM": [],
   "oposSOM": [],
   "oppar": [
     "GSEABase",
@@ -4892,9 +4837,7 @@
     "ropls"
   ],
   "phyloseq": [],
-  "piano": [
-    "marray"
-  ],
+  "piano": [],
   "pipeComp": [
     "scran",
     "scater",
@@ -4952,7 +4895,6 @@
   ],
   "primirTSS": [
     "rtracklayer",
-    "GenomicScores",
     "Gviz",
     "TFBSTools",
     "BSgenome",
@@ -5070,7 +5012,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "rGenomeTracks": [],
   "rTRMui": [
     "MotifDb",
     "rtracklayer",
@@ -5663,9 +5604,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "stepNorm": [
-    "marray"
-  ],
+  "stepNorm": [],
   "strandCheckR": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -5770,9 +5709,7 @@
     "genefilter",
     "annotate"
   ],
-  "timecourse": [
-    "marray"
-  ],
+  "timecourse": [],
   "topdownr": [
     "MSnbase",
     "PSMatch",

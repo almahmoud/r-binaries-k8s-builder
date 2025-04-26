@@ -1012,3 +1012,14 @@ RNAsense
 Scale4C
 StabMap
 SVMDO
+alabaster.files
+chihaya
+GenomicScores
+ipdDb
+marray
+MethylMix
+ompBAM
+QTLExperiment
+rGenomeTracks
+RolDE
+Trendy
