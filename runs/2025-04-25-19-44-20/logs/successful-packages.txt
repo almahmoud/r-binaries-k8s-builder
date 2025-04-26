@@ -1189,3 +1189,9 @@ microbiomeExplorer
 MuData
 RegEnrich
 wiggleplotr
+BSgenome
+DMCFB
+HiTC
+IdeoViz
+MotifDb
+SCANVIS
