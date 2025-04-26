@@ -689,3 +689,12 @@ Rmagpie
 scifer
 scMitoMut
 triplex
+affy
+AlpsNMR
+dupRadar
+GENIE3
+Melissa
+PhenoGeneRanker
+Rsamtools
+splots
+universalmotif
