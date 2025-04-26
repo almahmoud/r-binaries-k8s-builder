@@ -1,5 +1,4 @@
 {
-  "ACE": [],
   "AHMassBank": [
     "AnnotationHubData"
   ],
@@ -72,7 +71,6 @@
   "CRISPRball": [],
   "CTSV": [],
   "CatsCradle": [],
-  "CeTF": [],
   "CellBench": [],
   "CellMixS": [],
   "ChAMP": [
@@ -404,7 +402,6 @@
     "Gviz"
   ],
   "UCell": [],
-  "Uniquorn": [],
   "VAExprs": [],
   "VCFArray": [
     "GenomicFiles"
@@ -441,7 +438,6 @@
     "ggbio"
   ],
   "affylmGUI": [],
-  "airpart": [],
   "alabaster": [
     "alabaster.spatial",
     "alabaster.vcf"
@@ -764,7 +760,6 @@
     "methylumi",
     "minfi"
   ],
-  "monaLisa": [],
   "motifStack": [],
   "motifbreakR": [
     "motifStack",
@@ -977,7 +972,6 @@
     "Gviz"
   ],
   "tradeSeq": [],
-  "tricycle": [],
   "uncoverappLib": [
     "Gviz"
   ],
