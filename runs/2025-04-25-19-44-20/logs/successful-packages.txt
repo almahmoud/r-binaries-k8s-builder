@@ -1430,3 +1430,15 @@ gmoviz
 OutSplice
 podkat
 Rmmquant
+alabaster.string
+codelink
+ExpressionAtlas
+geneAttribution
+HybridExpress
+idiogram
+ISLET
+NewWave
+qpgraph
+strandCheckR
+TFEA.ChIP
+VariantAnnotation
