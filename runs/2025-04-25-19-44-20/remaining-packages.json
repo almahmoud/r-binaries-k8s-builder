@@ -66,7 +66,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "BiocCheck",
     "AnnotationDbi",
     "OrganismDbi",
     "AnnotationForge",
@@ -277,7 +276,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "BiocCheck",
     "AnnotationDbi",
     "OrganismDbi",
     "AnnotationForge",
@@ -373,7 +371,6 @@
     "annotate"
   ],
   "BLMA": [
-    "ROntoTools",
     "PADOG",
     "limma",
     "AnnotationDbi"
@@ -545,7 +542,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "BiGGR": [],
   "BiSeq": [
     "SummarizedExperiment",
     "rtracklayer",
@@ -624,7 +620,6 @@
     "SparseArray",
     "ScaledMatrix"
   ],
-  "BiocCheck": [],
   "BiocHubsShiny": [
     "AnnotationHub",
     "ExperimentHub",
@@ -845,7 +840,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "CFAssay": [],
   "CGHbase": [
     "marray",
     "limma"
@@ -2225,7 +2219,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "BiocCheck",
     "AnnotationDbi",
     "OrganismDbi",
     "AnnotationForge",
@@ -2403,7 +2396,6 @@
     "EDASeq",
     "sva",
     "edgeR",
-    "sSeq",
     "MatrixGenerics",
     "DelayedArray",
     "SparseArray",
@@ -2762,7 +2754,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "GladiaTOX": [],
   "Glimma": [
     "edgeR",
     "DESeq2",
@@ -3592,7 +3583,6 @@
     "edgeR",
     "limma",
     "SummarizedExperiment",
-    "sSeq",
     "MatrixGenerics",
     "DelayedArray",
     "SparseArray"
@@ -3853,7 +3843,6 @@
   "MeSHDbi": [
     "AnnotationDbi"
   ],
-  "MeasurementError.cor": [],
   "Melissa": [],
   "Mergeomics": [],
   "MesKit": [
@@ -4462,7 +4451,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "Oscope": [],
   "OutSplice": [
     "AnnotationDbi",
     "GenomicFeatures",
@@ -4825,7 +4813,6 @@
   ],
   "QUBIC": [],
   "QuasR": [
-    "Rbowtie",
     "BSgenome",
     "Rsamtools",
     "GenomicFeatures",
@@ -5141,7 +5128,6 @@
     "edgeR",
     "limma"
   ],
-  "ROntoTools": [],
   "RPA": [
     "affy",
     "phyloseq",
@@ -5281,7 +5267,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "Rbowtie": [],
   "Rbowtie2": [
     "Rsamtools"
   ],
@@ -5301,10 +5286,7 @@
     "GOSemSim",
     "AnnotationDbi"
   ],
-  "RcwlPipelines": [],
-  "ReUseData": [
-    "RcwlPipelines"
-  ],
+  "ReUseData": [],
   "ReactomeGSA": [
     "BiocSingular",
     "SummarizedExperiment",
@@ -5698,7 +5680,6 @@
     "methylMnM",
     "limma"
   ],
-  "SLqPCR": [],
   "SMITE": [
     "AnnotationDbi",
     "BioNet",
@@ -5948,7 +5929,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "Rbowtie",
     "GenomicFeatures",
     "txdbmaker",
     "ShortRead",
@@ -7903,7 +7883,6 @@
   "ccmap": [
     "AnnotationDbi"
   ],
-  "ccrepe": [],
   "celda": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -8494,7 +8473,6 @@
   ],
   "crisprBowtie": [
     "BSgenome",
-    "Rbowtie",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -8524,7 +8502,6 @@
     "txdbmaker",
     "VariantAnnotation",
     "Rsamtools",
-    "Rbowtie",
     "GenomicAlignments",
     "biomaRt",
     "SummarizedExperiment",
@@ -8553,7 +8530,6 @@
     "txdbmaker",
     "VariantAnnotation",
     "Gviz",
-    "Rbowtie",
     "ExperimentHub",
     "AnnotationHub",
     "biomaRt",
@@ -8570,7 +8546,6 @@
     "crisprDesign",
     "crisprViz",
     "BSgenome",
-    "Rbowtie",
     "AnnotationDbi",
     "GenomicFeatures",
     "MatrixGenerics",
@@ -8607,7 +8582,6 @@
     "biovizBase",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "Rbowtie",
     "ExperimentHub",
     "AnnotationHub",
     "DelayedArray",
@@ -9541,7 +9515,6 @@
     "SparseArray"
   ],
   "famat": [
-    "rWikiPathways",
     "clusterProfiler",
     "AnnotationDbi",
     "DOSE",
@@ -9595,7 +9568,6 @@
     "multtest",
     "rhdf5filters"
   ],
-  "fgga": [],
   "fgsea": [],
   "findIPs": [
     "SummarizedExperiment",
@@ -9719,9 +9691,7 @@
     "MatrixGenerics",
     "SparseArray"
   ],
-  "gDRstyle": [
-    "BiocCheck"
-  ],
+  "gDRstyle": [],
   "gDRutils": [
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -10130,7 +10100,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "hierinf": [],
   "hipathia": [
     "AnnotationHub",
     "MultiAssayExperiment",
@@ -10160,7 +10129,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "iBMQ": [],
   "iCNV": [
     "CODEX",
     "Rsamtools",
@@ -11091,7 +11059,6 @@
     "multtest",
     "Rsamtools",
     "rtracklayer",
-    "BiocCheck",
     "OrganismDbi",
     "AnnotationForge",
     "rhdf5filters",
@@ -11355,7 +11322,6 @@
     "GenomicAlignments"
   ],
   "mirIntegrator": [
-    "ROntoTools",
     "AnnotationDbi"
   ],
   "missMethyl": [
@@ -11813,7 +11779,6 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "nuCpos": [],
   "nucleR": [
     "Rsamtools",
     "ShortRead",
@@ -11956,7 +11921,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "onlineFDR": [],
   "ontoProc": [
     "AnnotationHub",
     "SummarizedExperiment",
@@ -12206,7 +12170,6 @@
     "SparseArray"
   ],
   "pfamAnalyzeR": [],
-  "pgca": [],
   "pgxRpi": [
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -12312,7 +12275,6 @@
     "affy",
     "affyio"
   ],
-  "plotGrouper": [],
   "plotgardener": [
     "plyranges",
     "rhdf5",
@@ -12708,7 +12670,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "rBLAST": [],
   "rBiopaxParser": [],
   "rCGH": [
     "limma",
@@ -12764,7 +12725,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "rWikiPathways": [],
   "raer": [
     "Rsamtools",
     "BSgenome",
@@ -12791,7 +12751,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "randPack": [],
   "rbsurv": [],
   "rcellminer": [],
   "receptLoss": [
@@ -13101,7 +13060,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "sSeq": [],
   "safe": [
     "AnnotationDbi"
   ],
@@ -13229,7 +13187,6 @@
   ],
   "scDDboost": [
     "SingleCellExperiment",
-    "Oscope",
     "SummarizedExperiment",
     "DelayedArray",
     "MatrixGenerics",
@@ -14732,7 +14689,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "transomics2cytoscape": [],
   "traseR": [
     "BSgenome",
     "rtracklayer",
