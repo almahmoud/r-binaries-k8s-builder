@@ -1,9 +1,0 @@
-MetaboAnnotation
-MsExperiment
-PSMatch
-alabaster.mae
-alabaster.sce
-hdxmsqc
-mspms
-msqrob2
-scp
