@@ -330,7 +330,6 @@
     "MatrixGenerics",
     "DelayedArray",
     "BiocSingular",
-    "bluster",
     "metapod",
     "beachmat",
     "SparseArray",
@@ -352,7 +351,6 @@
     "edgeR",
     "limma",
     "BiocSingular",
-    "bluster",
     "metapod",
     "ScaledMatrix",
     "sparseMatrixStats",
@@ -545,7 +543,6 @@
     "edgeR",
     "DelayedArray",
     "BiocSingular",
-    "bluster",
     "metapod",
     "beachmat",
     "genefilter",
@@ -566,7 +563,6 @@
     "beachmat",
     "SparseArray"
   ],
-  "BayesKnockdown": [],
   "BgeeCall": [
     "GenomicFeatures",
     "rtracklayer",
@@ -669,7 +665,6 @@
     "MatrixGenerics",
     "DelayedArray",
     "BiocSingular",
-    "bluster",
     "metapod",
     "beachmat",
     "SparseArray",
@@ -832,7 +827,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "MatrixGenerics",
     "DelayedArray",
     "affyio",
@@ -1416,7 +1410,6 @@
     "MatrixGenerics",
     "DelayedArray",
     "BiocSingular",
-    "bluster",
     "metapod",
     "beachmat",
     "SparseArray",
@@ -1460,7 +1453,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "QFeatures",
     "limma",
@@ -1477,7 +1469,6 @@
     "MatrixGenerics",
     "SparseArray"
   ],
-  "ClusterJudge": [],
   "CoCiteStats": [
     "AnnotationDbi",
     "KEGGREST"
@@ -1614,7 +1605,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "QFeatures",
     "limma",
@@ -1661,7 +1651,6 @@
     "MSnbase",
     "limma",
     "vsn",
-    "pcaMethods",
     "PSMatch",
     "affy",
     "MatrixGenerics",
@@ -1724,7 +1713,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "DFP": [],
   "DMCFB": [
     "SummarizedExperiment",
     "rtracklayer",
@@ -1786,7 +1774,6 @@
   "DNABarcodeCompatibility": [],
   "DNABarcodes": [],
   "DNAcycP2": [],
-  "DNAshapeR": [],
   "DOSE": [
     "AnnotationDbi",
     "fgsea",
@@ -1890,9 +1877,7 @@
     "rhdf5filters",
     "GenomicAlignments"
   ],
-  "DeconRNASeq": [
-    "pcaMethods"
-  ],
+  "DeconRNASeq": [],
   "DeconvoBuddies": [
     "AnnotationHub",
     "ExperimentHub",
@@ -1906,7 +1891,6 @@
     "MatrixGenerics",
     "DelayedArray",
     "BiocSingular",
-    "bluster",
     "metapod",
     "beachmat",
     "SpatialExperiment",
@@ -2034,7 +2018,6 @@
     "edgeR",
     "limma",
     "MatrixGenerics",
-    "bluster",
     "metapod",
     "SparseArray"
   ],
@@ -2460,7 +2443,6 @@
     "ensembldb",
     "BiocSingular",
     "limma",
-    "bluster",
     "metapod",
     "biomaRt",
     "KEGGREST",
@@ -2481,7 +2463,6 @@
     "GenomicFeatures",
     "HDF5Array",
     "OUTRIDER",
-    "pcaMethods",
     "rhdf5",
     "KEGGREST",
     "rtracklayer",
@@ -2536,7 +2517,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "G4SNVHunter": [],
   "GA4GHclient": [
     "VariantAnnotation",
     "MatrixGenerics",
@@ -2603,7 +2583,6 @@
     "DOSE",
     "biomaRt",
     "pathview",
-    "GenomicDataCommons",
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
@@ -2814,7 +2793,6 @@
     "Rsamtools",
     "limma"
   ],
-  "GeneExpressionSignature": [],
   "GeneMeta": [
     "genefilter",
     "MatrixGenerics",
@@ -2853,7 +2831,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "GenomicDataCommons": [],
   "GenomicDistributions": [],
   "GenomicFeatures": [
     "AnnotationDbi",
@@ -3299,7 +3276,6 @@
     "GenomicAlignments",
     "Rsamtools",
     "DESeq2",
-    "plgem",
     "rtracklayer",
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -3332,7 +3308,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "MatrixGenerics",
     "DelayedArray",
     "affyio",
@@ -3590,7 +3565,6 @@
     "KEGGREST"
   ],
   "MAI": [
-    "pcaMethods",
     "SummarizedExperiment",
     "MatrixGenerics",
     "DelayedArray",
@@ -3607,7 +3581,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "MatrixGenerics",
     "DelayedArray",
     "affyio",
@@ -3776,7 +3749,6 @@
     "SummarizedExperiment",
     "mia",
     "SingleCellExperiment",
-    "bluster",
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
@@ -3925,7 +3897,6 @@
     "MatrixGenerics",
     "DelayedArray",
     "BiocSingular",
-    "bluster",
     "metapod",
     "beachmat",
     "Rsamtools",
@@ -3936,7 +3907,6 @@
     "SummarizedExperiment",
     "BiocSingular",
     "SingleCellExperiment",
-    "bluster",
     "fgsea",
     "scran",
     "DelayedArray",
@@ -3961,7 +3931,6 @@
   ],
   "MSPrep": [
     "SummarizedExperiment",
-    "pcaMethods",
     "sva",
     "MatrixGenerics",
     "DelayedArray",
@@ -3985,7 +3954,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "limma",
     "QFeatures",
@@ -3999,7 +3967,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "QFeatures",
     "limma",
@@ -4040,7 +4007,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "QFeatures",
     "limma",
@@ -4056,7 +4022,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "QFeatures",
     "limma",
@@ -4108,13 +4073,11 @@
     "limma",
     "Wrench"
   ],
-  "MassArray": [],
   "MatrixGenerics": [],
   "MatrixQCvis": [
     "SummarizedExperiment",
     "ExperimentHub",
     "limma",
-    "pcaMethods",
     "proDA",
     "sva",
     "vsn",
@@ -4507,7 +4470,6 @@
   "MultiBaC": [
     "MultiAssayExperiment",
     "ropls",
-    "pcaMethods",
     "SummarizedExperiment",
     "DelayedArray",
     "MultiDataSet",
@@ -4746,7 +4708,6 @@
     "GenomicFeatures",
     "SummarizedExperiment",
     "DESeq2",
-    "pcaMethods",
     "txdbmaker",
     "MatrixGenerics",
     "AnnotationDbi",
@@ -4773,9 +4734,7 @@
     "KEGGREST"
   ],
   "OpenStats": [],
-  "OrderedList": [
-    "twilight"
-  ],
+  "OrderedList": [],
   "Organism.dplyr": [
     "GenomicFeatures",
     "AnnotationDbi",
@@ -4961,7 +4920,6 @@
     "DEqMS",
     "PSMatch",
     "affy",
-    "pcaMethods",
     "DESeq2",
     "fgsea",
     "mixOmics",
@@ -5053,7 +5011,6 @@
   "PhenoGeneRanker": [],
   "PhosR": [
     "limma",
-    "pcaMethods",
     "SummarizedExperiment",
     "MatrixGenerics",
     "DelayedArray",
@@ -5098,7 +5055,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "QFeatures",
     "limma",
@@ -5114,7 +5070,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "QFeatures",
     "limma",
@@ -5406,7 +5361,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "QFeatures",
     "limma",
@@ -5563,7 +5517,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RTCA": [],
   "RTCGAToolbox": [
     "DelayedArray",
     "RaggedExperiment",
@@ -5573,7 +5526,6 @@
     "SparseArray",
     "AnnotationDbi",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "MultiAssayExperiment",
     "KEGGREST",
     "rtracklayer",
@@ -5582,7 +5534,6 @@
   ],
   "RTN": [
     "RedeR",
-    "viper",
     "limma",
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -5592,7 +5543,6 @@
   "RTNduals": [
     "RTN",
     "RedeR",
-    "viper",
     "limma",
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -5603,7 +5553,6 @@
     "RTN",
     "RTNduals",
     "RedeR",
-    "viper",
     "limma",
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -5640,7 +5589,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RUVnormalize": [],
   "RadioGx": [
     "CoreGx",
     "SummarizedExperiment",
@@ -6403,7 +6351,6 @@
     "MatrixGenerics",
     "DelayedArray",
     "BiocSingular",
-    "bluster",
     "metapod",
     "beachmat",
     "SparseArray",
@@ -6443,7 +6390,6 @@
   "SomaticSignatures": [
     "VariantAnnotation",
     "ggbio",
-    "pcaMethods",
     "biovizBase",
     "SummarizedExperiment",
     "Rsamtools",
@@ -6472,7 +6418,6 @@
     "MatrixGenerics",
     "DelayedArray",
     "BiocSingular",
-    "bluster",
     "metapod",
     "beachmat",
     "SparseArray",
@@ -6498,7 +6443,6 @@
     "MatrixGenerics",
     "BiocSingular",
     "limma",
-    "bluster",
     "metapod",
     "ScaledMatrix",
     "sparseMatrixStats",
@@ -6796,7 +6740,6 @@
   "TCGAutils": [
     "AnnotationDbi",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "MultiAssayExperiment",
     "RaggedExperiment",
     "SummarizedExperiment",
@@ -7296,7 +7239,6 @@
   ],
   "Voyager": [
     "SpatialFeatureExperiment",
-    "bluster",
     "DelayedArray",
     "MatrixGenerics",
     "SingleCellExperiment",
@@ -7363,7 +7305,6 @@
     "KEGGREST",
     "BSgenome",
     "ggbio",
-    "pcaMethods",
     "MatrixGenerics",
     "SummarizedExperiment",
     "Rsamtools",
@@ -7951,7 +7892,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "MLInterfaces",
     "biomaRt",
     "affyio",
@@ -8125,7 +8065,6 @@
     "DelayedArray",
     "MatrixGenerics",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
@@ -8235,7 +8174,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "bluster": [],
   "bnbc": [
     "SummarizedExperiment",
     "rhdf5",
@@ -8372,7 +8310,6 @@
     "MatrixGenerics",
     "AnnotationDbi",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "KEGGREST",
     "SparseArray",
     "rtracklayer",
@@ -8436,13 +8373,11 @@
     "MatrixGenerics",
     "DelayedArray",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "cancerclass": [],
   "casper": [
     "GenomicFeatures",
     "limma",
@@ -8481,7 +8416,6 @@
     "KEGGREST",
     "DelayedArray",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
@@ -8520,7 +8454,6 @@
     "BiocSingular",
     "edgeR",
     "limma",
-    "bluster",
     "metapod",
     "ScaledMatrix"
   ],
@@ -8584,7 +8517,6 @@
     "scuttle",
     "wiggleplotr",
     "batchelor",
-    "bluster",
     "ensembldb",
     "GenomicFeatures",
     "SummarizedExperiment",
@@ -8610,7 +8542,6 @@
     "SingleCellExperiment",
     "scater",
     "batchelor",
-    "bluster",
     "ensembldb",
     "GenomicFeatures",
     "scran",
@@ -8647,7 +8578,6 @@
     "scran",
     "scuttle",
     "batchelor",
-    "bluster",
     "ensembldb",
     "GenomicFeatures",
     "SummarizedExperiment",
@@ -8801,7 +8731,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
@@ -8816,7 +8745,6 @@
   "clustComp": [],
   "clustSIGNAL": [
     "SpatialExperiment",
-    "bluster",
     "scater",
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -8908,7 +8836,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "cogena": [],
   "cogeqc": [],
   "comapr": [
     "SummarizedExperiment",
@@ -8945,7 +8872,6 @@
     "limma"
   ],
   "concordexR": [
-    "bluster",
     "DelayedArray",
     "SingleCellExperiment",
     "sparseMatrixStats",
@@ -8979,7 +8905,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "limma",
-    "pcaMethods",
     "Rsamtools",
     "RUVSeq",
     "SummarizedExperiment",
@@ -9087,7 +9012,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "MatrixGenerics",
     "DelayedArray",
     "affyio",
@@ -9437,12 +9361,10 @@
     "SparseArray"
   ],
   "dandelionR": [
-    "bluster",
     "destiny",
     "miloR",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "pcaMethods",
     "edgeR",
     "MatrixGenerics",
     "BiocSingular",
@@ -9459,7 +9381,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
-    "bluster",
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
@@ -9537,7 +9458,6 @@
     "ScaledMatrix",
     "edgeR",
     "limma",
-    "bluster",
     "metapod"
   ],
   "deconvR": [
@@ -9651,7 +9571,6 @@
     "biomaRt"
   ],
   "destiny": [
-    "pcaMethods",
     "SummarizedExperiment",
     "SingleCellExperiment",
     "DelayedArray",
@@ -9700,7 +9619,6 @@
   "diffcoexp": [
     "SummarizedExperiment",
     "multtest",
-    "pcaMethods",
     "MatrixGenerics",
     "DelayedArray",
     "AnnotationDbi",
@@ -9717,9 +9635,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "diggit": [
-    "viper"
-  ],
+  "diggit": [],
   "dinoR": [
     "SummarizedExperiment",
     "edgeR",
@@ -10005,7 +9921,6 @@
     "AnnotationHub",
     "ExperimentHub",
     "SummarizedExperiment",
-    "bluster",
     "scran",
     "scuttle",
     "AUCell",
@@ -10059,7 +9974,6 @@
     "BiocSingular",
     "edgeR",
     "limma",
-    "bluster",
     "metapod",
     "KEGGREST",
     "ScaledMatrix",
@@ -10249,7 +10163,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "factDesign": [],
   "factR": [
     "GenomicFeatures",
     "rtracklayer",
@@ -10293,7 +10206,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "fenr": [],
   "ffpe": [
     "affy",
     "lumi",
@@ -10351,7 +10263,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "MatrixGenerics",
     "DelayedArray",
     "affyio",
@@ -10717,7 +10628,6 @@
     "DelayedArray",
     "MatrixGenerics",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "RaggedExperiment",
     "KEGGREST",
     "SparseArray",
@@ -11097,7 +11007,6 @@
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
     "MultiAssayExperiment",
-    "bluster",
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
@@ -11213,7 +11122,6 @@
   ],
   "interacCircos": [],
   "interactiveDisplay": [
-    "interactiveDisplayBase",
     "Category",
     "AnnotationDbi",
     "KEGGREST",
@@ -11222,7 +11130,6 @@
     "annotate",
     "MatrixGenerics"
   ],
-  "interactiveDisplayBase": [],
   "ipdDb": [
     "AnnotationDbi",
     "AnnotationHub",
@@ -11307,7 +11214,6 @@
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
-    "bluster",
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
@@ -11377,7 +11283,6 @@
     "limma",
     "fgsea",
     "ropls",
-    "pcaMethods",
     "MultiAssayExperiment",
     "MultiDataSet",
     "MatrixGenerics",
@@ -11451,7 +11356,6 @@
     "MatrixGenerics",
     "DelayedArray",
     "BiocSingular",
-    "bluster",
     "metapod",
     "beachmat",
     "SparseArray",
@@ -11512,7 +11416,6 @@
     "affyio",
     "KEGGREST"
   ],
-  "maSigPro": [],
   "maaslin3": [
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
@@ -11662,7 +11565,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "MatrixGenerics",
     "DelayedArray",
     "affyio",
@@ -12020,7 +11922,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "miRcomp": [],
   "miRspongeR": [
     "SPONGE",
     "clusterProfiler",
@@ -12040,7 +11941,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
-    "bluster",
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
@@ -12065,7 +11965,6 @@
     "rhdf5",
     "miaViz",
     "MultiAssayExperiment",
-    "bluster",
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
@@ -12096,7 +11995,6 @@
     "MatrixGenerics",
     "SparseArray",
     "MultiAssayExperiment",
-    "bluster",
     "DECIPHER",
     "DelayedMatrixStats",
     "scuttle",
@@ -12391,7 +12289,6 @@
     "MatrixGenerics",
     "DelayedArray",
     "BiocSingular",
-    "bluster",
     "metapod",
     "beachmat",
     "SparseArray",
@@ -12432,7 +12329,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "QFeatures",
     "limma",
@@ -12451,7 +12347,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "QFeatures",
     "MultiAssayExperiment",
@@ -12537,8 +12432,7 @@
     "MatrixGenerics",
     "sparseMatrixStats",
     "edgeR",
-    "limma",
-    "bluster"
+    "limma"
   ],
   "muscat": [
     "DESeq2",
@@ -12595,7 +12489,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "MatrixGenerics",
     "DelayedArray",
     "affyio",
@@ -12776,7 +12669,6 @@
     "MultiAssayExperiment",
     "vsn",
     "affy",
-    "pcaMethods",
     "DelayedArray",
     "QFeatures",
     "MatrixGenerics",
@@ -12800,7 +12692,6 @@
     "SparseArray",
     "AnnotationDbi",
     "annotate",
-    "pcaMethods",
     "KEGGREST"
   ],
   "omicade4": [
@@ -12913,7 +12804,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "KEGGREST",
     "MatrixGenerics",
@@ -12929,7 +12819,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "MLInterfaces",
     "biomaRt",
     "affyio",
@@ -13057,7 +12946,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "pcaMethods": [],
   "pdInfoBuilder": [
     "affxparser",
     "oligo",
@@ -13073,7 +12961,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "QFeatures",
     "limma",
@@ -13196,7 +13083,6 @@
     "BiocSingular",
     "edgeR",
     "limma",
-    "bluster",
     "metapod",
     "ScaledMatrix"
   ],
@@ -13218,7 +13104,6 @@
     "SparseArray"
   ],
   "plasmut": [],
-  "plgem": [],
   "plier": [
     "affy",
     "affyio"
@@ -13264,7 +13149,6 @@
   ],
   "pmm": [],
   "pmp": [
-    "pcaMethods",
     "SummarizedExperiment",
     "MatrixGenerics",
     "DelayedArray",
@@ -13281,7 +13165,6 @@
     "SparseArray"
   ],
   "poem": [
-    "bluster",
     "SpatialExperiment",
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -13485,7 +13368,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "rhdf5filters",
     "affyio",
     "QFeatures",
@@ -13524,7 +13406,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "affyio",
     "QFeatures",
     "MultiAssayExperiment",
@@ -13721,7 +13602,6 @@
   "rain": [
     "multtest"
   ],
-  "ramr": [],
   "ramwas": [
     "GenomicAlignments",
     "Rsamtools",
@@ -13884,9 +13764,7 @@
     "SparseArray"
   ],
   "retrofit": [],
-  "rexposome": [
-    "pcaMethods"
-  ],
+  "rexposome": [],
   "rfPred": [
     "Rsamtools"
   ],
@@ -13970,8 +13848,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "rigvf": [],
-  "rmelting": [],
   "rmspc": [
     "rtracklayer",
     "Rsamtools",
@@ -14196,7 +14072,6 @@
     "MatrixGenerics",
     "DelayedArray",
     "BiocSingular",
-    "bluster",
     "metapod",
     "beachmat",
     "SparseArray",
@@ -14225,7 +14100,6 @@
     "scran",
     "scater",
     "scuttle",
-    "bluster",
     "DelayedArray",
     "Rsamtools",
     "rtracklayer",
@@ -14248,7 +14122,6 @@
   "scDiagnostics": [
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "bluster",
     "DelayedArray",
     "MatrixGenerics",
     "SparseArray"
@@ -14298,7 +14171,6 @@
     "rhdf5",
     "GenomicAlignments",
     "scuttle",
-    "bluster",
     "metapod",
     "rhdf5filters"
   ],
@@ -14353,7 +14225,6 @@
     "sparseMatrixStats",
     "edgeR",
     "limma",
-    "bluster",
     "metapod"
   ],
   "scMitoMut": [
@@ -14471,7 +14342,6 @@
     "BiocSingular",
     "edgeR",
     "limma",
-    "bluster",
     "metapod",
     "ScaledMatrix",
     "AnnotationDbi",
@@ -14524,7 +14394,6 @@
   ],
   "scde": [
     "edgeR",
-    "pcaMethods",
     "limma"
   ],
   "scds": [
@@ -14608,7 +14477,6 @@
     "MatrixGenerics",
     "DelayedArray",
     "BiocSingular",
-    "bluster",
     "metapod",
     "beachmat",
     "SparseArray",
@@ -14951,7 +14819,6 @@
     "GenomicAlignments",
     "rhdf5filters"
   ],
-  "sigsquared": [],
   "simPIC": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -15266,7 +15133,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "spkTools": [],
   "splatter": [
     "SingleCellExperiment",
     "edgeR",
@@ -15312,7 +15178,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "MsFeatures",
     "affyio",
     "MultiAssayExperiment",
@@ -15596,7 +15461,6 @@
     "MatrixGenerics",
     "AnnotationDbi",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "KEGGREST",
     "SparseArray",
     "rtracklayer",
@@ -15697,7 +15561,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "QFeatures",
     "affyio",
     "MultiAssayExperiment",
@@ -15856,7 +15719,6 @@
     "limma",
     "edgeR"
   ],
-  "twilight": [],
   "txcutr": [
     "AnnotationDbi",
     "GenomicFeatures",
@@ -15955,7 +15817,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "viper": [],
   "visiumStitched": [
     "SpatialExperiment",
     "DropletUtils",
@@ -16120,7 +15981,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "pcaMethods",
     "MatrixGenerics",
     "DelayedArray",
     "affyio",

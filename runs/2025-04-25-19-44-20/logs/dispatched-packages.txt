@@ -731,3 +731,7 @@ GateFinder
 cyanoFilter
 ddPCRclust
 flowCut
+DeconRNASeq
+OrderedList
+diggit
+rexposome
