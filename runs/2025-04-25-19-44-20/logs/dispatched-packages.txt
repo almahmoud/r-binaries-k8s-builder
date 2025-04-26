@@ -888,3 +888,6 @@ mosbi
 orthogene
 rhdf5client
 sketchR
+IHW
+altcdfenvs
+panelcn.mops

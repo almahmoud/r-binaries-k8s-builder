@@ -130,7 +130,6 @@
     "SummarizedExperiment",
     "MultiAssayExperiment"
   ],
-  "AffyRNADegradation": [],
   "AgiMicroRna": [
     "limma",
     "affycoretools",
@@ -586,7 +585,6 @@
     "genefilter",
     "annotate"
   ],
-  "CNVPanelizer": [],
   "CNVRanger": [
     "RaggedExperiment",
     "GDSArray",
@@ -852,7 +850,6 @@
   ],
   "CircSeqAlignTk": [
     "ShortRead",
-    "Rbowtie2",
     "Rhisat2",
     "txdbmaker",
     "SGSeq",
@@ -1527,7 +1524,6 @@
   "FeatSeekR": [
     "SummarizedExperiment"
   ],
-  "FilterFFPE": [],
   "FindIT2": [
     "rtracklayer",
     "GenomicFeatures",
@@ -1939,9 +1935,7 @@
   "IFAA": [
     "SummarizedExperiment"
   ],
-  "IHW": [
-    "lpsymphony"
-  ],
+  "IHW": [],
   "ILoReg": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -3389,7 +3383,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "Rbowtie2": [],
   "RcisTarget": [
     "AUCell",
     "GSEABase",
@@ -3649,7 +3642,6 @@
     "biomformat",
     "multtest"
   ],
-  "SICtools": [],
   "SIM": [
     "globaltest",
     "annotate"
@@ -3784,7 +3776,6 @@
     "biomformat",
     "multtest"
   ],
-  "SimFFPE": [],
   "SingleCellAlleleExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -4073,7 +4064,6 @@
     "SummarizedExperiment",
     "HDF5Array"
   ],
-  "TEQC": [],
   "TFBSTools": [
     "BSgenome",
     "rtracklayer",
@@ -4408,7 +4398,6 @@
     "AnnotationHub"
   ],
   "adverSCarial": [],
-  "affyContam": [],
   "affyILM": [
     "gcrma"
   ],
@@ -4568,9 +4557,7 @@
     "HDF5Array",
     "GenomicAlignments"
   ],
-  "altcdfenvs": [
-    "makecdfenv"
-  ],
+  "altcdfenvs": [],
   "amplican": [
     "ShortRead",
     "GenomicAlignments",
@@ -4618,7 +4605,6 @@
   ],
   "arrayMvout": [
     "parody",
-    "affyContam",
     "lumi",
     "methylumi",
     "GenomicFeatures",
@@ -5267,7 +5253,6 @@
   "cmapR": [
     "SummarizedExperiment"
   ],
-  "cn.mops": [],
   "coMethDMR": [
     "AnnotationHub",
     "bumphunter",
@@ -6067,7 +6052,6 @@
   "esATAC": [
     "ShortRead",
     "pipeFrame",
-    "Rbowtie2",
     "rtracklayer",
     "ChIPseeker",
     "clusterProfiler",
@@ -6107,7 +6091,6 @@
   "esetVis": [
     "MLP"
   ],
-  "eudysbiome": [],
   "evaluomeR": [
     "SummarizedExperiment",
     "MultiAssayExperiment"
@@ -6801,7 +6784,6 @@
     "limma"
   ],
   "logicFS": [],
-  "lpsymphony": [],
   "lumi": [
     "methylumi",
     "GenomicFeatures",
@@ -6878,7 +6860,6 @@
     "SummarizedExperiment",
     "GenomicAlignments"
   ],
-  "makecdfenv": [],
   "mariner": [
     "InteractionSet",
     "plyranges",
@@ -7160,7 +7141,6 @@
     "annotate",
     "biomaRt"
   ],
-  "miRNAmeConverter": [],
   "miRNAtap": [],
   "miRSM": [
     "BicARE",
@@ -7771,10 +7751,7 @@
   "pairkat": [
     "SummarizedExperiment"
   ],
-  "panelcn.mops": [
-    "cn.mops"
-  ],
-  "panp": [],
+  "panelcn.mops": [],
   "parglms": [],
   "parody": [],
   "partCNV": [
@@ -8346,7 +8323,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "rnaseqcomp": [],
   "roar": [
     "SummarizedExperiment",
     "GenomicAlignments",
@@ -8701,8 +8677,7 @@
     "IHW",
     "MultiAssayExperiment",
     "SingleCellExperiment",
-    "SummarizedExperiment",
-    "lpsymphony"
+    "SummarizedExperiment"
   ],
   "scran": [
     "SingleCellExperiment",
@@ -9339,7 +9314,6 @@
     "SummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "tidysbml": [],
   "tigre": [
     "annotate"
   ],
