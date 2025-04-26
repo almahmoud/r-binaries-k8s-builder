@@ -254,7 +254,6 @@
   "MinimumDistance": [],
   "MoleculeExperiment": [],
   "Moonlight2R": [],
-  "MoonlightR": [],
   "MungeSumstats": [],
   "NanoMethViz": [],
   "OGRE": [
@@ -519,7 +518,6 @@
     "xcms"
   ],
   "clustSIGNAL": [],
-  "clusterExperiment": [],
   "clusterSeq": [],
   "comapr": [
     "Gviz"
@@ -756,9 +754,7 @@
   "nempi": [
     "epiNEM"
   ],
-  "netSmooth": [
-    "clusterExperiment"
-  ],
+  "netSmooth": [],
   "nnSVG": [],
   "octad": [
     "GSVA"
@@ -924,7 +920,6 @@
   "standR": [],
   "sva": [],
   "svaNUMT": [],
-  "svaRetro": [],
   "systemPipeR": [],
   "tadar": [
     "Gviz"
