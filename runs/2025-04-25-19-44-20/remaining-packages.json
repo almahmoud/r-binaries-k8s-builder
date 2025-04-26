@@ -121,9 +121,7 @@
     "MIRA",
     "bsseq"
   ],
-  "CRISPRball": [
-    "dittoSeq"
-  ],
+  "CRISPRball": [],
   "CSSQ": [],
   "CTSV": [
     "SpatialExperiment"
@@ -287,10 +285,7 @@
   ],
   "FastqCleaner": [],
   "FindIT2": [],
-  "GA4GHclient": [],
-  "GA4GHshiny": [
-    "GA4GHclient"
-  ],
+  "GA4GHshiny": [],
   "GARS": [
     "DaMiRseq",
     "sva"
@@ -354,7 +349,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "HoloFoodR": [],
   "IMAS": [],
   "IMPCdata": [],
   "INSPEcT": [],
@@ -649,8 +643,7 @@
   ],
   "SNPhood": [],
   "SPIAT": [
-    "SpatialExperiment",
-    "dittoSeq"
+    "SpatialExperiment"
   ],
   "SPLINTER": [
     "Gviz",
@@ -1044,7 +1037,6 @@
     "DEXSeq"
   ],
   "distinct": [],
-  "dittoSeq": [],
   "dominoSignal": [],
   "doppelgangR": [
     "sva"
@@ -1667,7 +1659,6 @@
     "StructuralVariantAnnotation"
   ],
   "systemPipeR": [],
-  "tLOH": [],
   "tRNAdbImport": [],
   "tadar": [
     "Gviz",
@@ -1702,7 +1693,6 @@
   "transformGamPoi": [
     "glmGamPoi"
   ],
-  "transmogR": [],
   "traseR": [],
   "tricycle": [],
   "txcutr": [],

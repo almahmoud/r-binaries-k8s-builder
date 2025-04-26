@@ -1512,3 +1512,8 @@ oligoClasses
 OLINgui
 treeclimbR
 tRNAscanImport
+dittoSeq
+GA4GHclient
+HoloFoodR
+tLOH
+transmogR
