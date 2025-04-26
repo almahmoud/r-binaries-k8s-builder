@@ -199,10 +199,7 @@
   "CTSV": [
     "SpatialExperiment"
   ],
-  "CTdata": [],
-  "CTexploreR": [
-    "CTdata"
-  ],
+  "CTexploreR": [],
   "Category": [
     "genefilter"
   ],
@@ -260,7 +257,6 @@
     "ensembldb"
   ],
   "ChIPseeker": [],
-  "ChIPsim": [],
   "CircSeqAlignTk": [
     "Rhisat2",
     "txdbmaker",
@@ -1066,7 +1062,6 @@
   ],
   "SWATH2stats": [],
   "ScreenR": [],
-  "SemDist": [],
   "SiPSiC": [],
   "SigCheck": [
     "MLInterfaces",
@@ -1330,7 +1325,6 @@
   ],
   "basecallQC": [],
   "bayNorm": [],
-  "beachmat.tiledb": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -1967,7 +1961,6 @@
     "VariantAnnotation"
   ],
   "maskBAD": [],
-  "mastR": [],
   "mbQTL": [],
   "mbkmeans": [],
   "meshes": [],
@@ -2437,7 +2430,6 @@
     "ensembldb"
   ],
   "scviR": [],
-  "segmentSeq": [],
   "selectKSigs": [
     "HiLDA"
   ],
@@ -2574,7 +2566,6 @@
     "EDASeq"
   ],
   "strandCheckR": [],
-  "survClust": [],
   "sva": [
     "genefilter"
   ],
@@ -2671,7 +2662,6 @@
     "SpatialExperiment"
   ],
   "vsclust": [],
-  "waddR": [],
   "wateRmelon": [
     "methylumi",
     "lumi",

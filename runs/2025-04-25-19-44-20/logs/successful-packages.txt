@@ -1352,3 +1352,11 @@ npGSEA
 OLIN
 vissE
 xCell2
+beachmat.tiledb
+ChIPsim
+CTdata
+mastR
+segmentSeq
+SemDist
+survClust
+waddR
