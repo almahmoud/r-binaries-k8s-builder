@@ -1755,3 +1755,9 @@ nullranges
 clusterExperiment
 MoonlightR
 svaRetro
+blacksheepr
+cfdnakit
+iSEEu
+MSstatsShiny
+svaNUMT
+tenXplore

@@ -1958,3 +1958,4 @@ lefser
 miaViz
 tidyomics
 netSmooth
+iSEEfier

@@ -237,7 +237,6 @@
   "MSstatsQCgui": [
     "MSstatsQC"
   ],
-  "MSstatsShiny": [],
   "MatrixQCvis": [
     "sva"
   ],
@@ -471,7 +470,6 @@
   "biomvRCNS": [
     "Gviz"
   ],
-  "blacksheepr": [],
   "bnbc": [
     "sva"
   ],
@@ -502,7 +500,6 @@
     "cBioPortalData",
     "RTCGAToolbox"
   ],
-  "cfdnakit": [],
   "cghMCR": [
     "CNTools"
   ],
@@ -644,13 +641,10 @@
   "iNETgrate": [
     "minfi"
   ],
-  "iSEEfier": [
-    "iSEEu"
-  ],
+  "iSEEfier": [],
   "iSEEtree": [
     "miaViz"
   ],
-  "iSEEu": [],
   "icetea": [],
   "igvR": [],
   "imcRtools": [
@@ -919,12 +913,10 @@
   "stJoincount": [],
   "standR": [],
   "sva": [],
-  "svaNUMT": [],
   "systemPipeR": [],
   "tadar": [
     "Gviz"
   ],
-  "tenXplore": [],
   "tidySpatialExperiment": [],
   "tidyomics": [],
   "topdownr": [],
