@@ -1143,3 +1143,11 @@ MetaboDynamics
 miloR
 mosaics
 VplotR
+BLMA
+CrispRVariants
+multiHiCcompare
+pepStat
+PICB
+ramwas
+ShortRead
+TCseq

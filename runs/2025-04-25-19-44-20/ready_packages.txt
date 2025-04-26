@@ -1,2 +1,15 @@
-HiContacts
-HiCool
+CellBarcode
+ChIPsim
+FastqCleaner
+HiCDOC
+IONiseR
+OTUbase
+RSVSim
+amplican
+basecallQC
+chipseq
+dada2
+easyRNASeq
+nucleR
+segmentSeq
+systemPipeR
