@@ -1805,3 +1805,8 @@ fcScan
 omicplotR
 QuasR
 SMITE
+CoSIA
+diffUTR
+hiReadsProcessor
+maPredictDSC
+sva

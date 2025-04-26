@@ -2,9 +2,7 @@
   "AHMassBank": [
     "AnnotationHubData"
   ],
-  "ASSIGN": [
-    "sva"
-  ],
+  "ASSIGN": [],
   "ASURAT": [],
   "ASpli": [],
   "ATACseqTFEA": [],
@@ -20,23 +18,17 @@
   "BASiCStan": [
     "BASiCS"
   ],
-  "BERT": [
-    "sva"
-  ],
+  "BERT": [],
   "BOBaFIT": [
     "ggbio"
   ],
   "Banksy": [],
-  "BatchQC": [
-    "sva"
-  ],
+  "BatchQC": [],
   "BiSeq": [
     "globaltest"
   ],
   "BindingSiteFinder": [],
-  "BioNERO": [
-    "sva"
-  ],
+  "BioNERO": [],
   "BulkSignalR": [],
   "CAFE": [
     "ggbio"
@@ -65,7 +57,6 @@
     "minfi",
     "DMRcate",
     "globaltest",
-    "sva",
     "wateRmelon",
     "missMethyl",
     "methylumi",
@@ -80,11 +71,9 @@
   ],
   "CircSeqAlignTk": [],
   "CleanUpRNAseq": [
-    "qsmooth",
-    "sva"
+    "qsmooth"
   ],
   "CluMSID": [],
-  "CoSIA": [],
   "CytoMDS": [],
   "CytoPipelineGUI": [],
   "DAMEfinder": [],
@@ -97,15 +86,12 @@
     "methylumi"
   ],
   "DSS": [],
-  "DaMiRseq": [
-    "sva"
-  ],
+  "DaMiRseq": [],
   "Damsel": [
     "ggbio"
   ],
   "DeMixT": [
-    "DSS",
-    "sva"
+    "DSS"
   ],
   "DeconvoBuddies": [],
   "DiffBind": [
@@ -128,12 +114,9 @@
     "ggbio"
   ],
   "GARS": [
-    "DaMiRseq",
-    "sva"
+    "DaMiRseq"
   ],
-  "GEOexplorer": [
-    "sva"
-  ],
+  "GEOexplorer": [],
   "GOTHiC": [],
   "GOstats": [],
   "GSReg": [],
@@ -152,9 +135,7 @@
   "GmicR": [
     "GOstats"
   ],
-  "HarmonizR": [
-    "sva"
-  ],
+  "HarmonizR": [],
   "HiCDCPlus": [
     "GenomicInteractions"
   ],
@@ -164,24 +145,17 @@
   ],
   "ITALICS": [],
   "InPAS": [],
-  "IsoformSwitchAnalyzeR": [
-    "sva"
-  ],
-  "KnowSeq": [
-    "sva"
-  ],
+  "IsoformSwitchAnalyzeR": [],
+  "KnowSeq": [],
   "MAIT": [
     "CAMERA",
     "xcms"
   ],
-  "MBECS": [
-    "sva"
-  ],
+  "MBECS": [],
   "MEAL": [
     "minfi",
     "missMethyl",
-    "methylumi",
-    "sva"
+    "methylumi"
   ],
   "MEAT": [
     "minfi",
@@ -192,9 +166,7 @@
   "MGnifyR": [],
   "MOSClip": [],
   "MOSim": [],
-  "MSPrep": [
-    "sva"
-  ],
+  "MSPrep": [],
   "MSnID": [
     "msmsTests",
     "msmsEDA"
@@ -203,9 +175,7 @@
   "MSstatsQCgui": [
     "MSstatsQC"
   ],
-  "MatrixQCvis": [
-    "sva"
-  ],
+  "MatrixQCvis": [],
   "MetaboSignal": [],
   "MethylAid": [
     "minfi"
@@ -220,19 +190,12 @@
   "MoleculeExperiment": [],
   "MungeSumstats": [],
   "OGRE": [],
-  "PAA": [
-    "sva"
-  ],
-  "POMA": [
-    "sva"
-  ],
+  "PAA": [],
+  "POMA": [],
   "PRONE": [
-    "POMA",
-    "sva"
+    "POMA"
   ],
-  "PROPS": [
-    "sva"
-  ],
+  "PROPS": [],
   "PrInCE": [],
   "Prostar": [
     "DAPAR"
@@ -278,13 +241,9 @@
   "RnaSeqSampleSize": [
     "recount"
   ],
-  "SCAN.UPC": [
-    "sva"
-  ],
+  "SCAN.UPC": [],
   "SEraster": [],
-  "SEtools": [
-    "sva"
-  ],
+  "SEtools": [],
   "SGCP": [
     "GOstats"
   ],
@@ -312,16 +271,14 @@
   "SurfR": [],
   "TBSignatureProfiler": [
     "ASSIGN",
-    "GSVA",
-    "sva"
+    "GSVA"
   ],
   "TFutils": [],
   "TVTB": [],
   "UCell": [],
   "VAExprs": [],
   "VaSP": [
-    "ballgown",
-    "sva"
+    "ballgown"
   ],
   "VariantFiltering": [],
   "VisiumIO": [],
@@ -367,9 +324,7 @@
   "attract": [
     "GOstats"
   ],
-  "ballgown": [
-    "sva"
-  ],
+  "ballgown": [],
   "bandle": [
     "pRoloc"
   ],
@@ -385,12 +340,9 @@
     "RTCGAToolbox"
   ],
   "biomvRCNS": [],
-  "bnbc": [
-    "sva"
-  ],
+  "bnbc": [],
   "bnem": [
-    "epiNEM",
-    "sva"
+    "epiNEM"
   ],
   "borealis": [
     "DSS"
@@ -400,8 +352,7 @@
   ],
   "cageminer": [
     "ggbio",
-    "BioNERO",
-    "sva"
+    "BioNERO"
   ],
   "canceR": [
     "cBioPortalData",
@@ -453,9 +404,7 @@
   "dada2": [],
   "dagLogo": [],
   "dar": [],
-  "debrowser": [
-    "sva"
-  ],
+  "debrowser": [],
   "deconvR": [
     "minfi"
   ],
@@ -463,13 +412,8 @@
     "ggbio"
   ],
   "diffHic": [],
-  "diffUTR": [],
-  "doppelgangR": [
-    "sva"
-  ],
-  "edge": [
-    "sva"
-  ],
+  "doppelgangR": [],
+  "edge": [],
   "enhancerHomologSearch": [],
   "epiNEM": [],
   "epimutacions": [
@@ -516,7 +460,6 @@
   "globaltest": [],
   "gmapR": [],
   "gwasurvivr": [],
-  "hiReadsProcessor": [],
   "hoodscanR": [],
   "iCNV": [],
   "iCheck": [
@@ -555,7 +498,6 @@
   ],
   "mBPCR": [],
   "mCSEA": [],
-  "maPredictDSC": [],
   "maser": [],
   "mbQTL": [],
   "meshr": [],
@@ -623,9 +565,7 @@
     "GSVA"
   ],
   "omXplore": [],
-  "omicRexposome": [
-    "sva"
-  ],
+  "omicRexposome": [],
   "oppar": [
     "GSVA"
   ],
@@ -634,9 +574,7 @@
     "pRoloc"
   ],
   "pageRank": [],
-  "pairedGSEA": [
-    "sva"
-  ],
+  "pairedGSEA": [],
   "pathMED": [
     "GSVA"
   ],
@@ -657,12 +595,8 @@
   "ptairMS": [],
   "puma": [],
   "qPLEXanalyzer": [],
-  "qsmooth": [
-    "sva"
-  ],
-  "qsvaR": [
-    "sva"
-  ],
+  "qsmooth": [],
+  "qsvaR": [],
   "quantro": [
     "minfi"
   ],
@@ -745,7 +679,6 @@
   "srnadiff": [],
   "stJoincount": [],
   "standR": [],
-  "sva": [],
   "systemPipeR": [],
   "tadar": [],
   "tidySpatialExperiment": [],
