@@ -27,7 +27,6 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "ALDEx2": [],
   "AMARETTO": [
     "MultiAssayExperiment"
   ],
@@ -866,7 +865,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "FeatSeekR": [],
   "FindIT2": [
     "rtracklayer",
     "GenomicFeatures",
@@ -2980,7 +2978,6 @@
   "combi": [
     "phyloseq"
   ],
-  "compcodeR": [],
   "concordexR": [
     "SpatialExperiment"
   ],
@@ -3118,7 +3115,6 @@
   "crumblr": [
     "variancePartition"
   ],
-  "csaw": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -3253,7 +3249,6 @@
   "diffHic": [
     "InteractionSet",
     "BSgenome",
-    "csaw",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -3436,7 +3431,6 @@
     "MultiAssayExperiment"
   ],
   "extraChIPs": [
-    "csaw",
     "InteractionSet",
     "rtracklayer",
     "GenomicAlignments"
@@ -3718,7 +3712,6 @@
     "GenomicAlignments",
     "rtracklayer",
     "VariantAnnotation",
-    "csaw",
     "DESeq2",
     "BSgenome"
   ],
@@ -4271,9 +4264,7 @@
     "MultiDataSet",
     "genefilter"
   ],
-  "omicplotR": [
-    "ALDEx2"
-  ],
+  "omicplotR": [],
   "omicsPrint": [
     "MultiAssayExperiment"
   ],
@@ -4398,7 +4389,6 @@
     "SpatialExperiment"
   ],
   "pogos": [],
-  "ppcseq": [],
   "pram": [
     "GenomicAlignments",
     "rtracklayer"

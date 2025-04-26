@@ -1094,3 +1094,8 @@ doseR
 PROPER
 regsplice
 RNAseqCovarImpute
+ALDEx2
+compcodeR
+csaw
+FeatSeekR
+ppcseq
