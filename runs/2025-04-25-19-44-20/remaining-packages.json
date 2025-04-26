@@ -509,7 +509,6 @@
   "Rqc": [
     "GenomicFiles"
   ],
-  "SARC": [],
   "SCAN.UPC": [
     "oligo",
     "GEOquery",
@@ -543,7 +542,6 @@
     "SpatialExperiment"
   ],
   "SWATH2stats": [],
-  "ScreenR": [],
   "SiPSiC": [],
   "SigCheck": [
     "MLInterfaces"
@@ -967,7 +965,6 @@
   "hoodscanR": [
     "SpatialExperiment"
   ],
-  "hummingbird": [],
   "iCNV": [],
   "iCheck": [
     "lumi",
