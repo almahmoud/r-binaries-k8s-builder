@@ -1722,3 +1722,9 @@ Repitools
 SNPhood
 SpatialExperiment
 terraTCGAdata
+chevreulPlot
+FastqCleaner
+mbkmeans
+protGear
+TEKRABber
+zenith

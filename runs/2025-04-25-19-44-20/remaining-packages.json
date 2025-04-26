@@ -152,7 +152,6 @@
   "FLAMES": [
     "ggbio"
   ],
-  "FastqCleaner": [],
   "GARS": [
     "DaMiRseq",
     "sva"
@@ -395,7 +394,6 @@
     "GSVA",
     "sva"
   ],
-  "TEKRABber": [],
   "TFHAZ": [],
   "TFutils": [
     "GenomicFiles"
@@ -524,10 +522,7 @@
   "cghMCR": [
     "CNTools"
   ],
-  "chevreulPlot": [],
-  "chevreulShiny": [
-    "chevreulPlot"
-  ],
+  "chevreulShiny": [],
   "chimeraviz": [
     "Gviz"
   ],
@@ -539,9 +534,7 @@
     "xcms"
   ],
   "clustSIGNAL": [],
-  "clusterExperiment": [
-    "mbkmeans"
-  ],
+  "clusterExperiment": [],
   "clusterSeq": [],
   "comapr": [
     "Gviz"
@@ -605,9 +598,7 @@
   "doppelgangR": [
     "sva"
   ],
-  "dreamlet": [
-    "zenith"
-  ],
+  "dreamlet": [],
   "edge": [
     "sva"
   ],
@@ -718,7 +709,6 @@
     "Gviz"
   ],
   "mbQTL": [],
-  "mbkmeans": [],
   "meshr": [],
   "metaMS": [
     "CAMERA",
@@ -797,8 +787,7 @@
     "epiNEM"
   ],
   "netSmooth": [
-    "clusterExperiment",
-    "mbkmeans"
+    "clusterExperiment"
   ],
   "nnSVG": [],
   "nullranges": [],
@@ -847,7 +836,6 @@
   "profileplyr": [
     "soGGi"
   ],
-  "protGear": [],
   "psichomics": [
     "recount",
     "derfinder",
@@ -1005,6 +993,5 @@
   "yarn": [
     "quantro",
     "minfi"
-  ],
-  "zenith": []
+  ]
 }
