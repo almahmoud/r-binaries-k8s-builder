@@ -1584,3 +1584,9 @@ scDotPlot
 CBNplot
 Dino
 MEB
+artMS
+MIRit
+MultiBaC
+Pigengene
+scviR
+VariantTools

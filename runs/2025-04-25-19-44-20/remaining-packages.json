@@ -349,7 +349,6 @@
   "MIRA": [
     "bsseq"
   ],
-  "MIRit": [],
   "MLInterfaces": [],
   "MOSClip": [],
   "MOSim": [],
@@ -404,7 +403,6 @@
   "MsQuality": [
     "MsExperiment"
   ],
-  "MultiBaC": [],
   "MungeSumstats": [],
   "NBAMSeq": [],
   "NanoMethViz": [
@@ -435,7 +433,6 @@
     "sva"
   ],
   "PanomiR": [],
-  "Pigengene": [],
   "PrInCE": [
     "MSnbase"
   ],
@@ -634,7 +631,6 @@
   "VariantFiltering": [
     "Gviz"
   ],
-  "VariantTools": [],
   "VisiumIO": [
     "SpatialExperiment"
   ],
@@ -700,7 +696,6 @@
   "arrayQualityMetrics": [
     "affyPLM"
   ],
-  "artMS": [],
   "atSNP": [
     "motifStack"
   ],
@@ -1004,7 +999,6 @@
     "GEOquery"
   ],
   "iNETgrate": [
-    "Pigengene",
     "minfi",
     "OrganismDbi",
     "GEOquery"
@@ -1371,7 +1365,6 @@
     "ggbio",
     "OrganismDbi"
   ],
-  "scviR": [],
   "selectKSigs": [],
   "seqArchRplus": [],
   "seqCAT": [],
