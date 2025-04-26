@@ -31,8 +31,7 @@
   ],
   "BASiCS": [],
   "BASiCStan": [
-    "BASiCS",
-    "glmGamPoi"
+    "BASiCS"
   ],
   "BBCAnalyzer": [],
   "BERT": [
@@ -123,7 +122,6 @@
     "frma",
     "oligo"
   ],
-  "ChIPexoQual": [],
   "CircSeqAlignTk": [],
   "CiteFuse": [],
   "CleanUpRNAseq": [
@@ -455,7 +453,6 @@
     "oligo",
     "sva"
   ],
-  "SCArray.sat": [],
   "SEraster": [
     "SpatialExperiment"
   ],
@@ -752,7 +749,6 @@
     "Gviz"
   ],
   "cydar": [],
-  "cytofQC": [],
   "cytomapper": [
     "SpatialExperiment"
   ],
@@ -866,7 +862,6 @@
   "ggspavis": [
     "SpatialExperiment"
   ],
-  "glmGamPoi": [],
   "glmSparseNet": [],
   "globaltest": [],
   "gmapR": [],
@@ -915,9 +910,7 @@
   "lefser": [
     "mia"
   ],
-  "lemur": [
-    "glmGamPoi"
-  ],
+  "lemur": [],
   "lipidr": [],
   "lisaClust": [
     "spicyR",
@@ -1104,11 +1097,9 @@
   "primirTSS": [
     "Gviz"
   ],
-  "proActiv": [],
   "proBAMr": [],
   "profileplyr": [
-    "soGGi",
-    "rGREAT"
+    "soGGi"
   ],
   "protGear": [],
   "psichomics": [
@@ -1135,7 +1126,6 @@
     "minfi"
   ],
   "rCGH": [],
-  "rGREAT": [],
   "raer": [],
   "recount": [
     "derfinder",
@@ -1256,7 +1246,6 @@
     "cytomapper"
   ],
   "spiky": [],
-  "spillR": [],
   "spoon": [
     "SpatialExperiment",
     "nnSVG"
@@ -1306,9 +1295,7 @@
     "Gviz"
   ],
   "tradeSeq": [],
-  "transformGamPoi": [
-    "glmGamPoi"
-  ],
+  "transformGamPoi": [],
   "traseR": [],
   "tricycle": [],
   "uncoverappLib": [

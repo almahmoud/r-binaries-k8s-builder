@@ -1,7 +1,2 @@
-DSS
-MIRA
-NanoMethViz
-TOP
-condiments
-scRNAseqApp
-tradeSeq
+lemur
+transformGamPoi

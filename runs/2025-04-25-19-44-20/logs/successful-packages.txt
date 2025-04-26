@@ -1657,3 +1657,10 @@ scMET
 SCOPE
 slingshot
 wavClusteR
+ChIPexoQual
+cytofQC
+glmGamPoi
+proActiv
+rGREAT
+SCArray.sat
+spillR
