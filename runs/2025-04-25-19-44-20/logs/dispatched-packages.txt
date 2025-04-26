@@ -590,3 +590,9 @@ ClustAll
 InteractiveComplexHeatmap
 cola
 simona
+Cardinal
+DEGraph
+MEIGOR
+SIMAT
+TargetDecoy
+msPurity

@@ -263,3 +263,14 @@ MOGAMUN
 PhenStat
 sevenbridges
 TRONCO
+CardinalIO
+CNORdt
+CNORfeeder
+CNORfuzzy
+CNORode
+hmdbQuery
+lpNet
+mzR
+NCIgraph
+Polytect
+S4Arrays
