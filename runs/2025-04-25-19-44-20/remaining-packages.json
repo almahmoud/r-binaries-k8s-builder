@@ -355,7 +355,6 @@
   ],
   "SVP": [],
   "SWATH2stats": [],
-  "SiPSiC": [],
   "SigCheck": [
     "MLInterfaces"
   ],
@@ -385,7 +384,6 @@
   "TFutils": [
     "GenomicFiles"
   ],
-  "TOP": [],
   "TPP": [],
   "TVTB": [
     "Gviz"
@@ -503,7 +501,6 @@
   "cghMCR": [
     "CNTools"
   ],
-  "chevreulShiny": [],
   "chimeraviz": [
     "Gviz"
   ],
@@ -570,7 +567,6 @@
   ],
   "diffHic": [],
   "diffUTR": [],
-  "dominoSignal": [],
   "doppelgangR": [
     "sva"
   ],
@@ -719,7 +715,6 @@
   ],
   "miaSim": [],
   "miaViz": [],
-  "microSTASIS": [],
   "mimager": [
     "oligo"
   ],
@@ -783,7 +778,6 @@
   "peco": [],
   "phantasus": [],
   "phenoTest": [],
-  "plyinteractions": [],
   "poem": [],
   "preciseTAD": [
     "rCGH"
@@ -792,9 +786,7 @@
     "Gviz"
   ],
   "proBAMr": [],
-  "profileplyr": [
-    "soGGi"
-  ],
+  "profileplyr": [],
   "psichomics": [
     "recount",
     "derfinder",
@@ -885,7 +877,6 @@
   ],
   "smoothclust": [],
   "smoppix": [],
-  "soGGi": [],
   "sosta": [],
   "spaSim": [],
   "spacexr": [],
@@ -924,7 +915,6 @@
   "trackViewer": [
     "Gviz"
   ],
-  "tradeSeq": [],
   "uncoverappLib": [
     "Gviz"
   ],

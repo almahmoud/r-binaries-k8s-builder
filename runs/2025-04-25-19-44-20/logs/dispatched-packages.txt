@@ -1959,3 +1959,4 @@ miaViz
 tidyomics
 netSmooth
 iSEEfier
+profileplyr

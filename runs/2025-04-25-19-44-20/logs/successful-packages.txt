@@ -1761,3 +1761,11 @@ iSEEu
 MSstatsShiny
 svaNUMT
 tenXplore
+chevreulShiny
+dominoSignal
+microSTASIS
+plyinteractions
+SiPSiC
+soGGi
+TOP
+tradeSeq
