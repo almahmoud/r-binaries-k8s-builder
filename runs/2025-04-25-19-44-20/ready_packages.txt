@@ -1,12 +1,2 @@
-ADAPT
-PathoStat
-RCM
-RPA
-SIAMCAT
-SPsimSeq
-SimBu
-combi
-microbiome
-microbiomeDASim
-reconsi
-zitools
+coseq
+scTGIF

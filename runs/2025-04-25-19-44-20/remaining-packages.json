@@ -72,7 +72,6 @@
   "BBCAnalyzer": [
     "VariantAnnotation"
   ],
-  "BEAT": [],
   "BERT": [
     "sva"
   ],
@@ -84,7 +83,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "BSgenomeForge": [],
   "BUSpaRse": [
     "ensembldb"
   ],
@@ -223,12 +221,10 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ChIPComp": [],
   "ChIPQC": [
     "DiffBind",
     "chipseq",
-    "systemPipeR",
-    "GreyListChIP"
+    "systemPipeR"
   ],
   "ChIPXpress": [
     "GEOquery",
@@ -329,8 +325,7 @@
     "txdbmaker"
   ],
   "DiffBind": [
-    "systemPipeR",
-    "GreyListChIP"
+    "systemPipeR"
   ],
   "DifferentialRegulation": [],
   "Dino": [],
@@ -366,7 +361,6 @@
     "bumphunter",
     "GEOquery"
   ],
-  "ERSSA": [],
   "EasyCellType": [
     "clusterProfiler"
   ],
@@ -492,13 +486,11 @@
     "Category",
     "GOstats"
   ],
-  "GreyListChIP": [],
   "Gviz": [
     "ensembldb",
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HTSFilter": [],
   "HarmonizR": [
     "sva"
   ],
@@ -741,7 +733,6 @@
     "sva"
   ],
   "PECA": [],
-  "PIUMA": [],
   "PLSDAbatch": [],
   "POMA": [
     "sva"
@@ -825,8 +816,7 @@
   ],
   "RFLOMICS": [
     "coseq",
-    "clusterProfiler",
-    "HTSFilter"
+    "clusterProfiler"
   ],
   "RJMCMCNucleosomes": [],
   "RMassBank": [
@@ -1398,9 +1388,7 @@
     "GEOquery"
   ],
   "convert": [],
-  "coseq": [
-    "HTSFilter"
-  ],
+  "coseq": [],
   "cosmiq": [
     "xcms",
     "MSnbase",
@@ -1631,7 +1619,6 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "flowBin": [],
   "flowGate": [],
   "flowcatchR": [],
   "frma": [
@@ -2220,9 +2207,7 @@
     "slingshot"
   ],
   "scRepertoire": [],
-  "scTGIF": [
-    "schex"
-  ],
+  "scTGIF": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData",
@@ -2235,8 +2220,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "sccomp": [],
-  "schex": [],
   "scider": [
     "SpatialExperiment"
   ],
@@ -2469,7 +2452,6 @@
   "visiumStitched": [
     "SpatialExperiment"
   ],
-  "vsclust": [],
   "wateRmelon": [
     "methylumi",
     "lumi",

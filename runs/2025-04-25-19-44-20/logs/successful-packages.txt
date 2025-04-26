@@ -1376,3 +1376,14 @@ TrajectoryUtils
 phyloseq
 ProteoMM
 scDiagnostics
+BEAT
+BSgenomeForge
+ChIPComp
+ERSSA
+flowBin
+GreyListChIP
+HTSFilter
+PIUMA
+sccomp
+schex
+vsclust
