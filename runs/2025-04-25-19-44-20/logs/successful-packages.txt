@@ -1136,3 +1136,10 @@ GenomicSuperSignature
 MetNet
 MultiAssayExperiment
 Rnits
+breakpointR
+HiCExperiment
+MDTS
+MetaboDynamics
+miloR
+mosaics
+VplotR

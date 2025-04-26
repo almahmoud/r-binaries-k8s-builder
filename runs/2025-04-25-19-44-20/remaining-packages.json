@@ -920,13 +920,8 @@
   "HiCDOC": [
     "multiHiCcompare"
   ],
-  "HiCExperiment": [],
-  "HiContacts": [
-    "HiCExperiment"
-  ],
-  "HiCool": [
-    "HiCExperiment"
-  ],
+  "HiContacts": [],
+  "HiCool": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome",
@@ -1036,7 +1031,6 @@
     "sva",
     "genefilter"
   ],
-  "MDTS": [],
   "MEAL": [
     "MultiDataSet",
     "minfi",
@@ -1178,7 +1172,6 @@
   "MetaboAnnotation": [
     "QFeatures"
   ],
-  "MetaboDynamics": [],
   "MetaboSignal": [
     "mygene",
     "ensembldb",
@@ -2044,7 +2037,6 @@
     "DropletUtils",
     "scuttle"
   ],
-  "VplotR": [],
   "XDE": [
     "genefilter",
     "GeneMeta"
@@ -2314,7 +2306,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "breakpointR": [],
   "broadSeq": [
     "DELocal",
     "genefilter",
@@ -2673,8 +2664,7 @@
     "rtracklayer"
   ],
   "dandelionR": [
-    "destiny",
-    "miloR"
+    "destiny"
   ],
   "dar": [
     "mia",
@@ -3422,7 +3412,6 @@
   ],
   "microbiomeExplorer": [],
   "midasHLA": [],
-  "miloR": [],
   "mimager": [
     "affyPLM",
     "oligo",
@@ -3469,7 +3458,6 @@
     "TFBSTools",
     "rtracklayer"
   ],
-  "mosaics": [],
   "motifStack": [
     "TFBSTools",
     "BSgenome",

@@ -1391,3 +1391,5 @@ terapadog
 vidger
 vsclust
 xcore
+HiContacts
+HiCool
