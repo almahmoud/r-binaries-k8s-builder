@@ -258,7 +258,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "BRAIN": [],
   "BSgenome": [
     "rtracklayer",
     "GenomicAlignments",
@@ -2646,7 +2645,6 @@
   "MouseFM": [
     "biomaRt"
   ],
-  "MsBackendMassbank": [],
   "MsBackendMgf": [],
   "MsBackendMsp": [],
   "MsBackendSql": [],
@@ -2744,7 +2742,6 @@
     "DESeq2",
     "SummarizedExperiment"
   ],
-  "NetPathMiner": [],
   "NetSAM": [
     "biomaRt"
   ],
@@ -2829,7 +2826,6 @@
     "SummarizedExperiment",
     "limma"
   ],
-  "OmnipathR": [],
   "OncoScore": [
     "biomaRt"
   ],
@@ -5702,13 +5698,11 @@
     "VariantAnnotation",
     "ensembldb",
     "SummarizedExperiment",
-    "demuxmix",
     "GenomicFeatures",
     "rtracklayer",
     "BSgenome",
     "GenomicAlignments"
   ],
-  "demuxmix": [],
   "derfinder": [
     "bumphunter",
     "GenomicAlignments",
@@ -6233,7 +6227,6 @@
   ],
   "gINTomics": [
     "biomaRt",
-    "OmnipathR",
     "edgeR",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -6692,7 +6685,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "kebabs": [],
   "keggorthology": [],
   "kissDE": [
     "DESeq2",
@@ -7613,9 +7605,7 @@
     "annotate",
     "GenomicAlignments"
   ],
-  "odseq": [
-    "kebabs"
-  ],
+  "odseq": [],
   "oligo": [
     "oligoClasses",
     "SummarizedExperiment"
@@ -7988,9 +7978,7 @@
   "proDA": [
     "SummarizedExperiment"
   ],
-  "procoil": [
-    "kebabs"
-  ],
+  "procoil": [],
   "profileScoreDist": [],
   "profileplyr": [
     "SummarizedExperiment",
@@ -9043,7 +9031,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "specL": [],
   "speckle": [
     "limma",
     "edgeR",
@@ -9331,7 +9318,6 @@
   "tomoda": [
     "SummarizedExperiment"
   ],
-  "tomoseqr": [],
   "topconfects": [],
   "topdownr": [
     "MSnbase",
@@ -9580,9 +9566,7 @@
   "wpm": [
     "SummarizedExperiment"
   ],
-  "wppi": [
-    "OmnipathR"
-  ],
+  "wppi": [],
   "xCell2": [
     "SummarizedExperiment",
     "SingleCellExperiment",

@@ -729,3 +729,11 @@ SICtools
 SimFFPE
 TEQC
 tidysbml
+BRAIN
+demuxmix
+kebabs
+MsBackendMassbank
+NetPathMiner
+OmnipathR
+specL
+tomoseqr
