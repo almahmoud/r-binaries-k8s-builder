@@ -1113,3 +1113,13 @@ weitrix
 wpm
 yamss
 zFPKM
+CRImage
+GenomicScores
+MOFA2
+alabaster.bumpy
+alabaster.files
+alabaster.matrix
+alabaster.ranges
+alabaster.string
+beachmat.hdf5
+chihaya
