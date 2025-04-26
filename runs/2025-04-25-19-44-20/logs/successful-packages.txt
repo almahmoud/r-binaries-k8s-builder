@@ -1293,3 +1293,12 @@ scrapper
 TREG
 trio
 CoreGx
+aggregateBioVar
+CONFESS
+DropletUtils
+epigenomix
+geneplotter
+limmaGUI
+OTUbase
+SIMD
+simPIC

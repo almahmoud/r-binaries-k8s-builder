@@ -217,7 +217,6 @@
     "bsseq"
   ],
   "CODEX": [],
-  "CONFESS": [],
   "COTAN": [],
   "CRISPRball": [
     "dittoSeq"
@@ -345,7 +344,6 @@
     "SpatialExperiment"
   ],
   "DEXSeq": [
-    "geneplotter",
     "genefilter"
   ],
   "DMRcate": [
@@ -407,7 +405,6 @@
     "VariantAnnotation"
   ],
   "Doscheda": [],
-  "DropletUtils": [],
   "Dune": [],
   "DuplexDiscovereR": [
     "Gviz",
@@ -432,7 +429,6 @@
     "txdbmaker"
   ],
   "ENmix": [
-    "geneplotter",
     "minfi",
     "genefilter",
     "bumphunter",
@@ -480,7 +476,6 @@
   ],
   "FLAMES": [
     "bambu",
-    "DropletUtils",
     "txdbmaker",
     "ggbio",
     "SpatialExperiment",
@@ -643,7 +638,6 @@
     "GenomicFiles",
     "txdbmaker",
     "DEXSeq",
-    "geneplotter",
     "genefilter",
     "VariantAnnotation"
   ],
@@ -651,7 +645,6 @@
     "DEXSeq",
     "sva",
     "tximeta",
-    "geneplotter",
     "genefilter",
     "txdbmaker",
     "ensembldb"
@@ -791,9 +784,7 @@
     "genefilter",
     "GEOquery"
   ],
-  "MethylSeekR": [
-    "geneplotter"
-  ],
+  "MethylSeekR": [],
   "MicrobiomeProfiler": [
     "clusterProfiler"
   ],
@@ -868,7 +859,6 @@
   "ORFik": [
     "txdbmaker"
   ],
-  "OTUbase": [],
   "OUTRIDER": [
     "txdbmaker"
   ],
@@ -1138,7 +1128,6 @@
   "SIM": [
     "globaltest"
   ],
-  "SIMD": [],
   "SMITE": [
     "goseq",
     "txdbmaker"
@@ -1201,17 +1190,14 @@
   ],
   "Spaniel": [
     "scater",
-    "scran",
-    "DropletUtils"
+    "scran"
   ],
   "SparseSignatures": [],
   "SpatialExperiment": [],
   "SpatialExperimentIO": [
-    "DropletUtils",
     "SpatialExperiment"
   ],
   "SpatialFeatureExperiment": [
-    "DropletUtils",
     "SpatialExperiment"
   ],
   "SpliceWiz": [
@@ -1331,8 +1317,7 @@
   ],
   "Voyager": [
     "SpatialFeatureExperiment",
-    "SpatialExperiment",
-    "DropletUtils"
+    "SpatialExperiment"
   ],
   "XDE": [
     "genefilter",
@@ -1380,7 +1365,6 @@
   "affylmGUI": [
     "affyPLM"
   ],
-  "aggregateBioVar": [],
   "airpart": [
     "scater"
   ],
@@ -1401,8 +1385,7 @@
     "SpatialFeatureExperiment",
     "alabaster.sce",
     "alabaster.spatial",
-    "SpatialExperiment",
-    "DropletUtils"
+    "SpatialExperiment"
   ],
   "alabaster.spatial": [
     "SpatialExperiment",
@@ -1477,9 +1460,7 @@
     "RTCGAToolbox",
     "TCGAutils"
   ],
-  "biocGraph": [
-    "geneplotter"
-  ],
+  "biocGraph": [],
   "biomvRCNS": [
     "Gviz",
     "ensembldb",
@@ -1495,7 +1476,6 @@
   ],
   "blacksheepr": [
     "DEXSeq",
-    "geneplotter",
     "genefilter"
   ],
   "blima": [],
@@ -1816,7 +1796,6 @@
   "diffUTR": [
     "DEXSeq",
     "ensembldb",
-    "geneplotter",
     "genefilter"
   ],
   "distinct": [
@@ -1849,7 +1828,6 @@
   ],
   "ensembldb": [],
   "epiNEM": [],
-  "epigenomix": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -1962,7 +1940,6 @@
   "gcatest": [],
   "geneAttribution": [],
   "genefilter": [],
-  "geneplotter": [],
   "genomation": [],
   "geomeTriD": [
     "trackViewer",
@@ -2104,7 +2081,6 @@
   "lemur": [
     "glmGamPoi"
   ],
-  "limmaGUI": [],
   "lineagespot": [
     "VariantAnnotation"
   ],
@@ -2413,7 +2389,6 @@
   "pairedGSEA": [
     "DEXSeq",
     "sva",
-    "geneplotter",
     "genefilter"
   ],
   "partCNV": [],
@@ -2593,7 +2568,6 @@
     "DEXSeq",
     "Gviz",
     "txdbmaker",
-    "geneplotter",
     "genefilter",
     "ensembldb",
     "biovizBase",
@@ -2604,9 +2578,7 @@
     "zinbwave",
     "genefilter"
   ],
-  "scCB2": [
-    "DropletUtils"
-  ],
+  "scCB2": [],
   "scClassify": [
     "Cepo",
     "GSEABase"
@@ -2639,9 +2611,7 @@
     "batchelor",
     "scran"
   ],
-  "scPipe": [
-    "DropletUtils"
-  ],
+  "scPipe": [],
   "scRNAseqApp": [
     "slingshot",
     "TrajectoryUtils"
@@ -2734,7 +2704,6 @@
     "SpatialExperiment",
     "GSEABase"
   ],
-  "simPIC": [],
   "simpleSeg": [
     "cytomapper",
     "SpatialExperiment"
@@ -2943,7 +2912,6 @@
   "vidger": [],
   "visiumStitched": [
     "SpatialExperiment",
-    "DropletUtils",
     "scater"
   ],
   "vissE": [

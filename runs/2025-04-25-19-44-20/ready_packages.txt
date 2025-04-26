@@ -1,3 +1,4 @@
-PDATK
-RadioGx
-ToxicoGx
+MethylSeekR
+biocGraph
+scCB2
+scPipe
