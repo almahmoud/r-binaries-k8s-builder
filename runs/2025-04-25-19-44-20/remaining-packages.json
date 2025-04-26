@@ -217,7 +217,6 @@
   "ELMER": [
     "Gviz"
   ],
-  "ELViS": [],
   "ENmix": [
     "minfi",
     "GEOquery"
@@ -442,7 +441,6 @@
   "OMICsPCA": [
     "HelloRanges"
   ],
-  "ORFik": [],
   "OUTRIDER": [],
   "OrganismDbi": [],
   "PAA": [
@@ -633,9 +631,7 @@
     "SpatialExperiment"
   ],
   "TEKRABber": [],
-  "TFHAZ": [
-    "ORFik"
-  ],
+  "TFHAZ": [],
   "TFutils": [
     "GenomicFiles"
   ],
