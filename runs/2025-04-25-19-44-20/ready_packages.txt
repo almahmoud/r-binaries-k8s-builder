@@ -1,6 +1,3 @@
-CytoML
-CytoPipeline
-flowGate
-flowVS
-pogos
-tenXplore
+PCAtools
+ReactomeGSA
+StabMap

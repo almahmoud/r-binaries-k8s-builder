@@ -945,3 +945,15 @@ MACSr
 marr
 ontoProc
 openCyto
+awst
+barbieQ
+BiocSingular
+biotmle
+cfTools
+crisprScore
+epistack
+hpar
+SDAMS
+SeqSQC
+TTMap
+XAItest
