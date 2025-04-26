@@ -828,3 +828,16 @@ rTRM
 ScaledMatrix
 ssrch
 TileDBArray
+adverSCarial
+beachmat
+GOSemSim
+graphite
+HDTD
+INDEED
+ISoLDE
+iterativeBMA
+M3C
+MetCirc
+Modstrings
+sarks
+scoup

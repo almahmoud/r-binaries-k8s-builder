@@ -168,8 +168,7 @@
     "scuttle",
     "SummarizedExperiment",
     "edgeR",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "BASiCStan": [
     "BASiCS",
@@ -178,7 +177,6 @@
     "scuttle",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "beachmat",
     "HDF5Array",
     "edgeR",
     "BiocSingular"
@@ -288,7 +286,6 @@
     "scuttle",
     "edgeR",
     "BiocSingular",
-    "beachmat",
     "genefilter",
     "annotate"
   ],
@@ -296,8 +293,7 @@
     "scry",
     "SummarizedExperiment",
     "SingleCellExperiment",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "BgeeCall": [
     "GenomicFeatures",
@@ -350,15 +346,12 @@
     "scuttle",
     "SummarizedExperiment",
     "edgeR",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "BiocHubsShiny": [
     "ExperimentHub"
   ],
-  "BiocSingular": [
-    "beachmat"
-  ],
+  "BiocSingular": [],
   "BiocSklearn": [
     "SummarizedExperiment"
   ],
@@ -454,16 +447,13 @@
     "SummarizedExperiment",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "CBNplot": [
-    "graphite",
     "clusterProfiler",
     "enrichplot",
     "ExperimentHub",
     "DOSE",
-    "GOSemSim",
     "fgsea"
   ],
   "CCAFE": [
@@ -487,8 +477,7 @@
     "clusterProfiler",
     "fgsea",
     "DOSE",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "CGHbase": [
     "marray"
@@ -535,7 +524,6 @@
     "SummarizedExperiment",
     "BSgenome",
     "HDF5Array",
-    "beachmat",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -549,8 +537,7 @@
   "COTAN": [
     "BiocSingular",
     "SingleCellExperiment",
-    "SummarizedExperiment",
-    "beachmat"
+    "SummarizedExperiment"
   ],
   "CPSM": [
     "SummarizedExperiment"
@@ -560,8 +547,7 @@
     "PCAtools",
     "SummarizedExperiment",
     "SingleCellExperiment",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "CRISPRseek": [
     "GenomicFeatures",
@@ -612,7 +598,6 @@
     "SummarizedExperiment",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "fgsea"
   ],
   "CellBarcode": [
@@ -629,7 +614,6 @@
     "SummarizedExperiment",
     "SingleCellExperiment",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "CellTrails": [
@@ -642,7 +626,6 @@
     "SummarizedExperiment",
     "fgsea",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "Cepo": [
@@ -684,7 +667,6 @@
     "methylumi",
     "lumi",
     "BSgenome",
-    "beachmat",
     "txdbmaker",
     "ensembldb",
     "biovizBase",
@@ -739,7 +721,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "DOSE",
-    "GOSemSim",
     "GenomicAlignments",
     "fgsea",
     "SummarizedExperiment"
@@ -771,8 +752,7 @@
     "scran",
     "scuttle",
     "edgeR",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "ClassifyR": [
     "MultiAssayExperiment",
@@ -912,8 +892,7 @@
     "SpatialExperiment",
     "SummarizedExperiment",
     "scuttle",
-    "SingleCellExperiment",
-    "beachmat"
+    "SingleCellExperiment"
   ],
   "DEWSeq": [
     "DESeq2",
@@ -952,7 +931,6 @@
     "SummarizedExperiment",
     "BSgenome",
     "HDF5Array",
-    "beachmat",
     "rtracklayer",
     "GenomicFeatures",
     "ensembldb",
@@ -967,8 +945,7 @@
     "annotate"
   ],
   "DOSE": [
-    "fgsea",
-    "GOSemSim"
+    "fgsea"
   ],
   "DRIMSeq": [
     "edgeR"
@@ -978,7 +955,6 @@
     "SummarizedExperiment",
     "BSgenome",
     "HDF5Array",
-    "beachmat",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -1020,7 +996,6 @@
     "edgeR",
     "BSgenome",
     "HDF5Array",
-    "beachmat",
     "annotate",
     "rtracklayer",
     "GenomicAlignments"
@@ -1033,7 +1008,6 @@
     "scuttle",
     "edgeR",
     "BiocSingular",
-    "beachmat",
     "SpatialExperiment",
     "scater",
     "rtracklayer",
@@ -1064,8 +1038,7 @@
   "DelayedTensor": [
     "HDF5Array",
     "BiocSingular",
-    "DelayedRandomArray",
-    "beachmat"
+    "DelayedRandomArray"
   ],
   "DiffBind": [
     "SummarizedExperiment",
@@ -1090,7 +1063,6 @@
     "SummarizedExperiment",
     "SingleCellExperiment",
     "scran",
-    "beachmat",
     "scuttle",
     "edgeR"
   ],
@@ -1113,7 +1085,6 @@
     "SummarizedExperiment",
     "HDF5Array",
     "edgeR",
-    "beachmat",
     "scuttle"
   ],
   "Dune": [
@@ -1202,7 +1173,6 @@
     "clusterProfiler",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "fgsea"
   ],
   "EmpiricalBrownsMethod": [],
@@ -1210,14 +1180,12 @@
     "clusterProfiler",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "fgsea"
   ],
   "EnrichmentBrowser": [
     "SummarizedExperiment",
     "GSEABase",
     "edgeR",
-    "graphite",
     "pathview",
     "annotate"
   ],
@@ -1230,7 +1198,6 @@
     "BSgenome",
     "GenomicAlignments",
     "DOSE",
-    "GOSemSim",
     "SummarizedExperiment",
     "fgsea"
   ],
@@ -1242,7 +1209,6 @@
     "GenomicAlignments"
   ],
   "EpiTxDb": [
-    "Modstrings",
     "GenomicFeatures",
     "txdbmaker",
     "tRNAdbImport",
@@ -1314,7 +1280,6 @@
     "BSgenome",
     "HDF5Array",
     "edgeR",
-    "beachmat",
     "biovizBase",
     "VariantAnnotation",
     "OrganismDbi",
@@ -1389,7 +1354,6 @@
     "DOSE",
     "pathview",
     "enrichplot",
-    "GOSemSim",
     "SummarizedExperiment",
     "fgsea"
   ],
@@ -1407,7 +1371,6 @@
   "GNET2": [
     "SummarizedExperiment"
   ],
-  "GOSemSim": [],
   "GOTHiC": [
     "BSgenome",
     "ShortRead",
@@ -1438,7 +1401,6 @@
     "EnrichmentBrowser",
     "ExperimentHub",
     "GSEABase",
-    "graphite",
     "pathview",
     "annotate"
   ],
@@ -1462,7 +1424,6 @@
     "SpatialExperiment",
     "HDF5Array",
     "BiocSingular",
-    "beachmat",
     "annotate"
   ],
   "GWAS.BAYES": [],
@@ -1604,7 +1565,6 @@
     "VariantAnnotation"
   ],
   "HDF5Array": [],
-  "HDTD": [],
   "HERON": [
     "SummarizedExperiment"
   ],
@@ -1721,7 +1681,6 @@
     "rtracklayer"
   ],
   "IMPCdata": [],
-  "INDEED": [],
   "INSPEcT": [
     "GenomicFeatures",
     "GenomicAlignments",
@@ -1749,7 +1708,6 @@
   "ISLET": [
     "SummarizedExperiment"
   ],
-  "ISoLDE": [],
   "ITALICS": [
     "oligo",
     "oligoClasses",
@@ -1859,13 +1817,11 @@
     "SummarizedExperiment",
     "HDF5Array"
   ],
-  "M3C": [],
   "M3Drop": [
     "scater",
     "SingleCellExperiment",
     "scuttle",
     "SummarizedExperiment",
-    "beachmat",
     "BiocSingular"
   ],
   "MACSr": [
@@ -1948,7 +1904,6 @@
     "SummarizedExperiment",
     "SingleCellExperiment",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "MEDIPS": [
@@ -1973,7 +1928,6 @@
     "SingleCellExperiment",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "MICSQTL": [
@@ -1985,7 +1939,6 @@
     "SummarizedExperiment",
     "BSgenome",
     "HDF5Array",
-    "beachmat",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -1994,12 +1947,10 @@
     "DESeq2",
     "edgeR",
     "fgsea",
-    "graphite",
     "SummarizedExperiment",
     "clusterProfiler",
     "DOSE",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "MLInterfaces": [
     "annotate",
@@ -2032,7 +1983,6 @@
   ],
   "MOSClip": [
     "MultiAssayExperiment",
-    "graphite",
     "qpgraph",
     "SummarizedExperiment",
     "annotate",
@@ -2046,8 +1996,7 @@
     "SingleCellExperiment",
     "scuttle",
     "SummarizedExperiment",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "MPAC": [
     "SummarizedExperiment",
@@ -2055,7 +2004,6 @@
     "SingleCellExperiment",
     "fgsea",
     "scran",
-    "beachmat",
     "scuttle",
     "edgeR"
   ],
@@ -2163,7 +2111,6 @@
     "SummarizedExperiment"
   ],
   "MesKit": [],
-  "MetCirc": [],
   "MetNet": [
     "SummarizedExperiment"
   ],
@@ -2176,7 +2123,6 @@
     "clusterProfiler",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "fgsea"
   ],
   "MetaboAnnotation": [
@@ -2234,7 +2180,6 @@
     "clusterProfiler",
     "enrichplot",
     "DOSE",
-    "GOSemSim",
     "fgsea"
   ],
   "MicrobiotaProcess": [
@@ -2268,7 +2213,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "Modstrings": [],
   "MoleculeExperiment": [
     "SpatialExperiment",
     "SingleCellExperiment",
@@ -2282,7 +2226,6 @@
     "EpiMix",
     "ExperimentHub",
     "enrichplot",
-    "GOSemSim",
     "fgsea",
     "GenomicFeatures",
     "SummarizedExperiment",
@@ -2295,7 +2238,6 @@
     "TCGAbiolinks",
     "GEOquery",
     "enrichplot",
-    "GOSemSim",
     "fgsea"
   ],
   "Motif2Site": [
@@ -2385,7 +2327,6 @@
     "SummarizedExperiment",
     "BiocSingular",
     "bsseq",
-    "beachmat",
     "BSgenome",
     "HDF5Array",
     "rtracklayer",
@@ -2406,8 +2347,7 @@
   "NewWave": [
     "SummarizedExperiment",
     "SingleCellExperiment",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "NormalyzerDE": [
     "vsn",
@@ -2509,8 +2449,7 @@
     "SummarizedExperiment"
   ],
   "PCAtools": [
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "PDATK": [
     "SummarizedExperiment",
@@ -2592,7 +2531,6 @@
     "GSEABase",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "annotate",
     "fgsea"
   ],
@@ -2623,9 +2561,7 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "fgsea",
-    "graphite"
+    "fgsea"
   ],
   "Pirat": [
     "SummarizedExperiment"
@@ -2784,7 +2720,6 @@
     "enrichplot",
     "MOFA2",
     "DOSE",
-    "GOSemSim",
     "DESeq2",
     "HTSFilter",
     "HDF5Array",
@@ -2818,7 +2753,6 @@
     "BSgenome"
   ],
   "RNAmodR": [
-    "Modstrings",
     "txdbmaker",
     "GenomicFeatures",
     "GenomicAlignments",
@@ -2839,14 +2773,12 @@
     "BSgenome",
     "biovizBase",
     "GenomicAlignments",
-    "Modstrings",
     "txdbmaker",
     "SummarizedExperiment",
     "VariantAnnotation"
   ],
   "RNAmodR.ML": [
     "RNAmodR",
-    "Modstrings",
     "txdbmaker",
     "GenomicFeatures",
     "GenomicAlignments",
@@ -2867,7 +2799,6 @@
     "BSgenome",
     "biovizBase",
     "GenomicAlignments",
-    "Modstrings",
     "txdbmaker",
     "SummarizedExperiment",
     "VariantAnnotation"
@@ -2961,27 +2892,21 @@
     "SummarizedExperiment",
     "annotate"
   ],
-  "Rcpi": [
-    "GOSemSim"
-  ],
+  "Rcpi": [],
   "ReactomeGSA": [
     "BiocSingular",
-    "SummarizedExperiment",
-    "beachmat"
+    "SummarizedExperiment"
   ],
   "ReactomePA": [
     "DOSE",
     "enrichplot",
-    "graphite",
-    "fgsea",
-    "GOSemSim"
+    "fgsea"
   ],
   "RegEnrich": [
     "SummarizedExperiment",
     "fgsea",
     "DOSE",
-    "DESeq2",
-    "GOSemSim"
+    "DESeq2"
   ],
   "RepViz": [],
   "Repitools": [
@@ -3130,14 +3055,12 @@
   "SCArray": [
     "SummarizedExperiment",
     "SingleCellExperiment",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "SCArray.sat": [
     "SCArray",
     "BiocSingular",
     "SummarizedExperiment",
-    "beachmat",
     "SingleCellExperiment"
   ],
   "SCOPE": [
@@ -3245,8 +3168,7 @@
   "SVMDO": [
     "DOSE",
     "SummarizedExperiment",
-    "fgsea",
-    "GOSemSim"
+    "fgsea"
   ],
   "SVP": [
     "SummarizedExperiment",
@@ -3313,8 +3235,7 @@
     "SingleCellExperiment",
     "scuttle",
     "SummarizedExperiment",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "SingleMoleculeFootprinting": [
     "BSgenome",
@@ -3330,8 +3251,7 @@
     "VariantAnnotation"
   ],
   "SingleR": [
-    "SummarizedExperiment",
-    "beachmat"
+    "SummarizedExperiment"
   ],
   "SomaticSignatures": [
     "VariantAnnotation",
@@ -3353,8 +3273,7 @@
     "SpatialExperiment",
     "SummarizedExperiment",
     "scuttle",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "Spaniel": [
     "SingleCellExperiment",
@@ -3364,7 +3283,6 @@
     "DropletUtils",
     "HDF5Array",
     "edgeR",
-    "beachmat",
     "scuttle",
     "BiocSingular"
   ],
@@ -3388,7 +3306,6 @@
     "SummarizedExperiment",
     "HDF5Array",
     "edgeR",
-    "beachmat",
     "scuttle"
   ],
   "SpatialFeatureExperiment": [
@@ -3398,7 +3315,6 @@
     "SummarizedExperiment",
     "HDF5Array",
     "edgeR",
-    "beachmat",
     "scuttle"
   ],
   "SpectralTAD": [
@@ -3429,8 +3345,7 @@
   "SplineDV": [
     "scuttle",
     "SingleCellExperiment",
-    "SummarizedExperiment",
-    "beachmat"
+    "SummarizedExperiment"
   ],
   "SpotClean": [
     "SummarizedExperiment",
@@ -3445,8 +3360,7 @@
   ],
   "StabMap": [
     "SummarizedExperiment",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "Statial": [
     "SingleCellExperiment",
@@ -3499,7 +3413,6 @@
     "SpatialExperiment",
     "HDF5Array",
     "BiocSingular",
-    "beachmat",
     "annotate",
     "genefilter"
   ],
@@ -3527,8 +3440,7 @@
   "TDbasedUFEadv": [
     "enrichplot",
     "DOSE",
-    "fgsea",
-    "GOSemSim"
+    "fgsea"
   ],
   "TEKRABber": [
     "apeglm",
@@ -3693,7 +3605,6 @@
     "SummarizedExperiment",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "VCFArray": [
@@ -3781,7 +3692,6 @@
     "DropletUtils",
     "HDF5Array",
     "edgeR",
-    "beachmat",
     "scuttle"
   ],
   "VplotR": [
@@ -3842,7 +3752,6 @@
   "adductomicsR": [
     "ExperimentHub"
   ],
-  "adverSCarial": [],
   "affyILM": [
     "gcrma"
   ],
@@ -3887,7 +3796,6 @@
     "scater",
     "apeglm",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "alabaster": [
@@ -3965,7 +3873,6 @@
     "alabaster.matrix",
     "HDF5Array",
     "edgeR",
-    "beachmat",
     "scuttle"
   ],
   "alabaster.spatial": [
@@ -4136,8 +4043,7 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "BiocSingular",
-    "scuttle",
-    "beachmat"
+    "scuttle"
   ],
   "bayNorm": [
     "SingleCellExperiment",
@@ -4147,14 +4053,10 @@
     "edgeR"
   ],
   "bcSeq": [],
-  "beachmat": [],
   "beachmat.hdf5": [
-    "beachmat",
     "HDF5Array"
   ],
-  "beachmat.tiledb": [
-    "beachmat"
-  ],
+  "beachmat.tiledb": [],
   "beadarray": [],
   "bedbaser": [
     "rtracklayer",
@@ -4199,9 +4101,7 @@
     "SummarizedExperiment",
     "TCGAutils",
     "enrichplot",
-    "GOSemSim",
     "fgsea",
-    "graphite",
     "GenomicFeatures",
     "rtracklayer",
     "GenomicAlignments"
@@ -4273,7 +4173,6 @@
     "SummarizedExperiment",
     "BSgenome",
     "HDF5Array",
-    "beachmat",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -4297,7 +4196,6 @@
     "edgeR",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "annotate",
     "fgsea"
   ],
@@ -4305,7 +4203,6 @@
     "SummarizedExperiment",
     "BSgenome",
     "HDF5Array",
-    "beachmat",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -4403,7 +4300,6 @@
     "scater",
     "scran",
     "scuttle",
-    "beachmat",
     "BiocSingular",
     "edgeR"
   ],
@@ -4445,7 +4341,6 @@
     "ensembldb",
     "GenomicFeatures",
     "SummarizedExperiment",
-    "beachmat",
     "BiocSingular",
     "edgeR",
     "rtracklayer",
@@ -4461,7 +4356,6 @@
     "scuttle",
     "SummarizedExperiment",
     "BiocSingular",
-    "beachmat",
     "rtracklayer",
     "edgeR",
     "GenomicAlignments"
@@ -4481,7 +4375,6 @@
     "SummarizedExperiment",
     "rtracklayer",
     "BiocSingular",
-    "beachmat",
     "GenomicAlignments",
     "edgeR"
   ],
@@ -4567,7 +4460,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "clusterExperiment": [
@@ -4578,14 +4470,12 @@
     "edgeR",
     "zinbwave",
     "mbkmeans",
-    "beachmat",
     "genefilter",
     "annotate"
   ],
   "clusterProfiler": [
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "fgsea"
   ],
   "clusterSeq": [
@@ -4644,7 +4534,6 @@
     "distinct",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "consensusDE": [
@@ -4668,7 +4557,6 @@
     "SpatialExperiment",
     "HDF5Array",
     "BiocSingular",
-    "beachmat",
     "annotate"
   ],
   "consensusSeekeR": [
@@ -4871,7 +4759,6 @@
     "SummarizedExperiment",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "cytomapper": [
@@ -4906,8 +4793,7 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "edgeR",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "dar": [
     "mia",
@@ -4918,7 +4804,6 @@
     "TreeSummarizedExperiment",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "debCAM": [
@@ -4935,7 +4820,6 @@
     "enrichplot",
     "pathview",
     "apeglm",
-    "GOSemSim",
     "fgsea",
     "genefilter"
   ],
@@ -4954,7 +4838,6 @@
     "SummarizedExperiment",
     "scran",
     "scuttle",
-    "beachmat",
     "BiocSingular",
     "edgeR"
   ],
@@ -5062,7 +4945,6 @@
     "SingleCellExperiment",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "dittoSeq": [
@@ -5098,10 +4980,8 @@
     "SummarizedExperiment",
     "GSEABase",
     "zenith",
-    "beachmat",
     "annotate",
     "EnrichmentBrowser",
-    "graphite",
     "pathview"
   ],
   "drugTargetInteractions": [
@@ -5153,12 +5033,10 @@
   "enrichViewNet": [
     "enrichplot",
     "DOSE",
-    "fgsea",
-    "GOSemSim"
+    "fgsea"
   ],
   "enrichplot": [
     "DOSE",
-    "GOSemSim",
     "fgsea"
   ],
   "ensembldb": [
@@ -5209,7 +5087,6 @@
     "scuttle",
     "AUCell",
     "motifmatchr",
-    "beachmat",
     "GSEABase",
     "BSgenome",
     "TFBSTools",
@@ -5231,9 +5108,7 @@
     "scater",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "scuttle",
-    "beachmat",
     "BiocSingular",
     "edgeR",
     "fgsea"
@@ -5299,7 +5174,6 @@
     "motifmatchr",
     "enrichplot",
     "DOSE",
-    "GOSemSim",
     "SummarizedExperiment",
     "fgsea"
   ],
@@ -5314,8 +5188,7 @@
     "SpatialExperiment",
     "HDF5Array",
     "BiocSingular",
-    "ExperimentHub",
-    "beachmat"
+    "ExperimentHub"
   ],
   "escheR": [
     "SpatialExperiment",
@@ -5353,7 +5226,6 @@
     "clusterProfiler",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "fgsea"
   ],
   "fcScan": [
@@ -5456,9 +5328,7 @@
     "MethylMix",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "rtracklayer",
-    "graphite",
     "fgsea",
     "GenomicAlignments"
   ],
@@ -5558,7 +5428,6 @@
   ],
   "ginmappeR": [],
   "glmGamPoi": [
-    "beachmat",
     "HDF5Array",
     "SummarizedExperiment",
     "SingleCellExperiment"
@@ -5594,7 +5463,6 @@
     "clusterProfiler",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "fgsea"
   ],
   "goseq": [
@@ -5605,7 +5473,6 @@
     "SummarizedExperiment"
   ],
   "granulator": [],
-  "graphite": [],
   "groHMM": [
     "GenomicAlignments",
     "rtracklayer",
@@ -5711,12 +5578,10 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "fgsea",
     "annotate",
     "rtracklayer",
     "txdbmaker",
-    "graphite",
     "GenomicAlignments"
   ],
   "iSEE": [
@@ -5768,7 +5633,6 @@
     "MultiAssayExperiment",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "iSEEu": [
@@ -5810,8 +5674,7 @@
     "scuttle",
     "cytomapper",
     "SingleCellExperiment",
-    "HDF5Array",
-    "beachmat"
+    "HDF5Array"
   ],
   "infercnv": [
     "edgeR",
@@ -5845,7 +5708,6 @@
     "DESeq2",
     "edgeR"
   ],
-  "iterativeBMA": [],
   "ivygapSE": [
     "SummarizedExperiment"
   ],
@@ -5862,7 +5724,6 @@
     "bsseq",
     "BSgenome",
     "HDF5Array",
-    "beachmat",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -5880,15 +5741,13 @@
     "TreeSummarizedExperiment",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "lemur": [
     "SingleCellExperiment",
     "SummarizedExperiment",
     "glmGamPoi",
-    "HDF5Array",
-    "beachmat"
+    "HDF5Array"
   ],
   "levi": [],
   "limmaGUI": [],
@@ -5948,8 +5807,7 @@
     "scran",
     "scuttle",
     "edgeR",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "m6Aboost": [
     "rtracklayer",
@@ -6036,13 +5894,11 @@
   ],
   "mbkmeans": [
     "SingleCellExperiment",
-    "SummarizedExperiment",
-    "beachmat"
+    "SummarizedExperiment"
   ],
   "meshes": [
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "fgsea"
   ],
   "meshr": [
@@ -6092,8 +5948,7 @@
     "ShortRead",
     "annotate",
     "BSgenome",
-    "HDF5Array",
-    "beachmat"
+    "HDF5Array"
   ],
   "methInheritSim": [
     "methylKit",
@@ -6120,7 +5975,6 @@
     "SummarizedExperiment",
     "BSgenome",
     "HDF5Array",
-    "beachmat",
     "GenomicFeatures",
     "annotate",
     "siggenes",
@@ -6133,7 +5987,6 @@
     "missMethyl",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "minfi",
     "methylumi",
     "SummarizedExperiment",
@@ -6180,7 +6033,6 @@
     "SummarizedExperiment",
     "BSgenome",
     "HDF5Array",
-    "beachmat",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -6240,10 +6092,8 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "fgsea",
-    "annotate",
-    "graphite"
+    "annotate"
   ],
   "miRspongeR": [
     "SPONGE",
@@ -6251,9 +6101,7 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "fgsea",
-    "graphite"
+    "fgsea"
   ],
   "mia": [
     "MultiAssayExperiment",
@@ -6262,7 +6110,6 @@
     "TreeSummarizedExperiment",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "miaDash": [
@@ -6276,7 +6123,6 @@
     "miaViz",
     "MultiAssayExperiment",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "miaSim": [
@@ -6292,7 +6138,6 @@
     "SingleCellExperiment",
     "MultiAssayExperiment",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "microSTASIS": [
@@ -6322,8 +6167,7 @@
     "edgeR",
     "SingleCellExperiment",
     "BiocSingular",
-    "SummarizedExperiment",
-    "beachmat"
+    "SummarizedExperiment"
   ],
   "mimager": [
     "affyPLM",
@@ -6388,7 +6232,6 @@
     "GenomicAlignments"
   ],
   "mogsa": [
-    "graphite",
     "genefilter",
     "GSEABase",
     "annotate"
@@ -6442,8 +6285,7 @@
     "scuttle",
     "SummarizedExperiment",
     "edgeR",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "msgbsR": [
     "BSgenome",
@@ -6490,7 +6332,6 @@
     "MultiAssayExperiment"
   ],
   "multiGSEA": [
-    "graphite",
     "fgsea"
   ],
   "multiHiCcompare": [
@@ -6510,7 +6351,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "BiocSingular",
-    "beachmat",
     "scuttle",
     "scran",
     "batchelor",
@@ -6524,7 +6364,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "variancePartition",
-    "beachmat",
     "BiocSingular"
   ],
   "mygene": [
@@ -6576,7 +6415,6 @@
     "zinbwave",
     "mbkmeans",
     "scuttle",
-    "beachmat",
     "genefilter",
     "annotate"
   ],
@@ -6625,7 +6463,6 @@
     "SpatialExperiment",
     "HDF5Array",
     "BiocSingular",
-    "beachmat",
     "rtracklayer",
     "annotate",
     "GenomicAlignments"
@@ -6692,8 +6529,7 @@
     "SingleCellExperiment",
     "SpatialExperiment",
     "HDF5Array",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "orthogene": [],
   "orthos": [
@@ -6764,15 +6600,13 @@
     "HDF5Array",
     "BiocSingular",
     "edgeR",
-    "beachmat",
     "annotate"
   ],
   "pathlinkR": [
     "clusterProfiler",
     "fgsea",
     "DOSE",
-    "enrichplot",
-    "GOSemSim"
+    "enrichplot"
   ],
   "pathview": [],
   "pdInfoBuilder": [
@@ -6793,7 +6627,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "pepStat": [],
@@ -6843,7 +6676,6 @@
     "scran",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular",
     "edgeR"
   ],
@@ -6963,7 +6795,6 @@
     "chipseq",
     "ShortRead",
     "DOSE",
-    "GOSemSim",
     "fgsea"
   ],
   "projectR": [
@@ -7163,8 +6994,7 @@
   ],
   "regionalpcs": [
     "PCAtools",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "regsplice": [
     "SummarizedExperiment",
@@ -7250,9 +7080,7 @@
     "MultiAssayExperiment",
     "MultiDataSet"
   ],
-  "rrvgo": [
-    "GOSemSim"
-  ],
+  "rrvgo": [],
   "rtracklayer": [
     "GenomicAlignments",
     "SummarizedExperiment"
@@ -7264,7 +7092,6 @@
     "SummarizedExperiment"
   ],
   "sSNAPPY": [
-    "graphite",
     "SummarizedExperiment",
     "edgeR"
   ],
@@ -7273,7 +7100,6 @@
     "MGFR",
     "annotate"
   ],
-  "sarks": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -7315,7 +7141,6 @@
     "edgeR",
     "DropletUtils",
     "HDF5Array",
-    "beachmat",
     "scuttle"
   ],
   "scClassify": [
@@ -7332,8 +7157,7 @@
     "scran",
     "scuttle",
     "edgeR",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "scDDboost": [
     "SingleCellExperiment",
@@ -7351,7 +7175,6 @@
     "scater",
     "scuttle",
     "rtracklayer",
-    "beachmat",
     "GenomicAlignments",
     "edgeR"
   ],
@@ -7368,7 +7191,6 @@
     "SingleCellExperiment",
     "scuttle",
     "SummarizedExperiment",
-    "beachmat",
     "BiocSingular"
   ],
   "scFeatures": [
@@ -7386,7 +7208,6 @@
     "BiocSingular",
     "edgeR",
     "scran",
-    "beachmat",
     "annotate",
     "GenomicAlignments",
     "scuttle"
@@ -7418,7 +7239,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "scuttle",
-    "beachmat",
     "edgeR"
   ],
   "scMultiSim": [
@@ -7434,14 +7254,12 @@
     "SummarizedExperiment",
     "HDF5Array",
     "edgeR",
-    "beachmat",
     "scuttle"
   ],
   "scQTLtools": [
     "DESeq2",
     "SingleCellExperiment",
-    "SummarizedExperiment",
-    "GOSemSim"
+    "SummarizedExperiment"
   ],
   "scRNAseqApp": [
     "rtracklayer",
@@ -7478,7 +7296,6 @@
     "GenomicFeatures",
     "ensembldb",
     "scuttle",
-    "beachmat",
     "BiocSingular",
     "edgeR",
     "rtracklayer",
@@ -7497,7 +7314,6 @@
     "SingleCellExperiment",
     "scuttle",
     "SummarizedExperiment",
-    "beachmat",
     "BiocSingular"
   ],
   "sccomp": [
@@ -7535,7 +7351,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "scoup": [],
   "scp": [
     "QFeatures",
     "MultiAssayExperiment",
@@ -7547,12 +7362,9 @@
     "scuttle",
     "SummarizedExperiment",
     "edgeR",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
-  "scrapper": [
-    "beachmat"
-  ],
+  "scrapper": [],
   "screenCounter": [
     "SummarizedExperiment"
   ],
@@ -7574,20 +7386,17 @@
   "scry": [
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "scuttle": [
     "SingleCellExperiment",
-    "SummarizedExperiment",
-    "beachmat"
+    "SummarizedExperiment"
   ],
   "scviR": [
     "SingleCellExperiment",
     "SummarizedExperiment",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "sechm": [
@@ -7617,7 +7426,6 @@
     "enrichplot",
     "GenomicFeatures",
     "DOSE",
-    "GOSemSim",
     "fgsea",
     "GenomicAlignments",
     "SummarizedExperiment"
@@ -7653,7 +7461,6 @@
     "standR",
     "SummarizedExperiment",
     "scuttle",
-    "beachmat",
     "BiocSingular",
     "SpatialExperiment",
     "RUVSeq",
@@ -7702,7 +7509,6 @@
     "DOSE",
     "GSEABase",
     "enrichplot",
-    "GOSemSim",
     "annotate"
   ],
   "signeR": [
@@ -7726,15 +7532,13 @@
     "SingleCellExperiment",
     "HDF5Array",
     "BiocSingular",
-    "beachmat",
     "annotate",
     "GenomicAlignments"
   ],
   "simPIC": [
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "scuttle",
-    "beachmat"
+    "scuttle"
   ],
   "simpleSeg": [
     "SummarizedExperiment",
@@ -7895,15 +7699,13 @@
     "SingleCellExperiment",
     "scater",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "splatter": [
     "SingleCellExperiment",
     "edgeR",
     "scuttle",
-    "SummarizedExperiment",
-    "beachmat"
+    "SummarizedExperiment"
   ],
   "splineTimeR": [
     "GSEABase",
@@ -7914,8 +7716,7 @@
     "nnSVG",
     "SummarizedExperiment",
     "scuttle",
-    "SingleCellExperiment",
-    "beachmat"
+    "SingleCellExperiment"
   ],
   "spqn": [
     "SummarizedExperiment"
@@ -8037,11 +7838,8 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "tRNA": [
-    "Modstrings"
-  ],
+  "tRNA": [],
   "tRNAdbImport": [
-    "Modstrings",
     "tRNA"
   ],
   "tRNAscanImport": [
@@ -8049,7 +7847,6 @@
     "rtracklayer",
     "BSgenome",
     "GenomicAlignments",
-    "Modstrings",
     "SummarizedExperiment"
   ],
   "tadar": [
@@ -8172,7 +7969,6 @@
     "glmGamPoi",
     "SummarizedExperiment",
     "HDF5Array",
-    "beachmat",
     "SingleCellExperiment"
   ],
   "transmogR": [
@@ -8207,7 +8003,6 @@
     "scater",
     "SummarizedExperiment",
     "scuttle",
-    "beachmat",
     "BiocSingular"
   ],
   "trio": [
@@ -8260,8 +8055,7 @@
     "zellkonverter",
     "scuttle",
     "SingleCellExperiment",
-    "BiocSingular",
-    "beachmat"
+    "BiocSingular"
   ],
   "vidger": [
     "DESeq2",
@@ -8275,7 +8069,6 @@
     "SummarizedExperiment",
     "HDF5Array",
     "edgeR",
-    "beachmat",
     "scuttle",
     "scater",
     "ExperimentHub",
@@ -8395,7 +8188,6 @@
     "GSEABase",
     "SummarizedExperiment",
     "edgeR",
-    "graphite",
     "pathview",
     "annotate"
   ],

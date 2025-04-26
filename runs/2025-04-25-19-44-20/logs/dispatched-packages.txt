@@ -972,3 +972,9 @@ ndexr
 esetVis
 phantasusLite
 scPCA
+BiocSingular
+Rcpi
+beachmat.tiledb
+rrvgo
+scrapper
+tRNA
