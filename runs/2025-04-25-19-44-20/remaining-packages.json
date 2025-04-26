@@ -269,8 +269,7 @@
     "SparseArray"
   ],
   "AlpsNMR": [
-    "mixOmics",
-    "MassSpecWavelet"
+    "mixOmics"
   ],
   "AnVILPublish": [],
   "AnVILWorkflow": [],
@@ -826,7 +825,6 @@
   "CAMERA": [
     "xcms",
     "MSnbase",
-    "MassSpecWavelet",
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
@@ -1071,7 +1069,6 @@
     "aCGH",
     "multtest"
   ],
-  "CSAR": [],
   "CSSQ": [
     "SummarizedExperiment",
     "rtracklayer",
@@ -2261,7 +2258,6 @@
     "KEGGREST",
     "fgsea"
   ],
-  "EnrichedHeatmap": [],
   "EnrichmentBrowser": [
     "SummarizedExperiment",
     "AnnotationDbi",
@@ -2497,7 +2493,6 @@
     "txdbmaker",
     "rhdf5filters"
   ],
-  "FRGEpistasis": [],
   "FastqCleaner": [
     "ShortRead",
     "Rsamtools",
@@ -2627,7 +2622,6 @@
     "MatrixGenerics",
     "SparseArray"
   ],
-  "GEM": [],
   "GENESIS": [
     "GWASTools",
     "SeqArray",
@@ -2852,7 +2846,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "GenomAutomorphism": [],
   "GenomicAlignments": [
     "SummarizedExperiment",
     "Rsamtools",
@@ -2977,7 +2970,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "GenomicTuples": [],
   "GeoTcgaData": [
     "topconfects",
     "SummarizedExperiment",
@@ -3020,7 +3012,6 @@
     "AnnotationForge",
     "MatrixGenerics"
   ],
-  "GrafGen": [],
   "GraphAlignment": [],
   "GreyListChIP": [
     "GenomicAlignments",
@@ -3071,7 +3062,6 @@
   ],
   "HDTD": [],
   "HELP": [],
-  "HEM": [],
   "HERON": [
     "SummarizedExperiment",
     "limma",
@@ -3335,7 +3325,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MassSpecWavelet",
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
@@ -3382,7 +3371,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "IWTomics": [],
   "IdeoViz": [
     "rtracklayer",
     "Rsamtools",
@@ -3527,7 +3515,6 @@
     "SparseArray"
   ],
   "LBE": [],
-  "LOLA": [],
   "LPE": [],
   "LRcell": [
     "ExperimentHub",
@@ -3613,7 +3600,6 @@
     "CAMERA",
     "xcms",
     "MSnbase",
-    "MassSpecWavelet",
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
@@ -4123,7 +4109,6 @@
     "Wrench"
   ],
   "MassArray": [],
-  "MassSpecWavelet": [],
   "MatrixGenerics": [],
   "MatrixQCvis": [
     "SummarizedExperiment",
@@ -4780,7 +4765,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "OmicCircos": [],
   "Omixer": [],
   "OmnipathR": [],
   "OncoScore": [
@@ -4914,7 +4898,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "PIPETS": [],
   "PIUMA": [
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -5219,7 +5202,6 @@
     "SparseArray"
   ],
   "QUBIC": [],
-  "Qtlizer": [],
   "QuasR": [
     "Rbowtie",
     "BSgenome",
@@ -6685,7 +6667,6 @@
     "treekoR",
     "DelayedArray",
     "MatrixGenerics",
-    "hopach",
     "diffcyt",
     "edgeR",
     "SparseArray",
@@ -8449,7 +8430,6 @@
     "Heatplus",
     "limma",
     "Category",
-    "hopach",
     "biomaRt",
     "genefilter",
     "KEGGREST",
@@ -8607,7 +8587,6 @@
     "bluster",
     "ensembldb",
     "GenomicFeatures",
-    "megadepth",
     "SummarizedExperiment",
     "MatrixGenerics",
     "SparseArray",
@@ -8634,7 +8613,6 @@
     "bluster",
     "ensembldb",
     "GenomicFeatures",
-    "megadepth",
     "scran",
     "scuttle",
     "SummarizedExperiment",
@@ -8672,7 +8650,6 @@
     "bluster",
     "ensembldb",
     "GenomicFeatures",
-    "megadepth",
     "SummarizedExperiment",
     "DelayedArray",
     "rtracklayer",
@@ -8825,7 +8802,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "MassSpecWavelet",
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
@@ -9103,7 +9079,6 @@
   ],
   "cosmiq": [
     "xcms",
-    "MassSpecWavelet",
     "MSnbase",
     "SummarizedExperiment",
     "MsFeatures",
@@ -10369,7 +10344,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MassSpecWavelet",
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
@@ -10564,7 +10538,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "geneClassifiers": [],
   "geneRecommender": [],
   "geneXtendeR": [
     "rtracklayer",
@@ -10865,7 +10838,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "gypsum": [],
   "h5mread": [
     "rhdf5",
     "SparseArray",
@@ -10952,7 +10924,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "hopach": [],
   "hpar": [
     "ExperimentHub",
     "AnnotationHub",
@@ -11654,7 +11625,6 @@
     "SparseArray",
     "MatrixGenerics"
   ],
-  "megadepth": [],
   "memes": [
     "universalmotif",
     "MatrixGenerics"
@@ -11685,7 +11655,6 @@
     "CAMERA",
     "xcms",
     "MSnbase",
-    "MassSpecWavelet",
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
@@ -12619,7 +12588,6 @@
   "ncGTW": [
     "xcms",
     "MSnbase",
-    "MassSpecWavelet",
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
@@ -13179,7 +13147,6 @@
     "limma",
     "Category",
     "AnnotationDbi",
-    "hopach",
     "biomaRt",
     "GSEABase",
     "genefilter",
@@ -13452,7 +13419,6 @@
     "ChIPseeker",
     "GenomicFeatures",
     "rGREAT",
-    "EnrichedHeatmap",
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
@@ -14202,7 +14168,6 @@
   ],
   "scClassify": [
     "limma",
-    "hopach",
     "Cepo",
     "GSEABase",
     "DelayedMatrixStats",
@@ -15348,7 +15313,6 @@
     "vsn",
     "affy",
     "pcaMethods",
-    "MassSpecWavelet",
     "MsFeatures",
     "affyio",
     "MultiAssayExperiment",
@@ -15693,7 +15657,6 @@
     "SparseArray"
   ],
   "tidysbml": [],
-  "tidytof": [],
   "tigre": [
     "AnnotationDbi",
     "annotate",
@@ -15859,7 +15822,6 @@
     "ConsensusClusterPlus"
   ],
   "treekoR": [
-    "hopach",
     "SingleCellExperiment",
     "diffcyt",
     "edgeR",
@@ -16151,7 +16113,6 @@
   ],
   "xcms": [
     "MSnbase",
-    "MassSpecWavelet",
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
