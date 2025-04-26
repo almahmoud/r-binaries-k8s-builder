@@ -213,7 +213,6 @@
     "bsseq"
   ],
   "DaMiRseq": [
-    "EDASeq",
     "sva"
   ],
   "Damsel": [
@@ -246,7 +245,6 @@
   "EBSEA": [
     "EmpiricalBrownsMethod"
   ],
-  "EDASeq": [],
   "EGAD": [
     "GEOquery"
   ],
@@ -298,7 +296,6 @@
   ],
   "GARS": [
     "DaMiRseq",
-    "EDASeq",
     "sva"
   ],
   "GDCRNATools": [],
@@ -596,9 +593,7 @@
     "TCGAutils"
   ],
   "RTNsurvival": [],
-  "RUVSeq": [
-    "EDASeq"
-  ],
+  "RUVSeq": [],
   "RareVariantVis": [],
   "Rbec": [
     "dada2"
@@ -793,7 +788,6 @@
     "a4Base"
   ],
   "a4Base": [],
-  "affyILM": [],
   "affyPLM": [],
   "affycoretools": [
     "GOstats",
@@ -971,7 +965,6 @@
     "distinct"
   ],
   "consensusDE": [
-    "EDASeq",
     "RUVSeq"
   ],
   "consensusOV": [
@@ -1296,7 +1289,6 @@
   ],
   "metaseqR2": [
     "DSS",
-    "EDASeq",
     "bsseq"
   ],
   "methInheritSim": [],
@@ -1415,7 +1407,6 @@
   "nullranges": [],
   "octad": [
     "RUVSeq",
-    "EDASeq",
     "GSVA",
     "SpatialExperiment"
   ],
@@ -1541,7 +1532,6 @@
   ],
   "riboSeqR": [],
   "ribosomeProfilingQC": [
-    "EDASeq",
     "motifStack",
     "RUVSeq"
   ],
@@ -1587,8 +1577,7 @@
   ],
   "scmap": [],
   "scone": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "scp": [],
   "scruff": [
@@ -1603,8 +1592,7 @@
   "shinyDSP": [
     "standR",
     "SpatialExperiment",
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "shinyMethyl": [
     "minfi",
@@ -1695,8 +1683,7 @@
   ],
   "standR": [
     "SpatialExperiment",
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "sva": [],
   "svaNUMT": [

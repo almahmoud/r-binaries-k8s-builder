@@ -1501,3 +1501,5 @@ RCSL
 RSVSim
 TAPseq
 tigre
+affyILM
+EDASeq
