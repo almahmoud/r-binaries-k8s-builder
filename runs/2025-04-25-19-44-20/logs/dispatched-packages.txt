@@ -1538,3 +1538,9 @@ raer
 strandCheckR
 txdbmaker
 wavClusteR
+SARC
+cfDNAPro
+nearBynding
+nullranges
+plotgardener
+plyinteractions

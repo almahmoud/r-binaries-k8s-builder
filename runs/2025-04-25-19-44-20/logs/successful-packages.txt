@@ -1207,3 +1207,10 @@ GenomicFeatures
 groHMM
 methylKit
 pram
+bedbaser
+gDRcore
+hicVennDiagram
+mist
+plyranges
+rmspc
+roar

@@ -101,7 +101,6 @@
   ],
   "BOBaFIT": [
     "ggbio",
-    "plyranges",
     "biovizBase",
     "VariantAnnotation",
     "OrganismDbi",
@@ -110,8 +109,7 @@
   ],
   "BSgenomeForge": [],
   "BUSpaRse": [
-    "ensembldb",
-    "plyranges"
+    "ensembldb"
   ],
   "BUSseq": [],
   "BaalChIP": [],
@@ -408,7 +406,6 @@
   "Damsel": [
     "ggbio",
     "goseq",
-    "plyranges",
     "biovizBase",
     "VariantAnnotation",
     "OrganismDbi",
@@ -428,8 +425,7 @@
     "scater"
   ],
   "DegCre": [
-    "plotgardener",
-    "plyranges"
+    "plotgardener"
   ],
   "DegNorm": [
     "txdbmaker"
@@ -625,7 +621,6 @@
     "txdbmaker"
   ],
   "GenomicPlot": [
-    "plyranges",
     "RCAS",
     "genomation",
     "txdbmaker"
@@ -693,8 +688,7 @@
   ],
   "IVAS": [],
   "InPAS": [
-    "cleanUpdTSeq",
-    "plyranges"
+    "cleanUpdTSeq"
   ],
   "IntEREst": [
     "GenomicFiles",
@@ -1198,9 +1192,7 @@
     "VariantAnnotation",
     "ensembldb"
   ],
-  "SARC": [
-    "plyranges"
-  ],
+  "SARC": [],
   "SBGNview": [
     "pathview"
   ],
@@ -1283,7 +1275,6 @@
     "scuttle"
   ],
   "SingleMoleculeFootprinting": [
-    "plyranges",
     "QuasR",
     "txdbmaker",
     "GenomicFiles",
@@ -1409,8 +1400,7 @@
   ],
   "Ularcirc": [
     "Organism.dplyr",
-    "plotgardener",
-    "plyranges"
+    "plotgardener"
   ],
   "Uniquorn": [
     "VariantAnnotation"
@@ -1601,7 +1591,6 @@
   "beachmat.hdf5": [],
   "beachmat.tiledb": [],
   "beadarray": [],
-  "bedbaser": [],
   "beer": [],
   "betaHMM": [],
   "bigmelon": [
@@ -1711,9 +1700,7 @@
     "scuttle"
   ],
   "cellbaseR": [],
-  "cfDNAPro": [
-    "plyranges"
-  ],
+  "cfDNAPro": [],
   "cfdnakit": [
     "QDNAseq",
     "CGHbase",
@@ -2132,7 +2119,6 @@
     "genefilter",
     "GEOquery"
   ],
-  "gDRcore": [],
   "gINTomics": [
     "clusterProfiler"
   ],
@@ -2189,7 +2175,6 @@
   "hiReadsProcessor": [
     "hiAnnotator"
   ],
-  "hicVennDiagram": [],
   "hoodscanR": [
     "SpatialExperiment"
   ],
@@ -2342,7 +2327,6 @@
     "TRESS"
   ],
   "mariner": [
-    "plyranges",
     "plotgardener"
   ],
   "maser": [
@@ -2384,7 +2368,6 @@
   "methylCC": [
     "minfi",
     "bsseq",
-    "plyranges",
     "bumphunter",
     "genefilter",
     "GEOquery"
@@ -2492,7 +2475,6 @@
     "GEOquery"
   ],
   "missRows": [],
-  "mist": [],
   "mitoClone2": [
     "deepSNV",
     "VariantAnnotation"
@@ -2566,9 +2548,7 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "nearBynding": [
-    "plyranges"
-  ],
+  "nearBynding": [],
   "nempi": [
     "mnem",
     "epiNEM"
@@ -2590,9 +2570,7 @@
     "GSEABase"
   ],
   "nucleR": [],
-  "nullranges": [
-    "plyranges"
-  ],
+  "nullranges": [],
   "octad": [
     "RUVSeq",
     "EDASeq",
@@ -2688,13 +2666,8 @@
     "scuttle"
   ],
   "pipeFrame": [],
-  "plotgardener": [
-    "plyranges"
-  ],
-  "plyinteractions": [
-    "plyranges"
-  ],
-  "plyranges": [],
+  "plotgardener": [],
+  "plyinteractions": [],
   "podkat": [],
   "poem": [
     "SpatialExperiment"
@@ -2821,11 +2794,9 @@
   ],
   "rifi": [],
   "rifiComparative": [],
-  "rmspc": [],
   "rnaEditr": [
     "bumphunter"
   ],
-  "roar": [],
   "ropls": [
     "MultiDataSet"
   ],
@@ -3169,7 +3140,6 @@
   ],
   "tidyomics": [
     "tidySingleCellExperiment",
-    "plyranges",
     "nullranges"
   ],
   "tigre": [],
