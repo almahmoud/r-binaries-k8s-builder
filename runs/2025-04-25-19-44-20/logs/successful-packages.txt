@@ -1056,3 +1056,14 @@ Herper
 ibh
 PhosR
 pvac
+AWFisher
+BUMHMM
+BUScorrect
+CHETAH
+keggorthology
+OncoScore
+orthogene
+ReactomePA
+rfPred
+siggenes
+TDbasedUFEadv

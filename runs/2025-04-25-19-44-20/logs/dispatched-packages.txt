@@ -1290,3 +1290,6 @@ sSNAPPY
 scde
 speckle
 tweeDEseq
+EWCE
+KCsmart
+trio
