@@ -805,3 +805,7 @@ PWMEnrich
 Structstrings
 synapsis
 tracktables
+DelayedMatrixStats
+GDSArray
+goProfiles
+rhdf5client

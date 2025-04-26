@@ -970,3 +970,4 @@ seq2pathway
 surfaltr
 ndexr
 esetVis
+phantasusLite

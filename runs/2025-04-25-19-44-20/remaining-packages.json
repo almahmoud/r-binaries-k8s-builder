@@ -98,7 +98,6 @@
     "BSgenome"
   ],
   "AUCell": [
-    "DelayedMatrixStats",
     "GSEABase",
     "SummarizedExperiment",
     "annotate"
@@ -181,7 +180,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "beachmat",
-    "DelayedMatrixStats",
     "HDF5Array",
     "edgeR",
     "BiocSingular",
@@ -527,7 +525,6 @@
   ],
   "CNVRanger": [
     "RaggedExperiment",
-    "GDSArray",
     "SummarizedExperiment",
     "edgeR"
   ],
@@ -543,7 +540,6 @@
     "MIRA",
     "bsseq",
     "SummarizedExperiment",
-    "DelayedMatrixStats",
     "BSgenome",
     "HDF5Array",
     "beachmat",
@@ -572,7 +568,6 @@
     "PCAtools",
     "SummarizedExperiment",
     "SingleCellExperiment",
-    "DelayedMatrixStats",
     "BiocSingular",
     "beachmat",
     "ScaledMatrix"
@@ -663,7 +658,6 @@
   ],
   "Cepo": [
     "GSEABase",
-    "DelayedMatrixStats",
     "HDF5Array",
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -695,7 +689,6 @@
     "annotate",
     "rtracklayer",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
@@ -970,7 +963,6 @@
     "missMethyl",
     "Gviz",
     "SummarizedExperiment",
-    "DelayedMatrixStats",
     "BSgenome",
     "HDF5Array",
     "beachmat",
@@ -998,7 +990,6 @@
   "DSS": [
     "bsseq",
     "SummarizedExperiment",
-    "DelayedMatrixStats",
     "BSgenome",
     "HDF5Array",
     "beachmat",
@@ -1041,7 +1032,6 @@
     "bsseq",
     "genefilter",
     "edgeR",
-    "DelayedMatrixStats",
     "BSgenome",
     "HDF5Array",
     "beachmat",
@@ -1085,7 +1075,6 @@
     "rtracklayer"
   ],
   "DelayedDataFrame": [],
-  "DelayedMatrixStats": [],
   "DelayedRandomArray": [],
   "DelayedTensor": [
     "HDF5Array",
@@ -1139,7 +1128,6 @@
   "DropletUtils": [
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "DelayedMatrixStats",
     "HDF5Array",
     "edgeR",
     "beachmat",
@@ -1209,7 +1197,6 @@
     "annotate",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "GEOquery",
     "HDF5Array",
     "GenomicFeatures",
@@ -1342,7 +1329,6 @@
     "scuttle",
     "scran",
     "BSgenome",
-    "DelayedMatrixStats",
     "HDF5Array",
     "edgeR",
     "beachmat",
@@ -1356,7 +1342,6 @@
   "FRASER": [
     "SummarizedExperiment",
     "BSgenome",
-    "DelayedMatrixStats",
     "GenomicAlignments",
     "GenomicFeatures",
     "HDF5Array",
@@ -1426,7 +1411,6 @@
     "SummarizedExperiment",
     "fgsea"
   ],
-  "GDSArray": [],
   "GEOexplorer": [
     "sva",
     "edgeR",
@@ -1494,7 +1478,6 @@
     "GSEABase",
     "SingleCellExperiment",
     "SpatialExperiment",
-    "DelayedMatrixStats",
     "HDF5Array",
     "BiocSingular",
     "ScaledMatrix",
@@ -1956,7 +1939,6 @@
     "GenomicAlignments",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
@@ -1972,7 +1954,6 @@
     "wateRmelon",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
@@ -2013,7 +1994,6 @@
     "SummarizedExperiment",
     "mia",
     "SingleCellExperiment",
-    "DelayedMatrixStats",
     "scater",
     "scuttle",
     "beachmat",
@@ -2027,7 +2007,6 @@
   "MIRA": [
     "bsseq",
     "SummarizedExperiment",
-    "DelayedMatrixStats",
     "BSgenome",
     "HDF5Array",
     "beachmat",
@@ -2260,7 +2239,6 @@
     "SummarizedExperiment",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
@@ -2303,7 +2281,6 @@
     "SummarizedExperiment",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "GEOquery",
     "HDF5Array",
     "GenomicAlignments"
@@ -2439,7 +2416,6 @@
     "bsseq",
     "ScaledMatrix",
     "beachmat",
-    "DelayedMatrixStats",
     "BSgenome",
     "HDF5Array",
     "rtracklayer",
@@ -2453,7 +2429,6 @@
     "SummarizedExperiment"
   ],
   "NetActivity": [
-    "DelayedMatrixStats",
     "DESeq2",
     "SummarizedExperiment"
   ],
@@ -2565,7 +2540,6 @@
     "SummarizedExperiment"
   ],
   "PCAtools": [
-    "DelayedMatrixStats",
     "BiocSingular",
     "beachmat",
     "ScaledMatrix"
@@ -2818,7 +2792,6 @@
     "BSgenome",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
@@ -3019,7 +2992,6 @@
     "AUCell",
     "GSEABase",
     "SummarizedExperiment",
-    "DelayedMatrixStats",
     "annotate"
   ],
   "Rcpi": [
@@ -3121,7 +3093,6 @@
     "rtracklayer",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "GEOquery",
     "HDF5Array",
     "GenomicAlignments"
@@ -3192,7 +3163,6 @@
     "SummarizedExperiment"
   ],
   "SCArray": [
-    "DelayedMatrixStats",
     "SummarizedExperiment",
     "SingleCellExperiment",
     "BiocSingular",
@@ -3205,7 +3175,6 @@
     "SummarizedExperiment",
     "ScaledMatrix",
     "beachmat",
-    "DelayedMatrixStats",
     "SingleCellExperiment"
   ],
   "SCOPE": [
@@ -3319,8 +3288,7 @@
   "SVP": [
     "SummarizedExperiment",
     "SingleCellExperiment",
-    "SpatialExperiment",
-    "DelayedMatrixStats"
+    "SpatialExperiment"
   ],
   "SWATH2stats": [],
   "Scale4C": [
@@ -3402,7 +3370,6 @@
   ],
   "SingleR": [
     "SummarizedExperiment",
-    "DelayedMatrixStats",
     "beachmat"
   ],
   "SomaticSignatures": [
@@ -3435,7 +3402,6 @@
     "scater",
     "scran",
     "DropletUtils",
-    "DelayedMatrixStats",
     "HDF5Array",
     "edgeR",
     "beachmat",
@@ -3461,7 +3427,6 @@
     "SpatialExperiment",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "DelayedMatrixStats",
     "HDF5Array",
     "edgeR",
     "beachmat",
@@ -3472,7 +3437,6 @@
     "SingleCellExperiment",
     "SpatialExperiment",
     "SummarizedExperiment",
-    "DelayedMatrixStats",
     "HDF5Array",
     "edgeR",
     "beachmat",
@@ -3486,7 +3450,6 @@
   "SpliceWiz": [
     "ompBAM",
     "BSgenome",
-    "DelayedMatrixStats",
     "genefilter",
     "HDF5Array",
     "rtracklayer",
@@ -3576,7 +3539,6 @@
     "GSEABase",
     "SingleCellExperiment",
     "SpatialExperiment",
-    "DelayedMatrixStats",
     "HDF5Array",
     "BiocSingular",
     "ScaledMatrix",
@@ -3825,7 +3787,6 @@
   ],
   "VariantExperiment": [
     "SummarizedExperiment",
-    "GDSArray",
     "DelayedDataFrame"
   ],
   "VariantFiltering": [
@@ -3863,7 +3824,6 @@
     "SpatialExperiment",
     "SummarizedExperiment",
     "DropletUtils",
-    "DelayedMatrixStats",
     "HDF5Array",
     "edgeR",
     "beachmat",
@@ -4049,7 +4009,6 @@
     "DropletUtils",
     "alabaster.ranges",
     "alabaster.matrix",
-    "DelayedMatrixStats",
     "HDF5Array",
     "edgeR",
     "beachmat",
@@ -4131,7 +4090,6 @@
     "genefilter",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "GEOquery",
     "HDF5Array",
     "GenomicAlignments"
@@ -4224,7 +4182,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "BiocSingular",
-    "DelayedMatrixStats",
     "scuttle",
     "ResidualMatrix",
     "ScaledMatrix",
@@ -4275,7 +4232,6 @@
     "GenomicFeatures",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "HDF5Array",
     "lumi",
     "rtracklayer",
@@ -4364,7 +4320,6 @@
     "bsseq",
     "DSS",
     "SummarizedExperiment",
-    "DelayedMatrixStats",
     "BSgenome",
     "HDF5Array",
     "beachmat",
@@ -4397,7 +4352,6 @@
   ],
   "bsseq": [
     "SummarizedExperiment",
-    "DelayedMatrixStats",
     "BSgenome",
     "HDF5Array",
     "beachmat",
@@ -4546,7 +4500,6 @@
     "BiocSingular",
     "edgeR",
     "rtracklayer",
-    "DelayedMatrixStats",
     "ResidualMatrix",
     "ScaledMatrix",
     "GenomicAlignments"
@@ -4561,7 +4514,6 @@
     "scuttle",
     "SummarizedExperiment",
     "BiocSingular",
-    "DelayedMatrixStats",
     "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
@@ -4584,7 +4536,6 @@
     "SummarizedExperiment",
     "rtracklayer",
     "BiocSingular",
-    "DelayedMatrixStats",
     "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
@@ -4775,7 +4726,6 @@
     "GSEABase",
     "SingleCellExperiment",
     "SpatialExperiment",
-    "DelayedMatrixStats",
     "HDF5Array",
     "BiocSingular",
     "ScaledMatrix",
@@ -4793,7 +4743,6 @@
     "SummarizedExperiment",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
@@ -5030,7 +4979,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
-    "DelayedMatrixStats",
     "scater",
     "scuttle",
     "beachmat",
@@ -5082,7 +5030,6 @@
     "SummarizedExperiment",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
@@ -5215,7 +5162,6 @@
     "SingleCellExperiment",
     "edgeR",
     "SummarizedExperiment",
-    "DelayedMatrixStats",
     "GSEABase",
     "zenith",
     "beachmat",
@@ -5314,7 +5260,6 @@
     "GenomicAlignments",
     "OrganismDbi",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
@@ -5331,7 +5276,6 @@
     "AUCell",
     "motifmatchr",
     "beachmat",
-    "DelayedMatrixStats",
     "GSEABase",
     "BSgenome",
     "TFBSTools",
@@ -5434,7 +5378,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "UCell",
-    "DelayedMatrixStats",
     "annotate",
     "SpatialExperiment",
     "HDF5Array",
@@ -5501,7 +5444,6 @@
     "rtracklayer",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "GEOquery",
     "HDF5Array",
     "GenomicAlignments"
@@ -5554,7 +5496,6 @@
     "SummarizedExperiment",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
@@ -5688,7 +5629,6 @@
   "ginmappeR": [],
   "glmGamPoi": [
     "beachmat",
-    "DelayedMatrixStats",
     "HDF5Array",
     "SummarizedExperiment",
     "SingleCellExperiment"
@@ -5719,11 +5659,9 @@
     "rtracklayer",
     "SummarizedExperiment"
   ],
-  "goProfiles": [],
   "goSTAG": [],
   "goSorensen": [
     "clusterProfiler",
-    "goProfiles",
     "DOSE",
     "enrichplot",
     "GOSemSim",
@@ -5823,7 +5761,6 @@
     "genefilter",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "GEOquery",
     "HDF5Array",
     "GenomicAlignments"
@@ -5837,7 +5774,6 @@
     "GenomicFeatures",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
@@ -5900,7 +5836,6 @@
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
     "MultiAssayExperiment",
-    "DelayedMatrixStats",
     "scater",
     "scuttle",
     "beachmat",
@@ -5996,7 +5931,6 @@
     "DSS",
     "SummarizedExperiment",
     "bsseq",
-    "DelayedMatrixStats",
     "BSgenome",
     "HDF5Array",
     "beachmat",
@@ -6015,7 +5949,6 @@
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
-    "DelayedMatrixStats",
     "scater",
     "scuttle",
     "beachmat",
@@ -6026,7 +5959,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "glmGamPoi",
-    "DelayedMatrixStats",
     "HDF5Array",
     "beachmat"
   ],
@@ -6078,7 +6010,6 @@
     "genefilter",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "GEOquery",
     "HDF5Array",
     "GenomicAlignments"
@@ -6233,7 +6164,6 @@
     "bsseq",
     "ShortRead",
     "annotate",
-    "DelayedMatrixStats",
     "BSgenome",
     "HDF5Array",
     "beachmat"
@@ -6249,7 +6179,6 @@
     "rtracklayer",
     "HDF5Array",
     "BSgenome",
-    "DelayedMatrixStats",
     "GenomicAlignments"
   ],
   "methyLImp2": [
@@ -6262,7 +6191,6 @@
     "bumphunter",
     "genefilter",
     "SummarizedExperiment",
-    "DelayedMatrixStats",
     "BSgenome",
     "HDF5Array",
     "beachmat",
@@ -6288,7 +6216,6 @@
     "GenomicFeatures",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "GEOquery",
     "HDF5Array",
     "rtracklayer",
@@ -6322,7 +6249,6 @@
   ],
   "methylSig": [
     "bsseq",
-    "DelayedMatrixStats",
     "DSS",
     "SummarizedExperiment",
     "BSgenome",
@@ -6338,7 +6264,6 @@
     "SummarizedExperiment",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
@@ -6362,7 +6287,6 @@
     "rtracklayer",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "GEOquery",
     "HDF5Array",
     "GenomicAlignments"
@@ -6409,7 +6333,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
-    "DelayedMatrixStats",
     "scater",
     "scuttle",
     "beachmat",
@@ -6426,7 +6349,6 @@
     "TreeSummarizedExperiment",
     "miaViz",
     "MultiAssayExperiment",
-    "DelayedMatrixStats",
     "scuttle",
     "beachmat",
     "BiocSingular",
@@ -6444,7 +6366,6 @@
     "scater",
     "SingleCellExperiment",
     "MultiAssayExperiment",
-    "DelayedMatrixStats",
     "scuttle",
     "beachmat",
     "BiocSingular",
@@ -6492,7 +6413,6 @@
     "SummarizedExperiment",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
@@ -6510,7 +6430,6 @@
     "GenomicFeatures",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "GEOquery",
     "HDF5Array",
     "rtracklayer",
@@ -6669,7 +6588,6 @@
   ],
   "mumosa": [
     "SingleCellExperiment",
-    "DelayedMatrixStats",
     "SummarizedExperiment",
     "BiocSingular",
     "ScaledMatrix",
@@ -6790,7 +6708,6 @@
     "GSEABase",
     "SingleCellExperiment",
     "SpatialExperiment",
-    "DelayedMatrixStats",
     "HDF5Array",
     "BiocSingular",
     "ScaledMatrix",
@@ -6860,7 +6777,6 @@
     "SummarizedExperiment",
     "SingleCellExperiment",
     "SpatialExperiment",
-    "DelayedMatrixStats",
     "HDF5Array",
     "BiocSingular",
     "ScaledMatrix",
@@ -6932,7 +6848,6 @@
     "GSEABase",
     "SingleCellExperiment",
     "SpatialExperiment",
-    "DelayedMatrixStats",
     "HDF5Array",
     "BiocSingular",
     "edgeR",
@@ -6987,13 +6902,10 @@
     "fgsea",
     "DESeq2",
     "apeglm",
-    "rhdf5client",
     "phantasusLite",
     "SummarizedExperiment"
   ],
-  "phantasusLite": [
-    "rhdf5client"
-  ],
+  "phantasusLite": [],
   "phenoTest": [
     "annotate",
     "Heatplus",
@@ -7233,7 +7145,6 @@
     "SummarizedExperiment",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
@@ -7313,7 +7224,6 @@
   "recountmethylation": [
     "minfi",
     "HDF5Array",
-    "DelayedMatrixStats",
     "SummarizedExperiment",
     "bumphunter",
     "siggenes",
@@ -7347,7 +7257,6 @@
   ],
   "regionalpcs": [
     "PCAtools",
-    "DelayedMatrixStats",
     "BiocSingular",
     "beachmat",
     "ScaledMatrix"
@@ -7378,7 +7287,6 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "rhdf5client": [],
   "riboSeqR": [
     "baySeq",
     "edgeR"
@@ -7501,7 +7409,6 @@
     "SummarizedExperiment",
     "edgeR",
     "DropletUtils",
-    "DelayedMatrixStats",
     "HDF5Array",
     "beachmat",
     "scuttle"
@@ -7509,7 +7416,6 @@
   "scClassify": [
     "Cepo",
     "GSEABase",
-    "DelayedMatrixStats",
     "HDF5Array",
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -7564,7 +7470,6 @@
     "ScaledMatrix"
   ],
   "scFeatures": [
-    "DelayedMatrixStats",
     "GSVA",
     "ensembldb",
     "AUCell",
@@ -7605,7 +7510,6 @@
   ],
   "scMerge": [
     "BiocSingular",
-    "DelayedMatrixStats",
     "M3Drop",
     "scater",
     "batchelor",
@@ -7631,7 +7535,6 @@
     "MultiAssayExperiment",
     "rtracklayer",
     "SummarizedExperiment",
-    "DelayedMatrixStats",
     "HDF5Array",
     "edgeR",
     "beachmat",
@@ -7731,7 +7634,6 @@
     "edgeR",
     "RUVSeq",
     "SingleCellExperiment",
-    "DelayedMatrixStats",
     "EDASeq",
     "ShortRead",
     "GenomicFeatures",
@@ -7875,7 +7777,6 @@
     "SummarizedExperiment",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
@@ -7890,7 +7791,6 @@
     "SummarizedExperiment",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
@@ -7933,7 +7833,6 @@
     "rtracklayer",
     "GSEABase",
     "SingleCellExperiment",
-    "DelayedMatrixStats",
     "HDF5Array",
     "BiocSingular",
     "ScaledMatrix",
@@ -7979,7 +7878,6 @@
     "GenomicFeatures",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "GEOquery",
     "HDF5Array",
     "lumi",
@@ -8036,7 +7934,6 @@
     "SingleCellExperiment"
   ],
   "sparrow": [
-    "DelayedMatrixStats",
     "edgeR",
     "GSEABase",
     "annotate"
@@ -8388,7 +8285,6 @@
     "SummarizedExperiment",
     "HDF5Array",
     "beachmat",
-    "DelayedMatrixStats",
     "SingleCellExperiment"
   ],
   "transmogR": [
@@ -8491,7 +8387,6 @@
     "DropletUtils",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "DelayedMatrixStats",
     "HDF5Array",
     "edgeR",
     "beachmat",
@@ -8528,7 +8423,6 @@
     "rtracklayer",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "GEOquery",
     "HDF5Array",
     "GenomicAlignments"
@@ -8544,8 +8438,7 @@
     "gcrma"
   ],
   "weitrix": [
-    "SummarizedExperiment",
-    "DelayedMatrixStats"
+    "SummarizedExperiment"
   ],
   "wiggleplotr": [
     "rtracklayer",
@@ -8596,7 +8489,6 @@
     "SummarizedExperiment",
     "bumphunter",
     "siggenes",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "HDF5Array",
