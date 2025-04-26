@@ -1575,3 +1575,9 @@ nearBynding
 scanMiRApp
 Ularcirc
 uSORT
+CEMiTool
+CytoPipeline
+EnrichDO
+MetaPhOR
+MicrobiomeProfiler
+scDotPlot

@@ -95,7 +95,6 @@
   "CATALYST": [],
   "CBNplot": [],
   "CCAFE": [],
-  "CEMiTool": [],
   "CGHregions": [],
   "CHRONOS": [],
   "CNTools": [],
@@ -155,13 +154,8 @@
     "MSnbase"
   ],
   "CoSIA": [],
-  "CytoMDS": [
-    "CytoPipeline"
-  ],
-  "CytoPipeline": [],
-  "CytoPipelineGUI": [
-    "CytoPipeline"
-  ],
+  "CytoMDS": [],
+  "CytoPipelineGUI": [],
   "DAMEfinder": [],
   "DAPAR": [
     "MSnbase"
@@ -220,7 +214,6 @@
     "GEOquery"
   ],
   "EasyCellType": [],
-  "EnrichDO": [],
   "EpiCompare": [],
   "EpiTxDb": [
     "tRNAdbImport"
@@ -384,13 +377,11 @@
   "MatrixQCvis": [
     "sva"
   ],
-  "MetaPhOR": [],
   "MetaboSignal": [],
   "MethylAid": [
     "minfi",
     "GEOquery"
   ],
-  "MicrobiomeProfiler": [],
   "MineICA": [
     "GOstats",
     "lumi",
@@ -1357,7 +1348,6 @@
   "scClassify": [],
   "scDD": [],
   "scDblFinder": [],
-  "scDotPlot": [],
   "scFeatures": [
     "GSVA",
     "SingleCellSignalR",
