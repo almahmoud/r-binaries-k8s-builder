@@ -585,3 +585,16 @@ rRDP
 SELEX
 sscu
 VERSO
+BiocPkgTools
+biodb
+FELLA
+gDRstyle
+HIBAG
+mixOmics
+ngsReports
+Omixer
+ReUseData
+rhdf5filters
+scanMiR
+seqArchR
+SpectraQL

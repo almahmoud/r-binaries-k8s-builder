@@ -774,3 +774,12 @@ ggmsa
 ggseqalign
 sangerseqR
 scanMiR
+AlpsNMR
+DepecheR
+biodbChebi
+biodbHmdb
+biodbNcbi
+biodbNci
+biodbUniprot
+rhdf5
+timeOmics
