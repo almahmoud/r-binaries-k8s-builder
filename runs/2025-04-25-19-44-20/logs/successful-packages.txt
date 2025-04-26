@@ -1314,3 +1314,7 @@ RadioGx
 SplicingFactory
 SplineDV
 ToxicoGx
+AGDEX
+BicARE
+MethylSeekR
+PROMISE

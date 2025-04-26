@@ -15,7 +15,6 @@
     "tilingArray",
     "genefilter"
   ],
-  "AGDEX": [],
   "AHMassBank": [
     "AnnotationHubData",
     "OrganismDbi",
@@ -119,7 +118,6 @@
   "BiSeq": [
     "globaltest"
   ],
-  "BicARE": [],
   "BindingSiteFinder": [],
   "BioCor": [],
   "BioGA": [],
@@ -183,9 +181,7 @@
   "CCAFE": [
     "VariantAnnotation"
   ],
-  "CCPROMISE": [
-    "PROMISE"
-  ],
+  "CCPROMISE": [],
   "CDI": [],
   "CEMiTool": [
     "clusterProfiler"
@@ -759,7 +755,6 @@
     "genefilter",
     "GEOquery"
   ],
-  "MethylSeekR": [],
   "MicrobiomeProfiler": [
     "clusterProfiler"
   ],
@@ -855,7 +850,6 @@
     "sva",
     "genefilter"
   ],
-  "PROMISE": [],
   "PRONE": [
     "NormalyzerDE",
     "MSnbase",
@@ -2144,7 +2138,6 @@
     "genefilter"
   ],
   "miRSM": [
-    "BicARE",
     "clusterProfiler"
   ],
   "miRspongeR": [
