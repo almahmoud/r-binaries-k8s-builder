@@ -26,7 +26,6 @@
   "AllelicImbalance": [
     "Gviz"
   ],
-  "AnVILPublish": [],
   "AnnotationHubData": [
     "OrganismDbi"
   ],
@@ -91,8 +90,7 @@
   "CNTools": [],
   "CNVrd2": [],
   "COCOA": [
-    "MIRA",
-    "bsseq"
+    "MIRA"
   ],
   "CRISPRball": [],
   "CTSV": [
@@ -113,7 +111,6 @@
     "sva",
     "wateRmelon",
     "missMethyl",
-    "bsseq",
     "Gviz",
     "methylumi",
     "lumi"
@@ -129,7 +126,6 @@
   "ChIPexoQual": [],
   "CircSeqAlignTk": [],
   "CiteFuse": [],
-  "ClassifyR": [],
   "CleanUpRNAseq": [
     "qsmooth",
     "sva"
@@ -151,15 +147,12 @@
     "SpatialExperiment"
   ],
   "DMRcate": [
-    "bsseq",
     "minfi",
     "missMethyl",
     "Gviz",
     "methylumi"
   ],
-  "DSS": [
-    "bsseq"
-  ],
+  "DSS": [],
   "DaMiRseq": [
     "sva"
   ],
@@ -169,8 +162,7 @@
   ],
   "DeMixT": [
     "DSS",
-    "sva",
-    "bsseq"
+    "sva"
   ],
   "DeconvoBuddies": [
     "SpatialExperiment"
@@ -195,7 +187,6 @@
   "EpiTxDb": [
     "tRNAdbImport"
   ],
-  "EventPointer": [],
   "ExperimentHubData": [
     "AnnotationHubData",
     "OrganismDbi"
@@ -309,9 +300,7 @@
   "MGnifyR": [
     "mia"
   ],
-  "MIRA": [
-    "bsseq"
-  ],
+  "MIRA": [],
   "MLInterfaces": [],
   "MOSClip": [],
   "MOSim": [],
@@ -360,9 +349,7 @@
     "MsExperiment"
   ],
   "MungeSumstats": [],
-  "NanoMethViz": [
-    "bsseq"
-  ],
+  "NanoMethViz": [],
   "NormalyzerDE": [],
   "OGRE": [
     "Gviz"
@@ -469,7 +456,6 @@
     "sva"
   ],
   "SCArray.sat": [],
-  "SCOPE": [],
   "SEraster": [
     "SpatialExperiment"
   ],
@@ -542,9 +528,7 @@
   "TFutils": [
     "GenomicFiles"
   ],
-  "TOP": [
-    "ClassifyR"
-  ],
+  "TOP": [],
   "TPP": [],
   "TSCAN": [],
   "TVTB": [
@@ -669,11 +653,9 @@
     "sva"
   ],
   "borealis": [
-    "bsseq",
     "DSS"
   ],
   "broadSeq": [],
-  "bsseq": [],
   "cBioPortalData": [
     "RTCGAToolbox"
   ],
@@ -734,9 +716,7 @@
   "concordexR": [
     "SpatialExperiment"
   ],
-  "condiments": [
-    "slingshot"
-  ],
+  "condiments": [],
   "consensusDE": [],
   "consensusOV": [
     "GSVA",
@@ -930,8 +910,7 @@
     "SpatialExperiment"
   ],
   "kissDE": [
-    "DSS",
-    "bsseq"
+    "DSS"
   ],
   "lefser": [
     "mia"
@@ -944,14 +923,12 @@
     "spicyR",
     "SpatialExperiment",
     "simpleSeg",
-    "cytomapper",
-    "ClassifyR"
+    "cytomapper"
   ],
   "lumi": [
     "methylumi",
     "minfi"
   ],
-  "m6Aboost": [],
   "mBPCR": [],
   "mCSEA": [
     "Gviz",
@@ -975,14 +952,12 @@
     "MsExperiment"
   ],
   "metaseqR2": [
-    "DSS",
-    "bsseq"
+    "DSS"
   ],
   "methInheritSim": [],
   "methrix": [],
   "methylCC": [
-    "minfi",
-    "bsseq"
+    "minfi"
   ],
   "methylGSA": [
     "missMethyl",
@@ -994,7 +969,6 @@
     "Gviz"
   ],
   "methylSig": [
-    "bsseq",
     "DSS"
   ],
   "methylclock": [
@@ -1201,11 +1175,7 @@
     "GSVA",
     "SpatialExperiment"
   ],
-  "scMET": [],
-  "scMerge": [],
-  "scRNAseqApp": [
-    "slingshot"
-  ],
+  "scRNAseqApp": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData",
@@ -1249,7 +1219,6 @@
     "minfi",
     "lumi"
   ],
-  "slingshot": [],
   "smoothclust": [
     "SpatialExperiment"
   ],
@@ -1283,7 +1252,6 @@
   ],
   "spicyR": [
     "SpatialExperiment",
-    "ClassifyR",
     "simpleSeg",
     "cytomapper"
   ],
@@ -1337,9 +1305,7 @@
   "trackViewer": [
     "Gviz"
   ],
-  "tradeSeq": [
-    "slingshot"
-  ],
+  "tradeSeq": [],
   "transformGamPoi": [
     "glmGamPoi"
   ],
@@ -1358,7 +1324,6 @@
     "lumi",
     "minfi"
   ],
-  "wavClusteR": [],
   "xcms": [
     "MSnbase",
     "MsExperiment"

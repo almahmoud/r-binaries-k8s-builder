@@ -1856,3 +1856,10 @@ iSEEu
 CircSeqAlignTk
 blacksheepr
 diffUTR
+DSS
+MIRA
+NanoMethViz
+TOP
+condiments
+scRNAseqApp
+tradeSeq

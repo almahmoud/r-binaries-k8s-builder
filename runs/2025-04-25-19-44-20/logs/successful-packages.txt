@@ -1647,3 +1647,13 @@ bambu
 DEXSeq
 IMPCdata
 Rhisat2
+AnVILPublish
+bsseq
+ClassifyR
+EventPointer
+m6Aboost
+scMerge
+scMET
+SCOPE
+slingshot
+wavClusteR
