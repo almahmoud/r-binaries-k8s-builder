@@ -918,3 +918,8 @@ methylscaper
 mpra
 NanoTube
 oncomix
+BioNAR
+findIPs
+getDEE2
+pairkat
+proDA

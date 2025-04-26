@@ -276,7 +276,6 @@
     "annotate"
   ],
   "BioGA": [],
-  "BioNAR": [],
   "BioNERO": [
     "sva",
     "genefilter",
@@ -1711,7 +1710,6 @@
     "Wrench"
   ],
   "MatrixQCvis": [
-    "proDA",
     "sva",
     "vsn",
     "genefilter",
@@ -4286,7 +4284,6 @@
     "GEOquery",
     "GenomicAlignments"
   ],
-  "findIPs": [],
   "fishpond": [
     "SingleCellExperiment"
   ],
@@ -4393,7 +4390,6 @@
     "GSEABase",
     "annotate"
   ],
-  "getDEE2": [],
   "geyser": [],
   "gg4way": [
     "DESeq2",
@@ -5354,7 +5350,6 @@
     "edgeR",
     "annotate"
   ],
-  "pairkat": [],
   "partCNV": [
     "SingleCellExperiment"
   ],
@@ -5502,7 +5497,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "proDA": [],
   "profileplyr": [
     "soGGi",
     "ChIPseeker",
