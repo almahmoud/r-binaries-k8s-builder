@@ -585,3 +585,8 @@ NCIgraph
 SPIA
 lpNet
 progeny
+CCPlotR
+ClustAll
+InteractiveComplexHeatmap
+cola
+simona

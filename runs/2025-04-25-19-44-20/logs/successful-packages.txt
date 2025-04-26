@@ -254,3 +254,12 @@ philr
 rsbml
 Streamer
 XINA
+a4Classif
+ComplexHeatmap
+DCATS
+DirichletMultinomial
+metabCombiner
+MOGAMUN
+PhenStat
+sevenbridges
+TRONCO
