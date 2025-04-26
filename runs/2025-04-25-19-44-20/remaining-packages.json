@@ -2,10 +2,7 @@
   "ACE": [
     "QDNAseq"
   ],
-  "ADAM": [],
-  "ADAMgui": [
-    "ADAM"
-  ],
+  "ADAMgui": [],
   "ADaCGH2": [
     "tilingArray"
   ],
@@ -14,9 +11,7 @@
     "OrganismDbi"
   ],
   "APAlyzer": [],
-  "ASICS": [
-    "ropls"
-  ],
+  "ASICS": [],
   "ASSIGN": [
     "sva"
   ],
@@ -192,7 +187,6 @@
   "CytoMDS": [
     "CytoPipeline"
   ],
-  "CytoML": [],
   "CytoPipeline": [],
   "CytoPipelineGUI": [
     "CytoPipeline"
@@ -500,9 +494,7 @@
   "MsQuality": [
     "MsExperiment"
   ],
-  "MultiBaC": [
-    "ropls"
-  ],
+  "MultiBaC": [],
   "MungeSumstats": [],
   "MutationalPatterns": [],
   "NBAMSeq": [],
@@ -608,10 +600,7 @@
   "RTCGAToolbox": [
     "TCGAutils"
   ],
-  "RTNduals": [],
-  "RTNsurvival": [
-    "RTNduals"
-  ],
+  "RTNsurvival": [],
   "RUVSeq": [
     "EDASeq"
   ],
@@ -890,9 +879,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "biosigner": [
-    "ropls"
-  ],
+  "biosigner": [],
   "biovizBase": [],
   "blacksheepr": [
     "DEXSeq"
@@ -1010,7 +997,6 @@
   ],
   "countsimQC": [],
   "covRNA": [],
-  "crisprBwa": [],
   "crisprDesign": [],
   "crisprShiny": [
     "crisprDesign",
@@ -1273,9 +1259,7 @@
     "glmGamPoi"
   ],
   "lineagespot": [],
-  "lipidr": [
-    "ropls"
-  ],
+  "lipidr": [],
   "lisaClust": [
     "spicyR",
     "SpatialExperiment",
@@ -1299,7 +1283,6 @@
     "OrganismDbi"
   ],
   "maPredictDSC": [],
-  "maaslin3": [],
   "magpie": [
     "TRESS"
   ],
@@ -1496,9 +1479,7 @@
   "phenoTest": [
     "Category"
   ],
-  "phenomis": [
-    "ropls"
-  ],
+  "phenomis": [],
   "pipeComp": [],
   "plyinteractions": [],
   "poem": [
@@ -1574,10 +1555,7 @@
     "motifStack",
     "RUVSeq"
   ],
-  "ropls": [],
-  "rqt": [
-    "ropls"
-  ],
+  "rqt": [],
   "sSNAPPY": [],
   "sampleClassifier": [],
   "saseR": [

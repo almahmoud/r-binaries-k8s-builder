@@ -1486,3 +1486,9 @@ MEDIPS
 MSstatsBig
 MSstatsBioNet
 RUCova
+ADAM
+crisprBwa
+CytoML
+maaslin3
+ropls
+RTNduals
