@@ -1202,3 +1202,8 @@ HicAggR
 InTAD
 metagene2
 PAST
+autonomics
+GenomicFeatures
+groHMM
+methylKit
+pram
