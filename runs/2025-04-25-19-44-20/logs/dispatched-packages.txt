@@ -1819,3 +1819,6 @@ RESOLVE
 hiReadsProcessor
 velociraptor
 Ularcirc
+ACE
+GeneBreak
+cfdnakit

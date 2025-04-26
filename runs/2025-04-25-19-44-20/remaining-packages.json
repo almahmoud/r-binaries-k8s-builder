@@ -1,7 +1,5 @@
 {
-  "ACE": [
-    "QDNAseq"
-  ],
+  "ACE": [],
   "ADAMgui": [],
   "ADaCGH2": [
     "tilingArray"
@@ -10,7 +8,6 @@
     "AnnotationHubData",
     "OrganismDbi"
   ],
-  "APAlyzer": [],
   "ASICS": [],
   "ASSIGN": [
     "sva"
@@ -58,7 +55,6 @@
   "BatchQC": [
     "sva"
   ],
-  "BgeeCall": [],
   "BiSeq": [
     "globaltest"
   ],
@@ -205,8 +201,6 @@
   "DeconvoBuddies": [
     "SpatialExperiment"
   ],
-  "DegCre": [],
-  "DegNorm": [],
   "DiffBind": [
     "systemPipeR"
   ],
@@ -281,9 +275,7 @@
   "GSVA": [
     "SpatialExperiment"
   ],
-  "GeneBreak": [
-    "QDNAseq"
-  ],
+  "GeneBreak": [],
   "GeneMeta": [],
   "GeneStructureTools": [
     "Gviz"
@@ -483,7 +475,6 @@
   "Pviz": [
     "Gviz"
   ],
-  "QDNAseq": [],
   "QuasR": [
     "GenomicFiles"
   ],
@@ -623,7 +614,6 @@
     "SpatialExperiment"
   ],
   "SpliceWiz": [],
-  "SplicingGraphs": [],
   "SpotClean": [
     "SpatialExperiment"
   ],
@@ -821,9 +811,7 @@
   "ccImpute": [],
   "celda": [],
   "cfDNAPro": [],
-  "cfdnakit": [
-    "QDNAseq"
-  ],
+  "cfdnakit": [],
   "cghMCR": [
     "CNTools"
   ],
@@ -935,7 +923,6 @@
     "GEOquery"
   ],
   "deepSNV": [],
-  "demuxSNP": [],
   "derfinder": [
     "GenomicFiles"
   ],
