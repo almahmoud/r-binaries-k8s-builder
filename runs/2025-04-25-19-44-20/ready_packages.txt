@@ -1,2 +1,11 @@
-ReUseData
-gDRstyle
+AssessORF
+IMMAN
+LinTInd
+MSA2dist
+MethTargetedNGS
+QSutils
+SynExtend
+ggmsa
+ggseqalign
+sangerseqR
+scanMiR
