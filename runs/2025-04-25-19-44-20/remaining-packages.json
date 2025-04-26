@@ -244,9 +244,7 @@
     "SpatialExperiment",
     "OrganismDbi"
   ],
-  "FRASER": [
-    "OUTRIDER"
-  ],
+  "FRASER": [],
   "FastqCleaner": [],
   "FindIT2": [],
   "GA4GHshiny": [],
@@ -321,8 +319,7 @@
   ],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
-    "sva",
-    "tximeta"
+    "sva"
   ],
   "KnowSeq": [
     "sva"
@@ -435,7 +432,6 @@
   "OMICsPCA": [
     "HelloRanges"
   ],
-  "OUTRIDER": [],
   "OrganismDbi": [],
   "PAA": [
     "sva"
@@ -1530,8 +1526,6 @@
   ],
   "traseR": [],
   "tricycle": [],
-  "txcutr": [],
-  "tximeta": [],
   "uSORT": [],
   "uncoverappLib": [
     "Gviz",

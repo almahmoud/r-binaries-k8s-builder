@@ -1,6 +1,1 @@
-GenomicPlot
-MetaboSignal
-SMITE
-chevreulPlot
-magpie
-rgsepd
+FRASER
