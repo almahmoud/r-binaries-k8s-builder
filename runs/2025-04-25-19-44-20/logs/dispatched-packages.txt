@@ -971,3 +971,4 @@ surfaltr
 ndexr
 esetVis
 phantasusLite
+scPCA
