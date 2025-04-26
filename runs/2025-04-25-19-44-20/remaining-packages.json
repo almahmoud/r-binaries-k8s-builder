@@ -2,7 +2,6 @@
   "AHMassBank": [
     "AnnotationHubData"
   ],
-  "ASICS": [],
   "ASSIGN": [
     "sva"
   ],
@@ -517,7 +516,6 @@
     "Gviz"
   ],
   "concordexR": [],
-  "condiments": [],
   "consensusOV": [
     "GSVA"
   ],
@@ -570,7 +568,6 @@
   "doppelgangR": [
     "sva"
   ],
-  "dreamlet": [],
   "edge": [
     "sva"
   ],
