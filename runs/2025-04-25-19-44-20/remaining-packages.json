@@ -108,7 +108,6 @@
     "KEGGREST",
     "rhdf5filters"
   ],
-  "ANF": [],
   "APAlyzer": [
     "GenomicFeatures",
     "GenomicAlignments",
@@ -624,9 +623,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "BioMVCClass": [
-    "MVCClass"
-  ],
+  "BioMVCClass": [],
   "BioNAR": [
     "fgsea",
     "AnnotationDbi",
@@ -1301,7 +1298,6 @@
     "oligoClasses",
     "limma",
     "SummarizedExperiment",
-    "affxparser",
     "MatrixGenerics",
     "DelayedArray",
     "SparseArray"
@@ -1626,7 +1622,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "DEGseq": [],
   "DELocal": [
     "DESeq2",
     "limma",
@@ -2305,7 +2300,6 @@
     "SummarizedExperiment",
     "GenomicFeatures",
     "limma",
-    "affxparser",
     "rhdf5",
     "BSgenome",
     "fgsea",
@@ -2773,9 +2767,7 @@
     "annotate",
     "KEGGREST"
   ],
-  "GeneRegionScan": [
-    "affxparser"
-  ],
+  "GeneRegionScan": [],
   "GeneSelectMMD": [
     "limma"
   ],
@@ -3297,7 +3289,6 @@
   "ITALICS": [
     "GLAD",
     "oligo",
-    "affxparser",
     "oligoClasses",
     "affyio",
     "SummarizedExperiment",
@@ -4002,7 +3993,6 @@
     "MSstats",
     "marray"
   ],
-  "MVCClass": [],
   "MWASTools": [
     "SummarizedExperiment",
     "KEGGREST",
@@ -4560,9 +4550,7 @@
     "affyio",
     "SparseArray"
   ],
-  "NormqPCR": [
-    "ReadqPCR"
-  ],
+  "NormqPCR": [],
   "OCplus": [
     "multtest"
   ],
@@ -4742,9 +4730,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "PANR": [
-    "RedeR"
-  ],
+  "PANR": [],
   "PAST": [
     "rtracklayer",
     "Rsamtools",
@@ -4807,7 +4793,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "PLPE": [],
   "PLSDAbatch": [
     "mixOmics",
     "TreeSummarizedExperiment",
@@ -4913,7 +4898,6 @@
     "fgsea",
     "multtest"
   ],
-  "PathNet": [],
   "PathoStat": [
     "limma",
     "phyloseq",
@@ -5466,7 +5450,6 @@
     "GenomicAlignments"
   ],
   "RTN": [
-    "RedeR",
     "limma",
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -5475,7 +5458,6 @@
   ],
   "RTNduals": [
     "RTN",
-    "RedeR",
     "limma",
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -5485,7 +5467,6 @@
   "RTNsurvival": [
     "RTN",
     "RTNduals",
-    "RedeR",
     "limma",
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -5620,8 +5601,6 @@
     "fgsea",
     "GOSemSim"
   ],
-  "ReadqPCR": [],
-  "RedeR": [],
   "RegEnrich": [
     "BiocSet",
     "SummarizedExperiment",
@@ -5879,7 +5858,6 @@
     "limma",
     "SummarizedExperiment",
     "oligoClasses",
-    "affxparser",
     "genefilter",
     "edgeR",
     "MatrixGenerics",
@@ -6802,7 +6780,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "TMixClust": [],
   "TOAST": [
     "EpiDISH",
     "limma",
@@ -6917,9 +6894,7 @@
     "MatrixGenerics",
     "SparseArray"
   ],
-  "TreeAndLeaf": [
-    "RedeR"
-  ],
+  "TreeAndLeaf": [],
   "TreeSummarizedExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -7290,7 +7265,6 @@
     "MatrixGenerics",
     "SparseArray"
   ],
-  "affxparser": [],
   "affy": [
     "affyio"
   ],
@@ -7300,7 +7274,6 @@
   ],
   "affyILM": [
     "gcrma",
-    "affxparser",
     "affy",
     "affyio"
   ],
@@ -7386,7 +7359,6 @@
     "alabaster.vcf",
     "alabaster.bumpy",
     "alabaster.mae",
-    "alabaster.schemas",
     "rhdf5",
     "MultiAssayExperiment",
     "DelayedArray",
@@ -7408,20 +7380,17 @@
     "GenomicAlignments"
   ],
   "alabaster.base": [
-    "alabaster.schemas",
     "rhdf5",
     "rhdf5filters"
   ],
   "alabaster.bumpy": [
     "alabaster.base",
     "rhdf5",
-    "alabaster.schemas",
     "rhdf5filters"
   ],
   "alabaster.files": [
     "alabaster.base",
     "Rsamtools",
-    "alabaster.schemas",
     "rhdf5",
     "rhdf5filters"
   ],
@@ -7430,7 +7399,6 @@
     "alabaster.base",
     "alabaster.se",
     "rhdf5",
-    "alabaster.schemas",
     "SummarizedExperiment",
     "alabaster.ranges",
     "alabaster.matrix",
@@ -7447,7 +7415,6 @@
     "SparseArray",
     "rhdf5",
     "HDF5Array",
-    "alabaster.schemas",
     "MatrixGenerics",
     "h5mread",
     "rhdf5filters"
@@ -7455,14 +7422,12 @@
   "alabaster.ranges": [
     "alabaster.base",
     "rhdf5",
-    "alabaster.schemas",
     "rhdf5filters"
   ],
   "alabaster.sce": [
     "SingleCellExperiment",
     "alabaster.base",
     "alabaster.se",
-    "alabaster.schemas",
     "rhdf5",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -7474,13 +7439,11 @@
     "rhdf5filters",
     "h5mread"
   ],
-  "alabaster.schemas": [],
   "alabaster.se": [
     "SummarizedExperiment",
     "alabaster.base",
     "alabaster.ranges",
     "alabaster.matrix",
-    "alabaster.schemas",
     "rhdf5",
     "DelayedArray",
     "SparseArray",
@@ -7496,7 +7459,6 @@
     "alabaster.spatial",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "alabaster.schemas",
     "rhdf5",
     "alabaster.se",
     "SpatialExperiment",
@@ -7521,7 +7483,6 @@
     "alabaster.base",
     "alabaster.sce",
     "rhdf5",
-    "alabaster.schemas",
     "SingleCellExperiment",
     "alabaster.se",
     "rhdf5filters",
@@ -7536,7 +7497,6 @@
   ],
   "alabaster.string": [
     "alabaster.base",
-    "alabaster.schemas",
     "rhdf5",
     "rhdf5filters"
   ],
@@ -7546,7 +7506,6 @@
     "alabaster.se",
     "alabaster.string",
     "Rsamtools",
-    "alabaster.schemas",
     "rhdf5",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -7956,7 +7915,6 @@
   "bioCancer": [
     "cBioPortalData",
     "AnnotationDbi",
-    "geNetClassifier",
     "DOSE",
     "clusterProfiler",
     "ReactomePA",
@@ -8262,7 +8220,6 @@
   "canceR": [
     "cBioPortalData",
     "GSEABase",
-    "geNetClassifier",
     "phenoTest",
     "MultiAssayExperiment",
     "RaggedExperiment",
@@ -8478,7 +8435,6 @@
     "alabaster.base",
     "EnhancedVolcano",
     "wiggleplotr",
-    "alabaster.schemas",
     "rhdf5",
     "scater",
     "scran",
@@ -9303,7 +9259,6 @@
   ],
   "dcanr": [],
   "ddCt": [],
-  "ddPCRclust": [],
   "debCAM": [
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -9534,7 +9489,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "diggit": [],
   "dinoR": [
     "SummarizedExperiment",
     "edgeR",
@@ -9847,7 +9801,6 @@
     "h5mread",
     "rhdf5filters",
     "pwalign",
-    "alabaster.schemas",
     "GenomicAlignments"
   ],
   "epiregulon.extra": [
@@ -10162,7 +10115,6 @@
   "flowBin": [
     "limma"
   ],
-  "flowCut": [],
   "flowGate": [
     "flowWorkspace",
     "ggcyto",
@@ -10198,7 +10150,6 @@
     "oligo",
     "oligoClasses",
     "affyio",
-    "affxparser",
     "SummarizedExperiment",
     "MatrixGenerics",
     "DelayedArray",
@@ -10317,7 +10268,6 @@
     "affy",
     "affyio"
   ],
-  "geNetClassifier": [],
   "gemma.R": [
     "SummarizedExperiment",
     "MatrixGenerics",
@@ -11467,7 +11417,6 @@
     "limma",
     "Wrench"
   ],
-  "metahdep": [],
   "metapod": [],
   "metapone": [
     "fgsea"
@@ -11940,7 +11889,6 @@
     "oligoClasses",
     "affyio",
     "gcrma",
-    "affxparser",
     "SummarizedExperiment",
     "MatrixGenerics",
     "DelayedArray",
@@ -12422,7 +12370,6 @@
     "limma",
     "multtest"
   ],
-  "netprioR": [],
   "netresponse": [],
   "ngsReports": [],
   "nipalsMCIA": [
@@ -12518,7 +12465,6 @@
   "oligo": [
     "oligoClasses",
     "affyio",
-    "affxparser",
     "SummarizedExperiment",
     "MatrixGenerics",
     "DelayedArray",
@@ -12814,7 +12760,6 @@
     "KEGGREST"
   ],
   "pdInfoBuilder": [
-    "affxparser",
     "oligo",
     "oligoClasses",
     "affyio",
@@ -12936,7 +12881,6 @@
     "fgsea",
     "limma"
   ],
-  "pickgene": [],
   "pipeComp": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -13247,7 +13191,6 @@
     "oligoClasses",
     "affy",
     "affyio",
-    "affxparser",
     "SummarizedExperiment",
     "MatrixGenerics",
     "DelayedArray",
@@ -13626,7 +13569,6 @@
     "Rsamtools"
   ],
   "rfaRm": [],
-  "rgoslin": [],
   "rgsepd": [
     "DESeq2",
     "goseq",
@@ -14165,7 +14107,6 @@
     "MatrixGenerics",
     "SparseArray"
   ],
-  "scShapes": [],
   "scTGIF": [
     "GSEABase",
     "SingleCellExperiment",
@@ -14599,7 +14540,6 @@
   "siggenes": [
     "multtest"
   ],
-  "sights": [],
   "signatureSearch": [
     "SummarizedExperiment",
     "AnnotationDbi",

@@ -748,3 +748,8 @@ netresponse
 rawDiag
 sights
 subSeq
+BioMVCClass
+GeneRegionScan
+NormqPCR
+PANR
+TreeAndLeaf
