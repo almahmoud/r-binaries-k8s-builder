@@ -1,9 +1,6 @@
-AlpsNMR
-DepecheR
-biodbChebi
-biodbHmdb
-biodbNcbi
-biodbNci
-biodbUniprot
-rhdf5
-timeOmics
+LymphoSeq
+SparseArray
+sangeranalyseR
+scifer
+sparseMatrixStats
+universalmotif
