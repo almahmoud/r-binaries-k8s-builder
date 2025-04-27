@@ -3,7 +3,6 @@
     "AnnotationHubData"
   ],
   "ASSIGN": [],
-  "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
@@ -11,7 +10,6 @@
   ],
   "AnnotationHubData": [],
   "BASiCStan": [],
-  "BERT": [],
   "BOBaFIT": [
     "ggbio"
   ],
@@ -19,7 +17,6 @@
   "BatchQC": [],
   "BiSeq": [],
   "BioNERO": [],
-  "BulkSignalR": [],
   "CAFE": [
     "ggbio"
   ],
@@ -30,7 +27,6 @@
   "CARDspa": [],
   "CCAFE": [],
   "CGHregions": [],
-  "CHRONOS": [],
   "CNVrd2": [],
   "COCOA": [],
   "CTSV": [],
@@ -50,11 +46,9 @@
   "ChIPXpress": [
     "frma"
   ],
-  "CytoPipelineGUI": [],
   "DAMEfinder": [],
   "DAPAR": [],
   "DEP": [],
-  "DESpace": [],
   "DMRcate": [
     "missMethyl",
     "methylumi"
@@ -89,7 +83,6 @@
     "ggbio"
   ],
   "GlobalAncova": [],
-  "HarmonizR": [],
   "IPO": [
     "xcms",
     "CAMERA"
@@ -207,7 +200,6 @@
     "alabaster.spatial"
   ],
   "alabaster.spatial": [],
-  "appreci8R": [],
   "arrayMvout": [
     "lumi",
     "methylumi"

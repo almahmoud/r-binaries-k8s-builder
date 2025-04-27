@@ -1911,3 +1911,11 @@ scDblFinder
 CNTools
 enhancerHomologSearch
 scider
+appreci8R
+ATACseqTFEA
+BERT
+BulkSignalR
+CHRONOS
+CytoPipelineGUI
+DESpace
+HarmonizR
