@@ -70,7 +70,6 @@
   "GARS": [],
   "GEOexplorer": [],
   "GOTHiC": [],
-  "GSVA": [],
   "GenomicOZone": [
     "ggbio"
   ],
@@ -159,10 +158,8 @@
   "SpotSweeper": [
     "escheR"
   ],
-  "Statial": [],
   "TBSignatureProfiler": [
-    "ASSIGN",
-    "GSVA"
+    "ASSIGN"
   ],
   "VisiumIO": [],
   "Voyager": [],
@@ -200,7 +197,6 @@
     "lumi"
   ],
   "bioCancer": [],
-  "biomvRCNS": [],
   "borealis": [],
   "cageminer": [
     "ggbio",
@@ -221,9 +217,7 @@
   "clusterSeq": [],
   "comapr": [],
   "concordexR": [],
-  "consensusOV": [
-    "GSVA"
-  ],
+  "consensusOV": [],
   "conumee": [],
   "cosmiq": [
     "xcms"
@@ -261,9 +255,7 @@
     "epivizrData"
   ],
   "esATAC": [],
-  "escape": [
-    "GSVA"
-  ],
+  "escape": [],
   "escheR": [],
   "famat": [],
   "ffpe": [
@@ -350,20 +342,14 @@
   "ncGTW": [
     "xcms"
   ],
-  "octad": [
-    "GSVA"
-  ],
-  "oppar": [
-    "GSVA"
-  ],
+  "octad": [],
+  "oppar": [],
   "pRoloc": [],
   "pRolocGUI": [
     "pRoloc"
   ],
   "pageRank": [],
-  "pathMED": [
-    "GSVA"
-  ],
+  "pathMED": [],
   "pdInfoBuilder": [],
   "peakPantheR": [],
   "phantasus": [],
@@ -388,9 +374,7 @@
   "saseR": [],
   "scClassify": [],
   "scDD": [],
-  "scFeatures": [
-    "GSVA"
-  ],
+  "scFeatures": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData"
@@ -403,8 +387,7 @@
   "shinyepico": [],
   "signeR": [],
   "signifinder": [
-    "consensusOV",
-    "GSVA"
+    "consensusOV"
   ],
   "simpleSeg": [
     "cytomapper"

@@ -1935,3 +1935,6 @@ BatchQC
 MatrixQCvis
 DaMiRseq
 MungeSumstats
+biomvRCNS
+GSVA
+Statial
