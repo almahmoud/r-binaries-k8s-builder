@@ -1,7 +1,6 @@
 {
   "AgiMicroRna": [
-    "affycoretools",
-    "ReportingTools"
+    "affycoretools"
   ],
   "ChAMP": [
     "DMRcate",
@@ -23,25 +22,19 @@
     "msmsTests"
   ],
   "MineICA": [],
-  "R3CPET": [],
   "RNAAgeCalc": [],
-  "ReportingTools": [],
   "RiboProfiling": [],
   "RnBeads": [],
   "RnaSeqSampleSize": [],
   "SomaticSignatures": [],
-  "XeniumIO": [],
   "YAPSA": [
     "SomaticSignatures"
   ],
-  "affycoretools": [
-    "ReportingTools"
-  ],
+  "affycoretools": [],
   "arrayMvout": [],
   "bigmelon": [
     "wateRmelon"
   ],
-  "cageminer": [],
   "ffpe": [],
   "iCheck": [],
   "lisaClust": [],
@@ -55,7 +48,6 @@
   "msmsTests": [],
   "psichomics": [],
   "scTreeViz": [],
-  "scruff": [],
   "skewr": [
     "wateRmelon"
   ],

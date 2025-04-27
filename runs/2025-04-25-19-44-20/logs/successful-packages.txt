@@ -2134,3 +2134,8 @@ Damsel
 GenomicOZone
 derfinderPlot
 intansv
+cageminer
+R3CPET
+ReportingTools
+scruff
+XeniumIO
