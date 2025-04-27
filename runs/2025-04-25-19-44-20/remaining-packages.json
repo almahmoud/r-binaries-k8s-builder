@@ -4,17 +4,12 @@
   ],
   "ChAMP": [
     "DMRcate",
-    "wateRmelon",
-    "missMethyl"
+    "wateRmelon"
   ],
-  "DMRcate": [
-    "missMethyl"
-  ],
+  "DMRcate": [],
   "EpiCompare": [],
   "FLAMES": [],
-  "MEAL": [
-    "missMethyl"
-  ],
+  "MEAL": [],
   "MEAT": [
     "wateRmelon"
   ],
@@ -33,12 +28,7 @@
   "ffpe": [],
   "iCheck": [],
   "lisaClust": [],
-  "methylGSA": [
-    "missMethyl"
-  ],
-  "methylclock": [],
-  "miaDash": [],
-  "missMethyl": [],
+  "methylGSA": [],
   "msmsTests": [],
   "psichomics": [],
   "skewr": [
