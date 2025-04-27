@@ -2078,3 +2078,8 @@ chimeraviz
 GOTHiC
 methylCC
 spatialHeatmap
+epiregulon
+ggbio
+MetaboSignal
+methrix
+poem

@@ -2,17 +2,12 @@
   "AHMassBank": [],
   "AgiMicroRna": [
     "affycoretools",
-    "ReportingTools",
-    "ggbio"
+    "ReportingTools"
   ],
   "BASiCStan": [],
-  "BOBaFIT": [
-    "ggbio"
-  ],
+  "BOBaFIT": [],
   "Banksy": [],
-  "CAFE": [
-    "ggbio"
-  ],
+  "CAFE": [],
   "CatsCradle": [],
   "ChAMP": [
     "DMRcate",
@@ -27,18 +22,12 @@
   "DMRcate": [
     "missMethyl"
   ],
-  "Damsel": [
-    "ggbio"
-  ],
+  "Damsel": [],
   "ENmix": [],
   "EpiCompare": [],
   "ExperimentHubData": [],
-  "FLAMES": [
-    "ggbio"
-  ],
-  "GenomicOZone": [
-    "ggbio"
-  ],
+  "FLAMES": [],
+  "GenomicOZone": [],
   "MEAL": [
     "missMethyl"
   ],
@@ -51,7 +40,6 @@
     "msmsEDA"
   ],
   "MSstatsQCgui": [],
-  "MetaboSignal": [],
   "MineICA": [
     "lumi"
   ],
@@ -59,28 +47,20 @@
   "Prostar": [
     "DAPAR"
   ],
-  "R3CPET": [
-    "ggbio"
-  ],
+  "R3CPET": [],
   "RNAAgeCalc": [
     "recount"
   ],
   "Rbec": [],
-  "ReportingTools": [
-    "ggbio"
-  ],
-  "RiboProfiling": [
-    "ggbio"
-  ],
+  "ReportingTools": [],
+  "RiboProfiling": [],
   "RnBeads": [],
   "RnaSeqSampleSize": [
     "recount"
   ],
   "SPIAT": [],
   "SigsPack": [],
-  "SomaticSignatures": [
-    "ggbio"
-  ],
+  "SomaticSignatures": [],
   "SpotSweeper": [],
   "TBSignatureProfiler": [],
   "VisiumIO": [],
@@ -89,12 +69,10 @@
     "VisiumIO"
   ],
   "YAPSA": [
-    "SomaticSignatures",
-    "ggbio"
+    "SomaticSignatures"
   ],
   "affycoretools": [
-    "ReportingTools",
-    "ggbio"
+    "ReportingTools"
   ],
   "arrayMvout": [
     "lumi"
@@ -104,25 +82,19 @@
     "wateRmelon",
     "lumi"
   ],
-  "cageminer": [
-    "ggbio"
-  ],
+  "cageminer": [],
   "canceR": [],
   "crisprShiny": [],
   "crisprVerse": [],
   "cummeRbund": [],
   "cytoviewer": [],
   "deconvR": [],
-  "derfinderPlot": [
-    "ggbio"
-  ],
-  "epiregulon": [],
+  "derfinderPlot": [],
   "epivizrStandalone": [],
   "ffpe": [
     "lumi"
   ],
   "geomeTriD": [],
-  "ggbio": [],
   "hoodscanR": [],
   "iCheck": [
     "lumi"
@@ -130,15 +102,12 @@
   "iNETgrate": [],
   "iSEEtree": [],
   "imcRtools": [],
-  "intansv": [
-    "ggbio"
-  ],
+  "intansv": [],
   "lisaClust": [
     "spicyR",
     "simpleSeg"
   ],
   "lumi": [],
-  "methrix": [],
   "methylGSA": [
     "missMethyl"
   ],
@@ -149,24 +118,19 @@
     "iSEEtree"
   ],
   "missMethyl": [],
-  "msgbsR": [
-    "ggbio"
-  ],
+  "msgbsR": [],
   "msmsEDA": [],
   "msmsTests": [
     "msmsEDA"
   ],
   "pRolocGUI": [],
-  "poem": [],
   "preciseTAD": [],
   "psichomics": [
     "recount"
   ],
   "recount": [],
   "scTreeViz": [],
-  "scruff": [
-    "ggbio"
-  ],
+  "scruff": [],
   "shinyDSP": [],
   "shinyMethyl": [],
   "signifinder": [],

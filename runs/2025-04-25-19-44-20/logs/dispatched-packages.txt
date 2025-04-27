@@ -2130,3 +2130,17 @@ ExperimentHubData
 cytoviewer
 imcRtools
 simpleSeg
+BOBaFIT
+CAFE
+Damsel
+FLAMES
+GenomicOZone
+R3CPET
+ReportingTools
+RiboProfiling
+SomaticSignatures
+cageminer
+derfinderPlot
+intansv
+msgbsR
+scruff
