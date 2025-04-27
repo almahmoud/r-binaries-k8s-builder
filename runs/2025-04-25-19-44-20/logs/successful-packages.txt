@@ -2060,3 +2060,8 @@ SIM
 puma
 sosta
 SpotClean
+borealis
+COCOA
+shinyepico
+smoppix
+SWATH2stats

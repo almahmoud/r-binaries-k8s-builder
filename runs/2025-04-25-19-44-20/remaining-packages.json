@@ -17,7 +17,6 @@
     "ggbio"
   ],
   "CAGEr": [],
-  "COCOA": [],
   "CatsCradle": [],
   "ChAMP": [
     "DMRcate",
@@ -86,7 +85,6 @@
     "recount"
   ],
   "SPIAT": [],
-  "SWATH2stats": [],
   "SigsPack": [],
   "SomaticSignatures": [
     "ggbio"
@@ -114,7 +112,6 @@
     "wateRmelon",
     "lumi"
   ],
-  "borealis": [],
   "cageminer": [
     "ggbio"
   ],
@@ -197,7 +194,6 @@
   ],
   "shinyDSP": [],
   "shinyMethyl": [],
-  "shinyepico": [],
   "signifinder": [],
   "simpleSeg": [
     "cytomapper"
@@ -206,7 +202,6 @@
     "wateRmelon",
     "lumi"
   ],
-  "smoppix": [],
   "spaSim": [],
   "spatialHeatmap": [],
   "spicyR": [
