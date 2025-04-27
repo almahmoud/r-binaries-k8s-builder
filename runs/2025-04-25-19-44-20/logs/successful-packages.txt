@@ -1850,3 +1850,10 @@ GOstats
 omicRexposome
 qsmooth
 seqCAT
+CAGEfightR
+CircSeqAlignTk
+globaltest
+HiCDCPlus
+nnSVG
+selectKSigs
+spatzie

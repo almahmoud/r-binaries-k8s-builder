@@ -1,6 +1,5 @@
-CleanUpRNAseq
-GmicR
-SGCP
-attract
-categoryCompare
-miRLAB
+BiSeq
+CAGEr
+GlobalAncova
+SIM
+spoon
