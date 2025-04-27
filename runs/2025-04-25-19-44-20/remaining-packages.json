@@ -191,7 +191,6 @@
   "SPIAT": [],
   "SVP": [],
   "SWATH2stats": [],
-  "SigCheck": [],
   "SigsPack": [],
   "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [
@@ -424,7 +423,6 @@
     "msmsEDA"
   ],
   "mumosa": [],
-  "muscat": [],
   "ncGTW": [
     "xcms"
   ],
@@ -456,7 +454,6 @@
   "psichomics": [
     "recount"
   ],
-  "ptairMS": [],
   "puma": [],
   "quantro": [
     "minfi"

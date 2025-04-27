@@ -1891,3 +1891,6 @@ MinimumDistance
 qPLEXanalyzer
 SpatialFeatureExperiment
 gwasurvivr
+muscat
+ptairMS
+SigCheck
