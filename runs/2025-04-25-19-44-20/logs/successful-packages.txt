@@ -2036,3 +2036,5 @@ bioCancer
 MoleculeExperiment
 regionReport
 stJoincount
+cghMCR
+epivizrData

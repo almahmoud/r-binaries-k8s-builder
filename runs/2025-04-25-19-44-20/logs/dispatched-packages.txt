@@ -2117,3 +2117,5 @@ TBSignatureProfiler
 MSstatsQCgui
 SpotSweeper
 geomeTriD
+epivizr
+epivizrChart

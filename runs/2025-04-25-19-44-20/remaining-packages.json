@@ -136,7 +136,6 @@
     "BioNERO"
   ],
   "canceR": [],
-  "cghMCR": [],
   "chimeraviz": [],
   "conumee": [],
   "crisprShiny": [],
@@ -153,16 +152,10 @@
   ],
   "epimutacions": [],
   "epiregulon": [],
-  "epivizr": [
-    "epivizrData"
-  ],
-  "epivizrChart": [
-    "epivizrData"
-  ],
-  "epivizrData": [],
+  "epivizr": [],
+  "epivizrChart": [],
   "epivizrStandalone": [
-    "epivizr",
-    "epivizrData"
+    "epivizr"
   ],
   "ffpe": [
     "lumi",
@@ -234,8 +227,7 @@
   "recount": [],
   "recountmethylation": [],
   "scTreeViz": [
-    "epivizr",
-    "epivizrData"
+    "epivizr"
   ],
   "scruff": [
     "ggbio"
