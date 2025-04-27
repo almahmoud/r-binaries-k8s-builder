@@ -22,8 +22,6 @@
     "msmsTests"
   ],
   "MineICA": [],
-  "RNAAgeCalc": [],
-  "RiboProfiling": [],
   "RnBeads": [],
   "RnaSeqSampleSize": [],
   "YAPSA": [],
@@ -41,10 +39,8 @@
   "methylclock": [],
   "miaDash": [],
   "missMethyl": [],
-  "msgbsR": [],
   "msmsTests": [],
   "psichomics": [],
-  "scTreeViz": [],
   "skewr": [
     "wateRmelon"
   ],
