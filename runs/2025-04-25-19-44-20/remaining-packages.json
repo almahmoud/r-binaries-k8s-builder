@@ -268,7 +268,6 @@
   "intansv": [
     "ggbio"
   ],
-  "interactiveDisplay": [],
   "jazzPanda": [],
   "kissDE": [],
   "lisaClust": [
@@ -318,7 +317,6 @@
     "xcms"
   ],
   "octad": [],
-  "oppar": [],
   "pRoloc": [],
   "pRolocGUI": [
     "pRoloc"
@@ -340,7 +338,6 @@
   "recountmethylation": [],
   "regionReport": [],
   "regutools": [],
-  "scDD": [],
   "scFeatures": [],
   "scTreeViz": [
     "epivizr",

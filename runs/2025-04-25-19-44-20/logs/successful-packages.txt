@@ -1961,3 +1961,6 @@ diffHic
 mCSEA
 scClassify
 uncoverappLib
+interactiveDisplay
+oppar
+scDD
