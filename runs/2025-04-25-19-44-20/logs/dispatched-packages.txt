@@ -2043,3 +2043,9 @@ VaSP
 RNAmodR.AlkAnilineSeq
 RNAmodR.ML
 RNAmodR.RiboMethSeq
+CleanUpRNAseq
+GmicR
+SGCP
+attract
+categoryCompare
+miRLAB

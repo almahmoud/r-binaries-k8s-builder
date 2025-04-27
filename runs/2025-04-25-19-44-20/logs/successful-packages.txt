@@ -1845,3 +1845,8 @@ spatialSimGP
 countsimQC
 pairedGSEA
 VaSP
+debrowser
+GOstats
+omicRexposome
+qsmooth
+seqCAT

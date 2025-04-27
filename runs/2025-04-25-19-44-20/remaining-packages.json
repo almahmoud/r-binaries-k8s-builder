@@ -7,7 +7,6 @@
   "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
-    "GOstats",
     "ReportingTools",
     "ggbio"
   ],
@@ -65,9 +64,7 @@
     "frma"
   ],
   "CircSeqAlignTk": [],
-  "CleanUpRNAseq": [
-    "qsmooth"
-  ],
+  "CleanUpRNAseq": [],
   "CluMSID": [],
   "CytoPipelineGUI": [],
   "DAMEfinder": [],
@@ -110,7 +107,6 @@
   ],
   "GEOexplorer": [],
   "GOTHiC": [],
-  "GOstats": [],
   "GSReg": [],
   "GSVA": [],
   "GeneBreak": [],
@@ -121,9 +117,7 @@
   "GlobalAncova": [
     "globaltest"
   ],
-  "GmicR": [
-    "GOstats"
-  ],
+  "GmicR": [],
   "HarmonizR": [],
   "HiCDCPlus": [],
   "IPO": [
@@ -167,7 +161,6 @@
     "minfi"
   ],
   "MineICA": [
-    "GOstats",
     "lumi",
     "methylumi",
     "minfi"
@@ -205,7 +198,6 @@
     "dada2"
   ],
   "ReportingTools": [
-    "GOstats",
     "ggbio"
   ],
   "RiboProfiling": [
@@ -219,9 +211,7 @@
     "recount"
   ],
   "SEraster": [],
-  "SGCP": [
-    "GOstats"
-  ],
+  "SGCP": [],
   "SIM": [
     "globaltest"
   ],
@@ -267,7 +257,6 @@
   ],
   "a4Base": [],
   "affycoretools": [
-    "GOstats",
     "ReportingTools",
     "ggbio"
   ],
@@ -288,9 +277,7 @@
   ],
   "arrayQualityMetrics": [],
   "atSNP": [],
-  "attract": [
-    "GOstats"
-  ],
+  "attract": [],
   "bandle": [
     "pRoloc"
   ],
@@ -321,9 +308,7 @@
     "phenoTest",
     "RTCGAToolbox"
   ],
-  "categoryCompare": [
-    "GOstats"
-  ],
+  "categoryCompare": [],
   "cbaf": [
     "cBioPortalData",
     "RTCGAToolbox"
@@ -365,7 +350,6 @@
   "dada2": [],
   "dagLogo": [],
   "dar": [],
-  "debrowser": [],
   "deconvR": [
     "minfi"
   ],
@@ -485,9 +469,7 @@
   "methylumi": [
     "minfi"
   ],
-  "miRLAB": [
-    "GOstats"
-  ],
+  "miRLAB": [],
   "miRSM": [],
   "miaDash": [
     "iSEEtree",
@@ -518,7 +500,6 @@
     "GSVA"
   ],
   "omXplore": [],
-  "omicRexposome": [],
   "oppar": [
     "GSVA"
   ],
@@ -547,7 +528,6 @@
   "ptairMS": [],
   "puma": [],
   "qPLEXanalyzer": [],
-  "qsmooth": [],
   "quantro": [
     "minfi"
   ],
@@ -578,7 +558,6 @@
     "ggbio"
   ],
   "selectKSigs": [],
-  "seqCAT": [],
   "shinyDSP": [
     "standR"
   ],
