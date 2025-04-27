@@ -28,13 +28,11 @@
     "lumi"
   ],
   "MSnID": [
-    "msmsTests",
-    "msmsEDA"
+    "msmsTests"
   ],
   "MineICA": [
     "lumi"
   ],
-  "Prostar": [],
   "R3CPET": [],
   "RNAAgeCalc": [],
   "ReportingTools": [],
@@ -44,7 +42,6 @@
   "SomaticSignatures": [],
   "SpotSweeper": [],
   "TBSignatureProfiler": [],
-  "Voyager": [],
   "XeniumIO": [],
   "YAPSA": [
     "SomaticSignatures"
@@ -81,10 +78,7 @@
   "miaDash": [],
   "missMethyl": [],
   "msgbsR": [],
-  "msmsEDA": [],
-  "msmsTests": [
-    "msmsEDA"
-  ],
+  "msmsTests": [],
   "psichomics": [],
   "scTreeViz": [],
   "scruff": [],
