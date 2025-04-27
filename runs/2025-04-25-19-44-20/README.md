@@ -5,12 +5,13 @@
 ## Summary
 
 - 2170 packages built successfully
-- 1 packages failed to build
-- 1 packages not yet processed
+- 2 packages failed to build
+- 0 packages not yet processed
 
-## Failed Builds (1)
+## Failed Builds (2)
 | Package                                                                        | Status   | Log                                   | BBS Status                                                              | Failure Reasons                 |
 |--------------------------------------------------------------------------------|----------|---------------------------------------|-------------------------------------------------------------------------|---------------------------------|
+| [ChAMP](https://bioconductor.org/packages/3.22/bioc/html/ChAMP.html)           | Failed   | [Log](logs/ChAMP/build-fail.log)      | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/ChAMP)      | Build failed with unknown error |
 | [EpiCompare](https://bioconductor.org/packages/3.22/bioc/html/EpiCompare.html) | Failed   | [Log](logs/EpiCompare/build-fail.log) | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/EpiCompare) | Build failed with unknown error |
 
 ## Successfully Built (2170)
@@ -2186,8 +2187,3 @@
 | [zenith](https://bioconductor.org/packages/3.22/bioc/html/zenith.html)                                           | Built    | [Log](logs/zenith/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/zenith)                      |
 | [zinbwave](https://bioconductor.org/packages/3.22/bioc/html/zinbwave.html)                                       | Built    | [Log](logs/zinbwave/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/zinbwave)                    |
 | [zitools](https://bioconductor.org/packages/3.22/bioc/html/zitools.html)                                         | Built    | [Log](logs/zitools/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/zitools)                     |
-
-## Not Yet Processed (1)
-| Package                                                              | Status      |
-|----------------------------------------------------------------------|-------------|
-| [ChAMP](https://bioconductor.org/packages/3.22/bioc/html/ChAMP.html) | Unprocessed |
