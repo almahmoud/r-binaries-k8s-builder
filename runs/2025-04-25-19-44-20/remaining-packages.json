@@ -207,7 +207,6 @@
   ],
   "clustSIGNAL": [],
   "concordexR": [],
-  "consensusOV": [],
   "conumee": [],
   "cosmiq": [
     "xcms"
@@ -224,7 +223,6 @@
   "derfinderPlot": [
     "ggbio"
   ],
-  "diffHic": [],
   "epimutacions": [],
   "epiregulon": [],
   "epivizr": [
@@ -281,7 +279,6 @@
   "lumi": [
     "methylumi"
   ],
-  "mCSEA": [],
   "maser": [],
   "meshr": [],
   "metaMS": [
@@ -343,7 +340,6 @@
   "recountmethylation": [],
   "regionReport": [],
   "regutools": [],
-  "scClassify": [],
   "scDD": [],
   "scFeatures": [],
   "scTreeViz": [
@@ -357,9 +353,7 @@
   "shinyMethyl": [],
   "shinyepico": [],
   "signeR": [],
-  "signifinder": [
-    "consensusOV"
-  ],
+  "signifinder": [],
   "simpleSeg": [
     "cytomapper"
   ],
@@ -388,7 +382,6 @@
   "tidySpatialExperiment": [],
   "tpSVG": [],
   "trackViewer": [],
-  "uncoverappLib": [],
   "visiumStitched": [],
   "wateRmelon": [
     "methylumi",

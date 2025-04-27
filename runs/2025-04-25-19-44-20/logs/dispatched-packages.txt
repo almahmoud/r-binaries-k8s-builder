@@ -2095,3 +2095,4 @@ Rbec
 crisprShiny
 crisprVerse
 preciseTAD
+signifinder
