@@ -1894,3 +1894,7 @@ gwasurvivr
 muscat
 ptairMS
 SigCheck
+BindingSiteFinder
+CluMSID
+profileplyr
+topdownr

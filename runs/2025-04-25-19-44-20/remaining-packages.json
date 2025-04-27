@@ -21,7 +21,6 @@
   "Banksy": [],
   "BatchQC": [],
   "BiSeq": [],
-  "BindingSiteFinder": [],
   "BioNERO": [],
   "BulkSignalR": [],
   "CAFE": [
@@ -56,7 +55,6 @@
   "ChIPXpress": [
     "frma"
   ],
-  "CluMSID": [],
   "CytoPipelineGUI": [],
   "DAMEfinder": [],
   "DAPAR": [],
@@ -450,7 +448,6 @@
   ],
   "primirTSS": [],
   "proBAMr": [],
-  "profileplyr": [],
   "psichomics": [
     "recount"
   ],
@@ -525,7 +522,6 @@
   "systemPipeR": [],
   "tadar": [],
   "tidySpatialExperiment": [],
-  "topdownr": [],
   "tpSVG": [],
   "trackViewer": [],
   "uncoverappLib": [],
