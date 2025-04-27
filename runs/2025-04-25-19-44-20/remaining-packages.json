@@ -13,7 +13,6 @@
     "ggbio"
   ],
   "Banksy": [],
-  "BioNERO": [],
   "CAFE": [
     "ggbio"
   ],
@@ -78,7 +77,6 @@
   "R3CPET": [
     "ggbio"
   ],
-  "REMP": [],
   "RNAAgeCalc": [
     "recount"
   ],
@@ -130,8 +128,7 @@
   ],
   "borealis": [],
   "cageminer": [
-    "ggbio",
-    "BioNERO"
+    "ggbio"
   ],
   "canceR": [],
   "chimeraviz": [],
