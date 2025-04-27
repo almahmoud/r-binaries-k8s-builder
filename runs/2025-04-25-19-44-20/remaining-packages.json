@@ -36,7 +36,6 @@
   "FLAMES": [
     "ggbio"
   ],
-  "GOTHiC": [],
   "GenomicOZone": [
     "ggbio"
   ],
@@ -140,7 +139,6 @@
   ],
   "lumi": [],
   "methrix": [],
-  "methylCC": [],
   "methylGSA": [
     "missMethyl"
   ],
@@ -178,7 +176,6 @@
     "lumi"
   ],
   "spaSim": [],
-  "spatialHeatmap": [],
   "spicyR": [
     "simpleSeg"
   ],
