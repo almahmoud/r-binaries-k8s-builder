@@ -1890,3 +1890,4 @@ mbQTL
 MinimumDistance
 qPLEXanalyzer
 SpatialFeatureExperiment
+gwasurvivr
