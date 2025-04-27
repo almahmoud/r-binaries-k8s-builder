@@ -13,12 +13,10 @@
     "missMethyl",
     "lumi"
   ],
-  "DAPAR": [],
   "DMRcate": [
     "missMethyl"
   ],
   "Damsel": [],
-  "ENmix": [],
   "EpiCompare": [],
   "FLAMES": [],
   "GenomicOZone": [],
@@ -37,9 +35,7 @@
   "MineICA": [
     "lumi"
   ],
-  "Prostar": [
-    "DAPAR"
-  ],
+  "Prostar": [],
   "R3CPET": [],
   "RNAAgeCalc": [
     "recount"
