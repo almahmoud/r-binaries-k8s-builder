@@ -147,7 +147,6 @@
     "ReportingTools",
     "ggbio"
   ],
-  "alabaster": [],
   "alabaster.sfe": [],
   "arrayMvout": [
     "lumi",
@@ -175,7 +174,6 @@
   "cbaf": [],
   "cghMCR": [],
   "chimeraviz": [],
-  "concordexR": [],
   "conumee": [],
   "crisprShiny": [],
   "crisprVerse": [],
@@ -319,9 +317,7 @@
     "cytomapper"
   ],
   "spoon": [],
-  "squallms": [],
   "stJoincount": [],
-  "tidySpatialExperiment": [],
   "tpSVG": [],
   "trackViewer": [],
   "visiumStitched": [],

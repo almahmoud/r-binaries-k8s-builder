@@ -1989,3 +1989,7 @@ cosmiq
 ncGTW
 scFeatures
 SVP
+alabaster
+concordexR
+squallms
+tidySpatialExperiment
