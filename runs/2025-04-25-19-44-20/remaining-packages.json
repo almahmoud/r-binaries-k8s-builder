@@ -52,7 +52,6 @@
     "ggbio"
   ],
   "GARS": [],
-  "GEOexplorer": [],
   "GOTHiC": [],
   "GenomicOZone": [
     "ggbio"
@@ -98,7 +97,6 @@
     "recount"
   ],
   "RNAmodR.AlkAnilineSeq": [],
-  "RNAmodR.ML": [],
   "Rbec": [],
   "ReportingTools": [
     "ggbio"
@@ -262,7 +260,6 @@
     "pRoloc"
   ],
   "pageRank": [],
-  "pdInfoBuilder": [],
   "poem": [],
   "preciseTAD": [],
   "psichomics": [
