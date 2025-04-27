@@ -2101,3 +2101,9 @@ VisiumIO
 DAPAR
 ENmix
 deconvR
+crisprShiny
+MSstatsQCgui
+shinyDSP
+SigsPack
+spaSim
+SPIAT
