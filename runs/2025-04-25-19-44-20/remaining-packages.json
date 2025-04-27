@@ -35,9 +35,7 @@
   "ChIPQC": [
     "DiffBind"
   ],
-  "ChIPXpress": [
-    "frma"
-  ],
+  "ChIPXpress": [],
   "DAMEfinder": [],
   "DAPAR": [],
   "DEP": [],
@@ -56,7 +54,6 @@
   "ExperimentHubData": [
     "AnnotationHubData"
   ],
-  "ExperimentSubset": [],
   "FLAMES": [
     "ggbio"
   ],
@@ -221,7 +218,6 @@
   "flagme": [
     "CAMERA"
   ],
-  "frma": [],
   "funtooNorm": [],
   "geomeTriD": [
     "trackViewer"
