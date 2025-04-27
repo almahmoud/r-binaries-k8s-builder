@@ -18,13 +18,11 @@
   ],
   "CAGEr": [],
   "COCOA": [],
-  "CTSV": [],
   "CatsCradle": [],
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
     "missMethyl",
-    "methylumi",
     "lumi"
   ],
   "ChIPQC": [],
@@ -32,8 +30,7 @@
   "DAPAR": [],
   "DEP": [],
   "DMRcate": [
-    "missMethyl",
-    "methylumi"
+    "missMethyl"
   ],
   "Damsel": [
     "ggbio"
@@ -52,12 +49,10 @@
     "ggbio"
   ],
   "MEAL": [
-    "missMethyl",
-    "methylumi"
+    "missMethyl"
   ],
   "MEAT": [
     "wateRmelon",
-    "methylumi",
     "lumi"
   ],
   "MSnID": [
@@ -67,8 +62,7 @@
   "MSstatsQCgui": [],
   "MetaboSignal": [],
   "MineICA": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "PRONE": [],
   "Prostar": [
@@ -87,9 +81,7 @@
   "RiboProfiling": [
     "ggbio"
   ],
-  "RnBeads": [
-    "methylumi"
-  ],
+  "RnBeads": [],
   "RnaSeqSampleSize": [
     "recount"
   ],
@@ -117,13 +109,11 @@
     "ggbio"
   ],
   "arrayMvout": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "bandle": [],
   "bigmelon": [
     "wateRmelon",
-    "methylumi",
     "lumi"
   ],
   "borealis": [],
@@ -152,15 +142,13 @@
     "epivizr"
   ],
   "ffpe": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "geomeTriD": [],
   "ggbio": [],
   "hoodscanR": [],
   "iCheck": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "iNETgrate": [],
   "iSEEtree": [],
@@ -175,27 +163,20 @@
     "simpleSeg",
     "cytomapper"
   ],
-  "lumi": [
-    "methylumi"
-  ],
-  "meshr": [],
+  "lumi": [],
   "methrix": [],
   "methylCC": [],
   "methylGSA": [
-    "missMethyl",
-    "methylumi"
+    "missMethyl"
   ],
   "methylclock": [
     "ExperimentHubData",
     "AnnotationHubData"
   ],
-  "methylumi": [],
   "miaDash": [
     "iSEEtree"
   ],
-  "missMethyl": [
-    "methylumi"
-  ],
+  "missMethyl": [],
   "msgbsR": [
     "ggbio"
   ],
@@ -212,7 +193,6 @@
   ],
   "puma": [],
   "recount": [],
-  "recountmethylation": [],
   "scTreeViz": [
     "epivizr"
   ],
@@ -227,7 +207,6 @@
     "cytomapper"
   ],
   "skewr": [
-    "methylumi",
     "wateRmelon",
     "lumi"
   ],
@@ -241,7 +220,6 @@
   ],
   "tpSVG": [],
   "wateRmelon": [
-    "methylumi",
     "lumi"
   ],
   "yarn": []
