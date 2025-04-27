@@ -26,10 +26,7 @@
   "RiboProfiling": [],
   "RnBeads": [],
   "RnaSeqSampleSize": [],
-  "SomaticSignatures": [],
-  "YAPSA": [
-    "SomaticSignatures"
-  ],
+  "YAPSA": [],
   "affycoretools": [],
   "arrayMvout": [],
   "bigmelon": [
