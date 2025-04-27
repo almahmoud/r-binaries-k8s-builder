@@ -1968,3 +1968,6 @@ clipper
 systemPipeR
 PrInCE
 xcms
+octad
+SEraster
+spatialDE

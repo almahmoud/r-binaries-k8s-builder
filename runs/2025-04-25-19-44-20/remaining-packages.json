@@ -129,7 +129,6 @@
   "RnaSeqSampleSize": [
     "recount"
   ],
-  "SEraster": [],
   "SIM": [],
   "SPIAT": [],
   "SVP": [],
@@ -299,7 +298,6 @@
   ],
   "mumosa": [],
   "ncGTW": [],
-  "octad": [],
   "pRoloc": [],
   "pRolocGUI": [
     "pRoloc"
@@ -346,7 +344,6 @@
   "smoppix": [],
   "sosta": [],
   "spaSim": [],
-  "spatialDE": [],
   "spatialFDA": [],
   "spatialHeatmap": [],
   "spicyR": [
