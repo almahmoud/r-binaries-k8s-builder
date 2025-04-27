@@ -2160,3 +2160,7 @@ affycoretools
 lisaClust
 MSnID
 YAPSA
+AgiMicroRna
+MEAT
+MineICA
+skewr

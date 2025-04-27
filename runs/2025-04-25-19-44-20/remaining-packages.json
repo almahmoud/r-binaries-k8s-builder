@@ -1,14 +1,10 @@
 {
-  "AgiMicroRna": [],
   "ChAMP": [
     "DMRcate"
   ],
   "DMRcate": [],
   "EpiCompare": [],
   "MEAL": [],
-  "MEAT": [],
-  "MineICA": [],
   "bigmelon": [],
-  "methylGSA": [],
-  "skewr": []
+  "methylGSA": []
 }
