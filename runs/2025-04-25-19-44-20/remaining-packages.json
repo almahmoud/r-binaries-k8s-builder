@@ -226,9 +226,7 @@
   "RnaSeqSampleSize": [
     "recount"
   ],
-  "SCAN.UPC": [],
   "SEraster": [],
-  "SEtools": [],
   "SGCP": [
     "GOstats"
   ],
@@ -236,7 +234,6 @@
     "globaltest"
   ],
   "SPIAT": [],
-  "SPLINTER": [],
   "SVP": [],
   "SWATH2stats": [],
   "SigCheck": [],
@@ -259,9 +256,7 @@
   ],
   "TVTB": [],
   "UCell": [],
-  "VaSP": [
-    "ballgown"
-  ],
+  "VaSP": [],
   "VariantFiltering": [],
   "VisiumIO": [],
   "Voyager": [
@@ -306,7 +301,6 @@
   "attract": [
     "GOstats"
   ],
-  "ballgown": [],
   "bandle": [
     "pRoloc"
   ],
@@ -393,7 +387,6 @@
   ],
   "diffHic": [],
   "doppelgangR": [],
-  "edge": [],
   "enhancerHomologSearch": [],
   "epimutacions": [
     "minfi"
