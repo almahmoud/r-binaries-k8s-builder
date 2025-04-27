@@ -2111,3 +2111,5 @@ flagme
 metaMS
 ChIPQC
 canceR
+bandle
+pRolocGUI

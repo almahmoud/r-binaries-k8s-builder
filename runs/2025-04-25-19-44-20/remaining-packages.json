@@ -56,7 +56,6 @@
     "ggbio"
   ],
   "GlobalAncova": [],
-  "IPO": [],
   "MAIT": [],
   "MEAL": [
     "missMethyl",
@@ -67,7 +66,6 @@
     "methylumi",
     "lumi"
   ],
-  "MOSim": [],
   "MSnID": [
     "msmsTests",
     "msmsEDA"
@@ -137,14 +135,11 @@
     "ReportingTools",
     "ggbio"
   ],
-  "alabaster.sfe": [],
   "arrayMvout": [
     "lumi",
     "methylumi"
   ],
-  "bandle": [
-    "pRoloc"
-  ],
+  "bandle": [],
   "bigmelon": [
     "wateRmelon",
     "methylumi",
@@ -252,10 +247,7 @@
     "msmsEDA"
   ],
   "mumosa": [],
-  "pRoloc": [],
-  "pRolocGUI": [
-    "pRoloc"
-  ],
+  "pRolocGUI": [],
   "pageRank": [],
   "poem": [],
   "preciseTAD": [],

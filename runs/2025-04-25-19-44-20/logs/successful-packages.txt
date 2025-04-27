@@ -2010,3 +2010,7 @@ arrayQualityMetrics
 CellBench
 jazzPanda
 visiumStitched
+alabaster.sfe
+IPO
+MOSim
+pRoloc
