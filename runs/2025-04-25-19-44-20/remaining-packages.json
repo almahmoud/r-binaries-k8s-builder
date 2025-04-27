@@ -49,7 +49,6 @@
     "missMethyl",
     "methylumi"
   ],
-  "DaMiRseq": [],
   "Damsel": [
     "ggbio"
   ],
@@ -68,9 +67,7 @@
   "FLAMES": [
     "ggbio"
   ],
-  "GARS": [
-    "DaMiRseq"
-  ],
+  "GARS": [],
   "GEOexplorer": [],
   "GOTHiC": [],
   "GSVA": [],
@@ -112,7 +109,6 @@
     "methylumi"
   ],
   "MoleculeExperiment": [],
-  "MungeSumstats": [],
   "PAA": [],
   "POMA": [],
   "PRONE": [

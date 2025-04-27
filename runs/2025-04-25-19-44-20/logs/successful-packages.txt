@@ -1933,3 +1933,5 @@ MSPrep
 spacexr
 BatchQC
 MatrixQCvis
+DaMiRseq
+MungeSumstats
