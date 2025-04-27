@@ -74,7 +74,6 @@
   "DiffBind": [
     "systemPipeR"
   ],
-  "DominoEffect": [],
   "EGAD": [],
   "ENmix": [
     "minfi"
@@ -214,10 +213,7 @@
     "SomaticSignatures",
     "ggbio"
   ],
-  "a4": [
-    "a4Base"
-  ],
-  "a4Base": [],
+  "a4": [],
   "affycoretools": [
     "ReportingTools",
     "ggbio"
@@ -293,7 +289,6 @@
   ],
   "dada2": [],
   "dagLogo": [],
-  "dar": [],
   "deconvR": [
     "minfi"
   ],
@@ -400,7 +395,6 @@
   "methylumi": [
     "minfi"
   ],
-  "miRSM": [],
   "miaDash": [
     "iSEEtree",
     "miaViz"
