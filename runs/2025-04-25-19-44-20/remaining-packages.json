@@ -160,7 +160,6 @@
   ],
   "geomeTriD": [],
   "ggbio": [],
-  "ggspavis": [],
   "hoodscanR": [],
   "iCheck": [
     "lumi",
@@ -209,14 +208,12 @@
   ],
   "mumosa": [],
   "pRolocGUI": [],
-  "pageRank": [],
   "poem": [],
   "preciseTAD": [],
   "psichomics": [
     "recount"
   ],
   "puma": [],
-  "quantro": [],
   "recount": [],
   "recountmethylation": [],
   "scTreeViz": [
@@ -250,7 +247,5 @@
     "methylumi",
     "lumi"
   ],
-  "yarn": [
-    "quantro"
-  ]
+  "yarn": []
 }
