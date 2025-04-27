@@ -2023,3 +2023,6 @@ MAIT
 metaMS
 MSstatsQC
 RNAmodR.AlkAnilineSeq
+EGAD
+GlobalAncova
+signeR

@@ -39,7 +39,6 @@
   "Damsel": [
     "ggbio"
   ],
-  "EGAD": [],
   "ENmix": [],
   "EpiCompare": [],
   "ExperimentHubData": [
@@ -53,7 +52,6 @@
   "GenomicOZone": [
     "ggbio"
   ],
-  "GlobalAncova": [],
   "MEAL": [
     "missMethyl",
     "methylumi"
@@ -257,7 +255,6 @@
   "shinyDSP": [],
   "shinyMethyl": [],
   "shinyepico": [],
-  "signeR": [],
   "signifinder": [],
   "simpleSeg": [
     "cytomapper"
