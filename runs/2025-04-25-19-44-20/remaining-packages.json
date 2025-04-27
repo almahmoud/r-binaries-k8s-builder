@@ -247,7 +247,6 @@
     "GSVA"
   ],
   "UCell": [],
-  "VaSP": [],
   "VariantFiltering": [],
   "VisiumIO": [],
   "Voyager": [
@@ -351,7 +350,6 @@
   "cosmiq": [
     "xcms"
   ],
-  "countsimQC": [],
   "crisprShiny": [
     "crisprViz"
   ],
@@ -529,7 +527,6 @@
     "pRoloc"
   ],
   "pageRank": [],
-  "pairedGSEA": [],
   "pathMED": [
     "GSVA"
   ],
