@@ -2124,3 +2124,7 @@ crisprVerse
 yarn
 epivizrStandalone
 TBSignatureProfiler
+BOBaFIT
+CAFE
+lumi
+spicyR

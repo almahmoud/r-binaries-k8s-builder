@@ -3,14 +3,11 @@
     "affycoretools",
     "ReportingTools"
   ],
-  "BOBaFIT": [],
-  "CAFE": [],
   "CatsCradle": [],
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
-    "missMethyl",
-    "lumi"
+    "missMethyl"
   ],
   "DMRcate": [
     "missMethyl"
@@ -23,15 +20,12 @@
     "missMethyl"
   ],
   "MEAT": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "MSnID": [
     "msmsTests"
   ],
-  "MineICA": [
-    "lumi"
-  ],
+  "MineICA": [],
   "R3CPET": [],
   "RNAAgeCalc": [],
   "ReportingTools": [],
@@ -47,26 +41,16 @@
   "affycoretools": [
     "ReportingTools"
   ],
-  "arrayMvout": [
-    "lumi"
-  ],
+  "arrayMvout": [],
   "bigmelon": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "cageminer": [],
   "derfinderPlot": [],
-  "ffpe": [
-    "lumi"
-  ],
-  "iCheck": [
-    "lumi"
-  ],
+  "ffpe": [],
+  "iCheck": [],
   "intansv": [],
-  "lisaClust": [
-    "spicyR"
-  ],
-  "lumi": [],
+  "lisaClust": [],
   "methylGSA": [
     "missMethyl"
   ],
@@ -79,11 +63,7 @@
   "scTreeViz": [],
   "scruff": [],
   "skewr": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
-  "spicyR": [],
-  "wateRmelon": [
-    "lumi"
-  ]
+  "wateRmelon": []
 }

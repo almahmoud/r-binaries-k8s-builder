@@ -2153,3 +2153,9 @@ RNAAgeCalc
 RnaSeqSampleSize
 psichomics
 msmsTests
+MineICA
+arrayMvout
+ffpe
+iCheck
+lisaClust
+wateRmelon
