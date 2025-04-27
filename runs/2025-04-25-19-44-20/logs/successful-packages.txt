@@ -2094,3 +2094,7 @@ signifinder
 ChIPQC
 cytoviewer
 simpleSeg
+canceR
+ChIPXpress
+Rbec
+VisiumIO
