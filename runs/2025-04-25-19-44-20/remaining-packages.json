@@ -168,7 +168,6 @@
   "Prostar": [
     "DAPAR"
   ],
-  "PureCN": [],
   "R3CPET": [
     "ggbio"
   ],
@@ -527,7 +526,6 @@
   "scFeatures": [
     "GSVA"
   ],
-  "scRNAseqApp": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData"
@@ -593,7 +591,6 @@
     "minfi"
   ],
   "xcms": [],
-  "xenLite": [],
   "yarn": [
     "quantro",
     "minfi"

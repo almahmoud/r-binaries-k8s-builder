@@ -1859,3 +1859,6 @@ selectKSigs
 spatzie
 RTCGAToolbox
 VariantFiltering
+PureCN
+scRNAseqApp
+xenLite
