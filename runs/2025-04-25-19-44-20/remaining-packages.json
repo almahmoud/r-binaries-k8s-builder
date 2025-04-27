@@ -31,9 +31,7 @@
     "methylumi",
     "lumi"
   ],
-  "ChIPQC": [
-    "DiffBind"
-  ],
+  "ChIPQC": [],
   "ChIPXpress": [],
   "DAMEfinder": [],
   "DAPAR": [],
@@ -46,7 +44,6 @@
     "ggbio"
   ],
   "DeMixT": [],
-  "DiffBind": [],
   "EGAD": [],
   "ENmix": [],
   "EpiCompare": [],
@@ -153,7 +150,6 @@
     "methylumi"
   ],
   "arrayQualityMetrics": [],
-  "atSNP": [],
   "bandle": [
     "pRoloc"
   ],
@@ -168,9 +164,7 @@
     "ggbio",
     "BioNERO"
   ],
-  "canceR": [
-    "phenoTest"
-  ],
+  "canceR": [],
   "cbaf": [],
   "cghMCR": [],
   "chimeraviz": [],
@@ -255,7 +249,6 @@
   "miaDash": [
     "iSEEtree"
   ],
-  "mimager": [],
   "missMethyl": [
     "methylumi"
   ],
@@ -275,7 +268,6 @@
   "pageRank": [],
   "pdInfoBuilder": [],
   "phantasus": [],
-  "phenoTest": [],
   "poem": [],
   "preciseTAD": [],
   "psichomics": [

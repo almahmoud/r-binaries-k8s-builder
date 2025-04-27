@@ -1993,3 +1993,7 @@ alabaster
 concordexR
 squallms
 tidySpatialExperiment
+atSNP
+DiffBind
+mimager
+phenoTest
