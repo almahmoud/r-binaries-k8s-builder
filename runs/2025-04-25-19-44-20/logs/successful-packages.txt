@@ -2151,3 +2151,7 @@ FLAMES
 msmsTests
 RnaSeqSampleSize
 RnBeads
+arrayMvout
+ffpe
+iCheck
+psichomics
