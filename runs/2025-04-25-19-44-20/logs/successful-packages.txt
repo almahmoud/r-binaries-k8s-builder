@@ -1964,3 +1964,5 @@ uncoverappLib
 interactiveDisplay
 oppar
 scDD
+clipper
+systemPipeR

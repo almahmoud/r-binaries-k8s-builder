@@ -2096,3 +2096,4 @@ crisprShiny
 crisprVerse
 preciseTAD
 signifinder
+DiffBind

@@ -35,8 +35,7 @@
     "lumi"
   ],
   "ChIPQC": [
-    "DiffBind",
-    "systemPipeR"
+    "DiffBind"
   ],
   "ChIPXpress": [
     "frma"
@@ -53,9 +52,7 @@
   ],
   "DeMixT": [],
   "DeconvoBuddies": [],
-  "DiffBind": [
-    "systemPipeR"
-  ],
+  "DiffBind": [],
   "EGAD": [],
   "ENmix": [],
   "EpiCompare": [],
@@ -201,7 +198,6 @@
   "cbaf": [],
   "cghMCR": [],
   "chimeraviz": [],
-  "clipper": [],
   "cliqueMS": [
     "xcms"
   ],
@@ -375,7 +371,6 @@
     "xcms"
   ],
   "stJoincount": [],
-  "systemPipeR": [],
   "tidySpatialExperiment": [],
   "tpSVG": [],
   "trackViewer": [],
