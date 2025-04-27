@@ -25,7 +25,6 @@
     "xcms"
   ],
   "CGHregions": [],
-  "CNVrd2": [],
   "COCOA": [],
   "CTSV": [],
   "CatsCradle": [],
@@ -76,7 +75,6 @@
   "GEOexplorer": [],
   "GOTHiC": [],
   "GSVA": [],
-  "GeneBreak": [],
   "GenomicOZone": [
     "ggbio"
   ],
@@ -85,8 +83,6 @@
     "xcms",
     "CAMERA"
   ],
-  "IsoformSwitchAnalyzeR": [],
-  "KnowSeq": [],
   "MAIT": [
     "CAMERA",
     "xcms"
@@ -102,7 +98,6 @@
     "lumi"
   ],
   "MOSim": [],
-  "MSPrep": [],
   "MSnID": [
     "msmsTests",
     "msmsEDA"
@@ -185,7 +180,6 @@
     "SomaticSignatures",
     "ggbio"
   ],
-  "a4": [],
   "affycoretools": [
     "ReportingTools",
     "ggbio"
@@ -430,7 +424,6 @@
   "smoppix": [],
   "sosta": [],
   "spaSim": [],
-  "spacexr": [],
   "spatialDE": [],
   "spatialFDA": [],
   "spatialHeatmap": [],

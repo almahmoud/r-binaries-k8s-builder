@@ -1924,3 +1924,10 @@ CCAFE
 flowGate
 primirTSS
 PROPS
+a4
+CNVrd2
+GeneBreak
+IsoformSwitchAnalyzeR
+KnowSeq
+MSPrep
+spacexr
