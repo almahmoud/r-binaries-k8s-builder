@@ -106,9 +106,7 @@
     "ggbio"
   ],
   "SpotClean": [],
-  "SpotSweeper": [
-    "escheR"
-  ],
+  "SpotSweeper": [],
   "TBSignatureProfiler": [],
   "VisiumIO": [],
   "Voyager": [],
@@ -140,7 +138,6 @@
     "BioNERO"
   ],
   "canceR": [],
-  "cbaf": [],
   "cghMCR": [],
   "chimeraviz": [],
   "conumee": [],
@@ -169,15 +166,12 @@
     "epivizr",
     "epivizrData"
   ],
-  "escheR": [],
   "ffpe": [
     "lumi",
     "methylumi"
   ],
   "funtooNorm": [],
-  "geomeTriD": [
-    "trackViewer"
-  ],
+  "geomeTriD": [],
   "ggbio": [],
   "ggspavis": [],
   "hoodscanR": [],
@@ -203,7 +197,6 @@
     "methylumi"
   ],
   "meshr": [],
-  "metaseqR2": [],
   "methrix": [],
   "methylCC": [],
   "methylGSA": [
@@ -273,7 +266,6 @@
   ],
   "stJoincount": [],
   "tpSVG": [],
-  "trackViewer": [],
   "wateRmelon": [
     "methylumi",
     "lumi"

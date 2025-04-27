@@ -2028,3 +2028,7 @@ GlobalAncova
 signeR
 kissDE
 regutools
+cbaf
+escheR
+metaseqR2
+trackViewer
