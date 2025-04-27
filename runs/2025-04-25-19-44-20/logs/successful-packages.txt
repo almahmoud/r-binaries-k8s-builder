@@ -1931,3 +1931,5 @@ IsoformSwitchAnalyzeR
 KnowSeq
 MSPrep
 spacexr
+BatchQC
+MatrixQCvis

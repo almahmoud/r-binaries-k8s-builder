@@ -14,7 +14,6 @@
     "ggbio"
   ],
   "Banksy": [],
-  "BatchQC": [],
   "BiSeq": [],
   "BioNERO": [],
   "CAFE": [
@@ -106,7 +105,6 @@
   "MSstatsQCgui": [
     "MSstatsQC"
   ],
-  "MatrixQCvis": [],
   "MetaboSignal": [],
   "MethylAid": [],
   "MineICA": [
