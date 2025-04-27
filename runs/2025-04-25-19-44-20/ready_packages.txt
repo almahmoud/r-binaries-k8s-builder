@@ -1,1 +1,15 @@
-a4
+BASiCStan
+ENmix
+MethylAid
+REMP
+conumee
+deconvR
+epimutacions
+funtooNorm
+iNETgrate
+methylCC
+methylumi
+quantro
+recountmethylation
+shinyMethyl
+shinyepico

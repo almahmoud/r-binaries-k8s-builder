@@ -1902,3 +1902,9 @@ a4Base
 dar
 DominoEffect
 miRSM
+BASiCS
+ITALICS
+minfi
+MOSClip
+proBAMr
+scDblFinder
