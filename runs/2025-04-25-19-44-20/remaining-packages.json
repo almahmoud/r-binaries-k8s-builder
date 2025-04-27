@@ -20,7 +20,6 @@
     "ggbio"
   ],
   "CAGEr": [],
-  "CAMERA": [],
   "COCOA": [],
   "CTSV": [],
   "CatsCradle": [],
@@ -64,12 +63,8 @@
     "ggbio"
   ],
   "GlobalAncova": [],
-  "IPO": [
-    "CAMERA"
-  ],
-  "MAIT": [
-    "CAMERA"
-  ],
+  "IPO": [],
+  "MAIT": [],
   "MBECS": [],
   "MEAL": [
     "missMethyl",
@@ -126,7 +121,6 @@
   ],
   "SIM": [],
   "SPIAT": [],
-  "SVP": [],
   "SWATH2stats": [],
   "SigsPack": [],
   "SomaticSignatures": [
@@ -181,10 +175,8 @@
   "cbaf": [],
   "cghMCR": [],
   "chimeraviz": [],
-  "cliqueMS": [],
   "concordexR": [],
   "conumee": [],
-  "cosmiq": [],
   "crisprShiny": [],
   "crisprVerse": [],
   "cummeRbund": [],
@@ -215,9 +207,7 @@
     "lumi",
     "methylumi"
   ],
-  "flagme": [
-    "CAMERA"
-  ],
+  "flagme": [],
   "funtooNorm": [],
   "geomeTriD": [
     "trackViewer"
@@ -250,9 +240,7 @@
   ],
   "maser": [],
   "meshr": [],
-  "metaMS": [
-    "CAMERA"
-  ],
+  "metaMS": [],
   "metaseqR2": [],
   "methrix": [],
   "methylCC": [],
@@ -282,7 +270,6 @@
     "msmsEDA"
   ],
   "mumosa": [],
-  "ncGTW": [],
   "pRoloc": [],
   "pRolocGUI": [
     "pRoloc"
@@ -302,7 +289,6 @@
   "recountmethylation": [],
   "regionReport": [],
   "regutools": [],
-  "scFeatures": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData"

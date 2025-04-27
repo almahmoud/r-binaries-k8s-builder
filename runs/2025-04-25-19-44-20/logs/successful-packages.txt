@@ -1983,3 +1983,9 @@ PAA
 spatialFDA
 ExperimentSubset
 frma
+CAMERA
+cliqueMS
+cosmiq
+ncGTW
+scFeatures
+SVP
