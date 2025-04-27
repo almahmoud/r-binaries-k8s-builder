@@ -2032,3 +2032,7 @@ cbaf
 escheR
 metaseqR2
 trackViewer
+bioCancer
+MoleculeExperiment
+regionReport
+stJoincount

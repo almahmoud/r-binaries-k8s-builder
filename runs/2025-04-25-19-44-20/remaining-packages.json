@@ -72,7 +72,6 @@
     "lumi",
     "methylumi"
   ],
-  "MoleculeExperiment": [],
   "PRONE": [],
   "Prostar": [
     "DAPAR"
@@ -131,7 +130,6 @@
     "methylumi",
     "lumi"
   ],
-  "bioCancer": [],
   "borealis": [],
   "cageminer": [
     "ggbio",
@@ -235,7 +233,6 @@
   "quantro": [],
   "recount": [],
   "recountmethylation": [],
-  "regionReport": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData"
@@ -264,7 +261,6 @@
     "simpleSeg",
     "cytomapper"
   ],
-  "stJoincount": [],
   "tpSVG": [],
   "wateRmelon": [
     "methylumi",
