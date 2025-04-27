@@ -67,7 +67,6 @@
   ],
   "MSstatsQCgui": [],
   "MetaboSignal": [],
-  "MethylAid": [],
   "MineICA": [
     "lumi",
     "methylumi"
@@ -80,7 +79,6 @@
     "ggbio"
   ],
   "REMP": [],
-  "RMassBank": [],
   "RNAAgeCalc": [
     "recount"
   ],
@@ -161,7 +159,6 @@
     "lumi",
     "methylumi"
   ],
-  "funtooNorm": [],
   "geomeTriD": [],
   "ggbio": [],
   "ggspavis": [],
@@ -171,7 +168,6 @@
     "methylumi"
   ],
   "iNETgrate": [],
-  "iSEEfier": [],
   "iSEEtree": [],
   "imcRtools": [
     "cytomapper"
@@ -194,7 +190,6 @@
     "missMethyl",
     "methylumi"
   ],
-  "methylSig": [],
   "methylclock": [
     "ExperimentHubData",
     "AnnotationHubData"

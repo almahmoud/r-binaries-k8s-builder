@@ -2038,3 +2038,8 @@ regionReport
 stJoincount
 cghMCR
 epivizrData
+funtooNorm
+iSEEfier
+MethylAid
+methylSig
+RMassBank
