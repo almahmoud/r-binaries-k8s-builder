@@ -2147,3 +2147,7 @@ scTreeViz
 methylclock
 miaDash
 missMethyl
+FLAMES
+msmsTests
+RnaSeqSampleSize
+RnBeads

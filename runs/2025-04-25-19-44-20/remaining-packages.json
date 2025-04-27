@@ -8,17 +8,12 @@
   ],
   "DMRcate": [],
   "EpiCompare": [],
-  "FLAMES": [],
   "MEAL": [],
   "MEAT": [
     "wateRmelon"
   ],
-  "MSnID": [
-    "msmsTests"
-  ],
+  "MSnID": [],
   "MineICA": [],
-  "RnBeads": [],
-  "RnaSeqSampleSize": [],
   "YAPSA": [],
   "affycoretools": [],
   "arrayMvout": [],
@@ -29,7 +24,6 @@
   "iCheck": [],
   "lisaClust": [],
   "methylGSA": [],
-  "msmsTests": [],
   "psichomics": [],
   "skewr": [
     "wateRmelon"
