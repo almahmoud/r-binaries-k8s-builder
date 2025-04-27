@@ -85,7 +85,6 @@
   "RnaSeqSampleSize": [
     "recount"
   ],
-  "SIM": [],
   "SPIAT": [],
   "SWATH2stats": [],
   "SigsPack": [],
@@ -134,7 +133,6 @@
   "derfinderPlot": [
     "ggbio"
   ],
-  "epimutacions": [],
   "epiregulon": [],
   "epivizr": [],
   "epivizrChart": [],
