@@ -2114,3 +2114,5 @@ recount
 cummeRbund
 iNETgrate
 preciseTAD
+geomeTriD
+imcRtools

@@ -66,11 +66,9 @@
   "ffpe": [
     "lumi"
   ],
-  "geomeTriD": [],
   "iCheck": [
     "lumi"
   ],
-  "imcRtools": [],
   "intansv": [],
   "lisaClust": [
     "spicyR"
