@@ -31,7 +31,6 @@
   "CCAFE": [],
   "CGHregions": [],
   "CHRONOS": [],
-  "CNTools": [],
   "CNVrd2": [],
   "COCOA": [],
   "CTSV": [],
@@ -234,9 +233,7 @@
     "phenoTest"
   ],
   "cbaf": [],
-  "cghMCR": [
-    "CNTools"
-  ],
+  "cghMCR": [],
   "chimeraviz": [],
   "cicero": [],
   "clipper": [],
@@ -273,7 +270,6 @@
     "ggbio"
   ],
   "diffHic": [],
-  "enhancerHomologSearch": [],
   "epimutacions": [],
   "epiregulon": [],
   "epivizr": [
@@ -424,7 +420,6 @@
     "epivizr",
     "epivizrData"
   ],
-  "scider": [],
   "scruff": [
     "ggbio"
   ],

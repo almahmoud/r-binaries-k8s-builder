@@ -1908,3 +1908,6 @@ minfi
 MOSClip
 proBAMr
 scDblFinder
+CNTools
+enhancerHomologSearch
+scider

@@ -2081,3 +2081,4 @@ quantro
 recountmethylation
 shinyMethyl
 shinyepico
+cghMCR
