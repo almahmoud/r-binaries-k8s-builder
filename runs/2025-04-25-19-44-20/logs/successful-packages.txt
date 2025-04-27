@@ -2026,3 +2026,5 @@ RNAmodR.AlkAnilineSeq
 EGAD
 GlobalAncova
 signeR
+kissDE
+regutools

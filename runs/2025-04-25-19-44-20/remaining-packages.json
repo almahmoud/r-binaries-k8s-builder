@@ -194,7 +194,6 @@
   "intansv": [
     "ggbio"
   ],
-  "kissDE": [],
   "lisaClust": [
     "spicyR",
     "simpleSeg",
@@ -244,7 +243,6 @@
   "recount": [],
   "recountmethylation": [],
   "regionReport": [],
-  "regutools": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData"
