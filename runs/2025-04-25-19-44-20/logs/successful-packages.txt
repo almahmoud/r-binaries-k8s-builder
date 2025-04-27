@@ -1862,3 +1862,13 @@ VariantFiltering
 PureCN
 scRNAseqApp
 xenLite
+ASURAT
+attract
+categoryCompare
+CleanUpRNAseq
+GmicR
+omXplore
+SGCP
+SpaNorm
+standR
+UCell

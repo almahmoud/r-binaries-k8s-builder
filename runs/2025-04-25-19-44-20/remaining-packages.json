@@ -3,7 +3,6 @@
     "AnnotationHubData"
   ],
   "ASSIGN": [],
-  "ASURAT": [],
   "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
@@ -57,7 +56,6 @@
   "ChIPXpress": [
     "frma"
   ],
-  "CleanUpRNAseq": [],
   "CluMSID": [],
   "CytoPipelineGUI": [],
   "DAMEfinder": [],
@@ -108,7 +106,6 @@
     "ggbio"
   ],
   "GlobalAncova": [],
-  "GmicR": [],
   "HarmonizR": [],
   "IPO": [
     "xcms",
@@ -199,7 +196,6 @@
     "recount"
   ],
   "SEraster": [],
-  "SGCP": [],
   "SIM": [],
   "SPIAT": [],
   "SVP": [],
@@ -210,7 +206,6 @@
   "SomaticSignatures": [
     "ggbio"
   ],
-  "SpaNorm": [],
   "SpatialExperimentIO": [],
   "SpatialFeatureExperiment": [],
   "SpotClean": [],
@@ -222,7 +217,6 @@
     "ASSIGN",
     "GSVA"
   ],
-  "UCell": [],
   "VisiumIO": [],
   "Voyager": [
     "SpatialFeatureExperiment"
@@ -262,7 +256,6 @@
   ],
   "arrayQualityMetrics": [],
   "atSNP": [],
-  "attract": [],
   "bandle": [
     "pRoloc"
   ],
@@ -289,7 +282,6 @@
     "cBioPortalData",
     "phenoTest"
   ],
-  "categoryCompare": [],
   "cbaf": [
     "cBioPortalData"
   ],
@@ -355,8 +347,7 @@
   ],
   "esATAC": [],
   "escape": [
-    "GSVA",
-    "UCell"
+    "GSVA"
   ],
   "escheR": [],
   "famat": [],
@@ -477,7 +468,6 @@
   "octad": [
     "GSVA"
   ],
-  "omXplore": [],
   "oppar": [
     "GSVA"
   ],
@@ -534,9 +524,7 @@
   "scruff": [
     "ggbio"
   ],
-  "shinyDSP": [
-    "standR"
-  ],
+  "shinyDSP": [],
   "shinyMethyl": [
     "minfi"
   ],
@@ -575,7 +563,6 @@
   ],
   "srnadiff": [],
   "stJoincount": [],
-  "standR": [],
   "systemPipeR": [],
   "tadar": [],
   "tidySpatialExperiment": [],
