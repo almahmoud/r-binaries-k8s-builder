@@ -22,7 +22,6 @@
   "COCOA": [],
   "CTSV": [],
   "CatsCradle": [],
-  "CellBench": [],
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
@@ -143,7 +142,6 @@
     "lumi",
     "methylumi"
   ],
-  "arrayQualityMetrics": [],
   "bandle": [
     "pRoloc"
   ],
@@ -214,7 +212,6 @@
   "intansv": [
     "ggbio"
   ],
-  "jazzPanda": [],
   "kissDE": [],
   "lisaClust": [
     "spicyR",
@@ -303,7 +300,6 @@
   "stJoincount": [],
   "tpSVG": [],
   "trackViewer": [],
-  "visiumStitched": [],
   "wateRmelon": [
     "methylumi",
     "lumi"
