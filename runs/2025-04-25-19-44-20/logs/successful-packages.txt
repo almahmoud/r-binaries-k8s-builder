@@ -1978,3 +1978,6 @@ SpatialExperimentIO
 clustSIGNAL
 escape
 raer
+DeconvoBuddies
+PAA
+spatialFDA
