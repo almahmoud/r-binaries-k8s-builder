@@ -2111,3 +2111,6 @@ bandle
 hoodscanR
 pRolocGUI
 recount
+cummeRbund
+iNETgrate
+preciseTAD
