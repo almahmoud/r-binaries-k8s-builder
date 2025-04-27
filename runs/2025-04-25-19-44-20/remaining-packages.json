@@ -1,10 +1,8 @@
 {
-  "AHMassBank": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools"
   ],
-  "BASiCStan": [],
   "BOBaFIT": [],
   "Banksy": [],
   "CAFE": [],
@@ -18,14 +16,12 @@
   "ChIPQC": [],
   "ChIPXpress": [],
   "DAPAR": [],
-  "DEP": [],
   "DMRcate": [
     "missMethyl"
   ],
   "Damsel": [],
   "ENmix": [],
   "EpiCompare": [],
-  "ExperimentHubData": [],
   "FLAMES": [],
   "GenomicOZone": [],
   "MEAL": [
@@ -99,7 +95,6 @@
     "lumi"
   ],
   "iNETgrate": [],
-  "iSEEtree": [],
   "imcRtools": [],
   "intansv": [],
   "lisaClust": [
@@ -110,12 +105,8 @@
   "methylGSA": [
     "missMethyl"
   ],
-  "methylclock": [
-    "ExperimentHubData"
-  ],
-  "miaDash": [
-    "iSEEtree"
-  ],
+  "methylclock": [],
+  "miaDash": [],
   "missMethyl": [],
   "msgbsR": [],
   "msmsEDA": [],
