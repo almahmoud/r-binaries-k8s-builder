@@ -1,10 +1,5 @@
 {
-  "ChAMP": [
-    "DMRcate"
-  ],
-  "DMRcate": [],
+  "ChAMP": [],
   "EpiCompare": [],
-  "MEAL": [],
-  "bigmelon": [],
-  "methylGSA": []
+  "MEAL": []
 }
