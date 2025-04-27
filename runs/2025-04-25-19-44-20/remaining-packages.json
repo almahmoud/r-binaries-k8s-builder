@@ -4,7 +4,6 @@
     "ReportingTools"
   ],
   "BOBaFIT": [],
-  "Banksy": [],
   "CAFE": [],
   "CatsCradle": [],
   "ChAMP": [
@@ -57,7 +56,6 @@
     "lumi"
   ],
   "cageminer": [],
-  "crisprVerse": [],
   "derfinderPlot": [],
   "epivizrStandalone": [],
   "ffpe": [
@@ -89,6 +87,5 @@
   "spicyR": [],
   "wateRmelon": [
     "lumi"
-  ],
-  "yarn": []
+  ]
 }
