@@ -3,26 +3,18 @@
     "affycoretools"
   ],
   "ChAMP": [
-    "DMRcate",
-    "wateRmelon"
+    "DMRcate"
   ],
   "DMRcate": [],
   "EpiCompare": [],
   "MEAL": [],
-  "MEAT": [
-    "wateRmelon"
-  ],
+  "MEAT": [],
   "MSnID": [],
   "MineICA": [],
   "YAPSA": [],
   "affycoretools": [],
-  "bigmelon": [
-    "wateRmelon"
-  ],
+  "bigmelon": [],
   "lisaClust": [],
   "methylGSA": [],
-  "skewr": [
-    "wateRmelon"
-  ],
-  "wateRmelon": []
+  "skewr": []
 }
