@@ -67,14 +67,11 @@
     "missMethyl",
     "methylumi"
   ],
-  "DSS": [],
   "DaMiRseq": [],
   "Damsel": [
     "ggbio"
   ],
-  "DeMixT": [
-    "DSS"
-  ],
+  "DeMixT": [],
   "DeconvoBuddies": [],
   "DiffBind": [
     "systemPipeR"
@@ -98,7 +95,6 @@
   ],
   "GEOexplorer": [],
   "GOTHiC": [],
-  "GSReg": [],
   "GSVA": [],
   "GeneBreak": [],
   "GeneMeta": [],
@@ -177,7 +173,6 @@
   "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
-  "RareVariantVis": [],
   "Rbec": [
     "dada2"
   ],
@@ -238,7 +233,6 @@
     "ReportingTools",
     "ggbio"
   ],
-  "affylmGUI": [],
   "alabaster": [
     "alabaster.spatial"
   ],
@@ -258,7 +252,6 @@
   "bandle": [
     "pRoloc"
   ],
-  "bayNorm": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -267,9 +260,7 @@
   ],
   "bioCancer": [],
   "biomvRCNS": [],
-  "borealis": [
-    "DSS"
-  ],
+  "borealis": [],
   "cageminer": [
     "ggbio",
     "BioNERO"
@@ -386,10 +377,7 @@
   ],
   "interactiveDisplay": [],
   "jazzPanda": [],
-  "kissDE": [
-    "DSS"
-  ],
-  "lefser": [],
+  "kissDE": [],
   "lisaClust": [
     "spicyR",
     "simpleSeg",
@@ -407,9 +395,7 @@
     "CAMERA",
     "xcms"
   ],
-  "metaseqR2": [
-    "DSS"
-  ],
+  "metaseqR2": [],
   "methrix": [],
   "methylCC": [
     "minfi"
@@ -420,9 +406,7 @@
     "methylumi"
   ],
   "methylPipe": [],
-  "methylSig": [
-    "DSS"
-  ],
+  "methylSig": [],
   "methylclock": [
     "minfi",
     "ExperimentHubData",
@@ -557,7 +541,6 @@
   "systemPipeR": [],
   "tadar": [],
   "tidySpatialExperiment": [],
-  "tidyomics": [],
   "topdownr": [],
   "tpSVG": [],
   "trackViewer": [],

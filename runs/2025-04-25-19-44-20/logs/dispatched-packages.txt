@@ -2058,3 +2058,8 @@ cBioPortalData
 shinyDSP
 bioCancer
 cbaf
+DeMixT
+borealis
+kissDE
+metaseqR2
+methylSig

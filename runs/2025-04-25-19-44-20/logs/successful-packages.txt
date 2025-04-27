@@ -1876,3 +1876,10 @@ cBioPortalData
 mBPCR
 MGnifyR
 miRLAB
+affylmGUI
+bayNorm
+DSS
+GSReg
+lefser
+RareVariantVis
+tidyomics
