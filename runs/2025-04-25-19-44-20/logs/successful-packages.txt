@@ -1946,3 +1946,10 @@ POMA
 saseR
 SingleMoleculeFootprinting
 tadar
+CGHregions
+cicero
+crisprViz
+dada2
+methylPipe
+ribosomeProfilingQC
+srnadiff

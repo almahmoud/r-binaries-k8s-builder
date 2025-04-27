@@ -1,2 +1,3 @@
-PRONE
-iSEEtree
+Rbec
+crisprShiny
+crisprVerse

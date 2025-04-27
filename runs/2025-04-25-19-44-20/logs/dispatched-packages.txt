@@ -2091,3 +2091,6 @@ pathMED
 scFeatures
 PRONE
 iSEEtree
+Rbec
+crisprShiny
+crisprVerse

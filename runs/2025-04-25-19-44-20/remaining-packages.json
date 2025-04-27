@@ -23,7 +23,6 @@
   "CAMERA": [
     "xcms"
   ],
-  "CGHregions": [],
   "COCOA": [],
   "CTSV": [],
   "CatsCradle": [],
@@ -125,9 +124,7 @@
   "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
-  "Rbec": [
-    "dada2"
-  ],
+  "Rbec": [],
   "ReportingTools": [
     "ggbio"
   ],
@@ -204,7 +201,6 @@
   "cbaf": [],
   "cghMCR": [],
   "chimeraviz": [],
-  "cicero": [],
   "clipper": [],
   "cliqueMS": [
     "xcms"
@@ -216,19 +212,13 @@
   "cosmiq": [
     "xcms"
   ],
-  "crisprShiny": [
-    "crisprViz"
-  ],
-  "crisprVerse": [
-    "crisprViz"
-  ],
-  "crisprViz": [],
+  "crisprShiny": [],
+  "crisprVerse": [],
   "cummeRbund": [],
   "cytomapper": [],
   "cytoviewer": [
     "cytomapper"
   ],
-  "dada2": [],
   "dagLogo": [],
   "deconvR": [],
   "derfinderPlot": [
@@ -306,7 +296,6 @@
     "missMethyl",
     "methylumi"
   ],
-  "methylPipe": [],
   "methylSig": [],
   "methylclock": [
     "ExperimentHubData",
@@ -359,7 +348,6 @@
   "regionReport": [],
   "regutools": [],
   "riboSeqR": [],
-  "ribosomeProfilingQC": [],
   "scClassify": [],
   "scDD": [],
   "scFeatures": [],
@@ -400,7 +388,6 @@
   "squallms": [
     "xcms"
   ],
-  "srnadiff": [],
   "stJoincount": [],
   "systemPipeR": [],
   "tidySpatialExperiment": [],
