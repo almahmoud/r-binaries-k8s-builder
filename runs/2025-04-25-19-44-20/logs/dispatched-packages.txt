@@ -2125,3 +2125,8 @@ lumi
 missMethyl
 epivizrStandalone
 scTreeViz
+AHMassBank
+ExperimentHubData
+cytoviewer
+imcRtools
+simpleSeg

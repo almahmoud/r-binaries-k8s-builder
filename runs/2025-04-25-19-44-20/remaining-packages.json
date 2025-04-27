@@ -1,13 +1,10 @@
 {
-  "AHMassBank": [
-    "AnnotationHubData"
-  ],
+  "AHMassBank": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
     "ggbio"
   ],
-  "AnnotationHubData": [],
   "BASiCStan": [],
   "BOBaFIT": [
     "ggbio"
@@ -35,13 +32,10 @@
   ],
   "ENmix": [],
   "EpiCompare": [],
-  "ExperimentHubData": [
-    "AnnotationHubData"
-  ],
+  "ExperimentHubData": [],
   "FLAMES": [
     "ggbio"
   ],
-  "GARS": [],
   "GOTHiC": [],
   "GenomicOZone": [
     "ggbio"
@@ -119,11 +113,7 @@
   "crisprShiny": [],
   "crisprVerse": [],
   "cummeRbund": [],
-  "cytomapper": [],
-  "cytoviewer": [
-    "cytomapper"
-  ],
-  "dagLogo": [],
+  "cytoviewer": [],
   "deconvR": [],
   "derfinderPlot": [
     "ggbio"
@@ -141,16 +131,13 @@
   ],
   "iNETgrate": [],
   "iSEEtree": [],
-  "imcRtools": [
-    "cytomapper"
-  ],
+  "imcRtools": [],
   "intansv": [
     "ggbio"
   ],
   "lisaClust": [
     "spicyR",
-    "simpleSeg",
-    "cytomapper"
+    "simpleSeg"
   ],
   "lumi": [],
   "methrix": [],
@@ -159,8 +146,7 @@
     "missMethyl"
   ],
   "methylclock": [
-    "ExperimentHubData",
-    "AnnotationHubData"
+    "ExperimentHubData"
   ],
   "miaDash": [
     "iSEEtree"
@@ -187,9 +173,7 @@
   "shinyDSP": [],
   "shinyMethyl": [],
   "signifinder": [],
-  "simpleSeg": [
-    "cytomapper"
-  ],
+  "simpleSeg": [],
   "skewr": [
     "wateRmelon",
     "lumi"
@@ -197,8 +181,7 @@
   "spaSim": [],
   "spatialHeatmap": [],
   "spicyR": [
-    "simpleSeg",
-    "cytomapper"
+    "simpleSeg"
   ],
   "wateRmelon": [
     "lumi"
