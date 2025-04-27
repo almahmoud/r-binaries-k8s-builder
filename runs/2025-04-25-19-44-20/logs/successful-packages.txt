@@ -1821,3 +1821,9 @@ CytoMDS
 GenomicPlot
 InPAS
 SurfR
+AllelicImbalance
+DuplexDiscovereR
+GeneStructureTools
+GenomicInteractions
+OGRE
+Pviz

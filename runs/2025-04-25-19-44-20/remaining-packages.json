@@ -11,7 +11,6 @@
     "ReportingTools",
     "ggbio"
   ],
-  "AllelicImbalance": [],
   "AnnotationHubData": [],
   "BASiCS": [],
   "BASiCStan": [
@@ -32,12 +31,9 @@
   "CAFE": [
     "ggbio"
   ],
-  "CAGEfightR": [
-    "GenomicInteractions"
-  ],
+  "CAGEfightR": [],
   "CAGEr": [
-    "CAGEfightR",
-    "GenomicInteractions"
+    "CAGEfightR"
   ],
   "CAMERA": [
     "xcms"
@@ -96,7 +92,6 @@
     "systemPipeR"
   ],
   "DominoEffect": [],
-  "DuplexDiscovereR": [],
   "EGAD": [],
   "ELMER": [],
   "ENmix": [
@@ -121,8 +116,6 @@
   "GSVA": [],
   "GeneBreak": [],
   "GeneMeta": [],
-  "GeneStructureTools": [],
-  "GenomicInteractions": [],
   "GenomicOZone": [
     "ggbio"
   ],
@@ -133,9 +126,7 @@
     "GOstats"
   ],
   "HarmonizR": [],
-  "HiCDCPlus": [
-    "GenomicInteractions"
-  ],
+  "HiCDCPlus": [],
   "IPO": [
     "xcms",
     "CAMERA"
@@ -185,7 +176,6 @@
   "MinimumDistance": [],
   "MoleculeExperiment": [],
   "MungeSumstats": [],
-  "OGRE": [],
   "PAA": [],
   "POMA": [],
   "PRONE": [
@@ -197,7 +187,6 @@
     "DAPAR"
   ],
   "PureCN": [],
-  "Pviz": [],
   "R3CPET": [
     "ggbio"
   ],
@@ -646,9 +635,7 @@
   "spatialFDA": [],
   "spatialHeatmap": [],
   "spatialSimGP": [],
-  "spatzie": [
-    "GenomicInteractions"
-  ],
+  "spatzie": [],
   "spicyR": [
     "simpleSeg",
     "cytomapper"
