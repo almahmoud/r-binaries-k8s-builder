@@ -1832,3 +1832,10 @@ edge
 SCAN.UPC
 SEtools
 SPLINTER
+doppelgangR
+ELMER
+nempi
+qsvaR
+RNAmodR
+TVTB
+velociraptor

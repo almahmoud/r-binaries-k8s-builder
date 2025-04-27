@@ -1,1 +1,3 @@
-VaSP
+RNAmodR.AlkAnilineSeq
+RNAmodR.ML
+RNAmodR.RiboMethSeq

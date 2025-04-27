@@ -2040,3 +2040,6 @@ CAGEfightR
 HiCDCPlus
 spatzie
 VaSP
+RNAmodR.AlkAnilineSeq
+RNAmodR.ML
+RNAmodR.RiboMethSeq
