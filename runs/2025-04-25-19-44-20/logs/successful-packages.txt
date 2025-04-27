@@ -2043,3 +2043,6 @@ iSEEfier
 MethylAid
 methylSig
 RMassBank
+conumee
+motifbreakR
+smoothclust
