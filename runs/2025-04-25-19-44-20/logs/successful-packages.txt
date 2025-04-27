@@ -2156,3 +2156,5 @@ ffpe
 iCheck
 psichomics
 wateRmelon
+affycoretools
+lisaClust

@@ -1,7 +1,5 @@
 {
-  "AgiMicroRna": [
-    "affycoretools"
-  ],
+  "AgiMicroRna": [],
   "ChAMP": [
     "DMRcate"
   ],
@@ -12,9 +10,7 @@
   "MSnID": [],
   "MineICA": [],
   "YAPSA": [],
-  "affycoretools": [],
   "bigmelon": [],
-  "lisaClust": [],
   "methylGSA": [],
   "skewr": []
 }
