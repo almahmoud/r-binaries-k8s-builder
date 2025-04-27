@@ -2091,3 +2091,6 @@ DEP
 ExperimentHubData
 iSEEtree
 signifinder
+ChIPQC
+cytoviewer
+simpleSeg

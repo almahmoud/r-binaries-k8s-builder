@@ -13,7 +13,6 @@
     "missMethyl",
     "lumi"
   ],
-  "ChIPQC": [],
   "ChIPXpress": [],
   "DAPAR": [],
   "DMRcate": [
@@ -82,7 +81,6 @@
   "crisprShiny": [],
   "crisprVerse": [],
   "cummeRbund": [],
-  "cytoviewer": [],
   "deconvR": [],
   "derfinderPlot": [],
   "epivizrStandalone": [],
@@ -98,8 +96,7 @@
   "imcRtools": [],
   "intansv": [],
   "lisaClust": [
-    "spicyR",
-    "simpleSeg"
+    "spicyR"
   ],
   "lumi": [],
   "methylGSA": [
@@ -122,15 +119,12 @@
   "scTreeViz": [],
   "scruff": [],
   "shinyDSP": [],
-  "simpleSeg": [],
   "skewr": [
     "wateRmelon",
     "lumi"
   ],
   "spaSim": [],
-  "spicyR": [
-    "simpleSeg"
-  ],
+  "spicyR": [],
   "wateRmelon": [
     "lumi"
   ],
