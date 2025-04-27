@@ -91,7 +91,6 @@
   "SomaticSignatures": [
     "ggbio"
   ],
-  "SpotClean": [],
   "SpotSweeper": [],
   "TBSignatureProfiler": [],
   "VisiumIO": [],
@@ -189,7 +188,6 @@
   "psichomics": [
     "recount"
   ],
-  "puma": [],
   "recount": [],
   "scTreeViz": [
     "epivizr"
@@ -209,7 +207,6 @@
     "lumi"
   ],
   "smoppix": [],
-  "sosta": [],
   "spaSim": [],
   "spatialHeatmap": [],
   "spicyR": [

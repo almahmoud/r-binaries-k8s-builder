@@ -2057,3 +2057,6 @@ methylumi
 recountmethylation
 epimutacions
 SIM
+puma
+sosta
+SpotClean
