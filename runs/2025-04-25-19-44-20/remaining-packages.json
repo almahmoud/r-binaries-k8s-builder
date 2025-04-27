@@ -182,7 +182,6 @@
   "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
-  "RTCGAToolbox": [],
   "RareVariantVis": [],
   "Rbec": [
     "dada2"
@@ -225,7 +224,6 @@
     "GSVA"
   ],
   "UCell": [],
-  "VariantFiltering": [],
   "VisiumIO": [],
   "Voyager": [
     "SpatialFeatureExperiment"
@@ -277,29 +275,24 @@
     "lumi"
   ],
   "bioCancer": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "biomvRCNS": [],
   "borealis": [
     "DSS"
   ],
-  "cBioPortalData": [
-    "RTCGAToolbox"
-  ],
+  "cBioPortalData": [],
   "cageminer": [
     "ggbio",
     "BioNERO"
   ],
   "canceR": [
     "cBioPortalData",
-    "phenoTest",
-    "RTCGAToolbox"
+    "phenoTest"
   ],
   "categoryCompare": [],
   "cbaf": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "cghMCR": [
     "CNTools"

@@ -1,5 +1,1 @@
-BiSeq
-CAGEr
-GlobalAncova
-SIM
-spoon
+cBioPortalData

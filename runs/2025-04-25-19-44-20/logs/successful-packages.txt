@@ -1857,3 +1857,5 @@ HiCDCPlus
 nnSVG
 selectKSigs
 spatzie
+RTCGAToolbox
+VariantFiltering
