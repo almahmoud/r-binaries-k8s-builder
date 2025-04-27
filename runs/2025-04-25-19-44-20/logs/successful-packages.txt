@@ -1919,3 +1919,8 @@ CHRONOS
 CytoPipelineGUI
 DESpace
 HarmonizR
+CARDspa
+CCAFE
+flowGate
+primirTSS
+PROPS

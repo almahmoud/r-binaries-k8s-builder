@@ -24,8 +24,6 @@
   "CAMERA": [
     "xcms"
   ],
-  "CARDspa": [],
-  "CCAFE": [],
   "CGHregions": [],
   "CNVrd2": [],
   "COCOA": [],
@@ -127,7 +125,6 @@
   "PRONE": [
     "POMA"
   ],
-  "PROPS": [],
   "PrInCE": [],
   "Prostar": [
     "DAPAR"
@@ -289,7 +286,6 @@
     "xcms",
     "CAMERA"
   ],
-  "flowGate": [],
   "frma": [],
   "funtooNorm": [],
   "geomeTriD": [
@@ -388,7 +384,6 @@
   "preciseTAD": [
     "rCGH"
   ],
-  "primirTSS": [],
   "psichomics": [
     "recount"
   ],
