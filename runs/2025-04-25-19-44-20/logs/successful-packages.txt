@@ -1883,3 +1883,10 @@ GSReg
 lefser
 RareVariantVis
 tidyomics
+FEAST
+GeneMeta
+iCNV
+mbQTL
+MinimumDistance
+qPLEXanalyzer
+SpatialFeatureExperiment

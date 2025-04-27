@@ -1,5 +1,2 @@
-DeMixT
-borealis
-kissDE
-metaseqR2
-methylSig
+Voyager
+XDE

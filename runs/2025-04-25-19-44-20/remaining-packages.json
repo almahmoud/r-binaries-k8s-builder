@@ -86,7 +86,6 @@
     "AnnotationHubData"
   ],
   "ExperimentSubset": [],
-  "FEAST": [],
   "FLAMES": [
     "ggbio"
   ],
@@ -97,7 +96,6 @@
   "GOTHiC": [],
   "GSVA": [],
   "GeneBreak": [],
-  "GeneMeta": [],
   "GenomicOZone": [
     "ggbio"
   ],
@@ -147,7 +145,6 @@
     "methylumi",
     "minfi"
   ],
-  "MinimumDistance": [],
   "MoleculeExperiment": [],
   "MungeSumstats": [],
   "PAA": [],
@@ -201,7 +198,6 @@
     "ggbio"
   ],
   "SpatialExperimentIO": [],
-  "SpatialFeatureExperiment": [],
   "SpotClean": [],
   "SpotSweeper": [
     "escheR"
@@ -212,12 +208,8 @@
     "GSVA"
   ],
   "VisiumIO": [],
-  "Voyager": [
-    "SpatialFeatureExperiment"
-  ],
-  "XDE": [
-    "GeneMeta"
-  ],
+  "Voyager": [],
+  "XDE": [],
   "XeniumIO": [
     "VisiumIO"
   ],
@@ -237,7 +229,6 @@
     "alabaster.spatial"
   ],
   "alabaster.sfe": [
-    "SpatialFeatureExperiment",
     "alabaster.spatial"
   ],
   "alabaster.spatial": [],
@@ -356,7 +347,6 @@
   "ggspavis": [],
   "gwasurvivr": [],
   "hoodscanR": [],
-  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi",
@@ -389,7 +379,6 @@
   ],
   "mCSEA": [],
   "maser": [],
-  "mbQTL": [],
   "meshr": [],
   "metaMS": [
     "CAMERA",
@@ -470,7 +459,6 @@
   ],
   "ptairMS": [],
   "puma": [],
-  "qPLEXanalyzer": [],
   "quantro": [
     "minfi"
   ],
