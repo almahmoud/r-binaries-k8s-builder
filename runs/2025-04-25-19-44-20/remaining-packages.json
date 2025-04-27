@@ -40,7 +40,6 @@
   "RnaSeqSampleSize": [],
   "SomaticSignatures": [],
   "SpotSweeper": [],
-  "TBSignatureProfiler": [],
   "XeniumIO": [],
   "YAPSA": [
     "SomaticSignatures"
@@ -57,7 +56,6 @@
   ],
   "cageminer": [],
   "derfinderPlot": [],
-  "epivizrStandalone": [],
   "ffpe": [
     "lumi"
   ],
