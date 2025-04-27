@@ -36,15 +36,11 @@
   ],
   "Prostar": [],
   "R3CPET": [],
-  "RNAAgeCalc": [
-    "recount"
-  ],
+  "RNAAgeCalc": [],
   "ReportingTools": [],
   "RiboProfiling": [],
   "RnBeads": [],
-  "RnaSeqSampleSize": [
-    "recount"
-  ],
+  "RnaSeqSampleSize": [],
   "SomaticSignatures": [],
   "SpotSweeper": [],
   "TBSignatureProfiler": [],
@@ -59,7 +55,6 @@
   "arrayMvout": [
     "lumi"
   ],
-  "bandle": [],
   "bigmelon": [
     "wateRmelon",
     "lumi"
@@ -73,7 +68,6 @@
     "lumi"
   ],
   "geomeTriD": [],
-  "hoodscanR": [],
   "iCheck": [
     "lumi"
   ],
@@ -95,12 +89,8 @@
   "msmsTests": [
     "msmsEDA"
   ],
-  "pRolocGUI": [],
   "preciseTAD": [],
-  "psichomics": [
-    "recount"
-  ],
-  "recount": [],
+  "psichomics": [],
   "scTreeViz": [],
   "scruff": [],
   "skewr": [

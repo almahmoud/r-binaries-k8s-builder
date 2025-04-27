@@ -2149,3 +2149,6 @@ miaDash
 spicyR
 XeniumIO
 Prostar
+RNAAgeCalc
+RnaSeqSampleSize
+psichomics
