@@ -1975,3 +1975,6 @@ alabaster.spatial
 famat
 pathMED
 SpatialExperimentIO
+clustSIGNAL
+escape
+raer

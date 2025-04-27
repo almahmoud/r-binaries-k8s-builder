@@ -187,7 +187,6 @@
   "cghMCR": [],
   "chimeraviz": [],
   "cliqueMS": [],
-  "clustSIGNAL": [],
   "concordexR": [],
   "conumee": [],
   "cosmiq": [],
@@ -216,7 +215,6 @@
     "epivizr",
     "epivizrData"
   ],
-  "escape": [],
   "escheR": [],
   "ffpe": [
     "lumi",
@@ -306,7 +304,6 @@
   ],
   "puma": [],
   "quantro": [],
-  "raer": [],
   "recount": [],
   "recountmethylation": [],
   "regionReport": [],
