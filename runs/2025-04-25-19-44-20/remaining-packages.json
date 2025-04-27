@@ -2,7 +2,6 @@
   "AHMassBank": [
     "AnnotationHubData"
   ],
-  "ASSIGN": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
@@ -118,12 +117,9 @@
   "SpotSweeper": [
     "escheR"
   ],
-  "TBSignatureProfiler": [
-    "ASSIGN"
-  ],
+  "TBSignatureProfiler": [],
   "VisiumIO": [],
   "Voyager": [],
-  "XDE": [],
   "XeniumIO": [
     "VisiumIO"
   ],
@@ -186,7 +182,6 @@
     "lumi",
     "methylumi"
   ],
-  "flagme": [],
   "funtooNorm": [],
   "geomeTriD": [
     "trackViewer"
@@ -216,7 +211,6 @@
   "lumi": [
     "methylumi"
   ],
-  "maser": [],
   "meshr": [],
   "metaMS": [],
   "metaseqR2": [],

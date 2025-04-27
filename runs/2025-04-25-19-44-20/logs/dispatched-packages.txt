@@ -2113,3 +2113,4 @@ ChIPQC
 canceR
 bandle
 pRolocGUI
+TBSignatureProfiler
