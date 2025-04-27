@@ -43,7 +43,6 @@
   "MineICA": [
     "lumi"
   ],
-  "PRONE": [],
   "Prostar": [
     "DAPAR"
   ],
@@ -132,7 +131,6 @@
   "scTreeViz": [],
   "scruff": [],
   "shinyDSP": [],
-  "shinyMethyl": [],
   "signifinder": [],
   "simpleSeg": [],
   "skewr": [
