@@ -20,9 +20,7 @@
     "ggbio"
   ],
   "CAGEr": [],
-  "CAMERA": [
-    "xcms"
-  ],
+  "CAMERA": [],
   "COCOA": [],
   "CTSV": [],
   "CatsCradle": [],
@@ -71,12 +69,10 @@
   ],
   "GlobalAncova": [],
   "IPO": [
-    "xcms",
     "CAMERA"
   ],
   "MAIT": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "MBECS": [],
   "MEAL": [
@@ -106,7 +102,6 @@
   "MoleculeExperiment": [],
   "PAA": [],
   "PRONE": [],
-  "PrInCE": [],
   "Prostar": [
     "DAPAR"
   ],
@@ -198,15 +193,11 @@
   "cbaf": [],
   "cghMCR": [],
   "chimeraviz": [],
-  "cliqueMS": [
-    "xcms"
-  ],
+  "cliqueMS": [],
   "clustSIGNAL": [],
   "concordexR": [],
   "conumee": [],
-  "cosmiq": [
-    "xcms"
-  ],
+  "cosmiq": [],
   "crisprShiny": [],
   "crisprVerse": [],
   "cummeRbund": [],
@@ -240,7 +231,6 @@
     "methylumi"
   ],
   "flagme": [
-    "xcms",
     "CAMERA"
   ],
   "frma": [],
@@ -277,8 +267,7 @@
   "maser": [],
   "meshr": [],
   "metaMS": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "metaseqR2": [],
   "methrix": [],
@@ -309,9 +298,7 @@
     "msmsEDA"
   ],
   "mumosa": [],
-  "ncGTW": [
-    "xcms"
-  ],
+  "ncGTW": [],
   "octad": [],
   "pRoloc": [],
   "pRolocGUI": [
@@ -367,9 +354,7 @@
     "cytomapper"
   ],
   "spoon": [],
-  "squallms": [
-    "xcms"
-  ],
+  "squallms": [],
   "stJoincount": [],
   "tidySpatialExperiment": [],
   "tpSVG": [],
@@ -379,7 +364,6 @@
     "methylumi",
     "lumi"
   ],
-  "xcms": [],
   "yarn": [
     "quantro"
   ]

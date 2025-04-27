@@ -1966,3 +1966,5 @@ oppar
 scDD
 clipper
 systemPipeR
+PrInCE
+xcms

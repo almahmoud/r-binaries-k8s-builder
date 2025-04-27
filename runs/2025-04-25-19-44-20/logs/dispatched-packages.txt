@@ -2097,3 +2097,8 @@ crisprVerse
 preciseTAD
 signifinder
 DiffBind
+CAMERA
+cliqueMS
+cosmiq
+ncGTW
+squallms
