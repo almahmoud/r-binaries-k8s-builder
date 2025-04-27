@@ -130,11 +130,7 @@
     "ggbio"
   ],
   "epiregulon": [],
-  "epivizr": [],
-  "epivizrChart": [],
-  "epivizrStandalone": [
-    "epivizr"
-  ],
+  "epivizrStandalone": [],
   "ffpe": [
     "lumi"
   ],
@@ -178,7 +174,6 @@
   "msmsTests": [
     "msmsEDA"
   ],
-  "mumosa": [],
   "pRolocGUI": [],
   "poem": [],
   "preciseTAD": [],
@@ -186,9 +181,7 @@
     "recount"
   ],
   "recount": [],
-  "scTreeViz": [
-    "epivizr"
-  ],
+  "scTreeViz": [],
   "scruff": [
     "ggbio"
   ],

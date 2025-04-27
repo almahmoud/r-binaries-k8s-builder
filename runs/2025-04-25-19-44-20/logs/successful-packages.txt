@@ -2065,3 +2065,6 @@ COCOA
 shinyepico
 smoppix
 SWATH2stats
+epivizr
+epivizrChart
+mumosa
