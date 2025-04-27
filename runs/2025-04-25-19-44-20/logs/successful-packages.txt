@@ -1997,3 +1997,9 @@ atSNP
 DiffBind
 mimager
 phenoTest
+BiSeq
+DAMEfinder
+MBECS
+phantasus
+RNAmodR.RiboMethSeq
+spoon

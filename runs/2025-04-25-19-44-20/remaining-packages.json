@@ -14,7 +14,6 @@
     "ggbio"
   ],
   "Banksy": [],
-  "BiSeq": [],
   "BioNERO": [],
   "CAFE": [
     "ggbio"
@@ -33,7 +32,6 @@
   ],
   "ChIPQC": [],
   "ChIPXpress": [],
-  "DAMEfinder": [],
   "DAPAR": [],
   "DEP": [],
   "DMRcate": [
@@ -62,7 +60,6 @@
   "GlobalAncova": [],
   "IPO": [],
   "MAIT": [],
-  "MBECS": [],
   "MEAL": [
     "missMethyl",
     "methylumi"
@@ -102,7 +99,6 @@
   ],
   "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
-  "RNAmodR.RiboMethSeq": [],
   "Rbec": [],
   "ReportingTools": [
     "ggbio"
@@ -267,7 +263,6 @@
   ],
   "pageRank": [],
   "pdInfoBuilder": [],
-  "phantasus": [],
   "poem": [],
   "preciseTAD": [],
   "psichomics": [
@@ -308,7 +303,6 @@
     "simpleSeg",
     "cytomapper"
   ],
-  "spoon": [],
   "stJoincount": [],
   "tpSVG": [],
   "trackViewer": [],
