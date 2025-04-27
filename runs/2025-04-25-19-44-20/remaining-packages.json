@@ -109,10 +109,7 @@
   ],
   "MoleculeExperiment": [],
   "PAA": [],
-  "POMA": [],
-  "PRONE": [
-    "POMA"
-  ],
+  "PRONE": [],
   "PrInCE": [],
   "Prostar": [
     "DAPAR"
@@ -149,7 +146,6 @@
   "SVP": [],
   "SWATH2stats": [],
   "SigsPack": [],
-  "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [
     "ggbio"
   ],
@@ -214,8 +210,6 @@
     "xcms"
   ],
   "clustSIGNAL": [],
-  "clusterSeq": [],
-  "comapr": [],
   "concordexR": [],
   "consensusOV": [],
   "conumee": [],
@@ -280,9 +274,7 @@
   ],
   "iNETgrate": [],
   "iSEEfier": [],
-  "iSEEtree": [
-    "miaViz"
-  ],
+  "iSEEtree": [],
   "imcRtools": [
     "cytomapper"
   ],
@@ -322,10 +314,8 @@
   ],
   "methylumi": [],
   "miaDash": [
-    "iSEEtree",
-    "miaViz"
+    "iSEEtree"
   ],
-  "miaViz": [],
   "mimager": [],
   "missMethyl": [
     "methylumi"
@@ -351,7 +341,6 @@
   "pageRank": [],
   "pathMED": [],
   "pdInfoBuilder": [],
-  "peakPantheR": [],
   "phantasus": [],
   "phenoTest": [],
   "poem": [],
@@ -371,7 +360,6 @@
   "regutools": [],
   "riboSeqR": [],
   "ribosomeProfilingQC": [],
-  "saseR": [],
   "scClassify": [],
   "scDD": [],
   "scFeatures": [],
@@ -415,7 +403,6 @@
   "srnadiff": [],
   "stJoincount": [],
   "systemPipeR": [],
-  "tadar": [],
   "tidySpatialExperiment": [],
   "tpSVG": [],
   "trackViewer": [],

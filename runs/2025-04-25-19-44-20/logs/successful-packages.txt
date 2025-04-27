@@ -1938,3 +1938,11 @@ MungeSumstats
 biomvRCNS
 GSVA
 Statial
+clusterSeq
+comapr
+miaViz
+peakPantheR
+POMA
+saseR
+SingleMoleculeFootprinting
+tadar
