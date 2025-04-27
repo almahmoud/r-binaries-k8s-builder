@@ -1953,3 +1953,6 @@ dada2
 methylPipe
 ribosomeProfilingQC
 srnadiff
+esATAC
+rCGH
+riboSeqR

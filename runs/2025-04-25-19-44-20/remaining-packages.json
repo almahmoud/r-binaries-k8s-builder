@@ -238,7 +238,6 @@
     "epivizr",
     "epivizrData"
   ],
-  "esATAC": [],
   "escape": [],
   "escheR": [],
   "famat": [],
@@ -333,21 +332,17 @@
   "phantasus": [],
   "phenoTest": [],
   "poem": [],
-  "preciseTAD": [
-    "rCGH"
-  ],
+  "preciseTAD": [],
   "psichomics": [
     "recount"
   ],
   "puma": [],
   "quantro": [],
-  "rCGH": [],
   "raer": [],
   "recount": [],
   "recountmethylation": [],
   "regionReport": [],
   "regutools": [],
-  "riboSeqR": [],
   "scClassify": [],
   "scDD": [],
   "scFeatures": [],
