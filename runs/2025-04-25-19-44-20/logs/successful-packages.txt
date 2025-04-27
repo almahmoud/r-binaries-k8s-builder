@@ -1971,3 +1971,7 @@ xcms
 octad
 SEraster
 spatialDE
+alabaster.spatial
+famat
+pathMED
+SpatialExperimentIO

@@ -137,7 +137,6 @@
   "SomaticSignatures": [
     "ggbio"
   ],
-  "SpatialExperimentIO": [],
   "SpotClean": [],
   "SpotSweeper": [
     "escheR"
@@ -159,13 +158,8 @@
     "ReportingTools",
     "ggbio"
   ],
-  "alabaster": [
-    "alabaster.spatial"
-  ],
-  "alabaster.sfe": [
-    "alabaster.spatial"
-  ],
-  "alabaster.spatial": [],
+  "alabaster": [],
+  "alabaster.sfe": [],
   "arrayMvout": [
     "lumi",
     "methylumi"
@@ -224,7 +218,6 @@
   ],
   "escape": [],
   "escheR": [],
-  "famat": [],
   "ffpe": [
     "lumi",
     "methylumi"
@@ -303,7 +296,6 @@
     "pRoloc"
   ],
   "pageRank": [],
-  "pathMED": [],
   "pdInfoBuilder": [],
   "phantasus": [],
   "phenoTest": [],
