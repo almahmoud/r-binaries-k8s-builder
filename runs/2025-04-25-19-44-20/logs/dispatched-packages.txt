@@ -2114,3 +2114,4 @@ canceR
 bandle
 pRolocGUI
 TBSignatureProfiler
+MSstatsQCgui

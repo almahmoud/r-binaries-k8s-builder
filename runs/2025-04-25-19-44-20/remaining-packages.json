@@ -39,7 +39,6 @@
   "Damsel": [
     "ggbio"
   ],
-  "DeMixT": [],
   "EGAD": [],
   "ENmix": [],
   "EpiCompare": [],
@@ -55,7 +54,6 @@
     "ggbio"
   ],
   "GlobalAncova": [],
-  "MAIT": [],
   "MEAL": [
     "missMethyl",
     "methylumi"
@@ -69,10 +67,7 @@
     "msmsTests",
     "msmsEDA"
   ],
-  "MSstatsQC": [],
-  "MSstatsQCgui": [
-    "MSstatsQC"
-  ],
+  "MSstatsQCgui": [],
   "MetaboSignal": [],
   "MethylAid": [],
   "MineICA": [
@@ -92,7 +87,6 @@
   "RNAAgeCalc": [
     "recount"
   ],
-  "RNAmodR.AlkAnilineSeq": [],
   "Rbec": [],
   "ReportingTools": [
     "ggbio"
@@ -212,7 +206,6 @@
     "methylumi"
   ],
   "meshr": [],
-  "metaMS": [],
   "metaseqR2": [],
   "methrix": [],
   "methylCC": [],

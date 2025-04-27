@@ -2018,3 +2018,8 @@ ASSIGN
 flagme
 maser
 XDE
+DeMixT
+MAIT
+metaMS
+MSstatsQC
+RNAmodR.AlkAnilineSeq
