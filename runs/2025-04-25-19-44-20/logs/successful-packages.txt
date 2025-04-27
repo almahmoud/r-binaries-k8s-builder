@@ -1839,3 +1839,6 @@ qsvaR
 RNAmodR
 TVTB
 velociraptor
+bnbc
+bnem
+spatialSimGP

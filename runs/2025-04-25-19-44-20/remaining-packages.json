@@ -307,8 +307,6 @@
     "RTCGAToolbox"
   ],
   "biomvRCNS": [],
-  "bnbc": [],
-  "bnem": [],
   "borealis": [
     "DSS"
   ],
@@ -615,7 +613,6 @@
   "spatialDE": [],
   "spatialFDA": [],
   "spatialHeatmap": [],
-  "spatialSimGP": [],
   "spatzie": [],
   "spicyR": [
     "simpleSeg",
