@@ -130,7 +130,6 @@
     "methylumi",
     "lumi"
   ],
-  "MGnifyR": [],
   "MOSClip": [],
   "MOSim": [],
   "MSPrep": [],
@@ -266,25 +265,19 @@
     "methylumi",
     "lumi"
   ],
-  "bioCancer": [
-    "cBioPortalData"
-  ],
+  "bioCancer": [],
   "biomvRCNS": [],
   "borealis": [
     "DSS"
   ],
-  "cBioPortalData": [],
   "cageminer": [
     "ggbio",
     "BioNERO"
   ],
   "canceR": [
-    "cBioPortalData",
     "phenoTest"
   ],
-  "cbaf": [
-    "cBioPortalData"
-  ],
+  "cbaf": [],
   "cghMCR": [
     "CNTools"
   ],
@@ -406,7 +399,6 @@
     "methylumi",
     "minfi"
   ],
-  "mBPCR": [],
   "mCSEA": [],
   "maser": [],
   "mbQTL": [],
@@ -439,7 +431,6 @@
   "methylumi": [
     "minfi"
   ],
-  "miRLAB": [],
   "miRSM": [],
   "miaDash": [
     "iSEEtree",
