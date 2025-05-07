@@ -163,3 +163,17 @@ SMAD
 TargetScore
 TargetSearch
 TrIdent
+Chicago
+ClusterSignificance
+DCATS
+GAprediction
+GeneGA
+GeneticsPed
+GEOmetadb
+GIGSEA
+GLAD
+GladiaTOX
+GPA
+GraphAlignment
+GSALightning
+TSAR
