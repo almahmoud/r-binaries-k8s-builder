@@ -35,3 +35,11 @@ weaver
 widgetTools
 xmapbridge
 zlibbioc
+AnVILBase
+seahtrue
+seq.hotSPOT
+seqcombo
+seqLogo
+similaRpeak
+sizepower
+spikeLI
