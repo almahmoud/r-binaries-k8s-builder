@@ -119,31 +119,7 @@ jobs:
             chmod +x .github/scripts/update_runs_table.sh
             bash ./.github/scripts/update_runs_table.sh
             
-            # Generate dependency files in Docker container
-            docker run -d --rm --name bioc-gen-${RUN_ID} \
-              ${CONTAINER} sleep infinity
-
-            # Copy script into container
-            docker cp .github/scripts/deps_json.R bioc-gen-${RUN_ID}:/deps_json.R
-
-            # Run script
-            docker exec bioc-gen-${RUN_ID} Rscript /deps_json.R \
-              --biocdeps=/tmp/biocdeps.json \
-              --uniquedeps=/tmp/uniquedeps.json
-
-            # Copy files from container
-            docker cp bioc-gen-${RUN_ID}:/tmp/biocdeps.json "runs/${RUN_ID}/"
-            docker cp bioc-gen-${RUN_ID}:/tmp/uniquedeps.json "runs/${RUN_ID}/"
-            docker cp bioc-gen-${RUN_ID}:/tmp/bioc_version "runs/${RUN_ID}/"
-            docker cp bioc-gen-${RUN_ID}:/tmp/r_version "runs/${RUN_ID}/"
-            
-            # Stop container and cleanup
-            echo "Stopping and removing container..."
-            docker stop bioc-gen-${RUN_ID} || true
-            docker rm -f bioc-gen-${RUN_ID} || true
-            docker system prune -f --volumes --filter || true
-
-            # Setup Kubernetes resources
+            # Setup Kubernetes resources - this now handles running deps_json.R via init container
             bash ./.github/scripts/setup_k8s.sh "nfs" "500Gi" "${RUN_ID}"
             
             # Initialize counters
