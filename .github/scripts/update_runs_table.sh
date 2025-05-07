@@ -18,17 +18,35 @@ fi
 
 # Create runs table
 echo "Generating runs table..."
-echo "| Run ID | Start Time | Container Image | Status | Success | Failed | Total |" > runs-table.md
-echo "|--------|------------|-----------------|--------|---------|--------|-------|" >> runs-table.md
+echo "| Run ID | Start Time | Container Image | R Version | Bioc Version | Status | Success | Failed | Total |" > runs-table.md
+echo "|--------|------------|-----------------|-----------|--------------|--------|---------|--------|-------|" >> runs-table.md
 
 # Process runs directories in reverse chronological order
 find runs -maxdepth 1 -mindepth 1 -type d | sort -r | while read -r run_dir; do
   run_id=$(basename "$run_dir")
   
-  # Get container image if available
+  # Get full container image if available
   container_img="N/A"
   if [ -f "${run_dir}/CONTAINER_BASE_IMAGE.bioc" ]; then
-    container_img=$(cat "${run_dir}/CONTAINER_BASE_IMAGE.bioc" | awk -F':' '{print $2}' | cut -c 1-15)
+    container_img=$(cat "${run_dir}/CONTAINER_BASE_IMAGE.bioc")
+  fi
+  
+  # Get R version if available
+  r_version="N/A"
+  if [ -f "${run_dir}/r_version" ]; then
+    r_version=$(cat "${run_dir}/r_version")
+  fi
+  
+  # Get Bioc version if available
+  bioc_version="N/A"
+  if [ -f "${run_dir}/bioc_version" ]; then
+    bioc_version=$(cat "${run_dir}/bioc_version")
+  else
+    # Legacy fallback to container image tag
+    bioc_tag=$(echo "$container_img" | awk -F':' '{print $2}')
+    if [ -n "$bioc_tag" ]; then
+      bioc_version=$bioc_tag
+    fi
   fi
   
   # Get run status
@@ -46,7 +64,7 @@ find runs -maxdepth 1 -mindepth 1 -type d | sort -r | while read -r run_dir; do
   total_count=$((success_count + failed_count))
   
   # Add row to table
-  echo "| [${run_id}](${run_dir}/) | ${start_time} | \`${container_img}\` | ${status} | ${success_count} | ${failed_count} | ${total_count} |" >> runs-table.md
+  echo "| [${run_id}](${run_dir}/) | ${start_time} | \`${container_img}\` | ${r_version} | ${bioc_version} | ${status} | ${success_count} | ${failed_count} | ${total_count} |" >> runs-table.md
 done
 
 # Create temporary file for new README content

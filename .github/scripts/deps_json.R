@@ -15,8 +15,13 @@ uniquedeps <- userargs$uniquedeps
 exclude <- .exlude_packages()
 db <- available.packages(repos = BiocManager::repositories())
 
+# Get Bioc version directly
 biocver <- as.character(BiocManager::version())
 writeLines(biocver, "/tmp/bioc_version")
+
+# Get R version directly
+r_version <- paste0(R.version$major, ".", R.version$minor, ".", R.version$patch)
+writeLines(r_version, "/tmp/r_version")
 
 softpkgs <- available.packages(repos = BiocManager::repositories()["BioCsoft"])[,1]
 # annpkgs <- available.packages(repos = BiocManager::repositories()["BioCann"])[,1]

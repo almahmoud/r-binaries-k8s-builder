@@ -135,6 +135,7 @@ jobs:
             docker cp bioc-gen-${RUN_ID}:/tmp/biocdeps.json "runs/${RUN_ID}/"
             docker cp bioc-gen-${RUN_ID}:/tmp/uniquedeps.json "runs/${RUN_ID}/"
             docker cp bioc-gen-${RUN_ID}:/tmp/bioc_version "runs/${RUN_ID}/"
+            docker cp bioc-gen-${RUN_ID}:/tmp/r_version "runs/${RUN_ID}/"
             
             # Stop container and cleanup
             echo "Stopping and removing container..."
