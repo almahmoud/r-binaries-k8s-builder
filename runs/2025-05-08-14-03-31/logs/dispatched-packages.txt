@@ -585,3 +585,7 @@ Biostrings
 GenomicRanges
 SparseArray
 islify
+BiGGR
+DEGraph
+DelayedArray
+MEIGOR
