@@ -1,4 +1,0 @@
-ADAMgui
-multistateQTL
-omicade4
-tRNA

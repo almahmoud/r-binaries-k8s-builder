@@ -1069,7 +1069,6 @@
     "BSgenome",
     "GenomicAlignments",
     "impute",
-    "seqPattern",
     "BiocParallel"
   ],
   "ChAMP": [
@@ -2023,7 +2022,6 @@
     "GenomicAlignments",
     "impute",
     "Rsamtools",
-    "seqPattern",
     "DOSE",
     "GOSemSim",
     "ggtree",
@@ -2608,7 +2606,6 @@
     "txdbmaker",
     "BSgenome",
     "impute",
-    "seqPattern",
     "BiocParallel",
     "biomaRt",
     "BiocFileCache"
@@ -4516,7 +4513,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "impute",
-    "seqPattern",
     "biomaRt",
     "BiocFileCache",
     "BiocParallel"
@@ -5623,7 +5619,6 @@
     "BSgenome",
     "BiocParallel"
   ],
-  "SubCellBarCode": [],
   "Summix": [],
   "SurfR": [
     "BiocFileCache",
@@ -6563,7 +6558,6 @@
     "affy",
     "preprocessCore"
   ],
-  "awst": [],
   "bacon": [
     "BiocParallel"
   ],
@@ -8089,7 +8083,6 @@
     "Rhdf5lib"
   ],
   "diffuStats": [],
-  "dinoR": [],
   "dir.expiry": [],
   "distinct": [
     "SingleCellExperiment",
@@ -8101,7 +8094,6 @@
   "dittoSeq": [
     "SingleCellExperiment"
   ],
-  "divergence": [],
   "dks": [],
   "dmrseq": [
     "bsseq",
@@ -8496,7 +8488,6 @@
     "GenomicAlignments",
     "impute",
     "Rsamtools",
-    "seqPattern",
     "rtracklayer",
     "BiocParallel"
   ],
@@ -8914,7 +8905,6 @@
     "GenomicAlignments",
     "impute",
     "Rsamtools",
-    "seqPattern",
     "rtracklayer",
     "BiocParallel"
   ],
@@ -9510,7 +9500,6 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "keggorthology": [],
   "kissDE": [
     "DESeq2",
     "DSS",
@@ -9556,7 +9545,6 @@
     "rhdf5filters",
     "Rhdf5lib"
   ],
-  "limpca": [],
   "lineagespot": [
     "VariantAnnotation",
     "Rsamtools",
@@ -10198,7 +10186,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "mirIntegrator": [],
   "missMethyl": [
     "methylumi",
     "minfi",
@@ -12143,7 +12130,6 @@
     "ChIPseeker",
     "clusterProfiler",
     "seqArchR",
-    "seqPattern",
     "rtracklayer",
     "Rsamtools",
     "enrichplot",
@@ -12164,7 +12150,6 @@
     "GenomicFeatures",
     "BiocParallel"
   ],
-  "seqPattern": [],
   "seqTools": [
     "zlibbioc"
   ],
@@ -12693,7 +12678,6 @@
     "BiocBaseUtils"
   ],
   "survcomp": [],
-  "survtype": [],
   "sva": [
     "genefilter",
     "BiocParallel",

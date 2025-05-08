@@ -526,3 +526,12 @@ ssPATHS
 TREG
 triplex
 TTMap
+awst
+dinoR
+divergence
+keggorthology
+limpca
+mirIntegrator
+seqPattern
+SubCellBarCode
+survtype
