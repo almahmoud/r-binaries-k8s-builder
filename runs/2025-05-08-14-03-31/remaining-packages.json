@@ -24,7 +24,6 @@
     "vsn",
     "preprocessCore"
   ],
-  "AGDEX": [],
   "AHMassBank": [
     "AnnotationHubData",
     "AnnotationHub",
@@ -455,7 +454,6 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "BicARE": [],
   "BindingSiteFinder": [
     "rtracklayer",
     "GenomicFeatures",
@@ -683,9 +681,7 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "CCPROMISE": [
-    "PROMISE"
-  ],
+  "CCPROMISE": [],
   "CDI": [
     "BiocParallel"
   ],
@@ -2988,7 +2984,6 @@
     "ggtree",
     "treeio"
   ],
-  "MLInterfaces": [],
   "MLP": [],
   "MLSeq": [
     "DESeq2",
@@ -3836,7 +3831,6 @@
     "BiocFileCache",
     "BiocParallel"
   ],
-  "PROMISE": [],
   "PRONE": [
     "NormalyzerDE",
     "preprocessCore",
@@ -4890,7 +4884,6 @@
     "GenomicAlignments"
   ],
   "SigCheck": [
-    "MLInterfaces",
     "BiocParallel"
   ],
   "SigsPack": [
@@ -5279,7 +5272,6 @@
     "aroma.light",
     "DNAcopy"
   ],
-  "TMSig": [],
   "TMixClust": [
     "BiocParallel"
   ],
@@ -5326,7 +5318,6 @@
   ],
   "TargetSearch": [],
   "TaxSEA": [],
-  "TissueEnrich": [],
   "TitanCNA": [
     "VariantAnnotation",
     "Rsamtools",
@@ -5595,10 +5586,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "a4": [
-    "a4Base"
-  ],
-  "a4Base": [],
+  "a4": [],
   "abseqR": [
     "BiocParallel",
     "BiocStyle"
@@ -5996,7 +5984,6 @@
     "affy",
     "impute",
     "mzID",
-    "MLInterfaces",
     "biomaRt",
     "preprocessCore",
     "BiocFileCache",
@@ -9125,7 +9112,6 @@
   ],
   "miRNApath": [],
   "miRSM": [
-    "BicARE",
     "clusterProfiler",
     "ReactomePA",
     "DOSE",
@@ -9784,7 +9770,6 @@
   ],
   "pRoloc": [
     "MSnbase",
-    "MLInterfaces",
     "BiocParallel",
     "biomaRt",
     "BiocFileCache",
@@ -9814,7 +9799,6 @@
     "affy",
     "impute",
     "mzID",
-    "MLInterfaces",
     "biomaRt",
     "preprocessCore",
     "BiocFileCache",
@@ -11269,7 +11253,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "slalom": [],
   "smoothclust": [
     "SpatialExperiment",
     "BiocFileCache"
@@ -11392,7 +11375,6 @@
     "BiocParallel",
     "scuttle"
   ],
-  "splineTimeR": [],
   "splots": [],
   "spoon": [
     "SpatialExperiment",

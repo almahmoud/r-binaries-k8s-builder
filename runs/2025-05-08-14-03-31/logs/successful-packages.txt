@@ -717,3 +717,12 @@ gatom
 GSEABase
 slingshot
 tigre
+a4Base
+AGDEX
+BicARE
+MLInterfaces
+PROMISE
+slalom
+splineTimeR
+TissueEnrich
+TMSig
