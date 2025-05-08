@@ -357,7 +357,6 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "BUScorrect": [],
   "BUSpaRse": [
     "biomaRt",
     "BSgenome",
@@ -764,7 +763,6 @@
   "CNVRanger": [
     "RaggedExperiment",
     "BiocParallel",
-    "GDSArray",
     "BiocBaseUtils"
   ],
   "CNVfilteR": [
@@ -971,7 +969,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "CellScore": [],
   "CellTrails": [],
   "CelliD": [
     "scater",
@@ -2057,7 +2054,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "FeatSeekR": [],
   "FilterFFPE": [
     "Rsamtools",
     "BiocParallel"
@@ -2115,7 +2111,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "GBScleanR": [],
   "GDCRNATools": [
     "DESeq2",
     "clusterProfiler",
@@ -2129,7 +2124,6 @@
     "ggtree",
     "treeio"
   ],
-  "GDSArray": [],
   "GENESIS": [
     "BiocParallel",
     "GWASTools",
@@ -2653,7 +2647,6 @@
     "BiocParallel"
   ],
   "IFAA": [],
-  "ILoReg": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS",
@@ -3299,7 +3292,6 @@
   "MatrixQCvis": [
     "ExperimentHub",
     "impute",
-    "proDA",
     "sva",
     "vsn",
     "AnnotationHub",
@@ -4510,7 +4502,6 @@
     "RTNduals",
     "RedeR"
   ],
-  "RUCova": [],
   "RUVSeq": [
     "EDASeq",
     "ShortRead",
@@ -5651,9 +5642,7 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "VariantExperiment": [
-    "GDSArray"
-  ],
+  "VariantExperiment": [],
   "VariantFiltering": [
     "VariantAnnotation",
     "BiocParallel",
@@ -6663,7 +6652,6 @@
     "Rsamtools",
     "BiocParallel"
   ],
-  "cellity": [],
   "cellxgenedp": [],
   "censcyt": [
     "diffcyt",
@@ -8423,7 +8411,6 @@
     "Rhdf5lib",
     "rhdf5filters"
   ],
-  "getDEE2": [],
   "geva": [],
   "geyser": [
     "BiocStyle"
@@ -8459,7 +8446,6 @@
   "ggkegg": [
     "BiocFileCache"
   ],
-  "ggmanh": [],
   "ggmsa": [
     "ggtree",
     "treeio"
@@ -10463,7 +10449,6 @@
     "BiocFileCache",
     "BiocParallel"
   ],
-  "proDA": [],
   "profileplyr": [
     "soGGi",
     "ChIPseeker",

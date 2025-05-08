@@ -1,0 +1,740 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''ILoReg'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'ILoReg'
+also installing the dependencies ‘proxy’, ‘rootSolve’, ‘e1071’, ‘lmom’, ‘iterators’, ‘RcppParallel’, ‘viridis’, ‘mvtnorm’, ‘expm’, ‘Exact’, ‘gld’, ‘rngtools’, ‘bookdown’, ‘foreach’, ‘aricode’, ‘LiblineaR’, ‘SparseM’, ‘umap’, ‘fastcluster’, ‘parallelDist’, ‘dendextend’, ‘DescTools’, ‘pheatmap’, ‘doRNG’, ‘doSNOW’, ‘BiocStyle’
+
+trying URL 'https://cloud.r-project.org/src/contrib/proxy_0.4-27.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/rootSolve_1.8.2.4.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/e1071_1.7-16.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/lmom_3.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/iterators_1.0.14.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/RcppParallel_5.1.10.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/viridis_0.6.5.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/mvtnorm_1.3-3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/expm_1.0-0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/Exact_3.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/gld_2.6.7.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/rngtools_1.5.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/foreach_1.5.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/aricode_1.0.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/LiblineaR_2.10-24.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/SparseM_1.84-2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/umap_0.2.10.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/fastcluster_1.3.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/parallelDist_0.2.6.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/dendextend_1.19.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/DescTools_0.99.60.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/pheatmap_1.0.12.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/doRNG_1.8.6.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/doSNOW_1.0.20.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocStyle_2.36.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/ILoReg_1.18.0.tar.gz'
+* installing *source* package ‘proxy’ ...
+** this is package ‘proxy’ version ‘0.4-27’
+** package ‘proxy’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c apply.c -o apply.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c arrayIndex.c -o arrayIndex.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c distance.c -o distance.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dll.c -o dll.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c util.c -o util.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o proxy.so apply.o arrayIndex.o distance.o dll.o util.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-proxy/00new/proxy/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘proxy’ as ‘proxy_0.4-27_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (proxy)
+* installing *source* package ‘rootSolve’ ...
+** this is package ‘rootSolve’ version ‘1.8.2.4’
+** package ‘rootSolve’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c R_init_rootSolve.c -o R_init_rootSolve.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c call_runsteady.c -o call_runsteady.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c call_steady.c -o call_steady.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c call_stsparse.c -o call_stsparse.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c dlinpk.f -o dlinpk.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c dsparsk.f -o dsparsk.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c lsodes.f -o lsodes.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c sparse.f -o sparse.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c sparsecoeff.f -o sparsecoeff.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c sparsekit.f -o sparsekit.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c steady.f -o steady.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c steady_utils.c -o steady_utils.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c testMap.f -o testMap.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o rootSolve.so R_init_rootSolve.o call_runsteady.o call_steady.o call_stsparse.o dlinpk.o dsparsk.o lsodes.o sparse.o sparsecoeff.o sparsekit.o steady.o steady_utils.o testMap.o -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-rootSolve/00new/rootSolve/libs
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rootSolve’ as ‘rootSolve_1.8.2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rootSolve)
+* installing *source* package ‘lmom’ ...
+** this is package ‘lmom’ version ‘3.2’
+** package ‘lmom’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c d1mach.f -o d1mach.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c dqagie.f -o dqagie.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c dqagse.f -o dqagse.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c dqelg.f -o dqelg.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c dqk15i.f -o dqk15i.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c dqk21.f -o dqk21.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c dqpsrt.f -o dqpsrt.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c lmomc.c -o lmomc.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c lmoments.f -o lmoments.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c samlm.f -o samlm.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o lmom.so d1mach.o dqagie.o dqagse.o dqelg.o dqk15i.o dqk21.o dqpsrt.o init.o lmomc.o lmoments.o samlm.o -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-lmom/00new/lmom/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘lmom’ as ‘lmom_3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lmom)
+* installing *source* package ‘iterators’ ...
+** this is package ‘iterators’ version ‘1.0.14’
+** package ‘iterators’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘iterators’ as ‘iterators_1.0.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iterators)
+* installing *source* package ‘RcppParallel’ ...
+** this is package ‘RcppParallel’ version ‘5.1.10’
+** package ‘RcppParallel’ successfully unpacked and MD5 sums checked
+** using staged installation
+** preparing to configure package 'RcppParallel' ...
+*** configured file: 'R/tbb-autodetected.R.in' => 'R/tbb-autodetected.R'
+*** configured file: 'src/install.libs.R.in' => 'src/install.libs.R'
+*** configured file: 'src/Makevars.in' => 'src/Makevars'
+** finished configure for package 'RcppParallel'
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+(tbb) Building TBB using bundled sources ...
+make[1]: Entering directory '/tmp/RtmpFJbhha/R.INSTALL2da1de240fa/RcppParallel/src/tbb/src'
+OS: linux
+arch=intel64
+compiler=gcc
+runtime=cc11.4.0_libc2.35_kernel5.15.0
+tbb_build_prefix=linux_intel64_gcc_cc11.4.0_libc2.35_kernel5.15.0
+work_dir=/tmp/RtmpFJbhha/R.INSTALL2da1de240fa/RcppParallel/src/build/linux_intel64_gcc_cc11.4.0_libc2.35_kernel5.15.0_release
+make[1]: Leaving directory '/tmp/RtmpFJbhha/R.INSTALL2da1de240fa/RcppParallel/src/tbb/src'
+(tbb) TBB compilation finished successfully.
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include     -std=gnu++11 -DRCPP_PARALLEL_USE_TBB=1 -DTBB_SUPPRESS_DEPRECATED_MESSAGES=1 -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c init.cpp -o init.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include     -std=gnu++11 -DRCPP_PARALLEL_USE_TBB=1 -DTBB_SUPPRESS_DEPRECATED_MESSAGES=1 -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c options.cpp -o options.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include     -std=gnu++11 -DRCPP_PARALLEL_USE_TBB=1 -DTBB_SUPPRESS_DEPRECATED_MESSAGES=1 -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c tbb.cpp -o tbb.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o RcppParallel.so init.o options.o tbb.o -L/usr/lib/R/lib -lR
+installing via 'install.libs.R' to /usr/local/lib/R/site-library/00LOCK-RcppParallel/00new/RcppParallel
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RcppParallel’ as ‘RcppParallel_5.1.10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcppParallel)
+* installing *source* package ‘viridis’ ...
+** this is package ‘viridis’ version ‘0.6.5’
+** package ‘viridis’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘viridis’ as ‘viridis_0.6.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (viridis)
+* installing *source* package ‘mvtnorm’ ...
+** this is package ‘mvtnorm’ version ‘1.3-3’
+** package ‘mvtnorm’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG      -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c C_FORTRAN_interface.c -o C_FORTRAN_interface.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c lpmvnorm.c -o lpmvnorm.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ltMatrices.c -o ltMatrices.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c miwa.c -o miwa.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c mvt.f -o mvt.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mvtnorm-init.c -o mvtnorm-init.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c tvpack.f -o tvpack.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o mvtnorm.so C_FORTRAN_interface.o lpmvnorm.o ltMatrices.o miwa.o mvt.o mvtnorm-init.o tvpack.o -llapack -lblas -lgfortran -lm -lquadmath -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-mvtnorm/00new/mvtnorm/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘mvtnorm’ as ‘mvtnorm_1.3-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mvtnorm)
+* installing *source* package ‘expm’ ...
+** this is package ‘expm’ version ‘1.0-0’
+** package ‘expm’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c R_dgebal.c -o R_dgebal.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c expm-eigen.c -o expm-eigen.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c expm.c -o expm.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c logm-eigen.c -o logm-eigen.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c matexp.f -o matexp.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c matexp_MH09.c -o matexp_MH09.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c matpow.c -o matpow.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c matrexp.f -o matrexp.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c matrexpO.f -o matrexpO.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c mexp-common.f -o mexp-common.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o expm.so R_dgebal.o expm-eigen.o expm.o init.o logm-eigen.o matexp.o matexp_MH09.o matpow.o matrexp.o matrexpO.o mexp-common.o -llapack -lblas -lgfortran -lm -lquadmath -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-expm/00new/expm/libs
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘expm’ as ‘expm_1.0-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (expm)
+* installing *source* package ‘rngtools’ ...
+** this is package ‘rngtools’ version ‘1.5.2’
+** package ‘rngtools’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rngtools’ as ‘rngtools_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rngtools)
+* installing *source* package ‘bookdown’ ...
+** this is package ‘bookdown’ version ‘0.43’
+** package ‘bookdown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.43_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *source* package ‘aricode’ ...
+** this is package ‘aricode’ version ‘1.0.3’
+** package ‘aricode’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c aricode.cpp -o aricode.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o aricode.so RcppExports.o aricode.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-aricode/00new/aricode/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘aricode’ as ‘aricode_1.0.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (aricode)
+* installing *source* package ‘LiblineaR’ ...
+** this is package ‘LiblineaR’ version ‘2.10-24’
+** package ‘LiblineaR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c linear.cpp -o linear.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c predictLinear.c -o predictLinear.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c trainLinear.c -o trainLinear.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c tron.cpp -o tron.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o LiblineaR.so init.o linear.o predictLinear.o trainLinear.o tron.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-LiblineaR/00new/LiblineaR/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘LiblineaR’ as ‘LiblineaR_2.10-24_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (LiblineaR)
+* installing *source* package ‘SparseM’ ...
+** this is package ‘SparseM’ version ‘1.84-2’
+** package ‘SparseM’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c bckslv.f -o bckslv.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c chol.f -o chol.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c chol2csr.f -o chol2csr.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c cholesky.f -o cholesky.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c csr.f -o csr.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c extract.f -o extract.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c sparskit.f -o sparskit.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c subscr.f -o subscr.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o SparseM.so bckslv.o chol.o chol2csr.o cholesky.o csr.o extract.o init.o sparskit.o subscr.o -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-SparseM/00new/SparseM/libs
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a generic function for ‘diag’ from package ‘base’ in package ‘SparseM’
+Creating a generic function for ‘diag<-’ from package ‘base’ in package ‘SparseM’
+Creating a generic function for ‘norm’ from package ‘base’ in package ‘SparseM’
+Creating a generic function for ‘backsolve’ from package ‘base’ in package ‘SparseM’
+Creating a generic function for ‘forwardsolve’ from package ‘base’ in package ‘SparseM’
+Creating a generic function for ‘model.response’ from package ‘stats’ in package ‘SparseM’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SparseM’ as ‘SparseM_1.84-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SparseM)
+* installing *source* package ‘umap’ ...
+** this is package ‘umap’ version ‘0.2.10.0’
+** package ‘umap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c distances.cpp -o distances.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c optimize.cpp -o optimize.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o umap.so RcppExports.o distances.o optimize.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-umap/00new/umap/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘umap’ as ‘umap_0.2.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (umap)
+* installing *source* package ‘fastcluster’ ...
+** this is package ‘fastcluster’ version ‘1.3.0’
+** package ‘fastcluster’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fastcluster_R.cpp -o fastcluster_R.o
+In file included from fastcluster_R.cpp:24:
+fastcluster.cpp:53:35: note: ‘#pragma message: Use fenv header.’
+   53 | #pragma message("Use fenv header.")
+      |                                   ^
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o fastcluster.so fastcluster_R.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-fastcluster/00new/fastcluster/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘fastcluster’ as ‘fastcluster_1.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fastcluster)
+* installing *source* package ‘pheatmap’ ...
+** this is package ‘pheatmap’ version ‘1.0.12’
+** package ‘pheatmap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pheatmap’ as ‘pheatmap_1.0.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pheatmap)
+* installing *source* package ‘e1071’ ...
+** this is package ‘e1071’ version ‘1.7-16’
+** package ‘e1071’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c Rsvm.c -o Rsvm.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c cmeans.c -o cmeans.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c cshell.c -o cshell.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c floyd.c -o floyd.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c svm.cpp -o svm.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o e1071.so Rsvm.o cmeans.o cshell.o floyd.o init.o svm.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-e1071/00new/e1071/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘e1071’ as ‘e1071_1.7-16_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (e1071)
+* installing *source* package ‘Exact’ ...
+** this is package ‘Exact’ version ‘3.3’
+** package ‘Exact’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Exact’ as ‘Exact_3.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Exact)
+* installing *source* package ‘foreach’ ...
+** this is package ‘foreach’ version ‘1.5.2’
+** package ‘foreach’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘foreach’ as ‘foreach_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (foreach)
+* installing *source* package ‘parallelDist’ ...
+** this is package ‘parallelDist’ version ‘0.2.6’
+** package ‘parallelDist’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppParallel/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c DistanceDTWFactory.cpp -o DistanceDTWFactory.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppParallel/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c DistanceFactory.cpp -o DistanceFactory.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppParallel/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppParallel/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Util.cpp -o Util.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppParallel/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c parallelDist.cpp -o parallelDist.o
+g++ -std=gnu++11 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o parallelDist.so DistanceDTWFactory.o DistanceFactory.o RcppExports.o Util.o parallelDist.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-parallelDist/00new/parallelDist/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘parallelDist’ as ‘parallelDist_0.2.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (parallelDist)
+* installing *source* package ‘dendextend’ ...
+** this is package ‘dendextend’ version ‘1.19.0’
+** package ‘dendextend’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘dendextend’ as ‘dendextend_1.19.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dendextend)
+* installing *source* package ‘BiocStyle’ ...
+** this is package ‘BiocStyle’ version ‘2.36.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+* installing *source* package ‘gld’ ...
+** this is package ‘gld’ version ‘2.6.7’
+** package ‘gld’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fit_fkml.c -o fit_fkml.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gld.fm5.fx.c -o gld.fm5.fx.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gld.fmkl.fx.c -o gld.fmkl.fx.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gld.rs.fx.c -o gld.rs.fx.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gld.vsk.fx.c -o gld.vsk.fx.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gld_init.c -o gld_init.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o gld.so fit_fkml.o gld.fm5.fx.o gld.fmkl.fx.o gld.rs.fx.o gld.vsk.fx.o gld_init.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-gld/00new/gld/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gld’ as ‘gld_2.6.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gld)
+* installing *source* package ‘doRNG’ ...
+** this is package ‘doRNG’ version ‘1.8.6.2’
+** package ‘doRNG’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘doRNG’ as ‘doRNG_1.8.6.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (doRNG)
+* installing *source* package ‘doSNOW’ ...
+** this is package ‘doSNOW’ version ‘1.0.20’
+** package ‘doSNOW’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘doSNOW’ as ‘doSNOW_1.0.20_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (doSNOW)
+* installing *source* package ‘DescTools’ ...
+** this is package ‘DescTools’ version ‘0.99.60’
+** package ‘DescTools’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++17
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ADinf.c -o ADinf.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c AnDarl.c -o AnDarl.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c TukeyBiweight.cpp -o TukeyBiweight.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c aux_fct.cpp -o aux_fct.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c between.c -o between.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c cidxcn.f -o cidxcn.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c conc.c -o conc.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c dates.cpp -o dates.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c exactsum.c -o exactsum.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c extremes.cpp -o extremes.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fdwilcox.c -o fdwilcox.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fpow.c -o fpow.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c gompertz.cpp -o gompertz.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c hlqest.cpp -o hlqest.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c hoeffd.f -o hoeffd.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c jtpdf.f -o jtpdf.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ks.c -o ks.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c moments.c -o moments.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c pan.f -o pan.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pointinpolygon.c -o pointinpolygon.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c roman2int.c -o roman2int.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c wgt_himed.c -o wgt_himed.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o DescTools.so ADinf.o AnDarl.o RcppExports.o TukeyBiweight.o aux_fct.o between.o cidxcn.o conc.o dates.o exactsum.o extremes.o fdwilcox.o fpow.o gompertz.o hlqest.o hoeffd.o init.o jtpdf.o ks.o moments.o pan.o pointinpolygon.o roman2int.o wgt_himed.o -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-DescTools/00new/DescTools/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DescTools’ as ‘DescTools_0.99.60_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DescTools)
+* installing *source* package ‘ILoReg’ ...
+** this is package ‘ILoReg’ version ‘1.18.0’
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘Matrix::det’ by ‘SparseM::det’ when loading ‘ILoReg’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘Matrix::det’ by ‘SparseM::det’ when loading ‘ILoReg’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘Matrix::det’ by ‘SparseM::det’ when loading ‘ILoReg’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ILoReg’ as ‘ILoReg_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ILoReg)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp6dB9px/downloaded_packages’
+Old packages: 'cli', 'DelayedArray', 'diffobj', 'edgeR', 'globals',
+  'parallelly', 'pkgdown', 'RcppArmadillo', 'RSQLite', 'scales', 'sctransform',
+  'Seurat', 'SeuratObject', 'SingleCellExperiment', 'spatstat.univar',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8'
+
+real	4m15.503s
+user	3m29.820s
+sys	1m27.742s

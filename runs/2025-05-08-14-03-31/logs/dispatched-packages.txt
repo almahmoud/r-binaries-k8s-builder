@@ -899,3 +899,4 @@ GDSArray
 SAIGEgds
 SeqVarTools
 ggmanh
+VariantExperiment

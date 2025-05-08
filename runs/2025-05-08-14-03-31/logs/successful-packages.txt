@@ -645,3 +645,14 @@ oligoClasses
 SC3
 structToolbox
 tidySingleCellExperiment
+BUScorrect
+cellity
+CellScore
+FeatSeekR
+GBScleanR
+GDSArray
+getDEE2
+ggmanh
+ILoReg
+proDA
+RUCova

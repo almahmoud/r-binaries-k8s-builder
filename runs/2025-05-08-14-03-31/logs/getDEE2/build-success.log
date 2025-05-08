@@ -1,0 +1,57 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''getDEE2'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'getDEE2'
+also installing the dependency ‘htm2txt’
+
+trying URL 'https://cloud.r-project.org/src/contrib/htm2txt_2.2.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/getDEE2_1.18.0.tar.gz'
+* installing *source* package ‘htm2txt’ ...
+** this is package ‘htm2txt’ version ‘2.2.2’
+** package ‘htm2txt’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘htm2txt’ as ‘htm2txt_2.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (htm2txt)
+* installing *source* package ‘getDEE2’ ...
+** this is package ‘getDEE2’ version ‘1.18.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘getDEE2’ as ‘getDEE2_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (getDEE2)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp8HleBo/downloaded_packages’
+Old packages: 'cli', 'DelayedArray', 'diffobj', 'edgeR', 'globals',
+  'parallelly', 'pkgdown', 'RcppArmadillo', 'RSQLite', 'scales', 'sctransform',
+  'Seurat', 'SeuratObject', 'SingleCellExperiment', 'spatstat.univar',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8'
+
+real	0m23.996s
+user	0m19.304s
+sys	0m6.069s
