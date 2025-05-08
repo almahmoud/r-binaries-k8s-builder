@@ -478,3 +478,15 @@ GenomicDataCommons
 heatmaps
 igvShiny
 packFinder
+AnnotationDbi
+baySeq
+DNAshapeR
+gtrellis
+megadepth
+openPrimeR
+pepStat
+SummarizedExperiment
+target
+TFARM
+TnT
+transite
