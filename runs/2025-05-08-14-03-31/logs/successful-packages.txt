@@ -705,3 +705,11 @@ covRNA
 gage
 GeneMeta
 GOSemSim
+biocGraph
+globaltest
+GOfuncR
+iSEEpathways
+iSEEu
+Rcpi
+SBGNview
+XDE

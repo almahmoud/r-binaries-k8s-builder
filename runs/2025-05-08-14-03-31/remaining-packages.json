@@ -456,7 +456,6 @@
   "BiRewire": [],
   "BiSeq": [
     "rtracklayer",
-    "globaltest",
     "Rsamtools",
     "GenomicAlignments",
     "BiocParallel"
@@ -978,7 +977,6 @@
   "ChAMP": [
     "minfi",
     "DMRcate",
-    "globaltest",
     "sva",
     "DNAcopy",
     "preprocessCore",
@@ -1736,7 +1734,6 @@
   ],
   "EGSEA": [
     "GSVA",
-    "globaltest",
     "GSEABase",
     "BiocParallel",
     "SpatialExperiment",
@@ -2129,7 +2126,6 @@
     "biomaRt",
     "BiocFileCache"
   ],
-  "GOfuncR": [],
   "GOpro": [
     "MultiAssayExperiment",
     "BiocBaseUtils"
@@ -2416,7 +2412,6 @@
     "BiocParallel"
   ],
   "GlobalAncova": [
-    "globaltest",
     "GSEABase"
   ],
   "GmicR": [
@@ -4467,7 +4462,6 @@
     "AUCell",
     "GSEABase"
   ],
-  "Rcpi": [],
   "Rcwl": [
     "BiocParallel",
     "basilisk",
@@ -4729,7 +4723,6 @@
     "BiocBaseUtils",
     "BiocParallel"
   ],
-  "SBGNview": [],
   "SBMLR": [],
   "SCAN.UPC": [
     "oligo",
@@ -4801,7 +4794,6 @@
     "BiocParallel"
   ],
   "SIM": [
-    "globaltest",
     "quantsmooth"
   ],
   "SIMAT": [
@@ -5584,7 +5576,6 @@
     "Rsamtools",
     "BiocParallel"
   ],
-  "XDE": [],
   "XNAString": [
     "BSgenome",
     "rtracklayer",
@@ -6160,7 +6151,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "biocGraph": [],
   "biocmake": [
     "dir.expiry"
   ],
@@ -8300,7 +8290,6 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "globaltest": [],
   "gmapR": [
     "Rsamtools",
     "rtracklayer",
@@ -8527,7 +8516,6 @@
     "BiocParallel"
   ],
   "iSEEfier": [
-    "iSEEu",
     "BiocBaseUtils"
   ],
   "iSEEhub": [
@@ -8539,7 +8527,6 @@
   "iSEEindex": [
     "BiocFileCache"
   ],
-  "iSEEpathways": [],
   "iSEEtree": [
     "ggtree",
     "miaViz",
@@ -8555,7 +8542,6 @@
     "BiocBaseUtils",
     "BiocSingular"
   ],
-  "iSEEu": [],
   "iasva": [
     "BiocParallel"
   ],
