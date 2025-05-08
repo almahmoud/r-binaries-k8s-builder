@@ -713,3 +713,7 @@ iSEEu
 Rcpi
 SBGNview
 XDE
+gatom
+GSEABase
+slingshot
+tigre

@@ -1,0 +1,1214 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''slingshot'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'slingshot'
+also installing the dependencies ‘iterators’, ‘annotate’, ‘pixmap’, ‘gmp’, ‘benchmarkmeData’, ‘registry’, ‘rngtools’, ‘gridBase’, ‘foreach’, ‘doParallel’, ‘softImpute’, ‘genefilter’, ‘ade4’, ‘rncl’, ‘RNeXML’, ‘ClusterR’, ‘benchmarkme’, ‘bookdown’, ‘NMF’, ‘ape’, ‘locfdr’, ‘kernlab’, ‘zinbwave’, ‘phylobase’, ‘pracma’, ‘mbkmeans’, ‘sparseMatrixStats’, ‘rex’, ‘princurve’, ‘TrajectoryUtils’, ‘BiocStyle’, ‘clusterExperiment’, ‘DelayedMatrixStats’, ‘mclust’, ‘rgl’, ‘covr’
+
+trying URL 'https://cloud.r-project.org/src/contrib/iterators_1.0.14.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/annotate_1.86.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/pixmap_0.4-13.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/gmp_0.7-5.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/benchmarkmeData_1.0.4.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/registry_0.5-1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/rngtools_1.5.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/gridBase_0.4-7.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/foreach_1.5.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/doParallel_1.0.17.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/softImpute_1.4-2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/genefilter_1.90.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/ade4_1.7-23.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/rncl_0.8.7.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/RNeXML_2.4.11.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/ClusterR_1.3.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/benchmarkme_1.0.8.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/NMF_0.28.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/ape_5.8-1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/locfdr_1.1-8.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/kernlab_0.9-33.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/zinbwave_1.30.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/phylobase_0.8.12.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/pracma_2.4.4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/mbkmeans_1.24.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/sparseMatrixStats_1.20.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/rex_1.2.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/princurve_2.1.6.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/TrajectoryUtils_1.16.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocStyle_2.36.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/clusterExperiment_2.28.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/DelayedMatrixStats_1.30.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/mclust_6.1.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/rgl_1.3.18.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/covr_3.6.4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/slingshot_2.16.0.tar.gz'
+* installing *source* package ‘iterators’ ...
+** this is package ‘iterators’ version ‘1.0.14’
+** package ‘iterators’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘iterators’ as ‘iterators_1.0.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iterators)
+* installing *source* package ‘annotate’ ...
+** this is package ‘annotate’ version ‘1.86.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘annotate’ as ‘annotate_1.86.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (annotate)
+* installing *source* package ‘pixmap’ ...
+** this is package ‘pixmap’ version ‘0.4-13’
+** package ‘pixmap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pixmap’ as ‘pixmap_0.4-13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pixmap)
+* installing *source* package ‘gmp’ ...
+** this is package ‘gmp’ version ‘0.7-5’
+** package ‘gmp’ successfully unpacked and MD5 sums checked
+** using staged installation
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking how to run the C preprocessor... gcc -E
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ -std=gnu++17 accepts -g... yes
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking gmp.h usability... yes
+checking gmp.h presence... yes
+checking for gmp.h... yes
+checking for __gmpz_ui_sub in -lgmp... yes
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c apply.cc -o apply.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c biginteger.cc -o biginteger.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c bigintegerR.cc -o bigintegerR.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c bigmod.cc -o bigmod.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c bigrational.cc -o bigrational.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c bigrationalR.cc -o bigrationalR.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c bigvec.cc -o bigvec.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c bigvec_q.cc -o bigvec_q.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c extract_matrix.cc -o extract_matrix.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c factor.cc -o factor.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c factorize.cc -o factorize.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c init.cc -o init.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c matrix.cc -o matrix.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c matrixq.cc -o matrixq.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c solve.cc -o solve.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o gmp.so apply.o biginteger.o bigintegerR.o bigmod.o bigrational.o bigrationalR.o bigvec.o bigvec_q.o extract_matrix.o factor.o factorize.o init.o matrix.o matrixq.o solve.o -lgmp -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-gmp/00new/gmp/libs
+** R
+** data
+** byte-compile and prepare package for lazy loading
+Creating a generic function for ‘which.max’ from package ‘base’ in package ‘gmp’
+Creating a generic function for ‘which.min’ from package ‘base’ in package ‘gmp’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gmp’ as ‘gmp_0.7-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gmp)
+* installing *source* package ‘benchmarkmeData’ ...
+** this is package ‘benchmarkmeData’ version ‘1.0.4’
+** package ‘benchmarkmeData’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘benchmarkmeData’ as ‘benchmarkmeData_1.0.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (benchmarkmeData)
+* installing *source* package ‘registry’ ...
+** this is package ‘registry’ version ‘0.5-1’
+** package ‘registry’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘registry’ as ‘registry_0.5-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (registry)
+* installing *source* package ‘rngtools’ ...
+** this is package ‘rngtools’ version ‘1.5.2’
+** package ‘rngtools’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rngtools’ as ‘rngtools_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rngtools)
+* installing *source* package ‘gridBase’ ...
+** this is package ‘gridBase’ version ‘0.4-7’
+** package ‘gridBase’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gridBase’ as ‘gridBase_0.4-7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gridBase)
+* installing *source* package ‘softImpute’ ...
+** this is package ‘softImpute’ version ‘1.4-2’
+** package ‘softImpute’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c plusregC.f -o plusregC.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c softImpute_init.c -o softImpute_init.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c suv.f -o suv.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c suvC.f -o suvC.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o softImpute.so plusregC.o softImpute_init.o suv.o suvC.o -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-softImpute/00new/softImpute/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘softImpute’ as ‘softImpute_1.4-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (softImpute)
+* installing *source* package ‘rncl’ ...
+** this is package ‘rncl’ version ‘0.8.7’
+** package ‘rncl’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c GetNCL.cpp -o GetNCL.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c collapse_singles.cpp -o collapse_singles.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxsassumptionsblock.cpp -o nxsassumptionsblock.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxsblock.cpp -o nxsblock.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxscharactersblock.cpp -o nxscharactersblock.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxscxxdiscretematrix.cpp -o nxscxxdiscretematrix.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxsdatablock.cpp -o nxsdatablock.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxsdistancedatum.cpp -o nxsdistancedatum.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxsdistancesblock.cpp -o nxsdistancesblock.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxsemptyblock.cpp -o nxsemptyblock.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxsexception.cpp -o nxsexception.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxsmultiformat.cpp -o nxsmultiformat.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxspublicblocks.cpp -o nxspublicblocks.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxsreader.cpp -o nxsreader.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxssetreader.cpp -o nxssetreader.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxsstring.cpp -o nxsstring.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxstaxaassociationblock.cpp -o nxstaxaassociationblock.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxstaxablock.cpp -o nxstaxablock.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxstoken.cpp -o nxstoken.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxstreesblock.cpp -o nxstreesblock.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c nxsunalignedblock.cpp -o nxsunalignedblock.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/progress/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c rncl_init.c -o rncl_init.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o rncl.so GetNCL.o RcppExports.o collapse_singles.o nxsassumptionsblock.o nxsblock.o nxscharactersblock.o nxscxxdiscretematrix.o nxsdatablock.o nxsdistancedatum.o nxsdistancesblock.o nxsemptyblock.o nxsexception.o nxsmultiformat.o nxspublicblocks.o nxsreader.o nxssetreader.o nxsstring.o nxstaxaassociationblock.o nxstaxablock.o nxstoken.o nxstreesblock.o nxsunalignedblock.o rncl_init.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-rncl/00new/rncl/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rncl’ as ‘rncl_0.8.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rncl)
+* installing *source* package ‘bookdown’ ...
+** this is package ‘bookdown’ version ‘0.43’
+** package ‘bookdown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.43_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *source* package ‘ape’ ...
+** this is package ‘ape’ version ‘5.8-1’
+** package ‘ape’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c BIONJ.c -o BIONJ.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c NNI.c -o NNI.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c SPR.c -o SPR.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c additive.c -o additive.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ape.c -o ape.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bNNI.c -o bNNI.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bionjs.c -o bionjs.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bipartition.c -o bipartition.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bitsplits.c -o bitsplits.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c delta_plot.c -o delta_plot.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dist_dna.c -o dist_dna.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dist_nodes.c -o dist_nodes.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ewLasso.c -o ewLasso.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c heap.c -o heap.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mat_expo.c -o mat_expo.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c me.c -o me.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c me_balanced.c -o me_balanced.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c me_ols.c -o me_ols.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mvr.c -o mvr.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mvrs.c -o mvrs.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c nj.c -o nj.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c njs.c -o njs.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pic.c -o pic.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c plot_phylo.c -o plot_phylo.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c prop_part.cpp -o prop_part.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c rTrait.c -o rTrait.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c read_dna.c -o read_dna.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c reorder_Rcpp.cpp -o reorder_Rcpp.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c reorder_phylo.c -o reorder_phylo.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c treePop.c -o treePop.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tree_build.c -o tree_build.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tree_phylo.c -o tree_phylo.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c triangMtd.c -o triangMtd.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c triangMtds.c -o triangMtds.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ultrametric.c -o ultrametric.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o ape.so BIONJ.o NNI.o RcppExports.o SPR.o additive.o ape.o bNNI.o bionjs.o bipartition.o bitsplits.o delta_plot.o dist_dna.o dist_nodes.o ewLasso.o heap.o mat_expo.o me.o me_balanced.o me_ols.o mvr.o mvrs.o nj.o njs.o pic.o plot_phylo.o prop_part.o rTrait.o read_dna.o reorder_Rcpp.o reorder_phylo.o treePop.o tree_build.o tree_phylo.o triangMtd.o triangMtds.o ultrametric.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-ape/00new/ape/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ape’ as ‘ape_5.8-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ape)
+* installing *source* package ‘locfdr’ ...
+** this is package ‘locfdr’ version ‘1.1-8’
+** package ‘locfdr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘locfdr’ as ‘locfdr_1.1-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (locfdr)
+* installing *source* package ‘kernlab’ ...
+** this is package ‘kernlab’ version ‘0.9-33’
+** package ‘kernlab’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c brweight.cpp -o brweight.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c ctable.cpp -o ctable.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c cweight.cpp -o cweight.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dbreakpt.c -o dbreakpt.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dcauchy.c -o dcauchy.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dgpnrm.c -o dgpnrm.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dgpstep.c -o dgpstep.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dprecond.c -o dprecond.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dprsrch.c -o dprsrch.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dspcg.c -o dspcg.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dtron.c -o dtron.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dtrpcg.c -o dtrpcg.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dtrqsol.c -o dtrqsol.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c esa.cpp -o esa.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c expdecayweight.cpp -o expdecayweight.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c inductionsort.cpp -o inductionsort.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c kspectrumweight.cpp -o kspectrumweight.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c lcp.cpp -o lcp.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c misc.c -o misc.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c msufsort.cpp -o msufsort.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c solvebqp.c -o solvebqp.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c stringk.c -o stringk.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c stringkernel.cpp -o stringkernel.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c svm.cpp -o svm.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c wkasailcp.cpp -o wkasailcp.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c wmsufsort.cpp -o wmsufsort.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o kernlab.so brweight.o ctable.o cweight.o dbreakpt.o dcauchy.o dgpnrm.o dgpstep.o dprecond.o dprsrch.o dspcg.o dtron.o dtrpcg.o dtrqsol.o esa.o expdecayweight.o inductionsort.o init.o kspectrumweight.o lcp.o misc.o msufsort.o solvebqp.o stringk.o stringkernel.o svm.o wkasailcp.o wmsufsort.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-kernlab/00new/kernlab/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘pattern’ in package ‘kernlab’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘kernlab’ as ‘kernlab_0.9-33_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kernlab)
+* installing *source* package ‘pracma’ ...
+** this is package ‘pracma’ version ‘2.4.4’
+** package ‘pracma’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** demo
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pracma’ as ‘pracma_2.4.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pracma)
+* installing *source* package ‘sparseMatrixStats’ ...
+** this is package ‘sparseMatrixStats’ version ‘1.20.0’
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c SparseMatrixView.cpp -o SparseMatrixView.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c methods.cpp -o methods.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c row_methods.cpp -o row_methods.o
+g++ -std=gnu++11 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o sparseMatrixStats.so RcppExports.o SparseMatrixView.o methods.o row_methods.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-sparseMatrixStats/00new/sparseMatrixStats/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘sparseMatrixStats’ as ‘sparseMatrixStats_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sparseMatrixStats)
+* installing *source* package ‘rex’ ...
+** this is package ‘rex’ version ‘1.2.1’
+** package ‘rex’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rex’ as ‘rex_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rex)
+* installing *source* package ‘princurve’ ...
+** this is package ‘princurve’ version ‘2.1.6’
+** package ‘princurve’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c project_to_curve.cpp -o project_to_curve.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o princurve.so RcppExports.o project_to_curve.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-princurve/00new/princurve/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘princurve’ as ‘princurve_2.1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (princurve)
+* installing *source* package ‘TrajectoryUtils’ ...
+** this is package ‘TrajectoryUtils’ version ‘1.16.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TrajectoryUtils’ as ‘TrajectoryUtils_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TrajectoryUtils)
+* installing *source* package ‘mclust’ ...
+** this is package ‘mclust’ version ‘6.1.1’
+** package ‘mclust’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c dmvnorm.f -o dmvnorm.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c logsumexp.f -o logsumexp.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c mclust.f -o mclust.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c mclustaddson.f -o mclustaddson.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o mclust.so dmvnorm.o init.o logsumexp.o mclust.o mclustaddson.o -llapack -lblas -lgfortran -lm -lquadmath -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-mclust/00new/mclust/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘mclust’ as ‘mclust_6.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mclust)
+* installing *source* package ‘rgl’ ...
+** this is package ‘rgl’ version ‘1.3.18’
+** package ‘rgl’ successfully unpacked and MD5 sums checked
+** using staged installation
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether the compiler supports GNU C... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to enable C11 features... none needed
+checking how to run the C preprocessor... gcc -E
+checking for gcc... (cached) gcc
+checking whether the compiler supports GNU C... (cached) yes
+checking whether gcc accepts -g... (cached) yes
+checking for gcc option to enable C11 features... (cached) none needed
+checking for libpng-config... yes
+configure: using libpng-config
+configure: using libpng dynamic linkage
+checking for X... libraries , headers 
+checking for XAllocClassHint... yes
+checking for GL/gl.h... yes
+checking for GL/glu.h... yes
+checking for glEnd in -lGL... yes
+checking for glEnd... yes
+checking for gluErrorString in -lGLU... yes
+checking for gluErrorString... yes
+checking for pkg-config... yes
+configure: using Freetype and FTGL
+configure: creating ./config.status
+config.status: creating R/noOpenGL.R
+config.status: creating src/useNULL/Makevars
+config.status: creating src/Makevars
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c ABCLineSet.cpp -o ABCLineSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c BBoxDeco.cpp -o BBoxDeco.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Background.cpp -o Background.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c ClipPlane.cpp -o ClipPlane.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Color.cpp -o Color.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Disposable.cpp -o Disposable.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Light.cpp -o Light.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c LineSet.cpp -o LineSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c LineStripSet.cpp -o LineStripSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Material.cpp -o Material.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c NULLgui.cpp -o NULLgui.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c PlaneSet.cpp -o PlaneSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c PointSet.cpp -o PointSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c PrimitiveSet.cpp -o PrimitiveSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c R.cpp -o R.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RenderContext.cpp -o RenderContext.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Shape.cpp -o Shape.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c SphereMesh.cpp -o SphereMesh.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c SphereSet.cpp -o SphereSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c SpriteSet.cpp -o SpriteSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Surface.cpp -o Surface.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c TextSet.cpp -o TextSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Texture.cpp -o Texture.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Viewpoint.cpp -o Viewpoint.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c api.cpp -o api.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c assert.cpp -o assert.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c callbacks.cpp -o callbacks.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c device.cpp -o device.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c devicemanager.cpp -o devicemanager.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c earcut.cpp -o earcut.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fps.cpp -o fps.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c ftgl.cpp -o ftgl.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c geom.cpp -o geom.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut     -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gl.c -o gl.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut     -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gl2ps.c -o gl2ps.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c glErrors.cpp -o glErrors.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c glgui.cpp -o glgui.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c gui.cpp -o gui.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c init.cpp -o init.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c par3d.cpp -o par3d.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c pixmap.cpp -o pixmap.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c platform.cpp -o platform.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut     -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pretty.c -o pretty.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c render.cpp -o render.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c rglmath.cpp -o rglmath.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c rglview.cpp -o rglview.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c scene.cpp -o scene.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c select.cpp -o select.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c subscene.cpp -o subscene.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c win32gui.cpp -o win32gui.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c win32lib.cpp -o win32lib.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c x11gui.cpp -o x11gui.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DHAVE_FREETYPE -Iext/ftgl -I/usr/include/freetype2 -I/usr/include/libpng16  -DR_NO_REMAP -Iext -Iext/glad/include -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c x11lib.cpp -o x11lib.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o rgl.so ABCLineSet.o BBoxDeco.o Background.o ClipPlane.o Color.o Disposable.o Light.o LineSet.o LineStripSet.o Material.o NULLgui.o PlaneSet.o PointSet.o PrimitiveSet.o R.o RenderContext.o Shape.o SphereMesh.o SphereSet.o SpriteSet.o Surface.o TextSet.o Texture.o Viewpoint.o api.o assert.o callbacks.o device.o devicemanager.o earcut.o fps.o ftgl.o geom.o gl.o gl2ps.o glErrors.o glgui.o gui.o init.o par3d.o pixmap.o platform.o pretty.o render.o rglmath.o rglview.o scene.o select.o subscene.o win32gui.o win32lib.o x11gui.o x11lib.o -lGLU -lGL -lpng16 -lX11 -lfreetype -lz -lpng16 -lm -lm -lz -lbrotlidec -lbrotlicommon -L/usr/lib/R/lib -lR
+cp -Rp OpenGL useNULL && \
+mkdir -p useNULL/ext && \
+cp -Rp ext/earcut useNULL/ext/earcut && \
+cp -p *.c *.h *.cpp useNULL/ && \
+cd useNULL && \
+/usr/lib/R/bin/R CMD SHLIB -o useNULL.so *.cpp *.c && \
+cd .. && \
+mkdir -p ../inst/useNULL && \
+mv useNULL/useNULL.so ../inst/useNULL/rgl.so && \
+rm useNULL/*.cpp useNULL/*.c useNULL/*.h useNULL/OpenGL/*
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+make[1]: Entering directory '/tmp/RtmpjPdasI/R.INSTALLcfe61e0c53e/rgl/src/useNULL'
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c ABCLineSet.cpp -o ABCLineSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c api.cpp -o api.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c assert.cpp -o assert.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Background.cpp -o Background.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c BBoxDeco.cpp -o BBoxDeco.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c callbacks.cpp -o callbacks.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c ClipPlane.cpp -o ClipPlane.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Color.cpp -o Color.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c device.cpp -o device.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c devicemanager.cpp -o devicemanager.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Disposable.cpp -o Disposable.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c earcut.cpp -o earcut.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fps.cpp -o fps.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c ftgl.cpp -o ftgl.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c geom.cpp -o geom.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c glErrors.cpp -o glErrors.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c glgui.cpp -o glgui.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c gui.cpp -o gui.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c init.cpp -o init.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Light.cpp -o Light.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c LineSet.cpp -o LineSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c LineStripSet.cpp -o LineStripSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Material.cpp -o Material.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c NULLgui.cpp -o NULLgui.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c par3d.cpp -o par3d.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c pixmap.cpp -o pixmap.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c PlaneSet.cpp -o PlaneSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c platform.cpp -o platform.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c PointSet.cpp -o PointSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c PrimitiveSet.cpp -o PrimitiveSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c R.cpp -o R.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RenderContext.cpp -o RenderContext.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c render.cpp -o render.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c rglmath.cpp -o rglmath.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c rglview.cpp -o rglview.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c scene.cpp -o scene.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c select.cpp -o select.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Shape.cpp -o Shape.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c SphereMesh.cpp -o SphereMesh.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c SphereSet.cpp -o SphereSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c SpriteSet.cpp -o SpriteSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c subscene.cpp -o subscene.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Surface.cpp -o Surface.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c TextSet.cpp -o TextSet.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Texture.cpp -o Texture.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Viewpoint.cpp -o Viewpoint.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c win32gui.cpp -o win32gui.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c win32lib.cpp -o win32lib.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c x11gui.cpp -o x11gui.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut      -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c x11lib.cpp -o x11lib.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut     -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gl2ps.c -o gl2ps.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut     -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gl.c -o gl.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DHAVE_PNG_H -I/usr/include/libpng16 -DRGL_NO_OPENGL -DR_NO_REMAP -Iext/earcut     -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pretty.c -o pretty.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o useNULL.so ABCLineSet.o api.o assert.o Background.o BBoxDeco.o callbacks.o ClipPlane.o Color.o device.o devicemanager.o Disposable.o earcut.o fps.o ftgl.o geom.o glErrors.o glgui.o gui.o init.o Light.o LineSet.o LineStripSet.o Material.o NULLgui.o par3d.o pixmap.o PlaneSet.o platform.o PointSet.o PrimitiveSet.o R.o RenderContext.o render.o rglmath.o rglview.o scene.o select.o Shape.o SphereMesh.o SphereSet.o SpriteSet.o subscene.o Surface.o TextSet.o Texture.o Viewpoint.o win32gui.o win32lib.o x11gui.o x11lib.o gl2ps.o gl.o pretty.o -lpng16 -L/usr/lib/R/lib -lR
+make[1]: Leaving directory '/tmp/RtmpjPdasI/R.INSTALLcfe61e0c53e/rgl/src/useNULL'
+installing to /usr/local/lib/R/site-library/00LOCK-rgl/00new/rgl/libs
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: 'rgl.init' failed, will use the null device.
+See '?rgl.useNULL' for ways to avoid this warning.
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning: 'rgl.init' failed, will use the null device.
+See '?rgl.useNULL' for ways to avoid this warning.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rgl’ as ‘rgl_1.3.18_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rgl)
+* installing *source* package ‘foreach’ ...
+** this is package ‘foreach’ version ‘1.5.2’
+** package ‘foreach’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘foreach’ as ‘foreach_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (foreach)
+* installing *source* package ‘genefilter’ ...
+** this is package ‘genefilter’ version ‘1.90.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c half_range_mode.cpp -o half_range_mode.o
+half_range_mode.cpp: In function ‘double half_range_mode(double*, double*, double, int)’:
+half_range_mode.cpp:100:60: warning: format ‘%i’ expects argument of type ‘int’, but argument 5 has type ‘std::vector<int>::size_type’ {aka ‘long unsigned int’} [-Wformat=]
+  100 |     if (diag) Rprintf( "N = %i, N'' = %i, w = %.4f, |J| = %i\n", N, N_double_prime, w, J.size() );
+      |                                                           ~^                           ~~~~~~~~
+      |                                                            |                                 |
+      |                                                            int                               std::vector<int>::size_type {aka long unsigned int}
+      |                                                           %li
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c nd.c -o nd.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pAUC.c -o pAUC.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c rowPAUCs.c -o rowPAUCs.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c rowttests.c -o rowttests.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c ttest.f -o ttest.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o genefilter.so half_range_mode.o init.o nd.o pAUC.o rowPAUCs.o rowttests.o ttest.o -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-genefilter/00new/genefilter/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘genefilter’ as ‘genefilter_1.90.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (genefilter)
+* installing *source* package ‘ade4’ ...
+** this is package ‘ade4’ version ‘1.7-23’
+** package ‘ade4’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c ade4libCpp.cpp -o ade4libCpp.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c adesub.c -o adesub.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c divsub.c -o divsub.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fourthcorner.c -o fourthcorner.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c phylog.c -o phylog.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c testamova.c -o testamova.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c testdim.c -o testdim.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c testrlq.c -o testrlq.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tests.c -o tests.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c testsCpp.cpp -o testsCpp.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o ade4.so RcppExports.o ade4libCpp.o adesub.o divsub.o fourthcorner.o init.o phylog.o testamova.o testdim.o testrlq.o tests.o testsCpp.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-ade4/00new/ade4/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ade4’ as ‘ade4_1.7-23_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ade4)
+* installing *source* package ‘RNeXML’ ...
+** this is package ‘RNeXML’ version ‘2.4.11’
+** package ‘RNeXML’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RNeXML’ as ‘RNeXML_2.4.11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RNeXML)
+* installing *source* package ‘ClusterR’ ...
+** this is package ‘ClusterR’ version ‘1.3.3’
+** package ‘ClusterR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include/ -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'    -fopenmp -DARMA_64BIT_WORD -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include/ -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'    -fopenmp -DARMA_64BIT_WORD -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c export_inst_folder_headers.cpp -o export_inst_folder_headers.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include/ -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o ClusterR.so RcppExports.o export_inst_folder_headers.o init.o -llapack -lblas -lgfortran -lm -lquadmath -fopenmp -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-ClusterR/00new/ClusterR/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ClusterR’ as ‘ClusterR_1.3.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ClusterR)
+* installing *source* package ‘BiocStyle’ ...
+** this is package ‘BiocStyle’ version ‘2.36.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+* installing *source* package ‘DelayedMatrixStats’ ...
+** this is package ‘DelayedMatrixStats’ version ‘1.30.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DelayedMatrixStats’ as ‘DelayedMatrixStats_1.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DelayedMatrixStats)
+* installing *source* package ‘covr’ ...
+** this is package ‘covr’ version ‘3.6.4’
+** package ‘covr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c reassign.c -o reassign.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o covr.so reassign.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-covr/00new/covr/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘covr’ as ‘covr_3.6.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (covr)
+* installing *source* package ‘slingshot’ ...
+** this is package ‘slingshot’ version ‘2.16.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+in method for ‘slingshot’ with signature ‘data="ClusterExperiment"’: no definition for class “ClusterExperiment”
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘slingshot’ as ‘slingshot_2.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (slingshot)
+* installing *source* package ‘doParallel’ ...
+** this is package ‘doParallel’ version ‘1.0.17’
+** package ‘doParallel’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘doParallel’ as ‘doParallel_1.0.17_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (doParallel)
+* installing *source* package ‘zinbwave’ ...
+** this is package ‘zinbwave’ version ‘1.30.0’
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘zinbwave’ as ‘zinbwave_1.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zinbwave)
+* installing *source* package ‘phylobase’ ...
+** this is package ‘phylobase’ version ‘0.8.12’
+** package ‘phylobase’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ancestors.c -o ancestors.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c checkPhylo4.cpp -o checkPhylo4.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c descendants.c -o descendants.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c phyloXX.c -o phyloXX.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c phylobase_init.c -o phylobase_init.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c reorderBinary.c -o reorderBinary.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I. -DHAVE_INTTYPES_H -DASSERTS_TO_EXCEPTIONS -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c reorderRobust.c -o reorderRobust.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o phylobase.so RcppExports.o ancestors.o checkPhylo4.o descendants.o phyloXX.o phylobase_init.o reorderBinary.o reorderRobust.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-phylobase/00new/phylobase/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+Creating a new generic function for ‘edges’ in package ‘phylobase’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘phylobase’ as ‘phylobase_0.8.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (phylobase)
+* installing *source* package ‘benchmarkme’ ...
+** this is package ‘benchmarkme’ version ‘1.0.8’
+** package ‘benchmarkme’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘benchmarkme’ as ‘benchmarkme_1.0.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (benchmarkme)
+* installing *source* package ‘NMF’ ...
+** this is package ‘NMF’ version ‘0.28’
+** package ‘NMF’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c distance.cpp -o distance.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c divergence.cpp -o divergence.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c euclidean.cpp -o euclidean.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c registerDynamicSymbol.c -o registerDynamicSymbol.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c utils.cpp -o utils.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o NMF.so distance.o divergence.o euclidean.o registerDynamicSymbol.o utils.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-NMF/00new/NMF/libs
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+Setting package specific options: package:NMF:logger (1 default option(s))
+Setting package specific options: package:NMF (10 default option(s))
+Creating a generic function for ‘plot’ from ‘graphics’ in package ‘NMF’
+    (from the saved implicit definition)
+Creating meta registry in package 'NMF' ... OK
+Creating registry 'extra_handler' in package 'NMF' ... OK
+Creating registry 'extra_action' in package 'NMF' ... OK
+Registering extra handler 'install.packages' [function] ... OK
+Creating registry 'algorithm' in package 'NMF' ... OK
+Registering NMF algorithm '.R#brunet' [NMFStrategyIterative] ... OK
+Registering NMF algorithm 'brunet' [NMFStrategyIterative] based on template '.R#brunet' ... OK
+Registering NMF algorithm 'KL' [NMFStrategyIterative] ... OK
+Registering NMF algorithm '.R#lee' [NMFStrategyIterative] ... OK
+Registering NMF algorithm 'lee' [NMFStrategyIterative] based on template '.R#lee' ... OK
+Registering NMF algorithm 'Frobenius' [NMFStrategyIterative] ... OK
+Registering NMF algorithm '.R#offset' [NMFStrategyIterative] ... OK
+Registering NMF algorithm 'offset' [NMFStrategyIterative] based on template '.R#offset' ... OK
+Registering NMF algorithm '.R#nsNMF' [NMFStrategyIterative] ... OK
+Registering NMF algorithm 'nsNMF' [NMFStrategyIterative] based on template '.R#nsNMF' ... OK
+Registering NMF algorithm 'ls-nmf' [NMFStrategyIterative] ... OK
+Registering NMF algorithm 'pe-nmf' [NMFStrategyIterative] ... OK
+Registering NMF algorithm '.siNMF' [NMFStrategyIterative] based on template 'lee' ... OK
+Registering NMF algorithm 'siNMF' [NMFStrategyIterative] based on template 'lee' ... OK
+Registering NMF algorithm 'snmf/r' [NMFStrategyFunction] ... OK
+Registering NMF algorithm 'snmf/l' [NMFStrategyFunction] ... OK
+Registering extra action 'bigmemory' for handler 'install.packages' ... OK
+Registering extra action 'synchronicity' for handler 'install.packages' ... OK
+Creating registry 'seed' in package 'NMF' ... OK
+Registering NMF seeding method 'none' [NMFSeed] ... OK
+Registering NMF seeding method 'random' [NMFSeed] ... OK
+Registering NMF seeding method 'ica' [NMFSeed] ... OK
+Registering NMF seeding method 'nndsvd' [NMFSeed] ... OK
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘NMF’ as ‘NMF_0.28_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NMF)
+* installing *source* package ‘mbkmeans’ ...
+** this is package ‘mbkmeans’ version ‘1.24.0’
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include' -I'/usr/local/lib/R/site-library/Rhdf5lib/include' -I'/usr/local/lib/R/site-library/beachmat/include' -I'/usr/local/lib/R/site-library/ClusterR/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include' -I'/usr/local/lib/R/site-library/Rhdf5lib/include' -I'/usr/local/lib/R/site-library/beachmat/include' -I'/usr/local/lib/R/site-library/ClusterR/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c mini_batch.cpp -o mini_batch.o
+g++ -std=gnu++11 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o mbkmeans.so RcppExports.o mini_batch.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-mbkmeans/00new/mbkmeans/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘mbkmeans’ as ‘mbkmeans_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mbkmeans)
+* installing *source* package ‘clusterExperiment’ ...
+** this is package ‘clusterExperiment’ version ‘2.28.0’
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c search_pairs.cpp -o search_pairs.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c subsampleLoop.cpp -o subsampleLoop.o
+g++ -std=gnu++11 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o clusterExperiment.so RcppExports.o search_pairs.o subsampleLoop.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-clusterExperiment/00new/clusterExperiment/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+Found more than one class "Annotated" in cache; using the first, from namespace 'S4Vectors'
+Also defined by ‘RNeXML’
+Found more than one class "Annotated" in cache; using the first, from namespace 'S4Vectors'
+Also defined by ‘RNeXML’
+Found more than one class "Annotated" in cache; using the first, from namespace 'S4Vectors'
+Also defined by ‘RNeXML’
+Found more than one class "Annotated" in cache; using the first, from namespace 'S4Vectors'
+Also defined by ‘RNeXML’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘clusterExperiment’ as ‘clusterExperiment_2.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clusterExperiment)
+
+The downloaded source packages are in
+	‘/tmp/RtmpZEahZ1/downloaded_packages’
+Old packages: 'cli', 'DelayedArray', 'diffobj', 'edgeR', 'globals',
+  'parallelly', 'pkgdown', 'RcppArmadillo', 'RSQLite', 'scales', 'sctransform',
+  'Seurat', 'SeuratObject', 'SingleCellExperiment', 'spatstat.univar',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8'
+
+real	12m20.306s
+user	10m58.957s
+sys	2m38.342s

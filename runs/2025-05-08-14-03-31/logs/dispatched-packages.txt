@@ -917,3 +917,16 @@ spatialHeatmap
 Rcpi
 XDE
 rrvgo
+AGDEX
+AUCell
+BicARE
+Category
+GSRI
+GlobalAncova
+PROMISE
+TMSig
+TissueEnrich
+mogsa
+npGSEA
+slalom
+splineTimeR
