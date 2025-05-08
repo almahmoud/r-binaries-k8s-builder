@@ -7,7 +7,6 @@
     "impute",
     "BiocParallel"
   ],
-  "ADAMgui": [],
   "ADAPT": [
     "phyloseq",
     "biomformat",
@@ -1779,7 +1778,6 @@
   ],
   "EGSEA": [
     "gage",
-    "pathview",
     "GSVA",
     "globaltest",
     "safe",
@@ -1894,7 +1892,6 @@
   "EnrichmentBrowser": [
     "BiocFileCache",
     "GSEABase",
-    "pathview",
     "safe"
   ],
   "EpiCompare": [
@@ -2136,7 +2133,6 @@
     "clusterProfiler",
     "DOSE",
     "biomaRt",
-    "pathview",
     "BiocParallel",
     "BiocFileCache",
     "enrichplot",
@@ -2243,7 +2239,6 @@
     "ExperimentHub",
     "BiocVersion",
     "GSEABase",
-    "pathview",
     "safe"
   ],
   "GSEAmining": [],
@@ -3857,7 +3852,6 @@
   "OVESEG": [
     "BiocParallel"
   ],
-  "OmaDB": [],
   "OmicsMLRepoR": [
     "BiocFileCache"
   ],
@@ -4882,9 +4876,7 @@
     "BiocBaseUtils",
     "BiocParallel"
   ],
-  "SBGNview": [
-    "pathview"
-  ],
+  "SBGNview": [],
   "SBMLR": [],
   "SC3": [],
   "SCAN.UPC": [
@@ -7507,7 +7499,6 @@
     "clusterProfiler",
     "sva",
     "enrichplot",
-    "pathview",
     "GOSemSim",
     "BiocParallel",
     "fgsea",
@@ -7713,7 +7704,6 @@
     "BiocParallel",
     "EnrichmentBrowser",
     "BiocFileCache",
-    "pathview",
     "safe"
   ],
   "drugTargetInteractions": [
@@ -9673,7 +9663,6 @@
   "mixOmics": [
     "BiocParallel"
   ],
-  "moanin": [],
   "mobileRNA": [
     "DESeq2",
     "rtracklayer",
@@ -9879,7 +9868,6 @@
     "rhdf5filters",
     "ProtGenerics"
   ],
-  "multistateQTL": [],
   "mumosa": [
     "BiocParallel",
     "BiocSingular",
@@ -10268,7 +10256,6 @@
     "rhdf5filters",
     "Rhdf5lib"
   ],
-  "pathRender": [],
   "pathlinkR": [
     "clusterProfiler",
     "fgsea",
@@ -10279,7 +10266,6 @@
     "ggtree",
     "treeio"
   ],
-  "pathview": [],
   "pcaExplorer": [
     "DESeq2",
     "mosdef",
@@ -10974,7 +10960,6 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "sRACIPE": [],
   "sSNAPPY": [],
   "sSeq": [],
   "safe": [],
@@ -12549,7 +12534,6 @@
     "EnrichmentBrowser",
     "GSEABase",
     "BiocFileCache",
-    "pathview",
     "safe",
     "BiocParallel"
   ],

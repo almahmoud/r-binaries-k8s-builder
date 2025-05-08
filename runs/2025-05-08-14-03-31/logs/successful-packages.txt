@@ -615,3 +615,10 @@ pgxRpi
 rTRM
 smartid
 snapcount
+ADAMgui
+moanin
+multistateQTL
+OmaDB
+pathRender
+pathview
+sRACIPE

@@ -893,3 +893,4 @@ moanin
 sSNAPPY
 structToolbox
 BLMA
+SBGNview
