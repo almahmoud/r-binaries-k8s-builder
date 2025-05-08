@@ -8534,7 +8534,6 @@
     "biomaRt",
     "BiocFileCache"
   ],
-  "interactiveDisplay": [],
   "ipdDb": [
     "AnnotationHub",
     "BiocFileCache",

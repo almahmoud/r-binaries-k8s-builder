@@ -740,3 +740,4 @@ npGSEA
 RcisTarget
 rrvgo
 GOstats
+interactiveDisplay
