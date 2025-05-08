@@ -2898,7 +2898,6 @@
     "annotate"
   ],
   "KBoost": [],
-  "KEGGlincs": [],
   "KinSwingR": [
     "BiocParallel"
   ],
@@ -5926,7 +5925,6 @@
     "Rsamtools",
     "BiocParallel"
   ],
-  "XAItest": [],
   "XDE": [
     "genefilter",
     "GeneMeta",
@@ -6064,7 +6062,6 @@
     "gcrma",
     "preprocessCore"
   ],
-  "aggregateBioVar": [],
   "airpart": [
     "scater",
     "scuttle",
@@ -6876,7 +6873,6 @@
   "ccImpute": [
     "BiocParallel"
   ],
-  "ccfindR": [],
   "ccmap": [],
   "ccrepe": [],
   "ceRNAnetsim": [],
@@ -7979,7 +7975,6 @@
     "annotate"
   ],
   "eds": [],
-  "eisaR": [],
   "enhancerHomologSearch": [
     "BSgenome",
     "BiocParallel",

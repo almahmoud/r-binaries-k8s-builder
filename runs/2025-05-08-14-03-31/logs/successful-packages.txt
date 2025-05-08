@@ -559,3 +559,8 @@ MeSHDbi
 SpatialCPie
 SQLDataFrame
 wpm
+aggregateBioVar
+ccfindR
+eisaR
+KEGGlincs
+XAItest
