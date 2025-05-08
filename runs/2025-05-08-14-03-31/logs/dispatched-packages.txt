@@ -936,3 +936,6 @@ RcisTarget
 esetVis
 GOstats
 interactiveDisplay
+SGCP
+attract
+categoryCompare

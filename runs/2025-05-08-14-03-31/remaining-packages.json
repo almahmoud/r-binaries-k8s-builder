@@ -147,7 +147,6 @@
     "affy",
     "preprocessCore",
     "affycoretools",
-    "GOstats",
     "gcrma",
     "ReportingTools",
     "Glimma",
@@ -2108,7 +2107,6 @@
     "MultiAssayExperiment",
     "BiocBaseUtils"
   ],
-  "GOstats": [],
   "GRaNIE": [
     "DESeq2",
     "biomaRt",
@@ -2381,7 +2379,6 @@
     "BiocParallel"
   ],
   "GmicR": [
-    "GOstats",
     "impute",
     "preprocessCore"
   ],
@@ -3314,7 +3311,6 @@
   ],
   "MineICA": [
     "biomaRt",
-    "GOstats",
     "lumi",
     "BiocFileCache",
     "affy",
@@ -4509,7 +4505,6 @@
     "BiocParallel"
   ],
   "ReportingTools": [
-    "GOstats",
     "DESeq2",
     "ggbio",
     "BiocParallel",
@@ -4720,9 +4715,7 @@
     "DESeq2",
     "sva"
   ],
-  "SGCP": [
-    "GOstats"
-  ],
+  "SGCP": [],
   "SGSeq": [
     "Rsamtools",
     "GenomicAlignments",
@@ -5603,7 +5596,6 @@
   ],
   "affycoretools": [
     "affy",
-    "GOstats",
     "gcrma",
     "ReportingTools",
     "Glimma",
@@ -5921,9 +5913,7 @@
     "BiocVersion",
     "rtracklayer"
   ],
-  "attract": [
-    "GOstats"
-  ],
+  "attract": [],
   "autonomics": [
     "BiocFileCache",
     "MultiAssayExperiment",
@@ -6361,9 +6351,7 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "categoryCompare": [
-    "GOstats"
-  ],
+  "categoryCompare": [],
   "cbaf": [
     "BiocFileCache",
     "cBioPortalData",
@@ -8474,7 +8462,6 @@
     "DESeq2",
     "mosdef",
     "goseq",
-    "GOstats",
     "BiocParallel",
     "rtracklayer",
     "GenomicFeatures",
@@ -9075,7 +9062,6 @@
     "impute",
     "TCGAbiolinks",
     "ctc",
-    "GOstats",
     "biomaRt",
     "BiocFileCache"
   ],
@@ -9840,7 +9826,6 @@
   "pcaExplorer": [
     "DESeq2",
     "mosdef",
-    "GOstats",
     "biomaRt",
     "BiocFileCache",
     "BiocParallel",
@@ -10739,7 +10724,6 @@
     "BiocStyle",
     "AnnotationHub",
     "meshr",
-    "GOstats",
     "ReactomePA",
     "DOSE",
     "BiocFileCache",
