@@ -624,3 +624,14 @@ pathview
 sRACIPE
 simplifyEnrichment
 speckle
+annaffy
+HERON
+HilbertCurve
+infercnv
+RCSL
+safe
+scmap
+scReClassify
+SeqArray
+sSNAPPY
+switchde

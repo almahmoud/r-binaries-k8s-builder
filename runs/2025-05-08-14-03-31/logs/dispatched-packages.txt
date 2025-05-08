@@ -894,3 +894,8 @@ sSNAPPY
 structToolbox
 BLMA
 SBGNview
+GBScleanR
+GDSArray
+SAIGEgds
+SeqVarTools
+ggmanh

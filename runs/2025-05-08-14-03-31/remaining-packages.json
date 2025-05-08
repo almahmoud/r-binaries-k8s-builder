@@ -768,7 +768,6 @@
     "RaggedExperiment",
     "BiocParallel",
     "GDSArray",
-    "SeqArray",
     "BiocBaseUtils"
   ],
   "CNVfilteR": [
@@ -1780,7 +1779,6 @@
     "gage",
     "GSVA",
     "globaltest",
-    "safe",
     "GSEABase",
     "BiocParallel",
     "SpatialExperiment",
@@ -1891,8 +1889,7 @@
   ],
   "EnrichmentBrowser": [
     "BiocFileCache",
-    "GSEABase",
-    "safe"
+    "GSEABase"
   ],
   "EpiCompare": [
     "AnnotationHub",
@@ -2125,9 +2122,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "GBScleanR": [
-    "SeqArray"
-  ],
+  "GBScleanR": [],
   "GDCRNATools": [
     "DESeq2",
     "clusterProfiler",
@@ -2141,13 +2136,10 @@
     "ggtree",
     "treeio"
   ],
-  "GDSArray": [
-    "SeqArray"
-  ],
+  "GDSArray": [],
   "GENESIS": [
     "BiocParallel",
     "GWASTools",
-    "SeqArray",
     "SeqVarTools",
     "DNAcopy",
     "quantsmooth"
@@ -2238,8 +2230,7 @@
     "EnrichmentBrowser",
     "ExperimentHub",
     "BiocVersion",
-    "GSEABase",
-    "safe"
+    "GSEABase"
   ],
   "GSEAmining": [],
   "GSRI": [
@@ -2541,7 +2532,6 @@
     "Rhdf5lib"
   ],
   "HDTD": [],
-  "HERON": [],
   "HGC": [],
   "HIBAG": [],
   "HIPPO": [],
@@ -2656,7 +2646,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "HilbertCurve": [],
   "HilbertVis": [],
   "HilbertVisGUI": [
     "HilbertVis"
@@ -4260,7 +4249,6 @@
     "ProtGenerics",
     "BiocParallel",
     "GWASTools",
-    "SeqArray",
     "SeqVarTools",
     "DNAcopy",
     "quantsmooth",
@@ -4286,7 +4274,6 @@
     "Rhdf5lib",
     "rhdf5filters"
   ],
-  "RCSL": [],
   "RCX": [],
   "RDRToolbox": [],
   "REBET": [
@@ -4863,9 +4850,7 @@
   "Rsamtools": [
     "BiocParallel"
   ],
-  "SAIGEgds": [
-    "SeqArray"
-  ],
+  "SAIGEgds": [],
   "SARC": [
     "RaggedExperiment",
     "plyranges",
@@ -5066,7 +5051,6 @@
     "Rhdf5lib"
   ],
   "SemDist": [],
-  "SeqArray": [],
   "SeqGSEA": [
     "DESeq2",
     "biomaRt",
@@ -5079,9 +5063,7 @@
     "BiocFileCache",
     "BiocVersion"
   ],
-  "SeqVarTools": [
-    "SeqArray"
-  ],
+  "SeqVarTools": [],
   "ShortRead": [
     "BiocParallel",
     "Rsamtools",
@@ -5686,8 +5668,7 @@
     "GenomicAlignments"
   ],
   "VariantExperiment": [
-    "GDSArray",
-    "SeqArray"
+    "GDSArray"
   ],
   "VariantFiltering": [
     "VariantAnnotation",
@@ -5824,11 +5805,9 @@
   ],
   "a4": [
     "a4Base",
-    "annaffy",
     "genefilter"
   ],
   "a4Base": [
-    "annaffy",
     "genefilter"
   ],
   "abseqR": [
@@ -6089,7 +6068,6 @@
     "BiocParallel",
     "BiocBaseUtils"
   ],
-  "annaffy": [],
   "annmap": [
     "Rsamtools",
     "genefilter",
@@ -7703,8 +7681,7 @@
     "zenith",
     "BiocParallel",
     "EnrichmentBrowser",
-    "BiocFileCache",
-    "safe"
+    "BiocFileCache"
   ],
   "drugTargetInteractions": [
     "UniProt.ws",
@@ -8502,9 +8479,7 @@
   "ggkegg": [
     "BiocFileCache"
   ],
-  "ggmanh": [
-    "SeqArray"
-  ],
+  "ggmanh": [],
   "ggmsa": [
     "ggtree",
     "treeio"
@@ -8902,7 +8877,6 @@
     "BiocBaseUtils"
   ],
   "impute": [],
-  "infercnv": [],
   "infinityFlow": [
     "flowCore",
     "cytolib",
@@ -10960,9 +10934,7 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "sSNAPPY": [],
   "sSeq": [],
-  "safe": [],
   "sagenhaft": [],
   "sampleClassifier": [
     "MGFM",
@@ -11184,7 +11156,6 @@
     "GenomicAlignments",
     "TrajectoryUtils"
   ],
-  "scReClassify": [],
   "scRecover": [
     "BiocParallel"
   ],
@@ -11281,7 +11252,6 @@
     "RProtoBufLib",
     "Rhdf5lib"
   ],
-  "scmap": [],
   "scmeth": [
     "bsseq",
     "AnnotationHub",
@@ -11953,7 +11923,6 @@
   ],
   "swfdr": [],
   "switchBox": [],
-  "switchde": [],
   "synapter": [
     "MSnbase",
     "mzR",
@@ -12433,7 +12402,6 @@
   "weaver": [],
   "webbioc": [
     "affy",
-    "annaffy",
     "vsn",
     "gcrma",
     "preprocessCore"
@@ -12532,7 +12500,6 @@
     "EnrichmentBrowser",
     "GSEABase",
     "BiocFileCache",
-    "safe",
     "BiocParallel"
   ],
   "zinbwave": [
