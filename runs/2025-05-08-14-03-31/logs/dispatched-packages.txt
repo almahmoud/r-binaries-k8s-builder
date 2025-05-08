@@ -563,3 +563,9 @@ SPIA
 TPP
 lpNet
 trio
+CCPlotR
+ClustAll
+InteractiveComplexHeatmap
+NormqPCR
+metaSeq
+simona
