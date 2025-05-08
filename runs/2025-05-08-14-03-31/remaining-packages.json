@@ -4715,7 +4715,6 @@
     "DESeq2",
     "sva"
   ],
-  "SGCP": [],
   "SGSeq": [
     "Rsamtools",
     "GenomicAlignments",
@@ -5913,7 +5912,6 @@
     "BiocVersion",
     "rtracklayer"
   ],
-  "attract": [],
   "autonomics": [
     "BiocFileCache",
     "MultiAssayExperiment",

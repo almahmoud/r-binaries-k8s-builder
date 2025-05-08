@@ -742,3 +742,5 @@ rrvgo
 GOstats
 interactiveDisplay
 categoryCompare
+attract
+SGCP
