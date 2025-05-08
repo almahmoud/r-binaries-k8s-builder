@@ -72,7 +72,6 @@
     "BiocParallel",
     "BSgenome"
   ],
-  "APL": [],
   "ARRmNormalization": [],
   "ASAFE": [],
   "ASEB": [],
@@ -158,7 +157,6 @@
     "affycoretools",
     "GOstats",
     "gcrma",
-    "oligoClasses",
     "ReportingTools",
     "Glimma",
     "DESeq2",
@@ -268,7 +266,6 @@
   ],
   "ArrayExpress": [
     "oligo",
-    "oligoClasses",
     "preprocessCore"
   ],
   "BADER": [],
@@ -1066,8 +1063,7 @@
     "frma",
     "affy",
     "preprocessCore",
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "ChIPanalyser": [
     "BSgenome",
@@ -1732,8 +1728,7 @@
     "ArrayExpress",
     "preprocessCore",
     "oligo",
-    "BiocFileCache",
-    "oligoClasses"
+    "BiocFileCache"
   ],
   "Dune": [
     "BiocParallel"
@@ -1771,7 +1766,6 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "EDIRquery": [],
   "EGAD": [
     "impute"
   ],
@@ -2002,7 +1996,6 @@
   "FEAST": [
     "BiocParallel",
     "TSCAN",
-    "SC3",
     "TrajectoryUtils"
   ],
   "FGNet": [],
@@ -2534,7 +2527,6 @@
   "HDTD": [],
   "HGC": [],
   "HIBAG": [],
-  "HIPPO": [],
   "HTSFilter": [
     "DESeq2",
     "BiocParallel"
@@ -2599,7 +2591,6 @@
     "Rhdf5lib",
     "rhdf5filters"
   ],
-  "HiCParser": [],
   "HiCcompare": [
     "BiocParallel",
     "rhdf5",
@@ -2722,7 +2713,6 @@
   "ISoLDE": [],
   "ITALICS": [
     "oligo",
-    "oligoClasses",
     "preprocessCore"
   ],
   "IVAS": [
@@ -2912,7 +2902,6 @@
     "snpStats",
     "crlmm",
     "impute",
-    "oligoClasses",
     "preprocessCore",
     "h5mread",
     "rhdf5",
@@ -3350,7 +3339,6 @@
     "RProtoBufLib",
     "Rhdf5lib"
   ],
-  "MetaNeighbor": [],
   "MetaPhOR": [
     "clusterProfiler",
     "DOSE",
@@ -3482,7 +3470,6 @@
   ],
   "MinimumDistance": [
     "VanillaICE",
-    "oligoClasses",
     "DNAcopy",
     "crlmm",
     "BSgenome",
@@ -4863,13 +4850,11 @@
   ],
   "SBGNview": [],
   "SBMLR": [],
-  "SC3": [],
   "SCAN.UPC": [
     "oligo",
     "affy",
     "sva",
     "preprocessCore",
-    "oligoClasses",
     "genefilter",
     "BiocParallel"
   ],
@@ -5643,7 +5628,6 @@
     "genefilter"
   ],
   "VanillaICE": [
-    "oligoClasses",
     "crlmm",
     "BSgenome",
     "preprocessCore",
@@ -5845,7 +5829,6 @@
     "affy",
     "GOstats",
     "gcrma",
-    "oligoClasses",
     "ReportingTools",
     "Glimma",
     "preprocessCore",
@@ -6952,7 +6935,6 @@
     "rhdf5filters"
   ],
   "cn.farms": [
-    "oligoClasses",
     "oligo",
     "DNAcopy",
     "preprocessCore"
@@ -7272,7 +7254,6 @@
     "BiocVersion"
   ],
   "crlmm": [
-    "oligoClasses",
     "preprocessCore"
   ],
   "crumblr": [
@@ -8271,7 +8252,6 @@
   "frma": [
     "affy",
     "oligo",
-    "oligoClasses",
     "preprocessCore"
   ],
   "frmaTools": [
@@ -8568,7 +8548,6 @@
     "ggtree",
     "treeio"
   ],
-  "goTools": [],
   "goseq": [
     "rtracklayer",
     "GenomicFeatures",
@@ -9071,7 +9050,6 @@
     "BiocParallel"
   ],
   "mBPCR": [
-    "oligoClasses",
     "GWASTools",
     "DNAcopy",
     "quantsmooth"
@@ -9574,7 +9552,6 @@
     "affy",
     "affyPLM",
     "oligo",
-    "oligoClasses",
     "gcrma"
   ],
   "mina": [],
@@ -10027,10 +10004,8 @@
     "GenomicAlignments"
   ],
   "oligo": [
-    "oligoClasses",
     "preprocessCore"
   ],
-  "oligoClasses": [],
   "omXplore": [
     "MSnbase",
     "PSMatch",
@@ -10266,7 +10241,6 @@
   ],
   "pdInfoBuilder": [
     "oligo",
-    "oligoClasses",
     "preprocessCore"
   ],
   "peakPantheR": [
@@ -10562,7 +10536,6 @@
   ],
   "puma": [
     "oligo",
-    "oligoClasses",
     "affy",
     "preprocessCore"
   ],
@@ -11887,7 +11860,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "structToolbox": [],
   "surfaltr": [
     "biomaRt",
     "BiocFileCache"
@@ -12053,17 +12025,14 @@
     "RProtoBufLib",
     "Rhdf5lib"
   ],
-  "tidySingleCellExperiment": [],
   "tidySpatialExperiment": [
     "SpatialExperiment",
-    "tidySingleCellExperiment",
     "BiocFileCache"
   ],
   "tidybulk": [
     "preprocessCore"
   ],
   "tidyomics": [
-    "tidySingleCellExperiment",
     "tidybulk",
     "plyranges",
     "nullranges",

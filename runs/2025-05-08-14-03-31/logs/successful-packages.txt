@@ -635,3 +635,13 @@ scReClassify
 SeqArray
 sSNAPPY
 switchde
+APL
+EDIRquery
+goTools
+HiCParser
+HIPPO
+MetaNeighbor
+oligoClasses
+SC3
+structToolbox
+tidySingleCellExperiment
