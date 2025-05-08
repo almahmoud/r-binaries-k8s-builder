@@ -622,3 +622,5 @@ OmaDB
 pathRender
 pathview
 sRACIPE
+simplifyEnrichment
+speckle

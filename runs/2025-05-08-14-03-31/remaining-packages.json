@@ -11600,7 +11600,6 @@
     "rhdf5filters",
     "BiocFileCache"
   ],
-  "simplifyEnrichment": [],
   "singleCellTK": [
     "AnnotationHub",
     "batchelor",
@@ -11793,7 +11792,6 @@
     "ProtGenerics"
   ],
   "specL": [],
-  "speckle": [],
   "spicyR": [
     "BiocParallel",
     "SpatialExperiment",

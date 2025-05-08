@@ -5,3 +5,4 @@ gpuMagic
 HilbertVis
 NormqPCR
 PhenStat
+ramr
