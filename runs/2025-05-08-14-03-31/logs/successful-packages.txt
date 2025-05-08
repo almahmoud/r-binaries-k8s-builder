@@ -693,3 +693,9 @@ iSEEhex
 MetaboDynamics
 POWSC
 SplicingFactory
+genefilter
+geneplotter
+IFAA
+qmtools
+tRNAdbImport
+TSCAN

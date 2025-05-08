@@ -22,7 +22,6 @@
     "tilingArray",
     "affy",
     "vsn",
-    "genefilter",
     "preprocessCore"
   ],
   "AGDEX": [
@@ -86,7 +85,6 @@
   "ASSET": [],
   "ASSIGN": [
     "sva",
-    "genefilter",
     "BiocParallel"
   ],
   "ASpli": [
@@ -163,7 +161,6 @@
     "Category",
     "GSEABase",
     "ggbio",
-    "genefilter",
     "BiocParallel",
     "biovizBase",
     "Rsamtools",
@@ -315,8 +312,7 @@
   ],
   "BERT": [
     "sva",
-    "BiocParallel",
-    "genefilter"
+    "BiocParallel"
   ],
   "BEclear": [
     "BiocParallel"
@@ -412,8 +408,7 @@
     "scuttle",
     "BiocSingular",
     "bluster",
-    "metapod",
-    "genefilter"
+    "metapod"
   ],
   "BatchSVG": [
     "scry",
@@ -497,7 +492,6 @@
   "BioNERO": [
     "sva",
     "BiocParallel",
-    "genefilter",
     "impute",
     "preprocessCore"
   ],
@@ -747,9 +741,7 @@
     "Rsamtools",
     "BiocParallel"
   ],
-  "CNTools": [
-    "genefilter"
-  ],
+  "CNTools": [],
   "CNVMetrics": [
     "BiocParallel"
   ],
@@ -928,8 +920,7 @@
     "ProtGenerics"
   ],
   "Category": [
-    "GSEABase",
-    "genefilter"
+    "GSEABase"
   ],
   "CatsCradle": [
     "SpatialExperiment",
@@ -1009,7 +1000,6 @@
     "Gviz",
     "biomaRt",
     "rtracklayer",
-    "genefilter",
     "HDF5Array",
     "BiocParallel",
     "methylumi",
@@ -1166,7 +1156,6 @@
   "ClassifyR": [
     "MultiAssayExperiment",
     "BiocParallel",
-    "genefilter",
     "dcanr",
     "BiocBaseUtils"
   ],
@@ -1182,8 +1171,7 @@
     "GenomicFeatures",
     "ProtGenerics",
     "sva",
-    "GenomicAlignments",
-    "genefilter"
+    "GenomicAlignments"
   ],
   "Clomial": [],
   "CluMSID": [
@@ -1440,8 +1428,6 @@
     "DESeq2",
     "biomaRt",
     "Rsamtools",
-    "geneplotter",
-    "genefilter",
     "BiocFileCache"
   ],
   "DEsingle": [
@@ -1457,7 +1443,6 @@
     "snpStats",
     "sva",
     "zlibbioc",
-    "genefilter",
     "BiocParallel"
   ],
   "DMCFB": [
@@ -1494,7 +1479,6 @@
     "GenomicAlignments",
     "bumphunter",
     "preprocessCore",
-    "genefilter",
     "methylumi",
     "VariantAnnotation",
     "ProtGenerics",
@@ -1550,7 +1534,6 @@
     "Rsamtools",
     "biomaRt",
     "GenomicFeatures",
-    "genefilter",
     "BiocFileCache",
     "rtracklayer",
     "GenomicAlignments"
@@ -1580,7 +1563,6 @@
     "sva",
     "BiocParallel",
     "bsseq",
-    "genefilter",
     "BSgenome",
     "HDF5Array",
     "rhdf5",
@@ -1811,12 +1793,10 @@
     "preprocessCore"
   ],
   "ENmix": [
-    "geneplotter",
     "impute",
     "minfi",
     "ExperimentHub",
     "AnnotationHub",
-    "genefilter",
     "BiocFileCache",
     "BiocVersion",
     "bumphunter",
@@ -1914,7 +1894,6 @@
     "GenomicFeatures",
     "txdbmaker",
     "BiocFileCache",
-    "tRNAdbImport",
     "rtracklayer",
     "biomaRt",
     "Rsamtools",
@@ -1984,8 +1963,7 @@
     "BiocStyle"
   ],
   "FEAST": [
-    "BiocParallel",
-    "TSCAN"
+    "BiocParallel"
   ],
   "FGNet": [],
   "FLAMES": [
@@ -2098,7 +2076,6 @@
     "Rsamtools",
     "biomaRt",
     "GenomicFeatures",
-    "genefilter",
     "BiocFileCache",
     "rtracklayer",
     "GenomicAlignments"
@@ -2125,7 +2102,6 @@
   "GEOexplorer": [
     "sva",
     "impute",
-    "genefilter",
     "BiocParallel"
   ],
   "GEOmetadb": [],
@@ -2174,8 +2150,7 @@
   ],
   "GOstats": [
     "Category",
-    "GSEABase",
-    "genefilter"
+    "GSEABase"
   ],
   "GRaNIE": [
     "DESeq2",
@@ -2210,7 +2185,6 @@
   ],
   "GSEAmining": [],
   "GSRI": [
-    "genefilter",
     "GSEABase"
   ],
   "GSReg": [
@@ -2322,9 +2296,7 @@
     "BiocParallel",
     "zlibbioc"
   ],
-  "GeneMeta": [
-    "genefilter"
-  ],
+  "GeneMeta": [],
   "GeneStructureTools": [
     "Gviz",
     "rtracklayer",
@@ -2468,7 +2440,6 @@
     "Category",
     "GSEABase",
     "GOstats",
-    "genefilter",
     "impute",
     "preprocessCore"
   ],
@@ -2520,7 +2491,6 @@
   ],
   "HarmonizR": [
     "sva",
-    "genefilter",
     "BiocParallel"
   ],
   "Harshlight": [
@@ -2635,7 +2605,6 @@
     "DESeq2",
     "BiocParallel"
   ],
-  "IFAA": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS",
@@ -2740,8 +2709,6 @@
     "DEXSeq",
     "DESeq2",
     "biomaRt",
-    "geneplotter",
-    "genefilter",
     "rtracklayer",
     "VariantAnnotation",
     "BiocFileCache",
@@ -2767,8 +2734,6 @@
     "Rsamtools",
     "DESeq2",
     "biomaRt",
-    "geneplotter",
-    "genefilter",
     "GenomicAlignments",
     "GenomicFeatures",
     "txdbmaker",
@@ -2785,7 +2750,6 @@
   "KnowSeq": [
     "cqn",
     "sva",
-    "genefilter",
     "BiocParallel"
   ],
   "LACE": [
@@ -2892,7 +2856,6 @@
     "rhdf5filters",
     "Rhdf5lib",
     "minfi",
-    "genefilter",
     "GenomicFeatures",
     "rtracklayer",
     "bumphunter",
@@ -2939,7 +2902,6 @@
     "phyloseq",
     "sva",
     "biomformat",
-    "genefilter",
     "BiocParallel",
     "rhdf5",
     "Rhdf5lib",
@@ -2974,7 +2936,6 @@
     "GenomicAlignments",
     "bumphunter",
     "preprocessCore",
-    "genefilter",
     "HDF5Array",
     "BiocParallel",
     "methylumi",
@@ -2993,7 +2954,6 @@
     "wateRmelon",
     "bumphunter",
     "preprocessCore",
-    "genefilter",
     "HDF5Array",
     "BiocParallel",
     "methylumi",
@@ -3074,9 +3034,7 @@
     "ggtree",
     "treeio"
   ],
-  "MLInterfaces": [
-    "genefilter"
-  ],
+  "MLInterfaces": [],
   "MLP": [],
   "MLSeq": [
     "DESeq2",
@@ -3146,7 +3104,6 @@
   "MSPrep": [
     "preprocessCore",
     "sva",
-    "genefilter",
     "BiocParallel"
   ],
   "MSnID": [
@@ -3283,7 +3240,6 @@
     "vsn",
     "AnnotationHub",
     "BiocFileCache",
-    "genefilter",
     "BiocParallel",
     "affy",
     "preprocessCore",
@@ -3379,7 +3335,6 @@
     "minfi",
     "bumphunter",
     "preprocessCore",
-    "genefilter",
     "HDF5Array",
     "GenomicFeatures",
     "h5mread",
@@ -3396,7 +3351,6 @@
   "MethylSeekR": [
     "rtracklayer",
     "BSgenome",
-    "geneplotter",
     "Rsamtools",
     "GenomicAlignments",
     "BiocParallel"
@@ -3432,7 +3386,6 @@
     "GenomicFeatures",
     "preprocessCore",
     "GSEABase",
-    "genefilter",
     "rtracklayer",
     "minfi",
     "bumphunter",
@@ -3669,8 +3622,7 @@
   ],
   "NBAMSeq": [
     "DESeq2",
-    "BiocParallel",
-    "genefilter"
+    "BiocParallel"
   ],
   "NPARC": [
     "BiocParallel"
@@ -3844,7 +3796,6 @@
   ],
   "PAA": [
     "sva",
-    "genefilter",
     "BiocParallel"
   ],
   "PAIRADISE": [
@@ -3883,7 +3834,6 @@
   "PECA": [
     "ROTS",
     "affy",
-    "genefilter",
     "preprocessCore",
     "BiocParallel",
     "aroma.light",
@@ -3929,8 +3879,7 @@
     "mixOmics",
     "RankProd",
     "sva",
-    "BiocParallel",
-    "genefilter"
+    "BiocParallel"
   ],
   "PPInfer": [
     "biomaRt",
@@ -3963,14 +3912,12 @@
     "Rhdf5lib",
     "Spectra",
     "QFeatures",
-    "genefilter",
     "MultiAssayExperiment",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
   "PROPS": [
     "sva",
-    "genefilter",
     "BiocParallel"
   ],
   "PROcess": [
@@ -4262,7 +4209,6 @@
     "Rsamtools",
     "bumphunter",
     "preprocessCore",
-    "genefilter",
     "HDF5Array",
     "GenomicAlignments",
     "GenomicFeatures",
@@ -4652,7 +4598,6 @@
     "GSEABase",
     "DESeq2",
     "ggbio",
-    "genefilter",
     "BiocParallel",
     "biovizBase",
     "Rsamtools",
@@ -4749,7 +4694,6 @@
   "RnBeads": [
     "methylumi",
     "minfi",
-    "genefilter",
     "GenomicFeatures",
     "rtracklayer",
     "bumphunter",
@@ -4822,7 +4766,6 @@
     "affy",
     "sva",
     "preprocessCore",
-    "genefilter",
     "BiocParallel"
   ],
   "SCANVIS": [
@@ -4862,11 +4805,9 @@
   "SEtools": [
     "BiocParallel",
     "DESeq2",
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "SGCP": [
-    "genefilter",
     "GOstats",
     "Category",
     "GSEABase"
@@ -5019,8 +4960,7 @@
   ],
   "SigCheck": [
     "MLInterfaces",
-    "BiocParallel",
-    "genefilter"
+    "BiocParallel"
   ],
   "SigsPack": [
     "BSgenome",
@@ -5178,7 +5118,6 @@
     "BiocFileCache",
     "BiocParallel",
     "BSgenome",
-    "genefilter",
     "HDF5Array",
     "h5mread",
     "rhdf5",
@@ -5287,7 +5226,6 @@
     "h5mread",
     "rhdf5",
     "BiocFileCache",
-    "genefilter",
     "rhdf5filters",
     "Rhdf5lib"
   ],
@@ -5426,7 +5364,6 @@
     "ClassifyR",
     "MultiAssayExperiment",
     "BiocParallel",
-    "genefilter",
     "dcanr",
     "BiocBaseUtils"
   ],
@@ -5440,7 +5377,6 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "TSCAN": [],
   "TVTB": [
     "BiocParallel",
     "ensembldb",
@@ -5581,8 +5517,7 @@
     "Rsamtools",
     "sva",
     "rtracklayer",
-    "BiocParallel",
-    "genefilter"
+    "BiocParallel"
   ],
   "VanillaICE": [
     "crlmm",
@@ -5683,7 +5618,6 @@
     "BiocParallel"
   ],
   "XDE": [
-    "genefilter",
     "GeneMeta"
   ],
   "XNAString": [
@@ -5742,12 +5676,9 @@
     "GenomicFeatures"
   ],
   "a4": [
-    "a4Base",
-    "genefilter"
+    "a4Base"
   ],
-  "a4Base": [
-    "genefilter"
-  ],
+  "a4Base": [],
   "abseqR": [
     "BiocParallel",
     "BiocStyle"
@@ -5790,7 +5721,6 @@
     "Category",
     "GSEABase",
     "ggbio",
-    "genefilter",
     "BiocParallel",
     "biovizBase",
     "Rsamtools",
@@ -6007,7 +5937,6 @@
   ],
   "annmap": [
     "Rsamtools",
-    "genefilter",
     "BiocParallel"
   ],
   "annotatr": [
@@ -6059,7 +5988,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "minfi",
-    "genefilter",
     "bumphunter",
     "HDF5Array",
     "BiocParallel",
@@ -6074,7 +6002,6 @@
     "affy",
     "affyPLM",
     "beadarray",
-    "genefilter",
     "vsn",
     "preprocessCore",
     "gcrma",
@@ -6108,8 +6035,7 @@
   "attract": [
     "GOstats",
     "Category",
-    "GSEABase",
-    "genefilter"
+    "GSEABase"
   ],
   "autonomics": [
     "BiocFileCache",
@@ -6127,7 +6053,6 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "genefilter",
     "BiocParallel"
   ],
   "bambu": [
@@ -6157,7 +6082,6 @@
     "biomaRt",
     "preprocessCore",
     "BiocFileCache",
-    "genefilter",
     "Rhdf5lib",
     "Spectra",
     "QFeatures",
@@ -6225,7 +6149,6 @@
     "maaslin3",
     "biomformat",
     "treeio",
-    "genefilter",
     "rhdf5",
     "Rhdf5lib",
     "rhdf5filters"
@@ -6234,7 +6157,6 @@
     "wateRmelon",
     "minfi",
     "methylumi",
-    "genefilter",
     "GenomicFeatures",
     "bumphunter",
     "preprocessCore",
@@ -6274,9 +6196,7 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "biocGraph": [
-    "geneplotter"
-  ],
+  "biocGraph": [],
   "biocmake": [
     "dir.expiry"
   ],
@@ -6381,8 +6301,6 @@
     "DESeq2",
     "biomaRt",
     "Rsamtools",
-    "geneplotter",
-    "genefilter",
     "BiocFileCache"
   ],
   "blima": [
@@ -6399,15 +6317,13 @@
     "HiCBricks",
     "BiocParallel",
     "Rhdf5lib",
-    "rhdf5filters",
-    "genefilter"
+    "rhdf5filters"
   ],
   "bnem": [
     "affy",
     "sva",
     "vsn",
     "preprocessCore",
-    "genefilter",
     "BiocParallel"
   ],
   "borealis": [
@@ -6447,7 +6363,6 @@
     "DELocal",
     "EBSeq",
     "DESeq2",
-    "genefilter",
     "clusterProfiler",
     "DOSE",
     "enrichplot",
@@ -6520,7 +6435,6 @@
     "ensembldb",
     "ProtGenerics",
     "txdbmaker",
-    "genefilter",
     "impute",
     "preprocessCore",
     "biomaRt",
@@ -6539,7 +6453,6 @@
     "TCGAutils",
     "Category",
     "biomaRt",
-    "genefilter",
     "AnVILBase",
     "GenomicFeatures",
     "rtracklayer",
@@ -6570,13 +6483,11 @@
   "categoryCompare": [
     "GSEABase",
     "Category",
-    "GOstats",
-    "genefilter"
+    "GOstats"
   ],
   "cbaf": [
     "BiocFileCache",
     "cBioPortalData",
-    "genefilter",
     "AnVIL",
     "MultiAssayExperiment",
     "BiocBaseUtils",
@@ -6651,8 +6562,7 @@
   ],
   "cghMCR": [
     "DNAcopy",
-    "CNTools",
-    "genefilter"
+    "CNTools"
   ],
   "chevreulPlot": [
     "chevreulProcess",
@@ -6856,7 +6766,6 @@
     "h5mread",
     "rhdf5",
     "Rhdf5lib",
-    "genefilter",
     "rhdf5filters"
   ],
   "clusterProfiler": [
@@ -7014,7 +6923,6 @@
     "rtracklayer",
     "bumphunter",
     "preprocessCore",
-    "genefilter",
     "HDF5Array",
     "BiocParallel",
     "Rsamtools",
@@ -7064,12 +6972,9 @@
   ],
   "countsimQC": [
     "DESeq2",
-    "genefilter",
     "BiocParallel"
   ],
-  "covRNA": [
-    "genefilter"
-  ],
+  "covRNA": [],
   "cpvSNP": [
     "GenomicFeatures",
     "GSEABase",
@@ -7408,7 +7313,6 @@
     "BiocParallel",
     "fgsea",
     "ggtree",
-    "genefilter",
     "treeio"
   ],
   "decompTumor2Sig": [
@@ -7438,7 +7342,6 @@
     "rtracklayer",
     "bumphunter",
     "preprocessCore",
-    "genefilter",
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
@@ -7535,8 +7438,6 @@
     "DESeq2",
     "biomaRt",
     "Rsamtools",
-    "geneplotter",
-    "genefilter",
     "GenomicFeatures",
     "ProtGenerics",
     "GenomicAlignments",
@@ -7589,8 +7490,7 @@
   "doppelgangR": [
     "BiocParallel",
     "sva",
-    "impute",
-    "genefilter"
+    "impute"
   ],
   "doubletrouble": [
     "syntenet",
@@ -7653,7 +7553,6 @@
   "easyreporting": [],
   "edge": [
     "sva",
-    "genefilter",
     "BiocParallel"
   ],
   "eds": [],
@@ -7739,7 +7638,6 @@
     "GenomicAlignments",
     "OrganismDbi",
     "preprocessCore",
-    "genefilter",
     "HDF5Array",
     "VariantAnnotation",
     "h5mread",
@@ -7989,7 +7887,6 @@
     "preprocessCore",
     "GenomicFeatures",
     "minfi",
-    "genefilter",
     "rtracklayer",
     "bumphunter",
     "HDF5Array",
@@ -8207,7 +8104,6 @@
     "minfi",
     "bumphunter",
     "preprocessCore",
-    "genefilter",
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
@@ -8321,14 +8217,12 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "genefilter": [],
   "genefu": [
     "survcomp",
     "biomaRt",
     "impute",
     "BiocFileCache"
   ],
-  "geneplotter": [],
   "genoCN": [],
   "genomation": [
     "BSgenome",
@@ -8634,7 +8528,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "minfi",
-    "genefilter",
     "bumphunter",
     "HDF5Array",
     "BiocParallel",
@@ -8654,7 +8547,6 @@
     "GenomicFeatures",
     "bumphunter",
     "preprocessCore",
-    "genefilter",
     "HDF5Array",
     "BiocParallel",
     "impute",
@@ -8741,7 +8633,6 @@
     "Category",
     "clusterProfiler",
     "GSEABase",
-    "genefilter",
     "DOSE",
     "enrichplot",
     "GOSemSim",
@@ -8813,8 +8704,7 @@
   ],
   "interactiveDisplay": [
     "Category",
-    "GSEABase",
-    "genefilter"
+    "GSEABase"
   ],
   "ipdDb": [
     "AnnotationHub",
@@ -8932,7 +8822,6 @@
     "BiocFileCache",
     "ClassifyR",
     "MultiAssayExperiment",
-    "genefilter",
     "dcanr",
     "HDF5Array",
     "rhdf5",
@@ -8951,7 +8840,6 @@
     "preprocessCore",
     "rtracklayer",
     "minfi",
-    "genefilter",
     "bumphunter",
     "HDF5Array",
     "BiocParallel",
@@ -9102,8 +8990,7 @@
   "meshr": [
     "BiocStyle",
     "Category",
-    "GSEABase",
-    "genefilter"
+    "GSEABase"
   ],
   "metaCCA": [],
   "metaMS": [
@@ -9154,7 +9041,6 @@
     "biomaRt",
     "DSS",
     "EDASeq",
-    "genefilter",
     "GenomicAlignments",
     "GenomicFeatures",
     "Rsamtools",
@@ -9224,7 +9110,6 @@
     "bsseq",
     "plyranges",
     "bumphunter",
-    "genefilter",
     "BiocParallel",
     "BSgenome",
     "HDF5Array",
@@ -9249,7 +9134,6 @@
     "methylumi",
     "fgsea",
     "ggtree",
-    "genefilter",
     "GenomicFeatures",
     "bumphunter",
     "preprocessCore",
@@ -9314,7 +9198,6 @@
     "BiocFileCache",
     "ExperimentHubData",
     "bumphunter",
-    "genefilter",
     "HDF5Array",
     "BiocParallel",
     "BiocVersion",
@@ -9338,7 +9221,6 @@
   ],
   "methylumi": [
     "minfi",
-    "genefilter",
     "GenomicFeatures",
     "rtracklayer",
     "bumphunter",
@@ -9359,7 +9241,6 @@
     "Category",
     "GOstats",
     "GSEABase",
-    "genefilter",
     "biomaRt",
     "BiocFileCache"
   ],
@@ -9490,7 +9371,6 @@
   "minfi": [
     "bumphunter",
     "preprocessCore",
-    "genefilter",
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
@@ -9505,7 +9385,6 @@
   "missMethyl": [
     "methylumi",
     "minfi",
-    "genefilter",
     "GenomicFeatures",
     "bumphunter",
     "preprocessCore",
@@ -9554,7 +9433,6 @@
     "GenomicAlignments"
   ],
   "mogsa": [
-    "genefilter",
     "GSEABase"
   ],
   "monaLisa": [
@@ -9858,8 +9736,7 @@
     "scuttle",
     "BiocParallel",
     "rhdf5filters",
-    "Rhdf5lib",
-    "genefilter"
+    "Rhdf5lib"
   ],
   "netboost": [
     "impute",
@@ -9959,7 +9836,6 @@
   "omicRexposome": [
     "rexposome",
     "sva",
-    "genefilter",
     "BiocParallel",
     "impute"
   ],
@@ -10043,7 +9919,6 @@
     "BiocParallel",
     "biomaRt",
     "BiocFileCache",
-    "genefilter",
     "mzR",
     "ProtGenerics",
     "PSMatch",
@@ -10074,7 +9949,6 @@
     "biomaRt",
     "preprocessCore",
     "BiocFileCache",
-    "genefilter",
     "Rhdf5lib",
     "Spectra",
     "QFeatures",
@@ -10103,8 +9977,6 @@
     "BiocParallel",
     "biomaRt",
     "Rsamtools",
-    "geneplotter",
-    "genefilter",
     "BiocFileCache"
   ],
   "panelcn.mops": [
@@ -10150,7 +10022,6 @@
   "pcaExplorer": [
     "DESeq2",
     "mosdef",
-    "genefilter",
     "GOstats",
     "biomaRt",
     "BiocFileCache",
@@ -10223,7 +10094,6 @@
     "Category",
     "biomaRt",
     "GSEABase",
-    "genefilter",
     "BiocFileCache"
   ],
   "phenomis": [
@@ -10424,7 +10294,6 @@
   ],
   "protGear": [
     "vsn",
-    "genefilter",
     "affy",
     "preprocessCore"
   ],
@@ -10501,7 +10370,6 @@
     "seqTools",
     "zlibbioc"
   ],
-  "qmtools": [],
   "qpcrNorm": [
     "affy",
     "preprocessCore"
@@ -10522,12 +10390,10 @@
   ],
   "qsmooth": [
     "sva",
-    "genefilter",
     "BiocParallel"
   ],
   "qsvaR": [
     "sva",
-    "genefilter",
     "BiocParallel"
   ],
   "quantiseqr": [
@@ -10537,7 +10403,6 @@
     "minfi",
     "bumphunter",
     "preprocessCore",
-    "genefilter",
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
@@ -10658,7 +10523,6 @@
     "h5mread",
     "bumphunter",
     "preprocessCore",
-    "genefilter",
     "BiocParallel",
     "Rhdf5lib",
     "rhdf5filters",
@@ -10860,8 +10724,6 @@
     "BiocStyle",
     "txdbmaker",
     "biomaRt",
-    "geneplotter",
-    "genefilter",
     "rtracklayer",
     "BiocFileCache",
     "ensembldb",
@@ -10881,8 +10743,7 @@
   "scBFA": [
     "zinbwave",
     "DESeq2",
-    "BiocParallel",
-    "genefilter"
+    "BiocParallel"
   ],
   "scBubbletree": [
     "BiocParallel",
@@ -11082,7 +10943,6 @@
     "BiocFileCache",
     "BiocVersion",
     "GSEABase",
-    "genefilter",
     "BiocParallel",
     "fgsea",
     "GOSemSim",
@@ -11368,7 +11228,6 @@
     "minfi",
     "bumphunter",
     "preprocessCore",
-    "genefilter",
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
@@ -11385,7 +11244,6 @@
     "rtracklayer",
     "bumphunter",
     "preprocessCore",
-    "genefilter",
     "HDF5Array",
     "BiocParallel",
     "Rsamtools",
@@ -11490,7 +11348,6 @@
     "GSEABase",
     "zinbwave",
     "scDblFinder",
-    "TSCAN",
     "scuttle",
     "zellkonverter",
     "BiocFileCache",
@@ -11513,7 +11370,6 @@
     "M3Drop",
     "metapod",
     "alabaster.sce",
-    "genefilter",
     "basilisk",
     "alabaster.schemas",
     "alabaster.ranges",
@@ -11551,7 +11407,6 @@
     "methylumi",
     "wateRmelon",
     "minfi",
-    "genefilter",
     "GenomicFeatures",
     "bumphunter",
     "preprocessCore",
@@ -11630,9 +11485,7 @@
     "BiocFileCache",
     "BiocVersion"
   ],
-  "spatialHeatmap": [
-    "genefilter"
-  ],
+  "spatialHeatmap": [],
   "spatialSimGP": [
     "SpatialExperiment",
     "BiocFileCache"
@@ -11662,7 +11515,6 @@
     "ClassifyR",
     "simpleSeg",
     "MultiAssayExperiment",
-    "genefilter",
     "dcanr",
     "cytomapper",
     "BiocFileCache",
@@ -11791,7 +11643,6 @@
   ],
   "survcomp": [],
   "sva": [
-    "genefilter",
     "BiocParallel"
   ],
   "svaNUMT": [
@@ -11864,7 +11715,6 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "tRNAdbImport": [],
   "tRNAscanImport": [
     "rtracklayer",
     "BSgenome",
@@ -11970,7 +11820,6 @@
   "tilingArray": [
     "affy",
     "vsn",
-    "genefilter",
     "preprocessCore"
   ],
   "timeOmics": [
@@ -12105,7 +11954,6 @@
   ],
   "trigger": [
     "sva",
-    "genefilter",
     "BiocParallel"
   ],
   "tripr": [],
@@ -12265,7 +12113,6 @@
     "affy",
     "GenomicFeatures",
     "preprocessCore",
-    "genefilter",
     "rtracklayer",
     "bumphunter",
     "HDF5Array",
@@ -12362,7 +12209,6 @@
     "BiocFileCache",
     "minfi",
     "bumphunter",
-    "genefilter",
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
@@ -12387,8 +12233,7 @@
     "BiocParallel"
   ],
   "zinbwave": [
-    "BiocParallel",
-    "genefilter"
+    "BiocParallel"
   ],
   "zitools": [
     "phyloseq",

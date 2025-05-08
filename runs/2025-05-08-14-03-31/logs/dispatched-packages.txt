@@ -907,3 +907,10 @@ celaref
 gatom
 slingshot
 iSEEu
+CNTools
+GeneMeta
+MLInterfaces
+a4Base
+biocGraph
+covRNA
+spatialHeatmap
