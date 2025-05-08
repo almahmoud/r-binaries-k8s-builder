@@ -581,3 +581,7 @@ hapFabia
 hyperdraw
 mbQTL
 mosbi
+Biostrings
+GenomicRanges
+SparseArray
+islify

@@ -1,12 +1,4 @@
-EBcoexpress
-GeneNetworkBuilder
-Maaslin2
-NCIgraph
-a4Classif
-fedup
-gaga
-geNetClassifier
-hapFabia
-hyperdraw
-mbQTL
-mosbi
+Biostrings
+GenomicRanges
+SparseArray
+islify

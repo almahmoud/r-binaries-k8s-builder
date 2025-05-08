@@ -3,3 +3,4 @@ genoCN
 RbowtieCuda
 gpuMagic
 HilbertVis
+NormqPCR
