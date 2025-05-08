@@ -17,7 +17,7 @@ sanitize_name() {
 RUN_ID=$(sanitize_name "$1")
 SUCCESS_PKGS=$2
 FAILED_PKGS=$3
-BUSYBOX_POD="busybox-${RUN_ID}"
+BIOC_POD="bioc-${RUN_ID}"
 NAMESPACE="ns-${RUN_ID}"
 
 # Create directory structure
@@ -51,9 +51,9 @@ echo "${JOBS}" | while read -r JOB_NAME PKG; do
     mkdir -p "${LOG_DIR}"
     TMP_LOG="${LOG_DIR}/temp.log"
 
-    # Copy logs from PVC via busybox pod
+    # Copy logs from PVC via bioc pod
     echo "  Copying logs from cluster..."
-    if ! kubectl cp "${BUSYBOX_POD}:/mnt/logs/${PKG}.log" "${TMP_LOG}" -n ${NAMESPACE} >/dev/null 2>&1; then
+    if ! kubectl cp "${BIOC_POD}:/mnt/logs/${PKG}.log" "${TMP_LOG}" -n ${NAMESPACE} >/dev/null 2>&1; then
         echo "  Log file not found, marking as failed..."
         echo "Build failed: Log file missing" > "${LOG_DIR}/build-fail.log"
         rm -f "${TMP_LOG}"
