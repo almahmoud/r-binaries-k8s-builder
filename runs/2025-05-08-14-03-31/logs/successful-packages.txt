@@ -445,3 +445,8 @@ sangerseqR
 SynExtend
 transomics2cytoscape
 NanoStringNCTools
+beachmat.tiledb
+epiNEM
+FELLA
+GenomicRanges
+uSORT
