@@ -1,4 +1,11 @@
-BiGGR
-DEGraph
-DelayedArray
-MEIGOR
+DelayedDataFrame
+DelayedMatrixStats
+DelayedRandomArray
+Rarr
+ResidualMatrix
+SQLDataFrame
+ScaledMatrix
+TileDBArray
+adverSCarial
+beachmat
+rhdf5client

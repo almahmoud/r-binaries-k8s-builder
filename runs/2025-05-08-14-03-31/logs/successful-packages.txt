@@ -379,3 +379,8 @@ mbQTL
 mosbi
 NCIgraph
 SparseArray
+a4Classif
+DelayedArray
+GSEAlm
+islify
+simona
