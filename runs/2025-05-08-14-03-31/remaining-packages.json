@@ -134,7 +134,6 @@
     "BiocParallel",
     "BSgenome"
   ],
-  "AUCell": [],
   "AffiXcan": [
     "MultiAssayExperiment",
     "BiocParallel",
@@ -681,7 +680,6 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "CCPROMISE": [],
   "CDI": [
     "BiocParallel"
   ],
@@ -2145,7 +2143,6 @@
     "BiocVersion"
   ],
   "GSEAmining": [],
-  "GSRI": [],
   "GSReg": [
     "GenomicFeatures",
     "rtracklayer",
@@ -4425,9 +4422,7 @@
   ],
   "RbowtieCuda": [],
   "Rbwa": [],
-  "RcisTarget": [
-    "AUCell"
-  ],
+  "RcisTarget": [],
   "Rcwl": [
     "BiocParallel",
     "basilisk",
@@ -7542,7 +7537,6 @@
     "bluster",
     "scran",
     "scuttle",
-    "AUCell",
     "motifmatchr",
     "BiocFileCache",
     "BiocVersion",
@@ -7675,7 +7669,6 @@
     "treeio"
   ],
   "escape": [
-    "AUCell",
     "BiocParallel",
     "GSVA",
     "UCell",
@@ -9294,7 +9287,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "mogsa": [],
   "monaLisa": [
     "BiocParallel",
     "BSgenome",
@@ -10665,7 +10657,6 @@
   "scFeatures": [
     "GSVA",
     "ensembldb",
-    "AUCell",
     "BiocParallel",
     "SingleCellSignalR",
     "GenomicFeatures",

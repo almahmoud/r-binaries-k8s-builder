@@ -726,3 +726,7 @@ slalom
 splineTimeR
 TissueEnrich
 TMSig
+AUCell
+CCPROMISE
+GSRI
+mogsa
