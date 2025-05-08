@@ -730,3 +730,6 @@ AUCell
 CCPROMISE
 GSRI
 mogsa
+GlobalAncova
+MLP
+spatialHeatmap

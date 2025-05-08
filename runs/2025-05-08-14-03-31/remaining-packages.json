@@ -2384,7 +2384,6 @@
   "GloScope": [
     "BiocParallel"
   ],
-  "GlobalAncova": [],
   "GmicR": [
     "Category",
     "GOstats",
@@ -2981,7 +2980,6 @@
     "ggtree",
     "treeio"
   ],
-  "MLP": [],
   "MLSeq": [
     "DESeq2",
     "sSeq",
@@ -7688,9 +7686,7 @@
     "SpatialExperiment",
     "BiocFileCache"
   ],
-  "esetVis": [
-    "MLP"
-  ],
+  "esetVis": [],
   "eudysbiome": [
     "Rsamtools",
     "BiocParallel"
@@ -11302,7 +11298,6 @@
     "BiocFileCache",
     "BiocVersion"
   ],
-  "spatialHeatmap": [],
   "spatialSimGP": [
     "SpatialExperiment",
     "BiocFileCache"
