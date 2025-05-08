@@ -564,3 +564,14 @@ ccfindR
 eisaR
 KEGGlincs
 XAItest
+annotate
+ASURAT
+ccmap
+dittoSeq
+FuseSOM
+hummingbird
+iSEE
+miQC
+sccomp
+tidySummarizedExperiment
+tomoda

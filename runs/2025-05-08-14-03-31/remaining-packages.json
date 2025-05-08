@@ -24,12 +24,10 @@
     "affy",
     "vsn",
     "genefilter",
-    "preprocessCore",
-    "annotate"
+    "preprocessCore"
   ],
   "AGDEX": [
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "AHMassBank": [
     "AnnotationHubData",
@@ -94,10 +92,8 @@
   "ASSIGN": [
     "sva",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
-  "ASURAT": [],
   "ASpli": [
     "GenomicFeatures",
     "GenomicAlignments",
@@ -149,8 +145,7 @@
     "BSgenome"
   ],
   "AUCell": [
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "AffiXcan": [
     "MultiAssayExperiment",
@@ -172,7 +167,6 @@
     "Glimma",
     "DESeq2",
     "Category",
-    "annotate",
     "GSEABase",
     "ggbio",
     "genefilter",
@@ -329,8 +323,7 @@
   "BERT": [
     "sva",
     "BiocParallel",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "BEclear": [
     "BiocParallel"
@@ -430,8 +423,7 @@
     "BiocSingular",
     "bluster",
     "metapod",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "BatchSVG": [
     "scry",
@@ -482,14 +474,12 @@
   "BiSeq": [
     "rtracklayer",
     "globaltest",
-    "annotate",
     "Rsamtools",
     "GenomicAlignments",
     "BiocParallel"
   ],
   "BicARE": [
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "BindingSiteFinder": [
     "rtracklayer",
@@ -501,8 +491,7 @@
   "BioCartaImage": [],
   "BioCor": [
     "BiocParallel",
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "BioGA": [
     "BiocStyle"
@@ -521,8 +510,7 @@
     "BiocParallel",
     "genefilter",
     "impute",
-    "preprocessCore",
-    "annotate"
+    "preprocessCore"
   ],
   "BioNet": [],
   "BioTIP": [
@@ -612,7 +600,6 @@
     "biovizBase",
     "ggbio",
     "affy",
-    "annotate",
     "preprocessCore",
     "Rsamtools",
     "GenomicAlignments",
@@ -730,8 +717,7 @@
   ],
   "CCPROMISE": [
     "PROMISE",
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "CDI": [
     "BiocParallel"
@@ -775,13 +761,11 @@
   "CNEr": [
     "rtracklayer",
     "GenomicAlignments",
-    "annotate",
     "Rsamtools",
     "BiocParallel"
   ],
   "CNTools": [
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "CNVMetrics": [
     "BiocParallel"
@@ -892,7 +876,6 @@
     "preprocessCore"
   ],
   "CRISPRball": [
-    "dittoSeq",
     "PCAtools",
     "BiocSingular",
     "BiocParallel"
@@ -967,8 +950,7 @@
   ],
   "Category": [
     "GSEABase",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "CatsCradle": [
     "SpatialExperiment",
@@ -1017,7 +999,6 @@
     "GSEABase",
     "HDF5Array",
     "BiocParallel",
-    "annotate",
     "h5mread",
     "rhdf5",
     "rhdf5filters",
@@ -1050,7 +1031,6 @@
     "bsseq",
     "Gviz",
     "biomaRt",
-    "annotate",
     "rtracklayer",
     "genefilter",
     "GEOquery",
@@ -1166,7 +1146,6 @@
   ],
   "Chicago": [],
   "ChromHeatMap": [
-    "annotate",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -1215,7 +1194,6 @@
     "BiocParallel",
     "genefilter",
     "dcanr",
-    "annotate",
     "BiocBaseUtils"
   ],
   "CleanUpRNAseq": [
@@ -1231,8 +1209,7 @@
     "ProtGenerics",
     "sva",
     "GenomicAlignments",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "Clomial": [],
   "CluMSID": [
@@ -1492,8 +1469,7 @@
     "Rsamtools",
     "geneplotter",
     "genefilter",
-    "BiocFileCache",
-    "annotate"
+    "BiocFileCache"
   ],
   "DEsingle": [
     "BiocParallel"
@@ -1510,8 +1486,7 @@
     "sva",
     "zlibbioc",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "DMCFB": [
     "BiocParallel",
@@ -1552,7 +1527,6 @@
     "methylumi",
     "VariantAnnotation",
     "ProtGenerics",
-    "annotate",
     "h5mread",
     "Rhdf5lib",
     "rhdf5filters"
@@ -1607,7 +1581,6 @@
     "GenomicFeatures",
     "genefilter",
     "BiocFileCache",
-    "annotate",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -1640,7 +1613,6 @@
     "BSgenome",
     "HDF5Array",
     "rhdf5",
-    "annotate",
     "rtracklayer",
     "Rsamtools",
     "h5mread",
@@ -1775,7 +1747,6 @@
     "biomaRt",
     "ArrayExpress",
     "GEOquery",
-    "annotate",
     "preprocessCore",
     "oligo",
     "BiocFileCache",
@@ -1830,7 +1801,6 @@
     "GSVA",
     "globaltest",
     "safe",
-    "annotate",
     "GSEABase",
     "BiocParallel",
     "SpatialExperiment",
@@ -1886,7 +1856,6 @@
     "genefilter",
     "BiocFileCache",
     "BiocVersion",
-    "annotate",
     "bumphunter",
     "preprocessCore",
     "GEOquery",
@@ -1946,8 +1915,7 @@
     "GSEABase",
     "graphite",
     "pathview",
-    "safe",
-    "annotate"
+    "safe"
   ],
   "EpiCompare": [
     "AnnotationHub",
@@ -2143,7 +2111,6 @@
     "RProtoBufLib",
     "Rhdf5lib"
   ],
-  "FuseSOM": [],
   "GA4GHclient": [
     "VariantAnnotation",
     "Rsamtools",
@@ -2178,7 +2145,6 @@
     "GenomicFeatures",
     "genefilter",
     "BiocFileCache",
-    "annotate",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -2215,8 +2181,7 @@
     "GEOquery",
     "impute",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "GEOmetadb": [],
   "GEOquery": [],
@@ -2266,7 +2231,6 @@
   ],
   "GOstats": [
     "Category",
-    "annotate",
     "GSEABase",
     "genefilter"
   ],
@@ -2293,9 +2257,7 @@
     "Rhdf5lib",
     "rhdf5filters"
   ],
-  "GSEABase": [
-    "annotate"
-  ],
+  "GSEABase": [],
   "GSEABenchmarkeR": [
     "AnnotationHub",
     "BiocFileCache",
@@ -2306,14 +2268,12 @@
     "GSEABase",
     "graphite",
     "pathview",
-    "safe",
-    "annotate"
+    "safe"
   ],
   "GSEAmining": [],
   "GSRI": [
     "genefilter",
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "GSReg": [
     "GenomicFeatures",
@@ -2332,7 +2292,6 @@
     "SpatialExperiment",
     "HDF5Array",
     "BiocSingular",
-    "annotate",
     "h5mread",
     "rhdf5",
     "BiocFileCache",
@@ -2427,8 +2386,7 @@
     "zlibbioc"
   ],
   "GeneMeta": [
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "GeneStructureTools": [
     "Gviz",
@@ -2568,7 +2526,6 @@
   ],
   "GlobalAncova": [
     "globaltest",
-    "annotate",
     "GSEABase"
   ],
   "GmicR": [
@@ -2576,7 +2533,6 @@
     "GSEABase",
     "GOstats",
     "genefilter",
-    "annotate",
     "impute",
     "preprocessCore"
   ],
@@ -2631,8 +2587,7 @@
   "HarmonizR": [
     "sva",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "Harshlight": [
     "affy",
@@ -2861,7 +2816,6 @@
     "rtracklayer",
     "VariantAnnotation",
     "BiocFileCache",
-    "annotate",
     "BSgenome"
   ],
   "InterCellar": [
@@ -2894,8 +2848,7 @@
     "BiocFileCache",
     "AnnotationHub",
     "BiocVersion",
-    "ProtGenerics",
-    "annotate"
+    "ProtGenerics"
   ],
   "KBoost": [],
   "KinSwingR": [
@@ -2905,8 +2858,7 @@
     "cqn",
     "sva",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "LACE": [
     "biomaRt",
@@ -3013,7 +2965,6 @@
     "rhdf5filters",
     "Rhdf5lib",
     "minfi",
-    "annotate",
     "genefilter",
     "GenomicFeatures",
     "rtracklayer",
@@ -3066,7 +3017,6 @@
     "genefilter",
     "BiocParallel",
     "rhdf5",
-    "annotate",
     "Rhdf5lib",
     "rhdf5filters"
   ],
@@ -3109,7 +3059,6 @@
     "BiocFileCache",
     "VariantAnnotation",
     "ProtGenerics",
-    "annotate",
     "h5mread",
     "rhdf5",
     "rhdf5filters",
@@ -3128,7 +3077,6 @@
     "methylumi",
     "lumi",
     "GenomicFeatures",
-    "annotate",
     "h5mread",
     "rhdf5",
     "affy",
@@ -3155,12 +3103,9 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "MGFM": [
-    "annotate"
-  ],
+  "MGFM": [],
   "MGFR": [
     "biomaRt",
-    "annotate",
     "BiocFileCache"
   ],
   "MGnifyR": [
@@ -3210,7 +3155,6 @@
     "treeio"
   ],
   "MLInterfaces": [
-    "annotate",
     "genefilter"
   ],
   "MLP": [],
@@ -3253,7 +3197,6 @@
     "graphite",
     "qpgraph",
     "BiocBaseUtils",
-    "annotate",
     "BiocParallel",
     "GenomicFeatures",
     "rtracklayer",
@@ -3285,8 +3228,7 @@
     "preprocessCore",
     "sva",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "MSnID": [
     "MSnbase",
@@ -3428,8 +3370,7 @@
     "BiocParallel",
     "affy",
     "preprocessCore",
-    "BiocVersion",
-    "annotate"
+    "BiocVersion"
   ],
   "MatrixRider": [
     "TFBSTools",
@@ -3532,7 +3473,6 @@
     "GEOquery",
     "HDF5Array",
     "GenomicFeatures",
-    "annotate",
     "h5mread",
     "rhdf5",
     "rtracklayer",
@@ -3549,7 +3489,6 @@
     "BSgenome",
     "geneplotter",
     "Rsamtools",
-    "annotate",
     "GenomicAlignments",
     "BiocParallel"
   ],
@@ -3577,7 +3516,6 @@
   "MineICA": [
     "biomaRt",
     "GOstats",
-    "annotate",
     "lumi",
     "BiocFileCache",
     "Category",
@@ -3830,8 +3768,7 @@
   "NBAMSeq": [
     "DESeq2",
     "BiocParallel",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "NPARC": [
     "BiocParallel"
@@ -4010,8 +3947,7 @@
   "PAA": [
     "sva",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "PADOG": [],
   "PAIRADISE": [
@@ -4052,7 +3988,6 @@
     "affy",
     "genefilter",
     "preprocessCore",
-    "annotate",
     "BiocParallel",
     "aroma.light",
     "DNAcopy"
@@ -4100,8 +4035,7 @@
     "RankProd",
     "sva",
     "BiocParallel",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "POWSC": [
     "MAST"
@@ -4112,12 +4046,9 @@
     "BiocFileCache",
     "BiocParallel"
   ],
-  "PREDA": [
-    "annotate"
-  ],
+  "PREDA": [],
   "PROMISE": [
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "PRONE": [
     "NormalyzerDE",
@@ -4142,7 +4073,6 @@
     "Spectra",
     "QFeatures",
     "genefilter",
-    "annotate",
     "MultiAssayExperiment",
     "MetaboCoreUtils",
     "BiocBaseUtils"
@@ -4150,8 +4080,7 @@
   "PROPS": [
     "sva",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "PROcess": [
     "Icens"
@@ -4172,7 +4101,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "annotate",
     "BiocParallel",
     "fgsea",
     "ggtree",
@@ -4452,7 +4380,6 @@
     "HDF5Array",
     "GenomicAlignments",
     "GenomicFeatures",
-    "annotate",
     "h5mread",
     "rhdf5",
     "rhdf5filters",
@@ -4734,8 +4661,7 @@
   "Rbwa": [],
   "RcisTarget": [
     "AUCell",
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "Rcpi": [
     "GOSemSim"
@@ -4842,7 +4768,6 @@
   "ReportingTools": [
     "Category",
     "GOstats",
-    "annotate",
     "GSEABase",
     "DESeq2",
     "ggbio",
@@ -4943,7 +4868,6 @@
   "RnBeads": [
     "methylumi",
     "minfi",
-    "annotate",
     "genefilter",
     "GenomicFeatures",
     "rtracklayer",
@@ -5028,8 +4952,7 @@
     "preprocessCore",
     "oligoClasses",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "SCANVIS": [
     "rtracklayer",
@@ -5071,11 +4994,9 @@
     "BiocParallel",
     "DESeq2",
     "sva",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "SGCP": [
-    "annotate",
     "genefilter",
     "GOstats",
     "Category",
@@ -5101,8 +5022,7 @@
   ],
   "SIM": [
     "globaltest",
-    "quantsmooth",
-    "annotate"
+    "quantsmooth"
   ],
   "SIMAT": [
     "mzR",
@@ -5152,7 +5072,6 @@
   ],
   "SPIAT": [
     "SpatialExperiment",
-    "dittoSeq",
     "BiocFileCache"
   ],
   "SPLINTER": [
@@ -5214,9 +5133,7 @@
     "RProtoBufLib",
     "Rhdf5lib"
   ],
-  "SemDist": [
-    "annotate"
-  ],
+  "SemDist": [],
   "SeqArray": [],
   "SeqGSEA": [
     "DESeq2",
@@ -5242,7 +5159,6 @@
   "SigCheck": [
     "MLInterfaces",
     "BiocParallel",
-    "annotate",
     "genefilter"
   ],
   "SigFuge": [],
@@ -5410,7 +5326,6 @@
     "rtracklayer",
     "BiocVersion",
     "Rsamtools",
-    "annotate",
     "rhdf5filters",
     "Rhdf5lib",
     "ExperimentHub",
@@ -5511,7 +5426,6 @@
     "SpatialExperiment",
     "HDF5Array",
     "BiocSingular",
-    "annotate",
     "h5mread",
     "rhdf5",
     "BiocFileCache",
@@ -5632,7 +5546,6 @@
     "rtracklayer",
     "GenomicAlignments",
     "VariantAnnotation",
-    "annotate",
     "BSgenome",
     "GenomicFeatures"
   ],
@@ -5643,8 +5556,7 @@
     "DNAcopy"
   ],
   "TMSig": [
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "TMixClust": [
     "BiocParallel"
@@ -5658,7 +5570,6 @@
     "BiocParallel",
     "genefilter",
     "dcanr",
-    "annotate",
     "BiocBaseUtils"
   ],
   "TPP2D": [
@@ -5698,8 +5609,7 @@
   "TargetSearch": [],
   "TaxSEA": [],
   "TissueEnrich": [
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "TitanCNA": [
     "VariantAnnotation",
@@ -5744,7 +5654,6 @@
     "Rsamtools",
     "Rbowtie2",
     "GenomicAlignments",
-    "annotate",
     "GenomicFeatures",
     "BiocFileCache",
     "rtracklayer",
@@ -5818,8 +5727,7 @@
     "sva",
     "rtracklayer",
     "BiocParallel",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "VanillaICE": [
     "oligoClasses",
@@ -5927,8 +5835,7 @@
   ],
   "XDE": [
     "genefilter",
-    "GeneMeta",
-    "annotate"
+    "GeneMeta"
   ],
   "XNAString": [
     "BSgenome",
@@ -5988,13 +5895,11 @@
   "a4": [
     "a4Base",
     "annaffy",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "a4Base": [
     "annaffy",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "abseqR": [
     "BiocParallel",
@@ -6037,7 +5942,6 @@
     "preprocessCore",
     "DESeq2",
     "Category",
-    "annotate",
     "GSEABase",
     "ggbio",
     "genefilter",
@@ -6259,10 +6163,8 @@
   "annmap": [
     "Rsamtools",
     "genefilter",
-    "annotate",
     "BiocParallel"
   ],
-  "annotate": [],
   "annotatr": [
     "AnnotationHub",
     "GenomicFeatures",
@@ -6310,7 +6212,6 @@
     "preprocessCore",
     "methylumi",
     "GenomicFeatures",
-    "annotate",
     "rtracklayer",
     "minfi",
     "genefilter",
@@ -6333,8 +6234,7 @@
     "vsn",
     "preprocessCore",
     "gcrma",
-    "BeadDataPackR",
-    "annotate"
+    "BeadDataPackR"
   ],
   "artMS": [
     "MSstats",
@@ -6364,7 +6264,6 @@
   "attract": [
     "GOstats",
     "Category",
-    "annotate",
     "GSEABase",
     "genefilter"
   ],
@@ -6385,8 +6284,7 @@
     "Rsamtools",
     "GenomicAlignments",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "bambu": [
     "BSgenome",
@@ -6415,7 +6313,6 @@
     "biomaRt",
     "preprocessCore",
     "BiocFileCache",
-    "annotate",
     "genefilter",
     "Rhdf5lib",
     "Spectra",
@@ -6487,7 +6384,6 @@
     "treeio",
     "genefilter",
     "rhdf5",
-    "annotate",
     "Rhdf5lib",
     "rhdf5filters"
   ],
@@ -6496,7 +6392,6 @@
     "minfi",
     "methylumi",
     "GEOquery",
-    "annotate",
     "genefilter",
     "GenomicFeatures",
     "bumphunter",
@@ -6539,8 +6434,7 @@
     "GenomicAlignments"
   ],
   "biocGraph": [
-    "geneplotter",
-    "annotate"
+    "geneplotter"
   ],
   "biocmake": [
     "dir.expiry"
@@ -6649,8 +6543,7 @@
     "Rsamtools",
     "geneplotter",
     "genefilter",
-    "BiocFileCache",
-    "annotate"
+    "BiocFileCache"
   ],
   "blima": [
     "beadarray",
@@ -6667,8 +6560,7 @@
     "BiocParallel",
     "Rhdf5lib",
     "rhdf5filters",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "bnem": [
     "affy",
@@ -6676,8 +6568,7 @@
     "vsn",
     "preprocessCore",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "borealis": [
     "bsseq",
@@ -6723,7 +6614,6 @@
     "enrichplot",
     "GOSemSim",
     "BiocParallel",
-    "annotate",
     "fgsea",
     "ggtree",
     "treeio"
@@ -6794,7 +6684,6 @@
     "genefilter",
     "impute",
     "preprocessCore",
-    "annotate",
     "biomaRt",
     "BiocFileCache"
   ],
@@ -6809,7 +6698,6 @@
     "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
-    "annotate",
     "Category",
     "biomaRt",
     "genefilter",
@@ -6844,7 +6732,6 @@
     "GSEABase",
     "Category",
     "GOstats",
-    "annotate",
     "genefilter"
   ],
   "cbaf": [
@@ -6857,7 +6744,6 @@
     "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
-    "annotate",
     "AnVILBase",
     "GenomicFeatures",
     "rtracklayer",
@@ -6873,7 +6759,6 @@
   "ccImpute": [
     "BiocParallel"
   ],
-  "ccmap": [],
   "ccrepe": [],
   "ceRNAnetsim": [],
   "celaref": [
@@ -6934,8 +6819,7 @@
   "cghMCR": [
     "DNAcopy",
     "CNTools",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "chevreulPlot": [
     "chevreulProcess",
@@ -7093,7 +6977,6 @@
   ],
   "clipper": [
     "qpgraph",
-    "annotate",
     "BiocParallel",
     "GenomicFeatures",
     "rtracklayer",
@@ -7141,7 +7024,6 @@
     "rhdf5",
     "Rhdf5lib",
     "genefilter",
-    "annotate",
     "rhdf5filters"
   ],
   "clusterProfiler": [
@@ -7191,9 +7073,7 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "codelink": [
-    "annotate"
-  ],
+  "codelink": [],
   "cogeqc": [
     "ggtree",
     "treeio"
@@ -7289,7 +7169,6 @@
     "HDF5Array",
     "BiocSingular",
     "BiocFileCache",
-    "annotate",
     "h5mread",
     "rhdf5",
     "rhdf5filters",
@@ -7314,7 +7193,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "GenomicFeatures",
-    "annotate",
     "h5mread",
     "rhdf5",
     "rhdf5filters",
@@ -7355,25 +7233,21 @@
     "CARNIVAL",
     "GSEABase",
     "decoupleR",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "countsimQC": [
     "DESeq2",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "covRNA": [
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "cpvSNP": [
     "GenomicFeatures",
     "GSEABase",
     "BiocParallel",
     "rtracklayer",
-    "annotate",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -7703,7 +7577,6 @@
     "BiocParallel"
   ],
   "debrowser": [
-    "annotate",
     "DESeq2",
     "DOSE",
     "clusterProfiler",
@@ -7749,7 +7622,6 @@
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
-    "annotate",
     "h5mread",
     "rhdf5",
     "GenomicAlignments",
@@ -7849,8 +7721,7 @@
     "GenomicFeatures",
     "ProtGenerics",
     "GenomicAlignments",
-    "BiocFileCache",
-    "annotate"
+    "BiocFileCache"
   ],
   "diffcoexp": [
     "impute",
@@ -7871,7 +7742,6 @@
     "BiocSingular",
     "BiocParallel"
   ],
-  "dittoSeq": [],
   "dks": [],
   "dmrseq": [
     "bsseq",
@@ -7901,8 +7771,7 @@
     "BiocParallel",
     "sva",
     "impute",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "doseR": [],
   "doubletrouble": [
@@ -7919,7 +7788,6 @@
     "GSEABase",
     "zenith",
     "BiocParallel",
-    "annotate",
     "EnrichmentBrowser",
     "BiocFileCache",
     "graphite",
@@ -7971,8 +7839,7 @@
   "edge": [
     "sva",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "eds": [],
   "enhancerHomologSearch": [
@@ -8061,7 +7928,6 @@
     "GEOquery",
     "HDF5Array",
     "VariantAnnotation",
-    "annotate",
     "h5mread",
     "rhdf5",
     "txdbmaker",
@@ -8091,7 +7957,6 @@
     "metapod",
     "alabaster.base",
     "rtracklayer",
-    "annotate",
     "h5mread",
     "BiocBaseUtils",
     "Rhdf5lib",
@@ -8217,7 +8082,6 @@
     "GSEABase",
     "GSVA",
     "UCell",
-    "annotate",
     "SpatialExperiment",
     "HDF5Array",
     "BiocSingular",
@@ -8310,7 +8174,6 @@
     "methylumi",
     "preprocessCore",
     "GenomicFeatures",
-    "annotate",
     "minfi",
     "genefilter",
     "rtracklayer",
@@ -8539,7 +8402,6 @@
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
-    "annotate",
     "h5mread",
     "rhdf5",
     "rtracklayer",
@@ -8655,18 +8517,14 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "genefilter": [
-    "annotate"
-  ],
+  "genefilter": [],
   "genefu": [
     "survcomp",
     "biomaRt",
     "impute",
     "BiocFileCache"
   ],
-  "geneplotter": [
-    "annotate"
-  ],
+  "geneplotter": [],
   "genoCN": [],
   "genomation": [
     "BSgenome",
@@ -8700,7 +8558,6 @@
   "gep2pep": [
     "GSEABase",
     "rhdf5",
-    "annotate",
     "Rhdf5lib",
     "rhdf5filters"
   ],
@@ -8799,9 +8656,7 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "globaltest": [
-    "annotate"
-  ],
+  "globaltest": [],
   "gmapR": [
     "Rsamtools",
     "rtracklayer",
@@ -8965,7 +8820,6 @@
     "BiocFileCache",
     "BiocVersion"
   ],
-  "hummingbird": [],
   "hypeR": [
     "BiocStyle"
   ],
@@ -8984,7 +8838,6 @@
     "affy",
     "methylumi",
     "GenomicFeatures",
-    "annotate",
     "rtracklayer",
     "minfi",
     "genefilter",
@@ -9019,7 +8872,6 @@
     "enrichplot",
     "GOSemSim",
     "fgsea",
-    "annotate",
     "rtracklayer",
     "h5mread",
     "rhdf5",
@@ -9037,37 +8889,27 @@
   "iPath": [
     "BiocParallel"
   ],
-  "iSEE": [],
   "iSEEde": [
-    "iSEE",
     "DESeq2",
     "BiocParallel"
   ],
   "iSEEfier": [
-    "iSEE",
     "iSEEu",
     "BiocBaseUtils",
     "iSEEhex"
   ],
-  "iSEEhex": [
-    "iSEE"
-  ],
+  "iSEEhex": [],
   "iSEEhub": [
     "ExperimentHub",
     "AnnotationHub",
-    "iSEE",
     "BiocFileCache",
     "BiocVersion"
   ],
   "iSEEindex": [
-    "BiocFileCache",
-    "iSEE"
+    "BiocFileCache"
   ],
-  "iSEEpathways": [
-    "iSEE"
-  ],
+  "iSEEpathways": [],
   "iSEEtree": [
-    "iSEE",
     "ggtree",
     "miaViz",
     "mia",
@@ -9083,7 +8925,6 @@
     "BiocSingular"
   ],
   "iSEEu": [
-    "iSEE",
     "iSEEhex"
   ],
   "iasva": [
@@ -9112,7 +8953,6 @@
     "rtracklayer",
     "GenomicFeatures",
     "Category",
-    "annotate",
     "clusterProfiler",
     "GSEABase",
     "genefilter",
@@ -9128,9 +8968,7 @@
     "BiocFileCache",
     "treeio"
   ],
-  "idiogram": [
-    "annotate"
-  ],
+  "idiogram": [],
   "igvR": [
     "GenomicAlignments",
     "rtracklayer",
@@ -9193,8 +9031,7 @@
   "interactiveDisplay": [
     "Category",
     "GSEABase",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "ipdDb": [
     "AnnotationHub",
@@ -9318,7 +9155,6 @@
     "dcanr",
     "HDF5Array",
     "rhdf5",
-    "annotate",
     "h5mread",
     "BiocBaseUtils",
     "Rhdf5lib",
@@ -9331,7 +9167,6 @@
     "affy",
     "methylumi",
     "GenomicFeatures",
-    "annotate",
     "preprocessCore",
     "rtracklayer",
     "minfi",
@@ -9459,7 +9294,6 @@
   ],
   "mastR": [
     "GSEABase",
-    "annotate",
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
@@ -9490,8 +9324,7 @@
     "BiocStyle",
     "Category",
     "GSEABase",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "metaCCA": [],
   "metaMS": [
@@ -9555,7 +9388,6 @@
     "bsseq",
     "ShortRead",
     "aroma.light",
-    "annotate",
     "affy",
     "preprocessCore",
     "BSgenome",
@@ -9620,7 +9452,6 @@
     "HDF5Array",
     "rhdf5",
     "GenomicFeatures",
-    "annotate",
     "preprocessCore",
     "GEOquery",
     "rtracklayer",
@@ -9641,7 +9472,6 @@
     "methylumi",
     "fgsea",
     "ggtree",
-    "annotate",
     "genefilter",
     "GenomicFeatures",
     "bumphunter",
@@ -9715,7 +9545,6 @@
     "BiocVersion",
     "GenomicFeatures",
     "AnnotationHubData",
-    "annotate",
     "h5mread",
     "rhdf5",
     "Rsamtools",
@@ -9734,7 +9563,6 @@
   ],
   "methylumi": [
     "minfi",
-    "annotate",
     "genefilter",
     "GenomicFeatures",
     "rtracklayer",
@@ -9750,7 +9578,6 @@
     "rhdf5filters",
     "Rhdf5lib"
   ],
-  "miQC": [],
   "miRLAB": [
     "impute",
     "TCGAbiolinks",
@@ -9759,7 +9586,6 @@
     "GOstats",
     "GSEABase",
     "genefilter",
-    "annotate",
     "biomaRt",
     "BiocFileCache"
   ],
@@ -9774,7 +9600,6 @@
     "GOSemSim",
     "BiocParallel",
     "fgsea",
-    "annotate",
     "graphite",
     "impute",
     "preprocessCore",
@@ -9809,7 +9634,6 @@
     "treeio"
   ],
   "miaDash": [
-    "iSEE",
     "biomformat",
     "iSEEtree",
     "mia",
@@ -9900,7 +9724,6 @@
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
-    "annotate",
     "h5mread",
     "rhdf5",
     "rtracklayer",
@@ -9912,7 +9735,6 @@
   "missMethyl": [
     "methylumi",
     "minfi",
-    "annotate",
     "genefilter",
     "GenomicFeatures",
     "bumphunter",
@@ -9968,8 +9790,7 @@
   "mogsa": [
     "graphite",
     "genefilter",
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "monaLisa": [
     "BiocParallel",
@@ -10276,8 +10097,7 @@
     "BiocParallel",
     "rhdf5filters",
     "Rhdf5lib",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "netboost": [
     "impute",
@@ -10312,8 +10132,7 @@
     "BiocParallel"
   ],
   "npGSEA": [
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "nucleR": [
     "Rsamtools",
@@ -10351,7 +10170,6 @@
     "Rhdf5lib",
     "rhdf5filters",
     "rtracklayer",
-    "annotate",
     "h5mread",
     "GenomicAlignments"
   ],
@@ -10385,7 +10203,6 @@
     "MultiDataSet",
     "genefilter",
     "BiocParallel",
-    "annotate",
     "impute"
   ],
   "omicade4": [],
@@ -10427,7 +10244,6 @@
   "oppar": [
     "GSEABase",
     "GSVA",
-    "annotate",
     "BiocParallel",
     "SpatialExperiment",
     "HDF5Array",
@@ -10470,7 +10286,6 @@
     "BiocParallel",
     "biomaRt",
     "BiocFileCache",
-    "annotate",
     "genefilter",
     "mzR",
     "ProtGenerics",
@@ -10502,7 +10317,6 @@
     "biomaRt",
     "preprocessCore",
     "BiocFileCache",
-    "annotate",
     "genefilter",
     "Rhdf5lib",
     "Spectra",
@@ -10534,8 +10348,7 @@
     "Rsamtools",
     "geneplotter",
     "genefilter",
-    "BiocFileCache",
-    "annotate"
+    "BiocFileCache"
   ],
   "panelcn.mops": [
     "cn.mops",
@@ -10561,7 +10374,6 @@
     "SpatialExperiment",
     "HDF5Array",
     "BiocSingular",
-    "annotate",
     "h5mread",
     "rhdf5",
     "BiocFileCache",
@@ -10589,7 +10401,6 @@
     "biomaRt",
     "BiocFileCache",
     "BiocParallel",
-    "annotate",
     "Category",
     "clusterProfiler",
     "goseq",
@@ -10658,7 +10469,6 @@
     "rhdf5filters"
   ],
   "phenoTest": [
-    "annotate",
     "Category",
     "biomaRt",
     "GSEABase",
@@ -10869,7 +10679,6 @@
   "protGear": [
     "vsn",
     "genefilter",
-    "annotate",
     "affy",
     "preprocessCore"
   ],
@@ -10954,7 +10763,6 @@
     "preprocessCore"
   ],
   "qpgraph": [
-    "annotate",
     "BiocParallel",
     "GenomicFeatures",
     "rtracklayer",
@@ -10971,14 +10779,12 @@
   "qsmooth": [
     "sva",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "qsvaR": [
     "sva",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "quantiseqr": [
     "preprocessCore"
@@ -10992,7 +10798,6 @@
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
-    "annotate",
     "h5mread",
     "rhdf5",
     "rtracklayer",
@@ -11121,7 +10926,6 @@
     "Rhdf5lib",
     "rhdf5filters",
     "GenomicFeatures",
-    "annotate",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -11311,7 +11115,6 @@
   "sampleClassifier": [
     "MGFM",
     "MGFR",
-    "annotate",
     "biomaRt",
     "BiocFileCache"
   ],
@@ -11334,7 +11137,6 @@
     "genefilter",
     "rtracklayer",
     "BiocFileCache",
-    "annotate",
     "ensembldb",
     "BSgenome",
     "biovizBase",
@@ -11353,8 +11155,7 @@
     "zinbwave",
     "DESeq2",
     "BiocParallel",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "scBubbletree": [
     "BiocParallel",
@@ -11376,7 +11177,6 @@
     "Cepo",
     "GSEABase",
     "HDF5Array",
-    "annotate",
     "h5mread",
     "rhdf5",
     "rhdf5filters",
@@ -11445,7 +11245,6 @@
     "HDF5Array",
     "BiocSingular",
     "scran",
-    "annotate",
     "h5mread",
     "rhdf5",
     "GenomicAlignments",
@@ -11544,8 +11343,7 @@
   "scTGIF": [
     "GSEABase",
     "BiocStyle",
-    "schex",
-    "annotate"
+    "schex"
   ],
   "scTHI": [
     "BiocParallel"
@@ -11563,7 +11361,6 @@
     "BiocVersion",
     "GSEABase",
     "genefilter",
-    "annotate",
     "BiocParallel",
     "fgsea",
     "GOSemSim",
@@ -11617,7 +11414,6 @@
     "BiocSingular",
     "BiocParallel"
   ],
-  "sccomp": [],
   "scde": [
     "BiocParallel"
   ],
@@ -11860,7 +11656,6 @@
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
-    "annotate",
     "h5mread",
     "rhdf5",
     "rtracklayer",
@@ -11881,7 +11676,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "GenomicFeatures",
-    "annotate",
     "h5mread",
     "rhdf5",
     "rhdf5filters",
@@ -11903,7 +11697,6 @@
     "GOSemSim",
     "AnnotationHub",
     "BiocFileCache",
-    "annotate",
     "h5mread",
     "Rhdf5lib",
     "rhdf5filters",
@@ -11939,7 +11732,6 @@
     "survcomp",
     "biomaRt",
     "impute",
-    "annotate",
     "h5mread",
     "rhdf5",
     "GenomicAlignments",
@@ -12005,7 +11797,6 @@
     "Rsamtools",
     "ProtGenerics",
     "treeio",
-    "annotate",
     "SpatialExperiment",
     "bluster",
     "M3Drop",
@@ -12023,8 +11814,7 @@
   ],
   "singscore": [
     "GSEABase",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "sitadela": [
     "biomaRt",
@@ -12050,7 +11840,6 @@
     "methylumi",
     "wateRmelon",
     "minfi",
-    "annotate",
     "genefilter",
     "GenomicFeatures",
     "bumphunter",
@@ -12069,8 +11858,7 @@
     "GenomicAlignments"
   ],
   "slalom": [
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "slingshot": [
     "TrajectoryUtils"
@@ -12120,8 +11908,7 @@
   "sparrow": [
     "BiocParallel",
     "BiocSet",
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "sparsenetgls": [],
   "spatialDE": [
@@ -12139,8 +11926,7 @@
     "BiocVersion"
   ],
   "spatialHeatmap": [
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "spatialSimGP": [
     "SpatialExperiment",
@@ -12178,7 +11964,6 @@
     "BiocFileCache",
     "HDF5Array",
     "rhdf5",
-    "annotate",
     "BiocBaseUtils",
     "h5mread",
     "Rhdf5lib",
@@ -12209,8 +11994,7 @@
     "scuttle"
   ],
   "splineTimeR": [
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "splots": [],
   "spoon": [
@@ -12310,8 +12094,7 @@
   "survcomp": [],
   "sva": [
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "svaNUMT": [
     "rtracklayer",
@@ -12473,12 +12256,10 @@
     "tidySingleCellExperiment",
     "BiocFileCache"
   ],
-  "tidySummarizedExperiment": [],
   "tidybulk": [
     "preprocessCore"
   ],
   "tidyomics": [
-    "tidySummarizedExperiment",
     "tidySingleCellExperiment",
     "tidybulk",
     "plyranges",
@@ -12496,15 +12277,12 @@
     "RProtoBufLib",
     "Rhdf5lib"
   ],
-  "tigre": [
-    "annotate"
-  ],
+  "tigre": [],
   "tilingArray": [
     "affy",
     "vsn",
     "genefilter",
-    "preprocessCore",
-    "annotate"
+    "preprocessCore"
   ],
   "timeOmics": [
     "mixOmics",
@@ -12515,7 +12293,6 @@
     "widgetTools",
     "DynDoc"
   ],
-  "tomoda": [],
   "tomoseqr": [
     "BiocFileCache"
   ],
@@ -12643,8 +12420,7 @@
   "trigger": [
     "sva",
     "genefilter",
-    "BiocParallel",
-    "annotate"
+    "BiocParallel"
   ],
   "tripr": [],
   "ttgsea": [],
@@ -12743,7 +12519,6 @@
   ],
   "vissE": [
     "GSEABase",
-    "annotate",
     "ExperimentHub",
     "AnnotationHub",
     "BiocFileCache",
@@ -12803,7 +12578,6 @@
     "minfi",
     "affy",
     "GenomicFeatures",
-    "annotate",
     "preprocessCore",
     "genefilter",
     "rtracklayer",
@@ -12853,8 +12627,7 @@
     "BiocParallel",
     "BiocFileCache",
     "BiocVersion",
-    "GSEABase",
-    "annotate"
+    "GSEABase"
   ],
   "xcms": [
     "BiocParallel",
@@ -12910,7 +12683,6 @@
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
-    "annotate",
     "h5mread",
     "rhdf5",
     "rtracklayer",
@@ -12933,13 +12705,11 @@
     "graphite",
     "pathview",
     "safe",
-    "annotate",
     "BiocParallel"
   ],
   "zinbwave": [
     "BiocParallel",
-    "genefilter",
-    "annotate"
+    "genefilter"
   ],
   "zitools": [
     "phyloseq",

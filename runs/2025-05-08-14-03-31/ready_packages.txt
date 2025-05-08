@@ -1,0 +1,12 @@
+GSEABase
+MGFM
+PREDA
+SemDist
+codelink
+genefilter
+geneplotter
+globaltest
+iSEEhex
+iSEEpathways
+idiogram
+tigre

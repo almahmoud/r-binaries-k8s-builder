@@ -872,3 +872,15 @@ scmap
 speckle
 switchde
 tidySingleCellExperiment
+GSEABase
+MGFM
+PREDA
+SemDist
+codelink
+genefilter
+geneplotter
+globaltest
+iSEEhex
+iSEEpathways
+idiogram
+tigre
