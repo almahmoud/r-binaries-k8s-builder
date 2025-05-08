@@ -3497,7 +3497,6 @@
     "widgetTools",
     "DynDoc"
   ],
-  "MiRaGE": [],
   "MicrobiomeProfiler": [
     "clusterProfiler",
     "enrichplot",
@@ -4019,7 +4018,6 @@
     "BiocParallel"
   ],
   "PIPETS": [],
-  "PIUMA": [],
   "PLSDAbatch": [
     "mixOmics",
     "BiocStyle",
@@ -8990,7 +8988,6 @@
     "Rhdf5lib",
     "rhdf5filters"
   ],
-  "immApex": [],
   "immunoClust": [
     "flowCore",
     "cytolib",
@@ -10545,7 +10542,6 @@
     "Rsamtools",
     "BiocParallel"
   ],
-  "plyxp": [],
   "pmp": [
     "impute"
   ],
@@ -10881,7 +10877,6 @@
     "dir.expiry",
     "BiocStyle"
   ],
-  "receptLoss": [],
   "reconsi": [
     "phyloseq",
     "biomformat",
