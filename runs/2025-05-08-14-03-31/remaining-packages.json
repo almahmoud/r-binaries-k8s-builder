@@ -73,9 +73,7 @@
     "BiocParallel",
     "BSgenome"
   ],
-  "APL": [
-    "topGO"
-  ],
+  "APL": [],
   "ARRmNormalization": [],
   "ASAFE": [],
   "ASEB": [],
@@ -458,7 +456,6 @@
     "BiocParallel"
   ],
   "BgeeDB": [
-    "topGO",
     "zellkonverter",
     "HDF5Array",
     "h5mread",
@@ -691,7 +688,6 @@
     "Rhdf5lib"
   ],
   "CBNplot": [
-    "graphite",
     "clusterProfiler",
     "enrichplot",
     "ExperimentHub",
@@ -1791,7 +1787,6 @@
   ],
   "EGSEA": [
     "gage",
-    "topGO",
     "pathview",
     "PADOG",
     "GSVA",
@@ -1909,7 +1904,6 @@
   "EnrichmentBrowser": [
     "BiocFileCache",
     "GSEABase",
-    "graphite",
     "pathview",
     "safe"
   ],
@@ -2233,7 +2227,6 @@
   "GRaNIE": [
     "DESeq2",
     "biomaRt",
-    "topGO",
     "AnnotationHub",
     "ensembldb",
     "BiocFileCache",
@@ -2262,7 +2255,6 @@
     "ExperimentHub",
     "BiocVersion",
     "GSEABase",
-    "graphite",
     "pathview",
     "safe"
   ],
@@ -2336,7 +2328,6 @@
     "BiocFileCache",
     "DESeq2",
     "mosdef",
-    "topGO",
     "clusterProfiler",
     "goseq",
     "DOSE",
@@ -2403,7 +2394,6 @@
     "DESeq2",
     "mosdef",
     "BiocParallel",
-    "topGO",
     "clusterProfiler",
     "goseq",
     "DOSE",
@@ -2821,7 +2811,6 @@
   "IntramiRExploreR": [
     "FGNet"
   ],
-  "IsoBayes": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
     "satuRn",
@@ -3140,7 +3129,6 @@
     "BiocParallel",
     "DESeq2",
     "fgsea",
-    "graphite",
     "clusterProfiler",
     "BiocBaseUtils",
     "DOSE",
@@ -3189,7 +3177,6 @@
   ],
   "MOSClip": [
     "MultiAssayExperiment",
-    "graphite",
     "qpgraph",
     "BiocBaseUtils",
     "BiocParallel",
@@ -3385,9 +3372,7 @@
     "ProtGenerics",
     "MetaboCoreUtils"
   ],
-  "MetMashR": [
-    "struct"
-  ],
+  "MetMashR": [],
   "MetNet": [
     "BiocParallel"
   ],
@@ -3894,9 +3879,7 @@
   "OVESEG": [
     "BiocParallel"
   ],
-  "OmaDB": [
-    "topGO"
-  ],
+  "OmaDB": [],
   "OmicsMLRepoR": [
     "BiocFileCache"
   ],
@@ -4149,7 +4132,6 @@
     "GOSemSim",
     "BiocParallel",
     "fgsea",
-    "graphite",
     "ggtree",
     "treeio"
   ],
@@ -4415,7 +4397,6 @@
     "BgeeDB",
     "GenomicFeatures",
     "ensembldb",
-    "topGO",
     "zellkonverter",
     "HDF5Array",
     "rtracklayer",
@@ -4687,7 +4668,6 @@
   "ReactomePA": [
     "DOSE",
     "enrichplot",
-    "graphite",
     "BiocParallel",
     "fgsea",
     "GOSemSim",
@@ -4973,7 +4953,6 @@
   "SCnorm": [
     "BiocParallel"
   ],
-  "SDAMS": [],
   "SEraster": [
     "BiocParallel",
     "SpatialExperiment",
@@ -5205,7 +5184,6 @@
   "SingleR": [
     "BiocParallel"
   ],
-  "Site2Target": [],
   "SomaticSignatures": [
     "VariantAnnotation",
     "ggbio",
@@ -5786,7 +5764,6 @@
   "VennDetail": [],
   "ViSEAGO": [
     "GOSemSim",
-    "topGO",
     "biomaRt",
     "fgsea",
     "BiocFileCache",
@@ -6413,7 +6390,6 @@
     "GOSemSim",
     "BiocParallel",
     "fgsea",
-    "graphite",
     "AnVILBase",
     "ggtree",
     "GenomicFeatures",
@@ -6764,9 +6740,7 @@
     "Rsamtools",
     "BiocParallel"
   ],
-  "cellity": [
-    "topGO"
-  ],
+  "cellity": [],
   "cellxgenedp": [],
   "censcyt": [
     "diffcyt",
@@ -7091,7 +7065,6 @@
     "rhdf5filters"
   ],
   "compEpiTools": [
-    "topGO",
     "Rsamtools",
     "GenomicFeatures",
     "methylPipe",
@@ -7124,8 +7097,7 @@
     "BiocSingular"
   ],
   "consICA": [
-    "BiocParallel",
-    "topGO"
+    "BiocParallel"
   ],
   "consensus": [],
   "consensusDE": [
@@ -7547,9 +7519,7 @@
     "BiocParallel"
   ],
   "dcanr": [],
-  "dce": [
-    "graphite"
-  ],
+  "dce": [],
   "ddPCRclust": [
     "flowCore",
     "flowDensity",
@@ -7775,7 +7745,6 @@
     "BiocParallel",
     "EnrichmentBrowser",
     "BiocFileCache",
-    "graphite",
     "pathview",
     "safe"
   ],
@@ -8377,7 +8346,6 @@
     "affy",
     "preprocessCore"
   ],
-  "funOmics": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
@@ -8395,7 +8363,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "gCrisprTools": [],
   "gDNAx": [
     "BiocParallel",
     "GenomicFiles",
@@ -8466,7 +8433,6 @@
     "treeio",
     "impute",
     "BiocBaseUtils",
-    "graphite",
     "fgsea",
     "Rsamtools",
     "GenomicAlignments"
@@ -8589,7 +8555,6 @@
     "ggtree",
     "treeio"
   ],
-  "ggsc": [],
   "ggspavis": [
     "SpatialExperiment",
     "BiocFileCache"
@@ -8687,7 +8652,6 @@
   ],
   "gpuMagic": [],
   "graper": [],
-  "graphite": [],
   "groHMM": [
     "GenomicAlignments",
     "rtracklayer",
@@ -8861,7 +8825,6 @@
     "h5mread",
     "rhdf5",
     "txdbmaker",
-    "graphite",
     "ggtree",
     "rhdf5filters",
     "Rhdf5lib",
@@ -8929,7 +8892,6 @@
     "BSgenome"
   ],
   "ideal": [
-    "topGO",
     "DESeq2",
     "mosdef",
     "goseq",
@@ -9334,7 +9296,6 @@
   ],
   "metabolomicsWorkbenchR": [
     "MultiAssayExperiment",
-    "struct",
     "BiocBaseUtils"
   ],
   "metabomxtr": [
@@ -9582,7 +9543,6 @@
     "GOSemSim",
     "BiocParallel",
     "fgsea",
-    "graphite",
     "impute",
     "preprocessCore",
     "ggtree",
@@ -9597,7 +9557,6 @@
     "GOSemSim",
     "BiocParallel",
     "fgsea",
-    "graphite",
     "biomaRt",
     "BiocFileCache",
     "ggtree",
@@ -9759,9 +9718,7 @@
   "mixOmics": [
     "BiocParallel"
   ],
-  "moanin": [
-    "topGO"
-  ],
+  "moanin": [],
   "mobileRNA": [
     "DESeq2",
     "rtracklayer",
@@ -9770,7 +9727,6 @@
     "GenomicAlignments"
   ],
   "mogsa": [
-    "graphite",
     "genefilter",
     "GSEABase"
   ],
@@ -9788,7 +9744,6 @@
     "BiocParallel"
   ],
   "mosdef": [
-    "topGO",
     "clusterProfiler",
     "goseq",
     "DESeq2",
@@ -9930,7 +9885,6 @@
     "ctc"
   ],
   "multiGSEA": [
-    "graphite",
     "fgsea",
     "BiocParallel",
     "AnnotationHub",
@@ -10377,7 +10331,6 @@
     "DESeq2",
     "mosdef",
     "genefilter",
-    "topGO",
     "GOstats",
     "biomaRt",
     "BiocFileCache",
@@ -10464,7 +10417,6 @@
     "BiocFileCache",
     "BiocBaseUtils"
   ],
-  "phenopath": [],
   "philr": [
     "ggtree",
     "treeio"
@@ -10497,7 +10449,6 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "planttfhunter": [],
   "plier": [
     "affy",
     "preprocessCore"
@@ -11079,9 +11030,7 @@
     "BiocParallel"
   ],
   "sRACIPE": [],
-  "sSNAPPY": [
-    "graphite"
-  ],
+  "sSNAPPY": [],
   "sSeq": [],
   "safe": [],
   "sagenhaft": [],
@@ -11337,7 +11286,6 @@
     "fgsea",
     "GOSemSim",
     "enrichplot",
-    "graphite",
     "ggtree",
     "treeio"
   ],
@@ -12022,7 +11970,6 @@
     "SpatialExperiment",
     "BiocFileCache"
   ],
-  "stageR": [],
   "standR": [
     "SpatialExperiment",
     "RUVSeq",
@@ -12047,10 +11994,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "struct": [],
-  "structToolbox": [
-    "struct"
-  ],
+  "structToolbox": [],
   "surfaltr": [
     "biomaRt",
     "BiocFileCache"
@@ -12150,7 +12094,6 @@
   "tRanslatome": [
     "DESeq2",
     "RankProd",
-    "topGO",
     "GOSemSim",
     "BiocParallel"
   ],
@@ -12264,7 +12207,6 @@
   "tomoseqr": [
     "BiocFileCache"
   ],
-  "topGO": [],
   "topconfects": [],
   "topdownr": [
     "ProtGenerics",
@@ -12329,7 +12271,6 @@
   "transcriptogramer": [
     "biomaRt",
     "RedeR",
-    "topGO",
     "BiocFileCache"
   ],
   "transformGamPoi": [
@@ -12670,7 +12611,6 @@
     "EnrichmentBrowser",
     "GSEABase",
     "BiocFileCache",
-    "graphite",
     "pathview",
     "safe",
     "BiocParallel"

@@ -593,3 +593,15 @@ scds
 scRepertoire
 sechm
 spqn
+funOmics
+gCrisprTools
+ggsc
+graphite
+IsoBayes
+phenopath
+planttfhunter
+SDAMS
+Site2Target
+stageR
+struct
+topGO

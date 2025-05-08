@@ -884,3 +884,11 @@ iSEEhex
 iSEEpathways
 idiogram
 tigre
+APL
+MetMashR
+OmaDB
+cellity
+dce
+moanin
+sSNAPPY
+structToolbox
