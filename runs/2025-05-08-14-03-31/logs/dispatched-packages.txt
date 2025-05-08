@@ -558,3 +558,8 @@ dStruct
 derfinderHelper
 mnem
 nucleoSim
+KCsmart
+SPIA
+TPP
+lpNet
+trio
