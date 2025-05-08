@@ -535,7 +535,6 @@
   "BiocPkgTools": [
     "BiocFileCache"
   ],
-  "BiocSet": [],
   "BiocSingular": [
     "BiocParallel"
   ],
@@ -1922,7 +1921,6 @@
     "BiocFileCache",
     "tRNAdbImport",
     "rtracklayer",
-    "tRNA",
     "biomaRt",
     "Rsamtools",
     "GenomicAlignments",
@@ -2201,7 +2199,6 @@
     "ProtGenerics",
     "GenomicAlignments"
   ],
-  "GRmetrics": [],
   "GSALightning": [],
   "GSAR": [],
   "GSCA": [
@@ -3709,7 +3706,6 @@
     "fgsea",
     "BiocParallel"
   ],
-  "Nebulosa": [],
   "NetActivity": [
     "DESeq2",
     "BiocParallel"
@@ -4627,7 +4623,6 @@
     "treeio"
   ],
   "RegEnrich": [
-    "BiocSet",
     "fgsea",
     "DOSE",
     "BiocParallel",
@@ -4828,7 +4823,6 @@
   "Rsamtools": [
     "BiocParallel"
   ],
-  "SAIGEgds": [],
   "SARC": [
     "RaggedExperiment",
     "plyranges",
@@ -4986,7 +4980,6 @@
     "biomaRt",
     "BiocFileCache"
   ],
-  "SPOTlight": [],
   "SPsimSeq": [
     "phyloseq",
     "biomformat",
@@ -7634,7 +7627,6 @@
     "impute",
     "genefilter"
   ],
-  "doseR": [],
   "doubletrouble": [
     "syntenet",
     "GenomicFeatures",
@@ -11676,7 +11668,6 @@
   ],
   "sparrow": [
     "BiocParallel",
-    "BiocSet",
     "GSEABase"
   ],
   "sparsenetgls": [],
@@ -11928,12 +11919,8 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "tRNA": [],
-  "tRNAdbImport": [
-    "tRNA"
-  ],
+  "tRNAdbImport": [],
   "tRNAscanImport": [
-    "tRNA",
     "rtracklayer",
     "BSgenome",
     "Rsamtools",
@@ -12443,7 +12430,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "zFPKM": [],
   "zellkonverter": [
     "basilisk",
     "dir.expiry",

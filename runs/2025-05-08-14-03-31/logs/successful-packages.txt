@@ -656,3 +656,11 @@ ggmanh
 ILoReg
 proDA
 RUCova
+BiocSet
+doseR
+GRmetrics
+Nebulosa
+SAIGEgds
+SPOTlight
+tRNA
+zFPKM
