@@ -343,3 +343,6 @@ sparsenetgls
 specL
 survcomp
 TSAR
+ISAnalytics
+mirTarRnaSeq
+mistyR
