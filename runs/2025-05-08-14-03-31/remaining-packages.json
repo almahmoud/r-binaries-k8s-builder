@@ -7,10 +7,7 @@
     "impute",
     "BiocParallel"
   ],
-  "ADAM": [],
-  "ADAMgui": [
-    "ADAM"
-  ],
+  "ADAMgui": [],
   "ADAPT": [
     "phyloseq",
     "biomformat",
@@ -387,7 +384,6 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "BUMHMM": [],
   "BUScorrect": [],
   "BUSpaRse": [
     "biomaRt",
@@ -2050,7 +2046,6 @@
     "BiocParallel"
   ],
   "EpiTxDb": [
-    "Modstrings",
     "GenomicFeatures",
     "txdbmaker",
     "BiocFileCache",
@@ -2631,7 +2626,6 @@
   "GenomicSuperSignature": [
     "BiocFileCache"
   ],
-  "GeoDiff": [],
   "GeoTcgaData": [
     "cqn",
     "topconfects"
@@ -2659,7 +2653,6 @@
     "impute",
     "preprocessCore"
   ],
-  "GrafGen": [],
   "GraphAlignment": [],
   "GreyListChIP": [
     "GenomicAlignments",
@@ -2913,7 +2906,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "IWTomics": [],
   "Icens": [],
   "IdeoViz": [
     "rtracklayer",
@@ -3332,7 +3324,6 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "MMUPHin": [],
   "MODA": [
     "AMOUNTAIN",
     "impute",
@@ -3725,7 +3716,6 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "Modstrings": [],
   "MoleculeExperiment": [
     "SpatialExperiment",
     "rhdf5",
@@ -3790,8 +3780,7 @@
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
-    "BSgenome",
-    "memes"
+    "BSgenome"
   ],
   "MouseFM": [
     "biomaRt",
@@ -4090,7 +4079,6 @@
   "OmaDB": [
     "topGO"
   ],
-  "OmicCircos": [],
   "OmicsMLRepoR": [
     "BiocFileCache"
   ],
@@ -4321,7 +4309,6 @@
     "ncdfFlow",
     "Rhdf5lib"
   ],
-  "PepSetTest": [],
   "PepsNMR": [],
   "PhIPData": [
     "BiocFileCache"
@@ -4366,7 +4353,6 @@
     "basilisk.utils"
   ],
   "PoDCall": [],
-  "PolySTest": [],
   "PrInCE": [
     "MSnbase",
     "mzR",
@@ -4461,8 +4447,6 @@
   "QRscore": [
     "BiocParallel"
   ],
-  "QTLExperiment": [],
-  "Qtlizer": [],
   "QuasR": [
     "BSgenome",
     "Rsamtools",
@@ -4689,7 +4673,6 @@
     "BSgenome"
   ],
   "RNAmodR": [
-    "Modstrings",
     "BiocParallel",
     "txdbmaker",
     "GenomicFeatures",
@@ -4716,7 +4699,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "Modstrings",
     "BiocParallel",
     "txdbmaker",
     "BiocFileCache",
@@ -4725,7 +4707,6 @@
   ],
   "RNAmodR.ML": [
     "RNAmodR",
-    "Modstrings",
     "BiocParallel",
     "txdbmaker",
     "GenomicFeatures",
@@ -4752,7 +4733,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "Modstrings",
     "BiocParallel",
     "txdbmaker",
     "BiocFileCache",
@@ -5517,7 +5497,6 @@
     "GenomicAlignments"
   ],
   "SpatialCPie": [],
-  "SpatialDecon": [],
   "SpatialExperiment": [
     "SingleCellExperiment",
     "BiocFileCache"
@@ -5846,7 +5825,6 @@
   "TPP2D": [
     "BiocParallel"
   ],
-  "TREG": [],
   "TRESS": [
     "rtracklayer",
     "GenomicFeatures",
@@ -5858,7 +5836,6 @@
     "SingleCellExperiment",
     "TrajectoryUtils"
   ],
-  "TTMap": [],
   "TVTB": [
     "BiocParallel",
     "ensembldb",
@@ -7260,7 +7237,6 @@
     "GenomicAlignments"
   ],
   "chopsticks": [],
-  "chromDraw": [],
   "chromPlot": [
     "biomaRt",
     "BiocFileCache"
@@ -7410,7 +7386,6 @@
     "Rsamtools",
     "BiocParallel"
   ],
-  "cnvGSA": [],
   "coGPS": [],
   "coMethDMR": [
     "AnnotationHub",
@@ -7615,10 +7590,8 @@
     "GenomicAlignments"
   ],
   "cqn": [],
-  "crisprBase": [],
   "crisprBowtie": [
     "BSgenome",
-    "crisprBase",
     "rtracklayer",
     "Rsamtools",
     "BiocParallel",
@@ -7626,7 +7599,6 @@
   ],
   "crisprBwa": [
     "BSgenome",
-    "crisprBase",
     "Rbwa",
     "rtracklayer",
     "Rsamtools",
@@ -7634,7 +7606,6 @@
     "GenomicAlignments"
   ],
   "crisprDesign": [
-    "crisprBase",
     "BSgenome",
     "crisprBowtie",
     "crisprScore",
@@ -7665,7 +7636,6 @@
   ],
   "crisprShiny": [
     "BSgenome",
-    "crisprBase",
     "crisprDesign",
     "crisprScore",
     "crisprViz",
@@ -7691,7 +7661,6 @@
     "ProtGenerics"
   ],
   "crisprVerse": [
-    "crisprBase",
     "crisprBowtie",
     "crisprScore",
     "crisprDesign",
@@ -7718,7 +7687,6 @@
     "BiocParallel"
   ],
   "crisprViz": [
-    "crisprBase",
     "crisprDesign",
     "BSgenome",
     "GenomicFeatures",
@@ -8274,7 +8242,6 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "epialleleR": [],
   "epidecodeR": [
     "rtracklayer",
     "Rsamtools",
@@ -8382,7 +8349,6 @@
     "ggtree",
     "treeio"
   ],
-  "epistack": [],
   "epistasisGA": [
     "BiocParallel"
   ],
@@ -9560,7 +9526,6 @@
     "rhdf5filters",
     "GenomicAlignments"
   ],
-  "kmcut": [],
   "knowYourCG": [
     "ExperimentHub",
     "AnnotationHub",
@@ -9601,7 +9566,6 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "lionessR": [],
   "lipidr": [
     "fgsea",
     "ropls",
@@ -9709,7 +9673,6 @@
     "BiocParallel",
     "treeio"
   ],
-  "made4": [],
   "maftools": [
     "DNAcopy",
     "zlibbioc"
@@ -9744,7 +9707,6 @@
     "Rhdf5lib",
     "rhdf5filters"
   ],
-  "marr": [],
   "martini": [
     "snpStats",
     "zlibbioc"
@@ -9788,7 +9750,6 @@
     "Rhdf5lib"
   ],
   "mdqc": [],
-  "memes": [],
   "meshes": [
     "DOSE",
     "enrichplot",
@@ -10084,7 +10045,6 @@
     "biomaRt",
     "BiocFileCache"
   ],
-  "miRNAmeConverter": [],
   "miRNApath": [],
   "miRNAtap": [],
   "miRSM": [
@@ -10343,7 +10303,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "motifTestR": [],
   "motifbreakR": [
     "MotifDb",
     "BSgenome",
@@ -10370,7 +10329,6 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "mpra": [],
   "msImpute": [
     "scran",
     "SingleCellExperiment",
@@ -10476,7 +10434,6 @@
     "Rhdf5lib",
     "rhdf5filters"
   ],
-  "multiMiR": [],
   "multiWGCNA": [
     "dcanr",
     "impute",
@@ -10503,9 +10460,7 @@
     "rhdf5filters",
     "ProtGenerics"
   ],
-  "multistateQTL": [
-    "QTLExperiment"
-  ],
+  "multistateQTL": [],
   "mumosa": [
     "SingleCellExperiment",
     "BiocParallel",
@@ -10603,7 +10558,6 @@
     "BiocParallel",
     "GenomicFeatures"
   ],
-  "nempi": [],
   "netSmooth": [
     "scater",
     "clusterExperiment",
@@ -10728,15 +10682,12 @@
     "sva",
     "omicade4",
     "MultiDataSet",
-    "made4",
     "genefilter",
     "BiocParallel",
     "annotate",
     "impute"
   ],
-  "omicade4": [
-    "made4"
-  ],
+  "omicade4": [],
   "omicplotR": [
     "ALDEx2",
     "BiocParallel"
@@ -10750,7 +10701,6 @@
     "fgsea",
     "BiocParallel"
   ],
-  "oncomix": [],
   "ontoProc": [
     "BiocFileCache",
     "AnnotationHub",
@@ -10887,7 +10837,6 @@
     "BiocFileCache",
     "annotate"
   ],
-  "pairkat": [],
   "panelcn.mops": [
     "cn.mops",
     "Rsamtools",
@@ -11120,7 +11069,6 @@
     "dir.expiry",
     "basilisk.utils"
   ],
-  "pqsfinder": [],
   "pram": [
     "BiocParallel",
     "GenomicAlignments",
@@ -11617,7 +11565,6 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "rigvf": [],
   "rmelting": [],
   "rmspc": [
     "rtracklayer",
@@ -12695,7 +12642,6 @@
     "VariantAnnotation",
     "ProtGenerics"
   ],
-  "ssPATHS": [],
   "ssize": [],
   "ssrch": [],
   "ssviz": [
@@ -12826,11 +12772,8 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "tRNA": [
-    "Modstrings"
-  ],
+  "tRNA": [],
   "tRNAdbImport": [
-    "Modstrings",
     "tRNA"
   ],
   "tRNAscanImport": [
@@ -12839,8 +12782,7 @@
     "BSgenome",
     "Rsamtools",
     "BiocParallel",
-    "GenomicAlignments",
-    "Modstrings"
+    "GenomicAlignments"
   ],
   "tRanslatome": [
     "DESeq2",
@@ -13104,7 +13046,6 @@
     "BiocParallel",
     "annotate"
   ],
-  "triplex": [],
   "tripr": [],
   "ttgsea": [],
   "tweeDEseq": [
