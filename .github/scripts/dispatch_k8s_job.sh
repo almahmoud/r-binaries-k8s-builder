@@ -63,7 +63,7 @@ spec:
           ls -1 \${TEMP_LIBRARY} > /tmp/initial_libs.txt || touch /tmp/initial_libs.txt
           
           # Install package using both libraries (temp first for new installations)
-          cd /
+          cd ~/
           (time Rscript -e "Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
             p <- .libPaths();
             p <- c('${TEMP_LIBRARY}', '${SHARED_LIBRARY}', p);
@@ -80,7 +80,7 @@ spec:
           done
           
           # Handle build artifacts
-          cd /
+          cd ~/
           echo "Tarballs Detected: \$(ls *.tar.gz)"
           mv *.tar.gz \${TARDIR}/
           echo "Build artifacts stored in \${TARDIR}"
