@@ -4,3 +4,4 @@ RbowtieCuda
 gpuMagic
 HilbertVis
 NormqPCR
+PhenStat

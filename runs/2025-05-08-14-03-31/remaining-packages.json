@@ -438,7 +438,6 @@
   ],
   "BG2": [],
   "BLMA": [
-    "ROntoTools",
     "PADOG",
     "AnnotationDbi"
   ],
@@ -3589,7 +3588,6 @@
     "SummarizedExperiment",
     "rtracklayer"
   ],
-  "IMMAN": [],
   "IMPCdata": [],
   "INDEED": [],
   "INPower": [],
@@ -3872,7 +3870,6 @@
   ],
   "LymphoSeq": [
     "ggtree",
-    "msa",
     "treeio"
   ],
   "M3C": [],
@@ -4102,7 +4099,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "MEDME": [],
   "MGFM": [
     "AnnotationDbi",
     "annotate"
@@ -4566,7 +4562,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "MethTargetedNGS": [],
   "MethylAid": [
     "BiocParallel",
     "minfi",
@@ -5596,7 +5591,6 @@
   "QRscore": [
     "BiocParallel"
   ],
-  "QSutils": [],
   "QTLExperiment": [
     "SummarizedExperiment",
     "GenomicRanges"
@@ -5975,7 +5969,6 @@
   "ROTS": [
     "BiocParallel"
   ],
-  "ROntoTools": [],
   "RPA": [
     "affy",
     "BiocStyle",
@@ -7119,7 +7112,6 @@
     "preprocessCore"
   ],
   "SwathXtend": [],
-  "SynExtend": [],
   "TADCompare": [
     "HiCcompare",
     "InteractionSet",
@@ -11264,7 +11256,6 @@
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "ggseqalign": [],
   "ggspavis": [
     "SpatialExperiment",
     "SingleCellExperiment",
@@ -11768,7 +11759,6 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "idpr": [],
   "idr2d": [
     "GenomicRanges"
   ],
@@ -12778,7 +12768,6 @@
     "GenomicAlignments"
   ],
   "mirIntegrator": [
-    "ROntoTools",
     "AnnotationDbi"
   ],
   "missMethyl": [
@@ -12967,7 +12956,6 @@
     "ProtGenerics",
     "Rhdf5lib"
   ],
-  "msa": [],
   "msgbsR": [
     "GenomicRanges",
     "BSgenome",
@@ -13357,9 +13345,7 @@
     "h5mread",
     "GenomicAlignments"
   ],
-  "odseq": [
-    "msa"
-  ],
+  "odseq": [],
   "oligo": [
     "oligoClasses",
     "preprocessCore",
@@ -14004,7 +13990,6 @@
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "procoil": [],
   "profileplyr": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -14255,7 +14240,6 @@
     "BiocVersion",
     "AnnotationDbi"
   ],
-  "rRDP": [],
   "rScudo": [
     "SummarizedExperiment",
     "GenomicRanges"
@@ -14460,7 +14444,6 @@
     "Rsamtools",
     "BiocParallel"
   ],
-  "rfaRm": [],
   "rgsepd": [
     "DESeq2",
     "goseq",
@@ -14621,10 +14604,8 @@
     "BiocFileCache"
   ],
   "sangeranalyseR": [
-    "sangerseqR",
     "BiocStyle"
   ],
-  "sangerseqR": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -15056,7 +15037,6 @@
     "GenomicRanges"
   ],
   "scifer": [
-    "sangerseqR",
     "flowCore",
     "basilisk",
     "basilisk.utils",
@@ -15952,7 +15932,6 @@
   ],
   "surfaltr": [
     "biomaRt",
-    "msa",
     "AnnotationDbi",
     "BiocFileCache"
   ],
@@ -16367,7 +16346,6 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "transomics2cytoscape": [],
   "traseR": [
     "GenomicRanges",
     "BSgenome",

@@ -1,14 +1,1 @@
-AnnotationDbi
-FELLA
-IMMAN
-MMUPHin
-MethTargetedNGS
-QSutils
-ROntoTools
-SynExtend
-beachmat.tiledb
-ggseqalign
-procoil
-sangerseqR
-transomics2cytoscape
-uSORT
+odseq

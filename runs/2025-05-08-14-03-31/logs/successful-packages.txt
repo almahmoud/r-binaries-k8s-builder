@@ -430,3 +430,17 @@ sscu
 Structstrings
 SynMut
 TileDBArray
+ggseqalign
+idpr
+IMMAN
+MEDME
+MethTargetedNGS
+msa
+procoil
+QSutils
+rfaRm
+ROntoTools
+rRDP
+sangerseqR
+SynExtend
+transomics2cytoscape
