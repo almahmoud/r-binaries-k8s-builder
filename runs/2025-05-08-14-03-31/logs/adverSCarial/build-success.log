@@ -1,0 +1,204 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''adverSCarial'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'adverSCarial'
+also installing the dependencies ‘viridis’, ‘pheatmap’, ‘bioDist’, ‘dendextend’, ‘corrplot’, ‘RUnit’, ‘TENxPBMCData’, ‘CHETAH’, ‘LoomExperiment’
+
+trying URL 'https://cloud.r-project.org/src/contrib/viridis_0.6.5.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/pheatmap_1.0.12.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/bioDist_1.80.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/dendextend_1.19.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/corrplot_0.95.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/RUnit_0.4.33.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/experiment/src/contrib/TENxPBMCData_1.26.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/CHETAH_1.24.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/LoomExperiment_1.26.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/adverSCarial_1.6.0.tar.gz'
+* installing *source* package ‘viridis’ ...
+** this is package ‘viridis’ version ‘0.6.5’
+** package ‘viridis’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘viridis’ as ‘viridis_0.6.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (viridis)
+* installing *source* package ‘pheatmap’ ...
+** this is package ‘pheatmap’ version ‘1.0.12’
+** package ‘pheatmap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pheatmap’ as ‘pheatmap_1.0.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pheatmap)
+* installing *source* package ‘bioDist’ ...
+** this is package ‘bioDist’ version ‘1.80.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bioDist’ as ‘bioDist_1.80.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bioDist)
+* installing *source* package ‘corrplot’ ...
+** this is package ‘corrplot’ version ‘0.95’
+** package ‘corrplot’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘corrplot’ as ‘corrplot_0.95_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (corrplot)
+* installing *source* package ‘RUnit’ ...
+** this is package ‘RUnit’ version ‘0.4.33’
+** package ‘RUnit’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RUnit’ as ‘RUnit_0.4.33_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RUnit)
+* installing *source* package ‘TENxPBMCData’ ...
+** this is package ‘TENxPBMCData’ version ‘1.26.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TENxPBMCData’ as ‘TENxPBMCData_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TENxPBMCData)
+* installing *source* package ‘LoomExperiment’ ...
+** this is package ‘LoomExperiment’ version ‘1.26.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘LoomExperiment’ as ‘LoomExperiment_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (LoomExperiment)
+* installing *source* package ‘adverSCarial’ ...
+** this is package ‘adverSCarial’ version ‘1.6.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘adverSCarial’ as ‘adverSCarial_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (adverSCarial)
+* installing *source* package ‘dendextend’ ...
+** this is package ‘dendextend’ version ‘1.19.0’
+** package ‘dendextend’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘dendextend’ as ‘dendextend_1.19.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dendextend)
+* installing *source* package ‘CHETAH’ ...
+** this is package ‘CHETAH’ version ‘1.24.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CHETAH’ as ‘CHETAH_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CHETAH)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp8PMABa/downloaded_packages’
+Old packages: 'cli', 'DelayedArray', 'diffobj', 'edgeR', 'globals',
+  'parallelly', 'pkgdown', 'RcppArmadillo', 'RSQLite', 'scales', 'sctransform',
+  'Seurat', 'SeuratObject', 'SingleCellExperiment', 'spatstat.univar',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8'
+
+real	1m50.666s
+user	1m39.266s
+sys	0m45.937s
