@@ -509,3 +509,15 @@ synapsis
 twoddpcr
 unifiedWMWqPCR
 updateObject
+CGHbase
+OLIN
+RBM
+Streamer
+arrayQuality
+biocViews
+clstutils
+convert
+dyebias
+nnNorm
+stepNorm
+timecourse
