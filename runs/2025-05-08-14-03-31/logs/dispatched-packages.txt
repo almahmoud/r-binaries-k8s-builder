@@ -649,3 +649,4 @@ sangerseqR
 transomics2cytoscape
 uSORT
 odseq
+GeomxTools

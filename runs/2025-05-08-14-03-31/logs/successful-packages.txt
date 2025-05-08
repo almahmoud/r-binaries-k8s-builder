@@ -444,3 +444,4 @@ rRDP
 sangerseqR
 SynExtend
 transomics2cytoscape
+NanoStringNCTools

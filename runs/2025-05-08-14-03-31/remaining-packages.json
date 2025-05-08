@@ -3292,8 +3292,7 @@
     "GenomicRanges"
   ],
   "GeoDiff": [
-    "GeomxTools",
-    "NanoStringNCTools"
+    "GeomxTools"
   ],
   "GeoTcgaData": [
     "cqn",
@@ -3301,9 +3300,7 @@
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "GeomxTools": [
-    "NanoStringNCTools"
-  ],
+  "GeomxTools": [],
   "Glimma": [
     "DESeq2",
     "SummarizedExperiment",
@@ -4970,7 +4967,6 @@
     "rhdf5filters",
     "GenomicAlignments"
   ],
-  "NanoStringNCTools": [],
   "NanoTube": [
     "fgsea",
     "BiocParallel"
@@ -6924,8 +6920,7 @@
     "GenomicRanges"
   ],
   "SpatialDecon": [
-    "GeomxTools",
-    "NanoStringNCTools"
+    "GeomxTools"
   ],
   "SpatialExperiment": [
     "SingleCellExperiment",
@@ -6965,8 +6960,7 @@
   ],
   "SpatialOmicsOverlay": [
     "GeomxTools",
-    "BiocFileCache",
-    "NanoStringNCTools"
+    "BiocFileCache"
   ],
   "Spectra": [
     "BiocParallel",
