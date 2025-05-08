@@ -1,3 +1,5 @@
 graper
 genoCN
 RbowtieCuda
+gpuMagic
+HilbertVis
