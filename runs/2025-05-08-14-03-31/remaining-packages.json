@@ -903,7 +903,6 @@
     "BiocFileCache",
     "BiocVersion"
   ],
-  "CaDrA": [],
   "CaMutQC": [
     "clusterProfiler",
     "maftools",
@@ -966,7 +965,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "CellTrails": [],
   "CelliD": [
     "scater",
     "BiocParallel",
@@ -1212,7 +1210,6 @@
   ],
   "ClusterJudge": [],
   "ClusterSignificance": [],
-  "CoCiteStats": [],
   "CoGAPS": [
     "BiocParallel",
     "rhdf5",
@@ -3346,7 +3343,6 @@
   "MetaboCoreUtils": [
     "BiocParallel"
   ],
-  "MetaboDynamics": [],
   "MetaboSignal": [
     "hpar",
     "biomaRt",
@@ -3936,7 +3932,6 @@
     "BiocParallel",
     "genefilter"
   ],
-  "POWSC": [],
   "PPInfer": [
     "biomaRt",
     "fgsea",
@@ -5195,7 +5190,6 @@
     "ExperimentHub",
     "GenomicAlignments"
   ],
-  "SplicingFactory": [],
   "SplicingGraphs": [
     "GenomicFeatures",
     "GenomicAlignments",
@@ -6606,7 +6600,6 @@
   ],
   "ccrepe": [],
   "ceRNAnetsim": [],
-  "celaref": [],
   "celda": [
     "scater",
     "scran",
@@ -6912,7 +6905,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "codelink": [],
   "cogeqc": [
     "ggtree",
     "treeio"
@@ -7394,7 +7386,6 @@
     "BiocParallel"
   ],
   "dcanr": [],
-  "dce": [],
   "ddPCRclust": [
     "flowCore",
     "flowDensity",
@@ -8315,7 +8306,6 @@
     "affy",
     "preprocessCore"
   ],
-  "gemma.R": [],
   "genArise": [],
   "geneAttribution": [
     "GenomicFeatures",
@@ -8348,7 +8338,6 @@
     "rtracklayer",
     "BiocParallel"
   ],
-  "genomicInstability": [],
   "geomeTriD": [
     "trackViewer",
     "GenomicAlignments",
@@ -8697,10 +8686,8 @@
   ],
   "iSEEfier": [
     "iSEEu",
-    "BiocBaseUtils",
-    "iSEEhex"
+    "BiocBaseUtils"
   ],
-  "iSEEhex": [],
   "iSEEhub": [
     "ExperimentHub",
     "AnnotationHub",
@@ -8726,9 +8713,7 @@
     "BiocBaseUtils",
     "BiocSingular"
   ],
-  "iSEEu": [
-    "iSEEhex"
-  ],
+  "iSEEu": [],
   "iasva": [
     "BiocParallel"
   ],
@@ -8769,7 +8754,6 @@
     "BiocFileCache",
     "treeio"
   ],
-  "idiogram": [],
   "igvR": [
     "GenomicAlignments",
     "rtracklayer",

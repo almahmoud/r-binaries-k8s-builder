@@ -680,3 +680,16 @@ SigFuge
 SiPSiC
 TrajectoryUtils
 VariantExperiment
+CaDrA
+celaref
+CellTrails
+CoCiteStats
+codelink
+dce
+gemma.R
+genomicInstability
+idiogram
+iSEEhex
+MetaboDynamics
+POWSC
+SplicingFactory
