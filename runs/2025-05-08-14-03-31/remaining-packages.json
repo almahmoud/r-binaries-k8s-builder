@@ -161,7 +161,6 @@
     "biomaRt",
     "InteractionSet",
     "regioneR",
-    "universalmotif",
     "ensembldb",
     "BiocFileCache",
     "AnnotationHub",
@@ -340,7 +339,6 @@
     "preprocessCore",
     "SummarizedExperiment"
   ],
-  "AssessORF": [],
   "BADER": [],
   "BANDITS": [
     "DRIMSeq",
@@ -433,7 +431,6 @@
   "BPRMeth": [
     "BiocStyle"
   ],
-  "BREW3R.r": [],
   "BSgenome": [
     "rtracklayer",
     "Rsamtools",
@@ -585,7 +582,6 @@
     "rhdf5filters",
     "Rhdf5lib"
   ],
-  "BiFET": [],
   "BiRewire": [],
   "BiSeq": [
     "SummarizedExperiment",
@@ -1096,7 +1092,6 @@
   "CRImage": [
     "DNAcopy"
   ],
-  "CSAR": [],
   "CSSQ": [
     "SummarizedExperiment",
     "rtracklayer",
@@ -1363,7 +1358,6 @@
     "InteractionSet",
     "regioneR",
     "rtracklayer",
-    "universalmotif",
     "ensembldb",
     "BiocFileCache",
     "AnnotationFilter",
@@ -1753,7 +1747,6 @@
     "biomaRt",
     "InteractionSet",
     "regioneR",
-    "universalmotif",
     "ensembldb",
     "BiocFileCache",
     "AnnotationFilter",
@@ -1824,8 +1817,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "DMRScan": [],
-  "DMRcaller": [],
   "DMRcate": [
     "AnnotationHub",
     "ExperimentHub",
@@ -2308,7 +2299,6 @@
     "ggtree",
     "treeio"
   ],
-  "EnrichedHeatmap": [],
   "EnrichmentBrowser": [
     "SummarizedExperiment",
     "AnnotationDbi",
@@ -2644,7 +2634,6 @@
   ],
   "GEWIST": [],
   "GIGSEA": [],
-  "GMRP": [],
   "GNET2": [
     "SummarizedExperiment"
   ],
@@ -2801,7 +2790,6 @@
     "biomaRt",
     "InteractionSet",
     "regioneR",
-    "universalmotif",
     "ensembldb",
     "rhdf5",
     "BiocParallel",
@@ -2940,7 +2928,6 @@
     "BiocParallel"
   ],
   "GenomicDataCommons": [],
-  "GenomicDistributions": [],
   "GenomicFeatures": [
     "AnnotationDbi",
     "rtracklayer",
@@ -3041,16 +3028,12 @@
     "SummarizedExperiment",
     "BiocFileCache"
   ],
-  "GenomicTuples": [],
-  "GeoDiff": [
-    "GeomxTools"
-  ],
+  "GeoDiff": [],
   "GeoTcgaData": [
     "cqn",
     "topconfects",
     "SummarizedExperiment"
   ],
-  "GeomxTools": [],
   "Glimma": [
     "DESeq2",
     "SummarizedExperiment",
@@ -3517,7 +3500,6 @@
     "AnnotationFilter",
     "BiocBaseUtils"
   ],
-  "LOLA": [],
   "LRBaseDbi": [
     "AnnotationDbi"
   ],
@@ -3929,7 +3911,6 @@
     "BiocParallel",
     "SummarizedExperiment"
   ],
-  "MSA2dist": [],
   "MSPrep": [
     "SummarizedExperiment",
     "preprocessCore",
@@ -4381,7 +4362,6 @@
   "MotifPeeker": [
     "BiocFileCache",
     "BiocParallel",
-    "universalmotif",
     "rtracklayer",
     "SummarizedExperiment",
     "Rsamtools",
@@ -4548,7 +4528,6 @@
     "txdbmaker",
     "biomaRt",
     "regioneR",
-    "universalmotif",
     "ensembldb",
     "BiocFileCache",
     "AnnotationHub",
@@ -5283,7 +5262,6 @@
     "biomaRt",
     "InteractionSet",
     "regioneR",
-    "universalmotif",
     "ensembldb",
     "BiocFileCache",
     "AnnotationFilter",
@@ -6391,9 +6369,7 @@
   "SpatialCPie": [
     "SummarizedExperiment"
   ],
-  "SpatialDecon": [
-    "GeomxTools"
-  ],
+  "SpatialDecon": [],
   "SpatialExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -6428,7 +6404,6 @@
     "rhdf5filters"
   ],
   "SpatialOmicsOverlay": [
-    "GeomxTools",
     "BiocFileCache"
   ],
   "Spectra": [
@@ -8439,7 +8414,6 @@
   "circRNAprofiler": [
     "rtracklayer",
     "DESeq2",
-    "universalmotif",
     "AnnotationHub",
     "gwascat",
     "BSgenome",
@@ -9235,7 +9209,6 @@
     "methylKit",
     "minfi",
     "Rsamtools",
-    "fastseg",
     "rtracklayer",
     "SummarizedExperiment",
     "bumphunter",
@@ -9445,7 +9418,6 @@
   ],
   "doubletrouble": [
     "syntenet",
-    "MSA2dist",
     "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
@@ -9505,7 +9477,6 @@
     "BiocFileCache",
     "BiocParallel",
     "biomaRt",
-    "genomeIntervals",
     "GenomicAlignments",
     "SummarizedExperiment",
     "Rsamtools",
@@ -9903,7 +9874,6 @@
     "AnnotationDbi"
   ],
   "fastreeR": [],
-  "fastseg": [],
   "fcScan": [
     "VariantAnnotation",
     "SummarizedExperiment",
@@ -10294,7 +10264,6 @@
     "SummarizedExperiment",
     "BiocParallel"
   ],
-  "geneRxCluster": [],
   "geneXtendeR": [
     "rtracklayer",
     "AnnotationDbi",
@@ -10330,7 +10299,6 @@
     "SummarizedExperiment",
     "BiocParallel"
   ],
-  "genomeIntervals": [],
   "genomicInstability": [
     "SummarizedExperiment"
   ],
@@ -10451,7 +10419,6 @@
   "girafe": [
     "Rsamtools",
     "ShortRead",
-    "genomeIntervals",
     "BiocParallel",
     "GenomicAlignments",
     "SummarizedExperiment"
@@ -10884,7 +10851,6 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "idr2d": [],
   "igvR": [
     "GenomicAlignments",
     "rtracklayer",
@@ -11313,9 +11279,7 @@
   ],
   "mdqc": [],
   "megadepth": [],
-  "memes": [
-    "universalmotif"
-  ],
+  "memes": [],
   "meshes": [
     "AnnotationDbi",
     "DOSE",
@@ -11420,13 +11384,11 @@
   "methInheritSim": [
     "methylKit",
     "Rsamtools",
-    "fastseg",
     "rtracklayer",
     "BiocParallel",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "methimpute": [],
   "methodical": [
     "SummarizedExperiment",
     "AnnotationHub",
@@ -11524,14 +11486,12 @@
     "methylKit",
     "BiocParallel",
     "Rsamtools",
-    "fastseg",
     "rtracklayer",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
   "methylKit": [
     "Rsamtools",
-    "fastseg",
     "rtracklayer",
     "BiocParallel",
     "GenomicAlignments",
@@ -11941,9 +11901,7 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "motifTestR": [
-    "universalmotif"
-  ],
+  "motifTestR": [],
   "motifbreakR": [
     "MotifDb",
     "BSgenome",
@@ -12004,7 +11962,6 @@
     "BiocFileCache",
     "BiocParallel",
     "biomaRt",
-    "genomeIntervals",
     "ShortRead",
     "AnnotationDbi",
     "biovizBase",
@@ -12226,7 +12183,6 @@
     "AnnotationFilter",
     "BiocBaseUtils"
   ],
-  "ncRNAtools": [],
   "ncdfFlow": [
     "flowCore",
     "Rhdf5lib",
@@ -12354,7 +12310,6 @@
     "h5mread",
     "GenomicAlignments"
   ],
-  "odseq": [],
   "oligo": [
     "oligoClasses",
     "preprocessCore",
@@ -12419,7 +12374,6 @@
   "oncomix": [
     "SummarizedExperiment"
   ],
-  "oncoscanR": [],
   "ontoProc": [
     "BiocFileCache",
     "AnnotationHub",
@@ -12947,7 +12901,6 @@
     "ChIPseeker",
     "GenomicFeatures",
     "rGREAT",
-    "EnrichedHeatmap",
     "BiocParallel",
     "rtracklayer",
     "Rsamtools",
@@ -15224,7 +15177,6 @@
     "AnnotationFilter",
     "ProtGenerics"
   ],
-  "universalmotif": [],
   "variancePartition": [
     "BiocParallel"
   ],
@@ -15318,7 +15270,6 @@
     "InteractionSet",
     "regioneR",
     "rtracklayer",
-    "universalmotif",
     "ensembldb",
     "BiocParallel",
     "metapod",

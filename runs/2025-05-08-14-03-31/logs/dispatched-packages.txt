@@ -707,3 +707,7 @@ seqPattern
 target
 transite
 triplex
+GeoDiff
+SpatialDecon
+memes
+motifTestR
