@@ -384,3 +384,15 @@ DelayedArray
 GSEAlm
 islify
 simona
+BiGGR
+Biostrings
+ClustAll
+DelayedMatrixStats
+DelayedRandomArray
+GeneNetworkBuilder
+MEIGOR
+mnem
+Rarr
+ResidualMatrix
+rhdf5client
+ScaledMatrix
