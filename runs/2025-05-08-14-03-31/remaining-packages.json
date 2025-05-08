@@ -85,7 +85,6 @@
     "PepsNMR",
     "ropls",
     "MultiAssayExperiment",
-    "MultiDataSet",
     "BiocBaseUtils"
   ],
   "ASSET": [],
@@ -744,7 +743,6 @@
     "impute",
     "DNAcopy"
   ],
-  "CHETAH": [],
   "CHRONOS": [
     "biomaRt",
     "BiocFileCache"
@@ -754,7 +752,6 @@
     "DNAcopy",
     "zlibbioc"
   ],
-  "CINdex": [],
   "CNAnorm": [
     "DNAcopy"
   ],
@@ -925,7 +922,6 @@
   "CaDrA": [],
   "CaMutQC": [
     "clusterProfiler",
-    "MesKit",
     "maftools",
     "DOSE",
     "enrichplot",
@@ -3036,7 +3032,6 @@
     "BiocParallel"
   ],
   "MEAL": [
-    "MultiDataSet",
     "minfi",
     "Gviz",
     "missMethyl",
@@ -3384,7 +3379,6 @@
     "BPRMeth",
     "BiocStyle"
   ],
-  "MesKit": [],
   "MetCirc": [
     "Spectra",
     "BiocParallel",
@@ -3697,10 +3691,8 @@
   "MultiBaC": [
     "MultiAssayExperiment",
     "ropls",
-    "BiocBaseUtils",
-    "MultiDataSet"
+    "BiocBaseUtils"
   ],
-  "MultiDataSet": [],
   "MultiRNAflow": [
     "Mfuzz",
     "DESeq2",
@@ -4988,7 +4980,6 @@
     "BiocFileCache"
   ],
   "SEtools": [
-    "sechm",
     "BiocParallel",
     "DESeq2",
     "sva",
@@ -6485,7 +6476,6 @@
   ],
   "biosigner": [
     "MultiAssayExperiment",
-    "MultiDataSet",
     "ropls",
     "BiocBaseUtils"
   ],
@@ -6607,7 +6597,6 @@
     "DESeq2",
     "genefilter",
     "clusterProfiler",
-    "sechm",
     "DOSE",
     "enrichplot",
     "GOSemSim",
@@ -7532,7 +7521,6 @@
   ],
   "dandelionR": [
     "bluster",
-    "destiny",
     "miloR",
     "BiocParallel",
     "BiocSingular"
@@ -7692,7 +7680,6 @@
     "biomaRt",
     "BiocFileCache"
   ],
-  "destiny": [],
   "diffGeneAnalysis": [],
   "diffHic": [
     "Rsamtools",
@@ -9044,7 +9031,6 @@
     "DESeq2",
     "BiocParallel"
   ],
-  "ivygapSE": [],
   "jazzPanda": [
     "BiocParallel",
     "SpatialExperiment",
@@ -9136,7 +9122,6 @@
     "BiocParallel",
     "impute",
     "MultiAssayExperiment",
-    "MultiDataSet",
     "BiocBaseUtils"
   ],
   "lisaClust": [
@@ -10197,7 +10182,6 @@
     "rexposome",
     "sva",
     "omicade4",
-    "MultiDataSet",
     "genefilter",
     "BiocParallel",
     "impute"
@@ -10476,7 +10460,6 @@
     "biodb",
     "biodbChebi",
     "MultiAssayExperiment",
-    "MultiDataSet",
     "ropls",
     "BiocFileCache",
     "BiocBaseUtils"
@@ -10841,7 +10824,6 @@
     "BiocFileCache",
     "BiocVersion"
   ],
-  "rScudo": [],
   "rTRM": [],
   "rTRMui": [
     "rTRM",
@@ -10970,7 +10952,6 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "regsplice": [],
   "regutools": [
     "AnnotationHub",
     "Gviz",
@@ -11078,7 +11059,6 @@
   ],
   "ropls": [
     "MultiAssayExperiment",
-    "MultiDataSet",
     "BiocBaseUtils"
   ],
   "rpx": [
@@ -11087,7 +11067,6 @@
   "rqt": [
     "ropls",
     "MultiAssayExperiment",
-    "MultiDataSet",
     "BiocBaseUtils"
   ],
   "rrvgo": [
@@ -11099,7 +11078,6 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "runibic": [],
   "sRACIPE": [],
   "sSNAPPY": [
     "graphite"
@@ -11331,7 +11309,6 @@
   "scRecover": [
     "BiocParallel"
   ],
-  "scRepertoire": [],
   "scShapes": [
     "BiocParallel"
   ],
@@ -11412,7 +11389,6 @@
   "scde": [
     "BiocParallel"
   ],
-  "scds": [],
   "schex": [],
   "scider": [
     "SpatialExperiment",
@@ -11531,7 +11507,6 @@
     "BiocSingular",
     "BiocParallel"
   ],
-  "sechm": [],
   "segmentSeq": [
     "ShortRead",
     "Rsamtools",
@@ -11767,7 +11742,6 @@
     "sva",
     "celda",
     "DropletUtils",
-    "scds",
     "tximport",
     "eds",
     "GSEABase",
@@ -11999,7 +11973,6 @@
     "scuttle",
     "BiocFileCache"
   ],
-  "spqn": [],
   "squallms": [
     "xcms",
     "MSnbase",
