@@ -733,3 +733,9 @@ mogsa
 GlobalAncova
 MLP
 spatialHeatmap
+a4
+Category
+esetVis
+npGSEA
+RcisTarget
+rrvgo

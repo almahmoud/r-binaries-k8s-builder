@@ -152,7 +152,6 @@
     "ReportingTools",
     "Glimma",
     "DESeq2",
-    "Category",
     "ggbio",
     "BiocParallel",
     "biovizBase",
@@ -898,7 +897,6 @@
     "matter",
     "ProtGenerics"
   ],
-  "Category": [],
   "CatsCradle": [
     "SpatialExperiment",
     "BiocFileCache"
@@ -2110,9 +2108,7 @@
     "MultiAssayExperiment",
     "BiocBaseUtils"
   ],
-  "GOstats": [
-    "Category"
-  ],
+  "GOstats": [],
   "GRaNIE": [
     "DESeq2",
     "biomaRt",
@@ -2385,7 +2381,6 @@
     "BiocParallel"
   ],
   "GmicR": [
-    "Category",
     "GOstats",
     "impute",
     "preprocessCore"
@@ -3322,7 +3317,6 @@
     "GOstats",
     "lumi",
     "BiocFileCache",
-    "Category",
     "affy",
     "methylumi",
     "GenomicFeatures",
@@ -4420,7 +4414,6 @@
   ],
   "RbowtieCuda": [],
   "Rbwa": [],
-  "RcisTarget": [],
   "Rcwl": [
     "BiocParallel",
     "basilisk",
@@ -4516,7 +4509,6 @@
     "BiocParallel"
   ],
   "ReportingTools": [
-    "Category",
     "GOstats",
     "DESeq2",
     "ggbio",
@@ -4729,8 +4721,7 @@
     "sva"
   ],
   "SGCP": [
-    "GOstats",
-    "Category"
+    "GOstats"
   ],
   "SGSeq": [
     "Rsamtools",
@@ -5579,7 +5570,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "a4": [],
   "abseqR": [
     "BiocParallel",
     "BiocStyle"
@@ -5619,7 +5609,6 @@
     "Glimma",
     "preprocessCore",
     "DESeq2",
-    "Category",
     "ggbio",
     "BiocParallel",
     "biovizBase",
@@ -5933,8 +5922,7 @@
     "rtracklayer"
   ],
   "attract": [
-    "GOstats",
-    "Category"
+    "GOstats"
   ],
   "autonomics": [
     "BiocFileCache",
@@ -6345,7 +6333,6 @@
     "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
-    "Category",
     "biomaRt",
     "AnVILBase",
     "GenomicFeatures",
@@ -6375,7 +6362,6 @@
     "GenomicAlignments"
   ],
   "categoryCompare": [
-    "Category",
     "GOstats"
   ],
   "cbaf": [
@@ -7686,7 +7672,6 @@
     "SpatialExperiment",
     "BiocFileCache"
   ],
-  "esetVis": [],
   "eudysbiome": [
     "Rsamtools",
     "BiocParallel"
@@ -8493,7 +8478,6 @@
     "BiocParallel",
     "rtracklayer",
     "GenomicFeatures",
-    "Category",
     "clusterProfiler",
     "DOSE",
     "enrichplot",
@@ -8563,9 +8547,7 @@
     "biomaRt",
     "BiocFileCache"
   ],
-  "interactiveDisplay": [
-    "Category"
-  ],
+  "interactiveDisplay": [],
   "ipdDb": [
     "AnnotationHub",
     "BiocFileCache",
@@ -8846,8 +8828,7 @@
     "treeio"
   ],
   "meshr": [
-    "BiocStyle",
-    "Category"
+    "BiocStyle"
   ],
   "metaCCA": [],
   "metaMS": [
@@ -9094,7 +9075,6 @@
     "impute",
     "TCGAbiolinks",
     "ctc",
-    "Category",
     "GOstats",
     "biomaRt",
     "BiocFileCache"
@@ -9617,7 +9597,6 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "npGSEA": [],
   "nucleR": [
     "Rsamtools",
     "ShortRead",
@@ -9865,7 +9844,6 @@
     "biomaRt",
     "BiocFileCache",
     "BiocParallel",
-    "Category",
     "clusterProfiler",
     "goseq",
     "DOSE",
@@ -9928,7 +9906,6 @@
     "rhdf5filters"
   ],
   "phenoTest": [
-    "Category",
     "biomaRt",
     "BiocFileCache"
   ],
@@ -10528,7 +10505,6 @@
     "MultiAssayExperiment",
     "BiocBaseUtils"
   ],
-  "rrvgo": [],
   "rsemmed": [],
   "rtracklayer": [
     "Rsamtools",
@@ -10762,7 +10738,6 @@
   "scTensor": [
     "BiocStyle",
     "AnnotationHub",
-    "Category",
     "meshr",
     "GOstats",
     "ReactomePA",
