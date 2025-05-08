@@ -1,0 +1,95 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''CAEN'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'CAEN'
+also installing the dependencies ‘bookdown’, ‘PoiClaClu’, ‘BiocStyle’
+
+trying URL 'https://cloud.r-project.org/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/PoiClaClu_1.0.2.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocStyle_2.36.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/CAEN_1.16.0.tar.gz'
+* installing *source* package ‘bookdown’ ...
+** this is package ‘bookdown’ version ‘0.43’
+** package ‘bookdown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.43_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *source* package ‘PoiClaClu’ ...
+** this is package ‘PoiClaClu’ version ‘1.0.2.1’
+** package ‘PoiClaClu’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘PoiClaClu’ as ‘PoiClaClu_1.0.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (PoiClaClu)
+* installing *source* package ‘BiocStyle’ ...
+** this is package ‘BiocStyle’ version ‘2.36.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+* installing *source* package ‘CAEN’ ...
+** this is package ‘CAEN’ version ‘1.16.0’
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CAEN’ as ‘CAEN_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CAEN)
+
+The downloaded source packages are in
+	‘/tmp/RtmpJrT5bM/downloaded_packages’
+Old packages: 'cli', 'DelayedArray', 'diffobj', 'edgeR', 'globals',
+  'parallelly', 'pkgdown', 'RcppArmadillo', 'RSQLite', 'scales', 'sctransform',
+  'Seurat', 'SeuratObject', 'SingleCellExperiment', 'spatstat.univar',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8'
+
+real	0m31.203s
+user	0m24.604s
+sys	0m12.209s

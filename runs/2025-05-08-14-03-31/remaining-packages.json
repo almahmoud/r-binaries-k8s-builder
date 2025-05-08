@@ -501,7 +501,6 @@
     "impute",
     "preprocessCore"
   ],
-  "BioNet": [],
   "BioTIP": [
     "scran",
     "scuttle",
@@ -583,7 +582,6 @@
     "ggtree",
     "treeio"
   ],
-  "CAEN": [],
   "CAFE": [
     "biovizBase",
     "ggbio",
@@ -1990,8 +1988,7 @@
   ],
   "FEAST": [
     "BiocParallel",
-    "TSCAN",
-    "TrajectoryUtils"
+    "TSCAN"
   ],
   "FGNet": [],
   "FLAMES": [
@@ -2125,7 +2122,6 @@
   "GENESIS": [
     "BiocParallel",
     "GWASTools",
-    "SeqVarTools",
     "DNAcopy",
     "quantsmooth"
   ],
@@ -2142,7 +2138,6 @@
   ],
   "GEWIST": [],
   "GIGSEA": [],
-  "GNET2": [],
   "GNOSIS": [
     "maftools",
     "cBioPortalData",
@@ -2937,7 +2932,6 @@
     "RProtoBufLib",
     "Rhdf5lib"
   ],
-  "MAST": [],
   "MBASED": [
     "BiocParallel"
   ],
@@ -3034,7 +3028,6 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "MGFM": [],
   "MGFR": [
     "biomaRt",
     "BiocFileCache"
@@ -3317,7 +3310,6 @@
     "ProtGenerics",
     "MetaboCoreUtils"
   ],
-  "MetMashR": [],
   "MetNet": [
     "BiocParallel"
   ],
@@ -3927,7 +3919,6 @@
     "ProtGenerics",
     "BiocParallel"
   ],
-  "PIPETS": [],
   "PLSDAbatch": [
     "mixOmics",
     "BiocStyle",
@@ -3945,16 +3936,13 @@
     "BiocParallel",
     "genefilter"
   ],
-  "POWSC": [
-    "MAST"
-  ],
+  "POWSC": [],
   "PPInfer": [
     "biomaRt",
     "fgsea",
     "BiocFileCache",
     "BiocParallel"
   ],
-  "PREDA": [],
   "PROMISE": [
     "GSEABase"
   ],
@@ -4224,7 +4212,6 @@
     "ProtGenerics",
     "BiocParallel",
     "GWASTools",
-    "SeqVarTools",
     "DNAcopy",
     "quantsmooth",
     "GenomicAlignments"
@@ -4917,7 +4904,6 @@
     "Rhdf5lib"
   ],
   "SMITE": [
-    "BioNet",
     "goseq",
     "rtracklayer",
     "GenomicFeatures",
@@ -5019,7 +5005,6 @@
     "RProtoBufLib",
     "Rhdf5lib"
   ],
-  "SemDist": [],
   "SeqGSEA": [
     "DESeq2",
     "biomaRt",
@@ -5032,19 +5017,16 @@
     "BiocFileCache",
     "BiocVersion"
   ],
-  "SeqVarTools": [],
   "ShortRead": [
     "BiocParallel",
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "SiPSiC": [],
   "SigCheck": [
     "MLInterfaces",
     "BiocParallel",
     "genefilter"
   ],
-  "SigFuge": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
@@ -5464,9 +5446,7 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "TSCAN": [
-    "TrajectoryUtils"
-  ],
+  "TSCAN": [],
   "TVTB": [
     "BiocParallel",
     "ensembldb",
@@ -5510,7 +5490,6 @@
     "BiocBaseUtils",
     "fgsea"
   ],
-  "TrajectoryUtils": [],
   "TreeAndLeaf": [
     "RedeR"
   ],
@@ -5635,7 +5614,6 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "VariantExperiment": [],
   "VariantFiltering": [
     "VariantAnnotation",
     "BiocParallel",
@@ -6247,7 +6225,6 @@
     "zinbwave",
     "DESeq2",
     "ALDEx2",
-    "MAST",
     "microbiome",
     "mixOmics",
     "dearseq",
@@ -6629,9 +6606,7 @@
   ],
   "ccrepe": [],
   "ceRNAnetsim": [],
-  "celaref": [
-    "MAST"
-  ],
+  "celaref": [],
   "celda": [
     "scater",
     "scran",
@@ -6993,7 +6968,6 @@
   "condiments": [
     "slingshot",
     "BiocParallel",
-    "TrajectoryUtils",
     "distinct",
     "scater",
     "scuttle",
@@ -8329,9 +8303,7 @@
     "GenomicAlignments"
   ],
   "gage": [],
-  "gatom": [
-    "BioNet"
-  ],
+  "gatom": [],
   "gcapc": [
     "BSgenome",
     "Rsamtools",
@@ -8510,14 +8482,12 @@
     "rtracklayer",
     "BiocParallel"
   ],
-  "goProfiles": [],
   "goSTAG": [
     "biomaRt",
     "BiocFileCache"
   ],
   "goSorensen": [
     "clusterProfiler",
-    "goProfiles",
     "DOSE",
     "enrichplot",
     "GOSemSim",
@@ -10887,7 +10857,6 @@
   "sSeq": [],
   "sagenhaft": [],
   "sampleClassifier": [
-    "MGFM",
     "MGFR",
     "biomaRt",
     "BiocFileCache"
@@ -11103,8 +11072,7 @@
     "Rhdf5lib",
     "rhdf5filters",
     "BiocParallel",
-    "GenomicAlignments",
-    "TrajectoryUtils"
+    "GenomicAlignments"
   ],
   "scRecover": [
     "BiocParallel"
@@ -11114,8 +11082,7 @@
   ],
   "scTGIF": [
     "GSEABase",
-    "BiocStyle",
-    "schex"
+    "BiocStyle"
   ],
   "scTHI": [
     "BiocParallel"
@@ -11128,7 +11095,6 @@
     "GOstats",
     "ReactomePA",
     "DOSE",
-    "schex",
     "BiocFileCache",
     "BiocVersion",
     "GSEABase",
@@ -11188,7 +11154,6 @@
   "scde": [
     "BiocParallel"
   ],
-  "schex": [],
   "scider": [
     "SpatialExperiment",
     "BiocFileCache"
@@ -11529,7 +11494,6 @@
     "ensembldb",
     "ggtree",
     "GSVA",
-    "MAST",
     "scater",
     "scMerge",
     "scran",
@@ -11543,7 +11507,6 @@
     "zinbwave",
     "scDblFinder",
     "TSCAN",
-    "TrajectoryUtils",
     "scuttle",
     "zellkonverter",
     "BiocFileCache",
@@ -11623,9 +11586,7 @@
   "slalom": [
     "GSEABase"
   ],
-  "slingshot": [
-    "TrajectoryUtils"
-  ],
+  "slingshot": [],
   "smoothclust": [
     "SpatialExperiment",
     "BiocFileCache"
@@ -12089,8 +12050,7 @@
   ],
   "tradeSeq": [
     "slingshot",
-    "BiocParallel",
-    "TrajectoryUtils"
+    "BiocParallel"
   ],
   "transcriptR": [
     "chipseq",

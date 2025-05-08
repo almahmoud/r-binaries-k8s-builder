@@ -901,3 +901,8 @@ SeqVarTools
 ggmanh
 VariantExperiment
 tRNAdbImport
+POWSC
+TSCAN
+celaref
+gatom
+slingshot
