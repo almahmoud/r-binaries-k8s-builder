@@ -550,3 +550,12 @@ Scale4C
 SeqGate
 SingleCellExperiment
 supersigs
+AnnotationForge
+barbieQ
+BUSseq
+LiquidAssociation
+MAI
+MeSHDbi
+SpatialCPie
+SQLDataFrame
+wpm

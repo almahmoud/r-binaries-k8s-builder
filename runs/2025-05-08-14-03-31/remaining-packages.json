@@ -39,7 +39,6 @@
     "rtracklayer",
     "BiocCheck",
     "OrganismDbi",
-    "AnnotationForge",
     "BiocFileCache",
     "BiocVersion",
     "BiocBaseUtils",
@@ -174,7 +173,6 @@
     "DESeq2",
     "Category",
     "annotate",
-    "AnnotationForge",
     "GSEABase",
     "ggbio",
     "genefilter",
@@ -259,7 +257,6 @@
     "zlibbioc",
     "BiocParallel"
   ],
-  "AnnotationForge": [],
   "AnnotationHub": [
     "BiocFileCache",
     "BiocVersion"
@@ -271,7 +268,6 @@
     "rtracklayer",
     "BiocCheck",
     "OrganismDbi",
-    "AnnotationForge",
     "BiocFileCache",
     "BiocVersion",
     "BiocBaseUtils",
@@ -391,7 +387,6 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "BUSseq": [],
   "BaalChIP": [
     "Rsamtools",
     "GenomicAlignments",
@@ -2044,7 +2039,6 @@
     "rtracklayer",
     "BiocCheck",
     "OrganismDbi",
-    "AnnotationForge",
     "BiocFileCache",
     "BiocVersion",
     "BiocBaseUtils",
@@ -2273,7 +2267,6 @@
   "GOstats": [
     "Category",
     "annotate",
-    "AnnotationForge",
     "GSEABase",
     "genefilter"
   ],
@@ -2584,7 +2577,6 @@
     "GOstats",
     "genefilter",
     "annotate",
-    "AnnotationForge",
     "impute",
     "preprocessCore"
   ],
@@ -2968,7 +2960,6 @@
     "MultiAssayExperiment",
     "BiocBaseUtils"
   ],
-  "LiquidAssociation": [],
   "LoomExperiment": [
     "rhdf5",
     "HDF5Array",
@@ -3033,7 +3024,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "MAI": [],
   "MAIT": [
     "CAMERA",
     "xcms",
@@ -3450,7 +3440,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "MeSHDbi": [],
   "Melissa": [
     "BPRMeth",
     "BiocStyle"
@@ -3593,7 +3582,6 @@
     "lumi",
     "BiocFileCache",
     "Category",
-    "AnnotationForge",
     "affy",
     "methylumi",
     "GenomicFeatures",
@@ -4870,7 +4858,6 @@
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationForge",
     "ProtGenerics",
     "txdbmaker",
     "biomaRt",
@@ -5093,7 +5080,6 @@
     "genefilter",
     "GOstats",
     "Category",
-    "AnnotationForge",
     "GSEABase"
   ],
   "SGSeq": [
@@ -5199,7 +5185,6 @@
     "Rhdf5lib",
     "rhdf5filters"
   ],
-  "SQLDataFrame": [],
   "STATegRa": [
     "affy",
     "preprocessCore"
@@ -5366,7 +5351,6 @@
     "BiocParallel",
     "GenomicAlignments"
   ],
-  "SpatialCPie": [],
   "SpatialExperiment": [
     "BiocFileCache"
   ],
@@ -5907,7 +5891,6 @@
   "ViSEAGO": [
     "GOSemSim",
     "topGO",
-    "AnnotationForge",
     "biomaRt",
     "fgsea",
     "BiocFileCache",
@@ -6057,7 +6040,6 @@
     "DESeq2",
     "Category",
     "annotate",
-    "AnnotationForge",
     "GSEABase",
     "ggbio",
     "genefilter",
@@ -6386,7 +6368,6 @@
     "GOstats",
     "Category",
     "annotate",
-    "AnnotationForge",
     "GSEABase",
     "genefilter"
   ],
@@ -6447,7 +6428,6 @@
     "BiocBaseUtils"
   ],
   "banocc": [],
-  "barbieQ": [],
   "basecallQC": [
     "ShortRead",
     "BiocParallel",
@@ -6868,8 +6848,7 @@
     "Category",
     "GOstats",
     "annotate",
-    "genefilter",
-    "AnnotationForge"
+    "genefilter"
   ],
   "cbaf": [
     "BiocFileCache",
@@ -8313,7 +8292,6 @@
     "treeio"
   ],
   "fastLiquidAssociation": [
-    "LiquidAssociation",
     "impute",
     "preprocessCore"
   ],
@@ -9140,7 +9118,6 @@
     "GenomicFeatures",
     "Category",
     "annotate",
-    "AnnotationForge",
     "clusterProfiler",
     "GSEABase",
     "genefilter",
@@ -9507,7 +9484,6 @@
     "enrichplot",
     "GOSemSim",
     "AnnotationHub",
-    "MeSHDbi",
     "BiocFileCache",
     "BiocVersion",
     "BiocParallel",
@@ -9517,7 +9493,6 @@
   ],
   "meshr": [
     "BiocStyle",
-    "MeSHDbi",
     "Category",
     "GSEABase",
     "genefilter",
@@ -9752,7 +9727,6 @@
     "rtracklayer",
     "BiocCheck",
     "OrganismDbi",
-    "AnnotationForge",
     "rhdf5filters",
     "Rhdf5lib",
     "BiocBaseUtils",
@@ -9791,7 +9765,6 @@
     "GSEABase",
     "genefilter",
     "annotate",
-    "AnnotationForge",
     "biomaRt",
     "BiocFileCache"
   ],
@@ -10623,7 +10596,6 @@
     "BiocParallel",
     "annotate",
     "Category",
-    "AnnotationForge",
     "clusterProfiler",
     "goseq",
     "GSEABase",
@@ -11586,7 +11558,6 @@
   "scTensor": [
     "BiocStyle",
     "AnnotationHub",
-    "MeSHDbi",
     "Category",
     "meshr",
     "GOstats",
@@ -11601,7 +11572,6 @@
     "BiocParallel",
     "fgsea",
     "GOSemSim",
-    "AnnotationForge",
     "enrichplot",
     "graphite",
     "ggtree",
@@ -12879,7 +12849,6 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "wpm": [],
   "wppi": [
     "OmnipathR"
   ],
