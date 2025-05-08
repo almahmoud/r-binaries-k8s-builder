@@ -605,3 +605,13 @@ Site2Target
 stageR
 struct
 topGO
+fishpond
+GEOquery
+IgGeneUsage
+MWASTools
+omicade4
+PADOG
+pgxRpi
+rTRM
+smartid
+snapcount

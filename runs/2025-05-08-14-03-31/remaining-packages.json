@@ -326,9 +326,7 @@
     "BiocParallel"
   ],
   "BG2": [],
-  "BLMA": [
-    "PADOG"
-  ],
+  "BLMA": [],
   "BOBaFIT": [
     "ggbio",
     "plyranges",
@@ -1025,7 +1023,6 @@
     "biomaRt",
     "rtracklayer",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "methylumi",
@@ -1068,7 +1065,6 @@
     "BSgenome"
   ],
   "ChIPXpress": [
-    "GEOquery",
     "frma",
     "affy",
     "preprocessCore",
@@ -1472,7 +1468,6 @@
     "BiocParallel"
   ],
   "DExMA": [
-    "GEOquery",
     "impute",
     "snpStats",
     "sva",
@@ -1515,7 +1510,6 @@
     "bumphunter",
     "preprocessCore",
     "genefilter",
-    "GEOquery",
     "methylumi",
     "VariantAnnotation",
     "ProtGenerics",
@@ -1738,7 +1732,6 @@
     "affy",
     "biomaRt",
     "ArrayExpress",
-    "GEOquery",
     "preprocessCore",
     "oligo",
     "BiocFileCache",
@@ -1782,13 +1775,11 @@
   ],
   "EDIRquery": [],
   "EGAD": [
-    "GEOquery",
     "impute"
   ],
   "EGSEA": [
     "gage",
     "pathview",
-    "PADOG",
     "GSVA",
     "globaltest",
     "safe",
@@ -1849,7 +1840,6 @@
     "BiocVersion",
     "bumphunter",
     "preprocessCore",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
@@ -2168,13 +2158,11 @@
   ],
   "GEOexplorer": [
     "sva",
-    "GEOquery",
     "impute",
     "genefilter",
     "BiocParallel"
   ],
   "GEOmetadb": [],
-  "GEOquery": [],
   "GEOsubmission": [
     "affy",
     "preprocessCore"
@@ -2767,7 +2755,6 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "IgGeneUsage": [],
   "InPAS": [
     "BSgenome",
     "cleanUpdTSeq",
@@ -2954,7 +2941,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "bumphunter",
-    "GEOquery",
     "BiocParallel",
     "Rsamtools",
     "GenomicAlignments"
@@ -3035,7 +3021,6 @@
     "bumphunter",
     "preprocessCore",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "methylumi",
@@ -3055,7 +3040,6 @@
     "bumphunter",
     "preprocessCore",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "methylumi",
@@ -3332,7 +3316,6 @@
     "preprocessCore"
   ],
   "MVCClass": [],
-  "MWASTools": [],
   "Macarron": [
     "BiocParallel",
     "impute",
@@ -3414,7 +3397,6 @@
   "MetaboSignal": [
     "hpar",
     "biomaRt",
-    "MWASTools",
     "mygene",
     "BiocFileCache",
     "ensembldb",
@@ -3449,7 +3431,6 @@
     "bumphunter",
     "preprocessCore",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "GenomicFeatures",
     "h5mread",
@@ -3506,7 +3487,6 @@
     "rtracklayer",
     "minfi",
     "bumphunter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "Rsamtools",
@@ -3539,7 +3519,6 @@
   "Moonlight2R": [
     "clusterProfiler",
     "DOSE",
-    "GEOquery",
     "rtracklayer",
     "AnnotationHub",
     "EpiMix",
@@ -3562,7 +3541,6 @@
     "clusterProfiler",
     "DOSE",
     "TCGAbiolinks",
-    "GEOquery",
     "enrichplot",
     "GOSemSim",
     "BiocParallel",
@@ -3923,7 +3901,6 @@
     "genefilter",
     "BiocParallel"
   ],
-  "PADOG": [],
   "PAIRADISE": [
     "BiocParallel"
   ],
@@ -4348,7 +4325,6 @@
     "bumphunter",
     "preprocessCore",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "GenomicAlignments",
     "GenomicFeatures",
@@ -4443,7 +4419,6 @@
     "impute",
     "BiocParallel",
     "derfinder",
-    "GEOquery",
     "rtracklayer",
     "bumphunter",
     "GenomicAlignments",
@@ -4843,7 +4818,6 @@
     "rtracklayer",
     "bumphunter",
     "preprocessCore",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "h5mread",
@@ -4859,7 +4833,6 @@
     "BiocFileCache",
     "BiocParallel",
     "derfinder",
-    "GEOquery",
     "rtracklayer",
     "bumphunter",
     "GenomicAlignments",
@@ -4916,7 +4889,6 @@
   "SC3": [],
   "SCAN.UPC": [
     "oligo",
-    "GEOquery",
     "affy",
     "sva",
     "preprocessCore",
@@ -6182,7 +6154,6 @@
     "minfi",
     "genefilter",
     "bumphunter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "Rsamtools",
@@ -6357,7 +6328,6 @@
     "wateRmelon",
     "minfi",
     "methylumi",
-    "GEOquery",
     "genefilter",
     "GenomicFeatures",
     "bumphunter",
@@ -7146,7 +7116,6 @@
     "bumphunter",
     "preprocessCore",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "Rsamtools",
@@ -7574,7 +7543,6 @@
     "bumphunter",
     "preprocessCore",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
@@ -7879,7 +7847,6 @@
     "OrganismDbi",
     "preprocessCore",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "VariantAnnotation",
     "h5mread",
@@ -8132,7 +8099,6 @@
     "genefilter",
     "rtracklayer",
     "bumphunter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "h5mread",
@@ -8151,7 +8117,6 @@
   "findIPs": [
     "BiocParallel"
   ],
-  "fishpond": [],
   "flagme": [
     "xcms",
     "CAMERA",
@@ -8351,7 +8316,6 @@
     "bumphunter",
     "preprocessCore",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
@@ -8791,7 +8755,6 @@
     "minfi",
     "genefilter",
     "bumphunter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "Rsamtools",
@@ -8811,7 +8774,6 @@
     "bumphunter",
     "preprocessCore",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "impute",
@@ -9116,7 +9078,6 @@
     "minfi",
     "genefilter",
     "bumphunter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "Rsamtools",
@@ -9396,7 +9357,6 @@
     "rhdf5",
     "GenomicFeatures",
     "preprocessCore",
-    "GEOquery",
     "rtracklayer",
     "GenomicAlignments",
     "Rsamtools",
@@ -9419,7 +9379,6 @@
     "GenomicFeatures",
     "bumphunter",
     "preprocessCore",
-    "GEOquery",
     "HDF5Array",
     "rtracklayer",
     "treeio",
@@ -9482,7 +9441,6 @@
     "ExperimentHubData",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "BiocVersion",
@@ -9511,7 +9469,6 @@
     "rtracklayer",
     "bumphunter",
     "preprocessCore",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "h5mread",
@@ -9661,7 +9618,6 @@
     "bumphunter",
     "preprocessCore",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
@@ -9680,7 +9636,6 @@
     "GenomicFeatures",
     "bumphunter",
     "preprocessCore",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "rtracklayer",
@@ -10135,12 +10090,10 @@
   "omicRexposome": [
     "rexposome",
     "sva",
-    "omicade4",
     "genefilter",
     "BiocParallel",
     "impute"
   ],
-  "omicade4": [],
   "omicplotR": [
     "ALDEx2",
     "BiocParallel"
@@ -10392,9 +10345,7 @@
   ],
   "pfamAnalyzeR": [],
   "pgca": [],
-  "pgxRpi": [],
   "phantasus": [
-    "GEOquery",
     "rhdf5",
     "fgsea",
     "DESeq2",
@@ -10620,7 +10571,6 @@
     "BiocVersion",
     "BiocParallel",
     "derfinder",
-    "GEOquery",
     "rtracklayer",
     "bumphunter",
     "GenomicAlignments",
@@ -10724,7 +10674,6 @@
     "bumphunter",
     "preprocessCore",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
@@ -10775,9 +10724,7 @@
     "BiocFileCache",
     "BiocVersion"
   ],
-  "rTRM": [],
   "rTRMui": [
-    "rTRM",
     "MotifDb",
     "rtracklayer",
     "Rsamtools",
@@ -10820,7 +10767,6 @@
   "recount": [
     "BiocParallel",
     "derfinder",
-    "GEOquery",
     "rtracklayer",
     "bumphunter",
     "GenomicAlignments",
@@ -10849,7 +10795,6 @@
     "bumphunter",
     "preprocessCore",
     "genefilter",
-    "GEOquery",
     "BiocParallel",
     "Rhdf5lib",
     "rhdf5filters",
@@ -11570,7 +11515,6 @@
     "bumphunter",
     "preprocessCore",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
@@ -11588,7 +11532,6 @@
     "bumphunter",
     "preprocessCore",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "Rsamtools",
@@ -11761,7 +11704,6 @@
     "GenomicFeatures",
     "bumphunter",
     "preprocessCore",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "lumi",
@@ -11780,7 +11722,6 @@
   "slingshot": [
     "TrajectoryUtils"
   ],
-  "smartid": [],
   "smoothclust": [
     "SpatialExperiment",
     "BiocFileCache"
@@ -11790,7 +11731,6 @@
     "SpatialExperiment",
     "BiocFileCache"
   ],
-  "snapcount": [],
   "snifter": [
     "basilisk",
     "dir.expiry",
@@ -12491,7 +12431,6 @@
     "genefilter",
     "rtracklayer",
     "bumphunter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "h5mread",
@@ -12588,7 +12527,6 @@
     "minfi",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "HDF5Array",
     "BiocParallel",
     "GenomicFeatures",
