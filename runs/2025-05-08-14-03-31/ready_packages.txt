@@ -1,7 +1,3 @@
-CNTools
-GeneMeta
-MLInterfaces
-a4Base
-biocGraph
-covRNA
-spatialHeatmap
+Rcpi
+XDE
+rrvgo

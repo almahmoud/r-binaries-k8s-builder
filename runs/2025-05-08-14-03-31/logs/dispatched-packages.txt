@@ -914,3 +914,6 @@ a4Base
 biocGraph
 covRNA
 spatialHeatmap
+Rcpi
+XDE
+rrvgo

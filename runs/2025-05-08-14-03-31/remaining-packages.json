@@ -318,7 +318,6 @@
     "BiocParallel"
   ],
   "BG2": [],
-  "BLMA": [],
   "BOBaFIT": [
     "ggbio",
     "plyranges",
@@ -677,7 +676,6 @@
     "ExperimentHub",
     "BiocFileCache",
     "DOSE",
-    "GOSemSim",
     "AnnotationHub",
     "ggtree",
     "BiocVersion",
@@ -706,7 +704,6 @@
     "fgsea",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "impute",
     "preprocessCore",
@@ -741,7 +738,6 @@
     "Rsamtools",
     "BiocParallel"
   ],
-  "CNTools": [],
   "CNVMetrics": [
     "BiocParallel"
   ],
@@ -900,7 +896,6 @@
     "maftools",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "DNAcopy",
     "zlibbioc",
     "BiocParallel",
@@ -932,7 +927,6 @@
     "DESeq2",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "snpStats",
     "fgsea",
@@ -1084,7 +1078,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "DOSE",
-    "GOSemSim",
     "ggtree",
     "Rsamtools",
     "GenomicAlignments",
@@ -1504,8 +1497,7 @@
   ],
   "DOSE": [
     "BiocParallel",
-    "fgsea",
-    "GOSemSim"
+    "fgsea"
   ],
   "DRIMSeq": [
     "BiocParallel"
@@ -1743,7 +1735,6 @@
     "impute"
   ],
   "EGSEA": [
-    "gage",
     "GSVA",
     "globaltest",
     "GSEABase",
@@ -1831,7 +1822,6 @@
     "BiocStyle",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "ggtree",
@@ -1846,7 +1836,6 @@
     "clusterProfiler",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "ggtree",
@@ -1870,7 +1859,6 @@
     "impute",
     "Rsamtools",
     "DOSE",
-    "GOSemSim",
     "ggtree",
     "BiocParallel",
     "fgsea",
@@ -2088,7 +2076,6 @@
     "BiocParallel",
     "BiocFileCache",
     "enrichplot",
-    "GOSemSim",
     "fgsea",
     "ggtree",
     "treeio"
@@ -2130,7 +2117,6 @@
     "GenomicAlignments",
     "BiocParallel"
   ],
-  "GOSemSim": [],
   "GOTHiC": [
     "BSgenome",
     "Rsamtools",
@@ -2246,7 +2232,6 @@
     "Rhdf5lib"
   ],
   "GeDi": [
-    "GOSemSim",
     "GeneTonic",
     "BiocParallel",
     "BiocFileCache",
@@ -2296,7 +2281,6 @@
     "BiocParallel",
     "zlibbioc"
   ],
-  "GeneMeta": [],
   "GeneStructureTools": [
     "Gviz",
     "rtracklayer",
@@ -2320,7 +2304,6 @@
     "goseq",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "rtracklayer",
     "GenomicFeatures",
     "fgsea",
@@ -3030,7 +3013,6 @@
     "BiocBaseUtils",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "ggtree",
     "treeio"
   ],
@@ -3277,7 +3259,6 @@
     "clusterProfiler",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "ggtree",
@@ -3364,7 +3345,6 @@
     "clusterProfiler",
     "enrichplot",
     "DOSE",
-    "GOSemSim",
     "ggtree",
     "BiocParallel",
     "fgsea",
@@ -3427,7 +3407,6 @@
     "BiocFileCache",
     "BiocVersion",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "biomaRt",
@@ -3443,7 +3422,6 @@
     "DOSE",
     "TCGAbiolinks",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "biomaRt",
@@ -3938,7 +3916,6 @@
     "preprocessCore",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "ggtree",
@@ -3994,7 +3971,6 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "ggtree",
@@ -4236,7 +4212,6 @@
     "mixOmics",
     "MOFA2",
     "DOSE",
-    "GOSemSim",
     "DESeq2",
     "BiocParallel",
     "HTSFilter",
@@ -4492,9 +4467,7 @@
     "AUCell",
     "GSEABase"
   ],
-  "Rcpi": [
-    "GOSemSim"
-  ],
+  "Rcpi": [],
   "Rcwl": [
     "BiocParallel",
     "basilisk",
@@ -4528,7 +4501,6 @@
     "enrichplot",
     "BiocParallel",
     "fgsea",
-    "GOSemSim",
     "ggtree",
     "treeio"
   ],
@@ -4543,7 +4515,6 @@
     "BiocFileCache",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "impute",
     "preprocessCore",
     "fgsea",
@@ -4556,7 +4527,6 @@
     "BiocParallel",
     "DESeq2",
     "BiocStyle",
-    "GOSemSim",
     "impute",
     "preprocessCore"
   ],
@@ -4921,8 +4891,7 @@
   "SVMDO": [
     "DOSE",
     "BiocParallel",
-    "fgsea",
-    "GOSemSim"
+    "fgsea"
   ],
   "SVP": [
     "SpatialExperiment",
@@ -5261,7 +5230,6 @@
     "DOSE",
     "BiocParallel",
     "fgsea",
-    "GOSemSim",
     "ggtree",
     "tximport",
     "treeio"
@@ -5581,7 +5549,6 @@
   ],
   "VennDetail": [],
   "ViSEAGO": [
-    "GOSemSim",
     "biomaRt",
     "fgsea",
     "BiocFileCache",
@@ -5617,9 +5584,7 @@
     "Rsamtools",
     "BiocParallel"
   ],
-  "XDE": [
-    "GeneMeta"
-  ],
+  "XDE": [],
   "XNAString": [
     "BSgenome",
     "rtracklayer",
@@ -6185,7 +6150,6 @@
     "RTCGAToolbox",
     "TCGAutils",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "AnVILBase",
@@ -6366,7 +6330,6 @@
     "clusterProfiler",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "ggtree",
@@ -6561,8 +6524,7 @@
     "impute"
   ],
   "cghMCR": [
-    "DNAcopy",
-    "CNTools"
+    "DNAcopy"
   ],
   "chevreulPlot": [
     "chevreulProcess",
@@ -6771,7 +6733,6 @@
   "clusterProfiler": [
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "ggtree",
@@ -6974,7 +6935,6 @@
     "DESeq2",
     "BiocParallel"
   ],
-  "covRNA": [],
   "cpvSNP": [
     "GenomicFeatures",
     "GSEABase",
@@ -7309,7 +7269,6 @@
     "clusterProfiler",
     "sva",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "ggtree",
@@ -7571,13 +7530,11 @@
     "DOSE",
     "BiocParallel",
     "fgsea",
-    "GOSemSim",
     "ggtree",
     "treeio"
   ],
   "enrichplot": [
     "DOSE",
-    "GOSemSim",
     "ggtree",
     "BiocParallel",
     "fgsea",
@@ -7682,7 +7639,6 @@
     "scater",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "scuttle",
     "BiocSingular",
     "BiocParallel",
@@ -7782,7 +7738,6 @@
     "motifmatchr",
     "enrichplot",
     "DOSE",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "ggtree",
@@ -7856,7 +7811,6 @@
     "clusterProfiler",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "ggtree",
@@ -8180,7 +8134,6 @@
     "BiocFileCache",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "rtracklayer",
     "treeio",
     "impute",
@@ -8189,7 +8142,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "gage": [],
   "gatom": [],
   "gcapc": [
     "BSgenome",
@@ -8373,7 +8325,6 @@
     "clusterProfiler",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "ggtree",
@@ -8554,7 +8505,6 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "fgsea",
     "rtracklayer",
     "h5mread",
@@ -8635,7 +8585,6 @@
     "GSEABase",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "txdbmaker",
     "Rsamtools",
     "GenomicAlignments",
@@ -8978,7 +8927,6 @@
   "meshes": [
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "AnnotationHub",
     "BiocFileCache",
     "BiocVersion",
@@ -9129,7 +9077,6 @@
     "BiocParallel",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "minfi",
     "methylumi",
     "fgsea",
@@ -9252,7 +9199,6 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "impute",
@@ -9266,7 +9212,6 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "fgsea",
     "biomaRt",
@@ -9454,7 +9399,6 @@
     "DESeq2",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "rtracklayer",
     "GenomicFeatures",
@@ -10014,7 +9958,6 @@
     "fgsea",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "BiocParallel",
     "ggtree",
     "treeio"
@@ -10032,7 +9975,6 @@
     "GSEABase",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
     "rtracklayer",
     "GenomicFeatures",
     "fgsea",
@@ -10279,7 +10221,6 @@
     "chipseq",
     "ShortRead",
     "DOSE",
-    "GOSemSim",
     "ggtree",
     "fgsea",
     "treeio"
@@ -10693,9 +10634,7 @@
     "MultiAssayExperiment",
     "BiocBaseUtils"
   ],
-  "rrvgo": [
-    "GOSemSim"
-  ],
+  "rrvgo": [],
   "rsemmed": [],
   "rtracklayer": [
     "Rsamtools",
@@ -10905,7 +10844,6 @@
   "scQTLtools": [
     "DESeq2",
     "biomaRt",
-    "GOSemSim",
     "BiocFileCache",
     "BiocParallel"
   ],
@@ -10945,7 +10883,6 @@
     "GSEABase",
     "BiocParallel",
     "fgsea",
-    "GOSemSim",
     "enrichplot",
     "ggtree",
     "treeio"
@@ -11128,7 +11065,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "DOSE",
-    "GOSemSim",
     "ggtree",
     "Rsamtools",
     "GenomicAlignments",
@@ -11165,7 +11101,6 @@
     "enrichplot",
     "GenomicFeatures",
     "DOSE",
-    "GOSemSim",
     "fgsea",
     "ggtree",
     "GenomicAlignments",
@@ -11267,7 +11202,6 @@
     "rhdf5",
     "GSEABase",
     "enrichplot",
-    "GOSemSim",
     "AnnotationHub",
     "BiocFileCache",
     "h5mread",
@@ -11725,7 +11659,6 @@
   "tRanslatome": [
     "DESeq2",
     "RankProd",
-    "GOSemSim",
     "BiocParallel"
   ],
   "tadar": [

@@ -699,3 +699,9 @@ IFAA
 qmtools
 tRNAdbImport
 TSCAN
+BLMA
+CNTools
+covRNA
+gage
+GeneMeta
+GOSemSim
