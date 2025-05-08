@@ -1,4 +1,0 @@
-GeoDiff
-SpatialDecon
-memes
-motifTestR

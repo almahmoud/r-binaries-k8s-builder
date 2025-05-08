@@ -143,7 +143,6 @@
     "biovizBase",
     "BiocFileCache",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "ATACseqQC": [
@@ -168,7 +167,6 @@
     "HDF5Array",
     "TFBSTools",
     "BiocVersion",
-    "AnnotationFilter",
     "ProtGenerics",
     "h5mread",
     "Rhdf5lib",
@@ -228,7 +226,6 @@
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationFilter",
     "ProtGenerics",
     "txdbmaker",
     "biomaRt",
@@ -249,7 +246,6 @@
     "ensembldb",
     "biovizBase",
     "BiocFileCache",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "AlphaBeta": [
@@ -306,7 +302,6 @@
     "BiocParallel"
   ],
   "AnnotationDbi": [],
-  "AnnotationFilter": [],
   "AnnotationForge": [
     "AnnotationDbi"
   ],
@@ -421,7 +416,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationDbi",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel",
     "txdbmaker",
@@ -454,7 +448,6 @@
   ],
   "BUSpaRse": [
     "AnnotationDbi",
-    "AnnotationFilter",
     "biomaRt",
     "BSgenome",
     "ensembldb",
@@ -718,7 +711,6 @@
     "AnnotationDbi",
     "VariantAnnotation",
     "ensembldb",
-    "AnnotationFilter",
     "rtracklayer",
     "ProtGenerics",
     "BiocParallel",
@@ -753,7 +745,6 @@
     "GenomicFeatures",
     "VariantAnnotation",
     "ensembldb",
-    "AnnotationFilter",
     "BSgenome",
     "rtracklayer",
     "OrganismDbi",
@@ -781,7 +772,6 @@
     "BSgenome",
     "biovizBase",
     "BiocFileCache",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "CAGEr": [
@@ -805,7 +795,6 @@
     "ensembldb",
     "biovizBase",
     "BiocFileCache",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "CAMERA": [
@@ -829,7 +818,6 @@
     "Rhdf5lib",
     "preprocessCore",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "BiocBaseUtils"
   ],
   "CARDspa": [
@@ -980,7 +968,6 @@
     "zlibbioc",
     "GenomicAlignments",
     "ensembldb",
-    "AnnotationFilter",
     "Rhdf5lib",
     "rhdf5filters",
     "ProtGenerics"
@@ -1002,7 +989,6 @@
     "zlibbioc",
     "GenomicAlignments",
     "ensembldb",
-    "AnnotationFilter",
     "BSgenome",
     "Rhdf5lib",
     "rhdf5filters",
@@ -1286,7 +1272,6 @@
     "h5mread",
     "affy",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "rhdf5filters",
     "Rhdf5lib"
@@ -1343,7 +1328,6 @@
     "AnnotationDbi",
     "VariantAnnotation",
     "ensembldb",
-    "AnnotationFilter",
     "rtracklayer",
     "ProtGenerics",
     "BSgenome"
@@ -1360,7 +1344,6 @@
     "rtracklayer",
     "ensembldb",
     "BiocFileCache",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel",
     "BSgenome"
@@ -1463,7 +1446,6 @@
     "BiocBaseUtils"
   ],
   "CleanUpRNAseq": [
-    "AnnotationFilter",
     "BSgenome",
     "DESeq2",
     "ensembldb",
@@ -1498,7 +1480,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -1541,7 +1522,6 @@
   ],
   "ComPrAn": [],
   "CompoundDb": [
-    "AnnotationFilter",
     "ProtGenerics",
     "Spectra",
     "MetaboCoreUtils",
@@ -1567,7 +1547,6 @@
     "zlibbioc",
     "GenomicAlignments",
     "ensembldb",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "CoreGx": [
@@ -1695,7 +1674,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -1731,7 +1709,6 @@
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -1749,7 +1726,6 @@
     "regioneR",
     "ensembldb",
     "BiocFileCache",
-    "AnnotationFilter",
     "ProtGenerics",
     "BSgenome"
   ],
@@ -1845,7 +1821,6 @@
     "GEOquery",
     "methylumi",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "annotate",
     "h5mread",
@@ -1928,7 +1903,6 @@
     "VariantAnnotation",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationFilter",
     "BiocParallel",
     "ProtGenerics",
     "txdbmaker",
@@ -2130,7 +2104,6 @@
     "biovizBase",
     "BiocFileCache",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "DynDoc": [],
@@ -2203,7 +2176,6 @@
     "GenomicAlignments",
     "BiocBaseUtils",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel"
   ],
@@ -2473,7 +2445,6 @@
     "VariantAnnotation",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationFilter",
     "BiocSingular",
     "bluster",
     "metapod",
@@ -2538,7 +2509,6 @@
   "FuseSOM": [
     "SummarizedExperiment"
   ],
-  "G4SNVHunter": [],
   "GA4GHclient": [
     "VariantAnnotation",
     "SummarizedExperiment",
@@ -2592,7 +2562,6 @@
     "DOSE",
     "biomaRt",
     "pathview",
-    "GenomicDataCommons",
     "BiocParallel",
     "AnnotationDbi",
     "BiocFileCache",
@@ -2653,7 +2622,6 @@
     "AnVILBase",
     "AnnotationDbi",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -2705,7 +2673,6 @@
     "AnnotationDbi",
     "BiocParallel",
     "GenomicFeatures",
-    "AnnotationFilter",
     "rtracklayer",
     "Rsamtools",
     "ProtGenerics",
@@ -2794,7 +2761,6 @@
     "rhdf5",
     "BiocParallel",
     "BiocFileCache",
-    "AnnotationFilter",
     "ProtGenerics",
     "Rhdf5lib",
     "rhdf5filters"
@@ -2892,7 +2858,6 @@
     "BiocFileCache",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel"
   ],
@@ -2927,7 +2892,6 @@
     "Rsamtools",
     "BiocParallel"
   ],
-  "GenomicDataCommons": [],
   "GenomicFeatures": [
     "AnnotationDbi",
     "rtracklayer",
@@ -2972,7 +2936,6 @@
     "BiocParallel",
     "BiocFileCache",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "GenomicOZone": [
@@ -2990,7 +2953,6 @@
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel",
     "txdbmaker"
@@ -3093,7 +3055,6 @@
     "BiocFileCache",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel"
   ],
@@ -3170,7 +3131,6 @@
     "biovizBase",
     "BiocFileCache",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "HiCDOC": [
@@ -3334,7 +3294,6 @@
     "Rhdf5lib",
     "preprocessCore",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "BiocBaseUtils"
   ],
   "ISAnalytics": [],
@@ -3450,7 +3409,6 @@
     "BiocFileCache",
     "AnnotationHub",
     "BiocVersion",
-    "AnnotationFilter",
     "ProtGenerics",
     "annotate"
   ],
@@ -3497,7 +3455,6 @@
     "Rhdf5lib",
     "preprocessCore",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "BiocBaseUtils"
   ],
   "LRBaseDbi": [
@@ -3632,7 +3589,6 @@
     "Rhdf5lib",
     "preprocessCore",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "BiocBaseUtils"
   ],
   "MAPFX": [
@@ -3707,7 +3663,6 @@
     "sva",
     "BiocFileCache",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "annotate",
     "h5mread",
@@ -3943,7 +3898,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -3962,7 +3916,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -4011,7 +3964,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -4032,7 +3984,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -4145,7 +4096,6 @@
     "BiocFileCache",
     "BiocVersion",
     "AnnotationDbi",
-    "AnnotationFilter",
     "MultiAssayExperiment",
     "BiocBaseUtils"
   ],
@@ -4167,7 +4117,6 @@
     "SummarizedExperiment",
     "GenomicFeatures",
     "txdbmaker",
-    "AnnotationFilter",
     "rtracklayer",
     "Rsamtools",
     "ProtGenerics",
@@ -4425,7 +4374,6 @@
     "SummarizedExperiment",
     "QFeatures",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "BiocParallel",
     "MetaboCoreUtils",
     "BiocBaseUtils"
@@ -4443,7 +4391,6 @@
     "QFeatures",
     "MetaboCoreUtils",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "BiocBaseUtils"
   ],
   "MuData": [
@@ -4538,7 +4485,6 @@
     "rhdf5filters",
     "BiocVersion",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "h5mread"
   ],
@@ -4634,7 +4580,6 @@
     "GenomicAlignments",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel"
   ],
@@ -4723,7 +4668,6 @@
     "BiocFileCache"
   ],
   "Organism.dplyr": [
-    "AnnotationFilter",
     "GenomicFeatures",
     "AnnotationDbi",
     "BiocFileCache",
@@ -4843,7 +4787,6 @@
     "BiocFileCache",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel"
   ],
@@ -4921,7 +4864,6 @@
     "AnnotationDbi",
     "annotate",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -4942,7 +4884,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -5052,7 +4993,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -5073,7 +5013,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -5119,7 +5058,6 @@
     "AnnotationDbi",
     "VariantAnnotation",
     "ensembldb",
-    "AnnotationFilter",
     "rtracklayer",
     "biomaRt",
     "BSgenome",
@@ -5138,7 +5076,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "ProtGenerics",
-    "AnnotationFilter",
     "BiocBaseUtils"
   ],
   "QRscore": [
@@ -5177,7 +5114,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationDbi",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel",
     "txdbmaker",
@@ -5204,7 +5140,6 @@
     "ensembldb",
     "BSgenome",
     "AnnotationDbi",
-    "AnnotationFilter",
     "VariantAnnotation",
     "rtracklayer",
     "GenomicFeatures",
@@ -5264,7 +5199,6 @@
     "regioneR",
     "ensembldb",
     "BiocFileCache",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel"
   ],
@@ -5337,7 +5271,6 @@
     "BgeeDB",
     "GenomicFeatures",
     "ensembldb",
-    "AnnotationFilter",
     "topGO",
     "zellkonverter",
     "HDF5Array",
@@ -5382,7 +5315,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -5420,7 +5352,6 @@
     "biovizBase",
     "BiocFileCache",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "RNAmodR.AlkAnilineSeq": [
@@ -5441,7 +5372,6 @@
     "BiocFileCache",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "RNAmodR.ML": [
@@ -5462,7 +5392,6 @@
     "biovizBase",
     "BiocFileCache",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "RNAmodR.RiboMethSeq": [
@@ -5483,7 +5412,6 @@
     "BiocFileCache",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "RNAsense": [
@@ -5524,7 +5452,6 @@
     "BiocBaseUtils",
     "AnnotationDbi",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "MultiAssayExperiment",
     "rtracklayer",
     "Rsamtools",
@@ -5759,7 +5686,6 @@
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationFilter",
     "AnnotationForge",
     "ProtGenerics",
     "txdbmaker",
@@ -5836,7 +5762,6 @@
     "VariantAnnotation",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationFilter",
     "ProtGenerics",
     "txdbmaker",
     "biomaRt",
@@ -5920,7 +5845,6 @@
     "AnnotationDbi",
     "VariantAnnotation",
     "ensembldb",
-    "AnnotationFilter",
     "rtracklayer",
     "ProtGenerics",
     "BSgenome"
@@ -6133,7 +6057,6 @@
     "ensembldb",
     "biovizBase",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "SPONGE": [
@@ -6322,7 +6245,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationDbi",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel",
     "txdbmaker",
@@ -6593,7 +6515,6 @@
     "AnnotationDbi",
     "BiocBaseUtils",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "MultiAssayExperiment",
     "RaggedExperiment",
     "SummarizedExperiment",
@@ -6772,7 +6693,6 @@
     "SummarizedExperiment"
   ],
   "TVTB": [
-    "AnnotationFilter",
     "BiocParallel",
     "ensembldb",
     "Gviz",
@@ -6891,7 +6811,6 @@
     "Rsamtools",
     "SummarizedExperiment",
     "BiocParallel",
-    "AnnotationFilter",
     "plyranges",
     "rhdf5",
     "Rhdf5lib",
@@ -7007,7 +6926,6 @@
     "biovizBase",
     "GenomicAlignments",
     "BiocVersion",
-    "AnnotationFilter",
     "ProtGenerics",
     "h5mread",
     "Rhdf5lib",
@@ -7131,7 +7049,6 @@
     "GenomicAlignments",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationFilter",
     "BiocParallel",
     "ProtGenerics",
     "txdbmaker",
@@ -7224,7 +7141,6 @@
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationFilter",
     "ProtGenerics",
     "txdbmaker",
     "biomaRt",
@@ -7653,7 +7569,6 @@
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -7794,7 +7709,6 @@
     "AnVILBase",
     "ggtree",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "treeio",
     "Rsamtools",
@@ -7854,7 +7768,6 @@
     "BiocFileCache",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel"
   ],
@@ -7877,7 +7790,6 @@
     "AnnotationDbi",
     "VariantAnnotation",
     "ensembldb",
-    "AnnotationFilter",
     "rtracklayer",
     "ProtGenerics",
     "BiocParallel",
@@ -8051,7 +7963,6 @@
     "AnVILBase",
     "AnnotationDbi",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -8084,7 +7995,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationDbi",
-    "AnnotationFilter",
     "ProtGenerics",
     "txdbmaker",
     "genefilter",
@@ -8113,7 +8023,6 @@
     "genefilter",
     "AnVILBase",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -8167,7 +8076,6 @@
     "annotate",
     "AnVILBase",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -8279,7 +8187,6 @@
     "BiocParallel",
     "metapod",
     "rtracklayer",
-    "AnnotationFilter",
     "AnnotationDbi",
     "Rsamtools",
     "ProtGenerics",
@@ -8298,7 +8205,6 @@
     "SummarizedExperiment",
     "BiocSingular",
     "BiocParallel",
-    "AnnotationFilter",
     "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
@@ -8328,7 +8234,6 @@
     "rtracklayer",
     "BiocSingular",
     "BiocParallel",
-    "AnnotationFilter",
     "AnnotationDbi",
     "Rsamtools",
     "ProtGenerics",
@@ -8346,7 +8251,6 @@
   "chimeraviz": [
     "Gviz",
     "ensembldb",
-    "AnnotationFilter",
     "Rsamtools",
     "GenomicAlignments",
     "AnnotationDbi",
@@ -8407,7 +8311,6 @@
     "BiocFileCache",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel"
   ],
@@ -8479,7 +8382,6 @@
     "QFeatures",
     "Rhdf5lib",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "BiocBaseUtils"
   ],
   "clustSIGNAL": [
@@ -8591,7 +8493,6 @@
     "GenomicAlignments",
     "BiocFileCache",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "combi": [
@@ -8619,7 +8520,6 @@
     "biovizBase",
     "BiocFileCache",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "compSPOT": [],
@@ -8663,7 +8563,6 @@
     "ShortRead",
     "aroma.light",
     "biomaRt",
-    "AnnotationFilter",
     "rtracklayer",
     "ProtGenerics",
     "BiocFileCache"
@@ -8750,7 +8649,6 @@
     "Rhdf5lib",
     "preprocessCore",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "BiocBaseUtils"
   ],
   "cosmosR": [
@@ -8866,7 +8764,6 @@
     "SummarizedExperiment",
     "BiocFileCache",
     "BiocVersion",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "crisprVerse": [
@@ -8895,7 +8792,6 @@
     "biovizBase",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel"
   ],
@@ -8918,7 +8814,6 @@
     "GenomicAlignments",
     "BiocFileCache",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "basilisk",
     "basilisk.utils",
     "ProtGenerics",
@@ -8979,7 +8874,6 @@
     "BiocFileCache",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel"
   ],
@@ -9253,7 +9147,6 @@
     "SummarizedExperiment",
     "demuxmix",
     "GenomicFeatures",
-    "AnnotationFilter",
     "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
@@ -9298,7 +9191,6 @@
     "VariantAnnotation",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationFilter",
     "ProtGenerics",
     "txdbmaker",
     "biomaRt",
@@ -9336,7 +9228,6 @@
     "geneplotter",
     "genefilter",
     "GenomicFeatures",
-    "AnnotationFilter",
     "ProtGenerics",
     "GenomicAlignments",
     "BiocFileCache",
@@ -9447,7 +9338,6 @@
     "biomaRt",
     "ensembldb",
     "BiocFileCache",
-    "AnnotationFilter",
     "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
@@ -9535,7 +9425,6 @@
   ],
   "ensembldb": [
     "GenomicFeatures",
-    "AnnotationFilter",
     "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
@@ -9591,7 +9480,6 @@
     "ensembldb",
     "BiocFileCache",
     "BiocVersion",
-    "AnnotationFilter",
     "Rsamtools",
     "ProtGenerics",
     "BSgenome",
@@ -9677,7 +9565,6 @@
     "SummarizedExperiment",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationFilter",
     "rtracklayer",
     "Rsamtools",
     "ProtGenerics",
@@ -9693,7 +9580,6 @@
     "OrganismDbi",
     "GenomicFeatures",
     "ensembldb",
-    "AnnotationFilter",
     "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
@@ -9709,7 +9595,6 @@
     "OrganismDbi",
     "GenomicFeatures",
     "ensembldb",
-    "AnnotationFilter",
     "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
@@ -9732,7 +9617,6 @@
     "ensembldb",
     "Rsamtools",
     "GenomicAlignments",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel",
     "txdbmaker",
@@ -9948,7 +9832,6 @@
     "Rhdf5lib",
     "preprocessCore",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "BiocBaseUtils"
   ],
   "flowAI": [
@@ -10323,7 +10206,6 @@
     "rhdf5filters",
     "BiocFileCache",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "gep2pep": [
@@ -10359,7 +10241,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationDbi",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel",
     "txdbmaker",
@@ -10441,7 +10322,6 @@
     "BiocFileCache",
     "BiocBaseUtils",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "RaggedExperiment",
     "rtracklayer",
     "Rsamtools",
@@ -10585,12 +10465,10 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "ProtGenerics",
-    "AnnotationFilter",
     "BiocParallel",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
-  "heatmaps": [],
   "hermes": [
     "SummarizedExperiment",
     "biomaRt",
@@ -10862,7 +10740,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "igvShiny": [],
   "imcRtools": [
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -10918,7 +10795,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationDbi",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel",
     "txdbmaker",
@@ -10973,7 +10849,6 @@
     "SummarizedExperiment",
     "GenomicAlignments",
     "ensembldb",
-    "AnnotationFilter",
     "BSgenome",
     "BiocParallel",
     "ProtGenerics"
@@ -11169,7 +11044,6 @@
     "GenomicAlignments",
     "OrganismDbi",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "txdbmaker"
   ],
@@ -11247,7 +11121,6 @@
     "BiocFileCache",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel"
   ],
@@ -11326,7 +11199,6 @@
     "Rhdf5lib",
     "preprocessCore",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "BiocBaseUtils"
   ],
   "metabolomicsWorkbenchR": [
@@ -11512,7 +11384,6 @@
     "biovizBase",
     "BiocFileCache",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "methylSig": [
@@ -11920,7 +11791,6 @@
     "biovizBase",
     "GenomicAlignments",
     "TFBSTools",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "motifmatchr": [
@@ -11968,7 +11838,6 @@
     "VariantAnnotation",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationFilter",
     "ProtGenerics",
     "txdbmaker"
   ],
@@ -11992,7 +11861,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -12013,7 +11881,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -12022,7 +11889,6 @@
     "SummarizedExperiment",
     "MultiAssayExperiment",
     "ProtGenerics",
-    "AnnotationFilter",
     "BiocBaseUtils"
   ],
   "msqrob2": [
@@ -12031,8 +11897,7 @@
     "SummarizedExperiment",
     "MultiAssayExperiment",
     "BiocBaseUtils",
-    "ProtGenerics",
-    "AnnotationFilter"
+    "ProtGenerics"
   ],
   "multiClust": [
     "ctc"
@@ -12083,7 +11948,6 @@
     "zlibbioc",
     "SummarizedExperiment",
     "ensembldb",
-    "AnnotationFilter",
     "BiocParallel",
     "Rhdf5lib",
     "rhdf5filters",
@@ -12180,7 +12044,6 @@
     "Rhdf5lib",
     "preprocessCore",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "BiocBaseUtils"
   ],
   "ncdfFlow": [
@@ -12335,7 +12198,6 @@
     "QFeatures",
     "preprocessCore",
     "Rhdf5lib",
-    "AnnotationFilter",
     "MetaboCoreUtils"
   ],
   "omicRexposome": [
@@ -12467,7 +12329,6 @@
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -12494,11 +12355,9 @@
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
-  "packFinder": [],
   "padma": [
     "SummarizedExperiment",
     "MultiAssayExperiment",
@@ -12637,7 +12496,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -12861,7 +12719,6 @@
     "BiocVersion",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "h5mread",
     "Rhdf5lib",
@@ -12972,7 +12829,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -13008,7 +12864,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -13301,7 +13156,6 @@
     "GenomicAlignments",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics",
     "BiocParallel"
   ],
@@ -13482,7 +13336,6 @@
     "BSgenome",
     "biovizBase",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "satuRn": [
@@ -13609,7 +13462,6 @@
     "GSEABase",
     "SummarizedExperiment",
     "GenomicFeatures",
-    "AnnotationFilter",
     "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
@@ -13796,7 +13648,6 @@
     "bluster",
     "metapod",
     "AnnotationDbi",
-    "AnnotationFilter",
     "rtracklayer",
     "Rsamtools",
     "ProtGenerics",
@@ -13811,7 +13662,6 @@
   "scanMiRApp": [
     "scanMiR",
     "AnnotationDbi",
-    "AnnotationFilter",
     "AnnotationHub",
     "BiocParallel",
     "ensembldb",
@@ -13927,8 +13777,7 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "BiocBaseUtils",
-    "ProtGenerics",
-    "AnnotationFilter"
+    "ProtGenerics"
   ],
   "scran": [
     "SingleCellExperiment",
@@ -13965,7 +13814,6 @@
     "VariantAnnotation",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationFilter",
     "biomaRt",
     "BiocFileCache",
     "ProtGenerics"
@@ -14048,7 +13896,6 @@
     "BSgenome",
     "ChIPseeker",
     "clusterProfiler",
-    "heatmaps",
     "seqArchR",
     "seqPattern",
     "rtracklayer",
@@ -14217,7 +14064,6 @@
     "genefu",
     "BiocParallel",
     "GenomicFeatures",
-    "AnnotationFilter",
     "rtracklayer",
     "Rsamtools",
     "ProtGenerics",
@@ -14300,7 +14146,6 @@
     "rhdf5",
     "Rhdf5lib",
     "GenomicFeatures",
-    "AnnotationFilter",
     "rtracklayer",
     "Rsamtools",
     "ProtGenerics",
@@ -14502,7 +14347,6 @@
     "GenomicAlignments",
     "BiocFileCache",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "specL": [],
@@ -14599,7 +14443,6 @@
     "preprocessCore",
     "Rhdf5lib",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "BiocBaseUtils"
   ],
   "srnadiff": [
@@ -14619,7 +14462,6 @@
     "biovizBase",
     "BiocFileCache",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "ssPATHS": [
@@ -14745,7 +14587,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -14825,7 +14666,6 @@
     "BiocParallel",
     "SummarizedExperiment",
     "BiocFileCache",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "tanggle": [
@@ -14867,7 +14707,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -14973,7 +14812,6 @@
     "preprocessCore",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationFilter",
     "MetaboCoreUtils",
     "BiocBaseUtils"
   ],
@@ -15004,7 +14842,6 @@
     "rhdf5filters",
     "BiocFileCache",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "tracktables": [
@@ -15148,7 +14985,6 @@
     "BiocFileCache",
     "AnnotationHub",
     "BiocVersion",
-    "AnnotationFilter",
     "rtracklayer",
     "Rsamtools",
     "ProtGenerics",
@@ -15174,7 +15010,6 @@
     "BiocParallel",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "AnnotationFilter",
     "ProtGenerics"
   ],
   "variancePartition": [
@@ -15277,7 +15112,6 @@
     "apeglm",
     "GreyListChIP",
     "BiocFileCache",
-    "AnnotationFilter",
     "ProtGenerics",
     "BSgenome",
     "ShortRead"
@@ -15380,7 +15214,6 @@
     "Rhdf5lib",
     "preprocessCore",
     "MultiAssayExperiment",
-    "AnnotationFilter",
     "BiocBaseUtils"
   ],
   "xcore": [

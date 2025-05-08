@@ -472,3 +472,9 @@ ncRNAtools
 odseq
 oncoscanR
 universalmotif
+AnnotationFilter
+G4SNVHunter
+GenomicDataCommons
+heatmaps
+igvShiny
+packFinder
