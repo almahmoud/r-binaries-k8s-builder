@@ -1641,7 +1641,6 @@
     "AnnotationFilter",
     "DelayedArray"
   ],
-  "DART": [],
   "DECIPHER": [
     "Biostrings"
   ],
@@ -2551,7 +2550,6 @@
     "DelayedArray"
   ],
   "GIGSEA": [],
-  "GLAD": [],
   "GMRP": [],
   "GNET2": [
     "SummarizedExperiment",
@@ -2963,7 +2961,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "GenomicTuples": [],
   "GeoDiff": [
     "GeomxTools",
     "NanoStringNCTools",
@@ -3263,7 +3260,6 @@
     "DelayedArray"
   ],
   "ITALICS": [
-    "GLAD",
     "oligo",
     "oligoClasses",
     "Biostrings",
@@ -3547,9 +3543,7 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "MANOR": [
-    "GLAD"
-  ],
+  "MANOR": [],
   "MAPFX": [
     "flowCore"
   ],
@@ -4563,11 +4557,9 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "OmicCircos": [],
   "OmicsMLRepoR": [
     "rols"
   ],
-  "OmnipathR": [],
   "OncoScore": [
     "biomaRt",
     "AnnotationDbi",
@@ -5857,7 +5849,6 @@
     "mzR",
     "ProtGenerics"
   ],
-  "SIMD": [],
   "SMITE": [
     "AnnotationDbi",
     "KEGGREST",
@@ -7537,7 +7528,6 @@
   "bioCancer": [
     "cBioPortalData",
     "AnnotationDbi",
-    "geNetClassifier",
     "DOSE",
     "clusterProfiler",
     "ReactomePA",
@@ -7822,7 +7812,6 @@
   "canceR": [
     "cBioPortalData",
     "GSEABase",
-    "geNetClassifier",
     "phenoTest",
     "MultiAssayExperiment",
     "RaggedExperiment",
@@ -8659,7 +8648,6 @@
     "DelayedArray"
   ],
   "crumblr": [
-    "variancePartition",
     "SingleCellExperiment",
     "ggtree",
     "SummarizedExperiment",
@@ -9122,7 +9110,6 @@
     "DelayedArray"
   ],
   "dreamlet": [
-    "variancePartition",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "DelayedMatrixStats",
@@ -9363,7 +9350,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "epistasisGA": [],
   "epivizr": [
     "epivizrData",
     "bumphunter",
@@ -9585,7 +9571,6 @@
     "GenomicFeatures",
     "KEGGREST"
   ],
-  "fenr": [],
   "ffpe": [
     "lumi",
     "methylumi",
@@ -9816,7 +9801,6 @@
   ],
   "gINTomics": [
     "biomaRt",
-    "OmnipathR",
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "GenomicFeatures",
@@ -9856,11 +9840,9 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "gcatest": [],
   "gcrma": [
     "Biostrings"
   ],
-  "geNetClassifier": [],
   "gemma.R": [
     "SummarizedExperiment",
     "DelayedArray"
@@ -10679,7 +10661,6 @@
     "beachmat",
     "h5mread"
   ],
-  "limpa": [],
   "limpca": [
     "SummarizedExperiment",
     "DelayedArray"
@@ -11724,7 +11705,6 @@
     "scuttle",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "variancePartition",
     "DelayedArray",
     "beachmat",
     "BiocSingular",
@@ -12918,7 +12898,6 @@
     "baySeq",
     "Biostrings"
   ],
-  "ribor": [],
   "ribosomeProfilingQC": [
     "AnnotationDbi",
     "Biostrings",
@@ -14324,7 +14303,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "synapsis": [],
   "synapter": [
     "MSnbase",
     "Biostrings",
@@ -14765,7 +14743,6 @@
   "universalmotif": [
     "Biostrings"
   ],
-  "variancePartition": [],
   "velociraptor": [
     "SummarizedExperiment",
     "DelayedArray",
@@ -14939,9 +14916,7 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "wppi": [
-    "OmnipathR"
-  ],
+  "wppi": [],
   "xCell2": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -15020,7 +14995,6 @@
     "SummarizedExperiment"
   ],
   "zenith": [
-    "variancePartition",
     "EnrichmentBrowser",
     "GSEABase",
     "SummarizedExperiment",

@@ -757,3 +757,5 @@ biodbHmdb
 biodbNcbi
 biodbNci
 biodbUniprot
+MANOR
+wppi

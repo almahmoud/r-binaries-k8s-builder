@@ -636,3 +636,17 @@ MMUPHin
 progeny
 RLassoCox
 SwathXtend
+DART
+epistasisGA
+fenr
+gcatest
+geNetClassifier
+GenomicTuples
+GLAD
+limpa
+OmicCircos
+OmnipathR
+ribor
+SIMD
+synapsis
+variancePartition

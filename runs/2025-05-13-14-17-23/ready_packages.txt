@@ -1,6 +1,2 @@
-SIMD
-biodbChebi
-biodbHmdb
-biodbNcbi
-biodbNci
-biodbUniprot
+MANOR
+wppi
