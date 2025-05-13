@@ -592,7 +592,6 @@
     "ScaledMatrix",
     "beachmat"
   ],
-  "BayesKnockdown": [],
   "BayesSpace": [
     "SingleCellExperiment",
     "scater",
@@ -1661,7 +1660,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "ClustAll": [],
   "ClusterFoldSimilarity": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -2863,7 +2861,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "GEOmetadb": [],
   "GEOquery": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -3770,7 +3767,6 @@
     "DelayedArray"
   ],
   "InteractiveComplexHeatmap": [],
-  "IntramiRExploreR": [],
   "IsoBayes": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -6693,7 +6689,6 @@
   "SQLDataFrame": [
     "DelayedArray"
   ],
-  "SUITOR": [],
   "SVMDO": [
     "DOSE",
     "AnnotationDbi",
@@ -9800,7 +9795,6 @@
     "RProtoBufLib",
     "flowViz"
   ],
-  "cycle": [],
   "cydar": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -9867,7 +9861,6 @@
     "GenomicRanges",
     "h5mread"
   ],
-  "daMA": [],
   "dada2": [
     "Biostrings",
     "ShortRead",
@@ -10757,7 +10750,6 @@
     "GenomicFeatures",
     "KEGGREST"
   ],
-  "fedup": [],
   "fenr": [],
   "ffpe": [
     "lumi",
@@ -12853,7 +12845,6 @@
     "GenomicAlignments",
     "DelayedArray"
   ],
-  "mitch": [],
   "mitoClone2": [
     "GenomicRanges",
     "deepSNV",

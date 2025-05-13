@@ -514,3 +514,12 @@ MethylMix
 MOGAMUN
 qcmetrics
 simona
+BayesKnockdown
+ClustAll
+cycle
+daMA
+fedup
+GEOmetadb
+IntramiRExploreR
+mitch
+SUITOR
