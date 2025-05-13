@@ -675,3 +675,10 @@ GeneNetworkBuilder
 IntramiRExploreR
 MOGAMUN
 fedup
+CellNOptR
+DelayedArray
+NCIgraph
+Streamer
+biocViews
+fgga
+h5mread
