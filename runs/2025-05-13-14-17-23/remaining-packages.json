@@ -781,7 +781,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "mzID",
@@ -1478,7 +1477,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "ClusterFoldSimilarity": [
@@ -1518,8 +1516,7 @@
   "CompoundDb": [
     "AnnotationFilter",
     "ProtGenerics",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "CopyNumberPlots": [
     "karyoploteR",
@@ -1642,11 +1639,9 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "DART": [],
-  "DCATS": [],
   "DECIPHER": [
     "Biostrings"
   ],
@@ -1679,8 +1674,7 @@
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
-    "AnnotationFilter",
-    "MetaboCoreUtils"
+    "AnnotationFilter"
   ],
   "DEScan2": [
     "ChIPpeakAnno",
@@ -2259,7 +2253,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "EpiDISH": [],
   "EpiMix": [
     "AnnotationHub",
     "AnnotationDbi",
@@ -3258,7 +3251,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "mzID",
@@ -3421,7 +3413,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "mzID",
@@ -3549,7 +3540,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "mzID",
@@ -3712,8 +3702,7 @@
   "MICSQTL": [
     "SummarizedExperiment",
     "TOAST",
-    "DelayedArray",
-    "EpiDISH"
+    "DelayedArray"
   ],
   "MIRA": [
     "bsseq",
@@ -3772,7 +3761,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "MMUPHin": [],
   "MODA": [
     "AnnotationDbi",
     "KEGGREST",
@@ -3860,7 +3848,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "MSnbase": [
@@ -3873,7 +3860,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "MSstats": [
@@ -3911,7 +3897,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "MSstatsQCgui": [
@@ -3926,7 +3911,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "MSstatsShiny": [
@@ -3993,8 +3977,7 @@
   ],
   "MetCirc": [
     "Spectra",
-    "ProtGenerics",
-    "MetaboCoreUtils"
+    "ProtGenerics"
   ],
   "MetMashR": [
     "struct",
@@ -4026,7 +4009,6 @@
     "Biostrings"
   ],
   "MetaboAnnotation": [
-    "MetaboCoreUtils",
     "ProtGenerics",
     "Spectra",
     "SummarizedExperiment",
@@ -4040,7 +4022,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "MetaboCoreUtils": [],
   "MetaboDynamics": [
     "KEGGREST",
     "SummarizedExperiment",
@@ -4262,33 +4243,27 @@
   ],
   "MsBackendMassbank": [
     "Spectra",
-    "ProtGenerics",
-    "MetaboCoreUtils"
+    "ProtGenerics"
   ],
   "MsBackendMetaboLights": [
     "Spectra",
-    "ProtGenerics",
-    "MetaboCoreUtils"
+    "ProtGenerics"
   ],
   "MsBackendMgf": [
     "Spectra",
-    "ProtGenerics",
-    "MetaboCoreUtils"
+    "ProtGenerics"
   ],
   "MsBackendMsp": [
     "Spectra",
-    "ProtGenerics",
-    "MetaboCoreUtils"
+    "ProtGenerics"
   ],
   "MsBackendRawFileReader": [
     "Spectra",
-    "ProtGenerics",
-    "MetaboCoreUtils"
+    "ProtGenerics"
   ],
   "MsBackendSql": [
     "Spectra",
-    "ProtGenerics",
-    "MetaboCoreUtils"
+    "ProtGenerics"
   ],
   "MsDataHub": [
     "ExperimentHub",
@@ -4304,7 +4279,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "MsFeatures": [
@@ -4318,7 +4292,6 @@
     "Spectra",
     "SummarizedExperiment",
     "QFeatures",
-    "MetaboCoreUtils",
     "MultiAssayExperiment",
     "AnnotationFilter",
     "DelayedArray"
@@ -4791,7 +4764,6 @@
     "annotate",
     "MultiAssayExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "KEGGREST",
     "Biostrings"
   ],
@@ -4810,7 +4782,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "PWMEnrich": [
@@ -4901,7 +4872,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "Prostar": [
@@ -4916,7 +4886,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "ProtGenerics": [],
@@ -5208,7 +5177,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "RLassoCox": [],
   "RMassBank": [
     "MSnbase",
     "mzR",
@@ -5220,7 +5188,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "RNAAgeCalc": [
@@ -5529,7 +5496,6 @@
     "scuttle",
     "DelayedArray",
     "beachmat",
-    "EpiDISH",
     "ScaledMatrix"
   ],
   "RepViz": [
@@ -5891,9 +5857,7 @@
     "mzR",
     "ProtGenerics"
   ],
-  "SIMD": [
-    "methylMnM"
-  ],
+  "SIMD": [],
   "SMITE": [
     "AnnotationDbi",
     "KEGGREST",
@@ -6255,13 +6219,11 @@
     "Biostrings"
   ],
   "Spectra": [
-    "ProtGenerics",
-    "MetaboCoreUtils"
+    "ProtGenerics"
   ],
   "SpectraQL": [
     "ProtGenerics",
-    "Spectra",
-    "MetaboCoreUtils"
+    "Spectra"
   ],
   "SpectralTAD": [
     "HiCcompare",
@@ -6379,7 +6341,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "SwathXtend": [],
   "SynExtend": [
     "DECIPHER",
     "Biostrings"
@@ -6584,7 +6545,6 @@
     "Biostrings"
   ],
   "TOAST": [
-    "EpiDISH",
     "SummarizedExperiment",
     "DelayedArray"
   ],
@@ -7452,7 +7412,6 @@
     "KEGGREST",
     "MultiAssayExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray",
     "Biostrings"
   ],
@@ -7608,22 +7567,11 @@
     "Biostrings"
   ],
   "biocViews": [],
-  "biodb": [],
-  "biodbChebi": [
-    "biodb"
-  ],
-  "biodbHmdb": [
-    "biodb"
-  ],
-  "biodbNcbi": [
-    "biodb"
-  ],
-  "biodbNci": [
-    "biodb"
-  ],
-  "biodbUniprot": [
-    "biodb"
-  ],
+  "biodbChebi": [],
+  "biodbHmdb": [],
+  "biodbNcbi": [],
+  "biodbNci": [],
+  "biodbUniprot": [],
   "biomaRt": [
     "AnnotationDbi",
     "KEGGREST",
@@ -8263,7 +8211,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "DelayedArray",
     "MultiAssayExperiment",
@@ -8530,7 +8477,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "mzID",
@@ -8799,8 +8745,7 @@
     "TOAST",
     "SummarizedExperiment",
     "DESeq2",
-    "DelayedArray",
-    "EpiDISH"
+    "DelayedArray"
   ],
   "cytoKernel": [
     "SummarizedExperiment",
@@ -9214,7 +9159,6 @@
     "marray"
   ],
   "easier": [
-    "progeny",
     "quantiseqr",
     "DESeq2",
     "SummarizedExperiment",
@@ -9683,7 +9627,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "mzID",
@@ -10261,7 +10204,6 @@
     "SummarizedExperiment",
     "ProtGenerics",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "heatmaps": [
@@ -10737,7 +10679,6 @@
     "beachmat",
     "h5mread"
   ],
-  "limmaGUI": [],
   "limpa": [],
   "limpca": [
     "SummarizedExperiment",
@@ -10893,7 +10834,6 @@
     "GenomicAlignments",
     "DelayedArray"
   ],
-  "mapscape": [],
   "mariner": [
     "InteractionSet",
     "plyranges",
@@ -10996,7 +10936,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "mzID",
@@ -11163,7 +11102,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "methylMnM": [],
   "methylPipe": [
     "SummarizedExperiment",
     "Rsamtools",
@@ -11681,7 +11619,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "msmsTests": [
@@ -11696,7 +11633,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "mspms": [
@@ -11854,7 +11790,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "mzID",
@@ -12018,8 +11953,7 @@
     "DelayedArray",
     "Spectra",
     "QFeatures",
-    "AnnotationFilter",
-    "MetaboCoreUtils"
+    "AnnotationFilter"
   ],
   "omicRexposome": [
     "rexposome",
@@ -12142,8 +12076,7 @@
     "DelayedArray",
     "Biostrings",
     "MultiAssayExperiment",
-    "AnnotationFilter",
-    "MetaboCoreUtils"
+    "AnnotationFilter"
   ],
   "pRolocGUI": [
     "pRoloc",
@@ -12163,7 +12096,6 @@
     "KEGGREST",
     "MultiAssayExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray",
     "Biostrings"
   ],
@@ -12307,7 +12239,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "peco": [
@@ -12362,7 +12293,6 @@
   ],
   "phenomis": [
     "SummarizedExperiment",
-    "biodb",
     "biodbChebi",
     "MultiAssayExperiment",
     "MultiDataSet",
@@ -12580,7 +12510,6 @@
     "ggtree",
     "pwalign"
   ],
-  "progeny": [],
   "projectR": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -12623,7 +12552,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "puma": [
@@ -12648,7 +12576,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "qckitfastq": [
@@ -14242,7 +14169,6 @@
     "PSMatch",
     "mzID",
     "MsFeatures",
-    "MetaboCoreUtils",
     "MultiAssayExperiment",
     "AnnotationFilter",
     "DelayedArray"
@@ -14412,7 +14338,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "syntenet": [
@@ -14625,7 +14550,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "DelayedArray"
   ],
   "tpSVG": [
@@ -15038,7 +14962,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "mzID",

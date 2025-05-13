@@ -625,3 +625,14 @@ PathNet
 RTopper
 RUVcorr
 target
+biodb
+DCATS
+EpiDISH
+limmaGUI
+mapscape
+MetaboCoreUtils
+methylMnM
+MMUPHin
+progeny
+RLassoCox
+SwathXtend

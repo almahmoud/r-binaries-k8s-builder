@@ -751,3 +751,9 @@ rigvf
 target
 OrderedList
 gcatest
+SIMD
+biodbChebi
+biodbHmdb
+biodbNcbi
+biodbNci
+biodbUniprot
