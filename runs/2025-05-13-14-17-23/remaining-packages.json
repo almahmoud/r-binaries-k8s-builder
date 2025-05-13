@@ -576,7 +576,6 @@
     "SparseArray",
     "ProtGenerics"
   ],
-  "AlphaBeta": [],
   "AlphaMissenseR": [],
   "AlpsNMR": [
     "mixOmics",
@@ -3273,7 +3272,6 @@
   "ChemmineR": [
     "BiocGenerics"
   ],
-  "Chicago": [],
   "ChromHeatMap": [
     "BiocGenerics",
     "annotate",
@@ -7020,7 +7018,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "GladiaTOX": [],
   "Glimma": [
     "edgeR",
     "DESeq2",
@@ -7198,7 +7195,6 @@
     "Rhdf5lib",
     "XVector"
   ],
-  "HDTD": [],
   "HELP": [
     "Biobase",
     "BiocGenerics"
@@ -7224,7 +7220,6 @@
     "UCSC.utils",
     "multtest"
   ],
-  "HGC": [],
   "HIBAG": [],
   "HIPPO": [
     "SingleCellExperiment",
@@ -7242,9 +7237,6 @@
     "Biobase",
     "UCSC.utils"
   ],
-  "HIREewas": [],
-  "HMMcopy": [],
-  "HPAanalyze": [],
   "HPiP": [],
   "HTSFilter": [
     "edgeR",
@@ -7338,7 +7330,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "Herper": [],
   "HiCBricks": [
     "rhdf5",
     "GenomeInfoDb",
@@ -7708,8 +7699,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "IMPCdata": [],
-  "INDEED": [],
   "INPower": [],
   "INSPEcT": [
     "Biobase",
@@ -8101,7 +8090,6 @@
     "annotate",
     "Rhtslib"
   ],
-  "KBoost": [],
   "KCsmart": [
     "siggenes",
     "multtest",
@@ -27479,7 +27467,6 @@
     "UCSC.utils",
     "Rhtslib"
   ],
-  "mistyR": [],
   "mitch": [],
   "mitoClone2": [
     "GenomicRanges",
@@ -29721,7 +29708,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "plasmut": [],
   "plgem": [
     "Biobase",
     "BiocGenerics"
@@ -29732,7 +29718,6 @@
     "BiocGenerics",
     "affyio"
   ],
-  "plotGrouper": [],
   "plotgardener": [
     "GenomeInfoDb",
     "GenomicRanges",
@@ -30407,7 +30392,6 @@
   ],
   "qsea": [
     "Biostrings",
-    "HMMcopy",
     "rtracklayer",
     "BSgenome",
     "GenomicRanges",
@@ -31135,7 +31119,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "rgoslin": [],
   "rgsepd": [
     "DESeq2",
     "goseq",
@@ -34610,7 +34593,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "systemPipeShiny": [],
   "systemPipeTools": [
     "DESeq2",
     "SummarizedExperiment",
