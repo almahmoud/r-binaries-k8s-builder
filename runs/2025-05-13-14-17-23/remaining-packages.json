@@ -3604,7 +3604,6 @@
     "vsn",
     "affy"
   ],
-  "DriverNet": [],
   "DropletUtils": [
     "SingleCellExperiment",
     "IRanges",
@@ -4266,7 +4265,6 @@
     "Rhtslib"
   ],
   "FRGEpistasis": [],
-  "FamAgg": [],
   "FastqCleaner": [
     "IRanges",
     "Biostrings",
@@ -4524,7 +4522,6 @@
     "affy"
   ],
   "GEWIST": [],
-  "GGPA": [],
   "GIGSEA": [],
   "GLAD": [],
   "GMRP": [
@@ -4733,7 +4730,6 @@
   "GSRI": [
     "genefilter",
     "GSEABase",
-    "les",
     "AnnotationDbi",
     "annotate",
     "IRanges",
@@ -5775,7 +5771,6 @@
     "Rsamtools",
     "GenomeInfoDb",
     "DESeq2",
-    "plgem",
     "rtracklayer",
     "SummarizedExperiment",
     "UCSC.utils",
@@ -7392,7 +7387,6 @@
     "DynDoc"
   ],
   "MiChip": [],
-  "MiPP": [],
   "MiRaGE": [
     "AnnotationDbi",
     "IRanges",
@@ -8245,7 +8239,6 @@
   "OncoSimulR": [
     "Rgraphviz"
   ],
-  "OpenStats": [],
   "OrderedList": [
     "twilight"
   ],
@@ -8608,7 +8601,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "PROPER": [],
   "PROPS": [
     "sva",
     "genefilter",
@@ -9321,7 +9313,6 @@
     "SummarizedExperiment"
   ],
   "RIVER": [],
-  "RImmPort": [],
   "RJMCMCNucleosomes": [
     "IRanges",
     "GenomicRanges",
@@ -9524,7 +9515,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "RNAseqCovarImpute": [],
   "ROC": [],
   "ROCpAI": [
     "SummarizedExperiment",
@@ -9808,12 +9798,8 @@
     "KEGGREST",
     "UCSC.utils"
   ],
-  "Rcwl": [],
-  "RcwlPipelines": [
-    "Rcwl"
-  ],
+  "RcwlPipelines": [],
   "ReUseData": [
-    "Rcwl",
     "RcwlPipelines"
   ],
   "ReactomeGSA": [
@@ -11230,7 +11216,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "SpeCond": [],
   "Spectra": [
     "ProtGenerics",
     "IRanges",
@@ -12027,7 +12012,6 @@
     "marray",
     "fgsea"
   ],
-  "TrajectoryGeometry": [],
   "TrajectoryUtils": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -15041,7 +15025,6 @@
     "ProtGenerics"
   ],
   "compSPOT": [],
-  "compcodeR": [],
   "concordexR": [
     "bluster",
     "DelayedArray",
@@ -15674,7 +15657,6 @@
   "cypress": [
     "TOAST",
     "SummarizedExperiment",
-    "PROPER",
     "DESeq2",
     "IRanges",
     "GenomicRanges",
@@ -16057,7 +16039,6 @@
     "GenomicAlignments"
   ],
   "demuxmix": [],
-  "densvis": [],
   "derfinder": [
     "AnnotationDbi",
     "bumphunter",
@@ -16214,7 +16195,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "diffuStats": [],
   "diggit": [
     "viper"
   ],
@@ -19130,7 +19110,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "les": [],
   "levi": [],
   "lfa": [],
   "limmaGUI": [],
@@ -20077,7 +20056,6 @@
   ],
   "miRSM": [
     "BicARE",
-    "rqubic",
     "SummarizedExperiment",
     "GSEABase",
     "clusterProfiler",
@@ -22097,7 +22075,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "plgem": [],
   "plier": [
     "affy"
   ],
@@ -23347,7 +23324,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "rqubic": [],
   "rrvgo": [
     "GOSemSim",
     "AnnotationDbi",
@@ -24526,7 +24502,6 @@
   "seqTools": [
     "zlibbioc"
   ],
-  "seqcombo": [],
   "seqsetvis": [
     "GenomeInfoDb",
     "GenomicAlignments",
@@ -25423,7 +25398,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "ssize": [],
   "ssrch": [],
   "ssviz": [
     "Rsamtools",
@@ -26329,7 +26303,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "trio": [],
   "triplex": [
     "IRanges",
     "XVector",
@@ -26338,7 +26311,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "tripr": [],
   "ttgsea": [],
   "tweeDEseq": [
     "cqn"

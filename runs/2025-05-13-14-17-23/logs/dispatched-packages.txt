@@ -596,3 +596,4 @@ Rcwl
 cbpManager
 densvis
 snifter
+RcwlPipelines
