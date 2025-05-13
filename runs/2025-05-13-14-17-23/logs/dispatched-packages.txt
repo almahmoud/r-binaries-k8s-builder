@@ -874,3 +874,15 @@ affyPLM
 maskBAD
 procoil
 tRNA
+GBScleanR
+GDSArray
+IMMAN
+MSA2dist
+MethTargetedNGS
+QSutils
+SAIGEgds
+SeqVarTools
+ggmanh
+ggseqalign
+sangerseqR
+scanMiR

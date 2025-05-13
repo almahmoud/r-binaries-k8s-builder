@@ -728,3 +728,10 @@ kebabs
 microRNA
 PWMEnrich
 Structstrings
+cleaver
+fastseg
+methimpute
+muscle
+pwalign
+RVS
+SeqArray
