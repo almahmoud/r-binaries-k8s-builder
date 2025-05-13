@@ -450,3 +450,15 @@ QRscore
 TPP
 tweeDEseq
 XVector
+cellscape
+COMPASS
+ComplexHeatmap
+dStruct
+ISAnalytics
+matchBox
+mbQTL
+mdqc
+netprioR
+nuCpos
+rain
+widgetTools

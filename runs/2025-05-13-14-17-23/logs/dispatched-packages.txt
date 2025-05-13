@@ -652,3 +652,9 @@ IsoCorrectoRGUI
 Maaslin2
 mbQTL
 tweeDEseq
+CCPlotR
+ClustAll
+InteractiveComplexHeatmap
+cola
+simona
+tkWidgets
