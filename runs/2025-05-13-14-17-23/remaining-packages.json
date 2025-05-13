@@ -578,8 +578,7 @@
   ],
   "AlphaMissenseR": [],
   "AlpsNMR": [
-    "mixOmics",
-    "MassSpecWavelet"
+    "mixOmics"
   ],
   "AnVIL": [],
   "AnVILAz": [],
@@ -1472,7 +1471,6 @@
     "XVector"
   ],
   "BioMVCClass": [
-    "MVCClass",
     "Biobase",
     "graph",
     "Rgraphviz",
@@ -1903,7 +1901,6 @@
     "MSnbase",
     "mzR",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -2456,7 +2453,6 @@
     "flowMerge",
     "flowPeaks",
     "limma",
-    "SamSPECTRAL",
     "BiocGenerics",
     "Biobase",
     "graph",
@@ -7303,7 +7299,6 @@
     "graph",
     "UCSC.utils"
   ],
-  "Heatplus": [],
   "HelloRanges": [
     "BiocGenerics",
     "S4Vectors",
@@ -7603,7 +7598,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "HuBMAPR": [],
   "HubPub": [
     "biocthis"
   ],
@@ -7726,7 +7720,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "INTACT": [],
   "IONiseR": [
     "rhdf5",
     "ShortRead",
@@ -7761,7 +7754,6 @@
     "mzR",
     "BiocGenerics",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -7952,7 +7944,6 @@
     "UCSC.utils",
     "Rhtslib"
   ],
-  "Informeasure": [],
   "IntEREst": [
     "GenomicRanges",
     "Rsamtools",
@@ -8164,8 +8155,6 @@
     "XVector",
     "Biostrings"
   ],
-  "LBE": [],
-  "LEA": [],
   "LOBSTAHS": [
     "xcms",
     "CAMERA",
@@ -8176,7 +8165,6 @@
     "mzR",
     "BiocGenerics",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -8214,7 +8202,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "LPE": [],
   "LRBaseDbi": [
     "AnnotationDbi",
     "Biobase",
@@ -8494,7 +8481,6 @@
     "mzR",
     "BiocGenerics",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -8568,7 +8554,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "MBAmethyl": [],
   "MBCB": [],
   "MBECS": [
     "phyloseq",
@@ -8610,7 +8595,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "MBttest": [],
   "MCbiclust": [
     "AnnotationDbi",
     "BiocGenerics",
@@ -9298,30 +9282,24 @@
     "XVector"
   ],
   "MSstats": [
-    "MSstatsConvert",
     "limma",
     "marray"
   ],
   "MSstatsBig": [
     "MSstats",
-    "MSstatsConvert",
     "limma",
     "marray"
   ],
   "MSstatsBioNet": [
     "MSstats",
     "RCy3",
-    "MSstatsConvert",
     "limma",
     "marray",
     "BiocGenerics",
     "graph"
   ],
-  "MSstatsConvert": [],
-  "MSstatsLOBD": [],
   "MSstatsLiP": [
     "MSstats",
-    "MSstatsConvert",
     "Biostrings",
     "MSstatsPTM",
     "BiocGenerics",
@@ -9336,7 +9314,6 @@
   ],
   "MSstatsPTM": [
     "MSstatsTMT",
-    "MSstatsConvert",
     "MSstats",
     "Biostrings",
     "BiocGenerics",
@@ -9419,7 +9396,6 @@
     "MSstats",
     "MSstatsTMT",
     "MSstatsPTM",
-    "MSstatsConvert",
     "marray",
     "limma",
     "Biostrings",
@@ -9433,10 +9409,8 @@
   "MSstatsTMT": [
     "limma",
     "MSstats",
-    "MSstatsConvert",
     "marray"
   ],
-  "MVCClass": [],
   "MWASTools": [
     "SummarizedExperiment",
     "KEGGgraph",
@@ -9489,9 +9463,6 @@
     "Wrench",
     "Biostrings"
   ],
-  "MantelCorr": [],
-  "MassArray": [],
-  "MassSpecWavelet": [],
   "MatrixGenerics": [],
   "MatrixQCvis": [
     "SummarizedExperiment",
@@ -11341,7 +11312,6 @@
   ],
   "PLPE": [
     "Biobase",
-    "LPE",
     "BiocGenerics"
   ],
   "PLSDAbatch": [
@@ -14146,7 +14116,6 @@
   "SNPRelate": [
     "gdsfmt"
   ],
-  "SNPediaR": [],
   "SNPhood": [
     "GenomicRanges",
     "Rsamtools",
@@ -14414,7 +14383,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "SamSPECTRAL": [],
   "Scale4C": [
     "GenomicRanges",
     "IRanges",
@@ -16015,7 +15983,6 @@
     "Rhdf5lib"
   ],
   "TargetScore": [],
-  "TargetSearch": [],
   "TileDBArray": [
     "SparseArray",
     "DelayedArray",
@@ -17761,7 +17728,6 @@
     "IRanges",
     "S4Vectors",
     "KEGGREST",
-    "MSstatsConvert",
     "marray",
     "Biostrings",
     "XVector",
@@ -18979,7 +18945,6 @@
     "annotate",
     "graph",
     "AnnotationDbi",
-    "Heatplus",
     "limma",
     "Category",
     "hopach",
@@ -19812,7 +19777,6 @@
     "affy",
     "pcaMethods",
     "mzID",
-    "MassSpecWavelet",
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
@@ -20441,7 +20405,6 @@
   ],
   "cosmiq": [
     "xcms",
-    "MassSpecWavelet",
     "MSnbase",
     "mzR",
     "Biobase",
@@ -21309,7 +21272,6 @@
   "ddPCRclust": [
     "flowCore",
     "flowDensity",
-    "SamSPECTRAL",
     "flowPeaks",
     "Biobase",
     "BiocGenerics",
@@ -23071,7 +23033,6 @@
     "mzR",
     "BiocGenerics",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -26336,7 +26297,6 @@
     "MSnbase",
     "mzR",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -27388,7 +27348,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "mirTarRnaSeq": [],
   "missMethyl": [
     "AnnotationDbi",
     "Biobase",
@@ -28315,7 +28274,6 @@
     "Biobase",
     "BiocGenerics",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
@@ -29559,7 +29517,6 @@
   "phenoTest": [
     "Biobase",
     "annotate",
-    "Heatplus",
     "limma",
     "Category",
     "AnnotationDbi",
@@ -34132,7 +34089,6 @@
     "affy",
     "pcaMethods",
     "mzID",
-    "MassSpecWavelet",
     "MsFeatures",
     "MetaboCoreUtils",
     "affyio",
@@ -34547,7 +34503,6 @@
     "S4Arrays",
     "SparseArray"
   ],
-  "synergyfinder": [],
   "synlet": [
     "RankProd"
   ],
@@ -34695,7 +34650,6 @@
     "RankProd",
     "topGO",
     "GOSemSim",
-    "Heatplus",
     "Biobase",
     "multtest",
     "BiocGenerics",
@@ -35026,7 +34980,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "tomoseqr": [],
   "topGO": [
     "BiocGenerics",
     "graph",
@@ -36025,7 +35978,6 @@
     "Biobase",
     "BiocGenerics",
     "ProtGenerics",
-    "MassSpecWavelet",
     "S4Vectors",
     "IRanges",
     "SummarizedExperiment",
