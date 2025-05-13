@@ -685,3 +685,6 @@ h5mread
 EBcoexpress
 gaga
 geNetClassifier
+Oscope
+multiClust
+synlet

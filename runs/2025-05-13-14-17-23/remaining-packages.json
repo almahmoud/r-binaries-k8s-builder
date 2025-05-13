@@ -28,7 +28,6 @@
   ],
   "ADAPT": [
     "phyloseq",
-    "biomformat",
     "Biostrings"
   ],
   "ADImpute": [
@@ -564,7 +563,6 @@
   ],
   "BatchQC": [
     "DESeq2",
-    "EBSeq",
     "scran",
     "SummarizedExperiment",
     "sva",
@@ -691,7 +689,6 @@
   ],
   "BioNERO": [
     "sva",
-    "GENIE3",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
@@ -961,7 +958,6 @@
     "treeio",
     "Biostrings"
   ],
-  "CGEN": [],
   "CGHbase": [
     "marray"
   ],
@@ -1946,7 +1942,6 @@
     "DelayedArray"
   ],
   "DEsubs": [
-    "EBSeq",
     "DESeq2",
     "GenomicRanges",
     "SummarizedExperiment",
@@ -2025,7 +2020,6 @@
     "annotate",
     "h5mread"
   ],
-  "DNABarcodeCompatibility": [],
   "DNAcopy": [],
   "DNAfusion": [
     "bamsignals",
@@ -2334,7 +2328,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "EBSeq": [],
   "EBcoexpress": [],
   "EDASeq": [
     "ShortRead",
@@ -2848,7 +2841,6 @@
     "DNAcopy",
     "Biostrings"
   ],
-  "GENIE3": [],
   "GEOexplorer": [
     "sva",
     "GEOquery",
@@ -2969,7 +2961,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "GSCA": [],
   "GSEABase": [
     "annotate",
     "AnnotationDbi",
@@ -3056,7 +3047,6 @@
     "AnnotationFilter",
     "ProtGenerics"
   ],
-  "GWAS.BAYES": [],
   "GWASTools": [
     "gdsfmt",
     "DNAcopy"
@@ -4007,7 +3997,6 @@
   "MBECS": [
     "phyloseq",
     "sva",
-    "biomformat",
     "Biostrings",
     "genefilter",
     "AnnotationDbi",
@@ -4455,7 +4444,6 @@
     "BPRMeth",
     "GenomicRanges"
   ],
-  "Mergeomics": [],
   "MesKit": [
     "Biostrings",
     "AnnotationDbi",
@@ -4475,7 +4463,6 @@
   ],
   "MetNet": [
     "SummarizedExperiment",
-    "GENIE3",
     "GenomicRanges",
     "DelayedArray"
   ],
@@ -5161,9 +5148,7 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "Oscope": [
-    "EBSeq"
-  ],
+  "Oscope": [],
   "OutSplice": [
     "AnnotationDbi",
     "GenomicRanges",
@@ -5290,7 +5275,6 @@
   ],
   "POMA": [
     "DESeq2",
-    "RankProd",
     "SummarizedExperiment",
     "sva",
     "GenomicRanges",
@@ -5337,7 +5321,6 @@
     "PSMatch",
     "mzID",
     "DESeq2",
-    "RankProd",
     "sva",
     "GenomicRanges",
     "DelayedArray",
@@ -5393,7 +5376,6 @@
     "DESeq2",
     "GenomicRanges",
     "SummarizedExperiment",
-    "biomformat",
     "Biostrings",
     "DelayedArray"
   ],
@@ -5426,7 +5408,6 @@
     "marray"
   ],
   "PhenStat": [],
-  "PhenoGeneRanker": [],
   "PhosR": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -5691,7 +5672,6 @@
   "RCASPAR": [],
   "RCM": [
     "phyloseq",
-    "biomformat",
     "Biostrings"
   ],
   "RCSL": [
@@ -5848,7 +5828,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "RNASeqPower": [],
   "RNAmodR": [
     "GenomicRanges",
     "Modstrings",
@@ -5957,7 +5936,6 @@
   ],
   "RPA": [
     "phyloseq",
-    "biomformat",
     "Biostrings"
   ],
   "RProtoBufLib": [],
@@ -6055,7 +6033,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "RankProd": [],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -6556,7 +6533,6 @@
   ],
   "SIAMCAT": [
     "phyloseq",
-    "biomformat",
     "Biostrings"
   ],
   "SICtools": [
@@ -6678,7 +6654,6 @@
   "SPsimSeq": [
     "SingleCellExperiment",
     "phyloseq",
-    "biomformat",
     "Biostrings",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -6816,7 +6791,6 @@
   "SimBu": [
     "phyloseq",
     "SummarizedExperiment",
-    "biomformat",
     "Biostrings",
     "GenomicRanges",
     "DelayedArray"
@@ -7130,7 +7104,6 @@
     "phyloseq",
     "DelayedArray",
     "KEGGREST",
-    "biomformat",
     "Biostrings"
   ],
   "SwathXtend": [],
@@ -8415,7 +8388,6 @@
     "GenomicRanges",
     "SingleCellExperiment",
     "Biostrings",
-    "biomformat",
     "DelayedArray",
     "treeio",
     "genefilter",
@@ -8515,7 +8487,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "biomformat": [],
   "biomvRCNS": [
     "GenomicRanges",
     "Gviz",
@@ -8686,7 +8657,6 @@
   "broadSeq": [
     "SummarizedExperiment",
     "DELocal",
-    "EBSeq",
     "DESeq2",
     "genefilter",
     "clusterProfiler",
@@ -8757,7 +8727,6 @@
     "GenomicRanges",
     "BioNERO",
     "sva",
-    "GENIE3",
     "SummarizedExperiment",
     "biovizBase",
     "Biostrings",
@@ -9356,7 +9325,6 @@
   "combi": [
     "phyloseq",
     "SummarizedExperiment",
-    "biomformat",
     "Biostrings",
     "GenomicRanges",
     "DelayedArray"
@@ -9416,7 +9384,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "consensus": [],
   "consensusDE": [
     "AnnotationDbi",
     "Biostrings",
@@ -9744,7 +9711,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "ctc": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -9914,7 +9880,6 @@
     "DelayedMatrixStats",
     "scater",
     "scuttle",
-    "biomformat",
     "GenomicRanges",
     "beachmat",
     "BiocSingular",
@@ -12599,7 +12564,6 @@
   "miRLAB": [
     "TCGAbiolinks",
     "SummarizedExperiment",
-    "ctc",
     "Category",
     "GOstats",
     "AnnotationDbi",
@@ -12677,7 +12641,6 @@
   ],
   "miaDash": [
     "iSEE",
-    "biomformat",
     "iSEEtree",
     "mia",
     "scater",
@@ -12742,17 +12705,14 @@
   ],
   "microbiome": [
     "phyloseq",
-    "Biostrings",
-    "biomformat"
+    "Biostrings"
   ],
   "microbiomeDASim": [
     "phyloseq",
-    "biomformat",
     "Biostrings"
   ],
   "microbiomeExplorer": [
     "DESeq2",
-    "biomformat",
     "GenomicRanges",
     "SummarizedExperiment",
     "DelayedArray"
@@ -13052,7 +13012,6 @@
     "pwalign"
   ],
   "mslp": [
-    "RankProd",
     "AnnotationDbi",
     "KEGGREST",
     "Biostrings"
@@ -13106,9 +13065,7 @@
     "ProtGenerics",
     "AnnotationFilter"
   ],
-  "multiClust": [
-    "ctc"
-  ],
+  "multiClust": [],
   "multiGSEA": [
     "graphite",
     "AnnotationDbi",
@@ -13845,7 +13802,6 @@
     "treeio"
   ],
   "phyloseq": [
-    "biomformat",
     "Biostrings"
   ],
   "piano": [
@@ -13969,7 +13925,6 @@
     "Biostrings",
     "Rsamtools",
     "phyloseq",
-    "biomformat",
     "DelayedArray"
   ],
   "preciseTAD": [
@@ -14354,7 +14309,6 @@
   ],
   "reconsi": [
     "phyloseq",
-    "biomformat",
     "Biostrings"
   ],
   "recount": [
@@ -14772,7 +14726,6 @@
     "Biostrings"
   ],
   "scDD": [
-    "EBSeq",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "scran",
@@ -14785,7 +14738,6 @@
     "ScaledMatrix"
   ],
   "scDDboost": [
-    "EBSeq",
     "SingleCellExperiment",
     "Oscope",
     "SummarizedExperiment",
@@ -15092,7 +15044,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "scde": [],
   "scds": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -15540,7 +15491,6 @@
     "h5mread",
     "GenomicAlignments"
   ],
-  "sigsquared": [],
   "simPIC": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -16112,9 +16062,7 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "synlet": [
-    "RankProd"
-  ],
+  "synlet": [],
   "syntenet": [
     "GenomicRanges",
     "Biostrings",
@@ -16184,7 +16132,6 @@
   ],
   "tRanslatome": [
     "DESeq2",
-    "RankProd",
     "topGO",
     "GOSemSim",
     "GenomicRanges",
@@ -16911,7 +16858,6 @@
     "SummarizedExperiment",
     "DESeq2",
     "GenomicRanges",
-    "biomformat",
     "Biostrings",
     "DelayedArray"
   ],
