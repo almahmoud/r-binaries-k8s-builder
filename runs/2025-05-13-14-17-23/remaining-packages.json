@@ -6570,7 +6570,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "GeneGA": [],
   "GeneGeneInteR": [
     "snpStats",
     "Rsamtools",
@@ -6606,7 +6605,6 @@
     "RCy3",
     "BiocGenerics"
   ],
-  "GeneOverlap": [],
   "GeneRegionScan": [
     "Biobase",
     "Biostrings",
@@ -6694,7 +6692,6 @@
     "Rhtslib",
     "biomaRt"
   ],
-  "GeneticsPed": [],
   "GenomAutomorphism": [
     "Biostrings",
     "BiocGenerics",
@@ -26440,7 +26437,6 @@
     "Wrench",
     "BiocGenerics"
   ],
-  "metahdep": [],
   "metapone": [
     "fgsea"
   ],
@@ -26935,7 +26931,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "mgsa": [],
   "miQC": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -29358,7 +29353,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "pathwayPCA": [],
   "pcaExplorer": [
     "DESeq2",
     "SummarizedExperiment",
@@ -32225,7 +32219,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "scShapes": [],
   "scTGIF": [
     "GSEABase",
     "Biobase",
@@ -32249,7 +32242,6 @@
     "XVector",
     "Biostrings"
   ],
-  "scTHI": [],
   "scTensor": [
     "S4Vectors",
     "AnnotationDbi",
@@ -34831,7 +34823,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "ternarynet": [],
   "terraTCGAdata": [
     "AnVILGCP",
     "MultiAssayExperiment",

@@ -77,3 +77,12 @@ pfamAnalyzeR
 randRotation
 rawrr
 retrofit
+GeneGA
+GeneOverlap
+GeneticsPed
+metahdep
+mgsa
+pathwayPCA
+scShapes
+scTHI
+ternarynet
