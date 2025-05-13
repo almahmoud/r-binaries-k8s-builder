@@ -1,2 +1,4 @@
-CNAnorm
-CRImage
+AnVILPublish
+AnVILWorkflow
+Rigraphlib
+flowCore

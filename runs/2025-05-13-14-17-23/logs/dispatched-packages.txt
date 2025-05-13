@@ -696,3 +696,7 @@ progeny
 BiGGR
 CNAnorm
 CRImage
+AnVILPublish
+AnVILWorkflow
+Rigraphlib
+flowCore

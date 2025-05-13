@@ -573,3 +573,10 @@ DNAcopy
 InteractiveComplexHeatmap
 subSeq
 timeOmics
+affxparser
+AnVILGCP
+biocmake
+clippda
+CNAnorm
+cytolib
+islify
