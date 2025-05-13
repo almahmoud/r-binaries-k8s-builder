@@ -634,3 +634,17 @@ fobitools
 metapone
 mosbi
 pvca
+BumpyMatrix
+ComplexHeatmap
+DirichletMultinomial
+GenomeInfoDb
+IHW
+PROcess
+S4Arrays
+SPIA
+TPP
+XVector
+dStruct
+derfinderHelper
+lpNet
+nucleoSim
