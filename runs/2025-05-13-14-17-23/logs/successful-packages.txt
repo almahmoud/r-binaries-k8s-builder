@@ -504,3 +504,13 @@ MethPed
 RBGL
 Rbowtie
 SparseArray
+AnVILAz
+BufferedMatrixMethods
+EBarrays
+iPath
+iterativeBMA
+lmdme
+MethylMix
+MOGAMUN
+qcmetrics
+simona

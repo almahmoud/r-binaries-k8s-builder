@@ -273,7 +273,6 @@
     "ProtGenerics"
   ],
   "AlpsNMR": [],
-  "AnVILAz": [],
   "AnVILGCP": [],
   "AnVILPublish": [
     "AnVILGCP"
@@ -782,7 +781,6 @@
     "DelayedArray",
     "BSgenome"
   ],
-  "BufferedMatrixMethods": [],
   "BulkSignalR": [
     "orthogene",
     "SpatialExperiment",
@@ -2339,10 +2337,7 @@
     "DelayedArray"
   ],
   "EBSeq": [],
-  "EBarrays": [],
-  "EBcoexpress": [
-    "EBarrays"
-  ],
+  "EBcoexpress": [],
   "EDASeq": [
     "ShortRead",
     "Rsamtools",
@@ -4243,7 +4238,6 @@
     "DelayedArray",
     "h5mread"
   ],
-  "MOGAMUN": [],
   "MOMA": [
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -4374,7 +4368,6 @@
   ],
   "MSstatsQC": [
     "MSnbase",
-    "qcmetrics",
     "mzR",
     "ProtGenerics",
     "PSMatch",
@@ -4391,7 +4384,6 @@
   "MSstatsQCgui": [
     "MSstatsQC",
     "MSnbase",
-    "qcmetrics",
     "mzR",
     "ProtGenerics",
     "PSMatch",
@@ -4602,7 +4594,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "MethylMix": [],
   "MethylSeekR": [
     "rtracklayer",
     "BSgenome",
@@ -8488,7 +8479,6 @@
     "TCGAutils",
     "enrichplot",
     "GOSemSim",
-    "EBarrays",
     "graphite",
     "ggtree",
     "Biostrings",
@@ -8805,7 +8795,6 @@
     "RTCGAToolbox",
     "SummarizedExperiment",
     "TCGAutils",
-    "EBarrays",
     "annotate",
     "AnnotationDbi",
     "Category",
@@ -8840,7 +8829,6 @@
   ],
   "casper": [
     "GenomicRanges",
-    "EBarrays",
     "gaga",
     "GenomicFeatures",
     "Rsamtools",
@@ -11073,7 +11061,6 @@
     "ggtree",
     "InteractiveComplexHeatmap",
     "shiny.gosling",
-    "MethylMix",
     "KEGGREST",
     "DOSE",
     "enrichplot",
@@ -11086,9 +11073,7 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "gaga": [
-    "EBarrays"
-  ],
+  "gaga": [],
   "gage": [
     "KEGGREST",
     "AnnotationDbi",
@@ -11117,9 +11102,7 @@
     "Biostrings"
   ],
   "gdsfmt": [],
-  "geNetClassifier": [
-    "EBarrays"
-  ],
+  "geNetClassifier": [],
   "gemma.R": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -11657,7 +11640,6 @@
     "biomaRt",
     "treeio"
   ],
-  "iPath": [],
   "iSEE": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -11926,7 +11908,6 @@
     "DelayedArray",
     "Biostrings"
   ],
-  "iterativeBMA": [],
   "ivygapSE": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -12104,7 +12085,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "lmdme": [],
   "loci2path": [
     "GenomicRanges"
   ],
@@ -14188,7 +14168,6 @@
     "zlibbioc",
     "RSeqAn"
   ],
-  "qcmetrics": [],
   "qmtools": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -15579,7 +15558,6 @@
     "DelayedArray",
     "beachmat"
   ],
-  "simona": [],
   "simpleSeg": [
     "SummarizedExperiment",
     "cytomapper",
@@ -15591,7 +15569,6 @@
     "h5mread"
   ],
   "simplifyEnrichment": [
-    "simona",
     "AnnotationDbi",
     "KEGGREST",
     "Biostrings"
