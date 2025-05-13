@@ -682,3 +682,15 @@ SNAGEE
 snpStats
 stepNorm
 timecourse
+Biostrings
+CGHcall
+CGHregions
+ChemmineOB
+DiffLogo
+hmdbQuery
+IWTomics
+LOLA
+MSstats
+PIPETS
+Qtlizer
+wppi
