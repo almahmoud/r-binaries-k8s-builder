@@ -400,3 +400,4 @@ scRecover
 scShapes
 scTHI
 ternarynet
+rawDiag

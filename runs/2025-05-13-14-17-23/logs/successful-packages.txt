@@ -71,3 +71,9 @@ sagenhaft
 sSeq
 TaxSEA
 tidysbml
+GSAR
+metapod
+pfamAnalyzeR
+randRotation
+rawrr
+retrofit
