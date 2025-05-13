@@ -422,16 +422,13 @@
   ],
   "AlphaMissenseR": [],
   "AlpsNMR": [],
-  "AnVIL": [],
   "AnVILAz": [],
   "AnVILGCP": [],
   "AnVILPublish": [
-    "AnVIL",
     "AnVILGCP"
   ],
   "AnVILWorkflow": [
-    "AnVILGCP",
-    "AnVIL"
+    "AnVILGCP"
   ],
   "Anaquin": [
     "DESeq2",
@@ -3214,7 +3211,6 @@
     "Rhtslib"
   ],
   "DNABarcodeCompatibility": [],
-  "DNABarcodes": [],
   "DNAcopy": [],
   "DNAcycP2": [],
   "DNAfusion": [
@@ -4556,7 +4552,6 @@
   "GNOSIS": [
     "maftools",
     "cBioPortalData",
-    "AnVIL",
     "MultiAssayExperiment",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -7503,7 +7498,6 @@
     "Rhtslib",
     "GenomicAlignments"
   ],
-  "ModCon": [],
   "Modstrings": [
     "Biostrings",
     "GenomicRanges",
@@ -8170,7 +8164,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "OSTA.data": [],
   "OTUbase": [
     "IRanges",
     "ShortRead",
@@ -10262,7 +10255,6 @@
   ],
   "Rtpca": [],
   "Rtreemix": [],
-  "Rvisdiff": [],
   "S4Arrays": [
     "IRanges"
   ],
@@ -13535,7 +13527,6 @@
     "Biostrings"
   ],
   "bedbaser": [
-    "AnVIL",
     "GenomeInfoDb",
     "GenomicRanges",
     "rtracklayer",
@@ -13661,7 +13652,6 @@
     "ReactomePA",
     "IRanges",
     "KEGGREST",
-    "AnVIL",
     "MultiAssayExperiment",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -14057,7 +14047,6 @@
     "SparseArray"
   ],
   "cBioPortalData": [
-    "AnVIL",
     "MultiAssayExperiment",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -14134,7 +14123,6 @@
     "GSEABase",
     "geNetClassifier",
     "phenoTest",
-    "AnVIL",
     "MultiAssayExperiment",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -14232,7 +14220,6 @@
   "cbaf": [
     "cBioPortalData",
     "genefilter",
-    "AnVIL",
     "MultiAssayExperiment",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -17395,7 +17382,6 @@
     "XVector"
   ],
   "fmcsR": [],
-  "fmrs": [],
   "fobitools": [
     "fgsea"
   ],
@@ -19608,7 +19594,6 @@
     "UCSC.utils"
   ],
   "messina": [],
-  "metaCCA": [],
   "metaMS": [
     "CAMERA",
     "xcms",
@@ -25910,7 +25895,6 @@
   "terraTCGAdata": [
     "AnVILGCP",
     "MultiAssayExperiment",
-    "AnVIL",
     "GenomicRanges",
     "RaggedExperiment",
     "TCGAutils",

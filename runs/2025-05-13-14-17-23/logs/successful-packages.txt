@@ -282,3 +282,10 @@ granulator
 ScreenR
 similaRpeak
 veloviz
+AnVIL
+DNABarcodes
+fmrs
+metaCCA
+ModCon
+OSTA.data
+Rvisdiff
