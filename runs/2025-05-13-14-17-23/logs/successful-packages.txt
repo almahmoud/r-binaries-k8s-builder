@@ -553,3 +553,9 @@ scMitoMut
 synlet
 unifiedWMWqPCR
 viper
+decoupleR
+fmcsR
+RBioFormats
+RBioinf
+Rcollectl
+RCyjs

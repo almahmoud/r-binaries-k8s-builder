@@ -5633,8 +5633,6 @@
   "RBM": [
     "marray"
   ],
-  "RBioFormats": [],
-  "RBioinf": [],
   "RCAS": [
     "GenomicRanges",
     "BSgenome",
@@ -5663,7 +5661,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "RCyjs": [],
   "REDseq": [
     "Biostrings",
     "BSgenome",
@@ -6062,7 +6059,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "Rcollectl": [],
   "Rcpi": [
     "Biostrings",
     "GOSemSim",
@@ -6939,7 +6935,6 @@
   ],
   "SpatialOmicsOverlay": [
     "GeomxTools",
-    "RBioFormats",
     "NanoStringNCTools",
     "Biostrings"
   ],
@@ -7970,7 +7965,6 @@
     "SpatialFeatureExperiment",
     "alabaster.sce",
     "alabaster.spatial",
-    "RBioFormats",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "alabaster.se",
@@ -9453,7 +9447,6 @@
   ],
   "cosmosR": [
     "GSEABase",
-    "decoupleR",
     "annotate",
     "AnnotationDbi",
     "KEGGREST",
@@ -9932,7 +9925,6 @@
     "GenomicAlignments",
     "KEGGREST"
   ],
-  "decoupleR": [],
   "deepSNV": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -10198,7 +10190,6 @@
   ],
   "easier": [
     "progeny",
-    "decoupleR",
     "quantiseqr",
     "DESeq2",
     "GenomicRanges",
@@ -10829,7 +10820,6 @@
     "ncdfFlow",
     "DelayedArray"
   ],
-  "fmcsR": [],
   "fobitools": [],
   "frma": [
     "oligo",
@@ -11765,9 +11755,7 @@
     "GenomicRanges",
     "KEGGREST"
   ],
-  "islify": [
-    "RBioFormats"
-  ],
+  "islify": [],
   "isobar": [
     "biomaRt",
     "AnnotationDbi",
@@ -13545,7 +13533,6 @@
     "Biostrings"
   ],
   "pathMED": [
-    "decoupleR",
     "GSVA",
     "singscore",
     "SummarizedExperiment",
@@ -13943,9 +13930,7 @@
     "treeio",
     "pwalign"
   ],
-  "progeny": [
-    "decoupleR"
-  ],
+  "progeny": [],
   "projectR": [
     "SingleCellExperiment",
     "SummarizedExperiment",
