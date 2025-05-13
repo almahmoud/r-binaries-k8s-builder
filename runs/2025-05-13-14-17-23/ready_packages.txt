@@ -1,1 +1,6 @@
-Polytect
+BiocHail
+DNAcycP2
+Rcwl
+cbpManager
+densvis
+snifter

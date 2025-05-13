@@ -274,3 +274,11 @@ snm
 survcomp
 updateObject
 weaver
+basilisk
+clevRvis
+easyreporting
+erccdashboard
+granulator
+ScreenR
+similaRpeak
+veloviz
