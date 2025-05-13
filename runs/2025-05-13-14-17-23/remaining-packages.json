@@ -69,7 +69,6 @@
     "DNAcopy",
     "tilingArray",
     "aCGH",
-    "affy",
     "vsn",
     "genefilter",
     "AnnotationDbi",
@@ -346,11 +345,8 @@
     "UCSC.utils",
     "XVector"
   ],
-  "AffyRNADegradation": [
-    "affy"
-  ],
+  "AffyRNADegradation": [],
   "AgiMicroRna": [
-    "affy",
     "affycoretools",
     "GOstats",
     "gcrma",
@@ -1299,7 +1295,6 @@
     "GenomicRanges",
     "IRanges",
     "ggbio",
-    "affy",
     "annotate",
     "AnnotationDbi",
     "GenomeInfoDb",
@@ -1404,7 +1399,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "GenomicRanges",
@@ -1593,7 +1587,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "CMA": [],
   "CNAnorm": [
     "DNAcopy"
   ],
@@ -2234,7 +2227,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "h5mread",
-    "affy",
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
@@ -2288,7 +2280,6 @@
   "ChIPXpress": [
     "GEOquery",
     "frma",
-    "affy",
     "oligo",
     "oligoClasses",
     "SummarizedExperiment",
@@ -2584,7 +2575,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "Spectra",
@@ -2734,9 +2724,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "Cormotif": [
-    "affy"
-  ],
+  "Cormotif": [],
   "CoverageView": [
     "Rsamtools",
     "rtracklayer",
@@ -2895,7 +2883,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "Spectra",
@@ -2978,7 +2965,6 @@
     "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
-    "affy",
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -3601,8 +3587,7 @@
     "GenomicAlignments"
   ],
   "Doscheda": [
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "DropletUtils": [
     "SingleCellExperiment",
@@ -3623,7 +3608,6 @@
     "UCSC.utils"
   ],
   "DrugVsDisease": [
-    "affy",
     "biomaRt",
     "ArrayExpress",
     "GEOquery",
@@ -3683,7 +3667,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "DynDoc": [],
   "EBSEA": [
     "DESeq2",
     "IRanges",
@@ -4094,9 +4077,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "ExiMiR": [
-    "affy"
-  ],
+  "ExiMiR": [],
   "ExperimentHub": [
     "AnnotationHub",
     "AnnotationDbi",
@@ -4152,7 +4133,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "ExploreModelMatrix": [],
   "ExpressionAtlas": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -4264,7 +4244,6 @@
     "txdbmaker",
     "Rhtslib"
   ],
-  "FRGEpistasis": [],
   "FastqCleaner": [
     "IRanges",
     "Biostrings",
@@ -4518,9 +4497,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "GEOsubmission": [
-    "affy"
-  ],
+  "GEOsubmission": [],
   "GEWIST": [],
   "GIGSEA": [],
   "GLAD": [],
@@ -5443,9 +5420,7 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "HTqPCR": [
-    "affy"
-  ],
+  "HTqPCR": [],
   "HarmonizR": [
     "sva",
     "SummarizedExperiment",
@@ -5464,7 +5439,6 @@
     "Biostrings"
   ],
   "Harshlight": [
-    "affy",
     "altcdfenvs",
     "makecdfenv",
     "Biostrings",
@@ -5818,7 +5792,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "GenomicRanges",
@@ -6129,7 +6102,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "GenomicRanges",
@@ -6363,7 +6335,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "GenomicRanges",
@@ -6527,7 +6498,6 @@
     "UCSC.utils",
     "h5mread",
     "rhdf5",
-    "affy",
     "KEGGREST",
     "rtracklayer",
     "Rsamtools",
@@ -6908,7 +6878,6 @@
     "MsCoreUtils",
     "PSMatch",
     "vsn",
-    "affy",
     "pcaMethods",
     "UCSC.utils",
     "Spectra",
@@ -6929,7 +6898,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "Spectra",
@@ -6988,7 +6956,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "Spectra",
@@ -7015,7 +6982,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "Spectra",
@@ -7099,7 +7065,6 @@
     "S4Arrays",
     "DelayedArray",
     "genefilter",
-    "affy",
     "AnnotationDbi",
     "SparseArray",
     "annotate",
@@ -7383,8 +7348,7 @@
   ],
   "Mfuzz": [
     "tkWidgets",
-    "widgetTools",
-    "DynDoc"
+    "widgetTools"
   ],
   "MiChip": [],
   "MiRaGE": [
@@ -7440,7 +7404,6 @@
     "Category",
     "RBGL",
     "AnnotationForge",
-    "affy",
     "methylumi",
     "GenomicFeatures",
     "GenomicRanges",
@@ -7799,8 +7762,7 @@
     "SparseArray",
     "UCSC.utils",
     "XVector",
-    "widgetTools",
-    "DynDoc"
+    "widgetTools"
   ],
   "MultimodalExperiment": [
     "IRanges",
@@ -8042,14 +8004,11 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "affy",
     "SparseArray",
     "UCSC.utils",
     "XVector"
   ],
-  "NormqPCR": [
-    "ReadqPCR"
-  ],
+  "NormqPCR": [],
   "OCplus": [],
   "OGRE": [
     "GenomicRanges",
@@ -8086,8 +8045,7 @@
     "OLIN",
     "marray",
     "tkWidgets",
-    "widgetTools",
-    "DynDoc"
+    "widgetTools"
   ],
   "OMICsPCA": [
     "HelloRanges",
@@ -8338,7 +8296,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "PANR": [],
   "PAST": [
     "rtracklayer",
     "GenomicRanges",
@@ -8390,8 +8347,6 @@
     "Biostrings"
   ],
   "PECA": [
-    "ROTS",
-    "affy",
     "genefilter",
     "AnnotationDbi",
     "annotate",
@@ -8479,7 +8434,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "PLPE": [],
   "PLSDAbatch": [
     "TreeSummarizedExperiment",
     "SingleCellExperiment",
@@ -8566,7 +8520,6 @@
     "SummarizedExperiment",
     "ComplexHeatmap",
     "NormalyzerDE",
-    "ROTS",
     "MSnbase",
     "vsn",
     "POMA",
@@ -8576,7 +8529,6 @@
     "ProtGenerics",
     "MsCoreUtils",
     "PSMatch",
-    "affy",
     "pcaMethods",
     "mzID",
     "DESeq2",
@@ -8809,7 +8761,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "Spectra",
@@ -8835,7 +8786,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "Spectra",
@@ -9312,7 +9262,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "RIVER": [],
   "RJMCMCNucleosomes": [
     "IRanges",
     "GenomicRanges",
@@ -9340,7 +9289,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "Spectra",
@@ -9527,7 +9475,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "ROTS": [],
   "ROntoTools": [
     "KEGGREST",
     "KEGGgraph",
@@ -9539,7 +9486,6 @@
     "UCSC.utils"
   ],
   "RPA": [
-    "affy",
     "phyloseq",
     "biomformat",
     "Biostrings",
@@ -9832,7 +9778,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "ReadqPCR": [],
   "RedisParam": [],
   "ReducedExperiment": [
     "SummarizedExperiment",
@@ -10103,7 +10048,6 @@
   "Rigraphlib": [
     "biocmake"
   ],
-  "Rmagpie": [],
   "Rmmquant": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -10182,11 +10126,8 @@
     "Rhtslib",
     "BSgenome"
   ],
-  "Rnits": [
-    "affy"
-  ],
+  "Rnits": [],
   "RolDE": [
-    "ROTS",
     "SummarizedExperiment",
     "GenomicRanges",
     "IRanges",
@@ -10303,7 +10244,6 @@
     "oligo",
     "Biostrings",
     "GEOquery",
-    "affy",
     "sva",
     "IRanges",
     "XVector",
@@ -10612,7 +10552,6 @@
     "h5mread",
     "Rhtslib"
   ],
-  "SPEM": [],
   "SPIA": [
     "KEGGgraph",
     "Rgraphviz"
@@ -10707,10 +10646,7 @@
     "SparseArray",
     "XVector"
   ],
-  "SRAdb": [],
-  "STATegRa": [
-    "affy"
-  ],
+  "STATegRa": [],
   "STRINGdb": [],
   "SUITOR": [],
   "SVMDO": [
@@ -11816,9 +11752,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "TMixClust": [
-    "SPEM"
-  ],
+  "TMixClust": [],
   "TOAST": [
     "EpiDISH",
     "SummarizedExperiment",
@@ -11853,7 +11787,6 @@
   "TPP": [
     "biobroom"
   ],
-  "TPP2D": [],
   "TREG": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -12052,8 +11985,7 @@
   ],
   "TurboNorm": [
     "convert",
-    "marray",
-    "affy"
+    "marray"
   ],
   "UCSC.utils": [],
   "UCell": [
@@ -12094,7 +12026,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "UNDO": [],
   "UPDhmm": [
     "VariantAnnotation",
     "GenomicRanges",
@@ -12597,7 +12528,6 @@
     "a4Base",
     "a4Preproc",
     "a4Classif",
-    "a4Core",
     "annaffy",
     "genefilter",
     "AnnotationDbi",
@@ -12611,7 +12541,6 @@
   ],
   "a4Base": [
     "a4Preproc",
-    "a4Core",
     "annaffy",
     "genefilter",
     "AnnotationDbi",
@@ -12624,10 +12553,8 @@
     "UCSC.utils"
   ],
   "a4Classif": [
-    "a4Core",
     "a4Preproc"
   ],
-  "a4Core": [],
   "a4Preproc": [],
   "aCGH": [],
   "adSplit": [
@@ -12660,14 +12587,10 @@
     "XVector"
   ],
   "affxparser": [],
-  "affy": [],
-  "affyContam": [
-    "affy"
-  ],
+  "affyContam": [],
   "affyILM": [
     "gcrma",
     "affxparser",
-    "affy",
     "XVector",
     "Biostrings",
     "IRanges",
@@ -12675,7 +12598,6 @@
     "UCSC.utils"
   ],
   "affyPLM": [
-    "affy",
     "gcrma",
     "XVector",
     "Biostrings",
@@ -12685,7 +12607,6 @@
   ],
   "affycomp": [],
   "affycoretools": [
-    "affy",
     "GOstats",
     "gcrma",
     "AnnotationDbi",
@@ -12728,7 +12649,6 @@
     "biomaRt"
   ],
   "affylmGUI": [
-    "affy",
     "affyPLM",
     "gcrma",
     "AnnotationDbi",
@@ -12995,7 +12915,6 @@
     "tximport"
   ],
   "altcdfenvs": [
-    "affy",
     "makecdfenv",
     "Biostrings",
     "hypergraph",
@@ -13153,7 +13072,6 @@
     "biomaRt"
   ],
   "arrayMvout": [
-    "affy",
     "mdqc",
     "affyContam",
     "lumi",
@@ -13189,7 +13107,6 @@
     "marray"
   ],
   "arrayQualityMetrics": [
-    "affy",
     "affyPLM",
     "beadarray",
     "genefilter",
@@ -13283,7 +13200,6 @@
     "IRanges",
     "GenomeInfoDb",
     "S4Arrays",
-    "affy",
     "SparseArray",
     "UCSC.utils",
     "XVector"
@@ -13359,7 +13275,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "MLInterfaces",
@@ -13617,7 +13532,6 @@
     "rtracklayer",
     "h5mread",
     "rhdf5",
-    "affy",
     "Rsamtools",
     "GenomicAlignments",
     "Rhtslib"
@@ -13880,7 +13794,6 @@
     "Rgraphviz",
     "epiNEM",
     "mnem",
-    "affy",
     "sva",
     "vsn",
     "RBGL",
@@ -14742,7 +14655,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "SummarizedExperiment",
@@ -14938,7 +14850,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "cogena": [],
   "cogeqc": [
     "ggtree",
     "Biostrings",
@@ -15221,7 +15132,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "GenomicRanges",
@@ -15636,8 +15546,7 @@
   "cycle": [
     "Mfuzz",
     "tkWidgets",
-    "widgetTools",
-    "DynDoc"
+    "widgetTools"
   ],
   "cydar": [
     "SingleCellExperiment",
@@ -17049,7 +16958,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "faers": [],
   "famat": [
     "KEGGREST",
     "clusterProfiler",
@@ -17109,7 +17017,6 @@
   ],
   "fenr": [],
   "ffpe": [
-    "affy",
     "lumi",
     "methylumi",
     "GenomicFeatures",
@@ -17183,7 +17090,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "GenomicRanges",
@@ -17360,7 +17266,6 @@
     "fgsea"
   ],
   "frma": [
-    "affy",
     "oligo",
     "oligoClasses",
     "Biostrings",
@@ -17375,9 +17280,7 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "frmaTools": [
-    "affy"
-  ],
+  "frmaTools": [],
   "funOmics": [
     "KEGGREST",
     "AnnotationDbi",
@@ -17601,7 +17504,6 @@
     "lfa"
   ],
   "gcrma": [
-    "affy",
     "XVector",
     "Biostrings",
     "IRanges",
@@ -18236,7 +18138,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "hapFabia": [],
   "hca": [],
   "hdxmsqc": [
     "QFeatures",
@@ -18415,7 +18316,6 @@
   ],
   "iCheck": [
     "lumi",
-    "affy",
     "methylumi",
     "GenomicFeatures",
     "GenomicRanges",
@@ -19215,7 +19115,6 @@
   ],
   "lpsymphony": [],
   "lumi": [
-    "affy",
     "methylumi",
     "GenomicFeatures",
     "GenomicRanges",
@@ -19332,7 +19231,6 @@
   ],
   "maCorrPlot": [],
   "maPredictDSC": [
-    "affy",
     "gcrma",
     "ROC",
     "AnnotationDbi",
@@ -19397,9 +19295,7 @@
     "SparseArray"
   ],
   "magrene": [],
-  "makecdfenv": [
-    "affy"
-  ],
+  "makecdfenv": [],
   "mapscape": [],
   "mariner": [
     "GenomicRanges",
@@ -19468,7 +19364,6 @@
   ],
   "maskBAD": [
     "gcrma",
-    "affy",
     "XVector",
     "Biostrings",
     "IRanges",
@@ -19583,7 +19478,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "GenomicRanges",
@@ -19661,7 +19555,6 @@
     "Rhtslib",
     "S4Arrays",
     "DelayedArray",
-    "affy",
     "KEGGREST",
     "DelayedMatrixStats",
     "BSgenome",
@@ -20289,7 +20182,6 @@
     "XVector"
   ],
   "mimager": [
-    "affy",
     "affyPLM",
     "oligo",
     "oligoClasses",
@@ -20742,7 +20634,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "Spectra",
@@ -20768,7 +20659,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "Spectra",
@@ -21053,7 +20943,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "GenomicRanges",
@@ -21186,8 +21075,7 @@
     "XVector"
   ],
   "nondetects": [
-    "HTqPCR",
-    "affy"
+    "HTqPCR"
   ],
   "normalize450K": [],
   "normr": [
@@ -21342,7 +21230,6 @@
     "MsCoreUtils",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "DelayedArray",
@@ -21575,7 +21462,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "KEGGREST",
@@ -21602,7 +21488,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "MLInterfaces",
@@ -21719,9 +21604,7 @@
     "Biostrings",
     "Rhtslib"
   ],
-  "panp": [
-    "affy"
-  ],
+  "panp": [],
   "partCNV": [
     "SingleCellExperiment",
     "AnnotationHub",
@@ -21868,7 +21751,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "Spectra",
@@ -22075,9 +21957,7 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "plier": [
-    "affy"
-  ],
+  "plier": [],
   "plotgardener": [
     "GenomeInfoDb",
     "GenomicRanges",
@@ -22227,7 +22107,6 @@
   ],
   "prebs": [
     "GenomicAlignments",
-    "affy",
     "RPA",
     "GenomicRanges",
     "IRanges",
@@ -22252,7 +22131,6 @@
     "GenomeInfoDb",
     "XVector",
     "DNAcopy",
-    "affy",
     "GenomicFeatures",
     "AnnotationDbi",
     "aCGH",
@@ -22419,7 +22297,6 @@
     "genefilter",
     "AnnotationDbi",
     "annotate",
-    "affy",
     "IRanges",
     "KEGGREST",
     "Biostrings",
@@ -22464,7 +22341,6 @@
     "PSMatch",
     "IRanges",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "Spectra",
@@ -22484,7 +22360,6 @@
   "puma": [
     "oligo",
     "oligoClasses",
-    "affy",
     "Biostrings",
     "affxparser",
     "IRanges",
@@ -22497,12 +22372,9 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "pvac": [
-    "affy"
-  ],
+  "pvac": [],
   "pvca": [
-    "vsn",
-    "affy"
+    "vsn"
   ],
   "pwalign": [
     "IRanges",
@@ -22522,7 +22394,6 @@
     "MsCoreUtils",
     "PSMatch",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "UCSC.utils",
@@ -22555,9 +22426,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "qpcrNorm": [
-    "affy"
-  ],
+  "qpcrNorm": [],
   "qpgraph": [
     "annotate",
     "AnnotationDbi",
@@ -22695,7 +22564,6 @@
   ],
   "rCGH": [
     "DNAcopy",
-    "affy",
     "GenomicFeatures",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -23888,7 +23756,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "scRecover": [],
   "scRepertoire": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -24791,7 +24658,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "sincell": [],
   "singleCellTK": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -24934,7 +24800,6 @@
     "rtracklayer",
     "h5mread",
     "rhdf5",
-    "affy",
     "Rsamtools",
     "GenomicAlignments",
     "Rhtslib"
@@ -25337,7 +25202,6 @@
     "MsCoreUtils",
     "PSMatch",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "MsFeatures",
@@ -25639,7 +25503,6 @@
     "MsCoreUtils",
     "PSMatch",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "UCSC.utils",
@@ -25987,7 +25850,6 @@
     "UCSC.utils"
   ],
   "tilingArray": [
-    "affy",
     "vsn",
     "genefilter",
     "AnnotationDbi",
@@ -26004,8 +25866,7 @@
     "marray"
   ],
   "tkWidgets": [
-    "widgetTools",
-    "DynDoc"
+    "widgetTools"
   ],
   "tomoda": [
     "SummarizedExperiment",
@@ -26038,7 +25899,6 @@
     "GenomeInfoDb",
     "MsCoreUtils",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "Spectra",
@@ -26540,9 +26400,7 @@
     "XVector",
     "UCSC.utils"
   ],
-  "vsn": [
-    "affy"
-  ],
+  "vsn": [],
   "vtpnet": [
     "GenomicRanges",
     "gwascat",
@@ -26623,7 +26481,6 @@
     "lumi",
     "ROC",
     "minfi",
-    "affy",
     "GenomicFeatures",
     "GenomicRanges",
     "annotate",
@@ -26670,7 +26527,6 @@
     "SparseArray"
   ],
   "webbioc": [
-    "affy",
     "annaffy",
     "vsn",
     "gcrma",
@@ -26758,7 +26614,6 @@
     "QFeatures",
     "PSMatch",
     "vsn",
-    "affy",
     "pcaMethods",
     "mzID",
     "GenomicRanges",
