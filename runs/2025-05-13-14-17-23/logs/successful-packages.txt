@@ -289,3 +289,14 @@ metaCCA
 ModCon
 OSTA.data
 Rvisdiff
+BiocHail
+BioQC
+cbpManager
+DNAcycP2
+genArise
+GEOfastq
+ppcseq
+scFeatureFilter
+seq.hotSPOT
+snifter
+topconfects

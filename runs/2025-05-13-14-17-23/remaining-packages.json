@@ -1135,7 +1135,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "BioQC": [],
   "BioTIP": [
     "GenomicRanges",
     "scran",
@@ -1158,7 +1157,6 @@
     "biocViews",
     "RBGL"
   ],
-  "BiocHail": [],
   "BiocHubsShiny": [
     "AnnotationHub",
     "ExperimentHub",
@@ -3212,7 +3210,6 @@
   ],
   "DNABarcodeCompatibility": [],
   "DNAcopy": [],
-  "DNAcycP2": [],
   "DNAfusion": [
     "bamsignals",
     "GenomicRanges",
@@ -4511,7 +4508,6 @@
     "XVector",
     "Biostrings"
   ],
-  "GEOfastq": [],
   "GEOmetadb": [],
   "GEOquery": [
     "SummarizedExperiment",
@@ -5263,7 +5259,6 @@
   ],
   "GeoTcgaData": [
     "cqn",
-    "topconfects",
     "SummarizedExperiment",
     "GenomicRanges",
     "IRanges",
@@ -14244,7 +14239,6 @@
     "GenomicAlignments",
     "Rhtslib"
   ],
-  "cbpManager": [],
   "ccImpute": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -17649,7 +17643,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "genArise": [],
   "geneAttribution": [
     "GenomicRanges",
     "GenomeInfoDb",
@@ -22231,7 +22224,6 @@
     "XVector",
     "Biostrings"
   ],
-  "ppcseq": [],
   "pqsfinder": [
     "Biostrings",
     "GenomicRanges",
@@ -23706,7 +23698,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "scFeatureFilter": [],
   "scFeatures": [
     "DelayedArray",
     "DelayedMatrixStats",
@@ -24454,7 +24445,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "seq.hotSPOT": [],
   "seq2pathway": [
     "biomaRt",
     "GenomicRanges",
@@ -25052,7 +25042,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "snifter": [],
   "snpStats": [
     "zlibbioc"
   ],
@@ -26064,7 +26053,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "topconfects": [],
   "topdownr": [
     "ProtGenerics",
     "Biostrings",
@@ -26726,7 +26714,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "DelayedMatrixStats",
-    "topconfects",
     "IRanges",
     "S4Arrays",
     "SparseArray",
