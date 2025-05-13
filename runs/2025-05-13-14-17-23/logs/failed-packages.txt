@@ -6,3 +6,4 @@ gpuMagic
 graper
 NormqPCR
 PhenStat
+HilbertVis

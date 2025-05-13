@@ -1,4 +1,0 @@
-IsoCorrectoRGUI
-Maaslin2
-mbQTL
-tweeDEseq
