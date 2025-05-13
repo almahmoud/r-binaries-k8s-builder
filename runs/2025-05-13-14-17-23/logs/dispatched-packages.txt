@@ -662,3 +662,12 @@ Mfuzz
 SparseArray
 XINA
 alevinQC
+Biostrings
+GSCA
+GenomicRanges
+MMUPHin
+alabaster.base
+biomformat
+cycle
+ribor
+scMitoMut

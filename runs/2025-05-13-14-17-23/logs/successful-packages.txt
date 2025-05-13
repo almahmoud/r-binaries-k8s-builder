@@ -474,3 +474,15 @@ SPIA
 STRINGdb
 tkWidgets
 tximport
+FISHalyseR
+GenomeInfoDb
+GEWIST
+iClusterPlus
+Maaslin2
+maSigPro
+messina
+Mfuzz
+nethet
+rhdf5
+RLMM
+specL
