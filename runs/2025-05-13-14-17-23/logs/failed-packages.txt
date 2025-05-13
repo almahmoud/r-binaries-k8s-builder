@@ -7,3 +7,4 @@ graper
 NormqPCR
 PhenStat
 HilbertVis
+hypeR

@@ -613,3 +613,15 @@ RSeqAn
 swfdr
 TMixClust
 twilight
+BEclear
+clustComp
+diffGeneAnalysis
+Doscheda
+GeneExpressionSignature
+lfa
+mosbi
+OrderedList
+PathNet
+RTopper
+RUVcorr
+target

@@ -373,7 +373,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "BEclear": [],
   "BLMA": [
     "ROntoTools",
     "PADOG",
@@ -2031,7 +2030,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "Doscheda": [],
   "DropletUtils": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -2796,7 +2794,6 @@
     "Rsamtools",
     "Biostrings"
   ],
-  "GeneExpressionSignature": [],
   "GeneGeneInteR": [
     "snpStats",
     "Rsamtools",
@@ -4604,7 +4601,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "OrderedList": [],
   "Organism.dplyr": [
     "AnnotationFilter",
     "GenomicFeatures",
@@ -4832,7 +4828,6 @@
     "ggtree",
     "Biostrings"
   ],
-  "PathNet": [],
   "PathoStat": [
     "phyloseq",
     "DESeq2",
@@ -5391,7 +5386,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "RTopper": [],
   "RUCova": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -5412,7 +5406,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "RUVcorr": [],
   "RUVnormalize": [],
   "RVS": [
     "snpStats",
@@ -8283,7 +8276,6 @@
     "clst",
     "ROC"
   ],
-  "clustComp": [],
   "clustSIGNAL": [
     "SpatialExperiment",
     "scater",
@@ -9062,7 +9054,6 @@
     "SingleCellExperiment",
     "DelayedArray"
   ],
-  "diffGeneAnalysis": [],
   "diffHic": [
     "InteractionSet",
     "SummarizedExperiment",
@@ -9922,9 +9913,7 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "gcatest": [
-    "lfa"
-  ],
+  "gcatest": [],
   "gcrma": [
     "Biostrings"
   ],
@@ -10748,7 +10737,6 @@
     "beachmat",
     "h5mread"
   ],
-  "lfa": [],
   "limmaGUI": [],
   "limpa": [],
   "limpca": [
@@ -11558,7 +11546,6 @@
     "Biostrings",
     "DelayedArray"
   ],
-  "mosbi": [],
   "mosdef": [
     "AnnotationDbi",
     "topGO",
@@ -14519,7 +14506,6 @@
   "tanggle": [
     "ggtree"
   ],
-  "target": [],
   "tenXplore": [
     "ontoProc",
     "SummarizedExperiment",
