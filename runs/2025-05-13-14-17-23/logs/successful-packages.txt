@@ -559,3 +559,9 @@ RBioFormats
 RBioinf
 Rcollectl
 RCyjs
+CytoGLMM
+eiR
+hyperdraw
+metabCombiner
+multiClust
+vbmp

@@ -633,9 +633,7 @@
   "BiFET": [
     "GenomicRanges"
   ],
-  "BiGGR": [
-    "hyperdraw"
-  ],
+  "BiGGR": [],
   "BiSeq": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -1761,7 +1759,6 @@
     "flowCore",
     "cytolib"
   ],
-  "CytoGLMM": [],
   "CytoMDS": [
     "flowCore",
     "CytoPipeline",
@@ -10232,7 +10229,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "eiR": [],
   "eisaR": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -11443,7 +11439,6 @@
     "DelayedArray"
   ],
   "hypeR": [],
-  "hyperdraw": [],
   "iCNV": [
     "CODEX",
     "Rsamtools",
@@ -12194,7 +12189,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "metabCombiner": [],
   "metabolomicsWorkbenchR": [
     "MultiAssayExperiment",
     "struct",
@@ -12972,7 +12966,6 @@
     "ProtGenerics",
     "AnnotationFilter"
   ],
-  "multiClust": [],
   "multiGSEA": [
     "graphite",
     "AnnotationDbi",
@@ -16435,7 +16428,6 @@
     "Biostrings"
   ],
   "variancePartition": [],
-  "vbmp": [],
   "velociraptor": [
     "SummarizedExperiment",
     "DelayedArray",
