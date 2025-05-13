@@ -100,8 +100,8 @@ kubectl wait --for=condition=Ready pod/${BIOC_POD} -n ${NAMESPACE} --timeout=240
 echo "Copying generated files from pod..."
 kubectl cp ${NAMESPACE}/${BIOC_POD}:/mnt/biocdeps.json runs/${RUN_ID}/biocdeps.json
 kubectl cp ${NAMESPACE}/${BIOC_POD}:/mnt/uniquedeps.json runs/${RUN_ID}/uniquedeps.json
-kubectl cp ${NAMESPACE}/${BIOC_POD}:/tmp/bioc_version runs/${RUN_ID}/bioc_version 2>/dev/null || echo "Warning: bioc_version file not found"
-kubectl cp ${NAMESPACE}/${BIOC_POD}:/tmp/r_version runs/${RUN_ID}/r_version 2>/dev/null || echo "Warning: r_version file not found"
+kubectl cp ${NAMESPACE}/${BIOC_POD}:/mnt/bioc_version runs/${RUN_ID}/bioc_version 2>/dev/null || echo "Warning: bioc_version file not found"
+kubectl cp ${NAMESPACE}/${BIOC_POD}:/mnt/r_version runs/${RUN_ID}/r_version 2>/dev/null || echo "Warning: r_version file not found"
 
 
 # Create configmap for Bioconductor version
