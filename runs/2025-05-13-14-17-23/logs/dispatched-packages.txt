@@ -619,3 +619,11 @@ ReUseData
 nondetects
 rexposome
 scde
+BioMVCClass
+KEGGgraph
+OncoSimulR
+TRONCO
+a4Classif
+metagenomeSeq
+netresponse
+paircompviz
