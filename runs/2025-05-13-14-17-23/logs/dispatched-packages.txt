@@ -575,3 +575,17 @@ updateObject
 basilisk.utils
 biocmake
 rebook
+AWFisher
+BioQC
+KCsmart
+PROPER
+RNAseqCovarImpute
+ROSeq
+Rvisdiff
+ScreenR
+basilisk
+compcodeR
+erccdashboard
+methylMnM
+ppcseq
+trio
