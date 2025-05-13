@@ -486,3 +486,13 @@ nethet
 rhdf5
 RLMM
 specL
+alevinQC
+BAGS
+CCPlotR
+DEqMS
+Director
+FGNet
+NTW
+Path2PPI
+RCy3
+XINA
