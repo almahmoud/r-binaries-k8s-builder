@@ -1,0 +1,58 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''ARRmNormalization'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R Under development (unstable)
+  (2025-03-08 r87910)
+Installing package(s) 'ARRmNormalization'
+also installing the dependency ‘ARRmData’
+
+trying URL 'https://bioconductor.org/packages/3.21/data/experiment/src/contrib/ARRmData_1.44.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/ARRmNormalization_1.48.0.tar.gz'
+* installing *source* package ‘ARRmData’ ...
+** this is package ‘ARRmData’ version ‘1.44.0’
+** using staged installation
+** data
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ARRmData’ as ‘ARRmData_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ARRmData)
+* installing *source* package ‘ARRmNormalization’ ...
+** this is package ‘ARRmNormalization’ version ‘1.48.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ARRmNormalization’ as ‘ARRmNormalization_1.48.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ARRmNormalization)
+
+The downloaded source packages are in
+	‘/tmp/RtmpMLEE4g/downloaded_packages’
+Old packages: 'cli', 'commonmark', 'curl', 'diffobj', 'docopt', 'fs', 'gert',
+  'httpuv', 'httr2', 'jsonlite', 'knitr', 'later', 'littler', 'mime', 'miniUI',
+  'pillar', 'pkgbuild', 'pkgdown', 'preprocessCore', 'ps', 'ragg', 'rlang',
+  'sass', 'stringi', 'systemfonts', 'textshaping', 'tinytex', 'utf8', 'xfun',
+  'xml2', 'zip', 'foreign', 'lattice', 'mgcv', 'nlme'
+
+real	0m12.241s
+user	0m9.948s
+sys	0m4.604s

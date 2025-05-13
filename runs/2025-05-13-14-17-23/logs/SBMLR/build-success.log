@@ -1,0 +1,398 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''SBMLR'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R Under development (unstable)
+  (2025-03-08 r87910)
+Installing package(s) 'SBMLR'
+also installing the dependencies ‘generics’, ‘BiocGenerics’, ‘graph’, ‘XML’, ‘deSolve’, ‘rsbml’
+
+trying URL 'https://cloud.r-project.org/src/contrib/generics_0.1.4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocGenerics_0.54.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/graph_1.86.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/XML_3.99-0.18.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/deSolve_1.40.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/rsbml_2.66.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/SBMLR_2.4.0.tar.gz'
+* installing *source* package ‘generics’ ...
+** this is package ‘generics’ version ‘0.1.4’
+** package ‘generics’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘generics’ as ‘generics_0.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (generics)
+* installing *source* package ‘XML’ ...
+** this is package ‘XML’ version ‘3.99-0.18’
+** package ‘XML’ successfully unpacked and MD5 sums checked
+** using staged installation
+checking for gcc... gcc -std=gnu2x
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether the compiler supports GNU C... yes
+checking whether gcc -std=gnu2x accepts -g... yes
+checking for gcc -std=gnu2x option to enable C11 features... none needed
+checking how to run the C preprocessor... gcc -std=gnu2x -E
+checking for sed... /usr/bin/sed
+checking for pkg-config... /usr/bin/pkg-config
+checking for xml2-config... /usr/bin/xml2-config
+USE_XML2 = yes
+SED_EXTENDED_ARG: -E
+Minor 9, Patch 14 for 2.9.14
+Located parser file -I/usr/include/libxml2/parser.h
+Checking for 1.8:  -I/usr/include/libxml2
+Using libxml2.*
+checking for gzopen in -lz... yes
+checking for xmlParseFile in -lxml2... yes
+checking for xmlHashSize in -lxml2... yes
+Using built-in xmlHashSize
+Checking DTD parsing (presence of externalSubset)...
+checking for xmlHashSize in -lxml2... (cached) yes
+Found xmlHashSize
+checking for xmlOutputBufferCreateBuffer in -lxml2... yes
+have xmlOutputBufferCreateBuffer()
+checking for xmlDocDumpFormatMemoryEnc in -lxml2... yes
+checking for libxml/xmlversion.h... yes
+Expat:  FALSE
+Checking for return type of xmlHashScan element routine.
+No return value for xmlHashScan
+xmlNs has a context field
+Checking for cetype_t enumeration
+Using recent version of R with cetype_t enumeration type for encoding
+checking for xmlsec1-config... no
+nodegc default 
+xml-debug default 
+Version has XML_WITH_ZLIB
+Version has xmlHasFeature()
+
+****************************************
+Configuration information:
+
+Libxml settings
+
+libxml include directory: -I/usr/include/libxml2
+libxml library directory: -lxml2 -lz  -lxml2
+libxml 2:                 -DLIBXML2=1
+
+Compilation flags:         -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1 
+Link flags:               -lxml2 -lz  -lxml2
+
+****************************************
+configure: creating ./config.status
+config.status: creating src/Makevars
+config.status: creating R/supports.R
+config.status: creating inst/scripts/RSXML.csh
+config.status: creating inst/scripts/RSXML.bsh
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c DocParse.c -o DocParse.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c EventParse.c -o EventParse.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ExpatParse.c -o ExpatParse.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c HTMLParse.c -o HTMLParse.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c NodeGC.c -o NodeGC.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RSDTD.c -o RSDTD.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RUtils.c -o RUtils.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rcatalog.c -o Rcatalog.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Utils.c -o Utils.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c XMLEventParse.c -o XMLEventParse.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c XMLHashTree.c -o XMLHashTree.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c XMLTree.c -o XMLTree.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fixNS.c -o fixNS.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c libxmlFeatures.c -o libxmlFeatures.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c schema.c -o schema.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c xmlsecurity.c -o xmlsecurity.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -DLIBXML -I/usr/include/libxml2 -DUSE_EXTERNAL_SUBSET=1 -DROOT_HAS_DTD_NODE=1 -DDUMP_WITH_ENCODING=1 -DUSE_XML_VERSION_H=1 -DXML_ELEMENT_ETYPE=1 -DXML_ATTRIBUTE_ATYPE=1 -DNO_XML_HASH_SCANNER_RETURN=1 -DLIBXML_NAMESPACE_HAS_CONTEXT=1 -DHAVE_R_CETYPE_T=1 -DHAVE_XML_WITH_ZLIB=1 -DHAVE_XML_HAS_FEATURE=1 -DUSE_R=1 -D_R_=1  -DHAVE_VALIDITY=1 -DXML_REF_COUNT_NODES=1  -I. -DLIBXML2=1  -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c xpath.c -o xpath.o
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o XML.so DocParse.o EventParse.o ExpatParse.o HTMLParse.o NodeGC.o RSDTD.o RUtils.o Rcatalog.o Utils.o XMLEventParse.o XMLHashTree.o XMLTree.o fixNS.o libxmlFeatures.o schema.o xmlsecurity.o xpath.o -lxml2 -lz -lxml2 -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-XML/00new/XML/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a generic function for ‘source’ from package ‘base’ in package ‘XML’
+in method for ‘xmlAttrsToDataFrame’ with signature ‘"AsIs"’: no definition for class “AsIs”
+in method for ‘readKeyValueDB’ with signature ‘"AsIs"’: no definition for class “AsIs”
+in method for ‘readSolrDoc’ with signature ‘"AsIs"’: no definition for class “AsIs”
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘XML’ as ‘XML_3.99-0.18_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (XML)
+* installing *source* package ‘deSolve’ ...
+** this is package ‘deSolve’ version ‘1.40’
+** package ‘deSolve’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c DLLutil.c -o DLLutil.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_deSolve.c -o R_init_deSolve.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c brent.c -o brent.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c call_daspk.c -o call_daspk.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c call_euler.c -o call_euler.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c call_iteration.c -o call_iteration.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c call_lsoda.c -o call_lsoda.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c call_radau.c -o call_radau.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c call_rk4.c -o call_rk4.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c call_rkAuto.c -o call_rkAuto.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c call_rkFixed.c -o call_rkFixed.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c call_rkImplicit.c -o call_rkImplicit.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c call_zvode.c -o call_zvode.o
+gfortran  -fpic  -g -O2  -c daux.f -o daux.o
+gfortran  -fpic  -g -O2  -c ddaspk.f -o ddaspk.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c deSolve_utils.c -o deSolve_utils.o
+gfortran  -fpic  -g -O2  -c dintdy2.f -o dintdy2.o
+gfortran  -fpic  -g -O2  -c dlinpk.f -o dlinpk.o
+gfortran  -fpic  -g -O2  -c dlsoder.f -o dlsoder.o
+gfortran  -fpic  -g -O2  -c dsparsk.f -o dsparsk.o
+gfortran  -fpic  -g -O2  -c dvode.f -o dvode.o
+gfortran  -fpic  -g -O2  -c errmsg.f -o errmsg.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ex_Aquaphy.c -o ex_Aquaphy.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ex_CCL4model.c -o ex_CCL4model.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ex_ChemicalDAE.c -o ex_ChemicalDAE.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ex_SCOC.c -o ex_SCOC.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c forcings.c -o forcings.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c lags.c -o lags.o
+gfortran  -fpic  -g -O2  -c opkda1.f -o opkda1.o
+gfortran  -fpic  -g -O2  -c opkdmain.f -o opkdmain.o
+gfortran  -fpic  -g -O2  -c radau5.f -o radau5.o
+gfortran  -fpic  -g -O2  -c radau5a.f -o radau5a.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rk_auto.c -o rk_auto.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rk_fixed.c -o rk_fixed.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rk_implicit.c -o rk_implicit.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rk_util.c -o rk_util.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rprintf.c -o rprintf.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c twoDmap.c -o twoDmap.o
+gfortran  -fpic  -g -O2  -c zvode.f -o zvode.o
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o deSolve.so DLLutil.o R_init_deSolve.o brent.o call_daspk.o call_euler.o call_iteration.o call_lsoda.o call_radau.o call_rk4.o call_rkAuto.o call_rkFixed.o call_rkImplicit.o call_zvode.o daux.o ddaspk.o deSolve_utils.o dintdy2.o dlinpk.o dlsoder.o dsparsk.o dvode.o errmsg.o ex_Aquaphy.o ex_CCL4model.o ex_ChemicalDAE.o ex_SCOC.o forcings.o lags.o opkda1.o opkdmain.o radau5.o radau5a.o rk_auto.o rk_fixed.o rk_implicit.o rk_util.o rprintf.o twoDmap.o zvode.o -lblas -lgfortran -lm -lquadmath -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-deSolve/00new/deSolve/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘matplot’ in package ‘deSolve’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘deSolve’ as ‘deSolve_1.40_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (deSolve)
+* installing *source* package ‘BiocGenerics’ ...
+** this is package ‘BiocGenerics’ version ‘0.54.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘aperm’ in package ‘BiocGenerics’
+Creating a new generic function for ‘append’ in package ‘BiocGenerics’
+Creating a new generic function for ‘as.data.frame’ in package ‘BiocGenerics’
+Creating a new generic function for ‘cbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘do.call’ in package ‘BiocGenerics’
+Creating a new generic function for ‘duplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘anyDuplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘eval’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Reduce’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Filter’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Find’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Map’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Position’ in package ‘BiocGenerics’
+Creating a new generic function for ‘get’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mget’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grep’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grepl’ in package ‘BiocGenerics’
+Creating a new generic function for ‘is.unsorted’ in package ‘BiocGenerics’
+Creating a new generic function for ‘lapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘match’ in package ‘BiocGenerics’
+Creating a new generic function for ‘order’ in package ‘BiocGenerics’
+Creating a new generic function for ‘paste’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rank’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rownames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘colnames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘saveRDS’ in package ‘BiocGenerics’
+Creating a new generic function for ‘table’ in package ‘BiocGenerics’
+Creating a new generic function for ‘tapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unique’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unsplit’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.min’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.max’ in package ‘BiocGenerics’
+Creating a new generic function for ‘IQR’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mad’ in package ‘BiocGenerics’
+Creating a new generic function for ‘var’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sd’ in package ‘BiocGenerics’
+Creating a new generic function for ‘xtabs’ in package ‘BiocGenerics’
+Creating a new generic function for ‘basename’ in package ‘BiocGenerics’
+Creating a new generic function for ‘dirname’ in package ‘BiocGenerics’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocGenerics’ as ‘BiocGenerics_0.54.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocGenerics)
+* installing *source* package ‘SBMLR’ ...
+** this is package ‘SBMLR’ version ‘2.4.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SBMLR’ as ‘SBMLR_2.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SBMLR)
+* installing *source* package ‘graph’ ...
+** this is package ‘graph’ version ‘1.86.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c graph.c -o graph.o
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o graph.so graph.o -L/usr/local/lib/R/lib -lR
+mv graph.so BioC_graph.so
+installing to /usr/local/lib/R/site-library/00LOCK-graph/00new/graph/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘graph’ as ‘graph_1.86.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (graph)
+* installing *source* package ‘rsbml’ ...
+** this is package ‘rsbml’ version ‘2.66.0’
+** using staged installation
+checking for pkg-config... /usr/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for LIBSBML... yes
+configure: === Begin local SOSLib build ===
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /usr/bin/mkdir -p
+checking for gawk... no
+checking for mawk... mawk
+checking whether make sets $(MAKE)... yes
+checking build system type... x86_64-unknown-linux-gnu
+checking host system type... x86_64-unknown-linux-gnu
+checking for C++ compiler default output file name... a.out
+checking whether the C++ compiler works... yes
+checking whether we are cross compiling... no
+checking for suffix of executables... 
+checking for suffix of object files... o
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ -std=gnu++17 accepts -g... yes
+checking for style of include used by make... GNU
+checking dependency style of g++ -std=gnu++17... gcc3
+checking for gcc... gcc -std=gnu2x
+checking whether we are using the GNU C compiler... yes
+checking whether gcc -std=gnu2x accepts -g... yes
+checking for gcc -std=gnu2x option to accept ISO C89... none needed
+checking dependency style of gcc -std=gnu2x... gcc3
+checking whether gcc -std=gnu2x accepts -fpic... yes
+checking how to run the C preprocessor... gcc -std=gnu2x -E
+checking for ranlib... ranlib
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether make sets $(MAKE)... (cached) yes
+checking for autoconf... /usr/bin/autoconf
+checking for aclocal... /usr/bin/aclocal
+checking for make... /usr/bin/make
+checking for ar... /usr/bin/ar
+checking for swig... swig
+checking for perl... /usr/bin/perl
+checking for pkg-config... /usr/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for SBML... yes
+checking for correct functioning of SBML... yes
+checking for SUNDIALS Library headers... checking for SUNDIALS Library... checking correct functioning of SUNDIALS... no:
+                   CFLAGS=-g -O2 -pg -Wno-unknown-pragmas -Wall -ansi -std=iso9899:1990 
+                   LDFLAGS=-L/usr/local/lib 
+                   LIBS= -lm -lstdc++
+configure: error: Can not link to SUNDIALS Library
+configure: === End local SOSLib build ===
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/include    -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c StringMap.c -o StringMap.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/include    -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c check.c -o check.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/include    -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c doc.c -o doc.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/include    -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c dom.c -o dom.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/include    -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c graph.c -o graph.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/include    -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/include    -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c io.c -o io.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/include    -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c layoutWrappers.cpp -o layoutWrappers.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/include    -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c mathml.c -o mathml.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/include    -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c simulate.c -o simulate.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o rsbml.so StringMap.o check.o doc.o dom.o graph.o init.o io.o layoutWrappers.o mathml.o simulate.o -lsbml -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-rsbml/00new/rsbml/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rsbml’ as ‘rsbml_2.66.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rsbml)
+
+The downloaded source packages are in
+	‘/tmp/RtmpEnxiv6/downloaded_packages’
+Old packages: 'cli', 'commonmark', 'curl', 'diffobj', 'docopt', 'fs', 'gert',
+  'httpuv', 'httr2', 'jsonlite', 'knitr', 'later', 'littler', 'mime', 'miniUI',
+  'pillar', 'pkgbuild', 'pkgdown', 'preprocessCore', 'ps', 'ragg', 'rlang',
+  'sass', 'stringi', 'systemfonts', 'textshaping', 'tinytex', 'utf8', 'xfun',
+  'xml2', 'zip', 'foreign', 'lattice', 'mgcv', 'nlme'
+
+real	1m4.974s
+user	0m55.162s
+sys	0m11.922s
