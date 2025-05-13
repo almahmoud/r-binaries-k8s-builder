@@ -688,3 +688,6 @@ geNetClassifier
 Oscope
 multiClust
 synlet
+cytolib
+diggit
+hyperdraw

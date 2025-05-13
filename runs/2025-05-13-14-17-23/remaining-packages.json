@@ -634,8 +634,7 @@
     "GenomicRanges"
   ],
   "BiGGR": [
-    "hyperdraw",
-    "hypergraph"
+    "hyperdraw"
   ],
   "BiSeq": [
     "GenomicRanges",
@@ -897,7 +896,6 @@
     "SummarizedExperiment",
     "scater",
     "cytolib",
-    "RProtoBufLib",
     "scuttle",
     "DelayedArray",
     "beachmat",
@@ -1144,8 +1142,7 @@
     "flowClust",
     "flowMeans",
     "flowMerge",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "COTAN": [
     "BiocSingular",
@@ -1762,8 +1759,7 @@
   ],
   "CytoDx": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "CytoGLMM": [],
   "CytoMDS": [
@@ -1773,7 +1769,6 @@
     "PeacoQC",
     "flowAI",
     "cytolib",
-    "RProtoBufLib",
     "ncdfFlow",
     "flowWorkspace",
     "DelayedArray"
@@ -1784,7 +1779,6 @@
     "flowWorkspace",
     "openCyto",
     "ggcyto",
-    "RProtoBufLib",
     "ncdfFlow",
     "DelayedArray",
     "flowViz",
@@ -1796,7 +1790,6 @@
     "PeacoQC",
     "flowAI",
     "cytolib",
-    "RProtoBufLib",
     "ncdfFlow",
     "flowWorkspace",
     "DelayedArray"
@@ -1808,7 +1801,6 @@
     "PeacoQC",
     "flowAI",
     "cytolib",
-    "RProtoBufLib",
     "ncdfFlow",
     "flowWorkspace",
     "DelayedArray"
@@ -2734,8 +2726,7 @@
   "FlowSOM": [
     "ConsensusClusterPlus",
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "FuseSOM": [
     "SummarizedExperiment",
@@ -3063,7 +3054,6 @@
     "flowCore",
     "flowFP",
     "cytolib",
-    "RProtoBufLib",
     "flowViz"
   ],
   "GeDi": [
@@ -3135,7 +3125,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "GeneNetworkBuilder": [],
   "GeneRegionScan": [
     "Biostrings",
     "affxparser"
@@ -3446,8 +3435,7 @@
   ],
   "Harshlight": [
     "altcdfenvs",
-    "Biostrings",
-    "hypergraph"
+    "Biostrings"
   ],
   "HelloRanges": [
     "GenomicRanges",
@@ -3980,8 +3968,7 @@
   ],
   "MAPFX": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "MAST": [
     "SingleCellExperiment",
@@ -4470,7 +4457,6 @@
     "flowCore",
     "FlowSOM",
     "cytolib",
-    "RProtoBufLib",
     "ConsensusClusterPlus"
   ],
   "MetaNeighbor": [
@@ -5148,7 +5134,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "Oscope": [],
   "OutSplice": [
     "AnnotationDbi",
     "GenomicRanges",
@@ -5383,7 +5368,6 @@
     "flowCore",
     "flowWorkspace",
     "cytolib",
-    "RProtoBufLib",
     "ncdfFlow",
     "DelayedArray"
   ],
@@ -5438,7 +5422,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "PoDCall": [],
   "PolySTest": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -5938,7 +5921,6 @@
     "phyloseq",
     "Biostrings"
   ],
-  "RProtoBufLib": [],
   "RRHO": [],
   "RSVSim": [
     "Biostrings",
@@ -5969,14 +5951,12 @@
     "GenomicAlignments"
   ],
   "RTN": [
-    "viper",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray"
   ],
   "RTNduals": [
     "RTN",
-    "viper",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray"
@@ -5984,7 +5964,6 @@
   "RTNsurvival": [
     "RTN",
     "RTNduals",
-    "viper",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray"
@@ -6700,8 +6679,7 @@
   ],
   "Sconify": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "SemDist": [
     "AnnotationDbi",
@@ -7061,7 +7039,6 @@
     "FlowSOM",
     "treeio",
     "cytolib",
-    "RProtoBufLib",
     "ConsensusClusterPlus"
   ],
   "Streamer": [],
@@ -7914,7 +7891,6 @@
     "ScaledMatrix"
   ],
   "alabaster": [
-    "alabaster.base",
     "alabaster.matrix",
     "alabaster.ranges",
     "alabaster.se",
@@ -7943,20 +7919,16 @@
     "KEGGREST",
     "GenomicAlignments"
   ],
-  "alabaster.base": [],
   "alabaster.bumpy": [
-    "BumpyMatrix",
-    "alabaster.base"
+    "BumpyMatrix"
   ],
   "alabaster.files": [
-    "alabaster.base",
     "Rsamtools",
     "GenomicRanges",
     "Biostrings"
   ],
   "alabaster.mae": [
     "MultiAssayExperiment",
-    "alabaster.base",
     "alabaster.se",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -7967,18 +7939,15 @@
     "h5mread"
   ],
   "alabaster.matrix": [
-    "alabaster.base",
     "DelayedArray",
     "HDF5Array",
     "h5mread"
   ],
   "alabaster.ranges": [
-    "GenomicRanges",
-    "alabaster.base"
+    "GenomicRanges"
   ],
   "alabaster.sce": [
     "SingleCellExperiment",
-    "alabaster.base",
     "alabaster.se",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -7990,7 +7959,6 @@
   ],
   "alabaster.se": [
     "SummarizedExperiment",
-    "alabaster.base",
     "alabaster.ranges",
     "alabaster.matrix",
     "GenomicRanges",
@@ -8000,7 +7968,6 @@
   ],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
-    "alabaster.base",
     "alabaster.sce",
     "alabaster.spatial",
     "RBioFormats",
@@ -8021,7 +7988,6 @@
   ],
   "alabaster.spatial": [
     "SpatialExperiment",
-    "alabaster.base",
     "alabaster.sce",
     "SingleCellExperiment",
     "alabaster.se",
@@ -8034,11 +8000,9 @@
     "h5mread"
   ],
   "alabaster.string": [
-    "Biostrings",
-    "alabaster.base"
+    "Biostrings"
   ],
   "alabaster.vcf": [
-    "alabaster.base",
     "VariantAnnotation",
     "alabaster.se",
     "alabaster.string",
@@ -8059,8 +8023,7 @@
     "h5mread"
   ],
   "altcdfenvs": [
-    "Biostrings",
-    "hypergraph"
+    "Biostrings"
   ],
   "amplican": [
     "Biostrings",
@@ -8891,7 +8854,6 @@
     "GenomicRanges",
     "DelayedArray",
     "cytolib",
-    "RProtoBufLib",
     "ConsensusClusterPlus"
   ],
   "cfDNAPro": [
@@ -8992,7 +8954,6 @@
     "SingleCellExperiment",
     "chevreulProcess",
     "chevreulPlot",
-    "alabaster.base",
     "EnhancedVolcano",
     "wiggleplotr",
     "scater",
@@ -9250,7 +9211,6 @@
     "flowCore",
     "SummarizedExperiment",
     "cytolib",
-    "RProtoBufLib",
     "GenomicRanges",
     "DelayedArray"
   ],
@@ -9758,7 +9718,6 @@
     "flowDensity",
     "flowClust",
     "cytolib",
-    "RProtoBufLib",
     "flowViz"
   ],
   "cydar": [
@@ -9766,7 +9725,6 @@
     "SummarizedExperiment",
     "flowCore",
     "cytolib",
-    "RProtoBufLib",
     "GenomicRanges",
     "DelayedArray"
   ],
@@ -9785,8 +9743,7 @@
   ],
   "cytoMEM": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "cytofQC": [
     "CATALYST",
@@ -9797,7 +9754,6 @@
     "FlowSOM",
     "scater",
     "cytolib",
-    "RProtoBufLib",
     "GenomicRanges",
     "DelayedArray",
     "scuttle",
@@ -9805,9 +9761,7 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "cytolib": [
-    "RProtoBufLib"
-  ],
+  "cytolib": [],
   "cytomapper": [
     "SingleCellExperiment",
     "SpatialExperiment",
@@ -9900,7 +9854,6 @@
     "flowCore",
     "flowDensity",
     "cytolib",
-    "RProtoBufLib",
     "flowViz"
   ],
   "dearseq": [],
@@ -10112,14 +10065,11 @@
     "FlowSOM",
     "SummarizedExperiment",
     "cytolib",
-    "RProtoBufLib",
     "ConsensusClusterPlus",
     "GenomicRanges",
     "DelayedArray"
   ],
-  "diggit": [
-    "viper"
-  ],
+  "diggit": [],
   "dinoR": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -10439,7 +10389,6 @@
     "HDF5Array",
     "alabaster.matrix",
     "BiocSingular",
-    "alabaster.base",
     "KEGGREST",
     "ScaledMatrix",
     "rtracklayer",
@@ -10771,94 +10720,77 @@
   ],
   "flowAI": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "flowBeads": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "flowBin": [
     "flowCore",
     "flowFP",
     "cytolib",
-    "RProtoBufLib",
     "flowViz"
   ],
   "flowCHIC": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "flowClean": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "flowClust": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "flowCore": [
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "flowCut": [
     "flowCore",
     "flowDensity",
     "cytolib",
-    "RProtoBufLib",
     "flowViz"
   ],
   "flowDensity": [
     "flowCore",
     "flowViz",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "flowFP": [
     "flowCore",
     "flowViz",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "flowGate": [
     "flowWorkspace",
     "ggcyto",
     "flowCore",
     "cytolib",
-    "RProtoBufLib",
     "ncdfFlow",
     "DelayedArray"
   ],
   "flowMatch": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "flowMeans": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "flowMerge": [
     "flowClust",
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "flowPloidy": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
-  "flowPlots": [],
   "flowSpecs": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "flowStats": [
     "flowCore",
@@ -10866,39 +10798,33 @@
     "ncdfFlow",
     "flowViz",
     "cytolib",
-    "RProtoBufLib",
     "DelayedArray"
   ],
   "flowTime": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "flowTrans": [
     "flowCore",
     "flowViz",
     "flowClust",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "flowVS": [
     "flowCore",
     "flowViz",
     "flowStats",
     "cytolib",
-    "RProtoBufLib",
     "flowWorkspace",
     "ncdfFlow",
     "DelayedArray"
   ],
   "flowViz": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "flowWorkspace": [
     "cytolib",
-    "RProtoBufLib",
     "flowCore",
     "ncdfFlow",
     "DelayedArray"
@@ -11201,7 +11127,6 @@
     "ncdfFlow",
     "flowWorkspace",
     "cytolib",
-    "RProtoBufLib",
     "DelayedArray"
   ],
   "ggmanh": [
@@ -11528,10 +11453,7 @@
     "DelayedArray"
   ],
   "hypeR": [],
-  "hyperdraw": [
-    "hypergraph"
-  ],
-  "hypergraph": [],
+  "hyperdraw": [],
   "iCNV": [
     "CODEX",
     "Rsamtools",
@@ -11785,8 +11707,7 @@
   ],
   "immunoClust": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "immunogenViewer": [
     "UniProt.ws",
@@ -11803,8 +11724,7 @@
   ],
   "infinityFlow": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "intansv": [
     "ggbio",
@@ -11986,7 +11906,6 @@
     "h5mread",
     "GenomicRanges"
   ],
-  "levi": [],
   "lfa": [],
   "limmaGUI": [],
   "limpa": [],
@@ -13230,8 +13149,7 @@
   ],
   "ncdfFlow": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "nearBynding": [
     "plyranges",
@@ -13296,7 +13214,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "normalize450K": [],
   "normr": [
     "GenomicRanges",
     "bamsignals",
@@ -13464,7 +13381,6 @@
     "flowWorkspace",
     "flowClust",
     "cytolib",
-    "RProtoBufLib",
     "DelayedArray"
   ],
   "openPrimeR": [
@@ -13501,8 +13417,7 @@
   "optimalFlow": [
     "flowMeans",
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "orthogene": [
     "DelayedArray",
@@ -13736,7 +13651,6 @@
     "GenomicRanges",
     "ScaledMatrix"
   ],
-  "pengls": [],
   "pepStat": [
     "GenomicRanges"
   ],
@@ -14189,7 +14103,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "qusage": [],
   "r3Cseq": [
     "GenomicRanges",
     "Rsamtools",
@@ -14739,7 +14652,6 @@
   ],
   "scDDboost": [
     "SingleCellExperiment",
-    "Oscope",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray"
@@ -14748,7 +14660,6 @@
     "SingleCellExperiment",
     "flowCore",
     "cytolib",
-    "RProtoBufLib",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray"
@@ -14870,7 +14781,6 @@
     "bluster",
     "GenomicRanges"
   ],
-  "scMitoMut": [],
   "scMultiSim": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -15069,7 +14979,6 @@
     "sangerseqR",
     "flowCore",
     "cytolib",
-    "RProtoBufLib",
     "pwalign"
   ],
   "scmap": [
@@ -15547,7 +15456,6 @@
     "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
-    "alabaster.base",
     "alabaster.matrix",
     "alabaster.se",
     "GenomicRanges",
@@ -15821,7 +15729,6 @@
     "GenomicRanges",
     "DelayedArray",
     "cytolib",
-    "RProtoBufLib",
     "scuttle",
     "beachmat",
     "BiocSingular",
@@ -16062,7 +15969,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "synlet": [],
   "syntenet": [
     "GenomicRanges",
     "Biostrings",
@@ -16216,8 +16122,7 @@
   ],
   "tidyFlowCore": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "tidySingleCellExperiment": [
     "SingleCellExperiment",
@@ -16261,8 +16166,7 @@
   ],
   "tidytof": [
     "flowCore",
-    "cytolib",
-    "RProtoBufLib"
+    "cytolib"
   ],
   "tigre": [
     "AnnotationDbi",
@@ -16427,7 +16331,6 @@
     "SingleCellExperiment",
     "Biostrings",
     "cytolib",
-    "RProtoBufLib",
     "ConsensusClusterPlus"
   ],
   "treeio": [],
@@ -16442,7 +16345,6 @@
     "GenomicRanges",
     "DelayedArray",
     "cytolib",
-    "RProtoBufLib",
     "ConsensusClusterPlus"
   ],
   "tricycle": [
@@ -16544,7 +16446,6 @@
     "ProtGenerics",
     "DelayedArray"
   ],
-  "unifiedWMWqPCR": [],
   "universalmotif": [
     "Biostrings"
   ],
@@ -16567,7 +16468,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "viper": [],
   "visiumStitched": [
     "SpatialExperiment",
     "DropletUtils",
@@ -16643,7 +16543,6 @@
   "vulcan": [
     "ChIPpeakAnno",
     "GenomicRanges",
-    "viper",
     "DiffBind",
     "csaw",
     "DESeq2",
