@@ -614,3 +614,8 @@ plier
 pvac
 qpcrNorm
 vsn
+DeconRNASeq
+ReUseData
+nondetects
+rexposome
+scde
