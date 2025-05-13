@@ -650,3 +650,17 @@ ribor
 SIMD
 synapsis
 variancePartition
+biodbHmdb
+biodbNcbi
+biodbNci
+biodbUniprot
+geneRxCluster
+MANOR
+marray
+MeasurementError.cor
+rexposome
+rols
+RUVnormalize
+ssrch
+Streamer
+zlibbioc
