@@ -565,3 +565,11 @@ hyperdraw
 metabCombiner
 multiClust
 vbmp
+BiGGR
+cola
+DFP
+diggit
+DNAcopy
+InteractiveComplexHeatmap
+subSeq
+timeOmics

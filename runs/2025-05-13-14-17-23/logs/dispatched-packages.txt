@@ -694,3 +694,5 @@ hyperdraw
 islify
 progeny
 BiGGR
+CNAnorm
+CRImage

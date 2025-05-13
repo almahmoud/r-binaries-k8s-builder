@@ -4,7 +4,6 @@
     "GenomicRanges",
     "CGHbase",
     "CGHcall",
-    "DNAcopy",
     "Rsamtools",
     "marray",
     "Biostrings"
@@ -37,7 +36,6 @@
     "DelayedArray"
   ],
   "ADaCGH2": [
-    "DNAcopy",
     "tilingArray",
     "genefilter",
     "AnnotationDbi",
@@ -289,7 +287,6 @@
     "GenomicRanges",
     "Rsamtools",
     "bamsignals",
-    "DNAcopy",
     "Biostrings",
     "GenomicAlignments",
     "zlibbioc",
@@ -633,7 +630,6 @@
   "BiFET": [
     "GenomicRanges"
   ],
-  "BiGGR": [],
   "BiSeq": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -958,15 +954,13 @@
     "marray"
   ],
   "CGHcall": [
-    "DNAcopy",
     "CGHbase",
     "marray"
   ],
   "CGHnormaliter": [
     "CGHcall",
     "CGHbase",
-    "marray",
-    "DNAcopy"
+    "marray"
   ],
   "CGHregions": [
     "CGHbase",
@@ -986,15 +980,12 @@
   ],
   "CIMICE": [
     "maftools",
-    "DNAcopy",
     "zlibbioc"
   ],
   "CINdex": [
     "GenomicRanges"
   ],
-  "CNAnorm": [
-    "DNAcopy"
-  ],
+  "CNAnorm": [],
   "CNEr": [
     "Biostrings",
     "pwalign",
@@ -1096,7 +1087,6 @@
   ],
   "CNVrd2": [
     "VariantAnnotation",
-    "DNAcopy",
     "Rsamtools",
     "GenomicRanges",
     "Biostrings",
@@ -1157,7 +1147,6 @@
     "DelayedArray"
   ],
   "CRISPRball": [
-    "InteractiveComplexHeatmap",
     "dittoSeq",
     "PCAtools",
     "SummarizedExperiment",
@@ -1182,9 +1171,7 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "CRImage": [
-    "DNAcopy"
-  ],
+  "CRImage": [],
   "CSAR": [
     "GenomicRanges"
   ],
@@ -1239,7 +1226,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "DNAcopy",
     "zlibbioc",
     "Biostrings",
     "KEGGREST",
@@ -1368,7 +1354,6 @@
     "DMRcate",
     "globaltest",
     "sva",
-    "DNAcopy",
     "marray",
     "wateRmelon",
     "goseq",
@@ -1950,7 +1935,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "DFP": [],
   "DMCFB": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -2009,7 +1993,6 @@
     "annotate",
     "h5mread"
   ],
-  "DNAcopy": [],
   "DNAfusion": [
     "bamsignals",
     "GenomicRanges",
@@ -2826,7 +2809,6 @@
     "SeqArray",
     "SeqVarTools",
     "SNPRelate",
-    "DNAcopy",
     "Biostrings"
   ],
   "GEOexplorer": [
@@ -2865,7 +2847,6 @@
     "RTCGAToolbox",
     "SummarizedExperiment",
     "TCGAutils",
-    "DNAcopy",
     "zlibbioc",
     "DelayedArray",
     "AnnotationDbi",
@@ -3036,8 +3017,7 @@
     "ProtGenerics"
   ],
   "GWASTools": [
-    "gdsfmt",
-    "DNAcopy"
+    "gdsfmt"
   ],
   "GWENA": [
     "SummarizedExperiment",
@@ -3103,7 +3083,6 @@
     "CGHbase",
     "GenomicRanges",
     "marray",
-    "DNAcopy",
     "Rsamtools",
     "Biostrings"
   ],
@@ -3741,7 +3720,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "InteractiveComplexHeatmap": [],
   "IsoBayes": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -4001,7 +3979,6 @@
     "GenomicAlignments",
     "GenomicRanges",
     "Biostrings",
-    "DNAcopy",
     "Rsamtools",
     "SummarizedExperiment",
     "DelayedArray"
@@ -4078,7 +4055,6 @@
     "Rsamtools",
     "GenomicRanges",
     "Biostrings",
-    "DNAcopy",
     "biomaRt",
     "rtracklayer",
     "AnnotationDbi",
@@ -4632,7 +4608,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "oligoClasses",
-    "DNAcopy",
     "Biostrings",
     "DelayedArray",
     "crlmm",
@@ -5198,7 +5173,6 @@
     "AnnotationDbi",
     "annotate",
     "KEGGREST",
-    "DNAcopy",
     "Biostrings"
   ],
   "PICB": [
@@ -5478,7 +5452,6 @@
     "Biostrings"
   ],
   "PureCN": [
-    "DNAcopy",
     "VariantAnnotation",
     "GenomicRanges",
     "SummarizedExperiment",
@@ -5515,7 +5488,6 @@
   "QDNAseq": [
     "CGHbase",
     "CGHcall",
-    "DNAcopy",
     "GenomicRanges",
     "Rsamtools",
     "marray",
@@ -5622,7 +5594,6 @@
     "SeqArray",
     "SeqVarTools",
     "SummarizedExperiment",
-    "DNAcopy",
     "GenomicAlignments",
     "DelayedArray"
   ],
@@ -6140,7 +6111,6 @@
     "GenomicAlignments",
     "rtracklayer",
     "BSgenome",
-    "DNAcopy",
     "SummarizedExperiment",
     "DelayedArray"
   ],
@@ -6435,7 +6405,6 @@
   "SCOPE": [
     "GenomicRanges",
     "Rsamtools",
-    "DNAcopy",
     "BSgenome",
     "Biostrings",
     "rtracklayer",
@@ -7291,8 +7260,7 @@
   "TIN": [
     "AnnotationDbi",
     "KEGGREST",
-    "Biostrings",
-    "DNAcopy"
+    "Biostrings"
   ],
   "TMSig": [
     "GSEABase",
@@ -8516,7 +8484,6 @@
     "GenomicFeatures",
     "CGHbase",
     "CGHcall",
-    "DNAcopy",
     "GenomicAlignments",
     "KEGGREST",
     "regioneR",
@@ -8870,14 +8837,12 @@
     "GenomicRanges",
     "QDNAseq",
     "Rsamtools",
-    "DNAcopy",
     "CGHbase",
     "CGHcall",
     "Biostrings",
     "marray"
   ],
   "cghMCR": [
-    "DNAcopy",
     "CNTools",
     "genefilter",
     "AnnotationDbi",
@@ -9209,7 +9174,6 @@
     "oligoClasses",
     "affxparser",
     "oligo",
-    "DNAcopy",
     "Biostrings",
     "GenomicRanges",
     "SummarizedExperiment",
@@ -9252,7 +9216,6 @@
     "Biostrings",
     "treeio"
   ],
-  "cola": [],
   "comapr": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -9388,7 +9351,6 @@
   ],
   "conumee": [
     "minfi",
-    "DNAcopy",
     "rtracklayer",
     "GenomicRanges",
     "SummarizedExperiment",
@@ -10058,7 +10020,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "diggit": [],
   "dinoR": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -10928,7 +10889,6 @@
     "AnnotationDbi",
     "GenomicRanges",
     "ggtree",
-    "InteractiveComplexHeatmap",
     "shiny.gosling",
     "KEGGREST",
     "DOSE",
@@ -11331,7 +11291,6 @@
     "SummarizedExperiment",
     "SNPRelate",
     "gdsfmt",
-    "DNAcopy",
     "GenomicRanges",
     "DelayedArray",
     "Rsamtools",
@@ -11811,7 +11770,6 @@
     "Biostrings",
     "rtracklayer",
     "Rsamtools",
-    "DNAcopy",
     "zlibbioc",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -11999,7 +11957,6 @@
     "oligoClasses",
     "GWASTools",
     "gdsfmt",
-    "DNAcopy",
     "GenomicRanges",
     "SummarizedExperiment",
     "Biostrings",
@@ -12050,7 +12007,6 @@
     "DelayedArray"
   ],
   "maftools": [
-    "DNAcopy",
     "zlibbioc"
   ],
   "magpie": [
@@ -13067,7 +13023,6 @@
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
-    "DNAcopy",
     "zlibbioc",
     "DelayedArray",
     "KEGGREST",
@@ -13824,7 +13779,6 @@
   "preciseTAD": [
     "GenomicRanges",
     "rCGH",
-    "DNAcopy",
     "GenomicFeatures",
     "AnnotationDbi",
     "KEGGREST",
@@ -14094,7 +14048,6 @@
     "Biostrings"
   ],
   "rCGH": [
-    "DNAcopy",
     "GenomicFeatures",
     "GenomicRanges",
     "AnnotationDbi",
@@ -15858,7 +15811,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "subSeq": [],
   "supersigs": [
     "Biostrings",
     "SummarizedExperiment",
@@ -16159,7 +16111,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "timeOmics": [],
   "timecourse": [
     "marray"
   ],
