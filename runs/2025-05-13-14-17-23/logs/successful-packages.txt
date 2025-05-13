@@ -396,3 +396,11 @@ QUBIC
 Rnits
 Rtreemix
 vsn
+DEGseq
+frmaTools
+magrene
+MBCB
+ndexr
+netresponse
+REBET
+ReUseData
