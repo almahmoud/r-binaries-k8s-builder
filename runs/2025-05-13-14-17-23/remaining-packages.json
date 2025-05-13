@@ -40,7 +40,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "BiocCheck",
     "AnnotationDbi",
     "OrganismDbi",
     "AnnotationForge",
@@ -233,7 +232,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "BiocCheck",
     "AnnotationDbi",
     "OrganismDbi",
     "AnnotationForge",
@@ -517,7 +515,6 @@
     "beachmat",
     "ScaledMatrix"
   ],
-  "BiocCheck": [],
   "BiocHubsShiny": [
     "AnnotationHub",
     "ExperimentHub",
@@ -727,8 +724,6 @@
     "SummarizedExperiment",
     "Rsamtools"
   ],
-  "CNORdt": [],
-  "CNORfeeder": [],
   "CNORfuzzy": [],
   "CNORode": [],
   "CNTools": [
@@ -744,7 +739,6 @@
   "CNVRanger": [
     "RaggedExperiment",
     "GDSArray",
-    "SNPRelate",
     "SummarizedExperiment",
     "SeqArray"
   ],
@@ -1599,11 +1593,9 @@
   ],
   "DelayedDataFrame": [],
   "DelayedMatrixStats": [],
-  "DelayedRandomArray": [],
   "DelayedTensor": [
     "HDF5Array",
     "BiocSingular",
-    "DelayedRandomArray",
     "ScaledMatrix",
     "beachmat"
   ],
@@ -1909,7 +1901,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "BiocCheck",
     "AnnotationDbi",
     "OrganismDbi",
     "AnnotationForge",
@@ -2074,14 +2065,12 @@
     "ggtree"
   ],
   "GDSArray": [
-    "SNPRelate",
     "SeqArray"
   ],
   "GENESIS": [
     "GWASTools",
     "SeqArray",
-    "SeqVarTools",
-    "SNPRelate"
+    "SeqVarTools"
   ],
   "GEOexplorer": [
     "sva",
@@ -3607,7 +3596,6 @@
     "GenomicAlignments"
   ],
   "NanoStringNCTools": [],
-  "NanoTube": [],
   "Nebulosa": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -4091,7 +4079,6 @@
   ],
   "R4RNA": [],
   "RAIDS": [
-    "SNPRelate",
     "GENESIS",
     "Rsamtools",
     "ensembldb",
@@ -4793,7 +4780,6 @@
     "biomaRt",
     "SummarizedExperiment"
   ],
-  "SNPRelate": [],
   "SNPhood": [
     "Rsamtools",
     "DESeq2",
@@ -4907,7 +4893,6 @@
   ],
   "SeqSQC": [
     "ExperimentHub",
-    "SNPRelate",
     "AnnotationHub",
     "AnnotationDbi",
     "KEGGREST"
@@ -5566,7 +5551,6 @@
     "SummarizedExperiment",
     "GDSArray",
     "DelayedDataFrame",
-    "SNPRelate",
     "SeqArray"
   ],
   "VariantFiltering": [
@@ -7506,7 +7490,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "dyebias": [],
   "easier": [
     "quantiseqr",
     "DESeq2",
@@ -8061,9 +8044,7 @@
     "SummarizedExperiment",
     "piano"
   ],
-  "gDRstyle": [
-    "BiocCheck"
-  ],
+  "gDRstyle": [],
   "gDRutils": [
     "BumpyMatrix",
     "MultiAssayExperiment",
@@ -8370,7 +8351,6 @@
     "GWASTools",
     "VariantAnnotation",
     "SummarizedExperiment",
-    "SNPRelate",
     "Rsamtools",
     "AnnotationDbi",
     "rtracklayer",
@@ -9045,7 +9025,6 @@
     "SummarizedExperiment",
     "AnnotationHub",
     "annotatr",
-    "BiocCheck",
     "BSgenome",
     "ExperimentHub",
     "HDF5Array",
@@ -9173,7 +9152,6 @@
     "KEGGREST",
     "Rsamtools",
     "rtracklayer",
-    "BiocCheck",
     "OrganismDbi",
     "AnnotationForge",
     "txdbmaker",

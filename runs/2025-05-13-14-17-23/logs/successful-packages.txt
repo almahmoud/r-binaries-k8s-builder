@@ -694,3 +694,10 @@ MSstats
 PIPETS
 Qtlizer
 wppi
+BiocCheck
+CNORdt
+CNORfeeder
+DelayedRandomArray
+dyebias
+NanoTube
+SNPRelate
