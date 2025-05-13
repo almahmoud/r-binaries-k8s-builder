@@ -3263,7 +3263,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "EMDomics": [],
   "ENmix": [
     "SummarizedExperiment",
     "geneplotter",
@@ -3952,7 +3951,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "GPA": [],
   "GRaNIE": [
     "GenomicRanges",
     "ComplexHeatmap",
@@ -4468,7 +4466,6 @@
     "GenomeInfoDb"
   ],
   "GeoTcgaData": [
-    "cqn",
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -5105,10 +5102,7 @@
     "SparseArray",
     "XVector"
   ],
-  "IsoCorrectoR": [],
-  "IsoCorrectoRGUI": [
-    "IsoCorrectoR"
-  ],
+  "IsoCorrectoRGUI": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
     "satuRn",
@@ -5154,9 +5148,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "KinSwingR": [],
   "KnowSeq": [
-    "cqn",
     "sva",
     "genefilter",
     "AnnotationDbi",
@@ -5716,8 +5708,7 @@
     "SparseArray"
   ],
   "MMUPHin": [
-    "Maaslin2",
-    "metagenomeSeq"
+    "Maaslin2"
   ],
   "MODA": [
     "AnnotationDbi",
@@ -5974,16 +5965,13 @@
     "XVector",
     "SparseArray"
   ],
-  "Maaslin2": [
-    "metagenomeSeq"
-  ],
+  "Maaslin2": [],
   "Macarron": [
     "SummarizedExperiment",
     "DelayedArray",
     "Maaslin2",
     "S4Arrays",
     "SparseArray",
-    "metagenomeSeq",
     "GenomicRanges",
     "GenomeInfoDb",
     "AnnotationDbi",
@@ -7325,7 +7313,6 @@
     "SparseArray",
     "XVector"
   ],
-  "Pedixplorer": [],
   "PepSetTest": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -10015,7 +10002,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "TSAR": [],
   "TSCAN": [
     "SingleCellExperiment",
     "TrajectoryUtils",
@@ -11199,7 +11185,6 @@
     "SparseArray",
     "XVector"
   ],
-  "bacon": [],
   "ballgown": [
     "GenomicRanges",
     "sva",
@@ -11268,7 +11253,6 @@
     "XVector",
     "Biostrings"
   ],
-  "banocc": [],
   "barbieQ": [
     "ComplexHeatmap",
     "SummarizedExperiment",
@@ -11405,7 +11389,6 @@
     "dearseq",
     "Maaslin2",
     "maaslin3",
-    "metagenomeSeq",
     "GenomicRanges",
     "SingleCellExperiment",
     "Biostrings",
@@ -11759,7 +11742,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "brendaDb": [],
   "broadSeq": [
     "SummarizedExperiment",
     "DELocal",
@@ -12908,7 +12890,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "cqn": [],
   "crisprBase": [
     "Biostrings",
     "GenomicRanges",
@@ -13382,7 +13363,6 @@
     "treeio",
     "ScaledMatrix"
   ],
-  "dcGSA": [],
   "dcanr": [],
   "dce": [
     "epiNEM",
@@ -16269,7 +16249,6 @@
     "XVector"
   ],
   "logicFS": [],
-  "lpNet": [],
   "lumi": [
     "methylumi",
     "GenomicFeatures",
@@ -16511,9 +16490,7 @@
   "matter": [
     "ProtGenerics"
   ],
-  "mbQTL": [
-    "metagenomeSeq"
-  ],
+  "mbQTL": [],
   "mbkmeans": [
     "DelayedArray",
     "SingleCellExperiment",
@@ -16619,7 +16596,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "metagenomeSeq": [],
   "metapone": [],
   "metaseqR2": [
     "DESeq2",
@@ -17147,7 +17123,6 @@
   ],
   "microbiomeDASim": [
     "phyloseq",
-    "metagenomeSeq",
     "biomformat",
     "Biostrings",
     "rhdf5",
@@ -17155,7 +17130,6 @@
     "GenomeInfoDb"
   ],
   "microbiomeExplorer": [
-    "metagenomeSeq",
     "DESeq2",
     "biomformat",
     "rhdf5",
@@ -22275,9 +22249,7 @@
     "GenomeInfoDb"
   ],
   "ttgsea": [],
-  "tweeDEseq": [
-    "cqn"
-  ],
+  "tweeDEseq": [],
   "twilight": [],
   "txcutr": [
     "AnnotationDbi",

@@ -420,3 +420,16 @@ sights
 splots
 TRONCO
 xmapbridge
+bacon
+banocc
+brendaDb
+cqn
+dcGSA
+EMDomics
+GPA
+IsoCorrectoR
+KinSwingR
+lpNet
+metagenomeSeq
+Pedixplorer
+TSAR

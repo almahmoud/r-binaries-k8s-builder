@@ -648,3 +648,7 @@ dStruct
 derfinderHelper
 lpNet
 nucleoSim
+IsoCorrectoRGUI
+Maaslin2
+mbQTL
+tweeDEseq
