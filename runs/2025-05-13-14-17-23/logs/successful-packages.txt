@@ -712,3 +712,8 @@ Rarr
 roastgsa
 SELEX
 SynMut
+bcSeq
+BiocPkgTools
+gDRstyle
+rebook
+ResidualMatrix
