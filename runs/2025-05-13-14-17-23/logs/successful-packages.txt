@@ -462,3 +462,15 @@ netprioR
 nuCpos
 rain
 widgetTools
+IHW
+LedPred
+metabomxtr
+mina
+miRBaseConverter
+MultiMed
+RTCA
+S4Arrays
+SPIA
+STRINGdb
+tkWidgets
+tximport

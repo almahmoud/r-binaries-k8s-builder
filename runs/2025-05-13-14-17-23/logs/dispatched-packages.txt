@@ -658,3 +658,7 @@ InteractiveComplexHeatmap
 cola
 simona
 tkWidgets
+Mfuzz
+SparseArray
+XINA
+alevinQC

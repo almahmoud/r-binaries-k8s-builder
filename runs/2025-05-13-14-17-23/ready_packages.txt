@@ -1,6 +1,4 @@
-CCPlotR
-ClustAll
-InteractiveComplexHeatmap
-cola
-simona
-tkWidgets
+Mfuzz
+SparseArray
+XINA
+alevinQC

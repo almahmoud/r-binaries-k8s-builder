@@ -17,7 +17,6 @@
     "Biostrings",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -29,7 +28,6 @@
     "Biostrings",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -46,7 +44,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "ADaCGH2": [
@@ -87,7 +84,6 @@
     "GenomicAlignments",
     "SummarizedExperiment",
     "biomaRt",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -95,7 +91,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -108,7 +103,6 @@
     "DelayedArray",
     "GenomicRanges",
     "AnnotationDbi",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb",
     "h5mread",
@@ -129,7 +123,6 @@
     "GenomeInfoDb",
     "Biostrings",
     "AnnotationDbi",
-    "S4Arrays",
     "DelayedArray",
     "BSgenome",
     "KEGGREST",
@@ -143,7 +136,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray",
     "Biostrings"
@@ -155,7 +147,6 @@
     "MultiDataSet",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -174,7 +165,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "ASpli": [
@@ -197,7 +187,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -228,7 +217,6 @@
     "DelayedArray",
     "HDF5Array",
     "TFBSTools",
-    "S4Arrays",
     "SparseArray",
     "AnnotationFilter",
     "ProtGenerics",
@@ -245,7 +233,6 @@
     "rtracklayer",
     "Biostrings",
     "BSgenome",
-    "S4Arrays",
     "DelayedArray",
     "pwalign",
     "SparseArray"
@@ -255,7 +242,6 @@
     "DelayedMatrixStats",
     "GSEABase",
     "SummarizedExperiment",
-    "S4Arrays",
     "SparseArray",
     "annotate",
     "AnnotationDbi",
@@ -270,7 +256,6 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "AgiMicroRna": [
@@ -304,7 +289,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationFilter",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "ProtGenerics",
@@ -328,7 +312,6 @@
     "biomaRt",
     "ensembldb",
     "biovizBase",
-    "S4Arrays",
     "DelayedArray",
     "AnnotationFilter",
     "SparseArray",
@@ -348,7 +331,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -362,7 +344,6 @@
     "GenomicAlignments",
     "zlibbioc",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -406,7 +387,6 @@
     "GenomicAlignments",
     "SummarizedExperiment",
     "biomaRt",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -418,7 +398,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -439,7 +418,6 @@
     "scran",
     "scuttle",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "BiocSingular",
     "bluster",
@@ -461,7 +439,6 @@
     "SparseArray",
     "DelayedArray",
     "HDF5Array",
-    "S4Arrays",
     "BiocSingular",
     "bluster",
     "GenomicRanges",
@@ -477,7 +454,6 @@
     "GenomicRanges",
     "Biostrings",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
     "rtracklayer",
@@ -502,7 +478,6 @@
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -511,7 +486,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "SparseArray",
@@ -551,7 +525,6 @@
     "ProtGenerics",
     "RBGL",
     "txdbmaker",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "biomaRt"
@@ -576,7 +549,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -589,7 +561,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -598,7 +569,6 @@
     "Biostrings",
     "GenomeInfoDb",
     "GenomicRanges",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -606,7 +576,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -627,7 +596,6 @@
     "ProtGenerics",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -637,7 +605,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "BaalChIP": [
@@ -647,7 +614,6 @@
     "GenomeInfoDb",
     "SummarizedExperiment",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -665,7 +631,6 @@
     "GenomicFeatures",
     "KEGGREST",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -676,7 +641,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "Basic4Cseq": [
@@ -688,7 +652,6 @@
     "SummarizedExperiment",
     "Rsamtools",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -699,7 +662,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "Rsamtools",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -712,7 +674,6 @@
     "GenomicRanges",
     "SingleCellExperiment",
     "scuttle",
-    "S4Arrays",
     "DelayedArray",
     "BiocSingular",
     "bluster",
@@ -734,7 +695,6 @@
     "BiocSingular",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "ScaledMatrix",
     "beachmat",
     "SparseArray"
@@ -752,14 +712,12 @@
     "beachmat",
     "scuttle",
     "SparseArray",
-    "S4Arrays",
     "bluster",
     "GenomicRanges",
     "GenomeInfoDb"
   ],
   "BgeeCall": [
     "GenomicFeatures",
-    "tximport",
     "Biostrings",
     "rtracklayer",
     "biomaRt",
@@ -772,7 +730,6 @@
     "GenomicAlignments",
     "KEGGREST",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -783,7 +740,6 @@
     "SparseArray",
     "DelayedArray",
     "h5mread",
-    "S4Arrays",
     "rhdf5",
     "AnnotationDbi",
     "SingleCellExperiment",
@@ -812,7 +768,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray"
@@ -836,7 +791,6 @@
     "GenomicAlignments",
     "KEGGREST",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -854,7 +808,6 @@
     "RBGL",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -870,7 +823,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "AnnotationDbi",
@@ -893,7 +845,6 @@
     "SingleCellExperiment",
     "scuttle",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "BiocSingular",
     "bluster",
@@ -927,14 +878,12 @@
     "DelayedArray",
     "ScaledMatrix",
     "beachmat",
-    "SparseArray",
-    "S4Arrays"
+    "SparseArray"
   ],
   "BiocSklearn": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -947,7 +896,6 @@
     "AnnotationHub",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
     "SparseArray",
@@ -958,7 +906,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -978,7 +925,6 @@
     "KEGGREST",
     "rtracklayer",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "BSgenome",
     "SparseArray"
@@ -993,7 +939,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "treeio"
   ],
@@ -1002,7 +947,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1028,7 +972,6 @@
     "ProtGenerics",
     "RBGL",
     "txdbmaker",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "biomaRt"
@@ -1052,7 +995,6 @@
     "ensembldb",
     "BSgenome",
     "biovizBase",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "AnnotationFilter",
@@ -1077,7 +1019,6 @@
     "GenomicInteractions",
     "AnnotationDbi",
     "DelayedArray",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray",
     "VariantAnnotation",
@@ -1103,7 +1044,6 @@
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "MultiAssayExperiment",
@@ -1116,7 +1056,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "CARNIVAL": [],
@@ -1136,7 +1075,6 @@
     "BiocSingular",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "ScaledMatrix"
   ],
   "CBNplot": [
@@ -1167,7 +1105,6 @@
     "GenomicFeatures",
     "KEGGREST",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1187,7 +1124,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "CEMiTool": [
@@ -1227,7 +1163,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "CHRONOS": [
@@ -1262,7 +1197,6 @@
     "AnnotationDbi",
     "SummarizedExperiment",
     "Rsamtools",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1310,7 +1244,6 @@
     "gdsfmt",
     "DelayedArray",
     "SeqArray",
-    "S4Arrays",
     "SparseArray",
     "Biostrings"
   ],
@@ -1332,7 +1265,6 @@
     "bamsignals",
     "AnnotationDbi",
     "BSgenome",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "zlibbioc",
@@ -1365,7 +1297,6 @@
     "ensembldb",
     "AnnotationFilter",
     "BSgenome",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "ProtGenerics"
@@ -1384,7 +1315,6 @@
     "GenomicFeatures",
     "KEGGREST",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1404,7 +1334,6 @@
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
-    "S4Arrays",
     "h5mread",
     "GenomicAlignments"
   ],
@@ -1417,7 +1346,6 @@
     "rtracklayer",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1438,14 +1366,12 @@
     "beachmat",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "CPSM": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1461,7 +1387,6 @@
     "beachmat",
     "SparseArray",
     "ScaledMatrix",
-    "S4Arrays",
     "GenomicRanges",
     "GenomeInfoDb"
   ],
@@ -1475,7 +1400,6 @@
     "GenomicRanges",
     "rtracklayer",
     "Rsamtools",
-    "S4Arrays",
     "SparseArray",
     "AnnotationDbi",
     "KEGGREST",
@@ -1499,7 +1423,6 @@
     "GenomeInfoDb",
     "Biostrings",
     "AnnotationDbi",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray"
@@ -1510,7 +1433,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1530,7 +1452,6 @@
     "ExperimentHub",
     "GenomeInfoDb",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "AnnotationHub",
     "AnnotationDbi",
@@ -1541,7 +1462,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1587,7 +1507,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "CeTF": [
@@ -1602,7 +1521,6 @@
     "GenomicRanges",
     "snpStats",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -1620,7 +1538,6 @@
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1629,7 +1546,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -1644,7 +1560,6 @@
     "BiocSingular",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "ScaledMatrix"
   ],
   "CellNOptR": [
@@ -1654,7 +1569,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1664,7 +1578,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "CelliD": [
@@ -1678,7 +1591,6 @@
     "BiocSingular",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "ScaledMatrix"
   ],
   "Cepo": [
@@ -1688,7 +1600,6 @@
     "HDF5Array",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "S4Arrays",
     "SparseArray",
     "annotate",
     "AnnotationDbi",
@@ -1710,7 +1621,6 @@
     "GenomicAlignments",
     "seqPattern",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1750,7 +1660,6 @@
     "BSgenome",
     "rhdf5",
     "beachmat",
-    "S4Arrays",
     "SparseArray",
     "txdbmaker",
     "ensembldb",
@@ -1771,7 +1680,6 @@
     "Biostrings",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1795,7 +1703,6 @@
     "KEGGREST",
     "BSgenome",
     "pwalign",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1809,7 +1716,6 @@
     "affxparser",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1822,7 +1728,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1842,7 +1747,6 @@
     "KEGGREST",
     "rtracklayer",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "BSgenome",
     "SparseArray"
@@ -1868,7 +1772,6 @@
     "AnnotationFilter",
     "ProtGenerics",
     "BSgenome",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1888,7 +1791,6 @@
     "GenomicAlignments",
     "SummarizedExperiment",
     "treeio",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1902,7 +1804,6 @@
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1915,7 +1816,6 @@
     "GenomicRanges",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1933,7 +1833,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1955,7 +1854,6 @@
     "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
-    "S4Arrays",
     "GenomeInfoDb",
     "Biostrings",
     "GenomicAlignments",
@@ -1979,7 +1877,6 @@
     "rtracklayer",
     "biomaRt",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -1989,7 +1886,6 @@
     "scran",
     "rhdf5",
     "scuttle",
-    "S4Arrays",
     "DelayedArray",
     "BiocSingular",
     "bluster",
@@ -2009,7 +1905,6 @@
     "DelayedArray",
     "GenomicRanges",
     "KEGGREST",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb",
     "Biostrings"
@@ -2025,13 +1920,11 @@
     "qsmooth",
     "Rsamtools",
     "SummarizedExperiment",
-    "tximport",
     "rtracklayer",
     "GenomicFeatures",
     "AnnotationDbi",
     "ProtGenerics",
     "sva",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -2054,7 +1947,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "ClustAll": [],
@@ -2063,7 +1955,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -2080,7 +1971,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "CoSIA": [
@@ -2103,7 +1993,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2133,7 +2022,6 @@
     "AnnotationDbi",
     "BSgenome",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "zlibbioc",
@@ -2152,7 +2040,6 @@
     "GenomicRanges",
     "marray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "CoverageView": [
@@ -2163,7 +2050,6 @@
     "GenomeInfoDb",
     "SummarizedExperiment",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2176,7 +2062,6 @@
     "Rsamtools",
     "KEGGREST",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2187,7 +2072,6 @@
     "SparseArray",
     "DelayedArray",
     "h5mread",
-    "S4Arrays",
     "rhdf5",
     "GenomicRanges",
     "GenomeInfoDb"
@@ -2210,7 +2094,6 @@
     "flowWorkspace",
     "RBGL",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "CytoML": [
@@ -2225,7 +2108,6 @@
     "DelayedArray",
     "flowViz",
     "flowClust",
-    "S4Arrays",
     "SparseArray"
   ],
   "CytoPipeline": [
@@ -2239,7 +2121,6 @@
     "flowWorkspace",
     "RBGL",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "CytoPipelineGUI": [
@@ -2254,7 +2135,6 @@
     "flowWorkspace",
     "RBGL",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "DAMEfinder": [
@@ -2268,7 +2148,6 @@
     "Biostrings",
     "GenomicFeatures",
     "AnnotationDbi",
-    "S4Arrays",
     "DelayedArray",
     "rtracklayer",
     "BSgenome",
@@ -2290,7 +2169,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "DART": [],
@@ -2304,7 +2182,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2319,7 +2196,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2328,7 +2204,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2341,7 +2216,6 @@
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "Spectra",
@@ -2370,7 +2244,6 @@
     "regioneR",
     "universalmotif",
     "ensembldb",
-    "S4Arrays",
     "SparseArray",
     "AnnotationFilter",
     "ProtGenerics",
@@ -2380,7 +2253,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2390,7 +2262,6 @@
     "scuttle",
     "SingleCellExperiment",
     "GenomicRanges",
-    "S4Arrays",
     "SparseArray",
     "DelayedArray",
     "beachmat",
@@ -2401,7 +2272,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2418,7 +2288,6 @@
     "annotate",
     "GenomeInfoDb",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2430,7 +2299,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2445,7 +2313,6 @@
     "annotate",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -2460,7 +2327,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2472,7 +2338,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2513,7 +2378,6 @@
     "genefilter",
     "GEOquery",
     "methylumi",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray",
     "VariantAnnotation",
@@ -2537,7 +2401,6 @@
     "AnnotationDbi",
     "rtracklayer",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2572,7 +2435,6 @@
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
-    "S4Arrays",
     "h5mread",
     "GenomicAlignments"
   ],
@@ -2590,7 +2452,6 @@
     "AnnotationDbi",
     "GenomicFeatures",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "KEGGREST",
@@ -2623,7 +2484,6 @@
     "ProtGenerics",
     "txdbmaker",
     "RBGL",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "biomaRt"
@@ -2635,7 +2495,6 @@
     "bsseq",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "DelayedMatrixStats",
@@ -2661,7 +2520,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "scuttle",
-    "S4Arrays",
     "DelayedArray",
     "BiocSingular",
     "bluster",
@@ -2704,7 +2562,6 @@
     "rtracklayer",
     "GenomicAlignments",
     "Rsamtools",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2721,31 +2578,25 @@
     "rtracklayer",
     "biomaRt",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
   "DelayedArray": [
-    "S4Arrays",
     "SparseArray"
   ],
   "DelayedDataFrame": [
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "DelayedMatrixStats": [
     "DelayedArray",
-    "SparseArray",
-    "S4Arrays"
+    "SparseArray"
   ],
   "DelayedRandomArray": [
     "SparseArray",
-    "DelayedArray",
-    "S4Arrays"
+    "DelayedArray"
   ],
   "DelayedTensor": [
-    "S4Arrays",
     "SparseArray",
     "DelayedArray",
     "HDF5Array",
@@ -2771,7 +2622,6 @@
     "Biostrings",
     "BSgenome",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "ShortRead",
     "SparseArray",
@@ -2782,12 +2632,10 @@
     "BANDITS",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "tximport",
     "DRIMSeq",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "Dino": [
@@ -2799,7 +2647,6 @@
     "ScaledMatrix",
     "beachmat",
     "scuttle",
-    "S4Arrays",
     "bluster",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -2810,7 +2657,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2824,7 +2670,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "Rsamtools",
     "rtracklayer",
@@ -2845,7 +2690,6 @@
     "rhdf5",
     "beachmat",
     "scuttle",
-    "S4Arrays",
     "GenomeInfoDb",
     "h5mread"
   ],
@@ -2863,7 +2707,6 @@
     "affxparser",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2871,7 +2714,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2895,7 +2737,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2904,7 +2745,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2927,7 +2767,6 @@
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2936,7 +2775,6 @@
     "GenomicRanges",
     "GenomeInfoDb",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2945,7 +2783,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -2970,7 +2807,6 @@
     "BiocSingular",
     "ScaledMatrix",
     "beachmat",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rhdf5",
@@ -2990,7 +2826,6 @@
     "rtracklayer",
     "DelayedArray",
     "AnnotationDbi",
-    "S4Arrays",
     "SparseArray",
     "Biostrings",
     "ensembldb",
@@ -3016,7 +2851,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3037,7 +2871,6 @@
     "GEOquery",
     "DelayedArray",
     "HDF5Array",
-    "S4Arrays",
     "KEGGREST",
     "GenomicFeatures",
     "SparseArray",
@@ -3053,7 +2886,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3062,7 +2894,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "orthogene",
-    "S4Arrays",
     "SparseArray",
     "ExperimentHub",
     "ggtree",
@@ -3109,7 +2940,6 @@
     "AnnotationDbi",
     "GSEABase",
     "KEGGREST",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
@@ -3117,7 +2947,6 @@
     "Biostrings",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3142,7 +2971,6 @@
     "ggtree",
     "SummarizedExperiment",
     "treeio",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3159,7 +2987,6 @@
     "KEGGREST",
     "Biostrings",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "Rsamtools",
@@ -3182,7 +3009,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3205,12 +3031,10 @@
     "rhdf5",
     "BSgenome",
     "Biostrings",
-    "tximport",
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray"
@@ -3223,7 +3047,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3255,7 +3078,6 @@
     "GenomicAlignments",
     "SummarizedExperiment",
     "biomaRt",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3267,7 +3089,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "Biostrings",
     "treeio",
     "SparseArray"
@@ -3276,7 +3097,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3288,7 +3108,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "TrajectoryUtils",
     "SparseArray"
   ],
@@ -3331,7 +3150,6 @@
     "ensembldb",
     "AnnotationFilter",
     "BiocSingular",
-    "S4Arrays",
     "bluster",
     "biomaRt",
     "KEGGREST",
@@ -3358,7 +3176,6 @@
     "KEGGREST",
     "Biostrings",
     "rtracklayer",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "DESeq2",
@@ -3373,7 +3190,6 @@
     "GenomicRanges",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3381,7 +3197,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3403,7 +3218,6 @@
     "DelayedArray",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray"
   ],
@@ -3417,7 +3231,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3439,7 +3252,6 @@
     "GenomicFeatures",
     "KEGGREST",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3457,7 +3269,6 @@
     "GenomicAlignments",
     "SummarizedExperiment",
     "BSgenome",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3470,7 +3281,6 @@
     "sva",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "ShortRead",
@@ -3510,7 +3320,6 @@
     "ggtree",
     "GenomeInfoDb",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "treeio"
@@ -3520,7 +3329,6 @@
     "DelayedArray",
     "SNPRelate",
     "SeqArray",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -3548,7 +3356,6 @@
     "annotate",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -3559,7 +3366,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3574,7 +3380,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3591,7 +3396,6 @@
     "DNAcopy",
     "zlibbioc",
     "DelayedArray",
-    "S4Arrays",
     "AnnotationDbi",
     "GenomicFeatures",
     "GenomicDataCommons",
@@ -3619,7 +3423,6 @@
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3644,7 +3447,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "GenomicRanges",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb",
     "Biostrings"
@@ -3677,7 +3479,6 @@
     "rtracklayer",
     "Rsamtools",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -3687,7 +3488,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3709,13 +3509,11 @@
     "ExperimentHub",
     "KEGGREST",
     "GSEABase",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "annotate",
@@ -3745,7 +3543,6 @@
     "GenomicAlignments",
     "SummarizedExperiment",
     "biomaRt",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3760,7 +3557,6 @@
     "BiocSingular",
     "ScaledMatrix",
     "beachmat",
-    "S4Arrays",
     "SparseArray",
     "annotate",
     "AnnotationDbi",
@@ -3794,7 +3590,6 @@
     "ensembldb",
     "rhdf5",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "AnnotationFilter",
     "ProtGenerics"
@@ -3808,7 +3603,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
     "KEGGREST",
@@ -3824,7 +3618,6 @@
   ],
   "GeDi": [
     "GOSemSim",
-    "STRINGdb",
     "GeneTonic",
     "AnnotationDbi",
     "DESeq2",
@@ -3836,7 +3629,6 @@
     "clusterProfiler",
     "goseq",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "DOSE",
     "enrichplot",
@@ -3869,7 +3661,6 @@
     "rtracklayer",
     "SummarizedExperiment",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3928,7 +3719,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3943,7 +3733,6 @@
     "clusterProfiler",
     "goseq",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "DOSE",
     "enrichplot",
@@ -3971,7 +3760,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "Rsamtools",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -3994,7 +3782,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4007,7 +3794,6 @@
     "VariantAnnotation",
     "GenomeInfoDb",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
     "BSgenome",
@@ -4027,7 +3813,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4051,7 +3836,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4077,7 +3861,6 @@
     "ProtGenerics",
     "RBGL",
     "txdbmaker",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4099,7 +3882,6 @@
     "AnnotationDbi",
     "biomaRt",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4115,7 +3897,6 @@
     "DelayedArray",
     "HDF5Array",
     "AnnotationDbi",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "KEGGREST"
@@ -4124,7 +3905,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4142,7 +3922,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4156,7 +3935,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4165,7 +3943,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -4206,7 +3983,6 @@
     "GenomeInfoDb",
     "SummarizedExperiment",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4221,7 +3997,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4243,7 +4018,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4251,14 +4025,12 @@
     "SparseArray",
     "DelayedArray",
     "h5mread",
-    "S4Arrays",
     "rhdf5"
   ],
   "HERON": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4267,7 +4039,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -4277,7 +4048,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4286,7 +4056,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "SparseArray",
@@ -4313,7 +4082,6 @@
     "GenomeInfoDb",
     "SummarizedExperiment",
     "AnnotationDbi",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray"
@@ -4340,7 +4108,6 @@
     "GenomicFeatures",
     "ensembldb",
     "biovizBase",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "VariantAnnotation",
@@ -4355,7 +4122,6 @@
     "multiHiCcompare",
     "GenomeInfoDb",
     "HiCcompare",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "rhdf5"
@@ -4366,7 +4132,6 @@
     "GenomicRanges",
     "rhdf5",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4375,7 +4140,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4385,7 +4149,6 @@
     "rhdf5",
     "GenomeInfoDb",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4396,7 +4159,6 @@
     "GenomicRanges",
     "GenomeInfoDb",
     "rhdf5",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4407,7 +4169,6 @@
     "GenomeInfoDb",
     "rhdf5",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4423,7 +4184,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4435,7 +4195,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4449,7 +4208,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4468,7 +4226,6 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SingleCellExperiment",
     "Biostrings",
     "treeio",
@@ -4479,7 +4236,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4488,18 +4244,15 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
-  "IHW": [],
   "ILoReg": [
     "SingleCellExperiment",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "IMAS": [
@@ -4514,12 +4267,10 @@
     "SummarizedExperiment",
     "Biostrings",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
   "IMMAN": [
-    "STRINGdb",
     "pwalign",
     "Biostrings",
     "GenomeInfoDb"
@@ -4535,7 +4286,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "AnnotationDbi",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray"
@@ -4550,7 +4300,6 @@
     "GenomicRanges",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4571,7 +4320,6 @@
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "MultiAssayExperiment",
@@ -4581,7 +4329,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4594,7 +4341,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4609,7 +4355,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4625,7 +4370,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4633,7 +4377,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4651,7 +4394,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4665,7 +4407,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "SparseArray"
   ],
   "IntEREst": [
@@ -4686,7 +4427,6 @@
     "genefilter",
     "rtracklayer",
     "VariantAnnotation",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -4704,7 +4444,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4716,7 +4455,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4729,7 +4467,6 @@
     "GenomicRanges",
     "rtracklayer",
     "GenomeInfoDb",
-    "tximport",
     "tximeta",
     "SummarizedExperiment",
     "pwalign",
@@ -4740,7 +4477,6 @@
     "geneplotter",
     "genefilter",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "GenomicFeatures",
     "txdbmaker",
@@ -4777,7 +4513,6 @@
     "AnnotationDbi",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -4800,7 +4535,6 @@
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "MultiAssayExperiment",
@@ -4824,13 +4558,11 @@
     "Biostrings",
     "GenomeInfoDb"
   ],
-  "LedPred": [],
   "Lheuristic": [
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "DelayedArray",
     "GenomicRanges",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -4838,7 +4570,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4854,7 +4585,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "GenomicRanges",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -4872,7 +4602,6 @@
     "DelayedArray",
     "GenomicRanges",
     "HDF5Array",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb",
     "h5mread"
@@ -4894,7 +4623,6 @@
     "beachmat",
     "BiocSingular",
     "ScaledMatrix",
-    "S4Arrays",
     "GenomicRanges",
     "GenomeInfoDb"
   ],
@@ -4917,7 +4645,6 @@
     "GenomeInfoDb",
     "rtracklayer",
     "zlibbioc",
-    "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
     "GenomicFeatures",
@@ -4933,7 +4660,6 @@
     "SparseArray",
     "DelayedArray",
     "h5mread",
-    "S4Arrays",
     "rhdf5",
     "GenomicRanges",
     "methylumi",
@@ -4958,7 +4684,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -4979,7 +4704,6 @@
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "MultiAssayExperiment",
@@ -4999,14 +4723,12 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "MBASED": [
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5026,7 +4748,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5044,7 +4765,6 @@
     "Rsamtools",
     "GenomeInfoDb",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5074,7 +4794,6 @@
     "HDF5Array",
     "methylumi",
     "sva",
-    "S4Arrays",
     "KEGGREST",
     "VariantAnnotation",
     "AnnotationFilter",
@@ -5097,7 +4816,6 @@
     "GEOquery",
     "DelayedArray",
     "HDF5Array",
-    "S4Arrays",
     "methylumi",
     "lumi",
     "ROC",
@@ -5123,7 +4841,6 @@
     "BiocSingular",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "ScaledMatrix"
   ],
   "MEDIPS": [
@@ -5139,7 +4856,6 @@
     "GenomicAlignments",
     "KEGGREST",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5182,7 +4898,6 @@
     "scuttle",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "treeio",
     "SparseArray",
     "beachmat",
@@ -5194,7 +4909,6 @@
     "TOAST",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "EpiDISH",
     "SparseArray"
@@ -5214,7 +4928,6 @@
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
-    "S4Arrays",
     "h5mread",
     "GenomicAlignments"
   ],
@@ -5231,7 +4944,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb",
     "Biostrings",
@@ -5245,7 +4957,6 @@
     "AnnotationDbi",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -5262,7 +4973,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5275,7 +4985,6 @@
     "rtracklayer",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5292,7 +5001,6 @@
     "rhdf5",
     "HDF5Array",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "h5mread"
   ],
@@ -5304,7 +5012,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "GenomicRanges",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -5320,7 +5027,6 @@
     "annotate",
     "GenomeInfoDb",
     "GenomicFeatures",
-    "S4Arrays",
     "SparseArray",
     "Biostrings",
     "rtracklayer",
@@ -5332,7 +5038,6 @@
     "SingleCellExperiment",
     "scuttle",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "BiocSingular",
     "bluster",
@@ -5354,7 +5059,6 @@
     "ScaledMatrix",
     "beachmat",
     "scuttle",
-    "S4Arrays",
     "GenomicRanges",
     "GenomeInfoDb",
     "SparseArray"
@@ -5363,7 +5067,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5378,7 +5081,6 @@
     "sva",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "SparseArray",
@@ -5408,7 +5110,6 @@
     "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "MSnbase": [
@@ -5425,7 +5126,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "MSstats": [
@@ -5471,7 +5171,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "MSstatsQCgui": [
@@ -5491,7 +5190,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "MSstatsShiny": [
@@ -5512,7 +5210,6 @@
     "Biostrings",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5521,7 +5218,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "Maaslin2",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -5537,7 +5233,6 @@
     "AnnotationHub",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "AnnotationDbi",
@@ -5557,7 +5252,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5591,7 +5285,6 @@
     "rols",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5600,7 +5293,6 @@
     "GENIE3",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5617,7 +5309,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "MetaPhOR": [
@@ -5646,7 +5337,6 @@
     "MultiAssayExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -5659,7 +5349,6 @@
     "Biostrings",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5683,7 +5372,6 @@
     "Rsamtools",
     "ProtGenerics",
     "AnnotationHub",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "GenomicAlignments"
@@ -5698,7 +5386,6 @@
     "ExperimentHub",
     "TFBSTools",
     "AnnotationDbi",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb",
     "Biostrings",
@@ -5726,7 +5413,6 @@
     "GEOquery",
     "DelayedArray",
     "HDF5Array",
-    "S4Arrays",
     "GenomicFeatures",
     "AnnotationDbi",
     "SparseArray",
@@ -5752,13 +5438,10 @@
     "GenomicAlignments",
     "KEGGREST",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
-  "Mfuzz": [
-    "tkWidgets"
-  ],
+  "Mfuzz": [],
   "MiRaGE": [
     "AnnotationDbi",
     "KEGGREST",
@@ -5785,7 +5468,6 @@
     "ggtreeExtra",
     "GenomeInfoDb",
     "GenomicRanges",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5817,7 +5499,6 @@
     "HDF5Array",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rhdf5"
@@ -5830,7 +5511,6 @@
     "oligoClasses",
     "DNAcopy",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "crlmm",
     "BSgenome",
@@ -5852,7 +5532,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "Moonlight2R": [
@@ -5876,7 +5555,6 @@
     "GenomicAlignments",
     "KEGGREST",
     "ggtree",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "treeio"
@@ -5892,7 +5570,6 @@
     "GOSemSim",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "biomaRt",
     "KEGGREST",
@@ -5910,7 +5587,6 @@
     "rtracklayer",
     "Rsamtools",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5922,7 +5598,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5937,7 +5612,6 @@
     "Biostrings",
     "BSgenome",
     "memes",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -5997,7 +5671,6 @@
     "MetaboCoreUtils",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6006,7 +5679,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6021,7 +5693,6 @@
     "AnnotationFilter",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6031,7 +5702,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "GenomeInfoDb"
@@ -6040,7 +5710,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "GenomicRanges",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -6051,7 +5720,6 @@
     "DelayedArray",
     "GenomicRanges",
     "MultiDataSet",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -6059,19 +5727,15 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
-  "MultiMed": [],
   "MultiRNAflow": [
     "Mfuzz",
     "DESeq2",
     "SummarizedExperiment",
     "GenomicRanges",
-    "tkWidgets",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6080,7 +5744,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "GenomicRanges",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -6097,7 +5760,6 @@
     "AnnotationDbi",
     "GenomicFeatures",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6114,7 +5776,6 @@
     "GenomicFeatures",
     "KEGGREST",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6133,7 +5794,6 @@
     "ChIPpeakAnno",
     "GenomicScores",
     "motifStack",
-    "S4Arrays",
     "DelayedArray",
     "GenomicFeatures",
     "Gviz",
@@ -6166,7 +5826,6 @@
     "AnnotationDbi",
     "annotate",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -6194,7 +5853,6 @@
     "BSgenome",
     "HDF5Array",
     "rhdf5",
-    "S4Arrays",
     "SparseArray",
     "rtracklayer",
     "h5mread",
@@ -6211,7 +5869,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "NetActivity": [
@@ -6219,7 +5876,6 @@
     "DelayedMatrixStats",
     "DESeq2",
     "SummarizedExperiment",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "GenomeInfoDb"
@@ -6239,7 +5895,6 @@
     "BiocSingular",
     "ScaledMatrix",
     "beachmat",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "GenomeInfoDb"
@@ -6257,7 +5912,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6265,7 +5919,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6290,7 +5943,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6299,8 +5951,7 @@
   ],
   "OLINgui": [
     "OLIN",
-    "marray",
-    "tkWidgets"
+    "marray"
   ],
   "OMICsPCA": [
     "HelloRanges",
@@ -6316,7 +5967,6 @@
     "GenomicAlignments",
     "SummarizedExperiment",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "AnnotationDbi",
     "KEGGREST"
@@ -6331,7 +5981,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6350,7 +5999,6 @@
     "SummarizedExperiment",
     "txdbmaker",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6363,7 +6011,6 @@
     "GenomicRanges",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6377,7 +6024,6 @@
     "AnnotationDbi",
     "Biostrings",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "biomaRt",
     "KEGGREST",
@@ -6389,7 +6035,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6431,7 +6076,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6449,7 +6093,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6467,7 +6110,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6490,7 +6132,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6502,7 +6143,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6512,8 +6152,7 @@
     "BiocSingular",
     "beachmat",
     "SparseArray",
-    "ScaledMatrix",
-    "S4Arrays"
+    "ScaledMatrix"
   ],
   "PDATK": [
     "SummarizedExperiment",
@@ -6528,7 +6167,6 @@
     "GenomicRanges",
     "marray",
     "GenomeInfoDb",
-    "S4Arrays",
     "AnnotationDbi",
     "SparseArray",
     "KEGGREST",
@@ -6550,7 +6188,6 @@
     "Biostrings",
     "Rsamtools",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6561,7 +6198,6 @@
     "GenomeInfoDb",
     "SummarizedExperiment",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6585,7 +6221,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6597,7 +6232,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6610,7 +6244,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "POMA": [
@@ -6620,7 +6253,6 @@
     "sva",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "SparseArray",
@@ -6636,12 +6268,10 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "PPInfer": [
     "biomaRt",
-    "STRINGdb",
     "AnnotationDbi",
     "KEGGREST",
     "Biostrings",
@@ -6677,7 +6307,6 @@
     "sva",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "Spectra",
@@ -6711,7 +6340,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "PWMEnrich": [
@@ -6743,7 +6371,6 @@
     "Biostrings",
     "rhdf5",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6755,14 +6382,12 @@
     "RBGL",
     "ncdfFlow",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "PepSetTest": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6770,7 +6395,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6783,7 +6407,6 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "marray"
   ],
@@ -6793,7 +6416,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6823,7 +6445,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6832,7 +6453,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6851,7 +6471,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "Prostar": [
@@ -6870,7 +6489,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "ProtGenerics": [],
@@ -6888,7 +6506,6 @@
     "BSgenome",
     "KEGGREST",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6912,7 +6529,6 @@
     "rhdf5",
     "AnnotationDbi",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "BSgenome",
     "KEGGREST",
@@ -6937,7 +6553,6 @@
     "BSgenome",
     "KEGGREST",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6959,7 +6574,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "QSutils": [
@@ -6971,7 +6585,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6998,7 +6611,6 @@
     "VariantAnnotation",
     "pwalign",
     "biomaRt",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7023,7 +6635,6 @@
     "ProtGenerics",
     "RBGL",
     "txdbmaker",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "biomaRt"
@@ -7042,7 +6653,6 @@
     "GenomeInfoDb",
     "rtracklayer",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "GenomicFeatures",
     "KEGGREST",
@@ -7075,7 +6685,6 @@
     "SummarizedExperiment",
     "DNAcopy",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7102,7 +6711,6 @@
     "biomaRt",
     "KEGGREST",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7119,7 +6727,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -7147,7 +6754,6 @@
     "ensembldb",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7169,7 +6775,6 @@
     "DelayedArray",
     "HDF5Array",
     "GenomicAlignments",
-    "S4Arrays",
     "KEGGREST",
     "GenomicFeatures",
     "SparseArray",
@@ -7191,7 +6796,6 @@
     "AnnotationDbi",
     "GenomicFeatures",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7215,14 +6819,12 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "treeio",
     "h5mread",
     "Biostrings"
   ],
   "RITAN": [
-    "STRINGdb",
     "BgeeDB",
     "GenomicFeatures",
     "ensembldb",
@@ -7241,7 +6843,6 @@
     "SparseArray",
     "DelayedArray",
     "h5mread",
-    "S4Arrays",
     "rhdf5",
     "GenomicAlignments",
     "SingleCellExperiment",
@@ -7256,7 +6857,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7277,7 +6877,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "RNAAgeCalc": [
@@ -7290,7 +6889,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "bumphunter",
@@ -7324,7 +6922,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7350,7 +6947,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7376,7 +6972,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7402,7 +6997,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7410,7 +7004,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7419,7 +7012,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7446,12 +7038,10 @@
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
   "RSeqAn": [],
-  "RTCA": [],
   "RTCGA": [],
   "RTCGAToolbox": [
     "DelayedArray",
@@ -7460,7 +7050,6 @@
     "RaggedExperiment",
     "SummarizedExperiment",
     "TCGAutils",
-    "S4Arrays",
     "SparseArray",
     "AnnotationDbi",
     "GenomicFeatures",
@@ -7477,7 +7066,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7487,7 +7075,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7498,7 +7085,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7509,7 +7095,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "RUVSeq": [
@@ -7527,7 +7112,6 @@
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7545,7 +7129,6 @@
     "BumpyMatrix",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "marray"
@@ -7554,7 +7137,6 @@
     "GenomicRanges",
     "GenomeInfoDb",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7575,7 +7157,6 @@
     "rhdf5",
     "DelayedArray",
     "HDF5Array",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray",
     "h5mread",
@@ -7583,7 +7164,6 @@
   ],
   "Rarr": [
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "Rbec": [
@@ -7596,7 +7176,6 @@
     "GenomicRanges",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7618,7 +7197,6 @@
     "DelayedMatrixStats",
     "annotate",
     "AnnotationDbi",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray",
     "Biostrings"
@@ -7639,7 +7217,6 @@
     "beachmat",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "ReactomePA": [
@@ -7665,7 +7242,6 @@
     "GOSemSim",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -7683,7 +7259,6 @@
     "GenomicRanges",
     "GOSemSim",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "Biostrings"
@@ -7703,7 +7278,6 @@
     "beachmat",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "EpiDISH",
     "ScaledMatrix",
     "bluster"
@@ -7727,7 +7301,6 @@
     "BSgenome",
     "DNAcopy",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7759,14 +7332,12 @@
     "AnnotationForge",
     "ProtGenerics",
     "txdbmaker",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "biomaRt"
   ],
   "ResidualMatrix": [
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "Rfastp": [
@@ -7785,7 +7356,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7803,7 +7373,6 @@
     "rtracklayer",
     "biomaRt",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7823,7 +7392,6 @@
     "SummarizedExperiment",
     "txdbmaker",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7841,7 +7409,6 @@
     "rtracklayer",
     "biomaRt",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7866,7 +7433,6 @@
     "ProtGenerics",
     "RBGL",
     "txdbmaker",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "biomaRt"
@@ -7881,7 +7447,6 @@
     "apeglm",
     "GenomeInfoDb",
     "AnnotationDbi",
-    "S4Arrays",
     "DelayedArray",
     "Rsamtools",
     "GenomicFeatures",
@@ -7909,7 +7474,6 @@
     "GEOquery",
     "DelayedArray",
     "HDF5Array",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rhdf5",
@@ -7928,7 +7492,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "bumphunter",
@@ -7943,7 +7506,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -7966,7 +7528,6 @@
     "pwalign",
     "KEGGREST",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "BSgenome",
     "SparseArray"
@@ -7976,7 +7537,6 @@
     "GenomicRanges",
     "Biostrings"
   ],
-  "S4Arrays": [],
   "SAIGEgds": [
     "gdsfmt",
     "SeqArray",
@@ -7997,7 +7557,6 @@
     "Rsamtools",
     "SummarizedExperiment",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8009,7 +7568,6 @@
     "Biostrings",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8019,7 +7577,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "SCAN.UPC": [
@@ -8035,7 +7592,6 @@
     "AnnotationDbi",
     "annotate",
     "GenomicRanges",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray"
@@ -8048,7 +7604,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8062,7 +7617,6 @@
     "BiocSingular",
     "ScaledMatrix",
     "beachmat",
-    "S4Arrays",
     "GenomicRanges",
     "GenomeInfoDb"
   ],
@@ -8074,7 +7628,6 @@
     "SummarizedExperiment",
     "ScaledMatrix",
     "beachmat",
-    "S4Arrays",
     "SparseArray",
     "DelayedMatrixStats",
     "SingleCellExperiment",
@@ -8091,7 +7644,6 @@
     "rtracklayer",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8101,14 +7653,12 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "SDAMS": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8122,7 +7672,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8133,7 +7682,6 @@
     "sva",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "SparseArray",
@@ -8153,7 +7701,6 @@
     "AnnotationForge",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "GSEABase",
@@ -8171,7 +7718,6 @@
     "GenomeInfoDb",
     "rtracklayer",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8219,7 +7765,6 @@
     "GenomicAlignments",
     "biomaRt",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8235,7 +7780,6 @@
     "VariantAnnotation",
     "SummarizedExperiment",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
     "rtracklayer",
@@ -8267,10 +7811,8 @@
     "GenomicAlignments",
     "KEGGREST",
     "SparseArray",
-    "S4Arrays",
     "h5mread"
   ],
-  "SPIA": [],
   "SPIAT": [
     "SpatialExperiment",
     "dittoSeq",
@@ -8278,7 +7820,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8302,7 +7843,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8318,7 +7858,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -8334,15 +7873,12 @@
     "KEGGREST",
     "rhdf5",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "SQLDataFrame": [
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
-  "STRINGdb": [],
   "SUITOR": [],
   "SVMDO": [
     "DOSE",
@@ -8352,7 +7888,6 @@
     "GOSemSim",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "Biostrings"
@@ -8367,8 +7902,7 @@
     "SparseArray",
     "treeio",
     "GenomicRanges",
-    "GenomeInfoDb",
-    "S4Arrays"
+    "GenomeInfoDb"
   ],
   "SWATH2stats": [
     "biomaRt",
@@ -8381,13 +7915,11 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
   "ScaledMatrix": [
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "Sconify": [
@@ -8416,7 +7948,6 @@
     "SummarizedExperiment",
     "KEGGREST",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "Biostrings"
@@ -8425,7 +7956,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8455,7 +7985,6 @@
     "GenomicRanges",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8464,7 +7993,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -8476,7 +8004,6 @@
     "AnnotationDbi",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -8496,7 +8023,6 @@
     "SummarizedExperiment",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
     "GenomicFeatures",
@@ -8510,7 +8036,6 @@
     "Biostrings",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "rhdf5",
     "SparseArray"
@@ -8525,7 +8050,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "GenomeInfoDb"
@@ -8534,7 +8058,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -8543,7 +8066,6 @@
     "SingleCellExperiment",
     "scuttle",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "BiocSingular",
     "bluster",
@@ -8574,7 +8096,6 @@
     "VariantAnnotation",
     "pwalign",
     "biomaRt",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8584,7 +8105,6 @@
     "DelayedMatrixStats",
     "beachmat",
     "SparseArray",
-    "S4Arrays",
     "GenomicRanges",
     "GenomeInfoDb"
   ],
@@ -8613,7 +8133,6 @@
     "ProtGenerics",
     "RBGL",
     "txdbmaker",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "biomaRt"
@@ -8624,7 +8143,6 @@
     "SpatialExperiment",
     "SummarizedExperiment",
     "scuttle",
-    "S4Arrays",
     "DelayedArray",
     "BiocSingular",
     "bluster",
@@ -8650,15 +8168,12 @@
     "beachmat",
     "scuttle",
     "BiocSingular",
-    "S4Arrays",
     "bluster",
     "GenomeInfoDb",
     "ScaledMatrix",
     "h5mread"
   ],
-  "SparseArray": [
-    "S4Arrays"
-  ],
+  "SparseArray": [],
   "SparseSignatures": [
     "Biostrings",
     "GenomicRanges",
@@ -8668,7 +8183,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8676,7 +8190,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8692,7 +8205,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "SpatialExperimentIO": [
@@ -8708,7 +8220,6 @@
     "rhdf5",
     "beachmat",
     "scuttle",
-    "S4Arrays",
     "GenomeInfoDb",
     "h5mread"
   ],
@@ -8726,7 +8237,6 @@
     "beachmat",
     "scuttle",
     "GenomeInfoDb",
-    "S4Arrays",
     "h5mread"
   ],
   "SpatialOmicsOverlay": [
@@ -8752,7 +8262,6 @@
     "InteractionSet",
     "rhdf5",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8772,7 +8281,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "Rsamtools",
-    "S4Arrays",
     "SparseArray",
     "annotate",
     "ExperimentHub",
@@ -8783,7 +8291,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8798,7 +8305,6 @@
     "AnnotationDbi",
     "rtracklayer",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8807,7 +8313,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "GenomicRanges",
-    "S4Arrays",
     "SparseArray",
     "DelayedArray",
     "beachmat",
@@ -8820,7 +8325,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8832,7 +8336,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "StabMap": [
@@ -8843,7 +8346,6 @@
     "beachmat",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "Statial": [
@@ -8854,7 +8356,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "ggtree",
     "diffcyt",
     "SparseArray",
@@ -8884,7 +8385,6 @@
     "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "BSgenome",
     "KEGGREST",
@@ -8899,7 +8399,6 @@
   "SummarizedExperiment": [
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8915,7 +8414,6 @@
     "SingleCellExperiment",
     "phyloseq",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -8939,7 +8437,6 @@
     "rhdf5",
     "GenomeInfoDb",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8955,7 +8452,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -8975,7 +8471,6 @@
     "HDF5Array",
     "BiocSingular",
     "GenomeInfoDb",
-    "S4Arrays",
     "ScaledMatrix",
     "beachmat",
     "SparseArray",
@@ -8993,7 +8488,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9003,7 +8497,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -9022,7 +8515,6 @@
     "Biostrings",
     "rtracklayer",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "Rsamtools",
     "GenomicAlignments"
@@ -9034,13 +8526,11 @@
     "Rsamtools",
     "GenomeInfoDb",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
   "TDbasedUFE": [
     "GenomicRanges",
-    "tximport",
     "GenomeInfoDb"
   ],
   "TDbasedUFEadv": [
@@ -9049,12 +8539,10 @@
     "RTCGA",
     "enrichplot",
     "DOSE",
-    "STRINGdb",
     "AnnotationDbi",
     "GOSemSim",
     "ggtree",
     "GenomeInfoDb",
-    "tximport",
     "KEGGREST",
     "treeio",
     "Biostrings"
@@ -9072,7 +8560,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9092,7 +8579,6 @@
     "DelayedArray",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "biomaRt",
     "KEGGREST",
     "SparseArray"
@@ -9106,8 +8592,7 @@
     "rhdf5",
     "SparseArray",
     "DelayedArray",
-    "h5mread",
-    "S4Arrays"
+    "h5mread"
   ],
   "TEQC": [
     "Rsamtools",
@@ -9129,7 +8614,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9145,7 +8629,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9165,7 +8648,6 @@
     "SummarizedExperiment",
     "txdbmaker",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9183,7 +8665,6 @@
     "GenomeInfoDb",
     "annotate",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "BSgenome",
@@ -9210,7 +8691,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9225,7 +8705,6 @@
     "DelayedArray",
     "GenomicRanges",
     "KEGGREST",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb",
     "Biostrings"
@@ -9234,7 +8713,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9249,7 +8727,6 @@
     "Biostrings",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9259,7 +8736,6 @@
     "SummarizedExperiment",
     "SparseArray",
     "DelayedArray",
-    "S4Arrays",
     "GenomicRanges",
     "GenomeInfoDb"
   ],
@@ -9267,7 +8743,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9289,7 +8764,6 @@
     "BSgenome",
     "biovizBase",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray"
@@ -9301,8 +8775,7 @@
   ],
   "TileDBArray": [
     "SparseArray",
-    "DelayedArray",
-    "S4Arrays"
+    "DelayedArray"
   ],
   "TissueEnrich": [
     "SummarizedExperiment",
@@ -9311,7 +8784,6 @@
     "AnnotationDbi",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -9330,7 +8802,6 @@
     "GenomicFeatures",
     "KEGGREST",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9346,7 +8817,6 @@
     "BumpyMatrix",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "marray"
@@ -9357,7 +8827,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "TreeSummarizedExperiment": [
@@ -9368,14 +8837,12 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "Trendy": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9389,7 +8856,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "UMI4Cats": [
@@ -9409,7 +8875,6 @@
     "AnnotationDbi",
     "rtracklayer",
     "pwalign",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray"
@@ -9427,7 +8892,6 @@
     "GenomicFeatures",
     "KEGGREST",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9449,7 +8913,6 @@
     "AnnotationFilter",
     "plyranges",
     "rhdf5",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9472,7 +8935,6 @@
     "GenomicFeatures",
     "KEGGREST",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9489,7 +8951,6 @@
     "BiocSingular",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "ScaledMatrix"
   ],
   "VCFArray": [
@@ -9498,7 +8959,6 @@
     "VariantAnnotation",
     "GenomicFiles",
     "Rsamtools",
-    "S4Arrays",
     "SparseArray",
     "SummarizedExperiment",
     "rtracklayer",
@@ -9516,7 +8976,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "VaSP": [
@@ -9529,7 +8988,6 @@
     "rtracklayer",
     "SummarizedExperiment",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "SparseArray",
@@ -9545,7 +9003,6 @@
     "crlmm",
     "BSgenome",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "rtracklayer",
     "Rsamtools",
@@ -9561,7 +9018,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9577,7 +9033,6 @@
     "GenomicFeatures",
     "KEGGREST",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9592,7 +9047,6 @@
     "DelayedArray",
     "Biostrings",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "VariantFiltering": [
@@ -9618,7 +9072,6 @@
     "ensembldb",
     "biovizBase",
     "GenomicAlignments",
-    "S4Arrays",
     "AnnotationFilter",
     "SparseArray",
     "ProtGenerics",
@@ -9637,7 +9090,6 @@
     "GenomicAlignments",
     "SummarizedExperiment",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9666,7 +9118,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "HDF5Array",
     "rhdf5",
     "SparseArray",
@@ -9679,7 +9130,6 @@
     "SingleCellExperiment",
     "SpatialExperiment",
     "SummarizedExperiment",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "DropletUtils",
@@ -9698,7 +9148,6 @@
     "Rsamtools",
     "SummarizedExperiment",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9706,7 +9155,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9719,9 +9167,7 @@
     "Biostrings",
     "GenomeInfoDb"
   ],
-  "XINA": [
-    "STRINGdb"
-  ],
+  "XINA": [],
   "XNAString": [
     "Biostrings",
     "pwalign",
@@ -9732,7 +9178,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -9745,7 +9190,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "HDF5Array",
     "rhdf5",
     "SparseArray",
@@ -9761,7 +9205,6 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "marray"
   ],
@@ -9785,7 +9228,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationFilter",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "ProtGenerics",
@@ -9799,7 +9241,6 @@
     "Rsamtools",
     "VariantAnnotation",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb",
     "SummarizedExperiment",
@@ -9847,7 +9288,6 @@
   ],
   "adverSCarial": [
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "affxparser": [],
@@ -9893,7 +9333,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationFilter",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "ProtGenerics",
@@ -9914,7 +9353,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "airpart": [
@@ -9929,7 +9367,6 @@
     "beachmat",
     "BiocSingular",
     "GenomeInfoDb",
-    "S4Arrays",
     "ScaledMatrix"
   ],
   "alabaster": [
@@ -9947,7 +9384,6 @@
     "BumpyMatrix",
     "MultiAssayExperiment",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "HDF5Array",
     "GenomicRanges",
@@ -9992,7 +9428,6 @@
     "alabaster.matrix",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "HDF5Array",
     "GenomeInfoDb",
@@ -10001,7 +9436,6 @@
   "alabaster.matrix": [
     "alabaster.base",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "rhdf5",
     "HDF5Array",
@@ -10023,7 +9457,6 @@
     "alabaster.matrix",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "HDF5Array",
     "GenomeInfoDb",
@@ -10037,7 +9470,6 @@
     "GenomicRanges",
     "rhdf5",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "HDF5Array",
     "GenomeInfoDb",
@@ -10058,7 +9490,6 @@
     "DelayedArray",
     "DropletUtils",
     "GenomeInfoDb",
-    "S4Arrays",
     "alabaster.ranges",
     "alabaster.matrix",
     "SparseArray",
@@ -10081,7 +9512,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "HDF5Array",
     "h5mread"
@@ -10110,16 +9540,13 @@
     "BSgenome",
     "GenomicFeatures",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "HDF5Array",
     "KEGGREST",
     "GenomicAlignments",
     "h5mread"
   ],
-  "alevinQC": [
-    "tximport"
-  ],
+  "alevinQC": [],
   "altcdfenvs": [
     "Biostrings",
     "hypergraph",
@@ -10134,7 +9561,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10145,7 +9571,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "annaffy": [
@@ -10184,7 +9609,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10193,7 +9617,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10208,7 +9631,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10229,7 +9651,6 @@
     "DelayedArray",
     "HDF5Array",
     "OrganismDbi",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray",
     "h5mread",
@@ -10259,7 +9680,6 @@
     "HDF5Array",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rhdf5"
@@ -10299,7 +9719,6 @@
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10314,7 +9733,6 @@
     "AnnotationDbi",
     "Biostrings",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray"
@@ -10338,14 +9756,12 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "awst": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10362,7 +9778,6 @@
     "annotate",
     "SummarizedExperiment",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10377,7 +9792,6 @@
     "Biostrings",
     "rtracklayer",
     "AnnotationDbi",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray"
@@ -10408,7 +9822,6 @@
     "MetaboCoreUtils",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "Biostrings"
@@ -10417,7 +9830,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10425,7 +9837,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10438,7 +9849,6 @@
     "GenomicRanges",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10453,7 +9863,6 @@
     "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
-    "S4Arrays",
     "GenomicRanges",
     "GenomeInfoDb"
   ],
@@ -10463,7 +9872,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "baySeq": [
@@ -10476,15 +9884,13 @@
   ],
   "beachmat": [
     "DelayedArray",
-    "SparseArray",
-    "S4Arrays"
+    "SparseArray"
   ],
   "beachmat.hdf5": [
     "beachmat",
     "HDF5Array",
     "DelayedArray",
     "SparseArray",
-    "S4Arrays",
     "h5mread",
     "rhdf5"
   ],
@@ -10492,8 +9898,7 @@
     "beachmat",
     "TileDBArray",
     "DelayedArray",
-    "SparseArray",
-    "S4Arrays"
+    "SparseArray"
   ],
   "beadarray": [
     "AnnotationDbi",
@@ -10510,7 +9915,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10519,7 +9923,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10540,7 +9943,6 @@
     "Biostrings",
     "biomformat",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "treeio",
     "genefilter",
@@ -10554,7 +9956,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10562,7 +9963,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10587,7 +9987,6 @@
     "lumi",
     "ROC",
     "KEGGREST",
-    "S4Arrays",
     "SparseArray",
     "rtracklayer",
     "h5mread",
@@ -10617,7 +10016,6 @@
     "ggtree",
     "Biostrings",
     "DelayedArray",
-    "S4Arrays",
     "GenomicFeatures",
     "GenomicDataCommons",
     "SparseArray",
@@ -10682,7 +10080,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10694,14 +10091,12 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "biotmle": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10720,7 +10115,6 @@
     "KEGGREST",
     "rtracklayer",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "BSgenome",
     "SparseArray"
@@ -10748,7 +10142,6 @@
     "bumphunter",
     "annotatr",
     "h5mread",
-    "S4Arrays",
     "AnnotationDbi",
     "OrganismDbi",
     "GenomicFeatures",
@@ -10768,7 +10161,6 @@
     "DEXSeq",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "DESeq2",
@@ -10797,7 +10189,6 @@
     "GenomeInfoDb",
     "sva",
     "HiCBricks",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "SparseArray",
@@ -10836,7 +10227,6 @@
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
-    "S4Arrays",
     "h5mread",
     "GenomicAlignments"
   ],
@@ -10852,7 +10242,6 @@
     "GenomicAlignments",
     "KEGGREST",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10863,7 +10252,6 @@
     "GenomicAlignments",
     "SummarizedExperiment",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10882,7 +10270,6 @@
     "GenomicRanges",
     "annotate",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -10904,7 +10291,6 @@
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
-    "S4Arrays",
     "h5mread",
     "GenomicAlignments"
   ],
@@ -10919,7 +10305,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -10932,7 +10317,6 @@
     "SummarizedExperiment",
     "TCGAutils",
     "DelayedArray",
-    "S4Arrays",
     "AnnotationDbi",
     "GenomicFeatures",
     "GenomicDataCommons",
@@ -10975,7 +10359,6 @@
     "ProtGenerics",
     "RBGL",
     "txdbmaker",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "SparseArray",
@@ -11003,7 +10386,6 @@
     "KEGGREST",
     "RBGL",
     "DelayedArray",
-    "S4Arrays",
     "GenomicFeatures",
     "GenomicDataCommons",
     "SparseArray",
@@ -11029,7 +10411,6 @@
     "GenomicFeatures",
     "KEGGREST",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11046,7 +10427,6 @@
     "GenomicAlignments",
     "KEGGREST",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11078,7 +10458,6 @@
     "annotate",
     "KEGGREST",
     "DelayedArray",
-    "S4Arrays",
     "GenomicFeatures",
     "GenomicDataCommons",
     "SparseArray",
@@ -11093,7 +10472,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "ccfindR": [
@@ -11102,7 +10480,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "ccmap": [
@@ -11115,7 +10492,6 @@
     "SummarizedExperiment",
     "MAST",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "SingleCellExperiment",
     "GenomicRanges",
@@ -11127,7 +10503,6 @@
     "scater",
     "scran",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "scuttle",
     "beachmat",
@@ -11157,7 +10532,6 @@
     "FlowSOM",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "cytolib",
@@ -11174,7 +10548,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11225,7 +10598,6 @@
     "DelayedArray",
     "beachmat",
     "BiocSingular",
-    "S4Arrays",
     "GenomicRanges",
     "rtracklayer",
     "GenomeInfoDb",
@@ -11266,7 +10638,6 @@
     "Rsamtools",
     "ProtGenerics",
     "Biostrings",
-    "S4Arrays",
     "KEGGREST",
     "GenomicAlignments"
   ],
@@ -11297,7 +10668,6 @@
     "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
-    "S4Arrays",
     "AnnotationFilter",
     "AnnotationDbi",
     "Rsamtools",
@@ -11310,7 +10680,6 @@
     "DelayedArray",
     "rhdf5",
     "HDF5Array",
-    "S4Arrays",
     "SparseArray",
     "h5mread"
   ],
@@ -11333,7 +10702,6 @@
     "BSgenome",
     "biovizBase",
     "VariantAnnotation",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11347,7 +10715,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11360,7 +10727,6 @@
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11385,7 +10751,6 @@
     "SummarizedExperiment",
     "BSgenome",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "pwalign",
     "SparseArray",
@@ -11413,7 +10778,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11436,7 +10800,6 @@
     "GenomicAlignments",
     "KEGGREST",
     "zlibbioc",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11450,7 +10813,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11467,7 +10829,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11485,7 +10846,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11504,7 +10864,6 @@
     "QFeatures",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "MultiAssayExperiment",
@@ -11531,7 +10890,6 @@
     "BiocSingular",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "ScaledMatrix"
   ],
   "clusterExperiment": [
@@ -11544,7 +10902,6 @@
     "mbkmeans",
     "ScaledMatrix",
     "beachmat",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rhdf5",
@@ -11578,7 +10935,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "cmapR": [
@@ -11589,7 +10945,6 @@
     "RProtoBufLib",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11602,7 +10957,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11630,7 +10984,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11667,7 +11020,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "VariantAnnotation",
@@ -11682,7 +11034,6 @@
     "Biostrings",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "rhdf5",
     "SparseArray"
@@ -11706,7 +11057,6 @@
     "ensembldb",
     "BSgenome",
     "biovizBase",
-    "S4Arrays",
     "DelayedArray",
     "VariantAnnotation",
     "AnnotationFilter",
@@ -11720,7 +11070,6 @@
     "SingleCellExperiment",
     "SpatialExperiment",
     "SummarizedExperiment",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "GenomeInfoDb"
@@ -11735,7 +11084,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "scuttle",
     "beachmat",
@@ -11748,7 +11096,6 @@
     "AnnotationDbi",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -11774,7 +11121,6 @@
     "AnnotationFilter",
     "rtracklayer",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "pwalign"
@@ -11794,7 +11140,6 @@
     "ScaledMatrix",
     "beachmat",
     "AnnotationDbi",
-    "S4Arrays",
     "SparseArray",
     "annotate",
     "h5mread",
@@ -11812,7 +11157,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11834,7 +11178,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "AnnotationDbi",
-    "S4Arrays",
     "SparseArray",
     "annotate",
     "h5mread",
@@ -11851,7 +11194,6 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "coseq": [
@@ -11860,7 +11202,6 @@
     "HTSFilter",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11879,7 +11220,6 @@
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "MultiAssayExperiment",
@@ -11903,7 +11243,6 @@
     "AnnotationDbi",
     "annotate",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -11930,7 +11269,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11950,7 +11288,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11964,7 +11301,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11989,7 +11325,6 @@
     "SummarizedExperiment",
     "ExperimentHub",
     "AnnotationHub",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12030,7 +11365,6 @@
     "SummarizedExperiment",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12062,7 +11396,6 @@
     "SummarizedExperiment",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12093,7 +11426,6 @@
     "ProtGenerics",
     "ExperimentHub",
     "AnnotationHub",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12103,7 +11435,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12115,7 +11446,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -12131,7 +11461,6 @@
     "zlibbioc",
     "Biostrings",
     "AnnotationDbi",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray"
@@ -12142,7 +11471,6 @@
     "Rsamtools",
     "GenomeInfoDb",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12172,7 +11500,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12198,7 +11525,6 @@
     "KEGGREST",
     "SummarizedExperiment",
     "BSgenome",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12211,8 +11537,7 @@
     "flowViz"
   ],
   "cycle": [
-    "Mfuzz",
-    "tkWidgets"
+    "Mfuzz"
   ],
   "cydar": [
     "SingleCellExperiment",
@@ -12223,7 +11548,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "cypress": [
@@ -12232,7 +11556,6 @@
     "DESeq2",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "EpiDISH",
     "SparseArray"
@@ -12241,7 +11564,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12263,7 +11585,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "scuttle",
     "beachmat",
@@ -12280,7 +11601,6 @@
     "DelayedArray",
     "SummarizedExperiment",
     "rhdf5",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "GenomicRanges",
@@ -12296,7 +11616,6 @@
     "rhdf5",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "h5mread"
   ],
@@ -12310,7 +11629,6 @@
     "GenomicRanges",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12330,7 +11648,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12344,7 +11661,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "ScaledMatrix",
     "beachmat",
     "SparseArray"
@@ -12366,7 +11682,6 @@
     "biomformat",
     "rhdf5",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "beachmat",
@@ -12398,7 +11713,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12418,7 +11732,6 @@
     "GOSemSim",
     "ggtree",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "SparseArray",
@@ -12435,7 +11748,6 @@
     "BSgenome",
     "AnnotationDbi",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "Rsamtools",
     "KEGGREST",
@@ -12449,7 +11761,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "scran",
-    "S4Arrays",
     "SparseArray",
     "scuttle",
     "beachmat",
@@ -12477,7 +11788,6 @@
     "HDF5Array",
     "GenomicFeatures",
     "AnnotationDbi",
-    "S4Arrays",
     "SparseArray",
     "annotate",
     "h5mread",
@@ -12492,7 +11802,6 @@
     "Biostrings",
     "VariantAnnotation",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "Rsamtools",
     "AnnotationDbi",
@@ -12508,7 +11817,6 @@
     "SummarizedExperiment",
     "DESeq2",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12527,7 +11835,6 @@
     "ProtGenerics",
     "Biostrings",
     "DelayedArray",
-    "S4Arrays",
     "BSgenome",
     "KEGGREST",
     "SparseArray",
@@ -12547,7 +11854,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "VariantAnnotation",
-    "S4Arrays",
     "DelayedArray",
     "BSgenome",
     "SparseArray"
@@ -12576,7 +11882,6 @@
     "ProtGenerics",
     "RBGL",
     "txdbmaker",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "biomaRt"
@@ -12587,7 +11892,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "diffGeneAnalysis": [],
@@ -12603,7 +11907,6 @@
     "GenomeInfoDb",
     "rtracklayer",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12625,7 +11928,6 @@
     "ProtGenerics",
     "Biostrings",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -12635,7 +11937,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
     "KEGGREST",
@@ -12651,7 +11952,6 @@
     "ConsensusClusterPlus",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12662,7 +11962,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12678,7 +11977,6 @@
     "BiocSingular",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "ScaledMatrix"
   ],
   "dittoSeq": [
@@ -12687,14 +11985,12 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "divergence": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12721,7 +12017,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "KEGGREST",
-    "S4Arrays",
     "h5mread"
   ],
   "dominoSignal": [
@@ -12736,7 +12031,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "SparseArray",
@@ -12749,7 +12043,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12767,7 +12060,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12778,7 +12070,6 @@
     "DelayedMatrixStats",
     "GSEABase",
     "zenith",
-    "S4Arrays",
     "SparseArray",
     "DelayedArray",
     "beachmat",
@@ -12788,7 +12079,6 @@
     "GenomeInfoDb",
     "EnrichmentBrowser",
     "KEGGREST",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
@@ -12810,7 +12100,6 @@
     "KEGGREST",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12828,7 +12117,6 @@
     "AnnotationHub",
     "AnnotationDbi",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -12846,7 +12134,6 @@
     "ShortRead",
     "AnnotationDbi",
     "pwalign",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray"
@@ -12859,7 +12146,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12877,7 +12163,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12893,7 +12178,6 @@
     "TFBSTools",
     "SummarizedExperiment",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12932,7 +12216,6 @@
     "KEGGREST",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12953,7 +12236,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -12965,7 +12247,6 @@
     "beadarray",
     "AnnotationDbi",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray"
@@ -12984,7 +12265,6 @@
     "GenomicAlignments",
     "BSgenome",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13016,7 +12296,6 @@
     "GEOquery",
     "DelayedArray",
     "HDF5Array",
-    "S4Arrays",
     "VariantAnnotation",
     "SparseArray",
     "annotate",
@@ -13051,7 +12330,6 @@
     "HDF5Array",
     "rhdf5",
     "alabaster.matrix",
-    "S4Arrays",
     "BiocSingular",
     "alabaster.base",
     "KEGGREST",
@@ -13077,7 +12355,6 @@
     "DelayedArray",
     "beachmat",
     "BiocSingular",
-    "S4Arrays",
     "bluster",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -13091,7 +12368,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13114,7 +12390,6 @@
     "Biostrings",
     "RBGL",
     "txdbmaker",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "GenomicAlignments",
@@ -13136,7 +12411,6 @@
     "Biostrings",
     "RBGL",
     "txdbmaker",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -13158,7 +12432,6 @@
     "Biostrings",
     "RBGL",
     "txdbmaker",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -13185,7 +12458,6 @@
     "ProtGenerics",
     "RBGL",
     "txdbmaker",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "biomaRt"
@@ -13204,7 +12476,6 @@
     "OrganismDbi",
     "GenomicFeatures",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "RBGL",
@@ -13236,7 +12507,6 @@
     "SummarizedExperiment",
     "pwalign",
     "ggtree",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "treeio"
@@ -13259,7 +12529,6 @@
     "AnnotationHub",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "KEGGREST",
     "ScaledMatrix",
     "beachmat",
@@ -13275,7 +12544,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "esetVis": [
@@ -13297,7 +12565,6 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "extraChIPs": [
@@ -13310,7 +12577,6 @@
     "rtracklayer",
     "Biostrings",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13325,7 +12591,6 @@
     "seqPattern",
     "rtracklayer",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13341,7 +12606,6 @@
     "GenomicAlignments",
     "KEGGREST",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13377,7 +12641,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
     "BSgenome",
@@ -13408,7 +12671,6 @@
     "GEOquery",
     "DelayedArray",
     "HDF5Array",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rhdf5",
@@ -13422,7 +12684,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13432,7 +12693,6 @@
     "SingleCellExperiment",
     "GenomeInfoDb",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "flagme": [
@@ -13452,7 +12712,6 @@
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "MultiAssayExperiment",
@@ -13522,7 +12781,6 @@
     "RBGL",
     "ncdfFlow",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "flowMatch": [
@@ -13561,7 +12819,6 @@
     "RProtoBufLib",
     "RBGL",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "flowTime": [
@@ -13586,7 +12843,6 @@
     "ncdfFlow",
     "RBGL",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "flowViz": [
@@ -13601,7 +12857,6 @@
     "flowCore",
     "ncdfFlow",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "fmcsR": [],
@@ -13614,7 +12869,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13638,7 +12892,6 @@
     "HDF5Array",
     "GenomicFeatures",
     "AnnotationDbi",
-    "S4Arrays",
     "SparseArray",
     "annotate",
     "h5mread",
@@ -13652,7 +12905,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13670,7 +12922,6 @@
     "KEGGREST",
     "rtracklayer",
     "VariantAnnotation",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "BSgenome"
@@ -13688,7 +12939,6 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "marray"
   ],
@@ -13700,7 +12950,6 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "gDRimport": [
@@ -13714,7 +12963,6 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "marray"
   ],
@@ -13730,7 +12978,6 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "gINTomics": [
@@ -13757,7 +13004,6 @@
     "treeio",
     "DelayedArray",
     "graphite",
-    "S4Arrays",
     "SparseArray",
     "Rsamtools",
     "GenomicAlignments"
@@ -13788,7 +13034,6 @@
     "GenomicAlignments",
     "rtracklayer",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13807,7 +13052,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13822,7 +13066,6 @@
     "GenomicAlignments",
     "KEGGREST",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13840,7 +13083,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13876,7 +13118,6 @@
     "seqPattern",
     "rtracklayer",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13888,7 +13129,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13912,7 +13152,6 @@
     "ensembldb",
     "BSgenome",
     "biovizBase",
-    "S4Arrays",
     "DelayedArray",
     "VariantAnnotation",
     "AnnotationFilter",
@@ -13932,7 +13171,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13940,7 +13178,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13949,7 +13186,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -13973,7 +13209,6 @@
     "ProtGenerics",
     "RBGL",
     "txdbmaker",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "biomaRt"
@@ -13986,7 +13221,6 @@
     "RProtoBufLib",
     "RBGL",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "ggmanh": [
@@ -14009,7 +13243,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "ggseqalign": [
@@ -14024,7 +13257,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "ggtree": [
@@ -14059,7 +13291,6 @@
     "GenomicRanges",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14071,7 +13302,6 @@
     "HDF5Array",
     "SummarizedExperiment",
     "SingleCellExperiment",
-    "S4Arrays",
     "h5mread",
     "rhdf5",
     "GenomicRanges",
@@ -14086,7 +13316,6 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "GenomicFeatures",
     "GenomicDataCommons",
     "RaggedExperiment",
@@ -14117,7 +13346,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14132,7 +13360,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14181,7 +13408,6 @@
     "GenomicAlignments",
     "SummarizedExperiment",
     "biomaRt",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14201,7 +13427,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "Rsamtools",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14209,14 +13434,12 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
   "gsean": [
     "PPInfer",
     "biomaRt",
-    "STRINGdb",
     "AnnotationDbi",
     "KEGGREST",
     "Biostrings",
@@ -14242,7 +13465,6 @@
     "Rsamtools",
     "BSgenome",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14255,7 +13477,6 @@
     "DNAcopy",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "Rsamtools",
     "Biostrings",
@@ -14269,8 +13490,7 @@
   ],
   "h5mread": [
     "rhdf5",
-    "SparseArray",
-    "S4Arrays"
+    "SparseArray"
   ],
   "h5vc": [
     "rhdf5",
@@ -14291,7 +13511,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "heatmaps": [
@@ -14308,7 +13527,6 @@
     "AnnotationDbi",
     "GenomeInfoDb",
     "DelayedArray",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray",
     "Biostrings"
@@ -14322,7 +13540,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14337,7 +13554,6 @@
     "Rsamtools",
     "rtracklayer",
     "BSgenome",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14350,7 +13566,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14360,7 +13575,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "AnnotationDbi",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -14374,7 +13588,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14390,7 +13603,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14410,7 +13622,6 @@
     "rtracklayer",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14435,7 +13646,6 @@
     "HDF5Array",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rhdf5"
@@ -14460,7 +13670,6 @@
     "clusterProfiler",
     "ReactomePA",
     "DOSE",
-    "S4Arrays",
     "KEGGREST",
     "enrichplot",
     "GOSemSim",
@@ -14485,7 +13694,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "iSEEde": [
@@ -14495,7 +13703,6 @@
     "GenomicRanges",
     "SingleCellExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14508,7 +13715,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "iSEEhex": [
@@ -14517,7 +13723,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14531,7 +13736,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray",
     "Biostrings"
@@ -14543,7 +13747,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "iSEEpathways": [
@@ -14552,7 +13755,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14575,7 +13777,6 @@
     "scuttle",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "beachmat",
     "BiocSingular",
@@ -14589,14 +13790,12 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "iasva": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14615,7 +13814,6 @@
     "GenomeInfoDb",
     "AnnotationDbi",
     "pwalign",
-    "S4Arrays",
     "DelayedArray",
     "BSgenome",
     "KEGGREST",
@@ -14627,7 +13825,6 @@
     "SummarizedExperiment",
     "mosdef",
     "GenomicRanges",
-    "IHW",
     "goseq",
     "GOstats",
     "AnnotationDbi",
@@ -14640,7 +13837,6 @@
     "annotate",
     "AnnotationForge",
     "clusterProfiler",
-    "S4Arrays",
     "DelayedArray",
     "GSEABase",
     "genefilter",
@@ -14684,7 +13880,6 @@
     "BSgenome",
     "GenomicFeatures",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14702,7 +13897,6 @@
     "DelayedArray",
     "rhdf5",
     "GenomicRanges",
-    "S4Arrays",
     "SparseArray",
     "beachmat",
     "GenomeInfoDb",
@@ -14713,7 +13907,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -14736,7 +13929,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "infinityFlow": [
@@ -14765,7 +13957,6 @@
     "ProtGenerics",
     "RBGL",
     "txdbmaker",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "biomaRt"
@@ -14809,7 +14000,6 @@
     "KEGGREST",
     "ConsensusClusterPlus",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "Biostrings"
@@ -14820,7 +14010,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14832,7 +14021,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "karyoploteR": [
@@ -14855,7 +14043,6 @@
     "AnnotationFilter",
     "BSgenome",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14876,7 +14063,6 @@
     "AnnotationDbi",
     "GenomicFeatures",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14904,7 +14090,6 @@
     "HDF5Array",
     "rhdf5",
     "beachmat",
-    "S4Arrays",
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
@@ -14915,7 +14100,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14945,7 +14129,6 @@
     "scuttle",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "beachmat",
     "BiocSingular",
@@ -14961,7 +14144,6 @@
     "SparseArray",
     "beachmat",
     "h5mread",
-    "S4Arrays",
     "rhdf5",
     "GenomicRanges",
     "GenomeInfoDb"
@@ -14974,7 +14156,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -14983,7 +14164,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "Rsamtools",
     "Biostrings",
@@ -14999,7 +14179,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -15010,7 +14189,6 @@
     "MultiDataSet",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -15025,7 +14203,6 @@
     "DelayedArray",
     "ClassifyR",
     "GenomeInfoDb",
-    "S4Arrays",
     "MultiAssayExperiment",
     "genefilter",
     "dcanr",
@@ -15064,7 +14241,6 @@
     "HDF5Array",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rhdf5"
@@ -15074,7 +14250,6 @@
     "SingleCellExperiment",
     "scran",
     "scuttle",
-    "S4Arrays",
     "DelayedArray",
     "BiocSingular",
     "bluster",
@@ -15097,7 +14272,6 @@
     "AnnotationDbi",
     "SummarizedExperiment",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -15110,7 +14284,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -15130,7 +14303,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "OrganismDbi",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "VariantAnnotation",
@@ -15155,7 +14327,6 @@
     "TreeSummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SingleCellExperiment",
     "Biostrings",
@@ -15166,7 +14337,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -15187,7 +14357,6 @@
     "GenomeInfoDb",
     "Biostrings",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -15202,7 +14371,6 @@
     "SummarizedExperiment",
     "rhdf5",
     "plotgardener",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rtracklayer",
@@ -15214,7 +14382,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -15242,7 +14409,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -15263,7 +14429,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "Biostrings"
   ],
@@ -15276,7 +14441,6 @@
     "SummarizedExperiment",
     "beachmat",
     "SparseArray",
-    "S4Arrays",
     "GenomicRanges",
     "GenomeInfoDb"
   ],
@@ -15334,7 +14498,6 @@
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "MultiAssayExperiment",
@@ -15349,10 +14512,8 @@
     "GenomicRanges",
     "rols",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
-  "metabomxtr": [],
   "metagene2": [
     "GenomicRanges",
     "rtracklayer",
@@ -15361,7 +14522,6 @@
     "Rsamtools",
     "SummarizedExperiment",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -15385,7 +14545,6 @@
     "bsseq",
     "ShortRead",
     "annotate",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "DelayedMatrixStats",
@@ -15407,7 +14566,6 @@
     "Biostrings",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -15435,7 +14593,6 @@
     "regioneR",
     "biocViews",
     "Rsamtools",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "GenomicAlignments",
@@ -15453,7 +14610,6 @@
     "GenomeInfoDb",
     "Biostrings",
     "Rsamtools",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rhdf5",
@@ -15463,7 +14619,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -15492,7 +14647,6 @@
     "Rsamtools",
     "KEGGREST",
     "SparseArray",
-    "S4Arrays",
     "h5mread"
   ],
   "methylGSA": [
@@ -15518,7 +14672,6 @@
     "GEOquery",
     "DelayedArray",
     "HDF5Array",
-    "S4Arrays",
     "SparseArray",
     "rtracklayer",
     "treeio",
@@ -15537,7 +14690,6 @@
     "Biostrings",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -15550,7 +14702,6 @@
     "Biostrings",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -15571,7 +14722,6 @@
     "ensembldb",
     "BSgenome",
     "biovizBase",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "VariantAnnotation",
@@ -15592,7 +14742,6 @@
     "HDF5Array",
     "rhdf5",
     "beachmat",
-    "S4Arrays",
     "SparseArray",
     "rtracklayer",
     "Rsamtools",
@@ -15616,7 +14765,6 @@
     "HDF5Array",
     "AnnotationDbi",
     "GenomicFeatures",
-    "S4Arrays",
     "SparseArray",
     "AnnotationHubData",
     "annotate",
@@ -15640,7 +14788,6 @@
     "SummarizedExperiment",
     "GenomeInfoDb",
     "GenomicRanges",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -15661,7 +14808,6 @@
     "GEOquery",
     "DelayedArray",
     "HDF5Array",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rhdf5",
@@ -15673,11 +14819,9 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
-  "miRBaseConverter": [],
   "miRLAB": [
     "TCGAbiolinks",
     "SummarizedExperiment",
@@ -15692,7 +14836,6 @@
     "AnnotationForge",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "biomaRt",
     "KEGGREST",
@@ -15725,7 +14868,6 @@
     "graphite",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -15762,7 +14904,6 @@
     "scater",
     "scuttle",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "beachmat",
@@ -15794,7 +14935,6 @@
     "BiocSingular",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "treeio",
     "ScaledMatrix"
   ],
@@ -15803,7 +14943,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SingleCellExperiment",
     "Biostrings",
@@ -15818,7 +14957,6 @@
     "ggtree",
     "scater",
     "SingleCellExperiment",
-    "S4Arrays",
     "SparseArray",
     "treeio",
     "MultiAssayExperiment",
@@ -15846,7 +14984,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "microbiome": [
@@ -15870,7 +15007,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -15880,7 +15016,6 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "miloR": [
@@ -15892,7 +15027,6 @@
     "beachmat",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "mimager": [
@@ -15905,11 +15039,9 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
-  "mina": [],
   "minfi": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -15923,7 +15055,6 @@
     "HDF5Array",
     "GenomicFeatures",
     "AnnotationDbi",
-    "S4Arrays",
     "SparseArray",
     "annotate",
     "h5mread",
@@ -15957,7 +15088,6 @@
     "GEOquery",
     "DelayedArray",
     "HDF5Array",
-    "S4Arrays",
     "SparseArray",
     "rtracklayer",
     "h5mread",
@@ -15970,7 +15100,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "GenomicRanges",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -15984,7 +15113,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "mitch": [],
@@ -15995,7 +15123,6 @@
     "Biostrings",
     "VariantAnnotation",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "Rsamtools",
     "AnnotationDbi",
@@ -16022,7 +15149,6 @@
     "topGO",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
     "KEGGREST",
@@ -16038,7 +15164,6 @@
     "SummarizedExperiment",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16061,7 +15186,6 @@
     "TFBSTools",
     "rtracklayer",
     "Rsamtools",
-    "S4Arrays",
     "DelayedArray",
     "pwalign",
     "SparseArray",
@@ -16078,7 +15202,6 @@
     "GenomeInfoDb",
     "SummarizedExperiment",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16098,7 +15221,6 @@
     "rtracklayer",
     "GenomicFeatures",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "ggtree",
@@ -16120,7 +15242,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16150,7 +15271,6 @@
     "biovizBase",
     "GenomicAlignments",
     "TFBSTools",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "AnnotationFilter",
@@ -16170,7 +15290,6 @@
     "Rsamtools",
     "GenomeInfoDb",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "pwalign",
     "SparseArray",
@@ -16180,7 +15299,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16189,7 +15307,6 @@
     "SingleCellExperiment",
     "scuttle",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "BiocSingular",
     "bluster",
@@ -16228,7 +15345,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationFilter",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -16259,7 +15375,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "msmsTests": [
@@ -16278,7 +15393,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "mspms": [
@@ -16289,7 +15403,6 @@
     "AnnotationFilter",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16302,7 +15415,6 @@
     "ProtGenerics",
     "AnnotationFilter",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "multiClust": [
@@ -16323,7 +15435,6 @@
     "InteractionSet",
     "rhdf5",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16338,7 +15449,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
     "KEGGREST",
@@ -16370,7 +15480,6 @@
     "SummarizedExperiment",
     "ensembldb",
     "AnnotationFilter",
-    "S4Arrays",
     "SparseArray",
     "ProtGenerics"
   ],
@@ -16379,7 +15488,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16396,7 +15504,6 @@
     "batchelor",
     "SparseArray",
     "ResidualMatrix",
-    "S4Arrays",
     "bluster",
     "GenomicRanges",
     "GenomeInfoDb"
@@ -16413,7 +15520,6 @@
     "DelayedArray",
     "beachmat",
     "BiocSingular",
-    "S4Arrays",
     "GenomeInfoDb",
     "ScaledMatrix"
   ],
@@ -16436,7 +15542,6 @@
     "AnnotationDbi",
     "DNAcopy",
     "zlibbioc",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -16455,7 +15560,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16472,7 +15576,6 @@
     "GenomicFeatures",
     "KEGGREST",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16497,7 +15600,6 @@
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "MultiAssayExperiment",
@@ -16524,7 +15626,6 @@
     "AnnotationDbi",
     "KEGGREST",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16544,7 +15645,6 @@
     "BiocSingular",
     "zinbwave",
     "mbkmeans",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rhdf5",
@@ -16576,7 +15676,6 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "nnNorm": [
@@ -16589,7 +15688,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "normalize450K": [],
@@ -16603,7 +15701,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16624,7 +15721,6 @@
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16638,7 +15734,6 @@
     "GenomicAlignments",
     "Rsamtools",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16669,7 +15764,6 @@
     "ScaledMatrix",
     "beachmat",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "rtracklayer",
     "annotate",
@@ -16690,7 +15784,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16699,7 +15792,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16716,7 +15808,6 @@
     "Spectra",
     "QFeatures",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "AnnotationFilter",
     "MetaboCoreUtils"
@@ -16730,7 +15821,6 @@
     "GenomicRanges",
     "made4",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "SparseArray",
@@ -16744,7 +15834,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16753,7 +15842,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16764,14 +15852,12 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "omicsViewer": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16779,7 +15865,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -16793,7 +15878,6 @@
     "AnnotationDbi",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -16809,7 +15893,6 @@
     "cytolib",
     "RProtoBufLib",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "openPrimeR": [
@@ -16841,7 +15924,6 @@
     "KEGGREST",
     "ScaledMatrix",
     "beachmat",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rhdf5",
@@ -16858,7 +15940,6 @@
   "orthogene": [
     "DelayedArray",
     "ggtree",
-    "S4Arrays",
     "SparseArray",
     "treeio"
   ],
@@ -16869,7 +15950,6 @@
     "ExperimentHub",
     "HDF5Array",
     "AnnotationDbi",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rhdf5",
@@ -16895,7 +15975,6 @@
     "QFeatures",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "Biostrings",
@@ -16924,7 +16003,6 @@
     "MetaboCoreUtils",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "Biostrings"
@@ -16940,7 +16018,6 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "pageRank": [
@@ -16953,7 +16030,6 @@
     "SummarizedExperiment",
     "Rsamtools",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "pwalign",
     "SparseArray",
@@ -16971,7 +16047,6 @@
     "geneplotter",
     "genefilter",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -16984,7 +16059,6 @@
     "Biostrings",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17005,7 +16079,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "KEGGREST",
-    "S4Arrays",
     "SparseArray",
     "Biostrings"
   ],
@@ -17023,7 +16096,6 @@
     "BiocSingular",
     "ScaledMatrix",
     "beachmat",
-    "S4Arrays",
     "SparseArray",
     "annotate",
     "AnnotationDbi",
@@ -17076,7 +16148,6 @@
     "AnnotationForge",
     "clusterProfiler",
     "goseq",
-    "S4Arrays",
     "DelayedArray",
     "GSEABase",
     "DOSE",
@@ -17100,7 +16171,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17119,7 +16189,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "peco": [
@@ -17133,7 +16202,6 @@
     "BiocSingular",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "ScaledMatrix"
   ],
   "pengls": [],
@@ -17150,7 +16218,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17158,7 +16225,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17174,7 +16240,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb",
     "Biostrings"
@@ -17182,7 +16247,6 @@
   "phantasusLite": [
     "rhdf5client",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "phenoTest": [
@@ -17207,14 +16271,12 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "phenopath": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17241,7 +16303,6 @@
     "DelayedArray",
     "beachmat",
     "BiocSingular",
-    "S4Arrays",
     "bluster",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -17256,7 +16317,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17265,7 +16325,6 @@
     "SummarizedExperiment",
     "GenomeInfoDb",
     "GenomicRanges",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17279,7 +16338,6 @@
     "Rsamtools",
     "SummarizedExperiment",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17293,7 +16351,6 @@
     "GenomicAlignments",
     "Rsamtools",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17305,7 +16362,6 @@
     "Rsamtools",
     "SummarizedExperiment",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17313,7 +16369,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17321,7 +16376,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17334,7 +16388,6 @@
     "rtracklayer",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17345,7 +16398,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17356,7 +16408,6 @@
     "AnnotationDbi",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -17375,7 +16426,6 @@
     "Rsamtools",
     "SummarizedExperiment",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17389,7 +16439,6 @@
     "Rsamtools",
     "phyloseq",
     "biomformat",
-    "S4Arrays",
     "DelayedArray",
     "rhdf5",
     "SparseArray"
@@ -17407,7 +16456,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17436,7 +16484,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "AnnotationFilter",
-    "S4Arrays",
     "SparseArray",
     "ProtGenerics",
     "h5mread"
@@ -17454,7 +16501,6 @@
     "Biostrings",
     "Rsamtools",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "biomaRt",
     "SparseArray"
@@ -17472,7 +16518,6 @@
     "GenomicAlignments",
     "biomaRt",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17480,7 +16525,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17505,7 +16549,6 @@
     "Biostrings",
     "GenomicAlignments",
     "chipseq",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "ShortRead",
@@ -17524,7 +16567,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -17547,7 +16589,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "bumphunter",
@@ -17575,7 +16616,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "puma": [
@@ -17586,7 +16626,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17611,7 +16650,6 @@
     "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "qckitfastq": [
@@ -17624,7 +16662,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17640,7 +16677,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17653,7 +16689,6 @@
     "GenomeInfoDb",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17662,7 +16697,6 @@
     "sva",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "SparseArray",
@@ -17676,7 +16710,6 @@
     "sva",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "genefilter",
     "SparseArray",
@@ -17689,7 +16722,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17707,7 +16739,6 @@
     "HDF5Array",
     "GenomicFeatures",
     "AnnotationDbi",
-    "S4Arrays",
     "SparseArray",
     "annotate",
     "h5mread",
@@ -17726,7 +16757,6 @@
     "Biostrings",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17746,7 +16776,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17759,7 +16788,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17774,7 +16802,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17797,7 +16824,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17819,7 +16845,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17836,7 +16861,6 @@
     "rtracklayer",
     "AnnotationDbi",
     "DelayedArray",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray"
   ],
@@ -17854,7 +16878,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17864,7 +16887,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17889,7 +16911,6 @@
     "GenomicFiles",
     "Rsamtools",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -17904,7 +16925,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17916,7 +16936,6 @@
     "DelayedArray",
     "SparseArray",
     "h5mread",
-    "S4Arrays",
     "GenomicRanges",
     "SummarizedExperiment",
     "Biostrings",
@@ -17945,7 +16964,6 @@
     "AnnotationDbi",
     "SummarizedExperiment",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -17963,7 +16981,6 @@
     "GenomicFiles",
     "Rsamtools",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -17980,8 +16997,7 @@
     "BiocSingular",
     "beachmat",
     "SparseArray",
-    "ScaledMatrix",
-    "S4Arrays"
+    "ScaledMatrix"
   ],
   "regioneR": [
     "GenomicRanges",
@@ -17992,7 +17008,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18006,7 +17021,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18014,7 +17028,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18039,7 +17052,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18065,7 +17077,6 @@
     "rtracklayer",
     "GenomicFeatures",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "txdbmaker",
@@ -18076,7 +17087,6 @@
   "rhdf5": [],
   "rhdf5client": [
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "rhinotypeR": [
@@ -18113,7 +17123,6 @@
     "SummarizedExperiment",
     "TFBSTools",
     "pwalign",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18125,7 +17134,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18138,7 +17146,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18154,7 +17161,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18170,7 +17176,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18182,7 +17187,6 @@
     "GenomeInfoDb",
     "Biostrings",
     "Rsamtools",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18195,7 +17199,6 @@
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "rprimer": [
@@ -18209,7 +17212,6 @@
     "MultiDataSet",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18227,7 +17229,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18235,7 +17236,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18243,7 +17243,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18253,7 +17252,6 @@
     "AnnotationDbi",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -18309,7 +17307,6 @@
     "GenomeInfoDb",
     "Biostrings",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -18325,7 +17322,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18337,7 +17333,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray",
     "Biostrings"
@@ -18350,7 +17345,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "genefilter",
     "SparseArray",
     "AnnotationDbi",
@@ -18375,7 +17369,6 @@
     "beachmat",
     "scuttle",
     "GenomeInfoDb",
-    "S4Arrays",
     "h5mread"
   ],
   "scClassify": [
@@ -18386,7 +17379,6 @@
     "HDF5Array",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "S4Arrays",
     "SparseArray",
     "annotate",
     "AnnotationDbi",
@@ -18403,7 +17395,6 @@
     "SummarizedExperiment",
     "scran",
     "scuttle",
-    "S4Arrays",
     "DelayedArray",
     "BiocSingular",
     "bluster",
@@ -18421,7 +17412,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "scDataviz": [
@@ -18432,7 +17422,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -18451,7 +17440,6 @@
     "rtracklayer",
     "ScaledMatrix",
     "beachmat",
-    "S4Arrays",
     "SparseArray",
     "Biostrings",
     "GenomicAlignments"
@@ -18462,7 +17450,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "scDiagnostics": [
@@ -18472,7 +17459,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "scDotPlot": [
@@ -18488,7 +17474,6 @@
     "BiocSingular",
     "GenomicRanges",
     "ScaledMatrix",
-    "S4Arrays",
     "GenomeInfoDb"
   ],
   "scFeatures": [
@@ -18500,7 +17485,6 @@
     "SingleCellSignalR",
     "GSEABase",
     "SummarizedExperiment",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "GenomicFeatures",
@@ -18533,7 +17517,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "scHOT": [
@@ -18542,7 +17525,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "scHiCcompare": [
@@ -18552,7 +17534,6 @@
     "rhdf5",
     "GenomeInfoDb",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18562,7 +17543,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "scMerge": [
@@ -18580,7 +17560,6 @@
     "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
-    "S4Arrays",
     "bluster",
     "GenomicRanges",
     "GenomeInfoDb"
@@ -18592,14 +17571,12 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
   "scPCA": [
     "DelayedArray",
     "ScaledMatrix",
-    "S4Arrays",
     "SparseArray"
   ],
   "scPipe": [
@@ -18623,7 +17600,6 @@
     "rhdf5",
     "beachmat",
     "scuttle",
-    "S4Arrays",
     "h5mread"
   ],
   "scQTLtools": [
@@ -18636,7 +17612,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray",
     "Biostrings"
@@ -18654,7 +17629,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "TrajectoryUtils",
-    "S4Arrays",
     "SparseArray"
   ],
   "scReClassify": [
@@ -18663,7 +17637,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "scRepertoire": [
@@ -18672,7 +17645,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "scTGIF": [
@@ -18685,7 +17657,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray",
     "Biostrings"
@@ -18714,7 +17685,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "ggtree",
     "Biostrings",
@@ -18738,7 +17708,6 @@
     "DelayedArray",
     "beachmat",
     "BiocSingular",
-    "S4Arrays",
     "bluster",
     "ScaledMatrix",
     "AnnotationDbi",
@@ -18778,7 +17747,6 @@
     "pwalign",
     "biomaRt",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18791,7 +17759,6 @@
     "beachmat",
     "BiocSingular",
     "ScaledMatrix",
-    "S4Arrays",
     "GenomicRanges",
     "GenomeInfoDb"
   ],
@@ -18800,7 +17767,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -18811,7 +17777,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "schex": [
@@ -18819,7 +17784,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -18829,7 +17793,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18849,7 +17812,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "scmeth": [
@@ -18871,7 +17833,6 @@
     "DelayedMatrixStats",
     "rhdf5",
     "beachmat",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "KEGGREST",
@@ -18887,7 +17848,6 @@
     "DelayedArray",
     "EDASeq",
     "GenomicRanges",
-    "S4Arrays",
     "GenomeInfoDb",
     "ShortRead",
     "Rsamtools",
@@ -18908,7 +17868,6 @@
     "SummarizedExperiment",
     "GenomeInfoDb",
     "zlibbioc",
-    "S4Arrays",
     "DelayedArray",
     "Rsamtools",
     "AnnotationDbi",
@@ -18925,7 +17884,6 @@
   ],
   "scp": [
     "QFeatures",
-    "IHW",
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -18934,14 +17892,12 @@
     "ProtGenerics",
     "AnnotationFilter",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "scran": [
     "SingleCellExperiment",
     "scuttle",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "BiocSingular",
     "bluster",
@@ -18956,14 +17912,12 @@
     "DelayedArray",
     "Rigraphlib",
     "SparseArray",
-    "S4Arrays",
     "biocmake"
   ],
   "screenCounter": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -18990,7 +17944,6 @@
     "AnnotationFilter",
     "pwalign",
     "DelayedArray",
-    "S4Arrays",
     "biomaRt",
     "SparseArray",
     "ProtGenerics",
@@ -19003,7 +17956,6 @@
     "BiocSingular",
     "ScaledMatrix",
     "beachmat",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "GenomeInfoDb"
@@ -19012,7 +17964,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "SummarizedExperiment",
-    "S4Arrays",
     "SparseArray",
     "DelayedArray",
     "beachmat",
@@ -19029,14 +17980,12 @@
     "BiocSingular",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "ScaledMatrix"
   ],
   "sechm": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19050,7 +17999,6 @@
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19065,7 +18013,6 @@
     "GenomeInfoDb",
     "GenomicFeatures",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -19090,7 +18037,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19128,7 +18074,6 @@
     "GenomicAlignments",
     "SummarizedExperiment",
     "treeio",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19141,7 +18086,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
     "BSgenome",
@@ -19165,7 +18109,6 @@
     "rtracklayer",
     "SummarizedExperiment",
     "Biostrings",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19175,7 +18118,6 @@
     "SummarizedExperiment",
     "ExperimentHub",
     "AnnotationHub",
-    "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
     "SparseArray",
@@ -19191,7 +18133,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19213,7 +18154,6 @@
     "SpatialExperiment",
     "RUVSeq",
     "GenomeInfoDb",
-    "S4Arrays",
     "KEGGREST",
     "ScaledMatrix",
     "EDASeq",
@@ -19240,7 +18180,6 @@
     "HDF5Array",
     "GenomicFeatures",
     "AnnotationDbi",
-    "S4Arrays",
     "SparseArray",
     "annotate",
     "h5mread",
@@ -19267,7 +18206,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "AnnotationDbi",
-    "S4Arrays",
     "SparseArray",
     "annotate",
     "h5mread",
@@ -19280,7 +18218,6 @@
     "RBGL",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19297,7 +18234,6 @@
     "KEGGREST",
     "enrichplot",
     "GOSemSim",
-    "S4Arrays",
     "SparseArray",
     "AnnotationHub",
     "annotate",
@@ -19321,7 +18257,6 @@
     "AnnotationDbi",
     "GenomicFeatures",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19348,7 +18283,6 @@
     "DelayedMatrixStats",
     "HDF5Array",
     "BiocSingular",
-    "S4Arrays",
     "ScaledMatrix",
     "beachmat",
     "SparseArray",
@@ -19364,7 +18298,6 @@
     "SummarizedExperiment",
     "scuttle",
     "GenomicRanges",
-    "S4Arrays",
     "SparseArray",
     "DelayedArray",
     "beachmat",
@@ -19381,7 +18314,6 @@
     "rhdf5",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "h5mread"
   ],
@@ -19413,7 +18345,6 @@
     "celda",
     "DropletUtils",
     "scds",
-    "tximport",
     "GSEABase",
     "zinbwave",
     "scDblFinder",
@@ -19430,7 +18361,6 @@
     "alabaster.base",
     "alabaster.matrix",
     "alabaster.se",
-    "S4Arrays",
     "GenomicRanges",
     "HDF5Array",
     "rhdf5",
@@ -19460,7 +18390,6 @@
     "AnnotationDbi",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -19479,7 +18408,6 @@
     "GenomicAlignments",
     "KEGGREST",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19489,7 +18417,6 @@
   ],
   "sketchR": [
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "skewr": [
@@ -19512,7 +18439,6 @@
     "lumi",
     "ROC",
     "KEGGREST",
-    "S4Arrays",
     "SparseArray",
     "rtracklayer",
     "h5mread",
@@ -19529,7 +18455,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray",
     "Biostrings"
@@ -19541,14 +18466,12 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "smartid": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19558,7 +18481,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19568,7 +18490,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19576,7 +18497,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19593,7 +18513,6 @@
     "rtracklayer",
     "chipseq",
     "ShortRead",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "pwalign"
@@ -19605,7 +18524,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "spaSim": [
@@ -19614,7 +18532,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19624,7 +18541,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19637,7 +18553,6 @@
     "DelayedArray",
     "SparseArray",
     "annotate",
-    "S4Arrays",
     "Biostrings",
     "GenomeInfoDb"
   ],
@@ -19647,7 +18562,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19659,7 +18573,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "AnnotationDbi",
     "SparseArray",
@@ -19675,7 +18588,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray",
     "Biostrings"
@@ -19686,7 +18598,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19705,7 +18616,6 @@
     "AnnotationDbi",
     "InteractionSet",
     "Gviz",
-    "S4Arrays",
     "DelayedArray",
     "pwalign",
     "KEGGREST",
@@ -19724,7 +18634,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -19741,7 +18650,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "HDF5Array",
     "rhdf5",
     "SparseArray",
@@ -19760,7 +18668,6 @@
     "BSgenome",
     "rtracklayer",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19774,7 +18681,6 @@
     "scater",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "cytolib",
@@ -19790,7 +18696,6 @@
     "scuttle",
     "SummarizedExperiment",
     "GenomicRanges",
-    "S4Arrays",
     "SparseArray",
     "DelayedArray",
     "beachmat",
@@ -19811,7 +18716,6 @@
     "scuttle",
     "SingleCellExperiment",
     "GenomicRanges",
-    "S4Arrays",
     "SparseArray",
     "DelayedArray",
     "beachmat",
@@ -19821,7 +18725,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19842,7 +18745,6 @@
     "AnnotationFilter",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19862,7 +18764,6 @@
     "ensembldb",
     "BSgenome",
     "biovizBase",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "VariantAnnotation",
@@ -19874,7 +18775,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19895,7 +18795,6 @@
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19903,7 +18802,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19916,7 +18814,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray",
     "ShortRead",
     "Rsamtools",
@@ -19946,7 +18843,6 @@
     "AnnotationDbi",
     "KEGGREST",
     "rtracklayer",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19955,7 +18851,6 @@
     "rols",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19965,7 +18860,6 @@
     "rols",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19975,7 +18869,6 @@
     "SummarizedExperiment",
     "GenomeInfoDb",
     "GenomicRanges",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -19992,7 +18885,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "GenomicRanges",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -20000,7 +18892,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20027,7 +18918,6 @@
     "SummarizedExperiment",
     "BSgenome",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20046,7 +18936,6 @@
     "SummarizedExperiment",
     "BSgenome",
     "KEGGREST",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20057,7 +18946,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "synapsis": [],
@@ -20078,7 +18966,6 @@
     "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "synlet": [
@@ -20092,7 +18979,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20105,7 +18991,6 @@
     "GenomeInfoDb",
     "GenomicAlignments",
     "pwalign",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20116,7 +19001,6 @@
     "GenomicRanges",
     "treeio",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20133,7 +19017,6 @@
     "GenomicFeatures",
     "KEGGREST",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20164,7 +19047,6 @@
     "GenomicAlignments",
     "Modstrings",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20178,7 +19060,6 @@
     "AnnotationDbi",
     "KEGGREST",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "Biostrings"
@@ -20202,7 +19083,6 @@
     "KEGGREST",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20222,7 +19102,6 @@
     "AnnotationHub",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "Biostrings"
@@ -20236,7 +19115,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20253,7 +19131,6 @@
     "GenomicFeatures",
     "GenomicDataCommons",
     "KEGGREST",
-    "S4Arrays",
     "SparseArray",
     "Biostrings",
     "rtracklayer",
@@ -20268,7 +19145,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20283,7 +19159,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "tidySpatialExperiment": [
@@ -20294,14 +19169,12 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "tidySummarizedExperiment": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20309,7 +19182,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20329,7 +19201,6 @@
     "SingleCellExperiment",
     "Biostrings",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "tidytof": [
@@ -20356,12 +19227,10 @@
   "timecourse": [
     "marray"
   ],
-  "tkWidgets": [],
   "tomoda": [
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20387,7 +19256,6 @@
     "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray"
   ],
   "tpSVG": [
@@ -20397,7 +19265,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "trackViewer": [
@@ -20422,7 +19289,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20440,7 +19306,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "SparseArray"
   ],
   "transcriptR": [
@@ -20457,7 +19322,6 @@
     "AnnotationDbi",
     "KEGGREST",
     "pwalign",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20474,7 +19338,6 @@
     "DelayedArray",
     "SummarizedExperiment",
     "HDF5Array",
-    "S4Arrays",
     "SparseArray",
     "beachmat",
     "DelayedMatrixStats",
@@ -20500,7 +19363,6 @@
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
-    "S4Arrays",
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
@@ -20521,7 +19383,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20535,7 +19396,6 @@
     "treeio",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SingleCellExperiment",
     "Biostrings",
@@ -20555,7 +19415,6 @@
     "treeio",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "cytolib",
     "RProtoBufLib",
@@ -20575,7 +19434,6 @@
     "DelayedArray",
     "beachmat",
     "BiocSingular",
-    "S4Arrays",
     "ScaledMatrix",
     "Biostrings"
   ],
@@ -20608,7 +19466,6 @@
     "GenomicAlignments",
     "biomaRt",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20624,13 +19481,11 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
   "tximeta": [
     "SummarizedExperiment",
-    "tximport",
     "GenomicRanges",
     "AnnotationDbi",
     "GenomicFeatures",
@@ -20644,13 +19499,11 @@
     "rtracklayer",
     "Rsamtools",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "biomaRt",
     "SparseArray",
     "GenomicAlignments"
   ],
-  "tximport": [],
   "uSORT": [
     "monocle",
     "biocViews",
@@ -20678,7 +19531,6 @@
     "VariantAnnotation",
     "AnnotationFilter",
     "ProtGenerics",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20698,7 +19550,6 @@
     "BiocSingular",
     "ScaledMatrix",
     "beachmat",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "GenomeInfoDb"
@@ -20708,7 +19559,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20731,7 +19581,6 @@
     "ExperimentHub",
     "rtracklayer",
     "GenomeInfoDb",
-    "S4Arrays",
     "AnnotationDbi",
     "h5mread",
     "Biostrings",
@@ -20760,7 +19609,6 @@
     "GenomeInfoDb",
     "GenomicFeatures",
     "AnnotationDbi",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rhdf5",
@@ -20775,7 +19623,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "GenomicRanges",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -20796,7 +19643,6 @@
     "Rsamtools",
     "BSgenome",
     "GenomicAlignments",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20829,7 +19675,6 @@
     "AnnotationFilter",
     "ProtGenerics",
     "BSgenome",
-    "S4Arrays",
     "DelayedArray",
     "ShortRead",
     "SparseArray"
@@ -20839,7 +19684,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb"
   ],
@@ -20863,7 +19707,6 @@
     "GEOquery",
     "DelayedArray",
     "HDF5Array",
-    "S4Arrays",
     "SparseArray",
     "h5mread",
     "rhdf5",
@@ -20881,7 +19724,6 @@
     "GenomicAlignments",
     "KEGGREST",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20897,7 +19739,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "DelayedMatrixStats",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "GenomeInfoDb"
@@ -20910,7 +19751,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20918,7 +19758,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -20935,7 +19774,6 @@
     "DelayedArray",
     "GSEABase",
     "GenomeInfoDb",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray",
     "annotate",
@@ -20955,7 +19793,6 @@
     "mzID",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray",
     "MultiAssayExperiment",
@@ -20965,7 +19802,6 @@
     "DelayedArray",
     "GenomicRanges",
     "MultiAssayExperiment",
-    "S4Arrays",
     "SparseArray",
     "GenomeInfoDb",
     "SummarizedExperiment"
@@ -20979,7 +19815,6 @@
     "SparseArray",
     "DelayedArray",
     "h5mread",
-    "S4Arrays",
     "rhdf5",
     "GenomicRanges",
     "GenomeInfoDb"
@@ -20990,7 +19825,6 @@
     "ProtGenerics",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -21011,7 +19845,6 @@
     "DelayedArray",
     "HDF5Array",
     "GenomicFeatures",
-    "S4Arrays",
     "SparseArray",
     "annotate",
     "h5mread",
@@ -21024,7 +19857,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -21032,7 +19864,6 @@
     "DelayedArray",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "S4Arrays",
     "SparseArray",
     "GenomicRanges",
     "GenomeInfoDb"
@@ -21044,7 +19875,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "KEGGREST",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
@@ -21052,7 +19882,6 @@
     "Biostrings",
     "GenomicRanges",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "SparseArray"
   ],
@@ -21065,7 +19894,6 @@
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
-    "S4Arrays",
     "KEGGREST",
     "SparseArray",
     "Biostrings"
@@ -21078,7 +19906,6 @@
     "biomformat",
     "Biostrings",
     "GenomeInfoDb",
-    "S4Arrays",
     "DelayedArray",
     "rhdf5",
     "SparseArray"
