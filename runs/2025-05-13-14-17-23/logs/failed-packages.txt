@@ -1,3 +1,5 @@
 genoCN
 RbowtieCuda
 immunotation
+cisPath
+gpuMagic

@@ -334,7 +334,6 @@
     "XVector",
     "Biostrings"
   ],
-  "AWFisher": [],
   "AffiXcan": [
     "SummarizedExperiment",
     "MultiAssayExperiment",
@@ -1826,7 +1825,6 @@
     "flowClust",
     "flowMeans",
     "flowMerge",
-    "flowPeaks",
     "cytolib",
     "RProtoBufLib",
     "Rgraphviz"
@@ -5470,7 +5468,6 @@
   "HTqPCR": [
     "affy"
   ],
-  "Harman": [],
   "HarmonizR": [
     "sva",
     "SummarizedExperiment",
@@ -6089,7 +6086,6 @@
     "annotate",
     "Rhtslib"
   ],
-  "KCsmart": [],
   "KEGGREST": [
     "Biostrings",
     "IRanges",
@@ -8406,7 +8402,6 @@
     "ConsensusClusterPlus",
     "CoreGx",
     "piano",
-    "survcomp",
     "genefu",
     "BumpyMatrix",
     "biomaRt",
@@ -8837,9 +8832,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "Polytect": [
-    "flowPeaks"
-  ],
+  "Polytect": [],
   "PrInCE": [
     "MSnbase",
     "mzR",
@@ -9570,7 +9563,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "ROSeq": [],
   "ROTS": [],
   "ROntoTools": [
     "KEGGREST",
@@ -15176,7 +15168,6 @@
   "consensusOV": [
     "GSVA",
     "genefu",
-    "survcomp",
     "biomaRt",
     "IRanges",
     "SummarizedExperiment",
@@ -15937,7 +15928,6 @@
   "ddPCRclust": [
     "flowCore",
     "flowDensity",
-    "flowPeaks",
     "cytolib",
     "RProtoBufLib",
     "flowViz"
@@ -15965,7 +15955,6 @@
     "clusterProfiler",
     "sva",
     "enrichplot",
-    "Harman",
     "pathview",
     "apeglm",
     "KEGGREST",
@@ -17367,7 +17356,6 @@
     "cytolib",
     "RProtoBufLib"
   ],
-  "flowPeaks": [],
   "flowPloidy": [
     "flowCore",
     "cytolib",
@@ -17445,7 +17433,6 @@
   "fobitools": [
     "fgsea"
   ],
-  "frenchFISH": [],
   "frma": [
     "affy",
     "oligo",
@@ -17766,7 +17753,6 @@
     "UCSC.utils"
   ],
   "genefu": [
-    "survcomp",
     "biomaRt",
     "AnnotationDbi",
     "IRanges",
@@ -17878,7 +17864,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "geva": [],
   "geyser": [
     "ComplexHeatmap",
     "SummarizedExperiment",
@@ -18309,7 +18294,6 @@
     "UCSC.utils",
     "GenomicAlignments"
   ],
-  "gypsum": [],
   "h5mread": [
     "rhdf5",
     "SparseArray",
@@ -18427,7 +18411,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "hierinf": [],
   "hipathia": [
     "AnnotationHub",
     "MultiAssayExperiment",
@@ -19745,7 +19728,6 @@
     "Rsamtools",
     "rtracklayer",
     "SummarizedExperiment",
-    "survcomp",
     "txdbmaker",
     "vsn",
     "AnnotationDbi",
@@ -24449,7 +24431,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "seahtrue": [],
   "sechm": [
     "SummarizedExperiment",
     "ComplexHeatmap",
@@ -24530,7 +24511,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "semisup": [],
   "seq.hotSPOT": [],
   "seq2pathway": [
     "biomaRt",
@@ -24848,7 +24828,6 @@
     "beachmat",
     "XVector",
     "SparseArray",
-    "survcomp",
     "biomaRt",
     "UCSC.utils",
     "annotate",
@@ -24942,7 +24921,6 @@
     "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
-    "gypsum",
     "alabaster.base",
     "alabaster.matrix",
     "alabaster.se",
@@ -25137,7 +25115,6 @@
   "snifter": [
     "basilisk"
   ],
-  "snm": [],
   "snpStats": [
     "zlibbioc"
   ],
@@ -25668,7 +25645,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "survcomp": [],
   "survtype": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -26556,7 +26532,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "updateObject": [],
   "variancePartition": [],
   "vbmp": [],
   "velociraptor": [
@@ -26801,7 +26776,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "weaver": [],
   "webbioc": [
     "affy",
     "annaffy",
