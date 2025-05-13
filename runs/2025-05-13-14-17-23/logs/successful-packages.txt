@@ -701,3 +701,14 @@ DelayedRandomArray
 dyebias
 NanoTube
 SNPRelate
+CNORfuzzy
+CNORode
+DelayedDataFrame
+igvShiny
+maftools
+Modstrings
+R4RNA
+Rarr
+roastgsa
+SELEX
+SynMut

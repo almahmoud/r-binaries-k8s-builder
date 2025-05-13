@@ -710,9 +710,7 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "CIMICE": [
-    "maftools"
-  ],
+  "CIMICE": [],
   "CINdex": [],
   "CNEr": [
     "pwalign",
@@ -724,8 +722,6 @@
     "SummarizedExperiment",
     "Rsamtools"
   ],
-  "CNORfuzzy": [],
-  "CNORode": [],
   "CNTools": [
     "genefilter",
     "AnnotationDbi",
@@ -882,7 +878,6 @@
   "CaMutQC": [
     "clusterProfiler",
     "MesKit",
-    "maftools",
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
@@ -1591,7 +1586,6 @@
     "biomaRt",
     "KEGGREST"
   ],
-  "DelayedDataFrame": [],
   "DelayedMatrixStats": [],
   "DelayedTensor": [
     "HDF5Array",
@@ -1853,7 +1847,6 @@
   ],
   "EpiTxDb": [
     "AnnotationDbi",
-    "Modstrings",
     "GenomicFeatures",
     "txdbmaker",
     "tRNAdbImport",
@@ -2090,7 +2083,6 @@
     "SummarizedExperiment"
   ],
   "GNOSIS": [
-    "maftools",
     "cBioPortalData",
     "MultiAssayExperiment",
     "RaggedExperiment",
@@ -2994,9 +2986,7 @@
     "SummarizedExperiment"
   ],
   "MEDME": [],
-  "MEIGOR": [
-    "CNORode"
-  ],
+  "MEIGOR": [],
   "MGFM": [
     "AnnotationDbi",
     "annotate",
@@ -3387,7 +3377,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "Modstrings": [],
   "MoleculeExperiment": [
     "SpatialExperiment",
     "SingleCellExperiment",
@@ -4077,7 +4066,6 @@
     "GenomicFeatures",
     "KEGGREST"
   ],
-  "R4RNA": [],
   "RAIDS": [
     "GENESIS",
     "Rsamtools",
@@ -4233,7 +4221,6 @@
     "BSgenome"
   ],
   "RNAmodR": [
-    "Modstrings",
     "txdbmaker",
     "GenomicFeatures",
     "GenomicAlignments",
@@ -4262,7 +4249,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "Modstrings",
     "txdbmaker",
     "KEGGREST",
     "SummarizedExperiment",
@@ -4271,7 +4257,6 @@
   ],
   "RNAmodR.ML": [
     "RNAmodR",
-    "Modstrings",
     "txdbmaker",
     "GenomicFeatures",
     "GenomicAlignments",
@@ -4300,7 +4285,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "Modstrings",
     "txdbmaker",
     "KEGGREST",
     "SummarizedExperiment",
@@ -4396,7 +4380,6 @@
     "KEGGREST",
     "GenomicAlignments"
   ],
-  "Rarr": [],
   "Rbec": [
     "dada2",
     "ShortRead",
@@ -4716,7 +4699,6 @@
   "SDAMS": [
     "SummarizedExperiment"
   ],
-  "SELEX": [],
   "SEraster": [
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -5161,7 +5143,6 @@
   "SynExtend": [
     "DECIPHER"
   ],
-  "SynMut": [],
   "TADCompare": [
     "HiCcompare",
     "InteractionSet",
@@ -5550,7 +5531,6 @@
   "VariantExperiment": [
     "SummarizedExperiment",
     "GDSArray",
-    "DelayedDataFrame",
     "SeqArray"
   ],
   "VariantFiltering": [
@@ -8195,7 +8175,6 @@
     "SeqArray"
   ],
   "ggmsa": [
-    "R4RNA",
     "ggtree"
   ],
   "ggsc": [
@@ -8602,7 +8581,6 @@
     "GenomicFeatures",
     "KEGGREST"
   ],
-  "igvShiny": [],
   "imcRtools": [
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -8702,7 +8680,6 @@
   ],
   "katdetectr": [
     "BSgenome",
-    "maftools",
     "plyranges",
     "VariantAnnotation",
     "rtracklayer",
@@ -8878,7 +8855,6 @@
   "made4": [
     "SummarizedExperiment"
   ],
-  "maftools": [],
   "magpie": [
     "rtracklayer",
     "GenomicFeatures",
@@ -9631,7 +9607,6 @@
     "BSgenome",
     "GenomicFeatures",
     "decompTumor2Sig",
-    "maftools",
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
@@ -10632,7 +10607,6 @@
     "rtracklayer",
     "Rsamtools"
   ],
-  "roastgsa": [],
   "ropls": [
     "MultiAssayExperiment",
     "MultiDataSet",
@@ -11781,11 +11755,9 @@
     "GenomicAlignments"
   ],
   "tRNA": [
-    "Structstrings",
-    "Modstrings"
+    "Structstrings"
   ],
   "tRNAdbImport": [
-    "Modstrings",
     "Structstrings",
     "tRNA"
   ],
@@ -11796,7 +11768,6 @@
     "BSgenome",
     "Rsamtools",
     "GenomicAlignments",
-    "Modstrings",
     "SummarizedExperiment"
   ],
   "tRanslatome": [
