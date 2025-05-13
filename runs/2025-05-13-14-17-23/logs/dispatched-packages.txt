@@ -627,3 +627,10 @@ a4Classif
 metagenomeSeq
 netresponse
 paircompviz
+Doscheda
+MetaboCoreUtils
+NanoTube
+fobitools
+metapone
+mosbi
+pvca
