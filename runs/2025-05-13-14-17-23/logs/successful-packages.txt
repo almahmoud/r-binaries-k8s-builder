@@ -587,3 +587,14 @@ bluster
 CRImage
 discordant
 OPWeight
+DepInfeR
+gdsfmt
+GEM
+GenomicRanges
+hca
+HPiP
+rawDiag
+Rigraphlib
+shiny.gosling
+SpaceMarkers
+treeio
