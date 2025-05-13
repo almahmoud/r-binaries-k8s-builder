@@ -17,11 +17,18 @@ db <- available.packages(repos = BiocManager::repositories())
 
 # Get Bioc version directly
 biocver <- as.character(BiocManager::version())
-writeLines(biocver, "/tmp/bioc_version")
+writeLines(biocver, "/mnt/bioc_version")
 
 # Get R version directly
 r_version <- paste0(R.version$major, ".", R.version$minor, ".", R.version$patch)
-writeLines(r_version, "/tmp/r_version")
+writeLines(r_version, "/mnt/r_version")
+
+# Get container name from environment variables
+container_name <- Sys.getenv("BIOCONDUCTOR_NAME", NA)
+if (is.na(container_name) || container_name == "") {
+    container_name <- Sys.getenv("TERRA_R_PLATFORM", "bioconductor_docker")
+}
+writeLines(container_name, "/mnt/container_name")
 
 softpkgs <- available.packages(repos = BiocManager::repositories()["BioCsoft"])[,1]
 # annpkgs <- available.packages(repos = BiocManager::repositories()["BioCann"])[,1]

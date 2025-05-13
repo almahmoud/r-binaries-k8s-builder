@@ -187,8 +187,16 @@ jobs:
             if [[ "${RUNNING_JOBS}" == "0" ]]; then
               echo "No running jobs and null push counter reached threshold. Finishing cycle..."
               BIOC_VERSION=$(cat "runs/${RUN_ID}/bioc_version")
-              OLD_PACKAGES_URL="https://storage.googleapis.com/bioconductor-packages/${BIOC_VERSION}/container-binaries/bioconductor_docker/src/contrib/PACKAGES"
+              
+              # Use container_name file if available, otherwise default to bioconductor_docker
+              CONTAINER_NAME="bioconductor_docker"
+              if [[ -f "runs/${RUN_ID}/container_name" ]]; then
+                CONTAINER_NAME=$(cat "runs/${RUN_ID}/container_name")
+              fi
+              
+              OLD_PACKAGES_URL="https://storage.googleapis.com/bioconductor-packages/${BIOC_VERSION}/container-binaries/${CONTAINER_NAME}/src/contrib/PACKAGES"
               bash ./.github/scripts/finish_cycle.sh "${RUN_ID}" "${OLD_PACKAGES_URL}" "${CONTAINER}"
+              
               # Reset counter after finishing
               echo "0" > "${NULL_PUSH_COUNTER_FILE}"
             fi

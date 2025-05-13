@@ -64,28 +64,32 @@ spec:
           cd /tmp/pkglinks
           Rscript -e 'tools::write_PACKAGES(".", addFiles = TRUE, verbose = TRUE, latestOnly = TRUE)'
           cp PACKAGES* /mnt/tarballs/
+
+          # Get container name
+          CONTAINER_NAME=""
+          if [ -f "/mnt/container_name" ]; then
+            CONTAINER_NAME=\$(cat /mnt/container_name)
+          else
+            # Try to get from environment variables
+            CONTAINER_NAME=\${BIOCONDUCTOR_NAME:-\${TERRA_R_PLATFORM:-bioconductor_docker}}
+          fi
+          echo "\$CONTAINER_NAME" > /mnt/container_name_for_sync
         volumeMounts:
         - name: bioc-data
           mountPath: /mnt
       containers:
       - name: rclone-sync
         image: rclone/rclone:latest
-        command: ["rclone"]
+        command: ["/bin/sh", "-c"]
         args:
-        - "copy"
-        - "--verbose"
-        - "--progress"
-        - "/mnt/tarballs/"
-        - "final:/bioconductor-packages/$(cat runs/$RUN_ID/bioc_version)/container-binaries/bioconductor_docker/src/contrib/"
+        - |
+          rclone copy --verbose --progress /mnt/tarballs/ final:/bioconductor-packages/\$(cat /mnt/bioc_version)/container-binaries/\$(cat /mnt/container_name_for_sync)/src/contrib/
         volumeMounts:
         - name: bioc-data
           mountPath: /mnt
         - name: rclone-config
           mountPath: /config/rclone
           readOnly: true
-        - name: bioc-version
-          mountPath: /bioc-version
-          subPath: version
         env:
         - name: RCLONE_CONFIG
           value: /config/rclone/rclone.conf
@@ -99,9 +103,6 @@ spec:
           items:
           - key: rclone.conf
             path: rclone.conf
-      - name: bioc-version
-        configMap:
-          name: bioc-version
       restartPolicy: OnFailure
 EOF
 

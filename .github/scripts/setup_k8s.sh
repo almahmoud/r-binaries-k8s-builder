@@ -102,6 +102,7 @@ kubectl cp ${NAMESPACE}/${BIOC_POD}:/mnt/biocdeps.json runs/${RUN_ID}/biocdeps.j
 kubectl cp ${NAMESPACE}/${BIOC_POD}:/mnt/uniquedeps.json runs/${RUN_ID}/uniquedeps.json
 kubectl cp ${NAMESPACE}/${BIOC_POD}:/mnt/bioc_version runs/${RUN_ID}/bioc_version 2>/dev/null || echo "Warning: bioc_version file not found"
 kubectl cp ${NAMESPACE}/${BIOC_POD}:/mnt/r_version runs/${RUN_ID}/r_version 2>/dev/null || echo "Warning: r_version file not found"
+kubectl cp ${NAMESPACE}/${BIOC_POD}:/mnt/container_name runs/${RUN_ID}/container_name 2>/dev/null || echo "Warning: container_name file not found"
 
 
 # Create configmap for Bioconductor version
@@ -111,6 +112,16 @@ BIOC_VERSION=$(cat "runs/${RUN_ID}/bioc_version" 2>/dev/null || echo "")
 if [[ -n "${BIOC_VERSION}" ]]; then
   kubectl create configmap bioc-version \
     --from-literal=version=${BIOC_VERSION} \
+    -n ${NAMESPACE}
+fi
+
+# Create configmap for container name
+echo "Creating container name configmap..."
+CONTAINER_NAME=$(cat "runs/${RUN_ID}/container_name" 2>/dev/null || echo "bioconductor_docker")
+
+if [[ -n "${CONTAINER_NAME}" ]]; then
+  kubectl create configmap container-name \
+    --from-literal=name=${CONTAINER_NAME} \
     -n ${NAMESPACE}
 fi
 
