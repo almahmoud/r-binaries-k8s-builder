@@ -717,3 +717,14 @@ BiocPkgTools
 gDRstyle
 rebook
 ResidualMatrix
+alabaster.string
+altcdfenvs
+coRdon
+crisprBase
+fobitools
+gcrma
+GWASTools
+kebabs
+microRNA
+PWMEnrich
+Structstrings

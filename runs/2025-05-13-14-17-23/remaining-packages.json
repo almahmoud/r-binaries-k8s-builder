@@ -162,7 +162,6 @@
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
-    "gcrma",
     "AnnotationDbi",
     "oligoClasses",
     "ReportingTools",
@@ -1850,7 +1849,6 @@
     "tRNAdbImport",
     "KEGGREST",
     "rtracklayer",
-    "Structstrings",
     "tRNA",
     "biomaRt",
     "Rsamtools",
@@ -2059,7 +2057,6 @@
     "SeqArray"
   ],
   "GENESIS": [
-    "GWASTools",
     "SeqArray",
     "SeqVarTools"
   ],
@@ -2220,7 +2217,6 @@
     "ensembldb",
     "AnnotationFilter"
   ],
-  "GWASTools": [],
   "GWENA": [
     "SummarizedExperiment",
     "AnnotationDbi",
@@ -2501,9 +2497,7 @@
     "annotate",
     "KEGGREST"
   ],
-  "Harshlight": [
-    "altcdfenvs"
-  ],
+  "Harshlight": [],
   "HelloRanges": [
     "BSgenome",
     "GenomicFeatures",
@@ -3873,7 +3867,6 @@
     "SummarizedExperiment",
     "AnnotationFilter"
   ],
-  "PWMEnrich": [],
   "PanomiR": [
     "clusterProfiler",
     "GSEABase",
@@ -4075,7 +4068,6 @@
     "KEGGREST",
     "rtracklayer",
     "GenomicFeatures",
-    "GWASTools",
     "SeqArray",
     "SeqVarTools",
     "SummarizedExperiment",
@@ -5108,7 +5100,6 @@
     "flowCore",
     "FlowSOM"
   ],
-  "Structstrings": [],
   "StructuralVariantAnnotation": [
     "rtracklayer",
     "VariantAnnotation",
@@ -5688,15 +5679,10 @@
     "KEGGREST"
   ],
   "adverSCarial": [],
-  "affyILM": [
-    "gcrma"
-  ],
-  "affyPLM": [
-    "gcrma"
-  ],
+  "affyILM": [],
+  "affyPLM": [],
   "affycoretools": [
     "GOstats",
-    "gcrma",
     "AnnotationDbi",
     "oligoClasses",
     "ReportingTools",
@@ -5725,7 +5711,6 @@
   ],
   "affylmGUI": [
     "affyPLM",
-    "gcrma",
     "AnnotationDbi",
     "KEGGREST"
   ],
@@ -5749,7 +5734,6 @@
     "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
-    "alabaster.string",
     "alabaster.vcf",
     "alabaster.bumpy",
     "alabaster.mae",
@@ -5826,11 +5810,9 @@
     "alabaster.matrix",
     "HDF5Array"
   ],
-  "alabaster.string": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "alabaster.se",
-    "alabaster.string",
     "Rsamtools",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -5843,7 +5825,6 @@
     "KEGGREST",
     "GenomicAlignments"
   ],
-  "altcdfenvs": [],
   "amplican": [
     "pwalign",
     "ShortRead",
@@ -5934,7 +5915,6 @@
     "affyPLM",
     "beadarray",
     "genefilter",
-    "gcrma",
     "AnnotationDbi",
     "annotate",
     "KEGGREST"
@@ -6744,7 +6724,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "coRdon": [],
   "codelink": [
     "annotate",
     "AnnotationDbi",
@@ -6926,10 +6905,8 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "crisprBase": [],
   "crisprBowtie": [
     "BSgenome",
-    "crisprBase",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -6937,14 +6914,12 @@
   ],
   "crisprBwa": [
     "BSgenome",
-    "crisprBase",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
   "crisprDesign": [
-    "crisprBase",
     "AnnotationDbi",
     "BSgenome",
     "crisprBowtie",
@@ -6969,7 +6944,6 @@
   ],
   "crisprShiny": [
     "BSgenome",
-    "crisprBase",
     "crisprDesign",
     "crisprScore",
     "crisprViz",
@@ -6993,7 +6967,6 @@
     "AnnotationFilter"
   ],
   "crisprVerse": [
-    "crisprBase",
     "crisprBowtie",
     "crisprScore",
     "crisprDesign",
@@ -7017,7 +6990,6 @@
     "AnnotationFilter"
   ],
   "crisprViz": [
-    "crisprBase",
     "crisprDesign",
     "BSgenome",
     "GenomicFeatures",
@@ -7948,7 +7920,6 @@
     "flowCore",
     "ncdfFlow"
   ],
-  "fobitools": [],
   "frma": [
     "oligo",
     "oligoClasses",
@@ -8056,7 +8027,6 @@
     "rtracklayer",
     "SummarizedExperiment"
   ],
-  "gcrma": [],
   "gemma.R": [
     "SummarizedExperiment"
   ],
@@ -8318,7 +8288,6 @@
     "GenomicAlignments"
   ],
   "gwasurvivr": [
-    "GWASTools",
     "VariantAnnotation",
     "SummarizedExperiment",
     "Rsamtools",
@@ -8681,7 +8650,6 @@
     "GenomicFeatures",
     "KEGGREST"
   ],
-  "kebabs": [],
   "keggorthology": [
     "AnnotationDbi",
     "KEGGREST"
@@ -8811,7 +8779,6 @@
   ],
   "mBPCR": [
     "oligoClasses",
-    "GWASTools",
     "SummarizedExperiment"
   ],
   "mCSEA": [
@@ -8833,7 +8800,6 @@
     "txdbmaker"
   ],
   "maPredictDSC": [
-    "gcrma",
     "ROC",
     "AnnotationDbi",
     "KEGGREST"
@@ -8887,9 +8853,7 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "maskBAD": [
-    "gcrma"
-  ],
+  "maskBAD": [],
   "mastR": [
     "AnnotationDbi",
     "GSEABase",
@@ -9249,7 +9213,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "microRNA": [],
   "microSTASIS": [
     "TreeSummarizedExperiment",
     "SingleCellExperiment",
@@ -9280,7 +9243,6 @@
     "affyPLM",
     "oligo",
     "oligoClasses",
-    "gcrma",
     "SummarizedExperiment"
   ],
   "minfi": [
@@ -9747,8 +9709,7 @@
     "pwalign"
   ],
   "odseq": [
-    "msa",
-    "kebabs"
+    "msa"
   ],
   "oligo": [
     "oligoClasses",
@@ -10197,9 +10158,7 @@
   "proDA": [
     "SummarizedExperiment"
   ],
-  "procoil": [
-    "kebabs"
-  ],
+  "procoil": [],
   "profileplyr": [
     "SummarizedExperiment",
     "soGGi",
@@ -11741,16 +11700,12 @@
     "KEGGREST",
     "GenomicAlignments"
   ],
-  "tRNA": [
-    "Structstrings"
-  ],
+  "tRNA": [],
   "tRNAdbImport": [
-    "Structstrings",
     "tRNA"
   ],
   "tRNAscanImport": [
     "tRNA",
-    "Structstrings",
     "rtracklayer",
     "BSgenome",
     "Rsamtools",
@@ -12183,7 +12138,6 @@
   ],
   "webbioc": [
     "annaffy",
-    "gcrma",
     "AnnotationDbi",
     "KEGGREST"
   ],

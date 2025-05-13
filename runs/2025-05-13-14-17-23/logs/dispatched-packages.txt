@@ -868,3 +868,9 @@ universalmotif
 gDRstyle
 CIMICE
 MEIGOR
+Harshlight
+affyILM
+affyPLM
+maskBAD
+procoil
+tRNA
