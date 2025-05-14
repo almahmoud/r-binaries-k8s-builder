@@ -1021,3 +1021,6 @@ Glimma
 oligoClasses
 SpatialExperiment
 TENxIO
+CellTrails
+ClusterFoldSimilarity
+clustifyr
