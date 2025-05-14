@@ -1477,3 +1477,12 @@ pram
 rmspc
 roar
 SCANVIS
+cyanoFilter
+ddPCRclust
+flowCut
+mobileRNA
+puma
+syntenet
+TCseq
+tidyCoverage
+tidySummarizedExperiment

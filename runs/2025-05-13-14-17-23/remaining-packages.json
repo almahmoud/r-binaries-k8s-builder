@@ -1448,7 +1448,6 @@
   "TCGAutils": [
     "GenomicFeatures"
   ],
-  "TCseq": [],
   "TEKRABber": [],
   "TENET": [
     "TCGAbiolinks",
@@ -2007,7 +2006,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "cyanoFilter": [],
   "cytofQC": [
     "CATALYST"
   ],
@@ -2026,7 +2024,6 @@
     "mnem",
     "graphite"
   ],
-  "ddPCRclust": [],
   "debrowser": [
     "annotate",
     "sva",
@@ -2098,7 +2095,6 @@
     "annotate"
   ],
   "doubletrouble": [
-    "syntenet",
     "GenomicFeatures"
   ],
   "dreamlet": [
@@ -2238,7 +2234,6 @@
   "flowBin": [
     "flowFP"
   ],
-  "flowCut": [],
   "flowFP": [],
   "flowGate": [
     "ggcyto"
@@ -2637,7 +2632,6 @@
     "GenomicFeatures"
   ],
   "mnem": [],
-  "mobileRNA": [],
   "mogsa": [
     "graphite",
     "genefilter",
@@ -2869,7 +2863,6 @@
     "VariantAnnotation"
   ],
   "ptairMS": [],
-  "puma": [],
   "qPLEXanalyzer": [],
   "qpgraph": [
     "annotate",
@@ -3246,7 +3239,6 @@
     "GenomicFeatures"
   ],
   "synapter": [],
-  "syntenet": [],
   "tLOH": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -3269,10 +3261,7 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "tidyCoverage": [],
-  "tidySummarizedExperiment": [],
   "tidyomics": [
-    "tidySummarizedExperiment",
     "plyranges",
     "nullranges"
   ],
