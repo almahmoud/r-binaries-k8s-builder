@@ -4117,7 +4117,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "GSCA": [],
   "GSEABase": [
     "annotate",
     "AnnotationDbi",
@@ -6463,7 +6462,6 @@
   "MicrobiotaProcess": [
     "Biostrings",
     "SummarizedExperiment",
-    "ggtreeExtra",
     "IRanges",
     "XVector",
     "GenomeInfoDb",
@@ -15683,9 +15681,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "ggtreeDendro": [],
-  "ggtreeExtra": [],
-  "ggtreeSpace": [],
   "ginmappeR": [
     "KEGGREST",
     "UniProt.ws",
@@ -20977,7 +20972,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "scMitoMut": [],
   "scMultiSim": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -21206,7 +21200,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "scde": [],
   "scds": [
     "SingleCellExperiment",
     "SummarizedExperiment",
