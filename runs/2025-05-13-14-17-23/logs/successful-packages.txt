@@ -1337,3 +1337,6 @@ pathview
 RolDE
 systemPipeR
 topGO
+mimager
+Rbec
+TTMap

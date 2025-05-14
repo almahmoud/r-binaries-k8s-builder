@@ -1848,7 +1848,6 @@
     "rtracklayer",
     "AnnotationHub"
   ],
-  "Rbec": [],
   "RbowtieCuda": [],
   "RcisTarget": [
     "AUCell",
@@ -2218,7 +2217,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "TTMap": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -3887,7 +3885,6 @@
     "scater"
   ],
   "miloR": [],
-  "mimager": [],
   "minfi": [
     "bumphunter",
     "genefilter",
