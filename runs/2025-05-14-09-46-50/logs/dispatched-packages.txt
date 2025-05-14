@@ -620,3 +620,8 @@ tanggle
 trio
 IntramiRExploreR
 MetaboCoreUtils
+EBcoexpress
+gaga
+geNetClassifier
+hapFabia
+mosbi

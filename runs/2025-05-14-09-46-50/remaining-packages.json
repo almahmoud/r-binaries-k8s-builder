@@ -772,7 +772,6 @@
     "SparseArray",
     "XVector"
   ],
-  "BayesKnockdown": [],
   "BgeeCall": [
     "GenomicFeatures",
     "Biostrings",
@@ -799,7 +798,6 @@
     "XVector"
   ],
   "BiGGR": [
-    "rsbml",
     "hyperdraw",
     "hypergraph",
     "Rgraphviz"
@@ -1190,7 +1188,6 @@
   "CATALYST": [
     "SingleCellExperiment",
     "ComplexHeatmap",
-    "ConsensusClusterPlus",
     "flowCore",
     "FlowSOM",
     "SummarizedExperiment",
@@ -2180,7 +2177,6 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "ConsensusClusterPlus": [],
   "Coralysis": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -2395,7 +2391,6 @@
   ],
   "DEGreport": [
     "ComplexHeatmap",
-    "ConsensusClusterPlus",
     "DESeq2",
     "SummarizedExperiment",
     "IRanges",
@@ -2526,8 +2521,6 @@
     "XVector",
     "Biostrings"
   ],
-  "DFP": [],
-  "DFplyr": [],
   "DMCFB": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -2772,7 +2765,6 @@
     "h5mread",
     "GenomicAlignments"
   ],
-  "DeconRNASeq": [],
   "DeconvoBuddies": [
     "AnnotationHub",
     "ExperimentHub",
@@ -3048,10 +3040,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "EBarrays": [],
-  "EBcoexpress": [
-    "EBarrays"
-  ],
+  "EBcoexpress": [],
   "EDASeq": [
     "ShortRead",
     "IRanges",
@@ -3429,7 +3418,6 @@
     "XVector",
     "SparseArray"
   ],
-  "ExploreModelMatrix": [],
   "ExpressionAtlas": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -3587,7 +3575,6 @@
     "SparseArray"
   ],
   "FlowSOM": [
-    "ConsensusClusterPlus",
     "flowCore"
   ],
   "FuseSOM": [
@@ -4028,7 +4015,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "GeneSelectMMD": [],
   "GeneStructureTools": [
     "Biostrings",
     "GenomicRanges",
@@ -4326,7 +4312,6 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "GraphAT": [],
   "GreyListChIP": [
     "GenomicRanges",
     "GenomicAlignments",
@@ -4391,7 +4376,6 @@
     "S4Arrays",
     "XVector"
   ],
-  "HELP": [],
   "HEM": [],
   "HERON": [
     "SummarizedExperiment",
@@ -5708,7 +5692,6 @@
   ],
   "MSstatsQC": [
     "MSnbase",
-    "qcmetrics",
     "mzR",
     "ProtGenerics",
     "PSMatch",
@@ -5733,7 +5716,6 @@
   "MSstatsQCgui": [
     "MSstatsQC",
     "MSnbase",
-    "qcmetrics",
     "mzR",
     "ProtGenerics",
     "PSMatch",
@@ -5882,8 +5864,7 @@
   ],
   "MetaCyto": [
     "flowCore",
-    "FlowSOM",
-    "ConsensusClusterPlus"
+    "FlowSOM"
   ],
   "MetaNeighbor": [
     "SummarizedExperiment",
@@ -6857,7 +6838,6 @@
   "PDATK": [
     "SummarizedExperiment",
     "MultiAssayExperiment",
-    "ConsensusClusterPlus",
     "CoreGx",
     "piano",
     "genefu",
@@ -7583,7 +7563,6 @@
     "h5mread",
     "Biostrings"
   ],
-  "RGraph2js": [],
   "RIVER": [],
   "RJMCMCNucleosomes": [
     "IRanges",
@@ -9325,8 +9304,7 @@
     "flowCore",
     "FlowSOM",
     "ComplexHeatmap",
-    "XVector",
-    "ConsensusClusterPlus"
+    "XVector"
   ],
   "Streamer": [
     "RBGL"
@@ -9876,7 +9854,6 @@
     "XVector",
     "fgsea"
   ],
-  "TrajectoryGeometry": [],
   "TrajectoryUtils": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -10492,7 +10469,6 @@
     "XVector"
   ],
   "alabaster": [
-    "alabaster.base",
     "alabaster.matrix",
     "alabaster.ranges",
     "alabaster.se",
@@ -10526,14 +10502,11 @@
     "KEGGREST",
     "GenomicAlignments"
   ],
-  "alabaster.base": [],
   "alabaster.bumpy": [
     "BumpyMatrix",
-    "alabaster.base",
     "IRanges"
   ],
   "alabaster.files": [
-    "alabaster.base",
     "Rsamtools",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -10543,7 +10516,6 @@
   ],
   "alabaster.mae": [
     "MultiAssayExperiment",
-    "alabaster.base",
     "alabaster.se",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -10559,7 +10531,6 @@
     "h5mread"
   ],
   "alabaster.matrix": [
-    "alabaster.base",
     "DelayedArray",
     "S4Arrays",
     "SparseArray",
@@ -10570,14 +10541,12 @@
   ],
   "alabaster.ranges": [
     "GenomicRanges",
-    "alabaster.base",
     "IRanges",
     "GenomeInfoDb",
     "XVector"
   ],
   "alabaster.sce": [
     "SingleCellExperiment",
-    "alabaster.base",
     "alabaster.se",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -10594,7 +10563,6 @@
   ],
   "alabaster.se": [
     "SummarizedExperiment",
-    "alabaster.base",
     "alabaster.ranges",
     "alabaster.matrix",
     "IRanges",
@@ -10609,7 +10577,6 @@
   ],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
-    "alabaster.base",
     "alabaster.sce",
     "alabaster.spatial",
     "EBImage",
@@ -10636,7 +10603,6 @@
   ],
   "alabaster.spatial": [
     "SpatialExperiment",
-    "alabaster.base",
     "alabaster.sce",
     "SingleCellExperiment",
     "alabaster.se",
@@ -10655,13 +10621,11 @@
   ],
   "alabaster.string": [
     "Biostrings",
-    "alabaster.base",
     "IRanges",
     "XVector",
     "GenomeInfoDb"
   ],
   "alabaster.vcf": [
-    "alabaster.base",
     "VariantAnnotation",
     "alabaster.se",
     "alabaster.string",
@@ -11221,7 +11185,6 @@
     "enrichplot",
     "GOSemSim",
     "fgsea",
-    "EBarrays",
     "graphite",
     "XVector",
     "Biostrings",
@@ -11252,11 +11215,6 @@
     "RBGL"
   ],
   "biocmake": [],
-  "biodbChebi": [],
-  "biodbHmdb": [],
-  "biodbNcbi": [],
-  "biodbNci": [],
-  "biodbUniprot": [],
   "biomaRt": [
     "AnnotationDbi",
     "IRanges",
@@ -11596,7 +11554,6 @@
     "RTCGAToolbox",
     "SummarizedExperiment",
     "TCGAutils",
-    "EBarrays",
     "annotate",
     "AnnotationDbi",
     "Category",
@@ -11639,7 +11596,6 @@
   "casper": [
     "IRanges",
     "GenomicRanges",
-    "EBarrays",
     "gaga",
     "GenomeInfoDb",
     "GenomicFeatures",
@@ -11770,7 +11726,6 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "ConsensusClusterPlus",
     "XVector"
   ],
   "cfDNAPro": [
@@ -11898,7 +11853,6 @@
     "SingleCellExperiment",
     "chevreulProcess",
     "chevreulPlot",
-    "alabaster.base",
     "ComplexHeatmap",
     "wiggleplotr",
     "scater",
@@ -12480,7 +12434,6 @@
     "KEGGREST"
   ],
   "convert": [],
-  "copa": [],
   "corral": [
     "MultiAssayExperiment",
     "SingleCellExperiment",
@@ -12930,7 +12883,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "ComplexHeatmap",
-    "ConsensusClusterPlus",
     "FlowSOM",
     "scater",
     "GenomicRanges",
@@ -13358,7 +13310,6 @@
     "SummarizedExperiment",
     "ComplexHeatmap",
     "IRanges",
-    "ConsensusClusterPlus",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -13771,7 +13722,6 @@
     "alabaster.matrix",
     "S4Arrays",
     "BiocSingular",
-    "alabaster.base",
     "KEGGREST",
     "ScaledMatrix",
     "rtracklayer",
@@ -13925,7 +13875,6 @@
     "SparseArray",
     "biomaRt"
   ],
-  "erccdashboard": [],
   "esATAC": [
     "Rsamtools",
     "GenomicRanges",
@@ -14060,7 +14009,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "fabia": [],
   "factDesign": [],
   "factR": [
     "Biostrings",
@@ -14459,9 +14407,7 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "gaga": [
-    "EBarrays"
-  ],
+  "gaga": [],
   "gage": [
     "KEGGREST",
     "AnnotationDbi",
@@ -14502,9 +14448,7 @@
     "IRanges",
     "GenomeInfoDb"
   ],
-  "geNetClassifier": [
-    "EBarrays"
-  ],
+  "geNetClassifier": [],
   "gemini": [],
   "gemma.R": [
     "SummarizedExperiment",
@@ -15031,9 +14975,7 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "hapFabia": [
-    "fabia"
-  ],
+  "hapFabia": [],
   "hdxmsqc": [
     "QFeatures",
     "Spectra",
@@ -15198,7 +15140,6 @@
   "iCheck": [
     "lumi",
     "affy",
-    "GeneSelectMMD",
     "methylumi",
     "GenomicFeatures",
     "GenomicRanges",
@@ -15597,7 +15538,6 @@
     "GenomicRanges",
     "KEGGREST",
     "ComplexHeatmap",
-    "ConsensusClusterPlus",
     "GenomeInfoDb",
     "XVector",
     "S4Arrays",
@@ -15605,7 +15545,6 @@
     "SparseArray",
     "Biostrings"
   ],
-  "iterativeBMA": [],
   "ivygapSE": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -16568,9 +16507,7 @@
     "GenomeInfoDb"
   ],
   "miRSM": [
-    "fabia",
     "BicARE",
-    "rqubic",
     "SummarizedExperiment",
     "GSEABase",
     "clusterProfiler",
@@ -16877,7 +16814,6 @@
     "S4Arrays",
     "SparseArray"
   ],
-  "mitch": [],
   "mitoClone2": [
     "GenomicRanges",
     "deepSNV",
@@ -16974,9 +16910,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "mosbi": [
-    "fabia"
-  ],
+  "mosbi": [],
   "motifStack": [
     "Biostrings",
     "TFBSTools",
@@ -18180,7 +18114,6 @@
   ],
   "phenomis": [
     "SummarizedExperiment",
-    "biodbChebi",
     "MultiAssayExperiment",
     "MultiDataSet",
     "ropls",
@@ -18672,7 +18605,6 @@
     "S4Arrays",
     "SparseArray"
   ],
-  "qcmetrics": [],
   "qmtools": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -19182,7 +19114,6 @@
     "XVector",
     "Biostrings"
   ],
-  "ribor": [],
   "ribosomeProfilingQC": [
     "GenomicRanges",
     "AnnotationDbi",
@@ -19322,7 +19253,6 @@
     "SparseArray",
     "XVector"
   ],
-  "rqubic": [],
   "rrvgo": [
     "GOSemSim",
     "AnnotationDbi",
@@ -19332,7 +19262,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "rsbml": [],
   "rtracklayer": [
     "GenomicRanges",
     "IRanges",
@@ -19497,7 +19426,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "scBubbletree": [],
   "scCB2": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -20526,7 +20454,6 @@
     "h5mread",
     "GenomicAlignments"
   ],
-  "sigsquared": [],
   "simPIC": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -20935,7 +20862,6 @@
     "CATALYST",
     "SingleCellExperiment",
     "ComplexHeatmap",
-    "ConsensusClusterPlus",
     "flowCore",
     "FlowSOM",
     "scater",
@@ -20951,7 +20877,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "spkTools": [],
   "splatter": [
     "SingleCellExperiment",
     "scuttle",
@@ -21564,7 +21489,6 @@
   "timeOmics": [
     "mixOmics"
   ],
-  "timecourse": [],
   "tkWidgets": [
     "DynDoc"
   ],
@@ -21762,8 +21686,7 @@
     "SingleCellExperiment",
     "Biostrings",
     "XVector",
-    "SparseArray",
-    "ConsensusClusterPlus"
+    "SparseArray"
   ],
   "treekoR": [
     "SingleCellExperiment",
@@ -21777,7 +21700,6 @@
     "IRanges",
     "S4Arrays",
     "SparseArray",
-    "ConsensusClusterPlus",
     "GenomeInfoDb",
     "XVector"
   ],
@@ -21800,7 +21722,6 @@
     "ScaledMatrix",
     "Biostrings"
   ],
-  "trio": [],
   "triplex": [
     "IRanges",
     "XVector",
