@@ -221,7 +221,6 @@
     "Rhdf5lib",
     "Biostrings"
   ],
-  "ANCOMBC": [],
   "ANF": [
     "Biobase",
     "BiocGenerics"
@@ -506,21 +505,14 @@
     "SparseArray",
     "ProtGenerics"
   ],
-  "AlphaBeta": [],
   "AlphaMissenseR": [],
   "AlpsNMR": [
     "mixOmics",
     "MassSpecWavelet",
     "impute"
   ],
-  "AnVILAz": [],
-  "AnVILGCP": [],
-  "AnVILPublish": [
-    "AnVILGCP"
-  ],
-  "AnVILWorkflow": [
-    "AnVILGCP"
-  ],
+  "AnVILPublish": [],
+  "AnVILWorkflow": [],
   "Anaquin": [
     "DESeq2",
     "S4Vectors",
@@ -784,7 +776,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "BEclear": [],
   "BLMA": [
     "ROntoTools",
     "PADOG",
@@ -2067,7 +2058,6 @@
     "GenomeInfoDb",
     "IRanges",
     "S4Vectors",
-    "SNPRelate",
     "SummarizedExperiment",
     "edgeR",
     "limma",
@@ -3352,7 +3342,6 @@
     "RProtoBufLib",
     "Rhdf5lib"
   ],
-  "CytoGLMM": [],
   "CytoMDS": [
     "Biobase",
     "flowCore",
@@ -4284,7 +4273,6 @@
     "rhdf5filters",
     "Rhdf5lib"
   ],
-  "DepInfeR": [],
   "DepecheR": [
     "mixOmics"
   ],
@@ -5474,7 +5462,6 @@
     "BiocGenerics",
     "DelayedArray",
     "S4Vectors",
-    "SNPRelate",
     "SeqArray",
     "MatrixGenerics",
     "IRanges",
@@ -5495,7 +5482,6 @@
     "S4Vectors",
     "SeqArray",
     "SeqVarTools",
-    "SNPRelate",
     "GenomeInfoDb",
     "XVector",
     "DNAcopy",
@@ -7398,7 +7384,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "KinSwingR": [],
   "KnowSeq": [
     "sva",
     "edgeR",
@@ -8033,7 +8018,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedArray",
     "DelayedMatrixStats",
     "DirichletMultinomial",
@@ -9710,7 +9694,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "NPARC": [],
   "NTW": [],
   "NanoMethViz": [
     "S4Vectors",
@@ -9928,7 +9911,6 @@
     "Rhtslib",
     "KEGGREST"
   ],
-  "OPWeight": [],
   "ORFhunteR": [
     "Biostrings",
     "rtracklayer",
@@ -10139,7 +10121,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "Oscope": [],
   "OutSplice": [
     "AnnotationDbi",
     "GenomicRanges",
@@ -11108,7 +11089,6 @@
     "UCSC.utils"
   ],
   "RAIDS": [
-    "SNPRelate",
     "GENESIS",
     "Rsamtools",
     "S4Vectors",
@@ -12071,7 +12051,6 @@
     "BiocGenerics"
   ],
   "RedeR": [],
-  "RedisParam": [],
   "RegEnrich": [
     "S4Vectors",
     "BiocSet",
@@ -12904,7 +12883,6 @@
     "SparseArray"
   ],
   "SNAGEE": [],
-  "SNPRelate": [],
   "SNPediaR": [],
   "SNPhood": [
     "GenomicRanges",
@@ -13231,7 +13209,6 @@
   ],
   "SeqSQC": [
     "ExperimentHub",
-    "SNPRelate",
     "GenomicRanges",
     "IRanges",
     "S4Vectors",
@@ -15122,7 +15099,6 @@
     "GenomicRanges",
     "GDSArray",
     "DelayedDataFrame",
-    "SNPRelate",
     "SeqArray",
     "DelayedArray",
     "Biostrings",
@@ -15486,7 +15462,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "abseqR": [],
   "adSplit": [
     "AnnotationDbi",
     "Biobase",
@@ -17230,7 +17205,6 @@
     "Rhtslib",
     "GenomicAlignments"
   ],
-  "bugsigdbr": [],
   "bumphunter": [
     "S4Vectors",
     "IRanges",
@@ -17599,7 +17573,6 @@
     "UCSC.utils"
   ],
   "cellmigRation": [],
-  "cellxgenedp": [],
   "censcyt": [
     "diffcyt",
     "edgeR",
@@ -19485,7 +19458,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedArray",
     "DelayedMatrixStats",
     "DirichletMultinomial",
@@ -19529,7 +19501,6 @@
     "flowViz",
     "Rhdf5lib"
   ],
-  "dearseq": [],
   "debCAM": [
     "Biobase",
     "SummarizedExperiment",
@@ -19637,7 +19608,6 @@
     "bluster",
     "metapod"
   ],
-  "decontam": [],
   "deconvR": [
     "S4Vectors",
     "methylKit",
@@ -19733,7 +19703,6 @@
     "GenomeInfoDb",
     "IRanges",
     "SummarizedExperiment",
-    "demuxmix",
     "GenomicRanges",
     "GenomicFeatures",
     "AnnotationFilter",
@@ -19755,7 +19724,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "demuxmix": [],
   "densvis": [
     "basilisk",
     "dir.expiry",
@@ -22482,7 +22450,6 @@
     "GWASTools",
     "VariantAnnotation",
     "SummarizedExperiment",
-    "SNPRelate",
     "Biobase",
     "DNAcopy",
     "MatrixGenerics",
@@ -23046,7 +23013,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedArray",
     "DelayedMatrixStats",
     "DirichletMultinomial",
@@ -23556,7 +23522,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedArray",
     "DelayedMatrixStats",
     "DirichletMultinomial",
@@ -24921,7 +24886,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedArray",
     "DelayedMatrixStats",
     "DirichletMultinomial",
@@ -24963,7 +24927,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedArray",
     "DelayedMatrixStats",
     "DirichletMultinomial",
@@ -25025,7 +24988,6 @@
     "Biostrings",
     "bluster",
     "DECIPHER",
-    "decontam",
     "DelayedMatrixStats",
     "scuttle",
     "beachmat",
@@ -25803,7 +25765,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "multiClust": [],
   "multiGSEA": [
     "graphite",
     "AnnotationDbi",
@@ -28723,7 +28684,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "rgoslin": [],
   "rgsepd": [
     "DESeq2",
     "goseq",
@@ -29361,7 +29321,6 @@
   ],
   "scDDboost": [
     "SingleCellExperiment",
-    "Oscope",
     "SummarizedExperiment",
     "S4Vectors",
     "BiocGenerics",
@@ -30682,7 +30641,6 @@
     "multtest",
     "BiocGenerics"
   ],
-  "sights": [],
   "signatureSearch": [
     "SummarizedExperiment",
     "AnnotationDbi",
@@ -32132,7 +32090,6 @@
   ],
   "ternarynet": [],
   "terraTCGAdata": [
-    "AnVILGCP",
     "MultiAssayExperiment",
     "GenomicRanges",
     "RaggedExperiment",
@@ -32354,7 +32311,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "tomoseqr": [],
   "topconfects": [],
   "topdownr": [
     "BiocGenerics",
