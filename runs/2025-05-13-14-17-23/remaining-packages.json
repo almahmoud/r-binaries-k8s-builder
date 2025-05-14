@@ -227,9 +227,7 @@
     "oligoClasses",
     "SummarizedExperiment"
   ],
-  "AssessORF": [
-    "DECIPHER"
-  ],
+  "AssessORF": [],
   "BANDITS": [
     "DRIMSeq"
   ],
@@ -1237,7 +1235,6 @@
     "SummarizedExperiment",
     "AnnotationFilter"
   ],
-  "DECIPHER": [],
   "DEFormats": [
     "DESeq2",
     "SummarizedExperiment"
@@ -2783,7 +2780,6 @@
     "SummarizedExperiment",
     "mia",
     "SingleCellExperiment",
-    "DECIPHER",
     "DelayedMatrixStats",
     "scater",
     "scuttle",
@@ -4752,9 +4748,7 @@
     "SingleCellExperiment",
     "KEGGREST"
   ],
-  "SynExtend": [
-    "DECIPHER"
-  ],
+  "SynExtend": [],
   "TADCompare": [
     "HiCcompare",
     "InteractionSet",
@@ -5307,7 +5301,6 @@
     "ScaledMatrix"
   ],
   "alabaster": [
-    "alabaster.matrix",
     "alabaster.ranges",
     "alabaster.se",
     "alabaster.sce",
@@ -5331,27 +5324,22 @@
   "alabaster.bumpy": [
     "BumpyMatrix"
   ],
-  "alabaster.files": [],
   "alabaster.mae": [
     "MultiAssayExperiment",
     "alabaster.se",
     "SummarizedExperiment",
-    "alabaster.ranges",
-    "alabaster.matrix"
+    "alabaster.ranges"
   ],
-  "alabaster.matrix": [],
   "alabaster.ranges": [],
   "alabaster.sce": [
     "SingleCellExperiment",
     "alabaster.se",
     "SummarizedExperiment",
-    "alabaster.ranges",
-    "alabaster.matrix"
+    "alabaster.ranges"
   ],
   "alabaster.se": [
     "SummarizedExperiment",
-    "alabaster.ranges",
-    "alabaster.matrix"
+    "alabaster.ranges"
   ],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
@@ -5363,7 +5351,6 @@
     "SpatialExperiment",
     "DropletUtils",
     "alabaster.ranges",
-    "alabaster.matrix",
     "DelayedMatrixStats",
     "beachmat",
     "scuttle"
@@ -5374,15 +5361,13 @@
     "SingleCellExperiment",
     "alabaster.se",
     "SummarizedExperiment",
-    "alabaster.ranges",
-    "alabaster.matrix"
+    "alabaster.ranges"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
     "alabaster.se",
     "SummarizedExperiment",
     "alabaster.ranges",
-    "alabaster.matrix",
     "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
@@ -6046,7 +6031,6 @@
     "GenomicAlignments",
     "KEGGREST"
   ],
-  "chihaya": [],
   "chimeraviz": [
     "Gviz",
     "ensembldb",
@@ -6624,7 +6608,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
-    "DECIPHER",
     "DelayedMatrixStats",
     "scater",
     "scuttle",
@@ -7017,7 +7000,6 @@
     "BSgenome",
     "TFBSTools",
     "MultiAssayExperiment",
-    "alabaster.matrix",
     "BiocSingular",
     "KEGGREST",
     "ScaledMatrix",
@@ -7846,7 +7828,6 @@
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
     "MultiAssayExperiment",
-    "DECIPHER",
     "DelayedMatrixStats",
     "scater",
     "scuttle",
@@ -8053,7 +8034,6 @@
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
-    "DECIPHER",
     "DelayedMatrixStats",
     "scater",
     "scuttle",
@@ -8498,7 +8478,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
-    "DECIPHER",
     "DelayedMatrixStats",
     "scater",
     "scuttle",
@@ -8517,7 +8496,6 @@
     "ggtree",
     "miaViz",
     "MultiAssayExperiment",
-    "DECIPHER",
     "DelayedMatrixStats",
     "scuttle",
     "beachmat",
@@ -8537,7 +8515,6 @@
     "scater",
     "SingleCellExperiment",
     "MultiAssayExperiment",
-    "DECIPHER",
     "DelayedMatrixStats",
     "scuttle",
     "beachmat",
@@ -9061,9 +9038,7 @@
     "flowWorkspace",
     "flowClust"
   ],
-  "openPrimeR": [
-    "DECIPHER"
-  ],
+  "openPrimeR": [],
   "oposSOM": [
     "biomaRt",
     "AnnotationDbi",
@@ -9816,9 +9791,7 @@
     "biomaRt",
     "KEGGREST"
   ],
-  "sangeranalyseR": [
-    "DECIPHER"
-  ],
+  "sangeranalyseR": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -10122,7 +10095,6 @@
     "SingleCellExperiment"
   ],
   "scifer": [
-    "DECIPHER",
     "flowCore"
   ],
   "scmap": [
@@ -10459,7 +10431,6 @@
     "BiocSingular",
     "ScaledMatrix",
     "beachmat",
-    "alabaster.matrix",
     "alabaster.se",
     "GenomicFeatures",
     "AnnotationFilter",
@@ -11070,7 +11041,6 @@
     "annotate",
     "KEGGREST"
   ],
-  "triplex": [],
   "ttgsea": [],
   "txcutr": [
     "AnnotationDbi",

@@ -919,3 +919,7 @@ GENESIS
 GeneBreak
 cfdnakit
 panelcn.mops
+AssessORF
+SynExtend
+openPrimeR
+sangeranalyseR

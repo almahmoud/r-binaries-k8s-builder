@@ -783,3 +783,8 @@ seqArchR
 ssviz
 tracktables
 transite
+alabaster.files
+alabaster.matrix
+chihaya
+DECIPHER
+triplex

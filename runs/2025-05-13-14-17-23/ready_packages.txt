@@ -1,0 +1,4 @@
+AssessORF
+SynExtend
+openPrimeR
+sangeranalyseR
