@@ -1296,3 +1296,8 @@ HiCcompare
 MODA
 structToolbox
 supersigs
+AnnotationForge
+apComplex
+GOfuncR
+GOSemSim
+scds

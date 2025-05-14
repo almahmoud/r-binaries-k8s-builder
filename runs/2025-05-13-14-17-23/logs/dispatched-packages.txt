@@ -1479,3 +1479,6 @@ flowFP
 flowTrans
 multiHiCcompare
 scHiCcompare
+DOSE
+Rcpi
+rrvgo

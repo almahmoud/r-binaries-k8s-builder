@@ -1,7 +1,3 @@
-SpectralTAD
-TADCompare
-flowDensity
-flowFP
-flowTrans
-multiHiCcompare
-scHiCcompare
+DOSE
+Rcpi
+rrvgo
