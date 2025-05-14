@@ -1168,7 +1168,6 @@
   "GenomicScores": [
     "AnnotationHub"
   ],
-  "GenomicSuperSignature": [],
   "GeoTcgaData": [],
   "GlobalAncova": [
     "globaltest",
@@ -3761,11 +3760,9 @@
     "BSgenome"
   ],
   "gDR": [
-    "gDRcore",
-    "gDRimport"
+    "gDRcore"
   ],
   "gDRcore": [],
-  "gDRimport": [],
   "gINTomics": [
     "biomaRt",
     "GenomicFeatures",

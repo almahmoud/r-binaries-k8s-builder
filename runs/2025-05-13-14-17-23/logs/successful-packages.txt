@@ -1197,3 +1197,5 @@ simPIC
 DropletUtils
 FlowSOM
 spoon
+gDRimport
+GenomicSuperSignature
