@@ -1453,3 +1453,9 @@ NewWave
 pathRender
 StabMap
 treeclimbR
+AnnotationHub
+DMCHMM
+ExCluster
+IdeoViz
+PeacoQC
+tidySpatialExperiment

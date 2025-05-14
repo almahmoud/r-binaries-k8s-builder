@@ -1646,3 +1646,14 @@ tricycle
 cyanoFilter
 ddPCRclust
 flowCut
+ExperimentHub
+GenomicScores
+MetaboAnnotation
+cTRAP
+customCMPdb
+hipathia
+ipdDb
+ontoProc
+partCNV
+rGenomeTracks
+scAnnotatR
