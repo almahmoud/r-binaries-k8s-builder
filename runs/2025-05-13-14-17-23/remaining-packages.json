@@ -551,7 +551,6 @@
     "GenomicFeatures"
   ],
   "GOTHiC": [],
-  "GOexpress": [],
   "GOstats": [
     "Category",
     "GSEABase",
@@ -686,7 +685,6 @@
   ],
   "HiCDOC": [],
   "HiCParser": [],
-  "HiContacts": [],
   "HiCool": [],
   "HiLDA": [
     "GenomicFeatures"
@@ -1228,7 +1226,6 @@
     "sva",
     "genefilter"
   ],
-  "SCArray.sat": [],
   "SCOPE": [],
   "SEtools": [
     "sva",
@@ -1477,7 +1474,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "alabaster.sfe": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "GenomicFeatures"
