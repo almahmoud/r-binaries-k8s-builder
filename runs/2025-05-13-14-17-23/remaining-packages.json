@@ -148,7 +148,6 @@
     "genefilter",
     "annotate"
   ],
-  "BatchSVG": [],
   "BayesSpace": [],
   "BgeeCall": [
     "GenomicFeatures",
@@ -308,7 +307,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "CaDrA": [],
   "CaMutQC": [],
   "Category": [
     "GSEABase",
@@ -1897,7 +1895,6 @@
     "genefilter",
     "annotate"
   ],
-  "artMS": [],
   "atSNP": [
     "BSgenome",
     "motifStack",
@@ -3793,7 +3790,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tradeSeq": [],
   "transcriptR": [
     "GenomicFeatures"
   ],

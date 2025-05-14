@@ -1441,3 +1441,7 @@ moanin
 SpectralTAD
 switchde
 Voyager
+artMS
+BatchSVG
+CaDrA
+tradeSeq
