@@ -1137,3 +1137,15 @@ MsBackendMetaboLights
 RaggedExperiment
 SpatialDecon
 tidytof
+ALDEx2
+autonomics
+BaalChIP
+CoreGx
+CytoDx
+eisaR
+geyser
+MsBackendRawFileReader
+pgxRpi
+scPCA
+spqn
+sRACIPE

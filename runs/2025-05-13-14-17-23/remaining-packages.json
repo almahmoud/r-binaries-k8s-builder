@@ -28,7 +28,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "ALDEx2": [],
   "AMARETTO": [
     "AnnotationHub",
     "ExperimentHub",
@@ -210,7 +209,6 @@
     "plyranges",
     "rtracklayer"
   ],
-  "BaalChIP": [],
   "BadRegionFinder": [
     "VariantAnnotation",
     "biomaRt",
@@ -699,14 +697,12 @@
     "BSgenome",
     "ensembldb"
   ],
-  "CoreGx": [],
   "CoverageView": [
     "rtracklayer"
   ],
   "CrispRVariants": [
     "AnnotationDbi"
   ],
-  "CytoDx": [],
   "CytoMDS": [
     "CytoPipeline",
     "ggcyto",
@@ -1921,7 +1917,6 @@
   "MsBackendMassbank": [],
   "MsBackendMgf": [],
   "MsBackendMsp": [],
-  "MsBackendRawFileReader": [],
   "MsBackendSql": [],
   "MsDataHub": [
     "ExperimentHub",
@@ -2089,7 +2084,6 @@
     "BiocSingular"
   ],
   "PDATK": [
-    "CoreGx",
     "genefu",
     "biomaRt",
     "AnnotationDbi"
@@ -2167,9 +2161,7 @@
     "flowWorkspace"
   ],
   "PhIPData": [],
-  "PharmacoGx": [
-    "CoreGx"
-  ],
+  "PharmacoGx": [],
   "PhenStat": [],
   "PhyloProfile": [
     "ExperimentHub",
@@ -2421,9 +2413,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "RadioGx": [
-    "CoreGx"
-  ],
+  "RadioGx": [],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -2959,9 +2949,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "ToxicoGx": [
-    "CoreGx"
-  ],
+  "ToxicoGx": [],
   "UCell": [],
   "UMI4Cats": [
     "ShortRead",
@@ -3086,8 +3074,7 @@
   ],
   "XeniumIO": [],
   "Xeva": [
-    "PharmacoGx",
-    "CoreGx"
+    "PharmacoGx"
   ],
   "YAPSA": [
     "SomaticSignatures",
@@ -3269,7 +3256,6 @@
     "GSEABase",
     "genefilter"
   ],
-  "autonomics": [],
   "ballgown": [
     "sva",
     "rtracklayer",
@@ -3313,7 +3299,6 @@
   ],
   "benchdamic": [
     "zinbwave",
-    "ALDEx2",
     "genefilter",
     "AnnotationDbi",
     "annotate"
@@ -4131,7 +4116,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "eisaR": [],
   "enhancerHomologSearch": [
     "BSgenome",
     "motifmatchr",
@@ -4420,12 +4404,10 @@
   "gDR": [
     "gDRcore",
     "gDRimport",
-    "CoreGx",
     "PharmacoGx"
   ],
   "gDRcore": [],
   "gDRimport": [
-    "CoreGx",
     "PharmacoGx"
   ],
   "gINTomics": [
@@ -4497,7 +4479,6 @@
     "AnnotationDbi"
   ],
   "getDEE2": [],
-  "geyser": [],
   "gg4way": [],
   "ggbio": [
     "biovizBase",
@@ -5371,9 +5352,7 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "omicplotR": [
-    "ALDEx2"
-  ],
+  "omicplotR": [],
   "omicsPrint": [],
   "ontoProc": [
     "AnnotationHub",
@@ -5501,7 +5480,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "pgxRpi": [],
   "phantasus": [
     "AnnotationDbi"
   ],
@@ -5822,7 +5800,6 @@
   ],
   "rtracklayer": [],
   "runibic": [],
-  "sRACIPE": [],
   "sSNAPPY": [
     "graphite",
     "AnnotationDbi"
@@ -5920,7 +5897,6 @@
     "scran",
     "scuttle"
   ],
-  "scPCA": [],
   "scPipe": [
     "AnnotationDbi",
     "biomaRt",
@@ -6305,7 +6281,6 @@
   "spoon": [
     "scuttle"
   ],
-  "spqn": [],
   "squallms": [
     "xcms",
     "MSnbase",

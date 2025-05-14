@@ -1,2 +1,4 @@
-CNVRanger
-omicsPrint
+PharmacoGx
+RadioGx
+ToxicoGx
+omicplotR
