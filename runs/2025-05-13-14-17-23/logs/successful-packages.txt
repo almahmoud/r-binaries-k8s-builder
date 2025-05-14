@@ -1488,3 +1488,11 @@ tidyCoverage
 tidySummarizedExperiment
 r3Cseq
 wiggleplotr
+CEMiTool
+chipenrich
+consensusSeekeR
+geneXtendeR
+MetaPhOR
+MsBackendMassbank
+seqsetvis
+webbioc

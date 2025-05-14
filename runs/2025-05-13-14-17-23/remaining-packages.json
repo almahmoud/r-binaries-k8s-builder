@@ -211,7 +211,6 @@
     "GSEABase",
     "annotate"
   ],
-  "CEMiTool": [],
   "CHRONOS": [],
   "CNEr": [
     "annotate"
@@ -914,7 +913,6 @@
     "TFBSTools"
   ],
   "MeSHDbi": [],
-  "MetaPhOR": [],
   "MetaboAnnotation": [],
   "MetaboSignal": [
     "hpar",
@@ -971,7 +969,6 @@
   "MotifDb": [],
   "MotifPeeker": [],
   "MouseFM": [],
-  "MsBackendMassbank": [],
   "MsDataHub": [
     "ExperimentHub"
   ],
@@ -1179,9 +1176,7 @@
     "ensembldb",
     "zellkonverter"
   ],
-  "RJMCMCNucleosomes": [
-    "consensusSeekeR"
-  ],
+  "RJMCMCNucleosomes": [],
   "RMassBank": [],
   "RNAAgeCalc": [
     "recount",
@@ -1836,7 +1831,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "chipenrich": [],
   "chromPlot": [],
   "chromVAR": [
     "TFBSTools"
@@ -1909,7 +1903,6 @@
     "GSEABase",
     "annotate"
   ],
-  "consensusSeekeR": [],
   "conumee": [
     "minfi",
     "bumphunter",
@@ -2258,7 +2251,6 @@
   "geneAttribution": [
     "GenomicFeatures"
   ],
-  "geneXtendeR": [],
   "genefilter": [
     "annotate"
   ],
@@ -3082,7 +3074,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "seqsetvis": [],
   "sesame": [
     "ExperimentHub"
   ],
@@ -3354,7 +3345,6 @@
   "wavClusteR": [
     "GenomicFeatures"
   ],
-  "webbioc": [],
   "xCell2": [
     "singscore",
     "GSEABase",
