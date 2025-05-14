@@ -1283,3 +1283,6 @@ globaltest
 gsean
 idiogram
 tigre
+RegEnrich
+SVMDO
+enrichplot

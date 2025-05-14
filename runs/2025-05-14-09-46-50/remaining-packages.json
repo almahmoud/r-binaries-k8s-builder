@@ -313,8 +313,7 @@
     "graphite",
     "clusterProfiler",
     "enrichplot",
-    "ExperimentHub",
-    "DOSE"
+    "ExperimentHub"
   ],
   "CCAFE": [
     "VariantAnnotation",
@@ -332,7 +331,6 @@
   ],
   "CEMiTool": [
     "clusterProfiler",
-    "DOSE",
     "enrichplot"
   ],
   "CHETAH": [
@@ -396,7 +394,6 @@
   ],
   "CaMutQC": [
     "clusterProfiler",
-    "DOSE",
     "enrichplot"
   ],
   "Category": [
@@ -409,7 +406,6 @@
   ],
   "CeTF": [
     "clusterProfiler",
-    "DOSE",
     "enrichplot"
   ],
   "CellBarcode": [
@@ -504,7 +500,6 @@
     "enrichplot",
     "GenomicFeatures",
     "rtracklayer",
-    "DOSE",
     "GenomicAlignments"
   ],
   "ChIPseqR": [
@@ -667,7 +662,6 @@
     "genefilter",
     "graphite"
   ],
-  "DOSE": [],
   "DSS": [
     "bsseq",
     "BSgenome",
@@ -819,12 +813,10 @@
   ],
   "EasyCellType": [
     "clusterProfiler",
-    "DOSE",
     "enrichplot"
   ],
   "EnrichDO": [
     "clusterProfiler",
-    "DOSE",
     "enrichplot"
   ],
   "EnrichedHeatmap": [],
@@ -839,8 +831,7 @@
     "enrichplot",
     "GenomicFeatures",
     "BSgenome",
-    "GenomicAlignments",
-    "DOSE"
+    "GenomicAlignments"
   ],
   "EpiMix": [
     "ExperimentHub",
@@ -930,7 +921,6 @@
     "MultiAssayExperiment",
     "GenomicAlignments"
   ],
-  "FuseSOM": [],
   "GA4GHclient": [
     "VariantAnnotation",
     "rtracklayer",
@@ -958,7 +948,6 @@
   ],
   "GDCRNATools": [
     "clusterProfiler",
-    "DOSE",
     "GenomicDataCommons",
     "enrichplot"
   ],
@@ -1192,7 +1181,6 @@
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "IFAA": [],
   "ILoReg": [
     "SingleCellExperiment"
   ],
@@ -1278,7 +1266,6 @@
     "sva",
     "genefilter"
   ],
-  "LACE": [],
   "LOLA": [],
   "LRcell": [
     "ExperimentHub"
@@ -1396,7 +1383,6 @@
     "MultiAssayExperiment",
     "graphite",
     "clusterProfiler",
-    "DOSE",
     "enrichplot"
   ],
   "MLInterfaces": [
@@ -1481,7 +1467,6 @@
   ],
   "MetaPhOR": [
     "clusterProfiler",
-    "DOSE",
     "enrichplot"
   ],
   "MetaboAnnotation": [
@@ -1525,8 +1510,7 @@
   "MiRaGE": [],
   "MicrobiomeProfiler": [
     "clusterProfiler",
-    "enrichplot",
-    "DOSE"
+    "enrichplot"
   ],
   "MineICA": [
     "GOstats",
@@ -1555,7 +1539,6 @@
   ],
   "Moonlight2R": [
     "clusterProfiler",
-    "DOSE",
     "GEOquery",
     "rtracklayer",
     "EpiMix",
@@ -1566,7 +1549,6 @@
   ],
   "MoonlightR": [
     "clusterProfiler",
-    "DOSE",
     "TCGAbiolinks",
     "GEOquery",
     "enrichplot"
@@ -1754,7 +1736,6 @@
   "PanomiR": [
     "clusterProfiler",
     "GSEABase",
-    "DOSE",
     "enrichplot"
   ],
   "PeacoQC": [],
@@ -1768,7 +1749,6 @@
   "Pigengene": [
     "clusterProfiler",
     "ReactomePA",
-    "DOSE",
     "enrichplot",
     "graphite"
   ],
@@ -1887,8 +1867,7 @@
     "MultiAssayExperiment",
     "coseq",
     "clusterProfiler",
-    "enrichplot",
-    "DOSE"
+    "enrichplot"
   ],
   "RJMCMCNucleosomes": [
     "consensusSeekeR",
@@ -1965,7 +1944,6 @@
     "VariantAnnotation"
   ],
   "RNAsense": [],
-  "ROCpAI": [],
   "RSVSim": [
     "ShortRead",
     "GenomicAlignments"
@@ -2011,13 +1989,10 @@
     "GSEABase"
   ],
   "ReactomePA": [
-    "DOSE",
     "enrichplot",
     "graphite"
   ],
-  "RegEnrich": [
-    "DOSE"
-  ],
+  "RegEnrich": [],
   "Repitools": [
     "GenomicAlignments",
     "rtracklayer",
@@ -2195,9 +2170,7 @@
   "SPsimSeq": [
     "SingleCellExperiment"
   ],
-  "SVMDO": [
-    "DOSE"
-  ],
+  "SVMDO": [],
   "SVP": [
     "SingleCellExperiment",
     "SpatialExperiment"
@@ -2373,8 +2346,7 @@
     "GenomicAlignments"
   ],
   "TDbasedUFEadv": [
-    "enrichplot",
-    "DOSE"
+    "enrichplot"
   ],
   "TEKRABber": [
     "rtracklayer",
@@ -2789,7 +2761,6 @@
   ],
   "bioCancer": [
     "cBioPortalData",
-    "DOSE",
     "clusterProfiler",
     "ReactomePA",
     "MultiAssayExperiment",
@@ -2860,7 +2831,6 @@
   "broadSeq": [
     "genefilter",
     "clusterProfiler",
-    "DOSE",
     "enrichplot"
   ],
   "bsseq": [
@@ -3088,7 +3058,6 @@
     "genefilter"
   ],
   "clusterProfiler": [
-    "DOSE",
     "enrichplot"
   ],
   "clustifyr": [
@@ -3320,7 +3289,6 @@
     "scuttle"
   ],
   "debrowser": [
-    "DOSE",
     "clusterProfiler",
     "sva",
     "enrichplot",
@@ -3463,12 +3431,9 @@
     "GenomicAlignments"
   ],
   "enrichViewNet": [
-    "enrichplot",
-    "DOSE"
+    "enrichplot"
   ],
-  "enrichplot": [
-    "DOSE"
-  ],
+  "enrichplot": [],
   "ensembldb": [
     "GenomicFeatures",
     "rtracklayer",
@@ -3514,7 +3479,6 @@
     "scran",
     "clusterProfiler",
     "scater",
-    "DOSE",
     "enrichplot",
     "scuttle"
   ],
@@ -3568,8 +3532,7 @@
     "GenomicFeatures",
     "TFBSTools",
     "motifmatchr",
-    "enrichplot",
-    "DOSE"
+    "enrichplot"
   ],
   "escape": [
     "AUCell",
@@ -3609,7 +3572,6 @@
   ],
   "famat": [
     "clusterProfiler",
-    "DOSE",
     "enrichplot"
   ],
   "fcScan": [
@@ -3644,7 +3606,6 @@
     "PSMatch",
     "MultiAssayExperiment"
   ],
-  "flowGate": [],
   "flowVS": [],
   "funtooNorm": [
     "minfi",
@@ -3668,7 +3629,6 @@
     "GenomicFeatures",
     "ReactomePA",
     "clusterProfiler",
-    "DOSE",
     "enrichplot",
     "rtracklayer",
     "graphite",
@@ -3760,7 +3720,6 @@
   ],
   "goSorensen": [
     "clusterProfiler",
-    "DOSE",
     "enrichplot"
   ],
   "goseq": [
@@ -3851,7 +3810,6 @@
     "GEOquery",
     "clusterProfiler",
     "ReactomePA",
-    "DOSE",
     "enrichplot",
     "rtracklayer",
     "txdbmaker",
@@ -3971,7 +3929,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "kmcut": [],
   "knowYourCG": [
     "ExperimentHub"
   ],
@@ -4081,7 +4038,6 @@
     "SingleCellExperiment"
   ],
   "meshes": [
-    "DOSE",
     "enrichplot",
     "MeSHDbi"
   ],
@@ -4147,7 +4103,6 @@
   "methylGSA": [
     "clusterProfiler",
     "missMethyl",
-    "DOSE",
     "enrichplot",
     "minfi",
     "methylumi",
@@ -4223,14 +4178,12 @@
     "GSEABase",
     "clusterProfiler",
     "ReactomePA",
-    "DOSE",
     "enrichplot",
     "graphite"
   ],
   "miRspongeR": [
     "clusterProfiler",
     "ReactomePA",
-    "DOSE",
     "enrichplot",
     "graphite"
   ],
@@ -4567,7 +4520,6 @@
   ],
   "pathlinkR": [
     "clusterProfiler",
-    "DOSE",
     "enrichplot"
   ],
   "peakPantheR": [
@@ -4684,8 +4636,7 @@
     "enrichplot",
     "GenomicAlignments",
     "chipseq",
-    "ShortRead",
-    "DOSE"
+    "ShortRead"
   ],
   "projectR": [
     "SingleCellExperiment"
@@ -5127,7 +5078,6 @@
     "rtracklayer",
     "enrichplot",
     "GenomicFeatures",
-    "DOSE",
     "GenomicAlignments"
   ],
   "seqCAT": [
@@ -5184,7 +5134,6 @@
   "signatureSearch": [
     "ExperimentHub",
     "clusterProfiler",
-    "DOSE",
     "GSEABase",
     "enrichplot"
   ],

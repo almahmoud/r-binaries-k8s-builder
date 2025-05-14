@@ -1136,3 +1136,10 @@ pdInfoBuilder
 puma
 seq2pathway
 SPONGE
+DOSE
+flowGate
+FuseSOM
+IFAA
+kmcut
+LACE
+ROCpAI
