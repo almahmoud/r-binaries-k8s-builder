@@ -1,4 +1,8 @@
-alabaster.se
-gatom
-sangeranalyseR
-scifer
+ADAMgui
+ExperimentHub
+GenomicScores
+cTRAP
+customCMPdb
+ipdDb
+ontoProc
+rGenomeTracks
