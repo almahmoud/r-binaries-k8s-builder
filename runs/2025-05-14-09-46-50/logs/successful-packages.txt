@@ -1212,3 +1212,7 @@ GNET2
 MSA2dist
 MWASTools
 OmicCircos
+GenomicDataCommons
+lionessR
+made4
+struct

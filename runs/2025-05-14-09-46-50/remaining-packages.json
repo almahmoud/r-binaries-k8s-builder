@@ -936,7 +936,6 @@
   ],
   "GDCRNATools": [
     "clusterProfiler",
-    "GenomicDataCommons",
     "enrichplot"
   ],
   "GEOexplorer": [
@@ -951,7 +950,6 @@
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -1010,7 +1008,6 @@
     "VariantAnnotation"
   ],
   "GenomicAlignments": [],
-  "GenomicDataCommons": [],
   "GenomicFeatures": [
     "rtracklayer",
     "GenomicAlignments"
@@ -1900,7 +1897,6 @@
   "RTCGAToolbox": [
     "TCGAutils",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "MultiAssayExperiment",
     "rtracklayer",
     "GenomicAlignments"
@@ -2280,7 +2276,6 @@
   ],
   "TCGAutils": [
     "GenomicFeatures",
-    "GenomicDataCommons",
     "MultiAssayExperiment",
     "rtracklayer",
     "GenomicAlignments"
@@ -2692,7 +2687,6 @@
     "enrichplot",
     "graphite",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -2770,7 +2764,6 @@
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -2799,7 +2792,6 @@
     "Category",
     "genefilter",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -2828,7 +2820,6 @@
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -3610,7 +3601,6 @@
     "MultiAssayExperiment",
     "TCGAutils",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -3857,7 +3847,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "lionessR": [],
   "lipidr": [
     "ropls",
     "MultiAssayExperiment",
@@ -3910,7 +3899,6 @@
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "made4": [],
   "magpie": [
     "rtracklayer",
     "GenomicFeatures",
@@ -3960,8 +3948,7 @@
     "MultiAssayExperiment"
   ],
   "metabolomicsWorkbenchR": [
-    "MultiAssayExperiment",
-    "struct"
+    "MultiAssayExperiment"
   ],
   "metagene2": [
     "rtracklayer",
@@ -4351,12 +4338,9 @@
     "sva",
     "omicade4",
     "MultiDataSet",
-    "made4",
     "genefilter"
   ],
-  "omicade4": [
-    "made4"
-  ],
+  "omicade4": [],
   "omicsPrint": [
     "MultiAssayExperiment"
   ],
@@ -5221,10 +5205,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "struct": [],
-  "structToolbox": [
-    "struct"
-  ],
+  "structToolbox": [],
   "supersigs": [],
   "survClust": [
     "MultiAssayExperiment"
@@ -5293,7 +5274,6 @@
     "MultiAssayExperiment",
     "TCGAutils",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer",
     "GenomicAlignments"
   ],
