@@ -1238,3 +1238,8 @@ SingleR
 cytoviewer
 MsBackendMgf
 screenCounter
+AffiXcan
+cydar
+deltaCaptureC
+ITALICS
+MetNet
