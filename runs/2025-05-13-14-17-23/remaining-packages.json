@@ -1116,7 +1116,6 @@
     "GSEABase"
   ],
   "ReactomePA": [],
-  "ReducedExperiment": [],
   "RegionalST": [
     "BayesSpace"
   ],
@@ -1386,7 +1385,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "ViSEAGO": [],
   "XDE": [
     "genefilter",
     "GeneMeta"
@@ -2092,7 +2090,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "hermes": [],
   "hiAnnotator": [],
   "hiReadsProcessor": [
     "hiAnnotator"

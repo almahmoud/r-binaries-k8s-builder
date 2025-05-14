@@ -1549,3 +1549,6 @@ Dino
 MPAC
 NetSAM
 TEKRABber
+hermes
+ReducedExperiment
+ViSEAGO
