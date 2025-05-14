@@ -183,7 +183,6 @@
   ],
   "CATALYST": [],
   "CBNplot": [
-    "graphite",
     "ExperimentHub"
   ],
   "CCAFE": [
@@ -299,7 +298,6 @@
     "HilbertVis"
   ],
   "ChromHeatMap": [],
-  "ChromSCape": [],
   "CircSeqAlignTk": [
     "Rhisat2",
     "txdbmaker",
@@ -461,8 +459,7 @@
     "ExperimentHub"
   ],
   "EnrichmentBrowser": [
-    "GSEABase",
-    "graphite"
+    "GSEABase"
   ],
   "EpiCompare": [
     "ChIPseeker",
@@ -552,8 +549,7 @@
   "GSEABenchmarkeR": [
     "EnrichmentBrowser",
     "ExperimentHub",
-    "GSEABase",
-    "graphite"
+    "GSEABase"
   ],
   "GSRI": [
     "genefilter",
@@ -783,15 +779,12 @@
   "MIRA": [
     "bsseq"
   ],
-  "MIRit": [
-    "graphite"
-  ],
+  "MIRit": [],
   "MLInterfaces": [
     "genefilter"
   ],
   "MMDiff2": [],
   "MOSClip": [
-    "graphite",
     "qpgraph",
     "GenomicFeatures"
   ],
@@ -989,8 +982,7 @@
     "ExperimentHub"
   ],
   "Pigengene": [
-    "ReactomePA",
-    "graphite"
+    "ReactomePA"
   ],
   "PrInCE": [],
   "Prostar": [
@@ -1127,9 +1119,7 @@
     "AUCell",
     "GSEABase"
   ],
-  "ReactomePA": [
-    "graphite"
-  ],
+  "ReactomePA": [],
   "ReducedExperiment": [],
   "RegionalST": [
     "BayesSpace"
@@ -1523,7 +1513,6 @@
     "ReactomePA",
     "RTCGAToolbox",
     "TCGAutils",
-    "graphite",
     "GenomicFeatures"
   ],
   "biocGraph": [
@@ -1832,8 +1821,7 @@
   ],
   "dce": [
     "epiNEM",
-    "mnem",
-    "graphite"
+    "mnem"
   ],
   "debrowser": [
     "sva",
@@ -1906,8 +1894,7 @@
   "dreamlet": [
     "GSEABase",
     "zenith",
-    "EnrichmentBrowser",
-    "graphite"
+    "EnrichmentBrowser"
   ],
   "drugTargetInteractions": [
     "ensembldb",
@@ -2044,8 +2031,7 @@
   "gDR": [],
   "gINTomics": [
     "GenomicFeatures",
-    "ReactomePA",
-    "graphite"
+    "ReactomePA"
   ],
   "gcapc": [],
   "geneAttribution": [
@@ -2101,7 +2087,6 @@
   ],
   "gpuMagic": [],
   "graper": [],
-  "graphite": [],
   "gsean": [
     "PPInfer"
   ],
@@ -2143,8 +2128,7 @@
     "bumphunter",
     "genefilter",
     "ReactomePA",
-    "txdbmaker",
-    "graphite"
+    "txdbmaker"
   ],
   "iSEEfier": [],
   "iSEEhub": [
@@ -2342,13 +2326,11 @@
   "miRSM": [
     "BicARE",
     "GSEABase",
-    "ReactomePA",
-    "graphite"
+    "ReactomePA"
   ],
   "miRspongeR": [
     "SPONGE",
-    "ReactomePA",
-    "graphite"
+    "ReactomePA"
   ],
   "mia": [],
   "miaDash": [
@@ -2379,7 +2361,6 @@
   ],
   "mnem": [],
   "mogsa": [
-    "graphite",
     "genefilter",
     "GSEABase"
   ],
@@ -2422,9 +2403,7 @@
   "msmsTests": [
     "msmsEDA"
   ],
-  "multiGSEA": [
-    "graphite"
-  ],
+  "multiGSEA": [],
   "multicrispr": [
     "CRISPRseek",
     "GenomicFeatures",
@@ -2679,9 +2658,7 @@
   "rqt": [
     "ropls"
   ],
-  "sSNAPPY": [
-    "graphite"
-  ],
+  "sSNAPPY": [],
   "sampleClassifier": [
     "MGFM",
     "MGFR"
@@ -2733,8 +2710,7 @@
     "GOstats",
     "ReactomePA",
     "GSEABase",
-    "genefilter",
-    "graphite"
+    "genefilter"
   ],
   "scTreeViz": [
     "epivizr",
@@ -3050,8 +3026,7 @@
   ],
   "zenith": [
     "EnrichmentBrowser",
-    "GSEABase",
-    "graphite"
+    "GSEABase"
   ],
   "zinbwave": [
     "genefilter"

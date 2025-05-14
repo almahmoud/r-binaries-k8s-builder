@@ -1746,3 +1746,7 @@ cfDNAPro
 nullranges
 plotgardener
 plyinteractions
+MIRit
+ReactomePA
+multiGSEA
+sSNAPPY
