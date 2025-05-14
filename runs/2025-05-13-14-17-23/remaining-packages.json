@@ -1206,7 +1206,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "GRmetrics": [],
   "GSEABase": [
     "annotate",
     "AnnotationDbi"
@@ -3177,7 +3176,6 @@
     "BiocSingular"
   ],
   "alabaster": [
-    "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
@@ -3188,28 +3186,20 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "alabaster.mae": [
-    "alabaster.se"
-  ],
-  "alabaster.sce": [
-    "alabaster.se"
-  ],
-  "alabaster.se": [],
+  "alabaster.mae": [],
+  "alabaster.sce": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
     "alabaster.sce",
     "alabaster.spatial",
-    "alabaster.se",
     "DropletUtils",
     "scuttle"
   ],
   "alabaster.spatial": [
-    "alabaster.sce",
-    "alabaster.se"
+    "alabaster.sce"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
-    "alabaster.se",
     "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
@@ -3990,7 +3980,6 @@
     "flowDensity",
     "flowViz"
   ],
-  "debCAM": [],
   "debrowser": [
     "annotate",
     "AnnotationDbi",
@@ -4828,7 +4817,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "kmcut": [],
   "knowYourCG": [
     "ExperimentHub",
     "AnnotationHub",
@@ -6235,7 +6223,6 @@
     "zellkonverter",
     "AnnotationDbi",
     "BiocSingular",
-    "alabaster.se",
     "GenomicFeatures",
     "rtracklayer",
     "annotate",
@@ -6670,7 +6657,6 @@
     "annaffy",
     "AnnotationDbi"
   ],
-  "weitrix": [],
   "wiggleplotr": [
     "rtracklayer"
   ],

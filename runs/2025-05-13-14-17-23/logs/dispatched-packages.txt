@@ -1336,3 +1336,5 @@ MetMashR
 flowWorkspace
 metabolomicsWorkbenchR
 structToolbox
+alabaster.mae
+alabaster.sce

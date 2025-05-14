@@ -1123,3 +1123,8 @@ gemma.R
 GenomicDataCommons
 MBASED
 SeqGate
+alabaster.se
+debCAM
+GRmetrics
+kmcut
+weitrix
