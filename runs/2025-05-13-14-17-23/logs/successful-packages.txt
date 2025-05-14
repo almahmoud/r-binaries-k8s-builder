@@ -1176,3 +1176,7 @@ PhIPData
 PICB
 sccomp
 scMET
+omicplotR
+SC3
+scuttle
+spatialDE
