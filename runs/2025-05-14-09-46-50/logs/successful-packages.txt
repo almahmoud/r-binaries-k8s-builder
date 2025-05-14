@@ -424,3 +424,13 @@ ggtreeSpace
 GSCA
 scde
 scMitoMut
+aCGH
+anota
+biomformat
+hmdbQuery
+RNAseqCovarImpute
+roastgsa
+RTopper
+ScreenR
+UCSC.utils
+updateObject
