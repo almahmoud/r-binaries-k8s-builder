@@ -1415,3 +1415,7 @@ ArrayExpress
 immunoClust
 POWSC
 SCArray
+betaHMM
+infinityFlow
+MiRaGE
+multiHiCcompare

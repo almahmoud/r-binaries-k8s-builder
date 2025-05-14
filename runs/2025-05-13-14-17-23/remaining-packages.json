@@ -945,9 +945,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiCDOC": [
-    "multiHiCcompare"
-  ],
+  "HiCDOC": [],
   "HiCParser": [],
   "HiContacts": [],
   "HiCool": [],
@@ -1198,7 +1196,6 @@
     "geneplotter",
     "annotate"
   ],
-  "MiRaGE": [],
   "MicrobiomeProfiler": [],
   "MicrobiotaProcess": [
     "ggtreeExtra"
@@ -2134,7 +2131,6 @@
     "genefilter",
     "annotate"
   ],
-  "betaHMM": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -3063,7 +3059,6 @@
   ],
   "immunogenViewer": [],
   "immunotation": [],
-  "infinityFlow": [],
   "intansv": [
     "ggbio",
     "biovizBase",
@@ -3405,7 +3400,6 @@
     "graphite",
     "AnnotationHub"
   ],
-  "multiHiCcompare": [],
   "multiWGCNA": [],
   "multicrispr": [
     "BSgenome",
