@@ -3738,7 +3738,6 @@
   "clusterExperiment": [
     "BiocSingular",
     "zinbwave",
-    "mbkmeans",
     "genefilter",
     "AnnotationDbi",
     "annotate"
@@ -4978,7 +4977,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "mbkmeans": [],
   "megadepth": [],
   "meshes": [
     "AnnotationDbi",
@@ -5410,7 +5408,6 @@
     "clusterExperiment",
     "BiocSingular",
     "zinbwave",
-    "mbkmeans",
     "scuttle",
     "genefilter",
     "AnnotationDbi",
