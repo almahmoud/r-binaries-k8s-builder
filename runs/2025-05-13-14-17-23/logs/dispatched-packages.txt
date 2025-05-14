@@ -1120,3 +1120,4 @@ BiocSingular
 Melissa
 scPCA
 EGAD
+clstutils

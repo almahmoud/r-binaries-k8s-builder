@@ -566,7 +566,6 @@
     "BiocSingular",
     "SingleCellExperiment"
   ],
-  "CPSM": [],
   "CRISPRball": [
     "dittoSeq",
     "PCAtools",
@@ -1424,7 +1423,6 @@
     "annotate"
   ],
   "GMRP": [],
-  "GNET2": [],
   "GNOSIS": [
     "cBioPortalData",
     "MultiAssayExperiment",
@@ -1926,7 +1924,6 @@
   "Lheuristic": [
     "MultiAssayExperiment"
   ],
-  "LimROTS": [],
   "LinkHD": [
     "MultiAssayExperiment"
   ],
@@ -2164,7 +2161,6 @@
     "MultiAssayExperiment"
   ],
   "MSstatsShiny": [],
-  "MWASTools": [],
   "Macarron": [
     "AnnotationDbi"
   ],
@@ -2216,12 +2212,10 @@
     "AnnotationDbi",
     "MultiAssayExperiment"
   ],
-  "MetaboDynamics": [],
   "MetaboSignal": [
     "hpar",
     "biomaRt",
     "AnnotationDbi",
-    "MWASTools",
     "mygene",
     "ensembldb",
     "ExperimentHub",
@@ -2673,7 +2667,6 @@
     "graphite"
   ],
   "Pirat": [],
-  "PolySTest": [],
   "PrInCE": [
     "MSnbase",
     "PSMatch",
@@ -2915,7 +2908,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RNAsense": [],
   "ROCpAI": [],
   "ROntoTools": [],
   "RSVSim": [
@@ -3187,7 +3179,6 @@
   "SCnorm": [
     "SingleCellExperiment"
   ],
-  "SDAMS": [],
   "SEraster": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -3291,7 +3282,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "Scale4C": [],
   "Sconify": [
     "flowCore"
   ],
@@ -4513,10 +4503,7 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "clst": [],
-  "clstutils": [
-    "clst"
-  ],
+  "clstutils": [],
   "clustSIGNAL": [
     "SpatialExperiment",
     "scater",

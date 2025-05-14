@@ -939,3 +939,13 @@ IFAA
 ISLET
 OVESEG
 sketchR
+clst
+CPSM
+GNET2
+LimROTS
+MetaboDynamics
+MWASTools
+PolySTest
+RNAsense
+Scale4C
+SDAMS
