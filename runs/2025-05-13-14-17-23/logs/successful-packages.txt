@@ -1024,3 +1024,4 @@ TENxIO
 CellTrails
 ClusterFoldSimilarity
 clustifyr
+MAST

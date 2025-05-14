@@ -1657,7 +1657,6 @@
     "PSMatch"
   ],
   "MAPFX": [],
-  "MAST": [],
   "MBASED": [],
   "MBECS": [
     "sva",
@@ -2170,9 +2169,7 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "POWSC": [
-    "MAST"
-  ],
+  "POWSC": [],
   "PPInfer": [
     "biomaRt",
     "AnnotationDbi"
@@ -3404,7 +3401,6 @@
   "benchdamic": [
     "zinbwave",
     "ALDEx2",
-    "MAST",
     "maaslin3",
     "genefilter",
     "AnnotationDbi",
@@ -3629,9 +3625,7 @@
   "ccmap": [
     "AnnotationDbi"
   ],
-  "celaref": [
-    "MAST"
-  ],
+  "celaref": [],
   "celda": [
     "scater",
     "scran",
@@ -6393,7 +6387,6 @@
     "ExperimentHub",
     "ensembldb",
     "GSVA",
-    "MAST",
     "scater",
     "scMerge",
     "scran",
