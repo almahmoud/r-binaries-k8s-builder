@@ -496,7 +496,6 @@
   "ChIPseqR": [
     "HilbertVis"
   ],
-  "ChIPsim": [],
   "ChromHeatMap": [
     "annotate",
     "rtracklayer"
@@ -1135,14 +1134,9 @@
   "HiCDOC": [
     "multiHiCcompare"
   ],
-  "HiCExperiment": [],
   "HiCParser": [],
-  "HiContacts": [
-    "HiCExperiment"
-  ],
-  "HiCool": [
-    "HiCExperiment"
-  ],
+  "HiContacts": [],
+  "HiCool": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome",
@@ -2270,7 +2264,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "TIN": [],
   "TMSig": [
     "GSEABase",
     "annotate"
@@ -2911,7 +2904,6 @@
     "VariantAnnotation"
   ],
   "condiments": [
-    "slingshot",
     "distinct",
     "scater"
   ],
@@ -3044,7 +3036,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "csdR": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -4645,8 +4636,7 @@
     "biomaRt"
   ],
   "scRNAseqApp": [
-    "rtracklayer",
-    "slingshot"
+    "rtracklayer"
   ],
   "scTGIF": [
     "GSEABase",
@@ -4873,7 +4863,6 @@
     "GSEABase",
     "annotate"
   ],
-  "slingshot": [],
   "smartid": [],
   "soGGi": [
     "rtracklayer",
@@ -5047,9 +5036,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tradeSeq": [
-    "slingshot"
-  ],
+  "tradeSeq": [],
   "transcriptR": [
     "chipseq",
     "GenomicFeatures",

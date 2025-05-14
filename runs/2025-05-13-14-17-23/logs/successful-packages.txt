@@ -1301,3 +1301,8 @@ apComplex
 GOfuncR
 GOSemSim
 scds
+ChIPsim
+csdR
+HiCExperiment
+slingshot
+TIN

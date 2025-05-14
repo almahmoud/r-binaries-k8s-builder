@@ -1482,3 +1482,6 @@ scHiCcompare
 DOSE
 Rcpi
 rrvgo
+HiContacts
+HiCool
+tradeSeq
