@@ -3556,7 +3556,6 @@
   "diffcyt": [
     "FlowSOM"
   ],
-  "dinoR": [],
   "distinct": [
     "scater",
     "scuttle",
@@ -4717,7 +4716,6 @@
     "annotate"
   ],
   "omicplotR": [],
-  "omicsPrint": [],
   "ontoProc": [
     "AnnotationHub"
   ],
@@ -4841,7 +4839,6 @@
     "ropls"
   ],
   "phenopath": [],
-  "philr": [],
   "pipeComp": [
     "scran",
     "scater",
@@ -5871,6 +5868,5 @@
   "zinbwave": [
     "genefilter",
     "annotate"
-  ],
-  "zitools": []
+  ]
 }

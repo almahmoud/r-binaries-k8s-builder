@@ -1161,3 +1161,7 @@ AnnotationDbi
 InteractionSet
 pairkat
 scReClassify
+dinoR
+omicsPrint
+philr
+zitools
