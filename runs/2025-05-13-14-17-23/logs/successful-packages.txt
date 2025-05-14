@@ -1084,3 +1084,5 @@ NetActivity
 stJoincount
 systemPipeTools
 waddR
+scDataviz
+xenLite

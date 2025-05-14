@@ -5972,7 +5972,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "scDataviz": [],
   "scDblFinder": [
     "BiocSingular",
     "scran",
@@ -6760,7 +6759,6 @@
     "PSMatch"
   ],
   "xcore": [],
-  "xenLite": [],
   "yamss": [],
   "yarn": [
     "biomaRt",
