@@ -2017,7 +2017,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "NetActivity": [],
   "NetSAM": [
     "biomaRt",
     "AnnotationDbi"
@@ -5239,7 +5238,6 @@
     "TFBSTools",
     "rtracklayer"
   ],
-  "mosaics": [],
   "mosdef": [
     "AnnotationDbi",
     "topGO",
@@ -6429,7 +6427,6 @@
     "VariantAnnotation"
   ],
   "ssPATHS": [],
-  "stJoincount": [],
   "stageR": [],
   "standR": [
     "RUVSeq",
@@ -6490,7 +6487,6 @@
   "systemPipeR": [
     "ShortRead"
   ],
-  "systemPipeTools": [],
   "tLOH": [
     "VariantAnnotation",
     "AnnotationDbi",
@@ -6725,7 +6721,6 @@
     "BSgenome",
     "ShortRead"
   ],
-  "waddR": [],
   "wateRmelon": [
     "methylumi",
     "lumi",

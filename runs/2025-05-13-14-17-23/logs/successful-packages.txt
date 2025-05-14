@@ -1079,3 +1079,8 @@ cypress
 DEWSeq
 flowCHIC
 miQC
+mosaics
+NetActivity
+stJoincount
+systemPipeTools
+waddR
