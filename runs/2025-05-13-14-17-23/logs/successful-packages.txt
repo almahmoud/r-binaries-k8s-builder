@@ -961,3 +961,9 @@ TOAST
 TREG
 Trendy
 VariantExperiment
+apeglm
+biotmle
+DESeq2
+gscreend
+hummingbird
+snapcount
