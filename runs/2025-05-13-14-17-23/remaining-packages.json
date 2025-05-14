@@ -392,7 +392,6 @@
     "rtracklayer"
   ],
   "CONFESS": [
-    "flowClust",
     "flowMeans",
     "flowMerge"
   ],
@@ -615,8 +614,7 @@
     "flowWorkspace",
     "openCyto",
     "ggcyto",
-    "flowViz",
-    "flowClust"
+    "flowViz"
   ],
   "CytoPipeline": [
     "ggcyto",
@@ -2057,7 +2055,6 @@
     "RTN",
     "RTNduals"
   ],
-  "RUCova": [],
   "RUVSeq": [
     "EDASeq",
     "ShortRead",
@@ -3340,7 +3337,6 @@
   ],
   "cyanoFilter": [
     "flowDensity",
-    "flowClust",
     "flowViz"
   ],
   "cydar": [],
@@ -3731,7 +3727,6 @@
     "flowViz"
   ],
   "flowClean": [],
-  "flowClust": [],
   "flowCut": [
     "flowDensity",
     "flowViz"
@@ -3748,9 +3743,7 @@
   ],
   "flowMatch": [],
   "flowMeans": [],
-  "flowMerge": [
-    "flowClust"
-  ],
+  "flowMerge": [],
   "flowPloidy": [],
   "flowSpecs": [],
   "flowStats": [
@@ -3758,8 +3751,7 @@
     "flowViz"
   ],
   "flowTrans": [
-    "flowViz",
-    "flowClust"
+    "flowViz"
   ],
   "flowVS": [
     "flowViz",
@@ -4601,8 +4593,7 @@
   ],
   "openCyto": [
     "flowViz",
-    "flowWorkspace",
-    "flowClust"
+    "flowWorkspace"
   ],
   "oposSOM": [
     "biomaRt"
@@ -5274,7 +5265,6 @@
     "biomaRt",
     "annotate"
   ],
-  "simPIC": [],
   "simpleSeg": [],
   "simplifyEnrichment": [],
   "singleCellTK": [

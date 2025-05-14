@@ -1191,3 +1191,6 @@ Xeva
 QFeatures
 scHOT
 tidybulk
+flowClust
+RUCova
+simPIC

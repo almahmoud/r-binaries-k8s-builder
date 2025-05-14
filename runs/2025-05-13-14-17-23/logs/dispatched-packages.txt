@@ -1426,3 +1426,4 @@ hdxmsqc
 mspms
 msqrob2
 scp
+flowMerge
