@@ -1005,3 +1005,7 @@ HIPPO
 HTSFilter
 LoomExperiment
 MetaNeighbor
+CoGAPS
+ILoReg
+SCnorm
+SiPSiC

@@ -709,7 +709,6 @@
   "CoCiteStats": [
     "AnnotationDbi"
   ],
-  "CoGAPS": [],
   "CoSIA": [
     "ExperimentHub",
     "AnnotationDbi",
@@ -1533,7 +1532,6 @@
     "TreeSummarizedExperiment"
   ],
   "HybridExpress": [],
-  "ILoReg": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS",
@@ -2724,7 +2722,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "SCnorm": [],
   "SEraster": [
     "SpatialExperiment"
   ],
@@ -2831,7 +2828,6 @@
     "AnnotationDbi"
   ],
   "ShortRead": [],
-  "SiPSiC": [],
   "SigCheck": [
     "MLInterfaces",
     "annotate",
