@@ -1103,3 +1103,14 @@ alabaster.se
 beachmat.tiledb
 CardinalIO
 MSstatsPTM
+Cardinal
+CompoundDb
+MetCirc
+MsBackendMassbank
+MsBackendMetaboLights
+MsBackendMgf
+MsBackendMsp
+MsBackendRawFileReader
+MsBackendSql
+SpectraQL
+tRNAdbImport

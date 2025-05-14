@@ -453,7 +453,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "MultiAssayExperiment"
@@ -631,10 +630,7 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "Cardinal": [
-    "CardinalIO"
-  ],
-  "CardinalIO": [],
+  "Cardinal": [],
   "Category": [
     "AnnotationDbi",
     "GSEABase",
@@ -826,7 +822,6 @@
   "ClassifyR": [
     "MultiAssayExperiment",
     "genefilter",
-    "dcanr",
     "AnnotationDbi",
     "annotate"
   ],
@@ -846,7 +841,6 @@
   "CluMSID": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -871,9 +865,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "CompoundDb": [
-    "Spectra"
-  ],
+  "CompoundDb": [],
   "CopyNumberPlots": [
     "karyoploteR",
     "regioneR",
@@ -950,7 +942,6 @@
   "DAPAR": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -966,7 +957,6 @@
   "DEP": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -1324,7 +1314,6 @@
     "txdbmaker",
     "tRNAdbImport",
     "rtracklayer",
-    "tRNA",
     "biomaRt",
     "GenomicAlignments"
   ],
@@ -1878,7 +1867,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "MultiAssayExperiment"
@@ -1973,7 +1961,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "MultiAssayExperiment"
@@ -2043,7 +2030,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "MultiAssayExperiment"
@@ -2117,7 +2103,6 @@
     "AnnotationDbi",
     "GenomicAlignments"
   ],
-  "MEIGOR": [],
   "MGFM": [
     "AnnotationDbi",
     "annotate"
@@ -2216,13 +2201,11 @@
     "AnnotationDbi",
     "msmsEDA",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
   "MSnbase": [
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -2233,7 +2216,6 @@
   "MSstatsQC": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -2241,7 +2223,6 @@
     "MSstatsQC",
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -2276,9 +2257,7 @@
   "MesKit": [
     "AnnotationDbi"
   ],
-  "MetCirc": [
-    "Spectra"
-  ],
+  "MetCirc": [],
   "MetMashR": [
     "struct"
   ],
@@ -2298,7 +2277,6 @@
     "GOSemSim"
   ],
   "MetaboAnnotation": [
-    "Spectra",
     "QFeatures",
     "AnnotationHub",
     "CompoundDb",
@@ -2435,38 +2413,24 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "MsBackendMassbank": [
-    "Spectra"
-  ],
-  "MsBackendMetaboLights": [
-    "Spectra"
-  ],
-  "MsBackendMgf": [
-    "Spectra"
-  ],
-  "MsBackendMsp": [
-    "Spectra"
-  ],
-  "MsBackendRawFileReader": [
-    "Spectra"
-  ],
-  "MsBackendSql": [
-    "Spectra"
-  ],
+  "MsBackendMassbank": [],
+  "MsBackendMetaboLights": [],
+  "MsBackendMgf": [],
+  "MsBackendMsp": [],
+  "MsBackendRawFileReader": [],
+  "MsBackendSql": [],
   "MsDataHub": [
     "ExperimentHub",
     "AnnotationHub",
     "AnnotationDbi"
   ],
   "MsExperiment": [
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
   "MsFeatures": [],
   "MsQuality": [
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -2730,7 +2694,6 @@
     "PSMatch",
     "DESeq2",
     "sva",
-    "Spectra",
     "QFeatures",
     "genefilter",
     "AnnotationDbi",
@@ -2744,7 +2707,6 @@
     "annotate"
   ],
   "PSMatch": [
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -2791,7 +2753,6 @@
   "PrInCE": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -2799,7 +2760,6 @@
     "DAPAR",
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -2962,7 +2922,6 @@
   "RMassBank": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -3539,10 +3498,7 @@
     "scuttle"
   ],
   "SpatialOmicsOverlay": [],
-  "Spectra": [],
-  "SpectraQL": [
-    "Spectra"
-  ],
+  "SpectraQL": [],
   "SpectralTAD": [
     "HiCcompare",
     "InteractionSet"
@@ -3730,7 +3686,6 @@
     "ClassifyR",
     "MultiAssayExperiment",
     "genefilter",
-    "dcanr",
     "AnnotationDbi",
     "annotate"
   ],
@@ -4200,7 +4155,6 @@
     "AnnotationDbi",
     "annotate",
     "genefilter",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -4662,7 +4616,6 @@
     "PSMatch",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -4816,7 +4769,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "MultiAssayExperiment"
@@ -5040,7 +4992,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "dcanr": [],
   "dce": [
     "epiNEM",
     "mnem",
@@ -5518,7 +5469,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "MultiAssayExperiment"
@@ -5868,7 +5818,6 @@
   ],
   "hdxmsqc": [
     "QFeatures",
-    "Spectra",
     "MultiAssayExperiment"
   ],
   "hermes": [
@@ -6182,7 +6131,6 @@
     "ClassifyR",
     "MultiAssayExperiment",
     "genefilter",
-    "dcanr",
     "AnnotationDbi",
     "annotate"
   ],
@@ -6300,7 +6248,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "MultiAssayExperiment"
@@ -6686,7 +6633,6 @@
   "msmsEDA": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -6694,7 +6640,6 @@
     "MSnbase",
     "msmsEDA",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -6719,7 +6664,6 @@
     "AnnotationDbi"
   ],
   "multiWGCNA": [
-    "dcanr",
     "AnnotationDbi"
   ],
   "multicrispr": [
@@ -6785,12 +6729,10 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "MultiAssayExperiment"
   ],
-  "ncRNAtools": [],
   "ncdfFlow": [
     "flowCore"
   ],
@@ -6876,7 +6818,6 @@
     "MSnbase",
     "PSMatch",
     "MultiAssayExperiment",
-    "Spectra",
     "QFeatures"
   ],
   "omicRexposome": [
@@ -6943,7 +6884,6 @@
     "annotate",
     "genefilter",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -6956,7 +6896,6 @@
     "AnnotationDbi",
     "annotate",
     "genefilter",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -7039,7 +6978,6 @@
   "peakPantheR": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -7211,7 +7149,6 @@
   "ptairMS": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -7222,7 +7159,6 @@
   "qPLEXanalyzer": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -7751,7 +7687,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "scrapper": [],
   "screenCounter": [],
   "scruff": [
     "GenomicAlignments",
@@ -8092,7 +8027,6 @@
     "simpleSeg",
     "MultiAssayExperiment",
     "genefilter",
-    "dcanr",
     "cytomapper",
     "AnnotationDbi",
     "annotate"
@@ -8132,7 +8066,6 @@
     "xcms",
     "MSnbase",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "MsFeatures",
@@ -8218,7 +8151,6 @@
   "synapter": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -8241,12 +8173,8 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "tRNA": [],
-  "tRNAdbImport": [
-    "tRNA"
-  ],
+  "tRNAdbImport": [],
   "tRNAscanImport": [
-    "tRNA",
     "rtracklayer",
     "BSgenome",
     "GenomicAlignments"
@@ -8337,7 +8265,6 @@
   "topdownr": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment"
   ],
@@ -8575,7 +8502,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "MultiAssayExperiment"

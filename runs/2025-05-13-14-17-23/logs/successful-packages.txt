@@ -899,3 +899,10 @@ EnhancedVolcano
 msPurity
 panelcn.mops
 transomics2cytoscape
+CardinalIO
+dcanr
+MEIGOR
+ncRNAtools
+scrapper
+Spectra
+tRNA
