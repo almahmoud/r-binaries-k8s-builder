@@ -933,3 +933,9 @@ FELLA
 GEOquery
 MsFeatures
 SpatialOmicsOverlay
+Dune
+FuseSOM
+IFAA
+ISLET
+OVESEG
+sketchR

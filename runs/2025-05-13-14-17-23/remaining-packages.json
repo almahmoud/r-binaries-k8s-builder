@@ -1139,7 +1139,6 @@
     "oligo",
     "oligoClasses"
   ],
-  "Dune": [],
   "DuplexDiscovereR": [
     "InteractionSet",
     "Gviz",
@@ -1374,7 +1373,6 @@
   "FlowSOM": [
     "flowCore"
   ],
-  "FuseSOM": [],
   "GA4GHclient": [
     "VariantAnnotation",
     "AnnotationDbi",
@@ -1795,7 +1793,6 @@
   "HybridExpress": [
     "DESeq2"
   ],
-  "IFAA": [],
   "ILoReg": [
     "SingleCellExperiment"
   ],
@@ -1826,7 +1823,6 @@
     "PSMatch",
     "MultiAssayExperiment"
   ],
-  "ISLET": [],
   "ITALICS": [
     "oligo",
     "oligoClasses"
@@ -2510,7 +2506,6 @@
     "biomaRt",
     "GenomicAlignments"
   ],
-  "OVESEG": [],
   "OmaDB": [
     "topGO",
     "AnnotationDbi"
@@ -7744,7 +7739,6 @@
     "GenomicAlignments"
   ],
   "sitePath": [],
-  "sketchR": [],
   "skewr": [
     "methylumi",
     "wateRmelon",
