@@ -317,9 +317,7 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "BulkSignalR": [
-    "orthogene"
-  ],
+  "BulkSignalR": [],
   "CAEN": [],
   "CAFE": [
     "biovizBase",
@@ -991,7 +989,6 @@
     "rtracklayer"
   ],
   "EWCE": [
-    "orthogene",
     "ExperimentHub",
     "AnnotationHub",
     "AnnotationDbi"
@@ -1042,7 +1039,6 @@
     "AnnotationDbi",
     "GenomicFeatures",
     "txdbmaker",
-    "tRNAdbImport",
     "rtracklayer",
     "biomaRt"
   ],
@@ -1155,7 +1151,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "GENESIS": [],
   "GEOexplorer": [
     "sva",
     "genefilter",
@@ -1627,7 +1622,6 @@
     "QFeatures",
     "PSMatch"
   ],
-  "MAPFX": [],
   "MBECS": [
     "sva",
     "genefilter",
@@ -2271,7 +2265,6 @@
     "GenomicFeatures"
   ],
   "RAIDS": [
-    "GENESIS",
     "ensembldb",
     "BSgenome",
     "AnnotationDbi",
@@ -4085,7 +4078,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "divergence": [],
   "dmrseq": [
     "bsseq",
     "bumphunter",
@@ -5422,7 +5414,6 @@
   "optimalFlow": [
     "flowMeans"
   ],
-  "orthogene": [],
   "orthos": [
     "AnnotationHub",
     "ExperimentHub",
@@ -6413,7 +6404,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "tRNAdbImport": [],
   "tRNAscanImport": [
     "rtracklayer",
     "BSgenome"

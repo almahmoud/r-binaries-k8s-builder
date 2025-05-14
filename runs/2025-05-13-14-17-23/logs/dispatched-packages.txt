@@ -1338,3 +1338,4 @@ metabolomicsWorkbenchR
 structToolbox
 alabaster.mae
 alabaster.sce
+BulkSignalR
