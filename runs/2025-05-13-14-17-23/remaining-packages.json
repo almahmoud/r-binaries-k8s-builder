@@ -2047,7 +2047,6 @@
     "txdbmaker"
   ],
   "ggtreeExtra": [],
-  "ginmappeR": [],
   "glmSparseNet": [
     "TCGAutils",
     "GenomicFeatures"
@@ -2157,7 +2156,6 @@
     "genefilter"
   ],
   "ipdDb": [],
-  "isobar": [],
   "karyoploteR": [
     "regioneR",
     "biovizBase",
@@ -2868,7 +2866,6 @@
   "strandCheckR": [
     "GenomicFeatures"
   ],
-  "surfaltr": [],
   "sva": [
     "genefilter"
   ],

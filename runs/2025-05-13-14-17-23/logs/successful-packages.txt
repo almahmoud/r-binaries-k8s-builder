@@ -1561,3 +1561,6 @@ mnem
 seq2pathway
 Spaniel
 transcriptogramer
+ginmappeR
+isobar
+surfaltr
