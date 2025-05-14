@@ -420,7 +420,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "Cardinal": [],
   "Category": [
     "GSEABase",
     "genefilter",
@@ -1065,7 +1064,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "GenProSeq": [],
   "GenVisR": [
     "biomaRt",
     "GenomicFeatures",
@@ -1316,7 +1314,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "Lheuristic": [],
   "LinkHD": [],
   "Linnorm": [],
   "LiquidAssociation": [],
@@ -1431,7 +1428,6 @@
     "rtracklayer"
   ],
   "MODA": [],
-  "MOMA": [],
   "MOSClip": [
     "graphite",
     "qpgraph",
@@ -1656,7 +1652,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "NormalyzerDE": [],
   "NormqPCR": [],
   "OGRE": [
     "Gviz",
@@ -1766,7 +1761,6 @@
     "annotate"
   ],
   "PRONE": [
-    "NormalyzerDE",
     "MSnbase",
     "POMA",
     "sva",
@@ -2324,7 +2318,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SpotSweeper": [],
   "StabMap": [
     "BiocSingular"
   ],
@@ -5242,7 +5235,6 @@
     "VariantAnnotation"
   ],
   "ssPATHS": [],
-  "stageR": [],
   "standR": [
     "RUVSeq",
     "EDASeq",

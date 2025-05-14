@@ -1260,3 +1260,10 @@ BiFET
 ggtreeDendro
 mpra
 SpectraQL
+Cardinal
+GenProSeq
+Lheuristic
+MOMA
+NormalyzerDE
+SpotSweeper
+stageR
