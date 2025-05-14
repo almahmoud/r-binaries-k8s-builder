@@ -207,7 +207,6 @@
     "oligoClasses",
     "SummarizedExperiment"
   ],
-  "AssessORF": [],
   "BANDITS": [
     "DRIMSeq"
   ],
@@ -552,7 +551,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "mzID",
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
@@ -1030,7 +1028,6 @@
     "mzR",
     "MSnbase",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -1152,7 +1149,6 @@
     "MSnbase",
     "mzR",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -1179,7 +1175,6 @@
     "MSnbase",
     "mzR",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -2088,13 +2083,10 @@
   "GenomicSuperSignature": [
     "SummarizedExperiment"
   ],
-  "GeoDiff": [
-    "GeomxTools"
-  ],
+  "GeoDiff": [],
   "GeoTcgaData": [
     "SummarizedExperiment"
   ],
-  "GeomxTools": [],
   "Glimma": [
     "DESeq2",
     "SummarizedExperiment"
@@ -2292,7 +2284,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "mzID",
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
@@ -2408,7 +2399,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "mzID",
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
@@ -2499,7 +2489,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "mzID",
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
@@ -2704,7 +2693,6 @@
   ],
   "MSnID": [
     "MSnbase",
-    "mzID",
     "mzR",
     "msmsTests",
     "AnnotationHub",
@@ -2720,7 +2708,6 @@
   "MSnbase": [
     "mzR",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -2740,7 +2727,6 @@
     "MSnbase",
     "mzR",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -2752,7 +2738,6 @@
     "MSnbase",
     "mzR",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -3345,7 +3330,6 @@
     "POMA",
     "mzR",
     "PSMatch",
-    "mzID",
     "DESeq2",
     "sva",
     "Spectra",
@@ -3430,7 +3414,6 @@
     "MSnbase",
     "mzR",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -3442,7 +3425,6 @@
     "MSnbase",
     "mzR",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -3640,7 +3622,6 @@
     "MSnbase",
     "mzR",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -4333,9 +4314,7 @@
   "SpatialCPie": [
     "SummarizedExperiment"
   ],
-  "SpatialDecon": [
-    "GeomxTools"
-  ],
+  "SpatialDecon": [],
   "SpatialExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -4358,9 +4337,7 @@
     "beachmat",
     "scuttle"
   ],
-  "SpatialOmicsOverlay": [
-    "GeomxTools"
-  ],
+  "SpatialOmicsOverlay": [],
   "Spectra": [],
   "SpectraQL": [
     "Spectra"
@@ -4631,7 +4608,6 @@
     "GenomicAlignments"
   ],
   "TargetDecoy": [
-    "mzID",
     "mzR"
   ],
   "TileDBArray": [],
@@ -5169,7 +5145,6 @@
     "pRoloc",
     "mzR",
     "PSMatch",
-    "mzID",
     "MLInterfaces",
     "biomaRt",
     "AnnotationDbi",
@@ -5233,7 +5208,6 @@
     "ALDEx2",
     "SummarizedExperiment",
     "MAST",
-    "microbiome",
     "dearseq",
     "maaslin3",
     "SingleCellExperiment",
@@ -5736,7 +5710,6 @@
     "MSnbase",
     "mzR",
     "PSMatch",
-    "mzID",
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
@@ -5938,7 +5911,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "mzID",
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
@@ -6776,7 +6748,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "mzID",
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
@@ -7188,7 +7159,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "h5vc": [],
   "hdxmsqc": [
     "QFeatures",
     "Spectra",
@@ -7726,7 +7696,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "mzID",
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
@@ -7998,7 +7967,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "microbiome": [],
   "microbiomeExplorer": [
     "DESeq2",
     "SummarizedExperiment"
@@ -8198,7 +8166,6 @@
     "MSnbase",
     "mzR",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -8210,7 +8177,6 @@
     "msmsEDA",
     "mzR",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -8317,7 +8283,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "mzID": [],
   "mzR": [],
   "ncGTW": [
     "xcms",
@@ -8329,7 +8294,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "mzID",
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
@@ -8437,7 +8401,6 @@
     "SummarizedExperiment",
     "MultiAssayExperiment",
     "mzR",
-    "mzID",
     "Spectra",
     "QFeatures",
     "AnnotationFilter"
@@ -8525,7 +8488,6 @@
     "SummarizedExperiment",
     "mzR",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -8536,7 +8498,6 @@
     "MSnbase",
     "mzR",
     "PSMatch",
-    "mzID",
     "MLInterfaces",
     "biomaRt",
     "AnnotationDbi",
@@ -8642,7 +8603,6 @@
     "MSnbase",
     "mzR",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -8862,7 +8822,6 @@
     "MSnbase",
     "mzR",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -8878,7 +8837,6 @@
     "MSnbase",
     "mzR",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -10016,7 +9974,6 @@
     "QFeatures",
     "mzR",
     "PSMatch",
-    "mzID",
     "MsFeatures",
     "MultiAssayExperiment",
     "AnnotationFilter"
@@ -10125,7 +10082,6 @@
     "MSnbase",
     "mzR",
     "PSMatch",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -10272,7 +10228,6 @@
     "MSnbase",
     "PSMatch",
     "mzR",
-    "mzID",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -10569,7 +10524,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "mzID",
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],

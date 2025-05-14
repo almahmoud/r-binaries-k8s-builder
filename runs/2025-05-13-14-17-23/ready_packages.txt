@@ -1,4 +1,3 @@
-AnnotationDbi
-FELLA
-ROntoTools
-transomics2cytoscape
+GeoDiff
+SpatialDecon
+SpatialOmicsOverlay
