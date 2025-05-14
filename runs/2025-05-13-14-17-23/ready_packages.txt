@@ -1,4 +1,4 @@
-AssessORF
-SynExtend
-openPrimeR
-sangeranalyseR
+AnnotationDbi
+FELLA
+ROntoTools
+transomics2cytoscape

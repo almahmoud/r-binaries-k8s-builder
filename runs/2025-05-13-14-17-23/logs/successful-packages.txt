@@ -788,3 +788,10 @@ alabaster.matrix
 chihaya
 DECIPHER
 triplex
+ADAPT
+cellbaseR
+KEGGREST
+microbiomeDASim
+RCM
+reconsi
+RPA
