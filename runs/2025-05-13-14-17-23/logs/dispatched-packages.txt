@@ -1332,3 +1332,7 @@ pdInfoBuilder
 puma
 SpotSweeper
 gDRcore
+MetMashR
+flowWorkspace
+metabolomicsWorkbenchR
+structToolbox

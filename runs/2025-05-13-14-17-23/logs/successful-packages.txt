@@ -1098,3 +1098,10 @@ prebs
 scDiagnostics
 tidyFlowCore
 xcore
+ncdfFlow
+planttfhunter
+ROntoTools
+Sconify
+sigFeature
+struct
+vsclust

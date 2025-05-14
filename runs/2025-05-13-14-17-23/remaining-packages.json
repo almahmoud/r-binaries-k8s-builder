@@ -176,7 +176,6 @@
     "annotate"
   ],
   "BLMA": [
-    "ROntoTools",
     "PADOG",
     "AnnotationDbi"
   ],
@@ -718,28 +717,24 @@
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "ncdfFlow",
     "flowWorkspace"
   ],
   "CytoML": [
     "flowWorkspace",
     "openCyto",
     "ggcyto",
-    "ncdfFlow",
     "flowViz",
     "flowClust"
   ],
   "CytoPipeline": [
     "ggcyto",
     "PeacoQC",
-    "ncdfFlow",
     "flowWorkspace"
   ],
   "CytoPipelineGUI": [
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "ncdfFlow",
     "flowWorkspace"
   ],
   "DAMEfinder": [
@@ -1815,9 +1810,7 @@
     "AnnotationDbi"
   ],
   "MetCirc": [],
-  "MetMashR": [
-    "struct"
-  ],
+  "MetMashR": [],
   "MetNet": [],
   "MetaCyto": [
     "FlowSOM"
@@ -2190,8 +2183,7 @@
   ],
   "PathoStat": [],
   "PeacoQC": [
-    "flowWorkspace",
-    "ncdfFlow"
+    "flowWorkspace"
   ],
   "PhIPData": [],
   "PharmacoGx": [
@@ -2424,7 +2416,6 @@
     "VariantAnnotation"
   ],
   "ROCpAI": [],
-  "ROntoTools": [],
   "RSVSim": [
     "ShortRead"
   ],
@@ -2734,7 +2725,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "Sconify": [],
   "SemDist": [
     "AnnotationDbi",
     "annotate"
@@ -4431,8 +4421,7 @@
   ],
   "flowGate": [
     "flowWorkspace",
-    "ggcyto",
-    "ncdfFlow"
+    "ggcyto"
   ],
   "flowMatch": [],
   "flowMeans": [],
@@ -4443,7 +4432,6 @@
   "flowSpecs": [],
   "flowStats": [
     "flowWorkspace",
-    "ncdfFlow",
     "flowViz"
   ],
   "flowTrans": [
@@ -4453,13 +4441,10 @@
   "flowVS": [
     "flowViz",
     "flowStats",
-    "flowWorkspace",
-    "ncdfFlow"
+    "flowWorkspace"
   ],
   "flowViz": [],
-  "flowWorkspace": [
-    "ncdfFlow"
-  ],
+  "flowWorkspace": [],
   "frma": [],
   "funOmics": [
     "AnnotationDbi"
@@ -4578,7 +4563,6 @@
     "biomaRt"
   ],
   "ggcyto": [
-    "ncdfFlow",
     "flowWorkspace"
   ],
   "ggtreeDendro": [],
@@ -4990,9 +4974,7 @@
     "QFeatures",
     "PSMatch"
   ],
-  "metabolomicsWorkbenchR": [
-    "struct"
-  ],
+  "metabolomicsWorkbenchR": [],
   "metagene2": [
     "rtracklayer"
   ],
@@ -5180,7 +5162,6 @@
     "rtracklayer"
   ],
   "mirIntegrator": [
-    "ROntoTools",
     "AnnotationDbi"
   ],
   "missMethyl": [
@@ -5377,7 +5358,6 @@
     "QFeatures",
     "PSMatch"
   ],
-  "ncdfFlow": [],
   "nearBynding": [
     "plyranges",
     "rtracklayer",
@@ -5458,7 +5438,6 @@
   ],
   "openCyto": [
     "flowViz",
-    "ncdfFlow",
     "flowWorkspace",
     "flowClust"
   ],
@@ -5608,7 +5587,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "planttfhunter": [],
   "plotgardener": [
     "plyranges",
     "rtracklayer"
@@ -6223,7 +6201,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "sigFeature": [],
   "signatureSearch": [
     "AnnotationDbi",
     "ExperimentHub",
@@ -6428,10 +6405,7 @@
     "AnnotationDbi",
     "rtracklayer"
   ],
-  "struct": [],
-  "structToolbox": [
-    "struct"
-  ],
+  "structToolbox": [],
   "supersigs": [],
   "surfaltr": [
     "biomaRt",
@@ -6679,7 +6653,6 @@
     "AnnotationDbi",
     "rtracklayer"
   ],
-  "vsclust": [],
   "vtpnet": [
     "gwascat",
     "GenomicFeatures",
