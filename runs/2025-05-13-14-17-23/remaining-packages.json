@@ -520,7 +520,6 @@
     "genefilter",
     "annotate"
   ],
-  "CatsCradle": [],
   "CeTF": [
     "clusterProfiler",
     "AnnotationDbi",
@@ -1091,7 +1090,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "ExperimentSubset": [],
   "FEAST": [
     "TSCAN",
     "SC3"
