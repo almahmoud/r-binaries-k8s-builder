@@ -1,8 +1,0 @@
-graper
-genoCN
-RbowtieCuda
-gpuMagic
-HilbertVis
-NormqPCR
-PhenStat
-ramr
