@@ -1631,7 +1631,6 @@
   ],
   "MAGAR": [
     "RnBeads",
-    "crlmm",
     "methylumi",
     "minfi",
     "annotate",
@@ -1915,7 +1914,6 @@
   ],
   "MinimumDistance": [
     "VanillaICE",
-    "crlmm",
     "BSgenome",
     "rtracklayer"
   ],
@@ -3081,7 +3079,6 @@
     "annotate"
   ],
   "VanillaICE": [
-    "crlmm",
     "BSgenome",
     "rtracklayer"
   ],
@@ -3960,7 +3957,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "crlmm": [],
   "crumblr": [],
   "crupR": [
     "rtracklayer",
@@ -4620,7 +4616,6 @@
     "ncdfFlow",
     "flowWorkspace"
   ],
-  "ggsc": [],
   "ggspavis": [],
   "ggtreeDendro": [],
   "ggtreeExtra": [],
@@ -4733,7 +4728,6 @@
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "hoodscanR": [],
   "hpar": [
     "ExperimentHub",
     "AnnotationHub",

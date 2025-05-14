@@ -1048,3 +1048,6 @@ dittoSeq
 miaSim
 SEraster
 VisiumIO
+crlmm
+ggsc
+hoodscanR
