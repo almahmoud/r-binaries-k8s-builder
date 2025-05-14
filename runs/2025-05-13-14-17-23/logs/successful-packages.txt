@@ -1278,3 +1278,9 @@ flowPloidy
 flowSpecs
 gDRcore
 wpm
+alabaster.mae
+csaw
+DiscoRhythm
+MICSQTL
+SplicingFactory
+TSCAN

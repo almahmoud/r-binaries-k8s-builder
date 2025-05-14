@@ -736,7 +736,6 @@
   "Dino": [
     "scran"
   ],
-  "DiscoRhythm": [],
   "DominoEffect": [
     "biomaRt",
     "VariantAnnotation",
@@ -879,9 +878,7 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "FEAST": [
-    "TSCAN"
-  ],
+  "FEAST": [],
   "FLAMES": [
     "bambu",
     "GenomicFeatures",
@@ -1378,7 +1375,6 @@
     "mia",
     "scater"
   ],
-  "MICSQTL": [],
   "MIRA": [
     "bsseq",
     "BSgenome",
@@ -1586,7 +1582,6 @@
     "rtracklayer",
     "trackViewer",
     "ATACseqQC",
-    "csaw",
     "BSgenome",
     "ChIPpeakAnno",
     "GenomicScores",
@@ -2270,7 +2265,6 @@
     "annotate",
     "ExperimentHub"
   ],
-  "SplicingFactory": [],
   "SplicingGraphs": [
     "GenomicFeatures",
     "rtracklayer"
@@ -2375,7 +2369,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "TSCAN": [],
   "TTMap": [],
   "TVTB": [
     "ensembldb",
@@ -2557,13 +2550,11 @@
     "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
-    "alabaster.mae",
     "VariantAnnotation",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures"
   ],
-  "alabaster.mae": [],
   "alabaster.sce": [],
   "alabaster.sfe": [
     "alabaster.sce",
@@ -3155,7 +3146,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "csaw": [],
   "csdR": [],
   "cummeRbund": [
     "rtracklayer",
@@ -3282,7 +3272,6 @@
   ],
   "diffHic": [
     "BSgenome",
-    "csaw",
     "rtracklayer"
   ],
   "diffUTR": [
@@ -3387,7 +3376,6 @@
   ],
   "epigraHMM": [
     "rtracklayer",
-    "csaw",
     "GreyListChIP",
     "BSgenome"
   ],
@@ -3504,7 +3492,6 @@
     "MLP"
   ],
   "extraChIPs": [
-    "csaw",
     "rtracklayer"
   ],
   "fCCAC": [
@@ -3818,7 +3805,6 @@
     "ShortRead",
     "rtracklayer",
     "VariantAnnotation",
-    "csaw",
     "BSgenome"
   ],
   "ideal": [
@@ -5025,7 +5011,6 @@
     "GSEABase",
     "zinbwave",
     "scDblFinder",
-    "TSCAN",
     "zellkonverter",
     "GenomicFeatures",
     "rtracklayer",
@@ -5338,7 +5323,6 @@
   "vulcan": [
     "ChIPpeakAnno",
     "DiffBind",
-    "csaw",
     "GenomicFeatures",
     "biomaRt",
     "regioneR",
