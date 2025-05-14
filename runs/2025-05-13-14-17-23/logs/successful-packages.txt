@@ -1422,3 +1422,15 @@ multiHiCcompare
 BulkSignalR
 multistateQTL
 TADCompare
+batchelor
+biomaRt
+BLMA
+ChIPXpress
+flowMerge
+Linnorm
+megadepth
+multiWGCNA
+RTNduals
+scater
+scHiCcompare
+scran
