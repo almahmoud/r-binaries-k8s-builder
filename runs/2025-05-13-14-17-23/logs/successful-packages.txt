@@ -1227,3 +1227,6 @@ SpatialExperimentIO
 coseq
 scCB2
 SPIAT
+frma
+imcRtools
+survClust

@@ -1436,3 +1436,4 @@ MsQuality
 MSnbase
 DifferentialRegulation
 GenProSeq
+ChIPXpress

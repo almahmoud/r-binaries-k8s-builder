@@ -496,9 +496,7 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "ChIPXpress": [
-    "frma"
-  ],
+  "ChIPXpress": [],
   "ChIPanalyser": [
     "BSgenome",
     "rtracklayer"
@@ -3688,7 +3686,6 @@
   ],
   "flowViz": [],
   "flowWorkspace": [],
-  "frma": [],
   "funOmics": [],
   "funtooNorm": [
     "minfi",
@@ -3962,7 +3959,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "imcRtools": [],
   "immunoClust": [],
   "immunogenViewer": [
     "UniProt.ws"
@@ -5307,7 +5303,6 @@
   "surfaltr": [
     "biomaRt"
   ],
-  "survClust": [],
   "sva": [
     "genefilter",
     "annotate"
