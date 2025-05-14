@@ -1392,3 +1392,11 @@ DropletUtils
 MsDataHub
 simPIC
 tradeSeq
+DESpace
+HiCParser
+MLInterfaces
+MultiBaC
+NBAMSeq
+regionalpcs
+SplineDV
+spoon

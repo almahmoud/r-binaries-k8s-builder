@@ -403,7 +403,6 @@
   "DEP": [
     "MSnbase"
   ],
-  "DESpace": [],
   "DEXSeq": [],
   "DExMA": [
     "GEOquery",
@@ -765,7 +764,6 @@
     "HiCcompare"
   ],
   "HiCExperiment": [],
-  "HiCParser": [],
   "HiCcompare": [],
   "HiContacts": [
     "HiCExperiment"
@@ -910,7 +908,6 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "MLInterfaces": [],
   "MMDiff2": [
     "BSgenome",
     "rtracklayer"
@@ -1028,7 +1025,6 @@
   "MsQuality": [
     "MsExperiment"
   ],
-  "MultiBaC": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",
@@ -1041,7 +1037,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "NBAMSeq": [],
   "NanoMethViz": [
     "bsseq",
     "BSgenome",
@@ -1433,9 +1428,7 @@
   "SPsimSeq": [],
   "SeqSQC": [],
   "ShortRead": [],
-  "SigCheck": [
-    "MLInterfaces"
-  ],
+  "SigCheck": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
@@ -1493,7 +1486,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SplineDV": [],
   "SpotSweeper": [],
   "Statial": [
     "treekoR"
@@ -1762,8 +1754,7 @@
   ],
   "bandle": [
     "MSnbase",
-    "pRoloc",
-    "MLInterfaces"
+    "pRoloc"
   ],
   "basecallQC": [
     "ShortRead"
@@ -2943,13 +2934,11 @@
   ],
   "orthos": [],
   "pRoloc": [
-    "MSnbase",
-    "MLInterfaces"
+    "MSnbase"
   ],
   "pRolocGUI": [
     "pRoloc",
-    "MSnbase",
-    "MLInterfaces"
+    "MSnbase"
   ],
   "padma": [],
   "pageRank": [
@@ -3143,7 +3132,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "regionalpcs": [],
   "regutools": [
     "Gviz",
     "rtracklayer",
@@ -3430,7 +3418,6 @@
     "scater"
   ],
   "splatter": [],
-  "spoon": [],
   "squallms": [
     "xcms",
     "MSnbase",
