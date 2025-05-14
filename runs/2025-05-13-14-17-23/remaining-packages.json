@@ -129,9 +129,7 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "BgeeDB": [
-    "zellkonverter"
-  ],
+  "BgeeDB": [],
   "BiSeq": [
     "globaltest",
     "annotate"
@@ -401,7 +399,6 @@
     "genefilter",
     "annotate"
   ],
-  "DMCFB": [],
   "DMRcate": [
     "ExperimentHub",
     "bsseq",
@@ -597,7 +594,6 @@
   ],
   "GOTHiC": [],
   "GOexpress": [],
-  "GOpro": [],
   "GOstats": [
     "Category",
     "annotate",
@@ -1167,8 +1163,7 @@
   "RITAN": [
     "BgeeDB",
     "GenomicFeatures",
-    "ensembldb",
-    "zellkonverter"
+    "ensembldb"
   ],
   "RMassBank": [],
   "RNAAgeCalc": [
@@ -3103,7 +3098,6 @@
     "GSEABase",
     "zinbwave",
     "scDblFinder",
-    "zellkonverter",
     "GenomicFeatures",
     "annotate",
     "M3Drop",
@@ -3278,9 +3272,7 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "velociraptor": [
-    "zellkonverter"
-  ],
+  "velociraptor": [],
   "visiumStitched": [
     "ExperimentHub"
   ],
@@ -3332,7 +3324,6 @@
     "GenomicFeatures",
     "annotate"
   ],
-  "zellkonverter": [],
   "zenith": [
     "EnrichmentBrowser",
     "GSEABase",
