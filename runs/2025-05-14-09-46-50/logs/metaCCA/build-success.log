@@ -1,0 +1,43 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''metaCCA'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.22 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'metaCCA'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/metaCCA_1.37.0.tar.gz'
+Content type 'application/x-gzip' length 946817 bytes (924 KB)
+==================================================
+downloaded 924 KB
+
+* installing *source* package ‘metaCCA’ ...
+** this is package ‘metaCCA’ version ‘1.37.0’
+** package ‘metaCCA’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘metaCCA’ as ‘metaCCA_1.37.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (metaCCA)
+
+The downloaded source packages are in
+	‘/tmp/RtmpN1l1Lf/downloaded_packages’
+Old packages: 'zip'
+
+real	0m4.621s
+user	0m3.077s
+sys	0m1.508s
