@@ -778,3 +778,13 @@ metapone
 nempi
 piano
 simona
+Biostrings
+CIMICE
+GenomicRanges
+MEIGOR
+Maaslin2
+ReUseData
+SparseArray
+alabaster.bumpy
+gDRstyle
+mbQTL
