@@ -1115,3 +1115,6 @@ schex
 scMultiSim
 survtype
 zFPKM
+riboSeqR
+ROCpAI
+yamss

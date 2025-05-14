@@ -2412,7 +2412,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "ROCpAI": [],
   "RSVSim": [
     "ShortRead"
   ],
@@ -5830,7 +5829,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "riboSeqR": [],
   "ribosomeProfilingQC": [
     "AnnotationDbi",
     "BSgenome",
@@ -6705,7 +6703,6 @@
     "QFeatures",
     "PSMatch"
   ],
-  "yamss": [],
   "yarn": [
     "biomaRt",
     "quantro",
