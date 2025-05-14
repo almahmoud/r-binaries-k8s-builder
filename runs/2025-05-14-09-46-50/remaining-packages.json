@@ -829,7 +829,6 @@
     "rtracklayer",
     "biomaRt"
   ],
-  "DelayedTensor": [],
   "DiffBind": [
     "GenomicAlignments",
     "systemPipeR",
@@ -3593,7 +3592,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "combi": [],
   "concordexR": [
     "SingleCellExperiment",
     "SpatialExperiment"
@@ -3788,7 +3786,6 @@
     "TOAST",
     "DESeq2"
   ],
-  "cytoKernel": [],
   "cytofQC": [
     "CATALYST",
     "SingleCellExperiment",
@@ -3830,7 +3827,6 @@
     "scater",
     "scuttle"
   ],
-  "debCAM": [],
   "debrowser": [
     "annotate",
     "DESeq2",
@@ -3933,9 +3929,7 @@
     "GenomicAlignments",
     "annotate"
   ],
-  "diffcoexp": [],
   "diffcyt": [],
-  "dinoR": [],
   "distinct": [
     "SingleCellExperiment",
     "scater",
@@ -5007,7 +5001,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "motifTestR": [],
   "motifbreakR": [
     "MotifDb",
     "BSgenome",

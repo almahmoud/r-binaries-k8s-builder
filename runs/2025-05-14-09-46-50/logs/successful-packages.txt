@@ -980,3 +980,10 @@ oncomix
 proDA
 satuRn
 weitrix
+combi
+cytoKernel
+debCAM
+DelayedTensor
+diffcoexp
+dinoR
+motifTestR
