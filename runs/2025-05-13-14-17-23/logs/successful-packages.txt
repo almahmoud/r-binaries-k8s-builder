@@ -967,3 +967,13 @@ DESeq2
 gscreend
 hummingbird
 snapcount
+barbieQ
+combi
+epistack
+genomicInstability
+iasva
+ivygapSE
+lionessR
+made4
+methyLImp2
+SingleCellExperiment
