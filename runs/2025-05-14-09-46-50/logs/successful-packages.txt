@@ -1400,3 +1400,9 @@ NBAMSeq
 regionalpcs
 SplineDV
 spoon
+batchelor
+lipidr
+MSnbase
+phenomis
+rqt
+scater
