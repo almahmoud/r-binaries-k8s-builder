@@ -381,7 +381,6 @@
     "annotate"
   ],
   "CNVRanger": [
-    "RaggedExperiment",
     "GDSArray"
   ],
   "CNVrd2": [
@@ -1110,7 +1109,6 @@
   "GNOSIS": [
     "cBioPortalData",
     "MultiAssayExperiment",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
@@ -1707,7 +1705,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "MetaboDynamics": [],
   "MetaboSignal": [
     "hpar",
     "biomaRt",
@@ -2271,7 +2268,6 @@
     "GenomicAlignments"
   ],
   "RTCGAToolbox": [
-    "RaggedExperiment",
     "TCGAutils",
     "GenomicFeatures",
     "GenomicDataCommons",
@@ -2279,12 +2275,8 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RTN": [],
-  "RTNduals": [
-    "RTN"
-  ],
+  "RTNduals": [],
   "RTNsurvival": [
-    "RTN",
     "RTNduals"
   ],
   "RUCova": [
@@ -2302,7 +2294,6 @@
     "CoreGx",
     "MultiAssayExperiment"
   ],
-  "RaggedExperiment": [],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -2437,7 +2428,6 @@
   ],
   "SAIGEgds": [],
   "SARC": [
-    "RaggedExperiment",
     "plyranges",
     "GenomicFeatures",
     "rtracklayer",
@@ -2744,7 +2734,6 @@
     "GenomicFeatures",
     "GenomicDataCommons",
     "MultiAssayExperiment",
-    "RaggedExperiment",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -3226,7 +3215,6 @@
     "clusterProfiler",
     "ReactomePA",
     "MultiAssayExperiment",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "enrichplot",
@@ -3326,7 +3314,6 @@
   ],
   "cBioPortalData": [
     "MultiAssayExperiment",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
@@ -3357,7 +3344,6 @@
     "GSEABase",
     "phenoTest",
     "MultiAssayExperiment",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "annotate",
@@ -3392,7 +3378,6 @@
     "cBioPortalData",
     "genefilter",
     "MultiAssayExperiment",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "annotate",
@@ -3569,7 +3554,6 @@
   "clustifyr": [
     "SingleCellExperiment"
   ],
-  "cmapR": [],
   "cn.mops": [],
   "coMethDMR": [
     "bumphunter",
@@ -3756,8 +3740,6 @@
   "crumblr": [
     "SingleCellExperiment"
   ],
-  "csaw": [],
-  "csdR": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -3913,7 +3895,6 @@
   "diffHic": [
     "InteractionSet",
     "BSgenome",
-    "csaw",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -4062,7 +4043,6 @@
     "GOSemSim",
     "scuttle"
   ],
-  "epistack": [],
   "epivizr": [
     "epivizrData",
     "bumphunter",
@@ -4138,12 +4118,10 @@
   "esetVis": [
     "MLP"
   ],
-  "eudysbiome": [],
   "evaluomeR": [
     "MultiAssayExperiment"
   ],
   "extraChIPs": [
-    "csaw",
     "InteractionSet",
     "rtracklayer",
     "GenomicAlignments"
@@ -4314,7 +4292,6 @@
     "biomaRt"
   ],
   "ggcyto": [],
-  "ggmanh": [],
   "ggsc": [
     "SingleCellExperiment"
   ],
@@ -4334,7 +4311,6 @@
     "TCGAutils",
     "GenomicFeatures",
     "GenomicDataCommons",
-    "RaggedExperiment",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -4522,7 +4498,6 @@
     "GenomicAlignments",
     "rtracklayer",
     "VariantAnnotation",
-    "csaw",
     "DESeq2",
     "BSgenome"
   ],
@@ -4867,7 +4842,6 @@
     "annotate",
     "biomaRt"
   ],
-  "miRNAmeConverter": [],
   "miRNAtap": [],
   "miRSM": [
     "BicARE",
@@ -5193,10 +5167,8 @@
   "omicade4": [
     "made4"
   ],
-  "omicplotR": [],
   "omicsPrint": [
-    "MultiAssayExperiment",
-    "RaggedExperiment"
+    "MultiAssayExperiment"
   ],
   "ontoProc": [],
   "openCyto": [],
@@ -5743,7 +5715,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "scPCA": [],
   "scPipe": [
     "SingleCellExperiment",
     "biomaRt",
@@ -6265,7 +6236,6 @@
   ],
   "terraTCGAdata": [
     "MultiAssayExperiment",
-    "RaggedExperiment",
     "TCGAutils",
     "GenomicFeatures",
     "GenomicDataCommons",

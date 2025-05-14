@@ -987,3 +987,15 @@ DelayedTensor
 diffcoexp
 dinoR
 motifTestR
+cmapR
+csaw
+csdR
+epistack
+eudysbiome
+ggmanh
+MetaboDynamics
+miRNAmeConverter
+omicplotR
+RaggedExperiment
+RTN
+scPCA
