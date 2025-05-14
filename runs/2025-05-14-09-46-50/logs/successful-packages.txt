@@ -1370,3 +1370,10 @@ idiogram
 MultiDataSet
 scuttle
 SVMDO
+esetVis
+ExperimentSubset
+MetaboAnnotation
+MoleculeExperiment
+omicsPrint
+PSMatch
+xCell2
