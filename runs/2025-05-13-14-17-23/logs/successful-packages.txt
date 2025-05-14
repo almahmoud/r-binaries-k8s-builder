@@ -866,3 +866,15 @@ EnrichedHeatmap
 loci2path
 ramr
 TargetDecoy
+baySeq
+cnvGSA
+CSAR
+GeneRegionScan
+GenomicDistributions
+logicFS
+memes
+monocle
+odseq
+OLINgui
+oncoscanR
+SQLDataFrame

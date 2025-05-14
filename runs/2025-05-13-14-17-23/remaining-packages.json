@@ -618,7 +618,6 @@
     "AnnotationDbi",
     "GenomicAlignments"
   ],
-  "CSAR": [],
   "CSSQ": [
     "rtracklayer",
     "GenomicAlignments",
@@ -1668,7 +1667,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "GeneRegionScan": [],
   "GeneStructureTools": [
     "Gviz",
     "rtracklayer",
@@ -1700,7 +1698,6 @@
   ],
   "GenomicAlignments": [],
   "GenomicDataCommons": [],
-  "GenomicDistributions": [],
   "GenomicFeatures": [
     "AnnotationDbi",
     "rtracklayer",
@@ -2496,8 +2493,7 @@
   "MotifPeeker": [
     "rtracklayer",
     "GenomicAlignments",
-    "BSgenome",
-    "memes"
+    "BSgenome"
   ],
   "MouseFM": [
     "biomaRt",
@@ -2650,7 +2646,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "OLINgui": [],
   "OMICsPCA": [
     "HelloRanges",
     "MultiAssayExperiment",
@@ -3501,7 +3496,6 @@
     "SingleCellExperiment",
     "AnnotationDbi"
   ],
-  "SQLDataFrame": [],
   "SVMDO": [
     "DOSE",
     "AnnotationDbi",
@@ -4336,7 +4330,6 @@
   "bayNorm": [
     "SingleCellExperiment"
   ],
-  "baySeq": [],
   "beachmat.tiledb": [
     "TileDBArray"
   ],
@@ -4744,7 +4737,6 @@
     "GenomicAlignments"
   ],
   "cicero": [
-    "monocle",
     "Gviz",
     "rtracklayer",
     "biomaRt",
@@ -4826,9 +4818,7 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "clusterSeq": [
-    "baySeq"
-  ],
+  "clusterSeq": [],
   "clustifyr": [
     "SingleCellExperiment"
   ],
@@ -4839,7 +4829,6 @@
     "oligoClasses",
     "oligo"
   ],
-  "cnvGSA": [],
   "coMethDMR": [
     "AnnotationHub",
     "bumphunter",
@@ -6349,7 +6338,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "logicFS": [],
   "lumi": [
     "methylumi",
     "GenomicFeatures",
@@ -6445,7 +6433,6 @@
     "SingleCellExperiment"
   ],
   "megadepth": [],
-  "memes": [],
   "meshes": [
     "AnnotationDbi",
     "DOSE",
@@ -6781,7 +6768,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "monocle": [],
   "mosaics": [
     "GenomicAlignments"
   ],
@@ -7050,7 +7036,6 @@
     "annotate",
     "GenomicAlignments"
   ],
-  "odseq": [],
   "oligo": [
     "oligoClasses"
   ],
@@ -7084,7 +7069,6 @@
   ],
   "omicsViewer": [],
   "oncomix": [],
-  "oncoscanR": [],
   "ontoProc": [
     "AnnotationHub",
     "AnnotationDbi"
@@ -7594,9 +7578,7 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "riboSeqR": [
-    "baySeq"
-  ],
+  "riboSeqR": [],
   "ribosomeProfilingQC": [
     "AnnotationDbi",
     "BSgenome",
@@ -7987,7 +7969,6 @@
   ],
   "sechm": [],
   "segmentSeq": [
-    "baySeq",
     "ShortRead",
     "GenomicAlignments"
   ],
@@ -8660,9 +8641,7 @@
     "biomaRt",
     "GenomicAlignments"
   ],
-  "uSORT": [
-    "monocle"
-  ],
+  "uSORT": [],
   "uncoverappLib": [
     "Gviz",
     "OrganismDbi",

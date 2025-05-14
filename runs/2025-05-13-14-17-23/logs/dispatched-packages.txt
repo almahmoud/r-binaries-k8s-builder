@@ -1095,3 +1095,6 @@ SingleR
 weitrix
 clst
 statTarget
+clusterSeq
+riboSeqR
+uSORT
