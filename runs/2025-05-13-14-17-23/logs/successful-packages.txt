@@ -1419,3 +1419,6 @@ betaHMM
 infinityFlow
 MiRaGE
 multiHiCcompare
+BulkSignalR
+multistateQTL
+TADCompare

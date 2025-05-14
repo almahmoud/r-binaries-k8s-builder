@@ -213,7 +213,6 @@
     "ensembldb",
     "BSgenome"
   ],
-  "BulkSignalR": [],
   "CAFE": [
     "biovizBase",
     "ggbio",
@@ -1829,7 +1828,6 @@
     "TCGAbiolinks",
     "biomaRt"
   ],
-  "TADCompare": [],
   "TAPseq": [
     "BSgenome",
     "GenomicFeatures"
@@ -3412,7 +3410,6 @@
     "VariantAnnotation",
     "ensembldb"
   ],
-  "multistateQTL": [],
   "mumosa": [
     "scran",
     "batchelor"
