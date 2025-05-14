@@ -335,14 +335,9 @@
     "ensembldb"
   ],
   "CoverageView": [],
-  "CytoMDS": [
-    "CytoPipeline"
-  ],
+  "CytoMDS": [],
   "CytoML": [],
-  "CytoPipeline": [],
-  "CytoPipelineGUI": [
-    "CytoPipeline"
-  ],
+  "CytoPipelineGUI": [],
   "DAMEfinder": [
     "VariantAnnotation",
     "bumphunter",
@@ -718,7 +713,6 @@
     "genefilter",
     "VariantAnnotation"
   ],
-  "InterCellar": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
     "sva",
@@ -787,7 +781,6 @@
     "lumi",
     "GenomicFeatures"
   ],
-  "MEB": [],
   "MGFM": [],
   "MGFR": [],
   "MGnifyR": [

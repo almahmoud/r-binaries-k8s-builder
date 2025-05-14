@@ -1,2 +1,2 @@
-CytoML
-iSEEfier
+CytoMDS
+CytoPipelineGUI

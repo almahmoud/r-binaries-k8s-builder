@@ -1740,3 +1740,5 @@ tigre
 dandelionR
 CytoML
 iSEEfier
+CytoMDS
+CytoPipelineGUI
