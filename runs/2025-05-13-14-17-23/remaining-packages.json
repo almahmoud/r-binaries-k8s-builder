@@ -1360,7 +1360,6 @@
     "annotate"
   ],
   "PADOG": [],
-  "PAIRADISE": [],
   "PAST": [],
   "PCAtools": [],
   "PDATK": [
@@ -3042,10 +3041,8 @@
     "biomaRt"
   ],
   "iSEEfier": [
-    "iSEEu",
-    "iSEEhex"
+    "iSEEu"
   ],
-  "iSEEhex": [],
   "iSEEhub": [
     "ExperimentHub",
     "AnnotationHub"
@@ -3056,9 +3053,7 @@
     "mia",
     "scater"
   ],
-  "iSEEu": [
-    "iSEEhex"
-  ],
+  "iSEEu": [],
   "icetea": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -3362,7 +3357,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "mitology": [],
   "mnem": [
     "Linnorm"
   ],
@@ -3527,7 +3521,6 @@
     "GSVA",
     "annotate"
   ],
-  "optimalFlow": [],
   "orthos": [
     "AnnotationHub",
     "ExperimentHub"

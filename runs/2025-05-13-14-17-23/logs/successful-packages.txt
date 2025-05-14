@@ -1400,3 +1400,7 @@ SubCellBarCode
 treekoR
 anota2seq
 UCell
+iSEEhex
+mitology
+optimalFlow
+PAIRADISE
