@@ -1,0 +1,182 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''scShapes'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.22 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'scShapes'
+also installing the dependencies ‘formatR’, ‘lambda.r’, ‘futile.options’, ‘numDeriv’, ‘bdsmatrix’, ‘mvtnorm’, ‘futile.logger’, ‘snow’, ‘BH’, ‘plyr’, ‘coda’, ‘bbmle’, ‘pscl’, ‘VGAM’, ‘dgof’, ‘BiocParallel’, ‘emdbook’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/formatR_1.14.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lambda.r_1.2.4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/futile.options_1.0.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/numDeriv_2016.8-1.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bdsmatrix_1.3-7.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mvtnorm_1.3-3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/futile.logger_1.4.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/snow_0.4-4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/BH_1.87.0-1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/plyr_1.8.9.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/coda_0.19-4.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bbmle_1.0.25.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pscl_1.5.9.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/VGAM_1.1-13.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dgof_1.5.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/BiocParallel_1.43.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/emdbook_1.3.13.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/scShapes_1.15.0.tar.gz'
+* installing *binary* package ‘formatR’ ...
+* ‘formatR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘formatR’ as ‘formatR_1.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (formatR)
+* installing *binary* package ‘futile.options’ ...
+* ‘futile.options’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘futile.options’ as ‘futile.options_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (futile.options)
+* installing *binary* package ‘numDeriv’ ...
+* ‘numDeriv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘numDeriv’ as ‘numDeriv_2016.8-1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (numDeriv)
+* installing *binary* package ‘bdsmatrix’ ...
+* ‘bdsmatrix’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bdsmatrix’ as ‘bdsmatrix_1.3-7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bdsmatrix)
+* installing *binary* package ‘mvtnorm’ ...
+* ‘mvtnorm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mvtnorm’ as ‘mvtnorm_1.3-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mvtnorm)
+* installing *binary* package ‘snow’ ...
+* ‘snow’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘snow’ as ‘snow_0.4-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (snow)
+* installing *binary* package ‘BH’ ...
+* ‘BH’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘BH’ as ‘BH_1.87.0-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BH)
+* installing *binary* package ‘plyr’ ...
+* ‘plyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘plyr’ as ‘plyr_1.8.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (plyr)
+* installing *binary* package ‘coda’ ...
+* ‘coda’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘coda’ as ‘coda_0.19-4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (coda)
+* installing *binary* package ‘pscl’ ...
+* ‘pscl’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pscl’ as ‘pscl_1.5.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pscl)
+* installing *binary* package ‘VGAM’ ...
+* ‘VGAM’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘VGAM’ as ‘VGAM_1.1-13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (VGAM)
+* installing *binary* package ‘dgof’ ...
+* ‘dgof’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dgof’ as ‘dgof_1.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dgof)
+* installing *binary* package ‘lambda.r’ ...
+* ‘lambda.r’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lambda.r’ as ‘lambda.r_1.2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lambda.r)
+* installing *binary* package ‘bbmle’ ...
+* ‘bbmle’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bbmle’ as ‘bbmle_1.0.25.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bbmle)
+* installing *binary* package ‘futile.logger’ ...
+* ‘futile.logger’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘futile.logger’ as ‘futile.logger_1.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (futile.logger)
+* installing *binary* package ‘emdbook’ ...
+* ‘emdbook’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘emdbook’ as ‘emdbook_1.3.13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (emdbook)
+* installing *source* package ‘BiocParallel’ ...
+** this is package ‘BiocParallel’ version ‘1.43.0’
+** package ‘BiocParallel’ successfully unpacked and MD5 sums checked
+** using staged installation
+checking whether the C++ compiler works... yes
+checking for C++ compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether the compiler supports GNU C++... yes
+checking whether g++ -std=gnu++17 accepts -g... yes
+checking for g++ -std=gnu++17 option to enable C++11 features... none needed
+checking for library containing shm_open... none required
+checking for stdio.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for strings.h... yes
+checking for sys/stat.h... yes
+checking for sys/types.h... yes
+checking for unistd.h... yes
+checking for sys/mman.h... yes
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -I"./" -I'/usr/local/lib/R/site-library/BH/include' -I'/usr/local/lib/R/site-library/cpp11/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c cpp11.cpp -o cpp11.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -I"./" -I'/usr/local/lib/R/site-library/BH/include' -I'/usr/local/lib/R/site-library/cpp11/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c ipcmutex.cpp -o ipcmutex.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o BiocParallel.so cpp11.o ipcmutex.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-BiocParallel/00new/BiocParallel/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocParallel’ as ‘BiocParallel_1.43.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocParallel)
+* installing *source* package ‘scShapes’ ...
+** this is package ‘scShapes’ version ‘1.15.0’
+** package ‘scShapes’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘scShapes’ as ‘scShapes_1.15.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scShapes)
+
+The downloaded source packages are in
+	‘/tmp/RtmpeWwKpw/downloaded_packages’
+
+real	0m52.094s
+user	0m41.056s
+sys	0m11.756s

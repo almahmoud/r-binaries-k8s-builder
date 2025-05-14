@@ -625,3 +625,13 @@ gaga
 geNetClassifier
 hapFabia
 mosbi
+PANR
+RVS
+Rigraphlib
+TreeAndLeaf
+martini
+matter
+mzID
+mzR
+ndexr
+tkWidgets
