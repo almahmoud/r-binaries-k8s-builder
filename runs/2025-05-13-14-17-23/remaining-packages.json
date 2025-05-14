@@ -245,7 +245,6 @@
     "BSgenome"
   ],
   "BulkSignalR": [],
-  "CAEN": [],
   "CAFE": [
     "biovizBase",
     "ggbio",
@@ -1187,14 +1186,12 @@
     "CAMERA",
     "MSnbase"
   ],
-  "LRBaseDbi": [],
   "LRcell": [
     "ExperimentHub",
     "AnnotationHub"
   ],
   "LinkHD": [],
   "Linnorm": [],
-  "LiquidAssociation": [],
   "M3Drop": [
     "scater"
   ],
@@ -1218,7 +1215,6 @@
     "rtracklayer",
     "bumphunter"
   ],
-  "MAI": [],
   "MAIT": [
     "CAMERA",
     "xcms",
@@ -1341,7 +1337,6 @@
     "rtracklayer"
   ],
   "MeSHDbi": [],
-  "Melissa": [],
   "MetMashR": [],
   "MetaPhOR": [
     "clusterProfiler"
@@ -3242,9 +3237,7 @@
   "famat": [
     "clusterProfiler"
   ],
-  "fastLiquidAssociation": [
-    "LiquidAssociation"
-  ],
+  "fastLiquidAssociation": [],
   "fcScan": [
     "VariantAnnotation",
     "rtracklayer",
@@ -4642,7 +4635,6 @@
     "rtracklayer",
     "txdbmaker"
   ],
-  "sitePath": [],
   "skewr": [
     "methylumi",
     "wateRmelon",
