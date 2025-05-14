@@ -1,5 +1,0 @@
-SpotSweeper
-cytoviewer
-esetVis
-simpleSeg
-xCell2

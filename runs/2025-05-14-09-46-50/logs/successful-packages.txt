@@ -1324,3 +1324,14 @@ mspms
 singscore
 spacexr
 spaSim
+ccImpute
+MDTS
+nnSVG
+poem
+ramwas
+scDDboost
+scider
+scp
+sosta
+splineTimeR
+SVP

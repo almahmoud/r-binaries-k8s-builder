@@ -905,7 +905,6 @@
   "MBECS": [
     "sva"
   ],
-  "MDTS": [],
   "MEAL": [
     "MultiDataSet",
     "minfi",
@@ -1500,7 +1499,6 @@
   ],
   "SPsimSeq": [],
   "SVMDO": [],
-  "SVP": [],
   "SeqSQC": [],
   "ShortRead": [],
   "SigCheck": [
@@ -1996,7 +1994,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "ccImpute": [],
   "ccfindR": [],
   "celda": [
     "scater",
@@ -3073,7 +3070,6 @@
     "scuttle"
   ],
   "nipalsMCIA": [],
-  "nnSVG": [],
   "npGSEA": [],
   "nucleR": [
     "ShortRead"
@@ -3179,7 +3175,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "poem": [],
   "pogos": [],
   "pram": [
     "rtracklayer"
@@ -3282,7 +3277,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "ramwas": [],
   "recount": [
     "derfinder",
     "GEOquery",
@@ -3398,7 +3392,6 @@
     "scran",
     "scuttle"
   ],
-  "scDDboost": [],
   "scDataviz": [],
   "scDblFinder": [
     "scran",
@@ -3475,7 +3468,6 @@
   "sccomp": [],
   "scds": [],
   "schex": [],
-  "scider": [],
   "scifer": [],
   "scmap": [],
   "scone": [
@@ -3491,7 +3483,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "scp": [],
   "scran": [
     "scuttle"
   ],
@@ -3614,7 +3605,6 @@
     "chipseq",
     "ShortRead"
   ],
-  "sosta": [],
   "sparrow": [],
   "spatialDE": [],
   "spatialFDA": [],
@@ -3649,9 +3639,7 @@
   "splatter": [
     "scuttle"
   ],
-  "splineTimeR": [],
   "spoon": [
-    "nnSVG",
     "scuttle"
   ],
   "squallms": [
