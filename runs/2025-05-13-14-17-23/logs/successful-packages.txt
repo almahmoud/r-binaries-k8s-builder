@@ -987,3 +987,11 @@ evaluomeR
 gCrisprTools
 limpca
 PhosR
+BUSseq
+cmapR
+DEGreport
+DELocal
+ERSSA
+flowAI
+flowBeads
+omicsViewer

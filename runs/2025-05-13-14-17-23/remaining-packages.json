@@ -220,7 +220,6 @@
     "plyranges",
     "rtracklayer"
   ],
-  "BUSseq": [],
   "BaalChIP": [],
   "BadRegionFinder": [
     "VariantAnnotation",
@@ -750,7 +749,6 @@
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "flowAI",
     "ncdfFlow",
     "flowWorkspace"
   ],
@@ -765,7 +763,6 @@
   "CytoPipeline": [
     "ggcyto",
     "PeacoQC",
-    "flowAI",
     "ncdfFlow",
     "flowWorkspace"
   ],
@@ -773,7 +770,6 @@
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "flowAI",
     "ncdfFlow",
     "flowWorkspace"
   ],
@@ -790,8 +786,6 @@
     "PSMatch",
     "QFeatures"
   ],
-  "DEGreport": [],
-  "DELocal": [],
   "DEP": [
     "MSnbase",
     "PSMatch",
@@ -1041,7 +1035,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "ERSSA": [],
   "EWCE": [
     "orthogene",
     "ExperimentHub",
@@ -3623,7 +3616,6 @@
     "BSgenome"
   ],
   "broadSeq": [
-    "DELocal",
     "genefilter",
     "clusterProfiler",
     "sechm",
@@ -3892,7 +3884,6 @@
   ],
   "clusterSeq": [],
   "clustifyr": [],
-  "cmapR": [],
   "cn.farms": [
     "oligoClasses",
     "oligo"
@@ -4589,8 +4580,6 @@
     "QFeatures",
     "PSMatch"
   ],
-  "flowAI": [],
-  "flowBeads": [],
   "flowBin": [
     "flowFP",
     "flowViz"
@@ -5049,8 +5038,7 @@
     "AnnotationDbi"
   ],
   "isomiRs": [
-    "AnnotationDbi",
-    "DEGreport"
+    "AnnotationDbi"
   ],
   "jazzPanda": [
     "SpatialExperiment"
@@ -5708,7 +5696,6 @@
   "omicsPrint": [
     "RaggedExperiment"
   ],
-  "omicsViewer": [],
   "oncomix": [],
   "ontoProc": [
     "AnnotationHub",
