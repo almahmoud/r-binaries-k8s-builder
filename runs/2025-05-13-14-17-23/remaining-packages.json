@@ -263,7 +263,6 @@
     "CTdata",
     "ExperimentHub"
   ],
-  "CaMutQC": [],
   "Category": [
     "GSEABase",
     "genefilter",
@@ -515,7 +514,6 @@
   "EWCE": [
     "ExperimentHub"
   ],
-  "EasyCellType": [],
   "EnrichmentBrowser": [
     "GSEABase",
     "graphite",
@@ -1172,7 +1170,6 @@
     "ensembldb",
     "zellkonverter"
   ],
-  "RJMCMCNucleosomes": [],
   "RMassBank": [],
   "RNAAgeCalc": [
     "recount",
@@ -1241,7 +1238,6 @@
     "graphite"
   ],
   "ReducedExperiment": [],
-  "RegEnrich": [],
   "RegionalST": [
     "BayesSpace"
   ],
@@ -2197,7 +2193,6 @@
   "factR": [
     "GenomicFeatures"
   ],
-  "famat": [],
   "fcScan": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -3213,7 +3208,6 @@
     "GenomicFeatures"
   ],
   "tRNAscanImport": [],
-  "tRanslatome": [],
   "tadar": [
     "Gviz",
     "VariantAnnotation",
