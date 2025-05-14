@@ -999,3 +999,15 @@ omicplotR
 RaggedExperiment
 RTN
 scPCA
+DESeq2
+eisaR
+funOmics
+goTools
+mirIntegrator
+miRNAtap
+openCyto
+pathRender
+riboSeqR
+RTNduals
+ssviz
+tracktables
