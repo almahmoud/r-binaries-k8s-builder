@@ -312,7 +312,6 @@
     "PSMatch"
   ],
   "CATALYST": [
-    "FlowSOM",
     "scater",
     "BiocSingular"
   ],
@@ -783,7 +782,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "DropletUtils": [],
   "DrugVsDisease": [
     "biomaRt",
     "ArrayExpress",
@@ -926,7 +924,6 @@
   ],
   "FLAMES": [
     "bambu",
-    "DropletUtils",
     "GenomicFeatures",
     "txdbmaker",
     "ggbio",
@@ -956,7 +953,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "FlowSOM": [],
   "GA4GHclient": [
     "VariantAnnotation",
     "rtracklayer",
@@ -1523,9 +1519,7 @@
   "MesKit": [],
   "MetMashR": [],
   "MetNet": [],
-  "MetaCyto": [
-    "FlowSOM"
-  ],
+  "MetaCyto": [],
   "MetaPhOR": [
     "clusterProfiler",
     "DOSE",
@@ -2361,19 +2355,14 @@
   "Spaniel": [
     "scater",
     "scran",
-    "DropletUtils",
     "BiocSingular"
   ],
   "SparseSignatures": [
     "BSgenome",
     "rtracklayer"
   ],
-  "SpatialExperimentIO": [
-    "DropletUtils"
-  ],
-  "SpatialFeatureExperiment": [
-    "DropletUtils"
-  ],
+  "SpatialExperimentIO": [],
+  "SpatialFeatureExperiment": [],
   "SpectraQL": [],
   "SpectralTAD": [
     "HiCcompare"
@@ -2398,8 +2387,7 @@
   ],
   "Statial": [
     "treekoR",
-    "diffcyt",
-    "FlowSOM"
+    "diffcyt"
   ],
   "StructuralVariantAnnotation": [
     "rtracklayer",
@@ -2612,8 +2600,7 @@
     "biomaRt"
   ],
   "Voyager": [
-    "SpatialFeatureExperiment",
-    "DropletUtils"
+    "SpatialFeatureExperiment"
   ],
   "XDE": [
     "genefilter",
@@ -2699,8 +2686,7 @@
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
     "alabaster.sce",
-    "alabaster.spatial",
-    "DropletUtils"
+    "alabaster.spatial"
   ],
   "alabaster.spatial": [
     "alabaster.sce"
@@ -3007,8 +2993,7 @@
     "topGO"
   ],
   "censcyt": [
-    "diffcyt",
-    "FlowSOM"
+    "diffcyt"
   ],
   "cfDNAPro": [
     "plyranges",
@@ -3343,7 +3328,6 @@
   "cytoKernel": [],
   "cytofQC": [
     "CATALYST",
-    "FlowSOM",
     "scater",
     "BiocSingular"
   ],
@@ -3462,9 +3446,7 @@
     "annotate"
   ],
   "diffcoexp": [],
-  "diffcyt": [
-    "FlowSOM"
-  ],
+  "diffcyt": [],
   "distinct": [
     "scater",
     "BiocSingular"
@@ -5007,9 +4989,7 @@
     "genefilter",
     "annotate"
   ],
-  "scCB2": [
-    "DropletUtils"
-  ],
+  "scCB2": [],
   "scClassify": [
     "Cepo",
     "GSEABase",
@@ -5053,7 +5033,6 @@
   ],
   "scPipe": [
     "biomaRt",
-    "DropletUtils",
     "rtracklayer"
   ],
   "scQTLtools": [
@@ -5279,7 +5258,6 @@
     "SingleR",
     "sva",
     "celda",
-    "DropletUtils",
     "scds",
     "GSEABase",
     "zinbwave",
@@ -5367,7 +5345,6 @@
   ],
   "spillR": [
     "CATALYST",
-    "FlowSOM",
     "scater",
     "BiocSingular"
   ],
@@ -5376,7 +5353,6 @@
     "GSEABase",
     "annotate"
   ],
-  "spoon": [],
   "squallms": [
     "xcms",
     "MSnbase",
@@ -5544,12 +5520,10 @@
     "rtracklayer"
   ],
   "treeclimbR": [
-    "diffcyt",
-    "FlowSOM"
+    "diffcyt"
   ],
   "treekoR": [
-    "diffcyt",
-    "FlowSOM"
+    "diffcyt"
   ],
   "tricycle": [
     "scater",
@@ -5597,7 +5571,6 @@
   ],
   "vidger": [],
   "visiumStitched": [
-    "DropletUtils",
     "AnnotationHub",
     "scater",
     "ExperimentHub",

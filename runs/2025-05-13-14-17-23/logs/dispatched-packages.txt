@@ -1427,3 +1427,8 @@ mspms
 msqrob2
 scp
 flowMerge
+MetaCyto
+SpatialExperimentIO
+SpatialFeatureExperiment
+diffcyt
+scCB2

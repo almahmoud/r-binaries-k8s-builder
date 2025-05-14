@@ -1194,3 +1194,6 @@ tidybulk
 flowClust
 RUCova
 simPIC
+DropletUtils
+FlowSOM
+spoon
