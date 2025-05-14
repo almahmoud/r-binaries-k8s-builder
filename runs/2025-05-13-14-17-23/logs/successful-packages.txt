@@ -1290,3 +1290,9 @@ RTN
 CrispRVariants
 GeoTcgaData
 ShortRead
+flowViz
+GWENA
+HiCcompare
+MODA
+structToolbox
+supersigs

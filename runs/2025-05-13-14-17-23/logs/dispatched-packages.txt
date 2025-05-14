@@ -1472,3 +1472,10 @@ girafe
 nucleR
 segmentSeq
 systemPipeR
+SpectralTAD
+TADCompare
+flowDensity
+flowFP
+flowTrans
+multiHiCcompare
+scHiCcompare

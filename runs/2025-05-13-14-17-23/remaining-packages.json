@@ -576,8 +576,7 @@
   "CytoML": [
     "flowWorkspace",
     "openCyto",
-    "ggcyto",
-    "flowViz"
+    "ggcyto"
   ],
   "CytoPipeline": [
     "ggcyto",
@@ -1002,10 +1001,8 @@
     "regioneR",
     "ensembldb"
   ],
-  "GWENA": [],
   "GateFinder": [
-    "flowFP",
-    "flowViz"
+    "flowFP"
   ],
   "GeDi": [
     "GOSemSim",
@@ -1158,12 +1155,10 @@
     "VariantAnnotation"
   ],
   "HiCDOC": [
-    "multiHiCcompare",
-    "HiCcompare"
+    "multiHiCcompare"
   ],
   "HiCExperiment": [],
   "HiCParser": [],
-  "HiCcompare": [],
   "HiContacts": [
     "HiCExperiment"
   ],
@@ -1377,7 +1372,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "MODA": [],
   "MOSClip": [
     "graphite",
     "qpgraph",
@@ -2219,9 +2213,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "SpectralTAD": [
-    "HiCcompare"
-  ],
+  "SpectralTAD": [],
   "SpliceWiz": [
     "AnnotationHub",
     "BSgenome",
@@ -2250,9 +2242,7 @@
     "TCGAbiolinks",
     "biomaRt"
   ],
-  "TADCompare": [
-    "HiCcompare"
-  ],
+  "TADCompare": [],
   "TAPseq": [
     "BSgenome",
     "GenomicFeatures",
@@ -3126,8 +3116,7 @@
     "BSgenome"
   ],
   "cyanoFilter": [
-    "flowDensity",
-    "flowViz"
+    "flowDensity"
   ],
   "cytofQC": [
     "CATALYST",
@@ -3156,8 +3145,7 @@
     "Linnorm"
   ],
   "ddPCRclust": [
-    "flowDensity",
-    "flowViz"
+    "flowDensity"
   ],
   "debrowser": [
     "annotate",
@@ -3488,20 +3476,14 @@
     "MSnbase"
   ],
   "flowBin": [
-    "flowFP",
-    "flowViz"
+    "flowFP"
   ],
   "flowClean": [],
   "flowCut": [
-    "flowDensity",
-    "flowViz"
+    "flowDensity"
   ],
-  "flowDensity": [
-    "flowViz"
-  ],
-  "flowFP": [
-    "flowViz"
-  ],
+  "flowDensity": [],
+  "flowFP": [],
   "flowGate": [
     "flowWorkspace",
     "ggcyto"
@@ -3509,18 +3491,13 @@
   "flowMatch": [],
   "flowMerge": [],
   "flowStats": [
-    "flowWorkspace",
-    "flowViz"
+    "flowWorkspace"
   ],
-  "flowTrans": [
-    "flowViz"
-  ],
+  "flowTrans": [],
   "flowVS": [
-    "flowViz",
     "flowStats",
     "flowWorkspace"
   ],
-  "flowViz": [],
   "flowWorkspace": [],
   "funOmics": [],
   "funtooNorm": [
@@ -4203,9 +4180,7 @@
     "graphite",
     "AnnotationHub"
   ],
-  "multiHiCcompare": [
-    "HiCcompare"
-  ],
+  "multiHiCcompare": [],
   "multiMiR": [],
   "multiWGCNA": [],
   "multicrispr": [
@@ -4306,7 +4281,6 @@
     "AnnotationHub"
   ],
   "openCyto": [
-    "flowViz",
     "flowWorkspace"
   ],
   "oposSOM": [
@@ -4729,9 +4703,7 @@
     "scran",
     "annotate"
   ],
-  "scHiCcompare": [
-    "HiCcompare"
-  ],
+  "scHiCcompare": [],
   "scMerge": [
     "M3Drop",
     "scater",
@@ -5057,8 +5029,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "structToolbox": [],
-  "supersigs": [],
   "surfaltr": [
     "biomaRt"
   ],
