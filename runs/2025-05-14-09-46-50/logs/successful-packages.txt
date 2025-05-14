@@ -1307,3 +1307,12 @@ QTLExperiment
 SAIGEgds
 SingleCellAlleleExperiment
 UCell
+graphite
+hdxmsqc
+HERON
+hoodscanR
+SCArray.sat
+SEraster
+SpotClean
+tigre
+tRNA

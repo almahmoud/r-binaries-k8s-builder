@@ -1533,3 +1533,9 @@ sva
 tilingArray
 vissE
 zinbwave
+DNEA
+EnrichmentBrowser
+mogsa
+multiGSEA
+sSNAPPY
+tRNAdbImport

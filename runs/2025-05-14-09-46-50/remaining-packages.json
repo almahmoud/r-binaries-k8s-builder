@@ -220,7 +220,6 @@
     "scuttle"
   ],
   "CBNplot": [
-    "graphite",
     "clusterProfiler",
     "enrichplot"
   ],
@@ -458,9 +457,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "DNEA": [
-    "graphite"
-  ],
+  "DNEA": [],
   "DSS": [
     "bsseq",
     "BSgenome",
@@ -579,9 +576,7 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "EnrichmentBrowser": [
-    "graphite"
-  ],
+  "EnrichmentBrowser": [],
   "EpiCompare": [
     "ChIPseeker",
     "genomation",
@@ -598,8 +593,7 @@
     "GenomicFeatures",
     "txdbmaker",
     "tRNAdbImport",
-    "rtracklayer",
-    "tRNA"
+    "rtracklayer"
   ],
   "EpipwR": [],
   "EventPointer": [
@@ -698,8 +692,7 @@
     "Category"
   ],
   "GSEABenchmarkeR": [
-    "EnrichmentBrowser",
-    "graphite"
+    "EnrichmentBrowser"
   ],
   "GSRI": [],
   "GSReg": [
@@ -782,7 +775,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HERON": [],
   "HIPPO": [],
   "HarmonizR": [
     "sva"
@@ -959,7 +951,6 @@
     "rtracklayer"
   ],
   "MIRit": [
-    "graphite",
     "clusterProfiler",
     "enrichplot"
   ],
@@ -971,7 +962,6 @@
   ],
   "MOMA": [],
   "MOSClip": [
-    "graphite",
     "qpgraph",
     "GenomicFeatures",
     "rtracklayer"
@@ -1198,8 +1188,7 @@
   "Pigengene": [
     "clusterProfiler",
     "ReactomePA",
-    "enrichplot",
-    "graphite"
+    "enrichplot"
   ],
   "PrInCE": [
     "MSnbase",
@@ -1383,8 +1372,7 @@
     "AUCell"
   ],
   "ReactomePA": [
-    "enrichplot",
-    "graphite"
+    "enrichplot"
   ],
   "RegEnrich": [],
   "Repitools": [
@@ -1471,12 +1459,10 @@
   "SCANVIS": [
     "rtracklayer"
   ],
-  "SCArray.sat": [],
   "SCOPE": [
     "BSgenome",
     "rtracklayer"
   ],
-  "SEraster": [],
   "SEtools": [
     "sva"
   ],
@@ -1591,7 +1577,6 @@
   "SplineDV": [
     "scuttle"
   ],
-  "SpotClean": [],
   "SpotSweeper": [
     "escheR"
   ],
@@ -1910,7 +1895,6 @@
     "RTCGAToolbox",
     "TCGAutils",
     "enrichplot",
-    "graphite",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -2378,8 +2362,7 @@
   ],
   "dreamlet": [
     "zenith",
-    "EnrichmentBrowser",
-    "graphite"
+    "EnrichmentBrowser"
   ],
   "drugTargetInteractions": [
     "ensembldb",
@@ -2555,8 +2538,7 @@
     "ReactomePA",
     "clusterProfiler",
     "enrichplot",
-    "rtracklayer",
-    "graphite"
+    "rtracklayer"
   ],
   "gcapc": [
     "BSgenome",
@@ -2622,7 +2604,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "graphite": [],
   "groHMM": [
     "rtracklayer"
   ],
@@ -2638,7 +2619,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "hdxmsqc": [],
   "hermes": [],
   "hiAnnotator": [
     "rtracklayer",
@@ -2653,7 +2633,6 @@
     "rtracklayer"
   ],
   "hipathia": [],
-  "hoodscanR": [],
   "hpar": [],
   "hummingbird": [],
   "iCNV": [
@@ -2681,8 +2660,7 @@
     "ReactomePA",
     "enrichplot",
     "rtracklayer",
-    "txdbmaker",
-    "graphite"
+    "txdbmaker"
   ],
   "iSEE": [],
   "iSEEde": [
@@ -2945,14 +2923,12 @@
     "BicARE",
     "clusterProfiler",
     "ReactomePA",
-    "enrichplot",
-    "graphite"
+    "enrichplot"
   ],
   "miRspongeR": [
     "clusterProfiler",
     "ReactomePA",
-    "enrichplot",
-    "graphite"
+    "enrichplot"
   ],
   "mia": [
     "scater",
@@ -3003,9 +2979,7 @@
   "mobileRNA": [
     "rtracklayer"
   ],
-  "mogsa": [
-    "graphite"
-  ],
+  "mogsa": [],
   "monaLisa": [
     "BSgenome",
     "TFBSTools",
@@ -3062,9 +3036,7 @@
   ],
   "mspms": [],
   "msqrob2": [],
-  "multiGSEA": [
-    "graphite"
-  ],
+  "multiGSEA": [],
   "multiHiCcompare": [
     "HiCcompare"
   ],
@@ -3412,9 +3384,7 @@
     "MultiDataSet"
   ],
   "rtracklayer": [],
-  "sSNAPPY": [
-    "graphite"
-  ],
+  "sSNAPPY": [],
   "sampleClassifier": [],
   "saseR": [
     "ASpli",
@@ -3761,12 +3731,8 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "tRNA": [],
-  "tRNAdbImport": [
-    "tRNA"
-  ],
+  "tRNAdbImport": [],
   "tRNAscanImport": [
-    "tRNA",
     "rtracklayer",
     "BSgenome"
   ],
@@ -3798,7 +3764,6 @@
     "nullranges",
     "rtracklayer"
   ],
-  "tigre": [],
   "tilingArray": [],
   "topdownr": [
     "MSnbase",
@@ -3933,8 +3898,7 @@
   ],
   "zellkonverter": [],
   "zenith": [
-    "EnrichmentBrowser",
-    "graphite"
+    "EnrichmentBrowser"
   ],
   "zinbwave": []
 }
