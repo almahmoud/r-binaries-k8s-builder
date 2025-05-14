@@ -3120,7 +3120,6 @@
     "GenomicFeatures",
     "annotate"
   ],
-  "diffcoexp": [],
   "distinct": [
     "scater"
   ],
@@ -3894,7 +3893,6 @@
     "annotate",
     "biomaRt"
   ],
-  "miRNAtap": [],
   "miRSM": [
     "BicARE",
     "GSEABase",
@@ -4024,7 +4022,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "mslp": [],
   "msmsEDA": [
     "MSnbase"
   ],

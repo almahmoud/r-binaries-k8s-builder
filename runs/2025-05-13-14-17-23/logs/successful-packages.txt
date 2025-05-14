@@ -1326,3 +1326,6 @@ DOSE
 girafe
 goTools
 segmentSeq
+diffcoexp
+miRNAtap
+mslp
