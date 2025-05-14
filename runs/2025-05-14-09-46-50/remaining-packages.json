@@ -266,7 +266,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "CTSV": [],
   "CTdata": [],
   "CTexploreR": [
     "CTdata"
@@ -276,7 +275,6 @@
     "enrichplot"
   ],
   "Category": [],
-  "CatsCradle": [],
   "CeTF": [
     "clusterProfiler",
     "enrichplot"
@@ -364,7 +362,6 @@
   ],
   "CircSeqAlignTk": [
     "ShortRead",
-    "Rbowtie2",
     "Rhisat2",
     "txdbmaker",
     "SGSeq",
@@ -592,7 +589,6 @@
   "EpiTxDb": [
     "GenomicFeatures",
     "txdbmaker",
-    "tRNAdbImport",
     "rtracklayer"
   ],
   "EpipwR": [],
@@ -613,9 +609,7 @@
     "txdbmaker"
   ],
   "ExperimentSubset": [],
-  "FEAST": [
-    "TSCAN"
-  ],
+  "FEAST": [],
   "FLAMES": [
     "bambu",
     "DropletUtils",
@@ -819,7 +813,6 @@
   "HicAggR": [
     "rtracklayer"
   ],
-  "HoloFoodR": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS",
@@ -878,7 +871,6 @@
   "KnowSeq": [
     "sva"
   ],
-  "LRcell": [],
   "Lheuristic": [],
   "LimROTS": [],
   "M3Drop": [
@@ -1363,7 +1355,6 @@
     "dada2",
     "ShortRead"
   ],
-  "Rbowtie2": [],
   "RcisTarget": [
     "AUCell"
   ],
@@ -1645,7 +1636,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "TSCAN": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -1779,7 +1769,6 @@
     "scuttle"
   ],
   "alabaster": [
-    "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
     "alabaster.mae",
@@ -1789,17 +1778,13 @@
     "GenomicFeatures"
   ],
   "alabaster.mae": [],
-  "alabaster.sce": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
-    "alabaster.sce",
     "alabaster.spatial",
     "DropletUtils",
     "scuttle"
   ],
-  "alabaster.spatial": [
-    "alabaster.sce"
-  ],
+  "alabaster.spatial": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "rtracklayer",
@@ -2121,7 +2106,6 @@
     "VariantAnnotation"
   ],
   "condiments": [
-    "slingshot",
     "distinct",
     "scater",
     "scuttle"
@@ -2449,7 +2433,6 @@
   "esATAC": [
     "ShortRead",
     "pipeFrame",
-    "Rbowtie2",
     "rtracklayer",
     "ChIPseeker",
     "clusterProfiler",
@@ -2691,7 +2674,6 @@
     "scuttle"
   ],
   "immunotation": [],
-  "infercnv": [],
   "intansv": [
     "ggbio",
     "biovizBase",
@@ -2889,7 +2871,6 @@
     "bumphunter",
     "GEOquery"
   ],
-  "miQC": [],
   "miRLAB": [
     "Category",
     "GOstats"
@@ -2917,7 +2898,6 @@
     "miaViz",
     "scuttle"
   ],
-  "miaSim": [],
   "miaViz": [
     "mia",
     "scater",
@@ -3351,7 +3331,6 @@
     "MultiDataSet"
   ],
   "rtracklayer": [],
-  "sSNAPPY": [],
   "sampleClassifier": [],
   "saseR": [
     "ASpli",
@@ -3403,8 +3382,6 @@
     "scran",
     "scuttle"
   ],
-  "scGPS": [],
-  "scHOT": [],
   "scHiCcompare": [
     "HiCcompare"
   ],
@@ -3423,8 +3400,7 @@
   ],
   "scQTLtools": [],
   "scRNAseqApp": [
-    "rtracklayer",
-    "slingshot"
+    "rtracklayer"
   ],
   "scReClassify": [],
   "scRepertoire": [],
@@ -3583,7 +3559,6 @@
     "lumi",
     "rtracklayer"
   ],
-  "slingshot": [],
   "smoppix": [],
   "snifter": [],
   "soGGi": [
@@ -3591,7 +3566,6 @@
     "chipseq",
     "ShortRead"
   ],
-  "sparrow": [],
   "spatialDE": [],
   "spatialFDA": [],
   "spatialHeatmap": [],
@@ -3684,7 +3658,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "tRNAdbImport": [],
   "tRNAscanImport": [
     "rtracklayer",
     "BSgenome"
@@ -3698,7 +3671,6 @@
     "BSgenome",
     "biovizBase"
   ],
-  "tenXplore": [],
   "terraTCGAdata": [
     "TCGAutils",
     "GenomicFeatures",
@@ -3733,9 +3705,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tradeSeq": [
-    "slingshot"
-  ],
+  "tradeSeq": [],
   "transcriptR": [
     "chipseq",
     "GenomicFeatures",
@@ -3788,7 +3758,6 @@
     "VariantAnnotation"
   ],
   "velociraptor": [
-    "zellkonverter",
     "scuttle"
   ],
   "visiumStitched": [
@@ -3847,7 +3816,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "zellkonverter": [],
   "zenith": [
     "EnrichmentBrowser"
   ],

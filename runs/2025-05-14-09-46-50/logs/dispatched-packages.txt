@@ -1545,3 +1545,6 @@ esetVis
 simpleSeg
 xCell2
 gDRcore
+FEAST
+alabaster.spatial
+tradeSeq
