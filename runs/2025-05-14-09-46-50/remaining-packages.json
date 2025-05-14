@@ -77,7 +77,6 @@
     "affycoretools",
     "GOstats",
     "ReportingTools",
-    "Glimma",
     "Category",
     "annotate",
     "GSEABase",
@@ -1048,9 +1047,7 @@
     "GOSemSim"
   ],
   "GDSArray": [],
-  "GENESIS": [
-    "SeqVarTools"
-  ],
+  "GENESIS": [],
   "GEOexplorer": [
     "sva",
     "GEOquery",
@@ -1197,9 +1194,7 @@
   ],
   "GenomicScores": [],
   "GenomicSuperSignature": [],
-  "GenomicTuples": [],
   "GeoTcgaData": [],
-  "Glimma": [],
   "GloScope": [
     "SingleCellExperiment"
   ],
@@ -1399,7 +1394,6 @@
     "ensembldb",
     "annotate"
   ],
-  "KEGGlincs": [],
   "KnowSeq": [
     "sva",
     "genefilter",
@@ -1552,7 +1546,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MODA": [],
   "MOMA": [
     "MultiAssayExperiment"
   ],
@@ -1682,7 +1675,6 @@
     "DOSE",
     "GOSemSim"
   ],
-  "MicrobiotaProcess": [],
   "MineICA": [
     "biomaRt",
     "GOstats",
@@ -2053,7 +2045,6 @@
     "VariantAnnotation",
     "rtracklayer",
     "GenomicFeatures",
-    "SeqVarTools",
     "GenomicAlignments"
   ],
   "RCAS": [
@@ -2388,7 +2379,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SICtools": [],
   "SIM": [
     "globaltest",
     "annotate"
@@ -2455,7 +2445,6 @@
   "SeqSQC": [
     "ExperimentHub"
   ],
-  "SeqVarTools": [],
   "ShortRead": [
     "GenomicAlignments"
   ],
@@ -2684,7 +2673,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "TIN": [],
   "TMSig": [
     "GSEABase",
     "annotate"
@@ -2752,7 +2740,6 @@
     "rtracklayer",
     "plyranges"
   ],
-  "UniProt.ws": [],
   "Uniquorn": [
     "VariantAnnotation",
     "rtracklayer",
@@ -2890,7 +2877,6 @@
   "affycoretools": [
     "GOstats",
     "ReportingTools",
-    "Glimma",
     "Category",
     "annotate",
     "GSEABase",
@@ -3648,7 +3634,6 @@
     "GenomicAlignments"
   ],
   "dagLogo": [
-    "UniProt.ws",
     "biomaRt",
     "motifStack",
     "TFBSTools",
@@ -3796,7 +3781,6 @@
     "graphite"
   ],
   "drugTargetInteractions": [
-    "UniProt.ws",
     "biomaRt",
     "ensembldb",
     "GenomicFeatures",
@@ -4136,9 +4120,7 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "ginmappeR": [
-    "UniProt.ws"
-  ],
+  "ginmappeR": [],
   "glmGamPoi": [
     "SingleCellExperiment"
   ],

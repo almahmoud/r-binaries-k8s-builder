@@ -1,3 +1,2 @@
-SBGNview
-blima
-epigenomix
+GENESIS
+ginmappeR

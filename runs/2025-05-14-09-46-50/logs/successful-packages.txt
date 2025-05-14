@@ -1065,3 +1065,12 @@ pathview
 scrapper
 spqn
 zFPKM
+GenomicTuples
+Glimma
+KEGGlincs
+MicrobiotaProcess
+MODA
+SeqVarTools
+SICtools
+TIN
+UniProt.ws

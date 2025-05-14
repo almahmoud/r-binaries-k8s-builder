@@ -1233,3 +1233,5 @@ isomiRs
 SBGNview
 blima
 epigenomix
+GENESIS
+ginmappeR
