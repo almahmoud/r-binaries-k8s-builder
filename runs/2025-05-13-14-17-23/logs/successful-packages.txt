@@ -1009,3 +1009,6 @@ CoGAPS
 ILoReg
 SCnorm
 SiPSiC
+CDI
+RCSL
+TrajectoryUtils

@@ -416,7 +416,6 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "CDI": [],
   "CEMiTool": [
     "clusterProfiler",
     "AnnotationDbi",
@@ -1123,8 +1122,7 @@
   ],
   "FEAST": [
     "TSCAN",
-    "SC3",
-    "TrajectoryUtils"
+    "SC3"
   ],
   "FLAMES": [
     "bambu",
@@ -2370,7 +2368,6 @@
     "AnnotationDbi",
     "biomaRt"
   ],
-  "RCSL": [],
   "REDseq": [
     "BSgenome",
     "ChIPpeakAnno",
@@ -3065,9 +3062,7 @@
     "GenomicFeatures",
     "AnnotationDbi"
   ],
-  "TSCAN": [
-    "TrajectoryUtils"
-  ],
+  "TSCAN": [],
   "TTMap": [],
   "TVTB": [
     "ensembldb",
@@ -3095,7 +3090,6 @@
   "ToxicoGx": [
     "CoreGx"
   ],
-  "TrajectoryUtils": [],
   "TreeSummarizedExperiment": [],
   "UCell": [],
   "UMI4Cats": [
@@ -3916,7 +3910,6 @@
   ],
   "condiments": [
     "slingshot",
-    "TrajectoryUtils",
     "distinct",
     "scater",
     "scuttle",
@@ -6266,8 +6259,7 @@
   ],
   "scRNAseqApp": [
     "rtracklayer",
-    "slingshot",
-    "TrajectoryUtils"
+    "slingshot"
   ],
   "scReClassify": [],
   "scRepertoire": [],
@@ -6539,7 +6531,6 @@
     "zinbwave",
     "scDblFinder",
     "TSCAN",
-    "TrajectoryUtils",
     "scuttle",
     "zellkonverter",
     "AnnotationDbi",
@@ -6583,9 +6574,7 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "slingshot": [
-    "TrajectoryUtils"
-  ],
+  "slingshot": [],
   "smartid": [],
   "smoothclust": [
     "SpatialExperiment"
@@ -6866,8 +6855,7 @@
     "VariantAnnotation"
   ],
   "tradeSeq": [
-    "slingshot",
-    "TrajectoryUtils"
+    "slingshot"
   ],
   "transcriptR": [
     "chipseq",
