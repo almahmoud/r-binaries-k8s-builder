@@ -280,7 +280,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "COTAN": [],
   "CRISPRball": [
     "dittoSeq"
   ],
@@ -324,7 +323,6 @@
     "scater",
     "scuttle"
   ],
-  "CellTrails": [],
   "CelliD": [
     "scater",
     "scuttle"
@@ -431,7 +429,6 @@
     "PSMatch",
     "QFeatures"
   ],
-  "ClusterFoldSimilarity": [],
   "CoSIA": [
     "ExperimentHub"
   ],
@@ -692,13 +689,11 @@
     "txdbmaker"
   ],
   "ExperimentSubset": [
-    "SpatialExperiment",
-    "TreeSummarizedExperiment"
+    "SpatialExperiment"
   ],
   "FEAST": [
     "TSCAN",
-    "SC3",
-    "TrajectoryUtils"
+    "SC3"
   ],
   "FLAMES": [
     "bambu",
@@ -933,9 +928,7 @@
     "InteractionSet",
     "rtracklayer"
   ],
-  "HoloFoodR": [
-    "TreeSummarizedExperiment"
-  ],
+  "HoloFoodR": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS",
@@ -1072,7 +1065,6 @@
     "rtracklayer"
   ],
   "MGnifyR": [
-    "TreeSummarizedExperiment",
     "mia",
     "scater",
     "scuttle"
@@ -1328,9 +1320,7 @@
     "genefilter"
   ],
   "PICB": [],
-  "PLSDAbatch": [
-    "TreeSummarizedExperiment"
-  ],
+  "PLSDAbatch": [],
   "POMA": [
     "sva",
     "genefilter"
@@ -1534,7 +1524,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "RUCova": [],
   "RUVSeq": [
     "EDASeq",
     "ShortRead",
@@ -1658,7 +1647,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "SCnorm": [],
   "SEraster": [
     "SpatialExperiment"
   ],
@@ -1712,7 +1700,6 @@
     "ExperimentHub"
   ],
   "ShortRead": [],
-  "SiPSiC": [],
   "SigCheck": [
     "MLInterfaces",
     "genefilter"
@@ -1881,9 +1868,7 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "TSCAN": [
-    "TrajectoryUtils"
-  ],
+  "TSCAN": [],
   "TTMap": [],
   "TVTB": [
     "ensembldb",
@@ -1896,8 +1881,6 @@
   ],
   "TissueEnrich": [],
   "ToxicoGx": [],
-  "TrajectoryUtils": [],
-  "TreeSummarizedExperiment": [],
   "UCell": [],
   "UPDhmm": [
     "VariantAnnotation",
@@ -2411,7 +2394,6 @@
   ],
   "condiments": [
     "slingshot",
-    "TrajectoryUtils",
     "distinct",
     "scater",
     "scuttle"
@@ -2569,7 +2551,6 @@
   ],
   "dar": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle"
   ],
@@ -3025,7 +3006,6 @@
     "iSEE",
     "miaViz",
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle"
   ],
@@ -3092,7 +3072,6 @@
   ],
   "lefser": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle"
   ],
@@ -3147,9 +3126,7 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "maaslin3": [
-    "TreeSummarizedExperiment"
-  ],
+  "maaslin3": [],
   "magpie": [
     "rtracklayer",
     "GenomicFeatures",
@@ -3298,7 +3275,6 @@
     "graphite"
   ],
   "mia": [
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle"
   ],
@@ -3307,22 +3283,16 @@
     "iSEEtree",
     "mia",
     "scater",
-    "TreeSummarizedExperiment",
     "miaViz",
     "scuttle"
   ],
-  "miaSim": [
-    "TreeSummarizedExperiment"
-  ],
+  "miaSim": [],
   "miaViz": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle"
   ],
-  "microSTASIS": [
-    "TreeSummarizedExperiment"
-  ],
+  "microSTASIS": [],
   "midasHLA": [],
   "miloR": [],
   "minfi": [
@@ -3512,7 +3482,6 @@
     "genefilter"
   ],
   "omicsPrint": [],
-  "ontoProc": [],
   "oppar": [
     "GSVA",
     "SpatialExperiment"
@@ -3609,9 +3578,7 @@
   "poem": [
     "SpatialExperiment"
   ],
-  "pogos": [
-    "ontoProc"
-  ],
+  "pogos": [],
   "pram": [
     "rtracklayer"
   ],
@@ -3888,8 +3855,7 @@
   "scQTLtools": [],
   "scRNAseqApp": [
     "rtracklayer",
-    "slingshot",
-    "TrajectoryUtils"
+    "slingshot"
   ],
   "scReClassify": [],
   "scRepertoire": [],
@@ -4069,9 +4035,7 @@
     "rtracklayer"
   ],
   "slalom": [],
-  "slingshot": [
-    "TrajectoryUtils"
-  ],
+  "slingshot": [],
   "smartid": [],
   "smoothclust": [
     "SpatialExperiment"
@@ -4228,9 +4192,7 @@
     "BSgenome",
     "biovizBase"
   ],
-  "tenXplore": [
-    "ontoProc"
-  ],
+  "tenXplore": [],
   "terraTCGAdata": [
     "TCGAutils",
     "GenomicFeatures",
@@ -4277,8 +4239,7 @@
     "VariantAnnotation"
   ],
   "tradeSeq": [
-    "slingshot",
-    "TrajectoryUtils"
+    "slingshot"
   ],
   "transcriptR": [
     "chipseq",
@@ -4299,9 +4260,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "treeclimbR": [
-    "TreeSummarizedExperiment"
-  ],
+  "treeclimbR": [],
   "treekoR": [],
   "tricycle": [
     "scater",

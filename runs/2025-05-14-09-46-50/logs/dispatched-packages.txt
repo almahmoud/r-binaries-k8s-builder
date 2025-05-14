@@ -1438,3 +1438,13 @@ singscore
 slalom
 sparrow
 splineTimeR
+HoloFoodR
+PLSDAbatch
+TSCAN
+maaslin3
+miaSim
+microSTASIS
+pogos
+slingshot
+tenXplore
+treeclimbR

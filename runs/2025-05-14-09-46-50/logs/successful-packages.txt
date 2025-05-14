@@ -1267,3 +1267,12 @@ MetaNeighbor
 MultimodalExperiment
 RCSL
 supersigs
+CellTrails
+ClusterFoldSimilarity
+COTAN
+ontoProc
+RUCova
+SCnorm
+SiPSiC
+TrajectoryUtils
+TreeSummarizedExperiment
