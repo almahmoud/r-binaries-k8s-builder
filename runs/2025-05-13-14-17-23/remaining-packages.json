@@ -505,7 +505,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "CGHnormaliter": [],
   "CHETAH": [
     "SingleCellExperiment"
   ],
@@ -1282,7 +1281,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "EnhancedVolcano": [],
   "EnrichDO": [
     "clusterProfiler",
     "AnnotationDbi",
@@ -2939,7 +2937,6 @@
     "coseq",
     "AnnotationDbi",
     "clusterProfiler",
-    "EnhancedVolcano",
     "enrichplot",
     "DOSE",
     "GOSemSim",
@@ -4572,7 +4569,6 @@
     "SingleCellExperiment",
     "chevreulProcess",
     "chevreulPlot",
-    "EnhancedVolcano",
     "wiggleplotr",
     "scater",
     "scran",
@@ -6668,7 +6664,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "msPurity": [],
   "msgbsR": [
     "BSgenome",
     "easyRNASeq",
@@ -6986,7 +6981,6 @@
     "annotate"
   ],
   "pairkat": [],
-  "panelcn.mops": [],
   "partCNV": [
     "SingleCellExperiment",
     "AnnotationHub",
@@ -8395,7 +8389,6 @@
     "AnnotationDbi",
     "GenomicAlignments"
   ],
-  "transomics2cytoscape": [],
   "traseR": [
     "BSgenome",
     "rtracklayer",

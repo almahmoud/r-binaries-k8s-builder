@@ -894,3 +894,8 @@ matter
 MSstatsBioNet
 MSstatsTMT
 TnT
+CGHnormaliter
+EnhancedVolcano
+msPurity
+panelcn.mops
+transomics2cytoscape
