@@ -1638,7 +1638,6 @@
   "SparseSignatures": [
     "BSgenome"
   ],
-  "SpectralTAD": [],
   "SpliceWiz": [
     "AnnotationHub",
     "BSgenome",
@@ -1799,7 +1798,6 @@
   ],
   "VegaMC": [],
   "ViSEAGO": [],
-  "Voyager": [],
   "XDE": [
     "genefilter",
     "GeneMeta",
@@ -2466,7 +2464,6 @@
     "mnem"
   ],
   "epidecodeR": [],
-  "epigenomix": [],
   "epigraHMM": [
     "GreyListChIP",
     "BSgenome"
@@ -2782,7 +2779,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "immunogenViewer": [],
   "immunotation": [],
   "intansv": [
     "ggbio",
@@ -3024,7 +3020,6 @@
     "GenomicFeatures",
     "annotate"
   ],
-  "mirIntegrator": [],
   "missMethyl": [
     "methylumi",
     "minfi",
@@ -3041,7 +3036,6 @@
     "GenomicFeatures"
   ],
   "mnem": [],
-  "moanin": [],
   "mobileRNA": [],
   "mogsa": [
     "graphite",
@@ -3741,7 +3735,6 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "switchde": [],
   "synapter": [
     "MSnbase"
   ],

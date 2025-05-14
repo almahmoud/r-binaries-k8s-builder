@@ -1434,3 +1434,10 @@ RTNduals
 scater
 scHiCcompare
 scran
+epigenomix
+immunogenViewer
+mirIntegrator
+moanin
+SpectralTAD
+switchde
+Voyager
