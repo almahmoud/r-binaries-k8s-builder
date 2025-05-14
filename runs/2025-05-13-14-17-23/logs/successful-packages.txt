@@ -1255,3 +1255,8 @@ qmtools
 receptLoss
 SpatialFeatureExperiment
 tidySingleCellExperiment
+BasicSTARRseq
+BiFET
+ggtreeDendro
+mpra
+SpectraQL

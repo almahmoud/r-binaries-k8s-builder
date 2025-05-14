@@ -189,7 +189,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "BasicSTARRseq": [],
   "BatchQC": [
     "scran",
     "sva",
@@ -216,7 +215,6 @@
     "topGO",
     "zellkonverter"
   ],
-  "BiFET": [],
   "BiSeq": [
     "rtracklayer",
     "globaltest",
@@ -2310,7 +2308,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "SpectraQL": [],
   "SpectralTAD": [
     "HiCcompare"
   ],
@@ -3754,7 +3751,6 @@
   "ggcyto": [
     "flowWorkspace"
   ],
-  "ggtreeDendro": [],
   "ggtreeExtra": [],
   "ginmappeR": [
     "UniProt.ws"
@@ -4333,7 +4329,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "mpra": [],
   "msImpute": [
     "scran",
     "BiocSingular"
