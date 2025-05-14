@@ -637,7 +637,6 @@
     "PADOG",
     "GSVA",
     "globaltest",
-    "safe",
     "annotate",
     "GSEABase"
   ],
@@ -675,7 +674,6 @@
   "EnrichmentBrowser": [
     "GSEABase",
     "graphite",
-    "safe",
     "annotate"
   ],
   "EpiCompare": [
@@ -806,7 +804,6 @@
     "ExperimentHub",
     "GSEABase",
     "graphite",
-    "safe",
     "annotate"
   ],
   "GSRI": [
@@ -1182,7 +1179,6 @@
     "BSgenome"
   ],
   "MeSHDbi": [],
-  "MetMashR": [],
   "MetaPhOR": [],
   "MetaboAnnotation": [
     "AnnotationHub"
@@ -1777,7 +1773,6 @@
   "SPONGE": [
     "biomaRt"
   ],
-  "SPsimSeq": [],
   "SWATH2stats": [
     "biomaRt"
   ],
@@ -1857,7 +1852,6 @@
   ],
   "SubCellBarCode": [],
   "SurfR": [
-    "SPsimSeq",
     "TCGAbiolinks",
     "biomaRt"
   ],
@@ -2046,12 +2040,10 @@
   ],
   "a4": [
     "a4Base",
-    "annaffy",
     "genefilter",
     "annotate"
   ],
   "a4Base": [
-    "annaffy",
     "genefilter",
     "annotate"
   ],
@@ -2091,7 +2083,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "annaffy": [],
   "annmap": [
     "genefilter",
     "annotate"
@@ -2721,8 +2712,7 @@
     "zenith",
     "annotate",
     "EnrichmentBrowser",
-    "graphite",
-    "safe"
+    "graphite"
   ],
   "drugTargetInteractions": [
     "biomaRt",
@@ -2900,7 +2890,6 @@
   "flowVS": [
     "flowStats"
   ],
-  "funOmics": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
@@ -2922,7 +2911,6 @@
     "ReactomePA",
     "graphite"
   ],
-  "gatom": [],
   "gcapc": [
     "BSgenome"
   ],
@@ -3833,7 +3821,6 @@
   "sSNAPPY": [
     "graphite"
   ],
-  "safe": [],
   "sampleClassifier": [
     "MGFM",
     "MGFR",
@@ -3938,7 +3925,6 @@
     "biomaRt"
   ],
   "scater": [],
-  "scifer": [],
   "scmap": [],
   "scmeth": [
     "bsseq",
@@ -4338,9 +4324,7 @@
   "wavClusteR": [
     "GenomicFeatures"
   ],
-  "webbioc": [
-    "annaffy"
-  ],
+  "webbioc": [],
   "wiggleplotr": [],
   "xCell2": [
     "singscore",
@@ -4365,7 +4349,6 @@
     "EnrichmentBrowser",
     "GSEABase",
     "graphite",
-    "safe",
     "annotate"
   ],
   "zinbwave": [

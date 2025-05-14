@@ -1384,3 +1384,10 @@ iSEEde
 ADAM
 affylmGUI
 TDbasedUFEadv
+annaffy
+funOmics
+gatom
+MetMashR
+safe
+scifer
+SPsimSeq
