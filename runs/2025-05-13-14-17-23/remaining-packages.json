@@ -2848,9 +2848,7 @@
   "SplineDV": [
     "scuttle"
   ],
-  "SpotSweeper": [
-    "escheR"
-  ],
+  "SpotSweeper": [],
   "StabMap": [
     "BiocSingular"
   ],
@@ -4363,7 +4361,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "escheR": [],
   "esetVis": [
     "MLP",
     "AnnotationDbi"
