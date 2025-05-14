@@ -1555,3 +1555,9 @@ ViSEAGO
 airpart
 oposSOM
 RFLOMICS
+clustSIGNAL
+lute
+mnem
+seq2pathway
+Spaniel
+transcriptogramer

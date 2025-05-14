@@ -1263,7 +1263,6 @@
     "txdbmaker"
   ],
   "SpaNorm": [],
-  "Spaniel": [],
   "SparseSignatures": [],
   "SpliceWiz": [
     "genefilter",
@@ -1548,7 +1547,6 @@
   ],
   "bnem": [
     "epiNEM",
-    "mnem",
     "sva",
     "genefilter"
   ],
@@ -1668,7 +1666,6 @@
   "cliqueMS": [
     "xcms"
   ],
-  "clustSIGNAL": [],
   "clusterExperiment": [
     "zinbwave",
     "genefilter"
@@ -1810,8 +1807,7 @@
     "mia"
   ],
   "dce": [
-    "epiNEM",
-    "mnem"
+    "epiNEM"
   ],
   "debrowser": [
     "sva",
@@ -1906,9 +1902,7 @@
   "ensembldb": [
     "GenomicFeatures"
   ],
-  "epiNEM": [
-    "mnem"
-  ],
+  "epiNEM": [],
   "epigraHMM": [
     "GreyListChIP"
   ],
@@ -2204,7 +2198,6 @@
     "genefilter",
     "bumphunter"
   ],
-  "lute": [],
   "m6Aboost": [
     "ExperimentHub"
   ],
@@ -2348,7 +2341,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "mnem": [],
   "mogsa": [
     "genefilter",
     "GSEABase"
@@ -2424,7 +2416,6 @@
     "GenomicFeatures"
   ],
   "nempi": [
-    "mnem",
     "epiNEM"
   ],
   "netSmooth": [
@@ -2747,7 +2738,6 @@
     "HiLDA",
     "GenomicFeatures"
   ],
-  "seq2pathway": [],
   "seqArchRplus": [
     "ChIPseeker",
     "GenomicFeatures"
@@ -2932,7 +2922,6 @@
   "transcriptR": [
     "GenomicFeatures"
   ],
-  "transcriptogramer": [],
   "transmogR": [
     "GenomicFeatures",
     "VariantAnnotation"
