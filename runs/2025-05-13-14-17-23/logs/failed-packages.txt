@@ -8,3 +8,4 @@ NormqPCR
 PhenStat
 HilbertVis
 hypeR
+Harshlight

@@ -1852,7 +1852,6 @@
   "FeatSeekR": [
     "SummarizedExperiment"
   ],
-  "FilterFFPE": [],
   "FindIT2": [
     "rtracklayer",
     "GenomicFeatures",
@@ -2439,7 +2438,6 @@
     "SummarizedExperiment",
     "rtracklayer"
   ],
-  "IMMAN": [],
   "INSPEcT": [
     "GenomicFeatures",
     "GenomicAlignments",
@@ -4311,7 +4309,6 @@
     "KEGGREST",
     "BSgenome"
   ],
-  "SAIGEgds": [],
   "SARC": [
     "RaggedExperiment",
     "plyranges",
@@ -7587,7 +7584,6 @@
     "ncdfFlow",
     "flowWorkspace"
   ],
-  "ggmanh": [],
   "ggmsa": [
     "ggtree"
   ],
@@ -9879,7 +9875,6 @@
   "sangeranalyseR": [
     "DECIPHER"
   ],
-  "sarks": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -10144,9 +10139,7 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "scanMiR": [],
   "scanMiRApp": [
-    "scanMiR",
     "AnnotationDbi",
     "AnnotationFilter",
     "AnnotationHub",
