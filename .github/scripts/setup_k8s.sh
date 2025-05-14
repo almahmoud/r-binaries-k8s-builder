@@ -70,6 +70,7 @@ spec:
   initContainers:
   - name: deps-generator
     image: ${CONTAINER_IMAGE}
+    imagePullPolicy: Always
     command: ["Rscript", "/scripts/deps_json.R", "--biocdeps=/mnt/biocdeps.json", "--uniquedeps=/mnt/uniquedeps.json"]
     volumeMounts:
     - name: bioc-data
@@ -79,6 +80,7 @@ spec:
   containers:
   - name: bioc-main
     image: ${CONTAINER_IMAGE}
+    imagePullPolicy: Always
     command: ["/bin/sh", "-c", "tail -f /dev/null"]
     volumeMounts:
     - name: bioc-data
