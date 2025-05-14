@@ -1474,7 +1474,6 @@
   "Macarron": [],
   "MatrixQCvis": [
     "ExperimentHub",
-    "proDA",
     "sva",
     "AnnotationHub",
     "genefilter",
@@ -1597,7 +1596,6 @@
     "biomaRt"
   ],
   "MsBackendMassbank": [],
-  "MsBackendSql": [],
   "MsDataHub": [
     "ExperimentHub",
     "AnnotationHub"
@@ -2501,7 +2499,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "VDJdive": [],
   "VaSP": [
     "ballgown",
     "sva",
@@ -4279,7 +4276,6 @@
     "bumphunter",
     "rtracklayer"
   ],
-  "missRows": [],
   "mist": [
     "rtracklayer"
   ],
@@ -4659,7 +4655,6 @@
     "rtracklayer",
     "biomaRt"
   ],
-  "proDA": [],
   "profileplyr": [
     "soGGi",
     "ChIPseeker",
