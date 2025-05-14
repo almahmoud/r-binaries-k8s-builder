@@ -1422,3 +1422,4 @@ CoSIA
 imcRtools
 scCB2
 SpatialExperimentIO
+scQTLtools

@@ -3069,7 +3069,6 @@
   "scPipe": [
     "rtracklayer"
   ],
-  "scQTLtools": [],
   "scRNAseqApp": [
     "rtracklayer"
   ],
