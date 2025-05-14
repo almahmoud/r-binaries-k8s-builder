@@ -1298,3 +1298,12 @@ gsean
 RNAsense
 smartid
 SPOTlight
+BLMA
+ExperimentHub
+genefilter
+GWENA
+InteractionSet
+QTLExperiment
+SAIGEgds
+SingleCellAlleleExperiment
+UCell
