@@ -1377,3 +1377,9 @@ MoleculeExperiment
 omicsPrint
 PSMatch
 xCell2
+CARDspa
+ccfindR
+cytoviewer
+FEAST
+PhosR
+simpleSeg

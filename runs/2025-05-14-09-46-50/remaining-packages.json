@@ -207,7 +207,6 @@
     "MSnbase",
     "MsExperiment"
   ],
-  "CARDspa": [],
   "CATALYST": [
     "scater"
   ],
@@ -587,7 +586,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "FEAST": [],
   "FLAMES": [
     "bambu",
     "DropletUtils",
@@ -1130,7 +1128,6 @@
     "enrichplot"
   ],
   "PhenStat": [],
-  "PhosR": [],
   "PhyloProfile": [],
   "Pigengene": [
     "clusterProfiler",
@@ -1915,7 +1912,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "ccfindR": [],
   "celda": [
     "scater",
     "scran"
@@ -2157,7 +2153,6 @@
     "CATALYST",
     "scater"
   ],
-  "cytoviewer": [],
   "dada2": [
     "ShortRead"
   ],
@@ -2641,7 +2636,6 @@
   ],
   "lisaClust": [
     "spicyR",
-    "simpleSeg",
     "ClassifyR"
   ],
   "lumi": [
@@ -3416,7 +3410,6 @@
     "rtracklayer"
   ],
   "simPIC": [],
-  "simpleSeg": [],
   "sitadela": [
     "GenomicFeatures",
     "rtracklayer",
@@ -3458,8 +3451,7 @@
   ],
   "speckle": [],
   "spicyR": [
-    "ClassifyR",
-    "simpleSeg"
+    "ClassifyR"
   ],
   "spiky": [
     "BSgenome",
