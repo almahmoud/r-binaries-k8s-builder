@@ -774,7 +774,6 @@
   "DESpace": [
     "scuttle"
   ],
-  "DEWSeq": [],
   "DEXSeq": [
     "AnnotationDbi",
     "biomaRt",
@@ -3979,7 +3978,6 @@
     "flowViz"
   ],
   "cydar": [],
-  "cypress": [],
   "cytoKernel": [],
   "cytofQC": [
     "CATALYST",
@@ -4421,7 +4419,6 @@
     "flowFP",
     "flowViz"
   ],
-  "flowCHIC": [],
   "flowClean": [],
   "flowClust": [],
   "flowCut": [
@@ -5118,7 +5115,6 @@
     "rtracklayer",
     "bumphunter"
   ],
-  "miQC": [],
   "miRLAB": [
     "TCGAbiolinks",
     "Category",

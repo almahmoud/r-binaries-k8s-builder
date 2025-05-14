@@ -1075,3 +1075,7 @@ projectR
 scDesign3
 tpSVG
 mbkmeans
+cypress
+DEWSeq
+flowCHIC
+miQC
