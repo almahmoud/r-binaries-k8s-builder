@@ -1406,3 +1406,12 @@ MSnbase
 phenomis
 rqt
 scater
+AGDEX
+biosigner
+CytoPipeline
+midasHLA
+scMET
+scran
+scry
+splatter
+waddR
