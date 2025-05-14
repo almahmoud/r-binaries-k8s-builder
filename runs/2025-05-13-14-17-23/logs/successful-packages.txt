@@ -1213,3 +1213,9 @@ MsBackendMsp
 MsExperiment
 sechm
 PSMatch
+DESpace
+MetaCyto
+msqrob2
+scp
+splatter
+XeniumIO

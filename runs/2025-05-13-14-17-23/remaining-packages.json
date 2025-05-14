@@ -645,7 +645,6 @@
     "ensembldb",
     "BSgenome"
   ],
-  "DESpace": [],
   "DEXSeq": [
     "biomaRt",
     "geneplotter",
@@ -1502,7 +1501,6 @@
   "MesKit": [],
   "MetMashR": [],
   "MetNet": [],
-  "MetaCyto": [],
   "MetaPhOR": [
     "clusterProfiler",
     "DOSE",
@@ -2582,7 +2580,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "XeniumIO": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
@@ -4406,7 +4403,6 @@
     "MSnbase",
     "msmsEDA"
   ],
-  "msqrob2": [],
   "multiGSEA": [
     "graphite",
     "AnnotationHub"
@@ -5057,7 +5053,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "scp": [],
   "scran": [
     "BiocSingular"
   ],
@@ -5288,7 +5283,6 @@
     "scater",
     "BiocSingular"
   ],
-  "splatter": [],
   "splineTimeR": [
     "GSEABase",
     "annotate"
