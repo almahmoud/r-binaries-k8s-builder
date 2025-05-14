@@ -2378,7 +2378,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SplineDV": [],
   "SpotSweeper": [],
   "StabMap": [
     "BiocSingular"
@@ -2698,7 +2697,6 @@
   "amplican": [
     "ShortRead"
   ],
-  "animalcules": [],
   "annaffy": [],
   "annmap": [
     "genefilter",
@@ -4446,7 +4444,6 @@
     "msmsEDA",
     "PSMatch"
   ],
-  "mspms": [],
   "msqrob2": [],
   "multiGSEA": [
     "graphite",

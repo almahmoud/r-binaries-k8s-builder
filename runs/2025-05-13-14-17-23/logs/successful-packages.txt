@@ -1206,3 +1206,6 @@ lemur
 microbiomeExplorer
 PathoStat
 sosta
+animalcules
+mspms
+SplineDV
