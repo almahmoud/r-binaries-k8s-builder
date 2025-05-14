@@ -1117,8 +1117,7 @@
     "biomaRt"
   ],
   "ExperimentSubset": [
-    "SpatialExperiment",
-    "TreeSummarizedExperiment"
+    "SpatialExperiment"
   ],
   "FEAST": [
     "TSCAN",
@@ -1526,9 +1525,7 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "HoloFoodR": [
-    "TreeSummarizedExperiment"
-  ],
+  "HoloFoodR": [],
   "HybridExpress": [],
   "IMAS": [
     "GenomicFeatures",
@@ -1752,7 +1749,6 @@
     "AnnotationDbi"
   ],
   "MGnifyR": [
-    "TreeSummarizedExperiment",
     "mia",
     "scater",
     "scuttle",
@@ -2197,9 +2193,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "PLSDAbatch": [
-    "TreeSummarizedExperiment"
-  ],
+  "PLSDAbatch": [],
   "POMA": [
     "sva",
     "genefilter",
@@ -3090,7 +3084,6 @@
   "ToxicoGx": [
     "CoreGx"
   ],
-  "TreeSummarizedExperiment": [],
   "UCell": [],
   "UMI4Cats": [
     "ShortRead",
@@ -3296,7 +3289,6 @@
   "affylmGUI": [
     "AnnotationDbi"
   ],
-  "aggregateBioVar": [],
   "airpart": [
     "scater",
     "scuttle",
@@ -3457,7 +3449,6 @@
     "BiocSingular",
     "scuttle"
   ],
-  "bayNorm": [],
   "beachmat.tiledb": [],
   "beadarray": [
     "AnnotationDbi"
@@ -3469,7 +3460,6 @@
     "PhIPData"
   ],
   "benchdamic": [
-    "TreeSummarizedExperiment",
     "zinbwave",
     "ALDEx2",
     "MAST",
@@ -4139,7 +4129,6 @@
   ],
   "dar": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle",
     "BiocSingular"
@@ -4923,7 +4912,6 @@
     "iSEE",
     "miaViz",
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle",
     "BiocSingular"
@@ -5055,7 +5043,6 @@
   ],
   "lefser": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle",
     "BiocSingular"
@@ -5125,9 +5112,7 @@
   "maPredictDSC": [
     "AnnotationDbi"
   ],
-  "maaslin3": [
-    "TreeSummarizedExperiment"
-  ],
+  "maaslin3": [],
   "magpie": [
     "rtracklayer",
     "GenomicFeatures",
@@ -5343,7 +5328,6 @@
     "biomaRt"
   ],
   "mia": [
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle",
     "BiocSingular"
@@ -5353,24 +5337,18 @@
     "iSEEtree",
     "mia",
     "scater",
-    "TreeSummarizedExperiment",
     "miaViz",
     "scuttle",
     "BiocSingular"
   ],
-  "miaSim": [
-    "TreeSummarizedExperiment"
-  ],
+  "miaSim": [],
   "miaViz": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle",
     "BiocSingular"
   ],
-  "microSTASIS": [
-    "TreeSummarizedExperiment"
-  ],
+  "microSTASIS": [],
   "microbiomeExplorer": [],
   "midasHLA": [],
   "miloR": [
@@ -6884,7 +6862,6 @@
     "rtracklayer"
   ],
   "treeclimbR": [
-    "TreeSummarizedExperiment",
     "diffcyt",
     "FlowSOM"
   ],

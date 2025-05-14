@@ -1,2 +1,5 @@
-TSCAN
-slingshot
+HoloFoodR
+PLSDAbatch
+maaslin3
+miaSim
+microSTASIS

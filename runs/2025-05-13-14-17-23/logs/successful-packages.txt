@@ -1012,3 +1012,6 @@ SiPSiC
 CDI
 RCSL
 TrajectoryUtils
+aggregateBioVar
+bayNorm
+TreeSummarizedExperiment
