@@ -618,3 +618,5 @@ scMitoMut
 sitePath
 tanggle
 trio
+IntramiRExploreR
+MetaboCoreUtils
