@@ -1525,7 +1525,6 @@
     "AnnotationDbi"
   ],
   "InteractionSet": [],
-  "IsoBayes": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
     "satuRn",
@@ -2177,7 +2176,6 @@
     "GOSemSim",
     "graphite"
   ],
-  "Pirat": [],
   "PrInCE": [
     "MSnbase",
     "PSMatch",

@@ -1149,3 +1149,5 @@ pgxRpi
 scPCA
 spqn
 sRACIPE
+IsoBayes
+Pirat
