@@ -825,7 +825,6 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "GenomicSuperSignature": [],
   "GlobalAncova": [],
   "GmicR": [
     "Category",
@@ -1402,7 +1401,6 @@
     "GenomicFeatures"
   ],
   "RFLOMICS": [
-    "coseq",
     "clusterProfiler",
     "enrichplot"
   ],
@@ -1468,7 +1466,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RNAsense": [],
   "RSVSim": [
     "ShortRead"
   ],
@@ -1635,7 +1632,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SPOTlight": [],
   "SPsimSeq": [],
   "SVMDO": [],
   "SVP": [],
@@ -2341,7 +2337,6 @@
     "GenomicFeatures"
   ],
   "corral": [],
-  "coseq": [],
   "cosmiq": [
     "xcms",
     "MSnbase",
@@ -2821,7 +2816,6 @@
   "groHMM": [
     "rtracklayer"
   ],
-  "gsean": [],
   "gwascat": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -3907,7 +3901,6 @@
   ],
   "slalom": [],
   "slingshot": [],
-  "smartid": [],
   "smoothclust": [],
   "smoppix": [],
   "snifter": [],

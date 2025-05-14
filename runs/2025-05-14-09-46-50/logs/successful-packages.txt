@@ -1292,3 +1292,9 @@ stageR
 tidySummarizedExperiment
 TTMap
 VDJdive
+coseq
+GenomicSuperSignature
+gsean
+RNAsense
+smartid
+SPOTlight
