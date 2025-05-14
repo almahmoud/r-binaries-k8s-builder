@@ -2107,7 +2107,6 @@
     "GenomicAlignments"
   ],
   "GeneBreak": [],
-  "GeneGeneInteR": [],
   "GeneMeta": [
     "genefilter",
     "AnnotationDbi",
@@ -10269,12 +10268,10 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "seqArchR": [],
   "seqArchRplus": [
     "BSgenome",
     "ChIPseeker",
     "clusterProfiler",
-    "seqArchR",
     "seqPattern",
     "rtracklayer",
     "AnnotationDbi",
@@ -10714,7 +10711,6 @@
     "SummarizedExperiment"
   ],
   "sscu": [],
-  "ssviz": [],
   "stJoincount": [
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -10991,7 +10987,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "tracktables": [],
   "tradeSeq": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -11021,7 +11016,6 @@
     "DelayedMatrixStats",
     "SingleCellExperiment"
   ],
-  "transite": [],
   "transmogR": [
     "BSgenome",
     "GenomicFeatures",

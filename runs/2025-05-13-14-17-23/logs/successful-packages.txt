@@ -778,3 +778,8 @@ pqsfinder
 QDNAseq
 rfPred
 SeqVarTools
+GeneGeneInteR
+seqArchR
+ssviz
+tracktables
+transite
