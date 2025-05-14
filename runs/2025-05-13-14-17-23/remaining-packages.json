@@ -734,7 +734,6 @@
     "GEOquery",
     "methylumi",
     "lumi",
-    "ROC",
     "BSgenome",
     "txdbmaker",
     "ensembldb",
@@ -1701,7 +1700,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "GenomAutomorphism": [],
   "GenomicAlignments": [],
   "GenomicDataCommons": [],
   "GenomicDistributions": [],
@@ -2156,7 +2154,6 @@
     "GEOquery",
     "methylumi",
     "lumi",
-    "ROC",
     "GenomicFeatures",
     "AnnotationDbi",
     "annotate",
@@ -3132,7 +3129,6 @@
     "AnnotationFilter"
   ],
   "RNAsense": [],
-  "ROC": [],
   "ROCpAI": [],
   "ROntoTools": [],
   "RSVSim": [
@@ -3448,7 +3444,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "SIMAT": [],
   "SMITE": [
     "AnnotationDbi",
     "BioNet",
@@ -3740,8 +3735,7 @@
     "genefilter"
   ],
   "TCC": [
-    "DESeq2",
-    "ROC"
+    "DESeq2"
   ],
   "TCGAbiolinks": [
     "biomaRt",
@@ -4385,7 +4379,6 @@
     "GenomicFeatures",
     "bumphunter",
     "lumi",
-    "ROC",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -4809,12 +4802,9 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "clst": [
-    "ROC"
-  ],
+  "clst": [],
   "clstutils": [
-    "clst",
-    "ROC"
+    "clst"
   ],
   "clustSIGNAL": [
     "SpatialExperiment",
@@ -5676,7 +5666,6 @@
     "GEOquery",
     "GenomicAlignments"
   ],
-  "fgga": [],
   "findIPs": [],
   "fishpond": [
     "SingleCellExperiment"
@@ -6412,7 +6401,6 @@
     "txdbmaker"
   ],
   "maPredictDSC": [
-    "ROC",
     "AnnotationDbi"
   ],
   "maaslin3": [
@@ -7436,7 +7424,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "qckitfastq": [],
   "qmtools": [],
   "qpgraph": [
     "annotate",
@@ -7499,7 +7486,6 @@
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "rRDP": [],
   "rScudo": [],
   "rTRM": [
     "AnnotationDbi"
@@ -7640,7 +7626,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "rigvf": [],
   "rmspc": [
     "rtracklayer",
     "GenomicAlignments"
@@ -7660,7 +7645,6 @@
     "MultiAssayExperiment",
     "MultiDataSet"
   ],
-  "rprimer": [],
   "rqt": [
     "ropls",
     "MultiAssayExperiment",
@@ -7962,7 +7946,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "scoup": [],
   "scp": [
     "QFeatures",
     "MultiAssayExperiment",
@@ -8227,7 +8210,6 @@
     "bumphunter",
     "GEOquery",
     "lumi",
-    "ROC",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -8385,7 +8367,6 @@
     "AnnotationFilter"
   ],
   "ssPATHS": [],
-  "sscu": [],
   "stJoincount": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -8403,9 +8384,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "statTarget": [
-    "ROC"
-  ],
+  "statTarget": [],
   "strandCheckR": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -8783,7 +8762,6 @@
   "wateRmelon": [
     "methylumi",
     "lumi",
-    "ROC",
     "minfi",
     "GenomicFeatures",
     "annotate",

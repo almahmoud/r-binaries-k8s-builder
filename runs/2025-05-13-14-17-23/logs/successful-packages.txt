@@ -850,3 +850,13 @@ piano
 SigFuge
 TFARM
 ttgsea
+fgga
+GenomAutomorphism
+qckitfastq
+rigvf
+ROC
+rprimer
+rRDP
+scoup
+SIMAT
+sscu

@@ -1,3 +1,2 @@
-DeepPINCS
-SingleR
-weitrix
+clst
+statTarget
