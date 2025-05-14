@@ -1059,3 +1059,7 @@ cytomapper
 mBPCR
 spaSim
 spatialSimGP
+ggspavis
+nnSVG
+oligo
+omicade4

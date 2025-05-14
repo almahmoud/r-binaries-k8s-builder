@@ -144,9 +144,7 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "ArrayExpress": [
-    "oligo"
-  ],
+  "ArrayExpress": [],
   "BANDITS": [],
   "BASiCS": [
     "scran",
@@ -593,8 +591,7 @@
     "BSgenome"
   ],
   "ChIPXpress": [
-    "frma",
-    "oligo"
+    "frma"
   ],
   "ChIPanalyser": [
     "BSgenome",
@@ -932,8 +929,7 @@
     "biomaRt",
     "ArrayExpress",
     "annotate",
-    "AnnotationDbi",
-    "oligo"
+    "AnnotationDbi"
   ],
   "DuplexDiscovereR": [
     "InteractionSet",
@@ -1515,9 +1511,7 @@
     "QFeatures",
     "PSMatch"
   ],
-  "ITALICS": [
-    "oligo"
-  ],
+  "ITALICS": [],
   "IVAS": [
     "GenomicFeatures",
     "AnnotationDbi",
@@ -2644,7 +2638,6 @@
   ],
   "SC3": [],
   "SCAN.UPC": [
-    "oligo",
     "sva",
     "genefilter",
     "AnnotationDbi",
@@ -3760,9 +3753,7 @@
     "GOSemSim"
   ],
   "clusterSeq": [],
-  "cn.farms": [
-    "oligo"
-  ],
+  "cn.farms": [],
   "coMethDMR": [
     "AnnotationHub",
     "bumphunter",
@@ -4481,9 +4472,7 @@
   "flowWorkspace": [
     "ncdfFlow"
   ],
-  "frma": [
-    "oligo"
-  ],
+  "frma": [],
   "funOmics": [
     "AnnotationDbi"
   ],
@@ -4609,7 +4598,6 @@
     "ncdfFlow",
     "flowWorkspace"
   ],
-  "ggspavis": [],
   "ggtreeDendro": [],
   "ggtreeExtra": [],
   "ginmappeR": [
@@ -5202,9 +5190,7 @@
   "miloR": [
     "BiocSingular"
   ],
-  "mimager": [
-    "oligo"
-  ],
+  "mimager": [],
   "minfi": [
     "bumphunter",
     "genefilter",
@@ -5439,7 +5425,6 @@
     "AnnotationDbi"
   ],
   "nipalsMCIA": [],
-  "nnSVG": [],
   "normr": [
     "rtracklayer"
   ],
@@ -5471,7 +5456,6 @@
     "rtracklayer",
     "annotate"
   ],
-  "oligo": [],
   "omXplore": [
     "MSnbase",
     "PSMatch",
@@ -5479,13 +5463,11 @@
   ],
   "omicRexposome": [
     "sva",
-    "omicade4",
     "MultiDataSet",
     "genefilter",
     "AnnotationDbi",
     "annotate"
   ],
-  "omicade4": [],
   "omicplotR": [
     "ALDEx2"
   ],
@@ -5606,9 +5588,7 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "pdInfoBuilder": [
-    "oligo"
-  ],
+  "pdInfoBuilder": [],
   "peakPantheR": [
     "MSnbase",
     "PSMatch",
@@ -5751,9 +5731,7 @@
     "PSMatch",
     "QFeatures"
   ],
-  "puma": [
-    "oligo"
-  ],
+  "puma": [],
   "qPLEXanalyzer": [
     "MSnbase",
     "PSMatch",
@@ -6448,7 +6426,6 @@
     "AnnotationDbi"
   ],
   "spoon": [
-    "nnSVG",
     "scuttle"
   ],
   "spqn": [],
