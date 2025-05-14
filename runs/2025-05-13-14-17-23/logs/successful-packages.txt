@@ -1118,3 +1118,8 @@ zFPKM
 riboSeqR
 ROCpAI
 yamss
+CellScore
+gemma.R
+GenomicDataCommons
+MBASED
+SeqGate

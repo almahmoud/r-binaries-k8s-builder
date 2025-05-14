@@ -530,7 +530,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "CellScore": [],
   "CelliD": [
     "scater",
     "scuttle",
@@ -1152,7 +1151,6 @@
     "DOSE",
     "biomaRt",
     "pathview",
-    "GenomicDataCommons",
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim"
@@ -1171,7 +1169,6 @@
     "TCGAutils",
     "AnnotationDbi",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer"
   ],
   "GOSemSim": [
@@ -1320,7 +1317,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "GenomicDataCommons": [],
   "GenomicFeatures": [
     "AnnotationDbi",
     "rtracklayer"
@@ -1633,7 +1629,6 @@
     "PSMatch"
   ],
   "MAPFX": [],
-  "MBASED": [],
   "MBECS": [
     "sva",
     "genefilter",
@@ -2420,7 +2415,6 @@
     "TCGAutils",
     "AnnotationDbi",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer"
   ],
   "RTN": [],
@@ -2729,7 +2723,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "SeqGate": [],
   "SeqSQC": [
     "ExperimentHub",
     "AnnotationHub",
@@ -2885,7 +2878,6 @@
   "TCGAutils": [
     "AnnotationDbi",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "RaggedExperiment",
     "rtracklayer"
   ],
@@ -3379,7 +3371,6 @@
     "GOSemSim",
     "graphite",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer"
   ],
   "biocGraph": [
@@ -3494,7 +3485,6 @@
     "TCGAutils",
     "AnnotationDbi",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer"
   ],
   "cTRAP": [
@@ -3531,7 +3521,6 @@
     "biomaRt",
     "genefilter",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer"
   ],
   "cardelino": [
@@ -3564,7 +3553,6 @@
     "AnnotationDbi",
     "annotate",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer"
   ],
   "ccmap": [
@@ -4495,7 +4483,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "gemma.R": [],
   "geneAttribution": [
     "GenomicFeatures",
     "rtracklayer",
@@ -4573,7 +4560,6 @@
     "TCGAutils",
     "AnnotationDbi",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "RaggedExperiment",
     "rtracklayer"
   ],
@@ -6476,7 +6462,6 @@
     "TCGAutils",
     "AnnotationDbi",
     "GenomicFeatures",
-    "GenomicDataCommons",
     "rtracklayer"
   ],
   "tidyCoverage": [
