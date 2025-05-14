@@ -6,7 +6,6 @@
     "ADAM",
     "AnnotationDbi"
   ],
-  "ADImpute": [],
   "ADaCGH2": [
     "tilingArray",
     "genefilter",
@@ -425,7 +424,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "CHETAH": [],
   "CHRONOS": [
     "biomaRt",
     "AnnotationDbi"
@@ -551,7 +549,6 @@
   "CellBarcode": [
     "ShortRead"
   ],
-  "CellBench": [],
   "CellMixS": [
     "scater",
     "scuttle",
@@ -814,7 +811,6 @@
     "genefilter",
     "annotate"
   ],
-  "DEsubs": [],
   "DExMA": [
     "sva",
     "genefilter",
@@ -6954,7 +6950,6 @@
     "rtracklayer",
     "biomaRt"
   ],
-  "uSORT": [],
   "uncoverappLib": [
     "Gviz",
     "OrganismDbi",
