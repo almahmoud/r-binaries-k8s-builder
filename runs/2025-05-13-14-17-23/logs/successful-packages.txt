@@ -1398,3 +1398,5 @@ LinkHD
 quantiseqr
 SubCellBarCode
 treekoR
+anota2seq
+UCell

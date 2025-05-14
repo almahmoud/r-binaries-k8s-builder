@@ -1935,7 +1935,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "UCell": [],
   "UMI4Cats": [
     "regioneR",
     "BSgenome",
@@ -2089,7 +2088,6 @@
     "regioneR",
     "BSgenome"
   ],
-  "anota2seq": [],
   "appreci8R": [
     "VariantAnnotation",
     "BSgenome",
@@ -2831,7 +2829,6 @@
     "AUCell",
     "GSEABase",
     "GSVA",
-    "UCell",
     "annotate",
     "ExperimentHub",
     "AnnotationHub"
