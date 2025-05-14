@@ -1042,3 +1042,9 @@ HoloFoodR
 infercnv
 iSEE
 MoleculeExperiment
+CARDspa
+destiny
+dittoSeq
+miaSim
+SEraster
+VisiumIO

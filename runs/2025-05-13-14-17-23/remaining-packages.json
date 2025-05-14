@@ -376,7 +376,6 @@
     "QFeatures",
     "PSMatch"
   ],
-  "CARDspa": [],
   "CATALYST": [
     "FlowSOM",
     "scater",
@@ -480,7 +479,6 @@
     "BiocSingular"
   ],
   "CRISPRball": [
-    "dittoSeq",
     "PCAtools",
     "BiocSingular"
   ],
@@ -2671,7 +2669,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "SEraster": [],
   "SEtools": [
     "sechm",
     "sva",
@@ -2724,9 +2721,7 @@
     "regioneR",
     "BSgenome"
   ],
-  "SPIAT": [
-    "dittoSeq"
-  ],
+  "SPIAT": [],
   "SPLINTER": [
     "biomaRt",
     "GenomicFeatures",
@@ -3131,7 +3126,6 @@
     "AnnotationForge",
     "biomaRt"
   ],
-  "VisiumIO": [],
   "Voyager": [
     "SpatialFeatureExperiment",
     "DropletUtils",
@@ -3149,9 +3143,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "XeniumIO": [
-    "VisiumIO"
-  ],
+  "XeniumIO": [],
   "Xeva": [
     "PharmacoGx",
     "CoreGx"
@@ -4035,7 +4027,6 @@
     "rtracklayer"
   ],
   "dandelionR": [
-    "destiny",
     "miloR",
     "BiocSingular"
   ],
@@ -4133,7 +4124,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "destiny": [],
   "diffHic": [
     "InteractionSet",
     "BSgenome",
@@ -4163,7 +4153,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "dittoSeq": [],
   "divergence": [],
   "dmrseq": [
     "bsseq",
@@ -5218,7 +5207,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "miaSim": [],
   "miaViz": [
     "mia",
     "scater",
