@@ -1432,3 +1432,4 @@ SpatialExperimentIO
 SpatialFeatureExperiment
 diffcyt
 scCB2
+MsQuality
