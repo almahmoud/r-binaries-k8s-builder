@@ -1369,3 +1369,7 @@ doseR
 getDEE2
 netboost
 MultimodalExperiment
+CoCiteStats
+flowWorkspace
+gage
+maPredictDSC

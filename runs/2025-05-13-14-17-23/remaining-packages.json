@@ -513,7 +513,6 @@
   "CluMSID": [
     "MSnbase"
   ],
-  "CoCiteStats": [],
   "CoSIA": [
     "ExperimentHub",
     "biomaRt",
@@ -539,24 +538,20 @@
   "CytoMDS": [
     "CytoPipeline",
     "ggcyto",
-    "PeacoQC",
-    "flowWorkspace"
+    "PeacoQC"
   ],
   "CytoML": [
-    "flowWorkspace",
     "openCyto",
     "ggcyto"
   ],
   "CytoPipeline": [
     "ggcyto",
-    "PeacoQC",
-    "flowWorkspace"
+    "PeacoQC"
   ],
   "CytoPipelineGUI": [
     "CytoPipeline",
     "ggcyto",
-    "PeacoQC",
-    "flowWorkspace"
+    "PeacoQC"
   ],
   "DAMEfinder": [
     "VariantAnnotation",
@@ -717,7 +712,6 @@
     "rtracklayer"
   ],
   "EGSEA": [
-    "gage",
     "PADOG",
     "GSVA",
     "globaltest",
@@ -1608,9 +1602,7 @@
     "GSEABase",
     "annotate"
   ],
-  "PeacoQC": [
-    "flowWorkspace"
-  ],
+  "PeacoQC": [],
   "PhenStat": [],
   "PhyloProfile": [
     "ExperimentHub",
@@ -3265,20 +3257,15 @@
   "flowDensity": [],
   "flowFP": [],
   "flowGate": [
-    "flowWorkspace",
     "ggcyto"
   ],
   "flowMatch": [],
   "flowMerge": [],
-  "flowStats": [
-    "flowWorkspace"
-  ],
+  "flowStats": [],
   "flowTrans": [],
   "flowVS": [
-    "flowStats",
-    "flowWorkspace"
+    "flowStats"
   ],
-  "flowWorkspace": [],
   "funOmics": [],
   "funtooNorm": [
     "minfi",
@@ -3305,7 +3292,6 @@
     "rtracklayer",
     "graphite"
   ],
-  "gage": [],
   "gatom": [],
   "gcapc": [
     "BSgenome",
@@ -3359,9 +3345,7 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "ggcyto": [
-    "flowWorkspace"
-  ],
+  "ggcyto": [],
   "ggtreeExtra": [],
   "ginmappeR": [],
   "glmSparseNet": [
@@ -3626,7 +3610,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "maPredictDSC": [],
   "magpie": [
     "rtracklayer",
     "GenomicFeatures",
@@ -4009,9 +3992,7 @@
   "ontoProc": [
     "AnnotationHub"
   ],
-  "openCyto": [
-    "flowWorkspace"
-  ],
+  "openCyto": [],
   "oposSOM": [
     "biomaRt"
   ],
