@@ -1340,3 +1340,9 @@ topGO
 mimager
 Rbec
 TTMap
+BiocSet
+BUScorrect
+phenopath
+tomoda
+UniProt.ws
+vidger

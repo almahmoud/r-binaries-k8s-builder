@@ -1498,3 +1498,6 @@ consICA
 epigenomix
 moanin
 tRanslatome
+RegEnrich
+ginmappeR
+immunogenViewer

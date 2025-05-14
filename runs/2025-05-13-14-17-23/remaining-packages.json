@@ -160,7 +160,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "BUScorrect": [],
   "BUSpaRse": [
     "biomaRt",
     "BSgenome",
@@ -233,7 +232,6 @@
     "AnnotationHub",
     "ExperimentHub"
   ],
-  "BiocSet": [],
   "BloodGen3Module": [
     "ExperimentHub",
     "AnnotationHub"
@@ -1864,9 +1862,7 @@
     "biomaRt",
     "enrichplot"
   ],
-  "RegEnrich": [
-    "BiocSet"
-  ],
+  "RegEnrich": [],
   "RegionalST": [
     "scater",
     "BayesSpace",
@@ -2260,7 +2256,6 @@
     "rtracklayer",
     "plyranges"
   ],
-  "UniProt.ws": [],
   "Uniquorn": [
     "VariantAnnotation",
     "rtracklayer",
@@ -2987,7 +2982,6 @@
     "scater"
   ],
   "dagLogo": [
-    "UniProt.ws",
     "biomaRt",
     "motifStack",
     "TFBSTools",
@@ -3123,7 +3117,6 @@
     "safe"
   ],
   "drugTargetInteractions": [
-    "UniProt.ws",
     "biomaRt",
     "ensembldb",
     "GenomicFeatures",
@@ -3429,9 +3422,7 @@
     "flowWorkspace"
   ],
   "ggtreeExtra": [],
-  "ginmappeR": [
-    "UniProt.ws"
-  ],
+  "ginmappeR": [],
   "glmSparseNet": [
     "biomaRt",
     "TCGAutils",
@@ -3593,9 +3584,7 @@
     "GenomicFeatures"
   ],
   "immunoClust": [],
-  "immunogenViewer": [
-    "UniProt.ws"
-  ],
+  "immunogenViewer": [],
   "immunotation": [],
   "infinityFlow": [],
   "intansv": [
@@ -4186,7 +4175,6 @@
     "MultiDataSet",
     "ropls"
   ],
-  "phenopath": [],
   "pipeComp": [
     "scran",
     "scater"
@@ -4743,7 +4731,6 @@
   ],
   "spacexr": [],
   "sparrow": [
-    "BiocSet",
     "GSEABase",
     "annotate"
   ],
@@ -4890,7 +4877,6 @@
     "genefilter",
     "annotate"
   ],
-  "tomoda": [],
   "topdownr": [
     "MSnbase"
   ],
@@ -4968,7 +4954,6 @@
   "velociraptor": [
     "zellkonverter"
   ],
-  "vidger": [],
   "visiumStitched": [
     "AnnotationHub",
     "scater",
