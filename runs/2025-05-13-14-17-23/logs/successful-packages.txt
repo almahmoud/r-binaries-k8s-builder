@@ -924,3 +924,12 @@ LymphoSeq
 phantasusLite
 RTCGA
 ScaledMatrix
+BiocSklearn
+BioGA
+BreastSubtypeR
+ExpressionAtlas
+FeatSeekR
+FELLA
+GEOquery
+MsFeatures
+SpatialOmicsOverlay
