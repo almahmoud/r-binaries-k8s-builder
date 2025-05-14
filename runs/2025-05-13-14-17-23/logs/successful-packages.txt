@@ -1230,3 +1230,8 @@ SPIAT
 frma
 imcRtools
 survClust
+diffcyt
+DifferentialRegulation
+methylscaper
+simpleSeg
+SingleR

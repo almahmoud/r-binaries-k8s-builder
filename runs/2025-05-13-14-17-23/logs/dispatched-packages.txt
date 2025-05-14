@@ -1437,3 +1437,6 @@ MSnbase
 DifferentialRegulation
 GenProSeq
 ChIPXpress
+censcyt
+treeclimbR
+treekoR

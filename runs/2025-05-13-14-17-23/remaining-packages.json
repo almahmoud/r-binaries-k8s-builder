@@ -757,7 +757,6 @@
     "rtracklayer",
     "ShortRead"
   ],
-  "DifferentialRegulation": [],
   "Dino": [
     "BiocSingular",
     "scran"
@@ -2295,7 +2294,6 @@
     "VariantAnnotation",
     "biomaRt"
   ],
-  "SingleR": [],
   "SomaticSignatures": [
     "VariantAnnotation",
     "ggbio",
@@ -2344,8 +2342,7 @@
     "BiocSingular"
   ],
   "Statial": [
-    "treekoR",
-    "diffcyt"
+    "treekoR"
   ],
   "StructuralVariantAnnotation": [
     "rtracklayer",
@@ -2944,9 +2941,7 @@
   "cellity": [
     "topGO"
   ],
-  "censcyt": [
-    "diffcyt"
-  ],
+  "censcyt": [],
   "cfDNAPro": [
     "plyranges",
     "BSgenome",
@@ -3392,7 +3387,6 @@
     "annotate"
   ],
   "diffcoexp": [],
-  "diffcyt": [],
   "distinct": [
     "scater",
     "BiocSingular"
@@ -4034,7 +4028,6 @@
   ],
   "lisaClust": [
     "spicyR",
-    "simpleSeg",
     "ClassifyR",
     "genefilter",
     "annotate"
@@ -4215,7 +4208,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "methylscaper": [],
   "methylumi": [
     "minfi",
     "annotate",
@@ -5162,7 +5154,6 @@
     "biomaRt",
     "annotate"
   ],
-  "simpleSeg": [],
   "simplifyEnrichment": [],
   "singleCellTK": [
     "AnnotationHub",
@@ -5173,7 +5164,6 @@
     "scater",
     "scMerge",
     "scran",
-    "SingleR",
     "sva",
     "celda",
     "scds",
@@ -5252,7 +5242,6 @@
   ],
   "spicyR": [
     "ClassifyR",
-    "simpleSeg",
     "genefilter",
     "annotate"
   ],
@@ -5430,12 +5419,8 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "treeclimbR": [
-    "diffcyt"
-  ],
-  "treekoR": [
-    "diffcyt"
-  ],
+  "treeclimbR": [],
+  "treekoR": [],
   "tricycle": [
     "scater",
     "BiocSingular"
