@@ -43,6 +43,7 @@ spec:
       containers:
       - name: bioc-builder
         image: ${CONTAINER}
+        imagePullPolicy: Always
         resources:
           requests:
             cpu: "1"
