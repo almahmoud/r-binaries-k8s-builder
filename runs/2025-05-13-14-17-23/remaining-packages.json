@@ -764,7 +764,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "EDIRquery": [],
   "EGSEA": [
     "gage",
     "topGO",
@@ -1946,12 +1945,8 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "RTN": [],
-  "RTNduals": [
-    "RTN"
-  ],
+  "RTNduals": [],
   "RTNsurvival": [
-    "RTN",
     "RTNduals"
   ],
   "RUVSeq": [
@@ -4449,7 +4444,6 @@
   "peco": [
     "scater"
   ],
-  "pepStat": [],
   "periodicDNA": [
     "BSgenome",
     "rtracklayer"
