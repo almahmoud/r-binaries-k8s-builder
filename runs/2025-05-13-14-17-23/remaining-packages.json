@@ -195,7 +195,6 @@
     "GSEABase",
     "annotate"
   ],
-  "BioNAR": [],
   "BioNERO": [
     "sva",
     "genefilter",
@@ -601,7 +600,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "DelayedTensor": [],
   "DiffBind": [
     "GreyListChIP",
     "BSgenome"
@@ -754,7 +752,6 @@
   ],
   "GARS": [
     "DaMiRseq",
-    "MLSeq",
     "EDASeq",
     "sva",
     "biomaRt",
@@ -1129,7 +1126,6 @@
     "annotate",
     "genefilter"
   ],
-  "MLSeq": [],
   "MMDiff2": [
     "BSgenome"
   ],
