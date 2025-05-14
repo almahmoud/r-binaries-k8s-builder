@@ -1165,3 +1165,8 @@ dinoR
 omicsPrint
 philr
 zitools
+findIPs
+PharmacoGx
+RadioGx
+ToxicoGx
+VplotR

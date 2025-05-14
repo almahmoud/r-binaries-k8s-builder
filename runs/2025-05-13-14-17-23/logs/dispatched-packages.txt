@@ -1410,3 +1410,5 @@ rTRM
 safe
 simplifyEnrichment
 topGO
+Xeva
+gDRimport

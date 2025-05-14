@@ -1890,7 +1890,6 @@
     "flowWorkspace"
   ],
   "PhIPData": [],
-  "PharmacoGx": [],
   "PhenStat": [],
   "PhyloProfile": [
     "ExperimentHub",
@@ -2117,7 +2116,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "RadioGx": [],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -2585,7 +2583,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "ToxicoGx": [],
   "UCell": [],
   "UMI4Cats": [
     "ShortRead",
@@ -2683,7 +2680,6 @@
     "DropletUtils",
     "scuttle"
   ],
-  "VplotR": [],
   "XDE": [
     "genefilter",
     "GeneMeta",
@@ -2694,9 +2690,7 @@
     "rtracklayer"
   ],
   "XeniumIO": [],
-  "Xeva": [
-    "PharmacoGx"
-  ],
+  "Xeva": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
@@ -3809,7 +3803,6 @@
     "rtracklayer",
     "bumphunter"
   ],
-  "findIPs": [],
   "flagme": [
     "xcms",
     "CAMERA",
@@ -3880,13 +3873,10 @@
   ],
   "gDR": [
     "gDRcore",
-    "gDRimport",
-    "PharmacoGx"
+    "gDRimport"
   ],
   "gDRcore": [],
-  "gDRimport": [
-    "PharmacoGx"
-  ],
+  "gDRimport": [],
   "gINTomics": [
     "biomaRt",
     "GenomicFeatures",
