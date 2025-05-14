@@ -397,7 +397,6 @@
   "CaDrA": [],
   "CaMutQC": [
     "clusterProfiler",
-    "MesKit",
     "DOSE",
     "enrichplot"
   ],
@@ -1160,7 +1159,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "IONiseR": [],
   "IPO": [
     "xcms",
     "CAMERA",
@@ -1387,7 +1385,6 @@
   ],
   "MeSHDbi": [],
   "Melissa": [],
-  "MesKit": [],
   "MetMashR": [],
   "MetaPhOR": [
     "clusterProfiler",
@@ -1889,9 +1886,7 @@
     "rtracklayer",
     "AnnotationHub"
   ],
-  "Rbec": [
-    "dada2"
-  ],
+  "Rbec": [],
   "RbowtieCuda": [],
   "RcisTarget": [
     "AUCell",
@@ -3055,7 +3050,6 @@
     "CATALYST",
     "scater"
   ],
-  "dada2": [],
   "dagLogo": [
     "UniProt.ws",
     "biomaRt",
@@ -3947,7 +3941,6 @@
     "annotate",
     "biomaRt"
   ],
-  "miRNAmeConverter": [],
   "miRNAtap": [],
   "miRSM": [
     "BicARE",
@@ -4164,7 +4157,6 @@
     "GSEABase",
     "annotate"
   ],
-  "nucleR": [],
   "nullranges": [
     "plyranges",
     "rtracklayer"

@@ -1315,3 +1315,8 @@ amplican
 MCbiclust
 MLP
 RSVSim
+dada2
+IONiseR
+MesKit
+miRNAmeConverter
+nucleR
