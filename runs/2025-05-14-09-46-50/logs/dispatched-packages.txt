@@ -1271,3 +1271,15 @@ seq2pathway
 surfaltr
 terapadog
 webbioc
+GSEABase
+MGFM
+MGFR
+PREDA
+SemDist
+codelink
+genefilter
+geneplotter
+globaltest
+gsean
+idiogram
+tigre
