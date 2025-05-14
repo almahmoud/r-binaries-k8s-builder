@@ -1224,3 +1224,6 @@ DeepPINCS
 regsplice
 scRepertoire
 SpatialExperimentIO
+coseq
+scCB2
+SPIAT

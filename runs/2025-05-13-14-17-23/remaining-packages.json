@@ -1920,7 +1920,6 @@
     "GenomicFeatures"
   ],
   "RFLOMICS": [
-    "coseq",
     "clusterProfiler",
     "enrichplot",
     "DOSE",
@@ -2239,7 +2238,6 @@
     "regioneR",
     "BSgenome"
   ],
-  "SPIAT": [],
   "SPLINTER": [
     "biomaRt",
     "GenomicFeatures",
@@ -3147,7 +3145,6 @@
     "GenomicFeatures",
     "annotate"
   ],
-  "coseq": [],
   "cosmiq": [
     "xcms",
     "MSnbase"
@@ -4918,7 +4915,6 @@
     "genefilter",
     "annotate"
   ],
-  "scCB2": [],
   "scClassify": [
     "Cepo",
     "GSEABase",
