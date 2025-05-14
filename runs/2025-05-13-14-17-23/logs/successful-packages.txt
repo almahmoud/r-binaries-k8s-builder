@@ -803,3 +803,16 @@ mzID
 G4SNVHunter
 sangeranalyseR
 SynExtend
+convert
+DNAshapeR
+DTA
+ggtree
+martini
+MEDME
+MOFA2
+MSstatsBig
+openPrimeR
+RedisParam
+rhdf5client
+SIAMCAT
+Site2Target

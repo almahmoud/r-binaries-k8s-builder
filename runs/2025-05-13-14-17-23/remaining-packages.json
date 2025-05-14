@@ -481,7 +481,6 @@
     "orthogene",
     "SpatialExperiment",
     "SummarizedExperiment",
-    "ggtree",
     "SingleCellExperiment"
   ],
   "BumpyMatrix": [],
@@ -578,8 +577,7 @@
     "AnnotationDbi",
     "DOSE",
     "GOSemSim",
-    "AnnotationHub",
-    "ggtree"
+    "AnnotationHub"
   ],
   "CCAFE": [
     "VariantAnnotation",
@@ -605,8 +603,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "CGHnormaliter": [],
   "CHETAH": [
@@ -762,8 +759,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "Cardinal": [
     "CardinalIO",
@@ -790,8 +786,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "CellBarcode": [
     "ShortRead",
@@ -944,7 +939,6 @@
     "rtracklayer",
     "DOSE",
     "GOSemSim",
-    "ggtree",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
@@ -1276,7 +1270,6 @@
     "AnnotationDbi",
     "rtracklayer"
   ],
-  "DNAshapeR": [],
   "DOSE": [
     "AnnotationDbi",
     "GOSemSim"
@@ -1291,7 +1284,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "DTA": [],
   "DaMiRseq": [
     "SummarizedExperiment",
     "DESeq2",
@@ -1553,7 +1545,6 @@
     "SummarizedExperiment",
     "orthogene",
     "ExperimentHub",
-    "ggtree",
     "AnnotationHub",
     "AnnotationDbi"
   ],
@@ -1562,8 +1553,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "EnhancedVolcano": [],
   "EnrichDO": [
@@ -1571,8 +1561,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "EnrichedHeatmap": [],
   "EnrichmentBrowser": [
@@ -1597,7 +1586,6 @@
     "seqPattern",
     "DOSE",
     "GOSemSim",
-    "ggtree",
     "SummarizedExperiment"
   ],
   "EpiMix": [
@@ -1782,8 +1770,7 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "SummarizedExperiment",
-    "ggtree"
+    "SummarizedExperiment"
   ],
   "GENESIS": [],
   "GEOexplorer": [
@@ -1944,7 +1931,6 @@
     "enrichplot",
     "rtracklayer",
     "GenomicFeatures",
-    "ggtree",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -1997,7 +1983,6 @@
     "GOSemSim",
     "rtracklayer",
     "GenomicFeatures",
-    "ggtree",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -2416,9 +2401,7 @@
   "LimROTS": [
     "SummarizedExperiment"
   ],
-  "LinTInd": [
-    "ggtree"
-  ],
+  "LinTInd": [],
   "LinkHD": [
     "MultiAssayExperiment",
     "SummarizedExperiment"
@@ -2431,9 +2414,7 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "LymphoSeq": [
-    "ggtree"
-  ],
+  "LymphoSeq": [],
   "M3Drop": [
     "scater",
     "SingleCellExperiment",
@@ -2575,7 +2556,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "MEDME": [],
   "MEIGOR": [],
   "MGFM": [
     "AnnotationDbi",
@@ -2621,8 +2601,7 @@
     "clusterProfiler",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "MLInterfaces": [
     "annotate",
@@ -2646,7 +2625,6 @@
   "MODA": [
     "AnnotationDbi"
   ],
-  "MOFA2": [],
   "MOMA": [
     "MultiAssayExperiment",
     "SummarizedExperiment"
@@ -2713,7 +2691,6 @@
     "SummarizedExperiment",
     "AnnotationFilter"
   ],
-  "MSstatsBig": [],
   "MSstatsBioNet": [],
   "MSstatsLiP": [
     "MSstatsPTM",
@@ -2804,8 +2781,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "MetaboAnnotation": [
     "Spectra",
@@ -2877,11 +2853,9 @@
     "enrichplot",
     "AnnotationDbi",
     "DOSE",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "MicrobiotaProcess": [
-    "ggtree",
     "SummarizedExperiment",
     "ggtreeExtra"
   ],
@@ -2933,8 +2907,7 @@
     "biomaRt",
     "GenomicFeatures",
     "SummarizedExperiment",
-    "GenomicAlignments",
-    "ggtree"
+    "GenomicAlignments"
   ],
   "MoonlightR": [
     "SummarizedExperiment",
@@ -2945,8 +2918,7 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "biomaRt",
-    "ggtree"
+    "biomaRt"
   ],
   "Motif2Site": [
     "BSgenome",
@@ -3359,8 +3331,7 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "annotate",
-    "ggtree"
+    "annotate"
   ],
   "PathoStat": [
     "DESeq2",
@@ -3400,8 +3371,7 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "graphite",
-    "ggtree"
+    "graphite"
   ],
   "Pirat": [
     "SummarizedExperiment"
@@ -3591,12 +3561,10 @@
     "clusterProfiler",
     "EnhancedVolcano",
     "enrichplot",
-    "MOFA2",
     "DOSE",
     "GOSemSim",
     "DESeq2",
-    "HTSFilter",
-    "ggtree"
+    "HTSFilter"
   ],
   "RITAN": [
     "BgeeDB",
@@ -3807,10 +3775,8 @@
     "DOSE",
     "enrichplot",
     "graphite",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
-  "RedisParam": [],
   "ReducedExperiment": [
     "SummarizedExperiment",
     "clusterProfiler",
@@ -3818,8 +3784,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "RegEnrich": [
     "BiocSet",
@@ -4081,7 +4046,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SIAMCAT": [],
   "SIM": [
     "globaltest",
     "AnnotationDbi",
@@ -4169,8 +4133,7 @@
     "SummarizedExperiment",
     "SingleCellExperiment",
     "SpatialExperiment",
-    "DelayedMatrixStats",
-    "ggtree"
+    "DelayedMatrixStats"
   ],
   "SWATH2stats": [
     "biomaRt",
@@ -4265,7 +4228,6 @@
     "DelayedMatrixStats",
     "beachmat"
   ],
-  "Site2Target": [],
   "SomaticSignatures": [
     "VariantAnnotation",
     "ggbio",
@@ -4396,7 +4358,6 @@
     "SummarizedExperiment",
     "SpatialExperiment",
     "treekoR",
-    "ggtree",
     "diffcyt",
     "flowCore",
     "FlowSOM"
@@ -4485,8 +4446,7 @@
     "enrichplot",
     "DOSE",
     "AnnotationDbi",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "TEKRABber": [
     "apeglm",
@@ -4643,9 +4603,7 @@
   "Trendy": [
     "SummarizedExperiment"
   ],
-  "TurboNorm": [
-    "convert"
-  ],
+  "TurboNorm": [],
   "UCell": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -5250,7 +5208,6 @@
     "enrichplot",
     "GOSemSim",
     "graphite",
-    "ggtree",
     "GenomicFeatures",
     "GenomicDataCommons",
     "rtracklayer",
@@ -5383,8 +5340,7 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "annotate",
-    "ggtree"
+    "annotate"
   ],
   "bsseq": [
     "SummarizedExperiment",
@@ -5457,7 +5413,6 @@
     "GenomicAlignments"
   ],
   "cardelino": [
-    "ggtree",
     "VariantAnnotation",
     "SummarizedExperiment",
     "AnnotationDbi",
@@ -5749,8 +5704,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "clusterSeq": [
     "baySeq"
@@ -5783,9 +5737,7 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "cogeqc": [
-    "ggtree"
-  ],
+  "cogeqc": [],
   "comapr": [
     "SummarizedExperiment",
     "Gviz",
@@ -5888,7 +5840,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "convert": [],
   "corral": [
     "MultiAssayExperiment",
     "SingleCellExperiment",
@@ -6038,7 +5989,6 @@
   ],
   "crumblr": [
     "SingleCellExperiment",
-    "ggtree",
     "SummarizedExperiment"
   ],
   "crupR": [
@@ -6196,7 +6146,6 @@
     "pathview",
     "apeglm",
     "GOSemSim",
-    "ggtree",
     "genefilter"
   ],
   "decompTumor2Sig": [
@@ -6447,13 +6396,11 @@
     "enrichplot",
     "DOSE",
     "AnnotationDbi",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "enrichplot": [
     "DOSE",
     "GOSemSim",
-    "ggtree",
     "AnnotationDbi"
   ],
   "ensembldb": [
@@ -6547,8 +6494,7 @@
     "scuttle",
     "beachmat",
     "BiocSingular",
-    "ScaledMatrix",
-    "ggtree"
+    "ScaledMatrix"
   ],
   "epistack": [
     "SummarizedExperiment"
@@ -6635,8 +6581,7 @@
     "enrichplot",
     "DOSE",
     "GOSemSim",
-    "SummarizedExperiment",
-    "ggtree"
+    "SummarizedExperiment"
   ],
   "escape": [
     "AUCell",
@@ -6696,8 +6641,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "fastLiquidAssociation": [
     "LiquidAssociation",
@@ -6907,7 +6851,6 @@
     "ReactomePA",
     "clusterProfiler",
     "AnnotationDbi",
-    "ggtree",
     "DOSE",
     "enrichplot",
     "GOSemSim",
@@ -7021,9 +6964,7 @@
     "ncdfFlow",
     "flowWorkspace"
   ],
-  "ggmsa": [
-    "ggtree"
-  ],
+  "ggmsa": [],
   "ggsc": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -7033,16 +6974,9 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "ggtree": [],
-  "ggtreeDendro": [
-    "ggtree"
-  ],
-  "ggtreeExtra": [
-    "ggtree"
-  ],
-  "ggtreeSpace": [
-    "ggtree"
-  ],
+  "ggtreeDendro": [],
+  "ggtreeExtra": [],
+  "ggtreeSpace": [],
   "ginmappeR": [
     "UniProt.ws",
     "AnnotationDbi"
@@ -7104,8 +7038,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "goTools": [
     "AnnotationDbi"
@@ -7252,7 +7185,6 @@
     "rtracklayer",
     "txdbmaker",
     "graphite",
-    "ggtree",
     "GenomicAlignments",
     "biomaRt"
   ],
@@ -7298,7 +7230,6 @@
   ],
   "iSEEtree": [
     "iSEE",
-    "ggtree",
     "miaViz",
     "mia",
     "SingleCellExperiment",
@@ -7354,7 +7285,6 @@
     "GOSemSim",
     "txdbmaker",
     "GenomicAlignments",
-    "ggtree",
     "biomaRt"
   ],
   "idiogram": [
@@ -7492,7 +7422,6 @@
   ],
   "lefser": [
     "SummarizedExperiment",
-    "ggtree",
     "mia",
     "MultiAssayExperiment",
     "SingleCellExperiment",
@@ -7632,7 +7561,6 @@
   "marr": [
     "SummarizedExperiment"
   ],
-  "martini": [],
   "maser": [
     "rtracklayer",
     "Gviz",
@@ -7672,8 +7600,7 @@
     "enrichplot",
     "GOSemSim",
     "AnnotationHub",
-    "MeSHDbi",
-    "ggtree"
+    "MeSHDbi"
   ],
   "meshr": [
     "MeSHDbi",
@@ -7782,7 +7709,6 @@
     "minfi",
     "methylumi",
     "SummarizedExperiment",
-    "ggtree",
     "annotate",
     "genefilter",
     "GenomicFeatures",
@@ -7897,8 +7823,7 @@
     "enrichplot",
     "GOSemSim",
     "annotate",
-    "graphite",
-    "ggtree"
+    "graphite"
   ],
   "miRspongeR": [
     "SPONGE",
@@ -7909,8 +7834,7 @@
     "enrichplot",
     "GOSemSim",
     "graphite",
-    "biomaRt",
-    "ggtree"
+    "biomaRt"
   ],
   "mia": [
     "MultiAssayExperiment",
@@ -7932,7 +7856,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
-    "ggtree",
     "miaViz",
     "MultiAssayExperiment",
     "DelayedMatrixStats",
@@ -7950,7 +7873,6 @@
     "mia",
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
-    "ggtree",
     "scater",
     "SingleCellExperiment",
     "MultiAssayExperiment",
@@ -8036,8 +7958,7 @@
     "GenomicAlignments"
   ],
   "mitology": [
-    "AnnotationDbi",
-    "ggtree"
+    "AnnotationDbi"
   ],
   "mnem": [
     "Linnorm"
@@ -8084,7 +8005,6 @@
     "GOSemSim",
     "rtracklayer",
     "GenomicFeatures",
-    "ggtree",
     "txdbmaker",
     "GenomicAlignments",
     "biomaRt"
@@ -8445,7 +8365,6 @@
     "flowWorkspace",
     "flowClust"
   ],
-  "openPrimeR": [],
   "oposSOM": [
     "biomaRt",
     "AnnotationDbi"
@@ -8467,9 +8386,7 @@
     "flowMeans",
     "flowCore"
   ],
-  "orthogene": [
-    "ggtree"
-  ],
+  "orthogene": [],
   "orthos": [
     "SummarizedExperiment",
     "AnnotationHub",
@@ -8562,8 +8479,7 @@
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "pathview": [
     "AnnotationDbi"
@@ -8588,7 +8504,6 @@
     "GOSemSim",
     "rtracklayer",
     "GenomicFeatures",
-    "ggtree",
     "txdbmaker",
     "GenomicAlignments"
   ],
@@ -8631,13 +8546,10 @@
     "AnnotationDbi",
     "DESeq2",
     "apeglm",
-    "rhdf5client",
     "phantasusLite",
     "SummarizedExperiment"
   ],
-  "phantasusLite": [
-    "rhdf5client"
-  ],
+  "phantasusLite": [],
   "phenoTest": [
     "annotate",
     "Category",
@@ -8655,9 +8567,7 @@
   "phenopath": [
     "SummarizedExperiment"
   ],
-  "philr": [
-    "ggtree"
-  ],
+  "philr": [],
   "piano": [],
   "pipeComp": [
     "SingleCellExperiment",
@@ -8789,8 +8699,7 @@
     "chipseq",
     "ShortRead",
     "DOSE",
-    "GOSemSim",
-    "ggtree"
+    "GOSemSim"
   ],
   "projectR": [
     "SingleCellExperiment",
@@ -9055,7 +8964,6 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "rhdf5client": [],
   "riboSeqR": [
     "baySeq"
   ],
@@ -9081,7 +8989,6 @@
   ],
   "rifiComparative": [
     "rtracklayer",
-    "DTA",
     "SummarizedExperiment",
     "GenomicAlignments"
   ],
@@ -9184,9 +9091,7 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "scBubbletree": [
-    "ggtree"
-  ],
+  "scBubbletree": [],
   "scCB2": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -9243,7 +9148,6 @@
     "SummarizedExperiment"
   ],
   "scDotPlot": [
-    "ggtree",
     "scater",
     "SingleCellExperiment",
     "scuttle",
@@ -9374,8 +9278,7 @@
     "GOSemSim",
     "AnnotationForge",
     "enrichplot",
-    "graphite",
-    "ggtree"
+    "graphite"
   ],
   "scTreeViz": [
     "epivizr",
@@ -9559,7 +9462,6 @@
     "rtracklayer",
     "DOSE",
     "GOSemSim",
-    "ggtree",
     "GenomicAlignments"
   ],
   "selectKSigs": [
@@ -9586,7 +9488,6 @@
     "GenomicFeatures",
     "DOSE",
     "GOSemSim",
-    "ggtree",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
@@ -9677,8 +9578,7 @@
     "enrichplot",
     "GOSemSim",
     "AnnotationHub",
-    "annotate",
-    "ggtree"
+    "annotate"
   ],
   "signeR": [
     "VariantAnnotation",
@@ -9734,7 +9634,6 @@
     "DESeq2",
     "ExperimentHub",
     "ensembldb",
-    "ggtree",
     "GSVA",
     "MAST",
     "scater",
@@ -9783,9 +9682,7 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "sitePath": [
-    "ggtree"
-  ],
+  "sitePath": [],
   "sketchR": [],
   "skewr": [
     "methylumi",
@@ -10097,8 +9994,7 @@
   ],
   "systemPipeTools": [
     "DESeq2",
-    "SummarizedExperiment",
-    "ggtree"
+    "SummarizedExperiment"
   ],
   "tLOH": [
     "VariantAnnotation",
@@ -10141,9 +10037,7 @@
     "SummarizedExperiment",
     "AnnotationFilter"
   ],
-  "tanggle": [
-    "ggtree"
-  ],
+  "tanggle": [],
   "tenXplore": [
     "ontoProc",
     "SummarizedExperiment",
@@ -10299,13 +10193,11 @@
     "TreeSummarizedExperiment",
     "SummarizedExperiment",
     "diffcyt",
-    "ggtree",
     "flowCore",
     "FlowSOM",
     "SingleCellExperiment"
   ],
   "treekoR": [
-    "ggtree",
     "SingleCellExperiment",
     "diffcyt",
     "flowCore",

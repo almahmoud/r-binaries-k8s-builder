@@ -930,3 +930,17 @@ transomics2cytoscape
 GeoDiff
 SpatialDecon
 SpatialOmicsOverlay
+LinTInd
+LymphoSeq
+TurboNorm
+cogeqc
+ggmsa
+ggtreeDendro
+ggtreeExtra
+ggtreeSpace
+orthogene
+phantasusLite
+philr
+scBubbletree
+sitePath
+tanggle
