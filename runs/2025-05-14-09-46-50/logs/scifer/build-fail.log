@@ -1,0 +1,65 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''scifer'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.22 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'scifer'
+also installing the dependencies ‘httr’, ‘UCSC.utils’, ‘Rhdf5lib’, ‘filelock’, ‘generics’, ‘tidyselect’, ‘BiocGenerics’, ‘S4Vectors’, ‘IRanges’, ‘XVector’, ‘GenomeInfoDb’, ‘gtable’, ‘isoband’, ‘DBI’, ‘pwalign’, ‘viridisLite’, ‘svglite’, ‘farver’, ‘labeling’, ‘RColorBrewer’, ‘Biobase’, ‘matrixStats’, ‘cytolib’, ‘BH’, ‘RProtoBufLib’, ‘dir.expiry’, ‘RcppTOML’, ‘png’, ‘bookdown’, ‘dplyr’, ‘data.table’, ‘Biostrings’, ‘plyr’, ‘ggplot2’, ‘gridExtra’, ‘DECIPHER’, ‘sangerseqR’, ‘kableExtra’, ‘scales’, ‘flowCore’, ‘basilisk’, ‘reticulate’, ‘here’, ‘basilisk.utils’, ‘BiocBaseUtils’, ‘BiocStyle’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/httr_1.4.7.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/UCSC.utils_1.5.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/Rhdf5lib_1.31.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/filelock_1.0.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/generics_0.1.4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidyselect_1.2.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/BiocGenerics_0.55.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/S4Vectors_0.47.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/IRanges_2.43.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/XVector_0.49.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/GenomeInfoDb_1.45.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gtable_0.3.6.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/isoband_0.2.7.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DBI_1.2.3.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/pwalign_1.5.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/viridisLite_0.4.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/svglite_2.2.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/farver_2.1.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/labeling_0.4.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RColorBrewer_1.1-3.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/Biobase_2.69.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/matrixStats_1.5.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/cytolib_2.21.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/BH_1.87.0-1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/RProtoBufLib_2.21.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/dir.expiry_1.17.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RcppTOML_0.2.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/png_0.1-8.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dplyr_1.1.4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/data.table_1.17.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/Biostrings_2.77.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/plyr_1.8.9.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggplot2_3.5.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gridExtra_2.3.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/DECIPHER_3.5.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/sangerseqR_1.45.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/kableExtra_1.4.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/scales_1.4.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/flowCore_2.21.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/basilisk_1.21.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/reticulate_1.42.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/here_1.0.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/basilisk.utils_1.21.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/BiocBaseUtils_1.11.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/BiocStyle_2.37.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/scifer_1.11.0.tar.gz'
+* installing *binary* package ‘httr’ ...
+* ‘httr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘httr’ as ‘httr_1.4.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (httr)

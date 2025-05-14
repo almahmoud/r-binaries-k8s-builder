@@ -3,3 +3,4 @@ NormqPCR
 PhenStat
 snifter
 sketchR
+scifer
