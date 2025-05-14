@@ -2812,7 +2812,6 @@
     "txdbmaker"
   ],
   "profileplyr": [
-    "soGGi",
     "ChIPseeker",
     "GenomicFeatures",
     "rGREAT"
@@ -3133,7 +3132,6 @@
     "annotate"
   ],
   "smartid": [],
-  "soGGi": [],
   "spacexr": [],
   "sparrow": [
     "GSEABase",
@@ -3248,7 +3246,6 @@
     "GenomicFeatures"
   ],
   "transcriptogramer": [],
-  "transformGamPoi": [],
   "transmogR": [
     "GenomicFeatures",
     "VariantAnnotation"
