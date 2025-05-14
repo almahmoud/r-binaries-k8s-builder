@@ -1415,3 +1415,10 @@ scran
 scry
 splatter
 waddR
+AUCell
+BaalChIP
+BasicSTARRseq
+CoSIA
+imcRtools
+scCB2
+SpatialExperimentIO

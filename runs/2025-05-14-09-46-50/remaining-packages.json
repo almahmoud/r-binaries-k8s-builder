@@ -36,7 +36,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "AUCell": [],
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
@@ -112,7 +111,6 @@
     "plyranges",
     "rtracklayer"
   ],
-  "BaalChIP": [],
   "BadRegionFinder": [
     "VariantAnnotation",
     "rtracklayer",
@@ -123,7 +121,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "BasicSTARRseq": [],
   "BatchQC": [
     "sva"
   ],
@@ -350,7 +347,6 @@
     "sva"
   ],
   "CluMSID": [],
-  "CoSIA": [],
   "Cogito": [
     "GenomicFeatures",
     "rtracklayer"
@@ -1235,9 +1231,7 @@
     "dada2",
     "ShortRead"
   ],
-  "RcisTarget": [
-    "AUCell"
-  ],
+  "RcisTarget": [],
   "ReactomePA": [
     "enrichplot"
   ],
@@ -1406,7 +1400,6 @@
     "rtracklayer"
   ],
   "SpatialCPie": [],
-  "SpatialExperimentIO": [],
   "SpatialFeatureExperiment": [],
   "SpectralTAD": [
     "HiCcompare"
@@ -2178,7 +2171,6 @@
     "txdbmaker"
   ],
   "epiregulon": [
-    "AUCell",
     "motifmatchr",
     "BSgenome",
     "TFBSTools",
@@ -2235,7 +2227,6 @@
     "enrichplot"
   ],
   "escape": [
-    "AUCell",
     "GSVA"
   ],
   "evaluomeR": [],
@@ -2456,7 +2447,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "imcRtools": [],
   "immunotation": [],
   "intansv": [
     "ggbio",
@@ -3053,7 +3043,6 @@
   "scBFA": [
     "zinbwave"
   ],
-  "scCB2": [],
   "scClassify": [
     "Cepo"
   ],
@@ -3067,7 +3056,6 @@
   "scFeatures": [
     "GSVA",
     "ensembldb",
-    "AUCell",
     "SingleCellSignalR",
     "GenomicFeatures",
     "rtracklayer"
