@@ -1714,3 +1714,7 @@ synapter
 topdownr
 xcms
 RJMCMCNucleosomes
+GateFinder
+flowBin
+methInheritSim
+methylInheritance
