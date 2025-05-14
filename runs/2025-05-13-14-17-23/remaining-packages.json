@@ -13,9 +13,7 @@
     "SummarizedExperiment",
     "AnnotationDbi"
   ],
-  "ADAPT": [
-    "phyloseq"
-  ],
+  "ADAPT": [],
   "ADImpute": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -690,7 +688,6 @@
     "KEGGREST"
   ],
   "CNVMetrics": [],
-  "CNVPanelizer": [],
   "CNVRanger": [
     "RaggedExperiment",
     "SummarizedExperiment"
@@ -1060,7 +1057,6 @@
   ],
   "CircSeqAlignTk": [
     "ShortRead",
-    "Rbowtie2",
     "Rhisat2",
     "txdbmaker",
     "SGSeq",
@@ -2700,7 +2696,6 @@
     "SummarizedExperiment"
   ],
   "MBECS": [
-    "phyloseq",
     "sva",
     "genefilter",
     "AnnotationDbi",
@@ -3630,7 +3625,6 @@
     "ggtree"
   ],
   "PathoStat": [
-    "phyloseq",
     "DESeq2",
     "SummarizedExperiment"
   ],
@@ -3822,9 +3816,7 @@
     "SummarizedExperiment"
   ],
   "RCASPAR": [],
-  "RCM": [
-    "phyloseq"
-  ],
+  "RCM": [],
   "RCSL": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -4011,9 +4003,7 @@
   "ROntoTools": [
     "KEGGREST"
   ],
-  "RPA": [
-    "phyloseq"
-  ],
+  "RPA": [],
   "RRHO": [],
   "RSVSim": [
     "ShortRead",
@@ -4088,7 +4078,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "Rbowtie2": [],
   "RbowtieCuda": [],
   "RcisTarget": [
     "AUCell",
@@ -4409,10 +4398,7 @@
     "rtracklayer",
     "KEGGREST"
   ],
-  "SIAMCAT": [
-    "phyloseq"
-  ],
-  "SICtools": [],
+  "SIAMCAT": [],
   "SIM": [
     "globaltest",
     "AnnotationDbi",
@@ -4492,7 +4478,6 @@
   ],
   "SPsimSeq": [
     "SingleCellExperiment",
-    "phyloseq",
     "SummarizedExperiment",
     "AnnotationDbi",
     "KEGGREST"
@@ -4574,10 +4559,8 @@
     "KEGGREST"
   ],
   "SimBu": [
-    "phyloseq",
     "SummarizedExperiment"
   ],
-  "SimFFPE": [],
   "SingleCellAlleleExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -4781,7 +4764,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "SingleCellExperiment",
-    "phyloseq",
     "KEGGREST"
   ],
   "SynExtend": [
@@ -4885,7 +4867,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "TEQC": [],
   "TFARM": [],
   "TFBSTools": [
     "BSgenome",
@@ -5039,7 +5020,6 @@
     "regioneR",
     "BSgenome",
     "DESeq2",
-    "Rbowtie2",
     "GenomicAlignments",
     "annotate",
     "GenomicFeatures",
@@ -5632,7 +5612,6 @@
     "SummarizedExperiment"
   ],
   "benchdamic": [
-    "phyloseq",
     "TreeSummarizedExperiment",
     "zinbwave",
     "DESeq2",
@@ -6283,7 +6262,6 @@
     "AnnotationFilter"
   ],
   "combi": [
-    "phyloseq",
     "SummarizedExperiment"
   ],
   "compEpiTools": [
@@ -6660,7 +6638,6 @@
   ],
   "dar": [
     "mia",
-    "phyloseq",
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -7161,7 +7138,6 @@
   "esATAC": [
     "ShortRead",
     "pipeFrame",
-    "Rbowtie2",
     "rtracklayer",
     "ChIPseeker",
     "clusterProfiler",
@@ -8592,12 +8568,8 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "microbiome": [
-    "phyloseq"
-  ],
-  "microbiomeDASim": [
-    "phyloseq"
-  ],
+  "microbiome": [],
+  "microbiomeDASim": [],
   "microbiomeExplorer": [
     "DESeq2",
     "SummarizedExperiment"
@@ -9343,7 +9315,6 @@
   "philr": [
     "ggtree"
   ],
-  "phyloseq": [],
   "piano": [],
   "pipeComp": [
     "SingleCellExperiment",
@@ -9415,8 +9386,7 @@
   "prebs": [
     "GenomicAlignments",
     "RPA",
-    "SummarizedExperiment",
-    "phyloseq"
+    "SummarizedExperiment"
   ],
   "preciseTAD": [
     "rCGH",
@@ -9625,7 +9595,6 @@
     "KEGGREST"
   ],
   "rRDP": [],
-  "rSWeeP": [],
   "rScudo": [
     "SummarizedExperiment"
   ],
@@ -9663,9 +9632,7 @@
   "receptLoss": [
     "SummarizedExperiment"
   ],
-  "reconsi": [
-    "phyloseq"
-  ],
+  "reconsi": [],
   "recount": [
     "SummarizedExperiment",
     "derfinder",
@@ -11399,7 +11366,6 @@
     "KEGGREST"
   ],
   "zitools": [
-    "phyloseq",
     "SummarizedExperiment",
     "DESeq2"
   ]

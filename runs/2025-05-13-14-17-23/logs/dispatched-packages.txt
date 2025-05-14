@@ -907,3 +907,10 @@ odseq
 rfPred
 ssviz
 tracktables
+ADAPT
+RCM
+RPA
+SIAMCAT
+microbiome
+microbiomeDASim
+reconsi

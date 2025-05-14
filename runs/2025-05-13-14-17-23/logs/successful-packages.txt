@@ -764,3 +764,10 @@ IMMAN
 SAIGEgds
 sarks
 scanMiR
+CNVPanelizer
+phyloseq
+Rbowtie2
+rSWeeP
+SICtools
+SimFFPE
+TEQC
