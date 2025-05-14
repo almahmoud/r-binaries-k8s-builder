@@ -1381,3 +1381,6 @@ enrichViewNet
 flowMatch
 HERON
 iSEEde
+ADAM
+affylmGUI
+TDbasedUFEadv

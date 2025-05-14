@@ -1,8 +1,5 @@
 {
-  "ADAM": [],
-  "ADAMgui": [
-    "ADAM"
-  ],
+  "ADAMgui": [],
   "ADaCGH2": [
     "tilingArray",
     "genefilter",
@@ -1886,7 +1883,6 @@
     "GenomicFeatures"
   ],
   "TCseq": [],
-  "TDbasedUFEadv": [],
   "TEKRABber": [
     "biomaRt"
   ],
@@ -2080,7 +2076,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "affylmGUI": [],
   "airpart": [
     "scater"
   ],
