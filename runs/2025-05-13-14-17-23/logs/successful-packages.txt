@@ -949,3 +949,15 @@ PolySTest
 RNAsense
 Scale4C
 SDAMS
+clstutils
+flowCore
+GenomicAlignments
+IgGeneUsage
+MultiAssayExperiment
+PIUMA
+pmp
+QTLExperiment
+TOAST
+TREG
+Trendy
+VariantExperiment
