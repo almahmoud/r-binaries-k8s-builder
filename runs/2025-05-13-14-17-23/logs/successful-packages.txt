@@ -735,3 +735,15 @@ muscle
 pwalign
 RVS
 SeqArray
+affyPLM
+HDF5Array
+heatmaps
+idpr
+maskBAD
+motifcounter
+msa
+NanoStringNCTools
+ngsReports
+procoil
+rBLAST
+Rsamtools
