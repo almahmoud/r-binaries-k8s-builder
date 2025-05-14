@@ -2,7 +2,6 @@
   "ACE": [
     "QDNAseq"
   ],
-  "ADAMgui": [],
   "ADImpute": [
     "SingleCellExperiment"
   ],
@@ -665,9 +664,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "DEFormats": [],
-  "DEGreport": [],
-  "DELocal": [],
   "DEP": [
     "MSnbase",
     "PSMatch",
@@ -679,7 +675,6 @@
     "scuttle",
     "SingleCellExperiment"
   ],
-  "DEWSeq": [],
   "DEXSeq": [
     "biomaRt",
     "geneplotter",
@@ -845,7 +840,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "EBSEA": [],
   "EDASeq": [
     "ShortRead",
     "biomaRt",
@@ -1251,7 +1245,6 @@
   "HIPPO": [
     "SingleCellExperiment"
   ],
-  "HTSFilter": [],
   "HarmonizR": [
     "sva",
     "genefilter",
@@ -1820,7 +1813,6 @@
   "Nebulosa": [
     "SingleCellExperiment"
   ],
-  "NetActivity": [],
   "NetSAM": [
     "biomaRt"
   ],
@@ -1967,7 +1959,6 @@
     "GOSemSim",
     "annotate"
   ],
-  "PathoStat": [],
   "PeacoQC": [],
   "PepSetTest": [],
   "PhIPData": [],
@@ -2112,8 +2103,7 @@
     "clusterProfiler",
     "enrichplot",
     "DOSE",
-    "GOSemSim",
-    "HTSFilter"
+    "GOSemSim"
   ],
   "RJMCMCNucleosomes": [
     "consensusSeekeR",
@@ -3000,7 +2990,6 @@
     "annotate"
   ],
   "annotate": [],
-  "anota2seq": [],
   "apComplex": [],
   "appreci8R": [
     "VariantAnnotation",
@@ -3196,7 +3185,6 @@
     "GenomicAlignments"
   ],
   "broadSeq": [
-    "DELocal",
     "genefilter",
     "clusterProfiler",
     "DOSE",
@@ -3523,9 +3511,7 @@
     "MultiAssayExperiment",
     "SingleCellExperiment"
   ],
-  "coseq": [
-    "HTSFilter"
-  ],
+  "coseq": [],
   "cosmiq": [
     "xcms",
     "MSnbase",
@@ -4412,9 +4398,7 @@
   "isobar": [
     "biomaRt"
   ],
-  "isomiRs": [
-    "DEGreport"
-  ],
+  "isomiRs": [],
   "ivygapSE": [],
   "jazzPanda": [
     "SpatialExperiment",
@@ -5347,7 +5331,6 @@
   ],
   "regionReport": [
     "derfinder",
-    "DEFormats",
     "bumphunter",
     "GenomicAlignments",
     "GenomicFeatures",

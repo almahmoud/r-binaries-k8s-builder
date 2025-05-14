@@ -1,3 +1,2 @@
-crlmm
-mBPCR
-oligo
+coseq
+isomiRs

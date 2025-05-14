@@ -1041,3 +1041,13 @@ systemPipeTools
 TCC
 vidger
 zitools
+ADAMgui
+anota2seq
+DEFormats
+DEGreport
+DELocal
+DEWSeq
+EBSEA
+HTSFilter
+NetActivity
+PathoStat
