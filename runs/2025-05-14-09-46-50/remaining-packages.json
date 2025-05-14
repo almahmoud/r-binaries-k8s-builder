@@ -855,7 +855,6 @@
     "SparseArray",
     "XVector"
   ],
-  "BioMVCClass": [],
   "BioNAR": [
     "fgsea",
     "AnnotationDbi",
@@ -2181,12 +2180,10 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "CytoDx": [],
   "CytoMDS": [
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "flowAI",
     "ncdfFlow",
     "flowWorkspace",
     "ComplexHeatmap",
@@ -2204,7 +2201,6 @@
     "ggcyto",
     "ncdfFlow",
     "DelayedArray",
-    "flowViz",
     "flowClust",
     "IRanges",
     "S4Arrays",
@@ -2214,7 +2210,6 @@
   "CytoPipeline": [
     "ggcyto",
     "PeacoQC",
-    "flowAI",
     "ncdfFlow",
     "flowWorkspace",
     "ComplexHeatmap",
@@ -2229,7 +2224,6 @@
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "flowAI",
     "ncdfFlow",
     "flowWorkspace",
     "ComplexHeatmap",
@@ -3850,8 +3844,7 @@
     "Biostrings"
   ],
   "GateFinder": [
-    "flowFP",
-    "flowViz"
+    "flowFP"
   ],
   "GeneBreak": [
     "QDNAseq",
@@ -5351,7 +5344,6 @@
     "h5mread",
     "XVector"
   ],
-  "MOGAMUN": [],
   "MOMA": [
     "ComplexHeatmap",
     "MultiAssayExperiment",
@@ -5499,7 +5491,6 @@
     "SparseArray",
     "XVector"
   ],
-  "MSstatsBioNet": [],
   "MSstatsPTM": [
     "Biostrings",
     "IRanges",
@@ -8270,7 +8261,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "SIMAT": [],
   "SMITE": [
     "GenomicRanges",
     "AnnotationDbi",
@@ -9413,7 +9403,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "TRONCO": [],
   "TSCAN": [
     "SingleCellExperiment",
     "TrajectoryUtils",
@@ -9539,7 +9528,6 @@
     "XVector"
   ],
   "TurboNorm": [
-    "convert",
     "affy"
   ],
   "UCell": [
@@ -10436,7 +10424,6 @@
     "SparseArray",
     "h5mread"
   ],
-  "arrayQuality": [],
   "arrayQualityMetrics": [
     "affy",
     "affyPLM",
@@ -10820,7 +10807,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "bioassayR": [],
   "biobroom": [],
   "biocGraph": [
     "geneplotter",
@@ -11667,7 +11653,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "clippda": [],
   "clipper": [
     "qpgraph",
     "KEGGgraph",
@@ -11710,10 +11695,7 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "clst": [],
-  "clstutils": [
-    "clst"
-  ],
+  "clstutils": [],
   "clustSIGNAL": [
     "SpatialExperiment",
     "scater",
@@ -11773,7 +11755,6 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "clusterStab": [],
   "clustifyr": [
     "fgsea",
     "SingleCellExperiment",
@@ -12013,7 +11994,6 @@
     "h5mread",
     "KEGGREST"
   ],
-  "convert": [],
   "corral": [
     "MultiAssayExperiment",
     "SingleCellExperiment",
@@ -12086,7 +12066,6 @@
     "XVector",
     "Biostrings"
   ],
-  "covEB": [],
   "covRNA": [
     "genefilter",
     "AnnotationDbi",
@@ -12396,8 +12375,7 @@
   ],
   "cyanoFilter": [
     "flowDensity",
-    "flowClust",
-    "flowViz"
+    "flowClust"
   ],
   "cycle": [
     "Mfuzz"
@@ -12436,7 +12414,6 @@
     "SparseArray",
     "XVector"
   ],
-  "cytoMEM": [],
   "cytofQC": [
     "CATALYST",
     "SingleCellExperiment",
@@ -12567,10 +12544,8 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "ddCt": [],
   "ddPCRclust": [
-    "flowDensity",
-    "flowViz"
+    "flowDensity"
   ],
   "debCAM": [
     "SummarizedExperiment",
@@ -13674,24 +13649,16 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "flowAI": [],
-  "flowBeads": [],
   "flowBin": [
-    "flowFP",
-    "flowViz"
+    "flowFP"
   ],
   "flowCHIC": [],
   "flowClust": [],
   "flowCut": [
-    "flowDensity",
-    "flowViz"
+    "flowDensity"
   ],
-  "flowDensity": [
-    "flowViz"
-  ],
-  "flowFP": [
-    "flowViz"
-  ],
+  "flowDensity": [],
+  "flowFP": [],
   "flowGate": [
     "flowWorkspace",
     "ggcyto",
@@ -13710,7 +13677,6 @@
   "flowStats": [
     "flowWorkspace",
     "ncdfFlow",
-    "flowViz",
     "RBGL",
     "DelayedArray",
     "IRanges",
@@ -13720,11 +13686,9 @@
   ],
   "flowTime": [],
   "flowTrans": [
-    "flowViz",
     "flowClust"
   ],
   "flowVS": [
-    "flowViz",
     "flowStats",
     "flowWorkspace",
     "ncdfFlow",
@@ -13735,7 +13699,6 @@
     "SparseArray",
     "XVector"
   ],
-  "flowViz": [],
   "flowWorkspace": [
     "RBGL",
     "ncdfFlow",
@@ -17008,7 +16971,6 @@
     "Biostrings"
   ],
   "openCyto": [
-    "flowViz",
     "ncdfFlow",
     "flowWorkspace",
     "flowClust",
@@ -17169,7 +17131,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "paircompviz": [],
   "pairedGSEA": [
     "DESeq2",
     "DEXSeq",
@@ -20684,7 +20645,6 @@
     "S4Arrays",
     "SparseArray"
   ],
-  "tidytof": [],
   "tigre": [
     "AnnotationDbi",
     "annotate",

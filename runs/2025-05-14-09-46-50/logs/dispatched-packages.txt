@@ -683,3 +683,6 @@ mnem
 netresponse
 optimalFlow
 paircompviz
+clstutils
+flowDensity
+flowFP
