@@ -1651,7 +1651,6 @@
   "MCbiclust": [
     "AnnotationDbi"
   ],
-  "MDTS": [],
   "MEAL": [
     "MultiDataSet",
     "minfi",
@@ -4447,7 +4446,6 @@
     "ncdfFlow",
     "flowViz"
   ],
-  "flowTime": [],
   "flowTrans": [
     "flowViz",
     "flowClust"
@@ -4839,7 +4837,6 @@
   "isomiRs": [
     "AnnotationDbi"
   ],
-  "jazzPanda": [],
   "karyoploteR": [
     "regioneR",
     "rtracklayer",
@@ -5455,7 +5452,6 @@
   "omicsPrint": [
     "RaggedExperiment"
   ],
-  "oncomix": [],
   "ontoProc": [
     "AnnotationHub",
     "AnnotationDbi"
@@ -5507,7 +5503,6 @@
     "genefilter",
     "QFeatures"
   ],
-  "padma": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools",
@@ -5639,7 +5634,6 @@
   "pram": [
     "rtracklayer"
   ],
-  "prebs": [],
   "preciseTAD": [
     "rCGH",
     "GenomicFeatures",
@@ -5974,7 +5968,6 @@
     "scuttle",
     "rtracklayer"
   ],
-  "scDiagnostics": [],
   "scDotPlot": [
     "scater",
     "scuttle",
@@ -6528,7 +6521,6 @@
   "tidyCoverage": [
     "rtracklayer"
   ],
-  "tidyFlowCore": [],
   "tidySingleCellExperiment": [],
   "tidySpatialExperiment": [
     "tidySingleCellExperiment"
@@ -6751,7 +6743,6 @@
     "QFeatures",
     "PSMatch"
   ],
-  "xcore": [],
   "yamss": [],
   "yarn": [
     "biomaRt",

@@ -1089,3 +1089,12 @@ xenLite
 gDRutils
 scGPS
 speckle
+flowTime
+jazzPanda
+MDTS
+oncomix
+padma
+prebs
+scDiagnostics
+tidyFlowCore
+xcore
