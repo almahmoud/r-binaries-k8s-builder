@@ -1188,3 +1188,6 @@ runibic
 satuRn
 midasHLA
 Xeva
+QFeatures
+scHOT
+tidybulk
