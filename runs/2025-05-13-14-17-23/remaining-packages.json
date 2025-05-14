@@ -2733,7 +2733,6 @@
     "AnnotationDbi",
     "GOSemSim"
   ],
-  "SVP": [],
   "SWATH2stats": [
     "biomaRt",
     "AnnotationDbi"
@@ -5988,7 +5987,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "scDDboost": [],
   "scDataviz": [],
   "scDblFinder": [
     "BiocSingular",
@@ -6109,7 +6107,6 @@
   "sccomp": [],
   "scds": [],
   "schex": [],
-  "scider": [],
   "scifer": [],
   "scmap": [],
   "scmeth": [
