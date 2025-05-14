@@ -669,3 +669,17 @@ flowCHIC
 flowcatchR
 msPurity
 synapsis
+BioMVCClass
+GeneNetworkBuilder
+KEGGgraph
+MOGAMUN
+MSstatsBioNet
+OncoSimulR
+TRONCO
+fedup
+hyperdraw
+islify
+mnem
+netresponse
+optimalFlow
+paircompviz
