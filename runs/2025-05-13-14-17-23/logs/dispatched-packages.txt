@@ -1433,3 +1433,4 @@ SpatialFeatureExperiment
 diffcyt
 scCB2
 MsQuality
+MSnbase
