@@ -1199,3 +1199,10 @@ FlowSOM
 spoon
 gDRimport
 GenomicSuperSignature
+bettr
+crumblr
+hdxmsqc
+lemur
+microbiomeExplorer
+PathoStat
+sosta

@@ -1830,7 +1830,6 @@
     "GOSemSim",
     "annotate"
   ],
-  "PathoStat": [],
   "PeacoQC": [
     "flowWorkspace"
   ],
@@ -2798,7 +2797,6 @@
     "annotate"
   ],
   "betaHMM": [],
-  "bettr": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -3291,7 +3289,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "crumblr": [],
   "crupR": [
     "rtracklayer",
     "GenomicFeatures"
@@ -3902,7 +3899,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "hdxmsqc": [],
   "hermes": [
     "biomaRt"
   ],
@@ -4080,7 +4076,6 @@
     "scater",
     "BiocSingular"
   ],
-  "lemur": [],
   "lineagespot": [
     "VariantAnnotation",
     "rtracklayer",
@@ -4334,7 +4329,6 @@
     "scater",
     "BiocSingular"
   ],
-  "microbiomeExplorer": [],
   "miloR": [
     "BiocSingular"
   ],
@@ -5302,7 +5296,6 @@
     "chipseq",
     "ShortRead"
   ],
-  "sosta": [],
   "spacexr": [],
   "sparrow": [
     "BiocSet",
