@@ -878,3 +878,11 @@ odseq
 OLINgui
 oncoscanR
 SQLDataFrame
+alabaster.ranges
+DRIMSeq
+genomeIntervals
+idr2d
+motifTestR
+PepSetTest
+TDbasedUFE
+TileDBArray

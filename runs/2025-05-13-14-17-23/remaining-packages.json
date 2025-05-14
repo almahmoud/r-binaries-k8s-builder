@@ -182,9 +182,7 @@
     "oligo",
     "oligoClasses"
   ],
-  "BANDITS": [
-    "DRIMSeq"
-  ],
+  "BANDITS": [],
   "BASiCS": [
     "SingleCellExperiment",
     "scran",
@@ -1081,7 +1079,6 @@
     "AnnotationDbi",
     "GOSemSim"
   ],
-  "DRIMSeq": [],
   "DSS": [
     "bsseq",
     "BSgenome",
@@ -1182,8 +1179,7 @@
   ],
   "DifferentialRegulation": [
     "BANDITS",
-    "SingleCellExperiment",
-    "DRIMSeq"
+    "SingleCellExperiment"
   ],
   "Dino": [
     "BiocSingular",
@@ -2837,7 +2833,6 @@
     "flowWorkspace",
     "ncdfFlow"
   ],
-  "PepSetTest": [],
   "PhIPData": [],
   "PharmacoGx": [
     "CoreGx",
@@ -3745,9 +3740,7 @@
   "TCseq": [
     "GenomicAlignments"
   ],
-  "TDbasedUFE": [],
   "TDbasedUFEadv": [
-    "TDbasedUFE",
     "RTCGA",
     "enrichplot",
     "DOSE",
@@ -3853,7 +3846,6 @@
     "biovizBase",
     "GenomicAlignments"
   ],
-  "TileDBArray": [],
   "TissueEnrich": [
     "GSEABase",
     "annotate",
@@ -4131,7 +4123,6 @@
     "ScaledMatrix"
   ],
   "alabaster": [
-    "alabaster.ranges",
     "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
@@ -4149,18 +4140,13 @@
   ],
   "alabaster.mae": [
     "MultiAssayExperiment",
-    "alabaster.se",
-    "alabaster.ranges"
+    "alabaster.se"
   ],
-  "alabaster.ranges": [],
   "alabaster.sce": [
     "SingleCellExperiment",
-    "alabaster.se",
-    "alabaster.ranges"
+    "alabaster.se"
   ],
-  "alabaster.se": [
-    "alabaster.ranges"
-  ],
+  "alabaster.se": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
     "alabaster.sce",
@@ -4169,20 +4155,17 @@
     "alabaster.se",
     "SpatialExperiment",
     "DropletUtils",
-    "alabaster.ranges",
     "scuttle"
   ],
   "alabaster.spatial": [
     "SpatialExperiment",
     "alabaster.sce",
     "SingleCellExperiment",
-    "alabaster.se",
-    "alabaster.ranges"
+    "alabaster.se"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
     "alabaster.se",
-    "alabaster.ranges",
     "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
@@ -4330,9 +4313,7 @@
   "bayNorm": [
     "SingleCellExperiment"
   ],
-  "beachmat.tiledb": [
-    "TileDBArray"
-  ],
+  "beachmat.tiledb": [],
   "beadarray": [
     "AnnotationDbi"
   ],
@@ -5381,7 +5362,6 @@
   ],
   "easyRNASeq": [
     "biomaRt",
-    "genomeIntervals",
     "GenomicAlignments",
     "ShortRead",
     "AnnotationDbi"
@@ -5857,7 +5837,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "genomeIntervals": [],
   "genomicInstability": [],
   "geomeTriD": [
     "InteractionSet",
@@ -5921,7 +5900,6 @@
   ],
   "girafe": [
     "ShortRead",
-    "genomeIntervals",
     "GenomicAlignments"
   ],
   "glmGamPoi": [
@@ -6186,7 +6164,6 @@
     "annotate",
     "AnnotationDbi"
   ],
-  "idr2d": [],
   "igvR": [
     "GenomicAlignments",
     "rtracklayer",
@@ -6792,7 +6769,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "motifTestR": [],
   "motifbreakR": [
     "MotifDb",
     "BSgenome",
@@ -6832,7 +6808,6 @@
     "ggbio",
     "rtracklayer",
     "biomaRt",
-    "genomeIntervals",
     "ShortRead",
     "AnnotationDbi",
     "biovizBase",
@@ -8155,7 +8130,6 @@
     "M3Drop",
     "alabaster.sce",
     "genefilter",
-    "alabaster.ranges",
     "GenomicAlignments"
   ],
   "singscore": [
