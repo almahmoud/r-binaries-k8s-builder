@@ -1030,3 +1030,5 @@ MuData
 Nebulosa
 SingleCellAlleleExperiment
 SPOTlight
+immApex
+microSTASIS

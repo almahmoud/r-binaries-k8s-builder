@@ -4875,7 +4875,6 @@
     "scuttle",
     "cytomapper"
   ],
-  "immApex": [],
   "immunoClust": [],
   "immunogenViewer": [
     "UniProt.ws",
@@ -5252,7 +5251,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "microSTASIS": [],
   "microbiomeExplorer": [],
   "midasHLA": [],
   "miloR": [
