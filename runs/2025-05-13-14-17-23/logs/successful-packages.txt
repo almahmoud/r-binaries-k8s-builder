@@ -977,3 +977,13 @@ lionessR
 made4
 methyLImp2
 SingleCellExperiment
+Anaquin
+awst
+breakpointR
+cytoMEM
+DEFormats
+EBSEA
+evaluomeR
+gCrisprTools
+limpca
+PhosR

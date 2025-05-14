@@ -130,7 +130,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "Anaquin": [],
   "AneuFinder": [],
   "AnnotationDbi": [],
   "AnnotationForge": [
@@ -791,7 +790,6 @@
     "PSMatch",
     "QFeatures"
   ],
-  "DEFormats": [],
   "DEGreport": [],
   "DELocal": [],
   "DEP": [
@@ -987,7 +985,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "EBSEA": [],
   "EDASeq": [
     "ShortRead",
     "biomaRt",
@@ -2284,7 +2281,6 @@
     "CoreGx"
   ],
   "PhenStat": [],
-  "PhosR": [],
   "PhyloProfile": [
     "ExperimentHub",
     "AnnotationHub",
@@ -3456,7 +3452,6 @@
     "genefilter"
   ],
   "autonomics": [],
-  "awst": [],
   "ballgown": [
     "sva",
     "rtracklayer",
@@ -3627,7 +3622,6 @@
     "AnnotationDbi",
     "BSgenome"
   ],
-  "breakpointR": [],
   "broadSeq": [
     "DELocal",
     "genefilter",
@@ -4144,7 +4138,6 @@
   "cydar": [],
   "cypress": [],
   "cytoKernel": [],
-  "cytoMEM": [],
   "cytofQC": [
     "CATALYST",
     "FlowSOM",
@@ -4541,7 +4534,6 @@
     "MLP",
     "AnnotationDbi"
   ],
-  "evaluomeR": [],
   "extraChIPs": [
     "csaw",
     "InteractionSet",
@@ -4664,7 +4656,6 @@
     "annotate",
     "rtracklayer"
   ],
-  "gCrisprTools": [],
   "gDNAx": [
     "GenomicFiles",
     "GenomicFeatures",
@@ -5107,7 +5098,6 @@
   "lemur": [
     "glmGamPoi"
   ],
-  "limpca": [],
   "lineagespot": [
     "VariantAnnotation",
     "AnnotationDbi",
@@ -6098,7 +6088,6 @@
   ],
   "regionReport": [
     "derfinder",
-    "DEFormats",
     "AnnotationDbi",
     "bumphunter",
     "GenomicFeatures",
