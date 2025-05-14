@@ -1548,3 +1548,15 @@ gDRcore
 FEAST
 alabaster.spatial
 tradeSeq
+DESpace
+DropletUtils
+SplineDV
+batchelor
+imcRtools
+ropls
+scater
+scran
+simPIC
+splatter
+spoon
+velociraptor
