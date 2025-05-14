@@ -1287,3 +1287,6 @@ TSCAN
 EDIRquery
 pepStat
 RTN
+CrispRVariants
+GeoTcgaData
+ShortRead

@@ -1458,3 +1458,17 @@ scran
 scry
 FEAST
 RTNduals
+CellBarcode
+ChIPsim
+FastqCleaner
+IONiseR
+OTUbase
+RSVSim
+amplican
+basecallQC
+chipseq
+dada2
+girafe
+nucleR
+segmentSeq
+systemPipeR
