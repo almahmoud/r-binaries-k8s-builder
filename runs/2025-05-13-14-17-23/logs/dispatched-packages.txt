@@ -1443,3 +1443,16 @@ treekoR
 Voyager
 optimalFlow
 tidySpatialExperiment
+COTAN
+DelayedTensor
+NewWave
+PCAtools
+ReactomeGSA
+SCArray
+StabMap
+batchelor
+gDR
+miloR
+scater
+scran
+scry

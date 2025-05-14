@@ -1271,3 +1271,10 @@ CompoundDb
 metabolomicsWorkbenchR
 ssPATHS
 statTarget
+BiocSingular
+censcyt
+cytoKernel
+flowPloidy
+flowSpecs
+gDRcore
+wpm
