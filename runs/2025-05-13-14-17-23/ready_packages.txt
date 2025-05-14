@@ -1,2 +1,3 @@
-MSstatsLiP
-MSstatsShiny
+BiocSingular
+Melissa
+scPCA

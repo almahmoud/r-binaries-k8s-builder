@@ -915,3 +915,12 @@ metapone
 MSstatsPTM
 scBubbletree
 TurboNorm
+BPRMeth
+cfdnakit
+CINdex
+ggmsa
+ggtreeSpace
+LymphoSeq
+phantasusLite
+RTCGA
+ScaledMatrix

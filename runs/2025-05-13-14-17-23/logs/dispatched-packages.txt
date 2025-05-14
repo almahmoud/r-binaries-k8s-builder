@@ -1116,3 +1116,6 @@ SpectraQL
 tRNAdbImport
 MSstatsLiP
 MSstatsShiny
+BiocSingular
+Melissa
+scPCA
