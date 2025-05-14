@@ -1222,3 +1222,6 @@ microbiomeExplorer
 systemPipeTools
 vidger
 zitools
+censcyt
+flowVS
+panelcn.mops

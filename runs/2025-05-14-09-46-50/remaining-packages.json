@@ -1016,7 +1016,6 @@
     "GenomicAlignments"
   ],
   "FeatSeekR": [],
-  "FilterFFPE": [],
   "FindIT2": [
     "rtracklayer",
     "GenomicFeatures",
@@ -1914,7 +1913,6 @@
     "annotate"
   ],
   "PADOG": [],
-  "PAIRADISE": [],
   "PAST": [
     "rtracklayer",
     "GenomicAlignments"
@@ -2259,7 +2257,6 @@
   "Rcpi": [
     "GOSemSim"
   ],
-  "ReactomeGSA": [],
   "ReactomePA": [
     "DOSE",
     "enrichplot",
@@ -2514,7 +2511,6 @@
     "GenomicFeatures"
   ],
   "SimBu": [],
-  "SimFFPE": [],
   "SingleCellAlleleExperiment": [
     "SingleCellExperiment"
   ],
@@ -2620,8 +2616,7 @@
   "Statial": [
     "SingleCellExperiment",
     "SpatialExperiment",
-    "treekoR",
-    "diffcyt"
+    "treekoR"
   ],
   "StructuralVariantAnnotation": [
     "rtracklayer",
@@ -3324,9 +3319,7 @@
     "scuttle"
   ],
   "cellbaseR": [],
-  "censcyt": [
-    "diffcyt"
-  ],
+  "censcyt": [],
   "cfDNAPro": [
     "GenomicAlignments",
     "plyranges",
@@ -3477,7 +3470,6 @@
   "clustifyr": [
     "SingleCellExperiment"
   ],
-  "cn.mops": [],
   "coMethDMR": [
     "bumphunter",
     "ExperimentHub",
@@ -3825,7 +3817,6 @@
     "GenomicAlignments",
     "annotate"
   ],
-  "diffcyt": [],
   "distinct": [
     "SingleCellExperiment",
     "scater",
@@ -4096,10 +4087,7 @@
   "flowGate": [
     "ggcyto"
   ],
-  "flowStats": [],
-  "flowVS": [
-    "flowStats"
-  ],
+  "flowVS": [],
   "frma": [
     "oligo",
     "oligoClasses"
@@ -4135,7 +4123,6 @@
     "graphite",
     "GenomicAlignments"
   ],
-  "gage": [],
   "gatom": [],
   "gcapc": [
     "BSgenome",
@@ -4279,7 +4266,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "h5vc": [],
   "hdxmsqc": [
     "QFeatures",
     "MultiAssayExperiment"
@@ -4942,7 +4928,6 @@
     "HiCcompare",
     "InteractionSet"
   ],
-  "multiMiR": [],
   "multistateQTL": [
     "QTLExperiment"
   ],
@@ -5118,9 +5103,7 @@
     "genefilter",
     "annotate"
   ],
-  "panelcn.mops": [
-    "cn.mops"
-  ],
+  "panelcn.mops": [],
   "partCNV": [
     "SingleCellExperiment"
   ],
@@ -5161,10 +5144,8 @@
     "GenomicAlignments"
   ],
   "phantasus": [
-    "GEOquery",
-    "phantasusLite"
+    "GEOquery"
   ],
-  "phantasusLite": [],
   "phenoTest": [
     "annotate",
     "Category",
@@ -5495,7 +5476,6 @@
     "annotate",
     "biomaRt"
   ],
-  "sangeranalyseR": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -5848,7 +5828,6 @@
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
-  "simplifyEnrichment": [],
   "singscore": [
     "GSEABase",
     "annotate"
@@ -6206,12 +6185,10 @@
   ],
   "treeclimbR": [
     "TreeSummarizedExperiment",
-    "diffcyt",
     "SingleCellExperiment"
   ],
   "treekoR": [
-    "SingleCellExperiment",
-    "diffcyt"
+    "SingleCellExperiment"
   ],
   "tricycle": [
     "SingleCellExperiment",

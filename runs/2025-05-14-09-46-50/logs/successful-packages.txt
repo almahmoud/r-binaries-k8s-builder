@@ -1011,3 +1011,16 @@ riboSeqR
 RTNduals
 ssviz
 tracktables
+cn.mops
+diffcyt
+FilterFFPE
+flowStats
+gage
+h5vc
+multiMiR
+PAIRADISE
+phantasusLite
+ReactomeGSA
+sangeranalyseR
+SimFFPE
+simplifyEnrichment
