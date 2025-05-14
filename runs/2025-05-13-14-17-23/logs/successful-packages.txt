@@ -1267,3 +1267,7 @@ MOMA
 NormalyzerDE
 SpotSweeper
 stageR
+CompoundDb
+metabolomicsWorkbenchR
+ssPATHS
+statTarget

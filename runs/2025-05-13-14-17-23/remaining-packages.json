@@ -577,7 +577,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "CompoundDb": [],
   "CopyNumberPlots": [
     "karyoploteR",
     "regioneR",
@@ -1487,8 +1486,7 @@
     "GOSemSim"
   ],
   "MetaboAnnotation": [
-    "AnnotationHub",
-    "CompoundDb"
+    "AnnotationHub"
   ],
   "MetaboSignal": [
     "hpar",
@@ -4080,7 +4078,6 @@
     "xcms",
     "MSnbase"
   ],
-  "metabolomicsWorkbenchR": [],
   "metagene2": [
     "rtracklayer"
   ],
@@ -5234,7 +5231,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ssPATHS": [],
   "standR": [
     "RUVSeq",
     "EDASeq",
@@ -5243,7 +5239,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "statTarget": [],
   "strandCheckR": [
     "GenomicFeatures",
     "rtracklayer"
