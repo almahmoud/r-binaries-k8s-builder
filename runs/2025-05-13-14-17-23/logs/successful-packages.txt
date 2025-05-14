@@ -1086,3 +1086,6 @@ systemPipeTools
 waddR
 scDataviz
 xenLite
+gDRutils
+scGPS
+speckle

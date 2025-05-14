@@ -1331,3 +1331,4 @@ mimager
 pdInfoBuilder
 puma
 SpotSweeper
+gDRcore

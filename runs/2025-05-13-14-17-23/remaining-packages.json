@@ -4487,19 +4487,14 @@
   "gDR": [
     "gDRcore",
     "gDRimport",
-    "gDRutils",
     "CoreGx",
     "PharmacoGx"
   ],
-  "gDRcore": [
-    "gDRutils"
-  ],
+  "gDRcore": [],
   "gDRimport": [
     "CoreGx",
-    "PharmacoGx",
-    "gDRutils"
+    "PharmacoGx"
   ],
-  "gDRutils": [],
   "gINTomics": [
     "biomaRt",
     "GenomicFeatures",
@@ -5999,7 +5994,6 @@
     "annotate",
     "scuttle"
   ],
-  "scGPS": [],
   "scHOT": [],
   "scHiCcompare": [
     "HiCcompare",
@@ -6376,7 +6370,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "speckle": [],
   "spicyR": [
     "ClassifyR",
     "simpleSeg",
