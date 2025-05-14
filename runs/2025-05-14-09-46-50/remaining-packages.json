@@ -955,7 +955,6 @@
     "enrichplot"
   ],
   "MLInterfaces": [],
-  "MLP": [],
   "MMDiff2": [
     "BSgenome",
     "rtracklayer"
@@ -1577,9 +1576,7 @@
   "SplineDV": [
     "scuttle"
   ],
-  "SpotSweeper": [
-    "escheR"
-  ],
+  "SpotSweeper": [],
   "Statial": [
     "treekoR"
   ],
@@ -1603,7 +1600,6 @@
   "TBSignatureProfiler": [
     "ASSIGN",
     "GSVA",
-    "singscore",
     "sva"
   ],
   "TCGAutils": [
@@ -2254,10 +2250,7 @@
     "scater",
     "scuttle"
   ],
-  "cytomapper": [],
-  "cytoviewer": [
-    "cytomapper"
-  ],
+  "cytoviewer": [],
   "dada2": [
     "ShortRead"
   ],
@@ -2477,10 +2470,7 @@
     "AUCell",
     "GSVA"
   ],
-  "escheR": [],
-  "esetVis": [
-    "MLP"
-  ],
+  "esetVis": [],
   "evaluomeR": [],
   "extraChIPs": [
     "rtracklayer"
@@ -2578,7 +2568,6 @@
     "txdbmaker"
   ],
   "ggsc": [],
-  "ggspavis": [],
   "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils",
@@ -2709,8 +2698,7 @@
     "GenomicFeatures"
   ],
   "imcRtools": [
-    "scuttle",
-    "cytomapper"
+    "scuttle"
   ],
   "immunotation": [],
   "infercnv": [],
@@ -2766,7 +2754,6 @@
   "lisaClust": [
     "spicyR",
     "simpleSeg",
-    "cytomapper",
     "ClassifyR"
   ],
   "lumi": [
@@ -3034,7 +3021,6 @@
     "msmsEDA",
     "PSMatch"
   ],
-  "mspms": [],
   "msqrob2": [],
   "multiGSEA": [],
   "multiHiCcompare": [
@@ -3141,8 +3127,7 @@
   ],
   "partCNV": [],
   "pathMED": [
-    "GSVA",
-    "singscore"
+    "GSVA"
   ],
   "pathlinkR": [
     "clusterProfiler",
@@ -3602,10 +3587,7 @@
   "simPIC": [
     "scuttle"
   ],
-  "simpleSeg": [
-    "cytomapper"
-  ],
-  "singscore": [],
+  "simpleSeg": [],
   "sitadela": [
     "GenomicFeatures",
     "rtracklayer",
@@ -3633,8 +3615,6 @@
     "ShortRead"
   ],
   "sosta": [],
-  "spaSim": [],
-  "spacexr": [],
   "sparrow": [],
   "spatialDE": [],
   "spatialFDA": [],
@@ -3655,8 +3635,7 @@
   "speckle": [],
   "spicyR": [
     "ClassifyR",
-    "simpleSeg",
-    "cytomapper"
+    "simpleSeg"
   ],
   "spiky": [
     "BSgenome",
@@ -3876,9 +3855,7 @@
     "rtracklayer"
   ],
   "wpm": [],
-  "xCell2": [
-    "singscore"
-  ],
+  "xCell2": [],
   "xcms": [
     "MSnbase",
     "MsExperiment",

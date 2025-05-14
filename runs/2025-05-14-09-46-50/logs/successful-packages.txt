@@ -1316,3 +1316,11 @@ SEraster
 SpotClean
 tigre
 tRNA
+cytomapper
+escheR
+ggspavis
+MLP
+mspms
+singscore
+spacexr
+spaSim

@@ -1539,3 +1539,8 @@ mogsa
 multiGSEA
 sSNAPPY
 tRNAdbImport
+SpotSweeper
+cytoviewer
+esetVis
+simpleSeg
+xCell2
