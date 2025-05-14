@@ -1350,3 +1350,11 @@ beer
 multiMiR
 rTRM
 simplifyEnrichment
+adSplit
+alabaster.sce
+cogeqc
+enrichplot
+MBQN
+phantasus
+rrvgo
+SVMDO

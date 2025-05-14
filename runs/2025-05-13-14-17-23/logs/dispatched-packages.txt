@@ -1501,3 +1501,7 @@ tRanslatome
 RegEnrich
 ginmappeR
 immunogenViewer
+TDbasedUFEadv
+alabaster.spatial
+clusterProfiler
+enrichViewNet
