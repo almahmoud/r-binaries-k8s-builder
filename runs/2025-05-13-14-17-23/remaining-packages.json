@@ -1441,7 +1441,6 @@
     "MultiDataSet"
   ],
   "MultiDataSet": [],
-  "MultimodalExperiment": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",

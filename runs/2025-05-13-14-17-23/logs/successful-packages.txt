@@ -1368,3 +1368,4 @@ BioNet
 doseR
 getDEE2
 netboost
+MultimodalExperiment
