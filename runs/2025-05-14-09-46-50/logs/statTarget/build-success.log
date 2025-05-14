@@ -1,0 +1,173 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''statTarget'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.22 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'statTarget'
+also installing the dependencies ‘DEoptimR’, ‘robustbase’, ‘mvtnorm’, ‘pcaPP’, ‘bookdown’, ‘randomForest’, ‘plyr’, ‘pdist’, ‘ROC’, ‘rrcov’, ‘pls’, ‘impute’, ‘BiocStyle’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DEoptimR_1.1-3-1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/robustbase_0.99-4-1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mvtnorm_1.3-3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pcaPP_2.0-5.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/randomForest_4.7-1.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/plyr_1.8.9.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pdist_1.2.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/ROC_1.85.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rrcov_1.7-7.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pls_2.8-5.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/impute_1.83.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/BiocStyle_2.37.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/statTarget_1.39.0.tar.gz'
+* installing *binary* package ‘DEoptimR’ ...
+* ‘DEoptimR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DEoptimR’ as ‘DEoptimR_1.1-3-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DEoptimR)
+* installing *binary* package ‘mvtnorm’ ...
+* ‘mvtnorm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mvtnorm’ as ‘mvtnorm_1.3-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mvtnorm)
+* installing *binary* package ‘bookdown’ ...
+* ‘bookdown’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.43_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *binary* package ‘randomForest’ ...
+* ‘randomForest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘randomForest’ as ‘randomForest_4.7-1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (randomForest)
+* installing *binary* package ‘plyr’ ...
+* ‘plyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘plyr’ as ‘plyr_1.8.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (plyr)
+* installing *binary* package ‘pdist’ ...
+* ‘pdist’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pdist’ as ‘pdist_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pdist)
+* installing *source* package ‘ROC’ ...
+** this is package ‘ROC’ version ‘1.85.0’
+** package ‘ROC’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c ROC.cc -o ROC.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o ROC.so ROC.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-ROC/00new/ROC/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ROC’ as ‘ROC_1.85.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ROC)
+* installing *binary* package ‘pls’ ...
+* ‘pls’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pls’ as ‘pls_2.8-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pls)
+* installing *source* package ‘impute’ ...
+** this is package ‘impute’ version ‘1.83.0’
+** package ‘impute’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using Fortran compiler: ‘GNU Fortran (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gfortran  -fpic  -g -O2  -c knnimpute.f -o knnimpute.o
+knnimpute.f:99:72:
+
+   99 | 20                        pos(k1+1) = pos(k1)
+      |                                                                             1
+Warning: Fortran 2018 deleted feature: DO termination statement which is not END DO or CONTINUE with label 20 at (1)
+knnimpute.f:113:72:
+
+  113 | 35                        pos(k1+1) = pos(k1)
+      |                                                                             1
+Warning: Fortran 2018 deleted feature: DO termination statement which is not END DO or CONTINUE with label 35 at (1)
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o impute.so knnimpute.o -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-impute/00new/impute/libs
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘impute’ as ‘impute_1.83.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (impute)
+* installing *binary* package ‘robustbase’ ...
+* ‘robustbase’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘robustbase’ as ‘robustbase_0.99-4-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (robustbase)
+* installing *binary* package ‘pcaPP’ ...
+* ‘pcaPP’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pcaPP’ as ‘pcaPP_2.0-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pcaPP)
+* installing *source* package ‘BiocStyle’ ...
+** this is package ‘BiocStyle’ version ‘2.37.0’
+** package ‘BiocStyle’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.37.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+* installing *binary* package ‘rrcov’ ...
+* ‘rrcov’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rrcov’ as ‘rrcov_1.7-7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rrcov)
+* installing *source* package ‘statTarget’ ...
+** this is package ‘statTarget’ version ‘1.39.0’
+** package ‘statTarget’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘statTarget’ as ‘statTarget_1.39.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (statTarget)
+
+The downloaded source packages are in
+	‘/tmp/RtmpMi2zCR/downloaded_packages’
+
+real	0m17.507s
+user	0m13.468s
+sys	0m6.101s

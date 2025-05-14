@@ -1134,7 +1134,6 @@
     "xcms",
     "RBGL",
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
     "MsFeatures",
@@ -1423,7 +1422,6 @@
     "SparseArray"
   ],
   "CONFESS": [
-    "EBImage",
     "flowClust",
     "flowMeans",
     "flowMerge",
@@ -1493,7 +1491,6 @@
     "SummarizedExperiment"
   ],
   "CRImage": [
-    "EBImage",
     "DNAcopy"
   ],
   "CSAR": [
@@ -1586,11 +1583,7 @@
     "GenomeInfoDb",
     "fgsea"
   ],
-  "Cardinal": [
-    "CardinalIO",
-    "EBImage"
-  ],
-  "CardinalIO": [],
+  "Cardinal": [],
   "Category": [
     "AnnotationDbi",
     "RBGL",
@@ -1604,7 +1597,6 @@
     "GenomeInfoDb"
   ],
   "CatsCradle": [
-    "EBImage",
     "SingleCellExperiment",
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -1616,7 +1608,6 @@
     "SparseArray",
     "XVector"
   ],
-  "CausalR": [],
   "CeTF": [
     "ComplexHeatmap",
     "clusterProfiler",
@@ -2041,7 +2032,6 @@
     "annotate"
   ],
   "CluMSID": [
-    "mzR",
     "MSnbase",
     "PSMatch",
     "IRanges",
@@ -2297,7 +2287,6 @@
   ],
   "DAPAR": [
     "MSnbase",
-    "mzR",
     "PSMatch",
     "IRanges",
     "vsn",
@@ -2368,7 +2357,6 @@
     "vsn",
     "ComplexHeatmap",
     "IRanges",
-    "mzR",
     "PSMatch",
     "affy",
     "GenomicRanges",
@@ -2968,7 +2956,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "EBImage": [],
   "EBSEA": [
     "DESeq2",
     "IRanges",
@@ -3071,7 +3058,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "EMDomics": [],
   "ENmix": [
     "SummarizedExperiment",
     "geneplotter",
@@ -3382,9 +3368,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "FISHalyseR": [
-    "EBImage"
-  ],
+  "FISHalyseR": [],
   "FLAMES": [
     "basilisk",
     "bambu",
@@ -3454,7 +3438,6 @@
     "DESeq2",
     "txdbmaker"
   ],
-  "FamAgg": [],
   "FastqCleaner": [
     "IRanges",
     "Biostrings",
@@ -4635,7 +4618,6 @@
     "CAMERA",
     "RBGL",
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
     "MsFeatures",
@@ -5056,7 +5038,6 @@
     "xcms",
     "RBGL",
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
     "MsFeatures",
@@ -5530,7 +5511,6 @@
   ],
   "MSnID": [
     "MSnbase",
-    "mzR",
     "msmsTests",
     "Biostrings",
     "AnnotationHub",
@@ -5555,7 +5535,6 @@
     "SparseArray"
   ],
   "MSnbase": [
-    "mzR",
     "PSMatch",
     "IRanges",
     "vsn",
@@ -5584,7 +5563,6 @@
   ],
   "MSstatsQC": [
     "MSnbase",
-    "mzR",
     "PSMatch",
     "IRanges",
     "vsn",
@@ -5605,7 +5583,6 @@
   "MSstatsQCgui": [
     "MSstatsQC",
     "MSnbase",
-    "mzR",
     "PSMatch",
     "IRanges",
     "vsn",
@@ -5890,7 +5867,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "MethylMix": [],
   "MethylSeekR": [
     "rtracklayer",
     "IRanges",
@@ -6008,7 +5984,6 @@
   ],
   "MoleculeExperiment": [
     "SpatialExperiment",
-    "EBImage",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -6562,7 +6537,6 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "OmicsMLRepoR": [],
   "OncoScore": [
     "biomaRt",
     "AnnotationDbi",
@@ -6822,7 +6796,6 @@
     "vsn",
     "POMA",
     "IRanges",
-    "mzR",
     "PSMatch",
     "affy",
     "DESeq2",
@@ -7003,7 +6976,6 @@
   ],
   "PrInCE": [
     "MSnbase",
-    "mzR",
     "PSMatch",
     "IRanges",
     "vsn",
@@ -7024,7 +6996,6 @@
   "Prostar": [
     "DAPAR",
     "MSnbase",
-    "mzR",
     "PSMatch",
     "IRanges",
     "vsn",
@@ -7268,9 +7239,7 @@
   ],
   "RBGL": [],
   "RBM": [],
-  "RBioFormats": [
-    "EBImage"
-  ],
+  "RBioFormats": [],
   "RCAS": [
     "GenomicRanges",
     "IRanges",
@@ -7405,7 +7374,6 @@
   ],
   "RMassBank": [
     "MSnbase",
-    "mzR",
     "PSMatch",
     "IRanges",
     "vsn",
@@ -7448,7 +7416,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "RNAdecay": [],
   "RNAmodR": [
     "IRanges",
     "GenomicRanges",
@@ -7610,7 +7577,6 @@
     "SparseArray"
   ],
   "RTCA": [],
-  "RTCGA": [],
   "RTCGAToolbox": [
     "DelayedArray",
     "GenomicRanges",
@@ -7703,7 +7669,6 @@
   ],
   "RUVcorr": [],
   "RUVnormalize": [],
-  "RVS": [],
   "RadioGx": [
     "CoreGx",
     "SummarizedExperiment",
@@ -8385,9 +8350,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "SIMAT": [
-    "mzR"
-  ],
+  "SIMAT": [],
   "SMITE": [
     "GenomicRanges",
     "AnnotationDbi",
@@ -8934,7 +8897,6 @@
   ],
   "SpatialFeatureExperiment": [
     "DropletUtils",
-    "EBImage",
     "SingleCellExperiment",
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -9297,7 +9259,6 @@
   "TDbasedUFEadv": [
     "TDbasedUFE",
     "GenomicRanges",
-    "RTCGA",
     "enrichplot",
     "DOSE",
     "AnnotationDbi",
@@ -9510,7 +9471,6 @@
   "TPP": [
     "biobroom"
   ],
-  "TPP2D": [],
   "TREG": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -9587,9 +9547,7 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "TargetDecoy": [
-    "mzR"
-  ],
+  "TargetDecoy": [],
   "TargetScore": [],
   "TileDBArray": [
     "SparseArray",
@@ -9967,7 +9925,6 @@
     "SparseArray",
     "GenomicRanges",
     "DropletUtils",
-    "EBImage",
     "GenomeInfoDb",
     "DelayedMatrixStats",
     "HDF5Array",
@@ -10124,7 +10081,6 @@
   "adductomicsR": [
     "ExperimentHub",
     "AnnotationHub",
-    "mzR",
     "AnnotationDbi",
     "IRanges",
     "KEGGREST",
@@ -10351,7 +10307,6 @@
     "SpatialFeatureExperiment",
     "alabaster.sce",
     "alabaster.spatial",
-    "EBImage",
     "RBioFormats",
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -10714,7 +10669,6 @@
   "bandle": [
     "MSnbase",
     "pRoloc",
-    "mzR",
     "PSMatch",
     "IRanges",
     "vsn",
@@ -11090,7 +11044,6 @@
     "IRanges",
     "GenomeInfoDb",
     "sva",
-    "EBImage",
     "HiCBricks",
     "XVector",
     "S4Arrays",
@@ -11843,7 +11796,6 @@
   "cliqueMS": [
     "xcms",
     "MSnbase",
-    "mzR",
     "PSMatch",
     "IRanges",
     "vsn",
@@ -12196,7 +12148,6 @@
   "cosmiq": [
     "xcms",
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
     "MsFeatures",
@@ -12466,7 +12417,6 @@
     "SparseArray"
   ],
   "crumblr": [
-    "variancePartition",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -12497,7 +12447,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "ctsGE": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -12615,7 +12564,6 @@
     "ScaledMatrix"
   ],
   "cytomapper": [
-    "EBImage",
     "SingleCellExperiment",
     "SpatialExperiment",
     "HDF5Array",
@@ -12630,7 +12578,6 @@
     "XVector"
   ],
   "cytoviewer": [
-    "EBImage",
     "cytomapper",
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -13136,7 +13083,6 @@
     "SparseArray"
   ],
   "dreamlet": [
-    "variancePartition",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "DelayedMatrixStats",
@@ -13827,7 +13773,6 @@
     "CAMERA",
     "RBGL",
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
     "MsFeatures",
@@ -13853,9 +13798,7 @@
     "flowFP",
     "flowViz"
   ],
-  "flowCHIC": [
-    "EBImage"
-  ],
+  "flowCHIC": [],
   "flowClean": [],
   "flowClust": [],
   "flowCut": [
@@ -13929,9 +13872,7 @@
     "SparseArray",
     "XVector"
   ],
-  "flowcatchR": [
-    "EBImage"
-  ],
+  "flowcatchR": [],
   "fobitools": [
     "fgsea"
   ],
@@ -14037,7 +13978,6 @@
     "GenomicRanges",
     "InteractiveComplexHeatmap",
     "ComplexHeatmap",
-    "MethylMix",
     "IRanges",
     "KEGGREST",
     "DOSE",
@@ -14095,7 +14035,6 @@
     "IRanges",
     "GenomeInfoDb"
   ],
-  "gemini": [],
   "gemma.R": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -14163,7 +14102,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "geneplast": [],
   "geneplotter": [
     "annotate",
     "AnnotationDbi",
@@ -14506,7 +14444,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "granulator": [],
   "graphite": [
     "AnnotationDbi",
     "IRanges",
@@ -14630,7 +14567,6 @@
     "Biostrings",
     "GenomicRanges",
     "IRanges",
-    "EBImage",
     "GenomeInfoDb",
     "XVector"
   ],
@@ -14793,7 +14729,6 @@
     "SparseArray",
     "h5mread"
   ],
-  "iGC": [],
   "iNETgrate": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -15055,7 +14990,6 @@
     "SpatialExperiment",
     "SummarizedExperiment",
     "scuttle",
-    "EBImage",
     "cytomapper",
     "SingleCellExperiment",
     "HDF5Array",
@@ -15134,8 +15068,7 @@
     "GenomeInfoDb"
   ],
   "islify": [
-    "RBioFormats",
-    "EBImage"
+    "RBioFormats"
   ],
   "isobar": [
     "biomaRt",
@@ -15363,7 +15296,6 @@
     "SpatialExperiment",
     "SummarizedExperiment",
     "simpleSeg",
-    "EBImage",
     "cytomapper",
     "GenomicRanges",
     "DelayedArray",
@@ -15557,7 +15489,6 @@
   "makecdfenv": [
     "affy"
   ],
-  "mapscape": [],
   "mariner": [
     "GenomicRanges",
     "InteractionSet",
@@ -15587,7 +15518,6 @@
     "SparseArray",
     "XVector"
   ],
-  "martini": [],
   "maser": [
     "GenomicRanges",
     "rtracklayer",
@@ -15702,7 +15632,6 @@
     "xcms",
     "RBGL",
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
     "MsFeatures",
@@ -16611,9 +16540,7 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "msPurity": [
-    "mzR"
-  ],
+  "msPurity": [],
   "msa": [
     "Biostrings",
     "IRanges",
@@ -16661,7 +16588,6 @@
   ],
   "msmsEDA": [
     "MSnbase",
-    "mzR",
     "PSMatch",
     "IRanges",
     "vsn",
@@ -16682,7 +16608,6 @@
   "msmsTests": [
     "MSnbase",
     "msmsEDA",
-    "mzR",
     "PSMatch",
     "IRanges",
     "vsn",
@@ -16809,7 +16734,6 @@
     "scuttle",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "variancePartition",
     "IRanges",
     "GenomicRanges",
     "SparseArray",
@@ -16888,11 +16812,9 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "mzR": [],
   "ncGTW": [
     "xcms",
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
     "MsFeatures",
@@ -17012,7 +16934,6 @@
     "SparseArray",
     "XVector"
   ],
-  "normalize450K": [],
   "npGSEA": [
     "GSEABase",
     "annotate",
@@ -17023,7 +16944,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "nuCpos": [],
   "nucleR": [
     "Biostrings",
     "GenomeInfoDb",
@@ -17130,7 +17050,6 @@
     "PSMatch",
     "SummarizedExperiment",
     "MultiAssayExperiment",
-    "mzR",
     "IRanges",
     "vsn",
     "affy",
@@ -17145,7 +17064,6 @@
     "AnnotationFilter",
     "MetaboCoreUtils"
   ],
-  "omada": [],
   "omicRexposome": [
     "rexposome",
     "sva",
@@ -17327,7 +17245,6 @@
     "annotate",
     "genefilter",
     "SummarizedExperiment",
-    "mzR",
     "PSMatch",
     "IRanges",
     "vsn",
@@ -17349,7 +17266,6 @@
   "pRolocGUI": [
     "pRoloc",
     "MSnbase",
-    "mzR",
     "PSMatch",
     "IRanges",
     "vsn",
@@ -17549,7 +17465,6 @@
   ],
   "peakPantheR": [
     "MSnbase",
-    "mzR",
     "PSMatch",
     "IRanges",
     "vsn",
@@ -17679,7 +17594,6 @@
     "SparseArray",
     "XVector"
   ],
-  "philr": [],
   "phyloseq": [
     "Biostrings",
     "IRanges",
@@ -18075,7 +17989,6 @@
   ],
   "ptairMS": [
     "MSnbase",
-    "mzR",
     "PSMatch",
     "IRanges",
     "vsn",
@@ -18126,7 +18039,6 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "mzR",
     "PSMatch",
     "vsn",
     "affy",
@@ -18409,7 +18321,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "rebook": [],
   "receptLoss": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -19716,7 +19627,6 @@
     "GenomicFeatures",
     "DOSE",
     "GOSemSim",
-    "EBImage",
     "KEGGREST",
     "fgsea",
     "GenomicAlignments",
@@ -19985,7 +19895,6 @@
     "IRanges"
   ],
   "simpleSeg": [
-    "EBImage",
     "SummarizedExperiment",
     "cytomapper",
     "SingleCellExperiment",
@@ -20179,7 +20088,6 @@
     "SpatialExperiment",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "EBImage",
     "GenomicRanges",
     "DelayedArray",
     "IRanges",
@@ -20336,7 +20244,6 @@
     "simpleSeg",
     "MultiAssayExperiment",
     "genefilter",
-    "EBImage",
     "cytomapper",
     "GenomicRanges",
     "DelayedArray",
@@ -20442,7 +20349,6 @@
     "Spectra",
     "SummarizedExperiment",
     "QFeatures",
-    "mzR",
     "PSMatch",
     "vsn",
     "affy",
@@ -20552,7 +20458,6 @@
     "GenomicAlignments",
     "pwalign"
   ],
-  "statTarget": [],
   "stepNorm": [],
   "strandCheckR": [
     "Rsamtools",
@@ -20697,9 +20602,7 @@
     "SparseArray",
     "XVector"
   ],
-  "synapsis": [
-    "EBImage"
-  ],
+  "synapsis": [],
   "syntenet": [
     "GenomicRanges",
     "Biostrings",
@@ -20999,7 +20902,6 @@
     "Biostrings",
     "MSnbase",
     "PSMatch",
-    "mzR",
     "IRanges",
     "XVector",
     "GenomeInfoDb",
@@ -21314,7 +21216,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "variancePartition": [],
   "velociraptor": [
     "SummarizedExperiment",
     "DelayedArray",
@@ -21565,7 +21466,6 @@
   ],
   "xcms": [
     "MSnbase",
-    "mzR",
     "IRanges",
     "SummarizedExperiment",
     "MsFeatures",
@@ -21599,7 +21499,6 @@
   "xenLite": [
     "SpatialExperiment",
     "SummarizedExperiment",
-    "EBImage",
     "HDF5Array",
     "SingleCellExperiment",
     "TENxIO",
@@ -21615,8 +21514,6 @@
   "yamss": [
     "SummarizedExperiment",
     "IRanges",
-    "EBImage",
-    "mzR",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -21675,7 +21572,6 @@
     "XVector"
   ],
   "zenith": [
-    "variancePartition",
     "EnrichmentBrowser",
     "GSEABase",
     "SummarizedExperiment",

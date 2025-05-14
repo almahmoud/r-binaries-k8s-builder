@@ -660,3 +660,12 @@ rexposome
 statTarget
 tidyFlowCore
 tidytof
+Cardinal
+FISHalyseR
+RBioFormats
+SIMAT
+TargetDecoy
+flowCHIC
+flowcatchR
+msPurity
+synapsis
