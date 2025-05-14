@@ -1518,3 +1518,7 @@ terapadog
 annotate
 CeTF
 MEDIPS
+cellity
+CHRONOS
+meshes
+rifiComparative

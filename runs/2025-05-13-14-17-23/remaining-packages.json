@@ -196,7 +196,6 @@
     "PROMISE",
     "GSEABase"
   ],
-  "CHRONOS": [],
   "CNEr": [],
   "CNTools": [
     "genefilter"
@@ -1661,7 +1660,6 @@
     "GenomicFeatures"
   ],
   "celda": [],
-  "cellity": [],
   "cfDNAPro": [
     "plyranges"
   ],
@@ -2302,7 +2300,6 @@
     "GSEABase",
     "ExperimentHub"
   ],
-  "meshes": [],
   "meshr": [
     "Category",
     "GSEABase",
@@ -2725,7 +2722,6 @@
     "TFBSTools"
   ],
   "rifi": [],
-  "rifiComparative": [],
   "rnaEditr": [
     "bumphunter",
     "GenomicFeatures"
