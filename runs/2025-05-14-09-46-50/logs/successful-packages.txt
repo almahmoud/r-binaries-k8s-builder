@@ -1335,3 +1335,15 @@ scp
 sosta
 splineTimeR
 SVP
+concordexR
+gDRutils
+jazzPanda
+maaslin3
+microSTASIS
+msqrob2
+PLSDAbatch
+pogos
+RadioGx
+slalom
+smoothclust
+ToxicoGx
