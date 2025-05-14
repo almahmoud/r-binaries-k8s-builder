@@ -248,7 +248,6 @@
     "GSEABase",
     "genefilter"
   ],
-  "CellMixS": [],
   "CelliD": [],
   "Cepo": [
     "GSEABase"
@@ -1851,9 +1850,7 @@
     "motifStack",
     "TFBSTools"
   ],
-  "dandelionR": [
-    "miloR"
-  ],
+  "dandelionR": [],
   "dar": [
     "mia"
   ],
@@ -2394,7 +2391,6 @@
   "miaViz": [
     "mia"
   ],
-  "miloR": [],
   "minfi": [
     "bumphunter",
     "genefilter",
