@@ -1051,3 +1051,17 @@ EBSEA
 HTSFilter
 NetActivity
 PathoStat
+beadarray
+crlmm
+DEsubs
+ERSSA
+LymphoSeq
+maskBAD
+mBPCR
+memes
+MethTargetedNGS
+mslp
+pathview
+scrapper
+spqn
+zFPKM

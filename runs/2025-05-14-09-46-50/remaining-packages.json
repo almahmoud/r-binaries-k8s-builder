@@ -681,7 +681,6 @@
     "genefilter",
     "annotate"
   ],
-  "DEsubs": [],
   "DExMA": [
     "GEOquery",
     "sva",
@@ -885,7 +884,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "ERSSA": [],
   "EWCE": [
     "SingleCellExperiment",
     "ExperimentHub"
@@ -906,7 +904,6 @@
   "EnrichmentBrowser": [
     "GSEABase",
     "graphite",
-    "pathview",
     "annotate"
   ],
   "EpiCompare": [
@@ -1046,7 +1043,6 @@
     "clusterProfiler",
     "DOSE",
     "biomaRt",
-    "pathview",
     "GenomicDataCommons",
     "enrichplot",
     "GOSemSim"
@@ -1103,7 +1099,6 @@
     "ExperimentHub",
     "GSEABase",
     "graphite",
-    "pathview",
     "annotate"
   ],
   "GSRI": [
@@ -1429,7 +1424,6 @@
   "LoomExperiment": [
     "SingleCellExperiment"
   ],
-  "LymphoSeq": [],
   "M3Drop": [
     "scater",
     "SingleCellExperiment",
@@ -1440,7 +1434,6 @@
   ],
   "MAGAR": [
     "RnBeads",
-    "crlmm",
     "methylumi",
     "minfi",
     "annotate",
@@ -1665,7 +1658,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MethTargetedNGS": [],
   "MethylAid": [
     "minfi",
     "bumphunter",
@@ -1709,7 +1701,6 @@
   ],
   "MinimumDistance": [
     "VanillaICE",
-    "crlmm",
     "BSgenome",
     "rtracklayer",
     "GenomicAlignments"
@@ -1753,8 +1744,7 @@
   "MotifPeeker": [
     "rtracklayer",
     "GenomicAlignments",
-    "BSgenome",
-    "memes"
+    "BSgenome"
   ],
   "MouseFM": [
     "biomaRt"
@@ -2346,9 +2336,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "SBGNview": [
-    "pathview"
-  ],
+  "SBGNview": [],
   "SC3": [
     "SingleCellExperiment"
   ],
@@ -2797,7 +2785,6 @@
     "annotate"
   ],
   "VanillaICE": [
-    "crlmm",
     "BSgenome",
     "rtracklayer",
     "GenomicAlignments"
@@ -3015,7 +3002,6 @@
     "GenomicAlignments"
   ],
   "arrayQualityMetrics": [
-    "beadarray",
     "genefilter",
     "annotate"
   ],
@@ -3081,7 +3067,6 @@
   ],
   "beachmat.hdf5": [],
   "beachmat.tiledb": [],
-  "beadarray": [],
   "bedbaser": [
     "rtracklayer",
     "GenomicAlignments"
@@ -3154,9 +3139,7 @@
     "genefilter",
     "annotate"
   ],
-  "blima": [
-    "beadarray"
-  ],
+  "blima": [],
   "bnbc": [
     "sva",
     "HiCBricks",
@@ -3615,7 +3598,6 @@
     "GenomicAlignments",
     "ExperimentHub"
   ],
-  "crlmm": [],
   "crumblr": [
     "SingleCellExperiment"
   ],
@@ -3693,7 +3675,6 @@
     "clusterProfiler",
     "sva",
     "enrichplot",
-    "pathview",
     "GOSemSim",
     "genefilter"
   ],
@@ -3812,8 +3793,7 @@
     "zenith",
     "annotate",
     "EnrichmentBrowser",
-    "graphite",
-    "pathview"
+    "graphite"
   ],
   "drugTargetInteractions": [
     "UniProt.ws",
@@ -3865,9 +3845,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "epigenomix": [
-    "beadarray"
-  ],
+  "epigenomix": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -4483,7 +4461,6 @@
     "ExperimentHub",
     "GenomicAlignments"
   ],
-  "mBPCR": [],
   "mCSEA": [
     "biomaRt",
     "GenomicFeatures",
@@ -4526,7 +4503,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "maskBAD": [],
   "mastR": [
     "GSEABase",
     "SingleCellExperiment",
@@ -4536,7 +4512,6 @@
   "mbkmeans": [
     "SingleCellExperiment"
   ],
-  "memes": [],
   "meshes": [
     "DOSE",
     "enrichplot",
@@ -4854,7 +4829,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "mslp": [],
   "msmsEDA": [
     "MSnbase",
     "PSMatch",
@@ -5073,7 +5047,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "pathview": [],
   "pdInfoBuilder": [
     "oligo"
   ],
@@ -5629,7 +5602,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "scrapper": [],
   "scruff": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -5912,7 +5884,6 @@
     "scuttle",
     "SingleCellExperiment"
   ],
-  "spqn": [],
   "squallms": [
     "xcms",
     "MSnbase",
@@ -6275,7 +6246,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "zFPKM": [],
   "zellkonverter": [
     "SingleCellExperiment"
   ],
@@ -6283,7 +6253,6 @@
     "EnrichmentBrowser",
     "GSEABase",
     "graphite",
-    "pathview",
     "annotate"
   ],
   "zinbwave": [
