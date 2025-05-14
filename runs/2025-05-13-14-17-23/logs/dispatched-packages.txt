@@ -944,3 +944,12 @@ philr
 scBubbletree
 sitePath
 tanggle
+DEGraph
+SIMAT
+TargetDecoy
+alabaster.bumpy
+beachmat.hdf5
+memes
+motifTestR
+msPurity
+scrapper
