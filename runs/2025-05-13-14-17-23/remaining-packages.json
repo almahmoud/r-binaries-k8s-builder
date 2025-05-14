@@ -1271,7 +1271,6 @@
     "annotate"
   ],
   "MBQN": [],
-  "MCbiclust": [],
   "MEAL": [
     "MultiDataSet",
     "minfi",
@@ -1335,7 +1334,6 @@
     "annotate",
     "genefilter"
   ],
-  "MLP": [],
   "MLSeq": [],
   "MMDiff2": [
     "BSgenome",
@@ -1868,7 +1866,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils",
     "GenomicFeatures",
@@ -2469,7 +2466,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "amplican": [],
   "annaffy": [],
   "annmap": [
     "genefilter",
@@ -3361,9 +3357,7 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "esetVis": [
-    "MLP"
-  ],
+  "esetVis": [],
   "extraChIPs": [
     "rtracklayer"
   ],

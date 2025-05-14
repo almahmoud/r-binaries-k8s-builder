@@ -1311,3 +1311,7 @@ CellBarcode
 FastqCleaner
 OTUbase
 Rcpi
+amplican
+MCbiclust
+MLP
+RSVSim
