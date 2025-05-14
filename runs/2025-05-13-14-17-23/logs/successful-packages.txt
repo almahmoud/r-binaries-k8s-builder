@@ -860,3 +860,9 @@ rRDP
 scoup
 SIMAT
 sscu
+beachmat.hdf5
+DMRcaller
+EnrichedHeatmap
+loci2path
+ramr
+TargetDecoy

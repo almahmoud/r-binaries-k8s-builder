@@ -1049,7 +1049,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "DMRcaller": [],
   "DMRcate": [
     "AnnotationHub",
     "ExperimentHub",
@@ -1328,7 +1327,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "EnrichedHeatmap": [],
   "EnrichmentBrowser": [
     "AnnotationDbi",
     "GSEABase",
@@ -3861,7 +3859,6 @@
     "biovizBase",
     "GenomicAlignments"
   ],
-  "TargetDecoy": [],
   "TileDBArray": [],
   "TissueEnrich": [
     "GSEABase",
@@ -4340,7 +4337,6 @@
     "SingleCellExperiment"
   ],
   "baySeq": [],
-  "beachmat.hdf5": [],
   "beachmat.tiledb": [
     "TileDBArray"
   ],
@@ -6353,7 +6349,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "loci2path": [],
   "logicFS": [],
   "lumi": [
     "methylumi",
@@ -7372,7 +7367,6 @@
     "ChIPseeker",
     "GenomicFeatures",
     "rGREAT",
-    "EnrichedHeatmap",
     "rtracklayer",
     "AnnotationDbi",
     "enrichplot",
@@ -7505,7 +7499,6 @@
     "rtracklayer",
     "AnnotationDbi"
   ],
-  "ramr": [],
   "ramwas": [
     "GenomicAlignments",
     "biomaRt",
