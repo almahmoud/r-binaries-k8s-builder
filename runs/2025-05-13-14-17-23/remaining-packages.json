@@ -338,9 +338,7 @@
   "CytoMDS": [
     "CytoPipeline"
   ],
-  "CytoML": [
-    "openCyto"
-  ],
+  "CytoML": [],
   "CytoPipeline": [],
   "CytoPipelineGUI": [
     "CytoPipeline"
@@ -947,7 +945,6 @@
     "txdbmaker"
   ],
   "OmaDB": [],
-  "OncoScore": [],
   "Organism.dplyr": [
     "GenomicFeatures"
   ],
@@ -2172,9 +2169,7 @@
     "txdbmaker",
     "graphite"
   ],
-  "iSEEfier": [
-    "iSEEu"
-  ],
+  "iSEEfier": [],
   "iSEEhub": [
     "ExperimentHub"
   ],
@@ -2183,7 +2178,6 @@
     "miaViz",
     "mia"
   ],
-  "iSEEu": [],
   "icetea": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -2519,7 +2513,6 @@
     "genefilter"
   ],
   "ontoProc": [],
-  "openCyto": [],
   "oposSOM": [],
   "oppar": [
     "GSEABase",
@@ -2564,7 +2557,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "pdInfoBuilder": [],
   "peakPantheR": [],
   "peco": [],
   "periodicDNA": [],

@@ -1528,3 +1528,7 @@ HiContacts
 SCArray.sat
 CellMixS
 miloR
+iSEEu
+OncoScore
+openCyto
+pdInfoBuilder
