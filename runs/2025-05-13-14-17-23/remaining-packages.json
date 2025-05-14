@@ -5702,7 +5702,6 @@
     "DOSE",
     "GOSemSim"
   ],
-  "projectR": [],
   "protGear": [
     "genefilter",
     "AnnotationDbi",
@@ -5990,7 +5989,6 @@
     "scuttle",
     "rtracklayer"
   ],
-  "scDesign3": [],
   "scDiagnostics": [],
   "scDotPlot": [
     "scater",
@@ -6584,7 +6582,6 @@
     "PSMatch",
     "QFeatures"
   ],
-  "tpSVG": [],
   "trackViewer": [
     "GenomicFeatures",
     "Gviz",

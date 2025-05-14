@@ -1071,3 +1071,6 @@ concordexR
 poem
 smoothclust
 smoppix
+projectR
+scDesign3
+tpSVG
