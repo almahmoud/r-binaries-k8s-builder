@@ -1,6 +1,4 @@
 {
-  "ACE": [],
-  "ADImpute": [],
   "ADaCGH2": [
     "tilingArray",
     "genefilter"
@@ -56,7 +54,6 @@
   "AUCell": [
     "GSEABase"
   ],
-  "AffiXcan": [],
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
@@ -150,7 +147,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "BUSseq": [],
   "BaalChIP": [
     "GenomicAlignments"
   ],
@@ -189,7 +185,6 @@
   ],
   "BiSeq": [
     "rtracklayer",
-    "globaltest",
     "GenomicAlignments"
   ],
   "BicARE": [
@@ -304,7 +299,6 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "CHETAH": [],
   "CNTools": [
     "genefilter"
   ],
@@ -330,8 +324,7 @@
   ],
   "COTAN": [],
   "CRISPRball": [
-    "dittoSeq",
-    "PCAtools"
+    "dittoSeq"
   ],
   "CRISPRseek": [
     "GenomicFeatures",
@@ -395,7 +388,6 @@
   "ChAMP": [
     "minfi",
     "DMRcate",
-    "globaltest",
     "sva",
     "wateRmelon",
     "goseq",
@@ -524,15 +516,11 @@
   ],
   "CuratedAtlasQueryR": [],
   "CytoMDS": [
-    "CytoPipeline",
-    "PeacoQC"
+    "CytoPipeline"
   ],
-  "CytoPipeline": [
-    "PeacoQC"
-  ],
+  "CytoPipeline": [],
   "CytoPipelineGUI": [
-    "CytoPipeline",
-    "PeacoQC"
+    "CytoPipeline"
   ],
   "DAMEfinder": [
     "GenomicAlignments",
@@ -557,7 +545,6 @@
     "scuttle"
   ],
   "DEXSeq": [
-    "geneplotter",
     "genefilter"
   ],
   "DExMA": [
@@ -727,7 +714,6 @@
     "GenomicAlignments"
   ],
   "ENmix": [
-    "geneplotter",
     "minfi",
     "ExperimentHub",
     "genefilter",
@@ -988,7 +974,6 @@
   "GenomicSuperSignature": [],
   "GloScope": [],
   "GlobalAncova": [
-    "globaltest",
     "GSEABase"
   ],
   "GmicR": [
@@ -1132,7 +1117,6 @@
     "txdbmaker",
     "GenomicAlignments",
     "DEXSeq",
-    "geneplotter",
     "genefilter",
     "rtracklayer",
     "VariantAnnotation",
@@ -1145,7 +1129,6 @@
     "BSgenome",
     "rtracklayer",
     "tximeta",
-    "geneplotter",
     "genefilter",
     "GenomicAlignments",
     "GenomicFeatures",
@@ -1194,7 +1177,6 @@
     "sva",
     "genefilter"
   ],
-  "MBQN": [],
   "MCbiclust": [],
   "MDTS": [
     "GenomicAlignments"
@@ -1355,7 +1337,6 @@
   "MethylSeekR": [
     "rtracklayer",
     "BSgenome",
-    "geneplotter",
     "GenomicAlignments"
   ],
   "MicrobiomeProfiler": [
@@ -1521,7 +1502,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "PCAtools": [],
   "PDATK": [
     "CoreGx"
   ],
@@ -1561,7 +1541,6 @@
     "GSEABase",
     "enrichplot"
   ],
-  "PeacoQC": [],
   "PhenStat": [],
   "PhosR": [],
   "PhyloProfile": [
@@ -1922,9 +1901,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SIM": [
-    "globaltest"
-  ],
+  "SIM": [],
   "SMITE": [
     "goseq",
     "rtracklayer",
@@ -1995,7 +1972,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "SingleR": [],
   "SomaticSignatures": [
     "VariantAnnotation",
     "ggbio",
@@ -2471,9 +2447,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "biocGraph": [
-    "geneplotter"
-  ],
+  "biocGraph": [],
   "biomvRCNS": [
     "Gviz",
     "rtracklayer",
@@ -2498,7 +2472,6 @@
   ],
   "blacksheepr": [
     "DEXSeq",
-    "geneplotter",
     "genefilter"
   ],
   "bnbc": [
@@ -2607,7 +2580,6 @@
     "scran",
     "scuttle"
   ],
-  "censcyt": [],
   "cfDNAPro": [
     "GenomicAlignments",
     "plyranges",
@@ -2743,7 +2715,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "codelink": [],
   "comapr": [
     "Gviz",
     "rtracklayer",
@@ -3018,7 +2989,6 @@
     "DEXSeq",
     "rtracklayer",
     "ensembldb",
-    "geneplotter",
     "genefilter",
     "GenomicFeatures",
     "GenomicAlignments"
@@ -3274,13 +3244,11 @@
     "GenomicAlignments"
   ],
   "genefilter": [],
-  "geneplotter": [],
   "genomation": [
     "BSgenome",
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "genomicInstability": [],
   "geomeTriD": [
     "InteractionSet",
     "trackViewer",
@@ -3319,7 +3287,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "globaltest": [],
   "gmapR": [
     "rtracklayer",
     "GenomicFeatures",
@@ -3347,7 +3314,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "gscreend": [],
   "gsean": [],
   "gwascat": [
     "GenomicFeatures",
@@ -4024,7 +3990,6 @@
   "pairedGSEA": [
     "DEXSeq",
     "sva",
-    "geneplotter",
     "genefilter"
   ],
   "partCNV": [],
@@ -4268,9 +4233,7 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "regionalpcs": [
-    "PCAtools"
-  ],
+  "regionalpcs": [],
   "regutools": [
     "Gviz",
     "rtracklayer",
@@ -4343,7 +4306,6 @@
     "GenomicAlignments",
     "Gviz",
     "txdbmaker",
-    "geneplotter",
     "genefilter",
     "rtracklayer",
     "ensembldb",
@@ -4746,7 +4708,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "structToolbox": [],
   "supersigs": [],
   "survClust": [],
   "sva": [
@@ -4989,7 +4950,6 @@
     "SpatialExperiment",
     "TENxIO"
   ],
-  "yamss": [],
   "yarn": [
     "quantro",
     "minfi",

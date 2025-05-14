@@ -1402,3 +1402,7 @@ vsclust
 waddR
 xcore
 zellkonverter
+CytoPipeline
+SIM
+biocGraph
+regionalpcs
