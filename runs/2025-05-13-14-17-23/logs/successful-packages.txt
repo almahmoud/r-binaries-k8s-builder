@@ -1407,3 +1407,7 @@ PAIRADISE
 BioNAR
 DelayedTensor
 MLSeq
+flowClean
+HybridExpress
+PADOG
+scry

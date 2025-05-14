@@ -124,9 +124,7 @@
     "genefilter",
     "annotate"
   ],
-  "BLMA": [
-    "PADOG"
-  ],
+  "BLMA": [],
   "BOBaFIT": [
     "ggbio",
     "plyranges",
@@ -165,9 +163,7 @@
     "genefilter",
     "annotate"
   ],
-  "BatchSVG": [
-    "scry"
-  ],
+  "BatchSVG": [],
   "BayesSpace": [
     "scater",
     "scran"
@@ -632,7 +628,6 @@
     "GenomicFeatures"
   ],
   "EGSEA": [
-    "PADOG",
     "GSVA",
     "globaltest",
     "annotate",
@@ -968,7 +963,6 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "HybridExpress": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS"
@@ -1355,7 +1349,6 @@
     "genefilter",
     "annotate"
   ],
-  "PADOG": [],
   "PAST": [],
   "PCAtools": [],
   "PDATK": [
@@ -2860,7 +2853,6 @@
   "flowBin": [
     "flowFP"
   ],
-  "flowClean": [],
   "flowCut": [
     "flowDensity"
   ],
@@ -3934,7 +3926,6 @@
     "ensembldb",
     "biomaRt"
   ],
-  "scry": [],
   "scviR": [
     "scater"
   ],
