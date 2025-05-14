@@ -1,8 +1,1 @@
-ADAMgui
-ExperimentHub
-GenomicScores
-cTRAP
-customCMPdb
-ipdDb
-ontoProc
-rGenomeTracks
+omicplotR

@@ -24,7 +24,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "ALDEx2": [],
   "AMARETTO": [
     "MultiAssayExperiment",
     "ExperimentHub"
@@ -177,7 +176,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "BUScorrect": [],
   "BUSpaRse": [
     "biomaRt",
     "BSgenome",
@@ -252,7 +250,6 @@
     "GSEABase",
     "annotate"
   ],
-  "BioGA": [],
   "BioNERO": [
     "sva",
     "genefilter",
@@ -266,11 +263,9 @@
   "BiocHubsShiny": [
     "ExperimentHub"
   ],
-  "BiocSklearn": [],
   "BloodGen3Module": [
     "ExperimentHub"
   ],
-  "BreastSubtypeR": [],
   "BubbleTree": [
     "biovizBase",
     "GenomicAlignments",
@@ -284,7 +279,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "CAEN": [],
   "CAFE": [
     "biovizBase",
     "ggbio",
@@ -412,7 +406,6 @@
   "COTAN": [
     "SingleCellExperiment"
   ],
-  "CPSM": [],
   "CRISPRball": [
     "dittoSeq",
     "PCAtools",
@@ -441,7 +434,6 @@
     "SingleCellExperiment",
     "ExperimentHub"
   ],
-  "CaDrA": [],
   "CaMutQC": [
     "clusterProfiler",
     "MesKit",
@@ -623,7 +615,6 @@
   "ClusterFoldSimilarity": [
     "SingleCellExperiment"
   ],
-  "CoCiteStats": [],
   "CoGAPS": [
     "SingleCellExperiment"
   ],
@@ -856,7 +847,6 @@
     "scran",
     "scuttle"
   ],
-  "DiscoRhythm": [],
   "DominoEffect": [
     "biomaRt",
     "VariantAnnotation",
@@ -1458,7 +1448,6 @@
   "IsoBayes": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
-    "satuRn",
     "sva",
     "BSgenome",
     "rtracklayer",
@@ -1693,7 +1682,6 @@
   "Macarron": [],
   "MatrixQCvis": [
     "ExperimentHub",
-    "proDA",
     "sva",
     "genefilter",
     "annotate"
@@ -3071,7 +3059,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "alabaster.files": [],
   "alabaster.mae": [
     "MultiAssayExperiment",
     "alabaster.se"
@@ -3221,8 +3208,6 @@
   "beer": [
     "PhIPData"
   ],
-  "betaHMM": [],
-  "bettr": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -3274,7 +3259,6 @@
     "MultiDataSet",
     "ropls"
   ],
-  "biotmle": [],
   "biovizBase": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -4375,13 +4359,11 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "goProfiles": [],
   "goSTAG": [
     "biomaRt"
   ],
   "goSorensen": [
     "clusterProfiler",
-    "goProfiles",
     "DOSE",
     "enrichplot",
     "GOSemSim"
@@ -4698,7 +4680,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "maPredictDSC": [],
   "maaslin3": [
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
@@ -4718,7 +4699,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "marr": [],
   "maser": [
     "rtracklayer",
     "Gviz",
@@ -5099,7 +5079,6 @@
     "InteractionSet"
   ],
   "multiMiR": [],
-  "multiWGCNA": [],
   "multistateQTL": [
     "QTLExperiment"
   ],
@@ -5221,15 +5200,11 @@
   "omicade4": [
     "made4"
   ],
-  "omicplotR": [
-    "ALDEx2"
-  ],
+  "omicplotR": [],
   "omicsPrint": [
     "MultiAssayExperiment",
     "RaggedExperiment"
   ],
-  "omicsViewer": [],
-  "oncomix": [],
   "ontoProc": [],
   "openCyto": [],
   "oposSOM": [
@@ -5425,7 +5400,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "proDA": [],
   "profileplyr": [
     "soGGi",
     "ChIPseeker",
@@ -5688,7 +5662,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "satuRn": [],
   "scAnnotatR": [
     "SingleCellExperiment"
   ],
@@ -6503,7 +6476,6 @@
   "webbioc": [
     "annaffy"
   ],
-  "weitrix": [],
   "wiggleplotr": [
     "rtracklayer",
     "GenomicAlignments"
