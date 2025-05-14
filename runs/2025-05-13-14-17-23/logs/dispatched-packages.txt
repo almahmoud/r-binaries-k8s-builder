@@ -1506,3 +1506,4 @@ alabaster.spatial
 clusterProfiler
 enrichViewNet
 fastLiquidAssociation
+gatom

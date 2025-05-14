@@ -224,7 +224,6 @@
     "genefilter",
     "annotate"
   ],
-  "BioNet": [],
   "BioTIP": [
     "scran"
   ],
@@ -1980,7 +1979,6 @@
     "annotate"
   ],
   "SMITE": [
-    "BioNet",
     "goseq",
     "rtracklayer",
     "GenomicFeatures",
@@ -3059,7 +3057,6 @@
     "genefilter",
     "annotate"
   ],
-  "doseR": [],
   "doubletrouble": [
     "syntenet",
     "GenomicFeatures",
@@ -3310,9 +3307,7 @@
     "graphite"
   ],
   "gage": [],
-  "gatom": [
-    "BioNet"
-  ],
+  "gatom": [],
   "gcapc": [
     "BSgenome",
     "rtracklayer"
@@ -3354,7 +3349,6 @@
     "GSEABase",
     "annotate"
   ],
-  "getDEE2": [],
   "ggbio": [
     "biovizBase",
     "BSgenome",
@@ -3981,7 +3975,6 @@
     "genefilter",
     "annotate"
   ],
-  "netboost": [],
   "normr": [
     "rtracklayer"
   ],

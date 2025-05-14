@@ -1364,3 +1364,7 @@ LRBaseDbi
 MAI
 Melissa
 sitePath
+BioNet
+doseR
+getDEE2
+netboost
