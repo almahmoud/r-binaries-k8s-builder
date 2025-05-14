@@ -2,3 +2,4 @@ immunotation
 NormqPCR
 PhenStat
 snifter
+sketchR
