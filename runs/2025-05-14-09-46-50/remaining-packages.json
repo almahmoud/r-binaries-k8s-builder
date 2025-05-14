@@ -780,7 +780,6 @@
   ],
   "ELMER": [
     "GenomicFeatures",
-    "TCGAbiolinks",
     "Gviz",
     "MultiAssayExperiment",
     "rtracklayer",
@@ -1460,8 +1459,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MeSHDbi": [],
-  "MetNet": [],
   "MetaNeighbor": [
     "SingleCellExperiment"
   ],
@@ -1549,7 +1546,6 @@
   ],
   "MoonlightR": [
     "clusterProfiler",
-    "TCGAbiolinks",
     "GEOquery",
     "enrichplot"
   ],
@@ -1740,7 +1736,6 @@
   ],
   "PeacoQC": [],
   "PepSetTest": [],
-  "PhIPData": [],
   "PhenStat": [],
   "PhosR": [],
   "PhyloProfile": [
@@ -2177,7 +2172,6 @@
   ],
   "Scale4C": [],
   "SemDist": [],
-  "SeqGate": [],
   "SeqSQC": [
     "ExperimentHub"
   ],
@@ -2311,7 +2305,6 @@
   "SubCellBarCode": [],
   "SurfR": [
     "SPsimSeq",
-    "TCGAbiolinks",
     "SingleCellExperiment"
   ],
   "TADCompare": [
@@ -2334,7 +2327,6 @@
     "SpatialExperiment",
     "genefilter"
   ],
-  "TCGAbiolinks": [],
   "TCGAutils": [
     "GenomicFeatures",
     "GenomicDataCommons",
@@ -2353,7 +2345,6 @@
     "GenomicAlignments"
   ],
   "TENET": [
-    "TCGAbiolinks",
     "MultiAssayExperiment",
     "sesame",
     "ExperimentHub",
@@ -2726,7 +2717,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "barbieQ": [],
   "barcodetrackR": [],
   "basecallQC": [
     "ShortRead",
@@ -2744,9 +2734,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "beer": [
-    "PhIPData"
-  ],
+  "beer": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -3906,7 +3894,6 @@
     "genefilter"
   ],
   "ipdDb": [],
-  "isobar": [],
   "isomiRs": [],
   "ivygapSE": [],
   "jazzPanda": [
@@ -4038,11 +4025,9 @@
     "SingleCellExperiment"
   ],
   "meshes": [
-    "enrichplot",
-    "MeSHDbi"
+    "enrichplot"
   ],
   "meshr": [
-    "MeSHDbi",
     "Category",
     "GSEABase",
     "genefilter"
@@ -4087,7 +4072,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "methyLImp2": [],
   "methylCC": [
     "minfi",
     "bsseq",
@@ -4167,7 +4151,6 @@
     "SingleCellExperiment"
   ],
   "miRLAB": [
-    "TCGAbiolinks",
     "Category",
     "GOstats",
     "GSEABase",
@@ -5203,7 +5186,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "snapcount": [],
   "snifter": [],
   "soGGi": [
     "GenomicAlignments",
@@ -5340,7 +5322,6 @@
   "survClust": [
     "MultiAssayExperiment"
   ],
-  "survtype": [],
   "sva": [
     "genefilter"
   ],
