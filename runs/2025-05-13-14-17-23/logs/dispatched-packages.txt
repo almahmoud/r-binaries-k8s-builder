@@ -1114,3 +1114,5 @@ MsBackendRawFileReader
 MsBackendSql
 SpectraQL
 tRNAdbImport
+MSstatsLiP
+MSstatsShiny

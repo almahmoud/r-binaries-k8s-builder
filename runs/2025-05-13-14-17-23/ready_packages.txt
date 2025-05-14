@@ -1,11 +1,2 @@
-Cardinal
-CompoundDb
-MetCirc
-MsBackendMassbank
-MsBackendMetaboLights
-MsBackendMgf
-MsBackendMsp
-MsBackendRawFileReader
-MsBackendSql
-SpectraQL
-tRNAdbImport
+MSstatsLiP
+MSstatsShiny

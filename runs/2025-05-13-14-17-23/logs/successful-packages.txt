@@ -906,3 +906,12 @@ ncRNAtools
 scrapper
 Spectra
 tRNA
+BUMHMM
+CIMICE
+epialleleR
+GeoDiff
+GrafGen
+metapone
+MSstatsPTM
+scBubbletree
+TurboNorm

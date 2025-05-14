@@ -244,7 +244,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "BUMHMM": [],
   "BUScorrect": [],
   "BUSpaRse": [
     "AnnotationDbi",
@@ -511,7 +510,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "CIMICE": [],
   "CINdex": [],
   "CNEr": [
     "rtracklayer",
@@ -1707,7 +1705,6 @@
     "AnnotationDbi"
   ],
   "GenomicSuperSignature": [],
-  "GeoDiff": [],
   "GeoTcgaData": [],
   "Glimma": [
     "DESeq2"
@@ -1730,7 +1727,6 @@
     "annotate",
     "AnnotationForge"
   ],
-  "GrafGen": [],
   "GreyListChIP": [
     "GenomicAlignments",
     "BSgenome",
@@ -2209,10 +2205,7 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "MSstatsLiP": [
-    "MSstatsPTM"
-  ],
-  "MSstatsPTM": [],
+  "MSstatsLiP": [],
   "MSstatsQC": [
     "MSnbase",
     "PSMatch",
@@ -2226,9 +2219,7 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "MSstatsShiny": [
-    "MSstatsPTM"
-  ],
+  "MSstatsShiny": [],
   "MWASTools": [],
   "Macarron": [
     "AnnotationDbi"
@@ -3737,7 +3728,6 @@
     "SingleCellExperiment"
   ],
   "Trendy": [],
-  "TurboNorm": [],
   "UCell": [
     "SingleCellExperiment"
   ],
@@ -5239,7 +5229,6 @@
     "mnem",
     "Linnorm"
   ],
-  "epialleleR": [],
   "epidecodeR": [
     "rtracklayer",
     "GenomicAlignments"
@@ -6260,7 +6249,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "metapone": [],
   "metaseqR2": [
     "DESeq2",
     "biomaRt",
@@ -7440,7 +7428,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "scBubbletree": [],
   "scCB2": [
     "SingleCellExperiment",
     "DropletUtils",
