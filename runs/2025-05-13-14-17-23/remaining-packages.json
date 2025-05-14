@@ -2650,7 +2650,6 @@
     "rtracklayer"
   ],
   "XeniumIO": [],
-  "Xeva": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
@@ -4394,7 +4393,6 @@
     "BiocSingular"
   ],
   "microbiomeExplorer": [],
-  "midasHLA": [],
   "miloR": [
     "BiocSingular"
   ],
