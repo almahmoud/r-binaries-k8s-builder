@@ -1067,3 +1067,7 @@ scDDboost
 scider
 SVP
 escheR
+concordexR
+poem
+smoothclust
+smoppix

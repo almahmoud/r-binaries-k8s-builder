@@ -3788,7 +3788,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "concordexR": [],
   "condiments": [
     "slingshot",
     "distinct",
@@ -5646,7 +5645,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "poem": [],
   "pogos": [
     "ontoProc",
     "AnnotationHub",
@@ -6351,8 +6349,6 @@
   ],
   "slingshot": [],
   "smartid": [],
-  "smoothclust": [],
-  "smoppix": [],
   "soGGi": [
     "rtracklayer",
     "chipseq",
