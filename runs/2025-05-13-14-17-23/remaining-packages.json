@@ -103,7 +103,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "ArrayExpress": [],
   "BASiCS": [
     "scran"
   ],
@@ -611,7 +610,6 @@
   ],
   "DrugVsDisease": [
     "biomaRt",
-    "ArrayExpress",
     "annotate"
   ],
   "DuplexDiscovereR": [
@@ -1375,7 +1373,6 @@
     "genefilter",
     "annotate"
   ],
-  "POWSC": [],
   "PPInfer": [
     "biomaRt"
   ],
@@ -1702,10 +1699,7 @@
     "annotate"
   ],
   "SCANVIS": [],
-  "SCArray": [],
-  "SCArray.sat": [
-    "SCArray"
-  ],
+  "SCArray.sat": [],
   "SCOPE": [
     "BSgenome"
   ],
@@ -3067,7 +3061,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "immunoClust": [],
   "immunogenViewer": [],
   "immunotation": [],
   "infinityFlow": [],

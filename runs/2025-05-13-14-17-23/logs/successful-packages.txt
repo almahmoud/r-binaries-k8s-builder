@@ -1411,3 +1411,7 @@ flowClean
 HybridExpress
 PADOG
 scry
+ArrayExpress
+immunoClust
+POWSC
+SCArray
