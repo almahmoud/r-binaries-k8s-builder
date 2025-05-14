@@ -354,7 +354,6 @@
     "genefilter",
     "annotate"
   ],
-  "CNVRanger": [],
   "CNVfilteR": [
     "regioneR",
     "karyoploteR",
@@ -1320,7 +1319,6 @@
   ],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
-    "satuRn",
     "sva",
     "BSgenome",
     "rtracklayer",
@@ -1507,7 +1505,6 @@
     "PSMatch",
     "QFeatures"
   ],
-  "MSstatsLiP": [],
   "MSstatsQC": [
     "MSnbase",
     "PSMatch",
@@ -4780,7 +4777,6 @@
   "plyranges": [
     "rtracklayer"
   ],
-  "plyxp": [],
   "podkat": [
     "BSgenome",
     "rtracklayer"
@@ -4908,7 +4904,6 @@
   "rGenomeTracks": [
     "AnnotationHub"
   ],
-  "rScudo": [],
   "rTRM": [],
   "rTRMui": [
     "rTRM",
@@ -5031,7 +5026,6 @@
     "GOSemSim"
   ],
   "rtracklayer": [],
-  "runibic": [],
   "sSNAPPY": [
     "graphite"
   ],
@@ -5058,7 +5052,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "satuRn": [],
   "scAnnotatR": [
     "AnnotationHub"
   ],

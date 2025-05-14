@@ -1180,3 +1180,9 @@ omicplotR
 SC3
 scuttle
 spatialDE
+CNVRanger
+MSstatsLiP
+plyxp
+rScudo
+runibic
+satuRn
