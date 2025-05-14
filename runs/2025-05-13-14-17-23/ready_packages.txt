@@ -1,3 +1,0 @@
-RegEnrich
-ginmappeR
-immunogenViewer

@@ -1346,3 +1346,7 @@ phenopath
 tomoda
 UniProt.ws
 vidger
+beer
+multiMiR
+rTRM
+simplifyEnrichment

@@ -2487,7 +2487,6 @@
   "bedbaser": [
     "rtracklayer"
   ],
-  "beer": [],
   "benchdamic": [
     "zinbwave",
     "genefilter",
@@ -3980,7 +3979,6 @@
     "AnnotationHub"
   ],
   "multiHiCcompare": [],
-  "multiMiR": [],
   "multiWGCNA": [],
   "multicrispr": [
     "BSgenome",
@@ -4311,9 +4309,7 @@
   "rGenomeTracks": [
     "AnnotationHub"
   ],
-  "rTRM": [],
   "rTRMui": [
-    "rTRM",
     "MotifDb",
     "rtracklayer"
   ],
@@ -4676,7 +4672,6 @@
     "biomaRt",
     "annotate"
   ],
-  "simplifyEnrichment": [],
   "singleCellTK": [
     "AnnotationHub",
     "batchelor",
