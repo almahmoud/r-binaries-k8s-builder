@@ -833,3 +833,9 @@ Rfastp
 RRHO
 seqPattern
 universalmotif
+bamsignals
+BCRANK
+CNVMetrics
+HilbertCurve
+spkTools
+SummarizedExperiment
