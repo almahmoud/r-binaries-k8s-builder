@@ -1247,3 +1247,11 @@ missRows
 MsBackendSql
 proDA
 VDJdive
+EGAD
+flowMeans
+iSEEpathways
+MultiRNAflow
+qmtools
+receptLoss
+SpatialFeatureExperiment
+tidySingleCellExperiment

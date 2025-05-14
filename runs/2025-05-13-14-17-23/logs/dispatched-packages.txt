@@ -1440,3 +1440,6 @@ ChIPXpress
 censcyt
 treeclimbR
 treekoR
+Voyager
+optimalFlow
+tidySpatialExperiment

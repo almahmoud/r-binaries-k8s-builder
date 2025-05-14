@@ -387,7 +387,6 @@
     "rtracklayer"
   ],
   "CONFESS": [
-    "flowMeans",
     "flowMerge"
   ],
   "COTAN": [
@@ -790,7 +789,6 @@
     "rtracklayer"
   ],
   "EDIRquery": [],
-  "EGAD": [],
   "EGSEA": [
     "gage",
     "topGO",
@@ -1606,7 +1604,6 @@
     "MultiDataSet"
   ],
   "MultiDataSet": [],
-  "MultiRNAflow": [],
   "MultimodalExperiment": [],
   "MungeSumstats": [
     "BSgenome",
@@ -2313,7 +2310,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "SpatialFeatureExperiment": [],
   "SpectraQL": [],
   "SpectralTAD": [
     "HiCcompare"
@@ -2546,9 +2542,7 @@
     "AnnotationForge",
     "biomaRt"
   ],
-  "Voyager": [
-    "SpatialFeatureExperiment"
-  ],
+  "Voyager": [],
   "XDE": [
     "genefilter",
     "GeneMeta",
@@ -2630,7 +2624,6 @@
   "alabaster.mae": [],
   "alabaster.sce": [],
   "alabaster.sfe": [
-    "SpatialFeatureExperiment",
     "alabaster.sce",
     "alabaster.spatial"
   ],
@@ -3652,7 +3645,6 @@
     "ggcyto"
   ],
   "flowMatch": [],
-  "flowMeans": [],
   "flowMerge": [],
   "flowPloidy": [],
   "flowSpecs": [],
@@ -3897,7 +3889,6 @@
     "AnnotationHub"
   ],
   "iSEEindex": [],
-  "iSEEpathways": [],
   "iSEEtree": [
     "miaViz",
     "mia",
@@ -4495,9 +4486,7 @@
     "annotate",
     "BiocSingular"
   ],
-  "optimalFlow": [
-    "flowMeans"
-  ],
+  "optimalFlow": [],
   "orthos": [
     "AnnotationHub",
     "ExperimentHub"
@@ -4689,7 +4678,6 @@
   "qPLEXanalyzer": [
     "MSnbase"
   ],
-  "qmtools": [],
   "qpgraph": [
     "annotate",
     "GenomicFeatures",
@@ -4750,7 +4738,6 @@
   "ramwas": [
     "biomaRt"
   ],
-  "receptLoss": [],
   "recount": [
     "derfinder",
     "rtracklayer",
@@ -5347,14 +5334,10 @@
   "tidyCoverage": [
     "rtracklayer"
   ],
-  "tidySingleCellExperiment": [],
-  "tidySpatialExperiment": [
-    "tidySingleCellExperiment"
-  ],
+  "tidySpatialExperiment": [],
   "tidySummarizedExperiment": [],
   "tidyomics": [
     "tidySummarizedExperiment",
-    "tidySingleCellExperiment",
     "plyranges",
     "nullranges",
     "rtracklayer"
