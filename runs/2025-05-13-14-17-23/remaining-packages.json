@@ -411,7 +411,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "CellBarcode": [],
   "CellMixS": [
     "scater"
   ],
@@ -872,7 +871,6 @@
     "rtracklayer",
     "txdbmaker"
   ],
-  "FastqCleaner": [],
   "FindIT2": [
     "rtracklayer",
     "GenomicFeatures"
@@ -1585,7 +1583,6 @@
     "rtracklayer",
     "txdbmaker"
   ],
-  "OTUbase": [],
   "OUTRIDER": [
     "GenomicFeatures",
     "txdbmaker",
@@ -1904,7 +1901,6 @@
     "GSEABase",
     "annotate"
   ],
-  "Rcpi": [],
   "ReactomeGSA": [],
   "ReactomePA": [
     "DOSE",
@@ -2743,7 +2739,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "ccmap": [],
   "celaref": [],
   "celda": [
     "scater",

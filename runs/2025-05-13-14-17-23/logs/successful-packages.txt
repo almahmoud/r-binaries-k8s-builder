@@ -1306,3 +1306,8 @@ csdR
 HiCExperiment
 slingshot
 TIN
+ccmap
+CellBarcode
+FastqCleaner
+OTUbase
+Rcpi
