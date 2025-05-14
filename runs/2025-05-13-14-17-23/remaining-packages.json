@@ -122,7 +122,6 @@
     "biomaRt"
   ],
   "ArrayExpress": [],
-  "BANDITS": [],
   "BASiCS": [
     "scran",
     "BiocSingular"
@@ -734,7 +733,6 @@
     "scater",
     "rtracklayer"
   ],
-  "DeepPINCS": [],
   "DeepTarget": [
     "ExperimentHub",
     "AnnotationHub"
@@ -761,9 +759,7 @@
     "rtracklayer",
     "ShortRead"
   ],
-  "DifferentialRegulation": [
-    "BANDITS"
-  ],
+  "DifferentialRegulation": [],
   "Dino": [
     "BiocSingular",
     "scran"
@@ -1077,9 +1073,7 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "GenProSeq": [
-    "DeepPINCS"
-  ],
+  "GenProSeq": [],
   "GenVisR": [
     "biomaRt",
     "GenomicFeatures",
@@ -2331,7 +2325,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "SpatialExperimentIO": [],
   "SpatialFeatureExperiment": [],
   "SpectraQL": [],
   "SpectralTAD": [
@@ -2510,7 +2503,6 @@
   ],
   "VAExprs": [
     "scater",
-    "DeepPINCS",
     "BiocSingular"
   ],
   "VCFArray": [
@@ -4834,7 +4826,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "regsplice": [],
   "regutools": [
     "AnnotationHub",
     "Gviz",
@@ -4981,7 +4972,6 @@
     "rtracklayer",
     "slingshot"
   ],
-  "scRepertoire": [],
   "scTGIF": [
     "GSEABase",
     "annotate"

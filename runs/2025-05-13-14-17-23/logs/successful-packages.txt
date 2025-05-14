@@ -1219,3 +1219,8 @@ msqrob2
 scp
 splatter
 XeniumIO
+BANDITS
+DeepPINCS
+regsplice
+scRepertoire
+SpatialExperimentIO
