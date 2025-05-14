@@ -1046,7 +1046,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "RFLOMICS": [],
   "RITAN": [
     "BgeeDB",
     "GenomicFeatures",
@@ -1428,7 +1427,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "airpart": [],
   "alabaster": [
     "alabaster.vcf",
     "VariantAnnotation",
@@ -2453,7 +2451,6 @@
     "genefilter"
   ],
   "ontoProc": [],
-  "oposSOM": [],
   "oppar": [
     "GSEABase",
     "GSVA"

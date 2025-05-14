@@ -1552,3 +1552,6 @@ TEKRABber
 hermes
 ReducedExperiment
 ViSEAGO
+airpart
+oposSOM
+RFLOMICS
