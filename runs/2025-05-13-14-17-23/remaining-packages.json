@@ -287,7 +287,6 @@
     "BSgenome"
   ],
   "CONFESS": [],
-  "COTAN": [],
   "CRISPRball": [
     "PCAtools"
   ],
@@ -3517,7 +3516,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "scmap": [],
   "scmeth": [
     "bsseq",
     "AnnotationHub",
