@@ -245,7 +245,6 @@
     "GSEABase",
     "genefilter"
   ],
-  "CelliD": [],
   "Cepo": [
     "GSEABase"
   ],
@@ -414,7 +413,6 @@
   "DiffBind": [
     "GreyListChIP"
   ],
-  "Dino": [],
   "DominoEffect": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -789,7 +787,6 @@
     "GenomicFeatures"
   ],
   "MOSim": [],
-  "MPAC": [],
   "MSPrep": [
     "sva",
     "genefilter"
@@ -898,7 +895,6 @@
   "NanoMethViz": [
     "bsseq"
   ],
-  "NetSAM": [],
   "NoRCE": [
     "GenomicFeatures"
   ],
@@ -1301,7 +1297,6 @@
   "TCGAutils": [
     "GenomicFeatures"
   ],
-  "TEKRABber": [],
   "TENET": [
     "TCGAbiolinks",
     "sesame",
@@ -1652,7 +1647,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "chromPlot": [],
   "chromVAR": [
     "TFBSTools"
   ],

@@ -1,4 +1,0 @@
-MIRit
-ReactomePA
-multiGSEA
-sSNAPPY

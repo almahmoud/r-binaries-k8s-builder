@@ -1543,3 +1543,9 @@ VegaMC
 SeqGSEA
 ChromSCape
 graphite
+CelliD
+chromPlot
+Dino
+MPAC
+NetSAM
+TEKRABber
