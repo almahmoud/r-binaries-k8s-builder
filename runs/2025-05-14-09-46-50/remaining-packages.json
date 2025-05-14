@@ -77,7 +77,6 @@
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
-    "oligoClasses",
     "ReportingTools",
     "Glimma",
     "Category",
@@ -527,8 +526,7 @@
   "ChIPXpress": [
     "GEOquery",
     "frma",
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "ChIPanalyser": [
     "BSgenome",
@@ -915,7 +913,6 @@
     "GSEABase",
     "graphite",
     "pathview",
-    "safe",
     "annotate"
   ],
   "EpiCompare": [
@@ -1023,7 +1020,6 @@
     "GenomicAlignments"
   ],
   "FuseSOM": [],
-  "G4SNVHunter": [],
   "GA4GHclient": [
     "VariantAnnotation",
     "rtracklayer",
@@ -1041,7 +1037,6 @@
   ],
   "GARS": [
     "DaMiRseq",
-    "MLSeq",
     "EDASeq",
     "sva",
     "ShortRead",
@@ -1115,7 +1110,6 @@
     "GSEABase",
     "graphite",
     "pathview",
-    "safe",
     "annotate"
   ],
   "GSRI": [
@@ -1326,7 +1320,6 @@
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "HybridExpress": [],
   "IFAA": [],
   "ILoReg": [
     "SingleCellExperiment"
@@ -1358,8 +1351,7 @@
     "MultiAssayExperiment"
   ],
   "ITALICS": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "IVAS": [
     "GenomicFeatures",
@@ -1456,7 +1448,6 @@
   "MAGAR": [
     "RnBeads",
     "crlmm",
-    "oligoClasses",
     "methylumi",
     "minfi",
     "annotate",
@@ -1570,7 +1561,6 @@
     "genefilter"
   ],
   "MLP": [],
-  "MLSeq": [],
   "MMDiff2": [
     "BSgenome",
     "rtracklayer",
@@ -1726,7 +1716,6 @@
   ],
   "MinimumDistance": [
     "VanillaICE",
-    "oligoClasses",
     "crlmm",
     "BSgenome",
     "rtracklayer",
@@ -1801,7 +1790,6 @@
     "MultiDataSet"
   ],
   "MultiDataSet": [],
-  "MultiRNAflow": [],
   "MultimodalExperiment": [
     "MultiAssayExperiment"
   ],
@@ -2219,7 +2207,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RTNsurvival": [],
   "RUCova": [
     "SingleCellExperiment"
   ],
@@ -2379,7 +2366,6 @@
     "oligo",
     "GEOquery",
     "sva",
-    "oligoClasses",
     "genefilter",
     "annotate"
   ],
@@ -2653,7 +2639,6 @@
     "annotate",
     "genefilter"
   ],
-  "TCC": [],
   "TCGAbiolinks": [
     "biomaRt"
   ],
@@ -2822,7 +2807,6 @@
     "annotate"
   ],
   "VanillaICE": [
-    "oligoClasses",
     "crlmm",
     "BSgenome",
     "rtracklayer",
@@ -2928,7 +2912,6 @@
   ],
   "affycoretools": [
     "GOstats",
-    "oligoClasses",
     "ReportingTools",
     "Glimma",
     "Category",
@@ -3646,9 +3629,7 @@
     "GenomicAlignments",
     "ExperimentHub"
   ],
-  "crlmm": [
-    "oligoClasses"
-  ],
+  "crlmm": [],
   "crumblr": [
     "SingleCellExperiment"
   ],
@@ -3762,7 +3743,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "deltaCaptureC": [],
   "demuxSNP": [
     "SingleCellExperiment",
     "VariantAnnotation",
@@ -3847,8 +3827,7 @@
     "annotate",
     "EnrichmentBrowser",
     "graphite",
-    "pathview",
-    "safe"
+    "pathview"
   ],
   "drugTargetInteractions": [
     "UniProt.ws",
@@ -4089,8 +4068,7 @@
   ],
   "flowVS": [],
   "frma": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "funtooNorm": [
     "minfi",
@@ -4123,7 +4101,6 @@
     "graphite",
     "GenomicAlignments"
   ],
-  "gatom": [],
   "gcapc": [
     "BSgenome",
     "GenomicAlignments",
@@ -4175,7 +4152,6 @@
   ],
   "getDEE2": [],
   "geyser": [],
-  "gg4way": [],
   "ggbio": [
     "biovizBase",
     "GenomicAlignments",
@@ -4523,9 +4499,7 @@
     "ExperimentHub",
     "GenomicAlignments"
   ],
-  "mBPCR": [
-    "oligoClasses"
-  ],
+  "mBPCR": [],
   "mCSEA": [
     "biomaRt",
     "GenomicFeatures",
@@ -4785,7 +4759,6 @@
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "microbiomeExplorer": [],
   "midasHLA": [
     "MultiAssayExperiment"
   ],
@@ -4793,8 +4766,7 @@
     "SingleCellExperiment"
   ],
   "mimager": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "minfi": [
     "bumphunter",
@@ -4832,7 +4804,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "mitology": [],
   "mobileRNA": [
     "rtracklayer",
     "GenomicAlignments"
@@ -5026,10 +4997,7 @@
     "annotate",
     "GenomicAlignments"
   ],
-  "oligo": [
-    "oligoClasses"
-  ],
-  "oligoClasses": [],
+  "oligo": [],
   "omXplore": [
     "MSnbase",
     "PSMatch",
@@ -5123,8 +5091,7 @@
   ],
   "pathview": [],
   "pdInfoBuilder": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "peakPantheR": [
     "MSnbase",
@@ -5276,8 +5243,7 @@
     "MultiAssayExperiment"
   ],
   "puma": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "qPLEXanalyzer": [
     "MSnbase",
@@ -5331,9 +5297,7 @@
     "GenomicAlignments"
   ],
   "rGenomeTracks": [],
-  "rTRM": [],
   "rTRMui": [
-    "rTRM",
     "MotifDb",
     "rtracklayer",
     "GenomicAlignments"
@@ -5469,7 +5433,6 @@
   "sSNAPPY": [
     "graphite"
   ],
-  "safe": [],
   "sampleClassifier": [
     "MGFM",
     "MGFR",
@@ -6052,7 +6015,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "systemPipeTools": [],
   "tLOH": [
     "VariantAnnotation",
     "rtracklayer",
@@ -6235,7 +6197,6 @@
     "scuttle",
     "SingleCellExperiment"
   ],
-  "vidger": [],
   "visiumStitched": [
     "SpatialExperiment",
     "DropletUtils",
@@ -6340,13 +6301,11 @@
     "GSEABase",
     "graphite",
     "pathview",
-    "safe",
     "annotate"
   ],
   "zinbwave": [
     "SingleCellExperiment",
     "genefilter",
     "annotate"
-  ],
-  "zitools": []
+  ]
 }
