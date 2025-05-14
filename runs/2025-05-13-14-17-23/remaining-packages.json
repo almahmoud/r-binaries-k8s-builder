@@ -362,19 +362,14 @@
   ],
   "CoverageView": [],
   "CytoMDS": [
-    "CytoPipeline",
-    "ggcyto"
+    "CytoPipeline"
   ],
   "CytoML": [
-    "openCyto",
-    "ggcyto"
+    "openCyto"
   ],
-  "CytoPipeline": [
-    "ggcyto"
-  ],
+  "CytoPipeline": [],
   "CytoPipelineGUI": [
-    "CytoPipeline",
-    "ggcyto"
+    "CytoPipeline"
   ],
   "DAMEfinder": [
     "VariantAnnotation",
@@ -1309,7 +1304,6 @@
     "plyranges",
     "GenomicFeatures"
   ],
-  "SBGNview": [],
   "SCAN.UPC": [
     "sva",
     "genefilter",
@@ -2206,9 +2200,7 @@
     "CAMERA"
   ],
   "flowBin": [],
-  "flowGate": [
-    "ggcyto"
-  ],
+  "flowGate": [],
   "flowVS": [],
   "funtooNorm": [
     "minfi",
@@ -2262,7 +2254,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "ggcyto": [],
   "ggtreeExtra": [],
   "ginmappeR": [],
   "glmSparseNet": [
@@ -3211,7 +3202,6 @@
   "tenXplore": [
     "ontoProc"
   ],
-  "terapadog": [],
   "terraTCGAdata": [
     "TCGAutils",
     "GenomicFeatures"
