@@ -1184,3 +1184,7 @@ weitrix
 wpm
 yamss
 zFPKM
+alabaster.se
+gatom
+sangeranalyseR
+scifer
