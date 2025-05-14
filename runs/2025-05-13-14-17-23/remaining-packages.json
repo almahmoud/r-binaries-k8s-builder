@@ -909,7 +909,6 @@
   "MatrixRider": [
     "TFBSTools"
   ],
-  "MeSHDbi": [],
   "MetaboAnnotation": [],
   "MetaboSignal": [
     "hpar",
@@ -2476,11 +2475,8 @@
     "annotate",
     "ExperimentHub"
   ],
-  "meshes": [
-    "MeSHDbi"
-  ],
+  "meshes": [],
   "meshr": [
-    "MeSHDbi",
     "Category",
     "GSEABase",
     "genefilter",
@@ -2995,7 +2991,6 @@
     "annotate"
   ],
   "scTensor": [
-    "MeSHDbi",
     "Category",
     "meshr",
     "GOstats",
