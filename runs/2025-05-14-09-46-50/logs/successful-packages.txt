@@ -755,3 +755,16 @@ metapone
 pvca
 RcwlPipelines
 S4Arrays
+CGHnormaliter
+CIMICE
+Cormotif
+cyanoFilter
+ddPCRclust
+DepecheR
+flowBin
+flowCut
+flowMerge
+flowTrans
+mbQTL
+ReUseData
+Spectra

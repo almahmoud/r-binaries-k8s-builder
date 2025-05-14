@@ -792,7 +792,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -872,7 +871,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "CGHnormaliter": [],
   "CHETAH": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -886,7 +884,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "CIMICE": [],
   "CINdex": [
     "GenomicRanges"
   ],
@@ -958,9 +955,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "CONFESS": [
-    "flowMerge"
-  ],
+  "CONFESS": [],
   "COTAN": [
     "BiocSingular",
     "SingleCellExperiment",
@@ -1405,7 +1400,6 @@
   "CluMSID": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -1456,7 +1450,6 @@
   ],
   "CompoundDb": [
     "AnnotationFilter",
-    "Spectra",
     "GenomicRanges"
   ],
   "Coralysis": [
@@ -1479,7 +1472,6 @@
     "GenomicRanges",
     "SparseArray"
   ],
-  "Cormotif": [],
   "CoverageView": [
     "Rsamtools",
     "rtracklayer",
@@ -1559,7 +1551,6 @@
   "DAPAR": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -1599,7 +1590,6 @@
     "GenomicRanges",
     "DelayedArray",
     "SparseArray",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "AnnotationFilter"
@@ -1928,7 +1918,6 @@
     "beachmat",
     "h5mread"
   ],
-  "DepecheR": [],
   "DiffBind": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -3201,7 +3190,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -3489,7 +3477,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -3820,7 +3807,6 @@
     "KEGGREST",
     "msmsEDA",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -3831,7 +3817,6 @@
   ],
   "MSnbase": [
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -3846,7 +3831,6 @@
   "MSstatsQC": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -3859,7 +3843,6 @@
     "MSstatsQC",
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -3933,9 +3916,7 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "MetCirc": [
-    "Spectra"
-  ],
+  "MetCirc": [],
   "MetNet": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -3959,7 +3940,6 @@
     "Biostrings"
   ],
   "MetaboAnnotation": [
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "AnnotationHub",
@@ -4215,24 +4195,12 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "MsBackendMassbank": [
-    "Spectra"
-  ],
-  "MsBackendMetaboLights": [
-    "Spectra"
-  ],
-  "MsBackendMgf": [
-    "Spectra"
-  ],
-  "MsBackendMsp": [
-    "Spectra"
-  ],
-  "MsBackendRawFileReader": [
-    "Spectra"
-  ],
-  "MsBackendSql": [
-    "Spectra"
-  ],
+  "MsBackendMassbank": [],
+  "MsBackendMetaboLights": [],
+  "MsBackendMgf": [],
+  "MsBackendMsp": [],
+  "MsBackendRawFileReader": [],
+  "MsBackendSql": [],
   "MsDataHub": [
     "ExperimentHub",
     "AnnotationHub",
@@ -4241,7 +4209,6 @@
     "Biostrings"
   ],
   "MsExperiment": [
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "MultiAssayExperiment",
@@ -4258,7 +4225,6 @@
   ],
   "MsQuality": [
     "MsExperiment",
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "MultiAssayExperiment",
@@ -4689,7 +4655,6 @@
     "GenomicRanges",
     "DelayedArray",
     "SparseArray",
-    "Spectra",
     "QFeatures",
     "genefilter",
     "AnnotationDbi",
@@ -4708,7 +4673,6 @@
     "Biostrings"
   ],
   "PSMatch": [
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -4797,7 +4761,6 @@
   "PrInCE": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -4810,7 +4773,6 @@
     "DAPAR",
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -5087,7 +5049,6 @@
   "RMassBank": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -5374,7 +5335,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "ReUseData": [],
   "ReactomeGSA": [
     "BiocSingular",
     "SummarizedExperiment",
@@ -6169,10 +6129,7 @@
     "scuttle",
     "h5mread"
   ],
-  "Spectra": [],
-  "SpectraQL": [
-    "Spectra"
-  ],
+  "SpectraQL": [],
   "SpectralTAD": [
     "HiCcompare",
     "GenomicRanges",
@@ -7416,7 +7373,6 @@
     "annotate",
     "genefilter",
     "SummarizedExperiment",
-    "Spectra",
     "QFeatures",
     "KEGGREST",
     "MultiAssayExperiment",
@@ -8225,7 +8181,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "GenomicRanges",
     "DelayedArray",
@@ -8474,7 +8429,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -8736,7 +8690,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "cyanoFilter": [],
   "cydar": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -8852,7 +8805,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "ddPCRclust": [],
   "debCAM": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -9652,7 +9604,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -9661,21 +9612,17 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "flowBin": [],
-  "flowCut": [],
   "flowGate": [
     "flowWorkspace",
     "ggcyto",
     "DelayedArray",
     "SparseArray"
   ],
-  "flowMerge": [],
   "flowStats": [
     "flowWorkspace",
     "DelayedArray",
     "SparseArray"
   ],
-  "flowTrans": [],
   "flowVS": [
     "flowStats",
     "flowWorkspace",
@@ -10149,7 +10096,6 @@
   ],
   "hdxmsqc": [
     "QFeatures",
-    "Spectra",
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
@@ -10862,7 +10808,6 @@
     "SparseArray",
     "Biostrings"
   ],
-  "mbQTL": [],
   "mbkmeans": [
     "DelayedArray",
     "SingleCellExperiment",
@@ -10906,7 +10851,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -11595,7 +11539,6 @@
   "msmsEDA": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -11608,7 +11551,6 @@
     "MSnbase",
     "msmsEDA",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -11754,7 +11696,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -11915,7 +11856,6 @@
     "MultiAssayExperiment",
     "DelayedArray",
     "GenomicRanges",
-    "Spectra",
     "QFeatures",
     "SparseArray",
     "AnnotationFilter"
@@ -12040,7 +11980,6 @@
     "SummarizedExperiment",
     "PSMatch",
     "KEGGREST",
-    "Spectra",
     "QFeatures",
     "GenomicRanges",
     "DelayedArray",
@@ -12059,7 +11998,6 @@
     "annotate",
     "genefilter",
     "SummarizedExperiment",
-    "Spectra",
     "QFeatures",
     "KEGGREST",
     "MultiAssayExperiment",
@@ -12188,7 +12126,6 @@
   "peakPantheR": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -12550,7 +12487,6 @@
   "ptairMS": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -12575,7 +12511,6 @@
     "MSnbase",
     "Biostrings",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -14240,7 +14175,6 @@
     "xcms",
     "MSnbase",
     "MsExperiment",
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "PSMatch",
@@ -14631,7 +14565,6 @@
     "Biostrings",
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -15043,7 +14976,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",

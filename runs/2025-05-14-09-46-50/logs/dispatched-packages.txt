@@ -788,3 +788,12 @@ SparseArray
 alabaster.bumpy
 gDRstyle
 mbQTL
+CONFESS
+MetCirc
+MsBackendMassbank
+MsBackendMetaboLights
+MsBackendMgf
+MsBackendMsp
+MsBackendRawFileReader
+MsBackendSql
+SpectraQL
