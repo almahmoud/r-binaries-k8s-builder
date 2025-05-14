@@ -107,7 +107,6 @@
     "BSgenome"
   ],
   "AUCell": [
-    "DelayedMatrixStats",
     "GSEABase",
     "annotate",
     "AnnotationDbi"
@@ -199,7 +198,6 @@
     "scran",
     "scuttle",
     "SingleCellExperiment",
-    "DelayedMatrixStats",
     "BiocSingular",
     "ScaledMatrix"
   ],
@@ -246,7 +244,6 @@
   ],
   "BPRMeth": [],
   "BRAIN": [],
-  "BREW3R.r": [],
   "BSgenome": [
     "rtracklayer",
     "GenomicAlignments"
@@ -586,7 +583,6 @@
   "COCOA": [
     "MIRA",
     "bsseq",
-    "DelayedMatrixStats",
     "BSgenome",
     "rtracklayer",
     "GenomicAlignments"
@@ -612,7 +608,6 @@
     "dittoSeq",
     "PCAtools",
     "SingleCellExperiment",
-    "DelayedMatrixStats",
     "BiocSingular",
     "ScaledMatrix"
   ],
@@ -707,7 +702,6 @@
   ],
   "Cepo": [
     "GSEABase",
-    "DelayedMatrixStats",
     "SingleCellExperiment",
     "annotate",
     "AnnotationDbi"
@@ -736,7 +730,6 @@
     "biomaRt",
     "annotate",
     "rtracklayer",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "methylumi",
@@ -834,7 +827,6 @@
     "scater",
     "SingleCellExperiment",
     "BiocSingular",
-    "DelayedMatrixStats",
     "scuttle",
     "ScaledMatrix",
     "GenomicAlignments"
@@ -925,8 +917,7 @@
     "AnnotationFilter"
   ],
   "CoreGx": [
-    "MultiAssayExperiment",
-    "piano"
+    "MultiAssayExperiment"
   ],
   "CoverageView": [
     "rtracklayer",
@@ -997,7 +988,6 @@
   "DEFormats": [
     "DESeq2"
   ],
-  "DEGraph": [],
   "DEGreport": [
     "DESeq2"
   ],
@@ -1070,7 +1060,6 @@
     "Gviz",
     "biomaRt",
     "AnnotationDbi",
-    "DelayedMatrixStats",
     "BSgenome",
     "rtracklayer",
     "GenomicFeatures",
@@ -1098,7 +1087,6 @@
   "DRIMSeq": [],
   "DSS": [
     "bsseq",
-    "DelayedMatrixStats",
     "BSgenome",
     "rtracklayer",
     "GenomicAlignments"
@@ -1138,7 +1126,6 @@
     "sva",
     "bsseq",
     "genefilter",
-    "DelayedMatrixStats",
     "BSgenome",
     "AnnotationDbi",
     "annotate",
@@ -1159,9 +1146,7 @@
     "ScaledMatrix",
     "GenomicAlignments"
   ],
-  "DeepPINCS": [
-    "ttgsea"
-  ],
+  "DeepPINCS": [],
   "DeepTarget": [
     "ExperimentHub",
     "AnnotationHub",
@@ -1184,7 +1169,6 @@
     "rtracklayer",
     "biomaRt"
   ],
-  "DelayedMatrixStats": [],
   "DelayedTensor": [
     "BiocSingular",
     "ScaledMatrix"
@@ -1223,7 +1207,6 @@
   ],
   "DropletUtils": [
     "SingleCellExperiment",
-    "DelayedMatrixStats",
     "scuttle"
   ],
   "DrugVsDisease": [
@@ -1280,7 +1263,6 @@
     "GSEABase",
     "SingleCellExperiment",
     "SpatialExperiment",
-    "DelayedMatrixStats",
     "BiocSingular",
     "ScaledMatrix"
   ],
@@ -1316,7 +1298,6 @@
     "AnnotationDbi",
     "annotate",
     "bumphunter",
-    "DelayedMatrixStats",
     "GEOquery",
     "GenomicFeatures",
     "rtracklayer",
@@ -1450,7 +1431,6 @@
     "scuttle",
     "scran",
     "BSgenome",
-    "DelayedMatrixStats",
     "AnnotationDbi",
     "biovizBase",
     "VariantAnnotation",
@@ -1465,7 +1445,6 @@
     "AnnotationDbi",
     "biomaRt",
     "BSgenome",
-    "DelayedMatrixStats",
     "GenomicAlignments",
     "GenomicFeatures",
     "OUTRIDER",
@@ -1630,7 +1609,6 @@
     "GSEABase",
     "SingleCellExperiment",
     "SpatialExperiment",
-    "DelayedMatrixStats",
     "BiocSingular",
     "ScaledMatrix",
     "annotate",
@@ -1676,8 +1654,7 @@
     "biomaRt"
   ],
   "GenProSeq": [
-    "DeepPINCS",
-    "ttgsea"
+    "DeepPINCS"
   ],
   "GenVisR": [
     "AnnotationDbi",
@@ -1862,7 +1839,6 @@
     "rtracklayer",
     "AnnotationDbi"
   ],
-  "HiCBricks": [],
   "HiCDCPlus": [
     "InteractionSet",
     "GenomicInteractions",
@@ -2071,7 +2047,6 @@
     "MultiAssayExperiment"
   ],
   "LimROTS": [],
-  "LinTInd": [],
   "LinkHD": [
     "MultiAssayExperiment"
   ],
@@ -2115,7 +2090,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "bumphunter",
-    "DelayedMatrixStats",
     "GEOquery",
     "GenomicAlignments"
   ],
@@ -2166,7 +2140,6 @@
     "biovizBase",
     "GenomicAlignments",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "methylumi",
@@ -2179,7 +2152,6 @@
     "minfi",
     "wateRmelon",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "methylumi",
@@ -2220,7 +2192,6 @@
     "TreeSummarizedExperiment",
     "mia",
     "SingleCellExperiment",
-    "DelayedMatrixStats",
     "scater",
     "scuttle",
     "BiocSingular",
@@ -2231,7 +2202,6 @@
   ],
   "MIRA": [
     "bsseq",
-    "DelayedMatrixStats",
     "BSgenome",
     "rtracklayer",
     "GenomicAlignments"
@@ -2435,7 +2405,6 @@
   "MethylAid": [
     "minfi",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "GenomicFeatures",
@@ -2480,7 +2449,6 @@
     "rtracklayer",
     "minfi",
     "bumphunter",
-    "DelayedMatrixStats",
     "GEOquery",
     "GenomicAlignments"
   ],
@@ -2645,7 +2613,6 @@
     "bsseq",
     "AnnotationDbi",
     "ScaledMatrix",
-    "DelayedMatrixStats",
     "BSgenome",
     "rtracklayer",
     "GenomicAlignments"
@@ -2654,7 +2621,6 @@
     "SingleCellExperiment"
   ],
   "NetActivity": [
-    "DelayedMatrixStats",
     "DESeq2"
   ],
   "NetSAM": [
@@ -2773,14 +2739,12 @@
     "GenomicAlignments"
   ],
   "PCAtools": [
-    "DelayedMatrixStats",
     "BiocSingular",
     "ScaledMatrix"
   ],
   "PDATK": [
     "MultiAssayExperiment",
     "CoreGx",
-    "piano",
     "genefu",
     "biomaRt",
     "AnnotationDbi"
@@ -2887,8 +2851,7 @@
   "PhIPData": [],
   "PharmacoGx": [
     "CoreGx",
-    "MultiAssayExperiment",
-    "piano"
+    "MultiAssayExperiment"
   ],
   "PhenStat": [],
   "PhosR": [],
@@ -3044,7 +3007,6 @@
     "AnnotationHub",
     "AnnotationDbi",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "GenomicAlignments",
@@ -3210,8 +3172,7 @@
   ],
   "RadioGx": [
     "CoreGx",
-    "MultiAssayExperiment",
-    "piano"
+    "MultiAssayExperiment"
   ],
   "RaggedExperiment": [],
   "RareVariantVis": [
@@ -3233,7 +3194,6 @@
   "RcisTarget": [
     "AUCell",
     "GSEABase",
-    "DelayedMatrixStats",
     "annotate",
     "AnnotationDbi"
   ],
@@ -3377,7 +3337,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "bumphunter",
-    "DelayedMatrixStats",
     "GEOquery",
     "GenomicAlignments"
   ],
@@ -3438,7 +3397,6 @@
     "GenomicAlignments"
   ],
   "SCArray": [
-    "DelayedMatrixStats",
     "SingleCellExperiment",
     "BiocSingular",
     "ScaledMatrix"
@@ -3447,7 +3405,6 @@
     "SCArray",
     "BiocSingular",
     "ScaledMatrix",
-    "DelayedMatrixStats",
     "SingleCellExperiment"
   ],
   "SCOPE": [
@@ -3519,7 +3476,6 @@
     "AnnotationHub",
     "GenomicFeatures",
     "regioneR",
-    "DelayedMatrixStats",
     "BSgenome",
     "GenomicAlignments"
   ],
@@ -3560,8 +3516,7 @@
   ],
   "SVP": [
     "SingleCellExperiment",
-    "SpatialExperiment",
-    "DelayedMatrixStats"
+    "SpatialExperiment"
   ],
   "SWATH2stats": [
     "biomaRt",
@@ -3599,7 +3554,6 @@
     "genefilter",
     "AnnotationDbi"
   ],
-  "SigFuge": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
@@ -3634,9 +3588,7 @@
     "VariantAnnotation",
     "biomaRt"
   ],
-  "SingleR": [
-    "DelayedMatrixStats"
-  ],
+  "SingleR": [],
   "SomaticSignatures": [
     "VariantAnnotation",
     "ggbio",
@@ -3665,7 +3617,6 @@
     "scater",
     "scran",
     "DropletUtils",
-    "DelayedMatrixStats",
     "scuttle",
     "BiocSingular",
     "ScaledMatrix"
@@ -3684,14 +3635,12 @@
     "DropletUtils",
     "SpatialExperiment",
     "SingleCellExperiment",
-    "DelayedMatrixStats",
     "scuttle"
   ],
   "SpatialFeatureExperiment": [
     "DropletUtils",
     "SingleCellExperiment",
     "SpatialExperiment",
-    "DelayedMatrixStats",
     "scuttle"
   ],
   "SpatialOmicsOverlay": [],
@@ -3706,7 +3655,6 @@
   "SpliceWiz": [
     "AnnotationHub",
     "BSgenome",
-    "DelayedMatrixStats",
     "genefilter",
     "rtracklayer",
     "AnnotationDbi",
@@ -3785,7 +3733,6 @@
     "GSEABase",
     "SingleCellExperiment",
     "SpatialExperiment",
-    "DelayedMatrixStats",
     "BiocSingular",
     "ScaledMatrix",
     "annotate",
@@ -3844,7 +3791,6 @@
   "TENxIO": [
     "SingleCellExperiment"
   ],
-  "TFARM": [],
   "TFBSTools": [
     "BSgenome",
     "rtracklayer",
@@ -3939,8 +3885,7 @@
   "TnT": [],
   "ToxicoGx": [
     "CoreGx",
-    "MultiAssayExperiment",
-    "piano"
+    "MultiAssayExperiment"
   ],
   "TrajectoryUtils": [
     "SingleCellExperiment"
@@ -3999,7 +3944,6 @@
     "SingleCellExperiment",
     "scater",
     "DeepPINCS",
-    "ttgsea",
     "scuttle",
     "BiocSingular",
     "ScaledMatrix"
@@ -4089,7 +4033,6 @@
     "SingleCellExperiment",
     "SpatialExperiment",
     "DropletUtils",
-    "DelayedMatrixStats",
     "scuttle"
   ],
   "VplotR": [
@@ -4116,8 +4059,7 @@
   "Xeva": [
     "PharmacoGx",
     "CoreGx",
-    "MultiAssayExperiment",
-    "piano"
+    "MultiAssayExperiment"
   ],
   "YAPSA": [
     "SomaticSignatures",
@@ -4209,7 +4151,6 @@
     "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
-    "alabaster.bumpy",
     "alabaster.mae",
     "MultiAssayExperiment",
     "SingleCellExperiment",
@@ -4221,7 +4162,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "alabaster.bumpy": [],
   "alabaster.mae": [
     "MultiAssayExperiment",
     "alabaster.se",
@@ -4245,7 +4185,6 @@
     "SpatialExperiment",
     "DropletUtils",
     "alabaster.ranges",
-    "DelayedMatrixStats",
     "scuttle"
   ],
   "alabaster.spatial": [
@@ -4323,7 +4262,6 @@
     "minfi",
     "genefilter",
     "bumphunter",
-    "DelayedMatrixStats",
     "GEOquery",
     "GenomicAlignments"
   ],
@@ -4401,7 +4339,6 @@
   "batchelor": [
     "SingleCellExperiment",
     "BiocSingular",
-    "DelayedMatrixStats",
     "scuttle",
     "ScaledMatrix"
   ],
@@ -4429,7 +4366,6 @@
     "DESeq2",
     "ALDEx2",
     "MAST",
-    "dearseq",
     "maaslin3",
     "SingleCellExperiment",
     "genefilter",
@@ -4448,7 +4384,6 @@
     "AnnotationDbi",
     "GenomicFeatures",
     "bumphunter",
-    "DelayedMatrixStats",
     "lumi",
     "ROC",
     "rtracklayer",
@@ -4512,7 +4447,6 @@
   "biscuiteer": [
     "bsseq",
     "VariantAnnotation",
-    "DelayedMatrixStats",
     "rtracklayer",
     "dmrseq",
     "ExperimentHub",
@@ -4543,7 +4477,6 @@
   ],
   "bnbc": [
     "sva",
-    "HiCBricks",
     "genefilter",
     "AnnotationDbi",
     "annotate"
@@ -4560,7 +4493,6 @@
   "borealis": [
     "bsseq",
     "DSS",
-    "DelayedMatrixStats",
     "BSgenome",
     "rtracklayer",
     "GenomicAlignments"
@@ -4588,7 +4520,6 @@
     "annotate"
   ],
   "bsseq": [
-    "DelayedMatrixStats",
     "BSgenome",
     "rtracklayer",
     "GenomicAlignments"
@@ -4749,7 +4680,6 @@
     "megadepth",
     "BiocSingular",
     "rtracklayer",
-    "DelayedMatrixStats",
     "ScaledMatrix",
     "AnnotationFilter",
     "AnnotationDbi",
@@ -4765,7 +4695,6 @@
     "scran",
     "scuttle",
     "BiocSingular",
-    "DelayedMatrixStats",
     "ScaledMatrix",
     "AnnotationFilter",
     "AnnotationDbi",
@@ -4787,7 +4716,6 @@
     "megadepth",
     "rtracklayer",
     "BiocSingular",
-    "DelayedMatrixStats",
     "ScaledMatrix",
     "AnnotationFilter",
     "AnnotationDbi",
@@ -5007,7 +4935,6 @@
     "GSEABase",
     "SingleCellExperiment",
     "SpatialExperiment",
-    "DelayedMatrixStats",
     "BiocSingular",
     "ScaledMatrix",
     "AnnotationDbi",
@@ -5021,7 +4948,6 @@
     "minfi",
     "rtracklayer",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "GenomicAlignments",
@@ -5266,7 +5192,6 @@
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
-    "DelayedMatrixStats",
     "scater",
     "scuttle",
     "BiocSingular",
@@ -5285,7 +5210,6 @@
     "flowDensity",
     "flowViz"
   ],
-  "dearseq": [],
   "debCAM": [],
   "debrowser": [
     "annotate",
@@ -5322,7 +5246,6 @@
     "minfi",
     "rtracklayer",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "GenomicFeatures",
@@ -5426,7 +5349,6 @@
   "dmrseq": [
     "bsseq",
     "bumphunter",
-    "DelayedMatrixStats",
     "annotatr",
     "AnnotationHub",
     "rtracklayer",
@@ -5456,7 +5378,6 @@
   ],
   "dreamlet": [
     "SingleCellExperiment",
-    "DelayedMatrixStats",
     "GSEABase",
     "zenith",
     "annotate",
@@ -5562,7 +5483,6 @@
     "biovizBase",
     "GenomicAlignments",
     "OrganismDbi",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "VariantAnnotation",
@@ -5578,7 +5498,6 @@
     "AUCell",
     "motifmatchr",
     "AnnotationDbi",
-    "DelayedMatrixStats",
     "GSEABase",
     "BSgenome",
     "TFBSTools",
@@ -5687,7 +5606,6 @@
     "GSVA",
     "SingleCellExperiment",
     "UCell",
-    "DelayedMatrixStats",
     "annotate",
     "AnnotationDbi",
     "SpatialExperiment",
@@ -5755,7 +5673,6 @@
     "genefilter",
     "rtracklayer",
     "bumphunter",
-    "DelayedMatrixStats",
     "GEOquery",
     "GenomicAlignments"
   ],
@@ -5870,7 +5787,6 @@
   "funtooNorm": [
     "minfi",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "GenomicFeatures",
@@ -5896,8 +5812,7 @@
     "gDRutils",
     "MultiAssayExperiment",
     "CoreGx",
-    "PharmacoGx",
-    "piano"
+    "PharmacoGx"
   ],
   "gDRcore": [
     "gDRutils",
@@ -5907,8 +5822,7 @@
     "CoreGx",
     "PharmacoGx",
     "gDRutils",
-    "MultiAssayExperiment",
-    "piano"
+    "MultiAssayExperiment"
   ],
   "gDRutils": [
     "MultiAssayExperiment"
@@ -6037,7 +5951,6 @@
     "GenomicAlignments"
   ],
   "glmGamPoi": [
-    "DelayedMatrixStats",
     "SingleCellExperiment"
   ],
   "glmSparseNet": [
@@ -6187,7 +6100,6 @@
     "minfi",
     "genefilter",
     "bumphunter",
-    "DelayedMatrixStats",
     "GEOquery",
     "GenomicAlignments"
   ],
@@ -6198,7 +6110,6 @@
     "OrganismDbi",
     "GenomicFeatures",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "clusterProfiler",
@@ -6253,7 +6164,6 @@
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
     "MultiAssayExperiment",
-    "DelayedMatrixStats",
     "scater",
     "scuttle",
     "BiocSingular",
@@ -6402,7 +6312,6 @@
     "DESeq2",
     "DSS",
     "bsseq",
-    "DelayedMatrixStats",
     "BSgenome",
     "rtracklayer",
     "GenomicAlignments"
@@ -6418,7 +6327,6 @@
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
-    "DelayedMatrixStats",
     "scater",
     "scuttle",
     "BiocSingular",
@@ -6426,8 +6334,7 @@
   ],
   "lemur": [
     "SingleCellExperiment",
-    "glmGamPoi",
-    "DelayedMatrixStats"
+    "glmGamPoi"
   ],
   "limpca": [],
   "lineagespot": [
@@ -6468,7 +6375,6 @@
     "minfi",
     "genefilter",
     "bumphunter",
-    "DelayedMatrixStats",
     "GEOquery",
     "GenomicAlignments"
   ],
@@ -6608,7 +6514,6 @@
     "bsseq",
     "ShortRead",
     "annotate",
-    "DelayedMatrixStats",
     "BSgenome"
   ],
   "methInheritSim": [
@@ -6630,7 +6535,6 @@
   "methrix": [
     "rtracklayer",
     "BSgenome",
-    "DelayedMatrixStats",
     "GenomicAlignments"
   ],
   "methyLImp2": [],
@@ -6640,7 +6544,6 @@
     "plyranges",
     "bumphunter",
     "genefilter",
-    "DelayedMatrixStats",
     "BSgenome",
     "GenomicFeatures",
     "AnnotationDbi",
@@ -6662,7 +6565,6 @@
     "genefilter",
     "GenomicFeatures",
     "bumphunter",
-    "DelayedMatrixStats",
     "GEOquery",
     "rtracklayer",
     "GenomicAlignments"
@@ -6691,7 +6593,6 @@
   ],
   "methylSig": [
     "bsseq",
-    "DelayedMatrixStats",
     "DSS",
     "BSgenome",
     "rtracklayer",
@@ -6703,7 +6604,6 @@
     "AnnotationHub",
     "ExperimentHubData",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "AnnotationDbi",
@@ -6726,7 +6626,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "bumphunter",
-    "DelayedMatrixStats",
     "GEOquery",
     "GenomicAlignments"
   ],
@@ -6777,7 +6676,6 @@
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "TreeSummarizedExperiment",
-    "DelayedMatrixStats",
     "scater",
     "scuttle",
     "BiocSingular",
@@ -6792,7 +6690,6 @@
     "TreeSummarizedExperiment",
     "miaViz",
     "MultiAssayExperiment",
-    "DelayedMatrixStats",
     "scuttle",
     "BiocSingular",
     "ScaledMatrix"
@@ -6807,7 +6704,6 @@
     "scater",
     "SingleCellExperiment",
     "MultiAssayExperiment",
-    "DelayedMatrixStats",
     "scuttle",
     "BiocSingular",
     "ScaledMatrix"
@@ -6833,7 +6729,6 @@
   ],
   "minfi": [
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "GenomicFeatures",
@@ -6854,7 +6749,6 @@
     "genefilter",
     "GenomicFeatures",
     "bumphunter",
-    "DelayedMatrixStats",
     "GEOquery",
     "rtracklayer",
     "GenomicAlignments"
@@ -7045,7 +6939,6 @@
   ],
   "mumosa": [
     "SingleCellExperiment",
-    "DelayedMatrixStats",
     "BiocSingular",
     "ScaledMatrix",
     "scuttle",
@@ -7168,7 +7061,6 @@
     "GSEABase",
     "SingleCellExperiment",
     "SpatialExperiment",
-    "DelayedMatrixStats",
     "BiocSingular",
     "ScaledMatrix",
     "rtracklayer",
@@ -7232,7 +7124,6 @@
     "AnnotationDbi",
     "SingleCellExperiment",
     "SpatialExperiment",
-    "DelayedMatrixStats",
     "BiocSingular",
     "ScaledMatrix"
   ],
@@ -7306,7 +7197,6 @@
     "GSEABase",
     "SingleCellExperiment",
     "SpatialExperiment",
-    "DelayedMatrixStats",
     "BiocSingular",
     "ScaledMatrix",
     "annotate",
@@ -7396,7 +7286,6 @@
   ],
   "phenopath": [],
   "philr": [],
-  "piano": [],
   "pipeComp": [
     "SingleCellExperiment",
     "scran",
@@ -7577,7 +7466,6 @@
   "quantro": [
     "minfi",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "GenomicFeatures",
@@ -7656,7 +7544,6 @@
   ],
   "recountmethylation": [
     "minfi",
-    "DelayedMatrixStats",
     "bumphunter",
     "genefilter",
     "GEOquery",
@@ -7689,7 +7576,6 @@
   ],
   "regionalpcs": [
     "PCAtools",
-    "DelayedMatrixStats",
     "BiocSingular",
     "ScaledMatrix"
   ],
@@ -7841,13 +7727,11 @@
   "scCB2": [
     "SingleCellExperiment",
     "DropletUtils",
-    "DelayedMatrixStats",
     "scuttle"
   ],
   "scClassify": [
     "Cepo",
     "GSEABase",
-    "DelayedMatrixStats",
     "SingleCellExperiment",
     "annotate",
     "AnnotationDbi"
@@ -7890,7 +7774,6 @@
     "ScaledMatrix"
   ],
   "scFeatures": [
-    "DelayedMatrixStats",
     "GSVA",
     "ensembldb",
     "AUCell",
@@ -7925,7 +7808,6 @@
   ],
   "scMerge": [
     "BiocSingular",
-    "DelayedMatrixStats",
     "M3Drop",
     "scater",
     "batchelor",
@@ -7946,7 +7828,6 @@
     "GenomicAlignments",
     "MultiAssayExperiment",
     "rtracklayer",
-    "DelayedMatrixStats",
     "scuttle"
   ],
   "scQTLtools": [
@@ -8060,13 +7941,11 @@
     "GenomicFeatures",
     "regioneR",
     "rtracklayer",
-    "DelayedMatrixStats",
     "GenomicAlignments"
   ],
   "scone": [
     "RUVSeq",
     "SingleCellExperiment",
-    "DelayedMatrixStats",
     "EDASeq",
     "ShortRead",
     "biomaRt",
@@ -8214,7 +8093,6 @@
   "shinyMethyl": [
     "minfi",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "GenomicFeatures",
@@ -8227,7 +8105,6 @@
     "minfi",
     "rtracklayer",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "GenomicAlignments",
@@ -8267,7 +8144,6 @@
     "rtracklayer",
     "GSEABase",
     "SingleCellExperiment",
-    "DelayedMatrixStats",
     "BiocSingular",
     "ScaledMatrix",
     "biomaRt",
@@ -8290,7 +8166,6 @@
     "SingleCellExperiment",
     "AnnotationHub",
     "batchelor",
-    "DelayedMatrixStats",
     "DESeq2",
     "ExperimentHub",
     "ensembldb",
@@ -8350,7 +8225,6 @@
     "AnnotationDbi",
     "GenomicFeatures",
     "bumphunter",
-    "DelayedMatrixStats",
     "GEOquery",
     "lumi",
     "ROC",
@@ -8397,7 +8271,6 @@
   ],
   "sparrow": [
     "BiocSet",
-    "DelayedMatrixStats",
     "GSEABase",
     "AnnotationDbi",
     "annotate"
@@ -8746,7 +8619,6 @@
   ],
   "transformGamPoi": [
     "glmGamPoi",
-    "DelayedMatrixStats",
     "SingleCellExperiment"
   ],
   "transmogR": [
@@ -8790,7 +8662,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "ttgsea": [],
   "txcutr": [
     "AnnotationDbi",
     "GenomicFeatures",
@@ -8849,7 +8720,6 @@
     "SpatialExperiment",
     "DropletUtils",
     "SingleCellExperiment",
-    "DelayedMatrixStats",
     "scuttle",
     "AnnotationHub",
     "scater",
@@ -8921,7 +8791,6 @@
     "genefilter",
     "rtracklayer",
     "bumphunter",
-    "DelayedMatrixStats",
     "GEOquery",
     "GenomicAlignments"
   ],
@@ -8935,9 +8804,7 @@
     "annaffy",
     "AnnotationDbi"
   ],
-  "weitrix": [
-    "DelayedMatrixStats"
-  ],
+  "weitrix": [],
   "wiggleplotr": [
     "rtracklayer",
     "GenomicAlignments"
@@ -8976,7 +8843,6 @@
     "AnnotationDbi",
     "minfi",
     "bumphunter",
-    "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
     "GenomicFeatures",

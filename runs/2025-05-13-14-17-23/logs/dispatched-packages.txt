@@ -1090,3 +1090,6 @@ tomoda
 wpm
 yamss
 zFPKM
+DeepPINCS
+SingleR
+weitrix

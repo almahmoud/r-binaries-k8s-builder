@@ -839,3 +839,14 @@ CNVMetrics
 HilbertCurve
 spkTools
 SummarizedExperiment
+alabaster.bumpy
+BREW3R.r
+dearseq
+DEGraph
+DelayedMatrixStats
+HiCBricks
+LinTInd
+piano
+SigFuge
+TFARM
+ttgsea
