@@ -1816,7 +1816,6 @@
   ],
   "chevreulPlot": [
     "chevreulProcess",
-    "wiggleplotr",
     "ensembldb",
     "GenomicFeatures"
   ],
@@ -1827,7 +1826,6 @@
   "chevreulShiny": [
     "chevreulProcess",
     "chevreulPlot",
-    "wiggleplotr",
     "ensembldb",
     "GenomicFeatures"
   ],
@@ -2210,8 +2208,7 @@
     "genomation"
   ],
   "factR": [
-    "GenomicFeatures",
-    "wiggleplotr"
+    "GenomicFeatures"
   ],
   "famat": [],
   "fcScan": [
@@ -2886,7 +2883,6 @@
     "GenomicFeatures",
     "annotate"
   ],
-  "r3Cseq": [],
   "rCGH": [
     "GenomicFeatures"
   ],
@@ -3359,7 +3355,6 @@
     "GenomicFeatures"
   ],
   "webbioc": [],
-  "wiggleplotr": [],
   "xCell2": [
     "singscore",
     "GSEABase",

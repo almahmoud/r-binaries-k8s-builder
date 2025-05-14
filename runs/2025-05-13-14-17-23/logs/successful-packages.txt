@@ -1486,3 +1486,5 @@ syntenet
 TCseq
 tidyCoverage
 tidySummarizedExperiment
+r3Cseq
+wiggleplotr
