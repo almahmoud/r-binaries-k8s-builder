@@ -223,7 +223,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "Banksy": [],
   "Basic4Cseq": [
     "BSgenome",
     "rtracklayer"
@@ -4003,10 +4002,7 @@
     "scuttle",
     "BiocSingular"
   ],
-  "cytomapper": [],
-  "cytoviewer": [
-    "cytomapper"
-  ],
+  "cytoviewer": [],
   "dada2": [
     "ShortRead"
   ],
@@ -4830,8 +4826,7 @@
     "GenomicFeatures"
   ],
   "imcRtools": [
-    "scuttle",
-    "cytomapper"
+    "scuttle"
   ],
   "immunoClust": [],
   "immunogenViewer": [
@@ -4926,7 +4921,6 @@
   "lisaClust": [
     "spicyR",
     "simpleSeg",
-    "cytomapper",
     "ClassifyR",
     "genefilter",
     "AnnotationDbi",
@@ -4954,7 +4948,6 @@
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "mBPCR": [],
   "mCSEA": [
     "biomaRt",
     "GenomicFeatures",
@@ -6320,9 +6313,7 @@
   "simPIC": [
     "scuttle"
   ],
-  "simpleSeg": [
-    "cytomapper"
-  ],
+  "simpleSeg": [],
   "simplifyEnrichment": [
     "AnnotationDbi"
   ],
@@ -6396,7 +6387,6 @@
     "ShortRead"
   ],
   "sosta": [],
-  "spaSim": [],
   "spacexr": [],
   "sparrow": [
     "BiocSet",
@@ -6415,7 +6405,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "spatialSimGP": [],
   "spatzie": [
     "BSgenome",
     "GenomicFeatures",
@@ -6436,7 +6425,6 @@
     "ClassifyR",
     "simpleSeg",
     "genefilter",
-    "cytomapper",
     "AnnotationDbi",
     "annotate"
   ],

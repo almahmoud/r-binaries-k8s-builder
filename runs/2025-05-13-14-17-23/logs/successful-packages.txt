@@ -1054,3 +1054,8 @@ hoodscanR
 SpotClean
 CatsCradle
 ExperimentSubset
+Banksy
+cytomapper
+mBPCR
+spaSim
+spatialSimGP

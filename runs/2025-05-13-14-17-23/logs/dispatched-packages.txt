@@ -1321,3 +1321,5 @@ iSEEindex
 iSEEpathways
 SPIAT
 XeniumIO
+cytoviewer
+simpleSeg
