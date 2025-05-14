@@ -500,7 +500,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "DropletUtils": [],
   "DuplexDiscovereR": [
     "Gviz",
     "rtracklayer",
@@ -586,7 +585,6 @@
   ],
   "FLAMES": [
     "bambu",
-    "DropletUtils",
     "GenomicFeatures",
     "txdbmaker",
     "ggbio",
@@ -1026,7 +1024,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "MsDataHub": [],
   "MsExperiment": [],
   "MsQuality": [
     "MsExperiment"
@@ -1475,20 +1472,15 @@
   ],
   "Spaniel": [
     "scater",
-    "scran",
-    "DropletUtils"
+    "scran"
   ],
   "SparseSignatures": [
     "BSgenome",
     "rtracklayer"
   ],
   "SpatialCPie": [],
-  "SpatialExperimentIO": [
-    "DropletUtils"
-  ],
-  "SpatialFeatureExperiment": [
-    "DropletUtils"
-  ],
+  "SpatialExperimentIO": [],
+  "SpatialFeatureExperiment": [],
   "SpectralTAD": [
     "HiCcompare"
   ],
@@ -1653,8 +1645,7 @@
     "TENxIO"
   ],
   "Voyager": [
-    "SpatialFeatureExperiment",
-    "DropletUtils"
+    "SpatialFeatureExperiment"
   ],
   "VplotR": [],
   "XDE": [
@@ -1705,7 +1696,6 @@
     "scater"
   ],
   "alabaster": [
-    "alabaster.spatial",
     "alabaster.vcf",
     "alabaster.mae",
     "VariantAnnotation",
@@ -1715,11 +1705,8 @@
   ],
   "alabaster.mae": [],
   "alabaster.sfe": [
-    "SpatialFeatureExperiment",
-    "alabaster.spatial",
-    "DropletUtils"
+    "SpatialFeatureExperiment"
   ],
-  "alabaster.spatial": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "rtracklayer",
@@ -3219,9 +3206,7 @@
   "scBFA": [
     "zinbwave"
   ],
-  "scCB2": [
-    "DropletUtils"
-  ],
+  "scCB2": [],
   "scClassify": [
     "Cepo"
   ],
@@ -3258,7 +3243,6 @@
     "scran"
   ],
   "scPipe": [
-    "DropletUtils",
     "rtracklayer"
   ],
   "scQTLtools": [],
@@ -3394,7 +3378,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "simPIC": [],
   "sitadela": [
     "GenomicFeatures",
     "rtracklayer",
@@ -3549,7 +3532,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tradeSeq": [],
   "transcriptR": [
     "chipseq",
     "GenomicFeatures",
@@ -3601,7 +3583,6 @@
   ],
   "velociraptor": [],
   "visiumStitched": [
-    "DropletUtils",
     "scater",
     "rtracklayer"
   ],

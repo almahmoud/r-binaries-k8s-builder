@@ -1567,3 +1567,6 @@ biosigner
 lipidr
 phenomis
 rqt
+SpatialExperimentIO
+SpatialFeatureExperiment
+scCB2
