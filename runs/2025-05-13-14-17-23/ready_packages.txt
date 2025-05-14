@@ -1,2 +1,14 @@
-CytoPipeline
-flowGate
+CNEr
+ChromHeatMap
+DrugVsDisease
+GSEABase
+MGFM
+MGFR
+PREDA
+SemDist
+codelink
+genefilter
+geneplotter
+globaltest
+idiogram
+tigre
