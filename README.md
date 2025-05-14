@@ -8,7 +8,7 @@ A scalable Kubernetes-based system for building Bioconductor package binaries au
 
 | Run ID | Start Time | Container Image | R Version | Bioc Version | Status | Success | Failed | Total |
 |--------|------------|-----------------|-----------|--------------|--------|---------|--------|-------|
-| [2025-05-14-09-46-50](runs/2025-05-14-09-46-50/) | 2025-05-14 09:46:50 | `ghcr.io/bioconductor/bioconductor_docker:devel` | 4.5.0. | 3.22 | In Progress | 426 | 0 | 426 |
+| [2025-05-14-09-46-50](runs/2025-05-14-09-46-50/) | 2025-05-14 09:46:50 | `ghcr.io/bioconductor/bioconductor_docker:devel` | 4.5.0. | 3.22 | In Progress | 666 | 1 | 667 |
 | [2025-05-13-14-17-23](runs/2025-05-13-14-17-23/) | 2025-05-13 14:17:23 | `ghcr.io/bioconductor/bioconductor_docker:devel` | 4.5.0. | 3.21 | In Progress | 0 | 0 | 0 |
 | [2025-05-08-14-03-31](runs/2025-05-08-14-03-31/) | 2025-05-08 14:03:31 | `us.gcr.io/broad-dsp-gcr-public/terra-jupyter-bioconductor:2.2.7` | N/A | 3.22 | Complete | 0 | 0 | 0 |
 | [2025-05-08-13-01-58](runs/2025-05-08-13-01-58/) | 2025-05-08 13:01:58 | `us.gcr.io/broad-dsp-gcr-public/terra-jupyter-bioconductor:2.2.7` | N/A | 2.2.7 | In Progress | 0 | 348 | 348 |
