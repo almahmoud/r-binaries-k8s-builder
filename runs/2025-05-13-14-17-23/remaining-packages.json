@@ -2715,7 +2715,6 @@
     "AnnotationDbi",
     "GenomicFeatures"
   ],
-  "SimBu": [],
   "SingleCellSignalR": [
     "scran",
     "scuttle",
@@ -2764,7 +2763,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "SpatialCPie": [],
   "SpatialExperimentIO": [
     "DropletUtils",
     "scuttle"
@@ -3059,7 +3057,6 @@
     "scuttle"
   ],
   "VplotR": [],
-  "XAItest": [],
   "XDE": [
     "genefilter",
     "GeneMeta",
@@ -3285,7 +3282,6 @@
     "BiocSingular",
     "scuttle"
   ],
-  "beachmat.tiledb": [],
   "beadarray": [
     "AnnotationDbi"
   ],
@@ -4477,7 +4473,6 @@
     "AnnotationDbi"
   ],
   "getDEE2": [],
-  "gg4way": [],
   "ggbio": [
     "biovizBase",
     "BSgenome",
@@ -4855,7 +4850,6 @@
     "plotgardener",
     "rtracklayer"
   ],
-  "marr": [],
   "maser": [
     "rtracklayer",
     "Gviz",

@@ -1151,3 +1151,9 @@ spqn
 sRACIPE
 IsoBayes
 Pirat
+beachmat.tiledb
+gg4way
+marr
+SimBu
+SpatialCPie
+XAItest
