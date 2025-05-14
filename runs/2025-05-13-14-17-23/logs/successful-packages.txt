@@ -1015,3 +1015,9 @@ TrajectoryUtils
 aggregateBioVar
 bayNorm
 TreeSummarizedExperiment
+ASURAT
+ccfindR
+Glimma
+oligoClasses
+SpatialExperiment
+TENxIO
