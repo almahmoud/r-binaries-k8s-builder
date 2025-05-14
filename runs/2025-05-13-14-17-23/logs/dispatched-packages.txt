@@ -1553,3 +1553,14 @@ soGGi
 syntenet
 tidyCoverage
 wiggleplotr
+CEMiTool
+CaMutQC
+CeTF
+EasyCellType
+EnrichDO
+MetaPhOR
+MicrobiomeProfiler
+RFLOMICS
+alabaster.sfe
+famat
+pathlinkR

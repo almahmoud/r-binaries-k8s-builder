@@ -267,7 +267,6 @@
   ],
   "CBNplot": [
     "graphite",
-    "clusterProfiler",
     "ExperimentHub",
     "AnnotationHub"
   ],
@@ -281,9 +280,7 @@
     "GSEABase",
     "annotate"
   ],
-  "CEMiTool": [
-    "clusterProfiler"
-  ],
+  "CEMiTool": [],
   "CHRONOS": [
     "biomaRt"
   ],
@@ -351,17 +348,13 @@
     "AnnotationHub"
   ],
   "CaDrA": [],
-  "CaMutQC": [
-    "clusterProfiler"
-  ],
+  "CaMutQC": [],
   "Category": [
     "GSEABase",
     "genefilter",
     "annotate"
   ],
-  "CeTF": [
-    "clusterProfiler"
-  ],
+  "CeTF": [],
   "CellMixS": [
     "scater"
   ],
@@ -680,12 +673,8 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "EasyCellType": [
-    "clusterProfiler"
-  ],
-  "EnrichDO": [
-    "clusterProfiler"
-  ],
+  "EasyCellType": [],
+  "EnrichDO": [],
   "EnrichmentBrowser": [
     "GSEABase",
     "graphite",
@@ -779,7 +768,6 @@
     "annotate"
   ],
   "GDCRNATools": [
-    "clusterProfiler",
     "biomaRt"
   ],
   "GEOexplorer": [
@@ -854,7 +842,6 @@
   "GeDi": [
     "GeneTonic",
     "mosdef",
-    "clusterProfiler",
     "goseq",
     "GenomicFeatures",
     "txdbmaker",
@@ -881,7 +868,6 @@
   ],
   "GeneTonic": [
     "mosdef",
-    "clusterProfiler",
     "goseq",
     "GenomicFeatures",
     "txdbmaker",
@@ -954,7 +940,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HERON": [],
   "HarmonizR": [
     "sva",
     "genefilter",
@@ -1146,8 +1131,7 @@
     "BSgenome"
   ],
   "MIRit": [
-    "graphite",
-    "clusterProfiler"
+    "graphite"
   ],
   "MLInterfaces": [
     "annotate",
@@ -1202,9 +1186,7 @@
   ],
   "MeSHDbi": [],
   "MetMashR": [],
-  "MetaPhOR": [
-    "clusterProfiler"
-  ],
+  "MetaPhOR": [],
   "MetaboAnnotation": [
     "AnnotationHub"
   ],
@@ -1238,9 +1220,7 @@
     "annotate"
   ],
   "MiRaGE": [],
-  "MicrobiomeProfiler": [
-    "clusterProfiler"
-  ],
+  "MicrobiomeProfiler": [],
   "MicrobiotaProcess": [
     "ggtreeExtra"
   ],
@@ -1262,7 +1242,6 @@
     "BSgenome"
   ],
   "Moonlight2R": [
-    "clusterProfiler",
     "AnnotationHub",
     "EpiMix",
     "ExperimentHub",
@@ -1270,7 +1249,6 @@
     "GenomicFeatures"
   ],
   "MoonlightR": [
-    "clusterProfiler",
     "TCGAbiolinks",
     "biomaRt"
   ],
@@ -1442,7 +1420,6 @@
     "annotate"
   ],
   "PanomiR": [
-    "clusterProfiler",
     "GSEABase",
     "annotate"
   ],
@@ -1453,7 +1430,6 @@
     "AnnotationHub"
   ],
   "Pigengene": [
-    "clusterProfiler",
     "ReactomePA",
     "graphite"
   ],
@@ -1547,9 +1523,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "RFLOMICS": [
-    "clusterProfiler"
-  ],
+  "RFLOMICS": [],
   "RITAN": [
     "BgeeDB",
     "GenomicFeatures",
@@ -1645,7 +1619,6 @@
     "graphite"
   ],
   "ReducedExperiment": [
-    "clusterProfiler",
     "biomaRt"
   ],
   "RegEnrich": [],
@@ -2112,16 +2085,12 @@
     "scater"
   ],
   "alabaster": [
-    "alabaster.spatial",
     "alabaster.vcf",
     "VariantAnnotation",
     "BSgenome",
     "GenomicFeatures"
   ],
-  "alabaster.sfe": [
-    "alabaster.spatial"
-  ],
-  "alabaster.spatial": [],
+  "alabaster.sfe": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "BSgenome",
@@ -2217,7 +2186,6 @@
   ],
   "bioCancer": [
     "cBioPortalData",
-    "clusterProfiler",
     "ReactomePA",
     "RTCGAToolbox",
     "TCGAutils",
@@ -2295,7 +2263,6 @@
   ],
   "broadSeq": [
     "genefilter",
-    "clusterProfiler",
     "annotate"
   ],
   "bsseq": [
@@ -2467,7 +2434,6 @@
     "genefilter",
     "annotate"
   ],
-  "clusterProfiler": [],
   "cn.farms": [],
   "coMethDMR": [
     "AnnotationHub",
@@ -2666,7 +2632,6 @@
   ],
   "debrowser": [
     "annotate",
-    "clusterProfiler",
     "sva",
     "genefilter"
   ],
@@ -2788,7 +2753,6 @@
     "motifmatchr",
     "TFBSTools"
   ],
-  "enrichViewNet": [],
   "ensembldb": [
     "GenomicFeatures"
   ],
@@ -2832,7 +2796,6 @@
   ],
   "epiregulon.extra": [
     "scran",
-    "clusterProfiler",
     "scater"
   ],
   "epivizr": [
@@ -2881,7 +2844,6 @@
   "esATAC": [
     "pipeFrame",
     "ChIPseeker",
-    "clusterProfiler",
     "BSgenome",
     "GenomicFeatures",
     "TFBSTools",
@@ -2905,9 +2867,7 @@
     "GenomicFeatures",
     "wiggleplotr"
   ],
-  "famat": [
-    "clusterProfiler"
-  ],
+  "famat": [],
   "fcScan": [
     "VariantAnnotation",
     "BSgenome",
@@ -2939,7 +2899,6 @@
   "flowGate": [
     "ggcyto"
   ],
-  "flowMatch": [],
   "flowMerge": [],
   "flowStats": [],
   "flowTrans": [],
@@ -2966,7 +2925,6 @@
     "biomaRt",
     "GenomicFeatures",
     "ReactomePA",
-    "clusterProfiler",
     "graphite"
   ],
   "gatom": [],
@@ -3039,7 +2997,6 @@
     "biomaRt"
   ],
   "goSorensen": [
-    "clusterProfiler",
     "goProfiles"
   ],
   "goseq": [
@@ -3105,14 +3062,12 @@
     "GenomicFeatures",
     "bumphunter",
     "genefilter",
-    "clusterProfiler",
     "ReactomePA",
     "annotate",
     "txdbmaker",
     "graphite",
     "biomaRt"
   ],
-  "iSEEde": [],
   "iSEEfier": [
     "iSEEu",
     "iSEEhex"
@@ -3143,7 +3098,6 @@
     "GenomicFeatures",
     "Category",
     "annotate",
-    "clusterProfiler",
     "GSEABase",
     "genefilter",
     "txdbmaker",
@@ -3331,7 +3285,6 @@
     "annotate"
   ],
   "methylGSA": [
-    "clusterProfiler",
     "missMethyl",
     "minfi",
     "methylumi",
@@ -3391,14 +3344,12 @@
   "miRSM": [
     "BicARE",
     "GSEABase",
-    "clusterProfiler",
     "ReactomePA",
     "annotate",
     "graphite"
   ],
   "miRspongeR": [
     "SPONGE",
-    "clusterProfiler",
     "ReactomePA",
     "graphite",
     "biomaRt"
@@ -3456,7 +3407,6 @@
     "TFBSTools"
   ],
   "mosdef": [
-    "clusterProfiler",
     "goseq",
     "GenomicFeatures",
     "txdbmaker",
@@ -3648,9 +3598,7 @@
     "annotate"
   ],
   "pathRender": [],
-  "pathlinkR": [
-    "clusterProfiler"
-  ],
+  "pathlinkR": [],
   "pcaExplorer": [
     "mosdef",
     "genefilter",
@@ -3658,7 +3606,6 @@
     "biomaRt",
     "annotate",
     "Category",
-    "clusterProfiler",
     "goseq",
     "GSEABase",
     "GenomicFeatures",
@@ -4048,7 +3995,6 @@
   "seqArchRplus": [
     "BSgenome",
     "ChIPseeker",
-    "clusterProfiler",
     "GenomicFeatures"
   ],
   "seqCAT": [
@@ -4088,7 +4034,6 @@
   ],
   "signatureSearch": [
     "ExperimentHub",
-    "clusterProfiler",
     "GSEABase",
     "AnnotationHub",
     "annotate"

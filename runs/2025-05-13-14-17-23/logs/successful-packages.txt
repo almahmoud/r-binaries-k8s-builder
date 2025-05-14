@@ -1375,3 +1375,9 @@ gage
 maPredictDSC
 fastLiquidAssociation
 rtracklayer
+alabaster.spatial
+clusterProfiler
+enrichViewNet
+flowMatch
+HERON
+iSEEde
