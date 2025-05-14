@@ -31,9 +31,7 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "APL": [
-    "topGO"
-  ],
+  "APL": [],
   "ASICS": [
     "ropls",
     "MultiDataSet"
@@ -202,7 +200,6 @@
     "txdbmaker"
   ],
   "BgeeDB": [
-    "topGO",
     "zellkonverter"
   ],
   "BiSeq": [
@@ -454,7 +451,6 @@
   "ChIPQC": [
     "DiffBind",
     "GenomicFeatures",
-    "systemPipeR",
     "GreyListChIP",
     "rtracklayer",
     "BSgenome"
@@ -695,7 +691,6 @@
   ],
   "DelayedTensor": [],
   "DiffBind": [
-    "systemPipeR",
     "GreyListChIP",
     "BSgenome",
     "rtracklayer"
@@ -732,8 +727,6 @@
   ],
   "EGSEA": [
     "gage",
-    "topGO",
-    "pathview",
     "PADOG",
     "GSVA",
     "globaltest",
@@ -784,7 +777,6 @@
   "EnrichmentBrowser": [
     "GSEABase",
     "graphite",
-    "pathview",
     "safe",
     "annotate"
   ],
@@ -891,7 +883,6 @@
   "GDCRNATools": [
     "clusterProfiler",
     "biomaRt",
-    "pathview",
     "enrichplot"
   ],
   "GEOexplorer": [
@@ -922,7 +913,6 @@
   ],
   "GRaNIE": [
     "biomaRt",
-    "topGO",
     "AnnotationHub",
     "ensembldb",
     "GenomicFeatures",
@@ -937,7 +927,6 @@
     "ExperimentHub",
     "GSEABase",
     "graphite",
-    "pathview",
     "safe",
     "annotate"
   ],
@@ -973,7 +962,6 @@
   "GeDi": [
     "GeneTonic",
     "mosdef",
-    "topGO",
     "clusterProfiler",
     "goseq",
     "enrichplot",
@@ -1005,7 +993,6 @@
   ],
   "GeneTonic": [
     "mosdef",
-    "topGO",
     "clusterProfiler",
     "goseq",
     "enrichplot",
@@ -1355,7 +1342,6 @@
     "MSstatsQC",
     "MSnbase"
   ],
-  "MSstatsShiny": [],
   "Macarron": [],
   "MatrixQCvis": [
     "ExperimentHub",
@@ -1566,9 +1552,7 @@
     "rtracklayer",
     "biomaRt"
   ],
-  "OmaDB": [
-    "topGO"
-  ],
+  "OmaDB": [],
   "OncoScore": [
     "biomaRt"
   ],
@@ -1774,7 +1758,6 @@
     "BgeeDB",
     "GenomicFeatures",
     "ensembldb",
-    "topGO",
     "zellkonverter",
     "rtracklayer"
   ],
@@ -1977,7 +1960,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "RolDE": [],
   "Rqc": [
     "biovizBase",
     "GenomicFiles",
@@ -1992,9 +1974,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SBGNview": [
-    "pathview"
-  ],
+  "SBGNview": [],
   "SCAN.UPC": [
     "sva",
     "genefilter",
@@ -2341,7 +2321,6 @@
     "biomaRt"
   ],
   "ViSEAGO": [
-    "topGO",
     "biomaRt"
   ],
   "Voyager": [],
@@ -2470,7 +2449,6 @@
     "bumphunter"
   ],
   "arrayQualityMetrics": [
-    "beadarray",
     "genefilter",
     "annotate"
   ],
@@ -2513,7 +2491,6 @@
     "genefilter"
   ],
   "batchelor": [],
-  "beadarray": [],
   "bedbaser": [
     "rtracklayer"
   ],
@@ -2595,9 +2572,7 @@
     "genefilter",
     "annotate"
   ],
-  "blima": [
-    "beadarray"
-  ],
+  "blima": [],
   "bnbc": [
     "sva",
     "genefilter",
@@ -2705,9 +2680,7 @@
     "scater",
     "scran"
   ],
-  "cellity": [
-    "topGO"
-  ],
+  "cellity": [],
   "cfDNAPro": [
     "plyranges",
     "BSgenome",
@@ -2846,7 +2819,6 @@
     "VariantAnnotation"
   ],
   "compEpiTools": [
-    "topGO",
     "GenomicFeatures",
     "methylPipe",
     "rtracklayer",
@@ -2861,9 +2833,7 @@
     "distinct",
     "scater"
   ],
-  "consICA": [
-    "topGO"
-  ],
+  "consICA": [],
   "consensusDE": [
     "EDASeq",
     "ensembldb",
@@ -3047,7 +3017,6 @@
     "clusterProfiler",
     "sva",
     "enrichplot",
-    "pathview",
     "genefilter"
   ],
   "decompTumor2Sig": [
@@ -3153,7 +3122,6 @@
     "annotate",
     "EnrichmentBrowser",
     "graphite",
-    "pathview",
     "safe"
   ],
   "drugTargetInteractions": [
@@ -3200,9 +3168,7 @@
   "epidecodeR": [
     "rtracklayer"
   ],
-  "epigenomix": [
-    "beadarray"
-  ],
+  "epigenomix": [],
   "epigraHMM": [
     "rtracklayer",
     "GreyListChIP",
@@ -3312,7 +3278,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "esetVis": [],
   "extraChIPs": [
     "rtracklayer"
   ],
@@ -3606,7 +3571,6 @@
     "BSgenome"
   ],
   "ideal": [
-    "topGO",
     "mosdef",
     "goseq",
     "GOstats",
@@ -3660,7 +3624,6 @@
   "isobar": [
     "biomaRt"
   ],
-  "isomiRs": [],
   "karyoploteR": [
     "regioneR",
     "rtracklayer",
@@ -3956,9 +3919,7 @@
   "mnem": [
     "Linnorm"
   ],
-  "moanin": [
-    "topGO"
-  ],
+  "moanin": [],
   "mobileRNA": [
     "rtracklayer"
   ],
@@ -3974,7 +3935,6 @@
     "rtracklayer"
   ],
   "mosdef": [
-    "topGO",
     "clusterProfiler",
     "goseq",
     "enrichplot",
@@ -4191,11 +4151,9 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "pathview": [],
   "pcaExplorer": [
     "mosdef",
     "genefilter",
-    "topGO",
     "GOstats",
     "biomaRt",
     "annotate",
@@ -4883,7 +4841,6 @@
   "syntenet": [
     "rtracklayer"
   ],
-  "systemPipeR": [],
   "tLOH": [
     "VariantAnnotation",
     "rtracklayer",
@@ -4894,9 +4851,7 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "tRanslatome": [
-    "topGO"
-  ],
+  "tRanslatome": [],
   "tadar": [
     "Gviz",
     "VariantAnnotation",
@@ -4939,7 +4894,6 @@
     "annotate"
   ],
   "tomoda": [],
-  "topGO": [],
   "topdownr": [
     "MSnbase"
   ],
@@ -4960,8 +4914,7 @@
     "rtracklayer"
   ],
   "transcriptogramer": [
-    "biomaRt",
-    "topGO"
+    "biomaRt"
   ],
   "transformGamPoi": [],
   "transmogR": [
@@ -5052,7 +5005,6 @@
     "regioneR",
     "rtracklayer",
     "ensembldb",
-    "systemPipeR",
     "GreyListChIP",
     "BSgenome"
   ],
@@ -5100,7 +5052,6 @@
     "EnrichmentBrowser",
     "GSEABase",
     "graphite",
-    "pathview",
     "safe",
     "annotate"
   ],

@@ -1329,3 +1329,11 @@ segmentSeq
 diffcoexp
 miRNAtap
 mslp
+beadarray
+esetVis
+isomiRs
+MSstatsShiny
+pathview
+RolDE
+systemPipeR
+topGO
