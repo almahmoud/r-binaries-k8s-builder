@@ -1313,3 +1313,5 @@ tpSVG
 xenLite
 POWSC
 celaref
+lemur
+transformGamPoi
