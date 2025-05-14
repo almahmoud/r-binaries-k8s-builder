@@ -833,7 +833,6 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "HiTC": [],
   "HicAggR": [],
   "HilbertVis": [],
   "HilbertVisGUI": [
@@ -1006,7 +1005,6 @@
     "MSstatsQC",
     "MSnbase"
   ],
-  "Macarron": [],
   "MatrixQCvis": [
     "ExperimentHub",
     "sva",
@@ -1086,7 +1084,6 @@
   "MsDataHub": [
     "ExperimentHub"
   ],
-  "MsQuality": [],
   "MultiBaC": [
     "ropls",
     "MultiDataSet"
@@ -2124,7 +2121,6 @@
   "condiments": [
     "distinct"
   ],
-  "consICA": [],
   "consensusDE": [
     "EDASeq",
     "ensembldb",
@@ -2498,10 +2494,7 @@
   "flowGate": [
     "ggcyto"
   ],
-  "flowStats": [],
-  "flowVS": [
-    "flowStats"
-  ],
+  "flowVS": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",

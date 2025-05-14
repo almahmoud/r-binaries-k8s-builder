@@ -1459,3 +1459,8 @@ ExCluster
 IdeoViz
 PeacoQC
 tidySpatialExperiment
+consICA
+flowStats
+HiTC
+Macarron
+MsQuality
