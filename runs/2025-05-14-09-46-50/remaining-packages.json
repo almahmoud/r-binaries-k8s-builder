@@ -335,9 +335,7 @@
   "CNTools": [
     "genefilter"
   ],
-  "CNVRanger": [
-    "GDSArray"
-  ],
+  "CNVRanger": [],
   "CNVrd2": [
     "VariantAnnotation",
     "rtracklayer",
@@ -833,7 +831,6 @@
     "GenomicAlignments"
   ],
   "EpiTxDb": [
-    "Modstrings",
     "GenomicFeatures",
     "txdbmaker",
     "tRNAdbImport",
@@ -943,14 +940,12 @@
     "GenomicDataCommons",
     "enrichplot"
   ],
-  "GDSArray": [],
   "GEOexplorer": [
     "sva",
     "GEOquery",
     "genefilter"
   ],
   "GEOquery": [],
-  "GMRP": [],
   "GNET2": [],
   "GNOSIS": [
     "cBioPortalData",
@@ -1180,7 +1175,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "IMMAN": [],
   "INSPEcT": [
     "GenomicFeatures",
     "GenomicAlignments",
@@ -1208,7 +1202,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "IgGeneUsage": [],
   "InPAS": [
     "BSgenome",
     "cleanUpdTSeq",
@@ -1252,7 +1245,6 @@
     "sva",
     "genefilter"
   ],
-  "LOLA": [],
   "LRcell": [
     "ExperimentHub"
   ],
@@ -1353,7 +1345,6 @@
     "scater",
     "scuttle"
   ],
-  "MICSQTL": [],
   "MIRA": [
     "bsseq",
     "BSgenome",
@@ -1396,7 +1387,6 @@
     "scran",
     "scuttle"
   ],
-  "MPRAnalyze": [],
   "MSA2dist": [],
   "MSPrep": [
     "sva",
@@ -1429,7 +1419,6 @@
     "MultiAssayExperiment"
   ],
   "MWASTools": [],
-  "Macarron": [],
   "MatrixQCvis": [
     "ExperimentHub",
     "sva",
@@ -1511,7 +1500,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "Modstrings": [],
   "MoleculeExperiment": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -1642,7 +1630,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "OVESEG": [],
   "OmicCircos": [],
   "Organism.dplyr": [
     "GenomicFeatures",
@@ -1726,8 +1713,6 @@
     "enrichplot",
     "graphite"
   ],
-  "Pirat": [],
-  "PolySTest": [],
   "PrInCE": [
     "MSnbase",
     "PSMatch",
@@ -1867,7 +1852,6 @@
     "BSgenome"
   ],
   "RNAmodR": [
-    "Modstrings",
     "txdbmaker",
     "GenomicFeatures",
     "GenomicAlignments",
@@ -1887,13 +1871,11 @@
     "BSgenome",
     "biovizBase",
     "GenomicAlignments",
-    "Modstrings",
     "txdbmaker",
     "VariantAnnotation"
   ],
   "RNAmodR.ML": [
     "RNAmodR",
-    "Modstrings",
     "txdbmaker",
     "GenomicFeatures",
     "GenomicAlignments",
@@ -1913,7 +1895,6 @@
     "BSgenome",
     "biovizBase",
     "GenomicAlignments",
-    "Modstrings",
     "txdbmaker",
     "VariantAnnotation"
   ],
@@ -2040,7 +2021,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "RolDE": [],
   "Rqc": [
     "ShortRead",
     "biovizBase",
@@ -2086,7 +2066,6 @@
   "SCnorm": [
     "SingleCellExperiment"
   ],
-  "SDAMS": [],
   "SEraster": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -2281,7 +2260,6 @@
     "GenomicAlignments",
     "BSgenome"
   ],
-  "SubCellBarCode": [],
   "SurfR": [
     "SPsimSeq",
     "SingleCellExperiment"
@@ -2369,7 +2347,6 @@
     "MultiAssayExperiment",
     "genefilter"
   ],
-  "TREG": [],
   "TRESS": [
     "rtracklayer",
     "GenomicFeatures",
@@ -2403,7 +2380,6 @@
   "TreeSummarizedExperiment": [
     "SingleCellExperiment"
   ],
-  "Trendy": [],
   "UCell": [
     "SingleCellExperiment"
   ],
@@ -2469,9 +2445,7 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "VariantExperiment": [
-    "GDSArray"
-  ],
+  "VariantExperiment": [],
   "VariantFiltering": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -2806,7 +2780,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "cTRAP": [],
   "cageminer": [
     "ggbio",
     "BioNERO",
@@ -3593,7 +3566,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "geneRxCluster": [],
   "geneXtendeR": [
     "rtracklayer",
     "GenomicAlignments"
@@ -3622,7 +3594,6 @@
   "gep2pep": [
     "GSEABase"
   ],
-  "getDEE2": [],
   "ggbio": [
     "biovizBase",
     "GenomicAlignments",
@@ -3852,7 +3823,6 @@
     "genefilter"
   ],
   "ipdDb": [],
-  "isomiRs": [],
   "ivygapSE": [],
   "jazzPanda": [
     "SpatialExperiment",
@@ -4093,7 +4063,6 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "methylscaper": [],
   "methylumi": [
     "minfi",
     "genefilter",
@@ -5306,19 +5275,15 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "tRNA": [
-    "Modstrings"
-  ],
+  "tRNA": [],
   "tRNAdbImport": [
-    "Modstrings",
     "tRNA"
   ],
   "tRNAscanImport": [
     "tRNA",
     "rtracklayer",
     "BSgenome",
-    "GenomicAlignments",
-    "Modstrings"
+    "GenomicAlignments"
   ],
   "tadar": [
     "Gviz",
