@@ -747,7 +747,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "Dune": [],
   "DuplexDiscovereR": [
     "InteractionSet",
     "Gviz",
@@ -946,7 +945,6 @@
     "genefilter"
   ],
   "GEOquery": [],
-  "GNET2": [],
   "GNOSIS": [
     "cBioPortalData",
     "MultiAssayExperiment",
@@ -1387,7 +1385,6 @@
     "scran",
     "scuttle"
   ],
-  "MSA2dist": [],
   "MSPrep": [
     "sva",
     "genefilter"
@@ -1418,7 +1415,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "MWASTools": [],
   "MatrixQCvis": [
     "ExperimentHub",
     "sva",
@@ -1443,7 +1439,6 @@
   ],
   "MetaboSignal": [
     "hpar",
-    "MWASTools",
     "mygene",
     "ensembldb",
     "ExperimentHub",
@@ -1630,7 +1625,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "OmicCircos": [],
   "Organism.dplyr": [
     "GenomicFeatures",
     "rtracklayer",
@@ -3159,7 +3153,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "customCMPdb": [],
   "customProDB": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -3171,7 +3164,6 @@
   "cydar": [
     "SingleCellExperiment"
   ],
-  "cypress": [],
   "cytofQC": [
     "CATALYST",
     "SingleCellExperiment",
@@ -3313,7 +3305,6 @@
   ],
   "doubletrouble": [
     "syntenet",
-    "MSA2dist",
     "GenomicFeatures",
     "rtracklayer",
     "GenomicAlignments"
