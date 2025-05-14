@@ -1600,7 +1600,6 @@
     "biomaRt"
   ],
   "MsBackendMassbank": [],
-  "MsBackendMgf": [],
   "MsBackendSql": [],
   "MsDataHub": [
     "ExperimentHub",
@@ -3272,7 +3271,6 @@
     "scater",
     "BiocSingular"
   ],
-  "cytoviewer": [],
   "dada2": [
     "ShortRead"
   ],
@@ -5030,7 +5028,6 @@
   "scran": [
     "BiocSingular"
   ],
-  "screenCounter": [],
   "scruff": [
     "GenomicFeatures",
     "txdbmaker",
