@@ -1564,3 +1564,6 @@ transcriptogramer
 ginmappeR
 isobar
 surfaltr
+CoverageView
+CytoMDS
+peco
