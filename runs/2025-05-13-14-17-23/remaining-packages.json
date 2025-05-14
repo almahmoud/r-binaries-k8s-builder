@@ -720,7 +720,6 @@
   "CrispRVariants": [
     "AnnotationDbi"
   ],
-  "CuratedAtlasQueryR": [],
   "CytoDx": [],
   "CytoMDS": [
     "CytoPipeline",
@@ -1498,7 +1497,6 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "HoloFoodR": [],
   "HybridExpress": [],
   "IMAS": [
     "GenomicFeatures",
@@ -1923,7 +1921,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "MoleculeExperiment": [],
   "Moonlight2R": [
     "clusterProfiler",
     "DOSE",
@@ -4789,32 +4786,20 @@
     "graphite",
     "biomaRt"
   ],
-  "iSEE": [],
-  "iSEEde": [
-    "iSEE"
-  ],
+  "iSEEde": [],
   "iSEEfier": [
-    "iSEE",
     "iSEEu",
     "iSEEhex"
   ],
-  "iSEEhex": [
-    "iSEE"
-  ],
+  "iSEEhex": [],
   "iSEEhub": [
     "ExperimentHub",
     "AnnotationHub",
-    "iSEE",
     "AnnotationDbi"
   ],
-  "iSEEindex": [
-    "iSEE"
-  ],
-  "iSEEpathways": [
-    "iSEE"
-  ],
+  "iSEEindex": [],
+  "iSEEpathways": [],
   "iSEEtree": [
-    "iSEE",
     "miaViz",
     "mia",
     "scater",
@@ -4822,7 +4807,6 @@
     "BiocSingular"
   ],
   "iSEEu": [
-    "iSEE",
     "iSEEhex"
   ],
   "icetea": [
@@ -4875,7 +4859,6 @@
     "AnnotationDbi"
   ],
   "immunotation": [],
-  "infercnv": [],
   "infinityFlow": [],
   "intansv": [
     "ggbio",
@@ -5228,7 +5211,6 @@
     "BiocSingular"
   ],
   "miaDash": [
-    "iSEE",
     "iSEEtree",
     "mia",
     "scater",

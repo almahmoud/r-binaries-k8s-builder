@@ -1037,3 +1037,8 @@ CTSV
 glmGamPoi
 PLSDAbatch
 fishpond
+CuratedAtlasQueryR
+HoloFoodR
+infercnv
+iSEE
+MoleculeExperiment

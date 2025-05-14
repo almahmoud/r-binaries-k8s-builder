@@ -1315,3 +1315,7 @@ POWSC
 celaref
 lemur
 transformGamPoi
+iSEEde
+iSEEhex
+iSEEindex
+iSEEpathways
