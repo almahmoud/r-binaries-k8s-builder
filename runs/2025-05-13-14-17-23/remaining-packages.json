@@ -419,9 +419,7 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "CNVRanger": [
-    "RaggedExperiment"
-  ],
+  "CNVRanger": [],
   "CNVfilteR": [
     "regioneR",
     "karyoploteR",
@@ -1159,7 +1157,6 @@
   ],
   "GNOSIS": [
     "cBioPortalData",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "AnnotationDbi",
@@ -1922,7 +1919,6 @@
     "AnnotationDbi"
   ],
   "MsBackendMassbank": [],
-  "MsBackendMetaboLights": [],
   "MsBackendMgf": [],
   "MsBackendMsp": [],
   "MsBackendRawFileReader": [],
@@ -2403,7 +2399,6 @@
     "ShortRead"
   ],
   "RTCGAToolbox": [
-    "RaggedExperiment",
     "TCGAutils",
     "AnnotationDbi",
     "GenomicFeatures",
@@ -2429,7 +2424,6 @@
   "RadioGx": [
     "CoreGx"
   ],
-  "RaggedExperiment": [],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -2596,7 +2590,6 @@
     "BSgenome"
   ],
   "SARC": [
-    "RaggedExperiment",
     "plyranges",
     "GenomicFeatures",
     "AnnotationDbi",
@@ -2784,7 +2777,6 @@
     "rtracklayer"
   ],
   "SpatialCPie": [],
-  "SpatialDecon": [],
   "SpatialExperimentIO": [
     "DropletUtils",
     "scuttle"
@@ -2870,7 +2862,6 @@
   "TCGAutils": [
     "AnnotationDbi",
     "GenomicFeatures",
-    "RaggedExperiment",
     "rtracklayer"
   ],
   "TCseq": [],
@@ -3347,7 +3338,6 @@
     "DOSE",
     "clusterProfiler",
     "ReactomePA",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "enrichplot",
@@ -3463,7 +3453,6 @@
     "rtracklayer"
   ],
   "cBioPortalData": [
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "AnnotationDbi",
@@ -3495,7 +3484,6 @@
     "cBioPortalData",
     "GSEABase",
     "phenoTest",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "annotate",
@@ -3530,7 +3518,6 @@
   "cbaf": [
     "cBioPortalData",
     "genefilter",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "AnnotationDbi",
@@ -4541,7 +4528,6 @@
     "TCGAutils",
     "AnnotationDbi",
     "GenomicFeatures",
-    "RaggedExperiment",
     "rtracklayer"
   ],
   "globaltest": [
@@ -5388,9 +5374,7 @@
   "omicplotR": [
     "ALDEx2"
   ],
-  "omicsPrint": [
-    "RaggedExperiment"
-  ],
+  "omicsPrint": [],
   "ontoProc": [
     "AnnotationHub",
     "AnnotationDbi"
@@ -6435,7 +6419,6 @@
     "AnnotationDbi"
   ],
   "terraTCGAdata": [
-    "RaggedExperiment",
     "TCGAutils",
     "AnnotationDbi",
     "GenomicFeatures",
@@ -6459,7 +6442,6 @@
     "InteractionSet",
     "rtracklayer"
   ],
-  "tidytof": [],
   "tigre": [
     "AnnotationDbi",
     "annotate"

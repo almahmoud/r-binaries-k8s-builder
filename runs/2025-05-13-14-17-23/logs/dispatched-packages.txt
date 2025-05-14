@@ -1339,3 +1339,5 @@ structToolbox
 alabaster.mae
 alabaster.sce
 BulkSignalR
+CNVRanger
+omicsPrint

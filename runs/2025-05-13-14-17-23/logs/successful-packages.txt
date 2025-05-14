@@ -1133,3 +1133,7 @@ GENESIS
 MAPFX
 orthogene
 tRNAdbImport
+MsBackendMetaboLights
+RaggedExperiment
+SpatialDecon
+tidytof
