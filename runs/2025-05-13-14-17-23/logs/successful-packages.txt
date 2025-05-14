@@ -800,3 +800,6 @@ GeomxTools
 h5vc
 microbiome
 mzID
+G4SNVHunter
+sangeranalyseR
+SynExtend

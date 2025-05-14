@@ -1737,7 +1737,6 @@
   "FuseSOM": [
     "SummarizedExperiment"
   ],
-  "G4SNVHunter": [],
   "GA4GHclient": [
     "VariantAnnotation",
     "SummarizedExperiment",
@@ -4424,7 +4423,6 @@
     "AnnotationDbi",
     "SingleCellExperiment"
   ],
-  "SynExtend": [],
   "TADCompare": [
     "HiCcompare",
     "InteractionSet",
@@ -9147,7 +9145,6 @@
     "AnnotationDbi",
     "biomaRt"
   ],
-  "sangeranalyseR": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
