@@ -1469,3 +1469,11 @@ HicAggR
 InTAD
 MultiDataSet
 ReactomeGSA
+APL
+epidecodeR
+groHMM
+MSnbase
+pram
+rmspc
+roar
+SCANVIS

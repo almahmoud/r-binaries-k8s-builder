@@ -1699,3 +1699,17 @@ ropls
 spiky
 tRNAscanImport
 traseR
+CluMSID
+DAPAR
+DEP
+MSstatsQC
+PrInCE
+RMassBank
+msmsEDA
+omXplore
+peakPantheR
+ptairMS
+qPLEXanalyzer
+synapter
+topdownr
+xcms
