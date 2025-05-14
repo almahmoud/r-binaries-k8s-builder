@@ -1320,3 +1320,9 @@ IONiseR
 MesKit
 miRNAmeConverter
 nucleR
+basecallQC
+chipseq
+DOSE
+girafe
+goTools
+segmentSeq
