@@ -1172,7 +1172,6 @@
     "BSgenome"
   ],
   "NetSAM": [],
-  "NewWave": [],
   "NoRCE": [
     "GenomicFeatures"
   ],
@@ -1645,7 +1644,6 @@
   "SplicingGraphs": [
     "GenomicFeatures"
   ],
-  "StabMap": [],
   "Statial": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation",
@@ -2318,9 +2316,7 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "cyanoFilter": [
-    "flowDensity"
-  ],
+  "cyanoFilter": [],
   "cytofQC": [
     "CATALYST"
   ],
@@ -2340,9 +2336,7 @@
     "mnem",
     "graphite"
   ],
-  "ddPCRclust": [
-    "flowDensity"
-  ],
+  "ddPCRclust": [],
   "debrowser": [
     "annotate",
     "sva",
@@ -2577,16 +2571,12 @@
   "flowBin": [
     "flowFP"
   ],
-  "flowCut": [
-    "flowDensity"
-  ],
-  "flowDensity": [],
+  "flowCut": [],
   "flowFP": [],
   "flowGate": [
     "ggcyto"
   ],
   "flowStats": [],
-  "flowTrans": [],
   "flowVS": [
     "flowStats"
   ],
@@ -3211,7 +3201,6 @@
     "GSEABase",
     "annotate"
   ],
-  "pathRender": [],
   "pathlinkR": [],
   "pcaExplorer": [
     "mosdef",

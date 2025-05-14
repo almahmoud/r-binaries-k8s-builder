@@ -1447,3 +1447,8 @@ CaDrA
 tradeSeq
 COTAN
 scmap
+flowDensity
+flowTrans
+NewWave
+pathRender
+StabMap
