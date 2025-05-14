@@ -784,3 +784,10 @@ nempi
 piano
 simona
 SparseArray
+Biostrings
+cola
+MsBackendMetaboLights
+MsBackendRawFileReader
+MsBackendSql
+SpectraQL
+uSORT
