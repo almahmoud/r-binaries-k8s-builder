@@ -94,7 +94,6 @@
   ],
   "BOBaFIT": [
     "ggbio",
-    "plyranges",
     "biovizBase",
     "VariantAnnotation",
     "GenomicFeatures",
@@ -105,8 +104,7 @@
   "BSgenomeForge": [],
   "BUSpaRse": [
     "ensembldb",
-    "GenomicFeatures",
-    "plyranges"
+    "GenomicFeatures"
   ],
   "BadRegionFinder": [
     "VariantAnnotation",
@@ -389,7 +387,6 @@
     "GenomicFeatures",
     "ggbio",
     "goseq",
-    "plyranges",
     "biovizBase",
     "VariantAnnotation",
     "OrganismDbi",
@@ -410,7 +407,6 @@
   ],
   "DegCre": [
     "plotgardener",
-    "plyranges",
     "GenomicFeatures"
   ],
   "DegNorm": [
@@ -631,7 +627,6 @@
     "txdbmaker"
   ],
   "GenomicPlot": [
-    "plyranges",
     "RCAS",
     "GenomicFeatures",
     "genomation",
@@ -701,8 +696,7 @@
   ],
   "InPAS": [
     "cleanUpdTSeq",
-    "GenomicFeatures",
-    "plyranges"
+    "GenomicFeatures"
   ],
   "IntEREst": [
     "GenomicFiles",
@@ -1208,7 +1202,6 @@
     "ensembldb"
   ],
   "SARC": [
-    "plyranges",
     "GenomicFeatures"
   ],
   "SCAN.UPC": [
@@ -1271,7 +1264,6 @@
   ],
   "SingleCellSignalR": [],
   "SingleMoleculeFootprinting": [
-    "plyranges",
     "QuasR",
     "GenomicFeatures",
     "txdbmaker",
@@ -1297,7 +1289,6 @@
   "SplicingGraphs": [
     "GenomicFeatures"
   ],
-  "Statial": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -1377,8 +1368,7 @@
   "Ularcirc": [
     "GenomicFeatures",
     "Organism.dplyr",
-    "plotgardener",
-    "plyranges"
+    "plotgardener"
   ],
   "Uniquorn": [
     "VariantAnnotation",
@@ -1412,7 +1402,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "VegaMC": [],
   "ViSEAGO": [],
   "XDE": [
     "genefilter",
@@ -1645,9 +1634,7 @@
     "GenomicFeatures"
   ],
   "celda": [],
-  "cfDNAPro": [
-    "plyranges"
-  ],
+  "cfDNAPro": [],
   "cfTools": [
     "ExperimentHub"
   ],
@@ -2020,7 +2007,6 @@
     "GSVA",
     "ExperimentHub"
   ],
-  "extraChIPs": [],
   "fCCAC": [
     "genomation"
   ],
@@ -2044,7 +2030,6 @@
     "CAMERA"
   ],
   "flowBin": [],
-  "flowGate": [],
   "flowVS": [],
   "funtooNorm": [
     "minfi",
@@ -2215,7 +2200,6 @@
     "ensembldb"
   ],
   "katdetectr": [
-    "plyranges",
     "VariantAnnotation",
     "GenomicFeatures"
   ],
@@ -2266,7 +2250,6 @@
     "TRESS"
   ],
   "mariner": [
-    "plyranges",
     "plotgardener"
   ],
   "maser": [
@@ -2309,7 +2292,6 @@
   "methylCC": [
     "minfi",
     "bsseq",
-    "plyranges",
     "bumphunter",
     "genefilter",
     "GenomicFeatures"
@@ -2448,7 +2430,6 @@
     "CRISPRseek",
     "GenomicFeatures",
     "karyoploteR",
-    "plyranges",
     "regioneR",
     "biovizBase",
     "VariantAnnotation",
@@ -2473,7 +2454,6 @@
     "xcms"
   ],
   "nearBynding": [
-    "plyranges",
     "GenomicFeatures"
   ],
   "nempi": [
@@ -2489,9 +2469,7 @@
   "npGSEA": [
     "GSEABase"
   ],
-  "nullranges": [
-    "plyranges"
-  ],
+  "nullranges": [],
   "octad": [
     "RUVSeq",
     "ExperimentHub",
@@ -2563,13 +2541,8 @@
   ],
   "pipeComp": [],
   "pipeFrame": [],
-  "plotgardener": [
-    "plyranges"
-  ],
-  "plyinteractions": [
-    "plyranges"
-  ],
-  "plyranges": [],
+  "plotgardener": [],
+  "plyinteractions": [],
   "podkat": [],
   "pogos": [
     "ontoProc"
@@ -2978,7 +2951,6 @@
     "GenomicFeatures"
   ],
   "tidyomics": [
-    "plyranges",
     "nullranges"
   ],
   "tigre": [],

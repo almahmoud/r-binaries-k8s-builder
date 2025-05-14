@@ -1535,3 +1535,8 @@ pdInfoBuilder
 CytoPipeline
 InterCellar
 MEB
+extraChIPs
+flowGate
+plyranges
+Statial
+VegaMC
