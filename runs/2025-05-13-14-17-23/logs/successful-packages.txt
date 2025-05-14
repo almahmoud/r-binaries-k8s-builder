@@ -1157,3 +1157,7 @@ marr
 SimBu
 SpatialCPie
 XAItest
+AnnotationDbi
+InteractionSet
+pairkat
+scReClassify
