@@ -1025,3 +1025,8 @@ CellTrails
 ClusterFoldSimilarity
 clustifyr
 MAST
+maaslin3
+MuData
+Nebulosa
+SingleCellAlleleExperiment
+SPOTlight

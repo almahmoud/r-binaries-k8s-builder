@@ -1981,7 +1981,6 @@
     "MsExperiment",
     "QFeatures"
   ],
-  "MuData": [],
   "MultiBaC": [
     "ropls",
     "MultiDataSet"
@@ -2037,7 +2036,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "Nebulosa": [],
   "NetActivity": [],
   "NetSAM": [
     "biomaRt",
@@ -2750,7 +2748,6 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "SPOTlight": [],
   "SPsimSeq": [
     "AnnotationDbi"
   ],
@@ -2794,7 +2791,6 @@
     "GenomicFeatures"
   ],
   "SimBu": [],
-  "SingleCellAlleleExperiment": [],
   "SingleCellSignalR": [
     "scran",
     "scuttle",
@@ -3401,7 +3397,6 @@
   "benchdamic": [
     "zinbwave",
     "ALDEx2",
-    "maaslin3",
     "genefilter",
     "AnnotationDbi",
     "annotate"
@@ -5022,7 +5017,6 @@
   "maPredictDSC": [
     "AnnotationDbi"
   ],
-  "maaslin3": [],
   "magpie": [
     "rtracklayer",
     "GenomicFeatures",
