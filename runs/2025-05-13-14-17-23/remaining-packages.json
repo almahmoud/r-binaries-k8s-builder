@@ -1560,7 +1560,6 @@
   "MeSHDbi": [],
   "Melissa": [],
   "MesKit": [],
-  "MetCirc": [],
   "MetMashR": [],
   "MetNet": [],
   "MetaCyto": [
@@ -1830,7 +1829,6 @@
     "genefilter",
     "annotate"
   ],
-  "PICB": [],
   "PICS": [],
   "PING": [
     "PICS",
@@ -1889,7 +1887,6 @@
   "PeacoQC": [
     "flowWorkspace"
   ],
-  "PhIPData": [],
   "PhenStat": [],
   "PhyloProfile": [
     "ExperimentHub",
@@ -2876,9 +2873,7 @@
   "bedbaser": [
     "rtracklayer"
   ],
-  "beer": [
-    "PhIPData"
-  ],
+  "beer": [],
   "benchdamic": [
     "zinbwave",
     "genefilter",
@@ -3287,7 +3282,6 @@
     "GenomicFeatures",
     "annotate"
   ],
-  "corral": [],
   "coseq": [],
   "cosmiq": [
     "xcms",
@@ -5180,7 +5174,6 @@
   "scHiCcompare": [
     "HiCcompare"
   ],
-  "scMET": [],
   "scMerge": [
     "BiocSingular",
     "M3Drop",
@@ -5251,7 +5244,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "sccomp": [],
   "scds": [],
   "scifer": [],
   "scmap": [],
