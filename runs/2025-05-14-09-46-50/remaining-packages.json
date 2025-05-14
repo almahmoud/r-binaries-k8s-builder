@@ -17,9 +17,7 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "ASICS": [
-    "ropls"
-  ],
+  "ASICS": [],
   "ASSIGN": [
     "sva"
   ],
@@ -1033,9 +1031,7 @@
   "MsQuality": [
     "MsExperiment"
   ],
-  "MultiBaC": [
-    "ropls"
-  ],
+  "MultiBaC": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",
@@ -1108,7 +1104,6 @@
   "PAST": [
     "rtracklayer"
   ],
-  "PDATK": [],
   "PECA": [],
   "PICB": [],
   "POMA": [
@@ -1821,9 +1816,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "biosigner": [
-    "ropls"
-  ],
+  "biosigner": [],
   "biovizBase": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -2631,9 +2624,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "lipidr": [
-    "ropls"
-  ],
+  "lipidr": [],
   "lisaClust": [
     "spicyR",
     "ClassifyR"
@@ -3008,9 +2999,7 @@
   "phenoTest": [
     "Category"
   ],
-  "phenomis": [
-    "ropls"
-  ],
+  "phenomis": [],
   "pipeComp": [
     "scran",
     "scater"
@@ -3211,10 +3200,7 @@
   "roar": [
     "rtracklayer"
   ],
-  "ropls": [],
-  "rqt": [
-    "ropls"
-  ],
+  "rqt": [],
   "rtracklayer": [],
   "sampleClassifier": [],
   "saseR": [
@@ -3249,7 +3235,6 @@
     "rtracklayer"
   ],
   "scDesign3": [],
-  "scDiagnostics": [],
   "scDotPlot": [
     "scater"
   ],
@@ -3584,7 +3569,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "treeclimbR": [],
   "treekoR": [],
   "tricycle": [
     "scater"

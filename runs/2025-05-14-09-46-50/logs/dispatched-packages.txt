@@ -1561,3 +1561,9 @@ splatter
 spoon
 velociraptor
 MSnbase
+ASICS
+MultiBaC
+biosigner
+lipidr
+phenomis
+rqt

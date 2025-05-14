@@ -1383,3 +1383,7 @@ cytoviewer
 FEAST
 PhosR
 simpleSeg
+PDATK
+ropls
+scDiagnostics
+treeclimbR
