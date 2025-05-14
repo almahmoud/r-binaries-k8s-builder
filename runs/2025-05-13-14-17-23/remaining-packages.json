@@ -193,7 +193,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "BRAIN": [],
   "BSgenome": [
     "rtracklayer"
   ],
@@ -1165,7 +1164,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "GMRP": [],
   "GNOSIS": [
     "cBioPortalData",
     "RaggedExperiment",
@@ -1752,7 +1750,6 @@
     "scran",
     "scuttle"
   ],
-  "MPRAnalyze": [],
   "MSPrep": [
     "sva",
     "genefilter",
@@ -3332,7 +3329,6 @@
     "genefilter",
     "QFeatures"
   ],
-  "barcodetrackR": [],
   "basecallQC": [
     "ShortRead"
   ],
@@ -3735,7 +3731,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "clusterSeq": [],
   "cn.farms": [],
   "coMethDMR": [
     "AnnotationHub",
@@ -5382,7 +5377,6 @@
   "netboost": [
     "AnnotationDbi"
   ],
-  "nipalsMCIA": [],
   "normr": [
     "rtracklayer"
   ],
@@ -5979,7 +5973,6 @@
     "scran",
     "scuttle"
   ],
-  "scMultiSim": [],
   "scPCA": [],
   "scPipe": [
     "AnnotationDbi",
@@ -6001,7 +5994,6 @@
   "scRepertoire": [],
   "scTGIF": [
     "GSEABase",
-    "schex",
     "annotate",
     "AnnotationDbi"
   ],
@@ -6014,7 +6006,6 @@
     "GOstats",
     "ReactomePA",
     "DOSE",
-    "schex",
     "GSEABase",
     "genefilter",
     "annotate",
@@ -6054,7 +6045,6 @@
   ],
   "sccomp": [],
   "scds": [],
-  "schex": [],
   "scifer": [],
   "scmap": [],
   "scmeth": [
@@ -6412,7 +6402,6 @@
     "AnnotationDbi"
   ],
   "survClust": [],
-  "survtype": [],
   "sva": [
     "genefilter",
     "AnnotationDbi",
@@ -6728,7 +6717,6 @@
     "annotate",
     "rtracklayer"
   ],
-  "zFPKM": [],
   "zellkonverter": [],
   "zenith": [
     "EnrichmentBrowser",

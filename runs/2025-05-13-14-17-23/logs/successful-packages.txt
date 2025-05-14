@@ -1105,3 +1105,13 @@ Sconify
 sigFeature
 struct
 vsclust
+barcodetrackR
+BRAIN
+clusterSeq
+GMRP
+MPRAnalyze
+nipalsMCIA
+schex
+scMultiSim
+survtype
+zFPKM
