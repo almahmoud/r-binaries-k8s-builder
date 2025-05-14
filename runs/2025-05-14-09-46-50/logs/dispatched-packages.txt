@@ -686,3 +686,6 @@ paircompviz
 clstutils
 flowDensity
 flowFP
+BiGGR
+MetaCyto
+TMixClust

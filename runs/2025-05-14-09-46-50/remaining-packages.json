@@ -784,9 +784,7 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "BiGGR": [
-    "hyperdraw"
-  ],
+  "BiGGR": [],
   "BiSeq": [
     "IRanges",
     "GenomicRanges",
@@ -1158,7 +1156,6 @@
   "CATALYST": [
     "SingleCellExperiment",
     "ComplexHeatmap",
-    "FlowSOM",
     "SummarizedExperiment",
     "scater",
     "IRanges",
@@ -2184,7 +2181,6 @@
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "ncdfFlow",
     "flowWorkspace",
     "ComplexHeatmap",
     "IRanges",
@@ -2199,7 +2195,6 @@
     "openCyto",
     "RBGL",
     "ggcyto",
-    "ncdfFlow",
     "DelayedArray",
     "flowClust",
     "IRanges",
@@ -2210,7 +2205,6 @@
   "CytoPipeline": [
     "ggcyto",
     "PeacoQC",
-    "ncdfFlow",
     "flowWorkspace",
     "ComplexHeatmap",
     "IRanges",
@@ -2224,7 +2218,6 @@
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "ncdfFlow",
     "flowWorkspace",
     "ComplexHeatmap",
     "IRanges",
@@ -3449,7 +3442,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "FlowSOM": [],
   "FuseSOM": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -4538,7 +4530,6 @@
     "Rsamtools",
     "GenomeInfoDb",
     "DESeq2",
-    "plgem",
     "rtracklayer",
     "SummarizedExperiment",
     "Biostrings",
@@ -5656,9 +5647,7 @@
     "SparseArray",
     "XVector"
   ],
-  "MetaCyto": [
-    "FlowSOM"
-  ],
+  "MetaCyto": [],
   "MetaNeighbor": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -6475,7 +6464,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "OncoSimulR": [],
   "OrderedList": [
     "twilight"
   ],
@@ -6811,7 +6799,6 @@
     "flowWorkspace",
     "IRanges",
     "RBGL",
-    "ncdfFlow",
     "DelayedArray",
     "S4Arrays",
     "SparseArray",
@@ -7585,7 +7572,6 @@
     "SparseArray"
   ],
   "RUVcorr": [],
-  "RUVnormalize": [],
   "RadioGx": [
     "CoreGx",
     "SummarizedExperiment",
@@ -7641,7 +7627,6 @@
     "SparseArray",
     "XVector"
   ],
-  "RbcBook1": [],
   "Rbec": [
     "dada2",
     "Biostrings",
@@ -8303,7 +8288,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "SPEM": [],
   "SPIA": [
     "KEGGgraph"
   ],
@@ -8819,7 +8803,6 @@
     "XVector",
     "h5mread"
   ],
-  "SpeCond": [],
   "Spectra": [
     "IRanges",
     "MetaboCoreUtils"
@@ -8955,7 +8938,6 @@
     "S4Arrays",
     "diffcyt",
     "SparseArray",
-    "FlowSOM",
     "ComplexHeatmap",
     "XVector"
   ],
@@ -9343,9 +9325,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "TMixClust": [
-    "SPEM"
-  ],
+  "TMixClust": [],
   "TOAST": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -9449,7 +9429,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "TargetDecoy": [],
   "TargetScore": [],
   "TileDBArray": [
     "SparseArray",
@@ -11309,7 +11288,6 @@
   "censcyt": [
     "diffcyt",
     "SummarizedExperiment",
-    "FlowSOM",
     "ComplexHeatmap",
     "GenomicRanges",
     "IRanges",
@@ -11695,7 +11673,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "clstutils": [],
   "clustSIGNAL": [
     "SpatialExperiment",
     "scater",
@@ -12419,7 +12396,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "ComplexHeatmap",
-    "FlowSOM",
     "scater",
     "GenomicRanges",
     "DelayedArray",
@@ -12827,7 +12803,6 @@
     "Biostrings"
   ],
   "diffcyt": [
-    "FlowSOM",
     "SummarizedExperiment",
     "ComplexHeatmap",
     "IRanges",
@@ -12852,7 +12827,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "discordant": [],
   "distinct": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -13054,7 +13028,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "eiR": [],
   "eisaR": [
     "GenomicRanges",
     "IRanges",
@@ -13571,7 +13544,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "fedup": [],
   "ffpe": [
     "affy",
     "lumi",
@@ -13652,7 +13624,6 @@
   "flowBin": [
     "flowFP"
   ],
-  "flowCHIC": [],
   "flowClust": [],
   "flowCut": [
     "flowDensity"
@@ -13663,20 +13634,17 @@
     "flowWorkspace",
     "ggcyto",
     "RBGL",
-    "ncdfFlow",
     "DelayedArray",
     "IRanges",
     "S4Arrays",
     "SparseArray",
     "XVector"
   ],
-  "flowMatch": [],
   "flowMerge": [
     "flowClust"
   ],
   "flowStats": [
     "flowWorkspace",
-    "ncdfFlow",
     "RBGL",
     "DelayedArray",
     "IRanges",
@@ -13684,14 +13652,12 @@
     "SparseArray",
     "XVector"
   ],
-  "flowTime": [],
   "flowTrans": [
     "flowClust"
   ],
   "flowVS": [
     "flowStats",
     "flowWorkspace",
-    "ncdfFlow",
     "RBGL",
     "DelayedArray",
     "IRanges",
@@ -13701,7 +13667,6 @@
   ],
   "flowWorkspace": [
     "RBGL",
-    "ncdfFlow",
     "DelayedArray",
     "IRanges",
     "S4Arrays",
@@ -14074,7 +14039,6 @@
     "biomaRt"
   ],
   "ggcyto": [
-    "ncdfFlow",
     "flowWorkspace",
     "RBGL",
     "DelayedArray",
@@ -14516,7 +14480,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "hyperdraw": [],
   "iCNV": [
     "CODEX",
     "Rsamtools",
@@ -14895,7 +14858,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "islify": [],
   "isobar": [
     "biomaRt",
     "AnnotationDbi",
@@ -15262,7 +15224,6 @@
     "Biostrings",
     "GenomeInfoDb"
   ],
-  "maSigPro": [],
   "maaslin3": [
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
@@ -15804,7 +15765,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "mfa": [],
   "miQC": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -16653,7 +16613,6 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "ncdfFlow": [],
   "nearBynding": [
     "plyranges",
     "Rsamtools",
@@ -16711,7 +16670,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "netresponse": [],
   "ngsReports": [
     "Biostrings",
     "IRanges",
@@ -16971,7 +16929,6 @@
     "Biostrings"
   ],
   "openCyto": [
-    "ncdfFlow",
     "flowWorkspace",
     "flowClust",
     "RBGL",
@@ -17446,7 +17403,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "plgem": [],
   "plier": [
     "affy"
   ],
@@ -20064,7 +20020,6 @@
     "CATALYST",
     "SingleCellExperiment",
     "ComplexHeatmap",
-    "FlowSOM",
     "scater",
     "GenomicRanges",
     "IRanges",
@@ -20846,7 +20801,6 @@
     "TreeSummarizedExperiment",
     "SummarizedExperiment",
     "diffcyt",
-    "FlowSOM",
     "ComplexHeatmap",
     "GenomicRanges",
     "IRanges",
@@ -20861,7 +20815,6 @@
   "treekoR": [
     "SingleCellExperiment",
     "diffcyt",
-    "FlowSOM",
     "SummarizedExperiment",
     "ComplexHeatmap",
     "GenomicRanges",
