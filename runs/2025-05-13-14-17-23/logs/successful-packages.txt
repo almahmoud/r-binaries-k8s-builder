@@ -1051,3 +1051,4 @@ VisiumIO
 crlmm
 ggsc
 hoodscanR
+SpotClean
