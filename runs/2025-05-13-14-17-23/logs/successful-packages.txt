@@ -747,3 +747,14 @@ ngsReports
 procoil
 rBLAST
 Rsamtools
+affyILM
+GBScleanR
+GDSArray
+ggseqalign
+MethTargetedNGS
+MSA2dist
+packFinder
+QSutils
+rfaRm
+rhinotypeR
+sangerseqR

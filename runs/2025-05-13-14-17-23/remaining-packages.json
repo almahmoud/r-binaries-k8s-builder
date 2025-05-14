@@ -693,7 +693,6 @@
   "CNVPanelizer": [],
   "CNVRanger": [
     "RaggedExperiment",
-    "GDSArray",
     "SummarizedExperiment"
   ],
   "CNVfilteR": [
@@ -1908,7 +1907,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "GBScleanR": [],
   "GDCRNATools": [
     "DESeq2",
     "clusterProfiler",
@@ -1923,7 +1921,6 @@
     "KEGGREST",
     "ggtree"
   ],
-  "GDSArray": [],
   "GENESIS": [
     "SeqVarTools"
   ],
@@ -2900,7 +2897,6 @@
   "MPRAnalyze": [
     "SummarizedExperiment"
   ],
-  "MSA2dist": [],
   "MSPrep": [
     "SummarizedExperiment",
     "sva",
@@ -3081,7 +3077,6 @@
     "KEGGREST",
     "GenomicAlignments"
   ],
-  "MethTargetedNGS": [],
   "MethylAid": [
     "minfi",
     "SummarizedExperiment",
@@ -3755,7 +3750,6 @@
     "SummarizedExperiment",
     "AnnotationFilter"
   ],
-  "QSutils": [],
   "QTLExperiment": [
     "SummarizedExperiment"
   ],
@@ -5155,8 +5149,7 @@
     "GenomicAlignments"
   ],
   "VariantExperiment": [
-    "SummarizedExperiment",
-    "GDSArray"
+    "SummarizedExperiment"
   ],
   "VariantFiltering": [
     "VariantAnnotation",
@@ -5305,7 +5298,6 @@
     "KEGGREST"
   ],
   "adverSCarial": [],
-  "affyILM": [],
   "affycoretools": [
     "GOstats",
     "AnnotationDbi",
@@ -6904,7 +6896,6 @@
   ],
   "doubletrouble": [
     "syntenet",
-    "MSA2dist",
     "AnnotationDbi",
     "GenomicFeatures",
     "KEGGREST",
@@ -7604,7 +7595,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "ggseqalign": [],
   "ggspavis": [
     "SpatialExperiment",
     "SingleCellExperiment",
@@ -9193,7 +9183,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "packFinder": [],
   "padma": [
     "SummarizedExperiment",
     "MultiAssayExperiment"
@@ -9779,7 +9768,6 @@
     "AnnotationFilter"
   ],
   "rfPred": [],
-  "rfaRm": [],
   "rgsepd": [
     "DESeq2",
     "goseq",
@@ -9793,7 +9781,6 @@
     "GenomicAlignments"
   ],
   "rhdf5client": [],
-  "rhinotypeR": [],
   "riboSeqR": [
     "baySeq"
   ],
@@ -9890,10 +9877,8 @@
     "KEGGREST"
   ],
   "sangeranalyseR": [
-    "DECIPHER",
-    "sangerseqR"
+    "DECIPHER"
   ],
-  "sangerseqR": [],
   "sarks": [],
   "saseR": [
     "ASpli",
@@ -10201,7 +10186,6 @@
   ],
   "scifer": [
     "DECIPHER",
-    "sangerseqR",
     "flowCore"
   ],
   "scmap": [
