@@ -1,7 +1,5 @@
 {
-  "ACE": [
-    "QDNAseq"
-  ],
+  "ACE": [],
   "ADAM": [
     "KEGGREST",
     "SummarizedExperiment",
@@ -698,7 +696,6 @@
     "karyoploteR",
     "CopyNumberPlots",
     "VariantAnnotation",
-    "cn.mops",
     "rtracklayer",
     "biovizBase",
     "GenomicFeatures",
@@ -716,7 +713,6 @@
     "regioneR",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "cn.mops",
     "rtracklayer",
     "biovizBase",
     "GenomicFeatures",
@@ -1149,7 +1145,6 @@
     "regioneR",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "cn.mops",
     "rtracklayer",
     "biovizBase",
     "GenomicFeatures",
@@ -1916,9 +1911,7 @@
     "KEGGREST",
     "ggtree"
   ],
-  "GENESIS": [
-    "SeqVarTools"
-  ],
+  "GENESIS": [],
   "GEOexplorer": [
     "sva",
     "GEOquery",
@@ -2113,9 +2106,7 @@
     "SummarizedExperiment",
     "GenomicAlignments"
   ],
-  "GeneBreak": [
-    "QDNAseq"
-  ],
+  "GeneBreak": [],
   "GeneGeneInteR": [],
   "GeneMeta": [
     "genefilter",
@@ -3443,7 +3434,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "OmicsMLRepoR": [],
   "OncoScore": [
     "biomaRt",
     "AnnotationDbi",
@@ -3736,7 +3726,6 @@
     "BSgenome",
     "KEGGREST"
   ],
-  "QDNAseq": [],
   "QFeatures": [
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -3798,7 +3787,6 @@
     "KEGGREST",
     "rtracklayer",
     "GenomicFeatures",
-    "SeqVarTools",
     "SummarizedExperiment",
     "GenomicAlignments"
   ],
@@ -4530,7 +4518,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "SeqVarTools": [],
   "ShortRead": [
     "GenomicAlignments",
     "SummarizedExperiment"
@@ -5724,7 +5711,6 @@
     "DelayedMatrixStats",
     "SummarizedExperiment",
     "rtracklayer",
-    "QDNAseq",
     "dmrseq",
     "ExperimentHub",
     "AnnotationHub",
@@ -5987,9 +5973,7 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "cfdnakit": [
-    "QDNAseq"
-  ],
+  "cfdnakit": [],
   "cghMCR": [
     "CNTools",
     "genefilter",
@@ -6225,7 +6209,6 @@
     "oligo",
     "SummarizedExperiment"
   ],
-  "cn.mops": [],
   "cnvGSA": [],
   "coMethDMR": [
     "AnnotationHub",
@@ -7182,7 +7165,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "eudysbiome": [],
   "evaluomeR": [
     "SummarizedExperiment",
     "MultiAssayExperiment"
@@ -9179,9 +9161,7 @@
     "SummarizedExperiment",
     "KEGGREST"
   ],
-  "panelcn.mops": [
-    "cn.mops"
-  ],
+  "panelcn.mops": [],
   "partCNV": [
     "SingleCellExperiment",
     "AnnotationHub",
@@ -9377,7 +9357,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "pqsfinder": [],
   "pram": [
     "GenomicAlignments",
     "rtracklayer",
@@ -9730,7 +9709,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "rfPred": [],
   "rgsepd": [
     "DESeq2",
     "goseq",

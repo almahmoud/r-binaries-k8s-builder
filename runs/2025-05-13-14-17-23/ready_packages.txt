@@ -1,7 +1,5 @@
-ADAPT
-RCM
-RPA
-SIAMCAT
-microbiome
-microbiomeDASim
-reconsi
+ACE
+GENESIS
+GeneBreak
+cfdnakit
+panelcn.mops

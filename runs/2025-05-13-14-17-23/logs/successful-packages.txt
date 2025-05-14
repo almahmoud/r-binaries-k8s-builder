@@ -771,3 +771,10 @@ rSWeeP
 SICtools
 SimFFPE
 TEQC
+cn.mops
+eudysbiome
+OmicsMLRepoR
+pqsfinder
+QDNAseq
+rfPred
+SeqVarTools
