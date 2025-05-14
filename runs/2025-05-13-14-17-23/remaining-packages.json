@@ -1428,7 +1428,6 @@
   "GenomicSuperSignature": [],
   "GeoTcgaData": [],
   "Glimma": [],
-  "GloScope": [],
   "GlobalAncova": [
     "globaltest",
     "annotate",
@@ -1464,8 +1463,6 @@
     "VariantAnnotation"
   ],
   "HERON": [],
-  "HIPPO": [],
-  "HTSFilter": [],
   "HarmonizR": [
     "sva",
     "genefilter",
@@ -1654,7 +1651,6 @@
   "LiquidAssociation": [
     "AnnotationDbi"
   ],
-  "LoomExperiment": [],
   "M3Drop": [
     "scater",
     "scuttle",
@@ -1880,7 +1876,6 @@
   "MetaCyto": [
     "FlowSOM"
   ],
-  "MetaNeighbor": [],
   "MetaPhOR": [
     "clusterProfiler",
     "AnnotationDbi",
@@ -2414,8 +2409,7 @@
     "clusterProfiler",
     "enrichplot",
     "DOSE",
-    "GOSemSim",
-    "HTSFilter"
+    "GOSemSim"
   ],
   "RITAN": [
     "BgeeDB",
@@ -3969,9 +3963,7 @@
     "annotate"
   ],
   "corral": [],
-  "coseq": [
-    "HTSFilter"
-  ],
+  "coseq": [],
   "cosmiq": [
     "xcms",
     "MSnbase",

@@ -1271,3 +1271,4 @@ switchde
 tidySingleCellExperiment
 waddR
 zellkonverter
+coseq
