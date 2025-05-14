@@ -1464,3 +1464,8 @@ flowStats
 HiTC
 Macarron
 MsQuality
+BSgenome
+HicAggR
+InTAD
+MultiDataSet
+ReactomeGSA
