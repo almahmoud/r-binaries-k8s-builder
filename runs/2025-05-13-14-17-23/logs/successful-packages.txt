@@ -1391,3 +1391,10 @@ MetMashR
 safe
 scifer
 SPsimSeq
+celaref
+KEGGlincs
+keggorthology
+LinkHD
+quantiseqr
+SubCellBarCode
+treekoR

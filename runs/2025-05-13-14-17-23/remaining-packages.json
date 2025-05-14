@@ -1024,7 +1024,6 @@
     "AnnotationHub",
     "annotate"
   ],
-  "KEGGlincs": [],
   "KnowSeq": [
     "sva",
     "genefilter",
@@ -1042,7 +1041,6 @@
     "ExperimentHub",
     "AnnotationHub"
   ],
-  "LinkHD": [],
   "Linnorm": [],
   "M3Drop": [
     "scater"
@@ -1842,15 +1840,12 @@
     "GenomicFeatures"
   ],
   "StabMap": [],
-  "Statial": [
-    "treekoR"
-  ],
+  "Statial": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation",
     "GenomicFeatures",
     "BSgenome"
   ],
-  "SubCellBarCode": [],
   "SurfR": [
     "TCGAbiolinks",
     "biomaRt"
@@ -2315,7 +2310,6 @@
     "annotate",
     "GenomicFeatures"
   ],
-  "celaref": [],
   "celda": [
     "scater",
     "scran"
@@ -2720,7 +2714,6 @@
     "GenomicFeatures"
   ],
   "easier": [
-    "quantiseqr",
     "ExperimentHub",
     "AnnotationHub"
   ],
@@ -3135,7 +3128,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "keggorthology": [],
   "kissDE": [
     "DSS",
     "bsseq",
@@ -3707,7 +3699,6 @@
     "genefilter",
     "annotate"
   ],
-  "quantiseqr": [],
   "quantro": [
     "minfi",
     "bumphunter",
@@ -4241,7 +4232,6 @@
     "BSgenome"
   ],
   "treeclimbR": [],
-  "treekoR": [],
   "tricycle": [
     "scater"
   ],
