@@ -2020,3 +2020,17 @@ iNETgrate
 yarn
 svaNUMT
 svaRetro
+AHMassBank
+ExperimentHubData
+GA4GHshiny
+IntEREst
+QuasR
+RESOLVE
+RnBeads
+TFutils
+VCFArray
+VaSP
+derfinder
+dreamlet
+lumi
+missMethyl
