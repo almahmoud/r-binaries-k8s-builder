@@ -1437,3 +1437,15 @@ msmsEDA
 muscat
 omXplore
 RMassBank
+breakpointR
+Cepo
+cosmosR
+GlobalAncova
+mia
+peco
+PICB
+pRoloc
+scBFA
+ShortRead
+TissueEnrich
+VplotR
