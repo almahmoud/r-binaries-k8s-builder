@@ -248,7 +248,6 @@
     "CAMERA"
   ],
   "IVAS": [],
-  "InPAS": [],
   "IntEREst": [
     "GenomicFiles"
   ],
@@ -411,7 +410,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "Rmmquant": [],
   "RnBeads": [
     "methylumi",
     "minfi"
@@ -452,7 +450,6 @@
   ],
   "SpaNorm": [],
   "StructuralVariantAnnotation": [],
-  "SurfR": [],
   "TBSignatureProfiler": [
     "ASSIGN"
   ],
@@ -673,7 +670,6 @@
   ],
   "easier": [],
   "easyRNASeq": [],
-  "edge": [],
   "enhancerHomologSearch": [
     "motifmatchr"
   ],
@@ -726,7 +722,6 @@
   "funtooNorm": [
     "minfi"
   ],
-  "geneAttribution": [],
   "geomeTriD": [
     "trackViewer",
     "Gviz",
