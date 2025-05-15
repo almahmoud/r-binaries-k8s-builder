@@ -2000,3 +2000,5 @@ bnem
 cBioPortalData
 interactiveDisplay
 ensembldb
+BgeeCall
+EventPointer

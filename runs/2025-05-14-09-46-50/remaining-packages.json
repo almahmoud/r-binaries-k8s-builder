@@ -24,7 +24,6 @@
   ],
   "BUSpaRse": [],
   "BadRegionFinder": [],
-  "BgeeCall": [],
   "BubbleTree": [
     "biovizBase"
   ],
@@ -87,7 +86,6 @@
   ],
   "EpiCompare": [],
   "EpiMix": [],
-  "EventPointer": [],
   "ExperimentHubData": [],
   "FLAMES": [
     "ggbio",
