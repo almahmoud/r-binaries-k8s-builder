@@ -61,7 +61,6 @@
   "COCOA": [],
   "CSSQ": [],
   "CTexploreR": [],
-  "CellMixS": [],
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
@@ -214,7 +213,6 @@
   "OMICsPCA": [
     "HelloRanges"
   ],
-  "Organism.dplyr": [],
   "OutSplice": [],
   "POMA": [],
   "PRONE": [
@@ -305,7 +303,6 @@
     "biovizBase",
     "ensembldb"
   ],
-  "SpaNorm": [],
   "TBSignatureProfiler": [],
   "TFutils": [],
   "TOP": [],
@@ -314,9 +311,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "Ularcirc": [
-    "Organism.dplyr"
-  ],
+  "Ularcirc": [],
   "VCFArray": [],
   "VaSP": [],
   "VariantFiltering": [
@@ -336,7 +331,6 @@
     "biovizBase",
     "ensembldb"
   ],
-  "appreci8R": [],
   "arrayMvout": [
     "lumi"
   ],
