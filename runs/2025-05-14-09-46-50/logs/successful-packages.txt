@@ -1739,3 +1739,9 @@ MethylSeekR
 Motif2Site
 ORFhunteR
 TCGAutils
+lisaClust
+Repitools
+SparseSignatures
+TAPseq
+TFBSTools
+VarCon

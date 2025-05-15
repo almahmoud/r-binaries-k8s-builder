@@ -1,5 +1,5 @@
-DiffBind
-RTCGAToolbox
-glmSparseNet
-selectKSigs
-terraTCGAdata
+MatrixRider
+chromVAR
+monaLisa
+motifStack
+motifmatchr

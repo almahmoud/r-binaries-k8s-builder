@@ -16,8 +16,7 @@
     "VariantAnnotation"
   ],
   "ATACseqTFEA": [
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "AgiMicroRna": [
     "affycoretools",
@@ -386,17 +385,14 @@
   ],
   "MSPrep": [],
   "MatrixQCvis": [],
-  "MatrixRider": [
-    "TFBSTools"
-  ],
+  "MatrixRider": [],
   "MetaboSignal": [
     "mygene",
     "ensembldb",
     "txdbmaker"
   ],
   "MethReg": [
-    "sesame",
-    "TFBSTools"
+    "sesame"
   ],
   "MethylAid": [
     "minfi",
@@ -547,7 +543,6 @@
     "VariantAnnotation"
   ],
   "RegEnrich": [],
-  "Repitools": [],
   "ReportingTools": [
     "ggbio",
     "biovizBase",
@@ -629,7 +624,6 @@
     "txdbmaker"
   ],
   "SpaNorm": [],
-  "SparseSignatures": [],
   "SpectralTAD": [],
   "SpliceWiz": [],
   "StructuralVariantAnnotation": [
@@ -637,14 +631,12 @@
   ],
   "SurfR": [],
   "TADCompare": [],
-  "TAPseq": [],
   "TBSignatureProfiler": [
     "ASSIGN"
   ],
   "TENET": [
     "sesame"
   ],
-  "TFBSTools": [],
   "TFHAZ": [
     "ORFik",
     "txdbmaker"
@@ -677,7 +669,6 @@
     "ballgown"
   ],
   "VanillaICE": [],
-  "VarCon": [],
   "VariantAnnotation": [],
   "VariantFiltering": [
     "VariantAnnotation",
@@ -730,8 +721,7 @@
     "bumphunter"
   ],
   "atSNP": [
-    "motifStack",
-    "TFBSTools"
+    "motifStack"
   ],
   "ballgown": [],
   "bambu": [],
@@ -809,9 +799,7 @@
     "VariantAnnotation"
   ],
   "chipenrich": [],
-  "chromVAR": [
-    "TFBSTools"
-  ],
+  "chromVAR": [],
   "cicero": [
     "Gviz",
     "ensembldb",
@@ -905,8 +893,7 @@
     "txdbmaker"
   ],
   "dagLogo": [
-    "motifStack",
-    "TFBSTools"
+    "motifStack"
   ],
   "debrowser": [],
   "decompTumor2Sig": [
@@ -956,8 +943,7 @@
   "easyRNASeq": [],
   "edge": [],
   "enhancerHomologSearch": [
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "ensembldb": [],
   "epimutacions": [
@@ -971,8 +957,7 @@
     "txdbmaker"
   ],
   "epiregulon": [
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "epivizr": [
     "epivizrData",
@@ -1003,7 +988,6 @@
   "esATAC": [
     "pipeFrame",
     "ChIPseeker",
-    "TFBSTools",
     "motifmatchr"
   ],
   "fCCAC": [
@@ -1118,7 +1102,6 @@
   "lineagespot": [
     "VariantAnnotation"
   ],
-  "lisaClust": [],
   "lumi": [
     "methylumi",
     "minfi",
@@ -1205,23 +1188,16 @@
   ],
   "mobileRNA": [],
   "mogsa": [],
-  "monaLisa": [
-    "TFBSTools"
-  ],
-  "motifStack": [
-    "TFBSTools"
-  ],
+  "monaLisa": [],
+  "motifStack": [],
   "motifbreakR": [
     "VariantAnnotation",
     "motifStack",
     "Gviz",
     "ensembldb",
-    "biovizBase",
-    "TFBSTools"
+    "biovizBase"
   ],
-  "motifmatchr": [
-    "TFBSTools"
-  ],
+  "motifmatchr": [],
   "msgbsR": [
     "easyRNASeq",
     "ggbio",
@@ -1254,8 +1230,7 @@
   ],
   "orthos": [],
   "pageRank": [
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "periodicDNA": [],
   "phantasus": [],
@@ -1266,7 +1241,6 @@
   ],
   "primirTSS": [
     "Gviz",
-    "TFBSTools",
     "ensembldb",
     "biovizBase",
     "VariantAnnotation"
@@ -1333,8 +1307,7 @@
     "EDASeq",
     "motifStack",
     "RUVSeq",
-    "txdbmaker",
-    "TFBSTools"
+    "txdbmaker"
   ],
   "rmspc": [],
   "rnaEditr": [
@@ -1428,7 +1401,6 @@
   "spatzie": [
     "GenomicInteractions",
     "motifmatchr",
-    "TFBSTools",
     "Gviz",
     "ensembldb",
     "biovizBase",
