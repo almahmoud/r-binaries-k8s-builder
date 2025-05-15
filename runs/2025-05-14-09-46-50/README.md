@@ -5,13 +5,14 @@
 ## Summary
 
 - 2179 packages built successfully
-- 13 packages failed to build
-- 5 packages not yet processed
+- 14 packages failed to build
+- 4 packages not yet processed
 
-## Failed Builds (13)
+## Failed Builds (14)
 | Package                                                                            | Status   | Log                                     | BBS Status                                                                   | Failure Reasons                                                  |
 |------------------------------------------------------------------------------------|----------|-----------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------|
 | [BulkSignalR](https://bioconductor.org/packages/3.22/bioc/html/BulkSignalR.html)   | Failed   | [Log](logs/BulkSignalR/build-fail.log)  | [ERROR](https://bioconductor.org/checkResults/3.22/bioc-LATEST/BulkSignalR)  | Build failed with unknown error                                  |
+| [ChAMP](https://bioconductor.org/packages/3.22/bioc/html/ChAMP.html)               | Failed   | [Log](logs/ChAMP/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/ChAMP)           | Build failed with unknown error                                  |
 | [EpiCompare](https://bioconductor.org/packages/3.22/bioc/html/EpiCompare.html)     | Failed   | [Log](logs/EpiCompare/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/EpiCompare)      | Build failed with unknown error                                  |
 | [LimROTS](https://bioconductor.org/packages/3.22/bioc/html/LimROTS.html)           | Failed   | [Log](logs/LimROTS/build-fail.log)      | [ERROR](https://bioconductor.org/checkResults/3.22/bioc-LATEST/LimROTS)      | Build failed with unknown error                                  |
 | [NormqPCR](https://bioconductor.org/packages/3.22/bioc/html/NormqPCR.html)         | Failed   | [Log](logs/NormqPCR/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/NormqPCR)        | ERROR: dependency ‘qpcR’ is not available for package ‘NormqPCR’ |
@@ -2208,10 +2209,9 @@
 | [zinbwave](https://bioconductor.org/packages/3.22/bioc/html/zinbwave.html)                                       | Built    | [Log](logs/zinbwave/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/zinbwave)                    |
 | [zitools](https://bioconductor.org/packages/3.22/bioc/html/zitools.html)                                         | Built    | [Log](logs/zitools/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/zitools)                     |
 
-## Not Yet Processed (5)
+## Not Yet Processed (4)
 | Package                                                                            | Status      |
 |------------------------------------------------------------------------------------|-------------|
-| [ChAMP](https://bioconductor.org/packages/3.22/bioc/html/ChAMP.html)               | Unprocessed |
 | [crisprDesign](https://bioconductor.org/packages/3.22/bioc/html/crisprDesign.html) | Unprocessed |
 | [crisprShiny](https://bioconductor.org/packages/3.22/bioc/html/crisprShiny.html)   | Unprocessed |
 | [crisprVerse](https://bioconductor.org/packages/3.22/bioc/html/crisprVerse.html)   | Unprocessed |
