@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2178 packages built successfully
+- 2179 packages built successfully
 - 13 packages failed to build
-- 6 packages not yet processed
+- 5 packages not yet processed
 
 ## Failed Builds (13)
 | Package                                                                            | Status   | Log                                     | BBS Status                                                                   | Failure Reasons                                                  |
@@ -25,7 +25,7 @@
 | [snifter](https://bioconductor.org/packages/3.22/bioc/html/snifter.html)           | Failed   | [Log](logs/snifter/build-fail.log)      | [ERROR](https://bioconductor.org/checkResults/3.22/bioc-LATEST/snifter)      | Missing R dependency: basilisk.utils                             |
 | [velociraptor](https://bioconductor.org/packages/3.22/bioc/html/velociraptor.html) | Failed   | [Log](logs/velociraptor/build-fail.log) | [ERROR](https://bioconductor.org/checkResults/3.22/bioc-LATEST/velociraptor) | Build failed with unknown error                                  |
 
-## Successfully Built (2178)
+## Successfully Built (2179)
 | Package                                                                                                          | Status   | Log                                                       | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.22/bioc/html/ABSSeq.html)                                           | Built    | [Log](logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/ABSSeq)                      |
@@ -60,6 +60,7 @@
 | [AWFisher](https://bioconductor.org/packages/3.22/bioc/html/AWFisher.html)                                       | Built    | [Log](logs/AWFisher/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/AWFisher)                    |
 | [AffiXcan](https://bioconductor.org/packages/3.22/bioc/html/AffiXcan.html)                                       | Built    | [Log](logs/AffiXcan/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/AffiXcan)                    |
 | [AffyRNADegradation](https://bioconductor.org/packages/3.22/bioc/html/AffyRNADegradation.html)                   | Built    | [Log](logs/AffyRNADegradation/build-success.log)          | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/AffyRNADegradation)          |
+| [AgiMicroRna](https://bioconductor.org/packages/3.22/bioc/html/AgiMicroRna.html)                                 | Built    | [Log](logs/AgiMicroRna/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/AgiMicroRna)                 |
 | [AllelicImbalance](https://bioconductor.org/packages/3.22/bioc/html/AllelicImbalance.html)                       | Built    | [Log](logs/AllelicImbalance/build-success.log)            | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/AllelicImbalance)            |
 | [AlphaBeta](https://bioconductor.org/packages/3.22/bioc/html/AlphaBeta.html)                                     | Built    | [Log](logs/AlphaBeta/build-success.log)                   | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/AlphaBeta)                   |
 | [AlphaMissenseR](https://bioconductor.org/packages/3.22/bioc/html/AlphaMissenseR.html)                           | Built    | [Log](logs/AlphaMissenseR/build-success.log)              | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/AlphaMissenseR)              |
@@ -2207,10 +2208,9 @@
 | [zinbwave](https://bioconductor.org/packages/3.22/bioc/html/zinbwave.html)                                       | Built    | [Log](logs/zinbwave/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/zinbwave)                    |
 | [zitools](https://bioconductor.org/packages/3.22/bioc/html/zitools.html)                                         | Built    | [Log](logs/zitools/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/zitools)                     |
 
-## Not Yet Processed (6)
+## Not Yet Processed (5)
 | Package                                                                            | Status      |
 |------------------------------------------------------------------------------------|-------------|
-| [AgiMicroRna](https://bioconductor.org/packages/3.22/bioc/html/AgiMicroRna.html)   | Unprocessed |
 | [ChAMP](https://bioconductor.org/packages/3.22/bioc/html/ChAMP.html)               | Unprocessed |
 | [crisprDesign](https://bioconductor.org/packages/3.22/bioc/html/crisprDesign.html) | Unprocessed |
 | [crisprShiny](https://bioconductor.org/packages/3.22/bioc/html/crisprShiny.html)   | Unprocessed |
