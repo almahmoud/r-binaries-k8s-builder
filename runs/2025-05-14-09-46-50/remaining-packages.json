@@ -86,7 +86,6 @@
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
-    "goseq",
     "missMethyl",
     "bsseq",
     "Gviz",
@@ -131,7 +130,6 @@
   ],
   "Damsel": [
     "ggbio",
-    "goseq",
     "biovizBase",
     "OrganismDbi",
     "ensembldb"
@@ -277,7 +275,6 @@
   "MatrixQCvis": [],
   "MatrixRider": [],
   "MetaboSignal": [
-    "mygene",
     "ensembldb"
   ],
   "MethReg": [],
@@ -406,9 +403,7 @@
   "SARC": [],
   "SEtools": [],
   "SGSeq": [],
-  "SMITE": [
-    "goseq"
-  ],
+  "SMITE": [],
   "SNPhood": [],
   "SPLINTER": [
     "Gviz",
@@ -696,7 +691,6 @@
     "ensembldb"
   ],
   "gmapR": [],
-  "goseq": [],
   "gwascat": [],
   "gwasurvivr": [],
   "iCNV": [],
@@ -718,8 +712,6 @@
   "iSEEu": [
     "iSEEhex"
   ],
-  "icetea": [],
-  "igvR": [],
   "immunotation": [],
   "intansv": [
     "ggbio",
@@ -734,7 +726,6 @@
     "bsseq"
   ],
   "lemur": [],
-  "lineagespot": [],
   "lumi": [
     "methylumi"
   ],
@@ -811,7 +802,6 @@
   "musicatk": [
     "decompTumor2Sig"
   ],
-  "mygene": [],
   "myvariant": [],
   "ncGTW": [
     "xcms"
@@ -859,9 +849,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "rgsepd": [
-    "goseq"
-  ],
+  "rgsepd": [],
   "ribosomeProfilingQC": [
     "EDASeq",
     "motifStack",
@@ -957,7 +945,6 @@
     "biovizBase"
   ],
   "tidyCoverage": [],
-  "tidySpatialExperiment": [],
   "tidyomics": [],
   "trackViewer": [
     "Gviz",

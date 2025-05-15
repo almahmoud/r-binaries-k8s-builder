@@ -1844,3 +1844,9 @@ clipper
 customProDB
 fcScan
 minfi
+goseq
+icetea
+igvR
+lineagespot
+mygene
+tidySpatialExperiment

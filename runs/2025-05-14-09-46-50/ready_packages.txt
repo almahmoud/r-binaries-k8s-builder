@@ -1,11 +1,2 @@
-ENmix
-MethylAid
-REMP
-conumee
-deconvR
-funtooNorm
-methylumi
-quantro
-recountmethylation
-shinyMethyl
-shinyepico
+SMITE
+rgsepd
