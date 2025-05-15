@@ -1477,3 +1477,9 @@ vissE
 DEXSeq
 multiGSEA
 npGSEA
+bayNorm
+CelliD
+scDataviz
+SigCheck
+smoppix
+TENxIO

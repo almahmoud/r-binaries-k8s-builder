@@ -250,7 +250,6 @@
   ],
   "CellBarcode": [],
   "CellMixS": [],
-  "CelliD": [],
   "CexoR": [
     "rtracklayer",
     "genomation",
@@ -1303,7 +1302,6 @@
   ],
   "SPsimSeq": [],
   "SeqSQC": [],
-  "SigCheck": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
@@ -1389,7 +1387,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "TENxIO": [],
   "TFBSTools": [
     "BSgenome",
     "rtracklayer"
@@ -1490,15 +1487,12 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "VisiumIO": [
-    "TENxIO"
-  ],
+  "VisiumIO": [],
   "Voyager": [],
   "XDE": [
     "GeneMeta"
   ],
   "XeniumIO": [
-    "TENxIO",
     "VisiumIO"
   ],
   "YAPSA": [
@@ -1599,7 +1593,6 @@
   ],
   "bandle": [],
   "basecallQC": [],
-  "bayNorm": [],
   "bedbaser": [
     "rtracklayer"
   ],
@@ -2881,7 +2874,6 @@
   "scAnnotatR": [],
   "scClassify": [],
   "scDD": [],
-  "scDataviz": [],
   "scDblFinder": [
     "rtracklayer"
   ],
@@ -3035,7 +3027,6 @@
     "lumi",
     "rtracklayer"
   ],
-  "smoppix": [],
   "snifter": [],
   "soGGi": [
     "rtracklayer",
@@ -3245,9 +3236,7 @@
     "MsExperiment"
   ],
   "xcore": [],
-  "xenLite": [
-    "TENxIO"
-  ],
+  "xenLite": [],
   "yarn": [
     "quantro",
     "minfi",
