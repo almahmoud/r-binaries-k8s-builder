@@ -1986,3 +1986,7 @@ rmspc
 iSEEhub
 iSEEpathways
 methylSig
+borealis
+CSSQ
+EDASeq
+transmogR

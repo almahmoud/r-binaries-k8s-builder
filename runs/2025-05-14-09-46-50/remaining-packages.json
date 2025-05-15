@@ -55,7 +55,6 @@
     "biovizBase"
   ],
   "CAMERA": [],
-  "CSSQ": [],
   "CTexploreR": [],
   "ChAMP": [
     "DMRcate",
@@ -86,9 +85,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "DaMiRseq": [
-    "EDASeq"
-  ],
+  "DaMiRseq": [],
   "Damsel": [
     "ggbio",
     "biovizBase",
@@ -101,7 +98,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "EDASeq": [],
   "ELMER": [
     "Gviz",
     "ensembldb",
@@ -118,8 +114,7 @@
   ],
   "GA4GHshiny": [],
   "GARS": [
-    "DaMiRseq",
-    "EDASeq"
+    "DaMiRseq"
   ],
   "GNOSIS": [
     "cBioPortalData"
@@ -245,9 +240,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "RUVSeq": [
-    "EDASeq"
-  ],
+  "RUVSeq": [],
   "ReportingTools": [
     "ggbio",
     "biovizBase",
@@ -330,7 +323,6 @@
     "ensembldb"
   ],
   "bnem": [],
-  "borealis": [],
   "cBioPortalData": [],
   "cageminer": [
     "ggbio",
@@ -373,7 +365,6 @@
     "biovizBase"
   ],
   "consensusDE": [
-    "EDASeq",
     "ensembldb",
     "RUVSeq"
   ],
@@ -506,9 +497,7 @@
   "metaMS": [
     "CAMERA"
   ],
-  "metaseqR2": [
-    "EDASeq"
-  ],
+  "metaseqR2": [],
   "methylGSA": [
     "missMethyl"
   ],
@@ -539,8 +528,7 @@
   ],
   "ncGTW": [],
   "octad": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "orthos": [],
   "pageRank": [
@@ -569,7 +557,6 @@
   ],
   "rgsepd": [],
   "ribosomeProfilingQC": [
-    "EDASeq",
     "RUVSeq"
   ],
   "saseR": [
@@ -591,8 +578,7 @@
   ],
   "scifer": [],
   "scone": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "scruff": [
     "ggbio",
@@ -601,8 +587,7 @@
   ],
   "shinyDSP": [
     "standR",
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "signifinder": [
     "ensembldb"
@@ -627,8 +612,7 @@
     "biovizBase"
   ],
   "standR": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "strandCheckR": [],
   "tadar": [
@@ -642,7 +626,6 @@
     "biovizBase"
   ],
   "transcriptR": [],
-  "transmogR": [],
   "tximeta": [
     "ensembldb"
   ],
