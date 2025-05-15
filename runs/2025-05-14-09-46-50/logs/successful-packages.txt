@@ -2138,3 +2138,6 @@ chevreulShiny
 GenomicOZone
 RiboProfiling
 VariantFiltering
+Damsel
+intansv
+R3CPET

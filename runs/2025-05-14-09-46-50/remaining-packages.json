@@ -12,7 +12,6 @@
     "DMRcate"
   ],
   "DMRcate": [],
-  "Damsel": [],
   "EpiCompare": [],
   "FLAMES": [],
   "HiCDCPlus": [],
@@ -20,7 +19,6 @@
   "MEAL": [],
   "NormqPCR": [],
   "PhenStat": [],
-  "R3CPET": [],
   "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
@@ -61,7 +59,6 @@
     "trackViewer"
   ],
   "immunotation": [],
-  "intansv": [],
   "mCSEA": [],
   "maser": [],
   "methylPipe": [],
