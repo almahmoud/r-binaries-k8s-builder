@@ -1975,3 +1975,7 @@ xcms
 BindingSiteFinder
 miaDash
 NanoMethViz
+CoverageView
+EWCE
+RTCGAToolbox
+SGSeq

@@ -75,13 +75,11 @@
     "ensembldb"
   ],
   "CircSeqAlignTk": [
-    "Rhisat2",
-    "SGSeq"
+    "Rhisat2"
   ],
   "CleanUpRNAseq": [
     "ensembldb"
   ],
-  "CoverageView": [],
   "DAMEfinder": [],
   "DMRcate": [
     "missMethyl",
@@ -111,12 +109,9 @@
     "ensembldb",
     "biovizBase"
   ],
-  "EWCE": [],
   "EpiCompare": [],
   "EpiMix": [],
-  "EventPointer": [
-    "SGSeq"
-  ],
+  "EventPointer": [],
   "ExperimentHubData": [],
   "FLAMES": [
     "ggbio",
@@ -129,8 +124,7 @@
     "EDASeq"
   ],
   "GNOSIS": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "GeneStructureTools": [
     "Gviz",
@@ -254,7 +248,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "RTCGAToolbox": [],
   "RUVSeq": [
     "EDASeq"
   ],
@@ -263,9 +256,7 @@
     "biovizBase",
     "ensembldb"
   ],
-  "Rhisat2": [
-    "SGSeq"
-  ],
+  "Rhisat2": [],
   "RiboProfiling": [
     "ggbio",
     "biovizBase",
@@ -281,7 +272,6 @@
     "ensembldb"
   ],
   "SEtools": [],
-  "SGSeq": [],
   "SPLINTER": [
     "Gviz",
     "ensembldb",
@@ -332,8 +322,7 @@
     "lumi"
   ],
   "bioCancer": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "biomvRCNS": [
     "Gviz",
@@ -345,21 +334,17 @@
   ],
   "bnem": [],
   "borealis": [],
-  "cBioPortalData": [
-    "RTCGAToolbox"
-  ],
+  "cBioPortalData": [],
   "cageminer": [
     "ggbio",
     "biovizBase",
     "ensembldb"
   ],
   "canceR": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "cbaf": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "chevreulPlot": [
     "chevreulProcess",
