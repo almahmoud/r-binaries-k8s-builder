@@ -1823,3 +1823,7 @@ glmSparseNet
 HiContacts
 iSEEde
 KnowSeq
+debrowser
+iSEEindex
+rnaEditr
+vmrseq

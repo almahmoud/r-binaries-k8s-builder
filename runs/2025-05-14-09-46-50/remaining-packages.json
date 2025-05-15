@@ -636,7 +636,6 @@
   "dagLogo": [
     "motifStack"
   ],
-  "debrowser": [],
   "decompTumor2Sig": [],
   "deconvR": [
     "minfi"
@@ -751,7 +750,6 @@
   ],
   "iSEEhex": [],
   "iSEEhub": [],
-  "iSEEindex": [],
   "iSEEpathways": [],
   "iSEEtree": [],
   "iSEEu": [
@@ -922,7 +920,6 @@
     "RUVSeq"
   ],
   "rmspc": [],
-  "rnaEditr": [],
   "saseR": [
     "ASpli",
     "Gviz",
@@ -1043,7 +1040,6 @@
     "biovizBase"
   ],
   "velociraptor": [],
-  "vmrseq": [],
   "vtpnet": [
     "gwascat"
   ],
