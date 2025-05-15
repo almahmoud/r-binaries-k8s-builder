@@ -1819,3 +1819,7 @@ geneAttribution
 InPAS
 Rmmquant
 SurfR
+glmSparseNet
+HiContacts
+iSEEde
+KnowSeq

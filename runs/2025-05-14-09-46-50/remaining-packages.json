@@ -236,7 +236,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "HiContacts": [],
   "HiCool": [],
   "HicAggR": [],
   "IMAS": [
@@ -255,7 +254,6 @@
     "tximeta",
     "ensembldb"
   ],
-  "KnowSeq": [],
   "LimROTS": [],
   "MAGAR": [
     "RnBeads",
@@ -733,7 +731,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "glmSparseNet": [],
   "gmapR": [],
   "goseq": [],
   "gwascat": [],
@@ -748,7 +745,6 @@
     "minfi",
     "OrganismDbi"
   ],
-  "iSEEde": [],
   "iSEEfier": [
     "iSEEu",
     "iSEEhex"
