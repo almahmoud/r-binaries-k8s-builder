@@ -1,0 +1,116 @@
+name: Finish Build Cycle
+
+on:
+  workflow_dispatch:
+    inputs:
+      run_id:
+        description: 'Run ID to finish (default: current from runid file)'
+        required: false
+        type: string
+  workflow_call:
+    inputs:
+      run_id:
+        description: 'Run ID to finish'
+        required: true
+        type: string
+
+jobs:
+  finish-cycle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
+          persist-credentials: true
+
+      - name: Update to latest
+        run: |
+          BRANCH=${GITHUB_REF#refs/heads/}
+          git pull origin ${BRANCH}
+          git reset --hard origin/${BRANCH}
+
+      - name: Save kubeconfig
+        shell: bash
+        run: mkdir -p ~/.kube && echo "${{ secrets.KUBECONFIG }}" > ~/.kube/config
+      
+      - name: Install Kubectl
+        run: |
+          curl -LO "https://storage.googleapis.com/kubernetes-release/release/v1.24.4/bin/linux/amd64/kubectl" && \
+          chmod +x ./kubectl && \
+          mv ./kubectl /usr/local/bin/kubectl && \
+          kubectl version
+
+      - name: Determine Run ID
+        id: get_run_id
+        run: |
+          if [[ -n "${{ inputs.run_id }}" ]]; then
+            RUN_ID="${{ inputs.run_id }}"
+          else
+            RUN_ID=$(cat runid)
+          fi
+          echo "run_id=${RUN_ID}" >> $GITHUB_OUTPUT
+          echo "Using Run ID: ${RUN_ID}"
+
+      - name: Finish Build Cycle
+        env:
+          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+        run: |
+          set -euxo pipefail
+          RUN_ID="${{ steps.get_run_id.outputs.run_id }}"
+          
+          # Verify run directory exists
+          if [[ ! -d "runs/${RUN_ID}" ]]; then
+            echo "Error: Run directory not found: runs/${RUN_ID}"
+            exit 1
+          fi
+          
+          # Get container image
+          CONTAINER=$(cat "runs/${RUN_ID}/CONTAINER_BASE_IMAGE.bioc")
+          echo "Using container image: ${CONTAINER}"
+          
+          # Get Bioc version
+          BIOC_VERSION=$(cat "runs/${RUN_ID}/bioc_version")
+          echo "Using Bioc version: ${BIOC_VERSION}"
+          
+          # Get container name
+          CONTAINER_NAME="bioconductor_docker"
+          if [[ -f "runs/${RUN_ID}/container_name" ]]; then
+            CONTAINER_NAME=$(cat "runs/${RUN_ID}/container_name")
+          fi
+          echo "Using container name: ${CONTAINER_NAME}"
+          
+          # Construct packages URL
+          OLD_PACKAGES_URL="https://storage.googleapis.com/bioconductor-packages/${BIOC_VERSION}/container-binaries/${CONTAINER_NAME}/src/contrib/PACKAGES"
+          echo "Using packages URL: ${OLD_PACKAGES_URL}"
+          
+          # Check for running jobs before finishing
+          NAMESPACE="ns-${RUN_ID}"
+          RUNNING_JOBS=$(kubectl get jobs -n "${NAMESPACE}" -l app=bioc-builder -o name 2>/dev/null | wc -l || echo "0")
+          
+          if [[ "${RUNNING_JOBS}" != "0" ]]; then
+            echo "Warning: ${RUNNING_JOBS} jobs are still running. Proceeding with finish anyway..."
+          fi
+          
+          # Execute finish cycle script
+          bash ./.github/scripts/finish_cycle.sh "${RUN_ID}" "${OLD_PACKAGES_URL}" "${CONTAINER}"
+          
+          # Record completion status
+          echo "Build cycle finished successfully for run: ${RUN_ID}"
+
+      - name: Update README with Run Status
+        run: |
+          bash ./.github/scripts/update_runs_table.sh
+          
+      - name: Commit and Push Results
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add runs/ README.md runs-table.md || true
+          
+          if ! git diff --staged --quiet; then
+            git commit -m "Finish build cycle for run: ${{ steps.get_run_id.outputs.run_id }}"
+            git push || (git pull --rebase && git push)
+          else
+            echo "No changes to commit"
+          fi
