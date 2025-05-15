@@ -2055,3 +2055,5 @@ CleanUpRNAseq
 diffUTR
 drugTargetInteractions
 metaseqR2
+demuxSNP
+RnBeads

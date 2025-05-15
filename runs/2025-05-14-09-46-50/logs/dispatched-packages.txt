@@ -2114,3 +2114,4 @@ standR
 methylGSA
 recount
 regionReport
+MAGAR

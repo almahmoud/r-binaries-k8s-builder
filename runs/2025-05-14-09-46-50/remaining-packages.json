@@ -96,9 +96,7 @@
     "tximeta"
   ],
   "LimROTS": [],
-  "MAGAR": [
-    "RnBeads"
-  ],
+  "MAGAR": [],
   "MAIT": [],
   "MEAL": [
     "Gviz",
@@ -157,7 +155,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "RnBeads": [],
   "RnaSeqSampleSize": [
     "recount"
   ],
@@ -255,7 +252,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "demuxSNP": [],
   "derfinderPlot": [
     "ggbio",
     "biovizBase"
