@@ -2089,3 +2089,5 @@ psichomics
 RnaSeqSampleSize
 scFeatures
 esATAC
+epiregulon
+tximeta

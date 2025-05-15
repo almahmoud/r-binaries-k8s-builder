@@ -90,9 +90,7 @@
     "biovizBase"
   ],
   "IPO": [],
-  "IsoformSwitchAnalyzeR": [
-    "tximeta"
-  ],
+  "IsoformSwitchAnalyzeR": [],
   "LimROTS": [],
   "MAIT": [],
   "MEAL": [
@@ -240,7 +238,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "epiregulon": [],
   "epivizr": [],
   "epivizrChart": [],
   "epivizrStandalone": [
@@ -328,7 +325,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "tximeta": [],
   "uncoverappLib": [
     "Gviz",
     "biovizBase"
