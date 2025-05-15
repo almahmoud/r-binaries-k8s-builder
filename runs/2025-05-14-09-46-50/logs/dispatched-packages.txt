@@ -2012,3 +2012,4 @@ TFHAZ
 GenomicPlot
 circRNAprofiler
 vtpnet
+FRASER

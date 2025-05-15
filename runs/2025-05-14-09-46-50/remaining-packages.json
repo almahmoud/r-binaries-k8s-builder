@@ -174,9 +174,7 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "FRASER": [
-    "OUTRIDER"
-  ],
+  "FRASER": [],
   "GA4GHclient": [],
   "GA4GHshiny": [
     "GA4GHclient"
@@ -298,7 +296,6 @@
   "OMICsPCA": [
     "HelloRanges"
   ],
-  "OUTRIDER": [],
   "Organism.dplyr": [],
   "OrganismDbi": [],
   "OutSplice": [],
@@ -402,7 +399,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "SigsPack": [],
   "SingleCellSignalR": [],
   "SingleMoleculeFootprinting": [
     "QuasR",
