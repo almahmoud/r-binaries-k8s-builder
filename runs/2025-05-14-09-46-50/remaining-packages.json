@@ -107,7 +107,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "BiSeq": [],
   "BindingSiteFinder": [
     "GenomicFeatures"
   ],
@@ -252,7 +251,6 @@
     "SGSeq",
     "GenomicFeatures"
   ],
-  "CiteFuse": [],
   "CleanUpRNAseq": [
     "BSgenome",
     "ensembldb",
@@ -396,7 +394,6 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "ExCluster": [],
   "ExperimentHubData": [
     "AnnotationHubData",
     "GenomicFeatures",
@@ -2125,7 +2122,6 @@
     "GenomicFeatures",
     "rGREAT"
   ],
-  "projectR": [],
   "psichomics": [
     "recount",
     "derfinder",
@@ -2245,7 +2241,6 @@
   ],
   "scPipe": [],
   "scRNAseqApp": [],
-  "scRepertoire": [],
   "scTGIF": [],
   "scTreeViz": [
     "epivizr",
@@ -2480,7 +2475,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "vsclust": [],
   "vtpnet": [
     "gwascat",
     "GenomicFeatures",

@@ -1593,3 +1593,9 @@ annmap
 BloodGen3Module
 hermes
 TCseq
+BiSeq
+CiteFuse
+ExCluster
+projectR
+scRepertoire
+vsclust
