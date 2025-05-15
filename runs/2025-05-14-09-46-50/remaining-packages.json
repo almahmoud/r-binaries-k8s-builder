@@ -55,9 +55,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "CAMERA": [
-    "xcms"
-  ],
+  "CAMERA": [],
   "COCOA": [],
   "CSSQ": [],
   "CTexploreR": [],
@@ -165,7 +163,6 @@
   ],
   "HiCool": [],
   "IPO": [
-    "xcms",
     "CAMERA"
   ],
   "IntEREst": [],
@@ -178,8 +175,7 @@
     "RnBeads"
   ],
   "MAIT": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "MEAL": [
     "Gviz",
@@ -390,9 +386,7 @@
     "biovizBase"
   ],
   "circRNAprofiler": [],
-  "cliqueMS": [
-    "xcms"
-  ],
+  "cliqueMS": [],
   "comapr": [
     "Gviz",
     "ensembldb",
@@ -403,9 +397,7 @@
     "ensembldb",
     "RUVSeq"
   ],
-  "cosmiq": [
-    "xcms"
-  ],
+  "cosmiq": [],
   "crisprDesign": [
     "crisprScore"
   ],
@@ -492,7 +484,6 @@
     "lumi"
   ],
   "flagme": [
-    "xcms",
     "CAMERA"
   ],
   "geomeTriD": [
@@ -535,8 +526,7 @@
     "biovizBase"
   ],
   "metaMS": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "metaseqR2": [
     "EDASeq"
@@ -571,9 +561,7 @@
   "musicatk": [
     "decompTumor2Sig"
   ],
-  "ncGTW": [
-    "xcms"
-  ],
+  "ncGTW": [],
   "octad": [
     "RUVSeq",
     "EDASeq"
@@ -582,7 +570,6 @@
   "pageRank": [
     "motifmatchr"
   ],
-  "periodicDNA": [],
   "primirTSS": [
     "Gviz",
     "ensembldb",
@@ -637,7 +624,6 @@
     "biovizBase",
     "ensembldb"
   ],
-  "selectKSigs": [],
   "shinyDSP": [
     "standR",
     "RUVSeq",
@@ -659,9 +645,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "squallms": [
-    "xcms"
-  ],
+  "squallms": [],
   "srnadiff": [
     "Gviz",
     "ensembldb",
@@ -696,6 +680,5 @@
   "wateRmelon": [
     "lumi"
   ],
-  "xcms": [],
   "yarn": []
 }

@@ -2053,3 +2053,8 @@ kissDE
 methylSig
 profileplyr
 Ularcirc
+CAMERA
+cliqueMS
+cosmiq
+ncGTW
+squallms

@@ -1969,3 +1969,6 @@ methylCC
 myvariant
 SARC
 seqArchRplus
+periodicDNA
+selectKSigs
+xcms
