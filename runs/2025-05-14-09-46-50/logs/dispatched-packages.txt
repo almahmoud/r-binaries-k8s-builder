@@ -1986,3 +1986,6 @@ sitadela
 tLOH
 transmogR
 txcutr
+MethReg
+TENET
+preciseTAD

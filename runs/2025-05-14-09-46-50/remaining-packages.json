@@ -152,7 +152,6 @@
   "DegCre": [],
   "DegNorm": [],
   "DiffBind": [],
-  "Dino": [],
   "DominoEffect": [],
   "DuplexDiscovereR": [
     "Gviz",
@@ -303,9 +302,7 @@
     "mygene",
     "ensembldb"
   ],
-  "MethReg": [
-    "sesame"
-  ],
+  "MethReg": [],
   "MethylAid": [
     "minfi"
   ],
@@ -472,13 +469,10 @@
   "SpectralTAD": [],
   "StructuralVariantAnnotation": [],
   "SurfR": [],
-  "TADCompare": [],
   "TBSignatureProfiler": [
     "ASSIGN"
   ],
-  "TENET": [
-    "sesame"
-  ],
+  "TENET": [],
   "TFHAZ": [
     "ORFik"
   ],
@@ -634,7 +628,6 @@
   "cosmiq": [
     "xcms"
   ],
-  "cpvSNP": [],
   "crisprDesign": [
     "crisprScore"
   ],
@@ -774,7 +767,6 @@
   "glmSparseNet": [],
   "gmapR": [],
   "goseq": [],
-  "groHMM": [],
   "gwascat": [],
   "gwasurvivr": [],
   "hiReadsProcessor": [],
@@ -845,7 +837,6 @@
     "EDASeq",
     "bsseq"
   ],
-  "methrix": [],
   "methylCC": [
     "minfi",
     "bsseq"
@@ -925,9 +916,7 @@
   "periodicDNA": [],
   "phantasus": [],
   "podkat": [],
-  "preciseTAD": [
-    "rCGH"
-  ],
+  "preciseTAD": [],
   "primirTSS": [
     "Gviz",
     "ensembldb",
@@ -949,7 +938,6 @@
     "minfi"
   ],
   "r3Cseq": [],
-  "rCGH": [],
   "rGREAT": [],
   "raer": [],
   "recount": [
@@ -979,7 +967,6 @@
   ],
   "rmspc": [],
   "rnaEditr": [],
-  "sampleClassifier": [],
   "saseR": [
     "ASpli",
     "Gviz",
@@ -1018,7 +1005,6 @@
   ],
   "seqCAT": [],
   "seqsetvis": [],
-  "sesame": [],
   "sevenC": [],
   "shinyDSP": [
     "standR",
@@ -1045,7 +1031,6 @@
   ],
   "snifter": [],
   "soGGi": [],
-  "spatialSimGP": [],
   "spatzie": [
     "GenomicInteractions",
     "motifmatchr",
@@ -1111,7 +1096,6 @@
     "lumi",
     "minfi"
   ],
-  "wavClusteR": [],
   "xcms": [],
   "yarn": [
     "quantro",

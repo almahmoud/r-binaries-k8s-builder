@@ -1777,3 +1777,13 @@ qpgraph
 SpliceWiz
 txdbmaker
 VariantAnnotation
+cpvSNP
+Dino
+groHMM
+methrix
+rCGH
+sampleClassifier
+sesame
+spatialSimGP
+TADCompare
+wavClusteR
