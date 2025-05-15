@@ -2002,3 +2002,8 @@ interactiveDisplay
 ensembldb
 BgeeCall
 EventPointer
+EpiMix
+ExperimentHubData
+GA4GHshiny
+RESOLVE
+yarn

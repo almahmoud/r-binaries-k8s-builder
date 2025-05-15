@@ -85,13 +85,10 @@
     "biovizBase"
   ],
   "EpiCompare": [],
-  "EpiMix": [],
-  "ExperimentHubData": [],
   "FLAMES": [
     "ggbio",
     "biovizBase"
   ],
-  "GA4GHshiny": [],
   "GARS": [
     "DaMiRseq"
   ],
@@ -145,9 +142,7 @@
   "MineICA": [
     "lumi"
   ],
-  "Moonlight2R": [
-    "EpiMix"
-  ],
+  "Moonlight2R": [],
   "NormqPCR": [],
   "OGRE": [
     "Gviz",
@@ -172,7 +167,6 @@
     "biovizBase"
   ],
   "RAIDS": [],
-  "RESOLVE": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder"
@@ -405,9 +399,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "methylclock": [
-    "ExperimentHubData"
-  ],
+  "methylclock": [],
   "missMethyl": [],
   "monaLisa": [],
   "motifbreakR": [
@@ -514,6 +506,5 @@
   "velociraptor": [],
   "wateRmelon": [
     "lumi"
-  ],
-  "yarn": []
+  ]
 }
