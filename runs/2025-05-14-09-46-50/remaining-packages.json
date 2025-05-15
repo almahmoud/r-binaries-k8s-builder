@@ -1189,7 +1189,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "VariantExperiment": [],
   "VariantFiltering": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -1299,7 +1298,6 @@
     "enrichplot",
     "GenomicFeatures"
   ],
-  "biocGraph": [],
   "biomvRCNS": [
     "Gviz",
     "GenomicFeatures",
@@ -1533,7 +1531,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "crumblr": [],
   "cummeRbund": [
     "Gviz",
     "GenomicFeatures",
@@ -2448,7 +2445,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "speckle": [],
   "spicyR": [],
   "spiky": [
     "BSgenome"
@@ -2467,7 +2463,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "stJoincount": [],
   "standR": [
     "RUVSeq",
     "EDASeq",

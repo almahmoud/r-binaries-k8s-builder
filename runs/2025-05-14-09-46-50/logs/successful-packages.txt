@@ -1554,3 +1554,8 @@ mbkmeans
 MsExperiment
 mumosa
 survClust
+biocGraph
+crumblr
+speckle
+stJoincount
+VariantExperiment
