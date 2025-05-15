@@ -4,9 +4,9 @@
 
 ## Summary
 
-- 2107 packages built successfully
+- 2109 packages built successfully
 - 13 packages failed to build
-- 77 packages not yet processed
+- 75 packages not yet processed
 
 ## Failed Builds (13)
 | Package                                                                            | Status   | Log                                     | BBS Status                                                                   | Failure Reasons                                                  |
@@ -25,7 +25,7 @@
 | [snifter](https://bioconductor.org/packages/3.22/bioc/html/snifter.html)           | Failed   | [Log](logs/snifter/build-fail.log)      | [ERROR](https://bioconductor.org/checkResults/3.22/bioc-LATEST/snifter)      | Missing R dependency: basilisk.utils                             |
 | [velociraptor](https://bioconductor.org/packages/3.22/bioc/html/velociraptor.html) | Failed   | [Log](logs/velociraptor/build-fail.log) | [ERROR](https://bioconductor.org/checkResults/3.22/bioc-LATEST/velociraptor) | Build failed with unknown error                                  |
 
-## Successfully Built (2107)
+## Successfully Built (2109)
 | Package                                                                                                          | Status   | Log                                                       | BBS Status                                                                               |
 |------------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [ABSSeq](https://bioconductor.org/packages/3.22/bioc/html/ABSSeq.html)                                           | Built    | [Log](logs/ABSSeq/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/ABSSeq)                      |
@@ -517,6 +517,7 @@
 | [IsoBayes](https://bioconductor.org/packages/3.22/bioc/html/IsoBayes.html)                                       | Built    | [Log](logs/IsoBayes/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/IsoBayes)                    |
 | [IsoCorrectoR](https://bioconductor.org/packages/3.22/bioc/html/IsoCorrectoR.html)                               | Built    | [Log](logs/IsoCorrectoR/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/IsoCorrectoR)                |
 | [IsoCorrectoRGUI](https://bioconductor.org/packages/3.22/bioc/html/IsoCorrectoRGUI.html)                         | Built    | [Log](logs/IsoCorrectoRGUI/build-success.log)             | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/IsoCorrectoRGUI)             |
+| [IsoformSwitchAnalyzeR](https://bioconductor.org/packages/3.22/bioc/html/IsoformSwitchAnalyzeR.html)             | Built    | [Log](logs/IsoformSwitchAnalyzeR/build-success.log)       | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/IsoformSwitchAnalyzeR)       |
 | [KBoost](https://bioconductor.org/packages/3.22/bioc/html/KBoost.html)                                           | Built    | [Log](logs/KBoost/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/KBoost)                      |
 | [KCsmart](https://bioconductor.org/packages/3.22/bioc/html/KCsmart.html)                                         | Built    | [Log](logs/KCsmart/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/KCsmart)                     |
 | [KEGGREST](https://bioconductor.org/packages/3.22/bioc/html/KEGGREST.html)                                       | Built    | [Log](logs/KEGGREST/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/KEGGREST)                    |
@@ -1962,6 +1963,7 @@
 | [sevenC](https://bioconductor.org/packages/3.22/bioc/html/sevenC.html)                                           | Built    | [Log](logs/sevenC/build-success.log)                      | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/sevenC)                      |
 | [sevenbridges](https://bioconductor.org/packages/3.22/bioc/html/sevenbridges.html)                               | Built    | [Log](logs/sevenbridges/build-success.log)                | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/sevenbridges)                |
 | [shiny.gosling](https://bioconductor.org/packages/3.22/bioc/html/shiny.gosling.html)                             | Built    | [Log](logs/shiny.gosling/build-success.log)               | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/shiny.gosling)               |
+| [shinyDSP](https://bioconductor.org/packages/3.22/bioc/html/shinyDSP.html)                                       | Built    | [Log](logs/shinyDSP/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/shinyDSP)                    |
 | [shinyMethyl](https://bioconductor.org/packages/3.22/bioc/html/shinyMethyl.html)                                 | Built    | [Log](logs/shinyMethyl/build-success.log)                 | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/shinyMethyl)                 |
 | [shinyepico](https://bioconductor.org/packages/3.22/bioc/html/shinyepico.html)                                   | Built    | [Log](logs/shinyepico/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/shinyepico)                  |
 | [sigFeature](https://bioconductor.org/packages/3.22/bioc/html/sigFeature.html)                                   | Built    | [Log](logs/sigFeature/build-success.log)                  | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/sigFeature)                  |
@@ -2136,7 +2138,7 @@
 | [zinbwave](https://bioconductor.org/packages/3.22/bioc/html/zinbwave.html)                                       | Built    | [Log](logs/zinbwave/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/zinbwave)                    |
 | [zitools](https://bioconductor.org/packages/3.22/bioc/html/zitools.html)                                         | Built    | [Log](logs/zitools/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/zitools)                     |
 
-## Not Yet Processed (77)
+## Not Yet Processed (75)
 | Package                                                                                              | Status      |
 |------------------------------------------------------------------------------------------------------|-------------|
 | [ASpli](https://bioconductor.org/packages/3.22/bioc/html/ASpli.html)                                 | Unprocessed |
@@ -2159,7 +2161,6 @@
 | [GenomicOZone](https://bioconductor.org/packages/3.22/bioc/html/GenomicOZone.html)                   | Unprocessed |
 | [Gviz](https://bioconductor.org/packages/3.22/bioc/html/Gviz.html)                                   | Unprocessed |
 | [HiCDCPlus](https://bioconductor.org/packages/3.22/bioc/html/HiCDCPlus.html)                         | Unprocessed |
-| [IsoformSwitchAnalyzeR](https://bioconductor.org/packages/3.22/bioc/html/IsoformSwitchAnalyzeR.html) | Unprocessed |
 | [MEAL](https://bioconductor.org/packages/3.22/bioc/html/MEAL.html)                                   | Unprocessed |
 | [MEAT](https://bioconductor.org/packages/3.22/bioc/html/MEAT.html)                                   | Unprocessed |
 | [OGRE](https://bioconductor.org/packages/3.22/bioc/html/OGRE.html)                                   | Unprocessed |
@@ -2209,7 +2210,6 @@
 | [saseR](https://bioconductor.org/packages/3.22/bioc/html/saseR.html)                                 | Unprocessed |
 | [scTreeViz](https://bioconductor.org/packages/3.22/bioc/html/scTreeViz.html)                         | Unprocessed |
 | [scruff](https://bioconductor.org/packages/3.22/bioc/html/scruff.html)                               | Unprocessed |
-| [shinyDSP](https://bioconductor.org/packages/3.22/bioc/html/shinyDSP.html)                           | Unprocessed |
 | [skewr](https://bioconductor.org/packages/3.22/bioc/html/skewr.html)                                 | Unprocessed |
 | [spatzie](https://bioconductor.org/packages/3.22/bioc/html/spatzie.html)                             | Unprocessed |
 | [srnadiff](https://bioconductor.org/packages/3.22/bioc/html/srnadiff.html)                           | Unprocessed |
