@@ -39,7 +39,6 @@
     "GenomicInteractions",
     "biovizBase"
   ],
-  "CAMERA": [],
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
@@ -47,15 +46,11 @@
     "Gviz",
     "biovizBase"
   ],
-  "ChIPQC": [
-    "DiffBind"
-  ],
+  "ChIPQC": [],
   "ChIPexoQual": [
     "biovizBase"
   ],
-  "CircSeqAlignTk": [
-    "Rhisat2"
-  ],
+  "CircSeqAlignTk": [],
   "CleanUpRNAseq": [],
   "DMRcate": [
     "missMethyl",
@@ -67,7 +62,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "DiffBind": [],
   "DuplexDiscovereR": [
     "Gviz",
     "biovizBase"
@@ -105,9 +99,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "IPO": [
-    "CAMERA"
-  ],
+  "IPO": [],
   "IsoformSwitchAnalyzeR": [
     "tximeta"
   ],
@@ -115,9 +107,7 @@
   "MAGAR": [
     "RnBeads"
   ],
-  "MAIT": [
-    "CAMERA"
-  ],
+  "MAIT": [],
   "MEAL": [
     "Gviz",
     "missMethyl",
@@ -174,7 +164,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "Rhisat2": [],
   "RiboProfiling": [
     "ggbio",
     "biovizBase"
@@ -313,9 +302,7 @@
   ],
   "esATAC": [],
   "ffpe": [],
-  "flagme": [
-    "CAMERA"
-  ],
+  "flagme": [],
   "geomeTriD": [
     "trackViewer",
     "Gviz",
@@ -340,9 +327,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "metaMS": [
-    "CAMERA"
-  ],
+  "metaMS": [],
   "metaseqR2": [],
   "methylGSA": [
     "missMethyl"

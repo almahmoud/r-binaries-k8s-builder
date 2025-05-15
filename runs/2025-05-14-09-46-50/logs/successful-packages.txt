@@ -2036,3 +2036,6 @@ TBSignatureProfiler
 kissDE
 squallms
 TFutils
+CAMERA
+DiffBind
+Rhisat2
