@@ -1961,3 +1961,5 @@ appreci8R
 CellMixS
 Organism.dplyr
 SpaNorm
+magpie
+phantasus

@@ -532,7 +532,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "magpie": [],
   "maser": [
     "Gviz",
     "ensembldb",
@@ -589,7 +588,6 @@
     "motifmatchr"
   ],
   "periodicDNA": [],
-  "phantasus": [],
   "primirTSS": [
     "Gviz",
     "ensembldb",
