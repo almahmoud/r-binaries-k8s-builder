@@ -1541,3 +1541,16 @@ CytoPipelineGUI
 GSRI
 MOMA
 tilingArray
+dittoSeq
+fishpond
+GEOquery
+ggsc
+HiCcompare
+HiCExperiment
+HIPPO
+hummingbird
+Lheuristic
+mbkmeans
+MsExperiment
+mumosa
+survClust

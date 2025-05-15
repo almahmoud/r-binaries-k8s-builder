@@ -158,8 +158,7 @@
     "biovizBase"
   ],
   "CAMERA": [
-    "xcms",
-    "MsExperiment"
+    "xcms"
   ],
   "CATALYST": [],
   "CBNplot": [
@@ -190,9 +189,7 @@
   "CODEX": [
     "BSgenome"
   ],
-  "CRISPRball": [
-    "dittoSeq"
-  ],
+  "CRISPRball": [],
   "CRISPRseek": [
     "GenomicFeatures",
     "BSgenome"
@@ -225,7 +222,6 @@
     "GenomicFeatures",
     "bsseq",
     "Gviz",
-    "GEOquery",
     "methylumi",
     "lumi",
     "BSgenome",
@@ -243,9 +239,7 @@
     "GreyListChIP",
     "BSgenome"
   ],
-  "ChIPXpress": [
-    "GEOquery"
-  ],
+  "ChIPXpress": [],
   "ChIPanalyser": [
     "BSgenome"
   ],
@@ -291,7 +285,6 @@
   "DAPAR": [],
   "DEP": [],
   "DExMA": [
-    "GEOquery",
     "sva"
   ],
   "DMCFB": [],
@@ -306,7 +299,6 @@
     "ensembldb",
     "biovizBase",
     "bumphunter",
-    "GEOquery",
     "methylumi",
     "VariantAnnotation"
   ],
@@ -372,9 +364,7 @@
   "EDASeq": [
     "GenomicFeatures"
   ],
-  "EGAD": [
-    "GEOquery"
-  ],
+  "EGAD": [],
   "ELMER": [
     "GenomicFeatures",
     "Gviz",
@@ -390,7 +380,6 @@
   "ENmix": [
     "minfi",
     "bumphunter",
-    "GEOquery",
     "GenomicFeatures"
   ],
   "EWCE": [],
@@ -471,10 +460,8 @@
     "enrichplot"
   ],
   "GEOexplorer": [
-    "sva",
-    "GEOquery"
+    "sva"
   ],
-  "GEOquery": [],
   "GNOSIS": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -552,7 +539,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HIPPO": [],
   "HarmonizR": [
     "sva"
   ],
@@ -571,17 +557,10 @@
     "VariantAnnotation"
   ],
   "HiCDOC": [
-    "multiHiCcompare",
-    "HiCcompare"
+    "multiHiCcompare"
   ],
-  "HiCExperiment": [],
-  "HiCcompare": [],
-  "HiContacts": [
-    "HiCExperiment"
-  ],
-  "HiCool": [
-    "HiCExperiment"
-  ],
+  "HiContacts": [],
+  "HiCool": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome"
@@ -597,8 +576,7 @@
   ],
   "IPO": [
     "xcms",
-    "CAMERA",
-    "MsExperiment"
+    "CAMERA"
   ],
   "IVAS": [
     "GenomicFeatures"
@@ -629,7 +607,6 @@
   "KnowSeq": [
     "sva"
   ],
-  "Lheuristic": [],
   "LimROTS": [],
   "M3Drop": [],
   "MAGAR": [
@@ -637,13 +614,11 @@
     "methylumi",
     "minfi",
     "GenomicFeatures",
-    "bumphunter",
-    "GEOquery"
+    "bumphunter"
   ],
   "MAIT": [
     "CAMERA",
-    "xcms",
-    "MsExperiment"
+    "xcms"
   ],
   "MBECS": [
     "sva"
@@ -657,7 +632,6 @@
     "BSgenome",
     "biovizBase",
     "bumphunter",
-    "GEOquery",
     "methylumi",
     "sva",
     "VariantAnnotation"
@@ -666,7 +640,6 @@
     "minfi",
     "wateRmelon",
     "bumphunter",
-    "GEOquery",
     "methylumi",
     "lumi",
     "GenomicFeatures"
@@ -721,7 +694,6 @@
   "MethylAid": [
     "minfi",
     "bumphunter",
-    "GEOquery",
     "GenomicFeatures"
   ],
   "MethylSeekR": [
@@ -737,8 +709,7 @@
     "methylumi",
     "GenomicFeatures",
     "minfi",
-    "bumphunter",
-    "GEOquery"
+    "bumphunter"
   ],
   "MinimumDistance": [
     "VanillaICE",
@@ -746,14 +717,12 @@
   ],
   "Moonlight2R": [
     "clusterProfiler",
-    "GEOquery",
     "EpiMix",
     "enrichplot",
     "GenomicFeatures"
   ],
   "MoonlightR": [
     "clusterProfiler",
-    "GEOquery",
     "enrichplot"
   ],
   "Motif2Site": [
@@ -763,10 +732,7 @@
   "MotifPeeker": [
     "BSgenome"
   ],
-  "MsExperiment": [],
-  "MsQuality": [
-    "MsExperiment"
-  ],
+  "MsQuality": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",
@@ -903,7 +869,6 @@
     "minfi",
     "BSgenome",
     "bumphunter",
-    "GEOquery",
     "GenomicFeatures"
   ],
   "RESOLVE": [
@@ -922,7 +887,6 @@
   "RNAAgeCalc": [
     "recount",
     "derfinder",
-    "GEOquery",
     "bumphunter",
     "GenomicFeatures",
     "GenomicFiles",
@@ -1028,13 +992,11 @@
     "methylumi",
     "minfi",
     "GenomicFeatures",
-    "bumphunter",
-    "GEOquery"
+    "bumphunter"
   ],
   "RnaSeqSampleSize": [
     "recount",
     "derfinder",
-    "GEOquery",
     "bumphunter",
     "GenomicFeatures",
     "GenomicFiles",
@@ -1054,7 +1016,6 @@
     "GenomicFeatures"
   ],
   "SCAN.UPC": [
-    "GEOquery",
     "sva"
   ],
   "SCANVIS": [],
@@ -1080,9 +1041,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "SPIAT": [
-    "dittoSeq"
-  ],
+  "SPIAT": [],
   "SPLINTER": [
     "GenomicFeatures",
     "Gviz",
@@ -1123,9 +1082,7 @@
   "SparseSignatures": [
     "BSgenome"
   ],
-  "SpectralTAD": [
-    "HiCcompare"
-  ],
+  "SpectralTAD": [],
   "SpliceWiz": [
     "BSgenome"
   ],
@@ -1143,9 +1100,7 @@
   "SurfR": [
     "SPsimSeq"
   ],
-  "TADCompare": [
-    "HiCcompare"
-  ],
+  "TADCompare": [],
   "TAPseq": [
     "BSgenome",
     "GenomicFeatures"
@@ -1306,8 +1261,7 @@
     "methylumi",
     "GenomicFeatures",
     "minfi",
-    "bumphunter",
-    "GEOquery"
+    "bumphunter"
   ],
   "atSNP": [
     "BSgenome",
@@ -1332,7 +1286,6 @@
     "wateRmelon",
     "minfi",
     "methylumi",
-    "GEOquery",
     "GenomicFeatures",
     "bumphunter",
     "lumi"
@@ -1488,12 +1441,9 @@
     "GenomicFeatures"
   ],
   "cliqueMS": [
-    "xcms",
-    "MsExperiment"
+    "xcms"
   ],
-  "clusterExperiment": [
-    "mbkmeans"
-  ],
+  "clusterExperiment": [],
   "clusterProfiler": [
     "enrichplot"
   ],
@@ -1521,12 +1471,10 @@
   "conumee": [
     "minfi",
     "bumphunter",
-    "GEOquery",
     "GenomicFeatures"
   ],
   "cosmiq": [
-    "xcms",
-    "MsExperiment"
+    "xcms"
   ],
   "covRNA": [],
   "cpvSNP": [
@@ -1628,7 +1576,6 @@
     "methylKit",
     "minfi",
     "bumphunter",
-    "GEOquery",
     "GenomicFeatures"
   ],
   "deepSNV": [
@@ -1669,7 +1616,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "dittoSeq": [],
   "doppelgangR": [
     "sva"
   ],
@@ -1713,7 +1659,6 @@
     "BSgenome",
     "biovizBase",
     "OrganismDbi",
-    "GEOquery",
     "VariantAnnotation",
     "txdbmaker"
   ],
@@ -1791,19 +1736,15 @@
     "methylumi",
     "GenomicFeatures",
     "minfi",
-    "bumphunter",
-    "GEOquery"
+    "bumphunter"
   ],
-  "fishpond": [],
   "flagme": [
     "xcms",
-    "CAMERA",
-    "MsExperiment"
+    "CAMERA"
   ],
   "funtooNorm": [
     "minfi",
     "bumphunter",
-    "GEOquery",
     "GenomicFeatures"
   ],
   "gINTomics": [
@@ -1842,7 +1783,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "ggsc": [],
   "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils",
@@ -1885,7 +1825,6 @@
   ],
   "hicVennDiagram": [],
   "hipathia": [],
-  "hummingbird": [],
   "iCNV": [
     "CODEX",
     "BSgenome"
@@ -1895,8 +1834,7 @@
     "methylumi",
     "GenomicFeatures",
     "minfi",
-    "bumphunter",
-    "GEOquery"
+    "bumphunter"
   ],
   "iNETgrate": [
     "Pigengene",
@@ -1904,7 +1842,6 @@
     "OrganismDbi",
     "GenomicFeatures",
     "bumphunter",
-    "GEOquery",
     "clusterProfiler",
     "ReactomePA",
     "enrichplot",
@@ -1988,8 +1925,7 @@
     "methylumi",
     "GenomicFeatures",
     "minfi",
-    "bumphunter",
-    "GEOquery"
+    "bumphunter"
   ],
   "lute": [],
   "m6Aboost": [
@@ -2022,15 +1958,13 @@
     "VariantAnnotation"
   ],
   "mastR": [],
-  "mbkmeans": [],
   "meshes": [
     "enrichplot"
   ],
   "meshr": [],
   "metaMS": [
     "CAMERA",
-    "xcms",
-    "MsExperiment"
+    "xcms"
   ],
   "metagene2": [],
   "metaseqR2": [
@@ -2053,8 +1987,7 @@
     "plyranges",
     "bumphunter",
     "BSgenome",
-    "GenomicFeatures",
-    "GEOquery"
+    "GenomicFeatures"
   ],
   "methylGSA": [
     "clusterProfiler",
@@ -2063,8 +1996,7 @@
     "minfi",
     "methylumi",
     "GenomicFeatures",
-    "bumphunter",
-    "GEOquery"
+    "bumphunter"
   ],
   "methylInheritance": [
     "methylKit"
@@ -2087,7 +2019,6 @@
     "minfi",
     "ExperimentHubData",
     "bumphunter",
-    "GEOquery",
     "GenomicFeatures",
     "AnnotationHubData",
     "OrganismDbi",
@@ -2096,8 +2027,7 @@
   "methylumi": [
     "minfi",
     "GenomicFeatures",
-    "bumphunter",
-    "GEOquery"
+    "bumphunter"
   ],
   "miRLAB": [
     "GOstats"
@@ -2119,15 +2049,13 @@
   ],
   "minfi": [
     "bumphunter",
-    "GEOquery",
     "GenomicFeatures"
   ],
   "missMethyl": [
     "methylumi",
     "minfi",
     "GenomicFeatures",
-    "bumphunter",
-    "GEOquery"
+    "bumphunter"
   ],
   "mist": [],
   "mitoClone2": [
@@ -2173,10 +2101,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "multiHiCcompare": [
-    "HiCcompare"
-  ],
-  "mumosa": [],
+  "multiHiCcompare": [],
   "musicatk": [
     "VariantAnnotation",
     "BSgenome",
@@ -2193,16 +2118,14 @@
     "GenomicFeatures"
   ],
   "ncGTW": [
-    "xcms",
-    "MsExperiment"
+    "xcms"
   ],
   "nearBynding": [
     "plyranges",
     "GenomicFeatures"
   ],
   "netSmooth": [
-    "clusterExperiment",
-    "mbkmeans"
+    "clusterExperiment"
   ],
   "nullranges": [
     "plyranges"
@@ -2233,9 +2156,7 @@
   "periodicDNA": [
     "BSgenome"
   ],
-  "phantasus": [
-    "GEOquery"
-  ],
+  "phantasus": [],
   "phenoTest": [],
   "pipeComp": [],
   "pipeFrame": [
@@ -2284,7 +2205,6 @@
   "psichomics": [
     "recount",
     "derfinder",
-    "GEOquery",
     "bumphunter",
     "GenomicFeatures",
     "GenomicFiles",
@@ -2306,7 +2226,6 @@
   "quantro": [
     "minfi",
     "bumphunter",
-    "GEOquery",
     "GenomicFeatures"
   ],
   "r3Cseq": [],
@@ -2325,7 +2244,6 @@
   ],
   "recount": [
     "derfinder",
-    "GEOquery",
     "bumphunter",
     "GenomicFeatures",
     "GenomicFiles",
@@ -2336,7 +2254,6 @@
   "recountmethylation": [
     "minfi",
     "bumphunter",
-    "GEOquery",
     "GenomicFeatures"
   ],
   "recoup": [
@@ -2402,9 +2319,7 @@
     "SingleCellSignalR",
     "GenomicFeatures"
   ],
-  "scHiCcompare": [
-    "HiCcompare"
-  ],
+  "scHiCcompare": [],
   "scMerge": [
     "M3Drop"
   ],
@@ -2482,13 +2397,11 @@
   "shinyMethyl": [
     "minfi",
     "bumphunter",
-    "GEOquery",
     "GenomicFeatures"
   ],
   "shinyepico": [
     "minfi",
     "bumphunter",
-    "GEOquery",
     "GenomicFeatures"
   ],
   "signatureSearch": [
@@ -2516,7 +2429,6 @@
     "minfi",
     "GenomicFeatures",
     "bumphunter",
-    "GEOquery",
     "lumi"
   ],
   "snifter": [],
@@ -2545,8 +2457,7 @@
     "CATALYST"
   ],
   "squallms": [
-    "xcms",
-    "MsExperiment"
+    "xcms"
   ],
   "srnadiff": [
     "GenomicFeatures",
@@ -2565,7 +2476,6 @@
   "strandCheckR": [
     "GenomicFeatures"
   ],
-  "survClust": [],
   "sva": [],
   "svaNUMT": [
     "VariantAnnotation",
@@ -2672,22 +2582,18 @@
     "lumi",
     "minfi",
     "GenomicFeatures",
-    "bumphunter",
-    "GEOquery"
+    "bumphunter"
   ],
   "wavClusteR": [
     "GenomicFeatures"
   ],
   "wiggleplotr": [],
-  "xcms": [
-    "MsExperiment"
-  ],
+  "xcms": [],
   "xcore": [],
   "yarn": [
     "quantro",
     "minfi",
     "bumphunter",
-    "GEOquery",
     "GenomicFeatures"
   ],
   "zenith": [

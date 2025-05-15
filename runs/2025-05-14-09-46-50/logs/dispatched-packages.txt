@@ -1718,3 +1718,17 @@ a4
 ADaCGH2
 TOP
 spicyR
+CRISPRball
+ChIPXpress
+EGAD
+HiContacts
+HiCool
+MsQuality
+SPIAT
+SpectralTAD
+TADCompare
+clusterExperiment
+multiHiCcompare
+phantasus
+scHiCcompare
+xcms
