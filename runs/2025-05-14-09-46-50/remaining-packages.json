@@ -729,8 +729,6 @@
     "sva"
   ],
   "PhenStat": [],
-  "PhyloProfile": [],
-  "Pigengene": [],
   "Prostar": [
     "DAPAR"
   ],
@@ -1225,7 +1223,6 @@
   "branchpointer": [
     "BSgenome"
   ],
-  "broadSeq": [],
   "bsseq": [
     "BSgenome"
   ],
@@ -1687,7 +1684,6 @@
     "bumphunter"
   ],
   "iNETgrate": [
-    "Pigengene",
     "minfi",
     "OrganismDbi",
     "GenomicFeatures",
@@ -1978,7 +1974,6 @@
     "BSgenome"
   ],
   "plotgardener": [],
-  "plyinteractions": [],
   "podkat": [
     "BSgenome"
   ],
@@ -2126,7 +2121,6 @@
   "scMerge": [
     "M3Drop"
   ],
-  "scPipe": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData",
@@ -2142,7 +2136,6 @@
     "txdbmaker"
   ],
   "scifer": [],
-  "scmap": [],
   "scone": [
     "RUVSeq",
     "EDASeq",

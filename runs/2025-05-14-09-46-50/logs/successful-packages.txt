@@ -1639,3 +1639,9 @@ visiumStitched
 CBNplot
 miRspongeR
 PanomiR
+broadSeq
+PhyloProfile
+Pigengene
+plyinteractions
+scmap
+scPipe
