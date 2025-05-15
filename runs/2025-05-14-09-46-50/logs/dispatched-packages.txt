@@ -1794,3 +1794,9 @@ qsvaR
 mariner
 scMerge
 tidyomics
+iSEEde
+iSEEhex
+iSEEhub
+iSEEindex
+iSEEpathways
+iSEEtree

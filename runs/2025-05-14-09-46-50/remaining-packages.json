@@ -151,7 +151,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "CCPROMISE": [],
   "CNVrd2": [
     "VariantAnnotation",
     "BSgenome",
@@ -1126,7 +1125,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "bedbaser": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -1581,7 +1579,6 @@
   "gmoviz": [
     "GenomicFeatures"
   ],
-  "goSorensen": [],
   "goseq": [
     "GenomicFeatures",
     "txdbmaker"
@@ -1623,32 +1620,17 @@
     "bumphunter",
     "txdbmaker"
   ],
-  "iSEE": [],
-  "iSEEde": [
-    "iSEE"
-  ],
+  "iSEEde": [],
   "iSEEfier": [
-    "iSEE",
     "iSEEu",
     "iSEEhex"
   ],
-  "iSEEhex": [
-    "iSEE"
-  ],
-  "iSEEhub": [
-    "iSEE"
-  ],
-  "iSEEindex": [
-    "iSEE"
-  ],
-  "iSEEpathways": [
-    "iSEE"
-  ],
-  "iSEEtree": [
-    "iSEE"
-  ],
+  "iSEEhex": [],
+  "iSEEhub": [],
+  "iSEEindex": [],
+  "iSEEpathways": [],
+  "iSEEtree": [],
   "iSEEu": [
-    "iSEE",
     "iSEEhex"
   ],
   "icetea": [
@@ -1795,7 +1777,6 @@
     "GOstats"
   ],
   "miaDash": [
-    "iSEE",
     "iSEEtree"
   ],
   "minfi": [
@@ -1880,7 +1861,6 @@
     "EDASeq",
     "GenomicFeatures"
   ],
-  "omicRexposome": [],
   "orthos": [],
   "pageRank": [
     "motifmatchr",
@@ -1942,7 +1922,6 @@
     "BSgenome"
   ],
   "qsmooth": [],
-  "qsvaR": [],
   "quantro": [
     "minfi",
     "bumphunter",
