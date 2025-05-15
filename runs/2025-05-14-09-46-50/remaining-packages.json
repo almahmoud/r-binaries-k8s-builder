@@ -254,16 +254,10 @@
     "biovizBase"
   ],
   "epiregulon": [],
-  "epivizr": [
-    "epivizrData"
-  ],
-  "epivizrChart": [
-    "epivizrData"
-  ],
-  "epivizrData": [],
+  "epivizr": [],
+  "epivizrChart": [],
   "epivizrStandalone": [
-    "epivizr",
-    "epivizrData"
+    "epivizr"
   ],
   "esATAC": [],
   "ffpe": [],
@@ -331,8 +325,7 @@
   ],
   "scFeatures": [],
   "scTreeViz": [
-    "epivizr",
-    "epivizrData"
+    "epivizr"
   ],
   "scanMiRApp": [],
   "scifer": [],

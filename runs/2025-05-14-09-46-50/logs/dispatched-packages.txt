@@ -2116,3 +2116,5 @@ recount
 regionReport
 MAGAR
 chevreulPlot
+epivizr
+epivizrChart
