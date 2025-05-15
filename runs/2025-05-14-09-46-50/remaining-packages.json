@@ -465,7 +465,6 @@
     "ensembldb"
   ],
   "SpaNorm": [],
-  "SpectralTAD": [],
   "StructuralVariantAnnotation": [],
   "SurfR": [],
   "TBSignatureProfiler": [
@@ -920,12 +919,9 @@
     "ensembldb",
     "biovizBase"
   ],
-  "proActiv": [],
-  "proBAMr": [],
   "profileplyr": [
     "soGGi",
-    "ChIPseeker",
-    "rGREAT"
+    "ChIPseeker"
   ],
   "psichomics": [
     "recount",
@@ -936,7 +932,6 @@
     "minfi"
   ],
   "r3Cseq": [],
-  "rGREAT": [],
   "raer": [],
   "recount": [
     "derfinder",

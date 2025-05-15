@@ -1789,3 +1789,7 @@ TADCompare
 wavClusteR
 gINTomics
 SCANVIS
+proActiv
+proBAMr
+rGREAT
+SpectralTAD
