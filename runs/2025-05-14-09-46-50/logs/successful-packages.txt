@@ -1950,3 +1950,6 @@ RJMCMCNucleosomes
 transformGamPoi
 ASSIGN
 IMAS
+DEP
+INSPEcT
+iSEEhex

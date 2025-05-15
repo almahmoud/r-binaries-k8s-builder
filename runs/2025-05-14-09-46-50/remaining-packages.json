@@ -89,7 +89,6 @@
   ],
   "CoverageView": [],
   "DAMEfinder": [],
-  "DEP": [],
   "DMRcate": [
     "missMethyl",
     "Gviz",
@@ -172,7 +171,6 @@
     "biovizBase"
   ],
   "HiCool": [],
-  "INSPEcT": [],
   "IPO": [
     "xcms",
     "CAMERA"
@@ -530,15 +528,11 @@
   ],
   "iNETgrate": [],
   "iSEEfier": [
-    "iSEEu",
-    "iSEEhex"
+    "iSEEu"
   ],
-  "iSEEhex": [],
   "iSEEhub": [],
   "iSEEpathways": [],
-  "iSEEu": [
-    "iSEEhex"
-  ],
+  "iSEEu": [],
   "immunotation": [],
   "intansv": [
     "ggbio",
