@@ -2146,3 +2146,5 @@ msgbsR
 SomaticSignatures
 derfinderPlot
 scruff
+comapr
+cummeRbund

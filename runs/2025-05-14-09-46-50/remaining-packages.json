@@ -28,7 +28,6 @@
   "affycoretools": [
     "ReportingTools"
   ],
-  "comapr": [],
   "crisprDesign": [
     "crisprScore"
   ],
@@ -47,7 +46,6 @@
     "crisprDesign",
     "crisprScore"
   ],
-  "cummeRbund": [],
   "epimutacions": [],
   "epivizrStandalone": [],
   "geomeTriD": [
