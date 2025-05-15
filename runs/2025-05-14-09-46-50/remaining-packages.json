@@ -58,9 +58,7 @@
   "CAMERA": [
     "xcms"
   ],
-  "COCOA": [
-    "MIRA"
-  ],
+  "COCOA": [],
   "CSSQ": [],
   "CTexploreR": [],
   "CellMixS": [],
@@ -96,7 +94,6 @@
     "biovizBase"
   ],
   "DNAfusion": [],
-  "DSS": [],
   "DaMiRseq": [
     "EDASeq"
   ],
@@ -105,9 +102,7 @@
     "biovizBase",
     "ensembldb"
   ],
-  "DeMixT": [
-    "DSS"
-  ],
+  "DeMixT": [],
   "DegCre": [],
   "DiffBind": [],
   "DuplexDiscovereR": [
@@ -198,7 +193,6 @@
     "wateRmelon",
     "lumi"
   ],
-  "MIRA": [],
   "MSPrep": [],
   "MatrixQCvis": [],
   "MetaboSignal": [
@@ -330,7 +324,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "XDE": [],
   "YAPSA": [
     "SomaticSignatures",
     "ggbio",
@@ -365,9 +358,7 @@
     "ensembldb"
   ],
   "bnem": [],
-  "borealis": [
-    "DSS"
-  ],
+  "borealis": [],
   "cBioPortalData": [
     "RTCGAToolbox"
   ],
@@ -540,9 +531,7 @@
     "ensembldb"
   ],
   "interactiveDisplay": [],
-  "kissDE": [
-    "DSS"
-  ],
+  "kissDE": [],
   "lumi": [],
   "mCSEA": [
     "Gviz",
@@ -560,7 +549,6 @@
     "xcms"
   ],
   "metaseqR2": [
-    "DSS",
     "EDASeq"
   ],
   "methylCC": [],
@@ -573,9 +561,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "methylSig": [
-    "DSS"
-  ],
+  "methylSig": [],
   "methylclock": [
     "ExperimentHubData"
   ],
@@ -615,9 +601,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "profileplyr": [
-    "soGGi"
-  ],
+  "profileplyr": [],
   "psichomics": [
     "recount",
     "derfinder"
@@ -682,7 +666,6 @@
     "lumi"
   ],
   "snifter": [],
-  "soGGi": [],
   "spatzie": [
     "GenomicInteractions",
     "motifmatchr",

@@ -2046,3 +2046,9 @@ methylCC
 seqArchRplus
 TBSignatureProfiler
 iSEEu
+COCOA
+DeMixT
+borealis
+kissDE
+methylSig
+profileplyr
