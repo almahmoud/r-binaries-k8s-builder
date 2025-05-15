@@ -1235,12 +1235,10 @@
   ],
   "alabaster": [
     "alabaster.vcf",
-    "alabaster.mae",
     "VariantAnnotation",
     "BSgenome",
     "GenomicFeatures"
   ],
-  "alabaster.mae": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "BSgenome",
@@ -2340,7 +2338,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "scds": [],
   "schex": [],
   "scifer": [],
   "scmap": [],

@@ -1559,3 +1559,5 @@ crumblr
 speckle
 stJoincount
 VariantExperiment
+alabaster.mae
+scds
