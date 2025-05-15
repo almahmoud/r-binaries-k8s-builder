@@ -9,3 +9,5 @@ BulkSignalR
 crisprScore
 velociraptor
 orthos
+EpiCompare
+Ularcirc

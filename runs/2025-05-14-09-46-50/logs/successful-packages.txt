@@ -2057,3 +2057,8 @@ drugTargetInteractions
 metaseqR2
 demuxSNP
 RnBeads
+bioCancer
+chevreulProcess
+GARS
+iSEEfier
+RAIDS
