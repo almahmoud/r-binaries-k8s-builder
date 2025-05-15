@@ -2078,3 +2078,5 @@ methylclock
 MAGAR
 scone
 signifinder
+arrayMvout
+ATACseqTFEA

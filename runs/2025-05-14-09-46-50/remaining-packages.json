@@ -4,7 +4,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
@@ -179,7 +178,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "arrayMvout": [],
   "bigmelon": [
     "wateRmelon"
   ],
