@@ -194,7 +194,6 @@
     "CAMERA",
     "xcms"
   ],
-  "MBECS": [],
   "MEAL": [
     "Gviz",
     "missMethyl",
@@ -208,7 +207,6 @@
   "MIRA": [],
   "MSPrep": [],
   "MatrixQCvis": [],
-  "MatrixRider": [],
   "MetaboSignal": [
     "ensembldb"
   ],
@@ -602,7 +600,6 @@
   ],
   "miaDash": [],
   "missMethyl": [],
-  "mobileRNA": [],
   "monaLisa": [],
   "motifbreakR": [
     "Gviz",
