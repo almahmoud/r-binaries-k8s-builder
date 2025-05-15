@@ -2033,3 +2033,4 @@ dreamlet
 rgsepd
 SingleMoleculeFootprinting
 TBSignatureProfiler
+kissDE
