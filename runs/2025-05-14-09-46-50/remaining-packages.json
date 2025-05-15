@@ -14,7 +14,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "ASICS": [],
   "ASSIGN": [
     "sva"
   ],
@@ -2148,7 +2147,6 @@
     "bumphunter",
     "GEOquery"
   ],
-  "missRows": [],
   "mist": [],
   "mitoClone2": [
     "deepSNV",
@@ -2162,7 +2160,6 @@
     "BSgenome",
     "TFBSTools"
   ],
-  "mosaics": [],
   "motifStack": [
     "TFBSTools",
     "BSgenome"
@@ -2449,7 +2446,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "sccomp": [],
   "scds": [],
   "schex": [],
   "scifer": [],
