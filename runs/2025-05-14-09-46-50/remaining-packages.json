@@ -73,7 +73,6 @@
   ],
   "BOBaFIT": [
     "ggbio",
-    "plyranges",
     "biovizBase",
     "BSgenome",
     "VariantAnnotation",
@@ -89,8 +88,7 @@
   "BUSpaRse": [
     "BSgenome",
     "ensembldb",
-    "GenomicFeatures",
-    "plyranges"
+    "GenomicFeatures"
   ],
   "BadRegionFinder": [
     "VariantAnnotation",
@@ -163,7 +161,6 @@
     "GenomicFeatures"
   ],
   "CCPROMISE": [],
-  "CEMiTool": [],
   "CNVrd2": [
     "VariantAnnotation",
     "BSgenome",
@@ -235,7 +232,6 @@
   "ChIPseeker": [
     "GenomicFeatures"
   ],
-  "ChromHeatMap": [],
   "CircSeqAlignTk": [
     "Rhisat2",
     "txdbmaker",
@@ -296,7 +292,6 @@
     "GenomicFeatures",
     "ggbio",
     "goseq",
-    "plyranges",
     "biovizBase",
     "BSgenome",
     "VariantAnnotation",
@@ -313,7 +308,6 @@
   "DeconvoBuddies": [],
   "DegCre": [
     "plotgardener",
-    "plyranges",
     "GenomicFeatures"
   ],
   "DegNorm": [
@@ -482,7 +476,6 @@
     "txdbmaker"
   ],
   "GenomicPlot": [
-    "plyranges",
     "RCAS",
     "GenomicFeatures",
     "genomation",
@@ -549,8 +542,7 @@
   "InPAS": [
     "BSgenome",
     "cleanUpdTSeq",
-    "GenomicFeatures",
-    "plyranges"
+    "GenomicFeatures"
   ],
   "InTAD": [],
   "IntEREst": [
@@ -945,7 +937,6 @@
     "BSgenome"
   ],
   "SARC": [
-    "plyranges",
     "GenomicFeatures"
   ],
   "SCAN.UPC": [
@@ -993,7 +984,6 @@
   "SingleCellSignalR": [],
   "SingleMoleculeFootprinting": [
     "BSgenome",
-    "plyranges",
     "QuasR",
     "GenomicFeatures",
     "txdbmaker",
@@ -1086,8 +1076,7 @@
     "BSgenome",
     "GenomicFeatures",
     "Organism.dplyr",
-    "plotgardener",
-    "plyranges"
+    "plotgardener"
   ],
   "Uniquorn": [
     "VariantAnnotation",
@@ -1295,7 +1284,6 @@
     "GenomicFeatures"
   ],
   "cfDNAPro": [
-    "plyranges",
     "BSgenome"
   ],
   "chevreulPlot": [
@@ -1522,7 +1510,6 @@
     "sva"
   ],
   "doubletrouble": [
-    "syntenet",
     "GenomicFeatures"
   ],
   "dreamlet": [
@@ -1774,7 +1761,6 @@
   "interactiveDisplay": [],
   "katdetectr": [
     "BSgenome",
-    "plyranges",
     "VariantAnnotation",
     "GenomicFeatures"
   ],
@@ -1820,7 +1806,6 @@
     "TRESS"
   ],
   "mariner": [
-    "plyranges",
     "plotgardener"
   ],
   "maser": [
@@ -1854,7 +1839,6 @@
   "methylCC": [
     "minfi",
     "bsseq",
-    "plyranges",
     "bumphunter",
     "BSgenome",
     "GenomicFeatures"
@@ -1916,7 +1900,6 @@
     "GenomicFeatures",
     "bumphunter"
   ],
-  "mist": [],
   "mitoClone2": [
     "deepSNV",
     "VariantAnnotation",
@@ -1979,15 +1962,12 @@
     "xcms"
   ],
   "nearBynding": [
-    "plyranges",
     "GenomicFeatures"
   ],
   "netSmooth": [
     "clusterExperiment"
   ],
-  "nullranges": [
-    "plyranges"
-  ],
+  "nullranges": [],
   "octad": [
     "RUVSeq",
     "EDASeq",
@@ -2014,13 +1994,8 @@
   "pipeFrame": [
     "BSgenome"
   ],
-  "plotgardener": [
-    "plyranges"
-  ],
-  "plyinteractions": [
-    "plyranges"
-  ],
-  "plyranges": [],
+  "plotgardener": [],
+  "plyinteractions": [],
   "podkat": [
     "BSgenome"
   ],
@@ -2169,7 +2144,6 @@
     "M3Drop"
   ],
   "scPipe": [],
-  "scRNAseqApp": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData",
@@ -2267,7 +2241,6 @@
   "snifter": [],
   "soGGi": [],
   "spatialDE": [],
-  "spatialFDA": [],
   "spatialHeatmap": [],
   "spatialSimGP": [],
   "spatzie": [
@@ -2321,7 +2294,6 @@
     "BSgenome"
   ],
   "switchde": [],
-  "syntenet": [],
   "tLOH": [
     "VariantAnnotation",
     "BSgenome",
@@ -2345,7 +2317,6 @@
   "tidyCoverage": [],
   "tidySpatialExperiment": [],
   "tidyomics": [
-    "plyranges",
     "nullranges"
   ],
   "tpSVG": [],

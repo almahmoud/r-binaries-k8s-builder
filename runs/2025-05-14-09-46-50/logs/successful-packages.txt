@@ -1616,3 +1616,10 @@ hicVennDiagram
 ReactomePA
 rifi
 scTGIF
+CEMiTool
+ChromHeatMap
+mist
+plyranges
+scRNAseqApp
+spatialFDA
+syntenet
