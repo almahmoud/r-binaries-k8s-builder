@@ -483,8 +483,6 @@
   "iSEEfier": [
     "iSEEu"
   ],
-  "iSEEhub": [],
-  "iSEEpathways": [],
   "iSEEu": [],
   "immunotation": [],
   "intansv": [
@@ -520,7 +518,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "methylSig": [],
   "methylclock": [
     "ExperimentHubData"
   ],

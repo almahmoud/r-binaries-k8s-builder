@@ -1983,3 +1983,6 @@ COCOA
 DeMixT
 Guitar
 rmspc
+iSEEhub
+iSEEpathways
+methylSig
