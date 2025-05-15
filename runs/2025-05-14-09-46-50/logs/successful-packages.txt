@@ -1910,3 +1910,12 @@ svaNUMT
 svaRetro
 TENET
 zenith
+DMCFB
+ELViS
+mariner
+mitoClone2
+motifStack
+preciseTAD
+seqCAT
+tidyomics
+traseR

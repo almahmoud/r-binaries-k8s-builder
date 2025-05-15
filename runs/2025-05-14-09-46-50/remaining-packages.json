@@ -94,7 +94,6 @@
   "CoverageView": [],
   "DAMEfinder": [],
   "DEP": [],
-  "DMCFB": [],
   "DMRcate": [
     "bsseq",
     "missMethyl",
@@ -131,7 +130,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "ELViS": [],
   "EWCE": [],
   "EpiCompare": [
     "ChIPseeker"
@@ -384,9 +382,7 @@
   "arrayMvout": [
     "lumi"
   ],
-  "atSNP": [
-    "motifStack"
-  ],
+  "atSNP": [],
   "bigmelon": [
     "wateRmelon",
     "lumi"
@@ -498,9 +494,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "dagLogo": [
-    "motifStack"
-  ],
+  "dagLogo": [],
   "decompTumor2Sig": [],
   "demuxSNP": [
     "ensembldb"
@@ -606,7 +600,6 @@
     "biovizBase"
   ],
   "magpie": [],
-  "mariner": [],
   "maser": [
     "Gviz",
     "ensembldb",
@@ -644,12 +637,9 @@
     "iSEEtree"
   ],
   "missMethyl": [],
-  "mitoClone2": [],
   "mobileRNA": [],
   "monaLisa": [],
-  "motifStack": [],
   "motifbreakR": [
-    "motifStack",
     "Gviz",
     "ensembldb",
     "biovizBase"
@@ -678,7 +668,6 @@
   ],
   "periodicDNA": [],
   "phantasus": [],
-  "preciseTAD": [],
   "primirTSS": [
     "Gviz",
     "ensembldb",
@@ -706,7 +695,6 @@
   "rgsepd": [],
   "ribosomeProfilingQC": [
     "EDASeq",
-    "motifStack",
     "RUVSeq"
   ],
   "rmspc": [],
@@ -742,7 +730,6 @@
   "seqArchRplus": [
     "ChIPseeker"
   ],
-  "seqCAT": [],
   "seqsetvis": [],
   "sevenC": [],
   "shinyDSP": [
@@ -786,7 +773,6 @@
     "biovizBase"
   ],
   "tidyCoverage": [],
-  "tidyomics": [],
   "trackViewer": [
     "Gviz",
     "ensembldb",
@@ -795,7 +781,6 @@
   "transcriptR": [],
   "transformGamPoi": [],
   "transmogR": [],
-  "traseR": [],
   "tximeta": [
     "ensembldb"
   ],
