@@ -2025,3 +2025,4 @@ motifmatchr
 MSPrep
 strandCheckR
 OutSplice
+transcriptR
