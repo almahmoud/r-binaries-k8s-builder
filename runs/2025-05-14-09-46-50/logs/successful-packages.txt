@@ -1754,3 +1754,7 @@ crisprBowtie
 crisprBwa
 CRISPRseek
 hiAnnotator
+genomation
+m6Aboost
+pipeFrame
+qsea

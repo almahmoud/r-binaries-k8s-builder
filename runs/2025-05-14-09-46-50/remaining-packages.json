@@ -111,9 +111,7 @@
   "CSSQ": [],
   "CTexploreR": [],
   "CellMixS": [],
-  "CexoR": [
-    "genomation"
-  ],
+  "CexoR": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -222,8 +220,7 @@
   "EWCE": [],
   "EnrichmentBrowser": [],
   "EpiCompare": [
-    "ChIPseeker",
-    "genomation"
+    "ChIPseeker"
   ],
   "EpiMix": [],
   "EpiTxDb": [
@@ -300,7 +297,6 @@
   ],
   "GenomicPlot": [
     "RCAS",
-    "genomation",
     "txdbmaker"
   ],
   "Guitar": [],
@@ -480,8 +476,7 @@
     "VariantAnnotation"
   ],
   "RCAS": [
-    "txdbmaker",
-    "genomation"
+    "txdbmaker"
   ],
   "REMP": [
     "minfi",
@@ -970,13 +965,10 @@
     "txdbmaker"
   ],
   "esATAC": [
-    "pipeFrame",
     "ChIPseeker",
     "motifmatchr"
   ],
-  "fCCAC": [
-    "genomation"
-  ],
+  "fCCAC": [],
   "factR": [],
   "fcScan": [
     "VariantAnnotation"
@@ -998,7 +990,6 @@
   "gINTomics": [],
   "gcapc": [],
   "geneAttribution": [],
-  "genomation": [],
   "geomeTriD": [
     "trackViewer",
     "Gviz",
@@ -1088,7 +1079,6 @@
     "minfi",
     "bumphunter"
   ],
-  "m6Aboost": [],
   "mCSEA": [
     "Gviz",
     "ensembldb",
@@ -1215,7 +1205,6 @@
   ],
   "periodicDNA": [],
   "phantasus": [],
-  "pipeFrame": [],
   "podkat": [],
   "preciseTAD": [
     "rCGH"
@@ -1245,7 +1234,6 @@
     "VariantAnnotation"
   ],
   "qpgraph": [],
-  "qsea": [],
   "quantro": [
     "minfi",
     "bumphunter"
