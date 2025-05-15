@@ -2149,3 +2149,5 @@ scruff
 comapr
 cummeRbund
 maser
+epivizrStandalone
+FLAMES
