@@ -52,10 +52,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "BASiCS": [],
-  "BASiCStan": [
-    "BASiCS"
-  ],
+  "BASiCStan": [],
   "BBCAnalyzer": [
     "VariantAnnotation",
     "BSgenome",
@@ -312,7 +309,6 @@
   "EDASeq": [
     "GenomicFeatures"
   ],
-  "EGAD": [],
   "ELMER": [
     "GenomicFeatures",
     "Gviz",
@@ -1085,7 +1081,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "animalcules": [],
   "appreci8R": [
     "VariantAnnotation",
     "BSgenome",
@@ -1456,7 +1451,6 @@
     "BSgenome",
     "TFBSTools"
   ],
-  "epiregulon.extra": [],
   "epivizr": [
     "epivizrData",
     "bumphunter",
@@ -1668,7 +1662,6 @@
     "minfi",
     "bumphunter"
   ],
-  "lute": [],
   "m6Aboost": [
     "BSgenome"
   ],
@@ -1973,7 +1966,6 @@
     "txdbmaker",
     "TFBSTools"
   ],
-  "rifiComparative": [],
   "rmspc": [],
   "rnaEditr": [
     "bumphunter",

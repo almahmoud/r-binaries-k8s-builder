@@ -1804,3 +1804,4 @@ RJMCMCNucleosomes
 lemur
 transformGamPoi
 SurfR
+BASiCStan

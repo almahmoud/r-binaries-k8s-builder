@@ -1678,3 +1678,9 @@ geneXtendeR
 qsmooth
 roar
 SPsimSeq
+animalcules
+BASiCS
+EGAD
+epiregulon.extra
+lute
+rifiComparative
