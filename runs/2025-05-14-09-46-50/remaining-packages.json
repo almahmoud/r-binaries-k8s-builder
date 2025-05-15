@@ -23,15 +23,11 @@
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
   "ReportingTools": [],
-  "SomaticSignatures": [],
   "Ularcirc": [],
-  "YAPSA": [
-    "SomaticSignatures"
-  ],
+  "YAPSA": [],
   "affycoretools": [
     "ReportingTools"
   ],
-  "cageminer": [],
   "comapr": [],
   "crisprDesign": [
     "crisprScore"
@@ -63,7 +59,6 @@
   "maser": [],
   "methylPipe": [],
   "motifbreakR": [],
-  "msgbsR": [],
   "orthos": [],
   "primirTSS": [],
   "regutools": [],
