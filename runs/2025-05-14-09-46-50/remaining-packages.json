@@ -2,17 +2,12 @@
   "ASpli": [],
   "AgiMicroRna": [
     "affycoretools",
-    "ReportingTools",
-    "ggbio"
+    "ReportingTools"
   ],
   "AllelicImbalance": [],
-  "BOBaFIT": [
-    "ggbio"
-  ],
+  "BOBaFIT": [],
   "BulkSignalR": [],
-  "CAFE": [
-    "ggbio"
-  ],
+  "CAFE": [],
   "CAGEfightR": [
     "GenomicInteractions"
   ],
@@ -24,20 +19,14 @@
     "DMRcate"
   ],
   "DMRcate": [],
-  "Damsel": [
-    "ggbio"
-  ],
+  "Damsel": [],
   "DuplexDiscovereR": [],
   "ELMER": [],
   "EpiCompare": [],
-  "FLAMES": [
-    "ggbio"
-  ],
+  "FLAMES": [],
   "GeneStructureTools": [],
   "GenomicInteractions": [],
-  "GenomicOZone": [
-    "ggbio"
-  ],
+  "GenomicOZone": [],
   "HiCDCPlus": [
     "GenomicInteractions"
   ],
@@ -47,9 +36,7 @@
   "OGRE": [],
   "PhenStat": [],
   "Pviz": [],
-  "R3CPET": [
-    "ggbio"
-  ],
+  "R3CPET": [],
   "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
     "RNAmodR"
@@ -60,31 +47,21 @@
   "RNAmodR.RiboMethSeq": [
     "RNAmodR"
   ],
-  "ReportingTools": [
-    "ggbio"
-  ],
-  "RiboProfiling": [
-    "ggbio"
-  ],
+  "ReportingTools": [],
+  "RiboProfiling": [],
   "SPLINTER": [],
-  "SomaticSignatures": [
-    "ggbio"
-  ],
+  "SomaticSignatures": [],
   "TVTB": [],
   "Ularcirc": [],
   "VariantFiltering": [],
   "YAPSA": [
-    "SomaticSignatures",
-    "ggbio"
+    "SomaticSignatures"
   ],
   "affycoretools": [
-    "ReportingTools",
-    "ggbio"
+    "ReportingTools"
   ],
   "biomvRCNS": [],
-  "cageminer": [
-    "ggbio"
-  ],
+  "cageminer": [],
   "chevreulShiny": [],
   "chimeraviz": [],
   "cicero": [],
@@ -108,26 +85,19 @@
     "crisprScore"
   ],
   "cummeRbund": [],
-  "derfinderPlot": [
-    "ggbio"
-  ],
+  "derfinderPlot": [],
   "epimutacions": [],
   "epivizrStandalone": [],
   "geomeTriD": [
     "trackViewer"
   ],
-  "ggbio": [],
   "immunotation": [],
-  "intansv": [
-    "ggbio"
-  ],
+  "intansv": [],
   "mCSEA": [],
   "maser": [],
   "methylPipe": [],
   "motifbreakR": [],
-  "msgbsR": [
-    "ggbio"
-  ],
+  "msgbsR": [],
   "orthos": [],
   "primirTSS": [],
   "regutools": [],
@@ -136,9 +106,7 @@
   ],
   "scTreeViz": [],
   "scifer": [],
-  "scruff": [
-    "ggbio"
-  ],
+  "scruff": [],
   "sketchR": [],
   "snifter": [],
   "spatzie": [
