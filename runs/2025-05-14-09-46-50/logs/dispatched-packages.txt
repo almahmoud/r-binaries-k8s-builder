@@ -2190,3 +2190,4 @@ ChAMP
 CAGEr
 affycoretools
 geomeTriD
+AgiMicroRna

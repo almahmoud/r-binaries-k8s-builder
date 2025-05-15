@@ -2173,3 +2173,6 @@ spatzie
 trackViewer
 uncoverappLib
 YAPSA
+affycoretools
+CAGEr
+geomeTriD

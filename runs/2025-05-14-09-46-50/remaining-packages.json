@@ -1,16 +1,12 @@
 {
-  "AgiMicroRna": [
-    "affycoretools"
-  ],
+  "AgiMicroRna": [],
   "BulkSignalR": [],
-  "CAGEr": [],
   "ChAMP": [],
   "EpiCompare": [],
   "LimROTS": [],
   "NormqPCR": [],
   "PhenStat": [],
   "Ularcirc": [],
-  "affycoretools": [],
   "crisprDesign": [
     "crisprScore"
   ],
@@ -29,7 +25,6 @@
     "crisprDesign",
     "crisprScore"
   ],
-  "geomeTriD": [],
   "immunotation": [],
   "orthos": [],
   "scifer": [],
