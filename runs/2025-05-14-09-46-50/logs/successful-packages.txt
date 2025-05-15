@@ -1705,3 +1705,6 @@ MsQuality
 multiHiCcompare
 pram
 TEKRABber
+Rbec
+recount3
+spicyR

@@ -567,7 +567,6 @@
   "RareVariantVis": [
     "VariantAnnotation"
   ],
-  "Rbec": [],
   "RegEnrich": [],
   "Repitools": [],
   "ReportingTools": [
@@ -1160,9 +1159,7 @@
   "lineagespot": [
     "VariantAnnotation"
   ],
-  "lisaClust": [
-    "spicyR"
-  ],
+  "lisaClust": [],
   "lumi": [
     "methylumi",
     "minfi",
@@ -1353,7 +1350,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "recount3": [],
   "recountmethylation": [
     "minfi",
     "bumphunter"
@@ -1486,7 +1482,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "spicyR": [],
   "spiky": [],
   "spillR": [],
   "squallms": [
