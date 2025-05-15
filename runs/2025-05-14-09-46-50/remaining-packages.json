@@ -22,7 +22,6 @@
     "biovizBase"
   ],
   "BUSpaRse": [],
-  "BadRegionFinder": [],
   "BubbleTree": [
     "biovizBase"
   ],
@@ -43,7 +42,6 @@
     "biovizBase"
   ],
   "CAMERA": [],
-  "CTexploreR": [],
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
@@ -309,7 +307,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "dagLogo": [],
   "decompTumor2Sig": [],
   "demuxSNP": [],
   "derfinder": [],
