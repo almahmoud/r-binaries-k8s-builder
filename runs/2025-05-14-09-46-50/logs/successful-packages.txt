@@ -1530,3 +1530,7 @@ ASICS
 missRows
 mosaics
 sccomp
+a4Base
+CTdata
+EDIRquery
+wpm

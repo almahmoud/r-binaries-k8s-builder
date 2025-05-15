@@ -202,10 +202,7 @@
   "CSSQ": [
     "GenomicFeatures"
   ],
-  "CTdata": [],
-  "CTexploreR": [
-    "CTdata"
-  ],
+  "CTexploreR": [],
   "CaMutQC": [
     "clusterProfiler",
     "enrichplot"
@@ -379,7 +376,6 @@
   "EDASeq": [
     "GenomicFeatures"
   ],
-  "EDIRquery": [],
   "EGAD": [
     "GEOquery"
   ],
@@ -1277,10 +1273,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "a4": [
-    "a4Base"
-  ],
-  "a4Base": [],
+  "a4": [],
   "adductomicsR": [],
   "affycoretools": [
     "GOstats",
@@ -2700,7 +2693,6 @@
     "GenomicFeatures"
   ],
   "wiggleplotr": [],
-  "wpm": [],
   "xcms": [
     "MsExperiment"
   ],
