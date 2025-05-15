@@ -1772,3 +1772,8 @@ cfDNAPro
 gcapc
 methInheritSim
 nearBynding
+fCCAC
+qpgraph
+SpliceWiz
+txdbmaker
+VariantAnnotation
