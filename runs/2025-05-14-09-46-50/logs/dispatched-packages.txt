@@ -2119,3 +2119,6 @@ chevreulPlot
 epivizr
 epivizrChart
 shinyDSP
+RNAAgeCalc
+RnaSeqSampleSize
+psichomics

@@ -123,9 +123,7 @@
     "ggbio",
     "biovizBase"
   ],
-  "RNAAgeCalc": [
-    "recount"
-  ],
+  "RNAAgeCalc": [],
   "RNAmodR": [
     "Gviz",
     "biovizBase"
@@ -153,9 +151,7 @@
     "ggbio",
     "biovizBase"
   ],
-  "RnaSeqSampleSize": [
-    "recount"
-  ],
+  "RnaSeqSampleSize": [],
   "Rqc": [
     "biovizBase"
   ],
@@ -306,11 +302,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "psichomics": [
-    "recount"
-  ],
-  "recount": [],
-  "regionReport": [],
+  "psichomics": [],
   "regutools": [
     "Gviz",
     "biovizBase"

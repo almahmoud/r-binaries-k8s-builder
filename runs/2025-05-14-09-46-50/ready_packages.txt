@@ -1,1 +1,3 @@
-shinyDSP
+RNAAgeCalc
+RnaSeqSampleSize
+psichomics

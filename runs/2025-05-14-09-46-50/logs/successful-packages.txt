@@ -2068,3 +2068,5 @@ octad
 ribosomeProfilingQC
 cbaf
 standR
+recount
+regionReport
