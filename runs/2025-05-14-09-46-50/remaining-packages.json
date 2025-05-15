@@ -31,7 +31,6 @@
   ],
   "BadRegionFinder": [],
   "BgeeCall": [],
-  "BindingSiteFinder": [],
   "BubbleTree": [
     "biovizBase",
     "ensembldb"
@@ -198,7 +197,6 @@
   "Moonlight2R": [
     "EpiMix"
   ],
-  "NanoMethViz": [],
   "NormqPCR": [],
   "OGRE": [
     "Gviz",
@@ -544,7 +542,6 @@
   "methylclock": [
     "ExperimentHubData"
   ],
-  "miaDash": [],
   "missMethyl": [],
   "monaLisa": [],
   "motifbreakR": [

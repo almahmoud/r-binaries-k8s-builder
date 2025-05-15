@@ -1972,3 +1972,6 @@ seqArchRplus
 periodicDNA
 selectKSigs
 xcms
+BindingSiteFinder
+miaDash
+NanoMethViz
