@@ -1496,3 +1496,7 @@ FastqCleaner
 IONiseR
 OTUbase
 tidySingleCellExperiment
+basecallQC
+Coralysis
+RSVSim
+VisiumIO

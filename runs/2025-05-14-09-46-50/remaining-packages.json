@@ -291,7 +291,6 @@
   "Cogito": [
     "GenomicFeatures"
   ],
-  "Coralysis": [],
   "CoverageView": [],
   "CrispRVariants": [],
   "CytoMDS": [],
@@ -990,7 +989,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils",
     "GenomicFeatures"
@@ -1274,14 +1272,11 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "VisiumIO": [],
   "Voyager": [],
   "XDE": [
     "GeneMeta"
   ],
-  "XeniumIO": [
-    "VisiumIO"
-  ],
+  "XeniumIO": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
@@ -1366,7 +1361,6 @@
     "GenomicFeatures"
   ],
   "bandle": [],
-  "basecallQC": [],
   "bedbaser": [],
   "bigmelon": [
     "wateRmelon",
