@@ -440,7 +440,6 @@
   ],
   "SARC": [],
   "SCAN.UPC": [],
-  "SCANVIS": [],
   "SEtools": [],
   "SGSeq": [],
   "SMITE": [
@@ -751,7 +750,6 @@
   "funtooNorm": [
     "minfi"
   ],
-  "gINTomics": [],
   "geneAttribution": [],
   "geomeTriD": [
     "trackViewer",
