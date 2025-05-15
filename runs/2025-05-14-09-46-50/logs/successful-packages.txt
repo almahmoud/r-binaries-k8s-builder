@@ -2012,3 +2012,5 @@ IntEREst
 SEtools
 TOP
 VCFArray
+BASiCStan
+QuasR

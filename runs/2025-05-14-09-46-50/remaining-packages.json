@@ -17,7 +17,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "BASiCStan": [],
   "BOBaFIT": [
     "ggbio",
     "biovizBase"
@@ -159,7 +158,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "QuasR": [],
   "R3CPET": [
     "ggbio",
     "biovizBase"
@@ -210,9 +208,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "SingleMoleculeFootprinting": [
-    "QuasR"
-  ],
+  "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [
     "ggbio",
     "biovizBase"
