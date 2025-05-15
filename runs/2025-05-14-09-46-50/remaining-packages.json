@@ -414,7 +414,6 @@
     "sva",
     "GenomicFeatures"
   ],
-  "GDCRNATools": [],
   "GEOexplorer": [
     "sva"
   ],
@@ -657,7 +656,6 @@
     "EpiMix",
     "GenomicFeatures"
   ],
-  "MoonlightR": [],
   "Motif2Site": [
     "BSgenome"
   ],
@@ -2354,7 +2352,6 @@
     "VariantAnnotation"
   ],
   "velociraptor": [],
-  "visiumStitched": [],
   "vmrseq": [
     "bumphunter",
     "GenomicFeatures"

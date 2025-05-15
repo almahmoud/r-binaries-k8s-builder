@@ -1633,3 +1633,6 @@ EasyCellType
 extraChIPs
 MetaPhOR
 MicrobiomeProfiler
+GDCRNATools
+MoonlightR
+visiumStitched
