@@ -1,6 +1,6 @@
-ChIPQC
-CircSeqAlignTk
-IPO
-MAIT
-flagme
-metaMS
+GARS
+consensusDE
+octad
+ribosomeProfilingQC
+scone
+standR

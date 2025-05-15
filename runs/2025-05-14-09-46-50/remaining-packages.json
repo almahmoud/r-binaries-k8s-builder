@@ -57,7 +57,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "DaMiRseq": [],
   "Damsel": [
     "ggbio",
     "biovizBase"
@@ -75,9 +74,7 @@
     "ggbio",
     "biovizBase"
   ],
-  "GARS": [
-    "DaMiRseq"
-  ],
+  "GARS": [],
   "GNOSIS": [],
   "GeneStructureTools": [
     "Gviz",
@@ -159,7 +156,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "RUVSeq": [],
   "ReportingTools": [
     "ggbio",
     "biovizBase"
@@ -236,15 +232,12 @@
     "Gviz",
     "biovizBase"
   ],
-  "circRNAprofiler": [],
   "cliqueMS": [],
   "comapr": [
     "Gviz",
     "biovizBase"
   ],
-  "consensusDE": [
-    "RUVSeq"
-  ],
+  "consensusDE": [],
   "cosmiq": [],
   "crisprDesign": [
     "crisprScore"
@@ -312,7 +305,6 @@
     "biovizBase"
   ],
   "iCheck": [],
-  "iNETgrate": [],
   "iSEEfier": [],
   "immunotation": [],
   "intansv": [
@@ -348,9 +340,7 @@
   ],
   "musicatk": [],
   "ncGTW": [],
-  "octad": [
-    "RUVSeq"
-  ],
+  "octad": [],
   "orthos": [],
   "pageRank": [],
   "primirTSS": [
@@ -371,9 +361,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "ribosomeProfilingQC": [
-    "RUVSeq"
-  ],
+  "ribosomeProfilingQC": [],
   "saseR": [
     "ASpli",
     "Gviz",
@@ -386,16 +374,13 @@
   ],
   "scanMiRApp": [],
   "scifer": [],
-  "scone": [
-    "RUVSeq"
-  ],
+  "scone": [],
   "scruff": [
     "ggbio",
     "biovizBase"
   ],
   "shinyDSP": [
-    "standR",
-    "RUVSeq"
+    "standR"
   ],
   "signifinder": [],
   "sketchR": [],
@@ -412,9 +397,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "standR": [
-    "RUVSeq"
-  ],
+  "standR": [],
   "tadar": [
     "Gviz",
     "biovizBase"

@@ -2039,3 +2039,7 @@ TFutils
 CAMERA
 DiffBind
 Rhisat2
+circRNAprofiler
+DaMiRseq
+iNETgrate
+RUVSeq
