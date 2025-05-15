@@ -154,7 +154,6 @@
     "xcms"
   ],
   "CATALYST": [],
-  "CBNplot": [],
   "CCAFE": [
     "VariantAnnotation",
     "BSgenome",
@@ -729,7 +728,6 @@
   "PROPS": [
     "sva"
   ],
-  "PanomiR": [],
   "PhenStat": [],
   "PhyloProfile": [],
   "Pigengene": [],
@@ -1871,7 +1869,6 @@
     "GOstats"
   ],
   "miRSM": [],
-  "miRspongeR": [],
   "miaDash": [
     "iSEE",
     "iSEEtree"
