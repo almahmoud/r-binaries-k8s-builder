@@ -1945,3 +1945,6 @@ easyRNASeq
 PureCN
 sevenC
 SingleCellSignalR
+lemur
+RJMCMCNucleosomes
+transformGamPoi

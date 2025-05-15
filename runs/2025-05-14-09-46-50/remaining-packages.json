@@ -246,7 +246,6 @@
     "ensembldb"
   ],
   "RESOLVE": [],
-  "RJMCMCNucleosomes": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder"
@@ -554,7 +553,6 @@
   "kissDE": [
     "DSS"
   ],
-  "lemur": [],
   "lumi": [],
   "mCSEA": [
     "Gviz",
@@ -726,7 +724,6 @@
     "biovizBase"
   ],
   "transcriptR": [],
-  "transformGamPoi": [],
   "transmogR": [],
   "tximeta": [
     "ensembldb"
