@@ -1468,3 +1468,9 @@ gDRcore
 partCNV
 RcisTarget
 SplicingFactory
+BiocHubsShiny
+Category
+CuratedAtlasQueryR
+GSVA
+msmsTests
+vissE

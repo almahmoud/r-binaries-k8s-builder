@@ -40,7 +40,6 @@
     "affycoretools",
     "GOstats",
     "ReportingTools",
-    "Category",
     "ggbio",
     "biovizBase",
     "BSgenome",
@@ -141,7 +140,6 @@
     "sva"
   ],
   "BioTIP": [],
-  "BiocHubsShiny": [],
   "BloodGen3Module": [],
   "BubbleTree": [
     "biovizBase",
@@ -246,7 +244,6 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "Category": [],
   "CeTF": [
     "clusterProfiler",
     "enrichplot"
@@ -345,7 +342,6 @@
     "rtracklayer"
   ],
   "CrispRVariants": [],
-  "CuratedAtlasQueryR": [],
   "CytoMDS": [],
   "CytoPipelineGUI": [],
   "DAMEfinder": [
@@ -591,9 +587,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "GOstats": [
-    "Category"
-  ],
+  "GOstats": [],
   "GSEABenchmarkeR": [
     "EnrichmentBrowser"
   ],
@@ -604,7 +598,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "GSVA": [],
   "GeneMeta": [],
   "GeneStructureTools": [
     "Gviz",
@@ -658,7 +651,6 @@
     "BSgenome"
   ],
   "GmicR": [
-    "Category",
     "GOstats"
   ],
   "GreyListChIP": [
@@ -850,9 +842,7 @@
   "MSPrep": [
     "sva"
   ],
-  "MSnID": [
-    "msmsTests"
-  ],
+  "MSnID": [],
   "MSstatsQCgui": [],
   "MatrixQCvis": [
     "sva"
@@ -897,7 +887,6 @@
   "MineICA": [
     "GOstats",
     "lumi",
-    "Category",
     "methylumi",
     "GenomicFeatures",
     "rtracklayer",
@@ -1199,7 +1188,6 @@
     "BSgenome"
   ],
   "ReportingTools": [
-    "Category",
     "GOstats",
     "ggbio",
     "biovizBase",
@@ -1285,8 +1273,7 @@
     "sva"
   ],
   "SGCP": [
-    "GOstats",
-    "Category"
+    "GOstats"
   ],
   "SGSeq": [
     "GenomicFeatures",
@@ -1387,7 +1374,6 @@
   ],
   "TBSignatureProfiler": [
     "ASSIGN",
-    "GSVA",
     "sva"
   ],
   "TCGAutils": [
@@ -1544,7 +1530,6 @@
   "affycoretools": [
     "GOstats",
     "ReportingTools",
-    "Category",
     "ggbio",
     "biovizBase",
     "BSgenome",
@@ -1603,8 +1588,7 @@
     "rtracklayer"
   ],
   "attract": [
-    "GOstats",
-    "Category"
+    "GOstats"
   ],
   "autonomics": [],
   "ballgown": [
@@ -1714,7 +1698,6 @@
     "phenoTest",
     "RTCGAToolbox",
     "TCGAutils",
-    "Category",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -1729,7 +1712,6 @@
     "rtracklayer"
   ],
   "categoryCompare": [
-    "Category",
     "GOstats"
   ],
   "cbaf": [
@@ -1850,9 +1832,7 @@
     "RUVSeq",
     "rtracklayer"
   ],
-  "consensusOV": [
-    "GSVA"
-  ],
+  "consensusOV": [],
   "consensusSeekeR": [
     "rtracklayer"
   ],
@@ -2144,9 +2124,7 @@
     "motifmatchr",
     "enrichplot"
   ],
-  "escape": [
-    "GSVA"
-  ],
+  "escape": [],
   "evaluomeR": [],
   "extraChIPs": [
     "rtracklayer"
@@ -2373,9 +2351,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "interactiveDisplay": [
-    "Category"
-  ],
+  "interactiveDisplay": [],
   "ipdDb": [],
   "katdetectr": [
     "BSgenome",
@@ -2454,9 +2430,7 @@
   "meshes": [
     "enrichplot"
   ],
-  "meshr": [
-    "Category"
-  ],
+  "meshr": [],
   "metaMS": [
     "CAMERA",
     "xcms",
@@ -2545,7 +2519,6 @@
     "GEOquery"
   ],
   "miRLAB": [
-    "Category",
     "GOstats"
   ],
   "miRSM": [
@@ -2636,7 +2609,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "msmsTests": [],
   "multiGSEA": [],
   "multiHiCcompare": [
     "HiCcompare"
@@ -2683,16 +2655,13 @@
   "octad": [
     "RUVSeq",
     "EDASeq",
-    "GSVA",
     "GenomicFeatures",
     "rtracklayer"
   ],
   "omicRexposome": [
     "sva"
   ],
-  "oppar": [
-    "GSVA"
-  ],
+  "oppar": [],
   "orthos": [],
   "pRolocGUI": [],
   "pageRank": [
@@ -2705,9 +2674,7 @@
     "DEXSeq",
     "sva"
   ],
-  "pathMED": [
-    "GSVA"
-  ],
+  "pathMED": [],
   "pathlinkR": [
     "clusterProfiler",
     "enrichplot"
@@ -2719,9 +2686,7 @@
   "phantasus": [
     "GEOquery"
   ],
-  "phenoTest": [
-    "Category"
-  ],
+  "phenoTest": [],
   "pipeComp": [],
   "pipeFrame": [
     "BSgenome",
@@ -2933,7 +2898,6 @@
   "scDesign3": [],
   "scDotPlot": [],
   "scFeatures": [
-    "GSVA",
     "ensembldb",
     "SingleCellSignalR",
     "GenomicFeatures",
@@ -3062,7 +3026,6 @@
   "signifinder": [
     "consensusOV",
     "ensembldb",
-    "GSVA",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -3258,7 +3221,6 @@
   "visiumStitched": [
     "rtracklayer"
   ],
-  "vissE": [],
   "vmrseq": [
     "bumphunter",
     "GenomicFeatures",
