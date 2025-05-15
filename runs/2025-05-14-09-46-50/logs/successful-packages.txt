@@ -1996,3 +1996,6 @@ iSEEu
 MatrixQCvis
 methylInheritance
 profileplyr
+bnem
+cBioPortalData
+interactiveDisplay

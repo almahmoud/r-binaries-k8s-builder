@@ -2065,3 +2065,7 @@ DaMiRseq
 RUVSeq
 metaseqR2
 iSEEfier
+GNOSIS
+bioCancer
+canceR
+cbaf

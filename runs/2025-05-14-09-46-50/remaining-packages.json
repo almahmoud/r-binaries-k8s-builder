@@ -116,9 +116,7 @@
   "GARS": [
     "DaMiRseq"
   ],
-  "GNOSIS": [
-    "cBioPortalData"
-  ],
+  "GNOSIS": [],
   "GeneStructureTools": [
     "Gviz",
     "ensembldb",
@@ -308,9 +306,7 @@
     "wateRmelon",
     "lumi"
   ],
-  "bioCancer": [
-    "cBioPortalData"
-  ],
+  "bioCancer": [],
   "biomvRCNS": [
     "Gviz",
     "ensembldb",
@@ -319,19 +315,13 @@
   "biovizBase": [
     "ensembldb"
   ],
-  "bnem": [],
-  "cBioPortalData": [],
   "cageminer": [
     "ggbio",
     "biovizBase",
     "ensembldb"
   ],
-  "canceR": [
-    "cBioPortalData"
-  ],
-  "cbaf": [
-    "cBioPortalData"
-  ],
+  "canceR": [],
+  "cbaf": [],
   "chevreulPlot": [
     "chevreulProcess",
     "ensembldb"
@@ -475,7 +465,6 @@
     "biovizBase",
     "ensembldb"
   ],
-  "interactiveDisplay": [],
   "kissDE": [],
   "lumi": [],
   "mCSEA": [
