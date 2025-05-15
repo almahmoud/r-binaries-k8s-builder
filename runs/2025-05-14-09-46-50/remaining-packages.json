@@ -115,7 +115,6 @@
   "DAMEfinder": [],
   "DAPAR": [],
   "DEP": [],
-  "DExMA": [],
   "DMCFB": [],
   "DMRcate": [
     "bsseq",
@@ -198,7 +197,6 @@
     "cBioPortalData",
     "RTCGAToolbox"
   ],
-  "GSEABenchmarkeR": [],
   "GSReg": [
     "OrganismDbi"
   ],
@@ -705,7 +703,6 @@
     "ChIPseeker",
     "motifmatchr"
   ],
-  "factR": [],
   "fcScan": [],
   "ffpe": [
     "lumi",
@@ -874,7 +871,6 @@
   ],
   "periodicDNA": [],
   "phantasus": [],
-  "podkat": [],
   "preciseTAD": [],
   "primirTSS": [
     "Gviz",
@@ -1010,13 +1006,11 @@
   "svaRetro": [
     "StructuralVariantAnnotation"
   ],
-  "tLOH": [],
   "tadar": [
     "Gviz",
     "ensembldb",
     "biovizBase"
   ],
-  "terraTCGAdata": [],
   "tidyCoverage": [],
   "tidySpatialExperiment": [],
   "tidyomics": [],
