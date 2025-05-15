@@ -1,5 +1,4 @@
 {
-  "AHMassBank": [],
   "ASpli": [
     "Gviz",
     "biovizBase"
@@ -257,7 +256,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "methylGSA": [],
   "methylPipe": [
     "Gviz",
     "biovizBase"
