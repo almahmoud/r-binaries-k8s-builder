@@ -1518,3 +1518,11 @@ GeneMeta
 lefser
 metabolomicsWorkbenchR
 XeniumIO
+cghMCR
+dar
+MACSr
+nipalsMCIA
+pRolocGUI
+PROMISE
+systemPipeR
+xenLite

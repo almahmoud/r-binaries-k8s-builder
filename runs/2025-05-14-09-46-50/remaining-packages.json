@@ -174,9 +174,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "CCPROMISE": [
-    "PROMISE"
-  ],
+  "CCPROMISE": [],
   "CEMiTool": [
     "clusterProfiler",
     "enrichplot"
@@ -248,7 +246,6 @@
   "ChIPQC": [
     "DiffBind",
     "GenomicFeatures",
-    "systemPipeR",
     "GreyListChIP",
     "BSgenome"
   ],
@@ -363,7 +360,6 @@
     "txdbmaker"
   ],
   "DiffBind": [
-    "systemPipeR",
     "GreyListChIP",
     "BSgenome"
   ],
@@ -646,7 +642,6 @@
   "Lheuristic": [],
   "LimROTS": [],
   "M3Drop": [],
-  "MACSr": [],
   "MAGAR": [
     "RnBeads",
     "methylumi",
@@ -842,7 +837,6 @@
   "POMA": [
     "sva"
   ],
-  "PROMISE": [],
   "PRONE": [
     "POMA",
     "sva"
@@ -1457,7 +1451,6 @@
   ],
   "cfTools": [],
   "cfdnakit": [],
-  "cghMCR": [],
   "chevreulPlot": [
     "chevreulProcess",
     "wiggleplotr",
@@ -1636,7 +1629,6 @@
     "BSgenome"
   ],
   "dandelionR": [],
-  "dar": [],
   "debrowser": [
     "clusterProfiler",
     "sva",
@@ -2233,7 +2225,6 @@
     "clusterExperiment",
     "mbkmeans"
   ],
-  "nipalsMCIA": [],
   "nullranges": [
     "plyranges"
   ],
@@ -2247,7 +2238,6 @@
   ],
   "oppar": [],
   "orthos": [],
-  "pRolocGUI": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools",
@@ -2615,7 +2605,6 @@
   ],
   "switchde": [],
   "syntenet": [],
-  "systemPipeR": [],
   "tLOH": [
     "VariantAnnotation",
     "BSgenome",
@@ -2720,7 +2709,6 @@
     "MsExperiment"
   ],
   "xcore": [],
-  "xenLite": [],
   "yarn": [
     "quantro",
     "minfi",
