@@ -546,7 +546,6 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "HiTC": [],
   "HicAggR": [],
   "IMAS": [
     "GenomicFeatures",
@@ -562,7 +561,6 @@
   "IVAS": [
     "GenomicFeatures"
   ],
-  "IdeoViz": [],
   "InPAS": [
     "BSgenome",
     "cleanUpdTSeq",
@@ -761,7 +759,6 @@
   "PAA": [
     "sva"
   ],
-  "PAST": [],
   "PECA": [],
   "POMA": [
     "sva"
@@ -1587,7 +1584,6 @@
     "motifmatchr",
     "TFBSTools"
   ],
-  "enrichViewNet": [],
   "ensembldb": [
     "GenomicFeatures"
   ],
@@ -2072,7 +2068,6 @@
   "pairedGSEA": [
     "sva"
   ],
-  "pathMED": [],
   "pathlinkR": [
     "clusterProfiler"
   ],
