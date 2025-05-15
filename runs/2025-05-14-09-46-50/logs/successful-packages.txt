@@ -1925,3 +1925,11 @@ MungeSumstats
 seqsetvis
 TFHAZ
 Uniquorn
+bsseq
+chipenrich
+ChIPseeker
+gwasurvivr
+IVAS
+Prostar
+UPDhmm
+vtpnet

@@ -60,8 +60,7 @@
     "xcms"
   ],
   "COCOA": [
-    "MIRA",
-    "bsseq"
+    "MIRA"
   ],
   "CSSQ": [],
   "CTexploreR": [],
@@ -70,7 +69,6 @@
     "DMRcate",
     "wateRmelon",
     "missMethyl",
-    "bsseq",
     "Gviz",
     "lumi",
     "ensembldb",
@@ -83,7 +81,6 @@
     "biovizBase",
     "ensembldb"
   ],
-  "ChIPseeker": [],
   "CircSeqAlignTk": [
     "Rhisat2",
     "SGSeq"
@@ -95,16 +92,13 @@
   "DAMEfinder": [],
   "DEP": [],
   "DMRcate": [
-    "bsseq",
     "missMethyl",
     "Gviz",
     "ensembldb",
     "biovizBase"
   ],
   "DNAfusion": [],
-  "DSS": [
-    "bsseq"
-  ],
+  "DSS": [],
   "DaMiRseq": [
     "EDASeq"
   ],
@@ -114,8 +108,7 @@
     "ensembldb"
   ],
   "DeMixT": [
-    "DSS",
-    "bsseq"
+    "DSS"
   ],
   "DegCre": [],
   "DiffBind": [],
@@ -131,9 +124,7 @@
     "biovizBase"
   ],
   "EWCE": [],
-  "EpiCompare": [
-    "ChIPseeker"
-  ],
+  "EpiCompare": [],
   "EpiMix": [],
   "EventPointer": [
     "SGSeq"
@@ -184,15 +175,12 @@
     "biovizBase"
   ],
   "HiCool": [],
-  "IMAS": [
-    "IVAS"
-  ],
+  "IMAS": [],
   "INSPEcT": [],
   "IPO": [
     "xcms",
     "CAMERA"
   ],
-  "IVAS": [],
   "IntEREst": [],
   "IsoformSwitchAnalyzeR": [
     "tximeta",
@@ -217,9 +205,7 @@
     "wateRmelon",
     "lumi"
   ],
-  "MIRA": [
-    "bsseq"
-  ],
+  "MIRA": [],
   "MSPrep": [],
   "MatrixQCvis": [],
   "MatrixRider": [],
@@ -232,9 +218,7 @@
   "Moonlight2R": [
     "EpiMix"
   ],
-  "NanoMethViz": [
-    "bsseq"
-  ],
+  "NanoMethViz": [],
   "NormqPCR": [],
   "OGRE": [
     "Gviz",
@@ -251,7 +235,6 @@
     "POMA"
   ],
   "PhenStat": [],
-  "Prostar": [],
   "PureCN": [],
   "Pviz": [
     "Gviz",
@@ -351,7 +334,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "UPDhmm": [],
   "Ularcirc": [
     "Organism.dplyr"
   ],
@@ -399,10 +381,8 @@
   "bnbc": [],
   "bnem": [],
   "borealis": [
-    "bsseq",
     "DSS"
   ],
-  "bsseq": [],
   "cBioPortalData": [
     "RTCGAToolbox"
   ],
@@ -436,7 +416,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "chipenrich": [],
   "cicero": [
     "Gviz",
     "ensembldb",
@@ -541,7 +520,6 @@
     "ensembldb"
   ],
   "esATAC": [
-    "ChIPseeker",
     "motifmatchr"
   ],
   "ffpe": [
@@ -561,7 +539,6 @@
     "biovizBase",
     "ensembldb"
   ],
-  "gwasurvivr": [],
   "iCheck": [
     "lumi"
   ],
@@ -584,8 +561,7 @@
   ],
   "interactiveDisplay": [],
   "kissDE": [
-    "DSS",
-    "bsseq"
+    "DSS"
   ],
   "lemur": [],
   "lumi": [],
@@ -606,12 +582,9 @@
   ],
   "metaseqR2": [
     "DSS",
-    "EDASeq",
-    "bsseq"
+    "EDASeq"
   ],
-  "methylCC": [
-    "bsseq"
-  ],
+  "methylCC": [],
   "methylGSA": [
     "missMethyl"
   ],
@@ -622,7 +595,6 @@
     "biovizBase"
   ],
   "methylSig": [
-    "bsseq",
     "DSS"
   ],
   "methylclock": [
@@ -667,8 +639,7 @@
     "biovizBase"
   ],
   "profileplyr": [
-    "soGGi",
-    "ChIPseeker"
+    "soGGi"
   ],
   "psichomics": [
     "recount",
@@ -720,9 +691,7 @@
     "ensembldb"
   ],
   "selectKSigs": [],
-  "seqArchRplus": [
-    "ChIPseeker"
-  ],
+  "seqArchRplus": [],
   "sevenC": [],
   "shinyDSP": [
     "standR",
@@ -782,7 +751,6 @@
     "biovizBase"
   ],
   "velociraptor": [],
-  "vtpnet": [],
   "wateRmelon": [
     "lumi"
   ],

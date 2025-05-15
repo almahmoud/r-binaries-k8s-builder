@@ -2037,3 +2037,10 @@ missMethyl
 atSNP
 dagLogo
 miaDash
+DSS
+EpiCompare
+IMAS
+MIRA
+NanoMethViz
+methylCC
+seqArchRplus
