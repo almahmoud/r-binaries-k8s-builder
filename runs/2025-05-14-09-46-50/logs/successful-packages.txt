@@ -2132,3 +2132,9 @@ Pviz
 RNAmodR
 SPLINTER
 TVTB
+BOBaFIT
+CAFE
+chevreulShiny
+GenomicOZone
+RiboProfiling
+VariantFiltering

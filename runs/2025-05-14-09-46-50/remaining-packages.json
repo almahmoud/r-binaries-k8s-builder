@@ -3,9 +3,7 @@
     "affycoretools",
     "ReportingTools"
   ],
-  "BOBaFIT": [],
   "BulkSignalR": [],
-  "CAFE": [],
   "CAGEfightR": [],
   "CAGEr": [
     "CAGEfightR"
@@ -17,7 +15,6 @@
   "Damsel": [],
   "EpiCompare": [],
   "FLAMES": [],
-  "GenomicOZone": [],
   "HiCDCPlus": [],
   "LimROTS": [],
   "MEAL": [],
@@ -28,10 +25,8 @@
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
   "ReportingTools": [],
-  "RiboProfiling": [],
   "SomaticSignatures": [],
   "Ularcirc": [],
-  "VariantFiltering": [],
   "YAPSA": [
     "SomaticSignatures"
   ],
@@ -39,7 +34,6 @@
     "ReportingTools"
   ],
   "cageminer": [],
-  "chevreulShiny": [],
   "comapr": [],
   "crisprDesign": [
     "crisprScore"
