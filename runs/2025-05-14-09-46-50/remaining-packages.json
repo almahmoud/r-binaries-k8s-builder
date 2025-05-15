@@ -42,7 +42,6 @@
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
-    "missMethyl",
     "Gviz",
     "biovizBase"
   ],
@@ -53,7 +52,6 @@
   "CircSeqAlignTk": [],
   "CleanUpRNAseq": [],
   "DMRcate": [
-    "missMethyl",
     "Gviz",
     "biovizBase"
   ],
@@ -75,7 +73,6 @@
     "biovizBase"
   ],
   "GARS": [],
-  "GNOSIS": [],
   "GeneStructureTools": [
     "Gviz",
     "biovizBase"
@@ -107,7 +104,6 @@
   "MAIT": [],
   "MEAL": [
     "Gviz",
-    "missMethyl",
     "biovizBase"
   ],
   "MEAT": [
@@ -134,8 +130,7 @@
   ],
   "RAIDS": [],
   "RNAAgeCalc": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "RNAmodR": [
     "Gviz",
@@ -166,8 +161,7 @@
   ],
   "RnBeads": [],
   "RnaSeqSampleSize": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "Rqc": [
     "biovizBase"
@@ -200,7 +194,6 @@
     "biovizBase"
   ],
   "arrayMvout": [],
-  "atSNP": [],
   "bigmelon": [
     "wateRmelon"
   ],
@@ -232,13 +225,11 @@
     "Gviz",
     "biovizBase"
   ],
-  "cliqueMS": [],
   "comapr": [
     "Gviz",
     "biovizBase"
   ],
   "consensusDE": [],
-  "cosmiq": [],
   "crisprDesign": [
     "crisprScore"
   ],
@@ -268,9 +259,7 @@
     "biovizBase"
   ],
   "demuxSNP": [],
-  "derfinder": [],
   "derfinderPlot": [
-    "derfinder",
     "ggbio",
     "biovizBase"
   ],
@@ -321,15 +310,12 @@
   ],
   "metaMS": [],
   "metaseqR2": [],
-  "methylGSA": [
-    "missMethyl"
-  ],
+  "methylGSA": [],
   "methylPipe": [
     "Gviz",
     "biovizBase"
   ],
   "methylclock": [],
-  "missMethyl": [],
   "motifbreakR": [
     "Gviz",
     "biovizBase"
@@ -348,15 +334,10 @@
     "biovizBase"
   ],
   "psichomics": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
-  "recount": [
-    "derfinder"
-  ],
-  "regionReport": [
-    "derfinder"
-  ],
+  "recount": [],
+  "regionReport": [],
   "regutools": [
     "Gviz",
     "biovizBase"

@@ -2043,3 +2043,9 @@ circRNAprofiler
 DaMiRseq
 iNETgrate
 RUVSeq
+atSNP
+cliqueMS
+cosmiq
+derfinder
+GNOSIS
+missMethyl

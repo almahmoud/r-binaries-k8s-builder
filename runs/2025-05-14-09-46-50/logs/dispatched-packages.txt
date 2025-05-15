@@ -2111,3 +2111,6 @@ octad
 ribosomeProfilingQC
 scone
 standR
+methylGSA
+recount
+regionReport
