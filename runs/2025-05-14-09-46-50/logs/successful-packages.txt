@@ -2026,3 +2026,6 @@ MSPrep
 strandCheckR
 OutSplice
 transcriptR
+HelloRanges
+POMA
+VaSP

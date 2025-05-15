@@ -100,7 +100,6 @@
   "Gviz": [
     "biovizBase"
   ],
-  "HelloRanges": [],
   "HiCDCPlus": [
     "GenomicInteractions",
     "Gviz",
@@ -135,13 +134,8 @@
     "Gviz",
     "biovizBase"
   ],
-  "OMICsPCA": [
-    "HelloRanges"
-  ],
-  "POMA": [],
-  "PRONE": [
-    "POMA"
-  ],
+  "OMICsPCA": [],
+  "PRONE": [],
   "PhenStat": [],
   "Pviz": [
     "Gviz",
@@ -209,7 +203,6 @@
     "biovizBase"
   ],
   "Ularcirc": [],
-  "VaSP": [],
   "VariantFiltering": [
     "Gviz",
     "biovizBase"
