@@ -1,5 +1,4 @@
 {
-  "ADaCGH2": [],
   "AHMassBank": [
     "AnnotationHubData",
     "GenomicFeatures",
@@ -227,7 +226,6 @@
   "CleanUpRNAseq": [
     "BSgenome",
     "ensembldb",
-    "qsmooth",
     "GenomicFeatures"
   ],
   "Cogito": [
@@ -910,7 +908,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SPsimSeq": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
@@ -952,9 +949,7 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "SurfR": [
-    "SPsimSeq"
-  ],
+  "SurfR": [],
   "TADCompare": [],
   "TAPseq": [
     "BSgenome",
@@ -1538,7 +1533,6 @@
   "geneAttribution": [
     "GenomicFeatures"
   ],
-  "geneXtendeR": [],
   "genomation": [
     "BSgenome"
   ],
@@ -1912,7 +1906,6 @@
   "qsea": [
     "BSgenome"
   ],
-  "qsmooth": [],
   "quantro": [
     "minfi",
     "bumphunter",
@@ -1986,7 +1979,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "roar": [],
   "sampleClassifier": [],
   "saseR": [
     "ASpli",

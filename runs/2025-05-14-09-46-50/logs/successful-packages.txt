@@ -1673,3 +1673,8 @@ glmGamPoi
 pairedGSEA
 PECA
 spatialDE
+ADaCGH2
+geneXtendeR
+qsmooth
+roar
+SPsimSeq
