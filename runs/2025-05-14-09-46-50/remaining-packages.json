@@ -95,7 +95,6 @@
     "tximeta"
   ],
   "LimROTS": [],
-  "MAGAR": [],
   "MAIT": [],
   "MEAL": [
     "Gviz",
@@ -313,13 +312,11 @@
   ],
   "scanMiRApp": [],
   "scifer": [],
-  "scone": [],
   "scruff": [
     "ggbio",
     "biovizBase"
   ],
   "shinyDSP": [],
-  "signifinder": [],
   "sketchR": [],
   "skewr": [
     "wateRmelon"

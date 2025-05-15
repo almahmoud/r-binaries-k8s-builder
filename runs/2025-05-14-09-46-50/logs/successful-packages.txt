@@ -2075,3 +2075,6 @@ metaMS
 Moonlight2R
 ncGTW
 methylclock
+MAGAR
+scone
+signifinder
