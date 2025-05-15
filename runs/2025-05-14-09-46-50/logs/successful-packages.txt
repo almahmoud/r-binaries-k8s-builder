@@ -1463,3 +1463,8 @@ tricycle
 countsimQC
 hpar
 padma
+corral
+gDRcore
+partCNV
+RcisTarget
+SplicingFactory

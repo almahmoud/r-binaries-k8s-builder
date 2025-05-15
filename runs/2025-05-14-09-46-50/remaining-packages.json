@@ -1190,7 +1190,6 @@
   "Rbec": [
     "dada2"
   ],
-  "RcisTarget": [],
   "ReactomePA": [
     "enrichplot"
   ],
@@ -1362,7 +1361,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "SplicingFactory": [],
   "SplicingGraphs": [
     "GenomicFeatures",
     "rtracklayer"
@@ -1865,7 +1863,6 @@
     "GEOquery",
     "GenomicFeatures"
   ],
-  "corral": [],
   "cosmiq": [
     "xcms",
     "MsExperiment"
@@ -2196,7 +2193,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "gDRcore": [],
   "gINTomics": [
     "GenomicFeatures",
     "ReactomePA",
@@ -2709,7 +2705,6 @@
     "DEXSeq",
     "sva"
   ],
-  "partCNV": [],
   "pathMED": [
     "GSVA"
   ],
