@@ -104,9 +104,7 @@
   "MEAT": [
     "wateRmelon"
   ],
-  "MetaboSignal": [],
   "MineICA": [],
-  "Moonlight2R": [],
   "NormqPCR": [],
   "OGRE": [
     "Gviz",
@@ -279,7 +277,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "metaMS": [],
   "methylGSA": [],
   "methylPipe": [
     "Gviz",
@@ -295,7 +292,6 @@
     "biovizBase"
   ],
   "musicatk": [],
-  "ncGTW": [],
   "orthos": [],
   "pageRank": [],
   "primirTSS": [
