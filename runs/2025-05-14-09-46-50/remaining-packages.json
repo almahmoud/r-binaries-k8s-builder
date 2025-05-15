@@ -144,7 +144,6 @@
     "cBioPortalData",
     "RTCGAToolbox"
   ],
-  "GSReg": [],
   "GeneStructureTools": [
     "Gviz",
     "ensembldb",
@@ -161,7 +160,6 @@
     "biovizBase",
     "ensembldb"
   ],
-  "GenomicPlot": [],
   "Guitar": [],
   "Gviz": [
     "ensembldb",
@@ -306,7 +304,6 @@
   "SARC": [],
   "SEtools": [],
   "SGSeq": [],
-  "SMITE": [],
   "SPLINTER": [
     "Gviz",
     "ensembldb",
@@ -730,7 +727,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "tidyCoverage": [],
   "trackViewer": [
     "Gviz",
     "ensembldb",

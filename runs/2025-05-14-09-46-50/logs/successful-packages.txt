@@ -1936,3 +1936,7 @@ vtpnet
 MatrixRider
 MBECS
 mobileRNA
+GenomicPlot
+GSReg
+SMITE
+tidyCoverage
