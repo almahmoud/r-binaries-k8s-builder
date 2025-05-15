@@ -1628,3 +1628,8 @@ decontX
 EnrichDO
 mastR
 wiggleplotr
+CeTF
+EasyCellType
+extraChIPs
+MetaPhOR
+MicrobiomeProfiler

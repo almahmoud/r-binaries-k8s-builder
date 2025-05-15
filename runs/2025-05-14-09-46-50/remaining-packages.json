@@ -183,7 +183,6 @@
     "GenomicFeatures"
   ],
   "CTexploreR": [],
-  "CeTF": [],
   "CellMixS": [],
   "CexoR": [
     "genomation",
@@ -353,7 +352,6 @@
     "GenomicFeatures"
   ],
   "EWCE": [],
-  "EasyCellType": [],
   "EnrichmentBrowser": [],
   "EpiCompare": [
     "ChIPseeker",
@@ -624,7 +622,6 @@
     "TFBSTools",
     "BSgenome"
   ],
-  "MetaPhOR": [],
   "MetaboSignal": [
     "mygene",
     "ensembldb",
@@ -644,7 +641,6 @@
   "MethylSeekR": [
     "BSgenome"
   ],
-  "MicrobiomeProfiler": [],
   "MineICA": [
     "GOstats",
     "lumi",
@@ -1585,7 +1581,6 @@
     "motifmatchr"
   ],
   "escape": [],
-  "extraChIPs": [],
   "fCCAC": [
     "genomation",
     "BSgenome"
