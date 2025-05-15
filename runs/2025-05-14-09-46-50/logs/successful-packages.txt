@@ -2017,3 +2017,10 @@ QuasR
 BadRegionFinder
 CTexploreR
 dagLogo
+DAMEfinder
+decompTumor2Sig
+lumi
+monaLisa
+motifmatchr
+MSPrep
+strandCheckR

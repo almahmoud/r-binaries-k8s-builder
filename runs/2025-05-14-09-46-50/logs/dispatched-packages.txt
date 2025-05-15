@@ -2086,3 +2086,14 @@ tximeta
 Moonlight2R
 methylclock
 SingleMoleculeFootprinting
+ATACseqTFEA
+MineICA
+arrayMvout
+enhancerHomologSearch
+epiregulon
+esATAC
+ffpe
+iCheck
+musicatk
+pageRank
+wateRmelon

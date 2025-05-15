@@ -4,9 +4,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "ATACseqTFEA": [
-    "motifmatchr"
-  ],
+  "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
@@ -47,7 +45,6 @@
     "wateRmelon",
     "missMethyl",
     "Gviz",
-    "lumi",
     "biovizBase"
   ],
   "ChIPQC": [
@@ -60,7 +57,6 @@
     "Rhisat2"
   ],
   "CleanUpRNAseq": [],
-  "DAMEfinder": [],
   "DMRcate": [
     "missMethyl",
     "Gviz",
@@ -129,14 +125,10 @@
     "biovizBase"
   ],
   "MEAT": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
-  "MSPrep": [],
   "MetaboSignal": [],
-  "MineICA": [
-    "lumi"
-  ],
+  "MineICA": [],
   "Moonlight2R": [],
   "NormqPCR": [],
   "OGRE": [
@@ -233,13 +225,10 @@
     "ggbio",
     "biovizBase"
   ],
-  "arrayMvout": [
-    "lumi"
-  ],
+  "arrayMvout": [],
   "atSNP": [],
   "bigmelon": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "bioCancer": [],
   "biomvRCNS": [
@@ -307,7 +296,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "decompTumor2Sig": [],
   "demuxSNP": [],
   "derfinder": [],
   "derfinderPlot": [
@@ -318,16 +306,12 @@
   "diffUTR": [],
   "dreamlet": [],
   "drugTargetInteractions": [],
-  "enhancerHomologSearch": [
-    "motifmatchr"
-  ],
+  "enhancerHomologSearch": [],
   "epimutacions": [
     "Gviz",
     "biovizBase"
   ],
-  "epiregulon": [
-    "motifmatchr"
-  ],
+  "epiregulon": [],
   "epivizr": [
     "epivizrData"
   ],
@@ -339,12 +323,8 @@
     "epivizr",
     "epivizrData"
   ],
-  "esATAC": [
-    "motifmatchr"
-  ],
-  "ffpe": [
-    "lumi"
-  ],
+  "esATAC": [],
+  "ffpe": [],
   "flagme": [
     "CAMERA"
   ],
@@ -356,9 +336,7 @@
   "ggbio": [
     "biovizBase"
   ],
-  "iCheck": [
-    "lumi"
-  ],
+  "iCheck": [],
   "iNETgrate": [],
   "iSEEfier": [],
   "immunotation": [],
@@ -367,7 +345,6 @@
     "biovizBase"
   ],
   "kissDE": [],
-  "lumi": [],
   "mCSEA": [
     "Gviz",
     "biovizBase"
@@ -389,27 +366,21 @@
   ],
   "methylclock": [],
   "missMethyl": [],
-  "monaLisa": [],
   "motifbreakR": [
     "Gviz",
     "biovizBase"
   ],
-  "motifmatchr": [],
   "msgbsR": [
     "ggbio",
     "biovizBase"
   ],
-  "musicatk": [
-    "decompTumor2Sig"
-  ],
+  "musicatk": [],
   "ncGTW": [],
   "octad": [
     "RUVSeq"
   ],
   "orthos": [],
-  "pageRank": [
-    "motifmatchr"
-  ],
+  "pageRank": [],
   "primirTSS": [
     "Gviz",
     "biovizBase"
@@ -458,13 +429,11 @@
   "signifinder": [],
   "sketchR": [],
   "skewr": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "snifter": [],
   "spatzie": [
     "GenomicInteractions",
-    "motifmatchr",
     "Gviz",
     "biovizBase"
   ],
@@ -476,7 +445,6 @@
   "standR": [
     "RUVSeq"
   ],
-  "strandCheckR": [],
   "tadar": [
     "Gviz",
     "biovizBase"
@@ -492,7 +460,5 @@
     "biovizBase"
   ],
   "velociraptor": [],
-  "wateRmelon": [
-    "lumi"
-  ]
+  "wateRmelon": []
 }
