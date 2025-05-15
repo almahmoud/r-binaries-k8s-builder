@@ -1449,3 +1449,14 @@ scBFA
 ShortRead
 TissueEnrich
 VplotR
+DNEA
+EpipwR
+multistateQTL
+peakPantheR
+prebs
+ptairMS
+qPLEXanalyzer
+scReClassify
+SpatialCPie
+topdownr
+tricycle

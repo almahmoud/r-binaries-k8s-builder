@@ -387,7 +387,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "DNEA": [],
   "DSS": [
     "bsseq",
     "BSgenome",
@@ -512,7 +511,6 @@
     "txdbmaker",
     "rtracklayer"
   ],
-  "EpipwR": [],
   "EventPointer": [
     "SGSeq",
     "GenomicFeatures",
@@ -1358,7 +1356,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "SpatialCPie": [],
   "SpectralTAD": [
     "HiCcompare"
   ],
@@ -2651,7 +2648,6 @@
   "multiHiCcompare": [
     "HiCcompare"
   ],
-  "multistateQTL": [],
   "mumosa": [],
   "musicatk": [
     "VariantAnnotation",
@@ -2725,7 +2721,6 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "peakPantheR": [],
   "periodicDNA": [
     "BSgenome",
     "rtracklayer"
@@ -2759,7 +2754,6 @@
   "pram": [
     "rtracklayer"
   ],
-  "prebs": [],
   "preciseTAD": [
     "rCGH",
     "GenomicFeatures",
@@ -2807,8 +2801,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "ptairMS": [],
-  "qPLEXanalyzer": [],
   "qpgraph": [
     "GenomicFeatures",
     "rtracklayer"
@@ -2968,7 +2960,6 @@
   "scRNAseqApp": [
     "rtracklayer"
   ],
-  "scReClassify": [],
   "scRepertoire": [],
   "scTGIF": [
     "schex"
@@ -3216,7 +3207,6 @@
     "rtracklayer"
   ],
   "tilingArray": [],
-  "topdownr": [],
   "tpSVG": [],
   "trackViewer": [
     "GenomicFeatures",
@@ -3247,7 +3237,6 @@
     "rtracklayer"
   ],
   "treekoR": [],
-  "tricycle": [],
   "txcutr": [
     "GenomicFeatures",
     "txdbmaker",
