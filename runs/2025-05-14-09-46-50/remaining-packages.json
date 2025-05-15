@@ -58,7 +58,6 @@
   "BadRegionFinder": [
     "VariantAnnotation"
   ],
-  "Basic4Cseq": [],
   "BatchQC": [],
   "BgeeCall": [
     "txdbmaker"
@@ -109,7 +108,6 @@
     "MIRA",
     "bsseq"
   ],
-  "CODEX": [],
   "CRISPRball": [],
   "CRISPRseek": [],
   "CSSQ": [],
@@ -134,12 +132,10 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ChIPComp": [],
   "ChIPQC": [
     "DiffBind",
     "GreyListChIP"
   ],
-  "ChIPanalyser": [],
   "ChIPexoQual": [
     "biovizBase",
     "VariantAnnotation",
@@ -277,7 +273,6 @@
     "RTCGAToolbox",
     "TCGAutils"
   ],
-  "GOTHiC": [],
   "GSEABenchmarkeR": [
     "EnrichmentBrowser"
   ],
@@ -927,7 +922,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "cytofQC": [],
   "dagLogo": [
     "motifStack",
     "TFBSTools"
@@ -1091,9 +1085,7 @@
   "hiReadsProcessor": [
     "hiAnnotator"
   ],
-  "iCNV": [
-    "CODEX"
-  ],
+  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi",
@@ -1465,7 +1457,6 @@
     "VariantAnnotation"
   ],
   "spiky": [],
-  "spillR": [],
   "squallms": [
     "xcms"
   ],

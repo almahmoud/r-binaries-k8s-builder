@@ -1724,3 +1724,10 @@ TFEA.ChIP
 attract
 scDblFinder
 Statial
+Basic4Cseq
+ChIPanalyser
+ChIPComp
+CODEX
+cytofQC
+GOTHiC
+spillR

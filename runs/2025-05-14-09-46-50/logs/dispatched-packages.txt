@@ -1906,3 +1906,4 @@ tRNAscanImport
 traseR
 lisaClust
 magpie
+iCNV
