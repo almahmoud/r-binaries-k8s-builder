@@ -1589,3 +1589,7 @@ meshr
 scDotPlot
 schex
 TMSig
+annmap
+BloodGen3Module
+hermes
+TCseq
