@@ -1500,3 +1500,9 @@ basecallQC
 Coralysis
 RSVSim
 VisiumIO
+chipseq
+MGnifyR
+miloR
+nucleR
+SIM
+Voyager

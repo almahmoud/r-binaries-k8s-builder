@@ -1708,3 +1708,5 @@ visiumStitched
 wiggleplotr
 tidySpatialExperiment
 XeniumIO
+dandelionR
+soGGi
