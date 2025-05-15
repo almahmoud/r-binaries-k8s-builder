@@ -80,7 +80,6 @@
     "MIRA",
     "bsseq"
   ],
-  "CRISPRball": [],
   "CSSQ": [],
   "CTexploreR": [],
   "CellMixS": [],
@@ -112,7 +111,6 @@
   "CleanUpRNAseq": [
     "ensembldb"
   ],
-  "Cogito": [],
   "CoverageView": [],
   "DAMEfinder": [],
   "DAPAR": [],
@@ -168,7 +166,6 @@
     "minfi"
   ],
   "EWCE": [],
-  "EnrichmentBrowser": [],
   "EpiCompare": [
     "ChIPseeker"
   ],
@@ -203,9 +200,7 @@
     "cBioPortalData",
     "RTCGAToolbox"
   ],
-  "GSEABenchmarkeR": [
-    "EnrichmentBrowser"
-  ],
+  "GSEABenchmarkeR": [],
   "GSReg": [
     "OrganismDbi"
   ],
@@ -309,7 +304,6 @@
     "methylumi",
     "minfi"
   ],
-  "MinimumDistance": [],
   "Moonlight2R": [
     "EpiMix"
   ],
@@ -514,10 +508,7 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "alabaster": [
-    "alabaster.vcf"
-  ],
-  "alabaster.vcf": [],
+  "alabaster": [],
   "appreci8R": [
     "OrganismDbi"
   ],
@@ -591,7 +582,6 @@
     "biovizBase"
   ],
   "chipenrich": [],
-  "chromVAR": [],
   "cicero": [
     "Gviz",
     "ensembldb",
@@ -680,11 +670,9 @@
   "diffUTR": [
     "ensembldb"
   ],
-  "doppelgangR": [],
   "doubletrouble": [],
   "dreamlet": [
-    "zenith",
-    "EnrichmentBrowser"
+    "zenith"
   ],
   "drugTargetInteractions": [
     "ensembldb"
@@ -761,7 +749,6 @@
   "goseq": [],
   "gwascat": [],
   "gwasurvivr": [],
-  "hiReadsProcessor": [],
   "iCNV": [],
   "iCheck": [
     "lumi",
@@ -823,7 +810,6 @@
     "CAMERA",
     "xcms"
   ],
-  "metagene2": [],
   "metaseqR2": [
     "DSS",
     "EDASeq",
@@ -1086,7 +1072,5 @@
     "quantro",
     "minfi"
   ],
-  "zenith": [
-    "EnrichmentBrowser"
-  ]
+  "zenith": []
 }

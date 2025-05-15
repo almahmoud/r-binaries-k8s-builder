@@ -1990,3 +1990,6 @@ MethReg
 TENET
 preciseTAD
 netSmooth
+GSEABenchmarkeR
+alabaster
+zenith
