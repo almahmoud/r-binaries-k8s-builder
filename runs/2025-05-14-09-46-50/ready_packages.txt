@@ -1,3 +1,0 @@
-mariner
-scMerge
-tidyomics

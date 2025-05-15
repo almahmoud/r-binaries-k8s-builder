@@ -919,7 +919,6 @@
     "VariantAnnotation"
   ],
   "SPsimSeq": [],
-  "SeqSQC": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
