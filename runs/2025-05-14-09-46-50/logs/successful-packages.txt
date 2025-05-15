@@ -1513,3 +1513,8 @@ miaViz
 protGear
 scClassify
 segmentSeq
+bandle
+GeneMeta
+lefser
+metabolomicsWorkbenchR
+XeniumIO

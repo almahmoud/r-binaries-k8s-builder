@@ -507,7 +507,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "GeneMeta": [],
   "GeneStructureTools": [
     "Gviz",
     "BSgenome",
@@ -1268,10 +1267,7 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "XDE": [
-    "GeneMeta"
-  ],
-  "XeniumIO": [],
+  "XDE": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
@@ -1354,7 +1350,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "bandle": [],
   "bedbaser": [],
   "bigmelon": [
     "wateRmelon",
@@ -2003,7 +1998,6 @@
     "BSgenome"
   ],
   "knowYourCG": [],
-  "lefser": [],
   "lemur": [
     "glmGamPoi"
   ],
@@ -2065,7 +2059,6 @@
     "xcms",
     "MsExperiment"
   ],
-  "metabolomicsWorkbenchR": [],
   "metagene2": [],
   "metaseqR2": [
     "DSS",
