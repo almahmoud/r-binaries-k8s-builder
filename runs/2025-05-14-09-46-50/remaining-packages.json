@@ -195,7 +195,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "TFutils": [],
   "TVTB": [
     "Gviz",
     "biovizBase"
@@ -424,7 +423,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "squallms": [],
   "srnadiff": [
     "Gviz",
     "biovizBase"

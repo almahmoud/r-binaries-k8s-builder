@@ -2034,3 +2034,5 @@ rgsepd
 SingleMoleculeFootprinting
 TBSignatureProfiler
 kissDE
+squallms
+TFutils
