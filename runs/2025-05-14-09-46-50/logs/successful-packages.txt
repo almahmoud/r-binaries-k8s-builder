@@ -1578,3 +1578,14 @@ pipeComp
 scDD
 scDesign3
 Spaniel
+BicARE
+celda
+cfTools
+CluMSID
+CytoMDS
+enrichplot
+limpca
+meshr
+scDotPlot
+schex
+TMSig

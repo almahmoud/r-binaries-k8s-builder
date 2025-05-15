@@ -1733,3 +1733,10 @@ phantasus
 scHiCcompare
 xcms
 Statial
+ReactomePA
+TDbasedUFEadv
+clusterProfiler
+decontX
+enrichViewNet
+meshes
+scTGIF
