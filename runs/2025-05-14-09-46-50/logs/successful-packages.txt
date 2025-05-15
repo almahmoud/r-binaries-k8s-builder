@@ -1572,3 +1572,9 @@ cydar
 DeepTarget
 msImpute
 treekoR
+gep2pep
+MOSim
+pipeComp
+scDD
+scDesign3
+Spaniel

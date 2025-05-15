@@ -659,7 +659,6 @@
     "qpgraph",
     "GenomicFeatures"
   ],
-  "MOSim": [],
   "MPAC": [],
   "MSPrep": [
     "sva"
@@ -1074,7 +1073,6 @@
     "txdbmaker"
   ],
   "SpaNorm": [],
-  "Spaniel": [],
   "SparseSignatures": [
     "BSgenome"
   ],
@@ -1759,7 +1757,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "gep2pep": [],
   "ggbio": [
     "biovizBase",
     "BSgenome",
@@ -2143,7 +2140,6 @@
   ],
   "phantasus": [],
   "phenoTest": [],
-  "pipeComp": [],
   "pipeFrame": [
     "BSgenome"
   ],
@@ -2294,9 +2290,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scDD": [],
   "scDblFinder": [],
-  "scDesign3": [],
   "scDotPlot": [],
   "scFeatures": [
     "ensembldb",
