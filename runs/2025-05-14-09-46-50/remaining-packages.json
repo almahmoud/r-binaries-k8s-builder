@@ -129,9 +129,7 @@
     "bsseq"
   ],
   "DegCre": [],
-  "DegNorm": [],
   "DiffBind": [],
-  "DominoEffect": [],
   "DuplexDiscovereR": [
     "Gviz",
     "ensembldb",
@@ -304,7 +302,6 @@
   "RAIDS": [
     "ensembldb"
   ],
-  "REMP": [],
   "RESOLVE": [
     "MutationalPatterns"
   ],
@@ -418,7 +415,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "VariantTools": [],
   "XDE": [],
   "YAPSA": [
     "SomaticSignatures",
@@ -520,7 +516,6 @@
     "ensembldb",
     "RUVSeq"
   ],
-  "conumee": [],
   "cosmiq": [
     "xcms"
   ],
@@ -773,7 +768,6 @@
     "derfinder",
     "GenomicFiles"
   ],
-  "recountmethylation": [],
   "recoup": [],
   "regionReport": [
     "derfinder",

@@ -1874,3 +1874,9 @@ deconvR
 MethylAid
 shinyMethyl
 StructuralVariantAnnotation
+conumee
+DegNorm
+DominoEffect
+recountmethylation
+REMP
+VariantTools
