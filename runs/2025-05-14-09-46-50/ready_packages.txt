@@ -1,4 +1,1 @@
-MSstatsQCgui
-Voyager
-alabaster.sfe
-condiments
+msmsTests

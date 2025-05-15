@@ -1433,3 +1433,7 @@ distinct
 MSstatsQC
 PrInCE
 SpatialFeatureExperiment
+msmsEDA
+muscat
+omXplore
+RMassBank

@@ -875,8 +875,7 @@
     "sva"
   ],
   "MSnID": [
-    "msmsTests",
-    "msmsEDA"
+    "msmsTests"
   ],
   "MSstatsQCgui": [],
   "MatrixQCvis": [
@@ -1147,7 +1146,6 @@
     "consensusSeekeR",
     "rtracklayer"
   ],
-  "RMassBank": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -2712,17 +2710,13 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "msmsEDA": [],
-  "msmsTests": [
-    "msmsEDA"
-  ],
+  "msmsTests": [],
   "multiGSEA": [],
   "multiHiCcompare": [
     "HiCcompare"
   ],
   "multistateQTL": [],
   "mumosa": [],
-  "muscat": [],
   "musicatk": [
     "VariantAnnotation",
     "BSgenome",
@@ -2771,7 +2765,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "omXplore": [],
   "omicRexposome": [
     "sva"
   ],
