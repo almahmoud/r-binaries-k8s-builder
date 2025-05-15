@@ -867,7 +867,6 @@
     "enrichplot"
   ],
   "MetaboSignal": [
-    "hpar",
     "mygene",
     "ensembldb",
     "GenomicFeatures",
@@ -1871,7 +1870,6 @@
     "xcms",
     "MsExperiment"
   ],
-  "countsimQC": [],
   "covRNA": [],
   "cpvSNP": [
     "GenomicFeatures",
@@ -2298,7 +2296,6 @@
     "rtracklayer"
   ],
   "hipathia": [],
-  "hpar": [],
   "hummingbird": [],
   "iCNV": [
     "CODEX",
@@ -2702,7 +2699,6 @@
   ],
   "orthos": [],
   "pRolocGUI": [],
-  "padma": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools",
