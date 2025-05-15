@@ -1534,3 +1534,10 @@ a4Base
 CTdata
 EDIRquery
 wpm
+arrayQualityMetrics
+cfdnakit
+ClassifyR
+CytoPipelineGUI
+GSRI
+MOMA
+tilingArray

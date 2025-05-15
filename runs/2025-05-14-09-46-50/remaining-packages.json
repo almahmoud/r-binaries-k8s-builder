@@ -1,7 +1,5 @@
 {
-  "ADaCGH2": [
-    "tilingArray"
-  ],
+  "ADaCGH2": [],
   "AHMassBank": [
     "AnnotationHubData",
     "GenomicFeatures",
@@ -270,7 +268,6 @@
     "GenomicFeatures"
   ],
   "CiteFuse": [],
-  "ClassifyR": [],
   "CleanUpRNAseq": [
     "BSgenome",
     "ensembldb",
@@ -285,7 +282,6 @@
   "CoverageView": [],
   "CrispRVariants": [],
   "CytoMDS": [],
-  "CytoPipelineGUI": [],
   "DAMEfinder": [
     "VariantAnnotation",
     "bumphunter",
@@ -492,7 +488,6 @@
   "GSEABenchmarkeR": [
     "EnrichmentBrowser"
   ],
-  "GSRI": [],
   "GSReg": [
     "GenomicFeatures",
     "OrganismDbi",
@@ -691,7 +686,6 @@
   "MMDiff2": [
     "BSgenome"
   ],
-  "MOMA": [],
   "MOSClip": [
     "qpgraph",
     "GenomicFeatures"
@@ -1191,9 +1185,7 @@
     "GenomicFeatures"
   ],
   "TMSig": [],
-  "TOP": [
-    "ClassifyR"
-  ],
+  "TOP": [],
   "TRESS": [
     "GenomicFeatures"
   ],
@@ -1317,7 +1309,6 @@
     "bumphunter",
     "GEOquery"
   ],
-  "arrayQualityMetrics": [],
   "atSNP": [
     "BSgenome",
     "motifStack",
@@ -1442,7 +1433,6 @@
     "BSgenome"
   ],
   "cfTools": [],
-  "cfdnakit": [],
   "chevreulPlot": [
     "chevreulProcess",
     "wiggleplotr",
@@ -1992,8 +1982,7 @@
     "GenomicFeatures"
   ],
   "lisaClust": [
-    "spicyR",
-    "ClassifyR"
+    "spicyR"
   ],
   "lumi": [
     "methylumi",
@@ -2548,9 +2537,7 @@
     "VariantAnnotation"
   ],
   "speckle": [],
-  "spicyR": [
-    "ClassifyR"
-  ],
+  "spicyR": [],
   "spiky": [
     "BSgenome"
   ],
@@ -2620,7 +2607,6 @@
     "plyranges",
     "nullranges"
   ],
-  "tilingArray": [],
   "tpSVG": [],
   "trackViewer": [
     "GenomicFeatures",
