@@ -644,7 +644,6 @@
     "lumi",
     "GenomicFeatures"
   ],
-  "MEB": [],
   "MEDIPS": [
     "BSgenome"
   ],
@@ -2304,7 +2303,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scAnnotatR": [],
   "scDD": [],
   "scDblFinder": [],
   "scDesign3": [],
