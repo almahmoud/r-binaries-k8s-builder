@@ -1808,3 +1808,9 @@ EnrichmentBrowser
 hiReadsProcessor
 metagene2
 MinimumDistance
+DeconvoBuddies
+DMCHMM
+PAA
+PROPS
+SCAN.UPC
+SPIAT

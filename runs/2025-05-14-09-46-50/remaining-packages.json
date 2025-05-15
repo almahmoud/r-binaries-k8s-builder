@@ -117,7 +117,6 @@
   "DEP": [],
   "DExMA": [],
   "DMCFB": [],
-  "DMCHMM": [],
   "DMRcate": [
     "bsseq",
     "minfi",
@@ -145,7 +144,6 @@
     "DSS",
     "bsseq"
   ],
-  "DeconvoBuddies": [],
   "DegCre": [],
   "DegNorm": [],
   "DiffBind": [],
@@ -327,12 +325,10 @@
   "Organism.dplyr": [],
   "OrganismDbi": [],
   "OutSplice": [],
-  "PAA": [],
   "POMA": [],
   "PRONE": [
     "POMA"
   ],
-  "PROPS": [],
   "PhenStat": [],
   "Prostar": [
     "DAPAR"
@@ -431,14 +427,12 @@
     "ensembldb"
   ],
   "SARC": [],
-  "SCAN.UPC": [],
   "SEtools": [],
   "SGSeq": [],
   "SMITE": [
     "goseq"
   ],
   "SNPhood": [],
-  "SPIAT": [],
   "SPLINTER": [
     "Gviz",
     "ensembldb",
