@@ -748,9 +748,7 @@
   "PanomiR": [],
   "PhenStat": [],
   "PhyloProfile": [],
-  "Pigengene": [
-    "ReactomePA"
-  ],
+  "Pigengene": [],
   "Prostar": [
     "DAPAR"
   ],
@@ -886,7 +884,6 @@
   "Rbec": [
     "dada2"
   ],
-  "ReactomePA": [],
   "RegEnrich": [],
   "Repitools": [
     "BSgenome"
@@ -1216,7 +1213,6 @@
   ],
   "bioCancer": [
     "cBioPortalData",
-    "ReactomePA",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures"
@@ -1639,8 +1635,7 @@
     "GenomicFeatures"
   ],
   "gINTomics": [
-    "GenomicFeatures",
-    "ReactomePA"
+    "GenomicFeatures"
   ],
   "gcapc": [
     "BSgenome"
@@ -1707,7 +1702,6 @@
     "hiAnnotator",
     "BSgenome"
   ],
-  "hicVennDiagram": [],
   "hipathia": [],
   "iCNV": [
     "CODEX",
@@ -1726,7 +1720,6 @@
     "OrganismDbi",
     "GenomicFeatures",
     "bumphunter",
-    "ReactomePA",
     "txdbmaker"
   ],
   "iSEE": [],
@@ -1907,12 +1900,8 @@
   "miRLAB": [
     "GOstats"
   ],
-  "miRSM": [
-    "ReactomePA"
-  ],
-  "miRspongeR": [
-    "ReactomePA"
-  ],
+  "miRSM": [],
+  "miRspongeR": [],
   "miaDash": [
     "iSEE",
     "iSEEtree"
@@ -2151,7 +2140,6 @@
     "txdbmaker",
     "TFBSTools"
   ],
-  "rifi": [],
   "rifiComparative": [],
   "rmspc": [],
   "rnaEditr": [
@@ -2182,7 +2170,6 @@
   ],
   "scPipe": [],
   "scRNAseqApp": [],
-  "scTGIF": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData",

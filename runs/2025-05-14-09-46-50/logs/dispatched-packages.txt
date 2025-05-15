@@ -1759,3 +1759,6 @@ famat
 goSorensen
 pathlinkR
 signatureSearch
+Pigengene
+miRSM
+miRspongeR
