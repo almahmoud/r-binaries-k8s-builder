@@ -28,7 +28,6 @@
   ],
   "AgiMicroRna": [
     "affycoretools",
-    "GOstats",
     "ReportingTools",
     "ggbio",
     "biovizBase",
@@ -140,7 +139,6 @@
   "CAMERA": [
     "xcms"
   ],
-  "CATALYST": [],
   "CCAFE": [
     "VariantAnnotation",
     "BSgenome",
@@ -398,7 +396,6 @@
   "GOTHiC": [
     "BSgenome"
   ],
-  "GOstats": [],
   "GSEABenchmarkeR": [
     "EnrichmentBrowser"
   ],
@@ -449,9 +446,7 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "GmicR": [
-    "GOstats"
-  ],
+  "GmicR": [],
   "GreyListChIP": [
     "BSgenome"
   ],
@@ -597,7 +592,6 @@
     "BSgenome"
   ],
   "MineICA": [
-    "GOstats",
     "lumi",
     "methylumi",
     "GenomicFeatures",
@@ -807,15 +801,12 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "Rbec": [
-    "dada2"
-  ],
+  "Rbec": [],
   "RegEnrich": [],
   "Repitools": [
     "BSgenome"
   ],
   "ReportingTools": [
-    "GOstats",
     "ggbio",
     "biovizBase",
     "BSgenome",
@@ -879,9 +870,7 @@
     "BSgenome"
   ],
   "SEtools": [],
-  "SGCP": [
-    "GOstats"
-  ],
+  "SGCP": [],
   "SGSeq": [
     "GenomicFeatures"
   ],
@@ -1057,9 +1046,7 @@
     "GenomicFeatures"
   ],
   "a4": [],
-  "adductomicsR": [],
   "affycoretools": [
-    "GOstats",
     "ReportingTools",
     "ggbio",
     "biovizBase",
@@ -1103,9 +1090,7 @@
   "atena": [
     "GenomicFeatures"
   ],
-  "attract": [
-    "GOstats"
-  ],
+  "attract": [],
   "ballgown": [],
   "bambu": [
     "BSgenome",
@@ -1186,9 +1171,7 @@
   "casper": [
     "GenomicFeatures"
   ],
-  "categoryCompare": [
-    "GOstats"
-  ],
+  "categoryCompare": [],
   "cbaf": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -1352,10 +1335,7 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "cytofQC": [
-    "CATALYST"
-  ],
-  "dada2": [],
+  "cytofQC": [],
   "dagLogo": [
     "motifStack",
     "TFBSTools",
@@ -1583,7 +1563,6 @@
     "hiAnnotator",
     "BSgenome"
   ],
-  "hipathia": [],
   "iCNV": [
     "CODEX",
     "BSgenome"
@@ -1752,9 +1731,7 @@
     "GenomicFeatures",
     "bumphunter"
   ],
-  "miRLAB": [
-    "GOstats"
-  ],
+  "miRLAB": [],
   "miaDash": [
     "iSEEtree"
   ],
@@ -2101,9 +2078,7 @@
   "spiky": [
     "BSgenome"
   ],
-  "spillR": [
-    "CATALYST"
-  ],
+  "spillR": [],
   "squallms": [
     "xcms"
   ],
@@ -2225,7 +2200,6 @@
     "GenomicFeatures"
   ],
   "xcms": [],
-  "xcore": [],
   "yarn": [
     "quantro",
     "minfi",

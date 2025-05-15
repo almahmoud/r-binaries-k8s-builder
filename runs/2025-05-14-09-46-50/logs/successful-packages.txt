@@ -1684,3 +1684,9 @@ EGAD
 epiregulon.extra
 lute
 rifiComparative
+adductomicsR
+CATALYST
+dada2
+GOstats
+hipathia
+xcore

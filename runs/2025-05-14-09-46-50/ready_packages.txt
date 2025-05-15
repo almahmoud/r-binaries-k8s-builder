@@ -1,1 +1,8 @@
-BASiCStan
+GmicR
+Rbec
+SGCP
+attract
+categoryCompare
+cytofQC
+miRLAB
+spillR
