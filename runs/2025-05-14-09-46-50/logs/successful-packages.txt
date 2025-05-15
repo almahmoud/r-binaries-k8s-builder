@@ -1861,3 +1861,5 @@ RiboDiPA
 SNPhood
 OUTRIDER
 SigsPack
+OrganismDbi
+RareVariantVis

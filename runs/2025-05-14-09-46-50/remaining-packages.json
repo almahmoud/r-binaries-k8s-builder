@@ -1,7 +1,6 @@
 {
   "AHMassBank": [
-    "AnnotationHubData",
-    "OrganismDbi"
+    "AnnotationHubData"
   ],
   "ASSIGN": [],
   "ASpli": [
@@ -17,7 +16,6 @@
     "ReportingTools",
     "ggbio",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "AllelicImbalance": [
@@ -25,16 +23,13 @@
     "ensembldb",
     "biovizBase"
   ],
-  "AnnotationHubData": [
-    "OrganismDbi"
-  ],
+  "AnnotationHubData": [],
   "BASiCStan": [],
   "BBCAnalyzer": [],
   "BERT": [],
   "BOBaFIT": [
     "ggbio",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "BUSpaRse": [
@@ -53,8 +48,7 @@
   "CAFE": [
     "biovizBase",
     "ggbio",
-    "ensembldb",
-    "OrganismDbi"
+    "ensembldb"
   ],
   "CAGEfightR": [
     "GenomicFiles",
@@ -131,7 +125,6 @@
   "Damsel": [
     "ggbio",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "DeMixT": [
@@ -165,13 +158,11 @@
     "SGSeq"
   ],
   "ExperimentHubData": [
-    "AnnotationHubData",
-    "OrganismDbi"
+    "AnnotationHubData"
   ],
   "FLAMES": [
     "ggbio",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "FRASER": [],
@@ -188,9 +179,7 @@
     "cBioPortalData",
     "RTCGAToolbox"
   ],
-  "GSReg": [
-    "OrganismDbi"
-  ],
+  "GSReg": [],
   "GeneStructureTools": [
     "Gviz",
     "ensembldb",
@@ -206,7 +195,6 @@
   "GenomicOZone": [
     "ggbio",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "GenomicPlot": [],
@@ -297,7 +285,6 @@
     "HelloRanges"
   ],
   "Organism.dplyr": [],
-  "OrganismDbi": [],
   "OutSplice": [],
   "POMA": [],
   "PRONE": [
@@ -317,7 +304,6 @@
   "R3CPET": [
     "ggbio",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "RAIDS": [
@@ -360,12 +346,10 @@
   "RUVSeq": [
     "EDASeq"
   ],
-  "RareVariantVis": [],
   "RegEnrich": [],
   "ReportingTools": [
     "ggbio",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "Rhisat2": [
@@ -374,7 +358,6 @@
   "RiboProfiling": [
     "ggbio",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "RnBeads": [
@@ -407,7 +390,6 @@
   "SomaticSignatures": [
     "ggbio",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "SpaNorm": [],
@@ -448,7 +430,6 @@
     "SomaticSignatures",
     "ggbio",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "ZygosityPredictor": [],
@@ -456,13 +437,10 @@
     "ReportingTools",
     "ggbio",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "alabaster": [],
-  "appreci8R": [
-    "OrganismDbi"
-  ],
+  "appreci8R": [],
   "arrayMvout": [
     "lumi",
     "methylumi"
@@ -502,7 +480,6 @@
     "ggbio",
     "BioNERO",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "canceR": [
@@ -602,7 +579,6 @@
     "ggbio",
     "GenomicFiles",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "diffUTR": [
@@ -624,30 +600,25 @@
   "epimutacions": [
     "Gviz",
     "ensembldb",
-    "biovizBase",
-    "OrganismDbi"
+    "biovizBase"
   ],
   "epiregulon": [
     "motifmatchr"
   ],
   "epivizr": [
     "epivizrData",
-    "OrganismDbi",
     "ensembldb"
   ],
   "epivizrChart": [
     "epivizrData",
-    "OrganismDbi",
     "ensembldb"
   ],
   "epivizrData": [
-    "OrganismDbi",
     "ensembldb"
   ],
   "epivizrStandalone": [
     "epivizr",
     "epivizrData",
-    "OrganismDbi",
     "ensembldb"
   ],
   "esATAC": [
@@ -671,7 +642,6 @@
   ],
   "ggbio": [
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "gwasurvivr": [],
@@ -680,9 +650,7 @@
     "lumi",
     "methylumi"
   ],
-  "iNETgrate": [
-    "OrganismDbi"
-  ],
+  "iNETgrate": [],
   "iSEEfier": [
     "iSEEu",
     "iSEEhex"
@@ -698,7 +666,6 @@
   "intansv": [
     "ggbio",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "interactiveDisplay": [],
@@ -713,8 +680,7 @@
   "mCSEA": [
     "Gviz",
     "ensembldb",
-    "biovizBase",
-    "OrganismDbi"
+    "biovizBase"
   ],
   "magpie": [],
   "mariner": [],
@@ -751,8 +717,7 @@
   ],
   "methylclock": [
     "ExperimentHubData",
-    "AnnotationHubData",
-    "OrganismDbi"
+    "AnnotationHubData"
   ],
   "methylumi": [],
   "miaDash": [
@@ -777,7 +742,6 @@
     "easyRNASeq",
     "ggbio",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "musicatk": [
@@ -850,7 +814,6 @@
   "scTreeViz": [
     "epivizr",
     "epivizrData",
-    "OrganismDbi",
     "ensembldb"
   ],
   "scanMiRApp": [
@@ -865,7 +828,6 @@
   "scruff": [
     "ggbio",
     "biovizBase",
-    "OrganismDbi",
     "ensembldb"
   ],
   "selectKSigs": [],
@@ -941,7 +903,6 @@
   ],
   "uncoverappLib": [
     "Gviz",
-    "OrganismDbi",
     "ensembldb",
     "biovizBase"
   ],

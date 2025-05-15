@@ -2013,3 +2013,7 @@ GenomicPlot
 circRNAprofiler
 vtpnet
 FRASER
+AnnotationHubData
+GSReg
+appreci8R
+iNETgrate
