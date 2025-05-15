@@ -1865,3 +1865,8 @@ OrganismDbi
 RareVariantVis
 ENmix
 ZygosityPredictor
+BBCAnalyzer
+CCAFE
+CNVrd2
+funtooNorm
+quantro
