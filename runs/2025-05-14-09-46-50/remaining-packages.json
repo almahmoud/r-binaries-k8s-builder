@@ -113,7 +113,6 @@
   ],
   "CoverageView": [],
   "DAMEfinder": [],
-  "DAPAR": [],
   "DEP": [],
   "DMCFB": [],
   "DMRcate": [
@@ -300,7 +299,6 @@
   "Moonlight2R": [
     "EpiMix"
   ],
-  "MotifPeeker": [],
   "MungeSumstats": [],
   "MutationalPatterns": [],
   "NanoMethViz": [
@@ -325,9 +323,7 @@
     "POMA"
   ],
   "PhenStat": [],
-  "Prostar": [
-    "DAPAR"
-  ],
+  "Prostar": [],
   "ProteoDisco": [],
   "PureCN": [],
   "Pviz": [
@@ -581,7 +577,6 @@
   "cliqueMS": [
     "xcms"
   ],
-  "coMethDMR": [],
   "comapr": [
     "Gviz",
     "ensembldb",
@@ -638,7 +633,6 @@
   "deconvR": [
     "minfi"
   ],
-  "deepSNV": [],
   "demuxSNP": [
     "ensembldb"
   ],
@@ -831,9 +825,7 @@
     "methylumi",
     "minfi"
   ],
-  "mitoClone2": [
-    "deepSNV"
-  ],
+  "mitoClone2": [],
   "mobileRNA": [],
   "mogsa": [],
   "monaLisa": [],
@@ -926,7 +918,6 @@
     "ensembldb",
     "SingleCellSignalR"
   ],
-  "scMerge": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData",
@@ -970,7 +961,6 @@
   "signifinder": [
     "ensembldb"
   ],
-  "sitadela": [],
   "sketchR": [],
   "skewr": [
     "methylumi",
@@ -1023,7 +1013,6 @@
   "transformGamPoi": [],
   "transmogR": [],
   "traseR": [],
-  "txcutr": [],
   "tximeta": [
     "ensembldb"
   ],

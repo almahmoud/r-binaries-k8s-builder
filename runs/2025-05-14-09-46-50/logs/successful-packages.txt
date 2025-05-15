@@ -1833,3 +1833,10 @@ GSEABenchmarkeR
 podkat
 terraTCGAdata
 tLOH
+coMethDMR
+DAPAR
+deepSNV
+MotifPeeker
+scMerge
+sitadela
+txcutr
