@@ -1863,3 +1863,5 @@ OUTRIDER
 SigsPack
 OrganismDbi
 RareVariantVis
+ENmix
+ZygosityPredictor

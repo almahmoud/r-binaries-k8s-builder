@@ -147,7 +147,6 @@
     "biovizBase"
   ],
   "ELViS": [],
-  "ENmix": [],
   "EWCE": [],
   "EpiCompare": [
     "ChIPseeker"
@@ -432,7 +431,6 @@
     "biovizBase",
     "ensembldb"
   ],
-  "ZygosityPredictor": [],
   "affycoretools": [
     "ReportingTools",
     "ggbio",
