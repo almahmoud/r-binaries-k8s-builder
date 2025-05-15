@@ -1708,3 +1708,10 @@ TEKRABber
 Rbec
 recount3
 spicyR
+BEAT
+categoryCompare
+consensusOV
+GmicR
+SGCP
+tpSVG
+TRESS

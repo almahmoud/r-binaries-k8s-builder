@@ -43,7 +43,6 @@
   "BBCAnalyzer": [
     "VariantAnnotation"
   ],
-  "BEAT": [],
   "BERT": [],
   "BOBaFIT": [
     "ggbio",
@@ -316,7 +315,6 @@
     "genomation",
     "txdbmaker"
   ],
-  "GmicR": [],
   "GreyListChIP": [],
   "Guitar": [],
   "Gviz": [
@@ -616,7 +614,6 @@
   "SCANVIS": [],
   "SCOPE": [],
   "SEtools": [],
-  "SGCP": [],
   "SGSeq": [],
   "SMITE": [
     "goseq",
@@ -680,7 +677,6 @@
     "VariantAnnotation"
   ],
   "TOP": [],
-  "TRESS": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -817,7 +813,6 @@
     "VariantAnnotation"
   ],
   "casper": [],
-  "categoryCompare": [],
   "cbaf": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -880,7 +875,6 @@
     "ensembldb",
     "RUVSeq"
   ],
-  "consensusOV": [],
   "conumee": [
     "minfi",
     "bumphunter"
@@ -1174,9 +1168,7 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "magpie": [
-    "TRESS"
-  ],
+  "magpie": [],
   "mariner": [],
   "maser": [
     "Gviz",
@@ -1456,7 +1448,6 @@
     "VariantAnnotation"
   ],
   "signifinder": [
-    "consensusOV",
     "ensembldb"
   ],
   "sitadela": [
@@ -1522,7 +1513,6 @@
   "tidyCoverage": [],
   "tidySpatialExperiment": [],
   "tidyomics": [],
-  "tpSVG": [],
   "trackViewer": [
     "Gviz",
     "txdbmaker",
