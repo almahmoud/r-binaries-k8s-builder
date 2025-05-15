@@ -62,7 +62,6 @@
     "GenomicInteractions",
     "Gviz"
   ],
-  "IsoformSwitchAnalyzeR": [],
   "LimROTS": [],
   "MEAL": [
     "Gviz"
@@ -219,7 +218,6 @@
   "scruff": [
     "ggbio"
   ],
-  "shinyDSP": [],
   "sketchR": [],
   "skewr": [],
   "snifter": [],

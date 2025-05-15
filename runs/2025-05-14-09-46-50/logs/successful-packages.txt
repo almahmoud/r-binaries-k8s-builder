@@ -2105,3 +2105,5 @@ flagme
 IPO
 MAIT
 RNAAgeCalc
+IsoformSwitchAnalyzeR
+shinyDSP
