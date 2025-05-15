@@ -1,97 +1,64 @@
 {
-  "ASpli": [
-    "Gviz"
-  ],
+  "ASpli": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
     "ggbio"
   ],
-  "AllelicImbalance": [
-    "Gviz"
-  ],
+  "AllelicImbalance": [],
   "BOBaFIT": [
     "ggbio"
   ],
-  "BubbleTree": [],
   "BulkSignalR": [],
   "CAFE": [
     "ggbio"
   ],
   "CAGEfightR": [
-    "Gviz",
     "GenomicInteractions"
   ],
   "CAGEr": [
     "CAGEfightR",
-    "Gviz",
     "GenomicInteractions"
   ],
   "ChAMP": [
-    "DMRcate",
-    "Gviz"
+    "DMRcate"
   ],
-  "ChIPexoQual": [],
-  "DMRcate": [
-    "Gviz"
-  ],
+  "DMRcate": [],
   "Damsel": [
     "ggbio"
   ],
-  "DuplexDiscovereR": [
-    "Gviz"
-  ],
-  "ELMER": [
-    "Gviz"
-  ],
+  "DuplexDiscovereR": [],
+  "ELMER": [],
   "EpiCompare": [],
   "FLAMES": [
     "ggbio"
   ],
-  "GeneStructureTools": [
-    "Gviz"
-  ],
-  "GenomicInteractions": [
-    "Gviz"
-  ],
+  "GeneStructureTools": [],
+  "GenomicInteractions": [],
   "GenomicOZone": [
     "ggbio"
   ],
-  "Gviz": [],
   "HiCDCPlus": [
-    "GenomicInteractions",
-    "Gviz"
+    "GenomicInteractions"
   ],
   "LimROTS": [],
-  "MEAL": [
-    "Gviz"
-  ],
-  "MEAT": [],
+  "MEAL": [],
   "NormqPCR": [],
-  "OGRE": [
-    "Gviz"
-  ],
+  "OGRE": [],
   "PhenStat": [],
-  "Pviz": [
-    "Gviz"
-  ],
+  "Pviz": [],
   "R3CPET": [
     "ggbio"
   ],
-  "RNAmodR": [
-    "Gviz"
-  ],
+  "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
-    "RNAmodR",
-    "Gviz"
+    "RNAmodR"
   ],
   "RNAmodR.ML": [
-    "RNAmodR",
-    "Gviz"
+    "RNAmodR"
   ],
   "RNAmodR.RiboMethSeq": [
-    "RNAmodR",
-    "Gviz"
+    "RNAmodR"
   ],
   "ReportingTools": [
     "ggbio"
@@ -99,20 +66,13 @@
   "RiboProfiling": [
     "ggbio"
   ],
-  "Rqc": [],
-  "SPLINTER": [
-    "Gviz"
-  ],
+  "SPLINTER": [],
   "SomaticSignatures": [
     "ggbio"
   ],
-  "TVTB": [
-    "Gviz"
-  ],
+  "TVTB": [],
   "Ularcirc": [],
-  "VariantFiltering": [
-    "Gviz"
-  ],
+  "VariantFiltering": [],
   "YAPSA": [
     "SomaticSignatures",
     "ggbio"
@@ -121,26 +81,14 @@
     "ReportingTools",
     "ggbio"
   ],
-  "bigmelon": [],
-  "biomvRCNS": [
-    "Gviz"
-  ],
+  "biomvRCNS": [],
   "cageminer": [
     "ggbio"
   ],
-  "chevreulPlot": [],
-  "chevreulShiny": [
-    "chevreulPlot"
-  ],
-  "chimeraviz": [
-    "Gviz"
-  ],
-  "cicero": [
-    "Gviz"
-  ],
-  "comapr": [
-    "Gviz"
-  ],
+  "chevreulShiny": [],
+  "chimeraviz": [],
+  "cicero": [],
+  "comapr": [],
   "crisprDesign": [
     "crisprScore"
   ],
@@ -148,94 +96,57 @@
   "crisprShiny": [
     "crisprDesign",
     "crisprScore",
-    "crisprViz",
-    "Gviz"
+    "crisprViz"
   ],
   "crisprVerse": [
     "crisprScore",
     "crisprDesign",
-    "crisprViz",
-    "Gviz"
+    "crisprViz"
   ],
   "crisprViz": [
     "crisprDesign",
-    "Gviz",
     "crisprScore"
   ],
-  "cummeRbund": [
-    "Gviz"
-  ],
+  "cummeRbund": [],
   "derfinderPlot": [
     "ggbio"
   ],
-  "epimutacions": [
-    "Gviz"
-  ],
-  "epivizr": [],
-  "epivizrChart": [],
-  "epivizrStandalone": [
-    "epivizr"
-  ],
+  "epimutacions": [],
+  "epivizrStandalone": [],
   "geomeTriD": [
-    "trackViewer",
-    "Gviz"
+    "trackViewer"
   ],
   "ggbio": [],
   "immunotation": [],
   "intansv": [
     "ggbio"
   ],
-  "mCSEA": [
-    "Gviz"
-  ],
-  "maser": [
-    "Gviz"
-  ],
-  "methylPipe": [
-    "Gviz"
-  ],
-  "motifbreakR": [
-    "Gviz"
-  ],
+  "mCSEA": [],
+  "maser": [],
+  "methylPipe": [],
+  "motifbreakR": [],
   "msgbsR": [
     "ggbio"
   ],
   "orthos": [],
-  "primirTSS": [
-    "Gviz"
-  ],
-  "regutools": [
-    "Gviz"
-  ],
+  "primirTSS": [],
+  "regutools": [],
   "saseR": [
-    "ASpli",
-    "Gviz"
+    "ASpli"
   ],
-  "scTreeViz": [
-    "epivizr"
-  ],
+  "scTreeViz": [],
   "scifer": [],
   "scruff": [
     "ggbio"
   ],
   "sketchR": [],
-  "skewr": [],
   "snifter": [],
   "spatzie": [
-    "GenomicInteractions",
-    "Gviz"
+    "GenomicInteractions"
   ],
-  "srnadiff": [
-    "Gviz"
-  ],
-  "tadar": [
-    "Gviz"
-  ],
-  "trackViewer": [
-    "Gviz"
-  ],
-  "uncoverappLib": [
-    "Gviz"
-  ],
+  "srnadiff": [],
+  "tadar": [],
+  "trackViewer": [],
+  "uncoverappLib": [],
   "velociraptor": []
 }

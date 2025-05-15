@@ -2107,3 +2107,13 @@ MAIT
 RNAAgeCalc
 IsoformSwitchAnalyzeR
 shinyDSP
+bigmelon
+BubbleTree
+chevreulPlot
+ChIPexoQual
+epivizr
+epivizrChart
+Gviz
+MEAT
+Rqc
+skewr
