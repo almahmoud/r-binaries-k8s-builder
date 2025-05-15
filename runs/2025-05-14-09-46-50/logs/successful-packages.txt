@@ -1850,3 +1850,6 @@ igvR
 lineagespot
 mygene
 tidySpatialExperiment
+katdetectr
+ORFik
+R453Plus1Toolbox

@@ -300,7 +300,6 @@
   "OMICsPCA": [
     "HelloRanges"
   ],
-  "ORFik": [],
   "OUTRIDER": [],
   "Organism.dplyr": [],
   "OrganismDbi": [],
@@ -327,7 +326,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "R453Plus1Toolbox": [],
   "RAIDS": [
     "ensembldb"
   ],
@@ -428,9 +426,7 @@
     "ASSIGN"
   ],
   "TENET": [],
-  "TFHAZ": [
-    "ORFik"
-  ],
+  "TFHAZ": [],
   "TFutils": [
     "GenomicFiles"
   ],
@@ -720,7 +716,6 @@
     "ensembldb"
   ],
   "interactiveDisplay": [],
-  "katdetectr": [],
   "kissDE": [
     "DSS",
     "bsseq"
