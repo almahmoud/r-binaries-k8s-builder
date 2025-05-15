@@ -1690,3 +1690,10 @@ dada2
 GOstats
 hipathia
 xcore
+AMARETTO
+blacksheepr
+GenomicFeatures
+methylKit
+scHiCcompare
+spatialHeatmap
+switchde
