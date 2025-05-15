@@ -232,7 +232,6 @@
   "Moonlight2R": [
     "EpiMix"
   ],
-  "MungeSumstats": [],
   "NanoMethViz": [
     "bsseq"
   ],
@@ -345,7 +344,6 @@
   "TBSignatureProfiler": [
     "ASSIGN"
   ],
-  "TFHAZ": [],
   "TFutils": [],
   "TOP": [],
   "TVTB": [
@@ -357,7 +355,6 @@
   "Ularcirc": [
     "Organism.dplyr"
   ],
-  "Uniquorn": [],
   "VCFArray": [],
   "VaSP": [],
   "VariantFiltering": [
@@ -514,7 +511,6 @@
   "drugTargetInteractions": [
     "ensembldb"
   ],
-  "easier": [],
   "easyRNASeq": [],
   "enhancerHomologSearch": [
     "motifmatchr"
@@ -577,7 +573,6 @@
   "iSEEhex": [],
   "iSEEhub": [],
   "iSEEpathways": [],
-  "iSEEtree": [],
   "iSEEu": [
     "iSEEhex"
   ],
@@ -633,9 +628,7 @@
   "methylclock": [
     "ExperimentHubData"
   ],
-  "miaDash": [
-    "iSEEtree"
-  ],
+  "miaDash": [],
   "missMethyl": [],
   "mobileRNA": [],
   "monaLisa": [],
@@ -730,7 +723,6 @@
   "seqArchRplus": [
     "ChIPseeker"
   ],
-  "seqsetvis": [],
   "sevenC": [],
   "shinyDSP": [
     "standR",

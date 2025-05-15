@@ -1919,3 +1919,9 @@ preciseTAD
 seqCAT
 tidyomics
 traseR
+easier
+iSEEtree
+MungeSumstats
+seqsetvis
+TFHAZ
+Uniquorn
