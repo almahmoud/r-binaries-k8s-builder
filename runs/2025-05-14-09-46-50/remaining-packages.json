@@ -55,7 +55,6 @@
     "biovizBase"
   ],
   "CAMERA": [],
-  "COCOA": [],
   "CSSQ": [],
   "CTexploreR": [],
   "ChAMP": [
@@ -95,7 +94,6 @@
     "biovizBase",
     "ensembldb"
   ],
-  "DeMixT": [],
   "DegCre": [],
   "DiffBind": [],
   "DuplexDiscovereR": [
@@ -142,7 +140,6 @@
     "biovizBase",
     "ensembldb"
   ],
-  "Guitar": [],
   "Gviz": [
     "ensembldb",
     "biovizBase"
@@ -578,7 +575,6 @@
     "EDASeq",
     "RUVSeq"
   ],
-  "rmspc": [],
   "saseR": [
     "ASpli",
     "Gviz",
