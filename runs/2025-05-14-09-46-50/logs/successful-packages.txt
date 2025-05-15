@@ -2049,3 +2049,9 @@ cosmiq
 derfinder
 GNOSIS
 missMethyl
+BUSpaRse
+canceR
+CleanUpRNAseq
+diffUTR
+drugTargetInteractions
+metaseqR2
