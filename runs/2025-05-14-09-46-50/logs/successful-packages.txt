@@ -1870,3 +1870,7 @@ CCAFE
 CNVrd2
 funtooNorm
 quantro
+deconvR
+MethylAid
+shinyMethyl
+StructuralVariantAnnotation

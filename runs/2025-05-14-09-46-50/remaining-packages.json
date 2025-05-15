@@ -258,7 +258,6 @@
     "ensembldb"
   ],
   "MethReg": [],
-  "MethylAid": [],
   "MineICA": [
     "lumi",
     "methylumi"
@@ -389,7 +388,6 @@
     "ensembldb"
   ],
   "SpaNorm": [],
-  "StructuralVariantAnnotation": [],
   "TBSignatureProfiler": [
     "ASSIGN"
   ],
@@ -562,7 +560,6 @@
     "motifStack"
   ],
   "decompTumor2Sig": [],
-  "deconvR": [],
   "demuxSNP": [
     "ensembldb"
   ],
@@ -835,7 +832,6 @@
     "RUVSeq",
     "EDASeq"
   ],
-  "shinyMethyl": [],
   "shinyepico": [],
   "signeR": [],
   "signifinder": [
@@ -869,12 +865,8 @@
     "EDASeq"
   ],
   "strandCheckR": [],
-  "svaNUMT": [
-    "StructuralVariantAnnotation"
-  ],
-  "svaRetro": [
-    "StructuralVariantAnnotation"
-  ],
+  "svaNUMT": [],
+  "svaRetro": [],
   "tadar": [
     "Gviz",
     "ensembldb",

@@ -2018,3 +2018,5 @@ GSReg
 appreci8R
 iNETgrate
 yarn
+svaNUMT
+svaRetro
