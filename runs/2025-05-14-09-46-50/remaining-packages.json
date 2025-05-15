@@ -1,6 +1,5 @@
 {
   "AHMassBank": [],
-  "ASSIGN": [],
   "ASpli": [
     "Gviz",
     "ensembldb",
@@ -173,7 +172,6 @@
     "biovizBase"
   ],
   "HiCool": [],
-  "IMAS": [],
   "INSPEcT": [],
   "IPO": [
     "xcms",
@@ -316,9 +314,7 @@
     "ensembldb"
   ],
   "SpaNorm": [],
-  "TBSignatureProfiler": [
-    "ASSIGN"
-  ],
+  "TBSignatureProfiler": [],
   "TFutils": [],
   "TOP": [],
   "TVTB": [
