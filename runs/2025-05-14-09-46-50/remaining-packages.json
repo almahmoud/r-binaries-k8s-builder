@@ -103,7 +103,6 @@
   "BatchQC": [
     "sva"
   ],
-  "BatchSVG": [],
   "BgeeCall": [
     "GenomicFeatures",
     "txdbmaker"
@@ -332,7 +331,6 @@
     "BSgenome"
   ],
   "DeconvoBuddies": [],
-  "DeepTarget": [],
   "DegCre": [
     "plotgardener",
     "plyranges",
@@ -1087,9 +1085,7 @@
   "SplicingGraphs": [
     "GenomicFeatures"
   ],
-  "Statial": [
-    "treekoR"
-  ],
+  "Statial": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -1470,7 +1466,6 @@
   "cosmiq": [
     "xcms"
   ],
-  "covRNA": [],
   "cpvSNP": [
     "GenomicFeatures"
   ],
@@ -1541,7 +1536,6 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "cydar": [],
   "cytofQC": [
     "CATALYST"
   ],
@@ -2081,7 +2075,6 @@
     "TFBSTools",
     "BSgenome"
   ],
-  "msImpute": [],
   "msgbsR": [
     "BSgenome",
     "easyRNASeq",
@@ -2528,7 +2521,6 @@
   "traseR": [
     "BSgenome"
   ],
-  "treekoR": [],
   "txcutr": [
     "GenomicFeatures",
     "txdbmaker"

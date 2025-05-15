@@ -1566,3 +1566,9 @@ scAnnotatR
 BioTIP
 evaluomeR
 scviR
+BatchSVG
+covRNA
+cydar
+DeepTarget
+msImpute
+treekoR
