@@ -1758,3 +1758,7 @@ genomation
 m6Aboost
 pipeFrame
 qsea
+bambu
+diffHic
+spiky
+tRNAscanImport

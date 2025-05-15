@@ -235,7 +235,6 @@
     "txdbmaker"
   ],
   "FLAMES": [
-    "bambu",
     "txdbmaker",
     "ggbio",
     "biovizBase",
@@ -712,7 +711,6 @@
     "motifStack"
   ],
   "ballgown": [],
-  "bambu": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -905,7 +903,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "diffHic": [],
   "diffUTR": [
     "ensembldb"
   ],
@@ -1375,7 +1372,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "spiky": [],
   "squallms": [
     "xcms"
   ],
@@ -1401,7 +1397,6 @@
   "tLOH": [
     "VariantAnnotation"
   ],
-  "tRNAscanImport": [],
   "tadar": [
     "Gviz",
     "VariantAnnotation",
