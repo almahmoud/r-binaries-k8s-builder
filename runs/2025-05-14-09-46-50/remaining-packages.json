@@ -404,9 +404,7 @@
     "minfi",
     "bumphunter"
   ],
-  "MinimumDistance": [
-    "VanillaICE"
-  ],
+  "MinimumDistance": [],
   "Moonlight2R": [
     "EpiMix"
   ],
@@ -588,7 +586,6 @@
   "SARC": [],
   "SCAN.UPC": [],
   "SCANVIS": [],
-  "SCOPE": [],
   "SEtools": [],
   "SGSeq": [],
   "SMITE": [
@@ -668,7 +665,6 @@
   "VaSP": [
     "ballgown"
   ],
-  "VanillaICE": [],
   "VariantAnnotation": [],
   "VariantFiltering": [
     "VariantAnnotation",
@@ -752,7 +748,6 @@
     "bsseq",
     "DSS"
   ],
-  "branchpointer": [],
   "bsseq": [],
   "bumphunter": [],
   "cBioPortalData": [

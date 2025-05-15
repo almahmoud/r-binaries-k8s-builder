@@ -1745,3 +1745,6 @@ SparseSignatures
 TAPseq
 TFBSTools
 VarCon
+branchpointer
+SCOPE
+VanillaICE
