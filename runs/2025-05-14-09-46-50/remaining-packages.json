@@ -353,7 +353,6 @@
   ],
   "DAPAR": [],
   "DEP": [],
-  "DEXSeq": [],
   "DExMA": [
     "GEOquery",
     "sva"
@@ -748,13 +747,11 @@
     "GenomicFiles",
     "GenomicFeatures",
     "txdbmaker",
-    "DEXSeq",
     "rtracklayer",
     "VariantAnnotation",
     "BSgenome"
   ],
   "IsoformSwitchAnalyzeR": [
-    "DEXSeq",
     "sva",
     "BSgenome",
     "rtracklayer",
@@ -1643,9 +1640,7 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "blacksheepr": [
-    "DEXSeq"
-  ],
+  "blacksheepr": [],
   "bnbc": [
     "sva"
   ],
@@ -2007,7 +2002,6 @@
     "rtracklayer"
   ],
   "diffUTR": [
-    "DEXSeq",
     "rtracklayer",
     "ensembldb",
     "GenomicFeatures"
@@ -2609,7 +2603,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "multiGSEA": [],
   "multiHiCcompare": [
     "HiCcompare"
   ],
@@ -2646,7 +2639,6 @@
     "mbkmeans"
   ],
   "nipalsMCIA": [],
-  "npGSEA": [],
   "nucleR": [],
   "nullranges": [
     "plyranges",
@@ -2671,7 +2663,6 @@
     "rtracklayer"
   ],
   "pairedGSEA": [
-    "DEXSeq",
     "sva"
   ],
   "pathMED": [],
@@ -2879,7 +2870,6 @@
   "saseR": [
     "ASpli",
     "GenomicFeatures",
-    "DEXSeq",
     "Gviz",
     "txdbmaker",
     "rtracklayer",
