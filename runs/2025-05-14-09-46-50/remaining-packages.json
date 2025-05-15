@@ -111,14 +111,12 @@
   "CSSQ": [],
   "CTexploreR": [],
   "CellMixS": [],
-  "CexoR": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
     "wateRmelon",
     "goseq",
     "missMethyl",
-    "bumphunter",
     "bsseq",
     "Gviz",
     "methylumi",
@@ -148,8 +146,7 @@
   "Cogito": [],
   "CoverageView": [],
   "DAMEfinder": [
-    "VariantAnnotation",
-    "bumphunter"
+    "VariantAnnotation"
   ],
   "DAPAR": [],
   "DEP": [],
@@ -163,7 +160,6 @@
     "Gviz",
     "ensembldb",
     "biovizBase",
-    "bumphunter",
     "methylumi",
     "VariantAnnotation"
   ],
@@ -214,8 +210,7 @@
     "txdbmaker"
   ],
   "ENmix": [
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "EWCE": [],
   "EnrichmentBrowser": [],
@@ -343,8 +338,7 @@
   "MAGAR": [
     "RnBeads",
     "methylumi",
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "MAIT": [
     "CAMERA",
@@ -357,14 +351,12 @@
     "missMethyl",
     "ensembldb",
     "biovizBase",
-    "bumphunter",
     "methylumi",
     "VariantAnnotation"
   ],
   "MEAT": [
     "minfi",
     "wateRmelon",
-    "bumphunter",
     "methylumi",
     "lumi"
   ],
@@ -386,14 +378,12 @@
     "sesame"
   ],
   "MethylAid": [
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "MineICA": [
     "lumi",
     "methylumi",
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "MinimumDistance": [],
   "Moonlight2R": [
@@ -477,8 +467,7 @@
     "txdbmaker"
   ],
   "REMP": [
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "RESOLVE": [
     "MutationalPatterns",
@@ -488,7 +477,6 @@
   "RNAAgeCalc": [
     "recount",
     "derfinder",
-    "bumphunter",
     "GenomicFiles",
     "VariantAnnotation"
   ],
@@ -557,13 +545,11 @@
   "Rmmquant": [],
   "RnBeads": [
     "methylumi",
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "RnaSeqSampleSize": [
     "recount",
     "derfinder",
-    "bumphunter",
     "GenomicFiles",
     "VariantAnnotation"
   ],
@@ -703,8 +689,7 @@
   "arrayMvout": [
     "lumi",
     "methylumi",
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "atSNP": [
     "motifStack"
@@ -714,7 +699,6 @@
     "wateRmelon",
     "minfi",
     "methylumi",
-    "bumphunter",
     "lumi"
   ],
   "bioCancer": [
@@ -738,7 +722,6 @@
     "DSS"
   ],
   "bsseq": [],
-  "bumphunter": [],
   "cBioPortalData": [
     "RTCGAToolbox"
   ],
@@ -762,7 +745,6 @@
     "cBioPortalData",
     "RTCGAToolbox"
   ],
-  "cfDNAPro": [],
   "chevreulPlot": [
     "chevreulProcess",
     "ensembldb"
@@ -800,9 +782,7 @@
     "xcms"
   ],
   "clusterExperiment": [],
-  "coMethDMR": [
-    "bumphunter"
-  ],
+  "coMethDMR": [],
   "comapr": [
     "Gviz",
     "ensembldb",
@@ -815,8 +795,7 @@
     "RUVSeq"
   ],
   "conumee": [
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "cosmiq": [
     "xcms"
@@ -875,8 +854,7 @@
     "VariantAnnotation"
   ],
   "deconvR": [
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "deepSNV": [
     "VariantAnnotation"
@@ -886,14 +864,12 @@
     "ensembldb"
   ],
   "derfinder": [
-    "bumphunter",
     "GenomicFiles",
     "VariantAnnotation"
   ],
   "derfinderPlot": [
     "derfinder",
     "ggbio",
-    "bumphunter",
     "GenomicFiles",
     "biovizBase",
     "VariantAnnotation",
@@ -922,7 +898,6 @@
   "ensembldb": [],
   "epimutacions": [
     "minfi",
-    "bumphunter",
     "Gviz",
     "ensembldb",
     "biovizBase",
@@ -935,7 +910,6 @@
   ],
   "epivizr": [
     "epivizrData",
-    "bumphunter",
     "OrganismDbi",
     "ensembldb",
     "txdbmaker"
@@ -954,7 +928,6 @@
   "epivizrStandalone": [
     "epivizr",
     "epivizrData",
-    "bumphunter",
     "OrganismDbi",
     "ensembldb",
     "txdbmaker"
@@ -971,19 +944,16 @@
   "ffpe": [
     "lumi",
     "methylumi",
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "flagme": [
     "xcms",
     "CAMERA"
   ],
   "funtooNorm": [
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "gINTomics": [],
-  "gcapc": [],
   "geneAttribution": [],
   "geomeTriD": [
     "trackViewer",
@@ -1019,13 +989,11 @@
   "iCheck": [
     "lumi",
     "methylumi",
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "iNETgrate": [
     "minfi",
     "OrganismDbi",
-    "bumphunter",
     "txdbmaker"
   ],
   "iSEEde": [],
@@ -1070,8 +1038,7 @@
   ],
   "lumi": [
     "methylumi",
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "mCSEA": [
     "Gviz",
@@ -1100,18 +1067,15 @@
     "txdbmaker",
     "bsseq"
   ],
-  "methInheritSim": [],
   "methrix": [],
   "methylCC": [
     "minfi",
-    "bsseq",
-    "bumphunter"
+    "bsseq"
   ],
   "methylGSA": [
     "missMethyl",
     "minfi",
-    "methylumi",
-    "bumphunter"
+    "methylumi"
   ],
   "methylInheritance": [],
   "methylPipe": [
@@ -1127,25 +1091,20 @@
   "methylclock": [
     "minfi",
     "ExperimentHubData",
-    "bumphunter",
     "AnnotationHubData",
     "OrganismDbi",
     "txdbmaker"
   ],
   "methylumi": [
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "miaDash": [
     "iSEEtree"
   ],
-  "minfi": [
-    "bumphunter"
-  ],
+  "minfi": [],
   "missMethyl": [
     "methylumi",
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "mitoClone2": [
     "deepSNV",
@@ -1185,7 +1144,6 @@
   "ncGTW": [
     "xcms"
   ],
-  "nearBynding": [],
   "netSmooth": [
     "clusterExperiment"
   ],
@@ -1223,14 +1181,12 @@
   "psichomics": [
     "recount",
     "derfinder",
-    "bumphunter",
     "GenomicFiles",
     "VariantAnnotation"
   ],
   "qpgraph": [],
   "quantro": [
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "r3Cseq": [],
   "rCGH": [],
@@ -1238,20 +1194,17 @@
   "raer": [],
   "recount": [
     "derfinder",
-    "bumphunter",
     "GenomicFiles",
     "VariantAnnotation"
   ],
   "recountmethylation": [
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "recoup": [
     "txdbmaker"
   ],
   "regionReport": [
     "derfinder",
-    "bumphunter",
     "GenomicFiles",
     "VariantAnnotation"
   ],
@@ -1272,9 +1225,7 @@
     "txdbmaker"
   ],
   "rmspc": [],
-  "rnaEditr": [
-    "bumphunter"
-  ],
+  "rnaEditr": [],
   "sampleClassifier": [],
   "saseR": [
     "ASpli",
@@ -1292,7 +1243,6 @@
   "scTreeViz": [
     "epivizr",
     "epivizrData",
-    "bumphunter",
     "OrganismDbi",
     "ensembldb",
     "txdbmaker"
@@ -1333,12 +1283,10 @@
     "EDASeq"
   ],
   "shinyMethyl": [
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "shinyepico": [
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "signeR": [
     "VariantAnnotation"
@@ -1354,7 +1302,6 @@
     "methylumi",
     "wateRmelon",
     "minfi",
-    "bumphunter",
     "lumi"
   ],
   "snifter": [],
@@ -1433,9 +1380,7 @@
     "VariantAnnotation"
   ],
   "velociraptor": [],
-  "vmrseq": [
-    "bumphunter"
-  ],
+  "vmrseq": [],
   "vtpnet": [
     "gwascat",
     "VariantAnnotation"
@@ -1443,15 +1388,13 @@
   "wateRmelon": [
     "methylumi",
     "lumi",
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "wavClusteR": [],
   "xcms": [],
   "yarn": [
     "quantro",
-    "minfi",
-    "bumphunter"
+    "minfi"
   ],
   "zenith": [
     "EnrichmentBrowser"

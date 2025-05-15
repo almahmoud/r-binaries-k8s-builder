@@ -1922,3 +1922,7 @@ InPAS
 hiReadsProcessor
 CexoR
 fCCAC
+coMethDMR
+minfi
+rnaEditr
+vmrseq

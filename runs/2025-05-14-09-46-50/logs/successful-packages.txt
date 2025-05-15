@@ -1766,3 +1766,9 @@ casper
 gmoviz
 MMDiff2
 rTRMui
+bumphunter
+CexoR
+cfDNAPro
+gcapc
+methInheritSim
+nearBynding
