@@ -1907,3 +1907,8 @@ traseR
 lisaClust
 magpie
 iCNV
+DiffBind
+RTCGAToolbox
+glmSparseNet
+selectKSigs
+terraTCGAdata

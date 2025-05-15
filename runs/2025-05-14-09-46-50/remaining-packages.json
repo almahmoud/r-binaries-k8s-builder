@@ -133,8 +133,7 @@
     "VariantAnnotation"
   ],
   "ChIPQC": [
-    "DiffBind",
-    "GreyListChIP"
+    "DiffBind"
   ],
   "ChIPexoQual": [
     "biovizBase",
@@ -197,9 +196,7 @@
   "DegNorm": [
     "txdbmaker"
   ],
-  "DiffBind": [
-    "GreyListChIP"
-  ],
+  "DiffBind": [],
   "Dino": [],
   "DominoEffect": [
     "VariantAnnotation"
@@ -270,8 +267,7 @@
   "GEOexplorer": [],
   "GNOSIS": [
     "cBioPortalData",
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "GSEABenchmarkeR": [
     "EnrichmentBrowser"
@@ -309,7 +305,6 @@
     "genomation",
     "txdbmaker"
   ],
-  "GreyListChIP": [],
   "Guitar": [],
   "Gviz": [
     "ensembldb",
@@ -327,10 +322,8 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiCDOC": [],
   "HiContacts": [],
   "HiCool": [],
-  "HiLDA": [],
   "HicAggR": [],
   "IMAS": [
     "IVAS"
@@ -384,7 +377,6 @@
     "methylumi",
     "lumi"
   ],
-  "MEDIPS": [],
   "MIRA": [
     "bsseq"
   ],
@@ -410,7 +402,6 @@
     "minfi",
     "bumphunter"
   ],
-  "MethylSeekR": [],
   "MineICA": [
     "lumi",
     "methylumi",
@@ -423,7 +414,6 @@
   "Moonlight2R": [
     "EpiMix"
   ],
-  "Motif2Site": [],
   "MotifPeeker": [],
   "MungeSumstats": [
     "VariantAnnotation"
@@ -445,7 +435,6 @@
     "HelloRanges",
     "VariantAnnotation"
   ],
-  "ORFhunteR": [],
   "ORFik": [
     "txdbmaker"
   ],
@@ -550,9 +539,7 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RTCGAToolbox": [
-    "TCGAutils"
-  ],
+  "RTCGAToolbox": [],
   "RUVSeq": [
     "EDASeq"
   ],
@@ -654,7 +641,6 @@
   "TBSignatureProfiler": [
     "ASSIGN"
   ],
-  "TCGAutils": [],
   "TENET": [
     "sesame"
   ],
@@ -758,8 +744,7 @@
   ],
   "bioCancer": [
     "cBioPortalData",
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "biomvRCNS": [
     "Gviz",
@@ -781,8 +766,7 @@
   "bsseq": [],
   "bumphunter": [],
   "cBioPortalData": [
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "cageminer": [
     "ggbio",
@@ -795,8 +779,7 @@
   ],
   "canceR": [
     "cBioPortalData",
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "cardelino": [
     "VariantAnnotation"
@@ -804,8 +787,7 @@
   "casper": [],
   "cbaf": [
     "cBioPortalData",
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "cfDNAPro": [],
   "chevreulPlot": [
@@ -1064,9 +1046,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "glmSparseNet": [
-    "TCGAutils"
-  ],
+  "glmSparseNet": [],
   "gmapR": [
     "VariantAnnotation"
   ],
@@ -1402,9 +1382,7 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "selectKSigs": [
-    "HiLDA"
-  ],
+  "selectKSigs": [],
   "seqArchRplus": [
     "ChIPseeker"
   ],
@@ -1489,9 +1467,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "terraTCGAdata": [
-    "TCGAutils"
-  ],
+  "terraTCGAdata": [],
   "tidyCoverage": [],
   "tidySpatialExperiment": [],
   "tidyomics": [],

@@ -1731,3 +1731,11 @@ CODEX
 cytofQC
 GOTHiC
 spillR
+GreyListChIP
+HiCDOC
+HiLDA
+MEDIPS
+MethylSeekR
+Motif2Site
+ORFhunteR
+TCGAutils
