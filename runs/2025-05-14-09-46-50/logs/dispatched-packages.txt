@@ -2126,3 +2126,8 @@ IsoformSwitchAnalyzeR
 MEAT
 bigmelon
 skewr
+BubbleTree
+ChIPexoQual
+Gviz
+Rqc
+ggbio
