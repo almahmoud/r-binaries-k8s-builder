@@ -1489,3 +1489,10 @@ condiments
 destiny
 MSstatsQCgui
 rtracklayer
+amplican
+autonomics
+ChIPsim
+FastqCleaner
+IONiseR
+OTUbase
+tidySingleCellExperiment

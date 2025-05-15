@@ -271,7 +271,6 @@
     "enrichplot",
     "GenomicFeatures"
   ],
-  "ChIPsim": [],
   "ChromHeatMap": [],
   "CircSeqAlignTk": [
     "Rhisat2",
@@ -463,7 +462,6 @@
     "OUTRIDER",
     "txdbmaker"
   ],
-  "FastqCleaner": [],
   "FindIT2": [
     "GenomicFeatures"
   ],
@@ -615,7 +613,6 @@
   "INSPEcT": [
     "GenomicFeatures"
   ],
-  "IONiseR": [],
   "IPO": [
     "xcms",
     "CAMERA",
@@ -828,7 +825,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "OTUbase": [],
   "OUTRIDER": [
     "GenomicFeatures",
     "txdbmaker"
@@ -1333,7 +1329,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "amplican": [],
   "animalcules": [],
   "annmap": [],
   "appreci8R": [
@@ -1363,7 +1358,6 @@
   "attract": [
     "GOstats"
   ],
-  "autonomics": [],
   "ballgown": [
     "sva"
   ],
@@ -2679,12 +2673,8 @@
     "GenomicFeatures"
   ],
   "tidyCoverage": [],
-  "tidySingleCellExperiment": [],
-  "tidySpatialExperiment": [
-    "tidySingleCellExperiment"
-  ],
+  "tidySpatialExperiment": [],
   "tidyomics": [
-    "tidySingleCellExperiment",
     "plyranges",
     "nullranges"
   ],

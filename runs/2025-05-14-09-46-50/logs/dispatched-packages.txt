@@ -1706,3 +1706,4 @@ syntenet
 tidyCoverage
 visiumStitched
 wiggleplotr
+tidySpatialExperiment
