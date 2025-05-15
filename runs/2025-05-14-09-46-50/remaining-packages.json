@@ -236,7 +236,6 @@
     "GenomicFeatures"
   ],
   "CoverageView": [],
-  "CrispRVariants": [],
   "DAMEfinder": [
     "VariantAnnotation",
     "bumphunter",
@@ -518,7 +517,6 @@
     "cleanUpdTSeq",
     "GenomicFeatures"
   ],
-  "InTAD": [],
   "IntEREst": [
     "GenomicFiles",
     "GenomicFeatures",
@@ -581,7 +579,6 @@
     "qpgraph",
     "GenomicFeatures"
   ],
-  "MPAC": [],
   "MSPrep": [],
   "MatrixQCvis": [],
   "MatrixRider": [
@@ -1381,7 +1378,6 @@
     "TFBSTools",
     "BSgenome"
   ],
-  "dandelionR": [],
   "debrowser": [],
   "decompTumor2Sig": [
     "GenomicFeatures",
@@ -2109,7 +2105,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "signatureSearch": [],
   "signeR": [
     "VariantAnnotation",
     "BSgenome",

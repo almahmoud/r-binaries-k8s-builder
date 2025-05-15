@@ -1657,3 +1657,8 @@ phenoTest
 plotgardener
 RFLOMICS
 SeqSQC
+CrispRVariants
+dandelionR
+InTAD
+MPAC
+signatureSearch
