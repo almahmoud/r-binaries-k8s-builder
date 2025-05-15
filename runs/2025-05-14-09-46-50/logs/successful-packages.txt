@@ -2029,3 +2029,7 @@ transcriptR
 HelloRanges
 POMA
 VaSP
+dreamlet
+rgsepd
+SingleMoleculeFootprinting
+TBSignatureProfiler

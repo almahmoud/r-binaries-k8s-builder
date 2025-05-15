@@ -191,12 +191,10 @@
     "Gviz",
     "biovizBase"
   ],
-  "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [
     "ggbio",
     "biovizBase"
   ],
-  "TBSignatureProfiler": [],
   "TFutils": [],
   "TVTB": [
     "Gviz",
@@ -296,7 +294,6 @@
     "biovizBase"
   ],
   "diffUTR": [],
-  "dreamlet": [],
   "drugTargetInteractions": [],
   "enhancerHomologSearch": [],
   "epimutacions": [
@@ -391,7 +388,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "rgsepd": [],
   "ribosomeProfilingQC": [
     "RUVSeq"
   ],
