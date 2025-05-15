@@ -2178,3 +2178,10 @@ derfinderPlot
 intansv
 msgbsR
 scruff
+CAGEfightR
+HiCDCPlus
+RNAmodR.AlkAnilineSeq
+RNAmodR.ML
+RNAmodR.RiboMethSeq
+saseR
+spatzie

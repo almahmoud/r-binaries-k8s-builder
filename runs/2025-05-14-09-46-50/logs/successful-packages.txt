@@ -2118,3 +2118,17 @@ MEAT
 Rqc
 skewr
 ggbio
+AllelicImbalance
+ASpli
+biomvRCNS
+chimeraviz
+cicero
+DuplexDiscovereR
+ELMER
+GeneStructureTools
+GenomicInteractions
+OGRE
+Pviz
+RNAmodR
+SPLINTER
+TVTB

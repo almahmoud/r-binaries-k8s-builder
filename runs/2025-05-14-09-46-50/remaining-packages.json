@@ -1,57 +1,35 @@
 {
-  "ASpli": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools"
   ],
-  "AllelicImbalance": [],
   "BOBaFIT": [],
   "BulkSignalR": [],
   "CAFE": [],
-  "CAGEfightR": [
-    "GenomicInteractions"
-  ],
+  "CAGEfightR": [],
   "CAGEr": [
-    "CAGEfightR",
-    "GenomicInteractions"
+    "CAGEfightR"
   ],
   "ChAMP": [
     "DMRcate"
   ],
   "DMRcate": [],
   "Damsel": [],
-  "DuplexDiscovereR": [],
-  "ELMER": [],
   "EpiCompare": [],
   "FLAMES": [],
-  "GeneStructureTools": [],
-  "GenomicInteractions": [],
   "GenomicOZone": [],
-  "HiCDCPlus": [
-    "GenomicInteractions"
-  ],
+  "HiCDCPlus": [],
   "LimROTS": [],
   "MEAL": [],
   "NormqPCR": [],
-  "OGRE": [],
   "PhenStat": [],
-  "Pviz": [],
   "R3CPET": [],
-  "RNAmodR": [],
-  "RNAmodR.AlkAnilineSeq": [
-    "RNAmodR"
-  ],
-  "RNAmodR.ML": [
-    "RNAmodR"
-  ],
-  "RNAmodR.RiboMethSeq": [
-    "RNAmodR"
-  ],
+  "RNAmodR.AlkAnilineSeq": [],
+  "RNAmodR.ML": [],
+  "RNAmodR.RiboMethSeq": [],
   "ReportingTools": [],
   "RiboProfiling": [],
-  "SPLINTER": [],
   "SomaticSignatures": [],
-  "TVTB": [],
   "Ularcirc": [],
   "VariantFiltering": [],
   "YAPSA": [
@@ -60,11 +38,8 @@
   "affycoretools": [
     "ReportingTools"
   ],
-  "biomvRCNS": [],
   "cageminer": [],
   "chevreulShiny": [],
-  "chimeraviz": [],
-  "cicero": [],
   "comapr": [],
   "crisprDesign": [
     "crisprScore"
@@ -101,17 +76,13 @@
   "orthos": [],
   "primirTSS": [],
   "regutools": [],
-  "saseR": [
-    "ASpli"
-  ],
+  "saseR": [],
   "scTreeViz": [],
   "scifer": [],
   "scruff": [],
   "sketchR": [],
   "snifter": [],
-  "spatzie": [
-    "GenomicInteractions"
-  ],
+  "spatzie": [],
   "srnadiff": [],
   "tadar": [],
   "trackViewer": [],
