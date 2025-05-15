@@ -2153,3 +2153,5 @@ epivizrStandalone
 FLAMES
 methylPipe
 regutools
+srnadiff
+tadar
