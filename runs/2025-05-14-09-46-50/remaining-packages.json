@@ -116,7 +116,6 @@
   "BioNERO": [
     "sva"
   ],
-  "BioTIP": [],
   "BloodGen3Module": [],
   "BubbleTree": [
     "biovizBase",
@@ -1706,7 +1705,6 @@
     "enrichplot"
   ],
   "escape": [],
-  "evaluomeR": [],
   "extraChIPs": [],
   "fCCAC": [
     "genomation",
@@ -2359,7 +2357,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "scviR": [],
   "selectKSigs": [
     "HiLDA",
     "GenomicFeatures",

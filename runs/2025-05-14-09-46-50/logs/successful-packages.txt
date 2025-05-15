@@ -1563,3 +1563,6 @@ alabaster.mae
 scds
 MEB
 scAnnotatR
+BioTIP
+evaluomeR
+scviR
