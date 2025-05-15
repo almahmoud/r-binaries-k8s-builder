@@ -8,14 +8,10 @@
   "CAGEr": [
     "CAGEfightR"
   ],
-  "ChAMP": [
-    "DMRcate"
-  ],
-  "DMRcate": [],
+  "ChAMP": [],
   "EpiCompare": [],
   "HiCDCPlus": [],
   "LimROTS": [],
-  "MEAL": [],
   "NormqPCR": [],
   "PhenStat": [],
   "RNAmodR.AlkAnilineSeq": [],
@@ -53,7 +49,6 @@
   "mCSEA": [],
   "motifbreakR": [],
   "orthos": [],
-  "primirTSS": [],
   "saseR": [],
   "scTreeViz": [],
   "scifer": [],
