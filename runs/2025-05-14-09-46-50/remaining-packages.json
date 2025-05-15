@@ -183,7 +183,6 @@
     "GenomicFeatures"
   ],
   "CTexploreR": [],
-  "CaMutQC": [],
   "CeTF": [],
   "CellMixS": [],
   "CexoR": [
@@ -355,7 +354,6 @@
   ],
   "EWCE": [],
   "EasyCellType": [],
-  "EnrichDO": [],
   "EnrichmentBrowser": [],
   "EpiCompare": [
     "ChIPseeker",
@@ -1288,7 +1286,6 @@
   ],
   "chevreulPlot": [
     "chevreulProcess",
-    "wiggleplotr",
     "ensembldb",
     "GenomicFeatures"
   ],
@@ -1299,7 +1296,6 @@
   "chevreulShiny": [
     "chevreulProcess",
     "chevreulPlot",
-    "wiggleplotr",
     "ensembldb",
     "GenomicFeatures"
   ],
@@ -1461,7 +1457,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "decontX": [],
   "deconvR": [
     "methylKit",
     "minfi",
@@ -1596,8 +1591,7 @@
     "BSgenome"
   ],
   "factR": [
-    "GenomicFeatures",
-    "wiggleplotr"
+    "GenomicFeatures"
   ],
   "famat": [],
   "fcScan": [
@@ -1816,7 +1810,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "mastR": [],
   "metaMS": [
     "CAMERA",
     "xcms"
@@ -2387,7 +2380,6 @@
   "wavClusteR": [
     "GenomicFeatures"
   ],
-  "wiggleplotr": [],
   "xcms": [],
   "xcore": [],
   "yarn": [

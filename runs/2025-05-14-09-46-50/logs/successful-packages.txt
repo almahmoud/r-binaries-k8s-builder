@@ -1623,3 +1623,8 @@ plyranges
 scRNAseqApp
 spatialFDA
 syntenet
+CaMutQC
+decontX
+EnrichDO
+mastR
+wiggleplotr
