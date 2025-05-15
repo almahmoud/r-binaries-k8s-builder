@@ -1762,3 +1762,7 @@ bambu
 diffHic
 spiky
 tRNAscanImport
+casper
+gmoviz
+MMDiff2
+rTRMui

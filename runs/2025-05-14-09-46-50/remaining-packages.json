@@ -371,7 +371,6 @@
   "MIRA": [
     "bsseq"
   ],
-  "MMDiff2": [],
   "MOSClip": [
     "qpgraph"
   ],
@@ -759,7 +758,6 @@
   "cardelino": [
     "VariantAnnotation"
   ],
-  "casper": [],
   "cbaf": [
     "cBioPortalData",
     "RTCGAToolbox"
@@ -1006,7 +1004,6 @@
   "gmapR": [
     "VariantAnnotation"
   ],
-  "gmoviz": [],
   "goseq": [
     "txdbmaker"
   ],
@@ -1238,7 +1235,6 @@
   "r3Cseq": [],
   "rCGH": [],
   "rGREAT": [],
-  "rTRMui": [],
   "raer": [],
   "recount": [
     "derfinder",
