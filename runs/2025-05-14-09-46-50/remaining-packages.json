@@ -55,8 +55,7 @@
   ],
   "BASiCS": [],
   "BASiCStan": [
-    "BASiCS",
-    "glmGamPoi"
+    "BASiCS"
   ],
   "BBCAnalyzer": [
     "VariantAnnotation",
@@ -679,7 +678,6 @@
     "GenomicFeatures"
   ],
   "PAA": [],
-  "PECA": [],
   "POMA": [],
   "PRONE": [
     "POMA"
@@ -753,9 +751,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "RJMCMCNucleosomes": [
-    "consensusSeekeR"
-  ],
+  "RJMCMCNucleosomes": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -1288,7 +1284,6 @@
     "RUVSeq"
   ],
   "consensusOV": [],
-  "consensusSeekeR": [],
   "conumee": [
     "minfi",
     "bumphunter",
@@ -1566,7 +1561,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils",
     "GenomicFeatures"
@@ -1665,9 +1659,7 @@
     "bsseq",
     "BSgenome"
   ],
-  "lemur": [
-    "glmGamPoi"
-  ],
+  "lemur": [],
   "lineagespot": [
     "VariantAnnotation",
     "BSgenome",
@@ -1867,7 +1859,6 @@
     "TFBSTools",
     "BSgenome"
   ],
-  "pairedGSEA": [],
   "periodicDNA": [
     "BSgenome"
   ],
@@ -2109,7 +2100,6 @@
   ],
   "snifter": [],
   "soGGi": [],
-  "spatialDE": [],
   "spatialHeatmap": [],
   "spatialSimGP": [],
   "spatzie": [
@@ -2198,9 +2188,7 @@
   "transcriptR": [
     "GenomicFeatures"
   ],
-  "transformGamPoi": [
-    "glmGamPoi"
-  ],
+  "transformGamPoi": [],
   "transmogR": [
     "BSgenome",
     "GenomicFeatures",

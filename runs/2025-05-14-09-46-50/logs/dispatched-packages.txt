@@ -1800,3 +1800,6 @@ iSEEhub
 iSEEindex
 iSEEpathways
 iSEEtree
+RJMCMCNucleosomes
+lemur
+transformGamPoi

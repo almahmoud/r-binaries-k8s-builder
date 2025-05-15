@@ -1668,3 +1668,8 @@ goSorensen
 iSEE
 omicRexposome
 qsvaR
+consensusSeekeR
+glmGamPoi
+pairedGSEA
+PECA
+spatialDE

@@ -1,6 +1,3 @@
-iSEEde
-iSEEhex
-iSEEhub
-iSEEindex
-iSEEpathways
-iSEEtree
+RJMCMCNucleosomes
+lemur
+transformGamPoi
