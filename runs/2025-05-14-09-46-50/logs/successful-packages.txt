@@ -2007,3 +2007,8 @@ ExperimentHubData
 GA4GHshiny
 RESOLVE
 yarn
+DegCre
+IntEREst
+SEtools
+TOP
+VCFArray

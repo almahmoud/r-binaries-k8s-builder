@@ -74,7 +74,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "DegCre": [],
   "DiffBind": [],
   "DuplexDiscovereR": [
     "Gviz",
@@ -117,7 +116,6 @@
   "IPO": [
     "CAMERA"
   ],
-  "IntEREst": [],
   "IsoformSwitchAnalyzeR": [
     "tximeta"
   ],
@@ -208,7 +206,6 @@
   "Rqc": [
     "biovizBase"
   ],
-  "SEtools": [],
   "SPLINTER": [
     "Gviz",
     "biovizBase"
@@ -222,13 +219,11 @@
   ],
   "TBSignatureProfiler": [],
   "TFutils": [],
-  "TOP": [],
   "TVTB": [
     "Gviz",
     "biovizBase"
   ],
   "Ularcirc": [],
-  "VCFArray": [],
   "VaSP": [],
   "VariantFiltering": [
     "Gviz",
