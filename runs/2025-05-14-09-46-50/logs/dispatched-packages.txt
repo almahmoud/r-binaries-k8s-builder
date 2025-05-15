@@ -2118,3 +2118,4 @@ MAGAR
 chevreulPlot
 epivizr
 epivizrChart
+shinyDSP

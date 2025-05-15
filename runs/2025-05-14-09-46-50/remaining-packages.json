@@ -199,7 +199,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "cbaf": [],
   "chevreulPlot": [],
   "chevreulShiny": [
     "chevreulPlot"
@@ -332,9 +331,7 @@
     "ggbio",
     "biovizBase"
   ],
-  "shinyDSP": [
-    "standR"
-  ],
+  "shinyDSP": [],
   "signifinder": [],
   "sketchR": [],
   "skewr": [
@@ -350,7 +347,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "standR": [],
   "tadar": [
     "Gviz",
     "biovizBase"
