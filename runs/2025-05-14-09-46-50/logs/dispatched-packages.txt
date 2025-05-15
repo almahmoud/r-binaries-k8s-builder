@@ -1710,3 +1710,4 @@ tidySpatialExperiment
 XeniumIO
 dandelionR
 soGGi
+cghMCR

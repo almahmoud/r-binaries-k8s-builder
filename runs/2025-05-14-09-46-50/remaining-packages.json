@@ -181,7 +181,6 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "CNTools": [],
   "CNVRanger": [],
   "CNVrd2": [
     "VariantAnnotation",
@@ -1314,7 +1313,6 @@
     "GenomicFeatures"
   ],
   "alabaster.mae": [],
-  "alabaster.sfe": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "BSgenome",
@@ -1464,9 +1462,7 @@
   ],
   "cfTools": [],
   "cfdnakit": [],
-  "cghMCR": [
-    "CNTools"
-  ],
+  "cghMCR": [],
   "chevreulPlot": [
     "chevreulProcess",
     "wiggleplotr",
@@ -1967,8 +1963,7 @@
     "iSEE"
   ],
   "iSEEtree": [
-    "iSEE",
-    "miaViz"
+    "iSEE"
   ],
   "iSEEu": [
     "iSEE",
@@ -1996,7 +1991,6 @@
     "txdbmaker"
   ],
   "interactiveDisplay": [],
-  "ipdDb": [],
   "katdetectr": [
     "BSgenome",
     "plyranges",
@@ -2155,10 +2149,8 @@
   ],
   "miaDash": [
     "iSEE",
-    "iSEEtree",
-    "miaViz"
+    "iSEEtree"
   ],
-  "miaViz": [],
   "minfi": [
     "bumphunter",
     "GEOquery",
@@ -2327,7 +2319,6 @@
     "enrichplot"
   ],
   "projectR": [],
-  "protGear": [],
   "psichomics": [
     "recount",
     "derfinder",
@@ -2440,7 +2431,6 @@
     "VariantAnnotation"
   ],
   "scAnnotatR": [],
-  "scClassify": [],
   "scDD": [],
   "scDblFinder": [],
   "scDesign3": [],
@@ -2502,7 +2492,6 @@
     "ensembldb"
   ],
   "scviR": [],
-  "segmentSeq": [],
   "selectKSigs": [
     "HiLDA",
     "GenomicFeatures",

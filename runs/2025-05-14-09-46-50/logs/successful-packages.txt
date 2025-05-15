@@ -1506,3 +1506,10 @@ miloR
 nucleR
 SIM
 Voyager
+alabaster.sfe
+CNTools
+ipdDb
+miaViz
+protGear
+scClassify
+segmentSeq
