@@ -2187,3 +2187,6 @@ saseR
 spatzie
 YAPSA
 ChAMP
+CAGEr
+affycoretools
+geomeTriD

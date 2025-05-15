@@ -1,28 +1,16 @@
 {
   "AgiMicroRna": [
-    "affycoretools",
-    "ReportingTools"
+    "affycoretools"
   ],
   "BulkSignalR": [],
-  "CAGEfightR": [],
-  "CAGEr": [
-    "CAGEfightR"
-  ],
+  "CAGEr": [],
   "ChAMP": [],
   "EpiCompare": [],
-  "HiCDCPlus": [],
   "LimROTS": [],
   "NormqPCR": [],
   "PhenStat": [],
-  "RNAmodR.AlkAnilineSeq": [],
-  "RNAmodR.ML": [],
-  "RNAmodR.RiboMethSeq": [],
-  "ReportingTools": [],
   "Ularcirc": [],
-  "YAPSA": [],
-  "affycoretools": [
-    "ReportingTools"
-  ],
+  "affycoretools": [],
   "crisprDesign": [
     "crisprScore"
   ],
@@ -41,21 +29,11 @@
     "crisprDesign",
     "crisprScore"
   ],
-  "epimutacions": [],
-  "geomeTriD": [
-    "trackViewer"
-  ],
+  "geomeTriD": [],
   "immunotation": [],
-  "mCSEA": [],
-  "motifbreakR": [],
   "orthos": [],
-  "saseR": [],
-  "scTreeViz": [],
   "scifer": [],
   "sketchR": [],
   "snifter": [],
-  "spatzie": [],
-  "trackViewer": [],
-  "uncoverappLib": [],
   "velociraptor": []
 }
