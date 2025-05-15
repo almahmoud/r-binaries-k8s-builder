@@ -52,7 +52,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "BSgenomeForge": [],
   "BUSpaRse": [
     "ensembldb"
   ],
@@ -651,7 +650,6 @@
   "SparseSignatures": [],
   "SpectralTAD": [],
   "SpliceWiz": [],
-  "SplicingGraphs": [],
   "Statial": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation"
@@ -667,7 +665,6 @@
     "sesame"
   ],
   "TFBSTools": [],
-  "TFEA.ChIP": [],
   "TFHAZ": [
     "ORFik",
     "txdbmaker"
@@ -756,7 +753,6 @@
     "motifStack",
     "TFBSTools"
   ],
-  "atena": [],
   "attract": [],
   "ballgown": [],
   "bambu": [],
@@ -860,7 +856,6 @@
     "xcms"
   ],
   "clusterExperiment": [],
-  "clustifyr": [],
   "coMethDMR": [
     "bumphunter"
   ],
@@ -1223,7 +1218,6 @@
     "minfi",
     "bumphunter"
   ],
-  "miRLAB": [],
   "miaDash": [
     "iSEEtree"
   ],
