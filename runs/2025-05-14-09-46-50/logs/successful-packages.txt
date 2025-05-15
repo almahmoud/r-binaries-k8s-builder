@@ -1748,3 +1748,9 @@ VarCon
 branchpointer
 SCOPE
 VanillaICE
+cleanUpdTSeq
+cliProfiler
+crisprBowtie
+crisprBwa
+CRISPRseek
+hiAnnotator

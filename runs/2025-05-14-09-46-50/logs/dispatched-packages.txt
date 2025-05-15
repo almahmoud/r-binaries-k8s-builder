@@ -1918,3 +1918,5 @@ monaLisa
 motifStack
 motifmatchr
 MinimumDistance
+InPAS
+hiReadsProcessor

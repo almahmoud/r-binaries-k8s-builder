@@ -108,7 +108,6 @@
     "bsseq"
   ],
   "CRISPRball": [],
-  "CRISPRseek": [],
   "CSSQ": [],
   "CTexploreR": [],
   "CellMixS": [],
@@ -333,9 +332,7 @@
     "CAMERA"
   ],
   "IVAS": [],
-  "InPAS": [
-    "cleanUpdTSeq"
-  ],
+  "InPAS": [],
   "IntEREst": [
     "GenomicFiles",
     "txdbmaker",
@@ -805,8 +802,6 @@
     "gwascat",
     "VariantAnnotation"
   ],
-  "cleanUpdTSeq": [],
-  "cliProfiler": [],
   "clipper": [
     "qpgraph"
   ],
@@ -836,10 +831,7 @@
     "xcms"
   ],
   "cpvSNP": [],
-  "crisprBowtie": [],
-  "crisprBwa": [],
   "crisprDesign": [
-    "crisprBowtie",
     "crisprScore",
     "txdbmaker",
     "VariantAnnotation"
@@ -849,7 +841,6 @@
     "crisprDesign",
     "crisprScore",
     "crisprViz",
-    "crisprBowtie",
     "txdbmaker",
     "VariantAnnotation",
     "Gviz",
@@ -857,7 +848,6 @@
     "biovizBase"
   ],
   "crisprVerse": [
-    "crisprBowtie",
     "crisprScore",
     "crisprDesign",
     "crisprViz",
@@ -871,7 +861,6 @@
     "crisprDesign",
     "Gviz",
     "txdbmaker",
-    "crisprBowtie",
     "crisprScore",
     "VariantAnnotation",
     "ensembldb",
@@ -1040,10 +1029,7 @@
   "gwasurvivr": [
     "VariantAnnotation"
   ],
-  "hiAnnotator": [],
-  "hiReadsProcessor": [
-    "hiAnnotator"
-  ],
+  "hiReadsProcessor": [],
   "iCNV": [],
   "iCheck": [
     "lumi",
