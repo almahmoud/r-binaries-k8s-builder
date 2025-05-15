@@ -164,7 +164,6 @@
   ],
   "CCPROMISE": [],
   "CEMiTool": [],
-  "CNVRanger": [],
   "CNVrd2": [
     "VariantAnnotation",
     "BSgenome",
@@ -628,7 +627,6 @@
   "MSPrep": [
     "sva"
   ],
-  "MSnID": [],
   "MatrixQCvis": [
     "sva"
   ],
@@ -1047,7 +1045,6 @@
   "TCGAutils": [
     "GenomicFeatures"
   ],
-  "TDbasedUFEadv": [],
   "TEKRABber": [],
   "TENET": [
     "sesame",
@@ -1542,7 +1539,6 @@
   ],
   "easier": [],
   "easyRNASeq": [],
-  "easylift": [],
   "edge": [
     "sva"
   ],
@@ -1554,7 +1550,6 @@
   "ensembldb": [
     "GenomicFeatures"
   ],
-  "epidecodeR": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
