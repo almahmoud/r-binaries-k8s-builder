@@ -92,7 +92,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "DNAfusion": [],
   "DaMiRseq": [
     "EDASeq"
   ],
@@ -287,7 +286,6 @@
     "biovizBase",
     "ensembldb"
   ],
-  "SARC": [],
   "SEtools": [],
   "SGSeq": [],
   "SPLINTER": [
@@ -455,7 +453,6 @@
   "diffUTR": [
     "ensembldb"
   ],
-  "doubletrouble": [],
   "dreamlet": [],
   "drugTargetInteractions": [
     "ensembldb"
@@ -544,7 +541,6 @@
   "metaseqR2": [
     "EDASeq"
   ],
-  "methylCC": [],
   "methylGSA": [
     "missMethyl"
   ],
@@ -575,7 +571,6 @@
   "musicatk": [
     "decompTumor2Sig"
   ],
-  "myvariant": [],
   "ncGTW": [
     "xcms"
   ],
@@ -643,7 +638,6 @@
     "ensembldb"
   ],
   "selectKSigs": [],
-  "seqArchRplus": [],
   "shinyDSP": [
     "standR",
     "RUVSeq",

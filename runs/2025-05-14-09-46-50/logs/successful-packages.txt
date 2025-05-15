@@ -1963,3 +1963,9 @@ Organism.dplyr
 SpaNorm
 magpie
 phantasus
+DNAfusion
+doubletrouble
+methylCC
+myvariant
+SARC
+seqArchRplus
