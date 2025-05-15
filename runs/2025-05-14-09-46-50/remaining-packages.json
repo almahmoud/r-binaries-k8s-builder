@@ -290,7 +290,6 @@
   ],
   "DeconvoBuddies": [],
   "DegCre": [
-    "plotgardener",
     "GenomicFeatures"
   ],
   "DegNorm": [
@@ -536,7 +535,6 @@
   ],
   "KnowSeq": [],
   "LimROTS": [],
-  "M3Drop": [],
   "MAGAR": [
     "RnBeads",
     "methylumi",
@@ -759,7 +757,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "RFLOMICS": [],
   "RJMCMCNucleosomes": [
     "consensusSeekeR"
   ],
@@ -1021,8 +1018,7 @@
   "Ularcirc": [
     "BSgenome",
     "GenomicFeatures",
-    "Organism.dplyr",
-    "plotgardener"
+    "Organism.dplyr"
   ],
   "Uniquorn": [
     "VariantAnnotation",
@@ -1198,7 +1194,6 @@
   ],
   "canceR": [
     "cBioPortalData",
-    "phenoTest",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures"
@@ -1525,7 +1520,6 @@
   "factR": [
     "GenomicFeatures"
   ],
-  "famat": [],
   "fcScan": [
     "VariantAnnotation",
     "BSgenome",
@@ -1694,7 +1688,6 @@
     "bsseq",
     "BSgenome"
   ],
-  "knowYourCG": [],
   "lemur": [
     "glmGamPoi"
   ],
@@ -1730,9 +1723,7 @@
     "GenomicFeatures",
     "TRESS"
   ],
-  "mariner": [
-    "plotgardener"
-  ],
+  "mariner": [],
   "maser": [
     "Gviz",
     "GenomicFeatures",
@@ -1808,7 +1799,6 @@
   "miRLAB": [
     "GOstats"
   ],
-  "miRSM": [],
   "miaDash": [
     "iSEE",
     "iSEEtree"
@@ -1890,7 +1880,6 @@
   "netSmooth": [
     "clusterExperiment"
   ],
-  "nullranges": [],
   "octad": [
     "RUVSeq",
     "EDASeq",
@@ -1904,16 +1893,13 @@
     "BSgenome"
   ],
   "pairedGSEA": [],
-  "pathlinkR": [],
   "periodicDNA": [
     "BSgenome"
   ],
   "phantasus": [],
-  "phenoTest": [],
   "pipeFrame": [
     "BSgenome"
   ],
-  "plotgardener": [],
   "podkat": [
     "BSgenome"
   ],
@@ -2054,9 +2040,7 @@
     "GenomicFeatures"
   ],
   "scHiCcompare": [],
-  "scMerge": [
-    "M3Drop"
-  ],
+  "scMerge": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData",
@@ -2227,9 +2211,7 @@
   ],
   "tidyCoverage": [],
   "tidySpatialExperiment": [],
-  "tidyomics": [
-    "nullranges"
-  ],
+  "tidyomics": [],
   "tpSVG": [],
   "trackViewer": [
     "GenomicFeatures",

@@ -1791,3 +1791,6 @@ omicRexposome
 pairedGSEA
 qsmooth
 qsvaR
+mariner
+scMerge
+tidyomics

@@ -1647,3 +1647,12 @@ scmap
 scPipe
 MIRit
 sva
+famat
+knowYourCG
+M3Drop
+miRSM
+nullranges
+pathlinkR
+phenoTest
+plotgardener
+RFLOMICS
