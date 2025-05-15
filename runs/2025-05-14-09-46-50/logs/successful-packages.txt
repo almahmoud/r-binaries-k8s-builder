@@ -2080,3 +2080,11 @@ scone
 signifinder
 arrayMvout
 ATACseqTFEA
+enhancerHomologSearch
+ffpe
+iCheck
+musicatk
+OMICsPCA
+psichomics
+RnaSeqSampleSize
+scFeatures
