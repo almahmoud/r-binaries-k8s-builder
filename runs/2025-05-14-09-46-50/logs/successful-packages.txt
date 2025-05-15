@@ -1483,3 +1483,9 @@ scDataviz
 SigCheck
 smoppix
 TENxIO
+CellBarcode
+ChIPseqR
+condiments
+destiny
+MSstatsQCgui
+rtracklayer
