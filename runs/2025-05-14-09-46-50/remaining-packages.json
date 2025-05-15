@@ -138,7 +138,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "BioCor": [],
   "BioNERO": [
     "sva"
   ],
@@ -879,10 +878,7 @@
     "msmsTests",
     "msmsEDA"
   ],
-  "MSstatsQC": [],
-  "MSstatsQCgui": [
-    "MSstatsQC"
-  ],
+  "MSstatsQCgui": [],
   "MatrixQCvis": [
     "sva"
   ],
@@ -1063,7 +1059,6 @@
     "ReactomePA",
     "enrichplot"
   ],
-  "PrInCE": [],
   "Prostar": [
     "DAPAR"
   ],
@@ -1400,7 +1395,6 @@
     "rtracklayer"
   ],
   "SpatialCPie": [],
-  "SpatialFeatureExperiment": [],
   "SpectralTAD": [
     "HiCcompare"
   ],
@@ -1559,9 +1553,7 @@
   "VisiumIO": [
     "TENxIO"
   ],
-  "Voyager": [
-    "SpatialFeatureExperiment"
-  ],
+  "Voyager": [],
   "VplotR": [],
   "XDE": [
     "GeneMeta"
@@ -1607,7 +1599,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "airpart": [],
   "alabaster": [
     "alabaster.vcf",
     "alabaster.mae",
@@ -1617,9 +1608,7 @@
     "GenomicFeatures"
   ],
   "alabaster.mae": [],
-  "alabaster.sfe": [
-    "SpatialFeatureExperiment"
-  ],
+  "alabaster.sfe": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "rtracklayer",
@@ -1906,9 +1895,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "condiments": [
-    "distinct"
-  ],
+  "condiments": [],
   "consensusDE": [
     "EDASeq",
     "ensembldb",
@@ -2106,7 +2093,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "distinct": [],
   "dittoSeq": [],
   "doppelgangR": [
     "sva"

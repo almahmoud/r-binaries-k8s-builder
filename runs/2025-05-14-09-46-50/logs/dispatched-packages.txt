@@ -1620,3 +1620,7 @@ pipeComp
 scDD
 RcisTarget
 scBFA
+MSstatsQCgui
+Voyager
+alabaster.sfe
+condiments

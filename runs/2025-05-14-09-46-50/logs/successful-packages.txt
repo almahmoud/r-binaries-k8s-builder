@@ -1427,3 +1427,9 @@ clustSIGNAL
 SpotSweeper
 VAExprs
 zinbwave
+airpart
+BioCor
+distinct
+MSstatsQC
+PrInCE
+SpatialFeatureExperiment
