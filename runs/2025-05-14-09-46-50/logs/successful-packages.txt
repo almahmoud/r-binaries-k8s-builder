@@ -1721,3 +1721,6 @@ clustifyr
 miRLAB
 SplicingGraphs
 TFEA.ChIP
+attract
+scDblFinder
+Statial

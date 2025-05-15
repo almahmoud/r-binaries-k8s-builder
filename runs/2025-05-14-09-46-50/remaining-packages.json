@@ -650,7 +650,6 @@
   "SparseSignatures": [],
   "SpectralTAD": [],
   "SpliceWiz": [],
-  "Statial": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation"
   ],
@@ -753,7 +752,6 @@
     "motifStack",
     "TFBSTools"
   ],
-  "attract": [],
   "ballgown": [],
   "bambu": [],
   "bigmelon": [
@@ -1379,7 +1377,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scDblFinder": [],
   "scFeatures": [
     "ensembldb",
     "SingleCellSignalR"
