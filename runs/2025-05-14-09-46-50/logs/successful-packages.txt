@@ -1793,3 +1793,9 @@ proActiv
 proBAMr
 rGREAT
 SpectralTAD
+a4
+APAlyzer
+cardelino
+clusterExperiment
+FindIT2
+r3Cseq

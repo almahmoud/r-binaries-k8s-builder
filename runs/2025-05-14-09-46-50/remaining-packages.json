@@ -3,7 +3,6 @@
     "AnnotationHubData",
     "OrganismDbi"
   ],
-  "APAlyzer": [],
   "ASSIGN": [],
   "ASpli": [
     "Gviz",
@@ -191,7 +190,6 @@
   "FRASER": [
     "OUTRIDER"
   ],
-  "FindIT2": [],
   "GA4GHclient": [],
   "GA4GHshiny": [
     "GA4GHclient"
@@ -509,7 +507,6 @@
     "ensembldb"
   ],
   "ZygosityPredictor": [],
-  "a4": [],
   "affycoretools": [
     "ReportingTools",
     "ggbio",
@@ -572,7 +569,6 @@
     "cBioPortalData",
     "RTCGAToolbox"
   ],
-  "cardelino": [],
   "cbaf": [
     "cBioPortalData",
     "RTCGAToolbox"
@@ -608,7 +604,6 @@
   "cliqueMS": [
     "xcms"
   ],
-  "clusterExperiment": [],
   "coMethDMR": [],
   "comapr": [
     "Gviz",
@@ -899,9 +894,7 @@
   "ncGTW": [
     "xcms"
   ],
-  "netSmooth": [
-    "clusterExperiment"
-  ],
+  "netSmooth": [],
   "octad": [
     "RUVSeq",
     "EDASeq"
@@ -931,7 +924,6 @@
   "quantro": [
     "minfi"
   ],
-  "r3Cseq": [],
   "raer": [],
   "recount": [
     "derfinder",
