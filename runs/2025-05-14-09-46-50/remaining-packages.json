@@ -1413,7 +1413,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SpotSweeper": [],
   "Statial": [
     "treekoR"
   ],
@@ -1516,7 +1515,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "VAExprs": [],
   "VCFArray": [
     "VariantAnnotation",
     "GenomicFiles",
@@ -1887,9 +1885,7 @@
     "xcms",
     "MsExperiment"
   ],
-  "clustSIGNAL": [],
   "clusterExperiment": [
-    "zinbwave",
     "mbkmeans"
   ],
   "clusterProfiler": [
@@ -2770,7 +2766,6 @@
   ],
   "netSmooth": [
     "clusterExperiment",
-    "zinbwave",
     "mbkmeans"
   ],
   "nipalsMCIA": [],
@@ -3040,9 +3035,7 @@
     "VariantAnnotation"
   ],
   "scAnnotatR": [],
-  "scBFA": [
-    "zinbwave"
-  ],
+  "scBFA": [],
   "scClassify": [
     "Cepo"
   ],
@@ -3440,6 +3433,5 @@
   ],
   "zenith": [
     "EnrichmentBrowser"
-  ],
-  "zinbwave": []
+  ]
 }

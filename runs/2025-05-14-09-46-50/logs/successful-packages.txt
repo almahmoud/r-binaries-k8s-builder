@@ -1423,3 +1423,7 @@ imcRtools
 scCB2
 SpatialExperimentIO
 scQTLtools
+clustSIGNAL
+SpotSweeper
+VAExprs
+zinbwave
