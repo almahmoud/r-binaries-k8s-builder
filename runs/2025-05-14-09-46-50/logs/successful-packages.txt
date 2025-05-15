@@ -1940,3 +1940,8 @@ GenomicPlot
 GSReg
 SMITE
 tidyCoverage
+bnbc
+easyRNASeq
+PureCN
+sevenC
+SingleCellSignalR

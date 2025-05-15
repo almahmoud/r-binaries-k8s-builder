@@ -231,7 +231,6 @@
     "POMA"
   ],
   "PhenStat": [],
-  "PureCN": [],
   "Pviz": [
     "Gviz",
     "biovizBase",
@@ -309,7 +308,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "SingleCellSignalR": [],
   "SingleMoleculeFootprinting": [
     "QuasR"
   ],
@@ -373,7 +371,6 @@
   "biovizBase": [
     "ensembldb"
   ],
-  "bnbc": [],
   "bnem": [],
   "borealis": [
     "DSS"
@@ -485,7 +482,6 @@
   "drugTargetInteractions": [
     "ensembldb"
   ],
-  "easyRNASeq": [],
   "enhancerHomologSearch": [
     "motifmatchr"
   ],
@@ -605,7 +601,6 @@
   ],
   "motifmatchr": [],
   "msgbsR": [
-    "easyRNASeq",
     "ggbio",
     "biovizBase",
     "ensembldb"
@@ -663,8 +658,7 @@
     "biovizBase"
   ],
   "scFeatures": [
-    "ensembldb",
-    "SingleCellSignalR"
+    "ensembldb"
   ],
   "scTreeViz": [
     "epivizr",
@@ -686,7 +680,6 @@
   ],
   "selectKSigs": [],
   "seqArchRplus": [],
-  "sevenC": [],
   "shinyDSP": [
     "standR",
     "RUVSeq",
