@@ -1990,3 +1990,9 @@ borealis
 CSSQ
 EDASeq
 transmogR
+GenomicInteractionNodes
+HiCool
+iSEEu
+MatrixQCvis
+methylInheritance
+profileplyr
