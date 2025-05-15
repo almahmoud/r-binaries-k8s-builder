@@ -2009,3 +2009,6 @@ shinyepico
 SMITE
 rgsepd
 TFHAZ
+GenomicPlot
+circRNAprofiler
+vtpnet

@@ -211,9 +211,7 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "GenomicPlot": [
-    "RCAS"
-  ],
+  "GenomicPlot": [],
   "Guitar": [],
   "Gviz": [
     "ensembldb",
@@ -310,7 +308,6 @@
   ],
   "PhenStat": [],
   "Prostar": [],
-  "ProteoDisco": [],
   "PureCN": [],
   "Pviz": [
     "Gviz",
@@ -329,7 +326,6 @@
   "RAIDS": [
     "ensembldb"
   ],
-  "RCAS": [],
   "REMP": [],
   "RESOLVE": [
     "MutationalPatterns"
@@ -378,7 +374,6 @@
   "Rhisat2": [
     "SGSeq"
   ],
-  "RiboDiPA": [],
   "RiboProfiling": [
     "ggbio",
     "biovizBase",
@@ -402,7 +397,6 @@
   "SEtools": [],
   "SGSeq": [],
   "SMITE": [],
-  "SNPhood": [],
   "SPLINTER": [
     "Gviz",
     "ensembldb",
@@ -546,9 +540,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "circRNAprofiler": [
-    "gwascat"
-  ],
+  "circRNAprofiler": [],
   "cliqueMS": [
     "xcms"
   ],
@@ -686,8 +678,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "gmapR": [],
-  "gwascat": [],
   "gwasurvivr": [],
   "iCNV": [],
   "iCheck": [
@@ -960,9 +950,7 @@
     "biovizBase"
   ],
   "velociraptor": [],
-  "vtpnet": [
-    "gwascat"
-  ],
+  "vtpnet": [],
   "wateRmelon": [
     "methylumi",
     "lumi"

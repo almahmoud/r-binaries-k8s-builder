@@ -1853,3 +1853,9 @@ tidySpatialExperiment
 katdetectr
 ORFik
 R453Plus1Toolbox
+gmapR
+gwascat
+ProteoDisco
+RCAS
+RiboDiPA
+SNPhood
