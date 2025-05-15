@@ -84,7 +84,6 @@
   "CTexploreR": [],
   "CellMixS": [],
   "ChAMP": [
-    "minfi",
     "DMRcate",
     "wateRmelon",
     "goseq",
@@ -117,7 +116,6 @@
   "DMCFB": [],
   "DMRcate": [
     "bsseq",
-    "minfi",
     "missMethyl",
     "Gviz",
     "ensembldb",
@@ -158,9 +156,7 @@
     "biovizBase"
   ],
   "ELViS": [],
-  "ENmix": [
-    "minfi"
-  ],
+  "ENmix": [],
   "EWCE": [],
   "EpiCompare": [
     "ChIPseeker"
@@ -254,8 +250,7 @@
   "LimROTS": [],
   "MAGAR": [
     "RnBeads",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "MAIT": [
     "CAMERA",
@@ -263,7 +258,6 @@
   ],
   "MBECS": [],
   "MEAL": [
-    "minfi",
     "Gviz",
     "missMethyl",
     "ensembldb",
@@ -271,7 +265,6 @@
     "methylumi"
   ],
   "MEAT": [
-    "minfi",
     "wateRmelon",
     "methylumi",
     "lumi"
@@ -288,13 +281,10 @@
     "ensembldb"
   ],
   "MethReg": [],
-  "MethylAid": [
-    "minfi"
-  ],
+  "MethylAid": [],
   "MineICA": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "Moonlight2R": [
     "EpiMix"
@@ -345,9 +335,7 @@
     "ensembldb"
   ],
   "RCAS": [],
-  "REMP": [
-    "minfi"
-  ],
+  "REMP": [],
   "RESOLVE": [
     "MutationalPatterns"
   ],
@@ -403,8 +391,7 @@
     "ensembldb"
   ],
   "RnBeads": [
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "RnaSeqSampleSize": [
     "recount",
@@ -497,8 +484,7 @@
   ],
   "arrayMvout": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "atSNP": [
     "motifStack"
@@ -506,7 +492,6 @@
   "ballgown": [],
   "bigmelon": [
     "wateRmelon",
-    "minfi",
     "methylumi",
     "lumi"
   ],
@@ -573,7 +558,6 @@
   "circRNAprofiler": [
     "gwascat"
   ],
-  "clipper": [],
   "cliqueMS": [
     "xcms"
   ],
@@ -587,9 +571,7 @@
     "ensembldb",
     "RUVSeq"
   ],
-  "conumee": [
-    "minfi"
-  ],
+  "conumee": [],
   "cosmiq": [
     "xcms"
   ],
@@ -625,14 +607,11 @@
     "ensembldb",
     "biovizBase"
   ],
-  "customProDB": [],
   "dagLogo": [
     "motifStack"
   ],
   "decompTumor2Sig": [],
-  "deconvR": [
-    "minfi"
-  ],
+  "deconvR": [],
   "demuxSNP": [
     "ensembldb"
   ],
@@ -664,7 +643,6 @@
   ],
   "ensembldb": [],
   "epimutacions": [
-    "minfi",
     "Gviz",
     "ensembldb",
     "biovizBase",
@@ -697,19 +675,15 @@
     "ChIPseeker",
     "motifmatchr"
   ],
-  "fcScan": [],
   "ffpe": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "flagme": [
     "xcms",
     "CAMERA"
   ],
-  "funtooNorm": [
-    "minfi"
-  ],
+  "funtooNorm": [],
   "geomeTriD": [
     "trackViewer",
     "Gviz",
@@ -728,11 +702,9 @@
   "iCNV": [],
   "iCheck": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "iNETgrate": [
-    "minfi",
     "OrganismDbi"
   ],
   "iSEEfier": [
@@ -764,8 +736,7 @@
   "lemur": [],
   "lineagespot": [],
   "lumi": [
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "mCSEA": [
     "Gviz",
@@ -790,12 +761,10 @@
     "bsseq"
   ],
   "methylCC": [
-    "minfi",
     "bsseq"
   ],
   "methylGSA": [
     "missMethyl",
-    "minfi",
     "methylumi"
   ],
   "methylInheritance": [],
@@ -809,21 +778,16 @@
     "DSS"
   ],
   "methylclock": [
-    "minfi",
     "ExperimentHubData",
     "AnnotationHubData",
     "OrganismDbi"
   ],
-  "methylumi": [
-    "minfi"
-  ],
+  "methylumi": [],
   "miaDash": [
     "iSEEtree"
   ],
-  "minfi": [],
   "missMethyl": [
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "mitoClone2": [],
   "mobileRNA": [],
@@ -878,17 +842,13 @@
     "derfinder",
     "GenomicFiles"
   ],
-  "quantro": [
-    "minfi"
-  ],
+  "quantro": [],
   "raer": [],
   "recount": [
     "derfinder",
     "GenomicFiles"
   ],
-  "recountmethylation": [
-    "minfi"
-  ],
+  "recountmethylation": [],
   "recoup": [],
   "regionReport": [
     "derfinder",
@@ -951,12 +911,8 @@
     "RUVSeq",
     "EDASeq"
   ],
-  "shinyMethyl": [
-    "minfi"
-  ],
-  "shinyepico": [
-    "minfi"
-  ],
+  "shinyMethyl": [],
+  "shinyepico": [],
   "signeR": [],
   "signifinder": [
     "ensembldb"
@@ -965,7 +921,6 @@
   "skewr": [
     "methylumi",
     "wateRmelon",
-    "minfi",
     "lumi"
   ],
   "snifter": [],
@@ -1028,13 +983,11 @@
   ],
   "wateRmelon": [
     "methylumi",
-    "lumi",
-    "minfi"
+    "lumi"
   ],
   "xcms": [],
   "yarn": [
-    "quantro",
-    "minfi"
+    "quantro"
   ],
   "zenith": []
 }

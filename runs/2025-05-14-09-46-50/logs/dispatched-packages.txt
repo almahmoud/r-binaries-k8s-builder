@@ -1995,3 +1995,14 @@ alabaster
 zenith
 Prostar
 mitoClone2
+ENmix
+MethylAid
+REMP
+conumee
+deconvR
+funtooNorm
+methylumi
+quantro
+recountmethylation
+shinyMethyl
+shinyepico

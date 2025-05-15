@@ -1840,3 +1840,7 @@ MotifPeeker
 scMerge
 sitadela
 txcutr
+clipper
+customProDB
+fcScan
+minfi
