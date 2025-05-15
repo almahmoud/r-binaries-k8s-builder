@@ -2091,3 +2091,7 @@ scFeatures
 esATAC
 epiregulon
 tximeta
+ChIPQC
+CircSeqAlignTk
+PRONE
+wateRmelon

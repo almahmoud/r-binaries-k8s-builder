@@ -39,15 +39,12 @@
   ],
   "ChAMP": [
     "DMRcate",
-    "wateRmelon",
     "Gviz",
     "biovizBase"
   ],
-  "ChIPQC": [],
   "ChIPexoQual": [
     "biovizBase"
   ],
-  "CircSeqAlignTk": [],
   "DMRcate": [
     "Gviz",
     "biovizBase"
@@ -97,16 +94,13 @@
     "Gviz",
     "biovizBase"
   ],
-  "MEAT": [
-    "wateRmelon"
-  ],
+  "MEAT": [],
   "MineICA": [],
   "NormqPCR": [],
   "OGRE": [
     "Gviz",
     "biovizBase"
   ],
-  "PRONE": [],
   "PhenStat": [],
   "Pviz": [
     "Gviz",
@@ -174,9 +168,7 @@
     "ggbio",
     "biovizBase"
   ],
-  "bigmelon": [
-    "wateRmelon"
-  ],
+  "bigmelon": [],
   "biomvRCNS": [
     "Gviz",
     "biovizBase"
@@ -304,9 +296,7 @@
   ],
   "shinyDSP": [],
   "sketchR": [],
-  "skewr": [
-    "wateRmelon"
-  ],
+  "skewr": [],
   "snifter": [],
   "spatzie": [
     "GenomicInteractions",
@@ -329,6 +319,5 @@
     "Gviz",
     "biovizBase"
   ],
-  "velociraptor": [],
-  "wateRmelon": []
+  "velociraptor": []
 }
