@@ -1421,3 +1421,10 @@ scHiCcompare
 scmap
 scry
 Xeva
+CPSM
+diffcoexp
+ginmappeR
+methimpute
+scds
+signatureSearch
+TCGAbiolinks

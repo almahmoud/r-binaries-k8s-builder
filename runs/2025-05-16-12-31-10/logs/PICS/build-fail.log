@@ -1,0 +1,57 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''PICS'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'PICS'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/PICS_2.51.0.tar.gz'
+Content type 'application/x-gzip' length 724961 bytes (707 KB)
+==================================================
+downloaded 707 KB
+
+* installing *source* package ‘PICS’ ...
+** this is package ‘PICS’ version ‘2.51.0’
+** using staged installation
+checking for pkg-config... /usr/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for GSL... yes
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pics.c -o pics.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c segment.c -o segment.o
+segment.c: In function ‘segReads’:
+segment.c:147:22: warning: implicit declaration of function ‘Calloc’; did you mean ‘calloc’? [-Wimplicit-function-declaration]
+  147 |   scoreRegionF=(int*)Calloc((M-m)/(2*INTEGER_VALUE(width)), int);
+      |                      ^~~~~~
+      |                      calloc
+segment.c:147:61: error: expected expression before ‘int’
+  147 |   scoreRegionF=(int*)Calloc((M-m)/(2*INTEGER_VALUE(width)), int);
+      |                                                             ^~~
+segment.c:148:61: error: expected expression before ‘int’
+  148 |   scoreRegionR=(int*)Calloc((M-m)/(2*INTEGER_VALUE(width)), int);
+      |                                                             ^~~
+make: *** [/usr/lib/R/etc/Makeconf:202: segment.o] Error 1
+ERROR: compilation failed for package ‘PICS’
+* removing ‘/usr/local/lib/R/site-library/PICS’
+
+The downloaded source packages are in
+	‘/tmp/Rtmp7DbBAa/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+Warning message:
+In install.packages(...) :
+  installation of package ‘PICS’ had non-zero exit status
+
+real	0m6.818s
+user	0m4.259s
+sys	0m1.394s
