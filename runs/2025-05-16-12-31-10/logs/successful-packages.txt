@@ -784,3 +784,17 @@ Sconify
 Structstrings
 tidyFlowCore
 variancePartition
+alabaster.matrix
+cola
+cycle
+MOFA2
+MSstatsLiP
+MSstatsShiny
+NanoStringNCTools
+NCIgraph
+ResidualMatrix
+ROntoTools
+SELEX
+Spectra
+SynExtend
+universalmotif

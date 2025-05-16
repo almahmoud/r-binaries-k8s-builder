@@ -131,7 +131,6 @@
     "biomaRt",
     "InteractionSet",
     "regioneR",
-    "universalmotif",
     "ensembldb",
     "AnnotationHub",
     "TFBSTools",
@@ -305,7 +304,6 @@
     "annotate"
   ],
   "BLMA": [
-    "ROntoTools",
     "PADOG",
     "AnnotationDbi"
   ],
@@ -640,7 +638,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -1072,7 +1069,6 @@
     "InteractionSet",
     "regioneR",
     "rtracklayer",
-    "universalmotif",
     "ensembldb",
     "AnnotationFilter",
     "BSgenome"
@@ -1126,7 +1122,6 @@
     "SummarizedExperiment",
     "BiocSingular",
     "scuttle",
-    "ResidualMatrix",
     "beachmat",
     "GenomicAlignments"
   ],
@@ -1183,7 +1178,6 @@
   "CluMSID": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -1220,7 +1214,6 @@
   ],
   "CompoundDb": [
     "AnnotationFilter",
-    "Spectra",
     "GenomicRanges"
   ],
   "CopyNumberPlots": [
@@ -1308,7 +1301,6 @@
   "DAPAR": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -1320,9 +1312,7 @@
     "GenomicRanges",
     "SummarizedExperiment"
   ],
-  "DEGraph": [
-    "NCIgraph"
-  ],
+  "DEGraph": [],
   "DEGreport": [
     "DESeq2",
     "SummarizedExperiment",
@@ -1338,7 +1328,6 @@
     "MSnbase",
     "PSMatch",
     "GenomicRanges",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "AnnotationFilter"
@@ -1356,7 +1345,6 @@
     "biomaRt",
     "InteractionSet",
     "regioneR",
-    "universalmotif",
     "ensembldb",
     "AnnotationFilter",
     "BSgenome"
@@ -2201,7 +2189,6 @@
     "biomaRt",
     "InteractionSet",
     "regioneR",
-    "universalmotif",
     "ensembldb",
     "AnnotationFilter"
   ],
@@ -2402,16 +2389,13 @@
     "GenomicRanges"
   ],
   "GeoDiff": [
-    "GeomxTools",
-    "NanoStringNCTools"
+    "GeomxTools"
   ],
   "GeoTcgaData": [
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "GeomxTools": [
-    "NanoStringNCTools"
-  ],
+  "GeomxTools": [],
   "Glimma": [
     "DESeq2",
     "SummarizedExperiment",
@@ -2654,7 +2638,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -2791,7 +2774,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -2891,7 +2873,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -3064,7 +3045,6 @@
   "MODA": [
     "AnnotationDbi"
   ],
-  "MOFA2": [],
   "MOMA": [
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -3125,7 +3105,6 @@
     "AnnotationDbi",
     "msmsEDA",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -3134,18 +3113,15 @@
   ],
   "MSnbase": [
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
     "GenomicRanges"
   ],
-  "MSstatsLiP": [],
   "MSstatsQC": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -3156,14 +3132,12 @@
     "MSstatsQC",
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
     "GenomicRanges"
   ],
-  "MSstatsShiny": [],
   "MWASTools": [
     "SummarizedExperiment",
     "GenomicRanges"
@@ -3204,9 +3178,7 @@
   "MesKit": [
     "AnnotationDbi"
   ],
-  "MetCirc": [
-    "Spectra"
-  ],
+  "MetCirc": [],
   "MetMashR": [
     "struct",
     "SummarizedExperiment",
@@ -3232,7 +3204,6 @@
     "GOSemSim"
   ],
   "MetaboAnnotation": [
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "AnnotationHub",
@@ -3407,7 +3378,6 @@
     "SummarizedExperiment"
   ],
   "MotifPeeker": [
-    "universalmotif",
     "GenomicRanges",
     "rtracklayer",
     "SummarizedExperiment",
@@ -3421,31 +3391,18 @@
     "biomaRt",
     "AnnotationDbi"
   ],
-  "MsBackendMassbank": [
-    "Spectra"
-  ],
-  "MsBackendMetaboLights": [
-    "Spectra"
-  ],
-  "MsBackendMgf": [
-    "Spectra"
-  ],
-  "MsBackendMsp": [
-    "Spectra"
-  ],
-  "MsBackendRawFileReader": [
-    "Spectra"
-  ],
-  "MsBackendSql": [
-    "Spectra"
-  ],
+  "MsBackendMassbank": [],
+  "MsBackendMetaboLights": [],
+  "MsBackendMgf": [],
+  "MsBackendMsp": [],
+  "MsBackendRawFileReader": [],
+  "MsBackendSql": [],
   "MsDataHub": [
     "ExperimentHub",
     "AnnotationHub",
     "AnnotationDbi"
   ],
   "MsExperiment": [
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "MultiAssayExperiment",
@@ -3458,7 +3415,6 @@
   ],
   "MsQuality": [
     "MsExperiment",
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "MultiAssayExperiment",
@@ -3539,7 +3495,6 @@
     "pwalign",
     "biomaRt",
     "regioneR",
-    "universalmotif",
     "ensembldb",
     "AnnotationHub",
     "biovizBase",
@@ -3555,7 +3510,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "NCIgraph": [],
   "NanoMethViz": [
     "SummarizedExperiment",
     "BiocSingular",
@@ -3568,7 +3522,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "NanoStringNCTools": [],
   "Nebulosa": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -3839,7 +3792,6 @@
     "DESeq2",
     "sva",
     "GenomicRanges",
-    "Spectra",
     "QFeatures",
     "genefilter",
     "AnnotationDbi",
@@ -3854,7 +3806,6 @@
     "annotate"
   ],
   "PSMatch": [
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -3924,7 +3875,6 @@
   "PrInCE": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -3935,7 +3885,6 @@
     "DAPAR",
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -4105,7 +4054,6 @@
     "biomaRt",
     "InteractionSet",
     "regioneR",
-    "universalmotif",
     "ensembldb",
     "AnnotationFilter"
   ],
@@ -4144,7 +4092,6 @@
     "AnnotationDbi",
     "clusterProfiler",
     "enrichplot",
-    "MOFA2",
     "DOSE",
     "GOSemSim",
     "DESeq2",
@@ -4177,7 +4124,6 @@
   "RMassBank": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -4283,7 +4229,6 @@
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "ROntoTools": [],
   "RPA": [
     "phyloseq"
   ],
@@ -4475,7 +4420,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "ResidualMatrix": [],
   "RgnTX": [
     "GenomicFeatures",
     "GenomicRanges",
@@ -4686,7 +4630,6 @@
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "SELEX": [],
   "SEraster": [
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -5005,8 +4948,7 @@
     "GenomicRanges"
   ],
   "SpatialDecon": [
-    "GeomxTools",
-    "NanoStringNCTools"
+    "GeomxTools"
   ],
   "SpatialExperiment": [
     "SingleCellExperiment",
@@ -5032,13 +4974,9 @@
     "scuttle"
   ],
   "SpatialOmicsOverlay": [
-    "GeomxTools",
-    "NanoStringNCTools"
+    "GeomxTools"
   ],
-  "Spectra": [],
-  "SpectraQL": [
-    "Spectra"
-  ],
+  "SpectraQL": [],
   "SpectralTAD": [
     "HiCcompare",
     "GenomicRanges",
@@ -5135,7 +5073,6 @@
     "SingleCellExperiment",
     "phyloseq"
   ],
-  "SynExtend": [],
   "TADCompare": [
     "HiCcompare",
     "InteractionSet",
@@ -5735,7 +5672,6 @@
     "BiocSingular"
   ],
   "alabaster": [
-    "alabaster.matrix",
     "alabaster.ranges",
     "alabaster.se",
     "alabaster.sce",
@@ -5765,10 +5701,8 @@
     "alabaster.se",
     "SummarizedExperiment",
     "alabaster.ranges",
-    "alabaster.matrix",
     "GenomicRanges"
   ],
-  "alabaster.matrix": [],
   "alabaster.ranges": [
     "GenomicRanges"
   ],
@@ -5777,13 +5711,11 @@
     "alabaster.se",
     "SummarizedExperiment",
     "alabaster.ranges",
-    "alabaster.matrix",
     "GenomicRanges"
   ],
   "alabaster.se": [
     "SummarizedExperiment",
     "alabaster.ranges",
-    "alabaster.matrix",
     "GenomicRanges"
   ],
   "alabaster.sfe": [
@@ -5797,7 +5729,6 @@
     "GenomicRanges",
     "DropletUtils",
     "alabaster.ranges",
-    "alabaster.matrix",
     "beachmat",
     "scuttle"
   ],
@@ -5808,7 +5739,6 @@
     "alabaster.se",
     "SummarizedExperiment",
     "alabaster.ranges",
-    "alabaster.matrix",
     "GenomicRanges"
   ],
   "alabaster.string": [],
@@ -5819,7 +5749,6 @@
     "Rsamtools",
     "SummarizedExperiment",
     "alabaster.ranges",
-    "alabaster.matrix",
     "GenomicRanges",
     "AnnotationDbi",
     "rtracklayer",
@@ -5996,7 +5925,6 @@
     "annotate",
     "genefilter",
     "SummarizedExperiment",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "AnnotationFilter",
@@ -6023,7 +5951,6 @@
     "SummarizedExperiment",
     "BiocSingular",
     "scuttle",
-    "ResidualMatrix",
     "beachmat",
     "GenomicRanges"
   ],
@@ -6477,7 +6404,6 @@
     "BiocSingular",
     "GenomicRanges",
     "rtracklayer",
-    "ResidualMatrix",
     "AnnotationFilter",
     "AnnotationDbi",
     "Rsamtools",
@@ -6494,7 +6420,6 @@
     "scuttle",
     "SummarizedExperiment",
     "BiocSingular",
-    "ResidualMatrix",
     "beachmat",
     "GenomicRanges",
     "AnnotationFilter",
@@ -6519,7 +6444,6 @@
     "GenomicRanges",
     "rtracklayer",
     "BiocSingular",
-    "ResidualMatrix",
     "beachmat",
     "AnnotationFilter",
     "AnnotationDbi",
@@ -6597,7 +6521,6 @@
     "rtracklayer",
     "DESeq2",
     "GenomicRanges",
-    "universalmotif",
     "AnnotationHub",
     "gwascat",
     "BSgenome",
@@ -6644,7 +6567,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "GenomicRanges",
     "MultiAssayExperiment",
@@ -6722,7 +6644,6 @@
     "AnnotationDbi"
   ],
   "cogeqc": [],
-  "cola": [],
   "comapr": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -6856,7 +6777,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -7074,7 +6994,6 @@
     "flowClust",
     "flowViz"
   ],
-  "cycle": [],
   "cydar": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -7565,7 +7484,6 @@
     "TFBSTools",
     "Rsamtools",
     "MultiAssayExperiment",
-    "alabaster.matrix",
     "BiocSingular",
     "rtracklayer",
     "annotate",
@@ -7810,7 +7728,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -8238,7 +8155,6 @@
   ],
   "hdxmsqc": [
     "QFeatures",
-    "Spectra",
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
@@ -8815,8 +8731,7 @@
     "GenomicRanges"
   ],
   "memes": [
-    "GenomicRanges",
-    "universalmotif"
+    "GenomicRanges"
   ],
   "meshes": [
     "AnnotationDbi",
@@ -8841,7 +8756,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -9187,7 +9101,6 @@
     "GenomicAlignments"
   ],
   "mirIntegrator": [
-    "ROntoTools",
     "AnnotationDbi"
   ],
   "missMethyl": [
@@ -9299,8 +9212,7 @@
     "SummarizedExperiment"
   ],
   "motifTestR": [
-    "GenomicRanges",
-    "universalmotif"
+    "GenomicRanges"
   ],
   "motifbreakR": [
     "MotifDb",
@@ -9374,7 +9286,6 @@
   "msmsEDA": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -9385,7 +9296,6 @@
     "MSnbase",
     "msmsEDA",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -9457,7 +9367,6 @@
     "scuttle",
     "scran",
     "batchelor",
-    "ResidualMatrix",
     "GenomicRanges"
   ],
   "muscat": [
@@ -9511,7 +9420,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",
@@ -9638,7 +9546,6 @@
     "SummarizedExperiment",
     "MultiAssayExperiment",
     "GenomicRanges",
-    "Spectra",
     "QFeatures",
     "AnnotationFilter"
   ],
@@ -9732,7 +9639,6 @@
     "genefilter",
     "SummarizedExperiment",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "GenomicRanges",
     "MultiAssayExperiment",
@@ -9748,7 +9654,6 @@
     "annotate",
     "genefilter",
     "SummarizedExperiment",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "AnnotationFilter",
@@ -9862,7 +9767,6 @@
   "peakPantheR": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -10128,7 +10032,6 @@
   "ptairMS": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -10145,7 +10048,6 @@
   "qPLEXanalyzer": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -10705,7 +10607,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "scuttle",
-    "ResidualMatrix",
     "beachmat",
     "GenomicRanges"
   ],
@@ -11215,9 +11116,7 @@
     "zellkonverter",
     "AnnotationDbi",
     "BiocSingular",
-    "ResidualMatrix",
     "beachmat",
-    "alabaster.matrix",
     "alabaster.se",
     "GenomicRanges",
     "GenomicFeatures",
@@ -11452,7 +11351,6 @@
     "xcms",
     "MSnbase",
     "MsExperiment",
-    "Spectra",
     "SummarizedExperiment",
     "QFeatures",
     "PSMatch",
@@ -11588,7 +11486,6 @@
     "MSnbase",
     "cleaver",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -11760,7 +11657,6 @@
   "topdownr": [
     "MSnbase",
     "PSMatch",
-    "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -11936,7 +11832,6 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "universalmotif": [],
   "velociraptor": [
     "SummarizedExperiment",
     "zellkonverter",
@@ -12019,7 +11914,6 @@
     "InteractionSet",
     "regioneR",
     "rtracklayer",
-    "universalmotif",
     "ensembldb",
     "systemPipeR",
     "apeglm",
@@ -12093,7 +11987,6 @@
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
-    "Spectra",
     "QFeatures",
     "PSMatch",
     "GenomicRanges",

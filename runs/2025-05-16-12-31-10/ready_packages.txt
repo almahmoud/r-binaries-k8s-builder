@@ -1,2 +1,10 @@
-cycle
-scPCA
+DEGraph
+GeomxTools
+MetCirc
+MsBackendMassbank
+MsBackendMetaboLights
+MsBackendMgf
+MsBackendMsp
+MsBackendRawFileReader
+MsBackendSql
+SpectraQL
