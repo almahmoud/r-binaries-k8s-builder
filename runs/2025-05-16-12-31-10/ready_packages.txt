@@ -1,14 +1,2 @@
-ArrayExpress
-ITALICS
-MetMashR
-SCAN.UPC
-TDbasedUFEadv
-cn.farms
-frma
-metabolomicsWorkbenchR
-mimager
-pdInfoBuilder
-puma
-sangeranalyseR
-scifer
-structToolbox
+DrugVsDisease
+beachmat.tiledb

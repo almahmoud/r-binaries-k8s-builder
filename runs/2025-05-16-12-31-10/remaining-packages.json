@@ -21,7 +21,6 @@
   "APL": [
     "SingleCellExperiment"
   ],
-  "ASICS": [],
   "ASURAT": [
     "SingleCellExperiment"
   ],
@@ -84,7 +83,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "ArrayExpress": [],
   "BASiCS": [
     "SingleCellExperiment",
     "scran",
@@ -264,7 +262,6 @@
   "CDI": [
     "SingleCellExperiment"
   ],
-  "CEMiTool": [],
   "CHETAH": [
     "SingleCellExperiment"
   ],
@@ -446,7 +443,6 @@
   ],
   "CircSeqAlignTk": [
     "ShortRead",
-    "Rbowtie2",
     "Rhisat2",
     "txdbmaker",
     "SGSeq",
@@ -650,9 +646,7 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "DrugVsDisease": [
-    "ArrayExpress"
-  ],
+  "DrugVsDisease": [],
   "DuplexDiscovereR": [
     "Gviz",
     "rtracklayer",
@@ -697,7 +691,6 @@
   "EWCE": [
     "SingleCellExperiment"
   ],
-  "EasyCellType": [],
   "EnrichDO": [],
   "EpiCompare": [
     "ChIPseeker",
@@ -810,7 +803,6 @@
     "rtracklayer"
   ],
   "GOexpress": [],
-  "GOpro": [],
   "GOstats": [],
   "GRaNIE": [
     "ensembldb",
@@ -1091,7 +1083,6 @@
     "SingleCellExperiment"
   ],
   "MBECS": [],
-  "MDTS": [],
   "MEAL": [
     "minfi",
     "Gviz",
@@ -1258,7 +1249,6 @@
   "MuData": [
     "SingleCellExperiment"
   ],
-  "MultiBaC": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",
@@ -1596,7 +1586,6 @@
     "dada2",
     "ShortRead"
   ],
-  "Rbowtie2": [],
   "RbowtieCuda": [],
   "RcisTarget": [],
   "ReactomePA": [],
@@ -1966,7 +1955,6 @@
     "BSgenome",
     "biovizBase"
   ],
-  "TileDBArray": [],
   "TitanCNA": [
     "VariantAnnotation",
     "rtracklayer",
@@ -1991,7 +1979,6 @@
     "ShortRead",
     "regioneR",
     "BSgenome",
-    "Rbowtie2",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -2245,9 +2232,7 @@
   ],
   "baySeq": [],
   "beachmat.hdf5": [],
-  "beachmat.tiledb": [
-    "TileDBArray"
-  ],
+  "beachmat.tiledb": [],
   "bedbaser": [
     "rtracklayer"
   ],
@@ -2713,7 +2698,6 @@
     "scuttle"
   ],
   "ddPCRclust": [],
-  "debrowser": [],
   "decompTumor2Sig": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -2920,7 +2904,6 @@
   "esATAC": [
     "ShortRead",
     "pipeFrame",
-    "Rbowtie2",
     "rtracklayer",
     "ChIPseeker",
     "BSgenome",
@@ -3058,7 +3041,6 @@
   "ggcyto": [
     "flowWorkspace"
   ],
-  "ggmsa": [],
   "ggsc": [
     "SingleCellExperiment"
   ],
@@ -3242,7 +3224,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "interactiveDisplay": [],
   "isobar": [],
   "jazzPanda": [
     "SpatialExperiment",
@@ -3288,7 +3269,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "lipidr": [],
   "lisaClust": [
     "spicyR",
     "SingleCellExperiment",
@@ -4566,7 +4546,6 @@
     "scuttle"
   ],
   "trigger": [],
-  "triplex": [],
   "txcutr": [
     "GenomicFeatures",
     "txdbmaker",

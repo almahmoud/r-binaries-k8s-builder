@@ -1321,3 +1321,17 @@ prebs
 sangerseqR
 struct
 TDbasedUFE
+ArrayExpress
+ASICS
+CEMiTool
+debrowser
+EasyCellType
+ggmsa
+GOpro
+interactiveDisplay
+lipidr
+MDTS
+MultiBaC
+Rbowtie2
+TileDBArray
+triplex
