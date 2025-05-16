@@ -982,7 +982,6 @@
     "gage",
     "GSVA",
     "globaltest",
-    "safe",
     "GSEABase",
     "SingleCellExperiment",
     "SpatialExperiment"
@@ -1037,8 +1036,7 @@
   ],
   "EnrichmentBrowser": [
     "GSEABase",
-    "graphite",
-    "safe"
+    "graphite"
   ],
   "EpiCompare": [
     "ChIPseeker",
@@ -1231,8 +1229,7 @@
   "GSEABenchmarkeR": [
     "EnrichmentBrowser",
     "GSEABase",
-    "graphite",
-    "safe"
+    "graphite"
   ],
   "GSRI": [
     "genefilter",
@@ -2037,7 +2034,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "NormalyzerDE": [],
   "NormqPCR": [],
   "OGRE": [
     "Gviz",
@@ -2085,8 +2081,6 @@
     "biomaRt",
     "GenomicAlignments"
   ],
-  "OVESEG": [],
-  "OmaDB": [],
   "OncoScore": [
     "biomaRt"
   ],
@@ -2165,7 +2159,6 @@
     "GSEABase"
   ],
   "PRONE": [
-    "NormalyzerDE",
     "MSnbase",
     "POMA",
     "PSMatch",
@@ -3234,7 +3227,6 @@
     "annaffy",
     "genefilter"
   ],
-  "adSplit": [],
   "adductomicsR": [],
   "affyILM": [],
   "affyPLM": [],
@@ -3421,7 +3413,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "barbieQ": [],
   "barcodetrackR": [],
   "basecallQC": [
     "ShortRead",
@@ -4228,7 +4219,6 @@
     "sva",
     "genefilter"
   ],
-  "doseR": [],
   "doubletrouble": [
     "syntenet",
     "GenomicFeatures",
@@ -4240,8 +4230,7 @@
     "GSEABase",
     "zenith",
     "EnrichmentBrowser",
-    "graphite",
-    "safe"
+    "graphite"
   ],
   "drugTargetInteractions": [
     "biomaRt",
@@ -4576,7 +4565,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "gemma.R": [],
   "geneAttribution": [
     "GenomicFeatures",
     "rtracklayer",
@@ -4598,7 +4586,6 @@
     "seqPattern",
     "rtracklayer"
   ],
-  "genomicInstability": [],
   "geomeTriD": [
     "InteractionSet",
     "trackViewer",
@@ -4616,8 +4603,6 @@
   "gep2pep": [
     "GSEABase"
   ],
-  "getDEE2": [],
-  "geyser": [],
   "gg4way": [
     "DESeq2"
   ],
@@ -4755,7 +4740,6 @@
     "SingleCellExperiment"
   ],
   "hpar": [],
-  "hummingbird": [],
   "hypeR": [],
   "iCNV": [
     "CODEX",
@@ -5598,7 +5582,6 @@
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
-  "optimalFlow": [],
   "orthos": [],
   "pRoloc": [
     "MSnbase",
@@ -5849,7 +5832,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "qmtools": [],
   "qpgraph": [
     "GenomicFeatures",
     "rtracklayer",
@@ -5898,7 +5880,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "rScudo": [],
   "rTRMui": [
     "MotifDb",
     "rtracklayer",
@@ -5916,7 +5897,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "receptLoss": [],
   "reconsi": [],
   "recount": [
     "derfinder",
@@ -5973,7 +5953,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "regsplice": [],
   "regutools": [
     "Gviz",
     "rtracklayer",
@@ -6053,12 +6032,10 @@
   "rtracklayer": [
     "GenomicAlignments"
   ],
-  "runibic": [],
   "sRACIPE": [],
   "sSNAPPY": [
     "graphite"
   ],
-  "safe": [],
   "sampleClassifier": [
     "MGFM",
     "MGFR",
@@ -6457,7 +6434,6 @@
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
-  "simplifyEnrichment": [],
   "singleCellTK": [
     "SingleCellExperiment",
     "batchelor",
@@ -6974,7 +6950,6 @@
   "webbioc": [
     "annaffy"
   ],
-  "weitrix": [],
   "wiggleplotr": [
     "rtracklayer",
     "GenomicAlignments"
@@ -7001,7 +6976,6 @@
     "SingleCellExperiment",
     "TENxIO"
   ],
-  "yamss": [],
   "yarn": [
     "biomaRt",
     "quantro",
@@ -7019,8 +6993,7 @@
   "zenith": [
     "EnrichmentBrowser",
     "GSEABase",
-    "graphite",
-    "safe"
+    "graphite"
   ],
   "zinbwave": [
     "SingleCellExperiment",
