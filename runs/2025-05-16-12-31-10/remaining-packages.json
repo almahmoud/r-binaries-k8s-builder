@@ -259,7 +259,6 @@
     "scater",
     "scuttle"
   ],
-  "CBNplot": [],
   "CCAFE": [
     "VariantAnnotation",
     "rtracklayer",
@@ -804,7 +803,6 @@
     "rtracklayer"
   ],
   "GBScleanR": [],
-  "GDCRNATools": [],
   "GEOexplorer": [],
   "GNOSIS": [
     "cBioPortalData",
@@ -1085,7 +1083,6 @@
   ],
   "MAGAR": [
     "RnBeads",
-    "crlmm",
     "methylumi",
     "minfi",
     "GenomicFeatures",
@@ -1240,7 +1237,6 @@
   ],
   "MinimumDistance": [
     "VanillaICE",
-    "crlmm",
     "BSgenome",
     "rtracklayer"
   ],
@@ -1600,7 +1596,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "RTNsurvival": [],
   "RUCova": [
     "SingleCellExperiment"
   ],
@@ -2068,7 +2063,6 @@
     "rtracklayer"
   ],
   "VanillaICE": [
-    "crlmm",
     "BSgenome",
     "rtracklayer"
   ],
@@ -2254,7 +2248,6 @@
   "attract": [
     "GOstats"
   ],
-  "autonomics": [],
   "ballgown": [
     "rtracklayer"
   ],
@@ -2362,7 +2355,6 @@
     "BSgenome"
   ],
   "breakpointR": [],
-  "broadSeq": [],
   "bsseq": [
     "BSgenome",
     "rtracklayer"
@@ -2689,7 +2681,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "crlmm": [],
   "crumblr": [
     "SingleCellExperiment"
   ],
@@ -3050,12 +3041,10 @@
     "BSgenome"
   ],
   "gDR": [
-    "gDRcore",
     "gDRimport",
     "CoreGx",
     "PharmacoGx"
   ],
-  "gDRcore": [],
   "gDRimport": [
     "CoreGx",
     "PharmacoGx"
@@ -3093,7 +3082,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "gg4way": [],
   "ggbio": [
     "biovizBase",
     "BSgenome",
@@ -3166,7 +3154,6 @@
     "GenomicFeatures"
   ],
   "hdxmsqc": [],
-  "hermes": [],
   "hiAnnotator": [
     "rtracklayer",
     "BSgenome"
@@ -3412,7 +3399,6 @@
     "SingleCellExperiment"
   ],
   "meshes": [],
-  "meshr": [],
   "metaMS": [
     "CAMERA",
     "xcms",
@@ -3573,7 +3559,6 @@
     "bumphunter",
     "rtracklayer"
   ],
-  "missRows": [],
   "mist": [
     "rtracklayer",
     "SingleCellExperiment"
@@ -4171,7 +4156,6 @@
   ],
   "scTensor": [
     "SingleCellExperiment",
-    "meshr",
     "GOstats",
     "ReactomePA",
     "schex"

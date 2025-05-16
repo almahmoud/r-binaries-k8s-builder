@@ -1284,3 +1284,14 @@ PathoStat
 RegEnrich
 SEtools
 TCC
+autonomics
+broadSeq
+CBNplot
+crlmm
+GDCRNATools
+gDRcore
+gg4way
+hermes
+meshr
+missRows
+RTNsurvival
