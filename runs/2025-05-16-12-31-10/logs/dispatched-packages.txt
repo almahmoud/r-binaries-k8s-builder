@@ -1463,3 +1463,9 @@ tRanslatome
 terapadog
 vidger
 zitools
+MetaboAnnotation
+MsExperiment
+PSMatch
+hdxmsqc
+mspms
+msqrob2

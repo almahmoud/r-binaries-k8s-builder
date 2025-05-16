@@ -251,7 +251,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "CARDspa": [
@@ -482,8 +481,7 @@
   ],
   "CluMSID": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "ClusterFoldSimilarity": [
     "SingleCellExperiment"
@@ -546,16 +544,14 @@
   ],
   "DAPAR": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "DEFormats": [],
   "DEGreport": [],
   "DELocal": [],
   "DEP": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "DEScan2": [
     "ChIPpeakAnno",
@@ -1043,7 +1039,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "ITALICS": [
@@ -1095,11 +1090,8 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
-  "Lheuristic": [],
-  "LinkHD": [],
   "LoomExperiment": [
     "SingleCellExperiment"
   ],
@@ -1133,7 +1125,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "MAST": [
@@ -1195,7 +1186,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "MOMA": [],
   "MOSClip": [
     "qpgraph",
     "GenomicFeatures",
@@ -1216,23 +1206,19 @@
     "MSnbase",
     "msmsTests",
     "msmsEDA",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "MSnbase": [
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "MSstatsQC": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "MSstatsQCgui": [
     "MSstatsQC",
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "Macarron": [],
   "MatrixQCvis": [],
@@ -1248,9 +1234,7 @@
     "SingleCellExperiment"
   ],
   "MetaPhOR": [],
-  "MetaboAnnotation": [
-    "QFeatures"
-  ],
+  "MetaboAnnotation": [],
   "MetaboSignal": [
     "mygene",
     "ensembldb",
@@ -1273,7 +1257,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "MicrobiomeProfiler": [],
   "MicrobiotaProcess": [],
   "MineICA": [
     "GOstats",
@@ -1315,13 +1298,10 @@
     "BSgenome"
   ],
   "MouseFM": [],
-  "MsExperiment": [
-    "QFeatures"
-  ],
+  "MsExperiment": [],
   "MsFeatures": [],
   "MsQuality": [
-    "MsExperiment",
-    "QFeatures"
+    "MsExperiment"
   ],
   "MuData": [
     "SingleCellExperiment"
@@ -1459,13 +1439,10 @@
   "PRONE": [
     "MSnbase",
     "POMA",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "PROPS": [],
-  "PSMatch": [
-    "QFeatures"
-  ],
+  "PSMatch": [],
   "PanomiR": [],
   "PathoStat": [],
   "PeacoQC": [
@@ -1482,14 +1459,12 @@
   ],
   "PrInCE": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "Prostar": [
     "DAPAR",
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "ProteoDisco": [
     "GenomicFeatures",
@@ -1514,7 +1489,6 @@
     "BSgenome"
   ],
   "QDNAseq": [],
-  "QFeatures": [],
   "QTLExperiment": [],
   "QuasR": [
     "BSgenome",
@@ -1601,8 +1575,7 @@
   ],
   "RMassBank": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "RNAAgeCalc": [
     "recount",
@@ -2183,7 +2156,6 @@
     "scuttle"
   ],
   "VplotR": [],
-  "XAItest": [],
   "XDE": [
     "GeneMeta"
   ],
@@ -2341,8 +2313,7 @@
   "bandle": [
     "MSnbase",
     "pRoloc",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "basecallQC": [
     "ShortRead"
@@ -2618,8 +2589,7 @@
     "MSnbase",
     "PSMatch",
     "MsFeatures",
-    "MsExperiment",
-    "QFeatures"
+    "MsExperiment"
   ],
   "clustSIGNAL": [
     "SpatialExperiment",
@@ -2713,7 +2683,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "countsimQC": [],
@@ -3072,7 +3041,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "evaluomeR": [],
   "extraChIPs": [
     "rtracklayer"
   ],
@@ -3110,7 +3078,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "flowGate": [
@@ -3264,9 +3231,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "hdxmsqc": [
-    "QFeatures"
-  ],
+  "hdxmsqc": [],
   "hermes": [],
   "hiAnnotator": [
     "rtracklayer",
@@ -3525,7 +3490,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "metabolomicsWorkbenchR": [
@@ -3753,21 +3717,15 @@
   ],
   "msmsEDA": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "msmsTests": [
     "MSnbase",
     "msmsEDA",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
-  "mspms": [
-    "QFeatures"
-  ],
-  "msqrob2": [
-    "QFeatures"
-  ],
+  "mspms": [],
+  "msqrob2": [],
   "multiHiCcompare": [
     "HiCcompare"
   ],
@@ -3822,7 +3780,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "nearBynding": [
@@ -3873,8 +3830,7 @@
   "oligoClasses": [],
   "omXplore": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "omicRexposome": [],
   "omicsPrint": [],
@@ -3888,14 +3844,12 @@
   ],
   "pRoloc": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "pRolocGUI": [
     "pRoloc",
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "padma": [],
   "pageRank": [
@@ -3930,8 +3884,7 @@
   ],
   "peakPantheR": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "peco": [
     "scater",
@@ -4032,8 +3985,7 @@
   ],
   "ptairMS": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "puma": [
     "oligo",
@@ -4041,8 +3993,7 @@
   ],
   "qPLEXanalyzer": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "qpgraph": [
     "GenomicFeatures",
@@ -4378,7 +4329,6 @@
     "GenomicFeatures"
   ],
   "scp": [
-    "QFeatures",
     "SingleCellExperiment"
   ],
   "scran": [
@@ -4628,7 +4578,6 @@
     "xcms",
     "MSnbase",
     "MsExperiment",
-    "QFeatures",
     "PSMatch",
     "MsFeatures"
   ],
@@ -4686,8 +4635,7 @@
   ],
   "synapter": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "syntenet": [
     "rtracklayer"
@@ -4695,7 +4643,6 @@
   "systemPipeR": [
     "ShortRead"
   ],
-  "systemPipeTools": [],
   "tLOH": [
     "VariantAnnotation",
     "rtracklayer",
@@ -4743,8 +4690,7 @@
   ],
   "topdownr": [
     "MSnbase",
-    "PSMatch",
-    "QFeatures"
+    "PSMatch"
   ],
   "tpSVG": [
     "SingleCellExperiment",
@@ -4833,7 +4779,6 @@
     "scuttle",
     "SingleCellExperiment"
   ],
-  "vidger": [],
   "visiumStitched": [
     "SpatialExperiment",
     "DropletUtils",
@@ -4895,7 +4840,6 @@
     "MSnbase",
     "MsFeatures",
     "MsExperiment",
-    "QFeatures",
     "PSMatch"
   ],
   "xcore": [],

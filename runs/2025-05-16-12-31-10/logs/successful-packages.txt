@@ -1231,3 +1231,12 @@ SeqVarTools
 SigCheck
 SingleR
 zenith
+evaluomeR
+Lheuristic
+LinkHD
+MicrobiomeProfiler
+MOMA
+QFeatures
+systemPipeTools
+vidger
+XAItest
