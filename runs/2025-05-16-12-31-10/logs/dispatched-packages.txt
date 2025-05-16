@@ -874,3 +874,8 @@ MsBackendRawFileReader
 MsBackendSql
 SpectraQL
 procoil
+BiocSingular
+Harshlight
+MetaCyto
+beachmat.hdf5
+scrapper

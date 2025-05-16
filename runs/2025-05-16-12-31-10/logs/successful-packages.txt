@@ -807,3 +807,14 @@ FELLA
 kebabs
 SPIA
 tidytof
+altcdfenvs
+beachmat
+cleaver
+FlowSOM
+infinityFlow
+MetCirc
+MsBackendMassbank
+MsBackendMgf
+MsBackendMsp
+procoil
+sketchR
