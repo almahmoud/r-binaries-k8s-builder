@@ -629,7 +629,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "DrugVsDisease": [],
   "DuplexDiscovereR": [
     "Gviz",
     "rtracklayer",
@@ -786,7 +785,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "GSRI": [],
   "GSReg": [
     "GenomicFeatures",
     "rtracklayer",
@@ -926,13 +924,10 @@
     "VariantAnnotation"
   ],
   "HiCDOC": [
-    "multiHiCcompare",
-    "HiCcompare"
+    "multiHiCcompare"
   ],
   "HiCParser": [],
-  "HiCcompare": [],
   "HiContacts": [],
-  "HiCool": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome",
@@ -1709,7 +1704,6 @@
     "SpatialExperiment"
   ],
   "SeqGSEA": [],
-  "SeqGate": [],
   "SiPSiC": [
     "SingleCellExperiment"
   ],
@@ -1781,9 +1775,7 @@
     "SpatialExperiment",
     "scuttle"
   ],
-  "SpectralTAD": [
-    "HiCcompare"
-  ],
+  "SpectralTAD": [],
   "SpliceWiz": [
     "BSgenome",
     "rtracklayer"
@@ -1822,9 +1814,7 @@
     "TCGAbiolinks",
     "SingleCellExperiment"
   ],
-  "TADCompare": [
-    "HiCcompare"
-  ],
+  "TADCompare": [],
   "TAPseq": [
     "BSgenome",
     "GenomicFeatures",
@@ -1840,7 +1830,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "TDbasedUFEadv": [],
   "TEKRABber": [
     "rtracklayer"
   ],
@@ -2491,7 +2480,6 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "countsimQC": [],
   "cpvSNP": [
     "GenomicFeatures",
     "rtracklayer"
@@ -3465,11 +3453,8 @@
     "msmsEDA",
     "PSMatch"
   ],
-  "mspms": [],
   "msqrob2": [],
-  "multiHiCcompare": [
-    "HiCcompare"
-  ],
+  "multiHiCcompare": [],
   "multicrispr": [
     "BSgenome",
     "CRISPRseek",
@@ -3561,7 +3546,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "omicsPrint": [],
   "openCyto": [
     "flowWorkspace"
   ],
@@ -3917,9 +3901,7 @@
   "scHOT": [
     "SingleCellExperiment"
   ],
-  "scHiCcompare": [
-    "HiCcompare"
-  ],
+  "scHiCcompare": [],
   "scMET": [
     "SingleCellExperiment"
   ],

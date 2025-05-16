@@ -1370,3 +1370,12 @@ OTUbase
 RepViz
 RSVSim
 VariantExperiment
+countsimQC
+DrugVsDisease
+GSRI
+HiCcompare
+HiCool
+mspms
+omicsPrint
+SeqGate
+TDbasedUFEadv
