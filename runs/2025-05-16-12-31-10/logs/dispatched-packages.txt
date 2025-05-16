@@ -626,3 +626,16 @@ scde
 seqTools
 snpStats
 synlet
+BiocNeighbors
+EBcoexpress
+MANOR
+MOGAMUN
+TPP
+alabaster.base
+clst
+cytolib
+fedup
+gaga
+geNetClassifier
+mosbi
+statTarget
