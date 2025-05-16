@@ -1,0 +1,59 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''BufferedMatrix'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'BufferedMatrix'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BufferedMatrix_1.72.0.tar.gz'
+Content type 'application/x-gzip' length 644898 bytes (629 KB)
+==================================================
+downloaded 629 KB
+
+* installing *source* package ‘BufferedMatrix’ ...
+** this is package ‘BufferedMatrix’ version ‘1.72.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c RBufferedMatrix.c -o RBufferedMatrix.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c doubleBufferedMatrix.c -o doubleBufferedMatrix.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c doubleBufferedMatrix_C_tests.c -o doubleBufferedMatrix_C_tests.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init_package.c -o init_package.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o BufferedMatrix.so RBufferedMatrix.o doubleBufferedMatrix.o doubleBufferedMatrix_C_tests.o init_package.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-BufferedMatrix/00new/BufferedMatrix/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘rowMeans’ in package ‘BufferedMatrix’
+Creating a new generic function for ‘rowSums’ in package ‘BufferedMatrix’
+Creating a new generic function for ‘colMeans’ in package ‘BufferedMatrix’
+Creating a new generic function for ‘colSums’ in package ‘BufferedMatrix’
+Creating a generic function for ‘ncol’ from package ‘base’ in package ‘BufferedMatrix’
+Creating a generic function for ‘nrow’ from package ‘base’ in package ‘BufferedMatrix’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BufferedMatrix’ as ‘BufferedMatrix_1.72.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BufferedMatrix)
+
+The downloaded source packages are in
+	‘/tmp/RtmpVWqHSS/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	0m8.622s
+user	0m5.863s
+sys	0m3.075s

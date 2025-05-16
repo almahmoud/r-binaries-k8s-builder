@@ -405,3 +405,16 @@ scTHI
 ternarynet
 tomoseqr
 wppi
+BufferedMatrixMethods
+DEGseq
+DepecheR
+EMDomics
+HubPub
+MBCB
+OPWeight
+SpaceMarkers
+gcatest
+multiClust
+rhdf5
+sights
+timeOmics
