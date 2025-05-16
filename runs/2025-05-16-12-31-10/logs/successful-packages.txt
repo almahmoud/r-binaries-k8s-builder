@@ -1203,3 +1203,15 @@ RolDE
 RTN
 SplicingFactory
 transcriptogramer
+alabaster.se
+Category
+CellScore
+clusterProfiler
+dce
+DeepTarget
+MetNet
+MPRAnalyze
+MultiAssayExperiment
+StabMap
+TREG
+TTMap
