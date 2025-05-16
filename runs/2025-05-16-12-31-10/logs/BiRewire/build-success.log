@@ -1,0 +1,231 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''BiRewire'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'BiRewire'
+also installing the dependencies ‘slam’, ‘RUnit’
+
+trying URL 'https://cloud.r-project.org/src/contrib/slam_0.1-55.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/RUnit_0.4.33.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiRewire_3.40.0.tar.gz'
+* installing *source* package ‘slam’ ...
+** this is package ‘slam’ version ‘0.1-55’
+** package ‘slam’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c apply.c -o apply.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dll.c -o dll.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c grouped.c -o grouped.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sparse.c -o sparse.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c util.c -o util.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o slam.so apply.o dll.o grouped.o sparse.o util.o -lblas -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-slam/00new/slam/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘slam’ as ‘slam_0.1-55_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (slam)
+* installing *source* package ‘RUnit’ ...
+** this is package ‘RUnit’ version ‘0.4.33’
+** package ‘RUnit’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RUnit’ as ‘RUnit_0.4.33_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RUnit)
+* installing *source* package ‘BiRewire’ ...
+** this is package ‘BiRewire’ version ‘3.40.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c BiRewire.c -o BiRewire.o
+BiRewire.c: In function ‘analysis’:
+BiRewire.c:149:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+  149 |                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                  ~^             ~~~~~~~~~~~
+      |                                   |             |
+      |                                   int           time_t {aka long int}
+      |                                  %ld
+BiRewire.c: In function ‘analysis_ex’:
+BiRewire.c:221:51: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+  221 |                                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                                  ~^             ~~~~~~~~~~~
+      |                                                   |             |
+      |                                                   int           time_t {aka long int}
+      |                                                  %ld
+BiRewire.c:229:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+  229 |                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                  ~^             ~~~~~~~~~~~
+      |                                   |             |
+      |                                   int           time_t {aka long int}
+      |                                  %ld
+BiRewire.c: In function ‘rewire_bipartite’:
+BiRewire.c:280:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+  280 |                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                  ~^             ~~~~~~~~~~~
+      |                                   |             |
+      |                                   int           time_t {aka long int}
+      |                                  %ld
+BiRewire.c: In function ‘rewire_bipartite_ex’:
+BiRewire.c:332:51: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+  332 |                                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                                  ~^             ~~~~~~~~~~~
+      |                                                   |             |
+      |                                                   int           time_t {aka long int}
+      |                                                  %ld
+BiRewire.c:339:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+  339 |                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                  ~^             ~~~~~~~~~~~
+      |                                   |             |
+      |                                   int           time_t {aka long int}
+      |                                  %ld
+BiRewire.c: In function ‘rewire_sparse_bipartite’:
+BiRewire.c:402:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+  402 |                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                  ~^             ~~~~~~~~~~~
+      |                                   |             |
+      |                                   int           time_t {aka long int}
+      |                                  %ld
+BiRewire.c: In function ‘rewire_sparse_bipartite_ex’:
+BiRewire.c:454:51: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+  454 |                                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                                  ~^             ~~~~~~~~~~~
+      |                                                   |             |
+      |                                                   int           time_t {aka long int}
+      |                                                  %ld
+BiRewire.c:461:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+  461 |                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                  ~^             ~~~~~~~~~~~
+      |                                   |             |
+      |                                   int           time_t {aka long int}
+      |                                  %ld
+BiRewire.c: In function ‘analysis_undirected’:
+BiRewire.c:588:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+  588 |                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                  ~^             ~~~~~~~~~~~
+      |                                   |             |
+      |                                   int           time_t {aka long int}
+      |                                  %ld
+BiRewire.c: In function ‘analysis_undirected_ex’:
+BiRewire.c:652:51: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+  652 |                                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                                  ~^             ~~~~~~~~~~~
+      |                                                   |             |
+      |                                                   int           time_t {aka long int}
+      |                                                  %ld
+BiRewire.c:737:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+  737 |                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                  ~^             ~~~~~~~~~~~
+      |                                   |             |
+      |                                   int           time_t {aka long int}
+      |                                  %ld
+BiRewire.c: In function ‘rewire’:
+BiRewire.c:844:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+  844 |                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                  ~^             ~~~~~~~~~~~
+      |                                   |             |
+      |                                   int           time_t {aka long int}
+      |                                  %ld
+BiRewire.c: In function ‘rewire_ex’:
+BiRewire.c:893:51: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+  893 |                                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                                  ~^             ~~~~~~~~~~~
+      |                                                   |             |
+      |                                                   int           time_t {aka long int}
+      |                                                  %ld
+BiRewire.c:962:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+  962 |                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                  ~^             ~~~~~~~~~~~
+      |                                   |             |
+      |                                   int           time_t {aka long int}
+      |                                  %ld
+BiRewire.c: In function ‘rewire_sparse’:
+BiRewire.c:1096:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+ 1096 |                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                  ~^             ~~~~~~~~~~~
+      |                                   |             |
+      |                                   int           time_t {aka long int}
+      |                                  %ld
+BiRewire.c: In function ‘rewire_sparse_ex’:
+BiRewire.c:1144:51: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+ 1144 |                                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                                  ~^             ~~~~~~~~~~~
+      |                                                   |             |
+      |                                                   int           time_t {aka long int}
+      |                                                  %ld
+BiRewire.c:1183:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘time_t’ {aka ‘long int’} [-Wformat=]
+ 1183 |                 Rprintf("DONE in %d seconds \n",-(tin-tfin));
+      |                                  ~^             ~~~~~~~~~~~
+      |                                   |             |
+      |                                   int           time_t {aka long int}
+      |                                  %ld
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c interface.c -o interface.o
+interface.c: In function ‘R_rewire_bipartite’:
+interface.c:105:25: warning: too many arguments for format [-Wformat-extra-args]
+  105 |                 warning("Reached the maximum number admissible of iterations!\n",asInteger(MAXITER));
+      |                         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+interface.c: In function ‘R_rewire_sparse_bipartite’:
+interface.c:147:25: warning: too many arguments for format [-Wformat-extra-args]
+  147 |                 warning("Reached the maximum number admissible of iterations!\n",asInteger(MAXITER));
+      |                         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+interface.c: In function ‘R_rewire’:
+interface.c:252:25: warning: too many arguments for format [-Wformat-extra-args]
+  252 |                 warning("Reached the maximum number admissible of iterations!\n",asInteger(MAXITER));
+      |                         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+interface.c: In function ‘R_rewire_sparse’:
+interface.c:296:25: warning: too many arguments for format [-Wformat-extra-args]
+  296 |                 warning("Reached the maximum number admissible of iterations!\n",asInteger(MAXITER));
+      |                         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o BiRewire.so BiRewire.o interface.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-BiRewire/00new/BiRewire/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiRewire’ as ‘BiRewire_3.40.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiRewire)
+
+The downloaded source packages are in
+	‘/tmp/RtmpYL5v2u/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	0m19.159s
+user	0m13.481s
+sys	0m11.339s
