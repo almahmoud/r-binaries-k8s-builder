@@ -1017,3 +1017,12 @@ seqPattern
 target
 transite
 triplex
+BANDITS
+CompoundDb
+DelayedTensor
+Melissa
+PCAtools
+flowDensity
+flowFP
+gatom
+optimalFlow
