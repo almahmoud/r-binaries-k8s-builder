@@ -1298,3 +1298,6 @@ CCPROMISE
 RcisTarget
 alabaster.se
 flowWorkspace
+SVMDO
+enrichplot
+panelcn.mops
