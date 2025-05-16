@@ -1255,3 +1255,17 @@ SIM
 biocGraph
 esetVis
 omicade4
+BaalChIP
+BasicSTARRseq
+CrispRVariants
+MDTS
+PICB
+PICS
+ShortRead
+TCseq
+VariantExperiment
+VplotR
+breakpointR
+mosaics
+prebs
+rtracklayer
