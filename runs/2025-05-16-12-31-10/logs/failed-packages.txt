@@ -7,3 +7,4 @@ hypeR
 cisPath
 PhenStat
 RedisParam
+NormqPCR
