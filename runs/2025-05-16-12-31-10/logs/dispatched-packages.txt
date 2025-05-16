@@ -861,3 +861,5 @@ epiNEM
 ggmsa
 lpNet
 transomics2cytoscape
+cycle
+scPCA

@@ -1,0 +1,218 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''logicFS'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'logicFS'
+also installing the dependencies ‘annotate’, ‘multtest’, ‘scrime’, ‘LogicReg’, ‘mcbiopi’, ‘genefilter’, ‘siggenes’
+
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/annotate_1.86.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/multtest_2.64.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/scrime_1.3.5.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/LogicReg_1.6.6.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/mcbiopi_1.1.6.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/genefilter_1.90.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/siggenes_1.82.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/logicFS_2.28.0.tar.gz'
+* installing *source* package ‘annotate’ ...
+** this is package ‘annotate’ version ‘1.86.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘annotate’ as ‘annotate_1.86.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (annotate)
+* installing *source* package ‘multtest’ ...
+** this is package ‘multtest’ version ‘2.64.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSEDOUBLE -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c Rpack.c -o Rpack.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSEDOUBLE -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c VScount.c -o VScount.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSEDOUBLE -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c block_sampling_fixed.c -o block_sampling_fixed.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSEDOUBLE -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bootloop.c -o bootloop.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSEDOUBLE -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mt.c -o mt.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSEDOUBLE -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pairt_sampling.c -o pairt_sampling.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSEDOUBLE -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pairt_sampling_fixed.c -o pairt_sampling_fixed.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSEDOUBLE -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c random.c -o random.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSEDOUBLE -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sampling.c -o sampling.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSEDOUBLE -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sampling_fixed.c -o sampling_fixed.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSEDOUBLE -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c stat_func.c -o stat_func.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSEDOUBLE -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c stat_order.c -o stat_order.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o multtest.so Rpack.o VScount.o block_sampling_fixed.o bootloop.o mt.o pairt_sampling.o pairt_sampling_fixed.o random.o sampling.o sampling_fixed.o stat_func.o stat_order.o -lm -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-multtest/00new/multtest/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘multtest’ as ‘multtest_2.64.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (multtest)
+* installing *source* package ‘scrime’ ...
+** this is package ‘scrime’ version ‘1.3.5’
+** package ‘scrime’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘scrime’ as ‘scrime_1.3.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scrime)
+* installing *source* package ‘LogicReg’ ...
+** this is package ‘LogicReg’ version ‘1.6.6’
+** package ‘LogicReg’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c Myownscoring.f -o Myownscoring.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c clogic.c -o clogic.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c external.f -o external.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c registerDynamicSymbol.c -o registerDynamicSymbol.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c sextra.f -o sextra.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c slogic.f -o slogic.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c swrite.c -o swrite.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c trioLR.f -o trioLR.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o LogicReg.so Myownscoring.o clogic.o external.o registerDynamicSymbol.o sextra.o slogic.o swrite.o trioLR.o -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-LogicReg/00new/LogicReg/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘LogicReg’ as ‘LogicReg_1.6.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (LogicReg)
+* installing *source* package ‘mcbiopi’ ...
+** this is package ‘mcbiopi’ version ‘1.1.6’
+** package ‘mcbiopi’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘mcbiopi’ as ‘mcbiopi_1.1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mcbiopi)
+* installing *source* package ‘genefilter’ ...
+** this is package ‘genefilter’ version ‘1.90.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c half_range_mode.cpp -o half_range_mode.o
+half_range_mode.cpp: In function ‘double half_range_mode(double*, double*, double, int)’:
+half_range_mode.cpp:100:60: warning: format ‘%i’ expects argument of type ‘int’, but argument 5 has type ‘std::vector<int>::size_type’ {aka ‘long unsigned int’} [-Wformat=]
+  100 |     if (diag) Rprintf( "N = %i, N'' = %i, w = %.4f, |J| = %i\n", N, N_double_prime, w, J.size() );
+      |                                                           ~^                           ~~~~~~~~
+      |                                                            |                                 |
+      |                                                            int                               std::vector<int>::size_type {aka long unsigned int}
+      |                                                           %li
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c nd.c -o nd.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pAUC.c -o pAUC.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c rowPAUCs.c -o rowPAUCs.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c rowttests.c -o rowttests.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c ttest.f -o ttest.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o genefilter.so half_range_mode.o init.o nd.o pAUC.o rowPAUCs.o rowttests.o ttest.o -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-genefilter/00new/genefilter/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘genefilter’ as ‘genefilter_1.90.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (genefilter)
+* installing *source* package ‘siggenes’ ...
+** this is package ‘siggenes’ version ‘1.82.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘siggenes’ as ‘siggenes_1.82.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (siggenes)
+* installing *source* package ‘logicFS’ ...
+** this is package ‘logicFS’ version ‘2.28.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘logicFS’ as ‘logicFS_2.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (logicFS)
+
+The downloaded source packages are in
+	‘/tmp/RtmpunF0Pd/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	1m23.043s
+user	1m6.746s
+sys	0m23.585s

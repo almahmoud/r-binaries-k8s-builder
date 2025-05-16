@@ -772,3 +772,15 @@ snifter
 sscu
 SynMut
 uSORT
+CytoDx
+DelayedMatrixStats
+DelayedRandomArray
+logicFS
+MEDME
+Mfuzz
+OLINgui
+ScaledMatrix
+Sconify
+Structstrings
+tidyFlowCore
+variancePartition
