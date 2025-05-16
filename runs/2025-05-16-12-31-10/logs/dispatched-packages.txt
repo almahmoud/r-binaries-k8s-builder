@@ -780,3 +780,5 @@ beachmat
 orthogene
 rhdf5client
 sketchR
+HDF5Array
+MEIGOR

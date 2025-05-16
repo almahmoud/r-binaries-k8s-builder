@@ -722,3 +722,9 @@ plotGrouper
 ReUseData
 SUITOR
 tkWidgets
+CNORfuzzy
+CNORode
+gDRstyle
+GeneNetworkBuilder
+h5mread
+mbQTL
