@@ -1676,3 +1676,6 @@ sevenC
 syntenet
 tidyCoverage
 wiggleplotr
+PDATK
+TOP
+scTGIF

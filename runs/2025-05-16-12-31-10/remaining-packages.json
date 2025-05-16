@@ -342,7 +342,6 @@
     "scran",
     "scuttle"
   ],
-  "ClassifyR": [],
   "CleanUpRNAseq": [
     "BSgenome",
     "ensembldb",
@@ -605,7 +604,6 @@
     "GenomicFeatures"
   ],
   "GBScleanR": [],
-  "GEOexplorer": [],
   "GNOSIS": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -915,7 +913,6 @@
   "MethylSeekR": [
     "BSgenome"
   ],
-  "MicrobiotaProcess": [],
   "MineICA": [
     "GOstats",
     "lumi",
@@ -1022,9 +1019,7 @@
   ],
   "PAA": [],
   "PAST": [],
-  "PDATK": [
-    "genefu"
-  ],
+  "PDATK": [],
   "PECA": [],
   "PICS": [],
   "PING": [
@@ -1469,9 +1464,7 @@
     "GenomicFeatures"
   ],
   "TOAST": [],
-  "TOP": [
-    "ClassifyR"
-  ],
+  "TOP": [],
   "TRESS": [
     "GenomicFeatures"
   ],
@@ -1937,7 +1930,6 @@
   ],
   "consensusOV": [
     "GSVA",
-    "genefu",
     "SpatialExperiment"
   ],
   "consensusSeekeR": [],
@@ -2298,7 +2290,6 @@
     "GenomicFeatures"
   ],
   "geneXtendeR": [],
-  "genefu": [],
   "genoCN": [],
   "genomation": [
     "BSgenome"
@@ -2502,8 +2493,7 @@
     "spicyR",
     "SpatialExperiment",
     "simpleSeg",
-    "cytomapper",
-    "ClassifyR"
+    "cytomapper"
   ],
   "lpNet": [],
   "lumi": [
@@ -2548,7 +2538,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "mastR": [],
   "mbkmeans": [],
   "meshes": [],
   "metaMS": [
@@ -2861,7 +2850,6 @@
   "pipeFrame": [
     "BSgenome"
   ],
-  "planttfhunter": [],
   "plotgardener": [
     "plyranges"
   ],
@@ -3094,13 +3082,10 @@
   ],
   "scReClassify": [],
   "scRepertoire": [],
-  "scTGIF": [
-    "schex"
-  ],
+  "scTGIF": [],
   "scTensor": [
     "GOstats",
-    "ReactomePA",
-    "schex"
+    "ReactomePA"
   ],
   "scTreeViz": [
     "epivizr",
@@ -3122,7 +3107,6 @@
   "scater": [
     "scuttle"
   ],
-  "schex": [],
   "scider": [
     "SpatialExperiment"
   ],
@@ -3217,7 +3201,6 @@
     "ensembldb",
     "GSVA",
     "SpatialExperiment",
-    "genefu",
     "GenomicFeatures"
   ],
   "simPIC": [
@@ -3305,7 +3288,6 @@
   "speckle": [],
   "spicyR": [
     "SpatialExperiment",
-    "ClassifyR",
     "simpleSeg",
     "cytomapper"
   ],

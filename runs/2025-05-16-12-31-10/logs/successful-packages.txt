@@ -1435,3 +1435,10 @@ QDNAseq
 rtracklayer
 scp
 SPONGE
+ClassifyR
+genefu
+GEOexplorer
+mastR
+MicrobiotaProcess
+planttfhunter
+schex
