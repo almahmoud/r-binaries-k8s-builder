@@ -1627,3 +1627,4 @@ zellkonverter
 zinbwave
 censcyt
 treekoR
+BatchSVG

@@ -140,9 +140,7 @@
     "scran",
     "scuttle"
   ],
-  "BatchSVG": [
-    "scry"
-  ],
+  "BatchSVG": [],
   "BayesSpace": [
     "scater",
     "scran",
@@ -295,7 +293,6 @@
     "SpatialExperiment"
   ],
   "CTexploreR": [],
-  "CaMutQC": [],
   "CatsCradle": [
     "SpatialExperiment"
   ],
@@ -853,7 +850,6 @@
   ],
   "HiCDOC": [],
   "HiCParser": [],
-  "HiContacts": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome",
@@ -913,7 +909,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "InterCellar": [],
   "IsoformSwitchAnalyzeR": [
     "satuRn",
     "BSgenome",
@@ -1318,7 +1313,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "RFLOMICS": [],
   "RITAN": [
     "BgeeDB",
     "GenomicFeatures",
@@ -1828,7 +1822,6 @@
     "SpatialExperiment",
     "VisiumIO"
   ],
-  "Xeva": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
@@ -1881,7 +1874,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "alabaster.files": [],
   "alabaster.mae": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
@@ -2079,7 +2071,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "ccImpute": [],
   "ccfindR": [],
   "celaref": [
     "MAST"
@@ -2233,7 +2224,6 @@
     "scater",
     "scuttle"
   ],
-  "consICA": [],
   "consensusDE": [
     "EDASeq",
     "ensembldb",
@@ -3559,7 +3549,6 @@
   ],
   "scGPS": [],
   "scHOT": [],
-  "scHiCcompare": [],
   "scMET": [],
   "scMerge": [
     "M3Drop",
@@ -3617,7 +3606,6 @@
     "SpatialExperiment"
   ],
   "scifer": [],
-  "scmap": [],
   "scmeth": [
     "bsseq",
     "BSgenome",
@@ -3653,7 +3641,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "scry": [],
   "scuttle": [],
   "scviR": [
     "scater",

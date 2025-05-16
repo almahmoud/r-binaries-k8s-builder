@@ -1410,3 +1410,14 @@ rprimer
 sccomp
 SpectralTAD
 TADCompare
+alabaster.files
+CaMutQC
+ccImpute
+consICA
+HiContacts
+InterCellar
+RFLOMICS
+scHiCcompare
+scmap
+scry
+Xeva
