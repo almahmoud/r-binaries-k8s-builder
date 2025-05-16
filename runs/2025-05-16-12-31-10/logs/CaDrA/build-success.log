@@ -1,0 +1,904 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''CaDrA'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'CaDrA'
+also installing the dependencies ‘foreach’, ‘iterators’, ‘R.methodsS3’, ‘R.oo’, ‘R.utils’, ‘doParallel’, ‘knnmi’, ‘misc3d’, ‘ppcor’, ‘R.cache’, ‘pheatmap’
+
+trying URL 'https://cloud.r-project.org/src/contrib/foreach_1.5.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/iterators_1.0.14.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/R.methodsS3_1.8.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/R.oo_1.27.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/R.utils_2.13.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/doParallel_1.0.17.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/knnmi_1.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/misc3d_0.9-1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/ppcor_1.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/R.cache_0.17.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/pheatmap_1.0.12.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/CaDrA_1.6.0.tar.gz'
+* installing *source* package ‘iterators’ ...
+** this is package ‘iterators’ version ‘1.0.14’
+** package ‘iterators’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘iterators’ as ‘iterators_1.0.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iterators)
+* installing *source* package ‘R.methodsS3’ ...
+** this is package ‘R.methodsS3’ version ‘1.8.2’
+** package ‘R.methodsS3’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘R.methodsS3’ as ‘R.methodsS3_1.8.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.methodsS3)
+* installing *source* package ‘knnmi’ ...
+** this is package ‘knnmi’ version ‘1.0’
+** package ‘knnmi’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG      -Iinclude/ -Iinclude/eigen3/ -DNDEBUG -DEIGEN_NO_DEBUG -DEIGEN_NO_IO  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c CondMutualInformation.cpp -o CondMutualInformation.o
+In file included from include/eigen3/Eigen/Core:205,
+                 from include/CondMutualInformation.h:23,
+                 from CondMutualInformation.cpp:22:
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:46:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   46 | typedef eigen_packet_wrapper<__m128i, 0> Packet4i;
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:47:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   47 | typedef eigen_packet_wrapper<__m128i, 1> Packet16b;
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:49:39: warning: ignoring attributes on template argument ‘__m128’ [-Wignored-attributes]
+   49 | template<> struct is_arithmetic<__m128>  { enum { value = true }; };
+      |                                       ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:50:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   50 | template<> struct is_arithmetic<__m128i> { enum { value = true }; };
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:51:40: warning: ignoring attributes on template argument ‘__m128d’ [-Wignored-attributes]
+   51 | template<> struct is_arithmetic<__m128d> { enum { value = true }; };
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:222:43: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+  222 | template<> struct unpacket_traits<Packet4f> {
+      |                                           ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:228:43: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+  228 | template<> struct unpacket_traits<Packet2d> {
+      |                                           ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:1124:34: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+ 1124 | ptranspose(PacketBlock<Packet4f,4>& kernel) {
+      |                                  ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:1129:34: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+ 1129 | ptranspose(PacketBlock<Packet2d,2>& kernel) {
+      |                                  ^
+In file included from include/eigen3/Eigen/Core:174,
+                 from include/CondMutualInformation.h:23,
+                 from CondMutualInformation.cpp:22:
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:16:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+   16 |   struct conj_helper<PACKET_REAL, PACKET_CPLX, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:173:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  173 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet2cf,Packet4f)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:29:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+   29 |   struct conj_helper<PACKET_CPLX, PACKET_REAL, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:173:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  173 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet2cf,Packet4f)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:16:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+   16 |   struct conj_helper<PACKET_REAL, PACKET_CPLX, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:298:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  298 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet1cd,Packet2d)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:29:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+   29 |   struct conj_helper<PACKET_CPLX, PACKET_REAL, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:298:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  298 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet1cd,Packet2d)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from include/eigen3/Eigen/Core:165,
+                 from include/CondMutualInformation.h:23,
+                 from CondMutualInformation.cpp:22:
+include/eigen3/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘struct Eigen::internal::find_best_packet<double, -1>’:
+include/eigen3/Eigen/src/Core/Matrix.h:22:57:   required from ‘struct Eigen::internal::traits<Eigen::Matrix<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/Array.h:17:8:   required from ‘struct Eigen::internal::traits<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/Array.h:45:7:   required from ‘class Eigen::Array<double, -1, 1>’
+CondMutualInformation.cpp:55:13:   required from here
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:44: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                                       ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::unpacket_traits<__vector(2) double>::half’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/util/XprHelper.h:208:88: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  208 |   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type type;
+      |                                                                                        ^~~~
+In file included from include/eigen3/Eigen/Core:271,
+                 from include/CondMutualInformation.h:23,
+                 from CondMutualInformation.cpp:22:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 1>, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 1>, 1>’
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 1>, 3>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/Array.h:45:7:   required from ‘class Eigen::Array<double, -1, 1>’
+CondMutualInformation.cpp:55:13:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+   56 |                      >::type PacketReturnType;
+      |                              ^~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 3>, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 3>, 1>’
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 3>, 3>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Array<double, -1, 3> >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::Array<double, -1, 3> >’
+include/eigen3/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Array<double, -1, 3> >’
+include/eigen3/Eigen/src/Core/Array.h:45:7:   required from ‘class Eigen::Array<double, -1, 3>’
+CondMutualInformation.cpp:60:21:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Block<Eigen::Array<double, -1, 3>, -1, 1, true>, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Block<Eigen::Array<double, -1, 3>, -1, 1, true>, 1>’
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Block<Eigen::Array<double, -1, 3>, -1, 1, true>, 3>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Block<Eigen::Array<double, -1, 3>, -1, 1, true> >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::Block<Eigen::Array<double, -1, 3>, -1, 1, true> >’
+include/eigen3/Eigen/src/Core/MapBase.h:37:34:   required from ‘class Eigen::MapBase<Eigen::Block<Eigen::Array<double, -1, 3>, -1, 1, true>, 0>’
+include/eigen3/Eigen/src/Core/MapBase.h:223:34:   required from ‘class Eigen::MapBase<Eigen::Block<Eigen::Array<double, -1, 3>, -1, 1, true>, 1>’
+include/eigen3/Eigen/src/Core/Block.h:329:7:   required from ‘class Eigen::internal::BlockImpl_dense<Eigen::Array<double, -1, 3>, -1, 1, true, true>’
+include/eigen3/Eigen/src/Core/Block.h:154:7:   required from ‘class Eigen::BlockImpl<Eigen::Array<double, -1, 3>, -1, 1, true, Eigen::Dense>’
+include/eigen3/Eigen/src/Core/Block.h:103:81:   required from ‘class Eigen::Block<Eigen::Array<double, -1, 3>, -1, 1, true>’
+CondMutualInformation.cpp:65:14:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Map<const Eigen::Array<double, -1, 1> >, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:481:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Map<const Eigen::Array<double, -1, 1> >, 2>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Map<const Eigen::Array<double, -1, 1> > >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::Map<const Eigen::Array<double, -1, 1> > >’
+include/eigen3/Eigen/src/Core/MapBase.h:37:34:   required from ‘class Eigen::MapBase<Eigen::Map<const Eigen::Array<double, -1, 1> >, 0>’
+include/eigen3/Eigen/src/Core/Map.h:94:79:   required from ‘class Eigen::Map<const Eigen::Array<double, -1, 1> >’
+CondMutualInformation.cpp:75:25:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 2>, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 2>, 1>’
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 2>, 3>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Array<double, -1, 2> >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::Array<double, -1, 2> >’
+include/eigen3/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Array<double, -1, 2> >’
+include/eigen3/Eigen/src/Core/Array.h:45:7:   required from ‘class Eigen::Array<double, -1, 2>’
+CondMutualInformation.cpp:99:21:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>, 1>’
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>, 3>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true> >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true> >’
+include/eigen3/Eigen/src/Core/MapBase.h:37:34:   required from ‘class Eigen::MapBase<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>, 0>’
+include/eigen3/Eigen/src/Core/MapBase.h:223:34:   required from ‘class Eigen::MapBase<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>, 1>’
+include/eigen3/Eigen/src/Core/Block.h:329:7:   required from ‘class Eigen::internal::BlockImpl_dense<Eigen::Array<double, -1, 2>, -1, 1, true, true>’
+include/eigen3/Eigen/src/Core/Block.h:154:7:   required from ‘class Eigen::BlockImpl<Eigen::Array<double, -1, 2>, -1, 1, true, Eigen::Dense>’
+include/eigen3/Eigen/src/Core/Block.h:103:81:   required from ‘class Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>’
+CondMutualInformation.cpp:100:14:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+In file included from include/eigen3/Eigen/Core:277,
+                 from include/CondMutualInformation.h:23,
+                 from CondMutualInformation.cpp:22:
+include/eigen3/Eigen/src/Core/CoreEvaluators.h: In instantiation of ‘struct Eigen::internal::evaluator<Eigen::Block<Eigen::Array<double, -1, 3>, -1, 1, true> >’:
+include/eigen3/Eigen/src/Core/AssignEvaluator.h:780:20:   required from ‘void Eigen::internal::call_dense_assignment_loop(DstXprType&, const SrcXprType&, const Functor&) [with DstXprType = Eigen::Block<Eigen::Array<double, -1, 3>, -1, 1, true>; SrcXprType = Eigen::Array<double, -1, 1>; Functor = Eigen::internal::assign_op<double, double>]’
+include/eigen3/Eigen/src/Core/AssignEvaluator.h:954:31:   required from ‘static void Eigen::internal::Assignment<DstXprType, SrcXprType, Functor, Eigen::internal::Dense2Dense, Weak>::run(DstXprType&, const SrcXprType&, const Functor&) [with DstXprType = Eigen::Block<Eigen::Array<double, -1, 3>, -1, 1, true>; SrcXprType = Eigen::Array<double, -1, 1>; Functor = Eigen::internal::assign_op<double, double>; Weak = void]’
+include/eigen3/Eigen/src/Core/AssignEvaluator.h:890:49:   required from ‘void Eigen::internal::call_assignment_no_alias(Dst&, const Src&, const Func&) [with Dst = Eigen::Block<Eigen::Array<double, -1, 3>, -1, 1, true>; Src = Eigen::Array<double, -1, 1>; Func = Eigen::internal::assign_op<double, double>]’
+include/eigen3/Eigen/src/Core/AssignEvaluator.h:858:27:   required from ‘void Eigen::internal::call_assignment(Dst&, const Src&, const Func&, typename Eigen::internal::enable_if<(! Eigen::internal::evaluator_assume_aliasing<Src>::value), void*>::type) [with Dst = Eigen::Block<Eigen::Array<double, -1, 3>, -1, 1, true>; Src = Eigen::Array<double, -1, 1>; Func = Eigen::internal::assign_op<double, double>; typename Eigen::internal::enable_if<(! Eigen::internal::evaluator_assume_aliasing<Src>::value), void*>::type = void*; typename Eigen::internal::evaluator_traits<SrcXprType>::Shape = Eigen::DenseShape]’
+include/eigen3/Eigen/src/Core/AssignEvaluator.h:836:18:   required from ‘void Eigen::internal::call_assignment(Dst&, const Src&) [with Dst = Eigen::Block<Eigen::Array<double, -1, 3>, -1, 1, true>; Src = Eigen::Array<double, -1, 1>]’
+include/eigen3/Eigen/src/Core/Assign.h:41:28:   required from ‘Derived& Eigen::DenseBase<Derived>::operator=(const Eigen::DenseBase<OtherDerived>&) [with OtherDerived = Eigen::Array<double, -1, 1>; Derived = Eigen::Block<Eigen::Array<double, -1, 3>, -1, 1, true>]’
+CondMutualInformation.cpp:65:45:   required from here
+include/eigen3/Eigen/src/Core/CoreEvaluators.h:1071:54: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+ 1071 |     PacketAlignment = unpacket_traits<PacketScalar>::alignment,
+      |                                                      ^~~~~~~~~
+include/eigen3/Eigen/src/Core/CoreEvaluators.h: In instantiation of ‘struct Eigen::internal::evaluator<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true> >’:
+include/eigen3/Eigen/src/Core/AssignEvaluator.h:780:20:   required from ‘void Eigen::internal::call_dense_assignment_loop(DstXprType&, const SrcXprType&, const Functor&) [with DstXprType = Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>; SrcXprType = Eigen::Map<const Eigen::Array<double, -1, 1> >; Functor = Eigen::internal::assign_op<double, double>]’
+include/eigen3/Eigen/src/Core/AssignEvaluator.h:954:31:   required from ‘static void Eigen::internal::Assignment<DstXprType, SrcXprType, Functor, Eigen::internal::Dense2Dense, Weak>::run(DstXprType&, const SrcXprType&, const Functor&) [with DstXprType = Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>; SrcXprType = Eigen::Map<const Eigen::Array<double, -1, 1> >; Functor = Eigen::internal::assign_op<double, double>; Weak = void]’
+include/eigen3/Eigen/src/Core/AssignEvaluator.h:890:49:   required from ‘void Eigen::internal::call_assignment_no_alias(Dst&, const Src&, const Func&) [with Dst = Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>; Src = Eigen::Map<const Eigen::Array<double, -1, 1> >; Func = Eigen::internal::assign_op<double, double>]’
+include/eigen3/Eigen/src/Core/AssignEvaluator.h:858:27:   required from ‘void Eigen::internal::call_assignment(Dst&, const Src&, const Func&, typename Eigen::internal::enable_if<(! Eigen::internal::evaluator_assume_aliasing<Src>::value), void*>::type) [with Dst = Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>; Src = Eigen::Map<const Eigen::Array<double, -1, 1> >; Func = Eigen::internal::assign_op<double, double>; typename Eigen::internal::enable_if<(! Eigen::internal::evaluator_assume_aliasing<Src>::value), void*>::type = void*; typename Eigen::internal::evaluator_traits<SrcXprType>::Shape = Eigen::DenseShape]’
+include/eigen3/Eigen/src/Core/AssignEvaluator.h:836:18:   required from ‘void Eigen::internal::call_assignment(Dst&, const Src&) [with Dst = Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>; Src = Eigen::Map<const Eigen::Array<double, -1, 1> >]’
+include/eigen3/Eigen/src/Core/Assign.h:41:28:   required from ‘Derived& Eigen::DenseBase<Derived>::operator=(const Eigen::DenseBase<OtherDerived>&) [with OtherDerived = Eigen::Map<const Eigen::Array<double, -1, 1> >; Derived = Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>]’
+CondMutualInformation.cpp:100:20:   required from here
+include/eigen3/Eigen/src/Core/CoreEvaluators.h:1071:54: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG      -Iinclude/ -Iinclude/eigen3/ -DNDEBUG -DEIGEN_NO_DEBUG -DEIGEN_NO_IO  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c MI_Matrix.cpp -o MI_Matrix.o
+In file included from include/eigen3/Eigen/Core:205,
+                 from include/MutualInformation.h:24,
+                 from MI_Matrix.cpp:35:
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:46:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   46 | typedef eigen_packet_wrapper<__m128i, 0> Packet4i;
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:47:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   47 | typedef eigen_packet_wrapper<__m128i, 1> Packet16b;
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:49:39: warning: ignoring attributes on template argument ‘__m128’ [-Wignored-attributes]
+   49 | template<> struct is_arithmetic<__m128>  { enum { value = true }; };
+      |                                       ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:50:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   50 | template<> struct is_arithmetic<__m128i> { enum { value = true }; };
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:51:40: warning: ignoring attributes on template argument ‘__m128d’ [-Wignored-attributes]
+   51 | template<> struct is_arithmetic<__m128d> { enum { value = true }; };
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:222:43: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+  222 | template<> struct unpacket_traits<Packet4f> {
+      |                                           ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:228:43: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+  228 | template<> struct unpacket_traits<Packet2d> {
+      |                                           ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:1124:34: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+ 1124 | ptranspose(PacketBlock<Packet4f,4>& kernel) {
+      |                                  ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:1129:34: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+ 1129 | ptranspose(PacketBlock<Packet2d,2>& kernel) {
+      |                                  ^
+In file included from include/eigen3/Eigen/Core:174,
+                 from include/MutualInformation.h:24,
+                 from MI_Matrix.cpp:35:
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:16:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+   16 |   struct conj_helper<PACKET_REAL, PACKET_CPLX, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:173:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  173 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet2cf,Packet4f)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:29:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+   29 |   struct conj_helper<PACKET_CPLX, PACKET_REAL, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:173:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  173 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet2cf,Packet4f)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:16:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+   16 |   struct conj_helper<PACKET_REAL, PACKET_CPLX, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:298:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  298 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet1cd,Packet2d)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:29:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+   29 |   struct conj_helper<PACKET_CPLX, PACKET_REAL, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:298:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  298 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet1cd,Packet2d)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from include/eigen3/Eigen/Core:165,
+                 from include/MutualInformation.h:24,
+                 from MI_Matrix.cpp:35:
+include/eigen3/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘struct Eigen::internal::find_best_packet<double, -1>’:
+include/eigen3/Eigen/src/Core/Matrix.h:22:57:   required from ‘struct Eigen::internal::traits<Eigen::Matrix<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/Array.h:17:8:   required from ‘struct Eigen::internal::traits<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h:23:29:   required from ‘struct Eigen::internal::traits<const Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/Map.h:18:8:   required from ‘struct Eigen::internal::traits<Eigen::Map<const Eigen::Array<double, -1, 1> > >’
+include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h:32:48:   required from ‘struct Eigen::internal::accessors_level<Eigen::Map<const Eigen::Array<double, -1, 1> > >’
+include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h:111:75:   required from ‘class Eigen::Map<const Eigen::Array<double, -1, 1> >’
+MI_Matrix.cpp:54:32:   required from here
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:44: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                                       ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::unpacket_traits<__vector(2) double>::half’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/util/XprHelper.h:208:88: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  208 |   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type type;
+      |                                                                                        ^~~~
+In file included from include/eigen3/Eigen/Core:271,
+                 from include/MutualInformation.h:24,
+                 from MI_Matrix.cpp:35:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 1>, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 1>, 1>’
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 1>, 3>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/Array.h:45:7:   required from ‘class Eigen::Array<double, -1, 1>’
+include/eigen3/Eigen/src/Core/Map.h:24:49:   required from ‘struct Eigen::internal::traits<Eigen::Map<const Eigen::Array<double, -1, 1> > >’
+include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h:32:48:   required from ‘struct Eigen::internal::accessors_level<Eigen::Map<const Eigen::Array<double, -1, 1> > >’
+include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h:111:75:   required from ‘class Eigen::Map<const Eigen::Array<double, -1, 1> >’
+MI_Matrix.cpp:54:32:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+   56 |                      >::type PacketReturnType;
+      |                              ^~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Map<const Eigen::Array<double, -1, 1> >, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:481:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Map<const Eigen::Array<double, -1, 1> >, 2>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Map<const Eigen::Array<double, -1, 1> > >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::Map<const Eigen::Array<double, -1, 1> > >’
+include/eigen3/Eigen/src/Core/MapBase.h:37:34:   required from ‘class Eigen::MapBase<Eigen::Map<const Eigen::Array<double, -1, 1> >, 0>’
+include/eigen3/Eigen/src/Core/Map.h:94:79:   required from ‘class Eigen::Map<const Eigen::Array<double, -1, 1> >’
+MI_Matrix.cpp:54:32:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG      -Iinclude/ -Iinclude/eigen3/ -DNDEBUG -DEIGEN_NO_DEBUG -DEIGEN_NO_IO  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c MutualInformation.cpp -o MutualInformation.o
+In file included from include/eigen3/Eigen/Core:205,
+                 from include/MutualInformation.h:24,
+                 from MutualInformation.cpp:21:
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:46:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   46 | typedef eigen_packet_wrapper<__m128i, 0> Packet4i;
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:47:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   47 | typedef eigen_packet_wrapper<__m128i, 1> Packet16b;
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:49:39: warning: ignoring attributes on template argument ‘__m128’ [-Wignored-attributes]
+   49 | template<> struct is_arithmetic<__m128>  { enum { value = true }; };
+      |                                       ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:50:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   50 | template<> struct is_arithmetic<__m128i> { enum { value = true }; };
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:51:40: warning: ignoring attributes on template argument ‘__m128d’ [-Wignored-attributes]
+   51 | template<> struct is_arithmetic<__m128d> { enum { value = true }; };
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:222:43: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+  222 | template<> struct unpacket_traits<Packet4f> {
+      |                                           ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:228:43: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+  228 | template<> struct unpacket_traits<Packet2d> {
+      |                                           ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:1124:34: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+ 1124 | ptranspose(PacketBlock<Packet4f,4>& kernel) {
+      |                                  ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:1129:34: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+ 1129 | ptranspose(PacketBlock<Packet2d,2>& kernel) {
+      |                                  ^
+In file included from include/eigen3/Eigen/Core:174,
+                 from include/MutualInformation.h:24,
+                 from MutualInformation.cpp:21:
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:16:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+   16 |   struct conj_helper<PACKET_REAL, PACKET_CPLX, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:173:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  173 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet2cf,Packet4f)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:29:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+   29 |   struct conj_helper<PACKET_CPLX, PACKET_REAL, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:173:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  173 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet2cf,Packet4f)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:16:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+   16 |   struct conj_helper<PACKET_REAL, PACKET_CPLX, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:298:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  298 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet1cd,Packet2d)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:29:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+   29 |   struct conj_helper<PACKET_CPLX, PACKET_REAL, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:298:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  298 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet1cd,Packet2d)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from include/eigen3/Eigen/Core:165,
+                 from include/MutualInformation.h:24,
+                 from MutualInformation.cpp:21:
+include/eigen3/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘struct Eigen::internal::find_best_packet<double, -1>’:
+include/eigen3/Eigen/src/Core/Matrix.h:22:57:   required from ‘struct Eigen::internal::traits<Eigen::Matrix<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/Array.h:17:8:   required from ‘struct Eigen::internal::traits<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/Array.h:45:7:   required from ‘class Eigen::Array<double, -1, 1>’
+MutualInformation.cpp:57:13:   required from here
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:44: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                                       ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::unpacket_traits<__vector(2) double>::half’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/util/XprHelper.h:208:88: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  208 |   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type type;
+      |                                                                                        ^~~~
+In file included from include/eigen3/Eigen/Core:271,
+                 from include/MutualInformation.h:24,
+                 from MutualInformation.cpp:21:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 1>, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 1>, 1>’
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 1>, 3>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/Array.h:45:7:   required from ‘class Eigen::Array<double, -1, 1>’
+MutualInformation.cpp:57:13:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+   56 |                      >::type PacketReturnType;
+      |                              ^~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 2>, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 2>, 1>’
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 2>, 3>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Array<double, -1, 2> >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::Array<double, -1, 2> >’
+include/eigen3/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Array<double, -1, 2> >’
+include/eigen3/Eigen/src/Core/Array.h:45:7:   required from ‘class Eigen::Array<double, -1, 2>’
+MutualInformation.cpp:59:22:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>, 1>’
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>, 3>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true> >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true> >’
+include/eigen3/Eigen/src/Core/MapBase.h:37:34:   required from ‘class Eigen::MapBase<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>, 0>’
+include/eigen3/Eigen/src/Core/MapBase.h:223:34:   required from ‘class Eigen::MapBase<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>, 1>’
+include/eigen3/Eigen/src/Core/Block.h:329:7:   required from ‘class Eigen::internal::BlockImpl_dense<Eigen::Array<double, -1, 2>, -1, 1, true, true>’
+include/eigen3/Eigen/src/Core/Block.h:154:7:   required from ‘class Eigen::BlockImpl<Eigen::Array<double, -1, 2>, -1, 1, true, Eigen::Dense>’
+include/eigen3/Eigen/src/Core/Block.h:103:81:   required from ‘class Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>’
+MutualInformation.cpp:63:14:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Map<const Eigen::Array<double, -1, 1> >, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:481:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Map<const Eigen::Array<double, -1, 1> >, 2>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Map<const Eigen::Array<double, -1, 1> > >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::Map<const Eigen::Array<double, -1, 1> > >’
+include/eigen3/Eigen/src/Core/MapBase.h:37:34:   required from ‘class Eigen::MapBase<Eigen::Map<const Eigen::Array<double, -1, 1> >, 0>’
+include/eigen3/Eigen/src/Core/Map.h:94:79:   required from ‘class Eigen::Map<const Eigen::Array<double, -1, 1> >’
+MutualInformation.cpp:67:25:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+In file included from include/eigen3/Eigen/Core:277,
+                 from include/MutualInformation.h:24,
+                 from MutualInformation.cpp:21:
+include/eigen3/Eigen/src/Core/CoreEvaluators.h: In instantiation of ‘struct Eigen::internal::evaluator<Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true> >’:
+include/eigen3/Eigen/src/Core/AssignEvaluator.h:780:20:   required from ‘void Eigen::internal::call_dense_assignment_loop(DstXprType&, const SrcXprType&, const Functor&) [with DstXprType = Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>; SrcXprType = Eigen::Array<double, -1, 1>; Functor = Eigen::internal::assign_op<double, double>]’
+include/eigen3/Eigen/src/Core/AssignEvaluator.h:954:31:   required from ‘static void Eigen::internal::Assignment<DstXprType, SrcXprType, Functor, Eigen::internal::Dense2Dense, Weak>::run(DstXprType&, const SrcXprType&, const Functor&) [with DstXprType = Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>; SrcXprType = Eigen::Array<double, -1, 1>; Functor = Eigen::internal::assign_op<double, double>; Weak = void]’
+include/eigen3/Eigen/src/Core/AssignEvaluator.h:890:49:   required from ‘void Eigen::internal::call_assignment_no_alias(Dst&, const Src&, const Func&) [with Dst = Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>; Src = Eigen::Array<double, -1, 1>; Func = Eigen::internal::assign_op<double, double>]’
+include/eigen3/Eigen/src/Core/AssignEvaluator.h:858:27:   required from ‘void Eigen::internal::call_assignment(Dst&, const Src&, const Func&, typename Eigen::internal::enable_if<(! Eigen::internal::evaluator_assume_aliasing<Src>::value), void*>::type) [with Dst = Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>; Src = Eigen::Array<double, -1, 1>; Func = Eigen::internal::assign_op<double, double>; typename Eigen::internal::enable_if<(! Eigen::internal::evaluator_assume_aliasing<Src>::value), void*>::type = void*; typename Eigen::internal::evaluator_traits<SrcXprType>::Shape = Eigen::DenseShape]’
+include/eigen3/Eigen/src/Core/AssignEvaluator.h:836:18:   required from ‘void Eigen::internal::call_assignment(Dst&, const Src&) [with Dst = Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>; Src = Eigen::Array<double, -1, 1>]’
+include/eigen3/Eigen/src/Core/Assign.h:41:28:   required from ‘Derived& Eigen::DenseBase<Derived>::operator=(const Eigen::DenseBase<OtherDerived>&) [with OtherDerived = Eigen::Array<double, -1, 1>; Derived = Eigen::Block<Eigen::Array<double, -1, 2>, -1, 1, true>]’
+MutualInformation.cpp:63:45:   required from here
+include/eigen3/Eigen/src/Core/CoreEvaluators.h:1071:54: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+ 1071 |     PacketAlignment = unpacket_traits<PacketScalar>::alignment,
+      |                                                      ^~~~~~~~~
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG      -Iinclude/ -Iinclude/eigen3/ -DNDEBUG -DEIGEN_NO_DEBUG -DEIGEN_NO_IO  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c MutualInformationBase.cpp -o MutualInformationBase.o
+In file included from include/eigen3/Eigen/Core:205,
+                 from include/MutualInformationBase.h:24,
+                 from MutualInformationBase.cpp:22:
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:46:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   46 | typedef eigen_packet_wrapper<__m128i, 0> Packet4i;
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:47:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   47 | typedef eigen_packet_wrapper<__m128i, 1> Packet16b;
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:49:39: warning: ignoring attributes on template argument ‘__m128’ [-Wignored-attributes]
+   49 | template<> struct is_arithmetic<__m128>  { enum { value = true }; };
+      |                                       ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:50:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   50 | template<> struct is_arithmetic<__m128i> { enum { value = true }; };
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:51:40: warning: ignoring attributes on template argument ‘__m128d’ [-Wignored-attributes]
+   51 | template<> struct is_arithmetic<__m128d> { enum { value = true }; };
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:222:43: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+  222 | template<> struct unpacket_traits<Packet4f> {
+      |                                           ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:228:43: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+  228 | template<> struct unpacket_traits<Packet2d> {
+      |                                           ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:1124:34: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+ 1124 | ptranspose(PacketBlock<Packet4f,4>& kernel) {
+      |                                  ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:1129:34: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+ 1129 | ptranspose(PacketBlock<Packet2d,2>& kernel) {
+      |                                  ^
+In file included from include/eigen3/Eigen/Core:174,
+                 from include/MutualInformationBase.h:24,
+                 from MutualInformationBase.cpp:22:
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:16:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+   16 |   struct conj_helper<PACKET_REAL, PACKET_CPLX, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:173:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  173 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet2cf,Packet4f)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:29:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+   29 |   struct conj_helper<PACKET_CPLX, PACKET_REAL, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:173:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  173 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet2cf,Packet4f)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:16:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+   16 |   struct conj_helper<PACKET_REAL, PACKET_CPLX, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:298:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  298 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet1cd,Packet2d)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:29:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+   29 |   struct conj_helper<PACKET_CPLX, PACKET_REAL, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:298:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  298 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet1cd,Packet2d)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from include/eigen3/Eigen/Core:165,
+                 from include/MutualInformationBase.h:24,
+                 from MutualInformationBase.cpp:22:
+include/eigen3/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘struct Eigen::internal::find_best_packet<double, -1>’:
+include/eigen3/Eigen/src/Core/Matrix.h:22:57:   required from ‘struct Eigen::internal::traits<Eigen::Matrix<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/Array.h:17:8:   required from ‘struct Eigen::internal::traits<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/Array.h:45:7:   required from ‘class Eigen::Array<double, -1, 1>’
+MutualInformationBase.cpp:58:102:   required from here
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:44: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                                       ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::unpacket_traits<__vector(2) double>::half’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/util/XprHelper.h:208:88: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  208 |   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type type;
+      |                                                                                        ^~~~
+In file included from include/eigen3/Eigen/Core:271,
+                 from include/MutualInformationBase.h:24,
+                 from MutualInformationBase.cpp:22:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 1>, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 1>, 1>’
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 1>, 3>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/Array.h:45:7:   required from ‘class Eigen::Array<double, -1, 1>’
+MutualInformationBase.cpp:58:102:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+   56 |                      >::type PacketReturnType;
+      |                              ^~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> >, 0>’:
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> > >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> > >’
+include/eigen3/Eigen/src/Core/CwiseNullaryOp.h:60:7:   required from ‘class Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/CwiseBinaryOp.h:38:28:   required from ‘struct Eigen::internal::traits<Eigen::CwiseBinaryOp<Eigen::internal::scalar_pow_op<double, double>, const Eigen::Array<double, -1, 1>, const Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> > > >’
+include/eigen3/Eigen/src/Core/CwiseBinaryOp.h:148:7:   required from ‘class Eigen::CwiseBinaryOpImpl<Eigen::internal::scalar_pow_op<double, double>, const Eigen::Array<double, -1, 1>, const Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> >, Eigen::Dense>’
+include/eigen3/Eigen/src/Core/CwiseBinaryOp.h:77:7:   required from ‘class Eigen::CwiseBinaryOp<Eigen::internal::scalar_pow_op<double, double>, const Eigen::Array<double, -1, 1>, const Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> > >’
+MutualInformationBase.cpp:65:43:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::CwiseBinaryOp<Eigen::internal::scalar_pow_op<double, double>, const Eigen::Array<double, -1, 1>, const Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> > >, 0>’:
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::CwiseBinaryOp<Eigen::internal::scalar_pow_op<double, double>, const Eigen::Array<double, -1, 1>, const Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> > > >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::CwiseBinaryOp<Eigen::internal::scalar_pow_op<double, double>, const Eigen::Array<double, -1, 1>, const Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> > > >’
+include/eigen3/Eigen/src/Core/CwiseBinaryOp.h:148:7:   required from ‘class Eigen::CwiseBinaryOpImpl<Eigen::internal::scalar_pow_op<double, double>, const Eigen::Array<double, -1, 1>, const Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> >, Eigen::Dense>’
+include/eigen3/Eigen/src/Core/CwiseBinaryOp.h:77:7:   required from ‘class Eigen::CwiseBinaryOp<Eigen::internal::scalar_pow_op<double, double>, const Eigen::Array<double, -1, 1>, const Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> > >’
+MutualInformationBase.cpp:65:43:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::CwiseBinaryOp<Eigen::internal::scalar_quotient_op<double, double>, const Eigen::Array<double, -1, 1>, const Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> > >, 0>’:
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::CwiseBinaryOp<Eigen::internal::scalar_quotient_op<double, double>, const Eigen::Array<double, -1, 1>, const Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> > > >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::CwiseBinaryOp<Eigen::internal::scalar_quotient_op<double, double>, const Eigen::Array<double, -1, 1>, const Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> > > >’
+include/eigen3/Eigen/src/Core/CwiseBinaryOp.h:148:7:   required from ‘class Eigen::CwiseBinaryOpImpl<Eigen::internal::scalar_quotient_op<double, double>, const Eigen::Array<double, -1, 1>, const Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> >, Eigen::Dense>’
+include/eigen3/Eigen/src/Core/CwiseBinaryOp.h:77:7:   required from ‘class Eigen::CwiseBinaryOp<Eigen::internal::scalar_quotient_op<double, double>, const Eigen::Array<double, -1, 1>, const Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<double>, const Eigen::Array<double, -1, 1> > >’
+MutualInformationBase.cpp:66:26:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Map<const Eigen::Array<double, -1, 1> >, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:481:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Map<const Eigen::Array<double, -1, 1> >, 2>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Map<const Eigen::Array<double, -1, 1> > >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::Map<const Eigen::Array<double, -1, 1> > >’
+include/eigen3/Eigen/src/Core/MapBase.h:37:34:   required from ‘class Eigen::MapBase<Eigen::Map<const Eigen::Array<double, -1, 1> >, 0>’
+include/eigen3/Eigen/src/Core/Map.h:94:79:   required from ‘class Eigen::Map<const Eigen::Array<double, -1, 1> >’
+include/nanoflann.hpp:2312:11:   required from ‘struct nanoflann::KDTreeEigenMatrixAdaptor<Eigen::Map<const Eigen::Array<double, -1, 1> >, -1, nanoflann::metric_L1>’
+MutualInformationBase.cpp:113:86:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘Eigen::Index Eigen::internal::first_default_aligned(const Eigen::DenseBase<Derived>&) [with Derived = Eigen::Array<double, -1, 1>; Eigen::Index = long int]’:
+include/eigen3/Eigen/src/Core/Redux.h:243:63:   required from ‘static Eigen::internal::redux_impl<Func, Evaluator, 3, 0>::Scalar Eigen::internal::redux_impl<Func, Evaluator, 3, 0>::run(const Evaluator&, const Func&, const XprType&) [with XprType = Eigen::Array<double, -1, 1>; Func = Eigen::internal::scalar_sum_op<double, double>; Evaluator = Eigen::internal::redux_evaluator<Eigen::Array<double, -1, 1> >; Eigen::internal::redux_impl<Func, Evaluator, 3, 0>::Scalar = double]’
+include/eigen3/Eigen/src/Core/Redux.h:418:56:   required from ‘typename Eigen::internal::traits<T>::Scalar Eigen::DenseBase<Derived>::redux(const Func&) const [with BinaryOp = Eigen::internal::scalar_sum_op<double, double>; Derived = Eigen::Array<double, -1, 1>; typename Eigen::internal::traits<T>::Scalar = double]’
+include/eigen3/Eigen/src/Core/Redux.h:478:32:   required from ‘typename Eigen::internal::traits<T>::Scalar Eigen::DenseBase<Derived>::mean() const [with Derived = Eigen::Array<double, -1, 1>; typename Eigen::internal::traits<T>::Scalar = double]’
+MutualInformationBase.cpp:77:26:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:654:74: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  654 |   return internal::first_aligned<int(unpacket_traits<DefaultPacketType>::alignment),Derived>(m);
+      |                                                                          ^~~~~~~~~
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG      -Iinclude/ -Iinclude/eigen3/ -DNDEBUG -DEIGEN_NO_DEBUG -DEIGEN_NO_IO  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c MutualInformationDiscrete.cpp -o MutualInformationDiscrete.o
+In file included from include/eigen3/Eigen/Core:205,
+                 from include/MutualInformationDiscrete.h:24,
+                 from MutualInformationDiscrete.cpp:21:
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:46:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   46 | typedef eigen_packet_wrapper<__m128i, 0> Packet4i;
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:47:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   47 | typedef eigen_packet_wrapper<__m128i, 1> Packet16b;
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:49:39: warning: ignoring attributes on template argument ‘__m128’ [-Wignored-attributes]
+   49 | template<> struct is_arithmetic<__m128>  { enum { value = true }; };
+      |                                       ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:50:40: warning: ignoring attributes on template argument ‘__m128i’ [-Wignored-attributes]
+   50 | template<> struct is_arithmetic<__m128i> { enum { value = true }; };
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:51:40: warning: ignoring attributes on template argument ‘__m128d’ [-Wignored-attributes]
+   51 | template<> struct is_arithmetic<__m128d> { enum { value = true }; };
+      |                                        ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:222:43: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+  222 | template<> struct unpacket_traits<Packet4f> {
+      |                                           ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:228:43: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+  228 | template<> struct unpacket_traits<Packet2d> {
+      |                                           ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:1124:34: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+ 1124 | ptranspose(PacketBlock<Packet4f,4>& kernel) {
+      |                                  ^
+include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:1129:34: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+ 1129 | ptranspose(PacketBlock<Packet2d,2>& kernel) {
+      |                                  ^
+In file included from include/eigen3/Eigen/Core:174,
+                 from include/MutualInformationDiscrete.h:24,
+                 from MutualInformationDiscrete.cpp:21:
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:16:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+   16 |   struct conj_helper<PACKET_REAL, PACKET_CPLX, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:173:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  173 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet2cf,Packet4f)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:29:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet4f’ {aka ‘__m128’} [-Wignored-attributes]
+   29 |   struct conj_helper<PACKET_CPLX, PACKET_REAL, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:173:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  173 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet2cf,Packet4f)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:16:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+   16 |   struct conj_helper<PACKET_REAL, PACKET_CPLX, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:298:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  298 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet1cd,Packet2d)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/arch/Default/ConjHelper.h:29:60: warning: ignoring attributes on template argument ‘Eigen::internal::Packet2d’ {aka ‘__m128d’} [-Wignored-attributes]
+   29 |   struct conj_helper<PACKET_CPLX, PACKET_REAL, false, false> {          \
+      |                                                            ^
+include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:298:1: note: in expansion of macro ‘EIGEN_MAKE_CONJ_HELPER_CPLX_REAL’
+  298 | EIGEN_MAKE_CONJ_HELPER_CPLX_REAL(Packet1cd,Packet2d)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from include/eigen3/Eigen/Core:165,
+                 from include/MutualInformationDiscrete.h:24,
+                 from MutualInformationDiscrete.cpp:21:
+include/eigen3/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘struct Eigen::internal::find_best_packet<double, -1>’:
+include/eigen3/Eigen/src/Core/Matrix.h:22:57:   required from ‘struct Eigen::internal::traits<Eigen::Matrix<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/Array.h:17:8:   required from ‘struct Eigen::internal::traits<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/Array.h:45:7:   required from ‘class Eigen::Array<double, -1, 1>’
+MutualInformationDiscrete.cpp:49:13:   required from here
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:44: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                                       ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  190 |          bool Stop = Size==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+      |                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/util/XprHelper.h:190:83: warning: ignoring attributes on template argument ‘Eigen::internal::unpacket_traits<__vector(2) double>::half’ {aka ‘__m128d’} [-Wignored-attributes]
+include/eigen3/Eigen/src/Core/util/XprHelper.h:208:88: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+  208 |   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type type;
+      |                                                                                        ^~~~
+In file included from include/eigen3/Eigen/Core:271,
+                 from include/MutualInformationDiscrete.h:24,
+                 from MutualInformationDiscrete.cpp:21:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 1>, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 1>, 1>’
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:555:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::Array<double, -1, 1>, 3>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/PlainObjectBase.h:98:7:   required from ‘class Eigen::PlainObjectBase<Eigen::Array<double, -1, 1> >’
+include/eigen3/Eigen/src/Core/Array.h:45:7:   required from ‘class Eigen::Array<double, -1, 1>’
+MutualInformationDiscrete.cpp:49:13:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+   56 |                      >::type PacketReturnType;
+      |                              ^~~~~~~~~~~~~~~~
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘class Eigen::DenseCoeffsBase<Eigen::IndexedView<Eigen::Array<double, -1, 1>, std::vector<int>, Eigen::internal::SingleRange>, 0>’:
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:302:7:   required from ‘class Eigen::DenseCoeffsBase<Eigen::IndexedView<Eigen::Array<double, -1, 1>, std::vector<int>, Eigen::internal::SingleRange>, 1>’
+include/eigen3/Eigen/src/Core/DenseBase.h:41:34:   required from ‘class Eigen::DenseBase<Eigen::IndexedView<Eigen::Array<double, -1, 1>, std::vector<int>, Eigen::internal::SingleRange> >’
+include/eigen3/Eigen/src/Core/ArrayBase.h:39:34:   required from ‘class Eigen::ArrayBase<Eigen::IndexedView<Eigen::Array<double, -1, 1>, std::vector<int>, Eigen::internal::SingleRange> >’
+include/eigen3/Eigen/src/Core/IndexedView.h:153:7:   required from ‘class Eigen::IndexedViewImpl<Eigen::Array<double, -1, 1>, std::vector<int>, Eigen::internal::SingleRange, Eigen::Dense>’
+include/eigen3/Eigen/src/Core/IndexedView.h:109:7:   required from ‘class Eigen::IndexedView<Eigen::Array<double, -1, 1>, std::vector<int>, Eigen::internal::SingleRange>’
+MutualInformationDiscrete.cpp:97:33:   required from here
+include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:56:30: warning: ignoring attributes on template argument ‘Eigen::internal::packet_traits<double>::type’ {aka ‘__m128d’} [-Wignored-attributes]
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c knn_mi_lib.c -o knn_mi_lib.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c registerDynamicSymbol.c -o registerDynamicSymbol.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o knnmi.so CondMutualInformation.o MI_Matrix.o MutualInformation.o MutualInformationBase.o MutualInformationDiscrete.o knn_mi_lib.o registerDynamicSymbol.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-knnmi/00new/knnmi/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘knnmi’ as ‘knnmi_1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (knnmi)
+* installing *source* package ‘misc3d’ ...
+** this is package ‘misc3d’ version ‘0.9-1’
+** package ‘misc3d’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: no DISPLAY variable so Tk is not available
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package can be loaded from final location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘misc3d’ as ‘misc3d_0.9-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (misc3d)
+* installing *source* package ‘ppcor’ ...
+** this is package ‘ppcor’ version ‘1.1’
+** package ‘ppcor’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ppcor’ as ‘ppcor_1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ppcor)
+* installing *source* package ‘pheatmap’ ...
+** this is package ‘pheatmap’ version ‘1.0.12’
+** package ‘pheatmap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pheatmap’ as ‘pheatmap_1.0.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pheatmap)
+* installing *source* package ‘foreach’ ...
+** this is package ‘foreach’ version ‘1.5.2’
+** package ‘foreach’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘foreach’ as ‘foreach_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (foreach)
+* installing *source* package ‘R.oo’ ...
+** this is package ‘R.oo’ version ‘1.27.1’
+** package ‘R.oo’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning in setGenericS3.default(name, export = exportGeneric, envir = envir,  :
+  Renamed the preexisting function getClasses to getClasses.default, which was defined in environment R.oo.
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘R.oo’ as ‘R.oo_1.27.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.oo)
+* installing *source* package ‘R.utils’ ...
+** this is package ‘R.utils’ version ‘2.13.0’
+** package ‘R.utils’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning in setGenericS3.default(name, export = exportGeneric, envir = envir,  :
+  Renamed the preexisting function warnings to warnings.default, which was defined in environment R.utils.
+Warning in setGenericS3.default("use") :
+  Renamed the preexisting function use to use.default, which was defined in environment R.utils.
+Warning in setMethodS3.default("use", "default", function(pkg = "R.utils",  :
+  Method already existed and was overwritten: use.default
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘R.utils’ as ‘R.utils_2.13.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.utils)
+* installing *source* package ‘doParallel’ ...
+** this is package ‘doParallel’ version ‘1.0.17’
+** package ‘doParallel’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘doParallel’ as ‘doParallel_1.0.17_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (doParallel)
+* installing *source* package ‘R.cache’ ...
+** this is package ‘R.cache’ version ‘0.17.0’
+** package ‘R.cache’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘R.cache’ as ‘R.cache_0.17.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.cache)
+* installing *source* package ‘CaDrA’ ...
+** this is package ‘CaDrA’ version ‘1.6.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c registerDynamicSymbol.c -o registerDynamicSymbol.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c score_fun.c -o score_fun.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o CaDrA.so registerDynamicSymbol.o score_fun.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-CaDrA/00new/CaDrA/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: no DISPLAY variable so Tk is not available
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: no DISPLAY variable so Tk is not available
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CaDrA’ as ‘CaDrA_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CaDrA)
+
+The downloaded source packages are in
+	‘/tmp/RtmpPcWfDC/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	1m18.790s
+user	1m3.436s
+sys	0m30.884s

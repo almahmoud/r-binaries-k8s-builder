@@ -1250,3 +1250,8 @@ epigenomix
 ginmappeR
 immunogenViewer
 moanin
+EGAD
+SIM
+biocGraph
+esetVis
+omicade4
