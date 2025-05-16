@@ -686,3 +686,8 @@ pvca
 scBubbletree
 sitePath
 tanggle
+NanoTube
+fobitools
+metapone
+piano
+sparseMatrixStats
