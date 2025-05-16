@@ -8,3 +8,4 @@ cisPath
 PhenStat
 RedisParam
 NormqPCR
+trigger
