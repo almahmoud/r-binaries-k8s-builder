@@ -1,0 +1,216 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''ShortRead'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'ShortRead'
+also installing the dependencies ‘bookdown’, ‘BiocStyle’, ‘RUnit’, ‘biomaRt’, ‘yeastNagalakshmi’
+
+trying URL 'https://cloud.r-project.org/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocStyle_2.36.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/RUnit_0.4.33.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/biomaRt_2.64.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/experiment/src/contrib/yeastNagalakshmi_1.44.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/ShortRead_1.66.0.tar.gz'
+* installing *source* package ‘bookdown’ ...
+** this is package ‘bookdown’ version ‘0.43’
+** package ‘bookdown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.43_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *source* package ‘RUnit’ ...
+** this is package ‘RUnit’ version ‘0.4.33’
+** package ‘RUnit’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RUnit’ as ‘RUnit_0.4.33_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RUnit)
+* installing *source* package ‘biomaRt’ ...
+** this is package ‘biomaRt’ version ‘2.64.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biomaRt’ as ‘biomaRt_2.64.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biomaRt)
+* installing *source* package ‘yeastNagalakshmi’ ...
+** this is package ‘yeastNagalakshmi’ version ‘1.44.0’
+** using staged installation
+** inst
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘yeastNagalakshmi’ as ‘yeastNagalakshmi_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (yeastNagalakshmi)
+* installing *source* package ‘ShortRead’ ...
+** this is package ‘ShortRead’ version ‘1.66.0’
+** using staged installation
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking for gzeof in -lz... yes
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking size of unsigned long... 8
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c Biostrings_stubs.c -o Biostrings_stubs.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c IRanges_stubs.c -o IRanges_stubs.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c R_init_ShortRead.c -o R_init_ShortRead.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c S4Vectors_stubs.c -o S4Vectors_stubs.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c XVector_stubs.c -o XVector_stubs.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c alphabet.c -o alphabet.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c count.c -o count.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c io.c -o io.o
+io.c: In function ‘read_prb_as_character’:
+io.c:227:38: warning: format ‘%f’ expects argument of type ‘double’, but argument 2 has type ‘const char *’ [-Wformat=]
+  227 |         error("could not read file '%f'", translateChar(STRING_ELT(fname, 0)));
+      |                                     ~^
+      |                                      |
+      |                                      double
+      |                                     %s
+io.c: In function ‘_read_solexa_export_file’:
+io.c:658:49: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int’ [-Wformat=]
+  658 |                 error("invalid 'strand' field '%s', %s:%d",
+      |                                                ~^
+      |                                                 |
+      |                                                 char *
+      |                                                %d
+  659 |                       *elt[13], fname, lineno);
+      |                       ~~~~~~~~                   
+      |                       |
+      |                       int
+io.c:676:48: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int’ [-Wformat=]
+  676 |             error("invalid 'filtering' field '%s', %s:%d",
+      |                                               ~^
+      |                                                |
+      |                                                char *
+      |                                               %d
+  677 |                   *elt[21], fname, lineno);
+      |                   ~~~~~~~~                      
+      |                   |
+      |                   int
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c io_bowtie.c -o io_bowtie.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c io_soap.c -o io_soap.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DHAVE_LIBZ=1 -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DSIZEOF_UNSIGNED_LONG=8 -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c readBfaToc.cc -o readBfaToc.o
+readBfaToc.cc: In function ‘SEXPREC* readBfaToc(SEXP)’:
+readBfaToc.cc:35:19: warning: ignoring return value of ‘size_t fread(void*, size_t, size_t, FILE*)’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+   35 |       (void) fread( seq_name, sizeof(char), name_len, fp );
+      |              ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+readBfaToc.cc:36:19: warning: ignoring return value of ‘size_t fread(void*, size_t, size_t, FILE*)’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+   36 |       (void) fread( &seq_ori_len, sizeof(int), 1, fp );
+      |              ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+readBfaToc.cc:37:19: warning: ignoring return value of ‘size_t fread(void*, size_t, size_t, FILE*)’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+   37 |       (void) fread( &seq_len, sizeof(int), 1, fp );
+      |              ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DHAVE_LIBZ=1 -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DSIZEOF_UNSIGNED_LONG=8 -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c read_maq_map.cc -o read_maq_map.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sampler.c -o sampler.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c trim.c -o trim.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c util.c -o util.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c xsnap.c -o xsnap.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o ShortRead.so Biostrings_stubs.o IRanges_stubs.o R_init_ShortRead.o S4Vectors_stubs.o XVector_stubs.o alphabet.o count.o io.o io_bowtie.o io_soap.o readBfaToc.o read_maq_map.o sampler.o trim.o util.o xsnap.o -lz -fopenmp -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-ShortRead/00new/ShortRead/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ShortRead’ as ‘ShortRead_1.66.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ShortRead)
+* installing *source* package ‘BiocStyle’ ...
+** this is package ‘BiocStyle’ version ‘2.36.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+
+The downloaded source packages are in
+	‘/tmp/RtmppSrY1m/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	1m17.805s
+user	1m3.582s
+sys	0m20.420s
