@@ -2,11 +2,14 @@
 
 **Run ID:** 2025-05-14-09-46-50
 
+**Cycle Duration:** 2025 05 14:09:46:50 EST → 2025-05-16 11:33:37 EST
+
 ## Summary
 
 - 2179 packages built successfully
 - 14 packages failed to build
 - 4 packages not yet processed
+-  total packages in repository index
 
 ## Failed Builds (14)
 | Package                                                                            | Status   | Log                                     | BBS Status                                                                   | Failure Reasons                                                  |
