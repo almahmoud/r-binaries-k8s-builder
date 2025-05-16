@@ -2,3 +2,5 @@ graper
 HilbertVis
 gpuMagic
 RbowtieCuda
+genoCN
+hypeR

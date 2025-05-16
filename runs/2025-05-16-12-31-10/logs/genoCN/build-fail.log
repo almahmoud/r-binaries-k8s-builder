@@ -1,0 +1,166 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''genoCN'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'genoCN'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/genoCN_1.59.0.tar.gz'
+Content type 'application/x-gzip' length 1193706 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+* installing *source* package ‘genoCN’ ...
+** this is package ‘genoCN’ version ‘1.59.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tnorm_mle.c -o tnorm_mle.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c utility.c -o utility.o
+utility.c: In function ‘readfile’:
+utility.c:155:13: warning: ignoring return value of ‘fscanf’ declared with attribute ‘warn_unused_result’ [-Wunused-result]
+  155 |             fscanf(file,"%s",temp);
+      |             ^~~~~~~~~~~~~~~~~~~~~~
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c xCNV.c -o xCNV.o
+xCNV.c: In function ‘viterbi’:
+xCNV.c:449:25: warning: implicit declaration of function ‘Calloc’; did you mean ‘calloc’? [-Wimplicit-function-declaration]
+  449 |     trans1 = (double**) Calloc(N, double*);
+      |                         ^~~~~~
+      |                         calloc
+xCNV.c:449:35: error: expected expression before ‘double’
+  449 |     trans1 = (double**) Calloc(N, double*);
+      |                                   ^~~~~~
+xCNV.c:450:39: error: expected expression before ‘double’
+  450 |     trans1[0] = (double*) Calloc(N*N, double);
+      |                                       ^~~~~~
+xCNV.c:455:33: error: expected expression before ‘double’
+  455 |     v_old = (double *)Calloc(N, double);
+      |                                 ^~~~~~
+xCNV.c:456:33: error: expected expression before ‘double’
+  456 |     v_new = (double *)Calloc(N, double);
+      |                                 ^~~~~~
+xCNV.c:458:32: error: expected expression before ‘int’
+  458 |     path_m = (int**) Calloc(L, int*);
+      |                                ^~~
+xCNV.c:459:36: error: expected expression before ‘int’
+  459 |     path_m[0] = (int*) Calloc(L*N, int);
+      |                                    ^~~
+xCNV.c:464:31: error: expected expression before ‘double’
+  464 |     tmp = (double *)Calloc(N, double);
+      |                               ^~~~~~
+xCNV.c:532:5: warning: implicit declaration of function ‘Free’; did you mean ‘free’? [-Wimplicit-function-declaration]
+  532 |     Free(v_old);
+      |     ^~~~
+      |     free
+xCNV.c: In function ‘forward’:
+xCNV.c:579:29: error: expected expression before ‘double’
+  579 |     v = (double *)Calloc(N, double);
+      |                             ^~~~~~
+xCNV.c:581:35: error: expected expression before ‘double’
+  581 |     trans1 = (double**) Calloc(N, double*);
+      |                                   ^~~~~~
+xCNV.c:582:39: error: expected expression before ‘double’
+  582 |     trans1[0] = (double*) Calloc(N*N, double);
+      |                                       ^~~~~~
+xCNV.c: In function ‘backward’:
+xCNV.c:652:29: error: expected expression before ‘double’
+  652 |     v = (double *)Calloc(N, double);
+      |                             ^~~~~~
+xCNV.c:654:35: error: expected expression before ‘double’
+  654 |     trans1 = (double**) Calloc(N, double*);
+      |                                   ^~~~~~
+xCNV.c:655:39: error: expected expression before ‘double’
+  655 |     trans1[0] = (double*) Calloc(N*N, double);
+      |                                       ^~~~~~
+xCNV.c: In function ‘baum_welch’:
+xCNV.c:878:34: error: expected expression before ‘double’
+  878 |   dis    = (double *)Calloc(L-1, double);
+      |                                  ^~~~~~
+xCNV.c:879:34: error: expected expression before ‘double’
+  879 |   vjk    = (double *)Calloc(L-1, double);
+      |                                  ^~~~~~
+xCNV.c:880:33: error: expected expression before ‘double’
+  880 |   vjk0   = (double *)Calloc(LS, double);
+      |                                 ^~~~~~
+xCNV.c:881:32: error: expected expression before ‘double’
+  881 |   lvjk   = (double *)Calloc(N, double);
+      |                                ^~~~~~
+xCNV.c:882:34: error: expected expression before ‘double’
+  882 |   lvjk_j = (double *)Calloc(N-1, double);
+      |                                  ^~~~~~
+xCNV.c:883:32: error: expected expression before ‘double’
+  883 |   ps     = (double *)Calloc(L, double);
+      |                                ^~~~~~
+xCNV.c:886:30: error: expected expression before ‘double’
+  886 |   rUS  = (double *)Calloc(N, double);
+      |                              ^~~~~~
+xCNV.c:887:30: error: expected expression before ‘double’
+  887 |   pPS  = (double *)Calloc(N, double);
+      |                              ^~~~~~
+xCNV.c:888:30: error: expected expression before ‘double’
+  888 |   rNcb = (double *)Calloc(L, double);
+      |                              ^~~~~~
+xCNV.c:891:33: error: expected expression before ‘double’
+  891 |   rUS_cn  = (double *)Calloc(N, double);
+      |                                 ^~~~~~
+xCNV.c:892:33: error: expected expression before ‘double’
+  892 |   pPS_cn  = (double *)Calloc(N, double);
+      |                                 ^~~~~~
+xCNV.c:895:31: error: expected expression before ‘double’
+  895 |   bUS   = (double *)Calloc(N, double);
+      |                               ^~~~~~
+xCNV.c:896:28: error: expected expression before ‘int’
+  896 |   Omiga = (int *)Calloc(L, int);
+      |                            ^~~
+xCNV.c:897:31: error: expected expression before ‘double’
+  897 |   BAF01 = (double *)Calloc(L, double);
+      |                               ^~~~~~
+xCNV.c:898:31: error: expected expression before ‘double’
+  898 |   bNcb  = (double *)Calloc(L, double);
+      |                               ^~~~~~
+xCNV.c:904:30: error: expected expression before ‘double’
+  904 |   rU  = (double**) Calloc(L, double*);
+      |                              ^~~~~~
+xCNV.c:905:33: error: expected expression before ‘double’
+  905 |   rU[0] = (double*) Calloc(L*N, double);
+      |                                 ^~~~~~
+xCNV.c:914:30: error: expected expression before ‘double’
+  914 |   rN  = (double**) Calloc(L, double*);
+      |                              ^~~~~~
+xCNV.c:915:33: error: expected expression before ‘double’
+  915 |   rN[0] = (double*) Calloc(L*N, double);
+      |                                 ^~~~~~
+xCNV.c:922:30: error: expected expression before ‘double’
+  922 |   bU  = (double**) Calloc(L, double*);
+      |                              ^~~~~~
+xCNV.c:923:33: error: expected expression before ‘double’
+  923 |   bU[0] = (double*) Calloc(L*N, double);
+      |                                 ^~~~~~
+xCNV.c:930:30: error: expected expression before ‘double’
+  930 |   bN  = (double**) Calloc(L, double*);
+      |                              ^~~~~~
+xCNV.c:931:34: error: expected expression before ‘double’
+  931 |   bN[0] = (double*) Calloc(L*MM, double);
+      |                                  ^~~~~~
+make: *** [/usr/lib/R/etc/Makeconf:202: xCNV.o] Error 1
+ERROR: compilation failed for package ‘genoCN’
+* removing ‘/usr/local/lib/R/site-library/genoCN’
+
+The downloaded source packages are in
+	‘/tmp/Rtmpk1Vkrt/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+Warning message:
+In install.packages(...) :
+  installation of package ‘genoCN’ had non-zero exit status
+
+real	0m4.876s
+user	0m2.943s
+sys	0m1.208s
