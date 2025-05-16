@@ -734,3 +734,12 @@ nucleoSim
 paircompviz
 qckitfastq
 snifter
+BiGGR
+BiocCheck
+BiocPkgTools
+CRImage
+GenomeInfoDb
+Polytect
+RcwlPipelines
+SparseArray
+monocle

@@ -4,3 +4,4 @@ gpuMagic
 RbowtieCuda
 genoCN
 hypeR
+cisPath
