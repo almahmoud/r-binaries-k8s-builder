@@ -1303,3 +1303,7 @@ enrichplot
 panelcn.mops
 ADAMgui
 phantasusLite
+GSEABenchmarkeR
+dce
+nempi
+zenith
