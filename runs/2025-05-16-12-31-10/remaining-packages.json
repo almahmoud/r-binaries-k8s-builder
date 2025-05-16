@@ -562,8 +562,6 @@
     "SingleCellExperiment"
   ],
   "DEWSeq": [],
-  "DEXSeq": [],
-  "DEsubs": [],
   "DExMA": [],
   "DMCFB": [
     "rtracklayer"
@@ -710,7 +708,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "ERSSA": [],
   "EWCE": [
     "SingleCellExperiment"
   ],
@@ -807,7 +804,6 @@
   ],
   "GARS": [
     "DaMiRseq",
-    "MLSeq",
     "EDASeq",
     "ShortRead",
     "GenomicFeatures",
@@ -960,7 +956,6 @@
   "HIPPO": [
     "SingleCellExperiment"
   ],
-  "HTSFilter": [],
   "Harshlight": [],
   "HelloRanges": [
     "BSgenome",
@@ -1010,7 +1005,6 @@
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "HybridExpress": [],
   "ILoReg": [
     "SingleCellExperiment"
   ],
@@ -1059,14 +1053,12 @@
     "GenomicFiles",
     "GenomicFeatures",
     "txdbmaker",
-    "DEXSeq",
     "rtracklayer",
     "VariantAnnotation",
     "BSgenome"
   ],
   "InterCellar": [],
   "IsoformSwitchAnalyzeR": [
-    "DEXSeq",
     "satuRn",
     "BSgenome",
     "rtracklayer",
@@ -1172,7 +1164,6 @@
     "rtracklayer"
   ],
   "MIRit": [],
-  "MLSeq": [],
   "MMDiff2": [
     "BSgenome",
     "rtracklayer"
@@ -1328,7 +1319,6 @@
     "TFBSTools",
     "VariantAnnotation"
   ],
-  "NBAMSeq": [],
   "NanoMethViz": [
     "bsseq",
     "BSgenome",
@@ -1442,7 +1432,6 @@
     "CoreGx"
   ],
   "PhenStat": [],
-  "PhosR": [],
   "Pigengene": [
     "ReactomePA"
   ],
@@ -1547,8 +1536,7 @@
     "GenomicFeatures"
   ],
   "RFLOMICS": [
-    "coseq",
-    "HTSFilter"
+    "coseq"
   ],
   "RITAN": [
     "BgeeDB",
@@ -1655,7 +1643,6 @@
   "RcisTarget": [],
   "ReactomePA": [],
   "RedisParam": [],
-  "ReducedExperiment": [],
   "RegEnrich": [],
   "RegionalST": [
     "scater",
@@ -2383,9 +2370,7 @@
     "regioneR",
     "txdbmaker"
   ],
-  "blacksheepr": [
-    "DEXSeq"
-  ],
+  "blacksheepr": [],
   "blima": [],
   "bnbc": [],
   "bnem": [],
@@ -2661,9 +2646,7 @@
   "corral": [
     "SingleCellExperiment"
   ],
-  "coseq": [
-    "HTSFilter"
-  ],
+  "coseq": [],
   "cosmiq": [
     "xcms",
     "MSnbase",
@@ -2866,7 +2849,6 @@
     "rtracklayer"
   ],
   "diffUTR": [
-    "DEXSeq",
     "rtracklayer",
     "ensembldb",
     "GenomicFeatures"
@@ -3833,9 +3815,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "pairedGSEA": [
-    "DEXSeq"
-  ],
+  "pairedGSEA": [],
   "partCNV": [
     "SingleCellExperiment"
   ],
@@ -4119,7 +4099,6 @@
   "saseR": [
     "ASpli",
     "GenomicFeatures",
-    "DEXSeq",
     "Gviz",
     "txdbmaker",
     "rtracklayer",
@@ -4830,6 +4809,5 @@
   ],
   "zinbwave": [
     "SingleCellExperiment"
-  ],
-  "zitools": []
+  ]
 }

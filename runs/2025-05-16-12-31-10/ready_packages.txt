@@ -1,6 +1,3 @@
-LymphoSeq
-broadSeq
-gDRcore
-isomiRs
-odseq
-surfaltr
+blacksheepr
+coseq
+pairedGSEA

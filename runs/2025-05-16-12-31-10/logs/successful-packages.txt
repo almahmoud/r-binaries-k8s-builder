@@ -1255,3 +1255,13 @@ omicRexposome
 PanomiR
 terapadog
 tRanslatome
+DEsubs
+DEXSeq
+ERSSA
+HTSFilter
+HybridExpress
+MLSeq
+NBAMSeq
+PhosR
+ReducedExperiment
+zitools
