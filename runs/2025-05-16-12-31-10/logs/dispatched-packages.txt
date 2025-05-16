@@ -1625,3 +1625,5 @@ waddR
 xCell2
 zellkonverter
 zinbwave
+censcyt
+treekoR

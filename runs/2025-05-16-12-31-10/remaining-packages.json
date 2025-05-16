@@ -2,7 +2,6 @@
   "ACE": [
     "QDNAseq"
   ],
-  "ADImpute": [],
   "AHMassBank": [
     "AnnotationHubData",
     "GenomicFeatures",
@@ -1178,7 +1177,6 @@
     "txdbmaker",
     "rtracklayer"
   ],
-  "OncoScore": [],
   "Organism.dplyr": [
     "GenomicFeatures",
     "rtracklayer"
@@ -1629,7 +1627,6 @@
     "SpatialExperiment",
     "scuttle"
   ],
-  "SpectralTAD": [],
   "SpliceWiz": [
     "BSgenome",
     "rtracklayer"
@@ -1650,8 +1647,7 @@
   ],
   "Statial": [
     "SpatialExperiment",
-    "treekoR",
-    "diffcyt"
+    "treekoR"
   ],
   "StructuralVariantAnnotation": [
     "rtracklayer",
@@ -1663,7 +1659,6 @@
     "SPsimSeq",
     "TCGAbiolinks"
   ],
-  "TADCompare": [],
   "TAPseq": [
     "BSgenome",
     "GenomicFeatures",
@@ -1872,13 +1867,11 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "aggregateBioVar": [],
   "airpart": [
     "scater",
     "scuttle"
   ],
   "alabaster": [
-    "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
     "alabaster.mae",
@@ -1890,18 +1883,15 @@
   ],
   "alabaster.files": [],
   "alabaster.mae": [],
-  "alabaster.sce": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
-    "alabaster.sce",
     "alabaster.spatial",
     "SpatialExperiment",
     "DropletUtils",
     "scuttle"
   ],
   "alabaster.spatial": [
-    "SpatialExperiment",
-    "alabaster.sce"
+    "SpatialExperiment"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
@@ -1962,7 +1952,6 @@
   "batchelor": [
     "scuttle"
   ],
-  "bayNorm": [],
   "baySeq": [],
   "beachmat.hdf5": [],
   "bedbaser": [
@@ -2101,9 +2090,7 @@
     "scuttle"
   ],
   "cellbaseR": [],
-  "censcyt": [
-    "diffcyt"
-  ],
+  "censcyt": [],
   "cfDNAPro": [
     "plyranges",
     "BSgenome",
@@ -2453,7 +2440,6 @@
     "GenomicFeatures"
   ],
   "diffcoexp": [],
-  "diffcyt": [],
   "distinct": [
     "scater",
     "scuttle"
@@ -2500,7 +2486,6 @@
   "epidecodeR": [
     "rtracklayer"
   ],
-  "epigenomix": [],
   "epigraHMM": [
     "rtracklayer",
     "bamsignals",
@@ -2748,7 +2733,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "hdxmsqc": [],
   "hiAnnotator": [
     "rtracklayer",
     "BSgenome"
@@ -3333,7 +3317,6 @@
   "poem": [
     "SpatialExperiment"
   ],
-  "pogos": [],
   "pram": [
     "rtracklayer"
   ],
@@ -3517,7 +3500,6 @@
   "roar": [
     "rtracklayer"
   ],
-  "rprimer": [],
   "rtracklayer": [],
   "sRACIPE": [],
   "sampleClassifier": [
@@ -3629,7 +3611,6 @@
   "scater": [
     "scuttle"
   ],
-  "sccomp": [],
   "scds": [],
   "schex": [],
   "scider": [
@@ -3777,8 +3758,7 @@
     "GenomicFeatures",
     "rtracklayer",
     "SpatialExperiment",
-    "M3Drop",
-    "alabaster.sce"
+    "M3Drop"
   ],
   "sitadela": [
     "GenomicFeatures",
@@ -3993,12 +3973,9 @@
     "rtracklayer"
   ],
   "treeclimbR": [
-    "TreeSummarizedExperiment",
-    "diffcyt"
+    "TreeSummarizedExperiment"
   ],
-  "treekoR": [
-    "diffcyt"
-  ],
+  "treekoR": [],
   "tricycle": [
     "scater",
     "scuttle"

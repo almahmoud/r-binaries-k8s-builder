@@ -1397,3 +1397,16 @@ splineTimeR
 survClust
 ToxicoGx
 VplotR
+ADImpute
+aggregateBioVar
+alabaster.sce
+bayNorm
+diffcyt
+epigenomix
+hdxmsqc
+OncoScore
+pogos
+rprimer
+sccomp
+SpectralTAD
+TADCompare
