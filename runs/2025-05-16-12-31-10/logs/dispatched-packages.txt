@@ -612,3 +612,17 @@ timecourse
 tweeDEseq
 twoddpcr
 updateObject
+ChemmineOB
+DeconRNASeq
+Rfastp
+SIMAT
+TargetDecoy
+diggit
+maftools
+msPurity
+ndexr
+rexposome
+scde
+seqTools
+snpStats
+synlet

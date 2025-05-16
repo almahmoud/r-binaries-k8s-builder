@@ -1,2 +1,3 @@
 graper
 HilbertVis
+gpuMagic
