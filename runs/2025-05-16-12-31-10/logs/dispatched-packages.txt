@@ -1026,3 +1026,12 @@ flowDensity
 flowFP
 gatom
 optimalFlow
+ExperimentHub
+GenomicScores
+cTRAP
+customCMPdb
+flowMerge
+flowTrans
+ipdDb
+rGenomeTracks
+tRNA
