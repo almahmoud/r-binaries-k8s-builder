@@ -6,13 +6,11 @@
   ],
   "ADAM": [
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "ADAMgui": [
     "ADAM",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "ADAPT": [
@@ -26,13 +24,11 @@
   "ADaCGH2": [
     "tilingArray",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "AGDEX": [
     "GSEABase",
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "AHMassBank": [
     "AnnotationHubData",
@@ -41,7 +37,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "AnnotationDbi",
     "OrganismDbi",
     "AnnotationForge",
     "txdbmaker",
@@ -58,8 +53,7 @@
     "AnnotationHub",
     "ExperimentHub",
     "SummarizedExperiment",
-    "GenomicRanges",
-    "AnnotationDbi"
+    "GenomicRanges"
   ],
   "APAlyzer": [
     "GenomicRanges",
@@ -70,14 +64,12 @@
     "rtracklayer",
     "VariantAnnotation",
     "Rsamtools",
-    "AnnotationDbi",
     "BSgenome"
   ],
   "APL": [
     "SingleCellExperiment",
     "SummarizedExperiment",
     "topGO",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "ASICS": [
@@ -90,7 +82,6 @@
   "ASSIGN": [
     "sva",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "ASURAT": [
@@ -99,7 +90,6 @@
     "GenomicRanges"
   ],
   "ASpli": [
-    "AnnotationDbi",
     "GenomicRanges",
     "GenomicFeatures",
     "GenomicAlignments",
@@ -124,7 +114,6 @@
     "Rsamtools",
     "rtracklayer",
     "motifStack",
-    "AnnotationDbi",
     "pwalign",
     "GenomicFeatures",
     "SummarizedExperiment",
@@ -151,7 +140,6 @@
     "GSEABase",
     "SummarizedExperiment",
     "annotate",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "AffiXcan": [
@@ -162,8 +150,6 @@
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
-    "gcrma",
-    "AnnotationDbi",
     "oligoClasses",
     "ReportingTools",
     "Glimma",
@@ -193,7 +179,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomicAlignments",
-    "AnnotationDbi",
     "BSgenome",
     "VariantAnnotation",
     "Rsamtools",
@@ -217,23 +202,17 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "AnnotationDbi": [],
   "AnnotationFilter": [
     "GenomicRanges"
   ],
-  "AnnotationForge": [
-    "AnnotationDbi"
-  ],
-  "AnnotationHub": [
-    "AnnotationDbi"
-  ],
+  "AnnotationForge": [],
+  "AnnotationHub": [],
   "AnnotationHubData": [
     "GenomicRanges",
     "AnnotationHub",
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "AnnotationDbi",
     "OrganismDbi",
     "AnnotationForge",
     "txdbmaker",
@@ -277,7 +256,6 @@
     "VariantAnnotation",
     "Rsamtools",
     "GenomicRanges",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -298,12 +276,10 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "BLMA": [
-    "PADOG",
-    "AnnotationDbi"
+    "PADOG"
   ],
   "BOBaFIT": [
     "ggbio",
@@ -319,7 +295,6 @@
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationDbi",
     "AnnotationFilter",
     "txdbmaker",
     "biomaRt"
@@ -354,7 +329,6 @@
     "GenomicRanges"
   ],
   "BUSpaRse": [
-    "AnnotationDbi",
     "AnnotationFilter",
     "biomaRt",
     "BSgenome",
@@ -383,7 +357,6 @@
     "Rsamtools",
     "biomaRt",
     "GenomicRanges",
-    "AnnotationDbi",
     "SummarizedExperiment",
     "rtracklayer",
     "BSgenome",
@@ -420,7 +393,6 @@
     "scuttle",
     "BiocSingular",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "BatchSVG": [
@@ -444,7 +416,6 @@
     "rtracklayer",
     "biomaRt",
     "txdbmaker",
-    "AnnotationDbi",
     "GenomicRanges",
     "Rsamtools",
     "GenomicAlignments",
@@ -453,7 +424,6 @@
   "BgeeDB": [
     "topGO",
     "zellkonverter",
-    "AnnotationDbi",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "GenomicRanges"
@@ -466,48 +436,39 @@
     "SummarizedExperiment",
     "rtracklayer",
     "globaltest",
-    "AnnotationDbi",
     "annotate",
     "Rsamtools",
     "GenomicAlignments"
   ],
   "BicARE": [
     "GSEABase",
-    "AnnotationDbi",
     "annotate"
   ],
   "BindingSiteFinder": [
     "GenomicRanges",
     "rtracklayer",
     "GenomicFeatures",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
   "BioCor": [
     "GSEABase",
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "BioGA": [
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "BioNAR": [
-    "AnnotationDbi"
-  ],
+  "BioNAR": [],
   "BioNERO": [
     "sva",
     "SummarizedExperiment",
     "GenomicRanges",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
-  "BioNet": [
-    "AnnotationDbi"
-  ],
+  "BioNet": [],
   "BioTIP": [
     "GenomicRanges",
     "scran",
@@ -518,12 +479,9 @@
   ],
   "BiocHubsShiny": [
     "AnnotationHub",
-    "ExperimentHub",
-    "AnnotationDbi"
+    "ExperimentHub"
   ],
-  "BiocSet": [
-    "AnnotationDbi"
-  ],
+  "BiocSet": [],
   "BiocSingular": [],
   "BiocSklearn": [
     "SummarizedExperiment",
@@ -533,8 +491,7 @@
     "SummarizedExperiment",
     "ExperimentHub",
     "AnnotationHub",
-    "GenomicRanges",
-    "AnnotationDbi"
+    "GenomicRanges"
   ],
   "BreastSubtypeR": [
     "SummarizedExperiment",
@@ -547,7 +504,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "GenomicFeatures",
-    "AnnotationDbi",
     "VariantAnnotation",
     "ensembldb",
     "AnnotationFilter",
@@ -555,7 +511,6 @@
     "BSgenome"
   ],
   "BulkSignalR": [
-    "orthogene",
     "SpatialExperiment",
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -570,7 +525,6 @@
     "GenomicRanges",
     "ggbio",
     "annotate",
-    "AnnotationDbi",
     "SummarizedExperiment",
     "Rsamtools",
     "GenomicAlignments",
@@ -595,7 +549,6 @@
     "InteractionSet",
     "GenomicInteractions",
     "Rsamtools",
-    "AnnotationDbi",
     "VariantAnnotation",
     "biomaRt",
     "ensembldb",
@@ -617,7 +570,6 @@
     "Gviz",
     "InteractionSet",
     "GenomicInteractions",
-    "AnnotationDbi",
     "VariantAnnotation",
     "biomaRt",
     "ensembldb",
@@ -655,7 +607,6 @@
     "clusterProfiler",
     "enrichplot",
     "ExperimentHub",
-    "AnnotationDbi",
     "DOSE",
     "GOSemSim",
     "AnnotationHub"
@@ -665,7 +616,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -674,8 +624,7 @@
   "CCPROMISE": [
     "PROMISE",
     "GSEABase",
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "CDI": [
     "SingleCellExperiment",
@@ -684,7 +633,6 @@
   ],
   "CEMiTool": [
     "clusterProfiler",
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim"
@@ -695,8 +643,7 @@
     "GenomicRanges"
   ],
   "CHRONOS": [
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "CINdex": [
     "GenomicRanges"
@@ -707,13 +654,11 @@
     "rtracklayer",
     "GenomicAlignments",
     "annotate",
-    "AnnotationDbi",
     "SummarizedExperiment",
     "Rsamtools"
   ],
   "CNTools": [
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "CNVMetrics": [
@@ -743,7 +688,6 @@
     "biovizBase",
     "GenomicFeatures",
     "bamsignals",
-    "AnnotationDbi",
     "BSgenome",
     "GenomicAlignments",
     "ensembldb",
@@ -762,7 +706,6 @@
     "biovizBase",
     "GenomicFeatures",
     "bamsignals",
-    "AnnotationDbi",
     "GenomicAlignments",
     "ensembldb",
     "AnnotationFilter",
@@ -773,7 +716,6 @@
     "Rsamtools",
     "GenomicRanges",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -826,7 +768,6 @@
     "GenomicRanges",
     "rtracklayer",
     "Rsamtools",
-    "AnnotationDbi",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
@@ -839,8 +780,7 @@
     "rtracklayer",
     "GenomicAlignments",
     "GenomicFeatures",
-    "Rsamtools",
-    "AnnotationDbi"
+    "Rsamtools"
   ],
   "CTSV": [
     "SpatialExperiment",
@@ -850,8 +790,7 @@
   ],
   "CTdata": [
     "ExperimentHub",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "CTexploreR": [
     "CTdata",
@@ -859,8 +798,7 @@
     "GenomicRanges",
     "SingleCellExperiment",
     "ExperimentHub",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "CaDrA": [
     "SummarizedExperiment",
@@ -869,13 +807,11 @@
   "CaMutQC": [
     "clusterProfiler",
     "MesKit",
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim"
   ],
   "Category": [
-    "AnnotationDbi",
     "GSEABase",
     "genefilter",
     "annotate"
@@ -890,7 +826,6 @@
     "clusterProfiler",
     "DESeq2",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim",
@@ -939,7 +874,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "annotate",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "CexoR": [
@@ -963,7 +897,6 @@
     "GenomicRanges",
     "bumphunter",
     "GenomicFeatures",
-    "AnnotationDbi",
     "AnnotationHub",
     "ExperimentHub",
     "bsseq",
@@ -1006,7 +939,6 @@
     "DESeq2",
     "apeglm",
     "GreyListChIP",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "pwalign"
@@ -1034,7 +966,6 @@
     "biovizBase",
     "SummarizedExperiment",
     "GenomicFeatures",
-    "AnnotationDbi",
     "VariantAnnotation",
     "ensembldb",
     "AnnotationFilter",
@@ -1043,7 +974,6 @@
   ],
   "ChIPpeakAnno": [
     "GenomicRanges",
-    "AnnotationDbi",
     "pwalign",
     "GenomicAlignments",
     "GenomicFeatures",
@@ -1058,7 +988,6 @@
     "BSgenome"
   ],
   "ChIPseeker": [
-    "AnnotationDbi",
     "enrichplot",
     "GenomicRanges",
     "GenomicFeatures",
@@ -1088,7 +1017,6 @@
   ],
   "ChromHeatMap": [
     "annotate",
-    "AnnotationDbi",
     "rtracklayer",
     "GenomicRanges",
     "Rsamtools",
@@ -1119,7 +1047,6 @@
     "GenomicAlignments",
     "pwalign",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
     "biomaRt"
@@ -1135,7 +1062,6 @@
   "ClassifyR": [
     "MultiAssayExperiment",
     "genefilter",
-    "AnnotationDbi",
     "annotate",
     "SummarizedExperiment",
     "GenomicRanges"
@@ -1151,7 +1077,6 @@
     "SummarizedExperiment",
     "rtracklayer",
     "GenomicFeatures",
-    "AnnotationDbi",
     "sva",
     "GenomicAlignments",
     "genefilter",
@@ -1171,9 +1096,7 @@
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "CoCiteStats": [
-    "AnnotationDbi"
-  ],
+  "CoCiteStats": [],
   "CoGAPS": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -1181,14 +1104,12 @@
   ],
   "CoSIA": [
     "ExperimentHub",
-    "AnnotationDbi",
     "biomaRt",
     "AnnotationHub"
   ],
   "Cogito": [
     "GenomicRanges",
     "GenomicFeatures",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -1210,7 +1131,6 @@
     "biovizBase",
     "GenomicFeatures",
     "bamsignals",
-    "AnnotationDbi",
     "BSgenome",
     "GenomicAlignments",
     "ensembldb",
@@ -1229,7 +1149,6 @@
     "SummarizedExperiment"
   ],
   "CrispRVariants": [
-    "AnnotationDbi",
     "GenomicAlignments",
     "GenomicRanges",
     "Rsamtools",
@@ -1276,7 +1195,6 @@
     "Rsamtools",
     "bumphunter",
     "GenomicFeatures",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome"
   ],
@@ -1294,7 +1212,6 @@
     "GenomicRanges",
     "SummarizedExperiment"
   ],
-  "DEGraph": [],
   "DEGreport": [
     "DESeq2",
     "SummarizedExperiment",
@@ -1320,7 +1237,6 @@
     "GenomicAlignments",
     "rtracklayer",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "pwalign",
     "GenomicFeatures",
     "Rsamtools",
@@ -1351,7 +1267,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "DESeq2",
-    "AnnotationDbi",
     "biomaRt",
     "Rsamtools",
     "geneplotter",
@@ -1368,7 +1283,6 @@
     "sva",
     "SummarizedExperiment",
     "genefilter",
-    "AnnotationDbi",
     "annotate",
     "GenomicRanges"
   ],
@@ -1402,7 +1316,6 @@
     "Gviz",
     "SummarizedExperiment",
     "biomaRt",
-    "AnnotationDbi",
     "BSgenome",
     "rtracklayer",
     "GenomicFeatures",
@@ -1425,14 +1338,12 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "rtracklayer"
   ],
   "DNAshapeR": [
     "GenomicRanges"
   ],
   "DOSE": [
-    "AnnotationDbi",
     "GOSemSim"
   ],
   "DRIMSeq": [
@@ -1456,7 +1367,6 @@
     "ShortRead",
     "Rsamtools",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "genefilter",
     "annotate",
@@ -1465,7 +1375,6 @@
     "pwalign"
   ],
   "Damsel": [
-    "AnnotationDbi",
     "GenomicFeatures",
     "GenomicRanges",
     "ggbio",
@@ -1492,7 +1401,6 @@
     "GenomicRanges",
     "genefilter",
     "BSgenome",
-    "AnnotationDbi",
     "annotate",
     "rtracklayer",
     "Rsamtools",
@@ -1504,7 +1412,6 @@
     "scran",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "scuttle",
     "BiocSingular",
     "GenomicRanges",
@@ -1516,15 +1423,13 @@
   ],
   "DeepTarget": [
     "ExperimentHub",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "DegCre": [
     "GenomicRanges",
     "InteractionSet",
     "plotgardener",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "plyranges",
     "GenomicFeatures",
     "rtracklayer",
@@ -1538,7 +1443,6 @@
     "GenomicAlignments",
     "GenomicRanges",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "rtracklayer",
     "biomaRt"
   ],
@@ -1583,7 +1487,6 @@
     "pwalign",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "AnnotationDbi",
     "GenomicRanges",
     "Rsamtools",
     "rtracklayer",
@@ -1602,7 +1505,6 @@
     "ArrayExpress",
     "GEOquery",
     "annotate",
-    "AnnotationDbi",
     "oligo",
     "SummarizedExperiment",
     "oligoClasses",
@@ -1621,7 +1523,6 @@
     "SummarizedExperiment",
     "Rsamtools",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "BSgenome",
@@ -1638,7 +1539,6 @@
     "ShortRead",
     "Rsamtools",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "GenomicRanges",
     "rtracklayer",
@@ -1658,7 +1558,6 @@
   ],
   "EGSEA": [
     "gage",
-    "AnnotationDbi",
     "topGO",
     "pathview",
     "PADOG",
@@ -1682,7 +1581,6 @@
     "SummarizedExperiment",
     "biomaRt",
     "rtracklayer",
-    "AnnotationDbi",
     "ensembldb",
     "BSgenome",
     "biovizBase",
@@ -1695,7 +1593,6 @@
     "GenomicFeatures",
     "GenomicRanges",
     "txdbmaker",
-    "AnnotationDbi",
     "rtracklayer",
     "biomaRt",
     "Rsamtools",
@@ -1709,7 +1606,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "genefilter",
-    "AnnotationDbi",
     "annotate",
     "GenomicRanges",
     "bumphunter",
@@ -1728,22 +1624,18 @@
   "EWCE": [
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "orthogene",
     "ExperimentHub",
     "GenomicRanges",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "EasyCellType": [
     "clusterProfiler",
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim"
   ],
   "EnrichDO": [
     "clusterProfiler",
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim"
@@ -1753,7 +1645,6 @@
   ],
   "EnrichmentBrowser": [
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GSEABase",
     "graphite",
     "pathview",
@@ -1767,7 +1658,6 @@
     "genomation",
     "GenomicRanges",
     "rtracklayer",
-    "AnnotationDbi",
     "enrichplot",
     "GenomicFeatures",
     "BSgenome",
@@ -1780,7 +1670,6 @@
   ],
   "EpiMix": [
     "AnnotationHub",
-    "AnnotationDbi",
     "biomaRt",
     "ExperimentHub",
     "GenomicFeatures",
@@ -1791,7 +1680,6 @@
     "GenomicAlignments"
   ],
   "EpiTxDb": [
-    "AnnotationDbi",
     "Modstrings",
     "GenomicFeatures",
     "txdbmaker",
@@ -1806,8 +1694,7 @@
   ],
   "EpipwR": [
     "ExperimentHub",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "EventPointer": [
     "SGSeq",
@@ -1817,7 +1704,6 @@
     "BSgenome",
     "rtracklayer",
     "Rsamtools",
-    "AnnotationDbi",
     "GenomicAlignments"
   ],
   "ExCluster": [
@@ -1828,8 +1714,7 @@
     "SummarizedExperiment"
   ],
   "ExperimentHub": [
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "ExperimentHubData": [
     "AnnotationHubData",
@@ -1839,7 +1724,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "AnnotationDbi",
     "OrganismDbi",
     "AnnotationForge",
     "txdbmaker",
@@ -1883,7 +1767,6 @@
     "scuttle",
     "scran",
     "BSgenome",
-    "AnnotationDbi",
     "biovizBase",
     "VariantAnnotation",
     "OrganismDbi",
@@ -1895,7 +1778,6 @@
   "FRASER": [
     "Rsamtools",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "biomaRt",
     "BSgenome",
     "GenomicAlignments",
@@ -1928,7 +1810,6 @@
     "GenomicFeatures",
     "SummarizedExperiment",
     "MultiAssayExperiment",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -1944,7 +1825,6 @@
     "VariantAnnotation",
     "SummarizedExperiment",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -1952,7 +1832,6 @@
   ],
   "GA4GHshiny": [
     "GA4GHclient",
-    "AnnotationDbi",
     "GenomicFeatures",
     "GenomicRanges",
     "VariantAnnotation",
@@ -1973,7 +1852,6 @@
     "ShortRead",
     "Rsamtools",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "genefilter",
     "annotate",
@@ -1992,7 +1870,6 @@
     "biomaRt",
     "pathview",
     "GenomicDataCommons",
-    "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
     "GenomicRanges",
@@ -2012,7 +1889,6 @@
     "GEOquery",
     "SummarizedExperiment",
     "genefilter",
-    "AnnotationDbi",
     "annotate",
     "GenomicRanges"
   ],
@@ -2035,16 +1911,13 @@
     "RTCGAToolbox",
     "SummarizedExperiment",
     "TCGAutils",
-    "AnnotationDbi",
     "GenomicFeatures",
     "GenomicDataCommons",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "GOSemSim": [
-    "AnnotationDbi"
-  ],
+  "GOSemSim": [],
   "GOTHiC": [
     "GenomicRanges",
     "BSgenome",
@@ -2056,22 +1929,18 @@
     "SummarizedExperiment"
   ],
   "GOexpress": [
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "GOfuncR": [
-    "GenomicRanges",
-    "AnnotationDbi"
+    "GenomicRanges"
   ],
   "GOpro": [
-    "AnnotationDbi",
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "GenomicRanges"
   ],
   "GOstats": [
     "Category",
-    "AnnotationDbi",
     "annotate",
     "AnnotationForge",
     "GSEABase",
@@ -2085,7 +1954,6 @@
     "topGO",
     "AnnotationHub",
     "ensembldb",
-    "AnnotationDbi",
     "GenomicFeatures",
     "AnnotationFilter",
     "rtracklayer",
@@ -2097,12 +1965,10 @@
     "GenomicRanges"
   ],
   "GSEABase": [
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "GSEABenchmarkeR": [
     "SummarizedExperiment",
-    "AnnotationDbi",
     "AnnotationHub",
     "EnrichmentBrowser",
     "ExperimentHub",
@@ -2116,12 +1982,10 @@
   "GSRI": [
     "genefilter",
     "GSEABase",
-    "AnnotationDbi",
     "annotate"
   ],
   "GSReg": [
     "GenomicFeatures",
-    "AnnotationDbi",
     "GenomicRanges",
     "rtracklayer",
     "OrganismDbi",
@@ -2138,7 +2002,6 @@
     "SpatialExperiment",
     "BiocSingular",
     "annotate",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "GUIDEseq": [
@@ -2151,7 +2014,6 @@
     "Rsamtools",
     "GenomicFeatures",
     "rtracklayer",
-    "AnnotationDbi",
     "SummarizedExperiment",
     "biomaRt",
     "InteractionSet",
@@ -2161,8 +2023,7 @@
   ],
   "GWENA": [
     "SummarizedExperiment",
-    "GenomicRanges",
-    "AnnotationDbi"
+    "GenomicRanges"
   ],
   "GateFinder": [
     "flowFP",
@@ -2171,7 +2032,6 @@
   "GeDi": [
     "GOSemSim",
     "GeneTonic",
-    "AnnotationDbi",
     "DESeq2",
     "mosdef",
     "SummarizedExperiment",
@@ -2189,7 +2049,6 @@
     "biomaRt"
   ],
   "GenVisR": [
-    "AnnotationDbi",
     "biomaRt",
     "GenomicFeatures",
     "GenomicRanges",
@@ -2211,7 +2070,6 @@
   ],
   "GeneMeta": [
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "GeneStructureTools": [
@@ -2220,7 +2078,6 @@
     "rtracklayer",
     "BSgenome",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "biovizBase",
@@ -2231,7 +2088,6 @@
     "AnnotationFilter"
   ],
   "GeneTonic": [
-    "AnnotationDbi",
     "DESeq2",
     "mosdef",
     "SummarizedExperiment",
@@ -2265,7 +2121,6 @@
   ],
   "GenomicFeatures": [
     "GenomicRanges",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -2278,12 +2133,10 @@
     "rtracklayer",
     "GenomicAlignments",
     "VariantAnnotation",
-    "AnnotationDbi",
     "BSgenome",
     "GenomicFeatures"
   ],
   "GenomicInteractionNodes": [
-    "AnnotationDbi",
     "GenomicRanges",
     "GenomicFeatures",
     "rtracklayer",
@@ -2298,7 +2151,6 @@
     "GenomicRanges",
     "Gviz",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "BSgenome",
@@ -2312,7 +2164,6 @@
     "GenomicRanges",
     "biomaRt",
     "ggbio",
-    "AnnotationDbi",
     "biovizBase",
     "SummarizedExperiment",
     "Rsamtools",
@@ -2339,14 +2190,12 @@
     "BSgenome",
     "seqPattern",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "biomaRt"
   ],
   "GenomicRanges": [],
   "GenomicScores": [
     "GenomicRanges",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "GenomicSuperSignature": [
     "SummarizedExperiment",
@@ -2355,14 +2204,11 @@
   "GenomicTuples": [
     "GenomicRanges"
   ],
-  "GeoDiff": [
-    "GeomxTools"
-  ],
+  "GeoDiff": [],
   "GeoTcgaData": [
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "GeomxTools": [],
   "Glimma": [
     "DESeq2",
     "SummarizedExperiment",
@@ -2376,11 +2222,9 @@
   "GlobalAncova": [
     "globaltest",
     "annotate",
-    "AnnotationDbi",
     "GSEABase"
   ],
   "GmicR": [
-    "AnnotationDbi",
     "Category",
     "GSEABase",
     "GOstats",
@@ -2402,7 +2246,6 @@
   "Guitar": [
     "GenomicFeatures",
     "rtracklayer",
-    "AnnotationDbi",
     "GenomicRanges",
     "Rsamtools",
     "GenomicAlignments",
@@ -2412,7 +2255,6 @@
     "GenomicRanges",
     "rtracklayer",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "BSgenome",
@@ -2442,7 +2284,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "Harshlight": [],
@@ -2454,8 +2295,7 @@
     "Rsamtools",
     "GenomicAlignments",
     "rtracklayer",
-    "SummarizedExperiment",
-    "AnnotationDbi"
+    "SummarizedExperiment"
   ],
   "HiCBricks": [
     "GenomicRanges"
@@ -2471,7 +2311,6 @@
     "SummarizedExperiment",
     "GenomicAlignments",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "biovizBase",
@@ -2516,7 +2355,6 @@
     "GenomicRanges",
     "GenomicFeatures",
     "BSgenome",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -2569,7 +2407,6 @@
     "GenomicFeatures",
     "IVAS",
     "GenomicRanges",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -2585,8 +2422,7 @@
     "Rsamtools",
     "DESeq2",
     "rtracklayer",
-    "SummarizedExperiment",
-    "AnnotationDbi"
+    "SummarizedExperiment"
   ],
   "IONiseR": [
     "ShortRead",
@@ -2622,7 +2458,6 @@
   "IVAS": [
     "GenomicFeatures",
     "GenomicRanges",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -2643,7 +2478,6 @@
     "GenomicRanges"
   ],
   "InPAS": [
-    "AnnotationDbi",
     "BSgenome",
     "cleanUpdTSeq",
     "GenomicRanges",
@@ -2672,7 +2506,6 @@
     "GenomicAlignments",
     "DEXSeq",
     "DESeq2",
-    "AnnotationDbi",
     "biomaRt",
     "geneplotter",
     "genefilter",
@@ -2682,8 +2515,7 @@
     "BSgenome"
   ],
   "InterCellar": [
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "InteractionSet": [
     "GenomicRanges",
@@ -2705,7 +2537,6 @@
     "pwalign",
     "Rsamtools",
     "DESeq2",
-    "AnnotationDbi",
     "biomaRt",
     "geneplotter",
     "genefilter",
@@ -2717,19 +2548,15 @@
     "AnnotationFilter",
     "annotate"
   ],
-  "KEGGlincs": [
-    "AnnotationDbi"
-  ],
+  "KEGGlincs": [],
   "KnowSeq": [
     "sva",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "LACE": [
     "SummarizedExperiment",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "LOBSTAHS": [
@@ -2748,13 +2575,10 @@
   "LOLA": [
     "GenomicRanges"
   ],
-  "LRBaseDbi": [
-    "AnnotationDbi"
-  ],
+  "LRBaseDbi": [],
   "LRcell": [
     "ExperimentHub",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "Lheuristic": [
     "MultiAssayExperiment",
@@ -2773,9 +2597,7 @@
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "LiquidAssociation": [
-    "AnnotationDbi"
-  ],
+  "LiquidAssociation": [],
   "LoomExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -2794,8 +2616,7 @@
   ],
   "MACSr": [
     "ExperimentHub",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "MADSEQ": [
     "BSgenome",
@@ -2805,7 +2626,6 @@
     "VariantAnnotation",
     "SummarizedExperiment",
     "rtracklayer",
-    "AnnotationDbi",
     "GenomicFeatures"
   ],
   "MAGAR": [
@@ -2818,7 +2638,6 @@
     "SummarizedExperiment",
     "annotate",
     "genefilter",
-    "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
     "bumphunter",
@@ -2857,16 +2676,13 @@
     "phyloseq",
     "sva",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "MBQN": [
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "MCbiclust": [
-    "AnnotationDbi"
-  ],
+  "MCbiclust": [],
   "MDTS": [
     "GenomicAlignments",
     "GenomicRanges",
@@ -2882,7 +2698,6 @@
     "SummarizedExperiment",
     "rtracklayer",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "BSgenome",
@@ -2909,7 +2724,6 @@
     "methylumi",
     "lumi",
     "GenomicFeatures",
-    "AnnotationDbi",
     "annotate",
     "rtracklayer",
     "Rsamtools",
@@ -2929,18 +2743,15 @@
     "GenomicRanges",
     "biomaRt",
     "rtracklayer",
-    "AnnotationDbi",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
   "MGFM": [
-    "AnnotationDbi",
     "annotate"
   ],
   "MGFR": [
     "biomaRt",
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "MGnifyR": [
     "MultiAssayExperiment",
@@ -2969,7 +2780,6 @@
   ],
   "MIRit": [
     "MultiAssayExperiment",
-    "AnnotationDbi",
     "DESeq2",
     "graphite",
     "GenomicRanges",
@@ -2983,12 +2793,9 @@
     "annotate",
     "genefilter",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
-  "MLP": [
-    "AnnotationDbi"
-  ],
+  "MLP": [],
   "MLSeq": [
     "DESeq2",
     "SummarizedExperiment",
@@ -3003,9 +2810,7 @@
     "SummarizedExperiment"
   ],
   "MMUPHin": [],
-  "MODA": [
-    "AnnotationDbi"
-  ],
+  "MODA": [],
   "MOMA": [
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -3014,7 +2819,6 @@
   "MOSClip": [
     "MultiAssayExperiment",
     "graphite",
-    "AnnotationDbi",
     "qpgraph",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -3054,14 +2858,12 @@
     "sva",
     "GenomicRanges",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "MSnID": [
     "MSnbase",
     "msmsTests",
     "AnnotationHub",
-    "AnnotationDbi",
     "msmsEDA",
     "PSMatch",
     "QFeatures",
@@ -3103,8 +2905,7 @@
   ],
   "Macarron": [
     "SummarizedExperiment",
-    "GenomicRanges",
-    "AnnotationDbi"
+    "GenomicRanges"
   ],
   "MatrixQCvis": [
     "SummarizedExperiment",
@@ -3114,7 +2915,6 @@
     "AnnotationHub",
     "GenomicRanges",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "MatrixRider": [
@@ -3127,16 +2927,12 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "MeSHDbi": [
-    "AnnotationDbi"
-  ],
+  "MeSHDbi": [],
   "Melissa": [
     "BPRMeth",
     "GenomicRanges"
   ],
-  "MesKit": [
-    "AnnotationDbi"
-  ],
+  "MesKit": [],
   "MetMashR": [
     "struct",
     "SummarizedExperiment",
@@ -3154,7 +2950,6 @@
   ],
   "MetaPhOR": [
     "clusterProfiler",
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim"
@@ -3164,7 +2959,6 @@
     "QFeatures",
     "AnnotationHub",
     "CompoundDb",
-    "AnnotationDbi",
     "AnnotationFilter",
     "MultiAssayExperiment",
     "GenomicRanges"
@@ -3176,7 +2970,6 @@
   "MetaboSignal": [
     "hpar",
     "biomaRt",
-    "AnnotationDbi",
     "MWASTools",
     "mygene",
     "ensembldb",
@@ -3198,7 +2991,6 @@
     "AnnotationHub",
     "ExperimentHub",
     "TFBSTools",
-    "AnnotationDbi",
     "pwalign",
     "BSgenome",
     "rtracklayer",
@@ -3216,7 +3008,6 @@
     "genefilter",
     "GEOquery",
     "GenomicFeatures",
-    "AnnotationDbi",
     "annotate",
     "rtracklayer",
     "Rsamtools",
@@ -3229,17 +3020,13 @@
     "geneplotter",
     "Rsamtools",
     "annotate",
-    "AnnotationDbi",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "MiRaGE": [
-    "AnnotationDbi"
-  ],
+  "MiRaGE": [],
   "MicrobiomeProfiler": [
     "clusterProfiler",
     "enrichplot",
-    "AnnotationDbi",
     "DOSE",
     "GOSemSim"
   ],
@@ -3251,7 +3038,6 @@
     "biomaRt",
     "GOstats",
     "annotate",
-    "AnnotationDbi",
     "lumi",
     "Category",
     "AnnotationForge",
@@ -3297,7 +3083,6 @@
     "AnnotationHub",
     "EpiMix",
     "ExperimentHub",
-    "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
     "biomaRt",
@@ -3312,7 +3097,6 @@
     "DOSE",
     "TCGAbiolinks",
     "GEOquery",
-    "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
     "GenomicRanges",
@@ -3344,16 +3128,13 @@
   ],
   "MouseFM": [
     "GenomicRanges",
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "MsBackendMetaboLights": [],
   "MsBackendRawFileReader": [],
-  "MsBackendSql": [],
   "MsDataHub": [
     "ExperimentHub",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "MsExperiment": [
     "SummarizedExperiment",
@@ -3413,7 +3194,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicFeatures"
   ],
   "MutationalPatterns": [
@@ -3423,7 +3203,6 @@
     "rtracklayer",
     "Rsamtools",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicFeatures",
     "GenomicAlignments"
   ],
@@ -3442,7 +3221,6 @@
     "motifStack",
     "GenomicFeatures",
     "Gviz",
-    "AnnotationDbi",
     "InteractionSet",
     "txdbmaker",
     "pwalign",
@@ -3460,14 +3238,12 @@
     "DESeq2",
     "genefilter",
     "GenomicRanges",
-    "AnnotationDbi",
     "annotate"
   ],
   "NanoMethViz": [
     "SummarizedExperiment",
     "BiocSingular",
     "bsseq",
-    "AnnotationDbi",
     "GenomicRanges",
     "Rsamtools",
     "BSgenome",
@@ -3485,8 +3261,7 @@
     "GenomicRanges"
   ],
   "NetSAM": [
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "NewWave": [
     "SummarizedExperiment",
@@ -3500,7 +3275,6 @@
     "rtracklayer",
     "GenomicRanges",
     "GenomicFeatures",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -3514,7 +3288,6 @@
     "Gviz",
     "AnnotationHub",
     "rtracklayer",
-    "AnnotationDbi",
     "biomaRt",
     "GenomicFeatures",
     "ensembldb",
@@ -3536,8 +3309,7 @@
     "VariantAnnotation",
     "Rsamtools",
     "GenomicAlignments",
-    "SummarizedExperiment",
-    "AnnotationDbi"
+    "SummarizedExperiment"
   ],
   "ORFhunteR": [
     "rtracklayer",
@@ -3550,7 +3322,6 @@
   "ORFik": [
     "GenomicRanges",
     "GenomicAlignments",
-    "AnnotationDbi",
     "biomaRt",
     "BSgenome",
     "DESeq2",
@@ -3574,7 +3345,6 @@
     "DESeq2",
     "GenomicRanges",
     "txdbmaker",
-    "AnnotationDbi",
     "rtracklayer",
     "biomaRt",
     "Rsamtools",
@@ -3586,28 +3356,24 @@
   ],
   "OmaDB": [
     "GenomicRanges",
-    "topGO",
-    "AnnotationDbi"
+    "topGO"
   ],
   "OmicCircos": [
     "GenomicRanges"
   ],
   "OncoScore": [
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "Organism.dplyr": [
     "AnnotationFilter",
     "GenomicRanges",
     "GenomicFeatures",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
   "OrganismDbi": [
-    "AnnotationDbi",
     "GenomicFeatures",
     "GenomicRanges",
     "txdbmaker",
@@ -3618,7 +3384,6 @@
     "SummarizedExperiment"
   ],
   "OutSplice": [
-    "AnnotationDbi",
     "GenomicRanges",
     "GenomicFeatures",
     "rtracklayer",
@@ -3629,12 +3394,9 @@
   "PAA": [
     "sva",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
-  "PADOG": [
-    "AnnotationDbi"
-  ],
+  "PADOG": [],
   "PAIRADISE": [
     "SummarizedExperiment",
     "GenomicRanges"
@@ -3655,12 +3417,10 @@
     "CoreGx",
     "genefu",
     "biomaRt",
-    "GenomicRanges",
-    "AnnotationDbi"
+    "GenomicRanges"
   ],
   "PECA": [
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "PICB": [
@@ -3683,7 +3443,6 @@
     "rtracklayer",
     "Rsamtools",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "biovizBase",
@@ -3711,7 +3470,6 @@
     "sva",
     "GenomicRanges",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "POWSC": [
@@ -3721,17 +3479,14 @@
     "GenomicRanges"
   ],
   "PPInfer": [
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "PREDA": [
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "PROMISE": [
     "GSEABase",
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "PRONE": [
     "SummarizedExperiment",
@@ -3744,7 +3499,6 @@
     "GenomicRanges",
     "QFeatures",
     "genefilter",
-    "AnnotationDbi",
     "annotate",
     "MultiAssayExperiment",
     "AnnotationFilter"
@@ -3752,7 +3506,6 @@
   "PROPS": [
     "sva",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "PSMatch": [
@@ -3765,7 +3518,6 @@
   "PanomiR": [
     "clusterProfiler",
     "GSEABase",
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim",
@@ -3802,14 +3554,12 @@
   ],
   "PhyloProfile": [
     "ExperimentHub",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "Pigengene": [
     "clusterProfiler",
     "ReactomePA",
     "DOSE",
-    "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
     "graphite"
@@ -3845,7 +3595,6 @@
     "GenomicFeatures",
     "GenomicRanges",
     "VariantAnnotation",
-    "AnnotationDbi",
     "rtracklayer",
     "SummarizedExperiment",
     "Rsamtools",
@@ -3853,8 +3602,7 @@
     "GenomicAlignments"
   ],
   "ProteoMM": [
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "PureCN": [
     "VariantAnnotation",
@@ -3863,7 +3611,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "AnnotationDbi",
     "GenomicAlignments",
     "BSgenome"
   ],
@@ -3875,7 +3622,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "GenomicFeatures",
-    "AnnotationDbi",
     "VariantAnnotation",
     "ensembldb",
     "AnnotationFilter",
@@ -3912,7 +3658,6 @@
     "ShortRead",
     "rtracklayer",
     "GenomicFiles",
-    "AnnotationDbi",
     "SummarizedExperiment",
     "GenomicAlignments",
     "VariantAnnotation",
@@ -3932,7 +3677,6 @@
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationDbi",
     "AnnotationFilter",
     "txdbmaker",
     "biomaRt"
@@ -3946,7 +3690,6 @@
     "BSgenome",
     "Rsamtools",
     "ShortRead",
-    "AnnotationDbi",
     "rtracklayer",
     "GenomicAlignments",
     "GenomicFeatures"
@@ -3957,7 +3700,6 @@
     "GenomicRanges",
     "ensembldb",
     "BSgenome",
-    "AnnotationDbi",
     "AnnotationFilter",
     "VariantAnnotation",
     "rtracklayer",
@@ -3977,7 +3719,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "seqPattern",
-    "AnnotationDbi",
     "biomaRt",
     "SummarizedExperiment"
   ],
@@ -3992,7 +3733,6 @@
   "REDseq": [
     "BSgenome",
     "ChIPpeakAnno",
-    "AnnotationDbi",
     "GenomicRanges",
     "rtracklayer",
     "Rsamtools",
@@ -4013,7 +3753,6 @@
     "GenomicRanges",
     "BSgenome",
     "AnnotationHub",
-    "AnnotationDbi",
     "Rsamtools",
     "bumphunter",
     "genefilter",
@@ -4031,14 +3770,12 @@
     "VariantAnnotation",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicFeatures"
   ],
   "RFLOMICS": [
     "SummarizedExperiment",
     "MultiAssayExperiment",
     "coseq",
-    "AnnotationDbi",
     "clusterProfiler",
     "enrichplot",
     "DOSE",
@@ -4055,7 +3792,6 @@
     "GenomicRanges",
     "topGO",
     "zellkonverter",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -4081,7 +3817,6 @@
   ],
   "RNAAgeCalc": [
     "recount",
-    "AnnotationDbi",
     "SummarizedExperiment",
     "derfinder",
     "GEOquery",
@@ -4106,7 +3841,6 @@
     "BSgenome",
     "Gviz",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "biomaRt",
     "ensembldb",
     "biovizBase",
@@ -4119,7 +3853,6 @@
     "Gviz",
     "rtracklayer",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "BSgenome",
@@ -4144,7 +3877,6 @@
     "BSgenome",
     "Gviz",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "biomaRt",
     "ensembldb",
     "biovizBase",
@@ -4157,7 +3889,6 @@
     "Gviz",
     "rtracklayer",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "BSgenome",
@@ -4194,7 +3925,6 @@
     "RaggedExperiment",
     "SummarizedExperiment",
     "TCGAutils",
-    "AnnotationDbi",
     "GenomicFeatures",
     "GenomicDataCommons",
     "MultiAssayExperiment",
@@ -4227,7 +3957,6 @@
     "ShortRead",
     "Rsamtools",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "GenomicRanges",
     "rtracklayer",
@@ -4254,7 +3983,6 @@
     "GenomicScores",
     "rtracklayer",
     "Rsamtools",
-    "AnnotationDbi",
     "AnnotationHub",
     "GenomicAlignments"
   ],
@@ -4278,12 +4006,10 @@
     "GenomicRanges",
     "GSEABase",
     "SummarizedExperiment",
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "Rcpi": [
-    "GOSemSim",
-    "AnnotationDbi"
+    "GOSemSim"
   ],
   "ReactomeGSA": [
     "BiocSingular",
@@ -4291,7 +4017,6 @@
     "GenomicRanges"
   ],
   "ReactomePA": [
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "graphite",
@@ -4302,7 +4027,6 @@
     "SummarizedExperiment",
     "clusterProfiler",
     "biomaRt",
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim",
@@ -4313,7 +4037,6 @@
     "SummarizedExperiment",
     "DOSE",
     "DESeq2",
-    "AnnotationDbi",
     "GenomicRanges",
     "GOSemSim"
   ],
@@ -4331,8 +4054,7 @@
   "RepViz": [
     "GenomicRanges",
     "Rsamtools",
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "Repitools": [
     "GenomicRanges",
@@ -4345,7 +4067,6 @@
   "ReportingTools": [
     "Category",
     "GOstats",
-    "AnnotationDbi",
     "annotate",
     "GSEABase",
     "DESeq2",
@@ -4371,7 +4092,6 @@
     "GenomicFeatures",
     "GenomicRanges",
     "regioneR",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "Rsamtools",
@@ -4384,7 +4104,6 @@
     "GenomicRanges",
     "Rsamtools",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicAlignments",
     "GenomicFeatures",
     "rtracklayer",
@@ -4394,7 +4113,6 @@
     "ORFik",
     "GenomicFeatures",
     "GenomicRanges",
-    "AnnotationDbi",
     "rtracklayer",
     "GenomicAlignments",
     "biomaRt",
@@ -4412,7 +4130,6 @@
     "DESeq2",
     "txdbmaker",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "rtracklayer",
     "biomaRt"
   ],
@@ -4424,7 +4141,6 @@
     "Rsamtools",
     "rtracklayer",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "biovizBase",
     "BSgenome",
     "VariantAnnotation",
@@ -4439,7 +4155,6 @@
     "SummarizedExperiment",
     "DESeq2",
     "apeglm",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicFeatures",
     "rtracklayer",
@@ -4452,7 +4167,6 @@
     "SummarizedExperiment",
     "annotate",
     "genefilter",
-    "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
     "bumphunter",
@@ -4464,7 +4178,6 @@
     "biomaRt",
     "recount",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "derfinder",
     "GEOquery",
     "GenomicRanges",
@@ -4490,7 +4203,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomicFeatures",
-    "AnnotationDbi",
     "VariantAnnotation",
     "ensembldb",
     "AnnotationFilter",
@@ -4510,7 +4222,6 @@
     "GenomicRanges",
     "plyranges",
     "GenomicFeatures",
-    "AnnotationDbi",
     "rtracklayer",
     "GenomicAlignments",
     "Rsamtools",
@@ -4519,7 +4230,6 @@
   "SBGNview": [
     "pathview",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "SC3": [
@@ -4534,7 +4244,6 @@
     "SummarizedExperiment",
     "oligoClasses",
     "genefilter",
-    "AnnotationDbi",
     "annotate",
     "GenomicRanges"
   ],
@@ -4588,7 +4297,6 @@
     "sva",
     "GenomicRanges",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "SGCP": [
@@ -4596,7 +4304,6 @@
     "SummarizedExperiment",
     "genefilter",
     "GOstats",
-    "AnnotationDbi",
     "Category",
     "AnnotationForge",
     "GenomicRanges",
@@ -4606,7 +4313,6 @@
     "GenomicRanges",
     "Rsamtools",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicAlignments",
     "GenomicFeatures",
     "rtracklayer"
@@ -4620,12 +4326,10 @@
   ],
   "SIM": [
     "globaltest",
-    "AnnotationDbi",
     "annotate"
   ],
   "SMITE": [
     "GenomicRanges",
-    "AnnotationDbi",
     "BioNet",
     "goseq",
     "rtracklayer",
@@ -4642,7 +4346,6 @@
     "DESeq2",
     "VariantAnnotation",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -4653,7 +4356,6 @@
     "rtracklayer",
     "annotatr",
     "bsseq",
-    "AnnotationDbi",
     "AnnotationHub",
     "GenomicFeatures",
     "regioneR",
@@ -4676,7 +4378,6 @@
     "GenomicRanges",
     "GenomicFeatures",
     "Gviz",
-    "AnnotationDbi",
     "BSgenome",
     "SummarizedExperiment",
     "Rsamtools",
@@ -4687,8 +4388,7 @@
     "AnnotationFilter"
   ],
   "SPONGE": [
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "SPOTlight": [
     "SingleCellExperiment",
@@ -4699,13 +4399,11 @@
     "SingleCellExperiment",
     "phyloseq",
     "SummarizedExperiment",
-    "GenomicRanges",
-    "AnnotationDbi"
+    "GenomicRanges"
   ],
   "SQLDataFrame": [],
   "SVMDO": [
     "DOSE",
-    "AnnotationDbi",
     "SummarizedExperiment",
     "GOSemSim",
     "GenomicRanges"
@@ -4717,15 +4415,13 @@
     "GenomicRanges"
   ],
   "SWATH2stats": [
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "Scale4C": [
     "GenomicRanges",
     "SummarizedExperiment"
   ],
   "SemDist": [
-    "AnnotationDbi",
     "annotate"
   ],
   "SeqArray": [
@@ -4734,7 +4430,6 @@
   "SeqGSEA": [
     "DESeq2",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicRanges",
     "SummarizedExperiment"
   ],
@@ -4745,8 +4440,7 @@
   "SeqSQC": [
     "ExperimentHub",
     "GenomicRanges",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "SeqVarTools": [
     "SeqArray",
@@ -4769,7 +4463,6 @@
     "annotate",
     "genefilter",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "SigFuge": [
@@ -4783,7 +4476,6 @@
     "SummarizedExperiment",
     "Rsamtools",
     "GenomicAlignments",
-    "AnnotationDbi",
     "GenomicFeatures"
   ],
   "SimBu": [
@@ -4824,7 +4516,6 @@
     "txdbmaker",
     "ShortRead",
     "GenomicFiles",
-    "AnnotationDbi",
     "SummarizedExperiment",
     "VariantAnnotation",
     "pwalign",
@@ -4850,7 +4541,6 @@
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationDbi",
     "AnnotationFilter",
     "txdbmaker",
     "biomaRt"
@@ -4886,9 +4576,7 @@
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "SpatialDecon": [
-    "GeomxTools"
-  ],
+  "SpatialDecon": [],
   "SpatialExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -4910,9 +4598,7 @@
     "GenomicRanges",
     "scuttle"
   ],
-  "SpatialOmicsOverlay": [
-    "GeomxTools"
-  ],
+  "SpatialOmicsOverlay": [],
   "SpectraQL": [],
   "SpectralTAD": [
     "HiCcompare",
@@ -4927,7 +4613,6 @@
     "GenomicRanges",
     "rtracklayer",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "Rsamtools",
     "annotate",
     "ExperimentHub",
@@ -4943,7 +4628,6 @@
     "GenomicRanges",
     "Rsamtools",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "rtracklayer"
   ],
   "SplineDV": [
@@ -4985,14 +4669,11 @@
     "pwalign",
     "GenomicFeatures",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
     "BSgenome"
   ],
-  "SubCellBarCode": [
-    "AnnotationDbi"
-  ],
+  "SubCellBarCode": [],
   "SummarizedExperiment": [
     "GenomicRanges"
   ],
@@ -5002,7 +4683,6 @@
     "TCGAbiolinks",
     "biomaRt",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicRanges",
     "SingleCellExperiment",
     "phyloseq"
@@ -5020,8 +4700,7 @@
     "GenomicFeatures",
     "rtracklayer",
     "Rsamtools",
-    "SummarizedExperiment",
-    "AnnotationDbi"
+    "SummarizedExperiment"
   ],
   "TBSignatureProfiler": [
     "ASSIGN",
@@ -5036,7 +4715,6 @@
     "SpatialExperiment",
     "BiocSingular",
     "annotate",
-    "AnnotationDbi",
     "genefilter"
   ],
   "TCC": [
@@ -5047,11 +4725,9 @@
   "TCGAbiolinks": [
     "biomaRt",
     "GenomicRanges",
-    "SummarizedExperiment",
-    "AnnotationDbi"
+    "SummarizedExperiment"
   ],
   "TCGAutils": [
-    "AnnotationDbi",
     "GenomicFeatures",
     "GenomicRanges",
     "GenomicDataCommons",
@@ -5076,7 +4752,6 @@
     "GenomicRanges",
     "enrichplot",
     "DOSE",
-    "AnnotationDbi",
     "GOSemSim"
   ],
   "TEKRABber": [
@@ -5086,7 +4761,6 @@
     "rtracklayer",
     "SummarizedExperiment",
     "GenomicRanges",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -5099,7 +4773,6 @@
     "AnnotationHub",
     "ExperimentHub",
     "rtracklayer",
-    "AnnotationDbi",
     "BSgenome",
     "Rsamtools",
     "GenomicAlignments",
@@ -5130,7 +4803,6 @@
     "GenomicRanges",
     "biomaRt",
     "GenomicFeatures",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -5140,7 +4812,6 @@
     "GenomicRanges",
     "ORFik",
     "GenomicAlignments",
-    "AnnotationDbi",
     "biomaRt",
     "BSgenome",
     "DESeq2",
@@ -5153,7 +4824,6 @@
   "TFutils": [
     "Rsamtools",
     "GSEABase",
-    "AnnotationDbi",
     "GenomicFiles",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -5164,13 +4834,10 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "TIN": [
-    "AnnotationDbi"
-  ],
+  "TIN": [],
   "TMSig": [
     "GSEABase",
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "TOAST": [
     "SummarizedExperiment",
@@ -5180,7 +4847,6 @@
     "ClassifyR",
     "MultiAssayExperiment",
     "genefilter",
-    "AnnotationDbi",
     "annotate",
     "SummarizedExperiment",
     "GenomicRanges"
@@ -5194,7 +4860,6 @@
     "GenomicRanges",
     "GenomicFeatures",
     "Rsamtools",
-    "AnnotationDbi",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
@@ -5217,7 +4882,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "GenomicFeatures",
-    "AnnotationDbi",
     "rtracklayer",
     "biomaRt",
     "BSgenome",
@@ -5229,7 +4893,6 @@
     "SummarizedExperiment",
     "GSEABase",
     "annotate",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "TitanCNA": [
@@ -5237,7 +4900,6 @@
     "VariantAnnotation",
     "SummarizedExperiment",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -5283,7 +4945,6 @@
     "GenomicAlignments",
     "annotate",
     "GenomicFeatures",
-    "AnnotationDbi",
     "rtracklayer",
     "pwalign"
   ],
@@ -5292,7 +4953,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -5300,7 +4960,6 @@
   ],
   "Ularcirc": [
     "AnnotationHub",
-    "AnnotationDbi",
     "BSgenome",
     "GenomicFeatures",
     "GenomicAlignments",
@@ -5313,15 +4972,12 @@
     "AnnotationFilter",
     "plyranges"
   ],
-  "UniProt.ws": [
-    "AnnotationDbi"
-  ],
+  "UniProt.ws": [],
   "Uniquorn": [
     "GenomicRanges",
     "VariantAnnotation",
     "SummarizedExperiment",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -5343,7 +4999,6 @@
     "SummarizedExperiment",
     "rtracklayer",
     "GenomicAlignments",
-    "AnnotationDbi",
     "BSgenome",
     "GenomicFeatures"
   ],
@@ -5361,7 +5016,6 @@
     "rtracklayer",
     "SummarizedExperiment",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "VanillaICE": [
@@ -5386,7 +5040,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -5400,7 +5053,6 @@
   ],
   "VariantFiltering": [
     "VariantAnnotation",
-    "AnnotationDbi",
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomicFeatures",
@@ -5423,16 +5075,13 @@
     "GenomicFeatures",
     "rtracklayer",
     "BSgenome",
-    "AnnotationDbi",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
   "VegaMC": [
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "ViSEAGO": [
-    "AnnotationDbi",
     "GOSemSim",
     "topGO",
     "AnnotationForge",
@@ -5467,7 +5116,6 @@
   "XDE": [
     "genefilter",
     "GeneMeta",
-    "AnnotationDbi",
     "annotate"
   ],
   "XNAString": [
@@ -5503,7 +5151,6 @@
     "ggbio",
     "SummarizedExperiment",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "GenomicFeatures",
     "biovizBase",
@@ -5520,7 +5167,6 @@
     "Rsamtools",
     "VariantAnnotation",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures"
@@ -5529,33 +5175,22 @@
     "a4Base",
     "annaffy",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "a4Base": [
     "annaffy",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
-  "adSplit": [
-    "AnnotationDbi"
-  ],
+  "adSplit": [],
   "adductomicsR": [
     "ExperimentHub",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
-  "affyILM": [
-    "gcrma"
-  ],
-  "affyPLM": [
-    "gcrma"
-  ],
+  "affyILM": [],
+  "affyPLM": [],
   "affycoretools": [
     "GOstats",
-    "gcrma",
-    "AnnotationDbi",
     "oligoClasses",
     "ReportingTools",
     "Glimma",
@@ -5582,9 +5217,7 @@
     "biomaRt"
   ],
   "affylmGUI": [
-    "affyPLM",
-    "gcrma",
-    "AnnotationDbi"
+    "affyPLM"
   ],
   "aggregateBioVar": [
     "SummarizedExperiment",
@@ -5614,7 +5247,6 @@
     "SpatialExperiment",
     "VariantAnnotation",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -5675,7 +5307,6 @@
     "SummarizedExperiment",
     "alabaster.ranges",
     "GenomicRanges",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -5695,21 +5326,15 @@
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "annaffy": [
-    "AnnotationDbi"
-  ],
+  "annaffy": [],
   "annmap": [
     "GenomicRanges",
     "Rsamtools",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
-  "annotate": [
-    "AnnotationDbi"
-  ],
+  "annotate": [],
   "annotatr": [
-    "AnnotationDbi",
     "AnnotationHub",
     "GenomicFeatures",
     "GenomicRanges",
@@ -5725,9 +5350,7 @@
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "apComplex": [
-    "AnnotationDbi"
-  ],
+  "apComplex": [],
   "apeglm": [
     "SummarizedExperiment",
     "GenomicRanges"
@@ -5741,7 +5364,6 @@
     "GenomicScores",
     "SummarizedExperiment",
     "rtracklayer",
-    "AnnotationDbi",
     "AnnotationHub",
     "OrganismDbi",
     "txdbmaker",
@@ -5754,7 +5376,6 @@
     "GenomicFeatures",
     "GenomicRanges",
     "annotate",
-    "AnnotationDbi",
     "rtracklayer",
     "minfi",
     "SummarizedExperiment",
@@ -5768,14 +5389,10 @@
     "affyPLM",
     "beadarray",
     "genefilter",
-    "gcrma",
-    "AnnotationDbi",
     "GenomicRanges",
     "annotate"
   ],
-  "artMS": [
-    "AnnotationDbi"
-  ],
+  "artMS": [],
   "atSNP": [
     "BSgenome",
     "motifStack",
@@ -5794,11 +5411,9 @@
     "GenomicAlignments",
     "Rsamtools",
     "AnnotationHub",
-    "AnnotationDbi",
     "rtracklayer"
   ],
   "attract": [
-    "AnnotationDbi",
     "GOstats",
     "Category",
     "annotate",
@@ -5822,7 +5437,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "genefilter",
-    "AnnotationDbi",
     "annotate",
     "SummarizedExperiment"
   ],
@@ -5833,8 +5447,7 @@
     "GenomicFeatures",
     "GenomicRanges",
     "Rsamtools",
-    "rtracklayer",
-    "AnnotationDbi"
+    "rtracklayer"
   ],
   "bamsignals": [
     "GenomicRanges"
@@ -5845,7 +5458,6 @@
     "PSMatch",
     "MLInterfaces",
     "biomaRt",
-    "AnnotationDbi",
     "annotate",
     "genefilter",
     "SummarizedExperiment",
@@ -5890,7 +5502,6 @@
     "TileDBArray"
   ],
   "beadarray": [
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "bedbaser": [
@@ -5918,7 +5529,6 @@
     "GenomicRanges",
     "SingleCellExperiment",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "betaHMM": [
@@ -5938,7 +5548,6 @@
     "GenomicRanges",
     "annotate",
     "genefilter",
-    "AnnotationDbi",
     "GenomicFeatures",
     "bumphunter",
     "lumi",
@@ -5948,7 +5557,6 @@
   ],
   "bioCancer": [
     "cBioPortalData",
-    "AnnotationDbi",
     "DOSE",
     "clusterProfiler",
     "ReactomePA",
@@ -5969,18 +5577,14 @@
   ],
   "biocGraph": [
     "geneplotter",
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
-  "biomaRt": [
-    "AnnotationDbi"
-  ],
+  "biomaRt": [],
   "biomvRCNS": [
     "GenomicRanges",
     "Gviz",
     "rtracklayer",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "BSgenome",
@@ -6008,7 +5612,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "GenomicFeatures",
-    "AnnotationDbi",
     "VariantAnnotation",
     "ensembldb",
     "AnnotationFilter",
@@ -6029,7 +5632,6 @@
     "BSgenome",
     "bumphunter",
     "annotatr",
-    "AnnotationDbi",
     "OrganismDbi",
     "GenomicFeatures",
     "GenomicAlignments",
@@ -6042,7 +5644,6 @@
     "DEXSeq",
     "GenomicRanges",
     "DESeq2",
-    "AnnotationDbi",
     "biomaRt",
     "Rsamtools",
     "geneplotter",
@@ -6051,7 +5652,6 @@
   ],
   "blima": [
     "beadarray",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "bnbc": [
@@ -6060,14 +5660,12 @@
     "sva",
     "HiCBricks",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "bnem": [
     "epiNEM",
     "sva",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "borealis": [
@@ -6084,7 +5682,6 @@
     "biomaRt",
     "rtracklayer",
     "GenomicRanges",
-    "AnnotationDbi",
     "BSgenome",
     "Rsamtools",
     "GenomicAlignments",
@@ -6103,7 +5700,6 @@
     "genefilter",
     "clusterProfiler",
     "sechm",
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim",
@@ -6121,7 +5717,6 @@
   "bumphunter": [
     "GenomicRanges",
     "GenomicFeatures",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -6134,7 +5729,6 @@
     "RTCGAToolbox",
     "SummarizedExperiment",
     "TCGAutils",
-    "AnnotationDbi",
     "GenomicFeatures",
     "GenomicDataCommons",
     "rtracklayer",
@@ -6142,7 +5736,6 @@
     "GenomicAlignments"
   ],
   "cTRAP": [
-    "AnnotationDbi",
     "AnnotationHub"
   ],
   "cageminer": [
@@ -6160,7 +5753,6 @@
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationDbi",
     "AnnotationFilter",
     "txdbmaker",
     "genefilter",
@@ -6178,7 +5770,6 @@
     "SummarizedExperiment",
     "TCGAutils",
     "annotate",
-    "AnnotationDbi",
     "Category",
     "biomaRt",
     "genefilter",
@@ -6193,7 +5784,6 @@
     "VariantAnnotation",
     "SummarizedExperiment",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -6204,12 +5794,10 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "AnnotationDbi",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
   "categoryCompare": [
-    "AnnotationDbi",
     "GSEABase",
     "Category",
     "GOstats",
@@ -6226,7 +5814,6 @@
     "RTCGAToolbox",
     "SummarizedExperiment",
     "TCGAutils",
-    "AnnotationDbi",
     "annotate",
     "GenomicFeatures",
     "GenomicDataCommons",
@@ -6244,9 +5831,7 @@
     "SingleCellExperiment",
     "GenomicRanges"
   ],
-  "ccmap": [
-    "AnnotationDbi"
-  ],
+  "ccmap": [],
   "celaref": [
     "SummarizedExperiment",
     "MAST",
@@ -6267,7 +5852,6 @@
     "GenomicRanges"
   ],
   "cellity": [
-    "AnnotationDbi",
     "topGO"
   ],
   "censcyt": [
@@ -6287,8 +5871,7 @@
   "cfTools": [
     "GenomicRanges",
     "ExperimentHub",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "cfdnakit": [
     "GenomicRanges",
@@ -6298,7 +5881,6 @@
   "cghMCR": [
     "CNTools",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "chevreulPlot": [
@@ -6317,7 +5899,6 @@
     "GenomicRanges",
     "rtracklayer",
     "AnnotationFilter",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -6334,7 +5915,6 @@
     "BiocSingular",
     "GenomicRanges",
     "AnnotationFilter",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -6356,7 +5936,6 @@
     "rtracklayer",
     "BiocSingular",
     "AnnotationFilter",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -6368,7 +5947,6 @@
     "AnnotationFilter",
     "Rsamtools",
     "GenomicAlignments",
-    "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
     "SummarizedExperiment",
@@ -6378,7 +5956,6 @@
     "VariantAnnotation"
   ],
   "chipenrich": [
-    "AnnotationDbi",
     "GenomicRanges",
     "rtracklayer",
     "Rsamtools",
@@ -6398,8 +5975,7 @@
   ],
   "chromPlot": [
     "biomaRt",
-    "GenomicRanges",
-    "AnnotationDbi"
+    "GenomicRanges"
   ],
   "chromVAR": [
     "GenomicRanges",
@@ -6416,7 +5992,6 @@
     "GenomicRanges",
     "rtracklayer",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "BSgenome",
@@ -6434,7 +6009,6 @@
     "AnnotationHub",
     "gwascat",
     "BSgenome",
-    "AnnotationDbi",
     "Rsamtools",
     "SummarizedExperiment",
     "GenomicFeatures",
@@ -6461,7 +6035,6 @@
   "clipper": [
     "qpgraph",
     "annotate",
-    "AnnotationDbi",
     "GenomicRanges",
     "GenomicFeatures",
     "rtracklayer",
@@ -6498,11 +6071,9 @@
     "mbkmeans",
     "GenomicRanges",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "clusterProfiler": [
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim"
@@ -6538,7 +6109,6 @@
     "bumphunter",
     "ExperimentHub",
     "GenomicRanges",
-    "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
     "Rsamtools",
@@ -6546,8 +6116,7 @@
     "SummarizedExperiment"
   ],
   "codelink": [
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "comapr": [
     "GenomicRanges",
@@ -6555,7 +6124,6 @@
     "Gviz",
     "rtracklayer",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "BSgenome",
@@ -6573,7 +6141,6 @@
   "compEpiTools": [
     "topGO",
     "GenomicRanges",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicFeatures",
     "methylPipe",
@@ -6608,11 +6175,9 @@
   "consICA": [
     "SummarizedExperiment",
     "topGO",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "consensusDE": [
-    "AnnotationDbi",
     "DESeq2",
     "EDASeq",
     "ensembldb",
@@ -6637,7 +6202,6 @@
     "SingleCellExperiment",
     "SpatialExperiment",
     "BiocSingular",
-    "AnnotationDbi",
     "annotate",
     "GenomicRanges"
   ],
@@ -6659,7 +6223,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "GenomicFeatures",
-    "AnnotationDbi",
     "annotate"
   ],
   "corral": [
@@ -6688,27 +6251,23 @@
   ],
   "cosmosR": [
     "GSEABase",
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "countsimQC": [
     "DESeq2",
     "SummarizedExperiment",
     "genefilter",
     "GenomicRanges",
-    "AnnotationDbi",
     "annotate"
   ],
   "covRNA": [
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "cpvSNP": [
     "GenomicFeatures",
     "GSEABase",
     "GenomicRanges",
-    "AnnotationDbi",
     "rtracklayer",
     "annotate",
     "Rsamtools",
@@ -6738,7 +6297,6 @@
   ],
   "crisprDesign": [
     "crisprBase",
-    "AnnotationDbi",
     "BSgenome",
     "crisprBowtie",
     "crisprScore",
@@ -6756,8 +6314,7 @@
   ],
   "crisprScore": [
     "ExperimentHub",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "crisprShiny": [
     "BSgenome",
@@ -6769,7 +6326,6 @@
     "GenomicRanges",
     "rtracklayer",
     "Rsamtools",
-    "AnnotationDbi",
     "crisprBowtie",
     "GenomicFeatures",
     "txdbmaker",
@@ -6792,7 +6348,6 @@
     "crisprViz",
     "GenomicRanges",
     "BSgenome",
-    "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
     "txdbmaker",
@@ -6818,7 +6373,6 @@
     "txdbmaker",
     "rtracklayer",
     "Rsamtools",
-    "AnnotationDbi",
     "crisprBowtie",
     "crisprScore",
     "VariantAnnotation",
@@ -6848,23 +6402,19 @@
     "rtracklayer",
     "GenomicAlignments",
     "GenomicFeatures",
-    "SummarizedExperiment",
-    "AnnotationDbi"
+    "SummarizedExperiment"
   ],
   "csaw": [
     "GenomicRanges",
     "SummarizedExperiment",
     "Rsamtools"
   ],
-  "csdR": [
-    "AnnotationDbi"
-  ],
+  "csdR": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
     "GenomicRanges",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "BSgenome",
@@ -6876,11 +6426,9 @@
     "AnnotationFilter"
   ],
   "customCMPdb": [
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "customProDB": [
-    "AnnotationDbi",
     "biomaRt",
     "GenomicRanges",
     "Rsamtools",
@@ -6912,7 +6460,6 @@
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "cytoMEM": [],
   "cytofQC": [
     "CATALYST",
     "SingleCellExperiment",
@@ -6947,7 +6494,6 @@
     "UniProt.ws",
     "biomaRt",
     "motifStack",
-    "AnnotationDbi",
     "TFBSTools",
     "pwalign",
     "BSgenome",
@@ -6979,8 +6525,7 @@
   ],
   "dce": [
     "epiNEM",
-    "graphite",
-    "AnnotationDbi"
+    "graphite"
   ],
   "ddPCRclust": [
     "flowDensity",
@@ -6992,7 +6537,6 @@
   ],
   "debrowser": [
     "annotate",
-    "AnnotationDbi",
     "DESeq2",
     "DOSE",
     "GenomicRanges",
@@ -7011,7 +6555,6 @@
     "VariantAnnotation",
     "SummarizedExperiment",
     "BSgenome",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -7038,7 +6581,6 @@
     "genefilter",
     "GEOquery",
     "GenomicFeatures",
-    "AnnotationDbi",
     "annotate",
     "GenomicAlignments"
   ],
@@ -7047,7 +6589,6 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -7066,14 +6607,12 @@
     "GenomicRanges",
     "GenomicFeatures",
     "AnnotationFilter",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "BSgenome",
     "GenomicAlignments"
   ],
   "derfinder": [
-    "AnnotationDbi",
     "bumphunter",
     "GenomicAlignments",
     "GenomicFeatures",
@@ -7090,7 +6629,6 @@
     "GenomicFeatures",
     "GenomicRanges",
     "ggbio",
-    "AnnotationDbi",
     "bumphunter",
     "GenomicAlignments",
     "GenomicFiles",
@@ -7128,7 +6666,6 @@
     "rtracklayer",
     "ensembldb",
     "DESeq2",
-    "AnnotationDbi",
     "biomaRt",
     "Rsamtools",
     "geneplotter",
@@ -7140,8 +6677,7 @@
   ],
   "diffcoexp": [
     "SummarizedExperiment",
-    "GenomicRanges",
-    "AnnotationDbi"
+    "GenomicRanges"
   ],
   "diffcyt": [
     "SummarizedExperiment",
@@ -7175,7 +6711,6 @@
     "annotatr",
     "AnnotationHub",
     "rtracklayer",
-    "AnnotationDbi",
     "GenomicFeatures",
     "regioneR",
     "SummarizedExperiment",
@@ -7184,15 +6719,13 @@
     "GenomicAlignments"
   ],
   "dominoSignal": [
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "doppelgangR": [
     "sva",
     "SummarizedExperiment",
     "GenomicRanges",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "doseR": [
@@ -7203,7 +6736,6 @@
     "syntenet",
     "GenomicRanges",
     "MSA2dist",
-    "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
     "pwalign",
@@ -7217,7 +6749,6 @@
     "GSEABase",
     "zenith",
     "annotate",
-    "AnnotationDbi",
     "GenomicRanges",
     "EnrichmentBrowser",
     "graphite",
@@ -7230,7 +6761,6 @@
     "ensembldb",
     "AnnotationFilter",
     "GenomicRanges",
-    "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
     "Rsamtools",
@@ -7243,8 +6773,7 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "ExperimentHub",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "easyRNASeq": [
     "biomaRt",
@@ -7254,7 +6783,6 @@
     "SummarizedExperiment",
     "Rsamtools",
     "ShortRead",
-    "AnnotationDbi",
     "pwalign"
   ],
   "easylift": [
@@ -7267,7 +6795,6 @@
   "edge": [
     "sva",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "eisaR": [
@@ -7288,19 +6815,16 @@
   "enrichViewNet": [
     "enrichplot",
     "DOSE",
-    "AnnotationDbi",
     "GOSemSim"
   ],
   "enrichplot": [
     "DOSE",
-    "GOSemSim",
-    "AnnotationDbi"
+    "GOSemSim"
   ],
   "ensembldb": [
     "GenomicRanges",
     "GenomicFeatures",
     "AnnotationFilter",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -7321,8 +6845,7 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "Rsamtools",
-    "beadarray",
-    "AnnotationDbi"
+    "beadarray"
   ],
   "epigraHMM": [
     "SummarizedExperiment",
@@ -7344,7 +6867,6 @@
     "biomaRt",
     "Gviz",
     "rtracklayer",
-    "AnnotationDbi",
     "AnnotationHub",
     "ExperimentHub",
     "ensembldb",
@@ -7370,7 +6892,6 @@
     "GenomicRanges",
     "AUCell",
     "motifmatchr",
-    "AnnotationDbi",
     "GSEABase",
     "BSgenome",
     "TFBSTools",
@@ -7388,7 +6909,6 @@
     "SummarizedExperiment",
     "clusterProfiler",
     "scater",
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim",
@@ -7405,7 +6925,6 @@
     "GenomicRanges",
     "bumphunter",
     "GenomicFeatures",
-    "AnnotationDbi",
     "SummarizedExperiment",
     "OrganismDbi",
     "ensembldb",
@@ -7424,7 +6943,6 @@
     "GenomicFeatures",
     "ensembldb",
     "AnnotationFilter",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "txdbmaker",
@@ -7438,7 +6956,6 @@
     "GenomicFeatures",
     "ensembldb",
     "AnnotationFilter",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "txdbmaker",
@@ -7451,7 +6968,6 @@
     "epivizrData",
     "GenomicRanges",
     "bumphunter",
-    "AnnotationDbi",
     "rtracklayer",
     "SummarizedExperiment",
     "OrganismDbi",
@@ -7467,7 +6983,6 @@
     "rtracklayer",
     "GenomicRanges",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
     "VariantAnnotation",
@@ -7487,7 +7002,6 @@
     "ChIPseeker",
     "clusterProfiler",
     "BSgenome",
-    "AnnotationDbi",
     "GenomicAlignments",
     "GenomicFeatures",
     "TFBSTools",
@@ -7506,7 +7020,6 @@
     "SummarizedExperiment",
     "UCell",
     "annotate",
-    "AnnotationDbi",
     "SpatialExperiment",
     "BiocSingular",
     "ExperimentHub",
@@ -7520,8 +7033,7 @@
     "GenomicRanges"
   ],
   "esetVis": [
-    "MLP",
-    "AnnotationDbi"
+    "MLP"
   ],
   "eudysbiome": [
     "Rsamtools",
@@ -7556,21 +7068,18 @@
     "GenomicRanges",
     "rtracklayer",
     "wiggleplotr",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
   "famat": [
     "clusterProfiler",
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim"
   ],
   "fastLiquidAssociation": [
-    "LiquidAssociation",
-    "AnnotationDbi"
+    "LiquidAssociation"
   ],
   "fastseg": [
     "GenomicRanges"
@@ -7582,7 +7091,6 @@
     "GenomicRanges",
     "Rsamtools",
     "GenomicAlignments",
-    "AnnotationDbi",
     "BSgenome",
     "GenomicFeatures"
   ],
@@ -7592,7 +7100,6 @@
     "GenomicFeatures",
     "GenomicRanges",
     "annotate",
-    "AnnotationDbi",
     "minfi",
     "SummarizedExperiment",
     "genefilter",
@@ -7680,9 +7187,7 @@
     "GenomicRanges",
     "SummarizedExperiment"
   ],
-  "funOmics": [
-    "AnnotationDbi"
-  ],
+  "funOmics": [],
   "funtooNorm": [
     "minfi",
     "GenomicRanges",
@@ -7691,7 +7196,6 @@
     "genefilter",
     "GEOquery",
     "GenomicFeatures",
-    "AnnotationDbi",
     "annotate",
     "rtracklayer",
     "Rsamtools",
@@ -7708,7 +7212,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "AnnotationHub",
-    "AnnotationDbi",
     "SummarizedExperiment",
     "rtracklayer",
     "VariantAnnotation",
@@ -7750,7 +7253,6 @@
     "GenomicFeatures",
     "ReactomePA",
     "clusterProfiler",
-    "AnnotationDbi",
     "GenomicRanges",
     "DOSE",
     "enrichplot",
@@ -7760,12 +7262,9 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "gage": [
-    "AnnotationDbi"
-  ],
+  "gage": [],
   "gatom": [
-    "BioNet",
-    "AnnotationDbi"
+    "BioNet"
   ],
   "gcapc": [
     "BSgenome",
@@ -7775,7 +7274,6 @@
     "rtracklayer",
     "SummarizedExperiment"
   ],
-  "gcrma": [],
   "gemma.R": [
     "SummarizedExperiment",
     "GenomicRanges"
@@ -7784,7 +7282,6 @@
     "GenomicRanges",
     "GenomicFeatures",
     "rtracklayer",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment"
@@ -7794,23 +7291,19 @@
   ],
   "geneXtendeR": [
     "rtracklayer",
-    "AnnotationDbi",
     "GenomicRanges",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
   "genefilter": [
-    "AnnotationDbi",
     "annotate"
   ],
   "genefu": [
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "geneplotter": [
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "genoCN": [],
   "genomation": [
@@ -7839,7 +7332,6 @@
     "Gviz",
     "Rsamtools",
     "rtracklayer",
-    "AnnotationDbi",
     "txdbmaker",
     "biomaRt",
     "ensembldb",
@@ -7850,8 +7342,7 @@
   ],
   "gep2pep": [
     "GSEABase",
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "getDEE2": [
     "SummarizedExperiment",
@@ -7878,7 +7369,6 @@
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationDbi",
     "AnnotationFilter",
     "txdbmaker",
     "biomaRt"
@@ -7907,8 +7397,7 @@
     "GenomicRanges"
   ],
   "ginmappeR": [
-    "UniProt.ws",
-    "AnnotationDbi"
+    "UniProt.ws"
   ],
   "girafe": [
     "Rsamtools",
@@ -7929,7 +7418,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "TCGAutils",
-    "AnnotationDbi",
     "GenomicRanges",
     "GenomicFeatures",
     "GenomicDataCommons",
@@ -7939,7 +7427,6 @@
     "GenomicAlignments"
   ],
   "globaltest": [
-    "AnnotationDbi",
     "annotate"
   ],
   "gmapR": [
@@ -7950,8 +7437,7 @@
     "VariantAnnotation",
     "BSgenome",
     "GenomicAlignments",
-    "SummarizedExperiment",
-    "AnnotationDbi"
+    "SummarizedExperiment"
   ],
   "gmoviz": [
     "GenomicRanges",
@@ -7959,29 +7445,21 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "rtracklayer",
-    "SummarizedExperiment",
-    "AnnotationDbi"
+    "SummarizedExperiment"
   ],
-  "goProfiles": [
-    "AnnotationDbi"
-  ],
+  "goProfiles": [],
   "goSTAG": [
-    "AnnotationDbi",
     "biomaRt"
   ],
   "goSorensen": [
     "clusterProfiler",
     "goProfiles",
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim"
   ],
-  "goTools": [
-    "AnnotationDbi"
-  ],
+  "goTools": [],
   "goseq": [
-    "AnnotationDbi",
     "rtracklayer",
     "GenomicFeatures",
     "txdbmaker",
@@ -7993,9 +7471,7 @@
   ],
   "gpuMagic": [],
   "graper": [],
-  "graphite": [
-    "AnnotationDbi"
-  ],
+  "graphite": [],
   "groHMM": [
     "GenomicRanges",
     "GenomicAlignments",
@@ -8009,8 +7485,7 @@
   ],
   "gsean": [
     "PPInfer",
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "gtrellis": [
     "GenomicRanges"
@@ -8018,7 +7493,6 @@
   "gwascat": [
     "GenomicRanges",
     "GenomicFeatures",
-    "AnnotationDbi",
     "VariantAnnotation",
     "AnnotationHub",
     "rtracklayer",
@@ -8032,7 +7506,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -8057,8 +7530,7 @@
     "biomaRt",
     "DESeq2",
     "GenomicRanges",
-    "MultiAssayExperiment",
-    "AnnotationDbi"
+    "MultiAssayExperiment"
   ],
   "hiAnnotator": [
     "GenomicRanges",
@@ -8090,7 +7562,6 @@
     "AnnotationHub",
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "hoodscanR": [
@@ -8101,8 +7572,7 @@
   ],
   "hpar": [
     "ExperimentHub",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "hummingbird": [
     "GenomicRanges",
@@ -8124,7 +7594,6 @@
     "GenomicFeatures",
     "GenomicRanges",
     "annotate",
-    "AnnotationDbi",
     "rtracklayer",
     "minfi",
     "SummarizedExperiment",
@@ -8139,7 +7608,6 @@
     "GenomicRanges",
     "Pigengene",
     "minfi",
-    "AnnotationDbi",
     "OrganismDbi",
     "GenomicFeatures",
     "bumphunter",
@@ -8190,7 +7658,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "iSEE",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "iSEEindex": [
@@ -8240,7 +7707,6 @@
     "VariantAnnotation",
     "csaw",
     "DESeq2",
-    "AnnotationDbi",
     "pwalign",
     "BSgenome"
   ],
@@ -8252,7 +7718,6 @@
     "GenomicRanges",
     "goseq",
     "GOstats",
-    "AnnotationDbi",
     "rtracklayer",
     "GenomicFeatures",
     "Category",
@@ -8270,8 +7735,7 @@
     "biomaRt"
   ],
   "idiogram": [
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "idpr": [],
   "idr2d": [
@@ -8284,7 +7748,6 @@
     "VariantAnnotation",
     "SummarizedExperiment",
     "Rsamtools",
-    "AnnotationDbi",
     "BSgenome",
     "GenomicFeatures"
   ],
@@ -8305,8 +7768,7 @@
     "GenomicRanges"
   ],
   "immunogenViewer": [
-    "UniProt.ws",
-    "AnnotationDbi"
+    "UniProt.ws"
   ],
   "infercnv": [
     "SummarizedExperiment",
@@ -8326,30 +7788,25 @@
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationDbi",
     "AnnotationFilter",
     "txdbmaker",
     "biomaRt"
   ],
   "interactiveDisplay": [
     "Category",
-    "AnnotationDbi",
     "GSEABase",
     "genefilter",
     "annotate"
   ],
   "ipdDb": [
-    "AnnotationDbi",
     "AnnotationHub",
     "GenomicRanges"
   ],
   "isobar": [
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "isomiRs": [
     "SummarizedExperiment",
-    "AnnotationDbi",
     "DEGreport",
     "DESeq2",
     "GenomicRanges"
@@ -8372,7 +7829,6 @@
     "biovizBase",
     "GenomicFeatures",
     "bamsignals",
-    "AnnotationDbi",
     "VariantAnnotation",
     "SummarizedExperiment",
     "GenomicAlignments",
@@ -8389,12 +7845,9 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicFeatures"
   ],
-  "keggorthology": [
-    "AnnotationDbi"
-  ],
+  "keggorthology": [],
   "kissDE": [
     "DESeq2",
     "DSS",
@@ -8413,8 +7866,7 @@
   "knowYourCG": [
     "GenomicRanges",
     "ExperimentHub",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "lefser": [
     "SummarizedExperiment",
@@ -8442,7 +7894,6 @@
     "SummarizedExperiment",
     "GenomicRanges",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -8470,7 +7921,6 @@
     "ClassifyR",
     "MultiAssayExperiment",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "loci2path": [
@@ -8482,7 +7932,6 @@
     "GenomicFeatures",
     "GenomicRanges",
     "annotate",
-    "AnnotationDbi",
     "rtracklayer",
     "minfi",
     "SummarizedExperiment",
@@ -8508,7 +7957,6 @@
     "Rsamtools",
     "AnnotationHub",
     "GenomicAlignments",
-    "AnnotationDbi",
     "SummarizedExperiment"
   ],
   "mBPCR": [
@@ -8522,7 +7970,6 @@
     "GenomicRanges",
     "Gviz",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "rtracklayer",
     "ensembldb",
     "BSgenome",
@@ -8534,10 +7981,7 @@
     "AnnotationFilter",
     "txdbmaker"
   ],
-  "maPredictDSC": [
-    "gcrma",
-    "AnnotationDbi"
-  ],
+  "maPredictDSC": [],
   "maaslin3": [
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
@@ -8553,7 +7997,6 @@
     "GenomicRanges",
     "GenomicFeatures",
     "Rsamtools",
-    "AnnotationDbi",
     "DESeq2",
     "TRESS",
     "SummarizedExperiment",
@@ -8578,7 +8021,6 @@
     "rtracklayer",
     "Gviz",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "BSgenome",
@@ -8589,11 +8031,8 @@
     "VariantAnnotation",
     "AnnotationFilter"
   ],
-  "maskBAD": [
-    "gcrma"
-  ],
+  "maskBAD": [],
   "mastR": [
-    "AnnotationDbi",
     "GSEABase",
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -8614,7 +8053,6 @@
     "GenomicRanges"
   ],
   "meshes": [
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim",
@@ -8624,7 +8062,6 @@
   "meshr": [
     "MeSHDbi",
     "Category",
-    "AnnotationDbi",
     "GSEABase",
     "genefilter",
     "annotate"
@@ -8668,7 +8105,6 @@
     "rtracklayer",
     "SummarizedExperiment",
     "txdbmaker",
-    "AnnotationDbi",
     "bsseq",
     "ShortRead",
     "annotate",
@@ -8695,7 +8131,6 @@
     "BSgenome",
     "ExperimentHub",
     "rtracklayer",
-    "AnnotationDbi",
     "GenomicFeatures",
     "regioneR",
     "Rsamtools",
@@ -8723,7 +8158,6 @@
     "SummarizedExperiment",
     "BSgenome",
     "GenomicFeatures",
-    "AnnotationDbi",
     "annotate",
     "GEOquery",
     "rtracklayer",
@@ -8733,7 +8167,6 @@
   "methylGSA": [
     "clusterProfiler",
     "missMethyl",
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim",
@@ -8775,7 +8208,6 @@
     "GenomicAlignments",
     "rtracklayer",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "BSgenome",
@@ -8803,7 +8235,6 @@
     "bumphunter",
     "genefilter",
     "GEOquery",
-    "AnnotationDbi",
     "GenomicFeatures",
     "AnnotationHubData",
     "annotate",
@@ -8826,7 +8257,6 @@
     "SummarizedExperiment",
     "annotate",
     "genefilter",
-    "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
     "bumphunter",
@@ -8844,7 +8274,6 @@
     "SummarizedExperiment",
     "Category",
     "GOstats",
-    "AnnotationDbi",
     "GSEABase",
     "genefilter",
     "annotate",
@@ -8852,12 +8281,8 @@
     "GenomicRanges",
     "biomaRt"
   ],
-  "miRNAmeConverter": [
-    "AnnotationDbi"
-  ],
-  "miRNAtap": [
-    "AnnotationDbi"
-  ],
+  "miRNAmeConverter": [],
+  "miRNAtap": [],
   "miRSM": [
     "BicARE",
     "SummarizedExperiment",
@@ -8865,7 +8290,6 @@
     "clusterProfiler",
     "ReactomePA",
     "DOSE",
-    "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
     "annotate",
@@ -8877,7 +8301,6 @@
     "clusterProfiler",
     "ReactomePA",
     "DOSE",
-    "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
     "graphite",
@@ -8956,7 +8379,6 @@
     "affyPLM",
     "oligo",
     "oligoClasses",
-    "gcrma",
     "GenomicRanges",
     "SummarizedExperiment"
   ],
@@ -8967,17 +8389,13 @@
     "genefilter",
     "GEOquery",
     "GenomicFeatures",
-    "AnnotationDbi",
     "annotate",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "mirIntegrator": [
-    "AnnotationDbi"
-  ],
+  "mirIntegrator": [],
   "missMethyl": [
-    "AnnotationDbi",
     "GenomicRanges",
     "methylumi",
     "minfi",
@@ -9010,20 +8428,16 @@
     "SummarizedExperiment",
     "VariantAnnotation",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "mitology": [
-    "AnnotationDbi"
-  ],
+  "mitology": [],
   "moanin": [
     "SummarizedExperiment",
     "topGO",
-    "GenomicRanges",
-    "AnnotationDbi"
+    "GenomicRanges"
   ],
   "mobileRNA": [
     "DESeq2",
@@ -9037,7 +8451,6 @@
     "graphite",
     "genefilter",
     "GSEABase",
-    "AnnotationDbi",
     "annotate"
   ],
   "monaLisa": [
@@ -9057,7 +8470,6 @@
     "SummarizedExperiment"
   ],
   "mosdef": [
-    "AnnotationDbi",
     "topGO",
     "clusterProfiler",
     "goseq",
@@ -9098,7 +8510,6 @@
     "SummarizedExperiment",
     "pwalign",
     "biomaRt",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicFeatures",
     "ensembldb",
@@ -9143,7 +8554,6 @@
     "biomaRt",
     "genomeIntervals",
     "ShortRead",
-    "AnnotationDbi",
     "biovizBase",
     "VariantAnnotation",
     "OrganismDbi",
@@ -9152,9 +8562,7 @@
     "txdbmaker",
     "pwalign"
   ],
-  "mslp": [
-    "AnnotationDbi"
-  ],
+  "mslp": [],
   "msmsEDA": [
     "MSnbase",
     "PSMatch",
@@ -9190,7 +8598,6 @@
   ],
   "multiGSEA": [
     "graphite",
-    "AnnotationDbi",
     "AnnotationHub"
   ],
   "multiHiCcompare": [
@@ -9199,13 +8606,10 @@
     "InteractionSet",
     "SummarizedExperiment"
   ],
-  "multiMiR": [
-    "AnnotationDbi"
-  ],
+  "multiMiR": [],
   "multiWGCNA": [
     "SummarizedExperiment",
-    "GenomicRanges",
-    "AnnotationDbi"
+    "GenomicRanges"
   ],
   "multicrispr": [
     "BSgenome",
@@ -9216,7 +8620,6 @@
     "plyranges",
     "rtracklayer",
     "Rsamtools",
-    "AnnotationDbi",
     "regioneR",
     "biovizBase",
     "bamsignals",
@@ -9259,14 +8662,12 @@
     "decompTumor2Sig",
     "rtracklayer",
     "Rsamtools",
-    "AnnotationDbi",
     "GenomicAlignments"
   ],
   "mygene": [
     "GenomicFeatures",
     "txdbmaker",
     "GenomicRanges",
-    "AnnotationDbi",
     "rtracklayer",
     "biomaRt",
     "Rsamtools",
@@ -9278,7 +8679,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -9307,7 +8707,6 @@
     "GenomicRanges",
     "GenomicAlignments",
     "GenomicFeatures",
-    "AnnotationDbi",
     "SummarizedExperiment"
   ],
   "nempi": [
@@ -9324,12 +8723,9 @@
     "scuttle",
     "GenomicRanges",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
-  "netboost": [
-    "AnnotationDbi"
-  ],
+  "netboost": [],
   "ngsReports": [],
   "nipalsMCIA": [
     "MultiAssayExperiment",
@@ -9352,8 +8748,7 @@
   ],
   "npGSEA": [
     "GSEABase",
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "nucleR": [
     "GenomicRanges",
@@ -9379,7 +8774,6 @@
     "AnnotationHub",
     "EDASeq",
     "GSVA",
-    "AnnotationDbi",
     "GenomicRanges",
     "SummarizedExperiment",
     "ShortRead",
@@ -9424,7 +8818,6 @@
     "GenomicRanges",
     "made4",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "omicade4": [
@@ -9457,7 +8850,6 @@
   "ontoProc": [
     "AnnotationHub",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "openCyto": [
@@ -9471,14 +8863,12 @@
     "GenomicRanges"
   ],
   "oposSOM": [
-    "biomaRt",
-    "AnnotationDbi"
+    "biomaRt"
   ],
   "oppar": [
     "GSEABase",
     "GSVA",
     "annotate",
-    "AnnotationDbi",
     "SummarizedExperiment",
     "SingleCellExperiment",
     "SpatialExperiment",
@@ -9488,19 +8878,16 @@
   "optimalFlow": [
     "flowMeans"
   ],
-  "orthogene": [],
   "orthos": [
     "SummarizedExperiment",
     "AnnotationHub",
     "ExperimentHub",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "pRoloc": [
     "MSnbase",
     "MLInterfaces",
     "biomaRt",
-    "AnnotationDbi",
     "annotate",
     "genefilter",
     "SummarizedExperiment",
@@ -9516,7 +8903,6 @@
     "PSMatch",
     "MLInterfaces",
     "biomaRt",
-    "AnnotationDbi",
     "annotate",
     "genefilter",
     "SummarizedExperiment",
@@ -9550,7 +8936,6 @@
     "sva",
     "SummarizedExperiment",
     "GenomicRanges",
-    "AnnotationDbi",
     "biomaRt",
     "Rsamtools",
     "geneplotter",
@@ -9570,7 +8955,6 @@
     "SingleCellExperiment",
     "AnnotationHub",
     "GenomicRanges",
-    "AnnotationDbi",
     "SummarizedExperiment"
   ],
   "pathMED": [
@@ -9582,22 +8966,16 @@
     "SpatialExperiment",
     "BiocSingular",
     "annotate",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
-  "pathRender": [
-    "AnnotationDbi"
-  ],
+  "pathRender": [],
   "pathlinkR": [
     "clusterProfiler",
-    "AnnotationDbi",
     "DOSE",
     "enrichplot",
     "GOSemSim"
   ],
-  "pathview": [
-    "AnnotationDbi"
-  ],
+  "pathview": [],
   "pcaExplorer": [
     "DESeq2",
     "SummarizedExperiment",
@@ -9606,7 +8984,6 @@
     "genefilter",
     "topGO",
     "GOstats",
-    "AnnotationDbi",
     "biomaRt",
     "annotate",
     "Category",
@@ -9663,7 +9040,6 @@
   ],
   "phantasus": [
     "GEOquery",
-    "AnnotationDbi",
     "DESeq2",
     "apeglm",
     "rhdf5client",
@@ -9677,7 +9053,6 @@
   "phenoTest": [
     "annotate",
     "Category",
-    "AnnotationDbi",
     "biomaRt",
     "GSEABase",
     "genefilter"
@@ -9765,7 +9140,6 @@
     "ontoProc",
     "AnnotationHub",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "pqsfinder": [
@@ -9790,7 +9164,6 @@
     "GenomicRanges",
     "rCGH",
     "GenomicFeatures",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -9805,7 +9178,6 @@
     "BSgenome",
     "AnnotationHub",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "biovizBase",
@@ -9817,7 +9189,6 @@
     "AnnotationFilter"
   ],
   "proActiv": [
-    "AnnotationDbi",
     "DESeq2",
     "GenomicRanges",
     "GenomicFeatures",
@@ -9829,7 +9200,6 @@
     "biomaRt"
   ],
   "proBAMr": [
-    "AnnotationDbi",
     "GenomicRanges",
     "GenomicFeatures",
     "txdbmaker",
@@ -9853,7 +9223,6 @@
     "EnrichedHeatmap",
     "rtracklayer",
     "Rsamtools",
-    "AnnotationDbi",
     "enrichplot",
     "GenomicAlignments",
     "chipseq",
@@ -9869,11 +9238,9 @@
   ],
   "protGear": [
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "psichomics": [
-    "AnnotationDbi",
     "AnnotationHub",
     "recount",
     "SummarizedExperiment",
@@ -9920,7 +9287,6 @@
   ],
   "qpgraph": [
     "annotate",
-    "AnnotationDbi",
     "GenomicRanges",
     "GenomicFeatures",
     "rtracklayer",
@@ -9941,7 +9307,6 @@
     "sva",
     "GenomicRanges",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "qsvaR": [
@@ -9949,7 +9314,6 @@
     "sva",
     "GenomicRanges",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "quantiseqr": [
@@ -9964,7 +9328,6 @@
     "genefilter",
     "GEOquery",
     "GenomicFeatures",
-    "AnnotationDbi",
     "annotate",
     "rtracklayer",
     "Rsamtools",
@@ -9981,7 +9344,6 @@
   "rCGH": [
     "GenomicFeatures",
     "GenomicRanges",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -9998,15 +9360,13 @@
   "rGREAT": [
     "GenomicRanges",
     "GenomicFeatures",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
   "rGenomeTracks": [
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "rRDP": [],
   "rSWeeP": [],
@@ -10014,15 +9374,12 @@
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "rTRM": [
-    "AnnotationDbi"
-  ],
+  "rTRM": [],
   "rTRMui": [
     "rTRM",
     "MotifDb",
     "GenomicRanges",
     "rtracklayer",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment"
@@ -10035,8 +9392,7 @@
     "SingleCellExperiment",
     "GenomicAlignments",
     "GenomicFeatures",
-    "rtracklayer",
-    "AnnotationDbi"
+    "rtracklayer"
   ],
   "ramr": [
     "GenomicRanges"
@@ -10045,7 +9401,6 @@
     "GenomicAlignments",
     "Rsamtools",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicRanges",
     "SummarizedExperiment"
   ],
@@ -10062,7 +9417,6 @@
     "GEOquery",
     "GenomicRanges",
     "rtracklayer",
-    "AnnotationDbi",
     "bumphunter",
     "GenomicAlignments",
     "GenomicFeatures",
@@ -10086,7 +9440,6 @@
     "genefilter",
     "GEOquery",
     "GenomicFeatures",
-    "AnnotationDbi",
     "annotate",
     "rtracklayer",
     "Rsamtools",
@@ -10100,7 +9453,6 @@
     "Rsamtools",
     "rtracklayer",
     "txdbmaker",
-    "AnnotationDbi",
     "SummarizedExperiment"
   ],
   "regionReport": [
@@ -10109,7 +9461,6 @@
     "DESeq2",
     "GenomicRanges",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "bumphunter",
     "GenomicAlignments",
     "GenomicFeatures",
@@ -10146,7 +9497,6 @@
     "GenomicRanges"
   ],
   "regutools": [
-    "AnnotationDbi",
     "AnnotationHub",
     "GenomicRanges",
     "Gviz",
@@ -10172,7 +9522,6 @@
     "goseq",
     "biomaRt",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicRanges",
     "rtracklayer",
     "GenomicFeatures",
@@ -10189,7 +9538,6 @@
   ],
   "ribosomeProfilingQC": [
     "GenomicRanges",
-    "AnnotationDbi",
     "BSgenome",
     "EDASeq",
     "GenomicAlignments",
@@ -10233,7 +9581,6 @@
     "GenomicRanges",
     "bumphunter",
     "GenomicFeatures",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -10261,8 +9608,7 @@
     "GenomicRanges"
   ],
   "rrvgo": [
-    "GOSemSim",
-    "AnnotationDbi"
+    "GOSemSim"
   ],
   "rtracklayer": [
     "GenomicRanges",
@@ -10281,17 +9627,13 @@
   "sSNAPPY": [
     "graphite",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
-  "safe": [
-    "AnnotationDbi"
-  ],
+  "safe": [],
   "sampleClassifier": [
     "MGFM",
     "MGFR",
     "annotate",
-    "AnnotationDbi",
     "biomaRt"
   ],
   "sangeranalyseR": [
@@ -10309,7 +9651,6 @@
     "DEXSeq",
     "GenomicRanges",
     "GenomicAlignments",
-    "AnnotationDbi",
     "Gviz",
     "Rsamtools",
     "txdbmaker",
@@ -10332,7 +9673,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "AnnotationHub",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "scBFA": [
@@ -10342,7 +9682,6 @@
     "DESeq2",
     "GenomicRanges",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "scCB2": [
@@ -10358,7 +9697,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "annotate",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "scDD": [
@@ -10419,7 +9757,6 @@
     "GenomicRanges",
     "GenomicFeatures",
     "AnnotationFilter",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "SingleCellExperiment",
@@ -10470,7 +9807,6 @@
   "scPCA": [],
   "scPipe": [
     "SingleCellExperiment",
-    "AnnotationDbi",
     "biomaRt",
     "DropletUtils",
     "GenomicRanges",
@@ -10487,7 +9823,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "GOSemSim",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "scRNAseqApp": [
@@ -10516,11 +9851,9 @@
     "SummarizedExperiment",
     "schex",
     "annotate",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "scTensor": [
-    "AnnotationDbi",
     "SummarizedExperiment",
     "SingleCellExperiment",
     "AnnotationHub",
@@ -10554,7 +9887,6 @@
     "ensembldb",
     "scuttle",
     "BiocSingular",
-    "AnnotationDbi",
     "AnnotationFilter",
     "rtracklayer",
     "Rsamtools",
@@ -10568,7 +9900,6 @@
   ],
   "scanMiRApp": [
     "scanMiR",
-    "AnnotationDbi",
     "AnnotationFilter",
     "AnnotationHub",
     "ensembldb",
@@ -10626,7 +9957,6 @@
     "BSgenome",
     "annotatr",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicFeatures",
     "regioneR",
     "rtracklayer",
@@ -10642,7 +9972,6 @@
     "ShortRead",
     "Rsamtools",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
     "GenomicAlignments",
@@ -10653,7 +9982,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -10686,7 +10014,6 @@
     "GenomicRanges",
     "Rsamtools",
     "ShortRead",
-    "AnnotationDbi",
     "ggbio",
     "rtracklayer",
     "SingleCellExperiment",
@@ -10737,7 +10064,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "bamsignals",
-    "AnnotationDbi",
     "enrichplot",
     "GenomicFeatures",
     "rtracklayer",
@@ -10751,7 +10077,6 @@
     "GenomicRanges",
     "GenomicFeatures",
     "BSgenome",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments",
@@ -10759,8 +10084,7 @@
   ],
   "seq2pathway": [
     "biomaRt",
-    "GenomicRanges",
-    "AnnotationDbi"
+    "GenomicRanges"
   ],
   "seqArchRplus": [
     "GenomicRanges",
@@ -10771,7 +10095,6 @@
     "seqPattern",
     "rtracklayer",
     "Rsamtools",
-    "AnnotationDbi",
     "enrichplot",
     "GenomicFeatures",
     "DOSE",
@@ -10786,7 +10109,6 @@
     "SummarizedExperiment",
     "Rsamtools",
     "GenomicAlignments",
-    "AnnotationDbi",
     "BSgenome",
     "GenomicFeatures"
   ],
@@ -10804,8 +10126,7 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "ExperimentHub",
-    "AnnotationHub",
-    "AnnotationDbi"
+    "AnnotationHub"
   ],
   "sevenC": [
     "InteractionSet",
@@ -10822,7 +10143,6 @@
     "SingleCellExperiment",
     "standR",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "scuttle",
     "BiocSingular",
     "GenomicRanges",
@@ -10845,7 +10165,6 @@
     "genefilter",
     "GEOquery",
     "GenomicFeatures",
-    "AnnotationDbi",
     "annotate",
     "rtracklayer",
     "Rsamtools",
@@ -10862,7 +10181,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "GenomicFeatures",
-    "AnnotationDbi",
     "annotate"
   ],
   "sigFeature": [
@@ -10871,7 +10189,6 @@
   ],
   "signatureSearch": [
     "SummarizedExperiment",
-    "AnnotationDbi",
     "ExperimentHub",
     "clusterProfiler",
     "DOSE",
@@ -10890,11 +10207,9 @@
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicFeatures"
   ],
   "signifinder": [
-    "AnnotationDbi",
     "consensusOV",
     "ensembldb",
     "GSVA",
@@ -10926,9 +10241,7 @@
     "SpatialExperiment",
     "GenomicRanges"
   ],
-  "simplifyEnrichment": [
-    "AnnotationDbi"
-  ],
+  "simplifyEnrichment": [],
   "singleCellTK": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -10954,7 +10267,6 @@
     "TrajectoryUtils",
     "scuttle",
     "zellkonverter",
-    "AnnotationDbi",
     "BiocSingular",
     "alabaster.se",
     "GenomicRanges",
@@ -10974,7 +10286,6 @@
     "GSEABase",
     "SummarizedExperiment",
     "annotate",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "sitadela": [
@@ -10984,7 +10295,6 @@
     "Rsamtools",
     "rtracklayer",
     "txdbmaker",
-    "AnnotationDbi",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
@@ -10996,7 +10306,6 @@
     "SummarizedExperiment",
     "annotate",
     "genefilter",
-    "AnnotationDbi",
     "GenomicFeatures",
     "bumphunter",
     "GEOquery",
@@ -11010,7 +10319,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "annotate",
-    "AnnotationDbi",
     "GenomicRanges"
   ],
   "slingshot": [
@@ -11070,7 +10378,6 @@
   "sparrow": [
     "BiocSet",
     "GSEABase",
-    "AnnotationDbi",
     "annotate"
   ],
   "spatialDE": [
@@ -11085,14 +10392,12 @@
     "ExperimentHub",
     "AnnotationHub",
     "SingleCellExperiment",
-    "GenomicRanges",
-    "AnnotationDbi"
+    "GenomicRanges"
   ],
   "spatialHeatmap": [
     "genefilter",
     "SummarizedExperiment",
     "SingleCellExperiment",
-    "AnnotationDbi",
     "annotate",
     "GenomicRanges"
   ],
@@ -11112,7 +10417,6 @@
     "TFBSTools",
     "rtracklayer",
     "Rsamtools",
-    "AnnotationDbi",
     "InteractionSet",
     "Gviz",
     "pwalign",
@@ -11138,7 +10442,6 @@
     "genefilter",
     "cytomapper",
     "GenomicRanges",
-    "AnnotationDbi",
     "annotate"
   ],
   "spiky": [
@@ -11166,8 +10469,7 @@
   ],
   "splineTimeR": [
     "GSEABase",
-    "annotate",
-    "AnnotationDbi"
+    "annotate"
   ],
   "spoon": [
     "SpatialExperiment",
@@ -11202,7 +10504,6 @@
     "GenomicFeatures",
     "GenomicAlignments",
     "Gviz",
-    "AnnotationDbi",
     "biomaRt",
     "ensembldb",
     "BSgenome",
@@ -11238,7 +10539,6 @@
     "ShortRead",
     "Rsamtools",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
     "GenomicAlignments",
@@ -11250,7 +10550,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomicFeatures",
-    "AnnotationDbi",
     "rtracklayer"
   ],
   "struct": [
@@ -11268,8 +10567,7 @@
   ],
   "surfaltr": [
     "biomaRt",
-    "msa",
-    "AnnotationDbi"
+    "msa"
   ],
   "survClust": [
     "MultiAssayExperiment",
@@ -11282,7 +10580,6 @@
   ],
   "sva": [
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "svaNUMT": [
@@ -11292,7 +10589,6 @@
     "StructuralVariantAnnotation",
     "GenomicFeatures",
     "pwalign",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -11304,7 +10600,6 @@
     "StructuralVariantAnnotation",
     "VariantAnnotation",
     "GenomicFeatures",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
     "pwalign",
@@ -11350,7 +10645,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "Rsamtools",
-    "AnnotationDbi",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -11380,8 +10674,7 @@
     "topGO",
     "GOSemSim",
     "GenomicRanges",
-    "SummarizedExperiment",
-    "AnnotationDbi"
+    "SummarizedExperiment"
   ],
   "tadar": [
     "GenomicRanges",
@@ -11390,7 +10683,6 @@
     "VariantAnnotation",
     "rtracklayer",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "ensembldb",
     "BSgenome",
@@ -11405,14 +10697,12 @@
   "tenXplore": [
     "ontoProc",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "AnnotationHub",
     "GenomicRanges"
   ],
   "terapadog": [
     "DESeq2",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicRanges",
     "SummarizedExperiment"
   ],
@@ -11422,7 +10712,6 @@
     "RaggedExperiment",
     "TCGAutils",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "GenomicFeatures",
     "GenomicDataCommons",
     "rtracklayer",
@@ -11471,21 +10760,17 @@
     "SingleCellExperiment"
   ],
   "tigre": [
-    "AnnotationDbi",
     "annotate"
   ],
   "tilingArray": [
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "tomoda": [
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "topGO": [
-    "AnnotationDbi"
-  ],
+  "topGO": [],
   "topdownr": [
     "MSnbase",
     "PSMatch",
@@ -11508,7 +10793,6 @@
     "Gviz",
     "Rsamtools",
     "rtracklayer",
-    "AnnotationDbi",
     "InteractionSet",
     "txdbmaker",
     "SummarizedExperiment",
@@ -11539,13 +10823,11 @@
     "rtracklayer",
     "ShortRead",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "pwalign"
   ],
   "transcriptogramer": [
     "biomaRt",
-    "topGO",
-    "AnnotationDbi"
+    "topGO"
   ],
   "transformGamPoi": [
     "glmGamPoi",
@@ -11564,7 +10846,6 @@
     "VariantAnnotation",
     "rtracklayer",
     "Rsamtools",
-    "AnnotationDbi",
     "GenomicAlignments"
   ],
   "transomics2cytoscape": [],
@@ -11591,7 +10872,6 @@
   ],
   "tricycle": [
     "SingleCellExperiment",
-    "AnnotationDbi",
     "scater",
     "GenomicRanges",
     "SummarizedExperiment",
@@ -11601,14 +10881,12 @@
   "trigger": [
     "sva",
     "genefilter",
-    "AnnotationDbi",
     "annotate"
   ],
   "triplex": [
     "GenomicRanges"
   ],
   "txcutr": [
-    "AnnotationDbi",
     "GenomicFeatures",
     "txdbmaker",
     "GenomicRanges",
@@ -11621,7 +10899,6 @@
   "txdbmaker": [
     "GenomicRanges",
     "GenomicFeatures",
-    "AnnotationDbi",
     "rtracklayer",
     "biomaRt",
     "Rsamtools",
@@ -11631,7 +10908,6 @@
   "tximeta": [
     "SummarizedExperiment",
     "GenomicRanges",
-    "AnnotationDbi",
     "GenomicFeatures",
     "txdbmaker",
     "ensembldb",
@@ -11650,7 +10926,6 @@
     "ensembldb",
     "rtracklayer",
     "biomaRt",
-    "AnnotationDbi",
     "GenomicFeatures",
     "BSgenome",
     "biovizBase",
@@ -11684,7 +10959,6 @@
     "scater",
     "ExperimentHub",
     "rtracklayer",
-    "AnnotationDbi",
     "Rsamtools",
     "GenomicAlignments",
     "BiocSingular"
@@ -11692,7 +10966,6 @@
   "vissE": [
     "GSEABase",
     "annotate",
-    "AnnotationDbi",
     "ExperimentHub",
     "AnnotationHub"
   ],
@@ -11701,7 +10974,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "GenomicFeatures",
-    "AnnotationDbi",
     "rtracklayer",
     "Rsamtools",
     "GenomicAlignments"
@@ -11715,7 +10987,6 @@
     "GenomicRanges",
     "gwascat",
     "GenomicFeatures",
-    "AnnotationDbi",
     "VariantAnnotation",
     "AnnotationHub",
     "rtracklayer",
@@ -11730,7 +11001,6 @@
     "DiffBind",
     "csaw",
     "DESeq2",
-    "AnnotationDbi",
     "pwalign",
     "GenomicAlignments",
     "GenomicFeatures",
@@ -11760,7 +11030,6 @@
     "GenomicFeatures",
     "GenomicRanges",
     "annotate",
-    "AnnotationDbi",
     "SummarizedExperiment",
     "genefilter",
     "rtracklayer",
@@ -11774,14 +11043,11 @@
     "Rsamtools",
     "GenomicFeatures",
     "rtracklayer",
-    "AnnotationDbi",
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
   "webbioc": [
-    "annaffy",
-    "gcrma",
-    "AnnotationDbi"
+    "annaffy"
   ],
   "weitrix": [
     "SummarizedExperiment",
@@ -11803,7 +11069,6 @@
     "SingleCellExperiment",
     "singscore",
     "AnnotationHub",
-    "AnnotationDbi",
     "GenomicRanges",
     "GSEABase",
     "annotate"
@@ -11838,7 +11103,6 @@
   "yarn": [
     "biomaRt",
     "quantro",
-    "AnnotationDbi",
     "minfi",
     "GenomicRanges",
     "SummarizedExperiment",
@@ -11864,7 +11128,6 @@
     "EnrichmentBrowser",
     "GSEABase",
     "SummarizedExperiment",
-    "AnnotationDbi",
     "graphite",
     "pathview",
     "safe",
@@ -11875,7 +11138,6 @@
     "SummarizedExperiment",
     "SingleCellExperiment",
     "genefilter",
-    "AnnotationDbi",
     "annotate",
     "GenomicRanges"
   ],

@@ -818,3 +818,10 @@ MsBackendMgf
 MsBackendMsp
 procoil
 sketchR
+AnnotationDbi
+cytoMEM
+DEGraph
+gcrma
+GeomxTools
+MsBackendSql
+orthogene
