@@ -78,7 +78,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "Anaquin": [],
   "AneuFinder": [
     "bamsignals"
   ],
@@ -280,7 +279,6 @@
   "CNEr": [
     "rtracklayer"
   ],
-  "CNVRanger": [],
   "CNVfilteR": [
     "regioneR",
     "karyoploteR",
@@ -546,9 +544,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "DEFormats": [],
-  "DEGreport": [],
-  "DELocal": [],
   "DEP": [
     "MSnbase",
     "PSMatch"
@@ -683,7 +678,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "EBSEA": [],
   "EDASeq": [
     "ShortRead",
     "GenomicFeatures",
@@ -967,7 +961,6 @@
     "SingleCellExperiment"
   ],
   "HTSFilter": [],
-  "HarmonizR": [],
   "Harshlight": [],
   "HelloRanges": [
     "BSgenome",
@@ -1095,9 +1088,7 @@
   "LoomExperiment": [
     "SingleCellExperiment"
   ],
-  "LymphoSeq": [
-    "msa"
-  ],
+  "LymphoSeq": [],
   "M3Drop": [
     "scater",
     "SingleCellExperiment",
@@ -1233,7 +1224,6 @@
   "MetaNeighbor": [
     "SingleCellExperiment"
   ],
-  "MetaPhOR": [],
   "MetaboAnnotation": [],
   "MetaboSignal": [
     "mygene",
@@ -1443,7 +1433,6 @@
   ],
   "PROPS": [],
   "PSMatch": [],
-  "PanomiR": [],
   "PathoStat": [],
   "PeacoQC": [
     "flowWorkspace"
@@ -2411,9 +2400,7 @@
     "BSgenome"
   ],
   "breakpointR": [],
-  "broadSeq": [
-    "DELocal"
-  ],
+  "broadSeq": [],
   "bsseq": [
     "BSgenome",
     "rtracklayer"
@@ -2485,7 +2472,6 @@
     "scuttle"
   ],
   "cellbaseR": [],
-  "cellity": [],
   "censcyt": [
     "diffcyt"
   ],
@@ -3113,19 +3099,14 @@
   "gDR": [
     "gDRcore",
     "gDRimport",
-    "gDRutils",
     "CoreGx",
     "PharmacoGx"
   ],
-  "gDRcore": [
-    "gDRutils"
-  ],
+  "gDRcore": [],
   "gDRimport": [
     "CoreGx",
-    "PharmacoGx",
-    "gDRutils"
+    "PharmacoGx"
   ],
-  "gDRutils": [],
   "gINTomics": [
     "GenomicFeatures",
     "ReactomePA",
@@ -3364,9 +3345,7 @@
   ],
   "interactiveDisplay": [],
   "isobar": [],
-  "isomiRs": [
-    "DEGreport"
-  ],
+  "isomiRs": [],
   "jazzPanda": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -3701,7 +3680,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "msa": [],
   "msgbsR": [
     "BSgenome",
     "easyRNASeq",
@@ -3821,9 +3799,7 @@
     "SpatialExperiment",
     "rtracklayer"
   ],
-  "odseq": [
-    "msa"
-  ],
+  "odseq": [],
   "oligo": [
     "oligoClasses"
   ],
@@ -3832,7 +3808,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "omicRexposome": [],
   "omicsPrint": [],
   "openCyto": [
     "flowWorkspace"
@@ -4062,7 +4037,6 @@
   ],
   "regionReport": [
     "derfinder",
-    "DEFormats",
     "bumphunter",
     "GenomicFeatures",
     "GenomicFiles",
@@ -4612,9 +4586,7 @@
   "structToolbox": [
     "struct"
   ],
-  "surfaltr": [
-    "msa"
-  ],
+  "surfaltr": [],
   "survClust": [],
   "svaNUMT": [
     "rtracklayer",
@@ -4653,7 +4625,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "tRanslatome": [],
   "tadar": [
     "Gviz",
     "VariantAnnotation",
@@ -4664,7 +4635,6 @@
     "biovizBase"
   ],
   "tenXplore": [],
-  "terapadog": [],
   "terraTCGAdata": [
     "TCGAutils",
     "GenomicFeatures",
