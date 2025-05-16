@@ -920,3 +920,13 @@ RPA
 Rsamtools
 Site2Target
 SQLDataFrame
+annotate
+cTRAP
+flowDensity
+MeSHDbi
+rGenomeTracks
+SeqArray
+SIAMCAT
+SigFuge
+SummarizedExperiment
+tRNA
