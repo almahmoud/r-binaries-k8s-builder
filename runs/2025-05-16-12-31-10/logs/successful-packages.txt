@@ -906,3 +906,17 @@ MSA2dist
 OmicCircos
 PIPETS
 QSutils
+csdR
+customCMPdb
+ExperimentHub
+flowFP
+GOfuncR
+HilbertCurve
+ipdDb
+Melissa
+PCAtools
+RCM
+RPA
+Rsamtools
+Site2Target
+SQLDataFrame
