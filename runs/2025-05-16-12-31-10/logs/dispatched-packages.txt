@@ -1301,3 +1301,5 @@ flowWorkspace
 SVMDO
 enrichplot
 panelcn.mops
+ADAMgui
+phantasusLite

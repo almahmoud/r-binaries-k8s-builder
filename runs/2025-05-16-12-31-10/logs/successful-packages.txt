@@ -1095,3 +1095,17 @@ SpatialCPie
 TEQC
 tracktables
 vissE
+ADAM
+BiocSklearn
+BioGA
+CAEN
+CNVPanelizer
+CTdata
+h5vc
+LRcell
+panelcn.mops
+Pirat
+rhdf5client
+scPCA
+seqPattern
+sparrow

@@ -2,10 +2,7 @@
   "ACE": [
     "QDNAseq"
   ],
-  "ADAM": [],
-  "ADAMgui": [
-    "ADAM"
-  ],
+  "ADAMgui": [],
   "ADImpute": [
     "SingleCellExperiment"
   ],
@@ -238,7 +235,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "BioGA": [],
   "BioNERO": [
     "sva",
     "genefilter"
@@ -248,7 +244,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "BiocSklearn": [],
   "BloodGen3Module": [],
   "BreastSubtypeR": [],
   "BubbleTree": [
@@ -263,7 +258,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "CAEN": [],
   "CAFE": [
     "biovizBase",
     "ggbio",
@@ -352,7 +346,6 @@
   "CNTools": [
     "genefilter"
   ],
-  "CNVPanelizer": [],
   "CNVRanger": [
     "RaggedExperiment"
   ],
@@ -417,9 +410,7 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "CTdata": [],
   "CTexploreR": [
-    "CTdata",
     "SingleCellExperiment"
   ],
   "CaMutQC": [
@@ -465,8 +456,7 @@
   "CexoR": [
     "rtracklayer",
     "genomation",
-    "BSgenome",
-    "seqPattern"
+    "BSgenome"
   ],
   "ChAMP": [
     "minfi",
@@ -899,8 +889,7 @@
     "rtracklayer",
     "enrichplot",
     "GenomicFeatures",
-    "BSgenome",
-    "seqPattern"
+    "BSgenome"
   ],
   "EpiMix": [
     "biomaRt",
@@ -1172,7 +1161,6 @@
     "genomation",
     "txdbmaker",
     "BSgenome",
-    "seqPattern",
     "biomaRt"
   ],
   "GeoTcgaData": [],
@@ -1374,7 +1362,6 @@
     "PSMatch",
     "MultiAssayExperiment"
   ],
-  "LRcell": [],
   "Lheuristic": [
     "MultiAssayExperiment"
   ],
@@ -1897,7 +1884,6 @@
     "ReactomePA",
     "enrichplot"
   ],
-  "Pirat": [],
   "PrInCE": [
     "MSnbase",
     "PSMatch",
@@ -1986,7 +1972,6 @@
     "GenomicFeatures",
     "txdbmaker",
     "genomation",
-    "seqPattern",
     "biomaRt"
   ],
   "RCSL": [
@@ -3826,7 +3811,6 @@
   "fCCAC": [
     "genomation",
     "BSgenome",
-    "seqPattern",
     "rtracklayer"
   ],
   "factR": [
@@ -3947,7 +3931,6 @@
   "genoCN": [],
   "genomation": [
     "BSgenome",
-    "seqPattern",
     "rtracklayer"
   ],
   "geomeTriD": [
@@ -4048,7 +4031,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "h5vc": [],
   "hdxmsqc": [
     "QFeatures",
     "MultiAssayExperiment"
@@ -4830,7 +4812,6 @@
     "genefilter"
   ],
   "pairkat": [],
-  "panelcn.mops": [],
   "partCNV": [
     "SingleCellExperiment"
   ],
@@ -4879,12 +4860,9 @@
   "pgxRpi": [],
   "phantasus": [
     "DESeq2",
-    "rhdf5client",
     "phantasusLite"
   ],
-  "phantasusLite": [
-    "rhdf5client"
-  ],
+  "phantasusLite": [],
   "phenoTest": [
     "Category",
     "biomaRt",
@@ -5123,7 +5101,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "rhdf5client": [],
   "riboSeqR": [
     "baySeq"
   ],
@@ -5276,7 +5253,6 @@
     "scuttle"
   ],
   "scMultiSim": [],
-  "scPCA": [],
   "scPipe": [
     "SingleCellExperiment",
     "biomaRt",
@@ -5446,7 +5422,6 @@
     "BSgenome",
     "ChIPseeker",
     "clusterProfiler",
-    "seqPattern",
     "rtracklayer",
     "enrichplot",
     "GenomicFeatures"
@@ -5457,7 +5432,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "seqPattern": [],
   "seqsetvis": [
     "rtracklayer"
   ],
@@ -5603,7 +5577,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "sparrow": [],
   "spatialDE": [
     "SpatialExperiment",
     "SingleCellExperiment"
