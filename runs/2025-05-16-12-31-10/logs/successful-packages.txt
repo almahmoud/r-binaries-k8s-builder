@@ -1063,3 +1063,14 @@ Rcpi
 scrapper
 tidybulk
 TissueEnrich
+alabaster.ranges
+fastLiquidAssociation
+GlobalAncova
+ncdfFlow
+packFinder
+pepStat
+pqsfinder
+Qtlizer
+reconsi
+sSNAPPY
+target

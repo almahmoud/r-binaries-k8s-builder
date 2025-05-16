@@ -637,26 +637,22 @@
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "ncdfFlow",
     "flowWorkspace"
   ],
   "CytoML": [
     "flowWorkspace",
     "openCyto",
-    "ggcyto",
-    "ncdfFlow"
+    "ggcyto"
   ],
   "CytoPipeline": [
     "ggcyto",
     "PeacoQC",
-    "ncdfFlow",
     "flowWorkspace"
   ],
   "CytoPipelineGUI": [
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "ncdfFlow",
     "flowWorkspace"
   ],
   "DAMEfinder": [
@@ -1205,7 +1201,6 @@
   "GloScope": [
     "SingleCellExperiment"
   ],
-  "GlobalAncova": [],
   "GmicR": [
     "Category",
     "GOstats",
@@ -1913,8 +1908,7 @@
     "DESeq2"
   ],
   "PeacoQC": [
-    "flowWorkspace",
-    "ncdfFlow"
+    "flowWorkspace"
   ],
   "PepSetTest": [],
   "PhIPData": [],
@@ -1975,7 +1969,6 @@
     "MultiAssayExperiment"
   ],
   "QTLExperiment": [],
-  "Qtlizer": [],
   "QuasR": [
     "BSgenome",
     "GenomicFeatures",
@@ -2864,7 +2857,6 @@
     "scuttle"
   ],
   "alabaster": [
-    "alabaster.ranges",
     "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
@@ -2881,18 +2873,13 @@
   "alabaster.files": [],
   "alabaster.mae": [
     "MultiAssayExperiment",
-    "alabaster.se",
-    "alabaster.ranges"
+    "alabaster.se"
   ],
-  "alabaster.ranges": [],
   "alabaster.sce": [
     "SingleCellExperiment",
-    "alabaster.se",
-    "alabaster.ranges"
+    "alabaster.se"
   ],
-  "alabaster.se": [
-    "alabaster.ranges"
-  ],
+  "alabaster.se": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
     "alabaster.sce",
@@ -2901,20 +2888,17 @@
     "alabaster.se",
     "SpatialExperiment",
     "DropletUtils",
-    "alabaster.ranges",
     "scuttle"
   ],
   "alabaster.spatial": [
     "SpatialExperiment",
     "alabaster.sce",
     "SingleCellExperiment",
-    "alabaster.se",
-    "alabaster.ranges"
+    "alabaster.se"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
     "alabaster.se",
-    "alabaster.ranges",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures"
@@ -3912,7 +3896,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "fastLiquidAssociation": [],
   "fcScan": [
     "VariantAnnotation",
     "rtracklayer",
@@ -3945,22 +3928,17 @@
   "flowBin": [],
   "flowGate": [
     "flowWorkspace",
-    "ggcyto",
-    "ncdfFlow"
+    "ggcyto"
   ],
   "flowSpecs": [],
   "flowStats": [
-    "flowWorkspace",
-    "ncdfFlow"
+    "flowWorkspace"
   ],
   "flowVS": [
     "flowStats",
-    "flowWorkspace",
-    "ncdfFlow"
+    "flowWorkspace"
   ],
-  "flowWorkspace": [
-    "ncdfFlow"
-  ],
+  "flowWorkspace": [],
   "frma": [
     "oligo",
     "oligoClasses"
@@ -4059,7 +4037,6 @@
     "biomaRt"
   ],
   "ggcyto": [
-    "ncdfFlow",
     "flowWorkspace"
   ],
   "ggmsa": [],
@@ -4800,7 +4777,6 @@
     "PSMatch",
     "MultiAssayExperiment"
   ],
-  "ncdfFlow": [],
   "nearBynding": [
     "plyranges",
     "rtracklayer",
@@ -4876,7 +4852,6 @@
     "RaggedExperiment"
   ],
   "openCyto": [
-    "ncdfFlow",
     "flowWorkspace"
   ],
   "openPrimeR": [],
@@ -4908,7 +4883,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "packFinder": [],
   "padma": [
     "MultiAssayExperiment"
   ],
@@ -4972,7 +4946,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "pepStat": [],
   "periodicDNA": [
     "BSgenome",
     "rtracklayer"
@@ -5031,7 +5004,6 @@
     "SingleCellExperiment"
   ],
   "pogos": [],
-  "pqsfinder": [],
   "pram": [
     "rtracklayer"
   ],
@@ -5162,7 +5134,6 @@
   "ramwas": [
     "biomaRt"
   ],
-  "reconsi": [],
   "recount": [
     "derfinder",
     "rtracklayer",
@@ -5275,7 +5246,6 @@
   "rrvgo": [],
   "rtracklayer": [],
   "sRACIPE": [],
-  "sSNAPPY": [],
   "sampleClassifier": [
     "MGFM",
     "MGFR",
@@ -5661,8 +5631,7 @@
     "SpatialExperiment",
     "M3Drop",
     "alabaster.sce",
-    "genefilter",
-    "alabaster.ranges"
+    "genefilter"
   ],
   "sitadela": [
     "biomaRt",
@@ -5892,7 +5861,6 @@
     "BSgenome",
     "biovizBase"
   ],
-  "target": [],
   "tenXplore": [],
   "terapadog": [
     "DESeq2",

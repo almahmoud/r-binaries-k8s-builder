@@ -1296,3 +1296,5 @@ rrvgo
 sSNAPPY
 CCPROMISE
 RcisTarget
+alabaster.se
+flowWorkspace
