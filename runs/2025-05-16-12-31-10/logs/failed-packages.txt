@@ -5,3 +5,5 @@ RbowtieCuda
 genoCN
 hypeR
 cisPath
+PhenStat
+RedisParam

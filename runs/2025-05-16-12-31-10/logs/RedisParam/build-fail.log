@@ -1,0 +1,114 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''RedisParam'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'RedisParam'
+also installing the dependencies ‘storr’, ‘bookdown’, ‘redux’, ‘BiocStyle’
+
+trying URL 'https://cloud.r-project.org/src/contrib/storr_1.2.6.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/redux_1.1.4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocStyle_2.36.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/RedisParam_1.10.0.tar.gz'
+* installing *source* package ‘storr’ ...
+** this is package ‘storr’ version ‘1.2.6’
+** package ‘storr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c storr.c -o storr.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o storr.so storr.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-storr/00new/storr/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘storr’ as ‘storr_1.2.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (storr)
+* installing *source* package ‘bookdown’ ...
+** this is package ‘bookdown’ version ‘0.43’
+** package ‘bookdown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.43_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *source* package ‘redux’ ...
+** this is package ‘redux’ version ‘1.1.4’
+** package ‘redux’ successfully unpacked and MD5 sums checked
+** using staged installation
+Using PKG_CFLAGS=-I/usr/include/hiredis
+Using PKG_LIBS=-lhiredis
+------------------------- ANTICONF ERROR ---------------------------
+Configuration failed because hiredis was not found. Try installing:
+ * deb: libhiredis-dev (Debian, Ubuntu, etc)
+ * rpm: hiredis-devel (Fedora, EPEL)
+ * brew: hiredis (OSX)
+If hiredis is already installed, check that 'pkg-config' is in your
+PATH and PKG_CONFIG_PATH contains a hiredis.pc file. If pkg-config
+is unavailable you can set INCLUDE_DIR and LIB_DIR manually via:
+R CMD INSTALL --configure-vars='INCLUDE_DIR=... LIB_DIR=...'
+--------------------------------------------------------------------
+ERROR: configuration failed for package ‘redux’
+* removing ‘/usr/local/lib/R/site-library/redux’
+* installing *source* package ‘BiocStyle’ ...
+** this is package ‘BiocStyle’ version ‘2.36.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+ERROR: dependency ‘redux’ is not available for package ‘RedisParam’
+Perhaps try a variation of:
+install.packages('redux')
+* removing ‘/usr/local/lib/R/site-library/RedisParam’
+
+The downloaded source packages are in
+	‘/tmp/RtmpyngcO0/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘redux’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘RedisParam’ had non-zero exit status
+
+real	0m16.600s
+user	0m12.772s
+sys	0m8.698s
