@@ -1376,3 +1376,7 @@ edge
 qsmooth
 qsvaR
 trigger
+CNVRanger
+RTNduals
+SigCheck
+omicRexposome
