@@ -1269,3 +1269,6 @@ breakpointR
 mosaics
 prebs
 rtracklayer
+affylmGUI
+pogos
+tenXplore

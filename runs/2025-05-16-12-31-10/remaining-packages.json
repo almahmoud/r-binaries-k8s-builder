@@ -1353,7 +1353,6 @@
   "HybridExpress": [
     "DESeq2"
   ],
-  "IFAA": [],
   "ILoReg": [
     "SingleCellExperiment"
   ],
@@ -1451,12 +1450,10 @@
     "PSMatch",
     "MultiAssayExperiment"
   ],
-  "LRBaseDbi": [],
   "LRcell": [],
   "Lheuristic": [
     "MultiAssayExperiment"
   ],
-  "LimROTS": [],
   "LinkHD": [
     "MultiAssayExperiment"
   ],
@@ -2933,7 +2930,6 @@
   ],
   "adductomicsR": [],
   "affyILM": [],
-  "affyPLM": [],
   "affycoretools": [
     "GOstats",
     "oligoClasses",
@@ -2954,9 +2950,7 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "affylmGUI": [
-    "affyPLM"
-  ],
+  "affylmGUI": [],
   "aggregateBioVar": [
     "SingleCellExperiment"
   ],
@@ -3041,7 +3035,6 @@
   "anota2seq": [
     "DESeq2"
   ],
-  "apComplex": [],
   "appreci8R": [
     "VariantAnnotation",
     "BSgenome",
@@ -3061,7 +3054,6 @@
     "bumphunter"
   ],
   "arrayQualityMetrics": [
-    "affyPLM",
     "genefilter"
   ],
   "artMS": [],
@@ -3165,7 +3157,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "biocGraph": [],
   "biomaRt": [],
   "biomvRCNS": [
     "Gviz",
@@ -4023,7 +4014,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "esetVis": [],
   "eudysbiome": [],
   "evaluomeR": [
     "MultiAssayExperiment"
@@ -4106,7 +4096,6 @@
     "oligo",
     "oligoClasses"
   ],
-  "funOmics": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
@@ -4243,13 +4232,11 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "goProfiles": [],
   "goSTAG": [
     "biomaRt"
   ],
   "goSorensen": [
     "clusterProfiler",
-    "goProfiles",
     "DOSE",
     "enrichplot",
     "GOSemSim"
@@ -4708,7 +4695,6 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "methylscaper": [],
   "methylumi": [
     "minfi",
     "genefilter",
@@ -4793,7 +4779,6 @@
     "SingleCellExperiment"
   ],
   "mimager": [
-    "affyPLM",
     "oligo",
     "oligoClasses"
   ],
@@ -5062,7 +5047,6 @@
     "RaggedExperiment"
   ],
   "oncoscanR": [],
-  "ontoProc": [],
   "openCyto": [
     "ncdfFlow",
     "flowWorkspace"
@@ -5225,9 +5209,7 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "pogos": [
-    "ontoProc"
-  ],
+  "pogos": [],
   "pqsfinder": [],
   "pram": [
     "rtracklayer"
@@ -6122,9 +6104,7 @@
     "biovizBase"
   ],
   "target": [],
-  "tenXplore": [
-    "ontoProc"
-  ],
+  "tenXplore": [],
   "terapadog": [
     "DESeq2",
     "biomaRt"

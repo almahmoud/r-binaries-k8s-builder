@@ -1010,3 +1010,14 @@ MBQN
 omicade4
 omicsViewer
 SIM
+affyPLM
+apComplex
+biocGraph
+esetVis
+funOmics
+goProfiles
+IFAA
+LimROTS
+LRBaseDbi
+methylscaper
+ontoProc

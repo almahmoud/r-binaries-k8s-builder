@@ -1,14 +1,3 @@
-BaalChIP
-BasicSTARRseq
-CrispRVariants
-MDTS
-PICB
-PICS
-ShortRead
-TCseq
-VariantExperiment
-VplotR
-breakpointR
-mosaics
-prebs
-rtracklayer
+affylmGUI
+pogos
+tenXplore
