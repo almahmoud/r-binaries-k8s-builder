@@ -674,3 +674,15 @@ plier
 pvac
 qpcrNorm
 vsn
+Doscheda
+ggtreeDendro
+ggtreeExtra
+ggtreeSpace
+islify
+nondetects
+philr
+progeny
+pvca
+scBubbletree
+sitePath
+tanggle
