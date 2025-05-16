@@ -825,3 +825,17 @@ gcrma
 GeomxTools
 MsBackendSql
 orthogene
+flowBeads
+flowCHIC
+flowClean
+GenomicRanges
+maskBAD
+miRNAmeConverter
+MMUPHin
+MsBackendMetaboLights
+ngsReports
+phyloseq
+pwalign
+rRDP
+rSWeeP
+SpectraQL
