@@ -56,7 +56,6 @@
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
-    "oligoClasses",
     "ReportingTools",
     "Glimma",
     "ggbio",
@@ -88,8 +87,7 @@
     "txdbmaker"
   ],
   "ArrayExpress": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "BASiCS": [
     "SingleCellExperiment",
@@ -411,8 +409,7 @@
   ],
   "ChIPXpress": [
     "frma",
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "ChIPanalyser": [
     "BSgenome",
@@ -561,7 +558,6 @@
     "scuttle",
     "SingleCellExperiment"
   ],
-  "DEWSeq": [],
   "DExMA": [],
   "DMCFB": [
     "rtracklayer"
@@ -664,8 +660,7 @@
   ],
   "DrugVsDisease": [
     "ArrayExpress",
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "DuplexDiscovereR": [
     "Gviz",
@@ -1029,8 +1024,7 @@
     "PSMatch"
   ],
   "ITALICS": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "IVAS": [
     "GenomicFeatures",
@@ -1080,7 +1074,6 @@
   "LoomExperiment": [
     "SingleCellExperiment"
   ],
-  "LymphoSeq": [],
   "M3Drop": [
     "scater",
     "SingleCellExperiment",
@@ -1095,7 +1088,6 @@
   "MAGAR": [
     "RnBeads",
     "crlmm",
-    "oligoClasses",
     "methylumi",
     "minfi",
     "GenomicFeatures",
@@ -1250,7 +1242,6 @@
   ],
   "MinimumDistance": [
     "VanillaICE",
-    "oligoClasses",
     "crlmm",
     "BSgenome",
     "rtracklayer"
@@ -1290,7 +1281,6 @@
   "MultiBaC": [
     "ropls"
   ],
-  "MultiRNAflow": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",
@@ -1745,8 +1735,7 @@
     "SingleCellExperiment"
   ],
   "SCAN.UPC": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "SCANVIS": [
     "rtracklayer"
@@ -2087,7 +2076,6 @@
     "rtracklayer"
   ],
   "VanillaICE": [
-    "oligoClasses",
     "crlmm",
     "BSgenome",
     "rtracklayer"
@@ -2176,7 +2164,6 @@
   ],
   "affycoretools": [
     "GOstats",
-    "oligoClasses",
     "ReportingTools",
     "Glimma",
     "ggbio",
@@ -2580,7 +2567,6 @@
     "SingleCellExperiment"
   ],
   "cn.farms": [
-    "oligoClasses",
     "oligo"
   ],
   "coMethDMR": [
@@ -2713,9 +2699,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "crlmm": [
-    "oligoClasses"
-  ],
+  "crlmm": [],
   "crumblr": [
     "SingleCellExperiment"
   ],
@@ -3022,7 +3006,6 @@
     "rtracklayer",
     "wiggleplotr"
   ],
-  "famat": [],
   "fcScan": [
     "VariantAnnotation",
     "rtracklayer",
@@ -3062,8 +3045,7 @@
   ],
   "flowWorkspace": [],
   "frma": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "funtooNorm": [
     "minfi",
@@ -3327,7 +3309,6 @@
   ],
   "interactiveDisplay": [],
   "isobar": [],
-  "isomiRs": [],
   "jazzPanda": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -3400,9 +3381,7 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "mBPCR": [
-    "oligoClasses"
-  ],
+  "mBPCR": [],
   "mCSEA": [
     "GenomicFeatures",
     "Gviz",
@@ -3591,8 +3570,7 @@
     "SingleCellExperiment"
   ],
   "mimager": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "minfi": [
     "bumphunter",
@@ -3781,11 +3759,7 @@
     "SpatialExperiment",
     "rtracklayer"
   ],
-  "odseq": [],
-  "oligo": [
-    "oligoClasses"
-  ],
-  "oligoClasses": [],
+  "oligo": [],
   "omXplore": [
     "MSnbase",
     "PSMatch"
@@ -3834,8 +3808,7 @@
     "txdbmaker"
   ],
   "pdInfoBuilder": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "peakPantheR": [
     "MSnbase",
@@ -3943,8 +3916,7 @@
     "PSMatch"
   ],
   "puma": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "qPLEXanalyzer": [
     "MSnbase",
@@ -4565,7 +4537,6 @@
   "structToolbox": [
     "struct"
   ],
-  "surfaltr": [],
   "survClust": [],
   "svaNUMT": [
     "rtracklayer",

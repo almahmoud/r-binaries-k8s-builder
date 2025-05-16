@@ -1265,3 +1265,11 @@ NBAMSeq
 PhosR
 ReducedExperiment
 zitools
+DEWSeq
+famat
+isomiRs
+LymphoSeq
+MultiRNAflow
+odseq
+oligoClasses
+surfaltr

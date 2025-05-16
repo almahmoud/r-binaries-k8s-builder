@@ -1478,3 +1478,6 @@ surfaltr
 blacksheepr
 coseq
 pairedGSEA
+crlmm
+mBPCR
+oligo
