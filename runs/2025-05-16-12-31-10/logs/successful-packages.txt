@@ -1273,3 +1273,14 @@ MultiRNAflow
 odseq
 oligoClasses
 surfaltr
+anota2seq
+blacksheepr
+CeTF
+deltaCaptureC
+GENESIS
+NetActivity
+pairedGSEA
+PathoStat
+RegEnrich
+SEtools
+TCC

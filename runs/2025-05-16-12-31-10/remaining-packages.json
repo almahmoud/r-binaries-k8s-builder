@@ -346,7 +346,6 @@
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
-  "CeTF": [],
   "CellBarcode": [
     "ShortRead"
   ],
@@ -806,7 +805,6 @@
   ],
   "GBScleanR": [],
   "GDCRNATools": [],
-  "GENESIS": [],
   "GEOexplorer": [],
   "GNOSIS": [
     "cBioPortalData",
@@ -1317,7 +1315,6 @@
   "Nebulosa": [
     "SingleCellExperiment"
   ],
-  "NetActivity": [],
   "NetSAM": [],
   "NewWave": [
     "SingleCellExperiment"
@@ -1413,7 +1410,6 @@
   ],
   "PROPS": [],
   "PSMatch": [],
-  "PathoStat": [],
   "PeacoQC": [
     "flowWorkspace"
   ],
@@ -1486,7 +1482,6 @@
     "GenomicFeatures"
   ],
   "RAIDS": [
-    "GENESIS",
     "ensembldb",
     "BSgenome",
     "VariantAnnotation",
@@ -1633,7 +1628,6 @@
   "RcisTarget": [],
   "ReactomePA": [],
   "RedisParam": [],
-  "RegEnrich": [],
   "RegionalST": [
     "scater",
     "BayesSpace",
@@ -1758,7 +1752,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "SEtools": [],
   "SGCP": [
     "GOstats"
   ],
@@ -1942,7 +1935,6 @@
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
-  "TCC": [],
   "TCGAbiolinks": [],
   "TCGAutils": [
     "GenomicFeatures",
@@ -2233,7 +2225,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "anota2seq": [],
   "appreci8R": [
     "VariantAnnotation",
     "BSgenome",
@@ -2357,7 +2348,6 @@
     "regioneR",
     "txdbmaker"
   ],
-  "blacksheepr": [],
   "blima": [],
   "bnbc": [],
   "bnem": [],
@@ -2794,7 +2784,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "deltaCaptureC": [],
   "demuxSNP": [
     "SingleCellExperiment",
     "VariantAnnotation",
@@ -3789,7 +3778,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "pairedGSEA": [],
   "partCNV": [
     "SingleCellExperiment"
   ],
