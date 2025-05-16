@@ -1,0 +1,1044 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''CellBarcode'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'CellBarcode'
+also installing the dependencies ‘rbibutils’, ‘pixmap’, ‘Rdpack’, ‘ade4’, ‘segmented’, ‘bookdown’, ‘egg’, ‘Ckmeans.1d.dp’, ‘seqinr’, ‘BiocStyle’
+
+trying URL 'https://cloud.r-project.org/src/contrib/rbibutils_2.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/pixmap_0.4-13.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/Rdpack_2.6.4.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/ade4_1.7-23.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/segmented_2.1-4.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/egg_0.4.5.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/Ckmeans.1d.dp_4.3.5.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/seqinr_4.2-36.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocStyle_2.36.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/CellBarcode_1.14.0.tar.gz'
+* installing *source* package ‘rbibutils’ ...
+** this is package ‘rbibutils’ version ‘2.3’
+** package ‘rbibutils’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c adsout.c -o adsout.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c any2xml.c -o any2xml.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c args.c -o args.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bib2be.c -o bib2be.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bibcore.c -o bibcore.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bibentrydirectout.c -o bibentrydirectout.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bibentryout.c -o bibentryout.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bibl.c -o bibl.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c biblatexin.c -o biblatexin.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c biblatexout.c -o biblatexout.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bibprog.c -o bibprog.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bibtexdirectin.c -o bibtexdirectin.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bibtexin.c -o bibtexin.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bibtexout.c -o bibtexout.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bibtextypes.c -o bibtextypes.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bibutils.c -o bibutils.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bltypes.c -o bltypes.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bu_auth.c -o bu_auth.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c charsets.c -o charsets.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c common_be_bed.c -o common_be_bed.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c common_bt_blt_btd_out.c -o common_bt_blt_btd_out.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c common_bt_btd.c -o common_bt_btd.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c common_bt_btd_blt.c -o common_bt_btd_blt.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c common_bt_btd_out.c -o common_bt_btd_out.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c copacin.c -o copacin.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c copactypes.c -o copactypes.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ebiin.c -o ebiin.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c endin.c -o endin.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c endout.c -o endout.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c endtypes.c -o endtypes.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c endxmlin.c -o endxmlin.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c entities.c -o entities.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fields.c -o fields.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gb18030.c -o gb18030.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c generic.c -o generic.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c intlist.c -o intlist.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c is_ws.c -o is_ws.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c isiin.c -o isiin.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c isiout.c -o isiout.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c isitypes.c -o isitypes.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c iso639_1.c -o iso639_1.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c iso639_2.c -o iso639_2.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c iso639_3.c -o iso639_3.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c latex.c -o latex.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c latex_parse.c -o latex_parse.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c marc_auth.c -o marc_auth.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c medin.c -o medin.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c modsin.c -o modsin.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c modsout.c -o modsout.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c modstypes.c -o modstypes.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c name.c -o name.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c nbibin.c -o nbibin.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c nbibout.c -o nbibout.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c nbibtypes.c -o nbibtypes.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c notes.c -o notes.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pages.c -o pages.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c reftypes.c -o reftypes.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c risin.c -o risin.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c risout.c -o risout.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ristypes.c -o ristypes.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c serialno.c -o serialno.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c slist.c -o slist.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c str.c -o str.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c str_conv.c -o str_conv.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c strsearch.c -o strsearch.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c title.c -o title.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tomods.c -o tomods.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c type.c -o type.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c unicode.c -o unicode.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c url.c -o url.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c utf8.c -o utf8.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c vplist.c -o vplist.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c wordin.c -o wordin.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c wordout.c -o wordout.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c xml.c -o xml.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c xml2any.c -o xml2any.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c xml_encoding.c -o xml_encoding.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o rbibutils.so adsout.o any2xml.o args.o bib2be.o bibcore.o bibentrydirectout.o bibentryout.o bibl.o biblatexin.o biblatexout.o bibprog.o bibtexdirectin.o bibtexin.o bibtexout.o bibtextypes.o bibutils.o bltypes.o bu_auth.o charsets.o common_be_bed.o common_bt_blt_btd_out.o common_bt_btd.o common_bt_btd_blt.o common_bt_btd_out.o copacin.o copactypes.o ebiin.o endin.o endout.o endtypes.o endxmlin.o entities.o fields.o gb18030.o generic.o init.o intlist.o is_ws.o isiin.o isiout.o isitypes.o iso639_1.o iso639_2.o iso639_3.o latex.o latex_parse.o marc_auth.o medin.o modsin.o modsout.o modstypes.o name.o nbibin.o nbibout.o nbibtypes.o notes.o pages.o reftypes.o risin.o risout.o ristypes.o serialno.o slist.o str.o str_conv.o strsearch.o title.o tomods.o type.o unicode.o url.o utf8.o vplist.o wordin.o wordout.o xml.o xml2any.o xml_encoding.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-rbibutils/00new/rbibutils/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rbibutils’ as ‘rbibutils_2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rbibutils)
+* installing *source* package ‘pixmap’ ...
+** this is package ‘pixmap’ version ‘0.4-13’
+** package ‘pixmap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pixmap’ as ‘pixmap_0.4-13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pixmap)
+* installing *source* package ‘segmented’ ...
+** this is package ‘segmented’ version ‘2.1-4’
+** package ‘segmented’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘segmented’ as ‘segmented_2.1-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (segmented)
+* installing *source* package ‘bookdown’ ...
+** this is package ‘bookdown’ version ‘0.43’
+** package ‘bookdown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.43_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *source* package ‘egg’ ...
+** this is package ‘egg’ version ‘0.4.5’
+** package ‘egg’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘egg’ as ‘egg_0.4.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (egg)
+* installing *source* package ‘Rdpack’ ...
+** this is package ‘Rdpack’ version ‘2.6.4’
+** package ‘Rdpack’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Rdpack’ as ‘Rdpack_2.6.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rdpack)
+* installing *source* package ‘ade4’ ...
+** this is package ‘ade4’ version ‘1.7-23’
+** package ‘ade4’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c ade4libCpp.cpp -o ade4libCpp.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c adesub.c -o adesub.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c divsub.c -o divsub.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fourthcorner.c -o fourthcorner.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c phylog.c -o phylog.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c testamova.c -o testamova.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c testdim.c -o testdim.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c testrlq.c -o testrlq.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tests.c -o tests.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c testsCpp.cpp -o testsCpp.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o ade4.so RcppExports.o ade4libCpp.o adesub.o divsub.o fourthcorner.o init.o phylog.o testamova.o testdim.o testrlq.o tests.o testsCpp.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-ade4/00new/ade4/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ade4’ as ‘ade4_1.7-23_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ade4)
+* installing *source* package ‘BiocStyle’ ...
+** this is package ‘BiocStyle’ version ‘2.36.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+* installing *source* package ‘Ckmeans.1d.dp’ ...
+** this is package ‘Ckmeans.1d.dp’ version ‘4.3.5’
+** package ‘Ckmeans.1d.dp’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Ckmeans.1d.dp.cpp -o Ckmeans.1d.dp.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Ckmeans.1d.dp_main.cpp -o Ckmeans.1d.dp_main.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c EWL2_dynamic_prog.cpp -o EWL2_dynamic_prog.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c EWL2_fill_SMAWK.cpp -o EWL2_fill_SMAWK.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c EWL2_fill_log_linear.cpp -o EWL2_fill_log_linear.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c EWL2_fill_quadratic.cpp -o EWL2_fill_quadratic.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c MCW_fill_SMAWK.cpp -o MCW_fill_SMAWK.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c MCW_functions.cpp -o MCW_functions.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c MCW_main.cpp -o MCW_main.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c dynamic_prog.cpp -o dynamic_prog.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fill_SMAWK.cpp -o fill_SMAWK.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fill_log_linear.cpp -o fill_log_linear.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fill_quadratic.cpp -o fill_quadratic.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c select_levels.cpp -o select_levels.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c weighted_select_levels.cpp -o weighted_select_levels.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o Ckmeans.1d.dp.so Ckmeans.1d.dp.o Ckmeans.1d.dp_main.o EWL2_dynamic_prog.o EWL2_fill_SMAWK.o EWL2_fill_log_linear.o EWL2_fill_quadratic.o MCW_fill_SMAWK.o MCW_functions.o MCW_main.o RcppExports.o dynamic_prog.o fill_SMAWK.o fill_log_linear.o fill_quadratic.o select_levels.o weighted_select_levels.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-Ckmeans.1d.dp/00new/Ckmeans.1d.dp/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Ckmeans.1d.dp’ as ‘Ckmeans.1d.dp_4.3.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Ckmeans.1d.dp)
+* installing *source* package ‘seqinr’ ...
+** this is package ‘seqinr’ version ‘4.2-36’
+** package ‘seqinr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSE_TYPE_CHECKING_STRICT -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c alignment.c -o alignment.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSE_TYPE_CHECKING_STRICT -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fastacc.c -o fastacc.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSE_TYPE_CHECKING_STRICT -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c getzlibsock.c -o getzlibsock.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSE_TYPE_CHECKING_STRICT -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c kaks.c -o kaks.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSE_TYPE_CHECKING_STRICT -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c packagename_init.c -o packagename_init.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSE_TYPE_CHECKING_STRICT -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c util.c -o util.o
+gcc -I"/usr/share/R/include" -DNDEBUG      -DUSE_TYPE_CHECKING_STRICT -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c zsockr.c -o zsockr.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o seqinr.so alignment.o fastacc.o getzlibsock.o kaks.o packagename_init.o util.o zsockr.o -lz -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-seqinr/00new/seqinr/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘seqinr’ as ‘seqinr_4.2-36_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (seqinr)
+* installing *source* package ‘CellBarcode’ ...
+** this is package ‘CellBarcode’ version ‘1.14.0’
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c lib_10X_barcode.cpp -o lib_10X_barcode.o
+In file included from /usr/local/lib/R/site-library/BH/include/boost/bind/mem_fn.hpp:23,
+                 from /usr/local/lib/R/site-library/BH/include/boost/mem_fn.hpp:22,
+                 from /usr/local/lib/R/site-library/BH/include/boost/function/function_template.hpp:16,
+                 from /usr/local/lib/R/site-library/BH/include/boost/function.hpp:16,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/detail/find_iterator.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/find_iterator.hpp:24,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:27,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:16,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:23,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/get_pointer.hpp:48:40: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+   48 | template<class T> T * get_pointer(std::auto_ptr<T> const& p)
+      |                                        ^~~~~~~~
+In file included from /usr/include/c++/11/bits/locale_conv.h:41,
+                 from /usr/include/c++/11/locale:43,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/classification.hpp:15,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:23,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/include/c++/11/bits/unique_ptr.h:57:28: note: declared here
+   57 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept/assert.hpp:35,
+                 from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp: In instantiation of ‘static void boost::concepts::constraint<Model>::failed() [with Model = boost::algorithm::FinderConcept<boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >, char*>]’:
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:81:13:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:65:52: warning: ‘this’ pointer is null [-Wnonnull]
+   65 |     static void failed() { ((Model*)0)->constraints(); }
+      |                            ~~~~~~~~~~~~~~~~~~~~~~~~^~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:26,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:16,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:23,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/concept.hpp:40:18: note: in a call to non-static member function ‘void boost::algorithm::FinderConcept<FinderT, IteratorT>::constraints() [with FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >; IteratorT = char*]’
+   40 |             void constraints()
+      |                  ^~~~~~~~~~~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept/assert.hpp:35,
+                 from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp: In instantiation of ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::concepts::usage_requirements<boost::CopyConstructible<char*> >]’:
+/usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:167:5:   required from ‘struct boost::CopyConstructible<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:125:16:   required from ‘struct boost::range_detail::IncrementableIteratorConcept<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:147:16:   required from ‘struct boost::range_detail::SinglePassIteratorConcept<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::range_detail::SinglePassIteratorConcept<char*>]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::range_detail::SinglePassIteratorConcept<char*> >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   [ skipping 14 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47: warning: ‘this’ pointer is null [-Wnonnull]
+   50 |     static void failed() { ((Model*)0)->~Model(); }
+      |                            ~~~~~~~~~~~~~~~~~~~^~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:31,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:20:5: note: in a call to non-static member function ‘boost::concepts::usage_requirements<Model>::~usage_requirements() [with Model = boost::CopyConstructible<char*>]’
+   20 |     ~usage_requirements() { ((Model*)0)->~Model(); }
+      |     ^
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept/assert.hpp:35,
+                 from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp: In instantiation of ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::concepts::usage_requirements<boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::incrementable_traversal_tag> >]’:
+/usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:208:5:   required from ‘struct boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::incrementable_traversal_tag>’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::incrementable_traversal_tag>]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::incrementable_traversal_tag> >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   required from ‘struct boost::concepts::not_satisfied<boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::incrementable_traversal_tag> >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:72:8:   required from ‘struct boost::concepts::requirement_<void (*)(boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::incrementable_traversal_tag>)>’
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_concepts.hpp:114:7:   [ skipping 18 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47: warning: ‘this’ pointer is null [-Wnonnull]
+   50 |     static void failed() { ((Model*)0)->~Model(); }
+      |                            ~~~~~~~~~~~~~~~~~~~^~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:31,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:20:5: note: in a call to non-static member function ‘boost::concepts::usage_requirements<Model>::~usage_requirements() [with Model = boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::incrementable_traversal_tag>]’
+   20 |     ~usage_requirements() { ((Model*)0)->~Model(); }
+      |     ^
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept/assert.hpp:35,
+                 from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp: In instantiation of ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::incrementable_traversal_tag>]’:
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_concepts.hpp:114:7:   required from ‘struct boost::range_detail::IncrementableIteratorConcept<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:147:16:   required from ‘struct boost::range_detail::SinglePassIteratorConcept<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::range_detail::SinglePassIteratorConcept<char*>]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::range_detail::SinglePassIteratorConcept<char*> >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   required from ‘struct boost::concepts::not_satisfied<boost::range_detail::SinglePassIteratorConcept<char*> >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:72:8:   [ skipping 13 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47: warning: ‘this’ pointer is null [-Wnonnull]
+   50 |     static void failed() { ((Model*)0)->~Model(); }
+      |                            ~~~~~~~~~~~~~~~~~~~^~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:31,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:37:7: note: in a call to non-static member function ‘boost::Convertible<X, Y>::~Convertible() [with X = boost::iterators::random_access_traversal_tag; Y = boost::iterators::incrementable_traversal_tag]’
+   37 |       ~model()
+      |       ^
+/usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:208:5: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
+  208 |     BOOST_CONCEPT_USAGE(Convertible) {
+      |     ^~~~~~~~~~~~~~~~~~~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept/assert.hpp:35,
+                 from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp: In instantiation of ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::concepts::usage_requirements<boost::range_detail::IncrementableIteratorConcept<char*> >]’:
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:136:13:   required from ‘struct boost::range_detail::IncrementableIteratorConcept<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:147:16:   required from ‘struct boost::range_detail::SinglePassIteratorConcept<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::range_detail::SinglePassIteratorConcept<char*>]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::range_detail::SinglePassIteratorConcept<char*> >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   required from ‘struct boost::concepts::not_satisfied<boost::range_detail::SinglePassIteratorConcept<char*> >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:72:8:   [ skipping 13 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47: warning: ‘this’ pointer is null [-Wnonnull]
+   50 |     static void failed() { ((Model*)0)->~Model(); }
+      |                            ~~~~~~~~~~~~~~~~~~~^~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:31,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:20:5: note: in a call to non-static member function ‘boost::concepts::usage_requirements<Model>::~usage_requirements() [with Model = boost::range_detail::IncrementableIteratorConcept<char*>]’
+   20 |     ~usage_requirements() { ((Model*)0)->~Model(); }
+      |     ^
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept/assert.hpp:35,
+                 from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp: In instantiation of ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::concepts::usage_requirements<boost::EqualityComparable<char*> >]’:
+/usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:233:5:   required from ‘struct boost::EqualityComparable<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:147:16:   required from ‘struct boost::range_detail::SinglePassIteratorConcept<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::range_detail::SinglePassIteratorConcept<char*>]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::range_detail::SinglePassIteratorConcept<char*> >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   required from ‘struct boost::concepts::not_satisfied<boost::range_detail::SinglePassIteratorConcept<char*> >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:72:8:   [ skipping 13 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47: warning: ‘this’ pointer is null [-Wnonnull]
+   50 |     static void failed() { ((Model*)0)->~Model(); }
+      |                            ~~~~~~~~~~~~~~~~~~~^~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:31,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:20:5: note: in a call to non-static member function ‘boost::concepts::usage_requirements<Model>::~usage_requirements() [with Model = boost::EqualityComparable<char*>]’
+   20 |     ~usage_requirements() { ((Model*)0)->~Model(); }
+      |     ^
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept/assert.hpp:35,
+                 from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp: In instantiation of ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::concepts::usage_requirements<boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::single_pass_traversal_tag> >]’:
+/usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:208:5:   required from ‘struct boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::single_pass_traversal_tag>’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::single_pass_traversal_tag>]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::single_pass_traversal_tag> >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   required from ‘struct boost::concepts::not_satisfied<boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::single_pass_traversal_tag> >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:72:8:   required from ‘struct boost::concepts::requirement_<void (*)(boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::single_pass_traversal_tag>)>’
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:152:13:   [ skipping 17 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47: warning: ‘this’ pointer is null [-Wnonnull]
+   50 |     static void failed() { ((Model*)0)->~Model(); }
+      |                            ~~~~~~~~~~~~~~~~~~~^~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:31,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:20:5: note: in a call to non-static member function ‘boost::concepts::usage_requirements<Model>::~usage_requirements() [with Model = boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::single_pass_traversal_tag>]’
+   20 |     ~usage_requirements() { ((Model*)0)->~Model(); }
+      |     ^
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept/assert.hpp:35,
+                 from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp: In instantiation of ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::single_pass_traversal_tag>]’:
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:152:13:   required from ‘struct boost::range_detail::SinglePassIteratorConcept<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::range_detail::SinglePassIteratorConcept<char*>]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::range_detail::SinglePassIteratorConcept<char*> >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   required from ‘struct boost::concepts::not_satisfied<boost::range_detail::SinglePassIteratorConcept<char*> >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:72:8:   required from ‘struct boost::concepts::requirement_<void (*)(boost::range_detail::SinglePassIteratorConcept<char*>)>’
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:278:9:   [ skipping 12 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47: warning: ‘this’ pointer is null [-Wnonnull]
+   50 |     static void failed() { ((Model*)0)->~Model(); }
+      |                            ~~~~~~~~~~~~~~~~~~~^~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:31,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:37:7: note: in a call to non-static member function ‘boost::Convertible<X, Y>::~Convertible() [with X = boost::iterators::random_access_traversal_tag; Y = boost::iterators::single_pass_traversal_tag]’
+   37 |       ~model()
+      |       ^
+/usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:208:5: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
+  208 |     BOOST_CONCEPT_USAGE(Convertible) {
+      |     ^~~~~~~~~~~~~~~~~~~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept/assert.hpp:35,
+                 from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp: In instantiation of ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::concepts::usage_requirements<boost::range_detail::SinglePassIteratorConcept<char*> >]’:
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:158:13:   required from ‘struct boost::range_detail::SinglePassIteratorConcept<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::range_detail::SinglePassIteratorConcept<char*>]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::range_detail::SinglePassIteratorConcept<char*> >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   required from ‘struct boost::concepts::not_satisfied<boost::range_detail::SinglePassIteratorConcept<char*> >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:72:8:   required from ‘struct boost::concepts::requirement_<void (*)(boost::range_detail::SinglePassIteratorConcept<char*>)>’
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:278:9:   [ skipping 12 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47: warning: ‘this’ pointer is null [-Wnonnull]
+   50 |     static void failed() { ((Model*)0)->~Model(); }
+      |                            ~~~~~~~~~~~~~~~~~~~^~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:31,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:20:5: note: in a call to non-static member function ‘boost::concepts::usage_requirements<Model>::~usage_requirements() [with Model = boost::range_detail::SinglePassIteratorConcept<char*>]’
+   20 |     ~usage_requirements() { ((Model*)0)->~Model(); }
+      |     ^
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept/assert.hpp:35,
+                 from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp: In instantiation of ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::range_detail::SinglePassIteratorConcept<char*>]’:
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:278:9:   required from ‘struct boost::SinglePassRangeConcept<const boost::iterator_range<char*> >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::SinglePassRangeConcept<const boost::iterator_range<char*> >]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::SinglePassRangeConcept<const boost::iterator_range<char*> > >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   required from ‘struct boost::concepts::not_satisfied<boost::SinglePassRangeConcept<const boost::iterator_range<char*> > >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:72:8:   required from ‘struct boost::concepts::requirement_<void (*)(boost::SinglePassRangeConcept<const boost::iterator_range<char*> >)>’
+/usr/local/lib/R/site-library/BH/include/boost/range/algorithm/equal.hpp:174:13:   [ skipping 7 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47: warning: ‘this’ pointer is null [-Wnonnull]
+   50 |     static void failed() { ((Model*)0)->~Model(); }
+      |                            ~~~~~~~~~~~~~~~~~~~^~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:31,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:37:7: note: in a call to non-static member function ‘boost::range_detail::SinglePassIteratorConcept<Iterator>::~SinglePassIteratorConcept() [with Iterator = char*]’
+   37 |       ~model()
+      |       ^
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:158:13: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
+  158 |             BOOST_CONCEPT_USAGE(SinglePassIteratorConcept)
+      |             ^~~~~~~~~~~~~~~~~~~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept/assert.hpp:35,
+                 from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp: In instantiation of ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::concepts::usage_requirements<boost::SinglePassRangeConcept<const boost::iterator_range<char*> > >]’:
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:284:9:   required from ‘struct boost::SinglePassRangeConcept<const boost::iterator_range<char*> >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::SinglePassRangeConcept<const boost::iterator_range<char*> >]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::SinglePassRangeConcept<const boost::iterator_range<char*> > >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   required from ‘struct boost::concepts::not_satisfied<boost::SinglePassRangeConcept<const boost::iterator_range<char*> > >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:72:8:   required from ‘struct boost::concepts::requirement_<void (*)(boost::SinglePassRangeConcept<const boost::iterator_range<char*> >)>’
+/usr/local/lib/R/site-library/BH/include/boost/range/algorithm/equal.hpp:174:13:   [ skipping 7 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47: warning: ‘this’ pointer is null [-Wnonnull]
+   50 |     static void failed() { ((Model*)0)->~Model(); }
+      |                            ~~~~~~~~~~~~~~~~~~~^~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:31,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:20:5: note: in a call to non-static member function ‘boost::concepts::usage_requirements<Model>::~usage_requirements() [with Model = boost::SinglePassRangeConcept<const boost::iterator_range<char*> >]’
+   20 |     ~usage_requirements() { ((Model*)0)->~Model(); }
+      |     ^
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept/assert.hpp:35,
+                 from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp: In instantiation of ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::SinglePassRangeConcept<const boost::iterator_range<char*> >]’:
+/usr/local/lib/R/site-library/BH/include/boost/range/algorithm/equal.hpp:174:13:   required from ‘bool boost::range::equal(const SinglePassRange1&, const SinglePassRange2&) [with SinglePassRange1 = boost::iterator_range<char*>; SinglePassRange2 = boost::iterator_range<char*>]’
+/usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:644:32:   required from ‘bool boost::operator==(const boost::iterator_range<IteratorT>&, const boost::iterator_range<Iterator2T>&) [with Iterator1T = char*; Iterator2T = char*]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/find_iterator.hpp:359:32:   required from ‘bool boost::algorithm::split_iterator<IteratorT>::equal(const boost::algorithm::split_iterator<IteratorT>&) const [with IteratorT = char*]’
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:649:26:   required from ‘static bool boost::iterators::iterator_core_access::equal(const Facade1&, const Facade2&, mpl_::true_) [with Facade1 = boost::algorithm::split_iterator<char*>; Facade2 = boost::algorithm::split_iterator<char*>; mpl_::true_ = mpl_::bool_<true>]’
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:981:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator==(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::algorithm::split_iterator<char*>; V1 = const boost::iterator_range<char*>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = const boost::iterator_range<char*>&; Difference1 = long int; Derived2 = boost::algorithm::split_iterator<char*>; V2 = const boost::iterator_range<char*>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = const boost::iterator_range<char*>&; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_adaptor.hpp:305:29:   [ skipping 2 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47: warning: ‘this’ pointer is null [-Wnonnull]
+   50 |     static void failed() { ((Model*)0)->~Model(); }
+      |                            ~~~~~~~~~~~~~~~~~~~^~
+In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:31,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size_type.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/size.hpp:21,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/functions.hpp:20,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range_core.hpp:38,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/iterator_range.hpp:13,
+                 from /usr/local/lib/R/site-library/BH/include/boost/range/as_literal.hpp:18,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string/trim.hpp:19,
+                 from /usr/local/lib/R/site-library/BH/include/boost/algorithm/string.hpp:19,
+                 from lib_10X_barcode.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:37:7: note: in a call to non-static member function ‘boost::SinglePassRangeConcept<T>::~SinglePassRangeConcept() [with T = const boost::iterator_range<char*>]’
+   37 |       ~model()
+      |       ^
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:284:9: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
+  284 |         BOOST_CONCEPT_USAGE(SinglePassRangeConcept)
+      |         ^~~~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp: In instantiation of ‘boost::concepts::usage_requirements<Model>::~usage_requirements() [with Model = boost::CopyConstructible<char*>]’:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47:   required from ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::concepts::usage_requirements<boost::CopyConstructible<char*> >]’
+/usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:167:5:   required from ‘struct boost::CopyConstructible<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:125:16:   required from ‘struct boost::range_detail::IncrementableIteratorConcept<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:147:16:   required from ‘struct boost::range_detail::SinglePassIteratorConcept<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::range_detail::SinglePassIteratorConcept<char*>]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   [ skipping 15 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:20:48: warning: ‘this’ pointer is null [-Wnonnull]
+   20 |     ~usage_requirements() { ((Model*)0)->~Model(); }
+      |                             ~~~~~~~~~~~~~~~~~~~^~
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:37:7: note: in a call to non-static member function ‘boost::CopyConstructible<TT>::~CopyConstructible() [with TT = char*]’
+   37 |       ~model()
+      |       ^
+/usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:167:5: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
+  167 |     BOOST_CONCEPT_USAGE(CopyConstructible) {
+      |     ^~~~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp: In instantiation of ‘boost::concepts::usage_requirements<Model>::~usage_requirements() [with Model = boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::incrementable_traversal_tag>]’:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47:   required from ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::concepts::usage_requirements<boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::incrementable_traversal_tag> >]’
+/usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:208:5:   required from ‘struct boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::incrementable_traversal_tag>’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::incrementable_traversal_tag>]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::incrementable_traversal_tag> >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   required from ‘struct boost::concepts::not_satisfied<boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::incrementable_traversal_tag> >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:72:8:   [ skipping 19 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:20:48: warning: ‘this’ pointer is null [-Wnonnull]
+   20 |     ~usage_requirements() { ((Model*)0)->~Model(); }
+      |                             ~~~~~~~~~~~~~~~~~~~^~
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:37:7: note: in a call to non-static member function ‘boost::Convertible<X, Y>::~Convertible() [with X = boost::iterators::random_access_traversal_tag; Y = boost::iterators::incrementable_traversal_tag]’
+   37 |       ~model()
+      |       ^
+/usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:208:5: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
+  208 |     BOOST_CONCEPT_USAGE(Convertible) {
+      |     ^~~~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp: In instantiation of ‘boost::concepts::usage_requirements<Model>::~usage_requirements() [with Model = boost::range_detail::IncrementableIteratorConcept<char*>]’:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47:   required from ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::concepts::usage_requirements<boost::range_detail::IncrementableIteratorConcept<char*> >]’
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:136:13:   required from ‘struct boost::range_detail::IncrementableIteratorConcept<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:147:16:   required from ‘struct boost::range_detail::SinglePassIteratorConcept<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::range_detail::SinglePassIteratorConcept<char*>]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::range_detail::SinglePassIteratorConcept<char*> >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   [ skipping 14 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:20:48: warning: ‘this’ pointer is null [-Wnonnull]
+   20 |     ~usage_requirements() { ((Model*)0)->~Model(); }
+      |                             ~~~~~~~~~~~~~~~~~~~^~
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:37:7: note: in a call to non-static member function ‘boost::range_detail::IncrementableIteratorConcept<Iterator>::~IncrementableIteratorConcept() [with Iterator = char*]’
+   37 |       ~model()
+      |       ^
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:136:13: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
+  136 |             BOOST_CONCEPT_USAGE(IncrementableIteratorConcept)
+      |             ^~~~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp: In instantiation of ‘boost::concepts::usage_requirements<Model>::~usage_requirements() [with Model = boost::EqualityComparable<char*>]’:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47:   required from ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::concepts::usage_requirements<boost::EqualityComparable<char*> >]’
+/usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:233:5:   required from ‘struct boost::EqualityComparable<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:147:16:   required from ‘struct boost::range_detail::SinglePassIteratorConcept<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::range_detail::SinglePassIteratorConcept<char*>]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::range_detail::SinglePassIteratorConcept<char*> >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   [ skipping 14 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:20:48: warning: ‘this’ pointer is null [-Wnonnull]
+   20 |     ~usage_requirements() { ((Model*)0)->~Model(); }
+      |                             ~~~~~~~~~~~~~~~~~~~^~
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:37:7: note: in a call to non-static member function ‘boost::EqualityComparable<TT>::~EqualityComparable() [with TT = char*]’
+   37 |       ~model()
+      |       ^
+/usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:233:5: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
+  233 |     BOOST_CONCEPT_USAGE(EqualityComparable) {
+      |     ^~~~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp: In instantiation of ‘boost::concepts::usage_requirements<Model>::~usage_requirements() [with Model = boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::single_pass_traversal_tag>]’:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47:   required from ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::concepts::usage_requirements<boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::single_pass_traversal_tag> >]’
+/usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:208:5:   required from ‘struct boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::single_pass_traversal_tag>’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::single_pass_traversal_tag>]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::single_pass_traversal_tag> >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   required from ‘struct boost::concepts::not_satisfied<boost::Convertible<boost::iterators::random_access_traversal_tag, boost::iterators::single_pass_traversal_tag> >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:72:8:   [ skipping 18 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:20:48: warning: ‘this’ pointer is null [-Wnonnull]
+   20 |     ~usage_requirements() { ((Model*)0)->~Model(); }
+      |                             ~~~~~~~~~~~~~~~~~~~^~
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:37:7: note: in a call to non-static member function ‘boost::Convertible<X, Y>::~Convertible() [with X = boost::iterators::random_access_traversal_tag; Y = boost::iterators::single_pass_traversal_tag]’
+   37 |       ~model()
+      |       ^
+/usr/local/lib/R/site-library/BH/include/boost/concept_check.hpp:208:5: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
+  208 |     BOOST_CONCEPT_USAGE(Convertible) {
+      |     ^~~~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp: In instantiation of ‘boost::concepts::usage_requirements<Model>::~usage_requirements() [with Model = boost::range_detail::SinglePassIteratorConcept<char*>]’:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47:   required from ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::concepts::usage_requirements<boost::range_detail::SinglePassIteratorConcept<char*> >]’
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:158:13:   required from ‘struct boost::range_detail::SinglePassIteratorConcept<char*>’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::range_detail::SinglePassIteratorConcept<char*>]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::range_detail::SinglePassIteratorConcept<char*> >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   required from ‘struct boost::concepts::not_satisfied<boost::range_detail::SinglePassIteratorConcept<char*> >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:72:8:   [ skipping 13 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:20:48: warning: ‘this’ pointer is null [-Wnonnull]
+   20 |     ~usage_requirements() { ((Model*)0)->~Model(); }
+      |                             ~~~~~~~~~~~~~~~~~~~^~
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:37:7: note: in a call to non-static member function ‘boost::range_detail::SinglePassIteratorConcept<Iterator>::~SinglePassIteratorConcept() [with Iterator = char*]’
+   37 |       ~model()
+      |       ^
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:158:13: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
+  158 |             BOOST_CONCEPT_USAGE(SinglePassIteratorConcept)
+      |             ^~~~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp: In instantiation of ‘boost::concepts::usage_requirements<Model>::~usage_requirements() [with Model = boost::SinglePassRangeConcept<const boost::iterator_range<char*> >]’:
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:50:47:   required from ‘static void boost::concepts::requirement<boost::concepts::failed************ Model::************>::failed() [with Model = boost::concepts::usage_requirements<boost::SinglePassRangeConcept<const boost::iterator_range<char*> > >]’
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:284:9:   required from ‘struct boost::SinglePassRangeConcept<const boost::iterator_range<char*> >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:32:62:   required by substitution of ‘template<class Model> boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model*, boost::concepts::detail::wrap_constraints<Model, (& Model::constraints)>*) [with Model = boost::SinglePassRangeConcept<const boost::iterator_range<char*> >]’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:42:5:   required from ‘const bool boost::concepts::not_satisfied<boost::SinglePassRangeConcept<const boost::iterator_range<char*> > >::value’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/has_constraints.hpp:45:51:   required from ‘struct boost::concepts::not_satisfied<boost::SinglePassRangeConcept<const boost::iterator_range<char*> > >’
+/usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:72:8:   [ skipping 8 instantiation contexts, use -ftemplate-backtrace-limit=0 to disable ]
+/usr/local/lib/R/site-library/BH/include/boost/iterator/iterator_facade.hpp:982:3:   required from ‘typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type boost::iterators::operator!=(const boost::iterators::iterator_facade<Derived1, V1, TC1, Reference1, Difference1>&, const boost::iterators::iterator_facade<Derived2, V2, TC2, Reference2, Difference2>&) [with Derived1 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V1 = std::__cxx11::basic_string<char>; TC1 = boost::iterators::forward_traversal_tag; Reference1 = std::__cxx11::basic_string<char>; Difference1 = long int; Derived2 = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; V2 = std::__cxx11::basic_string<char>; TC2 = boost::iterators::forward_traversal_tag; Reference2 = std::__cxx11::basic_string<char>; Difference2 = long int; typename boost::iterators::detail::enable_if_interoperable<Derived1, Derived2, typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type>::type = bool; typename boost::mpl::apply2<boost::iterators::detail::always_bool2, Derived1, Derived2>::type = bool]’
+/usr/include/c++/11/bits/stl_vector.h:1562:21:   required from ‘void std::vector<_Tp, _Alloc>::_M_range_initialize(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/include/c++/11/bits/stl_vector.h:657:23:   required from ‘std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = boost::iterators::transform_iterator<boost::algorithm::detail::copy_iterator_rangeF<std::__cxx11::basic_string<char>, char*>, boost::algorithm::split_iterator<char*>, boost::use_default, boost::use_default>; <template-parameter-2-2> = void; _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/iter_find.hpp:186:31:   required from ‘SequenceSequenceT& boost::algorithm::iter_split(SequenceSequenceT&, RangeT&&, FinderT) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; FinderT = boost::algorithm::detail::token_finderF<boost::algorithm::detail::is_any_ofF<char> >]’
+/usr/local/lib/R/site-library/BH/include/boost/algorithm/string/split.hpp:158:50:   required from ‘SequenceSequenceT& boost::algorithm::split(SequenceSequenceT&, RangeT&&, PredicateT, boost::algorithm::token_compress_mode_type) [with SequenceSequenceT = std::vector<std::__cxx11::basic_string<char> >; RangeT = char (&)[65536]; PredicateT = boost::algorithm::detail::is_any_ofF<char>]’
+lib_10X_barcode.cpp:81:18:   required from here
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:20:48: warning: ‘this’ pointer is null [-Wnonnull]
+   20 |     ~usage_requirements() { ((Model*)0)->~Model(); }
+      |                             ~~~~~~~~~~~~~~~~~~~^~
+/usr/local/lib/R/site-library/BH/include/boost/concept/usage.hpp:37:7: note: in a call to non-static member function ‘boost::SinglePassRangeConcept<T>::~SinglePassRangeConcept() [with T = const boost::iterator_range<char*>]’
+   37 |       ~model()
+      |       ^
+/usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:284:9: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
+  284 |         BOOST_CONCEPT_USAGE(SinglePassRangeConcept)
+      |         ^~~~~~~~~~~~~~~~~~~
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c lib_clustering.cpp -o lib_clustering.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/BH/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c lib_read_seq.cpp -o lib_read_seq.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o CellBarcode.so RcppExports.o lib_10X_barcode.o lib_clustering.o lib_read_seq.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-CellBarcode/00new/CellBarcode/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CellBarcode’ as ‘CellBarcode_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CellBarcode)
+
+The downloaded source packages are in
+	‘/tmp/RtmpyzLw9u/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	2m52.516s
+user	2m26.599s
+sys	0m40.229s

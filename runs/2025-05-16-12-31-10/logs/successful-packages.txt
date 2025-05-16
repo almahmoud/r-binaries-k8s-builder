@@ -1356,3 +1356,17 @@ spqn
 TMSig
 transite
 Trendy
+amplican
+beachmat.tiledb
+CellBarcode
+CoreGx
+easier
+FastqCleaner
+goTools
+IONiseR
+MouseFM
+MsFeatures
+OTUbase
+RepViz
+RSVSim
+VariantExperiment

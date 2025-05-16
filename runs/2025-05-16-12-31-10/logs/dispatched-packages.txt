@@ -1523,3 +1523,6 @@ easyRNASeq
 girafe
 nucleR
 systemPipeR
+PharmacoGx
+RadioGx
+ToxicoGx

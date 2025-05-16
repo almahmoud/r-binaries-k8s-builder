@@ -236,7 +236,6 @@
   "CAMERA": [
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "PSMatch"
   ],
@@ -334,7 +333,6 @@
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
-  "CellBarcode": [],
   "CellBench": [
     "SingleCellExperiment"
   ],
@@ -476,7 +474,6 @@
     "BSgenome",
     "ensembldb"
   ],
-  "CoreGx": [],
   "CoverageView": [
     "rtracklayer"
   ],
@@ -745,7 +742,6 @@
     "rtracklayer",
     "txdbmaker"
   ],
-  "FastqCleaner": [],
   "FeatSeekR": [],
   "FindIT2": [
     "rtracklayer",
@@ -968,12 +964,10 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "IONiseR": [],
   "IPO": [
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "PSMatch"
   ],
@@ -1019,7 +1013,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "PSMatch"
   ],
@@ -1049,7 +1042,6 @@
     "CAMERA",
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "PSMatch"
   ],
@@ -1213,9 +1205,7 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "MouseFM": [],
   "MsExperiment": [],
-  "MsFeatures": [],
   "MsQuality": [
     "MsExperiment"
   ],
@@ -1293,7 +1283,6 @@
     "rtracklayer",
     "txdbmaker"
   ],
-  "OTUbase": [],
   "OUTRIDER": [
     "GenomicFeatures",
     "txdbmaker",
@@ -1318,7 +1307,6 @@
     "rtracklayer"
   ],
   "PDATK": [
-    "CoreGx",
     "genefu"
   ],
   "PECA": [],
@@ -1350,9 +1338,7 @@
   "PeacoQC": [
     "flowWorkspace"
   ],
-  "PharmacoGx": [
-    "CoreGx"
-  ],
+  "PharmacoGx": [],
   "PhenStat": [],
   "Pigengene": [
     "ReactomePA"
@@ -1523,7 +1509,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils",
     "GenomicFeatures",
@@ -1537,9 +1522,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "RadioGx": [
-    "CoreGx"
-  ],
+  "RadioGx": [],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -1561,7 +1544,6 @@
     "scran",
     "scuttle"
   ],
-  "RepViz": [],
   "Repitools": [
     "rtracklayer",
     "BSgenome"
@@ -1920,9 +1902,7 @@
     "GenomicFeatures"
   ],
   "TnT": [],
-  "ToxicoGx": [
-    "CoreGx"
-  ],
+  "ToxicoGx": [],
   "TrajectoryUtils": [
     "SingleCellExperiment"
   ],
@@ -1990,7 +1970,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "VariantExperiment": [],
   "VariantFiltering": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -2035,8 +2014,7 @@
     "VisiumIO"
   ],
   "Xeva": [
-    "PharmacoGx",
-    "CoreGx"
+    "PharmacoGx"
   ],
   "YAPSA": [
     "SomaticSignatures",
@@ -2122,7 +2100,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "amplican": [],
   "annaffy": [],
   "annotatr": [
     "GenomicFeatures",
@@ -2183,7 +2160,6 @@
   ],
   "baySeq": [],
   "beachmat.hdf5": [],
-  "beachmat.tiledb": [],
   "bedbaser": [
     "rtracklayer"
   ],
@@ -2427,7 +2403,6 @@
     "xcms",
     "MSnbase",
     "PSMatch",
-    "MsFeatures",
     "MsExperiment"
   ],
   "clustSIGNAL": [
@@ -2513,7 +2488,6 @@
   "cosmiq": [
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "PSMatch"
   ],
@@ -2743,7 +2717,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "easier": [],
   "easyRNASeq": [],
   "easylift": [
     "rtracklayer"
@@ -2894,7 +2867,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "PSMatch"
   ],
@@ -2926,11 +2898,9 @@
   ],
   "gDR": [
     "gDRimport",
-    "CoreGx",
     "PharmacoGx"
   ],
   "gDRimport": [
-    "CoreGx",
     "PharmacoGx"
   ],
   "gINTomics": [
@@ -3007,7 +2977,6 @@
     "rtracklayer"
   ],
   "goSTAG": [],
-  "goTools": [],
   "goseq": [
     "rtracklayer",
     "GenomicFeatures",
@@ -3273,7 +3242,6 @@
     "CAMERA",
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "PSMatch"
   ],
@@ -3550,7 +3518,6 @@
   "ncGTW": [
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "PSMatch"
   ],
@@ -4302,8 +4269,7 @@
     "xcms",
     "MSnbase",
     "MsExperiment",
-    "PSMatch",
-    "MsFeatures"
+    "PSMatch"
   ],
   "srnadiff": [
     "rtracklayer",
@@ -4546,7 +4512,6 @@
   ],
   "xcms": [
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "PSMatch"
   ],
