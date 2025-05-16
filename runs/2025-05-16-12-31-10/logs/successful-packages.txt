@@ -1428,3 +1428,10 @@ methimpute
 scds
 signatureSearch
 TCGAbiolinks
+BatchSVG
+beer
+immunogenViewer
+QDNAseq
+rtracklayer
+scp
+SPONGE
