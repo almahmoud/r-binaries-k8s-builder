@@ -8,11 +8,6 @@ on:
         required: false
         type: boolean
         default: false
-      finish:
-        description: 'Finish the current cycle'
-        required: false
-        type: boolean
-        default: false
   schedule:
     - cron: '*/5 * * * *'
   push:
@@ -25,26 +20,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  check-finish:
-    runs-on: ubuntu-latest
-    if: ${{ github.event_name == 'workflow_dispatch' && inputs.finish }}
-    steps:
-      - name: Check if should finish cycle
-        run: |
-          echo "User requested to finish the current build cycle"
-    outputs:
-      should_finish: ${{ github.event_name == 'workflow_dispatch' && inputs.finish }}
-      
-  finish-cycle:
-    needs: check-finish
-    if: ${{ needs.check-finish.outputs.should_finish == 'true' }}
-    uses: ./.github/workflows/finish_cycle.yaml
-    secrets: inherit
-
   build:
     runs-on: ubuntu-latest
-    if: ${{ needs.check-finish.outputs.should_finish != 'true' || github.event_name != 'workflow_dispatch' }}
-    needs: [check-finish]
     steps:
       - name: Free root space
         uses: almahmoud/free-root-space@main
@@ -199,20 +176,6 @@ jobs:
               echo "0" > "${NULL_PUSH_COUNTER_FILE}"
               
               echo "Failed packages reset. Reset attempts: ${RESET_ATTEMPTS}/3"
-            fi
-          # If counter is high enough (10), check if we can finish the cycle
-          elif [[ "${NULL_PUSH_COUNT}" -ge 10 ]]; then
-            echo "Null push counter reached ${NULL_PUSH_COUNT}, checking if cycle can be completed..."
-            
-            # Check for running jobs, if none - call the finish_cycle workflow
-            RUNNING_JOBS=$(kubectl get jobs -n "ns-${RUN_ID}" -l app=bioc-builder -o name | wc -l)
-            
-            if [[ "${RUNNING_JOBS}" == "0" ]]; then
-              echo "No running jobs and null push counter reached threshold. Suggesting to finish cycle..."
-              echo "To finish the cycle, run the workflow with the 'finish' option set to true."
-              
-              # Reset counter after checking
-              echo "0" > "${NULL_PUSH_COUNTER_FILE}"
             fi
           fi
 
