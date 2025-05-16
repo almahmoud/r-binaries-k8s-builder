@@ -798,3 +798,12 @@ SELEX
 Spectra
 SynExtend
 universalmotif
+adverSCarial
+alabaster.string
+bcSeq
+cogeqc
+coRdon
+FELLA
+kebabs
+SPIA
+tidytof

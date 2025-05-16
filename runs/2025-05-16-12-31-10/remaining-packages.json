@@ -1782,7 +1782,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "GSEABase",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
@@ -1894,7 +1893,6 @@
     "GenomicRanges",
     "TrajectoryUtils"
   ],
-  "FELLA": [],
   "FLAMES": [
     "bambu",
     "DropletUtils",
@@ -2138,7 +2136,6 @@
     "EnrichmentBrowser",
     "ExperimentHub",
     "GSEABase",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
@@ -4718,7 +4715,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "SPIA": [],
   "SPIAT": [
     "SpatialExperiment",
     "dittoSeq",
@@ -5615,7 +5611,6 @@
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "adverSCarial": [],
   "affyILM": [
     "gcrma"
   ],
@@ -5676,7 +5671,6 @@
     "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
-    "alabaster.string",
     "alabaster.vcf",
     "alabaster.mae",
     "MultiAssayExperiment",
@@ -5741,11 +5735,9 @@
     "alabaster.ranges",
     "GenomicRanges"
   ],
-  "alabaster.string": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "alabaster.se",
-    "alabaster.string",
     "Rsamtools",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -5962,7 +5954,6 @@
   "baySeq": [
     "GenomicRanges"
   ],
-  "bcSeq": [],
   "beachmat": [],
   "beachmat.hdf5": [
     "beachmat"
@@ -6638,12 +6629,10 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "coRdon": [],
   "codelink": [
     "annotate",
     "AnnotationDbi"
   ],
-  "cogeqc": [],
   "comapr": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -7326,7 +7315,6 @@
     "AnnotationDbi",
     "GenomicRanges",
     "EnrichmentBrowser",
-    "SPIA",
     "graphite",
     "pathview",
     "safe"
@@ -8506,7 +8494,6 @@
     "AnnotationDbi",
     "GenomicFeatures"
   ],
-  "kebabs": [],
   "keggorthology": [
     "AnnotationDbi"
   ],
@@ -9528,8 +9515,7 @@
     "pwalign"
   ],
   "odseq": [
-    "msa",
-    "kebabs"
+    "msa"
   ],
   "oligo": [
     "oligoClasses",
@@ -9980,9 +9966,7 @@
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "procoil": [
-    "kebabs"
-  ],
+  "procoil": [],
   "profileplyr": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -11637,7 +11621,6 @@
     "SummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "tidytof": [],
   "tigre": [
     "AnnotationDbi",
     "annotate"
@@ -12039,7 +12022,6 @@
     "GSEABase",
     "SummarizedExperiment",
     "AnnotationDbi",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
