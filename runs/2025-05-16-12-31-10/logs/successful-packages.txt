@@ -1021,3 +1021,16 @@ LimROTS
 LRBaseDbi
 methylscaper
 ontoProc
+ccmap
+CONFESS
+gage
+GSEABase
+HERON
+IgGeneUsage
+keggorthology
+LiquidAssociation
+Rarr
+rBLAST
+rfaRm
+rhinotypeR
+transomics2cytoscape
