@@ -1294,3 +1294,5 @@ Rcpi
 multiGSEA
 rrvgo
 sSNAPPY
+CCPROMISE
+RcisTarget

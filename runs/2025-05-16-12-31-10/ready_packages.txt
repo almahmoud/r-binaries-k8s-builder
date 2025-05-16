@@ -1,6 +1,2 @@
-DOSE
-EnrichmentBrowser
-Rcpi
-multiGSEA
-rrvgo
-sSNAPPY
+CCPROMISE
+RcisTarget

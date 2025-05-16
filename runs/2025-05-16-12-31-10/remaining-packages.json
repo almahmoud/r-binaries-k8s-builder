@@ -76,7 +76,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "AUCell": [],
   "AffiXcan": [
     "MultiAssayExperiment"
   ],
@@ -235,7 +234,6 @@
   "BiSeq": [
     "rtracklayer"
   ],
-  "BicARE": [],
   "BindingSiteFinder": [
     "rtracklayer",
     "GenomicFeatures"
@@ -337,9 +335,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "CCPROMISE": [
-    "PROMISE"
-  ],
+  "CCPROMISE": [],
   "CDI": [
     "SingleCellExperiment"
   ],
@@ -1385,7 +1381,6 @@
     "txdbmaker",
     "ensembldb"
   ],
-  "KEGGlincs": [],
   "KnowSeq": [
     "sva",
     "genefilter"
@@ -1700,7 +1695,6 @@
   "MouseFM": [
     "biomaRt"
   ],
-  "MsBackendRawFileReader": [],
   "MsDataHub": [],
   "MsExperiment": [
     "QFeatures",
@@ -1892,7 +1886,6 @@
     "biomaRt"
   ],
   "PREDA": [],
-  "PROMISE": [],
   "PRONE": [
     "MSnbase",
     "POMA",
@@ -2190,10 +2183,7 @@
   ],
   "Rbowtie2": [],
   "RbowtieCuda": [],
-  "RcisTarget": [
-    "AUCell"
-  ],
-  "Rcpi": [],
+  "RcisTarget": [],
   "ReactomeGSA": [],
   "ReactomePA": [
     "DOSE",
@@ -2673,7 +2663,6 @@
     "biovizBase"
   ],
   "TileDBArray": [],
-  "TissueEnrich": [],
   "TitanCNA": [
     "VariantAnnotation",
     "rtracklayer",
@@ -2971,7 +2960,6 @@
   "arrayQualityMetrics": [
     "genefilter"
   ],
-  "artMS": [],
   "atSNP": [
     "BSgenome",
     "motifStack",
@@ -3039,7 +3027,6 @@
     "DESeq2",
     "ALDEx2",
     "MAST",
-    "microbiome",
     "maaslin3",
     "SingleCellExperiment",
     "genefilter"
@@ -3371,7 +3358,6 @@
   "clustifyr": [
     "SingleCellExperiment"
   ],
-  "cmapR": [],
   "cn.farms": [
     "oligoClasses",
     "oligo"
@@ -3462,7 +3448,6 @@
     "PSMatch",
     "MultiAssayExperiment"
   ],
-  "cosmosR": [],
   "countsimQC": [
     "DESeq2",
     "genefilter"
@@ -3814,7 +3799,6 @@
     "SingleCellExperiment",
     "scran",
     "scuttle",
-    "AUCell",
     "motifmatchr",
     "BSgenome",
     "TFBSTools",
@@ -3894,7 +3878,6 @@
     "DOSE"
   ],
   "escape": [
-    "AUCell",
     "GSVA",
     "SingleCellExperiment",
     "UCell",
@@ -4578,7 +4561,6 @@
     "biomaRt"
   ],
   "miRSM": [
-    "BicARE",
     "clusterProfiler",
     "ReactomePA",
     "DOSE",
@@ -4626,7 +4608,6 @@
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "microbiome": [],
   "microbiomeExplorer": [
     "DESeq2"
   ],
@@ -4698,7 +4679,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "motifTestR": [],
   "motifbreakR": [
     "MotifDb",
     "BSgenome",
@@ -4895,7 +4875,6 @@
     "MultiAssayExperiment",
     "RaggedExperiment"
   ],
-  "oncoscanR": [],
   "openCyto": [
     "ncdfFlow",
     "flowWorkspace"
@@ -5372,7 +5351,6 @@
   "scFeatures": [
     "GSVA",
     "ensembldb",
-    "AUCell",
     "SingleCellSignalR",
     "GenomicFeatures",
     "rtracklayer",
@@ -5524,7 +5502,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "scrapper": [],
   "screenCounter": [],
   "scruff": [
     "GenomicFeatures",
@@ -5940,11 +5917,9 @@
     "SingleCellExperiment"
   ],
   "tidySummarizedExperiment": [],
-  "tidybulk": [],
   "tidyomics": [
     "tidySummarizedExperiment",
     "tidySingleCellExperiment",
-    "tidybulk",
     "plyranges",
     "nullranges",
     "InteractionSet",
