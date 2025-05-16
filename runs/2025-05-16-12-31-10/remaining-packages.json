@@ -21,9 +21,7 @@
   "APL": [
     "SingleCellExperiment"
   ],
-  "ASICS": [
-    "ropls"
-  ],
+  "ASICS": [],
   "ASURAT": [
     "SingleCellExperiment"
   ],
@@ -1272,9 +1270,7 @@
   "MuData": [
     "SingleCellExperiment"
   ],
-  "MultiBaC": [
-    "ropls"
-  ],
+  "MultiBaC": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",
@@ -1393,15 +1389,12 @@
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "POMA": [],
   "POWSC": [
     "SingleCellExperiment",
     "MAST"
   ],
-  "PPInfer": [],
   "PRONE": [
     "MSnbase",
-    "POMA",
     "PSMatch"
   ],
   "PROPS": [],
@@ -1432,7 +1425,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "ProteoMM": [],
   "PureCN": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -1516,9 +1508,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "RFLOMICS": [
-    "coseq"
-  ],
+  "RFLOMICS": [],
   "RITAN": [
     "BgeeDB",
     "GenomicFeatures",
@@ -1800,7 +1790,6 @@
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
-  "SWATH2stats": [],
   "SeqGSEA": [],
   "SeqGate": [],
   "ShortRead": [],
@@ -2211,7 +2200,6 @@
   "amplican": [
     "ShortRead"
   ],
-  "animalcules": [],
   "annaffy": [],
   "annotatr": [
     "GenomicFeatures",
@@ -2317,9 +2305,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "biosigner": [
-    "ropls"
-  ],
+  "biosigner": [],
   "biovizBase": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -2614,7 +2600,6 @@
   "corral": [
     "SingleCellExperiment"
   ],
-  "coseq": [],
   "cosmiq": [
     "xcms",
     "MSnbase",
@@ -3126,7 +3111,6 @@
     "rtracklayer"
   ],
   "goSTAG": [],
-  "goSorensen": [],
   "goTools": [],
   "goseq": [
     "rtracklayer",
@@ -3138,9 +3122,7 @@
   "groHMM": [
     "rtracklayer"
   ],
-  "gsean": [
-    "PPInfer"
-  ],
+  "gsean": [],
   "gwascat": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -3166,7 +3148,6 @@
   "hicVennDiagram": [
     "rtracklayer"
   ],
-  "hipathia": [],
   "hoodscanR": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -3329,9 +3310,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "lipidr": [
-    "ropls"
-  ],
+  "lipidr": [],
   "lisaClust": [
     "spicyR",
     "SingleCellExperiment",
@@ -3357,7 +3336,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "mBPCR": [],
   "mCSEA": [
     "GenomicFeatures",
     "Gviz",
@@ -3799,9 +3777,7 @@
   "pgxRpi": [],
   "phantasus": [],
   "phenoTest": [],
-  "phenomis": [
-    "ropls"
-  ],
+  "phenomis": [],
   "pipeComp": [
     "SingleCellExperiment",
     "scran",
@@ -4026,11 +4002,8 @@
   "roar": [
     "rtracklayer"
   ],
-  "ropls": [],
   "rprimer": [],
-  "rqt": [
-    "ropls"
-  ],
+  "rqt": [],
   "rtracklayer": [],
   "sRACIPE": [],
   "sampleClassifier": [
@@ -4684,7 +4657,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "vsclust": [],
   "vtpnet": [
     "gwascat",
     "GenomicFeatures",
