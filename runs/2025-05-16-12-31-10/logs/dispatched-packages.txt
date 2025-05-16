@@ -1288,3 +1288,9 @@ singscore
 sparrow
 splineTimeR
 vissE
+DOSE
+EnrichmentBrowser
+Rcpi
+multiGSEA
+rrvgo
+sSNAPPY

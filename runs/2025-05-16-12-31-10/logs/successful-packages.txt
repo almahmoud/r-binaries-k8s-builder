@@ -1034,3 +1034,17 @@ rBLAST
 rfaRm
 rhinotypeR
 transomics2cytoscape
+AGDEX
+flowMatch
+GenomicSuperSignature
+GeoDiff
+gep2pep
+GOSemSim
+graphite
+idpr
+maPredictDSC
+megadepth
+microbiomeDASim
+ncRNAtools
+PolySTest
+singscore
