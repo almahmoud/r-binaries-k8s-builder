@@ -2178,3 +2178,10 @@ octad
 OMICsPCA
 shinyepico
 VCFArray
+derfinder
+gDNAx
+ggbio
+karyoploteR
+QuasR
+shinyDSP
+svaNUMT

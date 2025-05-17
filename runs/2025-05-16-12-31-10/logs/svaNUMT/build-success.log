@@ -1,0 +1,216 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''svaNUMT'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'svaNUMT'
+also installing the dependencies ‘BSgenome’, ‘GlobalOptions’, ‘shape’, ‘VariantAnnotation’, ‘StructuralVariantAnnotation’, ‘TxDb.Hsapiens.UCSC.hg19.knownGene’, ‘BSgenome.Hsapiens.UCSC.hg19’, ‘plyranges’, ‘circlize’
+
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BSgenome_1.76.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/GlobalOptions_0.1.2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/shape_1.4.6.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/VariantAnnotation_1.54.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/StructuralVariantAnnotation_1.24.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/TxDb.Hsapiens.UCSC.hg19.knownGene_3.2.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg19_1.4.3.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/plyranges_1.28.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/circlize_0.4.16.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/svaNUMT_1.14.0.tar.gz'
+* installing *source* package ‘BSgenome’ ...
+** this is package ‘BSgenome’ version ‘1.76.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome’ as ‘BSgenome_1.76.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome)
+* installing *source* package ‘GlobalOptions’ ...
+** this is package ‘GlobalOptions’ version ‘0.1.2’
+** package ‘GlobalOptions’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GlobalOptions’ as ‘GlobalOptions_0.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GlobalOptions)
+* installing *source* package ‘shape’ ...
+** this is package ‘shape’ version ‘1.4.6.1’
+** package ‘shape’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘shape’ as ‘shape_1.4.6.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shape)
+* installing *source* package ‘TxDb.Hsapiens.UCSC.hg19.knownGene’ ...
+** this is package ‘TxDb.Hsapiens.UCSC.hg19.knownGene’ version ‘3.2.2’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Hsapiens.UCSC.hg19.knownGene’ as ‘TxDb.Hsapiens.UCSC.hg19.knownGene_3.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Hsapiens.UCSC.hg19.knownGene)
+* installing *source* package ‘plyranges’ ...
+** this is package ‘plyranges’ version ‘1.28.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘plyranges’ as ‘plyranges_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (plyranges)
+* installing *source* package ‘VariantAnnotation’ ...
+** this is package ‘VariantAnnotation’ version ‘1.54.1’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c Biostrings_stubs.c -o Biostrings_stubs.o
+gcc -I"/usr/share/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c IRanges_stubs.c -o IRanges_stubs.o
+gcc -I"/usr/share/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c R_init_VariantAnnotation.c -o R_init_VariantAnnotation.o
+gcc -I"/usr/share/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c XVector_stubs.c -o XVector_stubs.o
+gcc -I"/usr/share/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dna_hash.c -o dna_hash.o
+gcc -I"/usr/share/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c rle.c -o rle.o
+gcc -I"/usr/share/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c strhash.c -o strhash.o
+gcc -I"/usr/share/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c utilities.c -o utilities.o
+gcc -I"/usr/share/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c vcffile.c -o vcffile.o
+gcc -I"/usr/share/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c vcftype.c -o vcftype.o
+gcc -I"/usr/share/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/usr/local/lib/R/site-library/S4Vectors/include' -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/XVector/include' -I'/usr/local/lib/R/site-library/Biostrings/include' -I'/usr/local/lib/R/site-library/Rhtslib/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c writevcf.c -o writevcf.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o VariantAnnotation.so Biostrings_stubs.o IRanges_stubs.o R_init_VariantAnnotation.o XVector_stubs.o dna_hash.o rle.o strhash.o utilities.o vcffile.o vcftype.o writevcf.o /usr/local/lib/R/site-library/Rhtslib/usrlib/libhts.a -lcurl -lbz2 -llzma -lz -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-VariantAnnotation/00new/VariantAnnotation/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘tabulate’ in package ‘VariantAnnotation’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘VariantAnnotation’ as ‘VariantAnnotation_1.54.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (VariantAnnotation)
+* installing *source* package ‘BSgenome.Hsapiens.UCSC.hg19’ ...
+** this is package ‘BSgenome.Hsapiens.UCSC.hg19’ version ‘1.4.3’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Hsapiens.UCSC.hg19’ as ‘BSgenome.Hsapiens.UCSC.hg19_1.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Hsapiens.UCSC.hg19)
+* installing *source* package ‘circlize’ ...
+** this is package ‘circlize’ version ‘0.4.16’
+** package ‘circlize’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘circlize’ as ‘circlize_0.4.16_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (circlize)
+* installing *source* package ‘StructuralVariantAnnotation’ ...
+** this is package ‘StructuralVariantAnnotation’ version ‘1.24.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘StructuralVariantAnnotation’ as ‘StructuralVariantAnnotation_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (StructuralVariantAnnotation)
+* installing *source* package ‘svaNUMT’ ...
+** this is package ‘svaNUMT’ version ‘1.14.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘svaNUMT’ as ‘svaNUMT_1.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (svaNUMT)
+
+The downloaded source packages are in
+	‘/tmp/RtmpfWywcq/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	6m41.887s
+user	6m6.896s
+sys	0m53.029s

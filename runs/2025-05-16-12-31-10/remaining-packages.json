@@ -3,17 +3,12 @@
   "ATACseqQC": [],
   "AgiMicroRna": [
     "affycoretools",
-    "ReportingTools",
-    "ggbio"
+    "ReportingTools"
   ],
   "AllelicImbalance": [],
   "AneuFinder": [],
-  "BOBaFIT": [
-    "ggbio"
-  ],
-  "CAFE": [
-    "ggbio"
-  ],
+  "BOBaFIT": [],
+  "CAFE": [],
   "CAGEfightR": [
     "GenomicInteractions"
   ],
@@ -22,11 +17,9 @@
     "GenomicInteractions"
   ],
   "CNVfilteR": [
-    "karyoploteR",
     "CopyNumberPlots"
   ],
   "CNViz": [
-    "karyoploteR",
     "CopyNumberPlots"
   ],
   "ChAMP": [
@@ -39,22 +32,16 @@
   "ChIPseqR": [
     "HilbertVis"
   ],
-  "CopyNumberPlots": [
-    "karyoploteR"
-  ],
+  "CopyNumberPlots": [],
   "DMRcate": [
     "missMethyl"
   ],
   "DaMiRseq": [],
-  "Damsel": [
-    "ggbio"
-  ],
+  "Damsel": [],
   "DuplexDiscovereR": [],
   "ELMER": [],
   "EpiCompare": [],
-  "FLAMES": [
-    "ggbio"
-  ],
+  "FLAMES": [],
   "GA4GHshiny": [],
   "GARS": [
     "DaMiRseq"
@@ -62,9 +49,7 @@
   "GeDi": [],
   "GeneStructureTools": [],
   "GenomicInteractions": [],
-  "GenomicOZone": [
-    "ggbio"
-  ],
+  "GenomicOZone": [],
   "HiCDCPlus": [
     "GenomicInteractions"
   ],
@@ -97,13 +82,9 @@
   ],
   "PhenStat": [],
   "Pviz": [],
-  "QuasR": [],
-  "R3CPET": [
-    "ggbio"
-  ],
+  "R3CPET": [],
   "RNAAgeCalc": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
@@ -117,34 +98,23 @@
   ],
   "RbowtieCuda": [],
   "RedisParam": [],
-  "ReportingTools": [
-    "ggbio"
-  ],
-  "RiboProfiling": [
-    "ggbio"
-  ],
+  "ReportingTools": [],
+  "RiboProfiling": [],
   "RnBeads": [],
   "RnaSeqSampleSize": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "SPLINTER": [],
-  "SingleMoleculeFootprinting": [
-    "QuasR"
-  ],
-  "SomaticSignatures": [
-    "ggbio"
-  ],
+  "SingleMoleculeFootprinting": [],
+  "SomaticSignatures": [],
   "TFutils": [],
   "TVTB": [],
   "VariantFiltering": [],
   "YAPSA": [
-    "SomaticSignatures",
-    "ggbio"
+    "SomaticSignatures"
   ],
   "affycoretools": [
-    "ReportingTools",
-    "ggbio"
+    "ReportingTools"
   ],
   "arrayMvout": [
     "lumi"
@@ -154,9 +124,7 @@
     "lumi"
   ],
   "biomvRCNS": [],
-  "cageminer": [
-    "ggbio"
-  ],
+  "cageminer": [],
   "chimeraviz": [],
   "cicero": [],
   "circRNAprofiler": [],
@@ -174,23 +142,17 @@
   ],
   "crisprViz": [],
   "cummeRbund": [],
-  "derfinder": [],
-  "derfinderPlot": [
-    "derfinder",
-    "ggbio"
-  ],
+  "derfinderPlot": [],
   "epimutacions": [],
   "epivizrStandalone": [],
   "erma": [],
   "ffpe": [
     "lumi"
   ],
-  "gDNAx": [],
   "genoCN": [],
   "geomeTriD": [
     "trackViewer"
   ],
-  "ggbio": [],
   "gmapR": [],
   "gpuMagic": [],
   "graper": [],
@@ -199,10 +161,7 @@
     "lumi"
   ],
   "iNETgrate": [],
-  "intansv": [
-    "ggbio"
-  ],
-  "karyoploteR": [],
+  "intansv": [],
   "lumi": [],
   "mCSEA": [],
   "maser": [],
@@ -212,34 +171,22 @@
   "methylPipe": [],
   "missMethyl": [],
   "motifbreakR": [],
-  "msgbsR": [
-    "ggbio"
-  ],
-  "multicrispr": [
-    "karyoploteR"
-  ],
+  "msgbsR": [],
+  "multicrispr": [],
   "primirTSS": [],
   "psichomics": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "rGADEM": [],
   "ramr": [],
-  "recount": [
-    "derfinder"
-  ],
-  "regionReport": [
-    "derfinder"
-  ],
+  "recount": [],
+  "regionReport": [],
   "regutools": [],
   "saseR": [
     "ASpli"
   ],
   "scTreeViz": [],
-  "scruff": [
-    "ggbio"
-  ],
-  "shinyDSP": [],
+  "scruff": [],
   "signeR": [],
   "singleCellTK": [],
   "skewr": [
@@ -250,7 +197,6 @@
     "GenomicInteractions"
   ],
   "srnadiff": [],
-  "svaNUMT": [],
   "tadar": [],
   "trackViewer": [],
   "trigger": [],
