@@ -2199,3 +2199,10 @@ biomvRCNS
 GeDi
 SPLINTER
 TVTB
+BOBaFIT
+CAFE
+circRNAprofiler
+CopyNumberPlots
+ELMER
+GenomicOZone
+RNAmodR
