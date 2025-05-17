@@ -2187,3 +2187,7 @@ quantro
 recountmethylation
 shinyMethyl
 shinyepico
+RESOLVE
+epivizr
+epivizrChart
+musicatk

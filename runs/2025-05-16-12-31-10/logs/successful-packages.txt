@@ -2084,3 +2084,15 @@ SNPhood
 Uniquorn
 Voyager
 ZygosityPredictor
+decompTumor2Sig
+epivizrData
+fcScan
+icetea
+igvR
+lineagespot
+MADSEQ
+MutationalPatterns
+myvariant
+PureCN
+seqCAT
+spillR

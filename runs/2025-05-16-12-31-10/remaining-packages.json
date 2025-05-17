@@ -140,7 +140,6 @@
     "GenomicFiles"
   ],
   "LOBSTAHS": [],
-  "MADSEQ": [],
   "MAGAR": [
     "RnBeads",
     "methylumi"
@@ -163,7 +162,6 @@
     "methylumi"
   ],
   "MungeSumstats": [],
-  "MutationalPatterns": [],
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
@@ -186,7 +184,6 @@
   ],
   "PhenStat": [],
   "ProteoDisco": [],
-  "PureCN": [],
   "Pviz": [
     "Gviz",
     "biovizBase"
@@ -202,9 +199,7 @@
   "RAIDS": [],
   "REDseq": [],
   "REMP": [],
-  "RESOLVE": [
-    "MutationalPatterns"
-  ],
+  "RESOLVE": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -371,7 +366,6 @@
     "biovizBase"
   ],
   "customProDB": [],
-  "decompTumor2Sig": [],
   "deconvR": [],
   "deepSNV": [],
   "demuxSNP": [],
@@ -388,21 +382,14 @@
     "Gviz",
     "biovizBase"
   ],
-  "epivizr": [
-    "epivizrData"
-  ],
-  "epivizrChart": [
-    "epivizrData"
-  ],
-  "epivizrData": [],
+  "epivizr": [],
+  "epivizrChart": [],
   "epivizrStandalone": [
-    "epivizr",
-    "epivizrData"
+    "epivizr"
   ],
   "erma": [
     "GenomicFiles"
   ],
-  "fcScan": [],
   "ffpe": [
     "lumi",
     "methylumi"
@@ -432,9 +419,7 @@
     "methylumi"
   ],
   "iNETgrate": [],
-  "icetea": [],
   "ideal": [],
-  "igvR": [],
   "intansv": [
     "ggbio",
     "biovizBase"
@@ -443,7 +428,6 @@
     "biovizBase"
   ],
   "katdetectr": [],
-  "lineagespot": [],
   "lumi": [
     "methylumi"
   ],
@@ -485,10 +469,7 @@
     "karyoploteR",
     "biovizBase"
   ],
-  "musicatk": [
-    "decompTumor2Sig"
-  ],
-  "myvariant": [],
+  "musicatk": [],
   "octad": [],
   "pcaExplorer": [],
   "primirTSS": [
@@ -525,8 +506,7 @@
   ],
   "scMerge": [],
   "scTreeViz": [
-    "epivizr",
-    "epivizrData"
+    "epivizr"
   ],
   "scone": [],
   "scoreInvHap": [],
@@ -534,7 +514,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "seqCAT": [],
   "shinyDSP": [
     "standR"
   ],
@@ -554,7 +533,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "spillR": [],
   "srnadiff": [
     "Gviz",
     "biovizBase"
