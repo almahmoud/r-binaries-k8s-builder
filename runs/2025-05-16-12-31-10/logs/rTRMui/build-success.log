@@ -1,0 +1,150 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''rTRMui'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'rTRMui'
+also installing the dependencies ‘splitstackshape’, ‘rTRM’, ‘MotifDb’, ‘org.Hs.eg.db’, ‘org.Mm.eg.db’
+
+trying URL 'https://cloud.r-project.org/src/contrib/splitstackshape_1.4.8.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/rTRM_1.46.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/MotifDb_1.50.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/org.Hs.eg.db_3.21.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/org.Mm.eg.db_3.21.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/rTRMui_1.46.0.tar.gz'
+* installing *source* package ‘splitstackshape’ ...
+** this is package ‘splitstackshape’ version ‘1.4.8’
+** package ‘splitstackshape’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘splitstackshape’ as ‘splitstackshape_1.4.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (splitstackshape)
+* installing *source* package ‘rTRM’ ...
+** this is package ‘rTRM’ version ‘1.46.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+Loading required package: igraph
+
+Attaching package: ‘igraph’
+
+The following objects are masked from ‘package:stats’:
+
+    decompose, spectrum
+
+The following object is masked from ‘package:base’:
+
+    union
+
+This graph was created by an old(er) igraph version.
+ℹ Call `igraph::upgrade_graph()` on it to use with the current igraph version.
+For now we convert it on the fly...
+This graph was created by an old(er) igraph version.
+ℹ Call `igraph::upgrade_graph()` on it to use with the current igraph version.
+For now we convert it on the fly...
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rTRM’ as ‘rTRM_1.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rTRM)
+* installing *source* package ‘org.Hs.eg.db’ ...
+** this is package ‘org.Hs.eg.db’ version ‘3.21.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Hs.eg.db’ as ‘org.Hs.eg.db_3.21.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Hs.eg.db)
+* installing *source* package ‘org.Mm.eg.db’ ...
+** this is package ‘org.Mm.eg.db’ version ‘3.21.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Mm.eg.db’ as ‘org.Mm.eg.db_3.21.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Mm.eg.db)
+* installing *source* package ‘MotifDb’ ...
+** this is package ‘MotifDb’ version ‘1.50.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+See system.file("LICENSE", package="MotifDb") for use restrictions.
+** testing if installed package can be loaded from final location
+See system.file("LICENSE", package="MotifDb") for use restrictions.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MotifDb’ as ‘MotifDb_1.50.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MotifDb)
+* installing *source* package ‘rTRMui’ ...
+** this is package ‘rTRMui’ version ‘1.46.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+See system.file("LICENSE", package="MotifDb") for use restrictions.
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+See system.file("LICENSE", package="MotifDb") for use restrictions.
+** testing if installed package can be loaded from final location
+See system.file("LICENSE", package="MotifDb") for use restrictions.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rTRMui’ as ‘rTRMui_1.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rTRMui)
+
+The downloaded source packages are in
+	‘/tmp/RtmpHdRqxo/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	9m10.016s
+user	8m46.674s
+sys	0m28.193s
