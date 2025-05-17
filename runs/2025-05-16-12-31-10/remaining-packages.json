@@ -687,10 +687,7 @@
   "ZygosityPredictor": [
     "VariantAnnotation"
   ],
-  "a4": [
-    "a4Base"
-  ],
-  "a4Base": [],
+  "a4": [],
   "affycoretools": [
     "ReportingTools",
     "ggbio",
@@ -755,7 +752,6 @@
     "txdbmaker"
   ],
   "borealis": [],
-  "branchpointer": [],
   "bumphunter": [],
   "cBioPortalData": [
     "RTCGAToolbox",
@@ -783,7 +779,6 @@
     "RTCGAToolbox",
     "TCGAutils"
   ],
-  "celda": [],
   "chevreulPlot": [
     "chevreulProcess",
     "ensembldb"
@@ -899,9 +894,7 @@
   "decompTumor2Sig": [
     "VariantAnnotation"
   ],
-  "decontX": [
-    "celda"
-  ],
+  "decontX": [],
   "deconvR": [
     "minfi",
     "bumphunter"
@@ -1360,7 +1353,6 @@
   "singleCellTK": [
     "ensembldb",
     "scMerge",
-    "celda",
     "M3Drop"
   ],
   "sitadela": [
