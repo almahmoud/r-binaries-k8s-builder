@@ -1,13 +1,4 @@
-BUSpaRse
-ChIPpeakAnno
-CleanUpRNAseq
-GRaNIE
-RITAN
-cBioPortalData
-chevreulProcess
-diffUTR
-drugTargetInteractions
-scFeatures
-scanMiRApp
-signifinder
-tximeta
+CircSeqAlignTk
+MetaboSignal
+RiboCrypt
+TFHAZ

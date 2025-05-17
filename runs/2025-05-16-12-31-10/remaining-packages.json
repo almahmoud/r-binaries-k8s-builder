@@ -118,9 +118,7 @@
   "ChIPseqR": [
     "HilbertVis"
   ],
-  "CircSeqAlignTk": [
-    "Rhisat2"
-  ],
+  "CircSeqAlignTk": [],
   "CleanUpRNAseq": [],
   "CopyNumberPlots": [
     "karyoploteR",
@@ -170,7 +168,6 @@
     "bumphunter"
   ],
   "EpiCompare": [],
-  "EpiTxDb": [],
   "ExperimentHubData": [
     "AnnotationHubData",
     "OrganismDbi"
@@ -304,9 +301,7 @@
   "MEB": [],
   "MOSClip": [],
   "MSnID": [],
-  "MetaboSignal": [
-    "mygene"
-  ],
+  "MetaboSignal": [],
   "MethylAid": [
     "minfi",
     "bumphunter"
@@ -342,7 +337,6 @@
     "HelloRanges",
     "VariantAnnotation"
   ],
-  "ORFik": [],
   "OUTRIDER": [],
   "Organism.dplyr": [],
   "OrganismDbi": [],
@@ -436,10 +430,7 @@
     "VariantAnnotation",
     "OrganismDbi"
   ],
-  "Rhisat2": [],
-  "RiboCrypt": [
-    "ORFik"
-  ],
+  "RiboCrypt": [],
   "RiboDiPA": [],
   "RiboProfiling": [
     "ggbio",
@@ -494,9 +485,7 @@
     "VariantAnnotation"
   ],
   "TAPseq": [],
-  "TFHAZ": [
-    "ORFik"
-  ],
+  "TFHAZ": [],
   "TFutils": [
     "GenomicFiles",
     "VariantAnnotation"
@@ -948,7 +937,6 @@
     "VariantAnnotation",
     "decompTumor2Sig"
   ],
-  "mygene": [],
   "myvariant": [
     "VariantAnnotation"
   ],
@@ -971,7 +959,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "proActiv": [],
   "profileplyr": [
     "soGGi",
     "rGREAT"

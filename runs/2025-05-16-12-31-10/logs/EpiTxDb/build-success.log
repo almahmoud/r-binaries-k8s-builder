@@ -1,0 +1,424 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''EpiTxDb'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'EpiTxDb'
+also installing the dependencies ‘biomaRt’, ‘Structstrings’, ‘tRNA’, ‘bookdown’, ‘BSgenome’, ‘Modstrings’, ‘rex’, ‘txdbmaker’, ‘tRNAdbImport’, ‘BiocStyle’, ‘httptest’, ‘EpiTxDb.Hs.hg38’, ‘BSgenome.Hsapiens.UCSC.hg38’, ‘BSgenome.Scerevisiae.UCSC.sacCer3’, ‘TxDb.Hsapiens.UCSC.hg38.knownGene’
+
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/biomaRt_2.64.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/Structstrings_1.24.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/tRNA_1.26.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BSgenome_1.76.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/Modstrings_1.24.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/rex_1.2.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/txdbmaker_1.4.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/tRNAdbImport_1.26.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocStyle_2.36.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/httptest_4.2.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/EpiTxDb.Hs.hg38_0.99.7.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.5.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/BSgenome.Scerevisiae.UCSC.sacCer3_1.4.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/TxDb.Hsapiens.UCSC.hg38.knownGene_3.21.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/EpiTxDb_1.20.0.tar.gz'
+* installing *source* package ‘biomaRt’ ...
+** this is package ‘biomaRt’ version ‘2.64.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biomaRt’ as ‘biomaRt_2.64.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biomaRt)
+* installing *source* package ‘Structstrings’ ...
+** this is package ‘Structstrings’ version ‘1.24.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/S4Vectors/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c DotBracketDataFrame_class.c -o DotBracketDataFrame_class.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/S4Vectors/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c IRanges_stubs.c -o IRanges_stubs.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/S4Vectors/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c R_init_Structstrings.c -o R_init_Structstrings.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/S4Vectors/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c S4Vectors_stubs.c -o S4Vectors_stubs.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/IRanges/include' -I'/usr/local/lib/R/site-library/S4Vectors/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c utils.c -o utils.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o Structstrings.so DotBracketDataFrame_class.o IRanges_stubs.o R_init_Structstrings.o S4Vectors_stubs.o utils.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-Structstrings/00new/Structstrings/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Structstrings’ as ‘Structstrings_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Structstrings)
+* installing *source* package ‘bookdown’ ...
+** this is package ‘bookdown’ version ‘0.43’
+** package ‘bookdown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.43_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *source* package ‘BSgenome’ ...
+** this is package ‘BSgenome’ version ‘1.76.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome’ as ‘BSgenome_1.76.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome)
+* installing *source* package ‘Modstrings’ ...
+** this is package ‘Modstrings’ version ‘1.24.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Modstrings’ as ‘Modstrings_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Modstrings)
+* installing *source* package ‘rex’ ...
+** this is package ‘rex’ version ‘1.2.1’
+** package ‘rex’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rex’ as ‘rex_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rex)
+* installing *source* package ‘httptest’ ...
+** this is package ‘httptest’ version ‘4.2.2’
+** package ‘httptest’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘httptest’ as ‘httptest_4.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (httptest)
+* installing *source* package ‘TxDb.Hsapiens.UCSC.hg38.knownGene’ ...
+** this is package ‘TxDb.Hsapiens.UCSC.hg38.knownGene’ version ‘3.21.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Hsapiens.UCSC.hg38.knownGene’ as ‘TxDb.Hsapiens.UCSC.hg38.knownGene_3.21.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Hsapiens.UCSC.hg38.knownGene)
+* installing *source* package ‘tRNA’ ...
+** this is package ‘tRNA’ version ‘1.26.0’
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tRNA’ as ‘tRNA_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tRNA)
+* installing *source* package ‘txdbmaker’ ...
+** this is package ‘txdbmaker’ version ‘1.4.1’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘txdbmaker’ as ‘txdbmaker_1.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (txdbmaker)
+* installing *source* package ‘BiocStyle’ ...
+** this is package ‘BiocStyle’ version ‘2.36.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+* installing *source* package ‘BSgenome.Hsapiens.UCSC.hg38’ ...
+** this is package ‘BSgenome.Hsapiens.UCSC.hg38’ version ‘1.4.5’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Hsapiens.UCSC.hg38’ as ‘BSgenome.Hsapiens.UCSC.hg38_1.4.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Hsapiens.UCSC.hg38)
+* installing *source* package ‘BSgenome.Scerevisiae.UCSC.sacCer3’ ...
+** this is package ‘BSgenome.Scerevisiae.UCSC.sacCer3’ version ‘1.4.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Scerevisiae.UCSC.sacCer3’ as ‘BSgenome.Scerevisiae.UCSC.sacCer3_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Scerevisiae.UCSC.sacCer3)
+* installing *source* package ‘tRNAdbImport’ ...
+** this is package ‘tRNAdbImport’ version ‘1.26.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tRNAdbImport’ as ‘tRNAdbImport_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tRNAdbImport)
+* installing *source* package ‘EpiTxDb’ ...
+** this is package ‘EpiTxDb’ version ‘1.20.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackage’ by ‘txdbmaker::makeTxDbPackage’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTables’ by ‘txdbmaker::supportedUCSCFeatureDbTables’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGFF’ by ‘txdbmaker::makeTxDbFromGFF’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromBiomart’ by ‘txdbmaker::makeTxDbPackageFromBiomart’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedMiRBaseBuildValues’ by ‘txdbmaker::supportedMiRBaseBuildValues’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTracks’ by ‘txdbmaker::supportedUCSCFeatureDbTracks’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::browseUCSCtrack’ by ‘txdbmaker::browseUCSCtrack’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::getChromInfoFromBiomart’ by ‘txdbmaker::getChromInfoFromBiomart’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGRanges’ by ‘txdbmaker::makeTxDbFromGRanges’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCtables’ by ‘txdbmaker::supportedUCSCtables’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromBiomart’ by ‘txdbmaker::makeTxDbFromBiomart’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::UCSCFeatureDbTableSchema’ by ‘txdbmaker::UCSCFeatureDbTableSchema’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromEnsembl’ by ‘txdbmaker::makeTxDbFromEnsembl’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDb’ by ‘txdbmaker::makeTxDb’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeFDbPackageFromUCSC’ by ‘txdbmaker::makeFDbPackageFromUCSC’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromUCSC’ by ‘txdbmaker::makeTxDbFromUCSC’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromUCSC’ by ‘txdbmaker::makeTxDbPackageFromUCSC’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makePackageName’ by ‘txdbmaker::makePackageName’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeFeatureDbFromUCSC’ by ‘txdbmaker::makeFeatureDbFromUCSC’ when loading ‘EpiTxDb’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackage’ by ‘txdbmaker::makeTxDbPackage’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTables’ by ‘txdbmaker::supportedUCSCFeatureDbTables’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGFF’ by ‘txdbmaker::makeTxDbFromGFF’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromBiomart’ by ‘txdbmaker::makeTxDbPackageFromBiomart’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedMiRBaseBuildValues’ by ‘txdbmaker::supportedMiRBaseBuildValues’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTracks’ by ‘txdbmaker::supportedUCSCFeatureDbTracks’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::browseUCSCtrack’ by ‘txdbmaker::browseUCSCtrack’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::getChromInfoFromBiomart’ by ‘txdbmaker::getChromInfoFromBiomart’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGRanges’ by ‘txdbmaker::makeTxDbFromGRanges’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCtables’ by ‘txdbmaker::supportedUCSCtables’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromBiomart’ by ‘txdbmaker::makeTxDbFromBiomart’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::UCSCFeatureDbTableSchema’ by ‘txdbmaker::UCSCFeatureDbTableSchema’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromEnsembl’ by ‘txdbmaker::makeTxDbFromEnsembl’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDb’ by ‘txdbmaker::makeTxDb’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeFDbPackageFromUCSC’ by ‘txdbmaker::makeFDbPackageFromUCSC’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromUCSC’ by ‘txdbmaker::makeTxDbFromUCSC’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromUCSC’ by ‘txdbmaker::makeTxDbPackageFromUCSC’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makePackageName’ by ‘txdbmaker::makePackageName’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeFeatureDbFromUCSC’ by ‘txdbmaker::makeFeatureDbFromUCSC’ when loading ‘EpiTxDb’
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackage’ by ‘txdbmaker::makeTxDbPackage’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTables’ by ‘txdbmaker::supportedUCSCFeatureDbTables’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGFF’ by ‘txdbmaker::makeTxDbFromGFF’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromBiomart’ by ‘txdbmaker::makeTxDbPackageFromBiomart’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedMiRBaseBuildValues’ by ‘txdbmaker::supportedMiRBaseBuildValues’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTracks’ by ‘txdbmaker::supportedUCSCFeatureDbTracks’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::browseUCSCtrack’ by ‘txdbmaker::browseUCSCtrack’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::getChromInfoFromBiomart’ by ‘txdbmaker::getChromInfoFromBiomart’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGRanges’ by ‘txdbmaker::makeTxDbFromGRanges’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCtables’ by ‘txdbmaker::supportedUCSCtables’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromBiomart’ by ‘txdbmaker::makeTxDbFromBiomart’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::UCSCFeatureDbTableSchema’ by ‘txdbmaker::UCSCFeatureDbTableSchema’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromEnsembl’ by ‘txdbmaker::makeTxDbFromEnsembl’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDb’ by ‘txdbmaker::makeTxDb’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeFDbPackageFromUCSC’ by ‘txdbmaker::makeFDbPackageFromUCSC’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromUCSC’ by ‘txdbmaker::makeTxDbFromUCSC’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromUCSC’ by ‘txdbmaker::makeTxDbPackageFromUCSC’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makePackageName’ by ‘txdbmaker::makePackageName’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeFeatureDbFromUCSC’ by ‘txdbmaker::makeFeatureDbFromUCSC’ when loading ‘EpiTxDb’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EpiTxDb’ as ‘EpiTxDb_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EpiTxDb)
+* installing *source* package ‘EpiTxDb.Hs.hg38’ ...
+** this is package ‘EpiTxDb.Hs.hg38’ version ‘0.99.7’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+There were 19 warnings (use warnings() to see them)
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackage’ by ‘txdbmaker::makeTxDbPackage’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTables’ by ‘txdbmaker::supportedUCSCFeatureDbTables’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGFF’ by ‘txdbmaker::makeTxDbFromGFF’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromBiomart’ by ‘txdbmaker::makeTxDbPackageFromBiomart’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedMiRBaseBuildValues’ by ‘txdbmaker::supportedMiRBaseBuildValues’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTracks’ by ‘txdbmaker::supportedUCSCFeatureDbTracks’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::browseUCSCtrack’ by ‘txdbmaker::browseUCSCtrack’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::getChromInfoFromBiomart’ by ‘txdbmaker::getChromInfoFromBiomart’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGRanges’ by ‘txdbmaker::makeTxDbFromGRanges’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCtables’ by ‘txdbmaker::supportedUCSCtables’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromBiomart’ by ‘txdbmaker::makeTxDbFromBiomart’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::UCSCFeatureDbTableSchema’ by ‘txdbmaker::UCSCFeatureDbTableSchema’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromEnsembl’ by ‘txdbmaker::makeTxDbFromEnsembl’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDb’ by ‘txdbmaker::makeTxDb’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeFDbPackageFromUCSC’ by ‘txdbmaker::makeFDbPackageFromUCSC’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromUCSC’ by ‘txdbmaker::makeTxDbFromUCSC’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromUCSC’ by ‘txdbmaker::makeTxDbPackageFromUCSC’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makePackageName’ by ‘txdbmaker::makePackageName’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeFeatureDbFromUCSC’ by ‘txdbmaker::makeFeatureDbFromUCSC’ when loading ‘EpiTxDb’
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackage’ by ‘txdbmaker::makeTxDbPackage’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTables’ by ‘txdbmaker::supportedUCSCFeatureDbTables’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGFF’ by ‘txdbmaker::makeTxDbFromGFF’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromBiomart’ by ‘txdbmaker::makeTxDbPackageFromBiomart’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedMiRBaseBuildValues’ by ‘txdbmaker::supportedMiRBaseBuildValues’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCFeatureDbTracks’ by ‘txdbmaker::supportedUCSCFeatureDbTracks’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::browseUCSCtrack’ by ‘txdbmaker::browseUCSCtrack’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::getChromInfoFromBiomart’ by ‘txdbmaker::getChromInfoFromBiomart’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromGRanges’ by ‘txdbmaker::makeTxDbFromGRanges’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::supportedUCSCtables’ by ‘txdbmaker::supportedUCSCtables’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromBiomart’ by ‘txdbmaker::makeTxDbFromBiomart’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::UCSCFeatureDbTableSchema’ by ‘txdbmaker::UCSCFeatureDbTableSchema’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromEnsembl’ by ‘txdbmaker::makeTxDbFromEnsembl’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDb’ by ‘txdbmaker::makeTxDb’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeFDbPackageFromUCSC’ by ‘txdbmaker::makeFDbPackageFromUCSC’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbFromUCSC’ by ‘txdbmaker::makeTxDbFromUCSC’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeTxDbPackageFromUCSC’ by ‘txdbmaker::makeTxDbPackageFromUCSC’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makePackageName’ by ‘txdbmaker::makePackageName’ when loading ‘EpiTxDb’
+Warning: replacing previous import ‘GenomicFeatures::makeFeatureDbFromUCSC’ by ‘txdbmaker::makeFeatureDbFromUCSC’ when loading ‘EpiTxDb’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EpiTxDb.Hs.hg38’ as ‘EpiTxDb.Hs.hg38_0.99.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EpiTxDb.Hs.hg38)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp81ECSO/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	7m24.089s
+user	6m35.669s
+sys	1m5.328s

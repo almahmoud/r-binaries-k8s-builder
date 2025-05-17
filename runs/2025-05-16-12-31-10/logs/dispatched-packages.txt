@@ -2064,3 +2064,7 @@ scFeatures
 scanMiRApp
 signifinder
 tximeta
+CircSeqAlignTk
+MetaboSignal
+RiboCrypt
+TFHAZ

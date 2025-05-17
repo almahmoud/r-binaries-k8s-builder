@@ -1,0 +1,88 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''proActiv'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'proActiv'
+also installing the dependencies ‘biomaRt’, ‘txdbmaker’
+
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/biomaRt_2.64.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/txdbmaker_1.4.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/proActiv_1.18.0.tar.gz'
+* installing *source* package ‘biomaRt’ ...
+** this is package ‘biomaRt’ version ‘2.64.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biomaRt’ as ‘biomaRt_2.64.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biomaRt)
+* installing *source* package ‘txdbmaker’ ...
+** this is package ‘txdbmaker’ version ‘1.4.1’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘txdbmaker’ as ‘txdbmaker_1.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (txdbmaker)
+* installing *source* package ‘proActiv’ ...
+** this is package ‘proActiv’ version ‘1.18.0’
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘proActiv’ as ‘proActiv_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (proActiv)
+
+The downloaded source packages are in
+	‘/tmp/RtmpwXkQE6/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	1m30.626s
+user	1m21.519s
+sys	0m12.909s

@@ -1971,3 +1971,8 @@ recoup
 RTCGAToolbox
 sitadela
 txcutr
+EpiTxDb
+mygene
+ORFik
+proActiv
+Rhisat2
