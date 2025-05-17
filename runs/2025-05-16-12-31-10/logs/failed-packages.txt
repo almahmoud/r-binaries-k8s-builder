@@ -11,3 +11,4 @@ NormqPCR
 trigger
 ramr
 PICS
+cn.farms
