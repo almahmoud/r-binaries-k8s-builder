@@ -2283,3 +2283,6 @@ RNAAgeCalc
 RnaSeqSampleSize
 affycoretools
 psichomics
+compEpiTools
+crisprShiny
+crisprVerse

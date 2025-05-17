@@ -15,7 +15,6 @@
     "missMethyl",
     "lumi"
   ],
-  "ChIPexoQual": [],
   "ChIPseqR": [
     "HilbertVis"
   ],
@@ -76,16 +75,9 @@
   "chimeraviz": [],
   "cisPath": [],
   "cn.farms": [],
-  "compEpiTools": [
-    "methylPipe"
-  ],
-  "crisprShiny": [
-    "crisprViz"
-  ],
-  "crisprVerse": [
-    "crisprViz"
-  ],
-  "crisprViz": [],
+  "compEpiTools": [],
+  "crisprShiny": [],
+  "crisprVerse": [],
   "epimutacions": [],
   "epivizrStandalone": [],
   "ffpe": [
@@ -107,15 +99,12 @@
   "methylGSA": [
     "missMethyl"
   ],
-  "methylPipe": [],
   "missMethyl": [],
   "motifbreakR": [],
-  "multicrispr": [],
   "primirTSS": [],
   "psichomics": [],
   "rGADEM": [],
   "ramr": [],
-  "regutools": [],
   "saseR": [],
   "scTreeViz": [],
   "signeR": [],
@@ -124,12 +113,10 @@
     "lumi"
   ],
   "spatzie": [],
-  "srnadiff": [],
   "tadar": [],
   "trackViewer": [],
   "trigger": [],
   "uncoverappLib": [],
-  "vtpnet": [],
   "wateRmelon": [
     "lumi"
   ],

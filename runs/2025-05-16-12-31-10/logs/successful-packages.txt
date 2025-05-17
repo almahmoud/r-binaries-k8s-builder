@@ -2227,3 +2227,10 @@ maser
 recount
 regionReport
 ReportingTools
+ChIPexoQual
+crisprViz
+methylPipe
+multicrispr
+regutools
+srnadiff
+vtpnet
