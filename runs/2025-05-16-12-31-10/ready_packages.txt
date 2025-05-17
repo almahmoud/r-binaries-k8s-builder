@@ -1,6 +1,2 @@
-IMAS
-MGnifyR
-dar
-lefser
-magpie
-miaViz
+EventPointer
+RegionalST

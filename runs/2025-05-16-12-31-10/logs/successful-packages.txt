@@ -1908,3 +1908,12 @@ MPAC
 RgnTX
 Spaniel
 TRESS
+atena
+BayesSpace
+epiregulon.extra
+esATAC
+IMAS
+Rmmquant
+scPipe
+SGSeq
+SpatialExperimentIO

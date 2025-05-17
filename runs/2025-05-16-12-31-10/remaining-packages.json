@@ -60,7 +60,6 @@
   "BadRegionFinder": [
     "VariantAnnotation"
   ],
-  "BayesSpace": [],
   "BgeeCall": [
     "txdbmaker"
   ],
@@ -149,8 +148,7 @@
   ],
   "CircSeqAlignTk": [
     "Rhisat2",
-    "txdbmaker",
-    "SGSeq"
+    "txdbmaker"
   ],
   "CleanUpRNAseq": [
     "ensembldb"
@@ -219,9 +217,7 @@
   "EpiTxDb": [
     "txdbmaker"
   ],
-  "EventPointer": [
-    "SGSeq"
-  ],
+  "EventPointer": [],
   "ExperimentHubData": [
     "AnnotationHubData",
     "OrganismDbi",
@@ -328,7 +324,6 @@
     "HilbertVis"
   ],
   "HoloFoodR": [],
-  "IMAS": [],
   "IPO": [
     "xcms",
     "CAMERA"
@@ -555,9 +550,7 @@
   ],
   "RbowtieCuda": [],
   "RedisParam": [],
-  "RegionalST": [
-    "BayesSpace"
-  ],
+  "RegionalST": [],
   "ReportingTools": [
     "ggbio",
     "biovizBase",
@@ -567,8 +560,7 @@
     "txdbmaker"
   ],
   "Rhisat2": [
-    "txdbmaker",
-    "SGSeq"
+    "txdbmaker"
   ],
   "RiboCrypt": [
     "ORFik",
@@ -585,7 +577,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "Rmmquant": [],
   "RnBeads": [
     "methylumi",
     "minfi",
@@ -605,7 +596,6 @@
     "ensembldb"
   ],
   "SARC": [],
-  "SGSeq": [],
   "SMITE": [
     "goseq",
     "txdbmaker"
@@ -639,7 +629,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "SpatialExperimentIO": [],
   "SplicingGraphs": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation"
@@ -735,7 +724,6 @@
     "minfi",
     "bumphunter"
   ],
-  "atena": [],
   "bambu": [],
   "benchdamic": [
     "maaslin3"
@@ -967,7 +955,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "epiregulon.extra": [],
   "epivizr": [
     "epivizrData",
     "bumphunter",
@@ -1000,7 +987,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "esATAC": [],
   "factR": [],
   "fcScan": [
     "VariantAnnotation"
@@ -1323,7 +1309,6 @@
   "scMerge": [
     "M3Drop"
   ],
-  "scPipe": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData",
