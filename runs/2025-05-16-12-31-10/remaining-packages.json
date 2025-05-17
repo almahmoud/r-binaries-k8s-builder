@@ -4,11 +4,7 @@
     "affycoretools"
   ],
   "AneuFinder": [],
-  "CAGEfightR": [],
-  "CAGEr": [
-    "CAGEfightR"
-  ],
-  "CNViz": [],
+  "CAGEr": [],
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
@@ -22,7 +18,6 @@
   ],
   "DaMiRseq": [],
   "EpiCompare": [],
-  "GA4GHshiny": [],
   "GARS": [
     "DaMiRseq"
   ],
@@ -76,7 +71,6 @@
   "graper": [],
   "hypeR": [],
   "iCheck": [],
-  "mCSEA": [],
   "methylGSA": [
     "missMethyl"
   ],
@@ -91,6 +85,5 @@
   ],
   "spatzie": [],
   "trigger": [],
-  "uncoverappLib": [],
   "wateRmelon": []
 }

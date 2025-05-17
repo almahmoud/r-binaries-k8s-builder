@@ -2245,3 +2245,8 @@ YAPSA
 lumi
 RnaSeqSampleSize
 saseR
+CAGEfightR
+CNViz
+GA4GHshiny
+mCSEA
+uncoverappLib
