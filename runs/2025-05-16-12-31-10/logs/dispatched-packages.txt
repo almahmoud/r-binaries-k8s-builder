@@ -2197,3 +2197,8 @@ svaNUMT
 svaRetro
 OMICsPCA
 shinyDSP
+BubbleTree
+ChIPexoQual
+Gviz
+ggbio
+karyoploteR

@@ -1,2 +1,5 @@
-OMICsPCA
-shinyDSP
+BubbleTree
+ChIPexoQual
+Gviz
+ggbio
+karyoploteR
