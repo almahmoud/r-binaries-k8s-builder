@@ -242,7 +242,6 @@
     "GenomicFeatures",
     "ensembldb"
   ],
-  "CoverageView": [],
   "DAMEfinder": [
     "VariantAnnotation",
     "bumphunter",
@@ -572,7 +571,6 @@
     "scater",
     "scuttle"
   ],
-  "MGFR": [],
   "MGnifyR": [
     "mia",
     "scater",
@@ -893,7 +891,6 @@
     "annotatr",
     "GenomicFeatures"
   ],
-  "SPIAT": [],
   "SPLINTER": [
     "GenomicFeatures",
     "Gviz",
@@ -950,8 +947,6 @@
   "SplineDV": [
     "scuttle"
   ],
-  "SpotClean": [],
-  "Statial": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -1589,7 +1584,6 @@
     "bumphunter",
     "txdbmaker"
   ],
-  "iSEEpathways": [],
   "iSEEtree": [
     "miaViz",
     "mia",
@@ -1703,7 +1697,6 @@
     "GenomicFeatures",
     "bumphunter"
   ],
-  "methylInheritance": [],
   "methylPipe": [
     "Gviz",
     "GenomicFeatures",
@@ -1830,7 +1823,6 @@
     "clusterExperiment",
     "scuttle"
   ],
-  "nnSVG": [],
   "octad": [
     "RUVSeq",
     "EDASeq",
@@ -1949,9 +1941,7 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "sampleClassifier": [
-    "MGFR"
-  ],
+  "sampleClassifier": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -2119,7 +2109,6 @@
     "bumphunter",
     "lumi"
   ],
-  "smoothclust": [],
   "soGGi": [],
   "sosta": [],
   "spacexr": [],
@@ -2141,7 +2130,6 @@
     "scuttle"
   ],
   "spoon": [
-    "nnSVG",
     "scuttle"
   ],
   "squallms": [

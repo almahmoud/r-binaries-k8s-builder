@@ -1890,3 +1890,4 @@ soGGi
 transformGamPoi
 treeclimbR
 xcms
+sampleClassifier

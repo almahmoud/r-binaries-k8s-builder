@@ -1796,3 +1796,12 @@ HicAggR
 MsExperiment
 SAIGEgds
 TreeSummarizedExperiment
+CoverageView
+iSEEpathways
+methylInheritance
+MGFR
+nnSVG
+smoothclust
+SPIAT
+SpotClean
+Statial
