@@ -46,7 +46,6 @@
     "lumi"
   ],
   "NADfinder": [
-    "trackViewer",
     "ATACseqQC"
   ],
   "NormqPCR": [],
@@ -55,7 +54,6 @@
     "PICS"
   ],
   "PhenStat": [],
-  "RNAAgeCalc": [],
   "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
@@ -63,7 +61,6 @@
   "RedisParam": [],
   "RnBeads": [],
   "RnaSeqSampleSize": [],
-  "YAPSA": [],
   "affycoretools": [],
   "arrayMvout": [
     "lumi"
@@ -79,14 +76,11 @@
   "crisprShiny": [],
   "crisprVerse": [],
   "epimutacions": [],
-  "epivizrStandalone": [],
   "ffpe": [
     "lumi"
   ],
   "genoCN": [],
-  "geomeTriD": [
-    "trackViewer"
-  ],
+  "geomeTriD": [],
   "gmapR": [],
   "gpuMagic": [],
   "graper": [],
@@ -105,14 +99,12 @@
   "rGADEM": [],
   "ramr": [],
   "saseR": [],
-  "scTreeViz": [],
   "signeR": [],
   "skewr": [
     "wateRmelon",
     "lumi"
   ],
   "spatzie": [],
-  "trackViewer": [],
   "trigger": [],
   "uncoverappLib": [],
   "wateRmelon": [

@@ -2237,3 +2237,8 @@ vtpnet
 primirTSS
 tadar
 yarn
+epivizrStandalone
+RNAAgeCalc
+scTreeViz
+trackViewer
+YAPSA

@@ -2286,3 +2286,4 @@ psichomics
 compEpiTools
 crisprShiny
 crisprVerse
+geomeTriD
