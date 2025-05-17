@@ -1,15 +1,11 @@
 {
-  "AHMassBank": [
-    "AnnotationHubData"
-  ],
+  "AHMassBank": [],
   "APAlyzer": [],
   "ASpli": [
     "Gviz",
     "biovizBase"
   ],
-  "ATACseqQC": [
-    "ChIPpeakAnno"
-  ],
+  "ATACseqQC": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
@@ -21,7 +17,6 @@
     "biovizBase"
   ],
   "AneuFinder": [],
-  "AnnotationHubData": [],
   "BASiCStan": [],
   "BBCAnalyzer": [],
   "BOBaFIT": [
@@ -75,7 +70,6 @@
   "ChIPexoQual": [
     "biovizBase"
   ],
-  "ChIPpeakAnno": [],
   "ChIPseqR": [
     "HilbertVis"
   ],
@@ -84,9 +78,7 @@
     "biovizBase"
   ],
   "DAMEfinder": [],
-  "DEScan2": [
-    "ChIPpeakAnno"
-  ],
+  "DEScan2": [],
   "DMRcate": [
     "minfi",
     "missMethyl",
@@ -112,9 +104,7 @@
     "minfi"
   ],
   "EpiCompare": [],
-  "ExperimentHubData": [
-    "AnnotationHubData"
-  ],
+  "ExperimentHubData": [],
   "FLAMES": [
     "ggbio",
     "biovizBase"
@@ -127,14 +117,10 @@
   "GARS": [
     "DaMiRseq"
   ],
-  "GNOSIS": [
-    "cBioPortalData"
-  ],
+  "GNOSIS": [],
   "GRaNIE": [],
   "GSReg": [],
-  "GUIDEseq": [
-    "ChIPpeakAnno"
-  ],
+  "GUIDEseq": [],
   "GeDi": [
     "GeneTonic"
   ],
@@ -153,9 +139,7 @@
     "ggbio",
     "biovizBase"
   ],
-  "GenomicPlot": [
-    "RCAS"
-  ],
+  "GenomicPlot": [],
   "Gviz": [
     "biovizBase"
   ],
@@ -178,7 +162,6 @@
   "LOBSTAHS": [
     "CAMERA"
   ],
-  "M3Drop": [],
   "MADSEQ": [],
   "MAGAR": [
     "RnBeads",
@@ -214,7 +197,6 @@
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
-    "ChIPpeakAnno",
     "Gviz",
     "biovizBase"
   ],
@@ -226,7 +208,6 @@
   "OMICsPCA": [
     "HelloRanges"
   ],
-  "Organism.dplyr": [],
   "PICS": [],
   "PING": [
     "PICS",
@@ -249,10 +230,7 @@
   ],
   "R453Plus1Toolbox": [],
   "RAIDS": [],
-  "RCAS": [],
-  "REDseq": [
-    "ChIPpeakAnno"
-  ],
+  "REDseq": [],
   "REMP": [
     "minfi"
   ],
@@ -331,9 +309,7 @@
   ],
   "TitanCNA": [],
   "UPDhmm": [],
-  "Ularcirc": [
-    "Organism.dplyr"
-  ],
+  "Ularcirc": [],
   "Uniquorn": [],
   "VCFArray": [
     "GenomicFiles"
@@ -374,9 +350,7 @@
     "methylumi",
     "lumi"
   ],
-  "bioCancer": [
-    "cBioPortalData"
-  ],
+  "bioCancer": [],
   "biomvRCNS": [
     "Gviz",
     "biovizBase"
@@ -385,18 +359,13 @@
   "biscuiteer": [
     "dmrseq"
   ],
-  "cBioPortalData": [],
   "cageminer": [
     "ggbio",
     "biovizBase"
   ],
-  "canceR": [
-    "cBioPortalData"
-  ],
+  "canceR": [],
   "cardelino": [],
-  "cbaf": [
-    "cBioPortalData"
-  ],
+  "cbaf": [],
   "chevreulPlot": [],
   "chevreulShiny": [
     "chevreulPlot"
@@ -573,8 +542,7 @@
   ],
   "methylclock": [
     "minfi",
-    "ExperimentHubData",
-    "AnnotationHubData"
+    "ExperimentHubData"
   ],
   "methylumi": [
     "minfi"
@@ -645,9 +613,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "scMerge": [
-    "M3Drop"
-  ],
+  "scMerge": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData"
@@ -670,8 +636,7 @@
   ],
   "signeR": [],
   "singleCellTK": [
-    "scMerge",
-    "M3Drop"
+    "scMerge"
   ],
   "skewr": [
     "methylumi",
@@ -716,9 +681,7 @@
   "vtpnet": [
     "gwascat"
   ],
-  "vulcan": [
-    "ChIPpeakAnno"
-  ],
+  "vulcan": [],
   "wateRmelon": [
     "methylumi",
     "lumi",

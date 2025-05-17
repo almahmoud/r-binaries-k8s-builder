@@ -2040,3 +2040,9 @@ factR
 methylSig
 Moonlight2R
 xcms
+AnnotationHubData
+cBioPortalData
+ChIPpeakAnno
+M3Drop
+Organism.dplyr
+RCAS

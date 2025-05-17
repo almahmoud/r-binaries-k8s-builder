@@ -2152,3 +2152,17 @@ cliqueMS
 cosmiq
 ncGTW
 squallms
+AHMassBank
+ATACseqQC
+DEScan2
+ExperimentHubData
+GNOSIS
+GUIDEseq
+GenomicPlot
+REDseq
+Ularcirc
+bioCancer
+canceR
+cbaf
+scMerge
+vulcan
