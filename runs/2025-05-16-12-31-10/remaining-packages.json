@@ -15,7 +15,6 @@
   "BOBaFIT": [
     "ggbio"
   ],
-  "BubbleTree": [],
   "CAFE": [
     "ggbio"
   ],
@@ -41,7 +40,6 @@
     "wateRmelon",
     "missMethyl",
     "Gviz",
-    "methylumi",
     "lumi"
   ],
   "ChIPexoQual": [],
@@ -53,8 +51,7 @@
   ],
   "DMRcate": [
     "missMethyl",
-    "Gviz",
-    "methylumi"
+    "Gviz"
   ],
   "DaMiRseq": [],
   "Damsel": [
@@ -95,22 +92,18 @@
   ],
   "IntEREst": [],
   "MAGAR": [
-    "RnBeads",
-    "methylumi"
+    "RnBeads"
   ],
   "MEAL": [
     "Gviz",
-    "missMethyl",
-    "methylumi"
+    "missMethyl"
   ],
   "MEAT": [
     "wateRmelon",
-    "methylumi",
     "lumi"
   ],
   "MineICA": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "NADfinder": [
     "trackViewer",
@@ -162,9 +155,7 @@
   "RiboProfiling": [
     "ggbio"
   ],
-  "RnBeads": [
-    "methylumi"
-  ],
+  "RnBeads": [],
   "RnaSeqSampleSize": [
     "recount",
     "derfinder"
@@ -198,12 +189,10 @@
   ],
   "alabaster": [],
   "arrayMvout": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "bigmelon": [
     "wateRmelon",
-    "methylumi",
     "lumi"
   ],
   "biomvRCNS": [
@@ -228,19 +217,15 @@
     "methylPipe",
     "Gviz"
   ],
-  "crisprDesign": [],
   "crisprShiny": [
-    "crisprDesign",
     "crisprViz",
     "Gviz"
   ],
   "crisprVerse": [
-    "crisprDesign",
     "crisprViz",
     "Gviz"
   ],
   "crisprViz": [
-    "crisprDesign",
     "Gviz"
   ],
   "cummeRbund": [
@@ -258,10 +243,8 @@
   "epivizrStandalone": [],
   "erma": [],
   "ffpe": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
-  "flagme": [],
   "gDNAx": [],
   "genoCN": [],
   "geomeTriD": [
@@ -274,17 +257,14 @@
   "graper": [],
   "hypeR": [],
   "iCheck": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "iNETgrate": [],
   "intansv": [
     "ggbio"
   ],
   "karyoploteR": [],
-  "lumi": [
-    "methylumi"
-  ],
+  "lumi": [],
   "mCSEA": [
     "Gviz"
   ],
@@ -292,16 +272,12 @@
     "Gviz"
   ],
   "methylGSA": [
-    "missMethyl",
-    "methylumi"
+    "missMethyl"
   ],
   "methylPipe": [
     "Gviz"
   ],
-  "methylumi": [],
-  "missMethyl": [
-    "methylumi"
-  ],
+  "missMethyl": [],
   "motifbreakR": [
     "Gviz"
   ],
@@ -319,13 +295,11 @@
     "recount",
     "derfinder"
   ],
-  "quantro": [],
   "rGADEM": [],
   "ramr": [],
   "recount": [
     "derfinder"
   ],
-  "recountmethylation": [],
   "regionReport": [
     "derfinder"
   ],
@@ -345,7 +319,6 @@
   "signeR": [],
   "singleCellTK": [],
   "skewr": [
-    "methylumi",
     "wateRmelon",
     "lumi"
   ],
@@ -357,7 +330,6 @@
     "Gviz"
   ],
   "svaNUMT": [],
-  "svaRetro": [],
   "tadar": [
     "Gviz"
   ],
@@ -370,10 +342,7 @@
   ],
   "vtpnet": [],
   "wateRmelon": [
-    "methylumi",
     "lumi"
   ],
-  "yarn": [
-    "quantro"
-  ]
+  "yarn": []
 }

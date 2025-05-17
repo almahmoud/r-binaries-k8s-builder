@@ -2217,3 +2217,7 @@ alabaster
 derfinder
 erma
 gDNAx
+RnBeads
+lumi
+missMethyl
+yarn

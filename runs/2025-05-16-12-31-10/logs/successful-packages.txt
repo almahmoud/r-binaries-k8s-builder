@@ -2161,3 +2161,10 @@ GenomicFiles
 methylclock
 mitoClone2
 REMP
+BubbleTree
+crisprDesign
+flagme
+methylumi
+quantro
+recountmethylation
+svaRetro

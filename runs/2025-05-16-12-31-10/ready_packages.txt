@@ -1,9 +1,4 @@
-IntEREst
-QuasR
-Rqc
-TFutils
-VCFArray
-alabaster
-derfinder
-erma
-gDNAx
+RnBeads
+lumi
+missMethyl
+yarn
