@@ -17,11 +17,8 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "MAGAR": [
-    "RnBeads"
-  ],
+  "MAGAR": [],
   "MEAL": [],
-  "MEAT": [],
   "NADfinder": [
     "ATACseqQC"
   ],
@@ -33,8 +30,6 @@
   "PhenStat": [],
   "RbowtieCuda": [],
   "RedisParam": [],
-  "RnBeads": [],
-  "bigmelon": [],
   "cisPath": [],
   "cn.farms": [],
   "genoCN": [],
@@ -46,6 +41,5 @@
   "rGADEM": [],
   "ramr": [],
   "signeR": [],
-  "skewr": [],
   "trigger": []
 }
