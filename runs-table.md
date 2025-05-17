@@ -1,6 +1,6 @@
 | Run ID | Start Time | Container Image | R Version | Bioc Version | Status | Success | Failed | Total |
 |--------|------------|-----------------|-----------|--------------|--------|---------|--------|-------|
-| [2025-05-16-12-31-10](runs/2025-05-16-12-31-10/) | 2025-05-16 12:31:10 | `us.gcr.io/broad-dsp-gcr-public/terra-jupyter-r:2.2.7` | 4.5.0. | 3.21 | In Progress | 1444 | 13 | 1457 |
+| [2025-05-16-12-31-10](runs/2025-05-16-12-31-10/) | 2025-05-16 12:31:10 | `us.gcr.io/broad-dsp-gcr-public/terra-jupyter-r:2.2.7` | 4.5.0. | 3.21 | In Progress | 1677 | 14 | 1691 |
 | [2025-05-14-09-46-50](runs/2025-05-14-09-46-50/) | 2025-05-14 09:46:50 | `ghcr.io/bioconductor/bioconductor_docker:devel` | 4.5.0. | 3.22 | Complete | 0 | 0 | 0 |
 | [2025-05-13-14-17-23](runs/2025-05-13-14-17-23/) | 2025-05-13 14:17:23 | `ghcr.io/bioconductor/bioconductor_docker:devel` | 4.5.0. | 3.21 | In Progress | 0 | 0 | 0 |
 | [2025-05-08-14-03-31](runs/2025-05-08-14-03-31/) | 2025-05-08 14:03:31 | `us.gcr.io/broad-dsp-gcr-public/terra-jupyter-bioconductor:2.2.7` | N/A | 3.22 | Complete | 0 | 0 | 0 |
