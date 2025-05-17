@@ -2202,3 +2202,5 @@ ChIPexoQual
 Gviz
 ggbio
 karyoploteR
+epivizrStandalone
+scTreeViz
