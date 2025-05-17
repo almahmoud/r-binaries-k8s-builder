@@ -1888,3 +1888,7 @@ scCB2
 scDD
 scDotPlot
 scviR
+BioTIP
+muscat
+netSmooth
+scDblFinder
