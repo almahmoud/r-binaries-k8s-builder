@@ -5,14 +5,15 @@
 ## Summary
 
 - 2282 packages built successfully
-- 21 packages failed to build
-- 6 packages not yet processed
+- 22 packages failed to build
+- 5 packages not yet processed
 
-## Failed Builds (21)
+## Failed Builds (22)
 | Package                                                                          | Status   | Log                                    | BBS Status                                                                  | Failure Reasons                                                     |
 |----------------------------------------------------------------------------------|----------|----------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------|
 | [ATACseqQC](https://bioconductor.org/packages/3.21/bioc/html/ATACseqQC.html)     | Failed   | [Log](logs/ATACseqQC/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ATACseqQC)      | Build failed: Log file missing                                      |
 | [AneuFinder](https://bioconductor.org/packages/3.21/bioc/html/AneuFinder.html)   | Failed   | [Log](logs/AneuFinder/build-fail.log)  | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/AneuFinder)  | Build failed with unknown error                                     |
+| [ChAMP](https://bioconductor.org/packages/3.21/bioc/html/ChAMP.html)             | Failed   | [Log](logs/ChAMP/build-fail.log)       | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ChAMP)          | Build failed with unknown error                                     |
 | [DaMiRseq](https://bioconductor.org/packages/3.21/bioc/html/DaMiRseq.html)       | Failed   | [Log](logs/DaMiRseq/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/DaMiRseq)       | Build failed with unknown error                                     |
 | [EpiCompare](https://bioconductor.org/packages/3.21/bioc/html/EpiCompare.html)   | Failed   | [Log](logs/EpiCompare/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/EpiCompare)     | Build failed with unknown error                                     |
 | [HilbertVis](https://bioconductor.org/packages/3.21/bioc/html/HilbertVis.html)   | Failed   | [Log](logs/HilbertVis/build-fail.log)  | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/HilbertVis)  | Compilation failed:  ‘HilbertVis’                                   |
@@ -2319,10 +2320,9 @@
 | [zitools](https://bioconductor.org/packages/3.21/bioc/html/zitools.html)                                         | Built    | [Log](logs/zitools/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/zitools)                     |
 | [zlibbioc](https://bioconductor.org/packages/3.21/bioc/html/zlibbioc.html)                                       | Built    | [Log](logs/zlibbioc/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/zlibbioc)                    |
 
-## Not Yet Processed (6)
+## Not Yet Processed (5)
 | Package                                                                              | Status      |
 |--------------------------------------------------------------------------------------|-------------|
-| [ChAMP](https://bioconductor.org/packages/3.21/bioc/html/ChAMP.html)                 | Unprocessed |
 | [ChIPseqR](https://bioconductor.org/packages/3.21/bioc/html/ChIPseqR.html)           | Unprocessed |
 | [GARS](https://bioconductor.org/packages/3.21/bioc/html/GARS.html)                   | Unprocessed |
 | [HilbertVisGUI](https://bioconductor.org/packages/3.21/bioc/html/HilbertVisGUI.html) | Unprocessed |
