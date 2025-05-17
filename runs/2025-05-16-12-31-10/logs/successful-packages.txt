@@ -2255,3 +2255,8 @@ epimutacions
 HiCDCPlus
 RNAmodR.AlkAnilineSeq
 spatzie
+chimeraviz
+crisprVerse
+psichomics
+RNAmodR.ML
+RNAmodR.RiboMethSeq

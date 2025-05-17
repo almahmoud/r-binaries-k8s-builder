@@ -42,8 +42,6 @@
     "PICS"
   ],
   "PhenStat": [],
-  "RNAmodR.ML": [],
-  "RNAmodR.RiboMethSeq": [],
   "RbowtieCuda": [],
   "RedisParam": [],
   "RnBeads": [],
@@ -51,12 +49,10 @@
   "bigmelon": [
     "wateRmelon"
   ],
-  "chimeraviz": [],
   "cisPath": [],
   "cn.farms": [],
   "compEpiTools": [],
   "crisprShiny": [],
-  "crisprVerse": [],
   "ffpe": [],
   "genoCN": [],
   "geomeTriD": [],
@@ -70,7 +66,6 @@
   ],
   "missMethyl": [],
   "motifbreakR": [],
-  "psichomics": [],
   "rGADEM": [],
   "ramr": [],
   "signeR": [],
