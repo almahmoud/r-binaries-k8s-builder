@@ -104,7 +104,6 @@
     "RnBeads",
     "methylumi"
   ],
-  "MAIT": [],
   "MEAL": [
     "Gviz",
     "missMethyl",
@@ -291,7 +290,6 @@
     "methylumi"
   ],
   "flagme": [],
-  "funtooNorm": [],
   "gDNAx": [
     "GenomicFiles"
   ],
