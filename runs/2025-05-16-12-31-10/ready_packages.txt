@@ -1,2 +1,1 @@
-epivizrStandalone
-scTreeViz
+singleCellTK

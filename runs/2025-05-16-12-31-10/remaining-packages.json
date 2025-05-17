@@ -127,7 +127,6 @@
     "lumi",
     "methylumi"
   ],
-  "MungeSumstats": [],
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
@@ -368,7 +367,6 @@
   "multicrispr": [
     "karyoploteR"
   ],
-  "musicatk": [],
   "octad": [],
   "primirTSS": [
     "Gviz"
@@ -398,7 +396,6 @@
     "ASpli",
     "Gviz"
   ],
-  "scMerge": [],
   "scTreeViz": [],
   "scoreInvHap": [],
   "scruff": [
@@ -408,9 +405,7 @@
   "shinyMethyl": [],
   "shinyepico": [],
   "signeR": [],
-  "singleCellTK": [
-    "scMerge"
-  ],
+  "singleCellTK": [],
   "skewr": [
     "methylumi",
     "wateRmelon",

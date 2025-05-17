@@ -2126,3 +2126,6 @@ epivizr
 epivizrChart
 GenomicPlot
 Ularcirc
+MungeSumstats
+musicatk
+scMerge
