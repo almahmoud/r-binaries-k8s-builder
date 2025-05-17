@@ -2168,3 +2168,7 @@ methylumi
 quantro
 recountmethylation
 svaRetro
+customProDB
+Gviz
+Rqc
+UPDhmm
