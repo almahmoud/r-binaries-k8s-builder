@@ -277,7 +277,6 @@
     "methylumi",
     "lumi"
   ],
-  "MEB": [],
   "MetaboSignal": [],
   "MethylAid": [
     "minfi",
@@ -561,12 +560,8 @@
   "cbaf": [
     "cBioPortalData"
   ],
-  "chevreulPlot": [
-    "chevreulProcess"
-  ],
-  "chevreulProcess": [],
+  "chevreulPlot": [],
   "chevreulShiny": [
-    "chevreulProcess",
     "chevreulPlot"
   ],
   "chimeraviz": [
@@ -680,7 +675,6 @@
     "bumphunter"
   ],
   "doubletrouble": [],
-  "drugTargetInteractions": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -880,7 +874,6 @@
   "pcaExplorer": [
     "mosdef"
   ],
-  "peco": [],
   "preciseTAD": [
     "rCGH"
   ],
@@ -929,7 +922,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "rgsepd": [],
   "ribosomeProfilingQC": [
     "RUVSeq"
   ],
