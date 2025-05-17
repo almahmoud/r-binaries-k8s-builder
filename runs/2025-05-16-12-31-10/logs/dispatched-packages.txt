@@ -2139,3 +2139,10 @@ seqCAT
 signeR
 tLOH
 transmogR
+BASiCStan
+consensusDE
+octad
+profileplyr
+ribosomeProfilingQC
+scone
+standR

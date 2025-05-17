@@ -2017,3 +2017,15 @@ BindingSiteFinder
 mosdef
 VariantAnnotation
 webbioc
+BASiCS
+DeconvoBuddies
+geneAttribution
+IsoformSwitchAnalyzeR
+lemur
+rGREAT
+RUVSeq
+segmenter
+signifinder
+soGGi
+strandCheckR
+waddR

@@ -22,10 +22,7 @@
   ],
   "AneuFinder": [],
   "AnnotationHubData": [],
-  "BASiCS": [],
-  "BASiCStan": [
-    "BASiCS"
-  ],
+  "BASiCStan": [],
   "BBCAnalyzer": [],
   "BOBaFIT": [
     "ggbio",
@@ -105,7 +102,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "DeconvoBuddies": [],
   "DominoEffect": [],
   "DuplexDiscovereR": [
     "Gviz",
@@ -184,7 +180,6 @@
   "IntEREst": [
     "GenomicFiles"
   ],
-  "IsoformSwitchAnalyzeR": [],
   "LOBSTAHS": [
     "xcms",
     "CAMERA"
@@ -296,7 +291,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "RUVSeq": [],
   "RareVariantVis": [],
   "RbowtieCuda": [],
   "RedisParam": [],
@@ -445,9 +439,7 @@
     "biovizBase"
   ],
   "condiments": [],
-  "consensusDE": [
-    "RUVSeq"
-  ],
+  "consensusDE": [],
   "conumee": [
     "minfi"
   ],
@@ -536,7 +528,6 @@
   ],
   "gDR": [],
   "gINTomics": [],
-  "geneAttribution": [],
   "genoCN": [],
   "geomeTriD": [
     "trackViewer",
@@ -571,7 +562,6 @@
     "biovizBase"
   ],
   "katdetectr": [],
-  "lemur": [],
   "lineagespot": [],
   "lumi": [
     "methylumi",
@@ -639,19 +629,14 @@
   "ncGTW": [
     "xcms"
   ],
-  "octad": [
-    "RUVSeq"
-  ],
+  "octad": [],
   "pcaExplorer": [],
   "preciseTAD": [],
   "primirTSS": [
     "Gviz",
     "biovizBase"
   ],
-  "profileplyr": [
-    "soGGi",
-    "rGREAT"
-  ],
+  "profileplyr": [],
   "psichomics": [
     "recount",
     "derfinder",
@@ -661,7 +646,6 @@
     "minfi"
   ],
   "rGADEM": [],
-  "rGREAT": [],
   "ramr": [],
   "recount": [
     "derfinder",
@@ -678,9 +662,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "ribosomeProfilingQC": [
-    "RUVSeq"
-  ],
+  "ribosomeProfilingQC": [],
   "rnaEditr": [],
   "saseR": [
     "ASpli",
@@ -695,19 +677,15 @@
     "epivizr",
     "epivizrData"
   ],
-  "scone": [
-    "RUVSeq"
-  ],
+  "scone": [],
   "scoreInvHap": [],
   "scruff": [
     "ggbio",
     "biovizBase"
   ],
-  "segmenter": [],
   "seqCAT": [],
   "shinyDSP": [
-    "standR",
-    "RUVSeq"
+    "standR"
   ],
   "shinyMethyl": [
     "minfi"
@@ -716,7 +694,6 @@
     "minfi"
   ],
   "signeR": [],
-  "signifinder": [],
   "singleCellTK": [
     "scMerge",
     "M3Drop"
@@ -727,7 +704,6 @@
     "minfi",
     "lumi"
   ],
-  "soGGi": [],
   "spatzie": [
     "GenomicInteractions",
     "Gviz",
@@ -741,10 +717,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "standR": [
-    "RUVSeq"
-  ],
-  "strandCheckR": [],
+  "standR": [],
   "svaNUMT": [
     "StructuralVariantAnnotation"
   ],
@@ -773,7 +746,6 @@
   "vulcan": [
     "ChIPpeakAnno"
   ],
-  "waddR": [],
   "wateRmelon": [
     "methylumi",
     "lumi",
