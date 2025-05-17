@@ -1879,3 +1879,12 @@ mumosa
 pipeComp
 VAExprs
 visiumStitched
+BatchQC
+dandelionR
+dreamlet
+EpiMix
+epiregulon
+scCB2
+scDD
+scDotPlot
+scviR

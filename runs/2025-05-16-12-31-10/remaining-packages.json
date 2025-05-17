@@ -60,7 +60,6 @@
   "BadRegionFinder": [
     "VariantAnnotation"
   ],
-  "BatchQC": [],
   "BayesSpace": [],
   "BgeeCall": [
     "txdbmaker"
@@ -222,7 +221,6 @@
     "bumphunter"
   ],
   "EpiCompare": [],
-  "EpiMix": [],
   "EpiTxDb": [
     "txdbmaker"
   ],
@@ -418,9 +416,7 @@
     "minfi",
     "bumphunter"
   ],
-  "Moonlight2R": [
-    "EpiMix"
-  ],
+  "Moonlight2R": [],
   "MsQuality": [],
   "MungeSumstats": [
     "VariantAnnotation"
@@ -937,7 +933,6 @@
     "CATALYST"
   ],
   "dada2": [],
-  "dandelionR": [],
   "dar": [
     "mia"
   ],
@@ -982,7 +977,6 @@
     "annotatr"
   ],
   "doubletrouble": [],
-  "dreamlet": [],
   "drugTargetInteractions": [
     "ensembldb"
   ],
@@ -997,7 +991,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "epiregulon": [],
   "epiregulon.extra": [],
   "epivizr": [
     "epivizrData",
@@ -1360,10 +1353,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scCB2": [],
-  "scDD": [],
   "scDblFinder": [],
-  "scDotPlot": [],
   "scFeatures": [
     "ensembldb",
     "SingleCellSignalR"
@@ -1401,7 +1391,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "scviR": [],
   "segmenter": [],
   "seqArchRplus": [],
   "seqCAT": [
