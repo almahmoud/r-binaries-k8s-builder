@@ -1845,3 +1845,6 @@ consensusOV
 escape
 oppar
 pathMED
+AneuFinder
+epigraHMM
+normr

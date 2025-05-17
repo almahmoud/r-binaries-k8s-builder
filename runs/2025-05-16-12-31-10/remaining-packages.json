@@ -48,9 +48,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "AneuFinder": [
-    "bamsignals"
-  ],
+  "AneuFinder": [],
   "AnnotationHubData": [
     "GenomicFeatures",
     "OrganismDbi",
@@ -165,7 +163,6 @@
     "VariantAnnotation",
     "biovizBase",
     "GenomicFeatures",
-    "bamsignals",
     "ensembldb"
   ],
   "CNViz": [
@@ -175,7 +172,6 @@
     "VariantAnnotation",
     "biovizBase",
     "GenomicFeatures",
-    "bamsignals",
     "ensembldb"
   ],
   "CNVrd2": [
@@ -204,7 +200,6 @@
     "scater",
     "scuttle"
   ],
-  "CexoR": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -276,7 +271,6 @@
     "VariantAnnotation",
     "biovizBase",
     "GenomicFeatures",
-    "bamsignals",
     "ensembldb"
   ],
   "CoverageView": [],
@@ -308,7 +302,6 @@
     "VariantAnnotation"
   ],
   "DNAfusion": [
-    "bamsignals",
     "GenomicFeatures"
   ],
   "DSS": [
@@ -1055,7 +1048,6 @@
   "TAPseq": [
     "GenomicFeatures"
   ],
-  "TBSignatureProfiler": [],
   "TCGAutils": [
     "GenomicFeatures"
   ],
@@ -1227,9 +1219,7 @@
   "bambu": [
     "GenomicFeatures"
   ],
-  "bamsignals": [],
   "bandle": [],
-  "basecallQC": [],
   "batchelor": [
     "scuttle"
   ],
@@ -1423,7 +1413,6 @@
     "GenomicFeatures",
     "RUVSeq"
   ],
-  "consensusOV": [],
   "conumee": [
     "minfi",
     "bumphunter",
@@ -1473,7 +1462,6 @@
   ],
   "crumblr": [],
   "crupR": [
-    "bamsignals",
     "GenomicFeatures"
   ],
   "cummeRbund": [
@@ -1585,9 +1573,7 @@
   "ensembldb": [
     "GenomicFeatures"
   ],
-  "epigraHMM": [
-    "bamsignals"
-  ],
+  "epigraHMM": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -1797,12 +1783,10 @@
     "txdbmaker"
   ],
   "isobar": [],
-  "jazzPanda": [],
   "karyoploteR": [
     "regioneR",
     "biovizBase",
     "GenomicFeatures",
-    "bamsignals",
     "VariantAnnotation",
     "ensembldb"
   ],
@@ -2012,7 +1996,6 @@
     "karyoploteR",
     "regioneR",
     "biovizBase",
-    "bamsignals",
     "VariantAnnotation",
     "ensembldb"
   ],
@@ -2052,17 +2035,13 @@
     "scuttle"
   ],
   "nnSVG": [],
-  "normr": [
-    "bamsignals"
-  ],
+  "normr": [],
   "nucleR": [],
   "octad": [
     "RUVSeq",
     "EDASeq",
     "GenomicFeatures"
   ],
-  "oppar": [],
-  "pRolocGUI": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools"
@@ -2296,7 +2275,6 @@
   ],
   "segmenter": [
     "ChIPseeker",
-    "bamsignals",
     "GenomicFeatures"
   ],
   "selectKSigs": [
@@ -2335,7 +2313,6 @@
     "GenomicFeatures"
   ],
   "signifinder": [
-    "consensusOV",
     "ensembldb",
     "GenomicFeatures"
   ],
@@ -2542,7 +2519,6 @@
     "MsExperiment"
   ],
   "xcore": [],
-  "xenLite": [],
   "yarn": [
     "quantro",
     "minfi",
