@@ -1982,3 +1982,11 @@ iSEEtree
 RiboDiPA
 scmeth
 UMI4Cats
+BUSpaRse
+lisaClust
+metaseqR2
+methodical
+MSnID
+OrganismDbi
+OUTRIDER
+SOMNiBUS
