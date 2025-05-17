@@ -2146,3 +2146,8 @@ LOBSTAHS
 profileplyr
 metaMS
 MethylAid
+biscuiteer
+cbaf
+conumee
+methylCC
+shinyMethyl

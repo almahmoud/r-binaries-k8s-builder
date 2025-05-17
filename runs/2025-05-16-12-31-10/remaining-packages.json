@@ -232,11 +232,9 @@
   "biomvRCNS": [
     "Gviz"
   ],
-  "biscuiteer": [],
   "cageminer": [
     "ggbio"
   ],
-  "cbaf": [],
   "chimeraviz": [
     "Gviz"
   ],
@@ -253,7 +251,6 @@
     "methylPipe",
     "Gviz"
   ],
-  "conumee": [],
   "crisprDesign": [],
   "crisprShiny": [
     "crisprDesign",
@@ -326,7 +323,6 @@
   "maser": [
     "Gviz"
   ],
-  "methylCC": [],
   "methylGSA": [
     "missMethyl",
     "methylumi"
@@ -382,7 +378,6 @@
     "ggbio"
   ],
   "shinyDSP": [],
-  "shinyMethyl": [],
   "shinyepico": [],
   "signeR": [],
   "singleCellTK": [],
