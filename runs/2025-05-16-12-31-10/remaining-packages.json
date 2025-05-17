@@ -72,7 +72,6 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "IntEREst": [],
   "MAGAR": [
     "RnBeads"
   ],
@@ -92,7 +91,6 @@
   ],
   "NormqPCR": [],
   "OGRE": [],
-  "OMICsPCA": [],
   "PICS": [],
   "PING": [
     "PICS"
@@ -139,7 +137,6 @@
   ],
   "TFutils": [],
   "TVTB": [],
-  "VCFArray": [],
   "VariantFiltering": [],
   "YAPSA": [
     "SomaticSignatures",
@@ -149,7 +146,6 @@
     "ReportingTools",
     "ggbio"
   ],
-  "alabaster": [],
   "arrayMvout": [
     "lumi"
   ],
@@ -222,7 +218,6 @@
   "multicrispr": [
     "karyoploteR"
   ],
-  "octad": [],
   "primirTSS": [],
   "psichomics": [
     "recount",
@@ -245,7 +240,6 @@
     "ggbio"
   ],
   "shinyDSP": [],
-  "shinyepico": [],
   "signeR": [],
   "singleCellTK": [],
   "skewr": [
