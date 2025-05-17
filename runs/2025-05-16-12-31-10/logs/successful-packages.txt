@@ -1557,3 +1557,13 @@ multistateQTL
 satuRn
 slingshot
 SurfR
+BiSeq
+ChIPXpress
+CNEr
+COTAN
+HiCDOC
+microbiomeExplorer
+msqrob2
+qsmooth
+scBFA
+zellkonverter

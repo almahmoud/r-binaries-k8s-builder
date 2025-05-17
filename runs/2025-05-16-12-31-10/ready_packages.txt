@@ -1,8 +1,1 @@
-iSEEde
-iSEEhex
-iSEEhub
-iSEEindex
-iSEEpathways
-scClassify
-scRNAseqApp
-tradeSeq
+BgeeDB

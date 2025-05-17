@@ -1725,3 +1725,4 @@ iSEEpathways
 scClassify
 scRNAseqApp
 tradeSeq
+BgeeDB

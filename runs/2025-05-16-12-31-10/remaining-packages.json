@@ -125,10 +125,7 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "BgeeDB": [
-    "zellkonverter"
-  ],
-  "BiSeq": [],
+  "BgeeDB": [],
   "BindingSiteFinder": [
     "GenomicFeatures"
   ],
@@ -198,7 +195,6 @@
   ],
   "CDI": [],
   "CHETAH": [],
-  "CNEr": [],
   "CNVfilteR": [
     "regioneR",
     "karyoploteR",
@@ -234,7 +230,6 @@
   "CODEX": [
     "BSgenome"
   ],
-  "COTAN": [],
   "CRISPRball": [
     "dittoSeq"
   ],
@@ -291,7 +286,6 @@
     "GreyListChIP",
     "BSgenome"
   ],
-  "ChIPXpress": [],
   "ChIPanalyser": [
     "BSgenome"
   ],
@@ -335,7 +329,6 @@
   "CleanUpRNAseq": [
     "BSgenome",
     "ensembldb",
-    "qsmooth",
     "GenomicFeatures"
   ],
   "CluMSID": [
@@ -684,7 +677,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiCDOC": [],
   "HiCParser": [],
   "HiLDA": [
     "GenomicFeatures",
@@ -1060,8 +1052,7 @@
   "RITAN": [
     "BgeeDB",
     "GenomicFeatures",
-    "ensembldb",
-    "zellkonverter"
+    "ensembldb"
   ],
   "RJMCMCNucleosomes": [],
   "RMassBank": [
@@ -2446,7 +2437,6 @@
   "microSTASIS": [
     "TreeSummarizedExperiment"
   ],
-  "microbiomeExplorer": [],
   "miloR": [],
   "mimager": [],
   "minfi": [
@@ -2516,7 +2506,6 @@
     "MSnbase",
     "msmsEDA"
   ],
-  "msqrob2": [],
   "multicrispr": [
     "BSgenome",
     "CRISPRseek",
@@ -2686,7 +2675,6 @@
   "qsea": [
     "BSgenome"
   ],
-  "qsmooth": [],
   "quantro": [
     "minfi",
     "bumphunter",
@@ -2783,7 +2771,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scBFA": [],
   "scCB2": [
     "DropletUtils",
     "scuttle"
@@ -2961,7 +2948,6 @@
     "DropletUtils",
     "scDblFinder",
     "scuttle",
-    "zellkonverter",
     "GenomicFeatures",
     "SpatialExperiment",
     "M3Drop"
@@ -3173,7 +3159,6 @@
     "VariantAnnotation"
   ],
   "velociraptor": [
-    "zellkonverter",
     "scuttle"
   ],
   "visiumStitched": [
@@ -3229,6 +3214,5 @@
     "minfi",
     "bumphunter",
     "GenomicFeatures"
-  ],
-  "zellkonverter": []
+  ]
 }
