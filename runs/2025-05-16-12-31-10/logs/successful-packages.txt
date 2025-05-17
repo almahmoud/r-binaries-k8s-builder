@@ -1696,3 +1696,8 @@ sigFeature
 SpliceWiz
 stageR
 stJoincount
+CARDspa
+MatrixQCvis
+scifer
+slalom
+structToolbox

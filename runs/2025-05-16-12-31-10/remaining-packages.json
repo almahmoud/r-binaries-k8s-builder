@@ -149,7 +149,6 @@
     "xcms",
     "MsExperiment"
   ],
-  "CARDspa": [],
   "CATALYST": [
     "scater",
     "scuttle"
@@ -661,7 +660,6 @@
     "msmsTests"
   ],
   "MSstatsQCgui": [],
-  "MatrixQCvis": [],
   "MatrixRider": [
     "TFBSTools"
   ],
@@ -2264,7 +2262,6 @@
   "scater": [
     "scuttle"
   ],
-  "scifer": [],
   "scmeth": [
     "bsseq",
     "annotatr",
@@ -2370,7 +2367,6 @@
     "bumphunter",
     "lumi"
   ],
-  "slalom": [],
   "smoothclust": [],
   "soGGi": [
     "chipseq"
@@ -2422,7 +2418,6 @@
   "strandCheckR": [
     "GenomicFeatures"
   ],
-  "structToolbox": [],
   "svaNUMT": [
     "VariantAnnotation",
     "StructuralVariantAnnotation",
