@@ -1,8 +1,6 @@
 {
   "ATACseqQC": [],
-  "AgiMicroRna": [
-    "affycoretools"
-  ],
+  "AgiMicroRna": [],
   "AneuFinder": [],
   "CAGEr": [],
   "ChAMP": [
@@ -21,7 +19,6 @@
   "GARS": [
     "DaMiRseq"
   ],
-  "HiCDCPlus": [],
   "HilbertVis": [],
   "HilbertVisGUI": [
     "HilbertVis"
@@ -45,13 +42,11 @@
     "PICS"
   ],
   "PhenStat": [],
-  "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
   "RbowtieCuda": [],
   "RedisParam": [],
   "RnBeads": [],
-  "affycoretools": [],
   "arrayMvout": [],
   "bigmelon": [
     "wateRmelon"
@@ -62,7 +57,6 @@
   "compEpiTools": [],
   "crisprShiny": [],
   "crisprVerse": [],
-  "epimutacions": [],
   "ffpe": [],
   "genoCN": [],
   "geomeTriD": [],
@@ -83,7 +77,6 @@
   "skewr": [
     "wateRmelon"
   ],
-  "spatzie": [],
   "trigger": [],
   "wateRmelon": []
 }
