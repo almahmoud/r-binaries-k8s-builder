@@ -22,7 +22,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "BadRegionFinder": [],
   "BubbleTree": [
     "biovizBase"
   ],
@@ -88,7 +87,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "DominoEffect": [],
   "DuplexDiscovereR": [
     "Gviz",
     "biovizBase"
@@ -113,7 +111,6 @@
     "DaMiRseq"
   ],
   "GNOSIS": [],
-  "GRaNIE": [],
   "GUIDEseq": [],
   "GeDi": [
     "GeneTonic"
@@ -342,9 +339,7 @@
     "biovizBase"
   ],
   "biovizBase": [],
-  "biscuiteer": [
-    "dmrseq"
-  ],
+  "biscuiteer": [],
   "cageminer": [
     "ggbio",
     "biovizBase"
@@ -420,7 +415,6 @@
     "GenomicFiles",
     "biovizBase"
   ],
-  "dmrseq": [],
   "epimutacions": [
     "minfi",
     "Gviz",
@@ -578,7 +572,6 @@
     "biovizBase"
   ],
   "ribosomeProfilingQC": [],
-  "rnaEditr": [],
   "saseR": [
     "ASpli",
     "Gviz",
@@ -647,7 +640,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "vmrseq": [],
   "vtpnet": [
     "gwascat"
   ],

@@ -2063,3 +2063,9 @@ cliqueMS
 cosmiq
 FRASER
 squallms
+BadRegionFinder
+dmrseq
+DominoEffect
+GRaNIE
+rnaEditr
+vmrseq
