@@ -2036,3 +2036,7 @@ gDR
 maaslin3
 scFeatures
 wavClusteR
+factR
+methylSig
+Moonlight2R
+xcms

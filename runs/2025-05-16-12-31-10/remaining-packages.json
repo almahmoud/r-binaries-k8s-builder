@@ -49,9 +49,7 @@
     "GenomicInteractions",
     "biovizBase"
   ],
-  "CAMERA": [
-    "xcms"
-  ],
+  "CAMERA": [],
   "CCAFE": [],
   "CNVfilteR": [
     "karyoploteR",
@@ -172,14 +170,12 @@
     "HilbertVis"
   ],
   "IPO": [
-    "xcms",
     "CAMERA"
   ],
   "IntEREst": [
     "GenomicFiles"
   ],
   "LOBSTAHS": [
-    "xcms",
     "CAMERA"
   ],
   "M3Drop": [],
@@ -190,8 +186,7 @@
     "minfi"
   ],
   "MAIT": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "MEAL": [
     "minfi",
@@ -214,7 +209,6 @@
     "methylumi",
     "minfi"
   ],
-  "Moonlight2R": [],
   "MungeSumstats": [],
   "MutationalPatterns": [],
   "NADfinder": [
@@ -419,9 +413,7 @@
     "gwascat"
   ],
   "cisPath": [],
-  "cliqueMS": [
-    "xcms"
-  ],
+  "cliqueMS": [],
   "cn.farms": [],
   "coMethDMR": [],
   "comapr": [
@@ -438,9 +430,7 @@
   "conumee": [
     "minfi"
   ],
-  "cosmiq": [
-    "xcms"
-  ],
+  "cosmiq": [],
   "crisprDesign": [],
   "crisprShiny": [
     "crisprDesign",
@@ -503,7 +493,6 @@
   "erma": [
     "GenomicFiles"
   ],
-  "factR": [],
   "fcScan": [],
   "ffpe": [
     "lumi",
@@ -511,7 +500,6 @@
     "minfi"
   ],
   "flagme": [
-    "xcms",
     "CAMERA"
   ],
   "funtooNorm": [
@@ -569,8 +557,7 @@
     "biovizBase"
   ],
   "metaMS": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "methylCC": [
     "minfi"
@@ -584,7 +571,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "methylSig": [],
   "methylclock": [
     "minfi",
     "ExperimentHubData",
@@ -618,9 +604,7 @@
     "decompTumor2Sig"
   ],
   "myvariant": [],
-  "ncGTW": [
-    "xcms"
-  ],
+  "ncGTW": [],
   "octad": [],
   "pcaExplorer": [],
   "preciseTAD": [],
@@ -701,9 +685,7 @@
     "biovizBase"
   ],
   "spillR": [],
-  "squallms": [
-    "xcms"
-  ],
+  "squallms": [],
   "srnadiff": [
     "Gviz",
     "biovizBase"
@@ -742,7 +724,6 @@
     "lumi",
     "minfi"
   ],
-  "xcms": [],
   "yarn": [
     "quantro",
     "minfi"

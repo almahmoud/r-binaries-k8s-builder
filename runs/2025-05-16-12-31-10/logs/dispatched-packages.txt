@@ -2147,3 +2147,8 @@ ribosomeProfilingQC
 scone
 standR
 benchdamic
+CAMERA
+cliqueMS
+cosmiq
+ncGTW
+squallms
