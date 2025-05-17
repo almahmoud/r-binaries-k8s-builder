@@ -1710,3 +1710,11 @@ oppar
 pRolocGUI
 TBSignatureProfiler
 xenLite
+bandle
+bsseq
+iCNV
+normr
+regioneR
+TFBSTools
+VarCon
+XNAString

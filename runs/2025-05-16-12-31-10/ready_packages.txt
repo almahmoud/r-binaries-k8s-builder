@@ -1,3 +1,10 @@
-AneuFinder
-epigraHMM
-normr
+DSS
+MIRA
+MatrixRider
+MethReg
+NanoMethViz
+chromVAR
+monaLisa
+motifStack
+motifmatchr
+regioneReloaded
