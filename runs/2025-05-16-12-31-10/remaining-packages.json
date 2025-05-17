@@ -74,10 +74,7 @@
   "FLAMES": [
     "ggbio"
   ],
-  "GA4GHclient": [],
-  "GA4GHshiny": [
-    "GA4GHclient"
-  ],
+  "GA4GHshiny": [],
   "GARS": [
     "DaMiRseq"
   ],
@@ -152,7 +149,6 @@
   "R3CPET": [
     "ggbio"
   ],
-  "REDseq": [],
   "REMP": [],
   "RNAAgeCalc": [
     "recount",
@@ -246,7 +242,6 @@
   "cageminer": [
     "ggbio"
   ],
-  "canceR": [],
   "cbaf": [],
   "chimeraviz": [
     "Gviz"
@@ -254,9 +249,7 @@
   "cicero": [
     "Gviz"
   ],
-  "circRNAprofiler": [
-    "gwascat"
-  ],
+  "circRNAprofiler": [],
   "cisPath": [],
   "cn.farms": [],
   "coMethDMR": [],
@@ -321,7 +314,6 @@
   "gmapR": [],
   "gpuMagic": [],
   "graper": [],
-  "gwascat": [],
   "gwasurvivr": [],
   "hypeR": [],
   "iCheck": [
@@ -329,7 +321,6 @@
     "methylumi"
   ],
   "iNETgrate": [],
-  "ideal": [],
   "intansv": [
     "ggbio"
   ],
@@ -397,7 +388,6 @@
     "Gviz"
   ],
   "scTreeViz": [],
-  "scoreInvHap": [],
   "scruff": [
     "ggbio"
   ],
@@ -430,10 +420,7 @@
   "uncoverappLib": [
     "Gviz"
   ],
-  "vtpnet": [
-    "gwascat"
-  ],
-  "vulcan": [],
+  "vtpnet": [],
   "wateRmelon": [
     "methylumi",
     "lumi"

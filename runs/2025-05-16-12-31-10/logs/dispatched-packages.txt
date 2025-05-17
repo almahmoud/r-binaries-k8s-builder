@@ -2205,3 +2205,6 @@ karyoploteR
 epivizrStandalone
 scTreeViz
 singleCellTK
+GA4GHshiny
+circRNAprofiler
+vtpnet

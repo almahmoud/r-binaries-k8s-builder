@@ -2129,3 +2129,10 @@ Ularcirc
 MungeSumstats
 musicatk
 scMerge
+canceR
+GA4GHclient
+gwascat
+ideal
+REDseq
+scoreInvHap
+vulcan
