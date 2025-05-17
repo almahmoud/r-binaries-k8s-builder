@@ -189,9 +189,7 @@
     "methylumi",
     "VariantAnnotation"
   ],
-  "DaMiRseq": [
-    "EDASeq"
-  ],
+  "DaMiRseq": [],
   "Damsel": [
     "ggbio",
     "goseq",
@@ -217,7 +215,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "EDASeq": [],
   "ELMER": [
     "Gviz",
     "ensembldb",
@@ -260,7 +257,6 @@
     "OUTRIDER",
     "txdbmaker"
   ],
-  "FindIT2": [],
   "GA4GHclient": [
     "VariantAnnotation"
   ],
@@ -269,8 +265,7 @@
     "VariantAnnotation"
   ],
   "GARS": [
-    "DaMiRseq",
-    "EDASeq"
+    "DaMiRseq"
   ],
   "GNOSIS": [
     "cBioPortalData",
@@ -331,7 +326,6 @@
     "RCAS",
     "txdbmaker"
   ],
-  "Guitar": [],
   "Gviz": [
     "ensembldb",
     "biovizBase",
@@ -347,7 +341,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiLDA": [],
   "HilbertVis": [],
   "HilbertVisGUI": [
     "HilbertVis"
@@ -356,7 +349,6 @@
   "IMAS": [
     "IVAS"
   ],
-  "INSPEcT": [],
   "IPO": [
     "xcms",
     "CAMERA"
@@ -440,7 +432,6 @@
   "Moonlight2R": [
     "EpiMix"
   ],
-  "Motif2Site": [],
   "MsQuality": [],
   "MungeSumstats": [
     "VariantAnnotation"
@@ -582,9 +573,7 @@
   "RTCGAToolbox": [
     "TCGAutils"
   ],
-  "RUVSeq": [
-    "EDASeq"
-  ],
+  "RUVSeq": [],
   "RareVariantVis": [
     "VariantAnnotation"
   ],
@@ -820,7 +809,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "bnem": [],
   "borealis": [],
   "branchpointer": [],
   "bumphunter": [],
@@ -908,7 +896,6 @@
     "distinct"
   ],
   "consensusDE": [
-    "EDASeq",
     "ensembldb",
     "RUVSeq"
   ],
@@ -1017,7 +1004,6 @@
   "drugTargetInteractions": [
     "ensembldb"
   ],
-  "enrichViewNet": [],
   "ensembldb": [],
   "epimutacions": [
     "minfi",
@@ -1207,7 +1193,6 @@
     "xcms"
   ],
   "metaseqR2": [
-    "EDASeq",
     "txdbmaker"
   ],
   "methodical": [
@@ -1311,8 +1296,7 @@
   "nearBynding": [],
   "netSmooth": [],
   "octad": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "pcaExplorer": [
     "mosdef",
@@ -1388,7 +1372,6 @@
     "txdbmaker"
   ],
   "ribosomeProfilingQC": [
-    "EDASeq",
     "RUVSeq",
     "txdbmaker"
   ],
@@ -1431,8 +1414,7 @@
     "annotatr"
   ],
   "scone": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "scoreInvHap": [
     "VariantAnnotation"
@@ -1449,9 +1431,7 @@
   "segmenter": [
     "ChIPseeker"
   ],
-  "selectKSigs": [
-    "HiLDA"
-  ],
+  "selectKSigs": [],
   "seqArchRplus": [
     "ChIPseeker"
   ],
@@ -1461,8 +1441,7 @@
   "seqsetvis": [],
   "shinyDSP": [
     "standR",
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "shinyMethyl": [
     "minfi",
@@ -1496,7 +1475,6 @@
     "lumi"
   ],
   "soGGi": [],
-  "sosta": [],
   "spatzie": [
     "GenomicInteractions",
     "Gviz",
@@ -1518,8 +1496,7 @@
     "VariantAnnotation"
   ],
   "standR": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "strandCheckR": [],
   "svaNUMT": [
@@ -1574,7 +1551,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "velociraptor": [],
   "visiumStitched": [],
   "vmrseq": [
     "bumphunter"

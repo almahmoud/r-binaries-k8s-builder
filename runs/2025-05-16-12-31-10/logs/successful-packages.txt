@@ -1851,3 +1851,13 @@ SEraster
 simPIC
 SplineDV
 spoon
+bnem
+EDASeq
+enrichViewNet
+FindIT2
+Guitar
+HiLDA
+INSPEcT
+Motif2Site
+sosta
+velociraptor

@@ -2000,3 +2000,6 @@ scPipe
 scviR
 tricycle
 visiumStitched
+DaMiRseq
+RUVSeq
+selectKSigs
