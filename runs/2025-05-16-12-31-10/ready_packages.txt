@@ -1,7 +1,1 @@
-BASiCStan
-consensusDE
-octad
-profileplyr
-ribosomeProfilingQC
-scone
-standR
+benchdamic

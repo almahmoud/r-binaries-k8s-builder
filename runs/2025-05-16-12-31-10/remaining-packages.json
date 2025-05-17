@@ -74,7 +74,6 @@
     "lumi",
     "biovizBase"
   ],
-  "ChIPQC": [],
   "ChIPexoQual": [
     "biovizBase"
   ],
@@ -119,7 +118,6 @@
     "AnnotationHubData"
   ],
   "FLAMES": [
-    "bambu",
     "ggbio",
     "biovizBase"
   ],
@@ -375,10 +373,7 @@
     "methylumi",
     "minfi"
   ],
-  "bambu": [],
-  "benchdamic": [
-    "maaslin3"
-  ],
+  "benchdamic": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -446,7 +441,6 @@
   "cosmiq": [
     "xcms"
   ],
-  "cpvSNP": [],
   "crisprDesign": [],
   "crisprShiny": [
     "crisprDesign",
@@ -526,7 +520,6 @@
   "gDNAx": [
     "GenomicFiles"
   ],
-  "gDR": [],
   "gINTomics": [],
   "genoCN": [],
   "geomeTriD": [
@@ -571,7 +564,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "maaslin3": [],
   "maser": [
     "Gviz",
     "biovizBase"
@@ -669,7 +661,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "scFeatures": [],
   "scMerge": [
     "M3Drop"
   ],
@@ -751,7 +742,6 @@
     "lumi",
     "minfi"
   ],
-  "wavClusteR": [],
   "xcms": [],
   "yarn": [
     "quantro",

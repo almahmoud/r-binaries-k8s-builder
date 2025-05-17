@@ -2146,3 +2146,4 @@ profileplyr
 ribosomeProfilingQC
 scone
 standR
+benchdamic

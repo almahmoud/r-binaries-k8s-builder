@@ -2029,3 +2029,10 @@ signifinder
 soGGi
 strandCheckR
 waddR
+bambu
+ChIPQC
+cpvSNP
+gDR
+maaslin3
+scFeatures
+wavClusteR
