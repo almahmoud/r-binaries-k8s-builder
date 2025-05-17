@@ -119,7 +119,6 @@
   ],
   "GNOSIS": [],
   "GRaNIE": [],
-  "GSReg": [],
   "GUIDEseq": [],
   "GeDi": [
     "GeneTonic"
@@ -426,7 +425,6 @@
   "customProDB": [],
   "cytofQC": [],
   "decompTumor2Sig": [],
-  "decontX": [],
   "deconvR": [
     "minfi"
   ],
@@ -442,7 +440,6 @@
     "biovizBase"
   ],
   "dmrseq": [],
-  "doubletrouble": [],
   "epimutacions": [
     "minfi",
     "Gviz",
@@ -547,7 +544,6 @@
   "methylumi": [
     "minfi"
   ],
-  "miaSim": [],
   "minfi": [],
   "missMethyl": [
     "methylumi",

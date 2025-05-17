@@ -2046,3 +2046,7 @@ ChIPpeakAnno
 M3Drop
 Organism.dplyr
 RCAS
+decontX
+doubletrouble
+GSReg
+miaSim
