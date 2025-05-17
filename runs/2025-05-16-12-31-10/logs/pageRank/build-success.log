@@ -1,0 +1,295 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''pageRank'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'pageRank'
+also installing the dependencies ‘BSgenome’, ‘DirichletMultinomial’, ‘seqLogo’, ‘TFMPvalue’, ‘motifmatchr’, ‘bcellViper’, ‘BSgenome.Hsapiens.UCSC.hg19’, ‘JASPAR2018’, ‘TxDb.Hsapiens.UCSC.hg19.knownGene’, ‘org.Hs.eg.db’, ‘TFBSTools’, ‘annotate’
+
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BSgenome_1.76.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/DirichletMultinomial_1.50.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/seqLogo_1.74.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/TFMPvalue_0.0.9.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/motifmatchr_1.30.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/experiment/src/contrib/bcellViper_1.44.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg19_1.4.3.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/JASPAR2018_1.1.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/TxDb.Hsapiens.UCSC.hg19.knownGene_3.2.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/org.Hs.eg.db_3.21.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/TFBSTools_1.46.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/annotate_1.86.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/pageRank_1.18.0.tar.gz'
+* installing *source* package ‘BSgenome’ ...
+** this is package ‘BSgenome’ version ‘1.76.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome’ as ‘BSgenome_1.76.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome)
+* installing *source* package ‘DirichletMultinomial’ ...
+** this is package ‘DirichletMultinomial’ version ‘1.50.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG      `gsl-config --cflags` -DR_DIRICHLETMULTINOMIAL -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c R_init_DirichletMultinomial.c -o R_init_DirichletMultinomial.o
+gcc -I"/usr/share/R/include" -DNDEBUG      `gsl-config --cflags` -DR_DIRICHLETMULTINOMIAL -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dirichlet_fit.c -o dirichlet_fit.o
+gcc -I"/usr/share/R/include" -DNDEBUG      `gsl-config --cflags` -DR_DIRICHLETMULTINOMIAL -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dirichlet_fit_main.c -o dirichlet_fit_main.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o DirichletMultinomial.so R_init_DirichletMultinomial.o dirichlet_fit.o dirichlet_fit_main.o -L/usr/lib/x86_64-linux-gnu -lgsl -lgslcblas -lm -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-DirichletMultinomial/00new/DirichletMultinomial/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DirichletMultinomial’ as ‘DirichletMultinomial_1.50.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DirichletMultinomial)
+* installing *source* package ‘seqLogo’ ...
+** this is package ‘seqLogo’ version ‘1.74.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘seqLogo’ as ‘seqLogo_1.74.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (seqLogo)
+* installing *source* package ‘TFMPvalue’ ...
+** this is package ‘TFMPvalue’ version ‘0.0.9’
+** package ‘TFMPvalue’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c ArgumentException.cpp -o ArgumentException.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c FileException.cpp -o FileException.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c Matrix.cpp -o Matrix.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c ParseException.cpp -o ParseException.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c TFMMain.cpp -o TFMMain.o
+gcc -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c TFMPvalue_init.c -o TFMPvalue_init.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c TFMpvalue.cpp -o TFMpvalue.o
+g++ -std=gnu++11 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o TFMPvalue.so ArgumentException.o FileException.o Matrix.o ParseException.o TFMMain.o TFMPvalue_init.o TFMpvalue.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-TFMPvalue/00new/TFMPvalue/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TFMPvalue’ as ‘TFMPvalue_0.0.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TFMPvalue)
+* installing *source* package ‘bcellViper’ ...
+** this is package ‘bcellViper’ version ‘1.44.0’
+** using staged installation
+** data
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bcellViper’ as ‘bcellViper_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bcellViper)
+* installing *source* package ‘JASPAR2018’ ...
+** this is package ‘JASPAR2018’ version ‘1.1.1’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘JASPAR2018’ as ‘JASPAR2018_1.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (JASPAR2018)
+* installing *source* package ‘TxDb.Hsapiens.UCSC.hg19.knownGene’ ...
+** this is package ‘TxDb.Hsapiens.UCSC.hg19.knownGene’ version ‘3.2.2’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Hsapiens.UCSC.hg19.knownGene’ as ‘TxDb.Hsapiens.UCSC.hg19.knownGene_3.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Hsapiens.UCSC.hg19.knownGene)
+* installing *source* package ‘org.Hs.eg.db’ ...
+** this is package ‘org.Hs.eg.db’ version ‘3.21.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Hs.eg.db’ as ‘org.Hs.eg.db_3.21.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Hs.eg.db)
+* installing *source* package ‘annotate’ ...
+** this is package ‘annotate’ version ‘1.86.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘annotate’ as ‘annotate_1.86.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (annotate)
+* installing *source* package ‘BSgenome.Hsapiens.UCSC.hg19’ ...
+** this is package ‘BSgenome.Hsapiens.UCSC.hg19’ version ‘1.4.3’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Hsapiens.UCSC.hg19’ as ‘BSgenome.Hsapiens.UCSC.hg19_1.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Hsapiens.UCSC.hg19)
+* installing *source* package ‘TFBSTools’ ...
+** this is package ‘TFBSTools’ version ‘1.46.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c matrixAlignerDynamic.c -o matrixAlignerDynamic.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c R_init_TFBSTools.c -o R_init_TFBSTools.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o TFBSTools.so matrixAlignerDynamic.o R_init_TFBSTools.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-TFBSTools/00new/TFBSTools/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘seqLogo’ in package ‘TFBSTools’
+Creating a new generic function for ‘pattern’ in package ‘TFBSTools’
+Creating a generic function for ‘colSums’ from package ‘base’ in package ‘TFBSTools’
+Creating a generic function for ‘rowSums’ from package ‘base’ in package ‘TFBSTools’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TFBSTools’ as ‘TFBSTools_1.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TFBSTools)
+* installing *source* package ‘motifmatchr’ ...
+** this is package ‘motifmatchr’ version ‘1.30.0’
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -I./MOODS/ -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -I./MOODS/ -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c r_interface.cpp -o r_interface.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -I./MOODS/ -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c MOODS/scanner.cpp -o MOODS/scanner.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -I./MOODS/ -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c MOODS/motif_h.cpp -o MOODS/motif_h.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -I./MOODS/ -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c MOODS/motif_0.cpp -o MOODS/motif_0.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -I./MOODS/ -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c MOODS/moods_tools.cpp -o MOODS/moods_tools.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -I./MOODS/ -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c MOODS/moods_scan.cpp -o MOODS/moods_scan.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -I./MOODS/ -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c MOODS/moods_parsers.cpp -o MOODS/moods_parsers.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -I./MOODS/ -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c MOODS/moods_misc.cpp -o MOODS/moods_misc.o
+g++ -std=gnu++11 -I"/usr/share/R/include" -DNDEBUG -I. -I./MOODS/ -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppArmadillo/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c MOODS/match_types.cpp -o MOODS/match_types.o
+g++ -std=gnu++11 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o motifmatchr.so ./RcppExports.o ./r_interface.o ./MOODS/scanner.o ./MOODS/motif_h.o ./MOODS/motif_0.o ./MOODS/moods_tools.o ./MOODS/moods_scan.o ./MOODS/moods_parsers.o ./MOODS/moods_misc.o ./MOODS/match_types.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-motifmatchr/00new/motifmatchr/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘motifmatchr’ as ‘motifmatchr_1.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (motifmatchr)
+* installing *source* package ‘pageRank’ ...
+** this is package ‘pageRank’ version ‘1.18.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pageRank’ as ‘pageRank_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pageRank)
+
+The downloaded source packages are in
+	‘/tmp/RtmpMQMnYN/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	9m47.663s
+user	9m5.030s
+sys	0m56.647s

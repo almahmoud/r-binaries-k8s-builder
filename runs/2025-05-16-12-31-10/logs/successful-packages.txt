@@ -1767,3 +1767,11 @@ flowSpecs
 riboSeqR
 tidyomics
 tidySpatialExperiment
+ATACseqTFEA
+ChIPComp
+miRLAB
+mogsa
+NanoMethViz
+pageRank
+speckle
+SVP

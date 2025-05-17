@@ -23,7 +23,6 @@
     "GenomicFeatures",
     "ensembldb"
   ],
-  "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
@@ -199,7 +198,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ChIPComp": [],
   "ChIPQC": [
     "DiffBind",
     "chipseq",
@@ -665,7 +663,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "NanoMethViz": [],
   "NoRCE": [
     "GenomicFeatures"
   ],
@@ -929,7 +926,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SVP": [],
   "SeqGSEA": [],
   "SigsPack": [
     "VariantAnnotation",
@@ -1779,7 +1775,6 @@
     "bumphunter"
   ],
   "miQC": [],
-  "miRLAB": [],
   "miRSM": [],
   "miRspongeR": [],
   "mia": [
@@ -1823,7 +1818,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "mogsa": [],
   "mosdef": [
     "goseq",
     "GenomicFeatures",
@@ -1898,7 +1892,6 @@
     "EDASeq",
     "GenomicFeatures"
   ],
-  "pageRank": [],
   "partCNV": [],
   "pathlinkR": [],
   "pcaExplorer": [
@@ -2199,7 +2192,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "speckle": [],
   "spiky": [],
   "spillR": [
     "CATALYST",
