@@ -1,4 +1,4 @@
-CircSeqAlignTk
-MetaboSignal
-RiboCrypt
-TFHAZ
+SMITE
+miaDash
+mosdef
+rgsepd

@@ -100,7 +100,6 @@
     "minfi",
     "DMRcate",
     "wateRmelon",
-    "goseq",
     "missMethyl",
     "bumphunter",
     "Gviz",
@@ -144,7 +143,6 @@
   "DaMiRseq": [],
   "Damsel": [
     "ggbio",
-    "goseq",
     "biovizBase",
     "VariantAnnotation",
     "OrganismDbi"
@@ -204,8 +202,7 @@
   ],
   "GeDi": [
     "GeneTonic",
-    "mosdef",
-    "goseq"
+    "mosdef"
   ],
   "GenVisR": [
     "VariantAnnotation"
@@ -216,8 +213,7 @@
     "VariantAnnotation"
   ],
   "GeneTonic": [
-    "mosdef",
-    "goseq"
+    "mosdef"
   ],
   "GenomicFiles": [
     "VariantAnnotation"
@@ -431,7 +427,6 @@
     "OrganismDbi"
   ],
   "RiboCrypt": [],
-  "RiboDiPA": [],
   "RiboProfiling": [
     "ggbio",
     "biovizBase",
@@ -455,9 +450,7 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "SMITE": [
-    "goseq"
-  ],
+  "SMITE": [],
   "SNPhood": [
     "VariantAnnotation"
   ],
@@ -498,7 +491,6 @@
   "TitanCNA": [
     "VariantAnnotation"
   ],
-  "UMI4Cats": [],
   "UPDhmm": [
     "VariantAnnotation"
   ],
@@ -626,7 +618,6 @@
     "VariantAnnotation"
   ],
   "cisPath": [],
-  "clipper": [],
   "cliqueMS": [
     "xcms"
   ],
@@ -798,7 +789,6 @@
   "gmapR": [
     "VariantAnnotation"
   ],
-  "goseq": [],
   "gpuMagic": [],
   "graper": [],
   "gwascat": [
@@ -819,13 +809,11 @@
     "OrganismDbi",
     "bumphunter"
   ],
-  "iSEEtree": [],
   "icetea": [
     "VariantAnnotation"
   ],
   "ideal": [
-    "mosdef",
-    "goseq"
+    "mosdef"
   ],
   "igvR": [
     "VariantAnnotation"
@@ -898,9 +886,7 @@
     "minfi",
     "bumphunter"
   ],
-  "miaDash": [
-    "iSEEtree"
-  ],
+  "miaDash": [],
   "miaSim": [],
   "minfi": [
     "bumphunter"
@@ -914,9 +900,7 @@
     "deepSNV",
     "VariantAnnotation"
   ],
-  "mosdef": [
-    "goseq"
-  ],
+  "mosdef": [],
   "motifbreakR": [
     "VariantAnnotation",
     "Gviz",
@@ -947,8 +931,7 @@
     "RUVSeq"
   ],
   "pcaExplorer": [
-    "mosdef",
-    "goseq"
+    "mosdef"
   ],
   "peco": [],
   "preciseTAD": [
@@ -999,9 +982,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "rgsepd": [
-    "goseq"
-  ],
+  "rgsepd": [],
   "ribosomeProfilingQC": [
     "RUVSeq"
   ],
@@ -1025,7 +1006,6 @@
     "OrganismDbi"
   ],
   "scanMiRApp": [],
-  "scmeth": [],
   "scone": [
     "RUVSeq"
   ],
