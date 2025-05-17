@@ -77,7 +77,6 @@
     "biovizBase"
   ],
   "DAMEfinder": [],
-  "DEScan2": [],
   "DMRcate": [
     "minfi",
     "missMethyl",
@@ -103,7 +102,6 @@
     "minfi"
   ],
   "EpiCompare": [],
-  "ExperimentHubData": [],
   "FLAMES": [
     "ggbio",
     "biovizBase"
@@ -324,7 +322,6 @@
     "biovizBase"
   ],
   "ZygosityPredictor": [],
-  "a4": [],
   "affycoretools": [
     "ReportingTools",
     "ggbio",
@@ -333,7 +330,6 @@
   "alabaster": [
     "alabaster.vcf"
   ],
-  "alabaster.sfe": [],
   "alabaster.vcf": [],
   "appreci8R": [],
   "arrayMvout": [
@@ -533,8 +529,7 @@
     "biovizBase"
   ],
   "methylclock": [
-    "minfi",
-    "ExperimentHubData"
+    "minfi"
   ],
   "methylumi": [
     "minfi"
@@ -563,7 +558,6 @@
     "decompTumor2Sig"
   ],
   "myvariant": [],
-  "ncGTW": [],
   "octad": [],
   "pcaExplorer": [],
   "preciseTAD": [],
