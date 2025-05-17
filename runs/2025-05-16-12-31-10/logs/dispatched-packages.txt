@@ -1717,3 +1717,11 @@ CytoPipeline
 flowGate
 flowVS
 scBFA
+iSEEde
+iSEEhex
+iSEEhub
+iSEEindex
+iSEEpathways
+scClassify
+scRNAseqApp
+tradeSeq

@@ -1546,3 +1546,14 @@ systemPipeR
 TENxIO
 VegaMC
 zinbwave
+Cepo
+cghMCR
+CoGAPS
+EnrichDO
+FEAST
+ggsc
+iSEE
+multistateQTL
+satuRn
+slingshot
+SurfR

@@ -259,7 +259,6 @@
     "scater",
     "scuttle"
   ],
-  "Cepo": [],
   "CexoR": [
     "genomation",
     "BSgenome"
@@ -343,7 +342,6 @@
     "MSnbase"
   ],
   "ClusterFoldSimilarity": [],
-  "CoGAPS": [],
   "Cogito": [
     "GenomicFeatures"
   ],
@@ -497,7 +495,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "EnrichDO": [],
   "EpiCompare": [
     "ChIPseeker",
     "genomation",
@@ -527,7 +524,6 @@
     "SpatialExperiment",
     "TreeSummarizedExperiment"
   ],
-  "FEAST": [],
   "FLAMES": [
     "bambu",
     "DropletUtils",
@@ -734,7 +730,6 @@
     "BSgenome"
   ],
   "IsoformSwitchAnalyzeR": [
-    "satuRn",
     "BSgenome",
     "tximeta",
     "GenomicFeatures",
@@ -1341,7 +1336,6 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "SurfR": [],
   "TAPseq": [
     "BSgenome",
     "GenomicFeatures"
@@ -1679,7 +1673,6 @@
   "cfDNAPro": [
     "BSgenome"
   ],
-  "cghMCR": [],
   "chevreulPlot": [
     "chevreulProcess",
     "scater",
@@ -1785,7 +1778,6 @@
     "SpatialExperiment"
   ],
   "condiments": [
-    "slingshot",
     "distinct",
     "scater",
     "scuttle"
@@ -2160,7 +2152,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "ggsc": [],
   "ggspavis": [
     "SpatialExperiment"
   ],
@@ -2224,29 +2215,16 @@
     "bumphunter",
     "txdbmaker"
   ],
-  "iSEE": [],
-  "iSEEde": [
-    "iSEE"
-  ],
+  "iSEEde": [],
   "iSEEfier": [
-    "iSEE",
     "iSEEu",
     "iSEEhex"
   ],
-  "iSEEhex": [
-    "iSEE"
-  ],
-  "iSEEhub": [
-    "iSEE"
-  ],
-  "iSEEindex": [
-    "iSEE"
-  ],
-  "iSEEpathways": [
-    "iSEE"
-  ],
+  "iSEEhex": [],
+  "iSEEhub": [],
+  "iSEEindex": [],
+  "iSEEpathways": [],
   "iSEEtree": [
-    "iSEE",
     "miaViz",
     "mia",
     "TreeSummarizedExperiment",
@@ -2254,7 +2232,6 @@
     "scuttle"
   ],
   "iSEEu": [
-    "iSEE",
     "iSEEhex"
   ],
   "icetea": [
@@ -2450,7 +2427,6 @@
     "scuttle"
   ],
   "miaDash": [
-    "iSEE",
     "iSEEtree",
     "mia",
     "scater",
@@ -2552,7 +2528,6 @@
     "VariantAnnotation",
     "ensembldb"
   ],
-  "multistateQTL": [],
   "mumosa": [
     "scuttle",
     "scran",
@@ -2808,15 +2783,12 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "satuRn": [],
   "scBFA": [],
   "scCB2": [
     "DropletUtils",
     "scuttle"
   ],
-  "scClassify": [
-    "Cepo"
-  ],
+  "scClassify": [],
   "scDD": [
     "scran",
     "scuttle"
@@ -2855,9 +2827,7 @@
     "scuttle"
   ],
   "scQTLtools": [],
-  "scRNAseqApp": [
-    "slingshot"
-  ],
+  "scRNAseqApp": [],
   "scRepertoire": [],
   "scTGIF": [],
   "scTensor": [],
@@ -3009,7 +2979,6 @@
     "lumi"
   ],
   "slalom": [],
-  "slingshot": [],
   "smoothclust": [
     "SpatialExperiment"
   ],
@@ -3157,9 +3126,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tradeSeq": [
-    "slingshot"
-  ],
+  "tradeSeq": [],
   "transcriptR": [
     "chipseq",
     "GenomicFeatures"
