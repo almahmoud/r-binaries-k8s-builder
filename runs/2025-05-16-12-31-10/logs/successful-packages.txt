@@ -1470,3 +1470,16 @@ roar
 TEKRABber
 tenXplore
 treekoR
+bedbaser
+flowWorkspace
+GeneMeta
+hicVennDiagram
+LACE
+mist
+plyranges
+recount3
+rifi
+sevenC
+sRACIPE
+syntenet
+tidyCoverage
