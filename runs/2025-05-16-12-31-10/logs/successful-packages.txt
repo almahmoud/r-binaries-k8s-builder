@@ -2136,3 +2136,4 @@ ideal
 REDseq
 scoreInvHap
 vulcan
+GUIDEseq
