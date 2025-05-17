@@ -43,7 +43,6 @@
     "GenomicInteractions",
     "biovizBase"
   ],
-  "CAMERA": [],
   "CCAFE": [],
   "CNVfilteR": [
     "karyoploteR",
@@ -106,7 +105,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "FRASER": [],
   "GA4GHclient": [],
   "GA4GHshiny": [
     "GA4GHclient"
@@ -149,24 +147,18 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "IPO": [
-    "CAMERA"
-  ],
+  "IPO": [],
   "IntEREst": [
     "GenomicFiles"
   ],
-  "LOBSTAHS": [
-    "CAMERA"
-  ],
+  "LOBSTAHS": [],
   "MADSEQ": [],
   "MAGAR": [
     "RnBeads",
     "methylumi",
     "minfi"
   ],
-  "MAIT": [
-    "CAMERA"
-  ],
+  "MAIT": [],
   "MEAL": [
     "minfi",
     "Gviz",
@@ -373,7 +365,6 @@
     "gwascat"
   ],
   "cisPath": [],
-  "cliqueMS": [],
   "cn.farms": [],
   "coMethDMR": [],
   "comapr": [
@@ -389,7 +380,6 @@
   "conumee": [
     "minfi"
   ],
-  "cosmiq": [],
   "crisprDesign": [],
   "crisprShiny": [
     "crisprDesign",
@@ -456,9 +446,7 @@
     "methylumi",
     "minfi"
   ],
-  "flagme": [
-    "CAMERA"
-  ],
+  "flagme": [],
   "funtooNorm": [
     "minfi"
   ],
@@ -513,9 +501,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "metaMS": [
-    "CAMERA"
-  ],
+  "metaMS": [],
   "methylCC": [
     "minfi"
   ],
@@ -635,7 +621,6 @@
     "biovizBase"
   ],
   "spillR": [],
-  "squallms": [],
   "srnadiff": [
     "Gviz",
     "biovizBase"

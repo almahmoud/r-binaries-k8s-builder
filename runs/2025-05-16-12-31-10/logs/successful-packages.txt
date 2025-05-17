@@ -2058,3 +2058,8 @@ alabaster.sfe
 DEScan2
 ExperimentHubData
 ncGTW
+CAMERA
+cliqueMS
+cosmiq
+FRASER
+squallms
