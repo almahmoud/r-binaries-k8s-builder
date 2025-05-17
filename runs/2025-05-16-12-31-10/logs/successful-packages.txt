@@ -1817,3 +1817,12 @@ MMDiff2
 MoleculeExperiment
 pathlinkR
 spiky
+breakpointR
+KnowSeq
+MBECS
+sampleClassifier
+scuttle
+SeqGSEA
+spacexr
+switchde
+xcore
