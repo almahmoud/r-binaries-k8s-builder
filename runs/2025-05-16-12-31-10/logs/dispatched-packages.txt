@@ -1875,3 +1875,5 @@ tidySpatialExperiment
 tidyomics
 clusterExperiment
 iSEEfier
+CRISPRball
+SPIAT

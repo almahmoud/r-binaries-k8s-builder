@@ -1759,3 +1759,11 @@ iSEEu
 MethReg
 scRepertoire
 SpotSweeper
+BreastSubtypeR
+dagLogo
+dittoSeq
+fishpond
+flowSpecs
+riboSeqR
+tidyomics
+tidySpatialExperiment
