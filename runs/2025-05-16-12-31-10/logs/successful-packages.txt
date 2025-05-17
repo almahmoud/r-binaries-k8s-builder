@@ -1932,3 +1932,7 @@ microSTASIS
 seqArchRplus
 seqsetvis
 TCGAutils
+dada2
+MGnifyR
+SARC
+transformGamPoi
