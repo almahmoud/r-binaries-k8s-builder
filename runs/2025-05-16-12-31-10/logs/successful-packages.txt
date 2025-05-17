@@ -1633,3 +1633,5 @@ CytoPipelineGUI
 escheR
 gcapc
 ggspavis
+cytomapper
+CytoMDS

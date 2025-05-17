@@ -288,7 +288,6 @@
   ],
   "CoverageView": [],
   "CuratedAtlasQueryR": [],
-  "CytoMDS": [],
   "DAMEfinder": [
     "VariantAnnotation",
     "bumphunter",
@@ -1542,10 +1541,7 @@
     "scater",
     "scuttle"
   ],
-  "cytomapper": [],
-  "cytoviewer": [
-    "cytomapper"
-  ],
+  "cytoviewer": [],
   "dada2": [],
   "dagLogo": [
     "motifStack",
@@ -1844,8 +1840,7 @@
     "GenomicFeatures"
   ],
   "imcRtools": [
-    "scuttle",
-    "cytomapper"
+    "scuttle"
   ],
   "immApex": [],
   "intansv": [
@@ -1890,8 +1885,7 @@
   ],
   "lisaClust": [
     "spicyR",
-    "simpleSeg",
-    "cytomapper"
+    "simpleSeg"
   ],
   "lpNet": [],
   "lumi": [
@@ -2436,9 +2430,7 @@
   "simPIC": [
     "scuttle"
   ],
-  "simpleSeg": [
-    "cytomapper"
-  ],
+  "simpleSeg": [],
   "singleCellTK": [
     "batchelor",
     "ensembldb",
@@ -2489,8 +2481,7 @@
   ],
   "speckle": [],
   "spicyR": [
-    "simpleSeg",
-    "cytomapper"
+    "simpleSeg"
   ],
   "spiky": [],
   "spillR": [
