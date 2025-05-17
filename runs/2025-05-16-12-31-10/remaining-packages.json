@@ -38,7 +38,6 @@
   ],
   "AgiMicroRna": [
     "affycoretools",
-    "GOstats",
     "ReportingTools",
     "ggbio",
     "biovizBase",
@@ -353,7 +352,6 @@
   ],
   "ClusterFoldSimilarity": [],
   "CoGAPS": [],
-  "CoSIA": [],
   "Cogito": [
     "GenomicFeatures"
   ],
@@ -603,7 +601,6 @@
     "EDASeq",
     "GenomicFeatures"
   ],
-  "GBScleanR": [],
   "GNOSIS": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -613,8 +610,6 @@
   "GOTHiC": [
     "BSgenome"
   ],
-  "GOexpress": [],
-  "GOstats": [],
   "GRaNIE": [
     "ensembldb",
     "GenomicFeatures"
@@ -699,9 +694,7 @@
     "BSgenome"
   ],
   "GloScope": [],
-  "GmicR": [
-    "GOstats"
-  ],
+  "GmicR": [],
   "GreyListChIP": [
     "BSgenome"
   ],
@@ -914,7 +907,6 @@
     "BSgenome"
   ],
   "MineICA": [
-    "GOstats",
     "lumi",
     "methylumi",
     "GenomicFeatures",
@@ -932,7 +924,6 @@
     "EpiMix",
     "GenomicFeatures"
   ],
-  "MoonlightR": [],
   "Motif2Site": [
     "BSgenome"
   ],
@@ -974,8 +965,6 @@
     "bsseq",
     "BSgenome"
   ],
-  "Nebulosa": [],
-  "NetSAM": [],
   "NewWave": [],
   "NoRCE": [
     "GenomicFeatures"
@@ -1020,7 +1009,6 @@
   "PAA": [],
   "PAST": [],
   "PDATK": [],
-  "PECA": [],
   "PICS": [],
   "PING": [
     "PICS",
@@ -1045,9 +1033,7 @@
     "flowWorkspace"
   ],
   "PhenStat": [],
-  "Pigengene": [
-    "ReactomePA"
-  ],
+  "Pigengene": [],
   "PrInCE": [
     "MSnbase"
   ],
@@ -1134,9 +1120,7 @@
     "ensembldb",
     "zellkonverter"
   ],
-  "RJMCMCNucleosomes": [
-    "consensusSeekeR"
-  ],
+  "RJMCMCNucleosomes": [],
   "RMassBank": [
     "MSnbase"
   ],
@@ -1207,7 +1191,6 @@
   ],
   "RbowtieCuda": [],
   "RcisTarget": [],
-  "ReactomePA": [],
   "RedisParam": [],
   "RegionalST": [
     "scater",
@@ -1220,7 +1203,6 @@
     "BSgenome"
   ],
   "ReportingTools": [
-    "GOstats",
     "ggbio",
     "biovizBase",
     "BSgenome",
@@ -1304,9 +1286,7 @@
   "SEraster": [
     "SpatialExperiment"
   ],
-  "SGCP": [
-    "GOstats"
-  ],
+  "SGCP": [],
   "SGSeq": [
     "GenomicFeatures"
   ],
@@ -1418,8 +1398,7 @@
     "escheR"
   ],
   "Statial": [
-    "SpatialExperiment",
-    "treekoR"
+    "SpatialExperiment"
   ],
   "StructuralVariantAnnotation": [
     "VariantAnnotation",
@@ -1440,7 +1419,6 @@
   "TCGAutils": [
     "GenomicFeatures"
   ],
-  "TEKRABber": [],
   "TENET": [
     "BSgenome"
   ],
@@ -1521,9 +1499,7 @@
     "GenomicFeatures"
   ],
   "VDJdive": [],
-  "VaSP": [
-    "ballgown"
-  ],
+  "VaSP": [],
   "VanillaICE": [
     "BSgenome"
   ],
@@ -1594,7 +1570,6 @@
     "annaffy"
   ],
   "affycoretools": [
-    "GOstats",
     "ReportingTools",
     "ggbio",
     "biovizBase",
@@ -1662,10 +1637,7 @@
   "atena": [
     "GenomicFeatures"
   ],
-  "attract": [
-    "GOstats"
-  ],
-  "ballgown": [],
+  "attract": [],
   "bambu": [
     "BSgenome",
     "GenomicFeatures"
@@ -1699,7 +1671,6 @@
   ],
   "bioCancer": [
     "cBioPortalData",
-    "ReactomePA",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures"
@@ -1765,7 +1736,6 @@
   ],
   "canceR": [
     "cBioPortalData",
-    "phenoTest",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures"
@@ -1778,9 +1748,7 @@
   "casper": [
     "GenomicFeatures"
   ],
-  "categoryCompare": [
-    "GOstats"
-  ],
+  "categoryCompare": [],
   "cbaf": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -1797,12 +1765,10 @@
     "scuttle"
   ],
   "cellbaseR": [],
-  "censcyt": [],
   "cfDNAPro": [
     "plyranges",
     "BSgenome"
   ],
-  "cfdnakit": [],
   "cghMCR": [],
   "chevreulPlot": [
     "chevreulProcess",
@@ -1932,7 +1898,6 @@
     "GSVA",
     "SpatialExperiment"
   ],
-  "consensusSeekeR": [],
   "conumee": [
     "minfi",
     "bumphunter",
@@ -2059,7 +2024,6 @@
     "scuttle"
   ],
   "deconvR": [
-    "methylKit",
     "minfi",
     "bumphunter",
     "GenomicFeatures"
@@ -2128,7 +2092,6 @@
     "GenomicFeatures"
   ],
   "easyRNASeq": [],
-  "easylift": [],
   "edge": [],
   "enhancerHomologSearch": [
     "BSgenome",
@@ -2139,7 +2102,6 @@
   "ensembldb": [
     "GenomicFeatures"
   ],
-  "epidecodeR": [],
   "epigraHMM": [
     "bamsignals",
     "GreyListChIP",
@@ -2280,8 +2242,7 @@
   ],
   "gDRimport": [],
   "gINTomics": [
-    "GenomicFeatures",
-    "ReactomePA"
+    "GenomicFeatures"
   ],
   "gcapc": [
     "BSgenome"
@@ -2341,7 +2302,6 @@
   ],
   "gpuMagic": [],
   "graper": [],
-  "groHMM": [],
   "gwascat": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -2381,7 +2341,6 @@
     "OrganismDbi",
     "GenomicFeatures",
     "bumphunter",
-    "ReactomePA",
     "txdbmaker"
   ],
   "iSEE": [],
@@ -2425,7 +2384,6 @@
   "ideal": [
     "mosdef",
     "goseq",
-    "GOstats",
     "GenomicFeatures",
     "txdbmaker"
   ],
@@ -2546,7 +2504,6 @@
     "MSnbase",
     "MsExperiment"
   ],
-  "metagene2": [],
   "metaseqR2": [
     "DSS",
     "EDASeq",
@@ -2555,9 +2512,7 @@
     "bsseq",
     "BSgenome"
   ],
-  "methInheritSim": [
-    "methylKit"
-  ],
+  "methInheritSim": [],
   "methodical": [
     "annotatr",
     "BSgenome",
@@ -2582,10 +2537,7 @@
     "GenomicFeatures",
     "bumphunter"
   ],
-  "methylInheritance": [
-    "methylKit"
-  ],
-  "methylKit": [],
+  "methylInheritance": [],
   "methylPipe": [
     "Gviz",
     "GenomicFeatures",
@@ -2614,15 +2566,9 @@
     "bumphunter"
   ],
   "miQC": [],
-  "miRLAB": [
-    "GOstats"
-  ],
-  "miRSM": [
-    "ReactomePA"
-  ],
-  "miRspongeR": [
-    "ReactomePA"
-  ],
+  "miRLAB": [],
+  "miRSM": [],
+  "miRspongeR": [],
   "mia": [
     "TreeSummarizedExperiment",
     "scater",
@@ -2670,7 +2616,6 @@
     "GenomicFeatures"
   ],
   "moanin": [],
-  "mobileRNA": [],
   "mogsa": [],
   "monaLisa": [
     "BSgenome",
@@ -2825,7 +2770,6 @@
   "pathlinkR": [],
   "pcaExplorer": [
     "mosdef",
-    "GOstats",
     "goseq",
     "GenomicFeatures",
     "txdbmaker"
@@ -2841,7 +2785,6 @@
   "periodicDNA": [
     "BSgenome"
   ],
-  "phenoTest": [],
   "pipeComp": [
     "scran",
     "scater",
@@ -2863,7 +2806,6 @@
   "poem": [
     "SpatialExperiment"
   ],
-  "pram": [],
   "preciseTAD": [
     "rCGH",
     "GenomicFeatures"
@@ -3000,14 +2942,10 @@
     "TFBSTools"
   ],
   "rifi": [],
-  "rifiComparative": [],
-  "rigvf": [],
-  "rmspc": [],
   "rnaEditr": [
     "bumphunter",
     "GenomicFeatures"
   ],
-  "roar": [],
   "sRACIPE": [],
   "sampleClassifier": [
     "MGFR"
@@ -3083,10 +3021,7 @@
   "scReClassify": [],
   "scRepertoire": [],
   "scTGIF": [],
-  "scTensor": [
-    "GOstats",
-    "ReactomePA"
-  ],
+  "scTensor": [],
   "scTreeViz": [
     "epivizr",
     "scran",
@@ -3368,7 +3303,6 @@
     "BSgenome",
     "biovizBase"
   ],
-  "tenXplore": [],
   "terraTCGAdata": [
     "TCGAutils",
     "GenomicFeatures"
@@ -3421,7 +3355,6 @@
   "treeclimbR": [
     "TreeSummarizedExperiment"
   ],
-  "treekoR": [],
   "tricycle": [
     "scater",
     "scuttle"

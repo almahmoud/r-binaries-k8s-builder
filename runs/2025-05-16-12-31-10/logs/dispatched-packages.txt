@@ -1679,3 +1679,16 @@ wiggleplotr
 PDATK
 TOP
 scTGIF
+GmicR
+Pigengene
+RJMCMCNucleosomes
+SGCP
+VaSP
+attract
+categoryCompare
+methInheritSim
+methylInheritance
+miRLAB
+miRSM
+miRspongeR
+scTensor
