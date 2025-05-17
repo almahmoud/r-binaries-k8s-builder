@@ -101,7 +101,6 @@
   ],
   "missMethyl": [],
   "motifbreakR": [],
-  "primirTSS": [],
   "psichomics": [],
   "rGADEM": [],
   "ramr": [],
@@ -113,12 +112,10 @@
     "lumi"
   ],
   "spatzie": [],
-  "tadar": [],
   "trackViewer": [],
   "trigger": [],
   "uncoverappLib": [],
   "wateRmelon": [
     "lumi"
-  ],
-  "yarn": []
+  ]
 }
