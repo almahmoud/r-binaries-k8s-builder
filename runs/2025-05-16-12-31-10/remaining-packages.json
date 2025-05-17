@@ -209,9 +209,7 @@
     "scater",
     "scuttle"
   ],
-  "CexoR": [
-    "genomation"
-  ],
+  "CexoR": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -405,7 +403,6 @@
   ],
   "EpiCompare": [
     "ChIPseeker",
-    "genomation",
     "GenomicFeatures"
   ],
   "EpiMix": [
@@ -539,7 +536,6 @@
   "GenomicPlot": [
     "RCAS",
     "GenomicFeatures",
-    "genomation",
     "txdbmaker"
   ],
   "GreyListChIP": [],
@@ -594,7 +590,6 @@
     "GenomicFeatures"
   ],
   "InPAS": [
-    "cleanUpdTSeq",
     "GenomicFeatures"
   ],
   "IntEREst": [
@@ -659,7 +654,6 @@
     "scater",
     "scuttle"
   ],
-  "MEDIPS": [],
   "MGFR": [],
   "MGnifyR": [
     "TreeSummarizedExperiment",
@@ -854,8 +848,7 @@
   ],
   "RCAS": [
     "GenomicFeatures",
-    "txdbmaker",
-    "genomation"
+    "txdbmaker"
   ],
   "REDseq": [
     "ChIPpeakAnno",
@@ -1434,7 +1427,6 @@
     "VariantAnnotation"
   ],
   "cisPath": [],
-  "cleanUpdTSeq": [],
   "clipper": [
     "qpgraph",
     "GenomicFeatures"
@@ -1498,10 +1490,7 @@
   "cpvSNP": [
     "GenomicFeatures"
   ],
-  "crisprBowtie": [],
-  "crisprBwa": [],
   "crisprDesign": [
-    "crisprBowtie",
     "GenomicFeatures",
     "txdbmaker",
     "VariantAnnotation"
@@ -1509,7 +1498,6 @@
   "crisprShiny": [
     "crisprDesign",
     "crisprViz",
-    "crisprBowtie",
     "GenomicFeatures",
     "txdbmaker",
     "VariantAnnotation",
@@ -1518,7 +1506,6 @@
     "biovizBase"
   ],
   "crisprVerse": [
-    "crisprBowtie",
     "crisprDesign",
     "crisprViz",
     "GenomicFeatures",
@@ -1533,7 +1520,6 @@
     "GenomicFeatures",
     "Gviz",
     "txdbmaker",
-    "crisprBowtie",
     "VariantAnnotation",
     "ensembldb",
     "biovizBase"
@@ -1622,7 +1608,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "diffHic": [],
   "diffUTR": [
     "ensembldb",
     "GenomicFeatures"
@@ -1731,9 +1716,7 @@
     "GSVA"
   ],
   "escheR": [],
-  "fCCAC": [
-    "genomation"
-  ],
+  "fCCAC": [],
   "factR": [
     "GenomicFeatures"
   ],
@@ -1777,7 +1760,6 @@
     "GenomicFeatures"
   ],
   "genoCN": [],
-  "genomation": [],
   "geomeTriD": [
     "trackViewer",
     "GenomicFeatures",
@@ -1822,10 +1804,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "hiAnnotator": [],
-  "hiReadsProcessor": [
-    "hiAnnotator"
-  ],
+  "hiReadsProcessor": [],
   "hoodscanR": [],
   "hypeR": [],
   "iCNV": [

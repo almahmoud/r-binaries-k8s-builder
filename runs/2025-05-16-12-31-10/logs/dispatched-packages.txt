@@ -1825,3 +1825,6 @@ ptairMS
 qPLEXanalyzer
 synapter
 topdownr
+CexoR
+fCCAC
+hiReadsProcessor

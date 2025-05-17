@@ -1620,3 +1620,10 @@ rTRMui
 scDiagnostics
 scQTLtools
 scTGIF
+cleanUpdTSeq
+crisprBowtie
+crisprBwa
+diffHic
+genomation
+hiAnnotator
+MEDIPS
