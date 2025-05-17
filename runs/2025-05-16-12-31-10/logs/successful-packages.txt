@@ -1496,3 +1496,14 @@ projectR
 r3Cseq
 scAnnotatR
 wiggleplotr
+APL
+EWCE
+extraChIPs
+geneXtendeR
+ILoReg
+MetaNeighbor
+NewWave
+plyinteractions
+RCSL
+ViSEAGO
+XDE
