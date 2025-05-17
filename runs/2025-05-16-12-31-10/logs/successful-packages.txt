@@ -1595,3 +1595,12 @@ spatialHeatmap
 TOAST
 tradeSeq
 xCell2
+BSgenome
+CrispRVariants
+flowVS
+goSTAG
+pdInfoBuilder
+RJMCMCNucleosomes
+sangeranalyseR
+SingleCellAlleleExperiment
+SpatialExperiment
