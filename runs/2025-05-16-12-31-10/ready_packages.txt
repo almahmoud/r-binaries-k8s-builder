@@ -1,3 +1,13 @@
-MOSClip
-MSnID
-clipper
+BUSpaRse
+ChIPpeakAnno
+CleanUpRNAseq
+GRaNIE
+RITAN
+cBioPortalData
+chevreulProcess
+diffUTR
+drugTargetInteractions
+scFeatures
+scanMiRApp
+signifinder
+tximeta

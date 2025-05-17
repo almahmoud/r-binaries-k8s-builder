@@ -1961,3 +1961,13 @@ proBAMr
 qpgraph
 transcriptR
 treeclimbR
+DegNorm
+ELViS
+ensembldb
+glmSparseNet
+OutSplice
+raer
+recoup
+RTCGAToolbox
+sitadela
+txcutr
