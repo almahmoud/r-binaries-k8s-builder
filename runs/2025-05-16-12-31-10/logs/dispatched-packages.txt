@@ -2005,3 +2005,7 @@ RUVSeq
 selectKSigs
 condiments
 ChIPQC
+EpiCompare
+esATAC
+segmenter
+seqArchRplus

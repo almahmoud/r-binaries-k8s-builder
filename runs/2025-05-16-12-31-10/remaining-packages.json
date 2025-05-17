@@ -121,7 +121,6 @@
   "CNVrd2": [
     "VariantAnnotation"
   ],
-  "CRISPRseek": [],
   "CellMixS": [],
   "CelliD": [],
   "ChAMP": [
@@ -148,7 +147,6 @@
   "ChIPpeakAnno": [
     "ensembldb"
   ],
-  "ChIPseeker": [],
   "ChIPseqR": [
     "HilbertVis"
   ],
@@ -176,7 +174,6 @@
     "ChIPpeakAnno",
     "ensembldb"
   ],
-  "DESpace": [],
   "DMRcate": [
     "minfi",
     "missMethyl",
@@ -224,9 +221,7 @@
     "minfi",
     "bumphunter"
   ],
-  "EpiCompare": [
-    "ChIPseeker"
-  ],
+  "EpiCompare": [],
   "EpiMix": [],
   "EpiTxDb": [
     "txdbmaker"
@@ -276,7 +271,6 @@
     "txdbmaker"
   ],
   "GUIDEseq": [
-    "CRISPRseek",
     "ChIPpeakAnno",
     "ensembldb"
   ],
@@ -703,7 +697,6 @@
   "Uniquorn": [
     "VariantAnnotation"
   ],
-  "VAExprs": [],
   "VCFArray": [
     "VariantAnnotation",
     "GenomicFiles"
@@ -1038,9 +1031,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "esATAC": [
-    "ChIPseeker"
-  ],
+  "esATAC": [],
   "factR": [],
   "fcScan": [
     "VariantAnnotation"
@@ -1249,7 +1240,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "msImpute": [],
   "msgbsR": [
     "ggbio",
     "biovizBase",
@@ -1260,13 +1250,11 @@
   ],
   "msmsTests": [],
   "multicrispr": [
-    "CRISPRseek",
     "karyoploteR",
     "biovizBase",
     "VariantAnnotation",
     "ensembldb"
   ],
-  "mumosa": [],
   "muscat": [],
   "musicatk": [
     "VariantAnnotation",
@@ -1292,7 +1280,6 @@
     "txdbmaker"
   ],
   "peco": [],
-  "pipeComp": [],
   "preciseTAD": [
     "rCGH"
   ],
@@ -1310,7 +1297,6 @@
   ],
   "profileplyr": [
     "soGGi",
-    "ChIPseeker",
     "rGREAT"
   ],
   "psichomics": [
@@ -1416,12 +1402,8 @@
     "ensembldb"
   ],
   "scviR": [],
-  "segmenter": [
-    "ChIPseeker"
-  ],
-  "seqArchRplus": [
-    "ChIPseeker"
-  ],
+  "segmenter": [],
+  "seqArchRplus": [],
   "seqCAT": [
     "VariantAnnotation"
   ],
@@ -1537,7 +1519,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "visiumStitched": [],
   "vmrseq": [
     "bumphunter"
   ],

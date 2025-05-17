@@ -1871,3 +1871,11 @@ DiffBind
 lute
 selectKSigs
 splatter
+ChIPseeker
+CRISPRseek
+DESpace
+msImpute
+mumosa
+pipeComp
+VAExprs
+visiumStitched

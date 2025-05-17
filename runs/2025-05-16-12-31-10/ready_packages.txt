@@ -1,1 +1,4 @@
-ChIPQC
+EpiCompare
+esATAC
+segmenter
+seqArchRplus
