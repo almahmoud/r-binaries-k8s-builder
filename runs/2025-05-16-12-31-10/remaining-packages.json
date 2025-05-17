@@ -1,13 +1,10 @@
 {
   "ATACseqQC": [],
   "AneuFinder": [],
-  "ChAMP": [
-    "DMRcate"
-  ],
+  "ChAMP": [],
   "ChIPseqR": [
     "HilbertVis"
   ],
-  "DMRcate": [],
   "DaMiRseq": [],
   "EpiCompare": [],
   "GARS": [
@@ -17,8 +14,6 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "MAGAR": [],
-  "MEAL": [],
   "NADfinder": [
     "ATACseqQC"
   ],
@@ -37,7 +32,6 @@
   "gpuMagic": [],
   "graper": [],
   "hypeR": [],
-  "methylGSA": [],
   "rGADEM": [],
   "ramr": [],
   "signeR": [],
