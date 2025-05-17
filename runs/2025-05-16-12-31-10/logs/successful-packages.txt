@@ -1867,3 +1867,7 @@ cydar
 DegCre
 distinct
 GenomicInteractionNodes
+DiffBind
+lute
+selectKSigs
+splatter

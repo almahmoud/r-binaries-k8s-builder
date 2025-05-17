@@ -139,9 +139,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ChIPQC": [
-    "DiffBind"
-  ],
+  "ChIPQC": [],
   "ChIPexoQual": [
     "biovizBase",
     "VariantAnnotation",
@@ -203,7 +201,6 @@
   "DegNorm": [
     "txdbmaker"
   ],
-  "DiffBind": [],
   "Dino": [],
   "DominoEffect": [
     "VariantAnnotation"
@@ -1161,7 +1158,6 @@
     "minfi",
     "bumphunter"
   ],
-  "lute": [],
   "mCSEA": [
     "Gviz",
     "ensembldb",
@@ -1423,7 +1419,6 @@
   "segmenter": [
     "ChIPseeker"
   ],
-  "selectKSigs": [],
   "seqArchRplus": [
     "ChIPseeker"
   ],
@@ -1477,7 +1472,6 @@
   "spillR": [
     "CATALYST"
   ],
-  "splatter": [],
   "squallms": [
     "xcms"
   ],
@@ -1553,7 +1547,6 @@
   ],
   "vulcan": [
     "ChIPpeakAnno",
-    "DiffBind",
     "ensembldb"
   ],
   "waddR": [],
