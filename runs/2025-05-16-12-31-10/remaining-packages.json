@@ -120,7 +120,6 @@
     "VariantAnnotation"
   ],
   "CellMixS": [],
-  "CelliD": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -148,13 +147,11 @@
   "ChIPseqR": [
     "HilbertVis"
   ],
-  "ChromSCape": [],
   "CircSeqAlignTk": [
     "Rhisat2",
     "txdbmaker",
     "SGSeq"
   ],
-  "CiteFuse": [],
   "CleanUpRNAseq": [
     "ensembldb"
   ],
@@ -331,14 +328,11 @@
     "HilbertVis"
   ],
   "HoloFoodR": [],
-  "IMAS": [
-    "IVAS"
-  ],
+  "IMAS": [],
   "IPO": [
     "xcms",
     "CAMERA"
   ],
-  "IVAS": [],
   "InPAS": [],
   "IntEREst": [
     "GenomicFiles",
@@ -386,13 +380,10 @@
     "lumi"
   ],
   "MEB": [],
-  "MGnifyR": [
-    "mia"
-  ],
+  "MGnifyR": [],
   "MOSClip": [
     "qpgraph"
   ],
-  "MPAC": [],
   "MSnID": [
     "msmsTests"
   ],
@@ -575,7 +566,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "RgnTX": [],
   "Rhisat2": [
     "txdbmaker",
     "SGSeq"
@@ -649,7 +639,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "Spaniel": [],
   "SpatialExperimentIO": [],
   "SplicingGraphs": [],
   "StructuralVariantAnnotation": [
@@ -666,7 +655,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "TRESS": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -923,9 +911,7 @@
     "CATALYST"
   ],
   "dada2": [],
-  "dar": [
-    "mia"
-  ],
+  "dar": [],
   "decompTumor2Sig": [
     "VariantAnnotation"
   ],
@@ -1088,8 +1074,7 @@
     "txdbmaker"
   ],
   "iSEEtree": [
-    "miaViz",
-    "mia"
+    "miaViz"
   ],
   "icetea": [
     "VariantAnnotation"
@@ -1118,9 +1103,7 @@
   "katdetectr": [
     "VariantAnnotation"
   ],
-  "lefser": [
-    "mia"
-  ],
+  "lefser": [],
   "lemur": [],
   "lineagespot": [
     "VariantAnnotation"
@@ -1140,9 +1123,7 @@
     "txdbmaker"
   ],
   "maaslin3": [],
-  "magpie": [
-    "TRESS"
-  ],
+  "magpie": [],
   "maser": [
     "Gviz",
     "ensembldb",
@@ -1189,16 +1170,12 @@
     "bumphunter"
   ],
   "miQC": [],
-  "mia": [],
   "miaDash": [
     "iSEEtree",
-    "mia",
     "miaViz"
   ],
   "miaSim": [],
-  "miaViz": [
-    "mia"
-  ],
+  "miaViz": [],
   "microSTASIS": [],
   "minfi": [
     "bumphunter"

@@ -1899,3 +1899,12 @@ SingleCellSignalR
 SpaNorm
 SpatialFeatureExperiment
 tricycle
+CelliD
+ChromSCape
+CiteFuse
+IVAS
+mia
+MPAC
+RgnTX
+Spaniel
+TRESS

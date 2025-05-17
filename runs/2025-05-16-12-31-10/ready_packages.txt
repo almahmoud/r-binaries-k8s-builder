@@ -1,2 +1,6 @@
-Voyager
-alabaster.sfe
+IMAS
+MGnifyR
+dar
+lefser
+magpie
+miaViz
