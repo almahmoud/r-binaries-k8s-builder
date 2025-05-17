@@ -1,8 +1,7 @@
-COCOA
-DeMixT
-MinimumDistance
-XeniumIO
-borealis
-kissDE
-lisaClust
-methylSig
+ATACseqTFEA
+atSNP
+dagLogo
+enhancerHomologSearch
+pageRank
+tidySpatialExperiment
+tidyomics

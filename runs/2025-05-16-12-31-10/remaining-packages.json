@@ -20,13 +20,10 @@
   ],
   "ATACseqQC": [
     "ChIPpeakAnno",
-    "motifStack",
     "GenomicFeatures",
     "ensembldb"
   ],
-  "ATACseqTFEA": [
-    "motifmatchr"
-  ],
+  "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
@@ -78,7 +75,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "BUSseq": [],
   "BadRegionFinder": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -339,7 +335,6 @@
   "EDASeq": [
     "GenomicFeatures"
   ],
-  "EGSEA": [],
   "ELMER": [
     "GenomicFeatures",
     "Gviz",
@@ -512,7 +507,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiCParser": [],
   "HiLDA": [
     "GenomicFeatures"
   ],
@@ -671,7 +665,6 @@
     "trackViewer",
     "ATACseqQC",
     "ChIPpeakAnno",
-    "motifStack",
     "GenomicFeatures",
     "Gviz",
     "txdbmaker",
@@ -727,7 +720,6 @@
     "TreeSummarizedExperiment"
   ],
   "PhenStat": [],
-  "Prostar": [],
   "ProteoDisco": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -1064,7 +1056,6 @@
     "GenomicFeatures"
   ],
   "VDJdive": [],
-  "VaSP": [],
   "VariantAnnotation": [
     "GenomicFeatures"
   ],
@@ -1156,9 +1147,7 @@
     "minfi",
     "bumphunter"
   ],
-  "atSNP": [
-    "motifStack"
-  ],
+  "atSNP": [],
   "atena": [
     "GenomicFeatures"
   ],
@@ -1290,7 +1279,6 @@
     "VariantAnnotation"
   ],
   "chipseq": [],
-  "chromVAR": [],
   "cicero": [
     "Gviz",
     "GenomicFeatures",
@@ -1420,9 +1408,7 @@
     "scuttle"
   ],
   "dada2": [],
-  "dagLogo": [
-    "motifStack"
-  ],
+  "dagLogo": [],
   "dandelionR": [
     "miloR"
   ],
@@ -1499,14 +1485,11 @@
     "GenomicFeatures"
   ],
   "easyRNASeq": [],
-  "enhancerHomologSearch": [
-    "motifmatchr"
-  ],
+  "enhancerHomologSearch": [],
   "enrichViewNet": [],
   "ensembldb": [
     "GenomicFeatures"
   ],
-  "epigraHMM": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -1520,8 +1503,7 @@
   ],
   "epiregulon": [
     "scran",
-    "scuttle",
-    "motifmatchr"
+    "scuttle"
   ],
   "epiregulon.extra": [
     "scran",
@@ -1567,8 +1549,7 @@
   ],
   "esATAC": [
     "ChIPseeker",
-    "GenomicFeatures",
-    "motifmatchr"
+    "GenomicFeatures"
   ],
   "fCCAC": [],
   "factR": [
@@ -1868,22 +1849,18 @@
     "GenomicFeatures"
   ],
   "mogsa": [],
-  "monaLisa": [],
   "mosdef": [
     "goseq",
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "motifStack": [],
   "motifbreakR": [
     "VariantAnnotation",
-    "motifStack",
     "Gviz",
     "GenomicFeatures",
     "ensembldb",
     "biovizBase"
   ],
-  "motifmatchr": [],
   "msImpute": [
     "scran",
     "scuttle"
@@ -1943,17 +1920,13 @@
     "scuttle"
   ],
   "nnSVG": [],
-  "nucleR": [],
   "octad": [
     "RUVSeq",
     "EDASeq",
     "GenomicFeatures"
   ],
-  "pageRank": [
-    "motifmatchr"
-  ],
+  "pageRank": [],
   "partCNV": [],
-  "pathMED": [],
   "pathlinkR": [],
   "pcaExplorer": [
     "mosdef",
@@ -2047,7 +2020,6 @@
     "VariantAnnotation"
   ],
   "regionalpcs": [],
-  "regioneReloaded": [],
   "regutools": [
     "Gviz",
     "GenomicFeatures",
@@ -2064,7 +2036,6 @@
   "ribosomeProfilingQC": [
     "EDASeq",
     "GenomicFeatures",
-    "motifStack",
     "RUVSeq",
     "txdbmaker"
   ],
@@ -2249,11 +2220,9 @@
   ],
   "sosta": [],
   "spacexr": [],
-  "spatialSimGP": [],
   "spatzie": [
     "GenomicFeatures",
     "GenomicInteractions",
-    "motifmatchr",
     "Gviz",
     "ensembldb",
     "biovizBase",
@@ -2318,13 +2287,8 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "tidySingleCellExperiment": [],
-  "tidySpatialExperiment": [
-    "tidySingleCellExperiment"
-  ],
-  "tidyomics": [
-    "tidySingleCellExperiment"
-  ],
+  "tidySpatialExperiment": [],
+  "tidyomics": [],
   "trackViewer": [
     "GenomicFeatures",
     "Gviz",
