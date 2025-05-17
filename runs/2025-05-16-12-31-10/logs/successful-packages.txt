@@ -1627,3 +1627,9 @@ diffHic
 genomation
 hiAnnotator
 MEDIPS
+Banksy
+categoryCompare
+CytoPipelineGUI
+escheR
+gcapc
+ggspavis

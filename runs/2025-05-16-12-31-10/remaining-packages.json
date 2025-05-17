@@ -88,7 +88,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "Banksy": [],
   "Basic4Cseq": [],
   "BasicSTARRseq": [],
   "BatchQC": [
@@ -290,7 +289,6 @@
   "CoverageView": [],
   "CuratedAtlasQueryR": [],
   "CytoMDS": [],
-  "CytoPipelineGUI": [],
   "DAMEfinder": [
     "VariantAnnotation",
     "bumphunter",
@@ -1087,9 +1085,7 @@
     "scuttle"
   ],
   "SpotClean": [],
-  "SpotSweeper": [
-    "escheR"
-  ],
+  "SpotSweeper": [],
   "Statial": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation",
@@ -1361,7 +1357,6 @@
   "casper": [
     "GenomicFeatures"
   ],
-  "categoryCompare": [],
   "cbaf": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -1715,7 +1710,6 @@
   "escape": [
     "GSVA"
   ],
-  "escheR": [],
   "fCCAC": [],
   "factR": [
     "GenomicFeatures"
@@ -1755,7 +1749,6 @@
   "gINTomics": [
     "GenomicFeatures"
   ],
-  "gcapc": [],
   "geneAttribution": [
     "GenomicFeatures"
   ],
@@ -1777,7 +1770,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "ggspavis": [],
   "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils",

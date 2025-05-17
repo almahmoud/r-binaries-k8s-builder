@@ -1828,3 +1828,4 @@ topdownr
 CexoR
 fCCAC
 hiReadsProcessor
+SpotSweeper
