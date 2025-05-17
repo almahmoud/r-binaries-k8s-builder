@@ -1663,3 +1663,10 @@ spatialDE
 synapter
 topdownr
 tRNAscanImport
+Basic4Cseq
+ChIPanalyser
+CODEX
+DAPAR
+GOTHiC
+methrix
+spatialFDA

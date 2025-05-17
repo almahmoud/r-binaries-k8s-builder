@@ -88,7 +88,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "Basic4Cseq": [],
   "BasicSTARRseq": [],
   "BatchQC": [
     "scran",
@@ -188,7 +187,6 @@
     "MIRA",
     "bsseq"
   ],
-  "CODEX": [],
   "CRISPRball": [
     "dittoSeq"
   ],
@@ -233,7 +231,6 @@
     "GenomicFeatures",
     "GreyListChIP"
   ],
-  "ChIPanalyser": [],
   "ChIPexoQual": [
     "biovizBase",
     "GenomicFeatures",
@@ -291,7 +288,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "DAPAR": [],
   "DEScan2": [
     "ChIPpeakAnno",
     "GenomicFeatures",
@@ -461,7 +457,6 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "GOTHiC": [],
   "GRaNIE": [
     "ensembldb",
     "GenomicFeatures"
@@ -791,9 +786,7 @@
   ],
   "PROPS": [],
   "PhenStat": [],
-  "Prostar": [
-    "DAPAR"
-  ],
+  "Prostar": [],
   "ProteoDisco": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -1778,9 +1771,7 @@
   ],
   "hiReadsProcessor": [],
   "hypeR": [],
-  "iCNV": [
-    "CODEX"
-  ],
+  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi",
@@ -1922,7 +1913,6 @@
     "GenomicFeatures",
     "regioneR"
   ],
-  "methrix": [],
   "methylCC": [
     "minfi",
     "bsseq",
@@ -2430,7 +2420,6 @@
   ],
   "sosta": [],
   "spacexr": [],
-  "spatialFDA": [],
   "spatialSimGP": [],
   "spatzie": [
     "GenomicFeatures",
