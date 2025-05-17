@@ -1837,3 +1837,17 @@ miRSM
 TOP
 VDJdive
 XeniumIO
+batchelor
+Cogito
+CSSQ
+DNAfusion
+DropletUtils
+miloR
+scater
+scDataviz
+scGPS
+scran
+SEraster
+simPIC
+SplineDV
+spoon
