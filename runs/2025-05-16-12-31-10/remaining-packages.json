@@ -255,7 +255,6 @@
     "scater",
     "scuttle"
   ],
-  "CellTrails": [],
   "CelliD": [
     "scater",
     "scuttle"
@@ -454,7 +453,6 @@
     "scater"
   ],
   "DegCre": [
-    "plotgardener",
     "GenomicFeatures"
   ],
   "DegNorm": [
@@ -542,9 +540,7 @@
     "TreeSummarizedExperiment"
   ],
   "FEAST": [
-    "TSCAN",
-    "SC3",
-    "TrajectoryUtils"
+    "TSCAN"
   ],
   "FLAMES": [
     "bambu",
@@ -677,7 +673,6 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "GmicR": [],
   "GreyListChIP": [
     "BSgenome"
   ],
@@ -1149,7 +1144,6 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "RUCova": [],
   "RUVSeq": [
     "EDASeq",
     "GenomicFeatures"
@@ -1245,16 +1239,11 @@
   "SARC": [
     "GenomicFeatures"
   ],
-  "SC3": [],
   "SCANVIS": [],
-  "SCArray": [],
-  "SCArray.sat": [
-    "SCArray"
-  ],
+  "SCArray.sat": [],
   "SCOPE": [
     "BSgenome"
   ],
-  "SCnorm": [],
   "SEraster": [
     "SpatialExperiment"
   ],
@@ -1298,7 +1287,6 @@
     "SpatialExperiment"
   ],
   "SeqGSEA": [],
-  "SiPSiC": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
@@ -1417,9 +1405,7 @@
   "TRESS": [
     "GenomicFeatures"
   ],
-  "TSCAN": [
-    "TrajectoryUtils"
-  ],
+  "TSCAN": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -1434,9 +1420,7 @@
     "GenomicFeatures"
   ],
   "TnT": [],
-  "TrajectoryUtils": [],
   "TreeSummarizedExperiment": [],
-  "UCell": [],
   "UMI4Cats": [
     "regioneR",
     "BSgenome",
@@ -1450,8 +1434,7 @@
   "Ularcirc": [
     "BSgenome",
     "GenomicFeatures",
-    "Organism.dplyr",
-    "plotgardener"
+    "Organism.dplyr"
   ],
   "Uniquorn": [
     "VariantAnnotation",
@@ -1844,7 +1827,6 @@
   ],
   "condiments": [
     "slingshot",
-    "TrajectoryUtils",
     "distinct",
     "scater",
     "scuttle"
@@ -2139,7 +2121,6 @@
   ],
   "escape": [
     "GSVA",
-    "UCell",
     "SpatialExperiment"
   ],
   "escheR": [
@@ -2432,9 +2413,7 @@
     "GenomicFeatures",
     "TRESS"
   ],
-  "mariner": [
-    "plotgardener"
-  ],
+  "mariner": [],
   "maser": [
     "Gviz",
     "GenomicFeatures",
@@ -2731,7 +2710,6 @@
   "pipeFrame": [
     "BSgenome"
   ],
-  "plotgardener": [],
   "podkat": [
     "BSgenome"
   ],
@@ -2941,8 +2919,7 @@
   ],
   "scQTLtools": [],
   "scRNAseqApp": [
-    "slingshot",
-    "TrajectoryUtils"
+    "slingshot"
   ],
   "scReClassify": [],
   "scRepertoire": [],
@@ -3083,7 +3060,6 @@
     "zinbwave",
     "scDblFinder",
     "TSCAN",
-    "TrajectoryUtils",
     "scuttle",
     "zellkonverter",
     "GenomicFeatures",
@@ -3103,9 +3079,7 @@
     "lumi"
   ],
   "slalom": [],
-  "slingshot": [
-    "TrajectoryUtils"
-  ],
+  "slingshot": [],
   "smoothclust": [
     "SpatialExperiment"
   ],
@@ -3256,8 +3230,7 @@
     "VariantAnnotation"
   ],
   "tradeSeq": [
-    "slingshot",
-    "TrajectoryUtils"
+    "slingshot"
   ],
   "transcriptR": [
     "chipseq",

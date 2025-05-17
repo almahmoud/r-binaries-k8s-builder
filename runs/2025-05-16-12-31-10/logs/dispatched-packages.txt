@@ -1700,3 +1700,7 @@ nullranges
 openCyto
 plotgardener
 plyinteractions
+SCArray.sat
+TSCAN
+mariner
+slingshot
