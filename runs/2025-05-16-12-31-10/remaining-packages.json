@@ -1,19 +1,13 @@
 {
   "ATACseqQC": [],
-  "AgiMicroRna": [],
   "AneuFinder": [],
-  "CAGEr": [],
   "ChAMP": [
-    "DMRcate",
-    "wateRmelon",
-    "missMethyl"
+    "DMRcate"
   ],
   "ChIPseqR": [
     "HilbertVis"
   ],
-  "DMRcate": [
-    "missMethyl"
-  ],
+  "DMRcate": [],
   "DaMiRseq": [],
   "EpiCompare": [],
   "GARS": [
@@ -26,12 +20,8 @@
   "MAGAR": [
     "RnBeads"
   ],
-  "MEAL": [
-    "missMethyl"
-  ],
-  "MEAT": [
-    "wateRmelon"
-  ],
+  "MEAL": [],
+  "MEAT": [],
   "NADfinder": [
     "ATACseqQC"
   ],
@@ -44,9 +34,7 @@
   "RbowtieCuda": [],
   "RedisParam": [],
   "RnBeads": [],
-  "bigmelon": [
-    "wateRmelon"
-  ],
+  "bigmelon": [],
   "cisPath": [],
   "cn.farms": [],
   "genoCN": [],
@@ -54,16 +42,10 @@
   "gpuMagic": [],
   "graper": [],
   "hypeR": [],
-  "methylGSA": [
-    "missMethyl"
-  ],
-  "missMethyl": [],
+  "methylGSA": [],
   "rGADEM": [],
   "ramr": [],
   "signeR": [],
-  "skewr": [
-    "wateRmelon"
-  ],
-  "trigger": [],
-  "wateRmelon": []
+  "skewr": [],
+  "trigger": []
 }

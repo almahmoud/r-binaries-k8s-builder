@@ -2268,3 +2268,7 @@ arrayMvout
 geomeTriD
 iCheck
 MineICA
+AgiMicroRna
+CAGEr
+missMethyl
+wateRmelon
