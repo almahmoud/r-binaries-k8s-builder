@@ -368,10 +368,7 @@
   "EDASeq": [
     "GenomicFeatures"
   ],
-  "EDIRquery": [],
-  "EGSEA": [
-    "GSVA"
-  ],
+  "EGSEA": [],
   "ELMER": [
     "GenomicFeatures",
     "Gviz",
@@ -463,7 +460,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "GSVA": [],
   "GUIDEseq": [
     "CRISPRseek",
     "ChIPpeakAnno",
@@ -702,7 +698,6 @@
     "GenomicFeatures"
   ],
   "Motif2Site": [],
-  "MotifPeeker": [],
   "MsExperiment": [],
   "MsQuality": [
     "MsExperiment"
@@ -911,7 +906,6 @@
     "scran",
     "scuttle"
   ],
-  "Repitools": [],
   "ReportingTools": [
     "ggbio",
     "biovizBase",
@@ -1044,7 +1038,6 @@
     "DropletUtils",
     "scuttle"
   ],
-  "SparseSignatures": [],
   "SpatialExperimentIO": [
     "DropletUtils",
     "scuttle"
@@ -1070,9 +1063,7 @@
   "TAPseq": [
     "GenomicFeatures"
   ],
-  "TBSignatureProfiler": [
-    "GSVA"
-  ],
+  "TBSignatureProfiler": [],
   "TCGAutils": [
     "GenomicFeatures"
   ],
@@ -1254,7 +1245,6 @@
     "TreeSummarizedExperiment",
     "maaslin3"
   ],
-  "betaHMM": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -1344,7 +1334,6 @@
     "scuttle"
   ],
   "cellbaseR": [],
-  "cfDNAPro": [],
   "chevreulPlot": [
     "chevreulProcess",
     "scater",
@@ -1442,9 +1431,7 @@
     "GenomicFeatures",
     "RUVSeq"
   ],
-  "consensusOV": [
-    "GSVA"
-  ],
+  "consensusOV": [],
   "conumee": [
     "minfi",
     "bumphunter",
@@ -1674,9 +1661,7 @@
     "TFBSTools",
     "motifmatchr"
   ],
-  "escape": [
-    "GSVA"
-  ],
+  "escape": [],
   "fCCAC": [],
   "factR": [
     "GenomicFeatures"
@@ -1853,7 +1838,6 @@
   "lisaClust": [
     "spicyR"
   ],
-  "lpNet": [],
   "lumi": [
     "methylumi",
     "GenomicFeatures",
@@ -2084,21 +2068,16 @@
   "octad": [
     "RUVSeq",
     "EDASeq",
-    "GSVA",
     "GenomicFeatures"
   ],
-  "oppar": [
-    "GSVA"
-  ],
+  "oppar": [],
   "pRolocGUI": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools"
   ],
   "partCNV": [],
-  "pathMED": [
-    "GSVA"
-  ],
+  "pathMED": [],
   "pathlinkR": [],
   "pcaExplorer": [
     "mosdef",
@@ -2115,7 +2094,6 @@
     "scater",
     "scuttle"
   ],
-  "podkat": [],
   "poem": [],
   "preciseTAD": [
     "rCGH",
@@ -2256,7 +2234,6 @@
     "scuttle"
   ],
   "scFeatures": [
-    "GSVA",
     "ensembldb",
     "SingleCellSignalR",
     "GenomicFeatures",
@@ -2373,7 +2350,6 @@
   "signifinder": [
     "consensusOV",
     "ensembldb",
-    "GSVA",
     "GenomicFeatures"
   ],
   "simPIC": [
@@ -2382,7 +2358,6 @@
   "singleCellTK": [
     "batchelor",
     "ensembldb",
-    "GSVA",
     "scater",
     "scMerge",
     "scran",

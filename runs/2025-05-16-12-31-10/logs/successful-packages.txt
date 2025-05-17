@@ -1675,3 +1675,12 @@ ORFhunteR
 scider
 smoppix
 tpSVG
+betaHMM
+cfDNAPro
+EDIRquery
+GSVA
+lpNet
+MotifPeeker
+podkat
+Repitools
+SparseSignatures

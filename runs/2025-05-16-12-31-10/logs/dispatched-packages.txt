@@ -1839,3 +1839,9 @@ spicyR
 Prostar
 iCNV
 DiffBind
+EGSEA
+TBSignatureProfiler
+consensusOV
+escape
+oppar
+pathMED
