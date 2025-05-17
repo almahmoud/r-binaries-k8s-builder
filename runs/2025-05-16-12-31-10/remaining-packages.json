@@ -625,7 +625,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "MethReg": [],
   "MethylAid": [
     "minfi",
     "bumphunter",
@@ -986,7 +985,6 @@
     "scuttle"
   ],
   "SpotClean": [],
-  "SpotSweeper": [],
   "Statial": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation",
@@ -1144,7 +1142,6 @@
     "minfi",
     "bumphunter"
   ],
-  "atSNP": [],
   "atena": [
     "GenomicFeatures"
   ],
@@ -1193,7 +1190,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "bnbc": [],
   "bnem": [],
   "borealis": [],
   "branchpointer": [],
@@ -1645,9 +1641,7 @@
     "bumphunter",
     "txdbmaker"
   ],
-  "iSEEfier": [
-    "iSEEu"
-  ],
+  "iSEEfier": [],
   "iSEEpathways": [],
   "iSEEtree": [
     "miaViz",
@@ -1656,7 +1650,6 @@
     "scater",
     "scuttle"
   ],
-  "iSEEu": [],
   "icetea": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -2081,7 +2074,6 @@
     "DropletUtils",
     "scuttle"
   ],
-  "scRepertoire": [],
   "scTreeViz": [
     "epivizr",
     "scran",

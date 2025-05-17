@@ -1753,3 +1753,9 @@ ddPCRclust
 DeMixT
 easyRNASeq
 mbkmeans
+atSNP
+bnbc
+iSEEu
+MethReg
+scRepertoire
+SpotSweeper

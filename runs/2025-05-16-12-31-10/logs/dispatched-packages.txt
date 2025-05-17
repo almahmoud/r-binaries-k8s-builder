@@ -1874,3 +1874,4 @@ pageRank
 tidySpatialExperiment
 tidyomics
 clusterExperiment
+iSEEfier
