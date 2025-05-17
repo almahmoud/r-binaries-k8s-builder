@@ -309,7 +309,6 @@
     "HilbertVis"
   ],
   "ChIPsim": [],
-  "ChromHeatMap": [],
   "ChromSCape": [
     "batchelor",
     "scran",
@@ -383,8 +382,6 @@
     "scuttle"
   ],
   "DExMA": [],
-  "DMCFB": [],
-  "DMCHMM": [],
   "DMRcate": [
     "bsseq",
     "minfi",
@@ -506,7 +503,6 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "ExCluster": [],
   "ExperimentHubData": [
     "AnnotationHubData",
     "GenomicFeatures",
@@ -599,7 +595,6 @@
     "BSgenome",
     "VariantAnnotation"
   ],
-  "GeneBreak": [],
   "GeneStructureTools": [
     "Gviz",
     "BSgenome",
@@ -707,7 +702,6 @@
   "IVAS": [
     "GenomicFeatures"
   ],
-  "IdeoViz": [],
   "InPAS": [
     "BSgenome",
     "cleanUpdTSeq",
@@ -1205,7 +1199,6 @@
   "SARC": [
     "GenomicFeatures"
   ],
-  "SCANVIS": [],
   "SCOPE": [
     "BSgenome"
   ],
@@ -1887,7 +1880,6 @@
     "BSgenome"
   ],
   "dandelionR": [
-    "destiny",
     "miloR"
   ],
   "dar": [
@@ -1944,7 +1936,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "destiny": [],
   "diffHic": [
     "BSgenome"
   ],
@@ -2206,14 +2197,9 @@
     "bumphunter",
     "txdbmaker"
   ],
-  "iSEEde": [],
   "iSEEfier": [
-    "iSEEu",
-    "iSEEhex"
+    "iSEEu"
   ],
-  "iSEEhex": [],
-  "iSEEhub": [],
-  "iSEEindex": [],
   "iSEEpathways": [],
   "iSEEtree": [
     "miaViz",
@@ -2222,9 +2208,7 @@
     "scater",
     "scuttle"
   ],
-  "iSEEu": [
-    "iSEEhex"
-  ],
+  "iSEEu": [],
   "icetea": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -2814,7 +2798,6 @@
     "scuttle"
   ],
   "scQTLtools": [],
-  "scRNAseqApp": [],
   "scRepertoire": [],
   "scTGIF": [],
   "scTensor": [],

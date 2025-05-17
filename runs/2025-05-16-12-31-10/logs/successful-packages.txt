@@ -1567,3 +1567,16 @@ msqrob2
 qsmooth
 scBFA
 zellkonverter
+ChromHeatMap
+destiny
+DMCFB
+DMCHMM
+ExCluster
+GeneBreak
+IdeoViz
+iSEEde
+iSEEhex
+iSEEhub
+iSEEindex
+SCANVIS
+scRNAseqApp
