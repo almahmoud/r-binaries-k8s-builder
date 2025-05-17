@@ -1727,3 +1727,8 @@ scRNAseqApp
 tradeSeq
 BgeeDB
 iSEEu
+CytoMDS
+CytoPipelineGUI
+MICSQTL
+cypress
+rTRMui

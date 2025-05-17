@@ -125,7 +125,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "BgeeDB": [],
   "BindingSiteFinder": [
     "GenomicFeatures"
   ],
@@ -193,7 +192,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "CDI": [],
   "CHETAH": [],
   "CNVfilteR": [
     "regioneR",
@@ -350,14 +348,8 @@
   "CoverageView": [],
   "CrispRVariants": [],
   "CuratedAtlasQueryR": [],
-  "CytoMDS": [
-    "CytoPipeline"
-  ],
-  "CytoML": [],
-  "CytoPipeline": [],
-  "CytoPipelineGUI": [
-    "CytoPipeline"
-  ],
+  "CytoMDS": [],
+  "CytoPipelineGUI": [],
   "DAMEfinder": [
     "VariantAnnotation",
     "bumphunter",
@@ -677,7 +669,6 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "HiTC": [],
   "HicAggR": [],
   "HilbertVis": [],
   "HilbertVisGUI": [
@@ -786,9 +777,7 @@
     "scater",
     "scuttle"
   ],
-  "MICSQTL": [
-    "TOAST"
-  ],
+  "MICSQTL": [],
   "MIRA": [
     "bsseq",
     "BSgenome"
@@ -866,7 +855,6 @@
   "Motif2Site": [
     "BSgenome"
   ],
-  "MotifDb": [],
   "MotifPeeker": [
     "BSgenome"
   ],
@@ -945,7 +933,6 @@
     "GenomicFeatures"
   ],
   "PAA": [],
-  "PAST": [],
   "PICS": [],
   "PING": [
     "PICS",
@@ -1044,7 +1031,6 @@
     "GenomicFeatures"
   ],
   "RITAN": [
-    "BgeeDB",
     "GenomicFeatures",
     "ensembldb"
   ],
@@ -1122,7 +1108,6 @@
   "RegionalST": [
     "scater",
     "BayesSpace",
-    "TOAST",
     "scran",
     "scuttle"
   ],
@@ -1352,7 +1337,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "TOAST": [],
   "TOP": [],
   "TRESS": [
     "GenomicFeatures"
@@ -1735,7 +1719,6 @@
   "clusterExperiment": [
     "mbkmeans"
   ],
-  "clustifyr": [],
   "cn.farms": [],
   "coMethDMR": [
     "bumphunter",
@@ -1858,9 +1841,7 @@
     "BSgenome"
   ],
   "cydar": [],
-  "cypress": [
-    "TOAST"
-  ],
+  "cypress": [],
   "cytofQC": [
     "CATALYST",
     "scater",
@@ -2084,7 +2065,6 @@
     "MSnbase",
     "MsExperiment"
   ],
-  "flowGate": [],
   "flowSpecs": [],
   "flowVS": [],
   "funtooNorm": [
@@ -2454,7 +2434,6 @@
     "BSgenome"
   ],
   "motifbreakR": [
-    "MotifDb",
     "BSgenome",
     "VariantAnnotation",
     "motifStack",
@@ -2673,9 +2652,7 @@
   "rGREAT": [
     "GenomicFeatures"
   ],
-  "rTRMui": [
-    "MotifDb"
-  ],
+  "rTRMui": [],
   "raer": [
     "BSgenome",
     "GenomicFeatures"
@@ -2759,12 +2736,10 @@
     "DropletUtils",
     "scuttle"
   ],
-  "scClassify": [],
   "scDD": [
     "scran",
     "scuttle"
   ],
-  "scDDboost": [],
   "scDataviz": [],
   "scDblFinder": [
     "scran",
@@ -2972,7 +2947,6 @@
   "spatialFDA": [
     "SpatialExperiment"
   ],
-  "spatialHeatmap": [],
   "spatialSimGP": [
     "SpatialExperiment"
   ],
@@ -3095,7 +3069,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tradeSeq": [],
   "transcriptR": [
     "chipseq",
     "GenomicFeatures"
@@ -3183,7 +3156,6 @@
   "webbioc": [
     "annaffy"
   ],
-  "xCell2": [],
   "xcms": [
     "MSnbase",
     "MsExperiment"
