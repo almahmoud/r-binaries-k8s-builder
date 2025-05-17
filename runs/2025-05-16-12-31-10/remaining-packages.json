@@ -1,5 +1,4 @@
 {
-  "ACE": [],
   "AHMassBank": [
     "AnnotationHubData",
     "GenomicFeatures",
@@ -486,7 +485,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "Harshlight": [],
   "HelloRanges": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -1628,7 +1626,6 @@
     "bumphunter",
     "txdbmaker"
   ],
-  "iSEEfier": [],
   "iSEEpathways": [],
   "iSEEtree": [
     "miaViz",
@@ -1734,7 +1731,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "methInheritSim": [],
   "methodical": [
     "annotatr",
     "GenomicFeatures"
@@ -1892,7 +1888,6 @@
     "EDASeq",
     "GenomicFeatures"
   ],
-  "partCNV": [],
   "pathlinkR": [],
   "pcaExplorer": [
     "mosdef",
@@ -1985,7 +1980,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "regionalpcs": [],
   "regutools": [
     "Gviz",
     "GenomicFeatures",

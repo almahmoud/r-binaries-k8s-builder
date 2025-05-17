@@ -1775,3 +1775,9 @@ NanoMethViz
 pageRank
 speckle
 SVP
+ACE
+Harshlight
+iSEEfier
+methInheritSim
+partCNV
+regionalpcs
