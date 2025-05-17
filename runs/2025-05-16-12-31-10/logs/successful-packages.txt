@@ -2096,3 +2096,12 @@ myvariant
 PureCN
 seqCAT
 spillR
+crumblr
+deepSNV
+demuxSNP
+GeneTonic
+katdetectr
+R453Plus1Toolbox
+StructuralVariantAnnotation
+TitanCNA
+tLOH

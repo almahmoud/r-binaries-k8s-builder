@@ -1,4 +1,4 @@
-RESOLVE
-epivizr
-epivizrChart
-musicatk
+GeDi
+mitoClone2
+svaNUMT
+svaRetro

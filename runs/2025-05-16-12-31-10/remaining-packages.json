@@ -103,15 +103,12 @@
     "DaMiRseq"
   ],
   "GUIDEseq": [],
-  "GeDi": [
-    "GeneTonic"
-  ],
+  "GeDi": [],
   "GenVisR": [],
   "GeneStructureTools": [
     "Gviz",
     "biovizBase"
   ],
-  "GeneTonic": [],
   "GenomicFiles": [],
   "GenomicInteractions": [
     "Gviz",
@@ -195,7 +192,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "R453Plus1Toolbox": [],
   "RAIDS": [],
   "REDseq": [],
   "REMP": [],
@@ -259,7 +255,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "StructuralVariantAnnotation": [],
   "TFutils": [
     "GenomicFiles"
   ],
@@ -267,7 +262,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "TitanCNA": [],
   "UPDhmm": [],
   "Ularcirc": [],
   "VCFArray": [
@@ -360,15 +354,12 @@
     "Gviz",
     "biovizBase"
   ],
-  "crumblr": [],
   "cummeRbund": [
     "Gviz",
     "biovizBase"
   ],
   "customProDB": [],
   "deconvR": [],
-  "deepSNV": [],
-  "demuxSNP": [],
   "derfinder": [
     "GenomicFiles"
   ],
@@ -427,7 +418,6 @@
   "karyoploteR": [
     "biovizBase"
   ],
-  "katdetectr": [],
   "lumi": [
     "methylumi"
   ],
@@ -454,9 +444,7 @@
   "missMethyl": [
     "methylumi"
   ],
-  "mitoClone2": [
-    "deepSNV"
-  ],
+  "mitoClone2": [],
   "motifbreakR": [
     "Gviz",
     "biovizBase"
@@ -538,13 +526,8 @@
     "biovizBase"
   ],
   "standR": [],
-  "svaNUMT": [
-    "StructuralVariantAnnotation"
-  ],
-  "svaRetro": [
-    "StructuralVariantAnnotation"
-  ],
-  "tLOH": [],
+  "svaNUMT": [],
+  "svaRetro": [],
   "tadar": [
     "Gviz",
     "biovizBase"
