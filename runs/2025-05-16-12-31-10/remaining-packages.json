@@ -1,5 +1,4 @@
 {
-  "AHMassBank": [],
   "APAlyzer": [],
   "ASpli": [
     "Gviz",
@@ -365,10 +364,7 @@
   "canceR": [],
   "cardelino": [],
   "cbaf": [],
-  "chevreulPlot": [],
-  "chevreulShiny": [
-    "chevreulPlot"
-  ],
+  "chevreulShiny": [],
   "chimeraviz": [
     "Gviz",
     "biovizBase"
@@ -393,7 +389,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "condiments": [],
   "consensusDE": [],
   "conumee": [
     "minfi"

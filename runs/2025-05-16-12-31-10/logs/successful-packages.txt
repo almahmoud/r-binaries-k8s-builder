@@ -2050,3 +2050,6 @@ decontX
 doubletrouble
 GSReg
 miaSim
+AHMassBank
+chevreulPlot
+condiments
