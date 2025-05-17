@@ -2153,3 +2153,11 @@ methylCC
 shinyMethyl
 funtooNorm
 MAIT
+alabaster.vcf
+benchdamic
+deconvR
+ENmix
+GenomicFiles
+methylclock
+mitoClone2
+REMP

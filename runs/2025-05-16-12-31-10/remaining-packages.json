@@ -20,13 +20,11 @@
     "ggbio"
   ],
   "CAGEfightR": [
-    "GenomicFiles",
     "Gviz",
     "GenomicInteractions"
   ],
   "CAGEr": [
     "CAGEfightR",
-    "GenomicFiles",
     "Gviz",
     "GenomicInteractions"
   ],
@@ -68,7 +66,6 @@
   "ELMER": [
     "Gviz"
   ],
-  "ENmix": [],
   "EpiCompare": [],
   "FLAMES": [
     "ggbio"
@@ -81,7 +78,6 @@
   "GeneStructureTools": [
     "Gviz"
   ],
-  "GenomicFiles": [],
   "GenomicInteractions": [
     "Gviz"
   ],
@@ -97,9 +93,7 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "IntEREst": [
-    "GenomicFiles"
-  ],
+  "IntEREst": [],
   "MAGAR": [
     "RnBeads",
     "methylumi"
@@ -137,17 +131,13 @@
   "Pviz": [
     "Gviz"
   ],
-  "QuasR": [
-    "GenomicFiles"
-  ],
+  "QuasR": [],
   "R3CPET": [
     "ggbio"
   ],
-  "REMP": [],
   "RNAAgeCalc": [
     "recount",
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "RNAmodR": [
     "Gviz"
@@ -177,32 +167,24 @@
   ],
   "RnaSeqSampleSize": [
     "recount",
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
-  "Rqc": [
-    "GenomicFiles"
-  ],
+  "Rqc": [],
   "SPLINTER": [
     "Gviz"
   ],
   "SingleMoleculeFootprinting": [
-    "QuasR",
-    "GenomicFiles"
+    "QuasR"
   ],
   "SomaticSignatures": [
     "ggbio"
   ],
-  "TFutils": [
-    "GenomicFiles"
-  ],
+  "TFutils": [],
   "TVTB": [
     "Gviz"
   ],
   "UPDhmm": [],
-  "VCFArray": [
-    "GenomicFiles"
-  ],
+  "VCFArray": [],
   "VariantFiltering": [
     "Gviz"
   ],
@@ -214,15 +196,11 @@
     "ReportingTools",
     "ggbio"
   ],
-  "alabaster": [
-    "alabaster.vcf"
-  ],
-  "alabaster.vcf": [],
+  "alabaster": [],
   "arrayMvout": [
     "lumi",
     "methylumi"
   ],
-  "benchdamic": [],
   "bigmelon": [
     "wateRmelon",
     "methylumi",
@@ -269,30 +247,22 @@
     "Gviz"
   ],
   "customProDB": [],
-  "deconvR": [],
-  "derfinder": [
-    "GenomicFiles"
-  ],
+  "derfinder": [],
   "derfinderPlot": [
     "derfinder",
-    "ggbio",
-    "GenomicFiles"
+    "ggbio"
   ],
   "epimutacions": [
     "Gviz"
   ],
   "epivizrStandalone": [],
-  "erma": [
-    "GenomicFiles"
-  ],
+  "erma": [],
   "ffpe": [
     "lumi",
     "methylumi"
   ],
   "flagme": [],
-  "gDNAx": [
-    "GenomicFiles"
-  ],
+  "gDNAx": [],
   "genoCN": [],
   "geomeTriD": [
     "trackViewer",
@@ -328,12 +298,10 @@
   "methylPipe": [
     "Gviz"
   ],
-  "methylclock": [],
   "methylumi": [],
   "missMethyl": [
     "methylumi"
   ],
-  "mitoClone2": [],
   "motifbreakR": [
     "Gviz"
   ],
@@ -349,20 +317,17 @@
   ],
   "psichomics": [
     "recount",
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "quantro": [],
   "rGADEM": [],
   "ramr": [],
   "recount": [
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "recountmethylation": [],
   "regionReport": [
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "regutools": [
     "Gviz"

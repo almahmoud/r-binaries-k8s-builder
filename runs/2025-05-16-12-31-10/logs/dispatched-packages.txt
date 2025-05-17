@@ -2208,3 +2208,12 @@ singleCellTK
 GA4GHshiny
 circRNAprofiler
 vtpnet
+IntEREst
+QuasR
+Rqc
+TFutils
+VCFArray
+alabaster
+derfinder
+erma
+gDNAx
