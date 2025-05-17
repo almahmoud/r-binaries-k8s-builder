@@ -12,7 +12,6 @@
     "Gviz"
   ],
   "AneuFinder": [],
-  "BASiCStan": [],
   "BOBaFIT": [
     "ggbio"
   ],
@@ -98,11 +97,9 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "IPO": [],
   "IntEREst": [
     "GenomicFiles"
   ],
-  "LOBSTAHS": [],
   "MAGAR": [
     "RnBeads",
     "methylumi"
@@ -233,7 +230,6 @@
     "methylumi",
     "lumi"
   ],
-  "bioCancer": [],
   "biomvRCNS": [
     "Gviz"
   ],
@@ -251,7 +247,6 @@
   "circRNAprofiler": [],
   "cisPath": [],
   "cn.farms": [],
-  "coMethDMR": [],
   "comapr": [
     "Gviz"
   ],
@@ -313,7 +308,6 @@
   "gmapR": [],
   "gpuMagic": [],
   "graper": [],
-  "gwasurvivr": [],
   "hypeR": [],
   "iCheck": [
     "lumi",
@@ -361,7 +355,6 @@
   "primirTSS": [
     "Gviz"
   ],
-  "profileplyr": [],
   "psichomics": [
     "recount",
     "derfinder",

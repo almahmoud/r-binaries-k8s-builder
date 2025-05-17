@@ -2137,3 +2137,10 @@ REDseq
 scoreInvHap
 vulcan
 GUIDEseq
+BASiCStan
+bioCancer
+coMethDMR
+gwasurvivr
+IPO
+LOBSTAHS
+profileplyr
