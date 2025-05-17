@@ -59,7 +59,6 @@
     "PICS"
   ],
   "PhenStat": [],
-  "R3CPET": [],
   "RNAAgeCalc": [
     "recount"
   ],
@@ -73,11 +72,7 @@
   "RnaSeqSampleSize": [
     "recount"
   ],
-  "SomaticSignatures": [],
-  "VariantFiltering": [],
-  "YAPSA": [
-    "SomaticSignatures"
-  ],
+  "YAPSA": [],
   "affycoretools": [
     "ReportingTools"
   ],
@@ -88,7 +83,6 @@
     "wateRmelon",
     "lumi"
   ],
-  "cageminer": [],
   "chimeraviz": [],
   "cicero": [],
   "cisPath": [],
@@ -132,7 +126,6 @@
   "methylPipe": [],
   "missMethyl": [],
   "motifbreakR": [],
-  "msgbsR": [],
   "multicrispr": [],
   "primirTSS": [],
   "psichomics": [
@@ -145,7 +138,6 @@
   "regutools": [],
   "saseR": [],
   "scTreeViz": [],
-  "scruff": [],
   "signeR": [],
   "skewr": [
     "wateRmelon",

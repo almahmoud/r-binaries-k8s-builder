@@ -2210,3 +2210,9 @@ Damsel
 intansv
 RiboProfiling
 SingleMoleculeFootprinting
+cageminer
+msgbsR
+R3CPET
+scruff
+SomaticSignatures
+VariantFiltering

@@ -18,3 +18,4 @@ DaMiRseq
 EpiCompare
 ATACseqQC
 signeR
+gmapR
