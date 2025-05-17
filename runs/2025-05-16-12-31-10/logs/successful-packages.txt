@@ -1483,3 +1483,16 @@ sevenC
 sRACIPE
 syntenet
 tidyCoverage
+ASURAT
+CellBench
+chipenrich
+CTexploreR
+DifferentialRegulation
+GloScope
+LoomExperiment
+moanin
+PDATK
+projectR
+r3Cseq
+scAnnotatR
+wiggleplotr

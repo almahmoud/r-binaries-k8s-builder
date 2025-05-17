@@ -12,7 +12,6 @@
     "BSgenome"
   ],
   "APL": [],
-  "ASURAT": [],
   "ASpli": [
     "GenomicFeatures",
     "Gviz",
@@ -250,11 +249,9 @@
   "CTSV": [
     "SpatialExperiment"
   ],
-  "CTexploreR": [],
   "CatsCradle": [
     "SpatialExperiment"
   ],
-  "CellBench": [],
   "CellMixS": [
     "scater",
     "scuttle"
@@ -470,7 +467,6 @@
     "GreyListChIP",
     "BSgenome"
   ],
-  "DifferentialRegulation": [],
   "Dino": [
     "scran",
     "scuttle"
@@ -683,7 +679,6 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "GloScope": [],
   "GmicR": [],
   "GreyListChIP": [
     "BSgenome"
@@ -775,7 +770,6 @@
     "MSnbase",
     "MsExperiment"
   ],
-  "LoomExperiment": [],
   "M3Drop": [
     "scater",
     "scuttle"
@@ -996,7 +990,6 @@
   ],
   "PAA": [],
   "PAST": [],
-  "PDATK": [],
   "PICS": [],
   "PING": [
     "PICS",
@@ -1754,7 +1747,6 @@
     "scater",
     "scran",
     "scuttle",
-    "wiggleplotr",
     "batchelor",
     "ensembldb",
     "GenomicFeatures"
@@ -1770,7 +1762,6 @@
   "chevreulShiny": [
     "chevreulProcess",
     "chevreulPlot",
-    "wiggleplotr",
     "scater",
     "scran",
     "scuttle",
@@ -1786,7 +1777,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "chipenrich": [],
   "chipseq": [],
   "chromVAR": [
     "TFBSTools",
@@ -2169,8 +2159,7 @@
     "BSgenome"
   ],
   "factR": [
-    "GenomicFeatures",
-    "wiggleplotr"
+    "GenomicFeatures"
   ],
   "fcScan": [
     "VariantAnnotation",
@@ -2581,7 +2570,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "moanin": [],
   "mogsa": [],
   "monaLisa": [
     "BSgenome",
@@ -2789,7 +2777,6 @@
     "rGREAT",
     "chipseq"
   ],
-  "projectR": [],
   "psichomics": [
     "recount",
     "derfinder",
@@ -2819,7 +2806,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "r3Cseq": [],
   "rCGH": [
     "GenomicFeatures"
   ],
@@ -2914,7 +2900,6 @@
     "VariantAnnotation"
   ],
   "satuRn": [],
-  "scAnnotatR": [],
   "scBFA": [
     "zinbwave"
   ],
@@ -3374,7 +3359,6 @@
   "webbioc": [
     "annaffy"
   ],
-  "wiggleplotr": [],
   "xCell2": [],
   "xcms": [
     "MSnbase",

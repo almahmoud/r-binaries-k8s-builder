@@ -1,8 +1,0 @@
-PeacoQC
-XDE
-flowStats
-ggcyto
-nullranges
-openCyto
-plotgardener
-plyinteractions
