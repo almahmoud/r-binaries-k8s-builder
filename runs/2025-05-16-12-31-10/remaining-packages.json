@@ -197,7 +197,6 @@
     "GenomicFeatures"
   ],
   "CTSV": [],
-  "CatsCradle": [],
   "CellMixS": [
     "scater",
     "scuttle"
@@ -658,7 +657,6 @@
     "scran",
     "scuttle"
   ],
-  "MSPrep": [],
   "MSnID": [
     "msmsTests"
   ],
@@ -774,7 +772,6 @@
   "PLSDAbatch": [
     "TreeSummarizedExperiment"
   ],
-  "PROPS": [],
   "PhenStat": [],
   "Prostar": [],
   "ProteoDisco": [
@@ -970,13 +967,11 @@
   "SARC": [
     "GenomicFeatures"
   ],
-  "SCOPE": [],
   "SEraster": [],
   "SGCP": [],
   "SGSeq": [
     "GenomicFeatures"
   ],
-  "SICtools": [],
   "SMITE": [
     "goseq",
     "GenomicFeatures",
@@ -1046,7 +1041,6 @@
     "DropletUtils",
     "scuttle"
   ],
-  "SpliceWiz": [],
   "SplicingGraphs": [
     "GenomicFeatures"
   ],
@@ -1960,7 +1954,6 @@
     "TreeSummarizedExperiment"
   ],
   "miloR": [],
-  "mimager": [],
   "minfi": [
     "bumphunter",
     "GenomicFeatures"
@@ -2094,7 +2087,6 @@
     "scater",
     "scuttle"
   ],
-  "poem": [],
   "preciseTAD": [
     "rCGH",
     "GenomicFeatures"
@@ -2130,7 +2122,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "puma": [],
   "qpgraph": [
     "GenomicFeatures"
   ],
@@ -2342,7 +2333,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "sigFeature": [],
   "signeR": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -2424,8 +2414,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "stJoincount": [],
-  "stageR": [],
   "standR": [
     "RUVSeq",
     "EDASeq",

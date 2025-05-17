@@ -1684,3 +1684,15 @@ MotifPeeker
 podkat
 Repitools
 SparseSignatures
+CatsCradle
+mimager
+MSPrep
+poem
+PROPS
+puma
+SCOPE
+SICtools
+sigFeature
+SpliceWiz
+stageR
+stJoincount
