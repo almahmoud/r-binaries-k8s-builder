@@ -200,7 +200,6 @@
     "txdbmaker"
   ],
   "DeconvoBuddies": [],
-  "DegCre": [],
   "DegNorm": [
     "txdbmaker"
   ],
@@ -307,7 +306,6 @@
   "GenomicFiles": [
     "VariantAnnotation"
   ],
-  "GenomicInteractionNodes": [],
   "GenomicInteractions": [
     "Gviz",
     "ensembldb",
@@ -751,7 +749,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "airpart": [],
   "alabaster": [
     "alabaster.vcf",
     "VariantAnnotation"
@@ -874,7 +871,6 @@
   "cliqueMS": [
     "xcms"
   ],
-  "clustSIGNAL": [],
   "cn.farms": [],
   "coMethDMR": [
     "bumphunter"
@@ -892,9 +888,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "condiments": [
-    "distinct"
-  ],
+  "condiments": [],
   "consensusDE": [
     "ensembldb",
     "RUVSeq"
@@ -949,7 +943,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "cydar": [],
   "cytofQC": [
     "CATALYST"
   ],
@@ -994,7 +987,6 @@
   "diffUTR": [
     "ensembldb"
   ],
-  "distinct": [],
   "dmrseq": [
     "bumphunter",
     "annotatr"
