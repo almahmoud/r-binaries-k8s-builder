@@ -4,7 +4,6 @@
     "affycoretools",
     "ReportingTools"
   ],
-  "AllelicImbalance": [],
   "AneuFinder": [],
   "BOBaFIT": [],
   "CAFE": [],
@@ -41,7 +40,6 @@
   "GARS": [
     "DaMiRseq"
   ],
-  "GeDi": [],
   "GenomicOZone": [],
   "HiCDCPlus": [],
   "HilbertVis": [],
@@ -93,10 +91,8 @@
   "RnaSeqSampleSize": [
     "recount"
   ],
-  "SPLINTER": [],
   "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [],
-  "TVTB": [],
   "VariantFiltering": [],
   "YAPSA": [
     "SomaticSignatures"
@@ -111,7 +107,6 @@
     "wateRmelon",
     "lumi"
   ],
-  "biomvRCNS": [],
   "cageminer": [],
   "chimeraviz": [],
   "cicero": [],
