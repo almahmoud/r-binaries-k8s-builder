@@ -2206,3 +2206,7 @@ CopyNumberPlots
 ELMER
 GenomicOZone
 RNAmodR
+Damsel
+intansv
+RiboProfiling
+SingleMoleculeFootprinting

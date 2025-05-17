@@ -1,5 +1,0 @@
-CNVfilteR
-CNViz
-RNAmodR.AlkAnilineSeq
-RNAmodR.ML
-RNAmodR.RiboMethSeq
