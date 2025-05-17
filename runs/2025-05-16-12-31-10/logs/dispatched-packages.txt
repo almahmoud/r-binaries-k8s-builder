@@ -1712,3 +1712,8 @@ clusterSeq
 multistateQTL
 riboSeqR
 segmentSeq
+CytoML
+CytoPipeline
+flowGate
+flowVS
+scBFA
