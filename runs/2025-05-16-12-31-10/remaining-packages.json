@@ -192,10 +192,8 @@
     "ggbio",
     "biovizBase"
   ],
-  "RAIDS": [],
   "REDseq": [],
   "REMP": [],
-  "RESOLVE": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -220,7 +218,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "RareVariantVis": [],
   "RbowtieCuda": [],
   "RedisParam": [],
   "ReportingTools": [
@@ -271,7 +268,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "VariantTools": [],
   "YAPSA": [
     "SomaticSignatures",
     "ggbio",

@@ -2105,3 +2105,7 @@ R453Plus1Toolbox
 StructuralVariantAnnotation
 TitanCNA
 tLOH
+RAIDS
+RareVariantVis
+RESOLVE
+VariantTools
