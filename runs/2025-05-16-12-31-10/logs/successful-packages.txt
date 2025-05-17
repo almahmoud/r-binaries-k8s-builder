@@ -2264,3 +2264,7 @@ compEpiTools
 crisprShiny
 ffpe
 motifbreakR
+arrayMvout
+geomeTriD
+iCheck
+MineICA

@@ -32,7 +32,6 @@
   "MEAT": [
     "wateRmelon"
   ],
-  "MineICA": [],
   "NADfinder": [
     "ATACseqQC"
   ],
@@ -45,19 +44,16 @@
   "RbowtieCuda": [],
   "RedisParam": [],
   "RnBeads": [],
-  "arrayMvout": [],
   "bigmelon": [
     "wateRmelon"
   ],
   "cisPath": [],
   "cn.farms": [],
   "genoCN": [],
-  "geomeTriD": [],
   "gmapR": [],
   "gpuMagic": [],
   "graper": [],
   "hypeR": [],
-  "iCheck": [],
   "methylGSA": [
     "missMethyl"
   ],
