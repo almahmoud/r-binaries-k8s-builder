@@ -2260,3 +2260,7 @@ crisprVerse
 psichomics
 RNAmodR.ML
 RNAmodR.RiboMethSeq
+compEpiTools
+crisprShiny
+ffpe
+motifbreakR

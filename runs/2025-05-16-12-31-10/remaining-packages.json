@@ -51,9 +51,6 @@
   ],
   "cisPath": [],
   "cn.farms": [],
-  "compEpiTools": [],
-  "crisprShiny": [],
-  "ffpe": [],
   "genoCN": [],
   "geomeTriD": [],
   "gmapR": [],
@@ -65,7 +62,6 @@
     "missMethyl"
   ],
   "missMethyl": [],
-  "motifbreakR": [],
   "rGADEM": [],
   "ramr": [],
   "signeR": [],
